@@ -91,7 +91,7 @@ This node will execute an animation once and return when it finishes. You can cu
 
 # Play child animation connected to "shot" port. animation\_tree.set("parameters/One Shot/request", Animation Node One Shot. ONE\_SHOT\_REQUEST\_FIRE)
 
-```
+
  # Alternative syntax (same result).
  animation_tree["parameters/One Shot/request"] = 
 Animation Node One Shot. ONE_SHOT_REQUEST_FIRE
@@ -136,7 +136,7 @@ animation\_tree["parameters/Time Seek/seek\_request"] = 0.0
 
 .. code-tab:: csharp
 
-```
+
  // Play child animation from the start.
  animation Tree. Set("parameters/Time Seek/seek_request", 
 0.0);
@@ -160,7 +160,7 @@ This node is a simplified version of a State Machine. You connect animations to 
 
 ## .. code-tab:: gdscript GDScript
 
-```
+
  # Play child animation connected to "state_2" port.
  animation_tree.set("parameters/Transition/
 transition_request", "state_2")
@@ -171,7 +171,7 @@ transition_request", "state_2")
 
 # Get current state name (read-only). animation\_tree.get("parameters/Transition/current\_state")
 
-```
+
  # Alternative syntax (same result).
  animation_tree["parameters/Transition/current_state"]
  # Get current state index (read-only).
@@ -268,7 +268,7 @@ One of the nice features in Godot's State Machine implementation is the ability 
 
 To use the travel ability, you should first retrieve the [:ref:`Animation Node State Machine Playback](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id5) [<class\\_Animation Node State Machine Playback>`](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id5) object from the Animation Tree node (it is exported as a property), and then call one of its many functions:
 
-```
+
 .. tabs::
 ## ```
 
@@ -346,7 +346,7 @@ Afterwards, the actual motion can be retrieved via the [:ref:`Animation Tree <cl
 
 ## .. code-tab:: gdscript GDScript
 
-```
+
  # Get the motion delta.
  animation_tree.get_root_motion_position()
  animation_tree.get_root_motion_rotation()
@@ -359,7 +359,7 @@ Afterwards, the actual motion can be retrieved via the [:ref:`Animation Tree <cl
 
 // Get the motion delta. animation Tree. Get Root Motion Position();
 
-```
+
  animation Tree. Get Root Motion Rotation();
  animation Tree. Get Root Motion Scale();
 ## ```

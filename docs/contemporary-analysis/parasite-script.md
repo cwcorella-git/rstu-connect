@@ -4542,7 +4542,7 @@ Ki-Woo hurriedly switches his phone to silence mode. Ki-Tek and Ki-Jung do the s
 
 ## Da-Hae's text messages crowd Ki-Woo's screen --
 
-```
+
 / SMH Da-Song's crazy raindance
 / I hate my brother
 / Totes saw this coming. Started losing his shit at camp

@@ -2419,7 +2419,7 @@ Let's go back to the proposals around which relationship anarchy revolves: mutua
 
 Interestingly, the recent craze to identify dependencies or "addictions" in almost any continual, repeated behavior (sometimes there are just things we like to do, that's all) hasn't reached relationships, nor will it, to the extent that they operate as a culturally accepted behavior. Similarly, we'll find that the practice of reading before bedtime is not popularly identified as an addiction (in terms of the "pop psychology" we'll see in the checkout line at the grocery store). It's precisely because it constitutes a valued, cherished pastime in cultured spheres — meaning it is a hegemonic trait. Still, according to the responses to a standard test, it could meet certain criteria associated with addictions:
 
-```
+
 "Do you do it every day?"
 "Yes, every day."
 'Does it affect your daily life?"

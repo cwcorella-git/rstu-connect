@@ -14,7 +14,7 @@ tags:
 
 ![Figure from page 1](images/page_001_content/img-000.jpg) Reno-Sparks Tenants Union
        Town Hall
-``` About us We are the Reno-Sparks Tenants Union, a tenant organization fighting for safe
+
       and secure housing for all in the
         Reno-Sparks area. We are an
       organization run by tenants, for

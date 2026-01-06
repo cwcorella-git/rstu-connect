@@ -28,7 +28,7 @@ title: "Picking Fights Seventeen Years of Organizing in the Seattle Solidarity N
 
 ### Extracted Text
 
-``` Picking Fights: Seventeen Years of Organizing in the Seattle Solidarity Network Date: Unknown Source: https://libcom.org/article/picking-fights-seventeen-years-organizing-seattle-solidarity-network Tags: Seattle Solidarity Network, Seattle, Industrial Workers of the World (IWW), CrimethInc.
+
 
 
 
@@ -55,7 +55,7 @@ There’s a twinge of nervous energy down your neck and a pinch of hunger in you
 
 ### Extracted Text
 
-``` You know from the mobilization email that there’s a restaurant nearby. It’s at an intersection, next to a gas station, across the street from a strip mall. You also know the restaurant’s owners are petty, entitled, and completely obnoxious. They fired somebody from the kitchen for bogus reasons and now they’re refusing to hand over that person’s final paycheck. It’s not much for the bosses—a few hundred dollars—but it’s devastating for the person fired, who has rent and other bills to pay. They’re still looking for their next job. And you can relate. You’ve worked at places like this, for people like this, and they took advantage of you like this. Again, there’s the feeling of familiarity.
+
 
 
 
@@ -82,7 +82,7 @@ SeaSol was started with only the most essential anarchist ideological positions.
 
 ### Extracted Text
 
-``` SeaSol is a mutual support organization. We use collective direct action to fight for workers’ and tenants’ specific demands. These demands typically address stolen wages, stolen deposits, unsafe working conditions, landlords refusing to make repairs, and discrimination. Unlike service organizations, the expectation is that those who take on a fight will join the organization and show up at other people’s fights as they are able.
+
 
 
 
@@ -113,7 +113,7 @@ Mickey ```
 
 ### Extracted Text
 
-``` SeaSol started out of a series of conversations among comrades at a time when the anti-globalization and anti-war movements were on their last legs. Many of us had been politicized in the anti-war movement or immediately before that during the anti-glob summit protests. We shared a common critique of the ineffectiveness of the activist culture that these two movements were organized around. We felt that this activist culture was alienating to proletarians by design, ineffective at bringing anarchism to the masses, and ineffective at winning struggles against capitalists. To address these problems, we wanted to build a worker-focused project that made anarchism practical and pragmatic to proletarians. We were motivated by historical expressions of anarchism in the old workers movement as well as more recent iterations of anti-state proletarian activity.
+
 
 
 
@@ -144,7 +144,7 @@ SeaSol believed in the IWW motto, “an injury to one is an injury to all,” an
 
 ### Extracted Text
 
-``` Matt
+
 
 
 
@@ -167,7 +167,7 @@ As an attempt to avoid these problems, we discussed more promising movements: th
 
 ### Extracted Text
 
-``` effective strategy rather than moral force; realistic opposition to targets we could actually overcome; and an approach that placed us in direct conflict with the powerful interests in society rather than one that sought to create an alternative but coexisting culture. SeaSol is itself partially a product of the crisis—without the low pay, unstable jobs, landlords trying to cut corners, and high unemployment, perhaps the group would not have generated the interest and momentum to keep going.
+
 
 
 
@@ -202,7 +202,7 @@ Llama ```
 
 ### Extracted Text
 
-``` There’s so much leftist organizing and electoralism, it’s really refreshing to be involved in direct action that wins fights, even if they are small. And having success when our city (like all cities) is in the midst of constant sweeps and cuts to services.
+
 
 
 
@@ -241,7 +241,7 @@ SeaSol did two things. One: it directly addressed the practical problems of wage
 
 ### Extracted Text
 
-``` from normal people democratically organizing themselves. It played a role in building capacity and consciousness that intermediaries like nonprofits and law firms—and most unions—couldn’t. In the context of precarious employment, alienation, and cultural amnesia, SeaSol was a transformation of the anti-capitalist energy that had, in an earlier era, been directed into the formal workers’ movement and left-wing political parties. It was a way to take action where we were, a hopeful starting point for something bigger.
+
 
 
 
@@ -280,7 +280,7 @@ As direct action mutual aid, I think it works pretty well. Sure, we are not disr
 
 ### Extracted Text
 
-``` Experience in direct action: this can be really scary, but really powerful to participate in. Seasol organizes to help ensure numbers so that actions are safe (as much as feasible, obviously).Facilitating meetings is a skill.Internet research on people, organizations, laws.The (in)effectiveness of The System.Engaging with passersby at pickets.How to talk to cops and bosses (Don’t! But if you do…).Hearing about how people did all the “right things” and can still get screwed over with no real recourse.
+
 
 
 
@@ -311,7 +311,7 @@ Doing work with SeaSol provides a way better working-class political education t
 
 ### Extracted Text
 
-``` philosopher’s opinion in a book, is very different. SeaSol learning is not just an idea you entertain, but something you confidently know and are ready to convince others of.
+
 
 
 
@@ -342,7 +342,7 @@ I first attended a SeaSol action around 2010. I was visiting Seattle from out of
 
 ### Extracted Text
 
-``` Even when unionization opportunities are present, we often lack the skill, consciousness, and group cohesion to take advantage of them.
+
 
 
 
@@ -377,7 +377,7 @@ It felt like a meaningful disengagement from appealing to electoral politics for
 
 ### Extracted Text
 
-``` There was also always an acute focus on the model, following the chain of escalation, etc. I think it would be fair to characterize the model and the effectiveness of actions as one of the topmost priorities for SeaSol. This can be a double-edged sword, because any form of dogmatic adherence to something can create the kind of structural rigidity that ultimately ossifies and kills a project. SeaSol mitigated that particular risk by placing an emphasis on debriefing after every action and acting on issues identified in those spaces. […]
+
 
 
 
@@ -408,7 +408,7 @@ Javabean ```
 
 ### Extracted Text
 
-``` There is often a tendency for leftist organizations to see themselves as institutions of political theory that view struggle as secondary to politics, dedicating an excessive amount of time to discussing theory in groups in an attempt to create a singular, cohesive political identity.
+
 
 
 
@@ -443,7 +443,7 @@ Lilly ```
 
 ### Extracted Text
 
-``` Once, we were fighting a developer who sat on the board of an environmental NGO. We hoped to get a flyer detailing his racist employment behavior into the hands of as many people attending this NGO board event as possible. They held their event at a restaurant that had limited public sidewalk and a private parking lot, which made it tricky to distribute the flyers. Another organizer and I dressed in our fanciest clothing, hoping the attendees would infer that we had a relationship to the event venue. They did, and every single car stopped to roll down their window and take our flyer.
+
 
 
 
@@ -470,7 +470,7 @@ The Admiral Pub fight was one of my all-time favorites as far as what it showed 
 
 ### Extracted Text
 
-``` Lucio’s nephew, Luis, was active in the fight. We did a lot of pickets for several months at the Admiral Pub, and then at Bourbon Jack’s, another bar Galanti owned in the neighboring town of Kent, Washington. During that picket, the Kent police approached us to ask Luis to talk to Galanti with them.
+
 
 
 
@@ -501,7 +501,7 @@ Fortunately, we were able to assist in ensuring that his family was able to cash
 
 ### Extracted Text
 
-``` David C.
+
 
 
 
@@ -536,7 +536,7 @@ Our theory was that SeaSol might start with ideologically-committed anarchists, 
 
 ### Extracted Text
 
-``` meaningful victories, SeaSol’s direct action casework would attract increasing numbers of people to engage in demonstrations and organizing. The organizing work was supposed to serve both educational and practical ends, deepening and extending the working-class movement against exploitation.
+
 
 
 
@@ -567,7 +567,7 @@ Fundamentally, we must question the degree to which our project has helped devel
 
 ### Extracted Text
 
-``` Is SeaSol vanguardist?Does it engage in substitutionism?Can the model be replicated?Have we successfully navigated race and gender dynamics?Does the model rely too heavily on key organizers and personalities?Are we aiming too small?Is a solidarity network adequate to the problems of capitalism and ecological destruction?Does this lead anywhere?
+
 
 
 
@@ -598,7 +598,7 @@ I do not recall which fight this was, and for all I know it went on to be succes
 
 ### Extracted Text
 
-``` that meeting. While I had always felt respected and appreciated in Seasol, I did not feel like I had the social skills or clout to intervene in a way that would be satisfying in the long term, and mostly stopped going to meetings. In my view, this was an example of the concept of winnability being taken too far: toning down a demand for no concrete reason and at a cost to those workers.
+
 
 
 
@@ -629,7 +629,7 @@ There’s no straightforward answer of when to build an organization and when to
 
 ### Extracted Text
 
-``` To be honest, I think that this question [about what happens when struggles are at a low point] gets right to SeaSol’s biggest weakness, and it can seem existential. When an organization is built on people’s ability to connect and form collective action over material struggle, and it judges its efficacy on its ability to engage and win on that level, then its primary source of energy is those fights.
+
 
 
 
@@ -664,7 +664,7 @@ SeaSol took off and was far more successful than I think any of us initially ima
 
 ### Extracted Text
 
-``` and anti-war movements followed us into SeaSol, such as voluntarism. But we were able to address other challenges successfully through this new hybrid form of class struggle unionism. For example, we were able to recruit workers from a variety of backgrounds to our network, introducing them to a functional and pragmatic anarchism.
+
 
 
 
@@ -691,7 +691,7 @@ Revolutionizing the global labor movement and toppling capitalism is a tall orde
 
 ### Extracted Text
 
-``` Our toolbox of tactics has evolved. We’re really creative, passionate, smart people. What we will do for a $99 fight we believe in is unhinged. We have fought international corporations like Greystar in coordination with other solidarity networks and won. We’ve organized strikes and beaten enormous corporations like Chase Bank that traditional unions wouldn’t dream of touching. SeaSol has also cultivated a tight-knit, positive anarchist community whose members have built lifelong friendships. SeaSolers have strong cross-generational relationships built on real class struggle. Our community fights bosses and landlords together, yes, but we’re also a community of people who care for one another outside of that context. […]
+
 
 
 
@@ -718,7 +718,7 @@ I’d say a majority of people who find out about SeaSol don’t end up taking o
 
 ### Extracted Text
 
-``` My impression is that SeaSol’s default mode of transmitting knowledge is person-to-person, and we could probably make better use of written material and organize it better. For example, anyone can volunteer to be a secretary / facilitator, and new people who have been around for a few weeks are encouraged to do so, but the actual knowledge of how to do it properly is conveyed either through shadowing someone or through SeaSol school, which runs sessions on this topic maybe one or two times per year. I’ve been trying to document the things I was confused about when I joined and I think it’s been helpful.
+
 
 
 
@@ -749,7 +749,7 @@ Regarding unexpected outcomes, it’s the friends you make along the way, right?
 
 ### Extracted Text
 
-``` think fighting gross misconduct in employers and landlords will never go out of style.
+
 
 
 
@@ -792,7 +792,7 @@ Regarding failure, almost ten years after I left the organizing team I would sti
 
 ### Extracted Text
 
-``` grandiose it is to think “I failed” at social revolution. At one point during organizing, it became almost physically painful when people uninvolved in the daily struggle would ask why it wasn’t “scaling” or picking up speed. And honestly? It wasn’t scaling because of the sheer weight of that metaphorical boulder representing an entire economic system, and the innumerable divisions between us in society.
+
 
 
 
@@ -819,7 +819,7 @@ I think it is inarguable that the social context has changed; the Trump years, t
 
 ### Extracted Text
 
-``` However, I would posit that a serious and strategic assessment of the limitations of these moments, which we continually find ourselves running up against, points us back toward the keystone elements of the solidarity network model and what has made it so successful for SeaSol. In this regard, the most important elements of the solidarity network model that I have taken away from it as it can be applied to the current social context are having a geographically-restrictive focus (even when tied to a broader mass social movement), being regenerative in their capacity, and using direct action to target relevant local manifestations of power. […]
+
 
 
 
@@ -850,7 +850,7 @@ Matt ```
 
 ### Extracted Text
 
-``` We were also inspired by the positive reception we got from anarchist and communist groups around the world.
+
 
 
 
@@ -881,7 +881,7 @@ Solidarity networks are a way to blow life into the working class. We want you t
 
 ### Extracted Text
 
-``` Mickey
+
 
 
 
@@ -916,7 +916,7 @@ The picket wraps up and your solidarity network crew does a group go-around, eac
 
 ### Extracted Text
 
-``` yell at the picket line. They can’t imagine the vein on the boss’s forehead can handle another picket like this one.
+
 
 
 

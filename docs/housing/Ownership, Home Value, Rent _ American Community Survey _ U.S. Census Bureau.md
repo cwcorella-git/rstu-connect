@@ -70,7 +70,7 @@ title: "Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bu
 
 ### Extracted Text
 
-```
+
    An oﬃcial website of the United States government Here’s how you know
 
      BACK TO TOPICS PAGE [/ACS/WWW/ABOUT/WHY-WE-ASK-EAC…
@@ -158,7 +158,7 @@ United States
 
 ### Extracted Text
 
-```
+
  Ownership, home value, and rent data help communities:
  Provide Adequate Housing
  We ask about the diﬀerent types of households in a community (single people, couples, families, roommates, etc.)
@@ -226,7 +226,7 @@ The ownership question originated with the 1890 Census, while home value and ren
 
 ### Extracted Text
 
-```
+
 [https://acsdatacommunity.prb.org/]
 
 

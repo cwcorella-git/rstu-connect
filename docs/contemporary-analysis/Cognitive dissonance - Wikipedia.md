@@ -232,7 +232,7 @@ Unit relations – things and people that belong together based on similarity, p
 
 Under balance theory, human beings seek a balanced state of relations among the three positions. This can take the form of three positives or two negatives and one positive:
 
-```
+
 P = you
 O = your child
 X = picture your child drew
@@ -243,7 +243,7 @@ X = picture your child drew
 
 People also avoid unbalanced states of relations, such as three negatives or two positives and one negative:
 
-```
+
 P = you
 O = John
 X = John's dog

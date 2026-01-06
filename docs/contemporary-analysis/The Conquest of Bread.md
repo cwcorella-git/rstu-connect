@@ -1,6 +1,6 @@
 # **Pëtr Kropotkin The Conquest of Bread 1892**
 
-```
+
 Preface
 Chapter 1: Our Riches
  I
@@ -43,7 +43,7 @@ Chapter 9: The Need For Luxury
 Chapter 10: Agreeable Work
 ## ```
 
-```
+
 I
  II
 Chapter 11: Free Agreement

@@ -3322,7 +3322,7 @@ The page numbers in this index refer to the printed version of this book. The li
 
 Note: Page numbers in italics refer to illustrations.
 
-```
+
 abstinence
  binging following, 87
  in DOPAMINE framework, 76–81
@@ -3345,7 +3345,7 @@ Adderall
  dopamine output effected by, 50
 ## ```
 
-```
+
 increasing rates of prescription of, 39
  questions on efficacy of, 130
  risk of addiction to, 129
@@ -3387,7 +3387,7 @@ alcohol
  and disulfiram as means of self-binding, 97–98
 ## ```
 
-```
+
 impact of access on use of, 101
  and naltrexone as means of self-binding, 96
  and physical strategies for self-binding, 94–95
@@ -3429,7 +3429,7 @@ antidepressants
 anxiety
 ## ```
 
-```
+
 of author, 189–90
  and cannabis consumption, 76, 81, 84–85
  clients' experiences with, 31–33, 40–41, 42–43, 71–72, 84–85
@@ -3470,7 +3470,7 @@ blue-collar jobs, 168–69
 boredom, 41, 105–7
 ## ```
 
-```
+
 brain
  and abundance in modern world, 67
  adapted for scarcity, 67
@@ -3511,7 +3511,7 @@ cannabis
  and mindfulness, 81
 ## ```
 
-```
+
 objectives of consumers of, 73–74
  potency of, 22
  and self-binding, 231–32
@@ -3553,7 +3553,7 @@ cigarettes and nicotine
  and Jacob's experience with sex addiction, 13
 ## ```
 
-```
+
 class equality, 30
 classical (Pavlovian) conditioning, 58–62
 club goods, 219–22, 228
@@ -3595,7 +3595,7 @@ cues
 cutting, addiction to, 167
 ## ```
 
-```
+
 data gathering in DOPAMINE framework, 72–73
 deaths
  of despair, 30
@@ -3637,7 +3637,7 @@ dogs, pain-response study of, 145–47
 dopamine
 ## ```
 
-```
+
 dopamine receptors, 48, 56, 56
  function of, 48–49
  identification of, 48
@@ -3679,7 +3679,7 @@ Duragesic fentanyl, 18
 Dutto, Vince, 26–27
 ## ```
 
-```
+
 DXM, 22
 dysphoria, 57
 dysphoria driven relapse, 57
@@ -3719,7 +3719,7 @@ fibromyalgia, 154–55
 Finucane, Tom, 67
 ## ```
 
-```
+
 food
  addiction to, 88, 99–100
  processed, 22
@@ -3759,7 +3759,7 @@ heart rate following pain exposure, 146, 147, 148
 Hebb, Donald, 179
 ## ```
 
-```
+
 hedonic set point, 54, 145
 hedonism, 37, 57
 Hering, Ewald, 53
@@ -3801,7 +3801,7 @@ hormesis, science of, 148–52
 hotel rooms, 17–18
 ## ```
 
-```
+
 Hung, Lin, 184
 Huxley, Aldous, 40
 hydrocodone, 21
@@ -3840,7 +3840,7 @@ Kimmel, Jimmy, 150
 Klonopin, 39, 130
 ## ```
 
-```
+
 Koob, George, 57, 101
 Korea, 39
 Kramer, Peter, 131
@@ -3880,7 +3880,7 @@ medications
  client's experience with, 32–33, 41–44
 ## ```
 
-```
+
 impacts on emotional experience, 131
  and lack of basic self-care mistaken for mental illness, 41–44
  as means of social control, 133–34
@@ -3921,7 +3921,7 @@ National Health Interview Survey, 133
 natural resources, 30
 ## ```
 
-```
+
 Netflix, binge-watching, 44
 neuroadaptation (tolerance), 53–58
 neurons
@@ -3962,7 +3962,7 @@ opioids
  and willingness to help others, 184
 ## ```
 
-```
+
 See also specific drugs, including heroin
 opponent-process theory, 52–53
 optogenetics, 64
@@ -4003,7 +4003,7 @@ pain
  and homeostatic mechanisms, 143–44
 ## ```
 
-```
+
 and hormesis, 148–52
  and increased tolerance to fear, 159–60
  and intermittent fasting, 149–50
@@ -4045,7 +4045,7 @@ pleasure
  pain experienced with, 65
 ## ```
 
-```
+
 pain's ability to trigger, 144–48
  pursuit of, as source of pain, 66–68, 234
  and reward pathways in the brain, 51
@@ -4087,7 +4087,7 @@ Priessnitz, Vincenz, 141–42
 problems in DOPAMINE framework, 74–75
 ## ```
 
-```
+
 Prohibition era, 19
 promises, breaking/keeping, 194–95
 Prozac, 129, 132
@@ -4127,7 +4127,7 @@ reward pathways in the brain, 49
  and denial, 177
 ## ```
 
-```
+
 and learning's impact on dopamine firing, 63–64
  and measuring addictive potential of drugs/behaviors, 49
  oxytocin's role in, 184
@@ -4168,7 +4168,7 @@ self-binding, 89–118
  and creating barriers to drug of choice, 91–92
 ## ```
 
-```
+
 limitations of, 94–95, 113
  and marshmallow experiment at Stanford, 115–16
  as means to freedom, 118
@@ -4210,7 +4210,7 @@ Sirens of Homer's Odysseus, 93, 176
 skydiving, 165
 ## ```
 
-```
+
 sleeve gastrectomy, 99
 smartphones
  addiction to, 88
@@ -4251,7 +4251,7 @@ tobacco use. See cigarettes and nicotine
 tolerance (neuroadaptation), 53–58
 ## ```
 
-```
+
 trading one addiction for another, 79–80, 99
 transcranial direct current stimulation (tDCS), 178
 trauma and social upheaval, 20, 36
@@ -4290,7 +4290,7 @@ withdrawal
  and dopamine fasting, 79, 84
 ## ```
 
-```
+
 and dysphoria driven relapse, 57
  from reading habit, 181
  universal symptoms of, 57

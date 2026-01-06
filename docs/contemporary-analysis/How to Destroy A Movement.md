@@ -1,4 +1,4 @@
-```
+
 0:00
 We live in a society.
 0:02

@@ -1165,7 +1165,7 @@ This relationship might be clarified in terms of a dialectical symbolic logic, w
 
 With *p* representing that (social) state of affairs characterized as "narrow egoism", *~p* representing the state of "altruism", and *~~p* "communist egoism", we can formulate this relation as follows:
 
-```
+
 (~~p # p) & (~~p # ~p) & (p # ~p)
  or simply:
 (p # ~~p # ~p)
@@ -1189,7 +1189,7 @@ We can arrive at a formal-logical version of this model by reduction, specifical
 
 The great advantage of the Dialectical Logic (Fig. 1) is seen concretely by using the interpretation:
 
-```
+
 p: (the) "narrow egoism" (theory) is true of the world.
 ## ```
 

@@ -1013,7 +1013,7 @@ Here are the steps for setting up Light Layers.
 
 This can also be dynamically set in code.
 
-```
+
 Renderer renderer = Get Component<Renderer>();
 int layerID = 1;
 int mask = 1 << layerID;
@@ -1176,7 +1176,7 @@ Another approach is to use Shader Graph to create versions of your custom shader
 
 URP shaders use the [Shader Lab](https://docs.unity3d.com/2021.2/Documentation/Manual/SL-Reference.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=render-with-quality-and-flexibility&utm_content=introduction-to-urp-ebook) structure, as seen in the code snippet below. As such, Property, Sub Shader, Tags, and Pass will all be familiar to shader coders.
 
-```
+
 Sub Shader {
  Tags {"Render Pipeline" = "Universal Pipeline" }
  Pass { 
@@ -1357,7 +1357,7 @@ When writing a shader for URP, it's a good idea to look at the provided shaders 
 
 The Universal Forward and Shadow Caster Passes involve many pragmas and two include files. Examining the code in the include files will help you create the custom version that suits your needs.
 
-```
+
 // Forward pass. Shades all light in a single pass. GI + emission 
 + Fog
 Pass
@@ -1425,7 +1425,7 @@ You can inject scripts in the rendering process via the **Add Renderer Feature**
 
 If you are experimenting with multiple setting assets for different scenes, then attaching the following script to your Main Camera can be useful. Set the **Pipeline Asset** in the Inspector. Then it will switch the asset when the new scene is loaded.
 
-```
+
 using Unity Engine;
 using Unity Engine. Rendering;
 using Unity Engine. Rendering. Universal;
@@ -1507,7 +1507,7 @@ A [Renderer Feature](https://docs.unity3d.com/Packages/com.unity.render-pipeline
 
 3. Add these properties to the **Custom Render Pass** class. The material will contain the shader you apply to the current state of the rendered image.
 
-```
+
 private Material material;
 private Render Target Identifier source;
 private Render Target Handle temp Texture;
@@ -1517,7 +1517,7 @@ private Render Target Handle temp Texture;
 
 4. Add a constructor to the Custom Render Pass to initialize the current rendered source texture and the material to use when processing this texture. You'll also need to initialize a temporary texture to store the result of processing the current Render Texture with your material.
 
-```
+
 public Custom Render Pass(Material material) : base()
 {
 this.material = material;
@@ -1527,7 +1527,7 @@ temp Texture. Init("_Temp Tint Texture");
 
 5. Add a **Set Source** method to initialize the source property of the Custom Render Pass class.
 
-```
+
 public void Set Source(Render Target Identifier source)
 {
 this.source = source;
@@ -1546,7 +1546,7 @@ The Tint Shader Graph Setting the Reference for the texture
 
 7. Add the following code to the **Create** method. This function is called when the Tint Feature is created. It will be used to initialize a new instance of the Custom Render Pass class using a new Material created from the Tint shader. Pass the material to the custom constructor. You also need to set where this feature is used in the render pipeline using the **render Pass Event** property of a **Scriptable Renderer Feature**.
 
-```
+
 var material = new Material(Shader. Find("Shader Graphs/Tint"));
 m_Scriptable Pass = new Custom Render Pass(material);
  m_Scriptable Pass.render Pass Event = Render Pass Event. After Rendering Opaques;
@@ -1554,14 +1554,14 @@ m_Scriptable Pass = new Custom Render Pass(material);
 
 8. Now that you have created an instance of the Custom Render Pass, add it to the render queue. Add the next code snippet in the **Add Render Passes** method. Then set the source to the **renderer.camera Color Target** and enqueue the pass.
 
-```
+
 m_Scriptable Pass. Set Source(renderer.camera Color Target);
 renderer. Enqueue Pass(m_Scriptable Pass);
 ## ```
 
 9. Before the pass can do anything, it needs to get the temporary texture. Add the next code snippet to **On Camera Setup**:
 
-```
+
 Render Texture Descriptor camera Texture Desc =
  rendering Data.camera Data.camera Target Descriptor;
 camera Texture Desc.depth Buffer Bits = 0;
@@ -1570,13 +1570,13 @@ cmd. Get TemporaryRT(temp Texture.id, camera Texture Desc, Filter Mode. Bilinear
 
 10. Since you have a texture, you need to release it. Add this code to **On Camera Cleanup**:
 
-```
+
 cmd. Release TemporaryRT(temp Texture.id);
 ## ```
 
 11. Now that everything is initialized, you can do the actual work of copying the current Render Texture using a material to process the result and passing it back to the source. Add this code to the **Execute** method:
 
-```
+
 Command Buffer cmd = Command Buffer Pool. Get("Tint Feature");
 Blit(cmd, source, temp Texture. Identifier(), material, 0);
 Blit(cmd, temp Texture. Identifier(), source);
@@ -1592,7 +1592,7 @@ Command Buffer Pool. Release(cmd);
 
 13. Here is the complete **Tint Feature code**, with the final result shown in the following code example:
 
-```
+
 using Unity Engine;
 using Unity Engine. Rendering;
 using Unity Engine. Rendering. Universal;
@@ -1637,7 +1637,7 @@ execution of this render pass.
 
 © 2022 Unity Technologies **82 of 125** | unity[.com](https://unity.com/)
 
-```
+
  {
  cmd. Release TemporaryRT(temp Texture.id);
  }
@@ -1673,7 +1673,7 @@ Effect of Tint Feature: unprocessed to the left, tinted on the right
 
 A more flexible option for assigning different materials and controlling where in the render pipeline to add the event is to use a Settings class, as in the following code example. You then use settings.material and settings. render Event in the Create method.
 
-```
+
 [System. Serializable]
 public class Settings
 {
@@ -1795,7 +1795,7 @@ These are the available post-processing effects in URP.
 
 You can also dynamically adjust your post-processing profile using a C# script. The following code example shows how to adjust the intensity of the Bloom effect. If a Vignette is applied, you can control the vignetting color via code. For example, if the player character takes damage, you can temporarily tint it red.
 
-```
+
 using Unity Engine;
 using Unity Engine. Rendering;
 using Unity Engine. Rendering. Universal;
@@ -1856,7 +1856,7 @@ Let's look at how to set this feature up.
 
 As with post-processing, you can control the stack from code, and add or remove cameras dynamically during runtime. See this code example:
 
-```
+
 using Unity Engine;
 using Unity Engine. Rendering. Universal;
 public class Stack Controller : Mono Behaviour
@@ -2295,7 +2295,7 @@ The Profiler window using the low-level native plug-in Profiler API
 
 © 2022 Unity Technologies **122 of 125** | unity[.com](https://unity.com/)
 
-```
+
 #include <IUnity Interface.h>
 #include <IUnity Profiler.h>
 static IUnity Profiler* s_Unity Profiler = NULL;

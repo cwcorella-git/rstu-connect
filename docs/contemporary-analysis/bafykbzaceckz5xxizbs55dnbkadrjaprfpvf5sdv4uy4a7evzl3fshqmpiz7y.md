@@ -2433,7 +2433,7 @@ W ms vsg, usu wy kg sk s u drk s–b yss. Hr ws vsms (ss) d ws bs r xprssd rms p
 
 usr, 's k Hmby Idusrs, dsussd pr 3, d msur yp SROI. Ts s rprs rgs -rsk yu, mg kp m u j d p m bud wrw vs mmuy. I qu gv gur, vsm Hmby mg mu \$200,000 pr yr. L's sy yr rprs kps yug pp u j. T s kpg prs prs pr yr my b smg rdr \$70,000. S mry prxy r w s svd by kpg yug pp u prs r yr s \$700,000. W vsm s ddud, rmdr s \$500,000, d w s mu s dvdd by vsm, SROI rsus s gur 2.5. Ts ms
 
-```
+
 Social or environmental
           return (in $)
 ## Investment

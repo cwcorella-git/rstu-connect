@@ -7879,7 +7879,7 @@ The men looked at each other, and the "come" was repeated, with a smart crack of
 
 <sup>3</sup> A hymn called "Song of Mary" (1601).
 
-```
+
 When shall my sorrows have an end,
 Thy joys when shall—"
 ## ```
@@ -7888,7 +7888,7 @@ Thy joys when shall—"
 
 One of the other men struck up one of those unmeaning songs, common among the slaves.
 
-```
+
 "Mas'r see'd me cotch a coon,
 High boys, high!
 He laughed to split,—d' ye see the moon,
@@ -7898,7 +7898,7 @@ Ho! yo! hi—e! oh!"
 
 The singer appeared to make up the song to his own pleasure, generally hitting on rhyme, without much attempt at reason; and all the party took up the chorus, at intervals,
 
-```
+
 "Ho! ho! ho! boys, ho!
 High—e—oh! high—e—oh!"
 ## ```

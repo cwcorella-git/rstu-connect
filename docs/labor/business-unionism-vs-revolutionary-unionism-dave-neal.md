@@ -28,7 +28,7 @@ title: "Business unionism vs revolutionary unionism - Dave Neal"
 
 ### Extracted Text
 
-``` Business unionism vs revolutionary unionism - Dave Neal Date: Unknown Source: https://libcom.org/article/business-unionism-vs-revolutionary-unionism-dave-neal Tags: Industrial Workers of the World (IWW), unions, syndicalism, AFL-CIO, Dave Neal
+
 
 
 
@@ -63,7 +63,7 @@ Make no mistake: unionism was a powerful, effective social force, and it has alw
 
 ### Extracted Text
 
-``` In the course of the fight for unionism, different schools of thought emerged -- those who looked at the big picture of capitalist society saw that no class peace with Capital was possible; others, unwilling to embrace such a radical, revolutionary agenda, felt that workers and capitalists could reach an understanding of sorts -- these folks became business unionists, represented most notably by unions like the AFL-CIO, the UAW, and the Teamsters.
+
 
 
 
@@ -98,7 +98,7 @@ THE BUSINESS UNION ```
 
 ### Extracted Text
 
-``` What is business unionism? It is, at root, the belief that workers and bosses have common interests, focusing on rhetoric like "getting the job done" and "a fair day's work for a fair day's pay." Business unions function to keep workers working, and profits flowing smoothly into the pockets of business owners. Business unions have long been businesses themselves, with entrenched and powerful bureaucracies, and their conduct over the years has created the image of labor unions as corrupt, inefficient, self-serving agencies (of course, this view is foisted on us by the corporate press, who are by no means neutral or objective in their coverage). Peaking in membership in the 50s, business unions have suffered a long, slow decline since then.
+
 
 
 
@@ -129,7 +129,7 @@ The business union has always revolved around the trade union principle of organ
 
 ### Extracted Text
 
-``` other workers. As such, they organize around a particular profession or trade, thereby dividing workers into manifold smaller unions, focusing exclusively on their particular interests.
+
 
 
 
@@ -168,7 +168,7 @@ Any new radical unionism must organize under the watchful eye of these and other
 
 ### Extracted Text
 
-``` Clearly, the revolutionary union view of the reality of relations between workers and bosses is more accurate than that of the business unionists, as recent history only too clearly shows, in the flood of pink slips and factory relocations which have left a devastated workforce in its wake.
+
 
 
 
@@ -199,7 +199,7 @@ The revolutionary unionist seeks One Big Union, instead of many little ones. The
 
 ### Extracted Text
 
-``` Solidarity is the glue that holds the revolutionary union together, which is both an asset and a liability. It is a liability because it depends on workers closing ranks and working together as a whole, which doesn't always occur. Scabs, or workers who cross the picket line during a strike, are always a threat to organized labor solidarity. Because unions represent large numbers of people, organizing solidarity is a daunting task, and is often unsuccessful. When it works, it works well.THE FUTURE OF LABOR
+
 
 
 
@@ -226,7 +226,7 @@ No amount of bogus empowerment conferences can change the static environment in 
 
 ### Extracted Text
 
-``` Will this continue indefinitely? I don't believe it will. It can't, because working people are being screwed right and left by management, no matter how many happy faces they try to put on their schemes. It simply isn't part of human nature to take it on the chin so many times without wanting to take a few swings yourself. Big Business has had it coming for a long time -- with the State behind them, they've grown arrogant with power, and think they can grind people into the ground with impunity. This can't go on forever.
+
 
 
 
@@ -271,7 +271,7 @@ redsdisease
 
 ### Extracted Text
 
-``` In reply toWelcomebylibcom.org
+
 
 
 
@@ -330,7 +330,7 @@ redsdisease
 
 ### Extracted Text
 
-``` In reply toWelcomebylibcom.org
+
 
 
 

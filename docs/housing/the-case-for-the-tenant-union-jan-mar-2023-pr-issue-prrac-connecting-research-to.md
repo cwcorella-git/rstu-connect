@@ -28,7 +28,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -78,7 +78,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -126,7 +126,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -174,7 +174,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -222,7 +222,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -270,7 +270,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -318,7 +318,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -365,7 +365,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -413,7 +413,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -461,7 +461,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -509,7 +509,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 
@@ -557,7 +557,7 @@ tags:
 
 ### Extracted Text
 
-``` The Case for the Tenant Union (Jan - Mar 2023 P&R Issu...   about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
+
 
 
 

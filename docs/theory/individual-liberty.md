@@ -26,7 +26,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                             https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
 
@@ -88,7 +88,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                         https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                  Property Under Anarchism
@@ -153,7 +153,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                For a number of years practically all of the literature of Individualist
@@ -218,7 +218,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                    https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Radical Review in New Bedford. In the same year he joined the editorial staﬀ
@@ -284,7 +284,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                          https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      August, 1926.
@@ -347,7 +347,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              consideration, though united, as has been hinted above, by the common claim
@@ -412,7 +412,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                 This seems to have been done independently by three diﬀerent men, of
@@ -477,7 +477,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              individual choice.
@@ -542,7 +542,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              his rights, individuality gradually disappears and the government or State
@@ -607,7 +607,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              and of house-rent and ground-rent at as high a point as the necessities of the
@@ -672,7 +672,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              notes as currency. It is claimed that the holders of this privilege control the
@@ -737,7 +737,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              conditions of freedom. But the inequality of soils which gives rise to the
@@ -802,7 +802,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              government is tyranny. Hence the necessity of abolishing the State. This was
@@ -867,7 +867,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                         https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                In the matter of the maintenance and rearing of children the Anarchists
@@ -933,7 +933,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                         https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      One is emotional, the other reﬂective.
@@ -1002,7 +1002,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                            https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      The former threatens with despotism.
@@ -1072,7 +1072,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                         https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      The land to the State
@@ -1139,7 +1139,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              have abolished the concentrations that monopoly has created, the economic
@@ -1203,7 +1203,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              make me somewhat conspicuous as an exponent of the theory of Modern
@@ -1268,7 +1268,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                    https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              the same area by two States is a contradiction. That the ﬁrst element,
@@ -1333,7 +1333,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              with men, the latter may combine to hold him to his agreement; but, in the
@@ -1398,7 +1398,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              no longer on a compulsory but on a voluntary basis, which will restrain
@@ -1464,7 +1464,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                          https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      “This hospital a pious person built,
@@ -1530,7 +1530,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              punishes and rewards. It is in the power of the Eternal to render you happy or
@@ -1595,7 +1595,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              communion of the human race, you become an object of suspicion. Nothing
@@ -1660,7 +1660,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              achieved. Last century Voltaire brought the authority of the supernatural into
@@ -1725,7 +1725,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              though as progressive beings we have plenty of it. But, if we had perfect
@@ -1790,7 +1790,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              point against himself in instancing the Protestant sects that it is really
@@ -1855,7 +1855,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              State cannot disappear until the individual is perfected. In saying which, Mr.
@@ -1920,7 +1920,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              no longer is that it is necessarily un-Anarchistic to use violence, but that other
@@ -1985,7 +1985,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              the word blame. I charge them with committing gross outrage upon the
@@ -2050,7 +2050,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              State originated in aggression Herbert Spencer has proved. If it now pretends
@@ -2115,7 +2115,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              have told Mr. Pentecost, that the believers in equal liberty ask nothing better
@@ -2179,7 +2179,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      Thirty-ﬁve years ago the Personal Rights Journal of London, at that
@@ -2245,7 +2245,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              up to the point necessary to restore freedom to others, but would also coerce
@@ -2310,7 +2310,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              liberty compatible with the equality of liberty. But this maximum of liberty is a
@@ -2375,7 +2375,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      point and was thus answered by Mr. Tucker:
@@ -2441,7 +2441,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              less they would be needed; so that the multiplication of “States” involves the
@@ -2506,7 +2506,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              organism. If it should be destroyed tomorrow, individuals would still continue
@@ -2571,7 +2571,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              seemed the diﬀiculties of freedom of thought two centuries ago. What does he
@@ -2637,7 +2637,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              or divisions of territory, had been brought into the association by these parties
@@ -2702,7 +2702,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              will “compromise with existing circumstances” when we have to; but at all
@@ -2767,7 +2767,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              evolution in the path of economy. Evolution left to itself will sooner or later
@@ -2832,7 +2832,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              exists, force must exist to repress it. Who denies it? Certainly not Liberty;
@@ -2897,7 +2897,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              better than to pay them. We can fancy him replying with pardonable
@@ -2962,7 +2962,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              they shall not gamble or swear; that they shall not sell certain articles at all,
@@ -3027,7 +3027,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Political Class a trick or two by which they can gain numerical supremacy,
@@ -3092,7 +3092,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              completion of self-conscious intelligence or individuality. Each of these
@@ -3157,7 +3157,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              without which all other freedoms are of little or no avail, — the freedom of
@@ -3222,7 +3222,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              the true way of salvation. Why, then, does he not steadily follow it?
@@ -3287,7 +3287,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              haven’t. To say nothing of the fact that the governmental prohibition here
@@ -3352,7 +3352,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              analogy between a prohibitory liquor law and a revenue tariﬀ (which I do not
@@ -3417,7 +3417,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              can understand, and with it, if not laid down as too absolute a rule, I
@@ -3482,7 +3482,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              thing by a person which will receive either social sanction, or else unanimous
@@ -3547,7 +3547,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              recognition of these tests, by which, broadly speaking, distinctions have been
@@ -3611,7 +3611,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Uncle Sam’s treasury,” he would like to inquire “how any minority, however
@@ -3676,7 +3676,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              the abolition of rent, but were willing to temporarily exploit any sentiment or
@@ -3741,7 +3741,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              informers), simply dropped their tools, briefs, documents, and what not, and
@@ -3805,7 +3805,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      No superstition was so tirelessly and so mercilessly attacked by the
@@ -3871,7 +3871,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              of his writings is leading him on, it seems to me, to a casting-oﬀ of his
@@ -3936,7 +3936,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      diﬀiculties. He wished to be informed if Anarchism could free him
@@ -4002,7 +4002,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              this they mean not its overthrow, but, as Proudhon put it, its dissolution in the
@@ -4065,7 +4065,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              impression.
@@ -4130,7 +4130,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              he, stripped of his power to steal, must either join their ranks or starve.
@@ -4196,7 +4196,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                “James makes a plane, lends it to William on 1st of January for a year.
@@ -4261,7 +4261,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              contract the volume of the currency, could they not, and would they not, raise
@@ -4326,7 +4326,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              labor notes were rarely redeemed in corn. If he had made corn his exclusive
@@ -4391,7 +4391,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              could be made an Arcadia. The plough is very well in its way, and Arcadia was
@@ -4456,7 +4456,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              abolish only ground-rent. Therefore, unless labor pays more in ground-rent
@@ -4521,7 +4521,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                Mr. Bilgram, if I understand him, prefers government banking to mutual
@@ -4587,7 +4587,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                         https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              exacting this cost? If they should, they would be working for others for
@@ -4653,7 +4653,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              transferred are frequently of the greatest advantage, as they enable men to
@@ -4718,7 +4718,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              the word “primarily” introduces an element of error. If we are to inquire upon
@@ -4783,7 +4783,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              change the wording of the phrase. Let it be stated thus: “The abolition of
@@ -4848,7 +4848,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              I am not so good-natured. I admit that, as a clown, I ﬁnd the editor
@@ -4914,7 +4914,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      incapacity to understand why he advocated the abolition of rent and
@@ -4980,7 +4980,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              banking, act; for these provisions by their very nature, limiting the basis of
@@ -5046,7 +5046,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                But, once this necessary term is found or devised, the old question recurs:
@@ -5112,7 +5112,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                To my ﬁrst question Mr. Ingalls answers that the bank of my hypothesis
@@ -5177,7 +5177,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              cent. is a suﬀicient motive to business men as borrowers to induce them to
@@ -5243,7 +5243,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              competition would have a tendency of the same strength as that which it has
@@ -5307,7 +5307,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      In the early 90’s, the Galveston News had on its staﬀ an
@@ -5373,7 +5373,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              value, precisely as the man who buys cloth with a short yardstick and sells it
@@ -5439,7 +5439,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              disavow the calculations of a man who should begin an attempt to solve a
@@ -5505,7 +5505,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              will be redeemed, in the vast majority of cases, by a re-exchange of it for the
@@ -5571,7 +5571,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              turn upon their knowledge that the notes will ultimately command their face
@@ -5636,7 +5636,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              supply of the kinds of property upon which the paper dollars rest. And, unless
@@ -5702,7 +5702,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      value of a mutual-bank note which has good collateral, if ‘all the
@@ -5768,7 +5768,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              associating it with, and even basing it upon, a professed solution of the
@@ -5833,7 +5833,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              banking. But no work could be better calculated to ﬁll the mind of a beginner
@@ -5899,7 +5899,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              metal as a standard of value,” does not thereby antagonize the theory of a
@@ -5964,7 +5964,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              exclude any other explanation. This is suﬀicient in itself. Even if a passage
@@ -6029,7 +6029,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              the question, and in the little that he did say, instead of always taking pains to
@@ -6094,7 +6094,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              informing the public. Mr. Wright’s mistake probably arises from adherence to
@@ -6159,7 +6159,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              lien” privilege, unwarrantable invasions of individual and associative liberty,
@@ -6225,7 +6225,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              that all new banks of issue have been forbidden since 1845. I do not deny that
@@ -6290,7 +6290,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                Mr. Wright’s paper is admirably brave and earnest, and presents the case
@@ -6356,7 +6356,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              seeing the letters in the Conservator, promptly wrote to me, calling my
@@ -6421,7 +6421,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              his credit after satisfaction of the bank’s claim, — both of which, in my view,
@@ -6487,7 +6487,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              other currency in the people’s mind, he had not to guard against other ideas.
@@ -6552,7 +6552,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              of circulating currency would be constantly passing through their hands, as a
@@ -6617,7 +6617,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      Mr. Fisher replied, in a letter to Liberty, so Mr. Tucker continued:
@@ -6683,7 +6683,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              as much gold would be used if it did not possess this monopoly. But that has
@@ -6749,7 +6749,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              necessity of borrowing additional capital from others would decrease the
@@ -6814,7 +6814,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              existing in the vaults of the bank, no mere issue or withdrawal of them could
@@ -6879,7 +6879,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              have them for sale, because all these customers are pledged to take the
@@ -6944,7 +6944,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              millions each month, it thereby creates an artiﬁcial market.
@@ -7010,7 +7010,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              by any supposed beneﬁt conferred by the use of the tool over and above its
@@ -7075,7 +7075,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              crime for which pro to clap him into jail in order to save the Bank of France
@@ -7140,7 +7140,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              to New England to pay for cotton cloth, and thus goes back and forth as
@@ -7205,7 +7205,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Where there is free competition in the manufacture and sale of spades, the
@@ -7270,7 +7270,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              production, and thus increases his productive power very much as greater
@@ -7335,7 +7335,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              capital imply because he continually loses sight of the fact that competition
@@ -7400,7 +7400,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              applied to them, and even on money itself. Hodge’s grain, after it has been
@@ -7465,7 +7465,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              impose arbitrary conditions upon producers who must immediately use that
@@ -7530,7 +7530,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              place, this deﬁnition is not correct, for that is money which performs the
@@ -7595,7 +7595,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              nothing left to be bought, and that it will require an inﬁnite number of
@@ -7660,7 +7660,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              advance, of the vitalizing power of free competition. If the experiment should
@@ -7725,7 +7725,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Stanford’s land bill, more scientiﬁc and workable, but incomplete, andx
@@ -7791,7 +7791,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              transactions B’s notes based on A’s farm, — that is, a currency based on some
@@ -7857,7 +7857,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              of getting capital, proﬁts fall to the level of the manufacturer’s or merchants
@@ -7923,7 +7923,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              which pay annually in salaries and wages $811,936,170, and to capital, which
@@ -7988,7 +7988,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              When the money monopolists through their privilege have bled the producers
@@ -8052,7 +8052,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              appears to mean a change of the whole agricultural population into tenants of
@@ -8117,7 +8117,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              good, say I; no one denies that. But this is not what is ordinarily meant by the
@@ -8182,7 +8182,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              tenant) has destroyed in appropriating it to his own use. If the tenant does not
@@ -8248,7 +8248,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              is usually a mere pretext made to deceive the people into paying exorbitant
@@ -8313,7 +8313,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              country, partly because of this mobility of labor and partly because of the
@@ -8378,7 +8378,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              after conﬁscating this economic rent, has no right to devote it to any so-called
@@ -8443,7 +8443,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              equally free, is richer. Liberty will ultimately make all men rich; it will not
@@ -8508,7 +8508,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              a free ride whenever we want to go anywhere, or we will make any use of it,
@@ -8573,7 +8573,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                 In trying to answer the argument that land is practically useless to labor
@@ -8638,7 +8638,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              either by the State Socialistic method of concentrating the titles to them in
@@ -8704,7 +8704,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              primitive to substantiate my assertion, Mr. Curtis? Tell Mr. George that the
@@ -8770,7 +8770,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              disputed that, under the system of land monopoly, certain individuals get, in
@@ -8835,7 +8835,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              association’s treasury, and in which all the members should agree to settle the
@@ -8900,7 +8900,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              protection, but I will myself invade you and annually conﬁscate a portion of
@@ -8965,7 +8965,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              necessarily equal to economic rent. Which is the contrary of Egoist’s
@@ -9031,7 +9031,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      of labor, could be produced from inferior land. Mr. Tucker replied:
@@ -9097,7 +9097,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              entirely; on the other hand, it can never become intolerable. It must always
@@ -9163,7 +9163,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              of liberty; and if the contract places the former equality before the latter, it
@@ -9228,7 +9228,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              the monopoly) can only be directly achieved in one of two ways, — mutual
@@ -9293,7 +9293,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              restricting the liberty of the would-be competitors. To the Anarchist, who
@@ -9358,7 +9358,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              of all inequalities, — the inequality of liberty, or perhaps it would be more
@@ -9423,7 +9423,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              to show him that the fear of scramble and rigidity with which Anarchism
@@ -9488,7 +9488,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              proportion to its ﬂexibility, instead of as now in proportion to its rigidity.
@@ -9553,7 +9553,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                    https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                And further: it is assuming too much to say that a fair interpretation of the
@@ -9618,7 +9618,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              their land to others wishing to do so, in either case there would be an
@@ -9683,7 +9683,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              be ﬂowing into the pockets of their customers. The proﬁts of the downtown
@@ -9748,7 +9748,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              This would be a matter entirely for the jury. If I were on a jury to try the case
@@ -9813,7 +9813,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              can be saved from total destruction only by blowing up the houses on a strip
@@ -9878,7 +9878,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              become one simply because, afterward, somebody else wishes to make a
@@ -9943,7 +9943,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                The collection of rent by each individual from all land-users on earth, which
@@ -10008,7 +10008,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              rightful becomes another’s, he must, upon the demand of the subsequent
@@ -10074,7 +10074,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                 Mr Post admits the utterances attributed to him, and then proceeds to
@@ -10139,7 +10139,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              respectable empiricism deserve to be considered with care?
@@ -10204,7 +10204,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              to do so. Yet Mr. Horr takes it to mean that force should not be used to collect
@@ -10268,7 +10268,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      Following are some fragmentary paragraphs relating to diﬀerent
@@ -10334,7 +10334,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              over the “nigger” argument I am not prepared to deny, but I am tempted to
@@ -10399,7 +10399,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                 Henry George was recently reminded in these columns that his own logic
@@ -10464,7 +10464,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              unreason.
@@ -10529,7 +10529,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              me. Since the Single Taxer proposes to sell it without even asking what I am
@@ -10594,7 +10594,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                So much for the charge of worry, which Mr. Hall used as an introduction to
@@ -10658,7 +10658,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                Ireland’s chief danger: the liability of her people — besotted with
@@ -10723,7 +10723,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              unsettled or attempting one of three ineﬀectual means of settling it, I think I
@@ -10786,7 +10786,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      From September 13 to 16, 1899, the Civic Federation held a
@@ -10852,7 +10852,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Rockefeller’s possession of ﬁve hundred millions is not a good ground for the
@@ -10917,7 +10917,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              by the diﬀiculty of competition, only by the obstacles placed in the way of
@@ -10982,7 +10982,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              of unoccupied land as freely as he takes possession of unoccupied water or
@@ -11047,7 +11047,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              individuals, including the creator or adapter, the realization, or impending
@@ -11112,7 +11112,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                Furthermore, were the conditions the same in both cases, and concrete
@@ -11177,7 +11177,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                        https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              the trust question, but the ﬁrst step that should be taken, and the greatest
@@ -11242,7 +11242,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              important truth that, if a man has labor to sell, he has a right to a free market
@@ -11307,7 +11307,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              broom! Still, while my sympathies thus go with the under dog, I shall never
@@ -11372,7 +11372,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              through its external representative, the State, with privileges which enable
@@ -11437,7 +11437,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              “Unpaid labor” has been the chief complaint of all Socialists, and that labor
@@ -11502,7 +11502,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              whereas the ways of Science, however devious and diﬀicult to tread, lead to
@@ -11567,7 +11567,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Winsted Press presents the following ghost of an answer, which may be as
@@ -11632,7 +11632,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              voluntary associations, even government competition is unfair, because an
@@ -11697,7 +11697,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              not possibly succeed unless its work was of such a nature as to admit the
@@ -11763,7 +11763,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              referred to “meant business” and was entitled to serious consideration. But
@@ -11828,7 +11828,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              indeed recommend the time dishonored virtues of industry and economy as a
@@ -11893,7 +11893,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              consistency. But I am not so sure what it will be in this case as I was in the
@@ -11959,7 +11959,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              misleading in what they fail to say. Mr. Spencer convicts legislators of
@@ -12024,7 +12024,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              capitalistic privilege in any form.
@@ -12089,7 +12089,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              majority idea, a searching exposure of the inherent evil of State systems, and
@@ -12154,7 +12154,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              world. It is a righteous determination, and in it is to be found the true
@@ -12219,7 +12219,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              and unrestricted, competition means the most perfect peace and the truest
@@ -12284,7 +12284,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                       https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              hare. So in Mr. Horn’s recipe for the solution of economic forms in ethical
@@ -12349,7 +12349,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                Jus still thinks, however, that something may be said on the other side, and
@@ -12414,7 +12414,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
                      disagreement with Henry George. In his newspaper, the Standard of
@@ -12480,7 +12480,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              whether it were a wheelbarrow or a phonograph, the concrete thing belonged
@@ -12544,7 +12544,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                     https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Nineteenth Century” (Freedom Press, 127 Ossulston Street, London, N. W. 1,
@@ -12609,7 +12609,7 @@ tags:
 
 ### Extracted Text
 
-``` Individual Liberty                                      https://theanarchistlibrary.org/library/benjamin-tucker-i...
+
 
 
              Political Institutions,” but this too can no longer be had from booksellers. If it

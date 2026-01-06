@@ -33,7 +33,7 @@ title: "Budget Negotiations Continue as Legislature Prepares for Special Session
 
 ### Extracted Text
 
-```
+
 Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.org/news-publications/news/all/budge...
 
 
@@ -95,7 +95,7 @@ Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.or
 
 ### Extracted Text
 
-```
+
 Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.org/news-publications/news/all/budge...
 
 
@@ -170,7 +170,7 @@ Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.or
 
 ### Extracted Text
 
-```
+
 Budget Negotiations Continue as Legislature Prepares...        https://www.lmc.org/news-publications/news/all/budge...
 
 

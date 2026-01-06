@@ -27,7 +27,7 @@ title: "Can “solidarity unionism” save the labor movement"
 
 ### Extracted Text
 
-``` Can “solidarity unionism” save the labor movement? Date: Sun, 11/08/2015 - 11:50 Source: https://ecology.iww.org/node/1371 Tags: Industrial Workers of the World (IWW), solidarity unionism, Staughton Lynd, green syndicalism, green unionism
+
 
 
 
@@ -62,7 +62,7 @@ The Death and Life of American Labor: Toward a New Workers’ Movement ```
 
 ### Extracted Text
 
-``` ,” and “
+
 
 
 
@@ -101,7 +101,7 @@ National Labor Relations Act
 
 ### Extracted Text
 
-``` of the contract. This industrial relations framework led the way for millions of workers to organize and improve their wages and working conditions. This “class compromise” held for several decades until employers changed their mind and increased their opposition to unionization again.
+
 
 
 
@@ -128,7 +128,7 @@ Given Lynd’s analysis, what should the labor movement do today? Lynd doesn’t
 
 ### Extracted Text
 
-``` solidarity unionism by practicing workplace militancy as much as possible even with contracts in place, as
+
 
 
 
@@ -175,7 +175,7 @@ almost 90 percent of U.S. workers are non-union ```
 
 ### Extracted Text
 
-``` , there is certainly a great opportunity to build a large solidarity union movement of the kind Lynd outlines. However, organizing is risky and groups that practice solidarity unionism in its purest form will tend to be small, with few staff or resources, depending almost entirely on the workers themselves. This is a lot to ask. Indeed many members of mainstream unions may point to the benefits of having a large, stable organization with contracts, funds, benefit plans, dedicated staff, lawyers, and political relationships. But for Lynd, these kinds of institutional arrangements tend to come at the cost of democracy and militancy.
+
 
 
 
@@ -202,7 +202,7 @@ In any case, union contracts and the working conditions they codify are the curr
 
 ### Extracted Text
 
-``` workers where they are, and workers themselves should decide what kind of union they want. Let’s have many different organizing forms and see what works. The philosophy and practice of solidarity unionism provides a critical reminder of alternative ways of organizing and a valuable framework for the stronger and more militant labor movement that we need.
+
 
 
 

@@ -470,7 +470,7 @@ They [ChatGPT] are starting to build a facility [called Stargate and it's going 
 
 [2024/05/17 12:52] Elektra Panthar: ((that's scary as hell))
 
-```
+
 [2024/05/17 12:52] Lyr Lobo: Great session
 Many thanks 
 [2024/05/17 12:52] Sofia Varela: fantastic talk

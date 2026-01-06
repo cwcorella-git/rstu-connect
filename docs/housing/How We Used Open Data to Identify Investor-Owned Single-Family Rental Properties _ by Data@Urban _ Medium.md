@@ -46,7 +46,7 @@ title: "How We Used Open Data to Identify Investor-Owned Single-Family Rental Pr
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...                https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -103,7 +103,7 @@ How We Used Open Data to Identify Investor-Owned Si...                https://ur
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -158,7 +158,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -201,7 +201,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -229,7 +229,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -283,7 +283,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...         https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -352,7 +352,7 @@ How We Used Open Data to Identify Investor-Owned Si...         https://urban-ins
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -381,7 +381,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -409,7 +409,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -440,7 +440,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -504,7 +504,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...     https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -568,7 +568,7 @@ How We Used Open Data to Identify Investor-Owned Si...     https://urban-institu
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...              https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -632,7 +632,7 @@ How We Used Open Data to Identify Investor-Owned Si...              https://urba
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...         https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -681,7 +681,7 @@ How We Used Open Data to Identify Investor-Owned Si...         https://urban-ins
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...          https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -735,7 +735,7 @@ How We Used Open Data to Identify Investor-Owned Si...          https://urban-in
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...       https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -791,7 +791,7 @@ How We Used Open Data to Identify Investor-Owned Si...       https://urban-insti
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...      https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -833,7 +833,7 @@ How We Used Open Data to Identify Investor-Owned Si...      https://urban-instit
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...                        https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -885,7 +885,7 @@ How We Used Open Data to Identify Investor-Owned Si...                        ht
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
 
 
@@ -927,7 +927,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 ### Extracted Text
 
-```
+
 How We Used Open Data to Identify Investor-Owned Si...              https://urban-institute.medium.com/how-we-used-open-...
 
 

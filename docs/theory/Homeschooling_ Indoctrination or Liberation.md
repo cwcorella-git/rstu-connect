@@ -1,4 +1,4 @@
-```
+
 0:00
 "I'm your new teacher, my name is Mrs. Simpson."
 0:07
@@ -60,7 +60,7 @@ Homeschooling declined and classrooms were filled.
 
 It should be noted that compulsory schooling was often used by colonizers to enact
 
-```
+
 cultural
 1:33
 genocide on the Indigenous peoples they were colonizing, to erase their histories, 
@@ -128,7 +128,7 @@ Michael Farris, founder of the anti-LGBT, pro-life Home School Legal Defense fro
 
 ## 4:36
 
-```
+
 Association,
 4:42
 quickly became the "leader" of the evangelical homeschooling movement.
@@ -190,7 +190,7 @@ of systemic racism in schools, and the lack of in-depth education on Black histo
 6:09
 ## ```
 
-```
+
 Some parents need to homeschool because they're living in rural nowhere or they 
 travel around
 6:13
@@ -252,7 +252,7 @@ but I was out of there by the end of standard one, just after I turned 7.
 My parents are a deeply Christian people, so they felt called to bring us home and
 ## ```
 
-```
+
 teach
 7:41
 us that way.
@@ -314,7 +314,7 @@ state
 schooling does, but it was all she knew.
 ## ```
 
-```
+
 9:04
 It's all most people know.
 9:05
@@ -376,7 +376,7 @@ I was able to travel to a few other countries, thanks to my dad's job.
 And I also tried many different activities, inconsistently, throughout, including
 ## ```
 
-```
+
 track
 10:29
 and field, violin, guitar, painting, and most consistently of all of them, 
@@ -438,7 +438,7 @@ homeschooling
 and my first two years of college.
 ## ```
 
-```
+
 11:56
 I was extremely outgoing, almost to a fault.
 11:59
@@ -500,7 +500,7 @@ criticized
 for their methodological flaws and gaps.
 ## ```
 
-```
+
 13:22
 Regardless, it's difficult to make any sweeping claims with the research we do 
 have.
@@ -656,7 +656,7 @@ Embed their learning in anti-colonialism, anti-racism, anti-sexism, and all othe
 
 ## 17:42
 
-```
+
 of anti-oppression.
 17:44
 Expose them to a range of information, social connection, and experience.

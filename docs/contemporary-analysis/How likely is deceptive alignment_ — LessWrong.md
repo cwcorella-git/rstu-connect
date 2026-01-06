@@ -556,7 +556,7 @@ However, I think the fact that it does look like almost all the gradient descent
 
 ### 28 comments, sorted by top scoring
 
-```
+
 [-]
 [anonymous] 19 0
          3y

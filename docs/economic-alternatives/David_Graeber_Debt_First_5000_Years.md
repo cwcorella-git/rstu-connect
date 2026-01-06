@@ -1468,7 +1468,7 @@ In the Cross River region, the trade seems to have seen two phases. The first wa
 
 The most ingenious trick of the merchant societies, though, was to assist in the dissemination of a secret society, called Ekpe. Ekpe was most famous for sponsoring magnificent masquerades and for initiating its members into arcane mysteries, but it also acted as a secret mechanism for the enforcement of debts.70 In Calabar itself, for example, the Ekpe society had access to a whole range of sanctions, starting with boycotts (all members were forbidden to conduct trade with a defaulting debtor) , fines, seizure of property, arrest, and finally, execution-with the most hapless victims left tied to trees, their lower j aws removed, as a warning to others.71 It was ingenious, particularly, because such societies always allowed anyone to buy in, rising though the nine initiatory grades if they could pay the fee-these also exacted, of course, in the brass rods the merchants themselves supplied. In Calabar, the fee schedule for each grade looked like this:72
 
-```
+
 1. Nyampi 
  2. Oku Akana 
       3· Brass 

@@ -29,7 +29,7 @@ title: "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-
 
 ### Extracted Text
 
-```
+
 DERECHOS           DE   LOS     EMPLEADOS
 CONFORME A LA LEY NACIONAL DE RELACIONES DEL TRABAJO
 a e Nacioal de Relacioes del Trabajo (NRA e iglés) garatiza el dereco de los empleados a
@@ -99,7 +99,7 @@ iormació idicada a cotiuació para comuicarse co la 
 
 ### Extracted Text
 
-```
+
        • Tomar medidas con uno o más                             Si usd y sus cmpañrs d rabaj                  o le amenace con llevar a cabo
          compañeros de trabajo para                              ign a una unión para qu acú cm                cualquiera de estas medidas
          mejorar las condiciones de                              su rprsnan n ngciacins                     porque usted se afilie o apoye a

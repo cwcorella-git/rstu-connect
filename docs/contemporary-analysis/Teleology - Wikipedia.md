@@ -44,7 +44,7 @@ In *[Physics](https://en.wikipedia.org/wiki/Physics_(Aristotle))*, using the [hy
 
 It is absurd to suppose that ends are not present [in nature] because we do not see an agent deliberating.
 
-```
+
 —Aristotle, Physics, 2.8, 199b27-9[i]
 ## ```
 

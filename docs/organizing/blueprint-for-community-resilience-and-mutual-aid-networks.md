@@ -60,7 +60,7 @@ Mutual Aid Networks
 ## Implementation Strategy
 
 ### Phase 1: Building Foundations (Months 1-6)
-```
+
 
 - Form initial organizing committees
 - Map community resources and needs

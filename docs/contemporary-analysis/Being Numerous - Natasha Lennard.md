@@ -60,11 +60,11 @@ A catalog record for this book is available from the Library of Congress
 
 ### Typeset in Sabon by MJ & N Gavan, Truro, Cornwall Printed in the UK by CPI Group
 
-```
+
 Having only the force Of days
 ## ```
 
-```
+
 Most simple
 Most difficult
 —George Oppen, 1968
@@ -884,7 +884,7 @@ Meanwhile, life continues. In the weeks following my last overdose, my days were
 
 # Index
 
-```
+
 accidents, 3, 119
 ACLU (American Civil Liberties Union), 77
 Agamben, Giorgio
@@ -910,7 +910,7 @@ The Babadook (film), 30
 "bad protesters," 74
 ## ```
 
-```
+
 Bakken Formation, 57
 Baltimore, MD riots, 38, 43
 belief, webs of, 28–30
@@ -947,7 +947,7 @@ classism, 35
 Clinton, Hillary, 2
 ## ```
 
-```
+
 collective fury, 39
 corpses, 99–108
 counterviolence, 22
@@ -983,7 +983,7 @@ Fanon, Frantz
 fascism, as un-bannable, 17
 ## ```
 
-```
+
 "fascist habit," 16
 felony riot charges, 45–54
 Ferguson, MO riots, 36, 38–39, 43, 107
@@ -1019,7 +1019,7 @@ Hall, Evelyn Beatrice, 77
 hallucinations, ghosts and, 27
 ## ```
 
-```
+
 Hamlet (play), 32
 Harris, Sam, 28
 hauntology, 31
@@ -1055,7 +1055,7 @@ Louis XV, King of France, 104–105
 love, 81–85
 ## ```
 
-```
+
 manarchist, 91–92
 Mandan, ND, 60, 62, 65, 67
 Markus, Michael. See Rattler
@@ -1092,7 +1092,7 @@ Netanyahu, Benjamin, 105
 New Inquiry, 38–39
 ## ```
 
-```
+
 New York Review of Books, 23
 Newsham, Peter, 47, 49
 Nietzsche, Friedrich, 75
@@ -1128,7 +1128,7 @@ public viewings, of corpses, 105
 queer privilege, 92
 ## ```
 
-```
+
 queering, 88
 Quine, Willard Van Orman, 28–30
 quotidian policing, 42–43
@@ -1164,7 +1164,7 @@ Snowden, Edward, 109–111, 113
 social contract
 ## ```
 
-```
+
 about, 74
  romantic illusion of, 75
 socializing data, 120
@@ -1201,7 +1201,7 @@ Trump, Donald J.
  starting term as president, 7–8
 ## ```
 
-```
+
 truth, types of, 29
 Tufekci, Zeynep, 96
 Tunisian revolution (2010–2011), 118–119
@@ -1237,7 +1237,7 @@ Wilson, Darren, 36, 37
 Wittgenstein, Ludwig, 23–24, 33–34, 118
 ## ```
 
-```
+
 Wizner, Ben, 112
 Women's March, 52–53
 Wounded Knee, 58

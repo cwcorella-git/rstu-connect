@@ -749,7 +749,7 @@ But even the third stratum, "the younger and more sensitive section of the worke
 
 55"In the interval between these articles there was one (*Iskra*, No. 3), which dealt especially with class antagonisms in the countryside. (See*Collected Works*, Vol. 4, pp. 420-28
 
-```
+
 –Ed.)
 56Ibid., pp. 420-28 –Ed.
 57Ibid., Vol. 5, pp. 95-100 –Ed.

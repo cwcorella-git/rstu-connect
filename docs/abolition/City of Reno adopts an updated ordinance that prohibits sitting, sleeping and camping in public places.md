@@ -24,7 +24,7 @@ title: "City of Reno adopts an updated ordinance that prohibits sitting, sleepin
 
 ### Extracted Text
 
-```
+
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
 
 
@@ -75,7 +75,7 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 ### Extracted Text
 
-```
+
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
 
 
@@ -126,7 +126,7 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 ### Extracted Text
 
-```
+
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
 
 
@@ -179,7 +179,7 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 ### Extracted Text
 
-```
+
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
 
 

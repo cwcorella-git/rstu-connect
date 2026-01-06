@@ -1338,7 +1338,7 @@ https://www.nytimes.com/1997/12/28/nyregion/at-50-levittown-contends-with-its-le
 
 ### INDEX
 
-```
+
 Acho, Cecelie, 138
 After Echo Park Research, 132
 Aguilar, Irma, 74
@@ -1373,9 +1373,9 @@ Brazil, 111–112
 Brenda, 136
 Buffalo, 44
 California, 2, 83
-```
 
-```
+
+
 Botz in, 124
    lack of affordable housing in, 138
    property taxes in, 46
@@ -1417,7 +1417,7 @@ Echo Park Lake, 131–143
 Echo Park Rise Up, 133, 135, 138, 143
 Engels, Friedrich, 28–29
 Escobar, Angel, 104, 106
-```
+
 
 ### Esperanza Neighborhood Committee of Union de Vecinos, 99, 102 Farha, Leilani, 138 Federal Housing Act, 51 Federal Housing Administration, 38 First Amendment, 68 Flower Drive Tenants Association, 90 Floyd, George, 137 Folsom Street, 98, 101, 103 Freire, Paulo, 56, 108, 113 Frogtown, 3 Fullilove, Mindy, 93 Garcetti, Eric, 51 Garcia, Isabel, 115–117, 145–146 Gerholz, Robert, 40 GI Bill, 41–42 Glover, Jamarcus, 53–54 Gomez, Maria, 99 Gonzalez, Francisco, 63, 67, 69, 76, 79 Great Depression, 37 Great Rent Wars, 69 Greenberg, Noah, 74 Ground Game LA, 134 Gutiérrez, Alejandro, 127 Hancock Park, 94 Harlem, 21, 44, 70 Hayden, Dolores, 42 Hernandez, Leslie, 121–122, 124, 125, 127 Hernandez, Rosa, 129 Hillside Villa, 118–130, 143 Hillside Villa Tenants Association, 124 Hollins Tenants Association, 62 Hollywood, 3, 86 Hoover, Herbert, 37 HOPE VI, 50, 61
 
@@ -1429,7 +1429,7 @@ Hoyt, Homer, 38
 
 Houston, 5
 
-```
+
 Invitation Homes, 18, 50
 Isabel, Garcia, 148
 Jarvis, Howard, 46
@@ -1470,9 +1470,9 @@ LA Tenants Union, 4, 13, 55, 127, 129
    Rancho Park protest by, 78
    Unhoused Tenants Against Carceral Housing and, 141
    Vermont y Beverly local chapter, 110
-```
 
-```
+
+
 Vulture Landlord of, 111
    "We make our community by defending it," 92
 LA Times, 76
@@ -1515,9 +1515,9 @@ Los Angeles, 1, 2, 86, 115. See also Boyle Heights
 Los Angeles Center for Community Law and Action, 74
 Los Angeles City Council, 56
 Los Angeles Convention Center, 126
-```
 
-```
+
+
 Los Angeles Downtown News, 138
 Los Angeles Homeless Services Authority, 132–133
 Los Angeles Police Department, 52, 61, 128, 132, 139, 140
@@ -1557,9 +1557,9 @@ Office of Price Administration (OPA), 41
 Omninet Capital, 104
 Otzoy, Gustavo, 131, 134, 137, 139, 141–142
 Parson, Donald, 41
-```
 
-```
+
+
 Philadelphia, 44
 Pittsburgh, 44
 Piven, Frances Fox, 12, 69
@@ -1599,9 +1599,9 @@ Street Watch, 134
 Supreme Court, 44
 Taylor, Breonna, 53–54
 Taylor, Keeanga-Yamahtta, 23
-```
 
-```
+
+
 Tenants Defense Union, 69
 Terani, Bruce, 116
 Tongva people, 1
@@ -1642,9 +1642,9 @@ Valdivia, Enrique, 63
 Valdivia, Luis, 63, 66
 Ventus Group, 88–89
 Vermont y Beverly local chapter, 110
-```
 
-```
+
+
 Wall Street, 50
 Washington, DC, 5
 Waterloo, 44
@@ -1654,7 +1654,7 @@ World War II, 83
 Writers Guild of America, 31
 Yesenia, 116, 146
 Young Lords, 45
-```
+
 
 This eBook is licensed to Bea Hemmelgarn, beahemmelgarn@gmail.com on 09/24/2024
 

@@ -2294,7 +2294,7 @@ No inquiry has yet been made into the wider implications of the Speenhamland sys
 
 From the strictly economic point of view, Speenhamland can not truly be said to have been a war measure, as has often been asserted. Contemporaries hardly connected the wages position with the war emergency. In so far as there was a noticeable rise in wages, *the movementhad startedbefore the war.* Arthur Young's *Circular Letter* of 1795, designed to ascertain the effects of the failure of crops on the price of corn contained (point IV) this question: "What has been the rise (if any) in the pay of the agricultural labourers, on comparison with the preceding period?" Characteristically, his correspondents failed to attach any definite meaning to the phrase "preceding period." References ranged from three to fifty years. They included the following stretches of time:
 
-```
+
 3 years J. Boys, p. 97. 
  3-4 years J. Boys, p. 90. 
     10 years Reports from Shropshire, Middlesex, Cambridgeshire. 

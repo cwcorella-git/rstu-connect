@@ -8,7 +8,7 @@ They have managed to destigmatize the word socialism, but they've also managed t
 
 conflate
 
-```
+
 1:33
 socialism with a "nicer" capitalism in the minds of millions.
 1:37
@@ -76,7 +76,7 @@ Over the years since then, Disney has expanded to consume more and more retailer
 
 ## 4:24
 
-```
+
 TV stations,
 4:29
 streaming services, and brands.
@@ -138,7 +138,7 @@ platforms,
 5:58
 ## ```
 
-```
+
 they could do a whole lot more than *just* feed into vague anti-capitalism, 
 critiquing
 6:02
@@ -201,7 +201,7 @@ again and again.
 
 ## 7:30
 
-```
+
 The State will never abolish itself.
 7:32
 Your continued investment in it only serves to keep it chugging.
@@ -263,7 +263,7 @@ We're now in the midst of a global crisis.
 9:08
 ## ```
 
-```
+
 As the vaccine apartheid builds and the climate crisis intensifies, we can't afford
 to fall
 9:13

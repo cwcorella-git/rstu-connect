@@ -2216,7 +2216,7 @@ If this should happen at some time in the future, antihumanists will have contri
  - [\[62\]](#page-44-1) Ibid., p. 262.
  - [\[63\]](#page-44-2) James Lovelock, The Ages of Gaia: A Biography of Our Living Planet (New York: Bantam
 
-```
+
 Books, 1988). On human beings as 'intelligent fleas', see p. 155.
  [64] Ibid., p. 19.
  [65] Ibid., p. 40, emphasis added.
@@ -2596,7 +2596,7 @@ Columbia University Press, 1990), p. 46.
 
 [\[283\]](#page-159-2) Jean Baudrillard, Forget Foucault (New York: Semiotext[e], 1987), p. 58, emphasis added. [\[284\]](#page-159-3) Jean Baudrillard: 'On Nihilism:', On the Beach, no. 6 (Spring 1984); cited in Douglas Kellner, fean Baudrillard: From Marxism to Postmodernism and Beyond (Stanford: Stanford
 
-```
+
 University Press, 1989), pp. 118, 119.
 ## ```
 

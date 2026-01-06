@@ -82,7 +82,7 @@ With these considerations, you can use the transformers pipeline API to load the
 
 from transformers import Auto Tokenizer import transformers import torch
 
-```
+
 model = "tiiuae/falcon-7b-instruct"
 tokenizer = Auto Tokenizer.from_pretrained(model)
 pipeline = transformers.pipeline(
@@ -97,7 +97,7 @@ pipeline = transformers.pipeline(
 
 And then, you'd run text generation using code like the following:
 
-```
+
 sequences = pipeline(
  "Write a poem about Valencia.",
  max_length=200,
@@ -112,7 +112,7 @@ for seq in sequences:
 
 And you may get something like the following:
 
-```
+
 Valencia, city of the sun
 The city that glitters like a star
 A city of a thousand colors
@@ -125,7 +125,7 @@ Where the past is kept in a golden chest
 
 Running the 40B model is challenging because of its size: it doesn't fit in a single A100 with 80 GB of RAM. Loading in 8-bit mode, it is possible to run in about 45 GB of RAM, which fits in an A6000 (48 GB) but not in the 40 GB version of the A100. This is how you'd do it:
 
-```
+
 from transformers import Auto Tokenizer,
 Auto Model For CausalLM
 import transformers
@@ -230,7 +230,7 @@ We fine-tuned the two variants of the Falcon models (7B and 40B) on the Guanaco 
 
 The full script to reproduce our experiments using PEFT is available [here,](https://gist.github.com/pacman100/1731b41f7a90a87b457e8c5415ff1c14) but only a few lines of code are required to quickly run the SFTTrainer (without PEFT for simplicity):
 
-```
+
 from datasets import load_dataset
 from trl import SFTTrainer
 from transformers import Auto Tokenizer,
@@ -246,7 +246,7 @@ trainer = SFTTrainer(
  model,
 ## ```
 
-```
+
  tokenizer=tokenizer
  train_dataset=dataset,
  dataset_text_field="text",

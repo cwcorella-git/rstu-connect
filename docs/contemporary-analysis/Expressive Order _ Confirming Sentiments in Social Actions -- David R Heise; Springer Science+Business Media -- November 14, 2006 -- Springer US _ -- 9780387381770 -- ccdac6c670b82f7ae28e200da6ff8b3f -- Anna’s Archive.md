@@ -2553,7 +2553,7 @@ Standard computational algorithms are used in *Interact* for matrix algebra. How
 
 Table 18-2. Segment of Java Code From Interact for Computing Diagonals of Matricies ID, IE, and I<sup>R</sup>
 
-```
+
 // Fill I_diagonal with ones. 
 I_diagonal = new double[full Size]; 
 for (int i = 0; i < full Size; i++ ) { 
@@ -3158,7 +3158,7 @@ Transient affective meaning: A momentary affective meaning resulting from action
 
 ## Index
 
-```
+
 accommodation, mental, 4, 71, 72, 134 
 action, 3, 4, 13, 19, 21, 22, 24, 27, 28, 32, 
     33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 
@@ -3190,7 +3190,7 @@ affect, 2, 3, 4, 5, 26, 37, 40, 42, 44, 45,
     101, 109, 119, 129, 130, 131, 132,
 ## ```
 
-```
+
 133, 134, 135, 136, 137, 139, 142, 
     143, 145, 146, 147 
 affective meaning, 4, 11, 37, 42, 44, 46, 
@@ -3222,7 +3222,7 @@ bereavement, 41, 60, 61, 131
 biological factors, 14, 27, 33, 41, 57, 78
 ## ```
 
-```
+
 Canada, 3, 15, 17, 18, 19, 22, 23, 26, 41, 
     73, 74, 98, 130, 131, 133, 136, 142 
 characteristic emotion, 59, 70, 100, 120, 
@@ -3276,7 +3276,7 @@ emotion, 2, 3, 4, 23, 24, 25, 32, 34, 44,
 empathy, 49, 135
 ## ```
 
-```
+
 EPA profile, 9, 10, 97, 98, 101, 103, 104, 
     119, 133, 136, 140, 141, 142, 143, 
     146
@@ -3332,7 +3332,7 @@ gender, 3, 10, 15, 17, 18, 19, 22, 23, 24,
 
 ## 140
 
-```
+
 Germany, 3, 17, 19, 22, 131, 132, 133,
 ## lability, 62, 100
 ## language, 11, 35, 36, 42, 43, 47, 71, 131,
@@ -3433,7 +3433,7 @@ labeling, 4, 27, 28, 65, 66, 67, 92, 130,
 ## Osgood, Charles, 11, 129, 133, 135
 ## ```
 
-```
+
 perception, 36, 37, 136, 137 
 personality, 23, 33, 34, 65, 66, 68, 69, 147 
 politics, 27, 28, 30, 32, 39, 40, 75, 77, 
@@ -3487,7 +3487,7 @@ self-actualization, 73, 74, 75, 76, 77, 78,
 self-concept, 25, 61, 75, 78
 ## ```
 
-```
+
 self-directed action, 90, 120, 121, 122, 
     123, 124, 147 
 self-esteem, 32, 46, 62, 73, 75, 76, 78 

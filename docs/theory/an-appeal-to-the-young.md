@@ -26,7 +26,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                               https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
 
@@ -86,7 +86,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                               https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
               fear the devil, and that you do not go to hear parsons and ministers rant. More, that you are not one
@@ -153,7 +153,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                               https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
                  If you are one of those miserable natures who adapt themselves to anything, who at the sight of
@@ -220,7 +220,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                               https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
                  It is now no longer a question of accumulating scientific truths and discoveries. We need above
@@ -287,7 +287,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                              https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
               yet been stifled by legal fictions, what will you do? Will you contend that the farmer ought to be
@@ -354,7 +354,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                              https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
               valuable discovery. You make use of it and the result surpasses your expectations. Ten, twenty
@@ -422,7 +422,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                                https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
               that this is impossible in existing conditions, you will attack the very foundations of bourgeois
@@ -489,7 +489,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                             https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
                  You will see that everywhere, in England as well as in France, in Germany as well as in Italy, in
@@ -556,7 +556,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                                https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
                  Why, some are taking their ease with the most cowardly indifference; others, the majority,
@@ -623,7 +623,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                              https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
               interests of art itself, come with us. Place your pen, your pencil, your chisel, your ideas at the
@@ -690,7 +690,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                              https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
               knowledge, of art, and keep for yourself only the eternal anxiety as to whether you can get a bit of
@@ -757,7 +757,7 @@ tags:
 
 ### Extracted Text
 
-``` An Appeal to the Young                                              https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-y...
+
 
 
               place, yourself among the Socialists.

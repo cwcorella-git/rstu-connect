@@ -143,7 +143,7 @@ We will gather outside of the Reception and Medical Center in Lake Butler, FL, a
 
 ## ![](_page_10_Figure_0.jpeg)
 
-```
+
 https://
 fighttoxicprisons.wordpress
 .com/2017/12/06/

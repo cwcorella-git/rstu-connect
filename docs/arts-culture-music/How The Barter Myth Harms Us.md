@@ -96,7 +96,7 @@ no reason to assume that it would produce a concrete medium of exchange regularl
 
 ## 5:31
 
-```
+
 in everyday transactions within a society.
 5:34
 Such a system would likely only be used by the tiny proportion of the population 
@@ -158,7 +158,7 @@ Carlton: Man, I've been stressed out whole day tryna barter.
 7:07
 ## ```
 
-```
+
 First I tried old man Geoffrey, then I tried Shanice the shaman, even hit up 
 Maurice from
 7:12

@@ -22,7 +22,7 @@ title: "Starting a community garden 101"
 
 ### Extracted Text
 
-```
+
 How to Start a Backyard Community Garden (Mutual Aid Style)
 
 Starting a community garden in your backyard isn’t just about growing food, it’s about growing

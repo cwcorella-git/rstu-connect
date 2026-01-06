@@ -330,7 +330,7 @@ As he knew everything that ought to be known and as he obtained the key to all k
 
 Once a certain brahmin named Dona, noticing the characteristic marks of the footprint of the Buddha, approached him and questioned him.
 
-```
+
 "Your Reverence will be a deva?" 39
  "No, indeed, brahmin, a deva am I not," replied the Buddha.
  "Then Your Reverence will be a gandhabba?" 40
@@ -345,7 +345,7 @@ Once a certain brahmin named Dona, noticing the characteristic marks of the foot
 
 The Buddha replied that he had destroyed defilements which condition rebirth as a deva, gandhabba, yakkha, or a human being and added:
 
-```
+
 As a lotus, fair and lovely,
 By the water is not soiled,
 By the world am I not soiled;
@@ -830,7 +830,7 @@ The cause of this suffering is craving or attachment (*taṇhā*). This is the s
 
 The Dhammapada states:
 
-```
+
 From craving springs grief,
 from craving springs fear;
 For him who is wholly free from craving,
@@ -5798,7 +5798,7 @@ According to Buddhism there are forty subjects of meditation (*kammahāna*) whic
  - i. The Buddha (*buddhānussati*),
  - ii. the doctrine (*dhammānussati*),
 
-```
+
 iii. the Sangha (saṇghānussati),
      iv. virtue (sīlānussati),
       v. liberality (cāgānussati),

@@ -74,7 +74,7 @@ There are a number of "green" unionists who are working on this, including (but 
 | Endorsements |
 | The following unions have endorsed the Climate and Earth Strike(s) (as far as we know): |
 
-```
+
 Alameda County (California, US) AFL-CIO Central Labor Council (US) - August 2019 (
 link
 ).
@@ -92,7 +92,7 @@ IWW GLAMROC (Germany) -
 
 Die IWW Leipzig unterstützt den weltweiten Klimastreik 2019
 
-```
+
 IBU San Francisco Bay Region; September 10, 2019
 ILWU Local 10 (San Francisco Bay Area Longshore Division), September 2019
 ΙWW GreROC (Greece), September 16, 2019 - (
@@ -110,7 +110,7 @@ link
 )
 ## ```
 
-```
+
 U. S. I. Unione Sindacale Italiana (Italy) - September 1, 2019 (
 Press Release
 )

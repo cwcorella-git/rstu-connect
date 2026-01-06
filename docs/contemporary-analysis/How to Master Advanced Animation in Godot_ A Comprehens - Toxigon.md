@@ -72,7 +72,7 @@ Sometimes, you might want to create animations that are generated on the fly, ra
 
 Here's an example of how you can create a simple procedural animation using GDScript:
 
-```
+
 extends Node2D func _process(delta): var amplitude =
 50 var frequency = 2 $Sprite.position.y =
 sin(TIME.get_ticks() frequency) amplitude

@@ -1919,7 +1919,7 @@ Transformative Politicized Social Work (Halifax: Fernwood Publishing, 2007); Chr
 
 ## Note: page numbers in italics refer to images
 
-```
+
 abductions, 66–8. See also disappearing people
 abolitionist movement: in 2020, 2, 6, 7
 addressing broad array of issues, 18
@@ -1937,7 +1937,7 @@ accountability, 87–8, 107, 153, 155
 addictions, 30, 132–7, 191n15
 ## ```
 
-```
+
 affordable housing, 103
 ## ```
 
@@ -2019,7 +2019,7 @@ bank robbers, 36
 
 divestment in communities, 163, 166
 
-```
+
 in early settled Montreal, 35
 ## ```
 
@@ -2309,7 +2309,7 @@ immigration enforcement, 130
 
 and new solidarities, 41
 
-```
+
 plan in Montreal, 40, 42
 ## ```
 
@@ -2733,7 +2733,7 @@ performing, 15
 
 photo speed limit enforcement, 116–17
 
-```
+
 police: acquitted, 20, 21–2
 ## ```
 
@@ -2933,7 +2933,7 @@ in justice system, 80
 
 and mental health, 150
 
-```
+
 recognizing, 26
 ## ```
 
@@ -3101,7 +3101,7 @@ surveillance and data collection, 124, 127
 
 ## and TPS, 99, 102, 103–6
 
-```
+
 vigil for Alloura, 106–7
 ## ```
 
@@ -3257,7 +3257,7 @@ systemic and racialization, 31
 
 ## Waiser, Bill, 17
 
-```
+
 Walcott, Rinaldo, 58
 ## ```
 

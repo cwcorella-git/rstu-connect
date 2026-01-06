@@ -174,7 +174,7 @@ Palestinians. 3:58 Internal colonialism refers to the exploitation of minority g
 
 ## 5:29
 
-```
+
 In both forms of colonialism, acts of enclosure are justified in a cultural 
 discourse that
 5:34
@@ -236,7 +236,7 @@ By erasing the Indigenous legacy of a place, flora, or fauna by their name,
 colonial powers
 ## ```
 
-```
+
 7:08
 are able to write out the native from the cartography, taxonomy, and topography of 
 a
@@ -508,7 +508,7 @@ ensure that everyone has access to the means of subsistence and production neces
 
 toward
 
-```
+
 17:46
 liberatory ends, punctuated by major ruptures and advances.
 17:52

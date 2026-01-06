@@ -779,7 +779,7 @@ When a game is executed the first function that will be run is called Awake() th
 
 #### Player.cs
 
-```
+
 Awake()
 {
        The player doesn't do anything in this function
@@ -801,7 +801,7 @@ ray Cast =
 Game Object. Find Game Object With Tag("Main Camera"). Get Component<Ray Cast Script>();
 ## ```
 
-```
+
 //Makes a reference to the boss
 apolluon = Game Object. Find("Apolluon"). Get Component<Apolluon>();
 //Sets the default facing direction to right
@@ -848,7 +848,7 @@ player = Game Object. Find Game Object With Tag("Player"). Get Component<Player>
 gm = Game Object. Find("Game Manager"). Get Component<Game Manager>();
 ## ```
 
-```
+
 //Gets the ex Sprite Animation component
 anim = Get Component<ex Sprite Animation>();
 //Sets the default valuse for enemyspeed
@@ -897,7 +897,7 @@ if (in Action)
 {
 ## ```
 
-```
+
 //Makes the enemy follow the player
 Follow Player();
 //Animates the enemy
@@ -930,7 +930,7 @@ On Mac OS X Player Prefs are stored in ~/Library/Preferences folder, in a file n
 
 Here is an example of how the players health is stored and loaded:
 
-```
+
 Save health
 Player Prefs. Set Int("Kade Health", health Points);
 Store health

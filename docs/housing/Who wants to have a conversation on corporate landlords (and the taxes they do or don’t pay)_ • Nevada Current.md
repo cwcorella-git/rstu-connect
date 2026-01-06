@@ -30,7 +30,7 @@ title: "Who wants to have a conversation on corporate landlords (and the taxes t
 
 ### Extracted Text
 
-```
+
 Who wants to have a conversation on corporate landlord...               https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
@@ -88,7 +88,7 @@ Who wants to have a conversation on corporate landlord...               https://
 
 ### Extracted Text
 
-```
+
 Who wants to have a conversation on corporate landlord...   https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
@@ -151,7 +151,7 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 
 ### Extracted Text
 
-```
+
 Who wants to have a conversation on corporate landlord...   https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
@@ -221,7 +221,7 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 
 ### Extracted Text
 
-```
+
 Who wants to have a conversation on corporate landlord...        https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
@@ -293,7 +293,7 @@ Who wants to have a conversation on corporate landlord...        https://nevadac
 
 ### Extracted Text
 
-```
+
 Who wants to have a conversation on corporate landlord...   https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
@@ -356,7 +356,7 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 
 ### Extracted Text
 
-```
+
 Who wants to have a conversation on corporate landlord...     https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
@@ -439,7 +439,7 @@ Who wants to have a conversation on corporate landlord...     https://nevadacurr
 
 ### Extracted Text
 
-```
+
 Who wants to have a conversation on corporate landlord...                 https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 
@@ -516,7 +516,7 @@ Who wants to have a conversation on corporate landlord...                 https:
 
 ### Extracted Text
 
-```
+
 Who wants to have a conversation on corporate landlord...                      https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
 
 

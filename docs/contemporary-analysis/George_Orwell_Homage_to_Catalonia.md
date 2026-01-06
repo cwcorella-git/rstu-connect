@@ -18,7 +18,7 @@ He was a tough-looking youth of twenty-five or six, with reddish-yellow hair and
 
 Something in his face deeply moved me. It was the face of a man who would commit murder and throw away his life for a friend — the kind efface you would expect in an Anarchist, though as likely as not he was a Communist. There were both candour and ferocity in it; also the pathetic reverence that illiterate people have for their supposed superiors. Obviously he could not make head or tail of the map; obviously he regarded map-reading as a stupendous intellectual feat. I hardly know why, but I have seldom seen anyone — any man, I mean — to whom I have taken such an immediate liking. While they were talking round the table some remark brought it out that I was a foreigner. The Italian raised his head and said quickly:
 
-```
+
 'Italiano?'
 I answered in my bad Spanish: 'No, Inglés. Y tú?'
 'Italiano.'
@@ -351,7 +351,7 @@ The Fascists had brought up a machine-gun now. You could see it spitting like a 
 
 Everyone began cursing and saying why the hell didn't they send us some supports. With a sub-machine-gun or twenty men with clean rifles we could hold this place against a battalion. At this moment Paddy Donovan, who was second-in-command to Benjamin and had been sent back for orders, climbed over the front parapet.
 
-```
+
 'Hi! Come on out of it! All men to retire at once!'
 'What?'
 'Retire! Get out of it!'
@@ -361,7 +361,7 @@ Everyone began cursing and saying why the hell didn't they send us some supports
 
 People were already climbing over the front parapet. Several of them were struggling with a heavy ammunition box. My mind flew to the telescope which I had left leaning against the parapet on the other side of the position. But at this moment I saw that the four Shock Troopers, acting I suppose on some mysterious orders they had received beforehand, had begun running up the communication-trench. It led to the other Fascist position and — if they got there — to certain death. They were disappearing into the darkness. I ran after them, trying to think of the Spanish for 'retire'; finally I shouted, 'Atrás! Atrás!' which perhaps conveyed the right meaning. The Spaniard understood it and brought the others back. Paddy was waiting at the parapet.
 
-```
+
 'Come on, hurry up.'
 'But the telescope!'
 'B — the telescope! Benjamin's waiting outside.'
@@ -481,7 +481,7 @@ What the devil was happening, who was fighting whom, and who was winning, was at
 
 In our position it was strangely peaceful. The Civil Guards in the Café Moka had drawn down the steel curtains and piled up the café furniture to make a barricade. Later half a dozen of them came on to the roof, opposite to ourselves, and built another barricade of mattresses, over which they hung a Catalan national flag. But it was obvious that they had no wish to start a fight. Kopp had made a definite agreement with them: if they did not fire at us we would not fire at them. He had grown quite friendly with the Civil Guards by this time, and had been to visit them several times in the Café Moka. Naturally they had looted everything drinkable the café possessed, and they made Kopp a present of fifteen bottles of beer. In return Kopp had actually given them one of our rifles to make up for one they had somehow lost on the previous day. Nevertheless, it was a queer feeling sitting on that roof. Sometimes I was merely bored with the whole affair, paid no attention to the hellish noise, and spent hours reading a succession of Penguin Library books which, luckily, I had bought a few days earlier; sometimes I was very conscious of the armed men watching me fifty yards away. It was a little like being in the trenches again; several times I caught myself, from force of habit, speaking of the Civil Guards as 'the Fascists'. There were generally about six of us up there. We placed a man on guard in each of the observatory towers, and the rest of us sat on the lead roof below, where there was no cover except a stone palisade. I was well aware that at any moment the Civil Guards might receive telephone orders to open fire. They had agreed to give us warning before doing so, but there was no certainty that they would keep to their agreement. Only once, however, did trouble look like starting. One of the Civil Guards opposite knelt down and began firing across the barricade. I was on guard in the observatory at the time. I trained my rifle on him and shouted across:
 
-```
+
 'Hi! Don't you shoot at us!'
 ## ```
 
@@ -796,7 +796,7 @@ It was late when I got back to Barcelona, and there were no taxis. It was no use
 
 When I got to the hotel my wife was sitting in the lounge. She got up and came towards me in what struck me as a very unconcerned manner; then she put an arm round my neck and, with a sweet smile for the benefit of the other people in the lounge, hissed in my ear:
 
-```
+
 'Get out!'
 ## ```
 
@@ -881,7 +881,7 @@ However, I got there in time, and slightly to my surprise I was granted a hearin
 
 However, he heard me patiently, nodded his head a great number of times, and gave a guarded assent to what I said. Yes, it sounded as though there might have been a mistake. Clearly the matter should be looked into. Mañana — I protested. Not mañana! The matter was urgent; Kopp was due at the front already. Again the officer seemed to agree. Then came the question I was dreading:
 
-```
+
 'This Major Kopp — what force was he serving in?'
 The terrible word had to come out: 'In the P. O. U. M. militia.'
 'P. O. U. M.!'

@@ -739,7 +739,7 @@ And to all those living recalcitrant lives.
  - [\[91\]](#page-15-13) Langbein 305
  - [\[92\]](#page-16-1) Langbein 305
 
-```
+
 [93] Langbein 306
  [94] Langbein 306
  [95] Wasowicz 247
@@ -804,7 +804,7 @@ praying. Problematic to be sure, and disturbing beyond belief.
  [150] Bæden Vol. I 109
 ## ```
 
-```
+
 [151] Bæden Vol. I 109
 [152] Who often speak the same language as nihilists, but arrive at some different conclusions.
 [153] The Invisible Committee 94
@@ -947,7 +947,7 @@ praying. Problematic to be sure, and disturbing beyond belief.
 
 [\[229\]](#page-40-3) A Conversation Between Anarchists 5. A similar observation is made by the Invisible Committee, who write: "Organizing is acting in accordance with a common perception... without this binding agent, gestures dissolve without a trace into nothingness, lives have the texture of
 
-```
+
 dreams, and uprisings end up in school-books," (To our friends 17).
  [230] Sun Still Rises 1
  [231] Sim Still Rises 10

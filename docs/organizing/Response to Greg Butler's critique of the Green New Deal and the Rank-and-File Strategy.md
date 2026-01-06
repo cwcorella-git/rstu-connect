@@ -477,7 +477,7 @@ In response to Butler's claim that the Green New Deal resolution that "calls for
 
 Texas may be a major oil state, but it also has more installed renewable energy capacity than any other US state (like they say,
 
-```
+
 everything's
 bigger in Texas).
 I

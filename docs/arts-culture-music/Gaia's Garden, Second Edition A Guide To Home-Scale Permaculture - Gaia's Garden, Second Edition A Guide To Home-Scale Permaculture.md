@@ -5589,7 +5589,7 @@ bur oak
 
 bush peas butter and eggs butterfly bush butterfly pea butterfly weed butternut trees
 
-```
+
 cabbage
 calcium
 calendula
@@ -5655,7 +5655,7 @@ chamomile
 
 ## Chamomilla rectutita (chamomile, German)
 
-```
+
 Chenopodium spp.
  C. album (lamb's quarters)
  C. ambrosioides (epazote)
@@ -5766,7 +5766,7 @@ curlytop-gumwood
 
 Cytisus spp.
 
-```
+
 Dactylis glomerata (orchardgrass)
 daffodil
 daikon radish. See radish
@@ -5809,7 +5809,7 @@ dwarf yarrow
 
 Dyrness, C. T.
 
-```
+
 earth chestnut
 earthworms
 eastern red cedar
@@ -5888,7 +5888,7 @@ Fraxinus spp.
 
 ## See also specific fruits in city gardens dwarf in food forest graywater for in guilds in net patterns nitrogen-fixing plants with for poultry forage fuchsia functions, stacking fungal diseases fungi
 
-```
+
 Galium aparine (cleavers)
 Gambel's oak
 garbanzo bean
@@ -6076,7 +6076,7 @@ Maackia amurensis (amur Maackia) Maclura pomifera (osage orange) madrone, Pacifi
 
 ## mesquite. See Prosopis spp. (mesquite)
 
-```
+
 city garden
  fruit trees
  herb garden
@@ -6155,7 +6155,7 @@ Pacific madrone Palmaria palmata (dulse) Panicum miliaceum parasitic insects (pa
 
 pickerel weed
 
-```
+
 pigweed
 Pimm, Stuart
 pine. See Pinus spp. (pine)
@@ -6226,7 +6226,7 @@ Pontederia cordata (pickerel weed)
 poplar, hybrid
 ## ```
 
-```
+
 poppy, California
 Portulaca oleracea (purslane)
 potassium
@@ -6279,7 +6279,7 @@ Pyrus spp. (pear)
 
 Queen Anne's lace Quercus spp. (oak) Q. alba Q. garryana (Oregon white oak) Q. macrocarpa (bur oak) quince. See Cydonia oblonga (quince) quinoa
 
-```
+
 raab
 rabbits
 radish
@@ -6378,7 +6378,7 @@ Russian olive. See Elaeagnus spp.
 
 ## ryegrass. See Lolium (ryegrass)
 
-```
+
 sage. See Salvia spp. (sage)
 sage, Jerusalem
 sagebrush
@@ -6446,7 +6446,7 @@ shagbark hickory
 
 shallots
 
-```
+
 sheep sorrel
 sheet mulch
  materials for
@@ -6517,7 +6517,7 @@ Spartium junceum (Spanish broom)
 spearmint
 ## ```
 
-```
+
 p
 speedwell
 spicebush
@@ -6632,7 +6632,7 @@ V. corymbosum (high-bush blueberry) V. macrocarpon (cranberry) V. vitis-idaea (l
 
 ## Vaccinium spp. (blueberry)
 
-```
+
 wahoo, eastern and European
 walking onion
 walnut. See Juglans spp. (walnut)

@@ -28,7 +28,7 @@ title: "Swedish syndicalism – An outline of its ideology and practice"
 
 ### Extracted Text
 
-``` Swedish syndicalism – An outline of its ideology and practice Date: Unknown Source: https://libcom.org/article/swedish-syndicalism-outline-its-ideology-and-practice Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
+
 
 
 
@@ -59,7 +59,7 @@ The book consists of four parts. Part 1 presents guidelines for successful organ
 
 ### Extracted Text
 
-``` labour struggle through unions is related to the long-term vision of syndicalism to democratize the workplaces and build an equal society. By organizing in unions, the broad masses of the people can seize power over their lives and communities.
+
 
 
 
@@ -110,7 +110,7 @@ In reply toWelcomebylibcom.org ```
 
 ### Extracted Text
 
-``` Nice to hear.
+
 
 
 

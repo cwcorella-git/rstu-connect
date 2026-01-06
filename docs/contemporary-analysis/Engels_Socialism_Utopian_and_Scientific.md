@@ -511,7 +511,7 @@ If the Belgian State, for quite ordinary political and financial reasons, itself
 
 5. A few figures may serve to give an approximate idea of the enormous expansive force of the modern means of production, even under capitalist pressure. According to Mr. Giffen, the total wealth of Great Britain and Ireland amounted, in round numbers in
 
-```
+
 1814 to £ 2,200,000,000,
 1865 to £ 6,100,000,000,
 1875 to £ 8,500,000,000.

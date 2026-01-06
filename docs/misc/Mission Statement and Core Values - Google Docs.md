@@ -25,7 +25,7 @@ title: "Mission Statement and Core Values - Google Docs"
 
 ### Extracted Text
 
-```
+
 Mission Statement
 We are a tenant organization fighting for safe and secure housing for all in the Reno-Sparks
 area. We believe that housing is a human right, not a commodity, and that everyone deserves
@@ -73,7 +73,7 @@ have a home or not.
 
 ### Extracted Text
 
-```
+
 Anti-gentrification
 We are opposed to the displacement of people and communities through gentrification.
 Gentrification is not inevitable. It is a deliberate process that is led by stakeholders with a

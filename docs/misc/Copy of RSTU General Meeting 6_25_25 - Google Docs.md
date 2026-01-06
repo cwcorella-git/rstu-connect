@@ -23,7 +23,7 @@ title: "Copy of RSTU General Meeting 6_25_25 - Google Docs"
 
 ### Extracted Text
 
-```
+
               RSTU General Meeting 6/25/25
 Highlights = follow up in the future
 
@@ -68,7 +68,7 @@ Highlights = follow up in the future
 
 ### Extracted Text
 
-```
+
                 ○ AB 223 - Habitability Enforcement
 
                        ⎻ Vetoed
@@ -130,7 +130,7 @@ Highlights = follow up in the future
 
 ### Extracted Text
 
-```
+
             ● This Friday, the 27th, at 5 PM on discord. If anyone wants to
                help research please contact Stacey or Nyx
 

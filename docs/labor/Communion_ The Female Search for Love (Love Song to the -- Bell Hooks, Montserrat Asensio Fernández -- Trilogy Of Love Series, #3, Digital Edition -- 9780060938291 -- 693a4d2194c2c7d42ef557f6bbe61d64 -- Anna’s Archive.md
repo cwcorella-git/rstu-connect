@@ -957,7 +957,7 @@ Cover design by Richard Aquan Cover photograph by Marcia Lippman
 
 The Library of Congress has catalogued the hardcover edition as follows:
 
-```
+
 Hooks, Bell.
     Communion : the female search for love / Bell Hooks.—1st ed.
       p. cm.
@@ -966,7 +966,7 @@ Hooks, Bell.
 
 1. Women—History. 2. Feminism. 3. Women—Social conditions. 4. Self-perception in women. 5. Man-woman relationships. I. Title.
 
-```
+
 HQ1154 . H635 2002
  305.4'09—dc21
 2001044711

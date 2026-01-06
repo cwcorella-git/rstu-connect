@@ -22,7 +22,7 @@ title: "rstu-general-meeting-1-8-25"
 
 ### Extracted Text
 
-```
+
                              RSTU General Meeting 1/8/25
 ●   Assign roles
         ○ Facilitator: Rosa

@@ -1079,7 +1079,7 @@ The "teacher" is a naive subject who has come to the lab, in response to an adve
 
 Over each group of four switches in the shock generator were written these words: Slight Shock, Moderate Shock, Strong Shock, Very Strong Shock, Intense Shock, Extreme Intensity Shock, Danger—Severe Shock. The last two switches were marked XXX. At first Dr. Milgram thought that the voltages and these words on the control panel would put pressure on the "teacher" to disobey the experimenter, and to refuse to go further. This did not happen. Without feedback from the "learner" or victim, almost every subject in the pilot study went to the end of the shock board. Mild protests from the victim did little to change this. In order to get some variation in the subjects1 behavior, the victims were made to respond (in rime this was recorded and played back from a tape). At 75 volts, and again at 90 and 105, the victim grunted. At 120 he shouted that the shocks were becoming painful. At 150 he cried out, "Experimenter, get me out of here! I won't be in the experiment any more! I refuse to go on!" At 180 volts he cried out, "I can't stand the pain!" and by 270 volts he was giving agonized screams. At every shock, from 150 volts on, he demanded to be let out of the experiment. At 300 volts he shouted that he would no longer provide any answers. At this point, the experimenter would tell the "teacher" to give the learner 5 or 10 seconds to respond, and if he did not, to treat this as a wrong answer, give a shock, and ask the next question. After 300 volts, the victim gave no more answers, but screamed in agony with each shock. After 330 he was not heard from, nor did any more answers appear on the signal box. After four series of experiments, the "learner's" response was changed ta include mention of a heart condition. As the "learner" is being strapped into the chair, he mentions that a few years earlier he was diagnosed as having a slight heart condition, and asks if the shocks are dangerous. Later he responds to the shocks as follows:
 
-```
+
 75 volts Ugh! 90 volts Ugh!
 105 volts Ugh! (louder)
 120 volts Ugh! Hey, this really hurts.
@@ -1088,7 +1088,7 @@ Over each group of four switches in the shock generator were written these words
 
 150 volts Ugh!! Experimenter! That's all. Get me out of here. 1 told you I had heart trouble. My heart's starting to bother me now. Get me out of here, please. My heart's starting to bother me. I refuse to go on. Let me out.
 
-```
+
 165 volts Ugh! Let me out! (shouting)
 ## ```
 
@@ -1098,7 +1098,7 @@ Over each group of four switches in the shock generator were written these words
 
 210 volts Ugh! Experimenter! Get me out of here. I've had enough. I won't be in the experiment any more.
 
-```
+
 225 volts Ugh!
 240 volts Ugh!.
 ## ```

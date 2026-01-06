@@ -25,7 +25,7 @@ title: "Address rent now or homelessness later, lawmakers told"
 
 ### Extracted Text
 
-```
+
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
@@ -84,7 +84,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 ### Extracted Text
 
-```
+
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
@@ -138,7 +138,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 ### Extracted Text
 
-```
+
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
@@ -192,7 +192,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 ### Extracted Text
 
-```
+
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
@@ -244,7 +244,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 ### Extracted Text
 
-```
+
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
@@ -297,7 +297,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 ### Extracted Text
 
-```
+
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 
@@ -350,7 +350,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 ### Extracted Text
 
-```
+
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
 
 

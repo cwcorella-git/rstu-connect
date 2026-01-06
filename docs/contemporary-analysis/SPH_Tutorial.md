@@ -528,7 +528,7 @@ $$-\Delta t^2 \sum_{j} m_j \left( \frac{m_i}{\rho_i^2} \nabla W_{ij} \right) \cd
 
 **Implementation** Alg. 2 shows the implementation of IISPH. Source term $s_i$ and diagonal element $a_{ii}$ are computed once. In iteration l, the pressure Laplacian $(\mathbf{Ap}^{(l)})_i = \Delta t^2 \nabla^2 p_i$ is computed in two steps. First, the pressure acceleration $(\mathbf{a}_i^{\mathbf{p}})^{(l)}$ is computed and stored at the particles. Then, the divergence of the velocity change due to the pressure acceleration, *i.e.*, $(\mathbf{Ap}^{(l)})_i$ , is computed. Neighborhood search, the computation of the predicted velocity $\mathbf{v}_i^*$ and the advection of particles are omitted in Alg. 2.
 
-```
+
 for all particle i do compute diagonal element a_{ii} with Eq. (49) compute source term s_i with Eq. (39) initialize pressure p_i^{(0)} = 0 l = 0 repeat for all particle i do compute pressure acceleration (\mathbf{a}_i^{\mathrm{p}})^{(l)} with Eq. (41) for all particle i do compute Laplacian (\mathbf{A}\mathbf{p}^{(l)})_i with Eq. (40) update pressure p_i^{(l+1)} with Eq. (48) l = l+1 until \rho_i^{\mathrm{avg\_err},*} < 0.1\%
 ## ```
 
@@ -626,7 +626,7 @@ for the first update if the pressure is initialized with $p_i^{(0)}=0$ . The sam
 $$p_i^{(l+1)} = p_i^{(l)} + \frac{\omega}{a_{ii}} \left( s_i - (\mathbf{A}\mathbf{p}^{(l)})_i \right)$$
 ## (64)
 
-```
+
 compute stiffness constant k^{\text{PCI}} with Eq. (58) 
 for all particle\ i\ \mathbf{do}
  compute predicted density \rho_i^* with Eq. (51) 
@@ -767,7 +767,7 @@ $$\rho_i^* = \rho_i + \Delta t \frac{D\rho_i}{Dt} = \rho_i + \Delta t \sum_j m_j
 
 Note that the factor $k_i^{\rm DFSPH}$ is used for both, the divergence-free and the constant density solver. Therefore, it has to be computed only once per simulation step. Algorithm 5 demonstrates an implementation of the constant density solver.
 
-```
+
 1: while (\rho^{\text{avg}} - \rho_0 > \eta) \lor (\text{iter} < 2) \text{ do}
 
 2: for all particles i do
@@ -787,7 +787,7 @@ Note that the factor $k_i^{\rm DFSPH}$ is used for both, the divergence-free and
 
 DFSPH solves two PPEs which is more expensive than solving
 
-```
+
 1: for all particles i do
            compute non-pressure accelerations \mathbf{a}_{i}^{\text{nonp}}
  3: adapt time step size \Delta t according to CFL condition

@@ -70,7 +70,7 @@ Fig. 2. Visual overview of the training procedure for the world model where red 
 
 # **Algorithm 1:** Algorithm for training the world model W.
 
-```
+
 Function Train World Model(S, T, N_W, \theta_W, dt):
         /* Set initial predicted state
 ## */
@@ -134,7 +134,7 @@ Here "Two Axis" converts from quaternion to rotation matrix and extracts the fir
 
 # **Algorithm 2:** Algorithm for training the policy $\Pi$ .
 
-```
+
 Function Train Policy(S_0, K, W, N_{\Pi}, \theta_{\Pi}, \sigma, \alpha, dt):
         /* Set initial predicted state
 ## */

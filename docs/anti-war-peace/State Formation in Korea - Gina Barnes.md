@@ -3679,7 +3679,7 @@ CERAMICS 36, 44, 169, 200; earthenware (yŏnjil) 93, 95, 97–98, 100– 105–1
 
 CERAMIC TYPES: Black Pottery 84–85, 95; celedon 114, 168; Chinese
 
-```
+
 Geometric 100; Gaki 95; Haji(ki) 88, 212; Kaya 98–99, 118, 123, 169, 194,
  196, 205, 212, 220–222; Kimhae 83, 86, 92, 94, 96–100, 113, 118, 194,
  203; Longshan 103; Paekche 99, 170; Plain Pottery [Mumun] 61, 84,
@@ -3703,7 +3703,7 @@ Chosŏn period (AD 1392–1910) xv, 155, 159, 162–174; [see also Yi Dynasty]
 
 Eastern Jin (AD 317–420) 59–60, 105, 142, 168, 232
 
-```
+
 Han Dynasty (BC 206 - AD 220) xiii, 2–3, 10–12, 17, 19, 60, 83, 87, 89,
  93, 103–104, 106, 112, 126, 129, 165, 203–204, 219; Eastern [Early]
  Han (BC 206– AD 9) 105, 111; Western [Late] Han (AD 23–220) 181,
@@ -3750,7 +3750,7 @@ Shu Han (Minor Han) Dynasty (AD 221–265) 2
 
 Song Dynasty (AD 960–1279) 105, 185
 
-```
+
 Southern Qi Dynasty (AD 479–502) 57
 ## ```
 
@@ -3780,7 +3780,7 @@ Zhou Dynasty (BC 1027–221) xxi, 2, 10, 103–106, 112, [125](https://calibre-p
 
 CITIES and towns, modern: Andong 192–193; Anyang 232; Chang'an 42; Changnyŏng 184, 195, 192–194, 197, 231; Ch'angwŏn 191–194, 224; Chaoyang 232; Chiksan 27–28; Ch'ilgok 192–193; Chinch'on 107–109; Chinhae 192, 194, 232; Chinju 192–193, 198; Ch'ogye 192–193; Hadong 192–193; Haman 184, 191–194, 197–198; Hamch'ŏn 191; Hamnyŏng 184; Hamyang 192–193; Hapch'ŏn 192–193, 197–198; Hwangp'o 155; Iksan 27–28, 30; Iryang 191; Jian 21, 23, 165; Kangbung 192–193; Kimhae 28, 132–133, 135, 137, 180–181, 184–187, 189, 191–194, 197– 198, 219, 223; Kŏch'ang 192–193, 198; Kongju 27–28, 32, 114, 192–193; Koryŏng 131, 184, 192–193, 197–198, 221; Kosŏng 184, 191–194, 198; Kwangju 27–28, 107–108, 132–133; Kyŏngju 4, 44, 81–82, 84–85, 94, 132, 157, 175, 187, 196–198, [201–227,](https://calibre-pdf-anchor.a/#a451) 231–232; Kyŏngsan 133, 184, 192– 193, 197–198; Masan 169, 192–194; Nagasaki 84; Namwŏn 192–193;
 
-```
+
 Nyŏngsan 192–193; Okchŏn 192–193; P'ohang 205, 211, 218; Purim
 192–193; Pusan 4, 31, 82–83, 85, 92, 133, 157, 179, 191–194, 198, 208,
 222–223, 230–231; Puyŏ 32, 56, 82, 114, 172–175; Pyŏngyang 4, 11, 14,
@@ -3812,7 +3812,7 @@ ETHNICITY 6, 11–12, 15, 17, 21, 26, 32–33, 35–36, 184, 186, 188, 220– 22
 
 FOODSTUFFS: millet xiv; rice xiv, 38, 173; salt 19; red beans 173
 
-```
+
 FORTIFICATIONS xii, 54–128, 152, 158, 169, 175–176, 217, 223–224,
  226; 'duel defensive system' 175; historical forts: Tanghang 153; Taga-
  jō 174; [see also walled sites]
@@ -3837,7 +3837,7 @@ HISTORICAL PERSONS: Alfred the Great x; Bede ix; Caesar ix; Dong Shou 24, 59, 12
 
 #### HISTORICAL PLACENAMES and administrative units: spelling and pronunciation 200; Ch'anghae 182; Chaoxian 9–11, 15, 17, 60; Chinju [Jinzhou] 185; Donggou 20, 23, 130, 143, 151, 165; Hŏ Hwang-ok 185; Imhae-hyŏn/gun 181; Kaogouli prefecture 22; Kari(ch'on) 184, 215; Kimhae-pu 181, 184; Koya-ch'on 215; Kŭmgwan-kyŏng 181; Kŭmju 184; Mimana [Imna] 38–40, [125,](https://calibre-pdf-anchor.a/#a301) 143, 148, 200 (Nihonfu 38–39; Wafu 39); Pyŏkjin 184; Taesu-ch'on 215; [see also capitals, polities]
 
-```
+
 HISTORICAL SOURCES ix, x, 1, 2, 6, 8, 12, 14, 34, 44, 168, 179, 200,
  216, 218, 224; of China ix, 6, 9, 16, 20, 22, 25–27, 31, 33–35, 39, 40,
  80, 97, 165–166, 191; of Korea 33, 39, 40, 80–81, 87, 148, 155, 165; of
@@ -3886,7 +3886,7 @@ IRON AGE: British xiii; European ix, x [see also chronology]
 - KINGS (including emperors): Anjang 59; Chabi 40, 59; Chin 16, 30; Chinhŭng 59; Chonji 232; Guang Wu 181; Han 16; Hurhae Isagŭm 60; Hye 34; Kaero 181, 200; Kŏdŭng 182; Kogungyang 59; Kugungwon 60; Koi 33, 60; Kuhŏng 182; Kuisin 33, 60; Kŭn Kusu 59; Kwanggaet'o 20, 59; Mu 36, 180; Munju 54, 182, 211, 226; Muyŏl [T'aejong] 54; Naemul 40, 59, 182, 214, 218, 232; Nulchi 232; Piryu 34, 42, 57, 198; P'yŏngwŏn 166; Silsong 59; Sinmun 54; Soji 20, 59; Suro [Suryŏng] 38, 181–182, 184–186; Tongsŏng 25, 60; Uija 232; Wu 11; Yangwŏn 14; Zhun [Chun] 11–13, 16
 - KINSHIP 6, 29; ancestors 41, 182, 185, 187; clan 23, 29, 34–35, 40–41, 185, 189, 215–216; descent-groups 41; family 81; genealogies 43; lineage 6, 41, 200, [201](https://calibre-pdf-anchor.a/#a451); marriage 34, 38, 181–182, 185, 188, 232; clan names: Hŏ [Xu/Hu] 185; Kim 40, 47–48, 214–215, 220, 227; Pak 41,
 
-```
+
 48, 215; Sŏk 41, 215; Kŭmnyang 41; Saryang 41; Ponp'i 41;
 Moryang 41; Hanji 41; Suppi 41
 ## ```
@@ -3923,7 +3923,7 @@ nationalism 3, 6, 8
 - PAEKCHE xiv–xv, xii, 3–4, 7–8, 24, 26, 30, 31–36, 37–40, 42–43, 46–48, 54–61, 81–82, 85, 94, 99, 114, [125](https://calibre-pdf-anchor.a/#a301), 128–130, 132, 142–143, 148, 151, 153– 154, 162–168, 170, 172–173, 175–176, 180, 183, 187, 189, 197–198, 200– 202, 231; [see also Ceramic Types: Paekche]
 - PEOPLES: Alan 218; Dong-i 11; Fuyu [Puyŏ] 22; Khitan xv; Kyeru 24; Maek 11, 26; Malgal xv, 44, 54; Mongol xv; Murong 21, 24, 26, 32, 34–35, 59–60; Okcho [Okjo, Wo-chu] 21–22, 25–26, 32, 34–35; Puyŏ
 
-```
+
 [Fuyu] 21–22, 25–26, 32–36, 47, 60, 125, 186–188, 219; Tungus 26;
 Vikings 38; Wa 38–39, 59, 143, 204; Xianbi 20; Ye 26, 204
 ## ```
@@ -3945,7 +3945,7 @@ RIVERS (including their basins): Ch'ong 4; Han 4, 15–16, 27, 32, 34–36, 42, 
 - SOCIAL STRATIFICATION 3, 6, 8, 27, 36, 42, 44, 46–48, 87–88, 113, 202–203, 211–212, 220; aristocracy xv, 5, 23, 33, 39, 42, 44, 81, 174; class society 14, 23, 87, 202, 220; commoners 5, 44, 46, 88, 158, 168–169, 197, 212; elites x, 5, 8, 14–15, 20, 35–36, 47–48, 88, 125, 128, 132, 142, 148, 152, 158, 160, 168–169, 174, 176, 186, 188, 196–197, 201, 232; royalty 23–24, 26, 33, 35, 43, 133, 176, 182, 186, 196–198, 211–212, 218, 232; social status 5, 8, 14, 16, 18–19, 27, 36, 44, 46, 81, 86–89, 126, 131, 144, 148, 185–186, 188, 218–220, 226
 - STATE <u>xiii</u>; attribution/definition <u>x</u>, <u>2</u>, <u>4</u>, <u>6</u>, <u>13</u>, <u>16</u>, <u>28</u>, <u>30</u>, <u>44</u>, <u>46–47</u>, <u>89</u>; archaic state (*kodae kukka*) <u>5</u>; city-state <u>15</u>; confederated kingdoms (*nyŏnmaeng wangguk*) <u>5</u>; empire <u>xiii</u>, <u>xiv</u>; *guo* [*guk*] <u>x</u>, <u>1</u>, <u>2</u>, <u>10</u>, <u>27–29</u>, <u>31</u>, <u>33</u>, <u>37–38</u>, <u>40</u>, <u>42</u>, <u>44</u>, <u>48</u>, <u>182</u>, <u>188–190</u>; Japanese <u>xiv</u>, <u>152</u>; kingdom <u>xiv–xv</u>, <u>5</u>, <u>24</u>, <u>28</u>, <u>83</u>, <u>152</u>, <u>186</u>; Korean <u>xiv–xv</u>; nation-states <u>xiv</u>; *polis* <u>x</u>; primitive state (*gensbi kokka*) <u>46</u>; regional state (*nyŏngyŏk*
 
-```
+
 kukka) 5; secondary states \underline{xiii}, 1; tribal state 5, 13, 22, 153; village state 41; walled-town state (s\breve{o}ng\bar{u}p\ kukka) 5, 13, 22, 29–30, 41, 153
 ## ```
 

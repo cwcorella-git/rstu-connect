@@ -29,7 +29,7 @@ tags:
 
 ### Extracted Text
 
-``` Solidarity is Not Enough Date: Fri, 05/26/2023 - 00:00 Source: https://ecology.iww.org/node/5740 Tags: strategy and tactics, direct action, class struggle, general strikes, strikes, deep organizing, movements, unions, and organizations, United Kingdom (UK), Industrial Workers of the World (IWW)
+
 
 
 
@@ -64,7 +64,7 @@ The pandemic gave focus and force to a movement against the intensification of w
 
 ### Extracted Text
 
-``` Threats to the value of shareholder returns must be dealt with so in response to these sentiments, we have a manufactured crisis – the Bank raised interest rates to trigger an artificial recession to reimpose work discipline via the cost-of-living. This has sparked widespread anger, and the traditional organs of the Left have mobilised to take the reins. The fightback against austerity has been union-led. Public sympathy for the strikes has been strong, but moral support, coins in collection buckets or posts on social media won’t address the wider issue, and nor will marches and rallies. Last summer, an RMT comrade from Bristol AFed commented,
+
 
 
 
@@ -91,7 +91,7 @@ If the strikes win, they will lead to a new round of maneuvers as capital accomm
 
 ### Extracted Text
 
-``` opened, and another world was glimpsed. Time and energy are essential to a life worth living, and we must claw them back. The ‘cost-of-living crisis’ is capital’s answer to this threat. Employers fear giving us more time or more power on the job – these losses cannot be so easily reabsorbed.
+
 
 
 
@@ -118,7 +118,7 @@ passengers, staff and all workers across the country’ ```
 
 ### Extracted Text
 
-``` coming together in a moment the like if which we haven’t seen since the Poll Tax or the Iraq War – but not if it is led by the traditional organs of the Left, with trusted Labour MPs parachuted in to steer it away from the open seas. The curse of the trades unions is representation. Recently, a comrade from the SAC commented that union members cannot be
+
 
 
 
@@ -165,6 +165,6 @@ Disclaimer: ```
 
 ### Extracted Text
 
-``` The views expressed here are not the official position of the IWW (or even the IWW’s EUC) and do not necessarily represent the views of anyone but the author. ```
+
 
 ---

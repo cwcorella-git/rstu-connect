@@ -25,7 +25,7 @@ tags:
 
 ### Extracted Text
 
-```
+
          Assembly Bill No. 121–Assemblymember Considine
                                 CHAPTER..........
 AN ACT relating to real property; requiring a landlord or his or her
@@ -89,7 +89,7 @@ charge through an Internet website or online portal from charging the tenant a f
 
 ### Extracted Text
 
-```
+
                                                          –2–
 
 make a payment through the Internet website or online portal in an amount that
@@ -156,7 +156,7 @@ agreement.
 
 ### Extracted Text
 
-```
+
                                  –3–
 
    Sec. 3. 1. A tenant who is aggrieved by a violation of
@@ -217,7 +217,7 @@ provide additional copies of any such agreement to the tenant within
 
 ### Extracted Text
 
-```
+
                                  –4–
 
 a reasonable time. The landlord may charge a reasonable fee for
@@ -277,7 +277,7 @@ dwelling unless the agreement:
 
 ### Extracted Text
 
-```
+
                                  –5–
 
        (1) Is notarized or is signed by an authorized agent of the
@@ -338,7 +338,7 @@ asterisk or other reference symbol which:
 
 ### Extracted Text
 
-```
+
                                    –6–
 
         (1) Is not less than one-half the font size of the single
@@ -400,7 +400,7 @@ NRS 118B.015.
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -412,7 +412,7 @@ NRS 118B.015.
 
 ### Extracted Text
 
-```
+
 ```
 
 ---

@@ -2709,7 +2709,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 ## Abernathy, Nancy, 52–53
 
-```
+
 abstract principles, as basis of moral life, 37–38
 "acceptance parenting," 105
 accompaniment
@@ -2719,7 +2719,7 @@ accompaniment
     patience and, 46–47
 ## ```
 
-```
+
 playfulness and, 47–50
     surrender of power and, 52
     as way of moving through life, 46
@@ -2742,7 +2742,7 @@ anger, 141
 anxiety, 20
 ## ```
 
-```
+
 artificial intelligence (AI), 11
 The Art of Empathy (Mc Laren), 151
 attention, 30, 74–75
@@ -2763,7 +2763,7 @@ Bernstein, Leonard, 224
 Big Five personality traits
 ## ```
 
-```
+
 agreeableness, 183–85
     conscientiousness, 181–82
     extroversion, 179–81
@@ -2786,7 +2786,7 @@ Brackett, Marc, 61, 155–57
 Bradley, David, 82–84
 ## ```
 
-```
+
 brain, human
     as body monitor, 144–45
     perception and, 65–66
@@ -2809,7 +2809,7 @@ Brooks, David
     panel discussion as life changing, 6–7
 ## ```
 
-```
+
 works of, 19
 Bruner, Jerome, 215
 Buber, Martin, 134–35
@@ -2830,7 +2830,7 @@ Caro, Robert, 198–99
 Carrère, Emmanuel, 55–56, 57, 58–60, 61, 69–70
 ## ```
 
-```
+
 Carstensen, Laura, 208
 character building, 170–71
 Chatter (Kross), 219
@@ -2853,7 +2853,7 @@ compassion, 52–54, 257
 competitiveness, 193
 ## ```
 
-```
+
 Composing a Life (Bateson), 223–24
 "conceptual blindness," 142
 conflict, 139, 196–97
@@ -2876,7 +2876,7 @@ conversation(s)
     failing to start, 214
 ## ```
 
-```
+
 finding underlying disagreement under specific disagreement, 80–81
     frame(s) of, 114–15
     hard, 109–11, 112–18, 120–21
@@ -2899,7 +2899,7 @@ Cooney, Gus, 76
 Cope, Stephen, 135–36, 162, 224–25
 ## ```
 
-```
+
 "co-regulation," 158
 Crouch, Andy, 75, 134
 Crucial Conversations (Patterson, Grenny, Mc Millan, and Switzler), 112,
@@ -2921,7 +2921,7 @@ D
 Darkness Visible (Styron), 125–26
 ## ```
 
-```
+
 Dartmouth-Princeton football game, 67
 Davis, Viola, 154, 221–22
 decision-making and ability to understand others, 10
@@ -2944,7 +2944,7 @@ developmental psychologists, 191–92
 Dick, Danielle, 187–88
 ## ```
 
-```
+
 Dickerson, Nancy, 186
 dignity of individual, awareness of, 31
 Diminishers, 12, 18–22
@@ -2965,7 +2965,7 @@ education
 egotism, 20
 ## ```
 
-```
+
 Eiseley, Loren, 43–44, 47–48, 50, 54
 Ellison, Ralph, 113
 "emotional granularity," 146–47, 153–59
@@ -2988,7 +2988,7 @@ emotions
 "empathic accuracy" scale, 14–15
 ## ```
 
-```
+
 empathy
     caring as practicing, 148–49
     developing skills of, 153–59
@@ -3013,7 +3013,7 @@ extroversion, 179–81
 
 # F
 
-```
+
 Faulkner, William, 224
 fear(s), 99, 138–39, 166
 Fernyhough, Charles, 219–20
@@ -3033,7 +3033,7 @@ Gelfand, Michele, 237–38
 generalizations, making, 22
 ## ```
 
-```
+
 generational divides, 24–25
 generativity, 204–7
 generosity of spirit, 35, 37, 84
@@ -3056,7 +3056,7 @@ Grant Study, 136–37, 200, 202
 Greenfield, Meg, 6
 ## ```
 
-```
+
 Grenny, Joseph, 112, 113–14, 116
 grief
     as journey, 169
@@ -3077,7 +3077,7 @@ Hatzfeld, Jean, 103–4
 Henrich, Joseph, 238–39
 ## ```
 
-```
+
 herzensbildung, 27
 High Conflict (Ripley), 112
 Hofstadter, Douglas, 264
@@ -3100,7 +3100,7 @@ human beings: seeing and understanding. See also
     Illuminators/Illuminationism
 ## ```
 
-```
+
 accompaniment and, 44
 awareness of dignity of individual as precondition for, 31
 as basis of morality, 38–40
@@ -3123,7 +3123,7 @@ before trauma and making of new models, 162–63
 vulnerability and, 47
 ## ```
 
-```
+
 human beings: seeing and understanding examples, 251–56
     in Good Will Hunting, 259–61
     Gottlieb and John, 256–59
@@ -3144,7 +3144,7 @@ Illuminators/Illuminationism
     examples of, 29–31
 ## ```
 
-```
+
 questions asked by, 69
     as way of being with other people, 32
     as way of life, 27
@@ -3167,7 +3167,7 @@ intimacy
     gradients of, 49
 ## ```
 
-```
+
 self-centered consciousness and, 194
 introductory questions, 89
 introspection, 142–43
@@ -3190,7 +3190,7 @@ Junod, Tom, 103
 
 # K
 
-```
+
 Kant, Immanuel, 37
 Kegan, Robert, 70, 191–92, 193, 196, 197, 205, 210
 Kennedy, John F., 186
@@ -3212,7 +3212,7 @@ Kushner, Harold, 169
 
 # L
 
-```
+
 Lahey, Lisa Laskow, 205
 lantern consciousness, 191
 La Rochefoucauld, François de, 224
@@ -3233,7 +3233,7 @@ life tasks
     human being as work in progress, 165–66, 209–11
 ## ```
 
-```
+
 imperial task, 193–94, 195
     interpersonal task, 195–97
 The Life We're Looking For (Crouch), 134
@@ -3256,7 +3256,7 @@ love, 38, 134–36
 
 # M
 
-```
+
 Machete Season (Hatzfeld), 103–4
 Marcia, James, 222
 Marks, James, 125, 132
@@ -3277,7 +3277,7 @@ Meltzoff, Andrew, 190–91
 memory, 231, 234
 ## ```
 
-```
+
 Mendelson, Edward, 188–89
 mentalizing, 147–48
 mental re-formation, 62–63
@@ -3300,7 +3300,7 @@ morality
     life as journey of, 244
 ## ```
 
-```
+
 as social practice, 171
     society's rules and, 237
     teaching in schools, 104–5
@@ -3322,7 +3322,7 @@ Niebuhr, H. Richard, 227
 
 "the night sea journey," 162
 
-```
+
 Nin, Anaïs, 62
 Nisbett, Richard, 239
 Noonan, Peggy, 100
@@ -3342,7 +3342,7 @@ P
 Palmer, Parker, J., 37, 79–80, 263, 270
 ## ```
 
-```
+
 paradigmatic thinking, 215, 216
 passive aggression, 139
 patience and accompaniment, 46–47
@@ -3365,7 +3365,7 @@ personality traits. See also Big Five personality traits
 personal narratives
 ## ```
 
-```
+
 crafting plot of, 222–25
     enduring pain by telling, 217
     honest, compassionate, 227
@@ -3388,7 +3388,7 @@ Pipher, Mary, 17, 40–42
 Platte River, 43–44, 47–48, 50, 54
 ## ```
 
-```
+
 playfulness, 47–50
     as state of mind, 48
 pluralistic societies, survival of, 11–12
@@ -3409,7 +3409,7 @@ Q
 questions
 ## ```
 
-```
+
 ability to see big picture when answering, 87
     asked by Illuminators, 69
     asking, as moral practice, 87
@@ -3430,7 +3430,7 @@ reality(ies)
     layers of, 61–62
 ## ```
 
-```
+
 personality trait of openness and, 185
     standing in between multiple, 207–8
     unconscious mind and, 120
@@ -3453,7 +3453,7 @@ relationships
     decline in social, 99
 ## ```
 
-```
+
 effect of childhood, on adult life, 134–39
     fear of, 99
     importance of, 213
@@ -3476,13 +3476,13 @@ Rossi, Cristina Peri, 201
 RULER curriculum, 156–57
 ## ```
 
-```
+
 Ruoff, Jeffrey, 128–29
 ## ```
 
 # S
 
-```
+
 "sacred flaws," 139–41
 safety, human need for, 134–35
 Sartre, Jean-Paul, 218
@@ -3501,7 +3501,7 @@ Seneca, 196
 A Separate Peace (Knowles), 193
 ## ```
 
-```
+
 Seth, Anil, 66
 The Seven Basic Plots (Booker), 223
 Shaw, George Bernard, 9, 80
@@ -3524,7 +3524,7 @@ social skills. See also empathy
      inadequacy of current, in pluralistic societies, 12
 ## ```
 
-```
+
 necessary for being full human beings, 7–8
 society, need for different types of people in, 177
 Solomon, Andrew, 130–31
@@ -3547,7 +3547,7 @@ Strength in What Remains (Kidder), 251–56
 Styron, William, 125–26
 ## ```
 
-```
+
 subjective consciousness
     changes in, 62–63
     creation of individual's reality by, 16, 64–65
@@ -3568,7 +3568,7 @@ tenderness, 32–33
 Terkel, Studs, 92–93
 ## ```
 
-```
+
 Terrence, 121
 thinking, modes of, 215–17
 threat detection, overactive, 138–39, 141
@@ -3591,7 +3591,7 @@ tsunami in Sri Lanka, 56–60, 61, 69–70
 
 unconscious mind
 
-```
+
 bringing thoughts from, to surface, 168
     construction of defenses and, 137
     perception and reality and, 120
@@ -3612,7 +3612,7 @@ vulnerability
 
 ## ![](_page_296_Picture_1.jpeg)
 
-```
+
 Warren, Robert Penn, 245
 warrior/statesman model of good character, 170
 Way, Niobe, 85

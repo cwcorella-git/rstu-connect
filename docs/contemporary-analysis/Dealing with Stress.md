@@ -1,4 +1,4 @@
-```
+
 0:01
 In 2019, I was doing administrative work at an insurance company.
 0:05
@@ -59,7 +59,7 @@ Uploading.
 0:53
 ## ```
 
-```
+
 Filing.
 0:54
 Editing.
@@ -121,7 +121,7 @@ MY stress threshold.
 2:11
 ## ```
 
-```
+
 But I was close.
 2:13
 And thankfully, I was lucky.
@@ -183,7 +183,7 @@ guilt, chronic illness, trauma, loneliness, and low self-esteem.
 3:53
 ## ```
 
-```
+
 Life stress, like loss of a loved one, marriage, breakups, divorce, social drift, 
 social obligations,
 4:02
@@ -245,7 +245,7 @@ unpredictable,
 wildly varying abuse and hierarchical power structures that capitalism engenders.
 ## ```
 
-```
+
 5:53
 And as psychologist Judith Herman noted, "The ultimate effect of psychological 
 domination
@@ -308,7 +308,7 @@ effects,
 
 while capitalism propagates exploitation and traumatic stress in ways that promote
 
-```
+
 the
 7:17
 pursuit of power and status and ultimately keeps the system functioning.
@@ -370,7 +370,7 @@ Nature follows the Dao with ease, but we have willpower.
 8:36
 ## ```
 
-```
+
 We can choose to go against it.
 8:39
 We don't follow our natural course now because our society of control and shame, 
@@ -432,7 +432,7 @@ Even among the fortunate, therapy is often focused on "fixing" the individual to
 adjust to a sick society, using medication if necessary.
 ## ```
 
-```
+
 10:12
 That's not enough.
 10:13
@@ -494,7 +494,7 @@ We need to heal ourselves.
 Conversely, obsessing over only the welfare of the self is an equally awful
 ## ```
 
-```
+
 pitfall.
 11:50
 The question is always can I change?

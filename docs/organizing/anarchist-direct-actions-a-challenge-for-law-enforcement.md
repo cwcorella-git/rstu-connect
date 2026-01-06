@@ -26,7 +26,7 @@ title: "Anarchist Direct Actions A Challenge for Law Enforcement"
 
 ### Extracted Text
 
-``` Anarchist Direct Actions: A Challenge for Law Enforcement Date: Unknown Source: https://libcom.org/article/anarchist-direct-actions-challenge-law-enforcement Tags: United States, police, repression, Randy Borum, Chuck Tilby, PDF
+
 
 
 

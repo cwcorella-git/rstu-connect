@@ -24,7 +24,7 @@ title: "brief-overview"
 
 ### Extracted Text
 
-```
+
                                                                                                                          What is a Tenants
  Talk to your                      I don't personally have any
                                      pressing issues with my
@@ -63,7 +63,7 @@ Compiled by RSTU (add logo)               respond to a problem.             Emer
 
 ### Extracted Text
 
-```
+
                                                   3. Build a communication
             How to get started                method: Set up a system for tenants
       1. Planning: Join the Reno Sparks        to stay in communication (like a                                                      This is just a brief overview!
@@ -130,7 +130,7 @@ Notes:
 
 ### Extracted Text
 
-```
+
 ```
 
 ---

@@ -22,7 +22,7 @@ title: "Local government perspectives of federal land management in Nevada - Sci
 
 ### Extracted Text
 
-```
+
 Local government perspectives of federal land manage...              https://www.sciencedirect.com/science/article/abs/pii/S...
 
 
@@ -79,7 +79,7 @@ Local government perspectives of federal land manage...              https://www
 
 ### Extracted Text
 
-```
+
 Local government perspectives of federal land manage...        https://www.sciencedirect.com/science/article/abs/pii/S...
 
 
@@ -140,7 +140,7 @@ Local government perspectives of federal land manage...        https://www.scien
 
 ### Extracted Text
 
-```
+
 Local government perspectives of federal land manage...    https://www.sciencedirect.com/science/article/abs/pii/S...
 
 
@@ -200,7 +200,7 @@ Local government perspectives of federal land manage...    https://www.sciencedi
 
 ### Extracted Text
 
-```
+
 Local government perspectives of federal land manage...      https://www.sciencedirect.com/science/article/abs/pii/S...
 
 
@@ -259,7 +259,7 @@ Local government perspectives of federal land manage...      https://www.science
 
 ### Extracted Text
 
-```
+
 Local government perspectives of federal land manage...           https://www.sciencedirect.com/science/article/abs/pii/S...
 
 
@@ -320,7 +320,7 @@ Local government perspectives of federal land manage...           https://www.sc
 
 ### Extracted Text
 
-```
+
 Local government perspectives of federal land manage...                                        https://www.sciencedirect.com/science/article/abs/pii/S...
 
 

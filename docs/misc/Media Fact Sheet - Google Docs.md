@@ -25,7 +25,7 @@ title: "Media Fact Sheet - Google Docs"
 
 ### Extracted Text
 
-```
+
     MEDIA FACT SHEET
     To be referenced when in media interviews
 
@@ -73,7 +73,7 @@ title: "Media Fact Sheet - Google Docs"
 
 ### Extracted Text
 
-```
+
      ○ 94% of apartment units constructed in Reno in past decade have been luxury
          units
      ○ Opportunity zones

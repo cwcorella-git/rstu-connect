@@ -44,7 +44,7 @@ title: "Six ways Nevada policymakers are trying to tackle the housing crisis - C
 
 ### Extracted Text
 
-```
+
 Six ways Nevada policymakers are trying to tackle the ...             https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 
@@ -81,7 +81,7 @@ Six ways Nevada policymakers are trying to tackle the ...             https://ww
 
 ### Extracted Text
 
-```
+
 Six ways Nevada policymakers are trying to tackle the ...     https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 
@@ -152,7 +152,7 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
 
 ### Extracted Text
 
-```
+
 Six ways Nevada policymakers are trying to tackle the ...     https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 
@@ -213,7 +213,7 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
 
 ### Extracted Text
 
-```
+
 Six ways Nevada policymakers are trying to tackle the ...              https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 
@@ -267,7 +267,7 @@ Six ways Nevada policymakers are trying to tackle the ...              https://w
 
 ### Extracted Text
 
-```
+
 Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 
@@ -332,7 +332,7 @@ Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonn
 
 ### Extracted Text
 
-```
+
 Six ways Nevada policymakers are trying to tackle the ...     https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 
@@ -397,7 +397,7 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
 
 ### Extracted Text
 
-```
+
 Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonnow.org/04/13/2025/six-ways-nevada...
 
 

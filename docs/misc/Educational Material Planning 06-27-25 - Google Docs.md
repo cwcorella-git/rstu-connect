@@ -35,7 +35,7 @@ title: "Educational Material Planning 06-27-25 - Google Docs"
 
 ### Extracted Text
 
-```
+
  Previous Meeting Notes:     Educational Material Planning 6/20/25
 
 
@@ -77,7 +77,7 @@ Status Updates
 
 ### Extracted Text
 
-```
+
      - Could include NRS codes on the website for more info with a
          QR code
      - Could have bibliography/sources on back page
@@ -122,7 +122,7 @@ Status Updates
 
 ### Extracted Text
 
-```
+
 - Presentation resources town hall powerpoint includes the history of
   tenants union
 - Check media fact sheet for wins from tenants unions
@@ -168,7 +168,7 @@ Priorities by July 6 tabling
 
 ### Extracted Text
 
-```
+
 - Fee transparency AB 121(?) educational handout
     Fee Transparency AB121
 - Copywriting for What is a Tenants Union ready to review July 4

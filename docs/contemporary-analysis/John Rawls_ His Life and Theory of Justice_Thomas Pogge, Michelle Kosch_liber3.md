@@ -516,7 +516,7 @@ Stating the point in general terms: A top-level criterion of justice satisfying 
 
 When there are many affected recipients, the easiest way of comparing two candidates is by reordering the individual well-being scores each would generate by magnitude. (The anonymity condition requires that such a reordering should not alter the assessment.) This reordering yields the distributional profile associated with each candidate. Thus, the distributional profiles of the two ways of organizing the microsociety just discussed are <3,5,9> and <4,6,9>, respectively. Here is a more complex example involving the distributional profiles of three alternative public criteria:
 
-```
+
 C_{\perp} < 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9,
 C_s < 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9 > 
 C_6 < 2,2,2,2,3,3,3,3,3,3,3,3,3,4,4,5,5,5,5,5,6,6,6,6,6,6,6,6,6,7,7,7,7,8,8,8,8,8,8,8
@@ -526,7 +526,7 @@ Employing such distributional profiles, one can see at a glance that the distrib
 
 The preceding discussion simplifies by assuming that, irrespective of which social order is chosen, the same persons would exist. This assumption is false of real-world societies, where the choice of social order makes a difference to who is born. This might be no problem if at least a society's population size were unaffected. But this weaker assumption, too, is false in the real world: The way a society is organized affects its birth and death rates. And there may then not be a one-to-one mapping of individuals across alternative ways of organizing society.
 
-```
+
 C7: <1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9>
 C8: <1,1,1,1,1,2,2,2,2,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7,7,8,8,8,8,8,8,9,9,9,9,9,9>
 ## ```
@@ -555,7 +555,7 @@ A third objection to the anonymity condition, associated with David Gauthier, ho
 
 The fourth and most powerful objection to the anonymity condition maintains that, even if two distributions display the same distributional prole, one may still be morally inferior to the other if it displays a strong correlation between well-being scores on the one hand and skin color, gender, or religion on the other. Thus consider two identical distributional proles with the scores of women (or people of color) highlighted in boldface:
 
-```
+
 <1,1,1,2,2,2,3,3,3,3,3,4,4,4,4,4,4,5,5,6,6,6,7,7,7,7,7,7,7,7,7,8,8,8,8,9,9,9,9,9,9, 9,9,9,9>
 <1,1,1,2,2,2,3,3,3,3,3,4,4,4,4,4,4,5,5,6,6,6,7,7,7,7,7,7,7,7,7,8,8,8,8,9,9,9,9,9,9, 9,9,9,9>
 ## ```
@@ -2220,7 +2220,7 @@ art, 10, 15, 87, 168
 | Hoffmann,<br>Stanley,<br>21 | relative,<br>110,<br>113–16,<br>120,<br>152 |
 ## | | |
 
-```
+
 individualism, 175
  normative, 44, 47–48, 62–63, 73
 inequalities, 75, 80, 92–96, 98,
@@ -2406,7 +2406,7 @@ institutions (social), 28–34, 37, 39–41,
 | 87–90,<br>173<br>(see<br>also | principle,<br>106,<br>120,<br>126, |
 | fundamental<br>interests) | 129,<br>132 |
 
-```
+
 original position, vii–viii, 17, 43,
        60–67, 71–73, 75, 77, 80, 91,
        93, 107, 115, 117, 126, 128,

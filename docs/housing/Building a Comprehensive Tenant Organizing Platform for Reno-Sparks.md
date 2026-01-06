@@ -25,7 +25,7 @@ title: "Building a Comprehensive Tenant Organizing Platform for Reno-Sparks"
 
 ### Extracted Text
 
-```
+
 Building a comprehensive tenant organizing platform for Reno-
 Sparks
 This report synthesizes extensive research on technical architecture, privacy systems, mapping
@@ -74,7 +74,7 @@ sacrificing usability.
 
 ### Extracted Text
 
-```
+
 For communication security, the platform should integrate Matrix protocol for decentralized
 messaging alongside Signal for sensitive organizing. The Commons Social Change … Matrix's federation
 capabilities allow tenant organizations to run their own servers, eliminating single points of control
@@ -124,7 +124,7 @@ essential for inclusive organizing in diverse communities like Reno-Sparks. Late
 
 ### Extracted Text
 
-```
+
 Failed platforms consistently share three vulnerabilities: over-reliance on grant funding versus
 member-driven sustainability, tools built without sufficient organizer input that fail to gain adoption,
 and inadequate privacy protections that expose tenant information to landlords or law enforcement.
@@ -176,7 +176,7 @@ Phase 3: Advanced Capabilities (Weeks 9-12)
 
 ### Extracted Text
 
-```
+
 Integrate Matrix server for decentralized communication ($20/month for small VPS).
 The Commons Social Change …   Matrix   Add D3.js visualizations for ownership network analysis. D3
 Implement mobile Progressive Web App for field organizing. Create automated scraping for property
@@ -224,7 +224,7 @@ independence.
 
 ### Extracted Text
 
-```
+
 The Nevada Housing Coalition's statewide advocacy creates policy alignment opportunities. Platform
 data visualizations can support legislative campaigns, demonstrating ownership concentration and
 displacement patterns to lawmakers. This evidence-based advocacy strengthens both digital

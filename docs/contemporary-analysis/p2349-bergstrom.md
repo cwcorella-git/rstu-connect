@@ -134,7 +134,7 @@ Even with groups of related words, we must combine and prune our results to avoi
 
 <sup>3</sup>http://www.nuance.com/naturallyspeaking
 
-```
+
 200 red (25) white (19) blue (3)
 150 color (25) pattern (20) red (5)
 100 red (10) white (10) green (6)

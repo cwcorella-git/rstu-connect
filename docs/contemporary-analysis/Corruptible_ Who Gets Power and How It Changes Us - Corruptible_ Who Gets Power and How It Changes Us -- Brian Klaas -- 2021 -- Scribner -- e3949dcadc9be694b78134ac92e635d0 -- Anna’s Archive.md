@@ -2697,7 +2697,7 @@ frequently groomed: Ibid.
 
 A note about the index: The pages referenced in this index refer to the page numbers in the print edition. Clicking on a page number will take you to the ebook location that corresponds to the beginning of that page in the print edition. For a comprehensive list of locations of any word or phrase, use your reading system's search function.
 
-```
+
 Abhisit Vejjajiva, 129–34
 Acton, John Dalberg-Acton, Baron, 128, 140, 148, 154, 157, 163, 245, 246
 addiction, and social status, 166–68
@@ -2729,7 +2729,7 @@ Babiak, Paul, 96
 baby-faced appearance, and threat perception, 81–82
 ## ```
 
-```
+
 Ban, Hajnal, 78–79
 Batavia (ship), 1–4, 17, 29
 Beard, Mary, 74–75
@@ -2777,7 +2777,7 @@ Bundy, Ted, 94, 96
 Bush, George W., 122, 125, 211
 ## ```
 
-```
+
 businesses. See also CEOs
     appearance ("white guy in a tie") and credibility in, 61–63
     eliminating abstract nature of decision-making in, 210
@@ -2824,7 +2824,7 @@ civil service
     corruption of, as job attraction for corruptible people, 15–16
 ## ```
 
-```
+
 employee rotation in, 193–94
     status changes and health of workers in, 169–70
 Clacton Spear, 25
@@ -2872,7 +2872,7 @@ corruption
     behavior changes and beliefs about, 114
 ## ```
 
-```
+
 dictators' innovative approaches to, 139-40
     gender discrimination and, 74
     Madagascar presidency and, 10–11
@@ -2919,7 +2919,7 @@ dark triad traits
     professional positions with, 99, 102
 ## ```
 
-```
+
 psychopaths and, 90–91, 96, 101
 Darwin, Charles, 173, 175
 Dash, Mike, 3
@@ -2966,7 +2966,7 @@ empathy, 92–94
 environmental circumscription, 34
 ## ```
 
-```
+
 ethnic minorities
     percentage as CEOs, 63–65
     police recruitment of, 53–55
@@ -3012,7 +3012,7 @@ gender discrimination
     physical size in perceptions of power and, 75-76
 ## ```
 
-```
+
 genetics
     aging rate and, 173–74
     DNA closeness between humans and chimpanzees in, 18
@@ -3059,7 +3059,7 @@ hierarchy
     leader's power over shipwrecked sailors and, 3–4, 6, 17
 ## ```
 
-```
+
 limits of at societies and need for, 36
     military use of ranged weapons and need for, 31–33
     murder rates and power struggles in, 35–36
@@ -3105,7 +3105,7 @@ job applications
     impact of black-sounding names in, 82
 ## ```
 
-```
+
 job interviews, and psychopaths, 95
 journalism, corruption coverage by, 233–36
 judicium Dei (judgment of God), 221
@@ -3151,7 +3151,7 @@ leaders. See also CEOs; political leaders
     strength in perceptions of, 75–76, 77
 ## ```
 
-```
+
 torture memo as example of abstraction in work of, 210–13, 215
 leader selection
     attraction of bad qualities of leaders and, 16
@@ -3198,7 +3198,7 @@ Marshall Project, 52
 Mc Clelland, David, 49
 ## ```
 
-```
+
 Mc Cormack, Win, 152
 Mc Fife, Martin, 56–58, 105
 Memorial Medical Center, New Orleans, 142–45
@@ -3245,7 +3245,7 @@ myths, about dictators, 140–41
 Nader, Michael, 165–68, 179
 ## ```
 
-```
+
 narcissism. See also dark triad traits
     as motivation to seek power, 219
     prison experiment on, 13
@@ -3291,7 +3291,7 @@ police departments, 49–55
     ethnic composition of, 55
 ## ```
 
-```
+
 ex-soldiers serving in, 52
     homicide rates for civilians in, 52
     perception of racial bias in, 55
@@ -3339,7 +3339,7 @@ power
     physical size and perceptions of, 75–77
 ## ```
 
-```
+
 power paradox for people holding, 157–58
     prison experiment on attraction of, 11–14
     research on impact on individuals of, 155–64
@@ -3387,7 +3387,7 @@ psychopaths, 85–103
     supercial charm of, 93, 94, 95, 100, 102
 ## ```
 
-```
+
 ultimatum game studies of, 97–99
 psychopathy, in dark triad, 90
 punishment
@@ -3434,7 +3434,7 @@ religion and religious movements
 replication crisis, 68, 158
 ## ```
 
-```
+
 research
     controlled conditions issue in, 163
     convenience sampling in, 158–59
@@ -3481,7 +3481,7 @@ sharing
     lucky-unlucky status of children and, 21–22
 ## ```
 
-```
+
 power and level of, 160–61
 Sheela, Ma Anand, 149–54, 163
 Sheldahl, Barry, 153
@@ -3529,7 +3529,7 @@ status
     drug use experiment and, 165–68
 ## ```
 
-```
+
 health and level of, 169–70, 177, 178
     height as predictor of, 77–78
     immune response and, 174, 178–79
@@ -3576,7 +3576,7 @@ triage, in medical care, 142–45
 trial by ordeal, 221–23
 ## ```
 
-```
+
 Trope, Yaacov, 214–15
 Tung, Jenny, 172–73, 174, 176, 178–79
 Turchin, Peter, 29–31, 33, 35, 36
@@ -3622,7 +3622,7 @@ white-collar crime, 218, 232–33
 Whitehall II Study, 169–70, 175, 176–77
 ## ```
 
-```
+
 Williams, George Washington, 120
 women
     challenge of being rst woman as Canadian prime minister, 205

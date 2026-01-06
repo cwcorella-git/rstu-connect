@@ -26,7 +26,7 @@ tags:
 
 ### Extracted Text
 
-``` Murray Bookchin
+
 
 
 
@@ -39,7 +39,7 @@ Libertarian Municipalism: An Overview
 
 
           The Anarchist Library
-```
+
 
 ---
 
@@ -50,7 +50,7 @@ Libertarian Municipalism: An Overview
 
 ### Extracted Text
 
-``` Contents A Civic Ethics . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     3
+
 
 Means and Ends       . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
 
@@ -64,7 +64,7 @@ Addendum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       9
 
 
                                     2
-```
+
 
 ---
 
@@ -75,7 +75,7 @@ Addendum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       9
 
 ### Extracted Text
 
-```
+
       Perhaps the greatest single failing of movements for social recon-
       struction — I refer particularly to the Left, to radical ecology groups,
       and to organizations that profess to speak for the oppressed — is
@@ -94,7 +94,7 @@ A Civic Ethics Libertarian municipalism represents a serious, indeed a historica
 
 
                                          3
-```
+
 
 ---
 
@@ -105,7 +105,7 @@ A Civic Ethics Libertarian municipalism represents a serious, indeed a historica
 
 ### Extracted Text
 
-``` rhetorically dierent. It seeks to reclaim the public sphere for the exercise of au- thentic citizenship while breaking away from the bleak cycle of parliamentarism and its mystication of the “party” mechanism as a means for public represen- tation. In these respects, libertarian municipalism is not merely a “political strategy.” It is an eort to work from latent or incipient democratic possibilities toward a radically new conguration of society itself-a communitarian society oriented toward meeting human needs, responding to ecological imperatives, and developing a new ethics based on sharing and cooperation. That it involves a consistently independent form of politics is a truism. More important, it in- volves a redenition of politics, a return to the word’s original Greek meaning as the management of the community or polis by means of direct face-to-face assemblies of the people in the formulation of public policy and based on an ethics of complementarily and solidarity.
+
     In this respect, libertarian municipalism is not one of many pluralistic tech-
 niques that is intended to achieve a vague and undened social goal. Democratic to its core and nonhierarchical in its structure, it is a kind of human destiny, not merely one of an assortment of political tools or strategies that can be adopted and discarded with the aim of achieving power. Libertarian municipalism, in eect, seeks to dene the institutional contours of a new society even as it advances the practical message of a radically new politics for our day.
 
@@ -118,7 +118,7 @@ state on the one hand and the political and social realms on the other has been
 
 
                                           4
-```
+
 
 ---
 
@@ -129,7 +129,7 @@ state on the one hand and the political and social realms on the other has been
 
 ### Extracted Text
 
-``` an ongoing subterranean civil war for centuries. It has often broken out into the open — in modern times in the conict of the Castilian cities (comuneros) against the Spanish monarchy in the 1520s, in the struggle of the Parisian sections against the centralist Jacobin Convention of 1793, and in endless other clashes both before and after these encounters.
+
     Today, with the increasing centralization and concentration of power in the
 nation-state, a “new politics” — one that is genuinely new — must be structured institutionally around the restoration of power by municipalities. This is not only necessary but possible even in such gigantic urban areas as New York City, Montreal, London, and Paris. Such urban agglomerations are not, strictly speaking, cities or municipalities in the traditional sense of those terms, despite being designated as such by sociologists. It is only if we think that they are cities that we become mystied by problems of size and logistics. Even before we confront the ecological imperative of physical decentralization (a necessity anticipated by Frederick Engels and Peter Kropotkin alike), we need feel no problems about decentralizing them institutionally. When Francois Mitterand tried to decentralize Paris with local city halls a few years ago, his reasons were strictly tactical (he wanted to weaken the authority of the capital’s right-wing mayor). Nonetheless, he failed not because restructuring the Large metropolis was impossible but because the majority of the auent Parisians supported the mayor.
     Clearly, institutional changes do not occur in a social vacuum. Nor do they
@@ -142,7 +142,7 @@ Confederalism Equally important is the need for confederation — the interlinki
 
 
                                         5
-```
+
 
 ---
 
@@ -153,7 +153,7 @@ Confederalism Equally important is the need for confederation — the interlinki
 
 ### Extracted Text
 
-``` 1936, confederalism constituted a major challenge to state centralism. Nor has it disappeared in our own time, when the breakup of existing twentieth-century empires raises the issue of enforced state centralism or the relatively autonomous nation. Libertarian municipalism adds a radically democratic dimension to the contemporary discussions of confederation (as, for example, in Yugoslavia and Czechoslovakia) by calling for confederations not of nation-states but of munic- ipalities and of the neighborhoods of giant megalopolitan areas as well as towns and villages.
+
      In the case of libertarian municipalism’ parochialism can thus be checked not
 only by the compelling realities of economic interdependence but by the com- mitment of municipal minorities to defer to the majority wishes of participating communities. Do these interdependencies and majority decisions guarantee us that a majority decision will be a correct one? Certainly not — but our chances for a rational and ecological society are much better in this approach than in those that ride on centralized entities and bureaucratic apparatuses. I can- not help but marvel that no municipal network has been emergent among the German Greens, who have hundreds of representatives in city councils around Germany but who carry on a local politics that is completely conventional and self enclosed within particular towns and cities.
      Many arguments against libertarian municipalism — even with its strong
@@ -163,7 +163,7 @@ vested of its meaning, it is a desideratum that must be fought for. It speaks to
 
 
                                           6
-```
+
 
 ---
 
@@ -174,7 +174,7 @@ vested of its meaning, it is a desideratum that must be fought for. It speaks to
 
 ### Extracted Text
 
-``` new politics of a popular movement and ultimately captures the imagination of millions.
+
     Certain points, however, should be obvious. The people who initially enter
 into the duel between confederalism and statism will not be the same human beings as those who eventually achieve libertarian municipalism. The movement that tries to educate them and the struggles that give libertarian municipalist principles reality will turn them into active citizens, rather than passive “con- stituents.” No one who participates in a struggle for social restructuring emerges from that struggle with the prejudices, habits, and sensibilities with which he or she entered it. Hopefully, then, such prejudices — like parochialism — will increasingly be replaced by a generous sense of cooperation and a caring sense of interdependence.
 
@@ -187,7 +187,7 @@ by ecological, not simply technological, standards — we would expect that the 
 
 
                                         7
-```
+
 
 ---
 
@@ -198,7 +198,7 @@ by ecological, not simply technological, standards — we would expect that the 
 
 ### Extracted Text
 
-``` rather than by personal proclivities and vocational concerns. Here, citizenship would come into its own, and rational as well as ecological interpretations of the public good would supplant class and hierarchical interests.
+
     This is the moral basis of a moral economy for moral communities. But
 of overarching importance is the general social interest that potentially under- pins all moral communities, an interest that must ultimately cut across class, gender, ethnic, and status lines if humanity is to continue to exist as a viable species. This interest is the one created in our times by ecological catastrophe. Capitalism’s “grow or die” imperative stands radically at odds with ecology’s imperative of interdependence and limit The two imperatives can no longer co- exist with each other — nor can any society founded on the myth that they can be reconciled hope to survive. Either we will establish an ecological society, or society will go under for everyone, irrespective of his or her status.
     Will this ecological society be authoritarian, or possibly even totalitarian, a
@@ -212,7 +212,7 @@ long worked with minimum and maximum programs for change, in which im- mediate s
 
 
                                          8
-```
+
 
 ---
 
@@ -223,7 +223,7 @@ long worked with minimum and maximum programs for change, in which im- mediate s
 
 ### Extracted Text
 
-``` that are owned by the community; and the creation of grassroots networks in many elds of endeavor and the public weal — all these can be developed at a pace appropriate to changes that are being made in political life.
+
     That capital will likely “migrate” from communities and confederations that
 are moving toward libertarian municipalism is a problem that every community, every nation, whose political life has become radicalized has faced. Capital, in fact, normally “migrates” to areas where it can acquire high prots, irrespective of political considerations. Overwhelmed by fears of capital migration, a good case could be established for not rocking the political boat at any time. Far more to the point are that municipally owned enterprises and farms could provide new ecologically valuable and health-nourishing products to a public that is becoming increasingly aware of the low-quality goods and staples that are being foisted on it now.
     Libertarian municipalism is a politics that can excite the public imagina-
@@ -238,7 +238,7 @@ reasons as a means to enter another reformist party or function as its “left w
 
 
                                         9
-```
+
 
 ---
 
@@ -249,7 +249,7 @@ reasons as a means to enter another reformist party or function as its “left w
 
 ### Extracted Text
 
-``` in largely reformist conicts.
+
     Thus, libertarian municipalism is not merely an eort simply to “take over”
 city councils to construct a more “environmentally friendly” city government. These adherents or opponents of libertarian municipalism, in eect, look at the civic structures that exist before their eyes now and essentially (all rhetoric to the contrary aside) take them as they exist. Libertarian municipalism, by contrast, is an eort to transform and democratize city governments, to root them in popular assemblies, to knit them together along confederal lines, to appropriate a regional economy along confederal and municipal lines.
     In fact, libertarian municipalism gains its life and its integrity precisely from
@@ -261,7 +261,7 @@ ments since SDS in the 1960s, ranging from foreign to domestic nationalisms. Bec
 
 
                                          10
-```
+
 
 ---
 
@@ -272,7 +272,7 @@ ments since SDS in the 1960s, ranging from foreign to domestic nationalisms. Bec
 
 ### Extracted Text
 
-```
+
     Critics of libertarian municipalism even dispute the very possibility of a
 “general interest.” If, for such critics, the face-to-face democracy advocated by libertarian municipalism and the need to extend the premises of democracy beyond mere justice to complete freedom do not suce as a “general interest,” it would seem to me that the need to repair our relationship with the natural world is certainly a “general interest” that is beyond dispute — and, indeed, it remains the “general interest” advanced by social ecology. It may be possible to coopt many dissatised elements in the present society, but nature is not cooptable. Indeed, the only politics that remains for the Left is one based on the premise that there is a “general interest” in democratizing society and preserving the planet Now that traditional forces such as the workers’ movement have ebbed from the historical scene, it can be said with almost complete certainty that without libertarian municipalism, the left will have no politics whatever.
     A dialectical view of the relationship of confederalism to the nation-state,
@@ -286,7 +286,7 @@ eralism, is precisely the “Commune of communes” for which anarchists have fo
 
 
                                        11
-```
+
 
 ---
 
@@ -297,7 +297,7 @@ eralism, is precisely the “Commune of communes” for which anarchists have fo
 
 ### Extracted Text
 
-```
+
                      The Anarchist Library
                                   October 17, 2009
 
@@ -317,7 +317,7 @@ eralism, is precisely the “Commune of communes” for which anarchists have fo
                             Retrieved on April 28, 2009 from
 http://dwardmac.pitzer.edu/anarchist_archives/bookchin/gp/perspectives24.html This article was originally published as the introduction to the Social Ecology Project’s Readings in Libertarian Municipalism, a collection of writings on the subject. Green
                               Perspectives — October 1991
-```
+
 
 ---
 

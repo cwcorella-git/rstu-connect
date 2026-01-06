@@ -1628,7 +1628,7 @@ Addressing residential injustice and inequality will demand state action as well
 
 ## Index
 
-```
+
 abandoned buildings, 173–5
  tax on, 202
 Abrams, Charles, 167
@@ -1659,7 +1659,7 @@ alienation, 55
  Marx on, 57, 80
 ## ```
 
-```
+
 and precarity, 56n, 59
  and private property, 56, 83
  and real estate, 82
@@ -1708,7 +1708,7 @@ capitalism:
  and rent strike, 156
 ## ```
 
-```
+
 and urban development, 8
  See also commodification of housing; hyper-commodification; market; profit
 Castells, Manuel, 107, 135
@@ -1758,7 +1758,7 @@ deregulation, 46–50
  action against, 203
 ## ```
 
-```
+
 and house prices, 40
  and hyper-commodification, 28–31
  and mortgage, 28
@@ -1808,7 +1808,7 @@ eviction, 62–5, 156
  moratorium on, 207
 ## ```
 
-```
+
 and NYCHA, 165
  and tenant movement, 170
  See also displacement; homelessness
@@ -1857,7 +1857,7 @@ gender:
  paternalism, 128–9
 ## ```
 
-```
+
 unpaid domestic labor, 22n, 99–100
  See also women
 gentrification, 16, 42–5
@@ -1907,7 +1907,7 @@ home:
  meaning of, 11–2
 ## ```
 
-```
+
 and movements, 111
  and profit, 49
  and racism, 102
@@ -1958,7 +1958,7 @@ housing:
  and experimentation, 208–11
 ## ```
 
-```
+
 and globalization, 34–5
  goal of, 191
  and home, 60
@@ -2009,7 +2009,7 @@ humane housing, 80–3, 114
 Husock, Howard, 46
 ## ```
 
-```
+
 Hylan, John, 158
 hyper-commodification, 26–35
  and deregulation, 28–31
@@ -2060,7 +2060,7 @@ insurrection, 92, 171
  and urban renewal, 92
 ## ```
 
-```
+
 intersectionality, 98–104
 investment, 47–8
  and New York, 54
@@ -2107,7 +2107,7 @@ luxury buildings, 36–9
  and inequality, 180
 ## ```
 
-```
+
 and labor camps, 90
  as low-income housing, 208
  as new currency, 36
@@ -2157,7 +2157,7 @@ mortgage:
  and suburbanization, 134
 ## ```
 
-```
+
 and wealthy, 141
 Moses, Robert, 165, 167
 Movement for Justice in El Barrio (MJB), 181–3
@@ -2207,7 +2207,7 @@ New York:
  and abandonment, 173–5
 ## ```
 
-```
+
 and affordable housing, 137–9
  anti-rent movement, 152
  Billionaire's Row, 39
@@ -2258,7 +2258,7 @@ obedience:
  and housing, 94
 ## ```
 
-```
+
 and public housing, 129–30
 Occupy Our Homes, 183
 Occupy Wall Street, 183
@@ -2308,7 +2308,7 @@ policy:
  myth of benevolent state, 119-21, 126, 128, 140, 144
 ## ```
 
-```
+
 myth of meddling state, 140–4
  and private enterprise, 127
  and privatization, 135
@@ -2359,7 +2359,7 @@ precarity, 54–5, 71, 73
 primitive accumulation, 19
 ## ```
 
-```
+
 private enterprise, 127–30
  monopoly of, 204
  and public funds, 130, 132, 135
@@ -2410,7 +2410,7 @@ public housing, 126–30
  as conflict resolution, 85
 ## ```
 
-```
+
 and deregulation, 46
  disappearance of, 40–1, 172, 185
  expansion of, 129, 203–6
@@ -2459,7 +2459,7 @@ real estate:
  monopoly of, 204
 ## ```
 
-```
+
 more important than industry, 27–8
  and oppression, 94
  and policy, 140
@@ -2510,7 +2510,7 @@ Right to the City Alliance, 185, 196, 201, 208, 215
 Right to the City Coalition, 185–6
 ## ```
 
-```
+
 Riis, Jacob, 124, 126, 153
 riots:
  in New York, 122–4, 178–9
@@ -2560,7 +2560,7 @@ state:
  and inequality, 143–4, 218
 ## ```
 
-```
+
 and luxury buildings, 138
  and market, 46–7
  myth of benevolent, 119–21, 126, 128, 140, 144
@@ -2610,7 +2610,7 @@ Tompkins Square Riot of 1988 (NY), 178–9
 Toscano, Alberto, 206
 ## ```
 
-```
+
 Tounkara, Assetu, 53
 Tounkara, Mahamadou, 53
 transformative demands, 198–200
@@ -2658,7 +2658,7 @@ wealthy:
  and riots in New York, 122
 ## ```
 
-```
+
 and taxes, 141
  See also elites; luxury buildings
 Williams, Rhonda, 108

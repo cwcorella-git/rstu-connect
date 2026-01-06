@@ -2119,7 +2119,7 @@ Further, Edgar Bauer goes on: 'guardianship is the characteristic of a governmen
 
 'In the constitutional state it is the regent and his disposition that the whole structure of government rests on in the end.'! How would that be otherwise in the 'people's state'? Shall I not there be governed by the people's disposition too, and does it make a difference for me whether I see myself kept in dependence by the prince's disposition or by the people's disposition, so-called 'public opinion'? If dependence means as much as 'religious relation', as Edgar Bauer rightly alleges, then in the people's state the people remains for me the superior power, the 'maj esty' (for God and prince have their proper essence in 'majesty') to which I stand in religious relations. - Like
 
-```
+
 , Ibid. p. 56. 
 d Ibid. p. n 
 ## b Ibid. p. 76.
@@ -3614,7 +3614,7 @@ Papal states and changing the criteria for inclusion of books in the Index - and
 
 Certain subjects, such as Christianity and egoism, occur on virtually every page of The Ego and Its Own; in such cases the entries below refer only to passages where there is some extended discusson of the subject.
 
-```
+
 adulthood, xiv, 1 6-18 
 Africa, xvii-xviii, xix, 63 
 Algiers, 230 
@@ -3671,7 +3671,7 @@ bifurcation of self, xvi, xx-xxi, 3 1 -2,
 
 3 3-4, 68, 74, 8 1-2, 87, 131,
 
-```
+
 Christian state, 47, 66, 181, 1 89, 200 
 commonalty: see middle class 
 communism, 1 06, 107, 1 08, 1 1 0, 1 1 6, 
@@ -3915,7 +3915,7 @@ versus insurrection, xxviii, 52, state, xxv-xxvi, 90-8, 158, 160-1, 174-8, 189-9
 | T alleyrand -Perigord |
 ## | |
 
-```
+
 Babeuf, Fran�ois Noel, 1 70, 358--<) 
 Bacon, Francis, 79, 345-6 
 Bailly, Jean-Sylvain, 91, 2°7 , 349, 365 

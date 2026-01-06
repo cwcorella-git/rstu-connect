@@ -23,7 +23,7 @@ title: "assembly-bill-no-283"
 
 ### Extracted Text
 
-```
+
 Assembly Bill No. 283–Assemblymen Summers-Armstrong,
       Marzola, Peters; Bilbray-Axelrod, Carter, González,
       Brittney Miller, C.H. Miller, Nguyen and Watts
@@ -87,7 +87,7 @@ Human Services for a waiver granted pursuant to 42 U.S.C. § 1315
 
 ### Extracted Text
 
-```
+
                                       –2–
 
 or apply for an amendment of the State Plan for Medicaid that
@@ -148,7 +148,7 @@ to which money from the appropriation is granted or otherwise
 
 ### Extracted Text
 
-```
+
                                    –3–
 
 transferred in any manner, and any portion of the appropriated

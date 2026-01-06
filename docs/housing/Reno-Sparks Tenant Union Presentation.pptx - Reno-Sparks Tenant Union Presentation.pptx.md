@@ -32,7 +32,7 @@ title: "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Pr
 
 ### Extracted Text
 
-```
+
 Reno-Sparks Tenants Union
        Town Hall
 ```
@@ -46,7 +46,7 @@ Reno-Sparks Tenants Union
 
 ### Extracted Text
 
-```
+
 About us
 
    We are the Reno-Sparks Tenants Union,
@@ -66,7 +66,7 @@ About us
 
 ### Extracted Text
 
-```
+
     About us
 We believe…
 Housing is a human right
@@ -88,7 +88,7 @@ Housing is a human right
 
 ### Extracted Text
 
-```
+
 Housing in Nevada
 ```
 
@@ -108,7 +108,7 @@ Housing in Nevada
 
 ### Extracted Text
 
-```
+
 Rent is Increasing
 ```
 
@@ -121,7 +121,7 @@ Rent is Increasing
 
 ### Extracted Text
 
-```
+
 Rent vs Wages
 
  ●   Increase in wages in Reno from 2017 to 2021 was almost
@@ -146,7 +146,7 @@ Rent vs Wages
 
 ### Extracted Text
 
-```
+
 Not enough low-income housing
 ```
 
@@ -166,7 +166,7 @@ Not enough low-income housing
 
 ### Extracted Text
 
-```
+
 Not a Development Problem
 
 
@@ -184,7 +184,7 @@ Not a Development Problem
 
 ### Extracted Text
 
-```
+
 Legislation
 Governor Lombardo vetoed legislation
 
@@ -217,7 +217,7 @@ Governor Lombardo vetoed legislation
 
 ### Extracted Text
 
-```
+
 Evictions In Nevada
  Nevada has a rapid summary eviction
  process
@@ -242,7 +242,7 @@ Evictions In Nevada
 
 ### Extracted Text
 
-```
+
 What is a Tenant Union?
 ```
 
@@ -265,7 +265,7 @@ What is a Tenant Union?
 
 ### Extracted Text
 
-```
+
 What is Tenant Union?
 
  Tenant unions are renters in a
@@ -284,7 +284,7 @@ What is Tenant Union?
 
 ### Extracted Text
 
-```
+
 Brief History of Tenant Unions
  1880’s Tenant activism began with the rise of industrialism
  1920’s Tenant organization led to rent control in New York
@@ -316,7 +316,7 @@ Brief History of Tenant Unions
 
 ### Extracted Text
 
-```
+
 What Can Tenant Unions Do?
 
 
@@ -343,7 +343,7 @@ What Can Tenant Unions Do?
 
 ### Extracted Text
 
-```
+
 What Can Tenant Unions Do?
 
 
@@ -369,7 +369,7 @@ What Can Tenant Unions Do?
 
 ### Extracted Text
 
-```
+
 What Can Tenant Unions Do?
 
 
@@ -388,7 +388,7 @@ What Can Tenant Unions Do?
 
 ### Extracted Text
 
-```
+
 Laws About Tenant Unions
 
 
@@ -406,7 +406,7 @@ Laws About Tenant Unions
 
 ### Extracted Text
 
-```
+
 Tenant Unions
 
 
@@ -425,7 +425,7 @@ Tenant Unions
 
 ### Extracted Text
 
-```
+
 Q&A
 ```
 
@@ -438,7 +438,7 @@ Q&A
 
 ### Extracted Text
 
-```
+
 Group Discussion
 ```
 
@@ -458,7 +458,7 @@ Group Discussion
 
 ### Extracted Text
 
-```
+
 What Can You Do?
 • Join the Reno-Sparks Tenant Union
        •   We have biweekly meetings – talk to one

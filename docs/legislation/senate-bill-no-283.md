@@ -23,7 +23,7 @@ title: "senate-bill-no-283"
 
 ### Extracted Text
 
-```
+
                                                                                                             S.B. 283
 
      SENATE BILL NO. 283–SENATORS CANNIZZARO, SCHEIBLE,
@@ -81,7 +81,7 @@ title: "senate-bill-no-283"
 
 ### Extracted Text
 
-```
+
                                            –2–
 
  1   expenditure made from the money appropriated by subsection 1
@@ -143,7 +143,7 @@ title: "senate-bill-no-283"
 
 ### Extracted Text
 
-```
+
                                            –3–
 
  1       3. Any balance of the sums appropriated by subsection 1
@@ -205,7 +205,7 @@ title: "senate-bill-no-283"
 
 ### Extracted Text
 
-```
+
                                     –4–
 
 1   September 18, 2026, and September 17, 2027, respectively, by

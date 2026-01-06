@@ -25,7 +25,7 @@ tags:
 
 ### Extracted Text
 
-```
+
         Assembly Bill No. 223–Assemblymembers Considine;
              Anderson, Karris, Mosca, Roth and Watts
 
@@ -90,7 +90,7 @@ in place to control the presence of rodents, insects and vermin; (3) effective
 
 ### Extracted Text
 
-```
+
                                           –2–
 
 measures in place to prevent exposure to unsafe levels of radon, lead paint,
@@ -162,7 +162,7 @@ without incurring late fees, charges for notice or certain other charges until t
 
 ### Extracted Text
 
-```
+
                                           –3–
 
 landlord has remedied the failure; (2) authorizes the court to order that such rent be

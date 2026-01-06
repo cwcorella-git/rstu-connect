@@ -32,7 +32,7 @@ title: "Landlord-Tenant-Handbook-NLS-April-2022"
 
 ### Extracted Text
 
-```
+
                               Nevada Landlord-Tenant Law
 
 
@@ -91,7 +91,7 @@ Page 1 of 36
 
 ### Extracted Text
 
-```
+
                                Part One-Moving In
 
 
@@ -150,7 +150,7 @@ Page 2 of 36
 
 ### Extracted Text
 
-```
+
       (g) Charges which may be required for late or partial payment of rent or for
       return of any dishonored check;
       (h) Inspection rights of the landlord;
@@ -207,7 +207,7 @@ Page 3 of 36
 
 ### Extracted Text
 
-```
+
                                 Prohibited lease terms
 
 NRS 118A.220(1) prohibits any lease that requires you to:
@@ -267,7 +267,7 @@ Page 4 of 36
 
 ### Extracted Text
 
-```
+
 II.   Security Deposits
 
 NRS 118A.240, 118A.242, and 118A.244, govern security deposits in Nevada.
@@ -323,7 +323,7 @@ Page 5 of 36
 
 ### Extracted Text
 
-```
+
 paid by your security deposit. If you disagree with the charges, you must notify
 the surety bond company in writing. The surety bond can sue you for damages if
 the bond does not cover the costs allowable under NRS 118A.242. If the surety
@@ -380,7 +380,7 @@ Page 6 of 36
 
 ### Extracted Text
 
-```
+
 For example, the landlord deducted the cost to repaint your dwelling based on
 many chips and scuffs on the walls. You deny this damage and your argument
 against this charge would be the damage did not occur (argument 1). If you lived
@@ -440,7 +440,7 @@ Page 7 of 36
 
 ### Extracted Text
 
-```
+
 NRS 118A.350, 118A.355, 118A.360, and 118A.380 contain your remedies if the
 landlord has failed to maintain a habitable dwelling. These laws have different
 requirements and a diagram follows this section.
@@ -498,7 +498,7 @@ Page 8 of 36
 
 ### Extracted Text
 
-```
+
 require the landlord to fix the problem sooner than 14 days, but no sooner than 48
 hours after issuing the notice.
 
@@ -556,7 +556,7 @@ Page 9 of 36
 
 ### Extracted Text
 
-```
+
 Yet, we still strongly advise you to send your own notice, keep a copy of the
 notice, and wait fourteen days for the landlord to fix the problem. Always keep a
 copy of the notice that you give your landlord. You will need it as proof that you
@@ -613,7 +613,7 @@ Page 10 of 36
 
 ### Extracted Text
 
-```
+
                       Written notice and forty-eight hours to fix
 
 The landlord must treat your lack of essential services as an emergency that must
@@ -670,7 +670,7 @@ Page 11 of 36
 
 ### Extracted Text
 
-```
+
 If you want to withhold rent or sue for damages under NRS 118A.380, you do not
 need to issue written notice if the landlord has already received notice from code
 enforcement or some other government agency.
@@ -714,7 +714,7 @@ Page 12 of 36
 
 ### Extracted Text
 
-```
+
                                    Habitability Notices and Remedies
 
 
@@ -767,7 +767,7 @@ Page 13 of 36
 
 ### Extracted Text
 
-```
+
                     Part 3-Retaliation and the Fair Housing Act
 
 I.    Retaliation
@@ -828,7 +828,7 @@ Page 14 of 36
 
 ### Extracted Text
 
-```
+
       (c) Decreasing essential services required by NRS Chapter 118A or the
       lease.
 If the landlord has retaliated against you, NRS 118A.510 allows you to sue the
@@ -886,7 +886,7 @@ Page 15 of 36
 
 ### Extracted Text
 
-```
+
                              Part 4-Leaving So Soon?
 
 I.    Surrender and Abandonment
@@ -945,7 +945,7 @@ Page 16 of 36
 
 ### Extracted Text
 
-```
+
 ownership below. Generally, service of a seven day pay rent or quit notice or five
 day unlawful detainer notice signals summary eviction.
 
@@ -1005,7 +1005,7 @@ Page 17 of 36
 
 ### Extracted Text
 
-```
+
 If you have received a seven day pay rent or quit notice, NRS 40.253 allows you
 until close of business (when court closes) on the seventh day following service of
 this notice to pay the rent, move, or file an affidavit with the justice court. In
@@ -1062,7 +1062,7 @@ Page 18 of 36
 
 ### Extracted Text
 
-```
+
 Only a constable or sheriff, registered process server, or an attorney or agent of an
 attorney can serve eviction notices. Only the constable or sheriff can serve
 eviction orders.
@@ -1121,7 +1121,7 @@ Page 19 of 36
 
 ### Extracted Text
 
-```
+
 If the judge finds that you have raised a legal defense, the judge will deny the
 eviction. If you do not raise a legal defense, the judge will grant the eviction and
 issue an order. The constable or sheriff must serve the eviction order within
@@ -1179,7 +1179,7 @@ Page 20 of 36
 
 ### Extracted Text
 
-```
+
 (b) I have a legal reason for not paying the rent
 
 There are a wide variety of legal reasons for not paying the rent. Many judges are
@@ -1237,7 +1237,7 @@ Page 21 of 36
 
 ### Extracted Text
 
-```
+
 For example, a leaky roof has caused $2,000 in damages to your furniture and
 clothing. You have not paid this month’s rent which is $1,000 and the landlord has
 served a seven day pay rent or quit notice. You would have a legal defense to the
@@ -1296,7 +1296,7 @@ Page 22 of 36
 
 ### Extracted Text
 
-```
+
 If you are not disabled and not over fifty-nine, you can still ask the court for more
 time to move. You do this by waiting for the landlord to serve a five day unlawful
 detainer (required after your thirty or seven day notice expires). Then, you must
@@ -1354,7 +1354,7 @@ Page 23 of 36
 
 ### Extracted Text
 
-```
+
 need a service animal even if the service animal has NO special training. See Part
 3(II) –The Fair Housing Act.
 
@@ -1414,7 +1414,7 @@ Page 24 of 36
 
 ### Extracted Text
 
-```
+
 you to figure out what the landlord is referring to and enable you to present a
 meaningful defense to the court.
 
@@ -1473,7 +1473,7 @@ Page 25 of 36
 
 ### Extracted Text
 
-```
+
 If you want to file an affidavit, you must file within five business days and the
 information on the contesting the eviction is contained above.
 
@@ -1530,7 +1530,7 @@ Page 26 of 36
 
 ### Extracted Text
 
-```
+
 The landlord may also serve a five day unlawful detainer notice. This notice is
 similar to the 4 day housebreaker notice, except you get one extra weekday to file
 your affidavit.
@@ -1588,7 +1588,7 @@ Page 27 of 36
 
 ### Extracted Text
 
-```
+
 landlord’s right to hold your property. The landlord must wait 21 days, however,
 before disposing of your property.
 
@@ -1647,7 +1647,7 @@ Page 28 of 36
 
 ### Extracted Text
 
-```
+
 A reasonable charge to store your property would be up to the daily prorated rent
 you paid when you lived in the dwelling. For example, if you paid $300 per month
 in rent, the landlord could reasonable charge $10 per day ($300 divided by 30) to
@@ -1706,7 +1706,7 @@ Page 29 of 36
 
 ### Extracted Text
 
-```
+
                                  What is conversion?
 
 If the landlord has not stored your property for thirty days and gave your property
@@ -1764,7 +1764,7 @@ Page 30 of 36
 
 ### Extracted Text
 
-```
+
 foreclosure process), the notice of sale (the last notice before the sale), and any
 other foreclosure notices required by law. Transfer of title documents will also be
 available. These documents demonstrate who has legal title of your dwelling and
@@ -1821,7 +1821,7 @@ Page 31 of 36
 
 ### Extracted Text
 
-```
+
           Do I have to pay rent even though the landlord is in foreclosure?
 
 Even though the landlord may not be paying the mortgage, you must continue to
@@ -1875,7 +1875,7 @@ Page 32 of 36
 
 ### Extracted Text
 
-```
+
  NRS 118A.500 allows you to seek an injunction to stop the landlord from abusing
 the right to access your dwelling. A lock box would be an abuse of the landlord’s
 right to access your dwelling. If a lock box is on your door handle, you should
@@ -1930,7 +1930,7 @@ Page 33 of 36
 
 ### Extracted Text
 
-```
+
 If you stay, you must pay your rent and abide by the terms of your lease. The new
 owner must honor your lease and cannot evict you until it expires. If you live in
 residential housing, four units or less, the new must provide a sixty day notice.
@@ -1985,7 +1985,7 @@ Page 34 of 36
 
 ### Extracted Text
 
-```
+
 If the landlord sells or transfers your residential dwelling (four units or less), and
 not through a foreclosure, then the new owner must honor your lease provide a
 thirty day notice. After the thirty days expire, or your lease expires, whichever is
@@ -2040,7 +2040,7 @@ Page 35 of 36
 
 ### Extracted Text
 
-```
+
 If the security deposit is not transferred and not returned to you, you can sue the
 old landlord under NRS 118A.242 if more than thirty days have expired after the
 property transfers.

@@ -17,7 +17,7 @@ tags:
 Fragments of an Anarchist Anthropology David Graeber
           PRICKLY PARADIGM PRESS
                  CHICAGO
-```
+
                                                                                            1
                                   Anarchism:
                                        The name given to a principle or theory of life

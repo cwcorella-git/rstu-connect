@@ -959,7 +959,7 @@ During the execution o a cell, the input prompt will contain an asterisk. I it s
 
 Finally, it is important to keep separate the display and output areas below the input cell. The dierence between these two areas is subtle and conusing, but is very important in some instances. The display area is reserved or any item that code has produced or viewing. That includes simple text (i.e., print("hello, world")) or gures rom a plot. The output area is reserved or items that the cell "returns." This is why in many notebooks you may see a variable assignment ollowed immediately by the variable, like this:
 
-```
+
 x = 2434 + 33476
 x
 ## ```
@@ -992,7 +992,7 @@ In addition to the IPywidgets library, the ipyleaet library (https://ipylealet.r
 
 #### Example
 
-```
+
 from ipyleaflet import Map
 Map(center=[34.6252978589571, -77.34580993652344], zoom=10)
 ## ```

@@ -1446,7 +1446,7 @@ Jerome Bruner has said that one thing that happens in school is that children ar
 
 One of our art associates once conducted an experiment in her art resources classroom. As the children entered the classroom they found construction paper on the desks. The teacher held up a folded fan--like those you and I have made many times--"Know what this is?"
 
-```
+
 "Oh, yes!"
 ## ```
 

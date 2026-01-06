@@ -1,4 +1,4 @@
-```
+
 0:01
 "Man, it is hot today."
 0:04
@@ -247,7 +247,7 @@ Perhaps some already come to mind.
 
 plants and materials as cheaply as possible; remember to walk with bags so you can
 
-```
+
 easily
 7:41
 collect any garbage, rocks, and weeds that you're clearing away; give your plants a
@@ -571,7 +571,7 @@ floor is more legit in my opinion.
 
 Be careful about adding too many though, you don't want them to strangle your
 
-```
+
 plants.
 14:20
 And, I mean, that's it.
@@ -643,7 +643,7 @@ casualties of collapse.
 
 And the fossil fuel driven air conditioning we currently use is a false solution to the 19:17 coming heat waves. 19:18 These machines, which we use to bring cool air indoors, are driving temperatures outdoors 19:23 ever higher. 19:24 Solarpunk, once again, could offer a solution. 19:28 Terracotta air-conditioning. 19:29 A beautiful solution that combines the biomimicry of beehives with the cooling properties of 19:34 wet terracotta. 19:36 Terracotta cooling systems have already been tried and tested by a team of scientists in 19:40 New Delhi, and work through a very simple mechanism. 19:43 First, pipes pour water on top of a structure of hundreds of tubes, completely soaking them 19:49 and as air flows through this wet terracotta it cools significantly. 19:54 This process is similar to how your body cools you down with sweat droplets. 19:59 Finally, as the water makes its way to the bottom of the structure, it's collected in 20:03 a basin and recycled up to the top to complete a closed loop system. 20:08 When working properly, the structure can cool the air by as much as 20° F, or 6° C. The 20:15 team of New Delhi scientists have automated the process to provide optimal water flow 20:20 so it doesn't require any work, but if creating an automatic water release system at the top 20:26 is too complex, you can simply pour water onto the terracotta structure every so often. 20:31 The promise of this system lies in the terracotta's simplicity and beauty. 20:36 It can be built and implemented quickly as long as you have a bit of water and some friends 20:41 or community to help make terracotta cylinders. 20:45 Cylinders that are not beholden to any chemical coolants or fossil fuels, yet are extremely 20:51 effective. 20:52
 
-```
+
 In this way, the terracotta air conditioner reflects the core of a Solarpunk 
 vision, it
 20:57

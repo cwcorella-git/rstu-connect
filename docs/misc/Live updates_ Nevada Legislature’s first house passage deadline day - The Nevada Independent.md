@@ -35,7 +35,7 @@ title: "Live updates_ Nevada Legislature’s first house passage deadline day - 
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...            https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -93,7 +93,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...            https://
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...            https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -155,7 +155,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...            https://
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...         https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -218,7 +218,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...         https://the
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...         https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -279,7 +279,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...         https://the
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...         https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -341,7 +341,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...         https://the
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...         https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -404,7 +404,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...         https://the
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...        https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -467,7 +467,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...        https://then
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...           https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -530,7 +530,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...           https://t
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...           https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -591,7 +591,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...           https://t
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...            https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -654,7 +654,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...            https://
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...            https://thenevadaindependent.com/article/live-updates-...
 
 
@@ -717,7 +717,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...            https://
 
 ### Extracted Text
 
-```
+
 Live updates: Nevada Legislature’s ﬁrst house passage...          https://thenevadaindependent.com/article/live-updates-...
 
 

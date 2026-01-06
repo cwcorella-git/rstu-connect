@@ -33,7 +33,7 @@ tags:
 
 ### Extracted Text
 
-``` ```
+
 
 ---
 
@@ -44,7 +44,7 @@ tags:
 
 ### Extracted Text
 
-``` Fire the Cops!, by Kristian Williams
+
 
 ISBN: 978-1-894946-67-4
 
@@ -102,7 +102,7 @@ expired. ```
 
 ### Extracted Text
 
-``` Introduction ```
+
 
 ---
 
@@ -113,7 +113,7 @@ expired. ```
 
 ### Extracted Text
 
-``` Our Enemies in Blue: A Short
+
 
 Retrospective
 
@@ -188,7 +188,7 @@ activities were supposed to add up to a movement, much less a revolution. I ```
 
 ### Extracted Text
 
-``` didn’t realize it, but I was searching for some direction, some purpose. And
+
 
 I found it at the hands of the Chicago police.
 
@@ -265,7 +265,7 @@ hair, and threw me to the pavement. The others were also pulled out, and ```
 
 ### Extracted Text
 
-``` lined up by a wall nearby. Eventually two cops grabbed me under the arms
+
 
 and half-walked, half-dragged me to a paddy wagon. One of them told me,
 
@@ -342,7 +342,7 @@ the society-wide housecleaning after Watergate. In Chicago, the cops had ```
 
 ### Extracted Text
 
-``` violated   that   agreement    repeatedly,      and   Richard        Gutman,   a   movement
+
 
 lawyer, had made his career suing to enforce the rules—with varying
 
@@ -418,7 +418,7 @@ helped draft a ballot initiative to overhaul Portland’s review board. ```
 
 ### Extracted Text
 
-``` As I did that work I inevitably ran up against questions about what the
+
 
 cops did and why. A lot of police work seemed irrational, pointless, and
 
@@ -496,7 +496,7 @@ it considerably. That was my first setback. Then, about a year after starting ``
 
 ### Extracted Text
 
-``` the book, Nick left Soft Skull. A whole series of new editors followed, each
+
 
 less interested than the last. The book came out a year late, and the final
 
@@ -574,7 +574,7 @@ defense of capitalism and their preservation of the class system, both their ```
 
 ### Extracted Text
 
-``` attacks against the labor movement and, more generally, the persecution of
+
 
 the poor and the homeless. And I discuss the history of police spying, and
 
@@ -652,7 +652,7 @@ increasingly    common          in   the   military    literature   to   discuss
 
 ### Extracted Text
 
-```
+
                                                            5
 policing in terms of counter­insurgency.                        I have mixed feelings about the
 
@@ -733,7 +733,7 @@ specifically      wanted         to   take   the   work    in    a   more     ab
 
 ### Extracted Text
 
-``` movement-building direction. We succeeded on the first point, but had very
+
 
 limited success on the second—especially as we remained an all-white
 
@@ -812,7 +812,7 @@ questions and the challenges posed by my comrades. Much of the reporting, ```
 
 ### Extracted Text
 
-``` therefore, is centered in the Pacific Northwest, and in Portland, Oregon in
+
 
 particular. Local events, however, often reflect general dynamics, and I think
 
@@ -890,7 +890,7 @@ ENDNOTES ```
 
 ### Extracted Text
 
-``` 1 Alliance to End Repression v. City of Chicago, United States Court of
+
 
 Appeals, Seventh Circuit, January 11, 2001; http://caselaw.findlaw.com/us-
 
@@ -966,7 +966,7 @@ Week: Portland’s Crazed Leftists,” Willamette Week, April 14, 2004. ```
 
 ### Extracted Text
 
-``` 13 To read Rose City Copwatch’s final statement, visit:
+
 
 https://rosecitycopwatch.wordpress.com, December 6, 2012.
 
@@ -982,7 +982,7 @@ https://rosecitycopwatch.wordpress.com, December 6, 2012.
 
 ### Extracted Text
 
-``` Fire the Cops/Our Enemies in Blue
+
 
 Reader’s Guide
 
@@ -1054,7 +1054,7 @@ Fighting Back               Making Police Obsolete ```
 
 ### Extracted Text
 
-```
+
        Part One:
 
 The Violence of Policing ```
@@ -1068,7 +1068,7 @@ The Violence of Policing ```
 
 ### Extracted Text
 
-```
+
                                                            15
 Will Portland Burn? (2004)
 
@@ -1141,7 +1141,7 @@ of the crime. I visited the Lucky Day Laundromat, where an extensive ```
 
 ### Extracted Text
 
-``` memorial blossomed—a spontaneous display of sympathy, solidarity, anger,
+
 
 and grief. In the days following the shooting, I walked through the St. Johns
 
@@ -1206,7 +1206,7 @@ gonna happen to him.”
 
 
                                    • • •
-```
+
 
 ---
 
@@ -1217,7 +1217,7 @@ gonna happen to him.”
 
 ### Extracted Text
 
-``` The sidewalk in front of the Lucky Day is full, near to overflowing. It is
+
 
 crowded with flowers, stuffed animals, candles and balloons, sympathy
 
@@ -1291,7 +1291,7 @@ cocaine in Perez’s system, plus bags of “apparent drug material” found in 
 
 ### Extracted Text
 
-``` his   mouth      and   in     his    pants    pocket.   This    detail   is    almost   universally
+
 
 disbelieved in the black community. Ultimately the distrust this indicates is
 
@@ -1369,7 +1369,7 @@ cement a bond between prominent members of the black community and ```
 
 ### Extracted Text
 
-``` their Latino counterparts. The common experience of police harassment
+
 
 surely helped produce this solidarity, and the Latino community compared
 
@@ -1441,7 +1441,7 @@ to head the UN police mission in Liberia, and Assistant Chief Derrick ```
 
 ### Extracted Text
 
-``` Foxworth—a soft-spoken black man raised in the local community—was
+
 
 promoted to replace him.
 
@@ -1516,7 +1516,7 @@ traffic stops may also be significant. According to the police bureau’s own ``
 
 ### Extracted Text
 
-``` data (released in May 2001), black drivers are 2.6 times more likely to be
+
 
                                                    20
 pulled over than are white drivers.                     These numbers resonate with Perez’s
@@ -1591,7 +1591,7 @@ Coalition   of    Black       Men.         After   talking     to   people   in 
 
 ### Extracted Text
 
-``` neighborhood, the speeches of the civil rights leaders seemed strangely
+
 
 abstract and even a little out of touch. Speaker after speaker spoke of the
 
@@ -1665,7 +1665,7 @@ nonviolence. Others blame the police, for creating a climate where people ```
 
 ### Extracted Text
 
-``` are afraid to voice their opinions. And some point to the division and
+
 
 relative disorganization of the existing civil rights movement. We might also
 
@@ -1745,7 +1745,7 @@ War at Home, Oregon Sector,” Counterpunch, April 16–31, 2004; updated ```
 
 ### Extracted Text
 
-``` February 2014.
+
 
 
 16 Quoted in Jim Redden, “Eyewitness to Chaos,” Portland Tribune, April
@@ -1820,7 +1820,7 @@ Oregonian, July 15, 2012.
 
 ### Extracted Text
 
-``` policies and procedures.” Portland Police Bureau, A Report to the
+
 
 Community: James Jahar Perez (Portland, Oregon: November 2005), 17.
 
@@ -1845,7 +1845,7 @@ Killed Motorist Gets New Police Job,” Oregonian, January 16, 2008. ```
 
 ### Extracted Text
 
-``` Cop Killers and Killer Cops: Political
+
 
                                                         26
 Considerations (2011)
@@ -1919,7 +1919,7 @@ The West Coast policing crisis is now well into its second year. ```
 
 ### Extracted Text
 
-``` Oakland seems to have set the tone: On New Year’s Day, 2009, transit
+
 
 police shot and killed an unarmed black man, Oscar Grant, in front of
 
@@ -1998,7 +1998,7 @@ following February, the deputy was charged with assault and a videotape of ```
 
 ### Extracted Text
 
-``` the incident was released. He was fired that September, and later tried—but
+
 
 not convicted.
 
@@ -2077,7 +2077,7 @@ Ian Walsh, was filmed hitting a black teenaged girl. The incident began as ```
 
 ### Extracted Text
 
-``` Walsh tried to cite another girl, Marilyn Ellen Levias, for jaywalking. Walsh
+
 
 grabbed Levias’ arm; her friend, Angel Rosenthal, pushed him away; and
 
@@ -2156,7 +2156,7 @@ mindset that our streets need to be rid of ‘undesirable’ people.” ```
 
 ### Extracted Text
 
-``` The next day, Tim Burgess, the head of the City Council’s public safety
+
 
 committee expressed his worries over the effect of the controversy: “the
 
@@ -2235,7 +2235,7 @@ In June 2009, Officer Troy Meade shot a DUI suspect seven times as the ```
 
 ### Extracted Text
 
-``` man attempted to drive away. The suspect died at the scene, and Meade was
+
 
 charged with murder. Almost a year later, in April, a jury acquitted the cop
 
@@ -2314,7 +2314,7 @@ leafleting,   street-corner   demonstrations,   copwatch   patrols,   and—with
 
 ### Extracted Text
 
-``` surprising regularity—black bloc demonstrations in which windows were
+
 
 broken, numerous people were arrested, and reportedly, several cops were
 
@@ -2392,7 +2392,7 @@ honored as “fallen heroes” by the U.S. House of Representatives; both of ```
 
 ### Extracted Text
 
-``` California’s Senators, Barbara Boxer and Dianne Feinstein, and Governor
+
 
 Arnold    Schwarzenegger          all    spoke       at   their   funeral;    20,000      spectators
 
@@ -2470,7 +2470,7 @@ and violent criminals while rarely resorting to force themselves. You’ve ```
 
 ### Extracted Text
 
-``` heard the speeches, read the op-eds, and seen the cop shows: You know the
+
 
 story.
 
@@ -2549,7 +2549,7 @@ times in 2005) nine times as often as they face it (57,546 times that same ```
 
 ### Extracted Text
 
-``` year).
+
 
 An analysis of fatal incidents shows a similar imbalance: During the
 
@@ -2626,7 +2626,7 @@ A CRISIS OF LEGITIMACY ```
 
 ### Extracted Text
 
-``` What sets the recent cases apart is, clearly, not the fact of police violence,
+
 
 but the fact that that violence is being contested. The crisis, in other words,
 
@@ -2703,7 +2703,7 @@ RADICAL IMPERATIVES ```
 
 ### Extracted Text
 
-``` The crisis shows that public trust in and political support for the police has
+
 
 been greatly eroded; the concessions are offered as a bid to win it back. The
 
@@ -2781,7 +2781,7 @@ support. We have to be radical in our approach to each side of this equation ```
 
 ### Extracted Text
 
-``` —going to the root of both the distrust and the support. Public suspicion of
+
 
 the police, already acute in many corners, can be deepened by exposing, not
 
@@ -2858,7 +2858,7 @@ police use of force so long as it is not, by the state’s standards, “excessi
 
 ### Extracted Text
 
-``` From the state’s perspective, therefore, police violence is presumably
+
 
 legitimate; and violence against police is presumably illegitimate. The left
 
@@ -2935,7 +2935,7 @@ comparing him to “Nat Turner and Gabriel Prosser, enslaved Africans once ```
 
 ### Extracted Text
 
-```
+
                                                   59
 vilified   and   today   considered    heroes.”        Less   organized,     but   no   less
 
@@ -3015,7 +3015,7 @@ suffering from mental health issues in a city where people in either one of ```
 
 ### Extracted Text
 
-``` those groups might reasonably fear for their lives at a police encounter.”
+
 
 And thus they were logically compelled to ask: “isn’t it possible that … he
 
@@ -3092,7 +3092,7 @@ Fight’,” Seattle Times, June 5, 2010. ```
 
 ### Extracted Text
 
-``` 35 Jud Morris, “Q-13 Footage of Seattle Police Beating a Latino Man,”
+
 
 Youtube, May 7, 2010. http://www.youtube.com/watch?v=oIJpxyUV5_g.
 
@@ -3154,7 +3154,7 @@ Resolution,” San Francisco Chronicle, April 2, 2009.
 46 Demian Bulwa, “Mehserle Convicted,” San Francisco Chronicle, July 9,
 
 2010.
-```
+
 
 ---
 
@@ -3165,7 +3165,7 @@ Resolution,” San Francisco Chronicle, April 2, 2009.
 
 ### Extracted Text
 
-``` 47 The classic text on this subject is: Ward Churchill (et al.), Pacifism as
+
 
 Pathology: Reflections of the Role of Armed Struggle in North America
 
@@ -3239,7 +3239,7 @@ and 19. ```
 
 ### Extracted Text
 
-``` 57 Laura McVicker, “Shooting of Cop Merits 62 Years,” The Columbian,
+
 
 Sept. 3, 2010.
 
@@ -3296,7 +3296,7 @@ Portland Observer, May 26, 2010; http://portlandobserver.com/?p=2703 ```
 
 ### Extracted Text
 
-``` Exclusion Zones: Policing Public
+
 
                                                                                     64
 Space—with Deadly Results (2011)
@@ -3373,7 +3373,7 @@ Commander Donna Henderson later termed a “pretext stop.”                    
 
 ### Extracted Text
 
-``` words, the police approached, and then chased, and then killed Chasse, not
+
 
 for anything specific that he did, but simply because, as they saw it, he was
 
@@ -3450,7 +3450,7 @@ discriminatory, but deadly. ```
 
 ### Extracted Text
 
-``` POLICING “QUALITY OF LIFE”
+
 
 
 In Portland, the standards of public order that the police enforce are shaped
@@ -3527,7 +3527,7 @@ selected    commercial          districts   it   requires    at   least   six   
 
 ### Extracted Text
 
-``` between the seated individual and any building, essentially forcing people to
+
 
             83
 the curb.
@@ -3605,7 +3605,7 @@ agency in the country to have four full-time police officers housed out of a ```
 
 ### Extracted Text
 
-``` private security office, working hand-in-hand with our staff to improve
+
 
                                                                                           87
 community and business livability along with chronic nuisance issues.”
@@ -3683,7 +3683,7 @@ Portland’s   liberal     conscience,    special    access    to   services    
 
 ### Extracted Text
 
-``` assistance and drug treatment. More than half (52%) of the 408 people on
+
 
                                   94
 the list are African-American.
@@ -3750,7 +3750,7 @@ She told the paper that gang violence
     opposed to racial profiling, race is in the mix … We do not want to
 
     target   young    African-American     men    who    are   uninvolved   in   gang
-```
+
 
 ---
 
@@ -3761,7 +3761,7 @@ She told the paper that gang violence
 
 ### Extracted Text
 
-```
+
     activity. But it’s impossible to perfectly sort … We are never going to
 
                    99
@@ -3840,7 +3840,7 @@ Family Argue that Portland Police Coverup Led to Chasse’s Death,” ```
 
 ### Extracted Text
 
-``` Oregonian, October 18, 2010; Maxine Bernstein, “Chasse Injuries Point to
+
 
 Kicks,” Oregonian, July 3, 2009.
 
@@ -3917,7 +3917,7 @@ Officer-Ryan-Foote.pdf ```
 
 ### Extracted Text
 
-``` 75 Quoted in Jim Redden, “Was Otis Shooting Racial Profiling?” Portland
+
 
 Tribune, June 1, 2010.
 
@@ -3991,7 +3991,7 @@ Panhandlers,” Oregonian, March 24, 2010.
 
 ### Extracted Text
 
-``` http://www.portlandalliance.com/news_cals/BIDnewsletter_may2010.html
+
 
 (expired hyperlink)
 
@@ -4067,7 +4067,7 @@ Oregon: 2009), 17 and 21; ```
 
 ### Extracted Text
 
-``` http://www.portlandonline.com/police/index.cfm?a=304722&c=29870
+
 
 
 96 Brian C. Renauer, et al., Benchmarking Portland Police Traffic Stop and
@@ -4119,7 +4119,7 @@ chief_rosie_sizer_on_profiling_it_is_a_legitimate_issue.html
 
 ### Extracted Text
 
-```
+
       Part Two:
 
 Cops and Class Conflict ```
@@ -4133,7 +4133,7 @@ Cops and Class Conflict ```
 
 ### Extracted Text
 
-``` Police Violence and Class Conflict
+
 
 (2009)
 
@@ -4207,7 +4207,7 @@ on charges and acquitted. The jurors just didn’t believe the police. ```
 
 ### Extracted Text
 
-``` Most   recently—just    past    the   anniversary     of   the   Chasse   beating—
+
 
 Humphreys came to renewed attention because he was shown on a security
 
@@ -4281,7 +4281,7 @@ support one another strongly. ```
 
 ### Extracted Text
 
-``` Not all of the cops are violent—and yet, all of them support their most
+
 
 violent individuals. How do we understand that?
 
@@ -4357,7 +4357,7 @@ offensive. ```
 
 ### Extracted Text
 
-``` Bill: That’s for sure. But they are outnumbered. Right?
+
 
 
 Kristian: Oh, certainly.
@@ -4433,7 +4433,7 @@ situation, the cops are not only under pressure to assert their authority and ``
 
 ### Extracted Text
 
-``` maintain their control, but they are also operating under relatively weak
+
 
 constraints      because     the   people    they’re    dealing     with   cannot,     in    their
 
@@ -4510,7 +4510,7 @@ on the working population. So things like drinking in public and the whole ```
 
 ### Extracted Text
 
-``` range of public order crimes—gambling and all the other things that we
+
 
 would now call vice—all that stuff suddenly became matters for official
 
@@ -4586,7 +4586,7 @@ printed: Bill Resnick, “Police Violence and Class Conflict: An Interview ```
 
 ### Extracted Text
 
-``` with Kristian Williams,” Portland Alliance, Summer 2010. This version has
+
 
 been edited for length and clarity. ```
 
@@ -4599,7 +4599,7 @@ been edited for length and clarity. ```
 
 ### Extracted Text
 
-``` No Solidarity with Police Union: It’s
+
 
 Time to Kick the Cops Out of the
 
@@ -4672,7 +4672,7 @@ defend. Cops are the hired guns of capitalism and the protectors of white ```
 
 ### Extracted Text
 
-``` supremacy; they stand for a system of power that exploits workers, excludes
+
 
 the poor, and leaves people of color at the bottom of the social pyramid.
 
@@ -4737,7 +4737,7 @@ Law,” Oregonian, April 10, 2008.
 
 ### Extracted Text
 
-```
+
                                                            108
 “Cops for Labor”? (2011)
 
@@ -4812,7 +4812,7 @@ whose job consists in large part of controlling the working class and ```
 
 ### Extracted Text
 
-``` protecting the interests of the rich, are themselves nevertheless often of
+
 
 working-class extraction and endure many of the frustrations of wage labor.
 
@@ -4889,7 +4889,7 @@ police didn’t just stand aside, but actually attacked the scabs, arresting the
 
 ### Extracted Text
 
-``` on weapons charges and (as one newspaper put it) “slamming them about
+
 
 unmercifully.”
 
@@ -4965,7 +4965,7 @@ discipline. ```
 
 ### Extracted Text
 
-``` In 1877, police in Paterson, New Jersey, refused to participate in anti-
+
 
 strike activities. In Buffalo, sympathetic cops were suspended during the
 
@@ -5042,7 +5042,7 @@ strikes. These include racism and ethnic divisions, disdain for unskilled or ```
 
 ### Extracted Text
 
-``` low-wage workers, organizational norms and discipline, the law-and-order
+
 
 ideology,    the   criminalization        of   strike   activity,   and   incentives     such    as
 
@@ -5119,7 +5119,7 @@ modern state police force, the Pennsylvania State Constabulary. ```
 
 ### Extracted Text
 
-``` The      State   Constabulary       was   designed       as   a   strikebreaking    force    and
+
 
 organized along military lines. The men were recruited from throughout the
 
@@ -5196,7 +5196,7 @@ rulings    and    a    Teamsters    organizing      campaign,       administrato
 
 ### Extracted Text
 
-``` negotiate     with     the   existing   (and    more   pliable)     Patrolmen’s         Benevolent
+
 
 Association.
 
@@ -5271,7 +5271,7 @@ punitive in its response to crime, and quick to justify the use of force. But as
 
 ### Extracted Text
 
-``` the recent events in Wisconsin show, when their interests are under attack,
+
 
 the police may be pushed, at least for a while, into alliance with the left.
 
@@ -5350,7 +5350,7 @@ follows: ```
 
 ### Extracted Text
 
-``` Clay Barbour and Dee J. Hall, “More Controversy Over Capitol Access
+
 
 Standoff: Police Keep More Than 1,000 Protesters Outside Of The
 
@@ -5419,7 +5419,7 @@ North Carolina Press, 2002). ```
 
 ### Extracted Text
 
-``` Robert Reiner, The Blue-Coated Worker: A Sociological Study of Police
+
 
 Unionism (Cambridge: Cambridge University Press, 1978).
 
@@ -5485,7 +5485,7 @@ ENDNOTES
 
 ### Extracted Text
 
-```
+
                                                            109
 Cops and the 99% (2012)
 
@@ -5560,7 +5560,7 @@ And that is, of course, exactly what we should have expected. ```
 
 ### Extracted Text
 
-``` To understand why, we need to look beyond slogans about the 99% and
+
 
 examine the role of the police in our society, which requires in turn some
 
@@ -5639,7 +5639,7 @@ capitalists money and maybe (but only maybe) we keep our jobs. ```
 
 ### Extracted Text
 
-``` Now, if this all sounds like an enormous scam—well, you’ve got the right
+
 
 idea.
 
@@ -5718,7 +5718,7 @@ been    the     enemies   of   both     the   labor    movement      and    the 
 
 ### Extracted Text
 
-``` movement. They’ve attacked picket lines, broken up demonstrations, raided
+
 
 offices,   tapped    phones,        opened   mail,      sent    informants   and    agents
 
@@ -5795,7 +5795,7 @@ simultaneously allow for negotiation and avoid the dangers of police joining ```
 
 ### Extracted Text
 
-``` a    broader        labor    alliance.    Police        administrators    started    allowing,
+
 
 encouraging, or in some cases creating police-only unions.
 
@@ -5869,7 +5869,7 @@ the cops, bad. ```
 
 ### Extracted Text
 
-``` CROWD CONTROL:
+
 
 ESCALATED FORCE AND NEGOTIATED MANAGEMENT
 
@@ -5949,7 +5949,7 @@ leaders. The cops would allow demonstrations, and even accommodate ```
 
 ### Extracted Text
 
-``` certain forms of civil disobedience; but in exchange, protesters were limited
+
 
 —or, more often, they limited themselves—to types of action that were
 
@@ -6026,7 +6026,7 @@ TOWARD STRATEGIC INCAPACITATION ```
 
 ### Extracted Text
 
-``` Historically, Negotiated Management worked because both sides developed
+
 
 a shared set of expectations that nothing too serious would happen at
 
@@ -6102,7 +6102,7 @@ information between police departments (and other agencies); and, focused ```
 
 ### Extracted Text
 
-``` campaigns to shape public perception of the protests through the news
+
 
          131
 media.
@@ -6181,7 +6181,7 @@ largely through their potential for disruption. The cops’ job is to neutralize
 
 ### Extracted Text
 
-``` that threat—through managerial means if possible, through direct coercion
+
 
 if necessary. Questions about violence or sabotage or black blocs are in that
 
@@ -6259,7 +6259,7 @@ not also objecting when the police attack entire neighborhoods. Not only is ```
 
 ### Extracted Text
 
-``` it unprincipled to treat protest groups as a special case, it is also short-
+
 
 sighted. Ordinary policing—the kind that happens in neighborhood streets,
 
@@ -6337,7 +6337,7 @@ page_id=2 (hyperlink expired)
 
 ### Extracted Text
 
-``` theme, see: “Sometimes We Need a Reminder,” OccupyPolice.org, January
+
 
 20, 2012; http://www.occupypolice.org/2012/01/20/sometimes-we-need-a-
 
@@ -6413,7 +6413,7 @@ September/October 2011; reprinted in this volume. ```
 
 ### Extracted Text
 
-``` 119 Williams, Our Enemies in Blue, 137–8. The analysis of police unions
+
 
 follows, on pages 138–143.
 
@@ -6488,7 +6488,7 @@ American Sociological Review, December 1983.
 
 ### Extracted Text
 
-``` Democracies, ed. Donatella della Porta and Herbert Reiter (Minneapolis:
+
 
 University of Minnesota Press, 1998).
 
@@ -6561,7 +6561,7 @@ Guardian Online (SFBG.com), November 18, 2011; and Mike King,
 
 ### Extracted Text
 
-``` Part Three:
+
 
 Repression and Counterinsurgency ```
 
@@ -6574,7 +6574,7 @@ Repression and Counterinsurgency ```
 
 ### Extracted Text
 
-``` The Other Side of the COIN:
+
 
 Counterinsurgency and Community
 
@@ -6646,7 +6646,7 @@ contemporary     counter­insurgency         practices   were   developed       
 
 ### Extracted Text
 
-``` agencies inside the United States and continue to be used against the
+
 
 domestic population.
 
@@ -6719,7 +6719,7 @@ understanding of repression. I hope to show how repression functions in the ```
 
 ### Extracted Text
 
-``` course of the normal operations of the liberal state, and to demonstrate its
+
 
 effects in contexts that are not usually thought of as repressive, or even
 
@@ -6797,7 +6797,7 @@ to gain the trust of the people. ```
 
 ### Extracted Text
 
-``` This last point is the crucial one. As FM 3-24 declares: “Legitimacy is the
+
 
                    139
 main objective.”
@@ -6866,7 +6866,7 @@ emerging—and it was a minority view:
     procedures at one time or another, which we thought were unique and
 
     original. But when we came to air them, all our ideas were essentially
-```
+
 
 ---
 
@@ -6877,7 +6877,7 @@ emerging—and it was a minority view:
 
 ### Extracted Text
 
-```
+
     the same. We had another thing in common. Although we had no
 
     difficulty in making our views understood to each other, we had mostly
@@ -6957,7 +6957,7 @@ researchers     argue   that,   conceptually,       the   “War      on   Terro
 
 ### Extracted Text
 
-``` mistake: first, because it identified “terror” as the problem; and second,
+
 
 because it proposed “war” as the solution.
 
@@ -7024,7 +7024,7 @@ Ireland. He observed:
     campaign, it is easy to see that the first step should have been to prevent
 
     the enemy from gaining an ascendancy over the civil population, and in
-```
+
 
 ---
 
@@ -7035,7 +7035,7 @@ Ireland. He observed:
 
 ### Extracted Text
 
-```
+
     particular to disrupt his efforts at establishing his political organization.
 
     In practice this is difficult to achieve because for a long time the
@@ -7114,7 +7114,7 @@ While it is still “essential” that the state gain information on the movemen
 
 ### Extracted Text
 
-``` and intervene to shape social conditions, at this stage, “forceful action
+
 
                                                                                       154
 against the insurgents by regular military units may be unavoidable.”
@@ -7182,7 +7182,7 @@ how such analysis is practiced:
        among     its   members.       Strong   bonds    formed     over   time   by    family,
 
        friendship, or organizational association characterize these ties. Units
-```
+
 
 ---
 
@@ -7193,7 +7193,7 @@ how such analysis is practiced:
 
 ### Extracted Text
 
-```
+
       gather information on these ties by analyzing historical documents and
 
                                                                                                  157
@@ -7272,7 +7272,7 @@ on this threat will, according to the theory, receive the best information:
 
 ### Extracted Text
 
-``` HUNTING THE ELF
+
 
 
 John Allison, an anthropologist briefly enrolled in the U.S. Army’s “Human
@@ -7349,7 +7349,7 @@ Front    arsons   from    the   late    1990s—activities      the   FBI   char
 
 ### Extracted Text
 
-``` serving sentences ranging from three to thirteen years; one other—William
+
 
                                                          162
 Rodgers—killed himself soon after his arrest.
@@ -7417,7 +7417,7 @@ journal Rolling Thunder describes the approach:
     tremendous amounts of background information even while failing to
 
     penetrate     the   circles   in   which    direct    action   was    organized.     The
-```
+
 
 ---
 
@@ -7428,7 +7428,7 @@ journal Rolling Thunder describes the approach:
 
 ### Extracted Text
 
-```
+
      approximately 30,000 pages of discovery in the Oregon cases contain a
 
      vast amount of gossip and background information on quite a few from
@@ -7504,7 +7504,7 @@ insurgency    program.      I   summed        up    the    idea    with       a 
 
 ### Extracted Text
 
-``` In the last few years, the counter­insurgency literature has made this point
+
 
 explicit.   For      example,      War     by    Other      Means       lists,     among        the    law
 
@@ -7571,7 +7571,7 @@ for counter­insurgency:
       by law enforcement officers working in an area that is well-defined and
 
       limited   in    scale,   with     sensitivity    to    geographic,         ethnic,      and     other
-```
+
 
 ---
 
@@ -7582,7 +7582,7 @@ for counter­insurgency:
 
 ### Extracted Text
 
-```
+
       boundaries. Patrol officers form a bond of trust with local residents,
 
       who get to know them as more than a uniform. The police work with
@@ -7663,7 +7663,7 @@ minds” campaign. As The Iron Fist and the Velvet Glove pointed out: ```
 
 ### Extracted Text
 
-```
+
       “Like the similar techniques developed in the sixties to maintain the
 
       overseas empire (on which many of the new police techniques were
@@ -7744,7 +7744,7 @@ Paulson,       a    police       sergeant    and        a   Navy     intelligenc
 
 ### Extracted Text
 
-``` implemented under Chief William Bratton, who had previously introduced
+
 
 Compstat     in    New     York.   In   L.A.,   street    cops   carry   a   checklist     of   65
 
@@ -7822,7 +7822,7 @@ Homeland Security requested—and received—statistical data, sorted by zip ```
 
 ### Extracted Text
 
-``` code and nationality, on people who identified themselves as “Arab” in the
+
 
                   184
 2000    census.         And     in   February   2003,   FBI    director     Robert   Mueller
@@ -7888,7 +7888,7 @@ unit, explained:
       our hope to identify communities, within the larger Muslim community
 
       which may be susceptible to violent ideologically based extremism and
-```
+
 
 ---
 
@@ -7899,7 +7899,7 @@ unit, explained:
 
 ### Extracted Text
 
-```
+
       then      use    a    full    spectrum      approach         guided      by    intelligence-led
 
                    190
@@ -7979,7 +7979,7 @@ Manhattan Institute’s Civic Bulletin.                       Kelling was one of
 
 ### Extracted Text
 
-``` the     “Broken      Windows”            theory      underlying        police    zero        tolerance
+
 
                193
 campaigns;           Bratton was one of the theory’s most famous adherents. In
@@ -8057,7 +8057,7 @@ the case is less important than gathering intelligence and putting it into a ```
 
 ### Extracted Text
 
-``` database. No incident should be considered too minor for interaction with
+
 
                                                                        200
 potential terrorists and for the collection of intelligence.”
@@ -8138,7 +8138,7 @@ acting in “disruption mode.” ```
 
 ### Extracted Text
 
-``` The law, in other words, was a secondary concern; politics was primary.
+
 
 
 
@@ -8213,7 +8213,7 @@ large dog cage” and interrogated him for two days. The marines then tried ```
 
 ### Extracted Text
 
-``` him, and found him guilty of working with the Taliban. But under an
+
 
 agreement with local elders, once Khan swore allegiance to the new Afghan
 
@@ -8282,7 +8282,7 @@ As Salinas Chief of Police Louis Fetherolf proudly notes:
 
                                                      213
       domestic groups such as our street gangs.”
-```
+
 
 ---
 
@@ -8293,7 +8293,7 @@ As Salinas Chief of Police Louis Fetherolf proudly notes:
 
 ### Extracted Text
 
-``` In Salinas, the police-military partnership is occurring simultaneously with
+
 
                                                                                                214
 a renewal and expansion of the SPD’s community policing philosophy.
@@ -8370,7 +8370,7 @@ Federal, State and local sources.” ```
 
 ### Extracted Text
 
-``` Leonard        A.     Ferrari,   provost      of   the   Naval   Postgraduate      School,     is
+
 
 enthusiastic about Salinas’ potential. “The $1 trillion invested so far in Iraq
 
@@ -8437,7 +8437,7 @@ everything they had:
       plea bargains and sterner prosecutorial attention, request stronger bail
 
       terms (and enforce them), and even focus potentially severe Federal
-```
+
 
 ---
 
@@ -8448,7 +8448,7 @@ everything they had:
 
 ### Extracted Text
 
-```
+
     investigative and prosecutorial attention on, for example, gang-related
 
                        223
@@ -8526,7 +8526,7 @@ program. A report from the Justice Department’s Office of Community ```
 
 ### Extracted Text
 
-``` Oriented      Policing     Service,         Street   Gangs     and      Interventions:       Innovative
+
 
 Problem Solving with Network Analysis, provides a case study illustrating
 
@@ -8595,7 +8595,7 @@ identify the pressure points and know where to strike for maximum effect.
     “Network         analysis        also    allows    one     to   identify      people     who         hold
 
     structurally important positions within the gang networks. Cut points,
-```
+
 
 ---
 
@@ -8606,7 +8606,7 @@ identify the pressure points and know where to strike for maximum effect.
 
 ### Extracted Text
 
-```
+
        people who are the only connection among people or groups of people,
 
        may be ideal selections for spreading a deterrence message or for
@@ -8685,7 +8685,7 @@ domestic experiment—the federally-funded “Weed and Seed” program. ```
 
 ### Extracted Text
 
-``` WEED AND SEED: CLEAR-HOLD-BUILD
+
 
 
 Weed and Seed was conceived in 1991, and gained prominence a year later
@@ -8749,7 +8749,7 @@ However, even building includes an element of force:
 
         236
     ”
-```
+
 
 ---
 
@@ -8760,7 +8760,7 @@ However, even building includes an element of force:
 
 ### Extracted Text
 
-``` The domestic analogy is pretty straightforward. One police chief described
+
 
 the role of paramilitary units in his community policing strategy:
 
@@ -8838,7 +8838,7 @@ independent claims to legitimacy and distinct spheres of influence. ```
 
 ### Extracted Text
 
-```
+
     Second, the gangs are sometimes self-consciously engaged in political
 
 action. As John Sullivan, an L.A. County Sheriffs Deputy, writes in one
@@ -8919,7 +8919,7 @@ variety of elements analogous to those in counter­insurgency: the creation of `
 
 ### Extracted Text
 
-``` databases    listing   suspected    gang     members;    the   mapping     of   the   social
+
 
 environment, illustrating connections between gang members, associates,
 
@@ -8999,7 +8999,7 @@ barring alleged gang members from appearing together in public, restricting ```
 
 ### Extracted Text
 
-```
+
                                                                                  250
 the clothing they can wear, and subjecting them to a nighttime curfew.
 
@@ -9074,7 +9074,7 @@ repression it faces, it should study the ways the U.S. government responds ```
 
 ### Extracted Text
 
-``` to forces as varied as the Taliban, the Gangster Disciples, and the RNC 8.
+
 
 And    I   have    stated,   emphatically,     that   it   is   the   political    dimension    of
 
@@ -9154,7 +9154,7 @@ normal—that is, to the lowest level of manageable conflict.                   
 
 ### Extracted Text
 
-``` is a return to the proto-insurgency stage: Opposition is either channeled into
+
 
 safe,   institutional    forms,      or   suppressed   through   normal      police    and
 
@@ -9231,7 +9231,7 @@ progressive think tanks. They gain access, inclusion, or representation in ```
 
 ### Extracted Text
 
-``` exchange    for   working     within    the   existing   institutional   framework.       The
+
 
 others will face harsher outcomes—including, for example, imprisonment,
 
@@ -9306,7 +9306,7 @@ American NGOs are out there serving and sacrificing on the front lines of ```
 
 ### Extracted Text
 
-``` freedom … [NGOs] are such a force multiplier for us, such an important
+
 
                                   262
 part of our combat team.”
@@ -9386,7 +9386,7 @@ government’s          budget       for     Official     Development          A
 
 ### Extracted Text
 
-``` “[D]evelopment priorities follow the battle space,” David Rieff writes in
+
 
 The    New    Republic.    “[D]evelopment        is   a   continuation         of   war     by   other
 
@@ -9465,7 +9465,7 @@ whom Mehserle worked—had not even interviewed him about the incident. ```
 
 ### Extracted Text
 
-``` “The rebellion was really about the fact that nothing was being done,”
+
 
 George Ciccariello-Maher explains. “If there’s one lesson to take from this,
 
@@ -9545,7 +9545,7 @@ NO JUSTICE, URBAN PEACE ```
 
 ### Extracted Text
 
-``` A year later, the process repeated itself. As Johannes Mehserle’s trial
+
 
 approached, Nicole Lee, director of the nonprofit “Urban Peace Movement,”
 
@@ -9622,7 +9622,7 @@ of riots. ```
 
 ### Extracted Text
 
-``` In       practice,    avoiding      unrest     became      the   primary        focus     of     the
+
 
 institutionalized left; CAPE’s stated goal, the prevention of police brutality,
 
@@ -9689,7 +9689,7 @@ those of Greece, just a few weeks before the Grant killing:
       economic        measures,     political       corruption,   and    a    failing    education
 
       system.
-```
+
 
 ---
 
@@ -9700,7 +9700,7 @@ those of Greece, just a few weeks before the Grant killing:
 
 ### Extracted Text
 
-```
+
                                                                       289
      Aren’t we facing similar problems in Oakland … ?”
 
@@ -9775,7 +9775,7 @@ methods, there is nothing inherently conspiratorial in either insurgency or ```
 
 ### Extracted Text
 
-``` counter­insurgency.       One     of    the   breakthroughs         in   the   counter­insurgency
+
 
 approach      was   its   shift   away        from    J.   Edgar     Hoover–style       conspiracy
 
@@ -9852,7 +9852,7 @@ CHALLENGES TO COIN ```
 
 ### Extracted Text
 
-``` It is, in a sense, misleading to speak solely in terms of responding to
+
 
 repression. Repression exists already. It intervenes preemptively. It forms
 
@@ -9929,7 +9929,7 @@ change that fundamental fact without also changing the entire structure of ```
 
 ### Extracted Text
 
-``` our society—that is to say, without giving up the one thing, above all others,
+
 
 that they are meant to defend.
 
@@ -10007,7 +10007,7 @@ was updated in March 2014. ```
 
 ### Extracted Text
 
-``` 135 When I speak of “the left,” I am speaking broadly of all those forces,
+
 
 from lukewarm liberals to insurrectionary anarchists, seeking to push
 
@@ -10081,7 +10081,7 @@ BBC News, March 8, 2007; http://news.bbc.co.uk/2/hi/6429519.stm ```
 
 ### Extracted Text
 
-``` 143 David C. Gompert and John Gordon IV, et al., War by Other Means:
+
 
 Building Complete and Balanced Capabilities for Counterinsurgency (Santa
 
@@ -10158,7 +10158,7 @@ Field Manual No. 3-24; Marine Corps Warfighting Publication No. 3–33.5
 
 ### Extracted Text
 
-``` 152 Frank Kitson, Low Intensity Operations: Subversion, Insurgency,
+
 
 Peace-Keeping (Hamden: Archon Books, 1971), 67.
 
@@ -10235,7 +10235,7 @@ several historians, an economist, an industrial psychologist, etc; and only ```
 
 ### Extracted Text
 
-``` one for the Iraq group and one (me) for the Afghanistan group has any
+
 
 previous experience in the region of their destination.” (Quoted on 160.)
 
@@ -10310,7 +10310,7 @@ the relationship between militarization and community policing.
 
 ### Extracted Text
 
-``` 169 Joseph D. Celeski, Policing and Law Enforcement in COIN: Thick Blue
+
 
 Line (Hulbert Field, Florida: The JSOU Press, 2009), 40.
 
@@ -10387,7 +10387,7 @@ York City in the 1990s,” Social Justice, Summer 1999. ```
 
 ### Extracted Text
 
-``` 180 Christian Parenti, Lockdown America: Police and Prisons in the Age of
+
 
 Crisis (London: Verso, 1999), 75–6 and 83–9.
 
@@ -10462,7 +10462,7 @@ Angeles Times, November 10, 2007.
 
 ### Extracted Text
 
-``` 191 Matt Apuzzo and Adam Goldman, “With CIA Help, NYPD Moves
+
 
 Covertly in Muslim Areas,” Associated Press Archive, August 25, 2011.
 
@@ -10539,7 +10539,7 @@ order to safeguard citizens’ privacy and civil rights.” Kelling and Bratton,
 
 ### Extracted Text
 
-``` 200 Kelling and Bratton, “Policing Terrorism,” 4–5.
+
 
 
 201 G.W. Shulz, “Assessing RNC Police Tactics, Part 2 of 2,” Center for
@@ -10615,7 +10615,7 @@ beat/Cops-Show-Marines-How-to-Take-on-the-Taliban--98202989.html ```
 
 ### Extracted Text
 
-``` 210 Elisabeth Bumiller, “U.S. Tries to Reintegrate Taliban Soldiers,” New
+
 
 York Times, May 23, 2010.
 
@@ -10691,7 +10691,7 @@ Institute of Justice, July 2002). ```
 
 ### Extracted Text
 
-``` 222 Kennedy, “Developing and Implementing Operation Ceasefire”; and,
+
 
 David M. Kennedy, et al., “The (Un)Known Universe: Mapping Gangs and
 
@@ -10767,7 +10767,7 @@ August 2005), 1.
 
 ### Extracted Text
 
-``` 236 FM 3-24, 5-70.
+
 
 
 237 Quoted in Peter B. Kraska and Victor E. Kappeler, “Militarizing
@@ -10844,7 +10844,7 @@ Jeffries (Bloomington: Indiana University Press, 2007), 261. ```
 
 ### Extracted Text
 
-``` Carter was later murdered by members of a rival organization, one
+
 
 casualty of a vendetta deliberately created by FBI disinformation tactics in
 
@@ -10919,7 +10919,7 @@ Control (New York: Oxford University Press, 1995); and, Irving A. Spergel, ```
 
 ### Extracted Text
 
-``` The Youth Gang Problem: A Community Approach (New York: Oxford
+
 
 University Press, 1995), 191.
 
@@ -10997,7 +10997,7 @@ Giles Ungpakorn, “NGOs: Enemies or Allies,” International Socialism, ```
 
 ### Extracted Text
 
-``` October 2004; Yves Engler, “Occupation by NGO,” Counterpunch, August
+
 
 13–15, 2010; and James Petras, “NGOs: In the Service of Imperialism,”
 
@@ -11074,7 +11074,7 @@ Approach to Preventive Counterinsurgency,” Small Wars Journal, August 1,
 
 ### Extracted Text
 
-``` 272 Braga and Winship, Creating an Effective Foundation, 4–5.
+
 
 
 273 George Ciccariello-Maher, “Oakland’s Not for Burning? Popular Fury
@@ -11150,7 +11150,7 @@ Something Deeper?” The Informant, December 16, 2010; ```
 
 ### Extracted Text
 
-``` http://informant.kalwnews.org/2010/12/monitoring-the-oscar-grant-protests-
+
 
 normal-policing-or-something-deeper (expired hyperlink); and, Ali
 
@@ -11227,7 +11227,7 @@ anti-police-brutality-struggle (expired hyperlink) ```
 
 ### Extracted Text
 
-``` 288 Advance the Struggle, Justice for Oscar Grant, 8–9.
+
 
 For similar critiques of the role nonprofits play in managing political
 
@@ -11304,7 +11304,7 @@ legibility could be used in a linear fashion to engineer domination. It fits the
 
 ### Extracted Text
 
-``` military’s structural view of the world.” Price, Weaponizing Anthropology,
+
 
 190.
 
@@ -11351,7 +11351,7 @@ Brace Jovanovich, 1968), 72. ```
 
 ### Extracted Text
 
-``` The Green Scare, the State’s
+
 
 Priorities, and Day-to-Day Repression
 
@@ -11425,7 +11425,7 @@ COINTELPRO, used a variety of dirty tricks to, as their directive put it, ```
 
 ### Extracted Text
 
-``` “expose, disrupt, misdirect, discredit, or otherwise neutralize” the left and
+
 
                                                                                                    296
 the    black   liberation    movement,       especially      the    Black     Panther     Party.
@@ -11503,7 +11503,7 @@ law. All of these are secondary. ```
 
 ### Extracted Text
 
-``` The chief function is the preservation of the existing distribution of power
+
 
 —keeping the rich and powerful, rich and powerful; and keeping the poor
 
@@ -11581,7 +11581,7 @@ hate crime incidents (representing 9,006 criminal offenses). These included
 
 ### Extracted Text
 
-``` 1,116 simple assaults, 2,565 aggravated assaults, 2 rapes, and 9 homicides.
+
 
 About half (43%) of these incidents—3,275—were motivated by anti-black
 
@@ -11659,7 +11659,7 @@ Justice Information Services Division, 2007 Hate Crime Statistics, “Offense ``
 
 ### Extracted Text
 
-``` Type by Bias Motivation 2007,” http://fbi.gov/ucr/hc2007/table_04.htm
+
 
 (expired hyperlink) ```
 
@@ -11672,7 +11672,7 @@ Justice Information Services Division, 2007 Hate Crime Statistics, “Offense ``
 
 ### Extracted Text
 
-``` Part Four:
+
 
 Fighting Back ```
 
@@ -11685,7 +11685,7 @@ Fighting Back ```
 
 ### Extracted Text
 
-``` Police Accountability and Police
+
 
 Abolition: Dilemmas, Paradoxes,
 
@@ -11758,7 +11758,7 @@ participate in any reform or accountability efforts whatsoever—that is, to ```
 
 ### Extracted Text
 
-``` refuse to have anything at all to do with any project that does not have
+
 
 abolition as, not only its final aim, but as its immediate aim.
 
@@ -11835,7 +11835,7 @@ or if not the community, than at least its elected representatives. This ```
 
 ### Extracted Text
 
-``` approach suggests, of course, that the institution will survive, albeit in a
+
 
 more friendly, more lawful form. The view of policing implied in this
 
@@ -11912,7 +11912,7 @@ Suppress officer morale; impede recruiting; and promote whistle-blowing. ```
 
 ### Extracted Text
 
-``` Reduce the resources available to the criminal justice system. Frustrate the
+
 
 police in the pursuit of their own agenda; publicly demonstrate that the law-
 
@@ -11971,7 +11971,7 @@ Alan Sheridan (New York: Vintage Books, 1995), 234. ```
 
 ### Extracted Text
 
-```
+
                                                                         301
 Making Copwatch Matter (2011)
 
@@ -12046,7 +12046,7 @@ Copwatch arrived that I believe there must be something to it. ```
 
 ### Extracted Text
 
-``` So this is one kind of answer: When we copwatch we’re actually looking
+
 
 for something that we don’t want to see. We observe the cops in order to
 
@@ -12123,7 +12123,7 @@ back on the agents of the state. ```
 
 ### Extracted Text
 
-``` I said the hope. I said maybe. Perhaps.
+
 
 The truth is that there is very little evidence of that sort of thing actually
 
@@ -12200,7 +12200,7 @@ Copwatching was not enough. It took riots. ```
 
 ### Extracted Text
 
-``` Which is to say: The law is not enough; we need politics.
+
 
 Or: Reason is not enough; it takes force.
 
@@ -12277,7 +12277,7 @@ was just the spark to ignite the accumulated anger of the community. And ```
 
 ### Extracted Text
 
-``` copwatching—direct             observation     and       documentation       by      the   community
+
 
 itself—helped to distinguish this incident from so many others like it.
 
@@ -12354,7 +12354,7 @@ it is usually unclear how this other work relates to the patrols. In other ```
 
 ### Extracted Text
 
-``` words, even when Copwatch groups contribute in some way to broader
+
 
 campaigns,        it   is   often   unclear   how     this   other    work   relates   to   the
 
@@ -12431,7 +12431,7 @@ win it. ```
 
 ### Extracted Text
 
-``` What we need to be able to see, though, is how our actions today help to
+
 
 move us toward that better world.
 
@@ -12506,7 +12506,7 @@ the better the chances of the movement surviving. ```
 
 ### Extracted Text
 
-``` Copwatching can have a dual role. We can help to organize against the
+
 
 police, to justify and demand and maybe even implement real constraints on
 
@@ -12581,7 +12581,7 @@ embarrassed the government internationally. ```
 
 ### Extracted Text
 
-``` But what black people understood is that the scale of the violence might
+
 
 be unusual, but the violence itself was nothing new. It’s how the South was
 
@@ -12649,7 +12649,7 @@ Manitoba, July 23, 2011. ```
 
 ### Extracted Text
 
-``` Our Demands Should be an Attack
+
 
             302
 (2012)
@@ -12722,7 +12722,7 @@ police problem. ```
 
 ### Extracted Text
 
-``` The twentieth century was the century of reform. We saw progressive
+
 
 campaigns    against    municipal    corruption,   mid-century     efforts    to
 
@@ -12795,7 +12795,7 @@ reporting mechanism). Mumola, “Arrest-Related Deaths,” 2. ```
 
 ### Extracted Text
 
-``` Acknowledgments
+
 
 Given the passage of time, it is pointless to try to recall everyone who
 
@@ -12870,7 +12870,7 @@ Some of those friends I have lost touch with, or seldom see; others remain a ```
 
 ### Extracted Text
 
-``` close   and   active   part   of   my   life.   But   either   way,   it   is   true   that   the
+
 
 experiences we shared continue to exercise one of the strongest influences
 
@@ -12887,7 +12887,7 @@ rather deepens, with time. ```
 
 ### Extracted Text
 
-``` about kersplebedeb publishing
+
 
 Since 1998 Kersplebedeb has been an important source of radical literature
 
@@ -12939,7 +12939,7 @@ www.kersplebedeb.com ```
 
 ### Extracted Text
 
-``` More E-Books from Kersplebedeb
+
 
 Clenched Fists Empty Pockets
 
@@ -13017,7 +13017,7 @@ thesis of mass embourgeoisement through imperialism, and more. ```
 
 ### Extracted Text
 
-``` Fire the Cops! Essays, Lectures, and Journalism, by Kristian Williams
+
 
 Killer cops and cop-killers, “police as workers” and police as soldiers,
 
@@ -13096,7 +13096,7 @@ pneumocystis carninii pneumonia, an AIDS-related illness, on December
 
 ### Extracted Text
 
-``` The Military Strategy Of Women and Children, by Butch Lee
+
 
 How, in a man’s world, women can make revolutionary change? Here,
 
@@ -13176,7 +13176,7 @@ Pelican Bay Security Housing Unit in the period around the historic 2011 ```
 
 ### Extracted Text
 
-``` California prisoners’ hunger strike, as well as two interviews conducted just
+
 
 before and after his release in Black August 2012.
 
@@ -13236,7 +13236,7 @@ working class, while also challenging simplistic Third Worldist analyses.
                http://www.leftwingbooks.net and
 
              http://www.leftwingbooks.net/ebooks
-```
+
 
 ---
 

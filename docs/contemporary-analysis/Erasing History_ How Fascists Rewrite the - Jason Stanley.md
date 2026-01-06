@@ -1279,7 +1279,7 @@ Already a subscriber? Provide your email again so we can register this ebook and
 
 #### **A**
 
-```
+
 Abbott, Greg, 50
 abortion, Nazis on, 97–98
 Ackman, Bill, 115
@@ -1307,7 +1307,7 @@ Anderson, Jessica, 123
 anti-colonial nationalism, 47–49, 65–66, 68–73
 ## ```
 
-```
+
 anti-education, 111–33
     campus anti-war protests, 113–17
     class hierarchy and, 121–23
@@ -1349,7 +1349,7 @@ authoritarianism
 autocracies, 1–24
 ## ```
 
-```
+
 educational authoritarianism of, 12–15
 education and "alien" perspective, 15–24
 education distorted by, 3–9
@@ -1359,7 +1359,7 @@ Trump and Project 2025, 9–12
 
 #### **B**
 
-```
+
 Barbarian Virtues (Jacobson), 45
 Bauer, Gary, 131
 Behold, America (Churchwell), 83
@@ -1392,7 +1392,7 @@ Black Reconstruction in America (Du Bois), 91, 165–67, 168
 Blackwater (military contractor), 130
 ## ```
 
-```
+
 book banning, 12–15, 75. see also authoritarianism; fascism
 Borderland Foundation (Poland), 179
 Borderland of Arts, Culture and Nations (Poland), 179–80
@@ -1431,7 +1431,7 @@ classical education
     democracy vs. fascism both as supported by, 146–51
 ## ```
 
-```
+
 far-right justification of civilization savagism paradigm and, 140–46, 155
     far-right manipulation of "Western Values" with, 157–59
     as fascist education antidote, 136–37
@@ -1473,14 +1473,14 @@ culture
     cultural destruction and colonialism, 30–33
 ## ```
 
-```
+
 cultures of hierarchy, xx–xxi
 defined, xx
 ## ```
 
 #### **D**
 
-```
+
 Dante, 139
 Darwinism, 58, 148
 Davidsohn, Magnus, xv–xvi
@@ -1510,7 +1510,7 @@ Durkheim, Émile, 72
 
 #### **E**
 
-```
+
 education. see also anti-education; classical education; nationalism; reclaiming history; names of
  individual schools
     "alien" perspective in, 15–24
@@ -1518,7 +1518,7 @@ education. see also anti-education; classical education; nationalism; reclaiming
     educational authoritarianism, 12–15
 ## ```
 
-```
+
 erasing history with, overview, xi–xiv, xviii, xix–xxi
     fascist culture and use of, 1–12, 75–80, 87–90, 97–98, 106–8. see also fascism
     nationalism and textbooks, 52–53, 55–56, 59–61, 63, 67
@@ -1557,7 +1557,7 @@ fascism, 75–110. see also anti-education
     gender and "great men" narratives, 80–81, 180–81
 ## ```
 
-```
+
 gender roles and, 95–101
     Great Replacement Theory, 82–87, 95
     LGBTQ rights and, 75–76, 96–97, 100–6
@@ -1596,7 +1596,7 @@ genocide
     university presidents questioned about (by US Congress), 113–17
 ## ```
 
-```
+
 Germany, World War II–era. see Nazi Germany
 Gessen, Masha, 101–2
 Gibbon, Edward, 138–39
@@ -1636,7 +1636,7 @@ hierarchies
 
 Hillsdale College (Michigan), 19–20, 101–3, 106–7, 138–39
 
-```
+
 Hindus and Hinduism. see religion
 Hinton, Elizabeth, 5–6
 Hirschfeld, Magnus, 76, 171
@@ -1675,7 +1675,7 @@ intersectionality, 4
 Invisible Histories Project (Alabama), 171–72
 ## ```
 
-```
+
 Iraq War, Nisour Square Massacre (2007), 130
 Islam and Muslims. see religion
 Israel
@@ -1714,7 +1714,7 @@ Ku Klux Klan (KKK), 56, 83–84, 99–100, 165–66
 
 #### **L**
 
-```
+
 labor exploitation, colonialism and, 37–40. see also slavery
 labor history, American Dream concept vs., 182–84
 land. see colonialism
@@ -1749,7 +1749,7 @@ Magill, Mary Elizabeth, 114–15
 Mahler, Gustav, xv
 ## ```
 
-```
+
 Malinowski, Bronisław, 170–71
 Manhattan Institute, 124
 Markovits, Daniel, 151
@@ -1793,7 +1793,7 @@ Mussolini, Benito, 85
 
 #### **N**
 
-```
+
 Narwal, Natasha, 117–18
 National Conservatism Conference (2021), 123
 National Council of Educational Research and Training (NCERT, India), 22, 59–60
@@ -1830,7 +1830,7 @@ neutrality (example of far-right bias), 152, 154
 New College of Florida, 102–4, 125
 ## ```
 
-```
+
 "New Woman," 95–96
 Nisour Square Massacre (Iraq, 2007), 130
 Nixon, Richard, 123
@@ -1867,7 +1867,7 @@ Politics (Aristotle), 135, 146
 poll taxes, 94
 ## ```
 
-```
+
 "practice memory" concept, 180–82
 Prager, Dennis, 50
 PragerU, 50–55
@@ -1906,7 +1906,7 @@ Reconstruction (US, 1865–77)
     Black Reconstruction in America (Du Bois), 91, 165–67, 168
 ## ```
 
-```
+
 events during, 55–56
     reclaiming history about, 164–68
 Rediscovery of America, The (Blackhawk), 49
@@ -1946,7 +1946,7 @@ Rwanda, 65
 
 #### **S**
 
-```
+
 Schmitt, Carl, 2
 Scott, Brandon, 167
 Scramble for Africa, 31–33
@@ -1988,7 +1988,7 @@ Syracuse University, 174–75
 
 #### **T**
 
-```
+
 taxes, 94, 121–22
 Texas
     nationalism and education in, 50
@@ -2023,7 +2023,7 @@ unfreedom, 146–47, 185. see also classical education
 United Kingdom. see Britain
 ## ```
 
-```
+
 United Nations Genocide Convention (1948), 113
 United States. see also anti-education; classical education; colonialism; education; fascism;
  nationalism; reclaiming history; Reconstruction; slavery; names of individual politicians
@@ -2064,7 +2064,7 @@ voting and elections
 
 #### **W**
 
-```
+
 Wachsmann, Nikolaus, 141
 Walden, Ruth Terry, 7
 Walker, Scott, 122–23
@@ -2095,7 +2095,7 @@ World War I
 
 #### **Z**
 
-```
+
 Zinn, Howard, 180–81
 Zinn Education Project, 181–82
 ## ```

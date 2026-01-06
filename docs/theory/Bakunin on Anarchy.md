@@ -19,7 +19,7 @@ tags:
 
 ## **1971**
 
-```
+
 Prefatory Note
  Preface
  Introduction
@@ -62,7 +62,7 @@ Postscript to the Letter to Albert Richard
 
 1870 — *Letters to a Frenchman on the Present Crisis*
 
-```
+
 General Problems of the Social Revolution
  The Revolutionary Temper and Its Matrix
  A Critique of the German Social Democratic Program

@@ -1001,7 +1001,7 @@ In Unity, each script le represents a single, discrete class o matching name. He
 
 Double-click the Coin.cs le rom the Object Inspector to open it or editing inside Mono Develop, a third party IDE application that ships with Unity. This program lets you edit and write code or your games. Once opened in Mono Develop, the source
 
-```
+
 le will appear as shown in Code Sample 2.1.
 using Unity Engine;
 using System. Collections;
@@ -1012,7 +1012,7 @@ void Start () {}
 // Update is called once per frame
 ## ```
 
-```
+
 void Update () {}
 }
 [ 67 ]
@@ -1040,7 +1040,7 @@ using System. Collections;
 
 ## public class Coin : Mono Behaviour
 
-```
+
 {
 // Use this for initialization
 void Start () {
@@ -1076,7 +1076,7 @@ Ater all, i we don't know how many coins there are, then we can't know i we've c
 | // |
 ## | // Use this for initialization |
 
-```
+
 void Start ()
 {
 //Object created, increment coin count
@@ -1178,7 +1178,7 @@ Project A: The Collection Game Continued I you play the game now, the FPSControl
 | using Unity Engine; |
 ## | using System. Collections; |
 
-```
+
 //-------------------------
 public class Coin : Mono Behaviour
 {
@@ -1199,7 +1199,7 @@ Debug. Log ("Entered Collider");
 //Called when object is destroyed
 ## ```
 
-```
+
 void On Destroy()
 {
 //Decrement coin count
@@ -1232,7 +1232,7 @@ The Tag eature lets you mark specic objects in the scene with specic tags or lab
 
 Project A: The Collection Game Continued With the FPSController now tagged as Player, we can rene the Coin.cs le as shown in Code Sample 2.5. This handles coin collection, making the coin disappear on touch and decreasing the coin count. Comments ollow.
 
-```
+
 //-------------------------
 using Unity Engine;
 using System. Collections;
@@ -1253,7 +1253,7 @@ void On Trigger Enter(Collider Col)
 //If player collected coin, then destroy object if(Col. Compare Tag("Player"))
 ## ```
 
-```
+
 Destroy(game Object);
 }
 //-------------------------
@@ -1387,7 +1387,7 @@ This source code is highly important i you've never scripted in Unity beore. It 
 | public class Timer : Mono Behaviour |
 ## | { |
 
-```
+
 //-------------------------
 //Maximum time to complete level (in seconds) public float Max Time =
 60f;
@@ -1409,7 +1409,7 @@ void Update ()
 {
 ## ```
 
-```
+
 //Reduce time
 Count Down -= Time.delta Time;
 //Restart level if time runs out
@@ -1511,7 +1511,7 @@ Disabling Play on Awake prevents particle systems playing automatically at level
 
 With the rework objects now tagged, we can rene the Coin.cs script class to handle a win condition or the scene, as shown in Code Sample 2.7. Comments ollow.
 
-```
+
 //-------------------------
 using Unity Engine;
 using System. Collections;
@@ -1527,7 +1527,7 @@ void Awake ()
 //Object created, increment coin count
 ## ```
 
-```
+
 ++Coin. Coin Count;
 }
 //-------------------------
@@ -1548,7 +1548,7 @@ if(Coin. Coin Count <= 0)
 //Game is won. Collected all coins
 ## ```
 
-```
+
 //Destroy Timer and launch fireworks
 Game Object Timer = Game Object. Find("Level Timer"); Destroy(Timer);
 Game Object[] Firework Systems = Game Object. Find Game Obj
@@ -1957,7 +1957,7 @@ Creating a Player Controller C# Script File Inside the Player Controller.cs scri
 | public class Player Controller : Mono Behaviour |
 ## | { |
 
-```
+
 [ 125 ]
 Project B: The Space Shooter
 //------------------------------
@@ -1981,7 +1981,7 @@ Get Component<Transform>();
 
 ## {
 
-```
+
 //Update movement
 float Horz = Input. Get Axis(Horz Axis);
 float Vert = Input. Get Axis(Vert Axis);
@@ -2003,7 +2003,7 @@ Screen ToWorld Point(new Vector3(Input.mouse Position.x, Input.
 mouse Position.y, 0.0f));
 ## ```
 
-```
+
 Mouse Pos World = new Vector3(Mouse Pos World.x, 0.0f,
 Mouse Pos World.z);
 //Get direction to cursor
@@ -2152,7 +2152,7 @@ One way is to simply clamp the positional values o the player object between a s
 | public Vector2 Vert Range = Vector2.zero; |
 ## | // |
 
-```
+
 [ 134 ]
 Chapter 3
 // Use this for initialization
@@ -2213,7 +2213,7 @@ using Unity Engine;
 
 using System. Collections;
 
-```
+
 //------------------------------
 public class Health : Mono Behaviour
 {
@@ -2235,7 +2235,7 @@ return _Health Points;
 set
 ## ```
 
-```
+
 {
 _Health Points = value;
 if(_Health Points <= 0)
@@ -2337,7 +2337,7 @@ By making a preab rom this arrangement, each and every generated explosion will 
 
 using Unity Engine;
 
-```
+
 using System. Collections;
 //------------------------------
 public class Timed Destroy : Mono Behaviour
@@ -2358,7 +2358,7 @@ Destroy(game Object);
 }
 ## ```
 
-```
+
 //------------------------------
 }
 //------------------------------
@@ -2414,7 +2414,7 @@ This ensures the preab is instantiated when the player dies. See Figure 3.32.
 
 I you now run the game, you'll see that you cannot initiate a player death event to test the particle system generation. Nothing exists in the scene to destroy or damage the player, and you cannot manually set the Health Points to 0 rom the Inspector in a way that is detected by the C# property set unction. For now, however, we can insert some test death unctionality into the health script that triggers an instant kill when the space bar is pressed. See Code Sample 3.5 or the modied Health Script.
 
-```
+
 //------------------------------
 using Unity Engine;
 using System. Collections;
@@ -2429,7 +2429,7 @@ void Start()
 {
 ## ```
 
-```
+
 [ 146 ]
 Chapter 3
 This Transform = Get Component<Transform>();
@@ -2450,7 +2450,7 @@ Send Message("Die", Send Message Options.
 Dont Require Receiver);
 ## ```
 
-```
+
 if(Death Particles Prefab != null)
 Instantiate(Death Particles Prefab,
 This Transform.position, This Transform.rotation);
@@ -2572,7 +2572,7 @@ Project B: The Space Shooter Let's start coding the enemy, ocusing on movement. 
 | using System. Collections; |
 ## | // |
 
-```
+
 public class Mover : Mono Behaviour
 {
 //------------------------------
@@ -2629,7 +2629,7 @@ In addition to moving in a straight line, the enemy should also continually turn
 | public class Obj Face : Mono Behaviour |
 ## | [ 153 ] |
 
-```
+
 Project B: The Space Shooter
 {
 //------------------------------
@@ -2650,7 +2650,7 @@ if(Player Obj != null) Obj ToFollow = Player Obj.
 Get Component<Transform>();
 ## ```
 
-```
+
 }
 //------------------------------
 // Update is called once per frame
@@ -2723,7 +2723,7 @@ using Unity Engine;
 
 ## ![](_page_239_Picture_5.jpeg)
 
-```
+
 //------------------------------
 //Damage per second
 public float Damage Rate = 10f;
@@ -2785,7 +2785,7 @@ Now we'll make a new script (Spawner.cs) that spawns new enemies in the scene ov
 | [ 158 ] |
 ## | Chapter 3 |
 
-```
+
 {
 public float Max Radius = 1f;
 public float Interval = 5f;
@@ -2806,7 +2806,7 @@ Invoke Repeating("Spawn", 0f, Interval);
 //------------------------------
 ## ```
 
-```
+
 void Spawn ()
 {
 if(Origin == null)return;
@@ -3000,7 +3000,7 @@ Continuing the Space Shooter In addition to adding a mover script and physics co
 | using Unity Engine; |
 ## | using System. Collections; |
 
-```
+
 //------------------------------
 public class Ammo : Mono Behaviour
 {
@@ -3021,7 +3021,7 @@ Health H = Col.game Object. Get Component<Health>(); if(H == null)return;
 H. Health Points -= Damage;
 ## ```
 
-```
+
 //----
 void Die()
 {
@@ -3084,7 +3084,7 @@ Consider the ollowing Ammo Manager code in Sample 4.2 to achieve this, as below.
 | using System. Collections; | |
 ## | using System. Collections. Generic; | |
 
-```
+
 //------------------------------
 public class Ammo Manager : Mono Behaviour
 {
@@ -3105,7 +3105,7 @@ void Awake ()
 {
 ## ```
 
-```
+
 if(Ammo Manager Singleton != null)
 {
 Destroy(Get Component<Ammo Manager>()); return;
@@ -3128,7 +3128,7 @@ public static Transform Spawn Ammo(Vector3 Position, Quaternion
 Rotation)
 ## ```
 
-```
+
 {
 //Get ammo
 Transform Spawned Ammo = Ammo Manager Singleton. Ammo Queue.
@@ -3201,7 +3201,7 @@ This connection should now be made, via the Player Controller script that we sta
 | using Unity Engine; |
 ## | using System. Collections; |
 
-```
+
 //------------------------------
 public class Player Controller : Mono Behaviour
 {
@@ -3223,7 +3223,7 @@ This Body = Get Component<Rigidbody>(); This Transform =
 Get Component<Transform>();
 ## ```
 
-```
+
 }
 //------------------------------
 // Update is called once per frame
@@ -3245,7 +3245,7 @@ velocity.z, -Max Speed, Max Speed));
 if(Mouse Look)
 ## ```
 
-```
+
 {
 //Update rotation - turn to face mouse pointer Vector3 Mouse Pos World =
 Camera.main.
@@ -3267,7 +3267,7 @@ if(Input. Get Button Down(Fire Axis) && Can Fire)
 {
 ## ```
 
-```
+
 foreach(Transform T in Turret Transforms)
 Ammo Manager. Spawn Ammo(T.position, T.rotation); Can Fire = false;
 Invoke ("Enable Fire", Reload Delay);
@@ -3541,7 +3541,7 @@ To display a score in the GUI, we'll rst need score unctionality; that is, code 
 
 The code or the Game Controller and its score eature set is included in Code Sample 4-4, as below. This le should be added to the Scripts older o the project.
 
-```
+
 using Unity Engine;
 using System. Collections;
 using Unity Engine. UI;
@@ -3551,7 +3551,7 @@ public class Game Controller : Mono Behaviour
 //Game score
 ## ```
 
-```
+
 public static int Score;
 [ 199 ]
 Continuing the Space Shooter
@@ -3572,7 +3572,7 @@ void Update()
 {
 ## ```
 
-```
+
 //Update score text
 if(Score Text!=null)
 Score Text.text = Score Prefix + Score. To String();
@@ -3616,7 +3616,7 @@ For our game, the score should increase when an Enemy object is destroyed. To ac
 | // |
 ## | public class Score OnDestroy : Mono Behaviour |
 
-```
+
 {
 //------------------------------
 public int Score Value = 50;

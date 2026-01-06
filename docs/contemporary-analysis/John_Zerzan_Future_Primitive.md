@@ -416,7 +416,7 @@ Like language, tonality is historically characterized by its unfreedom. We are m
 
 # **Chapter 4: The Catastrophe of Post-Modernism**
 
-```
+
  1. 
 The primacy of language & the end of the subject 
 2. 

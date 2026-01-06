@@ -548,7 +548,7 @@ https://group.ntt/jp/ir/library/results/
 
 #### Prompt for extractive QA
 
-```
+
 抽出型の長文QAモデルのトレーニングデータを作成しています。 
 コンテキストとして長い文書を提供します。 
 文書を注意深く読み、分析し、20個の質問と回答のペアを生成してください。 
@@ -574,7 +574,7 @@ https://group.ntt/jp/ir/library/results/
 
 #### Prompt for abstractive summarization
 
-```
+
 抽象的な長文要約モデルのトレーニングデータを作成しています。 
 コンテキストとして長い文書を提供します。 
 文書を注意深く読み、分析し、5個の要約例を生成してください。 

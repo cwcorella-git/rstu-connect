@@ -1613,7 +1613,7 @@ Addressing residential injustice and inequality will demand state action as well
 
 ## Index
 
-```
+
 abandoned buildings, 173–5
  tax on, 202
 Abrams, Charles, 167
@@ -1649,7 +1649,7 @@ alienation, 55
 
 as violence, 60
 
-```
+
 See also displacement; eviction; oppression; racism; segregation
 Alliance of Housing Movements, 112
 American dream, 25, 74–5, 82
@@ -1691,7 +1691,7 @@ capitalism:
  and hyper-commodification, 28
 ## ```
 
-```
+
 and industrialization, 23
  and policy, 120
  and rent strike, 156
@@ -1733,7 +1733,7 @@ crisis:
 Cuevas, Ofelia O., 102
 ## ```
 
-```
+
 Davis, Benjamin, 163
 Dawnay Day (financial company), 182–3
 de Blasio, Bill, 137, 184
@@ -1775,7 +1775,7 @@ efficiency, 48–9
 elites:
 ## ```
 
-```
+
 conflicts between, 120
  and dignity of housing, 74
  fear disease of poor, 121–2
@@ -1817,7 +1817,7 @@ financialization, 8, 31–4
 financing, 28
 ## ```
 
-```
+
 and urban renewal, 131
  See also mortgage
 Focus E15 Mothers, 110
@@ -1859,7 +1859,7 @@ Gilman, Charlotte Perkins, 99, 113
 Ginzburg, Moisei, 114
 ## ```
 
-```
+
 Giuliani, Rudolph, 173, 180
 Glaeser, Edward, 46
 Glass-Steagall Act, 24, 28
@@ -1901,7 +1901,7 @@ home:
  universal access to, 113
 ## ```
 
-```
+
 and work, 20–1, 22n
  See also domicide; homeownership; housing; public housing
 homelessness:
@@ -1943,7 +1943,7 @@ housing:
  defense of, 11–2, 187–9
 ## ```
 
-```
+
 destruction of, negates resistance, 91–2
  as determinant of access to resources, 89
  and dignity, 74
@@ -1985,7 +1985,7 @@ housing crisis, 1–4
  solution to, 52
 ## ```
 
-```
+
 and transformative demands, 200
  understanding of, 4
  urban renewal fails to address, 134
@@ -2027,7 +2027,7 @@ industry, wartime, 128
 inequality, 27
 ## ```
 
-```
+
 and affordable housing, 216
  and alienation, 59
  and elites, 214
@@ -2069,7 +2069,7 @@ labor See work
 labor camps, 89–91
 ## ```
 
-```
+
 and luxury buildings, 90
 Laing, R. D., 68
 land, 18, 150–2
@@ -2111,7 +2111,7 @@ luxury buildings, 36–9
 Madison Capital, 42
 ## ```
 
-```
+
 Madison, James, 74
 Mandel, Ernest, 83
 Marcantonio, Vito, 163
@@ -2153,7 +2153,7 @@ Moses, Robert, 165, 167
 Movement for Justice in El Barrio (MJB), 181–3
 ## ```
 
-```
+
 movements, 111–7, 146–50
  Alliance of Housing Movements, 112
  anti-rent movement, 152
@@ -2195,7 +2195,7 @@ neoliberalism, 172–87
  and gentrification, 173, 176–7
 ## ```
 
-```
+
 and rent control, 184–5
  war against homeless support groups, 180
 New Deal, 24, 117, 131, 165
@@ -2237,7 +2237,7 @@ New York:
  tenant movement, 153–64
 ## ```
 
-```
+
 Tenant Protection Unit, 16
  Tompkins Square Riot of 1988, 178–9
  Tompkins Square Riot of 1874, 122
@@ -2279,7 +2279,7 @@ paternalism, 128–9
 patriotism, 129
 ## ```
 
-```
+
 Percy, Charles, 75–6
 Pierce, Melusina Fay, 113
 Piven, Frances Fox, 170
@@ -2321,7 +2321,7 @@ political struggle, 85–8, 91–4
  democratization, 211–2
 ## ```
 
-```
+
 Draft Riots of 1863, 122
  and housing, 117–8
  and housing crisis, 110–1
@@ -2363,7 +2363,7 @@ private property:
  and alienation, 56, 83
 ## ```
 
-```
+
 and homeownership, 79–80
  and inequality, 81
 privatization:
@@ -2405,7 +2405,7 @@ public housing, 126–30
  build one, demolish one, 130
 ## ```
 
-```
+
 as conflict resolution, 85
  and deregulation, 46
  disappearance of, 40–1, 172, 185
@@ -2447,7 +2447,7 @@ real estate:
  controls rebellion, 94
 ## ```
 
-```
+
 and deindustrialization, 173
  and fear of tenant movement, 158
  and financialization, 33
@@ -2489,7 +2489,7 @@ rent strike, 106–9, 111, 154–7, 162
 renters:
 ## ```
 
-```
+
 exploitation of, 41–2
  harassment of, 43
  and homeownership, 79–80
@@ -2531,7 +2531,7 @@ slum clearance, 130–4, 191
  and displacement, 166
 ## ```
 
-```
+
 and tenant movement, 166–7
 slums:
  and revolution, 85
@@ -2573,7 +2573,7 @@ status quo, 119–21, 123–4, 126, 143
  and transformative demands, 199
 ## ```
 
-```
+
 Stern, Michael, 36
 stigmatization, 73
 streets, 142
@@ -2615,7 +2615,7 @@ Umoja Village, 110
 underperformance, 43–4
 ## ```
 
-```
+
 United Nations, 3, 93, 192–3
 United States Housing Authority (USHA), 129
 Universal Declaration of Human Rights, 193
@@ -2657,7 +2657,7 @@ wealthy:
  and riots in New York, 122
 ## ```
 
-```
+
 and taxes, 141
  See also elites; luxury buildings
 Williams, Rhonda, 108

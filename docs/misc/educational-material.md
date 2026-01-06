@@ -41,7 +41,7 @@ title: "educational-material"
 
 ### Extracted Text
 
-```
+
       Educational Material Quick
               Reference
                             Quick Links
@@ -85,7 +85,7 @@ Brief Overview of How to Organize a Tenants Association (deadline July
 
 ### Extracted Text
 
-```
+
                                     On Hold
 -   Add facts of what “standard housing" is in other countries with stronger
     tenants protections to the “Rate Your Landlord” display

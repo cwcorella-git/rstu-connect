@@ -23,7 +23,7 @@ title: "assembly-bill-no-201"
 
 ### Extracted Text
 
-```
+
                 Assembly Bill No. 201–Assemblymember Roth
                                            CHAPTER..........
 AN ACT relating to evictions; requiring the automatic sealing of
@@ -88,7 +88,7 @@ summary eviction pursuant to NRS 40.253, 40.254 or 40.2542, the
 
 ### Extracted Text
 
-```
+
                                   –2–
 
 eviction case court file is sealed automatically and not open to
@@ -149,7 +149,7 @@ order of eviction was granted; and
 
 ### Extracted Text
 
-```
+
                                   –3–
 
             (III) The amount of time that has elapsed between the

@@ -2533,7 +2533,7 @@ Joel Best, *Threatened Children: rhetoric and concern about child-victims* , Uni
 
 #### **GENERAL INDEX**
 
-```
+
 AA 91
 Aberfan 24, 36
 Ace Café 210
@@ -2570,7 +2570,7 @@ amplifi cation 17–18, 89, 122;
 ## 168, 173; exclusive control 137,
 ## ```
 
-```
+
 agents 191, 196; impact 196, 
  199; media 184–5; model 226–7, 
  231; process 232; reaction 156, 

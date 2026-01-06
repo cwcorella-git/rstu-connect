@@ -1301,7 +1301,7 @@ Stanley, Thomas A., Ōsugi Sakae: Anarchist in Taishо̄ Japan (Cambridge [Mass.
 
 Suzuki, Yasuyuki, 'Ika ni Nasu Beki ka' (June 1931) in Shakai Mondai Shiryо̄ Kenkyūkai (ed.), Nо̄son Seinen Sha Shiryо̄ (Kyо̄to: Tо̄yо̄ Bunka Sha, 1972) pp. 537–56.
 
-```
+
 ———, 'Nani o Nasu Beki Ka' (September 1932) in Shakai
 Mondai Shiryо̄ Kenkyūkai (ed.), Nо̄son Seinen Sha Shiryо̄
 (Kyо̄to: Tо̄yо̄ Bunka Sha, 1972) pp. 557–78.
@@ -1420,7 +1420,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 - [\[96\]](#page-89-1) Hatta Shūzō Zenshū (1981), p. 136.
 - [\[97\]](#page-90-0) For Hatta's criticisms of bolshevism, see such articles as 'Rōnō Kokka to Nōkō Jiyūshi' and 'Sobietoshugisha o Hōmure' in Ibid., pp. 152–5 and 166–8 respectively.
 
-```
+
 [98] Ibid., p. 179.
 ## ```
 
@@ -1442,13 +1442,13 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 - [\[114\]](#page-96-4) Interview, 18 June 1990.
 - [\[115\]](#page-97-0) I am grateful to Midorikawa Taeko, who spent the afternoon of 17 May 1990 contacting all those named Hatta in the Tsu telephone directory.
 
-```
+
 [116] Hagiwara (1969), p. 173.
 ## ```
 
 [\[117\]](#page-98-0) A list of affiliating groups appeared in Kokushoku Seinen no. 1, 5 April 1926, p. 5. The expansion of this list in later issues is testimony to the subsequent growth of Kokuren.
 
-```
+
 [118] Ibid., p. 8.
 ## ```
 
@@ -1527,7 +1527,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 - [\[187\]](#page-129-0) Hagiwara (1969) p. 180.
 - [\[188\]](#page-129-1) Jiyū Rengō Shinbun no. 37, 1 July 1929, p. 4.
 
-```
+
 [189] Kokushoku Seinen no. 24, 10 February 1931, p. l.
 [190] Jiyū Rengō Shinbun no. 64, to November 1931, p. 4.
 [191] Ibid.
@@ -1673,7 +1673,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 - [\[325\]](#page-204-0) Ibid., p. 74.
 - [\[326\]](#page-204-1) Ibid.
 
-```
+
 [327] Ibid., pp. 127–8.
 ## ```
 
@@ -1699,7 +1699,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 - [\[347\]](#page-217-1) Ibid.
 - [\[348\]](#page-217-2) Enishi (1974), p. 11.
 
-```
+
 [349] Mihara (1987), p. 101.
 ## ```
 
@@ -1749,7 +1749,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 - [\[392\]](#page-238-0) Ibid., p. 565.
 - [\[393\]](#page-238-1) Nо̄son Seinen Sha (September 1932), pp. 579–80.
 
-```
+
 [394] Mihara (1988), p. 9.
 [395] Aizawa (1974), pp. 54–7.
 [396] Ibid., p. 56.

@@ -1282,7 +1282,7 @@ That's why all anarchist social concepts have always aimed to be built on small,
 
 I've already pointed out that these "small units" can come into being for geographic, material, technical, ideological, ethical, or aesthetic reasons — or simply from mutual sympathy or practical rationality. Multiple such units can exist side by side — or together — in the same place and time. For example, I might simultaneously belong:
 
-```
+
 as a resident, to the council of my neighborhood;
  as a father, to a group running a free school;
  as a connoisseur, to an association for "Anarchy and Luxury";

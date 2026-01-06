@@ -39,7 +39,7 @@ title: "Reno council debates allowing denser housing, revisits controversial eff
 
 ### Extracted Text
 
-```
+
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
@@ -99,7 +99,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 ### Extracted Text
 
-```
+
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
@@ -148,7 +148,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 ### Extracted Text
 
-```
+
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
@@ -198,7 +198,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 ### Extracted Text
 
-```
+
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
@@ -248,7 +248,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 ### Extracted Text
 
-```
+
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
@@ -307,7 +307,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 ### Extracted Text
 
-```
+
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 
@@ -353,7 +353,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 ### Extracted Text
 
-```
+
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 
 

@@ -1,4 +1,4 @@
-```
+
 0:00
 "I'm an international, super spy... SUPER SPYYYYY."
 0:06
@@ -155,7 +155,7 @@ A wise man learns from his mistakes.
 
 A wiser man learns from the mistakes of others, past and present, because we cannot afford
 
-```
+
 5:01
 to keep stumbling along and recreating failed and outdated methods.
 5:06
@@ -217,7 +217,7 @@ Do be careful though and keep potentially un-legal activity discussion off of
 insecure
 ## ```
 
-```
+
 6:49
 platforms.
 6:50
@@ -279,7 +279,7 @@ Fair critique is fair, make your stance clear, work through if you can, and if y
 can't,
 ## ```
 
-```
+
 8:22
 steer clear.
 8:23
@@ -343,7 +343,7 @@ you won't make an effort to learn theirs.
 
 Learning a language is hard, I've been tryna learn Spanish for years now, but it needs 9:28 to be done to network internationally, or even regionally. 9:32 I live in the Americas, I have to learn Spanish. 9:36 Get together with some friends and practice. 9:38 Or practice alone with radical literature. 9:41 One of the most important efforts of 20th century radicals was translation. 9:46 The original bread book was written in French. 9:48 The Communist Manifesto was written in German. 9:50 Anarchy was written in Italian. 9:53 These days, we can read all these books in all sorts of different languages. 9:59 But the work isn't over yet. 10:00 We have to continue the project of intellectual cross pollination. 10:04 Even a poorly translated text is better than no translation at all. 10:07 And thanks to today's tech, we can easily plug texts into translation programmes and 10:12 make the necessary corrections afterwards. 10:14 Look at folks like Meo Mun and Anarchist Federation in South Korea who are finally translating 10:19 essential anarchist texts, and contributing to the canon, in Vietnamese and Korean respectively. 10:25 I also know of folks translating into Tagalog, Bahasa, and Thai. 10:29 I haven't seen any texts in Arabic or Swahili yet, or really any of the Niger-Congo languages 10:34 like Yoruba or Zulu. 10:36 It's clear that a lot of work still needs to be done. 10:39 And if you have the language down, make sure you know how to converse and connect with 10:43 people. 10:44 If you want your solidarity to have any real depth and meaning, get to know people for 10:49 who they are, beyond their politics. 10:51 Don't be afraid to have fun. 10:54
 
-```
+
 Building these relationships takes work.
 10:56
 It's deeply complex, heavily political, and often very personal.

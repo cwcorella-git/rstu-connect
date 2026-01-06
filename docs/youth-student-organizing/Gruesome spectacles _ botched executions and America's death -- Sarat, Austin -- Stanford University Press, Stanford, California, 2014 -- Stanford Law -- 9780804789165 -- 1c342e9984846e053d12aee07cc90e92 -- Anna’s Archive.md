@@ -3112,7 +3112,7 @@ mate's skin is scraped away to provide easier access for execution personnel to 
 | Animals, euthanasia drugs, 92, 122 |
 ## | |
 
-```
+
 AP, see Associated Press
 Arao, Henry, 183
 Archibald, Thayne, 197

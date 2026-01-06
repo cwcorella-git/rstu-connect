@@ -33,7 +33,7 @@ title: "Federal land policy in Nevada - Ballotpedia"
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -89,7 +89,7 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia               about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -166,7 +166,7 @@ Federal land policy in Nevada - Ballotpedia               about:reader?url=https
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia                about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -232,7 +232,7 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia                 about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -284,7 +284,7 @@ Federal land policy in Nevada - Ballotpedia                 about:reader?url=htt
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia                about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -336,7 +336,7 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia                about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -399,7 +399,7 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -445,7 +445,7 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -502,7 +502,7 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia               about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -563,7 +563,7 @@ Federal land policy in Nevada - Ballotpedia               about:reader?url=https
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -603,7 +603,7 @@ Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia             about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -657,7 +657,7 @@ Federal land policy in Nevada - Ballotpedia             about:reader?url=https%3
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia                about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -716,7 +716,7 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia   about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -780,7 +780,7 @@ Federal land policy in Nevada - Ballotpedia   about:reader?url=https%3A%2F%2Fbal
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 
@@ -831,7 +831,7 @@ Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%
 
 ### Extracted Text
 
-```
+
 Federal land policy in Nevada - Ballotpedia       about:reader?url=https%3A%2F%2Fballotpedia.org%...
 
 

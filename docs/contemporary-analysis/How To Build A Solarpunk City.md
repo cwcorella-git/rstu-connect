@@ -432,7 +432,7 @@ the vision of face-to-face democracy seen in the Greek polis, nor do they posses
 
 Howard misses is that cities under capitalism are spaces of vast income
 
-```
+
 inequality, time disparity, 
 12:57
 and alienated labour. Though a necessary component in promoting community, 

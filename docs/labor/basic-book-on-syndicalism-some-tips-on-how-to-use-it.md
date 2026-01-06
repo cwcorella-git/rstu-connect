@@ -27,7 +27,7 @@ title: "Basic book on syndicalism – some tips on how to use it"
 
 ### Extracted Text
 
-``` Basic book on syndicalism – some tips on how to use it Date: Unknown Source: https://libcom.org/article/basic-book-syndicalism-some-tips-how-use-it Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
+
 
 
 
@@ -62,7 +62,7 @@ The book I’ve written is an introduction to the ideology of syndicalism relate
 
 ### Extracted Text
 
-``` of the key concepts of syndicalism, including the terms class struggle, organizing and direct action. Those who arrange basic courses can explain these concepts. That can be the starting point of a fruitful course if participants also are given space to talk about their workplaces.
+
 
 
 
@@ -97,7 +97,7 @@ At the same time, I want to emphasize that the book's strength is also its weakn
 
 ### Extracted Text
 
-``` afterword, written by Niklas Averstad Ryd and Jonas Hammarbäck.
+
 
 
 
@@ -140,6 +140,6 @@ It can be added that SAC’s central committee read a version of the script in 2
 
 ### Extracted Text
 
-``` BUY THE BOOKHERE. ```
+
 
 ---

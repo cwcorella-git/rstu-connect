@@ -1397,7 +1397,7 @@ a. The thirteen-year-old:
 
 "So, why do they want to kill us? His father's in the militia and says we all ought to have our throats slit."
 
-```
+
 "But he didn't say anything like that to you?"
 "Him? No."
 "You know he's dead now."
@@ -2007,7 +2007,7 @@ Perhaps Fanon reached such heights and his vision was so broad because he was a 
  - 81 Horne, 222.
  - 82 WE, 18.
 
-```
+
 83 WE, 21.
 ## ```
 

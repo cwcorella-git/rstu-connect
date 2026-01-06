@@ -283,7 +283,7 @@ His manner disconcerts me; but the sarcasm of his words and the offensive tone r
 
 "Oh, that is interesting," I hear, as in a dream, the unpleasant guttural voice of the Director. "When did you write it?"
 
-```
+
 "Three years ago."
 "How old were you then?"
 "Twelve."
@@ -1153,7 +1153,7 @@ Between the narrow bars, the beverage is poured into my bent, rusty tin can. In 
 
 "Want to be smart, don't you? Well, we'll take it out of you. Hey, there, Sam," the officer motions to the trusty, "no dinner for A 7, you hear!"
 
-```
+
 "Yes, sir. Yes, sir!"
 "No more coffee, either."
 "Yes, sir."
@@ -1161,7 +1161,7 @@ Between the narrow bars, the beverage is poured into my bent, rusty tin can. In 
 
 The guard measures me with a look of scornful hatred. Malice mirrors in his face. Involuntarily I step back into the cell. His gaze falls on my naked feet.
 
-```
+
 "Ain't you got no shoes?"
 "Yes."
 "Ye-e-s! Can't you say 'sir'? Got shoes?"
@@ -2871,7 +2871,7 @@ With great relief I learn that "Crazy Smithy" is not dead. He will recover, the 
 
 The rare snatches of conversation with the old rangeman are events in the monotony of the solitary. Owing to the illness of Bob, communication with my friends is almost entirely suspended. In the forced idleness the hours grow heavy and languid, the days drag in unvarying sameness, By violent efforts orts of will I strangle the recurring thought of my long sentence, and seek forgetfulness in reading. Volume after volume passes through my hands, till my brain is steeped with the printed word. Page by page I recite the history of the Holy Church, the lives of the Fathers and the Saints, or read aloud, to hear a human voice, the mythology of Greece and India, mingling with it, for the sake of variety, a few chapters from Mill and Spencer. But in the midst of an intricate passage in the "Unknowable," or in the heart of a difficult mathematical problem, I suddenly become aware of my pencil drawing familiar figures on the library slate: 22 x 12 = 264. What is this, I wonder. And immediately I proceed, in semi-conscious manner, to finish the calculation:
 
-```
+
 264 x 30 = 7,920 days.
 7,920 x 24 = 190,080 hours.
 190,080 x 60 = 11,404,800 minutes.
@@ -3941,7 +3941,7 @@ The incident cements our intimacy; our intimacy, our first diffidence disappears
 
 ## "Will you promise not to laugh at me, Sashenka?"
 
-```
+
 "I wouldn't laugh at you."
 ## ```
 
@@ -3951,7 +3951,7 @@ An unaccountable sense of joy glows in my heart, I muse in silence.
 
 "What's the matter, Sashenka? Why don't you say something? Are you angry with me?"
 
-```
+
 "No, Felipe, you foolish little boy."
 ## ```
 
@@ -5023,7 +5023,7 @@ Considerable time elapses before "Coz" returns. From the delay I judge that the 
 
 ## "Well, I'll tell you. He is not a screw."
 
-```
+
 "Can't be a prisoner?"
 ## ```
 

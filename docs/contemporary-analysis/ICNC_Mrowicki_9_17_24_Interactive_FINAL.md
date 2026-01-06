@@ -2283,7 +2283,7 @@ In considering judicial resistance in Poland, this study incorporated the voices
 
 **European** Court of Human Rights. "Communication in the case of Biliński v. Poland (no. 13278/20)."
 
-```
+
 ––––– "Communication in the case of Brodo-
 wiak and Dżus v. Poland (nos. 28122/20 and 
 48599/20)."

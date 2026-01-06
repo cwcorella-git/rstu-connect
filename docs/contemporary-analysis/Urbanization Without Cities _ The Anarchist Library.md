@@ -1384,7 +1384,7 @@ French Revolution of 1789–94 (in the view of some historians, the span of the 
 - {9} Aristotle, op. cit., 1252a3. Translation modified by author.
 - {10} Lilly Ross Taylor: Roman Voting Assemblies (Ann Arbor: University of Michigan Press; 1966), p. 2.
 
-```
+
 {11} Ibid., p. 3.
 {12} Ibid., p. 3
 ## ```
@@ -1403,7 +1403,7 @@ French Revolution of 1789–94 (in the view of some historians, the span of the 
 - {24} Aeschylus: Oresteia (Chicago: University of Chicago Press; 1953), 735–40.
 - {25} Ibid., 681–706
 
-```
+
 {26} W. G. Forrest, op. cit., p. 204; George Thomson: Aeschylus
 and Athens (New York: Grosset & Dunlop; 1968).
 ## ```
@@ -1423,7 +1423,7 @@ and Athens (New York: Grosset & Dunlop; 1968).
 - {39} Ibid., p. 37.
 - {40} Daniel Waley: The Italian City Republics (New York:
 
-```
+
 Mc Graw-Hill Book Co.; 1969), p. 63.
 {41} Ibid., p. 63.
 {42} Lauro Martines, op. cit., p. 49.
@@ -1452,7 +1452,7 @@ Italy (New York: Phaidon Publishers; 1950), p. 2.
 
 University Press; 1967), p. 27.
 
-```
+
 {55} Peter Kropotkin: Mutual Aid (Montreal: Black Rose Books;
 n.d.).
 {56} Ibid., pp. 204–5
@@ -1481,7 +1481,7 @@ Publishers; 1969), Vol. I, p. 504.
 
 University of Michigan Press; 1938), p. 50.
 
-```
+
 {70} R. S. Lopez: "The Evolution of Land Transport in the Middle
 Ages," Past and Present, April, 1956, p. 17.
 {71} Ibid., p. 18

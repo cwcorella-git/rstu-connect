@@ -49,7 +49,7 @@
 
 You can run Doom with the f o l l o rwing parameter s:
 
-```
+
 DOOM /bugs All debug keys enabled
 DOOM /mem Show mem readout in scope or report window
 DOOM /EPISODE=x Run episode number x (must have /bugs)
@@ -1374,7 +1374,7 @@ This allows you to grab one lump off of a screen without a script file.
 
 ### SCRIPT FILE FORMAT
 
-```
+
 ; Comments can be uses at the beginning of a line,
 ; or after a command's parms. Whitespace can be introduced
 ; anywhere, but a command cannot cross lines.
@@ -1436,7 +1436,7 @@ WadLINK alone will load WADFILE. WLN as the script file, get files from the curr
 
 ### SCRIPT FILE FORMAT
 
-```
+
 ; Comments can be used at the beginning of a line, or after
 ## ```
 

@@ -21,7 +21,7 @@ title: "Support Team Guide"
 
 ### Extracted Text
 
-```
+
 🌱 Want to Support a Community Garden? Here's How to
 Plug In 🌻
 Because growing food together is radical mutual aid.

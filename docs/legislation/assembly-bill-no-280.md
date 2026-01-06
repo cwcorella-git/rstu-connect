@@ -24,7 +24,7 @@ title: "assembly-bill-no-280"
 
 ### Extracted Text
 
-```
+
             Assembly Bill No. 280–Assemblywomen Peters;
                      Bilbray-Axelrod and Torres
 
@@ -89,7 +89,7 @@ urinal, neither of which is separated from the other by enclosure within a stall
 
 ### Extracted Text
 
-```
+
                                                          –2–
 
 Finally, sections 1 and 6.5 of this bill provide that the provisions of sections 1 and
@@ -160,7 +160,7 @@ that provides a single-stall restroom to the public shall make the
 
 ### Extracted Text
 
-```
+
                                   –3–
 
 single-stall restroom as inclusive and accessible as possible to a
@@ -220,7 +220,7 @@ NRS 651.050.
 
 ### Extracted Text
 
-```
+
                                  –4–
 
     Sec. 3. NRS 651.065 is hereby amended to read as follows:
@@ -281,7 +281,7 @@ origin, disability, sexual orientation, sex or gender identity or
 
 ### Extracted Text
 
-```
+
                                  –5–
 
 expression may file a complaint to that effect with the Nevada Equal
@@ -342,7 +342,7 @@ restroom with the child;
 
 ### Extracted Text
 
-```
+
                                  –6–
 
     (b) A person with a disability to enter the single-stall restroom
@@ -403,7 +403,7 @@ elimination of architectural barriers to persons with a physical
 
 ### Extracted Text
 
-```
+
                                   –7–
 
 handicap in public buildings and facilities designed after July 1,
@@ -464,7 +464,7 @@ Design, 36 C.F.R. §§ 1190.1 et seq.; and
 
 ### Extracted Text
 
-```
+
                                    –8–
 
     (c) Fair Housing Act, 42 U.S.C. § 3604, and the regulations
@@ -525,7 +525,7 @@ requirements of this section. Each political subdivision shall verify
 
 ### Extracted Text
 
-```
+
                                  –9–
 
 that all public buildings and facilities owned by the political
@@ -586,7 +586,7 @@ areas that provides a single-stall restroom to the public within the
 
 ### Extracted Text
 
-```
+
                                  – 10 –
 
 common area of the complex, must make the single-stall restroom
@@ -647,7 +647,7 @@ from the other by enclosure within a stall.
 
 ### Extracted Text
 
-```
+
                                   – 11 –
 
 “public body” means a governmental body of the State of Nevada,
@@ -708,7 +708,7 @@ by persons of the other gender.
 
 ### Extracted Text
 
-```
+
                                   – 12 –
 
     2. A person may report a violation of subsection 1 to the

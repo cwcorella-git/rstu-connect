@@ -24,7 +24,7 @@ title: "assembly-bill-no-121"
 
 ### Extracted Text
 
-```
+
   Assembly Bill No. 121–Assemblywomen Considine, Anderson,
       Bilbray-Axelrod, González and Summers-Armstrong
 
@@ -88,7 +88,7 @@ the Department is hospitalized for or diagnosed with a critical medical conditio
 
 ### Extracted Text
 
-```
+
                                                          –2–
 
 which requires the offender to stay in a medical facility overnight, section 3
@@ -155,7 +155,7 @@ regulation pursuant to subsection 2, the Director shall submit the
 
 ### Extracted Text
 
-```
+
                                   –3–
 
 study and any evidence or data that supports the determination of
@@ -216,7 +216,7 @@ in NRS 453C.150.
 
 ### Extracted Text
 
-```
+
                                   –4–
 
     (c) “Medical facility” has the meaning ascribed to it in
@@ -277,7 +277,7 @@ limitation, a drug or alcohol overdose.
 
 ### Extracted Text
 
-```
+
                                     –5–
 
     (b) “Drug or alcohol overdose” has the meaning ascribed to it
@@ -312,7 +312,7 @@ are inconsistent with the provisions of sections 2, 3 and 4 of this act.
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -324,7 +324,7 @@ are inconsistent with the provisions of sections 2, 3 and 4 of this act.
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -336,7 +336,7 @@ are inconsistent with the provisions of sections 2, 3 and 4 of this act.
 
 ### Extracted Text
 
-```
+
 ```
 
 ---

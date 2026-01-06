@@ -367,7 +367,7 @@ Enviro Sky Mgr.instance. Change Focus (Game Object player, Camera Camera);
 
 ## Activate or deactivate features:
 
-```
+
 Enviro Sky Mgr.instance.use Volume Lighting = true;
 Enviro Sky Mgr.instance.use Volume Clouds = true;
 Enviro Sky Mgr.instance.use Flat Clouds = true;
@@ -386,7 +386,7 @@ Enviro Sky.instance. Apply Volume Clouds Quality Preset(Enviro Volume Clouds Qua
 
 ## Get current Time:
 
-```
+
 int current Second = Enviro Sky Mgr.instance. Time. Seconds;
 int current Minute = Enviro Sky Mgr.instance. Time. Minutes;
 int current Hour = Enviro Sky Mgr.instance. Time. Hours;
@@ -398,21 +398,21 @@ float time OfDay = Enviro Sky Mgr.instance. Get Time OfDay();
 
 ## Get current sun and moon "time" (0-1). Usefull to use in curves and gradient to evaluate values:
 
-```
+
 float solar Time = Enviro Sky Mgr.instance. Time.solar Time;
 float lunar Time = Enviro Sky Mgr.instance. Time.lunar Time;
 ## ```
 
 ## Get a time string to be used in your UI:
 
-```
+
 string time String = Enviro Sky Mgr.instance. Get Time String();
 string time String With Seconds = Enviro Sky Mgr.instance. Get Time String With Seconds();
 ## ```
 
 ## Set time of enviro:
 
-```
+
 Enviro Sky Mgr.instance. Set Time OfDay(float tod);
 Enviro Sky Mgr.instance. Set Time(int year, int day, int hour, int minute, int second);
 Enviro Sky Mgr.instance. Set Time(System. Date Time date Time);
@@ -480,7 +480,7 @@ Enviro Sky Mgr.instance. Change Weather Instant(Enviro Weather Preset weather Pr
 
 ## Events
 
-```
+
 Enviro Sky Mgr.instance. On Weather Changed += (Enviro Weather Prefab type) =>
 {
 Debug. Log("Weather changed to: " + type. Name);

@@ -628,7 +628,7 @@ Determining the best o our moves requires six comparisons, determining the best 
 
 e immediate complexity o a situation is the amount o work the player needs to do to pick the best move out o a collection o possible moves with obvious outcomes. It can be expressed by a simple ormula: n\* n
 
-```
+
 (
 )
 ## ```
@@ -984,7 +984,7 @@ In Chapter 3, we introduced the idea o immediate complexity. Immediate complexit
 
 Anticipatory complexity is a related concept. Anticipatory complexity takes into account that the worth o a move can't always be determined by looking at the move's immediate consequences. Sometimes, you have to consider long chains o hypothetical consequences to determine the best move. So, the anticipatory complexity o a situation is not just a unction o the number o moves the situation oers. It's also a unction o the average number o situations you need to look ahead. Here's the ormula: mn mn
 
-```
+
 )
 1
 Anticipatory Complexity

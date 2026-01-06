@@ -230,7 +230,7 @@ In experiment, parameters used for task 1 were as follows: xtrain = 0.2 V; for x
 
 The input pattern was expanded to $3 \times 3$ (nine inputs, two outputs), and more n values were added to the testing procedure: n = 2,3,4,5, and 6. Training and testing were implemented in the same way as in Algorithm 1, using more complex input patterns: "x" and "+" (5 bits each). One training-testing cycle made up an epoch. Each trial lasted 40 epochs of one n value. For example, in trial 1, n = 2, in trial 2, n = 3, and so on. A total of 50 trials were run, 10 for each n value, each with a different random seed. Figure 6 shows a schematic of the setup and methodology. The two classes of $3 \times 3$ patterns (+ and x) correspond to five nonzero inputs. If sample 1 is +, subsequent training samples were all x and vice versa. This way, during testing, conduction pathways formed by sample 1 are not
 
-```
+
 Algorithm 2: Multipattern n-back procedure
 1: patterns \Leftarrow [A, B, C, D, E, F, G]
 2: d \leftarrow 1

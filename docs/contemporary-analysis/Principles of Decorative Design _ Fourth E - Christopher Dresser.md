@@ -1994,7 +1994,7 @@ As I am writing for the working man, as well as for others, will he pardon me re
 
 In taking leave of my reader, let me say that if I personally can aid him in any way, I shall be glad to do so. If any who really seek knowledge of decorative design, and are hard workers, choose to send me designs for criticism or comment, or desire any other aid that I can give them, I shall be happy to do what little I can for them. My address will be found at the end of the Preface.
 
-```
+
 FOOTNOTES:
 ## ```
 
@@ -2032,7 +2032,7 @@ Black, a Neutral in Decorative Work, 45.
 
 ## Buhl-work, 64.
 
-```
+
 Buildings, Decoration of, 73, et seq.
 Byzantine Ornament, 11.
 Cabinet, Construction of a, 61.
@@ -2054,7 +2054,7 @@ Character of the Designer shown by his Work, 163.
 Chinese Enamels, 143.
 ## ```
 
-```
+
 Chinese Harmony of Colour, 48.
 Chinese Ornament, 11.
 Christian Art, 11, 12.
@@ -2118,7 +2118,7 @@ Truthful Construction of, 59, 65, et seq. ; Proportion and Enrichment of, 61,
 
 63.
 
-```
+
 Glass, as a Material for Art-purposes, 118, 127, et seq. ; Vessels, Various,
 130, et seq. ; Vessels, Coloured, 131, 132;
 ## ```
@@ -2157,7 +2157,7 @@ Harmony of Colour. See Colour.
 
 Historical Inquiry Necessary to the Understanding of Decoration,
 
-```
+
 4.
 ## ```
 
@@ -2195,7 +2195,7 @@ Iron-work, Ornamental, 147, et seq. ; must Manifest a True Constructive Principl
 
 Japan, Deterioration in the Art-works of, 161.
 
-```
+
 Japanese Art, 11.
 ## ```
 
@@ -2269,7 +2269,7 @@ Preface, v., vi.
 
 Pretence in Art-decoration, 157-159.
 
-```
+
 Proportion must be Subtle, 23.
 Purpose, Adaptation to, Taught by Plants, 21.
 Renaissance Ornament, 13.
@@ -2290,7 +2290,7 @@ Styles of Architecture, 73.
 Sugar-basin, its Form, 138.
 ## ```
 
-```
+
 Surface Decoration, 73, et seq.
 ## ```
 

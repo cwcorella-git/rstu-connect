@@ -24,7 +24,7 @@ title: "Tenants Rights In Nevada - Google Docs"
 
 ### Extracted Text
 
-```
+
 Jump to zine draft →
 
 Notes
@@ -72,7 +72,7 @@ Habitability/Livable Conditions
 
 ### Extracted Text
 
-```
+
  ● Habitability repairs are minor repairs to walls, floors, doors, windows,
    ceilings, roof, rodent and insect control, mold, weatherproofing, and other
    services that do not affect health and safety.

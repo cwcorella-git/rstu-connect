@@ -1000,7 +1000,7 @@ What a struggle to free himself of a purely subjective confl ict. I am a white m
 
 differences that separate me from them. Indeed, read the book again and you will be convinced:
 
-```
+
 Who knocked at the door? Ah, yes, of course.
 ## ```
 
@@ -2263,7 +2263,7 @@ and for this, O lord with white teeth, men with fragile necks receive and collec
 
 <sup>53.</sup> *L'air et les songes* (Paris, Corti, 1943).
 
-```
+
 I give you the chain-gang 
 I give you the swamp 
 I give you the Intourist with the three-cornered journey

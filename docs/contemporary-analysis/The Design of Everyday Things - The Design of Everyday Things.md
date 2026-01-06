@@ -96,7 +96,7 @@ Books published by Basic Books are available at special discounts for bulk purch
 
 Library of Congress Cataloging-in-Publication Data
 
-```
+
 Norman, Donald A.
 [Psychology of everyday things]
  The design of everyday things / Don Norman.—Revised 
@@ -1320,7 +1320,7 @@ If knowledge and structure in the world can combine with knowledge in the head t
 
 Most of us have experienced the power of multiple minds in remembering things. You are with a group of friends trying to remember the name of a movie, or perhaps a restaurant, and failing. But others try to help. The conversation goes something like this:
 
-```
+
 "That new place where they grill meat"
 "Oh, the Korean barbecue on Fifth Street?"
 "No, not Korean, South American, um,"

@@ -25,7 +25,7 @@ title: "proposed-bylaws-to-review-at-2-21-meeting.pdf"
 
 ### Extracted Text
 
-```
+
          Proposed Bylaws (2/21 Meeting)
 General Meetings
    ●   General meetings will be held at regular intervals as determined by the membership.
@@ -70,7 +70,7 @@ should be informed at a general meeting.
 
 ### Extracted Text
 
-```
+
 Membership
 
 Eligibility

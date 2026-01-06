@@ -25,7 +25,7 @@ title: "assembly-bill-no-211"
 
 ### Extracted Text
 
-```
+
           Assembly Bill No. 211–Assemblymember Considine
                                  CHAPTER..........
 AN ACT relating to property; requiring a county or city to require a
@@ -90,7 +90,7 @@ commissioners or governing body of the city, as applicable; (2) order that the b
 
 ### Extracted Text
 
-```
+
                                           –2–
 
 of county commissioners or governing body of the city provide each tenant with
@@ -151,7 +151,7 @@ pursuant to section 10 or 29, as applicable.
 
 ### Extracted Text
 
-```
+
                                                          –3–
 
  EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
@@ -215,7 +215,7 @@ that:
 
 ### Extracted Text
 
-```
+
                                  –4–
 
     (a) A residential multifamily rental property is maintained in a
@@ -276,7 +276,7 @@ order issued pursuant to section 8 of this act:
 
 ### Extracted Text
 
-```
+
                                  –5–
 
    (a) The county may bring an action to:
@@ -337,7 +337,7 @@ property to be a substandard property, the district court must find:
 
 ### Extracted Text
 
-```
+
                                  –6–
 
     (a) The residential multifamily rental property is maintained in

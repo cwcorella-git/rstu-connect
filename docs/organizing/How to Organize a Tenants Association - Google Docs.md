@@ -25,7 +25,7 @@ title: "How to Organize a Tenants Association - Google Docs"
 
 ### Extracted Text
 
-```
+
 Finished zine:     RSTU_HowToOrganizeATenantsAssociation_Zine.pdf
 
 
@@ -67,7 +67,7 @@ Finished zine:     RSTU_HowToOrganizeATenantsAssociation_Zine.pdf
 
 ### Extracted Text
 
-```
+
                                                                                                                                    This is just a brief overview!
                                                                                                                                 Tenants Unions across the world
             How to Get Started                3. Build a communication method:                                                 have developed comprehensive and
@@ -127,7 +127,7 @@ Notes:
 
 ### Extracted Text
 
-```
+
 ```
 
 ---

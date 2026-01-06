@@ -4048,7 +4048,7 @@ Albemarle Street, 1821), vol. 1 of Piero Sraffa, ed., The Works and Corresponden
 - [\[334\]](#page-112-1) Andrew Ure, Philosophy of Manufactures, in Thompson, Making of the English Working Class 360.
 - [\[335\]](#page-112-2) David Noble, America by Design: Science, Technology, and the Rise of Corporate Capitalism (N. Y.: Alfred A. Knopf, 1977) xi-xii.
 
-```
+
 [336] Hammonds, Town Labourer 72.
  [337] Ibid. 80.
  [338] Ibid. 91–2.
@@ -4163,7 +4163,7 @@ Doubleday, Page & Co., 1909) 297–8.
 
 1983) 27.
 
-```
+
 (February 1944) 28.
  [429] Rothbard, Power and Market 132–3.
  [430] Ibid. 68.

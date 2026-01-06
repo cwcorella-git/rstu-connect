@@ -807,7 +807,7 @@ Max Payne 3 is infamous for having unskippable cutscenes. While some of the cuts
 
 This one should be obvious, yet there are still games that don't allow the player to skip the credit roll. There's absolutely no reason to do this. I'm all for having a credit roll and honoring the people who participated in the creation of a game. After all, my game has a credit roll too and I appreciate it when You Tubers and Streamers take the time to listen to the music and reflect on the game's meaning while watching the names roll by. You've got to give the player a choice though. Some simply want to go back to the start menu, and that's OK too.
 
-```
+
 Aikei Corporation, Inc.
 Aoshima Bunka Kyozai, Inc.
 Aoyagiuirou Co., Ltd.

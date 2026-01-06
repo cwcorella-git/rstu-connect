@@ -1330,7 +1330,7 @@ As capitalism spreads more widely and penetrates more deeply into every aspect o
 
 ### INDEX
 
-```
+
 absolutism 44–7, 52, 103–4, 116–17, 166, 169–70, 184, 197
 accumulation 19, 30–31, 35–6, 48, 97
 Africa 30, 156
@@ -1364,7 +1364,7 @@ cities 74–5, 81, 88, 89, 187
  see also urbanization
 ## ```
 
-```
+
 class relations 42, 44–6, 52–3, 55–8, 76, 79–80, 98–101, 103–5, 116–21, 127–8, 144
 Cobbett, William 129
 colonialism 147–65
@@ -1416,7 +1416,7 @@ exchange value 111–12, 125, 157, 158, 197
  177–81
 ## ```
 
-```
+
 'failed transitions' 26, 42–3, 85
  see also Dutch Republic; Florence
 feudalism 15, 19, 25–6, 35, 38–49, 55–61, 73, 101–2, 103–5, 167–8
@@ -1464,7 +1464,7 @@ market dependence 2–3, 97, 98, 100–101, 130–31, 134–42, 144, 177, 179, 1
 market economy 23
 ## ```
 
-```
+
 market exchange 21
 market forces see market imperatives
 market imperatives 6–7, 36–7, 65, 75, 76, 78, 81, 86–7, 90, 94, 97, 102–3, 144–5, 152, 177–81, 194,
@@ -1514,7 +1514,7 @@ property rights 107–15, 157–60
 proto-capitalism 31–2
 ## ```
 
-```
+
 quality of life 197–8
 racism 27
 rationalism 29, 182–3

@@ -25,7 +25,7 @@ title: "11-15-23-meeting-notes"
 
 ### Extracted Text
 
-```
+
                                 Reno‐Sparks Tenant Union
                                        Nov. 15, 2023 Meeting
 
@@ -78,7 +78,7 @@ Goal 1: People’s Initiative
 
 ### Extracted Text
 
-```
+
     ●   Jenny suggested canvassing about ballot measure for rent control in the city area.
     ●   Law is ambiguous on whether municipalities can pass rent control measures. Can expect a legal
         fight if we try to get a ballot measure. Need good legal backup to get it passed.

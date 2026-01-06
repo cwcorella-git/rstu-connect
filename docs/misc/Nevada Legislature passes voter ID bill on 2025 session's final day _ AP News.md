@@ -35,7 +35,7 @@ title: "Nevada Legislature passes voter ID bill on 2025 session's final day _ AP
 
 ### Extracted Text
 
-```
+
 Nevada Legislature passes voter ID bill on 2025 session'...                                  https://apnews.com/article/nevada-legislature-2025-edu...
 
 
@@ -83,7 +83,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...                     
 
 ### Extracted Text
 
-```
+
 Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
 
 
@@ -132,7 +132,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
 ### Extracted Text
 
-```
+
 Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
 
 
@@ -162,7 +162,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
 ### Extracted Text
 
-```
+
 Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
 
 
@@ -206,7 +206,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
 ### Extracted Text
 
-```
+
 Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
 
 
@@ -270,7 +270,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
 ### Extracted Text
 
-```
+
 Nevada Legislature passes voter ID bill on 2025 session'...             https://apnews.com/article/nevada-legislature-2025-edu...
 
 
@@ -332,7 +332,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...             https://
 
 ### Extracted Text
 
-```
+
 Nevada Legislature passes voter ID bill on 2025 session'...            https://apnews.com/article/nevada-legislature-2025-edu...
 
 

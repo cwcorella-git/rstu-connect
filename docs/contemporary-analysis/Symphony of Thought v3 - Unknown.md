@@ -46,7 +46,7 @@ Subjects: Computer Science | Artificial Intelligence | Ethics and Philosophy
 | Conductor<br>39 |
 ## | Loops<br>40 |
 
-```
+
 Microservices 42
  Generation vs Discrimination 44
  Pattern Matching & Generation 45
@@ -1315,7 +1315,7 @@ In the same way, our robots must learn about their abilities and limits over tim
 
 Let's give a quick example before we move on about how self-awareness might look to GPT-3 embodied in a robot:
 
-```
+
 I am a robot lifting a heavy box. What do the following logs mean?
 ## ```
 

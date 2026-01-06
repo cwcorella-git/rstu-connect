@@ -23,7 +23,7 @@ title: "What Is A Tenants Union - Google Docs"
 
 ### Extracted Text
 
-```
+
 Notes from        Educational Material Planning 6/20/25 :
 
    ●   Definition, history, and how they can empower tenants

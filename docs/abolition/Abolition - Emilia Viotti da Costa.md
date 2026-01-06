@@ -129,7 +129,7 @@ Concentration of Slaves on the Great Plantations [35]
 
 Chapter 4 – ABOLITIONISM: THE PRIMARY PHASE, 1850-1871 [37]
 
-```
+
 The Slave in Literature [38]
  Reform and Abolition [39]
  International Pressure [40]

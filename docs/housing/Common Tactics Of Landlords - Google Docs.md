@@ -23,7 +23,7 @@ title: "Common Tactics Of Landlords - Google Docs"
 
 ### Extracted Text
 
-```
+
 View notes from original meeting:     Educational Material Planning 6/20/25
 
 

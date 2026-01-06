@@ -25,7 +25,7 @@ title: "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenant
 
 ### Extracted Text
 
-```
+
 Comprehensive Tenant Organizing Platform Proposal for Reno-
 Sparks Tenants Union
 Building community power through collective digital infrastructure
@@ -80,7 +80,7 @@ Washoe County Data Integration:
 
 ### Extracted Text
 
-```
+
  • Primary Data Source: GSA_QuickInfo.zip bulk download (updated nightly) containing property
    assessment data, ownership records, and sales information Washoe County   washoecounty
 
@@ -105,7 +105,7 @@ Spatial Data Processing:
 
 ### Extracted Text
 
-```
+
 sql
 
 -- Property boundaries with ownership tracking
@@ -165,7 +165,7 @@ CREATE INDEX idx_properties_parcel ON properties(parcel_id);
 
 ### Extracted Text
 
-```
+
 Database design for organizing infrastructure
 The database schema supports comprehensive tenant organizing workflows while maintaining security
 and privacy:
@@ -180,7 +180,7 @@ and privacy:
 
 ### Extracted Text
 
-```
+
 sql
 
 -- Tenant information with privacy controls
@@ -239,7 +239,7 @@ CREATE TABLE issues (
 
 ### Extracted Text
 
-```
+
   -- Organizing progress tracking
   CREATE TABLE organizing_metrics (
        id UUID PRIMARY KEY DEFAULT gen_random_uuid( ),
@@ -299,7 +299,7 @@ Privacy Protection Implementation:
 
 ### Extracted Text
 
-```
+
  • Data Minimization: Collect only essential information for organizing purposes Home Made Blog
 
  • Anonymization Options: Allow tenants to participate without revealing identity
@@ -366,7 +366,7 @@ Digital tools for tenant connection and collective action
 
 ### Extracted Text
 
-```
+
 The platform provides comprehensive tools designed specifically for building tenant power through
 collective organizing: Stanford Social Innovation Re…
 
@@ -430,7 +430,7 @@ Community Partnership Framework:
 
 ### Extracted Text
 
-```
+
   • API Access: Secure data sharing with trusted partner organizations
 
   • Coalition Dashboards: Shared metrics for joint campaigns
@@ -497,7 +497,7 @@ Governance Structure:
 
 ### Extracted Text
 
-```
+
 Data Governance Policies:
 
  • Community Data Ownership: All data remains property of RSTU membership
@@ -564,7 +564,7 @@ Organizing Tools:
 
 ### Extracted Text
 
-```
+
  • Launch tenant registration and verification system
 
  • Deploy issue reporting and tracking features
@@ -626,7 +626,7 @@ Scale Optimization:
 
 ### Extracted Text
 
-```
+
  • Performance tuning for 10,000+ properties
 
  • Implement advanced caching strategies
@@ -688,7 +688,7 @@ Sustainability Planning:
 
 ### Extracted Text
 
-```
+
  • Document all systems and processes
 
  • Establish long-term governance structures
@@ -753,7 +753,7 @@ Base Building Metrics:
 
 ### Extracted Text
 
-```
+
  • Tenant participation rate by building/neighborhood
 
  • Geographic coverage across Reno-Sparks
@@ -820,7 +820,7 @@ Washoe Legal Services Collaboration:
 
 ### Extracted Text
 
-```
+
  • Co-located organizing and legal clinics
 
  • Integrated calendar for court dates and deadlines
@@ -881,7 +881,7 @@ University of Nevada, Reno Collaboration:
 
 ### Extracted Text
 
-```
+
  • Computer Science Department: Capstone projects for platform development
 
  • School of Social Work: Research on organizing effectiveness
@@ -947,7 +947,7 @@ organizing:
 
 ### Extracted Text
 
-```
+
 Key Legal Protections:
 
  • NRS 118A.510(1)(c): Prohibits landlord retaliation against tenants for joining unions state
@@ -1010,7 +1010,7 @@ Nonprofit compliance requirements
 
 ### Extracted Text
 
-```
+
  • Prohibition on partisan political activity
 
  • Limitation on legislative lobbying (20% rule)
@@ -1072,7 +1072,7 @@ Implementation through Nonprofits Insurance Alliance:
 
 ### Extracted Text
 
-```
+
  • Specialized coverage for organizing activities Insurancefornonprofits
 
  • Risk management resources and training
@@ -1137,7 +1137,7 @@ Decision-Making Framework:
 
 ### Extracted Text
 
-```
+
  • Operational Decisions: Core team consensus with lazy approval
 
  • Technical Architecture: Technical advisory board recommendations
@@ -1189,7 +1189,7 @@ Privacy Policy Framework:
 
 ### Extracted Text
 
-```
+
   markdown
 
   ## Data Collection
@@ -1258,7 +1258,7 @@ Retention Strategies: Kindful         Bloomerang
 
 ### Extracted Text
 
-```
+
 Management Infrastructure:
 
  • Project management tools (GitHub Projects)

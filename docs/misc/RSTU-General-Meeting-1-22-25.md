@@ -30,7 +30,7 @@ title: "RSTU-General-Meeting-1-22-25"
 
 ### Extracted Text
 
-```
+
                              RSTU General Meeting 1/22/25
 ●   Assign roles
         ○ Facilitator: Elizabeth

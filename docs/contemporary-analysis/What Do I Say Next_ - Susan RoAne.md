@@ -2506,7 +2506,7 @@ People often talk about the event or venue, because that is what the commonality
 
 The first conversations may be about the game itself, the course, other courses, the pros, golf stories and jokes, but somewhere out on the seventh or fourteenth hole, business is discussed. Even when the pro fixes up your foursome, by the fifth tee someone will ask,
 
-```
+
 "What do you do?"
 ## ```
 
@@ -2754,7 +2754,7 @@ Here are a few of them (courtesy of Dave Arnold, Infosight). Most of them are re
 - :-) Smile; happy :-o Surprised; shocked
 - ;-) Wink
 
-```
+
 :-# My lips are sealed
 :-( Frowning; sad 8-) I'm wearing glasses
 :'-( Crying
@@ -3760,7 +3760,7 @@ Or else use the tried-and-true alternative: Excuse yourself and move on.
 
 People who speak what we know to be untruths aren't always telling intentional lies. Sometimes we perceive or remember events differently because we all have different "filters"—as was obvious in the famous duet between Maurice Chevalier and Hermione Gingold in Gigi:
 
-```
+
 "We dined at 9:00."
 "No, it was 8:00."
 "I was on time."

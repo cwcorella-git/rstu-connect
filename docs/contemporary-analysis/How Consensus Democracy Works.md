@@ -1,4 +1,4 @@
-```
+
 0:00
 If I were to list some of the most basic anarchic principles, individual autonomy, 
 free association,
@@ -72,7 +72,7 @@ It was about making sure no one felt ignored and could at least passively acquie
 
 The Haudenosaunee Confederation of the Cayuga, Mohawk, Oneida, Onondaga, and Seneca worked 4:47 on a consensual basis, where each nation within the Confederacy selected individuals to represent 4:53 them at confederacy meetings and discussed issues until all were in agreement on a common 4:57 course of action. 4:59 The majority could not force their will upon the minority. 5:02 No warrior could be forced into war without their own assent. 5:06 Or check the Muscogee Creek Nation. 5:09 Consensus was so valued that, if consensus on a major issue couldn't be achieved, dissenters 5:14 were free to move and set up their own community near the town they were leaving, with the 5:18 support of their former town. 5:20 In more modern times, the Zapatistas of Chiapas developed a system where all members of "la 5:25 consulta," whether men, women, or children over 12, could meet and discuss and make decisions 5:32 collectively. 5:33 For those who seek a stateless, moneyless, classless society, free of hierarchies of 5:37 domination, it's clear that without a coercive apparatus, we have to find a collectively 5:42 healthier, freer, and more cooperative means of decision making. 5:47 Consensus works. 5:48 How Does It Work? How to Consensus 5:51 For consensus to work well, and help facilitate the development of all participants, there 5:57 needs to be a commitment to it, shared foundational principles, and a unity of purpose. 6:03 A common goal. 6:05 Self-empowerment is essential, as every individual in the group should have a voice in the process. 6:10 There needs to be some level of trust, which can only flourish when people can check themselves
 
-```
+
 6:14
 and be open to new ideas.
 6:16
@@ -134,7 +134,7 @@ to save
 7:40
 ## ```
 
-```
+
 time.
 7:42
 The proposal is really in its seed stage at this point, expect it to grow and 
@@ -214,7 +214,7 @@ group, there's going to be a variety of people with a variety of identities, lif
 
 ## 13:36
 
-```
+
 backgrounds, experiences, personalities, opinions, etc etc etc.
 13:40
 Bullies exist.
@@ -277,7 +277,7 @@ where places like Chiapas use consensus in neighbourhood assemblies of 300
 
 families.
 
-```
+
 15:00
 Of course, in their case, they default to majoritarian democracy when consensus 
 cannot
@@ -339,7 +339,7 @@ Find points of agreement.
 Identify assumptions and biases.
 ## ```
 
-```
+
 16:24
 Consider the big picture.
 16:27

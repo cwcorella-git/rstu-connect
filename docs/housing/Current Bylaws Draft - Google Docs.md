@@ -25,7 +25,7 @@ title: "Current Bylaws Draft - Google Docs"
 
 ### Extracted Text
 
-```
+
    Reno-Sparks Tenants Union Constitution
 
 Mission Statement
@@ -75,7 +75,7 @@ have a home or not.
 
 ### Extracted Text
 
-```
+
 Anti-gentrification
 We are opposed to the displacement of people and communities through gentrification.
 Gentrification is not inevitable. It is a deliberate process that is led by stakeholders with a
@@ -127,7 +127,7 @@ genocide of Indigenous peoples. We support demands for Land Back by Indigenous p
 
 ### Extracted Text
 
-```
+
                                   Bylaws
 I. General Meetings
      A. General meetings will be held at regular intervals as determined by the
@@ -179,7 +179,7 @@ II. Voting
 
 ### Extracted Text
 
-```
+
            E. Quorum for a simple majority and supermajority vote will be 15% percent of
               membership; once quorum is represented, a simple majority passes with over
               50% of the votes and a supermajority passes with over 66%.
@@ -234,7 +234,7 @@ V. Membership
 
 ### Extracted Text
 
-```
+
                   3. Groups Excluded from Membership
 A person who controls someone else's housing or whose job may involve them in the eviction
 process is ineligible for membership in the tenants union. For that reason, we exclude from
@@ -288,7 +288,7 @@ VI. Elected Positions
 
 ### Extracted Text
 
-```
+
 B.Position Descriptions
     1. Intake coordinator(s)
          a) Expected Time Commitment:
@@ -342,7 +342,7 @@ B.Position Descriptions
 
 ### Extracted Text
 
-```
+
               3. External Communications Coordinator
                       a) Expected Time Commitment: 2 - 4 hours per week
                       b) Responsibilities:
@@ -396,7 +396,7 @@ VII. Accountability
 
 ### Extracted Text
 
-```
+
 VIII. Data Collection and Security
        A. It is important to protect the personal data of our membership and any tenants
           who fill out our surveys/forms/questionnaires. To that end:

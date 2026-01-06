@@ -27,7 +27,7 @@ title: "Green Syndicalism – A Very Brief Introduction"
 
 ### Extracted Text
 
-``` Green Syndicalism – A Very Brief Introduction Date: Unknown Source: https://libcom.org/article/green-syndicalism-very-brief-introduction Tags: Jeff Shantz, anarcho-syndicalism, syndicalism, ecology, environment, sabotage, blockades, climate change, Climate Strike
+
 
 
 
@@ -58,7 +58,7 @@ By Jeff Shantz ```
 
 ### Extracted Text
 
-``` The exploitation of labor and the exploitation of land under capitalism have always been integrally connected – one does not occur without the other. From the violence of enclosures of commons, expanded across the globe through colonialism – ongoing acts that are the bedrock of capitalist property relations. Through the dispossession, displacement, and social control of the enclosed upon, in the service of capitalist property and labor markets. Violent expropriation of land, and the means of the sustenance of life, are the very conditions for forced production for profit. Labor is rendered exploitable by destruction of its conditions of autonomous survival.
+
 
 
 
@@ -89,7 +89,7 @@ Workers hold a potential power which when wielded, can be more directly and imme
 
 ### Extracted Text
 
-``` there picketing would have. So even the same action can hold more power for one group compared to another strictly because of their structural position within re/productive processes.
+
 
 
 
@@ -120,7 +120,7 @@ Workers, because of their placement and positionality also have access to indust
 
 ### Extracted Text
 
-``` I have had numerous conversations with workers, going back to my days as an autoworker, who carry out sabotage within industrial plants to block harmful processes from happening (plugging drains, stopping effluent, disabling machinery with toxic exhausts, etc.). Sometimes it can be as innocuous in appearance as putting a part on the assembly line slightly improperly and ruining most of a shift of production (as I may or may not have done).
+
 
 
 
@@ -151,7 +151,7 @@ Organizing is always key. Because workers are uniquely placed to undertake and e
 
 ### Extracted Text
 
-``` Organizing: A StartSo, some activities to get there. If you are in a union, you can make use of the opportunities and basic protections you have in order to create, expand, or redistribute organizing resources and spaces. There are some useful ways of doing so.
+
 
 
 
@@ -186,7 +186,7 @@ Organize an autonomous flying squad bringing together unorganized workers, unemp
 
 ### Extracted Text
 
-``` squad along these lines in Toronto and we were often the only outside workers presence at pickets of migrant workers who were outside traditional union structures.
+
 
 
 
@@ -222,6 +222,6 @@ are pleased to support the groundbreaking and critically important Green New Dea
 
 ### Extracted Text
 
-``` ```
+
 
 ---

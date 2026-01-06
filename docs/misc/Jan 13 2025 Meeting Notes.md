@@ -21,7 +21,7 @@ title: "Jan 13 2025 Meeting Notes"
 
 ### Extracted Text
 
-```
+
 1/13/25 Meeting Notes:
 Hi @Everyone!
 We had our monthly meeting last night. Although the group was small, we had a
@@ -72,7 +72,7 @@ scheduled to provide more opportunities for the public to participate.
 
 ### Extracted Text
 
-```
+
       February 19th at 5:30 pm - Virtual Stakeholder Meeting
        https://us06web.zoom.us/j/84652250236
       February 20th at 6:00 pm - Ward 4 NAB

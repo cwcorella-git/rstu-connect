@@ -25,7 +25,7 @@ title: "Educational Material Planning 06-20-25 - Google Docs"
 
 ### Extracted Text
 
-```
+
 - NEXT MEETINGS:
     - June 27 @ 5:00 (online in discord)
          - Plan next meeting during then… in-person?
@@ -69,7 +69,7 @@ title: "Educational Material Planning 06-20-25 - Google Docs"
 
 ### Extracted Text
 
-```
+
                 - Add other mutual aid resources on the back?
                    Secondary flyer resource (my.commun.it3) Stacey
                    will draft (Org name, category, contact info:
@@ -113,7 +113,7 @@ title: "Educational Material Planning 06-20-25 - Google Docs"
 
 ### Extracted Text
 
-```
+
 - Distribution
                  - Tabling outside the Farmer’s Market every other
                    sunday (next June 22)

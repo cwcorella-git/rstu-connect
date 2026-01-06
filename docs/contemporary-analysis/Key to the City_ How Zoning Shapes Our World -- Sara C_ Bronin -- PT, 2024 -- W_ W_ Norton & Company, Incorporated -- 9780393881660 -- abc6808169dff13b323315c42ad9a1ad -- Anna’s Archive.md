@@ -1501,7 +1501,7 @@ Page numbers listed correspond to the print edition of this book. You can use yo
 
 Page numbers after 178 refer to endnotes.
 
-```
+
 accessory dwelling units, 81–83
 accessory structures, 44
 accessory uses, 56, 113, 186
@@ -1528,7 +1528,7 @@ African American communities
  in Georgetown, 168
 ## ```
 
-```
+
 Great Migration to the North, 39–40
  in Hartford, 4–5, 116
  homeownership gap and, 81
@@ -1579,7 +1579,7 @@ Arizona
  Mc Dowell Mountains, 128
 ## ```
 
-```
+
 Phoenix, 129–30, 134
  Scottsdale, 129–32, 134, 201, 202
  Sonoran Desert, 129, 201
@@ -1628,7 +1628,7 @@ Baltimore, MD, 29–34, 37, 39, 188
  Great Fire of, 63
 ## ```
 
-```
+
 Inner Harbor, 63–64
  Jones Falls, 30, 62–64
  minimum parking mandates in, 184
@@ -1679,7 +1679,7 @@ buildings. See housing; zoning
 Building Zone Resolution (New York City), 7
 ## ```
 
-```
+
 "build-to" lines, 142
 bulb-outs (curb extensions), 149, 150
 Bullard, Robert, 78
@@ -1728,7 +1728,7 @@ Chicago, 39–41
  "most dangerous block" in, 41
 ## ```
 
-```
+
 Parkway Garden Homes, 41, 185
  South Side, 39–45, 80, 151, 185
  White flight from, 47
@@ -1779,7 +1779,7 @@ commercial use
  small-scale artisanal production, 29–38, 100, 116, 120, 170
 ## ```
 
-```
+
 strip malls, 3, 15, 44, 153, 154, 165
  tourism, 24–25, 62, 64, 65, 68, 88, 90–91, 157, 158, 161
  See also adult use; agricultural use; nightlife
@@ -1827,7 +1827,7 @@ Crystal Cathedral, Anaheim, 91, 97–98, 102, 107
 curb extensions (bulb-outs), 149, 150
 ## ```
 
-```
+
 Dallas, 104
 Decca, 48
 deed restrictions, 17, 86, 88, 181, 192
@@ -1884,7 +1884,7 @@ East Atlantic Avenue, Delray Beach, FL, 152–57 East End neighborhood of Galves
 
 family restaurants, 109–10 Farm Aid concert, 109–11, 119–20 farmland, 126–27 bans against agricultural use, 111, 114–15, 189 family farms, 109, 117, 119 "right-to-farm" laws, 118, 120
 
-```
+
 See also agricultural use
 Fashion Valley mall, San Diego, 24–25
 fast-food restaurants, 2, 3, 9, 110
@@ -1933,7 +1933,7 @@ gambling, 63, 72, 161. See also Las Vegas, NV
 "garden city," 126, 201
 ## ```
 
-```
+
 Garden Grove, CA, 66–67, 91, 97–99, 104, 107, 196–97
 "Garden Grove" (song), 98
 Gaslamp neighborhood of San Diego, 25
@@ -1988,7 +1988,7 @@ Guaranty Building, Buffalo, 99 Guardian, The, 114 Gulf of Mexico, 117, 157 Gulft
 
 Hansberry, Lorraine, 41, 45–46 hardship clauses, 36, 159–60 Hartford Athletic soccer team, 37 Hartford Courant, 37 Hartford, CT, 1–11, 34–37, 149–50, 172–73 Albany Avenue area of, 2–5, 110, 173 asthma, 4, 178 Avon, a suburb outside, 4 Bowles Park, 149–50 Bushnell Park, 124 car dealers in, 198 the Charter Oak, 123–25, 127 Colt Armory, 35–37, 123 downtown, 1–11, 36, 124–25 food insecurity in, 110–11, 114–16, 119–20 Food Policy Commission, 110, 114–15, 125 Keney Park, 115–16 lot size mandates, 88 mixed-use districts in, 36 nature in, 123–25 nightlife in, 58–59, 65 North End neighborhood of, 149 parking mandates in, 95, 102–3 race and affordable housing in, 78–79, 88 rezoning in, 35–38 State Capitol building in, 123 Thomas Hooker Brewery, 35–37 Twain's neighborhood in, 2–3, 10 Wadsworth Atheneum, 124, 126 Hartford Daily Courant, 123 Hartford Flavor Company, 37 Hartford Public Library, 2 Hartford Public Schools, 116 Harvard University, 79–80 healthcare and health outcomes. See public health heat islands, 9–10, 96, 125, 131, 134, 144 Hispanic communities. See Latino communities Historical Zoning District Ordinance of Galveston, TX, 158 historic architecture, 3, 9–10, 42, 99, 143, 158–62 Historic Nashville, 50–51 home-based businesses, 22, 28, 170 homelessness, 76
 
-```
+
 homeownership
  closing the gaps in, 86
  condominiums, 16, 77, 131, 167, 196
@@ -2045,7 +2045,7 @@ Jackson, Alan, 49 Jackson Park, Chicago, 45 Jackson, WY, 88 Jagger, Mick, 37 Jap
 
 La Jolla, CA, 167 Lake Champlain, 140, 141, 141 Lake Erie, 117 Lake Michigan, 43 landscaping, 26, 58–59, 102–3, 113, 115, 127, 130–32, 134, 138, 142–44, 150, 170
 
-```
+
 land use, 1, 6–7, 19, 20–25. See also agricultural use; commercial use; housing;
     nightlife; zoning
 Larson Acres concentrated animal feeding operation (CAFO), 117–18
@@ -2094,7 +2094,7 @@ Marohn, Charles, 164
 Marston, Hamilton, 24, 25, 182
 ## ```
 
-```
+
 Maryland, 30–32, 168, 183. See also Baltimore, MD
 Massachusetts, 105, 193. See also Boston, MA
 maximums and minimums, 92–93, 102–5
@@ -2145,7 +2145,7 @@ Moreno, Vivian, 26
 mortgages, 92, 160
 ## ```
 
-```
+
 mortuaries, 198
 Most Endangered Places list, 50
 multifamily housing
@@ -2194,7 +2194,7 @@ neighborhoods
 Neighbors for More Neighbors (N4MN), 81–84
 ## ```
 
-```
+
 Nelson, Willie, 48, 54, 109, 119
 Neutra, Richard, 91
 Nevada, 129, 162. See also Las Vegas, NV
@@ -2242,7 +2242,7 @@ overlay districts, 65
  historic, 181–82
 ## ```
 
-```
+
 parking
  parking generation rates, 96–97
  parking lots, 3, 24–27, 50, 62, 91–91, 95–96, 98, 101, 127, 137, 154–54, 188, 205
@@ -2293,7 +2293,7 @@ poverty
  measuring, 85, 93, 110
 ## ```
 
-```
+
 "segregation of the affluent," 84, 194
 preservation, 10, 50–52, 73, 160–61, 165, 168, 169, 181–82
  historic overlay districts, 181–82
@@ -2342,7 +2342,7 @@ Raisin in the Sun, A (Hansberry), 45
 RCA Studios, 48
 ## ```
 
-```
+
 real estate. See development
 "redemptive architecture," 46
 Redevelopment Authority of Boston, 112
@@ -2391,7 +2391,7 @@ Saks Fifth Avenue, 25
 San Diego, CA, 23–27, 31, 102, 105, 142–43, 183, 207
 ## ```
 
-```
+
 city council, 24–27, 183
  downtown, 23–27
  Gaslamp neighborhood of, 25
@@ -2442,7 +2442,7 @@ Sixth Street, Nashville, 54–59, 80, 187
 small-scale artisanal production, 29–38, 100, 116, 120, 170
 ## ```
 
-```
+
 small-scale housing development, 76, 84, 103
 Smart Growth America, 139–40
 Sonoran Desert, 129, 201
@@ -2493,7 +2493,7 @@ suburbs, 3–5, 21
  office districts in the, 28
 ## ```
 
-```
+
 stagnation of the, 31
  "streetcar suburbs," 47, 169
  swimming pools, 15, 16, 87, 130
@@ -2544,7 +2544,7 @@ Tucson, AZ, 11, 130, 131, 132, 134–35, 202
 
 ## Vaughn, Stevie Ray, 54
 
-```
+
 U. S. Submarine Sandwiches, 16, 180
 uncertainty, 19, 51, 61, 83
 underwriting guidelines for mortgages, 92
@@ -2590,7 +2590,7 @@ vacancies/vacant lots, 31–32, 61, 80
 variances, 36–38, 61–62, 103, 185, 187
 ## ```
 
-```
+
 vehicle miles traveled, 93, 101
 Vermont, 136. See also Burlington, VT
 Victorian England, 54, 158
@@ -2637,7 +2637,7 @@ Young, Neil, 109
 "zone lots," 146–47, 204
 ## ```
 
-```
+
 zoning, 1–11, 166–73
  for accessory uses, 56, 113, 186
  advocates of its abolition, 167

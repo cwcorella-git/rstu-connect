@@ -32,7 +32,7 @@ title: "New York City draft riots - Wikipedia"
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -88,7 +88,7 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -133,7 +133,7 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                 about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -182,7 +182,7 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -238,7 +238,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -284,7 +284,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                    about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -347,7 +347,7 @@ New York City draft riots - Wikipedia                    about:reader?url=https%
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                 about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -397,7 +397,7 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -441,7 +441,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -490,7 +490,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -540,7 +540,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -589,7 +589,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia              about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -640,7 +640,7 @@ New York City draft riots - Wikipedia              about:reader?url=https%3A%2F%
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                 about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -689,7 +689,7 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -740,7 +740,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                   about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -791,7 +791,7 @@ New York City draft riots - Wikipedia                   about:reader?url=https%3
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                     about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -842,7 +842,7 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                     about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -893,7 +893,7 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -944,7 +944,7 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                       about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -995,7 +995,7 @@ New York City draft riots - Wikipedia                       about:reader?url=htt
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                  about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1046,7 +1046,7 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                     about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1097,7 +1097,7 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                         about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1152,7 +1152,7 @@ New York City draft riots - Wikipedia                         about:reader?url=h
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1206,7 +1206,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1255,7 +1255,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia   about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1303,7 +1303,7 @@ New York City draft riots - Wikipedia   about:reader?url=https%3A%2F%2Fen.wikipe
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                  about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1353,7 +1353,7 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia            about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1402,7 +1402,7 @@ New York City draft riots - Wikipedia            about:reader?url=https%3A%2F%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia       about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1450,7 +1450,7 @@ New York City draft riots - Wikipedia       about:reader?url=https%3A%2F%2Fen.wi
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1501,7 +1501,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1554,7 +1554,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1612,7 +1612,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1671,7 +1671,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                  about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1725,7 +1725,7 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1779,7 +1779,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1833,7 +1833,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1889,7 +1889,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1942,7 +1942,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -1997,7 +1997,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -2051,7 +2051,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia                about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 
@@ -2105,7 +2105,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 ### Extracted Text
 
-```
+
 New York City draft riots - Wikipedia               about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 

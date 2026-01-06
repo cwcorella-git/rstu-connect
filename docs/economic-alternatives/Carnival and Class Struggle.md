@@ -152,7 +152,7 @@ There were a few minor riots in the 1850s, but true concerns about the serious s
 
 ## 3:34
 
-```
+
 Carnival rose in the 1860s. Canboulay and its attendees were vilified by 
 contemporary media, 
 3:40

@@ -27,7 +27,7 @@ title: "Another solidarity networkIWW case - A potential for a strategic leap"
 
 ### Extracted Text
 
-``` Another solidarity network/IWW case - A potential for a strategic leap Date: Unknown Source: https://libcom.org/article/another-solidarity-networkiww-case-potential-strategic-leap Tags: Industrial Workers of the World (IWW), United Kingdom, truckers, solidarity networks, Angry Workers of the World
+
 
 
 
@@ -50,7 +50,7 @@ During the picket we had a short discussion with a building worker of Afghani or
 
 ### Extracted Text
 
-``` up below-minimum wages with social benefits, which creates a relation of collusion and 'fair deal on both sides' between workers and the boss. We told him that we are not here for charity, but in order to encourage workers to break this deadly mixture of dependency and collusion - as it undermines wages and working conditions for the wider working class.
+
 
 
 

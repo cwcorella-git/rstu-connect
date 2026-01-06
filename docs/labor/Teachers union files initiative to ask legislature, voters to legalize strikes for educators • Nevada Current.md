@@ -24,7 +24,7 @@ title: "Teachers union files initiative to ask legislature, voters to legalize s
 
 ### Extracted Text
 
-```
+
 Teachers union ﬁles initiative to ask legislature, voters to legalize strikes ...      about:reader?url=https%3A%2F%2Fnevadacurrent.com%2F2024%2F0...
 
 
@@ -80,7 +80,7 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
 
 ### Extracted Text
 
-```
+
 Teachers union ﬁles initiative to ask legislature, voters to legalize strikes ...       about:reader?url=https%3A%2F%2Fnevadacurrent.com%2F2024%2F0...
 
 
@@ -135,7 +135,7 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
 
 ### Extracted Text
 
-```
+
 Teachers union ﬁles initiative to ask legislature, voters to legalize strikes ...        about:reader?url=https%3A%2F%2Fnevadacurrent.com%2F2024%2F0...
 
 
@@ -189,7 +189,7 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
 
 ### Extracted Text
 
-```
+
 Teachers union ﬁles initiative to ask legislature, voters to legalize strikes ...       about:reader?url=https%3A%2F%2Fnevadacurrent.com%2F2024%2F0...
 
 

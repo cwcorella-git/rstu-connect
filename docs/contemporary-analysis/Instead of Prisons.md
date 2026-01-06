@@ -3913,7 +3913,7 @@ To demonstrate why most rape victims prefer not to press charges, let's imagine 
 
 "Never mind. What time did this holdup take place?"
 
-```
+
 "About 11 p.m."
 ## ```
 
@@ -5493,7 +5493,7 @@ In 1969 the Chairman of the Lorton Lifers at the Lorton, Virginia facility, wrot
 
 [\[188\]](#page-64-3) "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
 
-```
+
 [189] Weems v. United States, 217 U. S. 349, 368–70 (1910).
 ## ```
 

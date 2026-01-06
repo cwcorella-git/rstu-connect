@@ -3529,7 +3529,7 @@ Dulong de Rosnay and Félix Tréguer, eds., *Telecommunications Reclaimed: A Han
 
 # **Index**
 
-```
+
 ableism, 262
 Abolish ICE, 159
 Abolishing the War on Terror, 262
@@ -3555,7 +3555,7 @@ abolitionism, 3–10, 11, 33, 37, 57, 266, 269–70
  requiring imagination, 259
 ## ```
 
-```
+
 See also borders; capitalism; nuclear weapons; police and policing; prisons; surveillance;
       wars
 Abolitionist Platform toward Healthy Communities, 262
@@ -3595,7 +3595,7 @@ activism, 2, 26, 29, 102, 165, 213, 262, 263, 264
  and police, 33, 35, 94, 95, 203
 ## ```
 
-```
+
 against prisons, 35, 53, 54
  repression of environmental activism during COVID-19, 236–38
  tearing down of monuments and statues, 24
@@ -3635,7 +3635,7 @@ anti-imperialism, 262, 263
 anti-imprisonment, 262
 ## ```
 
-```
+
 anti-Mafia, 122
 anti-militarism, 262
 antinuclearism, 173, 194–95, 196, 206, 207, 213–14, 262
@@ -3675,7 +3675,7 @@ Australia, 42, 212, 227, 235
  failure of efforts to deter migration, 122
 ## ```
 
-```
+
 Indigenous Australians, 23, 110, 182, 210
  and migration, 119, 122, 124–25, 126
  and militarism, 151
@@ -3714,7 +3714,7 @@ biometric technologies and surveillance, 26, 80, 85, 90, 97, 98, 116–20, 133, 
 Biswas, Shampa, 179
 ## ```
 
-```
+
 Black antinuclear activism, 186
 Black Lives Matter, 34, 37, 83, 143, 159, 254
 Black Power movement, 6, 46
@@ -3754,7 +3754,7 @@ borders, 5, 107–133
  See also asylum; immigration; migrants and migration
 ## ```
 
-```
+
 Border Violence Monitoring Network, 123, 127, 128
 Bosnia, 125, 128, 146, 152, 237
 Brockway, Fenner, 147
@@ -3793,7 +3793,7 @@ capitalism, 37, 215–55
     a world beyond capitalism, 242–48
 ## ```
 
-```
+
 and borders, 110–11
  and colonialism, 110
  corporate colonization, 81–82
@@ -3833,7 +3833,7 @@ and surveillance, 71, 72, 74–77
 use of COVID19 crisis to roll back environmental protections, 236–38
 ## ```
 
-```
+
 use of police and prisons, 5
 "valorization" of capital, 147, 218, 219, 230, 231
 See also "growth imperative" and capitalism; military-industrial complex; "prison
@@ -3873,7 +3873,7 @@ children, 139, 251
  living in poverty, 232
 ## ```
 
-```
+
 malnutrition in, 138
  migrant children separated from parents, 118, 120, 125
 China, 7, 77
@@ -3913,7 +3913,7 @@ colonialism, 4, 18, 81, 160
  Indigenous activists against colonization, 186
 ## ```
 
-```
+
 and Indigenous peoples, 22, 42, 82–83, 176, 186, 244, 264
  and nuclear weapons, 181–82, 187, 210–11
  and surveillance, 72, 81–84
@@ -3953,7 +3953,7 @@ COVID-19 Strategic Preparedness and Response Program (World Bank), 228–29
 Crawford, Neta C., 149
 ## ```
 
-```
+
 crime and harm, rethinking, 29–33, 57–58
  preventing crime by investing in care, 58–60
  transformative justice goal to prevent future harm, 64–65
@@ -3992,7 +3992,7 @@ D'Alisa, Giacomo, 246
 data mining and collection, 26, 69, 85, 89, 117–18, 119
 ## ```
 
-```
+
 Dataminr, 89–90
 Dauvergne, Peter, 240
 Davies, Nicolas J. S., 139
@@ -4032,7 +4032,7 @@ deportation, 11, 27, 65, 115, 118, 124–26, 127, 161, 193, 267
 de Santana, Anne Harrington, 179
 ## ```
 
-```
+
 detention, 27, 113, 124–27, 135, 157, 161, 267
  colonial basis for, 115
  and COVID-19, 53, 127–29
@@ -4072,7 +4072,7 @@ disarmament, 3, 13, 18, 56, 167, 257
 Discipline and Punish (Foucault), 39
 ## ```
 
-```
+
 Disclose (investigative media), 184
 discrimination, 1, 10, 46, 156
  calls for ending, 1
@@ -4111,7 +4111,7 @@ education
  higher education use of video surveillance, 86–87
 ## ```
 
-```
+
 investing in to prevent crime, 59
  police in schools, 20, 34, 35
  spending on public education compared to prisons, 49
@@ -4151,7 +4151,7 @@ EPA. See US Environmental Protection Agency (EPA)
 Eschle, Catherine, 189, 192
 ## ```
 
-```
+
 espionage and surveillance, 72–73, 100–101
 European Border Surveillance system, 116, 121, 205
 Europe and the European Union (EU), 122, 152
@@ -4190,7 +4190,7 @@ feminism, 3, 12, 167, 242, 246, 248, 253, 264
  and nuclear war, 188
 ## ```
 
-```
+
 and social reproduction, 221
  and transformative justice, 66
  women's experiences of surveillance, 79
@@ -4229,7 +4229,7 @@ Frontex (EU's border and coast guard agency), 121
 Fukushima, Japan nuclear disaster, 183, 241
 ## ```
 
-```
+
 G4S, 120, 146–47
 Galemba, Rebecca, 114
 gaslighting, 190, 191, 200, 206
@@ -4269,7 +4269,7 @@ Gilmore, Ruth Wilson, 10, 33, 42
  on prisons, 46, 49, 56, 247, 257, 258
 ## ```
 
-```
+
 "Global Austerity Alert" (Ortiz and Cummins), 229
 Global Campaign on Military Spending, 166
 global ceasefire, 252
@@ -4309,7 +4309,7 @@ Gumbs, Alexis Pauline, 14
 Gusterson, Hugh, 187
 ## ```
 
-```
+
 Haar, Dr. Rohini, 51
 hacking, 83, 95, 99, 100–101
 Hacking Team, 93
@@ -4349,7 +4349,7 @@ hope, importance of to bring a better world, 265–67
 housing, 59, 229
 ## ```
 
-```
+
 cuts to funding for, 21, 45, 143, 229
  impact of capitalism on, 216, 223, 225
  for migrants, refugees, and asylum seekers, 129
@@ -4388,7 +4388,7 @@ Indigenous communities, 3
  approaches to activism, 210–11, 244
 ## ```
 
-```
+
 against colonization, 186
      efforts to save the environment, 210, 242
      Red Nation as Native and non-Native organizers, 6
@@ -4428,7 +4428,7 @@ international law, 7, 101, 201
  refusing asylum as a violation of, 109, 114, 123
 ## ```
 
-```
+
 International Monetary Fund, 220–21, 226, 228, 229
  calling for the dismantling of, 253
 International Organization for Migration (IOM), 123, 127, 128, 152
@@ -4467,7 +4467,7 @@ Japanese-American internment, 19
 Jarmakani, Amira, 161, 177
 ## ```
 
-```
+
 Java Script, 91
 JEDI cloud computing, 98
 Jetñil-Kijiner, Kathy, 185
@@ -4506,7 +4506,7 @@ Kiritimati (Christmas Island) as nuclear test site, 182
 Klein, Naomi, 34, 148, 227
 ## ```
 
-```
+
 Korchinski-Paquet, Regis, 22
 Korea, 137
  See also Democratic People's Republic of Korea (North Korea); Republic of Korea
@@ -4545,7 +4545,7 @@ LGBTQ+, 1, 3, 53, 165, 167, 194, 209
  incarceration of, 43, 54–55
 ## ```
 
-```
+
 LGBTQ+ focused apps, 81
  "pinkwashing" of the military, 156–57
  surveillance of, 11, 26, 71, 80, 102
@@ -4584,7 +4584,7 @@ marginalized peoples, 1, 23, 59, 66, 211, 236, 240
  efforts to keep people marginalized, 108
 ## ```
 
-```
+
 racially marginalized communities, 45, 153
 Marseille, France and use of surveillance for policing, 88
 Marshall Islands as nuclear test site, 181, 183, 184, 185
@@ -4624,7 +4624,7 @@ migrants and migration, 261
  numbers of deaths of migrants, 122
 ## ```
 
-```
+
 predictions on growth of, 113
  undoing border imperialism, 129–30
  use of surveillance techniques on immigrants, 116–20
@@ -4664,7 +4664,7 @@ military-industrial complex, 30, 49, 162
  seeing self as job creator, 150
 ## ```
 
-```
+
 weapons production offering high employment rates, 231–32
  US military spending in 2020, 144
  and valorization, 229–30
@@ -4703,7 +4703,7 @@ National Health Service, 247–48
 National Intelligence Program, 145
 ## ```
 
-```
+
 National Nuclear Security Administration, 101
 national security, 6, 156, 261, 263
  drug trade as threat to, 25
@@ -4743,7 +4743,7 @@ New Zealand, 185
 Nichols, Robert, 42
 ## ```
 
-```
+
 Nigerian police, 22
 1984 (Orwell), 69
 "no borders" politics, 130, 131, 263–64
@@ -4783,7 +4783,7 @@ and border imperialism, 203–206
 companies involved in production of missiles, 205
 ## ```
 
-```
+
 costs of, 166
 and deterrence, 8
 environmental impact of, 208
@@ -4822,7 +4822,7 @@ Open Observatory of Network Interference, 103
 Oppenheimer, J. Robert, 171
 ## ```
 
-```
+
 Organisation Démocratique de la Jeunesse, 238
 Ortiz, Isabel, 229
 Orwell, George and Orwellian narrative, 72, 162, 176
@@ -4861,7 +4861,7 @@ patriarchy, 3–4, 37, 58, 61, 62, 257, 269
  patriarchal surveillance, 81
 ## ```
 
-```
+
 and racism, 136, 163, 166, 264
  structural patriarchy, 154–57
  tools of patriarchy, 80
@@ -4901,7 +4901,7 @@ police and policing, 4, 7
  capitalists use of police, 234
 ## ```
 
-```
+
 failures of reform, 27–28
  international police violence, 21–23
  militarization of, 25–27, 31, 51
@@ -4941,7 +4941,7 @@ Poulson, Jack, 116
 poverty, 113, 130, 172, 206, 220, 229
 ## ```
 
-```
+
 Black poverty, 19
  as a cost of war, 150–51
  criminalizing of, 46, 143, 151, 220
@@ -4981,7 +4981,7 @@ prisons, 39–68
     letting go of idea that some people need to be caged, 66–68
 ## ```
 
-```
+
 thoughts about similar to abolishing the police system, 55–56
      and transformative justice, 35, 63–66, 258
  facilitating a culture of violence, 31
@@ -5021,7 +5021,7 @@ profiteers
  nuclear profiteers, 173–78
 ## ```
 
-```
+
 war profiteering, 30, 148, 165–66, 168, 217, 230, 233–34, 264
 Program on Science and Global Security (Princeton University), 184
 Project NIA, 33
@@ -5059,7 +5059,7 @@ racism, 2, 4
  machines having bias, 98–99
 ## ```
 
-```
+
 nuclear weapons policy and persistent racism, 186–88
  and patriarchy, 163
  and the Patriot Act, 6
@@ -5099,7 +5099,7 @@ failure of reforms, 30
  that strengthen the status quo rather than improve, 246
 ## ```
 
-```
+
 versus transformation, 10–12
 Refugee Convention, 126
 refugees. See migrants and migration
@@ -5138,7 +5138,7 @@ Rustin, Bayard, 186
 safe housing, need for to reduce violence, 36, 59, 193
 ## ```
 
-```
+
 safety, questions to ask about, 40–41, 56
  ways to increase community safety, 59
 Salgado, Erik, 24
@@ -5178,7 +5178,7 @@ Shaw, Ian G. R., 19, 25, 52, 53, 94, 98, 162
 Shepherd, Verene, 89
 ## ```
 
-```
+
 Shin Bet (Israeli intelligence agency), 90–91
 The Shock Doctrine: The Rise of Disaster Capitalism (Klein), 148, 227
 Shut Down Canada, 237
@@ -5218,7 +5218,7 @@ state violence, 3, 4, 14, 42, 94, 141, 164, 209
  organizing against, 260, 261
 ## ```
 
-```
+
 Stein, David, 2
 Stockholm International Peace Research Institute, 144, 230
 Stop LAPD Spying Coalition, 102
@@ -5258,7 +5258,7 @@ See also panopticon and surveillance; types of surveillance (i.e., biometric tec
  and surveillance, drones and surveillance, data mining and collection, etc.,)
 ## ```
 
-```
+
 Surveillance Technology Oversight Project (S. T. O. P.), 82–83, 102
 Survived and Punished, 33, 262
 survivors of violence, 35, 37, 53, 61–62
@@ -5296,7 +5296,7 @@ A Transformative Justice Handbook (generationFIVE). See Ending Child Sexual Abus
 Transnational Institute, 120, 121
 ## ```
 
-```
+
 Treaty on the Prohibition of Nuclear Weapons (TPNW). See United Nations Treaty on the
  Prohibition of Nuclear Weapons (TPNW)
 Trinity nuclear test blast, 171
@@ -5335,7 +5335,7 @@ United Nations General Assembly, 166, 211–12
 United Nations High Commissioner for Refugees (UNHCR), 127
 ## ```
 
-```
+
 United Nations Human Rights Council, 112, 186
 United Nations International Organization for Migration (IOM), 123, 127, 128, 152
 United Nations Secretary-General, 72–73, 148
@@ -5375,7 +5375,7 @@ US (United States)
 US Air Force, 90
 ## ```
 
-```
+
 US Campaign for Palestinian Rights (USCPR), 262
 US Customs and Border Protection (CPB), 26–27, 114, 115, 142, 158
  and SBI technology, 115–16
@@ -5414,7 +5414,7 @@ Viet Nam (Vietnam) War, 138
 Vigilant Love, 262
 ## ```
 
-```
+
 Vine, 83
 violence
  against Americans in US versus violence by US against other countries, 142
@@ -5454,7 +5454,7 @@ Vitale, Alex S., 24–25, 26, 28, 32
 
 Wackenhut Corrections Corporation. *See* geo group
 
-```
+
 Wajcman, Judy, 154–55
 Walia, Harsha, 5, 9, 41, 109, 112, 132, 161, 163–64
 Wang, Jackie, 49, 72, 87, 88
@@ -5494,7 +5494,7 @@ wars, 135–69
 Washington, John, 113, 124–25, 126, 132, 158
 ## ```
 
-```
+
 Waskow, Arthur, 58
 watchlisting, 103
 Water Protectors, 94, 159, 186
@@ -5534,7 +5534,7 @@ white supremacy, 6, 12, 14, 81, 108, 159, 160, 187, 267
  uprisings against, 34, 133
 ## ```
 
-```
+
 white supremacist culture, 31, 58
  white supremacist model of safety, 62
 Wi-Fi based surveillance, 86

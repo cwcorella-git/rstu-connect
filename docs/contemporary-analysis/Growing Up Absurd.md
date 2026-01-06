@@ -6,7 +6,7 @@
 
 ## **1960**
 
-```
+
 Preface
  1.
  2.
@@ -44,7 +44,7 @@ III. Class Structure
  3.
 ## ```
 
-```
+
 4.
  5.
  6.
@@ -100,7 +100,7 @@ IX. The Early Resigned
 
 1.
 
-```
+
 2.
  3.
  4.

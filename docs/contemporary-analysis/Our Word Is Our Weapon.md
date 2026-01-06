@@ -69,7 +69,7 @@ THE WOMEN: DUAL DREAM, DUAL NIGHTMARE, DUAL AWAKENING
 - 18 The Unjust Sentencing of Elorriaga and Entzin
 - 19 Opening Remarks at the First Intercontinental Encuentro for Humanity and
 
-```
+
 against Neoliberalism
  20 — Tomorrow Begins Today
      First

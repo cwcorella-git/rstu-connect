@@ -39,7 +39,7 @@ of the left and identifies why large-scale anarchist organi- sations are essenti
                  E-Mail: zababooks@zabalaza.net
                     Website: www.zabalaza.net
                                                                   Andrew Flood
-``` ![Figure from page 2](images/page_002_content/img-000.png)
+
      Beyond the Affinity Group M Page 36
                                                Beyond the
                                              Affinity Group

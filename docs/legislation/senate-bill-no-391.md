@@ -24,7 +24,7 @@ title: "senate-bill-no-391"
 
 ### Extracted Text
 
-```
+
      REQUIRES TWO-THIRDS MAJORITY VOTE (§ 2)                                                                    EXEMPT
                 (Reprinted with amendments adopted on April 21, 2025)
                                   FIRST REPRINT                   S.B. 391
@@ -88,7 +88,7 @@ title: "senate-bill-no-391"
 
 ### Extracted Text
 
-```
+
                                                –2–
 
 12   and any affiliates of such entities that purchase or own residential real property in
@@ -156,7 +156,7 @@ title: "senate-bill-no-391"
 
 ### Extracted Text
 
-```
+
                                       –3–
 
  1       (a) The intracorporate sale or transfer of units of residential
@@ -218,7 +218,7 @@ title: "senate-bill-no-391"
 
 ### Extracted Text
 
-```
+
                                        –4–
 
  1       2. The provisions of this section do not abrogate or limit the
@@ -280,7 +280,7 @@ title: "senate-bill-no-391"
 
 ### Extracted Text
 
-```
+
                                             –5–
 
  1       6. If a document including the same legal description described
@@ -342,7 +342,7 @@ title: "senate-bill-no-391"
 
 ### Extracted Text
 
-```
+
                                       –6–
 
  1       2. Any balance of the sums appropriated by subsection 1
@@ -382,7 +382,7 @@ title: "senate-bill-no-391"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -394,7 +394,7 @@ title: "senate-bill-no-391"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---

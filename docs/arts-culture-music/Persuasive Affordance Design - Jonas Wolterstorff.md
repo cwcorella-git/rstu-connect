@@ -2130,7 +2130,7 @@ A Smartphone Game as an instrument for behavioural change towards sustainable li
 | Community |
 ## | come friends, Social Capital, |
 
-```
+
 community
 ## ```
 
@@ -2651,7 +2651,7 @@ Mindful Meerkats - A Smartphone Game as an instrument for behavioural change tow
 
 ## TABLE 6: VIRTUAL AGENT TYPOLOGY - EXTENDED (BY AUTHOR)
 
-```
+
 Virtual Agent Typology
 (
 + = strong
@@ -3485,7 +3485,7 @@ ead om elo re
 
 ## Even do and
 
-```
+
 В
 ure
 such

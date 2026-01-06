@@ -26,7 +26,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                 https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
 
@@ -74,7 +74,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                     inhabitants. ||II, 3| But in order to proﬁt by the produce of the water they must have a
@@ -123,7 +123,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                 https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                These propositions of Smith are important, because, given equal costs of production and capital of
@@ -171,7 +171,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                 https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                     position, his larger fortune and greater credit and standing. But the ﬁrst by itself suﬀices to
@@ -219,7 +219,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                               https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                Food belongs to the products which always yield a rent.
@@ -267,7 +267,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                 https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                ||VIII, 3| [15] Let us now see how the landlord exploits everything from which society beneﬁts.
@@ -315,7 +315,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                   https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                     (4) “All those improvements in the productive powers of labour, which tend directly to
@@ -362,7 +362,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                  https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                ||XI, 3| (3) As the landlord can demand all the more rent from the tenant farmer the less wages the
@@ -410,7 +410,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                               https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                (4) Two important laws concerning this competition remain to be considered:
@@ -458,7 +458,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                     “After the discovery of the mines of Peru, the silver mines of Europe were, the greater part
@@ -506,7 +506,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                  https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                inevitable and desirable within the realm of private property, of the huckstering of private property
@@ -553,7 +553,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                 https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                capital, freed of all political tincture; that the relationship between proprietor and worker be reduced
@@ -600,7 +600,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                 https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                property in the soil altogether. The ﬁrst abolition of monopoly is always its generalization, the
@@ -647,7 +647,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                                 https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                the country on to the other side. It makes the majority of the people of the country industrial and
@@ -694,7 +694,7 @@ tags:
 
 ### Extracted Text
 
-``` Marx 1844: Rent of Land                                               https://www.marxists.org/archive/marx/works/1844/manuscripts/rent.htm
+
 
 
                downfall, just as industry both in the form of monopoly and in that of competition had to ruin itself so

@@ -3364,7 +3364,7 @@ This time we make love.
 
 My phone rings. I pick it up to see who it is and I'm a little taken aback. It's the first time Ryle has ever called me. We always just text. How odd to have a boyfriend for over three months that I've never once spoken to on the phone.
 
-```
+
 "Hello?"
 ## ```
 
@@ -4720,7 +4720,7 @@ I don't know if it's the impending delivery or the fact that she's not currently
 
 When I step off the elevator, there's a note taped to her apartment door. I see my name written across it, so I pull it off the door.
 
-```
+
 Lily,
  On the seventh floor. Apartment 749.
  —A
@@ -5402,7 +5402,7 @@ I think of all the people who have been in this situation before me. Everyone wh
 
 Maybe those vows weren't meant to be taken as literally as some spouses take them.
 
-```
+
 For better, for worse?
 Fuck.
 That.

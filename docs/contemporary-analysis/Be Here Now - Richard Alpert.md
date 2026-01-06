@@ -532,13 +532,13 @@ And he said, "Take them away and give them food." So we were taken and given foo
 
 "Yes." ('Wow,' I thought, 'that's pretty good. I never mentioned that to anybody'.)
 
-```
+
 "She died last year."
 ## ```
 
 "She got very big in the stomach before she died."
 
-```
+
 ... Pause ... "Yes."
 ## ```
 

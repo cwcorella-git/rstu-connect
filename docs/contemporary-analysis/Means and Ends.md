@@ -3549,7 +3549,7 @@ Anarchism, 121–26; Ravindranathan, Bakunin and the Italians, 225–29.
 
 [\[862\]](#page-135-5) Malatesta, At the Café: Conversations on Anarchism (London: Freedom Press, 2005), 82–
 
-```
+
 83.
  [863] Kropotkin, Direct Struggle, 344. See also 315–33.
  [864] Malatesta, Method of Freedom, 179.

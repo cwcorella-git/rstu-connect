@@ -890,7 +890,7 @@ Because justice was supposed to be its principle.
 
 Possession alone produced all that.
 
-```
+
 "Eternal principle, — "
 ## ```
 
@@ -916,13 +916,13 @@ Under the regime of property, labor is not a condition, but a privilege.
 
 What is justice without equality of fortunes? A balance with false weights.
 
-```
+
 "All morality, — "
 ## ```
 
 ## A famished stomach knows no morality, —
 
-```
+
 "All public order, — "
 ## ```
 

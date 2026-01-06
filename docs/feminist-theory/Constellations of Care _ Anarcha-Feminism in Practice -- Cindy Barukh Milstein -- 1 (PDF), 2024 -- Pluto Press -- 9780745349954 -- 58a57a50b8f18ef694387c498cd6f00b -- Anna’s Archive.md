@@ -1144,7 +1144,7 @@ Es ese momento, en el cual nos cuestionamos acerca de todo aquello que no nos pe
 
 Es ese momento, en el que descubrimos nuestra capacidad
 
-```
+
 de acción, de transformación y de Resistencia,
 Es ese momento,
 ## ```

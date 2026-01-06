@@ -52,7 +52,7 @@ title: "Inside the DNC’s money problems - POLITICO"
 
 ### Extracted Text
 
-```
+
 Inside the DNC’s money problems - POLITICO                            https://www.politico.com/news/2025/08/18/dnc-fundrais...
 
 
@@ -96,7 +96,7 @@ Inside the DNC’s money problems - POLITICO                            https://
 
 ### Extracted Text
 
-```
+
 Inside the DNC’s money problems - POLITICO                  https://www.politico.com/news/2025/08/18/dnc-fundrais...
 
 
@@ -150,7 +150,7 @@ Inside the DNC’s money problems - POLITICO                  https://www.politi
 
 ### Extracted Text
 
-```
+
 Inside the DNC’s money problems - POLITICO                   https://www.politico.com/news/2025/08/18/dnc-fundrais...
 
 
@@ -210,7 +210,7 @@ Inside the DNC’s money problems - POLITICO                   https://www.polit
 
 ### Extracted Text
 
-```
+
 Inside the DNC’s money problems - POLITICO                         https://www.politico.com/news/2025/08/18/dnc-fundrais...
 
 
@@ -258,7 +258,7 @@ Inside the DNC’s money problems - POLITICO                         https://www
 
 ### Extracted Text
 
-```
+
 Inside the DNC’s money problems - POLITICO                    https://www.politico.com/news/2025/08/18/dnc-fundrais...
 
 
@@ -318,7 +318,7 @@ Inside the DNC’s money problems - POLITICO                    https://www.poli
 
 ### Extracted Text
 
-```
+
 Inside the DNC’s money problems - POLITICO                                                https://www.politico.com/news/2025/08/18/dnc-fundrais...
 
 
@@ -383,7 +383,7 @@ Inside the DNC’s money problems - POLITICO                                    
 
 ### Extracted Text
 
-```
+
 Inside the DNC’s money problems - POLITICO                  https://www.politico.com/news/2025/08/18/dnc-fundrais...
 
 

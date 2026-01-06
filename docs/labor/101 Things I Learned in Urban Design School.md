@@ -1164,7 +1164,7 @@ An urban designer, in some ways, has to be an egotist. The confidence, convictio
 
 #### Index
 
-```
+
 anchors, pedestrian, 34
 BANANA, 74
 blocks
@@ -1203,7 +1203,7 @@ The Death and Life of Great American Cities, 29
 Defensible Space, 24
 ## ```
 
-```
+
 density, 6, 24, 99
 design process, 39, 40, 49, 50, 70, 76, 79, 80, 81, 82, 83, 84, 85, 86, 88,
  89, 90, 91, 92, 93, 94
@@ -1241,7 +1241,7 @@ Milwaukee (Wisconsin) Art Museum, 13
 mixed uses, 6
 ## ```
 
-```
+
 motor vehicles
  parking, 18, 34, 36, 37, 67, 71, 99
  speed regulation, 71
@@ -1283,7 +1283,7 @@ site
  conceptual organization, 41, 56, 83, 85, 86
 ## ```
 
-```
+
 coverage, 5, 24
     movement through, 87
     slope, 41
@@ -1329,7 +1329,7 @@ suburb(an)
     sprawl, 6
 ## ```
 
-```
+
 street, 14
 town, 6
 town house, 19

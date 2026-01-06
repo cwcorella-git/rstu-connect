@@ -1280,7 +1280,7 @@ The amphibious Metal Gear RAY (boss battle – Aircraft Carrier Chapter[21])
 
 # The evil
 
-```
+
 Evil Patriots > Solidus > 
 Ocelot > The Terrorists Good
 ## ```

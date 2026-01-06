@@ -17,7 +17,7 @@ tags:
 Ferguson Police Department United States Department of Justice
        Civil Rights Division
            March 4, 2015
-```
+
                                                 TABLE OF CONTENTS
 I. REPORT SUMMARY ........................................................................................................ 1 II. BACKGROUND.................................................................................................................. 6 III. FERGUSON LAW ENFORCEMENT EFFORTS ARE FOCUSED ON
      GENERATING REVENUE ............................................................................................... 9

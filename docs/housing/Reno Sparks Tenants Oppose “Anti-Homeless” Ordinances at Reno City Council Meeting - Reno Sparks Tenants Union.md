@@ -35,7 +35,7 @@ title: "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City C
 
 ### Extracted Text
 
-```
+
 Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
 
 
@@ -96,7 +96,7 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 ### Extracted Text
 
-```
+
 Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
 
 
@@ -185,7 +185,7 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 ### Extracted Text
 
-```
+
 Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
 
 
@@ -260,7 +260,7 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 ### Extracted Text
 
-```
+
 Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
 
 
@@ -281,7 +281,7 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 ### Extracted Text
 
-```
+
 Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
 
 

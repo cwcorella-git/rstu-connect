@@ -28,7 +28,7 @@ title: "PDF.js viewer"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -47,7 +47,7 @@ title: "PDF.js viewer"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -66,7 +66,7 @@ title: "PDF.js viewer"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -85,7 +85,7 @@ title: "PDF.js viewer"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -104,7 +104,7 @@ title: "PDF.js viewer"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -123,7 +123,7 @@ title: "PDF.js viewer"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -142,7 +142,7 @@ title: "PDF.js viewer"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---
@@ -161,7 +161,7 @@ title: "PDF.js viewer"
 
 ### Extracted Text
 
-```
+
 ```
 
 ---

@@ -24,7 +24,7 @@ title: "Quotes - Google Docs"
 
 ### Extracted Text
 
-```
+
 General notes
 From   Educational Material Planning 06-20-25
 
@@ -65,7 +65,7 @@ Abolish Rent
 
 ### Extracted Text
 
-```
+
 Sylvia Rivera quotes
    ● “Marsha and I fought a lot for the liberation of our people. We did a lot
      back then. Marsha and I had a building on Second Street, which is called
@@ -107,7 +107,7 @@ build and make decent housing for the people.
 
 ### Extracted Text
 
-```
+
 10 point plan program, 50 years later
 In 1966, Newton stated in a speech: “It’s a simple human need, to have a roof
 over your head when the hard rain fall.” Newton’s lawyer, Paul Harris, attended the
@@ -153,7 +153,7 @@ medical care, free education, free media, EVERYTHING FREE FOR EVERYBODY!
 
 ### Extracted Text
 
-```
+
 ```
 
 ---

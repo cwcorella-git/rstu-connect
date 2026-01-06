@@ -1635,7 +1635,7 @@ A note about the index: e pages referenced in this index refer to the page numbe
 
 #### **A**
 
-```
+
 adulting, 75–77, 79–82
 Alexander the Great, 112, 195
 anti-Christian bias, 15, 22, 28, 50, 102, 130, 134
@@ -1652,7 +1652,7 @@ Augustine, Saint, 4, 16, 173
 
 #### **B**
 
-```
+
 Bacon, Francis, 119–22, 152, 192
 Baconian philosophy, 121–22, 149, 181, 184, 196n5
 Biden, Joseph, 47, 50
@@ -1666,7 +1666,7 @@ Bray, Mark, 203
 Butler, Judith, 31–32
 ## ```
 
-```
+
 C
 cancel culture, 139, 206
 Chinese Communist Party (CCP), 66–67, 71
@@ -1689,7 +1689,7 @@ discrimination, 22, 24–25, 27, 82, 128, 133
 
 #### **E**
 
-```
+
 education reform, 52–53
 empiricism, 120, 122
 Enlightenment, 93–94, 114, 119–22
@@ -1704,7 +1704,7 @@ dystopianism, 97, 99–100
 
 #### **F**
 
-```
+
 family, 4, 27, 29–31, 41, 70, 73–75, 78, 80, 180
 Fauci, Anthony, 52, 60
 Federalist Papers, 93
@@ -1715,13 +1715,13 @@ freedom, x, 19, 29, 51, 93, 100, 102, 109, 177
 free will, 7, 93–94, 122
 ## ```
 
-```
+
 French Revolution, 114
 ## ```
 
 #### **G**
 
-```
+
 Garrow, David, 135–36
 gender, 10, 27–36, 40, 46, 53, 78, 80, 86, 128, 131, 140–41, 143–44
 Generation Z, 29, 80
@@ -1731,7 +1731,7 @@ Greek philosophy, 116–19, 181
 
 #### **H**
 
-```
+
 Heraclitus, 116, 118, 122
 home economics, 78–80, 84
 Hume, David, 7, 199
@@ -1739,7 +1739,7 @@ Hume, David, 7, 199
 
 ## **I**
 
-```
+
 imperialism, 24
 inclusion, 26, 48, 57
 intersectionality, 22–23, 27–28, 48, 54, 57, 62, 124, 129–30, 135, 202
@@ -1754,14 +1754,14 @@ Jefferson, omas, 24, 135–36
 
 #### **K**
 
-```
+
 Kendi, Ibram X., 26
 King Jr., Martin Luther, 5, 25, 27, 135
 ## ```
 
 ## **L**
 
-```
+
 Le, 8–10, 45–46, 128, 135, 137, 201–2, 204
 le-wing university bias, 37–38, 136
 Lemaître, Georges, 62–63, 65
@@ -1772,7 +1772,7 @@ liberal arts education, x, 41, 57, 102, 108, 112, 147, 154, 161, 163, 165–66, 
 
 #### **M**
 
-```
+
 marriage, 27, 30, 74–75, 78, 81, 86–88, 97
 Marx, Karl, 64, 92, 96, 123,
 Marxism, 1, 10–11, 21–22, 26, 29, 35–36, 38, 41, 56–57, 61–62, 65–68, 71, 81, 92, 95–97,
@@ -1793,7 +1793,7 @@ National Socialists (Nazis), 29, 123 natural law, 12, 29, 93–94, 137, 147 neo-
 
 #### **O**
 
-```
+
 Obama, Barack, 50, 200
 obesity, 96, 205
 Oxford, University of, 9, 11, 98, 100, 151, 176, 201
@@ -1801,7 +1801,7 @@ Oxford, University of, 9, 11, 98, 100, 151, 176, 201
 
 #### **P**
 
-```
+
 pandemic, 11, 60, 83, 97, 100, 108. See also COVID-19
 Parmenides, 116, 118
 Peterson, Jordan, 142, 202
@@ -1812,7 +1812,7 @@ progressive ideology, 10, 35, 38, 86–87, 101, 114, 123, 138, 143
 pronouns, 11, 33, 55, 97, 131
 ## ```
 
-```
+
 Protestants, 7, 93–94, 120, 122, 151, 153–54, 160, 163–65
 ## ```
 
@@ -1822,7 +1822,7 @@ quantum mechanics, 62–63, 67–68
 
 #### **R**
 
-```
+
 race, 22, 24–26, 36, 52, 95, 131, 137, 145, 173, 202, 204–5
 racism, 8, 10, 24, 26–27, 36, 40, 47, 50, 54–55, 133, 137, 139–40. See also anti-racism
 rationalism, 122
@@ -1836,7 +1836,7 @@ Russell, Bertrand, 7, 199
 
 ## **S**
 
-```
+
 safe spaces, ix, 1, 23, 27, 73
 Scholasticism, 115
 scientific method, 111
@@ -1856,14 +1856,14 @@ systemic racism. See racism
 
 #### **T**
 
-```
+
 theology, 11, 18, 63–64, 119, 122, 164, 167, 173, 183, 192
 omism, 92, 95–97, 114–15, 119–20
 transgenderism, 9, 28, 30–34, 98, 131, 143–44, 202
 transhumanism, 97–102, 122
 ## ```
 
-```
+
 Trump, Donald, 9, 142, 201
 Twitter, 11, 141, 203
 ## ```
@@ -1874,7 +1874,7 @@ utopianism, 99
 
 ## **W**
 
-```
+
 Warren, Elizabeth, 47, 81
 West Point, 6–7, 199
 Western civilization, 13–14, 36–37, 51, 93, 108, 114, 139–40, 145, 204
