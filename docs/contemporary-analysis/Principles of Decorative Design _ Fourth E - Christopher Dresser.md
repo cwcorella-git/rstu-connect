@@ -1996,8 +1996,7 @@ In taking leave of my reader, let me say that if I personally can aid him in any
 
 
 FOOTNOTES:
-## ```
-
+## 
 [\[29\]](#page-252-1) See chapters on glass and earthenware.
 
 #### INDEX.
@@ -2052,8 +2051,7 @@ Chair-coverings, 72.
 Chairs, Construction of, 52-57.
 Character of the Designer shown by his Work, 163.
 Chinese Enamels, 143.
-## ```
-
+## 
 
 Chinese Harmony of Colour, 48.
 Chinese Ornament, 11.
@@ -2074,8 +2072,7 @@ Colour-top, the, 48, and note.
 Copper Vessels Inlaid with Silver, 142.
 Cornices, Colouring of, 93.
 Couches, 57, et seq.
-## ```
-
+## 
 Curtain Materials, 107, et seq.
 
 Curves, most Beautiful when most Subtle, 23.
@@ -2121,8 +2118,7 @@ Truthful Construction of, 59, 65, et seq. ; Proportion and Enrichment of, 61,
 
 Glass, as a Material for Art-purposes, 118, 127, et seq. ; Vessels, Various,
 130, et seq. ; Vessels, Coloured, 131, 132;
-## ```
-
+## 
 ## Cutting of, 132;
 
 Engraving of, 133; Ornamentation of, 133;
@@ -2159,8 +2155,7 @@ Historical Inquiry Necessary to the Understanding of Decoration,
 
 
 4.
-## ```
-
+## 
 ## Humour in Ornament, 24-29;
 
 Chinese and Japanese, 25, 27, 28.
@@ -2197,8 +2192,7 @@ Japan, Deterioration in the Art-works of, 161.
 
 
 Japanese Art, 11.
-## ```
-
+## 
 ## Japanese Colouring, 48.
 
 ## Japanese Earthenware, 120.
@@ -2288,12 +2282,10 @@ Study of Art-decoration, how it should be carried on, 14, 160, 161,
 162.
 Styles of Architecture, 73.
 Sugar-basin, its Form, 138.
-## ```
-
+## 
 
 Surface Decoration, 73, et seq.
-## ```
-
+## 
 ## Symbols in Christian Art, 12.
 
 Table-covers, The Borders of, 109, 111.

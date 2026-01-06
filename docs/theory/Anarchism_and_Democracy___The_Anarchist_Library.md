@@ -37,7 +37,7 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                Modern anarchists often describe anarchism as democracy
                without the state. Lorenzo Kom’boa Ervin argued in 1993 that
                “there is no democracy or freedom under government —
-1 of 28 3/17/25, 5:10 PM ``` Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 28 3/17/25, 5:10 PM  Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                whether in the United States, China or Russia. Anarchists
                believe in direct democracy by the people as the only kind of
                freedom and self-rule” (Ervin 1993. Also see Milstein 2010, 97–
@@ -830,8 +830,7 @@ This document was converted from **01_Political_Theory/Articles/Anarchism and De
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Anarchism_and_Democracy___The_Anarchist_Library/01_Political_Theory_Articles_Anarchism_and_Democracy___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Anarchism_and_Democracy___The_Anarchist_Library/01_Political_Theory_Articles_Anarchism_and_Democracy___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

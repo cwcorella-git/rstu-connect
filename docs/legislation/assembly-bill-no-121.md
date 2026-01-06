@@ -77,8 +77,7 @@ the Department is hospitalized for or diagnosed with a critical medical conditio
 
 
    -                                                           82nd Session (2023)
-```
-
+
 ---
 
 ## Page 2
@@ -144,8 +143,7 @@ regulation pursuant to subsection 2, the Director shall submit the
 
 
    -                                                                                  82nd Session (2023)
-```
-
+
 ---
 
 ## Page 3
@@ -205,8 +203,7 @@ in NRS 453C.150.
 
 
    -                                               82nd Session (2023)
-```
-
+
 ---
 
 ## Page 4
@@ -266,8 +263,7 @@ limitation, a drug or alcohol overdose.
 
 
    -                                               82nd Session (2023)
-```
-
+
 ---
 
 ## Page 5
@@ -301,8 +297,7 @@ are inconsistent with the provisions of sections 2, 3 and 4 of this act.
 
 
    -                                                82nd Session (2023)
-```
-
+
 ---
 
 ## Page 6
@@ -313,8 +308,7 @@ are inconsistent with the provisions of sections 2, 3 and 4 of this act.
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 7
@@ -325,8 +319,7 @@ are inconsistent with the provisions of sections 2, 3 and 4 of this act.
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 8
@@ -337,7 +330,6 @@ are inconsistent with the provisions of sections 2, 3 and 4 of this act.
 ### Extracted Text
 
 
-```
-
+
 ---
 

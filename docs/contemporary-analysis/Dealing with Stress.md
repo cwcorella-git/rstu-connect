@@ -57,8 +57,7 @@ Sorting.
 0:52
 Uploading.
 0:53
-## ```
-
+## 
 
 Filing.
 0:54
@@ -119,8 +118,7 @@ I wasn't quite at my mental limit.
 2:10
 MY stress threshold.
 2:11
-## ```
-
+## 
 
 But I was close.
 2:13
@@ -181,8 +179,7 @@ expectations, grief,
 3:49
 guilt, chronic illness, trauma, loneliness, and low self-esteem.
 3:53
-## ```
-
+## 
 
 Life stress, like loss of a loved one, marriage, breakups, divorce, social drift, 
 social obligations,
@@ -243,8 +240,7 @@ It's almost as though we're held in captivity, psychologically dominated by
 unpredictable,
 5:48
 wildly varying abuse and hierarchical power structures that capitalism engenders.
-## ```
-
+## 
 
 5:53
 And as psychologist Judith Herman noted, "The ultimate effect of psychological 
@@ -304,8 +300,7 @@ by undermining and isolating those who try to bully and dominate others.
 Egalitarian societies respond to power and status by trying to mitigate its 
 effects,
 7:13
-## ```
-
+## 
 while capitalism propagates exploitation and traumatic stress in ways that promote
 
 
@@ -368,8 +363,7 @@ It's the natural course of the universe, and everything it encapsulates.
 8:33
 Nature follows the Dao with ease, but we have willpower.
 8:36
-## ```
-
+## 
 
 We can choose to go against it.
 8:39
@@ -430,8 +424,7 @@ safe home environment, or affordable mental care.
 Even among the fortunate, therapy is often focused on "fixing" the individual to
 10:07
 adjust to a sick society, using medication if necessary.
-## ```
-
+## 
 
 10:12
 That's not enough.
@@ -492,8 +485,7 @@ The invasion, occupation, and destruction of our very being.
 We need to heal ourselves.
 11:42
 Conversely, obsessing over only the welfare of the self is an equally awful
-## ```
-
+## 
 
 pitfall.
 11:50
@@ -519,4 +511,4 @@ the whole, which exists in each
 of us.
 12:37
 Peace.
-## ```
+## 

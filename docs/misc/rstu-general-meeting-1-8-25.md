@@ -39,7 +39,6 @@ title: "rstu-general-meeting-1-8-25"
                ■ Long term
                ■ Short term
         ○ Steps needed to achieve goals
-```
-
+
 ---
 

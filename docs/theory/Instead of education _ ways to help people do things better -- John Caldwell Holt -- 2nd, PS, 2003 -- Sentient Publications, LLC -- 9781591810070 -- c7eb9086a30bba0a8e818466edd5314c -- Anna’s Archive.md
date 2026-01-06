@@ -1084,14 +1084,12 @@ Over each group of four switches in the shock generator were written these words
 105 volts Ugh! (louder)
 120 volts Ugh! Hey, this really hurts.
 135 volts Ugh! '
-## ```
-
+## 
 150 volts Ugh!! Experimenter! That's all. Get me out of here. 1 told you I had heart trouble. My heart's starting to bother me now. Get me out of here, please. My heart's starting to bother me. I refuse to go on. Let me out.
 
 
 165 volts Ugh! Let me out! (shouting)
-## ```
-
+## 
 180 volts Ugh! I can't stand the pain. Let me out of here! (shouting)
 
 195 volts Ugh! Let me out of here. Let me out of here. My heart's bothering me. Let me out of here! You have no right to keep me here! Let me out! Let me out of here! Let me out! Let me out of here! My heart's bothering me, let me out! Let me out!
@@ -1101,8 +1099,7 @@ Over each group of four switches in the shock generator were written these words
 
 225 volts Ugh!
 240 volts Ugh!.
-## ```
-
+## 
 255 volts Ugh! Get meow? of here.
 
 270 volts (Agonized scream) Let me out of-here. Let me out of here. Let me out. Do you hear? Let me out of here.

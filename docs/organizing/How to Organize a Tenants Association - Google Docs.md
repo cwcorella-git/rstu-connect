@@ -56,8 +56,7 @@ Finished zine:     RSTU_HowToOrganizeATenantsAssociation_Zine.pdf
                 resources!)                                                                                             buildings or have different landlords.
                                                                                  Fight gentrification and influence
                                                                                      community development
-```
-
+
 ---
 
 ## Page 2
@@ -106,8 +105,7 @@ This is not in the correct order — just to figure out rough draft text info
 Suggested text size: 10 pt minimum; can increase if possible (depending on how info dense ea. page is) but always good to leave room for
 images
 Notes:
-```
-
+
 ---
 
 ## Page 3
@@ -128,7 +126,6 @@ Notes:
 ### Extracted Text
 
 
-```
-
+
 ---
 

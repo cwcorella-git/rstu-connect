@@ -57,8 +57,7 @@ which I would define as a tapestry of people characterized by shared values like
 anti-oppression;
 1:37
 flexibility and adaptability; mutuality; and an ethic of social justice.
-## ```
-
+## 
 1:42 The first level, above local, of course, is Regional Networks 1:47 How you define your region may vary, from a bioregion to an administrative region to 1:54 a traditional region. 1:55 Regardless, your home region communication should be your most regular form of nonlocal 2:01 communication. 2:02 Regional networking, like all political networking, should follow the basic principles of security 2:07 culture in order to minimize the risk of damaging leaks or subversion. 2:12 But you can still get together regularly to share upcoming events, take part in shared 2:15 reading groups, discuss regional issues, go on field trips to gather intel, strategize 2:21 to combine efforts, and socialize, as regular people, to build bonds. 2:26 If your region is a bioregion, you can coordinate your ecological restoration efforts and share 2:31 notes. 2:32 When protests explode or natural disasters impact the region, these networks should be 2:36 there to kick into gear and support. 2:39 One step above regional networks are Continental and Archipelagic Networks 2:45 This level of organizing facilitates and connects inter-regional communications in a broader 2:49 archipelagic or continental context. 2:52 The various organizations in a region can select a delegate or group of delegates to 2:57 communicate for the region in continental or archipelagic communication, providing fast 3:02 and effective communication across the various groups to facilitate broader movements without 3:07 reliance on word-of-mouth, algorithms, or news releases. 3:11 If a certain region is facing unrest, instability, repression, or catastrophe, these networks 3:18
 
 should be in place to call for material aid, advice, or reinforcement, or even announce
@@ -215,8 +214,7 @@ set off a domino effect to even more connections and a true network.
 6:43
 Do be careful though and keep potentially un-legal activity discussion off of 
 insecure
-## ```
-
+## 
 
 6:49
 platforms.
@@ -277,8 +275,7 @@ Drop the paternalism and stay respectful fam.
 8:17
 Fair critique is fair, make your stance clear, work through if you can, and if you 
 can't,
-## ```
-
+## 
 
 8:22
 steer clear.
@@ -339,8 +336,7 @@ if
 9:21
 you won't make an effort to learn theirs.
 9:23
-## ```
-
+## 
 Learning a language is hard, I've been tryna learn Spanish for years now, but it needs 9:28 to be done to network internationally, or even regionally. 9:32 I live in the Americas, I have to learn Spanish. 9:36 Get together with some friends and practice. 9:38 Or practice alone with radical literature. 9:41 One of the most important efforts of 20th century radicals was translation. 9:46 The original bread book was written in French. 9:48 The Communist Manifesto was written in German. 9:50 Anarchy was written in Italian. 9:53 These days, we can read all these books in all sorts of different languages. 9:59 But the work isn't over yet. 10:00 We have to continue the project of intellectual cross pollination. 10:04 Even a poorly translated text is better than no translation at all. 10:07 And thanks to today's tech, we can easily plug texts into translation programmes and 10:12 make the necessary corrections afterwards. 10:14 Look at folks like Meo Mun and Anarchist Federation in South Korea who are finally translating 10:19 essential anarchist texts, and contributing to the canon, in Vietnamese and Korean respectively. 10:25 I also know of folks translating into Tagalog, Bahasa, and Thai. 10:29 I haven't seen any texts in Arabic or Swahili yet, or really any of the Niger-Congo languages 10:34 like Yoruba or Zulu. 10:36 It's clear that a lot of work still needs to be done. 10:39 And if you have the language down, make sure you know how to converse and connect with 10:43 people. 10:44 If you want your solidarity to have any real depth and meaning, get to know people for 10:49 who they are, beyond their politics. 10:51 Don't be afraid to have fun. 10:54
 
 
@@ -402,8 +398,7 @@ Brant, Brandon Barney, Moomooshin, and Suavacado Jones.
 12:22
 You can join these beautiful humans and support me too on Patreon.com/saintdrew.
 12:26
-## ```
-
+## 
 Please like, comment, subscribe, and share with your fellow peoples.
 
 ## 12:30

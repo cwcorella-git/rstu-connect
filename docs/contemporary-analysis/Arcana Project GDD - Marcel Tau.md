@@ -799,8 +799,7 @@ anim = Get Component<ex Sprite Animation>();
 //Ref to the raycast object taken from the Main Camera
 ray Cast =
 Game Object. Find Game Object With Tag("Main Camera"). Get Component<Ray Cast Script>();
-## ```
-
+## 
 
 //Makes a reference to the boss
 apolluon = Game Object. Find("Apolluon"). Get Component<Apolluon>();
@@ -846,8 +845,7 @@ Start ()
 player = Game Object. Find Game Object With Tag("Player"). Get Component<Player>();
 //Gets the Game Manager scrit on the Game Manager Oject
 gm = Game Object. Find("Game Manager"). Get Component<Game Manager>();
-## ```
-
+## 
 
 //Gets the ex Sprite Animation component
 anim = Get Component<ex Sprite Animation>();
@@ -895,8 +893,7 @@ amount ToMove = enemy Speed * Time.delta Time;
 amount ToFollow = mimic Speed * Time.delta Time;
 if (in Action)
 {
-## ```
-
+## 
 
 //Makes the enemy follow the player
 Follow Player();
@@ -914,8 +911,7 @@ Follow Background();
 Despawn();
 }
 }
-## ```
-
+## 
 ## Game Object Data
 
 ## Artificial Intelligence
@@ -935,8 +931,7 @@ Save health
 Player Prefs. Set Int("Kade Health", health Points);
 Store health
 health Points = Player Prefs. Get Int("Kade Health", 3);
-## ```
-
+## 
 Here is a flowchart of the enemy AI to explain how it works. If the player runs through a trigger the trigger will ask the game manager for an enemy. If there is an enemy that fulfills the triggers request the enemy will spawn. The enemy will then run through the cycle seen below until it's killed.
 
 ## ![](_page_31_Figure_0.jpeg)

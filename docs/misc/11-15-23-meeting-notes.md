@@ -67,8 +67,7 @@ Canvassing
 Goal 1: People’s Initiative
 
     ●   Adrian brought up apartments on border between midtown and South Reno
-```
-
+
 ---
 
 ## Page 2
@@ -124,7 +123,6 @@ Next Meeting
     ●   Discuss dues, possibility of getting a bank account or having an official non‐profit help us.
     ●   Discuss bylaws.
     ●   Discuss communication plan and how to share the work
-```
-
+
 ---
 

@@ -430,8 +430,7 @@ The crisis of representation
 6. 
 Barthes, Foucault & Lyotard 
 7.
-## ```
-
+## 
 ## *Deleuze, Guattari & Baudrillard*
 
 Madonna, "Are We Having Fun Yet?", supermarket tabloids, Milli Vanilli, virtual reality, "shop 'till you drop," Pee Wee's Big Adventure, New Age/computer 'empowerment', mega-malls, Talking Heads, comic-strip movies, 'green' consumption. A build-up of the resolutely superficial and cynical. Toyota commercial: "New values: saving, caring—all that stuff;" Details magazine: "Style Matters;" "Why Ask Why? Try Bud Dry;" watching television endlessly while mocking it. Incoherence, fragmentation, relativism—up to and including the dismantling of the very notion of meaning (because the record of rationality has been so poor?); embrace of the marginal, while ignoring how easily margins are made fashionable. "The death of the subject" and "the crisis of representation."

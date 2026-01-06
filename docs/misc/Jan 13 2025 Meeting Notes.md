@@ -61,8 +61,7 @@ scheduled to provide more opportunities for the public to participate.
       February 4th at 5:30 pm - Ward 3 NAB
       February 10th at 5:30 pm - Ward 1 NAB
       February 18th at 5:30 pm - Ward 2 NAB
-```
-
+
 ---
 
 ## Page 2
@@ -86,7 +85,6 @@ In our meeting we discussed possibly providing a summery of the new ADU regs and
 putting out Strong Towns recommended suggested improvements to the proposed
 ordinance. Please review the draft Ordinance, make comments and look for more
 information to follow.
-```
-
+
 ---
 

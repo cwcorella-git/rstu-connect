@@ -72,8 +72,7 @@ iormació idicada a cotiuació para comuicarse co la 
                                                                                   medida adversa contra usted,
    los compañeros de trabajo o una         ha afiliado o apoya a la unión.
    unión.
-```
-
+
 ---
 
 ## Page 2
@@ -154,7 +153,6 @@ iormació idicada a cotiuació para comuicarse co la 
 
 
 Ese es un aviso oicia de gobierno y no debe ser muiado por nadie.                                                                Feca de revisión écnica: 05/02/22
-```
-
+
 ---
 

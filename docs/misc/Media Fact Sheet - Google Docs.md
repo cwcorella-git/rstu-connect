@@ -62,8 +62,7 @@ title: "Media Fact Sheet - Google Docs"
                  ● By 2020 proposals for 2,038 housing units had been proposed but
                      only one project proposed was for affordable housing
            ■ 2038 approved, only one unit for affordable housing
-```
-
+
 ---
 
 ## Page 2
@@ -89,7 +88,6 @@ title: "Media Fact Sheet - Google Docs"
      ○ Pasadena Tenants Union passed Rent Control
      ○ LA Mariachi Rent Strike ‐ tenants received 80% increase in rent, rent strike went
          on for months for and landlord agreed to lower increased amount
-```
-
+
 ---
 

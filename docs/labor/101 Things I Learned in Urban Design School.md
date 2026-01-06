@@ -1201,8 +1201,7 @@ context
 crime, 22, 24
 The Death and Life of Great American Cities, 29
 Defensible Space, 24
-## ```
-
+## 
 
 density, 6, 24, 99
 design process, 39, 40, 49, 50, 70, 76, 79, 80, 81, 82, 83, 84, 85, 86, 88,
@@ -1239,8 +1238,7 @@ mass transit, 38
 Midtown Scholar Bookstore (Harrisburg, PA), 33
 Milwaukee (Wisconsin) Art Museum, 13
 mixed uses, 6
-## ```
-
+## 
 
 motor vehicles
  parking, 18, 34, 36, 37, 67, 71, 99
@@ -1281,8 +1279,7 @@ sidewalks, 46
 sight lines, 52, 83
 site
  conceptual organization, 41, 56, 83, 85, 86
-## ```
-
+## 
 
 coverage, 5, 24
     movement through, 87
@@ -1327,8 +1324,7 @@ suburb(an)
     shopping mall, 15, 34
     social order, 98
     sprawl, 6
-## ```
-
+## 
 
 street, 14
 town, 6
@@ -1358,8 +1354,7 @@ walkability, 13
 Ward, William Arthur, 82
 wayfinding, 54, 55, 65
 wicked problem, 91
-## ```
-
+## 
 Matthew Frederick is an architect, urban designer, instructor of design and writing, the author of the bestselling 101 Things I Learned in Architecture School, and the creator of the acclaimed 101 Things I Learned series. He lives in New York's Hudson Valley.
 
 Vikas Mehta, Ph. D., is the Ohio Eminent Scholar of Urban/Environmental Design and Associate Professor of Urbanism at the University of Cincinnati. He is the author of Public Space (Routledge, 2015) and The Street: A Quintessential Social Public Space (Routledge, 2013), which received the 2014 Book Award from the Environmental Design Research Association.

@@ -2303,8 +2303,7 @@ From the strictly economic point of view, Speenhamland can not truly be said to 
  20 years J. Boys, p. 86. 
 30-40 years William Pitt. 
  50 years Rev. J. Howlett.
-## ```
-
+## 
 No one set the period at two years, the term of the French War, which had started in February 1793. In effect, no correspondent as much as mentioned the war.
 
 Incidentally, the usual way of dealing with the increase in pauperism caused by a bad harvest and adverse weather conditions resulting in unemployment con*Notes on Sources [ 289 ]* 

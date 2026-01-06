@@ -816,8 +816,7 @@ Always Pleasant Amenity Hotel, Inc.
 EAT & CO., Ltd.
 Irios, Inc.
 Ishimuramanseido Co., Ltd.
-## ```
-
+## 
 Yakuza 5 credit roll lasts over 10 minutes and there's no way to skip.
 
 # 95. Consider Using Action Icons

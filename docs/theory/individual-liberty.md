@@ -77,8 +77,7 @@ tags:
 
 
 
-1 of 194                                                                                               10/23/25, 1:37 PM ```
-
+1 of 194                                                                                               10/23/25, 1:37 PM 
 ---
 
 ## Page 2
@@ -142,8 +141,7 @@ tags:
 
              Editor’s Foreword
 
-2 of 194                                                                                           10/23/25, 1:37 PM ```
-
+2 of 194                                                                                           10/23/25, 1:37 PM 
 ---
 
 ## Page 3
@@ -207,8 +205,7 @@ tags:
              Heywood, was in prison. In 1878 he estabIished and conducted for a year The
 
 
-3 of 194                                                                                       10/23/25, 1:37 PM ```
-
+3 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 4
@@ -273,8 +270,7 @@ tags:
 
 
 
-4 of 194                                                                                      10/23/25, 1:37 PM ```
-
+4 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 5
@@ -336,8 +332,7 @@ tags:
 
 
 
-5 of 194                                                                                            10/23/25, 1:37 PM ```
-
+5 of 194                                                                                            10/23/25, 1:37 PM 
 ---
 
 ## Page 6
@@ -401,8 +396,7 @@ tags:
              economic philosophy.
 
 
-6 of 194                                                                                       10/23/25, 1:37 PM ```
-
+6 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 7
@@ -466,8 +460,7 @@ tags:
              the aﬀairs of men should be managed by the government, regardless of
 
 
-7 of 194                                                                                       10/23/25, 1:37 PM ```
-
+7 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 8
@@ -531,8 +524,7 @@ tags:
              encroachment is not fostered, and the individual is not taught to be jealous of
 
 
-8 of 194                                                                                        10/23/25, 1:37 PM ```
-
+8 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 9
@@ -596,8 +588,7 @@ tags:
              for their power of achievement, thus keeping the rate of interest on money
 
 
-9 of 194                                                                                       10/23/25, 1:37 PM ```
-
+9 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 10
@@ -661,8 +652,7 @@ tags:
              circulating medium, and by State laws making it a criminal oﬀense to issue
 
 
-10 of 194                                                                                      10/23/25, 1:37 PM ```
-
+10 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 11
@@ -726,8 +716,7 @@ tags:
              and perhaps forever, though tending constantly to a minimum under
 
 
-11 of 194                                                                                       10/23/25, 1:37 PM ```
-
+11 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 12
@@ -791,8 +780,7 @@ tags:
              nothing. If the individual has a right to govern himself, all external
 
 
-12 of 194                                                                                      10/23/25, 1:37 PM ```
-
+12 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 13
@@ -856,8 +844,7 @@ tags:
              the harlot to live their lives until they shall freely choose to abandon them.
 
 
-13 of 194                                                                                      10/23/25, 1:37 PM ```
-
+13 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 14
@@ -922,8 +909,7 @@ tags:
 
 
 
-14 of 194                                                                                          10/23/25, 1:37 PM ```
-
+14 of 194                                                                                          10/23/25, 1:37 PM 
 ---
 
 ## Page 15
@@ -991,8 +977,7 @@ tags:
 
 
 
-15 of 194                                                                                          10/23/25, 1:37 PM ```
-
+15 of 194                                                                                          10/23/25, 1:37 PM 
 ---
 
 ## Page 16
@@ -1061,8 +1046,7 @@ tags:
 
 
 
-16 of 194                                                                                             10/23/25, 1:37 PM ```
-
+16 of 194                                                                                             10/23/25, 1:37 PM 
 ---
 
 ## Page 17
@@ -1128,8 +1112,7 @@ tags:
              measures of forcible conﬁscation, through the State or in deﬁance of it, shall
 
 
-17 of 194                                                                                          10/23/25, 1:37 PM ```
-
+17 of 194                                                                                          10/23/25, 1:37 PM 
 ---
 
 ## Page 18
@@ -1192,8 +1175,7 @@ tags:
              Individual” is due principally to the fact that circumstances have combined to
 
 
-18 of 194                                                                                        10/23/25, 1:37 PM ```
-
+18 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 19
@@ -1257,8 +1239,7 @@ tags:
              be a State and to be considered as such by any. The exercise of authority over
 
 
-19 of 194                                                                                       10/23/25, 1:37 PM ```
-
+19 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 20
@@ -1322,8 +1303,7 @@ tags:
              have been consciously and voluntarily assumed. If a man makes an agreement
 
 
-20 of 194                                                                                     10/23/25, 1:37 PM ```
-
+20 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 21
@@ -1387,8 +1367,7 @@ tags:
              abolition of the State will leave in existence a defensive association, resting
 
 
-21 of 194                                                                                       10/23/25, 1:37 PM ```
-
+21 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 22
@@ -1453,8 +1432,7 @@ tags:
 
 
 
-22 of 194                                                                                      10/23/25, 1:37 PM ```
-
+22 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 23
@@ -1519,8 +1497,7 @@ tags:
              are. The Eternal is alone sovereign, alone wise, alone worthy; the Eternal
 
 
-23 of 194                                                                                           10/23/25, 1:37 PM ```
-
+23 of 194                                                                                           10/23/25, 1:37 PM 
 ---
 
 ## Page 24
@@ -1584,8 +1561,7 @@ tags:
                 “If you refuse, you become a part of the society of savages. Outside of the
 
 
-24 of 194                                                                                       10/23/25, 1:37 PM ```
-
+24 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 25
@@ -1649,8 +1625,7 @@ tags:
              religious from the secular. Liberty’s victory over the former is well-nigh
 
 
-25 of 194                                                                                       10/23/25, 1:37 PM ```
-
+25 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 26
@@ -1714,8 +1689,7 @@ tags:
              same thing — as individual sovereigns have we any constructive work to do,
 
 
-26 of 194                                                                                        10/23/25, 1:37 PM ```
-
+26 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 27
@@ -1779,8 +1753,7 @@ tags:
              and misinterpreted than Individualism. Mr. Appleton makes so palpable a
 
 
-27 of 194                                                                                       10/23/25, 1:37 PM ```
-
+27 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 28
@@ -1844,8 +1817,7 @@ tags:
              his position compels another interpretation of his words, — namely that the
 
 
-28 of 194                                                                                       10/23/25, 1:37 PM ```
-
+28 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 29
@@ -1909,8 +1881,7 @@ tags:
              accomplish its purpose.” Ah, here we are on quite another ground. The claim
 
 
-29 of 194                                                                                        10/23/25, 1:37 PM ```
-
+29 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 30
@@ -1974,8 +1945,7 @@ tags:
              hanged the Chicago martyrs. I have never blamed them in the usual sense of
 
 
-30 of 194                                                                                       10/23/25, 1:37 PM ```
-
+30 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 31
@@ -2039,8 +2009,7 @@ tags:
              control in the Church is always vested in an unscrupulous machine? That the
 
 
-31 of 194                                                                                      10/23/25, 1:37 PM ```
-
+31 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 32
@@ -2104,8 +2073,7 @@ tags:
              enforce a contract which nobody desires to violate. I tell Mr. Robinson, as I
 
 
-32 of 194                                                                                      10/23/25, 1:37 PM ```
-
+32 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 33
@@ -2168,8 +2136,7 @@ tags:
 
 
 
-33 of 194                                                                                      10/23/25, 1:37 PM ```
-
+33 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 34
@@ -2234,8 +2201,7 @@ tags:
 
 
 
-34 of 194                                                                                        10/23/25, 1:37 PM ```
-
+34 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 35
@@ -2299,8 +2265,7 @@ tags:
              us back to the familiar law of equal liberty; the greatest amount of individual
 
 
-35 of 194                                                                                       10/23/25, 1:37 PM ```
-
+35 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 36
@@ -2364,8 +2329,7 @@ tags:
 
 
 
-36 of 194                                                                                        10/23/25, 1:37 PM ```
-
+36 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 37
@@ -2430,8 +2394,7 @@ tags:
 
 
 
-37 of 194                                                                                      10/23/25, 1:37 PM ```
-
+37 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 38
@@ -2495,8 +2458,7 @@ tags:
              meets its chief impediment in the State. The State, unlike society, is a discrete
 
 
-38 of 194                                                                                       10/23/25, 1:37 PM ```
-
+38 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 39
@@ -2560,8 +2522,7 @@ tags:
              diﬀiculties, not diﬀiculties of principle. They seem “enormous” to him; but so
 
 
-39 of 194                                                                                        10/23/25, 1:37 PM ```
-
+39 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 40
@@ -2626,8 +2587,7 @@ tags:
              contracting parties might agree upon within the limits of whatever territory,
 
 
-40 of 194                                                                                         10/23/25, 1:37 PM ```
-
+40 of 194                                                                                         10/23/25, 1:37 PM 
 ---
 
 ## Page 41
@@ -2691,8 +2651,7 @@ tags:
              showing it any unnecessary reverence. We will bow to it when we must; we
 
 
-41 of 194                                                                                       10/23/25, 1:37 PM ```
-
+41 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 42
@@ -2756,8 +2715,7 @@ tags:
              tolerate it if we can help it; let us rather use our brains for the guidance of
 
 
-42 of 194                                                                                       10/23/25, 1:37 PM ```
-
+42 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 43
@@ -2821,8 +2779,7 @@ tags:
                Mr. Ball’s central argument against us, stated brieﬂy, is this: Where crime
 
 
-43 of 194                                                                                       10/23/25, 1:37 PM ```
-
+43 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 44
@@ -2886,8 +2843,7 @@ tags:
              which to stand while collecting their fees from the poor fools who know no
 
 
-44 of 194                                                                                      10/23/25, 1:37 PM ```
-
+44 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 45
@@ -2951,8 +2907,7 @@ tags:
              shall not work or play on Sunday or blaspheme the name of the Lord; that
 
 
-45 of 194                                                                                       10/23/25, 1:37 PM ```
-
+45 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 46
@@ -3016,8 +2971,7 @@ tags:
 
 
 
-46 of 194                                                                                      10/23/25, 1:37 PM ```
-
+46 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 47
@@ -3081,8 +3035,7 @@ tags:
              higher humanities that make life worth living and tend to the elevation and
 
 
-47 of 194                                                                                       10/23/25, 1:37 PM ```
-
+47 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 48
@@ -3146,8 +3099,7 @@ tags:
              freedom, although it is undeniable that the most important freedoms, those
 
 
-48 of 194                                                                                       10/23/25, 1:37 PM ```
-
+48 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 49
@@ -3211,8 +3163,7 @@ tags:
              are just as hot as any. The above extract shows that he knows Liberty to be
 
 
-49 of 194                                                                                        10/23/25, 1:37 PM ```
-
+49 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 50
@@ -3276,8 +3227,7 @@ tags:
                 So am I. Or rather, I should be astonished if I had been guilty of it. But I
 
 
-50 of 194                                                                                       10/23/25, 1:37 PM ```
-
+50 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 51
@@ -3341,8 +3291,7 @@ tags:
                But, if I were to grant that Mr. Pinney s quibble shows that there is no
 
 
-51 of 194                                                                                      10/23/25, 1:37 PM ```
-
+51 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 52
@@ -3406,8 +3355,7 @@ tags:
 
 
 
-52 of 194                                                                                      10/23/25, 1:37 PM ```
-
+52 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 53
@@ -3471,8 +3419,7 @@ tags:
              out. From an Anarchistic standpoint, the right of ownership is that control of a
 
 
-53 of 194                                                                                        10/23/25, 1:37 PM ```
-
+53 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 54
@@ -3536,8 +3483,7 @@ tags:
 
 
 
-54 of 194                                                                                      10/23/25, 1:37 PM ```
-
+54 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 55
@@ -3600,8 +3546,7 @@ tags:
              in view a minority capable of “successfully withdrawing the supplies from
 
 
-55 of 194                                                                                        10/23/25, 1:37 PM ```
-
+55 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 56
@@ -3665,8 +3610,7 @@ tags:
              lead of unscrupulous politicians like Parnell, who really wanted anything but
 
 
-56 of 194                                                                                       10/23/25, 1:37 PM ```
-
+56 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 57
@@ -3730,8 +3674,7 @@ tags:
              government employees and dvorniks (janitors converted into spies and
 
 
-57 of 194                                                                                       10/23/25, 1:37 PM ```
-
+57 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 58
@@ -3794,8 +3737,7 @@ tags:
 
              The Futility of the Ballot
 
-58 of 194                                                                                       10/23/25, 1:37 PM ```
-
+58 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 59
@@ -3860,8 +3802,7 @@ tags:
 
 
 
-59 of 194                                                                                        10/23/25, 1:37 PM ```
-
+59 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 60
@@ -3925,8 +3866,7 @@ tags:
 
 
 
-60 of 194                                                                                      10/23/25, 1:37 PM ```
-
+60 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 61
@@ -3991,8 +3931,7 @@ tags:
 
 
 
-61 of 194                                                                                       10/23/25, 1:37 PM ```
-
+61 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 62
@@ -4054,8 +3993,7 @@ tags:
              nearly all the replies thus far volunteered certainly tend to give an opposite
 
 
-62 of 194                                                                                         10/23/25, 1:37 PM ```
-
+62 of 194                                                                                         10/23/25, 1:37 PM 
 ---
 
 ## Page 63
@@ -4119,8 +4057,7 @@ tags:
              laborers their liberty, and they will keep their wealth. As for the Somebody,
 
 
-63 of 194                                                                                       10/23/25, 1:37 PM ```
-
+63 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 64
@@ -4185,8 +4122,7 @@ tags:
              mystifying clauses:
 
 
-64 of 194                                                                                        10/23/25, 1:37 PM ```
-
+64 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 65
@@ -4250,8 +4186,7 @@ tags:
              government a monopoly of the power to issue money, should combine to
 
 
-65 of 194                                                                                       10/23/25, 1:37 PM ```
-
+65 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 66
@@ -4315,8 +4250,7 @@ tags:
              took corn as his standard, but made labor and all its products his basis. His
 
 
-66 of 194                                                                                      10/23/25, 1:37 PM ```
-
+66 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 67
@@ -4380,8 +4314,7 @@ tags:
 
 
 
-67 of 194                                                                                       10/23/25, 1:37 PM ```
-
+67 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 68
@@ -4445,8 +4378,7 @@ tags:
              forms of usury except ground-rent, while a true land reform would directly
 
 
-68 of 194                                                                                       10/23/25, 1:37 PM ```
-
+68 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 69
@@ -4510,8 +4442,7 @@ tags:
                      that position:
 
 
-69 of 194                                                                                        10/23/25, 1:37 PM ```
-
+69 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 70
@@ -4576,8 +4507,7 @@ tags:
              that men who acquire money by paying this cost will lend it to others without
 
 
-70 of 194                                                                                      10/23/25, 1:37 PM ```
-
+70 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 71
@@ -4642,8 +4572,7 @@ tags:
              Transactions, on the other hand, in which only one equivalent is immediately
 
 
-71 of 194                                                                                          10/23/25, 1:37 PM ```
-
+71 of 194                                                                                          10/23/25, 1:37 PM 
 ---
 
 ## Page 72
@@ -4707,8 +4636,7 @@ tags:
              primarily upon the existence of private property.” I call this a truism, though
 
 
-72 of 194                                                                                         10/23/25, 1:37 PM ```
-
+72 of 194                                                                                         10/23/25, 1:37 PM 
 ---
 
 ## Page 73
@@ -4772,8 +4700,7 @@ tags:
              have already said, to show how silly it is, it is only necessary to slightly
 
 
-73 of 194                                                                                        10/23/25, 1:37 PM ```
-
+73 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 74
@@ -4837,8 +4764,7 @@ tags:
              failure to perform the prescribed feat, at least good-humoredly forgives it. But
 
 
-74 of 194                                                                                       10/23/25, 1:37 PM ```
-
+74 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 75
@@ -4903,8 +4829,7 @@ tags:
 
 
 
-75 of 194                                                                                       10/23/25, 1:37 PM ```
-
+75 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 76
@@ -4969,8 +4894,7 @@ tags:
 
 
 
-76 of 194                                                                                        10/23/25, 1:37 PM ```
-
+76 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 77
@@ -5035,8 +4959,7 @@ tags:
              abolish; namely, payment by borrower to lender for the use of capital.
 
 
-77 of 194                                                                                        10/23/25, 1:37 PM ```
-
+77 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 78
@@ -5101,8 +5024,7 @@ tags:
 
 
 
-78 of 194                                                                                       10/23/25, 1:37 PM ```
-
+78 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 79
@@ -5166,8 +5088,7 @@ tags:
              answer that Mr. Ingalls gives is this: The desire to borrow at less than one per
 
 
-79 of 194                                                                                      10/23/25, 1:37 PM ```
-
+79 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 80
@@ -5232,8 +5153,7 @@ tags:
              I have interpreted this last admission as meaning that in banking the force of
 
 
-80 of 194                                                                                       10/23/25, 1:37 PM ```
-
+80 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 81
@@ -5296,8 +5216,7 @@ tags:
              Necessity for a Standard of Value
 
 
-81 of 194                                                                                      10/23/25, 1:37 PM ```
-
+81 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 82
@@ -5362,8 +5281,7 @@ tags:
              then, is not this manufacturer a suﬀerer from the variation in the standard of
 
 
-82 of 194                                                                                        10/23/25, 1:37 PM ```
-
+82 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 83
@@ -5428,8 +5346,7 @@ tags:
              I am as much bound to repudiate your heresy as an engineer would be to
 
 
-83 of 194                                                                                        10/23/25, 1:37 PM ```
-
+83 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 84
@@ -5494,8 +5411,7 @@ tags:
              bank has a good standing with the community and with the clearinghouse. It
 
 
-84 of 194                                                                                       10/23/25, 1:37 PM ```
-
+84 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 85
@@ -5560,8 +5476,7 @@ tags:
              real position. For the customers’ willingness to make this contract depends in
 
 
-85 of 194                                                                                         10/23/25, 1:37 PM ```
-
+85 of 194                                                                                         10/23/25, 1:37 PM 
 ---
 
 ## Page 86
@@ -5625,8 +5540,7 @@ tags:
              the demand and supply of paper dollars, but altogether upon the demand and
 
 
-86 of 194                                                                                      10/23/25, 1:37 PM ```
-
+86 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 87
@@ -5691,8 +5605,7 @@ tags:
 
 
 
-87 of 194                                                                                       10/23/25, 1:37 PM ```
-
+87 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 88
@@ -5757,8 +5670,7 @@ tags:
              if others interested with me were to persist in bringing it into ridicule by
 
 
-88 of 194                                                                                       10/23/25, 1:37 PM ```
-
+88 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 89
@@ -5822,8 +5734,7 @@ tags:
              has previously familiarized himself with the literature of free and mutual
 
 
-89 of 194                                                                                       10/23/25, 1:37 PM ```
-
+89 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 90
@@ -5888,8 +5799,7 @@ tags:
              The ﬁrst, which speaks of Law, Ricardo, and the economists as “always taking
 
 
-90 of 194                                                                                       10/23/25, 1:37 PM ```
-
+90 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 91
@@ -5953,8 +5863,7 @@ tags:
              out, the words “at par” absolutely necessitate a standard of value, and
 
 
-91 of 194                                                                                       10/23/25, 1:37 PM ```
-
+91 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 92
@@ -6018,8 +5927,7 @@ tags:
              impossibility without a standard. But the fact is that he said very little about
 
 
-92 of 194                                                                                      10/23/25, 1:37 PM ```
-
+92 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 93
@@ -6083,8 +5991,7 @@ tags:
              under a system of banking furnishing all known means of safeguarding and
 
 
-93 of 194                                                                                       10/23/25, 1:37 PM ```
-
+93 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 94
@@ -6148,8 +6055,7 @@ tags:
              invalidation of contracts specifying limited liability are, equally with his “ﬁrst-
 
 
-94 of 194                                                                                       10/23/25, 1:37 PM ```
-
+94 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 95
@@ -6214,8 +6120,7 @@ tags:
              must be be represented by an equal amount of coin in its coﬀers; and, fourth,
 
 
-95 of 194                                                                                       10/23/25, 1:37 PM ```
-
+95 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 96
@@ -6279,8 +6184,7 @@ tags:
              Gunton.
 
 
-96 of 194                                                                                      10/23/25, 1:37 PM ```
-
+96 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 97
@@ -6345,8 +6249,7 @@ tags:
              “Mutual Banking” in support of Comrade Cohen’s view. But Hugo Bilgram,
 
 
-97 of 194                                                                                       10/23/25, 1:37 PM ```
-
+97 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 98
@@ -6410,8 +6313,7 @@ tags:
              receive in bank notes so much of the proceeds of the sale as might remain to
 
 
-98 of 194                                                                                      10/23/25, 1:37 PM ```
-
+98 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 99
@@ -6476,8 +6378,7 @@ tags:
              assault of “Mutual Banking” is upon a demand-note currency. There being no
 
 
-99 of 194                                                                                        10/23/25, 1:37 PM ```
-
+99 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 100
@@ -6541,8 +6442,7 @@ tags:
              banks would probably be banks of deposit as well as of issue, and large sums
 
 
-100 of 194                                                                                     10/23/25, 1:37 PM ```
-
+100 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 101
@@ -6606,8 +6506,7 @@ tags:
 
 
 
-101 of 194                                                                                     10/23/25, 1:37 PM ```
-
+101 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 102
@@ -6672,8 +6571,7 @@ tags:
 
 
 
-102 of 194                                                                                        10/23/25, 1:37 PM ```
-
+102 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 103
@@ -6738,8 +6636,7 @@ tags:
              use my capital directly as“a basis of credit or currency, the relief from the
 
 
-103 of 194                                                                                       10/23/25, 1:37 PM ```
-
+103 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 104
@@ -6803,8 +6700,7 @@ tags:
              called mutual money...If ordinary bank-bills represented specie actually
 
 
-104 of 194                                                                                      10/23/25, 1:37 PM ```
-
+104 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 105
@@ -6868,8 +6764,7 @@ tags:
              articles or their equivalents on demand from any customers of the bank that
 
 
-105 of 194                                                                                      10/23/25, 1:37 PM ```
-
+105 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 106
@@ -6933,8 +6828,7 @@ tags:
              silver in an open market, because, being obliged by law to buy so many
 
 
-106 of 194                                                                                      10/23/25, 1:37 PM ```
-
+106 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 107
@@ -6999,8 +6893,7 @@ tags:
              and tear which the tool had suﬀered in this single act of manufacture, and not
 
 
-107 of 194                                                                                       10/23/25, 1:37 PM ```
-
+107 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 108
@@ -7064,8 +6957,7 @@ tags:
              immediately assumed such proportions that Napoleon had to construct a
 
 
-108 of 194                                                                                     10/23/25, 1:37 PM ```
-
+108 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 109
@@ -7129,8 +7021,7 @@ tags:
              Now the gold that goes to California to pay for those peaches and comes back
 
 
-109 of 194                                                                                     10/23/25, 1:37 PM ```
-
+109 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 110
@@ -7194,8 +7085,7 @@ tags:
              extra ﬁve hundred ems an hour. The case is precisely the same with capital.
 
 
-110 of 194                                                                                       10/23/25, 1:37 PM ```
-
+110 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 111
@@ -7259,8 +7149,7 @@ tags:
              of boiling water, if it is not that it gives him the beneﬁt of an hour’s time in
 
 
-111 of 194                                                                                      10/23/25, 1:37 PM ```
-
+111 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 112
@@ -7324,8 +7213,7 @@ tags:
                Mr. George gets into diﬀiculty in discussing this question of the increase of
 
 
-112 of 194                                                                                     10/23/25, 1:37 PM ```
-
+112 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 113
@@ -7389,8 +7277,7 @@ tags:
              excuse for interest on products which do not improve except as labor is
 
 
-113 of 194                                                                                     10/23/25, 1:37 PM ```
-
+113 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 114
@@ -7454,8 +7341,7 @@ tags:
              which an institution that controls the common medium of exchange can
 
 
-114 of 194                                                                                     10/23/25, 1:37 PM ```
-
+114 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 115
@@ -7519,8 +7405,7 @@ tags:
              and appeared to think that he had said something ﬁnal. Now, in the ﬁrst
 
 
-115 of 194                                                                                      10/23/25, 1:37 PM ```
-
+115 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 116
@@ -7584,8 +7469,7 @@ tags:
              the end that there are plenty of promises with which to buy, but that there is
 
 
-116 of 194                                                                                     10/23/25, 1:37 PM ```
-
+116 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 117
@@ -7649,8 +7533,7 @@ tags:
              by the cumulative evils inherent in State administration. It deprives itself, in
 
 
-117 of 194                                                                                     10/23/25, 1:37 PM ```
-
+117 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 118
@@ -7714,8 +7597,7 @@ tags:
              and clumsy as it is, is a glance in this direction. The importance of Senator
 
 
-118 of 194                                                                                      10/23/25, 1:37 PM ```
-
+118 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 119
@@ -7780,8 +7662,7 @@ tags:
              parties, from A to Z, have been using for the performance of innumerable
 
 
-119 of 194                                                                                      10/23/25, 1:37 PM ```
-
+119 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 120
@@ -7846,8 +7727,7 @@ tags:
              eliminated as elements of price, and brisk competition is assured by the ease
 
 
-120 of 194                                                                                       10/23/25, 1:37 PM ```
-
+120 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 121
@@ -7912,8 +7792,7 @@ tags:
              proﬁts almost evenly between the two, instancing the railways of Illinois,
 
 
-121 of 194                                                                                        10/23/25, 1:37 PM ```
-
+121 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 122
@@ -7977,8 +7856,7 @@ tags:
              results from other causes and unaccompanied by any increase in wages.
 
 
-122 of 194                                                                                     10/23/25, 1:37 PM ```
-
+122 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 123
@@ -8041,8 +7919,7 @@ tags:
                “The land for the people,” according to Davitt, as explained at Liverpool,
 
 
-123 of 194                                                                                       10/23/25, 1:37 PM ```
-
+123 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 124
@@ -8106,8 +7983,7 @@ tags:
              preparatory labor, which is as much entitled to reward as any other. Very
 
 
-124 of 194                                                                                       10/23/25, 1:37 PM ```
-
+124 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 125
@@ -8171,8 +8047,7 @@ tags:
              representing his own labor for the result of Edgeworth’s labor which he (the
 
 
-125 of 194                                                                                     10/23/25, 1:37 PM ```
-
+125 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 126
@@ -8237,8 +8112,7 @@ tags:
              manual toil, — but to one hour of manual toil. The claim for judgment and skill
 
 
-126 of 194                                                                                      10/23/25, 1:37 PM ```
-
+126 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 127
@@ -8302,8 +8176,7 @@ tags:
              and in possession of more capital than he can now command, and when the
 
 
-127 of 194                                                                                       10/23/25, 1:37 PM ```
-
+127 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 128
@@ -8367,8 +8240,7 @@ tags:
                 But I now and then meet a Single-Taxer who allows that the government,
 
 
-128 of 194                                                                                      10/23/25, 1:37 PM ```
-
+128 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 129
@@ -8432,8 +8304,7 @@ tags:
              of them. If I go through life free and rich, I shall not cry because my neighbor,
 
 
-129 of 194                                                                                       10/23/25, 1:37 PM ```
-
+129 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 130
@@ -8497,8 +8368,7 @@ tags:
              product over theirs and distribute it among them, or we will spend it in taking
 
 
-130 of 194                                                                                      10/23/25, 1:37 PM ```
-
+130 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 131
@@ -8562,8 +8432,7 @@ tags:
              will not solve it. Free money, supplemented by free land, will.
 
 
-131 of 194                                                                                      10/23/25, 1:37 PM ```
-
+131 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 132
@@ -8627,8 +8496,7 @@ tags:
              turn its back upon him. It insists upon both land and tools. These it will get,
 
 
-132 of 194                                                                                      10/23/25, 1:37 PM ```
-
+132 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 133
@@ -8693,8 +8561,7 @@ tags:
              made some ﬁshhooks out of bones and gone ﬁshing? Isn’t that suﬀiciently
 
 
-133 of 194                                                                                      10/23/25, 1:37 PM ```
-
+133 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 134
@@ -8759,8 +8626,7 @@ tags:
              his ridiculous pretense that he is a champion of liberty. But I have never
 
 
-134 of 194                                                                                     10/23/25, 1:37 PM ```
-
+134 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 135
@@ -8824,8 +8690,7 @@ tags:
              in which the land-holders should consent to contribute the increment to the
 
 
-135 of 194                                                                                      10/23/25, 1:37 PM ```
-
+135 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 136
@@ -8889,8 +8754,7 @@ tags:
              land-holders “Sign this contract; if you do not, I not only will refuse you
 
 
-136 of 194                                                                                     10/23/25, 1:37 PM ```
-
+136 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 137
@@ -8954,8 +8818,7 @@ tags:
              bears often no relation to economic rent, the value of such protection is not
 
 
-137 of 194                                                                                      10/23/25, 1:37 PM ```
-
+137 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 138
@@ -9020,8 +8883,7 @@ tags:
 
 
 
-138 of 194                                                                                        10/23/25, 1:37 PM ```
-
+138 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 139
@@ -9086,8 +8948,7 @@ tags:
 
 
 
-139 of 194                                                                                       10/23/25, 1:37 PM ```
-
+139 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 140
@@ -9152,8 +9013,7 @@ tags:
              But the ﬁrst of all equities is not equality of material well-being, but equality
 
 
-140 of 194                                                                                       10/23/25, 1:37 PM ```
-
+140 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 141
@@ -9217,8 +9077,7 @@ tags:
              and a pooling of the results thereof (which would be a virtual destruction of
 
 
-141 of 194                                                                                       10/23/25, 1:37 PM ```
-
+141 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 142
@@ -9282,8 +9141,7 @@ tags:
              liberty of the monopolist, in the latter it is impossible to sustain it without
 
 
-142 of 194                                                                                        10/23/25, 1:37 PM ```
-
+142 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 143
@@ -9347,8 +9205,7 @@ tags:
              the only one that tends to establish an artiﬁcial inequality; and that the worst
 
 
-143 of 194                                                                                      10/23/25, 1:37 PM ```
-
+143 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 144
@@ -9412,8 +9269,7 @@ tags:
              him. But as I am really anxious to win him to the Anarchistic view, I shall try
 
 
-144 of 194                                                                                        10/23/25, 1:37 PM ```
-
+144 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 145
@@ -9477,8 +9333,7 @@ tags:
              emergency and need no alteration. And it will then be regarded as just in
 
 
-145 of 194                                                                                      10/23/25, 1:37 PM ```
-
+145 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 146
@@ -9542,8 +9397,7 @@ tags:
              possible to obtain labor without awarding it its full product.
 
 
-146 of 194                                                                                       10/23/25, 1:37 PM ```
-
+146 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 147
@@ -9607,8 +9461,7 @@ tags:
                Whether the neighboring farmers should sink shafts themselves or part with
 
 
-147 of 194                                                                                    10/23/25, 1:37 PM ```
-
+147 of 194                                                                                    10/23/25, 1:37 PM 
 ---
 
 ## Page 148
@@ -9672,8 +9525,7 @@ tags:
              each other until all or nearly all the rent which they now pay landlords would
 
 
-148 of 194                                                                                      10/23/25, 1:37 PM ```
-
+148 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 149
@@ -9737,8 +9589,7 @@ tags:
              man who commits an invasion under circumstances that go far to excuse him.
 
 
-149 of 194                                                                                     10/23/25, 1:37 PM ```
-
+149 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 150
@@ -9802,8 +9653,7 @@ tags:
              in my discussion with Mr. Yarros, — the case, that is, of a burning city which
 
 
-150 of 194                                                                                      10/23/25, 1:37 PM ```
-
+150 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 151
@@ -9867,8 +9717,7 @@ tags:
              an unoccupied, unimproved, unused passage is not an invader, and does not
 
 
-151 of 194                                                                                     10/23/25, 1:37 PM ```
-
+151 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 152
@@ -9932,8 +9781,7 @@ tags:
              not my fault; it is simply the misfortune of the Single-Tax theory.
 
 
-152 of 194                                                                                      10/23/25, 1:37 PM ```
-
+152 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 153
@@ -9997,8 +9845,7 @@ tags:
              which afterward, by the operation of the principle of occupancy and use,
 
 
-153 of 194                                                                                     10/23/25, 1:37 PM ```
-
+153 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 154
@@ -10063,8 +9910,7 @@ tags:
 
 
 
-154 of 194                                                                                        10/23/25, 1:37 PM ```
-
+154 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 155
@@ -10128,8 +9974,7 @@ tags:
              question arises: why does that which has not risen to the dignity of
 
 
-155 of 194                                                                                      10/23/25, 1:37 PM ```
-
+155 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 156
@@ -10193,8 +10038,7 @@ tags:
              might well agree to pay rent into a common treasury, no man should be forced
 
 
-156 of 194                                                                                      10/23/25, 1:37 PM ```
-
+156 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 157
@@ -10257,8 +10101,7 @@ tags:
 
              George and the Single Tax
 
-157 of 194                                                                                      10/23/25, 1:37 PM ```
-
+157 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 158
@@ -10323,8 +10166,7 @@ tags:
 
 
 
-158 of 194                                                                                      10/23/25, 1:37 PM ```
-
+158 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 159
@@ -10388,8 +10230,7 @@ tags:
              improvements, and tax the latter out of the owner’s hands.
 
 
-159 of 194                                                                                     10/23/25, 1:37 PM ```
-
+159 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 160
@@ -10453,8 +10294,7 @@ tags:
              facile pen, and on these he relies to carry him safely through the mazes of
 
 
-160 of 194                                                                                     10/23/25, 1:37 PM ```
-
+160 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 161
@@ -10518,8 +10358,7 @@ tags:
              with my consent, is a robber, unless he exacts as great a price as that ﬁxed by
 
 
-161 of 194                                                                                      10/23/25, 1:37 PM ```
-
+161 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 162
@@ -10583,8 +10422,7 @@ tags:
              might go about our business.
 
 
-162 of 194                                                                                      10/23/25, 1:37 PM ```
-
+162 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 163
@@ -10647,8 +10485,7 @@ tags:
 
 
 
-163 of 194                                                                                        10/23/25, 1:37 PM ```
-
+163 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 164
@@ -10712,8 +10549,7 @@ tags:
              selects the last. If I were forced to the alternative of leaving a question
 
 
-164 of 194                                                                                      10/23/25, 1:37 PM ```
-
+164 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 165
@@ -10775,8 +10611,7 @@ tags:
              The Attitude of Anarchism Toward Industrial
              Combinations
 
-165 of 194                                                                                      10/23/25, 1:37 PM ```
-
+165 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 166
@@ -10841,8 +10676,7 @@ tags:
 
 
 
-166 of 194                                                                                       10/23/25, 1:37 PM ```
-
+166 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 167
@@ -10906,8 +10740,7 @@ tags:
              supposed, have been made possible only by the absence of competition, only
 
 
-167 of 194                                                                                      10/23/25, 1:37 PM ```
-
+167 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 168
@@ -10971,8 +10804,7 @@ tags:
              imaginary line called a frontier; the right of the individual to take possession
 
 
-168 of 194                                                                                      10/23/25, 1:37 PM ```
-
+168 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 169
@@ -11036,8 +10868,7 @@ tags:
              the eﬀorts of a single individual to be used contemporaneously by all
 
 
-169 of 194                                                                                      10/23/25, 1:37 PM ```
-
+169 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 170
@@ -11101,8 +10932,7 @@ tags:
              view.
 
 
-170 of 194                                                                                      10/23/25, 1:37 PM ```
-
+170 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 171
@@ -11166,8 +10996,7 @@ tags:
              circulate wherever it can on its own merits. And this is not only a solution of
 
 
-171 of 194                                                                                      10/23/25, 1:37 PM ```
-
+171 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 172
@@ -11231,8 +11060,7 @@ tags:
              some one with money to buy it”; it is necessary to add the much more
 
 
-172 of 194                                                                                        10/23/25, 1:37 PM ```
-
+172 of 194                                                                                        10/23/25, 1:37 PM 
 ---
 
 ## Page 173
@@ -11296,8 +11124,7 @@ tags:
              employing classes, and, if any sweeping is done, may the laborers hold the
 
 
-173 of 194                                                                                      10/23/25, 1:37 PM ```
-
+173 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 174
@@ -11361,8 +11188,7 @@ tags:
              not get his due. He knows that the capitalists have been entrusted by society,
 
 
-174 of 194                                                                                     10/23/25, 1:37 PM ```
-
+174 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 175
@@ -11426,8 +11252,7 @@ tags:
              Why, I thought that the fact that it is not paid was the whole grievance.
 
 
-175 of 194                                                                                      10/23/25, 1:37 PM ```
-
+175 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 176
@@ -11491,8 +11316,7 @@ tags:
              ways of Faith are direct and easy to follow, but their goal is a quagmire;
 
 
-176 of 194                                                                                       10/23/25, 1:37 PM ```
-
+176 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 177
@@ -11556,8 +11380,7 @@ tags:
              which I opposed to its championship of government postal monopoly, the
 
 
-177 of 194                                                                                       10/23/25, 1:37 PM ```
-
+177 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 178
@@ -11621,8 +11444,7 @@ tags:
              be added, however, that, pending the transformation of governments into
 
 
-178 of 194                                                                                     10/23/25, 1:37 PM ```
-
+178 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 179
@@ -11686,8 +11508,7 @@ tags:
              paying a heavy tax to which its rival was not subject. So handicapped, it could
 
 
-179 of 194                                                                                     10/23/25, 1:37 PM ```
-
+179 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 180
@@ -11752,8 +11573,7 @@ tags:
                I understand that there was some doubt in Chicago whether the millionaire
 
 
-180 of 194                                                                                       10/23/25, 1:37 PM ```
-
+180 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 181
@@ -11817,8 +11637,7 @@ tags:
              and privilege, between Socialism and so-called political economy. He did
 
 
-181 of 194                                                                                      10/23/25, 1:37 PM ```
-
+181 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 182
@@ -11882,8 +11701,7 @@ tags:
              method? Your answer to this question, Professor Sumner, will again test your
 
 
-182 of 194                                                                                      10/23/25, 1:37 PM ```
-
+182 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 183
@@ -11948,8 +11766,7 @@ tags:
              misleading. They are true for the most part in what they say, and false and
 
 
-183 of 194                                                                                      10/23/25, 1:37 PM ```
-
+183 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 184
@@ -12013,8 +11830,7 @@ tags:
              only Socialism, and not at all from any sympathy with legal monopoly or
 
 
-184 of 194                                                                                     10/23/25, 1:37 PM ```
-
+184 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 185
@@ -12078,8 +11894,7 @@ tags:
              adhere to its all-important counsel. The book is a magniﬁcent assault on the
 
 
-185 of 194                                                                                       10/23/25, 1:37 PM ```
-
+185 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 186
@@ -12143,8 +11958,7 @@ tags:
              hereafter those who do the work of this world shall enjoy the wealth of this
 
 
-186 of 194                                                                                     10/23/25, 1:37 PM ```
-
+186 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 187
@@ -12208,8 +12022,7 @@ tags:
              another, instead of by all at the expense of nature’s forces. When universal
 
 
-187 of 194                                                                                       10/23/25, 1:37 PM ```
-
+187 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 188
@@ -12273,8 +12086,7 @@ tags:
                In Mrs. Glass’s recipe for cooking a hare, the ﬁrst thing was to catch the
 
 
-188 of 194                                                                                      10/23/25, 1:37 PM ```
-
+188 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 189
@@ -12338,8 +12150,7 @@ tags:
                      persons.” Mr. Tucker then proceeded to demolish that contention:
 
 
-189 of 194                                                                                       10/23/25, 1:37 PM ```
-
+189 of 194                                                                                       10/23/25, 1:37 PM 
 ---
 
 ## Page 190
@@ -12403,8 +12214,7 @@ tags:
 
 
 
-190 of 194                                                                                      10/23/25, 1:37 PM ```
-
+190 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 
 ## Page 191
@@ -12469,8 +12279,7 @@ tags:
 
 
 
-191 of 194                                                                                     10/23/25, 1:37 PM ```
-
+191 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 192
@@ -12533,8 +12342,7 @@ tags:
              to all economic conditions. His “General Idea of the Revolution in the
 
 
-192 of 194                                                                                     10/23/25, 1:37 PM ```
-
+192 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 193
@@ -12598,8 +12406,7 @@ tags:
              edited and abridged by Victor Yarros and published under the title of “Free
 
 
-193 of 194                                                                                     10/23/25, 1:37 PM ```
-
+193 of 194                                                                                     10/23/25, 1:37 PM 
 ---
 
 ## Page 194
@@ -12642,7 +12449,6 @@ tags:
 
 
 
-194 of 194                                                                                      10/23/25, 1:37 PM ```
-
+194 of 194                                                                                      10/23/25, 1:37 PM 
 ---
 

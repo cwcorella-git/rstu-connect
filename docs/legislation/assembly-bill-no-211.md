@@ -79,8 +79,7 @@ commissioners or governing body of the city, as applicable; (2) order that the b
 
 
     -                                                           83rd Session (2025)
-```
-
+
 ---
 
 ## Page 2
@@ -140,8 +139,7 @@ pursuant to section 10 or 29, as applicable.
 
 
    -                                                           83rd Session (2025)
-```
-
+
 ---
 
 ## Page 3
@@ -204,8 +202,7 @@ that:
 
 
    -                                                                                   83rd Session (2025)
-```
-
+
 ---
 
 ## Page 4
@@ -265,8 +262,7 @@ order issued pursuant to section 8 of this act:
 
 
    -                                               83rd Session (2025)
-```
-
+
 ---
 
 ## Page 5
@@ -326,8 +322,7 @@ property to be a substandard property, the district court must find:
 
 
    -                                               83rd Session (2025)
-```
-
+
 ---
 
 ## Page 6
@@ -387,7 +382,6 @@ endangers the health and safety of the residents of the
 
 
    -                                               83rd Session (2025)
-```
-
+
 ---
 

@@ -61,8 +61,7 @@ Habitability/Livable Conditions
            ○ Remedy options 2: obtain the essential services or items yourself and
              deduct the cost from the next month’s rent (how legally??), sue for
              actual damages, withholding rent, rent substitute housing (???)
-```
-
+
 ---
 
 ## Page 2
@@ -111,7 +110,6 @@ Privacy & Safety
 
  ● Unless there is an emergency, your landlord must give you 24 hours’ notice
    before entering the rental property.
-```
-
+
 ---
 

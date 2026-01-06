@@ -11,7 +11,7 @@ tags:
 
 # The performance analysis of the low‐speed direct‐drive generators for harvesting current energy - IET Renewable Power Gen - 2022 - Chen.pdf
 
-![Figure from page 1](images/page_001_content/img-000.png) ``` ![Figure from page 2](images/page_002_content/img-000.png) Received: 7 June 2022 Revised: 7 September 2022 Accepted: 12 September 2022 IET Renewable Power Generation DOI: 10.1049/rpg2.12598 ORIGINAL RESEARCH The performance analysis of the low-speed direct-drive generators for harvesting current energy Po-Yu Chen1 Kung-Yen Lee1,2 Po-Chun Huang1 Jia-Han Li1 Forng-Chen Chiu1 Jing-Fa Tsai1 Shu-Ting Hsu1 1 Department of Engineering Science and Ocean Abstract Engineering, National Taiwan University, Taipei,
+![Figure from page 1](images/page_001_content/img-000.png)  ![Figure from page 2](images/page_002_content/img-000.png) Received: 7 June 2022 Revised: 7 September 2022 Accepted: 12 September 2022 IET Renewable Power Generation DOI: 10.1049/rpg2.12598 ORIGINAL RESEARCH The performance analysis of the low-speed direct-drive generators for harvesting current energy Po-Yu Chen1 Kung-Yen Lee1,2 Po-Chun Huang1 Jia-Han Li1 Forng-Chen Chiu1 Jing-Fa Tsai1 Shu-Ting Hsu1 1 Department of Engineering Science and Ocean Abstract Engineering, National Taiwan University, Taipei,
                                                        The simulations and experiments for two 400 W low-speed direct-drive permanent mag-
 Taiwan 2
                                                        net synchronous generators (PMSGs) installed in a Floating Kuroshio Turbine (FKT) were
@@ -326,8 +326,7 @@ This document was converted from **09_Environment_Sustainability/Books/The perfo
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/09_Environment_Sustainability_Books_The_performance_analysis_of_the_low_speed_direct_drive_generators_for_harvesting_current_energy_-_IET_Renewable_Power_Gen_-_2022_-_Chen/09_Environment_Sustainability_Books_The_performance_analysis_of_the_low_speed_direct_drive_generators_for_harvesting_current_energy_-_IET_Renewable_Power_Gen_-_2022_-_Chen.md" ```
-
+bash claude code "Collections/09_Environment_Sustainability_Books_The_performance_analysis_of_the_low_speed_direct_drive_generators_for_harvesting_current_energy_-_IET_Renewable_Power_Gen_-_2022_-_Chen/09_Environment_Sustainability_Books_The_performance_analysis_of_the_low_speed_direct_drive_generators_for_harvesting_current_energy_-_IET_Renewable_Power_Gen_-_2022_-_Chen.md" 
 **Library Location:** 09_Environment_Sustainability is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

@@ -78,8 +78,7 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 
 1 of 15                                                                                 9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 2
@@ -139,8 +138,7 @@ Federal land policy in Nevada - Ballotpedia               about:reader?url=https
 
 
 2 of 15                                                                                     9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 3
@@ -211,8 +209,7 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 
 3 of 15                                                                                        9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 4
@@ -273,8 +270,7 @@ Federal land policy in Nevada - Ballotpedia                 about:reader?url=htt
                 The federal government owned between 635 million and 640
 
 4 of 15                                                                                       9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 5
@@ -325,8 +321,7 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 
 5 of 15                                                                                      9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 6
@@ -381,8 +376,7 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 
 6 of 15                                                                                      9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 7
@@ -434,8 +428,7 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 
 7 of 15                                                                                 9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 8
@@ -484,8 +477,7 @@ Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%
 
 
 8 of 15                                                                                 9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 9
@@ -545,8 +537,7 @@ Federal land policy in Nevada - Ballotpedia               about:reader?url=https
 
 
 9 of 15                                                                                      9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 10
@@ -592,8 +583,7 @@ Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%
 
 
 10 of 15                                                                             9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 11
@@ -646,8 +636,7 @@ Federal land policy in Nevada - Ballotpedia             about:reader?url=https%3
 
 
 11 of 15                                                                                  9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 12
@@ -692,8 +681,7 @@ Federal land policy in Nevada - Ballotpedia                about:reader?url=http
 
 
 12 of 15                                                                                     9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 13
@@ -762,8 +750,7 @@ Federal land policy in Nevada - Ballotpedia   about:reader?url=https%3A%2F%2Fbal
 
              •
 13 of 15                                                                        9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 14
@@ -820,8 +807,7 @@ Federal land policy in Nevada - Ballotpedia        about:reader?url=https%3A%2F%
                  accessed October 20, 2014
 
 14 of 15                                                                             9/8/25, 12:52 PM
-```
-
+
 ---
 
 ## Page 15
@@ -874,7 +860,6 @@ Federal land policy in Nevada - Ballotpedia       about:reader?url=https%3A%2F%2
 
 
 15 of 15                                                                            9/8/25, 12:52 PM
-```
-
+
 ---
 

@@ -36,7 +36,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 organizations as the be-all, end-all of organizing is vital for the
                 creation and rediscovery of possibilities for empowerment and
                 effective anarchist work.
-1 of 9 3/17/25, 5:06 PM ``` The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 9 3/17/25, 5:06 PM  The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 The Tyranny of Structure
                 Most mass structures are a result of habit, inertia and the lack
                 of creative critique. Desire for mass is accepted as common
@@ -269,8 +269,7 @@ This document was converted from **01_Political_Theory/Articles/The End of Arrog
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library/01_Political_Theory_Articles_The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library/01_Political_Theory_Articles_The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

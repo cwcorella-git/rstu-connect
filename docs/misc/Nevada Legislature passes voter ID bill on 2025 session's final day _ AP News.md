@@ -72,8 +72,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...                     
 
 
 1 of 7                                                                                                                                                   8/7/25, 1:33 PM
-```
-
+
 ---
 
 ## Page 2
@@ -108,8 +107,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
 
 2 of 7                                                                                                 8/7/25, 1:33 PM
-```
-
+
 ---
 
 ## Page 3
@@ -144,8 +142,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
 
 3 of 7                                                                                                 8/7/25, 1:33 PM
-```
-
+
 ---
 
 ## Page 4
@@ -195,8 +192,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
 
 4 of 7                                                                                                 8/7/25, 1:33 PM
-```
-
+
 ---
 
 ## Page 5
@@ -252,8 +248,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com
 
 
 5 of 7                                                                                                 8/7/25, 1:33 PM
-```
-
+
 ---
 
 ## Page 6
@@ -314,8 +309,7 @@ Nevada Legislature passes voter ID bill on 2025 session'...             https://
 
 
 6 of 7                                                                                                           8/7/25, 1:33 PM
-```
-
+
 ---
 
 ## Page 7
@@ -358,7 +352,6 @@ Nevada Legislature passes voter ID bill on 2025 session'...            https://a
 
 
 7 of 7                                                                                                          8/7/25, 1:33 PM
-```
-
+
 ---
 

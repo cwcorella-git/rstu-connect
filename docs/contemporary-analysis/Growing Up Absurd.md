@@ -42,8 +42,7 @@ III. Class Structure
  1.
  2.
  3.
-## ```
-
+## 
 
 4.
  5.
@@ -96,8 +95,7 @@ VIII. An Apparently Closed Room
  1.
  2.
 IX. The Early Resigned
-## ```
-
+## 
 1.
 
 
@@ -154,8 +152,7 @@ Appendices
  APPENDIX E: Review of On The Road
  APPENDIX F: "The Crime of Our Century"
 On Paul Goodman
-## ```
-
+## 
 ## **Preface**
 
 ## **1.**

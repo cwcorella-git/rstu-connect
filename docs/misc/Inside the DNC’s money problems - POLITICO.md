@@ -85,8 +85,7 @@ Inside the DNC’s money problems - POLITICO                            https://
 
 
 1 of 7                                                                                                               9/8/25, 12:18 PM
-```
-
+
 ---
 
 ## Page 2
@@ -139,8 +138,7 @@ Inside the DNC’s money problems - POLITICO                  https://www.politi
 
 
 2 of 7                                                                                              9/8/25, 12:18 PM
-```
-
+
 ---
 
 ## Page 3
@@ -192,8 +190,7 @@ Inside the DNC’s money problems - POLITICO                   https://www.polit
 
 
 3 of 7                                                                                                 9/8/25, 12:18 PM
-```
-
+
 ---
 
 ## Page 4
@@ -247,8 +244,7 @@ Inside the DNC’s money problems - POLITICO                         https://www
 
 
 4 of 7                                                                                                    9/8/25, 12:18 PM
-```
-
+
 ---
 
 ## Page 5
@@ -300,8 +296,7 @@ Inside the DNC’s money problems - POLITICO                    https://www.poli
 
 
 5 of 7                                                                                               9/8/25, 12:18 PM
-```
-
+
 ---
 
 ## Page 6
@@ -372,8 +367,7 @@ Inside the DNC’s money problems - POLITICO                                    
 
 
 6 of 7                                                                                                                                                     9/8/25, 12:18 PM
-```
-
+
 ---
 
 ## Page 7
@@ -436,7 +430,6 @@ Inside the DNC’s money problems - POLITICO                  https://www.politi
 
 
 7 of 7                                                                                             9/8/25, 12:18 PM
-```
-
+
 ---
 

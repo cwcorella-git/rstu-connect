@@ -3343,8 +3343,7 @@ acupuncture, 154
 Adderall
  clients' experiences with, 32, 33, 41–44
  dopamine output effected by, 50
-## ```
-
+## 
 
 increasing rates of prescription of, 39
  questions on efficacy of, 130
@@ -3385,8 +3384,7 @@ alcohol
  and depression, 78–79
  disease burden attributed to, 29
  and disulfiram as means of self-binding, 97–98
-## ```
-
+## 
 
 impact of access on use of, 101
  and naltrexone as means of self-binding, 96
@@ -3427,8 +3425,7 @@ antidepressants
  prevalence of use, 38–39
  tolerance/dependence issues with, 130
 anxiety
-## ```
-
+## 
 
 of author, 189–90
  and cannabis consumption, 76, 81, 84–85
@@ -3468,8 +3465,7 @@ blaming, 191
 blood pressure, 29
 blue-collar jobs, 168–69
 boredom, 41, 105–7
-## ```
-
+## 
 
 brain
  and abundance in modern world, 67
@@ -3509,8 +3505,7 @@ cannabis
  and DOPAMINE framework, 74–75
  and medical marijuana, 114
  and mindfulness, 81
-## ```
-
+## 
 
 objectives of consumers of, 73–74
  potency of, 22
@@ -3551,8 +3546,7 @@ cigarettes and nicotine
  electronic cigarettes/vape pens, 21–22, 113–14
  impact of access on use of, 101
  and Jacob's experience with sex addiction, 13
-## ```
-
+## 
 
 class equality, 30
 classical (Pavlovian) conditioning, 58–62
@@ -3593,8 +3587,7 @@ cues
  associated with drug use, 58
  cue-dependent learning, 58–62
 cutting, addiction to, 167
-## ```
-
+## 
 
 data gathering in DOPAMINE framework, 72–73
 deaths
@@ -3635,8 +3628,7 @@ distractions
 disulfiram as means of self-binding, 97–98
 dogs, pain-response study of, 145–47
 dopamine
-## ```
-
+## 
 
 dopamine receptors, 48, 56, 56
  function of, 48–49
@@ -3677,8 +3669,7 @@ drugs and drug use
 Dunnington, Kent, 2
 Duragesic fentanyl, 18
 Dutto, Vince, 26–27
-## ```
-
+## 
 
 DXM, 22
 dysphoria, 57
@@ -3717,8 +3708,7 @@ female modesty, 112
 fentanyl, 21, 22
 fibromyalgia, 154–55
 Finucane, Tom, 67
-## ```
-
+## 
 
 food
  addiction to, 88, 99–100
@@ -3757,8 +3747,7 @@ Hatcher, Alexandrea, 134
 health care, affordable, 30
 heart rate following pain exposure, 146, 147, 148
 Hebb, Donald, 179
-## ```
-
+## 
 
 hedonic set point, 54, 145
 hedonism, 37, 57
@@ -3799,8 +3788,7 @@ honesty, 171–205
 Honnold, Alex, 159–60, 166–67
 hormesis, science of, 148–52
 hotel rooms, 17–18
-## ```
-
+## 
 
 Hung, Lin, 184
 Huxley, Aldous, 40
@@ -3838,8 +3826,7 @@ Kant, Immanuel, 118
 ketamine, 22, 115
 Kimmel, Jimmy, 150
 Klonopin, 39, 130
-## ```
-
+## 
 
 Koob, George, 57, 101
 Korea, 39
@@ -3878,8 +3865,7 @@ medical marijuana, 114. See also cannabis
 medical practice, modern, 38–39
 medications
  client's experience with, 32–33, 41–44
-## ```
-
+## 
 
 impacts on emotional experience, 131
  and lack of basic self-care mistaken for mental illness, 41–44
@@ -3919,8 +3905,7 @@ naltrexone as means of self-binding, 96–97
 National Center for Health Statistics (CDC), 133
 National Health Interview Survey, 133
 natural resources, 30
-## ```
-
+## 
 
 Netflix, binge-watching, 44
 neuroadaptation (tolerance), 53–58
@@ -3960,8 +3945,7 @@ opioids
  and shrinking of temporal horizons, 103–4
  and tolerance (neuroadaptation), 55
  and willingness to help others, 184
-## ```
-
+## 
 
 See also specific drugs, including heroin
 opponent-process theory, 52–53
@@ -4001,8 +3985,7 @@ pain
  and exposure therapy, 156–59
  and extreme sports, 165–67
  and homeostatic mechanisms, 143–44
-## ```
-
+## 
 
 and hormesis, 148–52
  and increased tolerance to fear, 159–60
@@ -4043,8 +4026,7 @@ pleasure
  inability to enjoy, 57
  neural processing of, 2
  pain experienced with, 65
-## ```
-
+## 
 
 pain's ability to trigger, 144–48
  pursuit of, as source of pain, 66–68, 234
@@ -4085,8 +4067,7 @@ presynaptic neurons, 47–48, 48
 prevention, honesty as means of, 197–204
 Priessnitz, Vincenz, 141–42
 problems in DOPAMINE framework, 74–75
-## ```
-
+## 
 
 Prohibition era, 19
 promises, breaking/keeping, 194–95
@@ -4125,8 +4106,7 @@ responsibility, personal, 186–91
 restraint, symbols of, 116–17
 reward pathways in the brain, 49
  and denial, 177
-## ```
-
+## 
 
 and learning's impact on dopamine firing, 63–64
  and measuring addictive potential of drugs/behaviors, 49
@@ -4166,8 +4146,7 @@ self-binding, 89–118
  chronological strategies for, 101–9
  client's experience with, 89–91
  and creating barriers to drug of choice, 91–92
-## ```
-
+## 
 
 limitations of, 94–95, 113
  and marshmallow experiment at Stanford, 115–16
@@ -4208,8 +4187,7 @@ Silicon Valley, 168
 simple pleasures, taking joy in, 57–58, 234
 Sirens of Homer's Odysseus, 93, 176
 skydiving, 165
-## ```
-
+## 
 
 sleeve gastrectomy, 99
 smartphones
@@ -4249,8 +4227,7 @@ Theory of Sacrifice and Stigma (Iannaconne), 220–21
 time limits. See chronological strategies for self-binding
 tobacco use. See cigarettes and nicotine
 tolerance (neuroadaptation), 53–58
-## ```
-
+## 
 
 trading one addiction for another, 79–80, 99
 transcranial direct current stimulation (tDCS), 178
@@ -4288,8 +4265,7 @@ Winnicott, Donald, 191
 withdrawal
  cautions about life-threatening, 79
  and dopamine fasting, 79, 84
-## ```
-
+## 
 
 and dysphoria driven relapse, 57
  from reading habit, 181
@@ -4304,8 +4280,7 @@ World War II
  atomic blasts in Japan, 149
  wounded soldiers in, 65–66
 Xanax, 22, 39, 79, 129, 130
-## ```
-
+## 
 youth, 75, 79, 151
 
 #### A B C D E F G H I J K L M N O P Q R S T U V W X Y

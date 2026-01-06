@@ -38,16 +38,14 @@ tags:
          jurisdiction shall create an expedited process for aﬀordable housing, and create incentives that encourage aﬀordable
          housing.
                                                                                                                 Return to full list >>
-1 of 1 3/17/25, 11:13 PM ```
-
+1 of 1 3/17/25, 11:13 PM 
 ## Document Summary
 
 This document was converted from **05_Architecture_Urban_Planning/Articles/City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.pdf** containing 1 pages.
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/05_Architecture_Urban_Planning_Articles_City_of_Reno_Launches_Survey_for_Accessory_Dwelling_Units_and_Short-Term_Rentals___Development_Services___City_of_Reno/05_Architecture_Urban_Planning_Articles_City_of_Reno_Launches_Survey_for_Accessory_Dwelling_Units_and_Short-Term_Rentals___Development_Services___City_of_Reno.md" ```
-
+bash claude code "Collections/05_Architecture_Urban_Planning_Articles_City_of_Reno_Launches_Survey_for_Accessory_Dwelling_Units_and_Short-Term_Rentals___Development_Services___City_of_Reno/05_Architecture_Urban_Planning_Articles_City_of_Reno_Launches_Survey_for_Accessory_Dwelling_Units_and_Short-Term_Rentals___Development_Services___City_of_Reno.md" 
 **Library Location:** 05_Architecture_Urban_Planning is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

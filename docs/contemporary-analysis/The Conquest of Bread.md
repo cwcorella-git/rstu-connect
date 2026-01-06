@@ -41,8 +41,7 @@ Chapter 9: The Need For Luxury
  IV
  V
 Chapter 10: Agreeable Work
-## ```
-
+## 
 
 I
  II
@@ -77,8 +76,7 @@ Chapter 17: Agriculture
  V
  VI
  Table 1
-## ```
-
+## 
 ## **Preface**
 
 One of the current objections to Communism and Socialism altogether, is that the idea is so old, and yet it could never be realized. Schemes of ideal States haunted the thinkers of Ancient Greece; later on, the early Christians joined in communist groups; centuries later, large communist brotherhoods came into existence during the Reform movement. Then, the same ideals were revived during the great English and French Revolutions; and finally, quite lately, in 1848, a revolution, inspired to a great extent with Socialist ideals, took place in France. "And yet, you see," we are told, "how far away is still the realization of your schemes. Don't you think that there is some fundamental error in your understanding of human nature and its needs?"

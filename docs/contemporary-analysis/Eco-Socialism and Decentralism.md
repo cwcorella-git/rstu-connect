@@ -106,14 +106,12 @@ Civil authorities have the right and duty to adopt clear and firm measures in su
 
 
 " (79-80) "
-## ```
-
+## 
 In some places, cooperatives are being developed to exploit renewable sources of energy which ensure local self-sufficiency…
 
 
 ." (109) "
-## ```
-
+## 
 New forms of cooperation and community organization can be encouraged in order to defend the interests of small producers and preserve local ecosystems from destruction.
 
 ## " (111)

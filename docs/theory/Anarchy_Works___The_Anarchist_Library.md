@@ -38,7 +38,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
                *****
 
-1 of 338 3/17/25, 5:09 PM ``` Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 338 3/17/25, 5:09 PM  Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                There are hidden stories all around us,
                growing in abandoned villages in the mountains
                or vacant lots in the city,
@@ -4319,8 +4319,7 @@ This document was converted from **01_Political_Theory/Articles/Anarchy Works _ 
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Anarchy_Works___The_Anarchist_Library/01_Political_Theory_Articles_Anarchy_Works___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Anarchy_Works___The_Anarchist_Library/01_Political_Theory_Articles_Anarchy_Works___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

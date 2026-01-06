@@ -34,7 +34,6 @@ Notes from        Educational Material Planning 6/20/25 :
 Check for info:      Reno-Sparks Tenant Union Presentation.pptx
 
 Check media fact sheet for wins from tenants unions
-```
-
+
 ---
 

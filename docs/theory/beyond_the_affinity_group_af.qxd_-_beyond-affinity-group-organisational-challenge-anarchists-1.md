@@ -356,8 +356,7 @@ This document was converted from **01_Political_Theory/Books/beyond_the_affinity
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Books_beyond_the_affinity_group_af.qxd_-_beyond-affinity-group-organisational-challenge-anarchists-1/01_Political_Theory_Books_beyond_the_affinity_group_af.qxd_-_beyond-affinity-group-organisational-challenge-anarchists-1.md" ```
-
+bash claude code "Collections/01_Political_Theory_Books_beyond_the_affinity_group_af.qxd_-_beyond-affinity-group-organisational-challenge-anarchists-1/01_Political_Theory_Books_beyond_the_affinity_group_af.qxd_-_beyond-affinity-group-organisational-challenge-anarchists-1.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

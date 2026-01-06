@@ -22,7 +22,6 @@ title: "RSTU_MovingAssistance_HalfLetter - RSTU_MovingAssistance_HalfLetter"
 ### Extracted Text
 
 
-```
-
+
 ---
 

@@ -37,7 +37,7 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 vote, they normally turn to established parties if only because,
                 as centers of power, they can produce results of sorts in
                 practical matters. If one bothers to vote, most people reason,
-1 of 19 3/17/25, 5:10 PM ``` Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 19 3/17/25, 5:10 PM  Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 why waste a vote on a new marginal organization that has all
                 the characteristics of the major ones and that will eventually
                 become corrupted if it succeeds? Witness the German Greens,
@@ -574,8 +574,7 @@ This document was converted from **01_Political_Theory/Articles/Libertarian Muni
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Libertarian_Municipalism__An_Overview___The_Anarchist_Library/01_Political_Theory_Articles_Libertarian_Municipalism__An_Overview___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Libertarian_Municipalism__An_Overview___The_Anarchist_Library/01_Political_Theory_Articles_Libertarian_Municipalism__An_Overview___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

@@ -2320,8 +2320,7 @@ Dolińska-Ficek and Ozimek v. Poland (nos.
 ––––– "Judgment of 6 July 2023, Tuleya v. 
 Poland, nos. 21181/19 and 51751/20, 
 ––––– "Judgment of 24 October 2023, Pająk
-## ```
-
+## 
 and Others v. Poland, no. 25226/18,
 
 **–––––** "Judgment of 23 November 2023, Wałęsa v. Poland, no. 50849/21.

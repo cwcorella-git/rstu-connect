@@ -67,8 +67,7 @@ tags:
 
 
 
-1 of 12                                                                                      10/18/25, 9:39 PM ```
-
+1 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 2
@@ -115,8 +114,7 @@ tags:
                 policies and lending practices have created and maintained
                 racialized hierarchies. The modern housing market, marrying
 
-2 of 12                                                                                      10/18/25, 9:39 PM ```
-
+2 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 3
@@ -163,8 +161,7 @@ tags:
 
                 Displacement and exploitation have become rampant
 
-3 of 12                                                                                      10/18/25, 9:39 PM ```
-
+3 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 4
@@ -211,8 +208,7 @@ tags:
                 expense. The majority of poor tenant households spend at
 
 
-4 of 12                                                                                      10/18/25, 9:39 PM ```
-
+4 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 5
@@ -259,8 +255,7 @@ tags:
 
                 The tenant union is not a new concept. In fact, the union is one
 
-5 of 12                                                                                      10/18/25, 9:39 PM ```
-
+5 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 6
@@ -307,8 +302,7 @@ tags:
                 This union meets every Tuesday evening in a church
 
 
-6 of 12                                                                                      10/18/25, 9:39 PM ```
-
+6 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 7
@@ -354,8 +348,7 @@ tags:
                 while also nimble enough to assess, rearrange, discard when
 
 
-7 of 12                                                                                      10/18/25, 9:39 PM ```
-
+7 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 8
@@ -402,8 +395,7 @@ tags:
                 negotiable if tenants stand a chance in the face of their
 
 
-8 of 12                                                                                      10/18/25, 9:39 PM ```
-
+8 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 9
@@ -450,8 +442,7 @@ tags:
                 understanding oneself in the world. On the other hand, some
 
 
-9 of 12                                                                                      10/18/25, 9:39 PM ```
-
+9 of 12                                                                                      10/18/25, 9:39 PM 
 ---
 
 ## Page 10
@@ -498,8 +489,7 @@ tags:
                 to distribute warming supplies and collect signatures on a list
 
 
-10 of 12                                                                                     10/18/25, 9:39 PM ```
-
+10 of 12                                                                                     10/18/25, 9:39 PM 
 ---
 
 ## Page 11
@@ -546,8 +536,7 @@ tags:
                 and small actions, and to build durable infrastructure to sustain
 
 
-11 of 12                                                                                     10/18/25, 9:39 PM ```
-
+11 of 12                                                                                     10/18/25, 9:39 PM 
 ---
 
 ## Page 12
@@ -586,7 +575,6 @@ tags:
 
 
 
-12 of 12                                                                                     10/18/25, 9:39 PM ```
-
+12 of 12                                                                                     10/18/25, 9:39 PM 
 ---
 

@@ -12,7 +12,7 @@ tags:
 
 # Origins of the police - David Whitehouse _ libcom.org.pdf
 
-Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse 1 of 39 8/3/25, 11:21 PM ``` ![Figure from page 2](images/page_002_content/img-000.png) Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse 1 of 39 8/3/25, 11:21 PM  ![Figure from page 2](images/page_002_content/img-000.png) Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
                  Excellent text examining the creation of the �rst police forces,
                  which took place in England and the US in just a few decades
                  in the mid-19th century. And explaining that they were not
@@ -1200,8 +1200,7 @@ This document was converted from **01_Political_Theory/Books/Origins of the poli
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Books_Origins_of_the_police_-_David_Whitehouse___libcom.org/01_Political_Theory_Books_Origins_of_the_police_-_David_Whitehouse___libcom.org.md" ```
-
+bash claude code "Collections/01_Political_Theory_Books_Origins_of_the_police_-_David_Whitehouse___libcom.org/01_Political_Theory_Books_Origins_of_the_police_-_David_Whitehouse___libcom.org.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

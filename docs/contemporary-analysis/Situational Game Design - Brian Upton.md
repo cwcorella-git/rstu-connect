@@ -631,8 +631,7 @@ e immediate complexity o a situation is the amount o work the player needs to do
 
 (
 )
-## ```
-
+## 
 #### Complexity
 
 ## −
@@ -992,8 +991,7 @@ Anticipatory Complexity
 - 
 =
 2
-## ```
-
+## 
 ## Anticipation 47
 
 where m is the average number o situations you need to look ahead, and n is the average number o moves per situation.

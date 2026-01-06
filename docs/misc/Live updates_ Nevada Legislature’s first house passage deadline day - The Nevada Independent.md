@@ -82,8 +82,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...            https://
 
 
 1 of 12                                                                                                      8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 2
@@ -144,8 +143,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...            https://
 
 
 2 of 12                                                                                                      8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 3
@@ -207,8 +205,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...         https://the
 
 
 3 of 12                                                                                                    8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 4
@@ -268,8 +265,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...         https://the
 
 
 4 of 12                                                                                                   8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 5
@@ -330,8 +326,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...         https://the
 
 
 5 of 12                                                                                                     8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 6
@@ -393,8 +388,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...         https://the
 
 
 6 of 12                                                                                                    8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 7
@@ -456,8 +450,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...        https://then
 
 
 7 of 12                                                                                                   8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 8
@@ -519,8 +512,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...           https://t
 
 
 8 of 12                                                                                                       8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 9
@@ -580,8 +572,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...           https://t
 
 
 9 of 12                                                                                                      8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 10
@@ -643,8 +634,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...            https://
 
 
 10 of 12                                                                                                      8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 11
@@ -706,8 +696,7 @@ Live updates: Nevada Legislature’s ﬁrst house passage...            https://
 
 
 11 of 12                                                                                                     8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 12
@@ -764,7 +753,6 @@ Live updates: Nevada Legislature’s ﬁrst house passage...          https://th
 
 
 12 of 12                                                                                                   8/7/25, 1:34 PM
-```
-
+
 ---
 

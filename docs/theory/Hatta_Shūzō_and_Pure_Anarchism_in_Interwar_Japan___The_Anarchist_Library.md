@@ -36,7 +36,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 enormously. I also incurred considerable debts to Ōshima
                 Eizaburō and Mihara Yōko. Ōshima-san has spent a small
                 fortune in financing Kokushoku Sensensha’s (the Black
-1 of 298 3/17/25, 5:08 PM ``` Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 298 3/17/25, 5:08 PM  Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Battlefront Company) republication of numerous, otherwise
                 unobtainable, anarchist texts. As one of the few surviving
                 anarchists of the interwar era, he also provides an inspiring link
@@ -8790,8 +8790,7 @@ This document was converted from **01_Political_Theory/Articles/Hatta Shūzō an
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Hatta_Shūzō_and_Pure_Anarchism_in_Interwar_Japan___The_Anarchist_Library/01_Political_Theory_Articles_Hatta_Shūzō_and_Pure_Anarchism_in_Interwar_Japan___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Hatta_Shūzō_and_Pure_Anarchism_in_Interwar_Japan___The_Anarchist_Library/01_Political_Theory_Articles_Hatta_Shūzō_and_Pure_Anarchism_in_Interwar_Japan___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

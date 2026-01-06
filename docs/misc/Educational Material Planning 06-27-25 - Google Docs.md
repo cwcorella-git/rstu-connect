@@ -66,8 +66,7 @@ Status Updates
 - Rough plan: divide information into categories like Habitability, Fees
   (including rent increases), Eviction, etc.
 - Zine vs. long-form
-```
-
+
 ---
 
 ## Page 2
@@ -111,8 +110,7 @@ Status Updates
   communal housing
      - Article written after 50th anniversary of Black Panther Party
         founding (Oakland North)
-```
-
+
 ---
 
 ## Page 3
@@ -157,8 +155,7 @@ Priorities by July 6 tabling
 - How to organize a tenants union mini zine
     - Stacey will help draft
     - Start with 20 & see how that goes
-```
-
+
 ---
 
 ## Page 4
@@ -177,7 +174,6 @@ Priorities by July 6 tabling
 
 Plan Next Meeting
 - July 4 @ 5:00
-```
-
+
 ---
 

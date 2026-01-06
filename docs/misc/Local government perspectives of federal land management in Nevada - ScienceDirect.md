@@ -68,8 +68,7 @@ Local government perspectives of federal land manage...              https://www
 
 
 1 of 6                                                                                                       9/8/25, 12:51 PM
-```
-
+
 ---
 
 ## Page 2
@@ -129,8 +128,7 @@ Local government perspectives of federal land manage...        https://www.scien
 
 
 2 of 6                                                                                                 9/8/25, 12:51 PM
-```
-
+
 ---
 
 ## Page 3
@@ -189,8 +187,7 @@ Local government perspectives of federal land manage...    https://www.sciencedi
 
 
 3 of 6                                                                                             9/8/25, 12:51 PM
-```
-
+
 ---
 
 ## Page 4
@@ -248,8 +245,7 @@ Local government perspectives of federal land manage...      https://www.science
 
 
 4 of 6                                                                                               9/8/25, 12:51 PM
-```
-
+
 ---
 
 ## Page 5
@@ -309,8 +305,7 @@ Local government perspectives of federal land manage...           https://www.sc
 
 
 5 of 6                                                                                                           9/8/25, 12:51 PM
-```
-
+
 ---
 
 ## Page 6
@@ -353,7 +348,6 @@ Local government perspectives of federal land manage...                         
 
 
 6 of 6                                                                                                                                                        9/8/25, 12:51 PM
-```
-
+
 ---
 

@@ -2132,8 +2132,7 @@ A Smartphone Game as an instrument for behavioural change towards sustainable li
 
 
 community
-## ```
-
+## 
 ## World Suck foundation memorialisation
 
 ## 2)
@@ -2668,8 +2667,7 @@ of Reality
 1) Sprite
 (e.g. Androidify/
 -
-## ```
-
+## 
 -
 
 ## ![](_page_177_Figure_0.jpeg)
@@ -3503,8 +3501,7 @@ SS
 C
 gners.
 ter
-## ```
-
+## 
 uch
 
 | (V) |

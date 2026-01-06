@@ -53,8 +53,7 @@ There’s an image been going the rounds of left circles for a while – four id
 
 
 
-The pandemic gave focus and force to a movement against the intensification of work. The four-day week, the 6-hour day, rising complaints about work-life balance and burnout, demands for hybrid work, all threaten employers’ attempts to recoup the financial cost of Covid. For some there has been a reintensification of work after a period of relative ease working from home. For all of us, realities of life before and after the pandemic have given the lie to the tentative freedoms many of us felt and cautiously explored during the lockdown. The significance of the resistance against work discipline could be seen by the slew of articles in the business and right-wing press in the past year condemning an irresponsible and selfish horde of quietly quitting, millennial serial quitters. After the lockdown, there is a swell of feeling for a deintensification of work. ```
-
+The pandemic gave focus and force to a movement against the intensification of work. The four-day week, the 6-hour day, rising complaints about work-life balance and burnout, demands for hybrid work, all threaten employers’ attempts to recoup the financial cost of Covid. For some there has been a reintensification of work after a period of relative ease working from home. For all of us, realities of life before and after the pandemic have given the lie to the tentative freedoms many of us felt and cautiously explored during the lockdown. The significance of the resistance against work discipline could be seen by the slew of articles in the business and right-wing press in the past year condemning an irresponsible and selfish horde of quietly quitting, millennial serial quitters. After the lockdown, there is a swell of feeling for a deintensification of work. 
 ---
 
 ## Page 2
@@ -80,8 +79,7 @@ The hashtag #generalstrike is over-optimistic and workers’ self-management is 
 
 
 
-If the strikes win, they will lead to a new round of maneuvers as capital accommodates to the cost. Employers’ losses to pay rises can be reabsorbed by capital, but demands for the deintensification of work are not so easy for capital to accommodate. There have been some gains, and workers getting pay rises and workers showing solidarity for each other is a wonderful thing to see and part of. But the present moment is about more than only pay rises. The price of goods is based on struggles over the price of labour, and the cost-of-living crisis is both capital’s response to the cost of Covid and to the rise of anti-work sentiment. For the first time ideas around the abolition of work are in the mainstream. Workers want more of the freedoms they saw revealed during the pandemic – including essential workers who saw others enjoying those freedoms but were unable to themselves – when a portal briefly ```
-
+If the strikes win, they will lead to a new round of maneuvers as capital accommodates to the cost. Employers’ losses to pay rises can be reabsorbed by capital, but demands for the deintensification of work are not so easy for capital to accommodate. There have been some gains, and workers getting pay rises and workers showing solidarity for each other is a wonderful thing to see and part of. But the present moment is about more than only pay rises. The price of goods is based on struggles over the price of labour, and the cost-of-living crisis is both capital’s response to the cost of Covid and to the rise of anti-work sentiment. For the first time ideas around the abolition of work are in the mainstream. Workers want more of the freedoms they saw revealed during the pandemic – including essential workers who saw others enjoying those freedoms but were unable to themselves – when a portal briefly 
 ---
 
 ## Page 3
@@ -107,8 +105,7 @@ It may be that resistance to the Minimum Service Bill will see ‘
 
 
 
-passengers, staff and all workers across the country’ ```
-
+passengers, staff and all workers across the country’ 
 ---
 
 ## Page 4
@@ -154,8 +151,7 @@ Creative workers find alternatives to striking
 
 
 
-Disclaimer: ```
-
+Disclaimer: 
 ---
 
 ## Page 5

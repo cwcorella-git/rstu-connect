@@ -166,8 +166,7 @@ No matter what shape they take, relationships need honesty and trust and love. I
 
 
 [1] bell hooks – "All About Love"
-## ```
-
+## 
 [<sup>\[2\]</sup>](#page-1-0) Gabor Maté – "The Myth of Normal"
 
 [<sup>\[3\]</sup>](#page-1-1) Sándor Ferenczi quoted in "Coming to Our Senses"

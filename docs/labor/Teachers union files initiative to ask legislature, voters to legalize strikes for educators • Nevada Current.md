@@ -69,8 +69,7 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
 
 
 1 of 4                                                                                                                                4/23/25, 5:46 AM
-```
-
+
 ---
 
 ## Page 2
@@ -124,8 +123,7 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
 
 
 2 of 4                                                                                                                                 4/23/25, 5:46 AM
-```
-
+
 ---
 
 ## Page 3
@@ -178,8 +176,7 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
 
 
 3 of 4                                                                                                                                  4/23/25, 5:46 AM
-```
-
+
 ---
 
 ## Page 4
@@ -206,7 +203,6 @@ Teachers union ﬁles initiative to ask legislature, voters to legalize strikes 
 
 
 4 of 4                                                                                                                                 4/23/25, 5:46 AM
-```
-
+
 ---
 

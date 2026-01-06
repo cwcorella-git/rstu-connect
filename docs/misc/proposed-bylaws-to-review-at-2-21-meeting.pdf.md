@@ -59,8 +59,7 @@ tenants union can reach out to as needed. Committees should report back to gener
 membership on their progress or planned actions. If a committee is disbanded, membership
 should be informed at a general meeting.
    ● A list of current committees and contact people will be maintained in the shared drive.
-```
-
+
 ---
 
 ## Page 2
@@ -111,7 +110,6 @@ name, email, phone number, and preferred language/method of contact.
 Good Standing
 A member in good standing is a voting member who has attended at least 3 meetings in a 6
 month period. Committee meetings may be substituted for general meetings.
-```
-
+
 ---
 

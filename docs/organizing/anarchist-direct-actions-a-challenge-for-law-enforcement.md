@@ -30,6 +30,5 @@ title: "Anarchist Direct Actions A Challenge for Law Enforcement"
 
 
 
-A 2004 article written from an academic/police perspective, which "provides a descriptive, operational analysis of the modern anarchist movement, emphasizing the actions of the criminal anarchists and implications for US law enforcement." ```
-
+A 2004 article written from an academic/police perspective, which "provides a descriptive, operational analysis of the modern anarchist movement, emphasizing the actions of the criminal anarchists and implications for US law enforcement." 
 ---

@@ -22,7 +22,7 @@ tags:
          Rents have increased in 12 of the last 14 quarters since 2019 — 10 of which were record
          highs.
                   Reno No. 1 among cities with highest rate of home price reductions
-1 of 6 7/4/25, 1:48 PM ``` Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-...
+1 of 6 7/4/25, 1:48 PM  Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-...
          A second report from the Nevada State Apartment Association, meanwhile, saw average rent
          in Reno-Sparks reach $1,550 for the same period. The rent is also the highest ever reported
          by the apartment association for Reno-Sparks, although still lower than the national average
@@ -119,8 +119,7 @@ This document was converted from **05_Architecture_Urban_Planning/Articles/Reno-
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high.md" ```
-
+bash claude code "Collections/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high.md" 
 **Library Location:** 05_Architecture_Urban_Planning is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

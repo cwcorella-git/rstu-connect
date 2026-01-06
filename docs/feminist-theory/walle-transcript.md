@@ -2034,8 +2034,7 @@ Eve and Wall-E look at each other. Gopher? They watch from the shadows as...
 
 
  ...emits his suspension beam...
-## ```
-
+## 
 ...and deposits the PLANT.
 
 ### **EVE**

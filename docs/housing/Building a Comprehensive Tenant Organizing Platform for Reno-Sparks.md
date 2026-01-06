@@ -63,8 +63,7 @@ residency while preventing landlords from identifying specific participants. Wil
 approach, combined with time-locked membership progression and community-based verification
 where existing tenants vouch for new members, creates robust anti-infiltration measures without
 sacrificing usability.
-```
-
+
 ---
 
 ## Page 2
@@ -113,8 +112,7 @@ dues rather than grant dependency. Their "eviction resistance bootcamps" and dir
 coordination tools show how digital platforms must support physical organizing. Acorninternational The
 LA Tenants Union's commitment to bilingual operations from inception, not as an afterthought, proves
 essential for inclusive organizing in diverse communities like Reno-Sparks. Latenantsunion   latenantsunion
-```
-
+
 ---
 
 ## Page 3
@@ -165,8 +163,7 @@ rights information. Add Signal integration guidelines and security tutorials. In
 additional cost: $30/month for API usage at modest scale.
 
 Phase 3: Advanced Capabilities (Weeks 9-12)
-```
-
+
 ---
 
 ## Page 4
@@ -213,8 +210,7 @@ immediate partnership potential. NYC Public Advocate The platform should integra
 legal services, share aggregated data on tenant outcomes, and coordinate eviction defense campaigns.
 Joint grant applications can fund platform development while maintaining tenant organization
 independence.
-```
-
+
 ---
 
 ## Page 5
@@ -248,7 +244,6 @@ protections and accessible property data systems, the Reno-Sparks Tenants Union 
 exceptional conditions for launching this transformative organizing tool. Nevada Legislature The 10-12
 week implementation timeline and sub-$200 annual operating costs make this vision immediately
 achievable, with clear paths for expansion across Nevada's distinct rental markets.
-```
-
+
 ---
 

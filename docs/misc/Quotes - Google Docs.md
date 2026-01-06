@@ -54,8 +54,7 @@ Abolish Rent
     which drives millions into debt and despair and onto the streets. From the
     perspective of tenants, the answer to the housing crisis is as simple as it is
     revolutionary: a world without landlords and a world without rent.” p. 29
-```
-
+
 ---
 
 ## Page 2
@@ -96,8 +95,7 @@ We believe that if the landlords will not give decent housing to our Black and
 oppressed communities, then the housing and the land should be made into
 cooperatives so that the people in our communities, with government aid, can
 build and make decent housing for the people.
-```
-
+
 ---
 
 ## Page 3
@@ -142,8 +140,7 @@ to the people at once!
 medical care, free education, free media, EVERYTHING FREE FOR EVERYBODY!
 
 1 and 3 also seem somewhat relevant
-```
-
+
 ---
 
 ## Page 4
@@ -154,7 +151,6 @@ medical care, free education, free media, EVERYTHING FREE FOR EVERYBODY!
 ### Extracted Text
 
 
-```
-
+
 ---
 

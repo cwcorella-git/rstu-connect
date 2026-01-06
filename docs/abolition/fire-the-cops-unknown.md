@@ -91,8 +91,7 @@ found to have expired at the time that this digital edition was being
 
 prepared have been preserved but deactivated, and indicated as
 
-expired. ```
-
+expired. 
 ---
 
 ## Page 3
@@ -177,8 +176,7 @@ cooking for Food Not Bombs, and petitioning for a ballot initiative to raise
 
 the   minimum         wage.    But   I    was   beginning       to   wonder    about     how   such
 
-activities were supposed to add up to a movement, much less a revolution. I ```
-
+activities were supposed to add up to a movement, much less a revolution. I 
 ---
 
 ## Page 5
@@ -254,8 +252,7 @@ surrounded by police. They opened the sliding door and immediately struck
 
 me on the shins with a nightstick. They grabbed me by the shoulders and
 
-hair, and threw me to the pavement. The others were also pulled out, and ```
-
+hair, and threw me to the pavement. The others were also pulled out, and 
 ---
 
 ## Page 6
@@ -331,8 +328,7 @@ been sued and reached an agreement limiting their intelligence operations.
 
 Similar measures were put in place in cities throughout the country, part of
 
-the society-wide housecleaning after Watergate. In Chicago, the cops had ```
-
+the society-wide housecleaning after Watergate. In Chicago, the cops had 
 ---
 
 ## Page 7
@@ -407,8 +403,7 @@ violence    at    the   WTO     protests       in   Seattle,    interviewing    
 
 photographing injuries, and collecting rubber bullets. The following year, I
 
-helped draft a ballot initiative to overhaul Portland’s review board. ```
-
+helped draft a ballot initiative to overhaul Portland’s review board. 
 ---
 
 ## Page 8
@@ -485,8 +480,7 @@ intelligence operations. I finished that, and put it on the shelf in August
 
 2001; the events of the following month meant that I would have to expand
 
-it considerably. That was my first setback. Then, about a year after starting ```
-
+it considerably. That was my first setback. Then, about a year after starting 
 ---
 
 ## Page 9
@@ -563,8 +557,7 @@ use of the police to maintain white supremacy, from enforcing Slave Codes,
 
 to attacking the civil rights movement, to racial profiling. I detail the cops’
 
-defense of capitalism and their preservation of the class system, both their ```
-
+defense of capitalism and their preservation of the class system, both their 
 ---
 
 ## Page 10
@@ -641,8 +634,7 @@ suspected it made me a crack-pot. But, it’s where the evidence led me, and I
 
 couldn’t back away from the conclusion. Now, a decade later, it’s become
 
-increasingly    common          in   the   military    literature   to   discuss   community ```
-
+increasingly    common          in   the   military    literature   to   discuss   community 
 ---
 
 ## Page 11
@@ -722,8 +714,7 @@ In 2003, in the midst of my work on Our Enemies in Blue, several of us left
 
 Portland Copwatch to form a new organization, Rose City Copwatch. We
 
-specifically      wanted         to   take   the   work    in    a   more     abolitionist    and     more ```
-
+specifically      wanted         to   take   the   work    in    a   more     abolitionist    and     more 
 ---
 
 ## Page 12
@@ -801,8 +792,7 @@ years. I revise and update some of my arguments from Enemies, and I do so
 
 largely    based      on   my   experiences   with     Copwatch,    and      driven   by   the
 
-questions and the challenges posed by my comrades. Much of the reporting, ```
-
+questions and the challenges posed by my comrades. Much of the reporting, 
 ---
 
 ## Page 13
@@ -879,8 +869,7 @@ December 2013
 
 
 
-ENDNOTES ```
-
+ENDNOTES 
 ---
 
 ## Page 14
@@ -955,8 +944,7 @@ https://rosecitycopwatch.wordpress.com/alternatives-to-police/.
 
 Portland Tribune, February 19, 2004; and, [Editorial Staff], “Rogue of the
 
-Week: Portland’s Crazed Leftists,” Willamette Week, April 14, 2004. ```
-
+Week: Portland’s Crazed Leftists,” Willamette Week, April 14, 2004. 
 ---
 
 ## Page 15
@@ -971,8 +959,7 @@ Week: Portland’s Crazed Leftists,” Willamette Week, April 14, 2004. ```
 https://rosecitycopwatch.wordpress.com, December 6, 2012.
 
 
-14 See the following Reader’s Guide. ```
-
+14 See the following Reader’s Guide. 
 ---
 
 ## Page 16
@@ -1043,8 +1030,7 @@ Counterinsurgency           Chapter Nine:
 
 Part Four:                  Afterword:
 
-Fighting Back               Making Police Obsolete ```
-
+Fighting Back               Making Police Obsolete 
 ---
 
 ## Page 17
@@ -1057,8 +1043,7 @@ Fighting Back               Making Police Obsolete ```
 
        Part One:
 
-The Violence of Policing ```
-
+The Violence of Policing 
 ---
 
 ## Page 18
@@ -1130,8 +1115,7 @@ officers are exonerated? How will they react?”
 
 To find the answer, I bypassed the official leadership and went to the scene
 
-of the crime. I visited the Lucky Day Laundromat, where an extensive ```
-
+of the crime. I visited the Lucky Day Laundromat, where an extensive 
 ---
 
 ## Page 19
@@ -1280,8 +1264,7 @@ important than what people believe the facts to be.
 
 I’ll give you an example: The coroner’s report cites very high levels of
 
-cocaine in Perez’s system, plus bags of “apparent drug material” found in ```
-
+cocaine in Perez’s system, plus bags of “apparent drug material” found in 
 ---
 
 ## Page 21
@@ -1358,8 +1341,7 @@ in protest, people of all races.
 
 The Kendra James shooting and resulting protests specifically helped
 
-cement a bond between prominent members of the black community and ```
-
+cement a bond between prominent members of the black community and 
 ---
 
 ## Page 22
@@ -1430,8 +1412,7 @@ exonerated, and the public at large wanted him fired. The chief was left
 
 without support and the mayor demanded his resignation. Kroeker went on
 
-to head the UN police mission in Liberia, and Assistant Chief Derrick ```
-
+to head the UN police mission in Liberia, and Assistant Chief Derrick 
 ---
 
 ## Page 23
@@ -1505,8 +1486,7 @@ a city that the 2000 census registers as 77.9% white.
 
 The fact that both Kendra James and James Perez were killed during
 
-traffic stops may also be significant. According to the police bureau’s own ```
-
+traffic stops may also be significant. According to the police bureau’s own 
 ---
 
 ## Page 24
@@ -1580,8 +1560,7 @@ McCollister’s was.”
 
 On April 4, just a week after the killing, I attended a rally sponsored by the
 
-Coalition   of    Black       Men.         After   talking     to   people   in   the    Saint      Johns ```
-
+Coalition   of    Black       Men.         After   talking     to   people   in   the    Saint      Johns 
 ---
 
 ## Page 25
@@ -1654,8 +1633,7 @@ anticlimactic.   The   relative   calm   is   hard   to    interpret,   though  
 
 hypotheses   are   available.     Some    credit     the   ministers     for   emphasizing
 
-nonviolence. Others blame the police, for creating a climate where people ```
-
+nonviolence. Others blame the police, for creating a climate where people 
 ---
 
 ## Page 26
@@ -1734,8 +1712,7 @@ ENDNOTES
 
 15 A shorter version of this essay appeared as “Portland’s Killer Cops: The
 
-War at Home, Oregon Sector,” Counterpunch, April 16–31, 2004; updated ```
-
+War at Home, Oregon Sector,” Counterpunch, April 16–31, 2004; updated 
 ---
 
 ## Page 27
@@ -1809,8 +1786,7 @@ Oregonian, July 15, 2012.
 
 25 Police Chief Derrick Foxworth eventually released a report finding that
 
-“the use of deadly force and the use of the Taser were within current ```
-
+“the use of deadly force and the use of the Taser were within current 
 ---
 
 ## Page 28
@@ -1834,8 +1810,7 @@ become a teacher. In 2008, however, Sery returned to law enforcement,
 
 becoming a cop in nearby Beaverton. David R. Anderson, “Officer Who
 
-Killed Motorist Gets New Police Job,” Oregonian, January 16, 2008. ```
-
+Killed Motorist Gets New Police Job,” Oregonian, January 16, 2008. 
 ---
 
 ## Page 29
@@ -1908,8 +1883,7 @@ response.
 OAKLAND: EXCEPTIONAL SYMBOLS
 
 
-The West Coast policing crisis is now well into its second year. ```
-
+The West Coast policing crisis is now well into its second year. 
 ---
 
 ## Page 30
@@ -1987,8 +1961,7 @@ In a way, the chain of events began on November 29, 2008, when King
 
 County Deputy Paul Schene beat a teenaged girl in a holding cell. The
 
-following February, the deputy was charged with assault and a videotape of ```
-
+following February, the deputy was charged with assault and a videotape of 
 ---
 
 ## Page 31
@@ -2066,8 +2039,7 @@ You feel me?”         The victim was later released without charges.
 
 The second incident came two months later, in June. A white Seattle cop,
 
-Ian Walsh, was filmed hitting a black teenaged girl. The incident began as ```
-
+Ian Walsh, was filmed hitting a black teenaged girl. The incident began as 
 ---
 
 ## Page 32
@@ -2145,8 +2117,7 @@ when the subject is an individual of color, disabled, homeless or, otherwise
 ‘different.’ We fear that the drive for so-called ‘civility’ laws has created a
 
                                                                                   39
-mindset that our streets need to be rid of ‘undesirable’ people.” ```
-
+mindset that our streets need to be rid of ‘undesirable’ people.” 
 ---
 
 ## Page 33
@@ -2224,8 +2195,7 @@ down.”
 
 Meanwhile, in the nearby city of Everett an older drama drew to a close.
 
-In June 2009, Officer Troy Meade shot a DUI suspect seven times as the ```
-
+In June 2009, Officer Troy Meade shot a DUI suspect seven times as the 
 ---
 
 ## Page 34
@@ -2303,8 +2273,7 @@ streets and some minor property damage.
 
 As the weeks went on, resistance took several forms: community forums,
 
-leafleting,   street-corner   demonstrations,   copwatch   patrols,   and—with ```
-
+leafleting,   street-corner   demonstrations,   copwatch   patrols,   and—with 
 ---
 
 ## Page 35
@@ -2381,8 +2350,7 @@ and sacrifice. For instance, Sergeants Mark Dunakin, Ervin Romans, and
 
 Daniel Sakai, and Officer John Hege—the cops Lovelle Mixon killed—were
 
-honored as “fallen heroes” by the U.S. House of Representatives; both of ```
-
+honored as “fallen heroes” by the U.S. House of Representatives; both of 
 ---
 
 ## Page 36
@@ -2459,8 +2427,7 @@ Those who seek to justify police violence offer a picture in which heroic
 
 officers put themselves in harm’s way, regularly facing down heavily armed
 
-and violent criminals while rarely resorting to force themselves. You’ve ```
-
+and violent criminals while rarely resorting to force themselves. You’ve 
 ---
 
 ## Page 37
@@ -2538,8 +2505,7 @@ assaults (27.4%) resulted in injury to the officer.
 
 Comparing the numbers we see that the police use violence (546,000
 
-times in 2005) nine times as often as they face it (57,546 times that same ```
-
+times in 2005) nine times as often as they face it (57,546 times that same 
 ---
 
 ## Page 38
@@ -2615,8 +2581,7 @@ killed.
 
 
 
-A CRISIS OF LEGITIMACY ```
-
+A CRISIS OF LEGITIMACY 
 ---
 
 ## Page 39
@@ -2692,8 +2657,7 @@ at least some (small) changes.
 
 
 
-RADICAL IMPERATIVES ```
-
+RADICAL IMPERATIVES 
 ---
 
 ## Page 40
@@ -2770,8 +2734,7 @@ that means broadening, deepening, and extending the crisis. Such an effort
 
 requires that we add to public distrust of the police and undercut public
 
-support. We have to be radical in our approach to each side of this equation ```
-
+support. We have to be radical in our approach to each side of this equation 
 ---
 
 ## Page 41
@@ -2847,8 +2810,7 @@ forces the left to seek out and prioritize a few idealized “innocent victims.�
 
 By omission, this legalistic (or moralistic) approach seems to justify the
 
-police use of force so long as it is not, by the state’s standards, “excessive.” ```
-
+police use of force so long as it is not, by the state’s standards, “excessive.” 
 ---
 
 ## Page 42
@@ -2924,8 +2886,7 @@ prominently,     in   Oakland,     the    International       People’s    Demo
 
 Movement organized a vigil and march in memory of Lovelle Mixon,
 
-comparing him to “Nat Turner and Gabriel Prosser, enslaved Africans once ```
-
+comparing him to “Nat Turner and Gabriel Prosser, enslaved Africans once 
 ---
 
 ## Page 43
@@ -3004,8 +2965,7 @@ tasers and affirming the right to self-defense against police brutality. They
 
 then point out that Keaton Otis “was a young African-American man
 
-suffering from mental health issues in a city where people in either one of ```
-
+suffering from mental health issues in a city where people in either one of 
 ---
 
 ## Page 44
@@ -3081,8 +3041,7 @@ Seattle Times, February 16, 2010.
 
 34 Jonathan Martin, “Accused Cop Killer Rants at Hearing: ‘We Will
 
-Fight’,” Seattle Times, June 5, 2010. ```
-
+Fight’,” Seattle Times, June 5, 2010. 
 ---
 
 ## Page 45
@@ -3228,8 +3187,7 @@ Commerce, U.S. Census Bureau, The American Community—Blacks, 2004
 
 (U.S. Department of Justice, Bureau of Justice Statistics: March 2001), 1
 
-and 19. ```
-
+and 19. 
 ---
 
 ## Page 47
@@ -3285,8 +3243,7 @@ keaton-otis-did-not-have-to-die
 
 63 “Portland Copwatch Raises Concerns About Keaton Otis Grand Jury,”
 
-Portland Observer, May 26, 2010; http://portlandobserver.com/?p=2703 ```
-
+Portland Observer, May 26, 2010; http://portlandobserver.com/?p=2703 
 ---
 
 ## Page 48
@@ -3362,8 +3319,7 @@ enforcement of such laws comes very close to criminalizing poverty per se.
 In this case, moreover, the accusation was merely an excuse for what
 
                                                                              69
-Commander Donna Henderson later termed a “pretext stop.”                           In other ```
-
+Commander Donna Henderson later termed a “pretext stop.”                           In other 
 ---
 
 ## Page 49
@@ -3439,8 +3395,7 @@ him over.”
 
 Again,      we   see   police   policies   unfold   in   ways    that   are   not   only
 
-discriminatory, but deadly. ```
-
+discriminatory, but deadly. 
 ---
 
 ## Page 50
@@ -3516,8 +3471,7 @@ Bushong—the Sit-Lie law was replaced in 2010 with a new Sidewalk
                            82
 Management Plan.                The new version does not ban sitting outright, but in
 
-selected    commercial          districts   it   requires    at   least   six   feet    of    clearance ```
-
+selected    commercial          districts   it   requires    at   least   six   feet    of    clearance 
 ---
 
 ## Page 51
@@ -3594,8 +3548,7 @@ leases   sworn    officers   from       the   Police   Bureau.        According 
 
 company’s website, “PPI has the honor of being the only private security
 
-agency in the country to have four full-time police officers housed out of a ```
-
+agency in the country to have four full-time police officers housed out of a 
 ---
 
 ## Page 52
@@ -3672,8 +3625,7 @@ list of persistent low-level offenders to be singled out for special attention�
 
 surveillance,     enforcement,    and    felony    prosecution,     plus,    as   a    salve   to
 
-Portland’s   liberal     conscience,    special    access    to   services    like     housing ```
-
+Portland’s   liberal     conscience,    special    access    to   services    like     housing 
 ---
 
 ## Page 53
@@ -3829,8 +3781,7 @@ Week, November 1, 2006.
 
 September 11, 2008; Maxine Bernstein, “Attorneys for James Chasse’s
 
-Family Argue that Portland Police Coverup Led to Chasse’s Death,” ```
-
+Family Argue that Portland Police Coverup Led to Chasse’s Death,” 
 ---
 
 ## Page 55
@@ -3906,8 +3857,7 @@ Ryan Foote, Taped Statement Transcription,” May 13, 2010, page 3;
 
 http://www.mentalhealthportland.org/wp-content/uploads/2010/06/6-
 
-Officer-Ryan-Foote.pdf ```
-
+Officer-Ryan-Foote.pdf 
 ---
 
 ## Page 56
@@ -3980,8 +3930,7 @@ Panhandlers,” Oregonian, March 24, 2010.
 
 84 Michelle Martin, “A Message from the Chair,” BID News, April–May
 
-2010; ```
-
+2010; 
 ---
 
 ## Page 57
@@ -4056,8 +4005,7 @@ oid=780773&category=22101
 
 95 Portland Police Bureau, Community Relations Report 2009 (Portland,
 
-Oregon: 2009), 17 and 21; ```
-
+Oregon: 2009), 17 and 21; 
 ---
 
 ## Page 58
@@ -4108,8 +4056,7 @@ http://wweek.com/portland/blog-5216-
 chief_rosie_sizer_on_profiling_it_is_a_legitimate_issue.html
 
 
-100 Bernstein, “Attorneys for James Chasse’s Family.” ```
-
+100 Bernstein, “Attorneys for James Chasse’s Family.” 
 ---
 
 ## Page 59
@@ -4122,8 +4069,7 @@ chief_rosie_sizer_on_profiling_it_is_a_legitimate_issue.html
 
       Part Two:
 
-Cops and Class Conflict ```
-
+Cops and Class Conflict 
 ---
 
 ## Page 60
@@ -4196,8 +4142,7 @@ student. The Oregonian reported on it, because it was one of a string of
 
 cases where people who had had force used against them were brought up
 
-on charges and acquitted. The jurors just didn’t believe the police. ```
-
+on charges and acquitted. The jurors just didn’t believe the police. 
 ---
 
 ## Page 61
@@ -4270,8 +4215,7 @@ Humphreys.” I mean, that’s sort of shocking—although it’s only shocking
 
 when you don’t see the pattern. Because, in fact, police almost always
 
-support one another strongly. ```
-
+support one another strongly. 
 ---
 
 ## Page 62
@@ -4346,8 +4290,7 @@ somehow       justifies   the   violence   they    use,   even   though,   looki
 
 numbers, most of the violence they use would have to be characterized as
 
-offensive. ```
-
+offensive. 
 ---
 
 ## Page 63
@@ -4422,8 +4365,7 @@ it seriously if they show up in a reporter’s office looking like they’ve bee
 
 beaten up. Relatively powerless people have less recourse. In that second
 
-situation, the cops are not only under pressure to assert their authority and ```
-
+situation, the cops are not only under pressure to assert their authority and 
 ---
 
 ## Page 64
@@ -4499,8 +4441,7 @@ Irish being the most famous example—had different standards. And the elite
 
 used this new tool that they had, the police force, to impose their standards
 
-on the working population. So things like drinking in public and the whole ```
-
+on the working population. So things like drinking in public and the whole 
 ---
 
 ## Page 65
@@ -4575,8 +4516,7 @@ ENDNOTES
 
 Hour, KBOO 90.7 fm, December 28, 2009; http://kboo.fm/node/18453;
 
-printed: Bill Resnick, “Police Violence and Class Conflict: An Interview ```
-
+printed: Bill Resnick, “Police Violence and Class Conflict: An Interview 
 ---
 
 ## Page 66
@@ -4588,8 +4528,7 @@ printed: Bill Resnick, “Police Violence and Class Conflict: An Interview ```
 
 
 
-been edited for length and clarity. ```
-
+been edited for length and clarity. 
 ---
 
 ## Page 67
@@ -4661,8 +4600,7 @@ leaving dead possums on their doorsteps.
 
 The interests the Police Association defends are the interests the police
 
-defend. Cops are the hired guns of capitalism and the protectors of white ```
-
+defend. Cops are the hired guns of capitalism and the protectors of white 
 ---
 
 ## Page 68
@@ -4726,8 +4664,7 @@ Law,” Oregonian, April 10, 2008.
 106 Demsky, “Why Did James Chasse Jr. Die?”
 
 
-107 Bernstein, “Long Blue Line Walks in Protest.” ```
-
+107 Bernstein, “Long Blue Line Walks in Protest.” 
 ---
 
 ## Page 69
@@ -4801,8 +4738,7 @@ the protest sign that I made … That’s my job.”
 
 Fuller is not the first officer to experience this ambivalence. The police,
 
-whose job consists in large part of controlling the working class and ```
-
+whose job consists in large part of controlling the working class and 
 ---
 
 ## Page 70
@@ -4878,8 +4814,7 @@ Pawtucket openly sided with the striking workers, and the police did almost
 
 nothing to impede their activities. That same year, in New Orleans, the
 
-police didn’t just stand aside, but actually attacked the scabs, arresting them ```
-
+police didn’t just stand aside, but actually attacked the scabs, arresting them 
 ---
 
 ## Page 71
@@ -4954,8 +4889,7 @@ However,      there      have   also    been   times       when   the     police
 
 initiative    in    supporting         strikers,     disobeying     orders        and    even    facing
 
-discipline. ```
-
+discipline. 
 ---
 
 ## Page 72
@@ -5031,8 +4965,7 @@ In    his   book    Policing   a    Class   Society,   Sidney    Harring      ci
 
 mechanisms that serve to maintain the obedience of the police during
 
-strikes. These include racism and ethnic divisions, disdain for unskilled or ```
-
+strikes. These include racism and ethnic divisions, disdain for unskilled or 
 ---
 
 ## Page 73
@@ -5108,8 +5041,7 @@ fee of one dollar per officer. In 1905, following the Great Anthracite Strike,
 
 this private army was first supplemented and eventually replaced by the first
 
-modern state police force, the Pennsylvania State Constabulary. ```
-
+modern state police force, the Pennsylvania State Constabulary. 
 ---
 
 ## Page 74
@@ -5185,8 +5117,7 @@ Association in order to undercut a union drive sponsored by the American
 
 Federation of Labor. Likewise, in New York, facing union-friendly court
 
-rulings    and    a    Teamsters    organizing      campaign,       administrators     opted    to ```
-
+rulings    and    a    Teamsters    organizing      campaign,       administrators     opted    to 
 ---
 
 ## Page 75
@@ -5260,8 +5191,7 @@ In broad terms, the police agenda has been right-wing—suspicious of
 
 social change, intolerant of disorder, hostile to individual or civil rights,
 
-punitive in its response to crime, and quick to justify the use of force. But as ```
-
+punitive in its response to crime, and quick to justify the use of force. But as 
 ---
 
 ## Page 76
@@ -5339,8 +5269,7 @@ This article ran with a selected bibliography, which it has not proved
 
 practical to convert into itemized endnotes. The complete list of sources
 
-follows: ```
-
+follows: 
 ---
 
 ## Page 77
@@ -5408,8 +5337,7 @@ Stephen H. Norwood, Strikebreaking and Intimidation: Mercenaries and
 
 Masculinity in Twentieth-Century America (Chapel Hill: University of
 
-North Carolina Press, 2002). ```
-
+North Carolina Press, 2002). 
 ---
 
 ## Page 78
@@ -5474,8 +5402,7 @@ ENDNOTES
 
 
 
-108 From Dollars and Sense, September/October 2011. ```
-
+108 From Dollars and Sense, September/October 2011. 
 ---
 
 ## Page 79
@@ -5549,8 +5476,7 @@ have pushed a slogan that “Police are part of the 99%.”                   Ye
 
 city, the cops responded to the peaceful encampments with violence.
 
-And that is, of course, exactly what we should have expected. ```
-
+And that is, of course, exactly what we should have expected. 
 ---
 
 ## Page 80
@@ -5628,8 +5554,7 @@ since the whole idea is to make money, they close up shop and we lose our
 jobs. Or—as has been happening lately—the government just gives the
 
                                                                            115
-capitalists money and maybe (but only maybe) we keep our jobs. ```
-
+capitalists money and maybe (but only maybe) we keep our jobs. 
 ---
 
 ## Page 81
@@ -5707,8 +5632,7 @@ It is no surprise, then, that collective action intended to address these
 
 social inequalities is met with police repression. The cops, historically, have
 
-been    the     enemies   of   both     the   labor    movement      and    the   civil    rights ```
-
+been    the     enemies   of   both     the   labor    movement      and    the   civil    rights 
 ---
 
 ## Page 82
@@ -5784,8 +5708,7 @@ collective bargaining and other municipal employees gained the right to
 
 organize, police commanders very cannily opened an avenue that would
 
-simultaneously allow for negotiation and avoid the dangers of police joining ```
-
+simultaneously allow for negotiation and avoid the dangers of police joining 
 ---
 
 ## Page 83
@@ -5858,8 +5781,7 @@ good reason to mistrust people who try to align with the cops.
 
 identify with the workers, good. To the degree that the workers identify with
 
-the cops, bad. ```
-
+the cops, bad. 
 ---
 
 ## Page 84
@@ -5938,8 +5860,7 @@ demonstrations. Rather than prohibit them, the cops sought to regulate them
 
 through    permit          requirements         and    agreements        with   responsible   protest
 
-leaders. The cops would allow demonstrations, and even accommodate ```
-
+leaders. The cops would allow demonstrations, and even accommodate 
 ---
 
 ## Page 85
@@ -6015,8 +5936,7 @@ be tolerated precisely because it presented no challenge.
 
 
 
-TOWARD STRATEGIC INCAPACITATION ```
-
+TOWARD STRATEGIC INCAPACITATION 
 ---
 
 ## Page 86
@@ -6091,8 +6011,7 @@ older forms. It also includes: extensive surveillance; the management of
 
 space to restrict movement and contain public assemblies; the sharing of
 
-information between police departments (and other agencies); and, focused ```
-
+information between police departments (and other agencies); and, focused 
 ---
 
 ## Page 87
@@ -6170,8 +6089,7 @@ This discussion has several implications for social movements, including
 
 but not limited to Occupy. One is that social movements pose a threat
 
-largely through their potential for disruption. The cops’ job is to neutralize ```
-
+largely through their potential for disruption. The cops’ job is to neutralize 
 ---
 
 ## Page 88
@@ -6248,8 +6166,7 @@ position itself in opposition to the police.
 
 It is not enough to complain when the police attack our demos, if we are
 
-not also objecting when the police attack entire neighborhoods. Not only is ```
-
+not also objecting when the police attack entire neighborhoods. Not only is 
 ---
 
 ## Page 89
@@ -6326,8 +6243,7 @@ page_id=2 (hyperlink expired)
 
 113 See, for example: Jeremy Kessler, “The Police and the 99%,” N+1
 
-(nplusonemag.com), October 10, 2011. For images of protest signs on the ```
-
+(nplusonemag.com), October 10, 2011. For images of protest signs on the 
 ---
 
 ## Page 90
@@ -6402,8 +6318,7 @@ Work (New York: The New Press, 2002), 98–9 and 102–5.
 
 118 Kristian Williams, “‘Cops for Labor’?” Dollars and Sense,
 
-September/October 2011; reprinted in this volume. ```
-
+September/October 2011; reprinted in this volume. 
 ---
 
 ## Page 91
@@ -6477,8 +6392,7 @@ American Sociological Review, December 1983.
 
 125 Clark McPhail, et al., “Policing Protest in the United States: 1960–
 
-1995,” in Policing Protest: The Control of Mass Demonstrations in Western ```
-
+1995,” in Policing Protest: The Control of Mass Demonstrations in Western 
 ---
 
 ## Page 92
@@ -6550,8 +6464,7 @@ Guardian Online (SFBG.com), November 18, 2011; and Mike King,
 
 133 Rodney Stark, Police Riots: Collective Violence and Law Enforcement
 
-(Belmont, California: Focus Books, 1972), 84. ```
-
+(Belmont, California: Focus Books, 1972), 84. 
 ---
 
 ## Page 93
@@ -6563,8 +6476,7 @@ Guardian Online (SFBG.com), November 18, 2011; and Mike King,
 
 
 
-Repression and Counterinsurgency ```
-
+Repression and Counterinsurgency 
 ---
 
 ## Page 94
@@ -6635,8 +6547,7 @@ criminal   justice   context.   The   evidence      shows   that,    despite   t
 
 association   with   colonialism      and   Latin   American        “dirty   wars,”   many
 
-contemporary     counter­insurgency         practices   were   developed       by     police ```
-
+contemporary     counter­insurgency         practices   were   developed       by     police 
 ---
 
 ## Page 95
@@ -6708,8 +6619,7 @@ THE STATE
 
 One      of   my     objectives       in   this   paper     is    to    broaden     and     deepen    our
 
-understanding of repression. I hope to show how repression functions in the ```
-
+understanding of repression. I hope to show how repression functions in the 
 ---
 
 ## Page 96
@@ -6786,8 +6696,7 @@ style of warfare is characterized by an emphasis on intelligence, security
 
 and peace-keeping operations, population control, propaganda, and efforts
 
-to gain the trust of the people. ```
-
+to gain the trust of the people. 
 ---
 
 ## Page 97
@@ -6946,8 +6855,7 @@ THEORIES OF REPRESSION
 
 Because they see insurgency as primarily a crisis of legitimacy, the Rand
 
-researchers     argue   that,   conceptually,       the   “War      on   Terror”   has    been   a ```
-
+researchers     argue   that,   conceptually,       the   “War      on   Terror”   has    been   a 
 ---
 
 ## Page 99
@@ -7103,8 +7011,7 @@ and intelligence responsibility.”
 
 If the movement survives, it may develop into a “major insurgency.”
 
-While it is still “essential” that the state gain information on the movement ```
-
+While it is still “essential” that the state gain information on the movement 
 ---
 
 ## Page 101
@@ -7261,8 +7168,7 @@ bring down the wrath of the other side.” Whoever is best able to make good
 on this threat will, according to the theory, receive the best information:
 
                                                                                      158
-“The balance of coercion dictates the balance of intelligence.” ```
-
+“The balance of coercion dictates the balance of intelligence.” 
 ---
 
 ## Page 103
@@ -7338,8 +7244,7 @@ were accused of a series of Earth Liberation Front and Animal Liberation
 Front    arsons   from    the   late    1990s—activities      the   FBI   characterized   as
 
                               161
-“domestic terrorism.”                Ultimately sixteen people were sent to prison, ```
-
+“domestic terrorism.”                Ultimately sixteen people were sent to prison, 
 ---
 
 ## Page 104
@@ -7493,8 +7398,7 @@ community      policing—are       actually        two    aspects    of    a   
 insurgency    program.      I   summed        up    the    idea    with       a    simple    equation:
 
                                                                                      167
-“Community Policing + Militarization = Counterinsurgency.” ```
-
+“Community Policing + Militarization = Counterinsurgency.” 
 ---
 
 ## Page 106
@@ -7652,8 +7556,7 @@ activities, and attention to quality-of-life issues quite apart from crime. A
 
 few radical criminologists saw this for what it was—a domestic “hearts and
 
-minds” campaign. As The Iron Fist and the Velvet Glove pointed out: ```
-
+minds” campaign. As The Iron Fist and the Velvet Glove pointed out: 
 ---
 
 ## Page 108
@@ -7733,8 +7636,7 @@ country have adopted similar systems.
 
 The Los Angeles Police Department’s system was proposed by Shannon
 
-Paulson,       a    police       sergeant    and        a   Navy     intelligence      reservist;     it   was ```
-
+Paulson,       a    police       sergeant    and        a   Navy     intelligence      reservist;     it   was 
 ---
 
 ## Page 109
@@ -7811,8 +7713,7 @@ The U.S. government’s mapping of the American Muslim population
 
 should be viewed in this light. In 2002 and 2003, the Department of
 
-Homeland Security requested—and received—statistical data, sorted by zip ```
-
+Homeland Security requested—and received—statistical data, sorted by zip 
 ---
 
 ## Page 110
@@ -7968,8 +7869,7 @@ In 2006, the criminologist George L. Kelling and L.A. Police Chief
 William        Bratton      wrote     an   article     titled   “Policing      Terrorism”       for    the
 
                                                       192
-Manhattan Institute’s Civic Bulletin.                       Kelling was one of the authors of ```
-
+Manhattan Institute’s Civic Bulletin.                       Kelling was one of the authors of 
 ---
 
 ## Page 112
@@ -8046,8 +7946,7 @@ even just routine contact into useful intelligence.
 
 But this approach may require a shift in police priorities: “Prosecution of
 
-the case is less important than gathering intelligence and putting it into a ```
-
+the case is less important than gathering intelligence and putting it into a 
 ---
 
 ## Page 113
@@ -8127,8 +8026,7 @@ But the conviction rate may be beside the point. One commander stated
 frankly that the police weren’t building prosecutable cases, but were instead
 
                                    207
-acting in “disruption mode.” ```
-
+acting in “disruption mode.” 
 ---
 
 ## Page 114
@@ -8202,8 +8100,7 @@ and the marines raided his house, arresting him and seizing weapons and
 
 opium. They placed the man, Juma Khan, in “a holding pen the size of a
 
-large dog cage” and interrogated him for two days. The marines then tried ```
-
+large dog cage” and interrogated him for two days. The marines then tried 
 ---
 
 ## Page 115
@@ -8359,8 +8256,7 @@ COPLINK, and to create “a centralized information center (Fusion Center)
 in   Salinas   for   the   purpose      of      gathering    and   sharing   information   from
 
                                              219
-Federal, State and local sources.” ```
-
+Federal, State and local sources.” 
 ---
 
 ## Page 117
@@ -8515,8 +8411,7 @@ deterrence—were            quickly    replicated   and       taken   further  
 
 intersecting    with       trends   like   zero-tolerance      policing   and       the   Compstat
 
-program. A report from the Justice Department’s Office of Community ```
-
+program. A report from the Justice Department’s Office of Community 
 ---
 
 ## Page 119
@@ -8674,8 +8569,7 @@ population’s standard of living.
 
 We can see the “hearts and minds” approach employed in a separate
 
-domestic experiment—the federally-funded “Weed and Seed” program. ```
-
+domestic experiment—the federally-funded “Weed and Seed” program. 
 ---
 
 ## Page 121
@@ -8827,8 +8721,7 @@ concedes that its legitimacy is being challenged and that the challengers
 
 (however           localized   and   weak)        are    rivals,    or   potential     rivals,     with
 
-independent claims to legitimacy and distinct spheres of influence. ```
-
+independent claims to legitimacy and distinct spheres of influence. 
 ---
 
 ## Page 123
@@ -8908,8 +8801,7 @@ ANTI-GANG POLITICS
 
 Facing these challenges, police anti-gang campaigns typically combine a
 
-variety of elements analogous to those in counter­insurgency: the creation of ```
-
+variety of elements analogous to those in counter­insurgency: the creation of 
 ---
 
 ## Page 124
@@ -8988,8 +8880,7 @@ Sometimes officials extend enforcement by securing gang injunctions,
 
 special court orders prohibiting activities that would otherwise be legal—
 
-barring alleged gang members from appearing together in public, restricting ```
-
+barring alleged gang members from appearing together in public, restricting 
 ---
 
 ## Page 125
@@ -9063,8 +8954,7 @@ surrounding population are translated into direct coercion and bids to win
 
 popular support. I have suggested that if the left wants to understand the
 
-repression it faces, it should study the ways the U.S. government responds ```
-
+repression it faces, it should study the ways the U.S. government responds 
 ---
 
 ## Page 126
@@ -9143,8 +9033,7 @@ building, but use those efforts in support of their more bellicose activities.
 Of course, the aim of any counter­insurgency campaign is a return to
 
                                                                               256
-normal—that is, to the lowest level of manageable conflict.                         In effect, this ```
-
+normal—that is, to the lowest level of manageable conflict.                         In effect, this 
 ---
 
 ## Page 127
@@ -9220,8 +9109,7 @@ accordingly. Some adversaries win new posts—offices in a “reformed”
 
 administration,    or    jobs   in    “responsible”    nonprofits,   labor   unions,    or
 
-progressive think tanks. They gain access, inclusion, or representation in ```
-
+progressive think tanks. They gain access, inclusion, or representation in 
 ---
 
 ## Page 128
@@ -9295,8 +9183,7 @@ at the National Foreign Policy Conference for Leaders of Nongovernmental
 
 Organizations, he said: “[J]ust as surely as our diplomats and military,
 
-American NGOs are out there serving and sacrificing on the front lines of ```
-
+American NGOs are out there serving and sacrificing on the front lines of 
 ---
 
 ## Page 129
@@ -9375,8 +9262,7 @@ Counterinsurgency Operations.”
 Meanwhile,        the   Defense      Department     now    controls   20%       of   the   U.S.
 
                                                                                              270
-government’s          budget       for     Official     Development          Assistance. ```
-
+government’s          budget       for     Official     Development          Assistance. 
 ---
 
 ## Page 130
@@ -9454,8 +9340,7 @@ been    no    statement    of    concern     from     the      mayor’s     off
 
 Department investigation, and no arrests. In fact, the transit agency—for
 
-whom Mehserle worked—had not even interviewed him about the incident. ```
-
+whom Mehserle worked—had not even interviewed him about the incident. 
 ---
 
 ## Page 131
@@ -9534,8 +9419,7 @@ nonprofits.”
 
 
 
-NO JUSTICE, URBAN PEACE ```
-
+NO JUSTICE, URBAN PEACE 
 ---
 
 ## Page 132
@@ -9611,8 +9495,7 @@ coordinated. Shortly before the trial, the mayor and police held a meeting
 with several Bay Area nonprofits. The topic, of course, was the prevention
 
             285
-of riots. ```
-
+of riots. 
 ---
 
 ## Page 133
@@ -9764,8 +9647,7 @@ Also, it is not something that necessarily happens in secret. It is worth
 
 pausing here to note that, while both sides may use clandestine or illegal
 
-methods, there is nothing inherently conspiratorial in either insurgency or ```
-
+methods, there is nothing inherently conspiratorial in either insurgency or 
 ---
 
 ## Page 135
@@ -9841,8 +9723,7 @@ from the start.
 
 
 
-CHALLENGES TO COIN ```
-
+CHALLENGES TO COIN 
 ---
 
 ## Page 136
@@ -9918,8 +9799,7 @@ lives—there will be cause for unrest. Even working together in perfect
 
 coordination, the cops, military, and intelligence agencies combined cannot
 
-change that fundamental fact without also changing the entire structure of ```
-
+change that fundamental fact without also changing the entire structure of 
 ---
 
 ## Page 137
@@ -9996,8 +9876,7 @@ The version printed here follows the structure of that in Interface, but
 
 incorporates some of the additional material from Life During Wartime, and
 
-was updated in March 2014. ```
-
+was updated in March 2014. 
 ---
 
 ## Page 138
@@ -10070,8 +9949,7 @@ Staff College, Joint Combined Warfighting School, September 5, 2003), 1.
 
 142 General David Petraeus, quoted in “General Says Iraq Talks Critical,”
 
-BBC News, March 8, 2007; http://news.bbc.co.uk/2/hi/6429519.stm ```
-
+BBC News, March 8, 2007; http://news.bbc.co.uk/2/hi/6429519.stm 
 ---
 
 ## Page 139
@@ -10147,8 +10025,7 @@ Field Manual No. 3-24; Marine Corps Warfighting Publication No. 3–33.5
 150 Gompert and Gordon, War by Other Means, xxxvii.
 
 
-151 Gompert and Gordon, War by Other Means, 6–8. ```
-
+151 Gompert and Gordon, War by Other Means, 6–8. 
 ---
 
 ## Page 140
@@ -10224,8 +10101,7 @@ anyone with what could be remotely considered an ‘advanced’ degree in a
 
 social science. So, although we have five anthropologists, we also have
 
-several historians, an economist, an industrial psychologist, etc; and only ```
-
+several historians, an economist, an industrial psychologist, etc; and only 
 ---
 
 ## Page 141
@@ -10299,8 +10175,7 @@ chapter, “Your Friendly Neighborhood Police State,” for my full account of
 the relationship between militarization and community policing.
 
 
-168 Gompert and Gordon, War by Other Means, xlv. ```
-
+168 Gompert and Gordon, War by Other Means, xlv. 
 ---
 
 ## Page 142
@@ -10376,8 +10251,7 @@ Command and General Staff College, School of Advanced Military Studies,
 
 179 Sidney L. Harring and Gerda W. Ray, “Policing a Class Society: New
 
-York City in the 1990s,” Social Justice, Summer 1999. ```
-
+York City in the 1990s,” Social Justice, Summer 1999. 
 ---
 
 ## Page 143
@@ -10451,8 +10325,7 @@ Informant Infiltrates Mosque,” Washington Post, December 5, 2010.
 Angeles Times, November 10, 2007.
 
 
-190 Quoted in Winton, “LAPD Defends Muslim Mapping Effort.” ```
-
+190 Quoted in Winton, “LAPD Defends Muslim Mapping Effort.” 
 ---
 
 ## Page 144
@@ -10528,8 +10401,7 @@ order to safeguard citizens’ privacy and civil rights.” Kelling and Bratton,
 198 Kelling and Bratton, “Policing Terrorism,” 3.
 
 
-199 Kelling and Bratton, “Policing Terrorism,” 4. ```
-
+199 Kelling and Bratton, “Policing Terrorism,” 4. 
 ---
 
 ## Page 145
@@ -10604,8 +10476,7 @@ Groundbreaking Anti-Terrorism Technology,” NJ.com, June 12, 2010.
 
 Los Angeles, July 12, 2010; http://www.nbclosangeles.com/news/local-
 
-beat/Cops-Show-Marines-How-to-Take-on-the-Taliban--98202989.html ```
-
+beat/Cops-Show-Marines-How-to-Take-on-the-Taliban--98202989.html 
 ---
 
 ## Page 146
@@ -10680,8 +10551,7 @@ and Research, eds. Winifred L. Reed and Scott H. Decker (Washington
 
 D.C.: U.S. Department of Justice, Office of Justice Programs, National
 
-Institute of Justice, July 2002). ```
-
+Institute of Justice, July 2002). 
 ---
 
 ## Page 147
@@ -10756,8 +10626,7 @@ Implementation Manual (Washington, D.C.: U.S. Department of Justice,
 August 2005), 1.
 
 
-235 U.S. Army, FM 3-24, 5-50 and 5-51. ```
-
+235 U.S. Army, FM 3-24, 5-50 and 5-51. 
 ---
 
 ## Page 148
@@ -10833,8 +10702,7 @@ Indiana University Press, 2007), 228–30.
 
 Comrades: A Local History of the Black Panther Party, ed. Judson L.
 
-Jeffries (Bloomington: Indiana University Press, 2007), 261. ```
-
+Jeffries (Bloomington: Indiana University Press, 2007), 261. 
 ---
 
 ## Page 149
@@ -10908,8 +10776,7 @@ with CovertAction Information Bulletin],” in USA: A Look at Reality
 
 Malcolm W. Klein, The American Street Gang: Its Nature, Prevalence, and
 
-Control (New York: Oxford University Press, 1995); and, Irving A. Spergel, ```
-
+Control (New York: Oxford University Press, 1995); and, Irving A. Spergel, 
 ---
 
 ## Page 150
@@ -10986,8 +10853,7 @@ Democracy Now;
 
 http://www.democracynow.org/2004/8/23/public_power_in_the_age_of ; Ji
 
-Giles Ungpakorn, “NGOs: Enemies or Allies,” International Socialism, ```
-
+Giles Ungpakorn, “NGOs: Enemies or Allies,” International Socialism, 
 ---
 
 ## Page 151
@@ -11063,8 +10929,7 @@ Approach to Preventive Counterinsurgency,” Small Wars Journal, August 1,
 270 GRAIN, Soils of War, 11.
 
 
-271 Rieff, “How NGOs Became Pawns.” ```
-
+271 Rieff, “How NGOs Became Pawns.” 
 ---
 
 ## Page 152
@@ -11139,8 +11004,7 @@ surveillance-of-grant-protesters-concerns-about-anarchists (expired
 
 hyperlink); Ali Winston, “Monitoring Protests: Normal Policing or
 
-Something Deeper?” The Informant, December 16, 2010; ```
-
+Something Deeper?” The Informant, December 16, 2010; 
 ---
 
 ## Page 153
@@ -11216,8 +11080,7 @@ Advance the Anti-Police Brutality Struggle?” Gathering Forces, December
 
 24, 2010; http://gatheringforces.org/2010/12/24/how-can-we-advance-the-
 
-anti-police-brutality-struggle (expired hyperlink) ```
-
+anti-police-brutality-struggle (expired hyperlink) 
 ---
 
 ## Page 154
@@ -11293,8 +11156,7 @@ offers an engineering-friendly, false promise of ‘managing’ the complexities
 
 of culture as if increased sensitivities, greater knowledge, [and] panoptical
 
-legibility could be used in a linear fashion to engineer domination. It fits the ```
-
+legibility could be used in a linear fashion to engineer domination. It fits the 
 ---
 
 ## Page 155
@@ -11340,8 +11202,7 @@ Journalism and Letters of George Orwell, Volume II: My Country Right or
 
 Left, 1940–1943, eds. Sonia Orwell and Ian Angus (New York: Harcourt
 
-Brace Jovanovich, 1968), 72. ```
-
+Brace Jovanovich, 1968), 72. 
 ---
 
 ## Page 156
@@ -11414,8 +11275,7 @@ most famously, Emma Goldman.
 
 In   the    1960s    and     ’70s     the      FBI   counterintelligence       program,
 
-COINTELPRO, used a variety of dirty tricks to, as their directive put it, ```
-
+COINTELPRO, used a variety of dirty tricks to, as their directive put it, 
 ---
 
 ## Page 157
@@ -11492,8 +11352,7 @@ At its most basic, the primary function of the criminal justice system isn’t
 
 really dealing with crime, or ensuring public safety, or even enforcing the
 
-law. All of these are secondary. ```
-
+law. All of these are secondary. 
 ---
 
 ## Page 158
@@ -11570,8 +11429,7 @@ But by way of contrast, consider: In 2007 alone, the FBI recorded 7,624
 
 hate crime incidents (representing 9,006 criminal offenses). These included
 
-40 arsons, 2,915 acts of vandalism, 2,565 acts of criminal intimidation, ```
-
+40 arsons, 2,915 acts of vandalism, 2,565 acts of criminal intimidation, 
 ---
 
 ## Page 159
@@ -11648,8 +11506,7 @@ http://www.fbi.gov/page2/June08/ecoterror-063008.html (expired hyperlink)
 
 298 U.S. Department of Justice, Federal Bureau of Investigation, Criminal
 
-Justice Information Services Division, 2007 Hate Crime Statistics, “Offense ```
-
+Justice Information Services Division, 2007 Hate Crime Statistics, “Offense 
 ---
 
 ## Page 160
@@ -11661,8 +11518,7 @@ Justice Information Services Division, 2007 Hate Crime Statistics, “Offense ``
 
 
 
-(expired hyperlink) ```
-
+(expired hyperlink) 
 ---
 
 ## Page 161
@@ -11674,8 +11530,7 @@ Justice Information Services Division, 2007 Hate Crime Statistics, “Offense ``
 
 
 
-Fighting Back ```
-
+Fighting Back 
 ---
 
 ## Page 162
@@ -11747,8 +11602,7 @@ system: “it constitutes, as it were, its programme.”
 
 With all that on the ledger sheet, one might be tempted to just refuse to
 
-participate in any reform or accountability efforts whatsoever—that is, to ```
-
+participate in any reform or accountability efforts whatsoever—that is, to 
 ---
 
 ## Page 163
@@ -11824,8 +11678,7 @@ The “police accountability” framework suggests, necessarily, that policing
 
 can be improved simply by bringing it under the control of the community,
 
-or if not the community, than at least its elected representatives. This ```
-
+or if not the community, than at least its elected representatives. This 
 ---
 
 ## Page 164
@@ -11901,8 +11754,7 @@ at least some of the following: Discredit the police in the public view.
 
 Isolate the cops politically; divide them from potential sources of support.
 
-Suppress officer morale; impede recruiting; and promote whistle-blowing. ```
-
+Suppress officer morale; impede recruiting; and promote whistle-blowing. 
 ---
 
 ## Page 165
@@ -11960,8 +11812,7 @@ State University, April 16, 2011; printed in Slingshot, Summer 2011.
 
 300 Michel Foucault, Discipline and Punish: The Birth of the Prison, trans.
 
-Alan Sheridan (New York: Vintage Books, 1995), 234. ```
-
+Alan Sheridan (New York: Vintage Books, 1995), 234. 
 ---
 
 ## Page 166
@@ -12035,8 +11886,7 @@ have on police behavior. But anecdotally, from my own experience, I have
 
 heard enough people say that the tone of the interaction changed when
 
-Copwatch arrived that I believe there must be something to it. ```
-
+Copwatch arrived that I believe there must be something to it. 
 ---
 
 ## Page 167
@@ -12112,8 +11962,7 @@ always watching, then maybe the simple fact of observation will help
 
 change their behavior overall. Perhaps, the disciplinary gaze can be turned
 
-back on the agents of the state. ```
-
+back on the agents of the state. 
 ---
 
 ## Page 168
@@ -12189,8 +12038,7 @@ Department started a civil rights investigation. And Johannes Mehserle, the
 
 cop who shot Oscar Grant, was arrested and charged with murder.
 
-Copwatching was not enough. It took riots. ```
-
+Copwatching was not enough. It took riots. 
 ---
 
 ## Page 169
@@ -12266,8 +12114,7 @@ not just occur because of the shooting. Police shoot unarmed black men
 
 with some regularity, and riots occur only infrequently. The incident itself
 
-was just the spark to ignite the accumulated anger of the community. And ```
-
+was just the spark to ignite the accumulated anger of the community. And 
 ---
 
 ## Page 170
@@ -12343,8 +12190,7 @@ beginning of this talk, most people don’t want to go on patrol.
 
 And even where we have projects for people besides, or between, patrols;
 
-it is usually unclear how this other work relates to the patrols. In other ```
-
+it is usually unclear how this other work relates to the patrols. In other 
 ---
 
 ## Page 171
@@ -12420,8 +12266,7 @@ human beings to live in it.
 
 That’s a tall order. It’s a long war, and there is no guarantee that we will
 
-win it. ```
-
+win it. 
 ---
 
 ## Page 172
@@ -12495,8 +12340,7 @@ order, a confrontation with the police becomes inevitable. The more the
 
 police are constrained—by limited resources, by public opinion, by law—
 
-the better the chances of the movement surviving. ```
-
+the better the chances of the movement surviving. 
 ---
 
 ## Page 173
@@ -12570,8 +12414,7 @@ the pressure on the government. That violence, especially Police Chief Bull
 
 Connor’s actions in Birmingham, shocked the conscience of the nation and
 
-embarrassed the government internationally. ```
-
+embarrassed the government internationally. 
 ---
 
 ## Page 174
@@ -12638,8 +12481,7 @@ ENDNOTES
 
 301 Keynote Address, International Copwatching Conference, Winnipeg,
 
-Manitoba, July 23, 2011. ```
-
+Manitoba, July 23, 2011. 
 ---
 
 ## Page 175
@@ -12711,8 +12553,7 @@ police are not incidental, but are inherent features of the institution. And
 
 that means, among other things, that we cannot reform our way out of our
 
-police problem. ```
-
+police problem. 
 ---
 
 ## Page 176
@@ -12784,8 +12625,7 @@ States Department of Justice, Bureau of Justice Statistics: October 2007), 1.
 
 Blacks constitute either 30% or 32% of those deaths (depending on the
 
-reporting mechanism). Mumola, “Arrest-Related Deaths,” 2. ```
-
+reporting mechanism). Mumola, “Arrest-Related Deaths,” 2. 
 ---
 
 ## Page 177
@@ -12859,8 +12699,7 @@ exposure to the questions, insights, and challenges of others in the group.
 
 Along the way, I gained several close friendships, often unexpectedly.
 
-Some of those friends I have lost touch with, or seldom see; others remain a ```
-
+Some of those friends I have lost touch with, or seldom see; others remain a 
 ---
 
 ## Page 178
@@ -12876,8 +12715,7 @@ experiences we shared continue to exercise one of the strongest influences
 
 on my life, my politics, and my writing. My gratitude does not diminish, but
 
-rather deepens, with time. ```
-
+rather deepens, with time. 
 ---
 
 ## Page 179
@@ -12928,8 +12766,7 @@ H3W 3H8
 
 info@kersplebedeb.com
 
-www.kersplebedeb.com ```
-
+www.kersplebedeb.com 
 ---
 
 ## Page 180
@@ -13006,8 +12843,7 @@ edition includes new material such as data on growing inequality between
 
 the richest and poorest countries,responses to critiques surrounding the
 
-thesis of mass embourgeoisement through imperialism, and more. ```
-
+thesis of mass embourgeoisement through imperialism, and more. 
 ---
 
 ## Page 181
@@ -13085,8 +12921,7 @@ killed. Convicted and sentenced to life imprisonment, he died of
 
 pneumocystis carninii pneumonia, an AIDS-related illness, on December
 
-13, 1986. ```
-
+13, 1986. 
 ---
 
 ## Page 182
@@ -13165,8 +13000,7 @@ This collection of writings by Sanyika Shakur, formerly known as Monster
 
 Kody Scott, includes several essays written from within the infamous
 
-Pelican Bay Security Housing Unit in the period around the historic 2011 ```
-
+Pelican Bay Security Housing Unit in the period around the historic 2011 
 ---
 
 ## Page 183

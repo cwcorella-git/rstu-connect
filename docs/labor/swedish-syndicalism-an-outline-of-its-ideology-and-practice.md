@@ -48,8 +48,7 @@ Syndicalism is an international trade union movement. In Sweden, syndicalism is 
 
 
 
-The book consists of four parts. Part 1 presents guidelines for successful organizing at the workplace. In Part 2, the trade union is contrasted with parliamentary parties and other political organizations. Here we explain why the trade union is superior as a class struggle organization. Part 3 provides general advice for recruiting and activating members. In Part 4, ```
-
+The book consists of four parts. Part 1 presents guidelines for successful organizing at the workplace. In Part 2, the trade union is contrasted with parliamentary parties and other political organizations. Here we explain why the trade union is superior as a class struggle organization. Part 3 provides general advice for recruiting and activating members. In Part 4, 
 ---
 
 ## Page 2
@@ -99,8 +98,7 @@ Joakim
 
 
 
-In reply toWelcomebylibcom.org ```
-
+In reply toWelcomebylibcom.org 
 ---
 
 ## Page 3
@@ -138,6 +136,5 @@ Joakim
 
 
 
-Yeah, tenant movements and unions should learn more from each other. ```
-
+Yeah, tenant movements and unions should learn more from each other. 
 ---

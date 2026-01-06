@@ -73,8 +73,7 @@ question. If not, we can provide a referral to another attorney who can.
 1
     NRS Chapter 648 covers process servers.
 Page 1 of 36
-```
-
+
 ---
 
 ## Page 2
@@ -132,8 +131,7 @@ If a landlord offers a written lease, NRS 118A.200 requires:
 
 
 Page 2 of 36
-```
-
+
 ---
 
 ## Page 3
@@ -189,8 +187,7 @@ regarding late fees, the landlord cannot charge anything for the late payment of
 
 
 Page 3 of 36
-```
-
+
 ---
 
 ## Page 4
@@ -249,8 +246,7 @@ period of time.
 
 
 Page 4 of 36
-```
-
+
 ---
 
 ## Page 5
@@ -305,8 +301,7 @@ If you and the landlord agree to have surety bond instead of a deposit, you will
 pay an up-front fee for the bond that will cover the legal deductions normally
 
 Page 5 of 36
-```
-
+
 ---
 
 ## Page 6
@@ -362,8 +357,7 @@ landlord. If the landlord has made any deductions to your security deposit, you
 have three arguments: (1) the damage did not occur; (2) the deductions were not
 warranted under the law; and (3) the costs were unreasonable, if warranted.
 Page 6 of 36
-```
-
+
 ---
 
 ## Page 7
@@ -422,8 +416,7 @@ move in, is NOT required under NRS 118A.290. Your lease may also require you
 to make repairs and perform maintenance tasks, so check your lease before
 complaining about any habitability problem or lease violation.
 Page 7 of 36
-```
-
+
 ---
 
 ## Page 8
@@ -480,8 +473,7 @@ the problem. If you want to repair and deduct and have an emergency, you can
 
 
 Page 8 of 36
-```
-
+
 ---
 
 ## Page 9
@@ -538,8 +530,7 @@ written notice if the landlord has already received notice from code enforcement
 some other government agency. Still, you must deposit your rent into an escrow
 account with the justice court.
 Page 9 of 36
-```
-
+
 ---
 
 ## Page 10
@@ -595,8 +586,7 @@ landlord, then you must pursue the remedies under the previous section
 Habitability and Lease Violations.
 
 Page 10 of 36
-```
-
+
 ---
 
 ## Page 11
@@ -652,8 +642,7 @@ need to issue written notice if the landlord admits in court of the problems. Th
 rarely happens.
 
 Page 11 of 36
-```
-
+
 ---
 
 ## Page 12
@@ -696,8 +685,7 @@ quit notice. This would violate Nevada law. See Part 3- Retaliation.
 
 
 Page 12 of 36
-```
-
+
 ---
 
 ## Page 13
@@ -749,8 +737,7 @@ Page 12 of 36
 
 
 Page 13 of 36
-```
-
+
 ---
 
 ## Page 14
@@ -810,8 +797,7 @@ components: (1) your protected activity and (2) the landlord’s reaction.
 
 
 Page 14 of 36
-```
-
+
 ---
 
 ## Page 15
@@ -868,8 +854,7 @@ gender identity in the protected classes. NRS 118.100.
 
 
 Page 15 of 36
-```
-
+
 ---
 
 ## Page 16
@@ -927,8 +912,7 @@ cover the plenary eviction process, except with regard to foreclosures or transf
 
 
 Page 16 of 36
-```
-
+
 ---
 
 ## Page 17
@@ -987,8 +971,7 @@ District Court counts these days.
 
 
 Page 17 of 36
-```
-
+
 ---
 
 ## Page 18
@@ -1044,8 +1027,7 @@ avoid the eviction.
 
 
 Page 18 of 36
-```
-
+
 ---
 
 ## Page 19
@@ -1103,8 +1085,7 @@ landlord.
 
 
 Page 19 of 36
-```
-
+
 ---
 
 ## Page 20
@@ -1161,8 +1142,7 @@ to pay the rent. If you have tried to pay the rent, do not spend this money and
 bring it with you to court.
 
 Page 20 of 36
-```
-
+
 ---
 
 ## Page 21
@@ -1219,8 +1199,7 @@ To have a defense to a nonpayment eviction, this offset amount must equal or
 exceed the rent you owe to the landlord.
 
 Page 21 of 36
-```
-
+
 ---
 
 ## Page 22
@@ -1278,8 +1257,7 @@ five days.
 
 
 Page 22 of 36
-```
-
+
 ---
 
 ## Page 23
@@ -1336,8 +1314,7 @@ If you have a mental or physical disability, a landlord cannot evict you because
 
 
 Page 23 of 36
-```
-
+
 ---
 
 ## Page 24
@@ -1396,8 +1373,7 @@ Rule of Civil Procedure 101. The reasons should contain enough information for
 
 
 Page 24 of 36
-```
-
+
 ---
 
 ## Page 25
@@ -1455,8 +1431,7 @@ that you have five judicial days to move or file an affidavit with the justice c
 
 
 Page 25 of 36
-```
-
+
 ---
 
 ## Page 26
@@ -1512,8 +1487,7 @@ delay in the eviction (stay), or contest the eviction. Do not count weekends,
 holidays, and other days the court is closed. To contest the eviction, you must file
 an affidavit with the Justice Court in your township.
 Page 26 of 36
-```
-
+
 ---
 
 ## Page 27
@@ -1570,8 +1544,7 @@ returning your property to you.
 If you have been through the court process or the constable/sheriff locked you out,
 then you only have 14 days to file a motion (not affidavit) to challenge the
 Page 27 of 36
-```
-
+
 ---
 
 ## Page 28
@@ -1629,8 +1602,7 @@ damages, under NRS 118A.520 and 118A.390.
                            What charges are reasonable?
 
 Page 28 of 36
-```
-
+
 ---
 
 ## Page 29
@@ -1688,8 +1660,7 @@ violation of NRS 118A.460 or conversion (as explained below).
 
 
 Page 29 of 36
-```
-
+
 ---
 
 ## Page 30
@@ -1746,8 +1717,7 @@ bank must provide notice to the landlord and post this notice on the property. I
 you have any doubts, property records are available to the general public. Your
 local county recorder’s office will have a notice of default (initiating the
 Page 30 of 36
-```
-
+
 ---
 
 ## Page 31
@@ -1803,8 +1773,7 @@ another Notice of Tenant’s Rights. The Notice of Tenant’s Rights informs you
 your rights as a tenant. Your landlord has until five day before the sale at auction
 to save the dwelling from foreclosure.
 Page 31 of 36
-```
-
+
 ---
 
 ## Page 32
@@ -1857,8 +1826,7 @@ your permission, you can seek an injunction.
 
 
 Page 32 of 36
-```
-
+
 ---
 
 ## Page 33
@@ -1912,8 +1880,7 @@ provides this right.
 
 
 Page 33 of 36
-```
-
+
 ---
 
 ## Page 34
@@ -1967,8 +1934,7 @@ should get the cash for keys offer in writing.
 
 
 Page 34 of 36
-```
-
+
 ---
 
 ## Page 35
@@ -2022,8 +1988,7 @@ After a foreclosure, the old owner may also return the security deposit to you, 
 making any deductions allowed under NRS 118A.242 (explained above).
 
 Page 35 of 36
-```
-
+
 ---
 
 ## Page 36
@@ -2074,7 +2039,6 @@ Both of these provisions end in 2023. Stay up to date at nevadalegalservices.org
 
 
 Page 36 of 36
-```
-
+
 ---
 

@@ -520,8 +520,7 @@ When there are many affected recipients, the easiest way of comparing two candid
 C_{\perp} < 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9,
 C_s < 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9 > 
 C_6 < 2,2,2,2,3,3,3,3,3,3,3,3,3,4,4,5,5,5,5,5,6,6,6,6,6,6,6,6,6,7,7,7,7,8,8,8,8,8,8,8
-## ```
-
+## 
 Employing such distributional profiles, one can see at a glance that the distribution C5 would produce is inferior to the two distributions C4 and C6 would produce, and also that the anonymity and Pareto conditions do not suffice to rank C4 vis-à-vis C6.
 
 The preceding discussion simplifies by assuming that, irrespective of which social order is chosen, the same persons would exist. This assumption is false of real-world societies, where the choice of social order makes a difference to who is born. This might be no problem if at least a society's population size were unaffected. But this weaker assumption, too, is false in the real world: The way a society is organized affects its birth and death rates. And there may then not be a one-to-one mapping of individuals across alternative ways of organizing society.
@@ -529,8 +528,7 @@ The preceding discussion simplifies by assuming that, irrespective of which soci
 
 C7: <1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9>
 C8: <1,1,1,1,1,2,2,2,2,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7,7,8,8,8,8,8,8,9,9,9,9,9,9>
-## ```
-
+## 
 The distributional prole produced by C<sup>7</sup> counts as Pareto-superior to that produced by C<sup>8</sup> on the ground that some persons under C<sup>7</sup> would be better off, and none worse off, than their counterparts (here shown immediately below) at the corresponding percentile under C8. In general terms, of two ways of organizing the same society, Cx is to be ranked above Cy just in case the distribution produced by Cx is better than that produced by Cy at some percentile and worse at none.
 
 This method of comparison can also be represented graphically by means of curves, each of which represents the individual well-being scores, ordered by magnitude, a candidate is estimated to produce. These curves, which are steadily rising toward the right, are standard-
@@ -558,8 +556,7 @@ The fourth and most powerful objection to the anonymity condition maintains that
 
 <1,1,1,2,2,2,3,3,3,3,3,4,4,4,4,4,4,5,5,6,6,6,7,7,7,7,7,7,7,7,7,8,8,8,8,9,9,9,9,9,9, 9,9,9,9>
 <1,1,1,2,2,2,3,3,3,3,3,4,4,4,4,4,4,5,5,6,6,6,7,7,7,7,7,7,7,7,7,8,8,8,8,9,9,9,9,9,9, 9,9,9,9>
-## ```
-
+## 
 Here the candidate public criterion producing the latter distributional prole would intuitively seem to be morally preferable because, unlike the former, it does not produce a distribution of well-being highly correlated with gender (or skin color). I return to this problem in section 6.4.
 
 Purely recipient-oriented theorists who take individual human beings as recipients and accept the anonymity condition are two steps away from a workable top-tier criterion of justice: They must still specify a metric of well-being in terms of which one can estimate how well off or badly off the individuals living under any social order would be and in terms of which one can then sketch the distributional prole associated with each. And they must still specify an interpersonal aggregation function through which the data collected in each distributional prole can be synthesized into one overall assessment. The Pareto and anonymity conditions contribute to this latter task. But by themselves, they have too little discriminatory power, leaving many comparisons (such as that of C<sup>4</sup> and C6) indeterminate, as their associated distributional proles are Pareto-incomparable.
@@ -2306,8 +2303,7 @@ institutions (social), 28–34, 37, 39–41,
 ## special conception of, 66–67 (see
 ## also principles of justice)
 ## Justice as Fairness: A Restatement
-## ```
-
+## 
 ## ( JFR), 26
 
 ## 144, 166, 171, 179, 186, 188
@@ -2495,8 +2491,7 @@ Oxford University, xi, 16–17, 23
 ## political liberties, 82, 87, 89–90,
 ## 92–95, 97–98, 105, 133,
 ## 149–52, 156, 188
-## ```
-
+## 
 | (fair)<br>value<br>of,<br>19,<br>82,<br>91–97, | principles<br>of<br>justice,<br>97,<br>189 |
 |-------------------------------------------------------------|---------------------------------------------------------|
 | 103,<br>105,<br>109,<br>124–25,<br>133, | two<br>principles<br>of<br>justice,<br>31,<br>42, |

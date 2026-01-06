@@ -52,8 +52,7 @@ Unions upset this blissful state of affairs, when these weak, individual workers
 
 
 
-Make no mistake: unionism was a powerful, effective social force, and it has always been reviled by capitalists and management, because it cuts into their absolute workplace authority, which they seem to feel is theirs by right, in the style of kings of times past. ```
-
+Make no mistake: unionism was a powerful, effective social force, and it has always been reviled by capitalists and management, because it cuts into their absolute workplace authority, which they seem to feel is theirs by right, in the style of kings of times past. 
 ---
 
 ## Page 2
@@ -87,8 +86,7 @@ Before I talk about what revolutionary unionism is, it's important to first talk
 
 
 
-THE BUSINESS UNION ```
-
+THE BUSINESS UNION 
 ---
 
 ## Page 3
@@ -118,8 +116,7 @@ Even within this seniority system, there are still higher levels of hierarchy --
 
 
 
-The business union has always revolved around the trade union principle of organizing. That is, they hold that each trade has its own distinct interests, which are independent of those of ```
-
+The business union has always revolved around the trade union principle of organizing. That is, they hold that each trade has its own distinct interests, which are independent of those of 
 ---
 
 ## Page 4
@@ -157,8 +154,7 @@ Will it come about again? Who knows? In some respects, I doubt it, at least in t
 
 
 
-Any new radical unionism must organize under the watchful eye of these and other organizations, which will affect the way these new unions operate. It's not impossible for a new revolutionary unionism to come about -- but it will be a formidable challenge. But then, such is the case with any progressive social movement. The powerful never give up their privileges easily, or out of the goodness of their withered hearts. ```
-
+Any new radical unionism must organize under the watchful eye of these and other organizations, which will affect the way these new unions operate. It's not impossible for a new revolutionary unionism to come about -- but it will be a formidable challenge. But then, such is the case with any progressive social movement. The powerful never give up their privileges easily, or out of the goodness of their withered hearts. 
 ---
 
 ## Page 5
@@ -188,8 +184,7 @@ Revolutionary unions practice industrial unionism; that is, the idea that instea
 
 
 
-The revolutionary unionist seeks One Big Union, instead of many little ones. The logic behind this is that capitalists tend to close ranks and defend their common class interest -- against so unified a foe, can a divided workforce possibly prevail? The history of business unionism reveals that it cannot. It was this idea that led to the IWW slogan, "an injury to one is an injury to all." ```
-
+The revolutionary unionist seeks One Big Union, instead of many little ones. The logic behind this is that capitalists tend to close ranks and defend their common class interest -- against so unified a foe, can a divided workforce possibly prevail? The history of business unionism reveals that it cannot. It was this idea that led to the IWW slogan, "an injury to one is an injury to all." 
 ---
 
 ## Page 6
@@ -215,8 +210,7 @@ Management is very aware of this situation, however -- which is why there has be
 
 
 
-No amount of bogus empowerment conferences can change the static environment in which workers operate -- where all initiative comes from above, and where their pay continues to stagnate, and they are forced to work longer hours in increasingly precarious jobs. Fear is what binds the non-union workplace, just as solidarity is what holds together the union shop. ```
-
+No amount of bogus empowerment conferences can change the static environment in which workers operate -- where all initiative comes from above, and where their pay continues to stagnate, and they are forced to work longer hours in increasingly precarious jobs. Fear is what binds the non-union workplace, just as solidarity is what holds together the union shop. 
 ---
 
 ## Page 7
@@ -260,8 +254,7 @@ redsdisease
 
 
 
-11 years 8 months ago ```
-
+11 years 8 months ago 
 ---
 
 ## Page 8
@@ -319,8 +312,7 @@ redsdisease
 
 
 
-11 years 8 months ago ```
-
+11 years 8 months ago 
 ---
 
 ## Page 9
@@ -354,6 +346,5 @@ Looking around on Google, the author seemed to be an anarchist that wrotea coupl
 
 
 
-This article seems to date from 1998, although I'm not sure where it was originally published. ```
-
+This article seems to date from 1998, although I'm not sure where it was originally published. 
 ---

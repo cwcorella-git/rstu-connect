@@ -64,8 +64,7 @@ any laws and policies that criminalize houselessness or target unhoused people f
 We are fighting for a future where houselessness ends because everyone has a home. Our
 definition of a tenant includes anyone who does not control their housing, whether they currently
 have a home or not.
-```
-
+
 ---
 
 ## Page 2
@@ -116,8 +115,7 @@ Land back
 Newe (Western Shoshone), and Wašiw (Washoe) people. The system of capitalism and private
 land ownership in “North America” is dependent on the ongoing theft of Indigenous lands and
 genocide of Indigenous peoples. We support demands for Land Back by Indigenous peoples.
-```
-
+
 ---
 
 ## Page 3
@@ -168,8 +166,7 @@ II. Voting
             1. Changing a bylaw
             2. Changing a core value
             3. Anything else that over ⅓ of quorum votes should be a supermajority
-```
-
+
 ---
 
 ## Page 4
@@ -223,8 +220,7 @@ V. Membership
        meetings, participate in committees, and volunteer for the tenants union. They are
        ineligible to vote on motions or in elections, hold elected office, or serve in any position
        that requires being a voting member per the bylaws.
-```
-
+
 ---
 
 ## Page 5
@@ -277,8 +273,7 @@ VI. Elected Positions
                   9. Likewise, the external communication coordinator and/or communication
                      committee can call for a special election of a second external
                      communication coordinator.
-```
-
+
 ---
 
 ## Page 6
@@ -331,8 +326,7 @@ B.Position Descriptions
                (8) The tenants union may choose to elect a second secretary
                    if there is a need for more committed work than 1 secretary
                    can provide.
-```
-
+
 ---
 
 ## Page 7
@@ -385,8 +379,7 @@ VII. Accountability
           standing, and/or expulsion from the union. These actions will follow the same
           voting procedure as changing a bylaw; the grievance must be introduced at one
           meeting and then raised to a vote with a simple majority at the next meeting.
-```
-
+
 ---
 
 ## Page 8
@@ -416,7 +409,6 @@ VIII. Data Collection and Security
           tenant union business such as conducting 1-1 meetings or phone banking.
        G. No personal/contact information collected from members or tenants will be
           shared with any non-members, outside organizations, or other 3rd parties.
-```
-
+
 ---
 

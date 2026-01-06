@@ -51,8 +51,7 @@ Lynd is a legendary progressive lawyer and activist from Youngstown, Ohio. He is
 
 
 
-The Death and Life of American Labor: Toward a New Workers’ Movement ```
-
+The Death and Life of American Labor: Toward a New Workers’ Movement 
 ---
 
 ## Page 2
@@ -90,8 +89,7 @@ National Labor Relations Act
 
 
 
-, or NLRA, labor reforms as a progressive advance for workers. In the mainstream view, workers organizing, with the support of President Roosevelt, finally won full government enforcement for the right to organize and bargain collectively. In exercising this right, unions typically hold workplace elections and then negotiate contracts with employers that set the conditions of employment and also guarantee labor peace (no strike/no lockout) for the term ```
-
+, or NLRA, labor reforms as a progressive advance for workers. In the mainstream view, workers organizing, with the support of President Roosevelt, finally won full government enforcement for the right to organize and bargain collectively. In exercising this right, unions typically hold workplace elections and then negotiate contracts with employers that set the conditions of employment and also guarantee labor peace (no strike/no lockout) for the term 
 ---
 
 ## Page 3
@@ -117,8 +115,7 @@ As an example, Lynd quotes John Sargent who worked at Inland Steel in Chicago in
 
 
 
-Given Lynd’s analysis, what should the labor movement do today? Lynd doesn’t appear to advocate that unions rip up their contracts. But he does encourage the formation of rank-and-file shop floor committees. Union workers can certainly incorporate aspects of ```
-
+Given Lynd’s analysis, what should the labor movement do today? Lynd doesn’t appear to advocate that unions rip up their contracts. But he does encourage the formation of rank-and-file shop floor committees. Union workers can certainly incorporate aspects of 
 ---
 
 ## Page 4
@@ -164,8 +161,7 @@ Given that
 
 
 
-almost 90 percent of U.S. workers are non-union ```
-
+almost 90 percent of U.S. workers are non-union 
 ---
 
 ## Page 5
@@ -191,8 +187,7 @@ Regarding the challenge to capitalism, although Lynd doesn’t develop this poin
 
 
 
-In any case, union contracts and the working conditions they codify are the current compromise between labor and capital in any given workplace. With or without a contract, workers will have to struggle. Lynd doesn’t seem to consider the possibility that some workers may not be looking for constant class warfare on the job, and that settling a decent contract offers a much needed respite to lock-in gains. In any case, labor radicals should meet the ```
-
+In any case, union contracts and the working conditions they codify are the current compromise between labor and capital in any given workplace. With or without a contract, workers will have to struggle. Lynd doesn’t seem to consider the possibility that some workers may not be looking for constant class warfare on the job, and that settling a decent contract offers a much needed respite to lock-in gains. In any case, labor radicals should meet the 
 ---
 
 ## Page 6
@@ -210,6 +205,5 @@ Disclaimer:
 
 
 
-The views expressed here are not the official position of the IWW (or even the IWW’s EUC) and do not necessarily represent the views of anyone but the author’s. ```
-
+The views expressed here are not the official position of the IWW (or even the IWW’s EUC) and do not necessarily represent the views of anyone but the author’s. 
 ---

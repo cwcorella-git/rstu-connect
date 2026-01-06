@@ -99,8 +99,7 @@ injustices that cause harm in our communities. This is the book we have
 
 been waiting for and knew we needed to advance abolitionist efforts. Purnell
 
-is the abolitionist writer of her generation.” ```
-
+is the abolitionist writer of her generation.” 
 ---
 
 ## Page 3
@@ -173,8 +172,7 @@ profit and punishment. This book is more than a front row seat, it is an
 
 invitation to join the most important movement of our time.”
 
-—Amna Akbar, professor of law, Ohio State University ```
-
+—Amna Akbar, professor of law, Ohio State University 
 ---
 
 ## Page 4
@@ -413,8 +411,7 @@ man’s treasure came at the cost of exposing poisonous particles to children
 
 in the neighborhood every day. His lot still sits directly across the street
 
-from my middle school’s playground. ```
-
+from my middle school’s playground. 
 ---
 
 ## Page 10
@@ -493,8 +490,7 @@ fires for the wounded, assaulted, and intimidated.
 
       In 2020, Minneapolis Police officer Derek Chauvin pinned George
 
-Floyd to the concrete as he hollered that he could not breathe. Floyd ```
-
+Floyd to the concrete as he hollered that he could not breathe. Floyd 
 ---
 
 ## Page 11
@@ -572,8 +568,7 @@ among the largest cities in the US, spends more money on police.3
 
     Yet I feared letting go; I thought we needed them. I thought they just
 
-needed to be reformed. Until August 9, 2014, when police officer Darren ```
-
+needed to be reformed. Until August 9, 2014, when police officer Darren 
 ---
 
 ## Page 12
@@ -651,8 +646,7 @@ owners, the Black from the white, the homeless from the housed, the
 
 beggars from the employed. Reforms only make police polite managers of
 
-inequality. Abolition makes police and inequality obsolete. ```
-
+inequality. Abolition makes police and inequality obsolete. 
 ---
 
 ## Page 13
@@ -731,8 +725,7 @@ immigrants, and poor white people under a convict-leasing system for
 
 plantation and business owners. During the Jim Crow era, cops enforced
 
-segregation and joined lynch mobs that grew strange fruit from southern ```
-
+segregation and joined lynch mobs that grew strange fruit from southern 
 ---
 
 ## Page 14
@@ -892,8 +885,7 @@ mental health crises, even the ones who call 911 for help. The police officers
 
 who are doing the “right thing” maintain the systems of inequality and
 
-ableism in Black communities. The right thing is wrong. ```
-
+ableism in Black communities. The right thing is wrong. 
 ---
 
 ## Page 16
@@ -1053,8 +1045,7 @@ policing    the   most—to   protect    their   property,   billions,   busines
 
 borders by arresting the people whom they’ve exploited, excluded, and
 
-extracted from the most. ```
-
+extracted from the most. 
 ---
 
 ## Page 18
@@ -1131,8 +1122,7 @@ revolt: wealthy white men. And rather than unifying and organizing against
 
 the concentrated wealth of this class, the rest of us have been tricked into
 
-demanding that the police protect us, too. They cannot. ```
-
+demanding that the police protect us, too. They cannot. 
 ---
 
 ## Page 19
@@ -1193,8 +1183,7 @@ comforting answers to every potential harm ahead of us, let’s plan. Run.
 
 Dream. Experiment. And continue to organize, imagine, and transform this
 
-society toward freedom and justice without police and violence. ```
-
+society toward freedom and justice without police and violence. 
 ---
 
 ## Page 20
@@ -1259,8 +1248,7 @@ material stuck inside of a machine. I couldn’t quite comprehend the story.
 
 For the first few years of my life, I would confuse strangers by saying that
 
-my dad died in a washing machine. I also tried to bring him back. My ```
-
+my dad died in a washing machine. I also tried to bring him back. My 
 ---
 
 ## Page 21
@@ -1340,8 +1328,7 @@ nearby and she asked what happened. When I explained to her that the
 
 cafeteria worker had stopped me the day before, my teacher assured me that
 
-I did not have to pay for anything. I was elated and puzzled. The lunch lady ```
-
+I did not have to pay for anything. I was elated and puzzled. The lunch lady 
 ---
 
 ## Page 22
@@ -1419,8 +1406,7 @@ on mattresses for fun.
 
        About half of my neighbors were African Americans who worked
 
-menial jobs at nearby stadiums, gas stations, and grocery stores. The other ```
-
+menial jobs at nearby stadiums, gas stations, and grocery stores. The other 
 ---
 
 ## Page 23
@@ -1498,8 +1484,7 @@ relationships with law enforcement for decades; the Los Angeles school
 
 district has its own police department that emerged in 1948. As street police
 
-increased for Black people who rebelled over police violence, substandard ```
-
+increased for Black people who rebelled over police violence, substandard 
 ---
 
 ## Page 24
@@ -1579,8 +1564,7 @@ threats is still unknown.
 
 Vashon was the first Black graduate of Oberlin College, an abolitionist, and
 
-the first African American to practice law in New York. But I only lasted a ```
-
+the first African American to practice law in New York. But I only lasted a 
 ---
 
 ## Page 25
@@ -1660,8 +1644,7 @@ them hated it and would let students in anyway. School guards would then
 
 raid each floor and bathroom to round up students who had been locked out.
 
-We would spend the remainder of the period in in-school detention. I envied ```
-
+We would spend the remainder of the period in in-school detention. I envied 
 ---
 
 ## Page 26
@@ -1741,8 +1724,7 @@ actually needed. Students needed resources, not “officers.”
 
       Most of the significant resources from my childhood were tied to law
 
-enforcement or the military. Air Force Junior Reserve Officer Training ```
-
+enforcement or the military. Air Force Junior Reserve Officer Training 
 ---
 
 ## Page 27
@@ -1822,8 +1804,7 @@ hovered anxiously behind the podium and pleaded with the class to stop
 
 reporting shootings. Names could fill the hour, and trying to have a normal
 
-class on aerospace science afterward was an impossible challenge. Korie ```
-
+class on aerospace science afterward was an impossible challenge. Korie 
 ---
 
 ## Page 28
@@ -1901,8 +1882,7 @@ official death count for that catastrophe.17
 
     A year later, in class, I reported on Sean Bell, the first police killing that
 
-I ever wrote about. Each word I read from the thick, black Dell in ROTC’s ```
-
+I ever wrote about. Each word I read from the thick, black Dell in ROTC’s 
 ---
 
 ## Page 29
@@ -1980,8 +1960,7 @@ hallway throughout the school. Our school was now like a prison.”18
 
 boys were invited to a party that had a “No Niggers Allowed” sign on the
 
-door. A white man punched one of them in the face, and later tried to shoot ```
-
+door. A white man punched one of them in the face, and later tried to shoot 
 ---
 
 ## Page 30
@@ -2059,8 +2038,7 @@ and she entered an elderly facility. The company that owned the apartment
 
 complex       where   we    lived     fired   the   white   manager        because      he   was
 
-overcharging rent and taking cash instead of money orders from the tenants, ```
-
+overcharging rent and taking cash instead of money orders from the tenants, 
 ---
 
 ## Page 31
@@ -2138,8 +2116,7 @@ communities     out   of    violence      and   in   school.   We     ran   prog
 
 homework support, and a host of social services that gave families in the
 
-neighborhood     food,     gifts,   and   clothes    during    the   holidays.   Ironically ```
-
+neighborhood     food,     gifts,   and   clothes    during    the   holidays.   Ironically 
 ---
 
 ## Page 32
@@ -2219,8 +2196,7 @@ they were either shy or acting like they were too cool to participate. “Hey,
 
 come on, why are you all sitting here? You can apply to all of these schools
 
-today and even get scholarships on the spot!” Not budging, they explained ```
-
+today and even get scholarships on the spot!” Not budging, they explained 
 ---
 
 ## Page 33
@@ -2300,8 +2276,7 @@ him about trying anything else. The stalking stopped.
 
 unhealthy friendships on myself. After a series of heartbreaking fights and
 
-losing friends, I’d turn to the church to seek spiritual guidance. Grandon ```
-
+losing friends, I’d turn to the church to seek spiritual guidance. Grandon 
 ---
 
 ## Page 34
@@ -2379,8 +2354,7 @@ everyone.
 
 pride and freedom, but rarely interrogate what we are proud of or what
 
-freedoms     we    have.   Because     of   JROTC,     I   have   recited   the   pledge   of ```
-
+freedoms     we    have.   Because     of   JROTC,     I   have   recited   the   pledge   of 
 ---
 
 ## Page 35
@@ -2456,8 +2430,7 @@ borders. Until then, the land had been Mexico, and before that, inhabited by
 
 various Native peoples who roamed the land without notions of “legal” or
 
-“illegal.” The roaming continued after the US was officially formed—except ```
-
+“illegal.” The roaming continued after the US was officially formed—except 
 ---
 
 ## Page 36
@@ -2533,8 +2506,7 @@ chanting. At the Kobach-Arpaio rally entrance, I spotted a table sponsored
 
 by Bott Radio. I listened to the Christian station daily on my way to class.
 
-Grandon had also spotted a Black student from his bible college there. I ```
-
+Grandon had also spotted a Black student from his bible college there. I 
 ---
 
 ## Page 37
@@ -2612,8 +2584,7 @@ parking lot, they shouted at us from their pickup trucks and minivans.
 
     Flags soared high that day in Overland Park, Kansas. I was learning
 
-that policing was much larger than how individual cops treated Black ```
-
+that policing was much larger than how individual cops treated Black 
 ---
 
 ## Page 38
@@ -2691,8 +2662,7 @@ were bad because prosecutors and police caught and executed the wrong
 
 people. Or, if they caught the right person, the state disproportionately
 
-killed   Black    people       or    people      who    could     not   understand          their   crime. ```
-
+killed   Black    people       or    people      who    could     not   understand          their   crime. 
 ---
 
 ## Page 39
@@ -2768,8 +2738,7 @@ homophobia categorically excluded gay people from admiration; it could
 
 have   been   exclusion   from   housing,       employment,           health      care,   and     the
 
-opportunity to speak at my university. ```
-
+opportunity to speak at my university. 
 ---
 
 ## Page 40
@@ -2848,8 +2817,7 @@ release, the State of California was supposed to expunge the felony from his
 
 criminal record. State officials failed to do so, keeping O’Neal in housing,
 
-economic,     and   employment    precarity.   Not   to   mention   the   additional ```
-
+economic,     and   employment    precarity.   Not   to   mention   the   additional 
 ---
 
 ## Page 41
@@ -2929,8 +2897,7 @@ bypass the civil rights laws that were meant to protect people of color who
 
 already experienced discrimination and exploitation in the job market, and
 
-increased availability for white people seeking employment and homes. ```
-
+increased availability for white people seeking employment and homes. 
 ---
 
 ## Page 42
@@ -3008,8 +2975,7 @@ nature of the man’s response, Mickey started the presentation.
 
      On the drive back to the office, I asked why the police were there. He
 
-explained two reasons. First, police protect private property, and people who ```
-
+explained two reasons. First, police protect private property, and people who 
 ---
 
 ## Page 43
@@ -3087,8 +3053,7 @@ on deportations. My kite was attached to police, private property, prisons,
 
 and borders over people. The colors that once made me marvel were a
 
-distraction.24 ```
-
+distraction.24 
 ---
 
 ## Page 44
@@ -3167,8 +3132,7 @@ program, they have run a gulag at Guantánamo Bay, they have ripped up
 
 civil liberties to read our e-mails and rifle through our trash. Obama himself
 
-has just waged a months-long extra-legal war on Libya.” Even William S. ```
-
+has just waged a months-long extra-legal war on Libya.” Even William S. 
 ---
 
 ## Page 45
@@ -3246,8 +3210,7 @@ I couldn’t do it again. My mentors in the diversity office, Kristi and Dr.
 
 Dace, knew about my research interests and still invited me to the private
 
-dinner afterward. Mickey was the first civil rights lawyer I’d met, but ```
-
+dinner afterward. Mickey was the first civil rights lawyer I’d met, but 
 ---
 
 ## Page 46
@@ -3325,8 +3288,7 @@ rather than Zimmerman, he would likely be in prison.29
 
       Young Black and brown activists in the Sunshine State started singing
 
-freedom songs and demanding justice for Trayvon Martin. This group, some ```
-
+freedom songs and demanding justice for Trayvon Martin. This group, some 
 ---
 
 ## Page 47
@@ -3404,8 +3366,7 @@ me, warning me that white supremacists were threatening to counterprotest
 
 our rally. Conciliation specialists mediate disputes in local communities.
 
-White supremacy isn’t something to mediate, but eradicate, I thought. She ```
-
+White supremacy isn’t something to mediate, but eradicate, I thought. She 
 ---
 
 ## Page 48
@@ -3481,8 +3442,7 @@ premature death disproportionately sent Black people to hell. Why weren’t
 
 we praying to stop the violence? Or at least praying to learn how to fight
 
-back? ```
-
+back? 
 ---
 
 ## Page 49
@@ -3561,8 +3521,7 @@ grieve, heal, and act as a community. That’s exactly what we did. We
 
 designated times for an open mic, to let different people in the community
 
-sing, perform poetry, and express anger. Street violence interrupter groups ```
-
+sing, perform poetry, and express anger. Street violence interrupter groups 
 ---
 
 ## Page 50
@@ -3638,8 +3597,7 @@ for that summer, that’s what we did. Deescalated fights; monitored the
 
 movie theaters to keep crowds cool; even talked police out of arresting
 
-Black boys out past curfew. ```
-
+Black boys out past curfew. 
 ---
 
 ## Page 51
@@ -3718,8 +3676,7 @@ Airlines, where he worked for decades. He was retired and enjoyed playing
 
 video games with Jordan and doing important dad duties, like taking the
 
-door to Jordan’s room off the hinges after catching a girl in there. This was ```
-
+door to Jordan’s room off the hinges after catching a girl in there. This was 
 ---
 
 ## Page 52
@@ -3799,8 +3756,7 @@ concrete things that we might be able to do.”33
 
     Obama’s comments were audacious. The US government repeatedly
 
-used the deaths of Americans as an excuse to act violently toward people, ```
-
+used the deaths of Americans as an excuse to act violently toward people, 
 ---
 
 ## Page 53
@@ -3878,8 +3834,7 @@ it   through   our   dinner   at   Legal    Sea    Foods.   I’m    an   Aries�
 
 personality, caretaker, a natural host to company. I can be really funny and
 
-spontaneous because I was raised by a comedian. I sat eerily silent during ```
-
+spontaneous because I was raised by a comedian. I sat eerily silent during 
 ---
 
 ## Page 54
@@ -3977,8 +3932,7 @@ trial for taking life. It won’t be easy, but it will be worth it.
 Can’t wait to meet you.
 
 
-Three days later, I delivered Geuce. ```
-
+Three days later, I delivered Geuce. 
 ---
 
 ## Page 56
@@ -4043,8 +3997,7 @@ middle class Black people who owned funeral homes or sold real estate or
 
 had retired from the military. I always felt especially Midwestern during
 
-holiday visits there because the southern scenes were magical. In St. Louis, ```
-
+holiday visits there because the southern scenes were magical. In St. Louis, 
 ---
 
 ## Page 57
@@ -4124,8 +4077,7 @@ was   presumably      in   the   society,   too.   With   the   additional   adv
 
 William’s first wife, the judge freed him. William fled to St. Louis to avoid
 
-rearrest. There, he met my grandmother, Virginia. My aunt did not see him ```
-
+rearrest. There, he met my grandmother, Virginia. My aunt did not see him 
 ---
 
 ## Page 58
@@ -4203,8 +4155,7 @@ of 2014. St. Louis is where I grew up, but Kansas City was where I became
 
 a wife, mother, and educator. I had plans to meet up with all of my friends
 
-before I left, but by the time I made it to one of their homes, the news was ```
-
+before I left, but by the time I made it to one of their homes, the news was 
 ---
 
 ## Page 59
@@ -4282,8 +4233,7 @@ too.
 
 Brown because he was jaywalking. Many streets in Ferguson lack sidewalks
 
-altogether    and   we   have   to   walk   on   the   road.   The   streets   are   more ```
-
+altogether    and   we   have   to   walk   on   the   road.   The   streets   are   more 
 ---
 
 ## Page 60
@@ -4363,8 +4313,7 @@ Brittany when I was in high school and reconnected later when I found out
 
 she also did Teach for America. The day Michael was killed, she was
 
-keynoting my conference in Kansas City. Together with YCC, we spent ```
-
+keynoting my conference in Kansas City. Together with YCC, we spent 
 ---
 
 ## Page 61
@@ -4442,8 +4391,7 @@ on Sacramento Street had fooled me. With the seismic loans I needed to pay
 
 for living, I thought that the entire home would be ours with room for the
 
-baby and dog in tow. But when I walked through the front door, I saw three ```
-
+baby and dog in tow. But when I walked through the front door, I saw three 
 ---
 
 ## Page 62
@@ -4521,8 +4469,7 @@ their own.
 
     At orientation, the dean welcomed the class by saying that Harvard was
 
-not simply a law school, but a “justice school.” I immediately filled with ```
-
+not simply a law school, but a “justice school.” I immediately filled with 
 ---
 
 ## Page 63
@@ -4602,8 +4549,7 @@ supremacy that plague our resistance. Black men shared anecdotes in class
 
 and school meetings about being stopped and carded by the police in
 
-Harvard, Cambridge, Somerville, and the worst—Boston. My classmate Jon ```
-
+Harvard, Cambridge, Somerville, and the worst—Boston. My classmate Jon 
 ---
 
 ## Page 64
@@ -4681,8 +4627,7 @@ an arrest. The number of stops and how often police profile are likely
 
 underreported, yet they cannot account for the constant threat of either’s
 
-occurrence. And therein lies the function of policing. It’s not just the ```
-
+occurrence. And therein lies the function of policing. It’s not just the 
 ---
 
 ## Page 65
@@ -4758,8 +4703,7 @@ unexamined      ideas     about        the   histories   of    policing,     cap
 
 colonization. And if people who care about ending police violence aren’t
 
-careful, we could miss the forest for the trees. Racial profiling, stop and ```
-
+careful, we could miss the forest for the trees. Racial profiling, stop and 
 ---
 
 ## Page 66
@@ -4837,8 +4781,7 @@ to search for them. And because Africans constantly planned rebellions and
 
 revolts on the way over, Europeans at the top of the ship had to develop
 
-systems of patrols, surveillance, caging, and even African informants to ```
-
+systems of patrols, surveillance, caging, and even African informants to 
 ---
 
 ## Page 67
@@ -4916,8 +4859,7 @@ punish the African and Indigenous rebels. Crewmembers and overseers
 
 usually implemented and enforced the rules—and added their own violent
 
-tricks to compel the person at the tip of the whip to obey. Although these ```
-
+tricks to compel the person at the tip of the whip to obey. Although these 
 ---
 
 ## Page 68
@@ -4997,8 +4939,7 @@ Carolina came from Barbados. They brought knowledge of the slave patrol
 
 systems that were instituted on the islands during the 1600s. Their property
 
-and workers, the Africans, brought knowledge of the revolts and resistance. ```
-
+and workers, the Africans, brought knowledge of the revolts and resistance. 
 ---
 
 ## Page 69
@@ -5076,8 +5017,7 @@ Arizona border.
 
     But—the best feature of social conditioning is that the power and
 
-impulses to control others are not natural or innate. There are traditions ```
-
+impulses to control others are not natural or innate. There are traditions 
 ---
 
 ## Page 70
@@ -5155,8 +5095,7 @@ Adding more white people to the area, they believed, would offset threats of
 
 Black and Indigenous raids and rebellions. Larger planters received more,
 
-and this required a greater system of policing and patrols to monitor the ```
-
+and this required a greater system of policing and patrols to monitor the 
 ---
 
 ## Page 71
@@ -5232,8 +5171,7 @@ control and limit slave patrols’ use of force to forty or fifty lashes instead
 
 significantly more. In North Carolina, officials divided patrols into districts,
 
-permitting them to raid slave quarters to search for weapons and report their ```
-
+permitting them to raid slave quarters to search for weapons and report their 
 ---
 
 ## Page 72
@@ -5311,8 +5249,7 @@ entangled in democratic and anti-democratic practices to stop racial terror.
 
 In 1871, a Black Union loyalty club converted to a militia of free Black
 
-veterans who protected themselves from white violence and killed KKK ```
-
+veterans who protected themselves from white violence and killed KKK 
 ---
 
 ## Page 73
@@ -5390,8 +5327,7 @@ know why he ran. Perhaps he was afraid of dying. He was pulled over at the
 
 height of the Black Lives Matter movement when seemingly each week, a
 
-new police killing went viral and sparked protests. His family speculates ```
-
+new police killing went viral and sparked protests. His family speculates 
 ---
 
 ## Page 74
@@ -5469,8 +5405,7 @@ salary and provide for his children.55
 
 denial of reparations to Black and Indigenous people for generations of
 
-unpaid labor, kidnapping, and land theft. Not to mention the decades of Jim ```
-
+unpaid labor, kidnapping, and land theft. Not to mention the decades of Jim 
 ---
 
 ## Page 75
@@ -5550,8 +5485,7 @@ Charleston Police Department fired him while he was in jail, but continued
 
 to cover the health insurance for his pregnant wife until she delivered the
 
-baby. The mayor of North Charleston said that it was “the humane thing to ```
-
+baby. The mayor of North Charleston said that it was “the humane thing to 
 ---
 
 ## Page 76
@@ -5629,8 +5563,7 @@ solidarity with the Charleston School of Law and the University of South
 
 Carolina    for   three   moments     of   remembrance,   eight   minutes   each,    to
 
-represent how many shots Michael Slager fired at Walter Scott.58 ```
-
+represent how many shots Michael Slager fired at Walter Scott.58 
 ---
 
 ## Page 77
@@ -5653,8 +5586,7 @@ immigrant labor, movement, and freedom. And through that portal into the
 
 history of policing, I was so grateful to find that there was first a history of
 
-freedom and resistance. ```
-
+freedom and resistance. 
 ---
 
 ## Page 78
@@ -5719,8 +5651,7 @@ hell!”60
 
     We wanted to win. Cops expected to win, too, and the odds were in
 
-their favor. Many wore “I Am Darren Wilson” bracelets around St. Louis. In ```
-
+their favor. Many wore “I Am Darren Wilson” bracelets around St. Louis. In 
 ---
 
 ## Page 79
@@ -5800,8 +5731,7 @@ was prosecuted by Ken Thompson, the first Black District Attorney in
 
 Brooklyn. Liang was sentenced by Judge Chun, the first Korean American
 
-prosecutor and first Korean American judge in New York City. In 2019, ```
-
+prosecutor and first Korean American judge in New York City. In 2019, 
 ---
 
 ## Page 80
@@ -5879,8 +5809,7 @@ dashboard camera footage because cops can turn them off or misconstrue
 
 the angle. Cities also withhold footage of cop shootings until a family,
 
-journalist, or lawyer sues or protests for access. At risk to themselves, the ```
-
+journalist, or lawyer sues or protests for access. At risk to themselves, the 
 ---
 
 ## Page 81
@@ -5960,8 +5889,7 @@ for me. I found solace in being with my friends, reuniting with Justin, and
 
 meeting new activists in the streets. During the day, cops mounted horses,
 
-drove cars, and raided buildings in response to the protests. In Ferguson, the ```
-
+drove cars, and raided buildings in response to the protests. In Ferguson, the 
 ---
 
 ## Page 82
@@ -6039,8 +5967,7 @@ to the police who were injured after kids threw rocks at them, even though
 
 Baltimore police had also thrown rocks at the kids. Third, he condemned the
 
-protesters who set fire to buildings and called them criminals and thugs, but ```
-
+protesters who set fire to buildings and called them criminals and thugs, but 
 ---
 
 ## Page 83
@@ -6118,8 +6045,7 @@ police killings of Black people. In 2012, executive leadership for Taser, the
 
 stun gun company, expressed that this was a win-win because it was a $1
 
-billion opportunity for the company and saved the police from paying out ```
-
+billion opportunity for the company and saved the police from paying out 
 ---
 
 ## Page 84
@@ -6199,8 +6125,7 @@ I noticed that cops still get away with murder. Three months after Freddie
 
 Gray fled BPD, I felt some relief when University of Cincinnati police
 
-officer Ray Tensing was indicted for killing Sam DuBose. Tensing was ```
-
+officer Ray Tensing was indicted for killing Sam DuBose. Tensing was 
 ---
 
 ## Page 85
@@ -6278,8 +6203,7 @@ only people Mosby would ultimately send to jail were Black protesters. In
 
 fact, all over the country, more Black people went to jail for protesting
 
-police killings than police officers who killed Black people.69 ```
-
+police killings than police officers who killed Black people.69 
 ---
 
 ## Page 86
@@ -6358,8 +6282,7 @@ before they pull the trigger. However, there’s one fatal flaw with this belief
 
 the law protects the police’s right not to think before they shoot. The
 
-Supreme Court opined in Graham v. Connor that cops “are often forced to ```
-
+Supreme Court opined in Graham v. Connor that cops “are often forced to 
 ---
 
 ## Page 87
@@ -6439,8 +6362,7 @@ must vehemently protect the right to protest.
 
     Organizers and people who care about justice must reject calls for
 
-“peace” and task forces, and the other ways that people in power waste our ```
-
+“peace” and task forces, and the other ways that people in power waste our 
 ---
 
 ## Page 88
@@ -6600,8 +6522,7 @@ dancing, artistic actions, block parties, and theater performances between
 
 St. Louis City and North St. Louis County. Several activists who protested
 
-in the Ferguson Uprising in 2014 returned to support the celebration and ```
-
+in the Ferguson Uprising in 2014 returned to support the celebration and 
 ---
 
 ## Page 90
@@ -6679,8 +6600,7 @@ are popular responses to police violence that do not reduce police violence.
 
 Mere community knowledge and diversity cannot prevent violence in a
 
-system that is inherently violent. Plantations were diverse and overseers ```
-
+system that is inherently violent. Plantations were diverse and overseers 
 ---
 
 ## Page 91
@@ -6758,8 +6678,7 @@ launched a books and breakfast program with several others in a group
 
 called “The Maroon Project” when he returned to Newark, New Jersey.
 
-Before we all met in person, Darnell, Nyle, and I had all contributed to the ```
-
+Before we all met in person, Darnell, Nyle, and I had all contributed to the 
 ---
 
 ## Page 92
@@ -6837,8 +6756,7 @@ Ferguson. Nyle and I ran to Justin’s car with Marbre Stahly-Butts. Marbre
 
 was a lawyer with the Center for Popular Democracy. She and I would
 
-reconnect again later as the founding members of Law for Black Lives. ```
-
+reconnect again later as the founding members of Law for Black Lives. 
 ---
 
 ## Page 93
@@ -6916,8 +6834,7 @@ as the so-called unconstitutional policing. Hours later, when I made it home,
 
 a thin film of the gas and milk covered my skin and locs. My eyes watered
 
-uncontrollably and tears burned my cheeks when they fell. I could not ```
-
+uncontrollably and tears burned my cheeks when they fell. I could not 
 ---
 
 ## Page 94
@@ -6995,8 +6912,7 @@ feel that the cops were protecting us, for we knew too much about the
 
 reasons for the kinds of crimes committed in the ghetto; but we feared black
 
-cops even more than white cops, because the black cop had to work so much ```
-
+cops even more than white cops, because the black cop had to work so much 
 ---
 
 ## Page 95
@@ -7074,8 +6990,7 @@ had both attended West Side Missionary Baptist Church when I was in high
 
 school and we were standing in front of the building when the pastor, Rev.
 
-Dr. Ronald Bobo walked over. He was stunned that cops not only couldn’t ```
-
+Dr. Ronald Bobo walked over. He was stunned that cops not only couldn’t 
 ---
 
 ## Page 96
@@ -7155,8 +7070,7 @@ her new job at an HBCU, Prairie View A&M. He took her to jail. Three
 
 days later, Bland was found dead in her cell. Her family outright denied the
 
-possibility of suicide and maintained that the jail was trying to cover up her ```
-
+possibility of suicide and maintained that the jail was trying to cover up her 
 ---
 
 ## Page 97
@@ -7234,8 +7148,7 @@ academics. We even met with law enforcement officials who greeted us with
 
 Stroopwafels. At one meeting in Amsterdam, a police chief assured us that
 
-what happened in Ferguson would have never happened in their country ```
-
+what happened in Ferguson would have never happened in their country 
 ---
 
 ## Page 98
@@ -7313,8 +7226,7 @@ lectures, and dinners, we’d take the tram. At each platform, volunteers held
 
 signs welcoming refugees without documentation. I’d been reading about
 
-the Syrian civil war that forced people to flee to Europe. In 2015, the ```
-
+the Syrian civil war that forced people to flee to Europe. In 2015, the 
 ---
 
 ## Page 99
@@ -7392,8 +7304,7 @@ me. After high-profile police killings, some activists and policymakers
 
 would suggest that the US should look to Europe for police reform because
 
-cops there rarely kill people. For example, in 2019, cops in the US killed ```
-
+cops there rarely kill people. For example, in 2019, cops in the US killed 
 ---
 
 ## Page 100
@@ -7471,8 +7382,7 @@ capitalists benefited from exploiting Turkish and North African laborers.
 
 But when their labor was no longer needed after the war, cops apprehended,
 
-expelled, and banned their descendants. The United States should absolutely ```
-
+expelled, and banned their descendants. The United States should absolutely 
 ---
 
 ## Page 101
@@ -7548,8 +7458,7 @@ Africa to learn about their student movement. I knew it was a risk. I was
 
 still having nightmares from being tear-gassed, assaulted, and shot at from
 
-the previous summers. And even though South Africa was much farther ```
-
+the previous summers. And even though South Africa was much farther 
 ---
 
 ## Page 102
@@ -7629,8 +7538,7 @@ Indigenous symbols, cultures, lands, and peoples. We did not need to start
 
 with George Washington; people who are committed to decolonization
 
-should organize to remove these legacies where they are. For activist Bree ```
-
+should organize to remove these legacies where they are. For activist Bree 
 ---
 
 ## Page 103
@@ -7710,8 +7618,7 @@ evolved enough in our politics to become against the institution of policing.
 
 We were condemning the idea that activists hated individual cops, and our
 
-thinking had developed into condemning the system of policing as a vestige ```
-
+thinking had developed into condemning the system of policing as a vestige 
 ---
 
 ## Page 104
@@ -7789,8 +7696,7 @@ Afrikaans, a language forged through white Dutch colonial settlements and
 
 the enslavement of Africans and South Asians. Along with this law, Black
 
-students were mostly restricted to a “Bantu” education: how to be a good ```
-
+students were mostly restricted to a “Bantu” education: how to be a good 
 ---
 
 ## Page 105
@@ -7870,8 +7776,7 @@ only national Black paper in South Africa at the time.95
 
     The police that had opened fire on the schoolchildren were a part of a
 
-special unit to quell protest over the course of several months. During South ```
-
+special unit to quell protest over the course of several months. During South 
 ---
 
 ## Page 106
@@ -7949,8 +7854,7 @@ And as organizers continued to fight back with more tactics, the apartheid
 
 government chose more police, more militarism, more guns, and a stronger
 
-occupation. In addition to Israel, apartheid South African police joined ```
-
+occupation. In addition to Israel, apartheid South African police joined 
 ---
 
 ## Page 107
@@ -8026,8 +7930,7 @@ invited me to their plenaries, and nominated a chair to run the meeting.
 
 These students were sleeping on the cafeteria floor, partly as an occupation,
 
-partly because many of them could not afford to go home for the summer ```
-
+partly because many of them could not afford to go home for the summer 
 ---
 
 ## Page 108
@@ -8105,8 +8008,7 @@ debrief about what happened. On my way there, I saw two teams of white
 
 students playing cricket on the most serene field I’d ever seen. Two Black
 
-women activists who were attacked earlier also saw them play. Rather than ```
-
+women activists who were attacked earlier also saw them play. Rather than 
 ---
 
 ## Page 109
@@ -8174,8 +8076,7 @@ promised us equal protection under the law were equally protecting the
 
 violence that I wanted to eradicate. And Black people, all people, in the US
 
-and abroad, deserved so much more than that. ```
-
+and abroad, deserved so much more than that. 
 ---
 
 ## Page 110
@@ -8240,8 +8141,7 @@ the US, and then about the private security that had violently attacked
 
 students at Wits. She replied that while much had seemingly changed on the
 
-surface, so many repressive colonial practices had remained in policing. I ```
-
+surface, so many repressive colonial practices had remained in policing. I 
 ---
 
 ## Page 111
@@ -8321,8 +8221,7 @@ moved past the point of pleading and letter writing to save their lives. She
 
 recalled: “Peaceful protests through letters and other means were of no
 
-consequence to the apartheid government. They attacked and massacred ```
-
+consequence to the apartheid government. They attacked and massacred 
 ---
 
 ## Page 112
@@ -8480,8 +8379,7 @@ time with Zelda, student and worker activists at Wits and the University of
 
 Cape Town, the organizers in the townships, and the lawyers at Equal
 
-Education, I had begun to grow weary of saying “Black Lives Matter.” ```
-
+Education, I had begun to grow weary of saying “Black Lives Matter.” 
 ---
 
 ## Page 114
@@ -8561,8 +8459,7 @@ Florida to go to Brazil for a week-long political education and solidarity
 
 gathering with Movimento Sem Terra (The Landless Workers Movement).
 
-Phil went to Brazil, studied, and took classes where he finally learned what ```
-
+Phil went to Brazil, studied, and took classes where he finally learned what 
 ---
 
 ## Page 115
@@ -8642,8 +8539,7 @@ the time to connect our organizing to the workers on campus, including the
 
 clinical, custodial, and dining staff, who were especially vulnerable to
 
-marginalization, racism, and exploitation. Finally, we had yet to confront the ```
-
+marginalization, racism, and exploitation. Finally, we had yet to confront the 
 ---
 
 ## Page 116
@@ -8721,8 +8617,7 @@ Massachusetts history.103
 
 spent the night regularly. But when I became pregnant with my second
 
-child, Garvey, I couldn’t sleep on the floor anymore. Each day, we organized ```
-
+child, Garvey, I couldn’t sleep on the floor anymore. Each day, we organized 
 ---
 
 ## Page 117
@@ -8802,8 +8697,7 @@ support, reflection, and action the next day.
 
        For our very first political education meeting, we read a soon-to-be
 
-published essay by historian Robin D. G. Kelley called “Slipping in the ```
-
+published essay by historian Robin D. G. Kelley called “Slipping in the 
 ---
 
 ## Page 118
@@ -8879,8 +8773,7 @@ told you, I told all of y’all that I had a daughter who went to Harvard,” sh
 
 said loudly to the volunteers. “Harvard or Howard?” “Harvard, momma.
 
-Howard is in DC.”106 ```
-
+Howard is in DC.”106 
 ---
 
 ## Page 119
@@ -8959,8 +8852,7 @@ people, and maroons continued to steal and launch raids against plantation
 
 owners. Maroon rebellions and raids toward freedom prompted European
 
-colonizers to request more resources for law enforcement and patrols to ```
-
+colonizers to request more resources for law enforcement and patrols to 
 ---
 
 ## Page 120
@@ -9040,8 +8932,7 @@ an unjust system more ‘inclusive’ versus building an alternative vision that
 
 can     also   be   used    to   put   pressure      on   the     existing    system.”     We   were
 
-confronted with a choice: keep organizing to make our school or country ```
-
+confronted with a choice: keep organizing to make our school or country 
 ---
 
 ## Page 121
@@ -9119,8 +9010,7 @@ Lives Matter to Belinda Hall, had not yet professed a commitment to an
 
 abolitionist future. We had been calling for the arrests, indictments, and
 
-convictions of killer cops; an assertion of Black life in public spheres; and ```
-
+convictions of killer cops; an assertion of Black life in public spheres; and 
 ---
 
 ## Page 122
@@ -9198,8 +9088,7 @@ point, I had been somewhat comfortable with the notion of reforming
 
 prisons, police, and prosecutors because I thought that our society had to
 
-have them. I knew the origins of these systems and that they were working ```
-
+have them. I knew the origins of these systems and that they were working 
 ---
 
 ## Page 123
@@ -9277,8 +9166,7 @@ ready to go.
 
       Everything about court was wrong. The parking, the weather,                         the
 
-expectation of justice. As soon as I walked in, I saw a giant glass box that ```
-
+expectation of justice. As soon as I walked in, I saw a giant glass box that 
 ---
 
 ## Page 124
@@ -9356,8 +9244,7 @@ forms of violence that underlie our relationships to each other.
 
 automatically   accepted   whatever    was   on   a   police   report   despite   wide
 
-knowledge of police fabrication. Defense attorneys prayed for particular ```
-
+knowledge of police fabrication. Defense attorneys prayed for particular 
 ---
 
 ## Page 125
@@ -9435,8 +9322,7 @@ law. Police do not and cannot address the society that creates racial and
 
 economic exploitation, only punish people who steal, fight, burglarize, and
 
-trespass because of it. Rather than eliminating the unjust conditions, cities ```
-
+trespass because of it. Rather than eliminating the unjust conditions, cities 
 ---
 
 ## Page 126
@@ -9516,8 +9402,7 @@ learning in Belinda, I had a much larger commitment to fight relentlessly to
 
 end exploitation everywhere, even on behalf of those who think they hate
 
-us. ```
-
+us. 
 ---
 
 ## Page 127
@@ -9596,8 +9481,7 @@ and brown people like my clients did not need more police; they needed
 
 different   tools   that   abolition   offered   to   address   the   root   causes   of
 
-violence.115 ```
-
+violence.115 
 ---
 
 ## Page 128
@@ -9674,8 +9558,7 @@ lead to casualties over oil, coal, natural gas, and precious metals. All of thei
 
 violent    behavior        was     perfectly    legal,      so    they    weren’t      lawbreakers.
 
-Nevertheless, their violence had to be abolished, too. ```
-
+Nevertheless, their violence had to be abolished, too. 
 ---
 
 ## Page 129
@@ -9753,8 +9636,7 @@ abolition of legal ownership of the slave; it meant the uplift of slaves and
 
 their eventual incorporation into the body civil, politic, and social, of the
 
-United States.” Right after, he says that “this outlook and theory of the ```
-
+United States.” Right after, he says that “this outlook and theory of the 
 ---
 
 ## Page 130
@@ -9830,8 +9712,7 @@ income, and then use that income to purchase goods and services. Slaves
 
 had no income and could not purchase anything. Black people were a
 
-reservoir    of    laborers     and   potential   consumers.       Because        of    the     war, ```
-
+reservoir    of    laborers     and   potential   consumers.       Because        of    the     war, 
 ---
 
 ## Page 131
@@ -9909,8 +9790,7 @@ freedom to exploit Black labor.
 
 viewpoint, he seemed ambivalent about whether it was the correct one. He
 
-was    critical   of   the   proponents   of   abolition   democracy   because   they ```
-
+was    critical   of   the   proponents   of   abolition   democracy   because   they 
 ---
 
 ## Page 132
@@ -9988,8 +9868,7 @@ everyone now.123
 
     Abolition democracy did not entail justice for Native Americans, either.
 
-On the contrary, the entire project could have been built on Indigenous land ```
-
+On the contrary, the entire project could have been built on Indigenous land 
 ---
 
 ## Page 133
@@ -10150,8 +10029,7 @@ because I would want the same. The more I studied and organized with
 
 others, the more I found abolition in conversation with radical feminism,
 
-socialism, environmental justice, and disability justice. ```
-
+socialism, environmental justice, and disability justice. 
 ---
 
 ## Page 135
@@ -10230,8 +10108,7 @@ prisons, and prosecutors to manage the space in between the two.127
 
 however, is that it included police. Before the Ferguson Uprising in 2014,
 
-prison closure campaigns and books like Michelle Alexander’s The New Jim ```
-
+prison closure campaigns and books like Michelle Alexander’s The New Jim 
 ---
 
 ## Page 136
@@ -10307,8 +10184,7 @@ mammoth task that initially seemed unfathomable as a pragmatic approach
 
 to police violence. We can make policing obsolete in incremental changes,
 
-as long as we’re moving in the right direction. ```
-
+as long as we’re moving in the right direction. 
 ---
 
 ## Page 137
@@ -10387,8 +10263,7 @@ before work” on my checklist. I asked again for a firetruck, and after he
 
 proceeded to ignore my plea, firefighters appeared. They popped the door
 
-open in a few seconds. Geuce still teases me about calling the police. ```
-
+open in a few seconds. Geuce still teases me about calling the police. 
 ---
 
 ## Page 138
@@ -10467,8 +10342,7 @@ campaigns. For example, when cities decriminalize drugs, it can remove a
 
 basis for police stops, potentially reducing 911 calls about “drug-related
 
-activity.” This is true for homelessness, sex work, loitering, and any number ```
-
+activity.” This is true for homelessness, sex work, loitering, and any number 
 ---
 
 ## Page 139
@@ -10548,8 +10422,7 @@ follow the lead of any number of student movements to remove cops from
 
 campus and divest their university endowments from private prisons. No
 
-new police academies should be established, and not another soul recruited. ```
-
+new police academies should be established, and not another soul recruited. 
 ---
 
 ## Page 140
@@ -10627,8 +10500,7 @@ realistically result in the end of policing overnight, but rather as Rachel said
 
 with    incremental    progress   toward   shrinking    the   police,   abolition   made
 
-perfect sense. Abolition makes sense if you believe that we should end ```
-
+perfect sense. Abolition makes sense if you believe that we should end 
 ---
 
 ## Page 141
@@ -10640,8 +10512,7 @@ perfect sense. Abolition makes sense if you believe that we should end ```
 
 
 
-up to us. ```
-
+up to us. 
 ---
 
 ## Page 142
@@ -10706,8 +10577,7 @@ my criticisms of policing to a big misunderstanding of what cops do. Others
 
 had been more aggressive. They would remind me that Black people polled
 
-want more police. I didn’t have to assume that these are white men because ```
-
+want more police. I didn’t have to assume that these are white men because 
 ---
 
 ## Page 143
@@ -10785,8 +10655,7 @@ made. In St. Louis, cops made arrests for less than 40 percent of homicides
 
 in 2017, down from above 60 percent in 2011. Police make arrests for about
 
-a third of killings in the area where Malcolm died.134 ```
-
+a third of killings in the area where Malcolm died.134 
 ---
 
 ## Page 144
@@ -10865,8 +10734,7 @@ organizing in St. Louis and Ferguson after the uprising. On my first day at
 
 work, Thomas Mariadason, my supervisor, asked, “If you could start this
 
-job doing anything, what would it be?” Without hesitation, I answered, ```
-
+job doing anything, what would it be?” Without hesitation, I answered, 
 ---
 
 ## Page 145
@@ -10944,8 +10812,7 @@ received and distributed millions of dollars dedicated to reforming police,
 
 bail, and prosecutors. Nonprofits embarked on projects such as increasing
 
-community        policing,   eliminating     bias   in   police,   launching   bailout ```
-
+community        policing,   eliminating     bias   in   police,   launching   bailout 
 ---
 
 ## Page 146
@@ -11023,8 +10890,7 @@ more. Police functions similarly.
 
      In London, I arranged meetings with Deb Coles and Rebecca Roberts at
 
-INQUEST, the only charity providing expertise on state-sanctioned deaths ```
-
+INQUEST, the only charity providing expertise on state-sanctioned deaths 
 ---
 
 ## Page 147
@@ -11184,8 +11050,7 @@ Ferguson to stop police, prison, and prosecutor violence. I loved that I could
 
 do    local,      national,    and     even    some        international      work   through          the
 
-Advancement          Project.      I   was   eager    to   do   this   through     an    abolitionist ```
-
+Advancement          Project.      I   was   eager    to   do   this   through     an    abolitionist 
 ---
 
 ## Page 149
@@ -11263,8 +11128,7 @@ the Workhouse. This was my first lawsuit.
 
 Workhouse so often that I actually thought that it was a place where you
 
-went to get a job. Until somebody did not come home for days. ```
-
+went to get a job. Until somebody did not come home for days. 
 ---
 
 ## Page 150
@@ -11425,8 +11289,7 @@ Workhouse,       Inez   was    committed       to    figuring    out   which   t
 
 belonged to and trusted the activists in the room who were trying to figure
 
-out the same thing. ```
-
+out the same thing. 
 ---
 
 ## Page 152
@@ -11507,8 +11370,7 @@ came to understand abolition is not the mere absence of police and prisons.
 
 It   is   a   paradigm,       aspiration,    and   organizing       practice     to   make    those
 
-institutions obsolete over time. To do that, we needed new ways to think ```
-
+institutions obsolete over time. To do that, we needed new ways to think 
 ---
 
 ## Page 153
@@ -11584,8 +11446,7 @@ solve the underlying problem. She just wanted to be left alone. Ninety
 
 percent of men commit all homicides in the US, not because they are men,
 
-but because of their violent patriarchal socialization to control women. ```
-
+but because of their violent patriarchal socialization to control women. 
 ---
 
 ## Page 154
@@ -11664,8 +11525,7 @@ and economic intimidation tactic. Banks have denied Black people home,
 
 auto, and business loans on the basis of race. The federal government failed
 
-to deliver the educational, economic, and housing benefits it promised to ```
-
+to deliver the educational, economic, and housing benefits it promised to 
 ---
 
 ## Page 155
@@ -11745,8 +11605,7 @@ exchange for intel or to force them to lie. During press conferences, cops
 
 will condemn Black people for refusing to “snitch,” as if telling the police
 
-information or even the truth usually sets anyone free. To help release ```
-
+information or even the truth usually sets anyone free. To help release 
 ---
 
 ## Page 156
@@ -11822,8 +11681,7 @@ Black liberation struggle that was birthed to fight repression from the police
 
 and federal government. When the police killed Black kids sometimes as
 
-young as nine years old in the community, the BLA retaliated. They were ```
-
+young as nine years old in the community, the BLA retaliated. They were 
 ---
 
 ## Page 157
@@ -11903,8 +11761,7 @@ agents killed and imprisoned members of Black organizations. Some, like
 
 Assata Shakur and Pete O’Neal, are still living in exile. When the police
 
-speak     on     television     and     finger-wag         against     “no-snitching,”         we     must ```
-
+speak     on     television     and     finger-wag         against     “no-snitching,”         we     must 
 ---
 
 ## Page 158
@@ -11982,8 +11839,7 @@ capitalism. Coupled with all other kinds of investments and services, these
 
 interventions could lead us closer to a future without gun violence and
 
-without police. ```
-
+without police. 
 ---
 
 ## Page 159
@@ -12064,8 +11920,7 @@ incarcerated, they’ll express that they landed in prison because they got
 
 way others describe poverty—as an individualized failure to overcome the
 
-odds. Yet as the conversations continue, they’ll share that their options were ```
-
+odds. Yet as the conversations continue, they’ll share that their options were 
 ---
 
 ## Page 160
@@ -12143,8 +11998,7 @@ thousands of low-income renters in Northern Virginia against evictions, rent
 
 increases,     landlord     abuse.    The     organization        accomplished      its   ten-year
 
-campaign for nearly 300 housing units that are cooperatively owned and ```
-
+campaign for nearly 300 housing units that are cooperatively owned and 
 ---
 
 ## Page 161
@@ -12223,8 +12077,7 @@ injured three people and could have taken their lives. As he drove alongside
 
 a police car, he held up his middle finger. Cops had complete power and
 
-authority to shoot him to stop him from causing serious bodily injury to the ```
-
+authority to shoot him to stop him from causing serious bodily injury to the 
 ---
 
 ## Page 162
@@ -12304,8 +12157,7 @@ beliefs and practices.154
 
     Transphobia and transantagonism—fear, hatred, and hostility toward
 
-trans people, identity, culture, and ideas—also result in the policing of ```
-
+trans people, identity, culture, and ideas—also result in the policing of 
 ---
 
 ## Page 163
@@ -12383,8 +12235,7 @@ say that this sends a message that you can’t kill trans people and get away
 
 with it. What’s tragic is that most of the murderers remain unknown and
 
-free because these forms of punishment have not completely eliminated ```
-
+free because these forms of punishment have not completely eliminated 
 ---
 
 ## Page 164
@@ -12464,8 +12315,7 @@ boredom.156
 
       Housing must also be a site of abolitionist organizing and advocacy to
 
-eradicate murders. A shockingly high number of young queer people are ```
-
+eradicate murders. A shockingly high number of young queer people are 
 ---
 
 ## Page 165
@@ -12545,8 +12395,7 @@ accomplish free, universal health care for everyone.158
 
      Decriminalization, health care, housing, and income are a few areas
 
-where people are organizing and creating a society that is less violent and ```
-
+where people are organizing and creating a society that is less violent and 
 ---
 
 ## Page 166
@@ -12624,8 +12473,7 @@ this organizing and distribution of care has been by Black people with little
 
 to modest means themselves. Meeting the immediate material needs of
 
-people can be a direct response to interpersonal harm and community ```
-
+people can be a direct response to interpersonal harm and community 
 ---
 
 ## Page 167
@@ -12703,8 +12551,7 @@ began as burglaries and 548 began as robberies. The low murder rate
 
 stemming from burglaries may be connected to two reasons. One, people
 
-usually steal from people they know; “acquaintance” is the largest category ```
-
+usually steal from people they know; “acquaintance” is the largest category 
 ---
 
 ## Page 168
@@ -12784,8 +12631,7 @@ show that drugs and alcohol are used at higher rates in families at high
 
 socioeconomic statuses. The difference is that when they want or need
 
-drugs, they can buy them. Or doctors, friends, parents, and neighbors ```
-
+drugs, they can buy them. Or doctors, friends, parents, and neighbors 
 ---
 
 ## Page 169
@@ -12865,8 +12711,7 @@ The problem is that it happens under criminalization, exploitation, and
 
 police if you’re poor and Black. In the very same song, the rapper says that
 
-he is going to fail the drug test from his probation officer. Lawmakers ```
-
+he is going to fail the drug test from his probation officer. Lawmakers 
 ---
 
 ## Page 170
@@ -12944,8 +12789,7 @@ protesters.167
 
 police and control the whereabouts of Black people, Indigenous peoples,
 
-and people of color. Today, militarism and policing can inspire civilians to ```
-
+and people of color. Today, militarism and policing can inspire civilians to 
 ---
 
 ## Page 171
@@ -13025,8 +12869,7 @@ died.”169
 
 African American teenagers he threatened to kill on the train, said on the
 
-stand, “I blame the system for creating and facilitating people like Jeremy, ```
-
+stand, “I blame the system for creating and facilitating people like Jeremy, 
 ---
 
 ## Page 172
@@ -13104,8 +12947,7 @@ storm ongoing congressional debates and reign supreme over politicians
 
 who fearfully scurried out of the halls of power. Draped in American,
 
-Confederate, Nazi, Thin Blue Line, and Trump flags, the raiders invaded the ```
-
+Confederate, Nazi, Thin Blue Line, and Trump flags, the raiders invaded the 
 ---
 
 ## Page 173
@@ -13185,8 +13027,7 @@ the largest mass shooting in a place of worship in modern history at a
 
 Sutherland Springs church in Texas—the fifth-deadliest shooting massacre
 
-in US history at the time. Twenty-six people died; eight were children. ```
-
+in US history at the time. Twenty-six people died; eight were children. 
 ---
 
 ## Page 174
@@ -13264,8 +13105,7 @@ DC Sniper filling the country with fear. I just knew that the killer was going
 
 to be a white man. The police broadcasted a profile that said that he would
 
-be white. Sniper John Allen Muhammad was very Black, and he had a ```
-
+be white. Sniper John Allen Muhammad was very Black, and he had a 
 ---
 
 ## Page 175
@@ -13343,8 +13183,7 @@ Ruby Ridge, where police or US Marshals fired shots against civilians.
 
 Although    there   was   “no   motive”   established   in   the   Vegas   shooting,
 
-Paddock’s disdain sounded remarkably similar to Timothy McVeigh’s, the ```
-
+Paddock’s disdain sounded remarkably similar to Timothy McVeigh’s, the 
 ---
 
 ## Page 176
@@ -13422,8 +13261,7 @@ Syria; more than 310,000 civilians have become casualties since 2001.
 
 Thirty-seven million have been displaced. The night of the shooting, Mateen
 
-called 911 to demand that the United States stop airstrikes in Syria and Iraq. ```
-
+called 911 to demand that the United States stop airstrikes in Syria and Iraq. 
 ---
 
 ## Page 177
@@ -13501,8 +13339,7 @@ allegedly shot and killed two people and seriously injured a third while he
 
 was waving his assault rifle indiscriminately at protesters. Minutes before
 
-the shooting, the police in riot gear and tanks tossed Rittenhouse and other ```
-
+the shooting, the police in riot gear and tanks tossed Rittenhouse and other 
 ---
 
 ## Page 178
@@ -13580,8 +13417,7 @@ General      (JAG)       Corps     sponsored         the    Black   law     stud
 
 attended. During visits to St. Louis for court or to meet with Action STL, I
 
-visited my alma mater to speak with JROTC classes about all that I’d ```
-
+visited my alma mater to speak with JROTC classes about all that I’d 
 ---
 
 ## Page 179
@@ -13659,8 +13495,7 @@ to   join   white    supremacist       and    racist   peer    groups     for   
 
 protection or be ostracized by having friends of other races. As reporter
 
-Melissa del Bosque wrote for The Intercept: ```
-
+Melissa del Bosque wrote for The Intercept: 
 ---
 
 ## Page 180
@@ -13738,8 +13573,7 @@ Simone Browne talks about ‘unvisibility,’ you are there, so they see you, bu
 
 you’re invisible, too.” Hamid was one of the few pilots who were not white,
 
-and the men would drop epithets about Black and Middle Eastern people ```
-
+and the men would drop epithets about Black and Middle Eastern people 
 ---
 
 ## Page 181
@@ -13815,8 +13649,7 @@ to end deportations and transformed into a network of grassroots hubs that
 
 organize people, campaigns, and technology to build power against, outside,
 
-and within the state. ```
-
+and within the state. 
 ---
 
 ## Page 182
@@ -13895,8 +13728,7 @@ commitment to solidarity with oppressed people in other countries. It is also
 
 anti-imperialist, against the US using the military to spread power and
 
-influence in other countries by force. For the ones who made it back, the ```
-
+influence in other countries by force. For the ones who made it back, the 
 ---
 
 ## Page 183
@@ -13974,8 +13806,7 @@ started building relationships with the organizers in Action and trusted them
 
 to fight for the liberation of Black people in St. Louis. If abolition was going
 
-to be one framework that they were going to use to start reducing their ```
-
+to be one framework that they were going to use to start reducing their 
 ---
 
 ## Page 184
@@ -13999,8 +13830,7 @@ that we live in. As we are paving the road to abolition, we will choose better
 
 solutions for accountability and real justice that do not rely on the same
 
-systems that murder us, too. ```
-
+systems that murder us, too. 
 ---
 
 ## Page 185
@@ -14066,8 +13896,7 @@ you’ve been sexually harassed or assaulted write ‘me too’ as a reply to th
 
 tweet.”   Hundreds     of     thousands,   perhaps    millions   of   women      eventually
 
-shared    stories   online.    When   Milano    was    celebrated     as   the   founder   of ```
-
+shared    stories   online.    When   Milano    was    celebrated     as   the   founder   of 
 ---
 
 ## Page 186
@@ -14146,8 +13975,7 @@ opened wounds about early conversations that had been meant to protect us
 
 from sexual violence. After cop and vigilante murders went viral, journalists
 
-were obsessed with asking Black parents what we were going to tell our ```
-
+were obsessed with asking Black parents what we were going to tell our 
 ---
 
 ## Page 187
@@ -14227,8 +14055,7 @@ that I was traveling somewhere. As I’d repeatedly decline their advances,
 
 they would play it safe by reassuring me that they were just being nice. One
 
-woman mentor told me when I sought her help in college, “You’re a ```
-
+woman mentor told me when I sought her help in college, “You’re a 
 ---
 
 ## Page 188
@@ -14308,8 +14135,7 @@ marriage anymore, or that divorce was the easy route because congregants
 
 lacked patience to resolve problems. By continuing to help my friends leave
 
-their marriages, I felt like a fugitive sitting in the pews, listening to how I ```
-
+their marriages, I felt like a fugitive sitting in the pews, listening to how I 
 ---
 
 ## Page 189
@@ -14387,8 +14213,7 @@ definition categorically narrowed prosecutions toward men if a woman did
 
 not physically resist, and failed to recognize other forms of sexual violence
 
-against men, women, nonbinary, gender-nonconforming, genderqueer, and ```
-
+against men, women, nonbinary, gender-nonconforming, genderqueer, and 
 ---
 
 ## Page 190
@@ -14466,8 +14291,7 @@ arrest in 33 percent of cases. Conviction and imprisonment rates are much
 
 lower than that. Yet the legal lessons took for granted that prisons had to be
 
-the sole answer.199 ```
-
+the sole answer.199 
 ---
 
 ## Page 191
@@ -14628,8 +14452,7 @@ percent wanted to catch, punish, and prevent someone from harming again.
 
 Twenty-one percent reported to help cops, or they felt they had a duty to
 
-report a crime, a 6 percent drop from when VAWA passed. The resources ```
-
+report a crime, a 6 percent drop from when VAWA passed. The resources 
 ---
 
 ## Page 193
@@ -14707,8 +14530,7 @@ caused and experienced harm. The problem is the pipes underneath the
 
 surface. Millions of people experience sexual violence every year because
 
-of deep, underlying systems, ideas, and laws that police cannot solve, no ```
-
+of deep, underlying systems, ideas, and laws that police cannot solve, no 
 ---
 
 ## Page 194
@@ -14788,8 +14610,7 @@ does not happen in a vacuum.
 
     It is swept up in all of the other oppressive systems of exploitation,
 
-extraction, and exclusion that has to be undermined and abolished. As a kid, ```
-
+extraction, and exclusion that has to be undermined and abolished. As a kid, 
 ---
 
 ## Page 195
@@ -14867,8 +14688,7 @@ subordination,    and    wealth     accumulation       through    the    reprodu
 
 children. White men were not legally punished for raping Black women
 
-under slavery, and in Missouri, Black male slaves could not be charged, ```
-
+under slavery, and in Missouri, Black male slaves could not be charged, 
 ---
 
 ## Page 196
@@ -14946,8 +14766,7 @@ significant role in women’s ability to leave as those women who are most
 
 likely to leave their partners were the ones who are financially independent.”
 
-Black, multi-racial, and undocumented women have greater risk of being in ```
-
+Black, multi-racial, and undocumented women have greater risk of being in 
 ---
 
 ## Page 197
@@ -15027,8 +14846,7 @@ used sexual violence against Indigenous people as a form of punishment,
 
 domination, and control. In the Caribbean, an Indigenous woman viciously
 
-fought    Christopher         Columbus     when    he     kidnapped       and   raped     her;   he ```
-
+fought    Christopher         Columbus     when    he     kidnapped       and   raped     her;   he 
 ---
 
 ## Page 198
@@ -15106,8 +14924,7 @@ violence, which lesbian, gay, and bisexual people experience at similar or
 
 higher rates than heterosexual people. Bisexual men and women experience
 
-the highest rates of sexual violence; nearly half have been raped in their ```
-
+the highest rates of sexual violence; nearly half have been raped in their 
 ---
 
 ## Page 199
@@ -15187,8 +15004,7 @@ because what could be worse? The classmate pointed to curse Geuce. I was
 
 late for work, but I hid in the doorway anyway, to observe. Geuce responded
 
-in his little voice, “It’s okay. Anybody can be a girl.” I was so, so proud. ```
-
+in his little voice, “It’s okay. Anybody can be a girl.” I was so, so proud. 
 ---
 
 ## Page 200
@@ -15267,8 +15083,7 @@ daddy who was okay with this? God. I was so embarrassed. What should
 
 have been a harmless, fun activity was now becoming some sort of public
 
-spectacle and lesson. Not because Geuce wanted to pretend that he had ```
-
+spectacle and lesson. Not because Geuce wanted to pretend that he had 
 ---
 
 ## Page 201
@@ -15344,8 +15159,7 @@ education, and legal study, I became increasingly convinced that police
 
 cannot stop sexual violence, and more, that they are a source of sexual
 
-violence. ```
-
+violence. 
 ---
 
 ## Page 202
@@ -15506,8 +15320,7 @@ assault, and mistreatment. The figure may be underreported. Cops can
 
 technically “have sex” with people they arrest without consequence. For
 
-obvious reasons, consent is nearly impossible to give freely when a cop ```
-
+obvious reasons, consent is nearly impossible to give freely when a cop 
 ---
 
 ## Page 204
@@ -15585,8 +15398,7 @@ countless routine searches, pat downs, groping, vaginal and anal checks, and
 
 much more by guards are nonconsensual and also constitute sexual assault,
 
-battery,   and   rape.   Abolishing   the    prison   industrial   complex   abolishes ```
-
+battery,   and   rape.   Abolishing   the    prison   industrial   complex   abolishes 
 ---
 
 ## Page 205
@@ -15664,8 +15476,7 @@ woman, Blyth, described being raped by a close friend:
 
       How could Blyth’s friend do this? And how could she still love him?
 
-She didn’t turn to numbers and statistics, nor punishment. She did not write ```
-
+She didn’t turn to numbers and statistics, nor punishment. She did not write 
 ---
 
 ## Page 206
@@ -15743,8 +15554,7 @@ control, and domination.
 
 small town. It was happening all over the country and world, and inside and
 
-outside the armed forces. In the US military, all genders experienced more ```
-
+outside the armed forces. In the US military, all genders experienced more 
 ---
 
 ## Page 207
@@ -15824,8 +15634,7 @@ not a failure of policing; this is policing.219
 
     After much research, I could not find any specific data for the US
 
-Virgin Islands, the tiny Black colony in the Caribbean. The FBI may not ```
-
+Virgin Islands, the tiny Black colony in the Caribbean. The FBI may not 
 ---
 
 ## Page 208
@@ -15904,8 +15713,7 @@ violence declined 72 percent for females and 64 percent for males. Since
 
 ages 12 to 17 reportedly declined 56 percent between 1993 and 2000,
 
-including a 72 percent drop in harm committed by family members and ```
-
+including a 72 percent drop in harm committed by family members and 
 ---
 
 ## Page 209
@@ -16065,8 +15873,7 @@ homelessness.      Investments        in    education,       housing,   and     
 
 reduce precarity that makes people more vulnerable to sexual violence. And
 
-all violence.227 ```
-
+all violence.227 
 ---
 
 ## Page 211
@@ -16144,8 +15951,7 @@ must also learn how to change it. I believe in a world where we draw from
 
 this legacy as much as we draw from the legacy of Black Panthers to invoke
 
-community self-defense, mutual aid, and free breakfast programs to inform ```
-
+community self-defense, mutual aid, and free breakfast programs to inform 
 ---
 
 ## Page 212
@@ -16223,8 +16029,7 @@ distancing, social solidarity, relief is revolutionary.”231
 
 LGBTQIA-SPECIFIC INTERVENTIONS AT the                   community level are indispensable
 
-for police abolition as well. Casa Ruby does similar work year-round in ```
-
+for police abolition as well. Casa Ruby does similar work year-round in 
 ---
 
 ## Page 213
@@ -16304,8 +16109,7 @@ violence from the community and the prison industrial complex.233
 
       Organizations such as Assata’s Daughters also work explicitly from an
 
-abolitionist lens. The Chicago-based group was founded in 2015 by Black ```
-
+abolitionist lens. The Chicago-based group was founded in 2015 by Black 
 ---
 
 ## Page 214
@@ -16383,8 +16187,7 @@ sexual violence. The restorative and transformative models they use are not
 
 romantic or perfect, but through deep experimentation, their members have
 
-embarked       on    efforts    to   restore     relationships   between        each   other       after ```
-
+embarked       on    efforts    to   restore     relationships   between        each   other       after 
 ---
 
 ## Page 215
@@ -16462,8 +16265,7 @@ in particular populations have experienced physical or sexual abuse. In
 
 the air to stop her husband from abusing and threatening to kill her. She was
 
-arrested, prosecuted, convicted, and sentenced to twenty years in prison. ```
-
+arrested, prosecuted, convicted, and sentenced to twenty years in prison. 
 ---
 
 ## Page 216
@@ -16543,8 +16345,7 @@ woman’s perpetrator. According to the National Center for Women and
 
 Policing: “Two studies have found that at least 40 percent of police officer
 
-families experience domestic violence, in contrast to 10 percent of families ```
-
+families experience domestic violence, in contrast to 10 percent of families 
 ---
 
 ## Page 217
@@ -16622,8 +16423,7 @@ trying   to   figure     out    his   relationship      to    Christianity     a
 
 manhood. When we divorced nine years later and became friends and co-
 
-parents, I realized how the marital benefits I once aspired to have did not ```
-
+parents, I realized how the marital benefits I once aspired to have did not 
 ---
 
 ## Page 218
@@ -16667,8 +16467,7 @@ health care, and other programs like free and quality childhood education,
 
 people vulnerable to violence have more free range to move, live, and
 
-practice healthy lifestyles. ```
-
+practice healthy lifestyles. 
 ---
 
 ## Page 219
@@ -16732,8 +16531,7 @@ humanity is separate from the tender body and mind that I occupy, and I am
 
 obligated to protect it. A slave trade made that body racial; patriarchy made
 
-that body gendered; and the heights of sidewalk curbs, kitchen cabinets, and ```
-
+that body gendered; and the heights of sidewalk curbs, kitchen cabinets, and 
 ---
 
 ## Page 220
@@ -16809,8 +16607,7 @@ humans involved” is arguably worse than dehumanization because it denies
 
 the possibility of any humanity at all. It’s not something removed, but
 
-something that was, is, and always will be, non-existent. ```
-
+something that was, is, and always will be, non-existent. 
 ---
 
 ## Page 221
@@ -16889,8 +16686,7 @@ subjective and can mean everything, anything. Sometimes it is a precursor
 
 to violence; many of the activists I organized with believed that since they
 
-don’t consider us human, then they can justify their violence against us; that ```
-
+don’t consider us human, then they can justify their violence against us; that 
 ---
 
 ## Page 222
@@ -16968,8 +16764,7 @@ white people can give anybody their freedom. No man can give anybody his
 
 freedom.” And I believe the same of our humanity. In order to understand
 
-white supremacy, policing, or any other system of oppression, we must ```
-
+white supremacy, policing, or any other system of oppression, we must 
 ---
 
 ## Page 223
@@ -17047,8 +16842,7 @@ begged the British crown for more money to fund more patrols and militias
 
 to fight what they described as the unassailable runaways who waged
 
-attacks on them; planters sometimes fabricated and exaggerated the raids to ```
-
+attacks on them; planters sometimes fabricated and exaggerated the raids to 
 ---
 
 ## Page 224
@@ -17210,8 +17004,7 @@ Run alone. Run with others. Return. Never return. Not everybody could run,
 
 including   many   children,   the   elderly,      and   some   disabled   slaves.   Many
 
-ventured anyway. Harriet Tubman did. Tubman is perhaps the most famous ```
-
+ventured anyway. Harriet Tubman did. Tubman is perhaps the most famous 
 ---
 
 ## Page 226
@@ -17289,8 +17082,7 @@ For three decades, the US government denied her a pension for her military
 
 service, even first paying her a small pension as a widow because her late
 
-husband had fought in the Civil War. Tubman supported her family and ```
-
+husband had fought in the Civil War. Tubman supported her family and 
 ---
 
 ## Page 227
@@ -17368,8 +17160,7 @@ protests. M4BL’s policy table released “A Vision for Black Lives: Policy
 
 Demands for Black Power, Freedom, and Justice,” a comprehensive and
 
-visionary policy agenda for the liberation movement that was catalyzed in ```
-
+visionary policy agenda for the liberation movement that was catalyzed in 
 ---
 
 ## Page 228
@@ -17447,8 +17238,7 @@ Aledda shot Kinsey instead. Aledda’s first trial ended in a hung jury. In his
 
 second, he was acquitted on two charges and found guilty of negligence on
 
-the second.255 ```
-
+the second.255 
 ---
 
 ## Page 229
@@ -17527,8 +17317,7 @@ more authors had submitted pieces on disability, race, and police violence.
 
 A group of disabled Black organizers called the Harriet Tubman Collective
 
-contributed a searing submission on erasure and marginalization within the ```
-
+contributed a searing submission on erasure and marginalization within the 
 ---
 
 ## Page 230
@@ -17606,8 +17395,7 @@ neglecting to account for representation from all kinds of organizers, to
 
 choosing to have actions and marches without considering various ways that
 
-people can participate. It wasn’t until Belinda Hall that I was pushed to ask ```
-
+people can participate. It wasn’t until Belinda Hall that I was pushed to ask 
 ---
 
 ## Page 231
@@ -17685,8 +17473,7 @@ activist spaces for themselves, too. Similarly, the Harriet Tubman Collective,
 
 including Lewis, challenged the Movement for Black Lives for perpetuating
 
-ableism, and called out the disability rights movement for perpetuating ```
-
+ableism, and called out the disability rights movement for perpetuating 
 ---
 
 ## Page 232
@@ -17764,8 +17551,7 @@ workers.     Writer       and   activist   Marta    Russell    explains,      �
 
 provided with a social safety net that adequately protected them through
 
-unemployment, sickness, disability, and old age, laborers would gain a ```
-
+unemployment, sickness, disability, and old age, laborers would gain a 
 ---
 
 ## Page 233
@@ -17923,8 +17709,7 @@ the door to a home where he did not reside. They threw a flashbang grenade
 
 and it exploded inside nineteen-month-old Bounkham Phonesavanh’s crib.
 
-The grenade put a hole in the baby’s small chest. Seeing a pool of blood and ```
-
+The grenade put a hole in the baby’s small chest. Seeing a pool of blood and 
 ---
 
 ## Page 235
@@ -18082,8 +17867,7 @@ medics, rather than law enforcement, and agreed to put the scissors down.
 
 Mullings entered the apartment and Danner was empty-handed. According
 
-to a New York Times feature, Danner had physically calmed down but ```
-
+to a New York Times feature, Danner had physically calmed down but 
 ---
 
 ## Page 237
@@ -18161,8 +17945,7 @@ transportation, clothing, and Communion. We did not only pray for the
 
 “sick    and   shut-in”;   we   were   commanded     to   create   the   conditions   for
 
-everyone’s participation in fellowship with each other. As I’ve aged, I’ve ```
-
+everyone’s participation in fellowship with each other. As I’ve aged, I’ve 
 ---
 
 ## Page 238
@@ -18242,8 +18025,7 @@ standing outside who had just lost everything. After police shot her, this was
 
 the widely circulated picture in the media that probably confirmed for some
 
-people that she was a large, aggressive old woman. One picture after a fire. ```
-
+people that she was a large, aggressive old woman. One picture after a fire. 
 ---
 
 ## Page 239
@@ -18319,8 +18101,7 @@ uncommon for newspapers to report that he and other examiners tampered
 
 with    police     cases,   destroying       and    misconstruing     data   that    might      have
 
-revealed more details about police killings. Sullivan was charged with ```
-
+revealed more details about police killings. Sullivan was charged with 
 ---
 
 ## Page 240
@@ -18398,8 +18179,7 @@ commands because he only spoke Spanish. Consequently, NYPD created
 
 the ESU. A week after Baez’s killing, white NYPD officer Michael Latimer
 
-shot and killed Elizabeth Magnum, a thirty-five-year-old Black woman, ```
-
+shot and killed Elizabeth Magnum, a thirty-five-year-old Black woman, 
 ---
 
 ## Page 241
@@ -18477,8 +18257,7 @@ EBJC’s work was so much more comprehensive than the reforms that New
 
 York City offered its residents. In a press release following the acquittal,
 
-EBJC wrote:282 ```
-
+EBJC wrote:282 
 ---
 
 ## Page 242
@@ -18558,8 +18337,7 @@ WHEN FRIENDS OF mine or people I grew up with die, I reread all of our texts
 
 and social media messages. Sometimes, I’ll send a message even though I
 
-know they will not respond. I don’t know why, but it feels related to my ```
-
+know they will not respond. I don’t know why, but it feels related to my 
 ---
 
 ## Page 243
@@ -18639,8 +18417,7 @@ The hairstylist seemed to love stripes and lip color. Her pictures were mostly
 
 selfies, kids, and positivity memes until April 2015. She then made a
 
-political post about Freddie Gray, who had been killed by the Baltimore ```
-
+political post about Freddie Gray, who had been killed by the Baltimore 
 ---
 
 ## Page 244
@@ -18720,8 +18497,7 @@ the encounter on Facebook live for safety and transparency. Cops told
 
 Facebook to cut the feed from the public and the social media site complied.
 
-A cop shot Gaines when she walked to the kitchen toward her son. The ```
-
+A cop shot Gaines when she walked to the kitchen toward her son. The 
 ---
 
 ## Page 245
@@ -18801,8 +18577,7 @@ and therapist, and she could share as much or as little about her health
 
 without risking being fired. In that society, Eleanor Bumpurs would not
 
-have to live in the projects because there would not be any projects, but ```
-
+have to live in the projects because there would not be any projects, but 
 ---
 
 ## Page 246
@@ -18881,8 +18656,7 @@ thriving social, civic, and political community until white people nearby
 
 prohibited its expansion and sold off homes to a developer for an airport
 
-runway that never happened. My aunt’s home on Dade in Ferguson bordered ```
-
+runway that never happened. My aunt’s home on Dade in Ferguson bordered 
 ---
 
 ## Page 247
@@ -18962,8 +18736,7 @@ did not live. Dustin said that in January 2016, Kelley and his father were
 
 drinking beers at a public gazebo a few blocks away from the Center when
 
-the police approached them. Kelley resisted an officer when she tried to ```
-
+the police approached them. Kelley resisted an officer when she tried to 
 ---
 
 ## Page 248
@@ -19041,8 +18814,7 @@ nursing facilities, prisons, and jails. He realized that the police could only
 
 exacerbate crises that his community experienced: “I mean, I’m talking
 
-about twenty-six year olds that’s like, ‘Yo, I have diabetes. I’m sleeping in ```
-
+about twenty-six year olds that’s like, ‘Yo, I have diabetes. I’m sleeping in 
 ---
 
 ## Page 249
@@ -19122,8 +18894,7 @@ believes that care for disabled people should be free, and that caregivers
 
 should    be   compensated    fairly.   By    care,   he   meant   that    people   in   our
 
-communities     should    learn   how   to   get   somebody     out   of   bed,    organize ```
-
+communities     should    learn   how   to   get   somebody     out   of   bed,    organize 
 ---
 
 ## Page 250
@@ -19203,8 +18974,7 @@ families, friends, and communities to strengthen this support. Housing
 
 crises, gentrification, and residential displacement can disrupt close-knit
 
-blocks    and     neighborhoods.              Tenant        groups,      homeowners,       and    block ```
-
+blocks    and     neighborhoods.              Tenant        groups,      homeowners,       and    block 
 ---
 
 ## Page 251
@@ -19284,8 +19054,7 @@ trained sufficiently to replicate the training in their organizations. OPP
 
 helped participants develop concrete responses to different scenarios to
 
-eliminate contact with police and reduce the potential for violence. Onyinye ```
-
+eliminate contact with police and reduce the potential for violence. Onyinye 
 ---
 
 ## Page 252
@@ -19365,8 +19134,7 @@ pain from the horrific memories. Louima received $8.75 million, the largest
 
 payout for a police brutality case at the time. He used the money to open
 
-hospitals    and       fund    educational    opportunities      in    his    homeland,         Haiti. ```
-
+hospitals    and       fund    educational    opportunities      in    his    homeland,         Haiti. 
 ---
 
 ## Page 253
@@ -19446,8 +19214,7 @@ communities are often treated as disposable, especially within the current
 
 economic, political and environmental landscape.” Without resistance and
 
-organizing,     the       destruction      of     the    planet     will   have      catastrophic ```
-
+organizing,     the       destruction      of     the    planet     will   have      catastrophic 
 ---
 
 ## Page 254
@@ -19463,8 +19230,7 @@ facilitate the destruction of the Earth by advancing and facilitating the
 
 torture, displacement, ableism, and death that makes it easier for companies
 
-to make a profit from our communities. We must not let them.299 ```
-
+to make a profit from our communities. We must not let them.299 
 ---
 
 ## Page 255
@@ -19529,8 +19295,7 @@ grandmother displayed “Happy Fall!” on her windows and Ms. Yvonne put
 
 brown and orange turkey cutouts on hers. When Ms. Yvonne wrapped green
 
-Christmas lights around the peeling black steel bannisters, my grandmother ```
-
+Christmas lights around the peeling black steel bannisters, my grandmother 
 ---
 
 ## Page 256
@@ -19608,8 +19373,7 @@ loitering, trespass, and idleness. So back into the house we’d go until we
 
 needed temporary relief again. If the block continues to get hot, it might be
 
-even worse. By one prediction in David Wallace-Wells’s The Uninhabitable ```
-
+even worse. By one prediction in David Wallace-Wells’s The Uninhabitable 
 ---
 
 ## Page 257
@@ -19687,8 +19451,7 @@ throughout the US. Police enforced these laws with the help of white
 
 residents,   students,     and    business       owners.         Even     celebratory       functions
 
-remained segregated. Memphis still held onto cotton as a major crop in the ```
-
+remained segregated. Memphis still held onto cotton as a major crop in the 
 ---
 
 ## Page 258
@@ -19768,8 +19531,7 @@ cornered and clubbed to death hundreds of thousands of rabbits. Thousands
 
 of grasshoppers would swarm crops at a time. The government bought cattle
 
-from farmers as economic relief but killed half of them because they could ```
-
+from farmers as economic relief but killed half of them because they could 
 ---
 
 ## Page 259
@@ -19847,8 +19609,7 @@ discrimination during the “Bum Blockade” and beyond were internally
 
 displaced people, a category of climate migrants who are forced to move
 
-about inside a nation’s borders due to environmental events (as compared to ```
-
+about inside a nation’s borders due to environmental events (as compared to 
 ---
 
 ## Page 260
@@ -19928,8 +19689,7 @@ melts polar ice caps and raise sea levels that encroach on native coastal
 
 communities who rely on the land for their livelihood. Low-income Black
 
-and   Latinx   people     are   more   likely   to   live   in   neighborhoods    prone    to ```
-
+and   Latinx   people     are   more   likely   to   live   in   neighborhoods    prone    to 
 ---
 
 ## Page 261
@@ -20007,8 +19767,7 @@ graduation the following year to commemorate the devastation and triumph
 
 in the community. We left the basement without any incident that time
 
-around. ```
-
+around. 
 ---
 
 ## Page 262
@@ -20087,8 +19846,7 @@ discourage Indigenous peoples from setting fires to the land where trees
 
 could be sold for profit. Since 1850, California had banned ritualistic and
 
-cultural burnings of forest land by tribes. Before these burnings were ```
-
+cultural burnings of forest land by tribes. Before these burnings were 
 ---
 
 ## Page 263
@@ -20166,8 +19924,7 @@ Joplin. When I reported on Hurricane Katrina as a high school student in
 
 JROTC, it was called a “natural disaster.” The major story then was that the
 
-government had built insufficient levees to stop the flood. It would be almost ```
-
+government had built insufficient levees to stop the flood. It would be almost 
 ---
 
 ## Page 264
@@ -20247,8 +20004,7 @@ DC corporate lawyer who went to Louisiana, where she was from, to
 
 volunteer in the aftermath of the hurricane for a few weeks. She eventually
 
-quit her job and became a climate activist. Battle demanded pay for the ```
-
+quit her job and became a climate activist. Battle demanded pay for the 
 ---
 
 ## Page 265
@@ -20326,8 +20082,7 @@ adjacent to the prison.
 
 conditions, incarcerated people obviously face considerable obstacles and
 
-punishment if they attempt to make demands, and especially if they attempt ```
-
+punishment if they attempt to make demands, and especially if they attempt 
 ---
 
 ## Page 266
@@ -20407,8 +20162,7 @@ repressed activism with tear gas, beatings, and assassinations. AP agreed. I
 
 stayed at a very cute, small beachfront hotel and fell asleep to the sound of
 
-waves softly thumping against my room. When I woke up, I opened the ```
-
+waves softly thumping against my room. When I woke up, I opened the 
 ---
 
 ## Page 267
@@ -20486,8 +20240,7 @@ thousand      cops     every    day.       They    did     “sick-in”      pr
 
 governments did not pay them for overtime to stop crime, primarily theft of
 
-generators and other resources for survival. Rather than spending the money ```
-
+generators and other resources for survival. Rather than spending the money 
 ---
 
 ## Page 268
@@ -20565,8 +20318,7 @@ storms.319
 
       For me, Critical Resistance’s work in Louisiana, Fight Toxic Prison’s
 
-work across the country, and the incarcerated organizers in Puerto Rico ```
-
+work across the country, and the incarcerated organizers in Puerto Rico 
 ---
 
 ## Page 269
@@ -20644,8 +20396,7 @@ people were displaced, and forty churches were bulldozed. The construction
 
 made way for the highway that ran next to the apartments where my mother,
 
-grandmother, and I lived. These routes made it easier for the white suburban ```
-
+grandmother, and I lived. These routes made it easier for the white suburban 
 ---
 
 ## Page 270
@@ -20725,8 +20476,7 @@ years, my grandmother made all of the repairs that she could by herself. She
 
 fixed broken pipes that she had not burst; paid for painting to cover the
 
-peeling lead paint; and boarded floors and stairs to cover gaping holes. The ```
-
+peeling lead paint; and boarded floors and stairs to cover gaping holes. The 
 ---
 
 ## Page 271
@@ -20804,8 +20554,7 @@ evict the parents, sometimes to arrest and harass the lead-poisoned children
 
 and throw them in the Workhouse. None of it removed the lead, only the
 
-survivors.323 ```
-
+survivors.323 
 ---
 
 ## Page 272
@@ -20884,8 +20633,7 @@ tantrums, argumentativeness, active defiance and refusal to comply with
 
 adult requests and rules, deliberate attempts to annoy and upset people,
 
-frequent     anger   and    resentment,       mood      instability,    substance    abuse, ```
-
+frequent     anger   and    resentment,       mood      instability,    substance    abuse, 
 ---
 
 ## Page 273
@@ -20963,8 +20711,7 @@ response.327
 
        Especially      insidiously,    Washington            explains    that    General         Motors
 
-decided to use lead in gas because the company could not patent and profit ```
-
+decided to use lead in gas because the company could not patent and profit 
 ---
 
 ## Page 274
@@ -21044,8 +20791,7 @@ adults and 15% of the children, as compared to 5% of adults and 2.5% of
 
 children citywide.” The scientists associated the blood lead levels with
 
-recent repair work, the inability to speak English, belonging to Bangladeshi ```
-
+recent repair work, the inability to speak English, belonging to Bangladeshi 
 ---
 
 ## Page 275
@@ -21123,8 +20869,7 @@ stereotypical Black-grandmother living room: the couches were gold paisley
 
 with red specks and the armchairs were green. Everything was in plastic
 
-except for the wooden television set with the built-in record player. I had ```
-
+except for the wooden television set with the built-in record player. I had 
 ---
 
 ## Page 276
@@ -21204,8 +20949,7 @@ social workers, and foster care. When cops and social workers came to our
 
 house, we were poor and physically ill. Not abused. They removed us from
 
-our home and it did not stop us from getting sick. Ironically, my second ```
-
+our home and it did not stop us from getting sick. Ironically, my second 
 ---
 
 ## Page 277
@@ -21285,8 +21029,7 @@ for me to want to reclaim our planet in the name of abolition, environmental
 
 justice, and climate justice. But this reclamation was especially important
 
-for what is to come, the unfamiliar. If capitalists and countries do not reduce ```
-
+for what is to come, the unfamiliar. If capitalists and countries do not reduce 
 ---
 
 ## Page 278
@@ -21364,8 +21107,7 @@ I cannot exactly remember when I learned about them but I remember how I
 
 felt to learn that the City of Philadelphia dropped a bomb on a house full of
 
-Black people in 1985. For more than ten years before the bombing, the ```
-
+Black people in 1985. For more than ten years before the bombing, the 
 ---
 
 ## Page 279
@@ -21443,8 +21185,7 @@ MOVE’s rapidly gentrifying neighborhood to spy on Black and left-wing
 
 groups. On March 28, 1976, MOVE threw a welcome-home celebration for
 
-family members returning from jail. Cops showed up and attacked them, ```
-
+family members returning from jail. Cops showed up and attacked them, 
 ---
 
 ## Page 280
@@ -21524,8 +21265,7 @@ and programs that build up our neighborhoods and MOVE is a primary
 
 example. They prevented other radical and progressive organizing as well.
 
-Chicago   Police    Department       destroyed       the    meals   for   the   free   breakfast ```
-
+Chicago   Police    Department       destroyed       the    meals   for   the   free   breakfast 
 ---
 
 ## Page 281
@@ -21605,8 +21345,7 @@ white people. I played softball at Ivory Perry park for three years and did
 
 not know about his legacy of organizing against police violence, economic
 
-oppression, and environmental degradation for Black families across St. ```
-
+oppression, and environmental degradation for Black families across St. 
 ---
 
 ## Page 282
@@ -21684,8 +21423,7 @@ self-determination, decolonization, and liberation” in addition to the free
 
 housing,        universal   health   care,   free    education,   and   green    jobs   already
 
-proposed in the Green New Deal. The Green New Deal is a policy proposal ```
-
+proposed in the Green New Deal. The Green New Deal is a policy proposal 
 ---
 
 ## Page 283
@@ -21763,8 +21501,7 @@ and ourselves can contribute in various ways that can promote healthy living
 
 while abolishing all of the forms of state and corporate violence that causes
 
-premature death. The abolition of the prison industrial complex is the ```
-
+premature death. The abolition of the prison industrial complex is the 
 ---
 
 ## Page 284
@@ -21776,8 +21513,7 @@ premature death. The abolition of the prison industrial complex is the ```
 
 
 
-Earth.341 ```
-
+Earth.341 
 ---
 
 ## Page 285
@@ -21840,8 +21576,7 @@ nobody answered.
 
 Texas who had left her door open one early morning while playing video
 
-games with her nephew. A neighbor called the cops to perform a wellness ```
-
+games with her nephew. A neighbor called the cops to perform a wellness 
 ---
 
 ## Page 286
@@ -21921,8 +21656,7 @@ car could have hit the toddler, or a stranger could have abducted him off the
 
 street. Flames could have engulfed the house, or the mounted television
 
-could have fallen. The parent could have lost her children, or, if they’d lived, ```
-
+could have fallen. The parent could have lost her children, or, if they’d lived, 
 ---
 
 ## Page 287
@@ -21998,8 +21732,7 @@ helped in the street, their fate could have been akin to the millions of other
 
 Black kids whom the state removed, and who now constitute nearly 25
 
-percent of kids in foster care.343 ```
-
+percent of kids in foster care.343 
 ---
 
 ## Page 288
@@ -22079,8 +21812,7 @@ from the system when they are in dire need of resources.345
 
        After being removed from their mother’s home, the sisters had lived
 
-with    their   grandmother,    but   a   landlord   kicked    them    out   of   the   newly ```
-
+with    their   grandmother,    but   a   landlord   kicked    them    out   of   the   newly 
 ---
 
 ## Page 289
@@ -22158,8 +21890,7 @@ kicked them out of their grandmother’s apartment, their grandmother could
 
 have had her own home where they had sleepovers on floors and couches for
 
-fun,   not   out   of   necessity.   If   the   teens   argued     with   their   mother    over ```
-
+fun,   not   out   of   necessity.   If   the   teens   argued     with   their   mother    over 
 ---
 
 ## Page 290
@@ -22237,8 +21968,7 @@ further context, in 2020 the top four categories for calls were area check
 
 (104,004),        complaint       (47,419),       business    check     (25,527),    disturbance
 
-(25,240), as compared to theft (12,865), suicide threat (1,650), death (292), ```
-
+(25,240), as compared to theft (12,865), suicide threat (1,650), death (292), 
 ---
 
 ## Page 291
@@ -22316,8 +22046,7 @@ learn about their contact with police. The organization documented the
 
 various contacts, created a people’s history of police violence to display in
 
-the streets there, and then created campaigns based on that information to ```
-
+the streets there, and then created campaigns based on that information to 
 ---
 
 ## Page 292
@@ -22395,8 +22124,7 @@ because it threatens capitalism, business and government work together to
 
 make it sound scary and dangerous. They’ll point to Cuba or the Soviet
 
-Union as failures of socialism or communism, even though the US has been ```
-
+Union as failures of socialism or communism, even though the US has been 
 ---
 
 ## Page 293
@@ -22476,8 +22204,7 @@ integrated society, would have been rich, and not just the seven Black
 
 Americans       who     became      billionaires—Oprah            Winfrey,   Michael       Jordan,
 
-Tyler Perry, Kanye West, Jay-Z, Robert Smith, and David Steward. Slaves ```
-
+Tyler Perry, Kanye West, Jay-Z, Robert Smith, and David Steward. Slaves 
 ---
 
 ## Page 294
@@ -22557,8 +22284,7 @@ and respond to harm.352
 
       Rather than further displacement and land dispossession, the Red Deal
 
-echoes calls for free and sustainable housing, education, health care, and ```
-
+echoes calls for free and sustainable housing, education, health care, and 
 ---
 
 ## Page 295
@@ -22636,8 +22362,7 @@ writing the conclusion to this book. Every neighborhood would have five
 
 quality features: a neighborhood council; free twenty-four-hour childcare;
 
-art, conflict, and mediation centers; a free health clinic; and a green team. ```
-
+art, conflict, and mediation centers; a free health clinic; and a green team. 
 ---
 
 ## Page 296
@@ -22716,8 +22441,7 @@ which is especially important because abolition requires us to begin creating
 
 safe spaces where we are. We’d spend time cultivating current and future
 
-generations to be invested in their local communities. No more excitement ```
-
+generations to be invested in their local communities. No more excitement 
 ---
 
 ## Page 297
@@ -22795,8 +22519,7 @@ about watching children. If the median income for a cop is seventy thousand
 
 dollars,    then      surely   we      can    at   least     pay    that   to   a       multiracial,
 
-multigenerational corps of childcare workers, a far cry from what the ```
-
+multigenerational corps of childcare workers, a far cry from what the 
 ---
 
 ## Page 298
@@ -22874,8 +22597,7 @@ living one day without the labor or products of essential workers.
 
     We can pilot these childcare centers in different kinds of communities
 
-and zip codes to test them. Cities do not technically have to lead the charge, ```
-
+and zip codes to test them. Cities do not technically have to lead the charge, 
 ---
 
 ## Page 299
@@ -22953,8 +22675,7 @@ projects.356
 
 each community develop people’s histories of protests, activism, art, and
 
-culture.    Neighborhood      archivists    would       work     and    volunteer     there   for ```
-
+culture.    Neighborhood      archivists    would       work     and    volunteer     there   for 
 ---
 
 ## Page 300
@@ -23032,8 +22753,7 @@ people we used to call men don’t kill people we used to call women over
 
 leaving relationships. Heated arguments turn into headaches sometimes, not
 
-shootouts, because we’ve eliminated most guns. (We may keep a few guns ```
-
+shootouts, because we’ve eliminated most guns. (We may keep a few guns 
 ---
 
 ## Page 301
@@ -23111,8 +22831,7 @@ and bones because sports would be inclusive and people would more
 
 physically     active.       We’d     laugh     about   the     days   of    big     pharmaceutical
 
-companies that drove up the cost of medicines that were in demand, and ```
-
+companies that drove up the cost of medicines that were in demand, and 
 ---
 
 ## Page 302
@@ -23190,8 +22909,7 @@ too.
 
 EVERY TIME SOMEONE          moved into a community, the neighborhood council
 
-would prepare a welcome package with a unique gift and information about ```
-
+would prepare a welcome package with a unique gift and information about 
 ---
 
 ## Page 303
@@ -23269,8 +22987,7 @@ have to do everything that we can right now so that our future children,
 
 elders,    and     activists    will   not    be   behind    when     they    fight   for    whatever
 
-abolition they need in their lifetimes. We have to decide if we will delay ```
-
+abolition they need in their lifetimes. We have to decide if we will delay 
 ---
 
 ## Page 304
@@ -23282,8 +22999,7 @@ abolition they need in their lifetimes. We have to decide if we will delay ```
 
 
 
-dreams right now. ```
-
+dreams right now. 
 ---
 
 ## Page 305
@@ -23364,8 +23080,7 @@ Escalate After Pepper Spray Use Sparks Anger,” Washington Post, November 21, 2
 
 10. “Number of People Shot to Death by the Police in the United States from 2017 to 2021, by
 
-Race,” Statista.com, June 1, 2021, https://www.statista.com/statistics/585152/people-shot-to- ```
-
+Race,” Statista.com, June 1, 2021, https://www.statista.com/statistics/585152/people-shot-to- 
 ---
 
 ## Page 306
@@ -26429,8 +26144,7 @@ finished chapters and finalized titles and settled on the book’s cover art.
 
     This book would not have been possible without many others who read chapter drafts,
 
-worked through challenging concepts with me, and agreed to interviews. Gratitude to ```
-
+worked through challenging concepts with me, and agreed to interviews. Gratitude to 
 ---
 
 ## Page 335
@@ -26524,8 +26238,7 @@ night promises with pizza and popcorn, and loved my children with their time and
 
 They listened to me obsess over story details and held me tight when they learned about
 
-painful parts of my life for the first time. They are the foundation of my village. ```
-
+painful parts of my life for the first time. They are the foundation of my village. 
 ---
 
 ## Page 336
@@ -26558,8 +26271,7 @@ grateful for his spiritual, emotional, and intellectual labor for this book and 
 
 which he provided while also finishing his dissertation. Thank you for all of the beautiful
 
-moments that reminded me why it had to be written. ```
-
+moments that reminded me why it had to be written. 
 ---
 
 ## Page 337
@@ -26600,7 +26312,6 @@ Truthout,   Slate,    and   many     other   publications.    Derecka   is
 
 currently a columnist at the Guardian. She lives in Washington,
 
-DC. ```
-
+DC. 
 ---
 

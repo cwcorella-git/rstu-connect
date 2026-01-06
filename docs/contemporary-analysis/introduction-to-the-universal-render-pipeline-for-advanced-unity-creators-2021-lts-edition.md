@@ -1018,8 +1018,7 @@ Renderer renderer = Get Component<Renderer>();
 int layerID = 1;
 int mask = 1 << layerID;
 renderer.rendering Layer Mask = (uint)mask;
-## ```
-
+## 
 #### Light Probes
 
 As covered in an earlier section, you can combine baked and dynamic objects in the Light Mode section using Mixed Lighting Mode. It's recommended to also add Light Probes to your scene when using this mode. [Light Probes](https://docs.unity3d.com/2021.2/Documentation/Manual/Light Probes.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=render-with-quality-and-flexibility&utm_content=introduction-to-urp-ebook) save the light data at a particular position within an environment when you bake the lighting by clicking **Generate Lighting** via **Window > Rendering > Lighting** panel. This ensures that the illumination of a dynamic object moving through an environment reflects the lighting levels used by the baked objects. In a dark area it will be dark, and in a lighter area it will be brighter. Below, you can see the robot character inside and outside of the hangar in the FPS Sample: The Inspection.
@@ -1185,8 +1184,7 @@ Sub Shader {
  ENDHLSL
  }
 }
-## ```
-
+## 
 ## The basic structure of a Sub Shader block
 
 The first thing to notice when comparing a URP shader with a Built-in Render Pipeline shader is the use of the key-value pair "Render Pipeline" = "Universal Pipeline" in the Sub Shader tag.
@@ -1402,8 +1400,7 @@ ers/Lit Input.hlsl"
 ers/Shadow Caster Pass.hlsl"
  ENDHLSL
 }
-## ```
-
+## 
 **Note:** A great resource for users planning to write shaders for URP is [this tutorial](https://www.cyanilux.com/tutorials/urp-shader-code/) by Cyanilux.
 
 © 2022 Unity Technologies **73 of 125** | unity[.com](https://unity.com/)
@@ -1443,8 +1440,7 @@ set;
  } 
        }
 }
-## ```
-
+## 
 Script to switch Universal Render Pipeline Asset on scene load
 
 The next section covers two different types of Renderer Features, one for artists and the other for experienced programmers.
@@ -1511,8 +1507,7 @@ A [Renderer Feature](https://docs.unity3d.com/Packages/com.unity.render-pipeline
 private Material material;
 private Render Target Identifier source;
 private Render Target Handle temp Texture;
-## ```
-
+## 
 © 2022 Unity Technologies **79 of 125** | unity[.com](https://unity.com/)
 
 4. Add a constructor to the Custom Render Pass to initialize the current rendered source texture and the material to use when processing this texture. You'll also need to initialize a temporary texture to store the result of processing the current Render Texture with your material.
@@ -1523,8 +1518,7 @@ public Custom Render Pass(Material material) : base()
 this.material = material;
 temp Texture. Init("_Temp Tint Texture");
 }
-## ```
-
+## 
 5. Add a **Set Source** method to initialize the source property of the Custom Render Pass class.
 
 
@@ -1532,8 +1526,7 @@ public void Set Source(Render Target Identifier source)
 {
 this.source = source;
 }
-## ```
-
+## 
 6. Create a new Shader Graph shader. Call it Tint and set up the nodes as in the image below. It uses two properties, a texture and a color. It's important to set the Reference of the Texture to **\_Main Tex**. See the second image below. This ensures that the code in the **Tint Feature** finds the right Render Texture.
 
 ## ![](_page_79_Picture_5.jpeg)
@@ -1550,15 +1543,13 @@ The Tint Shader Graph Setting the Reference for the texture
 var material = new Material(Shader. Find("Shader Graphs/Tint"));
 m_Scriptable Pass = new Custom Render Pass(material);
  m_Scriptable Pass.render Pass Event = Render Pass Event. After Rendering Opaques;
-## ```
-
+## 
 8. Now that you have created an instance of the Custom Render Pass, add it to the render queue. Add the next code snippet in the **Add Render Passes** method. Then set the source to the **renderer.camera Color Target** and enqueue the pass.
 
 
 m_Scriptable Pass. Set Source(renderer.camera Color Target);
 renderer. Enqueue Pass(m_Scriptable Pass);
-## ```
-
+## 
 9. Before the pass can do anything, it needs to get the temporary texture. Add the next code snippet to **On Camera Setup**:
 
 
@@ -1566,14 +1557,12 @@ Render Texture Descriptor camera Texture Desc =
  rendering Data.camera Data.camera Target Descriptor;
 camera Texture Desc.depth Buffer Bits = 0;
 cmd. Get TemporaryRT(temp Texture.id, camera Texture Desc, Filter Mode. Bilinear);
-## ```
-
+## 
 10. Since you have a texture, you need to release it. Add this code to **On Camera Cleanup**:
 
 
 cmd. Release TemporaryRT(temp Texture.id);
-## ```
-
+## 
 11. Now that everything is initialized, you can do the actual work of copying the current Render Texture using a material to process the result and passing it back to the source. Add this code to the **Execute** method:
 
 
@@ -1582,8 +1571,7 @@ Blit(cmd, source, temp Texture. Identifier(), material, 0);
 Blit(cmd, temp Texture. Identifier(), source);
 context. Execute Command Buffer(cmd);
 Command Buffer Pool. Release(cmd);
-## ```
-
+## 
 © 2022 Unity Technologies **81 of 125** | unity[.com](https://unity.com/)
 
 12. To see the effect in action, select the **Renderer Data** object and click **Add Renderer Feature**. Tint Feature will appear in the list. Make sure to also set the **Compatibility > Intermediate Texture** to **Always**.
@@ -1633,8 +1621,7 @@ Rendering Data rendering Data)
  // Cleanup any allocated resources that were created during the 
 execution of this render pass.
  public override void On Camera Cleanup(Command Buffer cmd)
-## ```
-
+## 
 © 2022 Unity Technologies **82 of 125** | unity[.com](https://unity.com/)
 
 
@@ -1663,8 +1650,7 @@ ref Rendering Data rendering Data)
  renderer. Enqueue Pass(m_Scriptable Pass);
        }
 }
-## ```
-
+## 
 ## ![](_page_82_Picture_1.jpeg)
 
 Effect of Tint Feature: unprocessed to the left, tinted on the right
@@ -1683,8 +1669,7 @@ public Render Pass Event render Event =
 }
 [Serialize Field]
 private Settings settings = new Settings();
-## ```
-
+## 
 Use a Settings class to assign the properties in the Inspector.
 
 ## ![](_page_83_Picture_3.jpeg)
@@ -1812,8 +1797,7 @@ public class PPController : Mono Behaviour
  }
  }
 }
-## ```
-
+## 
 © 2022 Unity Technologies **92 of 125** | unity[.com](https://unity.com/)
 
 ## CAMER A STACKING
@@ -1870,8 +1854,7 @@ public class Stack Controller : Mono Behaviour
  camera Data.camera Stack. Remove(overlay Camera);
        }
 }
-## ```
-
+## 
 Post-processing and Camera Stacking, both easily configured using URP, are powerful tools for creating rich, atmospheric effects in your games.
 
 © 2022 Unity Technologies **96 of 125** | unity[.com](https://unity.com/)
@@ -2325,8 +2308,7 @@ load()
 {
        s_Unity Profiler = NULL;
 }
-## ```
-
+## 
 #### **Additional resources**
 
 If you're interested in building advanced profiling skills in Unity, start by downloading the free e-book, *[Ultimate guide to profiling Unity games](https://resources.unity.com/games/ultimate-guide-to-profiling-unity-games?utm_source=demand-gen&utm_medium=pdf&utm_campaign=render-with-quality-and-flexibility&utm_content=introduction-to-urp-ebook)*. This guide brings together advanced advice and knowledge on how to profile an application in Unity, manage its memory, and optimize its power consumption from start to finish.

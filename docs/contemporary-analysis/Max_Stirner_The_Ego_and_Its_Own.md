@@ -2126,8 +2126,7 @@ d Ibid. p. n
 ## , Ibid. p. 74.
 ## , Ibid. p. 69.
 ## f Ibid. p. I30.
-## ```
-
+## 
 the sovereign regent, the sovereign people too would be reached by no law. Edgar Bauer's whole attempt comes to a change of masters. Instead of wanting to make the people free, he should have had his mind on the sole realizable freedom, his own.
 
 In the constitutional state absolutism itself has at last come in conflict with itself, as it has been shattered into a duality; the government wants to be absolute, and the people wants to be absolute. These two absolutes will wear out against each other.
@@ -3665,8 +3664,7 @@ bifurcation of self, xvi, xx-xxi, 3 1 -2,
 ## Christian concern for the spiritual, 23-
 ## 5, 2 7-<), 155-7
 ## Christian rejection of appetite, 59-60,
-## ```
-
+## 
 ## 294-6
 
 3 3-4, 68, 74, 8 1-2, 87, 131,
@@ -3771,8 +3769,7 @@ fixedity of ideas, xxiii, 43-4, 58, 59, 69,
 ## " 5-19
 ## and social relations, 1 20-2
 ## and the state, 1 29
-## ```
-
+## 
 | humanism, 27-8, 332<br>Huns, xviii, 63 | money, I03, 233, 236<br>whether to be retained by egoists, |
 |----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | idealism, epoch of, xiv, xv, xviii, 17<br>see also Christian epoch<br>incest, xxxi, 45 | 243-4<br>Mongols, xviii, 63, 3 00<br>Mongoloidity, xviii, 62-6<br>monogamy, 45 |
@@ -3949,8 +3946,7 @@ Burke, Edmund, xxxv
 Butz, Agoes, xxxiv 
 Byington, Steven Tracy, xxxix-xl, 348, 
        355, 364
-## ```
-
+## 
 #### Index of names
 
 | Caligula, 338 | Engels, Friedrich, >.'Vi, xviii, xx, xxxvii, |

@@ -77,8 +77,7 @@ title: "senate-bill-no-391"
 
 
      -                                                                            *SB391_R1*
-```
-
+
 ---
 
 ## Page 2
@@ -145,8 +144,7 @@ title: "senate-bill-no-391"
 
 
      -                                                       *SB391_R1*
-```
-
+
 ---
 
 ## Page 3
@@ -207,8 +205,7 @@ title: "senate-bill-no-391"
 
 
      -                                            *SB391_R1*
-```
-
+
 ---
 
 ## Page 4
@@ -269,8 +266,7 @@ title: "senate-bill-no-391"
 
 
      -                                             *SB391_R1*
-```
-
+
 ---
 
 ## Page 5
@@ -331,8 +327,7 @@ title: "senate-bill-no-391"
 
 
      -                                                   *SB391_R1*
-```
-
+
 ---
 
 ## Page 6
@@ -371,8 +366,7 @@ title: "senate-bill-no-391"
 
 
      -                                            *SB391_R1*
-```
-
+
 ---
 
 ## Page 7
@@ -383,8 +377,7 @@ title: "senate-bill-no-391"
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 8
@@ -395,7 +388,6 @@ title: "senate-bill-no-391"
 ### Extracted Text
 
 
-```
-
+
 ---
 

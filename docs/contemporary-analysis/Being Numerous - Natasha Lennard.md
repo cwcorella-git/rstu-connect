@@ -62,14 +62,12 @@ A catalog record for this book is available from the Library of Congress
 
 
 Having only the force Of days
-## ```
-
+## 
 
 Most simple
 Most difficult
 —George Oppen, 1968
-## ```
-
+## 
 For my mother, Sindy, and my person, Lukas.
 
 ### Contents
@@ -908,8 +906,7 @@ The Argonauts (Nelson), 30
 AT&T, 110–111
 The Babadook (film), 30
 "bad protesters," 74
-## ```
-
+## 
 
 Bakken Formation, 57
 Baltimore, MD riots, 38, 43
@@ -945,8 +942,7 @@ Clapper, James, 110–112
 Clark (personal friend of author), 1–2
 classism, 35
 Clinton, Hillary, 2
-## ```
-
+## 
 
 collective fury, 39
 corpses, 99–108
@@ -981,8 +977,7 @@ Facebook, 111, 115
 Fanon, Frantz
  Wretched of the Earth, 39
 fascism, as un-bannable, 17
-## ```
-
+## 
 
 "fascist habit," 16
 felony riot charges, 45–54
@@ -1017,8 +1012,7 @@ Guatarri, Félix, 15
 habitual police brutality, 35
 Hall, Evelyn Beatrice, 77
 hallucinations, ghosts and, 27
-## ```
-
+## 
 
 Hamlet (play), 32
 Harris, Sam, 28
@@ -1053,8 +1047,7 @@ looting, 39–40
 Los Angeles, CA riots (1992), 39–40
 Louis XV, King of France, 104–105
 love, 81–85
-## ```
-
+## 
 
 manarchist, 91–92
 Mandan, ND, 60, 62, 65, 67
@@ -1090,8 +1083,7 @@ Nelson, Maggie
 "neo-fascism," 14
 Netanyahu, Benjamin, 105
 New Inquiry, 38–39
-## ```
-
+## 
 
 New York Review of Books, 23
 Newsham, Peter, 47, 49
@@ -1126,8 +1118,7 @@ protester violence, 42
 Protevi, John, 16
 public viewings, of corpses, 105
 queer privilege, 92
-## ```
-
+## 
 
 queering, 88
 Quine, Willard Van Orman, 28–30
@@ -1162,8 +1153,7 @@ sleep paralysis, 27
 Smith, De Andre, 40
 Snowden, Edward, 109–111, 113
 social contract
-## ```
-
+## 
 
 about, 74
  romantic illusion of, 75
@@ -1199,8 +1189,7 @@ Trump, Donald J.
  opposition to, 74
  rights under, 76, 77–78
  starting term as president, 7–8
-## ```
-
+## 
 
 truth, types of, 29
 Tufekci, Zeynep, 96
@@ -1235,8 +1224,7 @@ Williams, Bernard, 43
 Williams, Linda, 94
 Wilson, Darren, 36, 37
 Wittgenstein, Ludwig, 23–24, 33–34, 118
-## ```
-
+## 
 
 Wizner, Ben, 112
 Women's March, 52–53
@@ -1247,4 +1235,4 @@ Yiannopoulos, Milo, 12, 21, 46, 77–78
 Younge, Gary, 13
 "Your Sex Is Not Radical" (Nair), 95
 Youth Act, 51
-## ```
+## 

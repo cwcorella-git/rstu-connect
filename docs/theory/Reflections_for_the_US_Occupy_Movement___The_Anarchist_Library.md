@@ -36,7 +36,7 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                blackout.
                While the central plazas of the cities of Spain are no longer
                occupied, in some places the momentum of May continues
-1 of 18 3/17/25, 5:09 PM ``` Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 18 3/17/25, 5:09 PM  Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                with force. Particularly in Barcelona, a dynamic struggle
                continues to evolve, including a heterogeneous and broad
                group of people in weekly neighborhood assemblies, protests,
@@ -536,8 +536,7 @@ This document was converted from **01_Political_Theory/Articles/Reflections for 
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Reflections_for_the_US_Occupy_Movement___The_Anarchist_Library/01_Political_Theory_Articles_Reflections_for_the_US_Occupy_Movement___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Reflections_for_the_US_Occupy_Movement___The_Anarchist_Library/01_Political_Theory_Articles_Reflections_for_the_US_Occupy_Movement___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

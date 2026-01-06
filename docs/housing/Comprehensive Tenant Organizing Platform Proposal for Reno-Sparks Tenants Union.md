@@ -69,8 +69,7 @@ integration with Washoe County's property data systems. The technical implementa
 multiple data sources:
 
 Washoe County Data Integration:
-```
-
+
 ---
 
 ## Page 2
@@ -94,8 +93,7 @@ Washoe County Data Integration:
    information washoecounty
 
 Spatial Data Processing:
-```
-
+
 ---
 
 ## Page 3
@@ -154,8 +152,7 @@ CREATE TABLE property_ownership (
 CREATE INDEX idx_properties_geometry ON properties USING GIST (geometry);
 CREATE INDEX idx_properties_centroid ON properties USING GIST (centroid);
 CREATE INDEX idx_properties_parcel ON properties(parcel_id);
-```
-
+
 ---
 
 ## Page 4
@@ -169,8 +166,7 @@ CREATE INDEX idx_properties_parcel ON properties(parcel_id);
 Database design for organizing infrastructure
 The database schema supports comprehensive tenant organizing workflows while maintaining security
 and privacy:
-```
-
+
 ---
 
 ## Page 5
@@ -228,8 +224,7 @@ CREATE TABLE issues (
      reported_date DATE,
      resolved_date DATE
 );
-```
-
+
 ---
 
 ## Page 6
@@ -288,8 +283,7 @@ Anti-Infiltration Framework:
  • Regular Security Audits: Quarterly reviews of access permissions and user activities
 
 Privacy Protection Implementation:
-```
-
+
 ---
 
 ## Page 7
@@ -355,8 +349,7 @@ Cost Optimization Strategies:
 Nonprofit-focused organizing strategy
 
 Digital tools for tenant connection and collective action
-```
-
+
 ---
 
 ## Page 8
@@ -419,8 +412,7 @@ Legal Aid Integration:
   • Document Templates: Pre-populated forms for common legal procedures
 
 Community Partnership Framework:
-```
-
+
 ---
 
 ## Page 9
@@ -486,8 +478,7 @@ Governance Structure:
   • Community Forums: Monthly open meetings for input and feedback
 
   • Decision Framework: Major decisions require 60% membership approval
-```
-
+
 ---
 
 ## Page 10
@@ -553,8 +544,7 @@ Success Metrics:
 
 Phase 2: Core features deployment (Months 4-6)
 Organizing Tools:
-```
-
+
 ---
 
 ## Page 11
@@ -615,8 +605,7 @@ Integration Development:
  • Create public-facing advocacy dashboards
 
 Scale Optimization:
-```
-
+
 ---
 
 ## Page 12
@@ -677,8 +666,7 @@ Community Rollout:
  • Establish support and feedback channels
 
 Sustainability Planning:
-```
-
+
 ---
 
 ## Page 13
@@ -742,8 +730,7 @@ Developer Onboarding:
 
 Success metrics for organizing effectiveness
 Base Building Metrics:
-```
-
+
 ---
 
 ## Page 14
@@ -809,8 +796,7 @@ Nevada Legal Services Partnership:
  • Regular data sharing on violation patterns
 
 Washoe Legal Services Collaboration:
-```
-
+
 ---
 
 ## Page 15
@@ -870,8 +856,7 @@ Coalition Infrastructure:
 
 Academic partnerships and research
 University of Nevada, Reno Collaboration:
-```
-
+
 ---
 
 ## Page 16
@@ -936,8 +921,7 @@ Legal considerations for nonprofit operations
 Nevada tenant protection laws and organizing rights
 The platform operates within Nevada's legal framework, leveraging explicit protections for tenant
 organizing:
-```
-
+
 ---
 
 ## Page 17
@@ -999,8 +983,7 @@ GDPR-Inspired Principles:
 
 Nonprofit compliance requirements
 501(c)(3) Compliance:
-```
-
+
 ---
 
 ## Page 18
@@ -1061,8 +1044,7 @@ Risk Management Strategies:
  • Regular legal review of materials
 
 Implementation through Nonprofits Insurance Alliance:
-```
-
+
 ---
 
 ## Page 19
@@ -1126,8 +1108,7 @@ Development Workflow:
 
 Community input and decision processes
 Decision-Making Framework:
-```
-
+
 ---
 
 ## Page 20
@@ -1178,8 +1159,7 @@ Data Governance Principles:
  • Security First: Protection against unauthorized access or misuse Aaron Hall
 
 Privacy Policy Framework:
-```
-
+
 ---
 
 ## Page 21
@@ -1247,8 +1227,7 @@ Retention Strategies: Kindful         Bloomerang
  • Social community building
 
  • Skills-based project matching
-```
-
+
 ---
 
 ## Page 22
@@ -1286,7 +1265,6 @@ This comprehensive approach—rooted in open source principles, protected by Nev
 Nevada Legislature   state   and sustained by community ownership—creates the digital infrastructure
 necessary for building a powerful, lasting tenant movement in Northern Nevada and beyond.
 Mission +2
-```
-
+
 ---
 

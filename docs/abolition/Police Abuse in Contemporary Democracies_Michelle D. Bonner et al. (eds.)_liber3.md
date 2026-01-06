@@ -1678,8 +1678,7 @@ Our starting point is one that we believe most would find uncontroversial. Afric
 
 
 \begin{split} & P(Prot|Pr = W, Po = W, Ob = B) < P(Prot|Pr = W, Po = W, Ob = W) \\ & P(Prot|Pr = B, Po = B, Ob = B) < P(Prot|Pr = B, Po = B, Ob = W) \\ & P(Prot|Pr = B, Po = W, Ob = B) < P(Prot|Pr = B, Po = W, Ob = W) \\ & P(Prot|Pr = W, Po = B, Ob = B) < P(Prot|Pr = W, Po = B, Ob = W), \end{split}
-## ```
-
+## 
 where "*Pr*" refers to protester race {*W* = white, *B* = Black}, "*Po*" refers to the police race, "*Ob*" refers to the race of the observer and *P*(*Prot*|…) indicates the probability that protesters are blamed given the stated conditions. Reversing the inequality signs, we could derive the same set of expectations about the probability that the police are blamed for the incident.
 
 According to our argument, when dissident–state interactions involve participants from different racial or ethnic groups (i.e., heterogenous dyads such as when the protesters are white and police are black or when the protesters are black and police are white), we expect African Americans to side with whomever shares their ethnicity. For example, in scenario 7 African Americans will be more likely to place blame on the police as they share an identity with the protesters. Differing from the situation described above, however, in scenario 4 blacks will place blame on protesters as they share an identity with the police. However, given the historically uneasy relationship between African Americans and the police, the effect here (i.e., the extent to which protesters are more likely to bear the brunt of the blame) will be diminished somewhat. Thus, we expect:

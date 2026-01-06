@@ -34,7 +34,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 regard themselves as city dwellers, we are obliged, if only for
                 ecological reasons, to explore modern urbanization. We must
                 explore not only its impact on the natural environment, a
-1 of 428 3/17/25, 5:09 PM ``` Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 428 3/17/25, 5:09 PM  Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 subject that has already been discussed in considerable detail
                 by many writers, but, more significantly these days, the
                 changes urbanization has produced in our sensibility toward
@@ -12816,8 +12816,7 @@ This document was converted from **01_Political_Theory/Articles/Urbanization Wit
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Urbanization_Without_Cities___The_Anarchist_Library/01_Political_Theory_Articles_Urbanization_Without_Cities___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Urbanization_Without_Cities___The_Anarchist_Library/01_Political_Theory_Articles_Urbanization_Without_Cities___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

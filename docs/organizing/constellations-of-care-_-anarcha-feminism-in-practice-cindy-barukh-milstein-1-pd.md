@@ -155,8 +155,7 @@ This book is printed on paper suitable for recycling and made from fully managed
 
 
 
-Printed in the United Kingdom ```
-
+Printed in the United Kingdom 
 ---
 
 ## Page 8
@@ -218,8 +217,7 @@ TARPS AN D GOSSIP:                                                |   97 EXISTIN
 BROWN GIRL RISE:                                                  | 105 HOW WE TAKE CARE OF OU R OWN C L A I R E BA R R E R A
 
 
-COLEC TIVA MUJ E RE S SU BVE RS IVAS:                             | 125 IN SOLIDARIT Y AND FRIENDSHIP LO R A G A LO R A ```
-
+COLEC TIVA MUJ E RE S SU BVE RS IVAS:                             | 125 IN SOLIDARIT Y AND FRIENDSHIP LO R A G A LO R A 
 ---
 
 ## Page 11
@@ -247,8 +245,7 @@ ILLUSTRATING ANARCHA-FEMINISM                                | 251 A D DY A L I 
 REMEMBRANCE AND                                              | 2 81 SUBVERSIVE BODIES IN MOTION B R E E BU S K
 
 
-SHAKESQUEER TUCSON:                                          | 3 01 PERFORMING ANARCHO-FEMINISM W R E N AW RY ```
-
+SHAKESQUEER TUCSON:                                          | 3 01 PERFORMING ANARCHO-FEMINISM W R E N AW RY 
 ---
 
 ## Page 12
@@ -282,8 +279,7 @@ M O V E M E N T M I D W I F E RY                       | 4 09 V I C K Y O S T E 
 HOW WE PERSISTED                                       | 419 AS A NEW ANARCHA GROUP IN LJUBLJANA ČR N E M A ČK E
 
 
-D O YO U F E E L T H E S A M E ?                       | 4 33 V I L JA S A A R I N E N ```
-
+D O YO U F E E L T H E S A M E ?                       | 4 33 V I L JA S A A R I N E N 
 ---
 
 ## Page 13
@@ -316,8 +312,7 @@ D O YO U F E E L T H E S A M E ?                       | 4 33 V I L JA S A A R I
 CONSTELL ATIONS OF CARE
 
                   |
-C I N DY BA RU K H M I L S T E I N ```
-
+C I N DY BA RU K H M I L S T E I N 
 ---
 
 ## Page 15
@@ -385,8 +380,7 @@ Zapatista Autonomous Government through the Lens of the Tzotzil Language (Oaklan
 
 
 
-4   /    CONSTELL ATIONS OF C ARE ```
-
+4   /    CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 18
@@ -419,8 +413,7 @@ Zapatista Autonomous Government through the Lens of the Tzotzil Language (Oaklan
 
 
 
-6   /   CONSTELL ATIONS OF C ARE ```
-
+6   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 20
@@ -454,8 +447,7 @@ Circle (Strangers in a Tangled Wilderness, 2022), 69.
 
 
 
-8   /    CONSTELL ATIONS OF C ARE ```
-
+8   /    CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 22
@@ -496,8 +488,7 @@ Face of the Capitalist Hydra I, by Sixth Commission of the EZLN (Durham, NC: Pap
 
 
 
-10   /    CONSTELL ATIONS OF C ARE ```
-
+10   /    CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 24
@@ -549,8 +540,7 @@ As you wander through these pages, my hope is that you’ll think for yourself, 
 
 
 
-12   /   CONSTELL ATIONS OF C ARE ```
-
+12   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 26
@@ -596,8 +586,7 @@ What you’ll nd between the covers of Constellations of Care is only a fract
 
 
 
-14   /   CONSTELL ATIONS OF C ARE ```
-
+14   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 28
@@ -627,8 +616,7 @@ What you’ll nd between the covers of Constellations of Care is only a fract
 
 
 
-16   /   CONSTELL ATIONS OF C ARE ```
-
+16   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 30
@@ -670,8 +658,7 @@ anarcha-feminist initiatives, based on suggestions from the contributors to this
 
 
 
-18   /   CONSTELL ATIONS OF C ARE ```
-
+18   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 32
@@ -741,8 +728,7 @@ of two, albeit unrelated, collectives in this anthology (see “Tarps and Gossip
 
 
 
-22   /   CONSTELL ATIONS OF C ARE ```
-
+22   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 36
@@ -777,8 +763,7 @@ Transsexuality,” in Transgender Marxism, ed. Jules Joanne Gleeson and Elle O�
 
 
 
-24   /   CONSTELL ATIONS OF C ARE ```
-
+24   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 38
@@ -808,8 +793,7 @@ Transsexuality,” in Transgender Marxism, ed. Jules Joanne Gleeson and Elle O�
 
 
 
-26   /   CONSTELL ATIONS OF C ARE ```
-
+26   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 40
@@ -843,8 +827,7 @@ resist the impulse to constantly improve, and then constantly manage and own wha
 
 
 
-28   /   CONSTELL ATIONS OF C ARE ```
-
+28   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 42
@@ -876,8 +859,7 @@ resist the impulse to constantly improve, and then constantly manage and own wha
 
 
 
-30   /   CONSTELL ATIONS OF C ARE ```
-
+30   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 44
@@ -921,8 +903,7 @@ Flip Zang (he/him) is a writer and geohistorian born and raised in Shawanwaki/Sh
 
 
 
-32   /   CONSTELL ATIONS OF C ARE ```
-
+32   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 46
@@ -942,8 +923,7 @@ Flip Zang (he/him) is a writer and geohistorian born and raised in Shawanwaki/Sh
 
 
                |
-M E X I C O C I T Y – BA S E D F E M I N I S T- A NA RC H I S T A F F I N I T Y G RO U P I N C O N V E R S AT I O N W I T H A N D T R A N S L AT E D B Y S C OT T C A M P B E L L ```
-
+M E X I C O C I T Y – BA S E D F E M I N I S T- A NA RC H I S T A F F I N I T Y G RO U P I N C O N V E R S AT I O N W I T H A N D T R A N S L AT E D B Y S C OT T C A M P B E L L 
 ---
 
 ## Page 47
@@ -989,8 +969,7 @@ Not all of us conceive of ourselves as anarcha-feminists. We’re all anarchists
 
 
 
-36   /   CONSTELL ATIONS OF C ARE ```
-
+36   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 50
@@ -1024,8 +1003,7 @@ Although the “boom” in the feminist movement around the world became more vi
 
 
 
-38   /   CONSTELL ATIONS OF C ARE ```
-
+38   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 52
@@ -1060,8 +1038,7 @@ As we’ve mentioned, we’re not a formal group, much less a homogeneous one, a
 
 
 
-40   /   CONSTELL ATIONS OF C ARE ```
-
+40   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 54
@@ -1098,8 +1075,7 @@ A point of street action that seemed impossible was the acceptance of the slogan
 
 
 
-42   /   CONSTELL ATIONS OF C ARE ```
-
+42   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 56
@@ -1136,8 +1112,7 @@ We go alone and together. We believe in each other’s individuality and the pow
 
 
 
-44   /   CONSTELL ATIONS OF C ARE ```
-
+44   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 58
@@ -1174,8 +1149,7 @@ taking on an essence in order to act from a certain positionality, but most of t
 
 
 
-46   /   CONSTELL ATIONS OF C ARE ```
-
+46   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 60
@@ -1216,8 +1190,7 @@ Scott Campbell is a radical writer and translator residing in both what they cal
 
 
 
-48   /   CONSTELL ATIONS OF C ARE ```
-
+48   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 62
@@ -1237,8 +1210,7 @@ Scott Campbell is a radical writer and translator residing in both what they cal
 
 
             |
-C O R I N N E , AU RO R E , É R I S , A N D TO M ```
-
+C O R I N N E , AU RO R E , É R I S , A N D TO M 
 ---
 
 ## Page 63
@@ -1287,8 +1259,7 @@ The library was born from the collision of a pile of books and a space.1 It has 
 
 
 
-52    /    CONSTELL ATIONS OF C ARE ```
-
+52    /    CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 66
@@ -1316,8 +1287,7 @@ The library was born from the collision of a pile of books and a space.1 It has 
 
 
 
-54   /   CONSTELL ATIONS OF C ARE ```
-
+54   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 68
@@ -1352,8 +1322,7 @@ Outside the time when the library was open, those of us with la BAF only communi
 
 
 
-56   /   CONSTELL ATIONS OF C ARE ```
-
+56   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 70
@@ -1386,8 +1355,7 @@ The books we had at the beginning were mostly on the history of social movements
 
 
 
-58   /   CONSTELL ATIONS OF C ARE ```
-
+58   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 72
@@ -1423,8 +1391,7 @@ It has happened more than a few times that when I was talking about la BAF to so
 
 
 
-60    /    CONSTELL ATIONS OF C ARE ```
-
+60    /    CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 74
@@ -1460,8 +1427,7 @@ An important thing to know about la BAF is that it’s not a safe space.3 This f
 
 
 
-62    /    CONSTELL ATIONS OF C ARE ```
-
+62    /    CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 76
@@ -1495,8 +1461,7 @@ We need to generate spaces, both social and actual, in which mistakes are gently
 
 
 
-64   /   CONSTELL ATIONS OF C ARE ```
-
+64   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 78
@@ -1532,8 +1497,7 @@ And there we stand on the threshold, the anarcha-feminist librarians.4 It is pec
 
 
 
-66    /   CONSTELL ATIONS OF C ARE ```
-
+66    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 80
@@ -1563,8 +1527,7 @@ And there we stand on the threshold, the anarcha-feminist librarians.4 It is pec
 
 
 
-68   /   CONSTELL ATIONS OF C ARE ```
-
+68   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 82
@@ -1668,8 +1631,7 @@ Xela: This is our third autonomous community-based space
 
 
 
-74   /   CONSTELL ATIONS OF C ARE ```
-
+74   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 88
@@ -1707,8 +1669,7 @@ Xela: So a couple of things happened at the same time. As is still the case toda
 
 
 
-76   /   CONSTELL ATIONS OF C ARE ```
-
+76   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 90
@@ -1744,8 +1705,7 @@ Libertie: The Zapatistas have always embodied such incredible Indigenous feminis
 
 
 
-78   /   CONSTELL ATIONS OF C ARE ```
-
+78   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 92
@@ -1780,8 +1740,7 @@ Xela: I hear that. We had similar misgivings about how to identify likely cuz of
 
 
 
-80   /   CONSTELL ATIONS OF C ARE ```
-
+80   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 94
@@ -1817,8 +1776,7 @@ Libertie: That’s an incredible answer. I’m writing it down! (laughs.) Our at
 
 
 
-82   /   CONSTELL ATIONS OF C ARE ```
-
+82   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 96
@@ -1854,8 +1812,7 @@ Xela: Our collective is primarily Brown, and we’ve been indoctrinated to not s
 
 
 
-84   /   CONSTELL ATIONS OF C ARE ```
-
+84   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 98
@@ -1889,8 +1846,7 @@ Xela: Well, back in the day, we used to do a very tankie type of practice: crit 
 
 
 
-86   /   CONSTELL ATIONS OF C ARE ```
-
+86   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 100
@@ -1928,8 +1884,7 @@ Libertie: I agree that it’s easier to navigate relationships when you really k
 
 
 
-88   /   CONSTELL ATIONS OF C ARE ```
-
+88   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 102
@@ -1971,8 +1926,7 @@ Libertie: That sounds similar to our experience. Our collective is negative on p
 
 
 
-90   /   CONSTELL ATIONS OF C ARE ```
-
+90   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 104
@@ -2014,8 +1968,7 @@ Libertie: Yeah. But I honestly didn’t know anything about it at the time. So w
 
 
 
-92   /   CONSTELL ATIONS OF C ARE ```
-
+92   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 106
@@ -2057,8 +2010,7 @@ and how much community spaces like Casa C.O.A.T.L. are giving—makes me think a
 
 
 
-94   /   CONSTELL ATIONS OF C ARE ```
-
+94   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 108
@@ -2159,8 +2111,7 @@ reduction organization, see https://projectsafe.com/. For more on the Philadelph
 
 
 
-100   /   CONSTELL ATIONS OF C ARE ```
-
+100   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 114
@@ -2190,8 +2141,7 @@ reduction organization, see https://projectsafe.com/. For more on the Philadelph
 
 
 
-102   /   CONSTELL ATIONS OF C ARE ```
-
+102   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 116
@@ -2227,8 +2177,7 @@ Raani Begum, a queer, migrant, disabled, full-service sex worker, is a core orga
 
 
 
-104   /   CONSTELL ATIONS OF C ARE ```
-
+104   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 118
@@ -2294,8 +2243,7 @@ SISTERHOOD
 Many of the people involved in BGR had histories of working in nonprots or government agencies, and had been burned by the ways the state insinuated itself into every aspect of that work. BGR didn’t want to re-create typical nonprot models of youth service provision, and we continue to resist the pull of professionalization and the culture of white supremacy at every turn. Dani, who had worked with neurodivergent youths in nonprot settings prior to working with BGR, names how nonprots expect a kind of false, authoritarian division between the service provider, youth “client,” and family surrounding the youth. She says, “When I worked with youths in other organizations, it was really like, I’m there solely for the youths and I don’t listen to the parents. The parents aren’t a concern to me because having a relationship with the parents would jeopardize my relationship with the youths. Like it wouldn’t serve them as well.” Dividing our personal and professional selves, including in care and educational professionals, is an eective tool to divide
 
 
-108   /   CONSTELL ATIONS OF C ARE ```
-
+108   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 122
@@ -2342,8 +2290,7 @@ As organizers, we want to cultivate solidarity between our- selves and between y
 Thriving Resistance in Toxic Times (Oakland, CA: AK Press, 2017), 10.
 
 
-110    /   CONSTELL ATIONS OF C ARE ```
-
+110    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 124
@@ -2374,8 +2321,7 @@ Thriving Resistance in Toxic Times (Oakland, CA: AK Press, 2017), 10.
 
 
 
-112   /   CONSTELL ATIONS OF C ARE ```
-
+112   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 126
@@ -2434,8 +2380,7 @@ We have worked as a collective to turn down opportunities that overburden us and
 
 
 
-114    /   CONSTELL ATIONS OF C ARE ```
-
+114    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 128
@@ -2486,8 +2431,7 @@ This means that erce love is about process over product in our organizing, in
 
 
 
-116    /   CONSTELL ATIONS OF C ARE ```
-
+116    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 130
@@ -2522,8 +2466,7 @@ Creative engagement has been part of BGR’s pedagogy from the start. We made su
 
 
 
-118   /   CONSTELL ATIONS OF C ARE ```
-
+118   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 132
@@ -2556,8 +2499,7 @@ Creative engagement has been part of BGR’s pedagogy from the start. We made su
 
 
 
-120   /   CONSTELL ATIONS OF C ARE ```
-
+120   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 134
@@ -2624,8 +2566,7 @@ Sisterhood, erce love, play, and joy are all deeply interrelated.
 
 
 
-122    /   CONSTELL ATIONS OF C ARE ```
-
+122    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 136
@@ -2737,8 +2678,7 @@ Anita. Working with a cogendered collective, they organized a two-day event call
 
 
 
-128   /   CONSTELL ATIONS OF C ARE ```
-
+128   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 142
@@ -2778,8 +2718,7 @@ by the band Filoso.
 
 
 
-130   /   CONSTELL ATIONS OF C ARE ```
-
+130   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 144
@@ -2821,8 +2760,7 @@ We wrapped up the workshop and led the kids through the patio, past the parents 
 
 
 
-132   /   CONSTELL ATIONS OF C ARE ```
-
+132   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 146
@@ -2861,8 +2799,7 @@ Victoria, Erizo’s mother, nodded with understanding. Lora came down from putti
 
 
 
-134   /   CONSTELL ATIONS OF C ARE ```
-
+134   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 148
@@ -2899,8 +2836,7 @@ three murals.” “The murals were amazing,” said Leo. “My grandparents eve
 
 
 
-136   /   CONSTELL ATIONS OF C ARE ```
-
+136   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 150
@@ -2954,8 +2890,7 @@ Anarchist Library, https://theanarchistlibrary.org/library/peggy- kornegger-anar
 
 
 
-138   /   CONSTELL ATIONS OF C ARE ```
-
+138   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 152
@@ -2999,8 +2934,7 @@ might not even see it. We might be blazing a path for someone for things they di
 That afternoon of the lecture series felt like a psychic hug from the collective. We were equals, smiling and happy. And we were erce! We channeled our rage into stories sung as poems hurled into each other’s hearts. We were vulnerable, opening up about our battles and crying over our wounds of war. We were furious, but we weren’t alone. That made all the dierence, and together we danced joy back into each other’s lives, creating and sharing our art. Mujeres Subversivas has been our call to action, solidied with the help of everyone there. Together we forge this liminal space, with open dialogue and an egalitarian spirit, carrying the torch for those who couldn’t make it and those who rst lit it to create a magical space where we feel protected, safe, and accompanied. Our work in collective has always been accomplished through horizontal organization and autogestión, which is a word that doesn’t translate well.
 
 
-140   /   CONSTELL ATIONS OF C ARE ```
-
+140   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 154
@@ -3036,8 +2970,7 @@ femme rap group that inspired our bodies into motion with dynamic beats. Powerfu
 
 
 
-142   /   CONSTELL ATIONS OF C ARE ```
-
+142   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 156
@@ -3077,8 +3010,7 @@ Las mujeres subversivas nacemos de un momento a otro y en cualquier espacio-tiem
 
 
 
-144   /   CONSTELL ATIONS OF C ARE ```
-
+144   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 158
@@ -3110,8 +3042,7 @@ Mujeres Subversivas are born from one moment to the next in any space-time. We e
 
 
 
-146   /   CONSTELL ATIONS OF C ARE ```
-
+146   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 160
@@ -3212,8 +3143,7 @@ work and contributions throughout the project.
 
 
 
-152   /   CONSTELL ATIONS OF C ARE ```
-
+152   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 166
@@ -3262,8 +3192,7 @@ This is how I feel today: “not so despairing,” at least most of the time. I�
 
 
 
-154    /   CONSTELL ATIONS OF C ARE ```
-
+154    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 168
@@ -3302,8 +3231,7 @@ our volunteers and other people in the community. Some things, I think, we did a
 
 
 
-156   /   CONSTELL ATIONS OF C ARE ```
-
+156   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 170
@@ -3337,8 +3265,7 @@ One of the rst things that I say to new volunteers is that their dignity, com
 
 
 
-158   /   CONSTELL ATIONS OF C ARE ```
-
+158   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 172
@@ -3376,8 +3303,7 @@ Even people who have no reason to be angry about it—people who don’t have th
 
 
 
-160   /   CONSTELL ATIONS OF C ARE ```
-
+160   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 174
@@ -3413,8 +3339,7 @@ I would say that people seem to have forgotten not only the 1980s and 1990s but 
 
 
 
-162   /   CONSTELL ATIONS OF C ARE ```
-
+162   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 176
@@ -3454,8 +3379,7 @@ Support. It’s been so important, right from the start, that we had a lot of su
 
 
 
-164   / CONSTELL ATIONS OF C ARE ```
-
+164   / CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 178
@@ -3495,8 +3419,7 @@ Right, and that’s just the visible things! There’s always pain and exhaustio
 
 
 
-166   /   CONSTELL ATIONS OF C ARE ```
-
+166   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 180
@@ -3532,8 +3455,7 @@ proud of that the café does, is we shift the paradigm away
 
 
 
-168   /   CONSTELL ATIONS OF C ARE ```
-
+168   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 182
@@ -3569,8 +3491,7 @@ From my point of view, another aspect of anarcha-feminist praxis, which is also 
 
 
 
-170   /   CONSTELL ATIONS OF C ARE ```
-
+170   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 184
@@ -3608,8 +3529,7 @@ I think the things I wish I’d known at the start and things I think other peop
 
 
 
-172   /   CONSTELL ATIONS OF C ARE ```
-
+172   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 186
@@ -3653,8 +3573,7 @@ The Pink Peacock collective included around forty dierent people over its thr
 
 
 
-174   /   CONSTELL ATIONS OF C ARE ```
-
+174   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 188
@@ -3737,8 +3656,7 @@ STATE VIOLENCE AND THE BODY
       happen months ago has been pushed back AGAIN.
 
 
-178    /   CONSTELL ATIONS OF C ARE ```
-
+178    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 192
@@ -3792,8 +3710,7 @@ HEALING AS LIBERATION
 Hypervigilance, muscle pain, nightmares, digestive issues, chronic inammation, and on and on—the body doesn’t lie about the eects of state violence, even if we hide our feelings behind movement machismo. What I learned studying herbalism, though, is that we can heal tissues, calm nervous
 
 
-180    / CONSTELL ATIONS OF C ARE ```
-
+180    / CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 194
@@ -3844,8 +3761,7 @@ Women’s Archive, accessed December 8, 2023, https://jwa.org/ womenofvalor/gold
 
 
 
-182    /   CONSTELL ATIONS OF C ARE ```
-
+182    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 196
@@ -3875,8 +3791,7 @@ Women’s Archive, accessed December 8, 2023, https://jwa.org/ womenofvalor/gold
 
 
 
-184   / CONSTELL ATIONS OF C ARE ```
-
+184   / CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 198
@@ -3906,8 +3821,7 @@ Women’s Archive, accessed December 8, 2023, https://jwa.org/ womenofvalor/gold
 
 
 
-186   / CONSTELL ATIONS OF C ARE ```
-
+186   / CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 200
@@ -3949,8 +3863,7 @@ It needs no introduction that state violence is racialized, classed, and gendere
 
 
 
-188    / CONSTELL ATIONS OF C ARE ```
-
+188    / CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 202
@@ -3984,8 +3897,7 @@ respiratory infections (coughs, colds, u, sinus infections, etc.). We give pe
 
 
 
-190   /   CONSTELL ATIONS OF C ARE ```
-
+190   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 204
@@ -4034,8 +3946,7 @@ Scientic Knowledge, and the Teachings of Plants (Minneapolis: Milkweed Editio
 
 
 
-192   /   CONSTELL ATIONS OF C ARE ```
-
+192   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 206
@@ -4085,8 +3996,7 @@ Scientic Knowledge, and the Teachings of Plants (Minneapolis: Milkweed Editio
 
               |
        M AG S B E A L L
-A N D C O RY M A R I A DAC K ```
-
+A N D C O RY M A R I A DAC K 
 ---
 
 ## Page 209
@@ -4134,8 +4044,7 @@ immunity for street medics, I’m glad this false rumor led me to a phone call t
 
 
 
-198   /   CONSTELL ATIONS OF C ARE ```
-
+198   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 212
@@ -4175,8 +4084,7 @@ How we were drawn to this work is unique to each of our lived experiences, of co
 for Human Rights,” SNCC Digital, accessed December 8, 2023, https:// snccdigital.org/inside-sncc/alliances-relationships/mchr/; Johanna Fernández, The Young Lords: A Radical History (Chapel Hill: University of North Carolina Press, 2020); Alondra Nelson, Body and Soul: The Black Panther Party and the Fight against Medical Discrimination (Minneapolis: University of Minnesota Press, 2013).
 
 
-200    /   CONSTELL ATIONS OF C ARE ```
-
+200    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 214
@@ -4209,8 +4117,7 @@ NORTH STAR ETHICS
 There is a dierence between being a street medic and being a medic-in-the-streets. Health care professionals who hit the streets with their med bags are not necessarily prepared to give care to people under extreme duress with limited resources. And unless you’re a trained street medic, you might not be operating with the same values that North Star holds. We
 
 
-202   /   CONSTELL ATIONS OF C ARE ```
-
+202   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 216
@@ -4240,8 +4147,7 @@ There is a dierence between being a street medic and being a medic-in-the-str
 
 
 
-204   /   CONSTELL ATIONS OF C ARE ```
-
+204   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 218
@@ -4281,8 +4187,7 @@ Cory: After Trump lost the 2020 presidential election, his supporters began to h
 
 
 
-206   /   CONSTELL ATIONS OF C ARE ```
-
+206   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 220
@@ -4315,8 +4220,7 @@ NORTH STAR PRACTICES
 Holding a set of anarchist values while in motion is important. North Star often thrives—or knows why we’re not—because of our practices. We work to live this out in everything we do. Which means that we develop protocols as well as discuss how to evolve and change, but from a strong rooting in what we are working to build. It’s granular, like when we check in with each other at the start of an action. It guides us, such that we insist on never running alone. It’s why we have a whole dispatch system so as to care for each other on, and as
 
 
-208   /   CONSTELL ATIONS OF C ARE ```
-
+208   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 222
@@ -4372,8 +4276,7 @@ Buddies on the ground are backed up by our dispatchers, who oer care as well,
 
 
 
-210    /   CONSTELL ATIONS OF C ARE ```
-
+210    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 224
@@ -4420,8 +4323,7 @@ Buddies on the ground are backed up by our dispatchers, who oer care as well,
 
 
 
-212    /   CONSTELL ATIONS OF C ARE ```
-
+212    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 226
@@ -4478,8 +4380,7 @@ CARING FOR THE CARERS
 Of course, this doesn’t ever come easy or with some magical clarity. Many of us are burned out right now, even though
 
 
-214    /   CONSTELL ATIONS OF C ARE ```
-
+214    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 228
@@ -4515,8 +4416,7 @@ Health Collective Arrested during ‘The People’s Mandate’ Protest on Novemb
 
 
 
-216   /   CONSTELL ATIONS OF C ARE ```
-
+216   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 230
@@ -4549,8 +4449,7 @@ Minneapolis, the Twin Cities Metro, and the state of Minnesota are in a challeng
 
 
 
-218   /   CONSTELL ATIONS OF C ARE ```
-
+218   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 232
@@ -4590,8 +4489,7 @@ Mags and Cory would like to oer deep gratitude to the whole of North Star Hea
 
 
 
-220   /   CONSTELL ATIONS OF C ARE ```
-
+220   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 234
@@ -4611,8 +4509,7 @@ Mags and Cory would like to oer deep gratitude to the whole of North Star Hea
 
 
                 |
-C I N DY BA RU K H M I L S T E I N ```
-
+C I N DY BA RU K H M I L S T E I N 
 ---
 
 ## Page 235
@@ -4653,8 +4550,7 @@ C I N DY BA RU K H M I L S T E I N ```
 
 
 
-224   /   CONSTELL ATIONS OF C ARE ```
-
+224   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 238
@@ -4691,8 +4587,7 @@ through the mists of time, beginning with the rst piece in the 1990s and earl
 
 
 
-226   /   CONSTELL ATIONS OF C ARE ```
-
+226   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 240
@@ -4725,8 +4620,7 @@ through the mists of time, beginning with the rst piece in the 1990s and earl
 It was not a safe space. How could it (pretend to) be? Not only was it smack-dab in the center of the intensive
 
 
-228   /   CONSTELL ATIONS OF C ARE ```
-
+228   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 242
@@ -4756,8 +4650,7 @@ It was not a safe space. How could it (pretend to) be? Not only was it smack-dab
 
 
 
-230   /   CONSTELL ATIONS OF C ARE ```
-
+230   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 244
@@ -4790,8 +4683,7 @@ It was not a safe space. How could it (pretend to) be? Not only was it smack-dab
 Maybe it was the open, multilevel, hundred-plus-year-old barn that sparked our “cultivating care” framework. After all, anyone driving by it on the wooded road, friend or foe, could see right into the charmingly ramshackle structure, making this now-longtime radical space feel equal parts beautiful and vulnerable. It was clearly a magical location for our anarchist summer school. But the magic wasn’t simply “there,” like this barn, built decades ago by unknown others. As an organizing collective, we had to continually tend to the oorboards and support beams, literally and guratively, to conjure it up. And that ongoing “repair work” had to be something that everyone who participated in the camp for three summers proactively engaged in side by side. How, though, could we encourage everyone to be tinkerers, and with what tool kits? There were so many devices we wanted to pack into the programming—history, strategic thinking, hands-on skills related to direct action, play, and more. Way too much for an eight-day camp. Yet perhaps the most crucial tool turned out to be something that is not usually ready to hand in most anarchist spaces: being vulnerable with each other, and doing so as the foundation for everything else.
 
 
-232   /   CONSTELL ATIONS OF C ARE ```
-
+232   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 246
@@ -4824,8 +4716,7 @@ We Choose Love: A Trans Girl’s Notes from the End of the World (Vancouver: Ars
 
 
 
-234   /   CONSTELL ATIONS OF C ARE ```
-
+234   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 248
@@ -4858,8 +4749,7 @@ Richard Spencer’s cross-country speaking tour at US colleges was put to a scre
 
 
 
-236   /   CONSTELL ATIONS OF C ARE ```
-
+236   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 250
@@ -4890,8 +4780,7 @@ Richard Spencer’s cross-country speaking tour at US colleges was put to a scre
 
 
 
-238   /   CONSTELL ATIONS OF C ARE ```
-
+238   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 252
@@ -4926,8 +4815,7 @@ There were so many times during #DefendJ20 when it felt like the state was sitti
 
 
 
-240   /   CONSTELL ATIONS OF C ARE ```
-
+240   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 254
@@ -4957,8 +4845,7 @@ There were so many times during #DefendJ20 when it felt like the state was sitti
 
 
 
-242   /   CONSTELL ATIONS OF C ARE ```
-
+242   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 256
@@ -4991,8 +4878,7 @@ The two most joyous anarchist gatherings I’ve experienced since the pandemic b
 
 
 
-244   /   CONSTELL ATIONS OF C ARE ```
-
+244   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 258
@@ -5023,8 +4909,7 @@ The two most joyous anarchist gatherings I’ve experienced since the pandemic b
 
 
 
-246   /   CONSTELL ATIONS OF C ARE ```
-
+246   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 260
@@ -5053,8 +4938,7 @@ The two most joyous anarchist gatherings I’ve experienced since the pandemic b
 
 
 
-248   /   CONSTELL ATIONS OF C ARE ```
-
+248   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 262
@@ -5095,8 +4979,7 @@ Cindy Barukh Milstein still doesn’t quilt. Or maybe they do, in dierent way
 
 
 
-250   /   CONSTELL ATIONS OF C ARE ```
-
+250   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 264
@@ -5764,8 +5647,7 @@ uprising, but those who participated and still align themselves with its goals o
                                 * * *
 
 
-284   /   CONSTELL ATIONS OF C ARE ```
-
+284   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 298
@@ -5798,8 +5680,7 @@ direct democracy. In Chilean history, it has referenced a form of political powe
 
 
 
-286   /   CONSTELL ATIONS OF C ARE ```
-
+286   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 300
@@ -5836,8 +5717,7 @@ americana/os. I’m thus still “American,” but no longer consider myself so 
 
 
 
-288   /   CONSTELL ATIONS OF C ARE ```
-
+288   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 302
@@ -5872,8 +5752,7 @@ It was November 23, 2019, and I was having the best day of my life. The revolt w
 
 
 
-290   /   CONSTELL ATIONS OF C ARE ```
-
+290   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 304
@@ -5902,8 +5781,7 @@ It was November 23, 2019, and I was having the best day of my life. The revolt w
 
 
 
-292   /   CONSTELL ATIONS OF C ARE ```
-
+292   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 306
@@ -5938,8 +5816,7 @@ It was November 23, 2019, and I was having the best day of my life. The revolt w
                                 * * *
 In the rst weeks of the pandemic, I suddenly had more time on my hands than I knew what to do with. Although I still considered myself a painter, I had largely abandoned my personal practice in favor of collective projects and the capitalist grind. The quarantine was almost a blessing in that sense; at last, I could look back on my collection of photos from a busy year of protests and select the best to use as painting references. Even then, I think I understood that the pandemic meant the end of the revolt as I knew it, but I still anticipated the idea of returning to those memories with pleasure, knowing that the act of painting was a way to escape my dull, uncertain present.
 
-294   /   CONSTELL ATIONS OF C ARE ```
-
+294   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 308
@@ -5970,8 +5847,7 @@ street art I’d learned about alongside my compañeras at the height of the fem
 
 
 
-296   /   CONSTELL ATIONS OF C ARE ```
-
+296   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 310
@@ -6001,8 +5877,7 @@ street art I’d learned about alongside my compañeras at the height of the fem
 
 
 
-298   /   CONSTELL ATIONS OF C ARE ```
-
+298   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 312
@@ -6056,8 +5931,7 @@ street art I’d learned about alongside my compañeras at the height of the fem
 
 
 
-300   /   CONSTELL ATIONS OF C ARE ```
-
+300   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 314
@@ -6146,8 +6020,7 @@ production emphasized the importance of naming and acknowledging the rst iter
 
 
 
-304   /   CONSTELL ATIONS OF C ARE ```
-
+304   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 318
@@ -6196,8 +6069,7 @@ Inmn: I got involved in Shakesqueer when I was living in Asheville, North Caroli
 
 
 
-306   /   CONSTELL ATIONS OF C ARE ```
-
+306   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 320
@@ -6235,8 +6107,7 @@ Adrian: Because the majority of the people in the group every year have been rad
 Egg: Part of putting together a production that makes it have these elements of anarchism could be found in other theater productions as well, which is beautiful when you think about it. But the elements that make Shakesqueer anarchist are the ways in which the cast becomes mutually dependent on one another in the formation of this creative project; we rely on
 
 
-308   /   CONSTELL ATIONS OF C ARE ```
-
+308   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 322
@@ -6271,8 +6142,7 @@ Dominique: Toward the beginning of Romeo and Juliet re- hearsals, we had a meeti
 
 
 
-310   /   CONSTELL ATIONS OF C ARE ```
-
+310   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 324
@@ -6313,8 +6183,7 @@ Inmn: As You Like It is about this “woman” who disguises herself as a man to
 
 
 
-312   /   CONSTELL ATIONS OF C ARE ```
-
+312   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 326
@@ -6346,8 +6215,7 @@ Dominique: There was queerness in a lot of dierent aspects of Romeo and Julie
 
 
 
-314   /   CONSTELL ATIONS OF C ARE ```
-
+314   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 328
@@ -6386,8 +6254,7 @@ Inmn: Having been the director twice now and getting to work really closely with
 
 
 
-316   /   CONSTELL ATIONS OF C ARE ```
-
+316   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 330
@@ -6424,8 +6291,7 @@ friends with, and I feel more cared for overall in the commu- nity because I thi
 
 
 
-318   /   CONSTELL ATIONS OF C ARE ```
-
+318   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 332
@@ -6460,8 +6326,7 @@ Maggie: I don’t think that we just do theater and everything’s great. It’s
 
 
 
-320   /   CONSTELL ATIONS OF C ARE ```
-
+320   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 334
@@ -6504,8 +6369,7 @@ breadandpuppet.org/; Beehive Collective, https://beehivecollective.org/.
 
 
 
-322   /   CONSTELL ATIONS OF C ARE ```
-
+322   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 336
@@ -6540,8 +6404,7 @@ Glen: Another way of putting it would be that we’re demonstrating something to
 
 
 
-324   /   CONSTELL ATIONS OF C ARE ```
-
+324   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 338
@@ -6582,8 +6445,7 @@ Shakesqueer Tucson produces radical, queer interpretations of Shakespeare plays.
 
 
 
-326   /   CONSTELL ATIONS OF C ARE ```
-
+326   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 340
@@ -6655,8 +6517,7 @@ ian pots” in English. I’ve chosen to go with “communitarian kitchens” to
 
 
 
-330    /   CONSTELL ATIONS OF C ARE ```
-
+330    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 344
@@ -6690,8 +6551,7 @@ Since I was a girl, re has been an everyday part of my life. Innite memori
 
 
 
-332   /   CONSTELL ATIONS OF C ARE ```
-
+332   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 346
@@ -6728,8 +6588,7 @@ culture, and autonomy of the peoples in the mountains of the Cauca.
 
 
 
-334   /   CONSTELL ATIONS OF C ARE ```
-
+334   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 348
@@ -6760,8 +6619,7 @@ In the uprisings, strikes, revolts, marches, encampments, popular assemblies, bl
 
 
 
-336   /   CONSTELL ATIONS OF C ARE ```
-
+336   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 350
@@ -6802,8 +6660,7 @@ us that no matter how libertarian they may be, they must always comply with the 
 
 
 
-338   /   CONSTELL ATIONS OF C ARE ```
-
+338   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 352
@@ -6902,8 +6759,7 @@ R E VO L U T I O N , O N E S T E W
 
 
 
-344   /   CONSTELL ATIONS OF C ARE ```
-
+344   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 358
@@ -6933,8 +6789,7 @@ R E VO L U T I O N , O N E S T E W
 
 
 
-346   /   CONSTELL ATIONS OF C ARE ```
-
+346   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 360
@@ -6964,8 +6819,7 @@ R E VO L U T I O N , O N E S T E W
 
 
 
-348   /   CONSTELL ATIONS OF C ARE ```
-
+348   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 362
@@ -7000,8 +6854,7 @@ Aleh Stankova is a queer Balkan feminist organizer originally from Bulgaria who 
 
 
 
-350   /   CONSTELL ATIONS OF C ARE ```
-
+350   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 364
@@ -7099,8 +6952,7 @@ I N T R A O R GA N I Z A T I O N A L
 
 
 
-356     /   CONSTELL ATIONS OF C ARE ```
-
+356     /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 370
@@ -7137,8 +6989,7 @@ will never experience harm here,” but instead, “If and when harm likely does
 
 
 
-358   /   CONSTELL ATIONS OF C ARE ```
-
+358   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 372
@@ -7177,8 +7028,7 @@ October 27, 2021. For an introduction to Rodriguez and his work, see https://pro
 
 
 
-360   /   CONSTELL ATIONS OF C ARE ```
-
+360   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 374
@@ -7215,8 +7065,7 @@ with Mariame Kaba” (podcast), April 10, 2019.
 
 
 
-362   /   CONSTELL ATIONS OF C ARE ```
-
+362   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 376
@@ -7249,8 +7098,7 @@ As members of the SPA team, we initially presented our handbook and some of the 
 
 
 
-364   /   CONSTELL ATIONS OF C ARE ```
-
+364   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 378
@@ -7304,8 +7152,7 @@ Benji Hart is an interdisciplinary author, artist, and educator whose work cente
            ABORTION
 
                  |
-BAY L A ( A K A BAY ) O S T R AC H ```
-
+BAY L A ( A K A BAY ) O S T R AC H 
 ---
 
 ## Page 381
@@ -7349,8 +7196,7 @@ avowed feminist clinics that were part of the federation, including the one ment
 
 
 
-370   /   CONSTELL ATIONS OF C ARE ```
-
+370   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 384
@@ -7380,8 +7226,7 @@ avowed feminist clinics that were part of the federation, including the one ment
 
 
 
-372   /   CONSTELL ATIONS OF C ARE ```
-
+372   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 386
@@ -7420,8 +7265,7 @@ avowed feminist clinics that were part of the federation, including the one ment
               that cost more than had our feminist one
 
 
-374       /    CONSTELL ATIONS OF C ARE ```
-
+374       /    CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 388
@@ -7451,8 +7295,7 @@ avowed feminist clinics that were part of the federation, including the one ment
 
 
 
-376   /   CONSTELL ATIONS OF C ARE ```
-
+376   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 390
@@ -7552,8 +7395,7 @@ Dream Team, https://aborcyjnydreamteam.pl/; Kobiety W Sieci, https://maszwybor.n
 
 
 
-382   /   CONSTELL ATIONS OF C ARE ```
-
+382   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 396
@@ -7583,8 +7425,7 @@ Dream Team, https://aborcyjnydreamteam.pl/; Kobiety W Sieci, https://maszwybor.n
 
 
 
-384   /   CONSTELL ATIONS OF C ARE ```
-
+384   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 398
@@ -7620,8 +7461,7 @@ that the rst thing that changed in the wake of Poland’s near- total abortio
 
 
 
-386   /   CONSTELL ATIONS OF C ARE ```
-
+386   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 400
@@ -7654,8 +7494,7 @@ decriminalizing but also demedicalizing abortion. “Abortion pills are somethin
 
 
 
-388   /   CONSTELL ATIONS OF C ARE ```
-
+388   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 402
@@ -7685,8 +7524,7 @@ decriminalizing but also demedicalizing abortion. “Abortion pills are somethin
 
 
 
-390   /   CONSTELL ATIONS OF C ARE ```
-
+390   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 404
@@ -7719,8 +7557,7 @@ decriminalizing but also demedicalizing abortion. “Abortion pills are somethin
                                 * * *
 
 
-392   /   CONSTELL ATIONS OF C ARE ```
-
+392   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 406
@@ -7815,8 +7652,7 @@ therefore making it is illegal. It’s possible that people are doing this, thou
 
 
 
-398    /   CONSTELL ATIONS OF C ARE ```
-
+398    /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 412
@@ -7846,8 +7682,7 @@ therefore making it is illegal. It’s possible that people are doing this, thou
 
 
 
-400   /   CONSTELL ATIONS OF C ARE ```
-
+400   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 414
@@ -7877,8 +7712,7 @@ therefore making it is illegal. It’s possible that people are doing this, thou
 
 
 
-402   /   CONSTELL ATIONS OF C ARE ```
-
+402   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 416
@@ -7908,8 +7742,7 @@ therefore making it is illegal. It’s possible that people are doing this, thou
 
 
 
-404   /   CONSTELL ATIONS OF C ARE ```
-
+404   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 418
@@ -7939,8 +7772,7 @@ therefore making it is illegal. It’s possible that people are doing this, thou
 
 
 
-406   /   CONSTELL ATIONS OF C ARE ```
-
+406   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 420
@@ -8033,8 +7865,7 @@ Scott/Shuli Branson is a queer/transfemme Jewish anarchist writer, translator, c
 
 
 
-412   /   CONSTELL ATIONS OF C ARE ```
-
+412   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 426
@@ -8064,8 +7895,7 @@ Scott/Shuli Branson is a queer/transfemme Jewish anarchist writer, translator, c
 
 
 
-414   /   CONSTELL ATIONS OF C ARE ```
-
+414   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 428
@@ -8098,8 +7928,7 @@ Chthulucene (Durham, NC: Duke University Press, 2016).
 
 
 
-416   /   CONSTELL ATIONS OF C ARE ```
-
+416   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 430
@@ -8136,8 +7965,7 @@ Vicky Osterweil is a writer, worker, and agitator based out of Philadelphia. She
 
 
 
-418   /   CONSTELL ATIONS OF C ARE ```
-
+418   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 432
@@ -8208,8 +8036,7 @@ currently have hierarchical power in the world, such as the names of cities, nat
 
 
 
-422   /   CONSTELL ATIONS OF C ARE ```
-
+422   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 436
@@ -8247,8 +8074,7 @@ In the beginning, črne mačke gathered on the second oor of the Autonomous
 
 
 
-424   /   CONSTELL ATIONS OF C ARE ```
-
+424   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 438
@@ -8282,8 +8108,7 @@ HOW TO ORGANIZE
 In the two years since we formed, our collective has gone through numerous changes in ideology and group dynamics, which sometimes we’ve tackled well and sometimes less eectively. As a feminist group, we are “experts” in self-care and excellent reproductive workers, yet we keep failing when trying to put these ideas into practice. Looking at already established anarchist and feminist groups in our geographies, we felt that the rst didn’t recognize the importance of antisexist work, and the latter adopted neoliberal approaches in their ght against (gender) oppression. That’s why we decided at rst to forge our own organizing path based on our own values, wants, and capac- ities, and not focus too much on how to connect with other groups from the start. Yet when there were fractures within our collective, and especially after we lost a number of members, we decided not to aim at expanding, even though we keep returning to this question at dierent points in our organizing. As a small group, it’s easier to address conicts and nd common ground. Trust can be built and tended to more easily. We seek to nd
 
 
-426   /   CONSTELL ATIONS OF C ARE ```
-
+426   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 440
@@ -8314,8 +8139,7 @@ When engaged in organizing beyond our collective in var- ious struggles, we’ve
 
 
 
-428   /   CONSTELL ATIONS OF C ARE ```
-
+428   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 442
@@ -8348,8 +8172,7 @@ From our beginnings onward, we’ve questioned the women- only constellation and
 
 
 
-430   /   CONSTELL ATIONS OF C ARE ```
-
+430   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 444
@@ -8382,8 +8205,7 @@ From our beginnings onward, we’ve questioned the women- only constellation and
 
 
 
-432   /   CONSTELL ATIONS OF C ARE ```
-
+432   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 446
@@ -8448,8 +8270,7 @@ ticket inspectors waiting on the metro platforms or stall the inspectors so as t
 
 
 
-436   /   CONSTELL ATIONS OF C ARE ```
-
+436   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 450
@@ -8479,8 +8300,7 @@ ticket inspectors waiting on the metro platforms or stall the inspectors so as t
 
 
 
-438   /   CONSTELL ATIONS OF C ARE ```
-
+438   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 452
@@ -8511,8 +8331,7 @@ ticket inspectors waiting on the metro platforms or stall the inspectors so as t
 
 
 
-440   /   CONSTELL ATIONS OF C ARE ```
-
+440   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 454
@@ -8551,8 +8370,7 @@ Vilja Saarinen writes from Helsinki, although she would love to be with you, whe
 
 
 
-442   /   CONSTELL ATIONS OF C ARE ```
-
+442   /   CONSTELL ATIONS OF C ARE 
 ---
 
 ## Page 456
@@ -8576,7 +8394,6 @@ Deciding for Ourselves: The Promise of Direct Democracy, edited by Cindy Milstei
 
 There Is Nothing So Whole as a Broken Heart: Mending the World as Jewish Anarchists, edited by Cindy Milstein (AK Press, 2021)
 
-Try Anarchism for Life: The Beauty of Our Circle, by Cindy Barukh Milstein (Strangers in a Tangled Wilderness, 2022) ```
-
+Try Anarchism for Life: The Beauty of Our Circle, by Cindy Barukh Milstein (Strangers in a Tangled Wilderness, 2022) 
 ---
 

@@ -39,8 +39,7 @@ A friend of a Punjabi guy who we had previously supported against his boss, got 
 
 
 
-During the picket we had a short discussion with a building worker of Afghani origin, who supported our action, but also pointed out that it wasn't so simple: 'There is a demand for jobs like this, and workers benefit from these arrangements too - you get paid and can claim some benefits on the side'. It's true, there are desperate workers who have recently migrated to the UK and who need jobs within ‘their community’ and cash-in-hand payments allow them to top ```
-
+During the picket we had a short discussion with a building worker of Afghani origin, who supported our action, but also pointed out that it wasn't so simple: 'There is a demand for jobs like this, and workers benefit from these arrangements too - you get paid and can claim some benefits on the side'. It's true, there are desperate workers who have recently migrated to the UK and who need jobs within ‘their community’ and cash-in-hand payments allow them to top 
 ---
 
 ## Page 2
@@ -66,6 +65,5 @@ Through word of mouth, this LSG truck driver got in touch. He was a a friend of 
 
 
 
-We are now in a situation where the IWW could actually play a role in a major multinational corporation. The problem is that our capacity is limited, in terms of actual (wo)men-hours that we can put into this. We will suggest a bigger meeting with the new drivers to discuss the situation. It might well turn out that they hope for a quick legal fix and are not up for taking more collective practical steps. Nevertheless, these are the type of connections - between small backyard enterprises and potential industrial power - that any working class organisation would have to create, or rather, unearth. ```
-
+We are now in a situation where the IWW could actually play a role in a major multinational corporation. The problem is that our capacity is limited, in terms of actual (wo)men-hours that we can put into this. We will suggest a bigger meeting with the new drivers to discuss the situation. It might well turn out that they hope for a quick legal fix and are not up for taking more collective practical steps. Nevertheless, these are the type of connections - between small backyard enterprises and potential industrial power - that any working class organisation would have to create, or rather, unearth. 
 ---

@@ -57,8 +57,7 @@ Highlights = follow up in the future
                    ○ AB 201 - Eviction Record Sealing
 
                            ⎻ Vetoed
-```
-
+
 ---
 
 ## Page 2
@@ -119,8 +118,7 @@ Highlights = follow up in the future
 ➔ Any other business
 
      ● Schedule meeting to make pamphlets/zines over discord
-```
-
+
 ---
 
 ## Page 3
@@ -150,7 +148,6 @@ Highlights = follow up in the future
 ➔ Invite to Discord:
 
       ●
-```
-
+
 ---
 

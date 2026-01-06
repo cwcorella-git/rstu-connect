@@ -70,8 +70,7 @@ Six ways Nevada policymakers are trying to tackle the ...             https://ww
 
 
 1 of 7                                                                                                       8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 2
@@ -134,8 +133,7 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
    focus on building more housing units to increase supply and satisfy demand.
 
 2 of 7                                                                                                  8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 3
@@ -195,8 +193,7 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
 
 
 3 of 7                                                                                                  8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 4
@@ -256,8 +253,7 @@ Six ways Nevada policymakers are trying to tackle the ...              https://w
 
 
 4 of 7                                                                                                        8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 5
@@ -321,8 +317,7 @@ Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonn
 
 
 5 of 7                                                                                                8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 6
@@ -386,8 +381,7 @@ Six ways Nevada policymakers are trying to tackle the ...     https://www.carson
 
 
 6 of 7                                                                                                  8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 7
@@ -450,7 +444,6 @@ Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonn
 
 
 7 of 7                                                                                                 8/7/25, 1:34 PM
-```
-
+
 ---
 

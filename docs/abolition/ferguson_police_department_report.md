@@ -532,8 +532,7 @@ This document was converted from **11_Art_Culture/Books/ferguson_police_departme
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/11_Art_Culture_Books_ferguson_police_department_report/11_Art_Culture_Books_ferguson_police_department_report.md" ```
-
+bash claude code "Collections/11_Art_Culture_Books_ferguson_police_department_report/11_Art_Culture_Books_ferguson_police_department_report.md" 
 **Library Location:** 11_Art_Culture is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

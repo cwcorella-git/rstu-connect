@@ -114,8 +114,7 @@ Animation Node One Shot. ONE_SHOT_REQUEST_ABORT
 (int)Animation Node One Shot. One Shot Request. Abort);
  // Get current state (read-only).
  animation Tree. Get("parameters/One Shot/active");
-## ```
-
+## 
 #### **Time Seek**
 
 This node allows you to seek to a time in the animation connected to its in input. Use this node to play an Animation starting from a certain playback position. Note that the seek request value is measured in seconds, so if you would like to play an animation from the beginning, set the value to 0.0, or if you would like to play an animation from 3 seconds in, set the value to 3.0.
@@ -140,8 +139,7 @@ animation\_tree["parameters/Time Seek/seek\_request"] = 0.0
  // Play child animation from the start.
  animation Tree. Set("parameters/Time Seek/seek_request", 
 0.0);
-## ```
-
+## 
 // Play child animation from 12 second timestamp. animation Tree. Set("parameters/Time Seek/seek\_request", 12.0);
 
 #### **Time Scale**
@@ -167,8 +165,7 @@ transition_request", "state_2")
  # Alternative syntax (same result).
  animation_tree["parameters/Transition/transition_request"] = 
 "state_2"
-## ```
-
+## 
 # Get current state name (read-only). animation\_tree.get("parameters/Transition/current\_state")
 
 
@@ -186,8 +183,7 @@ transition_request", "state_2");
  animation Tree. Get("parameters/Transition/current_state");
  // Get current state index (read-only).
  animation Tree. Get("parameters/Transition/current_index");
-## ```
-
+## 
 ## **State Machine**
 
 When you make an Animation Node State Machine, you get an empty 2d graph in the bottom panel, under the Animation Tree tab. It contains a Start and End state by default.
@@ -270,8 +266,7 @@ To use the travel ability, you should first retrieve the [:ref:`Animation Node S
 
 
 .. tabs::
-## ```
-
+## 
 ## .. code-tab:: gdscript GDScript var state\_machine = animation\_tree["parameters/playback"] state\_machine.travel("Some State")
 
 .. code-tab:: csharp
@@ -351,8 +346,7 @@ Afterwards, the actual motion can be retrieved via the [:ref:`Animation Tree <cl
  animation_tree.get_root_motion_position()
  animation_tree.get_root_motion_rotation()
  animation_tree.get_root_motion_scale()
-## ```
-
+## 
 # Get the actual blended value of the animation. animation\_tree.get\_root\_motion\_position\_accumulator() animation\_tree.get\_root\_motion\_rotation\_accumulator() animation\_tree.get\_root\_motion\_scale\_accumulator()
 
 .. code-tab:: csharp
@@ -362,8 +356,7 @@ Afterwards, the actual motion can be retrieved via the [:ref:`Animation Tree <cl
 
  animation Tree. Get Root Motion Rotation();
  animation Tree. Get Root Motion Scale();
-## ```
-
+## 
 // Get the actual blended value of the animation. animation Tree. Get Root Motion Position Accumulator(); animation Tree. Get Root Motion Rotation Accumulator(); animation Tree. Get Root Motion Scale Accumulator();
 
 This can be fed to functions such as [:ref:`Character Body3D.move\\_and\\_slide](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id9) [<class\\_Character Body3D\\_method\\_move\\_and\\_slide>`](about:reader?url=https%3A%2F%2Fgithub.com%2Fgodotengine%2Fgodot-docs%2Fblob%2Fmaster%2Ftutorials%2Fanimation%2Fanimation_tree.rst#id9) to control the character movement.

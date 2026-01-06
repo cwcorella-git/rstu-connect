@@ -92,8 +92,7 @@ Function Train World Model(S, T, N_W, \theta_W, dt):
 ## */
         \theta_{\mathcal{W}} \leftarrow \text{RAdam}(\theta_{\mathcal{W}}, \nabla \sum_{*} \mathcal{L}_{*})
 end
-## ```
-
+## 
 #### Environment 3.1
 
 To allow for enough data to be collected we set up a training environment that closely resembles an RL gym similar in style to that of Deep Mimic [Peng et al. 2018a]. We simulate 256 different articulated characters in parallel with motors at each joint, driven by PD controllers, with the goal of tracking some corresponding kinematic animation taken from a motion capture database. Whenever some maximum episode length is exceeded, or some minimum episode length has been obtained and the character's head height has deviated from the reference by more than 25cm, reference state initialization [Peng et al. 2018a] is used to reset the simulated character to a random pose from a random animation in the kinematic animation database, with vertical correction applied to avoid ground penetrations. We use a maximum episode length of 512, a minimum episode length of 48, and provide an option to apply resets with respect to some user-provided probability distribution over animations. Once an episode terminates, the samples from the environment are added to a large cyclic data buffer (see Section 3.5 for more details). This setup generates data at a rate of ~5000 samples per second. For more details on our simulation settings please see Section 5.3.
@@ -167,8 +166,7 @@ Function Train Policy(S_0, K, W, N_{\Pi}, \theta_{\Pi}, \sigma, \alpha, dt):
         /* Update network parameters
         \theta_{\Pi} \leftarrow \text{RAdam}(\theta_{\Pi}, \nabla \sum_{*} \mathcal{L}_{*})
 end
-## ```
-
+## 
 Finally, before being provided as input to the network, we normalize each quantity by its mean and standard deviation which we compute from a database of kinematic data offline before training.
 
 ## 3.4 World Model

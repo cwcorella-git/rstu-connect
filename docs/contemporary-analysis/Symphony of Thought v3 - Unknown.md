@@ -75,8 +75,7 @@ Part 4: Cognitive Control 99
  Task Sets 109
  Self-Awareness 114
  Metacognition 120
-## ```
-
+## 
 Beliefs & Evidence 126 Identity & Persona 131 Spontaneity 136 Recap 138 Part 5: Learning 139 Record Everything 139 Security 140 Scale 141 Labeling Memories 144 Updating Models 147 Pipelines 148 Self-Correction & Error Detection 150 Types of Recall 152 Rapid Induction and Generalization 153
 
 ## Recap 154
@@ -1317,8 +1316,7 @@ Let's give a quick example before we move on about how self-awareness might look
 
 
 I am a robot lifting a heavy box. What do the following logs mean?
-## ```
-
+## 
 ## CHASSIS LOAD: Maximum lift weight 85 kg exceeded
 
 Orientation sensor: angular momentum detected, pitching forward, acceleration detected

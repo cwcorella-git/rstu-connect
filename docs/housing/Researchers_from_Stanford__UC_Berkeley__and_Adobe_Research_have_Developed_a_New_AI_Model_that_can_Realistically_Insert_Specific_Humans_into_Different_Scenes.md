@@ -26,7 +26,7 @@ tags:
                  with the advent of generative models—computational tools
                  capable of generating texts or images based on training data.
                  Inspired by these advancements, researchers from Stanford
-1 of 4 9/5/23, 05:29 ``` Researchers from Stanford, UC Berkeley, and Adobe Resear... about:reader?url=https%3A%2F%2Fwww.marktechpost.c...
+1 of 4 9/5/23, 05:29  Researchers from Stanford, UC Berkeley, and Adobe Resear... about:reader?url=https%3A%2F%2Fwww.marktechpost.c...
                  University, UC Berkeley, and Adobe Research have introduced a
                  novel model that can seamlessly insert specific humans into
                  different scenes with impressive realism.
@@ -93,8 +93,7 @@ This document was converted from **06_Technology_AI/Articles/Researchers from St
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/06_Technology_AI_Articles_Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes/06_Technology_AI_Articles_Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes.md" ```
-
+bash claude code "Collections/06_Technology_AI_Articles_Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes/06_Technology_AI_Articles_Researchers_from_Stanford__UC_Berkeley__and_Adobe_Research_have_Developed_a_New_AI_Model_that_can_Realistically_Insert_Specific_Humans_into_Different_Scenes.md" 
 **Library Location:** 06_Technology_AI is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

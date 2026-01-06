@@ -374,8 +374,7 @@ Enviro Sky Mgr.instance.use Flat Clouds = true;
 Enviro Sky Mgr.instance.use Particle Clouds = true;
 Enviro Sky Mgr.instance.use Sun Shafts = true;
 Enviro Sky Mgr.instance.use Moon Shafts = true;
-## ```
-
+## 
 Enviro Sky Mgr.instance.use Distance Blur = true;
 
 ## Change clouds quality:
@@ -394,30 +393,26 @@ int current Day = Enviro Sky Mgr.instance. Time. Days;
 int current Month = Enviro Sky Mgr.instance. Get Current Month();
 int current Year = Enviro Sky Mgr.instance. Time. Years;
 float time OfDay = Enviro Sky Mgr.instance. Get Time OfDay();
-## ```
-
+## 
 ## Get current sun and moon "time" (0-1). Usefull to use in curves and gradient to evaluate values:
 
 
 float solar Time = Enviro Sky Mgr.instance. Time.solar Time;
 float lunar Time = Enviro Sky Mgr.instance. Time.lunar Time;
-## ```
-
+## 
 ## Get a time string to be used in your UI:
 
 
 string time String = Enviro Sky Mgr.instance. Get Time String();
 string time String With Seconds = Enviro Sky Mgr.instance. Get Time String With Seconds();
-## ```
-
+## 
 ## Set time of enviro:
 
 
 Enviro Sky Mgr.instance. Set Time OfDay(float tod);
 Enviro Sky Mgr.instance. Set Time(int year, int day, int hour, int minute, int second);
 Enviro Sky Mgr.instance. Set Time(System. Date Time date Time);
-## ```
-
+## 
 ## Set time progress mode of enviro:
 
 Enviro Sky Mgr.instance. Time. Progress Time = Enviro Time. Time Progress Mode. None;
@@ -509,4 +504,4 @@ Enviro Sky Mgr.instance. On Night += () =>
 {
 Debug. Log("Night!");
 };
-## ```
+## 

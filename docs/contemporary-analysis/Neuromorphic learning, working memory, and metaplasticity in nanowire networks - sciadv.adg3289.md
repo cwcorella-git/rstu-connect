@@ -306,8 +306,7 @@ V_{\text{o}} \Leftarrow V_{\text{o}} + \Delta \triangleright \text{External feed
 41:
           end if
 42: end for
-## ```
-
+## 
 stimulated for n-1 samples beforehand. Thus, the network relies on memory of pathways activated by the target input.
 
 In experiment, parameters used for task 2 were as follows: $x_{\text{train}} = 0.1 \text{ V}$ ; for $x_{\text{test}}$ , voltage was ramped up from 0 V until a current was measurable in the target drain; $\theta = 2 \times 10^{-8} \text{ A}$ ; $\theta_{\text{test}} = 1 \times 10^{-7} \text{ A}$ ; training time: t = 15 s or until $\theta$ was reached; testing time: t = 6 s or until $\theta_{\text{test}}$ was reached, with 5-s rest between each training sample and 5-s rest between training and testing. In simulation, parameters used were as follows: $x_{\text{train}} = 0.3 \text{ V}$ ; $x_{\text{test}} = 0.1 \text{ V}$ ; $\theta = 5 \times 10^{-6} \text{ A}$ ; training time: t = 2 s; testing time: t = 2 s, with no rest between each training sample and no rest between training and testing.

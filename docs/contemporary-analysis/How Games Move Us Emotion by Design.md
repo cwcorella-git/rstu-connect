@@ -1404,8 +1404,7 @@ Avatars
  design of, 118, 122
  Directional pad (D-pad) and, 48
  emotional design and, 2, 11–42, 131
-## ```
-
+## 
 
 human brain and, 30
  as inhabitable protagonists, 11–20
@@ -1435,8 +1434,7 @@ Bodies
  flow and, 81, 89, 101
  gestures and, 48, 102, 105
  identity and 102 107
-## ```
-
+## 
 
 identity and, 102–107
  LARP and, 103
@@ -1466,8 +1464,7 @@ Camaraderie, 7, 107, 117, 122
 Cart Life (game), 17–20, 41
 Chen, Jenova, 5–6, 120
 Choice
-## ```
-
+## 
 
 connection and, 120
  customization and, 32–41 (see also Customization)
@@ -1496,8 +1493,7 @@ Competition
  aggression and, 89, 91
  bodies and, 86, 89–94, 96
  connection and, 86, 89–94, 96, 110, 112, 124–125
-## ```
-
+## 
 
 coopetition and, 93–96
  movement design and, 86, 89–94, 96
@@ -1527,8 +1523,7 @@ Connection, xvi
  116, 118–130
  Facebook and, 63, 109–110, 112, 129
  fantasy and, 102–103, 105, 107, 113, 116, 121
-## ```
-
+## 
 y , , , , , , flow and, 81, 89, 101, 113, 120
 
 grounded cognition and, 7–8
@@ -1612,8 +1607,7 @@ Copenhagen Game Collective, 89
 Cortisol, 75
 Creative Computing magazine, 22–23
 Csikzentmihalyi Mihaly 4 5
-## ```
-
+## 
 
 Csikzentmihalyi, Mihaly, 4–5
 Cuddy, Amy, 75
@@ -1643,8 +1637,7 @@ Desert Bus (game), 83–85
 Directional pad (D-pad), 48
 Dutch National Ballet, 97
 Edwards, Jonathan, 17
-## ```
-
+## 
 
 Electromyography (EMG), 44
 Electronic Arts (EA), 7
@@ -1673,8 +1666,7 @@ Emotional design, xvi
  camaraderie and, 7, 107, 117, 122
  character customization and, 32–39
  choice and, 2–5, 9–16, 19–20, 32, 36, 40
-## ```
-
+## 
 -··- --, - - - - , closeness and, 97, 107, 109–110, 131
 
 cognition and, 7–9, 11, 13
@@ -1760,8 +1752,7 @@ Experience, 132
  distance and, 7, 89, 127
  emotional design and, 1–20, 30, 32, 38, 40–42
  fantasy and, 11 (see also Fantasy)
-## ```
-
+## 
 
 Garfinkeling and, 68–69
  humor and, 39, 59
@@ -1790,8 +1781,7 @@ Fantasy
  MMORPGs and, 55–56, 62–63, 67, 69, 113, 117, 122, 128–129
  projection and, 11–12, 36, 41, 81, 129
  protagonists and, 11, 13
-## ```
-
+## 
 role playing and 45 52 63 69 70 81 103 107 109 110 113
 
 
@@ -1822,8 +1812,7 @@ Games
  collective play and, 122–126
  community building and, 122–126
  compelling, 1, 4, 39, 52, 62, 81, 127
-## ```
-
+## 
 
 connection and, 73 (see also Connection)
  controllers and, 13, 48, 56, 73, 76, 79, 82, 89, 91, 105, 107
@@ -1852,8 +1841,7 @@ Garfinkel, Harold, 68
 Garfinkeling, 68–69
 Gestures, 48, 102, 105
 Goals, 2–4, 11, 18, 56, 69, 94, 97
-## ```
-
+## 
 ## Google, 110
 
 
@@ -1884,8 +1872,7 @@ Human brain
  psychology and, 2–4, 7, 11, 45, 64, 75 (see also Psychology)
  social play and, 81
  tricking, 8
-## ```
-
+## 
 g ,
 
 
@@ -1917,8 +1904,7 @@ Imagination
  immersion and, 103
  social cues and, 23, 41
  social play and 53 54
-## ```
-
+## 
 
 social play and, 53–54
  stance and, 22
@@ -1948,8 +1934,7 @@ Intimacy
  human brain and, 30
  multiplayer games and, 113, 117, 121–123
  networks and, 109–110, 112, 117–118, 121–130
-## ```
-
+## 
 
 nonplayer characters (NPCs) and, 32
  parasocial interaction and, 7, 20, 30
@@ -1978,14 +1963,12 @@ Love Plus (game), 25–32, 41
 Mandryk, Regan L., 44
 Massively multiplayer online role-playing games (MMORPGs), 55–56, 62–63,
 67, 69, 113, 117, 122–123, 128–129
-## ```
-
+## 
 etwo s a d, 09 0, , 8, 30
 
 
 Mechanics Is the Message, 9–10
-## ```
-
+## 
 ## Meier, Sid, 2
 
 ## Melees, 56, 117, 124
@@ -2067,8 +2050,7 @@ Networks
  software for, 112
  tracking old friends and, 110, 112
  turn-taking and, 67, 127
-## ```
-
+## 
 types of exchanges in, 110
 
 virtual reality and, 112
@@ -2149,14 +2131,12 @@ Protagonists
 Psychology
  bonding and, 31–32, 45, 81, 94, 118
  boredom and, 5, 44, 83
-## ```
-
+## 
 character customization and 2 32 41 49 52 53 56 58 60 62
 
 
 character customization and, 2, 32–41, 49, 52–53, 56, 58, 60, 62
-## ```
-
+## 
 cognition and, 7–9, 11, 13, 53
 
 connection and, 75
@@ -2239,8 +2219,7 @@ Sims, The (game)
  character customization and, 32–39
  death and, 37–38
  emotional design and, 1, 8, 33–41
-## ```
-
+## 
 ewa ds, 3, , 68 69, 8 , 9 , 5
 
 
@@ -2272,12 +2251,10 @@ Social play
  context and, 53, 56, 67, 70
  control and, 48–52, 56, 67
  cooperation and 97–102
-## ```
-
+## 
 
 cooperation and, 97–102
-## ```
-
+## 
 coopetition and, 93–96
 
 coordination and, 45–52, 70, 73, 88–89, 94, 96–97, 105
@@ -2360,12 +2337,10 @@ TED talks, 75
 Tekken Torture Tournament (game), 85–86
 Television, 7, 35, 43–44, 128
 Testosterone, 75
-## ```
-
+## 
 
 Texting, 109
-## ```
-
+## 
 ## There.com (game), 117, 128
 
 ## Third-person perspective, 13–16, 36

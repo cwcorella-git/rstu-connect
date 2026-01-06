@@ -35,7 +35,7 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
                 media, tax collectors, etc.
                 Not all guidance given by one person to another constitutes
                 hierarchy. Choosing to accept a specialist's expertise in their
-1 of 13 3/17/25, 5:06 PM ``` Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 13 3/17/25, 5:06 PM  Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 craft needn't create a hierarchy or make them your ruler. A
                 roofer laying your roof or a chef cooking your meal or a
                 surgeon repairing your heart needn't be your superior on a
@@ -380,8 +380,7 @@ This document was converted from **01_Political_Theory/Articles/Anarchy Vs. Arch
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Anarchy_Vs._Archy__No_Justified_Authority___The_Anarchist_Library/01_Political_Theory_Articles_Anarchy_Vs._Archy__No_Justified_Authority___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Anarchy_Vs._Archy__No_Justified_Authority___The_Anarchist_Library/01_Political_Theory_Articles_Anarchy_Vs._Archy__No_Justified_Authority___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

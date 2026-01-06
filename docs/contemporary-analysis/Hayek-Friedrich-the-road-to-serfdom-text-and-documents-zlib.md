@@ -1137,8 +1137,7 @@ How even a formal recognition of individual rights, or of the equal rights of mi
 
 
 11 [Wells, "Ten Points for World Peace," op. cit., p. 18. —Ed.]
-## ```
-
+## 
 ## 13 [*Ibid.* —Ed.]
 
 ## <sup>12</sup> [*Ibid.* —Ed.]
@@ -1666,12 +1665,10 @@ Fight against liberalism in all its forms, liberalism that had defeated Germany,
 
 
 11 [ Johann Plenge, 1789 und 1914, op. cit., p. 20. —Ed.]
-## ```
-
+## 
 
 12 [Ibid., p. 82. —Ed.]
-## ```
-
+## 
 ## 13 [*Ibid.,* p. 120. —Ed.]
 
 ## 14 [*Ibid.,* p. 121. —Ed.]
@@ -1691,8 +1688,7 @@ Lensch's *Die deutsche Sozialdemokratie under der Weltkrieg: eine politische Stu
 
 
 23 [Ibid., pp. 67–68. —Ed.]
-## ```
-
+## 
 ## 24 [*Ibid.,* p. 204. —Ed.]
 
 ## 25 [*Ibid.,* p. 208. —Ed.]

@@ -78,8 +78,7 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 
 1 of 5                                                                                            8/7/25, 1:35 PM
-```
-
+
 ---
 
 ## Page 2
@@ -125,8 +124,7 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 
 2 of 5                                                                                            8/7/25, 1:35 PM
-```
-
+
 ---
 
 ## Page 3
@@ -206,8 +204,7 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 
 3 of 5                                                                                            8/7/25, 1:35 PM
-```
-
+
 ---
 
 ## Page 4
@@ -270,8 +267,7 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 
 4 of 5                                                                                            8/7/25, 1:35 PM
-```
-
+
 ---
 
 ## Page 5
@@ -305,7 +301,6 @@ Reno Sparks Tenants Oppose “Anti-Homeless” Ordinanc...   https://renosparkst
 
 
 5 of 5                                                                                            8/7/25, 1:35 PM
-```
-
+
 ---
 

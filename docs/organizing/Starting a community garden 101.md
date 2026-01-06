@@ -64,7 +64,6 @@ solidarity.
 
 A community garden is a tiny revolution in your own backyard. It’s a way to say: “We take care
 of each other here.” Ready to plant the first seed?
-```
-
+
 ---
 

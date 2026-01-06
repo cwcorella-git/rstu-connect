@@ -326,8 +326,7 @@ It was not like any human face. It was as long as his arm, and ghastly white. Br
 
 
 "What was that?"
-## ```
-
+## 
 "Yes, an animal. By God, that's right! You have no large animals on Anarres, have you?"
 
 "A donkey's a kind of horse," said another of the men, and another, in a firm, elderly voice, "That was a horse. Donkeys don't come that size." They wanted to talk with him, but Shevek was not listening again. He was thinking of Takver. He wondered what that deep, dry, dark gaze out of the darkness would have meant to Takver. She had always known that all lives are in common, rejoicing in her kinship to the fish in the tanks of her laboratories, seeking the experience of existences outside the human boundary. Takver would have known how to look back at that eye in the darkness under the trees.
@@ -352,8 +351,7 @@ Shevek stretched out his legs and leaned forward to catch the warmth of the fire
 
 
 "Heavy?"
-## ```
-
+## 
 ## "Perhaps the gravity. Or I am tired."
 
 He looked at the other man, but through the hearth glow the face was not clear, only the glint of a gold chain and the deep jewel red of the robe.
@@ -522,8 +520,7 @@ Tirin looked at them, derisive. "You're all crazy. Who wants to actually get loc
 "Five years!"
 "It's four hours till lights-out. That ought to do it."
 "But I want a turn!"
-## ```
-
+## 
 ## "All right, we'll leave you in all night."
 
 ## "Well, I meant tomorrow."
@@ -1544,8 +1541,7 @@ He had never been ill, and never known any physical discomfort worse than tiredn
 
 
 "Antipyretic."
-## ```
-
+## 
 The aide shrugged. "All right," she said, and went on.
 
 Most young Anarresti felt that it was shameful to be ill: a result of their society's very successful prophylaxy, and also perhaps a confusion arising from the analogic use of the words "healthy" and "sick." They felt illness to be a crime, if an involuntary one. To yield to the criminal impulse, to pander to it by taking pain relievers, was
@@ -2368,8 +2364,7 @@ They were face to face now, but they had not touched.
 
 
 "Is it what you need, then?"
-## ```
-
+## 
 Life, said the stream of quick water down on the rocks in the cold dark.
 
 When Shevek and Takver came down from the mountains, they moved into a double room. None was free in the blocks near the Institute, but Takver knew of one not far away in an old domicile in the north end of town. In order to get the room they went to the block housing manager —Abbenay was divided into about two hundred local administrative regions, called blocks—a lens grinder who worked at home and kept her three young children at home with her. She therefore kept the housing files in a shelf on top of a closet so the children wouldn't get at them. She checked that the room was registered as vacant; Shevek and Takver registered it as occupied by signing their names.
@@ -3370,8 +3365,7 @@ Sabul produced an unnatural chuckle.
 
 
 "Nothing of interest."
-## ```
-
+## 
 "What's odd about it? What did you expect, a lectureship at Ieu Eun University? The Seo Oen Prize?"
 
 "I expected reviews and replies. There's been time." He said this as Sabul said, "Hardly been time for reviews yet."
@@ -3622,8 +3616,7 @@ Coming in with the breakfast tray, Efor found him lying half-dressed on the bed,
 
 
 "No!"
-## ```
-
+## 
 ## <sup>&</sup>quot;Sure, sir?"
 
 <sup>&</sup>quot;No! Don't let anybody in here. Say I am ill, Efor."

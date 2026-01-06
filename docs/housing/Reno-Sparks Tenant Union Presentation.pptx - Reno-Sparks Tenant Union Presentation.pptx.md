@@ -35,8 +35,7 @@ title: "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Pr
 
 Reno-Sparks Tenants Union
        Town Hall
-```
-
+
 ---
 
 ## Page 2
@@ -55,8 +54,7 @@ About us
         Reno-Sparks area. We are an
       organization run by tenants, for
                  tenants.
-```
-
+
 ---
 
 ## Page 3
@@ -77,8 +75,7 @@ Housing is a human right
   people for harassment
 
                   We fight for tenants, not for housing.
-```
-
+
 ---
 
 ## Page 4
@@ -90,8 +87,7 @@ Housing is a human right
 
 
 Housing in Nevada
-```
-
+
 ---
 
 ## Page 5
@@ -110,8 +106,7 @@ Housing in Nevada
 
 
 Rent is Increasing
-```
-
+
 ---
 
 ## Page 6
@@ -128,8 +123,7 @@ Rent vs Wages
      half as slow as the increase in rent
       ○ Wages increased by 18%
       ○ Rent increased by 34%
-```
-
+
 ---
 
 ## Page 7
@@ -148,8 +142,7 @@ Rent vs Wages
 
 
 Not enough low-income housing
-```
-
+
 ---
 
 ## Page 8
@@ -173,8 +166,7 @@ Not a Development Problem
 
                             7,971 vacant housing units
                             1,231 unhoused individuals
-```
-
+
 ---
 
 ## Page 9
@@ -199,8 +191,7 @@ Governor Lombardo vetoed legislation
   amount that landlords can demand for the leasing of a home or renewing a lease
 • That would change Nevada’s summary eviction process, requiring the landlord to
   initiate the eviction process with the court
-```
-
+
 ---
 
 ## Page 10
@@ -231,8 +222,7 @@ Evictions In Nevada
 
  The eviction process in Nevada places extraordinary burdens on the tenant
                           and favors the landlords
-```
-
+
 ---
 
 ## Page 11
@@ -244,8 +234,7 @@ Evictions In Nevada
 
 
 What is a Tenant Union?
-```
-
+
 ---
 
 ## Page 12
@@ -273,8 +262,7 @@ What is Tenant Union?
  organize to fight for collective
  interests and rights related to
             housing
-```
-
+
 ---
 
 ## Page 13
@@ -298,8 +286,7 @@ Brief History of Tenant Unions
  2000’s 2008 recession saw a revival in tenant union activism
  2020 2020 pandemic was a solidification that tenant unions where here to stay
  s
-```
-
+
 ---
 
 ## Page 14
@@ -325,8 +312,7 @@ What Can Tenant Unions Do?
   KC Tenant Union helped organize the Quality Hill apartment building. After
    organizing they were able to make demands for pest management and
                               building repairs.
-```
-
+
 ---
 
 ## Page 15
@@ -351,8 +337,7 @@ What Can Tenant Unions Do?
 
  LA tenant union lobbied for minimum threshold for eviction for tenants who fall
                            behind on rent – and won.
-```
-
+
 ---
 
 ## Page 16
@@ -377,8 +362,7 @@ What Can Tenant Unions Do?
 
   Washington Tenant Union helped get a law passed that bans rent increases
                  for apartments in substandard conditions.
-```
-
+
 ---
 
 ## Page 17
@@ -395,8 +379,7 @@ Laws About Tenant Unions
      Landlords cannot retaliate against
      organizers or members of a tenant
                    union
-```
-
+
 ---
 
 ## Page 18
@@ -414,8 +397,7 @@ Tenant Unions
      community can utilize to increase
      tenant power and improve living
                conditions
-```
-
+
 ---
 
 ## Page 19
@@ -427,8 +409,7 @@ Tenant Unions
 
 
 Q&A
-```
-
+
 ---
 
 ## Page 20
@@ -440,8 +421,7 @@ Q&A
 
 
 Group Discussion
-```
-
+
 ---
 
 ## Page 21
@@ -474,7 +454,6 @@ What Can You Do?
 • Spread the word about the
   Reno-Sparks Tenant Union
 • Learn tenants’ rights! (linktr.ee/rrrights)
-```
-
+
 ---
 

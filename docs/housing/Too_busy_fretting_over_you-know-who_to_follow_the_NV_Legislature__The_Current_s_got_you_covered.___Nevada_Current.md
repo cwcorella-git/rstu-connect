@@ -35,7 +35,7 @@ tags:
 
                       * Notes: Bills exempt from
 
-1 of 9 8/7/25, 1:34 PM ``` Too busy fretting over you-know-who to follow the NV L... https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+1 of 9 8/7/25, 1:34 PM  Too busy fretting over you-know-who to follow the NV L... https://nevadacurrent.com/2025/04/16/too-busy-fretting...
                      legislative deadlines are
                      marked with an asterisk. Lead The next major legislative
                      sponsors are listed in deadline is Tuesday, April 22. By
@@ -319,8 +319,7 @@ This document was converted from **01_Political_Theory/Articles/Too busy frettin
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Too_busy_fretting_over_you-know-who_to_follow_the_NV_Legislature__The_Current_s_got_you_covered.___Nevada_Current/01_Political_Theory_Articles_Too_busy_fretting_over_you-know-who_to_follow_the_NV_Legislature__The_Current_s_got_you_covered.___Nevada_Current.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Too_busy_fretting_over_you-know-who_to_follow_the_NV_Legislature__The_Current_s_got_you_covered.___Nevada_Current/01_Political_Theory_Articles_Too_busy_fretting_over_you-know-who_to_follow_the_NV_Legislature__The_Current_s_got_you_covered.___Nevada_Current.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

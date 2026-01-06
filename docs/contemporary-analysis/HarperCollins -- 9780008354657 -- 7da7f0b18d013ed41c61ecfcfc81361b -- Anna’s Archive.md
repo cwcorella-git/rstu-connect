@@ -1980,8 +1980,7 @@ Easter Sunday 2018: https://www.youtube.com/watch?v=Y5zx1xzzi7k.
 
 
 'I cut o her head and I humiliated her corpse': Murder: No Apparent Motive, HBO documentary, 1984.
-## ```
-
+## 
 'seemed appropriate as much as she'd': Mindhunter, John Douglas (Random House, 2017), p. 108.
 
 'He was a man on a mission': Mindhunter, John Douglas (Random House, 2017), p. 391.
@@ -2630,8 +2629,7 @@ member of the Mbuti in the Congo was caught cheating: Moral Origins, Christopher
 
 when Germany fell behind on its reparations of gold and coal: The Coming of the Third Reich, Richard Evans (Penguin,
  2004). Kindle location 2211.
-## ```
-
+## 
 'The sense of outrage and disbelief that swept through': The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 1568.
 
 'secret, planned, demagogic campaign': The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 1491.
@@ -2758,8 +2756,7 @@ a butcher sculpted Hitler in lard: Marketing the Third Reich, Nicholas O'Shaughn
  (Routledge, 2017), p. 116.
 'perhaps even millions': The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 6604.
 'caught in a mob of ten thousand hysterics': Berlin Diary: The Journal of a Foreign Correspondent, 1934–1941, William L.
-## ```
-
+## 
 Shirer (Ishi Press, 2010), p. 17.
 
 - One study of ninety-four wars since 1648: Virtuous Violence, Alan Fiske and Tage Shakti Rai (Cambridge University Press, 2014), p. 94.
@@ -2803,8 +2800,7 @@ Shirer (Ishi Press, 2010), p. 17.
 
 Partly it has to do with lucky geography: This argument was made in Guns, Germs, and Steel, Jared Diamond (Vintage,
  1998).
-## ```
-
+## 
 the roots of Western individualism: This argument was made in The Geography of Thought, Richard E. Nisbett (Nicholas Brealey, 2003) and explored further in my 2017 book Sele.
 
 for the Catholic Church's weird preoccupation with incest: This argument was made in The Weirdest People in the World, Joseph Henrich (Penguin, 2020).
@@ -3083,8 +3079,7 @@ Molla has written for the Wall Street Journal: https://www.vox.com/authors/rani-
 
 
 When the New Right look upwards: National Populism, Roger Eatwell and Matthew Goodwin (Pelican Books, 2018), p. 106.
-## ```
-
+## 
 41 per cent of white millennials: National Populism, Roger Eatwell and Matthew Goodwin (Pelican Books, 2018), p. 10.
 
 white non-college voters comprised around three-fths: National Populism, Roger Eatwell and Matthew Goodwin (Pelican Books, 2018), p. 26.
@@ -3244,8 +3239,7 @@ One witness remembered a 'pretty girl': Cannibal Island, Nicolas Werth (Princeto
  2014). Kindle location 2449.
 Lev Kopelev scolded himself: Revolutionary Russia 1891–1991, Orlando Figes (Pelican, 2014). Kindle location 2487.
 'they are not human beings, they are kulaks': Harvest of Sorrow, Robert Conquest (Vintage, 2002). Kindle location 2807.
-## ```
-
+## 
 
 2504.
 At the start of the 1930s goods began disappearing from shops in the towns and cities; severe shortages of foods, clothes
@@ -3313,8 +3307,7 @@ in 1934 1,400 tonnes of cocoa beans: Caviar with Champagne, Jukka Gronow (Berg, 
 'New Year's trees': Caviar with Champagne, Jukka Gronow (Berg, 2003), p. 36.
 fty kinds of bread … 'including twenty new types': Everyday Stalinism, Sheila Fitzpatrick (Oxford University Press, 1999), p.
  90.
-## ```
-
+## 
 Americans made ve thousand hamburgers … 'in Germany ice cream is sold': Caviar with Champagne, Jukka Gronow (Berg,
 
 2003), pp. 74–75.
@@ -3409,8 +3402,7 @@ attractive people, 39
 Australia, 30, 34, 98, 106–7, 164
 Bacete, Francisco Juan García, 171
 Balch, Robert, 199
-## ```
-
+## 
 banking elites, 234
 
 Barbaro, Francesco, 238 Barkow, Jerome, 45–6, 103–5 Barlow, John Perry, 171–2 Bascom, William, 28–9 Beck, Glenn, 72

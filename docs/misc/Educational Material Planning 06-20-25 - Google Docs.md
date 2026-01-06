@@ -58,8 +58,7 @@ title: "Educational Material Planning 06-20-25 - Google Docs"
          - RSTU mutual aid info Stacey will reformat current flyer for
            easier printing/distribution — will have for tabling on
            Sunday!
-```
-
+
 ---
 
 ## Page 2
@@ -102,8 +101,7 @@ title: "Educational Material Planning 06-20-25 - Google Docs"
                    library; longer term research needed
 - Planning/priorities
      - List of who is working on what / what we want to finish first?
-```
-
+
 ---
 
 ## Page 3
@@ -132,7 +130,6 @@ title: "Educational Material Planning 06-20-25 - Google Docs"
           - Mutual aid with QR code; Nyx designed something in the
             past & will repost
                - RSTU bylaws
-```
-
+
 ---
 

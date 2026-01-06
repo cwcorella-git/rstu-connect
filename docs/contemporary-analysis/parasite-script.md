@@ -4553,8 +4553,7 @@ Ki-Woo hurriedly switches his phone to silence mode. Ki-Tek and Ki-Jung do the s
 / No
 / Why noooooooot
 / I'm with you right now
-## ```
-
+## 
 Da-Hae continues to exchange cringe-inducing love texts with Ki-Woo as she plops down on the sofa.
 
 Ki-Tek, Ki-Woo, and Ki-Jung nearly shriek when Da-Hae's wriggly feet come within inches of their faces.

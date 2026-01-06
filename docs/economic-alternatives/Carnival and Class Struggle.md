@@ -212,8 +212,7 @@ the Chief Justice, the Attorney General, well-known lawyers, and other higher up
 5:25
 Carnival was also quite raunchy. Pioneered by the so-called jamettes, the poui 
 sticks were phallic,
-## ```
-
+## 
 the street dancing was spicy, and crossdressing in transparent night gowns was particularly common.
 
 ## 5:36

@@ -3578,8 +3578,7 @@ of Emma Goldman's Mother Earth, ed. Peter Glassgold, (New York: Counterpoint, 20
  [885] Malatesta, Towards Anarchy, 49.
  [886] Malatesta, Patient Work, 320.
  [887] Malatesta, Towards Anarchy, 168. See also Malatesta, The Anarchist Revolution: Polemical
-## ```
-
+## 
 Articles, 1924–1931, ed. Vernon Richards (London: Freedom Press, 1995), 80; Kropotkin, Direct Struggle, 293–94.
 
 [\[888\]](#page-139-6) Michael Bakunin, Statism and Anarchy (Cambridge: Cambridge University Press, 1990), ed. Marshall Shatz, 114, 25. For another example, see Malatesta, Towards Anarchy, 98–103.

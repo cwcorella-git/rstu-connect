@@ -32,8 +32,7 @@ This document was converted from **05_Architecture_Urban_Planning/Articles/Commo
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/05_Architecture_Urban_Planning_Articles_Common_Tactics_Of_Landlords_-_Google_Docs/05_Architecture_Urban_Planning_Articles_Common_Tactics_Of_Landlords_-_Google_Docs.md" ```
-
+bash claude code "Collections/05_Architecture_Urban_Planning_Articles_Common_Tactics_Of_Landlords_-_Google_Docs/05_Architecture_Urban_Planning_Articles_Common_Tactics_Of_Landlords_-_Google_Docs.md" 
 **Library Location:** 05_Architecture_Urban_Planning is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

@@ -63,8 +63,7 @@ DOOM /diagnostic Upper two windows show diagnostic info
 DOOM /bubbies Replace all actors with naked women
 DOOM /prude Cancels effects of bubbies parameters
 DOOM /drunk Occasionally invokes the bubbies mode
-## ```
-
+## 
 ## ![](_page_2_Picture_4.jpeg)
 
 ## "I wonder where Buddy is?"
@@ -1378,8 +1377,7 @@ This allows you to grab one lump off of a screen without a script file.
 ; Comments can be uses at the beginning of a line,
 ; or after a command's parms. Whitespace can be introduced
 ; anywhere, but a command cannot cross lines.
-## ```
-
+## 
 ### [\$SEPARATE]
 
 Force lumps to be saved in separate files, rather than a WAD. If present, this must be the first command in the script.
@@ -1438,8 +1436,7 @@ WadLINK alone will load WADFILE. WLN as the script file, get files from the curr
 
 
 ; Comments can be used at the beginning of a line, or after
-## ```
-
+## 
 ; a command's parameters. Whitespace can be introduced
 
 ; anywhere, but a command cannot cross lines.

@@ -2538,8 +2538,7 @@ African military development, 113–135
 African nationalism, 56, 113, 222
 African palm cloth, 42, 111
 African peasants, 8, 10, 154–161
-## ```
-
+## 
 
 African political development, 47, 113–135
 African potential, 20, 52
@@ -2589,8 +2588,7 @@ Akan (state), 37, 58, 109, 112, 119
 Akhamme class, 55
 Akinjogbin, I. A., 146
 Akron, Ohio, 193
-## ```
-
+## 
 
 Alafin of Oyo, 115, 120
 Al-Azhar University, 240
@@ -2640,8 +2638,7 @@ Antimony mining, 55
 Anti-Semitism, 88–89, 196, 200, 249
 Antonio, José, 249
 Apartheid, 20, 26
-## ```
-
+## 
 
 Aqueducts, 49, 66
 Arabia, 48, 139, 143
@@ -2691,8 +2688,7 @@ Awdaghast, 57
 Axim, 111
 Axum, Kingdom of, 50
 Ayandele, E. A., 146
-## ```
-
+## 
 
 Ayyubid dynasty, 49
 Azhar University, 49
@@ -2739,8 +2735,7 @@ Basuto people, 238
 Bathurst town, Gambia, 243
 Batutsi pastoralists, 125–128, 238
 Batwa people, 125–126, 128
-## ```
-
+## 
 
 BCA, see Banque Commerciale de l'Afrique
 Bechuanaland, 163
@@ -2790,8 +2785,7 @@ Bourgois scholars, 83, 90, 103
 Bourgois scholarship, 227
 Bovill, E. W., 58
 Bozo fishermen, 33
-## ```
-
+## 
 
 Brain drain, 18
 Brass industry, 43, 47, 52, 55
@@ -2838,8 +2832,7 @@ Bushmen, 67
 Busia, Kofi, 246
 Busoga, 123
 Byzantine empire, 53
-## ```
-
+## 
 
 Cabral, Amilcar, 230, 273
 Cadbury, John, 170
@@ -2889,8 +2882,7 @@ Catholic church, 50, 196, 244, 249 256
 Cattle, 45, 56–57, 62–66
 Cattleherding, 46, 132
 Cattlemen, 45, 55
-## ```
-
+## 
 
 CD & W, see Colonial Development and Welfare
 Centra, 181, 185
@@ -2940,8 +2932,7 @@ Cincinnati, Ohio, 183
 Circassian invaders of Egypt, 48
 Circumcision, 37, 239
 Civilisados, 247
-## ```
-
+## 
 
 Clairemonte, F., 91
 Clans, 36–37, 45–46, 54, 62
@@ -2991,8 +2982,7 @@ Colonial period, 26, 79, 89, 101, 103, 113, 149–173
 Colonial taxation, 164–165, 169, 241–242
 Colonies
  British, 151, 155
-## ```
-
+## 
 
 subjugation of the, 26
 Colonists, European, 40
@@ -3042,8 +3032,7 @@ Cotton cloth
  African, see African cloth
  Egyptian, 139
 Cotton cultivation, 56–57, 159–160, 166
-## ```
-
+## 
 
 Cotton mills, 155
 Cotton Price Stabilization Fund, 264
@@ -3090,8 +3079,7 @@ Delamere (Lord), 151, 154
 Delmas & Clastre, 155–156
 Democracy, Western, 10, 12, 89, 196
 Dengel, Legna (Emperor of Ethiopia), 107
-## ```
-
+## 
 
 Detroit, Michigan, 193
 Developed nations, 15–18, 23, 285
@@ -3138,8 +3126,7 @@ East Africa, 17, 61–63, 229
  slave trade from, 97
  see also Interlacustrine Zone
 East African Currency Board, 171, 174, 210
-## ```
-
+## 
 
 East African Estates Ltd., 154
 East African lake kingdoms, 225
@@ -3189,8 +3176,7 @@ Egalitarian distribution, 12
 Egalitarianism, 124
 Egharevba, Jacob U., 146
 Egypt, 8, 64, 68, 139, 143, 172, 225, 237
-## ```
-
+## 
 
 Circassian invaders of, 48
  development of, 48–49
@@ -3240,8 +3226,7 @@ European economists, 82
 European education, 241, 246–247
 European capitalism, 10–12, 78, 82–90, 95, 97, 106, 173–175, 193, 197, 217, see also Capitalism
 European capitalist economy, 82–90
-## ```
-
+## 
 
 European colonial rule, see Colonialism
 European communalism, 6, 37
@@ -3288,8 +3273,7 @@ Factory system, 41–42
 Fagan, B. M., 71
 Faleme River, 57
 Family 36, 44
-## ```
-
+## 
 
 Family communities, 37–38
 Family labor, 55, 62
@@ -3339,8 +3323,7 @@ Flag independence, 279
 Fodio, Uthman dan, 133
 Folk music, 26
 Foncin, Pierre, 259
-## ```
-
+## 
 
 Forced Labor Convention, 166
 Ford, Henry, 193
@@ -3387,8 +3370,7 @@ Gambia, 58, 82, 155, 234, 237, 243
 Gambia River, 58, 110, 235
 Gann, L. H., 281
 Gao, 59
-## ```
-
+## 
 
 Garvey, Marcus, 277
 Gasoline, 49
@@ -3438,8 +3420,7 @@ Great Britain, 11, 13, 136, 139, 168–169, 186, 189, 193, 196, 235
  military of, 175, 186–187
  see also British Isles; England; United Kingdom
 Greater Antilles Islands, 82
-## ```
-
+## 
 
 Great Zimbabwe, 65, 67
 Greek scripts, 58
@@ -3486,8 +3467,7 @@ Hindus, 50
 Hispaniola, 78
 Historians
  art, 7
-## ```
-
+## 
 
 Soviet, 261
 History
@@ -3534,8 +3514,7 @@ Ife (state), 115
 Ijebu (state), 116
 Imperialism, 12–14, 24, 25–28, 190, 201
  development of, 135–145
-## ```
-
+## 
 
 military aspects of, 175
 Income, 15, 19–20
@@ -3580,8 +3559,7 @@ Ingombe, Ilede, 66
 Initiation, 34, 239
 Initiation schools, 239, 270
 Interlacustrine States, Eastern, 122–125
-## ```
-
+## 
 
 Interlacustrine Zone, 48, 61–64, 123
 International Bank for Reconstruction, 193
@@ -3628,8 +3606,7 @@ Jews, 89, 196, 200, 244, 249
 John Holt (company), 156
 John III, King of Portugal, 107
 John Walken & Co. Ltd., 156
-## ```
-
+## 
 
 Johnston, Henry, 140, 252
 Jones, Alfred, 170
@@ -3676,8 +3653,7 @@ Kinshasa, 27
 Kinship, 36–37, 45, 228–229
 Kipande pass, 151
 Kitchen (author), 281
-## ```
-
+## 
 
 Knights, European, 6
 Komsomol, 258
@@ -3724,8 +3700,7 @@ Land tenure, 41, 46, 48, 118
 Latin America, 16, 83, 160, 176, 180, 194, 201
 Latin American history, 27
 Latin American wealth, 14
-## ```
-
+## 
 
 Lead mining, 55
 League of Nations, 188
@@ -3775,8 +3750,7 @@ Lycée Gallieni (Madagascar), 260
 Lycee Louis le Grand, 259
 Lyons, France, 231
 Lyttleton, Oliver, 172
-## ```
-
+## 
 
 Mac Fisheries, 185
 Machinery, 41–42, 104, 106, 135–136, 231, 234
@@ -3826,8 +3800,7 @@ Marseilles, France, 156, 159
 Marshall Plan, 194–195
 Martinique, West Indies, 186
 Marx, Karl, 6, 28, 38, 83, 90, 199, 220
-## ```
-
+## 
 
 Marxism, 28–29, 261
 Marxists, 28, 38, 89–90, 201
@@ -3877,8 +3850,7 @@ Mine labor
  European, 150
 Mineral resources, 20, 178–179, see also Raw materials
 Mines de Zellidja, 195
-## ```
-
+## 
 
 Ming dynasty, 46
 Mining, 45, 57, 66–67, 152–153, 167, 178, 180, 191, 207, 210
@@ -3928,8 +3900,7 @@ Mount Kenya, 247
 Mozambique, 65–66, 77, 100, 105, 134, 139
  Beira (fort) in, 144
  during colonialism, 163, 186, 191, 206, 226
-## ```
-
+## 
 
 Lourenço Marques (fort) in, 144
 Mozambique Liberation Front (Frelimo), 205
@@ -3976,8 +3947,7 @@ New Zealand, 190, 251
 Ngoni languages, 131
 Ngoni people, 221
 Nguni people, 134
-## ```
-
+## 
 
 Niger, 18, 56
 Niger Company, 181–182, 184, 211
@@ -4024,8 +3994,7 @@ Omar, Al Haj, 133
 Oni of Ife, 121
 Opium Wai 81
 Oppenheimer, Harry F., 171, 176
-## ```
-
+## 
 
 Oral histories, 62
 Oran, 232
@@ -4072,8 +4041,7 @@ Pernambuco, Brazil, 82
 Persia, 49
 Peters, Carl, 124, 140
 Pharaohs, 48
-## ```
-
+## 
 
 Philips Exeter, 259
 Philippines, 169
@@ -4123,8 +4091,7 @@ Prussia, 50, 116
 Public health services, 17, 206–207
 Puerto Rico, 193
 Punjabis in British military, 187
-## ```
-
+## 
 
 Pygmies, 33
 Pyramids, 52, 65
@@ -4169,8 +4136,7 @@ Revolutionary principles, 13
 Rhine River, 247
 Rhodes, Cecil, 65, 152, 163, 246
 Rhodesia, 65, 163, 165, 233, see also Northern Rhodesia; Southern Rhodesia
-## ```
-
+## 
 
 Rhodesian Copper Belt Companies, 153
 Rickets, 237
@@ -4217,8 +4183,7 @@ Sandhurst Military Academy, 260
 Sandringham, 247
 Säo Tomé, 82
 Sarraut, Albert, 257
-## ```
-
+## 
 
 Satellites, economic, 25, 76, 114
 Savannah country, 56
@@ -4268,8 +4233,7 @@ Shaka, 128–133
 Shambala people, 98
 Shambas, 149, 157, 254
 Shango (religious cult), 117
-## ```
-
+## 
 
 Shell Oil, 229
 Shepherds, 55, see also Pastoralists
@@ -4319,8 +4283,7 @@ Slaves in the Maghreb, 55
 Slave trade, 97, 113–114
  within Africa, 59–60, 105–106, 116–119
  Arab, 95, 97, 143
-## ```
-
+## 
 
 cessation of, 137, 141
  East African, 97
@@ -4370,8 +4333,7 @@ South Africa, 16, 20, 26, 88, 152, 200, 246, 276
 South American silver, 83
 Southern Rhodesia, 134, 277
  during colonialism, 151–153, 245
-## ```
-
+## 
 
 South Vietnam, 27
 Soviet historians, 261
@@ -4418,8 +4380,7 @@ Swiss Trading Company, 182
 Switzerland, 84, 181, 190
 Syrians in West Africa, 154–155
 Szentes, Tamas, 29
-## ```
-
+## 
 
 Tabora Secondary School (Tanzania), 260
 Taghaza (region), 57
@@ -4469,8 +4430,7 @@ Trade, 22–25, 43–44, 67, 70
  Egyptian, 49
  European, see European trade
  Indian, 104
-## ```
-
+## 
 
 international, 15, 75–82, 111, 114, 164–173
  long-distance, 45, 57, 59
@@ -4517,8 +4477,7 @@ UAC, see United Africa Company
 Ubuhake, 127
 Uganda, 62, 123, 229
  colonial education in, 242–243, 273
-## ```
-
+## 
 
 during colonialism, 153, 157, 159–160, 234
  Mailo land settlement of, 229
@@ -4565,8 +4524,7 @@ Vicious circle of poverty theory, 28
 Viet people, 37
 Vietnam, 50, 186, 228
 Vietnam campaign, 188, 276
-## ```
-
+## 
 
 Vietnamese dynasties, 69
 Vietnamese people, 172
@@ -4613,8 +4571,7 @@ West Indian Regiment, 186
 West Indian slave colonies, 87
 West Indian slavery, 89, 253, 255
 West Indies, 82–83, 177
-## ```
-
+## 
 
 African return from, 143
  role in European military of, 187
@@ -4656,6 +4613,5 @@ Zambian copper, 20, 42
 Zanzibar, 97, 143, 155
  Arabs in, 143, 155
 Zimbabwe, 48, 64–68, 134
-## ```
-
+## 
 Zulu army, 130–131 Zululand, 130–133, 240 Zulu people, 228, 250 Zwide, 132–133

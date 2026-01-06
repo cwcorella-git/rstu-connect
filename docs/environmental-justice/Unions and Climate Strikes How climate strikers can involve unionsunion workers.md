@@ -88,8 +88,7 @@ CGT Anarchist Union (Spain) - July 24, 2019 (
 link
 )
 IWW GLAMROC (Germany) -
-## ```
-
+## 
 Die IWW Leipzig unterstützt den weltweiten Klimastreik 2019
 
 
@@ -108,8 +107,7 @@ UAW 2865 Endorses the Green New Deal to Protect Workers and Strengthen Labor (as
 as the Climate Strike) (US: California) - (
 link
 )
-## ```
-
+## 
 
 U. S. I. Unione Sindacale Italiana (Italy) - September 1, 2019 (
 Press Release
@@ -123,8 +121,7 @@ link2
 )
 Verdi (Germany) - (
 link
-## ```
-
+## 
 ## )
 
 | See Also: |

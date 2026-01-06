@@ -3366,8 +3366,7 @@ My phone rings. I pick it up to see who it is and I'm a little taken aback. It's
 
 
 "Hello?"
-## ```
-
+## 
 "Hey, girlfriend," he says.
 
 I smile cheesily at the sound of his voice. "Hey, boyfriend."
@@ -4724,8 +4723,7 @@ When I step off the elevator, there's a note taped to her apartment door. I see 
 Lily,
  On the seventh floor. Apartment 749.
  —A
-## ```
-
+## 
 She has an apartment here just for extra furniture? I know they're rich, but even that seems a little excessive for them. I get on the elevator and press the button for the seventh floor. When the doors open, I head down the hall toward apartment 749. When I reach it, I have no idea if I should knock or just go inside. For all I know, someone could live here. Probably one of her people.
 
 I knock on the door and hear footsteps from the other side.
@@ -5408,8 +5406,7 @@ Fuck.
 That.
 Shit.
 —Lily
-## ```
-
+## 
 # Chapter Twenty-Six
 
 I'm lying on Atlas's guest bed, staring up at the ceiling. It's a normal bed. Really comfortable, actually. But it feels like I'm on a water bed. Or maybe a raft, adrift at sea. And I scale over these huge waves, each of them carrying something different. Some are waves of sadness. Some are waves of anger. Some are waves of tears. Some are waves of sleep.

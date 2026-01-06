@@ -1010,14 +1010,12 @@ public class Coin : Mono Behaviour
 // Use this for initialization
 void Start () {}
 // Update is called once per frame
-## ```
-
+## 
 
 void Update () {}
 }
 [ 67 ]
-## ```
-
+## 
 ## ![](_page_104_Picture_1.jpeg)
 
 ## Project A: The Collection Game Continued
@@ -1050,8 +1048,7 @@ Debug. Log ("Object Created");
 void Update () {
 }
 }
-## ```
-
+## 
 I you press Play (Ctrl+P) on the toolbar to run your game with the above script attached to an object, you will see the message "Object Created" printed to the Console Window, once or each instantiation o the class. See Figure 2.14.
 
 ## Printing messages to the Console Window
@@ -1095,8 +1092,7 @@ if(Coin. Coin Count <= 0)
 }
 }
 //-------------------------
-## ```
-
+## 
 ## } //------------------------- [ 70 ]
 
 ## Chapter 2
@@ -1197,8 +1193,7 @@ Debug. Log ("Entered Collider");
 }
 //-------------------------
 //Called when object is destroyed
-## ```
-
+## 
 
 void On Destroy()
 {
@@ -1214,8 +1209,7 @@ if(Coin. Coin Count <= 0)
 }
 //-------------------------
 [ 76 ]
-## ```
-
+## 
 ## ![](_page_119_Figure_0.jpeg)
 
 More inormation on the On Trigger Enter unction can be ound at the online Unity documentation here: http://docs.unity3d.com/
@@ -1251,8 +1245,7 @@ void Start () {
 void On Trigger Enter(Collider Col)
 {
 //If player collected coin, then destroy object if(Col. Compare Tag("Player"))
-## ```
-
+## 
 
 Destroy(game Object);
 }
@@ -1272,8 +1265,7 @@ if(Coin. Coin Count <= 0)
 }
 //-------------------------
 [ 78 ]
-## ```
-
+## 
 ## Comments on Code Sample 2-5
 
 - 
@@ -1407,8 +1399,7 @@ Count Down = Max Time;
 // Update is called once per frame
 void Update ()
 {
-## ```
-
+## 
 
 //Reduce time
 Count Down -= Time.delta Time;
@@ -1427,8 +1418,7 @@ Comments on Code Sample 2-6
 - 
 On Trigger Enter is called once automatically by Unity each time the
 FPSController intersects the Coin collider
-## ```
-
+## 
 - 
 
 In Unity, class variables declared as public (such as public float Max Time) are displayed as editable elds inside the Object Inspector o the editor. This applies only to a range o supported data types, however, but it's a highly useul eature. It means developers can monitor and set public variables or classes directly rom the inspector, as opposed to changing and recompiling code every time a change is needed. Private variables, in contrast, are hidden rom the Inspector by deault. However, you can orce them to be visible, i needed, by using the Serialize Field attribute. Private variables prexed with this attribute, such as variable Count Down, will display in the Object Inspector just like a public variable, even though the variable's scope still remains private.
@@ -1525,8 +1515,7 @@ public static int Coin Count = 0;
 void Awake ()
 {
 //Object created, increment coin count
-## ```
-
+## 
 
 ++Coin. Coin Count;
 }
@@ -1546,8 +1535,7 @@ void On Destroy()
 if(Coin. Coin Count <= 0)
 {
 //Game is won. Collected all coins
-## ```
-
+## 
 
 //Destroy Timer and launch fireworks
 Game Object Timer = Game Object. Find("Level Timer"); Destroy(Timer);
@@ -1561,8 +1549,7 @@ GO. Get Component<Particle System>(). Play();
 }
 //-------------------------
 Comments on Code Sample 2-7
-## ```
-
+## 
 The On Destroy unction is critical. It occurs when a coin is collected, and it eatures an if statement to determine when all coins are collected (the win scenario).
 
 - 
@@ -1975,8 +1962,7 @@ Get Component<Transform>();
 }
 //------------------------------
 // Update is called once per frame
-## ```
-
+## 
 ## void Fixed Update ()
 
 ## {
@@ -2001,8 +1987,7 @@ if(Mouse Look)
 Camera.main.
 Screen ToWorld Point(new Vector3(Input.mouse Position.x, Input.
 mouse Position.y, 0.0f));
-## ```
-
+## 
 
 Mouse Pos World = new Vector3(Mouse Pos World.x, 0.0f,
 Mouse Pos World.z);
@@ -2021,8 +2006,7 @@ Look Rotation(Look Direction.normalized,Vector3.up);
 Comments on Code Sample 3-1
 - 
 The Player Controller class should be attached to the Player object in the
-## ```
-
+## 
 scene. Overall it accepts input rom the player, and will control movement o the space ship
 
 - 
@@ -2172,8 +2156,7 @@ position.y,
 Mathf.
 Clamp(This Transform.position.z, Vert Range.x, Vert Range.y));
 }
-## ```
-
+## 
 | // |
 |----|
 | } |
@@ -2233,8 +2216,7 @@ get
 return _Health Points;
 }
 set
-## ```
-
+## 
 
 {
 _Health Points = value;
@@ -2255,8 +2237,7 @@ if(Should Destroy OnDeath)Destroy(game Object);
 private float _Health Points = 100f;
 }
 //------------------------------
-## ```
-
+## 
 ### Comments on Code Sample 3-3
 
 - 
@@ -2356,14 +2337,12 @@ void Die ()
 {
 Destroy(game Object);
 }
-## ```
-
+## 
 
 //------------------------------
 }
 //------------------------------
-## ```
-
+## 
 ## Comments on Code Sample 3-4
 
 - 
@@ -2427,8 +2406,7 @@ public bool Should Destroy OnDeath = true;
 //------------------------------
 void Start()
 {
-## ```
-
+## 
 
 [ 146 ]
 Chapter 3
@@ -2448,8 +2426,7 @@ if(_Health Points <= 0)
 {
 Send Message("Die", Send Message Options.
 Dont Require Receiver);
-## ```
-
+## 
 
 if(Death Particles Prefab != null)
 Instantiate(Death Particles Prefab,
@@ -2470,8 +2447,7 @@ private float _Health Points = 100f;
 }
 //------------------------------
 [ 147 ]
-## ```
-
+## 
 ## ![](_page_222_Picture_0.jpeg)
 
 ## Project B: The Space Shooter
@@ -2591,8 +2567,7 @@ void Update ()
 This Transform.position += This Transform.forward * Max Speed *
 Time.delta Time;
 }
-## ```
-
+## 
 | // | |
 |----|--|
 | } | |
@@ -2648,8 +2623,7 @@ if(!Follow Player)return;
 Game Object Player Obj = Game Object. Find Game Object With Tag("Pla yer");
 if(Player Obj != null) Obj ToFollow = Player Obj.
 Get Component<Transform>();
-## ```
-
+## 
 
 }
 //------------------------------
@@ -2669,8 +2643,7 @@ Look Rotation(Dir ToObject.normalized,Vector3.up);
 }
 //------------------------------
 Comments on Code Sample 3-7
-## ```
-
+## 
 - 
 
 The Obj Face Script will always rotate an object so that its orward vector points towards a destination point in the scene.
@@ -2736,8 +2709,7 @@ H. Health Points -= Damage Rate * Time.delta Time;
 //------------------------------
 }
 //------------------------------
-## ```
-
+## 
 ## Comments on Code Sample 3-8
 
 - 
@@ -2804,8 +2776,7 @@ void Start ()
 Invoke Repeating("Spawn", 0f, Interval);
 }
 //------------------------------
-## ```
-
+## 
 
 void Spawn ()
 {
@@ -2819,8 +2790,7 @@ Instantiate(Obj ToSpawn, Spawn Pos, Quaternion.identity);
 }
 //------------------------------
 Comments on Code Sample 3-9
-## ```
-
+## 
 The Spawner class will spawn instances o Obj ToSpawn on each interval o
 
 Interval. The interval is measured in seconds. The spawned objects will be created within a random radius rom a center point Origin.
@@ -3019,8 +2989,7 @@ void On Trigger Enter(Collider Col)
 //Get health component
 Health H = Col.game Object. Get Component<Health>(); if(H == null)return;
 H. Health Points -= Damage;
-## ```
-
+## 
 
 //----
 void Die()
@@ -3030,8 +2999,7 @@ void Die()
 //------
 }
 //-----------------------
-## ```
-
+## 
 ## [ 172 ]
 
 ## ![](_page_262_Figure_2.jpeg)
@@ -3103,8 +3071,7 @@ public static Ammo Manager Ammo Manager Singleton = null;
 // Use this for initialization
 void Awake ()
 {
-## ```
-
+## 
 
 if(Ammo Manager Singleton != null)
 {
@@ -3126,8 +3093,7 @@ Ammo Array[i]. Set Active(false);
 //------------------------------
 public static Transform Spawn Ammo(Vector3 Position, Quaternion
 Rotation)
-## ```
-
+## 
 
 {
 //Get ammo
@@ -3147,8 +3113,7 @@ return Spawned Ammo;
 }
 //------------------------------
 Comments on Code Sample 4-2
-## ```
-
+## 
 - 
 
 The Ammo Manager eatures an Ammo Array member variable, which holds a complete list o all ammo objects generated at start-up (during the Awake event).
@@ -3221,8 +3186,7 @@ void Awake ()
 {
 This Body = Get Component<Rigidbody>(); This Transform =
 Get Component<Transform>();
-## ```
-
+## 
 
 }
 //------------------------------
@@ -3243,8 +3207,7 @@ Mathf. Clamp(This Body.
 velocity.z, -Max Speed, Max Speed));
 //Should look with mouse?
 if(Mouse Look)
-## ```
-
+## 
 
 {
 //Update rotation - turn to face mouse pointer Vector3 Mouse Pos World =
@@ -3265,8 +3228,7 @@ Look Rotation(Look Direction.normalized,Vector3.up);
 //Check fire control
 if(Input. Get Button Down(Fire Axis) && Can Fire)
 {
-## ```
-
+## 
 
 foreach(Transform T in Turret Transforms)
 Ammo Manager. Spawn Ammo(T.position, T.rotation); Can Fire = false;
@@ -3285,8 +3247,7 @@ Destroy(game Object);
 }
 }
 //------------------------------
-## ```
-
+## 
 ## Comments on Code Sample 4-3
 
 - 
@@ -3549,8 +3510,7 @@ using Unity Engine. UI;
 public class Game Controller : Mono Behaviour
 {
 //Game score
-## ```
-
+## 
 
 public static int Score;
 [ 199 ]
@@ -3570,8 +3530,7 @@ This Instance = this;
 //------------------------------
 void Update()
 {
-## ```
-
+## 
 
 //Update score text
 if(Score Text!=null)
@@ -3586,8 +3545,7 @@ This Instance. Game Over Text.game Object. Set Active(true);
 //------------------------------
 }
 Comments on Code Sample 4-4
-## ```
-
+## 
 The Game Controller class uses the namespace Unity Engine.ui. This is important because it includes access to all the UI classes and objects within Unity. I you don't include this namespace inside your source les, then you cannot use UI objects rom that script.
 
 - 
@@ -3629,8 +3587,7 @@ Game Controller. Score += Score Value;
 }
 //------------------------------
 [ 201 ]
-## ```
-
+## 
 ## ![](_page_312_Picture_0.jpeg)
 
 ### Continuing the Space Shooter

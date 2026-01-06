@@ -2278,8 +2278,7 @@ Peace and War (New York: Penguin Books, 1947)
  [111] Ibid., pp. 281–2.
  [112] Ibid., p. 48.
  [113] Ibid., p. 211.
-## ```
-
+## 
 [\[114\]](#page-62-1) Garrett Hardin, Biology: Its Human Implications (1949), as cited in Allan Chase, The Legacy of Malthus: The Social Costs of the New Scientific Racism (1975; Urbana, Chicago, and London: University of Illinois Press, 1980).
 
 [\[115\]](#page-62-2) Ibid., p. 372.
@@ -2598,8 +2597,7 @@ Columbia University Press, 1990), p. 46.
 
 
 University Press, 1989), pp. 118, 119.
-## ```
-
+## 
 [\[287\]](#page-160-0) Hence I do not use the words sociology or psychology as more than theoretical speculations. Like philosophy, they clearly have a place in the development of knowledge, but sciences they definitely are not. My respect for theoretical speculation, which also occurs in the 'hard sciences', is immense and I would not want to deflate its importance. What is disquieting, however, is the pretension that social theorizing can produce the kind of compelling laws that physicists and chemists formulate. Doubtless sociometrics, like Emile Durkheim's study of suicide, closely resembles a scientific endeavor and occupies a gray zone between the natural sciences and social theories. But the more sweeping claims to certainty made by so-called 'social scientists', such as Karl Mannheim or Talcott Parsons, are actually a form of speculative theoretics that cannot claim to have the kind of rigor demanded of a physicist.
 
 [\[288\]](#page-161-0) Thomas S. Kuhn, The Structure of Scientific Revolutions (Chicago: University of Chicago

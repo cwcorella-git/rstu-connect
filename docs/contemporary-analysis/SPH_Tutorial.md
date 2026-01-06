@@ -530,8 +530,7 @@ $$-\Delta t^2 \sum_{j} m_j \left( \frac{m_i}{\rho_i^2} \nabla W_{ij} \right) \cd
 
 
 for all particle i do compute diagonal element a_{ii} with Eq. (49) compute source term s_i with Eq. (39) initialize pressure p_i^{(0)} = 0 l = 0 repeat for all particle i do compute pressure acceleration (\mathbf{a}_i^{\mathrm{p}})^{(l)} with Eq. (41) for all particle i do compute Laplacian (\mathbf{A}\mathbf{p}^{(l)})_i with Eq. (40) update pressure p_i^{(l+1)} with Eq. (48) l = l+1 until \rho_i^{\mathrm{avg\_err},*} < 0.1\%
-## ```
-
+## 
 Algorithm 2: Pressure computation with the IISPH PPE solver.
 
 # 4.7. Predictive–Corrective Incompressible SPH (PCISPH)
@@ -642,8 +641,7 @@ for all particle\ i\ \mathbf{do}
 l=l+1
 
 until \rho_i^{\text{avg\_err},*} < 0.1\%
-## ```
-
+## 
 Algorithm 3: Pressure computation with the PCISPH solver.
 
 which simplifies to the state equation
@@ -779,8 +777,7 @@ Note that the factor $k_i^{\rm DFSPH}$ is used for both, the divergence-free and
 5: p_i = \frac{\rho_i^* - \rho_0}{\Delta t^2} k_i^{\text{DFSPH}}, \quad p_j = \frac{\rho_j^* - \rho_0}{\Delta t^2} k_j^{\text{DFSPH}}
 
 6: \mathbf{v}_i^* := \mathbf{v}_i^* - \Delta t \sum_j m_j \left(\frac{p_i}{\rho_i^2} + \frac{p_j}{\rho_j^2}\right) \nabla W_{ij}
-## ```
-
+## 
 ## Algorithm 5: Constant density solver
 
 **DFSPH Simulation Step** Algorithm 6 shows a simulation step with DFSPH and how both solvers are integrated in the time step. Note that the neighborhoods, the particle densities and the factor $k_i^{\text{DFSPH}}$ are computed once at the beginning of the simulation for the initial state and then updated once per time step. The algorithm first computes predicted velocities by integrating all non-pressure accelerations. Then the density deviation is corrected using the constant density solver which yields new particle positions. Hence, the neighborhoods, the density values and the factors must be updated. After correcting the density deviation the velocity field is typically not divergence-free. This is corrected in the last step by the divergence-free solver which gives us the final velocities. Note that the order of the steps is a bit different than the order of other solvers but in this way it is guaranteed that the density deviations and the divergence error are both corrected at the end of a time step. Moreover, in this way we have to update the factor $k_i^{\text{DFSPH}}$ only once per time step but are able to use it twice: for the constant density solver and for the divergence-free solver.
@@ -807,8 +804,7 @@ update factor k_i^{\text{DFSPH}} using Eq. (79)
 14: for all particles i do
            update velocity \mathbf{v}_i^{t+\Delta t} = \mathbf{v}_i^*
 15:
-## ```
-
+## 
 ## Algorithm 6: Simulation step with DFSPH
 
 just one like PCISPH or IISPH. However, the second solve is not that expensive since the costly computation of the factor $k_i^{\text{DFSPH}}$ has to be performed only once per step. Experiments have shown that solving both PPEs leads to a better stability which enables larger time steps and therefore a faster simulation [BK17]. The performance can be further improved by using a warm start. More details about this can be found in [BK17].

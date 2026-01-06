@@ -2717,8 +2717,7 @@ accompaniment
     honoring another's ability to make choices and, 51–52
     other-centeredness and, 50–52
     patience and, 46–47
-## ```
-
+## 
 
 playfulness and, 47–50
     surrender of power and, 52
@@ -2740,8 +2739,7 @@ ancestors. See culture(s)
 Angelou, Maya, 167
 anger, 141
 anxiety, 20
-## ```
-
+## 
 
 artificial intelligence (AI), 11
 The Art of Empathy (Mc Laren), 151
@@ -2761,8 +2759,7 @@ behavior
 Bell Labs patent producers, 13–14
 Bernstein, Leonard, 224
 Big Five personality traits
-## ```
-
+## 
 
 agreeableness, 183–85
     conscientiousness, 181–82
@@ -2784,8 +2781,7 @@ Bowler, Kate, 149, 220–21
 Boyd, Valerie, 229, 230
 Brackett, Marc, 61, 155–57
 Bradley, David, 82–84
-## ```
-
+## 
 
 brain, human
     as body monitor, 144–45
@@ -2807,8 +2803,7 @@ Brooks, David
     family life of, 3
     life goals of, 7
     panel discussion as life changing, 6–7
-## ```
-
+## 
 
 works of, 19
 Bruner, Jerome, 215
@@ -2828,8 +2823,7 @@ career consolidation, 197–202
 caring, 148–49
 Caro, Robert, 198–99
 Carrère, Emmanuel, 55–56, 57, 58–60, 61, 69–70
-## ```
-
+## 
 
 Carstensen, Laura, 208
 character building, 170–71
@@ -2851,8 +2845,7 @@ communication
 "communities of truth," 263–65
 compassion, 52–54, 257
 competitiveness, 193
-## ```
-
+## 
 
 Composing a Life (Bateson), 223–24
 "conceptual blindness," 142
@@ -2874,8 +2867,7 @@ conversation(s)
     elements of good, 73, 74–81
     emotions underlying, 114
     failing to start, 214
-## ```
-
+## 
 
 finding underlying disagreement under specific disagreement, 80–81
     frame(s) of, 114–15
@@ -2897,8 +2889,7 @@ finding underlying disagreement under specific disagreement, 80–81
     telling secrets, 166
 Cooney, Gus, 76
 Cope, Stephen, 135–36, 162, 224–25
-## ```
-
+## 
 
 "co-regulation," 158
 Crouch, Andy, 75, 134
@@ -2919,8 +2910,7 @@ culture(s)
 curiosity, 33–34, 85–86
 D
 Darkness Visible (Styron), 125–26
-## ```
-
+## 
 
 Dartmouth-Princeton football game, 67
 Davis, Viola, 154, 221–22
@@ -2942,8 +2932,7 @@ deprivation and feeling worthless, 138
 despair versus integrity, 207–9
 developmental psychologists, 191–92
 Dick, Danielle, 187–88
-## ```
-
+## 
 
 Dickerson, Nancy, 186
 dignity of individual, awareness of, 31
@@ -2963,8 +2952,7 @@ education
     as career preparation, 8
     "moral formation" in schools, 104–5
 egotism, 20
-## ```
-
+## 
 
 Eiseley, Loren, 43–44, 47–48, 50, 54
 Ellison, Ralph, 113
@@ -2986,8 +2974,7 @@ emotions
     underlying conversations, 114
     vulnerability and, 7
 "empathic accuracy" scale, 14–15
-## ```
-
+## 
 
 empathy
     caring as practicing, 148–49
@@ -3007,8 +2994,7 @@ evaluative questions, 88
 "The Evolving Self" (Kegan), 192
 experience, defined, 61
 "extension of the senses," 43–44
-## ```
-
+## 
 extroversion, 179–81
 
 # F
@@ -3031,8 +3017,7 @@ G
 Gelfand, Michele, 237–38
 "gem statements," 80
 generalizations, making, 22
-## ```
-
+## 
 
 generational divides, 24–25
 generativity, 204–7
@@ -3054,8 +3039,7 @@ Gottlieb, Lori, 197–98, 256–59
 Grant, Adam, 178
 Grant Study, 136–37, 200, 202
 Greenfield, Meg, 6
-## ```
-
+## 
 
 Grenny, Joseph, 112, 113–14, 116
 grief
@@ -3075,8 +3059,7 @@ Hastorf, Albert, 67
 Hathaway, Anne, 6
 Hatzfeld, Jean, 103–4
 Henrich, Joseph, 238–39
-## ```
-
+## 
 
 herzensbildung, 27
 High Conflict (Ripley), 112
@@ -3098,8 +3081,7 @@ human beings
     as works in progress, 165–66, 209–11
 human beings: seeing and understanding. See also
     Illuminators/Illuminationism
-## ```
-
+## 
 
 accompaniment and, 44
 awareness of dignity of individual as precondition for, 31
@@ -3121,8 +3103,7 @@ as spiritual act, 11
 training as necessary for, 23
 before trauma and making of new models, 162–63
 vulnerability and, 47
-## ```
-
+## 
 
 human beings: seeing and understanding examples, 251–56
     in Good Will Hunting, 259–61
@@ -3142,8 +3123,7 @@ Illuminators/Illuminationism
     as blessing to others, 270–71
     characteristics of, 13, 32–36, 171–72
     examples of, 29–31
-## ```
-
+## 
 
 questions asked by, 69
     as way of being with other people, 32
@@ -3165,8 +3145,7 @@ intimacy
     during conversations, 269
     fear of, 138
     gradients of, 49
-## ```
-
+## 
 
 self-centered consciousness and, 194
 introductory questions, 89
@@ -3186,8 +3165,7 @@ Joseph, Stephen, 161–62, 169
 journalists, interviewing style of, 28–29
 Jung, Carl, 162, 201, 209
 Junod, Tom, 103
-## ```
-
+## 
 # K
 
 
@@ -3208,8 +3186,7 @@ Kuhl, Patricia, 190–91
 Kukla, Elliot, 157–58
 Kushner, Aaron, 169
 Kushner, Harold, 169
-## ```
-
+## 
 # L
 
 
@@ -3231,8 +3208,7 @@ life tasks
     career consolidation, 197–202
     developmental psychologists and, 191, 192
     human being as work in progress, 165–66, 209–11
-## ```
-
+## 
 
 imperial task, 193–94, 195
     interpersonal task, 195–97
@@ -3252,8 +3228,7 @@ loneliness and meanness, 100
 looping, 78–79
 Lost & Found (Schulz), 265–67
 love, 38, 134–36
-## ```
-
+## 
 # M
 
 
@@ -3275,8 +3250,7 @@ Mc Millan, Ron, 112, 113–14, 116
 meanness and loneliness, 100
 Meltzoff, Andrew, 190–91
 memory, 231, 234
-## ```
-
+## 
 
 Mendelson, Edward, 188–89
 mentalizing, 147–48
@@ -3298,8 +3272,7 @@ morality
     culture and, 244
     good character and, 170–71
     life as journey of, 244
-## ```
-
+## 
 
 as social practice, 171
     society's rules and, 237
@@ -3318,8 +3291,7 @@ Neugarten, Bernice, 192
 neuroticism, 182–83
 Newman, Adam (pseudonym), 202–4
 Niebuhr, H. Richard, 227
-## ```
-
+## 
 "the night sea journey," 162
 
 
@@ -3340,8 +3312,7 @@ other-centeredness, 50–52
 overreactivity, 138–39, 141
 P
 Palmer, Parker, J., 37, 79–80, 263, 270
-## ```
-
+## 
 
 paradigmatic thinking, 215, 216
 passive aggression, 139
@@ -3363,8 +3334,7 @@ personality traits. See also Big Five personality traits
     parenting and, 187–88, 204
     as predictions of life outcomes, 187
 personal narratives
-## ```
-
+## 
 
 crafting plot of, 222–25
     enduring pain by telling, 217
@@ -3386,8 +3356,7 @@ Piaget, Jean, 191–92
 Picasso, Pablo, 35–36, 185
 Pipher, Mary, 17, 40–42
 Platte River, 43–44, 47–48, 50, 54
-## ```
-
+## 
 
 playfulness, 47–50
     as state of mind, 48
@@ -3407,8 +3376,7 @@ Puchalska-Wasyl, Małgorzata, 220
 Putin, Vladimir, 194
 Q
 questions
-## ```
-
+## 
 
 ability to see big picture when answering, 87
     asked by Illuminators, 69
@@ -3428,8 +3396,7 @@ reality(ies)
     individual's, 16, 64–68, 80
     individual's life circumstances and, 118–19
     layers of, 61–62
-## ```
-
+## 
 
 personality trait of openness and, 185
     standing in between multiple, 207–8
@@ -3451,8 +3418,7 @@ relationships
     critiquing with care and, 262
     decline in close, 98
     decline in social, 99
-## ```
-
+## 
 
 effect of childhood, on adult life, 134–39
     fear of, 99
@@ -3474,12 +3440,10 @@ Roosevelt, Franklin, 247
 Rosemont, Henry, 239
 Rossi, Cristina Peri, 201
 RULER curriculum, 156–57
-## ```
-
+## 
 
 Ruoff, Jeffrey, 128–29
-## ```
-
+## 
 # S
 
 
@@ -3499,8 +3463,7 @@ self-preoccupation, overcoming, 33
 self-talk, 79–80, 218–22
 Seneca, 196
 A Separate Peace (Knowles), 193
-## ```
-
+## 
 
 Seth, Anil, 66
 The Seven Basic Plots (Booker), 223
@@ -3522,8 +3485,7 @@ social media, illusion of social contact on, 8–9
 social skills. See also empathy
      breakdown of basic moral skills and, 106
      inadequacy of current, in pluralistic societies, 12
-## ```
-
+## 
 
 necessary for being full human beings, 7–8
 society, need for different types of people in, 177
@@ -3545,8 +3507,7 @@ storytelling conversations, 214–15
 Streeter, Ryan, 101
 Strength in What Remains (Kidder), 251–56
 Styron, William, 125–26
-## ```
-
+## 
 
 subjective consciousness
     changes in, 62–63
@@ -3566,8 +3527,7 @@ teenagers, depression among, 98
 Telling Secrets (Buechner), 166
 tenderness, 32–33
 Terkel, Studs, 92–93
-## ```
-
+## 
 
 Terrence, 121
 thinking, modes of, 215–17
@@ -3585,8 +3545,7 @@ Trillin, Calvin, 74
 Trump, Donald, 194
 trust, 51, 100–101
 tsunami in Sri Lanka, 56–60, 61, 69–70
-## ```
-
+## 
 # U
 
 unconscious mind
@@ -3608,8 +3567,7 @@ vulnerability
     emotions and, 7
     getting to know someone and, 47
     questions and, 85
-## ```
-
+## 
 ## ![](_page_296_Picture_1.jpeg)
 
 
@@ -3633,8 +3591,7 @@ wisdom, 7, 263
 wise people, 248–50
 Working (Caro), 198–99
 worthlessness, feelings of, 138
-## ```
-
+## 
 ## Wrapped in Rainbows (Boyd), 229, 230
 
 ## Wuthering Heights (Emily Brontë), 188–89

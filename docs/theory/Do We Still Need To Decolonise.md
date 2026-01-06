@@ -234,8 +234,7 @@ There is a political dimension to names.
 7:02
 By erasing the Indigenous legacy of a place, flora, or fauna by their name, 
 colonial powers
-## ```
-
+## 
 
 7:08
 are able to write out the native from the cartography, taxonomy, and topography of 
@@ -296,8 +295,7 @@ models
 8:49
 of governance that dominated the colonial period.
 8:53
-## ```
-
+## 
 Even post-universal suffrage, the people were still deprived of meaningful access to the
 
 ## 8:57
@@ -565,4 +563,4 @@ Outro
 All power to all the people.
 20:00
 Peace.
-## ```
+## 

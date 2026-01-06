@@ -111,8 +111,7 @@ tags:
 “A riveting polemic and a convincing argument for why our housing system must be radically transformed. Their on-the-ground reporting is sure to persuade anyone angry at how much rent they pay that we all must organize for a better future. It goes deep into the history and theory of housing and provides tangible solutions to our housing crisis, ones that we can all take part in today.”
                                                          —P.E. Moskowitz, author of How to Kill a City
 
-“Inspiring and powerful, Abolish Rent is a passionate handbook of community organizing rendered through moving—even thrilling—case studies of tenants reclaiming their buildings and public space. The utopian vision of abolishing rent is potentially within our grasp.” ```
-
+“Inspiring and powerful, Abolish Rent is a passionate handbook of community organizing rendered through moving—even thrilling—case studies of tenants reclaiming their buildings and public space. The utopian vision of abolishing rent is potentially within our grasp.” 
 ---
 
 ## Page 6
@@ -234,8 +233,7 @@ Library of Congress Cataloging-in-Publication data is available.
 
 
 
-This eBook is licensed to Bea Hemmelgarn, beahemmelgarn@gmail.com on 09/24/2024 ```
-
+This eBook is licensed to Bea Hemmelgarn, beahemmelgarn@gmail.com on 09/24/2024 
 ---
 
 ## Page 11
@@ -275,8 +273,7 @@ The two authors of this book spent July 4th delighting in the collective disobed
     Los Angeles often shows us the future of the whole country. As the United
 States incorporated LA’s territory, annexing Mexico and ethnically cleansing the Tongva people—for whom the land was home for seven thousand years —the city innovated legal settlement and subjugation. More than half a century before land values became a central business of urban centers everywhere, LA’s boosters were divvying downtown parcels to flip, inspiring a literary and film genre—noir—to describe real estate’s political influence.1 Already by the 1950s, Los Angeles imprisoned more people than any other city in the US, which itself imprisoned more people than any country in the world, as it still does today.2
     Now Los Angeles shows us the future of housing inequality should we
-allow our capitalist housing system to continue unabated. Two years ago, our city boasted the world’s most expensive home—a $340 million mansion, complete with five pools, forty-two bathrooms, and a moat—while five unhoused tenants died on our streets each day. In 1980, LA earned the title of “homeless capital of America.” We still claim the largest number of unsheltered people.3 But perhaps Los Angeles will play the part of the future ```
-
+allow our capitalist housing system to continue unabated. Two years ago, our city boasted the world’s most expensive home—a $340 million mansion, complete with five pools, forty-two bathrooms, and a moat—while five unhoused tenants died on our streets each day. In 1980, LA earned the title of “homeless capital of America.” We still claim the largest number of unsheltered people.3 But perhaps Los Angeles will play the part of the future 
 ---
 
 ## Page 13
@@ -292,8 +289,7 @@ THE TWO OF us might look like an odd pair, a middle-aged immigrant and a thirty-
      Disproportionately shut out of homeownership or included only under
 predatory terms, people of color and immigrants have long found themselves exploited and oppressed within the US property regime—shunted into the subordinate status of tenants, segregated, and subject to price gouging. But that status has expanded. Intergenerational wealth transfers, rather than income, have become the determining factor of access to owning a home. Millennials can count themselves the first generation whose relationship to housing has been shaped by this new American order. So it may not be surprising that in the struggle for tenant power, we’d find each other.
      We met in 2012 in a warehouse-turned-community gallery in Cypress
-Park. The space was both a symptom of and a response to a process we discussed that day, often euphemized as “neighborhood change,” but better known as gentrification. Alongside a small, multiracial and -generational group, we helped form School of Echoes. Our collective spent a few years listening: to STAY in Echo Park, where a gang injunction meant youth of color could be jailed just for sitting together outside; to residents of Frogtown, where a new public park arrived after half of all neighborhood properties had changed hands in three years; to Needle Exchange in Hollywood, where harm reduction operations had to keep up with stepped- up encampment sweeps; to Union de Vecinos, a Boyle Heights union of neighbors Leo had cofounded in 1996 to fight the demolition of more than nine hundred public apartments. We heard city governments announce expanded tax bases instead of services, nonprofits negotiate the terms of communities’ defeat, lawyers offer individualistic advice, and tenants who thought there was nothing they could do. ```
-
+Park. The space was both a symptom of and a response to a process we discussed that day, often euphemized as “neighborhood change,” but better known as gentrification. Alongside a small, multiracial and -generational group, we helped form School of Echoes. Our collective spent a few years listening: to STAY in Echo Park, where a gang injunction meant youth of color could be jailed just for sitting together outside; to residents of Frogtown, where a new public park arrived after half of all neighborhood properties had changed hands in three years; to Needle Exchange in Hollywood, where harm reduction operations had to keep up with stepped- up encampment sweeps; to Union de Vecinos, a Boyle Heights union of neighbors Leo had cofounded in 1996 to fight the demolition of more than nine hundred public apartments. We heard city governments announce expanded tax bases instead of services, nonprofits negotiate the terms of communities’ defeat, lawyers offer individualistic advice, and tenants who thought there was nothing they could do. 
 ---
 
 ## Page 14
@@ -309,8 +305,7 @@ phrase, is a “human power”—produced by people, not by God or by nature. An
     School of Echoes convened the first meeting of the LA Tenants Union
 (LATU) in 2015, with a single gathering in Hollywood. We invited tenants from across the city to reflect on the common features of their housing conditions and what they thought it was in their reach to control. We have since grown to over three thousand households of dues-paying members and twelve local chapters that trace the city’s sprawl with our own. We have organized more than a hundred tenants associations, which have won our members needed repairs, rent rollbacks, and a measure of dignity. LATU is a member-funded union. Our meetings are monolingual in Spanish or bilingual in Spanish and English, and at times interpreted in Korean and Cantonese. As we break down the shame of living in deteriorating housing we can barely afford, we build trust across racial, ethnic, linguistic, even class differences. As we mourn for those banished from our communities, we fight like hell with those who remain. In our one-party city in our one-party state, we organize tenants as political subjects whose task it is to beat back the power of real estate and change the world.
 
-THIS IS THE first book-length engagement with a resurgent tenant movement. Slum conditions, rent gouging, and the despotic power of private landlords over tenants’ access to shelter are not new conditions. But our moment gives tenant organizing new urgency. For the first time in US history in 2021, the appreciation of the median home outstripped the median salary: just owning a home made more money than work.4 The rent is too, too damn high. Unhoused tenants face rising criminalization, as more are flung into the streets. Our homes have become the catchall for all the crises of our times: ```
-
+THIS IS THE first book-length engagement with a resurgent tenant movement. Slum conditions, rent gouging, and the despotic power of private landlords over tenants’ access to shelter are not new conditions. But our moment gives tenant organizing new urgency. For the first time in US history in 2021, the appreciation of the median home outstripped the median salary: just owning a home made more money than work.4 The rent is too, too damn high. Unhoused tenants face rising criminalization, as more are flung into the streets. Our homes have become the catchall for all the crises of our times: 
 ---
 
 ## Page 15
@@ -326,8 +321,7 @@ turn our individualized vulnerability into shared power. Our tactics—tenants a
     The housing question is, at its center, a question about inequality: who
 gets to be housed and who doesn’t, who profits from housing and who falls into poverty paying or failing to pay the rent. It is also a question about power: who gets to decide how we organize our cities and how we organize our lives. It is a matter of life and death. This book looks at the housing question not from the perspective of governments (who see it as a problem to be managed) nor of developers and landlords (who see it as an opportunity for predation) but of tenants, whose lives are constrained and destroyed, but also enabled and enriched, by where we live.
     This book is both polemic and guide. It begins from the assumption that
-everyone deserves a safe and stable home, or the right to use public space as they wish, simply by virtue of being alive. This is what we mean when we say housing is a human right, no different than the right to breathe the air on this earth: you are born with this right; you should not have to earn it; you should not have to work for it. For us, “Housing is a human right” is not a slogan meant to urge us to tinker at the margins of a broken system. It is not ```
-
+everyone deserves a safe and stable home, or the right to use public space as they wish, simply by virtue of being alive. This is what we mean when we say housing is a human right, no different than the right to breathe the air on this earth: you are born with this right; you should not have to earn it; you should not have to work for it. For us, “Housing is a human right” is not a slogan meant to urge us to tinker at the margins of a broken system. It is not 
 ---
 
 ## Page 16
@@ -343,8 +337,7 @@ let the people who violate our rights off the hook. There are violators of our r
      Another world will not simply be handed over. To overthrow the
 exploitation and domination of the present order will take a liberatory struggle. It is a struggle to forge new democratic structures for managing and distributing resources according to our needs. It is a struggle against those whose wealth and power is made on the backs of our demise. Those who are now the most vulnerable to the violence and injustice of our current system have the most to gain by its destruction and the creation of another way of life. We want a world without landlords and a world without rent. We want everything for everyone.
 
-THIS BOOK IS grounded in the concrete struggles of tenants to gain control over our housing, our cities, and our lives—that really existing movement to abolish the present state of things. First, we ground the necessity of this transformation. Chapter 1 is a polemic against rent: a power relation between landlords and tenants, an axis of class exploitation and domination, a tribute that we pay at the peril of our need and at the barrel of a gun. Chapter 2 is an abridged history of the long “war on tenants,” the love affair between real estate and the state. ```
-
+THIS BOOK IS grounded in the concrete struggles of tenants to gain control over our housing, our cities, and our lives—that really existing movement to abolish the present state of things. First, we ground the necessity of this transformation. Chapter 1 is a polemic against rent: a power relation between landlords and tenants, an axis of class exploitation and domination, a tribute that we pay at the peril of our need and at the barrel of a gun. Chapter 2 is an abridged history of the long “war on tenants,” the love affair between real estate and the state. 
 ---
 
 ## Page 17
@@ -392,8 +385,7 @@ Every first of the month, we hand over a share of our wages to meet our human ne
     In the fairy tale of our capitalist housing system, the price of rent results
 in a balanced equation of wants and needs. Rental housing, the story goes, is a product that a landlord generously provides; tenants can make informed and unfettered decisions to select an appropriate place; the modest profits our landlords derive are deserved compensation for the crucial service they offer; our housing is well-appointed and our tenures respected; the money earned from our jobs more than covers the cost of our rents; over time, if we are responsible with our resources, we can save up enough to exit the rental market and buy ourselves a home.
     For anyone who has ever paid rent, it’s obvious this isn’t how it goes. By
-now, the statistics feel so familiar they fail to produce any sense of shock: It ```
-
+now, the statistics feel so familiar they fail to produce any sense of shock: It 
 ---
 
 ## Page 19
@@ -407,8 +399,7 @@ now, the statistics feel so familiar they fail to produce any sense of shock: It
     The humiliating experiences of paying rent are familiar to us, too: the
 shame of our light fixtures swelled with rainwater, or our rice infested with roaches; the fury of watching a few rolls of paint cover that swelling black morass above our shower; the resolve to eat our child’s leftovers, rather than risk a late fee; the anxiety of condensing our lives into cardboard boxes, while the sheriff paces at our door; the depression that grips us as the places where we grew up lose their texture, become no longer ours, sites of childhood memories and current community ripped up like wildflowers from a field.
     These dire statistics and degrading experiences are often collected under
-the banner of “the housing crisis.” But the capitalist housing system is working exactly as designed: to enrich landlords, developers, and real estate speculators. In the 2010s, landlords raked in over $4.5 trillion from tenants in rent payments.6 In 2019 alone, those rent payments totaled $512.4 billion. As land-lording has become an irresistible way to make money, landlords have taken over more and more homes, enriching corporations and the already rich. In 2021, landlords bought nearly one in seven homes sold in the forty largest US cities—and nearly one in three homes sold in Black neighborhoods.7 Framing the consequences of our housing system as a “housing crisis” ignores that from the perspective of its winners, the system works just fine. The capitalist housing system isn’t designed to provide the best quality housing to the most tenants. It’s designed to maximize profits and to extract the most rent. ```
-
+the banner of “the housing crisis.” But the capitalist housing system is working exactly as designed: to enrich landlords, developers, and real estate speculators. In the 2010s, landlords raked in over $4.5 trillion from tenants in rent payments.6 In 2019 alone, those rent payments totaled $512.4 billion. As land-lording has become an irresistible way to make money, landlords have taken over more and more homes, enriching corporations and the already rich. In 2021, landlords bought nearly one in seven homes sold in the forty largest US cities—and nearly one in three homes sold in Black neighborhoods.7 Framing the consequences of our housing system as a “housing crisis” ignores that from the perspective of its winners, the system works just fine. The capitalist housing system isn’t designed to provide the best quality housing to the most tenants. It’s designed to maximize profits and to extract the most rent. 
 ---
 
 ## Page 20
@@ -426,8 +417,7 @@ fundamental power imbalance between landlords and tenants. It suggests that to s
     Why do tenants wake up every month and have to pay rent? Power, to
 paraphrase Frances Fox Piven and Richard Cloward, comes from control over two things: the means of extracting wealth and the means of physical coercion.8 Landlords have both. They are empowered to take our money as rent and call on the sheriffs or cops to use force if we can’t pay. The entire real estate industry relies on privatizing a common resource (land), hoarding a human need (housing), blocking public intervention or competition, and maintaining a captive market of tenants to exploit and dominate. The immiseration of tenants is a feature of a housing system built on this unequal power dynamic, not a bug we can tinker away. Tenants are exploited and oppressed not just by corporate landlords, or by unscrupulous landlords, but by the fact of having a landlord at all.
     Rather than renter, we use the expansive term tenant. The concept
-harkens back to landlords’ feudal title, which makes their power clear. It also refuses the dehumanizing division that ejects unhoused people from our analyses as soon as they are pushed from their homes. A tenant is more than a renter. A tenant is anyone who doesn’t control their housing, who inhabits but doesn’t own. Like the word tent, the origin of the word tenant is from the Latin tenere, which means “to hold” or “to have.” Tenants hold space but are vulnerable to having it taken away. ```
-
+harkens back to landlords’ feudal title, which makes their power clear. It also refuses the dehumanizing division that ejects unhoused people from our analyses as soon as they are pushed from their homes. A tenant is more than a renter. A tenant is anyone who doesn’t control their housing, who inhabits but doesn’t own. Like the word tent, the origin of the word tenant is from the Latin tenere, which means “to hold” or “to have.” Tenants hold space but are vulnerable to having it taken away. 
 ---
 
 ## Page 21
@@ -445,8 +435,7 @@ consequences of this power relation in the spectacular and the mundane, from lan
      For many of us who have suffered the indignities of rent, nothing we
 write here will be a surprise. Every first of the month, we know something is rotten. Every first of the month, we wonder what it would take to never pay rent again. Often, our fantasies are individual: we’ll get a windfall, make it big, or play our cards right, earn our way up. Sure, some of us will make it into the home-owning ranks. But most of us won’t. We’ll pay up, or leave town, downsize, and retreat. If we want to end the misery of rent for everyone, we’ll need to trade our individualistic fantasies for universal abundance. And we’ll need to work together.
      We pay rent at the peril of our need and at the barrel of a gun. In this
-chapter, we offer a straightforward analysis of the rent relation from the perspective of tenants. We want to empower tenants to cut through the myths, ```
-
+chapter, we offer a straightforward analysis of the rent relation from the perspective of tenants. We want to empower tenants to cut through the myths, 
 ---
 
 ## Page 22
@@ -465,8 +454,7 @@ All human beings need shelter. All human beings need a home. If we don’t own p
      Rent is the gap between tenants’ needs and landlords’ demands. It
 benefits tenants for housing to be built to last, well maintained, easily accessible, and cheap; tenants need stability, safety, a place to live and make a life. It benefits landlords for housing to be cheaply produced, rarely maintained, scarce, and expensive; landlords seek to maximize profit, driving down costs and driving up rents. They want to take more money out and put ever less back in. This is the fundamental contradiction between the use of a home as a place to live and the use of a home as a place to extract wealth, what it means to live inside a system in which housing is something used to make a profit.
      Tenants live inside the landlord’s profit-maximization vise. The
-consequences of cost cutting are our living conditions. Mold, cold, rodents, roaches, lead, asbestos, and contaminated water are endemic to rental housing. Almost 3.9 million households in the US rent what the US Department of Housing and Urban Development classifies as “inadequate” ```
-
+consequences of cost cutting are our living conditions. Mold, cold, rodents, roaches, lead, asbestos, and contaminated water are endemic to rental housing. Almost 3.9 million households in the US rent what the US Department of Housing and Urban Development classifies as “inadequate” 
 ---
 
 ## Page 23
@@ -482,8 +470,7 @@ LANDLORDS DON’T OWN our homes because they are better than us, smarter than us
     The third of Americans who rent their housing make these payments to a
 handful of corporations and the mere 6.7 percent of the population who own that housing. This is a transfer of wealth from over 100 million tenants to just over 11 million landlords.15 The poorest Americans are overwhelmingly tenants; the richest own real estate.16 Rent is an engine of inequality. If you’ve played the board game Monopoly, you understand the idea: a roll of the dice and a purchase allow you to extract rents until everyone else is bankrupt.
     Tenants work; landlords live off our labor. According to 2021 US Census
-data, the average individual landlord spends less than four hours a month maintaining a property, while the average revenue they claim on that property is over $25,000 a month.17 The “passive” income of rent is active income stolen from those of us who work.18 ```
-
+data, the average individual landlord spends less than four hours a month maintaining a property, while the average revenue they claim on that property is over $25,000 a month.17 The “passive” income of rent is active income stolen from those of us who work.18 
 ---
 
 ## Page 24
@@ -499,8 +486,7 @@ make money just by owning a piece of property. Housing is an asset; it appreciat
     Here is one viral celebration of landlord math: “Bank buys me the house.
 Tenants pay off the loan. Property manager handles everything. I collect cash every month. Inflation builds me massive wealth. Real Estate.”21 Rent is our money, which landlords invest for their gain. Each month we pay not just what it costs our landlords to maintain our housing but what it costs our landlords to own an asset that makes them money over time. Their so-called expenses are minimal repairs so we don’t complain, insurance so they’re not on the hook if we get hurt, then the taxes and mortgage interest it requires for them to keep owning our house. Once a landlord has used our rents to pay off every cent of that mortgage, our rents don’t go down; their profits go up. For the temporary inconvenience of passing on our money to their banks, landlords can charge us rent in perpetuity. The industry’s “50 percent rule” encourages landlords to set rent at double those monthly costs.22 If our landlords use that metric, each month we pay those expenses, then pay them again.
     The supposed cure for renting is owning your own home. But rent is a
-trap. When tenants try to buy a house, we find that landlords already have the advantage. Tax work-arounds, special interest rates, and all-cash offers make ```
-
+trap. When tenants try to buy a house, we find that landlords already have the advantage. Tax work-arounds, special interest rates, and all-cash offers make 
 ---
 
 ## Page 25
@@ -514,8 +500,7 @@ trap. When tenants try to buy a house, we find that landlords already have the a
     Landlord lobbyists have crusaded to rebrand themselves as “housing
 providers” and rid themselves of the feudal title that makes their power clear, but landlords do not “provide” housing, they extract rent from housing by hoarding the places where we can live.27 When our rents are leveraged for more housing grabs, landlords take over more and more space.28 Already-wealthy people, corporations, and financial firms profit; more of us are tenants than ever before.29 Rent is an engine of consolidation. It drives the ownership of housing into fewer and fewer hands.30 In 2013, Invitation Homes issued the first-ever rent-backed security with 3,200 homes in its portfolio.31 Just ten years later, the company now owns more than 80,000 homes nationwide. Its business model turns rents into securities to sell to investors, so they can buy up more homes, and start over again.
     Of course, Invitation Homes generates those rents through the classic
-profit-maximization strategy of hiked prices and forced-down costs: between 2014 and 2016, the company raised average rents in its portfolio from $1,424 to $1,600 a month, while its yearly maintenance expenditures per unit shrunk from $1,362 to $1,146.32 And tenants experience the consolidation of our landlords in more than money. Large corporate landlords are more likely to evict us or threaten us with eviction, to raise our rents every year, and to ```
-
+profit-maximization strategy of hiked prices and forced-down costs: between 2014 and 2016, the company raised average rents in its portfolio from $1,424 to $1,600 a month, while its yearly maintenance expenditures per unit shrunk from $1,362 to $1,146.32 And tenants experience the consolidation of our landlords in more than money. Large corporate landlords are more likely to evict us or threaten us with eviction, to raise our rents every year, and to 
 ---
 
 ## Page 26
@@ -531,8 +516,7 @@ RENT PREVENTS us from caring for ourselves and each other. What do tenants do wh
     Landlords know they control access to a basic survival need.
 Blackstone’s CEO Stephen Schwarzman has celebrated the housing market for its “complete control.” Frank Rolfe of RV Horizons compared his mobile home parks to “a Waffle House where the customers are chained to the booths.”39 Just for the privilege of paying rent, we pay application fees; subject ourselves to credit checks; jump over or squeeze into income requirements; swallow restrictions on pets, roommates, and family members; suffer source-of-income, racial, ethnic, and homophobic discrimination; fork over exorbitant broker fees and deposits; and expose our conviction and eviction history. We accept harsh leases, dilapidated living conditions, gouged rents. Why? Because behind each rent check is the threat of homelessness.40 Landlords’ control over our access to the indoors pushes us to accept degrading living conditions and degrading terms.
     Behind each rent check is the threat of eviction. When landlords risk
-losing money and tenants risk losing a home, our housing system rules in their favor, no matter the social cost. US evictions nearly doubled between 2000 and 2016.41 The most common reason tenants are evicted? We can’t pay the rent.42 In LA, from just February to November 2023, landlords filed 71,429 eviction notices, nonpayment the cause of 96 percent.43 And across the country, Black tenants receive evictions at nearly twice the rate of white ```
-
+losing money and tenants risk losing a home, our housing system rules in their favor, no matter the social cost. US evictions nearly doubled between 2000 and 2016.41 The most common reason tenants are evicted? We can’t pay the rent.42 In LA, from just February to November 2023, landlords filed 71,429 eviction notices, nonpayment the cause of 96 percent.43 And across the country, Black tenants receive evictions at nearly twice the rate of white 
 ---
 
 ## Page 27
@@ -548,8 +532,7 @@ the rent, or if we defy any terms our landlords set, they can call on deputies o
 
 RENT IS THE private capture of public investment. It’s often said that only three things matter in real estate: location, location, location. What this betrays is how exactly landlords extract rent from place. It’s not just the building they own, but where the building is, that makes housing more or less valuable. The value of a location is often shaped by our bosses, that is, by where and how we are forced to work a wage. But rent doesn’t just steal from the wages we earn as individuals, it steals from the value the public creates. We know this intuitively: proximity to parks and recreation, to good schools, to transit stops make housing cost more; centrally located apartments can claim higher rents. But each of these reflects the quality of the neighborhood, not just the quality of the building: public, not private investment.
      “All housing is public housing,” as David Madden and Peter Marcuse put
-48 it. Public investment is a precondition for private profit. Even what we think of as privately owned housing relies on vast public infrastructure to ```
-
+48 it. Public investment is a precondition for private profit. Even what we think of as privately owned housing relies on vast public infrastructure to 
 ---
 
 ## Page 28
@@ -565,8 +548,7 @@ where they live. From neighborhood safety achieved by self-organization, to path
      Rent relies on the state abandonment of tenants. “Can you afford to pay
 your neighbor’s rent?” asked a 1933 industry campaign against public housing. But tenants subsidize the wealth of their neighbors—or absentees— our tax dollars paying off our neighbors’ mortgages. The federal government spends at least three times as much on subsidizing homeowners than it does on tenant support.50 (And since a homeowner has a full forty times the net worth of a tenant, that’s three times more subsidies for those least in need.51)
      Rent metabolizes racism. Racism has long fueled real estate greed, just
-as real estate greed has made race what it is today. The exclusion of people of color from certain neighborhoods made homes more valuable: white ```
-
+as real estate greed has made race what it is today. The exclusion of people of color from certain neighborhoods made homes more valuable: white 
 ---
 
 ## Page 29
@@ -580,8 +562,7 @@ as real estate greed has made race what it is today. The exclusion of people of 
     Racist exclusion from homeownership (by local deed restrictions or
 federal redlining) or inclusion only under predatory terms (from rent-to-own to subprime schemes) created the six-to-one white–Black racial wealth gap and a dual housing market in which the majority of people of color are tenants and the majority of white people own their homes.53 And though legal segregation was struck down, housing discrimination endures via the proxies of credit scores, home size, income, and eviction, incarceration, or arrest histories. “There has not been an instance in the last 100 years when the housing market has operated fairly, without racial discrimination,” Keeanga- Yamahtta Taylor writes.54 And not an instance when landlords and real estate developers didn’t leverage discrimination for profit.
 
-RENT PRODUCES UNEQUAL, disfigured cities. One business model of rent is trapping tenants in poverty, then exploiting the captive market of the poor. The margins are extreme. Landlords can extract almost twice the profits from tenants in poor neighborhoods as they can from those in rich ones. In places where more than half of residents live in poverty, a landlord can get back every penny of what they paid to buy a building in just four years of collecting rent.55 In 1992, Mike Davis dubbed the Los Angeles suburb of Bell Gardens a “rent plantation,” where rents from Latinx immigrants were wrung by white absentees.56 The upward transfer of rent perpetuates segregation: resources are extracted from poor neighborhoods to circulate within rich ones. We see the results of this segregation etched into space: some neighborhoods with well-lit streets lined with shade trees, regular trash pickup, and public schools with iPads; others with uncovered bus stops, potholes, and rats. ```
-
+RENT PRODUCES UNEQUAL, disfigured cities. One business model of rent is trapping tenants in poverty, then exploiting the captive market of the poor. The margins are extreme. Landlords can extract almost twice the profits from tenants in poor neighborhoods as they can from those in rich ones. In places where more than half of residents live in poverty, a landlord can get back every penny of what they paid to buy a building in just four years of collecting rent.55 In 1992, Mike Davis dubbed the Los Angeles suburb of Bell Gardens a “rent plantation,” where rents from Latinx immigrants were wrung by white absentees.56 The upward transfer of rent perpetuates segregation: resources are extracted from poor neighborhoods to circulate within rich ones. We see the results of this segregation etched into space: some neighborhoods with well-lit streets lined with shade trees, regular trash pickup, and public schools with iPads; others with uncovered bus stops, potholes, and rats. 
 ---
 
 ## Page 30
@@ -597,8 +578,7 @@ of housing and its location: since rent prices determine who gets to live where,
     If a capitalist firm and a landlord had a baby, it’d be a developer. Real
 estate developers seek to drive down costs—of building materials and the labor it takes to build a new home or apartment block. But unlike manufacturers of TVs, cars, and refrigerators, they don’t pass these savings on to us. They have no need to: they can capture the distance between inflating property values and our dire need.58 Like landlords, real estate developers don’t “provide” housing, they speculate on it. Real estate developers can only raise funds on the basis of future profits; they plan for high rents. Their output is tied to market booms and busts. They invest in, produce, and profit from scarcity; they modulate the flow of new housing to ensure it remains. And they share with landlords and homeowners a fundamental material interest in ensuring that land and property values only ever continue to rise—a lock-in of rents ever going up.
     Securing housing doesn’t mean competing just with other people who
-want to use it to live in. It means competing with people and corporations who want to use it to make money. More than 68 percent of the world’s wealth is held in real estate, and 79 percent of that is in residential housing. In 2020, the total residential real estate value in the US—the second-largest share in the world—amounted to $258.5 trillion: that’s more valuable than all global equities and debt securities combined, more than twenty times more valuable than all the gold ever mined.59 To speak in the language of supply and demand, the price of housing is not determined just by local demand for housing, but by the global search for opportunities to seek profit.60 The housing market doesn’t produce homes, it produces opportunities for investment. ```
-
+want to use it to live in. It means competing with people and corporations who want to use it to make money. More than 68 percent of the world’s wealth is held in real estate, and 79 percent of that is in residential housing. In 2020, the total residential real estate value in the US—the second-largest share in the world—amounted to $258.5 trillion: that’s more valuable than all global equities and debt securities combined, more than twenty times more valuable than all the gold ever mined.59 To speak in the language of supply and demand, the price of housing is not determined just by local demand for housing, but by the global search for opportunities to seek profit.60 The housing market doesn’t produce homes, it produces opportunities for investment. 
 ---
 
 ## Page 31
@@ -616,8 +596,7 @@ RENT MEANS SOME people won’t have housing. The need for housing is equal and u
     If we’re caught without a home, we can be subjected to police
 harassment, brutality, tickets, or jail. That is, it’s illegal to not pay rent. Across 187 cities, the number of bans on putting up tents, living in cars, asking passersby for money, and resting or even being in public just about doubled between 2006 and 2019.64 The widespread criminalization of living in public space means that we don’t just have to pay rent because we need housing. We have to pay rent because it’s a crime not to have it.
     A threat of eviction makes us more likely to die in the next twenty years;
-an eviction judgment doubles that likelihood to 40 percent. Even high rents predict mortality: the higher our rent burdens, the sooner and likelier our ```
-
+an eviction judgment doubles that likelihood to 40 percent. Even high rents predict mortality: the higher our rent burdens, the sooner and likelier our 
 ---
 
 ## Page 32
@@ -636,8 +615,7 @@ Home is an inescapable need for every person. Home organizes our lives, from the
     Our capitalist housing system sorts who among us is exposed to
 environmental harms, who can access a decent job or a decent hospital, who is subject to police harassment and imprisonment, who lives indoors and who outside—who lives and who dies. Designed to protect and expand the wealth of homeowners, landlords, and speculators, the system exploits and oppresses tenants. We might even call it an un-housing system, designed so that some of us will have nowhere to live but public space.
 
-IN THE AFTERMATH of the 2008 financial collapse, driven by real estate greed, a renewed focus on the housing crisis did not emphasize the living conditions of the poor, but rather the rising insecurity of the middle and upper-middle classes, for whom decent and secure housing had been understood as birthrights. The proposed solution? Unleash the cranes. Since housing is scarce, goes the refrain, more private development would increase supply, driving down rents and raising tenants’ respective power. It’s true that there is a shortage—of cheap housing.67 Tenants are in dire need of more dwelling space that we can actually afford. Across the country, ```
-
+IN THE AFTERMATH of the 2008 financial collapse, driven by real estate greed, a renewed focus on the housing crisis did not emphasize the living conditions of the poor, but rather the rising insecurity of the middle and upper-middle classes, for whom decent and secure housing had been understood as birthrights. The proposed solution? Unleash the cranes. Since housing is scarce, goes the refrain, more private development would increase supply, driving down rents and raising tenants’ respective power. It’s true that there is a shortage—of cheap housing.67 Tenants are in dire need of more dwelling space that we can actually afford. Across the country, 
 ---
 
 ## Page 33
@@ -655,8 +633,7 @@ misery of tenants believe that one side of real estate capital will compete with
     Theirs is a view of tenant power as a by-product of market forces: like a
 low unemployment rate, which gives workers more leverage, incentivizing bosses to improve conditions and raise pay, a higher vacancy rate would give tenants more choice, motivating landlords to make repairs and ease rent increases. But just as a tight labor market has never eliminated deadly jobs or poverty wages, a slack housing market will not eradicate slum housing or rent gouging. Indeed, it was organized labor unions that won wage floors, weekends, and safety regulations; no basic worker protection or benefit has been handed over as a gift from “job creators.”
     If we focus our lens on housing shortage, “housing providers” can be
-anointed as tenants’ saviors. But this is not just a shortage; it’s deliberate, ```
-
+anointed as tenants’ saviors. But this is not just a shortage; it’s deliberate, 
 ---
 
 ## Page 34
@@ -672,8 +649,7 @@ overcome the misery and injustice of rent. We need to transform the power relati
     The housing crisis is not a problem to be solved; it is a class struggle to
 be fought and won. The conclusion that Engels drew still applies now: “In order to make an end to this housing shortage there is only one means: to abolish altogether the exploitation and oppression of the working class by the ruling class.”75 Rent is a fundamental engine of inequality and injustice, a transfer of wealth from the poorest to the richest, the most vulnerable to the least, which drives millions into debt and despair and onto the streets. From the perspective of tenants, the answer to the housing crisis is as simple as it is revolutionary: a world without landlords and a world without rent. Our self-interest as tenants isn’t just fixing the leak in our shower; it’s dismantling the capitalist unhousing system.
     To overcome the crushing dynamic of landlord and tenant math, we need
-movement math. If a tenant is anyone who doesn’t control their own housing, the tenant movement is our means to take collective control over where and ```
-
+movement math. If a tenant is anyone who doesn’t control their own housing, the tenant movement is our means to take collective control over where and 
 ---
 
 ## Page 35
@@ -691,8 +667,7 @@ housing and throw sand in the gears of the displacement machine, we must build l
     Only those policies toxic to real estate speculation can help us thrive.
 Unlike landlords, developers, and homeowners, tenants want and need rents —thus property values—to fall. There is no reason to shy away from the truth that what benefits tenants makes housing less profitable: it helps us clarify our interests and what criteria we should use to evaluate reforms.76
     At the scale of our cities and nationwide, we have to press for public
-competition with private housing: permanent, unsurveilled, well-resourced public housing, the kind that has never been allowed to exist. Leveraging the vast capacities of the state to provide for tenants’ human needs, directing ```
-
+competition with private housing: permanent, unsurveilled, well-resourced public housing, the kind that has never been allowed to exist. Leveraging the vast capacities of the state to provide for tenants’ human needs, directing 
 ---
 
 ## Page 36
@@ -708,8 +683,7 @@ to win new regulations of the private market. We need controls on rent increases
     We need to put class conflict at the center of the housing question, and the
 housing question at the center of class conflict. Workers have often been the focus of this fight, but tenants (both working and unemployed) have a crucial role to play too. Exploitation through our housing has long ensured exploitation at our workplaces.77 (Said one studio executive during the 2023 Writers Guild of America strike: “The endgame is to allow things to drag on until union members start losing their apartments.”78) And more and more, as we’ve seen above, our homes are the places where our bosses park their money and where that money goes to make more of itself.79 Tenants can be key political subjects, the architects of a long-term project of expropriation through which that hoarded wealth becomes shared by us all.80
     Truly abolishing rent will take a mass revolutionary movement, capable
-of withholding rent and occupying our homes, of overturning property relations and of transforming the state. That movement will require us to organize as tenants where we live and as workers where we work. It will take dense, militant organizations along every single axis that defines our lives: public sector workers reclaiming state resources for a robust social wage, now strip mined for the appreciation of privately owned homes; ```
-
+of withholding rent and occupying our homes, of overturning property relations and of transforming the state. That movement will require us to organize as tenants where we live and as workers where we work. It will take dense, militant organizations along every single axis that defines our lives: public sector workers reclaiming state resources for a robust social wage, now strip mined for the appreciation of privately owned homes; 
 ---
 
 ## Page 37
@@ -752,8 +726,7 @@ housing we already have, win true sovereignty over our work and its purpose, our
 
 In october 2022, an anonymous source leaked an hour-long recording of three LA city councilmembers trading expletives, insults, and racist slurs about their colleagues and constituents. Black, Oaxacan, Korean, Jewish, Armenian, poor, and unhoused people were made special targets for ridicule: “shoeless,” “dark,” “ugly,” “cocoa,” those from the “village,” and those with nowhere “to shit.” At the time it was recorded, the council—a fifteen- member body tasked with representing nearly four million people—was in the middle of redrawing its electoral map. The recording captured the council members divvying up economic assets and conspiring to gerrymander districts. Their goal? To undermine the power of tenants.1 “It serves us not to give [councilmember Nithya Raman] all of K-Town,” said former council president Nury Martinez, “because that solidifies her renters’ district, and that is not a good thing for any of us.”
     It shouldn’t take another scandal to reveal their priorities. Four other LA
-city councilmembers have faced criminal charges for accepting bribes from real estate developers in as many years. Since 2005, the council has approved over $1 billion in tax breaks for new real estate projects; the homeless population has more than doubled in just seven years.2 The leak provided a candid portrait of Democratic politics in a one-party city in a one-party state: politicians in the act of suppressing tenant power and courting real estate speculation at the expense of the residents they claim to serve. Connecting the councilmembers’ racist speech to the racist practice of ```
-
+city councilmembers have faced criminal charges for accepting bribes from real estate developers in as many years. Since 2005, the council has approved over $1 billion in tax breaks for new real estate projects; the homeless population has more than doubled in just seven years.2 The leak provided a candid portrait of Democratic politics in a one-party city in a one-party state: politicians in the act of suppressing tenant power and courting real estate speculation at the expense of the residents they claim to serve. Connecting the councilmembers’ racist speech to the racist practice of 
 ---
 
 ## Page 39
@@ -769,8 +742,7 @@ LIKE THE ROACHES in our kitchen that point to an infestation behind our walls, o
     The history of housing policy in the twentieth century is often told as the
 story of the democratization of homeownership, the ongoing expansion of access to private, asset-based wealth and security. But tenants have a story too. It is a story of abandonment, exploitation, and stigmatization—a systematic assault. Just as the US government has waged wars on the poor and people of color in the guise of the “war on drugs” and the “war on crime,” it has also waged a war on tenants with the same results: impoverishing, exploiting, and even criminalizing them.
     The war on tenants has rigged the American housing system to benefit
-homeowners, landlords, and real estate speculators at the expense of tenants’ human needs. On the one hand, state action has shaped our housing system to inflate property values and thus raise rents. On the other hand, it has abandoned tenants to the predation of private landlords. Excluded from the social, economic, and political benefits of homeownership, tenants have been maintained as a captive market to exploit. Race is fundamental to this process: property value animates racial categories at the same time it ensures the persistence of historical racial inequalities. Violence is also fundamental to this process: upholding and producing property value relies on legal and extralegal force. Just as dispossession of land has been a longstanding form of racist violence, racist violence remains a central tool of real estate rule. ```
-
+homeowners, landlords, and real estate speculators at the expense of tenants’ human needs. On the one hand, state action has shaped our housing system to inflate property values and thus raise rents. On the other hand, it has abandoned tenants to the predation of private landlords. Excluded from the social, economic, and political benefits of homeownership, tenants have been maintained as a captive market to exploit. Race is fundamental to this process: property value animates racial categories at the same time it ensures the persistence of historical racial inequalities. Violence is also fundamental to this process: upholding and producing property value relies on legal and extralegal force. Just as dispossession of land has been a longstanding form of racist violence, racist violence remains a central tool of real estate rule. 
 ---
 
 ## Page 40
@@ -791,8 +763,7 @@ housing policies bear the marks of this history. They recognize individual claim
 
 The concerted war on tenants over the last century shapes the current terrain of tenant struggle. Our account of this war begins in the Great Depression, when president Herbert Hoover reminded his constituents, the majority of whom paid rent to secure housing: “Those immortal ballads, ‘Home, Sweet Home,’ ‘My Old Kentucky Home’ and the ‘Little Gray Home in the West’ were not written about tenements or apartments…. They never sang songs about a pile of rent receipts.”6
     Already, as commerce secretary, Hoover had praised home-ownership as
-“the foundation of a solid economic and social system” and collaborated with the National Association of Realtors to promote it as the civic duty of the “real American.”7 But by 1933, the calamity of the Great Depression had ```
-
+“the foundation of a solid economic and social system” and collaborated with the National Association of Realtors to promote it as the civic duty of the “real American.”7 But by 1933, the calamity of the Great Depression had 
 ---
 
 ## Page 41
@@ -808,8 +779,7 @@ into a meaningful threat to the capitalist order, securing ambitious housing ref
      Race was a central axis of this exclusion. Segregation was the real estate
 industry’s official policy. The realtor association’s Code of Ethics, in effect from 1924 to 1974, insisted its members must “never be instrumental in introducing into a neighborhood … members of any race or nationality, or any individuals whose presence will clearly be detrimental to property values.”10 Those borders were maintained by force and by law—both through vigilante violence and the policing of neighborhoods where people of color lived.
      The government standardized an appraisal system for property values that
-enshrined the real estate industry’s racist evaluations of people of color. Ex– real estate broker and Federal Housing Administration (FHA) director Homer Hoyt drafted a national rubric of loan-underwriting criteria—a “ranking of races and nationalities with respect to their beneficial effect upon land values.”11 That appraisal system ranked English, German, and Scandinavian immigrants and their descendants first, then Italians and Jews ```
-
+enshrined the real estate industry’s racist evaluations of people of color. Ex– real estate broker and Federal Housing Administration (FHA) director Homer Hoyt drafted a national rubric of loan-underwriting criteria—a “ranking of races and nationalities with respect to their beneficial effect upon land values.”11 That appraisal system ranked English, German, and Scandinavian immigrants and their descendants first, then Italians and Jews 
 ---
 
 ## Page 42
@@ -827,8 +797,7 @@ benefits of homeownership, tenants were a captive market, subject to mortifying 
      The New Deal also made a lasting impact on tenants’ lives, creating the
 first federal public housing projects, where some would finally be (and still are) spared the predation of the private market. But the real estate industry’s attacks deferred the dream of well-appointed, mixed-income tenant communities with a reality of stigmatization and decline. Concessions including caps on per-unit investment and restrictions that allowed only the poorest to qualify starved public housing of resources, ensured buildings would physically deteriorate, and established a consensus that a public option would always mean inferior housing.16 Laws empowered local governments to veto projects or segregate them to the least desirable areas. One-to-one stipulations that tethered production of new dwellings to the destruction of slums bludgeoned the impact of public supply on private rents.
      To protect their right to profit from housing, the industry consistently
-framed their attacks as a defense against communism. Robert Gerholz, president of the National Home Builders, threatened that public housing would allow the US to “be precipitated into a socialist state.” 17 The industry ```
-
+framed their attacks as a defense against communism. Robert Gerholz, president of the National Home Builders, threatened that public housing would allow the US to “be precipitated into a socialist state.” 17 The industry 
 ---
 
 ## Page 43
@@ -844,8 +813,7 @@ WORLD WAR II reorganized the economy and geography of the country. By the 1940s,
     But the need to stabilize working populations for the war effort inspired
 national regulation in the form of rent control. In 1942, the Office of Price Administration (OPA), empowered by the war to hold down prices on food, gasoline, and other necessary goods, instituted patchwork controls for rent as well. This included protections from eviction and rent gouging as well as funding for local rent offices, where tenants often enforced controls through enthusiastic complaints, one contract at a time.21
     Relief was short-lived, as landlords demanded that rent control be rolled
-back, then altogether scrapped. Conservative agitation continued to stymie ```
-
+back, then altogether scrapped. Conservative agitation continued to stymie 
 ---
 
 ## Page 44
@@ -857,8 +825,7 @@ back, then altogether scrapped. Conservative agitation continued to stymie ```
 
 
 
-POSTWAR   ECONOMIC     RECOVERY     centered around public investment in homeownership and the mass consumption it inspired. The 1944 GI Bill’s zero-down home loans, which privileged new construction, lured homeowners into freshly speculated suburbs. Developers flipped rural land into single-family houses, which families filled with a record number of fridges and washing machines, and traveled to and from in a record number of cars.24 As historian Dolores Hayden insists, the built environment of the suburbs kicked off an unending cycle of private consumption and cemented a patriarchal division of labor: women were isolated to cooking, cleaning, and care and made dependent on a husband’s wage.25 Subject to local vetoes and requiring the support of private mortgages, the GI Bill actively subsidized white flight. Real estate professionals capitalized on racist fears that linked the presence of people of color to declining property values through a tactic called “blockbusting.” As one agent boastfully described it, “I specialize in locating blocks which I consider ripe for racial change … I make my money —and quite a lot of it incidentally—in three ways: 1) by beating down the prices I pay the white owners … 2) by selling to the eager Negroes at inflated prices; and 3) by financing these purchases at what amounts to a very high rate of interest.”26 Of course, this process drove further real estate gains: panicked demand for suburban homes. ```
-
+POSTWAR   ECONOMIC     RECOVERY     centered around public investment in homeownership and the mass consumption it inspired. The 1944 GI Bill’s zero-down home loans, which privileged new construction, lured homeowners into freshly speculated suburbs. Developers flipped rural land into single-family houses, which families filled with a record number of fridges and washing machines, and traveled to and from in a record number of cars.24 As historian Dolores Hayden insists, the built environment of the suburbs kicked off an unending cycle of private consumption and cemented a patriarchal division of labor: women were isolated to cooking, cleaning, and care and made dependent on a husband’s wage.25 Subject to local vetoes and requiring the support of private mortgages, the GI Bill actively subsidized white flight. Real estate professionals capitalized on racist fears that linked the presence of people of color to declining property values through a tactic called “blockbusting.” As one agent boastfully described it, “I specialize in locating blocks which I consider ripe for racial change … I make my money —and quite a lot of it incidentally—in three ways: 1) by beating down the prices I pay the white owners … 2) by selling to the eager Negroes at inflated prices; and 3) by financing these purchases at what amounts to a very high rate of interest.”26 Of course, this process drove further real estate gains: panicked demand for suburban homes. 
 ---
 
 ## Page 45
@@ -874,8 +841,7 @@ majority. In less than two decades, more than twenty-seven million white people 
     In the cities, landlords let dwellings crumble. Many were overcrowded,
 black with soot from shoddy furnaces, and lacking running water, toilets, or showers.30 Truman’s 1949 Housing Act had promised more: “a decent home and a suitable living environment for every American family” through 810,000 new public apartments and the eradication of urban slums. But with public housing choked at the local level, cities followed through on only the second of these mandates. The act’s slum clearance provisions expanded local powers of eminent domain, subsidized the acquisition and demolition of land no matter its current use, and introduced a new beneficiary of this process: private enterprise. Residential and commercial developers could claim the land that governments cleared; real estate had won the power not only to contain and gouge urban populations, but to remove them.31
     The displacement of more than a thousand Latinx families from LA’s La
-Loma, Bishop, and Palo Verde, now often called Chavez Ravine, dramatizes this process acutely.32 Those predominantly Mexican American neighborhoods of self-built housing had thrived for decades until the city sought the land. From 1951 to 1959, officials duped residents with undervalued buyouts, condemned their homes as blight, and finally expelled them by force.33 The dispossessions were carried out to clear the site for a ```
-
+Loma, Bishop, and Palo Verde, now often called Chavez Ravine, dramatizes this process acutely.32 Those predominantly Mexican American neighborhoods of self-built housing had thrived for decades until the city sought the land. From 1951 to 1959, officials duped residents with undervalued buyouts, condemned their homes as blight, and finally expelled them by force.33 The dispossessions were carried out to clear the site for a 
 ---
 
 ## Page 46
@@ -889,8 +855,7 @@ Loma, Bishop, and Palo Verde, now often called Chavez Ravine, dramatizes this pr
     From 1949 to 1974, the United States redeveloped over 550 square miles
 of urban land and displaced 300,000 households, up to 1.2 million people.35 A twenty-seven-lane confluence of six different freeways tore through LA’s Boyle Heights. A single interchange, which residents still call the “spaghetti bowl,” pushed out at least 10,000 mostly Latinx people. Across the country, two-thirds of those displaced by blight-and-switch schemes were renters, and 55 percent were Black.36 Housing outcomes subjected Black and Brown people to different forms of exploitation that compounded across time and marked populations as deserving of discrimination; they made race have meaning.37
     Real estate racism fueled the uprisings of the late sixties: Watts, Harlem,
-Newark, and Detroit, most famously, but also Rochester, Philadelphia, Dayton, Atlanta, Buffalo, Kansas City, Pittsburgh, Louisville, Waterloo. Nationwide, 960 cities and towns erupted in open rebellion.38 When President Johnson tasked the Kerner Commission with identifying the root cause of the riots, their final report noted three central themes: poverty, police brutality, and housing. Confirming what many called the “race tax,” housing cost Black people more, but was three times as likely to be both overcrowded and substandard. “White society is deeply implicated in the ghetto,” the authors wrote. “White institutions created it, white institutions maintain it, and white society condones it.”39 The fact had been observed a decade earlier by writer and revolutionary autoworker James Boggs, who compared the ring of absentee ownership that surrounded Black neighborhoods—rent gouging residents and neglecting maintenance—to a white noose.40 And even when the Supreme Court struck down explicit discrimination, the proxies of home size, income, and property value itself preserved the effect.41 ```
-
+Newark, and Detroit, most famously, but also Rochester, Philadelphia, Dayton, Atlanta, Buffalo, Kansas City, Pittsburgh, Louisville, Waterloo. Nationwide, 960 cities and towns erupted in open rebellion.38 When President Johnson tasked the Kerner Commission with identifying the root cause of the riots, their final report noted three central themes: poverty, police brutality, and housing. Confirming what many called the “race tax,” housing cost Black people more, but was three times as likely to be both overcrowded and substandard. “White society is deeply implicated in the ghetto,” the authors wrote. “White institutions created it, white institutions maintain it, and white society condones it.”39 The fact had been observed a decade earlier by writer and revolutionary autoworker James Boggs, who compared the ring of absentee ownership that surrounded Black neighborhoods—rent gouging residents and neglecting maintenance—to a white noose.40 And even when the Supreme Court struck down explicit discrimination, the proxies of home size, income, and property value itself preserved the effect.41 
 ---
 
 ## Page 47
@@ -906,8 +871,7 @@ were also endemic to newly expanding immigrant communities. US- sponsored civil 
     Tenants tried to claw back resources by controlling their rents.
 Mobilizations of the sixties and seventies drew a wave of rent-stabilization ordinances across 170 municipalities, mostly in California and the Northeast. More moderate than controls, stabilization allowed steady rent increases, permanent exemptions for new construction, and loopholes to kick down the cost of repairs, but it was still a victory. These were collective bargaining agreements between landlords and tenants at the city scale.45 “Today we control rent. Tomorrow police, schools, the community!” one Berkeley Black Panther Party pamphlet celebrated. Yet organizing at the scale of the city could not constrain increasingly national and international capital.
 
-BY THE LATE 1970s, the country had sunk into recession, experienced by capital as falling rates of profit and by workers as growing inflation and unemployment. Factories fled unionized cities for southern states and the global south, while automation made workers redundant. The scapegoat for ailing cities was not suburban and capital flight, which had drained public budgets, but the increasingly Black and Brown urban populations who relied on public services.46 Welfare descended into fiscal and legitimacy crises. Riding a “law and order” backlash against sixties activism to power, the Nixon administration cemented a policy paradigm that conflated privatization and punishment. Both austerity and devolution, an offloading of ```
-
+BY THE LATE 1970s, the country had sunk into recession, experienced by capital as falling rates of profit and by workers as growing inflation and unemployment. Factories fled unionized cities for southern states and the global south, while automation made workers redundant. The scapegoat for ailing cities was not suburban and capital flight, which had drained public budgets, but the increasingly Black and Brown urban populations who relied on public services.46 Welfare descended into fiscal and legitimacy crises. Riding a “law and order” backlash against sixties activism to power, the Nixon administration cemented a policy paradigm that conflated privatization and punishment. Both austerity and devolution, an offloading of 
 ---
 
 ## Page 48
@@ -923,8 +887,7 @@ associations would become the institutional basis of a reactionary tax revolt.48
     At the municipal level, debt proved a key bludgeon. With budgets
 constrained by austerity and taxes hollowed out by suburban flight, 1970s cities became more reliant on debt to stay afloat. Like individual homeowners, cities were disciplined by creditors and compelled to enact policies in line with business and real estate interests.51 In New York, bondholders effected a hostile takeover of city governance, installing an unelected board to slash public spending and the wages of unionized, public sector workers—while they used the same workers’ pension funds to backstop their plans.52 Without the countervailing force of factory owners jockeying to keep land and property values down, and with capital on the hunt for more lucrative returns than could be had in productive industries, the stage was set for a transformation of cities into luxury playgrounds and luxury products.
 
-BY THE EIGHTIES, shaped in turns by inflation, tax revolt, racism, and the red scare, Republicans had invented the housing programs that make up the overwhelming bulk of the government response to the housing question today, in which support for tenants ends up benefiting landlords and real estate developers. Through Nixon’s Section 8 housing vouchers, the federal government covers the difference between market rent and a tenant’s ability to pay. Reagan’s convoluted Low Income Housing Tax Credit (LIHTC) subsidizes new development to purportedly produce affordable housing, ```
-
+BY THE EIGHTIES, shaped in turns by inflation, tax revolt, racism, and the red scare, Republicans had invented the housing programs that make up the overwhelming bulk of the government response to the housing question today, in which support for tenants ends up benefiting landlords and real estate developers. Through Nixon’s Section 8 housing vouchers, the federal government covers the difference between market rent and a tenant’s ability to pay. Reagan’s convoluted Low Income Housing Tax Credit (LIHTC) subsidizes new development to purportedly produce affordable housing, 
 ---
 
 ## Page 49
@@ -938,8 +901,7 @@ BY THE EIGHTIES, shaped in turns by inflation, tax revolt, racism, and the red s
     Reagan made a sport of stripping support for the poor. In 1980, before he
 took office, the federal government provided resources that amounted to 22 percent of municipal budgets—resources that helped fund public housing as well as mass transit, hospitals and clinics, and other vital services from which entire regions benefited. By the end of Reagan’s reign, that contribution had shrunk to 6 percent.54 During this period, as part of an attack on all social welfare programs, the Housing and Urban Development budget was slashed by almost 80 percent. Public housing lost funding for even basic maintenance, and the administration installed a total ban on new public housing construction.55 The HUD deputy assistant secretary insisted the government would be “getting out of the housing business. Period.”56 The results were as devastating as they were obvious: the homeless population of the country nearly doubled from 1984 to 1987.57 In 1987, one review of LA’s housing conditions found that 200,000 Latinx people were living in just 42,000 garages, most without plumbing, heat, or windows to the outside.58
     The decline of public housing was timed with the expansion of another
-institution of publicly funded housing for the poor: prisons—public housing as public warehousing. Prisons capture predominantly poor and disproportionately Black and Brown tenants trapped in the vise of low wages, few jobs, and high rents. The US prison system has grown by a factor of six since the 1980s, a process that began after a decline in crime rates.59 The explosive growth of incarceration mirrored rising municipal police budgets, which subjected residents of poor neighborhoods to increased harassment, surveillance, and arrest.60 The effects were (and are) self- ```
-
+institution of publicly funded housing for the poor: prisons—public housing as public warehousing. Prisons capture predominantly poor and disproportionately Black and Brown tenants trapped in the vise of low wages, few jobs, and high rents. The US prison system has grown by a factor of six since the 1980s, a process that began after a decline in crime rates.59 The explosive growth of incarceration mirrored rising municipal police budgets, which subjected residents of poor neighborhoods to increased harassment, surveillance, and arrest.60 The effects were (and are) self- 
 ---
 
 ## Page 50
@@ -953,8 +915,7 @@ institution of publicly funded housing for the poor: prisons—public housing as
     Articulated in 1982 and implemented since the 1990s, “broken windows”
 is a theory of crime as contagion: lower-level offenses will bring higher ones. Like the horticultural metaphor of “urban blight” that figures dilapidation as disease, the theory smears the quality of tenants’ neighborhoods into the character of tenants themselves. It suggests that buildings in poor condition are not evidence of historical segregation and disinvestment—the decisions of landowners and government—but evidence of residents’ criminality.61 The original architects of broken windows policing argued that police should produce not lower crime rates but rather “a sense of safety” and “public order” by eliminating from public space those people who signal its opposite, especially unhoused people.62 The authors explicitly connect “order” to the local business climate.63 Broken windows gave rise to a host of strategies that launder racial profiling as spatial profiling, including “hot spot” and “saturation policing,” as well as area gang injunctions, which granted police so much discretionary power to stop, surveil, ticket, track, and jail that they were eventually declared illegal by the California Supreme Court.64
 
-THE FUSION OF privatization and punishment was eagerly taken up as a mode of governance by Democrats in the Clinton era. The racialized connection between ownership and citizenship, lack of property and pathology, shaped which government expenses were understood as entitlements and which as welfare, as legitimate claims to public resources or as stigmatized handouts. The role of municipal governance continued to shift from providing services to existing residents to growing their economies and expanding their tax bases. Municipalities perform that role by courting new, richer residents as well as real estate speculators.65 Besides a race to the bottom on tax claims, this “urban entrepreneurialism” promotes dumping public land and public assets into private hands and dismantling regulations to seduce investment. ```
-
+THE FUSION OF privatization and punishment was eagerly taken up as a mode of governance by Democrats in the Clinton era. The racialized connection between ownership and citizenship, lack of property and pathology, shaped which government expenses were understood as entitlements and which as welfare, as legitimate claims to public resources or as stigmatized handouts. The role of municipal governance continued to shift from providing services to existing residents to growing their economies and expanding their tax bases. Municipalities perform that role by courting new, richer residents as well as real estate speculators.65 Besides a race to the bottom on tax claims, this “urban entrepreneurialism” promotes dumping public land and public assets into private hands and dismantling regulations to seduce investment. 
 ---
 
 ## Page 51
@@ -968,8 +929,7 @@ THE FUSION OF privatization and punishment was eagerly taken up as a mode of gov
     But profiteering from dwelling space would catch up to undermine even
 the stability of homeownership. Constant inflation of property values exposed the lie at the heart of the American dream. In 1999, Clinton tore down the legal boundaries between banks and high-risk financial speculation, unleashing new financial technologies that could be used to profit from housing. Enormous financial actors, including real estate investment trusts (REITs) like Invitation Homes and asset managers like Blackstone, sought maximum returns by financializing a basic human need.70 By 2007, 75 percent of US residential mortgage debt had been bundled and sold in mortgage-backed securities.71 In the collapse of 2008, those securities went bust, and almost six million households lost their homes to foreclosure or short sale, wiping out $2.5 trillion of wealth, disproportionately from Black and Brown people.72 Then, Wall Street firms expanded their portfolios by capitalizing on the crisis they had caused, pouring an estimated $60 billion into housing grabs.73 Landlords and real estate speculators have crowded out would-be homeowners from starting on the so-called property ladder, and twenty US cities have now shifted from a homeowner to a tenant majority.74
 
-DEVELOPER-IN-CHIEF DONALD TRUMP reflects both a new low and the same- old in real estate rule. His personal and family fortune was made by exploiting government land and housing policy. Trump’s grandfather purchased land in Queens before the state paved roads, funded bridges, and ```
-
+DEVELOPER-IN-CHIEF DONALD TRUMP reflects both a new low and the same- old in real estate rule. His personal and family fortune was made by exploiting government land and housing policy. Trump’s grandfather purchased land in Queens before the state paved roads, funded bridges, and 
 ---
 
 ## Page 52
@@ -985,8 +945,7 @@ effectively captured state power; Sam Stein calls this amalgam “the real estat
 
 AFTER DECADES OF strategic abandonment, speculators have set their sights back on the city. Rich neighborhoods have seen waves of Disneyfication, and poor neighborhoods gentrification. Exploiting the false choice between urban decline and urban renewal, state actors collaborate with real estate speculators to channel capital into historically disinvested neighborhoods, inflating property values and rents. Eased by government incentives from Clinton’s “empowerment zones” to Trump’s “opportunity zones,” global finance has migrated into precisely those neighborhoods where poor and working-class people had been stuck.
     Just as the creation of the suburbs relied on collaboration between real
-estate and the state to create uneven, racialized space, so does contemporary gentrification—a “back to the city movement by capital,” as geographer Neil Smith famously called it.78 Gentrification does not revitalize urban neighborhoods, but eliminates poor and working-class people’s material and symbolic ways of life. Like the widespread practice of arson in the 1970s, ```
-
+estate and the state to create uneven, racialized space, so does contemporary gentrification—a “back to the city movement by capital,” as geographer Neil Smith famously called it.78 Gentrification does not revitalize urban neighborhoods, but eliminates poor and working-class people’s material and symbolic ways of life. Like the widespread practice of arson in the 1970s, 
 ---
 
 ## Page 53
@@ -1004,8 +963,7 @@ POLICE PLAY A central role in facilitating urban land grabs and inflating proper
      Police also help facilitate the removal of people and the acquisition of
 housing for real estate gains. Nuisance laws allow police and city attorneys to target individual tenants by serving private landlords with demands to evict. In LA, tenants—predominantly poor, Black, and Brown tenants—are banished from blocks and entire neighborhoods, typically in newly gentrifying areas, based on testimony from police officers alone.86
      In 2020, speculative policing resulted in the police execution of Breonna
-Taylor in Louisville, Kentucky. Taylor’s ex-boyfriend, Jamarcus Glover, had rented a home at the center of a planned multimillion-dollar redevelopment initiative, for which Louisville officials had courted private investment with public subsidy. Deploying nuisance violations was part of the city’s strategy ```
-
+Taylor in Louisville, Kentucky. Taylor’s ex-boyfriend, Jamarcus Glover, had rented a home at the center of a planned multimillion-dollar redevelopment initiative, for which Louisville officials had courted private investment with public subsidy. Deploying nuisance violations was part of the city’s strategy 
 ---
 
 ## Page 54
@@ -1019,8 +977,7 @@ Taylor in Louisville, Kentucky. Taylor’s ex-boyfriend, Jamarcus Glover, had re
 
 INSTITUTIONALIZING RACISM, ANTICOMMUNISM, and real estate greed, the state has chosen a side in the class war. Consider the two axes of current housing governance: individual homeownership on the one hand and mass incarceration on the other. Both should be considered publicly financed housing: one costs us $193 billion in subsidies; the other $182 billion in public debt and tax dollars.88 But while one produces intergenerational wealth, the other erects barriers to employment and traps us in cycles of poverty and predation; while one christens upstanding “stakeholders” with full citizenship, the other brands the disenfranchised as “transients,” deserving of punishment. And both cost at least three times what the government spends to support tenants.89
     Promoting the private market as the solution to the social question of
-shelter has delegitimized the needs of poor and working-class, particularly Black and Brown, tenants and empowered landlords to draw profit from their continued immiseration. Rather than control rent with regulation or public competition, the state, under the thumb of the real estate industry, hands over tax dollars to landlords and developers. Trading public provision for private partnerships, regulations for market incentives, the US has ```
-
+shelter has delegitimized the needs of poor and working-class, particularly Black and Brown, tenants and empowered landlords to draw profit from their continued immiseration. Rather than control rent with regulation or public competition, the state, under the thumb of the real estate industry, hands over tax dollars to landlords and developers. Trading public provision for private partnerships, regulations for market incentives, the US has 
 ---
 
 ## Page 55
@@ -1039,8 +996,7 @@ As tenants we live in the accumulated wreckage of this long war—the results of
     The word comrade entered the English language as the word for
 “roommate,” naming those who lacked resources for privacy and came to share space—with strangers, friends, and lovers, all bound by the intimacy of having to pay rent.90 But the shared proximity and vulnerability of tenancy— the exploitation and domination of rent—does not necessarily impel us to organize. We have to make an active effort. The rest of this book is devoted to that uphill battle. We describe concrete tenant struggles: direct, local conflicts that challenge the power of landlords and the real estate state. In so doing, these conflicts trace a future housing system governed not by individuated, asset-based welfare or repression and containment, but by collective self-determination and community control.
 
-ON DECEMBER 3, 2023, nearly one thousand members of LATU took to the streets of Koreatown. Claiming the intersection of Vermont and Olympic, organizers played excerpts of the leaked LA City Council tape over a megaphone: the councilmembers’ racist remarks about their own constituents ```
-
+ON DECEMBER 3, 2023, nearly one thousand members of LATU took to the streets of Koreatown. Claiming the intersection of Vermont and Olympic, organizers played excerpts of the leaked LA City Council tape over a megaphone: the councilmembers’ racist remarks about their own constituents 
 ---
 
 ## Page 56
@@ -1079,8 +1035,7 @@ ON DECEMBER 3, 2023, nearly one thousand members of LATU took to the streets of 
 
 We’ve heard the story quite a few times over the course of our organizing. It’s a tenant’s first night on rent strike, and what they’re shocked by most of all is that nothing, really, occurs. The building doesn’t crumble around them. Their keys still open the locks. The roof remains above their heads. Their home, though they have not paid for it, persists. Their surprise is telling. Every night before this one, their ability to have shelter depended on a payment to their landlord—that monthly tribute we call rent. We often hear of the lengths to which our union’s members will go to ensure that this payment is made: they will forgo food, medication, or basic necessities; secure a pay- day loan or borrow from individuals at extortionate interest; pawn their tools, instruments, valuables; pick up extra shifts, or even second and third jobs. Many of our members have already experienced eviction, have doubled up with family, stayed in cars, or pitched tents in public space. Rent is a constant burden and fear, one that installs itself in the places we live, one that makes the consequences of not paying feel as dramatic as a building’s collapse. Sometimes, it’s only after tenants decide to withhold rent on purpose that the absurdity of rent becomes clear.
 
-PERHAPS NO OTHER experience can provide us with the same insight into the parasitic role of landlords and the power of collective action than withholding rent in coordination with our neighbors. Rent strikes lay claim to housing as a human right—to shelter, no matter tenants’ ability or willingness to pay for it. Yes, this claim is temporary: the rent strikes we’ve organized ```
-
+PERHAPS NO OTHER experience can provide us with the same insight into the parasitic role of landlords and the power of collective action than withholding rent in coordination with our neighbors. Rent strikes lay claim to housing as a human right—to shelter, no matter tenants’ ability or willingness to pay for it. Yes, this claim is temporary: the rent strikes we’ve organized 
 ---
 
 ## Page 58
@@ -1096,8 +1051,7 @@ militancy, a weapon with the power to push back against everyday exploitation an
     Of course, we know the struggle for a just housing system isn’t won when
 a single landlord backs down. A single rent strike will not abolish rent. Yet rent strikes, besides extracting concessions, build lasting organizations for poor and working-class people to fight back against the exploitation and domination of rent long-term. Each rent strike builds new competencies, from collective decision-making, to escalation tactics, to negotiation techniques. Each rent strike produces long-term relationships, shaped by the experience of collective struggle. Each rent strike both tests and builds our capacity. Each rent strike develops the power of tenants as political subjects. A bridge between the utopian future we want and the practical capacities we need to get there, each rent strike is a step forward in realizing the seemingly impossible—a world without landlords, a world without rent.
     Though withholding rent has put their housing in jeopardy, tenants on rent
-strike often feel a stronger sense of ownership over that housing than they’ve ever felt before. Rent strikes are a means and guide us toward the ends of our work. One way to envision rent abolition is as an extension of a rent strike. Our task is to grow the power of our movement enough to make rent strikes general and—finally—permanent. This would demand a phase of struggle that has yet to come: a coordinated rent strike not isolated in one building, but across a city, even nationwide. This is the kind of power we would need to begin to transform property relations as well as the state that guarantees ```
-
+strike often feel a stronger sense of ownership over that housing than they’ve ever felt before. Rent strikes are a means and guide us toward the ends of our work. One way to envision rent abolition is as an extension of a rent strike. Our task is to grow the power of our movement enough to make rent strikes general and—finally—permanent. This would demand a phase of struggle that has yet to come: a coordinated rent strike not isolated in one building, but across a city, even nationwide. This is the kind of power we would need to begin to transform property relations as well as the state that guarantees 
 ---
 
 ## Page 59
@@ -1116,8 +1070,7 @@ case—as unprecedented as it is unlikely. A building of working-class immigrant
 inaction: the building-wide withholding of rent. It reflects a common response to a tenant’s first experience of injustice: in the face of a rent increase, a leak, or landlord harassment, we’re overwhelmed by the instinct to revolt, react, and simply not pay rent. What are we paying for, anyway? Why should we have to pay at all? This righteous anger, the will to refuse, usually stomped out by necessity and habit, is as present as our fear.
 
 
-Aquí queremos vivir: Los Mariachis de Union de Vecinos ```
-
+Aquí queremos vivir: Los Mariachis de Union de Vecinos 
 ---
 
 ## Page 60
@@ -1131,8 +1084,7 @@ Aquí queremos vivir: Los Mariachis de Union de Vecinos ```
     Residents of Boyle Heights have fought state-sanctioned displacement in
 every decade of the neighborhood’s history. They fought against the Mexican repatriation campaigns of the 1930s; against the forced internment of Japanese immigrants in the 1940s; against the urban renewal projects of the 1960s, when freeway construction displaced ten thousand residents and took over more than 12 percent of neighborhood land.1 In the 1990s, public housing tenants organized against Clinton’s HOPE VI “revitalization” program, which demolished their homes and displaced over one thousand families.2 In the 2000s, residents began to fight gentrification—a displacement project as much produced by government policy as those from decades before.3 Relying on tax incentives, rezonings, LA Metro’s expansion, and ballooning LAPD patrols, real estate speculators had converged on Boyle Heights—they’d even lobbied to launder bonuses through an Arts District designation. Over twenty years, property values tripled and median rents doubled, pushing out poor and working-class tenants who had called Boyle Heights home for their whole lives.4 In their gentrifying neighborhood, where the powers of policy and policing underwrite developer greed, the Second Street tenants had a target on their backs.
     In the building’s hallways and parking lot, next to its trash cans, out on
-the street, Alejandro Juárez asked his neighbors if they’d received rent increase notices. A few had. More worried they’d be next. Juárez had heard about the LA Tenants Union from a family member and asked his neighbors to ```
-
+the street, Alejandro Juárez asked his neighbors if they’d received rent increase notices. A few had. More worried they’d be next. Juárez had heard about the LA Tenants Union from a family member and asked his neighbors to 
 ---
 
 ## Page 61
@@ -1146,8 +1098,7 @@ the street, Alejandro Juárez asked his neighbors if they’d received rent incr
     This story was not unique: that same year, Juárez learned, the Hollins
 Tenants Association had been targeted for removal by a landlord who’d named “white artists” as his desired tenants, but they also fought back and protected twenty homes. And the twenty-eight households of the Michigan Heights Tenants Association had successfully fought for eight months against 40 percent rent increases—in a non-rent-stabilized building like Juárez’s own. Refusing to pay the increases and submitting only their original rent, they forced their landlord to the bargaining table and won a two-year contract for guaranteed repairs and rents they could afford. In each case, tenants organizing with the union had been able to temper the despotic control of landlords and developers over their neighborhood and claim some measure for themselves.
     LATU organizer Elizabeth Blaney invited Juárez to host a building
-meeting in the Eastside Local’s Union de Vecinos office that week. He wasn’t sure what to expect when he made the invitation. As his neighbor Isabel (Isa) Ramirez, a food service and domestic worker, said later, the tenants didn’t know a thing about each other before the meeting, “not even each other’s names.”7 But seventeen tenants turned out. Most of them had lived in the building for over a decade and could see the ring tightening around Boyle Heights; land and business owners were squeezing out the infrastructure residents relied on. A luxury development had replaced homes where they’d gathered with friends. New restaurants had opened with menus written only ```
-
+meeting in the Eastside Local’s Union de Vecinos office that week. He wasn’t sure what to expect when he made the invitation. As his neighbor Isabel (Isa) Ramirez, a food service and domestic worker, said later, the tenants didn’t know a thing about each other before the meeting, “not even each other’s names.”7 But seventeen tenants turned out. Most of them had lived in the building for over a decade and could see the ring tightening around Boyle Heights; land and business owners were squeezing out the infrastructure residents relied on. A luxury development had replaced homes where they’d gathered with friends. New restaurants had opened with menus written only 
 ---
 
 ## Page 62
@@ -1161,8 +1112,7 @@ meeting in the Eastside Local’s Union de Vecinos office that week. He wasn’t
      The tenants introduced themselves and began to take stock. That fall,
 they’d all received word that their building would be changing hands. Just after New Year’s in 2017, seven out of the twenty-four apartments had received official notices that rents would be going up. Before they could organize, they had to realize they weren’t alone. The tenants opened up about the building’s role in their lives. Melissa (Meli) Reyes wanted stability for her aging mother Gloria and to see her younger brother finish school undisturbed. Actor Francisco Gonzalez relied on his proximity to the Metro Gold Line to commute to auditions. Brothers Luis and Enrique Valdivia, whose rent increase was the highest in the group, at $800 a month, had shared an apartment in the building for more than twenty years. The Valdivias, like a full third of the building’s residents, were mariachi musicians, who relied on Mariachi Plaza to pick up work, an almost century-long tradition that gave the plaza its name. For the mariachis, to lose their home would also mean to lose their livelihood. At the end of the meeting, the tenants went around in a circle, one by one. Would they commit to organizing together? Would they fight to stay in their homes? Every tenant said yes.
      A Craigslist ad for an apartment in their building animated their
-commitment to each other. The “affordable luxury apartment” in the listing’s photos was renovated with distressed-wood floors and pristine white walls and staged with mid-century-modern furniture. Figuring Boyle Heights as a place to leave rather than a place to live, the ad called the neighborhood “an ideal location for commuters … minutes from Downtown.” It even rebranded the building with a new name: “Mariachi Crossing.” The new landlord, Melissa Reyes put it later, was “trying to make money under the name of the mariachis, at the same time he was displacing mariachis,” leveraging the neighborhood’s past to erase its present.8 Taking on both the community’s iconography and the position of the most vulnerable members of their association, the tenants began referring to themselves as Los Mariachis de Union de Vecinos. The people who gave the neighborhood its culture would not willingly be displaced. ```
-
+commitment to each other. The “affordable luxury apartment” in the listing’s photos was renovated with distressed-wood floors and pristine white walls and staged with mid-century-modern furniture. Figuring Boyle Heights as a place to leave rather than a place to live, the ad called the neighborhood “an ideal location for commuters … minutes from Downtown.” It even rebranded the building with a new name: “Mariachi Crossing.” The new landlord, Melissa Reyes put it later, was “trying to make money under the name of the mariachis, at the same time he was displacing mariachis,” leveraging the neighborhood’s past to erase its present.8 Taking on both the community’s iconography and the position of the most vulnerable members of their association, the tenants began referring to themselves as Los Mariachis de Union de Vecinos. The people who gave the neighborhood its culture would not willingly be displaced. 
 ---
 
 ## Page 63
@@ -1178,8 +1128,7 @@ meeting with the property manager. In the notices they’d received, the landlor
      The new landlord wanted to use raised rents to cover his purchase price
 —his speculative investment—not better living conditions and hid his identity under an LLC. No one even knew his real name, yet he had the power to determine who could and could not continue to live in homes they’d lived in for decades. Members of the LATU Local understood the assignment: track down his identity. They searched public records, Google, and Facebook across a chain of LLCs. They collected a list of physical addresses and paid each one an in-person visit. Even Blaney’s daughter got involved; for a few days, she posed as if selling chocolates door-to-door. Finally, they connected the building to its owner, Frank “BJ” Turner. Putting a face and a name on the landlord turned the struggle against an impersonal process of gentrification into a struggle against a would-be evictor, who could no longer hide from personal responsibility for—and personal benefit from—the tenants’ removal.
      A solicitation deck for Dunleer Investments, founded by Turner,
-confirmed they’d found their target.9 It listed key features of their building to entice investors: it was “non-rent controlled” (a phrase both underlined and italicized), in a neighborhood “slated for new ‘metro-centric’ development,” and had a projected rate of return of 20 percent. The deck promised potential clients access to a “rapidly gentrifying” submarket—a self-fulfilling prophecy of speculation—and identified not just asking rents for the property, ```
-
+confirmed they’d found their target.9 It listed key features of their building to entice investors: it was “non-rent controlled” (a phrase both underlined and italicized), in a neighborhood “slated for new ‘metro-centric’ development,” and had a projected rate of return of 20 percent. The deck promised potential clients access to a “rapidly gentrifying” submarket—a self-fulfilling prophecy of speculation—and identified not just asking rents for the property, 
 ---
 
 ## Page 64
@@ -1195,8 +1144,7 @@ letterhead, announcing that they’d formed an association and had the support o
      The association responded to his silence by getting louder. They
 decorated their building with posters and collages, papering over the facade. “20 years living here 80% rent hike,” read one; “$800 más por mes es irrazonable”’ read another. One sign pictured a cartoon of a smiling, blond- haired Turner kicking three mariachi musicians to the curb. They hung the LATU banner across the parking lot: “Where will you go when you can’t afford your neighborhood? Why not fight to stay?” Making the art helped build relationships for an afternoon; living with that art re-signified their homes as sites of political struggle. The art became “part of where I live, and where I continue to live,” Ramirez said.11
      On April 1, the group held a press conference and celebration in
-Mariachi Plaza, calling on the community for support. In a gesture that would become a signature throughout their struggle, the resident musicians dressed in mariachi regalia—embroidered suits and matching sombreros—and played music for the crowd. Their next action was more aggressive: the Mariachis played at the property manager’s office. ```
-
+Mariachi Plaza, calling on the community for support. In a gesture that would become a signature throughout their struggle, the resident musicians dressed in mariachi regalia—embroidered suits and matching sombreros—and played music for the crowd. Their next action was more aggressive: the Mariachis played at the property manager’s office. 
 ---
 
 ## Page 65
@@ -1212,8 +1160,7 @@ housing department, elected officials’ constituent services, or LA’s few, ov
 
 “EVERYTHING IS LEGAL,” Francisco Gonzalez told Marketplace about his and the group’s perspective at first. “This is gonna be the new norm, and that’s it.”12 The insufficiency of tenants’ legal protections is often presented as a reality we have no choice but to accept, as if legal rights dictate the sum total of what’s possible to achieve. Under current law, tenants’ rights are framed in the negative, as carve-outs that establish the limits of what landlords can do, infringements on a landlord’s property rights, not protections for preserving a tenant’s human need.
      But as they continued to meet, the Mariachi tenants came to understand
-rights not as upper limits but as instruments. “Tenants’ rights” became ingredients in the organizing adage of “turning what you have into what you need to get what you want.” The association learned about California’s protections for undocumented people, which prevent landlords from turning over information on immigration status. “I learned that even though I don’t have papers, I have rights,” one member of the association said. They learned about the First Amendment right to organize and California’s statutes against retaliation for organizing, which make tenants associations not only legal, but a strategic form of protection in court. They learned about the ```
-
+rights not as upper limits but as instruments. “Tenants’ rights” became ingredients in the organizing adage of “turning what you have into what you need to get what you want.” The association learned about California’s protections for undocumented people, which prevent landlords from turning over information on immigration status. “I learned that even though I don’t have papers, I have rights,” one member of the association said. They learned about the First Amendment right to organize and California’s statutes against retaliation for organizing, which make tenants associations not only legal, but a strategic form of protection in court. They learned about the 
 ---
 
 ## Page 66
@@ -1229,8 +1176,7 @@ rights not as upper limits but as instruments. “Tenants’ rights” became in
     What if they withheld rent? Blaney had raised the idea of a rent strike
 before, but the association had wanted to wait. They tried communicating with the landlord. They tried protest. They even submitted a letter from the councilmember representing their district, who encouraged the landlord to negotiate. But since none of those things got the landlord’s attention, maybe an impact on his pocketbook would. Sure, they could lose their housing. But for many of the tenants who’d received rent increases, those notices were no different from evictions, anyway. If they paid just their original rent, they’d already be at risk. For those tenants, the decision was clear. On June 1, 2017, they stopped paying rent. “At this point,” Gonzalez said, “there’s nothing else we can lose.”14
 
-THE STRIKE HAS long been a weapon of the poor and the working class. Just as withholding labor upends the power relation between worker and boss, withholding rent upends the power relation between tenant and landlord. Strikes reverse and reveal relations of dependence: rather than the worker depending on the boss for a wage, the boss depends on the worker to produce profit; rather than the tenant depending on the landlord for housing, the landlord depends on the tenant to extract rent. Strikes are not symbolic ```
-
+THE STRIKE HAS long been a weapon of the poor and the working class. Just as withholding labor upends the power relation between worker and boss, withholding rent upends the power relation between tenant and landlord. Strikes reverse and reveal relations of dependence: rather than the worker depending on the boss for a wage, the boss depends on the worker to produce profit; rather than the tenant depending on the landlord for housing, the landlord depends on the tenant to extract rent. Strikes are not symbolic 
 ---
 
 ## Page 67
@@ -1246,8 +1192,7 @@ century. In the Great Rent Wars of the early 1900s, ten thousand Jewish immigran
      As we see in how our landlords treat us and neglect our apartments, the
 laws that govern evictions, leases, and building codes are only as good as they are enforced—mostly, they’re ignored. Rent strikes can act as collective enforcement for rights we have and even win us those we don’t. But rent strikes have fallen out of our arsenal, suppressed by the red scare, diffused by working-class disorganization, and discouraged by the professionalization of expected agents of social change. To revive the rent strike demands that we reorder our beliefs about what is possible and who can bring it about. It is to take a leap of faith grounded in a sense of political agency: that tenants themselves can be, must be, the ones to fight for ourselves.
      The mariachi tenants who received rent increases had begun to withhold
-their rent. But what if all the tenants in the building did? It would take more than twice the number of individual eviction cases to get rid of them. In the meantime, the landlord would lose more than twice the rent. But would other tenants be willing to take the same risk? Though they shared a landlord, not every tenant shared the same willingness to fight; not every tenant was a musician for whom the loss of home was bound to loss of work; not every ```
-
+their rent. But what if all the tenants in the building did? It would take more than twice the number of individual eviction cases to get rid of them. In the meantime, the landlord would lose more than twice the rent. But would other tenants be willing to take the same risk? Though they shared a landlord, not every tenant shared the same willingness to fight; not every tenant was a musician for whom the loss of home was bound to loss of work; not every 
 ---
 
 ## Page 68
@@ -1263,8 +1208,7 @@ concerns with accurate information: You can’t be tossed out of your home witho
      A few tenants had reservations about “making trouble,” as Ramirez
 characterized one of her own fears. She had always considered it a virtue to be polite, and engaging in direct confrontation with her landlord felt like a betrayal of her values. But conflict, the group reminded each other, had been the one to knock on their door. Another doubt was assuaged by hearing about the strategy of a rent strike from their peers. Was it more than a theory or a hypothetical, something people could actually do? Representatives from the Michigan Tenants Association made a trip to their building to share the details of their struggle. The tenants heard the idea of a rent strike not just from organizers who said it could work, but from tenants like them for whom it already had.
      After a month of group meetings, one-on-ones, potlucks, and bake sales,
-the association doubled the number of strike participants. For the strikers who hadn’t received increases, participation was based on both solidarity and self-interest, and the promise of concert between the two. “In solidarity with the others, we said they’re coming for us next, and we stood with our neighbors,” as Jose Sanchez, one of the solidarity strikers, told LA Taco.18 At the end of June, the association held a meeting and went around one by one in ```
-
+the association doubled the number of strike participants. For the strikers who hadn’t received increases, participation was based on both solidarity and self-interest, and the promise of concert between the two. “In solidarity with the others, we said they’re coming for us next, and we stood with our neighbors,” as Jose Sanchez, one of the solidarity strikers, told LA Taco.18 At the end of June, the association held a meeting and went around one by one in 
 ---
 
 ## Page 69
@@ -1278,8 +1222,7 @@ the association doubled the number of strike participants. For the strikers who 
 
 A RENT STRIKE both exercises and builds power, using the two central tools tenants have at their disposal: solidarity and rent checks. One tenant’s inability to pay is not a strike. What makes a rent strike a strike is consciousness and coordination. This is clear from the Mariachis’ collective action: Those who couldn’t pay and those who could decided to join together, organizing to withhold a majority of the rent roll for the building. The association turned withholding rent into a ritual, turning over their rent checks or money orders to be stored by the union each month. Collecting the checks helped visualize the money they held as leverage, measured individual accountability, and asserted their commitment to the strike. Knowing unity was essential, the association made decisions by consensus. “In itself, we haven’t had a leader within the group,” Ramirez explained. “All of us are one group, all of us have to give our opinion, and what we think. All of us say, all of us vote, all of us decide.”19 Their economic leverage would have been impossible without the relationships they built as equal participants in their association—and as neighbors.
     Underneath political agency there is communal life. The association met
-every Thursday, sharing reservations as well as excitement—and a lot of food. Ramirez talked about the ritual of going to meetings and marches, which shaped her time and her understanding of her housing. At first she thought, “He’s a millionaire. He can kick us out. He’s gonna have the better lawyers. He’s got money.” Then she would remember, “We’re a group, and if we continue supporting each other, we’re going to go forward.”20 The strength of her association was manifest not only in its ability to assert demands, but in its power to create relationships of trust, mutual aid, care, and support. Ramirez didn’t remember signing the strike agreement; she ```
-
+every Thursday, sharing reservations as well as excitement—and a lot of food. Ramirez talked about the ritual of going to meetings and marches, which shaped her time and her understanding of her housing. At first she thought, “He’s a millionaire. He can kick us out. He’s gonna have the better lawyers. He’s got money.” Then she would remember, “We’re a group, and if we continue supporting each other, we’re going to go forward.”20 The strength of her association was manifest not only in its ability to assert demands, but in its power to create relationships of trust, mutual aid, care, and support. Ramirez didn’t remember signing the strike agreement; she 
 ---
 
 ## Page 70
@@ -1297,8 +1240,7 @@ Tenants Union, Los Mariachis built on the expertise of tenants in their own comm
      The landlord responded to their show of solidarity by offering individual
 deals. Irma Aguilar was offered two months’ free rent and $2,000 cash to leave. The tenants held a meeting to think through the offers. To some, the offers they’d received sounded like windfalls. But when they calculated moving costs and looked at rents elsewhere, they realized accepting the money would mean relocating not to another apartment in the neighborhood but to another city or even another state. “It’s a strategy,” Irma Aguilar told LA Weekly. “The owner wants to peel us off in small groups over time, rather than all at once.”22 They could proceed as individuals to an end known in advance, or they could stick together and see what else there was to gain.
      But for the organizing to work, the tenants had to hold off their landlord
-in court. The eviction process had begun. Blaney stressed that attorneys Tyler ```
-
+in court. The eviction process had begun. Blaney stressed that attorneys Tyler 
 ---
 
 ## Page 71
@@ -1312,8 +1254,7 @@ in court. The eviction process had begun. Blaney stressed that attorneys Tyler `
     Seizing the campaign to secure their own housing put the tenants in
 control of the physical space of their building as well. In July 2017, two members of the association, a couple who had signed on to the strike as solidarity strikers, were awarded an apartment from a city lottery: an extremely rare chance for steeply subsidized housing, with rents at $400. Given Karen’s health, the rent would mean more resources for her care. They called an emergency meeting in their apartment and the group made a collective decision. Rather than hand the keys over to their landlord and weaken the strike, they would give them to the association—and continue to assume the economic responsibility of the strike. The association turned the vacant apartment into a common space, used for meetings, art making, shared meals, and parties. Taking over the apartment demonstrated a key aspect of their fight: a rent strike is an occupation by another name—a temporary claim of the housing we live in as the housing we need and deserve.
     In June, the landlord had agreed to meet with tenants, but only as
-individuals, and not at their apartment building, but at an undisclosed hotel. He also demanded the tenants submit to security checks and bring IDs. For the Latinx tenants, some of whom were undocumented, “the conditions were racist,” Elizabeth Blaney said.24 The association refused the meetings, recognizing the request as a tactic to pit tenants against each other and lure them out one by one. The property management company continued their own pressure campaign: ignoring maintenance requests and enforcing strict rules around guests and parking spaces. ```
-
+individuals, and not at their apartment building, but at an undisclosed hotel. He also demanded the tenants submit to security checks and bring IDs. For the Latinx tenants, some of whom were undocumented, “the conditions were racist,” Elizabeth Blaney said.24 The association refused the meetings, recognizing the request as a tactic to pit tenants against each other and lure them out one by one. The property management company continued their own pressure campaign: ignoring maintenance requests and enforcing strict rules around guests and parking spaces. 
 ---
 
 ## Page 72
@@ -1329,8 +1270,7 @@ come to his senses. They relied on social and political pressure as well. Beyond
 
 THE LANDLORD’S CONTINUED intransigence inspired direct confrontation. By late summer, the association stepped up their offense. They coordinated an online action to flood the landlord’s social media with comments; Turner deleted his accounts. Then they organized a protest in front of the landlord’s home in Rancho Park, fourteen miles away from their own neighborhood. The distance made literal the relationship of dependency of rich neighborhoods on poor ones, the wealth extracted from the city that circulates in the suburbs. “We needed to go to his neighborhood, to his house, to bring the fight to his front door,” Blaney said. “In eleven months he didn’t want to show his face. He didn’t want to talk to the tenants that he was trying to force out.”28 LLCs offer landlords anonymity and a shield from accountability beyond a geographic divide. The apparatus of the courts helps establish polite distance between the dirty work of eviction and a landlord’s private life. But eviction is personal for us; it should be personal for our landlords, too.
      On a weeknight in September 2017, the tenants and almost a hundred
-supporters gathered in front of the landlord’s front door. They chanted “Housing is a human right, not just for the rich and white,” talked about their connection to their own homes, and enjoyed spiced hot cocoa and pan dulce a few of the residents had brought to share. They knocked on doors surrounding Turner’s building, handed out flyers—“Do you know your ```
-
+supporters gathered in front of the landlord’s front door. They chanted “Housing is a human right, not just for the rich and white,” talked about their connection to their own homes, and enjoyed spiced hot cocoa and pan dulce a few of the residents had brought to share. They knocked on doors surrounding Turner’s building, handed out flyers—“Do you know your 
 ---
 
 ## Page 73
@@ -1348,8 +1288,7 @@ transformed the balance of power. They’d stalled the landlord in court. They�
     The group turned to forming consensus on the terms of an agreement they
 would accept. That process reflected the internal culture of tenant democracy built throughout the strike. Lawyers on either side traded proposals and counterproposals for the bargaining agreements—removing a gag order and limitations on future protest were key sticking points.
     Unsatisfied with their landlord’s offers, the tenants returned to Rancho
-Park in December 2017. That action made a direct connection between the displacement of poor and working-class tenants and the rise of homelessness in LA. As night fell, protesters from LATU and DSA-LA set up a small group of tents on a strip of sidewalk just beyond Turner’s home. “Tomorrow we ```
-
+Park in December 2017. That action made a direct connection between the displacement of poor and working-class tenants and the rise of homelessness in LA. As night fell, protesters from LATU and DSA-LA set up a small group of tents on a strip of sidewalk just beyond Turner’s home. “Tomorrow we 
 ---
 
 ## Page 74
@@ -1363,8 +1302,7 @@ Park in December 2017. That action made a direct connection between the displace
      The trial for the eviction of Gloria Reyes, Melissa’s mom, was the first
 court date set. But jury selection never occurred. On February 12, 2018, after more than a year of struggle, the tenants and the landlord signed a collective bargaining agreement—the first of its kind in LA history. The agreement canceled six months of withheld rent, brought the original average increase down to under a quarter of the landlord’s original demand, capped yearly future increases at 5 percent, and included a guarantee that the landlord would make all requested repairs or was not entitled to collect rent. The contract recognized the tenants’ right to form an association and to bargain collectively for this and each subsequent lease. Through a yearlong rent strike, direct actions that brought the struggle to where their landlord lived, and broad community support, the tenants won an equivalent of rent control for their building, an enforcement mechanism for maintenance, and the right to negotiate their contract collectively thereafter.
 
-“TODAY, GENTRIFICATION IS not inevitable,” Blaney announced at the celebration, where tenants ate, danced, and mariachis played. “It feels glorified,” Francisco Gonzalez said. “By being organized, by working together, you can get some power.”31 When she first saw the rent increase notice, Reyes explained, the risks of losing their home seemed more familiar than the risks of fighting for it. She recalled the fear but also the thrill of experimentation that had characterized their fight. “We felt like we were making it up at some level. Sometimes we didn’t know if the things we were doing were gonna generate something. There were no guarantees.”32 Practiced in facing the unknown together, Los Mariachis began a second strike when the pandemic hit. Bolstered by LATU’s citywide “Food Not ```
-
+“TODAY, GENTRIFICATION IS not inevitable,” Blaney announced at the celebration, where tenants ate, danced, and mariachis played. “It feels glorified,” Francisco Gonzalez said. “By being organized, by working together, you can get some power.”31 When she first saw the rent increase notice, Reyes explained, the risks of losing their home seemed more familiar than the risks of fighting for it. She recalled the fear but also the thrill of experimentation that had characterized their fight. “We felt like we were making it up at some level. Sometimes we didn’t know if the things we were doing were gonna generate something. There were no guarantees.”32 Practiced in facing the unknown together, Los Mariachis began a second strike when the pandemic hit. Bolstered by LATU’s citywide “Food Not 
 ---
 
 ## Page 75
@@ -1408,8 +1346,7 @@ of Boyle Heights and their right to share in that value. Relying on legal suppor
 
 The first la Tenants Union meeting was a “renter’s rights workshop.” Soon, we realized, all three parts of that framework had to go. “Renter,” because we had to broaden our understanding of the populations who live in antagonism to rent, including people who live outside. “Workshop,” because we couldn’t just offer resources to individual tenants and send them on their way. “Rights,” because what few tenants had weren’t easy to use and didn’t stop landlords from acting otherwise. And the right we want to win, the human right to housing, will take another kind of housing system, another kind of state, and another kind of world. The tenants union is the vehicle to move toward that world now. If tenants want to change our material conditions we have to change the power relations that keep those conditions in place. We need power ourselves.
     How could we build a world in which tenants could claim housing as a
-right? We’re often told that politics begins and ends with legislation. Politics is what happens in city council, in the state capitol, or in the White House. In this dominant view, politics is synonymous with policy. To intervene in power relations between us and our landlords, we’re told that we should leverage their mediator, the state. We should express our preferences with our votes, naming people to represent our interests in the halls of government, where policy is made. Between elections, we should gather constituencies to pressure those individuals. In this view, the state—not our landlords—should be the object of our collective justice work. ```
-
+right? We’re often told that politics begins and ends with legislation. Politics is what happens in city council, in the state capitol, or in the White House. In this dominant view, politics is synonymous with policy. To intervene in power relations between us and our landlords, we’re told that we should leverage their mediator, the state. We should express our preferences with our votes, naming people to represent our interests in the halls of government, where policy is made. Between elections, we should gather constituencies to pressure those individuals. In this view, the state—not our landlords—should be the object of our collective justice work. 
 ---
 
 ## Page 77
@@ -1425,8 +1362,7 @@ landlords. Policy reflects and congeals class power; it is a tool for class war.
     We don’t need the annual scandal of politicians accepting real estate
 bribes to see the influence of the industry on our laws. Our rent checks fund the real estate lobby that organizes against us. The National Association of Realtors claim a top spot among spenders on federal lobbying each year. The California Association of Realtors is the second-largest donor to the state’s Democratic Party. Landlord “stakeholders” claim their property taxes are their contributions to the public good, but it is we who pay our landlords’ property taxes. Despite a demographic majority in many cities, tenants make up a tiny minority of elected officials, representatives, and judges. In the California state legislature, out of 120 representatives, only 5 are tenants, and more than a fourth are landlords.1 Undocumented tenants have even less power, barred from deciding the laws that govern their lives. Unhoused tenants face immense barriers to civic participation; to register to vote demands a permanent address. Some incarcerated and formerly incarcerated tenants are denied the franchise altogether.
     When tenants win rights enshrined by legislation, it’s because we’ve
-fought our landlords. The mass rent strikes in New York’s Lower East Side tenements brought us building codes that mandate basic habitability standards, the requirement of a court process to legally evict, and the country’s first rent controls.2 During World War II, militant tenants physically blocked evictions and inspired national protections against price gouging in the form of rent control. The tenant movement of the 1960s and ’70s, including an intrepid squatters movement that laid claim to abandoned ```
-
+fought our landlords. The mass rent strikes in New York’s Lower East Side tenements brought us building codes that mandate basic habitability standards, the requirement of a court process to legally evict, and the country’s first rent controls.2 During World War II, militant tenants physically blocked evictions and inspired national protections against price gouging in the form of rent control. The tenant movement of the 1960s and ’70s, including an intrepid squatters movement that laid claim to abandoned 
 ---
 
 ## Page 78
@@ -1442,8 +1378,7 @@ whole have removed collective struggle from our arsenal. Capitalists have decima
     Even organizing, when bent toward the electoral process, has served to
 undermine our collective power. Since the late 1970s, government austerity has constrained community organizations in the content of their aspirations and the form of their activity. Groups had to provide critical survival services no longer supported by the state and to secure funding through contingent grants and philanthropic foundations.5 Community organizations professionalized, saddled with the foremost mandate to financially reproduce themselves. Many now privilege symbolic actions and prepacked campaigns to “raise awareness” and pull policy levers.6 They enlist tenants in struggles for reforms—often doomed to failure without the disciplinary force of an engaged, mass base.7 The goal of organizing, in this model, is increasing tenants’ leverage within existing institutions. Organizing has been reduced to mobilizing—in other words, lobbying without money.
     In their everyday lives, tenants are pushed to solve their problems as
-atomized individuals, clients of social workers and tenant lawyers who will help us negotiate the legal system, accessing what few rights we have, and no more. Of course, this limits tenants to acting within states of personal ```
-
+atomized individuals, clients of social workers and tenant lawyers who will help us negotiate the legal system, accessing what few rights we have, and no more. Of course, this limits tenants to acting within states of personal 
 ---
 
 ## Page 79
@@ -1461,8 +1396,7 @@ association is to coordinate the actions of individual tenants, a tenants union 
     A tenants union treats tenants as experts in their own experience and as
 agents of the changes we need. Who builds a tenants union? We do. Who is it for? Us. A union allows tenants to claim collective control of our housing and our lives. By organizing ourselves and our neighbors, we change from clients or constituents to creators of our own futures. We don’t just gain more leverage within existing institutions; we gain the power to transform those institutions into ones that serve our needs. A union helps us take control over the processes and outcomes of our fights. It connects strategies and tactics across space and time such that our efforts can build in ambition and scale.
     Rather than prepare blueprints for an imaginary tenants movement, we
-ground this chapter in how one is already unfolding in Los Angeles, in the LA ```
-
+ground this chapter in how one is already unfolding in Los Angeles, in the LA 
 ---
 
 ## Page 80
@@ -1474,8 +1408,7 @@ ground this chapter in how one is already unfolding in Los Angeles, in the LA ``
 
 
 
-HOW DO WE build a tenants union? We answer with five strategies: we build community, we organize units of power, we reclaim space, we experiment and learn, and we keep the faith. We build relationships of trust and solidarity among neighbors. When we organize such relationships into associations, local chapters, and the citywide union, we create instruments of collective action to change the relationship between our landlords and us. By reclaiming the common space of our buildings and our blocks, we assert ourselves as the stewards of the places where we live. We educate ourselves, acting our way into thinking and archiving past tactics to build an arsenal for the future. Already present in our actions is the seed of a different way of life. Call it faith, mística, spirit, or God: we claim that righteous abundance as ours in service of the exploited and the oppressed. ```
-
+HOW DO WE build a tenants union? We answer with five strategies: we build community, we organize units of power, we reclaim space, we experiment and learn, and we keep the faith. We build relationships of trust and solidarity among neighbors. When we organize such relationships into associations, local chapters, and the citywide union, we create instruments of collective action to change the relationship between our landlords and us. By reclaiming the common space of our buildings and our blocks, we assert ourselves as the stewards of the places where we live. We educate ourselves, acting our way into thinking and archiving past tactics to build an arsenal for the future. Already present in our actions is the seed of a different way of life. Call it faith, mística, spirit, or God: we claim that righteous abundance as ours in service of the exploited and the oppressed. 
 ---
 
 ## Page 81
@@ -1491,8 +1424,7 @@ prefigurative: they challenge rent, and they help us build an alternative to it,
 
 TAP ONE FINGER against your opposite hand. This is the sound of one tenant’s complaint, seeking resolution by themselves. It’s the sound of one singular crisis, in search of an individual solution. Now tap two fingers. This is the sound of neighbors talking, understanding that their issues are better served together, attempting a joint effort to meet their needs under the constraints of daily life. Now tap three fingers. This is the sound of a tenants association, with the power to engage its members’ landlord, issue demands, even withhold rent, as a bargaining unit. It is the sound of tables turning, power relations intervened. Tap four fingers. This is the sound of a local chapter, where tenants associations come together to support each other, share strategies and meals, and claim space through our neighborhoods. This is the sound of collective refusal, collective defense. Now clap with all five fingers, your whole hand. This is the sound of the tenants union, where locals come together to scale up and spread out their reach, to strengthen bonds of solidarity across the city. This is the sound of collective transformation.
      This is a ritual we performed in Los Angeles in June 2022, at the end of
-the Autonomous Tenants Union Network’s first in-person convention, where LATU hosted twenty-two unions from across the country. Beginning with one finger and ending with five, the volume of our clapping measures the effect of collective effort, the effectiveness of coordination at larger scales. We call it a ritual because it combines solidarity with celebration. When we entrain our bodies and act in unison, we experience the power of working and being ```
-
+the Autonomous Tenants Union Network’s first in-person convention, where LATU hosted twenty-two unions from across the country. Beginning with one finger and ending with five, the volume of our clapping measures the effect of collective effort, the effectiveness of coordination at larger scales. We call it a ritual because it combines solidarity with celebration. When we entrain our bodies and act in unison, we experience the power of working and being 
 ---
 
 ## Page 82
@@ -1511,8 +1443,7 @@ Inés Alcazar has lived on Flower Drive for over fifty years. Her block of rent-
      Alcazar told us that when LATU knocked on her door in 2021, it was like
 having a prayer answered.8 She joined organizer David Anthony Albright in getting her block together for a meeting on a paved lot behind one of the buildings. Even at that first gathering, the tenants identified their own isolation as a source of disempowerment: the landlord had given out different information to each tenant; he’d offered them all different amounts of money while calling it the maximum allowed; and he’d told them lies about their neighbors cutting deals to get them to turn on each other. They knew then that keeping their housing meant they’d need to work together. First, they had to get to know each other.
      Building community on their block also meant staying separate from
-elected officials and nonprofits, who cynically deploy the idea of “community” for their own advancement or agenda. Their city councilmember, Curren Price Jr., dodged the tenants’ calls while attending the developer’s ribbon cuttings. The association discovered that Price had accepted campaign donations from both Ventus Group and its CEO. And in 2019 he’d come under investigation for approving real estate deals for his ```
-
+elected officials and nonprofits, who cynically deploy the idea of “community” for their own advancement or agenda. Their city councilmember, Curren Price Jr., dodged the tenants’ calls while attending the developer’s ribbon cuttings. The association discovered that Price had accepted campaign donations from both Ventus Group and its CEO. And in 2019 he’d come under investigation for approving real estate deals for his 
 ---
 
 ## Page 83
@@ -1528,8 +1459,7 @@ claimed to be helping the tenants who’d lived on the block next to theirs. In 
     Their tenants association both forged new relationships and gave new
 meaning to old ones. Some members remarked how little they knew of who lived next door, how “good day” and “good night” was the extent of their communication with people who share a profound aspect of their lives. Now, they’ve put in nearly four years of sharing space and strategizing. Alcazar has seen the production of community—building one-on-one relationships with individuals, negotiating conflicts, and maintaining a group culture that people want to be in and return to—as necessary labor. Alcazar explicitly connects that labor with their association’s capacity for self-defense. “No one is going to be there to defend us. We have to defend ourselves,” she said. “Working together as a community, it makes you feel you have this power in you. Like nobody is going to take it away.”12
     When one of the owners attended a Flower Drive Tenants Association
-meeting, Alcazar explained, he praised the buyout offers as opportunities and argued that the new development would improve the neighborhood—though the tenants would not be able to stay to enjoy it. Their community was revealed in their united front against him that night: “Don’t be harassing us, don’t be sending anybody to negotiate…. We’re not leaving, we want to stay ```
-
+meeting, Alcazar explained, he praised the buyout offers as opportunities and argued that the new development would improve the neighborhood—though the tenants would not be able to stay to enjoy it. Their community was revealed in their united front against him that night: “Don’t be harassing us, don’t be sending anybody to negotiate…. We’re not leaving, we want to stay 
 ---
 
 ## Page 84
@@ -1554,8 +1484,7 @@ life. Alcazar explained that participating in the union has transformed her rela
 
 In organizing together, we learn that the living conditions in our individual apartments are rarely isolated. If our electricity is on the fritz, the apartments on our line share the same issues. If our sink leaks, it does so onto the neighbor downstairs. Roaches and rats are excellent teachers of this truth: they crawl through the spaces that keep us separate—a problem for one is a problem for all. We share more than a landlord: we share hallways and yards, parking lots and alleys, lobbies, trash and laundry rooms. And we share the physical space of our block. Who is put at risk by a landlord’s failure to maintain our buildings? Who gets rats when a landlord fails to collect trash on time? Our immediate neighbors are implicated in our struggle. They are also who we have to rely on when we need support. Who can show up the quickest when our landlord tries to harass us or when the sheriffs arrive to throw us out?
      A tenants union helps transform groups of people into defensive and
-offensive communities. Community isn’t a resource waiting to be tapped, or a static object ready to be discovered. It isn’t a network we access or a system we unveil. Community is an intentional process and a long-term commitment. The meanings of our communities are often shaped by those who seek to exploit them, negotiating defeat in their names. We reject these white-washed ```
-
+offensive communities. Community isn’t a resource waiting to be tapped, or a static object ready to be discovered. It isn’t a network we access or a system we unveil. Community is an intentional process and a long-term commitment. The meanings of our communities are often shaped by those who seek to exploit them, negotiating defeat in their names. We reject these white-washed 
 ---
 
 ## Page 85
@@ -1573,8 +1502,7 @@ WHEN THE HABITS we know are interrupted, when we can no longer swing by a neighb
     Our unions are shaped not just by what we’re fighting against, but also by
 what we’re fighting for. Grounded in the everyday survival of tenants and the social life of our buildings and communities, they strengthen the practices of mutual care that already existed between us. We build up systems of communication; we guard packages, watch each other’s pets and children, run errands for those of us who are sick; we share the burden of child care, provide for each other’s basic needs with food distribution and harm reduction, and create spaces for art and celebration. Our unions weaponize everyday life.
     Understanding the union as a community helps us clarify who its leaders
-are: the base members who maintain the relationships that constitute it, who ```
-
+are: the base members who maintain the relationships that constitute it, who 
 ---
 
 ## Page 86
@@ -1592,8 +1520,7 @@ bodies, where we eat our meals, where we care for our families, our elders, and 
       How Do We Build the Union? We Organize Units of
                           Power
 
-Early on a Saturday morning in July 2022, about forty people from the East Hollywood local gathered in Lemon Grove Park to support one of their members. They were preparing to deliver their local’s “tenant declarations” to her landlord’s home. The tenants took turns reading the declarations aloud, beginning, “1. Repairs not made within 15 days will be made by [the] Tenant who will deduct the cost and penal[ize] the following month’s rent.” Its final sentence read, “We don’t need landlords.” The tenant reminded the group of the unlivable condition of her apartment: ripped carpets, holes in the drywall, leaks from both of her sinks. Despite her complaints, nothing had ```
-
+Early on a Saturday morning in July 2022, about forty people from the East Hollywood local gathered in Lemon Grove Park to support one of their members. They were preparing to deliver their local’s “tenant declarations” to her landlord’s home. The tenants took turns reading the declarations aloud, beginning, “1. Repairs not made within 15 days will be made by [the] Tenant who will deduct the cost and penal[ize] the following month’s rent.” Its final sentence read, “We don’t need landlords.” The tenant reminded the group of the unlivable condition of her apartment: ripped carpets, holes in the drywall, leaks from both of her sinks. Despite her complaints, nothing had 
 ---
 
 ## Page 87
@@ -1609,8 +1536,7 @@ The East Hollywood local has made it a repeated tactic of their work to name lan
      The point of the tenant declarations is to cultivate the antagonism
 between landlord and tenant: “This is a class issue,” Ramirez said. “The landlord is the class enemy of the tenant … and the only way tenants can overcome landlords is by confronting them.”17 These protests are not symbolic; they force the landlord to respond. They intimidate. They make the landlord visible to himself and his neighbors. We cross the borders of race and class that segregate the city, refusing to play our part. We get to see firsthand how our landlords benefit from the rent we pay.
      When repairs are made after an action, tenants see that organized power
-produces results. And that we ourselves can act as collective pressure to deliver these results to others. This iterative process composes the grounds of what Ramirez calls the “new, tenant-ruled world,” a world without rent.18 ```
-
+produces results. And that we ourselves can act as collective pressure to deliver these results to others. This iterative process composes the grounds of what Ramirez calls the “new, tenant-ruled world,” a world without rent.18 
 ---
 
 ## Page 88
@@ -1633,8 +1559,7 @@ produces results. And that we ourselves can act as collective pressure to delive
 
 Organizing is the alchemy—and the science—that turns individualized vulnerability into shared power. When groups of tenants come together against a landlord, they form a “unit of power,” to borrow a term from Dr. Martin Luther King Jr. In Where Do We Go from Here: Chaos or Community? King argued that spectacular actions and legislative focus, which had characterized the civil rights movement, were not enough to end racial domination. Laws had changed, but lasting transformations of the Jim Crow order, in both the North and South, were elusive. What was needed was durable organization to both enforce the laws and transform the underlying property relations that constrain their scope in advance: the capacity to win not just integration, but redistribution of wealth and power.19 “To produce change,” King, once a tenant organizer himself, wrote, “people must be organized to work together in units of power,” including “economic units such as groups of tenants who join forces to form a tenant union or to organize a rent strike.”20 We like the term “units of power” also because “units” are what the real estate industry calls the places where we live. Rather than abstracted, interchangeable containers, our homes are unique and concrete sites of struggle.
     In King’s time as now, the expected path for organizing is to shift power
-up and out of local and immediate fights to try to win them at the level of the state. In this model, substantive changes in everyday life trickle down from policy and the law and our role is reduced to passive support for the politicians who might deliver it. But like with our own landlords, we cannot guarantee that we will get the concessions we ask for from the state. Those state powers fiercely guarded by real estate—taxation, regulation, redistribution, expropriation, eminent domain—will only be put to our benefit through mass disruptive constraint. And, as we know from living in broken-down apartments in cities with habitability laws on the books, what laws we win are only as good as their enforcement. ```
-
+up and out of local and immediate fights to try to win them at the level of the state. In this model, substantive changes in everyday life trickle down from policy and the law and our role is reduced to passive support for the politicians who might deliver it. But like with our own landlords, we cannot guarantee that we will get the concessions we ask for from the state. Those state powers fiercely guarded by real estate—taxation, regulation, redistribution, expropriation, eminent domain—will only be put to our benefit through mass disruptive constraint. And, as we know from living in broken-down apartments in cities with habitability laws on the books, what laws we win are only as good as their enforcement. 
 ---
 
 ## Page 89
@@ -1655,8 +1580,7 @@ our collective resources to push for immediate—and bigger—victories. Direct 
 
         How Do We Build the Union? We Reclaim Space
 
-In early 2004, Mr. Romero, a member of the Fickett Street block committee in Boyle Heights, stepped out of his car into an alley behind Folsom Street. As Romero pried open the gate to his building’s garage, he was mugged. The encounter was extreme. He ended up in the hospital. Romero’s family didn’t ```
-
+In early 2004, Mr. Romero, a member of the Fickett Street block committee in Boyle Heights, stepped out of his car into an alley behind Folsom Street. As Romero pried open the gate to his building’s garage, he was mugged. The encounter was extreme. He ended up in the hospital. Romero’s family didn’t 
 ---
 
 ## Page 90
@@ -1672,8 +1596,7 @@ conditions of the alley itself. Mr. Romero couldn’t see his attackers because 
      The group labored to remove the bulky items and trash. But by the next
 week, the alley was full of trash again. The alley had become a dump, and the neighborhood used it like one. Disappointed but undeterred, they got together and cleaned it again the next weekend. For the Esperanza Neighborhood Committee of Union de Vecinos, it became a weekly ritual. More buildings joined the effort. Some of the local youth could no longer sit by and watch older women lug trash bags through the streets; they took on some of the effort themselves. Neighbors began to fear angering others should they be caught dumping trash. The conditions—and the purpose—of the alley began to change.
      Maria Gomez and her neighbors decided to show a movie in the alley on
-a summer night. As they were setting up, lining one side of the alley with folding chairs and the other with snacks, a local gang member told her to clear everything out. “What are you doing? This is our alley,” Gomez remembers he’d said. She pointed to the families preparing for the show. “It’s just a night,” she demurred, “We already invited people.”21 When everyone settled and the movie began, Gomez noticed the young man and a few friends watching alongside them. The next weekend, those same men returned. By the next week, they helped redirect traffic, securing the space for the now weekly event. The committee also began to use the alley in the daytime for a craft and food market. They produced a safer, cleaner ```
-
+a summer night. As they were setting up, lining one side of the alley with folding chairs and the other with snacks, a local gang member told her to clear everything out. “What are you doing? This is our alley,” Gomez remembers he’d said. She pointed to the families preparing for the show. “It’s just a night,” she demurred, “We already invited people.”21 When everyone settled and the movie began, Gomez noticed the young man and a few friends watching alongside them. The next weekend, those same men returned. By the next week, they helped redirect traffic, securing the space for the now weekly event. The committee also began to use the alley in the daytime for a craft and food market. They produced a safer, cleaner 
 ---
 
 ## Page 91
@@ -1689,8 +1612,7 @@ around them. Their streets lacked lights and crosswalks; the roads were riddled 
     The committee did not give up on making demands of city government,
 understanding that the state maintained the economic and technical resources to address many of their concerns. The tenants collectively identified their needs and developed the capacity to make use of all available resources to address them—both their own and those of the state. By continuing to take action themselves, they created the authority and the structures of accountability to make demands, not requests. Through their organizing, they forced the city to install stoplights at once-perilous intersections as well as streetlights that now illuminate almost two miles of once-dark alleys. As the block committee has grown, joining the LA Tenants Union when Union de Vecinos became the Eastside local chapter, cleanups have remained a feature of their work—as have parties, movie nights, and food distribution in public space.
     The walls of the alleys have now been adorned with several murals.
-Across First and Soto is a mural of the members of the block committee holding up a banner that reads, “No más aumento de renta, únete a la campaña.” “No more rent increases, join the campaign.” Wrapping the corner of Evergreen and Ganahl is a cartoon cityscape, lined with the handprints of ```
-
+Across First and Soto is a mural of the members of the block committee holding up a banner that reads, “No más aumento de renta, únete a la campaña.” “No more rent increases, join the campaign.” Wrapping the corner of Evergreen and Ganahl is a cartoon cityscape, lined with the handprints of 
 ---
 
 ## Page 92
@@ -1713,8 +1635,7 @@ Across First and Soto is a mural of the members of the block committee holding u
 
 One of the most powerful weapons we have as tenants is our physical presence. We take up space. To separate us from our housing—whether an apartment, a car, or a piece of the sidewalk—our landlords have to physically remove us. When we stand in the way of eviction or even of rent collection, occupying our homes becomes an occupation of our homes. Similarly, when we reclaim shared spaces—hold association meetings in our lobbies, grow plants in our backyards, repair our sidewalks, clean our alleys, block traffic to host a union party on our street—we occupy our buildings, our neighborhoods, and the city. We emphasize the political, social, and cultural fabric of a neighborhood rather than its value as real estate, exercising our movement’s “territorial imperative,” to use Eldridge Cleaver’s phrase.22 We leverage the spaces of our buildings and neighborhoods as beachheads for building tenant power.
     The connection between community improvement and displacement is so
-routine as to have made an Onion headline: “Trees Planted in Poor Neighborhood Mature Just in Time for Gentrification.”23 We want streetlights, public space, and shade. We face dark alleys, potholes, and asphalt. As “good citizens,” we make reports to local agencies and ask our representatives to resolve our issues. We navigate websites, fill out forms, and file reports, yet the issues persist. Sometimes, resources arrive, yet by the time they do we’re the ones who have to go. Our housing becomes more valuable than our presence; our presence becomes a threat to its value. When we take community improvement into our own hands, we become its agents to ensure that we are its beneficiaries. We get a small taste of what collective control of our neighborhoods and our cities could be like—a reality of the chant, “Whose streets? Our streets!” ```
-
+routine as to have made an Onion headline: “Trees Planted in Poor Neighborhood Mature Just in Time for Gentrification.”23 We want streetlights, public space, and shade. We face dark alleys, potholes, and asphalt. As “good citizens,” we make reports to local agencies and ask our representatives to resolve our issues. We navigate websites, fill out forms, and file reports, yet the issues persist. Sometimes, resources arrive, yet by the time they do we’re the ones who have to go. Our housing becomes more valuable than our presence; our presence becomes a threat to its value. When we take community improvement into our own hands, we become its agents to ensure that we are its beneficiaries. We get a small taste of what collective control of our neighborhoods and our cities could be like—a reality of the chant, “Whose streets? Our streets!” 
 ---
 
 ## Page 93
@@ -1732,8 +1653,7 @@ us safe, addressing the coincidence of state abandonment and state violence; the
     Organizing as tenants clarifies the function of the police as protectors of
 property rather than as law enforcement. If a land-lord wants to kick us out, the cops arrive to carry it out with brute force—whether legal or not. If your roof caves in or your pipes burst, breaking habitability laws, you wait for weeks for housing inspectors to issue a flimsy complaint. And we know the suspicion that greets us when our neighborhoods “change,” what can happen when police decide that we are “out of place” somewhere, even when we’ve lived there our whole lives. If it’s the relations of private property, not our safety, that police exist to protect, fighting against rent will inevitably set them against us, and us against them.
     But our unions can work to make policing irrelevant. Practicing self-
-organized safety connects the abolition of rent to the abolition of police and ```
-
+organized safety connects the abolition of rent to the abolition of police and 
 ---
 
 ## Page 94
@@ -1750,8 +1670,7 @@ How Do We Build the Union? We Experiment and Learn
 
 K3 Holdings owns at least forty-one properties in Los Angeles.25 A family business, the company is owned by Nathan, Joshua, and Michael Kadisha (the three Ks), who are nephews of billionaire Neil Kadisha, founder of Omninet Capital, which controls more than thirteen thousand apartments in the US.26 K3’s business model is simple: they acquire large, rent-stabilized buildings and target long-term tenants for displacement and replacement. Rent-stabilized apartments remain the largest source of stable housing for the poor and working class of Los Angeles: stabilization limits rent increases, guarantees lease renewals, and prevents arbitrary eviction. However, under California law, if a stabilized apartment is vacated, a landlord can reset the rent at any price. As rents rise over time—that is, as landlords raise rents— the gap widens between what long-term tenants pay and what a landlord could claim on their apartments without them in the way.
     K3 starts with legal means to remove rent-stabilized tenants: the
-“voluntary vacate” offer, often called “cash-for-keys.” Of course, “voluntary” does not accurately describe K3’s deals—predation and harassment are the norm. K3 relies on a burgeoning eviction industry, hiring so-called re-tenanters to pressure long-term residents into accepting lowball deals. Re-tenanters Matt DeBoth and Angel Escobar use English-only notices as well as bunk legalese to enact discriminatory campaigns against K3’s ```
-
+“voluntary vacate” offer, often called “cash-for-keys.” Of course, “voluntary” does not accurately describe K3’s deals—predation and harassment are the norm. K3 relies on a burgeoning eviction industry, hiring so-called re-tenanters to pressure long-term residents into accepting lowball deals. Re-tenanters Matt DeBoth and Angel Escobar use English-only notices as well as bunk legalese to enact discriminatory campaigns against K3’s 
 ---
 
 ## Page 95
@@ -1767,8 +1686,7 @@ journalist Jack Ross, K3 made 167 buyouts between July 2019 and January 2021, sp
      Not all K3 tenants would leave. Across eight buildings, both long-term
 and newer residents have formed associations within their buildings and organized themselves into the K3 Tenant Council, which spans them all. K3 organizing shows us the pedagogical function of the tenants union in microcosm: how information is shared, how tactics are tested, and how that feedback process contributes to the growth and strength of the movement.
      “You can actually look at other buildings and, say, oh, that building is
-where we were ten months ago, or, oh, that building is where we’re gonna be in two months,” Trinh said. Besides encountering the same patterns in re- tenant harassment, K3 tenants also experience the same response if they refuse to leave: “I call it the K3 embargo. They just don’t fix anything.” K3’s refusal to make repairs occurs simultaneously with another harassment tactic: renovations. Many of these renovations are unpermitted and unsafe, sending noise at all hours and construction debris from blasted ceilings and busted pipes into the homes of remaining residents. Renovations perform two functions, flipping the homes of displaced tenants for higher-paying ones and tormenting those who remain. These common experiences are part of the council’s self-definition. “There’s the bubble that shows up on people’s ```
-
+where we were ten months ago, or, oh, that building is where we’re gonna be in two months,” Trinh said. Besides encountering the same patterns in re- tenant harassment, K3 tenants also experience the same response if they refuse to leave: “I call it the K3 embargo. They just don’t fix anything.” K3’s refusal to make repairs occurs simultaneously with another harassment tactic: renovations. Many of these renovations are unpermitted and unsafe, sending noise at all hours and construction debris from blasted ceilings and busted pipes into the homes of remaining residents. Renovations perform two functions, flipping the homes of displaced tenants for higher-paying ones and tormenting those who remain. These common experiences are part of the council’s self-definition. “There’s the bubble that shows up on people’s 
 ---
 
 ## Page 96
@@ -1784,8 +1702,7 @@ agencies tasked with intervening will not. When Trinh called to support another 
      Strategies of fighting back travel among associations in the tenant
 council. Each building doesn’t have to invent tenant organizing from scratch. Alma Angel was one of the first K3 tenants to join LATU and fight back against K3, defending her home of twenty-three years. A Spanish speaker with two children, Angel refused buyout offers of $21,000, $40,000, then finally $100,000. When renovations began in the other apartments in her building, she demanded she receive repairs, too. Even after two decades of living in her apartment, her carpet had never been replaced. Frayed sections revealed swelling patches of mold. Re-tenanter Angel Escobar told Angel she could either accept her apartment as is, or accept a buyout. Instead, she gathered with her neighbors, interrupting construction to demand workers rip up her carpet. They agreed, forcing the landlord to replace it once and for all.
      The K3 council archives tactics of resistance, remixes them for new
-contexts, and proliferates them across its membership. Trinh explains, “The thing is, we can just recycle. Like the mold battles from four or five tenants. One of the first ones is Alma; [her struggle was] the first of everything. That’s how we learn. She invented a strategy, now that’s how we know how to get things done.”31 Angel’s struggle created a blueprint for the rest of the council. Indeed, her testimonial is now featured in the hand-out LATU organizers use when canvassing about “cash-for-keys” across the city. ```
-
+contexts, and proliferates them across its membership. Trinh explains, “The thing is, we can just recycle. Like the mold battles from four or five tenants. One of the first ones is Alma; [her struggle was] the first of everything. That’s how we learn. She invented a strategy, now that’s how we know how to get things done.”31 Angel’s struggle created a blueprint for the rest of the council. Indeed, her testimonial is now featured in the hand-out LATU organizers use when canvassing about “cash-for-keys” across the city. 
 ---
 
 ## Page 97
@@ -1812,8 +1729,7 @@ political risks. “I was the crash dummy,” Trinh said about his own eviction 
 
 As our unions create spaces for reflection, we practice popular education. Experiments and experiences travel, get repeated as success stories and cautionary tales, and amplify each other. We carry forward the strategies of our elders, transmitting movement and organizing knowledge across generations. A tenants union is a school where tenants use our own actions as a source of learning. And through that learning, we move to act on—meaning, in small and larger ways change—the world.
     No one is more capable of recognizing the injustice of rent and the need
-for the transformation of our housing system than poor and working-class tenants. At the same time, the knowledge of injustice is not built into the experience of living through it. Nor is the knowledge of how to end that injustice. Popular education is an orientation to organizing that facilitates the self-conscious activity of poor and working-class tenants and puts poor and working-class tenants in control of the process of liberation. If we assign to ```
-
+for the transformation of our housing system than poor and working-class tenants. At the same time, the knowledge of injustice is not built into the experience of living through it. Nor is the knowledge of how to end that injustice. Popular education is an orientation to organizing that facilitates the self-conscious activity of poor and working-class tenants and puts poor and working-class tenants in control of the process of liberation. If we assign to 
 ---
 
 ## Page 98
@@ -1829,8 +1745,7 @@ Brazilian educator Paulo Freire’s critique of the “banking” model of educa
     To understand the union as a school, we might need a different orientation
 toward organizing from what we’re used to. Often those who call themselves “organizers,” as Dont Rhine notes, are those who can leave—the building, the neighborhood, the conditions of survival that make organizing a necessity. We see no reason to shy away from the designation of “outside agitator” to name those pulled from the ranks of the downwardly mobile middle class or even upper-class traitors. Solidarity is a shared stake in liberation for us all. At the same time, a pedagogical organizer—pulled from any background— must have the humility to support the leadership of our base. Rather than paid professionals or activists bringing the “good news” to the poor and working class, conscripting their participation into campaigns with predetermined goals, organizing must be a process of listening, problem posing, and facilitating self-driven activity.
     LATU’s 2022 annual assembly gathered hundreds of members to
-collectively reflect on our work in a popular education process we called “Naming the Moment.”38 Through this process, our members encountered ```
-
+collectively reflect on our work in a popular education process we called “Naming the Moment.”38 Through this process, our members encountered 
 ---
 
 ## Page 99
@@ -1847,8 +1762,7 @@ of our tenants associations. More than just a bargaining unit, they are a way to
 
        How Do We Build the Union? We Keep the Faith
 
-The three wise men, Mary, and Joseph converge on the corner of Seventh and Lucas, appointed with fake beards, long robes, and signs. They’re surrounded by a larger group wearing red. Just before Christmas 2016, the Vermont y Beverly local chapter staged an action at the offices of the LA Housing Department, the city agency tasked with inspecting code violations, mediating conflicts between tenants and landlords, approving “cash-for- keys” deals, and instructing tenants on their rights. The action took the shape of a Posada, which, in the Mexican tradition, reenacts Mary and Joseph’s search for shelter. Congregants sing a song in which a place to rest is sought and denied, sought and denied, then finally granted. By seeking shelter at the Housing Department, the local chapter called attention to the failures of ```
-
+The three wise men, Mary, and Joseph converge on the corner of Seventh and Lucas, appointed with fake beards, long robes, and signs. They’re surrounded by a larger group wearing red. Just before Christmas 2016, the Vermont y Beverly local chapter staged an action at the offices of the LA Housing Department, the city agency tasked with inspecting code violations, mediating conflicts between tenants and landlords, approving “cash-for- keys” deals, and instructing tenants on their rights. The action took the shape of a Posada, which, in the Mexican tradition, reenacts Mary and Joseph’s search for shelter. Congregants sing a song in which a place to rest is sought and denied, sought and denied, then finally granted. By seeking shelter at the Housing Department, the local chapter called attention to the failures of 
 ---
 
 ## Page 100
@@ -1864,8 +1778,7 @@ biology, one learns about a certain species of caterpillar that can only cross t
 
 SEE HIS BEADY eyes and his beak. See his mass of fur. See his stooping neck, from which hangs an impossibly long red tie. He carries an eviction notice and a bag of cash. He is LATU’s seven-foot puppet: a figure of a Vulture Landlord. The Vulture Landlord walks beside us at marches and shows up at landlords’ houses. Both goofy and serious, he is an immediately recognizable symbol of a collective analysis. Like a vulture eats the dead, the landlord takes what we earn. Alongside him we chant, “Vulture landlord, get a real job!”
     Transforming reality is an unmistakably creative project. It demands
-imagination, experimentation, improvisation. It takes a sense of play. In our union, we engage in what Brazil’s Landless Workers’ Movement (MST) calls mística—performances, rituals, symbols, and celebrations that sustain the struggle.41 Mística lets us flex our creativity for each other, keep up our ```
-
+imagination, experimentation, improvisation. It takes a sense of play. In our union, we engage in what Brazil’s Landless Workers’ Movement (MST) calls mística—performances, rituals, symbols, and celebrations that sustain the struggle.41 Mística lets us flex our creativity for each other, keep up our 
 ---
 
 ## Page 101
@@ -1879,8 +1792,7 @@ imagination, experimentation, improvisation. It takes a sense of play. In our un
      Participation in collective action rests on shared collective identity,
 shared investment in the collective project of tenant struggle. We are no longer ashamed of our living conditions or having to ask for help; we are angry. What before seemed natural and inevitable, something to be assumed and accepted, becomes injustice, evidence of an unfair system and a world gone awry. A union forges solidarity and collective identity by maintaining a culture that opposes dominant values, calling on a higher authority than capitalism and the state. Against the sense of loss and depression that comes with the violence of gentrification, a union cultivates pride and dignity. Against individuation, mutuality. Against competition, solidarity. Against the system that profits off a basic human need, the abolition of rent. Our doctrine is the agency of everyday people to change the conditions of their everyday lives. We believe that by building lasting infrastructures of collective control, we can crowd out the power of landlords and developers, shape our homes and our neighborhoods to our needs. We believe that organized tenants have an essential contribution to make in reordering the world, that practicing new forms of collective struggle will chart the course to new forms of collective life.
 
-HOW DO YOU     resolve the tension between the emergency we are living through and the fact that the only tools we have to work with—organizing and collective action—take so much time? How do you continue to fight when ```
-
+HOW DO YOU     resolve the tension between the emergency we are living through and the fact that the only tools we have to work with—organizing and collective action—take so much time? How do you continue to fight when 
 ---
 
 ## Page 102
@@ -1926,8 +1838,7 @@ In 1962, at just fourteen years old, Isabel Garcia arrived in Los Angeles from M
     As a teenager, Garcia planted two trees in the backyard of her building: a
 loquat and an avocado. She always loved to work in the garden. Every day when she came home from work, she would tend to the yard, water potted flowers, sweep the path she and her neighbors had etched into the dirt and lined with stones. “If that tree could speak!” Yesenia, Garcia’s niece, exclaimed. “One tree was my swimming pool. The other was my swing.”1
     In 2010, a new landlord, Bruce Terani, purchased her apartment and the
-seven others in her building. Soon, the harassment began. Rent stabilization protected Garcia from rent increases, but not from incessant cash-for-keys offers—for $5,000, he claimed, she could travel the world or secure a spot in a retirement home. He issued repeated three-day “cure or quit” notices— one because she’d left a table in the hallway to make way for an inspection he’d required. He removed the building’s shared amenities—washing ```
-
+seven others in her building. Soon, the harassment began. Rent stabilization protected Garcia from rent increases, but not from incessant cash-for-keys offers—for $5,000, he claimed, she could travel the world or secure a spot in a retirement home. He issued repeated three-day “cure or quit” notices— one because she’d left a table in the hallway to make way for an inspection he’d required. He removed the building’s shared amenities—washing 
 ---
 
 ## Page 104
@@ -1943,8 +1854,7 @@ understands the injustice: “I have paid for everything, and I still don’t ha
      Garcia can name every past owner of the building. For decades, she
 could name every nearby neighbor on the block. Her memory and her relationships testify not to the receding history of the neighborhood but to its present: made by its inhabitants, not by its property owners. Though legal documents may suggest property is permanent and tenancy transient, Garcia demonstrates that the opposite is true. The trees Garcia planted now tower over the two-story house. They bear enough fruit for anyone who asks. They give shade for her neighbors to pass the time together, for weekly tenants association meetings and other events. Every other Tuesday, the building hosts a food distribution in the garden. Residents pack and hand out bags of fresh produce and pantry staples to everyone who attends—about forty thousand pounds and ten thousand bags of food so far. When the Autonomous Tenants Union Network held its first convention in June 2022, drawing together members of twenty-two unions from across the country, we held our party at her house, taking over the yard and the block out front. “We fight,” Garcia said, “because we have to continue living.” If left to flourish, the trees will outlive us all.
      But recently, the garden has become a site of attack. Just before
-Christmas in 2022, the landlord hired workers to plant two haphazard rows of plants in the center of the space and enclose it with a shoddy, shin-high fence. Only a narrow, circuitous path connected the building to its trash bins. ```
-
+Christmas in 2022, the landlord hired workers to plant two haphazard rows of plants in the center of the space and enclose it with a shoddy, shin-high fence. Only a narrow, circuitous path connected the building to its trash bins. 
 ---
 
 ## Page 105
@@ -1969,8 +1879,7 @@ Attacks on tenant gardens are a routine response to our organizing. That these a
     To the people who own and speculate on real estate, our housing is an
 abstract entity on a balance sheet, an interchangeable “unit,” judged according to its performance as an asset. To them, our neighborhoods are just financial opportunities to store and grow their wealth. But tenants turn these spaces into places where we belong. We, after all, are human beings, whose needs for support, rest, and connection have always exceeded the market’s ability to incorporate them. We care for our apartments, beautify them—even despite injunctions against doing so. We establish routines etched into our neighborhood and come to rely on our neighbors. We grow attached. We put down roots. Tenant gardens can make these roots literal. When tenants collectively organize how space is used, we challenge private property as its sole governing force.
     Collective stewardship is an affront to the legal and economic confines
-of the rent relation. It is a claim of collective sovereignty, a promissory note our movement may one day cash. Landlords, and the repressive apparatus of the state, understand this implicitly: the threat of tenants making our housing ours is that we will take our housing back. ```
-
+of the rent relation. It is a claim of collective sovereignty, a promissory note our movement may one day cash. Landlords, and the repressive apparatus of the state, understand this implicitly: the threat of tenants making our housing ours is that we will take our housing back. 
 ---
 
 ## Page 106
@@ -1986,8 +1895,7 @@ movement that demonstrate this revolutionary horizon. We tell two stories, of th
     Tenant occupations challenge landlords directly: they confront their
 power to collect rent and their power to evict. And they challenge real estate’s capture of the capitalist state: they confront the powers of policy and those of the police. Of course, for now, collective sovereignty is an aspirational horizon. These occupations are temporary: not final expropriation, but a few years of organized, if uncertain, peace. Even in defeat, they point us toward ways of interacting with the system we currently have to get the system we desperately need.
 
-IF A TENANT is anyone who doesn’t control their own housing, then the tenant movement works to establish collective control. Our aim is not to eliminate tenancy by becoming owners ourselves—an impossible prospect whose promise is an engine for our competition and denigration. Our aim is to eliminate the conditions that bind tenancy to insecurity, impermanence, predation, and price gouging. Now tenants are subjected to expulsion and exclusion, gentrification and social cleansing. Financialization dematerializes our homes into flows of capital; monopolization puts them into fewer and fewer hands. But already immanent to everyday tenant struggles is the possibility and practice of another way of governing the places where we make our lives. The ends of the tenant movement will not ```
-
+IF A TENANT is anyone who doesn’t control their own housing, then the tenant movement works to establish collective control. Our aim is not to eliminate tenancy by becoming owners ourselves—an impossible prospect whose promise is an engine for our competition and denigration. Our aim is to eliminate the conditions that bind tenancy to insecurity, impermanence, predation, and price gouging. Now tenants are subjected to expulsion and exclusion, gentrification and social cleansing. Financialization dematerializes our homes into flows of capital; monopolization puts them into fewer and fewer hands. But already immanent to everyday tenant struggles is the possibility and practice of another way of governing the places where we make our lives. The ends of the tenant movement will not 
 ---
 
 ## Page 107
@@ -2003,8 +1911,7 @@ property relations. How should we divvy up the parcels of our spinning planet, w
     Also revealed in these struggles is our movement’s complex relationship
 to the state, that hostile yet useful amalgam of capacities and resources that we cannot yet guarantee will be put to our use.3 The state currently organizes land and territory for the purpose of private accumulation. It is the final guarantor of private property and holds a monopoly on violence to protect that property. The state maintains the social relationship between landlords and tenants, ensures our exploitation and domination, even as our movements pressure it to change and reform. Thus, the struggle for the collective control of land will often set us against the state’s plans for how land is organized— and how the population of tenants is managed and controlled.
     But as we contest capitalist management of space, we contest and remake
-the capitalist state too. We insist that land use is not a mere technical or economic but a social and political problem, which means it is about how people get together to exercise power. This is a strategic orientation that privileges autonomous organizations and institutions, the practice of taking responsibility for our collective selves. It is neither state-phobic nor state- philic. It views the state as a terrain where resources are often more available to our enemies than to us, but one that we can—and we must— constrain to our will. It understands the history of reforms as concessions to ```
-
+the capitalist state too. We insist that land use is not a mere technical or economic but a social and political problem, which means it is about how people get together to exercise power. This is a strategic orientation that privileges autonomous organizations and institutions, the practice of taking responsibility for our collective selves. It is neither state-phobic nor state- philic. It views the state as a terrain where resources are often more available to our enemies than to us, but one that we can—and we must— constrain to our will. It understands the history of reforms as concessions to 
 ---
 
 ## Page 108
@@ -2026,8 +1933,7 @@ In October 2018, Leslie Hernandez stood in the hallway of Hillside Villa, a stuc
     Though privately owned, Hillside Villa was developed through a
 combination of state-subsidized loans and tax breaks, tied to a thirty-year covenant to keep rents low.4 But that covenant ran out in 2018. The landlord, Tom Botz, wanted to see rent doubled.
 
-THE PRIMARY ANSWER the state provides to the permanent crisis of housing is not public housing, owned and operated by the state, nor rent control, which regulates the amount of rent that private landlords can collect, but privately owned, publicly subsidized housing. Housing Choice Vouchers, also known ```
-
+THE PRIMARY ANSWER the state provides to the permanent crisis of housing is not public housing, owned and operated by the state, nor rent control, which regulates the amount of rent that private landlords can collect, but privately owned, publicly subsidized housing. Housing Choice Vouchers, also known 
 ---
 
 ## Page 109
@@ -2043,8 +1949,7 @@ wait a decade just to get on the waitlist, then years to get a voucher, then eve
     Since it was built at the edge of Chinatown in 1989, Hillside Villa has
 been home to tenants whose rents are subsidized by Section 8, restricted by an affordable housing covenant, or both. In 2018, Hillside Villa was thrust into crisis based on affordable housing’s most obvious failure: its rent covenants expire. The landlord was free to kick out all affordable housing tenants and collect market-rate rents in perpetuity. The public benefits were temporary loans; the private gains would be permanent. For almost five years, with the support of organizers from LATU and Chinatown Community for Equitable Development, Hillside Villa tenants have been organizing in three languages—English, Spanish, and Cantonese—to stay put.8
 
-SKILLED   ORGANIZERS     PRACTICING    simultaneous interpretation allowed neighbors to communicate with each other across language differences. But as many in the building recall, the main barrier wasn’t language, race, or age, but the different forms of tenancy. When the covenant ran out, those in affordable housing would be instantly subject to the whims of the market: their leases would convert to market rate, with no restrictions on rent increases or guarantees for lease renewals. The Section 8 tenants would get ```
-
+SKILLED   ORGANIZERS     PRACTICING    simultaneous interpretation allowed neighbors to communicate with each other across language differences. But as many in the building recall, the main barrier wasn’t language, race, or age, but the different forms of tenancy. When the covenant ran out, those in affordable housing would be instantly subject to the whims of the market: their leases would convert to market rate, with no restrictions on rent increases or guarantees for lease renewals. The Section 8 tenants would get 
 ---
 
 ## Page 110
@@ -2060,8 +1965,7 @@ association. Marina Maalouf has lived in the building for twenty-five years. She
     The tenants also built their association through a shared sense of
 injustice. Researching their landlord, the tenants discovered that Botz had an ownership stake in at least five other buildings in Southern California, with more than 150 apartments in total. They estimated the value of his home at $3.5 million.10 Ten years before, they learned, a California district judge had determined that one of his companies had systematically discriminated against families with kids.11 They also shared deteriorating living conditions. What were their government subsidies paying for? Their broken elevators, leaking pipes, roaches. Where was the money going? Tom Botz’s Malibu mansion.
     As the Hillside Villa tenants began to meet weekly, working through the
-language and legal divides, they watched new developments crop up across Chinatown, some advertising a small percentage of “Affordable” apartments like theirs. “Affordable for who?” Hernandez balked.12 In Los Angeles, a single person making up to $66,750 a year—more than double the salary of a minimum-wage worker—could qualify.13 New affordable housing is thus ```
-
+language and legal divides, they watched new developments crop up across Chinatown, some advertising a small percentage of “Affordable” apartments like theirs. “Affordable for who?” Hernandez balked.12 In Los Angeles, a single person making up to $66,750 a year—more than double the salary of a minimum-wage worker—could qualify.13 New affordable housing is thus 
 ---
 
 ## Page 111
@@ -2077,8 +1981,7 @@ THE GROUP ’S FIRST action was a collective letter that announced the formation
     Their lawyers exploited errors in the landlord’s rent increase notices,
 and the tenants made it through more than a year without losing their homes.17 But by the spring of 2019, no longer content with buying time, Hillside Villa expanded their focus from the landlord to the state. The tenants affirmed to each other that they wouldn’t be going anywhere; they’d have to evict their landlord instead. They demanded that the city buy the building and sell it back to them to be held in common. Should their landlord resist, they said, the city should use eminent domain to force the sale.18
     Their own biographies guided their strategy. Thirty-four years ago, three
-separate households of current residents had been forced to relocate to Hillside Villa. They’d each been ejected from their homes in downtown Los Angeles when the city used eminent domain to clear their rent-stabilized buildings to make way for the Los Angeles Convention Center. Inaugurated with millions in government subsidies and resulting in the mass displacement ```
-
+separate households of current residents had been forced to relocate to Hillside Villa. They’d each been ejected from their homes in downtown Los Angeles when the city used eminent domain to clear their rent-stabilized buildings to make way for the Los Angeles Convention Center. Inaugurated with millions in government subsidies and resulting in the mass displacement 
 ---
 
 ## Page 112
@@ -2094,8 +1997,7 @@ them the time of day,” Hernandez said.20 So for months they staked out his off
     Finally, the councilmember relented. But rather than accept the
 association’s plans, he offered Botz another deal: $12.7 million in forgiven debt to extend the building’s rent caps for ten years.21 For a week, the tenants thought they’d won a decade of relief. Then the landlord denied he’d ever made a deal. As he told Fox 11 at the time, government efforts to protect Hillside Villa made him “feel like I’m in Cuba or Venezuela or Sudan but certainly not the United States.”22 Botz urged the city to secure Section 8 vouchers for the tenants at risk of eviction, a program he praised for delivering subsidized rents “like clockwork.” Understanding the constraints of the voucher system, Hernandez translated, “‘Just go on Section 8’ is landlord for ‘fuck you.’”23
     The first wave of eviction filings made it clear: the tenants’ presence in
-their homes stood in the way of their landlord’s profits. They relied on legal challenges to protect themselves from getting thrown out, spun on a yo-yo of dread and relief. Botz continued his threats. They continued to organize. In January 2020, Councilman Cedillo introduced a tepid council motion supporting state purchase of their building: a feasibility study.24 Meanwhile, ```
-
+their homes stood in the way of their landlord’s profits. They relied on legal challenges to protect themselves from getting thrown out, spun on a yo-yo of dread and relief. Botz continued his threats. They continued to organize. In January 2020, Councilman Cedillo introduced a tepid council motion supporting state purchase of their building: a feasibility study.24 Meanwhile, 
 ---
 
 ## Page 113
@@ -2113,8 +2015,7 @@ being threatened with eviction and denied repairs, a first group of tenants deci
     Taking on two targets at once, the tenants staged a series of actions
 politicizing the city budget—that skeleton of the municipal state. Outside Disney’s Concert Hall, they enumerated the tax breaks given to developers that had underwritten that project. At LAPD headquarters, they denounced LAPD’s $3.15 billion annual budget, which captures more than a quarter of the city’s spending in a year.25 And in front of City Hall, LA’s Housing Department, and the homes of city councilmembers, they listed the hundreds of millions made available to the city through federal pandemic relief.
     Finally, in May 2022, under the mounting pressure of an all-union
-campaign, LA City Council voted to support the purchase of Hillside Villa— in part. The hours of public comment staged a contest of rights, between Botz’s “right to begin earning his full return on investment” and the tenants’ right to a home.26 One of Botz’s lawyers argued that to take the building away would create a “chilling effect on any developer ever trusting the city again ```
-
+campaign, LA City Council voted to support the purchase of Hillside Villa— in part. The hours of public comment staged a contest of rights, between Botz’s “right to begin earning his full return on investment” and the tenants’ right to a home.26 One of Botz’s lawyers argued that to take the building away would create a “chilling effect on any developer ever trusting the city again 
 ---
 
 ## Page 114
@@ -2130,8 +2031,7 @@ IN JULY 2022, the landlord retaliated against their win: he hired a crew to dest
     A fight between landlords and tenants was again waged over a garden, a
 contest between the appropriation of common space as amenity and as something more—a communal base of care and militancy that tenants produce for each other. The garden had long been tended as a shared resource. But after their association formed, it also became the physical location of their weekly meetings, a beachhead for building solidarity. “Plants Vs. Landlords,” one protest flier proclaimed.31 The threat of poor and working-class tenants is that the seeds of their organizing have taken root. As Botz once put it in disbelief, “We learned that the tenants really had no intention of ever leaving. They wanted to stay there for life.”32
     Hillside Villa has responded to the unwillingness of the city to intervene
-on their behalf by strengthening their relationships with other tenants in the LA Tenants Union. In May 2023, members of five local LATU chapters gathered at the building. The group split across the building’s three entrances as perimeter guards, breaking off small contingents for medics and media. One group placed themselves across the staircase, some seated and some ```
-
+on their behalf by strengthening their relationships with other tenants in the LA Tenants Union. In May 2023, members of five local LATU chapters gathered at the building. The group split across the building’s three entrances as perimeter guards, breaking off small contingents for medics and media. One group placed themselves across the staircase, some seated and some 
 ---
 
 ## Page 115
@@ -2147,8 +2047,7 @@ HILLSIDE VILLA REVEALS the contradictions of a government run on real estate. In
      Hillside Villa points toward a responsive, transformed state: budgets
 retracted from developer handouts, buildings put back into tenant control, the overturning of affordable housing policy, which works to inflate rents, displace poor and working-class people, to enrich private landlords. At the same time, the tenants show us how new kinds of housing governance can emerge from the ashes of the old—through occupations of privately owned space that shift the political, legal, and economic ground under the places we live in now.
      The landlord has refused to let the city’s appraisers onto the property. At
-the time of this writing, the city is still waiting for a court order to get inside; it can’t appropriate the funds to purchase the building until the building has a ```
-
+the time of this writing, the city is still waiting for a court order to get inside; it can’t appropriate the funds to purchase the building until the building has a 
 ---
 
 ## Page 116
@@ -2167,8 +2066,7 @@ Gustavo Otzoy was locked up twice in his life. Both times he was freed, he trave
     Otzoy encountered a community organizing to meet its own needs.37 They
 had access to the park’s public bathrooms, soap, and drinking fountains, as well as the park itself. And since September 2019, residents had begun to build up their own infrastructure, which came to include a shared living room with seating sourced from the street, a pantry and kitchen with portable propane stoves, hand-built showers, and a community garden, where residents tended to vegetables and medicinal plants. That infrastructure would take a militarized sweep—seven hundred officers deployed over two days, more than $2 million of city funds, 182 arrests, and at least a dozen injuries—to destroy.38
     As study after study affirms, unhoused tenants are pushed out of housing
-not due to an individual failing or character defect, but because of the cost of rent.39 By 2023, the Los Angeles Homeless Services Authority would count 75,518 unhoused tenants, an increase of more than 50 percent in just seven years.40 But rather than address the crisis with public housing, or prevent more tenants from losing their homes, city, state, and federal policy have ```
-
+not due to an individual failing or character defect, but because of the cost of rent.39 By 2023, the Los Angeles Homeless Services Authority would count 75,518 unhoused tenants, an increase of more than 50 percent in just seven years.40 But rather than address the crisis with public housing, or prevent more tenants from losing their homes, city, state, and federal policy have 
 ---
 
 ## Page 117
@@ -2186,8 +2084,7 @@ what few supplies they’ve gathered to survive outdoors, including crucial docu
      The tenants of Echo Park Lake decided to defend their encampment and
 stay put. In January 2020, they joined with housed supporters to form a human shield, blocking park rangers from tearing down tents. “This is not a cleanup,” one insisted at the time, “This is a homeless eviction.” 44 They wrote to their city councilmember as his “constituents,” pleading not to be displaced from the support systems they’d built: “We hope you understand what this lake means to us—this has become our home in what is one of the darkest times of most of our lives.”45
      Pushing back against eviction united the group. They adopted a name:
-Echo Park Rise Up. Over the winter, they defended themselves from eviction at least four more times. In February 2020, in anticipation of a sweep, housed ```
-
+Echo Park Rise Up. Over the winter, they defended themselves from eviction at least four more times. In February 2020, in anticipation of a sweep, housed 
 ---
 
 ## Page 118
@@ -2201,8 +2098,7 @@ Echo Park Rise Up. Over the winter, they defended themselves from eviction at le
     Many of the tenants of Echo Park Lake were already connected to LA’s
 homeless services agency. They had done everything their caseworkers asked: collected documents, signed paperwork. They were told to survive outside and wait.46 But with no permanent housing available, they knew what was at the end of many of the city’s waitlists: a bed in a congregate shelter, whose cramped, shared spaces were infamous for noxious conditions and COVID outbreaks; an unshaded tent in a fenced “safe sleep site,” subject to twenty-four-hour surveillance; a “tiny home,” where two residents share a prefabricated shed smaller than the American Correctional Association’s standard prison cell for one.47 The converted hotel rooms in Project Roomkey, an emergency pandemic program, banned guests, pets, or more than sixty gallons—one trash bag’s worth—of personal belongings. Residents couldn’t gather or visit each other and had to abide by a 7:00 p.m. curfew, after which they were locked inside. To many, those options didn’t look like housing as the provision of a human need; they looked like incarceration for the crime of not being able to afford rent.
 
-THE PANDEMIC HAD prompted the Centers for Disease Control and Prevention to issue an unprecedented recommendation: allow unhoused people to remain wherever they are.48 Without recurring move-along orders or forced displacement, residents of the park enjoyed a rare taste of stability and the freedom that comes from being left alone. In May 2020, as the virus made access to basic hygiene even more crucial, unhoused residents and housed supporters blocked rangers from locking the park’s bathrooms at night.49 They won twenty-four-hour access. In collaboration with activists from Street Watch and Ground Game LA, the encampment coordinated weekly cell-phone charging for residents, whose access to electricity had been curtailed by pandemic closures of libraries and restaurants. Otzoy started to collect and distribute donations for the community: money, water, food, ```
-
+THE PANDEMIC HAD prompted the Centers for Disease Control and Prevention to issue an unprecedented recommendation: allow unhoused people to remain wherever they are.48 Without recurring move-along orders or forced displacement, residents of the park enjoyed a rare taste of stability and the freedom that comes from being left alone. In May 2020, as the virus made access to basic hygiene even more crucial, unhoused residents and housed supporters blocked rangers from locking the park’s bathrooms at night.49 They won twenty-four-hour access. In collaboration with activists from Street Watch and Ground Game LA, the encampment coordinated weekly cell-phone charging for residents, whose access to electricity had been curtailed by pandemic closures of libraries and restaurants. Otzoy started to collect and distribute donations for the community: money, water, food, 
 ---
 
 ## Page 119
@@ -2218,8 +2114,7 @@ Park Lake experienced “more peace than they’d known in years.”50 As they o
 
 BUT THE PRESENCE of unhoused people challenged the park’s function as an amenity, that is, a selling point for Echo Park. In 2013, the city had directed a mass of public resources to drawing in new residents and real estate speculation to the neighborhood, including a $45 million renovation of the park itself, as well as a gang injunction, which increased area police budgets —and police powers of discretion.51 Gentrifying the historically working- class, immigrant community—a process often euphemized as “cleaning up” a neighborhood—was part of the citywide vision for economic development, centered on displacement and replacement: luring richer residents to expand its tax base and boost consumption, while underwriting the growth of land and property values. In a single decade, Echo Park had seen a doubling of home prices, which new owners and officials were keen to defend.
      Multiple park residents had been raised in Echo Park yet, despite
-maintaining jobs, were unable to remain indoors—counting themselves among the two thousand people who become homeless in the city for every 5 percent rise in property values.52 From the perspective of these residents, Echo Park had not been improved by the city’s infusion of capital and cops; it had been removed. Almost a third of Echo Park’s immigrant population was pushed out between 2000 and 2014.53 Brenda, a resident who’d spent most of her sixty-two years within a few square miles of Echo Park Lake, said the ```
-
+maintaining jobs, were unable to remain indoors—counting themselves among the two thousand people who become homeless in the city for every 5 percent rise in property values.52 From the perspective of these residents, Echo Park had not been improved by the city’s infusion of capital and cops; it had been removed. Almost a third of Echo Park’s immigrant population was pushed out between 2000 and 2014.53 Brenda, a resident who’d spent most of her sixty-two years within a few square miles of Echo Park Lake, said the 
 ---
 
 ## Page 120
@@ -2235,8 +2130,7 @@ circulated a petition on social media accusing the unhoused residents of “dest
     Aligned with property values rather than human rights, city agencies
 conspired against residents of Echo Park Lake by denying or removing services. As public-records requests revealed, Chief Park Ranger Joe Losorelli had helped deny the park access to a hygiene trailer with showers, lest it become “another Occupy LA.”57 Sanitation ceased to collect trash from the area around the encampment. The Parks Department cut off electricity only from the lights around their tents. Then the lack of sanitation and lighting was leveraged as justification for a future sweep. The city refused to provide harm reduction and medical services to the community, then deployed overdose deaths at the park to call for the encampment’s removal.58 As in “constructive evictions” that drive tenants out of their homes with uninhabitable conditions, the city acted as slumlord, speculator, and sheriff.
 
-AT THE LAKE, residents had the autonomy to come and go, to remain with their partners and pets, to cook for themselves, and to analyze and address their needs themselves. At weekly meetings, they gathered to make collective decisions about distributing their resources and defending their space. “We all got involved in working together there, to make the kitchen, clean the ```
-
+AT THE LAKE, residents had the autonomy to come and go, to remain with their partners and pets, to cook for themselves, and to analyze and address their needs themselves. At weekly meetings, they gathered to make collective decisions about distributing their resources and defending their space. “We all got involved in working together there, to make the kitchen, clean the 
 ---
 
 ## Page 121
@@ -2252,8 +2146,7 @@ residents; keep your area clean; and if you’re going to use drugs, do so insid
      Over time, the coordination of resources became an offensive as well as
 defensive practice for the group. “When the mayor cut funding for showers during COVID-19, we didn’t just accept it, we built our own showers,” they announced on a fundraising page.65 “When the city decided to then cut our water supply we didn’t just accept it, we rallied community support and now have full gallons every day.” As Ahmed summarized about organizing in the context of state abandonment, “You don’t ask permission from the city, when they don’t care.” One night, residents and organizers strung up their own battery- and solar-powered lights. They planted a vegetable garden as an independent source of food.
      “We were figuring out how to solve these problems that come about due
-to the lack of affordable housing in California,” resident Cecelia Acho told ```
-
+to the lack of affordable housing in California,” resident Cecelia Acho told 
 ---
 
 ## Page 122
@@ -2267,8 +2160,7 @@ to the lack of affordable housing in California,” resident Cecelia Acho told `
 
 IN THE WINTER of 2021, police stepped up their presence, as did nonprofit and city workers with offers of temporary housing. Officials promised that every resident of the park would be placed somewhere indoors. Residents were circumspect. Tied to the threat of eviction and the presence of police, what the city called “offers” were mostly orders: ultimatums made at gunpoint, a choice between acceptance and banishment, compliance or arrest. Promises of “ housing” would provide the legal and rhetorical cover for police to purge them from public space. And those temporary, carceral spaces were less “housing” than arms of the prison system. As one protest sign summarized, “Housing without autonomy is internment.” Even to enter temporary housing, unhoused people have to give up their rights. They sign a contract as a “participant” and must testify that “no tenancy is created.” 68 “You’re in their hands,” Otzoy said. “They can do with you what they want.”69
     By the end of March 2021, city officials suggested that the city would
-close the park for repairs. Residents recognized that a final sweep was imminent. On March 23, the encampment put out a call on social media for support. “We’ve had nothing but each other this year and honestly it’s been a relief,” they wrote. “Without the constant LAPD and city harassment uprooting our lives we’ve been able to grow…. Our demand is simply this: ```
-
+close the park for repairs. Residents recognized that a final sweep was imminent. On March 23, the encampment put out a call on social media for support. “We’ve had nothing but each other this year and honestly it’s been a relief,” they wrote. “Without the constant LAPD and city harassment uprooting our lives we’ve been able to grow…. Our demand is simply this: 
 ---
 
 ## Page 123
@@ -2284,8 +2176,7 @@ remaining members of the encampment and their supporters. The mass of protestors
     Officers wielded batons, launched foam bullets at point-blank range, and
 tackled members of the crowd. One officer’s swinging nightstick broke a journalist’s arm.71 By morning, the last of the residents awoke to find themselves completely fenced inside the park with a mile-long, chain-link enclosure. In an Instagram live stream, they compared their surroundings to an open-air prison.72 The councilmember celebrated the mass eviction as “the single largest housing event in the history of the city.”73 A year later, the fallout of the event would become clear: only 7 percent of residents had been placed in permanent housing. Half were missing. Nine had died.
     As outlined in LAPD’s 101-page “After Action Report,” installing the
-fence was the central mission of police action.”74 Their strategy was to establish and guard an enclosure. The report describes the unhoused residents of the park as “an organized and well-equipped group of people experiencing homelessness [who] took control of the northwest corner of Echo Park.” It highlights solidarity, the tenants’ “unusual level of external support with easy access to resources like food, camping equipment, and electronics.” The police recognized the threat as a contest of ownership over territory they needed to defend by force. “As the Echo Park encampment ```
-
+fence was the central mission of police action.”74 Their strategy was to establish and guard an enclosure. The report describes the unhoused residents of the park as “an organized and well-equipped group of people experiencing homelessness [who] took control of the northwest corner of Echo Park.” It highlights solidarity, the tenants’ “unusual level of external support with easy access to resources like food, camping equipment, and electronics.” The police recognized the threat as a contest of ownership over territory they needed to defend by force. “As the Echo Park encampment 
 ---
 
 ## Page 124
@@ -2320,8 +2211,7 @@ our unqualified victories can be rolled back. Still, the partial character of ou
      For us, this process is alive, if implicit, in every rent strike, union
 meeting, and occupation of public and common space. A fight might begin with one neighbor catching another in the hallway, discovering the power of coming together as a building. Often their campaigns require the support of a larger organization, a union, which can offer them resources, guide them, and help coordinate them at the scale of a block or neighborhood. Most spectacular are those struggles that confront the state in its effort to violently displace those who cannot pay. But at each moment of its development, our work discloses something about the tenant movement, a hymn that can be read off every page: that the stake of our struggle is nothing less than the land itself, and the shape of the lives we can lead on it.
      In the examples above, tenants fight back against affordable housing on
-the one hand and carceral housing on the other, those policies for housed and unhoused tenants that prop up and perpetuate the real estate regime. As Hillside Villa shows, our movement must both invest in tenants associations to defend our housing and make demands of the state that produce budgetary and legitimacy crises. These open the door for real representation—tenant enfranchisement—while they expand independent tenant power. Rather than just demand new social housing, Hillside Villa suggests, we must socialize ```
-
+the one hand and carceral housing on the other, those policies for housed and unhoused tenants that prop up and perpetuate the real estate regime. As Hillside Villa shows, our movement must both invest in tenants associations to defend our housing and make demands of the state that produce budgetary and legitimacy crises. These open the door for real representation—tenant enfranchisement—while they expand independent tenant power. Rather than just demand new social housing, Hillside Villa suggests, we must socialize 
 ---
 
 ## Page 126
@@ -2339,8 +2229,7 @@ TO SOCIAL AND     political demands, the state answers with technical and econom
      The tenant as a political category collects the landless and propertyless,
 the disenfranchised and undocumented, those placed outside the category of citizen, even outside of the category of human. To reclaim a place is to struggle for, with, alongside, and because some of us are made to be “out of place” by the logic of policing and property. By deepening relationships with our neighbors, we can resist displacement and build lasting institutions of tenant democracy. We fight dispossession not with possession but by cultivating new forms of belonging.
      The abolition of rent is the absence of landlords and real estate
-speculators and the presence of new relationships to each other and to places where we live. Abolition is antagonistic and prefigurative, a creative and a destructive process. As we reclaim our housing, we stop landlords from stealing our wages. As we reclaim the territory of the city, we block ```
-
+speculators and the presence of new relationships to each other and to places where we live. Abolition is antagonistic and prefigurative, a creative and a destructive process. As we reclaim our housing, we stop landlords from stealing our wages. As we reclaim the territory of the city, we block 
 ---
 
 ## Page 127
@@ -2365,8 +2254,7 @@ speculators and the presence of new relationships to each other and to places wh
     The sense of connection was the glue that held the Second Street Tenants
 Association together, giving Garcia strength to endure the landlord’s campaign of harassment, even to take a risk in solidarity with her neighbors during the height of the pandemic, when some of her neighbors couldn’t pay rent at all. “If they’re doing this, support them,” she thought. “If they’re gonna kick one of you out, they’re gonna kick everybody out.”80 Of course, it was a risk to go on rent strike, yet the association helped her understand that it was also a risk not to try.
     In the context of so much uncertainty in the early pandemic months, of
-lockdowns, lost work, and sickness, how could they hand over what little they had to a landlord? “If we give our money to the landlord it’s gone,” Anne Orchier summarized. “The guarantee is that [our landlord] doesn’t bother us for one month.”81 The association found solace in the union’s frame around the strike: Food Not Rent. As Yesenia put it, tenants had two choices: “You pay rent or you eat.” ```
-
+lockdowns, lost work, and sickness, how could they hand over what little they had to a landlord? “If we give our money to the landlord it’s gone,” Anne Orchier summarized. “The guarantee is that [our landlord] doesn’t bother us for one month.”81 The association found solace in the union’s frame around the strike: Food Not Rent. As Yesenia put it, tenants had two choices: “You pay rent or you eat.” 
 ---
 
 ## Page 128
@@ -2382,8 +2270,7 @@ themselves, Garcia said. “We have this movement so we can talk, to let things 
      After the landlord’s attack on their garden, some members of the
 association and the broader union joined together early on a Friday morning to set things right. They restored their gathering space, replanting the spiked and poisonous plants into neat rows along the side of the yard, out of the reach of children and pets, returning access to their trash bins and the fruit of their trees. As rushed and shoddy a job as the landlord had done, the group was careful not to destroy his property. They repurposed the wood into a trellis, where jasmine would soon grow. On a break, the group partook in the ritual of Epiphany Day: within a sweet, circular loaf of bread, a miniature statue of baby Jesus is hidden; whoever finds that piece is responsible for feeding the group at their next gathering, held on día de la Candelaria. At the end of the day, they put up a hand-painted sign, christening “Isabel’s Garden.”
      The Second Street Tenants Association’s commitment has been
-demonstrated in a series of escalations that have drawn more people into their fight. When the landlord installed surveillance cameras over their common spaces and in their hallways—emailing them pictures of their comings and goings—the association hosted a party for their block. They blew up balloons, strategically placing them in front of each camera’s line of sight. When the landlord filed eviction notices for rent strikers, they hosted another party, this time for the Autonomous Tenants Union Network’s first in- person convention. They blocked the street with roadwork barricades ```
-
+demonstrated in a series of escalations that have drawn more people into their fight. When the landlord installed surveillance cameras over their common spaces and in their hallways—emailing them pictures of their comings and goings—the association hosted a party for their block. They blew up balloons, strategically placing them in front of each camera’s line of sight. When the landlord filed eviction notices for rent strikers, they hosted another party, this time for the Autonomous Tenants Union Network’s first in- person convention. They blocked the street with roadwork barricades 
 ---
 
 ## Page 129
@@ -2401,8 +2288,7 @@ that he’d drop his tenants’ evictions provided they stop their events. He sa
 
 WHEN WE ASKED Garcia what it might be like if she and her neighbors no longer had to worry about rent, or about having a landlord, she replied, “All the tenants could live together, come together, engage and interact with each other.”83 The word she used, again, was convivir. The means and ends of the tenants movement are one and the same: we get together, live together, hang out, spend time, get along, and get close to each other. The tenant movement is a concrete project to bring about another way of life.
     The loquat and avocado trees that Garcia planted in her yard as a
-teenager have grown to shade a movement that also grows. They now tower over the structure of the house, guarding a community of neighbors, an organization of tenants, and the faith to continue through every victory and every defeat. Looking up at them from the garden, we’re reminded of the spiritual we often sing, which prefigures the power we want: collective control over where and how we live; a right to housing that encompasses a right to survive, a right to take up space, a right to migrate, and a right to stay put. “Like a tree planted by the water,” the song goes, “we shall not be moved.” ```
-
+teenager have grown to shade a movement that also grows. They now tower over the structure of the house, guarding a community of neighbors, an organization of tenants, and the faith to continue through every victory and every defeat. Looking up at them from the garden, we’re reminded of the spiritual we often sing, which prefigures the power we want: collective control over where and how we live; a right to housing that encompasses a right to survive, a right to take up space, a right to migrate, and a right to stay put. “Like a tree planted by the water,” the song goes, “we shall not be moved.” 
 ---
 
 ## Page 130
@@ -2430,8 +2316,7 @@ We thank each and every member of the LA Tenants Union, past, present, and futur
     No one with their name not on the cover had more to do with the shape of
 this book than Rose Lenehan. We owe a special debt to Alexander Ferrer, Anne Orchier, Annie Powers, David Anthony Albright, David Madden, Marques Vestal, Justin Gilmore, and Sam Stein, who generously contributed their expertise and insight to chapter drafts, and to Brendan O’Connor, for ordering our mess of citations. We drew continual inspiration from spaces convened by Ananya Roy and thank all of our collaborators in the Institute on Inequality and Democracy and the Housing the Third Reconstruction Freedom School.
     Tracy would especially like to thank the people who made the work of
-writing possible. I would be capable of very little without Emily Gaines Tecchio. You are gravity. Rose Lenehan organized me. My oldest friend, Martha Tenney, shared institutional library access through ceaseless push notifications. Dearest Mara Mckevitt deliberated for hours on the phone. Jamie Lauren Keiles believed it was possible when I did not. I would also like to thank Emily Cooke and Katie McDonough, who edited the texts at the New Republic from which some of the language and research in this work ```
-
+writing possible. I would be capable of very little without Emily Gaines Tecchio. You are gravity. Rose Lenehan organized me. My oldest friend, Martha Tenney, shared institutional library access through ceaseless push notifications. Dearest Mara Mckevitt deliberated for hours on the phone. Jamie Lauren Keiles believed it was possible when I did not. I would also like to thank Emily Cooke and Katie McDonough, who edited the texts at the New Republic from which some of the language and research in this work 
 ---
 
 ## Page 132
@@ -3761,8 +3646,7 @@ Baker, Ella, 108, 144 Bay Area, 5 Bell Gardens, 23 Berkeley, 45 Black Panther Pa
     Union de Vecinos in, 3, 59
 Brazil, 111–112 Brenda, 136 Buffalo, 44
 
-California, 2, 83 ```
-
+California, 2, 83 
 ---
 
 ## Page 157
@@ -3785,8 +3669,7 @@ California Association of Realtors, 82 California Supreme Court, 49 Castro neigh
 
 Davis, Mike, 23, 111 Dayton, 44 DeBoth, Matt, 104 Democratic Party, 35, 49, 82 Democratic Socialists of America, LA, 78 Detroit, 44 Dodgers, 43 Dunleer Investments, 65
 
-East Hollywood, 86, 94–95 East Los Angeles Community Corporation (ELACC), 62 Eastside Local, 63, 65, 141 Echo Park Lake, 131–143 Echo Park Rise Up, 133, 135, 138, 143 Engels, Friedrich, 28–29 Escobar, Angel, 104, 106 ```
-
+East Hollywood, 86, 94–95 East Los Angeles Community Corporation (ELACC), 62 Eastside Local, 63, 65, 141 Echo Park Lake, 131–143 Echo Park Rise Up, 133, 135, 138, 143 Engels, Friedrich, 28–29 Escobar, Angel, 104, 106 
 ---
 
 ## Page 158
@@ -3804,8 +3687,7 @@ Garcetti, Eric, 51 Garcia, Isabel, 115–117, 145–146 Gerholz, Robert, 40 GI B
 
 Hancock Park, 94 Harlem, 21, 44, 70 Hayden, Dolores, 42 Hernandez, Leslie, 121–122, 124, 125, 127 Hernandez, Rosa, 129 Hillside Villa, 118–130, 143 Hillside Villa Tenants Association, 124 Hollins Tenants Association, 62 Hollywood, 3, 86 Hoover, Herbert, 37 HOPE VI, 50, 61 Horton, Miles, 108 Housing Act (1949), 43 Houston, 5 Hoyt, Homer, 38
 
-Immigration and Customs Enforcement, 70 ```
-
+Immigration and Customs Enforcement, 70 
 ---
 
 ## Page 159
@@ -3821,8 +3703,7 @@ Jarvis, Howard, 46 Jim Crow, 40, 96 Johnson, Lyndon B., 44 Juárez, Alejandro, 6
 
 K3 Holdings, 103–107 K3 Tenant Council, 105–106 Kadisha, Joshua, 103 Kadisha, Michael, 103 Kadisha, Nathan, 103 Kadisha, Neil, 104 Kansas City, 5, 44 Kent Tenants Association, 109 Kentucky, 53 Kerner Commission, 44 King, Martin Luther, Jr., 96 KnockLA, 68 Lai, Benson, 122 LA Metro, 61, 63
 
-Landless Workers’ Movement (MST), 111–112 LA Taco, 72 LA Tenants Union, 4, 13, 55, 127, 129 Alcazar and, 89 Chinatown Community for Equitable Development and, 123 COVID-19 and, 5 Day of the Dead action, 112 East Hollywood, 86, 94–95 Eastside chapter, 62, 100 first meeting of, 3, 81 “Food Not Rent” campaign of, 79, 146 growth of, 86, 88 K3 Holdings and, 104, 106–107 LA City Council protest by, 56 letter to Turner from, 66 Los Mariachis rent strike and, 59, 73 Northeast Local, 86 Rancho Park protest by, 78 Unhoused Tenants Against Carceral Housing and, 141 Vermont y Beverly local chapter, 110 ```
-
+Landless Workers’ Movement (MST), 111–112 LA Taco, 72 LA Tenants Union, 4, 13, 55, 127, 129 Alcazar and, 89 Chinatown Community for Equitable Development and, 123 COVID-19 and, 5 Day of the Dead action, 112 East Hollywood, 86, 94–95 Eastside chapter, 62, 100 first meeting of, 3, 81 “Food Not Rent” campaign of, 79, 146 growth of, 86, 88 K3 Holdings and, 104, 106–107 LA City Council protest by, 56 letter to Turner from, 66 Los Mariachis rent strike and, 59, 73 Northeast Local, 86 Rancho Park protest by, 78 Unhoused Tenants Against Carceral Housing and, 141 Vermont y Beverly local chapter, 110 
 ---
 
 ## Page 160
@@ -3851,8 +3732,7 @@ National Association of Realtors, 37, 82 National Home Builders, 40 National Uni
 
 Oceanwide Plaza, 25 O’Farrell, Mitch, 136 Office of Price Administration (OPA), 41 Omninet Capital, 104 Otzoy, Gustavo, 131, 134, 137, 139, 141–142
 
-Parson, Donald, 41 ```
-
+Parson, Donald, 41 
 ---
 
 ## Page 162
@@ -3870,8 +3750,7 @@ Raman, Nithya, 34 Ramirez, Isabel, 63, 66, 71–74, 77 Ramirez, Tony, 95–96 Ra
 
 Sanchez, Jose, 72, 73, 77 San Francisco, 21 School of Echoes, 3 Schwarzman, Stephen, 19 Second Street, 61–62, 115, 145, 147 Second Street Tenants Association, 145, 147 Section 8, 47, 122–123, 126–127 Senterfitt, Walt, 55, 147 Smith, Neil, 52 South America, 40 South Los Angeles Homeowners Association, 41 Stein, Sam, 51 Stop LAPD Spying Coalition, 52 Street Watch, 134 Supreme Court, 44
 
-Taylor, Breonna, 53–54 Taylor, Keeanga-Yamahtta, 23 ```
-
+Taylor, Breonna, 53–54 Taylor, Keeanga-Yamahtta, 23 
 ---
 
 ## Page 163
@@ -3885,8 +3764,7 @@ Taylor, Breonna, 53–54 Taylor, Keeanga-Yamahtta, 23 ```
 
 Unhoused Tenants Against Carceral Housing, 141 Union de Vecinos, 3, 86, 100, 141 Esperanza Neighborhood Committee of, 99 Los Mariachis rent strike and, 59–60, 63, 64, 73 United Nations, 138 United States American dream, 31, 50 cheap housing in, 27 city zoning in, 42 evictions in, 10, 18–20, 23, 41, 43, 53, 70–71 George Floyd protests in, 137 guest-worker programs in, 40 Indigenous dispossession in, 1, 36 landlords in, 11, 36, 82, 85, 97 migration to, 45 mortgage debt in, 50 Omninet Capital in, 104 public housing in, 39–40, 41–43, 47–48, 50 slum clearance in, 43–44 suburbs in, 52 tenants in, 2, 4–5, 10, 16, 36, 37, 40, 50 unhoused people in, 2, 10, 48 wars on the poor and people of color in, 35 wealth in, 24 University of California, LA, 132, 137 University of Southern California, 88 US Census, 16 US Department of Housing and Urban Development, 15, 48
 
-Valdivia, Enrique, 63 Valdivia, Luis, 63, 66 Ventus Group, 88–89 Vermont y Beverly local chapter, 110 ```
-
+Valdivia, Enrique, 63 Valdivia, Luis, 63, 66 Ventus Group, 88–89 Vermont y Beverly local chapter, 110 
 ---
 
 ## Page 164
@@ -3931,8 +3809,7 @@ Yesenia, 116, 146 Young Lords, 45
 
 
 
-Tracy Rosenthal is a cofounder of the LA Tenants Union whose writing on housing and homelessness has been published in the New Republic, The Nation, the LA Times, and elsewhere. Rosenthal is now on rent strike in New York City. ```
-
+Tracy Rosenthal is a cofounder of the LA Tenants Union whose writing on housing and homelessness has been published in the New Republic, The Nation, the LA Times, and elsewhere. Rosenthal is now on rent strike in New York City. 
 ---
 
 ## Page 166

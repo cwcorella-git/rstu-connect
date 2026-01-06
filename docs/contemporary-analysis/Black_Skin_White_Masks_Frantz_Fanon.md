@@ -1002,8 +1002,7 @@ differences that separate me from them. Indeed, read the book again and you will
 
 
 Who knocked at the door? Ah, yes, of course.
-## ```
-
+## 
 ## "Is that you, Soua?"
 
 ## "Yes, major."
@@ -2297,8 +2296,7 @@ rise glutton of the sky
 and the vast black hole where I wanted to drown myself
 the other moon
 there now I want to haul out the evil tongue
-## ```
-
+## 
 of the night in its moveless glaze!54
 
 <sup>54.</sup> Aimé Césaire, *Cahier d'un retour au pays natal* (Paris, Présence Africaine, 1956), pp. 94–96.

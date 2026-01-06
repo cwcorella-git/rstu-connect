@@ -76,8 +76,7 @@ Here's an example of how you can create a simple procedural animation using GDSc
 extends Node2D func _process(delta): var amplitude =
 50 var frequency = 2 $Sprite.position.y =
 sin(TIME.get_ticks() frequency) amplitude
-## ```
-
+## 
 In this example, we're creating a simple sine wave animation. The sprite will move up and down in a wave-like motion, with the amplitude and frequency controlled by variables.
 
 Procedural animation can be a bit daunting if you're not comfortable with code, but it's a powerful tool that's worth learning. Plus, Godot's GDScript is pretty easy to pick up, even if you're new to programming.

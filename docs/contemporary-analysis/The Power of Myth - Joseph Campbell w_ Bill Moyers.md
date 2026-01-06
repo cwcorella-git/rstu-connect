@@ -2150,8 +2150,7 @@ There is an equivalent scene described in the apocryphal Christian Acts of John,
 
 
  To which the circling company responds, "Amen."
-## ```
-
+## 
 ## "Glory be to thee, Word!"
 
 ## And again, "Amen."

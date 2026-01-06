@@ -57,8 +57,7 @@ in.
 1:30
 There is emphasis on the future among solarpunk spaces, but the punk aspect of 
 solarpunk is
-## ```
-
+## 
 derived from its rebellion against the war on hope.
 
 ## 1:39
@@ -307,8 +306,7 @@ resilient, no
 waste, and closed loop systems seen in nature.
 9:09
 Permaculture seeks to work with, rather than against, nature.
-## ```
-
+## 
 Food forests are nothing new.
 
 ## 9:15
@@ -631,8 +629,7 @@ While the selective breeding of the past has helped humanity give certain crops
 certain
 15:54
 desirable traits, it takes many generations to see any kind of success.
-## ```
-
+## 
 15:59 Meanwhile, through genetic engineering technology, we've been able to accelerate this process 16:04 to improve the growth, pest resistance, nutritional content, and ease of farming for many staple 16:10 crops. 16:11 However, it's not all sunshine and rainbows. 16:15 There has been some legitimate concern about the impact of GMOs on the environment, as 16:19 well as some less scientifically grounded concern about the impact of GMOs on human 16:24 health. 16:25 The scientific consensus is that GM crops are just as safe for human and animal consumption 16:30 as conventional food. 16:31 They don't cause cancer or allergies. 16:34 But it is important to be rigorous in our testing of these crops before introducing 16:39 them to the public. 16:40 As for GMOs impact on the environment, a lot of it can be boiled down to the practices 16:45 of capitalist industrial agriculture. 16:48 Besides the patents and monopolies that manipulate and foster debilitating dependency on multinational 16:54 agricultural corporations, the way that GMOs are currently used in monoculture farming 17:01 contributes to the current decrease in biodiversity and ongoing evolution of resilient pests and 17:06 diseases that can easily wipe out large populations of flora. 17:11 We need to liberate the innovations and benefits of GMOs from their current, environmentally 17:15 damaging uses. 17:17 We need to seize them from the clutches of these corporations and venture into the currently 17:21 uncharted territory of their immense potential. 17:24 Our climate is changing, and we need our food sources to change with it to minimize the
 
 ## 17:29
@@ -702,4 +699,4 @@ Check out all my other videos for a range of radical topics.
 You can follow me on Twitter @_saintdrew.
 22:22
 Thanks again, peace!
-## ```
+## 

@@ -76,8 +76,7 @@ Human Services for a waiver granted pursuant to 42 U.S.C. § 1315
 
 
    -                                                                                  82nd Session (2023)
-```
-
+
 ---
 
 ## Page 2
@@ -137,8 +136,7 @@ to which money from the appropriation is granted or otherwise
 
 
    -                                                     82nd Session (2023)
-```
-
+
 ---
 
 ## Page 3
@@ -187,7 +185,6 @@ become effective upon passage and approval.
 
 
    -                                              82nd Session (2023)
-```
-
+
 ---
 

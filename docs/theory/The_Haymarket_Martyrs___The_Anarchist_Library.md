@@ -35,7 +35,7 @@ The Haymarket Martyrs | The Anarchist Library https://theanarchistlibrary.org/li
                                  The Haymarket Martyrs
          Does this rising generation know that those who inaugurated the eight-hour day were put to death at the
          command of capital?
-1 of 2 7/31/25, 7:03 PM ``` The Haymarket Martyrs | The Anarchist Library https://theanarchistlibrary.org/library/lucy-e-parsons-th...
+1 of 2 7/31/25, 7:03 PM  The Haymarket Martyrs | The Anarchist Library https://theanarchistlibrary.org/library/lucy-e-parsons-th...
          Until forty years ago men, women and children toiled ten and often twelve hours a day in factories for a mere
          pittance, and children from six to nine years of age had to work to help keep up the family.
          The Knights of Labor, a powerful organization claiming 500,000 members, had never agitated for a reduction of
@@ -80,8 +80,7 @@ This document was converted from **01_Political_Theory/Articles/The Haymarket Ma
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_The_Haymarket_Martyrs___The_Anarchist_Library/01_Political_Theory_Articles_The_Haymarket_Martyrs___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_The_Haymarket_Martyrs___The_Anarchist_Library/01_Political_Theory_Articles_The_Haymarket_Martyrs___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

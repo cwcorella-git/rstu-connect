@@ -5155,8 +5155,7 @@ This document was converted from **02_Game_Design/Books/Game Interface Design - 
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/02_Game_Design_Books_Game_Interface_Design_-_Brent_Fox/02_Game_Design_Books_Game_Interface_Design_-_Brent_Fox.md" ```
-
+bash claude code "Collections/02_Game_Design_Books_Game_Interface_Design_-_Brent_Fox/02_Game_Design_Books_Game_Interface_Design_-_Brent_Fox.md" 
 **Library Location:** 02_Game_Design is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

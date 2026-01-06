@@ -66,8 +66,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
                action at a recent legislative committee hearing.
 
 1 of 7                                                                                    8/28/25, 10:41 AM
-```
-
+
 ---
 
 ## Page 2
@@ -127,8 +126,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 
 2 of 7                                                                                    8/28/25, 10:41 AM
-```
-
+
 ---
 
 ## Page 3
@@ -181,8 +179,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 
 3 of 7                                                                                    8/28/25, 10:41 AM
-```
-
+
 ---
 
 ## Page 4
@@ -233,8 +230,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
                homelessness.”
 
 4 of 7                                                                                    8/28/25, 10:41 AM
-```
-
+
 ---
 
 ## Page 5
@@ -286,8 +282,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 
 5 of 7                                                                                    8/28/25, 10:41 AM
-```
-
+
 ---
 
 ## Page 6
@@ -339,8 +334,7 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 
 6 of 7                                                                                    8/28/25, 10:41 AM
-```
-
+
 ---
 
 ## Page 7
@@ -387,7 +381,6 @@ Address rent now or homelessness later, lawmakers told   about:reader?url=https%
 
 
 7 of 7                                                                                    8/28/25, 10:41 AM
-```
-
+
 ---
 

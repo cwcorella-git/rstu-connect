@@ -92,8 +92,7 @@ How We Used Open Data to Identify Investor-Owned Si...                https://ur
 
 
 1 of 19                                                                                                      9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 2
@@ -147,8 +146,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 2 of 19                                                                                        9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 3
@@ -190,8 +188,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 3 of 19                                                                                        9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 4
@@ -218,8 +215,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 4 of 19                                                                                        9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 5
@@ -272,8 +268,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 5 of 19                                                                                        9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 6
@@ -331,8 +326,7 @@ How We Used Open Data to Identify Investor-Owned Si...         https://urban-ins
 
 
 6 of 19                                                                                              9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 7
@@ -370,8 +364,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 7 of 19                                                                                        9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 8
@@ -398,8 +391,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 8 of 19                                                                                        9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 9
@@ -429,8 +421,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 9 of 19                                                                                        9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 10
@@ -483,8 +474,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 10 of 19                                                                                       9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 11
@@ -544,8 +534,7 @@ How We Used Open Data to Identify Investor-Owned Si...     https://urban-institu
 
 
 11 of 19                                                                                         9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 12
@@ -602,8 +591,7 @@ How We Used Open Data to Identify Investor-Owned Si...              https://urba
 
 
 12 of 19                                                                                                         9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 13
@@ -651,8 +639,7 @@ How We Used Open Data to Identify Investor-Owned Si...         https://urban-ins
 
 
 13 of 19                                                                                               9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 14
@@ -711,8 +698,7 @@ How We Used Open Data to Identify Investor-Owned Si...          https://urban-in
 
 
 14 of 19                                                                                                 9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 15
@@ -764,8 +750,7 @@ How We Used Open Data to Identify Investor-Owned Si...       https://urban-insti
 
 
 15 of 19                                                                                             9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 16
@@ -809,8 +794,7 @@ How We Used Open Data to Identify Investor-Owned Si...      https://urban-instit
 
 
 16 of 19                                                                                          9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 17
@@ -861,8 +845,7 @@ How We Used Open Data to Identify Investor-Owned Si...                        ht
 
 
 17 of 19                                                                                                            9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 18
@@ -903,8 +886,7 @@ How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute
 
 
 18 of 19                                                                                       9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 19
@@ -961,7 +943,6 @@ How We Used Open Data to Identify Investor-Owned Si...              https://urba
 
 
 19 of 19                                                                                                  9/8/25, 12:23 PM
-```
-
+
 ---
 

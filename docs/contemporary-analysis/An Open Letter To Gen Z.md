@@ -57,8 +57,7 @@ Some of us, *cough* like myself, are crippled by nostalgia.
 Alas, if only I could go back to "walking down the street with everybody that I 
 meet 
 1:50
-## ```
-
+## 
 having an original point of view" or venturing "between the lions". It couldn't last.
 
 ## 1:56

@@ -37,7 +37,7 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
                precisely because democratic ideals are so attractive.
                Periodical elections and (relative) freedom of expression and
                association are used to justify a society where a few really rule
-1 of 19 3/17/25, 5:10 PM ``` Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 19 3/17/25, 5:10 PM  Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                over the majority. Capitalist democracy is used by competing
                factions of rulers to settle their disputes without (much)
                bloodshed. It serves to coopt rebellious popular forces.
@@ -561,8 +561,7 @@ This document was converted from **01_Political_Theory/Articles/Anarchism as Ext
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Anarchism_as_Extreme_Democracy___The_Anarchist_Library/01_Political_Theory_Articles_Anarchism_as_Extreme_Democracy___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Anarchism_as_Extreme_Democracy___The_Anarchist_Library/01_Political_Theory_Articles_Anarchism_as_Extreme_Democracy___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

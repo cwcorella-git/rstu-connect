@@ -962,8 +962,7 @@ Finally, it is important to keep separate the display and output areas below the
 
 x = 2434 + 33476
 x
-## ```
-
+## 
 In this example, you wouldn't actually see the value computed unless you print it to the display area, or return the value. Here, we return it as the last value o the cell.
 
 ## ![](_page_41_Picture_8.jpeg)
@@ -995,8 +994,7 @@ In addition to the IPywidgets library, the ipyleaet library (https://ipylealet.r
 
 from ipyleaflet import Map
 Map(center=[34.6252978589571, -77.34580993652344], zoom=10)
-## ```
-
+## 
 For the ambitions reader, there are resources available or you to write your your own custom widgets. The widget cookie cutter project (https://ipywidgets.rtd.io) is a good place to start.
 
 #### 5.3.3 Magics

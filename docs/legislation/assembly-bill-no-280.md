@@ -78,8 +78,7 @@ urinal, neither of which is separated from the other by enclosure within a stall
 
 
    -                                                            81st Session (2021)
-```
-
+
 ---
 
 ## Page 2
@@ -149,8 +148,7 @@ that provides a single-stall restroom to the public shall make the
 
 
    -                                                                                   81st Session (2021)
-```
-
+
 ---
 
 ## Page 3
@@ -209,8 +207,7 @@ NRS 651.050.
 
 
    -                                                81st Session (2021)
-```
-
+
 ---
 
 ## Page 4
@@ -270,8 +267,7 @@ origin, disability, sexual orientation, sex or gender identity or
 
 
    -                                               81st Session (2021)
-```
-
+
 ---
 
 ## Page 5
@@ -331,8 +327,7 @@ restroom with the child;
 
 
    -                                              81st Session (2021)
-```
-
+
 ---
 
 ## Page 6
@@ -392,8 +387,7 @@ elimination of architectural barriers to persons with a physical
 
 
    -                                              81st Session (2021)
-```
-
+
 ---
 
 ## Page 7
@@ -453,8 +447,7 @@ Design, 36 C.F.R. §§ 1190.1 et seq.; and
 
 
    -                                                81st Session (2021)
-```
-
+
 ---
 
 ## Page 8
@@ -514,8 +507,7 @@ requirements of this section. Each political subdivision shall verify
 
 
    -                                                 81st Session (2021)
-```
-
+
 ---
 
 ## Page 9
@@ -575,8 +567,7 @@ areas that provides a single-stall restroom to the public within the
 
 
    -                                              81st Session (2021)
-```
-
+
 ---
 
 ## Page 10
@@ -636,8 +627,7 @@ from the other by enclosure within a stall.
 
 
    -                                               81st Session (2021)
-```
-
+
 ---
 
 ## Page 11
@@ -697,8 +687,7 @@ by persons of the other gender.
 
 
    -                                                 81st Session (2021)
-```
-
+
 ---
 
 ## Page 12
@@ -758,7 +747,6 @@ February 1, 2022.
 
 
    -                                               81st Session (2021)
-```
-
+
 ---
 

@@ -68,26 +68,22 @@ On Ubuntu/Debian:
 
 
 sudo apt install cabextract
-## ```
-
+## 
 On Fedora:
 
 
 sudo dnf install cabextract
-## ```
-
+## 
 On Arch Linux:
 
 
 sudo pacman -S cabextract
-## ```
-
+## 
 Once cabextract is installed, try rerunning the firmware script with sudo:
 
 
 sudo ./xone-get-firmware.sh
-## ```
-
+## 
 The key steps when you get errors like this during complex script installs are:
 
 - 1. Carefully read the error message to determine the missing dependency.
@@ -154,22 +150,19 @@ Feel free to package xone for any Linux distribution or hardware you like. Any i
 
 
 git clone https://github.com/medusalix/xone
-## ```
-
+## 
 1. Install xone:
 
 
 cd xone sudo ./install.sh --release
-## ```
-
+## 
 NOTE: Please omit the --release flag when asked for your debug logs.
 
 1. Download the firmware for the wireless dongle:
 
 
 sudo xone-get-firmware.sh
-## ```
-
+## 
 NOTE: The --skip-disclaimer flag might be useful for scripting purposes.
 
 1. Plug in your Xbox devices.
@@ -180,8 +173,7 @@ Make sure to completely uninstall xone before updating:
 
 
 sudo ./uninstall.sh
-## ```
-
+## 
 ## Wireless pairing
 
 Xbox devices have to be paired to the wireless dongle. They will not automatically connect to the dongle if they have been previously plugged into a USB port or used via Bluetooth.
@@ -215,9 +207,9 @@ Please join the Discord server in case of any other problems.
 
 ### License xone is released under the GNU General Public License, Version 2.
 
-## ``` Copyright (C) 2021 Severin von Wnuck
+##  Copyright (C) 2021 Severin von Wnuck
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. ```" I have the repository located here '/home/developer/Repository/xone'
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. " I have the repository located here '/home/developer/Repository/xone'
 
 It looks like you are trying to install and run xone, which is a Linux kernel driver for Xbox controllers. Here are the key steps I would recommend based on the readme:
 

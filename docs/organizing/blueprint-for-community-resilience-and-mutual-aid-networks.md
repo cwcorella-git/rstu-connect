@@ -160,8 +160,7 @@ This document was converted from **01_Political_Theory/Books/blueprint-for-commu
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Books_blueprint-for-community-resilience-and-mutual-aid-networks/01_Political_Theory_Books_blueprint-for-community-resilience-and-mutual-aid-networks.md" ```
-
+bash claude code "Collections/01_Political_Theory_Books_blueprint-for-community-resilience-and-mutual-aid-networks/01_Political_Theory_Books_blueprint-for-community-resilience-and-mutual-aid-networks.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

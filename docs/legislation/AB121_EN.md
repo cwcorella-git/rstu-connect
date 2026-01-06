@@ -78,8 +78,7 @@ charge through an Internet website or online portal from charging the tenant a f
 
 
    -                                                           83rd Session (2025)
-```
-
+
 ---
 
 ## Page 2
@@ -145,8 +144,7 @@ agreement.
 
 
    -                                                                                   83rd Session (2025)
-```
-
+
 ---
 
 ## Page 3
@@ -206,8 +204,7 @@ provide additional copies of any such agreement to the tenant within
 
 
    -                                              83rd Session (2025)
-```
-
+
 ---
 
 ## Page 4
@@ -266,8 +263,7 @@ dwelling unless the agreement:
 
 
    -                                               83rd Session (2025)
-```
-
+
 ---
 
 ## Page 5
@@ -327,8 +323,7 @@ asterisk or other reference symbol which:
 
 
    -                                             83rd Session (2025)
-```
-
+
 ---
 
 ## Page 6
@@ -389,8 +384,7 @@ NRS 118B.015.
 
 
    -                                               83rd Session (2025)
-```
-
+
 ---
 
 ## Page 7
@@ -401,8 +395,7 @@ NRS 118B.015.
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 8
@@ -413,7 +406,6 @@ NRS 118B.015.
 ### Extracted Text
 
 
-```
-
+
 ---
 

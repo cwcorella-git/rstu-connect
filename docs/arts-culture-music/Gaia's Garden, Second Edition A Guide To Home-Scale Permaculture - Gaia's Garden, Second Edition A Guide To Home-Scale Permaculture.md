@@ -5649,8 +5649,7 @@ Chaenomeles spp.
 Chamaemelum nobile (chamomile)
 chamomile
  corn
-## ```
-
+## 
 ## German chard cheese mallow chaperone plants
 
 ## Chamomilla rectutita (chamomile, German)
@@ -5722,8 +5721,7 @@ clover .
  red Kenland
  strawberry
  sweet white
-## ```
-
+## 
 sweet yellow white Dutch white Ladino white New Zealand coffeeberry Colacasia esculenta (taro) cold air, eliminating Coleman, Eliot collards color, microclimate created by color scheme, garden Colorado coltsfoot columbine Colutea arborescens (bladder senna) comfrey. See Symphytum officinale (comfrey) commercial farming large-scale zone III for comminution of leaves common milkweed common rush communities, plant. See plant communities companion planting composite family compost . See also sheet mulch carbon to nitrogen (C:N) ratio leaf, composting into nutrients of connectedness . See also plant communities contoured land conventional gardens Conyza canadensis (horsewood) cool microclimates cool weather cover crops cordon techniques Coriandrum sativum (coriander) corn corn chamomile corn salad corn stover Cornelian cherry dogwood Cornus (dogwood) C. florida (flowering) C. mas (Cornelian cherry) Corylus spp. C. avellana (hazelnut) C. cornuta (California hazelnut) Cosmos bipinnatus (cosmos) cotoneaster cottonseed meal cover crops annuals for fertility for forest garden to open compacted soil perennials selecting covercrops nitrogen-fixing plants cowpeas crabapple trees crabgrass Craetagus douglasii (black hawthorn) Crambe maritima (sea kale) cranberry. See Viburnum spp. (cranberry) Crataegus spp. (hawthorn) C. aestivalis
 
 ## C. apaca
@@ -5803,8 +5801,7 @@ Dutch clover
 dwarf alpine aster
 dwarf pear trees
 dwarf yarrow
-## ```
-
+## 
 ## Dyer's greenwood dynamic nutrient accumultors
 
 Dyrness, C. T.
@@ -5858,8 +5855,7 @@ European pear
 European wahoo
 Evans, Ianto
 evergreens. See also specific plants
-## ```
-
+## 
 exotic plants
 
 Fabaceae family. See legumes Fagopyrum esculentum (buckwheat) Fagus spp. (beech) F. grandiflora F. sylvatica Fallugia paradoxa (Apache plume) false indigo. See Amorpha fruticosa (false indigo) Fargesia spp. (bamboo) farm zone farmers' markets fat hen fava bean. See Vicia faba (bell bean, faba bean) feather reed grass fedges. See hedges Feijoa sellowiana fences fennel. See Foeniculum vulgare (fennel) fenugreek Fern, Ken fertility. See soil fertility fertilizers. See also manure chemical, effect on soil of soluble, use of tied to organic matter fescue creeping red zorro Festuca rubra (fescue, creeping red) feverfew Ficus carica (fig) fig figwort filazels filbert fir trees. See also Douglas fir fire sectors firethorn fireweed firewood flax flood management flowering quince. See Cydonia oblonga (quince) Flowering Tree Permaculture Institute flowers. See also specific flowers bird-attracting city garden insect-attracting Zone Zone Foeniculum vulgare (fennel) Fogopyrum esculentum (buckwheat) food forest design evolution of history of plant guilds forage zone Forest Gardening forest gardens. See food forest forests biodiversity of edges, opportunistic plants at
@@ -5952,8 +5948,7 @@ greens. See also specific greens
  location in garden
  perennial
  shade for
-## ```
-
+## 
 ground covers.
 
 See also specific plants for forest garden nitrogen-fixing groundcherry groundnut groundplum milkvetch groundsel guilds. See plant guilds gypsum
@@ -6141,8 +6136,7 @@ Mycelium Running
 Myrica spp.
  M. pensylvanica (bayberry)
 Myrica spp. (bayberry, wax myrtle)
-## ```
-
+## 
 Nanking cherry nasturtium. See Tropaeolum spp. Nasturtium officinale (watercress) native plants exotics vs. North American water used by natural garden patterns nature, gardens that work with. See also ecological gardens Navarretia squanosa (skunk cabbage) nectar-producing plants nectarine trees needs and yield analysis Nelumbo nucifera (Chinese water lotus) Nepalese raspberry Nepeta faassenii, N. mussinii (catmint) net garden patterns nettle, stinging. See Urtica urens (nettle, stinging) New Jersey tea New Mexico New Mexico locust trees New Zealand flax New Zealand spinach newspaper/cardboard niches Nicotiana spp. (tobacco) nightshade nitrates nitrogen aphids attracted by carbon to nitrogen (C:N) ratio nitrogen-fixing plants covercrops Elaeagnus spp. in food forest in guild multifunctional plants for nurse plants as in shelterbelt nurse plants nut husks nut trees nutrients accumulator plants from cover crops forest soil in humus leaching of leaf, nutrients from composting of
 
 ## Nalumbo lutea, N. nucifera (lotus)
@@ -6224,8 +6218,7 @@ ponds
  water catchment
 Pontederia cordata (pickerel weed)
 poplar, hybrid
-## ```
-
+## 
 
 poppy, California
 Portulaca oleracea (purslane)
@@ -6273,8 +6266,7 @@ Pyrus spp. (pear)
  dwarf pears
  P. communis (European)
  P. pyrifolia (Asian pear)
-## ```
-
+## 
 ## Q
 
 Queen Anne's lace Quercus spp. (oak) Q. alba Q. garryana (Oregon white oak) Q. macrocarpa (bur oak) quince. See Cydonia oblonga (quince) quinoa
@@ -6344,8 +6336,7 @@ round-leaved snowberry. See Symphoricarus albus (snowberry)
 Rubus spp. (blackberry, raspberry)
  R. fruticosus (blackberry)
  R. idaeus
-## ```
-
+## 
 ## R. nepalensis (Nepalese raspberry)
 
 ## R. parviflorus (thimbleberry)
@@ -6442,8 +6433,7 @@ shade
  polyculture planting
  water conservatio and
 shagbark hickory
-## ```
-
+## 
 shallots
 
 
@@ -6515,8 +6505,7 @@ soybeans
 Spanish broom
 Spartium junceum (Spanish broom)
 spearmint
-## ```
-
+## 
 
 p
 speedwell
@@ -6580,8 +6569,7 @@ sycamore
 Symphoricarus albus (snowberry)
 Symphytum officinale (comfrey)
 synergy. See connectedness
-## ```
-
+## 
 syrphid flies tagasaste Tagetes spp. (marigold) T. erecta T. minuta (Mexican marigold, wild marigold) T. patula T. tenuifolia tamarisk Tanacetum vulgare (tansy) tansy Taraxacum vulgare (dandelion) taro Taylor's Master Guide to Landscaping Tetragonia tetragoniodes (New Zealand spinach) Thalia spp. (water canna) Thermopsis villosa (Carolina bush pea) thimbleberry thistle Canada creeping milk nodding Russian sow star Thlaspicaerulescens (pennycress, alpines) thrift Thymus (thyme) T. praecox T. Serpyllum coccineus (crimson thyme) T.vulgaris tilling timothygrass toadflax tobacco, stems/stalk Toensmeier, Eric tomato plants toothpick ammi Topek, Kevin toxins, dealing with toyon trailing bellflower trailing blackberry trazels tree hazels tree mallow tree of heaven trees. See also specific trees birds attracted to espaliered for firewood and timber at forest edges in forest garden graywater for in food forest many uses of net pattern for planting in sheet mulch for poultry forage trellises Trifolium spp. (clover) T. alexandrinum
 
 ## T. fragiferum T. hybridum tachinid flies
@@ -6697,8 +6685,7 @@ wildlife habitat . See also specific animals
  observation at garden site
  plants nurturing
  ponds
-## ```
-
+## 
 sectors for trees and willow. See Salix spp. (willow) wind sector windbreaks Wingate, David winter peas wintercress wisteria, trellised witch hazel wolfberry. See Lycium spp. (wolfberry, boxthorn wood, as soil builder wood betony wood chips wood shavings woodlots work of gardening. See garden work worms wormwood
 
 ## X

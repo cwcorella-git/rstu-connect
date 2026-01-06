@@ -63,8 +63,7 @@ tags:
                     more than commonly abundant in ﬁsh, which make a great part of the subsistence of their
 
 
-1 of 15                                                                                                                       7/9/25, 8:31 PM ```
-
+1 of 15                                                                                                                       7/9/25, 8:31 PM 
 ---
 
 ## Page 2
@@ -112,8 +111,7 @@ tags:
 
 
 
-2 of 15                                                                                                                      7/9/25, 8:31 PM ```
-
+2 of 15                                                                                                                      7/9/25, 8:31 PM 
 ---
 
 ## Page 3
@@ -160,8 +158,7 @@ tags:
 
 
 
-3 of 15                                                                                                                       7/9/25, 8:31 PM ```
-
+3 of 15                                                                                                                       7/9/25, 8:31 PM 
 ---
 
 ## Page 4
@@ -208,8 +205,7 @@ tags:
 
 
 
-4 of 15                                                                                                                       7/9/25, 8:31 PM ```
-
+4 of 15                                                                                                                       7/9/25, 8:31 PM 
 ---
 
 ## Page 5
@@ -256,8 +252,7 @@ tags:
                     rent, but not inevitably. (op. cit., Vol. I, p. 147.)
 
 
-5 of 15                                                                                                                     7/9/25, 8:31 PM ```
-
+5 of 15                                                                                                                     7/9/25, 8:31 PM 
 ---
 
 ## Page 6
@@ -304,8 +299,7 @@ tags:
                is yet another, as we shall presently see.
 
 
-6 of 15                                                                                                                       7/9/25, 8:31 PM ```
-
+6 of 15                                                                                                                       7/9/25, 8:31 PM 
 ---
 
 ## Page 7
@@ -351,8 +345,7 @@ tags:
                the interest of the tenant farmer – and thus already to a signiﬁcant section of society.
 
 
-7 of 15                                                                                                                          7/9/25, 8:31 PM ```
-
+7 of 15                                                                                                                          7/9/25, 8:31 PM 
 ---
 
 ## Page 8
@@ -399,8 +392,7 @@ tags:
 
 
 
-8 of 15                                                                                                                        7/9/25, 8:31 PM ```
-
+8 of 15                                                                                                                        7/9/25, 8:31 PM 
 ---
 
 ## Page 9
@@ -447,8 +439,7 @@ tags:
                     pp. 152-53.)
 
 
-9 of 15                                                                                                                     7/9/25, 8:31 PM ```
-
+9 of 15                                                                                                                     7/9/25, 8:31 PM 
 ---
 
 ## Page 10
@@ -495,8 +486,7 @@ tags:
                confuses the shamefulness of huckstering the land with the perfectly rational consequence,
 
 
-10 of 15                                                                                                                     7/9/25, 8:31 PM ```
-
+10 of 15                                                                                                                     7/9/25, 8:31 PM 
 ---
 
 ## Page 11
@@ -542,8 +532,7 @@ tags:
                commodity; that the rule of the proprietor appear as the undisguised rule of private property, of
 
 
-11 of 15                                                                                                                       7/9/25, 8:31 PM ```
-
+11 of 15                                                                                                                       7/9/25, 8:31 PM 
 ---
 
 ## Page 12
@@ -589,8 +578,7 @@ tags:
                property itself. To do that, however, is not to return to feudal ownership, but to abolish private
 
 
-12 of 15                                                                                                                      7/9/25, 8:31 PM ```
-
+12 of 15                                                                                                                      7/9/25, 8:31 PM 
 ---
 
 ## Page 13
@@ -636,8 +624,7 @@ tags:
                enlarges the power of its enemy, capital, industry, by throwing poor people and an entire activity of
 
 
-13 of 15                                                                                                                      7/9/25, 8:31 PM ```
-
+13 of 15                                                                                                                      7/9/25, 8:31 PM 
 ---
 
 ## Page 14
@@ -683,8 +670,7 @@ tags:
                  Landed property had to develop in each of these two ways so as to experience in both its necessary
 
 
-14 of 15                                                                                                                      7/9/25, 8:31 PM ```
-
+14 of 15                                                                                                                      7/9/25, 8:31 PM 
 ---
 
 ## Page 15
@@ -710,7 +696,6 @@ tags:
 
 
 
-15 of 15                                                                                                                    7/9/25, 8:31 PM ```
-
+15 of 15                                                                                                                    7/9/25, 8:31 PM 
 ---
 

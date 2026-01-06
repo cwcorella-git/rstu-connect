@@ -47,8 +47,7 @@ A fundamental position of green syndicalism is that those working class, those e
 
 
 
-By Jeff Shantz ```
-
+By Jeff Shantz 
 ---
 
 ## Page 2
@@ -78,8 +77,7 @@ The Potential Power of WorkersFirst and foremost, given their central position w
 
 
 
-Workers hold a potential power which when wielded, can be more directly and immediately impactful than the external or secondary actions of outside actors. Environmentalists picketing a plant or construction site, for example, will have less impact than the workers employed ```
-
+Workers hold a potential power which when wielded, can be more directly and immediately impactful than the external or secondary actions of outside actors. Environmentalists picketing a plant or construction site, for example, will have less impact than the workers employed 
 ---
 
 ## Page 3
@@ -109,8 +107,7 @@ Another key tactic is sabotage. The place of workers in acts of sabotage can be 
 
 
 
-Workers, because of their placement and positionality also have access to industrial processes that environmentalists and others do not have and may not be able to gain. This access cannot be overlooked. ```
-
+Workers, because of their placement and positionality also have access to industrial processes that environmentalists and others do not have and may not be able to gain. This access cannot be overlooked. 
 ---
 
 ## Page 4
@@ -140,8 +137,7 @@ One example is the decommissioning of tar sands developments and the reclamation
 
 
 
-Organizing is always key. Because workers are uniquely placed to undertake and enact deep green social transformation does not mean they will, of course. Some workers are conditioned by capital to tie their supposed interests with the short term aims of the particular company or industry in which they work. And, under capitalism, when successfully selling your labor on the capitalist labor market is a prerequisite to survival, the treat of losing your job is a potent inhibition. And this can be, and is, manipulated toward anti-ecological ends. We have seen this in logging, tar sands, and pipelines. But we have also seen the opposite – workers allying with environmentalists and Indigenous activists to engage in eco-defense. ```
-
+Organizing is always key. Because workers are uniquely placed to undertake and enact deep green social transformation does not mean they will, of course. Some workers are conditioned by capital to tie their supposed interests with the short term aims of the particular company or industry in which they work. And, under capitalism, when successfully selling your labor on the capitalist labor market is a prerequisite to survival, the treat of losing your job is a potent inhibition. And this can be, and is, manipulated toward anti-ecological ends. We have seen this in logging, tar sands, and pipelines. But we have also seen the opposite – workers allying with environmentalists and Indigenous activists to engage in eco-defense. 
 ---
 
 ## Page 5
@@ -175,8 +171,7 @@ If you are not in a union—organize one. However, that might look. Reach out to
 
 
 
-Organize an autonomous flying squad bringing together unorganized workers, unemployed workers, migrant workers, and/or environmentalists. I helped organize an autonomous flying ```
-
+Organize an autonomous flying squad bringing together unorganized workers, unemployed workers, migrant workers, and/or environmentalists. I helped organize an autonomous flying 
 ---
 
 ## Page 6
@@ -211,8 +206,7 @@ Is the author referring to stuff like the NDN Collective’sLandback Campaign, w
 
 
 1. They also push for other reformist nonsense like aGreen New Deal: “That being said, we
-are pleased to support the groundbreaking and critically important Green New Deal Resolution introduced by Representative Alexandria Ocasio-Cortez of New York and Senator Ed Markey of Massachusetts. This legislation comes at an important moment in history–the political and economic status quo is no longer acceptable” (2). ```
-
+are pleased to support the groundbreaking and critically important Green New Deal Resolution introduced by Representative Alexandria Ocasio-Cortez of New York and Senator Ed Markey of Massachusetts. This legislation comes at an important moment in history–the political and economic status quo is no longer acceptable” (2). 
 ---
 
 ## Page 7

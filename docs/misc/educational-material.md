@@ -64,8 +64,7 @@ Brief Overview of How to Organize a Tenants Association (deadline July
                                  Quotes
 
                          What Is A Tenants Union
-```
-
+
 ---
 
 ## Page 2
@@ -94,7 +93,6 @@ Brief Overview of How to Organize a Tenants Association (deadline July
     — will work on this flyer after their site is a bit further along; check back in
     September?)
        - Or make a short version and reprint as updates happen?
-```
-
+
 ---
 

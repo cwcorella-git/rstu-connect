@@ -84,8 +84,7 @@ Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.or
 
 
 1 of 3                                                                                                 6/28/25, 1:04 PM
-```
-
+
 ---
 
 ## Page 2
@@ -159,8 +158,7 @@ Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.or
             Remaining budget bills
 
 2 of 3                                                                                                   6/28/25, 1:04 PM
-```
-
+
 ---
 
 ## Page 3
@@ -220,7 +218,6 @@ Budget Negotiations Continue as Legislature Prepares...        https://www.lmc.o
 
 
 3 of 3                                                                                                  6/28/25, 1:04 PM
-```
-
+
 ---
 

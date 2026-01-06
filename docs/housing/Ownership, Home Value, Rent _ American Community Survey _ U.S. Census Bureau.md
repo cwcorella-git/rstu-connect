@@ -137,8 +137,7 @@ United States
                                                                                                      Is this page helpful?✕
 
                                                                                                          Yes         No
-```
-
+
 ---
 
 ## Page 2
@@ -205,8 +204,7 @@ The ownership question originated with the 1890 Census, while home value and ren
                                                                                                                     Is this page helpful?✕
 
                                                                                                                         Yes         No
-```
-
+
 ---
 
 ## Page 3
@@ -235,7 +233,6 @@ The ownership question originated with the 1890 Census, while home value and ren
                                       Is this page helpful?✕
 
                                          Yes        No
-```
-
+
 ---
 

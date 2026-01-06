@@ -482,8 +482,7 @@ Many thanks
 [2024/05/17 12:52] Stealth (Cicero Kit): Thank you
 [2024/05/17 12:52] Valibrarian Gregg: Thanks everyone!
 [2024/05/17 12:53] roropillow Resident: Thank you all!
-## ```
-
+## 
 [2024/05/17 12:53] Paws Pawzouti (Opinicus Extraordinaire): This was great, thank you. ^^ [2024/05/17 12:53] Elli Pinion: Awesome, thank you both! [2024/05/17 12:53] Walter Mitty (jupiter2223 Resident): thank you for the great talk
 
 [2024/05/17 12:53] Elektra Panthar: GH: we have to wrap up, please give our presenters a big applause!

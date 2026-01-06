@@ -1147,8 +1147,7 @@ Es ese momento, en el que descubrimos nuestra capacidad
 
 de acción, de transformación y de Resistencia,
 Es ese momento,
-## ```
-
+## 
 en el que se nace mujer subversiva.
 
 Nosotras, las Mujeres Subversivas, somos aquellas que pueden mirarse a sí mismas desde las demás personas, aquellas que nos hemos organizado y autoeducado en colectivo, desde una educación que nos libera y nos permite ir construyendo nuevas rutas encaminadas a nuevos destinos;

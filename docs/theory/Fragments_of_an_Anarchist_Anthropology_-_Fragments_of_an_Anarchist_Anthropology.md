@@ -1159,8 +1159,7 @@ This document was converted from **01_Political_Theory/Books/Fragments of an Ana
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Books_Fragments_of_an_Anarchist_Anthropology_-_Fragments_of_an_Anarchist_Anthropology/01_Political_Theory_Books_Fragments_of_an_Anarchist_Anthropology_-_Fragments_of_an_Anarchist_Anthropology.md" ```
-
+bash claude code "Collections/01_Political_Theory_Books_Fragments_of_an_Anarchist_Anthropology_-_Fragments_of_an_Anarchist_Anthropology/01_Political_Theory_Books_Fragments_of_an_Anarchist_Anthropology_-_Fragments_of_an_Anarchist_Anthropology.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

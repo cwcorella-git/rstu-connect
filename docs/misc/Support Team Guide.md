@@ -59,7 +59,6 @@ too. We’ve all got each other.
 
 🌻 This is how we grow a garden and a movement, together. Your energy, your care, and
 your commitment make all the difference.
-```
-
+
 ---
 

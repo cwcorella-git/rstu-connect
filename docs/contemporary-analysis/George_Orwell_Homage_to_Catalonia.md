@@ -22,8 +22,7 @@ Something in his face deeply moved me. It was the face of a man who would commit
 'Italiano?'
 I answered in my bad Spanish: 'No, Inglés. Y tú?'
 'Italiano.'
-## ```
-
+## 
 As we went out he stepped across the room and gripped my hand very hard. Queer, the affection you can feel for a stranger! It was as though his spirit and mine had momentarily succeeded in bridging the gulf of language and tradition and meeting in utter intimacy. I hoped he liked me as well as I liked him. But I also knew that to retain my first impression of him I must not see him again; and needless to say I never did see him again. One was always making contacts of that kind in Spain.
 
 I mention this Italian militiaman because he has stuck vividly in my memory. With his shabby uniform and fierce pathetic face he typifies for me the special atmosphere of that time. He is bound up with all my memories of that period of the war — the red flags in Barcelona, the gaunt trains full of shabby soldiers creeping to the front, the grey war-stricken towns farther up the line, the muddy, ice-cold trenches in the mountains.
@@ -357,16 +356,14 @@ Everyone began cursing and saying why the hell didn't they send us some supports
 'Retire! Get out of it!'
 'Why?'
 'Orders. Back to our own lines double-quick.'
-## ```
-
+## 
 People were already climbing over the front parapet. Several of them were struggling with a heavy ammunition box. My mind flew to the telescope which I had left leaning against the parapet on the other side of the position. But at this moment I saw that the four Shock Troopers, acting I suppose on some mysterious orders they had received beforehand, had begun running up the communication-trench. It led to the other Fascist position and — if they got there — to certain death. They were disappearing into the darkness. I ran after them, trying to think of the Spanish for 'retire'; finally I shouted, 'Atrás! Atrás!' which perhaps conveyed the right meaning. The Spaniard understood it and brought the others back. Paddy was waiting at the parapet.
 
 
 'Come on, hurry up.'
 'But the telescope!'
 'B — the telescope! Benjamin's waiting outside.'
-## ```
-
+## 
 We climbed out. Paddy held the wire aside for me. As soon as we got away from the shelter of the Fascist parapet we were under a devilish fire that seemed to be coming at us from every direction. Part of it, I do not doubt, came from our own side, for everyone was firing all along the line. Whichever way we turned a fresh stream of bullets swept past; we were driven this way and that in the darkness like a flock of sheep. It did not make it any easier that we were dragging a captured box of ammunition — one of those boxes that hold 1750 rounds and weigh about a hundredweight — besides a box of bombs and several Fascist rifles. In a few minutes, although the distance from parapet to parapet was not two hundred yards and most of us knew the ground, we were completely lost. We found ourselves slithering about in a muddy field, knowing nothing except that bullets were coming from both sides. There was no moon to go by, but the sky was growing a little lighter. Our lines lay east of Huesca; I wanted to stay where we were till the first crack of dawn showed us which was east and which was west; but the others were against it. We slithered onwards, changing our direction several times and taking it in turns to haul at the ammunition-box. At last we saw the low flat line of a parapet looming in front of us. It might be ours or it might be the Fascists'; nobody had the dimmest idea which way we were going. Benjamin crawled on his belly through some tall whitish weed till he was about twenty yards from the parapet and tried a challenge. A shout of 'Poum!' answered him. We jumped to our feet, found our way along the parapet, slopped once more through the irrigation ditch — splash-gurgle! — and were in safety.
 
 Kopp was waiting inside the parapet with a few Spaniards. The doctor and the stretchers were gone. It appeared that all the wounded had been got in except Jorge and one of our own men, Hiddlestone by name, who were missing. Kopp was pacing up and down, very pale. Even the fat folds at the back of his neck were pale; he was paying no attention to the bullets that streamed over the low parapet and cracked close to his head. Most of us were squatting behind the parapet for cover. Kopp was muttering. 'Jorge! Cogño! Jorge!' And then in English. 'If Jorge is gone it is terreeble, terreeble!' Jorge was his personal friend and one of his best officers. Suddenly he turned to us and asked for five volunteers, two English and three Spanish, to go and look for the missing men. Moyle and I volunteered with three Spaniards.
@@ -483,8 +480,7 @@ In our position it was strangely peaceful. The Civil Guards in the Café Moka ha
 
 
 'Hi! Don't you shoot at us!'
-## ```
-
+## 
 He motioned with his rifle towards the side-street that ran past the bottom of our building. Sure enough, a youth in blue overalls, with a rifle in his hand, was dodging round the corner. Evidently he had just taken a shot at the Civil Guards on the roof.
 
 'I was firing at him. He fired first.' (I believe this was true.) 'We don't want to shoot you. We're only workers, the same as you are.'
@@ -798,8 +794,7 @@ When I got to the hotel my wife was sitting in the lounge. She got up and came t
 
 
 'Get out!'
-## ```
-
+## 
 ## <sup>&#</sup>x27;What?'
 
 ## <sup>&#</sup>x27;Get out of here at once!'
@@ -885,8 +880,7 @@ However, he heard me patiently, nodded his head a great number of times, and gav
 'This Major Kopp — what force was he serving in?'
 The terrible word had to come out: 'In the P. O. U. M. militia.'
 'P. O. U. M.!'
-## ```
-
+## 
 I wish I could convey to you the shocked alarm in his voice. You have got to remember how the P. O. U. M. was regarded at that moment. The spy-scare was at its height; probably all good Republicans did believe for a day or two that the P. O. U. M. was a huge spying organization in German pay. To have to say such a thing to an officer in the Popular Army was like going into the Cavalry Club immediately after the Red Letter scare and announcing yourself a Communist. His dark eyes moved obliquely across my face. Another long pause, then he said slowly:
 
 'And you say you were with him at the front. Then you were serving in the P. O. U. M. militia yourself?' 'Yes.'

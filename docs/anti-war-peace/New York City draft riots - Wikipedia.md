@@ -70,8 +70,7 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 
 
 1 of 41                                                                                      3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 2
@@ -122,8 +121,7 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 
 
 2 of 41                                                                                      3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 3
@@ -171,8 +169,7 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
                 residents left Manhattan permanently with many moving to
 
 3 of 41                                                                                 3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 4
@@ -220,8 +217,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
                 fight for their new country. Black men were excluded from the
 
 4 of 41                                                                                3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 5
@@ -273,8 +269,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 5 of 41                                                                               3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 6
@@ -323,8 +318,7 @@ New York City draft riots - Wikipedia                    about:reader?url=https%
 
 
 6 of 41                                                                                    3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 7
@@ -376,8 +370,7 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
 
 
 7 of 41                                                                                 3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 8
@@ -430,8 +423,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 
 8 of 41                                                                                3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 9
@@ -479,8 +471,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 9 of 41                                                                               3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 10
@@ -529,8 +520,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 10 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 11
@@ -578,8 +568,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
                 toll as high as 1,200.[22] Violence by longshoremen against
 
 11 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 12
@@ -629,8 +618,7 @@ New York City draft riots - Wikipedia              about:reader?url=https%3A%2F%
 
 
 12 of 41                                                                             3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 13
@@ -678,8 +666,7 @@ New York City draft riots - Wikipedia                 about:reader?url=https%3A%
 
 
 13 of 41                                                                                3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 14
@@ -729,8 +716,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 14 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 15
@@ -780,8 +766,7 @@ New York City draft riots - Wikipedia                   about:reader?url=https%3
 
 
 15 of 41                                                                                  3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 16
@@ -831,8 +816,7 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 
 
 16 of 41                                                                                    3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 17
@@ -882,8 +866,7 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 
 
 17 of 41                                                                                    3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 18
@@ -933,8 +916,7 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 
 
 18 of 41                                                                                     3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 19
@@ -984,8 +966,7 @@ New York City draft riots - Wikipedia                       about:reader?url=htt
 
 
 19 of 41                                                                                      3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 20
@@ -1035,8 +1016,7 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 
 
 20 of 41                                                                                 3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 21
@@ -1086,8 +1066,7 @@ New York City draft riots - Wikipedia                     about:reader?url=https
 
 
 21 of 41                                                                                    3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 22
@@ -1141,8 +1120,7 @@ New York City draft riots - Wikipedia                         about:reader?url=h
 
 
 22 of 41                                                                                        3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 23
@@ -1195,8 +1173,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 23 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 24
@@ -1244,8 +1221,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
                                                                                enlistment
 
 24 of 41                                                                               3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 25
@@ -1292,8 +1268,7 @@ New York City draft riots - Wikipedia   about:reader?url=https%3A%2F%2Fen.wikipe
                                                                  of Col. Jardine
 
 25 of 41                                                                  3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 26
@@ -1342,8 +1317,7 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 
 
 26 of 41                                                                                   3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 27
@@ -1391,8 +1365,7 @@ New York City draft riots - Wikipedia            about:reader?url=https%3A%2F%2F
                    Regular          Erasmus D.                             1863 the
 
 27 of 41                                                                           3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 28
@@ -1439,8 +1412,7 @@ New York City draft riots - Wikipedia       about:reader?url=https%3A%2F%2Fen.wi
                                                                      to the front.
 
 28 of 41                                                                      3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 29
@@ -1490,8 +1462,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 
 29 of 41                                                                                3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 30
@@ -1543,8 +1514,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 30 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 31
@@ -1601,8 +1571,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
                 in 2022, depicts events that led up to and included the New
 
 31 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 32
@@ -1660,8 +1629,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 
 32 of 41                                                                               3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 33
@@ -1714,8 +1682,7 @@ New York City draft riots - Wikipedia                  about:reader?url=https%3A
 
 
 33 of 41                                                                                 3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 34
@@ -1768,8 +1735,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 34 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 35
@@ -1822,8 +1788,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 35 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 36
@@ -1878,8 +1843,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 36 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 37
@@ -1931,8 +1895,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
 
 
 37 of 41                                                                               3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 38
@@ -1986,8 +1949,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 38 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 39
@@ -2040,8 +2002,7 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 39 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 40
@@ -2094,8 +2055,7 @@ New York City draft riots - Wikipedia                about:reader?url=https%3A%2
                 Police, Chapter 6. online
 
 40 of 41                                                                               3/16/25, 5:02 PM
-```
-
+
 ---
 
 ## Page 41
@@ -2133,7 +2093,6 @@ New York City draft riots - Wikipedia               about:reader?url=https%3A%2F
 
 
 41 of 41                                                                              3/16/25, 5:02 PM
-```
-
+
 ---
 

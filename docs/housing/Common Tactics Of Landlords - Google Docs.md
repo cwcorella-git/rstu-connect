@@ -40,7 +40,6 @@ View notes from original meeting:     Educational Material Planning 6/20/25
 -   From facebook: Said tenant hadn’t paid rent even though she had record of
     giving the check (demanding cashier’s check)
 -   Reference link
-```
-
+
 ---
 

@@ -107,8 +107,7 @@ Norman, Donald A.
  engineering. I. Title.
  TS171.4. N67 2013
  745.2001'9—dc23
-## ```
-
+## 
 ## 2013024417
 
 ## ![](_page_5_Picture_0.jpeg)
@@ -1329,8 +1328,7 @@ Most of us have experienced the power of multiple minds in remembering things. Y
 "Pampas something."
 "Yes, Pampas Chewy. Um, Churry, um,"
 "Churrascaria. Pampas Churrascaria."
-## ```
-
+## 
 How many people are involved? It could be any number, but the point is that each adds their bit of knowledge, slowly constraining the choices, recalling something that no single one of them could have done alone. Daniel Wegner, a Harvard professor of psychology, has called this "transactive memory."
 
 Of course, we often turn to technological aids to answer our questions, reaching for our smart devices to search our electronic resources and the Internet. When we expand from seeking aids from other people to seeking aids from our technologies, which Wegner labels as "cybermind," the principle is basically the same. The cybermind doesn't always produce the answer, but it can produce sufficient clues so that we can generate the answer. Even where the technology produces the answer, it is often buried in a list of potential answers, so we have to use our own knowledge or the knowledge of our friends—to determine which of the potential items is the correct one.

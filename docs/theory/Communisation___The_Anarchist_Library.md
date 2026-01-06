@@ -36,7 +36,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                (for instance, the open field system in still existing traditional
                societies, and free software access in the most modern ones).
                In other words, these “creative commons” would allow us a
-1 of 49 3/17/25, 5:10 PM ``` Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 49 3/17/25, 5:10 PM  Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                gradual and peaceful passage toward a human community.
                The successive refutation of theories we regard as incomplete
                or wrong would have obscured our central points. As we wish
@@ -1423,8 +1423,7 @@ This document was converted from **01_Political_Theory/Articles/Communisation _ 
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Communisation___The_Anarchist_Library/01_Political_Theory_Articles_Communisation___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Communisation___The_Anarchist_Library/01_Political_Theory_Articles_Communisation___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

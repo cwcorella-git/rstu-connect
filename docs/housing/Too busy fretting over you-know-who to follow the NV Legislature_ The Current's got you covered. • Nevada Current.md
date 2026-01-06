@@ -72,8 +72,7 @@ Too busy fretting over you-know-who to follow the NV L...             https://ne
 
 
 1 of 9                                                                                                             8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 2
@@ -132,8 +131,7 @@ Too busy fretting over you-know-who to follow the NV L...     https://nevadacurr
 
 
 2 of 9                                                                                                 8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 3
@@ -191,8 +189,7 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
 
 
 3 of 9                                                                                               8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 4
@@ -250,8 +247,7 @@ Too busy fretting over you-know-who to follow the NV L...     https://nevadacurr
                             collective bargaining           chip for their other legislative
 
 4 of 9                                                                                                 8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 5
@@ -310,8 +306,7 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
 
 
 5 of 9                                                                                               8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 6
@@ -370,8 +365,7 @@ Too busy fretting over you-know-who to follow the NV L...   https://nevadacurren
 
 
 6 of 9                                                                                               8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 7
@@ -435,8 +429,7 @@ Too busy fretting over you-know-who to follow the NV L...             https://ne
 
 
 7 of 9                                                                                                              8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 8
@@ -524,8 +517,7 @@ Too busy fretting over you-know-who to follow the NV L...                 https:
 
 
 8 of 9                                                                                                                      8/7/25, 1:34 PM
-```
-
+
 ---
 
 ## Page 9
@@ -573,7 +565,6 @@ Too busy fretting over you-know-who to follow the NV L...                       
 
 
 9 of 9                                                                                                                       8/7/25, 1:34 PM
-```
-
+
 ---
 

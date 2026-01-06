@@ -3129,8 +3129,7 @@ Atkins, Philip, 203
 Atlanta Constitution, 2, 152–53, 156
 Auburn State Prison (New York), 
  68–69, 70
-## ```
-
+## 
 Baay, William, 5 Bailey, Brian, 31 Balch, Dr., 68 Ballard, J. W., 189 Balske, Dennis, 107, 197
 
 | Banks, Johnnie, 191 | 12–13, 14; legacy,<br>victims, |

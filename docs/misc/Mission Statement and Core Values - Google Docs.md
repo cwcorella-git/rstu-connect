@@ -62,8 +62,7 @@ any laws and policies that criminalize houselessness or target unhoused people f
 We are fighting for a future where houselessness ends because everyone has a home. Our
 definition of a tenant includes anyone who does not control their housing, whether they currently
 have a home or not.
-```
-
+
 ---
 
 ## Page 2
@@ -113,7 +112,6 @@ Land back
 “Reno-Sparks” is situated on the occupied/unceded territory of the Numu (Northern Paiute),
 Newe (Western Shoshone), and Wašiw (Washoe) people. Our current housing crisis is rooted in
 settler colonialism. We support demands for Land Back by Indigenous peoples.
-```
-
+
 ---
 

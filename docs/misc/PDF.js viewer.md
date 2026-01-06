@@ -29,8 +29,7 @@ title: "PDF.js viewer"
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 2
@@ -48,8 +47,7 @@ title: "PDF.js viewer"
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 3
@@ -67,8 +65,7 @@ title: "PDF.js viewer"
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 4
@@ -86,8 +83,7 @@ title: "PDF.js viewer"
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 5
@@ -105,8 +101,7 @@ title: "PDF.js viewer"
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 6
@@ -124,8 +119,7 @@ title: "PDF.js viewer"
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 7
@@ -143,8 +137,7 @@ title: "PDF.js viewer"
 ### Extracted Text
 
 
-```
-
+
 ---
 
 ## Page 8
@@ -162,7 +155,6 @@ title: "PDF.js viewer"
 ### Extracted Text
 
 
-```
-
+
 ---
 

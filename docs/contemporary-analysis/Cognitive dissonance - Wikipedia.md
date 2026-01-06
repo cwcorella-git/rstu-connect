@@ -239,8 +239,7 @@ X = picture your child drew
     "I love my child"
     "She drew me this picture"
     "I love this picture"
-## ```
-
+## 
 People also avoid unbalanced states of relations, such as three negatives or two positives and one negative:
 
 
@@ -250,8 +249,7 @@ X = John's dog
     "I don't like John"
     "John has a dog"
     "I don't like the dog either"
-## ```
-
+## 
 ## **Cost–benefit analysis**
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Cognitive_dissonance&action=edit§ion=32)

@@ -44,8 +44,7 @@ For an action-obsessed group like the Seattle Solidarity Network (SeaSol), pausi
 
 
 
-There’s a twinge of nervous energy down your neck and a pinch of hunger in your stomach as you walk towards your first Seattle Solidarity Network action. It’s right before dinner time. Weather-wise, it’s the sort of gray, overcast late afternoon that is so typical of this region. You’ve brought yourself to some northern suburb. You’re venturing across a stretch of sprawl that looks like countless others. Even though you can’t recall ever being on this specific block before, the setting feels so familiar. The street signs and pavement remind you of the block where you live. ```
-
+There’s a twinge of nervous energy down your neck and a pinch of hunger in your stomach as you walk towards your first Seattle Solidarity Network action. It’s right before dinner time. Weather-wise, it’s the sort of gray, overcast late afternoon that is so typical of this region. You’ve brought yourself to some northern suburb. You’re venturing across a stretch of sprawl that looks like countless others. Even though you can’t recall ever being on this specific block before, the setting feels so familiar. The street signs and pavement remind you of the block where you live. 
 ---
 
 ## Page 2
@@ -71,8 +70,7 @@ What follows is a collection of reflections from current and former members ofSe
 
 
 
-SeaSol was started with only the most essential anarchist ideological positions. The point wasn’t to create an elaborate organization and set forth a detailed analysis; the point was to attack landlords and bosses, to be combative and effective. To explore the “how,” read SeaSol’s2011 guideto building a solidarity network. ```
-
+SeaSol was started with only the most essential anarchist ideological positions. The point wasn’t to create an elaborate organization and set forth a detailed analysis; the point was to attack landlords and bosses, to be combative and effective. To explore the “how,” read SeaSol’s2011 guideto building a solidarity network. 
 ---
 
 ## Page 3
@@ -102,8 +100,7 @@ Here, some of the early SeaSolers reflect on the network’s origins.
 
 
 
-Mickey ```
-
+Mickey 
 ---
 
 ## Page 4
@@ -133,8 +130,7 @@ David C.
 
 
 
-SeaSol believed in the IWW motto, “an injury to one is an injury to all,” and utilized the AEIOU approach1 to organizing. ```
-
+SeaSol believed in the IWW motto, “an injury to one is an injury to all,” and utilized the AEIOU approach1 to organizing. 
 ---
 
 ## Page 5
@@ -156,8 +152,7 @@ Also, we had had no luck in various unionization attempts with the IWW and were 
 
 
 
-As an attempt to avoid these problems, we discussed more promising movements: the “direct action casework” of the Ontario Coalition Against Poverty and Canadian inter-union solidarity “flying squads” seemed to be appealing forms to imitate. Unfortunately, there wasn’t a great amount of detail on how those groups operated, so we looked at our own experiences. A friend in Chicago had worked at a restaurant for one day, only to be told it was a “training day” and she wouldn’t be paid. She resolved this problem by walking into the restaurant with a large group of friends and refusing to leave until the issue was settled. We were looking to create something that was the opposite of the flaws we perceived in the movements we had emerged from: a focus on the immediate issues caused by capitalism in daily life as experienced by the general population of Seattle and ourselves, not as activists—specialists in social change—but workers in precarious employment or living conditions; a focus on ```
-
+As an attempt to avoid these problems, we discussed more promising movements: the “direct action casework” of the Ontario Coalition Against Poverty and Canadian inter-union solidarity “flying squads” seemed to be appealing forms to imitate. Unfortunately, there wasn’t a great amount of detail on how those groups operated, so we looked at our own experiences. A friend in Chicago had worked at a restaurant for one day, only to be told it was a “training day” and she wouldn’t be paid. She resolved this problem by walking into the restaurant with a large group of friends and refusing to leave until the issue was settled. We were looking to create something that was the opposite of the flaws we perceived in the movements we had emerged from: a focus on the immediate issues caused by capitalism in daily life as experienced by the general population of Seattle and ourselves, not as activists—specialists in social change—but workers in precarious employment or living conditions; a focus on 
 ---
 
 ## Page 6
@@ -191,8 +186,7 @@ I was surprised by our early victories and my morale was boosted. Getting those 
 
 
 
-Llama ```
-
+Llama 
 ---
 
 ## Page 7
@@ -230,8 +224,7 @@ DC
 
 
 
-SeaSol did two things. One: it directly addressed the practical problems of wage theft and tenant issues. Two: it served an educational and agitational function. Its momentum came ```
-
+SeaSol did two things. One: it directly addressed the practical problems of wage theft and tenant issues. Two: it served an educational and agitational function. Its momentum came 
 ---
 
 ## Page 8
@@ -269,8 +262,7 @@ Llama
 
 
 
-As direct action mutual aid, I think it works pretty well. Sure, we are not disrupting the system as a whole, but we are absolutely creating a community and network… I think what SeaSol builds for people includes: ```
-
+As direct action mutual aid, I think it works pretty well. Sure, we are not disrupting the system as a whole, but we are absolutely creating a community and network… I think what SeaSol builds for people includes: 
 ---
 
 ## Page 9
@@ -300,8 +292,7 @@ SeaSol is not a social service… the workers and tenants at the centers of our 
 
 
 
-Doing work with SeaSol provides a way better working-class political education than any book. Lots of people come into the organization as some kind of liberal or democratic socialist and leave, or stay, as anarchists. People learn how landlordism works from doing secretary duty (answering phone calls and emails from people who contact us with their problems) and fighting landlords. People learn that the nonprofit-industrial complex is parasitic and unhelpful to the working poor when it comes to affordable housing, because they see examples of how these organizations fail real people week after week. SeaSolers have front-row seats, in real time and in real life, to how governments and legal systems work to keep landlords and bosses in power, and to the fucked up things that they do with that power. These are things that SeaSolers understand on a visceral level from hard experience, not just intellectually. The knowledge you get from reading about some stranger’s experience on Reddit, or a ```
-
+Doing work with SeaSol provides a way better working-class political education than any book. Lots of people come into the organization as some kind of liberal or democratic socialist and leave, or stay, as anarchists. People learn how landlordism works from doing secretary duty (answering phone calls and emails from people who contact us with their problems) and fighting landlords. People learn that the nonprofit-industrial complex is parasitic and unhelpful to the working poor when it comes to affordable housing, because they see examples of how these organizations fail real people week after week. SeaSolers have front-row seats, in real time and in real life, to how governments and legal systems work to keep landlords and bosses in power, and to the fucked up things that they do with that power. These are things that SeaSolers understand on a visceral level from hard experience, not just intellectually. The knowledge you get from reading about some stranger’s experience on Reddit, or a 
 ---
 
 ## Page 10
@@ -331,8 +322,7 @@ SeaSol was not about providing services. It was about building solidarity, about
 
 
 
-I first attended a SeaSol action around 2010. I was visiting Seattle from out of town and an old IWW contact told me to come out and see what SeaSol was doing. I had experienced some wage theft and other employment issues from working in food service, but I hadn’t seen an organized group of people addressing those sorts of issues. For most people—even most people in the IWW!—workers’ militant direct action is merely theoretical or historical, provided they think about it at all. Opportunities for that sort of unionization are just vanishingly slim. ```
-
+I first attended a SeaSol action around 2010. I was visiting Seattle from out of town and an old IWW contact told me to come out and see what SeaSol was doing. I had experienced some wage theft and other employment issues from working in food service, but I hadn’t seen an organized group of people addressing those sorts of issues. For most people—even most people in the IWW!—workers’ militant direct action is merely theoretical or historical, provided they think about it at all. Opportunities for that sort of unionization are just vanishingly slim. 
 ---
 
 ## Page 11
@@ -366,8 +356,7 @@ Four-Fingered Fisherman
 
 
 
-It felt like a meaningful disengagement from appealing to electoral politics for me. The previous mass movements I had been a part of could not escape the recuperative energies of that kind of appeal. Like those movements, the solidarity network model focused on the individual acting in concert with others as the engine of change, but it changed the target. It exposed the various nexuses of power that are, most importantly, within striking distance and enabled communities to take immediate and impactful action against them in a way that the mass movements I had been a part of were largely missing. […] ```
-
+It felt like a meaningful disengagement from appealing to electoral politics for me. The previous mass movements I had been a part of could not escape the recuperative energies of that kind of appeal. Like those movements, the solidarity network model focused on the individual acting in concert with others as the engine of change, but it changed the target. It exposed the various nexuses of power that are, most importantly, within striking distance and enabled communities to take immediate and impactful action against them in a way that the mass movements I had been a part of were largely missing. […] 
 ---
 
 ## Page 12
@@ -397,8 +386,7 @@ I joined in late 2018, but the attraction of direct action that gets the goods h
 
 
 
-Javabean ```
-
+Javabean 
 ---
 
 ## Page 13
@@ -432,8 +420,7 @@ SeaSol has been around through many waves of struggle and organization—the ant
 
 
 
-Lilly ```
-
+Lilly 
 ---
 
 ## Page 14
@@ -459,8 +446,7 @@ Dolly
 
 
 
-The Admiral Pub fight was one of my all-time favorites as far as what it showed SeaSol can achieve. Lucio, who was a cook at the Admiral Pub in West Seattle, was arrested by ICE and detained. The owner of the business, Eric Galanti, stole his paycheck. Lucio had family members still in Seattle who joined SeaSol and fought and organized on Lucio’s behalf while he was incarcerated and subsequently deported to Mexico. ```
-
+The Admiral Pub fight was one of my all-time favorites as far as what it showed SeaSol can achieve. Lucio, who was a cook at the Admiral Pub in West Seattle, was arrested by ICE and detained. The owner of the business, Eric Galanti, stole his paycheck. Lucio had family members still in Seattle who joined SeaSol and fought and organized on Lucio’s behalf while he was incarcerated and subsequently deported to Mexico. 
 ---
 
 ## Page 15
@@ -490,8 +476,7 @@ Once we initiated his campaign, he fought for what was owed to him with a joy, d
 
 
 
-Fortunately, we were able to assist in ensuring that his family was able to cash the check so that he could return to them one final time. Prospero’s indomitable spirit enabled him to hang on to life just long enough to put the bastards who wronged him in their place, in hopes that it would prevent them from doing the same thing to the rest of his friends there. That memory will stick with me until the day that I join him in the great unknown. ```
-
+Fortunately, we were able to assist in ensuring that his family was able to cash the check so that he could return to them one final time. Prospero’s indomitable spirit enabled him to hang on to life just long enough to put the bastards who wronged him in their place, in hopes that it would prevent them from doing the same thing to the rest of his friends there. That memory will stick with me until the day that I join him in the great unknown. 
 ---
 
 ## Page 16
@@ -525,8 +510,7 @@ DC
 
 
 
-Our theory was that SeaSol might start with ideologically-committed anarchists, but it would grow to include people from outside “the scene.” We hoped that by winning small but ```
-
+Our theory was that SeaSol might start with ideologically-committed anarchists, but it would grow to include people from outside “the scene.” We hoped that by winning small but 
 ---
 
 ## Page 17
@@ -556,8 +540,7 @@ Of course, the history of working-class movements includes plenty of failures. C
 
 
 
-Fundamentally, we must question the degree to which our project has helped develop class consciousness, taught us about the limits of our power, increased the scope of our demands, and prefigured the social relations and dynamics we desire. Could there be problems with our theories and our model? Certainly, it hasn’t been particularly easy to adapt them to other conditions. The problems we’ve observed relate to some familiar themes: lacking a critical mass; lacking committed organizers; challenges recruiting and integrating new people; burnout and retention; drama and interpersonal conflicts. The critical commentary on solidarity networks (such as this article) suggests some important questions: ```
-
+Fundamentally, we must question the degree to which our project has helped develop class consciousness, taught us about the limits of our power, increased the scope of our demands, and prefigured the social relations and dynamics we desire. Could there be problems with our theories and our model? Certainly, it hasn’t been particularly easy to adapt them to other conditions. The problems we’ve observed relate to some familiar themes: lacking a critical mass; lacking committed organizers; challenges recruiting and integrating new people; burnout and retention; drama and interpersonal conflicts. The critical commentary on solidarity networks (such as this article) suggests some important questions: 
 ---
 
 ## Page 18
@@ -587,8 +570,7 @@ One incident I remember, the straw that broke the camel’s back for my involvem
 
 
 
-I do not recall which fight this was, and for all I know it went on to be successful, but I know from what I was told afterwards that the workers were not happy with how things went down at ```
-
+I do not recall which fight this was, and for all I know it went on to be successful, but I know from what I was told afterwards that the workers were not happy with how things went down at 
 ---
 
 ## Page 19
@@ -618,8 +600,7 @@ My realistic critique of that as an overall organizational strategy is that it�
 
 
 
-There’s no straightforward answer of when to build an organization and when to fight fights. I think the only real answer is to keep the focus on output. If your organization doesn’t create material results, figure out why. It might be that you’re focusing on “recruitment” when you should be focusing on action; it might be the reverse. It might be something else entirely. At the end of the day, SeaSol is more interested in what we can do than in how many people come to meetings. […] ```
-
+There’s no straightforward answer of when to build an organization and when to fight fights. I think the only real answer is to keep the focus on output. If your organization doesn’t create material results, figure out why. It might be that you’re focusing on “recruitment” when you should be focusing on action; it might be the reverse. It might be something else entirely. At the end of the day, SeaSol is more interested in what we can do than in how many people come to meetings. […] 
 ---
 
 ## Page 20
@@ -653,8 +634,7 @@ Mickey
 
 
 
-SeaSol took off and was far more successful than I think any of us initially imagined it would be. Some of the challenges presented by activist culture that we had critiqued in the anti-glob ```
-
+SeaSol took off and was far more successful than I think any of us initially imagined it would be. Some of the challenges presented by activist culture that we had critiqued in the anti-glob 
 ---
 
 ## Page 21
@@ -680,8 +660,7 @@ Dolly
 
 
 
-Revolutionizing the global labor movement and toppling capitalism is a tall order for any single organization or idea. In my twenty-something mind, this was possible for SeaSol. If we fought enough of them, the solidarity network model would spread, and bosses and landlords wouldn’t be able to exploit us anymore. Capitalism would surely fall. For a couple of years there, it seemed like it was happening! Honestly, as I approach my forties and SeaSol similarly enters a slower, more measured and reflective phase, I still believe this model holds key components to the liberation of the working class. We operate using the principles of cooperative self-governance and decision-making. We rely on direct action tactics. We have no paid staff or hierarchy or membership dues. We can definitely improve, but there is a lot about SeaSol that is… perfect. […] ```
-
+Revolutionizing the global labor movement and toppling capitalism is a tall order for any single organization or idea. In my twenty-something mind, this was possible for SeaSol. If we fought enough of them, the solidarity network model would spread, and bosses and landlords wouldn’t be able to exploit us anymore. Capitalism would surely fall. For a couple of years there, it seemed like it was happening! Honestly, as I approach my forties and SeaSol similarly enters a slower, more measured and reflective phase, I still believe this model holds key components to the liberation of the working class. We operate using the principles of cooperative self-governance and decision-making. We rely on direct action tactics. We have no paid staff or hierarchy or membership dues. We can definitely improve, but there is a lot about SeaSol that is… perfect. […] 
 ---
 
 ## Page 22
@@ -707,8 +686,7 @@ Ike
 
 
 
-I’d say a majority of people who find out about SeaSol don’t end up taking on any role—even something as small as note-taking. ```
-
+I’d say a majority of people who find out about SeaSol don’t end up taking on any role—even something as small as note-taking. 
 ---
 
 ## Page 23
@@ -738,8 +716,7 @@ In terms of my personal desire to have more influence over my organizing work, I
 
 
 
-Regarding unexpected outcomes, it’s the friends you make along the way, right? Actually, I’m still super tight with a bunch of SeaSol folks and it’s been fun seeing how they’re using the skills that we all developed together in other organizing projects, in their jobs, and so on. I ```
-
+Regarding unexpected outcomes, it’s the friends you make along the way, right? Actually, I’m still super tight with a bunch of SeaSol folks and it’s been fun seeing how they’re using the skills that we all developed together in other organizing projects, in their jobs, and so on. I 
 ---
 
 ## Page 24
@@ -781,8 +758,7 @@ Lilly
 
 
 
-Regarding failure, almost ten years after I left the organizing team I would still prefer to say “I didn’t give it my best effort,” rather than the truth, which is that I totally did and I still feel I failed. I think I learn more everyday about why it didn’t work “better”—and how flawed and ```
-
+Regarding failure, almost ten years after I left the organizing team I would still prefer to say “I didn’t give it my best effort,” rather than the truth, which is that I totally did and I still feel I failed. I think I learn more everyday about why it didn’t work “better”—and how flawed and 
 ---
 
 ## Page 25
@@ -808,8 +784,7 @@ The Four Fingered Fisherman
 
 
 
-I think it is inarguable that the social context has changed; the Trump years, the George Floyd Rebellion, climate catastrophe, and the genocide in Palestine, among other things, have all pulled us in a million different directions, often in reactive way. Moments such as those are always going to shift some of the energy away from a geographically-focused, long-term project like SeaSol. ```
-
+I think it is inarguable that the social context has changed; the Trump years, the George Floyd Rebellion, climate catastrophe, and the genocide in Palestine, among other things, have all pulled us in a million different directions, often in reactive way. Moments such as those are always going to shift some of the energy away from a geographically-focused, long-term project like SeaSol. 
 ---
 
 ## Page 26
@@ -839,8 +814,7 @@ In retrospect, I think we were asking many of the right questions, but there wer
 
 
 
-Matt ```
-
+Matt 
 ---
 
 ## Page 27
@@ -870,8 +844,7 @@ We won’t shy away from it: We want you to start a solidarity network, or at le
 
 
 
-Solidarity networks are a way to blow life into the working class. We want you to play a part in this resuscitation, to pound on the chest until you hear the ribs crack if you need to. Give this your best effort. Because it works. Even if it’s completely exhausting. And despite everything—anxiety and ruined relationships and failed fights, extreme edges of human behavior and fraught moments when it feels like it may actually be impossible—solidarity networks may still be one of the best forms of organizing on offer. ```
-
+Solidarity networks are a way to blow life into the working class. We want you to play a part in this resuscitation, to pound on the chest until you hear the ribs crack if you need to. Give this your best effort. Because it works. Even if it’s completely exhausting. And despite everything—anxiety and ruined relationships and failed fights, extreme edges of human behavior and fraught moments when it feels like it may actually be impossible—solidarity networks may still be one of the best forms of organizing on offer. 
 ---
 
 ## Page 28
@@ -905,8 +878,7 @@ I had a lot more faith in things like electoral politics when I first joined Sea
 
 
 
-The picket wraps up and your solidarity network crew does a group go-around, each person recounts a favorite moment from the last two hours. One person—you think they’re the barista, they might have authored the leaflet—says they loved it when the boss stepped out to ```
-
+The picket wraps up and your solidarity network crew does a group go-around, each person recounts a favorite moment from the last two hours. One person—you think they’re the barista, they might have authored the leaflet—says they loved it when the boss stepped out to 
 ---
 
 ## Page 29
@@ -928,6 +900,5 @@ It’s now dusk. The street lights are flickering on. You are still in the middl
 
 
 
-“It really is so simple,” you think to yourself. “When we stand up for one another, the rest of the petty, entitled, obnoxious bosses will probably buckle just like today’s did.” You head back home to think about the next action. Maybe you will finally check out one of the planning meetings, too. ```
-
+“It really is so simple,” you think to yourself. “When we stand up for one another, the rest of the petty, entitled, obnoxious bosses will probably buckle just like today’s did.” You head back home to think about the next action. Maybe you will finally check out one of the planning meetings, too. 
 ---

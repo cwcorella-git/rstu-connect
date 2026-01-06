@@ -1305,8 +1305,7 @@ Suzuki, Yasuyuki, 'Ika ni Nasu Beki ka' (June 1931) in Shakai Mondai Shiryо̄ K
 ———, 'Nani o Nasu Beki Ka' (September 1932) in Shakai
 Mondai Shiryо̄ Kenkyūkai (ed.), Nо̄son Seinen Sha Shiryо̄
 (Kyо̄to: Tо̄yо̄ Bunka Sha, 1972) pp. 557–78.
-## ```
-
+## 
 ———, Nihon Museifushugi Undо̄ Shi (Isezaki: Kokushoku Sensensha, 1979).
 
 Thompson, E. P., The Making of the English Working Class (Harmondsworth: Penguin, 1968).
@@ -1422,8 +1421,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 
 
 [98] Ibid., p. 179.
-## ```
-
+## 
 - [\[99\]](#page-91-0) Ibid. (1983), pp. 1–16, 23–35.
 - [\[100\]](#page-91-1) Ibid. (1981), pp. 184–8.
 - [\[101\]](#page-91-2) Allen (1972), pp. 209–10.
@@ -1444,14 +1442,12 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 
 
 [116] Hagiwara (1969), p. 173.
-## ```
-
+## 
 [\[117\]](#page-98-0) A list of affiliating groups appeared in Kokushoku Seinen no. 1, 5 April 1926, p. 5. The expansion of this list in later issues is testimony to the subsequent growth of Kokuren.
 
 
 [118] Ibid., p. 8.
-## ```
-
+## 
 - [\[119\]](#page-99-0) Ibid. and Kondō (1969), p. 65.
 - [\[120\]](#page-100-0) Kokushoku Seinen no. 2, 5 May 1926, p. 8.
 - [\[121\]](#page-100-1) Ibid., p. 2.
@@ -1551,8 +1547,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 [209] Ibid.
 [210] Ibid., pp. 14–15.
 [211] Ibid. (1981), p. 117.
-## ```
-
+## 
 - [\[212\]](#page-143-0) Ibid., p. 23.
 - [\[213\]](#page-143-1) Ibid., p. 120.
 - [\[214\]](#page-144-0) Ibid., p. 23.
@@ -1675,8 +1670,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 
 
 [327] Ibid., pp. 127–8.
-## ```
-
+## 
 - [\[328\]](#page-205-1) Ibid., p. 127.
 - [\[329\]](#page-206-0) Ibid., p. 59.
 - [\[330\]](#page-207-0) Ibid., p. 1.
@@ -1701,8 +1695,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 
 
 [349] Mihara (1987), p. 101.
-## ```
-
+## 
 - [\[350\]](#page-218-1) Aizawa (1974), pp. 45–7.
 - [\[351\]](#page-219-0) Mihara (1986), p. 92. Aizawa (1974), p. 47.
 - [\[352\]](#page-219-1) Aizawa (1974), p. 48.
@@ -1773,8 +1766,7 @@ Yamaguchi, Kensuke, Fūsetsu o Koete (Tо̄kyо̄: Inyūkai Honbu, 1970).
 [413] On calculation in kind, see Buick & Crump (1986), pp.
 126ff.
 [414] 1 tan is slightly less than one-quarter of an acre or
-## ```
-
+## 
 slightly less than 1000 square metres.
 
 [\[415\]](#page-260-0) Allen (1972), pp. 145, 213, 231.

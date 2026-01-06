@@ -1448,8 +1448,7 @@ One of our art associates once conducted an experiment in her art resources clas
 
 
 "Oh, yes!"
-## ```
-
+## 
 ## "Can you make one?"
 
 ## "Yes! Yes!"

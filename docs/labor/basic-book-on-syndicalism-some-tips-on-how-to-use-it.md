@@ -51,8 +51,7 @@ The book I’ve written is an introduction to the ideology of syndicalism relate
 
 
 
-(2) Intro coursesMany Locals of SAC offer union intro courses for new members and potential members. It usually takes a few hours on a weekday evening. My book provides summaries ```
-
+(2) Intro coursesMany Locals of SAC offer union intro courses for new members and potential members. It usually takes a few hours on a weekday evening. My book provides summaries 
 ---
 
 ## Page 2
@@ -86,8 +85,7 @@ At the same time, I want to emphasize that the book's strength is also its weakn
 
 
 
-(6) Basis for seminarsLast but not least, my book can be used to examine the strengths and weaknesses of syndicalism today and discuss the possibilities of syndicalists to play a role in the struggle for a better world. In this respect, I would especially like to recommend the ```
-
+(6) Basis for seminarsLast but not least, my book can be used to examine the strengths and weaknesses of syndicalism today and discuss the possibilities of syndicalists to play a role in the struggle for a better world. In this respect, I would especially like to recommend the 
 ---
 
 ## Page 3
@@ -129,8 +127,7 @@ The first drafts of this book were presented on the mentioned email list in 2015
 
 
 
-It can be added that SAC’s central committee read a version of the script in 2018. At that time, the proposal was rejected with the argument that a wider discussion was needed within SAC. That was also arranged. After countless suggestions for improvement, the script was revised ten times before it was ready to be printed in the fall of 2023. ```
-
+It can be added that SAC’s central committee read a version of the script in 2018. At that time, the proposal was rejected with the argument that a wider discussion was needed within SAC. That was also arranged. After countless suggestions for improvement, the script was revised ten times before it was ready to be printed in the fall of 2023. 
 ---
 
 ## Page 4

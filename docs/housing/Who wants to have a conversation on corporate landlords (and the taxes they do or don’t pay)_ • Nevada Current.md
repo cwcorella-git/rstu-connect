@@ -77,8 +77,7 @@ Who wants to have a conversation on corporate landlord...               https://
 
 
 1 of 8                                                                                                                 9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 2
@@ -140,8 +139,7 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 
 
 2 of 8                                                                                            9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 3
@@ -203,8 +201,7 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
                                                                   our state, our tax base
 
 3 of 8                                                                                            9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 4
@@ -275,8 +272,7 @@ Who wants to have a conversation on corporate landlord...        https://nevadac
 
 
 4 of 8                                                                                                 9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 5
@@ -345,8 +341,7 @@ Who wants to have a conversation on corporate landlord...   https://nevadacurren
 
 
 5 of 8                                                                                            9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 6
@@ -409,8 +404,7 @@ Who wants to have a conversation on corporate landlord...     https://nevadacurr
 
 
 6 of 8                                                                                              9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 7
@@ -492,8 +486,7 @@ Who wants to have a conversation on corporate landlord...                 https:
 
 
 7 of 8                                                                                                                     9/8/25, 12:23 PM
-```
-
+
 ---
 
 ## Page 8
@@ -556,7 +549,6 @@ Who wants to have a conversation on corporate landlord...                      h
 
 
 8 of 8                                                                                                                       9/8/25, 12:23 PM
-```
-
+
 ---
 

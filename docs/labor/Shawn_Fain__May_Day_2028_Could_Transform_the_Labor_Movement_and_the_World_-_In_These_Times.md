@@ -38,7 +38,7 @@ Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%
                The first is that, to reshape the economy into one that works for
                the benefit of everyone — not just the wealthy — we need to
                reclaim our country’s history of militant trade unions that
-1 of 5 3/17/25, 11:08 PM ``` Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%2F%2Finthesetimes.com...
+1 of 5 3/17/25, 11:08 PM  Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%2F%2Finthesetimes.com...
                united workers across race, gender and nationality.
                May Day has its roots right here in the United States — in 1886,
                in the streets of Chicago, where workers were organizing and
@@ -150,8 +150,7 @@ This document was converted from **01_Political_Theory/Articles/Shawn Fain_ May 
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times/01_Political_Theory_Articles_Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times/01_Political_Theory_Articles_Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

@@ -2508,8 +2508,7 @@ The first conversations may be about the game itself, the course, other courses,
 
 
 "What do you do?"
-## ```
-
+## 
 I am not a golfer, but my sources say that business on the course is best kept very low-key—like the game itself. The good things about the conversation among the foursome are: 1) a captive audience and 2) a solid block of time.
 
 The same process of conversation applies to tennis, hiking, biking, riding, backpacking, theater, musical performance in the intermissions, and so on.
@@ -2773,8 +2772,7 @@ humble opinion
 AKA Also
 OTOH On the
 known as
-## ```
-
+## 
 other hand
 
 #### TYPE OUTCAST
@@ -3766,8 +3764,7 @@ People who speak what we know to be untruths aren't always telling intentional l
 "I was on time."
 "No, you were late."
 "Ah yes …:I remember it well."
-## ```
-
+## 
 And we often don't. But people who intentionally lie are problematic. What if we find ourselves in a conversation à deux, social group, or a meeting and hear a colleague, co-worker, or relative say something that bears no resemblance to the facts as we know them?
 
 Is silence the best coping strategy? Maybe. Again, it's a judgment call. The best "voice" to listen to is the one in our stomach; it will advise us wisely.

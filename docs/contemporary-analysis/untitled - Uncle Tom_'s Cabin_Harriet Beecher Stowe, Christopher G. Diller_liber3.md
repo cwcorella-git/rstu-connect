@@ -7882,8 +7882,7 @@ The men looked at each other, and the "come" was repeated, with a smart crack of
 
 When shall my sorrows have an end,
 Thy joys when shall—"
-## ```
-
+## 
 "Shut up, you black cuss!" roared Legree; "did ye think I wanted any o' yer infernal old Methodism? I say, tune up, now, something real rowdy,—quick!"
 
 One of the other men struck up one of those unmeaning songs, common among the slaves.
@@ -7894,15 +7893,13 @@ High boys, high!
 He laughed to split,—d' ye see the moon,
 Ho! ho! ho! boys, ho!
 Ho! yo! hi—e! oh!"
-## ```
-
+## 
 The singer appeared to make up the song to his own pleasure, generally hitting on rhyme, without much attempt at reason; and all the party took up the chorus, at intervals,
 
 
 "Ho! ho! ho! boys, ho!
 High—e—oh! high—e—oh!"
-## ```
-
+## 
 It was sung very boisterously, and with a forced attempt at merriment; but no wail of despair, no words of impassioned prayer, could have had such a depth of woe in them as the wild notes of the chorus. As if the poor, dumb heart, threatened, prisoned,—took refuge in that inarticulate sanctuary of music, and found there a language in which to breathe its prayer to God! There was a prayer in it, which Simon could not hear. He only heard the boys singing noisily, and was well pleased; he was making them "keep up their spirits."
 
 "Well, my little dear," said he, turning to Emmeline, and laying his hand on her shoulder, "we 're almost home!"

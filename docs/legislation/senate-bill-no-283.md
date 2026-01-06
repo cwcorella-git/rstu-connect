@@ -70,8 +70,7 @@ title: "senate-bill-no-283"
 
 
      -                                                                                         *SB283*
-```
-
+
 ---
 
 ## Page 2
@@ -132,8 +131,7 @@ title: "senate-bill-no-283"
 
 
      -                                                          *SB283*
-```
-
+
 ---
 
 ## Page 3
@@ -194,8 +192,7 @@ title: "senate-bill-no-283"
 
 
      -                                                           *SB283*
-```
-
+
 ---
 
 ## Page 4
@@ -220,7 +217,6 @@ title: "senate-bill-no-283"
 
 
     -                                                 *SB283*
-```
-
+
 ---
 

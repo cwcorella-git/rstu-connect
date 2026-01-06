@@ -64,8 +64,7 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 
 1 of 4                                                                                       3/17/25, 11:24 PM
-```
-
+
 ---
 
 ## Page 2
@@ -115,8 +114,7 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 
 2 of 4                                                                                       3/17/25, 11:24 PM
-```
-
+
 ---
 
 ## Page 3
@@ -168,8 +166,7 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 
 3 of 4                                                                                       3/17/25, 11:24 PM
-```
-
+
 ---
 
 ## Page 4
@@ -195,7 +192,6 @@ City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=h
 
 
 4 of 4                                                                                       3/17/25, 11:24 PM
-```
-
+
 ---
 

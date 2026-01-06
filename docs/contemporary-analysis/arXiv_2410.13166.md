@@ -570,8 +570,7 @@ https://group.ntt/jp/ir/library/results/
 文書は以下の通りです:\n 
 ### 文書 ###\n 
 {doc_text}
-## ```
-
+## 
 #### Prompt for abstractive summarization
 
 
@@ -591,8 +590,7 @@ https://group.ntt/jp/ir/library/results/
 文書は以下の通りです:\n 
 ### 文書 ###\n 
 {doc_text}
-## ```
-
+## 
 Figure 10: LLM prompts for generating synthetic QA pairs and summaries in Chou Bun.
 
 Collecting human annotations for long-text tasks is challenging, therefore we use synthetic QA pairs and summaries. In particular, we prompt various LLMs9 to generate multiple question-answer pairs or summaries for each document. Different instructions are designed for the two tasks and they are shown in Figure 10. To improve the reliability of the synthetic data, we ensure that every answer in extractive QA tasks is a text span presented in its corresponding source document. In Table 10, we provide the statistics of the benchmark.

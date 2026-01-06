@@ -26,7 +26,7 @@ tags:
           appreciation” — the full profits of the store were distributed to the employees, in
           lieu of their usual wage. The staff worked a total of 96 hours, and pulled in $7,500,
           which was split evenly to give the employees $78/hr. The first wave of press coverage
-1 of 19 3/17/25, 11:56 PM ``` You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+1 of 19 3/17/25, 11:56 PM  You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
           was exactly the kind of fawning over the business-owner’s generosity you might
           expect, but then a much more interesting second wave passed through social media
           channels. Socialist outlets began posing the question, “what kind of a system is this,
@@ -381,8 +381,7 @@ This document was converted from **03_Research_Papers/Articles/You Create $78 of
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/03_Research_Papers_Articles_You_Create__78_of_Value_With_Each_Hour_of_Labor___Medium/03_Research_Papers_Articles_You_Create__78_of_Value_With_Each_Hour_of_Labor___Medium.md" ```
-
+bash claude code "Collections/03_Research_Papers_Articles_You_Create__78_of_Value_With_Each_Hour_of_Labor___Medium/03_Research_Papers_Articles_You_Create__78_of_Value_With_Each_Hour_of_Labor___Medium.md" 
 **Library Location:** 03_Research_Papers is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

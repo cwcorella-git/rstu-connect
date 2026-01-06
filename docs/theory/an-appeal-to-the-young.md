@@ -75,8 +75,7 @@ tags:
               a mind free from the superstition which your teachers have sought to force upon you; that you don’t
 
 
-1 of 12                                                                                                                      10/2/25, 10:16 PM ```
-
+1 of 12                                                                                                                      10/2/25, 10:16 PM 
 ---
 
 ## Page 2
@@ -142,8 +141,7 @@ tags:
               other pines because she has never known what work is since she was born.
 
 
-2 of 12                                                                                                                      10/2/25, 10:16 PM ```
-
+2 of 12                                                                                                                      10/2/25, 10:16 PM 
 ---
 
 ## Page 3
@@ -209,8 +207,7 @@ tags:
               round, and at each step you will find fresh proof in support of this view.
 
 
-3 of 12                                                                                                                      10/2/25, 10:16 PM ```
-
+3 of 12                                                                                                                      10/2/25, 10:16 PM 
 ---
 
 ## Page 4
@@ -276,8 +273,7 @@ tags:
               side of property, is quite clear: the landlord is in the right. But you, whose feeling of justice has not
 
 
-4 of 12                                                                                                                      10/2/25, 10:16 PM ```
-
+4 of 12                                                                                                                      10/2/25, 10:16 PM 
 ---
 
 ## Page 5
@@ -343,8 +339,7 @@ tags:
               production and, after many experiments, many sleepless nights, you are at length master of this
 
 
-5 of 12                                                                                                                     10/2/25, 10:16 PM ```
-
+5 of 12                                                                                                                     10/2/25, 10:16 PM 
 ---
 
 ## Page 6
@@ -411,8 +406,7 @@ tags:
 
 
 
-6 of 12                                                                                                                     10/2/25, 10:16 PM ```
-
+6 of 12                                                                                                                     10/2/25, 10:16 PM 
 ---
 
 ## Page 7
@@ -478,8 +472,7 @@ tags:
               are nothing but a lot of brutes; come among these people — and the answer will come of itself.
 
 
-7 of 12                                                                                                                       10/2/25, 10:16 PM ```
-
+7 of 12                                                                                                                       10/2/25, 10:16 PM 
 ---
 
 ## Page 8
@@ -545,8 +538,7 @@ tags:
                  Where are they, indeed?
 
 
-8 of 12                                                                                                                    10/2/25, 10:16 PM ```
-
+8 of 12                                                                                                                    10/2/25, 10:16 PM 
 ---
 
 ## Page 9
@@ -612,8 +604,7 @@ tags:
                  You poets, painters, sculptors, musicians, if you understand your true mission and the very
 
 
-9 of 12                                                                                                                       10/2/25, 10:16 PM ```
-
+9 of 12                                                                                                                       10/2/25, 10:16 PM 
 ---
 
 ## Page 10
@@ -679,8 +670,7 @@ tags:
               years? Must you toil your life long to procure for others all the pleasures of well-being, of
 
 
-10 of 12                                                                                                                    10/2/25, 10:16 PM ```
-
+10 of 12                                                                                                                    10/2/25, 10:16 PM 
 ---
 
 ## Page 11
@@ -746,8 +736,7 @@ tags:
               You will understand that it is high time to bridge over this gulf of separation, and you will rush to
 
 
-11 of 12                                                                                                                    10/2/25, 10:16 PM ```
-
+11 of 12                                                                                                                    10/2/25, 10:16 PM 
 ---
 
 ## Page 12
@@ -814,7 +803,6 @@ tags:
 
 
 
-12 of 12                                                                                                                    10/2/25, 10:16 PM ```
-
+12 of 12                                                                                                                    10/2/25, 10:16 PM 
 ---
 

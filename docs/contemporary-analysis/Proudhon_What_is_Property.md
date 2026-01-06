@@ -892,8 +892,7 @@ Possession alone produced all that.
 
 
 "Eternal principle, — "
-## ```
-
+## 
 ## Property is eternal, like every negation, —
 
 ## "Of all social and civil institutions."
@@ -918,14 +917,12 @@ What is justice without equality of fortunes? A balance with false weights.
 
 
 "All morality, — "
-## ```
-
+## 
 ## A famished stomach knows no morality, —
 
 
 "All public order, — "
-## ```
-
+## 
 ## Certainly, the preservation of property, —
 
 ## "Rest on the right of property."<sup>4</sup>

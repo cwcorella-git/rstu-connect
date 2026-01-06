@@ -36,7 +36,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  function just as well, such as the common overdress. Many of
                  these traditional and custom dressers have very few total
                  articles of clothing, but also rarely share them. In a majority of
-1 of 25 3/17/25, 5:05 PM ``` Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+1 of 25 3/17/25, 5:05 PM  Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                  these styles, there is an under layer that is easy to launder, and
                  most individuals have 2 or 3 of these under layers, and launder
                  only them frequently and often by hand or in smallbatch guilds,
@@ -750,8 +750,7 @@ This document was converted from **01_Political_Theory/Articles/Social Fabric; C
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Social_Fabric__Clothing_in_a_Free_Society___The_Anarchist_Library/01_Political_Theory_Articles_Social_Fabric__Clothing_in_a_Free_Society___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_Social_Fabric__Clothing_in_a_Free_Society___The_Anarchist_Library/01_Political_Theory_Articles_Social_Fabric__Clothing_in_a_Free_Society___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

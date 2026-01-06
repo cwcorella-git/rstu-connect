@@ -1387,8 +1387,7 @@ French Revolution of 1789–94 (in the view of some historians, the span of the 
 
 {11} Ibid., p. 3.
 {12} Ibid., p. 3
-## ```
-
+## 
 - {13} Jean-Jacques Rousseau, op. cit., p. 94.
 - {14} Niccolo Machiavelli: The Prince (New York: The Modern Library Editions; 1940), pp. 45–46.
 - {15} Henri Frankfort: The Birth of Civilization in the Near East (New York: Doubleday & Co.; 1956), p. 77.
@@ -1406,8 +1405,7 @@ French Revolution of 1789–94 (in the view of some historians, the span of the 
 
 {26} W. G. Forrest, op. cit., p. 204; George Thomson: Aeschylus
 and Athens (New York: Grosset & Dunlop; 1968).
-## ```
-
+## 
 - {27} M. Rostovtzeff: Rome (London: Oxford Univerity Press; 1960), p. 104.
 - {28} Ibid., p. 100.
 - {29} Ibid., p. 104.
@@ -1448,8 +1446,7 @@ Revolution (London: Pluto Press; 1977), pp. 32–33.
 {53} Jacob Burckhardt: The Civilization of the Renaissance in
 Italy (New York: Phaidon Publishers; 1950), p. 2.
 {54} J. A. O. Larsen: Greek Federal States (London: Oxford
-## ```
-
+## 
 University Press; 1967), p. 27.
 
 
@@ -1477,8 +1474,7 @@ Publishers; 1969), Vol. I, p. 504.
 {67} Perez Zagorin, op. cit., p. 243.
 {68} Ibid., p. 244.
 {69} Mary Beard: A History of Business, Vol. I (Ann Arbor:
-## ```
-
+## 
 University of Michigan Press; 1938), p. 50.
 
 
@@ -1506,8 +1502,7 @@ Random House; 1984), pp. 31, 32.
 {83} Ibid., p. 100.
 {84} Herman Weilenman: Pax Helvetica: Oder Die Demokratie
 der Kleinen Gruppen, (Zurich, 1951). Quoted in Benjamin
-## ```
-
+## 
 Barber, ibid., p. 101.
 
 - {85} T. H. Breen: Puritans and Adventurers (New York: Oxford University Press; 1980), p. 3.

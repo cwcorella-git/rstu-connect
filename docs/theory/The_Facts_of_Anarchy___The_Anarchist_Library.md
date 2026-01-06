@@ -35,7 +35,7 @@ The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/lib
          with whom she was murdered by the japanese military police in 1923. She was a leadingﬁgure in the japanese
          feminist Bluestocking Society, and translated Emma Goldman into Japanese. The following excerpts are taken
          from her article, “The Facts of Anarchy, “ originally published in 1921 in Rodo Undo (the Labour Movement). Itō
-1 of 3 3/17/25, 5:05 PM ``` The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/library/ito-noe-the-facts-o...
+1 of 3 3/17/25, 5:05 PM  The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/library/ito-noe-the-facts-o...
          Noe argues that the Japanese peasant village was a functioning anarchist society based on mutual agreement
          and mutual aid. The translation by Yoshiharu Hashimoto. originally published in A Short History of the Anarchist
          Movement in Japan (Tokyo: Idea Publishing, 1979), has been modiﬁed by the editor for stylistic reasons.
@@ -93,8 +93,7 @@ This document was converted from **01_Political_Theory/Articles/The Facts of Ana
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_The_Facts_of_Anarchy___The_Anarchist_Library/01_Political_Theory_Articles_The_Facts_of_Anarchy___The_Anarchist_Library.md" ```
-
+bash claude code "Collections/01_Political_Theory_Articles_The_Facts_of_Anarchy___The_Anarchist_Library/01_Political_Theory_Articles_The_Facts_of_Anarchy___The_Anarchist_Library.md" 
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

@@ -81,8 +81,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 1 of 7                                                                                      8/28/25, 10:25 AM
-```
-
+
 ---
 
 ## Page 2
@@ -130,8 +129,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 2 of 7                                                                                      8/28/25, 10:25 AM
-```
-
+
 ---
 
 ## Page 3
@@ -180,8 +178,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 3 of 7                                                                                      8/28/25, 10:25 AM
-```
-
+
 ---
 
 ## Page 4
@@ -230,8 +227,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 4 of 7                                                                                      8/28/25, 10:25 AM
-```
-
+
 ---
 
 ## Page 5
@@ -289,8 +285,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 5 of 7                                                                                      8/28/25, 10:25 AM
-```
-
+
 ---
 
 ## Page 6
@@ -342,8 +337,7 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 6 of 7                                                                                      8/28/25, 10:25 AM
-```
-
+
 ---
 
 ## Page 7
@@ -360,7 +354,6 @@ Reno council debates allowing denser housing, revisits ...   about:reader?url=ht
 
 
 7 of 7                                                                                      8/28/25, 10:25 AM
-```
-
+
 ---
 

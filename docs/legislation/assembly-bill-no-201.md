@@ -77,8 +77,7 @@ summary eviction pursuant to NRS 40.253, 40.254 or 40.2542, the
 
 
    -                                                                                   83rd Session (2025)
-```
-
+
 ---
 
 ## Page 2
@@ -138,8 +137,7 @@ order of eviction was granted; and
 
 
    -                                                83rd Session (2025)
-```
-
+
 ---
 
 ## Page 3
@@ -198,7 +196,6 @@ exhibits and transcript of the testimony.
 
 
    -                                               83rd Session (2025)
-```
-
+
 ---
 

@@ -560,8 +560,7 @@ However, I think the fact that it does look like almost all the gradient descent
 [-]
 [anonymous] 19 0
          3y
-## ```
-
+## 
 I felt like this post could bene�t from a summary so I wrote one below. It ended up being pretty long, so if people think it's useful I could make it into it's own top-level post.
 
 ### Summary of the summary
