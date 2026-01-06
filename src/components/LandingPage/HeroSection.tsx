@@ -1,6 +1,7 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
+import { EditableText } from '@/components/EditMode'
 
 interface HeroSectionProps {
   onScrollClick: () => void
@@ -15,25 +16,34 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
       <div className="max-w-4xl mx-auto text-center">
         {/* Branding */}
         <div className="mb-6">
-          <h1 className="text-sm font-bold text-rstu-red uppercase tracking-wide mb-2">
-            {t('landing.hero.title')}
-          </h1>
+          <EditableText
+            tKey="landing.hero.title"
+            as="h1"
+            className="text-sm font-bold text-rstu-red uppercase tracking-wide mb-2"
+          />
         </div>
 
         {/* Main Statement - Evidence-based */}
-        <h2 className="text-4xl sm:text-5xl lg:text-5xl font-bold text-gray-900 mb-6 leading-tight">
-          {t('landing.hero.headline')}
-        </h2>
+        <EditableText
+          tKey="landing.hero.headline"
+          as="h2"
+          className="text-4xl sm:text-5xl lg:text-5xl font-bold text-gray-900 mb-6 leading-tight"
+        />
 
         {/* Subheading with key message */}
-        <p className="text-xl sm:text-2xl text-rstu-red font-semibold mb-6">
-          {t('landing.hero.tagline')}
-        </p>
+        <EditableText
+          tKey="landing.hero.tagline"
+          as="p"
+          className="text-xl sm:text-2xl text-rstu-red font-semibold mb-6"
+        />
 
         {/* Supporting text */}
-        <p className="text-base sm:text-lg text-gray-700 max-w-2xl mx-auto mb-10 leading-relaxed">
-          {t('landing.hero.mission')}
-        </p>
+        <EditableText
+          tKey="landing.hero.mission"
+          as="p"
+          className="text-base sm:text-lg text-gray-700 max-w-2xl mx-auto mb-10 leading-relaxed"
+          multiline
+        />
 
         {/* Call to Action Buttons */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">

@@ -4,9 +4,11 @@ import { ReactNode } from 'react'
 import { AuthProvider } from '@/contexts/AuthContext'
 import { TabProvider, useTab } from '@/contexts/TabContext'
 import { LanguageProvider, useLanguage } from '@/contexts/LanguageContext'
+import { EditModeProvider } from '@/contexts/EditModeContext'
 import { Navigation } from '@/components/Navigation'
 import { LanguageSelector } from '@/components/LanguageSelector'
 import { VersionFooter } from '@/components/VersionFooter'
+import { EditModeIndicator } from '@/components/EditMode'
 
 function Header() {
   const { t, isLoading } = useLanguage()
@@ -41,8 +43,12 @@ function Header() {
 export function ClientLayout({ children }: { children: ReactNode }) {
   return (
     <LanguageProvider>
+    <EditModeProvider>
     <AuthProvider>
     <TabProvider>
+      {/* Edit Mode Indicator - shows at top when edit mode is active */}
+      <EditModeIndicator />
+
       <main className="min-h-screen flex flex-col">
         {/* Header */}
         <Header />
@@ -82,6 +88,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
       </main>
     </TabProvider>
     </AuthProvider>
+    </EditModeProvider>
     </LanguageProvider>
   )
 }

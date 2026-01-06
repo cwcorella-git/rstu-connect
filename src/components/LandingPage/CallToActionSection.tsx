@@ -1,6 +1,7 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
+import { EditableText } from '@/components/EditMode'
 
 interface CallToActionSectionProps {
   onEnter: () => void
@@ -14,14 +15,19 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
     <section className="py-12 sm:py-16 px-4 bg-gradient-to-br from-rstu-red to-red-700">
       <div className="max-w-4xl mx-auto text-center">
         {/* Heading */}
-        <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-          {t('landing.cta.heading')}
-        </h2>
+        <EditableText
+          tKey="landing.cta.heading"
+          as="h2"
+          className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight"
+        />
 
         {/* Subheading */}
-        <p className="text-lg sm:text-xl text-white mb-12 opacity-95 max-w-2xl mx-auto">
-          {t('landing.cta.subtitle')}
-        </p>
+        <EditableText
+          tKey="landing.cta.subtitle"
+          as="p"
+          className="text-lg sm:text-xl text-white mb-12 opacity-95 max-w-2xl mx-auto"
+          multiline
+        />
 
         {/* Main CTA Button */}
         <button
@@ -38,12 +44,16 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
             onClick={() => onNavigate('reading')}
             className="group text-left bg-white bg-opacity-10 hover:bg-opacity-20 border border-white border-opacity-20 rounded-lg p-6 transition-all duration-200 text-white"
           >
-            <h3 className="text-lg font-bold mb-2 group-hover:text-yellow-200 transition-colors">
-              {t('landing.cta.option1Title')}
-            </h3>
-            <p className="text-sm text-white text-opacity-90">
-              {t('landing.cta.option1Desc')}
-            </p>
+            <EditableText
+              tKey="landing.cta.option1Title"
+              as="h3"
+              className="text-lg font-bold mb-2 group-hover:text-yellow-200 transition-colors"
+            />
+            <EditableText
+              tKey="landing.cta.option1Desc"
+              as="p"
+              className="text-sm text-white text-opacity-90"
+            />
           </button>
 
           {/* Explore buildings */}
@@ -51,12 +61,16 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
             onClick={() => onNavigate('home')}
             className="group text-left bg-white bg-opacity-10 hover:bg-opacity-20 border border-white border-opacity-20 rounded-lg p-6 transition-all duration-200 text-white"
           >
-            <h3 className="text-lg font-bold mb-2 group-hover:text-yellow-200 transition-colors">
-              {t('landing.cta.option2Title')}
-            </h3>
-            <p className="text-sm text-white text-opacity-90">
-              {t('landing.cta.option2Desc')}
-            </p>
+            <EditableText
+              tKey="landing.cta.option2Title"
+              as="h3"
+              className="text-lg font-bold mb-2 group-hover:text-yellow-200 transition-colors"
+            />
+            <EditableText
+              tKey="landing.cta.option2Desc"
+              as="p"
+              className="text-sm text-white text-opacity-90"
+            />
           </button>
 
           {/* In-person organizing */}
@@ -66,12 +80,16 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
             }}
             className="group text-left bg-white bg-opacity-10 hover:bg-opacity-20 border border-white border-opacity-20 rounded-lg p-6 transition-all duration-200 text-white"
           >
-            <h3 className="text-lg font-bold mb-2 group-hover:text-yellow-200 transition-colors">
-              {t('landing.cta.option4Title')}
-            </h3>
-            <p className="text-sm text-white text-opacity-90">
-              {t('landing.cta.option4Desc')}
-            </p>
+            <EditableText
+              tKey="landing.cta.option4Title"
+              as="h3"
+              className="text-lg font-bold mb-2 group-hover:text-yellow-200 transition-colors"
+            />
+            <EditableText
+              tKey="landing.cta.option4Desc"
+              as="p"
+              className="text-sm text-white text-opacity-90"
+            />
           </button>
         </div>
       </div>
