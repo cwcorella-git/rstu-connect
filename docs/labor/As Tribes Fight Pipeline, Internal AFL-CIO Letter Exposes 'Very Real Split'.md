@@ -1,5 +1,5 @@
 ---
-title: "**As Tribes Fight Pipeline, Internal AFL-CIO Letter Exposes 'Very Real Split'**"
+title: "As Tribes Fight Pipeline, Internal AFL-CIO Letter Exposes 'Very Real Split'"
 category: "labor"
 ---
 

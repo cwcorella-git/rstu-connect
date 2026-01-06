@@ -1,5 +1,5 @@
 ---
-title: "## **Scotland Yardies**"
+title: "Scotland Yardies"
 category: "contemporary-analysis"
 ---
 

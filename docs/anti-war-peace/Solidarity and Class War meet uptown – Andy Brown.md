@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity and Class War meet uptown – Andy Brown**"
+title: "Solidarity and Class War meet uptown – Andy Brown"
 category: "anti-war-peace"
 ---
 

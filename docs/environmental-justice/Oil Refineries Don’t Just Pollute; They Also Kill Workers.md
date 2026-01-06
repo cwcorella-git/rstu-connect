@@ -1,5 +1,5 @@
 ---
-title: "## **Oil Refineries Don't Just Pollute; They Also Kill Workers**"
+title: "Oil Refineries Don't Just Pollute; They Also Kill Workers"
 category: "environmental-justice"
 ---
 

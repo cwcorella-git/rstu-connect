@@ -1,5 +1,5 @@
 ---
-title: "## **Railroaders' Group Supports Rule to Ban Single Employee Train Operations**"
+title: "Railroaders' Group Supports Rule to Ban Single Employee Train Operations"
 category: "technology-digital-justice"
 ---
 

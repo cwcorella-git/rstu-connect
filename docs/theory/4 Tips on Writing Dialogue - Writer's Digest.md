@@ -1,5 +1,5 @@
 ---
-title: "**4 Tips on Writing Dialogue**"
+title: "4 Tips on Writing Dialogue"
 category: "theory"
 ---
 

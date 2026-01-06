@@ -1,5 +1,5 @@
 ---
-title: "## **Why We Need a World Party - Donald Parkinson**"
+title: "Why We Need a World Party - Donald Parkinson"
 category: "arts-culture-music"
 ---
 

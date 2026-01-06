@@ -1,5 +1,5 @@
 ---
-title: "## **The Blake Escape: Michael Randle Interview**"
+title: "The Blake Escape: Michael Randle Interview"
 category: "contemporary-analysis"
 ---
 

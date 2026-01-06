@@ -1,5 +1,5 @@
 ---
-title: "**The Conquest of Bread, by Peter Kropotkin**"
+title: "The Conquest of Bread, by Peter Kropotkin"
 category: "contemporary-analysis"
 ---
 

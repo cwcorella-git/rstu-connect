@@ -1,5 +1,5 @@
 ---
-title: "## **Did \$200,000 Bail Keep Pipeline Activist Out of Sunoco's Way?**"
+title: "Did $200,000 Bail Keep Pipeline Activist Out of Sunoco's Way?"
 category: "technology-digital-justice"
 ---
 

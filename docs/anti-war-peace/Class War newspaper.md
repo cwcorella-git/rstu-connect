@@ -1,5 +1,5 @@
 ---
-title: "## **Class War newspaper**"
+title: "Class War newspaper"
 category: "anti-war-peace"
 ---
 

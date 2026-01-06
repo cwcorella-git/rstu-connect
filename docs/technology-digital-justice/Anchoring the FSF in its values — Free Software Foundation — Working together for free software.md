@@ -1,5 +1,5 @@
 ---
-title: "## **Anchoring the FSF in its values**"
+title: "Anchoring the FSF in its values"
 category: "technology-digital-justice"
 ---
 

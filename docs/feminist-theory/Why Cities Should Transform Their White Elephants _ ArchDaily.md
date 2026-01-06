@@ -1,5 +1,5 @@
 ---
-title: "**Why Cities Should Transform Their White Elephants**"
+title: "Why Cities Should Transform Their White Elephants"
 category: "feminist-theory"
 ---
 

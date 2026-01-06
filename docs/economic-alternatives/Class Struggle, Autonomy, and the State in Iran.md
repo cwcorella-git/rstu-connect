@@ -1,5 +1,5 @@
 ---
-title: "## **Class Struggle, Autonomy, and the State in Iran**"
+title: "Class Struggle, Autonomy, and the State in Iran"
 category: "economic-alternatives"
 ---
 

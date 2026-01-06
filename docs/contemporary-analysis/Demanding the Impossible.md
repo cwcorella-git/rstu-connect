@@ -1,5 +1,5 @@
 ---
-title: "**Peter H. Marshall Demanding the Impossible A History of Anarchism**"
+title: "Peter H. Marshall Demanding the Impossible A History of Anarchism"
 category: "contemporary-analysis"
 ---
 

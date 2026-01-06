@@ -1,5 +1,5 @@
 ---
-title: "**Making a Change**"
+title: "Making a Change"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Anarchy #11 1973**"
+title: "Anarchy #11 1973"
 category: "contemporary-analysis"
 ---
 

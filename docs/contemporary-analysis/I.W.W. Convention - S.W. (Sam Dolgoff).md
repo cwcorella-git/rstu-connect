@@ -1,5 +1,5 @@
 ---
-title: "## **I. W. W. Convention - S. W. (Sam Dolgoff)**"
+title: "I. W. W. Convention - S. W. (Sam Dolgoff)"
 category: "contemporary-analysis"
 ---
 

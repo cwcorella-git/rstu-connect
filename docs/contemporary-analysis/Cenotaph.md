@@ -1,5 +1,5 @@
 ---
-title: "**Cenotaph**"
+title: "Cenotaph"
 category: "contemporary-analysis"
 ---
 

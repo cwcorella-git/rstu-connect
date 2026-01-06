@@ -1,5 +1,5 @@
 ---
-title: "## **Colombia Has Lost Its Fear: A Nationwide Uprising Continues in the Face of State Violence**"
+title: "Colombia Has Lost Its Fear: A Nationwide Uprising Continues in the Face of State Violence"
 category: "contemporary-analysis"
 ---
 

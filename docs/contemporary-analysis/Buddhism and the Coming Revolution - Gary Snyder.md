@@ -1,5 +1,5 @@
 ---
-title: "## **Buddhism and the Coming Revolution - Gary Snyder**"
+title: "Buddhism and the Coming Revolution - Gary Snyder"
 category: "contemporary-analysis"
 ---
 

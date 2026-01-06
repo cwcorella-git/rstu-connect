@@ -1,5 +1,5 @@
 ---
-title: "**Patrician (ancient Rome)**"
+title: "Patrician (ancient Rome)"
 category: "contemporary-analysis"
 ---
 

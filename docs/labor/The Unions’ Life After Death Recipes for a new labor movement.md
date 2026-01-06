@@ -1,5 +1,5 @@
 ---
-title: "## **The Unions' Life After Death: Recipes for a new labor movement**"
+title: "The Unions' Life After Death: Recipes for a new labor movement"
 category: "labor"
 ---
 

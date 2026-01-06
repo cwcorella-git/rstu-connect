@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity with Railroad Workers**"
+title: "Solidarity with Railroad Workers"
 category: "theory"
 ---
 

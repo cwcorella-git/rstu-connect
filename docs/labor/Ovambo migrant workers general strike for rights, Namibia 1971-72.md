@@ -1,5 +1,5 @@
 ---
-title: "## **Ovambo migrant workers general strike for rights, Namibia: 1971-72**"
+title: "Ovambo migrant workers general strike for rights, Namibia: 1971-72"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Social Functions of Emotion and Emotion Regulation**"
+title: "Social Functions of Emotion and Emotion Regulation"
 category: "contemporary-analysis"
 ---
 

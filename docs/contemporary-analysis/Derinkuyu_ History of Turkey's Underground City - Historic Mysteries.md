@@ -1,5 +1,5 @@
 ---
-title: "**Derinkuyu: History of Turkey's Underground City**"
+title: "Derinkuyu: History of Turkey's Underground City"
 category: "contemporary-analysis"
 ---
 

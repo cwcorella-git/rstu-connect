@@ -1,5 +1,5 @@
 ---
-title: "**Curious George Brigade Liberate not Exterminate 2005**"
+title: "Curious George Brigade Liberate not Exterminate 2005"
 category: "contemporary-analysis"
 ---
 

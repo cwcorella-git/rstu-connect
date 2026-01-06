@@ -1,5 +1,5 @@
 ---
-title: "## **"Haymarket Riot" of Kharkov: the Bloody Easter 1872**"
+title: "'Haymarket Riot' of Kharkov: the Bloody Easter 1872"
 category: "contemporary-analysis"
 ---
 

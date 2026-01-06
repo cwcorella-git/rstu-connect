@@ -1,5 +1,5 @@
 ---
-title: "## **Missoula IWW Stands in Solidarity with #NoDAPL**"
+title: "Missoula IWW Stands in Solidarity with #NoDAPL"
 category: "labor"
 ---
 

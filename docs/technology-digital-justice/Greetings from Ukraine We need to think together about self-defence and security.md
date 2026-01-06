@@ -1,5 +1,5 @@
 ---
-title: "## **Greetings from Ukraine: "We need to think together about self-defence and security"**"
+title: "Greetings from Ukraine: \"We need to think together about self-defence and security\""
 category: "technology-digital-justice"
 ---
 

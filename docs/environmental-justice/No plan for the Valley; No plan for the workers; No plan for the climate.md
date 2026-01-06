@@ -1,5 +1,5 @@
 ---
-title: "## **No plan for the Valley; No plan for the workers; No plan for the climate**"
+title: "No plan for the Valley; No plan for the workers; No plan for the climate"
 category: "environmental-justice"
 ---
 

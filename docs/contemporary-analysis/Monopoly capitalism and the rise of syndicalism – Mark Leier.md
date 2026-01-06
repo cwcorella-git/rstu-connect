@@ -1,5 +1,5 @@
 ---
-title: "## **Monopoly capitalism and the rise of syndicalism – Mark Leier**"
+title: "Monopoly capitalism and the rise of syndicalism – Mark Leier"
 category: "contemporary-analysis"
 ---
 

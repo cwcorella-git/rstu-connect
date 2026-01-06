@@ -1,5 +1,5 @@
 ---
-title: "## **No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!**"
+title: "No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!"
 category: "contemporary-analysis"
 ---
 

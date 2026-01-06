@@ -1,5 +1,5 @@
 ---
-title: "**Black Rim / Nigra Rando /** ■■"
+title: "Black Rim / Nigra Rando / ■■"
 category: "contemporary-analysis"
 ---
 

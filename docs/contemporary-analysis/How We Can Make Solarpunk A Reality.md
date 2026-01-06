@@ -1,5 +1,5 @@
 ---
-title: ""Man, it is hot today.""
+title: "\"Man, it is hot today.\""
 category: "contemporary-analysis"
 ---
 

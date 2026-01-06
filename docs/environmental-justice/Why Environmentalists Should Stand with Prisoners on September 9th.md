@@ -1,5 +1,5 @@
 ---
-title: "## **Why Environmentalists Should Stand with Prisoners on September 9th**"
+title: "Why Environmentalists Should Stand with Prisoners on September 9th"
 category: "environmental-justice"
 ---
 

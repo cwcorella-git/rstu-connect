@@ -1,5 +1,5 @@
 ---
-title: "## **Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize**"
+title: "Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize"
 category: "labor"
 ---
 

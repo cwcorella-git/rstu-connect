@@ -1,5 +1,5 @@
 ---
-title: "**101 Things I Learned in Architecture School**"
+title: "101 Things I Learned in Architecture School"
 category: "theory"
 ---
 

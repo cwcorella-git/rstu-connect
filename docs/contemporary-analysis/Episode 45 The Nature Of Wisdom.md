@@ -1,5 +1,5 @@
 ---
-title: "**Episode 45: The Nature Of Wisdom/**"
+title: "Episode 45: The Nature Of Wisdom/"
 category: "contemporary-analysis"
 ---
 

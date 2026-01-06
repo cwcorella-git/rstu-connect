@@ -1,5 +1,5 @@
 ---
-title: "## **아나르코 생디칼리슴 (Anarcho-Syndicalism)**"
+title: "아나르코 생디칼리슴 (Anarcho-Syndicalism)"
 category: "contemporary-analysis"
 ---
 

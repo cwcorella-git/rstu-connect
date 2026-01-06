@@ -1,5 +1,5 @@
 ---
-title: "**He Tore Down Motels Where Poor Residents Lived During a Housing Crisis. City Leaders Did Nothing.**"
+title: "He Tore Down Motels Where Poor Residents Lived During a Housing Crisis. City Leaders Did Nothing."
 category: "contemporary-analysis"
 ---
 

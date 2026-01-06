@@ -1,5 +1,5 @@
 ---
-title: "## **Getting Organised**"
+title: "Getting Organised"
 category: "contemporary-analysis"
 ---
 

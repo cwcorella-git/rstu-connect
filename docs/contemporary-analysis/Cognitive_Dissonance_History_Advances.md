@@ -1,5 +1,5 @@
 ---
-title: "**The Advances in the History of Cognitive Dissonance Theory**"
+title: "The Advances in the History of Cognitive Dissonance Theory"
 category: "contemporary-analysis"
 ---
 

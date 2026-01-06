@@ -1,5 +1,5 @@
 ---
-title: "## **Half the Sky: interview with Yu Shuet**"
+title: "Half the Sky: interview with Yu Shuet"
 category: "contemporary-analysis"
 ---
 

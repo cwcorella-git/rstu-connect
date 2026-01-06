@@ -1,5 +1,5 @@
 ---
-title: "## **Mistaken Identity: the Tortured History of Sabotage, Part 1**"
+title: "Mistaken Identity: the Tortured History of Sabotage, Part 1"
 category: "arts-culture-music"
 ---
 

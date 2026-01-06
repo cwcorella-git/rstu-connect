@@ -1,5 +1,5 @@
 ---
-title: "**Pennsylvania**"
+title: "Pennsylvania"
 category: "contemporary-analysis"
 ---
 

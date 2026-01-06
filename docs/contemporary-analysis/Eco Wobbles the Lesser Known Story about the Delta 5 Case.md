@@ -1,5 +1,5 @@
 ---
-title: "## **Eco Wobbles: the Lesser Known Story about the Delta 5 Case**"
+title: "Eco Wobbles: the Lesser Known Story about the Delta 5 Case"
 category: "contemporary-analysis"
 ---
 

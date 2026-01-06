@@ -1,5 +1,5 @@
 ---
-title: "## **"We must do away with racial prejudice and imaginary boundary lines": British Columbia wobblies"
+title: "'We must do away with racial prejudice and imaginary boundary lines': British Columbia wobblies"
 category: "international-solidarity"
 ---
 

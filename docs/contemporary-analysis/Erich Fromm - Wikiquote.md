@@ -1,5 +1,5 @@
 ---
-title: "**Erich Fromm**"
+title: "Erich Fromm"
 category: "contemporary-analysis"
 ---
 

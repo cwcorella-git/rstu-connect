@@ -1,5 +1,5 @@
 ---
-title: "## **An Open Letter of a Part-Time Instructor from PUP**"
+title: "An Open Letter of a Part-Time Instructor from PUP"
 category: "arts-culture-music"
 ---
 

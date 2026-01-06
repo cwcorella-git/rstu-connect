@@ -1,5 +1,5 @@
 ---
-title: "**What's wrong with Prometheanism?**"
+title: "What's wrong with Prometheanism?"
 category: "contemporary-analysis"
 ---
 

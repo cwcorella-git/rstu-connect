@@ -1,5 +1,5 @@
 ---
-title: "## **IWW Deliveroo riders strike and blockade in London**"
+title: "IWW Deliveroo riders strike and blockade in London"
 category: "contemporary-analysis"
 ---
 

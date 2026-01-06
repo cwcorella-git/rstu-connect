@@ -1,5 +1,5 @@
 ---
-title: "## **Class Struggle Environmentalism, Degrowth, and Ecosocialism**"
+title: "Class Struggle Environmentalism, Degrowth, and Ecosocialism"
 category: "environmental-justice"
 ---
 

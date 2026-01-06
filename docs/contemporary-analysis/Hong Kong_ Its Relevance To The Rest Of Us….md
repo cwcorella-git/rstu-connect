@@ -1,5 +1,5 @@
 ---
-title: "## **Sam Fanto Samotnaf**"
+title: "Sam Fanto Samotnaf"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Nurses join with partner environmental groups to demand climate justice now**"
+title: "Nurses join with partner environmental groups to demand climate justice now"
 category: "labor"
 ---
 

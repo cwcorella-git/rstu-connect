@@ -1,5 +1,5 @@
 ---
-title: "**Information wants to be free**"
+title: "Information wants to be free"
 category: "contemporary-analysis"
 ---
 

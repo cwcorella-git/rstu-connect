@@ -1,5 +1,5 @@
 ---
-title: "**Plebeians**"
+title: "Plebeians"
 category: "contemporary-analysis"
 ---
 

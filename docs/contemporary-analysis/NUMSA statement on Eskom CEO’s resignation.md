@@ -1,5 +1,5 @@
 ---
-title: "## **NUMSA statement on Eskom CEO's resignation**"
+title: "NUMSA statement on Eskom CEO's resignation"
 category: "contemporary-analysis"
 ---
 

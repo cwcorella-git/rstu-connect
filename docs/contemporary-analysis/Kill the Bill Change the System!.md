@@ -1,5 +1,5 @@
 ---
-title: "## **Kill the Bill? Change the System!**"
+title: "Kill the Bill? Change the System!"
 category: "contemporary-analysis"
 ---
 

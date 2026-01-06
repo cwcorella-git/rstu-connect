@@ -1,5 +1,5 @@
 ---
-title: "## **What in the World is going on at CSX and Amtrak?**"
+title: "What in the World is going on at CSX and Amtrak?"
 category: "contemporary-analysis"
 ---
 

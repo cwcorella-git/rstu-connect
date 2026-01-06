@@ -1,5 +1,5 @@
 ---
-title: "## **California Climate Jobs Plan Continues to Gain Union Endorsements**"
+title: "California Climate Jobs Plan Continues to Gain Union Endorsements"
 category: "environmental-justice"
 ---
 

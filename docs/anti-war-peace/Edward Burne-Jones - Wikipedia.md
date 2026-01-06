@@ -1,5 +1,5 @@
 ---
-title: "**Edward Burne-Jones**"
+title: "Edward Burne-Jones"
 category: "anti-war-peace"
 ---
 

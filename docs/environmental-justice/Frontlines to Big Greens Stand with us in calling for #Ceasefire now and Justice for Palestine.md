@@ -1,5 +1,5 @@
 ---
-title: "## **Frontlines to Big Greens: Stand with us in calling for #Ceasefire now and Justice for Palestine"
+title: "Frontlines to Big Greens: Stand with us in calling for #Ceasefire now and Justice for Palestine"
 category: "environmental-justice"
 ---
 

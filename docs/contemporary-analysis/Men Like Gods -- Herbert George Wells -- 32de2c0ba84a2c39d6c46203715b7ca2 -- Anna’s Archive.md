@@ -1,5 +1,5 @@
 ---
-title: "**MEN LIKE GODS**"
+title: "MEN LIKE GODS"
 category: "contemporary-analysis"
 ---
 

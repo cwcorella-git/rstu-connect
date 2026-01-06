@@ -1,5 +1,5 @@
 ---
-title: "## **Defend The Land: End Toxic Gold Mining**"
+title: "Defend The Land: End Toxic Gold Mining"
 category: "contemporary-analysis"
 ---
 

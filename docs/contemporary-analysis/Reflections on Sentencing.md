@@ -1,5 +1,5 @@
 ---
-title: "## **Reflections on Sentencing**"
+title: "Reflections on Sentencing"
 category: "contemporary-analysis"
 ---
 

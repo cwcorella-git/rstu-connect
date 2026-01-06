@@ -1,5 +1,5 @@
 ---
-title: "## **IWW blockades Street in front of Whole Foods Demanding Reinstatement for Worker**"
+title: "IWW blockades Street in front of Whole Foods Demanding Reinstatement for Worker"
 category: "food-justice"
 ---
 

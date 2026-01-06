@@ -1,5 +1,5 @@
 ---
-title: "**Bay Area IWW Resolution Defending the West Berkeley Shellmound**"
+title: "Bay Area IWW Resolution Defending the West Berkeley Shellmound"
 category: "contemporary-analysis"
 ---
 

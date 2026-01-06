@@ -1,5 +1,5 @@
 ---
-title: "**Terra preta**"
+title: "Terra preta"
 category: "contemporary-analysis"
 ---
 

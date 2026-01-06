@@ -1,5 +1,5 @@
 ---
-title: "## **Suds and Socialism Forum: Workers and the Environment**"
+title: "Suds and Socialism Forum: Workers and the Environment"
 category: "environmental-justice"
 ---
 

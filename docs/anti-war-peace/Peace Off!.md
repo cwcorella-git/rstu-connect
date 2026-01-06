@@ -1,5 +1,5 @@
 ---
-title: "## **Peace Off!**"
+title: "Peace Off!"
 category: "anti-war-peace"
 ---
 

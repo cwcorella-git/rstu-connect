@@ -1,5 +1,5 @@
 ---
-title: "## **Interview with Esther and Sam Do Igoff – Doug Richardson**"
+title: "Interview with Esther and Sam Do Igoff – Doug Richardson"
 category: "contemporary-analysis"
 ---
 

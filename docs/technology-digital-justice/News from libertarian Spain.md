@@ -1,5 +1,5 @@
 ---
-title: "## **News from libertarian Spain**"
+title: "News from libertarian Spain"
 category: "technology-digital-justice"
 ---
 

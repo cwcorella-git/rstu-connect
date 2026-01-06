@@ -1,5 +1,5 @@
 ---
-title: "**Ambivalence**"
+title: "Ambivalence"
 category: "contemporary-analysis"
 ---
 

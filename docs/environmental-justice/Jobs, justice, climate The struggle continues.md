@@ -1,5 +1,5 @@
 ---
-title: "## **Jobs, justice, climate: The struggle continues**"
+title: "Jobs, justice, climate: The struggle continues"
 category: "environmental-justice"
 ---
 

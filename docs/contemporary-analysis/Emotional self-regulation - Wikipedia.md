@@ -1,5 +1,5 @@
 ---
-title: "**Emotional self-regulation**"
+title: "Emotional self-regulation"
 category: "contemporary-analysis"
 ---
 

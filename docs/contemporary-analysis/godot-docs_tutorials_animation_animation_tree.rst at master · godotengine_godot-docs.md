@@ -1,5 +1,5 @@
 ---
-title: "**godot-docs/tutorials/animation/ animation\_tree.rst at master · godotengine/godot-docs**"
+title: "godot-docs/tutorials/animation/ animation\_tree.rst at master · godotengine/godot-docs"
 category: "contemporary-analysis"
 ---
 

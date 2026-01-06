@@ -1,5 +1,5 @@
 ---
-title: "**Repression hits hardest at the end.**"
+title: "Repression hits hardest at the end."
 category: "arts-culture-music"
 ---
 

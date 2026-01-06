@@ -1,5 +1,5 @@
 ---
-title: "**TERMINATOR 2: JUDGMENT DAY**"
+title: "TERMINATOR 2: JUDGMENT DAY"
 category: "contemporary-analysis"
 ---
 

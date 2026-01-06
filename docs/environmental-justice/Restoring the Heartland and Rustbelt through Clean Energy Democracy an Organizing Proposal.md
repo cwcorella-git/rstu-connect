@@ -1,5 +1,5 @@
 ---
-title: "## **Restoring the Heartland and Rustbelt through Clean Energy Democracy: an Organizing Proposal**"
+title: "Restoring the Heartland and Rustbelt through Clean Energy Democracy: an Organizing Proposal"
 category: "environmental-justice"
 ---
 

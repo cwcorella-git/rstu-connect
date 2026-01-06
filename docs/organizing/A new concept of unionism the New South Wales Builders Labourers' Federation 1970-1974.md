@@ -1,5 +1,5 @@
 ---
-title: "## **A new concept of unionism: the New South Wales Builders Labourers' Federation 1970-1974**"
+title: "A new concept of unionism: the New South Wales Builders Labourers' Federation 1970-1974"
 category: "organizing"
 ---
 

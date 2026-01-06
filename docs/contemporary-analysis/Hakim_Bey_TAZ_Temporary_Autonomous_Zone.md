@@ -1,5 +1,5 @@
 ---
-title: "**T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism**"
+title: "T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism"
 category: "contemporary-analysis"
 ---
 

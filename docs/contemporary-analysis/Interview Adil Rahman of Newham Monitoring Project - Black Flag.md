@@ -1,5 +1,5 @@
 ---
-title: "## **Interview: Adil Rahman of Newham Monitoring Project - Black Flag**"
+title: "Interview: Adil Rahman of Newham Monitoring Project - Black Flag"
 category: "contemporary-analysis"
 ---
 

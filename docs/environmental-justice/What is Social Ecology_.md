@@ -1,5 +1,5 @@
 ---
-title: "**Murray Bookchin What is Social Ecology? 1993**"
+title: "Murray Bookchin What is Social Ecology? 1993"
 category: "environmental-justice"
 ---
 

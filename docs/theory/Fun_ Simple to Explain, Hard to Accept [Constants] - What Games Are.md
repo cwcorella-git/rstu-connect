@@ -1,5 +1,5 @@
 ---
-title: "**Fun: Simple to Explain, Hard to Accept [Constants]**"
+title: "Fun: Simple to Explain, Hard to Accept [Constants]"
 category: "theory"
 ---
 

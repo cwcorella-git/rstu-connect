@@ -1,5 +1,5 @@
 ---
-title: "**Avenir (typeface)**"
+title: "Avenir (typeface)"
 category: "contemporary-analysis"
 ---
 

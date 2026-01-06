@@ -1,5 +1,5 @@
 ---
-title: "**Chandra**"
+title: "Chandra"
 category: "contemporary-analysis"
 ---
 

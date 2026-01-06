@@ -1,5 +1,5 @@
 ---
-title: "## **No Love for Deliveroo! A reflection on organising and mobilising in the "gig" economy.**"
+title: "No Love for Deliveroo! A reflection on organising and mobilising in the 'gig' economy."
 category: "economic-alternatives"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **1907: Iranian General Strike**"
+title: "1907: Iranian General Strike"
 category: "feminist-theory"
 ---
 

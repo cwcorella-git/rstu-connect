@@ -1,5 +1,5 @@
 ---
-title: "**Ozawa v. United States**"
+title: "Ozawa v. United States"
 category: "contemporary-analysis"
 ---
 

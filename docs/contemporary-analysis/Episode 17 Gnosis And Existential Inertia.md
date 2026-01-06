@@ -1,5 +1,5 @@
 ---
-title: "**Episode 17: Gnosis And Existential Inertia/**"
+title: "Episode 17: Gnosis And Existential Inertia/"
 category: "contemporary-analysis"
 ---
 

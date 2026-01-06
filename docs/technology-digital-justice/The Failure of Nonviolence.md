@@ -1,5 +1,5 @@
 ---
-title: "**Peter Gelderloos**"
+title: "Peter Gelderloos"
 category: "technology-digital-justice"
 ---
 

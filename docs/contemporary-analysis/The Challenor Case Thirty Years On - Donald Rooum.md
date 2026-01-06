@@ -1,5 +1,5 @@
 ---
-title: "## **The Challenor Case Thirty Years On - Donald Rooum**"
+title: "The Challenor Case Thirty Years On - Donald Rooum"
 category: "contemporary-analysis"
 ---
 

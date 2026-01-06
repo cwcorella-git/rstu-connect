@@ -1,5 +1,5 @@
 ---
-title: "**Text of Irish Republican Army (IRA) 'Green Book' (Book I and II)**"
+title: "Text of Irish Republican Army (IRA) 'Green Book' (Book I and II)"
 category: "environmental-justice"
 ---
 

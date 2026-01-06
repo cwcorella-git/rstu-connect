@@ -1,5 +1,5 @@
 ---
-title: "## **New Battlefields - Phil Neel interview by e-Komite (2021)**"
+title: "New Battlefields - Phil Neel interview by e-Komite (2021)"
 category: "contemporary-analysis"
 ---
 

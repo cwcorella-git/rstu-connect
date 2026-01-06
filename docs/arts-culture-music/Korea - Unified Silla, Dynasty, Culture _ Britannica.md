@@ -1,5 +1,5 @@
 ---
-title: "**Kolp'um | Confucianism, Hierarchy, Caste System**"
+title: "Kolp'um | Confucianism, Hierarchy, Caste System"
 category: "arts-culture-music"
 ---
 

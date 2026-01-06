@@ -1,5 +1,5 @@
 ---
-title: "## **An Anarchist on Anarchy**"
+title: "An Anarchist on Anarchy"
 category: "contemporary-analysis"
 ---
 

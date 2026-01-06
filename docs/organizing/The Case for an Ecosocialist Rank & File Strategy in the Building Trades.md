@@ -1,5 +1,5 @@
 ---
-title: "## **The Case for an Ecosocialist Rank & File Strategy in the Building Trades**"
+title: "The Case for an Ecosocialist Rank & File Strategy in the Building Trades"
 category: "organizing"
 ---
 

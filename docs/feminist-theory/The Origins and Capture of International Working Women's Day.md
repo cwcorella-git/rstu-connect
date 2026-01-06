@@ -1,5 +1,5 @@
 ---
-title: "## **The Origins and Capture of International Working Women's Day**"
+title: "The Origins and Capture of International Working Women's Day"
 category: "feminist-theory"
 ---
 

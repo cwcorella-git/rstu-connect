@@ -1,5 +1,5 @@
 ---
-title: "## **Amid Price Plunge, North American Oil and Gas Workers Seek Transition to Renewable Sector**"
+title: "Amid Price Plunge, North American Oil and Gas Workers Seek Transition to Renewable Sector"
 category: "feminist-theory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Laid-off Sierra Club Staffers: 'We Can't Give Up on United Fronts'**"
+title: "Laid-off Sierra Club Staffers: 'We Can't Give Up on United Fronts'"
 category: "organizing"
 ---
 

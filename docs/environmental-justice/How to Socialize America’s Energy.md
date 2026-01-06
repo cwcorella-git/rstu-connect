@@ -1,5 +1,5 @@
 ---
-title: "**How to Socialize America's Energy**"
+title: "How to Socialize America's Energy"
 category: "environmental-justice"
 ---
 

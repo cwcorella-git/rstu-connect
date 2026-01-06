@@ -1,5 +1,5 @@
 ---
-title: "## **Knife crime - analysing a moral panic**"
+title: "Knife crime - analysing a moral panic"
 category: "contemporary-analysis"
 ---
 

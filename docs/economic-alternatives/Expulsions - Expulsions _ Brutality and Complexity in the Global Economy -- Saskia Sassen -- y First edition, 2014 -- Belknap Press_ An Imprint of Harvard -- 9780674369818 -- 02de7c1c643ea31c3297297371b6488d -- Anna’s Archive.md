@@ -1,5 +1,5 @@
 ---
-title: "**EXPULSIONS**"
+title: "EXPULSIONS"
 category: "economic-alternatives"
 ---
 

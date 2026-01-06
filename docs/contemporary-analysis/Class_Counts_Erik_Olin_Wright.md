@@ -1,5 +1,5 @@
 ---
-title: "**Class Counts**"
+title: "Class Counts"
 category: "contemporary-analysis"
 ---
 

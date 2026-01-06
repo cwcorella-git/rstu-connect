@@ -1,5 +1,5 @@
 ---
-title: "**Anarchism**"
+title: "Anarchism"
 category: "contemporary-analysis"
 ---
 

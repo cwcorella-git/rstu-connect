@@ -1,5 +1,5 @@
 ---
-title: "## **How to achieve a society without power?**"
+title: "How to achieve a society without power?"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Episode 35: The Symbol Sacredness And The Sacred/**"
+title: "Episode 35: The Symbol Sacredness And The Sacred/"
 category: "contemporary-analysis"
 ---
 

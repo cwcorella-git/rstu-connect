@@ -1,5 +1,5 @@
 ---
-title: "## **Industrialisti and the Industrial Workers of the World - Katriina Etholén**"
+title: "Industrialisti and the Industrial Workers of the World - Katriina Etholén"
 category: "contemporary-analysis"
 ---
 

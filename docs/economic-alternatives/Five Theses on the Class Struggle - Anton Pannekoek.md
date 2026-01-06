@@ -1,5 +1,5 @@
 ---
-title: "## **Five Theses on the Class Struggle - Anton Pannekoek**"
+title: "Five Theses on the Class Struggle - Anton Pannekoek"
 category: "economic-alternatives"
 ---
 

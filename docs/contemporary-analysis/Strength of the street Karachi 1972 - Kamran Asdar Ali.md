@@ -1,5 +1,5 @@
 ---
-title: "## **Strength of the street: Karachi 1972 - Kamran Asdar Ali**"
+title: "Strength of the street: Karachi 1972 - Kamran Asdar Ali"
 category: "contemporary-analysis"
 ---
 

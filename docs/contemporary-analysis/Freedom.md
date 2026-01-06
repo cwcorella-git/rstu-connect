@@ -1,5 +1,5 @@
 ---
-title: "**Freedom**"
+title: "Freedom"
 category: "contemporary-analysis"
 ---
 

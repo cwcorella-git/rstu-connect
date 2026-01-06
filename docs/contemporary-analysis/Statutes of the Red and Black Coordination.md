@@ -1,5 +1,5 @@
 ---
-title: "## **Statutes of the Red and Black Coordination**"
+title: "Statutes of the Red and Black Coordination"
 category: "contemporary-analysis"
 ---
 

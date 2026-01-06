@@ -1,5 +1,5 @@
 ---
-title: "## **Augusto Masetti (1888–1966)**"
+title: "Augusto Masetti (1888–1966)"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Deschooling Society**"
+title: "Deschooling Society"
 category: "theory"
 ---
 

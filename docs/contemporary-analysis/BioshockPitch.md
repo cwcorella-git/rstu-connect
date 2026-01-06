@@ -1,5 +1,5 @@
 ---
-title: "**Bio Shock will:**"
+title: "Bio Shock will:"
 category: "contemporary-analysis"
 ---
 

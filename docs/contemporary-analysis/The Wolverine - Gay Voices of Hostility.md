@@ -1,5 +1,5 @@
 ---
-title: "## **The Wolverine - Gay Voices of Hostility**"
+title: "The Wolverine - Gay Voices of Hostility"
 category: "contemporary-analysis"
 ---
 

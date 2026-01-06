@@ -1,5 +1,5 @@
 ---
-title: "## **Reflections on Violence (1908) - Georges Sorel**"
+title: "Reflections on Violence (1908) - Georges Sorel"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**The Origins of Policing in the United States**"
+title: "The Origins of Policing in the United States"
 category: "contemporary-analysis"
 ---
 

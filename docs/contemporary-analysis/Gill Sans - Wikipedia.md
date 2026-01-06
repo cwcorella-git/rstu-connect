@@ -1,5 +1,5 @@
 ---
-title: "**Gill Sans**"
+title: "Gill Sans"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **DC IWW Resolution on Standing Rock**"
+title: "DC IWW Resolution on Standing Rock"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **(R)evolution in the 21st Century: The case for a syndicalist strategy**"
+title: "(R)evolution in the 21st Century: The case for a syndicalist strategy"
 category: "contemporary-analysis"
 ---
 

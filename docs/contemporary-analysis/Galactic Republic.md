@@ -1,5 +1,5 @@
 ---
-title: "**Galactic Republic**"
+title: "Galactic Republic"
 category: "contemporary-analysis"
 ---
 

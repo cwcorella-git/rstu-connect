@@ -1,5 +1,5 @@
 ---
-title: "## **Episode 28: Convergence To Relevance Realization/**"
+title: "Episode 28: Convergence To Relevance Realization/"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **More Farmers, Better Food: A framework for British Agricultural Policy**"
+title: "More Farmers, Better Food: A framework for British Agricultural Policy"
 category: "arts-culture-music"
 ---
 

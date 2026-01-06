@@ -1,5 +1,5 @@
 ---
-title: "## **What makes me tired when organising with middle class comrades**"
+title: "What makes me tired when organising with middle class comrades"
 category: "contemporary-analysis"
 ---
 

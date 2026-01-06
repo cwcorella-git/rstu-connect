@@ -1,5 +1,5 @@
 ---
-title: "## **Sei kein Arschloch, wenn es um schlechte Ideen geht**"
+title: "Sei kein Arschloch, wenn es um schlechte Ideen geht"
 category: "contemporary-analysis"
 ---
 

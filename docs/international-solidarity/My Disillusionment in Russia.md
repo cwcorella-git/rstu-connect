@@ -1,5 +1,5 @@
 ---
-title: "**PREFACE TO FIRST VOLUME OF AMERICAN EDITION**"
+title: "PREFACE TO FIRST VOLUME OF AMERICAN EDITION"
 category: "international-solidarity"
 ---
 

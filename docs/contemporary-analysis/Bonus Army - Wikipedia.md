@@ -1,5 +1,5 @@
 ---
-title: "**Bonus Army**"
+title: "Bonus Army"
 category: "contemporary-analysis"
 ---
 

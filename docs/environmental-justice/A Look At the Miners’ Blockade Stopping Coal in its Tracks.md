@@ -1,5 +1,5 @@
 ---
-title: "## **A Look At the Miners' Blockade Stopping Coal in its Tracks**"
+title: "A Look At the Miners' Blockade Stopping Coal in its Tracks"
 category: "environmental-justice"
 ---
 

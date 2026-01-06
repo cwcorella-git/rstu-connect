@@ -1,5 +1,5 @@
 ---
-title: "## **From mass strike to new society - Jeremy Brecher**"
+title: "From mass strike to new society - Jeremy Brecher"
 category: "contemporary-analysis"
 ---
 

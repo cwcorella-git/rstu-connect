@@ -1,5 +1,5 @@
 ---
-title: "**Is The Bible More Violent Than The Quran?**"
+title: "Is The Bible More Violent Than The Quran?"
 category: "contemporary-analysis"
 ---
 

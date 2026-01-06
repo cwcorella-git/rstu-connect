@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity Journal #13 Winter 1986/7**"
+title: "Solidarity Journal #13 Winter 1986/7"
 category: "contemporary-analysis"
 ---
 

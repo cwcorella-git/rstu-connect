@@ -1,5 +1,5 @@
 ---
-title: "**Inside The Green Economy: Promises And Pitfalls In 9 Theses**"
+title: "Inside The Green Economy: Promises And Pitfalls In 9 Theses"
 category: "environmental-justice"
 ---
 

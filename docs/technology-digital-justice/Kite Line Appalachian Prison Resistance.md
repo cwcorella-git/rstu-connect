@@ -1,5 +1,5 @@
 ---
-title: "## **Kite Line: Appalachian Prison Resistance**"
+title: "Kite Line: Appalachian Prison Resistance"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Northern Ireland, the IRA and Class War**"
+title: "Northern Ireland, the IRA and Class War"
 category: "anti-war-peace"
 ---
 

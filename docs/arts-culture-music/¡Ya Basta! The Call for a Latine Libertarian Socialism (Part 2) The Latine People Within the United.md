@@ -1,5 +1,5 @@
 ---
-title: "## **¡Ya Basta! The Call for a Latine Libertarian Socialism (Part 2): The Latine People Within the U"
+title: "¡Ya Basta! The Call for a Latine Libertarian Socialism (Part 2): The Latine People Within the U"
 category: "arts-culture-music"
 ---
 

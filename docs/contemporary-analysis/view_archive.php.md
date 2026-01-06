@@ -1,5 +1,5 @@
 ---
-title: "**THIRD CLASS**"
+title: "THIRD CLASS"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Beating the Climate Clock: Workers, citizens and state action in the UK**"
+title: "Beating the Climate Clock: Workers, citizens and state action in the UK"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **'Sifuna zonke!': revolutionary syndicalism, the Industrial Workers of Africa and the fight agai"
+title: "'Sifuna zonke!': revolutionary syndicalism, the Industrial Workers of Africa and the fight agai"
 category: "technology-digital-justice"
 ---
 

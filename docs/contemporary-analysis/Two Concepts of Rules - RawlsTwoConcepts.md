@@ -1,5 +1,5 @@
 ---
-title: "**Philosophical Review**"
+title: "Philosophical Review"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Becky Chambers**"
+title: "Becky Chambers"
 category: "contemporary-analysis"
 ---
 

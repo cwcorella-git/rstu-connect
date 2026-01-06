@@ -1,5 +1,5 @@
 ---
-title: "**Prison Research Education Action Project Instead of Prisons**"
+title: "Prison Research Education Action Project Instead of Prisons"
 category: "contemporary-analysis"
 ---
 

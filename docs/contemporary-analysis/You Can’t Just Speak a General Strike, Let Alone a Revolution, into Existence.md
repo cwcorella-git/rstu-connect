@@ -1,5 +1,5 @@
 ---
-title: "## **You Can't Just Speak a General Strike, Let Alone a Revolution, into Existence**"
+title: "You Can't Just Speak a General Strike, Let Alone a Revolution, into Existence"
 category: "contemporary-analysis"
 ---
 

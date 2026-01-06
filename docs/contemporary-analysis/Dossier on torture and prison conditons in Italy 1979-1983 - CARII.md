@@ -1,5 +1,5 @@
 ---
-title: "## **Dossier on torture and prison conditons in Italy 1979-1983 - CARII**"
+title: "Dossier on torture and prison conditons in Italy 1979-1983 - CARII"
 category: "contemporary-analysis"
 ---
 

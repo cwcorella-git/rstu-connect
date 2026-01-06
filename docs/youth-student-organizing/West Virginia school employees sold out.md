@@ -1,5 +1,5 @@
 ---
-title: "## **West Virginia school employees sold out?**"
+title: "West Virginia school employees sold out?"
 category: "youth-student-organizing"
 ---
 

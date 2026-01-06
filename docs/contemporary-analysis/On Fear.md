@@ -1,5 +1,5 @@
 ---
-title: "## **On Fear.**"
+title: "On Fear."
 category: "contemporary-analysis"
 ---
 

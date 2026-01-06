@@ -1,5 +1,5 @@
 ---
-title: "**A Secular Age**"
+title: "A Secular Age"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **COP26 Corporate Sponsors: A Barrier To A Just Transition**"
+title: "COP26 Corporate Sponsors: A Barrier To A Just Transition"
 category: "feminist-theory"
 ---
 

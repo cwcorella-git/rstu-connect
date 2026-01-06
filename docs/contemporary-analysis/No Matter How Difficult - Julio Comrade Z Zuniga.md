@@ -1,5 +1,5 @@
 ---
-title: "## **No Matter How Difficult - Julio "Comrade Z" Zuniga**"
+title: "No Matter How Difficult - Julio \"Comrade Z\" Zuniga"
 category: "contemporary-analysis"
 ---
 

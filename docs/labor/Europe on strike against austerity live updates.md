@@ -1,5 +1,5 @@
 ---
-title: "## **Europe on strike against austerity: live updates**"
+title: "Europe on strike against austerity: live updates"
 category: "labor"
 ---
 

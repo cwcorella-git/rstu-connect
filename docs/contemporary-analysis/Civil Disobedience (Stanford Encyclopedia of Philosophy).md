@@ -1,5 +1,5 @@
 ---
-title: "**Civil Disobedience**"
+title: "Civil Disobedience"
 category: "contemporary-analysis"
 ---
 

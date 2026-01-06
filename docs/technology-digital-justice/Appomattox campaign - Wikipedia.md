@@ -1,5 +1,5 @@
 ---
-title: "**Appomattox campaign**"
+title: "Appomattox campaign"
 category: "technology-digital-justice"
 ---
 

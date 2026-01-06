@@ -1,5 +1,5 @@
 ---
-title: "## **The Green New Deal is Only a Beginning**"
+title: "The Green New Deal is Only a Beginning"
 category: "environmental-justice"
 ---
 

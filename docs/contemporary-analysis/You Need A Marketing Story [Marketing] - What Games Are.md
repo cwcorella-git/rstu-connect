@@ -1,5 +1,5 @@
 ---
-title: "**You Need A Marketing Story [Marketing]**"
+title: "You Need A Marketing Story [Marketing]"
 category: "contemporary-analysis"
 ---
 

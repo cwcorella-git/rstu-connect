@@ -1,5 +1,5 @@
 ---
-title: "## **Food, Labour and Ecology**"
+title: "Food, Labour and Ecology"
 category: "environmental-justice"
 ---
 

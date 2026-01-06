@@ -1,5 +1,5 @@
 ---
-title: "## **Unfinished business - review by Subversion**"
+title: "Unfinished business - review by Subversion"
 category: "contemporary-analysis"
 ---
 

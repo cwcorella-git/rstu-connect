@@ -1,5 +1,5 @@
 ---
-title: "## **The Ends of Class War - Mark S. Tey**"
+title: "The Ends of Class War - Mark S. Tey"
 category: "anti-war-peace"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **The "Left-Wingers" and the IWW**"
+title: "The 'Left-Wingers' and the IWW"
 category: "contemporary-analysis"
 ---
 

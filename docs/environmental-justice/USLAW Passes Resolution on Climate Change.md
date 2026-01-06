@@ -1,5 +1,5 @@
 ---
-title: "## **USLAW Passes Resolution on Climate Change**"
+title: "USLAW Passes Resolution on Climate Change"
 category: "environmental-justice"
 ---
 

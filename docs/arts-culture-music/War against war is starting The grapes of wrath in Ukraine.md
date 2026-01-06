@@ -1,5 +1,5 @@
 ---
-title: "## **War against war is starting? The grapes of wrath in Ukraine**"
+title: "War against war is starting? The grapes of wrath in Ukraine"
 category: "arts-culture-music"
 ---
 

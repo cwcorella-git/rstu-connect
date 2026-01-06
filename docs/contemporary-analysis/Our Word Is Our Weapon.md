@@ -1,5 +1,5 @@
 ---
-title: "**Subcomandante Marcos**"
+title: "Subcomandante Marcos"
 category: "contemporary-analysis"
 ---
 

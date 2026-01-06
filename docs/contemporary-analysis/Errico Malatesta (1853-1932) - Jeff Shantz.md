@@ -1,5 +1,5 @@
 ---
-title: "## **Errico Malatesta (1853-1932) - Jeff Shantz**"
+title: "Errico Malatesta (1853-1932) - Jeff Shantz"
 category: "contemporary-analysis"
 ---
 

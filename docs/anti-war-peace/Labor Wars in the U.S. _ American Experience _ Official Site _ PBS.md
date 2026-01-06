@@ -1,5 +1,5 @@
 ---
-title: "**Labor Wars in the U. S.**"
+title: "Labor Wars in the U. S."
 category: "anti-war-peace"
 ---
 

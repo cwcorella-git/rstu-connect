@@ -1,5 +1,5 @@
 ---
-title: "**妇女与社会颠覆 (Women and Social Subversion)**"
+title: "妇女与社会颠覆 (Women and Social Subversion)"
 category: "feminist-theory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Just Transition, System Change, and Revolutionary Green Transformation**"
+title: "Just Transition, System Change, and Revolutionary Green Transformation"
 category: "feminist-theory"
 ---
 

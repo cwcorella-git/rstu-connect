@@ -1,5 +1,5 @@
 ---
-title: "**Himeyuri students**"
+title: "Himeyuri students"
 category: "youth-student-organizing"
 ---
 

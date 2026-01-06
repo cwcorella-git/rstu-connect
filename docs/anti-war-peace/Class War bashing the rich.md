@@ -1,5 +1,5 @@
 ---
-title: "## **Class War "bashing the rich"**"
+title: "Class War \"bashing the rich\""
 category: "anti-war-peace"
 ---
 

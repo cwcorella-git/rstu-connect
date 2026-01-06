@@ -1,5 +1,5 @@
 ---
-title: "**Low-carbon economy**"
+title: "Low-carbon economy"
 category: "environmental-justice"
 ---
 

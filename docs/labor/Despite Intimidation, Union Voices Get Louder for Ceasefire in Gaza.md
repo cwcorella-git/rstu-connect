@@ -1,5 +1,5 @@
 ---
-title: "## **Despite Intimidation, Union Voices Get Louder for Ceasefire in Gaza**"
+title: "Despite Intimidation, Union Voices Get Louder for Ceasefire in Gaza"
 category: "labor"
 ---
 

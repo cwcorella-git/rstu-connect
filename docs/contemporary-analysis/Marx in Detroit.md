@@ -1,5 +1,5 @@
 ---
-title: "## **Marx in Detroit**"
+title: "Marx in Detroit"
 category: "contemporary-analysis"
 ---
 

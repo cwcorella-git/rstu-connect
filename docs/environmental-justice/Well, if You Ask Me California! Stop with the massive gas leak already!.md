@@ -1,5 +1,5 @@
 ---
-title: "## **Well, if You Ask Me: California! Stop with the massive gas leak already!**"
+title: "Well, if You Ask Me: California! Stop with the massive gas leak already!"
 category: "environmental-justice"
 ---
 

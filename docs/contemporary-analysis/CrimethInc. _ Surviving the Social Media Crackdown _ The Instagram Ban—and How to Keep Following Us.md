@@ -1,5 +1,5 @@
 ---
-title: "**Surviving the Social Media Crackdown**"
+title: "Surviving the Social Media Crackdown"
 category: "contemporary-analysis"
 ---
 

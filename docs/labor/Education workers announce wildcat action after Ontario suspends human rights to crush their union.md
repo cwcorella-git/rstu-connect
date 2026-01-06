@@ -1,5 +1,5 @@
 ---
-title: "## **Education workers announce wildcat action after Ontario suspends human rights to crush their un"
+title: "Education workers announce wildcat action after Ontario suspends human rights to crush their un"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Anti-War Direct Action in Ukraine. What's New Since Winter?**"
+title: "Anti-War Direct Action in Ukraine. What's New Since Winter?"
 category: "technology-digital-justice"
 ---
 

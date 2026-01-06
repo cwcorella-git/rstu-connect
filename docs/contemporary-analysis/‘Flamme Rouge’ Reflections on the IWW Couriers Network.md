@@ -1,5 +1,5 @@
 ---
-title: "## **'Flamme Rouge': Reflections on the IWW Couriers Network**"
+title: "'Flamme Rouge': Reflections on the IWW Couriers Network"
 category: "contemporary-analysis"
 ---
 

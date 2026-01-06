@@ -1,5 +1,5 @@
 ---
-title: "**Five Houses - Dora Schemme and Barbara Rosenberg**"
+title: "Five Houses - Dora Schemme and Barbara Rosenberg"
 category: "contemporary-analysis"
 ---
 

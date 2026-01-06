@@ -1,5 +1,5 @@
 ---
-title: "## **November 15: Class war, memory war! - Proletarios Revolucionarios**"
+title: "November 15: Class war, memory war! - Proletarios Revolucionarios"
 category: "anti-war-peace"
 ---
 

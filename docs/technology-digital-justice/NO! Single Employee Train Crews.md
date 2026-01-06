@@ -1,5 +1,5 @@
 ---
-title: "## **NO! Single Employee Train Crews**"
+title: "NO! Single Employee Train Crews"
 category: "technology-digital-justice"
 ---
 

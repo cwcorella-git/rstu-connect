@@ -1,5 +1,5 @@
 ---
-title: "## **Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune**"
+title: "Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune"
 category: "contemporary-analysis"
 ---
 

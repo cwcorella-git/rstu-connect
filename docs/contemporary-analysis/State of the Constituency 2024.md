@@ -1,5 +1,5 @@
 ---
-title: "## **State of the Constituency 2024**"
+title: "State of the Constituency 2024"
 category: "contemporary-analysis"
 ---
 

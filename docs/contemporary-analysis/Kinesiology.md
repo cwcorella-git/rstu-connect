@@ -1,5 +1,5 @@
 ---
-title: "**Kinesiology**"
+title: "Kinesiology"
 category: "contemporary-analysis"
 ---
 

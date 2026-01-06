@@ -1,5 +1,5 @@
 ---
-title: "## **A Right Result**"
+title: "A Right Result"
 category: "contemporary-analysis"
 ---
 

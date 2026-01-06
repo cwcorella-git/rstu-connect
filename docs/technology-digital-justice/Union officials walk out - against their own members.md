@@ -1,5 +1,5 @@
 ---
-title: "## **Union officials walk out - against their own members**"
+title: "Union officials walk out - against their own members"
 category: "technology-digital-justice"
 ---
 

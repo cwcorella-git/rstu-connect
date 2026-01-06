@@ -1,5 +1,5 @@
 ---
-title: "**Breakwater (structure)**"
+title: "Breakwater (structure)"
 category: "environmental-justice"
 ---
 

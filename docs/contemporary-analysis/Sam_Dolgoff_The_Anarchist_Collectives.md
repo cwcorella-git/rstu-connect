@@ -1,5 +1,5 @@
 ---
-title: "**EANARCHIST COLLECTIVES**"
+title: "EANARCHIST COLLECTIVES"
 category: "contemporary-analysis"
 ---
 

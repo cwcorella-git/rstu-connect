@@ -1,5 +1,5 @@
 ---
-title: "**20 Flaws with the Core Objective Functions**"
+title: "20 Flaws with the Core Objective Functions"
 category: "contemporary-analysis"
 ---
 

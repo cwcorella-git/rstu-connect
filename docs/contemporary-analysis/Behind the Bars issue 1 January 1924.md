@@ -1,5 +1,5 @@
 ---
-title: "## **Behind the Bars issue 1 January 1924**"
+title: "Behind the Bars issue 1 January 1924"
 category: "contemporary-analysis"
 ---
 

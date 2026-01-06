@@ -1,5 +1,5 @@
 ---
-title: "## **Introduction to Anarchism**"
+title: "Introduction to Anarchism"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Horst Stowasser**"
+title: "Horst Stowasser"
 category: "contemporary-analysis"
 ---
 

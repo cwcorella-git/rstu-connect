@@ -1,5 +1,5 @@
 ---
-title: "**The Delivery of Newgate 6 June 1780**"
+title: "The Delivery of Newgate 6 June 1780"
 category: "contemporary-analysis"
 ---
 

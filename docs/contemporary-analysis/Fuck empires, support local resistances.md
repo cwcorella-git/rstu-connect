@@ -1,5 +1,5 @@
 ---
-title: "## **Fuck empires, support local resistances.**"
+title: "Fuck empires, support local resistances."
 category: "contemporary-analysis"
 ---
 

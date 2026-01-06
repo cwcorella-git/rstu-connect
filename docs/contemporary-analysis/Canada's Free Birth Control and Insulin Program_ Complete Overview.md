@@ -1,5 +1,5 @@
 ---
-title: "**Canada's Free Birth Control and Insulin Program: Complete Overview**"
+title: "Canada's Free Birth Control and Insulin Program: Complete Overview"
 category: "contemporary-analysis"
 ---
 

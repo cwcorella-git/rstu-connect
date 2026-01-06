@@ -1,5 +1,5 @@
 ---
-title: "## **Sending Fascists Packing is An Act of Community Self-Defense**"
+title: "Sending Fascists Packing is An Act of Community Self-Defense"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Detainment is Death in the Pandemic!**"
+title: "Detainment is Death in the Pandemic!"
 category: "technology-digital-justice"
 ---
 

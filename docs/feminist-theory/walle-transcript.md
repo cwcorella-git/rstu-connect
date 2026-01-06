@@ -1,5 +1,5 @@
 ---
-title: "**EXT. AVENUE OF TRASH**"
+title: "EXT. AVENUE OF TRASH"
 category: "feminist-theory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Final Straw: Autonomous Northern California Fire Relief Efforts**"
+title: "Final Straw: Autonomous Northern California Fire Relief Efforts"
 category: "contemporary-analysis"
 ---
 

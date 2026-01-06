@@ -1,5 +1,5 @@
 ---
-title: "**Ranked-choice voting in the United States**"
+title: "Ranked-choice voting in the United States"
 category: "contemporary-analysis"
 ---
 

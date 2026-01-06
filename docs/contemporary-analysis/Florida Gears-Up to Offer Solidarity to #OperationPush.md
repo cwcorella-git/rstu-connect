@@ -1,5 +1,5 @@
 ---
-title: "## **Florida Gears-Up to Offer Solidarity to #Operation Push**"
+title: "Florida Gears-Up to Offer Solidarity to #Operation Push"
 category: "contemporary-analysis"
 ---
 

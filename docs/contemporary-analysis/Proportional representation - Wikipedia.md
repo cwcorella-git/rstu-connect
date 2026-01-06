@@ -1,5 +1,5 @@
 ---
-title: "**Proportional representation**"
+title: "Proportional representation"
 category: "contemporary-analysis"
 ---
 

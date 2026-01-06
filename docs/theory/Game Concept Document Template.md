@@ -1,5 +1,5 @@
 ---
-title: "**Game Design Concept and Pitch Template**"
+title: "Game Design Concept and Pitch Template"
 category: "theory"
 ---
 

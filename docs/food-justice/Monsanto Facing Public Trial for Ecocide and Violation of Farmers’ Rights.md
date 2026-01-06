@@ -1,5 +1,5 @@
 ---
-title: "## **Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights**"
+title: "Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights"
 category: "food-justice"
 ---
 

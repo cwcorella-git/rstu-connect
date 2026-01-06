@@ -1,5 +1,5 @@
 ---
-title: "**The unforgettable life of prison rebel Martin Sostre - William C Anderson**"
+title: "The unforgettable life of prison rebel Martin Sostre - William C Anderson"
 category: "abolition"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Standpoint theory**"
+title: "Standpoint theory"
 category: "contemporary-analysis"
 ---
 

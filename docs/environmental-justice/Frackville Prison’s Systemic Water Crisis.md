@@ -1,5 +1,5 @@
 ---
-title: "## **Frackville Prison's Systemic Water Crisis**"
+title: "Frackville Prison's Systemic Water Crisis"
 category: "environmental-justice"
 ---
 

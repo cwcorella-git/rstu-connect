@@ -1,5 +1,5 @@
 ---
-title: "## **Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak**"
+title: "Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censo"
+title: "Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censo"
 category: "arts-culture-music"
 ---
 

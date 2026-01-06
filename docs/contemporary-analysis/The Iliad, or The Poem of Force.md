@@ -1,5 +1,5 @@
 ---
-title: "## **Simone Weil**"
+title: "Simone Weil"
 category: "contemporary-analysis"
 ---
 

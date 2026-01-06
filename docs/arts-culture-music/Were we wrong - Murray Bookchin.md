@@ -1,5 +1,5 @@
 ---
-title: "## **Were we wrong? - Murray Bookchin**"
+title: "Were we wrong? - Murray Bookchin"
 category: "arts-culture-music"
 ---
 

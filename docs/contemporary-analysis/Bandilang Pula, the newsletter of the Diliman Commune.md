@@ -1,5 +1,5 @@
 ---
-title: "## **Bandilang Pula, the newsletter of the Diliman Commune**"
+title: "Bandilang Pula, the newsletter of the Diliman Commune"
 category: "contemporary-analysis"
 ---
 

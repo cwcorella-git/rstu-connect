@@ -1,5 +1,5 @@
 ---
-title: "## **The Next Revolution: Popular Assemblies and the Promise of Direct Democracy**"
+title: "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy"
 category: "contemporary-analysis"
 ---
 

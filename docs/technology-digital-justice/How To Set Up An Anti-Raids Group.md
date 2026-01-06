@@ -1,5 +1,5 @@
 ---
-title: "## **How To Set Up An Anti-Raids Group**"
+title: "How To Set Up An Anti-Raids Group"
 category: "technology-digital-justice"
 ---
 

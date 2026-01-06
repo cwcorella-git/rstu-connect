@@ -1,5 +1,5 @@
 ---
-title: "**Ranked voting**"
+title: "Ranked voting"
 category: "contemporary-analysis"
 ---
 

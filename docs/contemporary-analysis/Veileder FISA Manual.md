@@ -1,5 +1,5 @@
 ---
-title: "**FISA Manual**"
+title: "FISA Manual"
 category: "contemporary-analysis"
 ---
 

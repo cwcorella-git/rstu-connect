@@ -1,5 +1,5 @@
 ---
-title: "## **Teleseminar Transcript: "Just Transition" with Mateo Nube of Movement Generation**"
+title: "Teleseminar Transcript: \"Just Transition\" with Mateo Nube of Movement Generation"
 category: "organizing"
 ---
 

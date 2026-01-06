@@ -1,5 +1,5 @@
 ---
-title: "## **Green Syndicalism in the Arctic**"
+title: "Green Syndicalism in the Arctic"
 category: "environmental-justice"
 ---
 

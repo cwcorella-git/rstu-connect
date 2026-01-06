@@ -1,5 +1,5 @@
 ---
-title: "## **Marius Mason calls for an International Day of Trans Prisoner Support on January 22nd**"
+title: "Marius Mason calls for an International Day of Trans Prisoner Support on January 22nd"
 category: "labor"
 ---
 

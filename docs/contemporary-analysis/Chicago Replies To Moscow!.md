@@ -1,5 +1,5 @@
 ---
-title: "## **Chicago Replies To Moscow!**"
+title: "Chicago Replies To Moscow!"
 category: "contemporary-analysis"
 ---
 

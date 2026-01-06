@@ -1,5 +1,5 @@
 ---
-title: "## **Intersectional Identity and the Path to Progress**"
+title: "Intersectional Identity and the Path to Progress"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**BLACKSHIRTS** &"
+title: "BLACKSHIRTS &"
 category: "contemporary-analysis"
 ---
 

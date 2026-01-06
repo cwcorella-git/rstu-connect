@@ -1,5 +1,5 @@
 ---
-title: "**Chapter 04**"
+title: "Chapter 04"
 category: "contemporary-analysis"
 ---
 

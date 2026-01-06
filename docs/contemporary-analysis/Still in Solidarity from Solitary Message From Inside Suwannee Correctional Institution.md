@@ -1,5 +1,5 @@
 ---
-title: "## **Still in Solidarity from Solitary: Message From Inside Suwannee Correctional Institution**"
+title: "Still in Solidarity from Solitary: Message From Inside Suwannee Correctional Institution"
 category: "contemporary-analysis"
 ---
 

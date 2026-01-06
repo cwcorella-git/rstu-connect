@@ -1,5 +1,5 @@
 ---
-title: "**Abraham Lincoln Speech in Chicago, Illinois on July 10th, 1858**"
+title: "Abraham Lincoln Speech in Chicago, Illinois on July 10th, 1858"
 category: "theory"
 ---
 

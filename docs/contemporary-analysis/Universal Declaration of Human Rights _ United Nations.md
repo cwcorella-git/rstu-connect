@@ -1,5 +1,5 @@
 ---
-title: "**Universal Declaration of Human Rights | United Nations**"
+title: "Universal Declaration of Human Rights | United Nations"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Manifest destiny**"
+title: "Manifest destiny"
 category: "contemporary-analysis"
 ---
 

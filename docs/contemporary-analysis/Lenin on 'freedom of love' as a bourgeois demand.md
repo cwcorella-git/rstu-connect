@@ -1,5 +1,5 @@
 ---
-title: "## **Lenin on 'freedom of love' as a bourgeois demand**"
+title: "Lenin on 'freedom of love' as a bourgeois demand"
 category: "contemporary-analysis"
 ---
 

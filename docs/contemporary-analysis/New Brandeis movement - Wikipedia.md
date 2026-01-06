@@ -1,5 +1,5 @@
 ---
-title: "**New Brandeis movement**"
+title: "New Brandeis movement"
 category: "contemporary-analysis"
 ---
 

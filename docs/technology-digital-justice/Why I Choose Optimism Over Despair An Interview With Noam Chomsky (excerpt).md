@@ -1,5 +1,5 @@
 ---
-title: "## **Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)**"
+title: "Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)"
 category: "technology-digital-justice"
 ---
 

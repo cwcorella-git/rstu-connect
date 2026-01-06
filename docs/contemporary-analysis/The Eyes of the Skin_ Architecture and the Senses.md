@@ -1,5 +1,5 @@
 ---
-title: "**PALLASMAA** THE SENSES"
+title: "PALLASMAA THE SENSES"
 category: "contemporary-analysis"
 ---
 

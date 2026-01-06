@@ -1,5 +1,5 @@
 ---
-title: "## **Ten Years Since the Financial Crash: What Price Education?**"
+title: "Ten Years Since the Financial Crash: What Price Education?"
 category: "youth-student-organizing"
 ---
 

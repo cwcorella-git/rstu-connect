@@ -1,5 +1,5 @@
 ---
-title: "## **Rank-and-File Union Members Join Standing Rock Camp, As Crackdown on Opponents of Pipeline Esca"
+title: "Rank-and-File Union Members Join Standing Rock Camp, As Crackdown on Opponents of Pipeline Esca"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**1**"
+title: "Folk Devils and Moral Panics  The creation of the Mods and Rockers   stanley cohen folk devils and moral panics"
 category: "contemporary-analysis"
 ---
 

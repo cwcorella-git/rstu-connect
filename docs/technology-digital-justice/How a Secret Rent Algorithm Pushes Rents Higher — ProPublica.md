@@ -1,5 +1,5 @@
 ---
-title: "**Rent Going Up? One Company's Algorithm Could Be Why.**"
+title: "Rent Going Up? One Company's Algorithm Could Be Why."
 category: "technology-digital-justice"
 ---
 

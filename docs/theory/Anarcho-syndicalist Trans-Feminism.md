@@ -1,5 +1,5 @@
 ---
-title: "**Anarcho-syndicalist Trans-Feminism**"
+title: "Anarcho-syndicalist Trans-Feminism"
 category: "theory"
 ---
 

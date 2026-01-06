@@ -1,5 +1,5 @@
 ---
-title: "**Fighting for Our Lives**"
+title: "Fighting for Our Lives"
 category: "contemporary-analysis"
 ---
 

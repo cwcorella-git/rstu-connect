@@ -1,5 +1,5 @@
 ---
-title: "**NHJA NEW Protections for Tenants!**"
+title: "NHJA NEW Protections for Tenants!"
 category: "contemporary-analysis"
 ---
 

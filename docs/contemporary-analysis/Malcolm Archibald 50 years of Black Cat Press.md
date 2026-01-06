@@ -1,5 +1,5 @@
 ---
-title: "## **Malcolm Archibald: 50 years of Black Cat Press**"
+title: "Malcolm Archibald: 50 years of Black Cat Press"
 category: "contemporary-analysis"
 ---
 

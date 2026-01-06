@@ -1,5 +1,5 @@
 ---
-title: "**Webb Miller (journalist)**"
+title: "Webb Miller (journalist)"
 category: "contemporary-analysis"
 ---
 

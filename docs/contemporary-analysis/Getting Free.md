@@ -1,5 +1,5 @@
 ---
-title: "**Getting Free**"
+title: "Getting Free"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **2005: Tonga Public Servants General Strike**"
+title: "2005: Tonga Public Servants General Strike"
 category: "labor"
 ---
 

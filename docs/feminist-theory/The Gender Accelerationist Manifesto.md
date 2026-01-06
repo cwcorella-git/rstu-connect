@@ -1,5 +1,5 @@
 ---
-title: "**Vikky Storm and Eme Flores**"
+title: "Vikky Storm and Eme Flores"
 category: "feminist-theory"
 ---
 

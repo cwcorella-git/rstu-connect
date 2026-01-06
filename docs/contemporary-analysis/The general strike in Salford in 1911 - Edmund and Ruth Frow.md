@@ -1,5 +1,5 @@
 ---
-title: "## **The general strike in Salford in 1911 - Edmund and Ruth Frow**"
+title: "The general strike in Salford in 1911 - Edmund and Ruth Frow"
 category: "contemporary-analysis"
 ---
 

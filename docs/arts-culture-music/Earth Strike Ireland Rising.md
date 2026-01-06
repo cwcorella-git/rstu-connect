@@ -1,5 +1,5 @@
 ---
-title: "## **Earth Strike Ireland Rising**"
+title: "Earth Strike Ireland Rising"
 category: "arts-culture-music"
 ---
 

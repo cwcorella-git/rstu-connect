@@ -1,5 +1,5 @@
 ---
-title: "## **The Bernie Sanders Paradox: When Socialism Grows Old**"
+title: "The Bernie Sanders Paradox: When Socialism Grows Old"
 category: "contemporary-analysis"
 ---
 

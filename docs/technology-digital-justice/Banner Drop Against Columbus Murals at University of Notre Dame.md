@@ -1,5 +1,5 @@
 ---
-title: "## **Banner Drop Against Columbus Murals at University of Notre Dame**"
+title: "Banner Drop Against Columbus Murals at University of Notre Dame"
 category: "technology-digital-justice"
 ---
 

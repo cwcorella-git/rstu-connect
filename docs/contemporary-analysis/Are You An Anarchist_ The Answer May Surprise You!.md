@@ -1,5 +1,5 @@
 ---
-title: "**David Graeber**"
+title: "David Graeber"
 category: "contemporary-analysis"
 ---
 

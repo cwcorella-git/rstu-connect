@@ -1,5 +1,5 @@
 ---
-title: "**Secular Buddhism**"
+title: "Secular Buddhism"
 category: "contemporary-analysis"
 ---
 

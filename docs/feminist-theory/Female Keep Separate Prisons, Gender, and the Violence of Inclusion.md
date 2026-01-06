@@ -1,5 +1,5 @@
 ---
-title: "**Female Keep Separate: Prisons, Gender, and the Violence of Inclusion**"
+title: "Female Keep Separate: Prisons, Gender, and the Violence of Inclusion"
 category: "feminist-theory"
 ---
 

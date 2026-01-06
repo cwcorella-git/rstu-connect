@@ -1,5 +1,5 @@
 ---
-title: "## **SEIU 1021 Resolution in support of Climate Justice Work**"
+title: "SEIU 1021 Resolution in support of Climate Justice Work"
 category: "environmental-justice"
 ---
 

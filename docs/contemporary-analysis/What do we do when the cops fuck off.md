@@ -1,5 +1,5 @@
 ---
-title: "**What do we do when the cops fuck off?**"
+title: "What do we do when the cops fuck off?"
 category: "contemporary-analysis"
 ---
 

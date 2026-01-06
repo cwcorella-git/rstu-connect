@@ -1,5 +1,5 @@
 ---
-title: "## **Education vs the working class - Martin Small**"
+title: "Education vs the working class - Martin Small"
 category: "labor"
 ---
 

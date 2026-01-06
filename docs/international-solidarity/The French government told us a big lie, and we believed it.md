@@ -1,5 +1,5 @@
 ---
-title: "## **The French government told us a big lie, and we believed it**"
+title: "The French government told us a big lie, and we believed it"
 category: "international-solidarity"
 ---
 

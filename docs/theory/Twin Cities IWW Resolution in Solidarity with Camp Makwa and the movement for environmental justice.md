@@ -1,5 +1,5 @@
 ---
-title: "## **Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for environmental jus"
+title: "Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for environmental jus"
 category: "theory"
 ---
 

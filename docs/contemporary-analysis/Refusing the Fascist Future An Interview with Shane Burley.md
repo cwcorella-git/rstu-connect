@@ -1,5 +1,5 @@
 ---
-title: "## **Refusing the Fascist Future: An Interview with Shane Burley**"
+title: "Refusing the Fascist Future: An Interview with Shane Burley"
 category: "contemporary-analysis"
 ---
 

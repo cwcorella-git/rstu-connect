@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity is the new I love you**"
+title: "Solidarity is the new I love you"
 category: "contemporary-analysis"
 ---
 

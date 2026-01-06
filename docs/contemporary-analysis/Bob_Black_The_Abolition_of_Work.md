@@ -1,5 +1,5 @@
 ---
-title: "**The Abolition of Work**"
+title: "The Abolition of Work"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: ""Beautiful mornin', you're the sun in my mornin' You're the help I know" 0:05"
+title: "\"Beautiful mornin', you're the sun in my mornin' You're the help I know\" 0:05"
 category: "theory"
 ---
 

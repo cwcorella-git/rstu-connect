@@ -1,5 +1,5 @@
 ---
-title: "**Agrivoltaics**"
+title: "Agrivoltaics"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Writing Dialogue And Character Voice With Jeff Elkins**"
+title: "Writing Dialogue And Character Voice With Jeff Elkins"
 category: "contemporary-analysis"
 ---
 

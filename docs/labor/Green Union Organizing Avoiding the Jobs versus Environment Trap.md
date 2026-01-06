@@ -1,5 +1,5 @@
 ---
-title: "**Green Union Organizing: Avoiding the "Jobs versus Environment" Trap**"
+title: "Green Union Organizing: Avoiding the \"Jobs versus Environment\" Trap"
 category: "labor"
 ---
 

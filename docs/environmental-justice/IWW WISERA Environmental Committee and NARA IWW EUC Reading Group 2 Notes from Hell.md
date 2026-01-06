@@ -1,5 +1,5 @@
 ---
-title: "## **IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 2: Notes from Hell**"
+title: "IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 2: Notes from Hell"
 category: "environmental-justice"
 ---
 

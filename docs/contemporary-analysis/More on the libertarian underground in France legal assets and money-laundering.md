@@ -1,5 +1,5 @@
 ---
-title: "## **More on the libertarian underground in France: legal assets and money-laundering**"
+title: "More on the libertarian underground in France: legal assets and money-laundering"
 category: "contemporary-analysis"
 ---
 

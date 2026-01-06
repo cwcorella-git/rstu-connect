@@ -1,5 +1,5 @@
 ---
-title: "## **Civil disobedience is the only way left to fight climate change**"
+title: "Civil disobedience is the only way left to fight climate change"
 category: "environmental-justice"
 ---
 

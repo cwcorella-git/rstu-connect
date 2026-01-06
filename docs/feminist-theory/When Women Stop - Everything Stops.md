@@ -1,5 +1,5 @@
 ---
-title: "## **When Women Stop - Everything Stops**"
+title: "When Women Stop - Everything Stops"
 category: "feminist-theory"
 ---
 

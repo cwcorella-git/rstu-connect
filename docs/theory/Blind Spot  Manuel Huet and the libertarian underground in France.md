@@ -1,5 +1,5 @@
 ---
-title: "## **Blind Spot : Manuel Huet and the libertarian underground in France**"
+title: "Blind Spot : Manuel Huet and the libertarian underground in France"
 category: "theory"
 ---
 

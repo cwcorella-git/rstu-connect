@@ -1,5 +1,5 @@
 ---
-title: "**Instant-runoff voting**"
+title: "Instant-runoff voting"
 category: "contemporary-analysis"
 ---
 

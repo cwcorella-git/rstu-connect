@@ -1,5 +1,5 @@
 ---
-title: "**POEMS**"
+title: "POEMS"
 category: "feminist-theory"
 ---
 

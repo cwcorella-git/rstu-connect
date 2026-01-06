@@ -1,5 +1,5 @@
 ---
-title: "## **1947: Mombasa General Strike**"
+title: "1947: Mombasa General Strike"
 category: "labor"
 ---
 

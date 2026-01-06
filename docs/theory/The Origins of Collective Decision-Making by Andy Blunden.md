@@ -1,5 +1,5 @@
 ---
-title: "## **The Origins of Collective Decision-Making by Andy Blunden**"
+title: "The Origins of Collective Decision-Making by Andy Blunden"
 category: "theory"
 ---
 

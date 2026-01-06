@@ -1,5 +1,5 @@
 ---
-title: "## **Green Syndicalist Basics: Ecological Struggle is Class Struggle - Jeff Shantz**"
+title: "Green Syndicalist Basics: Ecological Struggle is Class Struggle - Jeff Shantz"
 category: "environmental-justice"
 ---
 

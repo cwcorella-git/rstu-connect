@@ -1,5 +1,5 @@
 ---
-title: "## **Draft Resolution - Stop Line 3**"
+title: "Draft Resolution - Stop Line 3"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **1991: Mali General Strike**"
+title: "1991: Mali General Strike"
 category: "labor"
 ---
 

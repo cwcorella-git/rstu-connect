@@ -1,5 +1,5 @@
 ---
-title: "**The paradox of tolerance: do we have to tolerate intolerant?**"
+title: "The paradox of tolerance: do we have to tolerate intolerant?"
 category: "contemporary-analysis"
 ---
 

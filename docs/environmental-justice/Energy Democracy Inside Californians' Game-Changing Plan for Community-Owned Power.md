@@ -1,5 +1,5 @@
 ---
-title: "## **Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power**"
+title: "Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power"
 category: "environmental-justice"
 ---
 

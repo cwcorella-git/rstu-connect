@@ -1,5 +1,5 @@
 ---
-title: "**Episode 42: Intelligence Rationality And Wisdom/**"
+title: "Episode 42: Intelligence Rationality And Wisdom/"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Arts and Crafts movement**"
+title: "Arts and Crafts movement"
 category: "arts-culture-music"
 ---
 

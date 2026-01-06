@@ -1,5 +1,5 @@
 ---
-title: "## **Kevin Carson**"
+title: "Kevin Carson"
 category: "arts-culture-music"
 ---
 

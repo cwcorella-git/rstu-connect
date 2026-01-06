@@ -1,5 +1,5 @@
 ---
-title: "**Dutch East India Company**"
+title: "Dutch East India Company"
 category: "contemporary-analysis"
 ---
 

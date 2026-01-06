@@ -1,5 +1,5 @@
 ---
-title: "## **Workers at Curbside Recycling Win Raise, Paid Time Off**"
+title: "Workers at Curbside Recycling Win Raise, Paid Time Off"
 category: "technology-digital-justice"
 ---
 

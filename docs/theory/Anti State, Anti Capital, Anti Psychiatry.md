@@ -1,5 +1,5 @@
 ---
-title: "**Anti State, Anti Capital, Anti Psychiatry**"
+title: "Anti State, Anti Capital, Anti Psychiatry"
 category: "theory"
 ---
 

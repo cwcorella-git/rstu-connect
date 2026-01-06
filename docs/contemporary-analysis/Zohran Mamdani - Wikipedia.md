@@ -1,5 +1,5 @@
 ---
-title: "**Zohran Mamdani**"
+title: "Zohran Mamdani"
 category: "contemporary-analysis"
 ---
 

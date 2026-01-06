@@ -1,5 +1,5 @@
 ---
-title: "## **Southall Black Sisters interview - Black Flag**"
+title: "Southall Black Sisters interview - Black Flag"
 category: "contemporary-analysis"
 ---
 

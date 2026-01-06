@@ -1,5 +1,5 @@
 ---
-title: "## **Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution Pipeline**"
+title: "Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution Pipeline"
 category: "environmental-justice"
 ---
 

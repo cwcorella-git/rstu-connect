@@ -1,5 +1,5 @@
 ---
-title: "## **The Campaign to Fight Toxic Prisons goes International!**"
+title: "The Campaign to Fight Toxic Prisons goes International!"
 category: "technology-digital-justice"
 ---
 

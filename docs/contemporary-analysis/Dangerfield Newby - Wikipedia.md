@@ -1,5 +1,5 @@
 ---
-title: "**Dangerfield Newby**"
+title: "Dangerfield Newby"
 category: "contemporary-analysis"
 ---
 

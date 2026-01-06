@@ -1,5 +1,5 @@
 ---
-title: "**Broad Overview:**"
+title: "Broad Overview:"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **An afterthought: 'extra-parliamentary electoralism'**"
+title: "An afterthought: 'extra-parliamentary electoralism'"
 category: "contemporary-analysis"
 ---
 

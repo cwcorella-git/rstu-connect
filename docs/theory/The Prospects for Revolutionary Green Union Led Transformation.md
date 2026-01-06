@@ -1,5 +1,5 @@
 ---
-title: "## **The Prospects for Revolutionary Green Union Led Transformation**"
+title: "The Prospects for Revolutionary Green Union Led Transformation"
 category: "theory"
 ---
 

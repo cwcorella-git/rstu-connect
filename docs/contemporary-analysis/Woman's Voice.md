@@ -1,5 +1,5 @@
 ---
-title: "## **Woman's Voice**"
+title: "Woman's Voice"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Blake Escape: book reviews**"
+title: "Blake Escape: book reviews"
 category: "arts-culture-music"
 ---
 

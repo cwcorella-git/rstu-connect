@@ -1,5 +1,5 @@
 ---
-title: "**Shira Gutmann**"
+title: "Shira Gutmann"
 category: "contemporary-analysis"
 ---
 

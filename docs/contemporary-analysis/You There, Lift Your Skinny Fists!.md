@@ -1,5 +1,5 @@
 ---
-title: "## **You There, Lift Your Skinny Fists!**"
+title: "You There, Lift Your Skinny Fists!"
 category: "contemporary-analysis"
 ---
 

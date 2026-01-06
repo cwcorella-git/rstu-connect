@@ -1,5 +1,5 @@
 ---
-title: "## **Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks**"
+title: "Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks"
 category: "youth-student-organizing"
 ---
 

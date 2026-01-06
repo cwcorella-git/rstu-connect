@@ -1,5 +1,5 @@
 ---
-title: "## **The Seattle general strike, 1919 - Jeremy Brecher**"
+title: "The Seattle general strike, 1919 - Jeremy Brecher"
 category: "contemporary-analysis"
 ---
 

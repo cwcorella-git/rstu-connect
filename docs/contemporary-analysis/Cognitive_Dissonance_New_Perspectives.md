@@ -1,5 +1,5 @@
 ---
-title: "**New perspectives on cognitive dissonance theory**"
+title: "New perspectives on cognitive dissonance theory"
 category: "contemporary-analysis"
 ---
 

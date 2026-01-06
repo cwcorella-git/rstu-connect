@@ -1,5 +1,5 @@
 ---
-title: "## **Activists Demand Independent Investigation After Cops Kill Protester in Atlanta**"
+title: "Activists Demand Independent Investigation After Cops Kill Protester in Atlanta"
 category: "abolition"
 ---
 

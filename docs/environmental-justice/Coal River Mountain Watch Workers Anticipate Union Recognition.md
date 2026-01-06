@@ -1,5 +1,5 @@
 ---
-title: "## **Coal River Mountain Watch Workers Anticipate Union Recognition**"
+title: "Coal River Mountain Watch Workers Anticipate Union Recognition"
 category: "environmental-justice"
 ---
 

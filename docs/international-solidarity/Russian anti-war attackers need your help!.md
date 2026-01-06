@@ -1,5 +1,5 @@
 ---
-title: "## **Russian anti-war attackers need your help!**"
+title: "Russian anti-war attackers need your help!"
 category: "international-solidarity"
 ---
 

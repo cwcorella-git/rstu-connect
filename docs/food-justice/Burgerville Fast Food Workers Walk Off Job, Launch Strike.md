@@ -1,5 +1,5 @@
 ---
-title: "## **Burgerville Fast Food Workers Walk Off Job, Launch Strike**"
+title: "Burgerville Fast Food Workers Walk Off Job, Launch Strike"
 category: "food-justice"
 ---
 

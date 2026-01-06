@@ -1,5 +1,5 @@
 ---
-title: "**Cognitive dissonance**"
+title: "Cognitive dissonance"
 category: "contemporary-analysis"
 ---
 

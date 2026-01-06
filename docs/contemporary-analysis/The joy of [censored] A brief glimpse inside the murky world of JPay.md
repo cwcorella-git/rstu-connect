@@ -1,5 +1,5 @@
 ---
-title: "## **The joy of [censored]: A brief glimpse inside the murky world of JPay**"
+title: "The joy of [censored]: A brief glimpse inside the murky world of JPay"
 category: "contemporary-analysis"
 ---
 

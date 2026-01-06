@@ -1,5 +1,5 @@
 ---
-title: "## **Listen, Marxist! - Murray Bookchin**"
+title: "Listen, Marxist! - Murray Bookchin"
 category: "theory"
 ---
 

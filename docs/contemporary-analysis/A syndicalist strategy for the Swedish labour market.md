@@ -1,5 +1,5 @@
 ---
-title: "## **A syndicalist strategy for the Swedish labour market**"
+title: "A syndicalist strategy for the Swedish labour market"
 category: "contemporary-analysis"
 ---
 

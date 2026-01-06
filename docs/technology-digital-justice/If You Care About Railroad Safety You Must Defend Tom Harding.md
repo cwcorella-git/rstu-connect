@@ -1,5 +1,5 @@
 ---
-title: "## **If You Care About Railroad Safety You Must Defend Tom Harding**"
+title: "If You Care About Railroad Safety You Must Defend Tom Harding"
 category: "technology-digital-justice"
 ---
 

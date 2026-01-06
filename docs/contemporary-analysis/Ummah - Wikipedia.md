@@ -1,5 +1,5 @@
 ---
-title: "**Ummah**"
+title: "Ummah"
 category: "contemporary-analysis"
 ---
 

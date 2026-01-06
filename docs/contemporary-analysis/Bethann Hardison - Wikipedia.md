@@ -1,5 +1,5 @@
 ---
-title: "**Bethann Hardison**"
+title: "Bethann Hardison"
 category: "contemporary-analysis"
 ---
 

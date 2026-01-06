@@ -1,5 +1,5 @@
 ---
-title: "## **Ismatu Gwendolyn: Class Traitor**"
+title: "Ismatu Gwendolyn: Class Traitor"
 category: "technology-digital-justice"
 ---
 

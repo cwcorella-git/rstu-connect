@@ -1,5 +1,5 @@
 ---
-title: "**Should we tolerate the intolerant? Karl Popper's paradox**"
+title: "Should we tolerate the intolerant? Karl Popper's paradox"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 1: Judi Bari, "Revolutionary "
+title: "IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 1: Judi Bari, \"Revolutionary"
 category: "environmental-justice"
 ---
 

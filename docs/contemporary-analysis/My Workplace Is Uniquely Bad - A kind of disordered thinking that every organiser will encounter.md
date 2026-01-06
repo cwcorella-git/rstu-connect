@@ -1,5 +1,5 @@
 ---
-title: "## **"My Workplace Is Uniquely Bad" - A kind of disordered thinking that every organiser will encoun"
+title: "\"My Workplace Is Uniquely Bad\" - A kind of disordered thinking that every organiser will encoun"
 category: "contemporary-analysis"
 ---
 

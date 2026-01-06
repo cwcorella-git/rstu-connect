@@ -1,5 +1,5 @@
 ---
-title: "## **A 79 year old woman who bowls: an interview with Diva Agostinelli, anarchist**"
+title: "A 79 year old woman who bowls: an interview with Diva Agostinelli, anarchist"
 category: "contemporary-analysis"
 ---
 

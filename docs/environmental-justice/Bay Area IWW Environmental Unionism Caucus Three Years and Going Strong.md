@@ -1,5 +1,5 @@
 ---
-title: "## **Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong**"
+title: "Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong"
 category: "environmental-justice"
 ---
 

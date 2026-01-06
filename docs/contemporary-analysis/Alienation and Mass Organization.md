@@ -1,5 +1,5 @@
 ---
-title: "## **Alienation and Mass Organization**"
+title: "Alienation and Mass Organization"
 category: "contemporary-analysis"
 ---
 

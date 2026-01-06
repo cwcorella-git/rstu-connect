@@ -1,5 +1,5 @@
 ---
-title: "**Criticism of the Quran**"
+title: "Criticism of the Quran"
 category: "contemporary-analysis"
 ---
 

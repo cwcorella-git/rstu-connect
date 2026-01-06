@@ -1,5 +1,5 @@
 ---
-title: "**Ferrer movement**"
+title: "Ferrer movement"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Earthworkers Unite!**"
+title: "Earthworkers Unite!"
 category: "arts-culture-music"
 ---
 

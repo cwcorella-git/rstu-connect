@@ -1,5 +1,5 @@
 ---
-title: "**Episode 20: Death Of The Universe/**"
+title: "Episode 20: Death Of The Universe/"
 category: "contemporary-analysis"
 ---
 

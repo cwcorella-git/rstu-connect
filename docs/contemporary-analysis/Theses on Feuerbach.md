@@ -1,5 +1,5 @@
 ---
-title: "## **Theses On Feuerbach**"
+title: "Theses On Feuerbach"
 category: "contemporary-analysis"
 ---
 

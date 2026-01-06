@@ -1,5 +1,5 @@
 ---
-title: "**HOW GAMES MOVE US**"
+title: "HOW GAMES MOVE US"
 category: "contemporary-analysis"
 ---
 

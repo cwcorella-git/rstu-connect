@@ -1,5 +1,5 @@
 ---
-title: "**Gramsci and Geography**"
+title: "Gramsci and Geography"
 category: "contemporary-analysis"
 ---
 

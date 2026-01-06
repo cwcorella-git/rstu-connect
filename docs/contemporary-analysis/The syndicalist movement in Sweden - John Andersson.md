@@ -1,5 +1,5 @@
 ---
-title: "## **The syndicalist movement in Sweden - John Andersson**"
+title: "The syndicalist movement in Sweden - John Andersson"
 category: "contemporary-analysis"
 ---
 

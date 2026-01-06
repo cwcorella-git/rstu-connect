@@ -1,5 +1,5 @@
 ---
-title: "**IMAGINATION**"
+title: "IMAGINATION"
 category: "contemporary-analysis"
 ---
 

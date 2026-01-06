@@ -1,5 +1,5 @@
 ---
-title: "## **General Organization Bulletin**"
+title: "General Organization Bulletin"
 category: "contemporary-analysis"
 ---
 

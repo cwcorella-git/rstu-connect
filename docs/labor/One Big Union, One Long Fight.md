@@ -1,5 +1,5 @@
 ---
-title: "## **One Big Union, One Long Fight**"
+title: "One Big Union, One Long Fight"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the COVID-19 Era**"
+title: "Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the COVID-19 Era"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Den Bierbauch loswerden**"
+title: "Den Bierbauch loswerden"
 category: "contemporary-analysis"
 ---
 

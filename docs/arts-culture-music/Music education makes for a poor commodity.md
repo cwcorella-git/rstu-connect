@@ -1,5 +1,5 @@
 ---
-title: "## **Music education makes for a poor commodity**"
+title: "Music education makes for a poor commodity"
 category: "arts-culture-music"
 ---
 

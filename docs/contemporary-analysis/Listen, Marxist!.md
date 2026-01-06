@@ -1,5 +1,5 @@
 ---
-title: "**Listen, Marxist!**"
+title: "Listen, Marxist!"
 category: "contemporary-analysis"
 ---
 

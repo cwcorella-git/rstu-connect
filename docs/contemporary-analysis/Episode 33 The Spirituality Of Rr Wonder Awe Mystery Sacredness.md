@@ -1,5 +1,5 @@
 ---
-title: "**Episode 33: The Spirituality Of Rr Wonder Awe Mystery Sacredness/**"
+title: "Episode 33: The Spirituality Of Rr Wonder Awe Mystery Sacredness/"
 category: "contemporary-analysis"
 ---
 

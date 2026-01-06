@@ -1,5 +1,5 @@
 ---
-title: "The Structure of Proletarian Unfreedom\*"
+title: "The Structure of Proletarian Unfreedom*"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Bust the Myths About Collective Agreements – Notes From the Swedish Labor Market**"
+title: "Bust the Myths About Collective Agreements – Notes From the Swedish Labor Market"
 category: "contemporary-analysis"
 ---
 

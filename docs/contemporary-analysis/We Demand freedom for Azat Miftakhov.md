@@ -1,5 +1,5 @@
 ---
-title: "## **We Demand freedom for Azat Miftakhov**"
+title: "We Demand freedom for Azat Miftakhov"
 category: "contemporary-analysis"
 ---
 

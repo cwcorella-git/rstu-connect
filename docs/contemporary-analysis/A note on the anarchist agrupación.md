@@ -1,5 +1,5 @@
 ---
-title: "**A note on the anarchist agrupación**"
+title: "A note on the anarchist agrupación"
 category: "contemporary-analysis"
 ---
 

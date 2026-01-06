@@ -1,5 +1,5 @@
 ---
-title: "**'Left-Wing' Communism: An Infantile Disorder**"
+title: "'Left-Wing' Communism: An Infantile Disorder"
 category: "contemporary-analysis"
 ---
 

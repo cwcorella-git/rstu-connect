@@ -1,5 +1,5 @@
 ---
-title: "## **Public Servants or Corporate Security? An Open Letter to Law Enforcement and National Guard in "
+title: "Public Servants or Corporate Security? An Open Letter to Law Enforcement and National Guard in"
 category: "contemporary-analysis"
 ---
 

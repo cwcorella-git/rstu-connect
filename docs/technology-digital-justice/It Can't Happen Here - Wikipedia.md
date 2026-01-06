@@ -1,5 +1,5 @@
 ---
-title: "**It Can't Happen Here**"
+title: "It Can't Happen Here"
 category: "technology-digital-justice"
 ---
 

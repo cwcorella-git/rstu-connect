@@ -1,5 +1,5 @@
 ---
-title: "## **Berkeley Protest of Arrests at Standing Rock**"
+title: "Berkeley Protest of Arrests at Standing Rock"
 category: "environmental-justice"
 ---
 

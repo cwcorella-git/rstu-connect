@@ -1,5 +1,5 @@
 ---
-title: "**Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters**"
+title: "Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters"
 category: "theory"
 ---
 

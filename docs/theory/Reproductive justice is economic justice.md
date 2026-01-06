@@ -1,5 +1,5 @@
 ---
-title: "## **Reproductive justice is economic justice.**"
+title: "Reproductive justice is economic justice."
 category: "theory"
 ---
 

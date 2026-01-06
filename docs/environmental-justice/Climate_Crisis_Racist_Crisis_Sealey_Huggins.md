@@ -1,5 +1,5 @@
 ---
-title: "**Persistent WRAP URL:**"
+title: "Persistent WRAP URL:"
 category: "environmental-justice"
 ---
 

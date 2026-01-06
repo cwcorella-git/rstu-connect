@@ -1,5 +1,5 @@
 ---
-title: "## **Queering the Panthers: Rhetorical adjacency and black/queer liberation politics**"
+title: "Queering the Panthers: Rhetorical adjacency and black/queer liberation politics"
 category: "feminist-theory"
 ---
 

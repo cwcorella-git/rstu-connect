@@ -1,5 +1,5 @@
 ---
-title: "## **The 1926 general strike in Hackney**"
+title: "The 1926 general strike in Hackney"
 category: "contemporary-analysis"
 ---
 

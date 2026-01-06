@@ -1,5 +1,5 @@
 ---
-title: "## **Thousands of prisoners strike 'to end slavery' across the United States**"
+title: "Thousands of prisoners strike 'to end slavery' across the United States"
 category: "abolition"
 ---
 

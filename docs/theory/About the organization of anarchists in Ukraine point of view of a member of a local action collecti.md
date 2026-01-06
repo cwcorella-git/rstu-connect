@@ -1,5 +1,5 @@
 ---
-title: "## **About the organization of anarchists in Ukraine: point of view of a member of a local action co"
+title: "About the organization of anarchists in Ukraine: point of view of a member of a local action co"
 category: "theory"
 ---
 

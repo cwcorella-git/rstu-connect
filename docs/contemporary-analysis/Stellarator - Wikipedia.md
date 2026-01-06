@@ -1,5 +1,5 @@
 ---
-title: "**Stellarator**"
+title: "Stellarator"
 category: "contemporary-analysis"
 ---
 

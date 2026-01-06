@@ -1,5 +1,5 @@
 ---
-title: "## **Railroad Workers and Our Allies Must Unite in Support of AMTRAK**"
+title: "Railroad Workers and Our Allies Must Unite in Support of AMTRAK"
 category: "technology-digital-justice"
 ---
 

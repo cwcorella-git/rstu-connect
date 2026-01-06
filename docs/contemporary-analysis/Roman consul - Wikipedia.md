@@ -1,5 +1,5 @@
 ---
-title: "**Roman consul**"
+title: "Roman consul"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Earth Srike: Intersecting Labour and Environmental Movements**"
+title: "Earth Srike: Intersecting Labour and Environmental Movements"
 category: "environmental-justice"
 ---
 

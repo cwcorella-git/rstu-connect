@@ -1,5 +1,5 @@
 ---
-title: "**A new modern Design of four-sided Windcatcher for Natural Ventilation in Residential Building in Saudi Arabia**"
+title: "A new modern Design of four-sided Windcatcher for Natural Ventilation in Residential Building in Saudi Arabia"
 category: "contemporary-analysis"
 ---
 

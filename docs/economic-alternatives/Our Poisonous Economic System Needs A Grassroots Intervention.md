@@ -1,5 +1,5 @@
 ---
-title: "## **Our Poisonous Economic System Needs A Grassroots Intervention**"
+title: "Our Poisonous Economic System Needs A Grassroots Intervention"
 category: "economic-alternatives"
 ---
 

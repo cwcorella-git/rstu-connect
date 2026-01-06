@@ -1,5 +1,5 @@
 ---
-title: "## **Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to join #NoDAPL prote"
+title: "Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to join #NoDAPL prote"
 category: "environmental-justice"
 ---
 

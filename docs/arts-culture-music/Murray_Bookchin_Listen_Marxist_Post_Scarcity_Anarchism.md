@@ -1,5 +1,5 @@
 ---
-title: "**Post-Scarcity Anarchism**"
+title: "Post-Scarcity Anarchism"
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**"The Impact of Parasocial Relationships with AI on Mental Health" Valerie Hill and Rose Hill Commu"
+title: "\"The Impact of Parasocial Relationships with AI on Mental Health\" Valerie Hill and Rose Hill Commu"
 category: "technology-digital-justice"
 ---
 

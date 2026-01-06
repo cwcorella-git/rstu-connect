@@ -1,5 +1,5 @@
 ---
-title: "**Lyndon Baines Johnson Quotes**"
+title: "Lyndon Baines Johnson Quotes"
 category: "technology-digital-justice"
 ---
 

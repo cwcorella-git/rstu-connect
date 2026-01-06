@@ -1,5 +1,5 @@
 ---
-title: "**Deception detection: State of the art and future prospects**"
+title: "Deception detection: State of the art and future prospects"
 category: "contemporary-analysis"
 ---
 

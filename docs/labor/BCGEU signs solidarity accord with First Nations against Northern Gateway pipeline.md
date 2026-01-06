@@ -1,5 +1,5 @@
 ---
-title: "## **BCGEU signs solidarity accord with First Nations against Northern Gateway pipeline**"
+title: "BCGEU signs solidarity accord with First Nations against Northern Gateway pipeline"
 category: "labor"
 ---
 

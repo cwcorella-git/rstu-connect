@@ -1,5 +1,5 @@
 ---
-title: "**The Trail of Political Consciousness**"
+title: "The Trail of Political Consciousness"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Charlotte Wilson (1854-1944) - Jeff Shantz**"
+title: "Charlotte Wilson (1854-1944) - Jeff Shantz"
 category: "contemporary-analysis"
 ---
 

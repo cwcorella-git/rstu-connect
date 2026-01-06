@@ -1,5 +1,5 @@
 ---
-title: "## **A Climate Plan that Works for Workers**"
+title: "A Climate Plan that Works for Workers"
 category: "labor"
 ---
 

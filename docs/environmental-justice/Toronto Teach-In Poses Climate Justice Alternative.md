@@ -1,5 +1,5 @@
 ---
-title: "## **Toronto Teach-In Poses Climate Justice Alternative**"
+title: "Toronto Teach-In Poses Climate Justice Alternative"
 category: "environmental-justice"
 ---
 

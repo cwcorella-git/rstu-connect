@@ -1,5 +1,5 @@
 ---
-title: "## **The Trade Union Unity League: American Communists and the transition to industrial unionism: 19"
+title: "The Trade Union Unity League: American Communists and the transition to industrial unionism: 19"
 category: "labor"
 ---
 

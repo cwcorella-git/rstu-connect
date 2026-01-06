@@ -1,5 +1,5 @@
 ---
-title: "## **Free cities: communalism and the left**"
+title: "Free cities: communalism and the left"
 category: "contemporary-analysis"
 ---
 

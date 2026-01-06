@@ -1,5 +1,5 @@
 ---
-title: "**Animal Liberation Is Climate Justice**"
+title: "Animal Liberation Is Climate Justice"
 category: "environmental-justice"
 ---
 

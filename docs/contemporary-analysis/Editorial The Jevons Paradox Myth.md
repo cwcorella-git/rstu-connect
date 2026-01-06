@@ -1,5 +1,5 @@
 ---
-title: "## **Editorial: The Jevons Paradox Myth**"
+title: "Editorial: The Jevons Paradox Myth"
 category: "contemporary-analysis"
 ---
 

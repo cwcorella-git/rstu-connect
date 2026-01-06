@@ -1,5 +1,5 @@
 ---
-title: "**Crusades**"
+title: "Crusades"
 category: "contemporary-analysis"
 ---
 

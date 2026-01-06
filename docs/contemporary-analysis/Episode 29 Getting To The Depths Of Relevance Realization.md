@@ -1,5 +1,5 @@
 ---
-title: "**Episode 29: Getting To The Depths Of Relevance Realization/**"
+title: "Episode 29: Getting To The Depths Of Relevance Realization/"
 category: "contemporary-analysis"
 ---
 

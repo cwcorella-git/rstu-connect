@@ -1,5 +1,5 @@
 ---
-title: "## **A general strike starting from refinery workers at the caribbean island of Curacao - awaiting n"
+title: "A general strike starting from refinery workers at the caribbean island of Curacao - awaiting n"
 category: "arts-culture-music"
 ---
 

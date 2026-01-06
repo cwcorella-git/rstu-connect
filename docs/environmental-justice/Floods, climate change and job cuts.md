@@ -1,5 +1,5 @@
 ---
-title: "## **Floods, climate change and job cuts**"
+title: "Floods, climate change and job cuts"
 category: "environmental-justice"
 ---
 

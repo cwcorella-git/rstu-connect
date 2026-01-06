@@ -1,5 +1,5 @@
 ---
-title: "## **Boycott Sakuma Berries!**"
+title: "Boycott Sakuma Berries!"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **The Trouble with Democracy: An Anarchist View - Jeff Shantz**"
+title: "The Trouble with Democracy: An Anarchist View - Jeff Shantz"
 category: "contemporary-analysis"
 ---
 

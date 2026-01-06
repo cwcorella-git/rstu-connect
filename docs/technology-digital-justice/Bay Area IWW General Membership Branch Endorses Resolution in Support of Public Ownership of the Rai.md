@@ -1,5 +1,5 @@
 ---
-title: "## **Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of th"
+title: "Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of th"
 category: "technology-digital-justice"
 ---
 

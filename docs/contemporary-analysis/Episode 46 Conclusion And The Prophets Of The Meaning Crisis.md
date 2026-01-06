@@ -1,5 +1,5 @@
 ---
-title: "**Episode 46: Conclusion And The Prophets Of The Meaning Crisis/**"
+title: "Episode 46: Conclusion And The Prophets Of The Meaning Crisis/"
 category: "contemporary-analysis"
 ---
 

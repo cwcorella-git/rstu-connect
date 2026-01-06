@@ -1,5 +1,5 @@
 ---
-title: "## **Llamada a la solidaridad con Malanquismo**"
+title: "Llamada a la solidaridad con Malanquismo"
 category: "contemporary-analysis"
 ---
 

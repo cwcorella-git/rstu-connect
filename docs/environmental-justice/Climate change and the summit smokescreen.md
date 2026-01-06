@@ -1,5 +1,5 @@
 ---
-title: "## **Climate change and the summit smokescreen**"
+title: "Climate change and the summit smokescreen"
 category: "environmental-justice"
 ---
 

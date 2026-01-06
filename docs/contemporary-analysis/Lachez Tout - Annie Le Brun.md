@@ -1,5 +1,5 @@
 ---
-title: "## **Lachez Tout - Annie Le Brun**"
+title: "Lachez Tout - Annie Le Brun"
 category: "contemporary-analysis"
 ---
 

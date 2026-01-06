@@ -1,5 +1,5 @@
 ---
-title: "**Against the (new and old) familism down with the family! - humanaesfera**"
+title: "Against the (new and old) familism down with the family! - humanaesfera"
 category: "technology-digital-justice"
 ---
 

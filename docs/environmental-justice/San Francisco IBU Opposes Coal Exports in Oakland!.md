@@ -1,5 +1,5 @@
 ---
-title: "**San Francisco IBU Opposes Coal Exports in Oakland!**"
+title: "San Francisco IBU Opposes Coal Exports in Oakland!"
 category: "environmental-justice"
 ---
 

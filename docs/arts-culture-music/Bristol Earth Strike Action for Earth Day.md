@@ -1,5 +1,5 @@
 ---
-title: "## **Bristol Earth Strike: Action for Earth Day**"
+title: "Bristol Earth Strike: Action for Earth Day"
 category: "arts-culture-music"
 ---
 

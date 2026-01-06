@@ -1,5 +1,5 @@
 ---
-title: "**Episode 43: Wisdom And Virtue/**"
+title: "Episode 43: Wisdom And Virtue/"
 category: "contemporary-analysis"
 ---
 

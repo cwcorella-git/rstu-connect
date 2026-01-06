@@ -1,5 +1,5 @@
 ---
-title: "## **Support striking university workers and build worker-student solidarity!**"
+title: "Support striking university workers and build worker-student solidarity!"
 category: "youth-student-organizing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **For a Transnational Fall of Struggle: Strike the Climate Crisis!**"
+title: "For a Transnational Fall of Struggle: Strike the Climate Crisis!"
 category: "feminist-theory"
 ---
 

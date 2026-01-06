@@ -1,5 +1,5 @@
 ---
-title: "## **From one crisis to another. An interview with Helen Arnold and Daniel Blanchard**"
+title: "From one crisis to another. An interview with Helen Arnold and Daniel Blanchard"
 category: "contemporary-analysis"
 ---
 

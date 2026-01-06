@@ -1,5 +1,5 @@
 ---
-title: "**Queer Anarcho Communism: An Atemporal Approach**"
+title: "Queer Anarcho Communism: An Atemporal Approach"
 category: "feminist-theory"
 ---
 

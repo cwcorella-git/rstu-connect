@@ -1,5 +1,5 @@
 ---
-title: "**Sherman Antitrust Act**"
+title: "Sherman Antitrust Act"
 category: "contemporary-analysis"
 ---
 

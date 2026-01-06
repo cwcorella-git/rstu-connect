@@ -1,5 +1,5 @@
 ---
-title: "## **Do solidarity unions need to 'go public'?**"
+title: "Do solidarity unions need to 'go public'?"
 category: "contemporary-analysis"
 ---
 

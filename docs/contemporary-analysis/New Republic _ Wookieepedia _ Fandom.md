@@ -1,5 +1,5 @@
 ---
-title: "**New Republic**"
+title: "New Republic"
 category: "contemporary-analysis"
 ---
 

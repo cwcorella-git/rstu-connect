@@ -1,5 +1,5 @@
 ---
-title: "**On the passage of a few thousand people through a brief period of time - Edições Antipáticas**"
+title: "On the passage of a few thousand people through a brief period of time - Edições Antipáticas"
 category: "contemporary-analysis"
 ---
 

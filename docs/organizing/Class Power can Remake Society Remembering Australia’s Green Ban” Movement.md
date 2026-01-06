@@ -1,5 +1,5 @@
 ---
-title: "## **Class Power can Remake Society: Remembering Australia's "Green Ban" Movement**"
+title: "Class Power can Remake Society: Remembering Australia's 'Green Ban' Movement"
 category: "organizing"
 ---
 

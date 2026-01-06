@@ -1,5 +1,5 @@
 ---
-title: "## **Syndicalists in South Africa, 1908-17 - Baruch Hirson**"
+title: "Syndicalists in South Africa, 1908-17 - Baruch Hirson"
 category: "international-solidarity"
 ---
 

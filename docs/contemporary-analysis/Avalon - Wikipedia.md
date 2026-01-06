@@ -1,5 +1,5 @@
 ---
-title: "**Avalon**"
+title: "Avalon"
 category: "contemporary-analysis"
 ---
 

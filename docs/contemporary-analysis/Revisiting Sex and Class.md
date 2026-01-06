@@ -1,5 +1,5 @@
 ---
-title: "## **Revisiting Sex and Class**"
+title: "Revisiting Sex and Class"
 category: "contemporary-analysis"
 ---
 

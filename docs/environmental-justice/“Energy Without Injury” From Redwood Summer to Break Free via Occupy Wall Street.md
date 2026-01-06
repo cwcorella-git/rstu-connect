@@ -1,5 +1,5 @@
 ---
-title: "## **"Energy Without Injury": From Redwood Summer to Break Free via Occupy Wall Street**"
+title: "'Energy Without Injury': From Redwood Summer to Break Free via Occupy Wall Street"
 category: "environmental-justice"
 ---
 

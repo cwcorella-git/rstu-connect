@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity with the People in the Streets of Portland: Against the Federal Occupation**"
+title: "Solidarity with the People in the Streets of Portland: Against the Federal Occupation"
 category: "technology-digital-justice"
 ---
 

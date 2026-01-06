@@ -1,5 +1,5 @@
 ---
-title: "**Robert E. Lee**"
+title: "Robert E. Lee"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**What is open source AI?**"
+title: "What is open source AI?"
 category: "technology-digital-justice"
 ---
 

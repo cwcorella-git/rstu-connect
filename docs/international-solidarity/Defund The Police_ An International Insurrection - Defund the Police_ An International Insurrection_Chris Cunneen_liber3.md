@@ -1,5 +1,5 @@
 ---
-title: "**DEFUND THE POLICE**"
+title: "DEFUND THE POLICE"
 category: "international-solidarity"
 ---
 

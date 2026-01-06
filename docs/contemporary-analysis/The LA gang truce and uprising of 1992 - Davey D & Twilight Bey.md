@@ -1,5 +1,5 @@
 ---
-title: "## **The LA gang truce and uprising of 1992 - Davey D & Twilight Bey**"
+title: "The LA gang truce and uprising of 1992 - Davey D & Twilight Bey"
 category: "contemporary-analysis"
 ---
 

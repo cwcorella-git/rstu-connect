@@ -1,5 +1,5 @@
 ---
-title: "## **Prisoners and Climate Injustice**"
+title: "Prisoners and Climate Injustice"
 category: "environmental-justice"
 ---
 

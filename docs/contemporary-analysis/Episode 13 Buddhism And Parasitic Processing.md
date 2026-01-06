@@ -1,5 +1,5 @@
 ---
-title: "## **Episode 13: Buddhism And Parasitic Processing/**"
+title: "Episode 13: Buddhism And Parasitic Processing/"
 category: "contemporary-analysis"
 ---
 

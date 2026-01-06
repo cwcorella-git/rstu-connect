@@ -1,5 +1,5 @@
 ---
-title: "**Michel Foucault Discipline and Punish The Birth of the Prison**"
+title: "Michel Foucault Discipline and Punish The Birth of the Prison"
 category: "contemporary-analysis"
 ---
 

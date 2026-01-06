@@ -1,5 +1,5 @@
 ---
-title: "**Beyond May Day: From Ritual to Resistance**"
+title: "Beyond May Day: From Ritual to Resistance"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Renewable Energy is (Mostly) Green and Not Inherently Capitalist, Volume 1: Wind Power (REVISED"
+title: "Renewable Energy is (Mostly) Green and Not Inherently Capitalist, Volume 1: Wind Power (REVISED"
 category: "environmental-justice"
 ---
 

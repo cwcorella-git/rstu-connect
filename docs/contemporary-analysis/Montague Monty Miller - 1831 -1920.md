@@ -1,5 +1,5 @@
 ---
-title: "## **Montague "Monty" Miller - 1831 -1920**"
+title: "Montague \"Monty\" Miller - 1831 -1920"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Hippias (tyrant)**"
+title: "Hippias (tyrant)"
 category: "contemporary-analysis"
 ---
 

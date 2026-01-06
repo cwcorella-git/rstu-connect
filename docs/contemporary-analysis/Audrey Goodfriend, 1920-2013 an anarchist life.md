@@ -1,5 +1,5 @@
 ---
-title: "## **Audrey Goodfriend, 1920-2013: an anarchist life**"
+title: "Audrey Goodfriend, 1920-2013: an anarchist life"
 category: "contemporary-analysis"
 ---
 

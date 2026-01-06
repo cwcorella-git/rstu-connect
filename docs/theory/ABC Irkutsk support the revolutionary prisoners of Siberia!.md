@@ -1,5 +1,5 @@
 ---
-title: "## **ABC Irkutsk: support the revolutionary prisoners of Siberia!**"
+title: "ABC Irkutsk: support the revolutionary prisoners of Siberia!"
 category: "theory"
 ---
 

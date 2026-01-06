@@ -1,5 +1,5 @@
 ---
-title: "## **Crime And Punishment**"
+title: "Crime And Punishment"
 category: "contemporary-analysis"
 ---
 

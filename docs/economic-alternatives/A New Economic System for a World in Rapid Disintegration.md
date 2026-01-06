@@ -1,5 +1,5 @@
 ---
-title: "## **A New Economic System for a World in Rapid Disintegration**"
+title: "A New Economic System for a World in Rapid Disintegration"
 category: "economic-alternatives"
 ---
 

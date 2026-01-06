@@ -1,5 +1,5 @@
 ---
-title: "**[What Games Are](https://web.archive.org/web/20250913084705/https://www.whatgamesare.com/)**"
+title: "What Games Are"
 category: "arts-culture-music"
 ---
 

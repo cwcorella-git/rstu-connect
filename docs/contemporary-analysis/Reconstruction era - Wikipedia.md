@@ -1,5 +1,5 @@
 ---
-title: "**Reconstruction era**"
+title: "Reconstruction era"
 category: "contemporary-analysis"
 ---
 

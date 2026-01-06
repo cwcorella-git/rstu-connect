@@ -1,5 +1,5 @@
 ---
-title: "## **Council Nurses Urge San Francisco To Divest from DAPL**"
+title: "Council Nurses Urge San Francisco To Divest from DAPL"
 category: "labor"
 ---
 

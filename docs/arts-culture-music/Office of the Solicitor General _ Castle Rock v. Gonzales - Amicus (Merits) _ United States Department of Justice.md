@@ -1,5 +1,5 @@
 ---
-title: "**Castle Rock v. Gonzales - Amicus (Merits)**"
+title: "Castle Rock v. Gonzales - Amicus (Merits)"
 category: "arts-culture-music"
 ---
 

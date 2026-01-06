@@ -1,5 +1,5 @@
 ---
-title: "**Mass Sackings at Deliveroo – What can I do about it?**"
+title: "Mass Sackings at Deliveroo – What can I do about it?"
 category: "contemporary-analysis"
 ---
 

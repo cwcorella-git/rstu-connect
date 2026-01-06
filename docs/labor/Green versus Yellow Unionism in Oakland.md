@@ -1,5 +1,5 @@
 ---
-title: "**Green versus Yellow Unionism in Oakland**"
+title: "Green versus Yellow Unionism in Oakland"
 category: "labor"
 ---
 

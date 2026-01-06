@@ -1,5 +1,5 @@
 ---
-title: "## **Curing The English Disease**"
+title: "Curing The English Disease"
 category: "contemporary-analysis"
 ---
 

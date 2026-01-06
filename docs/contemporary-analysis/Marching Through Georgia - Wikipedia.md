@@ -1,5 +1,5 @@
 ---
-title: "**Marching Through Georgia**"
+title: "Marching Through Georgia"
 category: "contemporary-analysis"
 ---
 

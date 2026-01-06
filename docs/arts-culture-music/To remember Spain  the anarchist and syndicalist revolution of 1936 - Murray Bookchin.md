@@ -1,5 +1,5 @@
 ---
-title: "## **To remember Spain: the anarchist and syndicalist revolution of 1936 - Murray Bookchin**"
+title: "To remember Spain: the anarchist and syndicalist revolution of 1936 - Murray Bookchin"
 category: "arts-culture-music"
 ---
 

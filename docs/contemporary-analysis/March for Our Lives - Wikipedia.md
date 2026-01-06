@@ -1,5 +1,5 @@
 ---
-title: "**March for Our Lives**"
+title: "March for Our Lives"
 category: "contemporary-analysis"
 ---
 

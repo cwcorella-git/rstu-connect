@@ -1,5 +1,5 @@
 ---
-title: "## **Community Hosts Teach-In on Environmental Justice as Oakland City Council Delays Action on Coal"
+title: "Community Hosts Teach-In on Environmental Justice as Oakland City Council Delays Action on Coal"
 category: "environmental-justice"
 ---
 

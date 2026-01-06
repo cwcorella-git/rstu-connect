@@ -1,5 +1,5 @@
 ---
-title: "## **Ian Bone: Sound and Fury – Andy Brown**"
+title: "Ian Bone: Sound and Fury – Andy Brown"
 category: "contemporary-analysis"
 ---
 

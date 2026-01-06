@@ -1,5 +1,5 @@
 ---
-title: "## **The Wobblies: the story of syndicalism in the United States**"
+title: "The Wobblies: the story of syndicalism in the United States"
 category: "contemporary-analysis"
 ---
 

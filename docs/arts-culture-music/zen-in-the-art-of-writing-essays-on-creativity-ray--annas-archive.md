@@ -1,5 +1,5 @@
 ---
-title: "**A NOTE ABOUT THE AUTHOR**"
+title: "A NOTE ABOUT THE AUTHOR"
 category: "arts-culture-music"
 ---
 

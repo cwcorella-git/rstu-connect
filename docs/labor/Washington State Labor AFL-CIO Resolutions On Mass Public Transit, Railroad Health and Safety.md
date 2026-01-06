@@ -1,5 +1,5 @@
 ---
-title: "## **Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad Health and Safety**"
+title: "Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad Health and Safety"
 category: "labor"
 ---
 

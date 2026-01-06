@@ -1,5 +1,5 @@
 ---
-title: "## **Pedagogy of the Oppressed**"
+title: "Pedagogy of the Oppressed"
 category: "theory"
 ---
 

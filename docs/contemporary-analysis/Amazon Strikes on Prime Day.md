@@ -1,5 +1,5 @@
 ---
-title: "## **Amazon Strikes on Prime Day**"
+title: "Amazon Strikes on Prime Day"
 category: "contemporary-analysis"
 ---
 

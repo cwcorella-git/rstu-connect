@@ -1,5 +1,5 @@
 ---
-title: "**Demiurge**"
+title: "Demiurge"
 category: "contemporary-analysis"
 ---
 

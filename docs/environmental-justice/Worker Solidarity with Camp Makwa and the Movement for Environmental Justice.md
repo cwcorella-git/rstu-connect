@@ -1,5 +1,5 @@
 ---
-title: "## **Worker Solidarity with Camp Makwa and the Movement for Environmental Justice**"
+title: "Worker Solidarity with Camp Makwa and the Movement for Environmental Justice"
 category: "environmental-justice"
 ---
 

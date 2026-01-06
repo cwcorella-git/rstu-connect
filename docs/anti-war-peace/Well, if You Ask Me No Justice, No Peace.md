@@ -1,5 +1,5 @@
 ---
-title: "## **Well, if You Ask Me: No Justice, No Peace**"
+title: "Well, if You Ask Me: No Justice, No Peace"
 category: "anti-war-peace"
 ---
 

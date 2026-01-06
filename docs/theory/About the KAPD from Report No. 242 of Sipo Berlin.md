@@ -1,5 +1,5 @@
 ---
-title: "## **About the KAPD from Report No. 242 of Sipo Berlin**"
+title: "About the KAPD from Report No. 242 of Sipo Berlin"
 category: "theory"
 ---
 

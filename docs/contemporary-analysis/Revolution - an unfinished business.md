@@ -1,5 +1,5 @@
 ---
-title: "## **Revolution - an unfinished business**"
+title: "Revolution - an unfinished business"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Anarchism and Spycops – Dave Morris**"
+title: "Anarchism and Spycops – Dave Morris"
 category: "contemporary-analysis"
 ---
 

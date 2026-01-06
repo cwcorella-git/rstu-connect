@@ -1,5 +1,5 @@
 ---
-title: "## **Bristol IWW affiliates with Earth Strike UK**"
+title: "Bristol IWW affiliates with Earth Strike UK"
 category: "arts-culture-music"
 ---
 

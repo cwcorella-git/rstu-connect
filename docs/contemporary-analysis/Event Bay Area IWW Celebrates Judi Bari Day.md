@@ -1,5 +1,5 @@
 ---
-title: "## **Event: Bay Area IWW Celebrates Judi Bari Day**"
+title: "Event: Bay Area IWW Celebrates Judi Bari Day"
 category: "contemporary-analysis"
 ---
 

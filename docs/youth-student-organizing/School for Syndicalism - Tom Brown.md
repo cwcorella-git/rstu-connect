@@ -1,5 +1,5 @@
 ---
-title: "## **School for Syndicalism - Tom Brown**"
+title: "School for Syndicalism - Tom Brown"
 category: "youth-student-organizing"
 ---
 

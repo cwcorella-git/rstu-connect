@@ -1,5 +1,5 @@
 ---
-title: "## **Subscribe to Anarcho Agony Aunts**"
+title: "Subscribe to Anarcho Agony Aunts"
 category: "contemporary-analysis"
 ---
 

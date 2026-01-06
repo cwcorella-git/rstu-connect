@@ -1,5 +1,5 @@
 ---
-title: "## **Resolutions**"
+title: "Resolutions"
 category: "contemporary-analysis"
 ---
 

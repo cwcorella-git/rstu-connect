@@ -1,5 +1,5 @@
 ---
-title: "## **Join us in the Anti-Capitalist Contingent at the "Rally for 100% Renewable Energy for 100% of t"
+title: "Join us in the Anti-Capitalist Contingent at the \"Rally for 100% Renewable Energy for 100% of t"
 category: "environmental-justice"
 ---
 

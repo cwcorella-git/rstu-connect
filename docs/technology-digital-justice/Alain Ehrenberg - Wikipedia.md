@@ -1,5 +1,5 @@
 ---
-title: "**Alain Ehrenberg**"
+title: "Alain Ehrenberg"
 category: "technology-digital-justice"
 ---
 

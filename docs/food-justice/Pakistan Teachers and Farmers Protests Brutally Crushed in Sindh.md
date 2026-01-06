@@ -1,5 +1,5 @@
 ---
-title: "## **Pakistan: Teachers and Farmers Protests Brutally Crushed in Sindh**"
+title: "Pakistan: Teachers and Farmers Protests Brutally Crushed in Sindh"
 category: "food-justice"
 ---
 

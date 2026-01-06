@@ -1,5 +1,5 @@
 ---
-title: "## **Don't Mourn, Organize!**"
+title: "Don't Mourn, Organize!"
 category: "contemporary-analysis"
 ---
 

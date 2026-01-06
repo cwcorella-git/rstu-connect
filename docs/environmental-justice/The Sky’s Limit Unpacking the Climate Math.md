@@ -1,5 +1,5 @@
 ---
-title: "## **The Sky's Limit: Unpacking the Climate Math**"
+title: "The Sky's Limit: Unpacking the Climate Math"
 category: "environmental-justice"
 ---
 

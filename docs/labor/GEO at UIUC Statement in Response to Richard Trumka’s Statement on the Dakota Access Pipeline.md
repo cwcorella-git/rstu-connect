@@ -1,5 +1,5 @@
 ---
-title: "## **GEO at UIUC Statement in Response to Richard Trumka's Statement on the Dakota Access Pipeline**"
+title: "GEO at UIUC Statement in Response to Richard Trumka's Statement on the Dakota Access Pipeline"
 category: "labor"
 ---
 

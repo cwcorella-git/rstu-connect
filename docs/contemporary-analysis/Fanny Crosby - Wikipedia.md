@@ -1,5 +1,5 @@
 ---
-title: "**Fanny Crosby**"
+title: "Fanny Crosby"
 category: "contemporary-analysis"
 ---
 

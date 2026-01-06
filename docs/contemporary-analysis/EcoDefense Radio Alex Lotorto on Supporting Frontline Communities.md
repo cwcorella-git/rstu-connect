@@ -1,5 +1,5 @@
 ---
-title: "## **Eco Defense Radio: Alex Lotorto on Supporting Frontline Communities**"
+title: "Eco Defense Radio: Alex Lotorto on Supporting Frontline Communities"
 category: "contemporary-analysis"
 ---
 

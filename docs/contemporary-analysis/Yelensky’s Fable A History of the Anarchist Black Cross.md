@@ -1,5 +1,5 @@
 ---
-title: "**Yelensky's Fable: A History of the Anarchist Black Cross**"
+title: "Yelensky's Fable: A History of the Anarchist Black Cross"
 category: "contemporary-analysis"
 ---
 

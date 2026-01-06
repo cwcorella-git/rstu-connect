@@ -1,5 +1,5 @@
 ---
-title: "## **LIUNA Local passes message of support for Standing Rock**"
+title: "LIUNA Local passes message of support for Standing Rock"
 category: "environmental-justice"
 ---
 

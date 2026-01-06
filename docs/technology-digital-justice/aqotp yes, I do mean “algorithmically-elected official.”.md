@@ -1,5 +1,5 @@
 ---
-title: "## **aqotp: yes, I do mean "algorithmically-elected official."**"
+title: "aqotp: yes, I do mean 'algorithmically-elected official.'"
 category: "technology-digital-justice"
 ---
 

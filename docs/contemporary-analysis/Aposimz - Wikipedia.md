@@ -1,5 +1,5 @@
 ---
-title: "**Aposimz**"
+title: "Aposimz"
 category: "contemporary-analysis"
 ---
 

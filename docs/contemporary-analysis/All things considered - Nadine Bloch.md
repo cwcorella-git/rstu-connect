@@ -1,5 +1,5 @@
 ---
-title: "## **All things considered - Nadine Bloch**"
+title: "All things considered - Nadine Bloch"
 category: "contemporary-analysis"
 ---
 

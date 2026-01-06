@@ -1,5 +1,5 @@
 ---
-title: "**Battle of Appomattox Court House**"
+title: "Battle of Appomattox Court House"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Protestors Takes To Trees As Pipeline's Chainsaws Approach**"
+title: "Protestors Takes To Trees As Pipeline's Chainsaws Approach"
 category: "technology-digital-justice"
 ---
 

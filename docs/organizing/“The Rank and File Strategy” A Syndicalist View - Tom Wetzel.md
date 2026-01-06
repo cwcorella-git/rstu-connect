@@ -1,5 +1,5 @@
 ---
-title: "## **"The Rank and File Strategy": A Syndicalist View - Tom Wetzel**"
+title: "'The Rank and File Strategy': A Syndicalist View - Tom Wetzel"
 category: "organizing"
 ---
 

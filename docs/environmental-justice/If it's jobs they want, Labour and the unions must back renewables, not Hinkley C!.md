@@ -1,5 +1,5 @@
 ---
-title: "## **If it's jobs they want, Labour and the unions must back renewables, not Hinkley C!**"
+title: "If it's jobs they want, Labour and the unions must back renewables, not Hinkley C!"
 category: "environmental-justice"
 ---
 

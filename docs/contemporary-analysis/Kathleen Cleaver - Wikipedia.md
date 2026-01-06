@@ -1,5 +1,5 @@
 ---
-title: "**Kathleen Cleaver**"
+title: "Kathleen Cleaver"
 category: "contemporary-analysis"
 ---
 

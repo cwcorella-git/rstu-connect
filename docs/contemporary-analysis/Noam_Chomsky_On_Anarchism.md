@@ -1,5 +1,5 @@
 ---
-title: "**3. Part II of** *Objectivity and Liberal Scholarship*"
+title: "3. Part II of *Objectivity and Liberal Scholarship*"
 category: "contemporary-analysis"
 ---
 

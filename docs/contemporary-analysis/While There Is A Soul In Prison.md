@@ -1,5 +1,5 @@
 ---
-title: "## **While There Is A Soul In Prison**"
+title: "While There Is A Soul In Prison"
 category: "contemporary-analysis"
 ---
 

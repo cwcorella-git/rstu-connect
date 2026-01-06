@@ -1,5 +1,5 @@
 ---
-title: "## **A new coalition demands healthcare and justice for East Palestine**"
+title: "A new coalition demands healthcare and justice for East Palestine"
 category: "environmental-justice"
 ---
 

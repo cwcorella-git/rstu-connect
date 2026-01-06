@@ -1,5 +1,5 @@
 ---
-title: "## **Unions, Trade and Nationalism**"
+title: "Unions, Trade and Nationalism"
 category: "labor"
 ---
 

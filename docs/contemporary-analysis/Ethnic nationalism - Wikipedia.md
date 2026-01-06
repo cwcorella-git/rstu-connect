@@ -1,5 +1,5 @@
 ---
-title: "**Ethnic nationalism**"
+title: "Ethnic nationalism"
 category: "contemporary-analysis"
 ---
 

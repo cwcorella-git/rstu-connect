@@ -1,5 +1,5 @@
 ---
-title: "**Criticism of the Bible**"
+title: "Criticism of the Bible"
 category: "contemporary-analysis"
 ---
 

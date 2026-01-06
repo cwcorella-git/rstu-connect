@@ -1,5 +1,5 @@
 ---
-title: "**Commons, Libraries & Degrowth**"
+title: "Commons, Libraries & Degrowth"
 category: "contemporary-analysis"
 ---
 

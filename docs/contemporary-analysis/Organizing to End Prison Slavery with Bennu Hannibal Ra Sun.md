@@ -1,5 +1,5 @@
 ---
-title: "## **Organizing to End Prison Slavery with Bennu Hannibal Ra Sun**"
+title: "Organizing to End Prison Slavery with Bennu Hannibal Ra Sun"
 category: "contemporary-analysis"
 ---
 

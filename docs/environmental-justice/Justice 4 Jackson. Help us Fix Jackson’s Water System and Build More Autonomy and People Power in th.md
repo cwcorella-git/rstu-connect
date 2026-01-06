@@ -1,5 +1,5 @@
 ---
-title: "## **Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy and People Power "
+title: "Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy and People Power"
 category: "environmental-justice"
 ---
 

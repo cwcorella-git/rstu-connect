@@ -1,5 +1,5 @@
 ---
-title: "## **IWW statements on language school organising in Dublin**"
+title: "IWW statements on language school organising in Dublin"
 category: "labor"
 ---
 

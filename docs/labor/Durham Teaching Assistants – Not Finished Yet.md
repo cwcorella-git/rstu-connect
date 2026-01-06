@@ -1,5 +1,5 @@
 ---
-title: "## **Durham Teaching Assistants – Not Finished Yet?**"
+title: "Durham Teaching Assistants – Not Finished Yet?"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Biomega (manga)**"
+title: "Biomega (manga)"
 category: "contemporary-analysis"
 ---
 

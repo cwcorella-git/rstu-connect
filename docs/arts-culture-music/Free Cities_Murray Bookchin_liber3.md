@@ -1,5 +1,5 @@
 ---
-title: "**MURRAY BOOKCHIN**"
+title: "MURRAY BOOKCHIN"
 category: "arts-culture-music"
 ---
 

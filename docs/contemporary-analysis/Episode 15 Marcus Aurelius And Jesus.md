@@ -1,5 +1,5 @@
 ---
-title: "**Episode 15: Marcus Aurelius And Jesus/**"
+title: "Episode 15: Marcus Aurelius And Jesus/"
 category: "contemporary-analysis"
 ---
 

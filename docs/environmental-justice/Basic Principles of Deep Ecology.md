@@ -1,5 +1,5 @@
 ---
-title: "**Arne Næss and George Sessions Basic Principles of Deep Ecology 1984**"
+title: "Arne Næss and George Sessions Basic Principles of Deep Ecology 1984"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Home of the Heart: the Modern Origins of** *Furusato*"
+title: "Home of the Heart: the Modern Origins of *Furusato*"
 category: "contemporary-analysis"
 ---
 

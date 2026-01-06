@@ -1,5 +1,5 @@
 ---
-title: "**Sumak kawsay**"
+title: "Sumak kawsay"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Cultural Revolution**"
+title: "Cultural Revolution"
 category: "arts-culture-music"
 ---
 

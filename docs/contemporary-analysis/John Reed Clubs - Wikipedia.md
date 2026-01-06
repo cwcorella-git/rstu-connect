@@ -1,5 +1,5 @@
 ---
-title: "**John Reed Clubs**"
+title: "John Reed Clubs"
 category: "contemporary-analysis"
 ---
 

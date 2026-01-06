@@ -1,5 +1,5 @@
 ---
-title: "**Ares**"
+title: "Ares"
 category: "contemporary-analysis"
 ---
 

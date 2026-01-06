@@ -1,5 +1,5 @@
 ---
-title: "**METAPHYSICS BOOK I**"
+title: "METAPHYSICS BOOK I"
 category: "arts-culture-music"
 ---
 

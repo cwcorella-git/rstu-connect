@@ -1,5 +1,5 @@
 ---
-title: "## **Union Members Don't Oppose Environmental Protections: They're Actually More Likely To Support T"
+title: "Union Members Don't Oppose Environmental Protections: They're Actually More Likely To Support T"
 category: "labor"
 ---
 

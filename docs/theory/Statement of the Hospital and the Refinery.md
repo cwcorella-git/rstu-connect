@@ -1,5 +1,5 @@
 ---
-title: "## **Statement of the Hospital and the Refinery**"
+title: "Statement of the Hospital and the Refinery"
 category: "theory"
 ---
 

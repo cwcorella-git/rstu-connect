@@ -1,5 +1,5 @@
 ---
-title: "**Green Unionism on the Chevron Richmond Refinery Workers Picket Line**"
+title: "Green Unionism on the Chevron Richmond Refinery Workers Picket Line"
 category: "labor"
 ---
 

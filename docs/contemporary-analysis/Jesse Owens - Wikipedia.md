@@ -1,5 +1,5 @@
 ---
-title: "**Jesse Owens**"
+title: "Jesse Owens"
 category: "contemporary-analysis"
 ---
 

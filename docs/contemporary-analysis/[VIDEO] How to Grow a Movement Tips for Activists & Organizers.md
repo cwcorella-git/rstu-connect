@@ -1,5 +1,5 @@
 ---
-title: "## **[VIDEO] How to Grow a Movement: Tips for Activists & Organizers**"
+title: "[VIDEO] How to Grow a Movement: Tips for Activists & Organizers"
 category: "contemporary-analysis"
 ---
 

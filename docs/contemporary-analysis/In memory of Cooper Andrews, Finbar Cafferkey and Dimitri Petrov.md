@@ -1,5 +1,5 @@
 ---
-title: "## **In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov**"
+title: "In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov"
 category: "contemporary-analysis"
 ---
 

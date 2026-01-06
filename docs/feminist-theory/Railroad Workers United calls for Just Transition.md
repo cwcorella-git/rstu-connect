@@ -1,5 +1,5 @@
 ---
-title: "## **Railroad Workers United calls for Just Transition**"
+title: "Railroad Workers United calls for Just Transition"
 category: "feminist-theory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **The Image Seen 'Round the World**"
+title: "The Image Seen 'Round the World"
 category: "contemporary-analysis"
 ---
 

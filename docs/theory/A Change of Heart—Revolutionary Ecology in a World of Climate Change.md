@@ -1,5 +1,5 @@
 ---
-title: "## **A Change of Heart—Revolutionary Ecology in a World of Climate Change**"
+title: "A Change of Heart—Revolutionary Ecology in a World of Climate Change"
 category: "theory"
 ---
 

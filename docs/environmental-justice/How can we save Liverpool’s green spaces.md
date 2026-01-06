@@ -1,5 +1,5 @@
 ---
-title: "## **How can we save Liverpool's green spaces?**"
+title: "How can we save Liverpool's green spaces?"
 category: "environmental-justice"
 ---
 

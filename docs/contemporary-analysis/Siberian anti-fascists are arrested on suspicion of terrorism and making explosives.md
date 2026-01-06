@@ -1,5 +1,5 @@
 ---
-title: "## **Siberian anti-fascists are arrested on suspicion of terrorism and making explosives**"
+title: "Siberian anti-fascists are arrested on suspicion of terrorism and making explosives"
 category: "contemporary-analysis"
 ---
 

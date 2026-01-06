@@ -1,5 +1,5 @@
 ---
-title: "**FUTURE PRIMITIVE**"
+title: "FUTURE PRIMITIVE"
 category: "contemporary-analysis"
 ---
 

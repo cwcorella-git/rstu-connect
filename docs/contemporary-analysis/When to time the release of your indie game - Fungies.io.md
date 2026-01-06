@@ -1,5 +1,5 @@
 ---
-title: "**When to time the release of your indie game - Fungies.io**"
+title: "When to time the release of your indie game - Fungies.io"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Digital commons**"
+title: "Digital commons"
 category: "technology-digital-justice"
 ---
 

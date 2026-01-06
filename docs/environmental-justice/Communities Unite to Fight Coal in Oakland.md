@@ -1,5 +1,5 @@
 ---
-title: "## **Communities Unite to Fight Coal in Oakland**"
+title: "Communities Unite to Fight Coal in Oakland"
 category: "environmental-justice"
 ---
 

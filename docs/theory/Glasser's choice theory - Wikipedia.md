@@ -1,5 +1,5 @@
 ---
-title: "**Glasser's choice theory**"
+title: "Glasser's choice theory"
 category: "theory"
 ---
 

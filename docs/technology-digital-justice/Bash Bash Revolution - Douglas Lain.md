@@ -1,5 +1,5 @@
 ---
-title: "**BASH BASH REVOLUTION** A NOVEL BY **DOUGLAS LAIN**"
+title: "BASH BASH REVOLUTION A NOVEL BY DOUGLAS LAIN"
 category: "technology-digital-justice"
 ---
 

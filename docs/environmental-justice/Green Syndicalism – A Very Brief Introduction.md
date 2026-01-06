@@ -1,5 +1,5 @@
 ---
-title: "## **Green Syndicalism – A Very Brief Introduction**"
+title: "Green Syndicalism – A Very Brief Introduction"
 category: "environmental-justice"
 ---
 

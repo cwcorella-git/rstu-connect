@@ -1,5 +1,5 @@
 ---
-title: "## **Union Members Support Coal Phase Out at Levin Terminal in Richmond**"
+title: "Union Members Support Coal Phase Out at Levin Terminal in Richmond"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Episode 31: Embodied Embedded Rr As Dynamical Developmental Gi/**"
+title: "Episode 31: Embodied Embedded Rr As Dynamical Developmental Gi/"
 category: "contemporary-analysis"
 ---
 

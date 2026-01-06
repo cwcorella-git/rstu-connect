@@ -1,5 +1,5 @@
 ---
-title: "**I'm a UC graduate student. Here's What the Strike is About.**"
+title: "I'm a UC graduate student. Here's What the Strike is About."
 category: "youth-student-organizing"
 ---
 

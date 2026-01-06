@@ -1,5 +1,5 @@
 ---
-title: "## **Deliveroo riders strike back against cuts to shifts in London, Leeds and Nottingham**"
+title: "Deliveroo riders strike back against cuts to shifts in London, Leeds and Nottingham"
 category: "organizing"
 ---
 

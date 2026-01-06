@@ -1,5 +1,5 @@
 ---
-title: "## **Protesters blockade mock runway outside Parliament to oppose airport expansion**"
+title: "Protesters blockade mock runway outside Parliament to oppose airport expansion"
 category: "technology-digital-justice"
 ---
 

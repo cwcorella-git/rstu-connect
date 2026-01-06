@@ -1,5 +1,5 @@
 ---
-title: "## **If Voting Changed Anything...**"
+title: "If Voting Changed Anything..."
 category: "contemporary-analysis"
 ---
 

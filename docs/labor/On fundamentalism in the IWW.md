@@ -1,5 +1,5 @@
 ---
-title: "## **On "fundamentalism" in the IWW**"
+title: "On \"fundamentalism\" in the IWW"
 category: "labor"
 ---
 

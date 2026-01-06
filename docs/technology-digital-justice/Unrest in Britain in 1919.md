@@ -1,5 +1,5 @@
 ---
-title: "## **Unrest in Britain in 1919**"
+title: "Unrest in Britain in 1919"
 category: "technology-digital-justice"
 ---
 

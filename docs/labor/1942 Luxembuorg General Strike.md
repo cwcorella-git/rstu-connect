@@ -1,5 +1,5 @@
 ---
-title: "## **1942: Luxembuorg General Strike**"
+title: "1942: Luxembuorg General Strike"
 category: "labor"
 ---
 

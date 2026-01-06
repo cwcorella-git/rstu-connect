@@ -1,5 +1,5 @@
 ---
-title: "## **Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would get tradespeople r"
+title: "Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would get tradespeople r"
 category: "environmental-justice"
 ---
 

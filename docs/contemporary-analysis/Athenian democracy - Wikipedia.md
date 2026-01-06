@@ -1,5 +1,5 @@
 ---
-title: "**Athenian democracy**"
+title: "Athenian democracy"
 category: "contemporary-analysis"
 ---
 

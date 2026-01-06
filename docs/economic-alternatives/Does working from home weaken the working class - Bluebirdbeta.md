@@ -1,5 +1,5 @@
 ---
-title: "## **Does working from home weaken the working class? - Bluebirdbeta**"
+title: "Does working from home weaken the working class? - Bluebirdbeta"
 category: "economic-alternatives"
 ---
 

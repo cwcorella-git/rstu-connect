@@ -1,5 +1,5 @@
 ---
-title: "## **A new Lucas Plan for the future**"
+title: "A new Lucas Plan for the future"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **NEPA IWW Delivers A Message to Wendy's: We Want Fair Food**"
+title: "NEPA IWW Delivers A Message to Wendy's: We Want Fair Food"
 category: "technology-digital-justice"
 ---
 

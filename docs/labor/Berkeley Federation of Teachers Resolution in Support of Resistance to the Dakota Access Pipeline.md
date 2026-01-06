@@ -1,5 +1,5 @@
 ---
-title: "## **Berkeley Federation of Teachers Resolution in Support of Resistance to the Dakota Access Pipeli"
+title: "Berkeley Federation of Teachers Resolution in Support of Resistance to the Dakota Access Pipeli"
 category: "labor"
 ---
 

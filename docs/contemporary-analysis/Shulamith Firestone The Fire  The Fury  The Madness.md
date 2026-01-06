@@ -1,5 +1,5 @@
 ---
-title: "**Shulamith Firestone: The Fire / The Fury / The Madness**"
+title: "Shulamith Firestone: The Fire / The Fury / The Madness"
 category: "contemporary-analysis"
 ---
 

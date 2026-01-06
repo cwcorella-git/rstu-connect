@@ -1,5 +1,5 @@
 ---
-title: "## **White Australia has a Black History**"
+title: "White Australia has a Black History"
 category: "contemporary-analysis"
 ---
 

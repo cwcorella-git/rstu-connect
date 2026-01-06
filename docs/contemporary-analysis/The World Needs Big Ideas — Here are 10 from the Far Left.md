@@ -1,5 +1,5 @@
 ---
-title: "**The World Needs Big Ideas — Here are 10 from the Far Left**"
+title: "The World Needs Big Ideas — Here are 10 from the Far Left"
 category: "contemporary-analysis"
 ---
 

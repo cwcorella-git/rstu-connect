@@ -1,5 +1,5 @@
 ---
-title: "**Thermoreceptor**"
+title: "Thermoreceptor"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **After Brexit and Trump: don't demonise; localise!**"
+title: "After Brexit and Trump: don't demonise; localise!"
 category: "contemporary-analysis"
 ---
 

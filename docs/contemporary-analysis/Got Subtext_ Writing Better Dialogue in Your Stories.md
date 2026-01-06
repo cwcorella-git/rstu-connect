@@ -1,5 +1,5 @@
 ---
-title: "**Got Subtext? Writing Better Dialogue**"
+title: "Got Subtext? Writing Better Dialogue"
 category: "contemporary-analysis"
 ---
 

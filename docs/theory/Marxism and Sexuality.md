@@ -1,5 +1,5 @@
 ---
-title: "## **Marxism and Sexuality**"
+title: "Marxism and Sexuality"
 category: "theory"
 ---
 

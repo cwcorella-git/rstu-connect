@@ -1,5 +1,5 @@
 ---
-title: "## **Zero magazine**"
+title: "Zero magazine"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Defend Your Community (Antifascism) | Rebel Steps**"
+title: "Defend Your Community (Antifascism) | Rebel Steps"
 category: "contemporary-analysis"
 ---
 

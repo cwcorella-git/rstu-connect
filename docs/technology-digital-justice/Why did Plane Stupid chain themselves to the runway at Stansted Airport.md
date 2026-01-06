@@ -1,5 +1,5 @@
 ---
-title: "## **Why did Plane Stupid chain themselves to the runway at Stansted Airport?**"
+title: "Why did Plane Stupid chain themselves to the runway at Stansted Airport?"
 category: "technology-digital-justice"
 ---
 

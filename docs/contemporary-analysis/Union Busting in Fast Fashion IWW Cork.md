@@ -1,5 +1,5 @@
 ---
-title: "## **Union Busting in Fast Fashion: IWW Cork**"
+title: "Union Busting in Fast Fashion: IWW Cork"
 category: "contemporary-analysis"
 ---
 

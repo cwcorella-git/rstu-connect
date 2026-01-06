@@ -1,5 +1,5 @@
 ---
-title: "**Confederate States of America**"
+title: "Confederate States of America"
 category: "contemporary-analysis"
 ---
 

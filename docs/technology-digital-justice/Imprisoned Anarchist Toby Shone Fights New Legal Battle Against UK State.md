@@ -1,5 +1,5 @@
 ---
-title: "## **Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State**"
+title: "Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State"
 category: "technology-digital-justice"
 ---
 

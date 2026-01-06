@@ -1,5 +1,5 @@
 ---
-title: "## **Branches of anarchism**"
+title: "Branches of anarchism"
 category: "contemporary-analysis"
 ---
 

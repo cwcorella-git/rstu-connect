@@ -1,5 +1,5 @@
 ---
-title: "**Authoritarian Leftists: Kill the Cop in Your Head**"
+title: "Authoritarian Leftists: Kill the Cop in Your Head"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **The Revolution in Work Calls for an Evolution in Living**"
+title: "The Revolution in Work Calls for an Evolution in Living"
 category: "contemporary-analysis"
 ---
 

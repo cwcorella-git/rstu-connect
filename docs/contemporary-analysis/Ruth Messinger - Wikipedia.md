@@ -1,5 +1,5 @@
 ---
-title: "**Ruth Messinger**"
+title: "Ruth Messinger"
 category: "contemporary-analysis"
 ---
 

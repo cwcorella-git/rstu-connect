@@ -1,5 +1,5 @@
 ---
-title: "## **Direct Action #14 (1983)**"
+title: "Direct Action #14 (1983)"
 category: "contemporary-analysis"
 ---
 

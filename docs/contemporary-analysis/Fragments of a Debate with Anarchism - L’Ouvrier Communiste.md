@@ -1,5 +1,5 @@
 ---
-title: "## **Fragments of a Debate with Anarchism - L'Ouvrier Communiste**"
+title: "Fragments of a Debate with Anarchism - L'Ouvrier Communiste"
 category: "contemporary-analysis"
 ---
 

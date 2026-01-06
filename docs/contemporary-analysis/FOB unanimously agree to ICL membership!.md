@@ -1,5 +1,5 @@
 ---
-title: "## **FOB unanimously agree to ICL membership!**"
+title: "FOB unanimously agree to ICL membership!"
 category: "contemporary-analysis"
 ---
 

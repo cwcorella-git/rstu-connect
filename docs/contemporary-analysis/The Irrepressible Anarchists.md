@@ -1,5 +1,5 @@
 ---
-title: "**The Irrepressible Anarchists**"
+title: "The Irrepressible Anarchists"
 category: "contemporary-analysis"
 ---
 

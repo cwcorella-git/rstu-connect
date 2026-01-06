@@ -1,5 +1,5 @@
 ---
-title: "**Christian Zionism**"
+title: "Christian Zionism"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Iranian feminists speak out**"
+title: "Iranian feminists speak out"
 category: "feminist-theory"
 ---
 

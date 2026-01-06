@@ -1,5 +1,5 @@
 ---
-title: "## **I love my country//she looks like me.**"
+title: "I love my country//she looks like me."
 category: "contemporary-analysis"
 ---
 

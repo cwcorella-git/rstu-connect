@@ -1,5 +1,5 @@
 ---
-title: "## **Trump's executive order confirms US State Department has trained the Hong Kong police**"
+title: "Trump's executive order confirms US State Department has trained the Hong Kong police"
 category: "abolition"
 ---
 

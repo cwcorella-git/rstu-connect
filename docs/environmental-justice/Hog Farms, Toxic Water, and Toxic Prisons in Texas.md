@@ -1,5 +1,5 @@
 ---
-title: "## **Hog Farms, Toxic Water, and Toxic Prisons in Texas**"
+title: "Hog Farms, Toxic Water, and Toxic Prisons in Texas"
 category: "environmental-justice"
 ---
 

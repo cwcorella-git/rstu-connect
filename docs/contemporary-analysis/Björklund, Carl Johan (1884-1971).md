@@ -1,5 +1,5 @@
 ---
-title: "## **Björklund, Carl Johan (1884-1971)**"
+title: "Björklund, Carl Johan (1884-1971)"
 category: "contemporary-analysis"
 ---
 

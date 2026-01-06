@@ -1,5 +1,5 @@
 ---
-title: "## **The Socialist Future of the Syndicates - Georges Sorel**"
+title: "The Socialist Future of the Syndicates - Georges Sorel"
 category: "contemporary-analysis"
 ---
 

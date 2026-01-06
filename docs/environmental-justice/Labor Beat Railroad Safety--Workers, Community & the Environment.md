@@ -1,5 +1,5 @@
 ---
-title: "## **Labor Beat: Railroad Safety--Workers, Community & the Environment**"
+title: "Labor Beat: Railroad Safety--Workers, Community & the Environment"
 category: "environmental-justice"
 ---
 

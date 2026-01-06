@@ -1,5 +1,5 @@
 ---
-title: "## **Consciousness, revolution, and the IWW - Jade Saab**"
+title: "Consciousness, revolution, and the IWW - Jade Saab"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Together we're unstoppable: why this is the year to turn the tide**"
+title: "Together we're unstoppable: why this is the year to turn the tide"
 category: "contemporary-analysis"
 ---
 

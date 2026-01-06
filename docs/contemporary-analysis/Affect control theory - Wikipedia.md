@@ -1,5 +1,5 @@
 ---
-title: "**Affect control theory**"
+title: "Affect control theory"
 category: "contemporary-analysis"
 ---
 

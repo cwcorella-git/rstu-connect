@@ -1,5 +1,5 @@
 ---
-title: "## **The Hidden Injuries of Theory - Tom Jennings**"
+title: "The Hidden Injuries of Theory - Tom Jennings"
 category: "theory"
 ---
 

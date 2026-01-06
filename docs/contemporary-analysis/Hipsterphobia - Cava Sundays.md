@@ -1,5 +1,5 @@
 ---
-title: "## **Hipsterphobia - Cava Sundays**"
+title: "Hipsterphobia - Cava Sundays"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **The Industrial Syndicalist newspaper 1910-1911**"
+title: "The Industrial Syndicalist newspaper 1910-1911"
 category: "contemporary-analysis"
 ---
 

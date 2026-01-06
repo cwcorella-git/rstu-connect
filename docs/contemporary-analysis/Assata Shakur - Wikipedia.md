@@ -1,5 +1,5 @@
 ---
-title: "**Assata Shakur**"
+title: "Assata Shakur"
 category: "contemporary-analysis"
 ---
 

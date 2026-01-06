@@ -1,5 +1,5 @@
 ---
-title: "## **Citizens for better science**"
+title: "Citizens for better science"
 category: "contemporary-analysis"
 ---
 

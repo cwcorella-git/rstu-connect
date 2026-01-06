@@ -1,5 +1,5 @@
 ---
-title: "**At The Café**"
+title: "At The Café"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Camillo Berneri, Decolonization, and the Spanish Revolution - Jeff Shantz**"
+title: "Camillo Berneri, Decolonization, and the Spanish Revolution - Jeff Shantz"
 category: "theory"
 ---
 

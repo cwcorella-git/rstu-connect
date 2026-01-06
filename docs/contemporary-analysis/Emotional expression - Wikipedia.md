@@ -1,5 +1,5 @@
 ---
-title: "**Emotional expression**"
+title: "Emotional expression"
 category: "contemporary-analysis"
 ---
 

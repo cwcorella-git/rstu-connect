@@ -1,5 +1,5 @@
 ---
-title: "## **Imprisoned for a day: a personal reflection**"
+title: "Imprisoned for a day: a personal reflection"
 category: "contemporary-analysis"
 ---
 

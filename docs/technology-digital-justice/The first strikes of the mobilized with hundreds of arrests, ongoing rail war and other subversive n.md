@@ -1,5 +1,5 @@
 ---
-title: "## **The first strikes of the mobilized with hundreds of arrests, ongoing rail war and other subvers"
+title: "The first strikes of the mobilized with hundreds of arrests, ongoing rail war and other subvers"
 category: "technology-digital-justice"
 ---
 

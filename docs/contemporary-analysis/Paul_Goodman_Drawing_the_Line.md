@@ -1,5 +1,5 @@
 ---
-title: "## **Redrawing The Line: The Anarchist Writings of Paul Goodman**"
+title: "Redrawing The Line: The Anarchist Writings of Paul Goodman"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**comité invisible**"
+title: "comité invisible"
 category: "contemporary-analysis"
 ---
 

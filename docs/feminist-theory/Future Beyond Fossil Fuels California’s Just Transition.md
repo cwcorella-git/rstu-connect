@@ -1,5 +1,5 @@
 ---
-title: "## **Future Beyond Fossil Fuels: California's Just Transition**"
+title: "Future Beyond Fossil Fuels: California's Just Transition"
 category: "feminist-theory"
 ---
 

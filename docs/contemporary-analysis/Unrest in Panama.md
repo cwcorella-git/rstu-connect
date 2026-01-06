@@ -1,5 +1,5 @@
 ---
-title: "## **Unrest in Panama**"
+title: "Unrest in Panama"
 category: "contemporary-analysis"
 ---
 

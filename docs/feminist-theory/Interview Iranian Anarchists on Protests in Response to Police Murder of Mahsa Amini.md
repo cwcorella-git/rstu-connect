@@ -1,5 +1,5 @@
 ---
-title: "## **Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini**"
+title: "Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini"
 category: "feminist-theory"
 ---
 

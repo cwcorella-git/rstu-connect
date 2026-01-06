@@ -1,5 +1,5 @@
 ---
-title: "## **NYC-IWOC Stands in Solidarity with Standing Rock**"
+title: "NYC-IWOC Stands in Solidarity with Standing Rock"
 category: "environmental-justice"
 ---
 

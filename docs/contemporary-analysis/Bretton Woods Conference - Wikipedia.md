@@ -1,5 +1,5 @@
 ---
-title: "**Bretton Woods Conference**"
+title: "Bretton Woods Conference"
 category: "contemporary-analysis"
 ---
 

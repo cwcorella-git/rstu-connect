@@ -1,5 +1,5 @@
 ---
-title: "## **Anarchist Direct Actions: A Challenge for Law Enforcement**"
+title: "Anarchist Direct Actions: A Challenge for Law Enforcement"
 category: "contemporary-analysis"
 ---
 

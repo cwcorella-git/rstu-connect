@@ -1,5 +1,5 @@
 ---
-title: "**Eudaimonia**"
+title: "Eudaimonia"
 category: "technology-digital-justice"
 ---
 

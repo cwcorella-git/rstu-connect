@@ -1,5 +1,5 @@
 ---
-title: "## **Striking workers imprisoned in Iran**"
+title: "Striking workers imprisoned in Iran"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **SOS CEPI Sudoeste - School Community Struggles Against Oppression in Goiás**"
+title: "SOS CEPI Sudoeste - School Community Struggles Against Oppression in Goiás"
 category: "technology-digital-justice"
 ---
 

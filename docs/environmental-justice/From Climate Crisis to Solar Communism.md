@@ -1,5 +1,5 @@
 ---
-title: "## **From Climate Crisis to Solar Communism**"
+title: "From Climate Crisis to Solar Communism"
 category: "environmental-justice"
 ---
 

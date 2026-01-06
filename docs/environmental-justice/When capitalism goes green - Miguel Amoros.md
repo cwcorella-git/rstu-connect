@@ -1,5 +1,5 @@
 ---
-title: "## **When capitalism goes green - Miguel Amoros**"
+title: "When capitalism goes green - Miguel Amoros"
 category: "environmental-justice"
 ---
 

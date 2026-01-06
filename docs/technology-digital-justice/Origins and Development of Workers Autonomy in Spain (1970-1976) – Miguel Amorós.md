@@ -1,5 +1,5 @@
 ---
-title: "## **Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós**"
+title: "Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós"
 category: "technology-digital-justice"
 ---
 

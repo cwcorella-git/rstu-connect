@@ -1,5 +1,5 @@
 ---
-title: "## **The Thinking Aro**"
+title: "The Thinking Aro"
 category: "contemporary-analysis"
 ---
 

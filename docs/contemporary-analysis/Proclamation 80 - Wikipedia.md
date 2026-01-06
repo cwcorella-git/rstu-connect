@@ -1,5 +1,5 @@
 ---
-title: "**Proclamation 80**"
+title: "Proclamation 80"
 category: "contemporary-analysis"
 ---
 

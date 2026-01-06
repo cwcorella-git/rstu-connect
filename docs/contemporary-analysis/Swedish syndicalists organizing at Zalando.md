@@ -1,5 +1,5 @@
 ---
-title: "## **Swedish syndicalists organizing at Zalando**"
+title: "Swedish syndicalists organizing at Zalando"
 category: "contemporary-analysis"
 ---
 

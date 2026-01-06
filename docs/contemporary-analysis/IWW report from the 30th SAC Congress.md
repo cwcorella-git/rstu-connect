@@ -1,5 +1,5 @@
 ---
-title: "## **IWW report from the 30th SAC Congress**"
+title: "IWW report from the 30th SAC Congress"
 category: "contemporary-analysis"
 ---
 

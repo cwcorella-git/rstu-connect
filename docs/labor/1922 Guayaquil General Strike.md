@@ -1,5 +1,5 @@
 ---
-title: "## **1922: Guayaquil General Strike**"
+title: "1922: Guayaquil General Strike"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Workplace Heat: Guidance for Language School Workers**"
+title: "Workplace Heat: Guidance for Language School Workers"
 category: "arts-culture-music"
 ---
 

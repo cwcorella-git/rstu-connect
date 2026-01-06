@@ -1,5 +1,5 @@
 ---
-title: "## **On the political economy of women - Conference of Socialist Economists**"
+title: "On the political economy of women - Conference of Socialist Economists"
 category: "feminist-theory"
 ---
 

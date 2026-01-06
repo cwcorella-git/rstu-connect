@@ -1,5 +1,5 @@
 ---
-title: "## **Fascism's tightening grip in the So Cal desert**"
+title: "Fascism's tightening grip in the So Cal desert"
 category: "contemporary-analysis"
 ---
 

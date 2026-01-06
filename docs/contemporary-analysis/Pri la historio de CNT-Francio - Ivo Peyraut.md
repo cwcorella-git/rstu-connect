@@ -1,5 +1,5 @@
 ---
-title: "## **Pri la historio de CNT-Francio - Ivo Peyraut**"
+title: "Pri la historio de CNT-Francio - Ivo Peyraut"
 category: "contemporary-analysis"
 ---
 

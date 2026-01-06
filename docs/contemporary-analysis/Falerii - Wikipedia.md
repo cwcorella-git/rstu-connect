@@ -1,5 +1,5 @@
 ---
-title: "**Falerii**"
+title: "Falerii"
 category: "contemporary-analysis"
 ---
 

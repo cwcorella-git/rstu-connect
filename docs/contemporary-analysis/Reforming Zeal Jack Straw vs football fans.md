@@ -1,5 +1,5 @@
 ---
-title: "## **Reforming Zeal: Jack Straw vs football fans**"
+title: "Reforming Zeal: Jack Straw vs football fans"
 category: "contemporary-analysis"
 ---
 

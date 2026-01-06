@@ -1,5 +1,5 @@
 ---
-title: "## **Revolutionary syndicalism**"
+title: "Revolutionary syndicalism"
 category: "theory"
 ---
 

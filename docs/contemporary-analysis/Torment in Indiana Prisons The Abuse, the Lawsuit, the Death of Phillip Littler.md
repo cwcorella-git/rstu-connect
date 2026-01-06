@@ -1,5 +1,5 @@
 ---
-title: "## **Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip Littler**"
+title: "Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip Littler"
 category: "contemporary-analysis"
 ---
 

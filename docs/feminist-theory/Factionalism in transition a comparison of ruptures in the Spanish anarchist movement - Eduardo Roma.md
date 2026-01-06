@@ -1,5 +1,5 @@
 ---
-title: "**Factionalism in transition: a comparison of ruptures in the Spanish anarchist movement - Eduardo Romanos**"
+title: "Factionalism in transition: a comparison of ruptures in the Spanish anarchist movement - Eduardo Romanos"
 category: "feminist-theory"
 ---
 

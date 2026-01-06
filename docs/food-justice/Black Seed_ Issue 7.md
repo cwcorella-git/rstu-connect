@@ -1,5 +1,5 @@
 ---
-title: "**Various Authors**"
+title: "Various Authors"
 category: "food-justice"
 ---
 

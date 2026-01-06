@@ -1,5 +1,5 @@
 ---
-title: "## **The History of Anarchism and Syndicalism in Indonesia**"
+title: "The History of Anarchism and Syndicalism in Indonesia"
 category: "contemporary-analysis"
 ---
 

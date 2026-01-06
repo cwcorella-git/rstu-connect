@@ -1,5 +1,5 @@
 ---
-title: "## **Migrating tactics: An interview with Ewa Majewska and Katarzyna Rakowska**"
+title: "Migrating tactics: An interview with Ewa Majewska and Katarzyna Rakowska"
 category: "contemporary-analysis"
 ---
 

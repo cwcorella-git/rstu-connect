@@ -1,5 +1,5 @@
 ---
-title: "**James A. Garfield**"
+title: "James A. Garfield"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **[VIDEO] Power to End Capitalism: The Case for Workplace Organizing**"
+title: "[VIDEO] Power to End Capitalism: The Case for Workplace Organizing"
 category: "organizing"
 ---
 

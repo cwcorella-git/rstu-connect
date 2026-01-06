@@ -1,5 +1,5 @@
 ---
-title: "**A. Muhammad Ahmad 1968-1971: The League of Revolutionary Black Workers**"
+title: "A. Muhammad Ahmad 1968-1971: The League of Revolutionary Black Workers"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Anti-Fascism Beyond Machismo: Gender, Politics, and the Struggle Against Fascism**"
+title: "Anti-Fascism Beyond Machismo: Gender, Politics, and the Struggle Against Fascism"
 category: "feminist-theory"
 ---
 

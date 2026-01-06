@@ -1,5 +1,5 @@
 ---
-title: "## **Do treeplanters suffer from Stockholm syndrome?**"
+title: "Do treeplanters suffer from Stockholm syndrome?"
 category: "contemporary-analysis"
 ---
 

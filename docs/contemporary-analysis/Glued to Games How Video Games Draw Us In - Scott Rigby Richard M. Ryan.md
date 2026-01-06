@@ -1,5 +1,5 @@
 ---
-title: "**GLUED TO GAMES**"
+title: "GLUED TO GAMES"
 category: "contemporary-analysis"
 ---
 

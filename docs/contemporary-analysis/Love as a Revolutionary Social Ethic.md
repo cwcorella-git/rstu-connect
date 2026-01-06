@@ -1,5 +1,5 @@
 ---
-title: "**Punch Up \* Kick Down Distro Love as a Revolutionary Social Ethic**"
+title: "Punch Up * Kick Down Distro Love as a Revolutionary Social Ethic"
 category: "contemporary-analysis"
 ---
 

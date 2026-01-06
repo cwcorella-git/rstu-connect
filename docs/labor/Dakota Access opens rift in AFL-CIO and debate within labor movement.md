@@ -1,5 +1,5 @@
 ---
-title: "## **Dakota Access opens rift in AFL-CIO and debate within labor movement**"
+title: "Dakota Access opens rift in AFL-CIO and debate within labor movement"
 category: "labor"
 ---
 

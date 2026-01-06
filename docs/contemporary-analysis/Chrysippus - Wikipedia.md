@@ -1,5 +1,5 @@
 ---
-title: "**Chrysippus**"
+title: "Chrysippus"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**10 Perfect PC Games to Play for 5 Minutes at a Time**"
+title: "10 Perfect PC Games to Play for 5 Minutes at a Time"
 category: "theory"
 ---
 

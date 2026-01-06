@@ -1,5 +1,5 @@
 ---
-title: "## **James Herod A Stake, Not a Mistake On Not Seeing the Enemy October 2001**"
+title: "James Herod A Stake, Not a Mistake On Not Seeing the Enemy October 2001"
 category: "contemporary-analysis"
 ---
 

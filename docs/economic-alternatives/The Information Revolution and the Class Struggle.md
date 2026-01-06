@@ -1,5 +1,5 @@
 ---
-title: "**The Information Revolution and the Class Struggle**"
+title: "The Information Revolution and the Class Struggle"
 category: "economic-alternatives"
 ---
 

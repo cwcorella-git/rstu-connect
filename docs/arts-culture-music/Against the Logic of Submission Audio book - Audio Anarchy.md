@@ -1,5 +1,5 @@
 ---
-title: "## **Against the Logic of Submission Audio book - Audio Anarchy**"
+title: "Against the Logic of Submission Audio book - Audio Anarchy"
 category: "arts-culture-music"
 ---
 

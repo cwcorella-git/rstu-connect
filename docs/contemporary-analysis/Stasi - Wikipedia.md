@@ -1,5 +1,5 @@
 ---
-title: "**Stasi**"
+title: "Stasi"
 category: "contemporary-analysis"
 ---
 

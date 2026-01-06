@@ -1,5 +1,5 @@
 ---
-title: "## **Capital Blight: The Two Bums**"
+title: "Capital Blight: The Two Bums"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**There is no safety in being Beautiful: reflections from a life spent On Display (™)**"
+title: "There is no safety in being Beautiful: reflections from a life spent On Display (™)"
 category: "contemporary-analysis"
 ---
 

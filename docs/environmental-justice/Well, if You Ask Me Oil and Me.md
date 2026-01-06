@@ -1,5 +1,5 @@
 ---
-title: "## **Well, if You Ask Me: Oil and Me**"
+title: "Well, if You Ask Me: Oil and Me"
 category: "environmental-justice"
 ---
 

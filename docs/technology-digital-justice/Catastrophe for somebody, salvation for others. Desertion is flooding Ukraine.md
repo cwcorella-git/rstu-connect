@@ -1,5 +1,5 @@
 ---
-title: "## **Catastrophe for somebody, salvation for others. Desertion is flooding Ukraine**"
+title: "Catastrophe for somebody, salvation for others. Desertion is flooding Ukraine"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **A Wobbly contract - Luigi Rinaldi**"
+title: "A Wobbly contract - Luigi Rinaldi"
 category: "labor"
 ---
 

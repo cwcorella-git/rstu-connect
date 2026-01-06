@@ -1,5 +1,5 @@
 ---
-title: "## **Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation**"
+title: "Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation"
 category: "labor"
 ---
 

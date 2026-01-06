@@ -1,5 +1,5 @@
 ---
-title: "**Martin Glaberman The Working Class and Social Change**"
+title: "Martin Glaberman The Working Class and Social Change"
 category: "arts-culture-music"
 ---
 

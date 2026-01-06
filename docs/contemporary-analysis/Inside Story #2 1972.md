@@ -1,5 +1,5 @@
 ---
-title: "## **Inside Story #2 1972**"
+title: "Inside Story #2 1972"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Inspiring Fossil Fuel Resistance Action In Northeast Pennsylvania**"
+title: "Inspiring Fossil Fuel Resistance Action In Northeast Pennsylvania"
 category: "environmental-justice"
 ---
 

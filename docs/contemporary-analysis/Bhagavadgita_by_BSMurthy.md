@@ -1,5 +1,5 @@
 ---
-title: "**THE BHAGAVAD GITA**"
+title: "THE BHAGAVAD GITA"
 category: "contemporary-analysis"
 ---
 

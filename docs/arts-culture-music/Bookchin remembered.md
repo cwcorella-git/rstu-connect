@@ -1,5 +1,5 @@
 ---
-title: "## **Bookchin remembered**"
+title: "Bookchin remembered"
 category: "arts-culture-music"
 ---
 

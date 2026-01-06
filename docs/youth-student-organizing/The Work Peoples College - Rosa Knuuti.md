@@ -1,5 +1,5 @@
 ---
-title: "**The Work Peoples College - Rosa Knuuti**"
+title: "The Work Peoples College - Rosa Knuuti"
 category: "youth-student-organizing"
 ---
 

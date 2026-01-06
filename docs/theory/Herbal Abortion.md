@@ -1,5 +1,5 @@
 ---
-title: "**Herbal Abortion a woman's d.i.y. guide**"
+title: "Herbal Abortion a woman's d.i.y. guide"
 category: "theory"
 ---
 

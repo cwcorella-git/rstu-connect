@@ -1,5 +1,5 @@
 ---
-title: "**Richmond IWW May Day Platform**"
+title: "Richmond IWW May Day Platform"
 category: "labor"
 ---
 

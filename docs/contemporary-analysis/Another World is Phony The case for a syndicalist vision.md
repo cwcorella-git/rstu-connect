@@ -1,5 +1,5 @@
 ---
-title: "## **Another World is Phony? The case for a syndicalist vision**"
+title: "Another World is Phony? The case for a syndicalist vision"
 category: "contemporary-analysis"
 ---
 

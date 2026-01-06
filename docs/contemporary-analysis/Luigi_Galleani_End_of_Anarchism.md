@@ -1,5 +1,5 @@
 ---
-title: "**Chapter 1. The Interview with Merlino**"
+title: "Chapter 1. The Interview with Merlino"
 category: "contemporary-analysis"
 ---
 

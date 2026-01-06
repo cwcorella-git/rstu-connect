@@ -1,5 +1,5 @@
 ---
-title: "## **Sky Anarchy**"
+title: "Sky Anarchy"
 category: "contemporary-analysis"
 ---
 

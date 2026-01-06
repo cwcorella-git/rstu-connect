@@ -1,5 +1,5 @@
 ---
-title: "## **Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative Ocean Farmer**"
+title: "Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative Ocean Farmer"
 category: "arts-culture-music"
 ---
 

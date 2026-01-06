@@ -1,5 +1,5 @@
 ---
-title: "**What I Believe**"
+title: "What I Believe"
 category: "feminist-theory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Sylvia Rivera — Part 2**"
+title: "Sylvia Rivera — Part 2"
 category: "arts-culture-music"
 ---
 

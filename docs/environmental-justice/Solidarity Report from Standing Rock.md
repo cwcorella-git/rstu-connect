@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity Report from Standing Rock**"
+title: "Solidarity Report from Standing Rock"
 category: "environmental-justice"
 ---
 

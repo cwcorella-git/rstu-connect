@@ -1,5 +1,5 @@
 ---
-title: "## **Obituary of Class War - Radical Chains**"
+title: "Obituary of Class War - Radical Chains"
 category: "technology-digital-justice"
 ---
 

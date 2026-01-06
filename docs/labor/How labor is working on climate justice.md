@@ -1,5 +1,5 @@
 ---
-title: "## **How labor is working on climate justice**"
+title: "How labor is working on climate justice"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Delfin English teachers win contract improvements after joining IWW**"
+title: "Delfin English teachers win contract improvements after joining IWW"
 category: "youth-student-organizing"
 ---
 

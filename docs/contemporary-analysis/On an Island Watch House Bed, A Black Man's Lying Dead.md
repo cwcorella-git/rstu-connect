@@ -1,5 +1,5 @@
 ---
-title: "## **On an Island Watch House Bed, A Black Man's Lying Dead**"
+title: "On an Island Watch House Bed, A Black Man's Lying Dead"
 category: "contemporary-analysis"
 ---
 

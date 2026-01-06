@@ -1,5 +1,5 @@
 ---
-title: "## **Fuck Empires! Підтримуйте місцевий опір. (Fuck Empires! Support Local Resistance)**"
+title: "Fuck Empires! Підтримуйте місцевий опір. (Fuck Empires! Support Local Resistance)"
 category: "contemporary-analysis"
 ---
 

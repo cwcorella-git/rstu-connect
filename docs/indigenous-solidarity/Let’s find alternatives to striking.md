@@ -1,5 +1,5 @@
 ---
-title: "## **Let's find alternatives to striking**"
+title: "Let's find alternatives to striking"
 category: "indigenous-solidarity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Labor under Trump part 3: death of the labor movement?**"
+title: "Labor under Trump part 3: death of the labor movement?"
 category: "labor"
 ---
 

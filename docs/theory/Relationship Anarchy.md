@@ -1,5 +1,5 @@
 ---
-title: "**Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!**"
+title: "Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!"
 category: "theory"
 ---
 

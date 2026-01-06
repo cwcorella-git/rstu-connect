@@ -1,5 +1,5 @@
 ---
-title: "**We'll always have Paris: The tragedy of global climate politics**"
+title: "We'll always have Paris: The tragedy of global climate politics"
 category: "environmental-justice"
 ---
 

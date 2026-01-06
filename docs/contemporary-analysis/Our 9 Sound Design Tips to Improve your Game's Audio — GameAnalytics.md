@@ -1,5 +1,5 @@
 ---
-title: "**Our 9 Sound Design Tips to Improve your Game's Audio — Game Analytics**"
+title: "Our 9 Sound Design Tips to Improve your Game's Audio — Game Analytics"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Episode 40: Wisdom And Rationality/**"
+title: "Episode 40: Wisdom And Rationality/"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **"Give me my job back, say sorry, and don't do it again" – Interview with a worker sacked for be"
+title: "'Give me my job back, say sorry, and don't do it again' – Interview with a worker sacked for be"
 category: "technology-digital-justice"
 ---
 

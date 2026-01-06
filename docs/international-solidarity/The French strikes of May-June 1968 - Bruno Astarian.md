@@ -1,5 +1,5 @@
 ---
-title: "## **The French strikes of May-June 1968 - Bruno Astarian**"
+title: "The French strikes of May-June 1968 - Bruno Astarian"
 category: "international-solidarity"
 ---
 

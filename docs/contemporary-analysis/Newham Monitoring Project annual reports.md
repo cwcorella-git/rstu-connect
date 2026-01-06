@@ -1,5 +1,5 @@
 ---
-title: "## **Newham Monitoring Project annual reports**"
+title: "Newham Monitoring Project annual reports"
 category: "contemporary-analysis"
 ---
 

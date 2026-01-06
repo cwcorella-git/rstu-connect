@@ -1,5 +1,5 @@
 ---
-title: "**Paul Goodman**"
+title: "Paul Goodman"
 category: "arts-culture-music"
 ---
 

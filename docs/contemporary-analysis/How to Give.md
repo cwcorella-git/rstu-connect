@@ -1,5 +1,5 @@
 ---
-title: "## **How to Give:**"
+title: "How to Give:"
 category: "contemporary-analysis"
 ---
 

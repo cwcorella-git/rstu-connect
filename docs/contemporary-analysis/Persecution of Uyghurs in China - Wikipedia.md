@@ -1,5 +1,5 @@
 ---
-title: "**Persecution of Uyghurs in China**"
+title: "Persecution of Uyghurs in China"
 category: "contemporary-analysis"
 ---
 

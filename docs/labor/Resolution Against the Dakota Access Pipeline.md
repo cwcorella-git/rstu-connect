@@ -1,5 +1,5 @@
 ---
-title: "## **Resolution Against the Dakota Access Pipeline**"
+title: "Resolution Against the Dakota Access Pipeline"
 category: "labor"
 ---
 

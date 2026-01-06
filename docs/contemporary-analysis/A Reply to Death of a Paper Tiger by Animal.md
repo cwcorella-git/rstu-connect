@@ -1,5 +1,5 @@
 ---
-title: "## **A Reply to Death of a Paper Tiger by Animal**"
+title: "A Reply to Death of a Paper Tiger by Animal"
 category: "contemporary-analysis"
 ---
 

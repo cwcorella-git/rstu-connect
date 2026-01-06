@@ -1,5 +1,5 @@
 ---
-title: "**JAC Audio Interview: Slavoj Zizek All Tracks**"
+title: "JAC Audio Interview: Slavoj Zizek All Tracks"
 category: "technology-digital-justice"
 ---
 

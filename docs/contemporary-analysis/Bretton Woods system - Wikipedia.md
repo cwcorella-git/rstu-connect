@@ -1,5 +1,5 @@
 ---
-title: "**Bretton Woods system**"
+title: "Bretton Woods system"
 category: "contemporary-analysis"
 ---
 

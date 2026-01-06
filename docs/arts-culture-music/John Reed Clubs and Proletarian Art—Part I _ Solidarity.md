@@ -1,5 +1,5 @@
 ---
-title: "**John Reed Clubs and Proletarian Art—Part I**"
+title: "John Reed Clubs and Proletarian Art—Part I"
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Statement of Solidarity with Railroad Workers**"
+title: "Statement of Solidarity with Railroad Workers"
 category: "technology-digital-justice"
 ---
 

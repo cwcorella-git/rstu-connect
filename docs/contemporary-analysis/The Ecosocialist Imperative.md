@@ -1,5 +1,5 @@
 ---
-title: "## **The Ecosocialist Imperative**"
+title: "The Ecosocialist Imperative"
 category: "contemporary-analysis"
 ---
 

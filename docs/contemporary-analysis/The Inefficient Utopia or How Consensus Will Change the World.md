@@ -1,5 +1,5 @@
 ---
-title: "**The Inefficient Utopia or How Consensus Will Change the World**"
+title: "The Inefficient Utopia or How Consensus Will Change the World"
 category: "contemporary-analysis"
 ---
 

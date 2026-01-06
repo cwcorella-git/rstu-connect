@@ -1,5 +1,5 @@
 ---
-title: "## **Der Klasen Kampf**"
+title: "Der Klasen Kampf"
 category: "contemporary-analysis"
 ---
 

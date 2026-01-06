@@ -1,5 +1,5 @@
 ---
-title: "## **Death of a paper tiger: reflections on Class War**"
+title: "Death of a paper tiger: reflections on Class War"
 category: "anti-war-peace"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Nurses Condemn Attacks on Water Protectors Opposing the Dakota Access Pipeline Project**"
+title: "Nurses Condemn Attacks on Water Protectors Opposing the Dakota Access Pipeline Project"
 category: "labor"
 ---
 

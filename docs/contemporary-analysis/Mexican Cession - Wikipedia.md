@@ -1,5 +1,5 @@
 ---
-title: "**Mexican Cession**"
+title: "Mexican Cession"
 category: "contemporary-analysis"
 ---
 

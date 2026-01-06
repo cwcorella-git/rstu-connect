@@ -1,5 +1,5 @@
 ---
-title: "## **How West Virginia teachers defied the state—and their unions**"
+title: "How West Virginia teachers defied the state—and their unions"
 category: "labor"
 ---
 

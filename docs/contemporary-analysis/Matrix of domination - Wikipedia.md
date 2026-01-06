@@ -1,5 +1,5 @@
 ---
-title: "**Matrix of domination**"
+title: "Matrix of domination"
 category: "contemporary-analysis"
 ---
 

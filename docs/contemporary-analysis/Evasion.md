@@ -1,5 +1,5 @@
 ---
-title: "**Anonymous**"
+title: "Anonymous"
 category: "contemporary-analysis"
 ---
 

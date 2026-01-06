@@ -1,5 +1,5 @@
 ---
-title: "## **One organizer's perspective on what drew them to the General Defense Committee**"
+title: "One organizer's perspective on what drew them to the General Defense Committee"
 category: "organizing"
 ---
 

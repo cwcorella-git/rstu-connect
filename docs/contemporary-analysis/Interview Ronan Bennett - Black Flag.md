@@ -1,5 +1,5 @@
 ---
-title: "## **Interview: Ronan Bennett - Black Flag**"
+title: "Interview: Ronan Bennett - Black Flag"
 category: "contemporary-analysis"
 ---
 

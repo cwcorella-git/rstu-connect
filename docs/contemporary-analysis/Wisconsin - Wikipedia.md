@@ -1,5 +1,5 @@
 ---
-title: "**Wisconsin**"
+title: "Wisconsin"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Interview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker**"
+title: "Interview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker"
 category: "labor"
 ---
 

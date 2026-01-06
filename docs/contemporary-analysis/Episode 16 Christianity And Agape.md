@@ -1,5 +1,5 @@
 ---
-title: "## **Episode 16: Christianity And Agape/**"
+title: "Episode 16: Christianity And Agape/"
 category: "contemporary-analysis"
 ---
 

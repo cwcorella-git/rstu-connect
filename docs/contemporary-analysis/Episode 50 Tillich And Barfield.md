@@ -1,5 +1,5 @@
 ---
-title: "**Episode 50: Tillich And Barfield/**"
+title: "Episode 50: Tillich And Barfield/"
 category: "contemporary-analysis"
 ---
 

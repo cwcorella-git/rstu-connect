@@ -1,5 +1,5 @@
 ---
-title: "## **Report on the 2018 IWW Organising Summit**"
+title: "Report on the 2018 IWW Organising Summit"
 category: "contemporary-analysis"
 ---
 

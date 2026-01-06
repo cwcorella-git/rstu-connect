@@ -1,5 +1,5 @@
 ---
-title: "**Pëtr Kropotkin Law and Authority 1886**"
+title: "Pëtr Kropotkin Law and Authority 1886"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Ken Robinson (educationalist)**"
+title: "Ken Robinson (educationalist)"
 category: "youth-student-organizing"
 ---
 

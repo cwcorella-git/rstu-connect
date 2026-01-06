@@ -1,5 +1,5 @@
 ---
-title: "**Bookchin**"
+title: "Bookchin"
 category: "arts-culture-music"
 ---
 

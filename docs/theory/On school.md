@@ -1,5 +1,5 @@
 ---
-title: "## **On school**"
+title: "On school"
 category: "theory"
 ---
 

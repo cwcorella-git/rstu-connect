@@ -1,5 +1,5 @@
 ---
-title: "**Municipalism**"
+title: "Municipalism"
 category: "contemporary-analysis"
 ---
 

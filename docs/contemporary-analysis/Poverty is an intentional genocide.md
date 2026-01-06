@@ -1,5 +1,5 @@
 ---
-title: "## **Poverty is an intentional genocide.**"
+title: "Poverty is an intentional genocide."
 category: "contemporary-analysis"
 ---
 

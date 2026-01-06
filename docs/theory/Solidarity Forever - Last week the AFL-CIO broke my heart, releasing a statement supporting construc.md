@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a statement supporting co"
+title: "Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a statement supporting co"
 category: "theory"
 ---
 

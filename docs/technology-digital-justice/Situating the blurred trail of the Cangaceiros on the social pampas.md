@@ -1,5 +1,5 @@
 ---
-title: "## **Situating "the blurred trail of the Cangaceiros on the social pampas"**"
+title: "Situating \"the blurred trail of the Cangaceiros on the social pampas\""
 category: "technology-digital-justice"
 ---
 

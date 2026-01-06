@@ -1,5 +1,5 @@
 ---
-title: "**Cheap moving parallax cloud shader for Godot - Victor Karp**"
+title: "Cheap moving parallax cloud shader for Godot - Victor Karp"
 category: "contemporary-analysis"
 ---
 

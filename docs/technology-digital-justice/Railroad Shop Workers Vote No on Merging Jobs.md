@@ -1,5 +1,5 @@
 ---
-title: "**Railroad Shop Workers Vote No on Merging Jobs**"
+title: "Railroad Shop Workers Vote No on Merging Jobs"
 category: "technology-digital-justice"
 ---
 

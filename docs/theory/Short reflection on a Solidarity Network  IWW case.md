@@ -1,5 +1,5 @@
 ---
-title: "## **Short reflection on a Solidarity Network / IWW case**"
+title: "Short reflection on a Solidarity Network / IWW case"
 category: "theory"
 ---
 

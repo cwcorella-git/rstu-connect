@@ -1,5 +1,5 @@
 ---
-title: "## **Direct Action in the Motor City: Restaurant Workers Fight Back**"
+title: "Direct Action in the Motor City: Restaurant Workers Fight Back"
 category: "contemporary-analysis"
 ---
 

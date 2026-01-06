@@ -1,5 +1,5 @@
 ---
-title: "## **Talking Shop: Burning Up**"
+title: "Talking Shop: Burning Up"
 category: "contemporary-analysis"
 ---
 

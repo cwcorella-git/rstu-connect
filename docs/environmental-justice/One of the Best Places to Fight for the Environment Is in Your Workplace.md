@@ -1,5 +1,5 @@
 ---
-title: "## **One of the Best Places to Fight for the Environment Is in Your Workplace**"
+title: "One of the Best Places to Fight for the Environment Is in Your Workplace"
 category: "environmental-justice"
 ---
 

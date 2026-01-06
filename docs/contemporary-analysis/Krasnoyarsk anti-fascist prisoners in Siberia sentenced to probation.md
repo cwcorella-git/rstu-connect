@@ -1,5 +1,5 @@
 ---
-title: "## **Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation**"
+title: "Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation"
 category: "contemporary-analysis"
 ---
 

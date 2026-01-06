@@ -1,5 +1,5 @@
 ---
-title: "## **Your Wars! Our Dead! "Sir! No Sir!"**"
+title: "Your Wars! Our Dead! 'Sir! No Sir!'"
 category: "anti-war-peace"
 ---
 

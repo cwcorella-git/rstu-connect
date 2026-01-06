@@ -1,5 +1,5 @@
 ---
-title: "**Empathy**"
+title: "Empathy"
 category: "contemporary-analysis"
 ---
 

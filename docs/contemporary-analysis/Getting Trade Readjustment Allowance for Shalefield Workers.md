@@ -1,5 +1,5 @@
 ---
-title: "## **Getting Trade Readjustment Allowance for Shalefield Workers**"
+title: "Getting Trade Readjustment Allowance for Shalefield Workers"
 category: "contemporary-analysis"
 ---
 

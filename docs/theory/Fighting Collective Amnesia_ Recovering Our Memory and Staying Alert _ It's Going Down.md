@@ -1,5 +1,5 @@
 ---
-title: "**Fighting Collective Amnesia: Recovering Our Memory and Staying Alert**"
+title: "Fighting Collective Amnesia: Recovering Our Memory and Staying Alert"
 category: "theory"
 ---
 

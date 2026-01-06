@@ -1,5 +1,5 @@
 ---
-title: "**Identity crisis: Leftist anti-wokeness is bullshit**"
+title: "Identity crisis: Leftist anti-wokeness is bullshit"
 category: "contemporary-analysis"
 ---
 

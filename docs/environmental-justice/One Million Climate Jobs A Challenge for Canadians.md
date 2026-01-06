@@ -1,5 +1,5 @@
 ---
-title: "## **One Million Climate Jobs: A Challenge for Canadians**"
+title: "One Million Climate Jobs: A Challenge for Canadians"
 category: "environmental-justice"
 ---
 

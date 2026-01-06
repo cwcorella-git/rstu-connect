@@ -1,5 +1,5 @@
 ---
-title: "## **1919-21: Trinidadian General Strike**"
+title: "1919-21: Trinidadian General Strike"
 category: "labor"
 ---
 

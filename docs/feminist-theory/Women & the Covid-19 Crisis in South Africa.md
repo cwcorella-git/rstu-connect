@@ -1,5 +1,5 @@
 ---
-title: "## **Women & the Covid-19 Crisis in South Africa**"
+title: "Women & the Covid-19 Crisis in South Africa"
 category: "feminist-theory"
 ---
 

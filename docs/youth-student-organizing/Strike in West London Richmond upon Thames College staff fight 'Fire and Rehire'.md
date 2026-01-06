@@ -1,5 +1,5 @@
 ---
-title: "## **Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'**"
+title: "Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'"
 category: "youth-student-organizing"
 ---
 

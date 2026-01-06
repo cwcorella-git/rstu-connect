@@ -1,5 +1,5 @@
 ---
-title: "**Fascism**"
+title: "Fascism"
 category: "contemporary-analysis"
 ---
 

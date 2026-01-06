@@ -1,5 +1,5 @@
 ---
-title: "## **The post-war strike wave in East, West, and Southern Africa**"
+title: "The post-war strike wave in East, West, and Southern Africa"
 category: "international-solidarity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Left Luggage: AFA on the conservative left**"
+title: "Left Luggage: AFA on the conservative left"
 category: "contemporary-analysis"
 ---
 

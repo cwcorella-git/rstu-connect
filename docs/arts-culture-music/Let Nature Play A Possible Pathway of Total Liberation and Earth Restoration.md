@@ -1,5 +1,5 @@
 ---
-title: "## **Let Nature Play: A Possible Pathway of Total Liberation and Earth Restoration**"
+title: "Let Nature Play: A Possible Pathway of Total Liberation and Earth Restoration"
 category: "arts-culture-music"
 ---
 

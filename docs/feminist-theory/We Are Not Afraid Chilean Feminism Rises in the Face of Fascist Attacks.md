@@ -1,5 +1,5 @@
 ---
-title: "## **We Are Not Afraid: Chilean Feminism Rises in the Face of Fascist Attacks**"
+title: "We Are Not Afraid: Chilean Feminism Rises in the Face of Fascist Attacks"
 category: "feminist-theory"
 ---
 

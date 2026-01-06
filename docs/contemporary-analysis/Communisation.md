@@ -1,5 +1,5 @@
 ---
-title: "**Gilles Dauvé**"
+title: "Gilles Dauvé"
 category: "contemporary-analysis"
 ---
 

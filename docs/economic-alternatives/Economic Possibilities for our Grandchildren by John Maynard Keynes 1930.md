@@ -1,5 +1,5 @@
 ---
-title: "## **John Maynard Keynes 1930**"
+title: "John Maynard Keynes 1930"
 category: "economic-alternatives"
 ---
 

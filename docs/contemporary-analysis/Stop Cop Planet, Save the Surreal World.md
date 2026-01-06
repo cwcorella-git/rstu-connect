@@ -1,5 +1,5 @@
 ---
-title: "**Stop Cop Planet, Save the Surreal World**"
+title: "Stop Cop Planet, Save the Surreal World"
 category: "contemporary-analysis"
 ---
 

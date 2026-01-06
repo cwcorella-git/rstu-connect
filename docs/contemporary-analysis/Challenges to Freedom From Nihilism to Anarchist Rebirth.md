@@ -1,5 +1,5 @@
 ---
-title: "## **Challenges to Freedom: From Nihilism to Anarchist Rebirth**"
+title: "Challenges to Freedom: From Nihilism to Anarchist Rebirth"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "**50** **CHAPTER IV.** D B G D I. $\mathbf{C}$ 73 C D II. D W 83 CHAPTER V."
+title: "Principles of Decorative Design"
+author: "Christopher Dresser"
 category: "contemporary-analysis"
 ---
 

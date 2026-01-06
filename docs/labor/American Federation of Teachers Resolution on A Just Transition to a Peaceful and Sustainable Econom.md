@@ -1,5 +1,5 @@
 ---
-title: "## **American Federation of Teachers Resolution on A Just Transition to a Peaceful and Sustainable E"
+title: "American Federation of Teachers Resolution on A Just Transition to a Peaceful and Sustainable E"
 category: "labor"
 ---
 

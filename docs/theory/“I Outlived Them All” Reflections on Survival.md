@@ -1,5 +1,5 @@
 ---
-title: "## **"I Outlived Them All": Reflections on Survival**"
+title: "'I Outlived Them All': Reflections on Survival"
 category: "theory"
 ---
 

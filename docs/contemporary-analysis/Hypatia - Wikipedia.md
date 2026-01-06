@@ -1,5 +1,5 @@
 ---
-title: "**Hypatia**"
+title: "Hypatia"
 category: "contemporary-analysis"
 ---
 

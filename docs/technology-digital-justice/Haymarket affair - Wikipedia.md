@@ -1,5 +1,5 @@
 ---
-title: "**Haymarket affair**"
+title: "Haymarket affair"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Red dwarf**"
+title: "Red dwarf"
 category: "anti-war-peace"
 ---
 

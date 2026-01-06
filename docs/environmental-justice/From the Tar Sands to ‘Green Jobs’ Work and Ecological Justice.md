@@ -1,5 +1,5 @@
 ---
-title: "**From the Tar Sands to 'Green Jobs'? Work and Ecological Justice**"
+title: "From the Tar Sands to 'Green Jobs'? Work and Ecological Justice"
 category: "environmental-justice"
 ---
 

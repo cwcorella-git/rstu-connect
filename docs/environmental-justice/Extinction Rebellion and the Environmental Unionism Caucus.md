@@ -1,5 +1,5 @@
 ---
-title: "## **Extinction Rebellion and the Environmental Unionism Caucus**"
+title: "Extinction Rebellion and the Environmental Unionism Caucus"
 category: "environmental-justice"
 ---
 

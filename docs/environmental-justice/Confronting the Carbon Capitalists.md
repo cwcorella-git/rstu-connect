@@ -1,5 +1,5 @@
 ---
-title: "## **Confronting the Carbon Capitalists**"
+title: "Confronting the Carbon Capitalists"
 category: "environmental-justice"
 ---
 

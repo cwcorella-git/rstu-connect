@@ -1,5 +1,5 @@
 ---
-title: "**Adams–Onís Treaty**"
+title: "Adams–Onís Treaty"
 category: "theory"
 ---
 

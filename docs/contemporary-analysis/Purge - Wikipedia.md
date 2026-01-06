@@ -1,5 +1,5 @@
 ---
-title: "**Purge**"
+title: "Purge"
 category: "contemporary-analysis"
 ---
 

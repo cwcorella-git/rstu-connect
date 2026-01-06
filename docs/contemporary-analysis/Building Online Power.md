@@ -1,5 +1,5 @@
 ---
-title: "**Cayden Mak**"
+title: "Cayden Mak"
 category: "contemporary-analysis"
 ---
 

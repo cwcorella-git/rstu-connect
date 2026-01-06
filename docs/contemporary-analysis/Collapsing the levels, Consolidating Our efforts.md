@@ -1,5 +1,5 @@
 ---
-title: "**Collapsing the levels, Consolidating Our efforts**"
+title: "Collapsing the levels, Consolidating Our efforts"
 category: "contemporary-analysis"
 ---
 

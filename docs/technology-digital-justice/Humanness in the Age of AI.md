@@ -1,5 +1,5 @@
 ---
-title: "Accept All Reject Settings no longer be effective discriminators it for interactions exclusively with ent. Similar to how users can filter e.g. "Following" and "For You" nt or accounts that have been bles the implementation of e spread of inauthentic information, or not. This can also help ing bots."
+title: "Accept All Reject Settings no longer be effective discriminators it for interactions exclusively with ent. Similar to how users can filter e.g. \"Following\" and \"For You\" nt or accounts that have been "
 category: "technology-digital-justice"
 ---
 

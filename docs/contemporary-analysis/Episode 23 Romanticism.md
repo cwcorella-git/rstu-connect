@@ -1,5 +1,5 @@
 ---
-title: "**Episode 23: Romanticism/**"
+title: "Episode 23: Romanticism/"
 category: "contemporary-analysis"
 ---
 

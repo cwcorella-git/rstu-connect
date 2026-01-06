@@ -1,5 +1,5 @@
 ---
-title: "## **Reflections on Revolutionary Defeatism — "Lefty" Hooligan**"
+title: "Reflections on Revolutionary Defeatism — \"Lefty\" Hooligan"
 category: "contemporary-analysis"
 ---
 

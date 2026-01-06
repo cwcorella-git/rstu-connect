@@ -1,5 +1,5 @@
 ---
-title: "## **Militant anarchism and the reality in Spain - Federica Montseny**"
+title: "Militant anarchism and the reality in Spain - Federica Montseny"
 category: "feminist-theory"
 ---
 

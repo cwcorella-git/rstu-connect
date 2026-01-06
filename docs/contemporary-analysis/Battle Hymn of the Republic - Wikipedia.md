@@ -1,5 +1,5 @@
 ---
-title: "**Battle Hymn of the Republic**"
+title: "Battle Hymn of the Republic"
 category: "contemporary-analysis"
 ---
 

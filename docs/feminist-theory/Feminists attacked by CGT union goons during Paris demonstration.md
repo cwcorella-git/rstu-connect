@@ -1,5 +1,5 @@
 ---
-title: "## **Feminists attacked by CGT union goons during Paris demonstration**"
+title: "Feminists attacked by CGT union goons during Paris demonstration"
 category: "feminist-theory"
 ---
 

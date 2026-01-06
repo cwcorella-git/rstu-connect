@@ -1,5 +1,5 @@
 ---
-title: "## **Just Transition and Extractive Industry Workers**"
+title: "Just Transition and Extractive Industry Workers"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Prisoners - Black Flag**"
+title: "Prisoners - Black Flag"
 category: "contemporary-analysis"
 ---
 

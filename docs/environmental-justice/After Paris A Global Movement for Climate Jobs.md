@@ -1,5 +1,5 @@
 ---
-title: "## **After Paris: A Global Movement for Climate Jobs**"
+title: "After Paris: A Global Movement for Climate Jobs"
 category: "environmental-justice"
 ---
 

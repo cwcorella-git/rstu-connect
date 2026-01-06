@@ -1,5 +1,5 @@
 ---
-title: "## **Capitalist Saboteurs**"
+title: "Capitalist Saboteurs"
 category: "contemporary-analysis"
 ---
 

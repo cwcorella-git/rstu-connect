@@ -1,5 +1,5 @@
 ---
-title: "## **Pëtr Kropotkin**"
+title: "Pëtr Kropotkin"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Exploring the Intersection of Anarchism and Buddhist Ontology**"
+title: "Exploring the Intersection of Anarchism and Buddhist Ontology"
 category: "contemporary-analysis"
 ---
 

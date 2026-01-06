@@ -1,5 +1,5 @@
 ---
-title: "**Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review**"
+title: "Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review"
 category: "contemporary-analysis"
 ---
 

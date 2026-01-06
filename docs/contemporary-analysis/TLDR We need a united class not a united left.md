@@ -1,5 +1,5 @@
 ---
-title: "## **TLDR: We need a united class not a united left**"
+title: "TLDR: We need a united class not a united left"
 category: "contemporary-analysis"
 ---
 

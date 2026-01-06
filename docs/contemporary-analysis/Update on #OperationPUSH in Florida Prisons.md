@@ -1,5 +1,5 @@
 ---
-title: "## **Update on #OperationPUSH in Florida Prisons**"
+title: "Update on #OperationPUSH in Florida Prisons"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **History of a workers' revolution in Catalonia - Raymond S. Solomon**"
+title: "History of a workers' revolution in Catalonia - Raymond S. Solomon"
 category: "contemporary-analysis"
 ---
 

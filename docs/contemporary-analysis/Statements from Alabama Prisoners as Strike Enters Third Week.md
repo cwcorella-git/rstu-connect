@@ -1,5 +1,5 @@
 ---
-title: "## **Statements from Alabama Prisoners as Strike Enters Third Week**"
+title: "Statements from Alabama Prisoners as Strike Enters Third Week"
 category: "contemporary-analysis"
 ---
 

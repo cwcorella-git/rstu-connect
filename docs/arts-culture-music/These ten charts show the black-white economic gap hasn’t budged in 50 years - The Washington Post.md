@@ -1,5 +1,5 @@
 ---
-title: "**These ten charts show the blackwhite economic gap hasn't budged in 50 years**"
+title: "These ten charts show the blackwhite economic gap hasn't budged in 50 years"
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Mexican–American War**"
+title: "Mexican–American War"
 category: "anti-war-peace"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Municipalization: Community Ownership of the Economy**"
+title: "Municipalization: Community Ownership of the Economy"
 category: "economic-alternatives"
 ---
 

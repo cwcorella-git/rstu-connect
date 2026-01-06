@@ -1,5 +1,5 @@
 ---
-title: "## **May Day and Immigrant Workers**"
+title: "May Day and Immigrant Workers"
 category: "labor"
 ---
 

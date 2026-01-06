@@ -1,5 +1,5 @@
 ---
-title: "**Khmer Rouge**"
+title: "Khmer Rouge"
 category: "contemporary-analysis"
 ---
 

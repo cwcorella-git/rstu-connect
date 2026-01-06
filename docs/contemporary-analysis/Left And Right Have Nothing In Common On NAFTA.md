@@ -1,5 +1,5 @@
 ---
-title: "## **Left And Right Have Nothing In Common On NAFTA**"
+title: "Left And Right Have Nothing In Common On NAFTA"
 category: "contemporary-analysis"
 ---
 

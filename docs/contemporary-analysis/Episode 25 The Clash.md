@@ -1,5 +1,5 @@
 ---
-title: "**Episode 25: The Clash/**"
+title: "Episode 25: The Clash/"
 category: "contemporary-analysis"
 ---
 

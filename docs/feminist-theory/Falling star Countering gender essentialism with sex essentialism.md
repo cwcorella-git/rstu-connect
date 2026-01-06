@@ -1,5 +1,5 @@
 ---
-title: "## **Falling star: Countering gender essentialism with sex essentialism**"
+title: "Falling star: Countering gender essentialism with sex essentialism"
 category: "feminist-theory"
 ---
 

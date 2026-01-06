@@ -1,5 +1,5 @@
 ---
-title: "**Monaco**"
+title: "Monaco"
 category: "contemporary-analysis"
 ---
 

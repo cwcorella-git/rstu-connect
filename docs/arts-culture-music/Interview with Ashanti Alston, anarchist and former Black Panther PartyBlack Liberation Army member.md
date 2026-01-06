@@ -1,5 +1,5 @@
 ---
-title: "## **Interview with Ashanti Alston, anarchist and former Black Panther Party/Black Liberation Army m"
+title: "Interview with Ashanti Alston, anarchist and former Black Panther Party/Black Liberation Army m"
 category: "arts-culture-music"
 ---
 

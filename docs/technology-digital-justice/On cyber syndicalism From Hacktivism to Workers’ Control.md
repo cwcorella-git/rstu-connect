@@ -1,5 +1,5 @@
 ---
-title: "## **On cyber syndicalism: From Hacktivism to Workers' Control**"
+title: "On cyber syndicalism: From Hacktivism to Workers' Control"
 category: "technology-digital-justice"
 ---
 

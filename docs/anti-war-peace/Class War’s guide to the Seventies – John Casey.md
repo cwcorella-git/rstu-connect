@@ -1,5 +1,5 @@
 ---
-title: "## **Class War's guide to the Seventies – John Casey**"
+title: "Class War's guide to the Seventies – John Casey"
 category: "anti-war-peace"
 ---
 

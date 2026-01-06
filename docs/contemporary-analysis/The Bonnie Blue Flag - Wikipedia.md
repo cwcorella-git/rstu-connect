@@ -1,5 +1,5 @@
 ---
-title: "**The Bonnie Blue Flag**"
+title: "The Bonnie Blue Flag"
 category: "contemporary-analysis"
 ---
 

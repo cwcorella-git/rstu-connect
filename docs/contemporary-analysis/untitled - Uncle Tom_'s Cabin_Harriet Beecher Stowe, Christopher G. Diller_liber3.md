@@ -1,5 +1,5 @@
 ---
-title: "**UNCLE TOM'S CABIN**"
+title: "UNCLE TOM'S CABIN"
 category: "contemporary-analysis"
 ---
 

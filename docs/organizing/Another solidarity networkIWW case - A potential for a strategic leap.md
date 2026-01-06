@@ -1,5 +1,5 @@
 ---
-title: "## **Another solidarity network/IWW case - A potential for a strategic leap**"
+title: "Another solidarity network/IWW case - A potential for a strategic leap"
 category: "organizing"
 ---
 

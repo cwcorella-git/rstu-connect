@@ -1,5 +1,5 @@
 ---
-title: "## **Gender egalitarianism made us human: A response to David Graeber & David Wengrow's 'How to chan"
+title: "Gender egalitarianism made us human: A response to David Graeber & David Wengrow's 'How to chan"
 category: "feminist-theory"
 ---
 

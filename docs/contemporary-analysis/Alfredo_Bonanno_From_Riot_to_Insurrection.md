@@ -1,5 +1,5 @@
 ---
-title: "**From Riot to Insurrection**"
+title: "From Riot to Insurrection"
 category: "contemporary-analysis"
 ---
 

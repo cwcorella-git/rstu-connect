@@ -1,5 +1,5 @@
 ---
-title: "**Sadie and Exile, Esoteric Fascism, and Olympia's Little White Lies**"
+title: "Sadie and Exile, Esoteric Fascism, and Olympia's Little White Lies"
 category: "contemporary-analysis"
 ---
 

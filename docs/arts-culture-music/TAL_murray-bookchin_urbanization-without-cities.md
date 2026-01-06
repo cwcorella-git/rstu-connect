@@ -1,5 +1,5 @@
 ---
-title: "**Chapter Seven: The Social Ecology of Urbanization**"
+title: "Chapter Seven: The Social Ecology of Urbanization"
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Albert Parsons**"
+title: "Albert Parsons"
 category: "labor"
 ---
 

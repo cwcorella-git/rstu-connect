@@ -1,5 +1,5 @@
 ---
-title: "**[News](https://www.theguardian.com/) [Opinion](https://www.theguardian.com/commentisfree) [Sport](https://www.theguardian.com/sport) [Culture](https://www.theguardian.com/culture) [Lifestyle](https://www.theguardian.com/lifeandstyle)**"
+title: "News Opinion Sport Culture Lifestyle"
 category: "contemporary-analysis"
 ---
 

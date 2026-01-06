@@ -1,5 +1,5 @@
 ---
-title: "**Punch Up \* Kick Down Distro How We Handle Harm**"
+title: "Punch Up * Kick Down Distro How We Handle Harm"
 category: "contemporary-analysis"
 ---
 

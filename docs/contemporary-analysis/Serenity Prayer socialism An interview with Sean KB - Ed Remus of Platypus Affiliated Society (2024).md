@@ -1,5 +1,5 @@
 ---
-title: "## **Serenity Prayer socialism: An interview with Sean KB - Ed Remus of Platypus Affiliated Society "
+title: "Serenity Prayer socialism: An interview with Sean KB - Ed Remus of Platypus Affiliated Society"
 category: "contemporary-analysis"
 ---
 

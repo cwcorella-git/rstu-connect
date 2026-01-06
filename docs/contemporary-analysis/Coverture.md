@@ -1,5 +1,5 @@
 ---
-title: "**Coverture**"
+title: "Coverture"
 category: "contemporary-analysis"
 ---
 

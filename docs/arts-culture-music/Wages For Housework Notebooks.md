@@ -1,5 +1,5 @@
 ---
-title: "## **Wages For Housework Notebooks**"
+title: "Wages For Housework Notebooks"
 category: "arts-culture-music"
 ---
 

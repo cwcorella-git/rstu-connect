@@ -1,5 +1,5 @@
 ---
-title: "**Contents**"
+title: "Contents"
 category: "contemporary-analysis"
 ---
 

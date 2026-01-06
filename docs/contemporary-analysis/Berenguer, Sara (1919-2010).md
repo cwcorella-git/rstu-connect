@@ -1,5 +1,5 @@
 ---
-title: "## **Berenguer, Sara (1919-2010)**"
+title: "Berenguer, Sara (1919-2010)"
 category: "contemporary-analysis"
 ---
 

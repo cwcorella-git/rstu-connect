@@ -1,5 +1,5 @@
 ---
-title: "## **Review - A Planet to Win:Why We Need a Green New Deal**"
+title: "Review - A Planet to Win:Why We Need a Green New Deal"
 category: "environmental-justice"
 ---
 

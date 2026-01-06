@@ -1,5 +1,5 @@
 ---
-title: "**COVID-19 pandemic**"
+title: "COVID-19 pandemic"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Metaxism**"
+title: "Metaxism"
 category: "contemporary-analysis"
 ---
 

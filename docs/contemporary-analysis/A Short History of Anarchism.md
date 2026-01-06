@@ -1,5 +1,5 @@
 ---
-title: "**A Short History of Anarchism**"
+title: "A Short History of Anarchism"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **#Shut ItDown: Organizing to Strike for Climate Justice**"
+title: "#Shut ItDown: Organizing to Strike for Climate Justice"
 category: "environmental-justice"
 ---
 

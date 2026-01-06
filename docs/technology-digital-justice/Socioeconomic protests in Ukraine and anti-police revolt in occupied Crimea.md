@@ -1,5 +1,5 @@
 ---
-title: "## **Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea**"
+title: "Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea"
 category: "technology-digital-justice"
 ---
 

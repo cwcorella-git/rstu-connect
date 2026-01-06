@@ -1,5 +1,5 @@
 ---
-title: "**Fragments of anarchism in higher education critical art pedagogies**"
+title: "Fragments of anarchism in higher education critical art pedagogies"
 category: "arts-culture-music"
 ---
 

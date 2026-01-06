@@ -1,5 +1,5 @@
 ---
-title: "## **Over and Over, the Government's own witnesses prove that Harding and Labrie weren't the cause o"
+title: "Over and Over, the Government's own witnesses prove that Harding and Labrie weren't the cause o"
 category: "contemporary-analysis"
 ---
 

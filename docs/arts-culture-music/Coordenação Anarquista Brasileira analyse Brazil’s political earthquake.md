@@ -1,5 +1,5 @@
 ---
-title: "## **Coordenação Anarquista Brasileira analyse Brazil's political earthquake**"
+title: "Coordenação Anarquista Brasileira analyse Brazil's political earthquake"
 category: "arts-culture-music"
 ---
 

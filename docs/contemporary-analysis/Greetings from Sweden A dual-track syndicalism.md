@@ -1,5 +1,5 @@
 ---
-title: "## **Greetings from Sweden: A dual-track syndicalism?**"
+title: "Greetings from Sweden: A dual-track syndicalism?"
 category: "contemporary-analysis"
 ---
 

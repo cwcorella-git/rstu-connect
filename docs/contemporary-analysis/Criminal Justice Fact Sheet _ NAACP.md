@@ -1,5 +1,5 @@
 ---
-title: "**Criminal Justice Fact Sheet**"
+title: "Criminal Justice Fact Sheet"
 category: "contemporary-analysis"
 ---
 

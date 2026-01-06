@@ -1,5 +1,5 @@
 ---
-title: "**Defend and Transform: Mobilizing Workers for Climate Justice**"
+title: "Defend and Transform: Mobilizing Workers for Climate Justice"
 category: "feminist-theory"
 ---
 

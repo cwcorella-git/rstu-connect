@@ -1,5 +1,5 @@
 ---
-title: "**Writing your first novel, Part 1 – Patricia C. Wrede**"
+title: "Writing your first novel, Part 1 – Patricia C. Wrede"
 category: "arts-culture-music"
 ---
 

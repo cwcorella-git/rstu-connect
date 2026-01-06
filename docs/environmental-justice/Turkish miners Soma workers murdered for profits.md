@@ -1,5 +1,5 @@
 ---
-title: "## **Turkish miners: Soma workers murdered for profits**"
+title: "Turkish miners: Soma workers murdered for profits"
 category: "environmental-justice"
 ---
 

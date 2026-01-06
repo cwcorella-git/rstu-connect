@@ -1,5 +1,5 @@
 ---
-title: "## **Jailed for anti-war rally announcement. The case of Javid Mamedov**"
+title: "Jailed for anti-war rally announcement. The case of Javid Mamedov"
 category: "technology-digital-justice"
 ---
 

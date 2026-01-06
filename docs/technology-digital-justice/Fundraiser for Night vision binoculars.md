@@ -1,5 +1,5 @@
 ---
-title: "## **Fundraiser for Night vision binoculars**"
+title: "Fundraiser for Night vision binoculars"
 category: "technology-digital-justice"
 ---
 

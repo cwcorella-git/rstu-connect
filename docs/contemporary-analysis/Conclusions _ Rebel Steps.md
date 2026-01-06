@@ -1,5 +1,5 @@
 ---
-title: "**Conclusions | Rebel Steps**"
+title: "Conclusions | Rebel Steps"
 category: "contemporary-analysis"
 ---
 

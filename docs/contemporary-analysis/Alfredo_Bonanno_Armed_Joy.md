@@ -1,5 +1,5 @@
 ---
-title: "**Armed Joy**"
+title: "Armed Joy"
 category: "contemporary-analysis"
 ---
 

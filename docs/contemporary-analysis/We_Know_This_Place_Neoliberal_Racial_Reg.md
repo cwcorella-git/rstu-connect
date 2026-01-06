@@ -1,5 +1,5 @@
 ---
-title: "**"We Know This Place": Neoliberal Racial Regimes and the Katrina Circumstance**"
+title: "'We Know This Place': Neoliberal Racial Regimes and the Katrina Circumstance"
 category: "contemporary-analysis"
 ---
 

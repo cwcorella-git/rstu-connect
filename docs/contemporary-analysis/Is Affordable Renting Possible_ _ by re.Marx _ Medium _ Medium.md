@@ -1,5 +1,5 @@
 ---
-title: "**Is Affordable Renting Possible?**"
+title: "Is Affordable Renting Possible?"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **bell hooks**"
+title: "bell hooks"
 category: "theory"
 ---
 

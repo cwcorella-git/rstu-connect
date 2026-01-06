@@ -1,5 +1,5 @@
 ---
-title: "**Non-reformist reform**"
+title: "Non-reformist reform"
 category: "contemporary-analysis"
 ---
 

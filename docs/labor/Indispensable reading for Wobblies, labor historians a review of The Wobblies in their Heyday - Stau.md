@@ -1,5 +1,5 @@
 ---
-title: "## **Indispensable reading for Wobblies, labor historians: a review of The Wobblies in their Heyday "
+title: "Indispensable reading for Wobblies, labor historians: a review of The Wobblies in their Heyday"
 category: "labor"
 ---
 

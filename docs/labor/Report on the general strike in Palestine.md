@@ -1,5 +1,5 @@
 ---
-title: "## **Report on the general strike in Palestine**"
+title: "Report on the general strike in Palestine"
 category: "labor"
 ---
 

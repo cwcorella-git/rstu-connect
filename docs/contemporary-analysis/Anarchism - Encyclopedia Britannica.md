@@ -1,5 +1,5 @@
 ---
-title: "## **Anarchism - Encyclopedia Britannica**"
+title: "Anarchism - Encyclopedia Britannica"
 category: "contemporary-analysis"
 ---
 

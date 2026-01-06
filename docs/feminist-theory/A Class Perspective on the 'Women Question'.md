@@ -1,5 +1,5 @@
 ---
-title: "## **A Class Perspective on the 'Women Question'**"
+title: "A Class Perspective on the 'Women Question'"
 category: "feminist-theory"
 ---
 

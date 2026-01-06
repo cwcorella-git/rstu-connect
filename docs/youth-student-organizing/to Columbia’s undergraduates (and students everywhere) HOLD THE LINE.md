@@ -1,5 +1,5 @@
 ---
-title: "## **to Columbia's undergraduates (and students everywhere): HOLD THE LINE.**"
+title: "to Columbia's undergraduates (and students everywhere): HOLD THE LINE."
 category: "youth-student-organizing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Wobblies and Cossacks: The 1913 great strike**"
+title: "Wobblies and Cossacks: The 1913 great strike"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**CASTLE ROCK V. GONZALES**"
+title: "CASTLE ROCK V. GONZALES"
 category: "contemporary-analysis"
 ---
 

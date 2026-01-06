@@ -1,5 +1,5 @@
 ---
-title: "## **The Wobblies: a radical world history - Peter Cole**"
+title: "The Wobblies: a radical world history - Peter Cole"
 category: "contemporary-analysis"
 ---
 

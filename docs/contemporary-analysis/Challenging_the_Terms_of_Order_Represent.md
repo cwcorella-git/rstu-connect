@@ -1,5 +1,5 @@
 ---
-title: "**Challenging the Terms of Order**"
+title: "Challenging the Terms of Order"
 category: "contemporary-analysis"
 ---
 

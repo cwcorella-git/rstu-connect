@@ -1,5 +1,5 @@
 ---
-title: "## **Workers at Berkeley's Ecology Center aim to unionize**"
+title: "Workers at Berkeley's Ecology Center aim to unionize"
 category: "environmental-justice"
 ---
 

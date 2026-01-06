@@ -1,5 +1,5 @@
 ---
-title: "**Book Review: The Dawn of Everything: A New History of Humanity**"
+title: "Book Review: The Dawn of Everything: A New History of Humanity"
 category: "arts-culture-music"
 ---
 

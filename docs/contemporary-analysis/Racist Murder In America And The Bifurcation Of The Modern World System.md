@@ -1,5 +1,5 @@
 ---
-title: "**Racist Murder In America And The Bifurcation Of The Modern World System**"
+title: "Racist Murder In America And The Bifurcation Of The Modern World System"
 category: "contemporary-analysis"
 ---
 

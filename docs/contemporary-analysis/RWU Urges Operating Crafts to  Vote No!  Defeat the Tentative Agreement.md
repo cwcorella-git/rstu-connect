@@ -1,5 +1,5 @@
 ---
-title: "## **RWU Urges Operating Crafts to "Vote No!" Defeat the Tentative Agreement**"
+title: "RWU Urges Operating Crafts to \"Vote No!\" Defeat the Tentative Agreement"
 category: "contemporary-analysis"
 ---
 

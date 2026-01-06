@@ -1,5 +1,5 @@
 ---
-title: "## **Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian Coalfields**"
+title: "Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian Coalfields"
 category: "environmental-justice"
 ---
 

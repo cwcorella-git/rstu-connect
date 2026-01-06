@@ -1,5 +1,5 @@
 ---
-title: "**Crime, Punishment, and Community Policing**"
+title: "Crime, Punishment, and Community Policing"
 category: "contemporary-analysis"
 ---
 

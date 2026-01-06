@@ -1,5 +1,5 @@
 ---
-title: "## **Popular Radicalism and the Unemployed in Chicago during the Great Depression**"
+title: "Popular Radicalism and the Unemployed in Chicago during the Great Depression"
 category: "contemporary-analysis"
 ---
 

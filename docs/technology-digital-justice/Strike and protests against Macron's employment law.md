@@ -1,5 +1,5 @@
 ---
-title: "## **Strike and protests against Macron's employment law**"
+title: "Strike and protests against Macron's employment law"
 category: "technology-digital-justice"
 ---
 

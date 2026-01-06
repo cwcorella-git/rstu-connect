@@ -1,8 +1,8 @@
 {
-  "commit": "d3ee9d6",
-  "message": "Edit mode: Add browser-based GitHub token setup",
+  "commit": "bfa1705",
+  "message": "Universal document formatting: Add frontmatter, strip HTML, fix artifacts",
   "author": "cwcorella-git",
-  "date": "2026-01-05 16:49:51 -0800",
+  "date": "2026-01-05 17:30:16 -0800",
   "branch": "main",
-  "buildTime": "2026-01-06T01:28:52.517Z"
+  "buildTime": "2026-01-06T01:56:45.958Z"
 }

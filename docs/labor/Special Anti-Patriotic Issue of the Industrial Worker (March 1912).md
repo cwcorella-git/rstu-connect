@@ -1,5 +1,5 @@
 ---
-title: "## **Special Anti-Patriotic Issue of the Industrial Worker (March 1912)**"
+title: "Special Anti-Patriotic Issue of the Industrial Worker (March 1912)"
 category: "labor"
 ---
 

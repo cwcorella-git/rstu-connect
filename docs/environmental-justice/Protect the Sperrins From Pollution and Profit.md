@@ -1,5 +1,5 @@
 ---
-title: "## **Protect the Sperrins From Pollution and Profit**"
+title: "Protect the Sperrins From Pollution and Profit"
 category: "environmental-justice"
 ---
 

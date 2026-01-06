@@ -1,5 +1,5 @@
 ---
-title: "## **IWW EUC Presents, Who Bombed Judi Bari?**"
+title: "IWW EUC Presents, Who Bombed Judi Bari?"
 category: "contemporary-analysis"
 ---
 

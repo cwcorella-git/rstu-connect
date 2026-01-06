@@ -1,5 +1,5 @@
 ---
-title: "## **A gigantic network of narrow streams: ditching the formal IWW and building the real - Tyler Zee"
+title: "A gigantic network of narrow streams: ditching the formal IWW and building the real - Tyler Zee"
 category: "organizing"
 ---
 

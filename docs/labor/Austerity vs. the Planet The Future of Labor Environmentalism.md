@@ -1,5 +1,5 @@
 ---
-title: "**Austerity vs. the Planet: The Future of Labor Environmentalism**"
+title: "Austerity vs. the Planet: The Future of Labor Environmentalism"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **A Class War Against State War – IWW Istanbul's Statement on the Turkish Invasion of Syria**"
+title: "A Class War Against State War – IWW Istanbul's Statement on the Turkish Invasion of Syria"
 category: "labor"
 ---
 

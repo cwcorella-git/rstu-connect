@@ -1,5 +1,5 @@
 ---
-title: "## **West Virginia IWW Commemorates Battle of Blair Mountain Centennial**"
+title: "West Virginia IWW Commemorates Battle of Blair Mountain Centennial"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island**"
+title: "Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island"
 category: "theory"
 ---
 

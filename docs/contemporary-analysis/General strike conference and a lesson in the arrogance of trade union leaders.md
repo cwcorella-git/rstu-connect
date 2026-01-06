@@ -1,5 +1,5 @@
 ---
-title: "## **General strike conference and a lesson in the arrogance of trade union leaders**"
+title: "General strike conference and a lesson in the arrogance of trade union leaders"
 category: "contemporary-analysis"
 ---
 

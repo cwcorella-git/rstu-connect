@@ -1,5 +1,5 @@
 ---
-title: "**George Barrett, anarchists and the Great Unrest**"
+title: "George Barrett, anarchists and the Great Unrest"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **GE Tree Company Arbor Gen Found Guilty of Defrauding Workers, Fined \$53.5M**"
+title: "GE Tree Company Arbor Gen Found Guilty of Defrauding Workers, Fined $53.5M"
 category: "contemporary-analysis"
 ---
 

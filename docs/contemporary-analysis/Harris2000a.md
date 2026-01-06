@@ -1,5 +1,5 @@
 ---
-title: "**Understanding Emotion**"
+title: "Understanding Emotion"
 category: "contemporary-analysis"
 ---
 

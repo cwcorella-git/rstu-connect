@@ -1,5 +1,5 @@
 ---
-title: "## **The dock workers strike and San Francisco general strike, 1934 - Jeremy Brecher**"
+title: "The dock workers strike and San Francisco general strike, 1934 - Jeremy Brecher"
 category: "contemporary-analysis"
 ---
 

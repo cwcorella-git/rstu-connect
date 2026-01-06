@@ -1,5 +1,5 @@
 ---
-title: "## **Paul Krugman's Sorry Salvation**"
+title: "Paul Krugman's Sorry Salvation"
 category: "contemporary-analysis"
 ---
 

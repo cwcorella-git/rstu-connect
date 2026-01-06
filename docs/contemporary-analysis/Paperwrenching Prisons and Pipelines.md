@@ -1,5 +1,5 @@
 ---
-title: "## **Paperwrenching Prisons and Pipelines**"
+title: "Paperwrenching Prisons and Pipelines"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Survival through solidarity. A few stories from the occupied South of Ukraine**"
+title: "Survival through solidarity. A few stories from the occupied South of Ukraine"
 category: "labor"
 ---
 

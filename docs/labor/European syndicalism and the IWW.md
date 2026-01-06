@@ -1,5 +1,5 @@
 ---
-title: "## **European syndicalism and the IWW**"
+title: "European syndicalism and the IWW"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Illinois**"
+title: "Illinois"
 category: "contemporary-analysis"
 ---
 

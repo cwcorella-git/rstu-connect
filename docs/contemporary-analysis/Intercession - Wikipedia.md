@@ -1,5 +1,5 @@
 ---
-title: "**Intercession**"
+title: "Intercession"
 category: "contemporary-analysis"
 ---
 

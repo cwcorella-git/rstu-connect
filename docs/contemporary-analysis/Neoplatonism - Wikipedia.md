@@ -1,5 +1,5 @@
 ---
-title: "**Neoplatonism**"
+title: "Neoplatonism"
 category: "contemporary-analysis"
 ---
 

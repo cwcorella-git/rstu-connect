@@ -1,5 +1,5 @@
 ---
-title: "**Empire's Workshop Under a Flailing Empire**"
+title: "Empire's Workshop Under a Flailing Empire"
 category: "technology-digital-justice"
 ---
 

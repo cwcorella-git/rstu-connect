@@ -1,5 +1,5 @@
 ---
-title: "**Still Standing or Standing Still?**"
+title: "Still Standing or Standing Still?"
 category: "contemporary-analysis"
 ---
 

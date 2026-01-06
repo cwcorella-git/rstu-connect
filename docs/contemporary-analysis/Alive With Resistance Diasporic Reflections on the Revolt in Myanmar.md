@@ -1,5 +1,5 @@
 ---
-title: "## **Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar**"
+title: "Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar"
 category: "contemporary-analysis"
 ---
 

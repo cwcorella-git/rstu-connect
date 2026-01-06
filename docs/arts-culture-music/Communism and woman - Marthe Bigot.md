@@ -1,5 +1,5 @@
 ---
-title: "## **Communism and woman - Marthe Bigot**"
+title: "Communism and woman - Marthe Bigot"
 category: "arts-culture-music"
 ---
 

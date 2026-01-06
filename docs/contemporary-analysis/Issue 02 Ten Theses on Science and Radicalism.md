@@ -1,5 +1,5 @@
 ---
-title: "## **Issue 02: Ten Theses on Science and Radicalism**"
+title: "Issue 02: Ten Theses on Science and Radicalism"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Attica Prison riot**"
+title: "Attica Prison riot"
 category: "contemporary-analysis"
 ---
 

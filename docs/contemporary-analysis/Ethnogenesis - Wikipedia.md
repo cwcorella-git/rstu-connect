@@ -1,5 +1,5 @@
 ---
-title: "**Ethnogenesis**"
+title: "Ethnogenesis"
 category: "contemporary-analysis"
 ---
 

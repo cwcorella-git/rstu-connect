@@ -1,5 +1,5 @@
 ---
-title: "## **1994: Wallis and Futuna General Strike**"
+title: "1994: Wallis and Futuna General Strike"
 category: "labor"
 ---
 

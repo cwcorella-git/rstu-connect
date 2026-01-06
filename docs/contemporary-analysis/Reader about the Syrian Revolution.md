@@ -1,5 +1,5 @@
 ---
-title: "## **Reader about the Syrian Revolution**"
+title: "Reader about the Syrian Revolution"
 category: "contemporary-analysis"
 ---
 

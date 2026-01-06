@@ -1,5 +1,5 @@
 ---
-title: "## **An Obituary for Tortuguita**"
+title: "An Obituary for Tortuguita"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Founders Online: Memorial and Remonstrance against Religious Assessments, [ca. …**"
+title: "Founders Online: Memorial and Remonstrance against Religious Assessments, [ca. …"
 category: "technology-digital-justice"
 ---
 

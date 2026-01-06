@@ -1,5 +1,5 @@
 ---
-title: "**Racial capitalism**"
+title: "Racial capitalism"
 category: "contemporary-analysis"
 ---
 

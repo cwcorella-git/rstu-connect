@@ -1,5 +1,5 @@
 ---
-title: "**Power supply compatibility guide for Fractal Design Ridge case**"
+title: "Power supply compatibility guide for Fractal Design Ridge case"
 category: "contemporary-analysis"
 ---
 

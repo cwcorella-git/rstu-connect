@@ -1,5 +1,5 @@
 ---
-title: "## **#Climate Change and the fight for #Climate Jobs**"
+title: "#Climate Change and the fight for #Climate Jobs"
 category: "environmental-justice"
 ---
 

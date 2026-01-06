@@ -1,5 +1,5 @@
 ---
-title: "**Holodomor**"
+title: "Holodomor"
 category: "contemporary-analysis"
 ---
 

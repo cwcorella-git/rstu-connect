@@ -1,5 +1,5 @@
 ---
-title: "## **How did the Belarusians come to rebellion against the dictatorship**"
+title: "How did the Belarusians come to rebellion against the dictatorship"
 category: "technology-digital-justice"
 ---
 

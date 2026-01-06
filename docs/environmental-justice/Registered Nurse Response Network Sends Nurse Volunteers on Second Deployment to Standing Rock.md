@@ -1,5 +1,5 @@
 ---
-title: "## **Registered Nurse Response Network Sends Nurse Volunteers on Second Deployment to Standing Rock*"
+title: "Registered Nurse Response Network Sends Nurse Volunteers on Second Deployment to Standing Rock*"
 category: "environmental-justice"
 ---
 

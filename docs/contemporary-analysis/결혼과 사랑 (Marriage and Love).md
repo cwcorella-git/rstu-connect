@@ -1,5 +1,5 @@
 ---
-title: "## **결혼과 사랑 (Marriage and Love)**"
+title: "결혼과 사랑 (Marriage and Love)"
 category: "contemporary-analysis"
 ---
 

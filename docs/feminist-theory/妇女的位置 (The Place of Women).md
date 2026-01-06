@@ -1,5 +1,5 @@
 ---
-title: "**妇女的位置 (The Place of Women)**"
+title: "妇女的位置 (The Place of Women)"
 category: "feminist-theory"
 ---
 

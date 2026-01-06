@@ -1,5 +1,5 @@
 ---
-title: "## **Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist"
+title: "Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist"
 category: "international-solidarity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Interview: IWW Shop Workers - Black Flag**"
+title: "Interview: IWW Shop Workers - Black Flag"
 category: "contemporary-analysis"
 ---
 

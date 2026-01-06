@@ -1,5 +1,5 @@
 ---
-title: "**Episode 44: Theories Of Wisdom/**"
+title: "Episode 44: Theories Of Wisdom/"
 category: "contemporary-analysis"
 ---
 

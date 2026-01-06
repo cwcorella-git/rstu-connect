@@ -1,5 +1,5 @@
 ---
-title: "## **Middle Class? Fuck Off!**"
+title: "Middle Class? Fuck Off!"
 category: "contemporary-analysis"
 ---
 

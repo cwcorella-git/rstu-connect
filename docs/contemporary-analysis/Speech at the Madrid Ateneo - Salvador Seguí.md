@@ -1,5 +1,5 @@
 ---
-title: "## **Speech at the Madrid Ateneo - Salvador Seguí**"
+title: "Speech at the Madrid Ateneo - Salvador Seguí"
 category: "contemporary-analysis"
 ---
 

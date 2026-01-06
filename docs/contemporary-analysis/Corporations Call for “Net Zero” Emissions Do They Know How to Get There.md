@@ -1,5 +1,5 @@
 ---
-title: "**Corporations Call for "Net Zero" Emissions: Do They Know How to Get There?**"
+title: "Corporations Call for 'Net Zero' Emissions: Do They Know How to Get There?"
 category: "contemporary-analysis"
 ---
 

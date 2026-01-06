@@ -1,5 +1,5 @@
 ---
-title: "**The commons versus capitalism**"
+title: "The commons versus capitalism"
 category: "contemporary-analysis"
 ---
 

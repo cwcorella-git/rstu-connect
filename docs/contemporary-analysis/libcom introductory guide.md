@@ -1,5 +1,5 @@
 ---
-title: "## **libcom introductory guide**"
+title: "libcom introductory guide"
 category: "contemporary-analysis"
 ---
 

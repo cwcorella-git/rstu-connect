@@ -1,5 +1,5 @@
 ---
-title: "## **I am a member of the CNT, for anarcho-syndicalism - René Thieblemont**"
+title: "I am a member of the CNT, for anarcho-syndicalism - René Thieblemont"
 category: "contemporary-analysis"
 ---
 

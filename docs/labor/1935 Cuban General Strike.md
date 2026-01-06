@@ -1,5 +1,5 @@
 ---
-title: "## **1935: Cuban General Strike**"
+title: "1935: Cuban General Strike"
 category: "labor"
 ---
 

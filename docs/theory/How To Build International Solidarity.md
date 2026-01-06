@@ -1,5 +1,5 @@
 ---
-title: ""I'm an international, super spy... SUPER SPYYYYY.""
+title: "\"I'm an international, super spy... SUPER SPYYYYY.\""
 category: "theory"
 ---
 

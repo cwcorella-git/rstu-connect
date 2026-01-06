@@ -1,5 +1,5 @@
 ---
-title: "## **G. Ogo, Drica Dejerk**"
+title: "G. Ogo, Drica Dejerk"
 category: "contemporary-analysis"
 ---
 

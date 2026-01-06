@@ -1,5 +1,5 @@
 ---
-title: "## **Let's Build Class Unions**"
+title: "Let's Build Class Unions"
 category: "labor"
 ---
 

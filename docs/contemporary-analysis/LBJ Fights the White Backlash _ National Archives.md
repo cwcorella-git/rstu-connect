@@ -1,5 +1,5 @@
 ---
-title: "**LBJ Fights the White Backlash**"
+title: "LBJ Fights the White Backlash"
 category: "contemporary-analysis"
 ---
 

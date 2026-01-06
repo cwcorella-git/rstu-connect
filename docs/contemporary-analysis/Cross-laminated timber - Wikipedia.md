@@ -1,5 +1,5 @@
 ---
-title: "**Cross-laminated timber**"
+title: "Cross-laminated timber"
 category: "contemporary-analysis"
 ---
 

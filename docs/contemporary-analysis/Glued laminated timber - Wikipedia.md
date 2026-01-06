@@ -1,5 +1,5 @@
 ---
-title: "**Glued laminated timber**"
+title: "Glued laminated timber"
 category: "contemporary-analysis"
 ---
 

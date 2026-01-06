@@ -1,5 +1,5 @@
 ---
-title: "## **Caribbean women and the black community**"
+title: "Caribbean women and the black community"
 category: "theory"
 ---
 

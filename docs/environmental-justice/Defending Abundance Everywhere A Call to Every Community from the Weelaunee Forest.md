@@ -1,5 +1,5 @@
 ---
-title: "**Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest**"
+title: "Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest"
 category: "environmental-justice"
 ---
 

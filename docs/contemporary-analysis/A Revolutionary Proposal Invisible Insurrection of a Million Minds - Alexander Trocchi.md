@@ -1,5 +1,5 @@
 ---
-title: "## **A Revolutionary Proposal: Invisible Insurrection of a Million Minds - Alexander Trocchi**"
+title: "A Revolutionary Proposal: Invisible Insurrection of a Million Minds - Alexander Trocchi"
 category: "contemporary-analysis"
 ---
 

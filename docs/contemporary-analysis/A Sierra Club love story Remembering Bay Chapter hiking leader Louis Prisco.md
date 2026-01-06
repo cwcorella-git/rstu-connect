@@ -1,5 +1,5 @@
 ---
-title: "## **A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Prisco**"
+title: "A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Prisco"
 category: "contemporary-analysis"
 ---
 

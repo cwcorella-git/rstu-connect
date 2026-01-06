@@ -1,5 +1,5 @@
 ---
-title: "## **Anarchist Individualism as a Life and Activity**"
+title: "Anarchist Individualism as a Life and Activity"
 category: "contemporary-analysis"
 ---
 

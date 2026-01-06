@@ -1,5 +1,5 @@
 ---
-title: "**Design Document for:**"
+title: "Design Document for:"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**P. M.**"
+title: "P. M."
 category: "contemporary-analysis"
 ---
 

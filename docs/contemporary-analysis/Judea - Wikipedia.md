@@ -1,5 +1,5 @@
 ---
-title: "**Judea**"
+title: "Judea"
 category: "contemporary-analysis"
 ---
 

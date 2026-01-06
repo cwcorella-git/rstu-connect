@@ -1,5 +1,5 @@
 ---
-title: "## **Capital Blight: Pop go the Weasels**"
+title: "Capital Blight: Pop go the Weasels"
 category: "contemporary-analysis"
 ---
 

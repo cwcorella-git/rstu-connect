@@ -1,5 +1,5 @@
 ---
-title: ""I'm your new teacher, my name is Mrs. Simpson.""
+title: "\"I'm your new teacher, my name is Mrs. Simpson.\""
 category: "theory"
 ---
 

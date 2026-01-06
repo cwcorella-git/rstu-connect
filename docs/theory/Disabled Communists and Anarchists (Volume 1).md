@@ -1,5 +1,5 @@
 ---
-title: "## **Disabled Communists and Anarchists (Volume 1)**"
+title: "Disabled Communists and Anarchists (Volume 1)"
 category: "theory"
 ---
 

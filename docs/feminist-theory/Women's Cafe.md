@@ -1,5 +1,5 @@
 ---
-title: "## **Women's Cafe**"
+title: "Women's Cafe"
 category: "feminist-theory"
 ---
 

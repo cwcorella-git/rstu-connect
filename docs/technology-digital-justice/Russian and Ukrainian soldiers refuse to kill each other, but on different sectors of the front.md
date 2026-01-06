@@ -1,5 +1,5 @@
 ---
-title: "## **Russian and Ukrainian soldiers refuse to kill each other, but on different sectors of the front"
+title: "Russian and Ukrainian soldiers refuse to kill each other, but on different sectors of the front"
 category: "technology-digital-justice"
 ---
 

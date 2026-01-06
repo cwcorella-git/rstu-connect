@@ -1,5 +1,5 @@
 ---
-title: "**The Southern Question and Subaltern Social Groups and Classes**"
+title: "The Southern Question and Subaltern Social Groups and Classes"
 category: "contemporary-analysis"
 ---
 

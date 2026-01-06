@@ -1,5 +1,5 @@
 ---
-title: "## **"Instead, We Became Millions": Inside Colombia's Ongoing General Strike**"
+title: "'Instead, We Became Millions': Inside Colombia's Ongoing General Strike"
 category: "contemporary-analysis"
 ---
 

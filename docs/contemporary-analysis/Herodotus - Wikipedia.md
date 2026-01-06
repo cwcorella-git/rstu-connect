@@ -1,5 +1,5 @@
 ---
-title: "**Herodotus**"
+title: "Herodotus"
 category: "contemporary-analysis"
 ---
 

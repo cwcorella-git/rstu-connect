@@ -1,5 +1,5 @@
 ---
-title: "## **IWW Resolution Against DAPL and KXL**"
+title: "IWW Resolution Against DAPL and KXL"
 category: "labor"
 ---
 

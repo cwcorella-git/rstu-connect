@@ -1,5 +1,5 @@
 ---
-title: "## **Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York**"
+title: "Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York"
 category: "contemporary-analysis"
 ---
 

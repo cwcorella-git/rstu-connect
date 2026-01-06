@@ -1,5 +1,5 @@
 ---
-title: "**Mikhail Bakunin**"
+title: "Mikhail Bakunin"
 category: "contemporary-analysis"
 ---
 

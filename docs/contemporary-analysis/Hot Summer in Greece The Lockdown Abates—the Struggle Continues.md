@@ -1,5 +1,5 @@
 ---
-title: "## **Hot Summer in Greece: The Lockdown Abates—the Struggle Continues**"
+title: "Hot Summer in Greece: The Lockdown Abates—the Struggle Continues"
 category: "contemporary-analysis"
 ---
 

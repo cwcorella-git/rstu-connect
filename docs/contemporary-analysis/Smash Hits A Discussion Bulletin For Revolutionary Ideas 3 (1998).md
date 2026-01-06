@@ -1,5 +1,5 @@
 ---
-title: "## **Smash Hits: A Discussion Bulletin For Revolutionary Ideas 3 (1998)**"
+title: "Smash Hits: A Discussion Bulletin For Revolutionary Ideas 3 (1998)"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **the role of the artist is to load the gun.**"
+title: "the role of the artist is to load the gun."
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Stjepan Filipovi**■**: everlasting symbol of anti-fascism**"
+title: "Stjepan Filipovi■: everlasting symbol of anti-fascism"
 category: "contemporary-analysis"
 ---
 

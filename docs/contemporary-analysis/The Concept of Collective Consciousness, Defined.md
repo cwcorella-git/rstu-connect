@@ -1,5 +1,5 @@
 ---
-title: "**Understanding Emile Durkheim's "Collective Consciousness"**"
+title: "Understanding Emile Durkheim's \"Collective Consciousness\""
 category: "contemporary-analysis"
 ---
 

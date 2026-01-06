@@ -1,5 +1,5 @@
 ---
-title: "**French Americans**"
+title: "French Americans"
 category: "international-solidarity"
 ---
 

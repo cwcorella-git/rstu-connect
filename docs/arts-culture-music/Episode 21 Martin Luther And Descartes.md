@@ -1,5 +1,5 @@
 ---
-title: "**Episode 21: Martin Luther And Descartes/**"
+title: "Episode 21: Martin Luther And Descartes/"
 category: "arts-culture-music"
 ---
 

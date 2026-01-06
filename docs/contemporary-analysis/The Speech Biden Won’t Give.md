@@ -1,5 +1,5 @@
 ---
-title: "## **The Speech Biden Won't Give**"
+title: "The Speech Biden Won't Give"
 category: "contemporary-analysis"
 ---
 

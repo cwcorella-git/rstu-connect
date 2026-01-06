@@ -1,5 +1,5 @@
 ---
-title: "## **Serious Game Design Document Outline**"
+title: "Serious Game Design Document Outline"
 category: "contemporary-analysis"
 ---
 

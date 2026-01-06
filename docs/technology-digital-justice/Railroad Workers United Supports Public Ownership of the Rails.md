@@ -1,5 +1,5 @@
 ---
-title: "## **Railroad Workers United Supports Public Ownership of the Rails**"
+title: "Railroad Workers United Supports Public Ownership of the Rails"
 category: "technology-digital-justice"
 ---
 

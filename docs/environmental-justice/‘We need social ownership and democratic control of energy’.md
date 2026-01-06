@@ -1,5 +1,5 @@
 ---
-title: "## **'We need social ownership and democratic control of energy'**"
+title: "'We need social ownership and democratic control of energy'"
 category: "environmental-justice"
 ---
 

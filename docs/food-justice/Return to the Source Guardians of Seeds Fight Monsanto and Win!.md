@@ -1,5 +1,5 @@
 ---
-title: "**Return to the Source: Guardians of Seeds Fight Monsanto and Win!**"
+title: "Return to the Source: Guardians of Seeds Fight Monsanto and Win!"
 category: "food-justice"
 ---
 

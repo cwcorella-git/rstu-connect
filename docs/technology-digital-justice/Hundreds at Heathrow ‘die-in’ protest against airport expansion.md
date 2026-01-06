@@ -1,5 +1,5 @@
 ---
-title: "## **Hundreds at Heathrow 'die-in' protest against airport expansion**"
+title: "Hundreds at Heathrow 'die-in' protest against airport expansion"
 category: "technology-digital-justice"
 ---
 

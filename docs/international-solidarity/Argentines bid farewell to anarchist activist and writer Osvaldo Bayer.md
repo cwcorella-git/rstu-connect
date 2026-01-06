@@ -1,5 +1,5 @@
 ---
-title: "## **Argentines bid farewell to anarchist activist and writer Osvaldo Bayer**"
+title: "Argentines bid farewell to anarchist activist and writer Osvaldo Bayer"
 category: "international-solidarity"
 ---
 

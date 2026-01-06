@@ -1,5 +1,5 @@
 ---
-title: "**Cosmopolitanism**"
+title: "Cosmopolitanism"
 category: "contemporary-analysis"
 ---
 

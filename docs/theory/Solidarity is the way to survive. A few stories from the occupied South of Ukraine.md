@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity is the way to survive. A few stories from the occupied South of Ukraine**"
+title: "Solidarity is the way to survive. A few stories from the occupied South of Ukraine"
 category: "theory"
 ---
 

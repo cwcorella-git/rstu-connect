@@ -1,5 +1,5 @@
 ---
-title: "## **An Ambiguous Paradise Built in Hell**"
+title: "An Ambiguous Paradise Built in Hell"
 category: "contemporary-analysis"
 ---
 

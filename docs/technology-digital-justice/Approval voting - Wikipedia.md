@@ -1,5 +1,5 @@
 ---
-title: "**Approval voting**"
+title: "Approval voting"
 category: "technology-digital-justice"
 ---
 

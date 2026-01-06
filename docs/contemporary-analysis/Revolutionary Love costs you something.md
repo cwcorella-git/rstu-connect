@@ -1,5 +1,5 @@
 ---
-title: "## **Revolutionary Love costs you something.**"
+title: "Revolutionary Love costs you something."
 category: "contemporary-analysis"
 ---
 

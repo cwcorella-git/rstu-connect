@@ -1,5 +1,5 @@
 ---
-title: "## **Are Refinery Workers Climate Enemies?**"
+title: "Are Refinery Workers Climate Enemies?"
 category: "environmental-justice"
 ---
 

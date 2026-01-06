@@ -1,5 +1,5 @@
 ---
-title: "## **Is the IWW all-sufficient for the workers needs? - Vincent St. John**"
+title: "Is the IWW all-sufficient for the workers needs? - Vincent St. John"
 category: "contemporary-analysis"
 ---
 

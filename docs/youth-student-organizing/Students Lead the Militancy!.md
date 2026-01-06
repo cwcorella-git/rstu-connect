@@ -1,5 +1,5 @@
 ---
-title: "## **Students Lead the Militancy!**"
+title: "Students Lead the Militancy!"
 category: "youth-student-organizing"
 ---
 

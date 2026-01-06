@@ -1,5 +1,5 @@
 ---
-title: "## **Education for Critical Conssciousness**"
+title: "Education for Critical Conssciousness"
 category: "theory"
 ---
 

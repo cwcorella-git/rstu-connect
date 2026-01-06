@@ -1,5 +1,5 @@
 ---
-title: "## **Copwatching in Chattanooga - Lorenzo Komboa Ervin**"
+title: "Copwatching in Chattanooga - Lorenzo Komboa Ervin"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Ohio Valley Environmental Coalition Workers Stand Firm Despite Management Offensive**"
+title: "Ohio Valley Environmental Coalition Workers Stand Firm Despite Management Offensive"
 category: "environmental-justice"
 ---
 

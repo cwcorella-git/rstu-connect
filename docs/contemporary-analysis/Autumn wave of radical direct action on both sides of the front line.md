@@ -1,5 +1,5 @@
 ---
-title: "## **Autumn wave of radical direct action on both sides of the front line**"
+title: "Autumn wave of radical direct action on both sides of the front line"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Workers solidarity network launches site in Brazil**"
+title: "Workers solidarity network launches site in Brazil"
 category: "organizing"
 ---
 

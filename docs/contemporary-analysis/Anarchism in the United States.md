@@ -1,5 +1,5 @@
 ---
-title: "**Ronald Creagh, Gabriel Kuhn, Jesse Cohn**"
+title: "Ronald Creagh, Gabriel Kuhn, Jesse Cohn"
 category: "contemporary-analysis"
 ---
 

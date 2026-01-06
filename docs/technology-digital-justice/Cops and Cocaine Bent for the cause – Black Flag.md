@@ -1,5 +1,5 @@
 ---
-title: "## **Cops and Cocaine: Bent for the cause – Black Flag**"
+title: "Cops and Cocaine: Bent for the cause – Black Flag"
 category: "technology-digital-justice"
 ---
 

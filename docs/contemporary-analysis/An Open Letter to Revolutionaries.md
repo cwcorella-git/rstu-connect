@@ -1,5 +1,5 @@
 ---
-title: "**An Open Letter to Revolutionaries**"
+title: "An Open Letter to Revolutionaries"
 category: "contemporary-analysis"
 ---
 

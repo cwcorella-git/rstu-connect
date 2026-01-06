@@ -1,5 +1,5 @@
 ---
-title: "## **Striking For The Future of Education: Interview with a Los Angeles Teacher**"
+title: "Striking For The Future of Education: Interview with a Los Angeles Teacher"
 category: "youth-student-organizing"
 ---
 

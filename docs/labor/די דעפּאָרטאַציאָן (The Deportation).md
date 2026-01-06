@@ -1,5 +1,5 @@
 ---
-title: "## **(Deportation The (די דעפּאָרטאַציאָן**"
+title: "(Deportation The (די דעפּאָרטאַציאָן"
 category: "labor"
 ---
 

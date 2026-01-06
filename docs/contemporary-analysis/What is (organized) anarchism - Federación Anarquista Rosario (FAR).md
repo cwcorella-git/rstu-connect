@@ -1,5 +1,5 @@
 ---
-title: "## **What is (organized) anarchism? - Federación Anarquista Rosario (FAR)**"
+title: "What is (organized) anarchism? - Federación Anarquista Rosario (FAR)"
 category: "contemporary-analysis"
 ---
 

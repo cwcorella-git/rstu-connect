@@ -1,5 +1,5 @@
 ---
-title: "## **Utopia: Work less play more**"
+title: "Utopia: Work less play more"
 category: "contemporary-analysis"
 ---
 

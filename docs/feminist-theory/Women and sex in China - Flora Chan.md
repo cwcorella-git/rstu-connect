@@ -1,5 +1,5 @@
 ---
-title: "## **Women and sex in China - Flora Chan**"
+title: "Women and sex in China - Flora Chan"
 category: "feminist-theory"
 ---
 

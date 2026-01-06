@@ -1,5 +1,5 @@
 ---
-title: "**FC**"
+title: "Industrial Society and Its Future"
 category: "contemporary-analysis"
 ---
 

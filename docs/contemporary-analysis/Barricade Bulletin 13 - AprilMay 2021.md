@@ -1,5 +1,5 @@
 ---
-title: "## **Barricade Bulletin 13 - April/May 2021**"
+title: "Barricade Bulletin 13 - April/May 2021"
 category: "contemporary-analysis"
 ---
 

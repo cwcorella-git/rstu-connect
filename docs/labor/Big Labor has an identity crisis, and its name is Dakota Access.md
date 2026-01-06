@@ -1,5 +1,5 @@
 ---
-title: "## **Big Labor has an identity crisis, and its name is Dakota Access**"
+title: "Big Labor has an identity crisis, and its name is Dakota Access"
 category: "labor"
 ---
 

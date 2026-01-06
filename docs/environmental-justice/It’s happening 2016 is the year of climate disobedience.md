@@ -1,5 +1,5 @@
 ---
-title: "## **It's happening: 2016 is the year of climate disobedience**"
+title: "It's happening: 2016 is the year of climate disobedience"
 category: "environmental-justice"
 ---
 

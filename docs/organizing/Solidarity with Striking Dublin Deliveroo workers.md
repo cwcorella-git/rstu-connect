@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity with Striking Dublin Deliveroo workers**"
+title: "Solidarity with Striking Dublin Deliveroo workers"
 category: "organizing"
 ---
 

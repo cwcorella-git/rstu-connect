@@ -1,5 +1,5 @@
 ---
-title: "## **Black Awakening, Class Rebellion**"
+title: "Black Awakening, Class Rebellion"
 category: "labor"
 ---
 

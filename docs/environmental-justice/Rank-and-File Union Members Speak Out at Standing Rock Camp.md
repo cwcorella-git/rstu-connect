@@ -1,5 +1,5 @@
 ---
-title: "## **Rank-and-File Union Members Speak Out at Standing Rock Camp**"
+title: "Rank-and-File Union Members Speak Out at Standing Rock Camp"
 category: "environmental-justice"
 ---
 

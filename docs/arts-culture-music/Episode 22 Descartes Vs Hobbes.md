@@ -1,5 +1,5 @@
 ---
-title: "**Episode 22: Descartes Vs Hobbes/**"
+title: "Episode 22: Descartes Vs Hobbes/"
 category: "arts-culture-music"
 ---
 

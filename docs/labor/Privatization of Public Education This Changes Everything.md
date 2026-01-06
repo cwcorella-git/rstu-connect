@@ -1,5 +1,5 @@
 ---
-title: "## **Privatization of Public Education: This Changes Everything**"
+title: "Privatization of Public Education: This Changes Everything"
 category: "labor"
 ---
 

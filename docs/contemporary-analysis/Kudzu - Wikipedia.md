@@ -1,5 +1,5 @@
 ---
-title: "**Kudzu**"
+title: "Kudzu"
 category: "contemporary-analysis"
 ---
 

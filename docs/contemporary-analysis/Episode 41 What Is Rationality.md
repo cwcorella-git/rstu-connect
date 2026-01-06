@@ -1,5 +1,5 @@
 ---
-title: "**Episode 41: What Is Rationality/**"
+title: "Episode 41: What Is Rationality/"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Incarceration, Justice and the Planet**"
+title: "Incarceration, Justice and the Planet"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Prison Peninsula. About Guerrilla Attacks in Occupied Crimea**"
+title: "Prison Peninsula. About Guerrilla Attacks in Occupied Crimea"
 category: "contemporary-analysis"
 ---
 

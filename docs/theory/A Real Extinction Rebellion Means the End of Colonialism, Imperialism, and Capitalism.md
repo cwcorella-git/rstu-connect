@@ -1,5 +1,5 @@
 ---
-title: "## **A Real Extinction Rebellion Means the End of Colonialism, Imperialism, and Capitalism**"
+title: "A Real Extinction Rebellion Means the End of Colonialism, Imperialism, and Capitalism"
 category: "theory"
 ---
 

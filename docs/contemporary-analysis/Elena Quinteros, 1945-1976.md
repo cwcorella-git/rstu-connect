@@ -1,5 +1,5 @@
 ---
-title: "## **Elena Quinteros, 1945-1976**"
+title: "Elena Quinteros, 1945-1976"
 category: "contemporary-analysis"
 ---
 

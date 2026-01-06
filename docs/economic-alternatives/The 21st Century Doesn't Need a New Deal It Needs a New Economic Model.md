@@ -1,5 +1,5 @@
 ---
-title: "## **The 21st Century Doesn't Need a New Deal: It Needs a New Economic Model**"
+title: "The 21st Century Doesn't Need a New Deal: It Needs a New Economic Model"
 category: "economic-alternatives"
 ---
 

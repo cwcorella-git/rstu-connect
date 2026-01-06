@@ -1,5 +1,5 @@
 ---
-title: "## **There Is No Revolution without Madness.**"
+title: "There Is No Revolution without Madness."
 category: "contemporary-analysis"
 ---
 

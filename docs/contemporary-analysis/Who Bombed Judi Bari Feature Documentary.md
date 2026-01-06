@@ -1,5 +1,5 @@
 ---
-title: "## **Who Bombed Judi Bari? Feature Documentary**"
+title: "Who Bombed Judi Bari? Feature Documentary"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Serafinski**"
+title: "Serafinski"
 category: "contemporary-analysis"
 ---
 

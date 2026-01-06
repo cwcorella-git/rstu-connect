@@ -1,5 +1,5 @@
 ---
-title: "**Punch Up \* Kick Down Distro Hope in the Collapse 2025**"
+title: "Punch Up * Kick Down Distro Hope in the Collapse 2025"
 category: "contemporary-analysis"
 ---
 

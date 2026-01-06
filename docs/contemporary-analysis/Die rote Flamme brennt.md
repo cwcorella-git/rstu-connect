@@ -1,5 +1,5 @@
 ---
-title: "## **Die rote Flamme brennt**"
+title: "Die rote Flamme brennt"
 category: "contemporary-analysis"
 ---
 

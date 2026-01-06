@@ -1,5 +1,5 @@
 ---
-title: "## **Are Anarchists Giving in to War Fever? – Wayne Price**"
+title: "Are Anarchists Giving in to War Fever? – Wayne Price"
 category: "anti-war-peace"
 ---
 

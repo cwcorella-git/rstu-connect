@@ -1,5 +1,5 @@
 ---
-title: "**TRUE LEARNING**"
+title: "TRUE LEARNING"
 category: "theory"
 ---
 

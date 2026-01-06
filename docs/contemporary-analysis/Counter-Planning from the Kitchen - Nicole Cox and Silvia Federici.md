@@ -1,5 +1,5 @@
 ---
-title: "## **Counter-Planning from the Kitchen - Nicole Cox and Silvia Federici**"
+title: "Counter-Planning from the Kitchen - Nicole Cox and Silvia Federici"
 category: "contemporary-analysis"
 ---
 

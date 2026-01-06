@@ -1,5 +1,5 @@
 ---
-title: "**A point of clarification**"
+title: "A point of clarification"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Swedish unions, why do we suck?**"
+title: "Swedish unions, why do we suck?"
 category: "contemporary-analysis"
 ---
 

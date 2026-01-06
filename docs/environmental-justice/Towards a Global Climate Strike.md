@@ -1,5 +1,5 @@
 ---
-title: "## **Towards a Global Climate Strike**"
+title: "Towards a Global Climate Strike"
 category: "environmental-justice"
 ---
 

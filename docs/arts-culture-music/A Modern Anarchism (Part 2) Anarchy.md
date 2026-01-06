@@ -1,5 +1,5 @@
 ---
-title: "## **A Modern Anarchism (Part 2): Anarchy**"
+title: "A Modern Anarchism (Part 2): Anarchy"
 category: "arts-culture-music"
 ---
 

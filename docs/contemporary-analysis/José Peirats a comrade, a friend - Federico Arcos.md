@@ -1,5 +1,5 @@
 ---
-title: "## **José Peirats: a comrade, a friend - Federico Arcos**"
+title: "José Peirats: a comrade, a friend - Federico Arcos"
 category: "contemporary-analysis"
 ---
 

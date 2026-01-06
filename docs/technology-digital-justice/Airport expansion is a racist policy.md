@@ -1,5 +1,5 @@
 ---
-title: "## **Airport expansion is a racist policy**"
+title: "Airport expansion is a racist policy"
 category: "technology-digital-justice"
 ---
 

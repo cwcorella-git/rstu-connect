@@ -1,5 +1,5 @@
 ---
-title: "**The Ouarzazate Solar Plant in Morocco: Triumphal 'Green' Capitalism and the Privatization of Nature**"
+title: "The Ouarzazate Solar Plant in Morocco: Triumphal 'Green' Capitalism and the Privatization of Nature"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**The Right To Be Greedy**"
+title: "The Right To Be Greedy"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **West Virginia Walkout Beats Back Neoliberal Education Bill**"
+title: "West Virginia Walkout Beats Back Neoliberal Education Bill"
 category: "youth-student-organizing"
 ---
 

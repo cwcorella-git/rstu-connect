@@ -1,5 +1,5 @@
 ---
-title: "## **Funerals of Vladislav 'Pirate' Iurchenko**"
+title: "Funerals of Vladislav 'Pirate' Iurchenko"
 category: "contemporary-analysis"
 ---
 

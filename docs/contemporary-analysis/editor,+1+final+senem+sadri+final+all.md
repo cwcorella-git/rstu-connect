@@ -1,5 +1,5 @@
 ---
-title: "**City, Urban Transformation and the Right to the City**"
+title: "City, Urban Transformation and the Right to the City"
 category: "contemporary-analysis"
 ---
 

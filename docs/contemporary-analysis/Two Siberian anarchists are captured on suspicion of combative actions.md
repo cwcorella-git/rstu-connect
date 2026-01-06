@@ -1,5 +1,5 @@
 ---
-title: "## **Two Siberian anarchists are captured on suspicion of combative actions**"
+title: "Two Siberian anarchists are captured on suspicion of combative actions"
 category: "contemporary-analysis"
 ---
 

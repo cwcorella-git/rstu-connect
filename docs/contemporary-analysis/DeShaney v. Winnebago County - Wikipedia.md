@@ -1,5 +1,5 @@
 ---
-title: "**De Shaney v. Winnebago County**"
+title: "De Shaney v. Winnebago County"
 category: "contemporary-analysis"
 ---
 

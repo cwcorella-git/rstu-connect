@@ -1,5 +1,5 @@
 ---
-title: "**Democratic Autonomous Administration of North and East Syria**"
+title: "Democratic Autonomous Administration of North and East Syria"
 category: "contemporary-analysis"
 ---
 

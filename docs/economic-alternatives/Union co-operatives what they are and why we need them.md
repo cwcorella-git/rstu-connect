@@ -1,5 +1,5 @@
 ---
-title: "## **Union co-operatives: what they are and why we need them**"
+title: "Union co-operatives: what they are and why we need them"
 category: "economic-alternatives"
 ---
 

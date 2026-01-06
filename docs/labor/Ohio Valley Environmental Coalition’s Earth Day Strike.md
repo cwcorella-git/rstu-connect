@@ -1,5 +1,5 @@
 ---
-title: "## **Ohio Valley Environmental Coalition's Earth Day Strike**"
+title: "Ohio Valley Environmental Coalition's Earth Day Strike"
 category: "labor"
 ---
 

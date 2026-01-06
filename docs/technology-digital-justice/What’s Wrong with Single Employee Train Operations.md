@@ -1,5 +1,5 @@
 ---
-title: "## **What's Wrong with Single Employee Train Operations?**"
+title: "What's Wrong with Single Employee Train Operations?"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Why Miss World? (1971)**"
+title: "Why Miss World? (1971)"
 category: "contemporary-analysis"
 ---
 

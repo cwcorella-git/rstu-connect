@@ -1,5 +1,5 @@
 ---
-title: "**Embeddedness**"
+title: "Embeddedness"
 category: "contemporary-analysis"
 ---
 

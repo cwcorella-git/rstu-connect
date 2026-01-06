@@ -1,5 +1,5 @@
 ---
-title: "**How much do you really make?**"
+title: "How much do you really make?"
 category: "theory"
 ---
 

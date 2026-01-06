@@ -1,5 +1,5 @@
 ---
-title: "## **What is Libertarian History? Part 1: The History of History Itself - Liz Willis**"
+title: "What is Libertarian History? Part 1: The History of History Itself - Liz Willis"
 category: "arts-culture-music"
 ---
 

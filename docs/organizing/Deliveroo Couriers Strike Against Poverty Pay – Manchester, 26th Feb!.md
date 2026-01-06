@@ -1,5 +1,5 @@
 ---
-title: "## **Deliveroo Couriers Strike Against Poverty Pay – Manchester, 26th Feb!**"
+title: "Deliveroo Couriers Strike Against Poverty Pay – Manchester, 26th Feb!"
 category: "organizing"
 ---
 

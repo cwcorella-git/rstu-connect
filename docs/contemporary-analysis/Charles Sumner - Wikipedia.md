@@ -1,5 +1,5 @@
 ---
-title: "**Charles Sumner**"
+title: "Charles Sumner"
 category: "contemporary-analysis"
 ---
 

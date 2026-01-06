@@ -1,5 +1,5 @@
 ---
-title: "**Epictetus**"
+title: "Epictetus"
 category: "contemporary-analysis"
 ---
 

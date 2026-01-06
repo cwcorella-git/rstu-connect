@@ -1,5 +1,5 @@
 ---
-title: "**Conflict of the Orders**"
+title: "Conflict of the Orders"
 category: "contemporary-analysis"
 ---
 

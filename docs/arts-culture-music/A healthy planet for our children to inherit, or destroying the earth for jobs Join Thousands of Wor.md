@@ -1,5 +1,5 @@
 ---
-title: "## **A healthy planet for our children to inherit, or destroying the earth for jobs? Join Thousands "
+title: "A healthy planet for our children to inherit, or destroying the earth for jobs? Join Thousands"
 category: "arts-culture-music"
 ---
 

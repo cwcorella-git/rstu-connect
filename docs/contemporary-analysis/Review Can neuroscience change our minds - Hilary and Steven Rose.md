@@ -1,5 +1,5 @@
 ---
-title: "## **Review: Can neuroscience change our minds? - Hilary and Steven Rose**"
+title: "Review: Can neuroscience change our minds? - Hilary and Steven Rose"
 category: "contemporary-analysis"
 ---
 

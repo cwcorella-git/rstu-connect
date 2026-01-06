@@ -1,5 +1,5 @@
 ---
-title: "## **Socialize the Railways!**"
+title: "Socialize the Railways!"
 category: "technology-digital-justice"
 ---
 

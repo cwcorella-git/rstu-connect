@@ -1,5 +1,5 @@
 ---
-title: "**Grand Army of the Republic**"
+title: "Grand Army of the Republic"
 category: "contemporary-analysis"
 ---
 

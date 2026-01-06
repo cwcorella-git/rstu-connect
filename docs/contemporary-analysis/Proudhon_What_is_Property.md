@@ -1,5 +1,5 @@
 ---
-title: "**What is Property?**"
+title: "What is Property?"
 category: "contemporary-analysis"
 ---
 

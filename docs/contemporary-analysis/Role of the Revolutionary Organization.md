@@ -1,5 +1,5 @@
 ---
-title: "**Black Rose Anarchist Federation**"
+title: "Black Rose Anarchist Federation"
 category: "contemporary-analysis"
 ---
 

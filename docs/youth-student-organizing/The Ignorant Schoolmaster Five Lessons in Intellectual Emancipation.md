@@ -1,5 +1,5 @@
 ---
-title: "## **The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation**"
+title: "The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation"
 category: "youth-student-organizing"
 ---
 

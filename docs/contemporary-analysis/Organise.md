@@ -1,5 +1,5 @@
 ---
-title: "## **Organise**"
+title: "Organise"
 category: "contemporary-analysis"
 ---
 

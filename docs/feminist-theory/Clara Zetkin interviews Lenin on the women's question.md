@@ -1,5 +1,5 @@
 ---
-title: "## **Clara Zetkin interviews Lenin on the women's question**"
+title: "Clara Zetkin interviews Lenin on the women's question"
 category: "feminist-theory"
 ---
 

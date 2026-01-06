@@ -1,5 +1,5 @@
 ---
-title: "**Paradox of tolerance**"
+title: "Paradox of tolerance"
 category: "contemporary-analysis"
 ---
 

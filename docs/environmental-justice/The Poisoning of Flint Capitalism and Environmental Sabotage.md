@@ -1,5 +1,5 @@
 ---
-title: "## **The Poisoning of Flint: Capitalism and Environmental Sabotage**"
+title: "The Poisoning of Flint: Capitalism and Environmental Sabotage"
 category: "environmental-justice"
 ---
 

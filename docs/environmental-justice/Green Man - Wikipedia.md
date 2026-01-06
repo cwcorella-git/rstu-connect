@@ -1,5 +1,5 @@
 ---
-title: "**Green Man**"
+title: "Green Man"
 category: "environmental-justice"
 ---
 

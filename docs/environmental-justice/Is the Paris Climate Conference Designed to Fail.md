@@ -1,5 +1,5 @@
 ---
-title: "**Is the Paris Climate Conference Designed to Fail?**"
+title: "Is the Paris Climate Conference Designed to Fail?"
 category: "environmental-justice"
 ---
 

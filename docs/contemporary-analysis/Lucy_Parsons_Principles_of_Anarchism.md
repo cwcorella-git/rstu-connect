@@ -1,5 +1,5 @@
 ---
-title: "**The Principles of Anarchism**"
+title: "The Principles of Anarchism"
 category: "contemporary-analysis"
 ---
 

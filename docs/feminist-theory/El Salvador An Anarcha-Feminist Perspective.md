@@ -1,5 +1,5 @@
 ---
-title: "## **El Salvador: An Anarcha-Feminist Perspective**"
+title: "El Salvador: An Anarcha-Feminist Perspective"
 category: "feminist-theory"
 ---
 

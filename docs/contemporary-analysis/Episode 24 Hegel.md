@@ -1,5 +1,5 @@
 ---
-title: "## **Episode 24: Hegel/**"
+title: "Episode 24: Hegel/"
 category: "contemporary-analysis"
 ---
 

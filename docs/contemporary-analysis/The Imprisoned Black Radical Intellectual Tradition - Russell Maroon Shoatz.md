@@ -1,5 +1,5 @@
 ---
-title: "## **The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz**"
+title: "The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Scipio Africanus**"
+title: "Scipio Africanus"
 category: "international-solidarity"
 ---
 

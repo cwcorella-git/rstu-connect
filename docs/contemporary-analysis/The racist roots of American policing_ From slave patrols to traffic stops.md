@@ -1,5 +1,5 @@
 ---
-title: "**The racist roots of American policing: From slave patrols to traffic stops**"
+title: "The racist roots of American policing: From slave patrols to traffic stops"
 category: "contemporary-analysis"
 ---
 

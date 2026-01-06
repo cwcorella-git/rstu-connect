@@ -1,5 +1,5 @@
 ---
-title: "## **Evolution and Revolution**"
+title: "Evolution and Revolution"
 category: "contemporary-analysis"
 ---
 

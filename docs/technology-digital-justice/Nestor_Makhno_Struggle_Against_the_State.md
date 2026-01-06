@@ -1,5 +1,5 @@
 ---
-title: "**Chapter 2. On the 10th Anniversary of the Makhnovist Insurgent Movement in the Ukraine**"
+title: "Chapter 2. On the 10th Anniversary of the Makhnovist Insurgent Movement in the Ukraine"
 category: "technology-digital-justice"
 ---
 

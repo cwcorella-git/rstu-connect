@@ -1,5 +1,5 @@
 ---
-title: "## **Socialist Rifle Association Staff Join the IWW**"
+title: "Socialist Rifle Association Staff Join the IWW"
 category: "contemporary-analysis"
 ---
 

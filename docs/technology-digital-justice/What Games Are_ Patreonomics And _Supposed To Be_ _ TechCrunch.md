@@ -1,5 +1,5 @@
 ---
-title: "**What Games Are: Patreonomics And "Supposed To Be" | Tech Crunch**"
+title: "What Games Are: Patreonomics And \"Supposed To Be\" | Tech Crunch"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Itō Noe**"
+title: "Itō Noe"
 category: "contemporary-analysis"
 ---
 

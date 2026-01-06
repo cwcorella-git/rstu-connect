@@ -1,5 +1,5 @@
 ---
-title: "## **Indigenous Resistance Deserves Workers' Solidarity**"
+title: "Indigenous Resistance Deserves Workers' Solidarity"
 category: "labor"
 ---
 

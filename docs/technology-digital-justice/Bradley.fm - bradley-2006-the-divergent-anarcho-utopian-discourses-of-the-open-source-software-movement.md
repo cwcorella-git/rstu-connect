@@ -1,5 +1,5 @@
 ---
-title: "**The Divergent Anarcho-utopian Discourses of the Open Source Software Movement**"
+title: "The Divergent Anarcho-utopian Discourses of the Open Source Software Movement"
 category: "technology-digital-justice"
 ---
 

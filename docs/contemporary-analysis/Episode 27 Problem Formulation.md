@@ -1,5 +1,5 @@
 ---
-title: "**Episode 27: Problem Formulation/**"
+title: "Episode 27: Problem Formulation/"
 category: "contemporary-analysis"
 ---
 

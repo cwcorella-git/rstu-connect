@@ -1,5 +1,5 @@
 ---
-title: "**The Four Lenses of Game Making**"
+title: "The Four Lenses of Game Making"
 category: "contemporary-analysis"
 ---
 

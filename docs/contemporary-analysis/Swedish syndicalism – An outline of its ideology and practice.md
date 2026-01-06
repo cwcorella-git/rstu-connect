@@ -1,5 +1,5 @@
 ---
-title: "## **Swedish syndicalism – An outline of its ideology and practice**"
+title: "Swedish syndicalism – An outline of its ideology and practice"
 category: "contemporary-analysis"
 ---
 

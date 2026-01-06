@@ -1,5 +1,5 @@
 ---
-title: "**Anarchism and the Black Revolution**"
+title: "Anarchism and the Black Revolution"
 category: "contemporary-analysis"
 ---
 

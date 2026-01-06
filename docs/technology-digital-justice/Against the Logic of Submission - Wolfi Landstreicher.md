@@ -1,5 +1,5 @@
 ---
-title: "**Against the Logic of Submission - Wolfi Landstreicher**"
+title: "Against the Logic of Submission - Wolfi Landstreicher"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Albert Jensen**"
+title: "Albert Jensen"
 category: "technology-digital-justice"
 ---
 

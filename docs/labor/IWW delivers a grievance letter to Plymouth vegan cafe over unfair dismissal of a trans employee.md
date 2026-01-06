@@ -1,5 +1,5 @@
 ---
-title: "## **IWW delivers a grievance letter to Plymouth vegan cafe over unfair dismissal of a trans employe"
+title: "IWW delivers a grievance letter to Plymouth vegan cafe over unfair dismissal of a trans employe"
 category: "labor"
 ---
 

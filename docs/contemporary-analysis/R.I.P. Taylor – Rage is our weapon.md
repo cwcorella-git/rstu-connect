@@ -1,5 +1,5 @@
 ---
-title: "## **R. I. P. Taylor – Rage is our weapon**"
+title: "R. I. P. Taylor – Rage is our weapon"
 category: "contemporary-analysis"
 ---
 

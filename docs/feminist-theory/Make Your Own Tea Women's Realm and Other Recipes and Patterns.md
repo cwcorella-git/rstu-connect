@@ -1,5 +1,5 @@
 ---
-title: "## **Make Your Own Tea: Women's Realm and Other Recipes and Patterns**"
+title: "Make Your Own Tea: Women's Realm and Other Recipes and Patterns"
 category: "feminist-theory"
 ---
 

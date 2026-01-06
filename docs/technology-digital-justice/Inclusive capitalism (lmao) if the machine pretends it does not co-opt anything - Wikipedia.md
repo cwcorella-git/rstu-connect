@@ -1,5 +1,5 @@
 ---
-title: "**Inclusive capitalism**"
+title: "Inclusive capitalism"
 category: "technology-digital-justice"
 ---
 

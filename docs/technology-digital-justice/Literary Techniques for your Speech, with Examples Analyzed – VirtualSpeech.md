@@ -1,5 +1,5 @@
 ---
-title: "**Literary Techniques for your Speech, with Examples Analyzed**"
+title: "Literary Techniques for your Speech, with Examples Analyzed"
 category: "technology-digital-justice"
 ---
 

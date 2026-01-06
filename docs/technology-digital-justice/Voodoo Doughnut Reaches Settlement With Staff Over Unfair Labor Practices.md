@@ -1,5 +1,5 @@
 ---
-title: "## **Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices**"
+title: "Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices"
 category: "technology-digital-justice"
 ---
 

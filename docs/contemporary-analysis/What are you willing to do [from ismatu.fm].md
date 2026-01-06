@@ -1,5 +1,5 @@
 ---
-title: "## **What are you willing to do? [from ismatu.fm]**"
+title: "What are you willing to do? [from ismatu.fm]"
 category: "contemporary-analysis"
 ---
 

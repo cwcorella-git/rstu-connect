@@ -1,5 +1,5 @@
 ---
-title: "## **They Call It Suicide, We Call It Murder - Black Flag**"
+title: "They Call It Suicide, We Call It Murder - Black Flag"
 category: "contemporary-analysis"
 ---
 

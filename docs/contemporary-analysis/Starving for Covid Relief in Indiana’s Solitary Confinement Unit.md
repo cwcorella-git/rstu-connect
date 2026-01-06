@@ -1,5 +1,5 @@
 ---
-title: "## **Starving for Covid Relief in Indiana's Solitary Confinement Unit**"
+title: "Starving for Covid Relief in Indiana's Solitary Confinement Unit"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Black bloc**"
+title: "Black bloc"
 category: "contemporary-analysis"
 ---
 

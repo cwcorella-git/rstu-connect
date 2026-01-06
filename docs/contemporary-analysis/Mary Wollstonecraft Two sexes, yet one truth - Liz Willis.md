@@ -1,5 +1,5 @@
 ---
-title: "## **Mary Wollstonecraft: Two sexes, yet one truth - Liz Willis**"
+title: "Mary Wollstonecraft: Two sexes, yet one truth - Liz Willis"
 category: "contemporary-analysis"
 ---
 

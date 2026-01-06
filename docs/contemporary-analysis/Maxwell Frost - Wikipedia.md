@@ -1,5 +1,5 @@
 ---
-title: "**Maxwell Frost**"
+title: "Maxwell Frost"
 category: "contemporary-analysis"
 ---
 

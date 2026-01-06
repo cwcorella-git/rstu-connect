@@ -1,5 +1,5 @@
 ---
-title: "**Autarchies**"
+title: "Autarchies"
 category: "contemporary-analysis"
 ---
 

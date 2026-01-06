@@ -1,5 +1,5 @@
 ---
-title: "## **The first signs of an ecological class struggle in Germany**"
+title: "The first signs of an ecological class struggle in Germany"
 category: "environmental-justice"
 ---
 

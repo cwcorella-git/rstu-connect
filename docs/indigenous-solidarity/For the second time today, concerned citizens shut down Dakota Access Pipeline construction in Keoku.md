@@ -1,5 +1,5 @@
 ---
-title: "## **For the second time today, concerned citizens shut down Dakota Access Pipeline construction in "
+title: "For the second time today, concerned citizens shut down Dakota Access Pipeline construction in"
 category: "indigenous-solidarity"
 ---
 

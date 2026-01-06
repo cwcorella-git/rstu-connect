@@ -1,5 +1,5 @@
 ---
-title: "**Battle of Bunker Hill**"
+title: "Battle of Bunker Hill"
 category: "contemporary-analysis"
 ---
 

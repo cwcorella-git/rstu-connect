@@ -1,5 +1,5 @@
 ---
-title: "## **COP26: We Only Want the Earth**"
+title: "COP26: We Only Want the Earth"
 category: "arts-culture-music"
 ---
 

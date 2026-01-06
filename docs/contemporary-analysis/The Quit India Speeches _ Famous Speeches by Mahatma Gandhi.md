@@ -1,5 +1,5 @@
 ---
-title: "**The Quit India Speeches | Famous Speeches by Mahatma Gandhi**"
+title: "The Quit India Speeches | Famous Speeches by Mahatma Gandhi"
 category: "contemporary-analysis"
 ---
 

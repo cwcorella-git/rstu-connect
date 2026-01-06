@@ -1,5 +1,5 @@
 ---
-title: "**Interpersonal deception theory**"
+title: "Interpersonal deception theory"
 category: "contemporary-analysis"
 ---
 

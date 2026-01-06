@@ -1,5 +1,5 @@
 ---
-title: "**Thaddeus Stevens**"
+title: "Thaddeus Stevens"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Greek public broadcasting shutdown**"
+title: "Greek public broadcasting shutdown"
 category: "contemporary-analysis"
 ---
 

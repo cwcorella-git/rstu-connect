@@ -1,5 +1,5 @@
 ---
-title: "**Episode 47: Heidegger/**"
+title: "Episode 47: Heidegger/"
 category: "contemporary-analysis"
 ---
 

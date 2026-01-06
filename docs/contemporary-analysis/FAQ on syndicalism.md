@@ -1,5 +1,5 @@
 ---
-title: "## **FAQ on syndicalism**"
+title: "FAQ on syndicalism"
 category: "contemporary-analysis"
 ---
 

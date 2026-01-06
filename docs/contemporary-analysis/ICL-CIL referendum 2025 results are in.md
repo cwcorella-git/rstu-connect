@@ -1,5 +1,5 @@
 ---
-title: "## **ICL-CIL referendum 2025: results are in**"
+title: "ICL-CIL referendum 2025: results are in"
 category: "contemporary-analysis"
 ---
 

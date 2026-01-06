@@ -1,5 +1,5 @@
 ---
-title: "## **Plane Stupid stands in solidarity with #Black Lives Matter's #Shut Down**"
+title: "Plane Stupid stands in solidarity with #Black Lives Matter's #Shut Down"
 category: "contemporary-analysis"
 ---
 

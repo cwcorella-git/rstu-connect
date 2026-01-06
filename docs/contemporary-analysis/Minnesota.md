@@ -1,5 +1,5 @@
 ---
-title: "**Minnesota**"
+title: "Minnesota"
 category: "contemporary-analysis"
 ---
 

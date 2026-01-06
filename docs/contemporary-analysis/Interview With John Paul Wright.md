@@ -1,5 +1,5 @@
 ---
-title: "## **Interview With John Paul Wright**"
+title: "Interview With John Paul Wright"
 category: "contemporary-analysis"
 ---
 

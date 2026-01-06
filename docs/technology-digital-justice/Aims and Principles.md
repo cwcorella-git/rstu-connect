@@ -1,5 +1,5 @@
 ---
-title: "## **Anarchist Federation**"
+title: "Anarchist Federation"
 category: "technology-digital-justice"
 ---
 

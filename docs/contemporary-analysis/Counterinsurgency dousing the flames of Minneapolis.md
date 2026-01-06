@@ -1,5 +1,5 @@
 ---
-title: "## **Counterinsurgency: dousing the flames of Minneapolis**"
+title: "Counterinsurgency: dousing the flames of Minneapolis"
 category: "contemporary-analysis"
 ---
 

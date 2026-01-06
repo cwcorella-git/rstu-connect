@@ -1,5 +1,5 @@
 ---
-title: "## **Can the Climate Movement Break Free From the 'Jobs vs. Environment' Debate?**"
+title: "Can the Climate Movement Break Free From the 'Jobs vs. Environment' Debate?"
 category: "environmental-justice"
 ---
 

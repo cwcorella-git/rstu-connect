@@ -1,5 +1,5 @@
 ---
-title: "**Seraph**"
+title: "Seraph"
 category: "contemporary-analysis"
 ---
 

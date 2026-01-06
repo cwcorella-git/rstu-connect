@@ -1,5 +1,5 @@
 ---
-title: "**Marcion of Sinope**"
+title: "Marcion of Sinope"
 category: "contemporary-analysis"
 ---
 

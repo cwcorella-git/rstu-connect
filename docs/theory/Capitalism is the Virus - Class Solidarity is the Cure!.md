@@ -1,5 +1,5 @@
 ---
-title: "## **Capitalism is the Virus - Class Solidarity is the Cure!**"
+title: "Capitalism is the Virus - Class Solidarity is the Cure!"
 category: "theory"
 ---
 

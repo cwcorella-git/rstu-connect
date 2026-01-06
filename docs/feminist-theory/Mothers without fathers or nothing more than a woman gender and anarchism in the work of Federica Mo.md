@@ -1,5 +1,5 @@
 ---
-title: "## **Mothers without fathers or nothing more than a woman: gender and anarchism in the work of Feder"
+title: "Mothers without fathers or nothing more than a woman: gender and anarchism in the work of Feder"
 category: "feminist-theory"
 ---
 

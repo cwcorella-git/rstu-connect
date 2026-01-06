@@ -1,5 +1,5 @@
 ---
-title: "## **"Textbooks are becoming obsolete" says Bill Gates**"
+title: "\"Textbooks are becoming obsolete\" says Bill Gates"
 category: "arts-culture-music"
 ---
 

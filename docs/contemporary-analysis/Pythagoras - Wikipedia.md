@@ -1,5 +1,5 @@
 ---
-title: "**Pythagoras**"
+title: "Pythagoras"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Students, Activists, and Communists in Movement Politics**"
+title: "Students, Activists, and Communists in Movement Politics"
 category: "organizing"
 ---
 

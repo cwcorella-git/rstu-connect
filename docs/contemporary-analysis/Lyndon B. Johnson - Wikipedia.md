@@ -1,5 +1,5 @@
 ---
-title: "**Lyndon B. Johnson**"
+title: "Lyndon B. Johnson"
 category: "contemporary-analysis"
 ---
 

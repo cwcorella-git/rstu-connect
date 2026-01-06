@@ -1,5 +1,5 @@
 ---
-title: "**Freetown Christiania**"
+title: "Freetown Christiania"
 category: "contemporary-analysis"
 ---
 

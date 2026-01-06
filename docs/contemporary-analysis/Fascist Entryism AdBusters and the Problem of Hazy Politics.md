@@ -1,5 +1,5 @@
 ---
-title: "**Fascist Entryism: Ad Busters and the Problem of Hazy Politics**"
+title: "Fascist Entryism: Ad Busters and the Problem of Hazy Politics"
 category: "contemporary-analysis"
 ---
 

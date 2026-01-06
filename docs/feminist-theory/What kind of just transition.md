@@ -1,5 +1,5 @@
 ---
-title: "## **What kind of "just transition"?**"
+title: "What kind of \"just transition\"?"
 category: "feminist-theory"
 ---
 

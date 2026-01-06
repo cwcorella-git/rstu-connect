@@ -1,5 +1,5 @@
 ---
-title: "## **Living The Dream in the time of #metoo Part 1**"
+title: "Living The Dream in the time of #metoo Part 1"
 category: "arts-culture-music"
 ---
 

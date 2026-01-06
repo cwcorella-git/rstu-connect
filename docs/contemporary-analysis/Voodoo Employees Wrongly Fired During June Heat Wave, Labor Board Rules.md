@@ -1,5 +1,5 @@
 ---
-title: "## **Voodoo Employees Wrongly Fired During June Heat Wave, Labor Board Rules**"
+title: "Voodoo Employees Wrongly Fired During June Heat Wave, Labor Board Rules"
 category: "contemporary-analysis"
 ---
 

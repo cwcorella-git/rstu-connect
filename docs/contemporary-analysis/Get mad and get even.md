@@ -1,5 +1,5 @@
 ---
-title: "## **Get mad and get even**"
+title: "Get mad and get even"
 category: "contemporary-analysis"
 ---
 

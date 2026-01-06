@@ -1,5 +1,5 @@
 ---
-title: "**Eternal Sunshine of the Spotless Mind**"
+title: "Eternal Sunshine of the Spotless Mind"
 category: "contemporary-analysis"
 ---
 

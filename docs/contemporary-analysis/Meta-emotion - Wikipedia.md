@@ -1,5 +1,5 @@
 ---
-title: "**Meta-emotion**"
+title: "Meta-emotion"
 category: "contemporary-analysis"
 ---
 

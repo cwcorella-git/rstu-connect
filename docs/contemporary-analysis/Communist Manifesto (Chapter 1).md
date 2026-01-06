@@ -1,5 +1,5 @@
 ---
-title: "**Communist Manifesto (Chapter 1)**"
+title: "Communist Manifesto (Chapter 1)"
 category: "contemporary-analysis"
 ---
 

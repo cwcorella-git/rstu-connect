@@ -1,5 +1,5 @@
 ---
-title: "## **Strategies For Climate Justice And A Just Transition**"
+title: "Strategies For Climate Justice And A Just Transition"
 category: "feminist-theory"
 ---
 

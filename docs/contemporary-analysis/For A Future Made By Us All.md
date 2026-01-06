@@ -1,5 +1,5 @@
 ---
-title: "**Rebel City London**"
+title: "Rebel City London"
 category: "contemporary-analysis"
 ---
 

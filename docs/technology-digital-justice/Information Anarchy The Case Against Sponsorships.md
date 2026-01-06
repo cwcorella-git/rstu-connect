@@ -1,5 +1,5 @@
 ---
-title: "## **Information Anarchy: The Case Against Sponsorships**"
+title: "Information Anarchy: The Case Against Sponsorships"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Two Concepts of Rules**"
+title: "Two Concepts of Rules"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Well, If You Ask Me: Flint**"
+title: "Well, If You Ask Me: Flint"
 category: "contemporary-analysis"
 ---
 

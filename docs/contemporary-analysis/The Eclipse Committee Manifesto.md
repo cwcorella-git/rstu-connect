@@ -1,5 +1,5 @@
 ---
-title: "## **The Eclipse Committee Manifesto**"
+title: "The Eclipse Committee Manifesto"
 category: "contemporary-analysis"
 ---
 

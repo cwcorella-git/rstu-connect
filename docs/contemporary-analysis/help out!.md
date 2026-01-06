@@ -1,5 +1,5 @@
 ---
-title: "## **help out!**"
+title: "help out!"
 category: "contemporary-analysis"
 ---
 

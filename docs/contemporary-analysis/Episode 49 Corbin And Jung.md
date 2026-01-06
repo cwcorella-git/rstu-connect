@@ -1,5 +1,5 @@
 ---
-title: "**Episode 49: Corbin And Jung/**"
+title: "Episode 49: Corbin And Jung/"
 category: "contemporary-analysis"
 ---
 

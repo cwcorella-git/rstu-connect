@@ -1,5 +1,5 @@
 ---
-title: "## **There are a great many springtimes: notes on Bethann Hardison's Invisible Beauty**"
+title: "There are a great many springtimes: notes on Bethann Hardison's Invisible Beauty"
 category: "contemporary-analysis"
 ---
 

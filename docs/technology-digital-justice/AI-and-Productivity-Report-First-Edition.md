@@ -1,5 +1,5 @@
 ---
-title: "**Early LLM-based Tools for Enterprise Information Workers Likely Provide Meaningful Boosts to Productivity**"
+title: "Early LLM-based Tools for Enterprise Information Workers Likely Provide Meaningful Boosts to Productivity"
 category: "technology-digital-justice"
 ---
 

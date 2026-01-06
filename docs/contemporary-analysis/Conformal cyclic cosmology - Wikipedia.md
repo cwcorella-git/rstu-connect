@@ -1,5 +1,5 @@
 ---
-title: "**Conformal cyclic cosmology**"
+title: "Conformal cyclic cosmology"
 category: "contemporary-analysis"
 ---
 

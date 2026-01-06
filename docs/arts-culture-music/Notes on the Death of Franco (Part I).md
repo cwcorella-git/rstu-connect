@@ -1,5 +1,5 @@
 ---
-title: "## **Notes on the Death of Franco (Part I)**"
+title: "Notes on the Death of Franco (Part I)"
 category: "arts-culture-music"
 ---
 

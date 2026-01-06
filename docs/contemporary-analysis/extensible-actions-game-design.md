@@ -1,5 +1,5 @@
 ---
-title: "**[What Games Are](https://web.archive.org/web/20250913134028/https://www.whatgamesare.com/)**"
+title: "What Games Are"
 category: "contemporary-analysis"
 ---
 

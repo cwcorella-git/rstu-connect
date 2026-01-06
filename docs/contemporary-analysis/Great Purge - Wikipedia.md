@@ -1,5 +1,5 @@
 ---
-title: "**Great Purge**"
+title: "Great Purge"
 category: "contemporary-analysis"
 ---
 

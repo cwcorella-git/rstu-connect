@@ -1,5 +1,5 @@
 ---
-title: "**Anarcho-syndicalism: Theory and Practice**"
+title: "Anarcho-syndicalism: Theory and Practice"
 category: "contemporary-analysis"
 ---
 

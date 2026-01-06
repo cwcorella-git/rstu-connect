@@ -1,5 +1,5 @@
 ---
-title: "## **Popular Front. A volunteer group in occupied Melitopol is under persecution for their aid**"
+title: "Popular Front. A volunteer group in occupied Melitopol is under persecution for their aid"
 category: "organizing"
 ---
 

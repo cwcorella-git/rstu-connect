@@ -1,5 +1,5 @@
 ---
-title: "## **RESCHEDULE: Financial Transparency Meetings**"
+title: "RESCHEDULE: Financial Transparency Meetings"
 category: "feminist-theory"
 ---
 

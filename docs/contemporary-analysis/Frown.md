@@ -1,5 +1,5 @@
 ---
-title: "**Frown**"
+title: "Frown"
 category: "contemporary-analysis"
 ---
 

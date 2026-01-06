@@ -1,5 +1,5 @@
 ---
-title: "## **Unions Prepare for UN Climate Talks in Marrakesh**"
+title: "Unions Prepare for UN Climate Talks in Marrakesh"
 category: "environmental-justice"
 ---
 

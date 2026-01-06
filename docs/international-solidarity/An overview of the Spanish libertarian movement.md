@@ -1,5 +1,5 @@
 ---
-title: "## **An overview of the Spanish libertarian movement**"
+title: "An overview of the Spanish libertarian movement"
 category: "international-solidarity"
 ---
 

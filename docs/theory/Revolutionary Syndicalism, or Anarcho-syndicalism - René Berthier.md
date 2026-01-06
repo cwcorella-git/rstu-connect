@@ -1,5 +1,5 @@
 ---
-title: "## **Revolutionary Syndicalism, or Anarcho-syndicalism - René Berthier**"
+title: "Revolutionary Syndicalism, or Anarcho-syndicalism - René Berthier"
 category: "theory"
 ---
 

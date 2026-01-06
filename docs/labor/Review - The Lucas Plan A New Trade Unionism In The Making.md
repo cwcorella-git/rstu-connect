@@ -1,5 +1,5 @@
 ---
-title: "## **Review - The Lucas Plan: A New Trade Unionism In The Making?**"
+title: "Review - The Lucas Plan: A New Trade Unionism In The Making?"
 category: "labor"
 ---
 

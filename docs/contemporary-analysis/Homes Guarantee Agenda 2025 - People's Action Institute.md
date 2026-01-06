@@ -1,5 +1,5 @@
 ---
-title: "**Homes Guarantee Agenda 2025**"
+title: "Homes Guarantee Agenda 2025"
 category: "contemporary-analysis"
 ---
 

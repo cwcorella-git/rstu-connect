@@ -1,5 +1,5 @@
 ---
-title: "## **Direct Action (Sol Fed) #12 1999**"
+title: "Direct Action (Sol Fed) #12 1999"
 category: "contemporary-analysis"
 ---
 

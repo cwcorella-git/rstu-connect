@@ -1,5 +1,5 @@
 ---
-title: "## **We Want Bomani Shakur Free!: A Zine Commemorating RAM's Month of Action for Bomani**"
+title: "We Want Bomani Shakur Free!: A Zine Commemorating RAM's Month of Action for Bomani"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **AFT Local 2026 Resolution on a Just Transition to a Peaceful and Sustainable Economy**"
+title: "AFT Local 2026 Resolution on a Just Transition to a Peaceful and Sustainable Economy"
 category: "feminist-theory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Video Game Writing and the Sense of Story [Writing]**"
+title: "Video Game Writing and the Sense of Story [Writing]"
 category: "contemporary-analysis"
 ---
 

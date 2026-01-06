@@ -1,5 +1,5 @@
 ---
-title: "## **The Green New Deal Isn't Just Affordable, It's Necessary Now**"
+title: "The Green New Deal Isn't Just Affordable, It's Necessary Now"
 category: "environmental-justice"
 ---
 

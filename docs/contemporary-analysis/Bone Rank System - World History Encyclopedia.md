@@ -1,5 +1,5 @@
 ---
-title: "**Bone Rank System**"
+title: "Bone Rank System"
 category: "contemporary-analysis"
 ---
 

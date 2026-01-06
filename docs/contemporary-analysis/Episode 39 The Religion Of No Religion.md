@@ -1,5 +1,5 @@
 ---
-title: "**Episode 39: The Religion Of No Religion/**"
+title: "Episode 39: The Religion Of No Religion/"
 category: "contemporary-analysis"
 ---
 

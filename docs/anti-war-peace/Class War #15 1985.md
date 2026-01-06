@@ -1,5 +1,5 @@
 ---
-title: "## **Class War #15 1985**"
+title: "Class War #15 1985"
 category: "anti-war-peace"
 ---
 

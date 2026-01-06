@@ -1,5 +1,5 @@
 ---
-title: "**Connollism – Solidarity**"
+title: "Connollism – Solidarity"
 category: "theory"
 ---
 

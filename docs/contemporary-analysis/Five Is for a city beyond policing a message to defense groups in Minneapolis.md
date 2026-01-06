@@ -1,5 +1,5 @@
 ---
-title: "## **Five "I"s for a city beyond policing: a message to defense groups in Minneapolis**"
+title: "Five 'I's for a city beyond policing: a message to defense groups in Minneapolis"
 category: "contemporary-analysis"
 ---
 

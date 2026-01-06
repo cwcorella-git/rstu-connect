@@ -1,5 +1,5 @@
 ---
-title: "**Freetown**"
+title: "Freetown"
 category: "contemporary-analysis"
 ---
 

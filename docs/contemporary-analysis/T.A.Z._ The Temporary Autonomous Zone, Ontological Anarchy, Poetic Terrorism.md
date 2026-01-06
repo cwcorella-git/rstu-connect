@@ -1,5 +1,5 @@
 ---
-title: "**Hakim Bey**"
+title: "Hakim Bey"
 category: "contemporary-analysis"
 ---
 

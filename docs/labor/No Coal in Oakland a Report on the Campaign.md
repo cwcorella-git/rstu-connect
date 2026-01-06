@@ -1,5 +1,5 @@
 ---
-title: "**No Coal in Oakland: a Report on the Campaign**"
+title: "No Coal in Oakland: a Report on the Campaign"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**The Economy of Ideas**"
+title: "The Economy of Ideas"
 category: "economic-alternatives"
 ---
 

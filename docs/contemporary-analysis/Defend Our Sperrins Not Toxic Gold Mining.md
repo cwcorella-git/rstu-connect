@@ -1,5 +1,5 @@
 ---
-title: "## **Defend Our Sperrins Not Toxic Gold Mining**"
+title: "Defend Our Sperrins Not Toxic Gold Mining"
 category: "contemporary-analysis"
 ---
 

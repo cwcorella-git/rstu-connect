@@ -1,5 +1,5 @@
 ---
-title: "## **Following up on the FTP 2017 Convergence**"
+title: "Following up on the FTP 2017 Convergence"
 category: "contemporary-analysis"
 ---
 

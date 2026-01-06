@@ -1,5 +1,5 @@
 ---
-title: "**Godot Animation Tutorial - Comprehensive Guide - Game Dev Academy**"
+title: "Godot Animation Tutorial - Comprehensive Guide - Game Dev Academy"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Their Crimes, Our Punishment: Texas Department of Criminal Justice's State-Wide Deadly Use of F"
+title: "Their Crimes, Our Punishment: Texas Department of Criminal Justice's State-Wide Deadly Use of F"
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Barricade Bulletin 03 - March 2017**"
+title: "Barricade Bulletin 03 - March 2017"
 category: "contemporary-analysis"
 ---
 

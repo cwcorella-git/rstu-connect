@@ -1,5 +1,5 @@
 ---
-title: "## **Getting Serious About Keeping Fossil Fuels in the Ground Means Getting Serious About a Just Tra"
+title: "Getting Serious About Keeping Fossil Fuels in the Ground Means Getting Serious About a Just Tra"
 category: "feminist-theory"
 ---
 

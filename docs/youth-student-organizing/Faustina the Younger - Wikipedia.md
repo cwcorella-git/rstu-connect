@@ -1,5 +1,5 @@
 ---
-title: "**Faustina the Younger**"
+title: "Faustina the Younger"
 category: "youth-student-organizing"
 ---
 

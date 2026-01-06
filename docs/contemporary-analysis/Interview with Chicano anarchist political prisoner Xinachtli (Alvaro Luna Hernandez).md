@@ -1,5 +1,5 @@
 ---
-title: "## **Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez)**"
+title: "Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez)"
 category: "contemporary-analysis"
 ---
 

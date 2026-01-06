@@ -1,5 +1,5 @@
 ---
-title: "## **To The CEOs of General Motors, Ford, and Stellantis:**"
+title: "To The CEOs of General Motors, Ford, and Stellantis:"
 category: "contemporary-analysis"
 ---
 

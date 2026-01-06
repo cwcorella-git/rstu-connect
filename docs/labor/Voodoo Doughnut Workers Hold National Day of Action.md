@@ -1,5 +1,5 @@
 ---
-title: "## **Voodoo Doughnut Workers Hold National Day of Action**"
+title: "Voodoo Doughnut Workers Hold National Day of Action"
 category: "labor"
 ---
 

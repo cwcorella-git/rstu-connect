@@ -1,5 +1,5 @@
 ---
-title: "## **The Revolution Will Be On Rail, Part I**"
+title: "The Revolution Will Be On Rail, Part I"
 category: "arts-culture-music"
 ---
 

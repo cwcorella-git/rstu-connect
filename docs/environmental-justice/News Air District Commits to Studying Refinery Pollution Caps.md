@@ -1,5 +1,5 @@
 ---
-title: "## **News: Air District Commits to Studying Refinery Pollution Caps**"
+title: "News: Air District Commits to Studying Refinery Pollution Caps"
 category: "environmental-justice"
 ---
 

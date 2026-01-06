@@ -1,5 +1,5 @@
 ---
-title: "## **1957: Colombian General Strike**"
+title: "1957: Colombian General Strike"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**PAD emotional state model**"
+title: "PAD emotional state model"
 category: "contemporary-analysis"
 ---
 

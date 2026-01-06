@@ -1,5 +1,5 @@
 ---
-title: "## **Standing Rock and Beyond: Big Oil's Corporate Dislocations and Extortions**"
+title: "Standing Rock and Beyond: Big Oil's Corporate Dislocations and Extortions"
 category: "environmental-justice"
 ---
 

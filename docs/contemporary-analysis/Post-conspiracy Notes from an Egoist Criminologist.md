@@ -1,5 +1,5 @@
 ---
-title: "## **Post-conspiracy: Notes from an Egoist Criminologist**"
+title: "Post-conspiracy: Notes from an Egoist Criminologist"
 category: "contemporary-analysis"
 ---
 

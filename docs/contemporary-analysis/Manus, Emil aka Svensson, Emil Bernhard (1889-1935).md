@@ -1,5 +1,5 @@
 ---
-title: "## **Manus, Emil aka Svensson, Emil Bernhard (1889-1935)**"
+title: "Manus, Emil aka Svensson, Emil Bernhard (1889-1935)"
 category: "contemporary-analysis"
 ---
 

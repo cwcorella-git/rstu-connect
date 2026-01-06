@@ -1,5 +1,5 @@
 ---
-title: "## **Victor Serge's Anarchist Opposition to Belgian Colonialism in Congo - Jeff Shantz**"
+title: "Victor Serge's Anarchist Opposition to Belgian Colonialism in Congo - Jeff Shantz"
 category: "theory"
 ---
 

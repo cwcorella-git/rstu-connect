@@ -1,5 +1,5 @@
 ---
-title: "**the @ismatu.gwendolyn experiment: risk, love, conduction.**"
+title: "the @ismatu.gwendolyn experiment: risk, love, conduction."
 category: "contemporary-analysis"
 ---
 

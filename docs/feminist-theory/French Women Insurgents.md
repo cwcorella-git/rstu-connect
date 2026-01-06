@@ -1,5 +1,5 @@
 ---
-title: "## **French Women Insurgents**"
+title: "French Women Insurgents"
 category: "feminist-theory"
 ---
 

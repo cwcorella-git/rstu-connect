@@ -1,5 +1,5 @@
 ---
-title: "What is Deep Water Culture (DWC system) - Tutorial ★ January [date template="Y"]"
+title: "What is Deep Water Culture (DWC system) - Tutorial ★ January [date template=\"Y\"]"
 category: "environmental-justice"
 ---
 

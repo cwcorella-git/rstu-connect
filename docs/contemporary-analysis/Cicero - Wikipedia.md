@@ -1,5 +1,5 @@
 ---
-title: "**Cicero**"
+title: "Cicero"
 category: "contemporary-analysis"
 ---
 

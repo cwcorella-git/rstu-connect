@@ -1,5 +1,5 @@
 ---
-title: "**Episode 34: Sacredness Horror Music And The Symbol/**"
+title: "Episode 34: Sacredness Horror Music And The Symbol/"
 category: "arts-culture-music"
 ---
 

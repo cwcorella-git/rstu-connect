@@ -1,5 +1,5 @@
 ---
-title: "## **The New Prisoner - Martin Sostre (with introduction by Garrett Felber)**"
+title: "The New Prisoner - Martin Sostre (with introduction by Garrett Felber)"
 category: "arts-culture-music"
 ---
 

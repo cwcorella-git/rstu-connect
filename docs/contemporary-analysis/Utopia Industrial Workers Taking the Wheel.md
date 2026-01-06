@@ -1,5 +1,5 @@
 ---
-title: "## **Utopia: Industrial Workers Taking the Wheel**"
+title: "Utopia: Industrial Workers Taking the Wheel"
 category: "contemporary-analysis"
 ---
 

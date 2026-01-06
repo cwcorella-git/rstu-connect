@@ -1,5 +1,5 @@
 ---
-title: "**Crimeth Inc.**"
+title: "Crimeth Inc."
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Siberian punk may be imprisoned for anti-militarist agitation**"
+title: "Siberian punk may be imprisoned for anti-militarist agitation"
 category: "abolition"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Report on Oil Train Response 2015 Crude Awakening Network Founding Conference**"
+title: "Report on Oil Train Response 2015 Crude Awakening Network Founding Conference"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**The Commons**"
+title: "The Commons"
 category: "contemporary-analysis"
 ---
 

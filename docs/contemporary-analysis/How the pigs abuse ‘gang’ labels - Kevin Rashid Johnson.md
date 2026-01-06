@@ -1,5 +1,5 @@
 ---
-title: "## **How the pigs abuse 'gang' labels - Kevin "Rashid" Johnson**"
+title: "How the pigs abuse 'gang' labels - Kevin 'Rashid' Johnson"
 category: "contemporary-analysis"
 ---
 

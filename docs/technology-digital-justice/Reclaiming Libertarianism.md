@@ -1,5 +1,5 @@
 ---
-title: "## **Reclaiming Libertarianism**"
+title: "Reclaiming Libertarianism"
 category: "technology-digital-justice"
 ---
 

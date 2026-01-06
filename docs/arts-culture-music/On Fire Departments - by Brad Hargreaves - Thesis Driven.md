@@ -1,5 +1,5 @@
 ---
-title: "**On Fire Departments**"
+title: "On Fire Departments"
 category: "arts-culture-music"
 ---
 

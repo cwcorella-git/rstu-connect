@@ -1,5 +1,5 @@
 ---
-title: "## **Railroad and UC Workers Solidarity**"
+title: "Railroad and UC Workers Solidarity"
 category: "technology-digital-justice"
 ---
 

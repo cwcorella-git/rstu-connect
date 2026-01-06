@@ -1,5 +1,5 @@
 ---
-title: "**Mondragon Corporation**"
+title: "Mondragon Corporation"
 category: "contemporary-analysis"
 ---
 

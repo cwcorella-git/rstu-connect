@@ -1,5 +1,5 @@
 ---
-title: "**Nevada Division of Natural Heritage**"
+title: "Nevada Division of Natural Heritage"
 category: "contemporary-analysis"
 ---
 

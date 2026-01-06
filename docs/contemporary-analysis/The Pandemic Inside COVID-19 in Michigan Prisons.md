@@ -1,5 +1,5 @@
 ---
-title: "## **The Pandemic Inside: COVID-19 in Michigan Prisons**"
+title: "The Pandemic Inside: COVID-19 in Michigan Prisons"
 category: "contemporary-analysis"
 ---
 

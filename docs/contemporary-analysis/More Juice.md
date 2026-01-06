@@ -1,5 +1,5 @@
 ---
-title: "## **More Juice?**"
+title: "More Juice?"
 category: "contemporary-analysis"
 ---
 

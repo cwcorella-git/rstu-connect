@@ -1,5 +1,5 @@
 ---
-title: "## **Workers at Urban Ore, Berkeley's last salvage store, announce union drive**"
+title: "Workers at Urban Ore, Berkeley's last salvage store, announce union drive"
 category: "contemporary-analysis"
 ---
 

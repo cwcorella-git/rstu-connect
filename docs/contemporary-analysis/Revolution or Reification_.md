@@ -1,5 +1,5 @@
 ---
-title: "**Revolution or Reification? A Critique of FRSO's Political Program 2024**"
+title: "Revolution or Reification? A Critique of FRSO's Political Program 2024"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Committee for Academic Freedom in Africa newsletter**"
+title: "Committee for Academic Freedom in Africa newsletter"
 category: "international-solidarity"
 ---
 

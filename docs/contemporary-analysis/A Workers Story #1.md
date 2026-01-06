@@ -1,5 +1,5 @@
 ---
-title: "## **A Workers Story #1**"
+title: "A Workers Story #1"
 category: "contemporary-analysis"
 ---
 

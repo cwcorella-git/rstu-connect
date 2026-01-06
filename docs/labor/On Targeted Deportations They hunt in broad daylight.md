@@ -1,5 +1,5 @@
 ---
-title: "## **On Targeted Deportations: They hunt in broad daylight.**"
+title: "On Targeted Deportations: They hunt in broad daylight."
 category: "labor"
 ---
 

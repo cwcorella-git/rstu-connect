@@ -1,5 +1,5 @@
 ---
-title: "## **Alameda County Central Labor Council Climate and Environmental Justice Caucus Mission Statement"
+title: "Alameda County Central Labor Council Climate and Environmental Justice Caucus Mission Statement"
 category: "labor"
 ---
 

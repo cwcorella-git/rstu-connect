@@ -1,5 +1,5 @@
 ---
-title: "**Free Software Is Even More Important Now**"
+title: "Free Software Is Even More Important Now"
 category: "technology-digital-justice"
 ---
 

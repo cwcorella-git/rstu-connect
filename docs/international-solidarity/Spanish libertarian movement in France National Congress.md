@@ -1,5 +1,5 @@
 ---
-title: "## **Spanish libertarian movement in France National Congress**"
+title: "Spanish libertarian movement in France National Congress"
 category: "international-solidarity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **May Day in Ft. Leavenworth: Socialist, IWW, & Anarchist Prisoners Celebrate (1919)**"
+title: "May Day in Ft. Leavenworth: Socialist, IWW, & Anarchist Prisoners Celebrate (1919)"
 category: "contemporary-analysis"
 ---
 

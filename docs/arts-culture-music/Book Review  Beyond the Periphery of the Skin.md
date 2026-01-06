@@ -1,5 +1,5 @@
 ---
-title: "## **Book Review | Beyond the Periphery of the Skin**"
+title: "Book Review | Beyond the Periphery of the Skin"
 category: "arts-culture-music"
 ---
 

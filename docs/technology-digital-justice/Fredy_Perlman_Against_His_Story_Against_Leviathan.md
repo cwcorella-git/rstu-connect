@@ -1,5 +1,5 @@
 ---
-title: "**Against His-story, Against Leviathan**"
+title: "Against His-story, Against Leviathan"
 category: "technology-digital-justice"
 ---
 

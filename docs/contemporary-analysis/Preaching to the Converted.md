@@ -1,5 +1,5 @@
 ---
-title: "## **Preaching to the Converted?**"
+title: "Preaching to the Converted?"
 category: "contemporary-analysis"
 ---
 

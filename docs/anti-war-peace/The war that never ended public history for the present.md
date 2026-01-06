@@ -1,5 +1,5 @@
 ---
-title: "## **The war that never ended: public history for the present**"
+title: "The war that never ended: public history for the present"
 category: "anti-war-peace"
 ---
 

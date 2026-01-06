@@ -1,5 +1,5 @@
 ---
-title: "## **Asking questions with the Zapatistas (ebook)**"
+title: "Asking questions with the Zapatistas (ebook)"
 category: "arts-culture-music"
 ---
 

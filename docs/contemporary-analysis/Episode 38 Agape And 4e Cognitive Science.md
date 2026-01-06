@@ -1,5 +1,5 @@
 ---
-title: "**Episode 38: Agape And 4e Cognitive Science/**"
+title: "Episode 38: Agape And 4e Cognitive Science/"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Albert Libertad**"
+title: "Albert Libertad"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Eco-Socialism and Decentralism**"
+title: "Eco-Socialism and Decentralism"
 category: "contemporary-analysis"
 ---
 

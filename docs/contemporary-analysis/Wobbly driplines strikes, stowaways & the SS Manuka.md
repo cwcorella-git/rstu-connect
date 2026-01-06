@@ -1,5 +1,5 @@
 ---
-title: "## **Wobbly driplines: strikes, stowaways & the SS Manuka**"
+title: "Wobbly driplines: strikes, stowaways & the SS Manuka"
 category: "contemporary-analysis"
 ---
 

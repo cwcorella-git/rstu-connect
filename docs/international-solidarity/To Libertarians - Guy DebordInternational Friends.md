@@ -1,5 +1,5 @@
 ---
-title: "## **To Libertarians - Guy Debord/International Friends**"
+title: "To Libertarians - Guy Debord/International Friends"
 category: "international-solidarity"
 ---
 

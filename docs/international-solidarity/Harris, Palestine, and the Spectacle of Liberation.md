@@ -1,5 +1,5 @@
 ---
-title: "## **Harris, Palestine, and the Spectacle of Liberation.**"
+title: "Harris, Palestine, and the Spectacle of Liberation."
 category: "international-solidarity"
 ---
 

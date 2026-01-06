@@ -1,5 +1,5 @@
 ---
-title: "**Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991**"
+title: "Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991"
 category: "arts-culture-music"
 ---
 

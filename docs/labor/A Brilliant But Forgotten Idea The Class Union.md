@@ -1,5 +1,5 @@
 ---
-title: "## **A Brilliant But Forgotten Idea: The Class Union**"
+title: "A Brilliant But Forgotten Idea: The Class Union"
 category: "labor"
 ---
 

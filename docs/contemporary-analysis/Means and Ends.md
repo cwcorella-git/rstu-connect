@@ -1,5 +1,5 @@
 ---
-title: "**Zoe Baker**"
+title: "Zoe Baker"
 category: "contemporary-analysis"
 ---
 

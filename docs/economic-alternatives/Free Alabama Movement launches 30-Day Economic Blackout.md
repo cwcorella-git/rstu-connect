@@ -1,5 +1,5 @@
 ---
-title: "## **Free Alabama Movement launches 30-Day Economic Blackout**"
+title: "Free Alabama Movement launches 30-Day Economic Blackout"
 category: "economic-alternatives"
 ---
 

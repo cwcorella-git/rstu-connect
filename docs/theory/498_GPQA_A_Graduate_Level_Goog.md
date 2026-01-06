@@ -1,5 +1,5 @@
 ---
-title: "**GPQA: A Graduate-Level Google-Proof Q&A Benchmark**"
+title: "GPQA: A Graduate-Level Google-Proof Q&A Benchmark"
 category: "theory"
 ---
 

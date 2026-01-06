@@ -1,5 +1,5 @@
 ---
-title: "## **1902: Belgian General Strike**"
+title: "1902: Belgian General Strike"
 category: "labor"
 ---
 

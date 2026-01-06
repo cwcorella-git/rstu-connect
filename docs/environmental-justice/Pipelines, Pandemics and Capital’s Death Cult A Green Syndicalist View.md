@@ -1,5 +1,5 @@
 ---
-title: "## **Pipelines, Pandemics and Capital's Death Cult: A Green Syndicalist View**"
+title: "Pipelines, Pandemics and Capital's Death Cult: A Green Syndicalist View"
 category: "environmental-justice"
 ---
 

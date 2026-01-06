@@ -1,5 +1,5 @@
 ---
-title: "**Anarchism: Utopian or scientific**"
+title: "Anarchism: Utopian or scientific"
 category: "contemporary-analysis"
 ---
 

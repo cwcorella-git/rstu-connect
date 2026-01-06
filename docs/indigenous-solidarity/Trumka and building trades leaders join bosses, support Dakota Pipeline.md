@@ -1,5 +1,5 @@
 ---
-title: "## **Trumka and building trades leaders join bosses, support Dakota Pipeline**"
+title: "Trumka and building trades leaders join bosses, support Dakota Pipeline"
 category: "indigenous-solidarity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **The Lucas Plan: how Greens and trade unionists can unite in common cause**"
+title: "The Lucas Plan: how Greens and trade unionists can unite in common cause"
 category: "environmental-justice"
 ---
 

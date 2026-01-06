@@ -1,5 +1,5 @@
 ---
-title: "## **Because we want ourselves alive, together we are disrupting everything: Notes for thinking abou"
+title: "Because we want ourselves alive, together we are disrupting everything: Notes for thinking abou"
 category: "contemporary-analysis"
 ---
 

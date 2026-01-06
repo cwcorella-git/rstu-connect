@@ -1,5 +1,5 @@
 ---
-title: "**Globalize the intifada**"
+title: "Globalize the intifada"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Wayward Notes on Feminism: A little bit of backwardness? - Stuart Wise**"
+title: "Wayward Notes on Feminism: A little bit of backwardness? - Stuart Wise"
 category: "feminist-theory"
 ---
 

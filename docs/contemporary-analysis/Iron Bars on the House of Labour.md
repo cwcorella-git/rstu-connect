@@ -1,5 +1,5 @@
 ---
-title: "## **Iron Bars on the House of Labour**"
+title: "Iron Bars on the House of Labour"
 category: "contemporary-analysis"
 ---
 

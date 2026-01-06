@@ -1,5 +1,5 @@
 ---
-title: "## **Whose personal is more political? Experience in contemporary feminist politics**"
+title: "Whose personal is more political? Experience in contemporary feminist politics"
 category: "feminist-theory"
 ---
 

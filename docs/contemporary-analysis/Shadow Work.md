@@ -1,5 +1,5 @@
 ---
-title: "**Ivan Illich**"
+title: "Ivan Illich"
 category: "contemporary-analysis"
 ---
 

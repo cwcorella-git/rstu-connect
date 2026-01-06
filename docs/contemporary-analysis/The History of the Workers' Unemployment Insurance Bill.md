@@ -1,5 +1,5 @@
 ---
-title: "## **The History of the Workers' Unemployment Insurance Bill**"
+title: "The History of the Workers' Unemployment Insurance Bill"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Individuals, Society and Nature**"
+title: "Individuals, Society and Nature"
 category: "contemporary-analysis"
 ---
 

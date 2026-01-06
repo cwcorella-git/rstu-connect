@@ -1,5 +1,5 @@
 ---
-title: "**Episode 12: Higher States Of Consciousness Part 2 2/**"
+title: "Episode 12: Higher States Of Consciousness Part 2 2/"
 category: "arts-culture-music"
 ---
 

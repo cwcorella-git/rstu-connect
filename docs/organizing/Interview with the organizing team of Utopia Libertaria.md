@@ -1,5 +1,5 @@
 ---
-title: "## **Interview with the organizing team of "Utopia Libertaria" \***"
+title: "Interview with the organizing team of \"Utopia Libertaria\" *"
 category: "organizing"
 ---
 

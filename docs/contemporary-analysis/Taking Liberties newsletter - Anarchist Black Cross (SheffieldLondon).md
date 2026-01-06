@@ -1,5 +1,5 @@
 ---
-title: "## **Taking Liberties newsletter - Anarchist Black Cross (Sheffield/London)**"
+title: "Taking Liberties newsletter - Anarchist Black Cross (Sheffield/London)"
 category: "contemporary-analysis"
 ---
 

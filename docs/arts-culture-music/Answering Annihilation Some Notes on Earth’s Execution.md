@@ -1,5 +1,5 @@
 ---
-title: "## **Answering Annihilation: Some Notes on Earth's Execution**"
+title: "Answering Annihilation: Some Notes on Earth's Execution"
 category: "arts-culture-music"
 ---
 

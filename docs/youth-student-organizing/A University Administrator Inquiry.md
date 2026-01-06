@@ -1,5 +1,5 @@
 ---
-title: "## **A University Administrator Inquiry**"
+title: "A University Administrator Inquiry"
 category: "youth-student-organizing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Federica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks**"
+title: "Federica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks"
 category: "feminist-theory"
 ---
 

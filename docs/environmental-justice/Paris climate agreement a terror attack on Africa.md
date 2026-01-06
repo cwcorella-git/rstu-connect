@@ -1,5 +1,5 @@
 ---
-title: "## **Paris climate agreement: a terror attack on Africa**"
+title: "Paris climate agreement: a terror attack on Africa"
 category: "environmental-justice"
 ---
 

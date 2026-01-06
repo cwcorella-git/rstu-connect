@@ -1,5 +1,5 @@
 ---
-title: "**Adolph Fischer**"
+title: "Adolph Fischer"
 category: "theory"
 ---
 

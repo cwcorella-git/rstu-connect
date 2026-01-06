@@ -1,5 +1,5 @@
 ---
-title: "## **Beyond Rhetoric – What Does the "Just Transition" Mean for DAPL?**"
+title: "Beyond Rhetoric – What Does the 'Just Transition' Mean for DAPL?"
 category: "feminist-theory"
 ---
 

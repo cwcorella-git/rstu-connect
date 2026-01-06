@@ -1,5 +1,5 @@
 ---
-title: "## **Class War #9 1984**"
+title: "Class War #9 1984"
 category: "labor"
 ---
 

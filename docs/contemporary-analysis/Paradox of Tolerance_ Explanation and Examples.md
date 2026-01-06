@@ -1,5 +1,5 @@
 ---
-title: "[Philosophy Terms](https://philosophyterms.com/) Search for a term **Enter**"
+title: "Philosophy Terms Search for a term Enter"
 category: "contemporary-analysis"
 ---
 

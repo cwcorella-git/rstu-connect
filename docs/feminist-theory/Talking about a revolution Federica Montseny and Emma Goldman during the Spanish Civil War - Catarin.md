@@ -1,5 +1,5 @@
 ---
-title: "## **Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - C"
+title: "Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - C"
 category: "feminist-theory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Internet Histories**"
+title: "Internet Histories"
 category: "theory"
 ---
 

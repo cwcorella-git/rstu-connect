@@ -1,5 +1,5 @@
 ---
-title: "**Episode 48: Corbin And The Divine Double/**"
+title: "Episode 48: Corbin And The Divine Double/"
 category: "contemporary-analysis"
 ---
 

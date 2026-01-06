@@ -1,5 +1,5 @@
 ---
-title: "## **Syndicalists shouldn't have a black-and-white view on organizing**"
+title: "Syndicalists shouldn't have a black-and-white view on organizing"
 category: "contemporary-analysis"
 ---
 

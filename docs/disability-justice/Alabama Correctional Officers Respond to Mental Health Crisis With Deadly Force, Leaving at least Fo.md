@@ -1,5 +1,5 @@
 ---
-title: "## **Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at lea"
+title: "Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at lea"
 category: "disability-justice"
 ---
 

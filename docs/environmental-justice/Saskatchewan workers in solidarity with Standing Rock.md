@@ -1,5 +1,5 @@
 ---
-title: "## **Saskatchewan workers in solidarity with Standing Rock**"
+title: "Saskatchewan workers in solidarity with Standing Rock"
 category: "environmental-justice"
 ---
 

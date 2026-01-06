@@ -1,5 +1,5 @@
 ---
-title: "## **Appeal from Railroad Workers United: No Single Employee Crews!**"
+title: "Appeal from Railroad Workers United: No Single Employee Crews!"
 category: "technology-digital-justice"
 ---
 

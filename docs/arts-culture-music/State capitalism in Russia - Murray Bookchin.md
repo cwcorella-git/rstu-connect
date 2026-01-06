@@ -1,5 +1,5 @@
 ---
-title: "## **State capitalism in Russia - Murray Bookchin**"
+title: "State capitalism in Russia - Murray Bookchin"
 category: "arts-culture-music"
 ---
 

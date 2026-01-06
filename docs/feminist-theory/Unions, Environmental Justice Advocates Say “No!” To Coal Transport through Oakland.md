@@ -1,5 +1,5 @@
 ---
-title: "## **Unions, Environmental Justice Advocates Say "No!" To Coal Transport through Oakland**"
+title: "Unions, Environmental Justice Advocates Say 'No!' To Coal Transport through Oakland"
 category: "feminist-theory"
 ---
 

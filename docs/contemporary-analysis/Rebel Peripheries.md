@@ -1,5 +1,5 @@
 ---
-title: "## **Rebel Peripheries**"
+title: "Rebel Peripheries"
 category: "contemporary-analysis"
 ---
 

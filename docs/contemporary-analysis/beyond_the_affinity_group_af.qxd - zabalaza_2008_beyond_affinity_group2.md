@@ -1,5 +1,5 @@
 ---
-title: "**Beyond the Affinity Group**"
+title: "Beyond the Affinity Group"
 category: "contemporary-analysis"
 ---
 

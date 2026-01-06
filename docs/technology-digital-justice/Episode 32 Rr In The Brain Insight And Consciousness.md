@@ -1,5 +1,5 @@
 ---
-title: "## **Episode 32: Rr In The Brain Insight And Consciousness/**"
+title: "Episode 32: Rr In The Brain Insight And Consciousness/"
 category: "technology-digital-justice"
 ---
 

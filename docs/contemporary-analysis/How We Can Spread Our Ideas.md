@@ -1,5 +1,5 @@
 ---
-title: "## **1:52**"
+title: "1:52"
 category: "contemporary-analysis"
 ---
 

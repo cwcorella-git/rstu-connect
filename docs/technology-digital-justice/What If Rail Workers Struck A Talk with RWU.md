@@ -1,5 +1,5 @@
 ---
-title: "## **What If Rail Workers Struck? A Talk with RWU**"
+title: "What If Rail Workers Struck? A Talk with RWU"
 category: "technology-digital-justice"
 ---
 

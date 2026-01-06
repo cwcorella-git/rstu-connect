@@ -1,5 +1,5 @@
 ---
-title: "**Lumad**"
+title: "Lumad"
 category: "contemporary-analysis"
 ---
 

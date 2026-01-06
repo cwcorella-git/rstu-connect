@@ -1,5 +1,5 @@
 ---
-title: "## **Ohio Valley Environmental Coalition Staff Joins the IWW**"
+title: "Ohio Valley Environmental Coalition Staff Joins the IWW"
 category: "environmental-justice"
 ---
 

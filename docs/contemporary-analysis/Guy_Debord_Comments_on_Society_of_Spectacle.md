@@ -1,5 +1,5 @@
 ---
-title: "**Comments on the Society of the Spectacle**"
+title: "Comments on the Society of the Spectacle"
 category: "contemporary-analysis"
 ---
 

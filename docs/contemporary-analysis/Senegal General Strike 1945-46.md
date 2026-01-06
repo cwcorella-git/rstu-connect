@@ -1,5 +1,5 @@
 ---
-title: "## **Senegal General Strike: 1945-46**"
+title: "Senegal General Strike: 1945-46"
 category: "contemporary-analysis"
 ---
 

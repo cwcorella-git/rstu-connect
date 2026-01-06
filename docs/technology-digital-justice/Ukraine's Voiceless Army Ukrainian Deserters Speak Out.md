@@ -1,5 +1,5 @@
 ---
-title: "## **Ukraine's Voiceless Army: Ukrainian Deserters Speak Out**"
+title: "Ukraine's Voiceless Army: Ukrainian Deserters Speak Out"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Urbanization Without Cities: The Rise and Decline of Citizenship**"
+title: "Urbanization Without Cities: The Rise and Decline of Citizenship"
 category: "contemporary-analysis"
 ---
 

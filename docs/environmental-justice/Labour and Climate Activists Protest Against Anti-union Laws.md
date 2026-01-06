@@ -1,5 +1,5 @@
 ---
-title: "## **Labour and Climate Activists Protest Against Anti-union Laws**"
+title: "Labour and Climate Activists Protest Against Anti-union Laws"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **A blueprint for a party of an old type**"
+title: "A blueprint for a party of an old type"
 category: "theory"
 ---
 

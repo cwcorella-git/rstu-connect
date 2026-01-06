@@ -1,5 +1,5 @@
 ---
-title: "**Roman citizenship**"
+title: "Roman citizenship"
 category: "contemporary-analysis"
 ---
 

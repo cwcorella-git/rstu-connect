@@ -1,5 +1,5 @@
 ---
-title: "**Satyagraha**"
+title: "Satyagraha"
 category: "contemporary-analysis"
 ---
 

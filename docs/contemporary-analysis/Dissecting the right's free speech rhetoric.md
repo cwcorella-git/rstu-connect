@@ -1,5 +1,5 @@
 ---
-title: "## **Dissecting the right's "free speech" rhetoric**"
+title: "Dissecting the right's \"free speech\" rhetoric"
 category: "contemporary-analysis"
 ---
 

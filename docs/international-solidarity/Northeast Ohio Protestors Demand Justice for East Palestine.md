@@ -1,5 +1,5 @@
 ---
-title: "## **Northeast Ohio Protestors Demand Justice for East Palestine**"
+title: "Northeast Ohio Protestors Demand Justice for East Palestine"
 category: "international-solidarity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **2007: Chad Government Employees Strike**"
+title: "2007: Chad Government Employees Strike"
 category: "labor"
 ---
 

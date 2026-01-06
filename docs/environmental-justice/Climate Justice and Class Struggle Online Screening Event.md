@@ -1,5 +1,5 @@
 ---
-title: "## **Climate Justice and Class Struggle: Online Screening Event**"
+title: "Climate Justice and Class Struggle: Online Screening Event"
 category: "environmental-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **you've been traumatized into hating reading (and it makes you easier to oppress).**"
+title: "you've been traumatized into hating reading (and it makes you easier to oppress)."
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **What is Union Action? Bust the Myths!**"
+title: "What is Union Action? Bust the Myths!"
 category: "contemporary-analysis"
 ---
 

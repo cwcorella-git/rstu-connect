@@ -1,5 +1,5 @@
 ---
-title: "## **Solidarity with the Workers at Kavala Oil**"
+title: "Solidarity with the Workers at Kavala Oil"
 category: "environmental-justice"
 ---
 

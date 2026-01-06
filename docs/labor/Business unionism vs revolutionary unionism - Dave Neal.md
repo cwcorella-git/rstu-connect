@@ -1,5 +1,5 @@
 ---
-title: "## **Business unionism vs revolutionary unionism - Dave Neal**"
+title: "Business unionism vs revolutionary unionism - Dave Neal"
 category: "labor"
 ---
 

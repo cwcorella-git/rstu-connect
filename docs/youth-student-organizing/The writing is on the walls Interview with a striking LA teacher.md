@@ -1,5 +1,5 @@
 ---
-title: "## **"The writing is on the walls": Interview with a striking LA teacher**"
+title: "'The writing is on the walls': Interview with a striking LA teacher"
 category: "youth-student-organizing"
 ---
 

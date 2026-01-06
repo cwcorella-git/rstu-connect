@@ -1,5 +1,5 @@
 ---
-title: "**When We Are All Enemies of the State**"
+title: "When We Are All Enemies of the State"
 category: "arts-culture-music"
 ---
 

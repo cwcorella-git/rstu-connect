@@ -1,5 +1,5 @@
 ---
-title: "**August Spies**"
+title: "August Spies"
 category: "contemporary-analysis"
 ---
 

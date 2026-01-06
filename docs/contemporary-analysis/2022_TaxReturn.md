@@ -1,5 +1,5 @@
 ---
-title: "**SCHEDULE 8812 (Form 1040)**"
+title: "SCHEDULE 8812 (Form 1040)"
 category: "contemporary-analysis"
 ---
 

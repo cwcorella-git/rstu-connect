@@ -1,5 +1,5 @@
 ---
-title: "## **Abraham Guillén, 'The military error of "the Left"'**"
+title: "Abraham Guillén, 'The military error of \"the Left\"'"
 category: "theory"
 ---
 

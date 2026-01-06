@@ -1,5 +1,5 @@
 ---
-title: "**Full text of "We Dont Need Gun Control We Need To Take Control"**"
+title: "Full text of \"We Dont Need Gun Control We Need To Take Control\""
 category: "contemporary-analysis"
 ---
 

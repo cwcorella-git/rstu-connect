@@ -1,5 +1,5 @@
 ---
-title: "## **Peter Lamborn Wilson Media-Space! Opening Speech 28th February 1997**"
+title: "Peter Lamborn Wilson Media-Space! Opening Speech 28th February 1997"
 category: "contemporary-analysis"
 ---
 

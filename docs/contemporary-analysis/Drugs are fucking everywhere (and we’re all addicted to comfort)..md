@@ -1,5 +1,5 @@
 ---
-title: "**Drugs are fucking everywhere (and we're all addicted to comfort).**"
+title: "Drugs are fucking everywhere (and we're all addicted to comfort)."
 category: "contemporary-analysis"
 ---
 

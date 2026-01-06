@@ -1,5 +1,5 @@
 ---
-title: "**My Visit to the Kremlin**"
+title: "My Visit to the Kremlin"
 category: "contemporary-analysis"
 ---
 

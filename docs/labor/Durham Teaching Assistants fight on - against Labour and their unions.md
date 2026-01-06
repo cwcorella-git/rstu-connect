@@ -1,5 +1,5 @@
 ---
-title: "## **Durham Teaching Assistants fight on against Labour and their unions**"
+title: "Durham Teaching Assistants fight on against Labour and their unions"
 category: "labor"
 ---
 

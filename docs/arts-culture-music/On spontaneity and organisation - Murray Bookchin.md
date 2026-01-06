@@ -1,5 +1,5 @@
 ---
-title: "## **On spontaneity and organisation - Murray Bookchin**"
+title: "On spontaneity and organisation - Murray Bookchin"
 category: "arts-culture-music"
 ---
 

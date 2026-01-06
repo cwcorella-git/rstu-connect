@@ -1,5 +1,5 @@
 ---
-title: "**Motion to Face the Realities of Climate Change**"
+title: "Motion to Face the Realities of Climate Change"
 category: "environmental-justice"
 ---
 

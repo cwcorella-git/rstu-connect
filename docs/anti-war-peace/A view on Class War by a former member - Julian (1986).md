@@ -1,5 +1,5 @@
 ---
-title: "## **A view on "Class War" by a former member - Julian (1986)**"
+title: "A view on \"Class War\" by a former member - Julian (1986)"
 category: "anti-war-peace"
 ---
 

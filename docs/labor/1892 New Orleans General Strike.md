@@ -1,5 +1,5 @@
 ---
-title: "**1892 New Orleans General Strike**"
+title: "1892 New Orleans General Strike"
 category: "labor"
 ---
 

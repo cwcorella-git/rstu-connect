@@ -1,5 +1,5 @@
 ---
-title: "## **Right and Left against the state: education without classes**"
+title: "Right and Left against the state: education without classes"
 category: "technology-digital-justice"
 ---
 

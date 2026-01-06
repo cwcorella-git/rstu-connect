@@ -1,5 +1,5 @@
 ---
-title: "**International Workers' Day**"
+title: "International Workers' Day"
 category: "international-solidarity"
 ---
 

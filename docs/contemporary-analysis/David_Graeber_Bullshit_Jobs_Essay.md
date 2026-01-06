@@ -1,5 +1,5 @@
 ---
-title: "## **On the Phenomenon of Bullshit Jobs: A Work Rant**"
+title: "On the Phenomenon of Bullshit Jobs: A Work Rant"
 category: "contemporary-analysis"
 ---
 

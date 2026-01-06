@@ -1,5 +1,5 @@
 ---
-title: "## **Was die Solidaritätsgewerkschaft ist und was nicht**"
+title: "Was die Solidaritätsgewerkschaft ist und was nicht"
 category: "contemporary-analysis"
 ---
 

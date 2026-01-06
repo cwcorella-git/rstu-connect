@@ -1,5 +1,5 @@
 ---
-title: "**Educação Crítica - Fredy Perlman**"
+title: "Educação Crítica - Fredy Perlman"
 category: "contemporary-analysis"
 ---
 

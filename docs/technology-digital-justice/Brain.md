@@ -1,5 +1,5 @@
 ---
-title: "**Brain**"
+title: "Brain"
 category: "technology-digital-justice"
 ---
 

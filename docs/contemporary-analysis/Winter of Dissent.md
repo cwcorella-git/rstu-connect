@@ -1,5 +1,5 @@
 ---
-title: "## **Winter of Dissent**"
+title: "Winter of Dissent"
 category: "contemporary-analysis"
 ---
 

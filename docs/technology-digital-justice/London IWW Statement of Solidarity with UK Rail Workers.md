@@ -1,5 +1,5 @@
 ---
-title: "## **London IWW Statement of Solidarity with UK Rail Workers**"
+title: "London IWW Statement of Solidarity with UK Rail Workers"
 category: "technology-digital-justice"
 ---
 

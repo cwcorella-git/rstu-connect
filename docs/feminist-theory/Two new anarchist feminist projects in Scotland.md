@@ -1,5 +1,5 @@
 ---
-title: "## **Two new anarchist feminist projects in Scotland**"
+title: "Two new anarchist feminist projects in Scotland"
 category: "feminist-theory"
 ---
 

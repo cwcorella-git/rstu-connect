@@ -1,5 +1,5 @@
 ---
-title: "## **The Rise and Fall of the ICU: a Case of Self-Destruction? - Phil Bonner**"
+title: "The Rise and Fall of the ICU: a Case of Self-Destruction? - Phil Bonner"
 category: "contemporary-analysis"
 ---
 

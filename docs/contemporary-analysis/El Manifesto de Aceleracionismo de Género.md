@@ -1,5 +1,5 @@
 ---
-title: "**El Manifesto de Aceleracionismo de Género**"
+title: "El Manifesto de Aceleracionismo de Género"
 category: "contemporary-analysis"
 ---
 

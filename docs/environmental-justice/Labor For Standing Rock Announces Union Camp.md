@@ -1,5 +1,5 @@
 ---
-title: "## **Labor For Standing Rock Announces Union Camp**"
+title: "Labor For Standing Rock Announces Union Camp"
 category: "environmental-justice"
 ---
 

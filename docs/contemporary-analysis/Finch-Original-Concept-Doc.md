@@ -1,5 +1,5 @@
 ---
-title: "What we Mean by "Nature""
+title: "What we Mean by \"Nature\""
 category: "contemporary-analysis"
 ---
 

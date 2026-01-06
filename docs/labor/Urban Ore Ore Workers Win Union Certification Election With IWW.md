@@ -1,5 +1,5 @@
 ---
-title: "## **Urban Ore Ore Workers Win Union Certification Election With IWW**"
+title: "Urban Ore Ore Workers Win Union Certification Election With IWW"
 category: "labor"
 ---
 

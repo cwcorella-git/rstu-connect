@@ -1,5 +1,5 @@
 ---
-title: "**Emma Goldman Anarchism and Other Essays**"
+title: "Emma Goldman Anarchism and Other Essays"
 category: "theory"
 ---
 

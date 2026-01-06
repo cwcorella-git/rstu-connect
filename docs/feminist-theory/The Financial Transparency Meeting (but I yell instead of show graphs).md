@@ -1,5 +1,5 @@
 ---
-title: "## **The Financial Transparency Meeting (but I yell instead of show graphs).**"
+title: "The Financial Transparency Meeting (but I yell instead of show graphs)."
 category: "feminist-theory"
 ---
 

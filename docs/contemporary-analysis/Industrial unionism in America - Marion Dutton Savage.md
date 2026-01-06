@@ -1,5 +1,5 @@
 ---
-title: "## **Industrial unionism in America - Marion Dutton Savage**"
+title: "Industrial unionism in America - Marion Dutton Savage"
 category: "contemporary-analysis"
 ---
 

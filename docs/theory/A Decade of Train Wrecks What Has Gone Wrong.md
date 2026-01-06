@@ -1,5 +1,5 @@
 ---
-title: "**A Decade of Train Wrecks: What Has Gone Wrong?**"
+title: "A Decade of Train Wrecks: What Has Gone Wrong?"
 category: "theory"
 ---
 

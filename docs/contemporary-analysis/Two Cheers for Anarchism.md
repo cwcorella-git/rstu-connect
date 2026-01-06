@@ -1,5 +1,5 @@
 ---
-title: "**James C. Scott**"
+title: "James C. Scott"
 category: "contemporary-analysis"
 ---
 

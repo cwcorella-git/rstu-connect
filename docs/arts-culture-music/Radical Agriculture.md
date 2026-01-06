@@ -1,5 +1,5 @@
 ---
-title: "## **Murray Bookchin Radical Agriculture 1972**"
+title: "Murray Bookchin Radical Agriculture 1972"
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Unify Fights Against Austerity and Climate Change**"
+title: "Unify Fights Against Austerity and Climate Change"
 category: "environmental-justice"
 ---
 

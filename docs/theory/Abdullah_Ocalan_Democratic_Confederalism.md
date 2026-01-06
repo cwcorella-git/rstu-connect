@@ -1,5 +1,5 @@
 ---
-title: "**Democratic Confederalism**"
+title: "Democratic Confederalism"
 category: "theory"
 ---
 

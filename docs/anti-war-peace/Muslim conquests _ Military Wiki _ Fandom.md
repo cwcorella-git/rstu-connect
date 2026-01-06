@@ -1,5 +1,5 @@
 ---
-title: "**Muslim conquests**"
+title: "Muslim conquests"
 category: "anti-war-peace"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Book Review: Wobblies of the world: a history of globetrotting troublemakers**"
+title: "Book Review: Wobblies of the world: a history of globetrotting troublemakers"
 category: "labor"
 ---
 

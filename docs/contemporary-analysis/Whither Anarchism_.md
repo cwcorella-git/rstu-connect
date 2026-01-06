@@ -1,5 +1,5 @@
 ---
-title: "**Murray Bookchin Whither Anarchism? A Reply to Recent Anarchist Critics 1998**"
+title: "Murray Bookchin Whither Anarchism? A Reply to Recent Anarchist Critics 1998"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **San Diego Labor Opposes Dakota Access Pipeline**"
+title: "San Diego Labor Opposes Dakota Access Pipeline"
 category: "labor"
 ---
 

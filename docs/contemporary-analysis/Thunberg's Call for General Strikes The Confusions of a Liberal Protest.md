@@ -1,5 +1,5 @@
 ---
-title: "## **Thunberg's Call for General Strikes: The Confusions of a Liberal Protest**"
+title: "Thunberg's Call for General Strikes: The Confusions of a Liberal Protest"
 category: "contemporary-analysis"
 ---
 

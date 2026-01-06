@@ -1,5 +1,5 @@
 ---
-title: "## **Class War and the Media**"
+title: "Class War and the Media"
 category: "anti-war-peace"
 ---
 

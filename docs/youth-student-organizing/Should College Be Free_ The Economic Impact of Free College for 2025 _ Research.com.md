@@ -1,5 +1,5 @@
 ---
-title: "**Should College Be Free? The Economic Impact of Free College for 2025**"
+title: "Should College Be Free? The Economic Impact of Free College for 2025"
 category: "youth-student-organizing"
 ---
 

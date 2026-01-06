@@ -1,5 +1,5 @@
 ---
-title: "**Praise**"
+title: "Praise"
 category: "technology-digital-justice"
 ---
 

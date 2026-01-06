@@ -1,5 +1,5 @@
 ---
-title: "**Climate Change As Class War: A Review**"
+title: "Climate Change As Class War: A Review"
 category: "environmental-justice"
 ---
 

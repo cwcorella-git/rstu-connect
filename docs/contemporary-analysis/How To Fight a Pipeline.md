@@ -1,5 +1,5 @@
 ---
-title: "## **How To Fight a Pipeline**"
+title: "How To Fight a Pipeline"
 category: "contemporary-analysis"
 ---
 

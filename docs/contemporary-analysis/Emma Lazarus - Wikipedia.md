@@ -1,5 +1,5 @@
 ---
-title: "**Emma Lazarus**"
+title: "Emma Lazarus"
 category: "contemporary-analysis"
 ---
 

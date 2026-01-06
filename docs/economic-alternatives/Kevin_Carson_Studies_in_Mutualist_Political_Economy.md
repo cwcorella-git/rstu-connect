@@ -1,5 +1,5 @@
 ---
-title: "**Part One—Theoretical Foundations: Value Theory**"
+title: "Part One—Theoretical Foundations: Value Theory"
 category: "economic-alternatives"
 ---
 

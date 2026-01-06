@@ -1,5 +1,5 @@
 ---
-title: "**THE WOMAN OF COLOR AND THE WHITE MAN**"
+title: "THE WOMAN OF COLOR AND THE WHITE MAN"
 category: "contemporary-analysis"
 ---
 

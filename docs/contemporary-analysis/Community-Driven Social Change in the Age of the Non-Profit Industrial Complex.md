@@ -1,5 +1,5 @@
 ---
-title: "## **Community-Driven Social Change in the Age of the Non-Profit Industrial Complex**"
+title: "Community-Driven Social Change in the Age of the Non-Profit Industrial Complex"
 category: "contemporary-analysis"
 ---
 

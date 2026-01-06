@@ -1,5 +1,5 @@
 ---
-title: "**On Player Characters and Self Expression [Game Design]**"
+title: "On Player Characters and Self Expression [Game Design]"
 category: "contemporary-analysis"
 ---
 

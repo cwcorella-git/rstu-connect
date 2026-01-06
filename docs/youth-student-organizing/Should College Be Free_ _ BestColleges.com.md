@@ -1,5 +1,5 @@
 ---
-title: "**Should College Be Free?**"
+title: "Should College Be Free?"
 category: "youth-student-organizing"
 ---
 

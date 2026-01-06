@@ -1,5 +1,5 @@
 ---
-title: "## **From Pipelines to Prisons: The intersection of native rights, mass incarceration and environmen"
+title: "From Pipelines to Prisons: The intersection of native rights, mass incarceration and environmen"
 category: "labor"
 ---
 

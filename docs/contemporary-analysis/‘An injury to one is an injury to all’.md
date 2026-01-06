@@ -1,5 +1,5 @@
 ---
-title: "## **'An injury to one is an injury to all'**"
+title: "'An injury to one is an injury to all'"
 category: "contemporary-analysis"
 ---
 

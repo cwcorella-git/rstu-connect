@@ -1,5 +1,5 @@
 ---
-title: "**Donna Haraway**"
+title: "Donna Haraway"
 category: "theory"
 ---
 

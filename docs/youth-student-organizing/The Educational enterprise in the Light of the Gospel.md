@@ -1,5 +1,5 @@
 ---
-title: "**The Educational enterprise in the Light of the Gospel**"
+title: "The Educational enterprise in the Light of the Gospel"
 category: "youth-student-organizing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Bayard Rustin**"
+title: "Bayard Rustin"
 category: "labor"
 ---
 

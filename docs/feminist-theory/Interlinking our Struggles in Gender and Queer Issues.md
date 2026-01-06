@@ -1,5 +1,5 @@
 ---
-title: "## **Interlinking our Struggles in Gender and Queer Issues**"
+title: "Interlinking our Struggles in Gender and Queer Issues"
 category: "feminist-theory"
 ---
 

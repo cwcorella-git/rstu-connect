@@ -1,5 +1,5 @@
 ---
-title: "**Inflation is How the System Restores the Primacy of Capital**"
+title: "Inflation is How the System Restores the Primacy of Capital"
 category: "contemporary-analysis"
 ---
 

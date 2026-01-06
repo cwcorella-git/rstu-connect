@@ -1,5 +1,5 @@
 ---
-title: "## **Class, democracy and the General Executive Board - Travis Elise**"
+title: "Class, democracy and the General Executive Board - Travis Elise"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Jean Grave on Colonization – Jeff Shantz**"
+title: "Jean Grave on Colonization – Jeff Shantz"
 category: "contemporary-analysis"
 ---
 

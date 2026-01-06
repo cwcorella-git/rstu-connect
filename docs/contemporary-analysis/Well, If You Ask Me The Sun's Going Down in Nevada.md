@@ -1,5 +1,5 @@
 ---
-title: "## **Well, If You Ask Me: The Sun's Going Down in Nevada**"
+title: "Well, If You Ask Me: The Sun's Going Down in Nevada"
 category: "contemporary-analysis"
 ---
 

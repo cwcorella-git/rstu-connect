@@ -1,5 +1,5 @@
 ---
-title: "## **New Declaration of Principles for Swedish Syndicalists? A proposal from the Umeå Local of SAC**"
+title: "New Declaration of Principles for Swedish Syndicalists? A proposal from the Umeå Local of SAC"
 category: "contemporary-analysis"
 ---
 

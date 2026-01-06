@@ -1,5 +1,5 @@
 ---
-title: "## **The romance of American Jewish anarchism - Giovanni Vimercati**"
+title: "The romance of American Jewish anarchism - Giovanni Vimercati"
 category: "contemporary-analysis"
 ---
 

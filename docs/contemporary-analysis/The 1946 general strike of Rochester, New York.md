@@ -1,5 +1,5 @@
 ---
-title: "## **The 1946 general strike of Rochester, New York**"
+title: "The 1946 general strike of Rochester, New York"
 category: "contemporary-analysis"
 ---
 

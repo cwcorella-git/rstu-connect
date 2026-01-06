@@ -1,5 +1,5 @@
 ---
-title: "## **Co-ops, Climate, and Capital**"
+title: "Co-ops, Climate, and Capital"
 category: "environmental-justice"
 ---
 

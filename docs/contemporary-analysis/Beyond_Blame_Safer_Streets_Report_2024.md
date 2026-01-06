@@ -1,5 +1,5 @@
 ---
-title: "**Beyond Blame:**"
+title: "Beyond Blame:"
 category: "contemporary-analysis"
 ---
 

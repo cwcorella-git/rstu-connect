@@ -1,5 +1,5 @@
 ---
-title: "**Ho Chi Minh**"
+title: "Ho Chi Minh"
 category: "contemporary-analysis"
 ---
 

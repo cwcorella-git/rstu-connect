@@ -1,5 +1,5 @@
 ---
-title: "**Tyrant**"
+title: "Tyrant"
 category: "contemporary-analysis"
 ---
 

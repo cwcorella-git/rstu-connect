@@ -1,5 +1,5 @@
 ---
-title: "**The League of Revolutionary Black Workers: A Historical Study**"
+title: "The League of Revolutionary Black Workers: A Historical Study"
 category: "contemporary-analysis"
 ---
 

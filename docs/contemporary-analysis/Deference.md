@@ -1,5 +1,5 @@
 ---
-title: "**Deference**"
+title: "Deference"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**F. A. Hayek**"
+title: "F. A. Hayek"
 category: "contemporary-analysis"
 ---
 

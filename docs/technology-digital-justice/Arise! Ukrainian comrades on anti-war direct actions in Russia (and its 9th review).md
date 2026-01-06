@@ -1,5 +1,5 @@
 ---
-title: "## **"Arise!" Ukrainian comrades on anti-war direct actions in Russia (and its 9th review)**"
+title: "\"Arise!\" Ukrainian comrades on anti-war direct actions in Russia (and its 9th review)"
 category: "technology-digital-justice"
 ---
 

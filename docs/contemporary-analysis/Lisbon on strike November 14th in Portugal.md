@@ -1,5 +1,5 @@
 ---
-title: "## **Lisbon on strike: November 14th in Portugal**"
+title: "Lisbon on strike: November 14th in Portugal"
 category: "contemporary-analysis"
 ---
 

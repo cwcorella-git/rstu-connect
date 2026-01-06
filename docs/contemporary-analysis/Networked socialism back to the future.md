@@ -1,5 +1,5 @@
 ---
-title: "## **Networked socialism: back to the future**"
+title: "Networked socialism: back to the future"
 category: "contemporary-analysis"
 ---
 

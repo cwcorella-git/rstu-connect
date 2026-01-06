@@ -1,5 +1,5 @@
 ---
-title: "**Land and Liberty**"
+title: "Land and Liberty"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **The strip club did indeed make me bonkers!**"
+title: "The strip club did indeed make me bonkers!"
 category: "contemporary-analysis"
 ---
 

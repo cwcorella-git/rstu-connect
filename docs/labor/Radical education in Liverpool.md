@@ -1,5 +1,5 @@
 ---
-title: "## **Radical education in Liverpool**"
+title: "Radical education in Liverpool"
 category: "labor"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Workers' Councils**"
+title: "Workers' Councils"
 category: "contemporary-analysis"
 ---
 

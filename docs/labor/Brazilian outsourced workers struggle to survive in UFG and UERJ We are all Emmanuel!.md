@@ -1,5 +1,5 @@
 ---
-title: "## **Brazilian outsourced workers struggle to survive in UFG and UERJ: We are all Emmanuel!**"
+title: "Brazilian outsourced workers struggle to survive in UFG and UERJ: We are all Emmanuel!"
 category: "labor"
 ---
 

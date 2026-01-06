@@ -1,5 +1,5 @@
 ---
-title: "## **A few thoughts on studying the most radical social movement of the 21st century**"
+title: "A few thoughts on studying the most radical social movement of the 21st century"
 category: "contemporary-analysis"
 ---
 

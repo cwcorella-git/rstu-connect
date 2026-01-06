@@ -1,5 +1,5 @@
 ---
-title: "**Murray Bookchin**"
+title: "Murray Bookchin"
 category: "environmental-justice"
 ---
 

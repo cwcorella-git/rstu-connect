@@ -1,5 +1,5 @@
 ---
-title: "**Gadsden Purchase**"
+title: "Gadsden Purchase"
 category: "contemporary-analysis"
 ---
 

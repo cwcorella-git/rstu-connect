@@ -1,5 +1,5 @@
 ---
-title: "**Overthrow of the Roman monarchy**"
+title: "Overthrow of the Roman monarchy"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Episode 26: Cognitive Science/**"
+title: "Episode 26: Cognitive Science/"
 category: "contemporary-analysis"
 ---
 

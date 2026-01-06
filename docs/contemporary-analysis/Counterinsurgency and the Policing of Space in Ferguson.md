@@ -1,5 +1,5 @@
 ---
-title: "**Counterinsurgency and the Policing of Space in Ferguson**"
+title: "Counterinsurgency and the Policing of Space in Ferguson"
 category: "contemporary-analysis"
 ---
 

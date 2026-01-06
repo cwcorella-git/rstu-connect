@@ -1,5 +1,5 @@
 ---
-title: "**Not a single wheel can turn: Further thoughts on organising and mobilising in the "gig" economy**"
+title: "Not a single wheel can turn: Further thoughts on organising and mobilising in the 'gig' economy"
 category: "economic-alternatives"
 ---
 

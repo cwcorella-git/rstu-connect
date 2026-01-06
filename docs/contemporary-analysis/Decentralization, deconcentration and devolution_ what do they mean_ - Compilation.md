@@ -1,5 +1,5 @@
 ---
-title: "**Decentralization, deconcentration and devolution: what do they mean?1**"
+title: "Decentralization, deconcentration and devolution: what do they mean?1"
 category: "contemporary-analysis"
 ---
 

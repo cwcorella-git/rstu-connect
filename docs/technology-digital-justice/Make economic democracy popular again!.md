@@ -1,5 +1,5 @@
 ---
-title: "## **Make economic democracy popular again!**"
+title: "Make economic democracy popular again!"
 category: "technology-digital-justice"
 ---
 

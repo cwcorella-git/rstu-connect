@@ -1,5 +1,5 @@
 ---
-title: "## **RWU Statement Upon the Acquittal of Canadian Railroad Workers**"
+title: "RWU Statement Upon the Acquittal of Canadian Railroad Workers"
 category: "technology-digital-justice"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**Michail Bakunin God and the State 1882**"
+title: "Michail Bakunin God and the State 1882"
 category: "contemporary-analysis"
 ---
 

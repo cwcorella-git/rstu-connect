@@ -1,5 +1,5 @@
 ---
-title: "## **Extinction Rebellion: Not the Struggle we Need, Pt. 1**"
+title: "Extinction Rebellion: Not the Struggle we Need, Pt. 1"
 category: "contemporary-analysis"
 ---
 

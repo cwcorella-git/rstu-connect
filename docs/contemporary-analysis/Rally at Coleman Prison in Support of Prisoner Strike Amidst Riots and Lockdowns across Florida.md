@@ -1,5 +1,5 @@
 ---
-title: "## **Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida"
+title: "Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida"
 category: "contemporary-analysis"
 ---
 

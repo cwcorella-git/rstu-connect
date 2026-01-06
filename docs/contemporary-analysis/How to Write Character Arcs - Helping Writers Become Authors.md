@@ -1,5 +1,5 @@
 ---
-title: "**How to Write Character Arcs**"
+title: "How to Write Character Arcs"
 category: "contemporary-analysis"
 ---
 

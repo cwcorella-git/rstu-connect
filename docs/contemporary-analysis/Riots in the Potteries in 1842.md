@@ -1,5 +1,5 @@
 ---
-title: "## **Riots in the Potteries in 1842**"
+title: "Riots in the Potteries in 1842"
 category: "contemporary-analysis"
 ---
 

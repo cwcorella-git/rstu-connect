@@ -1,5 +1,5 @@
 ---
-title: "## **Class War 14/2022: War & Revolution!?**"
+title: "Class War 14/2022: War & Revolution!?"
 category: "anti-war-peace"
 ---
 

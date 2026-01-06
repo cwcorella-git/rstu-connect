@@ -1,5 +1,5 @@
 ---
-title: "**Social Syndicalism: an Opinion of One Old Shipyard Worker**"
+title: "Social Syndicalism: an Opinion of One Old Shipyard Worker"
 category: "contemporary-analysis"
 ---
 

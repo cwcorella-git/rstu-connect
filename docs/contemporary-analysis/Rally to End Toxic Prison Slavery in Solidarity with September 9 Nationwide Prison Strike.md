@@ -1,5 +1,5 @@
 ---
-title: "## **Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike**"
+title: "Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike"
 category: "contemporary-analysis"
 ---
 

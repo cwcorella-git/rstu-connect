@@ -1,5 +1,5 @@
 ---
-title: "**Jeff Shantz**"
+title: "Jeff Shantz"
 category: "contemporary-analysis"
 ---
 

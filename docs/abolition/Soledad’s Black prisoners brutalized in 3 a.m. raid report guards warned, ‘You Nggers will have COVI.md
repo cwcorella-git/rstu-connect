@@ -1,5 +1,5 @@
 ---
-title: "## **Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You N\*ggers will ha"
+title: "Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You N*ggers will ha"
 category: "abolition"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **The Battle for Bread at Lawrence - Mary Marcy**"
+title: "The Battle for Bread at Lawrence - Mary Marcy"
 category: "labor"
 ---
 

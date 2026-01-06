@@ -1,5 +1,5 @@
 ---
-title: "**Slave patrol**"
+title: "Slave patrol"
 category: "contemporary-analysis"
 ---
 

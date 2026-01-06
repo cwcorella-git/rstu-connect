@@ -1,5 +1,5 @@
 ---
-title: "## **Why work and workers matter in the environmental debate**"
+title: "Why work and workers matter in the environmental debate"
 category: "environmental-justice"
 ---
 

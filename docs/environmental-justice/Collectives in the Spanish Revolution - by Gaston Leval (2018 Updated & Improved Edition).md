@@ -1,5 +1,5 @@
 ---
-title: "## **Collectives in the Spanish Revolution by Gaston Leval (2018 Updated & Improved Edition)**"
+title: "Collectives in the Spanish Revolution by Gaston Leval (2018 Updated & Improved Edition)"
 category: "environmental-justice"
 ---
 

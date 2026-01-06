@@ -1,5 +1,5 @@
 ---
-title: "**Derinkuyu: Mysterious underground city in Turkey found in man's basement**"
+title: "Derinkuyu: Mysterious underground city in Turkey found in man's basement"
 category: "contemporary-analysis"
 ---
 

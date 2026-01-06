@@ -1,5 +1,5 @@
 ---
-title: "**Castle Rock v. Gonzales | Case Brief for Law Students**"
+title: "Castle Rock v. Gonzales | Case Brief for Law Students"
 category: "youth-student-organizing"
 ---
 

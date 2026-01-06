@@ -1,5 +1,5 @@
 ---
-title: "## **Syndicalism in Germany - William Z. Foster**"
+title: "Syndicalism in Germany - William Z. Foster"
 category: "theory"
 ---
 

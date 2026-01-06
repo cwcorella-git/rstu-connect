@@ -1,5 +1,5 @@
 ---
-title: "## **Workers Solidarity Movement closing statement**"
+title: "Workers Solidarity Movement closing statement"
 category: "theory"
 ---
 

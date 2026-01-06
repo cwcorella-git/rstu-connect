@@ -1,5 +1,5 @@
 ---
-title: "## **Starving amidst too much - T-Bone Slim**"
+title: "Starving amidst too much - T-Bone Slim"
 category: "contemporary-analysis"
 ---
 

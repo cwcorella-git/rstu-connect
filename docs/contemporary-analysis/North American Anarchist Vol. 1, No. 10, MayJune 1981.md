@@ -1,5 +1,5 @@
 ---
-title: "## **North American Anarchist Vol. 1, No. 10, May/June 1981**"
+title: "North American Anarchist Vol. 1, No. 10, May/June 1981"
 category: "contemporary-analysis"
 ---
 

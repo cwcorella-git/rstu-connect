@@ -1,5 +1,5 @@
 ---
-title: "**Emma Goldman My Disillusionment in Russia**"
+title: "Emma Goldman My Disillusionment in Russia"
 category: "theory"
 ---
 

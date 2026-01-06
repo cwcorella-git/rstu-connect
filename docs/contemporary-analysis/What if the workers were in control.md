@@ -1,5 +1,5 @@
 ---
-title: "## **What if the workers were in control?**"
+title: "What if the workers were in control?"
 category: "contemporary-analysis"
 ---
 

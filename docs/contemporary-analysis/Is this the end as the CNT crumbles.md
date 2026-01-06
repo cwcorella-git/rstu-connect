@@ -1,5 +1,5 @@
 ---
-title: "## **Is this the end?: as the CNT crumbles**"
+title: "Is this the end?: as the CNT crumbles"
 category: "contemporary-analysis"
 ---
 

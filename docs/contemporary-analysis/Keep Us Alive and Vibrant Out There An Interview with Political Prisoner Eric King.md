@@ -1,5 +1,5 @@
 ---
-title: "## **Keep Us Alive and Vibrant Out There: An Interview with Political Prisoner Eric King**"
+title: "Keep Us Alive and Vibrant Out There: An Interview with Political Prisoner Eric King"
 category: "contemporary-analysis"
 ---
 

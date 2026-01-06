@@ -1,5 +1,5 @@
 ---
-title: "**Simon bar Kokhba**"
+title: "Simon bar Kokhba"
 category: "contemporary-analysis"
 ---
 

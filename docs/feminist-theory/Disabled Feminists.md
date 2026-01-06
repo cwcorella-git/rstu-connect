@@ -1,5 +1,5 @@
 ---
-title: "## **Disabled Feminists**"
+title: "Disabled Feminists"
 category: "feminist-theory"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "**ChatGPT Gets Its "Wolfram Superpowers"!**"
+title: "ChatGPT Gets Its 'Wolfram Superpowers'!"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Labor activists for Standing Rock**"
+title: "Labor activists for Standing Rock"
 category: "environmental-justice"
 ---
 

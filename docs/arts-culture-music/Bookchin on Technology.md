@@ -1,5 +1,5 @@
 ---
-title: "## **Bookchin on Technology**"
+title: "Bookchin on Technology"
 category: "arts-culture-music"
 ---
 

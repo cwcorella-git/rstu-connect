@@ -1,5 +1,5 @@
 ---
-title: "## **Protecting your health and your safety against the prison murder squad hierarchy**"
+title: "Protecting your health and your safety against the prison murder squad hierarchy"
 category: "technology-digital-justice"
 ---
 

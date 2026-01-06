@@ -1,5 +1,5 @@
 ---
-title: "**Teleology**"
+title: "Teleology"
 category: "contemporary-analysis"
 ---
 

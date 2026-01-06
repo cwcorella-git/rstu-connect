@@ -1,5 +1,5 @@
 ---
-title: "## **AFL-CIO to Planet Earth: Drop Dead!**"
+title: "AFL-CIO to Planet Earth: Drop Dead!"
 category: "labor"
 ---
 

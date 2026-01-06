@@ -1,5 +1,5 @@
 ---
-title: "**Episode 19: Augustine And Aquin/**"
+title: "Episode 19: Augustine And Aquin/"
 category: "contemporary-analysis"
 ---
 

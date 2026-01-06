@@ -1,5 +1,5 @@
 ---
-title: "## **8th of march - international women's day - messages from the front line in Ukraine**"
+title: "8th of march - international women's day - messages from the front line in Ukraine"
 category: "theory"
 ---
 

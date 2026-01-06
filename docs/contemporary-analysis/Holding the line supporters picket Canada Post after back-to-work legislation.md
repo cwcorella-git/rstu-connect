@@ -1,5 +1,5 @@
 ---
-title: "**Holding the line: supporters picket Canada Post after back-to-work legislation**"
+title: "Holding the line: supporters picket Canada Post after back-to-work legislation"
 category: "contemporary-analysis"
 ---
 

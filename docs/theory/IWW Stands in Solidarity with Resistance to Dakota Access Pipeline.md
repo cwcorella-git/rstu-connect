@@ -1,5 +1,5 @@
 ---
-title: "## **IWW Stands in Solidarity with Resistance to Dakota Access Pipeline**"
+title: "IWW Stands in Solidarity with Resistance to Dakota Access Pipeline"
 category: "theory"
 ---
 

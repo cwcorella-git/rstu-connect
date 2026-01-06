@@ -1,5 +1,5 @@
 ---
-title: "**THE WAR IS NOT A METAPHOR: The Capitalist, the Defector, the Traitor, and the Revolutionary**"
+title: "THE WAR IS NOT A METAPHOR: The Capitalist, the Defector, the Traitor, and the Revolutionary"
 category: "technology-digital-justice"
 ---
 

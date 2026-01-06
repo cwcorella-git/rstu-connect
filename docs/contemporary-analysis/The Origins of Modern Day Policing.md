@@ -1,5 +1,5 @@
 ---
-title: "**The Origins of Modern Day Policing**"
+title: "The Origins of Modern Day Policing"
 category: "contemporary-analysis"
 ---
 

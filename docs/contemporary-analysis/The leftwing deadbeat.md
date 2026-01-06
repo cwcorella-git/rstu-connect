@@ -1,5 +1,5 @@
 ---
-title: "**The leftwing deadbeat**"
+title: "The leftwing deadbeat"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## **Quiet Rumours: An Anarcha-Feminist Reader, 2012 Edition**"
+title: "Quiet Rumours: An Anarcha-Feminist Reader, 2012 Edition"
 category: "feminist-theory"
 ---
 

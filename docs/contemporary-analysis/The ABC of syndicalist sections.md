@@ -1,5 +1,5 @@
 ---
-title: "## **The ABC of syndicalist sections**"
+title: "The ABC of syndicalist sections"
 category: "contemporary-analysis"
 ---
 

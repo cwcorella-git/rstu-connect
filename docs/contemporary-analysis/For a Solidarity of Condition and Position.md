@@ -1,5 +1,5 @@
 ---
-title: "## **A Delivery Driver in Manhattan**"
+title: "A Delivery Driver in Manhattan"
 category: "contemporary-analysis"
 ---
 

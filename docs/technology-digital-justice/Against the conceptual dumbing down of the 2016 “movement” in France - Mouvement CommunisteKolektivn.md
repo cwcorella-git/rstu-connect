@@ -1,5 +1,5 @@
 ---
-title: "## **Against the conceptual dumbing down of the 2016 "movement" in France - Mouvement Communiste/Kol"
+title: "Against the conceptual dumbing down of the 2016 'movement' in France - Mouvement Communiste/Kol"
 category: "technology-digital-justice"
 ---
 

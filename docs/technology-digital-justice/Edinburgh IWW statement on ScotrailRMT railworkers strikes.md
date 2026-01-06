@@ -1,5 +1,5 @@
 ---
-title: "## **Edinburgh IWW statement on Scotrail/RMT railworkers strikes**"
+title: "Edinburgh IWW statement on Scotrail/RMT railworkers strikes"
 category: "technology-digital-justice"
 ---
 

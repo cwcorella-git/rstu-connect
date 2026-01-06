@@ -1,5 +1,5 @@
 ---
-title: "**Ptolemy I Soter**"
+title: "Ptolemy I Soter"
 category: "contemporary-analysis"
 ---
 

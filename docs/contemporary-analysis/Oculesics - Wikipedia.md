@@ -1,5 +1,5 @@
 ---
-title: "**Oculesics**"
+title: "Oculesics"
 category: "contemporary-analysis"
 ---
 

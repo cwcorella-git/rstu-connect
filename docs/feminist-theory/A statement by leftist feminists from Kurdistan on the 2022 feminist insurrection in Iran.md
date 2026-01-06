@@ -1,5 +1,5 @@
 ---
-title: "## **A statement by leftist feminists from Kurdistan on the 2022 feminist insurrection in Iran**"
+title: "A statement by leftist feminists from Kurdistan on the 2022 feminist insurrection in Iran"
 category: "feminist-theory"
 ---
 

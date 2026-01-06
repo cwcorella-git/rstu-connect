@@ -1,5 +1,5 @@
 ---
-title: "**Toward the Creative Nothing**"
+title: "Toward the Creative Nothing"
 category: "anti-war-peace"
 ---
 

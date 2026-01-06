@@ -1,5 +1,5 @@
 ---
-title: "**The Meaning of Work in a Sustainable Society**"
+title: "The Meaning of Work in a Sustainable Society"
 category: "environmental-justice"
 ---
 

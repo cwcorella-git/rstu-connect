@@ -1,5 +1,5 @@
 ---
-title: "**Against the Nationalist Fragmentation of Cyberspace & Against "Astroturf Activism"**"
+title: "Against the Nationalist Fragmentation of Cyberspace & Against \"Astroturf Activism\""
 category: "technology-digital-justice"
 ---
 

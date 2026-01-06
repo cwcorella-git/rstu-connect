@@ -1,5 +1,5 @@
 ---
-title: "**Facial expression**"
+title: "Facial expression"
 category: "contemporary-analysis"
 ---
 

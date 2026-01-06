@@ -1,5 +1,5 @@
 ---
-title: "**Nostalgia in the UK - Bash Street Kids**"
+title: "Nostalgia in the UK - Bash Street Kids"
 category: "contemporary-analysis"
 ---
 

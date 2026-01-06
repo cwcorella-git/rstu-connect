@@ -1,5 +1,5 @@
 ---
-title: "**Abraham Lincoln**"
+title: "Abraham Lincoln"
 category: "theory"
 ---
 

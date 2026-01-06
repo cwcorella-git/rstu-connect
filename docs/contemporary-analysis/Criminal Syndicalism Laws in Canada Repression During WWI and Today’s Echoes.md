@@ -1,5 +1,5 @@
 ---
-title: "## **Criminal Syndicalism Laws in Canada: Repression During WWI and Today's Echoes**"
+title: "Criminal Syndicalism Laws in Canada: Repression During WWI and Today's Echoes"
 category: "contemporary-analysis"
 ---
 

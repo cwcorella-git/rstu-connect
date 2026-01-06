@@ -1,5 +1,5 @@
 ---
-title: "## **Vincent St. John in Chicago**"
+title: "Vincent St. John in Chicago"
 category: "contemporary-analysis"
 ---
 

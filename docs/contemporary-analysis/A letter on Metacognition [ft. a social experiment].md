@@ -1,5 +1,5 @@
 ---
-title: "## **A letter on Metacognition [ft. a social experiment]**"
+title: "A letter on Metacognition [ft. a social experiment]"
 category: "contemporary-analysis"
 ---
 

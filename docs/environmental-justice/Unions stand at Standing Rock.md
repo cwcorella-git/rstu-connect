@@ -1,5 +1,5 @@
 ---
-title: "## **Unions stand at Standing Rock**"
+title: "Unions stand at Standing Rock"
 category: "environmental-justice"
 ---
 

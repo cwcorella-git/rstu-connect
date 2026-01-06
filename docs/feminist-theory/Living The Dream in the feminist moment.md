@@ -1,5 +1,5 @@
 ---
-title: "## **Living The Dream in the feminist moment**"
+title: "Living The Dream in the feminist moment"
 category: "feminist-theory"
 ---
 

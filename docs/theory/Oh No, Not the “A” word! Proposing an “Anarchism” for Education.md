@@ -1,5 +1,5 @@
 ---
-title: "**Abraham De Leon**"
+title: "Abraham De Leon"
 category: "theory"
 ---
 

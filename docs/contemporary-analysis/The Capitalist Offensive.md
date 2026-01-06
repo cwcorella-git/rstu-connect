@@ -1,5 +1,5 @@
 ---
-title: "## **The Capitalist Offensive**"
+title: "The Capitalist Offensive"
 category: "contemporary-analysis"
 ---
 

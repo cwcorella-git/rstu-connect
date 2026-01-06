@@ -1,5 +1,5 @@
 ---
-title: "## **The Problem with Only Striking**"
+title: "The Problem with Only Striking"
 category: "contemporary-analysis"
 ---
 

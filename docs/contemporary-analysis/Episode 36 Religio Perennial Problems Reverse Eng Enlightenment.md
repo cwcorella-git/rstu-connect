@@ -1,5 +1,5 @@
 ---
-title: "**Episode 36: Religio Perennial Problems Reverse Eng Enlightenment/**"
+title: "Episode 36: Religio Perennial Problems Reverse Eng Enlightenment/"
 category: "contemporary-analysis"
 ---
 

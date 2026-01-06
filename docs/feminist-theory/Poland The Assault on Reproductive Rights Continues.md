@@ -1,5 +1,5 @@
 ---
-title: "## **Poland: The Assault on Reproductive Rights Continues**"
+title: "Poland: The Assault on Reproductive Rights Continues"
 category: "feminist-theory"
 ---
 

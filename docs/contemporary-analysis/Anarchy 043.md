@@ -1,5 +1,5 @@
 ---
-title: "**ANARCHY 43**"
+title: "ANARCHY 43"
 category: "contemporary-analysis"
 ---
 

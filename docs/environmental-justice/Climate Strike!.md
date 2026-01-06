@@ -1,5 +1,5 @@
 ---
-title: "## **Climate Strike!**"
+title: "Climate Strike!"
 category: "environmental-justice"
 ---
 

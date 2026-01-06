@@ -1,5 +1,5 @@
 ---
-title: "## **Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline**"
+title: "Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline"
 category: "labor"
 ---
 

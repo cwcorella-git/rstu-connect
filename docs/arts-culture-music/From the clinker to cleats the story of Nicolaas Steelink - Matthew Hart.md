@@ -1,5 +1,5 @@
 ---
-title: "## **From the clinker to cleats: the story of Nicolaas Steelink - Matthew Hart**"
+title: "From the clinker to cleats: the story of Nicolaas Steelink - Matthew Hart"
 category: "arts-culture-music"
 ---
 

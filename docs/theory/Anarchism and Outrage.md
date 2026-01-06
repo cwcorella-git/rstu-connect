@@ -1,5 +1,5 @@
 ---
-title: "**Anarchism and Outrage**"
+title: "Anarchism and Outrage"
 category: "theory"
 ---
 

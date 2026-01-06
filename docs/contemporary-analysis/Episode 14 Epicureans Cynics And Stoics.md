@@ -1,5 +1,5 @@
 ---
-title: "## **Episode 14: Epicureans Cynics And Stoics/**"
+title: "Episode 14: Epicureans Cynics And Stoics/"
 category: "contemporary-analysis"
 ---
 

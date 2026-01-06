@@ -1,5 +1,5 @@
 ---
-title: "## **ITUC calls on workers to join climate rallies in support of Paris climate justice**"
+title: "ITUC calls on workers to join climate rallies in support of Paris climate justice"
 category: "environmental-justice"
 ---
 

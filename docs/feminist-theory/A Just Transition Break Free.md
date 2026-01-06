@@ -1,5 +1,5 @@
 ---
-title: "## **A Just Transition: Break Free**"
+title: "A Just Transition: Break Free"
 category: "feminist-theory"
 ---
 

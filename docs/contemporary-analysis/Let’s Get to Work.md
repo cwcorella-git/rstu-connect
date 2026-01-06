@@ -1,5 +1,5 @@
 ---
-title: "## **Let's Get to Work**"
+title: "Let's Get to Work"
 category: "contemporary-analysis"
 ---
 

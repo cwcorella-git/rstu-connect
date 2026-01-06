@@ -1,5 +1,5 @@
 ---
-title: "**Heraclitus**"
+title: "Heraclitus"
 category: "contemporary-analysis"
 ---
 

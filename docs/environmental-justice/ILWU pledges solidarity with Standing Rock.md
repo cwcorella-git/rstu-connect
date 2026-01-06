@@ -1,5 +1,5 @@
 ---
-title: "## **ILWU pledges solidarity with Standing Rock**"
+title: "ILWU pledges solidarity with Standing Rock"
 category: "environmental-justice"
 ---
 

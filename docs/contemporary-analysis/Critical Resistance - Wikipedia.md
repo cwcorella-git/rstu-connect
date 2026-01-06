@@ -1,5 +1,5 @@
 ---
-title: "**Critical Resistance**"
+title: "Critical Resistance"
 category: "contemporary-analysis"
 ---
 

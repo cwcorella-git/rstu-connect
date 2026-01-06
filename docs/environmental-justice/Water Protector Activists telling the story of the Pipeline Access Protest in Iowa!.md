@@ -1,5 +1,5 @@
 ---
-title: "## **Water Protector Activists telling the story of the Pipeline Access Protest in Iowa!**"
+title: "Water Protector Activists telling the story of the Pipeline Access Protest in Iowa!"
 category: "environmental-justice"
 ---
 

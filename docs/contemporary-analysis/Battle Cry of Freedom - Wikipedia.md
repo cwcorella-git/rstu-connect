@@ -1,5 +1,5 @@
 ---
-title: "**Battle Cry of Freedom**"
+title: "Battle Cry of Freedom"
 category: "contemporary-analysis"
 ---
 
