@@ -1,8 +1,8 @@
 {
-  "commit": "bfa1705",
-  "message": "Universal document formatting: Add frontmatter, strip HTML, fix artifacts",
+  "commit": "5aa4505",
+  "message": "Fix invalid frontmatter across document library",
   "author": "cwcorella-git",
-  "date": "2026-01-05 17:30:16 -0800",
+  "date": "2026-01-05 18:05:05 -0800",
   "branch": "main",
-  "buildTime": "2026-01-06T01:56:45.958Z"
+  "buildTime": "2026-01-06T02:18:49.153Z"
 }
