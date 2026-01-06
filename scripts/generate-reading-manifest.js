@@ -99,10 +99,14 @@ function generateManifest() {
 
         // Validate author field
         if (author) {
-          if (author.split(' ').length === 1 && author.length < 10) {
+          // These are valid placeholder authors - don't warn about them
+          const validPlaceholders = ['Unknown', 'Wikipedia', 'Anonymous', 'Various', 'Staff', 'Editor', 'Editors'];
+          const isValidPlaceholder = validPlaceholders.some(p => p.toLowerCase() === author.toLowerCase());
+
+          if (author.split(' ').length === 1 && author.length < 10 && !isValidPlaceholder) {
             console.warn(`⚠️  Single-word author: "${author}" in ${relativePath}`);
           }
-          if (author.length < 4) {
+          if (author.length < 4 && !isValidPlaceholder) {
             console.warn(`⚠️  Very short author: "${author}" in ${relativePath}`);
           }
           if (/\.(pdf|md|doc|txt|pptx?)$/i.test(author)) {

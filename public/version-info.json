@@ -1,8 +1,8 @@
 {
-  "commit": "d7d960d",
-  "message": "Fix document formatting: Strip all code block markers from 222+ documents",
+  "commit": "245ded6",
+  "message": "Remove 72 near-duplicate documents (>85% title similarity)",
   "author": "cwcorella-git",
-  "date": "2026-01-05 16:16:08 -0800",
+  "date": "2026-01-05 16:43:26 -0800",
   "branch": "main",
-  "buildTime": "2026-01-06T00:35:09.129Z"
+  "buildTime": "2026-01-06T00:47:00.467Z"
 }
