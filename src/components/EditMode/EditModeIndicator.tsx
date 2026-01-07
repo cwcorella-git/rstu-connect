@@ -156,10 +156,15 @@ export function EditModeIndicator() {
           )}
           {saveStatus === 'error' && error && (
             <div className="flex items-center gap-2 text-red-300">
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg className="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
               </svg>
-              <span className="truncate max-w-[200px]">{error}</span>
+              <span
+                className="max-w-[400px] overflow-x-auto whitespace-nowrap scrollbar-thin select-all cursor-text"
+                title={error}
+              >
+                {error}
+              </span>
             </div>
           )}
         </div>

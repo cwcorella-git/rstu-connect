@@ -130,12 +130,14 @@ function escapeRegex(str: string): string {
 
 // Find and update a translation value in LanguageContext.tsx
 // This uses a robust regex pattern to find the translation key and update its value
+type UpdateContentResult = { success: true; content: string } | { success: false; error: string }
+
 function updateTranslationInContent(
   content: string,
   locale: string,
   key: string,
   newValue: string
-): string | null {
+): UpdateContentResult {
   // Escape the key for regex use (keys like 'landing.hero.title' have dots)
   const escapedKey = escapeRegex(key)
 
@@ -171,7 +173,7 @@ function updateTranslationInContent(
 
   if (matches.length === 0) {
     console.error(`[GitHubService] Key '${key}' not found in translations`)
-    return null
+    return { success: false, error: `Key '${key}' not found anywhere in file (found 0 matches)` }
   }
 
   // For now, find which match is in the current locale's section
@@ -182,7 +184,7 @@ function updateTranslationInContent(
 
   if (!localeMatch) {
     console.error(`[GitHubService] Locale '${locale}' not found`)
-    return null
+    return { success: false, error: `Locale '${locale}' section not found in file` }
   }
 
   const localeStart = localeMatch.index
@@ -197,8 +199,8 @@ function updateTranslationInContent(
   const matchInLocale = matches.find(m => m.index > localeStart && m.index < localeEnd)
 
   if (!matchInLocale) {
-    console.error(`[GitHubService] Key '${key}' not found in locale '${locale}'`)
-    return null
+    console.error(`[GitHubService] Key '${key}' not found in locale '${locale}' (found ${matches.length} global matches, locale range: ${localeStart}-${localeEnd})`)
+    return { success: false, error: `Key '${key}' found ${matches.length}x but not in '${locale}' section (locale range: ${localeStart}-${localeEnd})` }
   }
 
   // Build the replacement
@@ -211,7 +213,7 @@ function updateTranslationInContent(
     replacement +
     content.substring(matchInLocale.index + matchInLocale.fullMatch.length)
 
-  return updatedContent
+  return { success: true, content: updatedContent }
 }
 
 /**
@@ -241,21 +243,21 @@ export async function updateTranslation(
   }
 
   // Update the translation in the content
-  const updatedContent = updateTranslationInContent(
+  const updateResult = updateTranslationInContent(
     fileData.content,
     locale,
     key,
     newValue
   )
 
-  if (!updatedContent) {
-    return { success: false, error: `Translation key '${key}' not found for locale '${locale}'` }
+  if (!updateResult.success) {
+    return { success: false, error: updateResult.error }
   }
 
   // Commit the update
   const commitMessage = `Update translation: ${locale}.${key}\n\nUpdated via RSTU Connect inline editor`
 
-  return commitFileUpdate(config, filePath, updatedContent, fileData.sha, commitMessage)
+  return commitFileUpdate(config, filePath, updateResult.content, fileData.sha, commitMessage)
 }
 
 /**
