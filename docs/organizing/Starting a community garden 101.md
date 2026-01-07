@@ -1,8 +1,11 @@
 ---
-title: "Starting a community garden 101"
-author: "Unknown"
-date: "2025"
-category: "organizing"
+title: Starting a community garden 101
+author: Unknown
+date: '2025'
+category: organizing
+tags:
+  - community
+  - organizing
 ---
 
 # Starting a community garden 101

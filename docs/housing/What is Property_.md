@@ -1,8 +1,12 @@
 ---
-title: "What Is Property"
-author: "Shawn P. Wilbur"
-date: "2019"
-category: "housing"
+title: What Is Property
+author: Shawn P. Wilbur
+date: '2019'
+category: housing
+tags:
+  - property
+  - housing
+  - tenants
 ---
 
 # **Pierre-Joseph Proudhon**

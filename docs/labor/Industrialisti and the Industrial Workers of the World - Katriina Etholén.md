@@ -1,6 +1,10 @@
 ---
-title: "Industrialisti and the Industrial Workers of the World - Katriina Etholén"
-category: "contemporary-analysis"
+title: Industrialisti and the Industrial Workers of the World - Katriina Etholén
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Industrialisti and the Industrial Workers of the World - Katriina Etholén**

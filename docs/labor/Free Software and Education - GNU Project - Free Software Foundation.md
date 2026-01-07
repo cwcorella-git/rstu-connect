@@ -1,6 +1,11 @@
 ---
-title: "[gnu.org](https://www.gnu.org/education/education.html)"
-category: "labor"
+title: '[gnu.org](https://www.gnu.org/education/education.html)'
+category: labor
+tags:
+  - education
+  - labor
+  - unions
+  - workers
 ---
 
 [gnu.org](https://www.gnu.org/education/education.html)

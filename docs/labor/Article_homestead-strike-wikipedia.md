@@ -1,8 +1,13 @@
 ---
-title: "Homestead Strike Wikipedia"
-author: "Wikipedia"
-date: "2025"
-category: "labor"
+title: Homestead Strike Wikipedia
+author: Wikipedia
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # Homestead Strike Wikipedia

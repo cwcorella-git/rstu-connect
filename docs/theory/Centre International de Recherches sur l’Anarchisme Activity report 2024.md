@@ -1,8 +1,11 @@
 ---
-title: "Centre International De Recherches Sur Lanarchisme Activity Report 2024"
-author: "Hellyette Bess"
-date: "2024"
-category: "theory"
+title: Centre International De Recherches Sur Lanarchisme Activity Report 2024
+author: Hellyette Bess
+date: '2024'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Centre International de Recherches sur l'Anarchisme Activity report 2024**

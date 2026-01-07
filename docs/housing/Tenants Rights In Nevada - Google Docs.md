@@ -1,8 +1,11 @@
 ---
-title: "Tenants Rights In Nevada - Google Docs"
-author: "Google Docs"
-date: "2025"
-category: "housing"
+title: Tenants Rights In Nevada - Google Docs
+author: Google Docs
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - Nevada
 ---
 
 # Tenants Rights In Nevada - Google Docs

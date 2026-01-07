@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - organizing
+  - labor
 ---
 
 # A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low Youll

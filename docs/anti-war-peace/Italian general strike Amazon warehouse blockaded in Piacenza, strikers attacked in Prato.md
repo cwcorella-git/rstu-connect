@@ -1,6 +1,13 @@
 ---
-title: "Italian general strike: Amazon warehouse blockaded in Piacenza, strikers attacked in Prato"
-category: "anti-war-peace"
+title: >-
+  Italian general strike: Amazon warehouse blockaded in Piacenza, strikers
+  attacked in Prato
+category: anti-war-peace
+tags:
+  - general strikes
+  - strikes
+  - blockades
+  - Italy
 ---
 
 ## **Italian general strike: Amazon warehouse blockaded in Piacenza, strikers attacked in Prato**

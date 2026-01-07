@@ -1,6 +1,8 @@
 ---
-title: "Glasser's choice theory"
-category: "theory"
+title: Glasser's choice theory
+category: theory
+tags:
+  - theory
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Glasser%27s_choice_theory)

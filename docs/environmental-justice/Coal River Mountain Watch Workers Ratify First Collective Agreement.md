@@ -1,6 +1,10 @@
 ---
-title: "Coal River Mountain Watch Workers Ratify First Collective Agreement"
-category: "environmental-justice"
+title: Coal River Mountain Watch Workers Ratify First Collective Agreement
+category: environmental-justice
+tags:
+  - labor
+  - environment
+  - climate
 ---
 
 ## **Coal River Mountain Watch Workers Ratify First Collective Agreement**

@@ -1,6 +1,8 @@
 ---
-title: "Middle Class? Fuck Off!"
-category: "contemporary-analysis"
+title: Middle Class? Fuck Off!
+category: contemporary-analysis
+tags:
+  - class
 ---
 
 ## **Middle Class? Fuck Off!**

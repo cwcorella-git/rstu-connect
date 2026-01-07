@@ -1,8 +1,10 @@
 ---
-title: "Can’t Stop Believing"
-author: "David Graeber"
-date: "November 2012"
-category: "contemporary-analysis"
+title: Can’t Stop Believing
+author: David Graeber
+date: November 2012
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 ### I.

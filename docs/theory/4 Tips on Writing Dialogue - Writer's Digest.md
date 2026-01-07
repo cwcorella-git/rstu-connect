@@ -1,6 +1,8 @@
 ---
-title: "4 Tips on Writing Dialogue"
-category: "theory"
+title: 4 Tips on Writing Dialogue
+category: theory
+tags:
+  - theory
 ---
 
 #### [writersdigest.com](https://www.writersdigest.com/write-better-fiction/4-tips-on-writing-dialogue)

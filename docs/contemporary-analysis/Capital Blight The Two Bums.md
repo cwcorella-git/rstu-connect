@@ -1,6 +1,8 @@
 ---
-title: "Capital Blight: The Two Bums"
-category: "contemporary-analysis"
+title: 'Capital Blight: The Two Bums'
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 ## **Capital Blight: The Two Bums**

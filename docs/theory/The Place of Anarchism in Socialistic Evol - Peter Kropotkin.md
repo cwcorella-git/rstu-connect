@@ -1,8 +1,12 @@
 ---
-title: "The Place Of Anarchism In Socialistic Evol Peter Kropotkin"
-author: "Peter Kropotkin"
-date: "1848"
-category: "theory"
+title: The Place Of Anarchism In Socialistic Evol Peter Kropotkin
+author: Peter Kropotkin
+date: '1848'
+category: theory
+tags:
+  - anarchism
+  - socialism
+  - Kropotkin
 ---
 
 # PETER KROPOTKIN

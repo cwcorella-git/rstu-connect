@@ -1,6 +1,8 @@
 ---
-title: "The Pandemic Inside: COVID-19 in Michigan Prisons"
-category: "contemporary-analysis"
+title: 'The Pandemic Inside: COVID-19 in Michigan Prisons'
+category: contemporary-analysis
+tags:
+  - prisons
 ---
 
 ## **The Pandemic Inside: COVID-19 in Michigan Prisons**

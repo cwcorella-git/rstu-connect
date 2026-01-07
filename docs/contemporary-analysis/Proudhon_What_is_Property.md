@@ -1,6 +1,9 @@
 ---
-title: "What is Property?"
-category: "contemporary-analysis"
+title: What is Property?
+category: contemporary-analysis
+tags:
+  - property
+  - Proudhon
 ---
 
 # **What is Property?**

@@ -1,8 +1,10 @@
 ---
-title: "Re-Thinking Resistance"
-author: "David Graeber"
-date: "2017"
-category: "contemporary-analysis"
+title: Re-Thinking Resistance
+author: David Graeber
+date: '2017'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 I will be talking about bureaucracy and class, and dangers threatening the revolution in Rojava. I think this is very, very important, because if we’re talking about beacons of historical hope, the revolution in Rojava is probably the most important thing that’s happened on this planet since Spain in the 1930’s. This is a magnificent opportunity, and in fact the revolution in Rojava has now lasted longer than the Spanish revolution; it’s managed to maintain itself. I think that as the embargo is lifted, certain problems are going to occur that have to be dealt with, and I think people are thinking about this, but I think it’s really important for us to understand exactly what the danger that we’re facing is, or its most insidious forms.

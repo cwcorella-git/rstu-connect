@@ -1,8 +1,11 @@
 ---
-title: "Class Consciousness And Working Class Emancipation"
-author: "Unknown"
-date: "1914"
-category: "theory"
+title: Class Consciousness And Working Class Emancipation
+author: Unknown
+date: '1914'
+category: theory
+tags:
+  - class
+  - theory
 ---
 
 ## **Class Consciousness and Working Class Emancipation**

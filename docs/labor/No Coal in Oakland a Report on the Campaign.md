@@ -1,6 +1,10 @@
 ---
-title: "No Coal in Oakland: a Report on the Campaign"
-category: "labor"
+title: 'No Coal in Oakland: a Report on the Campaign'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # **No Coal in Oakland: a Report on the Campaign**

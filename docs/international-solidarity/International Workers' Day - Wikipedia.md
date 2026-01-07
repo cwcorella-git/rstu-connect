@@ -1,6 +1,10 @@
 ---
-title: "International Workers' Day"
-category: "international-solidarity"
+title: International Workers' Day
+category: international-solidarity
+tags:
+  - labor
+  - international
+  - solidarity
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/International_Workers%27_Day)

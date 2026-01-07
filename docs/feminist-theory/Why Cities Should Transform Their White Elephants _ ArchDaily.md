@@ -1,6 +1,9 @@
 ---
-title: "Why Cities Should Transform Their White Elephants"
-category: "feminist-theory"
+title: Why Cities Should Transform Their White Elephants
+category: feminist-theory
+tags:
+  - urban
+  - feminism
 ---
 
 #### [archdaily.com](https://www.archdaily.com/949159/why-cities-should-transform-their-white-elephants?ad_campaign=special-tag)

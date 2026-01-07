@@ -1,6 +1,8 @@
 ---
-title: "HOST CITY CONTRACT FOR THE GAMES OF THE XXXII OLYMPIAD IN THE YEAR 2020"
-category: "contemporary-analysis"
+title: HOST CITY CONTRACT FOR THE GAMES OF THE XXXII OLYMPIAD IN THE YEAR 2020
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

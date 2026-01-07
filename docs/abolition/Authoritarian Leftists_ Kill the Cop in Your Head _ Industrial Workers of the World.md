@@ -1,6 +1,9 @@
 ---
-title: "Authoritarian Leftists: Kill the Cop in Your Head"
-category: "contemporary-analysis"
+title: 'Authoritarian Leftists: Kill the Cop in Your Head'
+category: contemporary-analysis
+tags:
+  - police
+  - labor
 ---
 
 #### [archive.iww.org](https://archive.iww.org/history/library/Jackson/copinyourhead/)

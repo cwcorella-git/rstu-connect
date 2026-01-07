@@ -1,6 +1,9 @@
 ---
-title: "Suds and Socialism Forum: Workers and the Environment"
-category: "environmental-justice"
+title: 'Suds and Socialism Forum: Workers and the Environment'
+category: environmental-justice
+tags:
+  - labor
+  - environment
 ---
 
 ## **Suds and Socialism Forum: Workers and the Environment**

@@ -1,6 +1,9 @@
 ---
-title: "Protestors Takes To Trees As Pipeline's Chainsaws Approach"
-category: "technology-digital-justice"
+title: Protestors Takes To Trees As Pipeline's Chainsaws Approach
+category: technology-digital-justice
+tags:
+  - protests
+  - fossil fuels
 ---
 
 ## **Protestors Takes To Trees As Pipeline's Chainsaws Approach**

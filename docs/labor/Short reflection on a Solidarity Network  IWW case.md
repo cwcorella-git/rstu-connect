@@ -1,6 +1,9 @@
 ---
-title: "Short reflection on a Solidarity Network / IWW case"
-category: "theory"
+title: Short reflection on a Solidarity Network / IWW case
+category: theory
+tags:
+  - unions
+  - solidarity
 ---
 
 ## **Short reflection on a Solidarity Network / IWW case**

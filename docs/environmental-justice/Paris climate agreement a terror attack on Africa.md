@@ -1,6 +1,9 @@
 ---
-title: "Paris climate agreement: a terror attack on Africa"
-category: "environmental-justice"
+title: 'Paris climate agreement: a terror attack on Africa'
+category: environmental-justice
+tags:
+  - environment
+  - France
 ---
 
 ## **Paris climate agreement: a terror attack on Africa**

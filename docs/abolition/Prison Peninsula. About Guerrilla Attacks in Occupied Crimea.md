@@ -1,6 +1,10 @@
 ---
-title: "Prison Peninsula. About Guerrilla Attacks in Occupied Crimea"
-category: "contemporary-analysis"
+title: Prison Peninsula. About Guerrilla Attacks in Occupied Crimea
+category: contemporary-analysis
+tags:
+  - prisons
+  - abolition
+  - police
 ---
 
 ## **Prison Peninsula. About Guerrilla Attacks in Occupied Crimea**

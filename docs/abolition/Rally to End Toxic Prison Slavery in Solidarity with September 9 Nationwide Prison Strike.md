@@ -1,6 +1,12 @@
 ---
-title: "Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike"
-category: "contemporary-analysis"
+title: >-
+  Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide
+  Prison Strike
+category: contemporary-analysis
+tags:
+  - strikes
+  - solidarity
+  - prisons
 ---
 
 ## **Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike**

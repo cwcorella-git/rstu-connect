@@ -1,6 +1,9 @@
 ---
-title: "Low GWP Alternatives to HFCs in Refrigeration"
-category: "indigenous-solidarity"
+title: Low GWP Alternatives to HFCs in Refrigeration
+category: indigenous-solidarity
+tags:
+  - indigenous
+  - solidarity
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

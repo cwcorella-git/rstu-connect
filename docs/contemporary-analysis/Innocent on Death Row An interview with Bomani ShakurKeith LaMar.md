@@ -1,6 +1,8 @@
 ---
-title: "Innocent on Death Row: An interview with Bomani Shakur/Keith La Mar"
-category: "contemporary-analysis"
+title: 'Innocent on Death Row: An interview with Bomani Shakur/Keith La Mar'
+category: contemporary-analysis
+tags:
+  - Los Angeles
 ---
 
 ## **Innocent on Death Row: An interview with Bomani Shakur/Keith La Mar**

@@ -1,6 +1,10 @@
 ---
-title: "Labor Wars in the U. S."
-category: "anti-war-peace"
+title: Labor Wars in the U. S.
+category: anti-war-peace
+tags:
+  - labor
+  - anti-war
+  - peace
 ---
 
 [pbs.org](https://www.pbs.org/wgbh/americanexperience/features/theminewars-labor-wars-us/)

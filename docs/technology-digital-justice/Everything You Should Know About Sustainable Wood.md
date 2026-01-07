@@ -1,6 +1,9 @@
 ---
-title: "Everything You Should Know About Sustainable Wood"
-category: "technology-digital-justice"
+title: Everything You Should Know About Sustainable Wood
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## wood-fi[nishes-direct.com](https://www.wood-finishes-direct.com/blog/everything-you-should-know-about-sustainable-wood/)

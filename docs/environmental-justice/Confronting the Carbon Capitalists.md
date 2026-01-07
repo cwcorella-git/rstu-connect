@@ -1,6 +1,10 @@
 ---
-title: "Confronting the Carbon Capitalists"
-category: "environmental-justice"
+title: Confronting the Carbon Capitalists
+category: environmental-justice
+tags:
+  - capitalism
+  - environment
+  - climate
 ---
 
 ## **Confronting the Carbon Capitalists**

@@ -1,6 +1,9 @@
 ---
-title: "Democratic Autonomous Administration of North and East Syria"
-category: "contemporary-analysis"
+title: Democratic Autonomous Administration of North and East Syria
+category: contemporary-analysis
+tags:
+  - autonomy
+  - democracy
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

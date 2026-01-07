@@ -1,6 +1,10 @@
 ---
-title: "General strike in Italy: new date and follow-up assembly"
-category: "organizing"
+title: 'General strike in Italy: new date and follow-up assembly'
+category: organizing
+tags:
+  - general strikes
+  - strikes
+  - Italy
 ---
 
 ## **General strike in Italy: new date and follow-up assembly**

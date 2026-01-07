@@ -1,6 +1,9 @@
 ---
-title: "Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)"
-category: "technology-digital-justice"
+title: 'Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)**

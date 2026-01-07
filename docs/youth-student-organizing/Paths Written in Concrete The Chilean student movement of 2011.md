@@ -1,6 +1,10 @@
 ---
-title: "Paths Written in Concrete: The Chilean student movement of 2011"
-category: "youth-student-organizing"
+title: 'Paths Written in Concrete: The Chilean student movement of 2011'
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 ## **Paths Written in Concrete: The Chilean student movement of 2011**

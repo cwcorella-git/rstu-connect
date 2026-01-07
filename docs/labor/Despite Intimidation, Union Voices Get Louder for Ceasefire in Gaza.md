@@ -1,6 +1,9 @@
 ---
-title: "Despite Intimidation, Union Voices Get Louder for Ceasefire in Gaza"
-category: "labor"
+title: 'Despite Intimidation, Union Voices Get Louder for Ceasefire in Gaza'
+category: labor
+tags:
+  - unions
+  - Palestine
 ---
 
 ## **Despite Intimidation, Union Voices Get Louder for Ceasefire in Gaza**

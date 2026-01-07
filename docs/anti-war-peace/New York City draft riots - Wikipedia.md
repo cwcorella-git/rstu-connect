@@ -1,8 +1,12 @@
 ---
-title: "New York City draft riots - Wikipedia"
-author: "Wikipedia"
-date: "2017"
-category: "anti-war-peace"
+title: New York City draft riots - Wikipedia
+author: Wikipedia
+date: '2017'
+category: anti-war-peace
+tags:
+  - riots
+  - urban
+  - New York
 ---
 
 # New York City draft riots - Wikipedia

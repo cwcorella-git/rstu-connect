@@ -1,6 +1,8 @@
 ---
-title: "KEY to the CITY"
-category: "contemporary-analysis"
+title: KEY to the CITY
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 HOW ZONING SHAPES

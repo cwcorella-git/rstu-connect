@@ -1,6 +1,13 @@
 ---
-title: "Bows and Arrows: Indigenous Workers, IWW Local 526, and Syndicalism on the Vancouver Docks"
-category: "organizing"
+title: >-
+  Bows and Arrows: Indigenous Workers, IWW Local 526, and Syndicalism on the
+  Vancouver Docks
+category: organizing
+tags:
+  - unions
+  - syndicalism
+  - labor
+  - indigenous
 ---
 
 ## **Bows and Arrows: Indigenous Workers, IWW Local 526, and Syndicalism on the Vancouver Docks**

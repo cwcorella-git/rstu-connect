@@ -1,8 +1,10 @@
 ---
-title: "Beads and Money"
-author: "David Graeber"
-date: "1996"
-category: "contemporary-analysis"
+title: Beads and Money
+author: David Graeber
+date: '1996'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 ### abstract

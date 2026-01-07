@@ -1,6 +1,9 @@
 ---
-title: "[Brain](https://en.wikipedia.org/wiki/Main_Page)"
-category: "technology-digital-justice"
+title: '[Brain](https://en.wikipedia.org/wiki/Main_Page)'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

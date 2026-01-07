@@ -1,6 +1,11 @@
 ---
-title: "From mass strike to new society - Jeremy Brecher"
-category: "contemporary-analysis"
+title: From mass strike to new society - Jeremy Brecher
+category: contemporary-analysis
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 ## **From mass strike to new society - Jeremy Brecher**

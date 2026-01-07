@@ -1,8 +1,11 @@
 ---
-title: "Revolutionary Class Union"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Revolutionary Class Union
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - class
 ---
 
 # Revolutionary Class Union

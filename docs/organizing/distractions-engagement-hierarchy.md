@@ -1,6 +1,8 @@
 ---
-title: "What Games Are"
-category: "organizing"
+title: What Games Are
+category: organizing
+tags:
+  - organizing
 ---
 
 # **[What Games Are](https://web.archive.org/web/20250913123258/https://www.whatgamesare.com/)**

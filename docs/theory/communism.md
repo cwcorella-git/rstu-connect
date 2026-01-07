@@ -1,8 +1,10 @@
 ---
-title: "Communism"
-author: "David Graeber"
-date: "2010"
-category: "contemporary-analysis"
+title: Communism
+author: David Graeber
+date: '2010'
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 Communism may be divided into two chief varieties, which I will call ‘mythic’ and ‘everyday’ communism. They might as easily be referred to as ‘ideal’ and ‘empirical’ or even ‘transcendent’ and ‘immanent’ versions of communism.

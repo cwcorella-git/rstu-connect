@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Affinity Group"
-date: "1868"
-category: "theory"
+title: '>-'
+author: Affinity Group
+date: '1868'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1.pdf

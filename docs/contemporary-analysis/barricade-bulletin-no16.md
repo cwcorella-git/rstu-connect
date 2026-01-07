@@ -1,6 +1,9 @@
 ---
-title: "BLOODY SUNDAY: MARCH FOR JUSTICE"
-category: "contemporary-analysis"
+title: 'BLOODY SUNDAY: MARCH FOR JUSTICE'
+category: contemporary-analysis
+tags:
+  - protests
+  - blockades
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

@@ -1,8 +1,12 @@
 ---
-title: "Restoring the Union Us History Ii Os Collection"
-author: "the end"
-date: "2025"
-category: "labor"
+title: Restoring the Union Us History Ii Os Collection
+author: the end
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # Restoring the Union Us History Ii Os Collection

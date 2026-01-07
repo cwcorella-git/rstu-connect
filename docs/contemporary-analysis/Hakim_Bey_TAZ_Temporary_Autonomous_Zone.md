@@ -1,6 +1,9 @@
 ---
-title: "T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism"
-category: "contemporary-analysis"
+title: 'T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - autonomy
 ---
 
 # **T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism**

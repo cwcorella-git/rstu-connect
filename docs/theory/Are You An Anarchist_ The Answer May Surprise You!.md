@@ -1,6 +1,9 @@
 ---
-title: "David Graeber"
-category: "contemporary-analysis"
+title: David Graeber
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Graeber
 ---
 
 # **David Graeber**

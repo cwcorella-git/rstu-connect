@@ -1,6 +1,10 @@
 ---
-title: "FREEDOM AND NECESSITY IN NATURE A Problem in Ecological Ethics'"
-category: "environmental-justice"
+title: FREEDOM AND NECESSITY IN NATURE A Problem in Ecological Ethics'
+category: environmental-justice
+tags:
+  - environment
+  - liberty
+  - Bookchin
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

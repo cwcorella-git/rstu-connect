@@ -1,6 +1,8 @@
 ---
-title: "Class Counts"
-category: "contemporary-analysis"
+title: Class Counts
+category: contemporary-analysis
+tags:
+  - class
 ---
 
 # **Class Counts**

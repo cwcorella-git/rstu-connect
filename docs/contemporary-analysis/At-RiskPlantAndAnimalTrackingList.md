@@ -1,6 +1,8 @@
 ---
-title: "Nevada Division of Natural Heritage"
-category: "contemporary-analysis"
+title: Nevada Division of Natural Heritage
+category: contemporary-analysis
+tags:
+  - Nevada
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

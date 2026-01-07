@@ -1,8 +1,13 @@
 ---
-title: "Oakland Strike Balance Sheet Lessons and What Next"
-author: "Oakland Strike Balance"
-date: "2025"
-category: "labor"
+title: Oakland Strike Balance Sheet Lessons and What Next
+author: Oakland Strike Balance
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # Oakland Strike Balance Sheet Lessons and What Next

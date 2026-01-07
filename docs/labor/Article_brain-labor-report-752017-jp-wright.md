@@ -1,8 +1,12 @@
 ---
-title: "Brain Labor Report 752017 Jp Wright"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Brain Labor Report 752017 Jp Wright
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Brain Labor Report 752017 Jp Wright

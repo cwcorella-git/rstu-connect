@@ -1,6 +1,10 @@
 ---
-title: "The Battle for Bread at Lawrence - Mary Marcy"
-category: "labor"
+title: The Battle for Bread at Lawrence - Mary Marcy
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **The Battle for Bread at Lawrence - Mary Marcy**

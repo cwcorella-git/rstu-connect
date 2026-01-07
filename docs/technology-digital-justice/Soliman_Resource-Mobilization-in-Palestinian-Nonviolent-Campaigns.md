@@ -1,6 +1,9 @@
 ---
-title: "Resource Mobilization in Palestinian Nonviolent Campaigns"
-category: "technology-digital-justice"
+title: Resource Mobilization in Palestinian Nonviolent Campaigns
+category: technology-digital-justice
+tags:
+  - nonviolence
+  - Palestine
 ---
 
 # Resource Mobilization in Palestinian Nonviolent Campaigns

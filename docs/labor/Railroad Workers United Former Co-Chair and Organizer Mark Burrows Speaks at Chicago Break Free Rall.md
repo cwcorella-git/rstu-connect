@@ -1,6 +1,13 @@
 ---
-title: "Railroad Workers United Former Co-Chair and Organizer Mark Burrows Speaks at Chicago Break Free"
-category: "technology-digital-justice"
+title: >-
+  Railroad Workers United Former Co-Chair and Organizer Mark Burrows Speaks at
+  Chicago Break Free
+category: technology-digital-justice
+tags:
+  - organizing
+  - labor
+  - railroads
+  - Chicago
 ---
 
 ## **Railroad Workers United Former Co-Chair and Organizer Mark Burrows Speaks at Chicago Break Free Rally**

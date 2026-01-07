@@ -1,6 +1,9 @@
 ---
-title: "It Starts On Your Job: Syndicalist proposals"
-category: "arts-culture-music"
+title: 'It Starts On Your Job: Syndicalist proposals'
+category: arts-culture-music
+tags:
+  - syndicalism
+  - labor
 ---
 
 ## **It Starts On Your Job: Syndicalist proposals**

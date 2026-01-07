@@ -1,6 +1,9 @@
 ---
-title: "Climate Justice and Class Struggle: Online Screening Event"
-category: "environmental-justice"
+title: 'Climate Justice and Class Struggle: Online Screening Event'
+category: environmental-justice
+tags:
+  - environment
+  - class
 ---
 
 ## **Climate Justice and Class Struggle: Online Screening Event**

@@ -1,6 +1,9 @@
 ---
-title: "2005: Tonga Public Servants General Strike"
-category: "labor"
+title: '2005: Tonga Public Servants General Strike'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **2005: Tonga Public Servants General Strike**

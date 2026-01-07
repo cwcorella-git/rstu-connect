@@ -1,6 +1,8 @@
 ---
-title: "PAULO FREIRE"
-category: "theory"
+title: PAULO FREIRE
+category: theory
+tags:
+  - theory
 ---
 
 # PAULO FREIRE

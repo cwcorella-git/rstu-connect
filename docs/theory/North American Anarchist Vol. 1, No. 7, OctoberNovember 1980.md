@@ -1,6 +1,9 @@
 ---
-title: "North American Anarchist Vol. 1, No. 7, October/November 1980"
-category: "contemporary-analysis"
+title: 'North American Anarchist Vol. 1, No. 7, October/November 1980'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **North American Anarchist Vol. 1, No. 7, October/November 1980**

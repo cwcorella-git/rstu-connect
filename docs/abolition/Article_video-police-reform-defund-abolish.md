@@ -1,8 +1,11 @@
 ---
-title: "Video Police Reform Defund Abolish"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: Video Police Reform Defund Abolish
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
 ---
 
 # Video Police Reform Defund Abolish

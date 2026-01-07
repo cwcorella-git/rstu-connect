@@ -1,6 +1,9 @@
 ---
-title: "Read Write Own"
-category: "technology-digital-justice"
+title: Read Write Own
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # Read Write Own

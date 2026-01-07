@@ -1,6 +1,11 @@
 ---
-title: "Against the Nationalist Fragmentation of Cyberspace & Against \"Astroturf Activism\""
-category: "technology-digital-justice"
+title: >-
+  Against the Nationalist Fragmentation of Cyberspace & Against "Astroturf
+  Activism"
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ### **Michael Schmidt**

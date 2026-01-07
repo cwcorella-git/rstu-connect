@@ -1,6 +1,12 @@
 ---
-title: "Conservatives back down on anti-worker law in face of general strike threat. Rank and file reso"
-category: "contemporary-analysis"
+title: >-
+  Conservatives back down on anti-worker law in face of general strike threat.
+  Rank and file reso
+category: contemporary-analysis
+tags:
+  - general strikes
+  - strikes
+  - labor
 ---
 
 ## **Conservatives back down on anti-worker law in face of general strike threat. Rank and file resolute.**

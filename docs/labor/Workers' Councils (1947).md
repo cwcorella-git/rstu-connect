@@ -1,6 +1,10 @@
 ---
-title: "Workers' Councils"
-category: "contemporary-analysis"
+title: Workers' Councils
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 #### **Anton Pannekoek**

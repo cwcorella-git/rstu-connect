@@ -1,6 +1,10 @@
 ---
-title: "DEFUND THE POLICE"
-category: "international-solidarity"
+title: DEFUND THE POLICE
+category: international-solidarity
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 ## An International Insurrection

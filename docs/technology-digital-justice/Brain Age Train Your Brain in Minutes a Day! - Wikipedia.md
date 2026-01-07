@@ -1,6 +1,11 @@
 ---
-title: "[Brain Age: Train Your Brain in Minutes a Day!](https://en.wikipedia.org/wiki/Main_Page)"
-category: "technology-digital-justice"
+title: >-
+  [Brain Age: Train Your Brain in Minutes a
+  Day!](https://en.wikipedia.org/wiki/Main_Page)
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

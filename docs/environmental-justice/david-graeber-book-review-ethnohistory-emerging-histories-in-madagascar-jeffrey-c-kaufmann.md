@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "David Graeber"
-date: "2004"
-category: "environmental-justice"
+title: '>-'
+author: David Graeber
+date: '2004'
+category: environmental-justice
+tags:
+  - Graeber
+  - environment
+  - climate
 ---
 
 **Ethnohistory: Emerging Histories in Madagascar.** Jeffrey C. Kaufinann, ed. *Ethnohistory*, special issue, vol. 48, nos. 1–2. Durham, N.C., Duke University Press, 2001, 379 pp. $15.00, paper.

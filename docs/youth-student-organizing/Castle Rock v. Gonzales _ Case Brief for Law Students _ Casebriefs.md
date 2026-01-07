@@ -1,6 +1,10 @@
 ---
-title: "Castle Rock v. Gonzales | Case Brief for Law Students"
-category: "youth-student-organizing"
+title: Castle Rock v. Gonzales | Case Brief for Law Students
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 #### [casebriefs.com](https://www.casebriefs.com/blog/law/constitutional-law/constitutional-law-keyed-to-brest/the-constitution-in-the-modern-welfare-state/castle-rock-v-gonzales/)

@@ -1,8 +1,11 @@
 ---
-title: "1984 Uruguay General Strike"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: 1984 Uruguay General Strike
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # 1984 Uruguay General Strike

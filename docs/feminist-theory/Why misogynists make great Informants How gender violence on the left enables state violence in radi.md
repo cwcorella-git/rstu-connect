@@ -1,6 +1,10 @@
 ---
-title: "Why misogynists make great Informants: How gender violence on the left enables state violence i"
-category: "feminist-theory"
+title: >-
+  Why misogynists make great Informants: How gender violence on the left enables
+  state violence i
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **Why misogynists make great Informants: How gender violence on the left enables state violence in radical movements**

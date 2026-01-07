@@ -1,6 +1,11 @@
 ---
-title: "Queering the Panthers: Rhetorical adjacency and black/queer liberation politics"
-category: "feminist-theory"
+title: >-
+  Queering the Panthers: Rhetorical adjacency and black/queer liberation
+  politics
+category: feminist-theory
+tags:
+  - LGBTQ+
+  - feminism
 ---
 
 ## **Queering the Panthers: Rhetorical adjacency and black/queer liberation politics**

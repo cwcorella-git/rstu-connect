@@ -1,6 +1,11 @@
 ---
-title: "Riots in the Master's Hall: Racism, Nationalism, and the Crisis of U. S. Hegemony"
-category: "contemporary-analysis"
+title: >-
+  Riots in the Master's Hall: Racism, Nationalism, and the Crisis of U. S.
+  Hegemony
+category: contemporary-analysis
+tags:
+  - riots
+  - racial justice
 ---
 
 global media networks is now unparalleled. versed in the diverse ways that crime and punishment are represented suffering, teenagers post 'happy slapping' videos on You Tube, both cyber stream criminology, media and communication studies, and cultural down the often rigid and increasingly hardened boundaries of mainin an era of global interconnectedness, not least since the very reach of powerful role in shaping social practices. It is vital then that we become lation on the Internet, it is clear that images of crime and control play a bullying and 'justice for' campaigns are mainstays of social media, and cop cars and carceral spaces, game shows routinely feature shame and studies. In a late modern world where reality TV takes viewers into dant power of spectacle. This international book series aims to break recognition that criminology needs to rethink its relations with the ascenpunishment proliferate across new and old media there is a growing insurrectionist groups compile footage of suicide bomb attacks for circuresearch into crime, media and culture. As images of crime, harm and This series aims to publish high quality interdisciplinary scholarship for

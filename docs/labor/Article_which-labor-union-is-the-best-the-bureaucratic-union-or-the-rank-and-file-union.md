@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
 ---
 
 # Which Labor Union Is the Best the Bureaucratic Union Or the Rank and File Union

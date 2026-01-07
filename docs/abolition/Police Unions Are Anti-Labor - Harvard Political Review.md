@@ -1,8 +1,11 @@
 ---
-title: "Police Unions Are Anti Labor Harvard"
-author: "Harvard Political Review"
-date: "2016"
-category: "abolition"
+title: Police Unions Are Anti Labor Harvard
+author: Harvard Political Review
+date: '2016'
+category: abolition
+tags:
+  - police
+  - labor
 ---
 
 ## [harvardpolitics.com](https://harvardpolitics.com/police-unions-are-anti-labor/)

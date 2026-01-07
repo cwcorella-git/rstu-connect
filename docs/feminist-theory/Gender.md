@@ -1,6 +1,8 @@
 ---
-title: "Ivan Illich"
-category: "feminist-theory"
+title: Ivan Illich
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 # **Ivan Illich**

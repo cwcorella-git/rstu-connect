@@ -1,8 +1,13 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - anarchism
+  - syndicalism
+  - antifascism
 ---
 
 # Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist Intern

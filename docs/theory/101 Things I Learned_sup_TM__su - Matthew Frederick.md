@@ -1,6 +1,9 @@
 ---
-title: "101 Things I Learned™ in Film School"
-category: "theory"
+title: 101 Things I Learned™ in Film School
+category: theory
+tags:
+  - education
+  - theory
 ---
 
 ![](_page_0_Picture_0.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Revolutionary syndicalism in France still alive - George Andreytchine"
-category: "theory"
+title: Revolutionary syndicalism in France still alive - George Andreytchine
+category: theory
+tags:
+  - syndicalism
+  - France
 ---
 
 ## **Revolutionary syndicalism in France still alive - George Andreytchine**

@@ -1,6 +1,10 @@
 ---
-title: "Green Syndicalism – A Very Brief Introduction"
-category: "environmental-justice"
+title: Green Syndicalism – A Very Brief Introduction
+category: environmental-justice
+tags:
+  - syndicalism
+  - environment
+  - climate
 ---
 
 ## **Green Syndicalism – A Very Brief Introduction**

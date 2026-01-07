@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Praise for ABOLISH RENT"
-date: "2025"
-category: "housing"
+title: '>-'
+author: Praise for ABOLISH RENT
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - housing
+  - abolition
 ---
 
 # Abolish Rent_ How Tenants Can Solve the Housing Crisis -- Tracy Rosenthal & Leonardo Vilchis -- 2025 -- 97bb7afcf03e65485631eee3a8b8142d -- Anna’s Archive

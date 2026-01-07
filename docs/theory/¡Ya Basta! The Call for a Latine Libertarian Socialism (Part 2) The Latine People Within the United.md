@@ -1,6 +1,10 @@
 ---
-title: "¡Ya Basta! The Call for a Latine Libertarian Socialism (Part 2): The Latine People Within the U"
-category: "arts-culture-music"
+title: >-
+  ¡Ya Basta! The Call for a Latine Libertarian Socialism (Part 2): The Latine
+  People Within the U
+category: arts-culture-music
+tags:
+  - theory
 ---
 
 ## **¡Ya Basta! The Call for a Latine Libertarian Socialism (Part 2): The Latine People Within the United States of America**

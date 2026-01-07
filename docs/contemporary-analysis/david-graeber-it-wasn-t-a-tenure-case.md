@@ -1,8 +1,10 @@
 ---
-title: "It Wasn’t a Tenure Case"
-author: "David Graeber"
-date: "October 11, 2017"
-category: "contemporary-analysis"
+title: It Wasn’t a Tenure Case
+author: David Graeber
+date: 'October 11, 2017'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 First of all allow me to remark how touched and honored I am to be put on the same list as James Mooney, who I’ve always admired, and Edmund Leach, who may have been the man who most inspired me to take up an anthropological career. Leach for me always been a model of intellectual freedom.

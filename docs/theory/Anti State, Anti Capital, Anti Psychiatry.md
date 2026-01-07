@@ -1,6 +1,9 @@
 ---
-title: "Anti State, Anti Capital, Anti Psychiatry"
-category: "theory"
+title: 'Anti State, Anti Capital, Anti Psychiatry'
+category: theory
+tags:
+  - capitalism
+  - theory
 ---
 
 # **Anti State, Anti Capital, Anti Psychiatry**

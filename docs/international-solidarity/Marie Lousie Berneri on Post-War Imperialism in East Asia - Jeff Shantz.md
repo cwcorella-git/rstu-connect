@@ -1,6 +1,10 @@
 ---
-title: "Marie Lousie Berneri on Post-War Imperialism in East Asia - Jeff Shantz"
-category: "international-solidarity"
+title: Marie Lousie Berneri on Post-War Imperialism in East Asia - Jeff Shantz
+category: international-solidarity
+tags:
+  - anti-war
+  - international
+  - solidarity
 ---
 
 ## **Marie Lousie Berneri on Post-War Imperialism in East Asia - Jeff Shantz**

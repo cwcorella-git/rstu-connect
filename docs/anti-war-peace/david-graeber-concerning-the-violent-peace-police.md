@@ -1,8 +1,12 @@
 ---
-title: "Concerning the violent peace-police"
-author: "David Graeber"
-date: "February 9, 2012"
-category: "anti-war-peace"
+title: Concerning the violent peace-police
+author: David Graeber
+date: 'February 9, 2012'
+category: anti-war-peace
+tags:
+  - police
+  - anti-war
+  - Graeber
 ---
 
 I am writing this on the premise that you are a well-meaning person who wishes Occupy Wall Street to succeed. I am also writing as someone who was deeply involved in the early stages of planning Occupy in New York.

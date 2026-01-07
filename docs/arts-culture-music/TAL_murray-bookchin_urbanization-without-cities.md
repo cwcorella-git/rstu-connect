@@ -1,6 +1,10 @@
 ---
-title: "Chapter Seven: The Social Ecology of Urbanization"
-category: "arts-culture-music"
+title: 'Chapter Seven: The Social Ecology of Urbanization'
+category: arts-culture-music
+tags:
+  - environment
+  - urban
+  - Bookchin
 ---
 
 ### **Urbanization Without Cities**

@@ -1,8 +1,11 @@
 ---
-title: "Anarchist Revolutionary Strategy"
-author: "James Herod"
-date: "2025"
-category: "theory"
+title: Anarchist Revolutionary Strategy
+author: James Herod
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchist Revolutionary Strategy

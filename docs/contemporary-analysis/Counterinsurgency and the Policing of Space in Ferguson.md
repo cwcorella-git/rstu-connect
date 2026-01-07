@@ -1,6 +1,8 @@
 ---
-title: "Counterinsurgency and the Policing of Space in Ferguson"
-category: "contemporary-analysis"
+title: Counterinsurgency and the Policing of Space in Ferguson
+category: contemporary-analysis
+tags:
+  - police
 ---
 
 # **Counterinsurgency and the Policing of Space in Ferguson**

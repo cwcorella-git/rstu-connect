@@ -1,8 +1,13 @@
 ---
-title: "Interview With an Earth Strike Organiser"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Interview With an Earth Strike Organiser
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # Interview With an Earth Strike Organiser

@@ -1,6 +1,9 @@
 ---
-title: "French Women Insurgents"
-category: "feminist-theory"
+title: French Women Insurgents
+category: feminist-theory
+tags:
+  - women
+  - France
 ---
 
 ## **French Women Insurgents**

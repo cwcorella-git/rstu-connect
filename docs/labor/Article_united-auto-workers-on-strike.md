@@ -1,8 +1,11 @@
 ---
-title: "United Auto Workers On Strike"
-author: "Shawn Fain"
-date: "2025"
-category: "labor"
+title: United Auto Workers On Strike
+author: Shawn Fain
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
 ---
 
 # United Auto Workers On Strike

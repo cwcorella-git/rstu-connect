@@ -1,6 +1,9 @@
 ---
-title: "Syndicalists shouldn't have a black-and-white view on organizing"
-category: "contemporary-analysis"
+title: Syndicalists shouldn't have a black-and-white view on organizing
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - organizing
 ---
 
 ## **Syndicalists shouldn't have a black-and-white view on organizing**

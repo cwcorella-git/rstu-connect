@@ -1,6 +1,9 @@
 ---
-title: "Striking workers imprisoned in Iran"
-category: "contemporary-analysis"
+title: Striking workers imprisoned in Iran
+category: contemporary-analysis
+tags:
+  - prisons
+  - labor
 ---
 
 ## **Striking workers imprisoned in Iran**

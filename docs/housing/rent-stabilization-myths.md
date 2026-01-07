@@ -1,8 +1,11 @@
 ---
-title: "Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe"
-author: "RSTU Research Team"
-date: "2025-09-10"
-category: "housing"
+title: Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe
+author: RSTU Research Team
+date: '2025-09-10'
+category: housing
+tags:
+  - housing
+  - Nevada
 ---
 
 # Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe

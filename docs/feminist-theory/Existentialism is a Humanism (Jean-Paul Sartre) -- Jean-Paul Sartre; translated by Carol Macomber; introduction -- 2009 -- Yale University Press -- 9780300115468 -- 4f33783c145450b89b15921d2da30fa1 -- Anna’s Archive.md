@@ -1,6 +1,9 @@
 ---
-title: "Preface to the 1996 French Edition"
-category: "feminist-theory"
+title: Preface to the 1996 French Edition
+category: feminist-theory
+tags:
+  - France
+  - feminism
 ---
 
 existentialism is a humanism

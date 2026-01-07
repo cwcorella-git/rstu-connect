@@ -1,8 +1,12 @@
 ---
-title: "Defund the Police an International Insurrection Defund the Police an Internati"
-author: "Chris Cunneen"
-date: "2025"
-category: "abolition"
+title: Defund the Police an International Insurrection Defund the Police an Internati
+author: Chris Cunneen
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # Defund the Police an International Insurrection Defund the Police an Internati

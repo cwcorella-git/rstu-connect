@@ -1,8 +1,11 @@
 ---
-title: "The Winnipeg General Strike Of 1919"
-author: "Prairie Struggle"
-date: "2025"
-category: "labor"
+title: The Winnipeg General Strike Of 1919
+author: Prairie Struggle
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # The Winnipeg General Strike Of 1919

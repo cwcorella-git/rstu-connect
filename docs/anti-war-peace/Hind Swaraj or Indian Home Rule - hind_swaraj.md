@@ -1,6 +1,10 @@
 ---
-title: "Hind Swaraj or Indian Home Rule"
-category: "anti-war-peace"
+title: Hind Swaraj or Indian Home Rule
+category: anti-war-peace
+tags:
+  - India
+  - anti-war
+  - peace
 ---
 
 # Hind Swaraj or Indian Home Rule

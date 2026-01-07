@@ -1,6 +1,11 @@
 ---
-title: "## [sciencefocus.com](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate)"
-category: "environmental-justice"
+title: >-
+  ##
+  [sciencefocus.com](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate)
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## [sciencefocus.com](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate)

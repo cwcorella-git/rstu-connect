@@ -1,8 +1,12 @@
 ---
-title: "Boston Police Strike   Labor Unrest Unionization Strike   Britannica"
-author: "Britannica"
-date: "1923"
-category: "abolition"
+title: Boston Police Strike   Labor Unrest Unionization Strike   Britannica
+author: Britannica
+date: '1923'
+category: abolition
+tags:
+  - strikes
+  - police
+  - labor
 ---
 
 ## [britannica.com](https://www.britannica.com/event/Boston-Police-Strike)

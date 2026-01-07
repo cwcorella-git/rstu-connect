@@ -1,6 +1,9 @@
 ---
-title: "## FAMINE, AFFLUENCE, AND MORALITY"
-category: "environmental-justice"
+title: '## FAMINE, AFFLUENCE, AND MORALITY'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## FAMINE, AFFLUENCE, AND MORALITY

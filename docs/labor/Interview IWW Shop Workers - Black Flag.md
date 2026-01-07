@@ -1,6 +1,9 @@
 ---
-title: "Interview: IWW Shop Workers - Black Flag"
-category: "contemporary-analysis"
+title: 'Interview: IWW Shop Workers - Black Flag'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
 ---
 
 ## **Interview: IWW Shop Workers - Black Flag**

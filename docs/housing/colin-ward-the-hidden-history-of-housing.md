@@ -1,8 +1,11 @@
 ---
-title: "The hidden history of housing"
-author: "Colin Ward"
-date: "2004"
-category: "housing"
+title: The hidden history of housing
+author: Colin Ward
+date: '2004'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 ### Executive summary

@@ -1,6 +1,13 @@
 ---
-title: "Nurses Condemn Attacks on Water Protectors Opposing the Dakota Access Pipeline Project"
-category: "labor"
+title: >-
+  Nurses Condemn Attacks on Water Protectors Opposing the Dakota Access Pipeline
+  Project
+category: labor
+tags:
+  - fossil fuels
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Nurses Condemn Attacks on Water Protectors Opposing the Dakota Access Pipeline Project**

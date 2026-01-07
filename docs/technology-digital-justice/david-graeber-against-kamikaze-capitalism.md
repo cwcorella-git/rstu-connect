@@ -1,8 +1,11 @@
 ---
-title: "Against Kamikaze Capitalism"
-author: "David Graeber"
-date: "November 2010"
-category: "technology-digital-justice"
+title: Against Kamikaze Capitalism
+author: David Graeber
+date: November 2010
+category: technology-digital-justice
+tags:
+  - capitalism
+  - Graeber
 ---
 
 On Saturday, 16th October 2010, some 500 activists gathered at convergence points across London, knowing only that they were about to embark on a direct action called Crude Awakening, aimed against the ecological devastation of the global oil industry, but with no clear idea of what they were about to do. The plan was quite a clever one. Organizers had dropped hints they were intending to hit targets in London itself, but instead, participants—who had been told only to bring full-charged metro cards, lunch, and outdoor clothing—were led in brigades to a commuter train for Essex. At one stop, bags full of white chemical jumpsuits marked with skeletons and dollars, gear, and lock-boxes mysteriously appeared; shortly thereafter, hastily appointed spokespeople in each carriage received word of the day’s real plan: to blockade the access road to the giant Coryton refinery near Stanford-le-Hope – the road over which 80% of all oil consumed in London flows. An affinity group of about a dozen women were already locked down to vans near the refinery’s gate and had turned back several tankers; we were going to make it impossible for the police to overwhelm and arrest them.

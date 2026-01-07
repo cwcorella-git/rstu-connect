@@ -1,6 +1,9 @@
 ---
-title: "Return to the Source: Guardians of Seeds Fight Monsanto and Win!"
-category: "food-justice"
+title: 'Return to the Source: Guardians of Seeds Fight Monsanto and Win!'
+category: food-justice
+tags:
+  - food
+  - justice
 ---
 
 # **Return to the Source: Guardians of Seeds Fight Monsanto and Win!**

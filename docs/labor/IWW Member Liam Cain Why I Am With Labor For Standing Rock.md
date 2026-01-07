@@ -1,6 +1,9 @@
 ---
-title: "IWW Member Liam Cain: Why I Am With Labor For Standing Rock"
-category: "environmental-justice"
+title: 'IWW Member Liam Cain: Why I Am With Labor For Standing Rock'
+category: environmental-justice
+tags:
+  - unions
+  - labor
 ---
 
 ## **IWW Member Liam Cain: Why I Am With Labor For Standing Rock**

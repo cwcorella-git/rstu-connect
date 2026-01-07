@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "James Herod"
-date: "2025"
-category: "theory"
+title: '>-'
+author: James Herod
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - socialism
 ---
 
 # Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Fed

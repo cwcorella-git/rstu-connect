@@ -1,6 +1,9 @@
 ---
-title: "Workplace Heat: Guidance for Language School Workers"
-category: "arts-culture-music"
+title: 'Workplace Heat: Guidance for Language School Workers'
+category: arts-culture-music
+tags:
+  - labor
+  - education
 ---
 
 ## **Workplace Heat: Guidance for Language School Workers**

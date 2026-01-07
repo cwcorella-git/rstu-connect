@@ -1,6 +1,9 @@
 ---
-title: "Socialist Rifle Association Staff Join the IWW"
-category: "contemporary-analysis"
+title: Socialist Rifle Association Staff Join the IWW
+category: contemporary-analysis
+tags:
+  - unions
+  - socialism
 ---
 
 ## **Socialist Rifle Association Staff Join the IWW**

@@ -1,8 +1,10 @@
 ---
-title: "Neoliberalism"
-author: "David Graeber"
-date: "2009"
-category: "contemporary-analysis"
+title: Neoliberalism
+author: David Graeber
+date: '2009'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 Americans often find it difficult to talk about politics with people from other parts of the world. Consider three quotes culled, more or less at random, from world newswires around the end of December 2005. In Bolivia, newly elected president Evo Morales declared that in his victory “the people have defeated the neoliberals.” “We want to change the neoliberal model,” he added. In Germany, Lothar Bisky announced the creation of a new political party that, he hoped, would “contribute to creating a democratic alternative to oppose the damage caused by neoliberalism to social cohesion.” Around the same time, a pan-African Web journal announced a special issue whose articles “reflect a growing debate on economic alternatives to neoliberalism from countries as far afield as Mauritius, Swaziland and Mali.”[1]

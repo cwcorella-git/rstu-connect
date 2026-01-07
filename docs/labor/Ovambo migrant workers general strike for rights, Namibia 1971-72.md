@@ -1,6 +1,10 @@
 ---
-title: "Ovambo migrant workers general strike for rights, Namibia: 1971-72"
-category: "labor"
+title: 'Ovambo migrant workers general strike for rights, Namibia: 1971-72'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - labor
 ---
 
 ## **Ovambo migrant workers general strike for rights, Namibia: 1971-72**

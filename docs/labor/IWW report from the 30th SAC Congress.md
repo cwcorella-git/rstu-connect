@@ -1,6 +1,10 @@
 ---
-title: "IWW report from the 30th SAC Congress"
-category: "contemporary-analysis"
+title: IWW report from the 30th SAC Congress
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **IWW report from the 30th SAC Congress**

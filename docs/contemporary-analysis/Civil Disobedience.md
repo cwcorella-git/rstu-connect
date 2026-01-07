@@ -1,6 +1,8 @@
 ---
-title: "## ON THE DUTY OF CIVIL DISOBEDIENCE"
-category: "contemporary-analysis"
+title: '## ON THE DUTY OF CIVIL DISOBEDIENCE'
+category: contemporary-analysis
+tags:
+  - civil disobedience
 ---
 
 ## ON THE DUTY OF CIVIL DISOBEDIENCE

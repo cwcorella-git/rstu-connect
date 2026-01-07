@@ -1,8 +1,12 @@
 ---
-title: "1948 Zanzibar City General Strike"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: 1948 Zanzibar City General Strike
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - urban
 ---
 
 # 1948 Zanzibar City General Strike

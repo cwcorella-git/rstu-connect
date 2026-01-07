@@ -1,6 +1,9 @@
 ---
-title: "Earth Srike: Intersecting Labour and Environmental Movements"
-category: "environmental-justice"
+title: 'Earth Srike: Intersecting Labour and Environmental Movements'
+category: environmental-justice
+tags:
+  - labor
+  - environment
 ---
 
 ## **Earth Srike: Intersecting Labour and Environmental Movements**

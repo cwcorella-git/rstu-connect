@@ -1,6 +1,10 @@
 ---
-title: "Response to Greg Butler's critique of the Green New Deal and the Rank-and-File Strategy"
-category: "organizing"
+title: >-
+  Response to Greg Butler's critique of the Green New Deal and the Rank-and-File
+  Strategy
+category: organizing
+tags:
+  - organizing
 ---
 
 ## **Response to Greg Butler's critique of the Green New Deal and the Rank-and-File Strategy**

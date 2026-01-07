@@ -1,6 +1,10 @@
 ---
-title: "Solidarity with the Workers at Kavala Oil"
-category: "environmental-justice"
+title: Solidarity with the Workers at Kavala Oil
+category: environmental-justice
+tags:
+  - solidarity
+  - labor
+  - fossil fuels
 ---
 
 ## **Solidarity with the Workers at Kavala Oil**

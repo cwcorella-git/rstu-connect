@@ -1,6 +1,9 @@
 ---
-title: "1974: Ethiopian General Strike"
-category: "labor"
+title: '1974: Ethiopian General Strike'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1974: Ethiopian General Strike**

@@ -1,6 +1,10 @@
 ---
-title: "Anarchist Federation"
-category: "technology-digital-justice"
+title: Anarchist Federation
+category: technology-digital-justice
+tags:
+  - anarchism
+  - technology
+  - digital rights
 ---
 
 ## **Anarchist Federation**

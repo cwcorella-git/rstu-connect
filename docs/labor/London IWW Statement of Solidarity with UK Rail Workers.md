@@ -1,6 +1,12 @@
 ---
-title: "London IWW Statement of Solidarity with UK Rail Workers"
-category: "technology-digital-justice"
+title: London IWW Statement of Solidarity with UK Rail Workers
+category: technology-digital-justice
+tags:
+  - unions
+  - solidarity
+  - labor
+  - railroads
+  - United Kingdom
 ---
 
 ## **London IWW Statement of Solidarity with UK Rail Workers**

@@ -1,6 +1,11 @@
 ---
-title: "Managed Decline: A Just Clean Energy Transition and Lessons from Canada's Cod Fishing Industry*"
-category: "feminist-theory"
+title: >-
+  Managed Decline: A Just Clean Energy Transition and Lessons from Canada's Cod
+  Fishing Industry*
+category: feminist-theory
+tags:
+  - Canada
+  - feminism
 ---
 
 ## **Managed Decline: A Just Clean Energy Transition and Lessons from Canada's Cod Fishing Industry**

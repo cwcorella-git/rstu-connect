@@ -1,6 +1,12 @@
 ---
-title: "The South African Wobblies: The Origins of Industrial Unions in South Africa - John Philips"
-category: "labor"
+title: >-
+  The South African Wobblies: The Origins of Industrial Unions in South Africa -
+  John Philips
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **The South African Wobblies: The Origins of Industrial Unions in South Africa - John Philips**

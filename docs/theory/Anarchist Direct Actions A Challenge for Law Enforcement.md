@@ -1,6 +1,10 @@
 ---
-title: "Anarchist Direct Actions: A Challenge for Law Enforcement"
-category: "contemporary-analysis"
+title: 'Anarchist Direct Actions: A Challenge for Law Enforcement'
+category: contemporary-analysis
+tags:
+  - direct action
+  - anarchism
+  - police
 ---
 
 ## **Anarchist Direct Actions: A Challenge for Law Enforcement**

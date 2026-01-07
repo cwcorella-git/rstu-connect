@@ -1,6 +1,11 @@
 ---
-title: "Not a single wheel can turn: Further thoughts on organising and mobilising in the 'gig' economy"
-category: "economic-alternatives"
+title: >-
+  Not a single wheel can turn: Further thoughts on organising and mobilising in
+  the 'gig' economy
+category: economic-alternatives
+tags:
+  - economics
+  - alternatives
 ---
 
 # **Not a single wheel can turn: Further thoughts on organising and mobilising in the "gig" economy**

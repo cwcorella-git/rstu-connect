@@ -1,8 +1,11 @@
 ---
-title: "The Police And The Black Wageless Race Today"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: The Police And The Black Wageless Race Today
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - labor
 ---
 
 # The Police And The Black Wageless Race Today

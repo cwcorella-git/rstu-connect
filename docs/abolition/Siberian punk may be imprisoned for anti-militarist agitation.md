@@ -1,6 +1,10 @@
 ---
-title: "Siberian punk may be imprisoned for anti-militarist agitation"
-category: "abolition"
+title: Siberian punk may be imprisoned for anti-militarist agitation
+category: abolition
+tags:
+  - prisons
+  - abolition
+  - police
 ---
 
 ## **Siberian punk may be imprisoned for anti-militarist agitation**

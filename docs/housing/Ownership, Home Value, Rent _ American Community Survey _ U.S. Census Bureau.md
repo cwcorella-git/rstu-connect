@@ -1,8 +1,11 @@
 ---
-title: "Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau"
-author: "Housing Advocacy Organization"
-date: "2025"
-category: "housing"
+title: 'Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau'
+author: Housing Advocacy Organization
+date: '2025'
+category: housing
+tags:
+  - community
+  - housing
 ---
 
 # Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau

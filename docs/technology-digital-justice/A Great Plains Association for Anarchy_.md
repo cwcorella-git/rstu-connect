@@ -1,6 +1,10 @@
 ---
-title: "James Herod"
-category: "technology-digital-justice"
+title: James Herod
+category: technology-digital-justice
+tags:
+  - anarchism
+  - technology
+  - digital rights
 ---
 
 # James Herod

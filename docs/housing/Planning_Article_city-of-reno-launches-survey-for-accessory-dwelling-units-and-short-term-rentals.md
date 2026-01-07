@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Housing Advocacy Organization"
-date: "2025"
-category: "housing"
+title: '>-'
+author: Housing Advocacy Organization
+date: '2025'
+category: housing
+tags:
+  - housing
+  - Nevada
 ---
 
 # Planning Article City of Reno Launches Survey For Accessory Dwelling Units and Short Term Rentals

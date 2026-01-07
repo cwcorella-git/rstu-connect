@@ -1,6 +1,9 @@
 ---
-title: "When Workers Shot Back: Class Conflict from 1877 to 1921 – Robert Ovetz"
-category: "contemporary-analysis"
+title: 'When Workers Shot Back: Class Conflict from 1877 to 1921 – Robert Ovetz'
+category: contemporary-analysis
+tags:
+  - labor
+  - class
 ---
 
 ## **When Workers Shot Back: Class Conflict from 1877 to 1921 – Robert Ovetz**

@@ -1,8 +1,11 @@
 ---
-title: "Anarchy — In a Manner of Speaking"
-author: "David Graeber"
-date: "2020"
-category: "contemporary-analysis"
+title: Anarchy — In a Manner of Speaking
+author: David Graeber
+date: '2020'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Graeber
 ---
 
 ## Foreword: **A dialogue that doesn’t cover up its traces**

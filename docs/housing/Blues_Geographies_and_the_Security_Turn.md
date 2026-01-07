@@ -1,6 +1,11 @@
 ---
-title: "Blues Geographies and the Security Turn: Interpreting the Housing Crisis in Los Angeles"
-category: "contemporary-analysis"
+title: >-
+  Blues Geographies and the Security Turn: Interpreting the Housing Crisis in
+  Los Angeles
+category: contemporary-analysis
+tags:
+  - housing
+  - Los Angeles
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

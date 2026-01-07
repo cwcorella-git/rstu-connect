@@ -1,6 +1,9 @@
 ---
-title: "What I Believe"
-category: "feminist-theory"
+title: What I Believe
+category: feminist-theory
+tags:
+  - Emma Goldman
+  - feminism
 ---
 
 # **What I Believe**

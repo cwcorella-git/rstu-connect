@@ -1,6 +1,9 @@
 ---
-title: "Another solidarity network/IWW case - A potential for a strategic leap"
-category: "organizing"
+title: Another solidarity network/IWW case - A potential for a strategic leap
+category: organizing
+tags:
+  - unions
+  - solidarity
 ---
 
 ## **Another solidarity network/IWW case - A potential for a strategic leap**

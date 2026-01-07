@@ -1,6 +1,9 @@
 ---
-title: "\"I'm an international, super spy... SUPER SPYYYYY.\""
-category: "theory"
+title: '"I''m an international, super spy... SUPER SPYYYYY."'
+category: theory
+tags:
+  - solidarity
+  - theory
 ---
 
 0:00

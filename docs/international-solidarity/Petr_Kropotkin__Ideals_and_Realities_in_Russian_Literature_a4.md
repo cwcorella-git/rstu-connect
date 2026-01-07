@@ -1,8 +1,11 @@
 ---
-title: "Petr Kropotkin  Ideals And Realities In Russian Literature A4"
-author: "Pëtr Kropotkin"
-date: "1915"
-category: "theory"
+title: Petr Kropotkin  Ideals And Realities In Russian Literature A4
+author: Pëtr Kropotkin
+date: '1915'
+category: theory
+tags:
+  - Kropotkin
+  - Russia
 ---
 
 #### *Pëtr Kropotkin*

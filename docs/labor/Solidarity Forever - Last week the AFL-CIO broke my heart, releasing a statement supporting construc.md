@@ -1,6 +1,11 @@
 ---
-title: "Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a statement supporting co"
-category: "theory"
+title: >-
+  Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a
+  statement supporting co
+category: theory
+tags:
+  - unions
+  - solidarity
 ---
 
 ## **Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a statement supporting construction of the Dakota Access Pipeline**

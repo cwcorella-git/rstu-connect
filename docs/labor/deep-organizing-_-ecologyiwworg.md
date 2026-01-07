@@ -1,8 +1,11 @@
 ---
-title: "Deep Organizing Ecologyiwworg"
-author: "Deep Organizing"
-date: "2025"
-category: "labor"
+title: Deep Organizing Ecologyiwworg
+author: Deep Organizing
+date: '2025'
+category: labor
+tags:
+  - organizing
+  - environment
 ---
 
 # Deep Organizing Ecologyiwworg

@@ -1,6 +1,9 @@
 ---
-title: "[axios.com](https://www.axios.com/2025/07/07/democrats-trump-resistance-violence-congress)"
-category: "contemporary-analysis"
+title: >-
+  [axios.com](https://www.axios.com/2025/07/07/democrats-trump-resistance-violence-congress)
+category: contemporary-analysis
+tags:
+  - democracy
 ---
 
 [axios.com](https://www.axios.com/2025/07/07/democrats-trump-resistance-violence-congress)

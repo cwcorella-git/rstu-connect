@@ -1,6 +1,9 @@
 ---
-title: "From Climate Crisis to Solar Communism"
-category: "environmental-justice"
+title: From Climate Crisis to Solar Communism
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **From Climate Crisis to Solar Communism**

@@ -1,6 +1,9 @@
 ---
-title: "Class Power can Remake Society: Remembering Australia's 'Green Ban' Movement"
-category: "organizing"
+title: 'Class Power can Remake Society: Remembering Australia''s ''Green Ban'' Movement'
+category: organizing
+tags:
+  - class
+  - Australia
 ---
 
 ## **Class Power can Remake Society: Remembering Australia's "Green Ban" Movement**

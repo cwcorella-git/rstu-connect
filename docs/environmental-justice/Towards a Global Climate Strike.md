@@ -1,6 +1,9 @@
 ---
-title: "Towards a Global Climate Strike"
-category: "environmental-justice"
+title: Towards a Global Climate Strike
+category: environmental-justice
+tags:
+  - strikes
+  - environment
 ---
 
 ## **Towards a Global Climate Strike**

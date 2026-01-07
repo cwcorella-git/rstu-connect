@@ -1,6 +1,10 @@
 ---
-title: "The first signs of an ecological class struggle in Germany"
-category: "environmental-justice"
+title: The first signs of an ecological class struggle in Germany
+category: environmental-justice
+tags:
+  - environment
+  - class
+  - Germany
 ---
 
 ## **The first signs of an ecological class struggle in Germany**

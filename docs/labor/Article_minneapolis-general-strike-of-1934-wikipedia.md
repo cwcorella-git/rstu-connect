@@ -1,8 +1,11 @@
 ---
-title: "Minneapolis General Strike of 1934 Wikipedia"
-author: "Wikipedia"
-date: "2025"
-category: "labor"
+title: Minneapolis General Strike of 1934 Wikipedia
+author: Wikipedia
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # Minneapolis General Strike of 1934 Wikipedia

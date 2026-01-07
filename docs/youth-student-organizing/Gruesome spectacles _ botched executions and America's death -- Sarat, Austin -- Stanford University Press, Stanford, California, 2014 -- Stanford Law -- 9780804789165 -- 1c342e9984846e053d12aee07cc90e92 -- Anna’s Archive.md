@@ -1,6 +1,9 @@
 ---
-title: "GRUESOME SPECTACLES"
-category: "youth-student-organizing"
+title: GRUESOME SPECTACLES
+category: youth-student-organizing
+tags:
+  - students
+  - youth
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

@@ -1,6 +1,11 @@
 ---
-title: "FAQ on syndicalism"
-category: "contemporary-analysis"
+title: FAQ on syndicalism
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - labor
+  - unions
+  - workers
 ---
 
 ## **FAQ on syndicalism**

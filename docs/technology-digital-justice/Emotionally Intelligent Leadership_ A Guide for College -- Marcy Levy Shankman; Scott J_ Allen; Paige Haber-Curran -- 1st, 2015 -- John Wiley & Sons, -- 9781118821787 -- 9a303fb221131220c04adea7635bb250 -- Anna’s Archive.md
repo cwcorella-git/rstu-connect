@@ -1,6 +1,10 @@
 ---
-title: "emotionally intelligent leadership"
-category: "technology-digital-justice"
+title: emotionally intelligent leadership
+category: technology-digital-justice
+tags:
+  - education
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

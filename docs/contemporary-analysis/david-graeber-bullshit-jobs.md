@@ -1,8 +1,10 @@
 ---
-title: "Bullshit Jobs"
-author: "David Graeber"
-date: "May 15, 2018, originally published."
-category: "contemporary-analysis"
+title: Bullshit Jobs
+author: David Graeber
+date: 'May 15, 2018, originally published.'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 characteristics have been changed.; Interior design by Carly Loman; Jacket design by David L Itman

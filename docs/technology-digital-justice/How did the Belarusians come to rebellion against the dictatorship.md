@@ -1,6 +1,10 @@
 ---
-title: "How did the Belarusians come to rebellion against the dictatorship"
-category: "technology-digital-justice"
+title: How did the Belarusians come to rebellion against the dictatorship
+category: technology-digital-justice
+tags:
+  - riots
+  - technology
+  - digital rights
 ---
 
 ## **How did the Belarusians come to rebellion against the dictatorship**

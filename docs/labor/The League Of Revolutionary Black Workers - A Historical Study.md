@@ -1,6 +1,10 @@
 ---
-title: "The League of Revolutionary Black Workers: A Historical Study"
-category: "contemporary-analysis"
+title: 'The League of Revolutionary Black Workers: A Historical Study'
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # **The League of Revolutionary Black Workers: A Historical Study**

@@ -1,8 +1,11 @@
 ---
-title: "The Idea Of Prison Abolition Tommie Shelby Liber3"
-author: "Princeton University"
-date: "2022"
-category: "abolition"
+title: The Idea Of Prison Abolition Tommie Shelby Liber3
+author: Princeton University
+date: '2022'
+category: abolition
+tags:
+  - prisons
+  - abolition
 ---
 
 ### THE IDEA

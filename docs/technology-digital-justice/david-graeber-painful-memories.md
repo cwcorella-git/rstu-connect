@@ -1,8 +1,12 @@
 ---
-title: "Painful memories"
-author: "David Graeber"
-date: "1997"
-category: "technology-digital-justice"
+title: Painful memories
+author: David Graeber
+date: '1997'
+category: technology-digital-justice
+tags:
+  - Graeber
+  - technology
+  - digital rights
 ---
 
 In this essay I would like to talk about people who lost everything. Imerina (the traditional name for the northern half of the central plateau of Madagascar) is a place where people attach enormous importance to the memory of their ancestors and the lands on which their ancestors once lived. History, in Imerina, is largely a matter of placing the living in an historical landscape created by the dead. About a third of the Merina population, however, is made up of the descendants of slaves, and in Madagascar, slaves are by definition people without ancestors, ‘lost people’ *(obna very)* who have been ripped from their ancestral landscapes, left unanchored to any place. These were people who had been literally stripped of history. Even today, almost a hundred years after emancipation, most ‘black people’ (as their descendants are called) remain in a kind of historical limbo, unable to make a real claim to the territories in which they live and are buried.

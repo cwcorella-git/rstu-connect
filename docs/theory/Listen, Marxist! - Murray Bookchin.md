@@ -1,6 +1,9 @@
 ---
-title: "Listen, Marxist! - Murray Bookchin"
-category: "theory"
+title: 'Listen, Marxist! - Murray Bookchin'
+category: theory
+tags:
+  - socialism
+  - Bookchin
 ---
 
 ## **Listen, Marxist! - Murray Bookchin**

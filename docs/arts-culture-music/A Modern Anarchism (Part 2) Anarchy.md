@@ -1,6 +1,8 @@
 ---
-title: "A Modern Anarchism (Part 2): Anarchy"
-category: "arts-culture-music"
+title: 'A Modern Anarchism (Part 2): Anarchy'
+category: arts-culture-music
+tags:
+  - anarchism
 ---
 
 ## **A Modern Anarchism (Part 2): Anarchy**

@@ -1,6 +1,11 @@
 ---
-title: "[senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory Tragedy Reconstru"
-category: "anti-war-peace"
+title: >-
+  [senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory
+  Tragedy Reconstru
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 [senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory Tragedy Reconstruction.htm)

@@ -1,6 +1,9 @@
 ---
-title: "Murray Bookchin What is Social Ecology? 1993"
-category: "environmental-justice"
+title: Murray Bookchin What is Social Ecology? 1993
+category: environmental-justice
+tags:
+  - environment
+  - Bookchin
 ---
 
 # **Murray Bookchin What is Social Ecology? 1993**

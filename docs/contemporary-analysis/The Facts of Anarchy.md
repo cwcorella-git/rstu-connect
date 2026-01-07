@@ -1,6 +1,8 @@
 ---
-title: "Itō Noe"
-category: "contemporary-analysis"
+title: Itō Noe
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **Itō Noe**

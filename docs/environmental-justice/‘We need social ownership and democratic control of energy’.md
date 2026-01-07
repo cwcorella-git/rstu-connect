@@ -1,6 +1,10 @@
 ---
-title: "'We need social ownership and democratic control of energy'"
-category: "environmental-justice"
+title: '''We need social ownership and democratic control of energy'''
+category: environmental-justice
+tags:
+  - democracy
+  - environment
+  - climate
 ---
 
 ## **'We need social ownership and democratic control of energy'**

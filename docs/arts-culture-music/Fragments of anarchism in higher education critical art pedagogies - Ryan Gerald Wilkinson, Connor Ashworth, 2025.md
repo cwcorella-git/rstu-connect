@@ -1,6 +1,9 @@
 ---
-title: "Fragments of anarchism in higher education critical art pedagogies"
-category: "arts-culture-music"
+title: Fragments of anarchism in higher education critical art pedagogies
+category: arts-culture-music
+tags:
+  - anarchism
+  - education
 ---
 
 #### [journals.sagepub.com](https://journals.sagepub.com/doi/full/10.1177/14740222241313303)

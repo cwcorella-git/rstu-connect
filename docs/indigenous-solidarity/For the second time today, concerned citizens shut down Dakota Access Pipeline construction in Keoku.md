@@ -1,6 +1,12 @@
 ---
-title: "For the second time today, concerned citizens shut down Dakota Access Pipeline construction in"
-category: "indigenous-solidarity"
+title: >-
+  For the second time today, concerned citizens shut down Dakota Access Pipeline
+  construction in
+category: indigenous-solidarity
+tags:
+  - fossil fuels
+  - indigenous
+  - solidarity
 ---
 
 ## **For the second time today, concerned citizens shut down Dakota Access Pipeline construction in Keokuk**

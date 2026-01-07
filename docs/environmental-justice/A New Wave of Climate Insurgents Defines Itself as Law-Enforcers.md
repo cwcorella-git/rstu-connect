@@ -1,6 +1,9 @@
 ---
-title: "A New Wave of Climate Insurgents Defines Itself as Law-Enforcers"
-category: "environmental-justice"
+title: A New Wave of Climate Insurgents Defines Itself as Law-Enforcers
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # **A New Wave of Climate Insurgents Defines Itself as Law-Enforcers**

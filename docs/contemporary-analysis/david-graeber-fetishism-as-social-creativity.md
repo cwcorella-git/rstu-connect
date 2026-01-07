@@ -1,8 +1,10 @@
 ---
-title: "Fetishism as social creativity"
-author: "David Graeber"
-date: "2005"
-category: "contemporary-analysis"
+title: Fetishism as social creativity
+author: David Graeber
+date: '2005'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 ### **ABSTRACT**

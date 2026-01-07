@@ -1,6 +1,11 @@
 ---
-title: "\"Judge Lynch, you have the floor!\" The murder of Farion amid the decay processes in the warring"
-category: "anti-war-peace"
+title: >-
+  "Judge Lynch, you have the floor!" The murder of Farion amid the decay
+  processes in the warring
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 ## **"Judge Lynch, you have the floor!" The murder of Farion amid the decay processes in the warring armies**

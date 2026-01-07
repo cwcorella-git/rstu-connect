@@ -1,8 +1,11 @@
 ---
-title: "Anarchist Education"
-author: "Judith Suissa"
-date: "2025"
-category: "theory"
+title: Anarchist Education
+author: Judith Suissa
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - education
 ---
 
 # Anarchist Education

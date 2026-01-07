@@ -1,6 +1,9 @@
 ---
-title: "Class War #6 1984"
-category: "anti-war-peace"
+title: 'Class War #6 1984'
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War #6 1984**

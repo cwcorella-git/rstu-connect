@@ -1,6 +1,8 @@
 ---
-title: "GOD AND THE STATE"
-category: "contemporary-analysis"
+title: GOD AND THE STATE
+category: contemporary-analysis
+tags:
+  - Bakunin
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

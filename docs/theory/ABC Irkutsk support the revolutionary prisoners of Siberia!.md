@@ -1,6 +1,9 @@
 ---
-title: "ABC Irkutsk: support the revolutionary prisoners of Siberia!"
-category: "theory"
+title: 'ABC Irkutsk: support the revolutionary prisoners of Siberia!'
+category: theory
+tags:
+  - prisons
+  - theory
 ---
 
 ## **ABC Irkutsk: support the revolutionary prisoners of Siberia!**

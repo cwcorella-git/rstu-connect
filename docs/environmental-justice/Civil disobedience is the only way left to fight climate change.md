@@ -1,6 +1,9 @@
 ---
-title: "Civil disobedience is the only way left to fight climate change"
-category: "environmental-justice"
+title: Civil disobedience is the only way left to fight climate change
+category: environmental-justice
+tags:
+  - civil disobedience
+  - environment
 ---
 
 ## **Civil disobedience is the only way left to fight climate change**

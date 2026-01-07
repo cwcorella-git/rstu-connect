@@ -1,6 +1,9 @@
 ---
-title: "Ohio Valley Environmental Coalition Staff Joins the IWW"
-category: "environmental-justice"
+title: Ohio Valley Environmental Coalition Staff Joins the IWW
+category: environmental-justice
+tags:
+  - unions
+  - environment
 ---
 
 ## **Ohio Valley Environmental Coalition Staff Joins the IWW**

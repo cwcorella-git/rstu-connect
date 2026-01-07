@@ -1,6 +1,12 @@
 ---
-title: "Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons"
-category: "contemporary-analysis"
+title: >-
+  Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida
+  Prisons
+category: contemporary-analysis
+tags:
+  - strikes
+  - protests
+  - prisons
 ---
 
 ## **Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons**

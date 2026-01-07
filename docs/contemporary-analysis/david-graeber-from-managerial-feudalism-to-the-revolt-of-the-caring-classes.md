@@ -1,8 +1,11 @@
 ---
-title: "From Managerial Feudalism to the Revolt of the Caring Classes"
-author: "David Graeber"
-date: "December 27, 2019"
-category: "contemporary-analysis"
+title: From Managerial Feudalism to the Revolt of the Caring Classes
+author: David Graeber
+date: 'December 27, 2019'
+category: contemporary-analysis
+tags:
+  - riots
+  - Graeber
 ---
 
 I’ve been in a very bad mood this last week, owing to the results of the election in the UK, and I’ve been thinking very hard about what happened and how to maintain hope.

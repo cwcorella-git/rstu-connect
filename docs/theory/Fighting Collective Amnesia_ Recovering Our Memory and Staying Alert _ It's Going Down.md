@@ -1,6 +1,8 @@
 ---
-title: "Fighting Collective Amnesia: Recovering Our Memory and Staying Alert"
-category: "theory"
+title: 'Fighting Collective Amnesia: Recovering Our Memory and Staying Alert'
+category: theory
+tags:
+  - theory
 ---
 
 ### [itsgoingdown.org](https://itsgoingdown.org/fighting-collective-amnesia-recovering-our-memory-and-staying-alert/)

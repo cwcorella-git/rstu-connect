@@ -1,6 +1,9 @@
 ---
-title: "Just Transition, System Change, and Revolutionary Green Transformation"
-category: "feminist-theory"
+title: 'Just Transition, System Change, and Revolutionary Green Transformation'
+category: feminist-theory
+tags:
+  - just transition
+  - feminism
 ---
 
 ## **Just Transition, System Change, and Revolutionary Green Transformation**

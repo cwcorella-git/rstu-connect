@@ -1,6 +1,11 @@
 ---
-title: "The ABC of syndicalist sections"
-category: "contemporary-analysis"
+title: The ABC of syndicalist sections
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - labor
+  - unions
+  - workers
 ---
 
 ## **The ABC of syndicalist sections**

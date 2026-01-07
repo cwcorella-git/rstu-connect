@@ -1,6 +1,9 @@
 ---
-title: "The syndicalist movement in Sweden - John Andersson"
-category: "contemporary-analysis"
+title: The syndicalist movement in Sweden - John Andersson
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - Sweden
 ---
 
 ## **The syndicalist movement in Sweden - John Andersson**

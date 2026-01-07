@@ -1,6 +1,9 @@
 ---
-title: "A Just Transition: Break Free"
-category: "feminist-theory"
+title: 'A Just Transition: Break Free'
+category: feminist-theory
+tags:
+  - just transition
+  - feminism
 ---
 
 ## **A Just Transition: Break Free**

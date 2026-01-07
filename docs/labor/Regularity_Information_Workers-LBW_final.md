@@ -1,6 +1,10 @@
 ---
-title: "Workplace Rhythm Variability and Emotional Distress in Information Workers"
-category: "contemporary-analysis"
+title: Workplace Rhythm Variability and Emotional Distress in Information Workers
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Workplace Rhythm Variability and Emotional Distress in Information Workers

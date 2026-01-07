@@ -1,6 +1,12 @@
 ---
-title: "Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy and People Power"
-category: "environmental-justice"
+title: >-
+  Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy
+  and People Power
+category: environmental-justice
+tags:
+  - autonomy
+  - environment
+  - climate
 ---
 
 ## **Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy and People Power in the City**

@@ -1,6 +1,9 @@
 ---
-title: "Appeal from Railroad Workers United: No Single Employee Crews!"
-category: "technology-digital-justice"
+title: 'Appeal from Railroad Workers United: No Single Employee Crews!'
+category: technology-digital-justice
+tags:
+  - labor
+  - railroads
 ---
 
 ## **Appeal from Railroad Workers United: No Single Employee Crews!**

@@ -1,6 +1,10 @@
 ---
-title: "HOOD FEMINISM"
-category: "feminist-theory"
+title: HOOD FEMINISM
+category: feminist-theory
+tags:
+  - feminism
+  - women
+  - New York
 ---
 
 # HOOD FEMINISM

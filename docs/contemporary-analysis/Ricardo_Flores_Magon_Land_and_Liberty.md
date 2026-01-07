@@ -1,6 +1,8 @@
 ---
-title: "Land and Liberty"
-category: "contemporary-analysis"
+title: Land and Liberty
+category: contemporary-analysis
+tags:
+  - liberty
 ---
 
 # **Land and Liberty**

@@ -1,6 +1,9 @@
 ---
-title: "Democratic Confederalism"
-category: "theory"
+title: Democratic Confederalism
+category: theory
+tags:
+  - democracy
+  - theory
 ---
 
 However, the foundation of a state does not of the United Nations that is based on nation-states has remained inefficient. Meanwhile, nation-states have become serious obstacles for any social development. Democratic confederalism is the contrasting paradigm of the oppressed people. Democratic It is not controlled by a state. At the same al organizational blueprint of a democratic nation. Democratic confederalism is based making processes lie with the communities. Higher levels only serve the coordination and implementation of the will of the communi-However, the basic power of decision rests Démocratic Confederalisms.

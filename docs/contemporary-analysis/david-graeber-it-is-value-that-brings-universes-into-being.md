@@ -1,8 +1,10 @@
 ---
-title: "It is value that brings universes into being"
-author: "David Graeber"
-date: "2013"
-category: "contemporary-analysis"
+title: It is value that brings universes into being
+author: David Graeber
+date: '2013'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 Any theoretical term is an implicit statement about human nature. Anthropologists tend to be uncomfortable with this fact but it is nonetheless true. Even if one were to make a statement as apparently innocuous as “ritual can take many forms in many places,” one is still asserting that “ritual” is a meaningful cross-cultural category, implying—as pretty much any anthropological discussion of ritual invariably does imply—that we can assume all human beings have engaged in some kind of ritual activity at some point or another, that ritual is an inherent aspect of human sociality, even if there’s no scholarly consensus whatsoever as to what, precisely, a ritual is or what it says about us that we are all in some sense ritual producing beings. And the same is true of any other theoretical term: kinship, authority, labor, symbol, the body, performance, or anything else.

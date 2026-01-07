@@ -1,6 +1,8 @@
 ---
-title: "LITTLE LENIN LIBRARY VOLUME 20"
-category: "contemporary-analysis"
+title: LITTLE LENIN LIBRARY VOLUME 20
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 # LITTLE LENIN LIBRARY VOLUME 20

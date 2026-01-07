@@ -1,8 +1,13 @@
 ---
-title: "COVID-19 Tenant Organizing Toolkit"
-author: "Autonomous Tenants Union"
-date: "March 2020"
-category: "housing"
+title: COVID-19 Tenant Organizing Toolkit
+author: Autonomous Tenants Union
+date: March 2020
+category: housing
+tags:
+  - tenants
+  - unions
+  - organizing
+  - autonomy
 ---
 
 *The Autonomous Tenants Union (ATU) is an all-volunteer organization committed to organizing for housing justice from below and to the left. As an independent collective based in Chicago, we strategize together to defend and enforce our right to dignified housing. We believe that housing is a human right not a commodity! We fight for an end to all evictions, and for community control of housing through the building of popular power.*

@@ -1,6 +1,9 @@
 ---
-title: "Marxism and Sexuality"
-category: "theory"
+title: Marxism and Sexuality
+category: theory
+tags:
+  - socialism
+  - theory
 ---
 
 ## **Marxism and Sexuality**

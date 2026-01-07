@@ -1,6 +1,9 @@
 ---
-title: "Contents"
-category: "contemporary-analysis"
+title: Contents
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Kropotkin
 ---
 
 ## **Anarchist Morality**

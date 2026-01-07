@@ -1,8 +1,11 @@
 ---
-title: "Northern Nevada Legal Aid: Supporting Housing Security in Reno"
-author: "RSTU Team"
-date: "2025-03-15"
-category: "organizing"
+title: 'Northern Nevada Legal Aid: Supporting Housing Security in Reno'
+author: RSTU Team
+date: '2025-03-15'
+category: organizing
+tags:
+  - housing
+  - Nevada
 ---
 
 # Northern Nevada Legal Aid: Supporting Housing Security in Reno

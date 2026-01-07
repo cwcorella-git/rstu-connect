@@ -1,6 +1,12 @@
 ---
-title: "Question of Forces: Interview on Community College Labor Struggle in Philadelphia"
-category: "youth-student-organizing"
+title: >-
+  Question of Forces: Interview on Community College Labor Struggle in
+  Philadelphia
+category: youth-student-organizing
+tags:
+  - community
+  - labor
+  - education
 ---
 
 ## **Question of Forces: Interview on Community College Labor Struggle in Philadelphia**

@@ -1,6 +1,10 @@
 ---
-title: "More on the libertarian underground in France: legal assets and money-laundering"
-category: "contemporary-analysis"
+title: >-
+  More on the libertarian underground in France: legal assets and
+  money-laundering
+category: contemporary-analysis
+tags:
+  - France
 ---
 
 ## **More on the libertarian underground in France: legal assets and money-laundering**

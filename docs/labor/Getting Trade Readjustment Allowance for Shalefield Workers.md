@@ -1,6 +1,10 @@
 ---
-title: "Getting Trade Readjustment Allowance for Shalefield Workers"
-category: "contemporary-analysis"
+title: Getting Trade Readjustment Allowance for Shalefield Workers
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Getting Trade Readjustment Allowance for Shalefield Workers**

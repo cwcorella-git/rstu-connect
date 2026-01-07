@@ -1,8 +1,11 @@
 ---
-title: "Caring too much. That’s the curse of the working classes"
-author: "David Graeber"
-date: "26<sup>th</sup> March 2014"
-category: "contemporary-analysis"
+title: Caring too much. That’s the curse of the working classes
+author: David Graeber
+date: 26<sup>th</sup> March 2014
+category: contemporary-analysis
+tags:
+  - class
+  - Graeber
 ---
 
 “What I can’t understand is, why aren’t people rioting in the streets?” I hear this, now and then, from people of wealthy and powerful backgrounds. There is a kind of incredulity. “After all,” the subtext seems to read, “we scream bloody murder when anyone so much as threatens our tax shelters; if someone were to go after my access to food or shelter, I’d sure as hell be burning banks and storming parliament. What’s wrong with these people?”

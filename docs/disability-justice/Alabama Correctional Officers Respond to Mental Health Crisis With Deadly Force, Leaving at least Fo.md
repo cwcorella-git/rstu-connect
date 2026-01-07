@@ -1,6 +1,12 @@
 ---
-title: "Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at lea"
-category: "disability-justice"
+title: >-
+  Alabama Correctional Officers Respond to Mental Health Crisis With Deadly
+  Force, Leaving at lea
+category: disability-justice
+tags:
+  - healthcare
+  - disability
+  - justice
 ---
 
 ## **Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at least Four Men Injured, Two in Critical Condition**

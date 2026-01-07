@@ -1,8 +1,10 @@
 ---
-title: "Policy for the Future of Work"
-author: "David Graeber"
-date: "2020"
-category: "contemporary-analysis"
+title: Policy for the Future of Work
+author: David Graeber
+date: '2020'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 It feels a trifle ironic, my being placed in the “policy” section of the conference, because I once wrote a brief, one-paragraph manifesto called, “Against Policy” (Graeber 2004). It has always occurred to me that “policy” and “opinions” form a set, and a rather pernicious one: that is, “opinions” are what you have when you have no power, so your views on what to do have no effect on actual policy; most people have “opinions” because those who make policy don’t much care what they think; “policy,” conversely, implies some sort of technocratic elite analysing a situation and imposing their solutions on people who have not, on the whole, been allowed to deliberate on the matter themselves, or even, in many cases, been consulted.

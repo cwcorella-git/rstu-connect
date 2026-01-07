@@ -1,8 +1,11 @@
 ---
-title: "The Intellectuals And Working Class Socialism By"
-author: "Hubert Lagardelle"
-date: "1895"
-category: "theory"
+title: The Intellectuals And Working Class Socialism By
+author: Hubert Lagardelle
+date: '1895'
+category: theory
+tags:
+  - class
+  - gig economy
 ---
 
 ## **The Intellectuals and Working Class Socialism by Hubert Lagardelle**

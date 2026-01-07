@@ -1,6 +1,9 @@
 ---
-title: "USLAW Passes Resolution on Climate Change"
-category: "environmental-justice"
+title: USLAW Passes Resolution on Climate Change
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **USLAW Passes Resolution on Climate Change**

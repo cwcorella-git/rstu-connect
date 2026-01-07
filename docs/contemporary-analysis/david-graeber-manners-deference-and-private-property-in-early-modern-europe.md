@@ -1,8 +1,11 @@
 ---
-title: "Manners, Deference, and Private Property in Early Modern Europe"
-author: "David Graeber"
-date: "1997"
-category: "contemporary-analysis"
+title: 'Manners, Deference, and Private Property in Early Modern Europe'
+author: David Graeber
+date: '1997'
+category: contemporary-analysis
+tags:
+  - property
+  - Graeber
 ---
 
 This essay is an attempt to map out the rudiments of a theory of manners and formal deference and to demonstrate how such a theory can be usefully applied to certain long-standing problems in the historical sociology of Europe. It is also meant to demonstrate the continuing relevance of comparative ethnography for social theory—something which has been somewhat cast into doubt in recent years.

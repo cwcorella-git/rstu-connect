@@ -1,8 +1,16 @@
 ---
-title: "Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union"
-author: "Reno Sparks Tenants Union"
-date: "2025"
-category: "housing"
+title: >-
+  Reno Sparks Tenants Oppose “Anti-Homeless” Ordinances at Reno City Council
+  Meeting - Reno Sparks Tenants Union
+author: Reno Sparks Tenants Union
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - unions
+  - housing
+  - urban
+  - Nevada
 ---
 
 # Reno Sparks Tenants Oppose "Anti-Homeless" Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union

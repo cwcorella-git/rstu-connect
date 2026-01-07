@@ -1,8 +1,12 @@
 ---
-title: "The Ghost Of Anarcho Syndicalism Murray Bookchin"
-author: "Murray Bookchin"
-date: "1949"
-category: "theory"
+title: The Ghost Of Anarcho Syndicalism Murray Bookchin
+author: Murray Bookchin
+date: '1949'
+category: theory
+tags:
+  - anarchism
+  - syndicalism
+  - Bookchin
 ---
 
 ## **The ghost of anarcho-syndicalism - Murray Bookchin**

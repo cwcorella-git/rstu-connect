@@ -1,6 +1,10 @@
 ---
-title: "The Campaign to Fight Toxic Prisons goes International!"
-category: "technology-digital-justice"
+title: The Campaign to Fight Toxic Prisons goes International!
+category: technology-digital-justice
+tags:
+  - prisons
+  - technology
+  - digital rights
 ---
 
 ## **The Campaign to Fight Toxic Prisons goes International!**

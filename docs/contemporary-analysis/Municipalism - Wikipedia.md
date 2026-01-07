@@ -1,6 +1,9 @@
 ---
-title: "Municipalism"
-category: "contemporary-analysis"
+title: Municipalism
+category: contemporary-analysis
+tags:
+  - municipalism
+  - urban
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

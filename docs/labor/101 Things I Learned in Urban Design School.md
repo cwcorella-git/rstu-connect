@@ -1,8 +1,11 @@
 ---
-title: "101 Things I Learned in Urban Design School"
-author: "Matthew Frederick"
-date: "2018"
-category: "labor"
+title: 101 Things I Learned in Urban Design School
+author: Matthew Frederick
+date: '2018'
+category: labor
+tags:
+  - education
+  - urban
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

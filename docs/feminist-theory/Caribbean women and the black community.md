@@ -1,6 +1,9 @@
 ---
-title: "Caribbean women and the black community"
-category: "theory"
+title: Caribbean women and the black community
+category: theory
+tags:
+  - women
+  - community
 ---
 
 ## **Caribbean women and the black community**

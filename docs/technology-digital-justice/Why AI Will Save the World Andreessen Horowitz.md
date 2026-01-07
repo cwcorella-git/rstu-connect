@@ -1,6 +1,9 @@
 ---
-title: "Why AI Will Save the World"
-category: "technology-digital-justice"
+title: Why AI Will Save the World
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [a16z.com](https://a16z.com/2023/06/06/ai-will-save-the-world/)

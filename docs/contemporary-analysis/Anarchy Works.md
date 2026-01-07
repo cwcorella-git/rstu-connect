@@ -1,6 +1,8 @@
 ---
-title: "Peter Gelderloos"
-category: "contemporary-analysis"
+title: Peter Gelderloos
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 # **Peter Gelderloos**

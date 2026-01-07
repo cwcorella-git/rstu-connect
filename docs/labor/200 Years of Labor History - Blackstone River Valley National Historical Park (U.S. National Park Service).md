@@ -1,8 +1,12 @@
 ---
-title: "200 Years Of Labor History Blackstone River Valley National Historical Park"
-author: "Us N"
-date: "1824"
-category: "labor"
+title: 200 Years Of Labor History Blackstone River Valley National Historical Park
+author: Us N
+date: '1824'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 [nps.gov](https://www.nps.gov/blrv/learn/historyculture/200-labor-events.htm)

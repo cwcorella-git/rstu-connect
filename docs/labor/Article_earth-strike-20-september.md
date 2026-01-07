@@ -1,8 +1,13 @@
 ---
-title: "Earth Strike 20 September"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Earth Strike 20 September
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # Earth Strike 20 September

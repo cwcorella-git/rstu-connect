@@ -1,6 +1,10 @@
 ---
-title: "Indigenous Resistance Deserves Workers' Solidarity"
-category: "labor"
+title: Indigenous Resistance Deserves Workers' Solidarity
+category: labor
+tags:
+  - solidarity
+  - labor
+  - indigenous
 ---
 
 ## **Indigenous Resistance Deserves Workers' Solidarity**

@@ -1,6 +1,10 @@
 ---
-title: "Disabled Communists and Anarchists (Volume 2)"
-category: "theory"
+title: Disabled Communists and Anarchists (Volume 2)
+category: theory
+tags:
+  - anarchism
+  - socialism
+  - disability
 ---
 
 ## **Disabled Communists and Anarchists (Volume 2)**

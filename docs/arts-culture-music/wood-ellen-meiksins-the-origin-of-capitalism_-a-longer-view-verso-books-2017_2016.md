@@ -1,6 +1,8 @@
 ---
-title: "The Origin of Capitalism a longer view"
-category: "arts-culture-music"
+title: The Origin of Capitalism a longer view
+category: arts-culture-music
+tags:
+  - capitalism
 ---
 
 # The Origin of Capitalism a longer view

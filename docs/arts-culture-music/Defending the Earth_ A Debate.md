@@ -1,6 +1,8 @@
 ---
-title: "Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991"
-category: "arts-culture-music"
+title: 'Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991'
+category: arts-culture-music
+tags:
+  - Bookchin
 ---
 
 # **Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991**

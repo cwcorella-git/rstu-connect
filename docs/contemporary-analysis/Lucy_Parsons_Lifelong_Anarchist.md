@@ -1,6 +1,8 @@
 ---
-title: "Table of Contents"
-category: "contemporary-analysis"
+title: Table of Contents
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ignacio hills

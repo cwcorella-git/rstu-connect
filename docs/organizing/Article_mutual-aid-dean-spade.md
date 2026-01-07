@@ -1,8 +1,11 @@
 ---
-title: "Mutual Aid Dean Spade"
-author: "Unknown"
-date: "2025"
-category: "organizing"
+title: Mutual Aid Dean Spade
+author: Unknown
+date: '2025'
+category: organizing
+tags:
+  - mutual aid
+  - organizing
 ---
 
 # Mutual Aid Dean Spade

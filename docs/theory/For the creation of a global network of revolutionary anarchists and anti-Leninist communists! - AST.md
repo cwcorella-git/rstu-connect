@@ -1,6 +1,11 @@
 ---
-title: "For the creation of a global network of revolutionary anarchists and anti-Leninist communists!"
-category: "contemporary-analysis"
+title: >-
+  For the creation of a global network of revolutionary anarchists and
+  anti-Leninist communists!
+category: contemporary-analysis
+tags:
+  - anarchism
+  - socialism
 ---
 
 ## **For the creation of a global network of revolutionary anarchists and anti-Leninist communists! - AST**

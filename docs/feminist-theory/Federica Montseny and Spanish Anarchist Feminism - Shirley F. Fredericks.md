@@ -1,6 +1,10 @@
 ---
-title: "Federica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks"
-category: "feminist-theory"
+title: Federica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks
+category: feminist-theory
+tags:
+  - anarchism
+  - feminism
+  - Spain
 ---
 
 ## **Federica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks**

@@ -1,6 +1,11 @@
 ---
-title: "## [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch01.htm)"
-category: "contemporary-analysis"
+title: >-
+  ##
+  [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch01.htm)
+category: contemporary-analysis
+tags:
+  - socialism
+  - theory
 ---
 
 ## [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch01.htm)

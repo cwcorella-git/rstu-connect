@@ -1,6 +1,8 @@
 ---
-title: "Adams–Onís Treaty"
-category: "theory"
+title: Adams–Onís Treaty
+category: theory
+tags:
+  - theory
 ---
 
 ![](_page_0_Picture_2.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Which Way for the Ecology Movement?"
-category: "environmental-justice"
+title: Which Way for the Ecology Movement?
+category: environmental-justice
+tags:
+  - environment
+  - Bookchin
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

@@ -1,8 +1,11 @@
 ---
-title: "Tefl Workers Union Launched in London"
-author: "Tefl Workers Union"
-date: "2025"
-category: "labor"
+title: Tefl Workers Union Launched in London
+author: Tefl Workers Union
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
 ---
 
 # Tefl Workers Union Launched in London

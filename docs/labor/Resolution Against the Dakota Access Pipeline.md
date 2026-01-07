@@ -1,6 +1,11 @@
 ---
-title: "Resolution Against the Dakota Access Pipeline"
-category: "labor"
+title: Resolution Against the Dakota Access Pipeline
+category: labor
+tags:
+  - fossil fuels
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Resolution Against the Dakota Access Pipeline**

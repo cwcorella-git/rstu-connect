@@ -1,8 +1,11 @@
 ---
-title: "Communisation the Anarchist Library"
-author: "Gilles Dauv"
-date: "2025"
-category: "theory"
+title: Communisation the Anarchist Library
+author: Gilles Dauv
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Communisation the Anarchist Library

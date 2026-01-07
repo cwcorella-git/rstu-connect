@@ -1,8 +1,11 @@
 ---
-title: "An Open Letter To The Labor Movement Stand In Solidarity With Nodapl"
-author: "Dakota Access"
-date: "2016"
-category: "theory"
+title: An Open Letter To The Labor Movement Stand In Solidarity With Nodapl
+author: Dakota Access
+date: '2016'
+category: theory
+tags:
+  - solidarity
+  - labor
 ---
 
 ## **An Open Letter to the Labor Movement: Stand in Solidarity With #NoDAPL**

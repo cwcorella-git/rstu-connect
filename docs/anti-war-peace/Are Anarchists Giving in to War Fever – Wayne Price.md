@@ -1,6 +1,9 @@
 ---
-title: "Are Anarchists Giving in to War Fever? – Wayne Price"
-category: "anti-war-peace"
+title: Are Anarchists Giving in to War Fever? – Wayne Price
+category: anti-war-peace
+tags:
+  - anarchism
+  - anti-war
 ---
 
 ## **Are Anarchists Giving in to War Fever? – Wayne Price**

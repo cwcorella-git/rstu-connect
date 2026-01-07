@@ -1,6 +1,8 @@
 ---
-title: "Vikky Storm and Eme Flores"
-category: "feminist-theory"
+title: Vikky Storm and Eme Flores
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 # **Vikky Storm and Eme Flores**

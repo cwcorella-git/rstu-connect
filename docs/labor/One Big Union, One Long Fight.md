@@ -1,6 +1,10 @@
 ---
-title: "One Big Union, One Long Fight"
-category: "labor"
+title: 'One Big Union, One Long Fight'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **One Big Union, One Long Fight**

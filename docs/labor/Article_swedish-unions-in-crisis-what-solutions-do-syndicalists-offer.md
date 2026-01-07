@@ -1,8 +1,11 @@
 ---
-title: "Swedish Unions in Crisis What Solutions Do Syndicalists Offer"
-author: "Rasmus Hästbacka"
-date: "2025"
-category: "labor"
+title: Swedish Unions in Crisis What Solutions Do Syndicalists Offer
+author: Rasmus Hästbacka
+date: '2025'
+category: labor
+tags:
+  - syndicalism
+  - Sweden
 ---
 
 # Swedish Unions in Crisis What Solutions Do Syndicalists Offer

@@ -1,8 +1,13 @@
 ---
-title: ">-"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - blockades
+  - Italy
 ---
 
 # Italian General Strike Amazon Warehouse Blockaded in Piacenza Strikers Attacked

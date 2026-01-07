@@ -1,8 +1,11 @@
 ---
-title: "Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike"
-author: "these struggles"
-date: "2025"
-category: "labor"
+title: Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike
+author: these struggles
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
 ---
 
 # Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike

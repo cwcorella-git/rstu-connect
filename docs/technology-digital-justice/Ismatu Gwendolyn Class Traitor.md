@@ -1,6 +1,10 @@
 ---
-title: "Ismatu Gwendolyn: Class Traitor"
-category: "technology-digital-justice"
+title: 'Ismatu Gwendolyn: Class Traitor'
+category: technology-digital-justice
+tags:
+  - class
+  - technology
+  - digital rights
 ---
 
 ## **Ismatu Gwendolyn: Class Traitor**

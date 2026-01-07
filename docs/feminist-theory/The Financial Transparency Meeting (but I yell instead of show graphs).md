@@ -1,6 +1,8 @@
 ---
-title: "The Financial Transparency Meeting (but I yell instead of show graphs)."
-category: "feminist-theory"
+title: The Financial Transparency Meeting (but I yell instead of show graphs).
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **The Financial Transparency Meeting (but I yell instead of show graphs).**

@@ -1,8 +1,11 @@
 ---
-title: "Issue 01 the Anarchists Guide To Critical Thinking"
-author: "The Peer Review"
-date: "2025"
-category: "theory"
+title: Issue 01 the Anarchists Guide To Critical Thinking
+author: The Peer Review
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Issue 01 the Anarchists Guide To Critical Thinking

@@ -1,6 +1,10 @@
 ---
-title: "Prison Memoirs of an Anarchist"
-category: "contemporary-analysis"
+title: Prison Memoirs of an Anarchist
+category: contemporary-analysis
+tags:
+  - anarchism
+  - prisons
+  - Berkman
 ---
 
 ## Alexander Berkman

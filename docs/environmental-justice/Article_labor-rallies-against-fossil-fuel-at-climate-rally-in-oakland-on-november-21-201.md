@@ -1,8 +1,12 @@
 ---
-title: "Labor Rallies Against Fossil Fuel At Climate Rally in Oakland"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Labor Rallies Against Fossil Fuel At Climate Rally in Oakland
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - labor
+  - environment
+  - fossil fuels
 ---
 
 # Labor Rallies Against Fossil Fuel At Climate Rally in Oakland On November 21 201

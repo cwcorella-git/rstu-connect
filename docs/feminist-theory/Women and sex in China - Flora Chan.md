@@ -1,6 +1,9 @@
 ---
-title: "Women and sex in China - Flora Chan"
-category: "feminist-theory"
+title: Women and sex in China - Flora Chan
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **Women and sex in China - Flora Chan**

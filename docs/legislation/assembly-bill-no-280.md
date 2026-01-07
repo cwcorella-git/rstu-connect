@@ -1,8 +1,11 @@
 ---
-title: "assembly-bill-no-280"
-author: "Assembly Bill No"
-date: "2021"
-category: "legislation"
+title: assembly-bill-no-280
+author: Assembly Bill No
+date: '2021'
+category: legislation
+tags:
+  - legislation
+  - Nevada
 ---
 
 # assembly-bill-no-280

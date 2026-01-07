@@ -1,6 +1,9 @@
 ---
-title: "Spanish libertarian movement in France National Congress"
-category: "international-solidarity"
+title: Spanish libertarian movement in France National Congress
+category: international-solidarity
+tags:
+  - Spain
+  - France
 ---
 
 ## **Spanish libertarian movement in France National Congress**

@@ -1,6 +1,8 @@
 ---
-title: "## ![](_page_0_Picture_0.jpeg)"
-category: "contemporary-analysis"
+title: '## ![](_page_0_Picture_0.jpeg)'
+category: contemporary-analysis
+tags:
+  - riots
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

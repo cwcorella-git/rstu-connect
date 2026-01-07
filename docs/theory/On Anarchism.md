@@ -1,8 +1,11 @@
 ---
-title: "On Anarchism"
-author: "Noam Chomsky"
-date: "2013"
-category: "theory"
+title: On Anarchism
+author: Noam Chomsky
+date: '2013'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # **Noam Chomsky**

@@ -1,6 +1,8 @@
 ---
-title: "Wages For Housework Notebooks"
-category: "arts-culture-music"
+title: Wages For Housework Notebooks
+category: arts-culture-music
+tags:
+  - labor
 ---
 
 ## **Wages For Housework Notebooks**

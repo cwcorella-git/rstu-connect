@@ -1,8 +1,11 @@
 ---
-title: "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform"
-author: "RSTU Organizing Committee"
-date: "2025-09-05"
-category: "housing"
+title: RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform
+author: RSTU Organizing Committee
+date: '2025-09-05'
+category: housing
+tags:
+  - housing
+  - Nevada
 ---
 
 # RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform

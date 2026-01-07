@@ -1,6 +1,9 @@
 ---
-title: "Prison Research Education Action Project Instead of Prisons"
-category: "contemporary-analysis"
+title: Prison Research Education Action Project Instead of Prisons
+category: contemporary-analysis
+tags:
+  - prisons
+  - education
 ---
 
 # **Prison Research Education Action Project Instead of Prisons**

@@ -1,8 +1,12 @@
 ---
-title: "How To Defend Yourself During A Police Interrogation"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: How To Defend Yourself During A Police Interrogation
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # How To Defend Yourself During A Police Interrogation

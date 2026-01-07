@@ -1,6 +1,10 @@
 ---
-title: "The Prospects for Revolutionary Green Union Led Transformation"
-category: "theory"
+title: The Prospects for Revolutionary Green Union Led Transformation
+category: theory
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **The Prospects for Revolutionary Green Union Led Transformation**

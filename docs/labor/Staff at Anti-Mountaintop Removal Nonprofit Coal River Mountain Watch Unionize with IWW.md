@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2021"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2021'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW**

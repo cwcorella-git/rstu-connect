@@ -1,8 +1,12 @@
 ---
-title: "Anarchist Morality"
-author: "Pyotr Kropotkin"
-date: "1897"
-category: "housing"
+title: Anarchist Morality
+author: Pyotr Kropotkin
+date: '1897'
+category: housing
+tags:
+  - anarchism
+  - housing
+  - tenants
 ---
 
 # **Pëtr Kropotkin Anarchist Morality 1897**

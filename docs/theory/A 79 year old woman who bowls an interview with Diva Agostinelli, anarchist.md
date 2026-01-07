@@ -1,6 +1,9 @@
 ---
-title: "A 79 year old woman who bowls: an interview with Diva Agostinelli, anarchist"
-category: "contemporary-analysis"
+title: 'A 79 year old woman who bowls: an interview with Diva Agostinelli, anarchist'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - women
 ---
 
 ## **A 79 year old woman who bowls: an interview with Diva Agostinelli, anarchist**

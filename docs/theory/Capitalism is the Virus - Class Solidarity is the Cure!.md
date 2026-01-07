@@ -1,6 +1,10 @@
 ---
-title: "Capitalism is the Virus - Class Solidarity is the Cure!"
-category: "theory"
+title: Capitalism is the Virus - Class Solidarity is the Cure!
+category: theory
+tags:
+  - solidarity
+  - capitalism
+  - class
 ---
 
 ## **Capitalism is the Virus - Class Solidarity is the Cure!**

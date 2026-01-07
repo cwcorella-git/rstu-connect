@@ -1,8 +1,12 @@
 ---
-title: "Some Strikes Are More General Than Others"
-author: "Rosa Luxemburg"
-date: "2025"
-category: "labor"
+title: Some Strikes Are More General Than Others
+author: Rosa Luxemburg
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Some Strikes Are More General Than Others

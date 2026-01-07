@@ -1,6 +1,8 @@
 ---
-title: "The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz"
-category: "contemporary-analysis"
+title: The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz
+category: contemporary-analysis
+tags:
+  - prisons
 ---
 
 ## **The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz**

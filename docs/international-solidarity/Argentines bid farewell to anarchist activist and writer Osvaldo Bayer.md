@@ -1,6 +1,10 @@
 ---
-title: "Argentines bid farewell to anarchist activist and writer Osvaldo Bayer"
-category: "international-solidarity"
+title: Argentines bid farewell to anarchist activist and writer Osvaldo Bayer
+category: international-solidarity
+tags:
+  - anarchism
+  - international
+  - solidarity
 ---
 
 ## **Argentines bid farewell to anarchist activist and writer Osvaldo Bayer**

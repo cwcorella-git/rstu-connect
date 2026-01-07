@@ -1,6 +1,8 @@
 ---
-title: "Earthworkers Unite!"
-category: "arts-culture-music"
+title: Earthworkers Unite!
+category: arts-culture-music
+tags:
+  - labor
 ---
 
 ## **Earthworkers Unite!**

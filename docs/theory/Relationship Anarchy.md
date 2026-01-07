@@ -1,6 +1,9 @@
 ---
-title: "Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!"
-category: "theory"
+title: Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!
+category: theory
+tags:
+  - occupations
+  - anarchism
 ---
 
 # **Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!**

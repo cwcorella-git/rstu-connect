@@ -1,6 +1,8 @@
 ---
-title: "White Australia has a Black History"
-category: "contemporary-analysis"
+title: White Australia has a Black History
+category: contemporary-analysis
+tags:
+  - Australia
 ---
 
 ## **White Australia has a Black History**

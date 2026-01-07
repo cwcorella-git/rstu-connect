@@ -1,6 +1,9 @@
 ---
-title: "Post-Scarcity Anarchism"
-category: "arts-culture-music"
+title: Post-Scarcity Anarchism
+category: arts-culture-music
+tags:
+  - anarchism
+  - Bookchin
 ---
 
 # Post-Scarcity Anarchism

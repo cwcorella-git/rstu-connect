@@ -1,8 +1,11 @@
 ---
-title: "Anarchism And The Black Revolution"
-author: "Lorenzo Kom’boa Ervin"
-date: "1993"
-category: "theory"
+title: Anarchism And The Black Revolution
+author: Lorenzo Kom’boa Ervin
+date: '1993'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # **Lorenzo Kom'boa Ervin**

@@ -1,6 +1,8 @@
 ---
-title: "Socialism: Utopian and Scientific"
-category: "contemporary-analysis"
+title: 'Socialism: Utopian and Scientific'
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 # Socialism: Utopian and Scientific

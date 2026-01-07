@@ -1,6 +1,9 @@
 ---
-title: "The New Commons of Urban & Industrial Dereliction - Stuart & David Wise"
-category: "arts-culture-music"
+title: The New Commons of Urban & Industrial Dereliction - Stuart & David Wise
+category: arts-culture-music
+tags:
+  - urban
+  - commons
 ---
 
 ## **The New Commons of Urban & Industrial Dereliction - Stuart & David Wise**

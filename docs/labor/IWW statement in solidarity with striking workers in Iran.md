@@ -1,6 +1,10 @@
 ---
-title: "IWW statement in solidarity with striking workers in Iran"
-category: "labor"
+title: IWW statement in solidarity with striking workers in Iran
+category: labor
+tags:
+  - unions
+  - solidarity
+  - labor
 ---
 
 ## **IWW statement in solidarity with striking workers in Iran**

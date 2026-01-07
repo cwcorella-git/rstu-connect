@@ -1,6 +1,9 @@
 ---
-title: "Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review"
-category: "contemporary-analysis"
+title: 'Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 #### [syndicalist.us](https://syndicalist.us/theory/anarchism-an-introductory-bibliography/)

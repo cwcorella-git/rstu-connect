@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # Liunas Rank and File Is Challenging Union Leadership On Standing Rockand Beyond

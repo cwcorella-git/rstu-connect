@@ -1,6 +1,11 @@
 ---
-title: "Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez)"
-category: "contemporary-analysis"
+title: >-
+  Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna
+  Hernandez)
+category: contemporary-analysis
+tags:
+  - anarchism
+  - prisons
 ---
 
 ## **Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez)**

@@ -1,8 +1,13 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - anti-war
+  - labor
+  - unions
+  - workers
 ---
 
 # The First Strikes Of The Mobilized With Hundreds Of Arrests Ongoing Rail War And

@@ -1,8 +1,11 @@
 ---
-title: "Marx 1844: Rent of Land"
-author: "Karl Marx"
-date: "2025"
-category: "housing"
+title: 'Marx 1844: Rent of Land'
+author: Karl Marx
+date: '2025'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # Marx 1844_ Rent of Land

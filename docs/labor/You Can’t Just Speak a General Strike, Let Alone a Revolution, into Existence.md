@@ -1,6 +1,9 @@
 ---
-title: "You Can't Just Speak a General Strike, Let Alone a Revolution, into Existence"
-category: "contemporary-analysis"
+title: 'You Can''t Just Speak a General Strike, Let Alone a Revolution, into Existence'
+category: contemporary-analysis
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **You Can't Just Speak a General Strike, Let Alone a Revolution, into Existence**

@@ -1,6 +1,10 @@
 ---
-title: "Bayard Rustin"
-category: "labor"
+title: Bayard Rustin
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

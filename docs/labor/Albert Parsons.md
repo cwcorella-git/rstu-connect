@@ -1,6 +1,10 @@
 ---
-title: "Albert Parsons"
-category: "labor"
+title: Albert Parsons
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

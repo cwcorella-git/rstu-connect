@@ -1,6 +1,9 @@
 ---
-title: "Natural House / Ideo arquitectura"
-category: "technology-digital-justice"
+title: Natural House / Ideo arquitectura
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [archdaily.com](https://www.archdaily.com/977508/natural-house-ideo-arquitectura)

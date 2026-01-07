@@ -1,6 +1,10 @@
 ---
-title: "NO! Single Employee Train Crews"
-category: "technology-digital-justice"
+title: NO! Single Employee Train Crews
+category: technology-digital-justice
+tags:
+  - labor
+  - technology
+  - digital rights
 ---
 
 ## **NO! Single Employee Train Crews**

@@ -1,8 +1,11 @@
 ---
-title: "Anarchy Works the Anarchist Library"
-author: "Unknown"
-date: "2025"
-category: "theory"
+title: Anarchy Works the Anarchist Library
+author: Unknown
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchy Works the Anarchist Library

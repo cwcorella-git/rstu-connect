@@ -1,6 +1,9 @@
 ---
-title: "NHJA NEW Protections for Tenants!"
-category: "contemporary-analysis"
+title: NHJA NEW Protections for Tenants!
+category: contemporary-analysis
+tags:
+  - tenants
+  - housing
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

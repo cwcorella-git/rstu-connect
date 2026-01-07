@@ -1,6 +1,11 @@
 ---
-title: "Queer Fire: The George Jackson Brigade, Men Against Sexism, and Gay Struggle Against Prison"
-category: "feminist-theory"
+title: >-
+  Queer Fire: The George Jackson Brigade, Men Against Sexism, and Gay Struggle
+  Against Prison
+category: feminist-theory
+tags:
+  - prisons
+  - LGBTQ+
 ---
 
 ## **Queer Fire: The George Jackson Brigade, Men Against Sexism, and Gay Struggle Against Prison**

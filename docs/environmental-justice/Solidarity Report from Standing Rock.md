@@ -1,6 +1,10 @@
 ---
-title: "Solidarity Report from Standing Rock"
-category: "environmental-justice"
+title: Solidarity Report from Standing Rock
+category: environmental-justice
+tags:
+  - solidarity
+  - environment
+  - climate
 ---
 
 ## **Solidarity Report from Standing Rock**

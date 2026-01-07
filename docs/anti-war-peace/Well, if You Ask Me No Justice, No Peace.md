@@ -1,6 +1,9 @@
 ---
-title: "Well, if You Ask Me: No Justice, No Peace"
-category: "anti-war-peace"
+title: 'Well, if You Ask Me: No Justice, No Peace'
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 ## **Well, if You Ask Me: No Justice, No Peace**

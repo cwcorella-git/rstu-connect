@@ -1,6 +1,12 @@
 ---
-title: "IWW blockades Street in front of Whole Foods Demanding Reinstatement for Worker"
-category: "food-justice"
+title: >-
+  IWW blockades Street in front of Whole Foods Demanding Reinstatement for
+  Worker
+category: food-justice
+tags:
+  - blockades
+  - unions
+  - labor
 ---
 
 ## **IWW blockades Street in front of Whole Foods Demanding Reinstatement for Worker**

@@ -1,8 +1,11 @@
 ---
-title: "Usa the Role of the Union in the Teachers Strikes"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: Usa the Role of the Union in the Teachers Strikes
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - unions
+  - education
 ---
 
 # Usa the Role of the Union in the Teachers Strikes

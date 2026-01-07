@@ -1,8 +1,11 @@
 ---
-title: "The Unique and Its Property"
-author: "Max Stirner, Wolfi Landstreicher"
-date: "2025"
-category: "theory"
+title: The Unique and Its Property
+author: 'Max Stirner, Wolfi Landstreicher'
+date: '2025'
+category: theory
+tags:
+  - property
+  - theory
 ---
 
 # The Unique and Its Property

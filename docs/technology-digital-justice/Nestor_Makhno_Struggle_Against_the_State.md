@@ -1,6 +1,12 @@
 ---
-title: "Chapter 2. On the 10th Anniversary of the Makhnovist Insurgent Movement in the Ukraine"
-category: "technology-digital-justice"
+title: >-
+  Chapter 2. On the 10th Anniversary of the Makhnovist Insurgent Movement in the
+  Ukraine
+category: technology-digital-justice
+tags:
+  - Ukraine
+  - technology
+  - digital rights
 ---
 
 ## **The Struggle Against the State and Other Essays**

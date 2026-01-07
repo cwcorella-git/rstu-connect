@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # Rank and File Union Members Join Standing Rock Camp As Crackdown On Opponents of

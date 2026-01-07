@@ -1,6 +1,11 @@
 ---
-title: "Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip Littler"
-category: "contemporary-analysis"
+title: >-
+  Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip
+  Littler
+category: contemporary-analysis
+tags:
+  - prisons
+  - India
 ---
 
 ## **Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip Littler**

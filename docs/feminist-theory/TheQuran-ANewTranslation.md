@@ -1,6 +1,8 @@
 ---
-title: "The Qur'an"
-category: "feminist-theory"
+title: The Qur'an
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## ![](_page_0_Picture_1.jpeg)

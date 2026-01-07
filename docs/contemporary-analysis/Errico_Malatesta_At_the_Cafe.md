@@ -1,6 +1,8 @@
 ---
-title: "At The Café"
-category: "contemporary-analysis"
+title: At The Café
+category: contemporary-analysis
+tags:
+  - Malatesta
 ---
 
 # **At The Café**

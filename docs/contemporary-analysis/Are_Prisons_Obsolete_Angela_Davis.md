@@ -1,6 +1,8 @@
 ---
-title: "ARE PRISONS OBSOLETE?"
-category: "contemporary-analysis"
+title: ARE PRISONS OBSOLETE?
+category: contemporary-analysis
+tags:
+  - prisons
 ---
 
 ## sa.jls: \$13.95 CANADA £6.99 UK

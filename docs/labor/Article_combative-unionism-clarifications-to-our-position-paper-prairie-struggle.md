@@ -1,8 +1,12 @@
 ---
-title: "Combative Unionism Clarifications To Our Position Paper Prairie Struggle"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Combative Unionism Clarifications To Our Position Paper Prairie Struggle
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Combative Unionism Clarifications To Our Position Paper Prairie Struggle

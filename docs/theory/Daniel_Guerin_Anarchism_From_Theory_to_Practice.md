@@ -1,6 +1,11 @@
 ---
-title: "ANARCHISM From Theory to Practice by Daniel Guerin I ntroduction by Noam Chomsky Translated by Mary Klopper o"
-category: "theory"
+title: >-
+  ANARCHISM From Theory to Practice by Daniel Guerin I ntroduction by Noam
+  Chomsky Translated by Mary Klopper o
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # ANARCHISM **From Theory to** Practice **by Daniel** Guerin I ntroduction by Noam Chomsky Translated by Mary Klopper o

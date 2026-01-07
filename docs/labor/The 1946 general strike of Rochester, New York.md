@@ -1,6 +1,10 @@
 ---
-title: "The 1946 general strike of Rochester, New York"
-category: "contemporary-analysis"
+title: 'The 1946 general strike of Rochester, New York'
+category: contemporary-analysis
+tags:
+  - general strikes
+  - strikes
+  - New York
 ---
 
 ## **The 1946 general strike of Rochester, New York**

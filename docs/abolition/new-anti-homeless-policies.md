@@ -1,8 +1,11 @@
 ---
-title: "New Anti-Homeless Policies Proposed in Reno and Washoe County"
-author: "RSTU Policy Watch"
-date: "2025-08-15"
-category: "abolition"
+title: New Anti-Homeless Policies Proposed in Reno and Washoe County
+author: RSTU Policy Watch
+date: '2025-08-15'
+category: abolition
+tags:
+  - housing
+  - Nevada
 ---
 
 # New Anti-Homeless Policies Proposed in Reno and Washoe County

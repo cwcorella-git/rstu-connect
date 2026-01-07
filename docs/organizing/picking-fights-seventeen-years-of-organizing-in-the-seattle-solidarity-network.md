@@ -1,8 +1,12 @@
 ---
-title: "Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network"
-author: "Picking Fights"
-date: "2025"
-category: "organizing"
+title: Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network
+author: Picking Fights
+date: '2025'
+category: organizing
+tags:
+  - solidarity
+  - organizing
+  - Seattle
 ---
 
 # Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network

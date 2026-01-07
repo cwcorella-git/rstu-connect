@@ -1,6 +1,9 @@
 ---
-title: "Under the Same Sun Installation / Stephanie Deumer"
-category: "technology-digital-justice"
+title: Under the Same Sun Installation / Stephanie Deumer
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [archdaily.com](https://www.archdaily.com/977782/under-the-same-sun-installation-stephanie-deumer)

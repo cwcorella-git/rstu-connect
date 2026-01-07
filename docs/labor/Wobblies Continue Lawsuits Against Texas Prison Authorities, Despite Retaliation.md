@@ -1,6 +1,11 @@
 ---
-title: "Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation"
-category: "labor"
+title: >-
+  Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite
+  Retaliation
+category: labor
+tags:
+  - unions
+  - prisons
 ---
 
 ## **Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation**

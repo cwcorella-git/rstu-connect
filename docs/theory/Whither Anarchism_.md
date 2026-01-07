@@ -1,6 +1,9 @@
 ---
-title: "Murray Bookchin Whither Anarchism? A Reply to Recent Anarchist Critics 1998"
-category: "contemporary-analysis"
+title: Murray Bookchin Whither Anarchism? A Reply to Recent Anarchist Critics 1998
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Bookchin
 ---
 
 # **Murray Bookchin Whither Anarchism? A Reply to Recent Anarchist Critics 1998**

@@ -1,6 +1,9 @@
 ---
-title: "Education for Critical Conssciousness"
-category: "theory"
+title: Education for Critical Conssciousness
+category: theory
+tags:
+  - education
+  - theory
 ---
 
 ## **Education for Critical Conssciousness**

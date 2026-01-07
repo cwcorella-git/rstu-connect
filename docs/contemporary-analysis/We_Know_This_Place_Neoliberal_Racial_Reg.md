@@ -1,6 +1,8 @@
 ---
-title: "'We Know This Place': Neoliberal Racial Regimes and the Katrina Circumstance"
-category: "contemporary-analysis"
+title: '''We Know This Place'': Neoliberal Racial Regimes and the Katrina Circumstance'
+category: contemporary-analysis
+tags:
+  - racial justice
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

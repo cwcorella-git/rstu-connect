@@ -1,8 +1,12 @@
 ---
-title: "Marxism, Freedom and the State"
-author: "Mikhail Bakunin"
-date: "1950"
-category: "theory"
+title: 'Marxism, Freedom and the State'
+author: Mikhail Bakunin
+date: '1950'
+category: theory
+tags:
+  - socialism
+  - liberty
+  - Bakunin
 ---
 
 # Marxism Freedom and the State

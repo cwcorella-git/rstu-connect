@@ -1,6 +1,9 @@
 ---
-title: "Approval voting"
-category: "technology-digital-justice"
+title: Approval voting
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Approval_voting)

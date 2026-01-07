@@ -1,8 +1,11 @@
 ---
-title: "When Railroad Carriers Threaten To Strike the State Cowers"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: When Railroad Carriers Threaten To Strike the State Cowers
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - railroads
 ---
 
 # When Railroad Carriers Threaten To Strike the State Cowers

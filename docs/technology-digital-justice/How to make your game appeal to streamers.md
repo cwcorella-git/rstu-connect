@@ -1,6 +1,9 @@
 ---
-title: "How to make your game appeal to streamers"
-category: "technology-digital-justice"
+title: How to make your game appeal to streamers
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [tinybuild.com](https://www.tinybuild.com/single-post/2016/03/08/How-to-make-your-game-appeal-to-streamers)

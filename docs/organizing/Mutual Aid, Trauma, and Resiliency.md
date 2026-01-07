@@ -1,8 +1,11 @@
 ---
-title: "Mutual Aid Trauma And Resiliency"
-author: "The Jane Addams Collective"
-date: "2019"
-category: "organizing"
+title: Mutual Aid Trauma And Resiliency
+author: The Jane Addams Collective
+date: '2019'
+category: organizing
+tags:
+  - mutual aid
+  - organizing
 ---
 
 # **The Jane Addams Collective Mutual Aid, Trauma, and Resiliency**

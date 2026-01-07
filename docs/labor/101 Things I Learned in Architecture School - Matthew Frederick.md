@@ -1,8 +1,13 @@
 ---
-title: "101 Things I Learned in Architecture School"
-author: "Matthew Frederick"
-date: "2007"
-category: "labor"
+title: 101 Things I Learned in Architecture School
+author: Matthew Frederick
+date: '2007'
+category: labor
+tags:
+  - education
+  - labor
+  - unions
+  - workers
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

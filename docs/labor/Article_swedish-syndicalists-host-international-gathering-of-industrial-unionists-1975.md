@@ -1,8 +1,11 @@
 ---
-title: "Swedish Syndicalists Host International Gathering Of Industrial Unionists 1975"
-author: "Swedish syndicalist"
-date: "2025"
-category: "labor"
+title: Swedish Syndicalists Host International Gathering Of Industrial Unionists 1975
+author: Swedish syndicalist
+date: '2025'
+category: labor
+tags:
+  - syndicalism
+  - Sweden
 ---
 
 # Swedish Syndicalists Host International Gathering Of Industrial Unionists 1975

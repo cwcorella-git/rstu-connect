@@ -1,6 +1,8 @@
 ---
-title: "Living The Dream in the feminist moment"
-category: "feminist-theory"
+title: Living The Dream in the feminist moment
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **Living The Dream in the feminist moment**

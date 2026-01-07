@@ -1,6 +1,9 @@
 ---
-title: "WARNING: PLEASE READ BEFORE INSTALLING OR USING THE SOFTWARE"
-category: "anti-war-peace"
+title: 'WARNING: PLEASE READ BEFORE INSTALLING OR USING THE SOFTWARE'
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

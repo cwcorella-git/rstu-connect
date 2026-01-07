@@ -1,6 +1,8 @@
 ---
-title: "EANARCHIST COLLECTIVES"
-category: "contemporary-analysis"
+title: EANARCHIST COLLECTIVES
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **The Anarchist Collectives**

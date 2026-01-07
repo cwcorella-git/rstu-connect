@@ -1,8 +1,11 @@
 ---
-title: "Special Branch Report On Anarchists 1976"
-author: "Albert Meltzer"
-date: "2025"
-category: "theory"
+title: Special Branch Report On Anarchists 1976
+author: Albert Meltzer
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Special Branch Report On Anarchists 1976

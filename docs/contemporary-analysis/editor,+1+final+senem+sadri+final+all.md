@@ -1,6 +1,8 @@
 ---
-title: "City, Urban Transformation and the Right to the City"
-category: "contemporary-analysis"
+title: 'City, Urban Transformation and the Right to the City'
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

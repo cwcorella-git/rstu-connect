@@ -1,6 +1,12 @@
 ---
-title: "ITUC calls on workers to join climate rallies in support of Paris climate justice"
-category: "environmental-justice"
+title: >-
+  ITUC calls on workers to join climate rallies in support of Paris climate
+  justice
+category: environmental-justice
+tags:
+  - labor
+  - environment
+  - France
 ---
 
 ## **ITUC calls on workers to join climate rallies in support of Paris climate justice**

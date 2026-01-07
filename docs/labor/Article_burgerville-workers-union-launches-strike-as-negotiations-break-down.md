@@ -1,8 +1,12 @@
 ---
-title: "Burgerville Workers Union Launches Strike As Negotiations Break Down"
-author: "It's Going Down"
-date: "2025"
-category: "labor"
+title: Burgerville Workers Union Launches Strike As Negotiations Break Down
+author: It's Going Down
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - unions
+  - labor
 ---
 
 # Burgerville Workers Union Launches Strike As Negotiations Break Down

@@ -1,8 +1,12 @@
 ---
-title: "Abolition Emilia Viotti"
-author: "Emilia Viotti da Costa"
-date: "2008"
-category: "abolition"
+title: Abolition Emilia Viotti
+author: Emilia Viotti da Costa
+date: '2008'
+category: abolition
+tags:
+  - abolition
+  - police
+  - prisons
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

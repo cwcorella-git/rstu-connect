@@ -1,6 +1,8 @@
 ---
-title: "VISIONS OF HUMAN NATURE: A FEMINIST CRITIQUE OF RAWLS' THEORY OF JUSTICE"
-category: "feminist-theory"
+title: 'VISIONS OF HUMAN NATURE: A FEMINIST CRITIQUE OF RAWLS'' THEORY OF JUSTICE'
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

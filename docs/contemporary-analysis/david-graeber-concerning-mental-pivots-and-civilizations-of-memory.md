@@ -1,8 +1,10 @@
 ---
-title: "Concerning mental pivots and civilizations of memory"
-author: "David Graeber"
-date: "2015"
-category: "contemporary-analysis"
+title: Concerning mental pivots and civilizations of memory
+author: David Graeber
+date: '2015'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 > 

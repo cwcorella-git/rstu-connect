@@ -1,8 +1,12 @@
 ---
-title: "Ovec Union Files Ulps Wins Case"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Ovec Union Files Ulps Wins Case
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # Ovec Union Files Ulps Wins Case

@@ -1,6 +1,12 @@
 ---
-title: "Accept All Reject Settings no longer be effective discriminators it for interactions exclusively with ent. Similar to how users can filter e.g. \"Following\" and \"For You\" nt or accounts that have been "
-category: "technology-digital-justice"
+title: >-
+  Accept All Reject Settings no longer be effective discriminators it for
+  interactions exclusively with ent. Similar to how users can filter e.g.
+  "Following" and "For You" nt or accounts that have been 
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 [World Blog](https://world.org/blog) [Research and Engineering](https://world.org/blog/engineering) Humanness in the Age of AI

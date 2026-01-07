@@ -1,6 +1,9 @@
 ---
-title: "Jailed for anti-war rally announcement. The case of Javid Mamedov"
-category: "technology-digital-justice"
+title: Jailed for anti-war rally announcement. The case of Javid Mamedov
+category: technology-digital-justice
+tags:
+  - prisons
+  - anti-war
 ---
 
 ## **Jailed for anti-war rally announcement. The case of Javid Mamedov**

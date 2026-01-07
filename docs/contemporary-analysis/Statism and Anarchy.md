@@ -1,6 +1,9 @@
 ---
-title: "Mikhail Bakunin"
-category: "contemporary-analysis"
+title: Mikhail Bakunin
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Bakunin
 ---
 
 # **Mikhail Bakunin**

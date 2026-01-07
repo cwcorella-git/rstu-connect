@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: '>-'
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - fossil fuels
+  - Los Angeles
 ---
 
 # A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc

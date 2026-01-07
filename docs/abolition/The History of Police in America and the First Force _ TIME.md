@@ -1,8 +1,12 @@
 ---
-title: "The History Of Police In America And The First Force   Time"
-author: "Unknown"
-date: "1838"
-category: "abolition"
+title: The History Of Police In America And The First Force   Time
+author: Unknown
+date: '1838'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 ## [time.com](https://time.com/4779112/police-history-origins/)

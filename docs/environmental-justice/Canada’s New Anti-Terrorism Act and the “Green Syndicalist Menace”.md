@@ -1,6 +1,9 @@
 ---
-title: "Canada's New Anti-Terrorism Act and the 'Green Syndicalist Menace'"
-category: "environmental-justice"
+title: Canada's New Anti-Terrorism Act and the 'Green Syndicalist Menace'
+category: environmental-justice
+tags:
+  - syndicalism
+  - Canada
 ---
 
 ## **Canada's New Anti-Terrorism Act and the "Green Syndicalist Menace"**

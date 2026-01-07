@@ -1,6 +1,9 @@
 ---
-title: "Austerity vs. the Planet: The Future of Labor Environmentalism"
-category: "labor"
+title: 'Austerity vs. the Planet: The Future of Labor Environmentalism'
+category: labor
+tags:
+  - labor
+  - environment
 ---
 
 # **Austerity vs. the Planet: The Future of Labor Environmentalism**

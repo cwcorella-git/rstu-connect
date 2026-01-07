@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2022"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2022'
+category: labor
+tags:
+  - strikes
+  - environment
+  - Los Angeles
 ---
 
 ## **2022 Global Climate Strike: Travailleuses et Travailleurs pour la Justice Climatique**

@@ -1,6 +1,9 @@
 ---
-title: "Autumn wave of radical direct action on both sides of the front line"
-category: "contemporary-analysis"
+title: Autumn wave of radical direct action on both sides of the front line
+category: contemporary-analysis
+tags:
+  - direct action
+  - organizing
 ---
 
 ## **Autumn wave of radical direct action on both sides of the front line**

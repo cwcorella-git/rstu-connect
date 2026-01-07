@@ -1,6 +1,9 @@
 ---
-title: "THE LAST ECONOMY"
-category: "economic-alternatives"
+title: THE LAST ECONOMY
+category: economic-alternatives
+tags:
+  - economics
+  - alternatives
 ---
 
 # THE LAST ECONOMY

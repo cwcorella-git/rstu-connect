@@ -1,6 +1,11 @@
 ---
-title: "Lansing Correctional: Prison uprising put down as US inmates demand protection from coronavirus"
-category: "contemporary-analysis"
+title: >-
+  Lansing Correctional: Prison uprising put down as US inmates demand protection
+  from coronavirus
+category: contemporary-analysis
+tags:
+  - riots
+  - prisons
 ---
 
 ## **Lansing Correctional: Prison uprising put down as US inmates demand protection from coronavirus :**

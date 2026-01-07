@@ -1,6 +1,10 @@
 ---
-title: "The Divergent Anarcho-utopian Discourses of the Open Source Software Movement"
-category: "technology-digital-justice"
+title: The Divergent Anarcho-utopian Discourses of the Open Source Software Movement
+category: technology-digital-justice
+tags:
+  - anarchism
+  - technology
+  - digital rights
 ---
 
 # **The Divergent Anarcho-utopian Discourses of the Open Source Software Movement**

@@ -1,8 +1,11 @@
 ---
-title: "1944 El Salvador General Strike Brings Down Dictatorship"
-author: "Max Rennebohm"
-date: "1944"
-category: "labor"
+title: 1944 El Salvador General Strike Brings Down Dictatorship
+author: Max Rennebohm
+date: '1944'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1944: El Salvador General Strike Brings Down Dictatorship**

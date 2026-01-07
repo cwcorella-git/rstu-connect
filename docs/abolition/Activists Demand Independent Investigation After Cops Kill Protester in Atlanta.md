@@ -1,6 +1,11 @@
 ---
-title: "Activists Demand Independent Investigation After Cops Kill Protester in Atlanta"
-category: "abolition"
+title: >-
+  Activists Demand Independent Investigation After Cops Kill Protester in
+  Atlanta
+category: abolition
+tags:
+  - protests
+  - police
 ---
 
 ## **Activists Demand Independent Investigation After Cops Kill Protester in Atlanta**

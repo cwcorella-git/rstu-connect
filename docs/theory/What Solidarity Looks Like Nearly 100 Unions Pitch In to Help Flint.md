@@ -1,8 +1,11 @@
 ---
-title: "What Solidarity Looks Like Nearly 100 Unions Pitch In To Help Flint"
-author: "Industrial Workers of the World"
-date: "2016"
-category: "theory"
+title: What Solidarity Looks Like Nearly 100 Unions Pitch In To Help Flint
+author: Industrial Workers of the World
+date: '2016'
+category: theory
+tags:
+  - solidarity
+  - theory
 ---
 
 ## **What Solidarity Looks Like: Nearly 100 Unions Pitch In to Help Flint**

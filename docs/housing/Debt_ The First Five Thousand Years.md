@@ -1,8 +1,12 @@
 ---
-title: "Debt: The First Five Thousand Years"
-author: "David Graeber"
-date: "2009"
-category: "housing"
+title: 'Debt: The First Five Thousand Years'
+author: David Graeber
+date: '2009'
+category: housing
+tags:
+  - debt
+  - housing
+  - tenants
 ---
 
 ## **David Graeber**

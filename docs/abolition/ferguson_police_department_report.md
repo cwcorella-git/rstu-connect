@@ -1,8 +1,12 @@
 ---
-title: "ferguson_police_department_report"
-author: "Racial Bias"
-date: "2010"
-category: "abolition"
+title: ferguson_police_department_report
+author: Racial Bias
+date: '2010'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # ferguson_police_department_report.pdf

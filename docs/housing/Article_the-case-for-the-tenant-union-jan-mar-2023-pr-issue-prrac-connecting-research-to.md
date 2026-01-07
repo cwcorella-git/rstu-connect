@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "|-"
-date: "2025"
-category: "housing"
+title: '>-'
+author: '|-'
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - unions
 ---
 
 # The Case For the Tenant Union Jan Mar 2023 Pr Issue Prrac Connecting Research To

@@ -1,6 +1,10 @@
 ---
-title: "Review - The Lucas Plan: A New Trade Unionism In The Making?"
-category: "labor"
+title: 'Review - The Lucas Plan: A New Trade Unionism In The Making?'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Review - The Lucas Plan: A New Trade Unionism In The Making?**

@@ -1,6 +1,13 @@
 ---
-title: "GEO at UIUC Statement in Response to Richard Trumka's Statement on the Dakota Access Pipeline"
-category: "labor"
+title: >-
+  GEO at UIUC Statement in Response to Richard Trumka's Statement on the Dakota
+  Access Pipeline
+category: labor
+tags:
+  - fossil fuels
+  - labor
+  - unions
+  - workers
 ---
 
 ## **GEO at UIUC Statement in Response to Richard Trumka's Statement on the Dakota Access Pipeline**

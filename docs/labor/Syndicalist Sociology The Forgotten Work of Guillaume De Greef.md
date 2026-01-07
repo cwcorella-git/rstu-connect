@@ -1,6 +1,11 @@
 ---
-title: "Syndicalist Sociology: The Forgotten Work of Guillaume De Greef"
-category: "contemporary-analysis"
+title: 'Syndicalist Sociology: The Forgotten Work of Guillaume De Greef'
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Syndicalist Sociology: The Forgotten Work of Guillaume De Greef**

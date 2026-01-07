@@ -1,6 +1,10 @@
 ---
-title: "James Herod"
-category: "contemporary-analysis"
+title: James Herod
+category: contemporary-analysis
+tags:
+  - anarchism
+  - socialism
+  - United Kingdom
 ---
 
 # James Herod

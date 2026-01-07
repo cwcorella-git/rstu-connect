@@ -1,8 +1,12 @@
 ---
-title: "Afa and the Police Whatever You Say Say Nothing"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: Afa and the Police Whatever You Say Say Nothing
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # Afa and the Police Whatever You Say Say Nothing

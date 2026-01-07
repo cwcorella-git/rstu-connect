@@ -1,6 +1,10 @@
 ---
-title: "Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks"
-category: "youth-student-organizing"
+title: 'Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks'
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 ## **Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks**

@@ -1,6 +1,8 @@
 ---
-title: "Pedagogy of the Oppressed"
-category: "theory"
+title: Pedagogy of the Oppressed
+category: theory
+tags:
+  - theory
 ---
 
 ## **Pedagogy of the Oppressed**

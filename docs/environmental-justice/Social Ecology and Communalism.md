@@ -1,6 +1,9 @@
 ---
-title: "Murray Bookchin Social Ecology and Communalism 2006"
-category: "environmental-justice"
+title: Murray Bookchin Social Ecology and Communalism 2006
+category: environmental-justice
+tags:
+  - environment
+  - Bookchin
 ---
 
 # **Murray Bookchin Social Ecology and Communalism 2006**

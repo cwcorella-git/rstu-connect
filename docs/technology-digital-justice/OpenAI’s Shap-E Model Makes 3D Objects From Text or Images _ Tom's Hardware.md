@@ -1,6 +1,11 @@
 ---
-title: "## [tomshardware.com](https://www.tomshardware.com/news/openai-shap-e-creates-3d-models)"
-category: "technology-digital-justice"
+title: >-
+  ##
+  [tomshardware.com](https://www.tomshardware.com/news/openai-shap-e-creates-3d-models)
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## [tomshardware.com](https://www.tomshardware.com/news/openai-shap-e-creates-3d-models)

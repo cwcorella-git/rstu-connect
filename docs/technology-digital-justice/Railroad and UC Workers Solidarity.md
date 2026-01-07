@@ -1,6 +1,10 @@
 ---
-title: "Railroad and UC Workers Solidarity"
-category: "technology-digital-justice"
+title: Railroad and UC Workers Solidarity
+category: technology-digital-justice
+tags:
+  - solidarity
+  - labor
+  - railroads
 ---
 
 ## **Railroad and UC Workers Solidarity**

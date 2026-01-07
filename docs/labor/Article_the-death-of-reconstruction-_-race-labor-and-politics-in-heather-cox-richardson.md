@@ -1,8 +1,12 @@
 ---
-title: "The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson

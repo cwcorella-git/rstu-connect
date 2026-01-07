@@ -1,6 +1,12 @@
 ---
-title: "Peter Lamborn Wilson Islam and the Internet Net-religion, a War in Heaven October 6, 1995"
-category: "technology-digital-justice"
+title: >-
+  Peter Lamborn Wilson Islam and the Internet Net-religion, a War in Heaven
+  October 6, 1995
+category: technology-digital-justice
+tags:
+  - anti-war
+  - technology
+  - digital rights
 ---
 
 ## **Peter Lamborn Wilson Islam and the Internet Net-religion, a War in Heaven October 6, 1995**

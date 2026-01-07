@@ -1,8 +1,11 @@
 ---
-title: "Direct Action 46 February 1988"
-author: "Unknown"
-date: "2025"
-category: "organizing"
+title: Direct Action 46 February 1988
+author: Unknown
+date: '2025'
+category: organizing
+tags:
+  - direct action
+  - organizing
 ---
 
 # Direct Action 46 February 1988

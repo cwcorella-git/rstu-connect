@@ -1,6 +1,10 @@
 ---
-title: "The Activist vol.15 #1-2 1975 - Wages for Housework issue"
-category: "economic-alternatives"
+title: 'The Activist vol.15 #1-2 1975 - Wages for Housework issue'
+category: economic-alternatives
+tags:
+  - labor
+  - economics
+  - alternatives
 ---
 
 ## **The Activist vol.15 #1-2 1975 - Wages for Housework issue**

@@ -1,6 +1,9 @@
 ---
-title: "The Green New Deal Isn't Just Affordable, It's Necessary Now"
-category: "environmental-justice"
+title: 'The Green New Deal Isn''t Just Affordable, It''s Necessary Now'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **The Green New Deal Isn't Just Affordable, It's Necessary Now**

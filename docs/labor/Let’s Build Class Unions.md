@@ -1,6 +1,11 @@
 ---
-title: "Let's Build Class Unions"
-category: "labor"
+title: Let's Build Class Unions
+category: labor
+tags:
+  - class
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Let's Build Class Unions**

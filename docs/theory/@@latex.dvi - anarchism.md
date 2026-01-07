@@ -1,6 +1,9 @@
 ---
-title: "*Anarchism Triumphant*: Free Software and the Death of Copyright"
-category: "contemporary-analysis"
+title: '*Anarchism Triumphant*: Free Software and the Death of Copyright'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # *Anarchism Triumphant*: Free Software and the Death of Copyright

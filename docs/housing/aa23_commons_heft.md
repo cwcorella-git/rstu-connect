@@ -1,8 +1,12 @@
 ---
-title: "Aa23 Commons Heft"
-author: "Housing Advocacy Organization"
-date: "2009"
-category: "housing"
+title: Aa23 Commons Heft
+author: Housing Advocacy Organization
+date: '2009'
+category: housing
+tags:
+  - commons
+  - housing
+  - tenants
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

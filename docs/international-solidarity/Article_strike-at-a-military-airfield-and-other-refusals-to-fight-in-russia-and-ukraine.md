@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - Ukraine
+  - Russia
 ---
 
 # Strike At A Military Airfield And Other Refusals To Fight In Russia And Ukraine

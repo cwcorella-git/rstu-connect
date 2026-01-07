@@ -1,8 +1,12 @@
 ---
-title: "Libertarian Municipalism an Overview the Anarchist Library"
-author: "Murray Bookchin"
-date: "2025"
-category: "theory"
+title: Libertarian Municipalism an Overview the Anarchist Library
+author: Murray Bookchin
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - municipalism
+  - urban
 ---
 
 # Libertarian Municipalism an Overview the Anarchist Library

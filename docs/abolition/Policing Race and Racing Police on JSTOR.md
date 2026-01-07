@@ -1,8 +1,12 @@
 ---
-title: "Policing Race And Racing Police On Jstor"
-author: "Unknown"
-date: "2020"
-category: "abolition"
+title: Policing Race And Racing Police On Jstor
+author: Unknown
+date: '2020'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 #### [jstor.org](https://www.jstor.org/stable/27094596)

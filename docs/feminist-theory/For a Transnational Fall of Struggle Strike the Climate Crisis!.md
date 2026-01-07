@@ -1,6 +1,9 @@
 ---
-title: "For a Transnational Fall of Struggle: Strike the Climate Crisis!"
-category: "feminist-theory"
+title: 'For a Transnational Fall of Struggle: Strike the Climate Crisis!'
+category: feminist-theory
+tags:
+  - strikes
+  - environment
 ---
 
 ## **For a Transnational Fall of Struggle: Strike the Climate Crisis!**

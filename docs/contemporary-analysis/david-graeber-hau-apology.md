@@ -1,8 +1,10 @@
 ---
-title: "HAU Apology"
-author: "David Graeber"
-date: "2018"
-category: "contemporary-analysis"
+title: HAU Apology
+author: David Graeber
+date: '2018'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 I would like to make a public apology to anyone who has been hurt by their involvement with HAU.

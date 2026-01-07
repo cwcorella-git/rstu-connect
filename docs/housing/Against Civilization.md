@@ -1,8 +1,11 @@
 ---
-title: "Against Civilization"
-author: "Human Action"
-date: "2005"
-category: "housing"
+title: Against Civilization
+author: Human Action
+date: '2005'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # **Edited By John Zerzan. Illustrated By R. L. Tubbesing.**

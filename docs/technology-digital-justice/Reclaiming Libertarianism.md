@@ -1,6 +1,9 @@
 ---
-title: "Reclaiming Libertarianism"
-category: "technology-digital-justice"
+title: Reclaiming Libertarianism
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Reclaiming Libertarianism**

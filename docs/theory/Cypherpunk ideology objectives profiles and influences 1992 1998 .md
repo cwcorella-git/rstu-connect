@@ -1,6 +1,8 @@
 ---
-title: "Internet Histories"
-category: "theory"
+title: Internet Histories
+category: theory
+tags:
+  - theory
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

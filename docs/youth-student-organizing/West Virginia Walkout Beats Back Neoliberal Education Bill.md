@@ -1,6 +1,9 @@
 ---
-title: "West Virginia Walkout Beats Back Neoliberal Education Bill"
-category: "youth-student-organizing"
+title: West Virginia Walkout Beats Back Neoliberal Education Bill
+category: youth-student-organizing
+tags:
+  - strikes
+  - education
 ---
 
 ## **West Virginia Walkout Beats Back Neoliberal Education Bill**

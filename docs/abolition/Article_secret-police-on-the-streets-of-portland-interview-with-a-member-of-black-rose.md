@@ -1,8 +1,12 @@
 ---
-title: "Secret Police On The Streets Of Portland Interview With A Member Of Black Rose"
-author: "Black Rose"
-date: "2025"
-category: "abolition"
+title: Secret Police On The Streets Of Portland Interview With A Member Of Black Rose
+author: Black Rose
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # Secret Police On The Streets Of Portland Interview With A Member Of Black Rose

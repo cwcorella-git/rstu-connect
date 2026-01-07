@@ -1,8 +1,12 @@
 ---
-title: "Debt, Service, and the Origins of Capitalism"
-author: "David Graeber"
-date: "June 8, 2018"
-category: "economic-alternatives"
+title: 'Debt, Service, and the Origins of Capitalism'
+author: David Graeber
+date: 'June 8, 2018'
+category: economic-alternatives
+tags:
+  - debt
+  - capitalism
+  - Graeber
 ---
 
 I’m actually going to read some of this. I don’t usually read the papers that that I’m supposed to read, but I finished writing this at about 4 a.m. last night, and I haven’t actually read it yet. I think it makes sense. But I wanted to say something new, having this whole conference, and it’s in order to regurgitate things, so what I thought to do was to relate some of the themes that I explored in my earlier work on *Debt* with some of the more recent concerns I’ve had with the history of labor, and particularly wage labor, which I cover rather briefly in the new book on *Bullshit Jobs*, and specifically talk about the commoditization of labor. We have this interesting situation nowadays where waged, and to a lesser extent salaried, labor remain the predominant ways of organizing work, almost everywhere in the world at this point, but historically, if you look at the sort of broad historical sweep, while such arrangements often existed in many, perhaps most, times and places, they’re kind of unusual, even considered anomalous at most, and, while there has been a lot of very good research on the history of such labor arrangements, it’s actually really uncommon to see anyone put the pieces together in any sort of broad synthetic way.

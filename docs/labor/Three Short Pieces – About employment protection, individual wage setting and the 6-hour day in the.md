@@ -1,6 +1,12 @@
 ---
-title: "Three Short Pieces – About employment protection, individual wage setting and the 6-hour day in"
-category: "economic-alternatives"
+title: >-
+  Three Short Pieces – About employment protection, individual wage setting and
+  the 6-hour day in
+category: economic-alternatives
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Three Short Pieces – About employment protection, individual wage setting and the 6-hour day in the Swedish labor market**

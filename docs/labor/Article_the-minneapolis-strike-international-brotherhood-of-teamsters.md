@@ -1,8 +1,13 @@
 ---
-title: "The Minneapolis Strike International Brotherhood of Teamsters"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: The Minneapolis Strike International Brotherhood of Teamsters
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # The Minneapolis Strike International Brotherhood of Teamsters

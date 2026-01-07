@@ -1,8 +1,11 @@
 ---
-title: "Anarchist Architecture Wikipedia"
-author: "Colin Ward"
-date: "2025"
-category: "theory"
+title: Anarchist Architecture Wikipedia
+author: Colin Ward
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchist Architecture Wikipedia

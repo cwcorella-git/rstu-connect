@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "bell hooks"
-date: "2025"
-category: "labor"
+title: '>-'
+author: bell hooks
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Communion the Female Search For Love Love Song To the Bell Hooks Montserrat Ase

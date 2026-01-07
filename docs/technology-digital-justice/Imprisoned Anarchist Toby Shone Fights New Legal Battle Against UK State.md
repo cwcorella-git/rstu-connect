@@ -1,6 +1,10 @@
 ---
-title: "Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State"
-category: "technology-digital-justice"
+title: Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State
+category: technology-digital-justice
+tags:
+  - anarchism
+  - prisons
+  - United Kingdom
 ---
 
 ## **Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State**

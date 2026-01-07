@@ -1,6 +1,9 @@
 ---
-title: "Female Keep Separate: Prisons, Gender, and the Violence of Inclusion"
-category: "feminist-theory"
+title: 'Female Keep Separate: Prisons, Gender, and the Violence of Inclusion'
+category: feminist-theory
+tags:
+  - prisons
+  - feminism
 ---
 
 # **Female Keep Separate: Prisons, Gender, and the Violence of Inclusion**

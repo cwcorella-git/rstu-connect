@@ -1,8 +1,11 @@
 ---
-title: "assembly-bill-no-201"
-author: "Assembly Bill No"
-date: "2025"
-category: "legislation"
+title: assembly-bill-no-201
+author: Assembly Bill No
+date: '2025'
+category: legislation
+tags:
+  - legislation
+  - Nevada
 ---
 
 # assembly-bill-no-201

@@ -1,6 +1,9 @@
 ---
-title: "No plan for the Valley; No plan for the workers; No plan for the climate"
-category: "environmental-justice"
+title: No plan for the Valley; No plan for the workers; No plan for the climate
+category: environmental-justice
+tags:
+  - labor
+  - environment
 ---
 
 ## **No plan for the Valley; No plan for the workers; No plan for the climate**

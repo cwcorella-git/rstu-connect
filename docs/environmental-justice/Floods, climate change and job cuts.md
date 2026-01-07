@@ -1,6 +1,9 @@
 ---
-title: "Floods, climate change and job cuts"
-category: "environmental-justice"
+title: 'Floods, climate change and job cuts'
+category: environmental-justice
+tags:
+  - labor
+  - environment
 ---
 
 ## **Floods, climate change and job cuts**

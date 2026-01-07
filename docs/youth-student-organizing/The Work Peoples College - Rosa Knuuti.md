@@ -1,6 +1,10 @@
 ---
-title: "The Work Peoples College - Rosa Knuuti"
-category: "youth-student-organizing"
+title: The Work Peoples College - Rosa Knuuti
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 # **The Work Peoples College - Rosa Knuuti**

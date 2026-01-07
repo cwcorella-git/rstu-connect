@@ -1,6 +1,9 @@
 ---
-title: "Paperwrenching Prisons and Pipelines"
-category: "contemporary-analysis"
+title: Paperwrenching Prisons and Pipelines
+category: contemporary-analysis
+tags:
+  - prisons
+  - fossil fuels
 ---
 
 ## **Paperwrenching Prisons and Pipelines**

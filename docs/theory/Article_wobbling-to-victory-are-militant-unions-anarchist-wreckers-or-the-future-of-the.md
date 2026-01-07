@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "theory"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: theory
+tags:
+  - unions
+  - anarchism
 ---
 
 # Wobbling To Victory Are Militant Unions Anarchist Wreckers Or the Future of the

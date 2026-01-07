@@ -1,6 +1,9 @@
 ---
-title: "The Trail of Political Consciousness"
-category: "technology-digital-justice"
+title: The Trail of Political Consciousness
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 [starwars.fandom.com](https://starwars.fandom.com/wiki/The_Trail_of_Political_Consciousness)

@@ -1,8 +1,11 @@
 ---
-title: "How Nonviolence Protects The State"
-author: "Peter Gelderloos"
-date: "2007"
-category: "theory"
+title: How Nonviolence Protects The State
+author: Peter Gelderloos
+date: '2007'
+category: theory
+tags:
+  - nonviolence
+  - theory
 ---
 
 ## **Peter Gelderloos**

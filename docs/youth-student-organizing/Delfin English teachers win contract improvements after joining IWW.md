@@ -1,6 +1,9 @@
 ---
-title: "Delfin English teachers win contract improvements after joining IWW"
-category: "youth-student-organizing"
+title: Delfin English teachers win contract improvements after joining IWW
+category: youth-student-organizing
+tags:
+  - unions
+  - education
 ---
 
 ## **Delfin English teachers win contract improvements after joining IWW**

@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "It's Going Down"
-date: "2025"
-category: "labor"
+title: '>-'
+author: It's Going Down
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - unions
+  - education
 ---
 
 # The Teacher Strike in West Virginia Interview With Iww Teacher Michael Mochaidea

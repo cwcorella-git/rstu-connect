@@ -1,8 +1,10 @@
 ---
-title: "Can We Still Write Big Question Sorts of Books?"
-author: "David Graeber"
-date: "July 31, 2011"
-category: "arts-culture-music"
+title: Can We Still Write Big Question Sorts of Books?
+author: David Graeber
+date: 'July 31, 2011'
+category: arts-culture-music
+tags:
+  - Graeber
 ---
 
 About a year ago, I gave my old friend Keith Hart a draft of my new book, *Debt: The First 5000 Years*, and asked him what he thought of it. “It’s quite remarkable,” he ultimately replied. “I don’t think anyone has written a book like this in a hundred years.”

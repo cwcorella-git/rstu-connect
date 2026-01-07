@@ -1,6 +1,10 @@
 ---
-title: "Railroad Workers United calls for Just Transition"
-category: "feminist-theory"
+title: Railroad Workers United calls for Just Transition
+category: feminist-theory
+tags:
+  - labor
+  - just transition
+  - railroads
 ---
 
 ## **Railroad Workers United calls for Just Transition**

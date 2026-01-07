@@ -1,6 +1,12 @@
 ---
-title: "Labor Rallies Against Fossil Fuel At Climate Rally In Oakland on November 21, 2015"
-category: "labor"
+title: >-
+  Labor Rallies Against Fossil Fuel At Climate Rally In Oakland on November 21,
+  2015
+category: labor
+tags:
+  - labor
+  - environment
+  - fossil fuels
 ---
 
 ## **Labor Rallies Against Fossil Fuel At Climate Rally In Oakland on November 21, 2015**

@@ -1,8 +1,11 @@
 ---
-title: "Revolutionary Unionism Or White Workerism the Choice Facing the Iww"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Revolutionary Unionism Or White Workerism the Choice Facing the Iww
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
 ---
 
 # Revolutionary Unionism Or White Workerism the Choice Facing the Iww

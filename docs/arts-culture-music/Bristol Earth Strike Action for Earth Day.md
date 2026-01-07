@@ -1,6 +1,8 @@
 ---
-title: "Bristol Earth Strike: Action for Earth Day"
-category: "arts-culture-music"
+title: 'Bristol Earth Strike: Action for Earth Day'
+category: arts-culture-music
+tags:
+  - strikes
 ---
 
 ## **Bristol Earth Strike: Action for Earth Day**

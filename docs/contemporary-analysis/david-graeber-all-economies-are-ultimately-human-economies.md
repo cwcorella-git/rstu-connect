@@ -1,8 +1,10 @@
 ---
-title: "All Economies are Ultimately Human Economies"
-author: "David Graeber"
-date: "2015"
-category: "contemporary-analysis"
+title: All Economies are Ultimately Human Economies
+author: David Graeber
+date: '2015'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 They asked me to talk about human economies which is a phrase that actually originally developed in a book about anthropology. Noticing that money is used very different ways in different economies that anthropologists observed. There are places where money is used, as we do, primarily to get goods and services. There is also places where money is used mainly to rearrange social relations and you can’t buy and sell anything. An idea which is extremely odd and unfamiliar to most people. So I decided to call these human economies. But in a larger sense it occurs to me that all economies are really human economies. The strange thing about capitalism is that it is the only system that can make us forget this. And I was particularly struck by the confluence and thinking on this when I was in Rojava.

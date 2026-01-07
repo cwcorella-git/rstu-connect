@@ -1,6 +1,8 @@
 ---
-title: "March for Our Lives"
-category: "contemporary-analysis"
+title: March for Our Lives
+category: contemporary-analysis
+tags:
+  - protests
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Thunberg's Call for General Strikes: The Confusions of a Liberal Protest"
-category: "contemporary-analysis"
+title: 'Thunberg''s Call for General Strikes: The Confusions of a Liberal Protest'
+category: contemporary-analysis
+tags:
+  - general strikes
+  - protests
 ---
 
 ## **Thunberg's Call for General Strikes: The Confusions of a Liberal Protest**

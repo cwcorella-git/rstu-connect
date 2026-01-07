@@ -1,8 +1,10 @@
 ---
-title: "A Practical Utopian’s Guide to the Coming Collapse"
-author: "David Graeber"
-date: "April 2013"
-category: "contemporary-analysis"
+title: A Practical Utopian’s Guide to the Coming Collapse
+author: David Graeber
+date: April 2013
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 What is a revolution? We used to think we knew. Revolutions were seizures of power by popular forces aiming to transform the very nature of the political, social, and economic system in the country in which the revolution took place, usually according to some visionary dream of a just society. Nowadays, we live in an age when, if rebel armies do come sweeping into a city, or mass uprisings overthrow a dictator, it’s unlikely to have any such implications; when profound social transformation does occur—as with, say, the rise of feminism—it’s likely to take an entirely different form. It’s not that revolutionary dreams aren’t out there. But contemporary revolutionaries rarely think they can bring them into being by some modern-day equivalent of storming the Bastille.

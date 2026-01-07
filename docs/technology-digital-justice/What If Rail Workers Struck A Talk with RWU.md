@@ -1,6 +1,9 @@
 ---
-title: "What If Rail Workers Struck? A Talk with RWU"
-category: "technology-digital-justice"
+title: What If Rail Workers Struck? A Talk with RWU
+category: technology-digital-justice
+tags:
+  - labor
+  - railroads
 ---
 
 ## **What If Rail Workers Struck? A Talk with RWU**

@@ -1,8 +1,13 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # Overview Truckers Strike of 1934 Libguides At Minnesota Historical Society Libra

@@ -1,6 +1,10 @@
 ---
-title: "Frackville Prison's Systemic Water Crisis"
-category: "environmental-justice"
+title: Frackville Prison's Systemic Water Crisis
+category: environmental-justice
+tags:
+  - prisons
+  - environment
+  - climate
 ---
 
 ## **Frackville Prison's Systemic Water Crisis**

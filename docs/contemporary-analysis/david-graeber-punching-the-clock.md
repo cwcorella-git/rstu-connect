@@ -1,8 +1,10 @@
 ---
-title: "Punching the Clock"
-author: "David Graeber"
-date: "June 2018"
-category: "contemporary-analysis"
+title: Punching the Clock
+author: David Graeber
+date: June 2018
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 Everyone is familiar with the sorts of jobs whose purpose is difficult to discern: HR consultants, PR researchers, communications coordinators, financial strategists, logistics managers. The list is endless.

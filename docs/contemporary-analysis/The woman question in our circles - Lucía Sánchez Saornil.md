@@ -1,6 +1,8 @@
 ---
-title: "The woman question in our circles - Lucía Sánchez Saornil"
-category: "contemporary-analysis"
+title: The woman question in our circles - Lucía Sánchez Saornil
+category: contemporary-analysis
+tags:
+  - women
 ---
 
 ## **The woman question in our circles - Lucía Sánchez Saornil**

@@ -1,6 +1,8 @@
 ---
-title: "Global Capitalism and the Crisis of Humanity"
-category: "contemporary-analysis"
+title: Global Capitalism and the Crisis of Humanity
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 ## Global Capitalism and the Crisis of Humanity

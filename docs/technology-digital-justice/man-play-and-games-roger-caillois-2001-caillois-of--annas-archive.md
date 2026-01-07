@@ -1,6 +1,9 @@
 ---
-title: "*Psychological and Mathematical*"
-category: "technology-digital-justice"
+title: '*Psychological and Mathematical*'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ### Roger Caillois

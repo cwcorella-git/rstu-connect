@@ -1,6 +1,9 @@
 ---
-title: "Defend Your Community (Antifascism) | Rebel Steps"
-category: "contemporary-analysis"
+title: Defend Your Community (Antifascism) | Rebel Steps
+category: contemporary-analysis
+tags:
+  - community
+  - antifascism
 ---
 
 ## **Defend Your Community (Antifascism) | Rebel Steps**

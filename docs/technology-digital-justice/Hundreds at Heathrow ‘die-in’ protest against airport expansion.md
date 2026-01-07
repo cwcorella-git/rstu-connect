@@ -1,6 +1,10 @@
 ---
-title: "Hundreds at Heathrow 'die-in' protest against airport expansion"
-category: "technology-digital-justice"
+title: Hundreds at Heathrow 'die-in' protest against airport expansion
+category: technology-digital-justice
+tags:
+  - protests
+  - technology
+  - digital rights
 ---
 
 ## **Hundreds at Heathrow 'die-in' protest against airport expansion**

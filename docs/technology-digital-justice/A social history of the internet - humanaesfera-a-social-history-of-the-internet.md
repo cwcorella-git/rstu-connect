@@ -1,6 +1,10 @@
 ---
-title: "The Anarchist Library Anti-Copyright"
-category: "technology-digital-justice"
+title: The Anarchist Library Anti-Copyright
+category: technology-digital-justice
+tags:
+  - anarchism
+  - technology
+  - digital rights
 ---
 
 ## A social history of the internet

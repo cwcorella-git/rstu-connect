@@ -1,6 +1,11 @@
 ---
-title: "Getting Serious About Keeping Fossil Fuels in the Ground Means Getting Serious About a Just Tra"
-category: "feminist-theory"
+title: >-
+  Getting Serious About Keeping Fossil Fuels in the Ground Means Getting Serious
+  About a Just Tra
+category: feminist-theory
+tags:
+  - fossil fuels
+  - feminism
 ---
 
 ## **Getting Serious About Keeping Fossil Fuels in the Ground Means Getting Serious About a Just Transition**

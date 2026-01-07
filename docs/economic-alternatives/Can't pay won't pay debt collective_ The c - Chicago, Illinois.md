@@ -1,6 +1,9 @@
 ---
-title: "CANT MONT THE CASE FOR ECONOMIC DISOBEDIENCE"
-category: "economic-alternatives"
+title: CANT MONT THE CASE FOR ECONOMIC DISOBEDIENCE
+category: economic-alternatives
+tags:
+  - debt
+  - Chicago
 ---
 
 # CANT MONT THE CASE FOR ECONOMIC DISOBEDIENCE

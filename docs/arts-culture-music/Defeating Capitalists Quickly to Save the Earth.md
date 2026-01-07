@@ -1,6 +1,8 @@
 ---
-title: "## James Herod"
-category: "arts-culture-music"
+title: '## James Herod'
+category: arts-culture-music
+tags:
+  - capitalism
 ---
 
 ## James Herod

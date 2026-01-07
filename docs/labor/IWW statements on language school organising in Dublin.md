@@ -1,6 +1,9 @@
 ---
-title: "IWW statements on language school organising in Dublin"
-category: "labor"
+title: IWW statements on language school organising in Dublin
+category: labor
+tags:
+  - unions
+  - education
 ---
 
 ## **IWW statements on language school organising in Dublin**

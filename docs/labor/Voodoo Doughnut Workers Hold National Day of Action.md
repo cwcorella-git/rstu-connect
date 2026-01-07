@@ -1,6 +1,10 @@
 ---
-title: "Voodoo Doughnut Workers Hold National Day of Action"
-category: "labor"
+title: Voodoo Doughnut Workers Hold National Day of Action
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Voodoo Doughnut Workers Hold National Day of Action**

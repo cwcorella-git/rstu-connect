@@ -1,6 +1,9 @@
 ---
-title: "James Herod"
-category: "theory"
+title: James Herod
+category: theory
+tags:
+  - abolition
+  - theory
 ---
 
 # James Herod

@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Rudolf Rocker"
-date: "2013"
-category: "labor"
+title: '>-'
+author: Rudolf Rocker
+date: '2013'
+category: labor
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## **Helge Döhring with DC: Anarcho-Syndicalism Under and Against the Nazis, an Interview**

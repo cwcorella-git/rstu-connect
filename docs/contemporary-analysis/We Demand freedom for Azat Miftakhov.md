@@ -1,6 +1,8 @@
 ---
-title: "We Demand freedom for Azat Miftakhov"
-category: "contemporary-analysis"
+title: We Demand freedom for Azat Miftakhov
+category: contemporary-analysis
+tags:
+  - liberty
 ---
 
 ## **We Demand freedom for Azat Miftakhov**

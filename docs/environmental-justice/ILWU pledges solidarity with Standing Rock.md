@@ -1,6 +1,10 @@
 ---
-title: "ILWU pledges solidarity with Standing Rock"
-category: "environmental-justice"
+title: ILWU pledges solidarity with Standing Rock
+category: environmental-justice
+tags:
+  - solidarity
+  - environment
+  - climate
 ---
 
 ## **ILWU pledges solidarity with Standing Rock**

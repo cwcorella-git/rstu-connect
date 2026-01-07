@@ -1,6 +1,10 @@
 ---
-title: "Strike and protests against Macron's employment law"
-category: "technology-digital-justice"
+title: Strike and protests against Macron's employment law
+category: technology-digital-justice
+tags:
+  - strikes
+  - protests
+  - labor
 ---
 
 ## **Strike and protests against Macron's employment law**

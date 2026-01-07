@@ -1,6 +1,8 @@
 ---
-title: "Coming out of isolation stronger: advice from a long-term prisoner"
-category: "contemporary-analysis"
+title: 'Coming out of isolation stronger: advice from a long-term prisoner'
+category: contemporary-analysis
+tags:
+  - prisons
 ---
 
 ## **Coming out of isolation stronger: advice from a long-term prisoner**

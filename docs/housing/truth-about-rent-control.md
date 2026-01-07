@@ -1,8 +1,11 @@
 ---
-title: "The Truth About 'The Truth About Rent Control"
-author: "RSTU Research Team"
-date: "2025-08-20"
-category: "housing"
+title: The Truth About 'The Truth About Rent Control
+author: RSTU Research Team
+date: '2025-08-20'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # The Truth About "The Truth About Rent Control"

@@ -1,8 +1,11 @@
 ---
-title: "About The Organization Of Anarchists In Ukraine: Point Of View Of A Member"
-author: "Unknown"
-date: "2025"
-category: "theory"
+title: 'About The Organization Of Anarchists In Ukraine: Point Of View Of A Member'
+author: Unknown
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - Ukraine
 ---
 
 # About The Organization Of Anarchists In Ukraine Point Of View Of A Member Of A L

@@ -1,6 +1,11 @@
 ---
-title: "IWW Deliveroo riders strike and blockade in London"
-category: "contemporary-analysis"
+title: IWW Deliveroo riders strike and blockade in London
+category: contemporary-analysis
+tags:
+  - strikes
+  - blockades
+  - unions
+  - gig economy
 ---
 
 ## **IWW Deliveroo riders strike and blockade in London**

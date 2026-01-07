@@ -1,8 +1,11 @@
 ---
-title: "An Anarchist Faq"
-author: "Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay"
-date: "2025"
-category: "theory"
+title: An Anarchist Faq
+author: 'Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay'
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # An Anarchist Faq

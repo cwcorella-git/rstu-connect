@@ -1,6 +1,10 @@
 ---
-title: "What Games Are"
-category: "technology-digital-justice"
+title: What Games Are
+category: technology-digital-justice
+tags:
+  - gig economy
+  - technology
+  - digital rights
 ---
 
 # **[What Games Are](https://web.archive.org/web/20250913085734/https://www.whatgamesare.com/)**

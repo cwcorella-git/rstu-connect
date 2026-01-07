@@ -1,6 +1,10 @@
 ---
-title: "RWU Statement Upon the Acquittal of Canadian Railroad Workers"
-category: "technology-digital-justice"
+title: RWU Statement Upon the Acquittal of Canadian Railroad Workers
+category: technology-digital-justice
+tags:
+  - labor
+  - railroads
+  - Canada
 ---
 
 ## **RWU Statement Upon the Acquittal of Canadian Railroad Workers**

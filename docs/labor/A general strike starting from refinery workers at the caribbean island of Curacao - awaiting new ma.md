@@ -1,6 +1,12 @@
 ---
-title: "A general strike starting from refinery workers at the caribbean island of Curacao - awaiting n"
-category: "arts-culture-music"
+title: >-
+  A general strike starting from refinery workers at the caribbean island of
+  Curacao - awaiting n
+category: arts-culture-music
+tags:
+  - general strikes
+  - strikes
+  - labor
 ---
 
 ## **A general strike starting from refinery workers at the caribbean island of Curacao - awaiting new masters from China**

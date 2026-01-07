@@ -1,8 +1,11 @@
 ---
-title: "The Cyber Anarchist Manifesto"
-author: "Timothy C. May"
-date: "2025"
-category: "theory"
+title: The Cyber Anarchist Manifesto
+author: Timothy C. May
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # The Cyber Anarchist Manifesto

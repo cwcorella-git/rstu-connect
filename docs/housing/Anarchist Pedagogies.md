@@ -1,8 +1,12 @@
 ---
-title: "Anarchist Pedagogies"
-author: "Robert H. Haworth"
-date: "2012"
-category: "housing"
+title: Anarchist Pedagogies
+author: Robert H. Haworth
+date: '2012'
+category: housing
+tags:
+  - anarchism
+  - housing
+  - tenants
 ---
 
 # **Robert H. Haworth**

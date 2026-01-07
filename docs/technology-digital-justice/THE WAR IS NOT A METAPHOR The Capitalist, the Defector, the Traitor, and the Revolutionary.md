@@ -1,6 +1,11 @@
 ---
-title: "THE WAR IS NOT A METAPHOR: The Capitalist, the Defector, the Traitor, and the Revolutionary"
-category: "technology-digital-justice"
+title: >-
+  THE WAR IS NOT A METAPHOR: The Capitalist, the Defector, the Traitor, and the
+  Revolutionary
+category: technology-digital-justice
+tags:
+  - anti-war
+  - capitalism
 ---
 
 # **THE WAR IS NOT A METAPHOR: The Capitalist, the Defector, the Traitor, and the Revolutionary**

@@ -1,6 +1,9 @@
 ---
-title: "## Radial Agriulture"
-category: "arts-culture-music"
+title: '## Radial Agriulture'
+category: arts-culture-music
+tags:
+  - food
+  - Bookchin
 ---
 
 ## Radial Agriulture

@@ -1,6 +1,8 @@
 ---
-title: "Civil Disobedience"
-category: "contemporary-analysis"
+title: Civil Disobedience
+category: contemporary-analysis
+tags:
+  - civil disobedience
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

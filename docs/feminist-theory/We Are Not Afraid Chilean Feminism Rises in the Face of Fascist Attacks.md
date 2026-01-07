@@ -1,6 +1,8 @@
 ---
-title: "We Are Not Afraid: Chilean Feminism Rises in the Face of Fascist Attacks"
-category: "feminist-theory"
+title: 'We Are Not Afraid: Chilean Feminism Rises in the Face of Fascist Attacks'
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **We Are Not Afraid: Chilean Feminism Rises in the Face of Fascist Attacks**

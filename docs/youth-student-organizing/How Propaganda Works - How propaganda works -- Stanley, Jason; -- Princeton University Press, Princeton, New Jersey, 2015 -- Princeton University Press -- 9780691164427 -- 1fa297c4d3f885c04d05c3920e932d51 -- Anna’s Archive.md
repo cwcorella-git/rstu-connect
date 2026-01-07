@@ -1,6 +1,9 @@
 ---
-title: "HOW"
-category: "youth-student-organizing"
+title: HOW
+category: youth-student-organizing
+tags:
+  - students
+  - youth
 ---
 
 ## HOW PROPAGANDA WORKS

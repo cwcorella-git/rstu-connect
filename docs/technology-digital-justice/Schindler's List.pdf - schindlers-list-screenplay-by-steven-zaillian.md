@@ -1,6 +1,9 @@
 ---
-title: "SCHINDLER"
-category: "technology-digital-justice"
+title: SCHINDLER
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## SCHINDLER'S LIST

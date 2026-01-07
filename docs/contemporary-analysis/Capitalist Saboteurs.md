@@ -1,6 +1,8 @@
 ---
-title: "Capitalist Saboteurs"
-category: "contemporary-analysis"
+title: Capitalist Saboteurs
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 ## **Capitalist Saboteurs**

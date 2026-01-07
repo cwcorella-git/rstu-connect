@@ -1,6 +1,10 @@
 ---
-title: "Murray Bookchin"
-category: "environmental-justice"
+title: Murray Bookchin
+category: environmental-justice
+tags:
+  - environment
+  - liberty
+  - Bookchin
 ---
 
 # **Murray Bookchin**

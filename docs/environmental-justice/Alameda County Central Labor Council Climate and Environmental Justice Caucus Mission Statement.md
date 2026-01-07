@@ -1,6 +1,11 @@
 ---
-title: "Alameda County Central Labor Council Climate and Environmental Justice Caucus Mission Statement"
-category: "labor"
+title: >-
+  Alameda County Central Labor Council Climate and Environmental Justice Caucus
+  Mission Statement
+category: labor
+tags:
+  - labor
+  - environment
 ---
 
 ## **Alameda County Central Labor Council Climate and Environmental Justice Caucus Mission Statement**

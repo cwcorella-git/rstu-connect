@@ -1,8 +1,13 @@
 ---
-title: "5 Reasons Why College Should Be Free   Uopeople"
-author: "Global Nonviolent Action Database"
-date: "2023"
-category: "labor"
+title: 5 Reasons Why College Should Be Free   Uopeople
+author: Global Nonviolent Action Database
+date: '2023'
+category: labor
+tags:
+  - education
+  - labor
+  - unions
+  - workers
 ---
 
 #### [uopeople.edu](https://www.uopeople.edu/blog/5-reasons-why-college-should-be-free/)

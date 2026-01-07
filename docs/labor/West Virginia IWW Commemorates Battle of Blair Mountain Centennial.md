@@ -1,6 +1,10 @@
 ---
-title: "West Virginia IWW Commemorates Battle of Blair Mountain Centennial"
-category: "labor"
+title: West Virginia IWW Commemorates Battle of Blair Mountain Centennial
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **West Virginia IWW Commemorates Battle of Blair Mountain Centennial**

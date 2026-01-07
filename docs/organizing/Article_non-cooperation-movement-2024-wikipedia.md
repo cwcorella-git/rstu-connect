@@ -1,8 +1,11 @@
 ---
-title: "Non Cooperation Movement 2024 Wikipedia"
-author: "Wikipedia"
-date: "2025"
-category: "organizing"
+title: Non Cooperation Movement 2024 Wikipedia
+author: Wikipedia
+date: '2025'
+category: organizing
+tags:
+  - civil disobedience
+  - organizing
 ---
 
 # Non Cooperation Movement 2024 Wikipedia

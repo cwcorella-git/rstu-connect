@@ -1,6 +1,10 @@
 ---
-title: "Durham Teaching Assistants – Not Finished Yet?"
-category: "labor"
+title: Durham Teaching Assistants – Not Finished Yet?
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Durham Teaching Assistants – Not Finished Yet?**

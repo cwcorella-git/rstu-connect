@@ -1,6 +1,9 @@
 ---
-title: "Workers at Berkeley's Ecology Center aim to unionize"
-category: "environmental-justice"
+title: Workers at Berkeley's Ecology Center aim to unionize
+category: environmental-justice
+tags:
+  - labor
+  - environment
 ---
 
 ## **Workers at Berkeley's Ecology Center aim to unionize**

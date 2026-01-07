@@ -1,6 +1,9 @@
 ---
-title: "Airport expansion is a racist policy"
-category: "technology-digital-justice"
+title: Airport expansion is a racist policy
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Airport expansion is a racist policy**

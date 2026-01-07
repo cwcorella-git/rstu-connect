@@ -1,8 +1,12 @@
 ---
-title: "A Black Autonomy Reader Reader Seditionist Distribution"
-author: "Housing Advocacy Organization"
-date: "2024"
-category: "housing"
+title: A Black Autonomy Reader Reader Seditionist Distribution
+author: Housing Advocacy Organization
+date: '2024'
+category: housing
+tags:
+  - autonomy
+  - housing
+  - tenants
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "The Structure of Proletarian Unfreedom*"
-category: "contemporary-analysis"
+title: The Structure of Proletarian Unfreedom*
+category: contemporary-analysis
+tags:
+  - liberty
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

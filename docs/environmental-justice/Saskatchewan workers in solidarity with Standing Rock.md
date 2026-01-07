@@ -1,6 +1,9 @@
 ---
-title: "Saskatchewan workers in solidarity with Standing Rock"
-category: "environmental-justice"
+title: Saskatchewan workers in solidarity with Standing Rock
+category: environmental-justice
+tags:
+  - solidarity
+  - labor
 ---
 
 ## **Saskatchewan workers in solidarity with Standing Rock**

@@ -1,6 +1,10 @@
 ---
-title: "Power to the people: A welcome prison victory in Ohio (January 2011)"
-category: "contemporary-analysis"
+title: 'Power to the people: A welcome prison victory in Ohio (January 2011)'
+category: contemporary-analysis
+tags:
+  - prisons
+  - abolition
+  - police
 ---
 
 ## **Power to the people: A welcome prison victory in Ohio (January 2011)**

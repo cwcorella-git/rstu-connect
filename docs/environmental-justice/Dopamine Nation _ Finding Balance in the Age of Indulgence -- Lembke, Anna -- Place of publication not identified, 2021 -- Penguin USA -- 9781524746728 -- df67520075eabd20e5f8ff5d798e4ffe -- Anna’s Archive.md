@@ -1,6 +1,9 @@
 ---
-title: "dopamine"
-category: "environmental-justice"
+title: dopamine
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # dopamine

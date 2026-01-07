@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - Russia
 ---
 
 # Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed Desert

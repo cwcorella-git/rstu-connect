@@ -1,6 +1,9 @@
 ---
-title: "Quiet Rumours: An Anarcha-Feminist Reader, 2012 Edition"
-category: "feminist-theory"
+title: 'Quiet Rumours: An Anarcha-Feminist Reader, 2012 Edition'
+category: feminist-theory
+tags:
+  - anarchism
+  - feminism
 ---
 
 ## **Quiet Rumours: An Anarcha-Feminist Reader, 2012 Edition**

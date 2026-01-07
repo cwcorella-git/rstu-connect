@@ -1,8 +1,11 @@
 ---
-title: "America’s Kurdish allies risk being wiped out – by Nato"
-author: "David Graeber"
-date: "1<sup>st</sup> February 2019"
-category: "contemporary-analysis"
+title: America’s Kurdish allies risk being wiped out – by Nato
+author: David Graeber
+date: 1<sup>st</sup> February 2019
+category: contemporary-analysis
+tags:
+  - Graeber
+  - Kurdistan
 ---
 
 Remember those plucky Kurdish forces who so heroically defended the Syrian city of Kobane from Isis? They risk being wiped out by Nato.

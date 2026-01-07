@@ -1,6 +1,9 @@
 ---
-title: "Deschooling Society"
-category: "theory"
+title: Deschooling Society
+category: theory
+tags:
+  - education
+  - theory
 ---
 
 ## **Ivan Illich**

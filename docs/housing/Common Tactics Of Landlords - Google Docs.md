@@ -1,8 +1,11 @@
 ---
-title: "Common Tactics Of Landlords - Google Docs"
-author: "Google Docs"
-date: "2025"
-category: "housing"
+title: Common Tactics Of Landlords - Google Docs
+author: Google Docs
+date: '2025'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # Common Tactics Of Landlords - Google Docs

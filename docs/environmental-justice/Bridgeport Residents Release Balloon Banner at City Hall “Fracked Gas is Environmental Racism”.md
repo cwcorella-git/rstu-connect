@@ -1,6 +1,13 @@
 ---
-title: "Bridgeport Residents Release Balloon Banner at City Hall: 'Fracked Gas is Environmental Racism"
-category: "environmental-justice"
+title: >-
+  Bridgeport Residents Release Balloon Banner at City Hall: 'Fracked Gas is
+  Environmental Racism
+category: environmental-justice
+tags:
+  - environment
+  - racial justice
+  - urban
+  - fossil fuels
 ---
 
 ## **Bridgeport Residents Release Balloon Banner at City Hall: "Fracked Gas is Environmental Racism"**

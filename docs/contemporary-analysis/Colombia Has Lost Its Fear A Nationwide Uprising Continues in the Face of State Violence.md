@@ -1,6 +1,10 @@
 ---
-title: "Colombia Has Lost Its Fear: A Nationwide Uprising Continues in the Face of State Violence"
-category: "contemporary-analysis"
+title: >-
+  Colombia Has Lost Its Fear: A Nationwide Uprising Continues in the Face of
+  State Violence
+category: contemporary-analysis
+tags:
+  - riots
 ---
 
 ## **Colombia Has Lost Its Fear: A Nationwide Uprising Continues in the Face of State Violence**

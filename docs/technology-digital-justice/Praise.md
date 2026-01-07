@@ -1,6 +1,9 @@
 ---
-title: "Praise"
-category: "technology-digital-justice"
+title: Praise
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

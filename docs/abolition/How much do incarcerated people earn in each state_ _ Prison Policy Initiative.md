@@ -1,6 +1,9 @@
 ---
-title: "[prisonpolicy.org](https://www.prisonpolicy.org/blog/2017/04/10/wages/)"
-category: "contemporary-analysis"
+title: '[prisonpolicy.org](https://www.prisonpolicy.org/blog/2017/04/10/wages/)'
+category: contemporary-analysis
+tags:
+  - prisons
+  - labor
 ---
 
 [prisonpolicy.org](https://www.prisonpolicy.org/blog/2017/04/10/wages/)

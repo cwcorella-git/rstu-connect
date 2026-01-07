@@ -1,6 +1,9 @@
 ---
-title: "Pëtr Kropotkin"
-category: "contemporary-analysis"
+title: Pëtr Kropotkin
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Kropotkin
 ---
 
 ## **Pëtr Kropotkin**

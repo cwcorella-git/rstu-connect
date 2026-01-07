@@ -1,8 +1,10 @@
 ---
-title: "Property Data Gaps"
-author: "Reno Sparks Tenants Union"
-date: "2025"
-category: "notes"
+title: Property Data Gaps
+author: Reno Sparks Tenants Union
+date: '2025'
+category: notes
+tags:
+  - property
 ---
 
 # Property Data Gaps

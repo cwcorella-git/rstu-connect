@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Black Rose"
-date: "2025"
-category: "abolition"
+title: '>-'
+author: Black Rose
+date: '2025'
+category: abolition
+tags:
+  - protests
+  - anarchism
+  - police
 ---
 
 # Interview Iranian Anarchists On Protests in Response To Police Murder of Mahsa a

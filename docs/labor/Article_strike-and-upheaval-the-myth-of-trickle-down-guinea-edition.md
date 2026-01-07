@@ -1,8 +1,13 @@
 ---
-title: "Strike And Upheaval The Myth Of Trickle Down Guinea Edition"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: Strike And Upheaval The Myth Of Trickle Down Guinea Edition
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # Strike And Upheaval The Myth Of Trickle Down Guinea Edition

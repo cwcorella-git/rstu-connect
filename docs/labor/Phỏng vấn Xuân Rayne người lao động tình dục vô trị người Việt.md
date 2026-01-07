@@ -1,6 +1,10 @@
 ---
-title: "Ph■ng v■n Xuân Rayne: ng■■i lao ■■ng tình d■c vô tr■ ng■■i Vi■t"
-category: "labor"
+title: 'Ph■ng v■n Xuân Rayne: ng■■i lao ■■ng tình d■c vô tr■ ng■■i Vi■t'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Ph**■**ng v**■**n Xuân Rayne: ng**■■**i lao** ■■**ng tình d**■**c vô tr**■ **ng**■■**i Vi**■**t**

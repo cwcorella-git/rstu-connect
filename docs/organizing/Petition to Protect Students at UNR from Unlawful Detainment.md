@@ -1,8 +1,11 @@
 ---
-title: "Petition to Protect Students at UNR from Unlawful Detainment"
-author: "Unknown"
-date: "2025"
-category: "organizing"
+title: Petition to Protect Students at UNR from Unlawful Detainment
+author: Unknown
+date: '2025'
+category: organizing
+tags:
+  - education
+  - organizing
 ---
 
 # Petition to Protect Students at UNR from Unlawful Detainment

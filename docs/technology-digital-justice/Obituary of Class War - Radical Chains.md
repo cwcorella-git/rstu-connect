@@ -1,6 +1,9 @@
 ---
-title: "Obituary of Class War - Radical Chains"
-category: "technology-digital-justice"
+title: Obituary of Class War - Radical Chains
+category: technology-digital-justice
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Obituary of Class War - Radical Chains**

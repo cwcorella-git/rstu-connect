@@ -1,6 +1,8 @@
 ---
-title: "Solidarity Journal #13 Winter 1986/7"
-category: "contemporary-analysis"
+title: 'Solidarity Journal #13 Winter 1986/7'
+category: contemporary-analysis
+tags:
+  - solidarity
 ---
 
 ## **Solidarity Journal #13 Winter 1986/7**

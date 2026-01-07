@@ -1,6 +1,9 @@
 ---
-title: "Make Your Own Tea: Women's Realm and Other Recipes and Patterns"
-category: "feminist-theory"
+title: 'Make Your Own Tea: Women''s Realm and Other Recipes and Patterns'
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **Make Your Own Tea: Women's Realm and Other Recipes and Patterns**

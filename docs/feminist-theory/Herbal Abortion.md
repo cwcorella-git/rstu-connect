@@ -1,6 +1,9 @@
 ---
-title: "Herbal Abortion a woman's d.i.y. guide"
-category: "theory"
+title: Herbal Abortion a woman's d.i.y. guide
+category: theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **Annwen**

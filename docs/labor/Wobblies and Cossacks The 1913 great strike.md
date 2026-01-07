@@ -1,6 +1,9 @@
 ---
-title: "Wobblies and Cossacks: The 1913 great strike"
-category: "contemporary-analysis"
+title: 'Wobblies and Cossacks: The 1913 great strike'
+category: contemporary-analysis
+tags:
+  - strikes
+  - unions
 ---
 
 ## **Wobblies and Cossacks: The 1913 great strike**

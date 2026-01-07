@@ -1,8 +1,11 @@
 ---
-title: "A Short Introduction To Anarchist Communism"
-author: "Anarchist Federation (of Britain)"
-date: "2025"
-category: "theory"
+title: A Short Introduction To Anarchist Communism
+author: Anarchist Federation (of Britain)
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # A Short Introduction To Anarchist Communism

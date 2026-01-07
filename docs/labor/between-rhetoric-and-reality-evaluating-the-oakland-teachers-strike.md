@@ -1,8 +1,11 @@
 ---
-title: "Between Rhetoric and Reality Evaluating the Oakland Teachers Strike"
-author: "Between Rhetoric And"
-date: "2025"
-category: "labor"
+title: Between Rhetoric and Reality Evaluating the Oakland Teachers Strike
+author: Between Rhetoric And
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - education
 ---
 
 # Between Rhetoric and Reality Evaluating the Oakland Teachers Strike

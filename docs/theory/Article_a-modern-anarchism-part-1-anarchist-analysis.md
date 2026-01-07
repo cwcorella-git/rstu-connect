@@ -1,8 +1,11 @@
 ---
-title: "A Modern Anarchism Part 1 Anarchist Analysis"
-author: "Rudolf Rocker"
-date: "2025"
-category: "theory"
+title: A Modern Anarchism Part 1 Anarchist Analysis
+author: Rudolf Rocker
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # A Modern Anarchism Part 1 Anarchist Analysis

@@ -1,6 +1,8 @@
 ---
-title: "A Decade of Train Wrecks: What Has Gone Wrong?"
-category: "theory"
+title: 'A Decade of Train Wrecks: What Has Gone Wrong?'
+category: theory
+tags:
+  - theory
 ---
 
 # **A Decade of Train Wrecks: What Has Gone Wrong?**

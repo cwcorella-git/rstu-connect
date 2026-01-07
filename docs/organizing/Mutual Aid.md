@@ -1,8 +1,11 @@
 ---
-title: "Mutual Aid"
-author: "Dean Spade"
-date: "2020"
-category: "organizing"
+title: Mutual Aid
+author: Dean Spade
+date: '2020'
+category: organizing
+tags:
+  - mutual aid
+  - organizing
 ---
 
 # **Dean Spade**

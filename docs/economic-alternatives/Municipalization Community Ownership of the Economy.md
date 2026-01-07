@@ -1,6 +1,9 @@
 ---
-title: "Municipalization: Community Ownership of the Economy"
-category: "economic-alternatives"
+title: 'Municipalization: Community Ownership of the Economy'
+category: economic-alternatives
+tags:
+  - community
+  - urban
 ---
 
 ## **Municipalization: Community Ownership of the Economy**

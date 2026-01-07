@@ -1,6 +1,12 @@
 ---
-title: "My thoughts after attending the 'Workers Rising Everywhere' training: A critique of the Mc Alev"
-category: "labor"
+title: >-
+  My thoughts after attending the 'Workers Rising Everywhere' training: A
+  critique of the Mc Alev
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **My thoughts after attending the "Workers Rising Everywhere" training: A critique of the Mc Alevey organising model**

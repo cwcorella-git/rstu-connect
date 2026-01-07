@@ -1,8 +1,12 @@
 ---
-title: "The Abolition Of Prison Jacques Lesage De"
-author: "Jacques Lesage de La Haye"
-date: "2019"
-category: "abolition"
+title: The Abolition Of Prison Jacques Lesage De
+author: Jacques Lesage de La Haye
+date: '2019'
+category: abolition
+tags:
+  - prisons
+  - abolition
+  - Los Angeles
 ---
 
 # THE ABOLITION OF PRISON

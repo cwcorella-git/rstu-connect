@@ -1,6 +1,10 @@
 ---
-title: "Socialize the Railways!"
-category: "technology-digital-justice"
+title: Socialize the Railways!
+category: technology-digital-justice
+tags:
+  - railroads
+  - technology
+  - digital rights
 ---
 
 ## **Socialize the Railways!**

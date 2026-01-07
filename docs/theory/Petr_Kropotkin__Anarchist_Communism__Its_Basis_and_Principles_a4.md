@@ -1,8 +1,11 @@
 ---
-title: "Petr Kropotkin  Anarchist Communism  Its Basis And Principles A4"
-author: "Pëtr Kropotkin"
-date: "1927"
-category: "theory"
+title: Petr Kropotkin  Anarchist Communism  Its Basis And Principles A4
+author: Pëtr Kropotkin
+date: '1927'
+category: theory
+tags:
+  - anarchism
+  - Kropotkin
 ---
 
 # **Anarchist Communism: Its Basis and Principles**

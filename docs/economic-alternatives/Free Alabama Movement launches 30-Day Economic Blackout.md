@@ -1,6 +1,9 @@
 ---
-title: "Free Alabama Movement launches 30-Day Economic Blackout"
-category: "economic-alternatives"
+title: Free Alabama Movement launches 30-Day Economic Blackout
+category: economic-alternatives
+tags:
+  - economics
+  - alternatives
 ---
 
 ## **Free Alabama Movement launches 30-Day Economic Blackout**

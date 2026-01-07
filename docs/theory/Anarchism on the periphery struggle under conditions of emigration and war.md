@@ -1,8 +1,12 @@
 ---
-title: "Anarchism On The Periphery Struggle Under Conditions Of Emigration And War"
-author: "Alexander Herzen"
-date: "2020"
-category: "theory"
+title: Anarchism On The Periphery Struggle Under Conditions Of Emigration And War
+author: Alexander Herzen
+date: '2020'
+category: theory
+tags:
+  - anarchism
+  - immigration
+  - anti-war
 ---
 
 ## **Anarchism on the periphery: struggle under conditions of emigration and war**

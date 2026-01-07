@@ -1,6 +1,9 @@
 ---
-title: "November 15: Class war, memory war! - Proletarios Revolucionarios"
-category: "anti-war-peace"
+title: 'November 15: Class war, memory war! - Proletarios Revolucionarios'
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **November 15: Class war, memory war! - Proletarios Revolucionarios**

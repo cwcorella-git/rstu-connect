@@ -1,6 +1,10 @@
 ---
-title: "Voodoo Employees Wrongly Fired During June Heat Wave, Labor Board Rules"
-category: "contemporary-analysis"
+title: 'Voodoo Employees Wrongly Fired During June Heat Wave, Labor Board Rules'
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Voodoo Employees Wrongly Fired During June Heat Wave, Labor Board Rules**

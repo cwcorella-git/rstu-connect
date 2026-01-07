@@ -1,6 +1,9 @@
 ---
-title: "Dakota Access opens rift in AFL-CIO and debate within labor movement"
-category: "labor"
+title: Dakota Access opens rift in AFL-CIO and debate within labor movement
+category: labor
+tags:
+  - unions
+  - labor
 ---
 
 ## **Dakota Access opens rift in AFL-CIO and debate within labor movement**

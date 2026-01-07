@@ -1,6 +1,12 @@
 ---
-title: "Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida"
-category: "contemporary-analysis"
+title: >-
+  Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and
+  Lockdowns across Florida
+category: contemporary-analysis
+tags:
+  - strikes
+  - riots
+  - prisons
 ---
 
 ## **Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida**

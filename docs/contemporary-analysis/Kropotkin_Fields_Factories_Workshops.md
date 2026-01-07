@@ -1,6 +1,8 @@
 ---
-title: "Fields, Factories and Workshops Tomorrow"
-category: "contemporary-analysis"
+title: 'Fields, Factories and Workshops Tomorrow'
+category: contemporary-analysis
+tags:
+  - Kropotkin
 ---
 
 # Fields, Factories and Workshops Tomorrow

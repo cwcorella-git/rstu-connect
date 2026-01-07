@@ -1,8 +1,12 @@
 ---
-title: "Upcoming Events"
-author: "Reno Sparks Tenants Union"
-date: "2025"
-category: "housing"
+title: Upcoming Events
+author: Reno Sparks Tenants Union
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - unions
+  - Nevada
 ---
 
 Upcoming Events - Reno Sparks Tenants Union Skip to content

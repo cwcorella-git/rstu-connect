@@ -1,6 +1,8 @@
 ---
-title: "POEMS"
-category: "feminist-theory"
+title: POEMS
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

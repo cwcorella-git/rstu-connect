@@ -1,8 +1,12 @@
 ---
-title: "Reno-Sparks Tenant Union Presentation.pptx"
-author: "Shelterforce"
-date: "2017"
-category: "housing"
+title: Reno-Sparks Tenant Union Presentation.pptx
+author: Shelterforce
+date: '2017'
+category: housing
+tags:
+  - tenants
+  - unions
+  - Nevada
 ---
 
 # Reno-Sparks Tenant Union Presentation.pptx.pdf

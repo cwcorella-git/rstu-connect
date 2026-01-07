@@ -1,6 +1,10 @@
 ---
-title: "Russian anti-war direct action in the second war spring. Part 21"
-category: "arts-culture-music"
+title: Russian anti-war direct action in the second war spring. Part 21
+category: arts-culture-music
+tags:
+  - direct action
+  - anti-war
+  - Russia
 ---
 
 ## **Russian anti-war direct action in the second war spring. Part 21**

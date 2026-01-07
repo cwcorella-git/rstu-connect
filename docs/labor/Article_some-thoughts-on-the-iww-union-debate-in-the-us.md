@@ -1,8 +1,12 @@
 ---
-title: "Some Thoughts On the Iww Union Debate in the Us"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Some Thoughts On the Iww Union Debate in the Us
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # Some Thoughts On the Iww Union Debate in the Us

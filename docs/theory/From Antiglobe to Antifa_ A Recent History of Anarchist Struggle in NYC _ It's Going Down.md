@@ -1,6 +1,12 @@
 ---
-title: "## [itsgoingdown.org](https://itsgoingdown.org/from-antiglobe-to-antifa-a-recent-history-of-anarchis"
-category: "contemporary-analysis"
+title: >-
+  ##
+  [itsgoingdown.org](https://itsgoingdown.org/from-antiglobe-to-antifa-a-recent-history-of-anarchis
+category: contemporary-analysis
+tags:
+  - anarchism
+  - antifascism
+  - New York
 ---
 
 ## [itsgoingdown.org](https://itsgoingdown.org/from-antiglobe-to-antifa-a-recent-history-of-anarchist-struggle-in-nyc/)

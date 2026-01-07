@@ -1,8 +1,12 @@
 ---
-title: "Hubs Of Antifascism: The Spanish Anarchist Press In The United States"
-author: "Rudolf Rocker"
-date: "2025"
-category: "theory"
+title: 'Hubs Of Antifascism: The Spanish Anarchist Press In The United States'
+author: Rudolf Rocker
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - antifascism
+  - Spain
 ---
 
 # Hubs Of Antifascism The Spanish Anarchist Press In The United States Montse Feu

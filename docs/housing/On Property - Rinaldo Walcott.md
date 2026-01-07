@@ -1,8 +1,12 @@
 ---
-title: "On Property Rinaldo Walcott"
-author: "Rinaldo Walcott"
-date: "2020"
-category: "housing"
+title: On Property Rinaldo Walcott
+author: Rinaldo Walcott
+date: '2020'
+category: housing
+tags:
+  - property
+  - housing
+  - tenants
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Northeast Ohio Protestors Demand Justice for East Palestine"
-category: "international-solidarity"
+title: Northeast Ohio Protestors Demand Justice for East Palestine
+category: international-solidarity
+tags:
+  - protests
+  - Palestine
 ---
 
 ## **Northeast Ohio Protestors Demand Justice for East Palestine**

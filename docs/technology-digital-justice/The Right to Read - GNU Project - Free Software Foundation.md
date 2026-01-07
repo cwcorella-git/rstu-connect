@@ -1,6 +1,9 @@
 ---
-title: "[gnu.org](https://www.gnu.org/philosophy/right-to-read.html)"
-category: "technology-digital-justice"
+title: '[gnu.org](https://www.gnu.org/philosophy/right-to-read.html)'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 [gnu.org](https://www.gnu.org/philosophy/right-to-read.html)

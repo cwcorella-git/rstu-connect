@@ -1,6 +1,9 @@
 ---
-title: "1920: Turin General Strike"
-category: "labor"
+title: '1920: Turin General Strike'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1920: Turin General Strike**

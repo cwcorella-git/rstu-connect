@@ -1,6 +1,8 @@
 ---
-title: "Bookchin"
-category: "arts-culture-music"
+title: Bookchin
+category: arts-culture-music
+tags:
+  - Bookchin
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

@@ -1,8 +1,11 @@
 ---
-title: "불가리아 아나키즘적 코뮌주의자 연방 강령 Program of the Bulgarian Anarchist Communist Federation"
-author: "Federatsia na Anarkho Komunistite ot Balgaria Source"
-date: "2025"
-category: "theory"
+title: 불가리아 아나키즘적 코뮌주의자 연방 강령 Program of the Bulgarian Anarchist Communist Federation
+author: Federatsia na Anarkho Komunistite ot Balgaria Source
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - socialism
 ---
 
 # 불가리아 아나키즘적 코뮌주의자 연방 강령 Program of the Bulgarian Anarchist Communist Federation

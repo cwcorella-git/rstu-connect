@@ -1,6 +1,10 @@
 ---
-title: "[designboom.com](https://www.designboom.com/architecture/hassell-nagami-toorg-3d-printed-public-pavi"
-category: "environmental-justice"
+title: >-
+  [designboom.com](https://www.designboom.com/architecture/hassell-nagami-toorg-3d-printed-public-pavi
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 [designboom.com](https://www.designboom.com/architecture/hassell-nagami-toorg-3d-printed-public-pavilion-prototype-03-14-2023/)

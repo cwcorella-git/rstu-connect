@@ -1,6 +1,11 @@
 ---
-title: "The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War"
-category: "feminist-theory"
+title: >-
+  The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil
+  War
+category: feminist-theory
+tags:
+  - nonviolence
+  - anti-war
 ---
 
 # The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War

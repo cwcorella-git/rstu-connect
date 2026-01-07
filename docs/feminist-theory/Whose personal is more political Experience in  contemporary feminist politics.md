@@ -1,6 +1,8 @@
 ---
-title: "Whose personal is more political? Experience in contemporary feminist politics"
-category: "feminist-theory"
+title: Whose personal is more political? Experience in contemporary feminist politics
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **Whose personal is more political? Experience in contemporary feminist politics**

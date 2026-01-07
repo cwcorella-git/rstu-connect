@@ -1,6 +1,12 @@
 ---
-title: "U N I V E R S A L R E N D E R P I P E L I N E F O R A D V A N C E D UNIT Y CREATORS"
-category: "contemporary-analysis"
+title: >-
+  U N I V E R S A L R E N D E R P I P E L I N E F O R A D V A N C E D UNIT Y
+  CREATORS
+category: contemporary-analysis
+tags:
+  - fossil fuels
+  - environment
+  - climate
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "\"I'm your new teacher, my name is Mrs. Simpson.\""
-category: "theory"
+title: '"I''m your new teacher, my name is Mrs. Simpson."'
+category: theory
+tags:
+  - education
+  - theory
 ---
 
 0:00

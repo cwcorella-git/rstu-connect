@@ -1,6 +1,9 @@
 ---
-title: "Nurses join with partner environmental groups to demand climate justice now"
-category: "labor"
+title: Nurses join with partner environmental groups to demand climate justice now
+category: labor
+tags:
+  - environment
+  - climate
 ---
 
 ## **Nurses join with partner environmental groups to demand climate justice now**

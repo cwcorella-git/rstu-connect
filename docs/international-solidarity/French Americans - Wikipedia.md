@@ -1,6 +1,10 @@
 ---
-title: "French Americans"
-category: "international-solidarity"
+title: French Americans
+category: international-solidarity
+tags:
+  - France
+  - international
+  - solidarity
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/French_Americans)

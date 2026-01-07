@@ -1,8 +1,11 @@
 ---
-title: "The Haymarket Martyrs: The Anarchist Library"
-author: "Lucy E"
-date: "1926"
-category: "theory"
+title: 'The Haymarket Martyrs: The Anarchist Library'
+author: Lucy E
+date: '1926'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # The Haymarket Martyrs _ The Anarchist Library.pdf

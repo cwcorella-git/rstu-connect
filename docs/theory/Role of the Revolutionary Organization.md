@@ -1,6 +1,9 @@
 ---
-title: "Black Rose Anarchist Federation"
-category: "contemporary-analysis"
+title: Black Rose Anarchist Federation
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # **Black Rose Anarchist Federation**

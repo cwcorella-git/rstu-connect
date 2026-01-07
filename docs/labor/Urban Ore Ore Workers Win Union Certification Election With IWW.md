@@ -1,6 +1,10 @@
 ---
-title: "Urban Ore Ore Workers Win Union Certification Election With IWW"
-category: "labor"
+title: Urban Ore Ore Workers Win Union Certification Election With IWW
+category: labor
+tags:
+  - unions
+  - labor
+  - urban
 ---
 
 ## **Urban Ore Ore Workers Win Union Certification Election With IWW**

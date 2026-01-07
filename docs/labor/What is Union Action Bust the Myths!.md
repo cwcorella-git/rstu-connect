@@ -1,6 +1,10 @@
 ---
-title: "What is Union Action? Bust the Myths!"
-category: "contemporary-analysis"
+title: What is Union Action? Bust the Myths!
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **What is Union Action? Bust the Myths!**

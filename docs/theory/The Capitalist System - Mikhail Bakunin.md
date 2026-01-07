@@ -1,8 +1,11 @@
 ---
-title: "The Capitalist System"
-author: "Mikhail Bakunin"
-date: "1926"
-category: "theory"
+title: The Capitalist System
+author: Mikhail Bakunin
+date: '1926'
+category: theory
+tags:
+  - capitalism
+  - Bakunin
 ---
 
 ## THE CAPITALIST SYSTEM

@@ -1,6 +1,8 @@
 ---
-title: "Michail Bakunin God and the State 1882"
-category: "contemporary-analysis"
+title: Michail Bakunin God and the State 1882
+category: contemporary-analysis
+tags:
+  - Bakunin
 ---
 
 # **Michail Bakunin God and the State 1882**

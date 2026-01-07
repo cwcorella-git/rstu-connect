@@ -1,6 +1,9 @@
 ---
-title: "Hauntology"
-category: "international-solidarity"
+title: Hauntology
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

@@ -1,6 +1,10 @@
 ---
-title: "Gas Abuses In Indiana Prisons: The Cases Of Marshawn Weems"
-category: "environmental-justice"
+title: 'Gas Abuses In Indiana Prisons: The Cases Of Marshawn Weems'
+category: environmental-justice
+tags:
+  - prisons
+  - fossil fuels
+  - India
 ---
 
 ## **Gas Abuses In Indiana Prisons: The Cases Of Marshawn Weems**

@@ -1,6 +1,10 @@
 ---
-title: "Worker Solidarity with Camp Makwa and the Movement for Environmental Justice"
-category: "environmental-justice"
+title: Worker Solidarity with Camp Makwa and the Movement for Environmental Justice
+category: environmental-justice
+tags:
+  - solidarity
+  - labor
+  - environment
 ---
 
 ## **Worker Solidarity with Camp Makwa and the Movement for Environmental Justice**

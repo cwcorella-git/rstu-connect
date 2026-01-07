@@ -1,8 +1,11 @@
 ---
-title: "Video How To Strike For Climate in Your Workplace"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Video How To Strike For Climate in Your Workplace
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - environment
 ---
 
 # Video How To Strike For Climate in Your Workplace

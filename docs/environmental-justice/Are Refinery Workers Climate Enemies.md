@@ -1,6 +1,9 @@
 ---
-title: "Are Refinery Workers Climate Enemies?"
-category: "environmental-justice"
+title: Are Refinery Workers Climate Enemies?
+category: environmental-justice
+tags:
+  - labor
+  - environment
 ---
 
 ## **Are Refinery Workers Climate Enemies?**

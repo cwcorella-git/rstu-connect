@@ -1,8 +1,11 @@
 ---
-title: "Timperley Village Anarchist Tv Am"
-author: "Unknown"
-date: "2025"
-category: "theory"
+title: Timperley Village Anarchist Tv Am
+author: Unknown
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Timperley Village Anarchist Tv Am

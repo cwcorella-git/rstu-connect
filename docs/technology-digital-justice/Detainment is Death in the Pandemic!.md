@@ -1,6 +1,9 @@
 ---
-title: "Detainment is Death in the Pandemic!"
-category: "technology-digital-justice"
+title: Detainment is Death in the Pandemic!
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Detainment is Death in the Pandemic!**

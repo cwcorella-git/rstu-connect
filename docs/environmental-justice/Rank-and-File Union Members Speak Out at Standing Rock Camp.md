@@ -1,6 +1,10 @@
 ---
-title: "Rank-and-File Union Members Speak Out at Standing Rock Camp"
-category: "environmental-justice"
+title: Rank-and-File Union Members Speak Out at Standing Rock Camp
+category: environmental-justice
+tags:
+  - unions
+  - environment
+  - climate
 ---
 
 ## **Rank-and-File Union Members Speak Out at Standing Rock Camp**

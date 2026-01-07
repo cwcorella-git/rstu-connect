@@ -1,6 +1,9 @@
 ---
-title: "## ![](_page_0_Picture_2.jpeg)"
-category: "environmental-justice"
+title: '## ![](_page_0_Picture_2.jpeg)'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

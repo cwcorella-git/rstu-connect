@@ -1,6 +1,11 @@
 ---
-title: "About the organization of anarchists in Ukraine: point of view of a member of a local action co"
-category: "theory"
+title: >-
+  About the organization of anarchists in Ukraine: point of view of a member of
+  a local action co
+category: theory
+tags:
+  - anarchism
+  - Ukraine
 ---
 
 ## **About the organization of anarchists in Ukraine: point of view of a member of a local action collective**

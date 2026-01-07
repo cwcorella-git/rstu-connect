@@ -1,6 +1,9 @@
 ---
-title: "Appomattox campaign"
-category: "technology-digital-justice"
+title: Appomattox campaign
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Appomattox_campaign)

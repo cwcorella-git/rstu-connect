@@ -1,6 +1,9 @@
 ---
-title: "The general strike in Salford in 1911 - Edmund and Ruth Frow"
-category: "contemporary-analysis"
+title: The general strike in Salford in 1911 - Edmund and Ruth Frow
+category: contemporary-analysis
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **The general strike in Salford in 1911 - Edmund and Ruth Frow**

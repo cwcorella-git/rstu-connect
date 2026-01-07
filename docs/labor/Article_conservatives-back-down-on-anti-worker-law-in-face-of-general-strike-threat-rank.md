@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Jeff Shantz"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Jeff Shantz
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - labor
 ---
 
 # Conservatives Back Down On Anti Worker Law in Face of General Strike Threat Rank

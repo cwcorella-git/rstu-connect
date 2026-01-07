@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "ORIGINAL RESEARCH"
-date: "2012"
-category: "housing"
+title: '>-'
+author: ORIGINAL RESEARCH
+date: '2012'
+category: housing
+tags:
+  - environment
+  - housing
+  - tenants
 ---
 
 # The performance analysis of the low‐speed direct‐drive generators for harvesting current energy - IET Renewable Power Gen - 2022 - Chen.pdf

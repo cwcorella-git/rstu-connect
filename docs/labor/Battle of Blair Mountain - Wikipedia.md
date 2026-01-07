@@ -1,6 +1,10 @@
 ---
-title: "[Battle of Blair Mountain](https://en.wikipedia.org/wiki/Main_Page)"
-category: "labor"
+title: '[Battle of Blair Mountain](https://en.wikipedia.org/wiki/Main_Page)'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

@@ -1,8 +1,14 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - protests
+  - labor
+  - Seattle
 ---
 
 # The Seattle Worker Vol 2 2 February March 2019 Seattle General Strike Centennial

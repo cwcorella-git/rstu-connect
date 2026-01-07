@@ -1,6 +1,12 @@
 ---
-title: "Industrial suicide: understanding the 1924 split of the Industrial Workers of the World - Cameron Molyneux"
-category: "labor"
+title: >-
+  Industrial suicide: understanding the 1924 split of the Industrial Workers of
+  the World - Cameron Molyneux
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # **Industrial suicide: understanding the 1924 split of the Industrial Workers of the World - Cameron Molyneux**

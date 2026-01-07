@@ -1,6 +1,8 @@
 ---
-title: "Chicago Replies To Moscow!"
-category: "contemporary-analysis"
+title: Chicago Replies To Moscow!
+category: contemporary-analysis
+tags:
+  - Chicago
 ---
 
 ## **Chicago Replies To Moscow!**

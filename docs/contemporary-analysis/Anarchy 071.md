@@ -1,6 +1,9 @@
 ---
-title: "The sociology of a school"
-category: "contemporary-analysis"
+title: The sociology of a school
+category: contemporary-analysis
+tags:
+  - anarchism
+  - education
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

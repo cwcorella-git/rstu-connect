@@ -1,8 +1,13 @@
 ---
-title: "Phs Flyer Questions For The 2025 National Strike In Ecuador"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: Phs Flyer Questions For The 2025 National Strike In Ecuador
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # Phs Flyer Questions For The 2025 National Strike In Ecuador

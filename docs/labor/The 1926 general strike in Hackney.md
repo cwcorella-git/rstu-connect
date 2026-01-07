@@ -1,6 +1,9 @@
 ---
-title: "The 1926 general strike in Hackney"
-category: "contemporary-analysis"
+title: The 1926 general strike in Hackney
+category: contemporary-analysis
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **The 1926 general strike in Hackney**

@@ -1,6 +1,9 @@
 ---
-title: "Mexican–American War"
-category: "anti-war-peace"
+title: Mexican–American War
+category: anti-war-peace
+tags:
+  - anti-war
+  - Mexico
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

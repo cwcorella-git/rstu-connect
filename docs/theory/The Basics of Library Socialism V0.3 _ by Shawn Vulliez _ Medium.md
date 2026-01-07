@@ -1,6 +1,8 @@
 ---
-title: "The Basics of Library Socialism V0.3"
-category: "contemporary-analysis"
+title: The Basics of Library Socialism V0.3
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 ## ![](_page_0_Picture_3.jpeg)

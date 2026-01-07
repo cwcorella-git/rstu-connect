@@ -1,8 +1,11 @@
 ---
-title: "Mutual Aid Peter Kropotkin"
-author: "Peter Kropotkin"
-date: "2025"
-category: "organizing"
+title: Mutual Aid Peter Kropotkin
+author: Peter Kropotkin
+date: '2025'
+category: organizing
+tags:
+  - mutual aid
+  - Kropotkin
 ---
 
 # Mutual Aid Peter Kropotkin

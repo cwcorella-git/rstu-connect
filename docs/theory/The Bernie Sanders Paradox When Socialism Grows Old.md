@@ -1,6 +1,8 @@
 ---
-title: "The Bernie Sanders Paradox: When Socialism Grows Old"
-category: "contemporary-analysis"
+title: 'The Bernie Sanders Paradox: When Socialism Grows Old'
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 ## **The Bernie Sanders Paradox: When Socialism Grows Old**

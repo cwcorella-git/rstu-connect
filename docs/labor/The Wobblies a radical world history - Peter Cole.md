@@ -1,6 +1,10 @@
 ---
-title: "The Wobblies: a radical world history - Peter Cole"
-category: "contemporary-analysis"
+title: 'The Wobblies: a radical world history - Peter Cole'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **The Wobblies: a radical world history - Peter Cole**

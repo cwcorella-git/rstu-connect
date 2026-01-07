@@ -1,6 +1,9 @@
 ---
-title: "Unify Fights Against Austerity and Climate Change"
-category: "environmental-justice"
+title: Unify Fights Against Austerity and Climate Change
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **Unify Fights Against Austerity and Climate Change**

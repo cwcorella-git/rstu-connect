@@ -1,6 +1,8 @@
 ---
-title: "POSSIBILITIES"
-category: "contemporary-analysis"
+title: POSSIBILITIES
+category: contemporary-analysis
+tags:
+  - riots
 ---
 
 # POSSIBILITIES

@@ -1,6 +1,9 @@
 ---
-title: "Jobs, justice, climate: The struggle continues"
-category: "environmental-justice"
+title: 'Jobs, justice, climate: The struggle continues'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **Jobs, justice, climate: The struggle continues**

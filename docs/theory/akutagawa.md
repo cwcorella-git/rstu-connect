@@ -1,6 +1,8 @@
 ---
-title: "## RYŪNOSUKE AKUTAGAWA"
-category: "theory"
+title: '## RYŪNOSUKE AKUTAGAWA'
+category: theory
+tags:
+  - theory
 ---
 
 ## RYŪNOSUKE AKUTAGAWA

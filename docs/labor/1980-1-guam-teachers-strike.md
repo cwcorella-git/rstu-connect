@@ -1,8 +1,11 @@
 ---
-title: "1980 1 Guam Teachers Strike"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: 1980 1 Guam Teachers Strike
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - education
 ---
 
 # 1980 1 Guam Teachers Strike

@@ -1,6 +1,12 @@
 ---
-title: "No Love for Deliveroo! A reflection on organising and mobilising in the 'gig' economy."
-category: "economic-alternatives"
+title: >-
+  No Love for Deliveroo! A reflection on organising and mobilising in the 'gig'
+  economy.
+category: economic-alternatives
+tags:
+  - gig economy
+  - economics
+  - alternatives
 ---
 
 ## **No Love for Deliveroo! A reflection on organising and mobilising in the "gig" economy.**

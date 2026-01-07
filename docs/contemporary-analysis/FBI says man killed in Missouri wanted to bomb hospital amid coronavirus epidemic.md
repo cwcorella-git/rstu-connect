@@ -1,6 +1,10 @@
 ---
-title: "## [nbcnews.com](https://www.nbcnews.com/news/us-news/fbi-says-man-killed-missouri-wanted-bomb-hospi"
-category: "contemporary-analysis"
+title: >-
+  ##
+  [nbcnews.com](https://www.nbcnews.com/news/us-news/fbi-says-man-killed-missouri-wanted-bomb-hospi
+category: contemporary-analysis
+tags:
+  - healthcare
 ---
 
 ## [nbcnews.com](https://www.nbcnews.com/news/us-news/fbi-says-man-killed-missouri-wanted-bomb-hospital-amid-coronavirus-n1169166)

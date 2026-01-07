@@ -1,6 +1,10 @@
 ---
-title: "[Mécanisme de la physionomie humaine](https://en.wikipedia.org/wiki/Main_Page)"
-category: "technology-digital-justice"
+title: '[Mécanisme de la physionomie humaine](https://en.wikipedia.org/wiki/Main_Page)'
+category: technology-digital-justice
+tags:
+  - Los Angeles
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

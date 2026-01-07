@@ -1,6 +1,11 @@
 ---
-title: "Unions, Environmental Justice Advocates Say 'No!' To Coal Transport through Oakland"
-category: "feminist-theory"
+title: >-
+  Unions, Environmental Justice Advocates Say 'No!' To Coal Transport through
+  Oakland
+category: feminist-theory
+tags:
+  - environment
+  - feminism
 ---
 
 ## **Unions, Environmental Justice Advocates Say "No!" To Coal Transport through Oakland**

@@ -1,8 +1,12 @@
 ---
-title: "North Dakota Protest and Organized Labor"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: North Dakota Protest and Organized Labor
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - protests
+  - organizing
+  - labor
 ---
 
 # North Dakota Protest and Organized Labor

@@ -1,8 +1,11 @@
 ---
-title: "Anarchists Getting Ourselves Together"
-author: "James Herod"
-date: "2025"
-category: "theory"
+title: Anarchists Getting Ourselves Together
+author: James Herod
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchists Getting Ourselves Together

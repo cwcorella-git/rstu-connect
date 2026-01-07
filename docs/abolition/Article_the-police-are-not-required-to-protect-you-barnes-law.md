@@ -1,8 +1,12 @@
 ---
-title: "The Police Are Not Required To Protect You Barnes Law"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: The Police Are Not Required To Protect You Barnes Law
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # The Police Are Not Required To Protect You Barnes Law

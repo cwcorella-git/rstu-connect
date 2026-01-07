@@ -1,6 +1,9 @@
 ---
-title: "West Virginia school employees sold out?"
-category: "youth-student-organizing"
+title: West Virginia school employees sold out?
+category: youth-student-organizing
+tags:
+  - labor
+  - education
 ---
 
 ## **West Virginia school employees sold out?**

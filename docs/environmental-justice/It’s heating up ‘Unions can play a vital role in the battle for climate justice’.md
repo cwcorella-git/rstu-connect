@@ -1,6 +1,11 @@
 ---
-title: "It's heating up: 'Unions can play a vital role in the battle for climate justice'"
-category: "environmental-justice"
+title: >-
+  It's heating up: 'Unions can play a vital role in the battle for climate
+  justice'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **It's heating up: 'Unions can play a vital role in the battle for climate justice'**

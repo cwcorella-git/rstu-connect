@@ -1,6 +1,8 @@
 ---
-title: "FEMINIST THEORY from margin to center bell hooks south end press"
-category: "feminist-theory"
+title: FEMINIST THEORY from margin to center bell hooks south end press
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 # FEMINIST THEORY from margin to center bell hooks south end press

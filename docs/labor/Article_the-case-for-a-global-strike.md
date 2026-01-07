@@ -1,8 +1,13 @@
 ---
-title: "The Case For a Global Strike"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: The Case For a Global Strike
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # The Case For a Global Strike

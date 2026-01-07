@@ -1,6 +1,9 @@
 ---
-title: "What kind of \"just transition\"?"
-category: "feminist-theory"
+title: What kind of "just transition"?
+category: feminist-theory
+tags:
+  - just transition
+  - feminism
 ---
 
 ## **What kind of "just transition"?**

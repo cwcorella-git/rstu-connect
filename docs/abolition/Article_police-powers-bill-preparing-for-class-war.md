@@ -1,8 +1,12 @@
 ---
-title: "Police Powers Bill Preparing For Class War"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: Police Powers Bill Preparing For Class War
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - anti-war
+  - class
 ---
 
 # Police Powers Bill Preparing For Class War

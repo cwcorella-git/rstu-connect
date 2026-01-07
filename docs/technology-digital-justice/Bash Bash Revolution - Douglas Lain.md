@@ -1,6 +1,9 @@
 ---
-title: "BASH BASH REVOLUTION A NOVEL BY DOUGLAS LAIN"
-category: "technology-digital-justice"
+title: BASH BASH REVOLUTION A NOVEL BY DOUGLAS LAIN
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

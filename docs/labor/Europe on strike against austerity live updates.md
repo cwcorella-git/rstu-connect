@@ -1,6 +1,11 @@
 ---
-title: "Europe on strike against austerity: live updates"
-category: "labor"
+title: 'Europe on strike against austerity: live updates'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Europe on strike against austerity: live updates**

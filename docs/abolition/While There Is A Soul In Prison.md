@@ -1,6 +1,10 @@
 ---
-title: "While There Is A Soul In Prison"
-category: "contemporary-analysis"
+title: While There Is A Soul In Prison
+category: contemporary-analysis
+tags:
+  - prisons
+  - abolition
+  - police
 ---
 
 ## **While There Is A Soul In Prison**

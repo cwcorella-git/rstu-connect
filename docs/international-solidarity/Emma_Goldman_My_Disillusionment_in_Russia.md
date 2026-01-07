@@ -1,6 +1,9 @@
 ---
-title: "Emma Goldman My Disillusionment in Russia"
-category: "theory"
+title: Emma Goldman My Disillusionment in Russia
+category: theory
+tags:
+  - Emma Goldman
+  - Russia
 ---
 
 # **Emma Goldman My Disillusionment in Russia**

@@ -1,6 +1,8 @@
 ---
-title: "Capital Blight: Pop go the Weasels"
-category: "contemporary-analysis"
+title: 'Capital Blight: Pop go the Weasels'
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 ## **Capital Blight: Pop go the Weasels**

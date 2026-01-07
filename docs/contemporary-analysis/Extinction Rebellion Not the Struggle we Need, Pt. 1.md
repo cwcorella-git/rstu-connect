@@ -1,6 +1,8 @@
 ---
-title: "Extinction Rebellion: Not the Struggle we Need, Pt. 1"
-category: "contemporary-analysis"
+title: 'Extinction Rebellion: Not the Struggle we Need, Pt. 1'
+category: contemporary-analysis
+tags:
+  - riots
 ---
 
 ## **Extinction Rebellion: Not the Struggle we Need, Pt. 1**

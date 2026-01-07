@@ -1,6 +1,9 @@
 ---
-title: "MAPPING DISCORD'S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD"
-category: "technology-digital-justice"
+title: 'MAPPING DISCORD''S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

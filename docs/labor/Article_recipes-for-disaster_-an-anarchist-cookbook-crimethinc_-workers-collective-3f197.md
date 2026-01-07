@@ -1,8 +1,11 @@
 ---
-title: "Recipes For Disaster an Anarchist Cookbook Crimethinc Workers Collective 3f197"
-author: "CrimethInc"
-date: "2025"
-category: "theory"
+title: Recipes For Disaster an Anarchist Cookbook Crimethinc Workers Collective 3f197
+author: CrimethInc
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - labor
 ---
 
 # Recipes For Disaster an Anarchist Cookbook Crimethinc Workers Collective 3f197

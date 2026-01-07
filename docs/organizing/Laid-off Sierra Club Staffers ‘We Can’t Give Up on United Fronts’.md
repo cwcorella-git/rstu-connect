@@ -1,6 +1,8 @@
 ---
-title: "Laid-off Sierra Club Staffers: 'We Can't Give Up on United Fronts'"
-category: "organizing"
+title: 'Laid-off Sierra Club Staffers: ''We Can''t Give Up on United Fronts'''
+category: organizing
+tags:
+  - organizing
 ---
 
 ## **Laid-off Sierra Club Staffers: 'We Can't Give Up on United Fronts'**

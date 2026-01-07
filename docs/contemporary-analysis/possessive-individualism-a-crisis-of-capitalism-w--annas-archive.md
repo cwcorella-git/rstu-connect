@@ -1,6 +1,8 @@
 ---
-title: "Possessive Individualism"
-category: "contemporary-analysis"
+title: Possessive Individualism
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 ## RISISOF

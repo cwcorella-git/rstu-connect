@@ -1,6 +1,9 @@
 ---
-title: "Episode 32: Rr In The Brain Insight And Consciousness/"
-category: "technology-digital-justice"
+title: 'Episode 32: Rr In The Brain Insight And Consciousness/'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Episode 32: Rr In The Brain Insight And Consciousness/**

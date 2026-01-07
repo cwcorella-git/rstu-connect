@@ -1,8 +1,12 @@
 ---
-title: "Jack Woods"
-author: "Reno Sparks Tenants Union"
-date: "2025"
-category: "housing"
+title: Jack Woods
+author: Reno Sparks Tenants Union
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - unions
+  - Nevada
 ---
 
 Jack Woods - Reno Sparks Tenants Union Skip to content

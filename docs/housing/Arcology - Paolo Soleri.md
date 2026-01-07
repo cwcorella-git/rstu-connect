@@ -1,8 +1,12 @@
 ---
-title: "Arcology: The City in the Image of Man"
-author: "Paolo Soleri"
-date: "1970"
-category: "housing"
+title: 'Arcology: The City in the Image of Man'
+author: Paolo Soleri
+date: '1970'
+category: housing
+tags:
+  - urban
+  - housing
+  - tenants
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

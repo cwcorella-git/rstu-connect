@@ -1,6 +1,9 @@
 ---
-title: "Praise for Wobblies & Zapatistas"
-category: "contemporary-analysis"
+title: Praise for Wobblies & Zapatistas
+category: contemporary-analysis
+tags:
+  - unions
+  - Mexico
 ---
 
 # Praise for Wobblies & Zapatistas

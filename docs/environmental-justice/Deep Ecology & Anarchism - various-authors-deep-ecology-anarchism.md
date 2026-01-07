@@ -1,6 +1,9 @@
 ---
-title: "Deep Eology & Anarcism"
-category: "environmental-justice"
+title: Deep Eology & Anarcism
+category: environmental-justice
+tags:
+  - anarchism
+  - environment
 ---
 
 # Deep Eology & Anarcism

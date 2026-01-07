@@ -1,6 +1,9 @@
 ---
-title: "'The Rank and File Strategy': A Syndicalist View - Tom Wetzel"
-category: "organizing"
+title: '''The Rank and File Strategy'': A Syndicalist View - Tom Wetzel'
+category: organizing
+tags:
+  - syndicalism
+  - organizing
 ---
 
 ## **"The Rank and File Strategy": A Syndicalist View - Tom Wetzel**

@@ -1,6 +1,9 @@
 ---
-title: "Racial capitalism"
-category: "contemporary-analysis"
+title: Racial capitalism
+category: contemporary-analysis
+tags:
+  - racial justice
+  - capitalism
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Racial_capitalism#)

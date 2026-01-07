@@ -1,6 +1,12 @@
 ---
-title: "New Forms of Worker Organization: The Syndicalist and Autonomist Restoration of Class Struggle"
-category: "economic-alternatives"
+title: >-
+  New Forms of Worker Organization: The Syndicalist and Autonomist Restoration
+  of Class Struggle
+category: economic-alternatives
+tags:
+  - syndicalism
+  - labor
+  - class
 ---
 
 ## **New Forms of Worker Organization: The Syndicalist and Autonomist Restoration of Class Struggle Unionism**

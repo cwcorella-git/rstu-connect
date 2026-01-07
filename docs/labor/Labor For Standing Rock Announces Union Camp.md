@@ -1,6 +1,9 @@
 ---
-title: "Labor For Standing Rock Announces Union Camp"
-category: "environmental-justice"
+title: Labor For Standing Rock Announces Union Camp
+category: environmental-justice
+tags:
+  - unions
+  - labor
 ---
 
 ## **Labor For Standing Rock Announces Union Camp**

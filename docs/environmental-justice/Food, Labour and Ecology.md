@@ -1,6 +1,10 @@
 ---
-title: "Food, Labour and Ecology"
-category: "environmental-justice"
+title: 'Food, Labour and Ecology'
+category: environmental-justice
+tags:
+  - labor
+  - environment
+  - food
 ---
 
 ## **Food, Labour and Ecology**

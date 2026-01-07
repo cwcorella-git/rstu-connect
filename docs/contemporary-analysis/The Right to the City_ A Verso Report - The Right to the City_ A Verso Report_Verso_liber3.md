@@ -1,6 +1,8 @@
 ---
-title: "The Right to the City"
-category: "contemporary-analysis"
+title: The Right to the City
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 # The Right to the City

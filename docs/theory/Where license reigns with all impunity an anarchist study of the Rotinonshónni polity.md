@@ -1,6 +1,11 @@
 ---
-title: "'Where license reigns with all impunity': an anarchist study of the Rotinonshón:ni polity"
-category: "contemporary-analysis"
+title: >-
+  'Where license reigns with all impunity': an anarchist study of the
+  Rotinonshón:ni polity
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **"Where license reigns with all impunity": an anarchist study of the Rotinonshón:ni polity**

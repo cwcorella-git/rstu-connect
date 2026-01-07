@@ -1,6 +1,9 @@
 ---
-title: "A Brilliant But Forgotten Idea: The Class Union"
-category: "labor"
+title: 'A Brilliant But Forgotten Idea: The Class Union'
+category: labor
+tags:
+  - unions
+  - class
 ---
 
 ## **A Brilliant But Forgotten Idea: The Class Union**

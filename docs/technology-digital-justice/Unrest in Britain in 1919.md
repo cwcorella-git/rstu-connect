@@ -1,6 +1,10 @@
 ---
-title: "Unrest in Britain in 1919"
-category: "technology-digital-justice"
+title: Unrest in Britain in 1919
+category: technology-digital-justice
+tags:
+  - United Kingdom
+  - technology
+  - digital rights
 ---
 
 ## **Unrest in Britain in 1919**

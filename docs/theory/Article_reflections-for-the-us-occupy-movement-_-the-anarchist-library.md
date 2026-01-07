@@ -1,8 +1,11 @@
 ---
-title: "Reflections For the Us Occupy Movement the Anarchist Library"
-author: "Peter Gelderloos"
-date: "2025"
-category: "theory"
+title: Reflections For the Us Occupy Movement the Anarchist Library
+author: Peter Gelderloos
+date: '2025'
+category: theory
+tags:
+  - occupations
+  - anarchism
 ---
 
 # Reflections For the Us Occupy Movement the Anarchist Library

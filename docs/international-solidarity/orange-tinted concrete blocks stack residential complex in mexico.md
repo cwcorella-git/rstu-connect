@@ -1,6 +1,12 @@
 ---
-title: "## [designboom.com](https://www.designboom.com/architecture/orange-concrete-blocks-residential-compl"
-category: "contemporary-analysis"
+title: >-
+  ##
+  [designboom.com](https://www.designboom.com/architecture/orange-concrete-blocks-residential-compl
+category: contemporary-analysis
+tags:
+  - Mexico
+  - international
+  - solidarity
 ---
 
 ## [designboom.com](https://www.designboom.com/architecture/orange-concrete-blocks-residential-complex-mexico-mta-v-01-28-2023/)

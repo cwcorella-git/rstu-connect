@@ -1,6 +1,13 @@
 ---
-title: "Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist"
-category: "international-solidarity"
+title: >-
+  Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist,
+  internationalist
+category: international-solidarity
+tags:
+  - unions
+  - anarchism
+  - syndicalism
+  - antifascism
 ---
 
 ## **Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist, Geordie working-class hero - David Douglass**

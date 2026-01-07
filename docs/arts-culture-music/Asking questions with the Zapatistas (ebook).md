@@ -1,6 +1,8 @@
 ---
-title: "Asking questions with the Zapatistas (ebook)"
-category: "arts-culture-music"
+title: Asking questions with the Zapatistas (ebook)
+category: arts-culture-music
+tags:
+  - Mexico
 ---
 
 ## **Asking questions with the Zapatistas (ebook)**

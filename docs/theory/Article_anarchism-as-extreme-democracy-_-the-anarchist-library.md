@@ -1,8 +1,11 @@
 ---
-title: "Anarchism As Extreme Democracy the Anarchist Library"
-author: "Wayne Price"
-date: "2025"
-category: "theory"
+title: Anarchism As Extreme Democracy the Anarchist Library
+author: Wayne Price
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - democracy
 ---
 
 # Anarchism As Extreme Democracy the Anarchist Library

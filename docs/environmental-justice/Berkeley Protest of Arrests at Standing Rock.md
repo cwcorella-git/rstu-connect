@@ -1,6 +1,10 @@
 ---
-title: "Berkeley Protest of Arrests at Standing Rock"
-category: "environmental-justice"
+title: Berkeley Protest of Arrests at Standing Rock
+category: environmental-justice
+tags:
+  - protests
+  - environment
+  - climate
 ---
 
 ## **Berkeley Protest of Arrests at Standing Rock**

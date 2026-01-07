@@ -1,6 +1,8 @@
 ---
-title: "'I Outlived Them All': Reflections on Survival"
-category: "theory"
+title: '''I Outlived Them All'': Reflections on Survival'
+category: theory
+tags:
+  - theory
 ---
 
 ## **"I Outlived Them All": Reflections on Survival**

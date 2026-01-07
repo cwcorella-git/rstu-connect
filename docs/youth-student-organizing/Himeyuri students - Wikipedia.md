@@ -1,6 +1,10 @@
 ---
-title: "Himeyuri students"
-category: "youth-student-organizing"
+title: Himeyuri students
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Himeyuri_students)

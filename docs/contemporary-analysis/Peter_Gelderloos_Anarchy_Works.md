@@ -1,6 +1,8 @@
 ---
-title: "Anarchy Works"
-category: "contemporary-analysis"
+title: Anarchy Works
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

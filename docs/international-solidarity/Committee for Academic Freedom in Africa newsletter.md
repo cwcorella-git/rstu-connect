@@ -1,6 +1,10 @@
 ---
-title: "Committee for Academic Freedom in Africa newsletter"
-category: "international-solidarity"
+title: Committee for Academic Freedom in Africa newsletter
+category: international-solidarity
+tags:
+  - liberty
+  - international
+  - solidarity
 ---
 
 ## **Committee for Academic Freedom in Africa newsletter**

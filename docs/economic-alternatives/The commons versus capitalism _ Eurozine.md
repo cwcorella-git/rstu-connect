@@ -1,6 +1,9 @@
 ---
-title: "The commons versus capitalism"
-category: "contemporary-analysis"
+title: The commons versus capitalism
+category: contemporary-analysis
+tags:
+  - capitalism
+  - commons
 ---
 
 #### [eurozine.com](https://www.eurozine.com/the-commons-versus-capitalism/)

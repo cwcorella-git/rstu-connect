@@ -1,6 +1,12 @@
 ---
-title: "The Teacher Strike in West Virginia: Interview with IWW Teacher Michael Mochaidean"
-category: "organizing"
+title: >-
+  The Teacher Strike in West Virginia: Interview with IWW Teacher Michael
+  Mochaidean
+category: organizing
+tags:
+  - strikes
+  - unions
+  - education
 ---
 
 ## **The Teacher Strike in West Virginia: Interview with IWW Teacher Michael Mochaidean**

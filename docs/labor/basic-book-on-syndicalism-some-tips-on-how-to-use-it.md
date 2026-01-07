@@ -1,8 +1,13 @@
 ---
-title: "Basic book on syndicalism – some tips on how to use it"
-author: "Erik Bonk on Syndikalisten's"
-date: "2025"
-category: "labor"
+title: Basic book on syndicalism – some tips on how to use it
+author: Erik Bonk on Syndikalisten's
+date: '2025'
+category: labor
+tags:
+  - syndicalism
+  - labor
+  - unions
+  - workers
 ---
 
 # Basic book on syndicalism – some tips on how to use it

@@ -1,8 +1,12 @@
 ---
-title: "To Remember Spain the Anarchist and Syndi Murray Bookchin"
-author: "Murray Bookchin"
-date: "2025"
-category: "theory"
+title: To Remember Spain the Anarchist and Syndi Murray Bookchin
+author: Murray Bookchin
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - Bookchin
+  - Spain
 ---
 
 # To Remember Spain the Anarchist and Syndi Murray Bookchin

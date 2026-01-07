@@ -1,6 +1,9 @@
 ---
-title: "Edward Burne-Jones"
-category: "anti-war-peace"
+title: Edward Burne-Jones
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Edward_Burne-Jones)

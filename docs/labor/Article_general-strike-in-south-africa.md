@@ -1,8 +1,11 @@
 ---
-title: "General Strike in South Africa"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: General Strike in South Africa
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # General Strike in South Africa

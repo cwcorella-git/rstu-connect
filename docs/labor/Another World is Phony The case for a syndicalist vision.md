@@ -1,6 +1,11 @@
 ---
-title: "Another World is Phony? The case for a syndicalist vision"
-category: "contemporary-analysis"
+title: Another World is Phony? The case for a syndicalist vision
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Another World is Phony? The case for a syndicalist vision**

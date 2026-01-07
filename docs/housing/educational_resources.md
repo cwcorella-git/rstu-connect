@@ -1,8 +1,11 @@
 ---
-title: "Educational Resources and Tenant Rights Materials"
-author: "Reno Sparks Tenants Union"
-date: "2025"
-category: "misc"
+title: Educational Resources and Tenant Rights Materials
+author: Reno Sparks Tenants Union
+date: '2025'
+category: misc
+tags:
+  - tenants
+  - education
 ---
 
 # Educational Resources and Tenant Rights Materials

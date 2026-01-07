@@ -1,6 +1,10 @@
 ---
-title: "Report on the general strike in Palestine"
-category: "labor"
+title: Report on the general strike in Palestine
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - Palestine
 ---
 
 ## **Report on the general strike in Palestine**

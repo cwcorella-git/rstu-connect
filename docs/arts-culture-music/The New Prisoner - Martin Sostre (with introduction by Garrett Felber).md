@@ -1,6 +1,8 @@
 ---
-title: "The New Prisoner - Martin Sostre (with introduction by Garrett Felber)"
-category: "arts-culture-music"
+title: The New Prisoner - Martin Sostre (with introduction by Garrett Felber)
+category: arts-culture-music
+tags:
+  - prisons
 ---
 
 ## **The New Prisoner - Martin Sostre (with introduction by Garrett Felber)**

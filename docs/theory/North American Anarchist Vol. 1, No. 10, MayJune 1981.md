@@ -1,6 +1,9 @@
 ---
-title: "North American Anarchist Vol. 1, No. 10, May/June 1981"
-category: "contemporary-analysis"
+title: 'North American Anarchist Vol. 1, No. 10, May/June 1981'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **North American Anarchist Vol. 1, No. 10, May/June 1981**

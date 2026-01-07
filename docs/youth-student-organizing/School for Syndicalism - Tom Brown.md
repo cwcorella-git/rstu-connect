@@ -1,6 +1,9 @@
 ---
-title: "School for Syndicalism - Tom Brown"
-category: "youth-student-organizing"
+title: School for Syndicalism - Tom Brown
+category: youth-student-organizing
+tags:
+  - syndicalism
+  - education
 ---
 
 ## **School for Syndicalism - Tom Brown**

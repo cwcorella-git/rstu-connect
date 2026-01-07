@@ -1,6 +1,10 @@
 ---
-title: "State capitalism in Russia - Murray Bookchin"
-category: "arts-culture-music"
+title: State capitalism in Russia - Murray Bookchin
+category: arts-culture-music
+tags:
+  - capitalism
+  - Bookchin
+  - Russia
 ---
 
 ## **State capitalism in Russia - Murray Bookchin**

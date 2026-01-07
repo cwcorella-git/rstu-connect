@@ -1,8 +1,12 @@
 ---
-title: "A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action"
-author: "Unknown"
-date: "2025"
-category: "anti-war-peace"
+title: A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action
+author: Unknown
+date: '2025'
+category: anti-war-peace
+tags:
+  - direct action
+  - anti-war
+  - peace
 ---
 
 # A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action

@@ -1,6 +1,9 @@
 ---
-title: "The Economy of Ideas"
-category: "economic-alternatives"
+title: The Economy of Ideas
+category: economic-alternatives
+tags:
+  - economics
+  - alternatives
 ---
 
 #### [web.archive.org](https://web.archive.org/web/20190223232929/https://www.wired.com/1994/03/economy-ideas/)

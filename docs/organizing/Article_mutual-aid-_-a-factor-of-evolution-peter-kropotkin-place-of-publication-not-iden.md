@@ -1,8 +1,11 @@
 ---
-title: "Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden"
-author: "Peter Kropotkin"
-date: "2025"
-category: "organizing"
+title: Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden
+author: Peter Kropotkin
+date: '2025'
+category: organizing
+tags:
+  - mutual aid
+  - Kropotkin
 ---
 
 # Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden

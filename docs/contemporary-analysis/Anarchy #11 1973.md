@@ -1,6 +1,8 @@
 ---
-title: "Anarchy #11 1973"
-category: "contemporary-analysis"
+title: 'Anarchy #11 1973'
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **Anarchy #11 1973**

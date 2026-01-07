@@ -1,6 +1,9 @@
 ---
-title: "Low-carbon economy"
-category: "environmental-justice"
+title: Low-carbon economy
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

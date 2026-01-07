@@ -1,8 +1,12 @@
 ---
-title: "Despair Fatigue"
-author: "David Graeber"
-date: "March 2016"
-category: "technology-digital-justice"
+title: Despair Fatigue
+author: David Graeber
+date: March 2016
+category: technology-digital-justice
+tags:
+  - Graeber
+  - technology
+  - digital rights
 ---
 
 Is it possible to become bored with hopelessness?

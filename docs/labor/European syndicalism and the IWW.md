@@ -1,6 +1,9 @@
 ---
-title: "European syndicalism and the IWW"
-category: "labor"
+title: European syndicalism and the IWW
+category: labor
+tags:
+  - unions
+  - syndicalism
 ---
 
 ## **European syndicalism and the IWW**

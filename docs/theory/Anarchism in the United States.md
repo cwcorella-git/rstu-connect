@@ -1,6 +1,9 @@
 ---
-title: "Ronald Creagh, Gabriel Kuhn, Jesse Cohn"
-category: "contemporary-analysis"
+title: 'Ronald Creagh, Gabriel Kuhn, Jesse Cohn'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # **Ronald Creagh, Gabriel Kuhn, Jesse Cohn**

@@ -1,6 +1,9 @@
 ---
-title: "Union co-operatives: what they are and why we need them"
-category: "economic-alternatives"
+title: 'Union co-operatives: what they are and why we need them'
+category: economic-alternatives
+tags:
+  - unions
+  - cooperatives
 ---
 
 ## **Union co-operatives: what they are and why we need them**

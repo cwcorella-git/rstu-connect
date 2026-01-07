@@ -1,6 +1,10 @@
 ---
-title: "The March Intifada - Bahrain, 1965"
-category: "technology-digital-justice"
+title: 'The March Intifada - Bahrain, 1965'
+category: technology-digital-justice
+tags:
+  - protests
+  - technology
+  - digital rights
 ---
 
 ## **The March Intifada - Bahrain, 1965**

@@ -1,8 +1,12 @@
 ---
-title: "Abolitionism In The United States Wikipedia"
-author: "Wikipedia"
-date: "1808"
-category: "abolition"
+title: Abolitionism In The United States Wikipedia
+author: Wikipedia
+date: '1808'
+category: abolition
+tags:
+  - abolition
+  - police
+  - prisons
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States)

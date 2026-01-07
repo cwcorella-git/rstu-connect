@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "CrimethInc"
-date: "2025"
-category: "theory"
+title: '>-'
+author: CrimethInc
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchist Approaches To Crime Dysophia 5 2015 Ak Press 85bce32fbb5753a579ef46507

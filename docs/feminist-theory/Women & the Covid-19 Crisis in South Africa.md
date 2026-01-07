@@ -1,6 +1,9 @@
 ---
-title: "Women & the Covid-19 Crisis in South Africa"
-category: "feminist-theory"
+title: Women & the Covid-19 Crisis in South Africa
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **Women & the Covid-19 Crisis in South Africa**

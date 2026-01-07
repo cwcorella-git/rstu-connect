@@ -1,8 +1,11 @@
 ---
-title: "Winnipeg General Strike Wikipedia"
-author: "Prairie Struggle"
-date: "2025"
-category: "labor"
+title: Winnipeg General Strike Wikipedia
+author: Prairie Struggle
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # Winnipeg General Strike Wikipedia

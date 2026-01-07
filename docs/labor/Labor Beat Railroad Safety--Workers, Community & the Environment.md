@@ -1,6 +1,11 @@
 ---
-title: "Labor Beat: Railroad Safety--Workers, Community & the Environment"
-category: "environmental-justice"
+title: 'Labor Beat: Railroad Safety--Workers, Community & the Environment'
+category: environmental-justice
+tags:
+  - community
+  - labor
+  - environment
+  - railroads
 ---
 
 ## **Labor Beat: Railroad Safety--Workers, Community & the Environment**

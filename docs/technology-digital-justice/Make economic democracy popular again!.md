@@ -1,6 +1,10 @@
 ---
-title: "Make economic democracy popular again!"
-category: "technology-digital-justice"
+title: Make economic democracy popular again!
+category: technology-digital-justice
+tags:
+  - democracy
+  - technology
+  - digital rights
 ---
 
 ## **Make economic democracy popular again!**

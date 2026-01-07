@@ -1,8 +1,11 @@
 ---
-title: "The Spanish Anarchists The Heroic Years 1868 1936"
-author: "Murray Bookchin"
-date: "2025"
-category: "theory"
+title: The Spanish Anarchists The Heroic Years 1868 1936
+author: Murray Bookchin
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - Spain
 ---
 
 # The Spanish Anarchists The Heroic Years 1868 1936

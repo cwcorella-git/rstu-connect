@@ -1,6 +1,10 @@
 ---
-title: "## [itsgoingdown.org](https://itsgoingdown.org/imagining-many-forms-community-self-defense/)"
-category: "contemporary-analysis"
+title: >-
+  ##
+  [itsgoingdown.org](https://itsgoingdown.org/imagining-many-forms-community-self-defense/)
+category: contemporary-analysis
+tags:
+  - community
 ---
 
 ## [itsgoingdown.org](https://itsgoingdown.org/imagining-many-forms-community-self-defense/)

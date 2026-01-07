@@ -1,6 +1,9 @@
 ---
-title: "A Goal and Strategy for Anarchy"
-category: "theory"
+title: A Goal and Strategy for Anarchy
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 ## James Herod

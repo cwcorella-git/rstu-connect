@@ -1,8 +1,12 @@
 ---
-title: "The Economic Argument For Industrial Unionism Vincent St John"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: The Economic Argument For Industrial Unionism Vincent St John
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # The Economic Argument For Industrial Unionism Vincent St John

@@ -1,6 +1,8 @@
 ---
-title: "## ![](_page_0_Picture_3.jpeg)"
-category: "organizing"
+title: '## ![](_page_0_Picture_3.jpeg)'
+category: organizing
+tags:
+  - organizing
 ---
 
 ## [home > a](https://www.designboom.com/)[rchitecture](https://www.designboom.com/architecture/) [> FGMF arquitetos revamps bra](https://www.designboom.com/)zilian modernism with house of voids 'subtracon house' [socialize](javascript:void(0)) compe [design directory](https://www.designboom.com/design-directory/) shop 1courses ons [architecture](javascript:void(0)) [1](javascript:void(0))

@@ -1,6 +1,9 @@
 ---
-title: "WOMEN'S RIGHTS AND FEMINIST MOVEMENTS IN IRAN1"
-category: "feminist-theory"
+title: WOMEN'S RIGHTS AND FEMINIST MOVEMENTS IN IRAN1
+category: feminist-theory
+tags:
+  - feminism
+  - women
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

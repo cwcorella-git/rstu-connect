@@ -1,6 +1,8 @@
 ---
-title: "Urbanization Without Cities: The Rise and Decline of Citizenship"
-category: "contemporary-analysis"
+title: 'Urbanization Without Cities: The Rise and Decline of Citizenship'
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 ## **Urbanization Without Cities: The Rise and Decline of Citizenship**

@@ -1,6 +1,9 @@
 ---
-title: "A Class Perspective on the 'Women Question'"
-category: "feminist-theory"
+title: A Class Perspective on the 'Women Question'
+category: feminist-theory
+tags:
+  - women
+  - class
 ---
 
 ## **A Class Perspective on the 'Women Question'**

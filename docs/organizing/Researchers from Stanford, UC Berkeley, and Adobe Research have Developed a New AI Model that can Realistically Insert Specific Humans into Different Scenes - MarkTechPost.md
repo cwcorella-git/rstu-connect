@@ -1,6 +1,10 @@
 ---
-title: "## Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can"
-category: "organizing"
+title: >-
+  ## Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a
+  New AI Model that can
+category: organizing
+tags:
+  - organizing
 ---
 
 ## [marktechpost.com](https://www.marktechpost.com/2023/06/03/researchers-from-stanford-uc-berkeley-and-adobe-research-have-developed-a-new-ai-model-that-can-realistically-insert-specific-humans-into-different-scenes/?amp)

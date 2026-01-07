@@ -1,6 +1,9 @@
 ---
-title: "Dire Forecasts"
-category: "technology-digital-justice"
+title: Dire Forecasts
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ### The Automation Revolution

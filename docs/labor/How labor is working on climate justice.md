@@ -1,6 +1,9 @@
 ---
-title: "How labor is working on climate justice"
-category: "labor"
+title: How labor is working on climate justice
+category: labor
+tags:
+  - labor
+  - environment
 ---
 
 ## **How labor is working on climate justice**

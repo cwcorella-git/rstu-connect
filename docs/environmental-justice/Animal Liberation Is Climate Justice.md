@@ -1,6 +1,9 @@
 ---
-title: "Animal Liberation Is Climate Justice"
-category: "environmental-justice"
+title: Animal Liberation Is Climate Justice
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # **Animal Liberation Is Climate Justice**

@@ -1,6 +1,9 @@
 ---
-title: "Emma Goldman Anarchism and Other Essays"
-category: "theory"
+title: Emma Goldman Anarchism and Other Essays
+category: theory
+tags:
+  - anarchism
+  - Emma Goldman
 ---
 
 # **Emma Goldman Anarchism and Other Essays**

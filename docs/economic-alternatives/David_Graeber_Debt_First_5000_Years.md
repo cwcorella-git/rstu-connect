@@ -1,6 +1,10 @@
 ---
-title: "DAVID GRAEBER"
-category: "economic-alternatives"
+title: DAVID GRAEBER
+category: economic-alternatives
+tags:
+  - Graeber
+  - economics
+  - alternatives
 ---
 
 ## THE FIRST 5,000 YEARS

@@ -1,6 +1,9 @@
 ---
-title: "Listen, Marxist!"
-category: "contemporary-analysis"
+title: 'Listen, Marxist!'
+category: contemporary-analysis
+tags:
+  - socialism
+  - theory
 ---
 
 #### **Murray Bookchin**

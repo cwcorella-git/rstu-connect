@@ -1,6 +1,8 @@
 ---
-title: "Abraham Lincoln"
-category: "theory"
+title: Abraham Lincoln
+category: theory
+tags:
+  - theory
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Abraham_Lincoln)

@@ -1,8 +1,11 @@
 ---
-title: "Debt"
-author: "David Graeber"
-date: "2011"
-category: "economic-alternatives"
+title: Debt
+author: David Graeber
+date: '2011'
+category: economic-alternatives
+tags:
+  - debt
+  - Graeber
 ---
 
 ## On the Experience of Moral Confusion

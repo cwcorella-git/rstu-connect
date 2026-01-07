@@ -1,6 +1,9 @@
 ---
-title: "Albert Jensen"
-category: "technology-digital-justice"
+title: Albert Jensen
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Albert Jensen**

@@ -1,6 +1,10 @@
 ---
-title: "What Games Are"
-category: "technology-digital-justice"
+title: What Games Are
+category: technology-digital-justice
+tags:
+  - gig economy
+  - technology
+  - digital rights
 ---
 
 The Wayback Machine - https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/2010/12/the-post-platform-future.html

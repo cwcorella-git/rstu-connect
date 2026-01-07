@@ -1,6 +1,13 @@
 ---
-title: "Therapists Are Also the Police: Sex Work, Social Work, and the Politics of Deservingness"
-category: "labor"
+title: >-
+  Therapists Are Also the Police: Sex Work, Social Work, and the Politics of
+  Deservingness
+category: labor
+tags:
+  - police
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Therapists Are Also the Police: Sex Work, Social Work, and the Politics of Deservingness**

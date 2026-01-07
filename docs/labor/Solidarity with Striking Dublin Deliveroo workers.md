@@ -1,6 +1,10 @@
 ---
-title: "Solidarity with Striking Dublin Deliveroo workers"
-category: "organizing"
+title: Solidarity with Striking Dublin Deliveroo workers
+category: organizing
+tags:
+  - solidarity
+  - labor
+  - gig economy
 ---
 
 ## **Solidarity with Striking Dublin Deliveroo workers**

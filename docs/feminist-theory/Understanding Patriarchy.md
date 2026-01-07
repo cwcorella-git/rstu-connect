@@ -1,6 +1,8 @@
 ---
-title: "bell hooks"
-category: "theory"
+title: bell hooks
+category: theory
+tags:
+  - feminism
 ---
 
 ## **bell hooks**

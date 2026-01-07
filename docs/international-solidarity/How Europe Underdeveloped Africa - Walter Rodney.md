@@ -1,6 +1,9 @@
 ---
-title: "how europe underdeveloped AFRICA"
-category: "international-solidarity"
+title: how europe underdeveloped AFRICA
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

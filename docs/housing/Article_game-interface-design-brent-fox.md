@@ -1,8 +1,11 @@
 ---
-title: "Game Interface Design Brent Fox"
-author: "|-"
-date: "2025"
-category: "housing"
+title: Game Interface Design Brent Fox
+author: '|-'
+date: '2025'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # Game Interface Design Brent Fox

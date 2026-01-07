@@ -1,6 +1,10 @@
 ---
-title: "Incarceration, Justice and the Planet"
-category: "contemporary-analysis"
+title: 'Incarceration, Justice and the Planet'
+category: contemporary-analysis
+tags:
+  - prisons
+  - abolition
+  - police
 ---
 
 ## **Incarceration, Justice and the Planet**

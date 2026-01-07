@@ -1,6 +1,8 @@
 ---
-title: "Reproductive justice is economic justice."
-category: "theory"
+title: Reproductive justice is economic justice.
+category: theory
+tags:
+  - feminism
 ---
 
 ## **Reproductive justice is economic justice.**

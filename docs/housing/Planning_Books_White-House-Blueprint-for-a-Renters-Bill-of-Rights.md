@@ -1,8 +1,11 @@
 ---
-title: "White-House-Blueprint-for-a-Renters-Bill-of-Rights"
-author: "Fannie Mae"
-date: "2023"
-category: "housing"
+title: White-House-Blueprint-for-a-Renters-Bill-of-Rights
+author: Fannie Mae
+date: '2023'
+category: housing
+tags:
+  - tenants
+  - housing
 ---
 
 # White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf

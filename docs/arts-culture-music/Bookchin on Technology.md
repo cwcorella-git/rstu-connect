@@ -1,6 +1,8 @@
 ---
-title: "Bookchin on Technology"
-category: "arts-culture-music"
+title: Bookchin on Technology
+category: arts-culture-music
+tags:
+  - Bookchin
 ---
 
 ## **Bookchin on Technology**

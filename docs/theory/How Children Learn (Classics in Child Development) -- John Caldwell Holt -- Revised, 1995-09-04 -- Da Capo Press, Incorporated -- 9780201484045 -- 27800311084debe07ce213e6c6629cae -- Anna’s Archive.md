@@ -1,6 +1,8 @@
 ---
-title: "How Children Learn"
-category: "theory"
+title: How Children Learn
+category: theory
+tags:
+  - theory
 ---
 
 # How Children Learn

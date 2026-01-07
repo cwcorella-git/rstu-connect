@@ -1,8 +1,12 @@
 ---
-title: "2012 Georgian Students Protest Against Prisoner Abuse"
-author: "Mikhail Saakashvili"
-date: "2012"
-category: "organizing"
+title: 2012 Georgian Students Protest Against Prisoner Abuse
+author: Mikhail Saakashvili
+date: '2012'
+category: organizing
+tags:
+  - protests
+  - prisons
+  - education
 ---
 
 ## **2012: Georgian students protest against prisoner abuse**

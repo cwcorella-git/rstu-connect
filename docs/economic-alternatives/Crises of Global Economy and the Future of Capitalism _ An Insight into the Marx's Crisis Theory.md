@@ -1,6 +1,10 @@
 ---
-title: "e Books"
-category: "economic-alternatives"
+title: e Books
+category: economic-alternatives
+tags:
+  - capitalism
+  - economics
+  - alternatives
 ---
 
 ## Crises of Global Economies and the Future of Capitalism

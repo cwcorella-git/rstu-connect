@@ -1,6 +1,9 @@
 ---
-title: "COP26 Corporate Sponsors: A Barrier To A Just Transition"
-category: "feminist-theory"
+title: 'COP26 Corporate Sponsors: A Barrier To A Just Transition'
+category: feminist-theory
+tags:
+  - just transition
+  - feminism
 ---
 
 ## **COP26 Corporate Sponsors: A Barrier To A Just Transition**

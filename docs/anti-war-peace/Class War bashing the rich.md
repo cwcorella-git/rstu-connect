@@ -1,6 +1,9 @@
 ---
-title: "Class War \"bashing the rich\""
-category: "anti-war-peace"
+title: Class War "bashing the rich"
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War "bashing the rich"**

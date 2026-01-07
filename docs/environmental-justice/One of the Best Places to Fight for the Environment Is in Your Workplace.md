@@ -1,6 +1,9 @@
 ---
-title: "One of the Best Places to Fight for the Environment Is in Your Workplace"
-category: "environmental-justice"
+title: One of the Best Places to Fight for the Environment Is in Your Workplace
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **One of the Best Places to Fight for the Environment Is in Your Workplace**

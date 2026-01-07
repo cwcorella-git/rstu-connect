@@ -1,6 +1,9 @@
 ---
-title: "What Is Democracy?"
-category: "contemporary-analysis"
+title: What Is Democracy?
+category: contemporary-analysis
+tags:
+  - democracy
+  - liberty
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

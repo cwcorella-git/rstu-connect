@@ -1,6 +1,9 @@
 ---
-title: "Anchoring the FSF in its values"
-category: "technology-digital-justice"
+title: Anchoring the FSF in its values
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Anchoring the FSF in its values**

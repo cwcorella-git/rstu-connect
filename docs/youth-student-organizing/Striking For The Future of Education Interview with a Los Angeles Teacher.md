@@ -1,6 +1,9 @@
 ---
-title: "Striking For The Future of Education: Interview with a Los Angeles Teacher"
-category: "youth-student-organizing"
+title: 'Striking For The Future of Education: Interview with a Los Angeles Teacher'
+category: youth-student-organizing
+tags:
+  - education
+  - Los Angeles
 ---
 
 ## **Striking For The Future of Education: Interview with a Los Angeles Teacher**

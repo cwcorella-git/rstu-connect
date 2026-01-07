@@ -1,6 +1,9 @@
 ---
-title: "University of Memphis Digital Commons University of Memphis Digital Commons"
-category: "contemporary-analysis"
+title: University of Memphis Digital Commons University of Memphis Digital Commons
+category: contemporary-analysis
+tags:
+  - anarchism
+  - commons
 ---
 
 #### University of Memphis University of Memphis

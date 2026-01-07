@@ -1,6 +1,9 @@
 ---
-title: "Class Struggle Environmentalism, Degrowth, and Ecosocialism"
-category: "environmental-justice"
+title: 'Class Struggle Environmentalism, Degrowth, and Ecosocialism'
+category: environmental-justice
+tags:
+  - environment
+  - class
 ---
 
 ## **Class Struggle Environmentalism, Degrowth, and Ecosocialism**

@@ -1,8 +1,12 @@
 ---
-title: "How A Railway Workers Union Won New Technology That Improves Jobs And Safety"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: How A Railway Workers Union Won New Technology That Improves Jobs And Safety
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - railroads
 ---
 
 # How A Railway Workers Union Won New Technology That Improves Jobs And Reduces Gr

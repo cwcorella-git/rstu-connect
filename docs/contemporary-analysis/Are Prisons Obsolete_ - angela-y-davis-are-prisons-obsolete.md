@@ -1,6 +1,8 @@
 ---
-title: "Contents"
-category: "contemporary-analysis"
+title: Contents
+category: contemporary-analysis
+tags:
+  - prisons
 ---
 
 ## Are Prisons Obsolete?

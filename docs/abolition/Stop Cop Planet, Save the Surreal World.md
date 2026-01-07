@@ -1,6 +1,10 @@
 ---
-title: "Stop Cop Planet, Save the Surreal World"
-category: "contemporary-analysis"
+title: 'Stop Cop Planet, Save the Surreal World'
+category: contemporary-analysis
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # **Stop Cop Planet, Save the Surreal World**

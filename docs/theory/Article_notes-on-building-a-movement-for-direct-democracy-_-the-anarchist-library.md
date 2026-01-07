@@ -1,8 +1,11 @@
 ---
-title: "Notes On Building a Movement For Direct Democracy the Anarchist Library"
-author: "James Herod"
-date: "2025"
-category: "theory"
+title: Notes On Building a Movement For Direct Democracy the Anarchist Library
+author: James Herod
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - democracy
 ---
 
 # Notes On Building a Movement For Direct Democracy the Anarchist Library

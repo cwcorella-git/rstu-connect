@@ -1,8 +1,11 @@
 ---
-title: "Legislative Tracking and Policy Analysis"
-author: "Unknown"
-date: "2025"
-category: "misc"
+title: Legislative Tracking and Policy Analysis
+author: Unknown
+date: '2025'
+category: misc
+tags:
+  - legislation
+  - Nevada
 ---
 
 # Legislative Tracking and Policy Analysis

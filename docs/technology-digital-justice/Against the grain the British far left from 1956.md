@@ -1,6 +1,10 @@
 ---
-title: "Against the grain: the British far left from 1956"
-category: "technology-digital-justice"
+title: 'Against the grain: the British far left from 1956'
+category: technology-digital-justice
+tags:
+  - United Kingdom
+  - technology
+  - digital rights
 ---
 
 ## **Against the grain: the British far left from 1956**

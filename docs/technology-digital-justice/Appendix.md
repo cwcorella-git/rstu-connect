@@ -1,6 +1,9 @@
 ---
-title: "Appendix"
-category: "technology-digital-justice"
+title: Appendix
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Appendix**

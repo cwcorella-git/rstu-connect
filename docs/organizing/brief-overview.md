@@ -1,8 +1,10 @@
 ---
-title: "brief-overview"
-author: "Reno Sparks Tenants Union"
-date: "2025"
-category: "organizing"
+title: brief-overview
+author: Reno Sparks Tenants Union
+date: '2025'
+category: organizing
+tags:
+  - organizing
 ---
 
 # brief-overview

@@ -1,6 +1,9 @@
 ---
-title: "I am a member of the CNT, for anarcho-syndicalism - René Thieblemont"
-category: "contemporary-analysis"
+title: 'I am a member of the CNT, for anarcho-syndicalism - René Thieblemont'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## **I am a member of the CNT, for anarcho-syndicalism - René Thieblemont**

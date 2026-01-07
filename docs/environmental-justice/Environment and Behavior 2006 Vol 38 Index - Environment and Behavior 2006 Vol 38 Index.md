@@ -1,6 +1,9 @@
 ---
-title: "ENVIRONMENT AND BEHAVIOR"
-category: "environmental-justice"
+title: ENVIRONMENT AND BEHAVIOR
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## INDEX

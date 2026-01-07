@@ -1,6 +1,9 @@
 ---
-title: "The Irrepressible Anarchists"
-category: "contemporary-analysis"
+title: The Irrepressible Anarchists
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Crimeth Inc.**

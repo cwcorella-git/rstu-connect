@@ -1,6 +1,9 @@
 ---
-title: "## James Herod"
-category: "labor"
+title: '## James Herod'
+category: labor
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## James Herod

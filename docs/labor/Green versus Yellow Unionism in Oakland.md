@@ -1,6 +1,10 @@
 ---
-title: "Green versus Yellow Unionism in Oakland"
-category: "labor"
+title: Green versus Yellow Unionism in Oakland
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # **Green versus Yellow Unionism in Oakland**

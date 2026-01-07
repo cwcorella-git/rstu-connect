@@ -1,6 +1,11 @@
 ---
-title: "Means And Ends: The Revolutionary Practice of Anarchism in Europe and the United States – Zoe B"
-category: "contemporary-analysis"
+title: >-
+  Means And Ends: The Revolutionary Practice of Anarchism in Europe and the
+  United States – Zoe B
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Means And Ends: The Revolutionary Practice of Anarchism in Europe and the United States – Zoe Baker**

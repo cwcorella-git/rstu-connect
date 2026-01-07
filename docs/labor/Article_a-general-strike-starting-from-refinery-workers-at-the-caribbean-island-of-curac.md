@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Wikipedia"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Wikipedia
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - labor
 ---
 
 # A General Strike Starting From Refinery Workers At the Caribbean Island of Curac

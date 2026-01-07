@@ -1,8 +1,12 @@
 ---
-title: "Debt: The Possibilities Ignored"
-author: "William Gillis"
-date: "2014"
-category: "housing"
+title: 'Debt: The Possibilities Ignored'
+author: William Gillis
+date: '2014'
+category: housing
+tags:
+  - debt
+  - housing
+  - tenants
 ---
 
 ## **William Gillis**

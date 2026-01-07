@@ -1,8 +1,12 @@
 ---
-title: "A World Without Police Audio Book"
-author: "Geo Maher"
-date: "2025"
-category: "abolition"
+title: A World Without Police Audio Book
+author: Geo Maher
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # A World Without Police Audio Book

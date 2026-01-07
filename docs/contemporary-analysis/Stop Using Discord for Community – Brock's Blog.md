@@ -1,6 +1,10 @@
 ---
-title: "## [blog.brockh.at](https://blog.brockh.at/2025/09/24/stop-using-discord-for-community/)"
-category: "contemporary-analysis"
+title: >-
+  ##
+  [blog.brockh.at](https://blog.brockh.at/2025/09/24/stop-using-discord-for-community/)
+category: contemporary-analysis
+tags:
+  - community
 ---
 
 ## [blog.brockh.at](https://blog.brockh.at/2025/09/24/stop-using-discord-for-community/)

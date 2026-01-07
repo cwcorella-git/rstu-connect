@@ -1,8 +1,10 @@
 ---
-title: "On playing by the rules"
-author: "David Graeber"
-date: "October 19, 2011"
-category: "contemporary-analysis"
+title: On playing by the rules
+author: David Graeber
+date: 'October 19, 2011'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 Just a few months ago, I wrote a piece for Adbusters that started with a conversation I’d had with an Egyptian activist friend named Dina:

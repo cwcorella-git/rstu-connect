@@ -1,6 +1,9 @@
 ---
-title: "Counterinsurgency Reexamined: Racism, Capitalism, and US Military Doctrine"
-category: "environmental-justice"
+title: 'Counterinsurgency Reexamined: Racism, Capitalism, and US Military Doctrine'
+category: environmental-justice
+tags:
+  - racial justice
+  - capitalism
 ---
 
 # Counterinsurgency Reexamined: Racism, Capitalism, and US Military Doctrine

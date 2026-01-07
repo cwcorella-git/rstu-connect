@@ -1,6 +1,8 @@
 ---
-title: "Were we wrong? - Murray Bookchin"
-category: "arts-culture-music"
+title: Were we wrong? - Murray Bookchin
+category: arts-culture-music
+tags:
+  - Bookchin
 ---
 
 ## **Were we wrong? - Murray Bookchin**

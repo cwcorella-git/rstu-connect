@@ -1,6 +1,11 @@
 ---
-title: "The Rebellion Explodes: Protests, Riots, and Clashes Grow in Response to the Murder of George Floyd"
-category: "contemporary-analysis"
+title: >-
+  The Rebellion Explodes: Protests, Riots, and Clashes Grow in Response to the
+  Murder of George Floyd
+category: contemporary-analysis
+tags:
+  - protests
+  - riots
 ---
 
 # **The Rebellion Explodes: Protests, Riots, and Clashes Grow in Response to the Murder of George Floyd**

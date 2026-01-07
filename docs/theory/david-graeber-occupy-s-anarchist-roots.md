@@ -1,8 +1,12 @@
 ---
-title: "Occupy’s anarchist roots"
-author: "David Graeber"
-date: "29<sup>th</sup> November 2011"
-category: "contemporary-analysis"
+title: Occupy’s anarchist roots
+author: David Graeber
+date: 29<sup>th</sup> November 2011
+category: contemporary-analysis
+tags:
+  - occupations
+  - anarchism
+  - Graeber
 ---
 
 New York, NY — Almost every time I’m interviewed by a mainstream journalist about Occupy Wall Street I get some variation of the same lecture:

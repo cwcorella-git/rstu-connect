@@ -1,6 +1,9 @@
 ---
-title: "fin That Is"
-category: "technology-digital-justice"
+title: fin That Is
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 "A visionary work which by all rights ought to have the impact of such sixties bibles as Growing Up Absurd and Life Against Death"

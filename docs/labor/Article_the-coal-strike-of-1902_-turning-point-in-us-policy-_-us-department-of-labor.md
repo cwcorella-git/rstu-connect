@@ -1,8 +1,11 @@
 ---
-title: "The Coal Strike of 1902 Turning Point in Us Policy Us Department of Labor"
-author: "Jonathan Grossman"
-date: "2025"
-category: "labor"
+title: The Coal Strike of 1902 Turning Point in Us Policy Us Department of Labor
+author: Jonathan Grossman
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
 ---
 
 # The Coal Strike of 1902 Turning Point in Us Policy Us Department of Labor

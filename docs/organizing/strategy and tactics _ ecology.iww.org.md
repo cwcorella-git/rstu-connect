@@ -1,6 +1,9 @@
 ---
-title: "## [ecology.iww.org](https://ecology.iww.org/taxonomy/term/1788)"
-category: "organizing"
+title: '## [ecology.iww.org](https://ecology.iww.org/taxonomy/term/1788)'
+category: organizing
+tags:
+  - unions
+  - environment
 ---
 
 ## [ecology.iww.org](https://ecology.iww.org/taxonomy/term/1788)

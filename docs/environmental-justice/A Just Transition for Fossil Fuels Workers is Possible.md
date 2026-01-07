@@ -1,6 +1,10 @@
 ---
-title: "A Just Transition for Fossil Fuels Workers is Possible"
-category: "feminist-theory"
+title: A Just Transition for Fossil Fuels Workers is Possible
+category: feminist-theory
+tags:
+  - labor
+  - fossil fuels
+  - just transition
 ---
 
 ## **A Just Transition for Fossil Fuels Workers is Possible**

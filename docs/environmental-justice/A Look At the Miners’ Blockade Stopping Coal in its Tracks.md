@@ -1,6 +1,10 @@
 ---
-title: "A Look At the Miners' Blockade Stopping Coal in its Tracks"
-category: "environmental-justice"
+title: A Look At the Miners' Blockade Stopping Coal in its Tracks
+category: environmental-justice
+tags:
+  - blockades
+  - environment
+  - climate
 ---
 
 ## **A Look At the Miners' Blockade Stopping Coal in its Tracks**

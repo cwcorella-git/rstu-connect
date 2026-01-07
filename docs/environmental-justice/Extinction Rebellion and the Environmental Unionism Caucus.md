@@ -1,6 +1,9 @@
 ---
-title: "Extinction Rebellion and the Environmental Unionism Caucus"
-category: "environmental-justice"
+title: Extinction Rebellion and the Environmental Unionism Caucus
+category: environmental-justice
+tags:
+  - riots
+  - environment
 ---
 
 ## **Extinction Rebellion and the Environmental Unionism Caucus**

@@ -1,6 +1,9 @@
 ---
-title: "Attica Prison riot"
-category: "contemporary-analysis"
+title: Attica Prison riot
+category: contemporary-analysis
+tags:
+  - riots
+  - prisons
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

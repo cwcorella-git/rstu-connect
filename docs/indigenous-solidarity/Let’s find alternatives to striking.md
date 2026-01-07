@@ -1,6 +1,9 @@
 ---
-title: "Let's find alternatives to striking"
-category: "indigenous-solidarity"
+title: Let's find alternatives to striking
+category: indigenous-solidarity
+tags:
+  - indigenous
+  - solidarity
 ---
 
 ## **Let's find alternatives to striking**

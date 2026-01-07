@@ -1,8 +1,11 @@
 ---
-title: "What Is Communist Anarchism"
-author: "Alexander Berkman"
-date: "1929"
-category: "theory"
+title: What Is Communist Anarchism
+author: Alexander Berkman
+date: '1929'
+category: theory
+tags:
+  - anarchism
+  - socialism
 ---
 
 # **Alexander Berkman**

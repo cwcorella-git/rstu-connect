@@ -1,6 +1,9 @@
 ---
-title: "Going Slowly to 100% Renewables … by 2025?"
-category: "environmental-justice"
+title: Going Slowly to 100% Renewables … by 2025?
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **Going Slowly to 100% Renewables … by 2025?**

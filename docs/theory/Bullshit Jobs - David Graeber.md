@@ -1,8 +1,11 @@
 ---
-title: "Bullshit Jobs - David Graeber"
-author: "BULLSHIT JOBS"
-date: "2018"
-category: "theory"
+title: Bullshit Jobs - David Graeber
+author: BULLSHIT JOBS
+date: '2018'
+category: theory
+tags:
+  - Graeber
+  - theory
 ---
 
 # DAVID GRAEBER

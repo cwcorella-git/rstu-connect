@@ -1,6 +1,10 @@
 ---
-title: "Holding the line: supporters picket Canada Post after back-to-work legislation"
-category: "contemporary-analysis"
+title: 'Holding the line: supporters picket Canada Post after back-to-work legislation'
+category: contemporary-analysis
+tags:
+  - Canada
+  - legislation
+  - Nevada
 ---
 
 # **Holding the line: supporters picket Canada Post after back-to-work legislation**

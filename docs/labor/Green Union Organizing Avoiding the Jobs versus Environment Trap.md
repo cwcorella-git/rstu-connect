@@ -1,6 +1,10 @@
 ---
-title: "Green Union Organizing: Avoiding the \"Jobs versus Environment\" Trap"
-category: "labor"
+title: 'Green Union Organizing: Avoiding the "Jobs versus Environment" Trap'
+category: labor
+tags:
+  - unions
+  - organizing
+  - environment
 ---
 
 # **Green Union Organizing: Avoiding the "Jobs versus Environment" Trap**

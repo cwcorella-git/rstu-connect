@@ -1,6 +1,10 @@
 ---
-title: "Support striking university workers and build worker-student solidarity!"
-category: "youth-student-organizing"
+title: Support striking university workers and build worker-student solidarity!
+category: youth-student-organizing
+tags:
+  - solidarity
+  - labor
+  - education
 ---
 
 ## **Support striking university workers and build worker-student solidarity!**

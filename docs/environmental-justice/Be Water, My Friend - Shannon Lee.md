@@ -1,6 +1,9 @@
 ---
-title: "Be Water, My Friend"
-category: "environmental-justice"
+title: 'Be Water, My Friend'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # Be Water, My Friend

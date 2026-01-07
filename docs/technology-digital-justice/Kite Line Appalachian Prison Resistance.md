@@ -1,6 +1,10 @@
 ---
-title: "Kite Line: Appalachian Prison Resistance"
-category: "technology-digital-justice"
+title: 'Kite Line: Appalachian Prison Resistance'
+category: technology-digital-justice
+tags:
+  - prisons
+  - technology
+  - digital rights
 ---
 
 ## **Kite Line: Appalachian Prison Resistance**

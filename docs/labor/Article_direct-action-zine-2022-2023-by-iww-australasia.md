@@ -1,8 +1,11 @@
 ---
-title: "Direct Action Zine 2022 2023 By Iww Australasia"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Direct Action Zine 2022 2023 By Iww Australasia
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - direct action
+  - unions
 ---
 
 # Direct Action Zine 2022 2023 By Iww Australasia

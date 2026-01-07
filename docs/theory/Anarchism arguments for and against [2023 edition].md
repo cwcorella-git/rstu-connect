@@ -1,8 +1,11 @@
 ---
-title: "Anarchism Arguments For And Against 2023 Edition"
-author: "Ambrose Cuddon"
-date: "1981"
-category: "theory"
+title: Anarchism Arguments For And Against 2023 Edition
+author: Ambrose Cuddon
+date: '1981'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # **Anarchism: arguments for and against [2023 edition]**

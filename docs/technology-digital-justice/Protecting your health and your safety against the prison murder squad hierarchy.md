@@ -1,6 +1,11 @@
 ---
-title: "Protecting your health and your safety against the prison murder squad hierarchy"
-category: "technology-digital-justice"
+title: >-
+  Protecting your health and your safety against the prison murder squad
+  hierarchy
+category: technology-digital-justice
+tags:
+  - prisons
+  - healthcare
 ---
 
 ## **Protecting your health and your safety against the prison murder squad hierarchy**

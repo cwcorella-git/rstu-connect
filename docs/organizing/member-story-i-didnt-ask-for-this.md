@@ -1,8 +1,10 @@
 ---
-title: "Member Stories: 'I Didn't Ask For This"
-author: "Anonymous Member"
-date: "2025-08-05"
-category: "organizing"
+title: 'Member Stories: ''I Didn''t Ask For This'
+author: Anonymous Member
+date: '2025-08-05'
+category: organizing
+tags:
+  - organizing
 ---
 
 # Member Stories: "I Didn't Ask For This"

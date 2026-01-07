@@ -1,6 +1,9 @@
 ---
-title: "Class War #57 1992"
-category: "anti-war-peace"
+title: 'Class War #57 1992'
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War #57 1992**

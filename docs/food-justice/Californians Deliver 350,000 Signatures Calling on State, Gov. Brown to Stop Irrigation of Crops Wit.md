@@ -1,6 +1,11 @@
 ---
-title: "Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop Irrigation of Crop"
-category: "food-justice"
+title: >-
+  Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop
+  Irrigation of Crop
+category: food-justice
+tags:
+  - food
+  - justice
 ---
 
 ## **Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop Irrigation of Crops With Oil Wastewater**

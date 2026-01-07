@@ -1,6 +1,8 @@
 ---
-title: "Chapter 1. The Interview with Merlino"
-category: "contemporary-analysis"
+title: Chapter 1. The Interview with Merlino
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **The End of Anarchism?**

@@ -1,6 +1,8 @@
 ---
-title: "Nostalgia in the UK - Bash Street Kids"
-category: "contemporary-analysis"
+title: Nostalgia in the UK - Bash Street Kids
+category: contemporary-analysis
+tags:
+  - United Kingdom
 ---
 
 # **Nostalgia in the UK - Bash Street Kids**

@@ -1,8 +1,12 @@
 ---
-title: "On the Revolutionary Union Movement Faction in the Iww"
-author: "M. Dashar"
-date: "2025"
-category: "labor"
+title: On the Revolutionary Union Movement Faction in the Iww
+author: M. Dashar
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # On the Revolutionary Union Movement Faction in the Iww

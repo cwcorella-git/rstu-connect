@@ -1,6 +1,9 @@
 ---
-title: "Red dwarf"
-category: "anti-war-peace"
+title: Red dwarf
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Red_dwarf)

@@ -1,6 +1,9 @@
 ---
-title: "Anarchism and Outrage"
-category: "theory"
+title: Anarchism and Outrage
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Charlotte Wilson**

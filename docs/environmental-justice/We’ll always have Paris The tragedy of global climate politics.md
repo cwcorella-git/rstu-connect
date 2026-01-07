@@ -1,6 +1,9 @@
 ---
-title: "We'll always have Paris: The tragedy of global climate politics"
-category: "environmental-justice"
+title: 'We''ll always have Paris: The tragedy of global climate politics'
+category: environmental-justice
+tags:
+  - environment
+  - France
 ---
 
 # **We'll always have Paris: The tragedy of global climate politics**

@@ -1,6 +1,11 @@
 ---
-title: "Rank-and-File Union Members Join Standing Rock Camp, As Crackdown on Opponents of Pipeline Esca"
-category: "environmental-justice"
+title: >-
+  Rank-and-File Union Members Join Standing Rock Camp, As Crackdown on Opponents
+  of Pipeline Esca
+category: environmental-justice
+tags:
+  - unions
+  - fossil fuels
 ---
 
 ## **Rank-and-File Union Members Join Standing Rock Camp, As Crackdown on Opponents of Pipeline Escalates**

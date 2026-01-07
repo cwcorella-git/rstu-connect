@@ -1,6 +1,9 @@
 ---
-title: "Empire's Workshop Under a Flailing Empire"
-category: "technology-digital-justice"
+title: Empire's Workshop Under a Flailing Empire
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # **Empire's Workshop Under a Flailing Empire**

@@ -1,6 +1,9 @@
 ---
-title: "## THE CAPITALIST SYSTEM"
-category: "technology-digital-justice"
+title: '## THE CAPITALIST SYSTEM'
+category: technology-digital-justice
+tags:
+  - capitalism
+  - Bakunin
 ---
 
 ## THE CAPITALIST SYSTEM

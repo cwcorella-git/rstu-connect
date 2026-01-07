@@ -1,8 +1,11 @@
 ---
-title: "An Appeal To The Young Petr Kropotkin"
-author: "Peter Kropotkin"
-date: "1880"
-category: "theory"
+title: An Appeal To The Young Petr Kropotkin
+author: Peter Kropotkin
+date: '1880'
+category: theory
+tags:
+  - Kropotkin
+  - theory
 ---
 
 ## Pëtr Kropotkin An Appeal to the Young 1880

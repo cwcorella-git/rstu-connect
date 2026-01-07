@@ -1,8 +1,11 @@
 ---
-title: "Antifa  The Anti Fascist Handbook"
-author: "Mark Bray"
-date: "1913"
-category: "theory"
+title: Antifa  The Anti Fascist Handbook
+author: Mark Bray
+date: '1913'
+category: theory
+tags:
+  - antifascism
+  - theory
 ---
 
 # **Mark Bray**

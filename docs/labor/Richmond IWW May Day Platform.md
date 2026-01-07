@@ -1,6 +1,9 @@
 ---
-title: "Richmond IWW May Day Platform"
-category: "labor"
+title: Richmond IWW May Day Platform
+category: labor
+tags:
+  - unions
+  - gig economy
 ---
 
 # **Richmond IWW May Day Platform**

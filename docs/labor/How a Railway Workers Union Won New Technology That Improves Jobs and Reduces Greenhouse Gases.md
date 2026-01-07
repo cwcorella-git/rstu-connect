@@ -1,6 +1,12 @@
 ---
-title: "How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases*"
-category: "environmental-justice"
+title: >-
+  How a Railway Workers Union Won New Technology That Improves Jobs and Reduces
+  Greenhouse Gases*
+category: environmental-justice
+tags:
+  - unions
+  - labor
+  - railroads
 ---
 
 ## **How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases**

@@ -1,6 +1,9 @@
 ---
-title: "Just Transition and Extractive Industry Workers"
-category: "labor"
+title: Just Transition and Extractive Industry Workers
+category: labor
+tags:
+  - labor
+  - just transition
 ---
 
 ## **Just Transition and Extractive Industry Workers**

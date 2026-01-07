@@ -1,6 +1,12 @@
 ---
-title: "Union Advocates for Socialist Rifle Association Workers, Volunteers and Members"
-category: "contemporary-analysis"
+title: >-
+  Union Advocates for Socialist Rifle Association Workers, Volunteers and
+  Members
+category: contemporary-analysis
+tags:
+  - unions
+  - socialism
+  - labor
 ---
 
 ## **Union Advocates for Socialist Rifle Association Workers, Volunteers and Members**

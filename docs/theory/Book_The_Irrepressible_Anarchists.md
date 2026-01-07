@@ -1,8 +1,11 @@
 ---
-title: "Book the Irrepressible Anarchists"
-author: "CrimethInc."
-date: "2025"
-category: "theory"
+title: Book the Irrepressible Anarchists
+author: CrimethInc.
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Book the Irrepressible Anarchists

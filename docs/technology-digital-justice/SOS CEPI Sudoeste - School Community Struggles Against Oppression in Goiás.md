@@ -1,6 +1,9 @@
 ---
-title: "SOS CEPI Sudoeste - School Community Struggles Against Oppression in Goiás"
-category: "technology-digital-justice"
+title: SOS CEPI Sudoeste - School Community Struggles Against Oppression in Goiás
+category: technology-digital-justice
+tags:
+  - community
+  - education
 ---
 
 ## **SOS CEPI Sudoeste - School Community Struggles Against Oppression in Goiás**

@@ -1,8 +1,11 @@
 ---
-title: "The Spanish Anarchists"
-author: "Murray Bookchin"
-date: "2025"
-category: "theory"
+title: The Spanish Anarchists
+author: Murray Bookchin
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - Spain
 ---
 
 # The Spanish Anarchists

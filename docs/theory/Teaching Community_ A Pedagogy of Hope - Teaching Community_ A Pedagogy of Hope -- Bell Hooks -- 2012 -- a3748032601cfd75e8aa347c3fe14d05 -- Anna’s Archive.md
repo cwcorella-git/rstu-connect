@@ -1,6 +1,9 @@
 ---
-title: "Teaching Community"
-category: "theory"
+title: Teaching Community
+category: theory
+tags:
+  - community
+  - theory
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

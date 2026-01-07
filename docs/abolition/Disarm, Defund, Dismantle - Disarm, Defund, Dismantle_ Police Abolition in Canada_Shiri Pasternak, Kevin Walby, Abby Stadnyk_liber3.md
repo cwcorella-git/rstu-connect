@@ -1,6 +1,10 @@
 ---
-title: "Contents"
-category: "contemporary-analysis"
+title: Contents
+category: contemporary-analysis
+tags:
+  - police
+  - abolition
+  - Canada
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

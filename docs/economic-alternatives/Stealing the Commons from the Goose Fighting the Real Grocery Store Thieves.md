@@ -1,6 +1,10 @@
 ---
-title: "Stealing the Commons from the Goose: Fighting the Real Grocery Store Thieves"
-category: "contemporary-analysis"
+title: 'Stealing the Commons from the Goose: Fighting the Real Grocery Store Thieves'
+category: contemporary-analysis
+tags:
+  - commons
+  - economics
+  - alternatives
 ---
 
 ## **Stealing the Commons from the Goose: Fighting the Real Grocery Store Thieves**

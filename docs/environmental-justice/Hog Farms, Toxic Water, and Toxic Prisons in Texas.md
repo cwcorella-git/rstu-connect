@@ -1,6 +1,9 @@
 ---
-title: "Hog Farms, Toxic Water, and Toxic Prisons in Texas"
-category: "environmental-justice"
+title: 'Hog Farms, Toxic Water, and Toxic Prisons in Texas'
+category: environmental-justice
+tags:
+  - prisons
+  - food
 ---
 
 ## **Hog Farms, Toxic Water, and Toxic Prisons in Texas**

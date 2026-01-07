@@ -1,8 +1,11 @@
 ---
-title: "In Defense Of Housing 2016 Madden Marcuse Defense Housing Book"
-author: "Hewer Text"
-date: "1872"
-category: "housing"
+title: In Defense Of Housing 2016 Madden Marcuse Defense Housing Book
+author: Hewer Text
+date: '1872'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 ## IN DEFENSE OF HOUS ING

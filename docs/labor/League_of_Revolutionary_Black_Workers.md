@@ -1,6 +1,10 @@
 ---
-title: "A. Muhammad Ahmad 1968-1971: The League of Revolutionary Black Workers"
-category: "contemporary-analysis"
+title: 'A. Muhammad Ahmad 1968-1971: The League of Revolutionary Black Workers'
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # **A. Muhammad Ahmad 1968-1971: The League of Revolutionary Black Workers**

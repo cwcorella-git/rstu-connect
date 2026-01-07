@@ -1,6 +1,12 @@
 ---
-title: "8th of march - international women's day - messages from the front line in Ukraine"
-category: "theory"
+title: >-
+  8th of march - international women's day - messages from the front line in
+  Ukraine
+category: theory
+tags:
+  - protests
+  - women
+  - Ukraine
 ---
 
 ## **8th of march - international women's day - messages from the front line in Ukraine**

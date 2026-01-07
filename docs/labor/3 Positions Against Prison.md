@@ -1,8 +1,13 @@
 ---
-title: "3 Positions Against Prison"
-author: "August O’Clairre"
-date: "2011"
-category: "labor"
+title: 3 Positions Against Prison
+author: August O’Clairre
+date: '2011'
+category: labor
+tags:
+  - prisons
+  - labor
+  - unions
+  - workers
 ---
 
 ## **August O'Clairre**

@@ -1,6 +1,9 @@
 ---
-title: "1947: Mombasa General Strike"
-category: "labor"
+title: '1947: Mombasa General Strike'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1947: Mombasa General Strike**

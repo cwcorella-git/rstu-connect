@@ -1,8 +1,11 @@
 ---
-title: "To Halt the Slide Into Authoritarianism We Need a General Strike"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: To Halt the Slide Into Authoritarianism We Need a General Strike
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # To Halt the Slide Into Authoritarianism We Need a General Strike

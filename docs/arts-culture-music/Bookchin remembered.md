@@ -1,6 +1,8 @@
 ---
-title: "Bookchin remembered"
-category: "arts-culture-music"
+title: Bookchin remembered
+category: arts-culture-music
+tags:
+  - Bookchin
 ---
 
 ## **Bookchin remembered**

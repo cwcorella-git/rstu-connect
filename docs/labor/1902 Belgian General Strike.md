@@ -1,6 +1,9 @@
 ---
-title: "1902: Belgian General Strike"
-category: "labor"
+title: '1902: Belgian General Strike'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1902: Belgian General Strike**

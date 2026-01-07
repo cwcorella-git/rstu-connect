@@ -1,8 +1,10 @@
 ---
-title: "Organizing Materials and Activities"
-author: "Jeff Shantz"
-date: "2025"
-category: "organizing"
+title: Organizing Materials and Activities
+author: Jeff Shantz
+date: '2025'
+category: organizing
+tags:
+  - organizing
 ---
 
 # Organizing Materials and Activities

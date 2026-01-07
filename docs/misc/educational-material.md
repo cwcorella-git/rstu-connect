@@ -1,8 +1,10 @@
 ---
-title: "educational-material"
-author: "Unknown"
-date: "2025"
-category: "misc"
+title: educational-material
+author: Unknown
+date: '2025'
+category: misc
+tags:
+  - education
 ---
 
 # educational-material

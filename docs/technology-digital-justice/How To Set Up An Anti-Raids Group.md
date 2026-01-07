@@ -1,6 +1,9 @@
 ---
-title: "How To Set Up An Anti-Raids Group"
-category: "technology-digital-justice"
+title: How To Set Up An Anti-Raids Group
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **How To Set Up An Anti-Raids Group**

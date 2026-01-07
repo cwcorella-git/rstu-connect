@@ -1,6 +1,10 @@
 ---
-title: "Camillo Berneri, Decolonization, and the Spanish Revolution - Jeff Shantz"
-category: "theory"
+title: 'Camillo Berneri, Decolonization, and the Spanish Revolution - Jeff Shantz'
+category: theory
+tags:
+  - Spain
+  - indigenous
+  - solidarity
 ---
 
 ## **Camillo Berneri, Decolonization, and the Spanish Revolution - Jeff Shantz**

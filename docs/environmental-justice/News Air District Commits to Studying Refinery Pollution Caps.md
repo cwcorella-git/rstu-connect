@@ -1,6 +1,9 @@
 ---
-title: "News: Air District Commits to Studying Refinery Pollution Caps"
-category: "environmental-justice"
+title: 'News: Air District Commits to Studying Refinery Pollution Caps'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **News: Air District Commits to Studying Refinery Pollution Caps**

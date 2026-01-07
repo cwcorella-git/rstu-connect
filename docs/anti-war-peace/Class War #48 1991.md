@@ -1,6 +1,9 @@
 ---
-title: "Class War #48 1991"
-category: "anti-war-peace"
+title: 'Class War #48 1991'
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War #48 1991**

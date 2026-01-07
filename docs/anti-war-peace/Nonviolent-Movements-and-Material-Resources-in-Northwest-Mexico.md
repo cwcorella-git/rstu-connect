@@ -1,6 +1,9 @@
 ---
-title: "Nonviolent Movements and Material Resources in Northwest Mexico"
-category: "anti-war-peace"
+title: Nonviolent Movements and Material Resources in Northwest Mexico
+category: anti-war-peace
+tags:
+  - nonviolence
+  - Mexico
 ---
 
 # Nonviolent Movements and Material Resources in Northwest Mexico

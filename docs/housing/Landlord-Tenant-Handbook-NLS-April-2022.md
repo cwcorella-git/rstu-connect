@@ -1,8 +1,11 @@
 ---
-title: "Landlord-Tenant-Handbook-NLS-April-2022"
-author: "Housing Advocacy Organization"
-date: "2022"
-category: "organizing"
+title: Landlord-Tenant-Handbook-NLS-April-2022
+author: Housing Advocacy Organization
+date: '2022'
+category: organizing
+tags:
+  - tenants
+  - housing
 ---
 
 # Landlord-Tenant-Handbook-NLS-April-2022

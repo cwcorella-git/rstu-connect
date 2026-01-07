@@ -1,6 +1,8 @@
 ---
-title: "The Quit India Speeches | Famous Speeches by Mahatma Gandhi"
-category: "contemporary-analysis"
+title: The Quit India Speeches | Famous Speeches by Mahatma Gandhi
+category: contemporary-analysis
+tags:
+  - India
 ---
 
 #### [mkgandhi.org](https://www.mkgandhi.org/speeches/qui.php)

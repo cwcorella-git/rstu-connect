@@ -1,6 +1,11 @@
 ---
-title: "## [americanyawp.com](https://www.americanyawp.com/reader/27-the-sixties/lyndon-johnson-howard-unive"
-category: "youth-student-organizing"
+title: >-
+  ##
+  [americanyawp.com](https://www.americanyawp.com/reader/27-the-sixties/lyndon-johnson-howard-unive
+category: youth-student-organizing
+tags:
+  - students
+  - youth
 ---
 
 ## [americanyawp.com](https://www.americanyawp.com/reader/27-the-sixties/lyndon-johnson-howard-university-commencement-address-1965/)

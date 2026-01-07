@@ -1,8 +1,11 @@
 ---
-title: "senate-bill-no-285-2025"
-author: "Senate Bill No"
-date: "2025"
-category: "legislation"
+title: senate-bill-no-285-2025
+author: Senate Bill No
+date: '2025'
+category: legislation
+tags:
+  - legislation
+  - Nevada
 ---
 
 # senate-bill-no-285-2025

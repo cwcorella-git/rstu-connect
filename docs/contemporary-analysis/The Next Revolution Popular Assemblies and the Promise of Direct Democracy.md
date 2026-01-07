@@ -1,6 +1,8 @@
 ---
-title: "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy"
-category: "contemporary-analysis"
+title: 'The Next Revolution: Popular Assemblies and the Promise of Direct Democracy'
+category: contemporary-analysis
+tags:
+  - democracy
 ---
 
 ## **The Next Revolution: Popular Assemblies and the Promise of Direct Democracy**

@@ -1,6 +1,8 @@
 ---
-title: "*Haymarket Martyrs' Monument*"
-category: "theory"
+title: '*Haymarket Martyrs'' Monument*'
+category: theory
+tags:
+  - theory
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

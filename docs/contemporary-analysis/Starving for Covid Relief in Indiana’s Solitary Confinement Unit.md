@@ -1,6 +1,8 @@
 ---
-title: "Starving for Covid Relief in Indiana's Solitary Confinement Unit"
-category: "contemporary-analysis"
+title: Starving for Covid Relief in Indiana's Solitary Confinement Unit
+category: contemporary-analysis
+tags:
+  - India
 ---
 
 ## **Starving for Covid Relief in Indiana's Solitary Confinement Unit**

@@ -1,6 +1,10 @@
 ---
-title: "Union Busting in Fast Fashion: IWW Cork"
-category: "contemporary-analysis"
+title: 'Union Busting in Fast Fashion: IWW Cork'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **Union Busting in Fast Fashion: IWW Cork**

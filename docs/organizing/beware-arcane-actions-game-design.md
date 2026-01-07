@@ -1,6 +1,8 @@
 ---
-title: "What Games Are"
-category: "organizing"
+title: What Games Are
+category: organizing
+tags:
+  - organizing
 ---
 
 The Wayback Machine - https://web.archive.org/web/20250914153152/https://www.whatgamesare.com/2011/08/beware-arcane-actions-game-des…

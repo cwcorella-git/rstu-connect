@@ -1,6 +1,10 @@
 ---
-title: "Writing Style"
-category: "environmental-justice"
+title: Writing Style
+category: environmental-justice
+tags:
+  - riots
+  - environment
+  - climate
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

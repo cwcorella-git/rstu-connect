@@ -1,6 +1,8 @@
 ---
-title: "Anarchy #30 1980"
-category: "contemporary-analysis"
+title: 'Anarchy #30 1980'
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **Anarchy #30 1980**

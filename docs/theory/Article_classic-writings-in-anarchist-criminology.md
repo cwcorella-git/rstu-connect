@@ -1,8 +1,11 @@
 ---
-title: "Classic Writings in Anarchist Criminology"
-author: "Anthony J. Nocella II, Mark Seis, and Jeff Shantz"
-date: "2025"
-category: "theory"
+title: Classic Writings in Anarchist Criminology
+author: 'Anthony J. Nocella II, Mark Seis, and Jeff Shantz'
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Classic Writings in Anarchist Criminology

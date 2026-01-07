@@ -1,6 +1,9 @@
 ---
-title: "The tragic week, Spain 1909 - Murray Bookchin"
-category: "arts-culture-music"
+title: 'The tragic week, Spain 1909 - Murray Bookchin'
+category: arts-culture-music
+tags:
+  - Bookchin
+  - Spain
 ---
 
 ## **The tragic week, Spain 1909 - Murray Bookchin**

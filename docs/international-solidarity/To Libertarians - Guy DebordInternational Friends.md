@@ -1,6 +1,9 @@
 ---
-title: "To Libertarians - Guy Debord/International Friends"
-category: "international-solidarity"
+title: To Libertarians - Guy Debord/International Friends
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 ## **To Libertarians - Guy Debord/International Friends**

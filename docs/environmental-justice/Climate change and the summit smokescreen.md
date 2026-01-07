@@ -1,6 +1,9 @@
 ---
-title: "Climate change and the summit smokescreen"
-category: "environmental-justice"
+title: Climate change and the summit smokescreen
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **Climate change and the summit smokescreen**

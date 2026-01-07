@@ -1,6 +1,9 @@
 ---
-title: "Organizing to End Prison Slavery with Bennu Hannibal Ra Sun"
-category: "contemporary-analysis"
+title: Organizing to End Prison Slavery with Bennu Hannibal Ra Sun
+category: contemporary-analysis
+tags:
+  - organizing
+  - prisons
 ---
 
 ## **Organizing to End Prison Slavery with Bennu Hannibal Ra Sun**

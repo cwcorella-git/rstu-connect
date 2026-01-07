@@ -1,6 +1,11 @@
 ---
-title: "An Open Letter to Our Allies in the Fight for Safe Rails and a Sustainable Environment"
-category: "environmental-justice"
+title: >-
+  An Open Letter to Our Allies in the Fight for Safe Rails and a Sustainable
+  Environment
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **An Open Letter to Our Allies in the Fight for Safe Rails and a Sustainable Environment**

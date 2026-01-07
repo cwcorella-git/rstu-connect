@@ -1,6 +1,9 @@
 ---
-title: "Your Wars! Our Dead! 'Sir! No Sir!'"
-category: "anti-war-peace"
+title: Your Wars! Our Dead! 'Sir! No Sir!'
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 ## **Your Wars! Our Dead! "Sir! No Sir!"**

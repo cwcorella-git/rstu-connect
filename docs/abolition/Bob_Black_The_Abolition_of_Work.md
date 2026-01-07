@@ -1,6 +1,10 @@
 ---
-title: "The Abolition of Work"
-category: "contemporary-analysis"
+title: The Abolition of Work
+category: contemporary-analysis
+tags:
+  - abolition
+  - police
+  - prisons
 ---
 
 # **The Abolition of Work**

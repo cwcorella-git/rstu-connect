@@ -1,8 +1,12 @@
 ---
-title: "Community Democracy and Mutual Aid"
-author: "Symbiosis Research Collective"
-date: "2025"
-category: "organizing"
+title: Community Democracy and Mutual Aid
+author: Symbiosis Research Collective
+date: '2025'
+category: organizing
+tags:
+  - mutual aid
+  - community
+  - democracy
 ---
 
 # Community Democracy and Mutual Aid

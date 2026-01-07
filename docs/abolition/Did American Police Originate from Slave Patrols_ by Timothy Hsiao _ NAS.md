@@ -1,8 +1,12 @@
 ---
-title: "Did American Police Originate From Slave Patrols  By Timothy Hsiao   Nas"
-author: "Timothy Hsiao"
-date: "1829"
-category: "abolition"
+title: Did American Police Originate From Slave Patrols  By Timothy Hsiao   Nas
+author: Timothy Hsiao
+date: '1829'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 [nas.org](https://www.nas.org/academic-questions/36/3/did-american-police-originate-from-slave-patrols)

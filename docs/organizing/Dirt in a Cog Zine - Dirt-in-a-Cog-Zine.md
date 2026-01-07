@@ -1,6 +1,8 @@
 ---
-title: "What does dirt in a cog mean?"
-category: "organizing"
+title: What does dirt in a cog mean?
+category: organizing
+tags:
+  - organizing
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

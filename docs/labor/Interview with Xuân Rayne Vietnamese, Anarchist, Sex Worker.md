@@ -1,6 +1,9 @@
 ---
-title: "Interview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker"
-category: "labor"
+title: 'Interview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker'
+category: labor
+tags:
+  - anarchism
+  - labor
 ---
 
 ## **Interview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker**

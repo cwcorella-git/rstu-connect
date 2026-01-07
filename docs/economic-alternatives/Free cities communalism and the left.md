@@ -1,6 +1,10 @@
 ---
-title: "Free cities: communalism and the left"
-category: "contemporary-analysis"
+title: 'Free cities: communalism and the left'
+category: contemporary-analysis
+tags:
+  - urban
+  - economics
+  - alternatives
 ---
 
 ## **Free cities: communalism and the left**

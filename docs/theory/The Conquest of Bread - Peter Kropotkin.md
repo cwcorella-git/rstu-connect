@@ -1,8 +1,11 @@
 ---
-title: "The Conquest of Bread"
-author: "Peter Kropotkin"
-date: "1892"
-category: "theory"
+title: The Conquest of Bread
+author: Peter Kropotkin
+date: '1892'
+category: theory
+tags:
+  - Kropotkin
+  - theory
 ---
 
 ## **The Conquest of Bread**

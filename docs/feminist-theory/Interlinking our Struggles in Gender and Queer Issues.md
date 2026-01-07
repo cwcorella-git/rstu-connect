@@ -1,6 +1,9 @@
 ---
-title: "Interlinking our Struggles in Gender and Queer Issues"
-category: "feminist-theory"
+title: Interlinking our Struggles in Gender and Queer Issues
+category: feminist-theory
+tags:
+  - LGBTQ+
+  - feminism
 ---
 
 ## **Interlinking our Struggles in Gender and Queer Issues**

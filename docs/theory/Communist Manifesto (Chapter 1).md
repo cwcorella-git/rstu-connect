@@ -1,6 +1,9 @@
 ---
-title: "Communist Manifesto (Chapter 1)"
-category: "contemporary-analysis"
+title: Communist Manifesto (Chapter 1)
+category: contemporary-analysis
+tags:
+  - socialism
+  - theory
 ---
 
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm)

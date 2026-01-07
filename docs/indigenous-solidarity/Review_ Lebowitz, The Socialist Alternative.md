@@ -1,6 +1,9 @@
 ---
-title: "## James Herod"
-category: "indigenous-solidarity"
+title: '## James Herod'
+category: indigenous-solidarity
+tags:
+  - socialism
+  - indigenous
 ---
 
 ## James Herod

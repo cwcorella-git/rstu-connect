@@ -1,6 +1,11 @@
 ---
-title: "The CIA reads French theory: on the intellectual labor of dismantling the cultural Left - Gabri"
-category: "arts-culture-music"
+title: >-
+  The CIA reads French theory: on the intellectual labor of dismantling the
+  cultural Left - Gabri
+category: arts-culture-music
+tags:
+  - labor
+  - France
 ---
 
 ## **The CIA reads French theory: on the intellectual labor of dismantling the cultural Left - Gabriel Rockhill**

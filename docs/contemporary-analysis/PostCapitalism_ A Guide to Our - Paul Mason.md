@@ -1,6 +1,8 @@
 ---
-title: "MASON POSTCAPITALISM AGUIDE TOUR FUTURE"
-category: "contemporary-analysis"
+title: MASON POSTCAPITALISM AGUIDE TOUR FUTURE
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 # MASON POSTCAPITALISM AGUIDE TOUR FUTURE

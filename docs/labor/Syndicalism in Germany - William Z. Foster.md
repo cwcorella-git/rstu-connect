@@ -1,6 +1,9 @@
 ---
-title: "Syndicalism in Germany - William Z. Foster"
-category: "theory"
+title: Syndicalism in Germany - William Z. Foster
+category: theory
+tags:
+  - syndicalism
+  - Germany
 ---
 
 ## **Syndicalism in Germany - William Z. Foster**

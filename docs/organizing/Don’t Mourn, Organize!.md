@@ -1,6 +1,8 @@
 ---
-title: "Don't Mourn, Organize!"
-category: "contemporary-analysis"
+title: 'Don''t Mourn, Organize!'
+category: contemporary-analysis
+tags:
+  - organizing
 ---
 
 ## **Don't Mourn, Organize!**

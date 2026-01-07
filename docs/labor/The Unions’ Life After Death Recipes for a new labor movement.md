@@ -1,6 +1,10 @@
 ---
-title: "The Unions' Life After Death: Recipes for a new labor movement"
-category: "labor"
+title: 'The Unions'' Life After Death: Recipes for a new labor movement'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **The Unions' Life After Death: Recipes for a new labor movement**

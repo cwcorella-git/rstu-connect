@@ -1,6 +1,9 @@
 ---
-title: "EXPULSIONS"
-category: "economic-alternatives"
+title: EXPULSIONS
+category: economic-alternatives
+tags:
+  - economics
+  - alternatives
 ---
 
 # **EXPULSIONS**

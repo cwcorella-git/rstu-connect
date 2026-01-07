@@ -1,8 +1,11 @@
 ---
-title: "Boston Police Strike Wikipedia"
-author: "Wikipedia"
-date: "2025"
-category: "labor"
+title: Boston Police Strike Wikipedia
+author: Wikipedia
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - police
 ---
 
 # Boston Police Strike Wikipedia

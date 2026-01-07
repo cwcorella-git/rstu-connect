@@ -1,6 +1,10 @@
 ---
-title: "[mexiconewsdaily.com](https://mexiconewsdaily.com/news/sheinbaum-renews-anti-inflation-food-basket-m"
-category: "food-justice"
+title: >-
+  [mexiconewsdaily.com](https://mexiconewsdaily.com/news/sheinbaum-renews-anti-inflation-food-basket-m
+category: food-justice
+tags:
+  - food
+  - Mexico
 ---
 
 [mexiconewsdaily.com](https://mexiconewsdaily.com/news/sheinbaum-renews-anti-inflation-food-basket-mexico/)

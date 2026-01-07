@@ -1,6 +1,9 @@
 ---
-title: "Fundraiser for Night vision binoculars"
-category: "technology-digital-justice"
+title: Fundraiser for Night vision binoculars
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Fundraiser for Night vision binoculars**

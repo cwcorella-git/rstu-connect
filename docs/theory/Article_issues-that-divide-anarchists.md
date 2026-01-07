@@ -1,8 +1,11 @@
 ---
-title: "Issues That Divide Anarchists"
-author: "James Herod"
-date: "2025"
-category: "theory"
+title: Issues That Divide Anarchists
+author: James Herod
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Issues That Divide Anarchists

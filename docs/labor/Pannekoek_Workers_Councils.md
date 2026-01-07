@@ -1,6 +1,10 @@
 ---
-title: "WORKERS' COUNCILS"
-category: "contemporary-analysis"
+title: WORKERS' COUNCILS
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # WORKERS' COUNCILS

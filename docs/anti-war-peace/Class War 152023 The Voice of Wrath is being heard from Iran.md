@@ -1,6 +1,13 @@
 ---
-title: "Only the power of the class unity of the workers is able to stop the execution machine of the Islamic regime of capital – December 2022"
-category: "anti-war-peace"
+title: >-
+  Only the power of the class unity of the workers is able to stop the execution
+  machine of the Islamic regime of capital – December 2022
+category: anti-war-peace
+tags:
+  - labor
+  - anti-war
+  - capitalism
+  - class
 ---
 
 ## **Class War 15/2023: The Voice of Wrath is being heard from Iran**

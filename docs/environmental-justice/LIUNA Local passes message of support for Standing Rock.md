@@ -1,6 +1,9 @@
 ---
-title: "LIUNA Local passes message of support for Standing Rock"
-category: "environmental-justice"
+title: LIUNA Local passes message of support for Standing Rock
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **LIUNA Local passes message of support for Standing Rock**

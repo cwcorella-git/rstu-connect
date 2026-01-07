@@ -1,6 +1,10 @@
 ---
-title: "Text of Irish Republican Army (IRA) 'Green Book' (Book I and II)"
-category: "environmental-justice"
+title: Text of Irish Republican Army (IRA) 'Green Book' (Book I and II)
+category: environmental-justice
+tags:
+  - Ireland
+  - environment
+  - climate
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

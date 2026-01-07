@@ -1,8 +1,12 @@
 ---
-title: "Heat Waves And Wildcat Strikes"
-author: "Jeff Shantz"
-date: "2024"
-category: "labor"
+title: Heat Waves And Wildcat Strikes
+author: Jeff Shantz
+date: '2024'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Heat Waves and Wildcat Strikes**

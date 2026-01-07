@@ -1,6 +1,9 @@
 ---
-title: "A new coalition demands healthcare and justice for East Palestine"
-category: "environmental-justice"
+title: A new coalition demands healthcare and justice for East Palestine
+category: environmental-justice
+tags:
+  - healthcare
+  - Palestine
 ---
 
 ## **A new coalition demands healthcare and justice for East Palestine**

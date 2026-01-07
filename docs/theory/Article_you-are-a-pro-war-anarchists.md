@@ -1,8 +1,11 @@
 ---
-title: "You Are a Pro War Anarchists"
-author: "Unknown"
-date: "2025"
-category: "theory"
+title: You Are a Pro War Anarchists
+author: Unknown
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - anti-war
 ---
 
 # You Are a Pro War Anarchists

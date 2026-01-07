@@ -1,6 +1,10 @@
 ---
-title: "Green Syndicalism in the Arctic"
-category: "environmental-justice"
+title: Green Syndicalism in the Arctic
+category: environmental-justice
+tags:
+  - syndicalism
+  - environment
+  - climate
 ---
 
 ## **Green Syndicalism in the Arctic**

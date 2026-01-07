@@ -1,6 +1,10 @@
 ---
-title: "History of a workers' revolution in Catalonia - Raymond S. Solomon"
-category: "contemporary-analysis"
+title: History of a workers' revolution in Catalonia - Raymond S. Solomon
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **History of a workers' revolution in Catalonia - Raymond S. Solomon**

@@ -1,8 +1,12 @@
 ---
-title: "195Dixonschellgilesdrogos2008"
-author: "Howard Giles"
-date: "2004"
-category: "labor"
+title: 195Dixonschellgilesdrogos2008
+author: Howard Giles
+date: '2004'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # [The Influence of Race in Police–Civilian Interactions: A Content](https://www.researchgate.net/publication/229738452_The_Influence_of_Race_in_Police-Civilian_Interactions_A_Content_Analysis_of_Videotaped_Interactions_Taken_During_Cincinnati_Police_Traffic_Stops?enrich Id=rgreq-378d7d9f486a10a57073fcdb5d8ee2d5-XXX&enrich Source=Y292ZXJQYWdl OzIyOTczODQ1MjtBUzo5MDM0Nz YzODkzNDcz MzJAMTU5Mj QxNjk2NTkw Ng%3D%3D&el=1_x_3&_esc=publication Cover Pdf) Analysis of Videotaped Interactions Taken During Cincinnati Police Traffic Stops

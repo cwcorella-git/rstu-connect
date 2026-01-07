@@ -1,8 +1,11 @@
 ---
-title: "Debt, Violence, and Impersonal Markets"
-author: "David Graeber"
-date: "2009"
-category: "economic-alternatives"
+title: 'Debt, Violence, and Impersonal Markets'
+author: David Graeber
+date: '2009'
+category: economic-alternatives
+tags:
+  - debt
+  - Graeber
 ---
 
 If *The Great Transformation* will be remembered for anything a century from now, it will be as the definitive rejoinder to the great liberal myth. This is, of course, the assumption that there is something natural about what Polanyi called “self-regulating markets”, that they arise of their own accord as long as state interference doesn’t prevent them. Polanyi examined the very period when this ideology first emerged, and managed to demonstrate just how crucial government interference was in creating “the self-regulating market” to begin with—just as it has continued to be necessary to maintain it.

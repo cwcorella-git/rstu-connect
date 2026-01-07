@@ -1,8 +1,10 @@
 ---
-title: "The leftwing deadbeat – Organizing.work"
-author: "Creativ Themes"
-date: "2020"
-category: "organizing"
+title: The leftwing deadbeat – Organizing.work
+author: Creativ Themes
+date: '2020'
+category: organizing
+tags:
+  - organizing
 ---
 
 # The leftwing deadbeat – Organizing.work.pdf

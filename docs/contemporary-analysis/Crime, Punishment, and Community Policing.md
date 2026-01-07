@@ -1,6 +1,9 @@
 ---
-title: "Crime, Punishment, and Community Policing"
-category: "contemporary-analysis"
+title: 'Crime, Punishment, and Community Policing'
+category: contemporary-analysis
+tags:
+  - community
+  - police
 ---
 
 # **Crime, Punishment, and Community Policing**

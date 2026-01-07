@@ -1,6 +1,9 @@
 ---
-title: "Disabled Feminists"
-category: "feminist-theory"
+title: Disabled Feminists
+category: feminist-theory
+tags:
+  - feminism
+  - disability
 ---
 
 ## **Disabled Feminists**

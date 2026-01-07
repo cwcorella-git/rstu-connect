@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Murray Bookchin"
-date: "2025"
-category: "theory"
+title: '>-'
+author: Murray Bookchin
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni P

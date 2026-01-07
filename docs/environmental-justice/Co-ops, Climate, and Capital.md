@@ -1,6 +1,10 @@
 ---
-title: "Co-ops, Climate, and Capital"
-category: "environmental-justice"
+title: 'Co-ops, Climate, and Capital'
+category: environmental-justice
+tags:
+  - cooperatives
+  - environment
+  - capitalism
 ---
 
 ## **Co-ops, Climate, and Capital**

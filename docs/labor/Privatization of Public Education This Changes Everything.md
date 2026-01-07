@@ -1,6 +1,11 @@
 ---
-title: "Privatization of Public Education: This Changes Everything"
-category: "labor"
+title: 'Privatization of Public Education: This Changes Everything'
+category: labor
+tags:
+  - education
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Privatization of Public Education: This Changes Everything**

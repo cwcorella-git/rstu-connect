@@ -1,6 +1,9 @@
 ---
-title: "Class, democracy and the General Executive Board - Travis Elise"
-category: "contemporary-analysis"
+title: 'Class, democracy and the General Executive Board - Travis Elise'
+category: contemporary-analysis
+tags:
+  - democracy
+  - class
 ---
 
 ## **Class, democracy and the General Executive Board - Travis Elise**

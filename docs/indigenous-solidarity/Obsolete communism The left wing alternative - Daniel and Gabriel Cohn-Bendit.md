@@ -1,6 +1,9 @@
 ---
-title: "Obsolete communism: The left wing alternative - Daniel and Gabriel Cohn-Bendit"
-category: "indigenous-solidarity"
+title: 'Obsolete communism: The left wing alternative - Daniel and Gabriel Cohn-Bendit'
+category: indigenous-solidarity
+tags:
+  - indigenous
+  - solidarity
 ---
 
 ## **Obsolete communism: The left wing alternative - Daniel and Gabriel Cohn-Bendit**

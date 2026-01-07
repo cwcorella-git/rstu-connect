@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "theory"
+title: '>-'
+author: Unknown
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # For the Creation of a Global Network of Revolutionary Anarchists and Anti Lenini

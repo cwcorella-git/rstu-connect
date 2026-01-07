@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Patricia Bordallo Dibildox"
-date: "2019"
-category: "housing"
+title: '>-'
+author: Patricia Bordallo Dibildox
+date: '2019'
+category: housing
+tags:
+  - tenants
+  - urban
 ---
 
 #### [shelterforce.org](https://shelterforce.org/2022/12/12/all-tenants-get-right-to-counsel-in-kansas-city/)

@@ -1,6 +1,10 @@
 ---
-title: "Business unionism vs revolutionary unionism - Dave Neal"
-category: "labor"
+title: Business unionism vs revolutionary unionism - Dave Neal
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Business unionism vs revolutionary unionism - Dave Neal**

@@ -1,6 +1,8 @@
 ---
-title: "Inflation is How the System Restores the Primacy of Capital"
-category: "contemporary-analysis"
+title: Inflation is How the System Restores the Primacy of Capital
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 #### [medium.com](https://medium.com/@re. Marx/inflation-is-how-the-system-restores-the-primacy-of-capital-9a795036b154)

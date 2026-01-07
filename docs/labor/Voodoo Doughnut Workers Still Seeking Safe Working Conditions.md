@@ -1,8 +1,12 @@
 ---
-title: "Voodoo Doughnut Workers Still Seeking Safe Working Conditions"
-author: "Industrial Workers of the World"
-date: "2022"
-category: "labor"
+title: Voodoo Doughnut Workers Still Seeking Safe Working Conditions
+author: Industrial Workers of the World
+date: '2022'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Voodoo Doughnut Workers Still Seeking Safe Working Conditions**

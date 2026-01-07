@@ -1,8 +1,12 @@
 ---
-title: "Ecounionist News 74"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Ecounionist News 74
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Ecounionist News 74

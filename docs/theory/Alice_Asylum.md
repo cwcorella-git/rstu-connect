@@ -1,6 +1,8 @@
 ---
-title: "WORK IN PROGRESS"
-category: "theory"
+title: WORK IN PROGRESS
+category: theory
+tags:
+  - theory
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

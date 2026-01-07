@@ -1,6 +1,8 @@
 ---
-title: "The Art of Relationship Anarchy"
-category: "arts-culture-music"
+title: The Art of Relationship Anarchy
+category: arts-culture-music
+tags:
+  - anarchism
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "[VIDEO] How to Grow a Movement: Tips for Activists & Organizers"
-category: "contemporary-analysis"
+title: '[VIDEO] How to Grow a Movement: Tips for Activists & Organizers'
+category: contemporary-analysis
+tags:
+  - organizing
 ---
 
 ## **[VIDEO] How to Grow a Movement: Tips for Activists & Organizers**

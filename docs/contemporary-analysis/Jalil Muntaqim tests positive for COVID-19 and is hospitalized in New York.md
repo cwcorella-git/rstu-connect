@@ -1,6 +1,9 @@
 ---
-title: "Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York"
-category: "contemporary-analysis"
+title: Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York
+category: contemporary-analysis
+tags:
+  - healthcare
+  - New York
 ---
 
 ## **Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York**

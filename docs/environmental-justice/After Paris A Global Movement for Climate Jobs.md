@@ -1,6 +1,9 @@
 ---
-title: "After Paris: A Global Movement for Climate Jobs"
-category: "environmental-justice"
+title: 'After Paris: A Global Movement for Climate Jobs'
+category: environmental-justice
+tags:
+  - environment
+  - France
 ---
 
 ## **After Paris: A Global Movement for Climate Jobs**

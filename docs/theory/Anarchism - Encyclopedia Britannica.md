@@ -1,6 +1,9 @@
 ---
-title: "Anarchism - Encyclopedia Britannica"
-category: "contemporary-analysis"
+title: Anarchism - Encyclopedia Britannica
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Anarchism - Encyclopedia Britannica**

@@ -1,6 +1,10 @@
 ---
-title: "FREE, FAIR ALVE THE INSURGENT POWER"
-category: "technology-digital-justice"
+title: 'FREE, FAIR ALVE THE INSURGENT POWER'
+category: technology-digital-justice
+tags:
+  - commons
+  - technology
+  - digital rights
 ---
 
 ## DAVID BOLLIER & SILKE HELFRICH

@@ -1,6 +1,9 @@
 ---
-title: "Oil Refineries Don't Just Pollute; They Also Kill Workers"
-category: "environmental-justice"
+title: Oil Refineries Don't Just Pollute; They Also Kill Workers
+category: environmental-justice
+tags:
+  - labor
+  - fossil fuels
 ---
 
 ## **Oil Refineries Don't Just Pollute; They Also Kill Workers**

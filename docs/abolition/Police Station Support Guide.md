@@ -1,8 +1,12 @@
 ---
-title: "Police Station Support Guide"
-author: "Unknown"
-date: "2020"
-category: "abolition"
+title: Police Station Support Guide
+author: Unknown
+date: '2020'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 ## **Police Station Support Guide**

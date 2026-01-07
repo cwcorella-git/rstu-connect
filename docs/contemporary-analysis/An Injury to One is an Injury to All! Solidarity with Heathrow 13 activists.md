@@ -1,6 +1,8 @@
 ---
-title: "An Injury to One is an Injury to All!: Solidarity with Heathrow 13 activists"
-category: "contemporary-analysis"
+title: 'An Injury to One is an Injury to All!: Solidarity with Heathrow 13 activists'
+category: contemporary-analysis
+tags:
+  - solidarity
 ---
 
 ## **An Injury to One is an Injury to All!: Solidarity with Heathrow 13 activists**

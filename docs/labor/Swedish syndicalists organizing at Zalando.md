@@ -1,6 +1,10 @@
 ---
-title: "Swedish syndicalists organizing at Zalando"
-category: "contemporary-analysis"
+title: Swedish syndicalists organizing at Zalando
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - organizing
+  - Sweden
 ---
 
 ## **Swedish syndicalists organizing at Zalando**

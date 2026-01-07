@@ -1,6 +1,8 @@
 ---
-title: "3 Reasons Not To Develop Indie Games Full-Time"
-category: "theory"
+title: 3 Reasons Not To Develop Indie Games Full-Time
+category: theory
+tags:
+  - theory
 ---
 
 #### [tinybuild.com](https://www.tinybuild.com/single-post/2015/10/15/3-Reasons-Not-To-Develop-Indie-Games-Full-Time)

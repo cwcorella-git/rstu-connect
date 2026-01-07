@@ -1,8 +1,11 @@
 ---
-title: "Anarchist Black Dragon"
-author: "the anarchist"
-date: "2025"
-category: "theory"
+title: Anarchist Black Dragon
+author: the anarchist
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchist Black Dragon

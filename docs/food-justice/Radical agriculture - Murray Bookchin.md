@@ -1,8 +1,11 @@
 ---
-title: "Radical Agriculture Murray Bookchin"
-author: "Murray Bookchin"
-date: "1972"
-category: "theory"
+title: Radical Agriculture Murray Bookchin
+author: Murray Bookchin
+date: '1972'
+category: theory
+tags:
+  - food
+  - Bookchin
 ---
 
 ## **Radical agriculture - Murray Bookchin**

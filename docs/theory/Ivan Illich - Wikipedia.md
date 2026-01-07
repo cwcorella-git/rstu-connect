@@ -1,6 +1,8 @@
 ---
-title: "Ivan Illich"
-category: "theory"
+title: Ivan Illich
+category: theory
+tags:
+  - theory
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

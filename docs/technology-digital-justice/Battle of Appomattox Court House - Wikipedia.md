@@ -1,6 +1,9 @@
 ---
-title: "Battle of Appomattox Court House"
-category: "technology-digital-justice"
+title: Battle of Appomattox Court House
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Battle_of_Appomattox_Court_House)

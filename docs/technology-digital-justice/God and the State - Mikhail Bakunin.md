@@ -1,6 +1,10 @@
 ---
-title: "BAKUNIN"
-category: "technology-digital-justice"
+title: BAKUNIN
+category: technology-digital-justice
+tags:
+  - Bakunin
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

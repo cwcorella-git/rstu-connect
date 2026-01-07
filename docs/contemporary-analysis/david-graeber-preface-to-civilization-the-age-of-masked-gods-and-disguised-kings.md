@@ -1,8 +1,10 @@
 ---
-title: "Preface to <em>Civilization: The Age of Masked Gods and Disguised Kings</em>"
-author: "David Graeber"
-date: "2015"
-category: "contemporary-analysis"
+title: 'Preface to <em>Civilization: The Age of Masked Gods and Disguised Kings</em>'
+author: David Graeber
+date: '2015'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 Marx believed it was imagination that made us human: unlike bees, architects first imagine the houses they would like to build, and only then set about actually constructing them. In a sense, the great question driving all revolutionary thought is simply this: if we can do this with our houses, why can’t we do it with the social order as a whole? Because after all, how many of us, were we to simply imagine a society we would like to live in, would come up with anything remotely like the ones that currently exist? Yet almost every serious effort to proceed like the architect, to simply imagine what a just society should be like, and then set about creating it, seems to lead to frustration or disaster.

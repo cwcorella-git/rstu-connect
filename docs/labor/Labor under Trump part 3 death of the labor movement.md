@@ -1,6 +1,10 @@
 ---
-title: "Labor under Trump part 3: death of the labor movement?"
-category: "labor"
+title: 'Labor under Trump part 3: death of the labor movement?'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Labor under Trump part 3: death of the labor movement?**

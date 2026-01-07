@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - labor
+  - France
 ---
 
 # The Cia Reads French Theory On the Intellectual Labor of Dismantling the Cultura

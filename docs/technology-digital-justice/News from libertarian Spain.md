@@ -1,6 +1,10 @@
 ---
-title: "News from libertarian Spain"
-category: "technology-digital-justice"
+title: News from libertarian Spain
+category: technology-digital-justice
+tags:
+  - Spain
+  - technology
+  - digital rights
 ---
 
 ## **News from libertarian Spain**

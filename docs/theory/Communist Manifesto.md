@@ -1,6 +1,9 @@
 ---
-title: "*The Communist Manifesto*"
-category: "contemporary-analysis"
+title: '*The Communist Manifesto*'
+category: contemporary-analysis
+tags:
+  - socialism
+  - theory
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

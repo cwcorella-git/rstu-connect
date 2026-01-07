@@ -1,6 +1,10 @@
 ---
-title: "WHAT IS THE IWW?"
-category: "labor"
+title: WHAT IS THE IWW?
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

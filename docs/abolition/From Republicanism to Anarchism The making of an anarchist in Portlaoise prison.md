@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Workers Solidarity Movement"
-date: "2010"
-category: "theory"
+title: '>-'
+author: Workers Solidarity Movement
+date: '2010'
+category: theory
+tags:
+  - anarchism
+  - prisons
 ---
 
 # **From Republicanism to Anarchism: The making of an anarchist in Portlaoise prison**

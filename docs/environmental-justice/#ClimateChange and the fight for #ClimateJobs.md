@@ -1,6 +1,9 @@
 ---
-title: "#Climate Change and the fight for #Climate Jobs"
-category: "environmental-justice"
+title: '#Climate Change and the fight for #Climate Jobs'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **#Climate Change and the fight for #Climate Jobs**

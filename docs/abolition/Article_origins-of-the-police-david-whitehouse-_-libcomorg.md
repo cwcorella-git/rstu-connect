@@ -1,8 +1,12 @@
 ---
-title: "Origins of the Police David Whitehouse Libcomorg"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: Origins of the Police David Whitehouse Libcomorg
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # Origins of the Police David Whitehouse Libcomorg

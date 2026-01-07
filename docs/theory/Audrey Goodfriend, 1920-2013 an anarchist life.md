@@ -1,6 +1,9 @@
 ---
-title: "Audrey Goodfriend, 1920-2013: an anarchist life"
-category: "contemporary-analysis"
+title: 'Audrey Goodfriend, 1920-2013: an anarchist life'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Audrey Goodfriend, 1920-2013: an anarchist life**

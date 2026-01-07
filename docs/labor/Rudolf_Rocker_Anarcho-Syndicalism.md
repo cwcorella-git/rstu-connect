@@ -1,6 +1,9 @@
 ---
-title: "anarchosyndicalism"
-category: "contemporary-analysis"
+title: anarchosyndicalism
+category: contemporary-analysis
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## RUDOLF ROCKER

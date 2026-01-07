@@ -1,6 +1,10 @@
 ---
-title: "THIRD CLASS"
-category: "technology-digital-justice"
+title: THIRD CLASS
+category: technology-digital-justice
+tags:
+  - class
+  - railroads
+  - India
 ---
 
 Project Gutenberg's Third class in Indian railways, by Mahatma Gandhi

@@ -1,6 +1,9 @@
 ---
-title: "Agrivoltaics"
-category: "technology-digital-justice"
+title: Agrivoltaics
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

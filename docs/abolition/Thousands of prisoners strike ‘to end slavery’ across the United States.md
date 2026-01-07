@@ -1,6 +1,9 @@
 ---
-title: "Thousands of prisoners strike 'to end slavery' across the United States"
-category: "abolition"
+title: Thousands of prisoners strike 'to end slavery' across the United States
+category: abolition
+tags:
+  - strikes
+  - prisons
 ---
 
 ## **Thousands of prisoners strike 'to end slavery' across the United States**

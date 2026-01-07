@@ -1,6 +1,9 @@
 ---
-title: "Free Software Is Even More Important Now"
-category: "technology-digital-justice"
+title: Free Software Is Even More Important Now
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # **Free Software Is Even More Important Now**

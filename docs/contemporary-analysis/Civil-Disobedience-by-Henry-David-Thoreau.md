@@ -1,6 +1,8 @@
 ---
-title: "## *Civil Disobedience*"
-category: "contemporary-analysis"
+title: '## *Civil Disobedience*'
+category: contemporary-analysis
+tags:
+  - civil disobedience
 ---
 
 ## *Civil Disobedience*

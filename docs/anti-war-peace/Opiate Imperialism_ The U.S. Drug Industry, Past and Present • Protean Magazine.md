@@ -1,6 +1,9 @@
 ---
-title: "## [SUPPORT US](https://proteanmag.com/donate)"
-category: "theory"
+title: '## [SUPPORT US](https://proteanmag.com/donate)'
+category: theory
+tags:
+  - anti-war
+  - peace
 ---
 
 ## [SUPPORT US](https://proteanmag.com/donate)

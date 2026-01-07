@@ -1,8 +1,11 @@
 ---
-title: "Mutual Aid is Mutual! Recap + Readings"
-author: "Unknown"
-date: "2023"
-category: "organizing"
+title: Mutual Aid is Mutual! Recap + Readings
+author: Unknown
+date: '2023'
+category: organizing
+tags:
+  - mutual aid
+  - organizing
 ---
 
 ## **Mutual Aid is Mutual! Recap + Readings**

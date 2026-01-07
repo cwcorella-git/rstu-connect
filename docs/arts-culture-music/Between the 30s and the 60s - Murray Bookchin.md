@@ -1,6 +1,8 @@
 ---
-title: "Between the 30s and the 60s - Murray Bookchin"
-category: "arts-culture-music"
+title: Between the 30s and the 60s - Murray Bookchin
+category: arts-culture-music
+tags:
+  - Bookchin
 ---
 
 ## **Between the 30s and the 60s - Murray Bookchin**

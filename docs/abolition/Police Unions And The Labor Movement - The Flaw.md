@@ -1,8 +1,11 @@
 ---
-title: "Police Unions And The Labor Movement The Flaw"
-author: "The Flaw"
-date: "2008"
-category: "theory"
+title: Police Unions And The Labor Movement The Flaw
+author: The Flaw
+date: '2008'
+category: theory
+tags:
+  - police
+  - labor
 ---
 
 ## [theflaw.org](https://theflaw.org/articles/police-unions-and-the-labor-movement/)

@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Housing Advocacy Organization"
-date: "1972"
-category: "housing"
+title: '>-'
+author: Housing Advocacy Organization
+date: '1972'
+category: housing
+tags:
+  - unions
+  - labor
+  - Canada
 ---
 
 ## **An "entirely different" kind of union: the Service, Office, and Retail Workers' Union of Canada (SORWUC), 1972–1986 – Julia Smith**

@@ -1,6 +1,11 @@
 ---
-title: "CHAPTER TWO Thoughts on Pre-state Cultural Development on the Korean Peninsula from an Archaeological Point of View"
-category: "anti-war-peace"
+title: >-
+  CHAPTER TWO Thoughts on Pre-state Cultural Development on the Korean Peninsula
+  from an Archaeological Point of View
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

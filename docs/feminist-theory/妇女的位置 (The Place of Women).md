@@ -1,6 +1,9 @@
 ---
-title: "妇女的位置 (The Place of Women)"
-category: "feminist-theory"
+title: 妇女的位置 (The Place of Women)
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 # **妇女的位置 (The Place of Women)**

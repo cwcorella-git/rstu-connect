@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Murray Bookchin"
-date: "2025"
-category: "theory"
+title: '>-'
+author: Murray Bookchin
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - syndicalism
+  - Spain
 ---
 
 # To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray Bookch

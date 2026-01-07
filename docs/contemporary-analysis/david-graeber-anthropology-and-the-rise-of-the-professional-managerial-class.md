@@ -1,8 +1,11 @@
 ---
-title: "Anthropology and the rise of the professional-managerial class"
-author: "David Graeber"
-date: "2014"
-category: "contemporary-analysis"
+title: Anthropology and the rise of the professional-managerial class
+author: David Graeber
+date: '2014'
+category: contemporary-analysis
+tags:
+  - class
+  - Graeber
 ---
 
 ### Abstract

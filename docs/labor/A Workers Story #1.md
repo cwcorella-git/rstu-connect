@@ -1,6 +1,10 @@
 ---
-title: "A Workers Story #1"
-category: "contemporary-analysis"
+title: 'A Workers Story #1'
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **A Workers Story #1**

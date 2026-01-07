@@ -1,6 +1,9 @@
 ---
-title: "Green Man"
-category: "environmental-justice"
+title: Green Man
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

@@ -1,6 +1,10 @@
 ---
-title: "Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters"
-category: "theory"
+title: Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters
+category: theory
+tags:
+  - unions
+  - solidarity
+  - fossil fuels
 ---
 
 # **Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters**

@@ -1,8 +1,11 @@
 ---
-title: "Solidarity is Not Enough"
-author: "Not Enough"
-date: "2023"
-category: "organizing"
+title: Solidarity is Not Enough
+author: Not Enough
+date: '2023'
+category: organizing
+tags:
+  - solidarity
+  - organizing
 ---
 
 # Solidarity is Not Enough

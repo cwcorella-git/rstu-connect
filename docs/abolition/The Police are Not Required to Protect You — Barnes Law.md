@@ -1,8 +1,12 @@
 ---
-title: "The Police Are Not Required To Protect You"
-author: "Unknown"
-date: "2005"
-category: "abolition"
+title: The Police Are Not Required To Protect You
+author: Unknown
+date: '2005'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 ## [barneslawllp.com](https://www.barneslawllp.com/blog/police-not-required-protect/)

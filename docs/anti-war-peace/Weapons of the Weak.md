@@ -1,6 +1,9 @@
 ---
-title: "James C. Scott"
-category: "anti-war-peace"
+title: James C. Scott
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 # **James C. Scott**

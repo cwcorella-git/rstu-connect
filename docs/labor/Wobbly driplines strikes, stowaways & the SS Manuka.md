@@ -1,6 +1,10 @@
 ---
-title: "Wobbly driplines: strikes, stowaways & the SS Manuka"
-category: "contemporary-analysis"
+title: 'Wobbly driplines: strikes, stowaways & the SS Manuka'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **Wobbly driplines: strikes, stowaways & the SS Manuka**

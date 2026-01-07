@@ -1,6 +1,12 @@
 ---
-title: "## [towardfreedom.org](https://towardfreedom.org/story/archives/environment/social-ecology-and-the-g"
-category: "environmental-justice"
+title: >-
+  ##
+  [towardfreedom.org](https://towardfreedom.org/story/archives/environment/social-ecology-and-the-g
+category: environmental-justice
+tags:
+  - environment
+  - urban
+  - liberty
 ---
 
 ## [towardfreedom.org](https://towardfreedom.org/story/archives/environment/social-ecology-and-the-greening-of-our-cities/)

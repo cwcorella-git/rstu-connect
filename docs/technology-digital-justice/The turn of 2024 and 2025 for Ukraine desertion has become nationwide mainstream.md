@@ -1,6 +1,12 @@
 ---
-title: "The turn of 2024 and 2025 for Ukraine: desertion has become nationwide mainstream"
-category: "technology-digital-justice"
+title: >-
+  The turn of 2024 and 2025 for Ukraine: desertion has become nationwide
+  mainstream
+category: technology-digital-justice
+tags:
+  - Ukraine
+  - technology
+  - digital rights
 ---
 
 ## **The turn of 2024 and 2025 for Ukraine: desertion has become nationwide mainstream**

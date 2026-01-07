@@ -1,6 +1,10 @@
 ---
-title: "Northern Ireland, the IRA and Class War"
-category: "anti-war-peace"
+title: 'Northern Ireland, the IRA and Class War'
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
+  - Ireland
 ---
 
 # **Northern Ireland, the IRA and Class War**

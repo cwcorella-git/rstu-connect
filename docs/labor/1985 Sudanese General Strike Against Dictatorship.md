@@ -1,8 +1,11 @@
 ---
-title: "1985 Sudanese General Strike Against Dictatorship"
-author: "John Garang"
-date: "1985"
-category: "labor"
+title: 1985 Sudanese General Strike Against Dictatorship
+author: John Garang
+date: '1985'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1985: Sudanese General Strike Against Dictatorship**

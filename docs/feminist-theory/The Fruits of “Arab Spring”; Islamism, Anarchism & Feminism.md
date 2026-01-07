@@ -1,8 +1,11 @@
 ---
-title: "The Fruits Of Arab Spring Islamism Anarchism Feminism"
-author: "Unknown"
-date: "2013"
-category: "theory"
+title: The Fruits Of Arab Spring Islamism Anarchism Feminism
+author: Unknown
+date: '2013'
+category: theory
+tags:
+  - anarchism
+  - feminism
 ---
 
 ## **The Fruits of "Arab Spring"; Islamism, Anarchism & Feminism**

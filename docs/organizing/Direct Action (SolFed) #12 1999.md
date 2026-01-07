@@ -1,6 +1,9 @@
 ---
-title: "Direct Action (Sol Fed) #12 1999"
-category: "contemporary-analysis"
+title: 'Direct Action (Sol Fed) #12 1999'
+category: contemporary-analysis
+tags:
+  - direct action
+  - organizing
 ---
 
 ## **Direct Action (Sol Fed) #12 1999**

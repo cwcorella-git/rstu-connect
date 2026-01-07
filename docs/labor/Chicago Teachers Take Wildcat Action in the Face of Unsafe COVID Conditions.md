@@ -1,6 +1,9 @@
 ---
-title: "Chicago Teachers Take Wildcat Action in the Face of Unsafe COVID Conditions"
-category: "labor"
+title: Chicago Teachers Take Wildcat Action in the Face of Unsafe COVID Conditions
+category: labor
+tags:
+  - education
+  - Chicago
 ---
 
 ## **Chicago Teachers Take Wildcat Action in the Face of Unsafe COVID Conditions**

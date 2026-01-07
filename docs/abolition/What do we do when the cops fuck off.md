@@ -1,6 +1,10 @@
 ---
-title: "What do we do when the cops fuck off?"
-category: "contemporary-analysis"
+title: What do we do when the cops fuck off?
+category: contemporary-analysis
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # **What do we do when the cops fuck off?**

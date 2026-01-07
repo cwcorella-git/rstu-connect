@@ -1,6 +1,9 @@
 ---
-title: "Students, Activists, and Communists in Movement Politics"
-category: "organizing"
+title: 'Students, Activists, and Communists in Movement Politics'
+category: organizing
+tags:
+  - socialism
+  - education
 ---
 
 ## **Students, Activists, and Communists in Movement Politics**

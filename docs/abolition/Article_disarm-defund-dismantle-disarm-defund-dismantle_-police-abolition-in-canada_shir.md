@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Shiri Pasternak, Kevin Walby, Abby Stadnyk"
-date: "2025"
-category: "abolition"
+title: '>-'
+author: 'Shiri Pasternak, Kevin Walby, Abby Stadnyk'
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - Canada
 ---
 
 # Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir

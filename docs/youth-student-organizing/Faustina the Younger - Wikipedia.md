@@ -1,6 +1,9 @@
 ---
-title: "Faustina the Younger"
-category: "youth-student-organizing"
+title: Faustina the Younger
+category: youth-student-organizing
+tags:
+  - students
+  - youth
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Faustina_the_Younger)

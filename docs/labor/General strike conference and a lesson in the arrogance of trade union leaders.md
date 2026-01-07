@@ -1,6 +1,10 @@
 ---
-title: "General strike conference and a lesson in the arrogance of trade union leaders"
-category: "contemporary-analysis"
+title: General strike conference and a lesson in the arrogance of trade union leaders
+category: contemporary-analysis
+tags:
+  - general strikes
+  - strikes
+  - unions
 ---
 
 ## **General strike conference and a lesson in the arrogance of trade union leaders**

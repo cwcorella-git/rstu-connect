@@ -1,6 +1,8 @@
 ---
-title: "Woman's Voice"
-category: "contemporary-analysis"
+title: Woman's Voice
+category: contemporary-analysis
+tags:
+  - women
 ---
 
 ## **Woman's Voice**

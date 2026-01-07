@@ -1,6 +1,10 @@
 ---
-title: "what about the rapists?"
-category: "technology-digital-justice"
+title: what about the rapists?
+category: technology-digital-justice
+tags:
+  - anarchism
+  - technology
+  - digital rights
 ---
 
 # what about the rapists?

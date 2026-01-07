@@ -1,6 +1,9 @@
 ---
-title: "City, Urban Transformation and the Right to the City"
-category: "feminist-theory"
+title: 'City, Urban Transformation and the Right to the City'
+category: feminist-theory
+tags:
+  - urban
+  - feminism
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

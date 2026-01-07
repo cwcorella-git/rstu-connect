@@ -1,6 +1,9 @@
 ---
-title: "A Short History of Anarchism"
-category: "contemporary-analysis"
+title: A Short History of Anarchism
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Max Nettlau**

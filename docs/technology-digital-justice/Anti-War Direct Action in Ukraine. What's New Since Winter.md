@@ -1,6 +1,10 @@
 ---
-title: "Anti-War Direct Action in Ukraine. What's New Since Winter?"
-category: "technology-digital-justice"
+title: Anti-War Direct Action in Ukraine. What's New Since Winter?
+category: technology-digital-justice
+tags:
+  - direct action
+  - anti-war
+  - Ukraine
 ---
 
 ## **Anti-War Direct Action in Ukraine. What's New Since Winter?**

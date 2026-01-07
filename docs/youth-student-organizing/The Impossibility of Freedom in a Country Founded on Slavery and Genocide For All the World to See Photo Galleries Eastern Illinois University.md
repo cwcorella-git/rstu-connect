@@ -1,6 +1,10 @@
 ---
-title: "## [thekeep.eiu.edu](https://thekeep.eiu.edu/civilrights_slavery_genocide/)"
-category: "youth-student-organizing"
+title: '## [thekeep.eiu.edu](https://thekeep.eiu.edu/civilrights_slavery_genocide/)'
+category: youth-student-organizing
+tags:
+  - liberty
+  - students
+  - youth
 ---
 
 ## [thekeep.eiu.edu](https://thekeep.eiu.edu/civilrights_slavery_genocide/)

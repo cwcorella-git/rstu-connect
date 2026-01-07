@@ -1,6 +1,9 @@
 ---
-title: "James C. Scott"
-category: "contemporary-analysis"
+title: James C. Scott
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # **James C. Scott**

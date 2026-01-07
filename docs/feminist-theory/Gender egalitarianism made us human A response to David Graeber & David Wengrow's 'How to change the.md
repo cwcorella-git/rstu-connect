@@ -1,6 +1,11 @@
 ---
-title: "Gender egalitarianism made us human: A response to David Graeber & David Wengrow's 'How to chan"
-category: "feminist-theory"
+title: >-
+  Gender egalitarianism made us human: A response to David Graeber & David
+  Wengrow's 'How to chan
+category: feminist-theory
+tags:
+  - Graeber
+  - feminism
 ---
 
 ## **Gender egalitarianism made us human: A response to David Graeber & David Wengrow's 'How to change the course of human history' - by Camilla Power**

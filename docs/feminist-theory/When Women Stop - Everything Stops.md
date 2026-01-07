@@ -1,6 +1,9 @@
 ---
-title: "When Women Stop - Everything Stops"
-category: "feminist-theory"
+title: When Women Stop - Everything Stops
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **When Women Stop - Everything Stops**

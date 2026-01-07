@@ -1,6 +1,9 @@
 ---
-title: "SELF-RESTRAINT SELF-INDULGENCE"
-category: "technology-digital-justice"
+title: SELF-RESTRAINT SELF-INDULGENCE
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # SELF-RESTRAINT SELF-INDULGENCE

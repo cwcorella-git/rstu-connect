@@ -1,8 +1,11 @@
 ---
-title: "Nevada Assembly Bill 223 - Tenant Protections"
-author: "Nevada Legislature"
-date: "2023"
-category: "legislation"
+title: Nevada Assembly Bill 223 - Tenant Protections
+author: Nevada Legislature
+date: '2023'
+category: legislation
+tags:
+  - tenants
+  - Nevada
 ---
 
 # Nevada Assembly Bill 223

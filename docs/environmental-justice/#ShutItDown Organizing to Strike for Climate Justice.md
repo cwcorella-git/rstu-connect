@@ -1,6 +1,10 @@
 ---
-title: "#Shut ItDown: Organizing to Strike for Climate Justice"
-category: "environmental-justice"
+title: '#Shut ItDown: Organizing to Strike for Climate Justice'
+category: environmental-justice
+tags:
+  - strikes
+  - organizing
+  - environment
 ---
 
 ## **#Shut ItDown: Organizing to Strike for Climate Justice**

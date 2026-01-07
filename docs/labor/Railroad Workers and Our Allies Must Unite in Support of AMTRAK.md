@@ -1,6 +1,9 @@
 ---
-title: "Railroad Workers and Our Allies Must Unite in Support of AMTRAK"
-category: "technology-digital-justice"
+title: Railroad Workers and Our Allies Must Unite in Support of AMTRAK
+category: technology-digital-justice
+tags:
+  - labor
+  - railroads
 ---
 
 ## **Railroad Workers and Our Allies Must Unite in Support of AMTRAK**

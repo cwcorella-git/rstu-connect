@@ -1,8 +1,11 @@
 ---
-title: "Anarchists On the Web Anarchists On the Web Omeka S At Uvic Libraries"
-author: "Unknown"
-date: "2025"
-category: "theory"
+title: Anarchists On the Web Anarchists On the Web Omeka S At Uvic Libraries
+author: Unknown
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchists On the Web Anarchists On the Web Omeka S At Uvic Libraries

@@ -1,6 +1,12 @@
 ---
-title: "Green Unionism Done Right in Richmond: A Brief Review of the \"Roadmap to Contra Costa County Re"
-category: "labor"
+title: >-
+  Green Unionism Done Right in Richmond: A Brief Review of the "Roadmap to
+  Contra Costa County Re
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Green Unionism Done Right in Richmond: A Brief Review of the "Roadmap to Contra Costa County Refinery Transition"**

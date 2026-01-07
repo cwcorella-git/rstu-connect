@@ -1,6 +1,11 @@
 ---
-title: "Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty Negotiations in Pa"
-category: "environmental-justice"
+title: >-
+  Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty
+  Negotiations in Pa
+category: environmental-justice
+tags:
+  - environment
+  - France
 ---
 
 ## **Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty Negotiations in Paris**

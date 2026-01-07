@@ -1,8 +1,13 @@
 ---
-title: "Building a Comprehensive Tenant Organizing Platform for Reno-Sparks"
-author: "hashing verified"
-date: "2025"
-category: "housing"
+title: Building a Comprehensive Tenant Organizing Platform for Reno-Sparks
+author: hashing verified
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - organizing
+  - gig economy
+  - Nevada
 ---
 
 # Building a Comprehensive Tenant Organizing Platform for Reno-Sparks

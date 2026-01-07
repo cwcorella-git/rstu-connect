@@ -1,8 +1,11 @@
 ---
-title: "Can “solidarity unionism” save the labor movement"
-author: "Eric Dirnbach -"
-date: "2015"
-category: "labor"
+title: Can “solidarity unionism” save the labor movement
+author: Eric Dirnbach -
+date: '2015'
+category: labor
+tags:
+  - solidarity
+  - labor
 ---
 
 # Can “solidarity unionism” save the labor movement

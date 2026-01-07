@@ -1,6 +1,8 @@
 ---
-title: "I COCITIES NOW"
-category: "contemporary-analysis"
+title: I COCITIES NOW
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 Jennie Moore · Sahar Attia · Adel Abdel-Kader · Aparajithan Narasimhan Editors

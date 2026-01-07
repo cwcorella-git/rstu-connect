@@ -1,6 +1,9 @@
 ---
-title: "Anarcho-syndicalism: Theory and Practice"
-category: "contemporary-analysis"
+title: 'Anarcho-syndicalism: Theory and Practice'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## **Rudolf Rocker**

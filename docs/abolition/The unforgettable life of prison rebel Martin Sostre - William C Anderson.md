@@ -1,6 +1,10 @@
 ---
-title: "The unforgettable life of prison rebel Martin Sostre - William C Anderson"
-category: "abolition"
+title: The unforgettable life of prison rebel Martin Sostre - William C Anderson
+category: abolition
+tags:
+  - prisons
+  - abolition
+  - police
 ---
 
 # **The unforgettable life of prison rebel Martin Sostre - William C Anderson**

@@ -1,6 +1,8 @@
 ---
-title: "The racist roots of American policing: From slave patrols to traffic stops"
-category: "contemporary-analysis"
+title: 'The racist roots of American policing: From slave patrols to traffic stops'
+category: contemporary-analysis
+tags:
+  - police
 ---
 
 #### [theconversation.com](https://theconversation.com/the-racist-roots-of-american-policing-from-slave-patrols-to-traffic-stops-112816)

@@ -1,8 +1,10 @@
 ---
-title: "I didn’t understand how widespread rape was. Then the penny dropped"
-author: "David Graeber"
-date: "5<sup>th</sup> November 2017"
-category: "contemporary-analysis"
+title: I didn’t understand how widespread rape was. Then the penny dropped
+author: David Graeber
+date: 5<sup>th</sup> November 2017
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 This is a very difficult column for me to write because it’s about my mother.

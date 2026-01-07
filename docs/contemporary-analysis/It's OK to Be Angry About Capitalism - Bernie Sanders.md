@@ -1,6 +1,8 @@
 ---
-title: "ITSOK TOBE ANGRY ABOUNT"
-category: "contemporary-analysis"
+title: ITSOK TOBE ANGRY ABOUNT
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 # ITSOK TOBE ANGRY ABOUNT

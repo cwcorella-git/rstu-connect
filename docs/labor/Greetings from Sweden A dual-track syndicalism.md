@@ -1,6 +1,9 @@
 ---
-title: "Greetings from Sweden: A dual-track syndicalism?"
-category: "contemporary-analysis"
+title: 'Greetings from Sweden: A dual-track syndicalism?'
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - Sweden
 ---
 
 ## **Greetings from Sweden: A dual-track syndicalism?**

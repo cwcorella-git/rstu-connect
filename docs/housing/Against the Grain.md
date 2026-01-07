@@ -1,8 +1,11 @@
 ---
-title: "Against The Grain"
-author: "James C. Scott"
-date: "2017"
-category: "housing"
+title: Against The Grain
+author: James C. Scott
+date: '2017'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # **James C. Scott**

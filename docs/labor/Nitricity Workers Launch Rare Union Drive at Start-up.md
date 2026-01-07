@@ -1,6 +1,9 @@
 ---
-title: "Nitricity Workers Launch Rare Union Drive at Start-up"
-category: "labor"
+title: Nitricity Workers Launch Rare Union Drive at Start-up
+category: labor
+tags:
+  - unions
+  - labor
 ---
 
 ## **Nitricity Workers Launch Rare Union Drive at Start-up**

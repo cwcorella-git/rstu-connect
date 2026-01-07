@@ -1,6 +1,9 @@
 ---
-title: "JAC Audio Interview: Slavoj Zizek All Tracks"
-category: "technology-digital-justice"
+title: 'JAC Audio Interview: Slavoj Zizek All Tracks'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # **JAC Audio Interview: Slavoj Zizek All Tracks**

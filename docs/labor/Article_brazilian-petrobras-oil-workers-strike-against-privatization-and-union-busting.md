@@ -1,8 +1,13 @@
 ---
-title: "Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - unions
+  - labor
+  - fossil fuels
 ---
 
 # Brazilian Petrobras Oil Workers Strike Against Privatization and Union Busting

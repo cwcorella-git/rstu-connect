@@ -1,8 +1,12 @@
 ---
-title: "The Police Have No Obligation To Protect You Yes Really  Overlawyered"
-author: "Wikipedia"
-date: "2011"
-category: "abolition"
+title: The Police Have No Obligation To Protect You Yes Really  Overlawyered
+author: Wikipedia
+date: '2011'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # "The Police Have No Obligation To Protect You. Yes, Really."

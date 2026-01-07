@@ -1,8 +1,14 @@
 ---
-title: ">-"
-author: "Black Lives Matter"
-date: "1995"
-category: "organizing"
+title: '>-'
+author: Black Lives Matter
+date: '1995'
+category: organizing
+tags:
+  - riots
+  - anarchism
+  - mutual aid
+  - food
+  - India
 ---
 
 ## **Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising to India's Farmer Rebellion**

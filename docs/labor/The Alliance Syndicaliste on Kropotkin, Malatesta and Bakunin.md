@@ -1,8 +1,13 @@
 ---
-title: "The Alliance Syndicaliste On Kropotkin Malatesta And Bakunin"
-author: "Daniel Rashid"
-date: "1975"
-category: "theory"
+title: The Alliance Syndicaliste On Kropotkin Malatesta And Bakunin
+author: Daniel Rashid
+date: '1975'
+category: theory
+tags:
+  - syndicalism
+  - Kropotkin
+  - Bakunin
+  - Malatesta
 ---
 
 ## **The Alliance Syndicaliste on Kropotkin, Malatesta and Bakunin**

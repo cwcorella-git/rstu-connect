@@ -1,6 +1,9 @@
 ---
-title: "Inside The Green Economy: Promises And Pitfalls In 9 Theses"
-category: "environmental-justice"
+title: 'Inside The Green Economy: Promises And Pitfalls In 9 Theses'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # **Inside The Green Economy: Promises And Pitfalls In 9 Theses**

@@ -1,6 +1,12 @@
 ---
-title: "Review: Revolution as Merchandise - \"Unfinished Business-The Politics of Class War\" - a British"
-category: "international-solidarity"
+title: >-
+  Review: Revolution as Merchandise - "Unfinished Business-The Politics of Class
+  War" - a British
+category: international-solidarity
+tags:
+  - anti-war
+  - class
+  - United Kingdom
 ---
 
 ## **Review: Revolution as Merchandise - "Unfinished Business-The Politics of Class War" - a British road to Anarchism**

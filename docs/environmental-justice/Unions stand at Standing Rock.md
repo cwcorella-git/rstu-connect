@@ -1,6 +1,9 @@
 ---
-title: "Unions stand at Standing Rock"
-category: "environmental-justice"
+title: Unions stand at Standing Rock
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **Unions stand at Standing Rock**

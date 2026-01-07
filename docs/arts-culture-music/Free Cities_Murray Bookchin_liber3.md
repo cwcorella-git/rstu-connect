@@ -1,6 +1,9 @@
 ---
-title: "MURRAY BOOKCHIN"
-category: "arts-culture-music"
+title: MURRAY BOOKCHIN
+category: arts-culture-music
+tags:
+  - urban
+  - Bookchin
 ---
 
 # **MURRAY BOOKCHIN**

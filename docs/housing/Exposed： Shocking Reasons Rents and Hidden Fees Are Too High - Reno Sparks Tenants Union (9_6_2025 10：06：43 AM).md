@@ -1,8 +1,12 @@
 ---
-title: "Exposed： Shocking Reasons Rents and Hidden Fees Are Too High"
-author: "Reno Sparks Tenants Union"
-date: "2025"
-category: "housing"
+title: Exposed： Shocking Reasons Rents and Hidden Fees Are Too High
+author: Reno Sparks Tenants Union
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - unions
+  - Nevada
 ---
 
 Exposed: Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenants Union Skip to content

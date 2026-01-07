@@ -1,6 +1,11 @@
 ---
-title: "Fascism and the Women's Cause: Gender Critical Feminism, Suffragettes and the Women's KKK"
-category: "feminist-theory"
+title: >-
+  Fascism and the Women's Cause: Gender Critical Feminism, Suffragettes and the
+  Women's KKK
+category: feminist-theory
+tags:
+  - feminism
+  - women
 ---
 
 # **Fascism and the Women's Cause: Gender Critical Feminism, Suffragettes and the Women's KKK**

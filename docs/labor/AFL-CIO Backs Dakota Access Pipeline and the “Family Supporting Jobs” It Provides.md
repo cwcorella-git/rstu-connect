@@ -1,6 +1,11 @@
 ---
-title: "AFL-CIO Backs Dakota Access Pipeline and the 'Family Supporting Jobs' It Provides"
-category: "labor"
+title: >-
+  AFL-CIO Backs Dakota Access Pipeline and the 'Family Supporting Jobs' It
+  Provides
+category: labor
+tags:
+  - unions
+  - fossil fuels
 ---
 
 ## **AFL-CIO Backs Dakota Access Pipeline and the "Family Supporting Jobs" It Provides**

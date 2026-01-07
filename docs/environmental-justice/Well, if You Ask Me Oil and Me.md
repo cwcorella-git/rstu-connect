@@ -1,6 +1,10 @@
 ---
-title: "Well, if You Ask Me: Oil and Me"
-category: "environmental-justice"
+title: 'Well, if You Ask Me: Oil and Me'
+category: environmental-justice
+tags:
+  - fossil fuels
+  - environment
+  - climate
 ---
 
 ## **Well, if You Ask Me: Oil and Me**

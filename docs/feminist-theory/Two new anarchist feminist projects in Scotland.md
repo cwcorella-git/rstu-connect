@@ -1,6 +1,9 @@
 ---
-title: "Two new anarchist feminist projects in Scotland"
-category: "feminist-theory"
+title: Two new anarchist feminist projects in Scotland
+category: feminist-theory
+tags:
+  - anarchism
+  - feminism
 ---
 
 ## **Two new anarchist feminist projects in Scotland**

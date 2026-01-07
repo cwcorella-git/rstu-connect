@@ -1,6 +1,8 @@
 ---
-title: "Boycott Sakuma Berries!"
-category: "contemporary-analysis"
+title: Boycott Sakuma Berries!
+category: contemporary-analysis
+tags:
+  - boycotts
 ---
 
 ## **Boycott Sakuma Berries!**

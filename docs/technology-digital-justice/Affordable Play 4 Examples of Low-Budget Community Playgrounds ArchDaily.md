@@ -1,6 +1,11 @@
 ---
-title: "[archdaily.com](https://www.archdaily.com/1015097/affordable-play-4-examples-of-low-budget-community"
-category: "technology-digital-justice"
+title: >-
+  [archdaily.com](https://www.archdaily.com/1015097/affordable-play-4-examples-of-low-budget-community
+category: technology-digital-justice
+tags:
+  - community
+  - technology
+  - digital rights
 ---
 
 [archdaily.com](https://www.archdaily.com/1015097/affordable-play-4-examples-of-low-budget-community-playgrounds)

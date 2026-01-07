@@ -1,6 +1,8 @@
 ---
-title: "Llamada a la solidaridad con Malanquismo"
-category: "contemporary-analysis"
+title: Llamada a la solidaridad con Malanquismo
+category: contemporary-analysis
+tags:
+  - Los Angeles
 ---
 
 ## **Llamada a la solidaridad con Malanquismo**

@@ -1,6 +1,8 @@
 ---
-title: "BYUNG-CHULHAN PSYCHO-POLICS"
-category: "feminist-theory"
+title: BYUNG-CHULHAN PSYCHO-POLICS
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

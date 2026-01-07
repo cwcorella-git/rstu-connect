@@ -1,6 +1,9 @@
 ---
-title: "How to Socialize America's Energy"
-category: "environmental-justice"
+title: How to Socialize America's Energy
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # **How to Socialize America's Energy**

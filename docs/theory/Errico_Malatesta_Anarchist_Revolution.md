@@ -1,6 +1,9 @@
 ---
-title: "THE ANARCHIST REVOLUTION Polemical Articles 1924-1931"
-category: "contemporary-analysis"
+title: THE ANARCHIST REVOLUTION Polemical Articles 1924-1931
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Malatesta
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

@@ -1,8 +1,11 @@
 ---
-title: "Anarchism and Democracy the Anarchist Library"
-author: "David Graeber"
-date: "2025"
-category: "theory"
+title: Anarchism and Democracy the Anarchist Library
+author: David Graeber
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - democracy
 ---
 
 # Anarchism and Democracy the Anarchist Library

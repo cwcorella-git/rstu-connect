@@ -1,6 +1,10 @@
 ---
-title: "Bay Area IWW Resolution Defending the West Berkeley Shellmound"
-category: "contemporary-analysis"
+title: Bay Area IWW Resolution Defending the West Berkeley Shellmound
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # **Bay Area IWW Resolution Defending the West Berkeley Shellmound**

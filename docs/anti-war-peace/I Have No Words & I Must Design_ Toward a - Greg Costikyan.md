@@ -1,6 +1,9 @@
 ---
-title: "I Have No Words & I Must Design: Toward a Critical Vocabulary for Games"
-category: "anti-war-peace"
+title: 'I Have No Words & I Must Design: Toward a Critical Vocabulary for Games'
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

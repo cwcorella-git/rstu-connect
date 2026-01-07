@@ -1,6 +1,9 @@
 ---
-title: "Monopoly capitalism and the rise of syndicalism – Mark Leier"
-category: "contemporary-analysis"
+title: Monopoly capitalism and the rise of syndicalism – Mark Leier
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - capitalism
 ---
 
 ## **Monopoly capitalism and the rise of syndicalism – Mark Leier**

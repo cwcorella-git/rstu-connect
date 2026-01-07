@@ -1,6 +1,9 @@
 ---
-title: "The Poisoning of Flint: Capitalism and Environmental Sabotage"
-category: "environmental-justice"
+title: 'The Poisoning of Flint: Capitalism and Environmental Sabotage'
+category: environmental-justice
+tags:
+  - environment
+  - capitalism
 ---
 
 ## **The Poisoning of Flint: Capitalism and Environmental Sabotage**

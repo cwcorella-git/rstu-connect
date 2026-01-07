@@ -1,6 +1,9 @@
 ---
-title: "Women's Cafe"
-category: "feminist-theory"
+title: Women's Cafe
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **Women's Cafe**

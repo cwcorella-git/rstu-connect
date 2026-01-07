@@ -1,6 +1,9 @@
 ---
-title: "Breakwater (structure)"
-category: "environmental-justice"
+title: Breakwater (structure)
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Breakwater_(structure))

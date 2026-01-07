@@ -1,6 +1,11 @@
 ---
-title: "Revolt in Iran: The Feminist Resurrection and the Beginning of the End for the Regime"
-category: "feminist-theory"
+title: >-
+  Revolt in Iran: The Feminist Resurrection and the Beginning of the End for the
+  Regime
+category: feminist-theory
+tags:
+  - riots
+  - feminism
 ---
 
 ## **Revolt in Iran: The Feminist Resurrection and the Beginning of the End for the Regime**

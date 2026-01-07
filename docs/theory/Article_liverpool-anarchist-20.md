@@ -1,8 +1,11 @@
 ---
-title: "Liverpool Anarchist 20"
-author: "Solidarity Federation"
-date: "2025"
-category: "theory"
+title: Liverpool Anarchist 20
+author: Solidarity Federation
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Liverpool Anarchist 20

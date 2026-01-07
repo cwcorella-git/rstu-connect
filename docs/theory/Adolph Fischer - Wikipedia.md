@@ -1,6 +1,8 @@
 ---
-title: "Adolph Fischer"
-category: "theory"
+title: Adolph Fischer
+category: theory
+tags:
+  - theory
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Adolph_Fischer)

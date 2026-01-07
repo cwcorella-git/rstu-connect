@@ -1,6 +1,9 @@
 ---
-title: "Why work and workers matter in the environmental debate"
-category: "environmental-justice"
+title: Why work and workers matter in the environmental debate
+category: environmental-justice
+tags:
+  - labor
+  - environment
 ---
 
 ## **Why work and workers matter in the environmental debate**

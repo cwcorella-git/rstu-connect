@@ -1,8 +1,12 @@
 ---
-title: "About Wobblies For A Revolutionary Union Movement"
-author: "Lucy Parsons"
-date: "2017"
-category: "housing"
+title: About Wobblies For A Revolutionary Union Movement
+author: Lucy Parsons
+date: '2017'
+category: housing
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **About Wobblies For A Revolutionary Union Movement**

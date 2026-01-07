@@ -1,8 +1,11 @@
 ---
-title: "21st October A Day Of General Strike"
-author: "many organisations"
-date: "2025"
-category: "labor"
+title: 21st October A Day Of General Strike
+author: many organisations
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # 21st October A Day Of General Strike

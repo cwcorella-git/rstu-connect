@@ -1,6 +1,8 @@
 ---
-title: "Riots in the Potteries in 1842"
-category: "contemporary-analysis"
+title: Riots in the Potteries in 1842
+category: contemporary-analysis
+tags:
+  - riots
 ---
 
 ## **Riots in the Potteries in 1842**

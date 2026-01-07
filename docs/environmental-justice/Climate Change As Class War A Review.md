@@ -1,6 +1,10 @@
 ---
-title: "Climate Change As Class War: A Review"
-category: "environmental-justice"
+title: 'Climate Change As Class War: A Review'
+category: environmental-justice
+tags:
+  - environment
+  - anti-war
+  - class
 ---
 
 # **Climate Change As Class War: A Review**

@@ -1,6 +1,9 @@
 ---
-title: "Two Siberian anarchists are captured on suspicion of combative actions"
-category: "contemporary-analysis"
+title: Two Siberian anarchists are captured on suspicion of combative actions
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Two Siberian anarchists are captured on suspicion of combative actions**

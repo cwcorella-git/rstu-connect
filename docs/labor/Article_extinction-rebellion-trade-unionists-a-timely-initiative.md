@@ -1,8 +1,13 @@
 ---
-title: "Extinction Rebellion Trade Unionists a Timely Initiative"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Extinction Rebellion Trade Unionists a Timely Initiative
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - riots
+  - labor
+  - unions
+  - workers
 ---
 
 # Extinction Rebellion Trade Unionists a Timely Initiative

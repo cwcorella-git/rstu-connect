@@ -1,6 +1,11 @@
 ---
-title: "Teleseminar Transcript: \"Just Transition\" with Mateo Nube of Movement Generation"
-category: "organizing"
+title: >-
+  Teleseminar Transcript: "Just Transition" with Mateo Nube of Movement
+  Generation
+category: organizing
+tags:
+  - just transition
+  - organizing
 ---
 
 ## **Teleseminar Transcript: "Just Transition" with Mateo Nube of Movement Generation**

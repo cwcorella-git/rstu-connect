@@ -1,6 +1,12 @@
 ---
-title: "Factionalism in transition: a comparison of ruptures in the Spanish anarchist movement - Eduardo Romanos"
-category: "feminist-theory"
+title: >-
+  Factionalism in transition: a comparison of ruptures in the Spanish anarchist
+  movement - Eduardo Romanos
+category: feminist-theory
+tags:
+  - anarchism
+  - Spain
+  - France
 ---
 
 # **Factionalism in transition: a comparison of ruptures in the Spanish anarchist movement - Eduardo Romanos**

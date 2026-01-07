@@ -1,6 +1,10 @@
 ---
-title: "If You Care About Railroad Safety You Must Defend Tom Harding"
-category: "technology-digital-justice"
+title: If You Care About Railroad Safety You Must Defend Tom Harding
+category: technology-digital-justice
+tags:
+  - railroads
+  - technology
+  - digital rights
 ---
 
 ## **If You Care About Railroad Safety You Must Defend Tom Harding**

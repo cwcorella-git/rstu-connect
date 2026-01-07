@@ -1,6 +1,10 @@
 ---
-title: "Workers at Urban Ore, Berkeley's last salvage store, announce union drive"
-category: "contemporary-analysis"
+title: 'Workers at Urban Ore, Berkeley''s last salvage store, announce union drive'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - urban
 ---
 
 ## **Workers at Urban Ore, Berkeley's last salvage store, announce union drive**

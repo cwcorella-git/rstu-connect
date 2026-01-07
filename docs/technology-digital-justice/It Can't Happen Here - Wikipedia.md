@@ -1,6 +1,9 @@
 ---
-title: "It Can't Happen Here"
-category: "technology-digital-justice"
+title: It Can't Happen Here
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/It_Can%27t_Happen_Here)

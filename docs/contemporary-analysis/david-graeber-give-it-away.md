@@ -1,8 +1,10 @@
 ---
-title: "Give It Away"
-author: "David Graeber"
-date: "2008"
-category: "contemporary-analysis"
+title: Give It Away
+author: David Graeber
+date: '2008'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 Have you noticed how there aren’t any new French intellectuals any more? There was a veritable flood in the late ’70s and early ’80s: Derrida, Foucault, Baudrillard, Kristeva, Lyotard, de Certeau ... but there has been almost no one since. Trendy academics and intellectual hipsters have been forced to endlessly recycle theories now 20 or 30 years old, or turn to countries like Italy or even Slovenia for dazzling meta-theory.

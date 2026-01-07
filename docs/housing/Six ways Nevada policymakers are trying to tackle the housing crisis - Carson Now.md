@@ -1,8 +1,13 @@
 ---
-title: "Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now"
-author: "Carson Now"
-date: "2025"
-category: "housing"
+title: >-
+  Six ways Nevada policymakers are trying to tackle the housing crisis - Carson
+  Now
+author: Carson Now
+date: '2025'
+category: housing
+tags:
+  - housing
+  - Nevada
 ---
 
 # Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now

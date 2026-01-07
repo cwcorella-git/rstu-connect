@@ -1,8 +1,11 @@
 ---
-title: "Socialist Labor Party Pamphlets"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: Socialist Labor Party Pamphlets
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - socialism
+  - labor
 ---
 
 # Socialist Labor Party Pamphlets

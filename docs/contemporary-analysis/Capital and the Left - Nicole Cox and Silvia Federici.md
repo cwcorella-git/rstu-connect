@@ -1,6 +1,8 @@
 ---
-title: "Capital and the Left - Nicole Cox and Silvia Federici"
-category: "contemporary-analysis"
+title: Capital and the Left - Nicole Cox and Silvia Federici
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 ## **Capital and the Left - Nicole Cox and Silvia Federici**

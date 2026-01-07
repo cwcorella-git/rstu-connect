@@ -1,6 +1,9 @@
 ---
-title: "Applications | NDB"
-category: "technology-digital-justice"
+title: Applications | NDB
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # Applications | NDB

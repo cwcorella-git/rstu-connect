@@ -1,6 +1,8 @@
 ---
-title: "Pëtr Kropotkin Memoirs of a Revolutionist 1899"
-category: "contemporary-analysis"
+title: Pëtr Kropotkin Memoirs of a Revolutionist 1899
+category: contemporary-analysis
+tags:
+  - Kropotkin
 ---
 
 # **Pëtr Kropotkin Memoirs of a Revolutionist 1899**

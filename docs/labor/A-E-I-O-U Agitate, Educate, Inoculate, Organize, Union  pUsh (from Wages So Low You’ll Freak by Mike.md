@@ -1,6 +1,12 @@
 ---
-title: "A-E-I-O-U: Agitate, Educate, Inoculate, Organize, Union / pUsh (from 'Wages So Low You'll Freak"
-category: "labor"
+title: >-
+  A-E-I-O-U: Agitate, Educate, Inoculate, Organize, Union / pUsh (from 'Wages So
+  Low You'll Freak
+category: labor
+tags:
+  - unions
+  - organizing
+  - labor
 ---
 
 ## **A-E-I-O-U: Agitate, Educate, Inoculate, Organize, Union / pUsh (from "Wages So Low You'll Freak" by Mike Pudd'nhead)**

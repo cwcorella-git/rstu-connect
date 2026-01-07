@@ -1,6 +1,9 @@
 ---
-title: "1892 New Orleans General Strike"
-category: "labor"
+title: 1892 New Orleans General Strike
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # **1892 New Orleans General Strike**

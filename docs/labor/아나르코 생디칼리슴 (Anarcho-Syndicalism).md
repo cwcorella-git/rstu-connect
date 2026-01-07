@@ -1,6 +1,9 @@
 ---
-title: "아나르코 생디칼리슴 (Anarcho-Syndicalism)"
-category: "contemporary-analysis"
+title: 아나르코 생디칼리슴 (Anarcho-Syndicalism)
+category: contemporary-analysis
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## **아나르코 생디칼리슴 (Anarcho-Syndicalism)**

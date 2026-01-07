@@ -1,8 +1,12 @@
 ---
-title: "Hostile Intelligence"
-author: "David Graeber"
-date: "July 30, 2015"
-category: "economic-alternatives"
+title: Hostile Intelligence
+author: David Graeber
+date: 'July 30, 2015'
+category: economic-alternatives
+tags:
+  - Graeber
+  - economics
+  - alternatives
 ---
 
 In Nablus, every street seems to have a men’s hair salon. There are literally thousands of them. Most stay open until at least 2 at night; often other than mosques they’re the only places lit up and open at two at night; and it seems any time you pass by one, there are likely to be four or five nicely coiffed young men clustered inside, watching someone get a haircut. The odd thing is that women’s hair salons seem entirely absent. Occasionally you do see impressive posters for women’s cosmetics and hair products; often, the women are blonde (and a surprising number of Palestinians in Nablus are, in fact, blonde; even children), but the shops are absent. I asked a friend why this was. He explained that while Palestinian society was traditionally considered the most liberal Arab society outside of Beirut, and young women never used to go with their hair covered, things started to change in the ‘90s with the political rise of Hamas. But in the case of women’s hair salons, there was another, much more immediate factor. During the ‘80s, Israeli intelligence agents began taking advantage of their existence to spike the sweet tea with knock-out drugs, and take nude pictures of women so as to blackmail their husbands into turning collaborator or informant. So now women’s salons exist, but they’re not visible from the street, and women no longer take tea from strangers.

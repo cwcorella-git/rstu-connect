@@ -1,6 +1,10 @@
 ---
-title: "FREEDOM PLAZA: A MEGAPROJECT ALONG THE WATERFRONT"
-category: "contemporary-analysis"
+title: 'FREEDOM PLAZA: A MEGAPROJECT ALONG THE WATERFRONT'
+category: contemporary-analysis
+tags:
+  - housing
+  - liberty
+  - New York
 ---
 
 [home](https://www.designboom.com/) > [architecture](https://www.designboom.com/architecture/) > bjarke ingels group's 'freedom plaza' could bring affordable housing and casino to NYC

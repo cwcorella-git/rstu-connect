@@ -1,8 +1,11 @@
 ---
-title: "Studies In Mutualist Political Economy"
-author: "Kevin A. Carson"
-date: "2004"
-category: "housing"
+title: Studies In Mutualist Political Economy
+author: Kevin A. Carson
+date: '2004'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # **Kevin Carson**

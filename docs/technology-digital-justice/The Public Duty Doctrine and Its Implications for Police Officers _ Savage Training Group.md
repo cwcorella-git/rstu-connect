@@ -1,6 +1,12 @@
 ---
-title: "## [savagetraininggroup.com](https://savagetraininggroup.com/public-duty-doctrine-implications-polic"
-category: "technology-digital-justice"
+title: >-
+  ##
+  [savagetraininggroup.com](https://savagetraininggroup.com/public-duty-doctrine-implications-polic
+category: technology-digital-justice
+tags:
+  - police
+  - technology
+  - digital rights
 ---
 
 ## [savagetraininggroup.com](https://savagetraininggroup.com/public-duty-doctrine-implications-police-officers/)

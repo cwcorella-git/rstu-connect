@@ -1,6 +1,10 @@
 ---
-title: "Harris, Palestine, and the Spectacle of Liberation."
-category: "international-solidarity"
+title: 'Harris, Palestine, and the Spectacle of Liberation.'
+category: international-solidarity
+tags:
+  - Palestine
+  - international
+  - solidarity
 ---
 
 ## **Harris, Palestine, and the Spectacle of Liberation.**

@@ -1,6 +1,10 @@
 ---
-title: "Monkeywrenching the Misogynists in our Movements: A historical exploration of call-outs and ant"
-category: "feminist-theory"
+title: >-
+  Monkeywrenching the Misogynists in our Movements: A historical exploration of
+  call-outs and ant
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **Monkeywrenching the Misogynists in our Movements: A historical exploration of call-outs and anti-feminist backlash in Cascadia**

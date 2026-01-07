@@ -1,6 +1,9 @@
 ---
-title: "Innovations in Agriculture; and Innovations in Archaeology"
-category: "contemporary-analysis"
+title: Innovations in Agriculture; and Innovations in Archaeology
+category: contemporary-analysis
+tags:
+  - food
+  - urban
 ---
 
 #### [thoughtco.com](https://www.thoughtco.com/catalhoyuk-turkey-167405)

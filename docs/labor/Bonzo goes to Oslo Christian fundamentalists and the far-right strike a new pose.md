@@ -1,6 +1,13 @@
 ---
-title: "Bonzo goes to Oslo: Christian fundamentalists and the far-right strike a new pose"
-category: "contemporary-analysis"
+title: >-
+  Bonzo goes to Oslo: Christian fundamentalists and the far-right strike a new
+  pose
+category: contemporary-analysis
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Bonzo goes to Oslo: Christian fundamentalists and the far-right strike a new pose**

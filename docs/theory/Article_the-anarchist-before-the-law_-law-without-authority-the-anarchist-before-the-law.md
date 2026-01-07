@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Saul Newman"
-date: "2025"
-category: "theory"
+title: '>-'
+author: Saul Newman
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # The Anarchist Before the Law Law Without Authority the Anarchist Before the Law

@@ -1,6 +1,10 @@
 ---
-title: "The History of the Workers' Unemployment Insurance Bill"
-category: "contemporary-analysis"
+title: The History of the Workers' Unemployment Insurance Bill
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **The History of the Workers' Unemployment Insurance Bill**

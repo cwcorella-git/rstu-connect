@@ -1,6 +1,9 @@
 ---
-title: "The History of Anarchism and Syndicalism in Indonesia"
-category: "contemporary-analysis"
+title: The History of Anarchism and Syndicalism in Indonesia
+category: contemporary-analysis
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## **The History of Anarchism and Syndicalism in Indonesia**

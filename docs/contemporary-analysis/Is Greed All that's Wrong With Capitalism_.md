@@ -1,6 +1,8 @@
 ---
-title: "## James Herod"
-category: "contemporary-analysis"
+title: '## James Herod'
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 ## James Herod

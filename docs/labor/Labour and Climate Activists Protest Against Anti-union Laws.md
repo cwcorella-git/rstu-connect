@@ -1,6 +1,11 @@
 ---
-title: "Labour and Climate Activists Protest Against Anti-union Laws"
-category: "environmental-justice"
+title: Labour and Climate Activists Protest Against Anti-union Laws
+category: environmental-justice
+tags:
+  - protests
+  - unions
+  - labor
+  - environment
 ---
 
 ## **Labour and Climate Activists Protest Against Anti-union Laws**

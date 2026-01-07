@@ -1,6 +1,9 @@
 ---
-title: "여성해방의 비극 (The Tragedy of Women's Emancipation)"
-category: "feminist-theory"
+title: 여성해방의 비극 (The Tragedy of Women's Emancipation)
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **여성해방의 비극 (The Tragedy of Women's Emancipation)**

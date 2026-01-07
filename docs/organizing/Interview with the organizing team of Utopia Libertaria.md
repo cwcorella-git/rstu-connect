@@ -1,6 +1,8 @@
 ---
-title: "Interview with the organizing team of \"Utopia Libertaria\" *"
-category: "organizing"
+title: Interview with the organizing team of "Utopia Libertaria" *
+category: organizing
+tags:
+  - organizing
 ---
 
 ## **Interview with the organizing team of "Utopia Libertaria" \***

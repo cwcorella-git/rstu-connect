@@ -1,6 +1,8 @@
 ---
-title: "Swedish unions, why do we suck?"
-category: "contemporary-analysis"
+title: 'Swedish unions, why do we suck?'
+category: contemporary-analysis
+tags:
+  - Sweden
 ---
 
 ## **Swedish unions, why do we suck?**

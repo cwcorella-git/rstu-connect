@@ -1,8 +1,11 @@
 ---
-title: "Direct Action"
-author: "David Graeber"
-date: "October 8, 2009"
-category: "organizing"
+title: Direct Action
+author: David Graeber
+date: 'October 8, 2009'
+category: organizing
+tags:
+  - direct action
+  - Graeber
 ---
 
 ## **PREFACE**

@@ -1,6 +1,11 @@
 ---
-title: "Revolutionary syndicalism"
-category: "theory"
+title: Revolutionary syndicalism
+category: theory
+tags:
+  - syndicalism
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Revolutionary syndicalism**

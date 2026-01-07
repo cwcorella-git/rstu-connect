@@ -1,8 +1,11 @@
 ---
-title: "What Is A Tenants Union"
-author: "Housing Advocacy Organization"
-date: "2025"
-category: "housing"
+title: What Is A Tenants Union
+author: Housing Advocacy Organization
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - unions
 ---
 
 # What Is A Tenants Union - Google Docs.pdf

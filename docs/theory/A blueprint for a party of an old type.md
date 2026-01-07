@@ -1,6 +1,8 @@
 ---
-title: "A blueprint for a party of an old type"
-category: "theory"
+title: A blueprint for a party of an old type
+category: theory
+tags:
+  - theory
 ---
 
 ## **A blueprint for a party of an old type**

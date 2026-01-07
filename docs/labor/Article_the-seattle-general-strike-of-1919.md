@@ -1,8 +1,12 @@
 ---
-title: "The Seattle General Strike of 1919"
-author: "History Committee of The General Strike Committee"
-date: "2025"
-category: "labor"
+title: The Seattle General Strike of 1919
+author: History Committee of The General Strike Committee
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - Seattle
 ---
 
 # The Seattle General Strike of 1919

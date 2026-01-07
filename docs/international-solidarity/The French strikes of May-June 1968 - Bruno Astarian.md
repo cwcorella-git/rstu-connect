@@ -1,6 +1,10 @@
 ---
-title: "The French strikes of May-June 1968 - Bruno Astarian"
-category: "international-solidarity"
+title: The French strikes of May-June 1968 - Bruno Astarian
+category: international-solidarity
+tags:
+  - France
+  - international
+  - solidarity
 ---
 
 ## **The French strikes of May-June 1968 - Bruno Astarian**

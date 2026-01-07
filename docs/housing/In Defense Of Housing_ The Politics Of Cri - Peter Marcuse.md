@@ -1,8 +1,11 @@
 ---
-title: "In Defense Of Housing  The Politics Of Cri"
-author: "Peter Marcuse"
-date: "1872"
-category: "housing"
+title: In Defense Of Housing  The Politics Of Cri
+author: Peter Marcuse
+date: '1872'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

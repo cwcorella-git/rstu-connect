@@ -1,6 +1,9 @@
 ---
-title: "On the political economy of women - Conference of Socialist Economists"
-category: "feminist-theory"
+title: On the political economy of women - Conference of Socialist Economists
+category: feminist-theory
+tags:
+  - socialism
+  - women
 ---
 
 ## **On the political economy of women - Conference of Socialist Economists**

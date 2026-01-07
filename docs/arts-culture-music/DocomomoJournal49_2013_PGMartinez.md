@@ -1,6 +1,11 @@
 ---
-title: "Ludwig Hilberseimer at the Illinois Institute of Technology: Architectural Education, Organic Democracy and Colonization."
-category: "arts-culture-music"
+title: >-
+  Ludwig Hilberseimer at the Illinois Institute of Technology: Architectural
+  Education, Organic Democracy and Colonization.
+category: arts-culture-music
+tags:
+  - education
+  - democracy
 ---
 
 # **Ludwig Hilberseimer at the Illinois Institute of Technology: Architectural Education, Organic Democracy and Colonization.**

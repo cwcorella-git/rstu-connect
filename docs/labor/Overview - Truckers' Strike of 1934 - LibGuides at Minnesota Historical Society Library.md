@@ -1,6 +1,11 @@
 ---
-title: "## [libguides.mnhs.org](https://libguides.mnhs.org/1934strike)"
-category: "contemporary-analysis"
+title: '## [libguides.mnhs.org](https://libguides.mnhs.org/1934strike)'
+category: contemporary-analysis
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 ## [libguides.mnhs.org](https://libguides.mnhs.org/1934strike)

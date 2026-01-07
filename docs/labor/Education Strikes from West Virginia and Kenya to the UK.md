@@ -1,8 +1,11 @@
 ---
-title: "Education Strikes From West Virginia And Kenya To The Uk"
-author: "Global Nonviolent Action Database"
-date: "2020"
-category: "labor"
+title: Education Strikes From West Virginia And Kenya To The Uk
+author: Global Nonviolent Action Database
+date: '2020'
+category: labor
+tags:
+  - education
+  - United Kingdom
 ---
 
 ## **Education Strikes from West Virginia and Kenya to the UK**

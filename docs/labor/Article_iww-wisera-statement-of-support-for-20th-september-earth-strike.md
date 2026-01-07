@@ -1,8 +1,11 @@
 ---
-title: "Iww Wisera Statement of Support For 20th September Earth Strike"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Iww Wisera Statement of Support For 20th September Earth Strike
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - unions
 ---
 
 # Iww Wisera Statement of Support For 20th September Earth Strike

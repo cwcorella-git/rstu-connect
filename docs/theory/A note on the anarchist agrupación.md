@@ -1,6 +1,9 @@
 ---
-title: "A note on the anarchist agrupación"
-category: "contemporary-analysis"
+title: A note on the anarchist agrupación
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # **A note on the anarchist agrupación**

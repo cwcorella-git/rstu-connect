@@ -1,6 +1,9 @@
 ---
-title: "Literary Techniques for your Speech, with Examples Analyzed"
-category: "technology-digital-justice"
+title: 'Literary Techniques for your Speech, with Examples Analyzed'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [virtualspeech.com](https://virtualspeech.com/blog/literary-techniques-for-a-speech)

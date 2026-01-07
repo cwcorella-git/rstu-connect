@@ -1,8 +1,11 @@
 ---
-title: "blueprint-for-community-resilience-and-mutual-aid-networks"
-author: "### 3. Resource Limitations"
-date: "2025"
-category: "organizing"
+title: blueprint-for-community-resilience-and-mutual-aid-networks
+author: '### 3. Resource Limitations'
+date: '2025'
+category: organizing
+tags:
+  - community
+  - organizing
 ---
 
 # blueprint-for-community-resilience-and-mutual-aid-networks.pdf

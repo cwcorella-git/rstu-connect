@@ -1,6 +1,8 @@
 ---
-title: "TLDR: We need a united class not a united left"
-category: "contemporary-analysis"
+title: 'TLDR: We need a united class not a united left'
+category: contemporary-analysis
+tags:
+  - class
 ---
 
 ## **TLDR: We need a united class not a united left**

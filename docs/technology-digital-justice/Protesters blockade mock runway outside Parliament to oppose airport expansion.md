@@ -1,6 +1,9 @@
 ---
-title: "Protesters blockade mock runway outside Parliament to oppose airport expansion"
-category: "technology-digital-justice"
+title: Protesters blockade mock runway outside Parliament to oppose airport expansion
+category: technology-digital-justice
+tags:
+  - protests
+  - blockades
 ---
 
 ## **Protesters blockade mock runway outside Parliament to oppose airport expansion**

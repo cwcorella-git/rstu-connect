@@ -1,6 +1,11 @@
 ---
-title: "Indispensable reading for Wobblies, labor historians: a review of The Wobblies in their Heyday"
-category: "labor"
+title: >-
+  Indispensable reading for Wobblies, labor historians: a review of The Wobblies
+  in their Heyday
+category: labor
+tags:
+  - unions
+  - labor
 ---
 
 ## **Indispensable reading for Wobblies, labor historians: a review of The Wobblies in their Heyday - Staughton Lynd**

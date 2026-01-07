@@ -1,6 +1,9 @@
 ---
-title: "Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak"
-category: "environmental-justice"
+title: 'Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak**

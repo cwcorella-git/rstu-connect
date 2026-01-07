@@ -1,6 +1,10 @@
 ---
-title: "Cops and Cocaine: Bent for the cause – Black Flag"
-category: "technology-digital-justice"
+title: 'Cops and Cocaine: Bent for the cause – Black Flag'
+category: technology-digital-justice
+tags:
+  - police
+  - technology
+  - digital rights
 ---
 
 ## **Cops and Cocaine: Bent for the cause – Black Flag**

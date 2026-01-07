@@ -1,6 +1,9 @@
 ---
-title: "Persistent WRAP URL:"
-category: "environmental-justice"
+title: 'Persistent WRAP URL:'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

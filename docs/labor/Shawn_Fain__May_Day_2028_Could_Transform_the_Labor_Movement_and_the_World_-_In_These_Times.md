@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "May Day"
-date: "1886"
-category: "labor"
+title: '>-'
+author: May Day
+date: '1886'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Shawn Fain_ May Day 2028 Could Transform the Labor Movement—and the World - In These Times.pdf

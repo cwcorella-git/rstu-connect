@@ -1,6 +1,9 @@
 ---
-title: "A University Administrator Inquiry"
-category: "youth-student-organizing"
+title: A University Administrator Inquiry
+category: youth-student-organizing
+tags:
+  - students
+  - youth
 ---
 
 ## **A University Administrator Inquiry**

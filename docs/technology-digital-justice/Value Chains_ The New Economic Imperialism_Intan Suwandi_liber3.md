@@ -1,6 +1,9 @@
 ---
-title: "Value Chains"
-category: "technology-digital-justice"
+title: Value Chains
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

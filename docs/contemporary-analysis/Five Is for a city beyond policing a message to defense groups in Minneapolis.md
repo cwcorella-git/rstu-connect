@@ -1,6 +1,11 @@
 ---
-title: "Five 'I's for a city beyond policing: a message to defense groups in Minneapolis"
-category: "contemporary-analysis"
+title: >-
+  Five 'I's for a city beyond policing: a message to defense groups in
+  Minneapolis
+category: contemporary-analysis
+tags:
+  - police
+  - urban
 ---
 
 ## **Five "I"s for a city beyond policing: a message to defense groups in Minneapolis**

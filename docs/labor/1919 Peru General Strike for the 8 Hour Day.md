@@ -1,8 +1,11 @@
 ---
-title: "1919 Peru General Strike For The 8"
-author: "Global Nonviolent Action Database"
-date: "1919"
-category: "labor"
+title: 1919 Peru General Strike For The 8
+author: Global Nonviolent Action Database
+date: '1919'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1919: Peru General Strike for the 8 Hour Day**

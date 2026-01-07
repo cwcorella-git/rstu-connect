@@ -1,6 +1,10 @@
 ---
-title: "XR call for just transition from North Sea oil to renewable energy"
-category: "feminist-theory"
+title: XR call for just transition from North Sea oil to renewable energy
+category: feminist-theory
+tags:
+  - environment
+  - fossil fuels
+  - just transition
 ---
 
 ## **XR call for just transition from North Sea oil to renewable energy**

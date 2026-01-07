@@ -1,6 +1,11 @@
 ---
-title: "Socialism and the Principles of the International Working Men's Association - Rudolf Rocker"
-category: "international-solidarity"
+title: >-
+  Socialism and the Principles of the International Working Men's Association -
+  Rudolf Rocker
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 ## **Socialism and the Principles of the International Working Men's Association - Rudolf Rocker**

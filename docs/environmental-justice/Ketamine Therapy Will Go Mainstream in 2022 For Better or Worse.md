@@ -1,6 +1,11 @@
 ---
-title: "## [thedailybeast.com](https://www.thedailybeast.com/ketamine-therapy-will-go-mainstream-in-2022-for"
-category: "environmental-justice"
+title: >-
+  ##
+  [thedailybeast.com](https://www.thedailybeast.com/ketamine-therapy-will-go-mainstream-in-2022-for
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## [thedailybeast.com](https://www.thedailybeast.com/ketamine-therapy-will-go-mainstream-in-2022-for-better-or-worse)

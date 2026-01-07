@@ -1,6 +1,12 @@
 ---
-title: "Collectives in the Spanish Revolution by Gaston Leval (2018 Updated & Improved Edition)"
-category: "environmental-justice"
+title: >-
+  Collectives in the Spanish Revolution by Gaston Leval (2018 Updated & Improved
+  Edition)
+category: environmental-justice
+tags:
+  - Spain
+  - environment
+  - climate
 ---
 
 ## **Collectives in the Spanish Revolution by Gaston Leval (2018 Updated & Improved Edition)**

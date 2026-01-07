@@ -1,6 +1,9 @@
 ---
-title: "Barricade Bulletin 03 - March 2017"
-category: "contemporary-analysis"
+title: Barricade Bulletin 03 - March 2017
+category: contemporary-analysis
+tags:
+  - protests
+  - blockades
 ---
 
 ## **Barricade Bulletin 03 - March 2017**

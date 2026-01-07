@@ -1,6 +1,8 @@
 ---
-title: "Against the Logic of Submission Audio book - Audio Anarchy"
-category: "arts-culture-music"
+title: Against the Logic of Submission Audio book - Audio Anarchy
+category: arts-culture-music
+tags:
+  - anarchism
 ---
 
 ## **Against the Logic of Submission Audio book - Audio Anarchy**

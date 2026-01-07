@@ -1,6 +1,9 @@
 ---
-title: "Abraham De Leon"
-category: "theory"
+title: Abraham De Leon
+category: theory
+tags:
+  - anarchism
+  - education
 ---
 
 # **Abraham De Leon**

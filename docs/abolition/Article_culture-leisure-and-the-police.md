@@ -1,8 +1,12 @@
 ---
-title: "Culture Leisure and the Police"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: Culture Leisure and the Police
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # Culture Leisure and the Police

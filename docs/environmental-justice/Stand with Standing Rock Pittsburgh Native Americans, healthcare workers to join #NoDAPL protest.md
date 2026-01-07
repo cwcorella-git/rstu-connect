@@ -1,6 +1,13 @@
 ---
-title: "Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to join #NoDAPL prote"
-category: "environmental-justice"
+title: >-
+  Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to
+  join #NoDAPL prote
+category: environmental-justice
+tags:
+  - protests
+  - labor
+  - indigenous
+  - healthcare
 ---
 
 ## **Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to join #NoDAPL protest**

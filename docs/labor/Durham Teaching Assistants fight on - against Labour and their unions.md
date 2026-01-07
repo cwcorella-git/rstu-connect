@@ -1,6 +1,10 @@
 ---
-title: "Durham Teaching Assistants fight on against Labour and their unions"
-category: "labor"
+title: Durham Teaching Assistants fight on against Labour and their unions
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Durham Teaching Assistants fight on against Labour and their unions**

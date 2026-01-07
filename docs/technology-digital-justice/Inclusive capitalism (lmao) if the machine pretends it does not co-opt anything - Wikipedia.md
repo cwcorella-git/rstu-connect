@@ -1,6 +1,9 @@
 ---
-title: "Inclusive capitalism"
-category: "technology-digital-justice"
+title: Inclusive capitalism
+category: technology-digital-justice
+tags:
+  - cooperatives
+  - capitalism
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Inclusive_capitalism)

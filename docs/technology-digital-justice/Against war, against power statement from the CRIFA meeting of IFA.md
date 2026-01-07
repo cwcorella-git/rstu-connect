@@ -1,6 +1,10 @@
 ---
-title: "Against war, against power: statement from the CRIFA meeting of IFA"
-category: "technology-digital-justice"
+title: 'Against war, against power: statement from the CRIFA meeting of IFA'
+category: technology-digital-justice
+tags:
+  - anti-war
+  - technology
+  - digital rights
 ---
 
 ## **Against war, against power: statement from the CRIFA meeting of IFA**

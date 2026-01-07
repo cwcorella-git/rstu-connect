@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - socialism
 ---
 
 # The Trade Union Unity League American Communists and the Transition To Industria

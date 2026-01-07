@@ -1,6 +1,8 @@
 ---
-title: "3. Part II of *Objectivity and Liberal Scholarship*"
-category: "contemporary-analysis"
+title: 3. Part II of *Objectivity and Liberal Scholarship*
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **On Anarchism**

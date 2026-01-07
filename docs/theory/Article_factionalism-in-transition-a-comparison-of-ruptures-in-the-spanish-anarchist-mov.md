@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "theory"
+title: '>-'
+author: Unknown
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - Spain
+  - France
 ---
 
 # Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist Mov

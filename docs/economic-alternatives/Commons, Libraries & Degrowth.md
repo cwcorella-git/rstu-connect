@@ -1,6 +1,10 @@
 ---
-title: "Commons, Libraries & Degrowth"
-category: "contemporary-analysis"
+title: 'Commons, Libraries & Degrowth'
+category: contemporary-analysis
+tags:
+  - commons
+  - economics
+  - alternatives
 ---
 
 ## **Andrewism**

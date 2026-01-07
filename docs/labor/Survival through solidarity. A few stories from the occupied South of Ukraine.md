@@ -1,6 +1,9 @@
 ---
-title: "Survival through solidarity. A few stories from the occupied South of Ukraine"
-category: "labor"
+title: Survival through solidarity. A few stories from the occupied South of Ukraine
+category: labor
+tags:
+  - solidarity
+  - Ukraine
 ---
 
 ## **Survival through solidarity. A few stories from the occupied South of Ukraine**

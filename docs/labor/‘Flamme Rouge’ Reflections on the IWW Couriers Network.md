@@ -1,6 +1,10 @@
 ---
-title: "'Flamme Rouge': Reflections on the IWW Couriers Network"
-category: "contemporary-analysis"
+title: '''Flamme Rouge'': Reflections on the IWW Couriers Network'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **'Flamme Rouge': Reflections on the IWW Couriers Network**

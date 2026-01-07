@@ -1,6 +1,8 @@
 ---
-title: "Eco-Socialism and Decentralism"
-category: "contemporary-analysis"
+title: Eco-Socialism and Decentralism
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 ## **Eco-Socialism and Decentralism**

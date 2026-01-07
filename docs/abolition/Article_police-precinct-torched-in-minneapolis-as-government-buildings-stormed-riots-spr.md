@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "It's Going Down"
-date: "2025"
-category: "abolition"
+title: '>-'
+author: It's Going Down
+date: '2025'
+category: abolition
+tags:
+  - riots
+  - police
 ---
 
 # Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots Spr

@@ -1,6 +1,8 @@
 ---
-title: "Well, If You Ask Me: The Sun's Going Down in Nevada"
-category: "contemporary-analysis"
+title: 'Well, If You Ask Me: The Sun''s Going Down in Nevada'
+category: contemporary-analysis
+tags:
+  - Nevada
 ---
 
 ## **Well, If You Ask Me: The Sun's Going Down in Nevada**

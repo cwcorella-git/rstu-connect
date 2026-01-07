@@ -1,6 +1,9 @@
 ---
-title: "The Principles of Anarchism"
-category: "contemporary-analysis"
+title: The Principles of Anarchism
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # **The Principles of Anarchism**

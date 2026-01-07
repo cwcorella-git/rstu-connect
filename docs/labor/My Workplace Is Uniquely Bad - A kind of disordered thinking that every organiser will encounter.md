@@ -1,6 +1,12 @@
 ---
-title: "\"My Workplace Is Uniquely Bad\" - A kind of disordered thinking that every organiser will encoun"
-category: "contemporary-analysis"
+title: >-
+  "My Workplace Is Uniquely Bad" - A kind of disordered thinking that every
+  organiser will encoun
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **"My Workplace Is Uniquely Bad" - A kind of disordered thinking that every organiser will encounter.**

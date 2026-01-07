@@ -1,6 +1,12 @@
 ---
-title: "'Give me my job back, say sorry, and don't do it again' – Interview with a worker sacked for be"
-category: "technology-digital-justice"
+title: >-
+  'Give me my job back, say sorry, and don't do it again' – Interview with a
+  worker sacked for be
+category: technology-digital-justice
+tags:
+  - labor
+  - technology
+  - digital rights
 ---
 
 ## **"Give me my job back, say sorry, and don't do it again" – Interview with a worker sacked for being trans**

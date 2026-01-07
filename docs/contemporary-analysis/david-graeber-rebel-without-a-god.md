@@ -1,8 +1,10 @@
 ---
-title: "Rebel Without A God"
-author: "David Graeber"
-date: "December 27, 1998"
-category: "contemporary-analysis"
+title: Rebel Without A God
+author: David Graeber
+date: 'December 27, 1998'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 Some years ago, an anarchist calling himself E.G. Eccarius wrote a novel, The Last Days of Jesus Christ, Vampire. Admittedly Buffy the Vampire Slayer, TV cult sensation, does not aspire to quite this level of subversiveness. But there are times when it comes close. It’s also quite possibly the best show on television.

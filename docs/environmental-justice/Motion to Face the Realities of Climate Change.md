@@ -1,6 +1,9 @@
 ---
-title: "Motion to Face the Realities of Climate Change"
-category: "environmental-justice"
+title: Motion to Face the Realities of Climate Change
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # **Motion to Face the Realities of Climate Change**

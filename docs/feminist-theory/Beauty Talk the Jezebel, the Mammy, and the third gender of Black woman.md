@@ -1,6 +1,9 @@
 ---
-title: "Beauty Talk: the Jezebel, the Mammy, and the third gender of \"Black woman.\""
-category: "feminist-theory"
+title: 'Beauty Talk: the Jezebel, the Mammy, and the third gender of "Black woman."'
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **Beauty Talk: the Jezebel, the Mammy, and the third gender of "Black woman."**

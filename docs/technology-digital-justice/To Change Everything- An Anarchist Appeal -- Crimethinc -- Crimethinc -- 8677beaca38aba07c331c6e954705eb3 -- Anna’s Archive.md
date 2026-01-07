@@ -1,6 +1,10 @@
 ---
-title: "## ![](_page_0_Picture_0.jpeg)"
-category: "technology-digital-justice"
+title: '## ![](_page_0_Picture_0.jpeg)'
+category: technology-digital-justice
+tags:
+  - anarchism
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

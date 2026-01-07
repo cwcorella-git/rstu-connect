@@ -1,6 +1,12 @@
 ---
-title: "Prospects for Social Democracy in the US: Insights From a Syndicalist in Sweden"
-category: "contemporary-analysis"
+title: >-
+  Prospects for Social Democracy in the US: Insights From a Syndicalist in
+  Sweden
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - democracy
+  - Sweden
 ---
 
 ## **Prospects for Social Democracy in the US: Insights From a Syndicalist in Sweden**

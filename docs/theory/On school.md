@@ -1,6 +1,9 @@
 ---
-title: "On school"
-category: "theory"
+title: On school
+category: theory
+tags:
+  - education
+  - theory
 ---
 
 ## **On school**

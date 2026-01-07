@@ -1,6 +1,10 @@
 ---
-title: "When you imagine a city, what do you see? I see the predominance of cracked grey concrete and"
-category: "contemporary-analysis"
+title: >-
+  When you imagine a city, what do you see? I see the predominance of cracked
+  grey concrete and
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 When you imagine a city, what do you see? I see the predominance of cracked grey concrete and

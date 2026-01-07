@@ -1,6 +1,8 @@
 ---
-title: "Freedom"
-category: "contemporary-analysis"
+title: Freedom
+category: contemporary-analysis
+tags:
+  - liberty
 ---
 
 ## **Alex Prichard**

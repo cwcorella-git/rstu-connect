@@ -1,8 +1,11 @@
 ---
-title: "The Anarchist Library Anarwiki"
-author: "Unknown"
-date: "2025"
-category: "theory"
+title: The Anarchist Library Anarwiki
+author: Unknown
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # The Anarchist Library Anarwiki

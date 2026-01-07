@@ -1,6 +1,11 @@
 ---
-title: "(Deportation The (די דעפּאָרטאַציאָן"
-category: "labor"
+title: (Deportation The (די דעפּאָרטאַציאָן
+category: labor
+tags:
+  - immigration
+  - labor
+  - unions
+  - workers
 ---
 
 ## **(Deportation The (די דעפּאָרטאַציאָן**

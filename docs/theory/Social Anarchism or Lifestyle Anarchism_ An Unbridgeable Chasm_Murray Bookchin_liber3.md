@@ -1,6 +1,9 @@
 ---
-title: "SOCIAL ANARCHISM OR LIFESTYLE ANARCHISM"
-category: "theory"
+title: SOCIAL ANARCHISM OR LIFESTYLE ANARCHISM
+category: theory
+tags:
+  - anarchism
+  - Bookchin
 ---
 
 # SOCIAL ANARCHISM OR LIFESTYLE ANARCHISM

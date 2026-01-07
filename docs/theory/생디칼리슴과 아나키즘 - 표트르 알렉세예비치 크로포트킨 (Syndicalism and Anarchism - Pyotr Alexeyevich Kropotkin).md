@@ -1,8 +1,12 @@
 ---
-title: "생디칼리슴과 아나키즘 표트르 알렉세예비치 크로포트킨 Syndicalism And Anarchism Pyotr"
-author: "Alexeyevich Kropotk"
-date: "1977"
-category: "theory"
+title: 생디칼리슴과 아나키즘 표트르 알렉세예비치 크로포트킨 Syndicalism And Anarchism Pyotr
+author: Alexeyevich Kropotk
+date: '1977'
+category: theory
+tags:
+  - anarchism
+  - syndicalism
+  - Kropotkin
 ---
 
 ## **생디칼리슴과 아나키즘 - 표트르 알렉세예비치 크로포트킨 (Syndicalism and Anarchism - Pyotr Alexeyevich Kropotkin)**

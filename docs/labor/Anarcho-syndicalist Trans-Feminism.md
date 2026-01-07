@@ -1,6 +1,11 @@
 ---
-title: "Anarcho-syndicalist Trans-Feminism"
-category: "theory"
+title: Anarcho-syndicalist Trans-Feminism
+category: theory
+tags:
+  - anarchism
+  - syndicalism
+  - feminism
+  - LGBTQ+
 ---
 
 # **Anarcho-syndicalist Trans-Feminism**

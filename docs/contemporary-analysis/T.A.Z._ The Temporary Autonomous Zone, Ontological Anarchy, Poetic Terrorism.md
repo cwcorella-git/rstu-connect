@@ -1,6 +1,9 @@
 ---
-title: "Hakim Bey"
-category: "contemporary-analysis"
+title: Hakim Bey
+category: contemporary-analysis
+tags:
+  - anarchism
+  - autonomy
 ---
 
 # **Hakim Bey**

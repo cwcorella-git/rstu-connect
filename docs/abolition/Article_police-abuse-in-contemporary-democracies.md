@@ -1,8 +1,11 @@
 ---
-title: "Police Abuse in Contemporary Democracies"
-author: "Michelle D. Bonner"
-date: "2025"
-category: "abolition"
+title: Police Abuse in Contemporary Democracies
+author: Michelle D. Bonner
+date: '2025'
+category: abolition
+tags:
+  - police
+  - democracy
 ---
 
 # Police Abuse in Contemporary Democracies

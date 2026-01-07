@@ -1,8 +1,13 @@
 ---
-title: ">-"
-author: "Freddie Baer"
-date: "1994"
-category: "theory"
+title: '>-'
+author: Freddie Baer
+date: '1994'
+category: theory
+tags:
+  - anarchism
+  - syndicalism
+  - Bookchin
+  - Spain
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "The Modern Crisis Murray Bookchin"
-category: "arts-culture-music"
+title: The Modern Crisis Murray Bookchin
+category: arts-culture-music
+tags:
+  - Bookchin
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

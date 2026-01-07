@@ -1,6 +1,9 @@
 ---
-title: "Undercover Research Group: The Fifteen Questions We Work With"
-category: "youth-student-organizing"
+title: 'Undercover Research Group: The Fifteen Questions We Work With'
+category: youth-student-organizing
+tags:
+  - students
+  - youth
 ---
 
 ## **Undercover Research Group: The Fifteen Questions We Work With**

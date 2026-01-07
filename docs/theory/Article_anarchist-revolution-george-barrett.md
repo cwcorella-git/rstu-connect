@@ -1,8 +1,11 @@
 ---
-title: "Anarchist Revolution George Barrett"
-author: "George Barrett"
-date: "2025"
-category: "theory"
+title: Anarchist Revolution George Barrett
+author: George Barrett
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchist Revolution George Barrett

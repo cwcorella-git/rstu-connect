@@ -1,8 +1,13 @@
 ---
-title: "How to Organize a Tenants Association"
-author: "Reno Sparks Tenants Union"
-date: "2025"
-category: "organizing"
+title: How to Organize a Tenants Association
+author: Reno Sparks Tenants Union
+date: '2025'
+category: organizing
+tags:
+  - tenants
+  - unions
+  - organizing
+  - Nevada
 ---
 
 How to Organize a Tenants Association - Reno Sparks Tenants Union Skip to content

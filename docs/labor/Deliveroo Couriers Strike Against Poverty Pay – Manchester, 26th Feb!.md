@@ -1,6 +1,9 @@
 ---
-title: "Deliveroo Couriers Strike Against Poverty Pay – Manchester, 26th Feb!"
-category: "organizing"
+title: 'Deliveroo Couriers Strike Against Poverty Pay – Manchester, 26th Feb!'
+category: organizing
+tags:
+  - strikes
+  - gig economy
 ---
 
 ## **Deliveroo Couriers Strike Against Poverty Pay – Manchester, 26th Feb!**

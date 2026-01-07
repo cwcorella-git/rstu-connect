@@ -1,6 +1,10 @@
 ---
-title: "IWW EUC Presents, Who Bombed Judi Bari?"
-category: "contemporary-analysis"
+title: 'IWW EUC Presents, Who Bombed Judi Bari?'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **IWW EUC Presents, Who Bombed Judi Bari?**

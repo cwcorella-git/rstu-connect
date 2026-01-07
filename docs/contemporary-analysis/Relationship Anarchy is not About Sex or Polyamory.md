@@ -1,6 +1,8 @@
 ---
-title: "The Thinking Aro"
-category: "contemporary-analysis"
+title: The Thinking Aro
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **The Thinking Aro**

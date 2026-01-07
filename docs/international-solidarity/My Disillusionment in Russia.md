@@ -1,6 +1,10 @@
 ---
-title: "PREFACE TO FIRST VOLUME OF AMERICAN EDITION"
-category: "international-solidarity"
+title: PREFACE TO FIRST VOLUME OF AMERICAN EDITION
+category: international-solidarity
+tags:
+  - Russia
+  - international
+  - solidarity
 ---
 
 [Back to ebook](https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia)

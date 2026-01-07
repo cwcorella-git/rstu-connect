@@ -1,6 +1,8 @@
 ---
-title: "ANARCHY 43"
-category: "contemporary-analysis"
+title: ANARCHY 43
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 # **ANARCHY 43**

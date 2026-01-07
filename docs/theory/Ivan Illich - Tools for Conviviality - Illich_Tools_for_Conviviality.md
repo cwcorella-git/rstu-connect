@@ -1,6 +1,8 @@
 ---
-title: "Acknowledgments"
-category: "theory"
+title: Acknowledgments
+category: theory
+tags:
+  - theory
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

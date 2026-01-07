@@ -1,6 +1,10 @@
 ---
-title: "Palestine: The No-State Solution"
-category: "international-solidarity"
+title: 'Palestine: The No-State Solution'
+category: international-solidarity
+tags:
+  - Palestine
+  - international
+  - solidarity
 ---
 
 ## James Herod

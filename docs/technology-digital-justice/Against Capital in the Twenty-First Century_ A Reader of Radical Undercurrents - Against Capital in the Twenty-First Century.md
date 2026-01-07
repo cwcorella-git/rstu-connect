@@ -1,6 +1,10 @@
 ---
-title: "Against Capital in the Twenty-First Century"
-category: "technology-digital-justice"
+title: Against Capital in the Twenty-First Century
+category: technology-digital-justice
+tags:
+  - capitalism
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

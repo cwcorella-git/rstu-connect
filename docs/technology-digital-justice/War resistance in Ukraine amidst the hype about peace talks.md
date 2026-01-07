@@ -1,6 +1,9 @@
 ---
-title: "War resistance in Ukraine amidst the hype about peace talks"
-category: "technology-digital-justice"
+title: War resistance in Ukraine amidst the hype about peace talks
+category: technology-digital-justice
+tags:
+  - anti-war
+  - Ukraine
 ---
 
 ## **War resistance in Ukraine amidst the hype about peace talks**

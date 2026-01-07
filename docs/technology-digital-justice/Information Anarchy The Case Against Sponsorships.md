@@ -1,6 +1,10 @@
 ---
-title: "Information Anarchy: The Case Against Sponsorships"
-category: "technology-digital-justice"
+title: 'Information Anarchy: The Case Against Sponsorships'
+category: technology-digital-justice
+tags:
+  - anarchism
+  - technology
+  - digital rights
 ---
 
 ## **Information Anarchy: The Case Against Sponsorships**

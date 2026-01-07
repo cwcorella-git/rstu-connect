@@ -1,6 +1,9 @@
 ---
-title: "Yelensky's Fable: A History of the Anarchist Black Cross"
-category: "contemporary-analysis"
+title: 'Yelensky''s Fable: A History of the Anarchist Black Cross'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # **Yelensky's Fable: A History of the Anarchist Black Cross**

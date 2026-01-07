@@ -1,6 +1,10 @@
 ---
-title: "Focus Time for well-being and Work Engagement of Information Workers"
-category: "contemporary-analysis"
+title: Focus Time for well-being and Work Engagement of Information Workers
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

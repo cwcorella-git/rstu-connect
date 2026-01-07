@@ -1,8 +1,10 @@
 ---
-title: "Army of Altruists"
-author: "David Graeber"
-date: "2007"
-category: "contemporary-analysis"
+title: Army of Altruists
+author: David Graeber
+date: '2007'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 > 

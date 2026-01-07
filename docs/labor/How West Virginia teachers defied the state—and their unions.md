@@ -1,6 +1,11 @@
 ---
-title: "How West Virginia teachers defied the state—and their unions"
-category: "labor"
+title: How West Virginia teachers defied the state—and their unions
+category: labor
+tags:
+  - education
+  - labor
+  - unions
+  - workers
 ---
 
 ## **How West Virginia teachers defied the state—and their unions**

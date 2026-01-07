@@ -1,8 +1,12 @@
 ---
-title: "Union Violence in the United States Wikipedia"
-author: "Wikipedia"
-date: "2025"
-category: "labor"
+title: Union Violence in the United States Wikipedia
+author: Wikipedia
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # Union Violence in the United States Wikipedia

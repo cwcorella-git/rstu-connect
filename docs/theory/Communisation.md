@@ -1,6 +1,8 @@
 ---
-title: "Gilles Dauvé"
-category: "contemporary-analysis"
+title: Gilles Dauvé
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 # **Gilles Dauvé**

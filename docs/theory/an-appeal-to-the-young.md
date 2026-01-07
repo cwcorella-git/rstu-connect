@@ -1,8 +1,10 @@
 ---
-title: "An Appeal to the Young"
-author: "Peter Kropotkin"
-date: "1880"
-category: "theory"
+title: An Appeal to the Young
+author: Peter Kropotkin
+date: '1880'
+category: theory
+tags:
+  - theory
 ---
 
 # An Appeal to the Young

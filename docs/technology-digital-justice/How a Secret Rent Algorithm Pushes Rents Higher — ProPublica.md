@@ -1,6 +1,10 @@
 ---
-title: "Rent Going Up? One Company's Algorithm Could Be Why."
-category: "technology-digital-justice"
+title: Rent Going Up? One Company's Algorithm Could Be Why.
+category: technology-digital-justice
+tags:
+  - housing
+  - technology
+  - digital rights
 ---
 
 #### [propublica.org](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)

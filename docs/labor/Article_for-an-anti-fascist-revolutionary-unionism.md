@@ -1,8 +1,13 @@
 ---
-title: "For an Anti Fascist Revolutionary Unionism"
-author: "It's Going Down"
-date: "2025"
-category: "labor"
+title: For an Anti Fascist Revolutionary Unionism
+author: It's Going Down
+date: '2025'
+category: labor
+tags:
+  - antifascism
+  - labor
+  - unions
+  - workers
 ---
 
 # For an Anti Fascist Revolutionary Unionism

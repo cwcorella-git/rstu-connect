@@ -1,8 +1,11 @@
 ---
-title: "Feminist Strike Nuevo Curso"
-author: "Rosa Luxemburg"
-date: "2025"
-category: "labor"
+title: Feminist Strike Nuevo Curso
+author: Rosa Luxemburg
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - feminism
 ---
 
 # Feminist Strike Nuevo Curso

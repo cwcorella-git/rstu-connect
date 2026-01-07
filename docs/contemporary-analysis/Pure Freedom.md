@@ -1,6 +1,8 @@
 ---
-title: "Horst Stowasser"
-category: "contemporary-analysis"
+title: Horst Stowasser
+category: contemporary-analysis
+tags:
+  - liberty
 ---
 
 # **Horst Stowasser**

@@ -1,6 +1,8 @@
 ---
-title: "PEDAGOGY OF THE HEART"
-category: "theory"
+title: PEDAGOGY OF THE HEART
+category: theory
+tags:
+  - theory
 ---
 
 ## Paulo Freire

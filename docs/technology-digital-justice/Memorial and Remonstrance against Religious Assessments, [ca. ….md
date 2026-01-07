@@ -1,6 +1,11 @@
 ---
-title: "Founders Online: Memorial and Remonstrance against Religious Assessments, [ca. …"
-category: "technology-digital-justice"
+title: >-
+  Founders Online: Memorial and Remonstrance against Religious Assessments, [ca.
+  …
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [founders.archives.gov](https://founders.archives.gov/documents/Madison/01-08-02-0163)

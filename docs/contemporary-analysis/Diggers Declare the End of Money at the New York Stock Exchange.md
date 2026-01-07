@@ -1,6 +1,8 @@
 ---
-title: "Diggers Declare the End of Money at the New York Stock Exchange"
-category: "contemporary-analysis"
+title: Diggers Declare the End of Money at the New York Stock Exchange
+category: contemporary-analysis
+tags:
+  - New York
 ---
 
 ## **Diggers Declare the End of Money at the New York Stock Exchange**

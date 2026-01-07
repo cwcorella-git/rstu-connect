@@ -1,8 +1,12 @@
 ---
-title: "1909 Swedish General Strike"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: 1909 Swedish General Strike
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - Sweden
 ---
 
 # 1909 Swedish General Strike

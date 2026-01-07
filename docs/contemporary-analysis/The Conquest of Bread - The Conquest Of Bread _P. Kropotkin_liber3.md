@@ -1,6 +1,8 @@
 ---
-title: "The Conquest of Bread, by Peter Kropotkin"
-category: "contemporary-analysis"
+title: 'The Conquest of Bread, by Peter Kropotkin'
+category: contemporary-analysis
+tags:
+  - Kropotkin
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

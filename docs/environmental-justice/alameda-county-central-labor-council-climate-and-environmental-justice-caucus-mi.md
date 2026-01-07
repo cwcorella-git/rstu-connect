@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Alameda County Central"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Alameda County Central
+date: '2025'
+category: labor
+tags:
+  - labor
+  - environment
 ---
 
 # Alameda County Central Labor Council Climate and Environmental Justice Caucus Mi

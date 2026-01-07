@@ -1,6 +1,9 @@
 ---
-title: "Direct Action #14 (1983)"
-category: "contemporary-analysis"
+title: 'Direct Action #14 (1983)'
+category: contemporary-analysis
+tags:
+  - direct action
+  - organizing
 ---
 
 ## **Direct Action #14 (1983)**

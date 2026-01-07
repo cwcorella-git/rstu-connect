@@ -1,6 +1,10 @@
 ---
-title: "Council Nurses Urge San Francisco To Divest from DAPL"
-category: "labor"
+title: Council Nurses Urge San Francisco To Divest from DAPL
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Council Nurses Urge San Francisco To Divest from DAPL**

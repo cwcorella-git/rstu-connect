@@ -1,6 +1,9 @@
 ---
-title: "Black Awakening, Class Rebellion"
-category: "labor"
+title: 'Black Awakening, Class Rebellion'
+category: labor
+tags:
+  - riots
+  - class
 ---
 
 ## **Black Awakening, Class Rebellion**

@@ -1,8 +1,11 @@
 ---
-title: "On Cosmopolitanism and (Vernacular) Democratic Creativity"
-author: "David Graeber"
-date: "2009"
-category: "contemporary-analysis"
+title: On Cosmopolitanism and (Vernacular) Democratic Creativity
+author: David Graeber
+date: '2009'
+category: contemporary-analysis
+tags:
+  - democracy
+  - Graeber
 ---
 
 At the tail-end of the eighteenth century those who called themselves democrats were, according to John Markoff, ‘likely to be very suspicious of parliaments, downright hostile to competitive political parties, critical of secret ballots, uninterested or even opposed to women’s suffrage, and sometimes tolerant of slavery’ (1999: 661) – hardly surprising, for those who wished to revive something along the lines of ancient Athens.

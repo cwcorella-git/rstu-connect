@@ -1,6 +1,10 @@
 ---
-title: "Book Review: Wobblies of the world: a history of globetrotting troublemakers"
-category: "labor"
+title: 'Book Review: Wobblies of the world: a history of globetrotting troublemakers'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # **Book Review: Wobblies of the world: a history of globetrotting troublemakers**

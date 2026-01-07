@@ -1,6 +1,9 @@
 ---
-title: "The Sky's Limit: Unpacking the Climate Math"
-category: "environmental-justice"
+title: 'The Sky''s Limit: Unpacking the Climate Math'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **The Sky's Limit: Unpacking the Climate Math**

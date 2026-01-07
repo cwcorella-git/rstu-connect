@@ -1,6 +1,10 @@
 ---
-title: "Union officials walk out - against their own members"
-category: "technology-digital-justice"
+title: Union officials walk out - against their own members
+category: technology-digital-justice
+tags:
+  - unions
+  - technology
+  - digital rights
 ---
 
 ## **Union officials walk out - against their own members**

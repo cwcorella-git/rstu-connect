@@ -1,6 +1,9 @@
 ---
-title: "Towards a PEOPLE'S PEACE"
-category: "anti-war-peace"
+title: Towards a PEOPLE'S PEACE
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 # Towards a PEOPLE'S PEACE

@@ -1,6 +1,9 @@
 ---
-title: "More Farmers, Better Food: A framework for British Agricultural Policy"
-category: "arts-culture-music"
+title: 'More Farmers, Better Food: A framework for British Agricultural Policy'
+category: arts-culture-music
+tags:
+  - food
+  - United Kingdom
 ---
 
 ## **More Farmers, Better Food: A framework for British Agricultural Policy**

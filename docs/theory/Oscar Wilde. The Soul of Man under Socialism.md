@@ -1,6 +1,8 @@
 ---
-title: "## Oscar Wilde 1891"
-category: "contemporary-analysis"
+title: '## Oscar Wilde 1891'
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 ## Oscar Wilde 1891

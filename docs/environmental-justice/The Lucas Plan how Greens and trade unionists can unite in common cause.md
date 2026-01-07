@@ -1,6 +1,9 @@
 ---
-title: "The Lucas Plan: how Greens and trade unionists can unite in common cause"
-category: "environmental-justice"
+title: 'The Lucas Plan: how Greens and trade unionists can unite in common cause'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **The Lucas Plan: how Greens and trade unionists can unite in common cause**

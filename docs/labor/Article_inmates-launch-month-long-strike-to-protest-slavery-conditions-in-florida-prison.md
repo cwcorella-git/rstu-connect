@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - protests
+  - prisons
 ---
 
 # Inmates Launch Month Long Strike To Protest Slavery Conditions in Florida Prison

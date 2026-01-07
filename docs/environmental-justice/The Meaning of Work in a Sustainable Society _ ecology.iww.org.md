@@ -1,6 +1,9 @@
 ---
-title: "The Meaning of Work in a Sustainable Society"
-category: "environmental-justice"
+title: The Meaning of Work in a Sustainable Society
+category: environmental-justice
+tags:
+  - unions
+  - environment
 ---
 
 #### [ecology.iww.org](https://ecology.iww.org/texts/John Bellamy Foster/The Meaningof Work)

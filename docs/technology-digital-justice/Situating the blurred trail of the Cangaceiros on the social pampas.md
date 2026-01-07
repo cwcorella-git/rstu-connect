@@ -1,6 +1,9 @@
 ---
-title: "Situating \"the blurred trail of the Cangaceiros on the social pampas\""
-category: "technology-digital-justice"
+title: Situating "the blurred trail of the Cangaceiros on the social pampas"
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Situating "the blurred trail of the Cangaceiros on the social pampas"**

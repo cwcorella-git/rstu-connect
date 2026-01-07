@@ -1,6 +1,9 @@
 ---
-title: "Lyndon Baines Johnson Quotes"
-category: "technology-digital-justice"
+title: Lyndon Baines Johnson Quotes
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [lbjmuseum.com](https://lbjmuseum.com/exhibits/online-exhibits/lyndon-baines-johnson-quotes/)

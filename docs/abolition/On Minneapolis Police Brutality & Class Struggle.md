@@ -1,8 +1,11 @@
 ---
-title: "On Minneapolis Police Brutality"
-author: "Karl Marx"
-date: "1965"
-category: "abolition"
+title: On Minneapolis Police Brutality
+author: Karl Marx
+date: '1965'
+category: abolition
+tags:
+  - police
+  - class
 ---
 
 ## **On Minneapolis: Police Brutality & Class Struggle**

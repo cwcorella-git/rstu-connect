@@ -1,8 +1,10 @@
 ---
-title: "Among the Thugs"
-author: "David Graeber"
-date: "Sept. 3rd 2001"
-category: "contemporary-analysis"
+title: Among the Thugs
+author: David Graeber
+date: Sept. 3rd 2001
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 SEPTEMBER 3, 2001

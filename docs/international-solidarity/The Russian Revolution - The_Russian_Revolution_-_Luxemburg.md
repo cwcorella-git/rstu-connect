@@ -1,6 +1,10 @@
 ---
-title: "The Russian Revolution"
-category: "international-solidarity"
+title: The Russian Revolution
+category: international-solidarity
+tags:
+  - Russia
+  - international
+  - solidarity
 ---
 
 # The Russian Revolution

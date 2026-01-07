@@ -1,6 +1,10 @@
 ---
-title: "Right and Left against the state: education without classes"
-category: "technology-digital-justice"
+title: 'Right and Left against the state: education without classes'
+category: technology-digital-justice
+tags:
+  - education
+  - technology
+  - digital rights
 ---
 
 ## **Right and Left against the state: education without classes**

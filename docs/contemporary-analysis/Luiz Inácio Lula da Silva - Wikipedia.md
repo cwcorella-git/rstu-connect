@@ -1,6 +1,8 @@
 ---
-title: "[Luiz Inácio Lula da Silva](https://en.wikipedia.org/wiki/Main_Page)"
-category: "contemporary-analysis"
+title: '[Luiz Inácio Lula da Silva](https://en.wikipedia.org/wiki/Main_Page)'
+category: contemporary-analysis
+tags:
+  - unions
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

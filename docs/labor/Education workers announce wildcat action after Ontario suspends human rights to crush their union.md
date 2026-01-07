@@ -1,6 +1,12 @@
 ---
-title: "Education workers announce wildcat action after Ontario suspends human rights to crush their un"
-category: "labor"
+title: >-
+  Education workers announce wildcat action after Ontario suspends human rights
+  to crush their un
+category: labor
+tags:
+  - unions
+  - labor
+  - education
 ---
 
 ## **Education workers announce wildcat action after Ontario suspends human rights to crush their union**

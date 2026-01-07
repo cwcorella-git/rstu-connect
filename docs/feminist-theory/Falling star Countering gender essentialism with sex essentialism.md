@@ -1,6 +1,8 @@
 ---
-title: "Falling star: Countering gender essentialism with sex essentialism"
-category: "feminist-theory"
+title: 'Falling star: Countering gender essentialism with sex essentialism'
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **Falling star: Countering gender essentialism with sex essentialism**

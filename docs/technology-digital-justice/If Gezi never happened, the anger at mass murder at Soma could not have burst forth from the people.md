@@ -1,6 +1,11 @@
 ---
-title: "\"If Gezi never happened, the anger at mass murder at Soma could not have burst forth from the p"
-category: "technology-digital-justice"
+title: >-
+  "If Gezi never happened, the anger at mass murder at Soma could not have burst
+  forth from the p
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **"If Gezi never happened, the anger at mass murder at Soma could not have burst forth from the people"**

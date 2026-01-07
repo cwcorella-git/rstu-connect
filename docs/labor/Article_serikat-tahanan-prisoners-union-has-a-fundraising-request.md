@@ -1,8 +1,11 @@
 ---
-title: "Serikat Tahanan Prisoners Union Has a Fundraising Request"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: Serikat Tahanan Prisoners Union Has a Fundraising Request
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - unions
+  - prisons
 ---
 
 # Serikat Tahanan Prisoners Union Has a Fundraising Request

@@ -1,6 +1,10 @@
 ---
-title: "To front line or to jail. Russian offensive is disrupted by boycott? Part 11"
-category: "arts-culture-music"
+title: To front line or to jail. Russian offensive is disrupted by boycott? Part 11
+category: arts-culture-music
+tags:
+  - boycotts
+  - prisons
+  - Russia
 ---
 
 ## **To front line or to jail. Russian offensive is disrupted by boycott? Part 11**

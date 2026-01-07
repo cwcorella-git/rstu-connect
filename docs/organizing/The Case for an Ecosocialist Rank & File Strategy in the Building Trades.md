@@ -1,6 +1,9 @@
 ---
-title: "The Case for an Ecosocialist Rank & File Strategy in the Building Trades"
-category: "organizing"
+title: The Case for an Ecosocialist Rank & File Strategy in the Building Trades
+category: organizing
+tags:
+  - socialism
+  - organizing
 ---
 
 ## **The Case for an Ecosocialist Rank & File Strategy in the Building Trades**

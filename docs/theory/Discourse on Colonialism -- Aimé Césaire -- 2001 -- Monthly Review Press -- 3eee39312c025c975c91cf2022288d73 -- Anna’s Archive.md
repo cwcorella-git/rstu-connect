@@ -1,6 +1,8 @@
 ---
-title: "COLONIALISM"
-category: "theory"
+title: COLONIALISM
+category: theory
+tags:
+  - theory
 ---
 
 ## DISCOURSEON

@@ -1,8 +1,11 @@
 ---
-title: "Insurrectionary Mutual Aid"
-author: "Curious George Brigade"
-date: "2025"
-category: "organizing"
+title: Insurrectionary Mutual Aid
+author: Curious George Brigade
+date: '2025'
+category: organizing
+tags:
+  - mutual aid
+  - organizing
 ---
 
 # Insurrectionary Mutual Aid

@@ -1,6 +1,11 @@
 ---
-title: "## [pv-magazine.com](https://www.pv-magazine.com/2024/02/01/energy-vault-signs-gravity-storage-deal-"
-category: "environmental-justice"
+title: >-
+  ##
+  [pv-magazine.com](https://www.pv-magazine.com/2024/02/01/energy-vault-signs-gravity-storage-deal-
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## [pv-magazine.com](https://www.pv-magazine.com/2024/02/01/energy-vault-signs-gravity-storage-deal-covering-southern-africa/)

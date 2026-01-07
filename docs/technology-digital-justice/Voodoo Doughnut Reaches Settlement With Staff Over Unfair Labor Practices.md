@@ -1,6 +1,10 @@
 ---
-title: "Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices"
-category: "technology-digital-justice"
+title: Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices
+category: technology-digital-justice
+tags:
+  - labor
+  - technology
+  - digital rights
 ---
 
 ## **Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices**

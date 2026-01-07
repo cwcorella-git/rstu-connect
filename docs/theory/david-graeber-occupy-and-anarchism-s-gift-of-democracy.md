@@ -1,8 +1,13 @@
 ---
-title: "Occupy and anarchism’s gift of democracy"
-author: "David Graeber"
-date: "15<sup>th</sup> November 2011"
-category: "contemporary-analysis"
+title: Occupy and anarchism’s gift of democracy
+author: David Graeber
+date: 15<sup>th</sup> November 2011
+category: contemporary-analysis
+tags:
+  - occupations
+  - anarchism
+  - democracy
+  - Graeber
 ---
 
 As the history of past movements all make clear, nothing terrifies those running America more than the danger of true democracy breaking out. As we see in Chicago, Portland, Oakland, and right now in New York City, the immediate response to even a modest spark of democratically organised civil disobedience is a panicked combination of concessions and brutality. Our rulers, anyway, seem to labor under a lingering fear that if any significant number of Americans do find out what anarchism really is, they may well decide that rulers of any sort are unnecessary.

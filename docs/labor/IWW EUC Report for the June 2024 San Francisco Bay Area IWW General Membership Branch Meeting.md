@@ -1,6 +1,12 @@
 ---
-title: "IWW EUC Report for the June 2024 San Francisco Bay Area IWW General Membership Branch Meeting"
-category: "contemporary-analysis"
+title: >-
+  IWW EUC Report for the June 2024 San Francisco Bay Area IWW General Membership
+  Branch Meeting
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # **IWW EUC Report for the June 2024 San Francisco Bay Area IWW General Membership Branch Meeting**

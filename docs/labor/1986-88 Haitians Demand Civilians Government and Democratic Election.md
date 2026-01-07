@@ -1,8 +1,13 @@
 ---
-title: "1986 88 Haitians Demand Civilians Government And Democratic Election"
-author: "Global Nonviolent Action Database"
-date: "1986"
-category: "labor"
+title: 1986 88 Haitians Demand Civilians Government And Democratic Election
+author: Global Nonviolent Action Database
+date: '1986'
+category: labor
+tags:
+  - democracy
+  - labor
+  - unions
+  - workers
 ---
 
 ## **1986-88: Haitians Demand Civilians Government and Democratic Election**

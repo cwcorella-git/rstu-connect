@@ -1,6 +1,9 @@
 ---
-title: "SEIU 1021 Resolution in support of Climate Justice Work"
-category: "environmental-justice"
+title: SEIU 1021 Resolution in support of Climate Justice Work
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **SEIU 1021 Resolution in support of Climate Justice Work**

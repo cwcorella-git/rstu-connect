@@ -1,6 +1,9 @@
 ---
-title: "Just Transition for Auto Workers: The Answer to Auto's Race to the Bottom"
-category: "feminist-theory"
+title: 'Just Transition for Auto Workers: The Answer to Auto''s Race to the Bottom'
+category: feminist-theory
+tags:
+  - labor
+  - just transition
 ---
 
 ## **Just Transition for Auto Workers: The Answer to Auto's Race to the Bottom**

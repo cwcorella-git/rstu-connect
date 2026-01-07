@@ -1,6 +1,10 @@
 ---
-title: "Utopia: Industrial Workers Taking the Wheel"
-category: "contemporary-analysis"
+title: 'Utopia: Industrial Workers Taking the Wheel'
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Utopia: Industrial Workers Taking the Wheel**

@@ -1,6 +1,10 @@
 ---
-title: "The Commons"
-category: "contemporary-analysis"
+title: The Commons
+category: contemporary-analysis
+tags:
+  - commons
+  - economics
+  - alternatives
 ---
 
 ## **Yavor Tarinski**

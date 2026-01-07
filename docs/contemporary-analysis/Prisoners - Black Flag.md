@@ -1,6 +1,8 @@
 ---
-title: "Prisoners - Black Flag"
-category: "contemporary-analysis"
+title: Prisoners - Black Flag
+category: contemporary-analysis
+tags:
+  - prisons
 ---
 
 ## **Prisoners - Black Flag**

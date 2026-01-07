@@ -1,6 +1,9 @@
 ---
-title: "What Is the Environmental Impact of Each Building Material?"
-category: "environmental-justice"
+title: What Is the Environmental Impact of Each Building Material?
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 #### [archdaily.com](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material)

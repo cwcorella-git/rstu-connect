@@ -1,8 +1,10 @@
 ---
-title: "Radical alterity is just another way of saying “reality”"
-author: "David Graeber"
-date: "2015"
-category: "contemporary-analysis"
+title: Radical alterity is just another way of saying “reality”
+author: David Graeber
+date: '2015'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 As a response to Eduardo Viveiros de Castro’s critique of my essay “Fetishes are gods in the process of construction,” this paper enters into critical engagement with anthropological proponents of what has been called the “ontological turn.” Among other engagements, I note that my own reflections on Malagasy *fanafody*, or medicine, are informed by just the sort of self-conscious reflections my informants make on epistemology, something that anthropologists typically ignore. After making note of the arguments of Roy Bhaskar that most post-Cartesian philosophy rests on an “epistemic fallacy,” I further argue that a realist ontology, combined with broad theoretical relativism, is a more compelling political position than the “ontological anarchy” and theoretical intolerance of ontological turn exponents.

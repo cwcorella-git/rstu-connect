@@ -1,6 +1,13 @@
 ---
-title: "No jobs on a dead planet: Why South African unions should stop investing in fossil fuels and lo"
-category: "labor"
+title: >-
+  No jobs on a dead planet: Why South African unions should stop investing in
+  fossil fuels and lo
+category: labor
+tags:
+  - fossil fuels
+  - labor
+  - unions
+  - workers
 ---
 
 ## **No jobs on a dead planet: Why South African unions should stop investing in fossil fuels and lobby for a just, planned transition to a green economy**

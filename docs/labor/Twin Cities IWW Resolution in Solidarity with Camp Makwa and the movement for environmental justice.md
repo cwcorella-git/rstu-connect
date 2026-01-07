@@ -1,6 +1,13 @@
 ---
-title: "Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for environmental jus"
-category: "theory"
+title: >-
+  Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for
+  environmental jus
+category: theory
+tags:
+  - unions
+  - solidarity
+  - environment
+  - urban
 ---
 
 ## **Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for environmental justice**

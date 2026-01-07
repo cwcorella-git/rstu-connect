@@ -1,6 +1,11 @@
 ---
-title: "Who Wins From 'Climate Apartheid'?: African Climate Justice Narratives About the Paris COP21"
-category: "environmental-justice"
+title: >-
+  Who Wins From 'Climate Apartheid'?: African Climate Justice Narratives About
+  the Paris COP21
+category: environmental-justice
+tags:
+  - environment
+  - France
 ---
 
 ## **Who Wins From "Climate Apartheid"?: African Climate Justice Narratives About the Paris COP21**

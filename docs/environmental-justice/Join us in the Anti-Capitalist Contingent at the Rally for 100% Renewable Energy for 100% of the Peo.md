@@ -1,6 +1,11 @@
 ---
-title: "Join us in the Anti-Capitalist Contingent at the \"Rally for 100% Renewable Energy for 100% of t"
-category: "environmental-justice"
+title: >-
+  Join us in the Anti-Capitalist Contingent at the "Rally for 100% Renewable
+  Energy for 100% of t
+category: environmental-justice
+tags:
+  - environment
+  - capitalism
 ---
 
 ## **Join us in the Anti-Capitalist Contingent at the "Rally for 100% Renewable Energy for 100% of the People"**

@@ -1,8 +1,11 @@
 ---
-title: "Precarious Labor a Feminist Viewpoint"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: Precarious Labor a Feminist Viewpoint
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - feminism
+  - labor
 ---
 
 # Precarious Labor a Feminist Viewpoint

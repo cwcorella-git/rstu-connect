@@ -1,6 +1,11 @@
 ---
-title: "No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!"
-category: "contemporary-analysis"
+title: No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!
+category: contemporary-analysis
+tags:
+  - gig economy
+  - labor
+  - unions
+  - workers
 ---
 
 ## **No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!**

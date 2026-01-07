@@ -1,6 +1,8 @@
 ---
-title: "Stjepan Filipovi■: everlasting symbol of anti-fascism"
-category: "contemporary-analysis"
+title: 'Stjepan Filipovi■: everlasting symbol of anti-fascism'
+category: contemporary-analysis
+tags:
+  - antifascism
 ---
 
 ## **Stjepan Filipovi**■**: everlasting symbol of anti-fascism**

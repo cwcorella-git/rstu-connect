@@ -1,8 +1,11 @@
 ---
-title: "Nevada Assembly Bill 121 - Landlord Notice Requirements"
-author: "Nevada Legislature"
-date: "2023"
-category: "legislation"
+title: Nevada Assembly Bill 121 - Landlord Notice Requirements
+author: Nevada Legislature
+date: '2023'
+category: legislation
+tags:
+  - housing
+  - Nevada
 ---
 
 # Nevada Assembly Bill 121

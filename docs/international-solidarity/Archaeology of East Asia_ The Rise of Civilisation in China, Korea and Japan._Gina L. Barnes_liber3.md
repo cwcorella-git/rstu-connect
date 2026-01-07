@@ -1,6 +1,9 @@
 ---
-title: "EAST ASIA"
-category: "international-solidarity"
+title: EAST ASIA
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 ## GINA L. BARNES

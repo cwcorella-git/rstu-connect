@@ -1,8 +1,12 @@
 ---
-title: "The Abolition Of Work And Other Essays"
-author: "Ed Lawrence"
-date: "2024"
-category: "abolition"
+title: The Abolition Of Work And Other Essays
+author: Ed Lawrence
+date: '2024'
+category: abolition
+tags:
+  - abolition
+  - police
+  - prisons
 ---
 
 ## **Bob Black**

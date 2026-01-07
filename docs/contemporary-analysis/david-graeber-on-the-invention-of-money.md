@@ -1,8 +1,10 @@
 ---
-title: "On the invention of money"
-author: "David Graeber"
-date: "September 13, 2011"
-category: "contemporary-analysis"
+title: On the invention of money
+author: David Graeber
+date: 'September 13, 2011'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 Last week, Robert F. Murphy published a piece on the webpage of the Von Mises Institute responding to some points I made in a recent interview on Naked Capitalism, where I mentioned that the standard economic accounts of the emergence of money from barter appears to be wildly wrong. Since this contradicted a position taken by one of the gods of the Austrian pantheon, the 19th century economist Carl Menger, Murphy apparently felt honor-bound to respond.

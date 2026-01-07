@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Treyf Podcast"
-date: "2025"
-category: "theory"
+title: '>-'
+author: Treyf Podcast
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe

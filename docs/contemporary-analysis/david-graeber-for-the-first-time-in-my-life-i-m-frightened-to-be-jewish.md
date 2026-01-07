@@ -1,8 +1,10 @@
 ---
-title: "For the first time in my life, I’m frightened to be Jewish"
-author: "David Graeber"
-date: "6 September 2019"
-category: "contemporary-analysis"
+title: 'For the first time in my life, I’m frightened to be Jewish'
+author: David Graeber
+date: 6 September 2019
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 I am 58 years old, and for the first time in my life, I am frightened to be Jewish.

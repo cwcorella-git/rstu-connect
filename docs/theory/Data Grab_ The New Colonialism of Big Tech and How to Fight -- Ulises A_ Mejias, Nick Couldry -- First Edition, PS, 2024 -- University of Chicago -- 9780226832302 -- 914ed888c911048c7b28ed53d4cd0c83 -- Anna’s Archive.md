@@ -1,6 +1,9 @@
 ---
-title: "DATA GRAB"
-category: "theory"
+title: DATA GRAB
+category: theory
+tags:
+  - Chicago
+  - theory
 ---
 
 # DATA GRAB

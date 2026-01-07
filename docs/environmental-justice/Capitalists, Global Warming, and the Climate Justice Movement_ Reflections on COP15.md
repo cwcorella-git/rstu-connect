@@ -1,6 +1,11 @@
 ---
-title: "Capitalists, Global Warming, and the Climate Justice Movement: Reflections on COP15"
-category: "environmental-justice"
+title: >-
+  Capitalists, Global Warming, and the Climate Justice Movement: Reflections on
+  COP15
+category: environmental-justice
+tags:
+  - environment
+  - capitalism
 ---
 
 ## James Herod

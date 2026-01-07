@@ -1,6 +1,8 @@
 ---
-title: "THIRD CLASS"
-category: "contemporary-analysis"
+title: THIRD CLASS
+category: contemporary-analysis
+tags:
+  - class
 ---
 
 Project Gutenberg's Third class in Indian railways, by Mahatma Gandhi

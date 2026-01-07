@@ -1,6 +1,12 @@
 ---
-title: "Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of th"
-category: "technology-digital-justice"
+title: >-
+  Bay Area IWW General Membership Branch Endorses Resolution in Support of
+  Public Ownership of th
+category: technology-digital-justice
+tags:
+  - unions
+  - technology
+  - digital rights
 ---
 
 ## **Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of the Railroads**

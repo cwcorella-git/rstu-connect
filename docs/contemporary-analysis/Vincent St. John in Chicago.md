@@ -1,6 +1,8 @@
 ---
-title: "Vincent St. John in Chicago"
-category: "contemporary-analysis"
+title: Vincent St. John in Chicago
+category: contemporary-analysis
+tags:
+  - Chicago
 ---
 
 ## **Vincent St. John in Chicago**

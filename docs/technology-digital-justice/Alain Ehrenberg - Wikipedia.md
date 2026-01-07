@@ -1,6 +1,9 @@
 ---
-title: "Alain Ehrenberg"
-category: "technology-digital-justice"
+title: Alain Ehrenberg
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Alain_Ehrenberg)

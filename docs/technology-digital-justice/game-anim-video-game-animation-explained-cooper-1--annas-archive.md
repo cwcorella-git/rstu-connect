@@ -1,6 +1,9 @@
 ---
-title: "CAME ANIA"
-category: "technology-digital-justice"
+title: CAME ANIA
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # CAME ANIA

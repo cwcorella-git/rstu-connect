@@ -1,6 +1,9 @@
 ---
-title: "A New Economic System for a World in Rapid Disintegration"
-category: "economic-alternatives"
+title: A New Economic System for a World in Rapid Disintegration
+category: economic-alternatives
+tags:
+  - economics
+  - alternatives
 ---
 
 ## **A New Economic System for a World in Rapid Disintegration**

@@ -1,8 +1,11 @@
 ---
-title: "Anarchist Collectivism An Introduction"
-author: "Anarchist Federation"
-date: "2025"
-category: "theory"
+title: Anarchist Collectivism An Introduction
+author: Anarchist Federation
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchist Collectivism An Introduction

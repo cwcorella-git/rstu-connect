@@ -1,6 +1,9 @@
 ---
-title: "Situationist International Anthology"
-category: "international-solidarity"
+title: Situationist International Anthology
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

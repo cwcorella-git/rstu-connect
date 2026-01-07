@@ -1,8 +1,11 @@
 ---
-title: "Prisoners Justice Day at 50: Grassroots Abolition"
-author: "Jeff Shantz"
-date: "1976"
-category: "abolition"
+title: 'Prisoners Justice Day at 50: Grassroots Abolition'
+author: Jeff Shantz
+date: '1976'
+category: abolition
+tags:
+  - prisons
+  - abolition
 ---
 
 ## **Prisoners Justice Day at 50: Grassroots Abolition**

@@ -1,6 +1,8 @@
 ---
-title: "Fostering a Fourth Democratic Wave:"
-category: "arts-culture-music"
+title: 'Fostering a Fourth Democratic Wave:'
+category: arts-culture-music
+tags:
+  - democracy
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

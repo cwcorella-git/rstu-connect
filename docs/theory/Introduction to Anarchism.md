@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Anarchism"
-category: "contemporary-analysis"
+title: Introduction to Anarchism
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Introduction to Anarchism**

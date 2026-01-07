@@ -1,8 +1,10 @@
 ---
-title: "Ferguson and the Criminalization of American Life"
-author: "David Graeber"
-date: "March 19th, 2015"
-category: "contemporary-analysis"
+title: Ferguson and the Criminalization of American Life
+author: David Graeber
+date: 'March 19th, 2015'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 The Department of Justice's investigation of the Ferguson Police Department has scandalized the nation, and justly so. But the department's institutional racism, while shocking, isn't the report's most striking revelation.

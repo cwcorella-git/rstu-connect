@@ -1,8 +1,12 @@
 ---
-title: "Base Unions in Italy To Strike Against Destructive \"Good Schools\" Law"
-category: "labor"
-author: "Base Unions In"
-date: "2025"
+title: Base Unions in Italy To Strike Against Destructive "Good Schools" Law
+category: labor
+author: Base Unions In
+date: '2025'
+tags:
+  - strikes
+  - education
+  - Italy
 ---
 
 # Base Unions in Italy To Strike Against Destructive Good Schools Law

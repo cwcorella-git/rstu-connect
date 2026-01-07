@@ -1,6 +1,12 @@
 ---
-title: "Militarization & Economic Transformation in Colombia & Mexico Drug War Capitalism By Dawn Paley"
-category: "theory"
+title: >-
+  Militarization & Economic Transformation in Colombia & Mexico Drug War
+  Capitalism By Dawn Paley
+category: theory
+tags:
+  - anti-war
+  - capitalism
+  - Mexico
 ---
 
 # Militarization & Economic Transformation in Colombia & Mexico Drug War Capitalism By Dawn Paley

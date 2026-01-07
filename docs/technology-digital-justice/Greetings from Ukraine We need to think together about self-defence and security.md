@@ -1,6 +1,12 @@
 ---
-title: "Greetings from Ukraine: \"We need to think together about self-defence and security\""
-category: "technology-digital-justice"
+title: >-
+  Greetings from Ukraine: "We need to think together about self-defence and
+  security"
+category: technology-digital-justice
+tags:
+  - Ukraine
+  - technology
+  - digital rights
 ---
 
 ## **Greetings from Ukraine: "We need to think together about self-defence and security"**

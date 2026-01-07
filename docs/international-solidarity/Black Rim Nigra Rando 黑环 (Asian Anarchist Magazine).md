@@ -1,6 +1,10 @@
 ---
-title: "Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine)"
-category: "international-solidarity"
+title: Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine)
+category: international-solidarity
+tags:
+  - anarchism
+  - international
+  - solidarity
 ---
 
 # **Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine)**

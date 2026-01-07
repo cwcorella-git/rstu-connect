@@ -1,8 +1,10 @@
 ---
-title: "After the Pandemic, We Can’t Go Back to Sleep"
-author: "David Graeber"
-date: "March 2021"
-category: "contemporary-analysis"
+title: 'After the Pandemic, We Can’t Go Back to Sleep'
+author: David Graeber
+date: March 2021
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 In an essay penned shortly before his death, David Graeber argued that post-pandemic, we can’t slip back into a reality where the way our society is organized — to serve every whim of a small handful of rich people while debasing and degrading the vast majority of us — is seen as sensible or reasonable.

@@ -1,6 +1,11 @@
 ---
-title: "Wildcat strike at a Russian army-supplying plant and the first mass armed desertion in Donbass*"
-category: "international-solidarity"
+title: >-
+  Wildcat strike at a Russian army-supplying plant and the first mass armed
+  desertion in Donbass*
+category: international-solidarity
+tags:
+  - strikes
+  - Russia
 ---
 
 ## **Wildcat strike at a Russian army-supplying plant and the first mass armed desertion in Donbass**

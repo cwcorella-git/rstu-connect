@@ -1,6 +1,9 @@
 ---
-title: "aqotp: yes, I do mean 'algorithmically-elected official.'"
-category: "technology-digital-justice"
+title: 'aqotp: yes, I do mean ''algorithmically-elected official.'''
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **aqotp: yes, I do mean "algorithmically-elected official."**

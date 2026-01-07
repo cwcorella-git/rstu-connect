@@ -1,6 +1,10 @@
 ---
-title: "How financialization undermines the power of workers"
-category: "economic-alternatives"
+title: How financialization undermines the power of workers
+category: economic-alternatives
+tags:
+  - labor
+  - economics
+  - alternatives
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

@@ -1,8 +1,11 @@
 ---
-title: "The Anarchist Library Wikipedia"
-author: "Wikipedia"
-date: "2025"
-category: "theory"
+title: The Anarchist Library Wikipedia
+author: Wikipedia
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # The Anarchist Library Wikipedia

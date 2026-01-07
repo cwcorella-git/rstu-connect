@@ -1,6 +1,8 @@
 ---
-title: "On the Phenomenon of Bullshit Jobs: A Work Rant"
-category: "contemporary-analysis"
+title: 'On the Phenomenon of Bullshit Jobs: A Work Rant'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 ## **On the Phenomenon of Bullshit Jobs: A Work Rant**

@@ -1,6 +1,9 @@
 ---
-title: "Class War #64 1994"
-category: "anti-war-peace"
+title: 'Class War #64 1994'
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War #64 1994**

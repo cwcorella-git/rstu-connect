@@ -1,8 +1,12 @@
 ---
-title: "Bay Area And California Green Unionism Report"
-author: "May 2024"
-date: "2024"
-category: "labor"
+title: Bay Area And California Green Unionism Report
+author: May 2024
+date: '2024'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Bay Area and California Green Unionism Report: May 2024**

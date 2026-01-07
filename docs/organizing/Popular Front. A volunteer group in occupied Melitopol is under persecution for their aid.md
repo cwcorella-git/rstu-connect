@@ -1,6 +1,10 @@
 ---
-title: "Popular Front. A volunteer group in occupied Melitopol is under persecution for their aid"
-category: "organizing"
+title: >-
+  Popular Front. A volunteer group in occupied Melitopol is under persecution
+  for their aid
+category: organizing
+tags:
+  - organizing
 ---
 
 ## **Popular Front. A volunteer group in occupied Melitopol is under persecution for their aid**

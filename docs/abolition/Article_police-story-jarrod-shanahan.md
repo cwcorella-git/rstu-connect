@@ -1,8 +1,12 @@
 ---
-title: "Police Story Jarrod Shanahan"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: Police Story Jarrod Shanahan
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # Police Story Jarrod Shanahan

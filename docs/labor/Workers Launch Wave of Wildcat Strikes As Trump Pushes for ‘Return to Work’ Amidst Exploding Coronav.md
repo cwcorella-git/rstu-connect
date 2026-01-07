@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "It's Going Down"
-date: "2020"
-category: "labor"
+title: '>-'
+author: It's Going Down
+date: '2020'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # **Workers Launch Wave of Wildcat Strikes As Trump Pushes for 'Return to Work' Amidst Exploding Coronavirus**

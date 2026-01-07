@@ -1,6 +1,9 @@
 ---
-title: "The Origins and Capture of International Working Women's Day"
-category: "feminist-theory"
+title: The Origins and Capture of International Working Women's Day
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 ## **The Origins and Capture of International Working Women's Day**

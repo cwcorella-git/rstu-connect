@@ -1,6 +1,10 @@
 ---
-title: "When capitalism goes green - Miguel Amoros"
-category: "environmental-justice"
+title: When capitalism goes green - Miguel Amoros
+category: environmental-justice
+tags:
+  - capitalism
+  - environment
+  - climate
 ---
 
 ## **When capitalism goes green - Miguel Amoros**

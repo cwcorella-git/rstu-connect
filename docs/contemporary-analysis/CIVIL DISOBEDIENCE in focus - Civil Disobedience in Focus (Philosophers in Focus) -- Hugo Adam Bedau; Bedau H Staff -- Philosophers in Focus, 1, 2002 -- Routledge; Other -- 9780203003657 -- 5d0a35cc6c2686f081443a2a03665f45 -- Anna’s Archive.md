@@ -1,6 +1,8 @@
 ---
-title: "Civil Disobedience Focus"
-category: "contemporary-analysis"
+title: Civil Disobedience Focus
+category: contemporary-analysis
+tags:
+  - civil disobedience
 ---
 
 # Civil Disobedience Focus

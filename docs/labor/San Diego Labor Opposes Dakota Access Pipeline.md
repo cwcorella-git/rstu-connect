@@ -1,6 +1,9 @@
 ---
-title: "San Diego Labor Opposes Dakota Access Pipeline"
-category: "labor"
+title: San Diego Labor Opposes Dakota Access Pipeline
+category: labor
+tags:
+  - labor
+  - fossil fuels
 ---
 
 ## **San Diego Labor Opposes Dakota Access Pipeline**

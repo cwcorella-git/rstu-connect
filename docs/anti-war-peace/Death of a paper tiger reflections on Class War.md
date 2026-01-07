@@ -1,6 +1,9 @@
 ---
-title: "Death of a paper tiger: reflections on Class War"
-category: "anti-war-peace"
+title: 'Death of a paper tiger: reflections on Class War'
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Death of a paper tiger: reflections on Class War**

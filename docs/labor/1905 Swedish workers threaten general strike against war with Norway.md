@@ -1,8 +1,14 @@
 ---
-title: "1905 Swedish Workers Threaten General Strike Against War With Norway"
-author: "their government"
-date: "1905"
-category: "labor"
+title: 1905 Swedish Workers Threaten General Strike Against War With Norway
+author: their government
+date: '1905'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - labor
+  - anti-war
+  - Sweden
 ---
 
 ## **1905: Swedish workers threaten general strike against war with Norway**

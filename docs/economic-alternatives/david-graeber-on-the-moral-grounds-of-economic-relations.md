@@ -1,8 +1,12 @@
 ---
-title: "On the Moral Grounds of Economic Relations"
-author: "David Graeber"
-date: "October 2010"
-category: "economic-alternatives"
+title: On the Moral Grounds of Economic Relations
+author: David Graeber
+date: October 2010
+category: economic-alternatives
+tags:
+  - Graeber
+  - economics
+  - alternatives
 ---
 
 For all the vast literature on “the gift,” the concept is surprisingly under-theorized. This is because everyone assumes that there is something called “the gift”, that all transactions not involving payment or the promise of payment are the same thing. Whether seen as a matter of generosity, lack of calculation, creating social relations or a refusal to distinguish between generosity and self-interest, the possibility that “gifts” operate according to different transactional logics is often overlooked.

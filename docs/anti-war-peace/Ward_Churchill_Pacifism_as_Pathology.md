@@ -1,6 +1,9 @@
 ---
-title: "PACIFISM as PATHOLOGY"
-category: "anti-war-peace"
+title: PACIFISM as PATHOLOGY
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 # PACIFISM as PATHOLOGY

@@ -1,6 +1,12 @@
 ---
-title: "Crude Awakening: A new air district rule might prevent increased Canadian tar sands production at Bay Area refineries"
-category: "technology-digital-justice"
+title: >-
+  Crude Awakening: A new air district rule might prevent increased Canadian tar
+  sands production at Bay Area refineries
+category: technology-digital-justice
+tags:
+  - Canada
+  - technology
+  - digital rights
 ---
 
 # **Crude Awakening: A new air district rule might prevent increased Canadian tar sands production at Bay Area refineries**

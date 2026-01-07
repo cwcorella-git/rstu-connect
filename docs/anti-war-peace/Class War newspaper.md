@@ -1,6 +1,9 @@
 ---
-title: "Class War newspaper"
-category: "anti-war-peace"
+title: Class War newspaper
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War newspaper**

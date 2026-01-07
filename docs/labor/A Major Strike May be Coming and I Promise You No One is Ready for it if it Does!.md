@@ -1,6 +1,13 @@
 ---
-title: "A Major Strike May be Coming and I Promise You No One is Ready for it if it Does!"
-category: "labor"
+title: >-
+  A Major Strike May be Coming and I Promise You No One is Ready for it if it
+  Does!
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 ## **A Major Strike May be Coming and I Promise You No One is Ready for it if it Does!**

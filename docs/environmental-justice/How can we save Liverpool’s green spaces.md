@@ -1,6 +1,9 @@
 ---
-title: "How can we save Liverpool's green spaces?"
-category: "environmental-justice"
+title: How can we save Liverpool's green spaces?
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **How can we save Liverpool's green spaces?**

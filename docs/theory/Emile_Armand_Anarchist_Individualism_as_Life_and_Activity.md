@@ -1,6 +1,9 @@
 ---
-title: "Anarchist Individualism as a Life and Activity"
-category: "contemporary-analysis"
+title: Anarchist Individualism as a Life and Activity
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Anarchist Individualism as a Life and Activity**

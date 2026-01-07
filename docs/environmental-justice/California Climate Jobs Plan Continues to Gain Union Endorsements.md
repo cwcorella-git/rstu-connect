@@ -1,6 +1,9 @@
 ---
-title: "California Climate Jobs Plan Continues to Gain Union Endorsements"
-category: "environmental-justice"
+title: California Climate Jobs Plan Continues to Gain Union Endorsements
+category: environmental-justice
+tags:
+  - unions
+  - environment
 ---
 
 ## **California Climate Jobs Plan Continues to Gain Union Endorsements**

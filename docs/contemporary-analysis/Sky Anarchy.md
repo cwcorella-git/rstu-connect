@@ -1,6 +1,8 @@
 ---
-title: "Sky Anarchy"
-category: "contemporary-analysis"
+title: Sky Anarchy
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **Sky Anarchy**

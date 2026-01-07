@@ -1,6 +1,9 @@
 ---
-title: "As Tribes Fight Pipeline, Internal AFL-CIO Letter Exposes 'Very Real Split'"
-category: "labor"
+title: 'As Tribes Fight Pipeline, Internal AFL-CIO Letter Exposes ''Very Real Split'''
+category: labor
+tags:
+  - unions
+  - fossil fuels
 ---
 
 # **As Tribes Fight Pipeline, Internal AFL-CIO Letter Exposes 'Very Real Split'**

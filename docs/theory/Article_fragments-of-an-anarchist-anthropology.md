@@ -1,8 +1,11 @@
 ---
-title: "Fragments of an Anarchist Anthropology"
-author: "David Graeber"
-date: "2025"
-category: "theory"
+title: Fragments of an Anarchist Anthropology
+author: David Graeber
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Fragments of an Anarchist Anthropology

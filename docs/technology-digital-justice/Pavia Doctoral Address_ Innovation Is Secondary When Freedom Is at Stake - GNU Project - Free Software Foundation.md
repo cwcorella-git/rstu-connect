@@ -1,6 +1,10 @@
 ---
-title: "[gnu.org](https://www.gnu.org/philosophy/rms-pavia-doctoral-address.html)"
-category: "technology-digital-justice"
+title: '[gnu.org](https://www.gnu.org/philosophy/rms-pavia-doctoral-address.html)'
+category: technology-digital-justice
+tags:
+  - liberty
+  - technology
+  - digital rights
 ---
 
 [gnu.org](https://www.gnu.org/philosophy/rms-pavia-doctoral-address.html)

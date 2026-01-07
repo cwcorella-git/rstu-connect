@@ -1,8 +1,10 @@
 ---
-title: "Palaces for the People: How Social Infrast - Eric Klinenberg"
-author: "Eric Klinenberg"
-date: "2018"
-category: "organizing"
+title: 'Palaces for the People: How Social Infrast - Eric Klinenberg'
+author: Eric Klinenberg
+date: '2018'
+category: organizing
+tags:
+  - organizing
 ---
 
 # Palaces for the People_ How Social Infrast - Eric Klinenberg

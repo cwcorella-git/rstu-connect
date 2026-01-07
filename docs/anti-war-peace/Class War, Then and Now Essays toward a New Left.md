@@ -1,6 +1,9 @@
 ---
-title: "Class War, Then and Now: Essays toward a New Left"
-category: "anti-war-peace"
+title: 'Class War, Then and Now: Essays toward a New Left'
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War, Then and Now: Essays toward a New Left**

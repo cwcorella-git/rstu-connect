@@ -1,8 +1,13 @@
 ---
-title: "Anthracite Coal Strike of 1902 Wikipedia"
-author: "Wikipedia"
-date: "2025"
-category: "labor"
+title: Anthracite Coal Strike of 1902 Wikipedia
+author: Wikipedia
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # Anthracite Coal Strike of 1902 Wikipedia

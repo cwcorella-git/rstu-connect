@@ -1,6 +1,9 @@
 ---
-title: "One Million Climate Jobs: A Challenge for Canadians"
-category: "environmental-justice"
+title: 'One Million Climate Jobs: A Challenge for Canadians'
+category: environmental-justice
+tags:
+  - environment
+  - Canada
 ---
 
 ## **One Million Climate Jobs: A Challenge for Canadians**

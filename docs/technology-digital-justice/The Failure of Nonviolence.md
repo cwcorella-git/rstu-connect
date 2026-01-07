@@ -1,6 +1,10 @@
 ---
-title: "Peter Gelderloos"
-category: "technology-digital-justice"
+title: Peter Gelderloos
+category: technology-digital-justice
+tags:
+  - nonviolence
+  - technology
+  - digital rights
 ---
 
 # **Peter Gelderloos**

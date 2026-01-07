@@ -1,6 +1,9 @@
 ---
-title: "아나르카 페미니스트 선언 (Anarcha-Feminist Manifesto)"
-category: "feminist-theory"
+title: 아나르카 페미니스트 선언 (Anarcha-Feminist Manifesto)
+category: feminist-theory
+tags:
+  - anarchism
+  - feminism
 ---
 
 ## **아나르카 페미니스트 선언 (Anarcha-Feminist Manifesto)**

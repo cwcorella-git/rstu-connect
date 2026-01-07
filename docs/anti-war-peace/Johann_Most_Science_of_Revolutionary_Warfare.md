@@ -1,6 +1,9 @@
 ---
-title: "Contents"
-category: "anti-war-peace"
+title: Contents
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 ## **The Science of Revolutionary Warfare**

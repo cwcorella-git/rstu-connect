@@ -1,6 +1,8 @@
 ---
-title: "'Left-Wing' Communism: An Infantile Disorder"
-category: "contemporary-analysis"
+title: '''Left-Wing'' Communism: An Infantile Disorder'
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 ## **Resistance Marxist Library**

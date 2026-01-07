@@ -1,8 +1,12 @@
 ---
-title: "Community Democracy And"
-author: "Mutual Aid"
-date: "2011"
-category: "organizing"
+title: Community Democracy And
+author: Mutual Aid
+date: '2011'
+category: organizing
+tags:
+  - mutual aid
+  - community
+  - democracy
 ---
 
 ## **Symbiosis Research Collective**

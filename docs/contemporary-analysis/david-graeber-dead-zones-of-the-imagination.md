@@ -1,8 +1,10 @@
 ---
-title: "Dead zones of the imagination"
-author: "David Graeber"
-date: "2006"
-category: "contemporary-analysis"
+title: Dead zones of the imagination
+author: David Graeber
+date: '2006'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 ### Abstract

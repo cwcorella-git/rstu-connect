@@ -1,6 +1,11 @@
 ---
-title: "Ohio Valley Environmental Coalition Workers Stand Firm Despite Management Offensive"
-category: "environmental-justice"
+title: >-
+  Ohio Valley Environmental Coalition Workers Stand Firm Despite Management
+  Offensive
+category: environmental-justice
+tags:
+  - labor
+  - environment
 ---
 
 ## **Ohio Valley Environmental Coalition Workers Stand Firm Despite Management Offensive**

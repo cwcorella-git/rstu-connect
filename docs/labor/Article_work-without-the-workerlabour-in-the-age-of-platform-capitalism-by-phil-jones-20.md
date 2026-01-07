@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Phil Jones"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Phil Jones
+date: '2025'
+category: labor
+tags:
+  - labor
+  - capitalism
+  - gig economy
 ---
 
 # Work Without the Workerlabour in the Age of Platform Capitalism By Phil Jones 20

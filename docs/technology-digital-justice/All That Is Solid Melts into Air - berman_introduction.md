@@ -1,6 +1,9 @@
 ---
-title: "## New York City January 1981"
-category: "technology-digital-justice"
+title: '## New York City January 1981'
+category: technology-digital-justice
+tags:
+  - urban
+  - New York
 ---
 
 ities for experience and adventure, frightened by the nihilistic depths to which so many modern adventures lead, longing to create and to hold on to something real even as everything melts. We might even say that to be fully modern is to be anti-modern: from Marx's and Dostoevsky's time to our own, it has been impossible to grasp and embrace the modern world's potentialities without loathing and fighting against some of its most palpable realities. No wonder then that, as the great modernist and anti-modernist Kierkegaard said, the deepest modern seriousness must express itself through irony. Modern irony animates so many great works of art and thought over the past century; at the same time, it infuses millions of ordinary people's everyday lives. This book aims to bring these works and these lives together, to restore the spiritual wealth of modernist culture to the modern man and woman in the street, to show how, for all of us, modernism is realism. This will not resolve the contradictions that pervade modern life; but it should help us to understand them, so that we can be clear and honest in facing and sorting out and working through the forces that make us what we are.

@@ -1,6 +1,9 @@
 ---
-title: "blueprints vol. vii: rice farming updates"
-category: "food-justice"
+title: 'blueprints vol. vii: rice farming updates'
+category: food-justice
+tags:
+  - food
+  - justice
 ---
 
 # **blueprints vol. vii: rice farming updates**

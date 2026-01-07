@@ -1,6 +1,9 @@
 ---
-title: "Peter H. Marshall Demanding the Impossible A History of Anarchism"
-category: "contemporary-analysis"
+title: Peter H. Marshall Demanding the Impossible A History of Anarchism
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # **Peter H. Marshall Demanding the Impossible A History of Anarchism**

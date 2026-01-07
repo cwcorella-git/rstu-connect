@@ -1,6 +1,10 @@
 ---
-title: "Ken Robinson (educationalist)"
-category: "youth-student-organizing"
+title: Ken Robinson (educationalist)
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ken_Robinson_(educationalist))

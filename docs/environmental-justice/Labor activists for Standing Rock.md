@@ -1,6 +1,10 @@
 ---
-title: "Labor activists for Standing Rock"
-category: "environmental-justice"
+title: Labor activists for Standing Rock
+category: environmental-justice
+tags:
+  - labor
+  - environment
+  - climate
 ---
 
 ## **Labor activists for Standing Rock**

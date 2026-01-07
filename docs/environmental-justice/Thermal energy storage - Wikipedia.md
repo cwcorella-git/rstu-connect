@@ -1,6 +1,9 @@
 ---
-title: "[Thermal energy storage](https://en.wikipedia.org/wiki/Main_Page)"
-category: "environmental-justice"
+title: '[Thermal energy storage](https://en.wikipedia.org/wiki/Main_Page)'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

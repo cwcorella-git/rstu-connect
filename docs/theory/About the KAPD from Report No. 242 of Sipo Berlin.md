@@ -1,6 +1,9 @@
 ---
-title: "About the KAPD from Report No. 242 of Sipo Berlin"
-category: "theory"
+title: About the KAPD from Report No. 242 of Sipo Berlin
+category: theory
+tags:
+  - Germany
+  - theory
 ---
 
 ## **About the KAPD from Report No. 242 of Sipo Berlin**

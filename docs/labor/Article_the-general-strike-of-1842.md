@@ -1,8 +1,11 @@
 ---
-title: "The General Strike of 1842"
-author: "Jon Bekken"
-date: "2025"
-category: "labor"
+title: The General Strike of 1842
+author: Jon Bekken
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # The General Strike of 1842

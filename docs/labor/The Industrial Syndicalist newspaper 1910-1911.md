@@ -1,6 +1,11 @@
 ---
-title: "The Industrial Syndicalist newspaper 1910-1911"
-category: "contemporary-analysis"
+title: The Industrial Syndicalist newspaper 1910-1911
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - labor
+  - unions
+  - workers
 ---
 
 ## **The Industrial Syndicalist newspaper 1910-1911**

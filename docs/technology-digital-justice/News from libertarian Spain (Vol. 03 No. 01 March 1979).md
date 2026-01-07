@@ -1,6 +1,9 @@
 ---
-title: "News from libertarian Spain (Vol. 03 No. 01 March 1979)"
-category: "technology-digital-justice"
+title: News from libertarian Spain (Vol. 03 No. 01 March 1979)
+category: technology-digital-justice
+tags:
+  - protests
+  - Spain
 ---
 
 ## **News from libertarian Spain (Vol. 03 No. 01 March 1979)**

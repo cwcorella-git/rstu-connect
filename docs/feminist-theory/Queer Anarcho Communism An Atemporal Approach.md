@@ -1,6 +1,9 @@
 ---
-title: "Queer Anarcho Communism: An Atemporal Approach"
-category: "feminist-theory"
+title: 'Queer Anarcho Communism: An Atemporal Approach'
+category: feminist-theory
+tags:
+  - anarchism
+  - LGBTQ+
 ---
 
 # **Queer Anarcho Communism: An Atemporal Approach**

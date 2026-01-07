@@ -1,6 +1,9 @@
 ---
-title: "'The writing is on the walls': Interview with a striking LA teacher"
-category: "youth-student-organizing"
+title: '''The writing is on the walls'': Interview with a striking LA teacher'
+category: youth-student-organizing
+tags:
+  - education
+  - Los Angeles
 ---
 
 ## **"The writing is on the walls": Interview with a striking LA teacher**

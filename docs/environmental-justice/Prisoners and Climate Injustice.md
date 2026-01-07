@@ -1,6 +1,9 @@
 ---
-title: "Prisoners and Climate Injustice"
-category: "environmental-justice"
+title: Prisoners and Climate Injustice
+category: environmental-justice
+tags:
+  - prisons
+  - environment
 ---
 
 ## **Prisoners and Climate Injustice**

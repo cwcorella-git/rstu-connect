@@ -1,8 +1,12 @@
 ---
-title: "Occupy Democracy is not considered newsworthy. It should be"
-author: "David Graeber"
-date: "27<sup>th</sup> October 2014"
-category: "contemporary-analysis"
+title: Occupy Democracy is not considered newsworthy. It should be
+author: David Graeber
+date: 27<sup>th</sup> October 2014
+category: contemporary-analysis
+tags:
+  - occupations
+  - democracy
+  - Graeber
 ---
 
 You can tell a lot about the moral quality of a society by what is, and is not, considered news.

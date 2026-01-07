@@ -1,8 +1,12 @@
 ---
-title: "Blog"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "housing"
+title: Blog
+author: Industrial Workers of the World
+date: '2025'
+category: housing
+tags:
+  - tenants
+  - unions
+  - Nevada
 ---
 
 Blog - Reno Sparks Tenants Union Skip to content

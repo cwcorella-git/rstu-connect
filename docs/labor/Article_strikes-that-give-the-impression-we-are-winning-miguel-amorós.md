@@ -1,8 +1,12 @@
 ---
-title: "Strikes That Give the Impression We Are Winning Miguel Amorós"
-author: "Miguel Amorós"
-date: "2025"
-category: "labor"
+title: Strikes That Give the Impression We Are Winning Miguel Amorós
+author: Miguel Amorós
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Strikes That Give the Impression We Are Winning Miguel Amorós

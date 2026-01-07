@@ -1,6 +1,11 @@
 ---
-title: "Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea"
-category: "technology-digital-justice"
+title: Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea
+category: technology-digital-justice
+tags:
+  - protests
+  - riots
+  - police
+  - Ukraine
 ---
 
 ## **Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea**

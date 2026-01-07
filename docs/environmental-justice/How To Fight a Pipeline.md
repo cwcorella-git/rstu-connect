@@ -1,6 +1,10 @@
 ---
-title: "How To Fight a Pipeline"
-category: "contemporary-analysis"
+title: How To Fight a Pipeline
+category: contemporary-analysis
+tags:
+  - fossil fuels
+  - environment
+  - climate
 ---
 
 ## **How To Fight a Pipeline**

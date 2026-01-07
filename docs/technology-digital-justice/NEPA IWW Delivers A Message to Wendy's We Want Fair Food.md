@@ -1,6 +1,9 @@
 ---
-title: "NEPA IWW Delivers A Message to Wendy's: We Want Fair Food"
-category: "technology-digital-justice"
+title: 'NEPA IWW Delivers A Message to Wendy''s: We Want Fair Food'
+category: technology-digital-justice
+tags:
+  - unions
+  - food
 ---
 
 ## **NEPA IWW Delivers A Message to Wendy's: We Want Fair Food**

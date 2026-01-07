@@ -1,6 +1,8 @@
 ---
-title: "What makes me tired when organising with middle class comrades"
-category: "contemporary-analysis"
+title: What makes me tired when organising with middle class comrades
+category: contemporary-analysis
+tags:
+  - class
 ---
 
 ## **What makes me tired when organising with middle class comrades**

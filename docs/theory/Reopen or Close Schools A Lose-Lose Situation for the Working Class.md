@@ -1,8 +1,11 @@
 ---
-title: "Reopen Or Close Schools A Lose Lose Situation For The Working Class"
-author: "Unknown"
-date: "1919"
-category: "theory"
+title: Reopen Or Close Schools A Lose Lose Situation For The Working Class
+author: Unknown
+date: '1919'
+category: theory
+tags:
+  - education
+  - class
 ---
 
 ## **Reopen or Close Schools: A Lose-Lose Situation for the Working Class**

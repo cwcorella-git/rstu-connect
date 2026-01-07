@@ -1,6 +1,9 @@
 ---
-title: "Is the Paris Climate Conference Designed to Fail?"
-category: "environmental-justice"
+title: Is the Paris Climate Conference Designed to Fail?
+category: environmental-justice
+tags:
+  - environment
+  - France
 ---
 
 # **Is the Paris Climate Conference Designed to Fail?**

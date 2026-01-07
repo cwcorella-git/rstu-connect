@@ -1,6 +1,10 @@
 ---
-title: "What if the workers were in control?"
-category: "contemporary-analysis"
+title: What if the workers were in control?
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **What if the workers were in control?**

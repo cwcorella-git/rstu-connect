@@ -1,6 +1,9 @@
 ---
-title: "Building the Future: Cross Laminated Timber"
-category: "technology-digital-justice"
+title: 'Building the Future: Cross Laminated Timber'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [archdaily.com](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber)

@@ -1,6 +1,9 @@
 ---
-title: "Defend and Transform: Mobilizing Workers for Climate Justice"
-category: "feminist-theory"
+title: 'Defend and Transform: Mobilizing Workers for Climate Justice'
+category: feminist-theory
+tags:
+  - labor
+  - environment
 ---
 
 # **Defend and Transform: Mobilizing Workers for Climate Justice**

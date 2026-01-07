@@ -1,6 +1,11 @@
 ---
-title: "He Tore Down Motels Where Poor Residents Lived During a Housing Crisis. City Leaders Did Nothing."
-category: "contemporary-analysis"
+title: >-
+  He Tore Down Motels Where Poor Residents Lived During a Housing Crisis. City
+  Leaders Did Nothing.
+category: contemporary-analysis
+tags:
+  - housing
+  - urban
 ---
 
 #### [propublica.org](https://www.propublica.org/article/he-tore-down-motels-where-poor-residents-lived-during-a-housing-crisis-city-leaders-did-nothing)

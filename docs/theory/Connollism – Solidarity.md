@@ -1,6 +1,9 @@
 ---
-title: "Connollism – Solidarity"
-category: "theory"
+title: Connollism – Solidarity
+category: theory
+tags:
+  - solidarity
+  - theory
 ---
 
 # **Connollism – Solidarity**

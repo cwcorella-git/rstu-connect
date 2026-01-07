@@ -1,8 +1,11 @@
 ---
-title: "Irish Anarchist Review Issue 11 Summer 2015"
-author: "Murray Bookchin"
-date: "2025"
-category: "theory"
+title: Irish Anarchist Review Issue 11 Summer 2015
+author: Murray Bookchin
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - Ireland
 ---
 
 # Irish Anarchist Review Issue 11 Summer 2015

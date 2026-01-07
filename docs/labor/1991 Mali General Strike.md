@@ -1,6 +1,9 @@
 ---
-title: "1991: Mali General Strike"
-category: "labor"
+title: '1991: Mali General Strike'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1991: Mali General Strike**

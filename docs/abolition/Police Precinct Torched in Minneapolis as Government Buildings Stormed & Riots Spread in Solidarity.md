@@ -1,8 +1,12 @@
 ---
-title: "Police Precinct Torched In Minneapolis As Government Buildings Stormed"
-author: "It's Going Down"
-date: "2016"
-category: "abolition"
+title: Police Precinct Torched In Minneapolis As Government Buildings Stormed
+author: It's Going Down
+date: '2016'
+category: abolition
+tags:
+  - riots
+  - solidarity
+  - police
 ---
 
 ## **Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity with Uprising**

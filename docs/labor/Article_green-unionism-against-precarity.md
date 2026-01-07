@@ -1,8 +1,12 @@
 ---
-title: "Green Unionism Against Precarity"
-author: "Karl Marx"
-date: "2025"
-category: "labor"
+title: Green Unionism Against Precarity
+author: Karl Marx
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Green Unionism Against Precarity

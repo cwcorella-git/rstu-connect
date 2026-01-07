@@ -1,6 +1,8 @@
 ---
-title: "Long Live The Revolt!"
-category: "contemporary-analysis"
+title: Long Live The Revolt!
+category: contemporary-analysis
+tags:
+  - riots
 ---
 
 ## **Long Live The Revolt!**

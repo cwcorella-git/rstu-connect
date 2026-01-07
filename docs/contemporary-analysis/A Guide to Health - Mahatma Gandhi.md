@@ -1,6 +1,8 @@
 ---
-title: "Chapter II - The Human Body"
-category: "contemporary-analysis"
+title: Chapter II - The Human Body
+category: contemporary-analysis
+tags:
+  - healthcare
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

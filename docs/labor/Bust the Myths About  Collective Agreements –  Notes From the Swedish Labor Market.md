@@ -1,6 +1,11 @@
 ---
-title: "Bust the Myths About Collective Agreements – Notes From the Swedish Labor Market"
-category: "contemporary-analysis"
+title: >-
+  Bust the Myths About Collective Agreements – Notes From the Swedish Labor
+  Market
+category: contemporary-analysis
+tags:
+  - labor
+  - Sweden
 ---
 
 # **Bust the Myths About Collective Agreements – Notes From the Swedish Labor Market**

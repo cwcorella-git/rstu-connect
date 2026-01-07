@@ -1,6 +1,9 @@
 ---
-title: "Strategies For Climate Justice And A Just Transition"
-category: "feminist-theory"
+title: Strategies For Climate Justice And A Just Transition
+category: feminist-theory
+tags:
+  - environment
+  - just transition
 ---
 
 ## **Strategies For Climate Justice And A Just Transition**

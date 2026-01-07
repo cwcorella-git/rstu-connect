@@ -1,6 +1,9 @@
 ---
-title: "[Agrivoltaics](https://en.wikipedia.org/wiki/Main_Page)"
-category: "technology-digital-justice"
+title: '[Agrivoltaics](https://en.wikipedia.org/wiki/Main_Page)'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

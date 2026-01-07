@@ -1,6 +1,10 @@
 ---
-title: "Digital commons"
-category: "technology-digital-justice"
+title: Digital commons
+category: technology-digital-justice
+tags:
+  - commons
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

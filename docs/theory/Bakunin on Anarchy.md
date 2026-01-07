@@ -1,8 +1,11 @@
 ---
-title: "Bakunin On Anarchy"
-author: "James Guillaume"
-date: "1971"
-category: "theory"
+title: Bakunin On Anarchy
+author: James Guillaume
+date: '1971'
+category: theory
+tags:
+  - anarchism
+  - Bakunin
 ---
 
 # **Sam Dolgoff (ed.)**

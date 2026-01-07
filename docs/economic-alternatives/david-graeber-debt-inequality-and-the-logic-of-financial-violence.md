@@ -1,8 +1,11 @@
 ---
-title: "Debt, Inequality and the Logic of Financial Violence"
-author: "David Graeber"
-date: "Sep 26th, 2016"
-category: "economic-alternatives"
+title: 'Debt, Inequality and the Logic of Financial Violence'
+author: David Graeber
+date: 'Sep 26th, 2016'
+category: economic-alternatives
+tags:
+  - debt
+  - Graeber
 ---
 
 David Graeber is one of the world’s leading anthropologists and a well-known activist who played an important role in the early days of Occupy Wall Street in New York. In this wide-ranging interview for ROAR’s third issue, he speaks about the unexpected history of inequality, the role of debt in contemporary capitalism, the nature of money as a social relation, the violent and self-destructive logic of financialization, the class power of the 1 percent, and the challenges of building a radical-democratic movement against the rule of finance.

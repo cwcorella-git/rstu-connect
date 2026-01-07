@@ -1,6 +1,8 @@
 ---
-title: "Iranian feminists speak out"
-category: "feminist-theory"
+title: Iranian feminists speak out
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **Iranian feminists speak out**

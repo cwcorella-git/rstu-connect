@@ -1,6 +1,9 @@
 ---
-title: "The Socialist Future of the Syndicates - Georges Sorel"
-category: "contemporary-analysis"
+title: The Socialist Future of the Syndicates - Georges Sorel
+category: contemporary-analysis
+tags:
+  - socialism
+  - theory
 ---
 
 ## **The Socialist Future of the Syndicates - Georges Sorel**

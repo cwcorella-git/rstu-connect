@@ -1,8 +1,10 @@
 ---
-title: "Reply to Brad DeLong"
-author: "David Graeber"
-date: "2011"
-category: "contemporary-analysis"
+title: Reply to Brad DeLong
+author: David Graeber
+date: '2011'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 In late 2011, around the time of Occupy Wall Street, he for some reason known only to himself, decided to go gunning for me despite my never having met him or interacted with him in my life. He started with outright personal slander that had nothing to do with my work (or anything else I could figure out) until my publishers encouraged me to point out that false personal aspersions were actionable

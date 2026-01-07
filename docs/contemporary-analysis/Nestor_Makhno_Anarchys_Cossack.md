@@ -1,6 +1,8 @@
 ---
-title: "NESTOR MAKHNO"
-category: "contemporary-analysis"
+title: NESTOR MAKHNO
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 # NESTOR MAKHNO

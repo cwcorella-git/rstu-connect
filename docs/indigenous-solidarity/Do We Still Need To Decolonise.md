@@ -1,6 +1,11 @@
 ---
-title: "0:00 Our world has undeniably been shaped by the process of colonisation, which swept through 0:05"
-category: "theory"
+title: >-
+  0:00 Our world has undeniably been shaped by the process of colonisation,
+  which swept through 0:05
+category: theory
+tags:
+  - indigenous
+  - solidarity
 ---
 
 0:00 Our world has undeniably been shaped by the process of colonisation, which swept through 0:05

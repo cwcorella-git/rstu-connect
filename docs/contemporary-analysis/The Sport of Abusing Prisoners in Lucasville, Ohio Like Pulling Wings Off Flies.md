@@ -1,6 +1,10 @@
 ---
-title: "The Sport of Abusing Prisoners in Lucasville, Ohio: Like Pulling Wings Off Flies"
-category: "contemporary-analysis"
+title: >-
+  The Sport of Abusing Prisoners in Lucasville, Ohio: Like Pulling Wings Off
+  Flies
+category: contemporary-analysis
+tags:
+  - prisons
 ---
 
 ## **The Sport of Abusing Prisoners in Lucasville, Ohio: Like Pulling Wings Off Flies**

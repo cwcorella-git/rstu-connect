@@ -1,8 +1,10 @@
 ---
-title: "Educational Material Planning 06-27-25 - Google Docs"
-author: "Google Docs"
-date: "2025"
-category: "misc"
+title: Educational Material Planning 06-27-25 - Google Docs
+author: Google Docs
+date: '2025'
+category: misc
+tags:
+  - education
 ---
 
 # Educational Material Planning 06-27-25 - Google Docs

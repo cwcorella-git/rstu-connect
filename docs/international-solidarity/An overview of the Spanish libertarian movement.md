@@ -1,6 +1,10 @@
 ---
-title: "An overview of the Spanish libertarian movement"
-category: "international-solidarity"
+title: An overview of the Spanish libertarian movement
+category: international-solidarity
+tags:
+  - Spain
+  - international
+  - solidarity
 ---
 
 ## **An overview of the Spanish libertarian movement**

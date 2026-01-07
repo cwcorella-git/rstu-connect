@@ -1,6 +1,10 @@
 ---
-title: "Still in Solidarity from Solitary: Message From Inside Suwannee Correctional Institution"
-category: "contemporary-analysis"
+title: >-
+  Still in Solidarity from Solitary: Message From Inside Suwannee Correctional
+  Institution
+category: contemporary-analysis
+tags:
+  - solidarity
 ---
 
 ## **Still in Solidarity from Solitary: Message From Inside Suwannee Correctional Institution**

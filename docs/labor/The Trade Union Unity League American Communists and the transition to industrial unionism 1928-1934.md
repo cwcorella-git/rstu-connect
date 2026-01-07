@@ -1,6 +1,11 @@
 ---
-title: "The Trade Union Unity League: American Communists and the transition to industrial unionism: 19"
-category: "labor"
+title: >-
+  The Trade Union Unity League: American Communists and the transition to
+  industrial unionism: 19
+category: labor
+tags:
+  - unions
+  - socialism
 ---
 
 ## **The Trade Union Unity League: American Communists and the transition to industrial unionism: 1928-1934**

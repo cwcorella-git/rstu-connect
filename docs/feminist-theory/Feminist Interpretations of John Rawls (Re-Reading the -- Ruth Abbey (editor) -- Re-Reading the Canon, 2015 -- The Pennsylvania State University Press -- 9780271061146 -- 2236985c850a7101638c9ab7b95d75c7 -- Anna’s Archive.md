@@ -1,6 +1,8 @@
 ---
-title: "FEMINIST INTERPRETATIONS Of john rawls"
-category: "feminist-theory"
+title: FEMINIST INTERPRETATIONS Of john rawls
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## FEMINIST INTERPRETATIONS Of john rawls

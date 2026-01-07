@@ -1,8 +1,11 @@
 ---
-title: "Anarchism And Other Essays"
-author: "Emma Goldman"
-date: "1910"
-category: "theory"
+title: Anarchism And Other Essays
+author: Emma Goldman
+date: '1910'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Emma Goldman

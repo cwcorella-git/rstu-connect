@@ -1,8 +1,11 @@
 ---
-title: "An Introduction To Anarchism In Myanmar"
-author: "Hip Hop"
-date: "2000"
-category: "theory"
+title: An Introduction To Anarchism In Myanmar
+author: Hip Hop
+date: '2000'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **An Introduction to Anarchism in Myanmar**

@@ -1,6 +1,9 @@
 ---
-title: "James Herod"
-category: "organizing"
+title: James Herod
+category: organizing
+tags:
+  - democracy
+  - organizing
 ---
 
 # James Herod

@@ -1,8 +1,12 @@
 ---
-title: "Tactics of the Autonomous Tenants Union"
-author: "Autonomous Tenants Union"
-date: "2020"
-category: "housing"
+title: Tactics of the Autonomous Tenants Union
+author: Autonomous Tenants Union
+date: '2020'
+category: housing
+tags:
+  - tenants
+  - unions
+  - autonomy
 ---
 
 By necessity, ATU’s work often centers around talking to tenants about their “rights” as given to them by the legal system. In our organizing, these rights are referred to as **the shield**. A shield can protect you, but it cannot win a fight for you. Your rights often can only protect you if you have access to a lawyer, and can fail you on a judge’s whim. You need something more—you need **the sword**. We offer this zine in hopes that the tools within will help folks to go on the offensive and fight back against their landlords. Because even when the law and the courts ul mately work to serve the landlord class, the power of tenants united will prevail.

@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2011"
-category: "abolition"
+title: '>-'
+author: Unknown
+date: '2011'
+category: abolition
+tags:
+  - prisons
+  - abolition
 ---
 
 ## **What Is Holding Back the Formation of a Global Prison Abolitionist Movement to Fight COVID-19 and Capitalism?**

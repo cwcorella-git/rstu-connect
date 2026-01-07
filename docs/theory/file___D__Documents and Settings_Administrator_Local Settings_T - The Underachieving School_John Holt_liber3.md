@@ -1,6 +1,9 @@
 ---
-title: "TRUE LEARNING"
-category: "theory"
+title: TRUE LEARNING
+category: theory
+tags:
+  - education
+  - theory
 ---
 
 #### **THE UNDERACHIEVING SCHOOL**

@@ -1,8 +1,10 @@
 ---
-title: "Federal land policy in Nevada - Ballotpedia"
-author: "Unknown"
-date: "2025"
-category: "misc"
+title: Federal land policy in Nevada - Ballotpedia
+author: Unknown
+date: '2025'
+category: misc
+tags:
+  - Nevada
 ---
 
 # Federal land policy in Nevada - Ballotpedia

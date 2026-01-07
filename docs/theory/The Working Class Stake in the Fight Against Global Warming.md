@@ -1,8 +1,11 @@
 ---
-title: "The Working Class Stake In The Fight Against Global Warming"
-author: "Tom Wetzel"
-date: "2023"
-category: "theory"
+title: The Working Class Stake In The Fight Against Global Warming
+author: Tom Wetzel
+date: '2023'
+category: theory
+tags:
+  - class
+  - theory
 ---
 
 # **The Working Class Stake in the Fight Against Global Warming**

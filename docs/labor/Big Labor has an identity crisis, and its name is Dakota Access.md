@@ -1,6 +1,10 @@
 ---
-title: "Big Labor has an identity crisis, and its name is Dakota Access"
-category: "labor"
+title: 'Big Labor has an identity crisis, and its name is Dakota Access'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Big Labor has an identity crisis, and its name is Dakota Access**

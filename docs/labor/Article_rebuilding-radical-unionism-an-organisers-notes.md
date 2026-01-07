@@ -1,8 +1,12 @@
 ---
-title: "Rebuilding Radical Unionism an Organisers Notes"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Rebuilding Radical Unionism an Organisers Notes
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # Rebuilding Radical Unionism an Organisers Notes

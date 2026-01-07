@@ -1,6 +1,9 @@
 ---
-title: "Blind Spot : Manuel Huet and the libertarian underground in France"
-category: "theory"
+title: 'Blind Spot : Manuel Huet and the libertarian underground in France'
+category: theory
+tags:
+  - France
+  - theory
 ---
 
 ## **Blind Spot : Manuel Huet and the libertarian underground in France**

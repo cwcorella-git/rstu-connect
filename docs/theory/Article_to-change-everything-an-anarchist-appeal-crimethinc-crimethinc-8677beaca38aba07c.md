@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "CrimethInc."
-date: "2025"
-category: "theory"
+title: '>-'
+author: CrimethInc.
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # To Change Everything An Anarchist Appeal Crimethinc Crimethinc 8677beaca38aba07c

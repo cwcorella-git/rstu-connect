@@ -1,6 +1,8 @@
 ---
-title: "HORTICULTURE"
-category: "arts-culture-music"
+title: HORTICULTURE
+category: arts-culture-music
+tags:
+  - urban
 ---
 
 # HORTICULTURE

@@ -1,6 +1,8 @@
 ---
-title: "Subscribe to Anarcho Agony Aunts"
-category: "contemporary-analysis"
+title: Subscribe to Anarcho Agony Aunts
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 ## **Subscribe to Anarcho Agony Aunts**

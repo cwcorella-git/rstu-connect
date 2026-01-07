@@ -1,6 +1,10 @@
 ---
-title: "The Proletarian (1909-1910) - IWW Japanese-English Bilingual Newspaper"
-category: "contemporary-analysis"
+title: The Proletarian (1909-1910) - IWW Japanese-English Bilingual Newspaper
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **The Proletarian (1909-1910) - IWW Japanese-English Bilingual Newspaper**

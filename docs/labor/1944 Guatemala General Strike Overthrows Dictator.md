@@ -1,8 +1,11 @@
 ---
-title: "1944 Guatemala General Strike Overthrows Dictator"
-author: "Federico Ponce"
-date: "1944"
-category: "labor"
+title: 1944 Guatemala General Strike Overthrows Dictator
+author: Federico Ponce
+date: '1944'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **1944: Guatemala General Strike Overthrows Dictator**

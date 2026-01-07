@@ -1,6 +1,9 @@
 ---
-title: "Senegal General Strike: 1945-46"
-category: "contemporary-analysis"
+title: 'Senegal General Strike: 1945-46'
+category: contemporary-analysis
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **Senegal General Strike: 1945-46**

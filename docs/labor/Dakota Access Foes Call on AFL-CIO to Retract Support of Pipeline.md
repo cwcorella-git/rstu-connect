@@ -1,6 +1,9 @@
 ---
-title: "Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline"
-category: "labor"
+title: Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline
+category: labor
+tags:
+  - unions
+  - fossil fuels
 ---
 
 ## **Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline**

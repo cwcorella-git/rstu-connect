@@ -1,6 +1,12 @@
 ---
-title: "¿Quién le puso una bomba a Judi Bari? / Who Bombed Judi Bari? (Spanish Subtitles)"
-category: "international-solidarity"
+title: >-
+  ¿Quién le puso una bomba a Judi Bari? / Who Bombed Judi Bari? (Spanish
+  Subtitles)
+category: international-solidarity
+tags:
+  - Spain
+  - international
+  - solidarity
 ---
 
 ## **¿Quién le puso una bomba a Judi Bari? / Who Bombed Judi Bari? (Spanish Subtitles)**

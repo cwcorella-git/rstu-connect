@@ -1,6 +1,9 @@
 ---
-title: "Fragments of a Debate with Anarchism - L'Ouvrier Communiste"
-category: "contemporary-analysis"
+title: Fragments of a Debate with Anarchism - L'Ouvrier Communiste
+category: contemporary-analysis
+tags:
+  - anarchism
+  - socialism
 ---
 
 ## **Fragments of a Debate with Anarchism - L'Ouvrier Communiste**

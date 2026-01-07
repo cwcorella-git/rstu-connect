@@ -1,8 +1,12 @@
 ---
-title: "Anti Fascist Or Pro Police Anarchist Black Cross"
-author: "Anarchist Black Cross"
-date: "2025"
-category: "abolition"
+title: Anti Fascist Or Pro Police Anarchist Black Cross
+author: Anarchist Black Cross
+date: '2025'
+category: abolition
+tags:
+  - anarchism
+  - antifascism
+  - police
 ---
 
 # Anti Fascist Or Pro Police Anarchist Black Cross

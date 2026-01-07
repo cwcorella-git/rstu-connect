@@ -1,8 +1,11 @@
 ---
-title: "Individual Liberty"
-author: "Economic Rent"
-date: "1893"
-category: "theory"
+title: Individual Liberty
+author: Economic Rent
+date: '1893'
+category: theory
+tags:
+  - liberty
+  - theory
 ---
 
 # Individual Liberty

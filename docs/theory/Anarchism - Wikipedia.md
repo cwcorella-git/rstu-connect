@@ -1,6 +1,9 @@
 ---
-title: "Anarchism"
-category: "contemporary-analysis"
+title: Anarchism
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

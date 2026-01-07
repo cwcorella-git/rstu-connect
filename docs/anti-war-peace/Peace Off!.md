@@ -1,6 +1,9 @@
 ---
-title: "Peace Off!"
-category: "anti-war-peace"
+title: Peace Off!
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 ## **Peace Off!**

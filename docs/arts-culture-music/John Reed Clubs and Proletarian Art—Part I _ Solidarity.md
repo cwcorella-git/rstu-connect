@@ -1,6 +1,8 @@
 ---
-title: "John Reed Clubs and Proletarian Art—Part I"
-category: "arts-culture-music"
+title: John Reed Clubs and Proletarian Art—Part I
+category: arts-culture-music
+tags:
+  - solidarity
 ---
 
 # **John Reed Clubs and Proletarian Art—Part I**

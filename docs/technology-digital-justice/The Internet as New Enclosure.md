@@ -1,6 +1,9 @@
 ---
-title: "Crimeth Inc."
-category: "technology-digital-justice"
+title: Crimeth Inc.
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Crimeth Inc.**

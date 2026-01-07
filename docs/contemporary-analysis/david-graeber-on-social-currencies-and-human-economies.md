@@ -1,8 +1,10 @@
 ---
-title: "On social currencies and human economies"
-author: "David Graeber"
-date: "2012"
-category: "contemporary-analysis"
+title: On social currencies and human economies
+author: David Graeber
+date: '2012'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 **Abstract:** In this essay I propose a category of ‘human economies’ to refer to those where the primary focus of economic life is on reconfiguring relations between people, rather than the allocation of commodities. Currencies that used to be labelled ‘primitive money’, but which are primarily used to effect this, would better be called ‘social currencies’. These social currencies are often seen as inadequate substitutes for human beings, not so much ways of discharging debts as of recognising the existence of a debt that cannot be paid. By reconsidering some classic anthropological cases (the Lele, the Tiv) in the light of the slave trade, we might catch a glimpse of the violence required to transform such social currencies into commercial currencies by which debts can be entirely cancelled out.

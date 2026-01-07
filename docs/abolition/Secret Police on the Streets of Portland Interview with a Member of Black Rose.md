@@ -1,8 +1,12 @@
 ---
-title: "Secret Police On The Streets Of Portland Interview With A Member Of"
-author: "Black Rose Anarchist Federation"
-date: "2020"
-category: "abolition"
+title: Secret Police On The Streets Of Portland Interview With A Member Of
+author: Black Rose Anarchist Federation
+date: '2020'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 ## **Secret Police on the Streets of Portland: Interview with a Member of Black Rose**

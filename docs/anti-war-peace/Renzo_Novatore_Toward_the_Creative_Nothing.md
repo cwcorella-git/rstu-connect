@@ -1,6 +1,9 @@
 ---
-title: "Toward the Creative Nothing"
-category: "anti-war-peace"
+title: Toward the Creative Nothing
+category: anti-war-peace
+tags:
+  - anti-war
+  - peace
 ---
 
 # **Toward the Creative Nothing**

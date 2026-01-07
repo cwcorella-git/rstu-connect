@@ -1,6 +1,8 @@
 ---
-title: "Solidarity is the new I love you"
-category: "contemporary-analysis"
+title: Solidarity is the new I love you
+category: contemporary-analysis
+tags:
+  - solidarity
 ---
 
 ## **Solidarity is the new I love you**

@@ -1,8 +1,12 @@
 ---
-title: "Foreword to <em>Stone Age Economics</em>"
-author: "David Graeber"
-date: "2017"
-category: "economic-alternatives"
+title: Foreword to <em>Stone Age Economics</em>
+author: David Graeber
+date: '2017'
+category: economic-alternatives
+tags:
+  - Graeber
+  - economics
+  - alternatives
 ---
 
 Back when I was an evolutionary anthropologist, I learned that the most successful species are those which remain the most generalized. If I hadn’t learned that I would probably still be an evolutionary anthropologist.

@@ -1,8 +1,10 @@
 ---
-title: "Note worthy: what is the meaning of money?"
-author: "David Graeber"
-date: "16<sup>th</sup> December 2011"
-category: "contemporary-analysis"
+title: 'Note worthy: what is the meaning of money?'
+author: David Graeber
+date: 16<sup>th</sup> December 2011
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 It affects every aspect of our lives, is often said to be the root of all evil, and the analysis of the world that it makes possible – what we call “the economy” – is so important to us that economists have become the high priests of our society. Yet, oddly, there is absolutely no consensus among economists about what money really is.

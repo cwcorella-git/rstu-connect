@@ -1,6 +1,11 @@
 ---
-title: "Feminists attacked by CGT union goons during Paris demonstration"
-category: "feminist-theory"
+title: Feminists attacked by CGT union goons during Paris demonstration
+category: feminist-theory
+tags:
+  - protests
+  - unions
+  - feminism
+  - France
 ---
 
 ## **Feminists attacked by CGT union goons during Paris demonstration**

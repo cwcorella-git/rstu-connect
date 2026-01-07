@@ -1,6 +1,9 @@
 ---
-title: "Various Authors"
-category: "food-justice"
+title: Various Authors
+category: food-justice
+tags:
+  - food
+  - justice
 ---
 
 # **Various Authors**

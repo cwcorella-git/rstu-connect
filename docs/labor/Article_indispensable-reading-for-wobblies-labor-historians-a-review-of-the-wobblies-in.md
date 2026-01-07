@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Bill Haywood"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Bill Haywood
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
 ---
 
 # Indispensable Reading For Wobblies Labor Historians a Review of the Wobblies in

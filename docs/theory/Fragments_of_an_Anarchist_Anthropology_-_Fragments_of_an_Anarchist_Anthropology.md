@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "David Graeber"
-date: "2004"
-category: "theory"
+title: '>-'
+author: David Graeber
+date: '2004'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Fragments of an Anarchist Anthropology - Fragments of an Anarchist Anthropology.pdf

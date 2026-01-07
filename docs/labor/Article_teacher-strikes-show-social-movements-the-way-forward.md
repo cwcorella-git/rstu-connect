@@ -1,8 +1,13 @@
 ---
-title: "Teacher Strikes Show Social Movements the Way Forward"
-author: "Howard Zinn"
-date: "2025"
-category: "labor"
+title: Teacher Strikes Show Social Movements the Way Forward
+author: Howard Zinn
+date: '2025'
+category: labor
+tags:
+  - education
+  - labor
+  - unions
+  - workers
 ---
 
 # Teacher Strikes Show Social Movements the Way Forward

@@ -1,6 +1,9 @@
 ---
-title: "Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation"
-category: "contemporary-analysis"
+title: Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation
+category: contemporary-analysis
+tags:
+  - antifascism
+  - prisons
 ---
 
 ## **Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation**

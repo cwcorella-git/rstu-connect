@@ -1,8 +1,12 @@
 ---
-title: "Prison Hunger Strikes in Palestine Monograph"
-author: "Heba Mohamad"
-date: "2025"
-category: "labor"
+title: Prison Hunger Strikes in Palestine Monograph
+author: Heba Mohamad
+date: '2025'
+category: labor
+tags:
+  - prisons
+  - food
+  - Palestine
 ---
 
 # Prison Hunger Strikes in Palestine Monograph

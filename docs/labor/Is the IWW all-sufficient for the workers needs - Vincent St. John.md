@@ -1,6 +1,9 @@
 ---
-title: "Is the IWW all-sufficient for the workers needs? - Vincent St. John"
-category: "contemporary-analysis"
+title: Is the IWW all-sufficient for the workers needs? - Vincent St. John
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
 ---
 
 ## **Is the IWW all-sufficient for the workers needs? - Vincent St. John**

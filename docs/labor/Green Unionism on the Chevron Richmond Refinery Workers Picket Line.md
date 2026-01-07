@@ -1,6 +1,10 @@
 ---
-title: "Green Unionism on the Chevron Richmond Refinery Workers Picket Line"
-category: "labor"
+title: Green Unionism on the Chevron Richmond Refinery Workers Picket Line
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # **Green Unionism on the Chevron Richmond Refinery Workers Picket Line**

@@ -1,6 +1,10 @@
 ---
-title: "What's Wrong with Single Employee Train Operations?"
-category: "technology-digital-justice"
+title: What's Wrong with Single Employee Train Operations?
+category: technology-digital-justice
+tags:
+  - labor
+  - technology
+  - digital rights
 ---
 
 ## **What's Wrong with Single Employee Train Operations?**

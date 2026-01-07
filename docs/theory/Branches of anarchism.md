@@ -1,6 +1,9 @@
 ---
-title: "Branches of anarchism"
-category: "contemporary-analysis"
+title: Branches of anarchism
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Branches of anarchism**

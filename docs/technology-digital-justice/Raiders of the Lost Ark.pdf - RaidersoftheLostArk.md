@@ -1,6 +1,9 @@
 ---
-title: "68 EXT. BETWEEN THE BUILDINGS - DAY 68"
-category: "technology-digital-justice"
+title: 68 EXT. BETWEEN THE BUILDINGS - DAY 68
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### RAIDERS OF THE LOST ARK

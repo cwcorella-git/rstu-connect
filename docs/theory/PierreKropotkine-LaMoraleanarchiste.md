@@ -1,8 +1,11 @@
 ---
-title: "Pierrekropotkine Lamoraleanarchiste"
-author: "Britannica"
-date: "1889"
-category: "theory"
+title: Pierrekropotkine Lamoraleanarchiste
+author: Britannica
+date: '1889'
+category: theory
+tags:
+  - anarchism
+  - Kropotkin
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

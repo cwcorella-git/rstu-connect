@@ -1,6 +1,9 @@
 ---
-title: "Paul Goodman"
-category: "contemporary-analysis"
+title: Paul Goodman
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Paul Goodman**

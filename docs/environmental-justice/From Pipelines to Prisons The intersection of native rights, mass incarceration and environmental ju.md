@@ -1,6 +1,13 @@
 ---
-title: "From Pipelines to Prisons: The intersection of native rights, mass incarceration and environmen"
-category: "labor"
+title: >-
+  From Pipelines to Prisons: The intersection of native rights, mass
+  incarceration and environmen
+category: labor
+tags:
+  - prisons
+  - environment
+  - indigenous
+  - fossil fuels
 ---
 
 ## **From Pipelines to Prisons: The intersection of native rights, mass incarceration and environmental justice**

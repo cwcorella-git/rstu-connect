@@ -1,6 +1,10 @@
 ---
-title: "A CASE FOR REVOLUTION"
-category: "youth-student-organizing"
+title: A CASE FOR REVOLUTION
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 # A CASE FOR REVOLUTION

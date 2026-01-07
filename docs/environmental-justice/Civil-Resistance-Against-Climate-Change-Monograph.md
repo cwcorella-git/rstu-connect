@@ -1,6 +1,9 @@
 ---
-title: "Civil Resistance Against Climate Change"
-category: "environmental-justice"
+title: Civil Resistance Against Climate Change
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # Civil Resistance Against Climate Change

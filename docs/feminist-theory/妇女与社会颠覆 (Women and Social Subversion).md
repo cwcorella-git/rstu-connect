@@ -1,6 +1,9 @@
 ---
-title: "妇女与社会颠覆 (Women and Social Subversion)"
-category: "feminist-theory"
+title: 妇女与社会颠覆 (Women and Social Subversion)
+category: feminist-theory
+tags:
+  - women
+  - feminism
 ---
 
 # **妇女与社会颠覆 (Women and Social Subversion)**

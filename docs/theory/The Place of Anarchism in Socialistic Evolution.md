@@ -1,6 +1,9 @@
 ---
-title: "The Place of Anarchism in Socialistic Evolution"
-category: "contemporary-analysis"
+title: The Place of Anarchism in Socialistic Evolution
+category: contemporary-analysis
+tags:
+  - anarchism
+  - socialism
 ---
 
 ## Pëtr Kropotkin

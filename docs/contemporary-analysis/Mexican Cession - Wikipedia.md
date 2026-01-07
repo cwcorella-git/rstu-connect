@@ -1,6 +1,8 @@
 ---
-title: "Mexican Cession"
-category: "contemporary-analysis"
+title: Mexican Cession
+category: contemporary-analysis
+tags:
+  - Mexico
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

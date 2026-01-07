@@ -1,6 +1,9 @@
 ---
-title: "Our Poisonous Economic System Needs A Grassroots Intervention"
-category: "economic-alternatives"
+title: Our Poisonous Economic System Needs A Grassroots Intervention
+category: economic-alternatives
+tags:
+  - economics
+  - alternatives
 ---
 
 ## **Our Poisonous Economic System Needs A Grassroots Intervention**

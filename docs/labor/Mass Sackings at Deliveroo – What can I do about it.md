@@ -1,6 +1,11 @@
 ---
-title: "Mass Sackings at Deliveroo – What can I do about it?"
-category: "contemporary-analysis"
+title: Mass Sackings at Deliveroo – What can I do about it?
+category: contemporary-analysis
+tags:
+  - gig economy
+  - labor
+  - unions
+  - workers
 ---
 
 # **Mass Sackings at Deliveroo – What can I do about it?**

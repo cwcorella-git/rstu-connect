@@ -1,6 +1,9 @@
 ---
-title: "On Emancipation"
-category: "technology-digital-justice"
+title: On Emancipation
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## ![](_page_0_Figure_2.jpeg)

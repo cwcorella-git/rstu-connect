@@ -1,6 +1,9 @@
 ---
-title: "Against the (new and old) familism down with the family! - humanaesfera"
-category: "technology-digital-justice"
+title: Against the (new and old) familism down with the family! - humanaesfera
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # **Against the (new and old) familism down with the family! - humanaesfera**

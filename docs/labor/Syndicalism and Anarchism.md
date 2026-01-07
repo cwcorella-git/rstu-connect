@@ -1,8 +1,11 @@
 ---
-title: "Syndicalism And Anarchism"
-author: "Pëtr Kropotkin"
-date: "1908"
-category: "theory"
+title: Syndicalism And Anarchism
+author: Pëtr Kropotkin
+date: '1908'
+category: theory
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## **Syndicalism and Anarchism**

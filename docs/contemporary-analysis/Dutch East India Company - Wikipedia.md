@@ -1,6 +1,8 @@
 ---
-title: "Dutch East India Company"
-category: "contemporary-analysis"
+title: Dutch East India Company
+category: contemporary-analysis
+tags:
+  - India
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Dutch_East_India_Company)

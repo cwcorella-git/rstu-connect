@@ -1,6 +1,8 @@
 ---
-title: "EXT. AVENUE OF TRASH"
-category: "feminist-theory"
+title: EXT. AVENUE OF TRASH
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ### **WALL-E**

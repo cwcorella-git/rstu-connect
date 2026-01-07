@@ -1,6 +1,9 @@
 ---
-title: "Murray Bookchin Radical Agriculture 1972"
-category: "arts-culture-music"
+title: Murray Bookchin Radical Agriculture 1972
+category: arts-culture-music
+tags:
+  - food
+  - Bookchin
 ---
 
 ## **Murray Bookchin Radical Agriculture 1972**

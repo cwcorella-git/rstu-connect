@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "housing"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: housing
+tags:
+  - environment
+  - capitalism
 ---
 
 # Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind Pow

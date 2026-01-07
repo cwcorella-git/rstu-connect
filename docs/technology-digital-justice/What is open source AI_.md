@@ -1,6 +1,9 @@
 ---
-title: "What is open source AI?"
-category: "technology-digital-justice"
+title: What is open source AI?
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [github.com](https://github.com/resources/articles/what-is-open-source-ai)

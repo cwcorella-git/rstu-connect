@@ -1,6 +1,9 @@
 ---
-title: "Beyond Rhetoric – What Does the 'Just Transition' Mean for DAPL?"
-category: "feminist-theory"
+title: Beyond Rhetoric – What Does the 'Just Transition' Mean for DAPL?
+category: feminist-theory
+tags:
+  - just transition
+  - feminism
 ---
 
 ## **Beyond Rhetoric – What Does the "Just Transition" Mean for DAPL?**

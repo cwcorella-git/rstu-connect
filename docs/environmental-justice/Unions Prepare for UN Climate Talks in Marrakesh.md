@@ -1,6 +1,9 @@
 ---
-title: "Unions Prepare for UN Climate Talks in Marrakesh"
-category: "environmental-justice"
+title: Unions Prepare for UN Climate Talks in Marrakesh
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **Unions Prepare for UN Climate Talks in Marrakesh**

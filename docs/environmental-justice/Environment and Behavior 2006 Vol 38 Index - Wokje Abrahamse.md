@@ -1,6 +1,9 @@
 ---
-title: "INDEX"
-category: "environmental-justice"
+title: INDEX
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # INDEX

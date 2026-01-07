@@ -1,8 +1,12 @@
 ---
-title: "Interview Iranian Anarchists On Protests In Response To Police Murder Of"
-author: "Mahsa Alimardani"
-date: "2019"
-category: "abolition"
+title: Interview Iranian Anarchists On Protests In Response To Police Murder Of
+author: Mahsa Alimardani
+date: '2019'
+category: abolition
+tags:
+  - protests
+  - anarchism
+  - police
 ---
 
 ## **Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini**

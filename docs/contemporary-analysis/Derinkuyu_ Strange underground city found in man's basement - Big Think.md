@@ -1,6 +1,8 @@
 ---
-title: "Derinkuyu: Mysterious underground city in Turkey found in man's basement"
-category: "contemporary-analysis"
+title: 'Derinkuyu: Mysterious underground city in Turkey found in man''s basement'
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 *[S T R A N G E M A P S](https://bigthink.com/strange-maps/) — D E C E M B E R 2 8 , 2 0 2 3*

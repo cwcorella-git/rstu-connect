@@ -1,6 +1,9 @@
 ---
-title: "Redrawing The Line: The Anarchist Writings of Paul Goodman"
-category: "contemporary-analysis"
+title: 'Redrawing The Line: The Anarchist Writings of Paul Goodman'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Redrawing The Line: The Anarchist Writings of Paul Goodman**

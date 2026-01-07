@@ -1,6 +1,10 @@
 ---
-title: "The 'Left-Wingers' and the IWW"
-category: "contemporary-analysis"
+title: The 'Left-Wingers' and the IWW
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **The "Left-Wingers" and the IWW**

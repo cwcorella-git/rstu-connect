@@ -1,6 +1,10 @@
 ---
-title: "Entrevista a Xuân Rayne: Vietnamita, anarquista, trabajadora sexual"
-category: "labor"
+title: 'Entrevista a Xuân Rayne: Vietnamita, anarquista, trabajadora sexual'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Entrevista a Xuân Rayne: Vietnamita, anarquista, trabajadora sexual**

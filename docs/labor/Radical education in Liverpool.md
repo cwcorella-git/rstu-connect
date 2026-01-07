@@ -1,6 +1,11 @@
 ---
-title: "Radical education in Liverpool"
-category: "labor"
+title: Radical education in Liverpool
+category: labor
+tags:
+  - education
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Radical education in Liverpool**

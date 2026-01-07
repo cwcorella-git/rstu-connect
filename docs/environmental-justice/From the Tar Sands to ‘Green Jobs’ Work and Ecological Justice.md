@@ -1,6 +1,9 @@
 ---
-title: "From the Tar Sands to 'Green Jobs'? Work and Ecological Justice"
-category: "environmental-justice"
+title: From the Tar Sands to 'Green Jobs'? Work and Ecological Justice
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 # **From the Tar Sands to 'Green Jobs'? Work and Ecological Justice**

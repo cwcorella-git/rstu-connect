@@ -1,6 +1,8 @@
 ---
-title: "THE WOMAN OF COLOR AND THE WHITE MAN"
-category: "contemporary-analysis"
+title: THE WOMAN OF COLOR AND THE WHITE MAN
+category: contemporary-analysis
+tags:
+  - women
 ---
 
 ## Magh Skin While masks

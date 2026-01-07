@@ -1,8 +1,12 @@
 ---
-title: "Reflections on Rent Strike Vancouver"
-author: "Anonymous"
-date: "March 28, 2020"
-category: "housing"
+title: Reflections on Rent Strike Vancouver
+author: Anonymous
+date: 'March 28, 2020'
+category: housing
+tags:
+  - rent strikes
+  - strikes
+  - housing
 ---
 
 So called Vancouver BC has in its most recent years been a place of

@@ -1,6 +1,8 @@
 ---
-title: "Canada's Free Birth Control and Insulin Program: Complete Overview"
-category: "contemporary-analysis"
+title: 'Canada''s Free Birth Control and Insulin Program: Complete Overview'
+category: contemporary-analysis
+tags:
+  - Canada
 ---
 
 # **Canada's Free Birth Control and Insulin Program: Complete Overview**

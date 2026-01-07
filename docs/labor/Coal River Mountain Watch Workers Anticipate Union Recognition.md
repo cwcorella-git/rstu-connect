@@ -1,6 +1,9 @@
 ---
-title: "Coal River Mountain Watch Workers Anticipate Union Recognition"
-category: "environmental-justice"
+title: Coal River Mountain Watch Workers Anticipate Union Recognition
+category: environmental-justice
+tags:
+  - unions
+  - labor
 ---
 
 ## **Coal River Mountain Watch Workers Anticipate Union Recognition**

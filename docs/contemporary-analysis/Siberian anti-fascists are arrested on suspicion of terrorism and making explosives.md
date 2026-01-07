@@ -1,6 +1,10 @@
 ---
-title: "Siberian anti-fascists are arrested on suspicion of terrorism and making explosives"
-category: "contemporary-analysis"
+title: >-
+  Siberian anti-fascists are arrested on suspicion of terrorism and making
+  explosives
+category: contemporary-analysis
+tags:
+  - antifascism
 ---
 
 ## **Siberian anti-fascists are arrested on suspicion of terrorism and making explosives**

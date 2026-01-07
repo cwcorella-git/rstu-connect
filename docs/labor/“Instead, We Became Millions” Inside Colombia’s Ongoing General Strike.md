@@ -1,6 +1,9 @@
 ---
-title: "'Instead, We Became Millions': Inside Colombia's Ongoing General Strike"
-category: "contemporary-analysis"
+title: '''Instead, We Became Millions'': Inside Colombia''s Ongoing General Strike'
+category: contemporary-analysis
+tags:
+  - general strikes
+  - strikes
 ---
 
 ## **"Instead, We Became Millions": Inside Colombia's Ongoing General Strike**

@@ -1,6 +1,15 @@
 ---
-title: "Resilience Comment Policy Please read our Comment Policy before commenting. Got it Share Best Newest Oldest 0 Comments 1 Login LOG IN WITH OR SIGN UP WITH DISQUS Name Start the discussion... ? Be the rst to comment. Subscribe Privacy Do Not Sell My Data G"
-category: "labor"
+title: >-
+  Resilience Comment Policy Please read our Comment Policy before commenting.
+  Got it Share Best Newest Oldest 0 Comments 1 Login LOG IN WITH OR SIGN UP WITH
+  DISQUS Name Start the discussion... ? Be the rst to comment. Subscribe Privacy
+  Do Not Sell My Data G
+category: labor
+tags:
+  - solidarity
+  - labor
+  - unions
+  - workers
 ---
 
 ## ![](_page_0_Picture_4.jpeg)

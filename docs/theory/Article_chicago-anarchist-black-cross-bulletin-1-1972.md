@@ -1,8 +1,11 @@
 ---
-title: "Chicago Anarchist Black Cross Bulletin 1 1972"
-author: "Anarchist Black Cross"
-date: "2025"
-category: "theory"
+title: Chicago Anarchist Black Cross Bulletin 1 1972
+author: Anarchist Black Cross
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - Chicago
 ---
 
 # Chicago Anarchist Black Cross Bulletin 1 1972

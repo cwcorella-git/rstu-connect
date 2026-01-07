@@ -1,6 +1,10 @@
 ---
-title: "## [archdaily.com](https://www.archdaily.com/1001999/the-paradox-of-sustainable-architecture-durabil"
-category: "feminist-theory"
+title: >-
+  ##
+  [archdaily.com](https://www.archdaily.com/1001999/the-paradox-of-sustainable-architecture-durabil
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## [archdaily.com](https://www.archdaily.com/1001999/the-paradox-of-sustainable-architecture-durability-and-transience)

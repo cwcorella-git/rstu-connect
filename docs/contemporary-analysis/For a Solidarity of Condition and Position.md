@@ -1,6 +1,8 @@
 ---
-title: "A Delivery Driver in Manhattan"
-category: "contemporary-analysis"
+title: A Delivery Driver in Manhattan
+category: contemporary-analysis
+tags:
+  - solidarity
 ---
 
 ## **A Delivery Driver in Manhattan**

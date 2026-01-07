@@ -1,6 +1,9 @@
 ---
-title: "No peace in Europe ? lWMA call to the workers of the world"
-category: "anti-war-peace"
+title: No peace in Europe ? lWMA call to the workers of the world
+category: anti-war-peace
+tags:
+  - labor
+  - anti-war
 ---
 
 ## **No peace in Europe ? lWMA call to the workers of the world**

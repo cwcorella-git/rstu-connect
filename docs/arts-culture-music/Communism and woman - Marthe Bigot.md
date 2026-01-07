@@ -1,6 +1,8 @@
 ---
-title: "Communism and woman - Marthe Bigot"
-category: "arts-culture-music"
+title: Communism and woman - Marthe Bigot
+category: arts-culture-music
+tags:
+  - women
 ---
 
 ## **Communism and woman - Marthe Bigot**

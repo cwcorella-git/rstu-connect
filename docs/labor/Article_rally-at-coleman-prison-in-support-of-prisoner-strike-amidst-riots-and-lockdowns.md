@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "It's Going Down"
-date: "2025"
-category: "labor"
+title: '>-'
+author: It's Going Down
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - riots
+  - prisons
 ---
 
 # Rally At Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns

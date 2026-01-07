@@ -1,8 +1,12 @@
 ---
-title: "The Public Duty Doctrine and Its Implications For Police Officers Savage Train"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: The Public Duty Doctrine and Its Implications For Police Officers Savage Train
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # The Public Duty Doctrine and Its Implications For Police Officers Savage Train

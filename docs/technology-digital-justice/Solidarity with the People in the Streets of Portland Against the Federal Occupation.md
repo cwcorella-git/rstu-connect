@@ -1,6 +1,11 @@
 ---
-title: "Solidarity with the People in the Streets of Portland: Against the Federal Occupation"
-category: "technology-digital-justice"
+title: >-
+  Solidarity with the People in the Streets of Portland: Against the Federal
+  Occupation
+category: technology-digital-justice
+tags:
+  - occupations
+  - solidarity
 ---
 
 ## **Solidarity with the People in the Streets of Portland: Against the Federal Occupation**

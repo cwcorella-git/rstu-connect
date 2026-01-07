@@ -1,6 +1,9 @@
 ---
-title: "The Green New Deal is Only a Beginning"
-category: "environmental-justice"
+title: The Green New Deal is Only a Beginning
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **The Green New Deal is Only a Beginning**

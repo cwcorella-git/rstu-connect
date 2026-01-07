@@ -1,8 +1,11 @@
 ---
-title: "Welcome To the Iww Environmental Unionism Caucus"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Welcome To the Iww Environmental Unionism Caucus
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - unions
+  - environment
 ---
 
 # Welcome To the Iww Environmental Unionism Caucus

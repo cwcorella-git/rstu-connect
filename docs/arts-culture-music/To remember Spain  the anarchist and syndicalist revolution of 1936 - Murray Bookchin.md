@@ -1,6 +1,13 @@
 ---
-title: "To remember Spain: the anarchist and syndicalist revolution of 1936 - Murray Bookchin"
-category: "arts-culture-music"
+title: >-
+  To remember Spain: the anarchist and syndicalist revolution of 1936 - Murray
+  Bookchin
+category: arts-culture-music
+tags:
+  - anarchism
+  - syndicalism
+  - Bookchin
+  - Spain
 ---
 
 ## **To remember Spain: the anarchist and syndicalist revolution of 1936 - Murray Bookchin**

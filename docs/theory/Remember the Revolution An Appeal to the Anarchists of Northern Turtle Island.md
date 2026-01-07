@@ -1,6 +1,9 @@
 ---
-title: "Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island"
-category: "theory"
+title: 'Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island**

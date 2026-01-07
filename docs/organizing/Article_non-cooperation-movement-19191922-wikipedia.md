@@ -1,8 +1,11 @@
 ---
-title: "Non Cooperation Movement 19191922 Wikipedia"
-author: "Wikipedia"
-date: "2025"
-category: "organizing"
+title: Non Cooperation Movement 19191922 Wikipedia
+author: Wikipedia
+date: '2025'
+category: organizing
+tags:
+  - civil disobedience
+  - organizing
 ---
 
 # Non Cooperation Movement 19191922 Wikipedia

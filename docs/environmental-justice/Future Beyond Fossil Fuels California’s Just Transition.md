@@ -1,6 +1,9 @@
 ---
-title: "Future Beyond Fossil Fuels: California's Just Transition"
-category: "feminist-theory"
+title: 'Future Beyond Fossil Fuels: California''s Just Transition'
+category: feminist-theory
+tags:
+  - fossil fuels
+  - just transition
 ---
 
 ## **Future Beyond Fossil Fuels: California's Just Transition**

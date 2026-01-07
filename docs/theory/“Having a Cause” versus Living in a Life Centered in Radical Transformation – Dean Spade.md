@@ -1,6 +1,10 @@
 ---
-title: "## [deanspade.net](https://www.deanspade.net/2018/11/23/having-a-cause-versus-living-in-a-life-cente"
-category: "theory"
+title: >-
+  ##
+  [deanspade.net](https://www.deanspade.net/2018/11/23/having-a-cause-versus-living-in-a-life-cente
+category: theory
+tags:
+  - theory
 ---
 
 ## [deanspade.net](https://www.deanspade.net/2018/11/23/having-a-cause-versus-living-in-a-life-centered-in-radical-transformation/)

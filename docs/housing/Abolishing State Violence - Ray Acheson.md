@@ -1,8 +1,12 @@
 ---
-title: "Abolishing State Violence Ray Acheson"
-author: "Haymarket Books"
-date: "2022"
-category: "housing"
+title: Abolishing State Violence Ray Acheson
+author: Haymarket Books
+date: '2022'
+category: housing
+tags:
+  - abolition
+  - housing
+  - tenants
 ---
 
 # AKILISHI

@@ -1,8 +1,12 @@
 ---
-title: "Combative Unionism Waging Class War Within Labour Prairie Struggle"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: Combative Unionism Waging Class War Within Labour Prairie Struggle
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - labor
+  - anti-war
+  - class
 ---
 
 # Combative Unionism Waging Class War Within Labour Prairie Struggle

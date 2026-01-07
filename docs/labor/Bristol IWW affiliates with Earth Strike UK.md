@@ -1,6 +1,10 @@
 ---
-title: "Bristol IWW affiliates with Earth Strike UK"
-category: "arts-culture-music"
+title: Bristol IWW affiliates with Earth Strike UK
+category: arts-culture-music
+tags:
+  - strikes
+  - unions
+  - United Kingdom
 ---
 
 ## **Bristol IWW affiliates with Earth Strike UK**

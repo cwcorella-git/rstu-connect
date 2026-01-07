@@ -1,6 +1,9 @@
 ---
-title: "Class War and the Media"
-category: "anti-war-peace"
+title: Class War and the Media
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War and the Media**

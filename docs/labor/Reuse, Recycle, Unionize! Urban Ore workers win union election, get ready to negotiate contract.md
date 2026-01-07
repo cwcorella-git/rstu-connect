@@ -1,6 +1,12 @@
 ---
-title: "Reuse, Recycle, Unionize!: Urban Ore workers win union election, get ready to negotiate contrac"
-category: "contemporary-analysis"
+title: >-
+  Reuse, Recycle, Unionize!: Urban Ore workers win union election, get ready to
+  negotiate contrac
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - urban
 ---
 
 ## **Reuse, Recycle, Unionize!: Urban Ore workers win union election, get ready to negotiate contract**

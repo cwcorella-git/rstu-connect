@@ -1,6 +1,10 @@
 ---
-title: "Solidarity with Railroad Workers"
-category: "theory"
+title: Solidarity with Railroad Workers
+category: theory
+tags:
+  - solidarity
+  - labor
+  - railroads
 ---
 
 ## **Solidarity with Railroad Workers**

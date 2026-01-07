@@ -1,6 +1,9 @@
 ---
-title: "Workers Solidarity Movement closing statement"
-category: "theory"
+title: Workers Solidarity Movement closing statement
+category: theory
+tags:
+  - solidarity
+  - labor
 ---
 
 ## **Workers Solidarity Movement closing statement**

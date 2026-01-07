@@ -1,6 +1,10 @@
 ---
-title: "Students Lead the Militancy!"
-category: "youth-student-organizing"
+title: Students Lead the Militancy!
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 ## **Students Lead the Militancy!**

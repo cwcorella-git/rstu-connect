@@ -1,6 +1,11 @@
 ---
-title: "[GCI-ICG] Theory of decadence, decadence of theory. The worst product of imperialism: anti-impe"
-category: "international-solidarity"
+title: >-
+  [GCI-ICG] Theory of decadence, decadence of theory. The worst product of
+  imperialism: anti-impe
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 ## **[GCI-ICG] Theory of decadence, decadence of theory. The worst product of imperialism: anti-imperialism**

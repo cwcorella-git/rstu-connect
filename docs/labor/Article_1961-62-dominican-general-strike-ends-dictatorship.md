@@ -1,8 +1,11 @@
 ---
-title: "1961 62 Dominican General Strike Ends Dictatorship"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: 1961 62 Dominican General Strike Ends Dictatorship
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # 1961 62 Dominican General Strike Ends Dictatorship

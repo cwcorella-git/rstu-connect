@@ -1,6 +1,9 @@
 ---
-title: "Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong"
-category: "environmental-justice"
+title: 'Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong'
+category: environmental-justice
+tags:
+  - unions
+  - environment
 ---
 
 ## **Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong**

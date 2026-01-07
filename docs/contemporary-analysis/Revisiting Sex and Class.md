@@ -1,6 +1,8 @@
 ---
-title: "Revisiting Sex and Class"
-category: "contemporary-analysis"
+title: Revisiting Sex and Class
+category: contemporary-analysis
+tags:
+  - class
 ---
 
 ## **Revisiting Sex and Class**

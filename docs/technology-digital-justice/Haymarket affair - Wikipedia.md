@@ -1,6 +1,9 @@
 ---
-title: "Haymarket affair"
-category: "technology-digital-justice"
+title: Haymarket affair
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Haymarket_affair)

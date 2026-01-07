@@ -1,6 +1,9 @@
 ---
-title: "INSTEAD OF E-DUCATION"
-category: "theory"
+title: INSTEAD OF E-DUCATION
+category: theory
+tags:
+  - education
+  - theory
 ---
 
 # INSTEAD OF E-DUCATION

@@ -1,6 +1,9 @@
 ---
-title: "Ohio Valley Environmental Coalition's Earth Day Strike"
-category: "labor"
+title: Ohio Valley Environmental Coalition's Earth Day Strike
+category: labor
+tags:
+  - strikes
+  - environment
 ---
 
 ## **Ohio Valley Environmental Coalition's Earth Day Strike**

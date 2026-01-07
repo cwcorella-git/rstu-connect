@@ -1,6 +1,9 @@
 ---
-title: "ABOLITION. FEMINISM. NOW."
-category: "feminist-theory"
+title: ABOLITION. FEMINISM. NOW.
+category: feminist-theory
+tags:
+  - feminism
+  - abolition
 ---
 
 # ABOLITION. FEMINISM. NOW.

@@ -1,6 +1,9 @@
 ---
-title: "26"
-category: "technology-digital-justice"
+title: '26'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 Tao Te Ching - Written by Lao-Tzu A Translation for the PUBLIC DOMAIN by j.h.mcdonald, 1996

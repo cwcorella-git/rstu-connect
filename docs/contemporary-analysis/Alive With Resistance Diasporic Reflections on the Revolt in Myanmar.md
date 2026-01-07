@@ -1,6 +1,8 @@
 ---
-title: "Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar"
-category: "contemporary-analysis"
+title: 'Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar'
+category: contemporary-analysis
+tags:
+  - riots
 ---
 
 ## **Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar**

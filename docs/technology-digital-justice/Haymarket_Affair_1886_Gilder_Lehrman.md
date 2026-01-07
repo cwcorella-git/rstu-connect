@@ -1,6 +1,9 @@
 ---
-title: "The Haymarket Affair, 1886"
-category: "technology-digital-justice"
+title: 'The Haymarket Affair, 1886'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## Introduction

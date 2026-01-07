@@ -1,8 +1,10 @@
 ---
-title: "Remarks on Wittgenstein’s Remarks on Frazer"
-author: "David Graeber"
-date: "2019"
-category: "contemporary-analysis"
+title: Remarks on Wittgenstein’s Remarks on Frazer
+author: David Graeber
+date: '2019'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 *The following essay was prepared for the volume* “The Mythology in Our Language”*—an anthropological response to Wittgenstein’s famous critical commentaries on Sir James Frazer’s* The Golden Bough*, edited by Giovanni da Col and Stephan Palmier. The original conception of the book was to assign roughly 8 of Wittgenstein’s comments, which varied from one line to several pages long, to each of 8 or 9 anthropologists, who would then provide their own commentaries on them. I chose my eight and was the first to complete the task, adding to them an introduction, on the relation of Frazer and Wittgenstein more generally. Apparently the other authors had trouble with the original concept, because eventually, the format seems to have been abandoned and book came out as a fairly run-of-the-mill series of essays. By this time however I had been purged from the project after disagreements with one of the editors on unrelated issues.*

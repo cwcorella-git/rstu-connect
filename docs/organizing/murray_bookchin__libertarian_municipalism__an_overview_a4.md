@@ -1,8 +1,12 @@
 ---
-title: "Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4"
-author: "Murray Bookchin"
-date: "2025"
-category: "organizing"
+title: Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4
+author: Murray Bookchin
+date: '2025'
+category: organizing
+tags:
+  - municipalism
+  - urban
+  - Bookchin
 ---
 
 # Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4

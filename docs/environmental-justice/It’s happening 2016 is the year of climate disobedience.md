@@ -1,6 +1,9 @@
 ---
-title: "It's happening: 2016 is the year of climate disobedience"
-category: "environmental-justice"
+title: 'It''s happening: 2016 is the year of climate disobedience'
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **It's happening: 2016 is the year of climate disobedience**

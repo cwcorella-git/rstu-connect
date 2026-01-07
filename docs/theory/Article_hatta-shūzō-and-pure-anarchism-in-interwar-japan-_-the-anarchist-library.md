@@ -1,8 +1,11 @@
 ---
-title: "Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library"
-author: "John Crump"
-date: "2025"
-category: "theory"
+title: Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library
+author: John Crump
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library

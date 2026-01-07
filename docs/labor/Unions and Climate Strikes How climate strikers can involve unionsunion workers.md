@@ -1,6 +1,12 @@
 ---
-title: "Unions and Climate Strikes: How climate strikers can involve unions/union workers"
-category: "environmental-justice"
+title: >-
+  Unions and Climate Strikes: How climate strikers can involve unions/union
+  workers
+category: environmental-justice
+tags:
+  - unions
+  - labor
+  - environment
 ---
 
 ## **Unions and Climate Strikes: How climate strikers can involve unions/union workers**

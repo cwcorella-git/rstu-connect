@@ -1,6 +1,10 @@
 ---
-title: "ANARCHY in ACTION"
-category: "anti-war-peace"
+title: ANARCHY in ACTION
+category: anti-war-peace
+tags:
+  - anarchism
+  - anti-war
+  - peace
 ---
 
 # ANARCHY in ACTION

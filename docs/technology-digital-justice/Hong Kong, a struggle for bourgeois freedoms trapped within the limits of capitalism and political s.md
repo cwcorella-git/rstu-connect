@@ -1,6 +1,11 @@
 ---
-title: "Hong Kong, a struggle for bourgeois freedoms trapped within the limits of capitalism and politi"
-category: "technology-digital-justice"
+title: >-
+  Hong Kong, a struggle for bourgeois freedoms trapped within the limits of
+  capitalism and politi
+category: technology-digital-justice
+tags:
+  - capitalism
+  - liberty
 ---
 
 ## **Hong Kong, a struggle for bourgeois freedoms trapped within the limits of capitalism and political submission to US/UK imperialism - Mouvement Communiste/Kolektivn**■ **proti Kapit**■**lu**

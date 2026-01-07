@@ -1,6 +1,8 @@
 ---
-title: "The Capitalist Offensive"
-category: "contemporary-analysis"
+title: The Capitalist Offensive
+category: contemporary-analysis
+tags:
+  - capitalism
 ---
 
 ## **The Capitalist Offensive**

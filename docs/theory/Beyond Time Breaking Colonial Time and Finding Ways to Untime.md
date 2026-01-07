@@ -1,6 +1,8 @@
 ---
-title: "Beyond Time: Breaking Colonial Time and Finding Ways to Untime"
-category: "theory"
+title: 'Beyond Time: Breaking Colonial Time and Finding Ways to Untime'
+category: theory
+tags:
+  - theory
 ---
 
 ## **Beyond Time: Breaking Colonial Time and Finding Ways to Untime**

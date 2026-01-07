@@ -1,6 +1,9 @@
 ---
-title: "An Anarchist on Anarchy"
-category: "contemporary-analysis"
+title: An Anarchist on Anarchy
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **An Anarchist on Anarchy**

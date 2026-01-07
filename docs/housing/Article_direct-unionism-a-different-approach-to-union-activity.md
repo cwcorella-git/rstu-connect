@@ -1,8 +1,12 @@
 ---
-title: "Direct Unionism a Different Approach To Union Activity"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "housing"
+title: Direct Unionism a Different Approach To Union Activity
+author: Industrial Workers of the World
+date: '2025'
+category: housing
+tags:
+  - unions
+  - housing
+  - tenants
 ---
 
 # Direct Unionism a Different Approach To Union Activity

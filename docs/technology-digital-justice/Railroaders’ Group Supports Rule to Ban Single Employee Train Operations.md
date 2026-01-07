@@ -1,6 +1,9 @@
 ---
-title: "Railroaders' Group Supports Rule to Ban Single Employee Train Operations"
-category: "technology-digital-justice"
+title: Railroaders' Group Supports Rule to Ban Single Employee Train Operations
+category: technology-digital-justice
+tags:
+  - labor
+  - railroads
 ---
 
 ## **Railroaders' Group Supports Rule to Ban Single Employee Train Operations**

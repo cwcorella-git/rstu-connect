@@ -1,6 +1,8 @@
 ---
-title: "The Ecosocialist Imperative"
-category: "contemporary-analysis"
+title: The Ecosocialist Imperative
+category: contemporary-analysis
+tags:
+  - socialism
 ---
 
 ## **The Ecosocialist Imperative**

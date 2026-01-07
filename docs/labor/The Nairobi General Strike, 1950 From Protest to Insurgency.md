@@ -1,8 +1,12 @@
 ---
-title: "The Nairobi General Strike 1950 From Protest To Insurgency"
-author: "Makhan Singh"
-date: "1940"
-category: "labor"
+title: The Nairobi General Strike 1950 From Protest To Insurgency
+author: Makhan Singh
+date: '1940'
+category: labor
+tags:
+  - general strikes
+  - strikes
+  - protests
 ---
 
 ## **The Nairobi General Strike, 1950: From Protest to Insurgency**

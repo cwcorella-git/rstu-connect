@@ -1,6 +1,10 @@
 ---
-title: "On \"fundamentalism\" in the IWW"
-category: "labor"
+title: On "fundamentalism" in the IWW
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **On "fundamentalism" in the IWW**

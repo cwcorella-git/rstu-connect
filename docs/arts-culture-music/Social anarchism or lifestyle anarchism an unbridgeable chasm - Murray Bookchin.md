@@ -1,6 +1,11 @@
 ---
-title: "Social anarchism or lifestyle anarchism: an unbridgeable chasm - Murray Bookchin"
-category: "arts-culture-music"
+title: >-
+  Social anarchism or lifestyle anarchism: an unbridgeable chasm - Murray
+  Bookchin
+category: arts-culture-music
+tags:
+  - anarchism
+  - Bookchin
 ---
 
 ## **Social anarchism or lifestyle anarchism: an unbridgeable chasm - Murray Bookchin**

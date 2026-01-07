@@ -1,8 +1,12 @@
 ---
-title: "91723 Police Collective Bargaining and Police Violence Final"
-author: "William P. Jones"
-date: "2025"
-category: "abolition"
+title: 91723 Police Collective Bargaining and Police Violence Final
+author: William P. Jones
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # 91723 Police Collective Bargaining and Police Violence Final

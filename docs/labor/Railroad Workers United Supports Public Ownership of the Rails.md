@@ -1,6 +1,9 @@
 ---
-title: "Railroad Workers United Supports Public Ownership of the Rails"
-category: "technology-digital-justice"
+title: Railroad Workers United Supports Public Ownership of the Rails
+category: technology-digital-justice
+tags:
+  - labor
+  - railroads
 ---
 
 ## **Railroad Workers United Supports Public Ownership of the Rails**

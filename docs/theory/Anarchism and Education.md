@@ -1,8 +1,11 @@
 ---
-title: "Anarchism And Education"
-author: "Judith Suissa"
-date: "2006"
-category: "theory"
+title: Anarchism And Education
+author: Judith Suissa
+date: '2006'
+category: theory
+tags:
+  - anarchism
+  - education
 ---
 
 # **Judith Suissa**

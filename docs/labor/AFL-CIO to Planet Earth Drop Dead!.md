@@ -1,6 +1,10 @@
 ---
-title: "AFL-CIO to Planet Earth: Drop Dead!"
-category: "labor"
+title: 'AFL-CIO to Planet Earth: Drop Dead!'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **AFL-CIO to Planet Earth: Drop Dead!**

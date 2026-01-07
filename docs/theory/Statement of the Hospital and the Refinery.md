@@ -1,6 +1,9 @@
 ---
-title: "Statement of the Hospital and the Refinery"
-category: "theory"
+title: Statement of the Hospital and the Refinery
+category: theory
+tags:
+  - healthcare
+  - theory
 ---
 
 ## **Statement of the Hospital and the Refinery**

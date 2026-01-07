@@ -1,8 +1,11 @@
 ---
-title: "Strike Debt Wikipedia"
-author: "David Graeber"
-date: "2025"
-category: "labor"
+title: Strike Debt Wikipedia
+author: David Graeber
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - debt
 ---
 
 # Strike Debt Wikipedia

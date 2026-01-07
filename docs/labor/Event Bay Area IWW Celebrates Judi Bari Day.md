@@ -1,6 +1,10 @@
 ---
-title: "Event: Bay Area IWW Celebrates Judi Bari Day"
-category: "contemporary-analysis"
+title: 'Event: Bay Area IWW Celebrates Judi Bari Day'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **Event: Bay Area IWW Celebrates Judi Bari Day**

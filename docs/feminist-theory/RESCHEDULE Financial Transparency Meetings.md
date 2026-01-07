@@ -1,6 +1,8 @@
 ---
-title: "RESCHEDULE: Financial Transparency Meetings"
-category: "feminist-theory"
+title: 'RESCHEDULE: Financial Transparency Meetings'
+category: feminist-theory
+tags:
+  - feminism
 ---
 
 ## **RESCHEDULE: Financial Transparency Meetings**

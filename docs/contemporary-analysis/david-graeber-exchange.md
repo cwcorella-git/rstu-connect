@@ -1,8 +1,10 @@
 ---
-title: "Exchange"
-author: "David Graeber"
-date: "2010"
-category: "contemporary-analysis"
+title: Exchange
+author: David Graeber
+date: '2010'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 We commonly speak of people “exchanging insults” or “exchanging addresses.” One can also speak of exchanges of letters, prisoners, ideas, or gunfire. These examples appear to have only one thing in common. They are all governed by a principle of reciprocity: there are two parties, each of whom gives and gets the same thing in roughly equal measure. Indeed, the primary definition for *exchange* in the *Oxford English Dictionary* is “the action, or an act, of reciprocal giving and receiving.”

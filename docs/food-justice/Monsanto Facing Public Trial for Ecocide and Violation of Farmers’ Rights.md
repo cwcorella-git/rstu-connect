@@ -1,6 +1,9 @@
 ---
-title: "Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights"
-category: "food-justice"
+title: Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights
+category: food-justice
+tags:
+  - food
+  - justice
 ---
 
 ## **Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights**

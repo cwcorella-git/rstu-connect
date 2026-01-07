@@ -1,6 +1,10 @@
 ---
-title: "Michel Foucault Discipline and Punish The Birth of the Prison"
-category: "contemporary-analysis"
+title: Michel Foucault Discipline and Punish The Birth of the Prison
+category: contemporary-analysis
+tags:
+  - prisons
+  - abolition
+  - police
 ---
 
 # **Michel Foucault Discipline and Punish The Birth of the Prison**

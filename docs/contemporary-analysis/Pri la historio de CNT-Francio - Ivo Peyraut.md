@@ -1,6 +1,8 @@
 ---
-title: "Pri la historio de CNT-Francio - Ivo Peyraut"
-category: "contemporary-analysis"
+title: Pri la historio de CNT-Francio - Ivo Peyraut
+category: contemporary-analysis
+tags:
+  - Los Angeles
 ---
 
 ## **Pri la historio de CNT-Francio - Ivo Peyraut**

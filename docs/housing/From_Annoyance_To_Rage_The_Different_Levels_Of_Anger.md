@@ -1,8 +1,11 @@
 ---
-title: "From Annoyance To Rage: The Different Levels Of Anger"
-author: "Majesty Purvis"
-date: "2025"
-category: "housing"
+title: 'From Annoyance To Rage: The Different Levels Of Anger'
+author: Majesty Purvis
+date: '2025'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # From Annoyance To Rage: The Different Levels Of Anger

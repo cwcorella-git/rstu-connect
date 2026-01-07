@@ -1,6 +1,10 @@
 ---
-title: "Trumka and building trades leaders join bosses, support Dakota Pipeline"
-category: "indigenous-solidarity"
+title: 'Trumka and building trades leaders join bosses, support Dakota Pipeline'
+category: indigenous-solidarity
+tags:
+  - fossil fuels
+  - indigenous
+  - solidarity
 ---
 
 ## **Trumka and building trades leaders join bosses, support Dakota Pipeline**

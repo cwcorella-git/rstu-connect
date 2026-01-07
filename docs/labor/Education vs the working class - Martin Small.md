@@ -1,6 +1,9 @@
 ---
-title: "Education vs the working class - Martin Small"
-category: "labor"
+title: Education vs the working class - Martin Small
+category: labor
+tags:
+  - education
+  - class
 ---
 
 ## **Education vs the working class - Martin Small**

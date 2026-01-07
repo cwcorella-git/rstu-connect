@@ -1,6 +1,10 @@
 ---
-title: "DC IWW Resolution on Standing Rock"
-category: "environmental-justice"
+title: DC IWW Resolution on Standing Rock
+category: environmental-justice
+tags:
+  - unions
+  - environment
+  - climate
 ---
 
 ## **DC IWW Resolution on Standing Rock**

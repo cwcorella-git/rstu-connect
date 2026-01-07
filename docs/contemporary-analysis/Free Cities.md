@@ -1,6 +1,9 @@
 ---
-title: "Murray Bookchin"
-category: "contemporary-analysis"
+title: Murray Bookchin
+category: contemporary-analysis
+tags:
+  - urban
+  - Bookchin
 ---
 
 # **Murray Bookchin**

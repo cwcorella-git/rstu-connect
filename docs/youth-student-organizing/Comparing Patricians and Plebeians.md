@@ -1,6 +1,12 @@
 ---
-title: "## [studentsofhistory.com](https://www.studentsofhistory.com/comparing-patricians-plebeians)"
-category: "contemporary-analysis"
+title: >-
+  ##
+  [studentsofhistory.com](https://www.studentsofhistory.com/comparing-patricians-plebeians)
+category: contemporary-analysis
+tags:
+  - education
+  - students
+  - youth
 ---
 
 ## [studentsofhistory.com](https://www.studentsofhistory.com/comparing-patricians-plebeians)

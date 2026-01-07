@@ -1,6 +1,10 @@
 ---
-title: "Turkish miners: Soma workers murdered for profits"
-category: "environmental-justice"
+title: 'Turkish miners: Soma workers murdered for profits'
+category: environmental-justice
+tags:
+  - labor
+  - environment
+  - climate
 ---
 
 ## **Turkish miners: Soma workers murdered for profits**

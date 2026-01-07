@@ -1,6 +1,8 @@
 ---
-title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Centralized_government)"
-category: "theory"
+title: '## [en.wikipedia.org](https://en.wikipedia.org/wiki/Centralized_government)'
+category: theory
+tags:
+  - theory
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Centralized_government)

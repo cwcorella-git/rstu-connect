@@ -1,6 +1,9 @@
 ---
-title: "Earth Strike Ireland Rising"
-category: "arts-culture-music"
+title: Earth Strike Ireland Rising
+category: arts-culture-music
+tags:
+  - strikes
+  - Ireland
 ---
 
 ## **Earth Strike Ireland Rising**

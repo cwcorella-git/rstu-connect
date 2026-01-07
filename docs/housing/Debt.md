@@ -1,8 +1,12 @@
 ---
-title: "Debt: The First 5,000 Years"
-author: "Wayne Price"
-date: "2012"
-category: "housing"
+title: 'Debt: The First 5,000 Years'
+author: Wayne Price
+date: '2012'
+category: housing
+tags:
+  - debt
+  - housing
+  - tenants
 ---
 
 ## **David Graeber**

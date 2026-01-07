@@ -1,8 +1,10 @@
 ---
-title: "Autobiography"
-author: "David Graeber"
-date: "2018"
-category: "contemporary-analysis"
+title: Autobiography
+author: David Graeber
+date: '2018'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 I was born and raised in New York, the child of Kenneth Graeber, a plate stripper (offset photolithography), originally from Kansas, who had fought with the International Brigades in the Spanish Civil War, and Ruth (Rubinstein) Graeber, born in Poland, a garment worker and home-maker who had been the female lead in the 1930s Labor Stage musical, “Pins & Needles”.

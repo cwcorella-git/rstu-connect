@@ -1,6 +1,8 @@
 ---
-title: "Do solidarity unions need to 'go public'?"
-category: "contemporary-analysis"
+title: Do solidarity unions need to 'go public'?
+category: contemporary-analysis
+tags:
+  - solidarity
 ---
 
 ## **Do solidarity unions need to 'go public'?**

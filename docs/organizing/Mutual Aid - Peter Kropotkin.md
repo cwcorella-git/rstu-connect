@@ -1,8 +1,11 @@
 ---
-title: "Mutual Aid: A Factor of Evolution"
-author: "Peter Kropotkin"
-date: "1883"
-category: "theory"
+title: 'Mutual Aid: A Factor of Evolution'
+author: Peter Kropotkin
+date: '1883'
+category: theory
+tags:
+  - mutual aid
+  - Kropotkin
 ---
 
 # **Mutual Aid: A Factor of Evolution By Peter Kropotkin**

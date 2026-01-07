@@ -1,6 +1,9 @@
 ---
-title: "The Ends of Class War - Mark S. Tey"
-category: "anti-war-peace"
+title: The Ends of Class War - Mark S. Tey
+category: anti-war-peace
+tags:
+  - anti-war
+  - class
 ---
 
 ## **The Ends of Class War - Mark S. Tey**

@@ -1,8 +1,12 @@
 ---
-title: "Towards a Revolutionary Union Movement"
-author: "Angry Education Workers"
-date: "2025"
-category: "labor"
+title: Towards a Revolutionary Union Movement
+author: Angry Education Workers
+date: '2025'
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 # Towards a Revolutionary Union Movement

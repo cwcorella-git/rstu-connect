@@ -1,8 +1,11 @@
 ---
-title: "Anarchist Black Cross News Black Flag"
-author: "Albert Meltzer"
-date: "2025"
-category: "theory"
+title: Anarchist Black Cross News Black Flag
+author: Albert Meltzer
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 # Anarchist Black Cross News Black Flag

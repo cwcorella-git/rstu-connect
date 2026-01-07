@@ -1,6 +1,12 @@
 ---
-title: "Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini"
-category: "feminist-theory"
+title: >-
+  Interview: Iranian Anarchists on Protests in Response to Police Murder of
+  Mahsa Amini
+category: feminist-theory
+tags:
+  - protests
+  - anarchism
+  - police
 ---
 
 ## **Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini**

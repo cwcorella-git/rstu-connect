@@ -1,6 +1,12 @@
 ---
-title: "Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest"
-category: "environmental-justice"
+title: >-
+  Defending Abundance Everywhere: A Call to Every Community from the Weelaunee
+  Forest
+category: environmental-justice
+tags:
+  - community
+  - environment
+  - climate
 ---
 
 # **Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest**

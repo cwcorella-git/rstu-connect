@@ -1,6 +1,8 @@
 ---
-title: "Networked socialism: back to the future"
-category: "contemporary-analysis"
+title: 'Networked socialism: back to the future'
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 ## **Networked socialism: back to the future**

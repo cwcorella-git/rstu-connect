@@ -1,8 +1,11 @@
 ---
-title: "Occupy Wall Street rediscovers the radical imagination"
-author: "David Graeber"
-date: "25<sup>th</sup> September 2011"
-category: "contemporary-analysis"
+title: Occupy Wall Street rediscovers the radical imagination
+author: David Graeber
+date: 25<sup>th</sup> September 2011
+category: contemporary-analysis
+tags:
+  - occupations
+  - Graeber
 ---
 
 Why are people occupying Wall Street? Why has the occupation – despite the latest police crackdown – sent out sparks across America, within days, inspiring hundreds of people to send pizzas, money, equipment and, now, to start their own movements called OccupyChicago, OccupyFlorida, in OccupyDenver or OccupyLA?

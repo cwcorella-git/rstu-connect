@@ -1,6 +1,10 @@
 ---
-title: "Solidarity and Class War meet uptown – Andy Brown"
-category: "anti-war-peace"
+title: Solidarity and Class War meet uptown – Andy Brown
+category: anti-war-peace
+tags:
+  - solidarity
+  - anti-war
+  - class
 ---
 
 ## **Solidarity and Class War meet uptown – Andy Brown**

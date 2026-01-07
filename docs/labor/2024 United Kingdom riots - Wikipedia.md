@@ -1,8 +1,11 @@
 ---
-title: "2024 United Kingdom"
-author: "Riots Wikipedia"
-date: "2011"
-category: "labor"
+title: 2024 United Kingdom
+author: Riots Wikipedia
+date: '2011'
+category: labor
+tags:
+  - riots
+  - United Kingdom
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/2024_United_Kingdom_riots)

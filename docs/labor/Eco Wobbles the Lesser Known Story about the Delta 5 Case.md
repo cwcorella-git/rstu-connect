@@ -1,6 +1,10 @@
 ---
-title: "Eco Wobbles: the Lesser Known Story about the Delta 5 Case"
-category: "contemporary-analysis"
+title: 'Eco Wobbles: the Lesser Known Story about the Delta 5 Case'
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **Eco Wobbles: the Lesser Known Story about the Delta 5 Case**

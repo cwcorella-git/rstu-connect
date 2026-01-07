@@ -1,6 +1,8 @@
 ---
-title: "BRIEF HISTORY EQUALITY THOMAS PIKETTY"
-category: "contemporary-analysis"
+title: BRIEF HISTORY EQUALITY THOMAS PIKETTY
+category: contemporary-analysis
+tags:
+  - United Kingdom
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

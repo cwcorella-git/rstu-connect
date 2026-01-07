@@ -1,6 +1,10 @@
 ---
-title: "Beating the Climate Clock: Workers, citizens and state action in the UK"
-category: "labor"
+title: 'Beating the Climate Clock: Workers, citizens and state action in the UK'
+category: labor
+tags:
+  - labor
+  - environment
+  - United Kingdom
 ---
 
 # **Beating the Climate Clock: Workers, citizens and state action in the UK**

@@ -1,8 +1,12 @@
 ---
-title: "In This Moment Labor Must Become"
-author: "Industrial Workers of the World"
-date: "2016"
-category: "theory"
+title: In This Moment Labor Must Become
+author: Industrial Workers of the World
+date: '2016'
+category: theory
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **In This Moment, Labor Must Become a Movement**

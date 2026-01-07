@@ -1,6 +1,10 @@
 ---
-title: "to Columbia's undergraduates (and students everywhere): HOLD THE LINE."
-category: "youth-student-organizing"
+title: 'to Columbia''s undergraduates (and students everywhere): HOLD THE LINE.'
+category: youth-student-organizing
+tags:
+  - education
+  - students
+  - youth
 ---
 
 ## **to Columbia's undergraduates (and students everywhere): HOLD THE LINE.**

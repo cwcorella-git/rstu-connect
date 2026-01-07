@@ -1,6 +1,9 @@
 ---
-title: "Russian anti-war attackers need your help!"
-category: "international-solidarity"
+title: Russian anti-war attackers need your help!
+category: international-solidarity
+tags:
+  - anti-war
+  - Russia
 ---
 
 ## **Russian anti-war attackers need your help!**

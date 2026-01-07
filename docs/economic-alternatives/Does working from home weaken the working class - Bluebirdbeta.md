@@ -1,6 +1,10 @@
 ---
-title: "Does working from home weaken the working class? - Bluebirdbeta"
-category: "economic-alternatives"
+title: Does working from home weaken the working class? - Bluebirdbeta
+category: economic-alternatives
+tags:
+  - class
+  - economics
+  - alternatives
 ---
 
 ## **Does working from home weaken the working class? - Bluebirdbeta**

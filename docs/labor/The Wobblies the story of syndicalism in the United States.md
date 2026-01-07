@@ -1,6 +1,9 @@
 ---
-title: "The Wobblies: the story of syndicalism in the United States"
-category: "contemporary-analysis"
+title: 'The Wobblies: the story of syndicalism in the United States'
+category: contemporary-analysis
+tags:
+  - unions
+  - syndicalism
 ---
 
 ## **The Wobblies: the story of syndicalism in the United States**

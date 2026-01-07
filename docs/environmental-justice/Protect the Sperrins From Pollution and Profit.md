@@ -1,6 +1,9 @@
 ---
-title: "Protect the Sperrins From Pollution and Profit"
-category: "environmental-justice"
+title: Protect the Sperrins From Pollution and Profit
+category: environmental-justice
+tags:
+  - environment
+  - climate
 ---
 
 ## **Protect the Sperrins From Pollution and Profit**

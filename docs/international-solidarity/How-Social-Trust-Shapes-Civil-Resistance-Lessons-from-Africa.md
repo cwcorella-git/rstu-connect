@@ -1,6 +1,9 @@
 ---
-title: "How Social Trust Shapes Civil Resistance"
-category: "international-solidarity"
+title: How Social Trust Shapes Civil Resistance
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 ## ICNC MONOGRAPH SERIES

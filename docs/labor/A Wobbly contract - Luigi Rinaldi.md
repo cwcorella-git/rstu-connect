@@ -1,6 +1,10 @@
 ---
-title: "A Wobbly contract - Luigi Rinaldi"
-category: "labor"
+title: A Wobbly contract - Luigi Rinaldi
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **A Wobbly contract - Luigi Rinaldi**

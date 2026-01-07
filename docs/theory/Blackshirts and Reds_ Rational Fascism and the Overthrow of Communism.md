@@ -1,6 +1,8 @@
 ---
-title: "BLACKSHIRTS &"
-category: "contemporary-analysis"
+title: BLACKSHIRTS &
+category: contemporary-analysis
+tags:
+  - theory
 ---
 
 ## MICHAEL PARENTI

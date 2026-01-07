@@ -1,8 +1,11 @@
 ---
-title: "Dog Section Press 2021 Abolishing the Police"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: Dog Section Press 2021 Abolishing the Police
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
 ---
 
 # Dog Section Press 2021 Abolishing the Police

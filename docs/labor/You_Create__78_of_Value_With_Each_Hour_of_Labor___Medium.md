@@ -1,8 +1,12 @@
 ---
-title: "You Create $78 of Value With Each Hour of Labor: Medium"
-author: "Shubhransh Rai"
-date: "2021"
-category: "labor"
+title: 'You Create $78 of Value With Each Hour of Labor: Medium'
+author: Shubhransh Rai
+date: '2021'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 # You Create $78 of Value With Each Hour of Labor _ Medium.pdf

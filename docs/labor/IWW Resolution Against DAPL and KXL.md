@@ -1,6 +1,10 @@
 ---
-title: "IWW Resolution Against DAPL and KXL"
-category: "labor"
+title: IWW Resolution Against DAPL and KXL
+category: labor
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **IWW Resolution Against DAPL and KXL**

@@ -1,6 +1,8 @@
 ---
-title: "ESCAPE FOR CHILDHOOD"
-category: "theory"
+title: ESCAPE FOR CHILDHOOD
+category: theory
+tags:
+  - theory
 ---
 
 # ESCAPE FOR CHILDHOOD

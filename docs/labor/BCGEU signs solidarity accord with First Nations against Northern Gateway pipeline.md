@@ -1,6 +1,11 @@
 ---
-title: "BCGEU signs solidarity accord with First Nations against Northern Gateway pipeline"
-category: "labor"
+title: >-
+  BCGEU signs solidarity accord with First Nations against Northern Gateway
+  pipeline
+category: labor
+tags:
+  - solidarity
+  - fossil fuels
 ---
 
 ## **BCGEU signs solidarity accord with First Nations against Northern Gateway pipeline**

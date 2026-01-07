@@ -1,8 +1,13 @@
 ---
-title: "1983 85 Bolivian Protests And Strikes Defeat President"
-author: "General Cayoja"
-date: "1983"
-category: "labor"
+title: 1983 85 Bolivian Protests And Strikes Defeat President
+author: General Cayoja
+date: '1983'
+category: labor
+tags:
+  - protests
+  - labor
+  - unions
+  - workers
 ---
 
 ## **1983-85: Bolivian Protests and Strikes Defeat President**

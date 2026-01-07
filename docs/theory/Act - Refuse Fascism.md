@@ -1,6 +1,8 @@
 ---
-title: "## [refusefascism.org](https://refusefascism.org/act/)"
-category: "theory"
+title: '## [refusefascism.org](https://refusefascism.org/act/)'
+category: theory
+tags:
+  - theory
 ---
 
 ## [refusefascism.org](https://refusefascism.org/act/)

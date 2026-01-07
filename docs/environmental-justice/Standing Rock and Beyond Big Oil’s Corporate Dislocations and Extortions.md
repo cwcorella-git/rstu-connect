@@ -1,6 +1,10 @@
 ---
-title: "Standing Rock and Beyond: Big Oil's Corporate Dislocations and Extortions"
-category: "environmental-justice"
+title: 'Standing Rock and Beyond: Big Oil''s Corporate Dislocations and Extortions'
+category: environmental-justice
+tags:
+  - fossil fuels
+  - environment
+  - climate
 ---
 
 ## **Standing Rock and Beyond: Big Oil's Corporate Dislocations and Extortions**

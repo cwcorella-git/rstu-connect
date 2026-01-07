@@ -1,6 +1,11 @@
 ---
-title: "Comitês de ação dos trabalhadores e estudantes. França, maio de 68 - Roger Gregoire & Fredy Per"
-category: "technology-digital-justice"
+title: >-
+  Comitês de ação dos trabalhadores e estudantes. França, maio de 68 - Roger
+  Gregoire & Fredy Per
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Comitês de ação dos trabalhadores e estudantes. França, maio de 68 - Roger Gregoire & Fredy Perlman**

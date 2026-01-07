@@ -1,8 +1,11 @@
 ---
-title: "Abolition Democracy Angela"
-author: "Angela Y. Davis"
-date: "1997"
-category: "abolition"
+title: Abolition Democracy Angela
+author: Angela Y. Davis
+date: '1997'
+category: abolition
+tags:
+  - abolition
+  - democracy
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

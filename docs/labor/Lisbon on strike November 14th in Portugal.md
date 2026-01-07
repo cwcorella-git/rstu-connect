@@ -1,6 +1,11 @@
 ---
-title: "Lisbon on strike: November 14th in Portugal"
-category: "contemporary-analysis"
+title: 'Lisbon on strike: November 14th in Portugal'
+category: contemporary-analysis
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Lisbon on strike: November 14th in Portugal**

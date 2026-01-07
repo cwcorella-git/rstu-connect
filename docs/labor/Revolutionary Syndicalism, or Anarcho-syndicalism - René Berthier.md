@@ -1,6 +1,9 @@
 ---
-title: "Revolutionary Syndicalism, or Anarcho-syndicalism - René Berthier"
-category: "theory"
+title: 'Revolutionary Syndicalism, or Anarcho-syndicalism - René Berthier'
+category: theory
+tags:
+  - anarchism
+  - syndicalism
 ---
 
 ## **Revolutionary Syndicalism, or Anarcho-syndicalism - René Berthier**

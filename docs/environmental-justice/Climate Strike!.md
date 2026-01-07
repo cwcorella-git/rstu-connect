@@ -1,6 +1,9 @@
 ---
-title: "Climate Strike!"
-category: "environmental-justice"
+title: Climate Strike!
+category: environmental-justice
+tags:
+  - strikes
+  - environment
 ---
 
 ## **Climate Strike!**

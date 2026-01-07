@@ -1,6 +1,8 @@
 ---
-title: "The Hidden Injuries of Theory - Tom Jennings"
-category: "theory"
+title: The Hidden Injuries of Theory - Tom Jennings
+category: theory
+tags:
+  - theory
 ---
 
 ## **The Hidden Injuries of Theory - Tom Jennings**

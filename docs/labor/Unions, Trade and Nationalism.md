@@ -1,6 +1,10 @@
 ---
-title: "Unions, Trade and Nationalism"
-category: "labor"
+title: 'Unions, Trade and Nationalism'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Unions, Trade and Nationalism**

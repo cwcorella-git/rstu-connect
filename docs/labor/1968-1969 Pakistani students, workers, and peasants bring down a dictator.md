@@ -1,8 +1,11 @@
 ---
-title: "1968 1969 Pakistani Students Workers And Peasants Bring Down A Dictator"
-author: "Global Nonviolent Action Database"
-date: "1968"
-category: "labor"
+title: 1968 1969 Pakistani Students Workers And Peasants Bring Down A Dictator
+author: Global Nonviolent Action Database
+date: '1968'
+category: labor
+tags:
+  - labor
+  - education
 ---
 
 ## **1968-1969: Pakistani students, workers, and peasants bring down a dictator**

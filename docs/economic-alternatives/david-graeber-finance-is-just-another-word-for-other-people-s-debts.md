@@ -1,8 +1,12 @@
 ---
-title: "Finance Is Just Another Word for Other People’s Debts"
-author: "David Graeber"
-date: "Winter 2014"
-category: "economic-alternatives"
+title: Finance Is Just Another Word for Other People’s Debts
+author: David Graeber
+date: Winter 2014
+category: economic-alternatives
+tags:
+  - Graeber
+  - economics
+  - alternatives
 ---
 
 Odd things happened in fall 2011 as Occupy Wall Street began to inhabit downtown Manhattan. People rode the subway carrying signs that touted the merits of the Glass-Steagall Act; they started sidewalk conversations about corporate person-hood and about the social purpose of derivatives. Legislation, legal precedent, and financial products that had once been obscure emerged in public in new ways.

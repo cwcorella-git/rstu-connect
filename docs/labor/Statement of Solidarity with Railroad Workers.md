@@ -1,6 +1,10 @@
 ---
-title: "Statement of Solidarity with Railroad Workers"
-category: "technology-digital-justice"
+title: Statement of Solidarity with Railroad Workers
+category: technology-digital-justice
+tags:
+  - solidarity
+  - labor
+  - railroads
 ---
 
 ## **Statement of Solidarity with Railroad Workers**

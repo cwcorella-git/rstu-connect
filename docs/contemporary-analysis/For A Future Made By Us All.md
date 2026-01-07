@@ -1,6 +1,8 @@
 ---
-title: "Rebel City London"
-category: "contemporary-analysis"
+title: Rebel City London
+category: contemporary-analysis
+tags:
+  - urban
 ---
 
 # **Rebel City London**

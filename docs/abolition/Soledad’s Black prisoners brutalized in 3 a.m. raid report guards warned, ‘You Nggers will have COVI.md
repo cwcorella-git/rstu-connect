@@ -1,6 +1,12 @@
 ---
-title: "Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You N*ggers will ha"
-category: "abolition"
+title: >-
+  Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You
+  N*ggers will ha
+category: abolition
+tags:
+  - prisons
+  - abolition
+  - police
 ---
 
 ## **Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You N\*ggers will have COVID-19!'**

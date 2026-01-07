@@ -1,6 +1,10 @@
 ---
-title: "Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative Ocean Farmer"
-category: "arts-culture-music"
+title: >-
+  Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative
+  Ocean Farmer
+category: arts-culture-music
+tags:
+  - food
 ---
 
 ## **Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative Ocean Farmer**

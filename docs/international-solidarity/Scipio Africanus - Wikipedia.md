@@ -1,6 +1,9 @@
 ---
-title: "Scipio Africanus"
-category: "international-solidarity"
+title: Scipio Africanus
+category: international-solidarity
+tags:
+  - international
+  - solidarity
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Scipio_Africanus)

@@ -1,6 +1,9 @@
 ---
-title: "Against His-story, Against Leviathan"
-category: "technology-digital-justice"
+title: 'Against His-story, Against Leviathan'
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 # **Against His-story, Against Leviathan**

@@ -1,6 +1,10 @@
 ---
-title: "Direct Action in the Motor City: Restaurant Workers Fight Back"
-category: "contemporary-analysis"
+title: 'Direct Action in the Motor City: Restaurant Workers Fight Back'
+category: contemporary-analysis
+tags:
+  - direct action
+  - labor
+  - urban
 ---
 
 ## **Direct Action in the Motor City: Restaurant Workers Fight Back**

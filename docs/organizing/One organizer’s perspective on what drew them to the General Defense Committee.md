@@ -1,6 +1,8 @@
 ---
-title: "One organizer's perspective on what drew them to the General Defense Committee"
-category: "organizing"
+title: One organizer's perspective on what drew them to the General Defense Committee
+category: organizing
+tags:
+  - organizing
 ---
 
 ## **One organizer's perspective on what drew them to the General Defense Committee**

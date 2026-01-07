@@ -1,6 +1,8 @@
 ---
-title: "Jeff Shantz"
-category: "contemporary-analysis"
+title: Jeff Shantz
+category: contemporary-analysis
+tags:
+  - anarchism
 ---
 
 # **Jeff Shantz**

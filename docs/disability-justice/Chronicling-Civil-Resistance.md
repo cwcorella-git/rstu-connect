@@ -1,6 +1,9 @@
 ---
-title: "CHRONICLING CIVIL RESISTANCE"
-category: "disability-justice"
+title: CHRONICLING CIVIL RESISTANCE
+category: disability-justice
+tags:
+  - disability
+  - justice
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

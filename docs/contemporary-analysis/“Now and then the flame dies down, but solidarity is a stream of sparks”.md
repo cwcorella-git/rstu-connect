@@ -1,6 +1,9 @@
 ---
-title: "'Now and then the flame dies down, but solidarity is a stream of sparks'"
-category: "contemporary-analysis"
+title: '''Now and then the flame dies down, but solidarity is a stream of sparks'''
+category: contemporary-analysis
+tags:
+  - solidarity
+  - Nevada
 ---
 
 ## **"Now and then the flame dies down, but solidarity is a stream of sparks"**

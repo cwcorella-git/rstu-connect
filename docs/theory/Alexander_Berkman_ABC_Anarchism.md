@@ -1,6 +1,9 @@
 ---
-title: "ABC of Anarchism"
-category: "contemporary-analysis"
+title: ABC of Anarchism
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Berkman
 ---
 
 ## Alexander Berkman

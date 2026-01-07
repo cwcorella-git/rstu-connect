@@ -1,8 +1,12 @@
 ---
-title: "Indigenous Property Rights And The Dakota Access Pipeline"
-author: "Industrial Workers of the World"
-date: "2016"
-category: "housing"
+title: Indigenous Property Rights And The Dakota Access Pipeline
+author: Industrial Workers of the World
+date: '2016'
+category: housing
+tags:
+  - indigenous
+  - property
+  - fossil fuels
 ---
 
 ## **Indigenous Property Rights and the Dakota Access Pipeline**

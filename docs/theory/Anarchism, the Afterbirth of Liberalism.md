@@ -1,8 +1,11 @@
 ---
-title: "Anarchism The Afterbirth Of Liberalism"
-author: "Max Stirner"
-date: "1880"
-category: "theory"
+title: Anarchism The Afterbirth Of Liberalism
+author: Max Stirner
+date: '1880'
+category: theory
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Anarchism, the Afterbirth of Liberalism**

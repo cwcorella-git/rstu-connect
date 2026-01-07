@@ -1,6 +1,9 @@
 ---
-title: "Anarchism and Spycops – Dave Morris"
-category: "contemporary-analysis"
+title: Anarchism and Spycops – Dave Morris
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 ## **Anarchism and Spycops – Dave Morris**

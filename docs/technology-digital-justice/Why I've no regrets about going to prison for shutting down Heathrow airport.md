@@ -1,6 +1,10 @@
 ---
-title: "Why I've no regrets about going to prison for shutting down Heathrow airport"
-category: "technology-digital-justice"
+title: Why I've no regrets about going to prison for shutting down Heathrow airport
+category: technology-digital-justice
+tags:
+  - prisons
+  - technology
+  - digital rights
 ---
 
 ## **Why I've no regrets about going to prison for shutting down Heathrow airport**

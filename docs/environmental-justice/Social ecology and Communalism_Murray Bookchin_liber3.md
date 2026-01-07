@@ -1,8 +1,11 @@
 ---
-title: "Social Ecology And Communalism Murray Bookchin Liber3"
-author: "Eirik Eiglad"
-date: "2007"
-category: "theory"
+title: Social Ecology And Communalism Murray Bookchin Liber3
+author: Eirik Eiglad
+date: '2007'
+category: theory
+tags:
+  - environment
+  - Bookchin
 ---
 
 ## **Murray Bookchin**

@@ -1,8 +1,11 @@
 ---
-title: "You Say You Want a General Strike"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: You Say You Want a General Strike
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # You Say You Want a General Strike

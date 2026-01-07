@@ -1,6 +1,11 @@
 ---
-title: "Water Protector Activists telling the story of the Pipeline Access Protest in Iowa!"
-category: "environmental-justice"
+title: >-
+  Water Protector Activists telling the story of the Pipeline Access Protest in
+  Iowa!
+category: environmental-justice
+tags:
+  - protests
+  - fossil fuels
 ---
 
 ## **Water Protector Activists telling the story of the Pipeline Access Protest in Iowa!**

@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "unknown author"
-date: "2025"
-category: "housing"
+title: '>-'
+author: unknown author
+date: '2025'
+category: housing
+tags:
+  - Ukraine
+  - Russia
 ---
 
 # Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different Sector

@@ -1,6 +1,12 @@
 ---
-title: "Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize"
-category: "labor"
+title: >-
+  Engineers and Technicians at Nitricity Inc., a leader in fertilizer
+  production, unionize
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize**

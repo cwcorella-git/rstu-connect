@@ -1,6 +1,9 @@
 ---
-title: "Part One—Theoretical Foundations: Value Theory"
-category: "economic-alternatives"
+title: 'Part One—Theoretical Foundations: Value Theory'
+category: economic-alternatives
+tags:
+  - economics
+  - alternatives
 ---
 
 ### **Studies in Mutualist Political Economy**

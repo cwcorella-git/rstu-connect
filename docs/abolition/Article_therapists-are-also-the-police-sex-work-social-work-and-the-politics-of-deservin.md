@@ -1,8 +1,12 @@
 ---
-title: ">-"
-author: "Unknown"
-date: "2025"
-category: "abolition"
+title: '>-'
+author: Unknown
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # Therapists Are Also the Police Sex Work Social Work and the Politics of Deservin

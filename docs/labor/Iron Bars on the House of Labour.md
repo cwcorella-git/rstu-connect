@@ -1,6 +1,10 @@
 ---
-title: "Iron Bars on the House of Labour"
-category: "contemporary-analysis"
+title: Iron Bars on the House of Labour
+category: contemporary-analysis
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 ## **Iron Bars on the House of Labour**

@@ -1,6 +1,10 @@
 ---
-title: "Dimock families win water contamination case against Cabot Oil & Gas"
-category: "environmental-justice"
+title: Dimock families win water contamination case against Cabot Oil & Gas
+category: environmental-justice
+tags:
+  - fossil fuels
+  - environment
+  - climate
 ---
 
 ## **Dimock families win water contamination case against Cabot Oil & Gas**

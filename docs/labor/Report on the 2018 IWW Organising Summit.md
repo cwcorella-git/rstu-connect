@@ -1,6 +1,10 @@
 ---
-title: "Report on the 2018 IWW Organising Summit"
-category: "contemporary-analysis"
+title: Report on the 2018 IWW Organising Summit
+category: contemporary-analysis
+tags:
+  - unions
+  - labor
+  - workers
 ---
 
 ## **Report on the 2018 IWW Organising Summit**

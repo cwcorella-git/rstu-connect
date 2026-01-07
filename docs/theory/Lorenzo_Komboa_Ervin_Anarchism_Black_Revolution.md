@@ -1,6 +1,9 @@
 ---
-title: "Anarchism and the Black Revolution"
-category: "contemporary-analysis"
+title: Anarchism and the Black Revolution
+category: contemporary-analysis
+tags:
+  - anarchism
+  - theory
 ---
 
 # **Anarchism and the Black Revolution**

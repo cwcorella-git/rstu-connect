@@ -1,8 +1,12 @@
 ---
-title: "Fountain Slavery and the Origins of the American Police State"
-author: "Ben Fountain"
-date: "2025"
-category: "abolition"
+title: Fountain Slavery and the Origins of the American Police State
+author: Ben Fountain
+date: '2025'
+category: abolition
+tags:
+  - police
+  - abolition
+  - prisons
 ---
 
 # Fountain Slavery and the Origins of the American Police State

@@ -1,8 +1,11 @@
 ---
-title: "Escape From Childhood - John Holt"
-author: "John Holt"
-date: "2025"
-category: "housing"
+title: Escape From Childhood - John Holt
+author: John Holt
+date: '2025'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # Escape From Childhood John Holt Undifferentiated John Caldwell Holt John Holt Se

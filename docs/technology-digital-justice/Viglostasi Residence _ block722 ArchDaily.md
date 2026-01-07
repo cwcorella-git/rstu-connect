@@ -1,6 +1,9 @@
 ---
-title: "Viglostasi Residence / block722"
-category: "technology-digital-justice"
+title: Viglostasi Residence / block722
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 #### [archdaily.com](https://www.archdaily.com/1004405/viglostasi-residence-block722)

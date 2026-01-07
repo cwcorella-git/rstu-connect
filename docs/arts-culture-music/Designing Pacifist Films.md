@@ -1,6 +1,8 @@
 ---
-title: "Paul Goodman"
-category: "arts-culture-music"
+title: Paul Goodman
+category: arts-culture-music
+tags:
+  - anti-war
 ---
 
 # **Paul Goodman**

@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Industrial Workers of the World"
-date: "2025"
-category: "labor"
+title: '>-'
+author: Industrial Workers of the World
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - gig economy
 ---
 
 # Deliveroo Riders Strike Back Against Cuts To Shifts In London Leeds And Nottingh

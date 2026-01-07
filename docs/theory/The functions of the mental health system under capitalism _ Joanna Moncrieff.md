@@ -1,6 +1,9 @@
 ---
-title: "The functions of the mental health system under capitalism"
-category: "theory"
+title: The functions of the mental health system under capitalism
+category: theory
+tags:
+  - healthcare
+  - capitalism
 ---
 
 ## [Joanna Moncrieff](https://joannamoncrieff.com/)

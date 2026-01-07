@@ -1,6 +1,8 @@
 ---
-title: "Donna Haraway"
-category: "theory"
+title: Donna Haraway
+category: theory
+tags:
+  - theory
 ---
 
 # **Donna Haraway**

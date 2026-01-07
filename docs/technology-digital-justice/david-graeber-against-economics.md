@@ -1,8 +1,12 @@
 ---
-title: "Against Economics"
-author: "David Graeber"
-date: "December 5, 2019"
-category: "technology-digital-justice"
+title: Against Economics
+author: David Graeber
+date: 'December 5, 2019'
+category: technology-digital-justice
+tags:
+  - Graeber
+  - technology
+  - digital rights
 ---
 
 There is a growing feeling, among those who have the responsibility of managing large economies, that the discipline of economics is no longer fit for purpose. It is beginning to look like a science designed to solve problems that no longer exist.

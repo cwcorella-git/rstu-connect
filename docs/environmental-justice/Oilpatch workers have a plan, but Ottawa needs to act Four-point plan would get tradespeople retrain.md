@@ -1,6 +1,11 @@
 ---
-title: "Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would get tradespeople r"
-category: "environmental-justice"
+title: >-
+  Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would
+  get tradespeople r
+category: environmental-justice
+tags:
+  - labor
+  - fossil fuels
 ---
 
 ## **Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would get tradespeople retrained and back to work in clean energy**

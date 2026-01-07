@@ -1,6 +1,9 @@
 ---
-title: "Swedish syndicalism – An outline of its ideology and practice"
-category: "contemporary-analysis"
+title: Swedish syndicalism – An outline of its ideology and practice
+category: contemporary-analysis
+tags:
+  - syndicalism
+  - Sweden
 ---
 
 ## **Swedish syndicalism – An outline of its ideology and practice**

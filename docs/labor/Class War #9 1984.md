@@ -1,6 +1,9 @@
 ---
-title: "Class War #9 1984"
-category: "labor"
+title: 'Class War #9 1984'
+category: labor
+tags:
+  - anti-war
+  - class
 ---
 
 ## **Class War #9 1984**

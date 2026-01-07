@@ -1,6 +1,11 @@
 ---
-title: "Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'"
-category: "youth-student-organizing"
+title: >-
+  Strike in West London: Richmond upon Thames College staff fight 'Fire and
+  Rehire'
+category: youth-student-organizing
+tags:
+  - strikes
+  - education
 ---
 
 ## **Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'**

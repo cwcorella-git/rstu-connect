@@ -1,6 +1,10 @@
 ---
-title: "'Black' anger shakes the rotten pillars of bourgeois and democratic 'civilization' - Bordiga, 1"
-category: "contemporary-analysis"
+title: >-
+  'Black' anger shakes the rotten pillars of bourgeois and democratic
+  'civilization' - Bordiga, 1
+category: contemporary-analysis
+tags:
+  - democracy
 ---
 
 ## **"Black" anger shakes the rotten pillars of bourgeois and democratic "civilization" - Bordiga, 1965**

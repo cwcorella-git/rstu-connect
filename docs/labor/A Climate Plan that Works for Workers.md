@@ -1,6 +1,9 @@
 ---
-title: "A Climate Plan that Works for Workers"
-category: "labor"
+title: A Climate Plan that Works for Workers
+category: labor
+tags:
+  - labor
+  - environment
 ---
 
 ## **A Climate Plan that Works for Workers**

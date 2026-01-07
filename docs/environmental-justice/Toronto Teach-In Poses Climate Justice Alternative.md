@@ -1,6 +1,9 @@
 ---
-title: "Toronto Teach-In Poses Climate Justice Alternative"
-category: "environmental-justice"
+title: Toronto Teach-In Poses Climate Justice Alternative
+category: environmental-justice
+tags:
+  - environment
+  - indigenous
 ---
 
 ## **Toronto Teach-In Poses Climate Justice Alternative**

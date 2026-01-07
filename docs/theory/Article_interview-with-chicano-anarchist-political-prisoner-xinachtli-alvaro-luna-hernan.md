@@ -1,8 +1,11 @@
 ---
-title: ">-"
-author: "Anarchist Black Cross"
-date: "2025"
-category: "theory"
+title: '>-'
+author: Anarchist Black Cross
+date: '2025'
+category: theory
+tags:
+  - anarchism
+  - prisons
 ---
 
 # Interview With Chicano Anarchist Political Prisoner Xinachtli Alvaro Luna Hernan

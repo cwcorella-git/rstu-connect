@@ -1,6 +1,9 @@
 ---
-title: "El Salvador: An Anarcha-Feminist Perspective"
-category: "feminist-theory"
+title: 'El Salvador: An Anarcha-Feminist Perspective'
+category: feminist-theory
+tags:
+  - anarchism
+  - feminism
 ---
 
 ## **El Salvador: An Anarcha-Feminist Perspective**

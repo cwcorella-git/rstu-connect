@@ -1,6 +1,9 @@
 ---
-title: "Whither Anarchism?"
-category: "arts-culture-music"
+title: Whither Anarchism?
+category: arts-culture-music
+tags:
+  - anarchism
+  - Bookchin
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

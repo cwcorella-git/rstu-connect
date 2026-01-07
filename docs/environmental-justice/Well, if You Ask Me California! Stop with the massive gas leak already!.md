@@ -1,6 +1,10 @@
 ---
-title: "Well, if You Ask Me: California! Stop with the massive gas leak already!"
-category: "environmental-justice"
+title: 'Well, if You Ask Me: California! Stop with the massive gas leak already!'
+category: environmental-justice
+tags:
+  - fossil fuels
+  - environment
+  - climate
 ---
 
 ## **Well, if You Ask Me: California! Stop with the massive gas leak already!**

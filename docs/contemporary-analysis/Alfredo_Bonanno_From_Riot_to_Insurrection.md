@@ -1,6 +1,8 @@
 ---
-title: "From Riot to Insurrection"
-category: "contemporary-analysis"
+title: From Riot to Insurrection
+category: contemporary-analysis
+tags:
+  - riots
 ---
 
 # **From Riot to Insurrection**

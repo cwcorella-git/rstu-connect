@@ -1,8 +1,13 @@
 ---
-title: "The Strike Paul Delesalle"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: The Strike Paul Delesalle
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - strikes
+  - labor
+  - unions
+  - workers
 ---
 
 # The Strike Paul Delesalle

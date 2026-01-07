@@ -1,6 +1,9 @@
 ---
-title: "Banner Drop Against Columbus Murals at University of Notre Dame"
-category: "technology-digital-justice"
+title: Banner Drop Against Columbus Murals at University of Notre Dame
+category: technology-digital-justice
+tags:
+  - technology
+  - digital rights
 ---
 
 ## **Banner Drop Against Columbus Murals at University of Notre Dame**

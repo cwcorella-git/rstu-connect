@@ -1,8 +1,11 @@
 ---
-title: "Britain is heading for another 2008 crash: here’s why"
-author: "David Graeber"
-date: "28 October 2015"
-category: "technology-digital-justice"
+title: 'Britain is heading for another 2008 crash: here’s why'
+author: David Graeber
+date: 28 October 2015
+category: technology-digital-justice
+tags:
+  - Graeber
+  - United Kingdom
 ---
 
 British public life has always been riddled with taboos, and nowhere is this more true than in the realm of economics. You can say anything you like about sex nowadays, but the moment the topic turns to fiscal policy, there are endless things that everyone knows, that are even written up in textbooks and scholarly articles, but no one is supposed to talk about in public. It’s a real problem. Because of these taboos, it’s impossible to talk about the real reasons for the 2008 crash, and this makes it almost certain something like it will happen again.

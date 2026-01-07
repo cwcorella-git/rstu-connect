@@ -1,8 +1,12 @@
 ---
-title: "The Abolition Of Work"
-author: "Bob Black, Bruno Borges (Illustrator)"
-date: "2024"
-category: "abolition"
+title: The Abolition Of Work
+author: 'Bob Black, Bruno Borges (Illustrator)'
+date: '2024'
+category: abolition
+tags:
+  - abolition
+  - police
+  - prisons
 ---
 
 ## **Bob Black**

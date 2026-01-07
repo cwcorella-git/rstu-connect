@@ -1,6 +1,11 @@
 ---
-title: "On Targeted Deportations: They hunt in broad daylight."
-category: "labor"
+title: 'On Targeted Deportations: They hunt in broad daylight.'
+category: labor
+tags:
+  - immigration
+  - labor
+  - unions
+  - workers
 ---
 
 ## **On Targeted Deportations: They hunt in broad daylight.**

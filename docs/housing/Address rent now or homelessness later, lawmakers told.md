@@ -1,8 +1,11 @@
 ---
-title: "Address rent now or homelessness later, lawmakers told"
-author: "Nevada Current"
-date: "2025"
-category: "housing"
+title: 'Address rent now or homelessness later, lawmakers told'
+author: Nevada Current
+date: '2025'
+category: housing
+tags:
+  - housing
+  - tenants
 ---
 
 # Address rent now or homelessness later, lawmakers told

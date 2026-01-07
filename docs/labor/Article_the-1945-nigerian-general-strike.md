@@ -1,8 +1,11 @@
 ---
-title: "The 1945 Nigerian General Strike"
-author: "Global Nonviolent Action Database"
-date: "2025"
-category: "labor"
+title: The 1945 Nigerian General Strike
+author: Global Nonviolent Action Database
+date: '2025'
+category: labor
+tags:
+  - general strikes
+  - strikes
 ---
 
 # The 1945 Nigerian General Strike

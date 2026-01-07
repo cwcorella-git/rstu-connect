@@ -1,6 +1,9 @@
 ---
-title: "May Day and Immigrant Workers"
-category: "labor"
+title: May Day and Immigrant Workers
+category: labor
+tags:
+  - labor
+  - immigration
 ---
 
 ## **May Day and Immigrant Workers**

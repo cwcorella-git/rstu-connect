@@ -1,6 +1,8 @@
 ---
-title: "Constructing Emotion"
-category: "theory"
+title: Constructing Emotion
+category: theory
+tags:
+  - theory
 ---
 
 Original scientific paper – UDC – 159.942

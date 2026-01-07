@@ -1,8 +1,10 @@
 ---
-title: "Possibilities"
-author: "David Graeber"
-date: "2007"
-category: "contemporary-analysis"
+title: Possibilities
+author: David Graeber
+date: '2007'
+category: contemporary-analysis
+tags:
+  - Graeber
 ---
 
 ## Introduction

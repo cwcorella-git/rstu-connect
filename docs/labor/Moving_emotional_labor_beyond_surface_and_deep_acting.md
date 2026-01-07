@@ -1,8 +1,12 @@
 ---
-title: "Moving emotional labor beyond surface and deep acting"
-author: "Unknown"
-date: "2025"
-category: "labor"
+title: Moving emotional labor beyond surface and deep acting
+author: Unknown
+date: '2025'
+category: labor
+tags:
+  - labor
+  - unions
+  - workers
 ---
 
 #

@@ -1,8 +1,11 @@
 ---
-title: "Anarchy in the USA"
-author: "David Graeber"
-date: "1999"
-category: "contemporary-analysis"
+title: Anarchy in the USA
+author: David Graeber
+date: '1999'
+category: contemporary-analysis
+tags:
+  - anarchism
+  - Graeber
 ---
 
 Anarchists often complain they only make the news when they break something. This article is no exception.

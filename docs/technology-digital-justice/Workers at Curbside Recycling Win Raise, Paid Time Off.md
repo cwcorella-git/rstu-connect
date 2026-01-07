@@ -1,6 +1,10 @@
 ---
-title: "Workers at Curbside Recycling Win Raise, Paid Time Off"
-category: "technology-digital-justice"
+title: 'Workers at Curbside Recycling Win Raise, Paid Time Off'
+category: technology-digital-justice
+tags:
+  - labor
+  - technology
+  - digital rights
 ---
 
 ## **Workers at Curbside Recycling Win Raise, Paid Time Off**
