@@ -51,6 +51,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.mainSite': 'Main site',
     'nav.account': 'Account',
 
+    // Footer
+    'footer.mainSite': 'RSTU Main Site',
+    'footer.contact': 'Contact',
+    'footer.copyright': '© 2025 Reno-Sparks Tenants Union',
+
     // Header
     'header.title': 'RSTU',
     'header.subtitle': 'Connect',
@@ -1077,6 +1082,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.links': 'Enlaces',
     'nav.mainSite': 'Sitio principal',
 
+    // Footer
+    'footer.mainSite': 'Sitio Principal RSTU',
+    'footer.contact': 'Contacto',
+    'footer.copyright': '© 2025 Unión de Inquilinos de Reno-Sparks',
+
     // Header
     'header.title': 'RSTU',
     'header.subtitle': 'Connect',
@@ -2013,6 +2023,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.navigation': 'Nabigasyon',
     'nav.links': 'Mga Link',
     'nav.mainSite': 'Pangunahing site',
+
+    // Footer
+    'footer.mainSite': 'Pangunahing Site ng RSTU',
+    'footer.contact': 'Makipag-ugnayan',
+    'footer.copyright': '© 2025 Unyon ng mga Nangungupahan sa Reno-Sparks',
 
     // Header
     'header.title': 'RSTU',
@@ -2965,6 +2980,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.links': '链接',
     'nav.mainSite': '主站',
 
+    // Footer
+    'footer.mainSite': 'RSTU 主站',
+    'footer.contact': '联系我们',
+    'footer.copyright': '© 2025 雷诺-斯帕克斯租户工会',
+
     // Header
     'header.title': 'RSTU',
     'header.subtitle': '连接',
@@ -3915,6 +3935,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.navigation': 'Điều hướng',
     'nav.links': 'Liên kết',
     'nav.mainSite': 'Trang chính',
+
+    // Footer
+    'footer.mainSite': 'Trang Chính RSTU',
+    'footer.contact': 'Liên hệ',
+    'footer.copyright': '© 2025 Công đoàn Người thuê nhà Reno-Sparks',
 
     // Header
     'header.title': 'RSTU',
