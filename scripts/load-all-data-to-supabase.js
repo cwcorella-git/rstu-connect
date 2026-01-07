@@ -15,9 +15,9 @@ const fs = require('fs');
 const path = require('path');
 const { createClient } = require('@supabase/supabase-js');
 
-// Supabase credentials
-const SUPABASE_URL = 'https://dxkwzvweaqlhmpwgpzsa.supabase.co';
-const SUPABASE_KEY = 'sb_publishable_cDaWuFY-msonrx-m1uRZaw_PwE-LshY';
+// Supabase credentials (from .env.local)
+const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://dxkwzvweaqlhmpwgpzsa.supabase.co';
+const SUPABASE_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR4a3d6dndlYXFsaG1wd2dwenNhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjYyODQ0NDQsImV4cCI6MjA4MTg2MDQ0NH0.qbiCRiDGRYZZhL93QHh75Bpx5dek_SuvubfjfA6eln0';
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
