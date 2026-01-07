@@ -1,5 +1,7 @@
 ---
-title: designboom.com
+title: >-
+  iran-based team group envisions this 'bohem' house as an assemblage of fluid
+  shells
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,5 @@
 ---
-title: versobooks.com
+title: Decommodification in the twentyfirst century
 category: arts-culture-music
 tags: []
 ---

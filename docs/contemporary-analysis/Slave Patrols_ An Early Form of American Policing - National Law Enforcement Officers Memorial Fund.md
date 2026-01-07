@@ -1,5 +1,5 @@
 ---
-title: nleomf.org
+title: 'Slave Patrols: An Early Form of American Policing'
 category: contemporary-analysis
 tags:
   - police

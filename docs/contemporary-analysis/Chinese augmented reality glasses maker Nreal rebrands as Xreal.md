@@ -1,5 +1,7 @@
 ---
-title: cnbc.com
+title: >-
+  Chinese augmented reality glasses maker Nreal rebrands as Xreal as it takes on
+  tech giants
 category: contemporary-analysis
 tags: []
 ---

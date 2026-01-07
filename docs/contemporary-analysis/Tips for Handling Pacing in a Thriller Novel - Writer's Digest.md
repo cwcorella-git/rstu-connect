@@ -1,5 +1,5 @@
 ---
-title: writersdigest.com
+title: Tips for Handling Pacing in a Thriller Novel
 category: contemporary-analysis
 tags: []
 ---

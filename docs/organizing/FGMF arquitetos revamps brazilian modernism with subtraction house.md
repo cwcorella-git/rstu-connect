@@ -1,5 +1,8 @@
 ---
-title: '## ![](_page_0_Picture_3.jpeg)'
+title: >-
+  home > architecture > FGMF arquitetos revamps brazilian modernism with house
+  of voids 'subtracon house' socialize) compe design directory shop 1courses ons
+  architecture) 1)
 category: organizing
 tags:
   - organizing

@@ -1,6 +1,8 @@
 ---
-title: "## ![](_page_0_Picture_0.jpeg)"
-category: "contemporary-analysis"
+title: Soil Solidarity
+category: contemporary-analysis
+tags:
+  - solidarity
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

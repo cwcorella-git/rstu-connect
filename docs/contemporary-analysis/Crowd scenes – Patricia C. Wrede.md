@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: Crowd scenes – Patricia C. Wrede
 category: contemporary-analysis
 tags: []
 ---

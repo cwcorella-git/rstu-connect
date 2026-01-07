@@ -1,5 +1,7 @@
 ---
-title: '## ![](_page_0_Picture_0.jpeg)'
+title: >-
+  Detroit's Rebellion and the Rise of the Neoliberal State: 1967: Dialectics of
+  Insurgency By Jordan T. Camp
 category: contemporary-analysis
 tags:
   - riots

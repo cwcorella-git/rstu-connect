@@ -1,5 +1,5 @@
 ---
-title: towardfreedom.org
+title: Social Ecology and the Greening of Our Cities
 category: environmental-justice
 tags:
   - environment

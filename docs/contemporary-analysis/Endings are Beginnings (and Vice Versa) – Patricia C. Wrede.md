@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: Endings are Beginnings (and Vice Versa) – Patricia C. Wrede
 category: contemporary-analysis
 tags: []
 ---

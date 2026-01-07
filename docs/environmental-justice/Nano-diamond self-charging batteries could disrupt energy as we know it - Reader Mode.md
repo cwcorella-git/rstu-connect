@@ -1,5 +1,5 @@
 ---
-title: '## ![](_page_0_Picture_2.jpeg)'
+title: Nano-diamond self-charging batteries could disrupt energy as we know it
 category: environmental-justice
 tags:
   - environment

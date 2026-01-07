@@ -1,6 +1,7 @@
 ---
-title: "## 201"
-category: "contemporary-analysis"
+title: An Ancient Guide to True Friendship
+category: contemporary-analysis
+tags: []
 ---
 
 ш

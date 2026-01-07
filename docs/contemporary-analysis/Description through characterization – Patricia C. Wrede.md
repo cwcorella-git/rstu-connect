@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: Description through characterization – Patricia C. Wrede
 category: contemporary-analysis
 tags: []
 ---

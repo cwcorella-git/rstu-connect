@@ -1,6 +1,7 @@
 ---
-title: "## ![](_page_0_Figure_0.jpeg)"
-category: "contemporary-analysis"
+title: CONVENTION ON THE RIGHTS OF THE CHILD
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

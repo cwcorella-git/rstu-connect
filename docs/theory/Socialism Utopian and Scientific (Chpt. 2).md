@@ -1,5 +1,5 @@
 ---
-title: marxists.org
+title: Utopian and Scientific (Chpt. 2)
 category: contemporary-analysis
 tags:
   - socialism

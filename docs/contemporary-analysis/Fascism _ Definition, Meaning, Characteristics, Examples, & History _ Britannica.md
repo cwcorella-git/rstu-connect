@@ -1,7 +1,8 @@
 ---
-title: britannica.com
+title: 'Fascism | Definition, Meaning, Characteristics, Examples, & History'
 category: contemporary-analysis
-tags: []
+tags:
+  - fascism
 ---
 
 ## [britannica.com](https://www.britannica.com/topic/fascism)

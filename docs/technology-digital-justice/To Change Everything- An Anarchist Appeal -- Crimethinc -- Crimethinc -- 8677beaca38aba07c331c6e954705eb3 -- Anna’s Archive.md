@@ -1,5 +1,5 @@
 ---
-title: '## ![](_page_0_Picture_0.jpeg)'
+title: 'start by seeking power, not authority'
 category: technology-digital-justice
 tags:
   - anarchism

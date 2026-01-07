@@ -1,5 +1,7 @@
 ---
-title: phys.org
+title: >-
+  A protein-rich, plant-based emulsifier that could replace dairy and eggs in
+  certain foods
 category: technology-digital-justice
 tags:
   - technology

@@ -1,5 +1,7 @@
 ---
-title: gamedeveloper.com
+title: >-
+  The Anatomy of a Design Document, Part 1: Documentation Guidelines for the
+  Game Concept and Proposal
 category: arts-culture-music
 tags: []
 ---

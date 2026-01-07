@@ -1,5 +1,5 @@
 ---
-title: archdaily.com
+title: 'The Paradox of Sustainable Architecture: Durability and Transience'
 category: feminist-theory
 tags:
   - feminism

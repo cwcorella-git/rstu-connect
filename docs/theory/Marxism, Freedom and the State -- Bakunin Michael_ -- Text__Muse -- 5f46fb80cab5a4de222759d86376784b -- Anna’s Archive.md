@@ -1,6 +1,10 @@
 ---
-title: "Marxism Freedom and the State"
-category: "contemporary-analysis"
+title: Marxism Freedom and the State
+category: contemporary-analysis
+tags:
+  - socialism
+  - liberty
+  - Bakunin
 ---
 
 # Marxism Freedom and the State

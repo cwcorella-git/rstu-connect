@@ -23,6 +23,17 @@ const BAD_TITLE_PATTERNS = [
   /^-{2,}$/,                            // Just dashes
   /^[0-9.]+\s*$/,                       // Just numbers
   /^\s*$/,                              // Empty/whitespace
+  /^##?\s*!\[\]/,                       // Image reference headings
+  /^##?\s*\d+:\d+/,                     // Timestamps (0:00, 1:52)
+  /^##?\s*\d+$/,                        // Just numbers with heading
+  /^[a-z]+\.(com|org|net|io|edu)$/i,   // Domain-only titles
+  /^—\s/,                               // Em-dash author attribution
+  /^A NOTE ABOUT/i,                     // Book metadata
+  /^AND A PREFACE/i,                    // Book metadata
+  /^TRANSLATED BY/i,                    // Book metadata
+  /^EDITED BY/i,                        // Book metadata
+  /^INTRODUCTION BY/i,                  // Book metadata
+  /^FOREWORD BY/i,                      // Book metadata
 ];
 
 // Check if title is bad

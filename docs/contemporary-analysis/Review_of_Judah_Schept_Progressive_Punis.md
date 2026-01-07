@@ -1,6 +1,7 @@
 ---
-title: "## ![](_page_0_Picture_0.jpeg)"
-category: "contemporary-analysis"
+title: Book review
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

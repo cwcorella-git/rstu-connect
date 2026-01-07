@@ -1,5 +1,5 @@
 ---
-title: redsails.org
+title: The Pitfalls of Liberalism
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,7 @@
 ---
-title: sciencefocus.com
+title: >-
+  Thousands of coma patients may be conscious but we're ignoring them, says
+  pioneering neuroscientist
 category: environmental-justice
 tags:
   - environment

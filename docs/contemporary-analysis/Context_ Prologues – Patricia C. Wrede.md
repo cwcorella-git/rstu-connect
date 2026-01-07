@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: Prologues – Patricia C. Wrede
 category: contemporary-analysis
 tags: []
 ---

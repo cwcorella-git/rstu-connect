@@ -1,5 +1,5 @@
 ---
-title: crimethinc.com
+title: 'Prism: The Internet as New Enclosure'
 category: technology-digital-justice
 tags:
   - technology

@@ -1,5 +1,7 @@
 ---
-title: '## ![](_page_0_Picture_0.jpeg)'
+title: >-
+  Black Radicalism, Marxism, and Collective Memory: An Interview with Robin D.
+  G. Kelley
 category: theory
 tags:
   - socialism

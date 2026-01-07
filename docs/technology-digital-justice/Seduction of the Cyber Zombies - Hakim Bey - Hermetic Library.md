@@ -1,5 +1,5 @@
 ---
-title: hermetic.com
+title: Seduction of the Cyber Zombies - Hakim Bey
 category: technology-digital-justice
 tags:
   - technology

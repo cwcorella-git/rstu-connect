@@ -1,5 +1,5 @@
 ---
-title: tomshardware.com
+title: OpenAI's Shap-E Model Makes 3D Objects From Text or Images
 category: technology-digital-justice
 tags:
   - technology

@@ -1,5 +1,5 @@
 ---
-title: hackaday.com
+title: Chatting About The State Of Hacker-Friendly AR Gear
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,5 @@
 ---
-title: studentsofhistory.com
+title: Comparing Patricians and Plebeians
 category: contemporary-analysis
 tags:
   - education

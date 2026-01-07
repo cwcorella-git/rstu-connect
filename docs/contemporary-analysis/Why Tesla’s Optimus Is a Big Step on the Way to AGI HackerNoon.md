@@ -1,5 +1,5 @@
 ---
-title: hackernoon.com
+title: Why Tesla's Optimus Is a Big Step on the Way to AGI
 category: contemporary-analysis
 tags: []
 ---

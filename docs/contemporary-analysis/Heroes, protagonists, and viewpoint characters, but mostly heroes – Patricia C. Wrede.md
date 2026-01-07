@@ -1,5 +1,7 @@
 ---
-title: pcwrede.com
+title: >-
+  Heroes, protagonists, and viewpoint characters, but mostly heroes – Patricia
+  C. Wrede
 category: contemporary-analysis
 tags: []
 ---

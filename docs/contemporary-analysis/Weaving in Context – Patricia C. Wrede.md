@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: Weaving in Context – Patricia C. Wrede
 category: contemporary-analysis
 tags: []
 ---

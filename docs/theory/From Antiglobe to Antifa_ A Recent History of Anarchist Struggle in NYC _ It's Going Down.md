@@ -1,5 +1,5 @@
 ---
-title: itsgoingdown.org
+title: 'From Antiglobe to Antifa: A Recent History of Anarchist Struggle in NYC'
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,5 +1,5 @@
 ---
-title: crimethinc.com
+title: Anti-Fascism Is Self-Defense
 category: contemporary-analysis
 tags:
   - antifascism

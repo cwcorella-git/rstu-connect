@@ -1,5 +1,5 @@
 ---
-title: '## ![](_page_0_Picture_0.jpeg)'
+title: The Question Concerning Technology
 category: technology-digital-justice
 tags:
   - technology

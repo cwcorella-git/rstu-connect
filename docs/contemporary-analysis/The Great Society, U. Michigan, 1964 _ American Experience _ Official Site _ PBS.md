@@ -1,5 +1,5 @@
 ---
-title: pbs.org
+title: 'The Great Society, U. Michigan, 1964'
 category: contemporary-analysis
 tags: []
 ---

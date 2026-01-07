@@ -1,5 +1,7 @@
 ---
-title: deanspade.net
+title: >-
+  "Having a Cause" versus Living in a Life Centered in Radical Transformation –
+  Dean Spade
 category: theory
 tags:
   - theory

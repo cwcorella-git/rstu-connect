@@ -1,6 +1,7 @@
 ---
-title: "## 0:00"
-category: "contemporary-analysis"
+title: Oppose (Confrontation)
+category: contemporary-analysis
+tags: []
 ---
 
 ## 0:00

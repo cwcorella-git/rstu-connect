@@ -1,5 +1,5 @@
 ---
-title: AND A PREFACE BY
+title: The Wretched of the Earth
 category: arts-culture-music
 tags: []
 ---

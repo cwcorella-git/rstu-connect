@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: Description in General – Patricia C. Wrede
 category: contemporary-analysis
 tags: []
 ---

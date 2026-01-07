@@ -1,6 +1,7 @@
 ---
-title: "## ![](_page_0_Picture_2.jpeg)"
-category: "contemporary-analysis"
+title: Mapping 24 Emotions Conveyed by Brief Human Vocalization
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

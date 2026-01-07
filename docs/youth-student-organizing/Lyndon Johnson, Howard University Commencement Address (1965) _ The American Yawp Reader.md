@@ -1,5 +1,5 @@
 ---
-title: americanyawp.com
+title: 'Lyndon Johnson, Howard University Commencement Address (1965)'
 category: youth-student-organizing
 tags:
   - students

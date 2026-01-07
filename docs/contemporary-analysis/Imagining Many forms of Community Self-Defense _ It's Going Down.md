@@ -1,5 +1,5 @@
 ---
-title: itsgoingdown.org
+title: Imagining Many forms of Community Self-Defense
 category: contemporary-analysis
 tags:
   - community

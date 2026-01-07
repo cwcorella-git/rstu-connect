@@ -1,5 +1,5 @@
 ---
-title: theguardian.com
+title: 'Obituary: Albert Ellis'
 category: contemporary-analysis
 tags: []
 ---

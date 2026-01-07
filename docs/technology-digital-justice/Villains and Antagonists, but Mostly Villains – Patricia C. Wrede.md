@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: 'Villains and Antagonists, but Mostly Villains – Patricia C. Wrede'
 category: technology-digital-justice
 tags:
   - technology

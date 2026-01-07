@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: Character Voices – Patricia C. Wrede
 category: contemporary-analysis
 tags: []
 ---

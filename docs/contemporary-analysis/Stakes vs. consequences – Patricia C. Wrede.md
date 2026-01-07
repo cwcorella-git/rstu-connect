@@ -1,5 +1,5 @@
 ---
-title: pcwrede.com
+title: Stakes vs. consequences – Patricia C. Wrede
 category: contemporary-analysis
 tags: []
 ---

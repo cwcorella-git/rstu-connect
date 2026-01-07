@@ -1,5 +1,5 @@
 ---
-title: theamericanscholar.org
+title: Affirmative Inaction - The American Scholar
 category: contemporary-analysis
 tags: []
 ---

@@ -1,6 +1,7 @@
 ---
-title: "A NOTE ABOUT THE AUTHOR"
-category: "arts-culture-music"
+title: Z E N IN THE ART OF WRITIN G RAY BRADBURY
+category: arts-culture-music
+tags: []
 ---
 
 ears these words used. How rarely do we see people living.

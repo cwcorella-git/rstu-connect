@@ -1,5 +1,5 @@
 ---
-title: savagetraininggroup.com
+title: The Public Duty Doctrine and Its Implications for Police Officers
 category: technology-digital-justice
 tags:
   - police

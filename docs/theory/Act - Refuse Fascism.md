@@ -1,5 +1,5 @@
 ---
-title: refusefascism.org
+title: Act - Refuse Fascism
 category: theory
 tags:
   - theory

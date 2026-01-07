@@ -1,5 +1,5 @@
 ---
-title: esquire.com
+title: Are We Ready for AI to Raise the Dead?
 category: arts-culture-music
 tags: []
 ---
