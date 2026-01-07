@@ -29,7 +29,7 @@ export function Navigation() {
               : 'text-gray-600 hover:text-gray-900'
           }`}
         >
-          Home
+          {t('nav.home')}
         </button>
         {canAccessOrganizeTab && (
           <button

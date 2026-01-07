@@ -36,6 +36,7 @@ interface LanguageContextType {
 const translations: Record<Locale, Record<string, string>> = {
   en: {
     // Navigation
+    'nav.home': 'Home',
     'nav.organize': 'Organize',
     'nav.reading': 'Reading',
     'nav.mutualAid': 'Mutual Aid',
@@ -1059,6 +1060,7 @@ const translations: Record<Locale, Record<string, string>> = {
   },
   es: {
     // Navigation
+    'nav.home': 'Inicio',
     'nav.organize': 'Organizar',
     'nav.reading': 'Lectura',
     'nav.mutualAid': 'Ayuda Mutua',
@@ -1992,6 +1994,7 @@ const translations: Record<Locale, Record<string, string>> = {
   },
   tl: {
     // Navigation
+    'nav.home': 'Home',
     'nav.organize': 'Organisahin',
     'nav.reading': 'Pagbabasa',
     'nav.mutualAid': 'Tulong-Tulong',
@@ -2939,6 +2942,7 @@ const translations: Record<Locale, Record<string, string>> = {
   },
   zh: {
     // Navigation
+    'nav.home': '首页',
     'nav.organize': '组织',
     'nav.reading': '阅读',
     'nav.mutualAid': '互助',
@@ -3886,6 +3890,7 @@ const translations: Record<Locale, Record<string, string>> = {
   },
   vi: {
     // Navigation
+    'nav.home': 'Trang chủ',
     'nav.organize': 'Tổ chức',
     'nav.reading': 'Đọc',
     'nav.mutualAid': 'Hỗ trợ lẫn nhau',
