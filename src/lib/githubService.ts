@@ -152,9 +152,9 @@ function updateTranslationInContent(
   // Then find the specific key within that locale's section
 
   // Pattern to find: 'key': 'existing value'
-  // This works for simple string values
+  // This handles escaped quotes in values (e.g., 'Nevada\'s First')
   const keyPattern = new RegExp(
-    `(['"])${escapedKey}\\1\\s*:\\s*(['"])([^']*?)\\2`,
+    `(['"])${escapedKey}\\1\\s*:\\s*(['"])((\\\\.|[^\\\\])*?)\\2`,
     'g'
   )
 
@@ -176,7 +176,8 @@ function updateTranslationInContent(
 
   // For now, find which match is in the current locale's section
   // We need to find the locale marker and pick the right match
-  const localePattern = new RegExp(`\\[['"]${locale}['"]\\]\\s*:\\s*\\{`, 'g')
+  // The structure is: en: { ... } or es: { ... } (simple identifier, not bracket notation)
+  const localePattern = new RegExp(`(?:^|\\n)\\s*${locale}:\\s*\\{`, 'gm')
   const localeMatch = localePattern.exec(content)
 
   if (!localeMatch) {
@@ -187,7 +188,7 @@ function updateTranslationInContent(
   const localeStart = localeMatch.index
 
   // Find the next locale start (or end of translations object) to bound our search
-  const nextLocalePattern = /\[['"](?:en|es|tl|zh|vi)['"]\]\s*:\s*\{/g
+  const nextLocalePattern = /(?:^|\n)\s*(?:en|es|tl|zh|vi):\s*\{/gm
   nextLocalePattern.lastIndex = localeStart + 1
   const nextLocaleMatch = nextLocalePattern.exec(content)
   const localeEnd = nextLocaleMatch ? nextLocaleMatch.index : content.length
