@@ -43,8 +43,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.tools': 'Tools',
     'nav.profile': 'Profile',
     'nav.login': 'Login',
+    'nav.loginCreate': 'Login / Create Profile',
     'nav.messages': 'Messages',
     'nav.menu': 'Menu',
+    'nav.navigation': 'Navigation',
+    'nav.links': 'Links',
     'nav.mainSite': 'Main site',
     'nav.account': 'Account',
 
@@ -1067,8 +1070,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.tools': 'Herramientas',
     'nav.profile': 'Perfil',
     'nav.login': 'Iniciar Sesion',
+    'nav.loginCreate': 'Iniciar Sesión / Crear Perfil',
     'nav.messages': 'Mensajes',
-    'nav.menu': 'Menu',
+    'nav.menu': 'Menú',
+    'nav.navigation': 'Navegación',
+    'nav.links': 'Enlaces',
     'nav.mainSite': 'Sitio principal',
 
     // Header
@@ -2001,8 +2007,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.tools': 'Mga Kasangkapan',
     'nav.profile': 'Profile',
     'nav.login': 'Mag-login',
+    'nav.loginCreate': 'Mag-login / Gumawa ng Profile',
     'nav.messages': 'Mga Mensahe',
     'nav.menu': 'Menu',
+    'nav.navigation': 'Nabigasyon',
+    'nav.links': 'Mga Link',
     'nav.mainSite': 'Pangunahing site',
 
     // Header
@@ -2949,8 +2958,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.tools': '工具',
     'nav.profile': '个人资料',
     'nav.login': '登录',
+    'nav.loginCreate': '登录 / 创建账户',
     'nav.messages': '消息',
     'nav.menu': '菜单',
+    'nav.navigation': '导航',
+    'nav.links': '链接',
     'nav.mainSite': '主站',
 
     // Header
@@ -3897,8 +3909,11 @@ const translations: Record<Locale, Record<string, string>> = {
     'nav.tools': 'Công cụ',
     'nav.profile': 'Hồ sơ',
     'nav.login': 'Đăng nhập',
+    'nav.loginCreate': 'Đăng nhập / Tạo Hồ sơ',
     'nav.messages': 'Tin nhắn',
     'nav.menu': 'Menu',
+    'nav.navigation': 'Điều hướng',
+    'nav.links': 'Liên kết',
     'nav.mainSite': 'Trang chính',
 
     // Header
