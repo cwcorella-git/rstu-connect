@@ -61,8 +61,25 @@ NAMES_PATH = PROJECT_ROOT / "src/data/property-names.json"
 
 # APNs to exclude (casinos, storage, healthcare, etc.) - from extract-property-names.py
 EXCLUDE_APNS = {
-    # Casinos/Hotels
+    # Casinos/Hotels (original list)
     "1925018", "2025458", "3217228", "729229", "729438", "3843002", "12303101", "3701304", "3701305",
+    # Hotels with generic owner names (hotel rooms, not apartments)
+    "726128",    # 500 WEST ST - Whitney Peak Hotel (906 rooms) - CCR NEWCO LLC
+    "726129",    # 130 W 6TH ST - Whitney Peak Hotel parcel 2 - UCCELLI LIVING TRUST
+    "726112",    # 190 W 6TH ST - Whitney Peak Hotel parcel 3 - CCR NEWCO LLC
+    "726226",    # 500 N SIERRA ST - Whitney Peak Hotel parcel 4 (673 rooms)
+    "721531",    # 650 N SIERRA ST - Whitney Peak Hotel parcel 5
+    "3742213",   # 1575 E LINCOLN WAY - Carson City Fitness (not apartments)
+    "754215",    # 345 N ARLINGTON AVE - Circus Circus (779 rooms) - JESR LLC
+    "1105107",   # 255 N VIRGINIA ST - Fitzgerald (351 rooms) - FITZGERALD REAL PROPERTY LLC
+    "1105125",   # 255 N VIRGINIA ST - Fitzgerald parcel 2
+    "3217230",   # 1225 VICTORIAN AVE - Nugget Casino Resort (157 rooms) - 1225 SPARKS HOLDINGS LLC
+    "803008",    # 701 E 7TH ST - Hotel (139 rooms) - SEVENTH ST RENO HOLDINGS LLC
+    "3816003",   # 9400 W 4TH ST - Boomtown (132 rooms) - RIVER CURRENTS LLC
+    "1106118",   # 34 W 2ND ST - Hotel (120 rooms) - FCA RIVERBOAT LLC
+    "16306215",  # 9845 GATEWAY DR - Hotel (120 rooms) - HPTMI CORPORATION
+    "1103110",   # 239 W 2ND ST - El Cortez (115 rooms) - EL CORTEZ RENO HOLDINGS LLC
+    "3220120",   # 1125 VICTORIAN AVE - Rail City Casino (94 rooms) - SMOOTH BOURBON LLC
     # Storage facilities
     "14423213", "23814005", "16008404", "1705101",
     # Healthcare
@@ -124,6 +141,49 @@ EXCLUDE_PROPERTY_TYPES = [
     'BOARD OF REGENTS',
     # AMERCO = U-Haul storage
     'AMERCO',
+    # Fitness/Gyms (not residential)
+    'FITNESS',
+    'GYM',
+    'ATHLETIC',
+    # Casinos & Gaming (hotel rooms, not apartments)
+    'CASINO',
+    'CASINOS',
+    'GAMING',
+    'ELDORADO',
+    'PEPPERMILL',
+    'CIRCUS',
+    'ATLANTIS',
+    'NUGGET HOTEL',
+    'GRAND SIERRA',
+    'SILVER LEGACY',
+    'HARRAHS',
+    "HARRAH'S",
+    'BALLY',
+    'CAESARS',
+    # Hotels & Resorts (short-term, not rentable long-term)
+    'HOTEL',
+    'HOTELS',
+    'RESORT',
+    'RESORTS',
+    'MOTEL',
+    'MOTELS',
+    'INN ',  # With space to avoid "QUINN" etc.
+    ' INN',
+    'LODGE',
+    'SUITES',  # Hotel suites
+    'MARRIOTT',
+    'HILTON',
+    'HYATT',
+    'HOLIDAY INN',
+    'BEST WESTERN',
+    'HAMPTON',
+    'COURTYARD',
+    'RESIDENCE INN',
+    'FAIRFIELD',
+    'SPRINGHILL',
+    'TRENDWEST',  # Timeshare
+    'WYNDHAM',
+    'VACATION',
 ]
 
 # Owner patterns that indicate HOA (not a landlord)
