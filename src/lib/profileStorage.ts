@@ -1110,7 +1110,8 @@ export function getMyInviteCodes(): InviteCode[] {
 
 // Build QR code URL for profile creation
 export function buildProfileQRUrl(buildingId: string, buildingAddress: string, unitNumber?: string): string {
-  const baseUrl = typeof window !== 'undefined' ? window.location.origin : ''
+  if (typeof window === 'undefined') return ''
+
   const params = new URLSearchParams({
     action: 'create-profile',
     building: buildingId,
@@ -1119,7 +1120,11 @@ export function buildProfileQRUrl(buildingId: string, buildingAddress: string, u
   if (unitNumber) {
     params.set('unit', unitNumber)
   }
-  return `${baseUrl}?${params.toString()}`
+
+  // Use full URL to preserve basePath (same pattern as buildInviteQRUrl)
+  const url = new URL(window.location.href)
+  url.search = `?${params.toString()}`
+  return url.href
 }
 
 // Build QR code URL with invite code (with optional building/unit pre-fill)
