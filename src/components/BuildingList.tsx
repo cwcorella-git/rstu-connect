@@ -35,34 +35,34 @@ type FilterOption =
   | 'high-evictions'
   | 'favorites';
 
-// Sort option labels for dropdown
-const SORT_OPTIONS: { value: SortOption; label: string }[] = [
-  { value: 'units-desc', label: 'Most Units' },
-  { value: 'units-asc', label: 'Fewest Units' },
-  { value: 'priority-desc', label: 'Highest Priority' },
-  { value: 'habitability-asc', label: 'Worst Conditions' },
-  { value: 'evictions-desc', label: 'Most Evictions' },
-  { value: 'violations-desc', label: 'Most Violations' },
-  { value: 'year-asc', label: 'Oldest Buildings' },
-  { value: 'year-desc', label: 'Newest Buildings' },
-  { value: 'portfolio-desc', label: 'Largest Landlord' },
-  { value: 'value-desc', label: 'Highest Value' },
-  { value: 'value-per-unit-desc', label: 'Value per Unit' },
-  { value: 'address-asc', label: 'Address A-Z' },
-  { value: 'owner-asc', label: 'Owner A-Z' },
+// Sort option translation keys
+const SORT_OPTIONS: { value: SortOption; labelKey: string }[] = [
+  { value: 'units-desc', labelKey: 'buildings.sort.mostUnits' },
+  { value: 'units-asc', labelKey: 'buildings.sort.fewestUnits' },
+  { value: 'priority-desc', labelKey: 'buildings.sort.highestPriority' },
+  { value: 'habitability-asc', labelKey: 'buildings.sort.worstConditions' },
+  { value: 'evictions-desc', labelKey: 'buildings.sort.mostEvictions' },
+  { value: 'violations-desc', labelKey: 'buildings.sort.mostViolations' },
+  { value: 'year-asc', labelKey: 'buildings.sort.oldestBuildings' },
+  { value: 'year-desc', labelKey: 'buildings.sort.newestBuildings' },
+  { value: 'portfolio-desc', labelKey: 'buildings.sort.largestLandlord' },
+  { value: 'value-desc', labelKey: 'buildings.sort.highestValue' },
+  { value: 'value-per-unit-desc', labelKey: 'buildings.sort.valuePerUnit' },
+  { value: 'address-asc', labelKey: 'buildings.sort.addressAZ' },
+  { value: 'owner-asc', labelKey: 'buildings.sort.ownerAZ' },
 ];
 
-// Filter option labels for dropdown
-const FILTER_OPTIONS: { value: FilterOption; label: string }[] = [
-  { value: 'all', label: 'All Properties' },
-  { value: 'corporate', label: 'Corporate-Owned' },
-  { value: 'individual', label: 'Individual-Owned' },
-  { value: 'trust', label: 'Trust-Owned' },
-  { value: 'active-organizing', label: 'Active Organizing' },
-  { value: 'emerging', label: 'Emerging' },
-  { value: 'has-violations', label: 'Has Violations' },
-  { value: 'high-evictions', label: 'High Evictions' },
-  { value: 'favorites', label: 'My Favorites' },
+// Filter option translation keys
+const FILTER_OPTIONS: { value: FilterOption; labelKey: string }[] = [
+  { value: 'all', labelKey: 'buildings.filter.all' },
+  { value: 'corporate', labelKey: 'buildings.filter.corporate' },
+  { value: 'individual', labelKey: 'buildings.filter.individual' },
+  { value: 'trust', labelKey: 'buildings.filter.trust' },
+  { value: 'active-organizing', labelKey: 'buildings.filter.activeOrganizing' },
+  { value: 'emerging', labelKey: 'buildings.filter.emerging' },
+  { value: 'has-violations', labelKey: 'buildings.filter.hasViolations' },
+  { value: 'high-evictions', labelKey: 'buildings.filter.highEvictions' },
+  { value: 'favorites', labelKey: 'buildings.filter.favorites' },
 ];
 
 // Type for display items - either a building or a linked group
@@ -521,7 +521,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           >
             {SORT_OPTIONS.map((opt) => (
               <option key={opt.value} value={opt.value}>
-                {opt.label}
+                {t(opt.labelKey)}
               </option>
             ))}
           </select>
@@ -533,7 +533,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           >
             {FILTER_OPTIONS.map((opt) => (
               <option key={opt.value} value={opt.value}>
-                {opt.label}
+                {t(opt.labelKey)}
               </option>
             ))}
           </select>
