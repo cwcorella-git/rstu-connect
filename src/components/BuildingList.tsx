@@ -11,6 +11,60 @@ import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/searc
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getHabitabilityScore } from '@/lib/canvassStorage';
 
+// Sort options for the property list
+type SortOption =
+  | 'units-desc' | 'units-asc'
+  | 'priority-desc'
+  | 'habitability-asc'
+  | 'evictions-desc'
+  | 'violations-desc'
+  | 'year-asc' | 'year-desc'
+  | 'portfolio-desc'
+  | 'value-desc' | 'value-per-unit-desc'
+  | 'address-asc' | 'owner-asc';
+
+// Filter options for the property list
+type FilterOption =
+  | 'all'
+  | 'corporate'
+  | 'individual'
+  | 'trust'
+  | 'active-organizing'
+  | 'emerging'
+  | 'has-violations'
+  | 'high-evictions'
+  | 'favorites';
+
+// Sort option labels for dropdown
+const SORT_OPTIONS: { value: SortOption; label: string }[] = [
+  { value: 'units-desc', label: 'Most Units' },
+  { value: 'units-asc', label: 'Fewest Units' },
+  { value: 'priority-desc', label: 'Highest Priority' },
+  { value: 'habitability-asc', label: 'Worst Conditions' },
+  { value: 'evictions-desc', label: 'Most Evictions' },
+  { value: 'violations-desc', label: 'Most Violations' },
+  { value: 'year-asc', label: 'Oldest Buildings' },
+  { value: 'year-desc', label: 'Newest Buildings' },
+  { value: 'portfolio-desc', label: 'Largest Landlord' },
+  { value: 'value-desc', label: 'Highest Value' },
+  { value: 'value-per-unit-desc', label: 'Value per Unit' },
+  { value: 'address-asc', label: 'Address A-Z' },
+  { value: 'owner-asc', label: 'Owner A-Z' },
+];
+
+// Filter option labels for dropdown
+const FILTER_OPTIONS: { value: FilterOption; label: string }[] = [
+  { value: 'all', label: 'All Properties' },
+  { value: 'corporate', label: 'Corporate-Owned' },
+  { value: 'individual', label: 'Individual-Owned' },
+  { value: 'trust', label: 'Trust-Owned' },
+  { value: 'active-organizing', label: 'Active Organizing' },
+  { value: 'emerging', label: 'Emerging' },
+  { value: 'has-violations', label: 'Has Violations' },
+  { value: 'high-evictions', label: 'High Evictions' },
+  { value: 'favorites', label: 'My Favorites' },
+];
+
 // Type for display items - either a building or a linked group
 type DisplayItem =
   | { type: 'building'; building: EnhancedBuilding }
@@ -93,6 +147,8 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
   const [totalCount, setTotalCount] = useState(0);
   const [favorites, setFavorites] = useState<Set<string>>(new Set());
   const [linkedGroups, setLinkedGroups] = useState<ReturnType<typeof getLinkedGroups>>([]);
+  const [sortOption, setSortOption] = useState<SortOption>('units-desc');
+  const [filterOption, setFilterOption] = useState<FilterOption>('all');
   const listContainerRef = useRef<HTMLDivElement>(null);
   const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -272,9 +328,35 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     // Use search results if searching, otherwise show featured buildings
     let results = query ? searchResults : [...buildings];
 
-    // Sort to put favorites first, then maintain original order
     const favs = favoritesRef.current;
 
+    // Apply filter based on filterOption
+    if (filterOption !== 'all') {
+      results = results.filter((b) => {
+        switch (filterOption) {
+          case 'corporate':
+            return b.isCorporateOwned === true;
+          case 'individual':
+            return b.isCorporateOwned === false && b.propertyType !== 'mt';
+          case 'trust':
+            return b.propertyType === 'mt';
+          case 'active-organizing':
+            return b.organizingStatus === 'active';
+          case 'emerging':
+            return b.organizingStatus === 'emerging';
+          case 'has-violations':
+            return (b.totalViolations || 0) > 0;
+          case 'high-evictions':
+            return (b.evictionsPer100Units || 0) > 5; // Threshold: >5 evictions per 100 units
+          case 'favorites':
+            return favs.has(b.apn);
+          default:
+            return true;
+        }
+      });
+    }
+
+    // Sort results with favorites pinned to top, then by selected sort option
     return results.sort((a, b) => {
       // First priority: always sort favorites to top
       const aFav = favs.has(a.apn);
@@ -282,10 +364,50 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
       if (aFav && !bFav) return -1;
       if (!aFav && bFav) return 1;
 
-      // Default: maintain original order
-      return 0;
+      // Then apply selected sort option
+      switch (sortOption) {
+        case 'units-desc':
+          return (b.units || 0) - (a.units || 0);
+        case 'units-asc':
+          return (a.units || 0) - (b.units || 0);
+        case 'priority-desc':
+          return (b.organizingPriority || 0) - (a.organizingPriority || 0);
+        case 'habitability-asc': {
+          // Worst conditions = lowest score first (nulls last)
+          const aData = getHabitabilityScore(a.apn);
+          const bData = getHabitabilityScore(b.apn);
+          const aScore = aData?.score ?? 101;
+          const bScore = bData?.score ?? 101;
+          return aScore - bScore;
+        }
+        case 'evictions-desc':
+          return (b.evictionsPer100Units || 0) - (a.evictionsPer100Units || 0);
+        case 'violations-desc':
+          return (b.totalViolations || 0) - (a.totalViolations || 0);
+        case 'year-asc':
+          // Oldest first (nulls last)
+          return (a.yearBuilt || 9999) - (b.yearBuilt || 9999);
+        case 'year-desc':
+          // Newest first (nulls last)
+          return (b.yearBuilt || 0) - (a.yearBuilt || 0);
+        case 'portfolio-desc':
+          return (b.portfolioSize || 0) - (a.portfolioSize || 0);
+        case 'value-desc':
+          return (b.value || 0) - (a.value || 0);
+        case 'value-per-unit-desc': {
+          const aVpu = a.units > 0 ? (a.value || 0) / a.units : 0;
+          const bVpu = b.units > 0 ? (b.value || 0) / b.units : 0;
+          return bVpu - aVpu;
+        }
+        case 'address-asc':
+          return a.address.localeCompare(b.address);
+        case 'owner-asc':
+          return a.owner.localeCompare(b.owner);
+        default:
+          return 0;
+      }
     });
-  }, [buildings, searchResults, searchQuery]);
+  }, [buildings, searchResults, searchQuery, sortOption, filterOption]);
 
   // Pre-build apnToGroup map for O(1) lookups instead of O(n) per building
   const apnToGroup = useMemo(() => {
@@ -389,6 +511,34 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
         />
+
+        {/* Sort and Filter Controls */}
+        <div className="flex gap-2 mt-2">
+          <select
+            value={sortOption}
+            onChange={(e) => setSortOption(e.target.value as SortOption)}
+            className="flex-1 text-xs px-2 py-1.5 border border-gray-300 rounded bg-white focus:outline-none focus:ring-1 focus:ring-rstu-red"
+          >
+            {SORT_OPTIONS.map((opt) => (
+              <option key={opt.value} value={opt.value}>
+                {opt.label}
+              </option>
+            ))}
+          </select>
+
+          <select
+            value={filterOption}
+            onChange={(e) => setFilterOption(e.target.value as FilterOption)}
+            className="flex-1 text-xs px-2 py-1.5 border border-gray-300 rounded bg-white focus:outline-none focus:ring-1 focus:ring-rstu-red"
+          >
+            {FILTER_OPTIONS.map((opt) => (
+              <option key={opt.value} value={opt.value}>
+                {opt.label}
+              </option>
+            ))}
+          </select>
+        </div>
+
         <p className="text-xs text-gray-500 mt-2">
           {isSearching ? (
             <span className="text-gray-400">{t('buildings.searching')}</span>
