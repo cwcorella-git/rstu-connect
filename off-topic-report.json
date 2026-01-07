@@ -1,0 +1,1050 @@
+{
+  "summary": {
+    "totalDocuments": 2971,
+    "offTopicCount": 73,
+    "exceptionsCount": 0
+  },
+  "byCategory": {
+    "academic": [
+      {
+        "title": "Neuromorphic learning, working memory, and metaplasticity in nanowire networks",
+        "filename": "Neuromorphic learning, working memory, and metaplasticity in nanowire networks - sciadv.adg3289.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "academic",
+        "filepath": "docs/contemporary-analysis/Neuromorphic learning, working memory, and metaplasticity in nanowire networks - sciadv.adg3289.md"
+      },
+      {
+        "title": "ORIGINAL RESEARCH (2) Source: ./Surface Acting or Deep Acting, Who Need More Eff",
+        "filename": "Surface_Acting_or_Deep_Acting_Who_Need_More_Effortful_A_Study_on_Emotional_Labor.md",
+        "category": "Labor",
+        "offTopicType": "academic",
+        "filepath": "docs/labor/Surface_Acting_or_Deep_Acting_Who_Need_More_Effortful_A_Study_on_Emotional_Labor.md"
+      }
+    ],
+    "aiml": [
+      {
+        "title": "## Say Goodbye to Costly Auto-GPT and Lang Chain Runs: Meet ReWOO - The Game-Cha",
+        "filename": "Say Goodbye to Costly Auto-GPT and LangChain Runs Meet ReWOO - The Game-Changing Modular Paradigm that Cuts Token Consumption by Detaching Reasoning from External Observations - MarkTechPost.md",
+        "category": "Technology Digital Justice",
+        "offTopicType": "aiml",
+        "filepath": "docs/technology-digital-justice/Say Goodbye to Costly Auto-GPT and LangChain Runs Meet ReWOO - The Game-Changing Modular Paradigm that Cuts Token Consumption by Detaching Reasoning from External Observations - MarkTechPost.md"
+      },
+      {
+        "title": "Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-",
+        "filename": "arXiv_2406.07394.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "aiml",
+        "filepath": "docs/contemporary-analysis/arXiv_2406.07394.md"
+      },
+      {
+        "title": "ChatGPT Gets Its 'Wolfram Superpowers'!",
+        "filename": "ChatGPT Gets Its “Wolfram Superpowers”!—Stephen Wolfram Writings.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "aiml",
+        "filepath": "docs/contemporary-analysis/ChatGPT Gets Its “Wolfram Superpowers”!—Stephen Wolfram Writings.md"
+      },
+      {
+        "title": "Impromptu",
+        "filename": "Impromptu Amplifying Our Humanity Through - Reid Hoffman, GPT-4.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "aiml",
+        "filepath": "docs/contemporary-analysis/Impromptu Amplifying Our Humanity Through - Reid Hoffman, GPT-4.md"
+      }
+    ],
+    "architecture": [
+      {
+        "title": "henning larsen designs business school of hybrid timber in reims, france",
+        "filename": "henning larsen designs business school of hybrid timber in reims, france.md",
+        "category": "Youth Student Organizing",
+        "offTopicType": "architecture",
+        "filepath": "docs/youth-student-organizing/henning larsen designs business school of hybrid timber in reims, france.md"
+      },
+      {
+        "title": "UAE's africa institute cancels david adjaye-designed campus in sharjah",
+        "filename": "UAE's africa institute cancels david adjaye-designed campus in sharjah.md",
+        "category": "International Solidarity",
+        "offTopicType": "architecture",
+        "filepath": "docs/international-solidarity/UAE's africa institute cancels david adjaye-designed campus in sharjah.md"
+      }
+    ],
+    "fiction": [
+      {
+        "title": "AFTER A PSALM FOR THE WYILD-BUILT COMES THIS TALE OF HOPE AND ACCEPTANCE IN THE ",
+        "filename": "A prayer for the crown-shy - A Prayer for the Crown-Shy (Monk & Robot, 2) -- Becky Chambers; Lee Harris -- Monk & Robot, 2, First edition, New York, NY, 2022 -- New York, NY_ A -- 9781250236234 -- a86235781c7ad9a609ff0b481051b05e -- Anna’s Archive.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "fiction",
+        "filepath": "docs/contemporary-analysis/A prayer for the crown-shy - A Prayer for the Crown-Shy (Monk & Robot, 2) -- Becky Chambers; Lee Harris -- Monk & Robot, 2, First edition, New York, NY, 2022 -- New York, NY_ A -- 9781250236234 -- a86235781c7ad9a609ff0b481051b05e -- Anna’s Archive.md"
+      }
+    ],
+    "gamedev": [
+      {
+        "title": "[web.archive.org](https://web.archive.org/web/20250114153012/https://www.whatgam",
+        "filename": "You Need $100,000 [Game Development] - What Games Are.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/You Need $100,000 [Game Development] - What Games Are.md"
+      },
+      {
+        "title": "2. Game Concept:",
+        "filename": "Red-Dead-Redemption-2-GDD.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Red-Dead-Redemption-2-GDD.md"
+      },
+      {
+        "title": "Bio Shock will:",
+        "filename": "BioshockPitch.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/BioshockPitch.md"
+      },
+      {
+        "title": "Bio Shock will:",
+        "filename": "The-Bioshock-pitch-GDD.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/The-Bioshock-pitch-GDD.md"
+      },
+      {
+        "title": "Cheap moving parallax cloud shader for Godot - Victor Karp",
+        "filename": "Cheap moving parallax cloud shader for Godot – Victor Karp.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Cheap moving parallax cloud shader for Godot – Victor Karp.md"
+      },
+      {
+        "title": "DOOM Bibl e",
+        "filename": "DOOM Bible.PDF - doombible.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/DOOM Bible.PDF - doombible.md"
+      },
+      {
+        "title": "Effectively Organize Your Game's Development With a Game Design Document",
+        "filename": "Effectively Organize Your Game's Development With a Game Design Document.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Effectively Organize Your Game's Development With a Game Design Document.md"
+      },
+      {
+        "title": "FREE EBOOK 100 GAME DESIGN TIPS & TRICKS",
+        "filename": "bafykbzacedzcaffl2lq2x6cnmdlpscj3rzwe5iwzzhofzpnnxgaqgz44rssta.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/bafykbzacedzcaffl2lq2x6cnmdlpscj3rzwe5iwzzhofzpnnxgaqgz44rssta.md"
+      },
+      {
+        "title": "Game Design Concept and Pitch Template",
+        "filename": "Game Concept Document Template.md",
+        "category": "Theory",
+        "offTopicType": "gamedev",
+        "filepath": "docs/theory/Game Concept Document Template.md"
+      },
+      {
+        "title": "Game Design Document",
+        "filename": "Arcana Project GDD - Marcel Tau.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Arcana Project GDD - Marcel Tau.md"
+      },
+      {
+        "title": "Game Design Document",
+        "filename": "Microsoft Word - Arcana Project_GDD.docx - Game Design Document - Marcel Tau.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Microsoft Word - Arcana Project_GDD.docx - Game Design Document - Marcel Tau.md"
+      },
+      {
+        "title": "GLUED TO GAMES",
+        "filename": "Glued to Games How Video Games Draw Us In - Scott Rigby Richard M. Ryan.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Glued to Games How Video Games Draw Us In - Scott Rigby Richard M. Ryan.md"
+      },
+      {
+        "title": "Godot Animation Tutorial - Comprehensive Guide - Game Dev Academy",
+        "filename": "Godot Animation Tutorial - Comprehensive Guide - GameDev Academy.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Godot Animation Tutorial - Comprehensive Guide - GameDev Academy.md"
+      },
+      {
+        "title": "godot-docs/tutorials/animation/ animation tree.rst at master · godotengine/godot",
+        "filename": "godot-docs_tutorials_animation_animation_tree.rst at master · godotengine_godot-docs.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/godot-docs_tutorials_animation_animation_tree.rst at master · godotengine_godot-docs.md"
+      },
+      {
+        "title": "How to Master Advanced Animation in Godot: A Comprehensive Guide",
+        "filename": "How to Master Advanced Animation in Godot_ A Comprehens - Toxigon.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/How to Master Advanced Animation in Godot_ A Comprehens - Toxigon.md"
+      },
+      {
+        "title": "Introduction",
+        "filename": "Situational Game Design - Brian Upton.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Situational Game Design - Brian Upton.md"
+      },
+      {
+        "title": "Introduction",
+        "filename": "Saints Row_ The Fall - Saints-Row-GDD.md",
+        "category": "Technology Digital Justice",
+        "offTopicType": "gamedev",
+        "filepath": "docs/technology-digital-justice/Saints Row_ The Fall - Saints-Row-GDD.md"
+      },
+      {
+        "title": "Kobold",
+        "filename": "Complete Kobold Guide to Game Design - Wolfgang Baur.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Complete Kobold Guide to Game Design - Wolfgang Baur.md"
+      },
+      {
+        "title": "On Player Characters and Self Expression [Game Design]",
+        "filename": "On Player Characters and Self Expression [Game Design] - What Games Are.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/On Player Characters and Self Expression [Game Design] - What Games Are.md"
+      },
+      {
+        "title": "On the way to good",
+        "filename": "Diapositive 1 - Far-Cry-GDD.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Diapositive 1 - Far-Cry-GDD.md"
+      },
+      {
+        "title": "Prince of Persia 2",
+        "filename": "Prince-of-Persia-2-GDD.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Prince-of-Persia-2-GDD.md"
+      },
+      {
+        "title": "Race'n'Chase Game Design",
+        "filename": "grand-theft-auto.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/grand-theft-auto.md"
+      },
+      {
+        "title": "ROBERT ZUBEK",
+        "filename": "Elements of Game Design -- Robert Zubek -- MIT Press, Cambridge, Massachusetts, 2020 -- The MIT Press -- 9780262043915 -- 3b1887333c7b74fb7bd5220498d98aac -- Anna’s Archive.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Elements of Game Design -- Robert Zubek -- MIT Press, Cambridge, Massachusetts, 2020 -- The MIT Press -- 9780262043915 -- 3b1887333c7b74fb7bd5220498d98aac -- Anna’s Archive.md"
+      },
+      {
+        "title": "Serious Game Design Document Outline",
+        "filename": "Game Design Document Template - NewDesignDocTemplate.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Game Design Document Template - NewDesignDocTemplate.md"
+      },
+      {
+        "title": "sketchup for Paline DESIGN",
+        "filename": "SketchUp for Game Design - Rajib Dey.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/SketchUp for Game Design - Rajib Dey.md"
+      },
+      {
+        "title": "Table of Contents",
+        "filename": "Forerunners UI Sign In Specification - Halo-GDD.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Forerunners UI Sign In Specification - Halo-GDD.md"
+      },
+      {
+        "title": "Torin's Passage",
+        "filename": "Microsoft Word - Design.doc - The-sky-above-the-sky-below-GDD.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Microsoft Word - Design.doc - The-sky-above-the-sky-below-GDD.md"
+      },
+      {
+        "title": "Video Game Writing and the Sense of Story [Writing]",
+        "filename": "Video Game Writing and the Sense of Story [Writing] - What Games Are.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Video Game Writing and the Sense of Story [Writing] - What Games Are.md"
+      },
+      {
+        "title": "What Games Are",
+        "filename": "cityville-explained-final-part-social-games.md",
+        "category": "Arts Culture Music",
+        "offTopicType": "gamedev",
+        "filepath": "docs/arts-culture-music/cityville-explained-final-part-social-games.md"
+      },
+      {
+        "title": "What Games Are",
+        "filename": "cityville-explained-part-1-social-games.md",
+        "category": "Arts Culture Music",
+        "offTopicType": "gamedev",
+        "filepath": "docs/arts-culture-music/cityville-explained-part-1-social-games.md"
+      },
+      {
+        "title": "What Games Are",
+        "filename": "cityville-explained-part-2-social-games.md",
+        "category": "Arts Culture Music",
+        "offTopicType": "gamedev",
+        "filepath": "docs/arts-culture-music/cityville-explained-part-2-social-games.md"
+      },
+      {
+        "title": "What Games Are",
+        "filename": "cars-dolls-and-video-games-narrativism.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/cars-dolls-and-video-games-narrativism.md"
+      },
+      {
+        "title": "What we Mean by \"Nature\"",
+        "filename": "Finch-Original-Concept-Doc.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "gamedev",
+        "filepath": "docs/contemporary-analysis/Finch-Original-Concept-Doc.md"
+      }
+    ],
+    "philosophy": [
+      {
+        "title": "## ![](_page_0_Picture_2.jpeg)",
+        "filename": "The Internet Classics Archive _ The Enchiridion by Epictetus.md",
+        "category": "Technology Digital Justice",
+        "offTopicType": "philosophy",
+        "filepath": "docs/technology-digital-justice/The Internet Classics Archive _ The Enchiridion by Epictetus.md"
+      },
+      {
+        "title": "Episode 14: Epicureans Cynics And Stoics/",
+        "filename": "Episode 14 Epicureans Cynics And Stoics.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/Episode 14 Epicureans Cynics And Stoics.md"
+      },
+      {
+        "title": "Episode 15: Marcus Aurelius And Jesus/",
+        "filename": "Episode 15 Marcus Aurelius And Jesus.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/Episode 15 Marcus Aurelius And Jesus.md"
+      },
+      {
+        "title": "HOW TO BE FREE",
+        "filename": "How to Be Free An Ancient Guide to A Stoic - Epictetus.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Be Free An Ancient Guide to A Stoic - Epictetus.md"
+      },
+      {
+        "title": "HOW TO DIE",
+        "filename": "How to Die An Ancient Guide to the End of - Seneca.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Die An Ancient Guide to the End of - Seneca.md"
+      },
+      {
+        "title": "HOW TO GIVE",
+        "filename": "How to Give An Ancient Guide to Giving and - Seneca.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Give An Ancient Guide to Giving and - Seneca.md"
+      },
+      {
+        "title": "HOW TO GIVE",
+        "filename": "how-to-give-an-ancient-guide-to-giving-and-seneca--annas-archive.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/how-to-give-an-ancient-guide-to-giving-and-seneca--annas-archive.md"
+      },
+      {
+        "title": "How to Give:",
+        "filename": "How to Give.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Give.md"
+      },
+      {
+        "title": "HOW TO HAVE A LIFE",
+        "filename": "How to Have a Life - Seneca.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Have a Life - Seneca.md"
+      },
+      {
+        "title": "HOW TO HAVE A LIFE",
+        "filename": "How to Have a Life An Ancient Guide to Usi - Seneca.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Have a Life An Ancient Guide to Usi - Seneca.md"
+      },
+      {
+        "title": "HOW TO HAVE A LIFE",
+        "filename": "How to Have a Life An Ancient Guide to Using Our Time Wisely.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Have a Life An Ancient Guide to Using Our Time Wisely.md"
+      },
+      {
+        "title": "How to Keep Your Cool: An Ancient Guide to Anger Management by Seneca",
+        "filename": "How to Keep Your Cool An Ancient Guide to Anger Management.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Keep Your Cool An Ancient Guide to Anger Management.md"
+      },
+      {
+        "title": "Seneca",
+        "filename": "How to Keep Your Cool An Ancient Guide to - Seneca.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/How to Keep Your Cool An Ancient Guide to - Seneca.md"
+      },
+      {
+        "title": "Surviving the Social Media Crackdown",
+        "filename": "CrimethInc. _ Surviving the Social Media Crackdown _ The Instagram Ban—and How to Keep Following Us.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "philosophy",
+        "filepath": "docs/contemporary-analysis/CrimethInc. _ Surviving the Social Media Crackdown _ The Instagram Ban—and How to Keep Following Us.md"
+      },
+      {
+        "title": "The Enchiridion",
+        "filename": "The Project Gutenberg eBook of The Enchiridion, by Epictetus.md",
+        "category": "Arts Culture Music",
+        "offTopicType": "philosophy",
+        "filepath": "docs/arts-culture-music/The Project Gutenberg eBook of The Enchiridion, by Epictetus.md"
+      }
+    ],
+    "technical": [
+      {
+        "title": "A 3D printable alloy designed for extreme environments",
+        "filename": "A 3D printable alloy designed for extreme environments - s41586-023-05893-0.md",
+        "category": "Theory",
+        "offTopicType": "technical",
+        "filepath": "docs/theory/A 3D printable alloy designed for extreme environments - s41586-023-05893-0.md"
+      },
+      {
+        "title": "GAIA'S GARDEN",
+        "filename": "Gaia's Garden, Second Edition A Guide To Home-Scale Permaculture - Gaia's Garden, Second Edition A Guide To Home-Scale Permaculture.md",
+        "category": "Arts Culture Music",
+        "offTopicType": "technical",
+        "filepath": "docs/arts-culture-music/Gaia's Garden, Second Edition A Guide To Home-Scale Permaculture - Gaia's Garden, Second Edition A Guide To Home-Scale Permaculture.md"
+      },
+      {
+        "title": "Marda Permaculture Farm",
+        "filename": "Marda Permaculture Farm - Marda Permaculture Farm - Permaculture Research Institute.md",
+        "category": "Arts Culture Music",
+        "offTopicType": "technical",
+        "filepath": "docs/arts-culture-music/Marda Permaculture Farm - Marda Permaculture Farm - Permaculture Research Institute.md"
+      },
+      {
+        "title": "PERMACULTURE",
+        "filename": "Permaculture Principles and Pathways Beyond Sustainability.md",
+        "category": "Environmental Justice",
+        "offTopicType": "technical",
+        "filepath": "docs/environmental-justice/Permaculture Principles and Pathways Beyond Sustainability.md"
+      },
+      {
+        "title": "Permaculture Design Abyranya",
+        "filename": "Permaculture Design A Step-by-Step Guide - Permaculture Design.md",
+        "category": "Arts Culture Music",
+        "offTopicType": "technical",
+        "filepath": "docs/arts-culture-music/Permaculture Design A Step-by-Step Guide - Permaculture Design.md"
+      },
+      {
+        "title": "THE PERMACULTURE GARDEN",
+        "filename": "The Permaculture Garden - Graham Bell.md",
+        "category": "Arts Culture Music",
+        "offTopicType": "technical",
+        "filepath": "docs/arts-culture-music/The Permaculture Garden - Graham Bell.md"
+      },
+      {
+        "title": "Unity 5.x By Example",
+        "filename": "C# Scripting in Unity - Alan Thorn.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "technical",
+        "filepath": "docs/contemporary-analysis/C# Scripting in Unity - Alan Thorn.md"
+      },
+      {
+        "title": "What is Deep Water Culture (DWC system) - Tutorial ★ January [date template=\"Y\"]",
+        "filename": "What is Deep Water Culture (DWC system) - Tutorial ★ January 2023.md",
+        "category": "Environmental Justice",
+        "offTopicType": "technical",
+        "filepath": "docs/environmental-justice/What is Deep Water Culture (DWC system) - Tutorial ★ January 2023.md"
+      }
+    ],
+    "wikipedia": [
+      {
+        "title": "[Gravity battery](https://en.wikipedia.org/wiki/Main_Page)",
+        "filename": "Gravity battery - Wikipedia.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "wikipedia",
+        "filepath": "docs/contemporary-analysis/Gravity battery - Wikipedia.md"
+      },
+      {
+        "title": "[Kinesiology](https://en.wikipedia.org/wiki/Main_Page)",
+        "filename": "Kinesiology - Wikipedia.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "wikipedia",
+        "filepath": "docs/contemporary-analysis/Kinesiology - Wikipedia.md"
+      },
+      {
+        "title": "Judea",
+        "filename": "Judea - Wikipedia.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "wikipedia",
+        "filepath": "docs/contemporary-analysis/Judea - Wikipedia.md"
+      },
+      {
+        "title": "Kudzu",
+        "filename": "Kudzu - Wikipedia.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "wikipedia",
+        "filepath": "docs/contemporary-analysis/Kudzu - Wikipedia.md"
+      },
+      {
+        "title": "Meta-emotion",
+        "filename": "Meta-emotion - Wikipedia.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "wikipedia",
+        "filepath": "docs/contemporary-analysis/Meta-emotion - Wikipedia.md"
+      },
+      {
+        "title": "Ptolemy I Soter",
+        "filename": "Ptolemy I Soter - Wikipedia.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "wikipedia",
+        "filepath": "docs/contemporary-analysis/Ptolemy I Soter - Wikipedia.md"
+      },
+      {
+        "title": "Roman citizenship",
+        "filename": "Roman citizenship - Wikipedia.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "wikipedia",
+        "filepath": "docs/contemporary-analysis/Roman citizenship - Wikipedia.md"
+      },
+      {
+        "title": "Roman consul",
+        "filename": "Roman consul - Wikipedia.md",
+        "category": "Contemporary Analysis",
+        "offTopicType": "wikipedia",
+        "filepath": "docs/contemporary-analysis/Roman consul - Wikipedia.md"
+      }
+    ]
+  },
+  "offTopicDocs": [
+    {
+      "title": "Neuromorphic learning, working memory, and metaplasticity in nanowire networks",
+      "filename": "Neuromorphic learning, working memory, and metaplasticity in nanowire networks - sciadv.adg3289.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "academic",
+      "filepath": "docs/contemporary-analysis/Neuromorphic learning, working memory, and metaplasticity in nanowire networks - sciadv.adg3289.md"
+    },
+    {
+      "title": "ORIGINAL RESEARCH (2) Source: ./Surface Acting or Deep Acting, Who Need More Eff",
+      "filename": "Surface_Acting_or_Deep_Acting_Who_Need_More_Effortful_A_Study_on_Emotional_Labor.md",
+      "category": "Labor",
+      "offTopicType": "academic",
+      "filepath": "docs/labor/Surface_Acting_or_Deep_Acting_Who_Need_More_Effortful_A_Study_on_Emotional_Labor.md"
+    },
+    {
+      "title": "## Say Goodbye to Costly Auto-GPT and Lang Chain Runs: Meet ReWOO - The Game-Cha",
+      "filename": "Say Goodbye to Costly Auto-GPT and LangChain Runs Meet ReWOO - The Game-Changing Modular Paradigm that Cuts Token Consumption by Detaching Reasoning from External Observations - MarkTechPost.md",
+      "category": "Technology Digital Justice",
+      "offTopicType": "aiml",
+      "filepath": "docs/technology-digital-justice/Say Goodbye to Costly Auto-GPT and LangChain Runs Meet ReWOO - The Game-Changing Modular Paradigm that Cuts Token Consumption by Detaching Reasoning from External Observations - MarkTechPost.md"
+    },
+    {
+      "title": "Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-",
+      "filename": "arXiv_2406.07394.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "aiml",
+      "filepath": "docs/contemporary-analysis/arXiv_2406.07394.md"
+    },
+    {
+      "title": "ChatGPT Gets Its 'Wolfram Superpowers'!",
+      "filename": "ChatGPT Gets Its “Wolfram Superpowers”!—Stephen Wolfram Writings.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "aiml",
+      "filepath": "docs/contemporary-analysis/ChatGPT Gets Its “Wolfram Superpowers”!—Stephen Wolfram Writings.md"
+    },
+    {
+      "title": "Impromptu",
+      "filename": "Impromptu Amplifying Our Humanity Through - Reid Hoffman, GPT-4.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "aiml",
+      "filepath": "docs/contemporary-analysis/Impromptu Amplifying Our Humanity Through - Reid Hoffman, GPT-4.md"
+    },
+    {
+      "title": "henning larsen designs business school of hybrid timber in reims, france",
+      "filename": "henning larsen designs business school of hybrid timber in reims, france.md",
+      "category": "Youth Student Organizing",
+      "offTopicType": "architecture",
+      "filepath": "docs/youth-student-organizing/henning larsen designs business school of hybrid timber in reims, france.md"
+    },
+    {
+      "title": "UAE's africa institute cancels david adjaye-designed campus in sharjah",
+      "filename": "UAE's africa institute cancels david adjaye-designed campus in sharjah.md",
+      "category": "International Solidarity",
+      "offTopicType": "architecture",
+      "filepath": "docs/international-solidarity/UAE's africa institute cancels david adjaye-designed campus in sharjah.md"
+    },
+    {
+      "title": "AFTER A PSALM FOR THE WYILD-BUILT COMES THIS TALE OF HOPE AND ACCEPTANCE IN THE ",
+      "filename": "A prayer for the crown-shy - A Prayer for the Crown-Shy (Monk & Robot, 2) -- Becky Chambers; Lee Harris -- Monk & Robot, 2, First edition, New York, NY, 2022 -- New York, NY_ A -- 9781250236234 -- a86235781c7ad9a609ff0b481051b05e -- Anna’s Archive.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "fiction",
+      "filepath": "docs/contemporary-analysis/A prayer for the crown-shy - A Prayer for the Crown-Shy (Monk & Robot, 2) -- Becky Chambers; Lee Harris -- Monk & Robot, 2, First edition, New York, NY, 2022 -- New York, NY_ A -- 9781250236234 -- a86235781c7ad9a609ff0b481051b05e -- Anna’s Archive.md"
+    },
+    {
+      "title": "[web.archive.org](https://web.archive.org/web/20250114153012/https://www.whatgam",
+      "filename": "You Need $100,000 [Game Development] - What Games Are.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/You Need $100,000 [Game Development] - What Games Are.md"
+    },
+    {
+      "title": "2. Game Concept:",
+      "filename": "Red-Dead-Redemption-2-GDD.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Red-Dead-Redemption-2-GDD.md"
+    },
+    {
+      "title": "Bio Shock will:",
+      "filename": "BioshockPitch.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/BioshockPitch.md"
+    },
+    {
+      "title": "Bio Shock will:",
+      "filename": "The-Bioshock-pitch-GDD.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/The-Bioshock-pitch-GDD.md"
+    },
+    {
+      "title": "Cheap moving parallax cloud shader for Godot - Victor Karp",
+      "filename": "Cheap moving parallax cloud shader for Godot – Victor Karp.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Cheap moving parallax cloud shader for Godot – Victor Karp.md"
+    },
+    {
+      "title": "DOOM Bibl e",
+      "filename": "DOOM Bible.PDF - doombible.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/DOOM Bible.PDF - doombible.md"
+    },
+    {
+      "title": "Effectively Organize Your Game's Development With a Game Design Document",
+      "filename": "Effectively Organize Your Game's Development With a Game Design Document.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Effectively Organize Your Game's Development With a Game Design Document.md"
+    },
+    {
+      "title": "FREE EBOOK 100 GAME DESIGN TIPS & TRICKS",
+      "filename": "bafykbzacedzcaffl2lq2x6cnmdlpscj3rzwe5iwzzhofzpnnxgaqgz44rssta.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/bafykbzacedzcaffl2lq2x6cnmdlpscj3rzwe5iwzzhofzpnnxgaqgz44rssta.md"
+    },
+    {
+      "title": "Game Design Concept and Pitch Template",
+      "filename": "Game Concept Document Template.md",
+      "category": "Theory",
+      "offTopicType": "gamedev",
+      "filepath": "docs/theory/Game Concept Document Template.md"
+    },
+    {
+      "title": "Game Design Document",
+      "filename": "Arcana Project GDD - Marcel Tau.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Arcana Project GDD - Marcel Tau.md"
+    },
+    {
+      "title": "Game Design Document",
+      "filename": "Microsoft Word - Arcana Project_GDD.docx - Game Design Document - Marcel Tau.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Microsoft Word - Arcana Project_GDD.docx - Game Design Document - Marcel Tau.md"
+    },
+    {
+      "title": "GLUED TO GAMES",
+      "filename": "Glued to Games How Video Games Draw Us In - Scott Rigby Richard M. Ryan.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Glued to Games How Video Games Draw Us In - Scott Rigby Richard M. Ryan.md"
+    },
+    {
+      "title": "Godot Animation Tutorial - Comprehensive Guide - Game Dev Academy",
+      "filename": "Godot Animation Tutorial - Comprehensive Guide - GameDev Academy.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Godot Animation Tutorial - Comprehensive Guide - GameDev Academy.md"
+    },
+    {
+      "title": "godot-docs/tutorials/animation/ animation tree.rst at master · godotengine/godot",
+      "filename": "godot-docs_tutorials_animation_animation_tree.rst at master · godotengine_godot-docs.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/godot-docs_tutorials_animation_animation_tree.rst at master · godotengine_godot-docs.md"
+    },
+    {
+      "title": "How to Master Advanced Animation in Godot: A Comprehensive Guide",
+      "filename": "How to Master Advanced Animation in Godot_ A Comprehens - Toxigon.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/How to Master Advanced Animation in Godot_ A Comprehens - Toxigon.md"
+    },
+    {
+      "title": "Introduction",
+      "filename": "Situational Game Design - Brian Upton.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Situational Game Design - Brian Upton.md"
+    },
+    {
+      "title": "Introduction",
+      "filename": "Saints Row_ The Fall - Saints-Row-GDD.md",
+      "category": "Technology Digital Justice",
+      "offTopicType": "gamedev",
+      "filepath": "docs/technology-digital-justice/Saints Row_ The Fall - Saints-Row-GDD.md"
+    },
+    {
+      "title": "Kobold",
+      "filename": "Complete Kobold Guide to Game Design - Wolfgang Baur.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Complete Kobold Guide to Game Design - Wolfgang Baur.md"
+    },
+    {
+      "title": "On Player Characters and Self Expression [Game Design]",
+      "filename": "On Player Characters and Self Expression [Game Design] - What Games Are.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/On Player Characters and Self Expression [Game Design] - What Games Are.md"
+    },
+    {
+      "title": "On the way to good",
+      "filename": "Diapositive 1 - Far-Cry-GDD.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Diapositive 1 - Far-Cry-GDD.md"
+    },
+    {
+      "title": "Prince of Persia 2",
+      "filename": "Prince-of-Persia-2-GDD.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Prince-of-Persia-2-GDD.md"
+    },
+    {
+      "title": "Race'n'Chase Game Design",
+      "filename": "grand-theft-auto.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/grand-theft-auto.md"
+    },
+    {
+      "title": "ROBERT ZUBEK",
+      "filename": "Elements of Game Design -- Robert Zubek -- MIT Press, Cambridge, Massachusetts, 2020 -- The MIT Press -- 9780262043915 -- 3b1887333c7b74fb7bd5220498d98aac -- Anna’s Archive.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Elements of Game Design -- Robert Zubek -- MIT Press, Cambridge, Massachusetts, 2020 -- The MIT Press -- 9780262043915 -- 3b1887333c7b74fb7bd5220498d98aac -- Anna’s Archive.md"
+    },
+    {
+      "title": "Serious Game Design Document Outline",
+      "filename": "Game Design Document Template - NewDesignDocTemplate.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Game Design Document Template - NewDesignDocTemplate.md"
+    },
+    {
+      "title": "sketchup for Paline DESIGN",
+      "filename": "SketchUp for Game Design - Rajib Dey.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/SketchUp for Game Design - Rajib Dey.md"
+    },
+    {
+      "title": "Table of Contents",
+      "filename": "Forerunners UI Sign In Specification - Halo-GDD.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Forerunners UI Sign In Specification - Halo-GDD.md"
+    },
+    {
+      "title": "Torin's Passage",
+      "filename": "Microsoft Word - Design.doc - The-sky-above-the-sky-below-GDD.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Microsoft Word - Design.doc - The-sky-above-the-sky-below-GDD.md"
+    },
+    {
+      "title": "Video Game Writing and the Sense of Story [Writing]",
+      "filename": "Video Game Writing and the Sense of Story [Writing] - What Games Are.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Video Game Writing and the Sense of Story [Writing] - What Games Are.md"
+    },
+    {
+      "title": "What Games Are",
+      "filename": "cityville-explained-final-part-social-games.md",
+      "category": "Arts Culture Music",
+      "offTopicType": "gamedev",
+      "filepath": "docs/arts-culture-music/cityville-explained-final-part-social-games.md"
+    },
+    {
+      "title": "What Games Are",
+      "filename": "cityville-explained-part-1-social-games.md",
+      "category": "Arts Culture Music",
+      "offTopicType": "gamedev",
+      "filepath": "docs/arts-culture-music/cityville-explained-part-1-social-games.md"
+    },
+    {
+      "title": "What Games Are",
+      "filename": "cityville-explained-part-2-social-games.md",
+      "category": "Arts Culture Music",
+      "offTopicType": "gamedev",
+      "filepath": "docs/arts-culture-music/cityville-explained-part-2-social-games.md"
+    },
+    {
+      "title": "What Games Are",
+      "filename": "cars-dolls-and-video-games-narrativism.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/cars-dolls-and-video-games-narrativism.md"
+    },
+    {
+      "title": "What we Mean by \"Nature\"",
+      "filename": "Finch-Original-Concept-Doc.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "gamedev",
+      "filepath": "docs/contemporary-analysis/Finch-Original-Concept-Doc.md"
+    },
+    {
+      "title": "## ![](_page_0_Picture_2.jpeg)",
+      "filename": "The Internet Classics Archive _ The Enchiridion by Epictetus.md",
+      "category": "Technology Digital Justice",
+      "offTopicType": "philosophy",
+      "filepath": "docs/technology-digital-justice/The Internet Classics Archive _ The Enchiridion by Epictetus.md"
+    },
+    {
+      "title": "Episode 14: Epicureans Cynics And Stoics/",
+      "filename": "Episode 14 Epicureans Cynics And Stoics.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/Episode 14 Epicureans Cynics And Stoics.md"
+    },
+    {
+      "title": "Episode 15: Marcus Aurelius And Jesus/",
+      "filename": "Episode 15 Marcus Aurelius And Jesus.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/Episode 15 Marcus Aurelius And Jesus.md"
+    },
+    {
+      "title": "HOW TO BE FREE",
+      "filename": "How to Be Free An Ancient Guide to A Stoic - Epictetus.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Be Free An Ancient Guide to A Stoic - Epictetus.md"
+    },
+    {
+      "title": "HOW TO DIE",
+      "filename": "How to Die An Ancient Guide to the End of - Seneca.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Die An Ancient Guide to the End of - Seneca.md"
+    },
+    {
+      "title": "HOW TO GIVE",
+      "filename": "How to Give An Ancient Guide to Giving and - Seneca.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Give An Ancient Guide to Giving and - Seneca.md"
+    },
+    {
+      "title": "HOW TO GIVE",
+      "filename": "how-to-give-an-ancient-guide-to-giving-and-seneca--annas-archive.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/how-to-give-an-ancient-guide-to-giving-and-seneca--annas-archive.md"
+    },
+    {
+      "title": "How to Give:",
+      "filename": "How to Give.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Give.md"
+    },
+    {
+      "title": "HOW TO HAVE A LIFE",
+      "filename": "How to Have a Life - Seneca.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Have a Life - Seneca.md"
+    },
+    {
+      "title": "HOW TO HAVE A LIFE",
+      "filename": "How to Have a Life An Ancient Guide to Usi - Seneca.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Have a Life An Ancient Guide to Usi - Seneca.md"
+    },
+    {
+      "title": "HOW TO HAVE A LIFE",
+      "filename": "How to Have a Life An Ancient Guide to Using Our Time Wisely.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Have a Life An Ancient Guide to Using Our Time Wisely.md"
+    },
+    {
+      "title": "How to Keep Your Cool: An Ancient Guide to Anger Management by Seneca",
+      "filename": "How to Keep Your Cool An Ancient Guide to Anger Management.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Keep Your Cool An Ancient Guide to Anger Management.md"
+    },
+    {
+      "title": "Seneca",
+      "filename": "How to Keep Your Cool An Ancient Guide to - Seneca.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/How to Keep Your Cool An Ancient Guide to - Seneca.md"
+    },
+    {
+      "title": "Surviving the Social Media Crackdown",
+      "filename": "CrimethInc. _ Surviving the Social Media Crackdown _ The Instagram Ban—and How to Keep Following Us.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "philosophy",
+      "filepath": "docs/contemporary-analysis/CrimethInc. _ Surviving the Social Media Crackdown _ The Instagram Ban—and How to Keep Following Us.md"
+    },
+    {
+      "title": "The Enchiridion",
+      "filename": "The Project Gutenberg eBook of The Enchiridion, by Epictetus.md",
+      "category": "Arts Culture Music",
+      "offTopicType": "philosophy",
+      "filepath": "docs/arts-culture-music/The Project Gutenberg eBook of The Enchiridion, by Epictetus.md"
+    },
+    {
+      "title": "A 3D printable alloy designed for extreme environments",
+      "filename": "A 3D printable alloy designed for extreme environments - s41586-023-05893-0.md",
+      "category": "Theory",
+      "offTopicType": "technical",
+      "filepath": "docs/theory/A 3D printable alloy designed for extreme environments - s41586-023-05893-0.md"
+    },
+    {
+      "title": "GAIA'S GARDEN",
+      "filename": "Gaia's Garden, Second Edition A Guide To Home-Scale Permaculture - Gaia's Garden, Second Edition A Guide To Home-Scale Permaculture.md",
+      "category": "Arts Culture Music",
+      "offTopicType": "technical",
+      "filepath": "docs/arts-culture-music/Gaia's Garden, Second Edition A Guide To Home-Scale Permaculture - Gaia's Garden, Second Edition A Guide To Home-Scale Permaculture.md"
+    },
+    {
+      "title": "Marda Permaculture Farm",
+      "filename": "Marda Permaculture Farm - Marda Permaculture Farm - Permaculture Research Institute.md",
+      "category": "Arts Culture Music",
+      "offTopicType": "technical",
+      "filepath": "docs/arts-culture-music/Marda Permaculture Farm - Marda Permaculture Farm - Permaculture Research Institute.md"
+    },
+    {
+      "title": "PERMACULTURE",
+      "filename": "Permaculture Principles and Pathways Beyond Sustainability.md",
+      "category": "Environmental Justice",
+      "offTopicType": "technical",
+      "filepath": "docs/environmental-justice/Permaculture Principles and Pathways Beyond Sustainability.md"
+    },
+    {
+      "title": "Permaculture Design Abyranya",
+      "filename": "Permaculture Design A Step-by-Step Guide - Permaculture Design.md",
+      "category": "Arts Culture Music",
+      "offTopicType": "technical",
+      "filepath": "docs/arts-culture-music/Permaculture Design A Step-by-Step Guide - Permaculture Design.md"
+    },
+    {
+      "title": "THE PERMACULTURE GARDEN",
+      "filename": "The Permaculture Garden - Graham Bell.md",
+      "category": "Arts Culture Music",
+      "offTopicType": "technical",
+      "filepath": "docs/arts-culture-music/The Permaculture Garden - Graham Bell.md"
+    },
+    {
+      "title": "Unity 5.x By Example",
+      "filename": "C# Scripting in Unity - Alan Thorn.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "technical",
+      "filepath": "docs/contemporary-analysis/C# Scripting in Unity - Alan Thorn.md"
+    },
+    {
+      "title": "What is Deep Water Culture (DWC system) - Tutorial ★ January [date template=\"Y\"]",
+      "filename": "What is Deep Water Culture (DWC system) - Tutorial ★ January 2023.md",
+      "category": "Environmental Justice",
+      "offTopicType": "technical",
+      "filepath": "docs/environmental-justice/What is Deep Water Culture (DWC system) - Tutorial ★ January 2023.md"
+    },
+    {
+      "title": "[Gravity battery](https://en.wikipedia.org/wiki/Main_Page)",
+      "filename": "Gravity battery - Wikipedia.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "wikipedia",
+      "filepath": "docs/contemporary-analysis/Gravity battery - Wikipedia.md"
+    },
+    {
+      "title": "[Kinesiology](https://en.wikipedia.org/wiki/Main_Page)",
+      "filename": "Kinesiology - Wikipedia.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "wikipedia",
+      "filepath": "docs/contemporary-analysis/Kinesiology - Wikipedia.md"
+    },
+    {
+      "title": "Judea",
+      "filename": "Judea - Wikipedia.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "wikipedia",
+      "filepath": "docs/contemporary-analysis/Judea - Wikipedia.md"
+    },
+    {
+      "title": "Kudzu",
+      "filename": "Kudzu - Wikipedia.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "wikipedia",
+      "filepath": "docs/contemporary-analysis/Kudzu - Wikipedia.md"
+    },
+    {
+      "title": "Meta-emotion",
+      "filename": "Meta-emotion - Wikipedia.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "wikipedia",
+      "filepath": "docs/contemporary-analysis/Meta-emotion - Wikipedia.md"
+    },
+    {
+      "title": "Ptolemy I Soter",
+      "filename": "Ptolemy I Soter - Wikipedia.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "wikipedia",
+      "filepath": "docs/contemporary-analysis/Ptolemy I Soter - Wikipedia.md"
+    },
+    {
+      "title": "Roman citizenship",
+      "filename": "Roman citizenship - Wikipedia.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "wikipedia",
+      "filepath": "docs/contemporary-analysis/Roman citizenship - Wikipedia.md"
+    },
+    {
+      "title": "Roman consul",
+      "filename": "Roman consul - Wikipedia.md",
+      "category": "Contemporary Analysis",
+      "offTopicType": "wikipedia",
+      "filepath": "docs/contemporary-analysis/Roman consul - Wikipedia.md"
+    }
+  ],
+  "exceptions": []
+}
