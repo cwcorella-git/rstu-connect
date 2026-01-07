@@ -1,5 +1,5 @@
 ---
-title: '*Psychological and Mathematical*'
+title: 'Man, Play and Games'
 category: technology-digital-justice
 tags:
   - technology

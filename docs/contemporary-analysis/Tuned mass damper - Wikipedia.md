@@ -1,6 +1,7 @@
 ---
-title: "[Tuned mass damper](https://en.wikipedia.org/wiki/Main_Page)"
-category: "contemporary-analysis"
+title: Tuned mass damper
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

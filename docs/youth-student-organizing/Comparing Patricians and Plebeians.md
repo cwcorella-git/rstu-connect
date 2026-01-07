@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [studentsofhistory.com](https://www.studentsofhistory.com/comparing-patricians-plebeians)
+title: studentsofhistory.com
 category: contemporary-analysis
 tags:
   - education

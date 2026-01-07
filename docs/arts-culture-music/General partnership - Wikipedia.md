@@ -1,6 +1,7 @@
 ---
-title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/General_partnership)"
-category: "arts-culture-music"
+title: en.wikipedia.org
+category: arts-culture-music
+tags: []
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/General_partnership)

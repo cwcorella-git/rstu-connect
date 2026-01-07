@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Where License Reigns With All Impunity an Anarchist Study of the Rotinonshónni
+  P
 author: Murray Bookchin
 date: '2025'
 category: theory

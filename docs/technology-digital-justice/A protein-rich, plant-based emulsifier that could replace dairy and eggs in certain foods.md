@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [phys.org](https://phys.org/news/2021-12-protein-rich-plant-based-emulsifier-dairy-eggs.amp)
+title: phys.org
 category: technology-digital-justice
 tags:
   - technology

@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [nleomf.org](https://nleomf.org/slave-patrols-an-early-form-of-american-policing/)
+title: nleomf.org
 category: contemporary-analysis
 tags:
   - police

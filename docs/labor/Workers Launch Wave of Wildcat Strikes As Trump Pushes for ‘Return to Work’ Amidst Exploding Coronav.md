@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Workers Launch Wave of Wildcat Strikes As Trump Pushes for 'Return to Work'
+  Amidst Exploding Coronavirus
 author: It's Going Down
 date: '2020'
 category: labor

@@ -1,6 +1,7 @@
 ---
-title: "[Simple probes can](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1) [catch sleeper](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1) [agents](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1)"
-category: "contemporary-analysis"
+title: Simple probes can catch sleeper agents
+category: contemporary-analysis
+tags: []
 ---
 
 # [Simple probes can](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1) [catch sleeper](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1) [agents](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1)

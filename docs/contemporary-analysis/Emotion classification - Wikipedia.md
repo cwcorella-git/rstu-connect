@@ -1,6 +1,7 @@
 ---
-title: "[Emotion classi](https://en.wikipedia.org/wiki/Main_Page)fication"
-category: "contemporary-analysis"
+title: Emotion classification
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

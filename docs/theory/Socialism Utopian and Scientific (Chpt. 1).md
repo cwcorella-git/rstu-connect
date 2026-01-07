@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch01.htm)
+title: marxists.org
 category: contemporary-analysis
 tags:
   - socialism

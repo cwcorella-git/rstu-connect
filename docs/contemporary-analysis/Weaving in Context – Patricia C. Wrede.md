@@ -1,6 +1,7 @@
 ---
-title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/weaving-in-context/)"
-category: "contemporary-analysis"
+title: pcwrede.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/weaving-in-context/)

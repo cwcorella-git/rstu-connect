@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  No Jobs On a Dead Planet Why South African Unions Should Stop Investing in
+  Fossi
 author: Industrial Workers of the World
 date: '2025'
 category: labor

@@ -1,5 +1,5 @@
 ---
-title: '[gnu.org](https://www.gnu.org/education/education.html)'
+title: Free Software and Education - GNU Project
 category: labor
 tags:
   - education

@@ -1,6 +1,7 @@
 ---
-title: "[re-des.org](https://www.re-des.org/es/a-solarpunk-manifesto/)"
-category: "contemporary-analysis"
+title: A Solarpunk Manifesto (English) – Re Des – Regenerative Design
+category: contemporary-analysis
+tags: []
 ---
 
 [re-des.org](https://www.re-des.org/es/a-solarpunk-manifesto/)

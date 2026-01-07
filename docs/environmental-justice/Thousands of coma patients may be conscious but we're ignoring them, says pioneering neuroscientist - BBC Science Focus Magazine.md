@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [sciencefocus.com](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate)
+title: sciencefocus.com
 category: environmental-justice
 tags:
   - environment

@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Green Unionism Done Right in Richmond a Brief Review of the Roadmap To Contra
+  Co
 author: Industrial Workers of the World
 date: '2025'
 category: labor

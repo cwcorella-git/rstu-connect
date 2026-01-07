@@ -1,5 +1,5 @@
 ---
-title: '>-'
+title: 'Ethnohistory: Emerging Histories in Madagascar.'
 author: David Graeber
 date: '2004'
 category: environmental-justice

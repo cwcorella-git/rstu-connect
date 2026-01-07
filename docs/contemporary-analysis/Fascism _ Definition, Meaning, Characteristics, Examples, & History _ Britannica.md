@@ -1,6 +1,7 @@
 ---
-title: "## [britannica.com](https://www.britannica.com/topic/fascism)"
-category: "contemporary-analysis"
+title: britannica.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [britannica.com](https://www.britannica.com/topic/fascism)

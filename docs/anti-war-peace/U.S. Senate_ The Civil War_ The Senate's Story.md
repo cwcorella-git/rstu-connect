@@ -1,7 +1,5 @@
 ---
-title: >-
-  [senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory
-  Tragedy Reconstru
+title: 'U. S. Senate: The Civil War: The Senate''s Story'
 category: anti-war-peace
 tags:
   - anti-war

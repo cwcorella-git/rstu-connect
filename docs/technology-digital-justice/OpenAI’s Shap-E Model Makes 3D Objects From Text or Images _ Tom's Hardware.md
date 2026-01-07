@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [tomshardware.com](https://www.tomshardware.com/news/openai-shap-e-creates-3d-models)
+title: tomshardware.com
 category: technology-digital-justice
 tags:
   - technology

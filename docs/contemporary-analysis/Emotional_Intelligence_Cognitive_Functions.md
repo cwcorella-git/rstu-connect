@@ -1,6 +1,9 @@
 ---
-title: "[Emotional intelligence in action:](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full) [theoretical models for educators](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full) [to enhance learning and](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full) [connection in the classroom: a](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full) [conceptual review](https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1660296/full)"
-category: "contemporary-analysis"
+title: >-
+  Emotional intelligence in action: theoretical models for educators to enhance
+  learning and connection in the classroom: a conceptual review
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

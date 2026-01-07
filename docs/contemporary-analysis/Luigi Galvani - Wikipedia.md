@@ -1,6 +1,7 @@
 ---
-title: "[Luigi Galvani](https://en.wikipedia.org/wiki/Main_Page)"
-category: "contemporary-analysis"
+title: Luigi Galvani
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

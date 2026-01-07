@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Against Capital in the Twenty First Century a Reader of Radical Undercurrents
+  a
 author: 'John Asimakopoulos (editor), Richard Gilman-Opalsky (Editor)'
 date: '2025'
 category: housing

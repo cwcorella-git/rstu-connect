@@ -1,6 +1,7 @@
 ---
-title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Donald_L._Cox)"
-category: "contemporary-analysis"
+title: en.wikipedia.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Donald_L._Cox)

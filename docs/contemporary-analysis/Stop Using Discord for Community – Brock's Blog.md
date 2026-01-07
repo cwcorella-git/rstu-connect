@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [blog.brockh.at](https://blog.brockh.at/2025/09/24/stop-using-discord-for-community/)
+title: blog.brockh.at
 category: contemporary-analysis
 tags:
   - community

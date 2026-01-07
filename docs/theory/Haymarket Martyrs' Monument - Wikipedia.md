@@ -1,5 +1,5 @@
 ---
-title: '*Haymarket Martyrs'' Monument*'
+title: Haymarket Martyrs' Monument
 category: theory
 tags:
   - theory

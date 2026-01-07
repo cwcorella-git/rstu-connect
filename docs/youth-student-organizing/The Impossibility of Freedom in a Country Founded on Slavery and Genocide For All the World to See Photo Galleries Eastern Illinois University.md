@@ -1,5 +1,5 @@
 ---
-title: '## [thekeep.eiu.edu](https://thekeep.eiu.edu/civilrights_slavery_genocide/)'
+title: thekeep.eiu.edu
 category: youth-student-organizing
 tags:
   - liberty

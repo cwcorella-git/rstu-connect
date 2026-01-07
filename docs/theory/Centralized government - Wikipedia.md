@@ -1,5 +1,5 @@
 ---
-title: '## [en.wikipedia.org](https://en.wikipedia.org/wiki/Centralized_government)'
+title: en.wikipedia.org
 category: theory
 tags:
   - theory

@@ -1,5 +1,5 @@
 ---
-title: '26'
+title: That is what is meant by success is as dangerous as failure.
 category: technology-digital-justice
 tags:
   - technology

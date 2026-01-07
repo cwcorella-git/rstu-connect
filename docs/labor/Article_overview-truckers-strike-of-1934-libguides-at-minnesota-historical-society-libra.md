@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Overview Truckers Strike of 1934 Libguides At Minnesota Historical Society
+  Libra
 author: Unknown
 date: '2025'
 category: labor

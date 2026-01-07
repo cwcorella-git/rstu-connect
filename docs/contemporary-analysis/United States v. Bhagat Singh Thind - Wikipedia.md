@@ -1,6 +1,7 @@
 ---
-title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_v._Bhagat_Singh_Thind)"
-category: "contemporary-analysis"
+title: en.wikipedia.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_v._Bhagat_Singh_Thind)

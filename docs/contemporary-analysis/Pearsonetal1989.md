@@ -1,6 +1,7 @@
 ---
-title: "[Social ranking in the Kingdom of Old Silla, Korea: Analysis of burials](https://www.researchgate.net/publication/223429293_Social_ranking_in_the_Kingdom_of_Old_Silla_Korea_Analysis_of_burials?enrich Id=rgreq-28ca55a40a024ca8577568e4b9b75c1d-XXX&enrich Source=Y292ZXJQYWdl OzIy MzQyOTI5MztBUzo3Mj QxNTMwNDA2NTg0MzNAMTU0OTY2Mjk0Nzgz Mg%3D%3D&el=1_x_3&_esc=publication Cover Pdf)"
-category: "contemporary-analysis"
+title: 'Social ranking in the Kingdom of Old Silla, Korea: Analysis of burials'
+category: contemporary-analysis
+tags: []
 ---
 
 # [Social ranking in the Kingdom of Old Silla, Korea: Analysis of burials](https://www.researchgate.net/publication/223429293_Social_ranking_in_the_Kingdom_of_Old_Silla_Korea_Analysis_of_burials?enrich Id=rgreq-28ca55a40a024ca8577568e4b9b75c1d-XXX&enrich Source=Y292ZXJQYWdl OzIy MzQyOTI5MztBUzo3Mj QxNTMwNDA2NTg0MzNAMTU0OTY2Mjk0Nzgz Mg%3D%3D&el=1_x_3&_esc=publication Cover Pdf)

@@ -1,5 +1,5 @@
 ---
-title: '>-'
+title: 'Global Shadows: Africa in the Neoliberal World Order.'
 author: David Graeber
 date: '2007'
 category: arts-culture-music

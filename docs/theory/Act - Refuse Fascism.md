@@ -1,5 +1,5 @@
 ---
-title: '## [refusefascism.org](https://refusefascism.org/act/)'
+title: refusefascism.org
 category: theory
 tags:
   - theory

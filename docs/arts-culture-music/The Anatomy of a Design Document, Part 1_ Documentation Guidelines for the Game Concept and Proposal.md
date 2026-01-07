@@ -1,6 +1,7 @@
 ---
-title: "## [gamedeveloper.com](https://www.gamedeveloper.com/design/the-anatomy-of-a-design-document-part-1-"
-category: "arts-culture-music"
+title: gamedeveloper.com
+category: arts-culture-music
+tags: []
 ---
 
 ## [gamedeveloper.com](https://www.gamedeveloper.com/design/the-anatomy-of-a-design-document-part-1-documentation-guidelines-for-the-game-concept-and-proposal)

@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [relationship-anarchy.com](https://relationship-anarchy.com/2016-6-20-do-relationship-anarchists-
+title: relationship-anarchy.com
 category: contemporary-analysis
 tags:
   - anarchism

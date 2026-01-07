@@ -1,6 +1,7 @@
 ---
-title: "## [redsails.org](https://redsails.org/the-pitfalls-of-liberalism/)"
-category: "contemporary-analysis"
+title: redsails.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [redsails.org](https://redsails.org/the-pitfalls-of-liberalism/)

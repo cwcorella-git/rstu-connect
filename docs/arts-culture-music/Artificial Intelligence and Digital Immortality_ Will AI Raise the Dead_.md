@@ -1,6 +1,7 @@
 ---
-title: "## [esquire.com](https://www.esquire.com/news-politics/a43774075/artificial-intelligence-digital-imm"
-category: "arts-culture-music"
+title: esquire.com
+category: arts-culture-music
+tags: []
 ---
 
 ## [esquire.com](https://www.esquire.com/news-politics/a43774075/artificial-intelligence-digital-immortality/)

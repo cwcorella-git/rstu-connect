@@ -1,6 +1,8 @@
 ---
-title: "*Rocky Myers*"
-category: "contemporary-analysis"
+title: 'Racism, shmacism. Get a rope and let''s go hang us one.'
+category: contemporary-analysis
+tags:
+  - racism
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

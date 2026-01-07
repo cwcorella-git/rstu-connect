@@ -1,5 +1,5 @@
 ---
-title: '[gnu.org](https://www.gnu.org/philosophy/pragmatic.html)'
+title: 'Copyleft: Pragmatic Idealism - GNU Project'
 category: technology-digital-justice
 tags:
   - technology

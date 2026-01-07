@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  The Teacher Strike in West Virginia Interview With Iww Teacher Michael
+  Mochaidea
 author: It's Going Down
 date: '2025'
 category: labor

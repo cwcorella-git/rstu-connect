@@ -1,6 +1,7 @@
 ---
-title: "## [hackster.io](https://www.hackster.io/news/the-fastest-bot-in-the-east-cc56c33b7809.amp)"
-category: "contemporary-analysis"
+title: hackster.io
+category: contemporary-analysis
+tags: []
 ---
 
 ## [hackster.io](https://www.hackster.io/news/the-fastest-bot-in-the-east-cc56c33b7809.amp)

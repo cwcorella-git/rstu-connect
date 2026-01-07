@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  For the Creation of a Global Network of Revolutionary Anarchists and Anti
+  Lenini
 author: Unknown
 date: '2025'
 category: theory

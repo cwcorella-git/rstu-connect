@@ -1,6 +1,7 @@
 ---
-title: "## [supreme.justia.com](https://supreme.justia.com/cases/federal/us/545/748/)"
-category: "contemporary-analysis"
+title: supreme.justia.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [supreme.justia.com](https://supreme.justia.com/cases/federal/us/545/748/)

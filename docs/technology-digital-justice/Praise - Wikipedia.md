@@ -1,5 +1,5 @@
 ---
-title: '[Praise](https://en.wikipedia.org/wiki/Main_Page)'
+title: Praise
 category: technology-digital-justice
 tags:
   - technology

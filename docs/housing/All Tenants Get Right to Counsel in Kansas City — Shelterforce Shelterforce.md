@@ -1,5 +1,5 @@
 ---
-title: '>-'
+title: All Tenants Get Right to Counsel in Kansas City
 author: Patricia Bordallo Dibildox
 date: '2019'
 category: housing

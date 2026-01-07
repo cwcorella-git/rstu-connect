@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  The Trade Union Unity League American Communists and the Transition To
+  Industria
 author: Industrial Workers of the World
 date: '2025'
 category: labor

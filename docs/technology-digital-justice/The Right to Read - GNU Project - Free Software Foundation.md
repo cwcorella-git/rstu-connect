@@ -1,5 +1,5 @@
 ---
-title: '[gnu.org](https://www.gnu.org/philosophy/right-to-read.html)'
+title: The Right to Read - GNU Project
 category: technology-digital-justice
 tags:
   - technology

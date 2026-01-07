@@ -1,5 +1,5 @@
 ---
-title: '[Mécanisme de la physionomie humaine](https://en.wikipedia.org/wiki/Main_Page)'
+title: Mécanisme de la physionomie humaine
 category: technology-digital-justice
 tags:
   - Los Angeles

@@ -1,6 +1,5 @@
 ---
-title: >-
-  [designboom.com](https://www.designboom.com/architecture/hassell-nagami-toorg-3d-printed-public-pavi
+title: HASSELL & nagami develop 3Dprinted public pavilion for harsh climates
 category: environmental-justice
 tags:
   - environment

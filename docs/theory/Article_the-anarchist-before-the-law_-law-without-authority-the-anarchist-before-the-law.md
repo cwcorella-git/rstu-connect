@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  The Anarchist Before the Law Law Without Authority the Anarchist Before the
+  Law
 author: Saul Newman
 date: '2025'
 category: theory

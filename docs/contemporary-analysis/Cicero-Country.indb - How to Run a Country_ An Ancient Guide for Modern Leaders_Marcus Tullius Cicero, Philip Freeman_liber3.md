@@ -1,6 +1,7 @@
 ---
-title: "CONTENTS"
-category: "contemporary-analysis"
+title: An Ancient Guide for Modern Leaders
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

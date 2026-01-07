@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Wobbling To Victory Are Militant Unions Anarchist Wreckers Or the Future of
+  the
 author: Industrial Workers of the World
 date: '2025'
 category: theory

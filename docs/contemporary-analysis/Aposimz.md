@@ -1,6 +1,7 @@
 ---
-title: "*Aposimz*"
-category: "contemporary-analysis"
+title: Aposimz
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

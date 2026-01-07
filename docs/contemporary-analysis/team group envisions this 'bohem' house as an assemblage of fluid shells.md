@@ -1,6 +1,7 @@
 ---
-title: "## [designboom.com](https://www.designboom.com/architecture/bohem-project-iran-team-group-03-05-2022"
-category: "contemporary-analysis"
+title: designboom.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [designboom.com](https://www.designboom.com/architecture/bohem-project-iran-team-group-03-05-2022/)

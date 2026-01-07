@@ -1,5 +1,5 @@
 ---
-title: '[Battle of Blair Mountain](https://en.wikipedia.org/wiki/Main_Page)'
+title: Battle of Blair Mountain
 category: labor
 tags:
   - labor

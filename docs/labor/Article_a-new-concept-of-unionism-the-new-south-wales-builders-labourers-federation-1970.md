@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  A New Concept Of Unionism The New South Wales Builders Labourers Federation
+  1970
 author: Unknown
 date: '2025'
 category: labor

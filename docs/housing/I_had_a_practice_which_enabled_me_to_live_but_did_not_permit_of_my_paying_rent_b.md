@@ -1,5 +1,8 @@
 ---
-title: '>-'
+title: >-
+  I had a practice which enabled me to live, but did not permit of my paying
+  rent, but the brutal law sent its minions, and because I could not submit to
+  be robbed, put it out of my power to earn a live
 author: Oscar Wilde
 date: '1891'
 category: housing

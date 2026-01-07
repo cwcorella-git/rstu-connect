@@ -1,6 +1,7 @@
 ---
-title: "## [pbs.org](https://www.pbs.org/wgbh/americanexperience/features/lbj-michigan/)"
-category: "contemporary-analysis"
+title: pbs.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [pbs.org](https://www.pbs.org/wgbh/americanexperience/features/lbj-michigan/)

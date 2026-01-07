@@ -1,6 +1,7 @@
 ---
-title: "[Lumad](https://en.wikipedia.org/wiki/Main_Page)"
-category: "contemporary-analysis"
+title: Lumad
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

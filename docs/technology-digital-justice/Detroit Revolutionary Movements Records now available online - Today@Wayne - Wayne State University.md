@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [today.wayne.edu](https://today.wayne.edu/news/2020/09/09/detroit-revolutionary-movements-records
+title: today.wayne.edu
 category: technology-digital-justice
 tags:
   - technology

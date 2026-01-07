@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  From Republicanism to Anarchism: The making of an anarchist in Portlaoise
+  prison
 author: Workers Solidarity Movement
 date: '2010'
 category: theory

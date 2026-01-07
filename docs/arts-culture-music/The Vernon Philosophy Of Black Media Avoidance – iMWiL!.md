@@ -1,6 +1,8 @@
 ---
-title: "[imixwhatilike.org](https://imixwhatilike.org/2018/12/18/vernon-philosophy/)"
-category: "arts-culture-music"
+title: The Vernon Philosophy Of Black Media Avoidance
+category: arts-culture-music
+tags:
+  - Black
 ---
 
 [imixwhatilike.org](https://imixwhatilike.org/2018/12/18/vernon-philosophy/)

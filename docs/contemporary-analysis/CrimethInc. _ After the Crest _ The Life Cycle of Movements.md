@@ -1,6 +1,7 @@
 ---
-title: "## [crimethinc.com](https://crimethinc.com/2013/09/09/after-the-crest-the-life-cycle-of-movements)"
-category: "contemporary-analysis"
+title: crimethinc.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [crimethinc.com](https://crimethinc.com/2013/09/09/after-the-crest-the-life-cycle-of-movements)

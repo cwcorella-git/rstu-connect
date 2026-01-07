@@ -1,6 +1,7 @@
 ---
-title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/endings-are-beginnings-and-vice-versa/)"
-category: "contemporary-analysis"
+title: pcwrede.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/endings-are-beginnings-and-vice-versa/)

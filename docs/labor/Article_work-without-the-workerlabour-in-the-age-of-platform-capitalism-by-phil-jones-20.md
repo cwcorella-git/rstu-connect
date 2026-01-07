@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Work Without the Workerlabour in the Age of Platform Capitalism By Phil Jones
+  20
 author: Phil Jones
 date: '2025'
 category: labor

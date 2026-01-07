@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Renewable Energy Is Mostly Green and Not Inherently Capitalist Volume 1 Wind
+  Pow
 author: Industrial Workers of the World
 date: '2025'
 category: housing

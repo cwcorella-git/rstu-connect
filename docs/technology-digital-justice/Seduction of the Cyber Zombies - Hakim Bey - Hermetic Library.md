@@ -1,5 +1,5 @@
 ---
-title: '## [hermetic.com](https://hermetic.com/bey/seduct)'
+title: hermetic.com
 category: technology-digital-justice
 tags:
   - technology

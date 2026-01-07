@@ -1,5 +1,5 @@
 ---
-title: '[Brain](https://en.wikipedia.org/wiki/Main_Page)'
+title: Brain
 category: technology-digital-justice
 tags:
   - technology

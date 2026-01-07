@@ -1,5 +1,5 @@
 ---
-title: '## [time.com](https://time.com/6199353/air-conditioning-will-not-save-us/)'
+title: time.com
 category: technology-digital-justice
 tags:
   - technology

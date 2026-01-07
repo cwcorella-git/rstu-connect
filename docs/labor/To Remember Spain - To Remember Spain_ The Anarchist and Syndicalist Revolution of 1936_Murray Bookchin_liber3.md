@@ -1,5 +1,5 @@
 ---
-title: '>-'
+title: The Anarchist and Syndicalist Revolution of 1936
 author: Freddie Baer
 date: '1994'
 category: theory

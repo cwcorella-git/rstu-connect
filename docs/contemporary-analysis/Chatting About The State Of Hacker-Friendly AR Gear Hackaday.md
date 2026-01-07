@@ -1,6 +1,7 @@
 ---
-title: "## [hackaday.com](https://hackaday.com/2023/06/02/chatting-about-the-state-of-hacker-friendly-ar-gea"
-category: "contemporary-analysis"
+title: hackaday.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [hackaday.com](https://hackaday.com/2023/06/02/chatting-about-the-state-of-hacker-friendly-ar-gear/)

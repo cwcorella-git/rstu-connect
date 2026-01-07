@@ -1,9 +1,5 @@
 ---
-title: >-
-  Resilience Comment Policy Please read our Comment Policy before commenting.
-  Got it Share Best Newest Oldest 0 Comments 1 Login LOG IN WITH OR SIGN UP WITH
-  DISQUS Name Start the discussion... ? Be the rst to comment. Subscribe Privacy
-  Do Not Sell My Data G
+title: Cincinnati
 category: labor
 tags:
   - solidarity

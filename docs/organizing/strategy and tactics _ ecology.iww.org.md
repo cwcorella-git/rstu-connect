@@ -1,5 +1,5 @@
 ---
-title: '## [ecology.iww.org](https://ecology.iww.org/taxonomy/term/1788)'
+title: ecology.iww.org
 category: organizing
 tags:
   - unions

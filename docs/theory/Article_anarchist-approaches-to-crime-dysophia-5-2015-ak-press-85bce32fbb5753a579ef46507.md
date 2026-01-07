@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Anarchist Approaches To Crime Dysophia 5 2015 Ak Press
+  85bce32fbb5753a579ef46507
 author: CrimethInc
 date: '2025'
 category: theory

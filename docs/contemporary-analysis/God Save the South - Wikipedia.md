@@ -1,6 +1,7 @@
 ---
-title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/God_Save_the_South)"
-category: "contemporary-analysis"
+title: en.wikipedia.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/God_Save_the_South)

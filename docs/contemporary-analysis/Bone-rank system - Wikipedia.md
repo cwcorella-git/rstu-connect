@@ -1,6 +1,7 @@
 ---
-title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/Bone-rank_system)"
-category: "contemporary-analysis"
+title: en.wikipedia.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Bone-rank_system)

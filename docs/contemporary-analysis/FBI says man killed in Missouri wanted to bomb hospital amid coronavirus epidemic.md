@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [nbcnews.com](https://www.nbcnews.com/news/us-news/fbi-says-man-killed-missouri-wanted-bomb-hospi
+title: nbcnews.com
 category: contemporary-analysis
 tags:
   - healthcare

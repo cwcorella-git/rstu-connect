@@ -1,6 +1,7 @@
 ---
-title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/context-prologues/)"
-category: "contemporary-analysis"
+title: pcwrede.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/context-prologues/)

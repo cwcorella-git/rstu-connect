@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [towardfreedom.org](https://towardfreedom.org/story/archives/environment/social-ecology-and-the-g
+title: towardfreedom.org
 category: environmental-justice
 tags:
   - environment

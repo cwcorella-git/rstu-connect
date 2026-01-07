@@ -1,6 +1,7 @@
 ---
-title: "Contents"
-category: "contemporary-analysis"
+title: Bolo'bolo
+category: contemporary-analysis
+tags: []
 ---
 
 ## **Bolo'bolo**

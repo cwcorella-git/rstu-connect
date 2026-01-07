@@ -1,5 +1,5 @@
 ---
-title: '[Agrivoltaics](https://en.wikipedia.org/wiki/Main_Page)'
+title: Agrivoltaics
 category: technology-digital-justice
 tags:
   - technology

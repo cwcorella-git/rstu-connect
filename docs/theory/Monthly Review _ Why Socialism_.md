@@ -1,5 +1,5 @@
 ---
-title: '[Navigation](https://monthlyreview.org/2009/05/01/why-socialism/#navigation)'
+title: MONTHLY REVIEW
 category: contemporary-analysis
 tags:
   - theory

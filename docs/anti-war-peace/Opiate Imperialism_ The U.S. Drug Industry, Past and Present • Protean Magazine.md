@@ -1,5 +1,5 @@
 ---
-title: '## [SUPPORT US](https://proteanmag.com/donate)'
+title: SUPPORT US
 category: theory
 tags:
   - anti-war

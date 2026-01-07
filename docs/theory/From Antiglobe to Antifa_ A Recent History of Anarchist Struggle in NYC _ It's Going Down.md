@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [itsgoingdown.org](https://itsgoingdown.org/from-antiglobe-to-antifa-a-recent-history-of-anarchis
+title: itsgoingdown.org
 category: contemporary-analysis
 tags:
   - anarchism

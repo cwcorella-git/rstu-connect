@@ -1,6 +1,7 @@
 ---
-title: "## [writersdigest.com](https://www.writersdigest.com/write-better-fiction/tips-for-handling-pacing-i"
-category: "contemporary-analysis"
+title: writersdigest.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [writersdigest.com](https://www.writersdigest.com/write-better-fiction/tips-for-handling-pacing-in-a-thriller-novel)

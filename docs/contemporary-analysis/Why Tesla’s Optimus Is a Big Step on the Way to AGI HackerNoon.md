@@ -1,6 +1,7 @@
 ---
-title: "## [hackernoon.com](https://hackernoon.com/why-teslas-optimus-is-a-big-step-on-the-way-to-agi/)"
-category: "contemporary-analysis"
+title: hackernoon.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [hackernoon.com](https://hackernoon.com/why-teslas-optimus-is-a-big-step-on-the-way-to-agi/)

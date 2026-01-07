@@ -1,6 +1,7 @@
 ---
-title: "## [en.wikipedia.org](https://en.wikipedia.org/wiki/The_American_Scholar)"
-category: "contemporary-analysis"
+title: en.wikipedia.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/The_American_Scholar)

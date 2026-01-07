@@ -1,6 +1,7 @@
 ---
-title: "## [cnbc.com](https://www.cnbc.com/amp/2023/05/25/chinese-augmented-reality-glasses-maker-nreal-rebr"
-category: "contemporary-analysis"
+title: cnbc.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [cnbc.com](https://www.cnbc.com/amp/2023/05/25/chinese-augmented-reality-glasses-maker-nreal-rebrands-as-xreal.html)

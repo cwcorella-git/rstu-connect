@@ -1,6 +1,5 @@
 ---
-title: >-
-  [mexiconewsdaily.com](https://mexiconewsdaily.com/news/sheinbaum-renews-anti-inflation-food-basket-m
+title: Sheinbaum renews pact to freeze prices on essential grocery items
 category: food-justice
 tags:
   - food

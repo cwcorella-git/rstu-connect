@@ -1,21 +1,5 @@
 ---
-title: >-
-  The Self-Regulating Market and the Fictitious Commodities: Labor, Land, and
-  Money his cursory outline of the economic system and markets, taken
-  separately, shows that never before our own time were markets more than
-  accessories of economic life. As a rule, the economic system was absorbed in
-  the social system, and whatever principle of behavior predominated in the
-  economy, the presence of the market pattern was found to be compatible with
-  it. The principle of barter or exchange, which underlies this pattern,
-  revealed no tendency to expand at the expense of the rest. Where markets were
-  most highly developed, as under the mercantile system, they throve under the
-  control of a centralized administration which fostered autarchy both in the
-  household of the peasantry and in respect to national life. Regulation and
-  markets, in effect, grew up together. The self-regulating market was unknown;
-  indeed the emergence of the idea of self-regulation was a complete reversal of
-  the trend of development. It is in the light of these facts that the
-  extraordinary assumptions underlying a market economy can alone be fully
-  comprehended.
+title: Karl Polanyi
 category: feminist-theory
 tags:
   - labor

@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different
+  Sector
 author: unknown author
 date: '2025'
 category: housing

@@ -1,6 +1,7 @@
 ---
-title: "*Gladius*"
-category: "contemporary-analysis"
+title: Gladius
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

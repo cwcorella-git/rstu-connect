@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [crimethinc.com](https://crimethinc.com/2013/06/10/prism-the-internet-as-new-enclosure)
+title: crimethinc.com
 category: technology-digital-justice
 tags:
   - technology

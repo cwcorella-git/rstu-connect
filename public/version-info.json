@@ -1,8 +1,8 @@
 {
-  "commit": "ddd1e70",
-  "message": "Recategorize 334 documents into proper categories",
+  "commit": "504f42bc",
+  "message": "Add missing tags to 2,019 documents in reading library",
   "author": "cwcorella-git",
-  "date": "2026-01-06 18:18:17 -0800",
+  "date": "2026-01-06 18:47:07 -0800",
   "branch": "main",
-  "buildTime": "2026-01-07T02:18:32.929Z"
+  "buildTime": "2026-01-07T06:51:54.522Z"
 }

@@ -1,5 +1,5 @@
 ---
-title: Contents
+title: Anarchist Morality
 category: contemporary-analysis
 tags:
   - anarchism

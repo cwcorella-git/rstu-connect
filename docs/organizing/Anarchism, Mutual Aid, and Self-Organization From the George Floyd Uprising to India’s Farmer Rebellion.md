@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising
+  to India's Farmer Rebellion
 author: Black Lives Matter
 date: '1995'
 category: organizing

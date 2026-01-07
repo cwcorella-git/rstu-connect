@@ -1,6 +1,7 @@
 ---
-title: "## [blackrosefed.org](https://www.blackrosefed.org/myth-non-reformist-reforms/)"
-category: "contemporary-analysis"
+title: blackrosefed.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [blackrosefed.org](https://www.blackrosefed.org/myth-non-reformist-reforms/)

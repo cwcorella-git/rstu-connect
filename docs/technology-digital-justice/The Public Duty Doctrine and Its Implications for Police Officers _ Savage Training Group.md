@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [savagetraininggroup.com](https://savagetraininggroup.com/public-duty-doctrine-implications-polic
+title: savagetraininggroup.com
 category: technology-digital-justice
 tags:
   - police

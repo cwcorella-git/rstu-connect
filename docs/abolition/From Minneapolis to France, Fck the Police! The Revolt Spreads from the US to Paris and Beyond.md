@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  From Minneapolis to France, F\ck the Police!: The Revolt Spreads from the US
+  to Paris and Beyond
 author: CrimethInc
 date: '2005'
 category: abolition

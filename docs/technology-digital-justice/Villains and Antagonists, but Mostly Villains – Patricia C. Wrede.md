@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [pcwrede.com](https://pcwrede.com/pcw-wp/villains-and-antagonists-but-mostly-villains/)
+title: pcwrede.com
 category: technology-digital-justice
 tags:
   - technology

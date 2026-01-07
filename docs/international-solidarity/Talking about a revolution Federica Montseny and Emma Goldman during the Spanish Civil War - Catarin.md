@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Talking about a revolution: Federica Montseny and Emma Goldman during the
+  Spanish Civil War - Catarina von Wedemeyer
 author: Robert Kern
 date: '1885'
 category: theory

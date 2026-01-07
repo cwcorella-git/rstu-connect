@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist
+  Fed
 author: James Herod
 date: '2025'
 category: theory

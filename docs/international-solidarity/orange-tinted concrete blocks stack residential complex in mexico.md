@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [designboom.com](https://www.designboom.com/architecture/orange-concrete-blocks-residential-compl
+title: designboom.com
 category: contemporary-analysis
 tags:
   - Mexico

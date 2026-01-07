@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Reuse Recycle Unionize Urban Ore Workers Win Union Election Get Ready To
+  Negotia
 author: Industrial Workers of the World
 date: '2025'
 category: labor

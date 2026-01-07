@@ -1,6 +1,7 @@
 ---
-title: "## [theamericanscholar.org](https://theamericanscholar.org/affirmative-inaction/)"
-category: "contemporary-analysis"
+title: theamericanscholar.org
+category: contemporary-analysis
+tags: []
 ---
 
 ## [theamericanscholar.org](https://theamericanscholar.org/affirmative-inaction/)

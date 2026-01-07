@@ -1,5 +1,5 @@
 ---
-title: '*The Communist Manifesto*'
+title: The Communist Manifesto
 category: contemporary-analysis
 tags:
   - socialism

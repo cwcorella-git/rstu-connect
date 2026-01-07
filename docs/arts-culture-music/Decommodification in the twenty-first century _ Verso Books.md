@@ -1,6 +1,7 @@
 ---
-title: "## [versobooks.com](https://www.versobooks.com/blogs/news/5001-decommodification-in-the-twenty-first"
-category: "arts-culture-music"
+title: versobooks.com
+category: arts-culture-music
+tags: []
 ---
 
 ## [versobooks.com](https://www.versobooks.com/blogs/news/5001-decommodification-in-the-twenty-first-century)

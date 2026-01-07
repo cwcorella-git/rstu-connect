@@ -1,5 +1,5 @@
 ---
-title: '[prisonpolicy.org](https://www.prisonpolicy.org/blog/2017/04/10/wages/)'
+title: How much do incarcerated people earn in each state?
 category: contemporary-analysis
 tags:
   - prisons

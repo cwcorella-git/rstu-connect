@@ -1,5 +1,5 @@
 ---
-title: '[Luiz Inácio Lula da Silva](https://en.wikipedia.org/wiki/Main_Page)'
+title: Luiz Inácio Lula da Silva
 category: contemporary-analysis
 tags:
   - unions

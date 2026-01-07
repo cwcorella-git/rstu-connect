@@ -1,6 +1,7 @@
 ---
-title: "Contents"
-category: "contemporary-analysis"
+title: The Revolution of Everyday Life
+category: contemporary-analysis
+tags: []
 ---
 
 ## **The Revolution of Everyday Life**

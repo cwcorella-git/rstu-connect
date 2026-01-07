@@ -1,6 +1,7 @@
 ---
-title: "[Barnard](https://en.wikipedia.org/wiki/Main_Page)'[s Star](https://en.wikipedia.org/wiki/Main_Page)"
-category: "contemporary-analysis"
+title: Barnard's Star
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

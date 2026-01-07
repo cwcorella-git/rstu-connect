@@ -1,6 +1,7 @@
 ---
-title: "*Lynchburg, Virginia*"
-category: "contemporary-analysis"
+title: HACKSAW RIDGE
+category: contemporary-analysis
+tags: []
 ---
 
 ## HACKSAW RIDGE

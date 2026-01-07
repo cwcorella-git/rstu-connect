@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [deanspade.net](https://www.deanspade.net/2018/11/23/having-a-cause-versus-living-in-a-life-cente
+title: deanspade.net
 category: theory
 tags:
   - theory

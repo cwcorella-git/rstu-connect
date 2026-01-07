@@ -1,6 +1,7 @@
 ---
-title: "*In medias res*"
-category: "contemporary-analysis"
+title: In medias res
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

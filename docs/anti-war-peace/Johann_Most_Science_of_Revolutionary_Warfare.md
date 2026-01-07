@@ -1,5 +1,5 @@
 ---
-title: Contents
+title: The Science of Revolutionary Warfare
 category: anti-war-peace
 tags:
   - anti-war

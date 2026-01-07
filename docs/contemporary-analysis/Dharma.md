@@ -1,6 +1,7 @@
 ---
-title: "*Dharma*"
-category: "contemporary-analysis"
+title: Dharma
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

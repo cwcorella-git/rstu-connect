@@ -1,6 +1,7 @@
 ---
-title: "## [theguardian.com](https://www.theguardian.com/news/2007/aug/11/guardianobituaries.usa)"
-category: "contemporary-analysis"
+title: theguardian.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [theguardian.com](https://www.theguardian.com/news/2007/aug/11/guardianobituaries.usa)

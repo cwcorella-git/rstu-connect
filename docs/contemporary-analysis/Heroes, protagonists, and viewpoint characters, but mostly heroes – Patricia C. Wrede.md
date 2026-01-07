@@ -1,6 +1,7 @@
 ---
-title: "## [pcwrede.com](https://pcwrede.com/pcw-wp/heroes-protagonists-and-viewpoint-characters-but-mostly-"
-category: "contemporary-analysis"
+title: pcwrede.com
+category: contemporary-analysis
+tags: []
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/heroes-protagonists-and-viewpoint-characters-but-mostly-heroes/)

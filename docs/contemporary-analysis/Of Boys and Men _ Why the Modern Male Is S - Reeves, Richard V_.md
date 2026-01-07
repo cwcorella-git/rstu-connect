@@ -1,6 +1,7 @@
 ---
-title: "OF"
-category: "contemporary-analysis"
+title: and What To Do About It
+category: contemporary-analysis
+tags: []
 ---
 
 Why the Modern Male is Struggling,

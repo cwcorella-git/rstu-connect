@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  To Remember Spain the Anarchist and Syndicalist Revolution of 1936 Murray
+  Bookch
 author: Murray Bookchin
 date: '2025'
 category: theory

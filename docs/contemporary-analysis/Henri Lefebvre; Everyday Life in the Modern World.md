@@ -1,6 +1,7 @@
 ---
-title: "1"
-category: "contemporary-analysis"
+title: — Hilary Mantel
+category: contemporary-analysis
+tags: []
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

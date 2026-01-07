@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low
+  Youll
 author: Industrial Workers of the World
 date: '2025'
 category: labor

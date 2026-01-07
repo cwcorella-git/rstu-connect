@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  The Cia Reads French Theory On the Intellectual Labor of Dismantling the
+  Cultura
 author: Unknown
 date: '2025'
 category: labor

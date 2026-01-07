@@ -1,7 +1,5 @@
 ---
-title: >-
-  ##
-  [americanyawp.com](https://www.americanyawp.com/reader/27-the-sixties/lyndon-johnson-howard-unive
+title: americanyawp.com
 category: youth-student-organizing
 tags:
   - students

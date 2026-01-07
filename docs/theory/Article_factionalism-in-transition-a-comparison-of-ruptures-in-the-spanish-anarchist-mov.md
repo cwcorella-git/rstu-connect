@@ -1,5 +1,7 @@
 ---
-title: '>-'
+title: >-
+  Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist
+  Mov
 author: Unknown
 date: '2025'
 category: theory

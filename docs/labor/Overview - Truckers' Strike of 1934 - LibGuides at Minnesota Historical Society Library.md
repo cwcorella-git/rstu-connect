@@ -1,5 +1,5 @@
 ---
-title: '## [libguides.mnhs.org](https://libguides.mnhs.org/1934strike)'
+title: libguides.mnhs.org
 category: contemporary-analysis
 tags:
   - strikes

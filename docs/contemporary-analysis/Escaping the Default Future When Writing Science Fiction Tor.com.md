@@ -1,6 +1,7 @@
 ---
-title: "[tor.com](https://www.tor.com/2018/08/16/escaping-the-default-future-when-writing-science-fiction/)"
-category: "contemporary-analysis"
+title: Escaping the Default Future When Writing Science Fiction
+category: contemporary-analysis
+tags: []
 ---
 
 [tor.com](https://www.tor.com/2018/08/16/escaping-the-default-future-when-writing-science-fiction/)

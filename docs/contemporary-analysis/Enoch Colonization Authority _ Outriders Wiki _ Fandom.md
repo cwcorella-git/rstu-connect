@@ -1,6 +1,7 @@
 ---
-title: "[outriders.fandom.com](https://outriders.fandom.com/wiki/Enoch_Colonization_Authority)"
-category: "contemporary-analysis"
+title: Enoch Colonization Authority
+category: contemporary-analysis
+tags: []
 ---
 
 [outriders.fandom.com](https://outriders.fandom.com/wiki/Enoch_Colonization_Authority)
