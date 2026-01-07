@@ -111,7 +111,7 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
             {/* Management company */}
             {building.managementCompanyId && (
               <span
-                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700 max-w-[100px] truncate"
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700"
                 title={`${t('buildings.managedBy')}: ${toTitleCase(building.managementCompanyId)}`}
               >
                 {toTitleCase(building.managementCompanyId)}
