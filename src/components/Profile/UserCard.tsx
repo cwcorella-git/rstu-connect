@@ -94,11 +94,10 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
     try {
       const success = await verifyProfileAsyncWithSync(profile.id, currentUser.id)
       if (success) {
-        console.log(`[UserCard] Successfully verified ${profile.nickname}`)
         onVerifySuccess?.()
       }
-    } catch (error) {
-      console.error('[UserCard] Verification failed:', error)
+    } catch {
+      // Verification failed
     } finally {
       setIsVerifying(false)
     }
@@ -113,13 +112,10 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
       const { deleteProfileAsync } = await import('@/lib/profileStorage')
       const success = await deleteProfileAsync(profile.id)
       if (success) {
-        console.log(`[UserCard] Successfully deleted ${profile.nickname}`)
         onDeleteSuccess?.()
-      } else {
-        console.error('[UserCard] Failed to delete profile')
       }
-    } catch (error) {
-      console.error('[UserCard] Delete failed:', error)
+    } catch {
+      // Delete failed
     } finally {
       setIsDeleting(false)
       setShowDeleteConfirm(false)
@@ -133,14 +129,11 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
     try {
       const success = await banProfile(profile.id)
       if (success) {
-        console.log(`[UserCard] Successfully banned ${profile.nickname}`)
         // Trigger a refresh to update the UI
         onDeleteSuccess?.() // Reuse callback to trigger list refresh
-      } else {
-        console.error('[UserCard] Failed to ban profile')
       }
-    } catch (error) {
-      console.error('[UserCard] Ban failed:', error)
+    } catch {
+      // Ban failed
     } finally {
       setIsBanning(false)
       setShowBanConfirm(false)
@@ -154,14 +147,11 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
     try {
       const success = await unbanProfile(profile.id)
       if (success) {
-        console.log(`[UserCard] Successfully unbanned ${profile.nickname}`)
         // Trigger a refresh to update the UI
         onDeleteSuccess?.() // Reuse callback to trigger list refresh
-      } else {
-        console.error('[UserCard] Failed to unban profile')
       }
-    } catch (error) {
-      console.error('[UserCard] Unban failed:', error)
+    } catch {
+      // Unban failed
     } finally {
       setIsUnbanning(false)
     }

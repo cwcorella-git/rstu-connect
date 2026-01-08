@@ -54,7 +54,6 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
 
     // Message history (received on room join)
     const handleMessageHistory = ({ messages: historyMessages }: { messages: ChatMessage[] }) => {
-      console.log(`[useSocketChat] Loaded ${historyMessages.length} messages for room: ${chatSlug}`)
       setMessages(historyMessages)
     }
 
@@ -72,7 +71,6 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
 
     // Message deletion
     const handleMessageDeleted = ({ messageId }: { messageId: string }) => {
-      console.log(`[useSocketChat] Message deleted: ${messageId}`)
       setMessages(prev => prev.filter(m => m.id !== messageId))
     }
 
@@ -145,7 +143,7 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
    * Admin tools removed per user requirements
    */
   const clearMessages = useCallback(() => {
-    console.log('[useSocketChat] clearMessages called (no-op)')
+    // No-op
   }, [])
 
   return {

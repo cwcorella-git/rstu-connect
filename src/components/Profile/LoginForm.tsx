@@ -34,7 +34,6 @@ export function LoginForm({ onLoginSuccess, onShowCreateProfile }: LoginFormProp
       const profile = await loginByEmailAsync(email, password)
 
       if (profile) {
-        console.log('[LoginForm] Successfully logged in:', profile.nickname)
         onLoginSuccess(profile)
       } else {
         setError('Invalid email or password. Please try again.')

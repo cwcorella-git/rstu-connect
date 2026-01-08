@@ -12,7 +12,6 @@ export function ServiceWorkerRegistration() {
   useEffect(() => {
     if (typeof window === 'undefined') return
     if (!('serviceWorker' in navigator)) {
-      console.log('[SW] Service workers not supported')
       return
     }
 
@@ -24,16 +23,13 @@ export function ServiceWorkerRegistration() {
           scope: `${basePath}/`,
         })
 
-        console.log('[SW] Service worker registered:', registration.scope)
-
         // Check for updates periodically
         registration.addEventListener('updatefound', () => {
           const newWorker = registration.installing
           if (newWorker) {
             newWorker.addEventListener('statechange', () => {
               if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                console.log('[SW] New service worker available')
-                // Optionally notify user about update
+                // New service worker available - optionally notify user about update
               }
             })
           }
@@ -41,11 +37,11 @@ export function ServiceWorkerRegistration() {
 
         // Handle controller change (new SW activated)
         navigator.serviceWorker.addEventListener('controllerchange', () => {
-          console.log('[SW] Controller changed, new service worker active')
+          // Controller changed, new service worker active
         })
 
-      } catch (err) {
-        console.error('[SW] Registration failed:', err)
+      } catch {
+        // SW registration failed
       }
     }
 

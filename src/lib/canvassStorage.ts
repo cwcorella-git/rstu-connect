@@ -1177,7 +1177,6 @@ export async function syncCanvassToCloud(): Promise<{
     }
   }
 
-  console.log(`[CanvassStorage] Synced ${synced} units to cloud, ${errors} errors`)
   return { success: errors === 0, synced, errors }
 }
 

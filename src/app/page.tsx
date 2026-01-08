@@ -489,16 +489,14 @@ export default function Home() {
   };
 
   // Handle document polish status (static site limitation - read-only)
-  const handlePolishDocument = (docId: string) => {
+  const handlePolishDocument = (_docId: string) => {
     // Static site limitation: Can't modify YAML frontmatter
     // This is a placeholder for future backend integration
-    console.log('[Reading] Polished status must be set in document YAML frontmatter');
   };
 
   // Handle document feature status (placeholder for future implementation)
-  const handleFeatureDocument = (docId: string) => {
+  const handleFeatureDocument = (_docId: string) => {
     // Placeholder for future featured documents functionality
-    console.log('[Reading] Feature document:', docId);
   };
 
   // Render landing page for first-time visitors

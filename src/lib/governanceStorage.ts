@@ -446,10 +446,9 @@ function executeAlliance(proposal: GovernanceProposal): void {
   }
 }
 
-function executeSplit(proposal: GovernanceProposal): void {
+function executeSplit(_proposal: GovernanceProposal): void {
   // Split creates a new group with specified APNs
   // This is complex - leaving as placeholder for Phase 6
-  console.log('Split execution not yet implemented:', proposal)
 }
 
 function executeBlocFormation(proposal: GovernanceProposal): void {
@@ -730,7 +729,6 @@ export function cleanupOldProposals(): void {
     state.proposals = [...activeProposals, ...recentCompleted]
     state.dismissedBanners = validDismissedBanners
     saveState(state)
-    console.log(`[Governance] Cleaned up ${removedCount} old proposals, ${removedBanners} stale banner dismissals`)
   }
 }
 

@@ -147,14 +147,10 @@ export function loadAllProperties(data: AllPropertiesData): EnhancedBuilding[] {
 
   const filteredCount = totalProperties - buildings.length;
 
-  if (filteredCount > 0) {
+  if (filteredCount > 0 && process.env.NODE_ENV === 'development') {
     console.warn(
       `[Property Loading] Filtered out ${filteredCount} invalid properties ` +
       `(${totalProperties} total → ${buildings.length} valid)`
-    );
-  } else {
-    console.log(
-      `[Property Loading] Successfully loaded ${buildings.length} properties`
     );
   }
 

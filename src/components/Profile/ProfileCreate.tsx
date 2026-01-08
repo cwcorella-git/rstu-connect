@@ -472,7 +472,6 @@ export function ProfileCreate({ buildings, onProfileCreated, onCancel, existingP
         if (profile && password) {
           const passwordHash = simpleHash(password)
           setPasswordHashForProfile(profile.id, passwordHash)
-          console.log('[ProfileCreate] Password stored for profile:', profile.id)
         }
       }
 

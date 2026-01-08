@@ -865,15 +865,13 @@ export async function syncProfileToSupabase(profile: {
     // Same legacy ID always gets same UUID (prevents duplicates on multi-device sync)
     profileId = generateDeterministicUUID(profile.id)
     newId = profileId
-    console.log(`[Supabase] Migrating legacy profile ID ${profile.id} to UUID ${profileId}`)
 
     // CRITICAL FIX: Update localStorage immediately so next sync uses the new UUID
     try {
       const { updateProfile } = await import('./profileStorage')
       updateProfile({ id: profileId })
-      console.log(`[Supabase] Updated localStorage with new UUID ${profileId}`)
-    } catch (err) {
-      console.error('[Supabase] Failed to update localStorage with new UUID:', err)
+    } catch {
+      // Failed to update localStorage with new UUID
     }
   }
 

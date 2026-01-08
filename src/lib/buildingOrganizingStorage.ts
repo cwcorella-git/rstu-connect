@@ -354,7 +354,6 @@ export function cleanupOrganizingData(): void {
     }
 
     if (cleaned) {
-      console.log('[OrganizingStorage] Cleaned up old data')
       // Try to save - might still fail if storage is very full
       localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
       quotaExceeded = false
@@ -1049,7 +1048,6 @@ export async function syncOrganizingToCloud(): Promise<{
     }
   }
 
-  console.log(`[OrganizingStorage] Synced ${complaints} complaints, ${demands} demands, ${errors} errors`)
   return { success: errors === 0, complaints, demands, errors }
 }
 

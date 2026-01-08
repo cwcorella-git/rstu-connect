@@ -117,8 +117,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
     // This would integrate with governance system to create an organizing proposal
     // For now, open the building in organizing mode or show a prompt
     if (window.confirm('Would you like to start organizing in this building? You can create a collective demand for fair housing conditions and rent increases.')) {
-      // Trigger organizing action - would integrate with governance system
-      console.log('Starting organizing action for building:', building.apn)
+      // TODO: Integrate with governance system using building.apn
     }
   }
 

@@ -189,8 +189,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
             clusterMaxZoom: 14,  // Clustering stops at zoom level 15
             clusterRadius: 50,   // Cluster radius in pixels
           });
-        } catch (e) {
-          console.log('Could not add clustering source:', e);
+        } catch {
+          // Silently handle clustering source error
         }
 
         // Add cluster circle layer (shows at zoom < 15)
@@ -212,8 +212,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
               'circle-opacity': 0.8,
             }
           });
-        } catch (e) {
-          console.log('Could not add cluster circles:', e);
+        } catch {
+          // Silently handle cluster circles error
         }
 
         // Add cluster count labels (shows cluster count)
@@ -233,8 +233,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
               'text-opacity': 1,
             }
           });
-        } catch (e) {
-          console.log('Could not add cluster count:', e);
+        } catch {
+          // Silently handle cluster count error
         }
 
         // Add unclustered point layer (shows individual properties at high zoom)
@@ -252,8 +252,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
               'circle-opacity': 0.7,
             }
           });
-        } catch (e) {
-          console.log('Could not add unclustered points:', e);
+        } catch {
+          // Silently handle unclustered points error
         }
 
         // Add click handler for clusters to zoom in
@@ -331,8 +331,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
               'fill-extrusion-opacity': 0.7
             }
           });
-        } catch (e) {
-          console.log('Could not add 3D buildings layer:', e);
+        } catch {
+          // Silently handle 3D buildings layer error
         }
       });
 
@@ -488,8 +488,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
             'line-dasharray': [3, 2]
           }
         });
-      } catch (e) {
-        console.log('Could not add group lines:', e);
+      } catch {
+        // Silently handle group lines error
       }
 
       // Add colored markers for group buildings (if not the main building)
@@ -630,8 +630,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
               'line-dasharray': [4, 3]
             }
           });
-        } catch (e) {
-          console.log('Could not add selection lines:', e);
+        } catch {
+          // Silently handle selection lines error
         }
       }
     }
@@ -642,8 +642,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       if (source && source.type === 'geojson') {
         source.setData(buildingsToGeoJSON(allBuildings));
       }
-    } catch (e) {
-      console.log('Could not update clustering data:', e);
+    } catch {
+      // Silently handle clustering data update error
     }
 
     // Fly to new location
@@ -666,9 +666,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       map.current.setLayoutProperty('cluster-circles', 'visibility', showClustering ? 'visible' : 'none');
       map.current.setLayoutProperty('cluster-count', 'visibility', showClustering ? 'visible' : 'none');
       map.current.setLayoutProperty('unclustered-point', 'visibility', !showClustering ? 'visible' : 'none');
-    } catch (e) {
+    } catch {
       // Layers may not exist yet if map is still loading
-      console.log('Could not toggle layer visibility:', e);
     }
   }, [currentZoom]);
 

@@ -99,7 +99,6 @@ function aggressiveCleanup(): boolean {
         if (Object.keys(state.buildings || {}).length < originalCount) {
           localStorage.setItem('rstu_organizing_data', JSON.stringify(state))
           freedSpace = true
-          console.log('[Storage] Cleaned empty building data')
         }
       } catch {
         // Corrupt data - remove it
@@ -130,7 +129,6 @@ function aggressiveCleanup(): boolean {
         }
         if (freedSpace) {
           localStorage.setItem('rstu_canvass_data', JSON.stringify(state))
-          console.log('[Storage] Cleaned canvass data')
         }
       } catch {
         // Corrupt - remove
@@ -211,11 +209,9 @@ export function getStorageUsage(): { used: number; available: number; rstuUsed: 
 export function clearAllRstuStorage(): void {
   if (typeof window === 'undefined') return
 
-  let cleared = 0
   for (const key of RSTU_STORAGE_KEYS) {
     if (localStorage.getItem(key)) {
       localStorage.removeItem(key)
-      cleared++
     }
   }
 
@@ -229,10 +225,7 @@ export function clearAllRstuStorage(): void {
   }
   for (const key of keysToRemove) {
     localStorage.removeItem(key)
-    cleared++
   }
-
-  console.log(`[Storage] Cleared ${cleared} RSTU storage keys`)
 }
 
 /**
@@ -241,18 +234,12 @@ export function clearAllRstuStorage(): void {
 export function runStorageHealthCheck(): void {
   if (typeof window === 'undefined') return
 
-  const { used, available, rstuUsed } = getStorageUsage()
+  const { used, available } = getStorageUsage()
   const usagePercent = Math.round((used / available) * 100)
-
-  console.log(`[Storage] Usage: ${(rstuUsed / 1024).toFixed(1)}KB RSTU / ${(used / 1024).toFixed(1)}KB total (${usagePercent}% of ${(available / 1024 / 1024).toFixed(0)}MB limit)`)
 
   // If over 80% full, run cleanup
   if (usagePercent > 80) {
-    console.log('[Storage] High usage detected, running cleanup...')
     aggressiveCleanup()
-
-    const newUsage = getStorageUsage()
-    console.log(`[Storage] After cleanup: ${(newUsage.used / 1024).toFixed(1)}KB (${Math.round((newUsage.used / available) * 100)}%)`)
   }
 }
 

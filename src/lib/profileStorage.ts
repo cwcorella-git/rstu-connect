@@ -264,8 +264,6 @@ async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
   if (error) {
     // If we hit a duplicate email constraint, try to find and update the existing profile
     if (error.code === '23505' && error.message.includes('email')) {
-      console.log('[ProfileStorage] Email already exists, fetching existing profile...')
-
       // Try to fetch the existing profile by email
       const { data: existing } = await supabase
         .from('profiles')
@@ -281,15 +279,12 @@ async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
           .upsert(updatedProfile, { onConflict: 'id' })
 
         if (updateError) {
-          console.error('[ProfileStorage] Failed to update existing profile:', updateError)
           return false
         }
-        console.log('[ProfileStorage] Updated existing profile with matching email')
         return true
       }
     }
 
-    console.error('[ProfileStorage] Failed to save to Supabase:', error)
     return false
   }
   return true
@@ -306,28 +301,12 @@ async function fetchInviteFromDb(code: string): Promise<InviteCode | null> {
       .eq('code', code.toUpperCase())
       .single()
 
-    if (error) {
-      if (error.code === 'PGRST116') {
-        // Not found - this is normal, not an error
-        console.log('[InviteCode] Code not found in Supabase (will check localStorage):', code)
-      } else {
-        console.error('[InviteCode] Supabase query error:', {
-          code,
-          error: error.message,
-          details: error.details,
-        })
-      }
-      return null
-    }
-
-    if (!data) {
-      console.log('[InviteCode] Code not found in Supabase:', code)
+    if (error || !data) {
       return null
     }
 
     return dbToInvite(data as DbInviteCode)
-  } catch (err) {
-    console.error('[InviteCode] Failed to fetch from Supabase:', err instanceof Error ? err.message : err)
+  } catch {
     return null
   }
 }
@@ -335,7 +314,6 @@ async function fetchInviteFromDb(code: string): Promise<InviteCode | null> {
 // Save invite code to Supabase
 async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
   if (!supabase) {
-    console.warn('[InviteCode:saveInviteToDb] Supabase not initialized, cannot sync')
     return false
   }
 
@@ -353,43 +331,16 @@ async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
       expires_at: invite.expires > 0 ? new Date(invite.expires).toISOString() : null,
     }
 
-    console.log('[InviteCode:saveInviteToDb] Attempting upsert with data:', {
-      code: dbInvite.code,
-      created_by: dbInvite.created_by,
-      grant_role: dbInvite.grant_role,
-      expires_at: dbInvite.expires_at,
-    })
-
-    const { error, data } = await supabase
+    const { error } = await supabase
       .from('invite_codes')
       .upsert(dbInvite, { onConflict: 'code' })
 
     if (error) {
-      console.error('[InviteCode:saveInviteToDb] Supabase upsert FAILED:', {
-        code: invite.code,
-        errorCode: error.code,
-        errorMessage: error.message,
-        errorDetails: error.details,
-        errorHint: error.hint,
-        createdBy: invite.createdBy,
-        createdByName: invite.createdByName,
-      })
       return false
     }
 
-    console.log('[InviteCode:saveInviteToDb] ✓ Successfully synced to Supabase:', {
-      code: invite.code,
-      dataReturned: !!data,
-    })
     return true
-  } catch (err) {
-    console.error('[InviteCode:saveInviteToDb] Exception during upsert:', {
-      code: invite.code,
-      errorName: err instanceof Error ? err.name : 'Unknown',
-      errorMessage: err instanceof Error ? err.message : String(err),
-      createdBy: invite.createdBy,
-      createdByName: invite.createdByName,
-    })
+  } catch {
     return false
   }
 }
@@ -406,16 +357,7 @@ async function updateInviteUsageInDb(code: string, profileId: string): Promise<b
       .eq('code', code.toUpperCase())
       .single()
 
-    if (fetchError) {
-      console.error('[InviteCode] Failed to fetch for usage update:', {
-        code,
-        error: fetchError.message,
-      })
-      return false
-    }
-
-    if (!data) {
-      console.log('[InviteCode] Code not found in Supabase for usage update:', code)
+    if (fetchError || !data) {
       return false
     }
 
@@ -429,17 +371,11 @@ async function updateInviteUsageInDb(code: string, profileId: string): Promise<b
       .eq('code', code.toUpperCase())
 
     if (updateError) {
-      console.error('[InviteCode] Failed to update usage in Supabase:', {
-        code,
-        error: updateError.message,
-      })
       return false
     }
 
-    console.log('[InviteCode] Successfully updated usage in Supabase:', code)
     return true
-  } catch (err) {
-    console.error('[InviteCode] Failed to update usage:', err instanceof Error ? err.message : err)
+  } catch {
     return false
   }
 }
@@ -1060,14 +996,6 @@ export function validateInviteCode(code: string): {
   const lookupCode = code.toUpperCase()
   const invite = state.inviteCodes[lookupCode]
 
-  console.log('[InviteCode:validate] Looking up in localStorage', {
-    inputCode: code,
-    lookupCode,
-    found: !!invite,
-    allCodesInStorage: Object.keys(state.inviteCodes),
-    inviteCodeObjectKeys: Object.keys(state.inviteCodes || {}),
-  })
-
   if (!invite) {
     return { valid: false, error: 'Invalid invite code' }
   }
@@ -1372,7 +1300,6 @@ export function recoverAdminRole(): boolean {
   // Check if admin hash exists (proves this device had an admin)
   const adminHash = localStorage.getItem('rstu_admin_hash')
   if (!adminHash) {
-    console.log('No admin credentials found on this device')
     return false
   }
 
@@ -1391,13 +1318,11 @@ export function recoverAdminRole(): boolean {
     if (profile.role !== 'admin') {
       profile.role = 'admin'
       profile.trustLevel = 'verified'
-      console.log(`Restored admin role to profile: ${profile.nickname}`)
       break // Only restore one
     }
   }
 
   saveProfileState(state)
-  console.log('Admin role recovered. Please refresh the page.')
   return true
 }
 
@@ -1439,7 +1364,6 @@ export function verifyProfile(userId: string, verifiedBy: string): boolean {
   }
 
   if (profile.trustLevel === 'verified') {
-    console.log('User already verified')
     return true
   }
 
@@ -1530,9 +1454,7 @@ export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: str
         })
         .eq('id', userId)
 
-      console.log('[VerifyProfile] Successfully synced verification to Supabase')
-    } catch (error) {
-      console.error('[VerifyProfile] Failed to sync verification to Supabase:', error)
+    } catch {
       // Still return true since local verification succeeded
     }
   }
@@ -1581,7 +1503,6 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
   }
 
   saveProfileState(state)
-  console.log('[DeleteProfile] Profile deleted from localStorage')
 
   // Delete from Supabase
   if (USE_SUPABASE && supabase) {
@@ -1592,10 +1513,7 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
         .eq('id', profileId)
 
       if (error) throw error
-
-      console.log('[DeleteProfile] Profile successfully deleted from Supabase')
-    } catch (error) {
-      console.error('[DeleteProfile] Failed to delete from Supabase:', error)
+    } catch {
       // Still return true since local deletion succeeded
     }
   }
@@ -1644,7 +1562,6 @@ export async function banProfile(profileId: string): Promise<boolean> {
   profileToBan.bannedBy = currentUser.id
 
   saveProfileState(state)
-  console.log('[BanProfile] Profile banned in localStorage')
 
   // Sync to Supabase
   if (USE_SUPABASE && supabase) {
@@ -1659,10 +1576,7 @@ export async function banProfile(profileId: string): Promise<boolean> {
         .eq('id', profileId)
 
       if (error) throw error
-
-      console.log('[BanProfile] Profile successfully banned in Supabase')
-    } catch (error) {
-      console.error('[BanProfile] Failed to ban in Supabase:', error)
+    } catch {
       // Still return true since local ban succeeded
     }
   }
@@ -1694,7 +1608,6 @@ export async function unbanProfile(profileId: string): Promise<boolean> {
   }
 
   if (!profileToUnban.banned) {
-    console.log('[UnbanProfile] User is not banned')
     return true
   }
 
@@ -1704,7 +1617,6 @@ export async function unbanProfile(profileId: string): Promise<boolean> {
   profileToUnban.bannedBy = undefined
 
   saveProfileState(state)
-  console.log('[UnbanProfile] Profile unbanned in localStorage')
 
   // Sync to Supabase
   if (USE_SUPABASE && supabase) {
@@ -1719,10 +1631,7 @@ export async function unbanProfile(profileId: string): Promise<boolean> {
         .eq('id', profileId)
 
       if (error) throw error
-
-      console.log('[UnbanProfile] Profile successfully unbanned in Supabase')
-    } catch (error) {
-      console.error('[UnbanProfile] Failed to unban in Supabase:', error)
+    } catch {
       // Still return true since local unban succeeded
     }
   }
@@ -1932,17 +1841,10 @@ export async function validateInviteCodeAsync(code: string): Promise<{
   invite?: InviteCode
   error?: string
 }> {
-  console.log('[InviteCode:validateAsync] Starting validation', {
-    inputCode: code,
-    supabaseEnabled: USE_SUPABASE,
-  })
-
   // Try Supabase first
   if (USE_SUPABASE) {
     try {
-      console.log('[InviteCode:validateAsync] Attempting Supabase lookup...')
       const dbInvite = await fetchInviteFromDb(code)
-      console.log('[InviteCode:validateAsync] Supabase lookup result:', { found: !!dbInvite })
       if (dbInvite) {
         if (dbInvite.revoked) {
           return { valid: false, error: 'Invite code has been revoked' }
@@ -1955,25 +1857,13 @@ export async function validateInviteCodeAsync(code: string): Promise<{
         }
         return { valid: true, invite: dbInvite }
       }
-      // Code not found in Supabase - try localStorage fallback
-      console.log('[InviteCode:validateAsync] Code not found in Supabase (PGRST116), checking localStorage as fallback')
-    } catch (err) {
-      console.error('[InviteCode:validateAsync] Supabase lookup failed:', err instanceof Error ? err.message : err)
+    } catch {
       // Fall through to localStorage below
     }
   }
 
   // Fallback to localStorage (works cross-device if sync is working, always works locally)
-  console.log('[InviteCode:validateAsync] Calling validateInviteCode for localStorage fallback')
-  const localResult = validateInviteCode(code)
-  console.log('[InviteCode:validateAsync] localStorage fallback result:', {
-    valid: localResult.valid,
-    error: localResult.error
-  })
-  if (localResult.valid) {
-    console.log('[InviteCode:validateAsync] ✓ Found code in localStorage (Supabase fallback)')
-  }
-  return localResult
+  return validateInviteCode(code)
 }
 
 // Use invite code with Supabase sync
@@ -1991,41 +1881,25 @@ export async function useInviteCodeAsync(code: string, profileId: string): Promi
 // Create invite code with Supabase sync
 export async function createInviteAsync(options: CreateInviteOptions = {}): Promise<InviteCode | null> {
   const profile = getCurrentProfile()
-  console.log('[InviteCode:create] Starting invite code creation', {
-    profileId: profile?.id,
-    profileNickname: profile?.nickname,
-    hasProfile: !!profile,
-    supabaseEnabled: USE_SUPABASE,
-  })
-
   if (!profile) {
-    console.error('[InviteCode:create] No profile found')
     return null
   }
 
   // Check permissions
   const requestedRole = options.grantRole || 'tenant'
   if (requestedRole === 'admin' && !isAdmin()) {
-    console.error('[InviteCode:create] Permission denied - admin role required for admin invites')
     return null
   }
   if (requestedRole === 'organizer' && !isAdmin()) {
-    console.error('[InviteCode:create] Permission denied - admin role required for organizer invites')
     return null
   }
   if (!hasRole('organizer')) {
-    console.error('[InviteCode:create] Permission denied - organizer role required')
     return null
   }
 
   // IMPORTANT: Sync creator's profile to Supabase first (required for foreign key constraint)
   if (USE_SUPABASE) {
-    console.log('[InviteCode:create] Syncing creator profile to Supabase...')
-    const syncSuccess = await syncProfileToCloud()
-    console.log('[InviteCode:create] Profile sync result:', { syncSuccess, profileId: profile.id })
-    if (!syncSuccess) {
-      console.warn('[InviteCode:create] Failed to sync creator profile to Supabase, will try to save invite anyway')
-    }
+    await syncProfileToCloud()
   }
 
   const code = generateInviteCode()
@@ -2049,34 +1923,19 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
   }
 
   // Save to localStorage first (always reliable)
-  console.log('[InviteCode:create] Saving to localStorage...')
   const state = getProfileState()
   state.inviteCodes[code] = invite
   saveProfileState(state)
-  console.log('[InviteCode:create] Code saved to localStorage:', code)
 
   // Sync to Supabase (non-blocking, uses localStorage as fallback)
   if (USE_SUPABASE) {
-    console.log('[InviteCode:create] Attempting to sync to Supabase...')
     try {
-      const syncSuccess = await saveInviteToDb(invite)
-      if (syncSuccess) {
-        console.log('[InviteCode:create] Successfully synced to Supabase')
-      } else {
-        console.warn('[InviteCode:create] Supabase sync returned false')
-      }
-    } catch (err) {
-      console.error('[InviteCode:create] Failed to sync to Supabase:', {
-        code,
-        error: err instanceof Error ? err.message : err,
-        createdBy: profile.id,
-        createdByName: profile.nickname,
-      })
+      await saveInviteToDb(invite)
+    } catch {
       // Code is already saved to localStorage, so users can still use it
     }
   }
 
-  console.log('[InviteCode:create] Invite code creation complete:', { code, grantRole: requestedRole })
   return invite
 }
 
@@ -2159,29 +2018,21 @@ export async function syncProfileToCloud(): Promise<boolean> {
       const state = getProfileState()
       state.currentProfile = merged
       saveProfileState(state)
-      console.log('[ProfileStorage] Synced profile from cloud')
       return true
     }
   }
 
   // Push local to server
-  const success = await saveProfileToDb(profile)
-  if (success) {
-    console.log('[ProfileStorage] Synced profile to cloud')
-  }
-  return success
+  return await saveProfileToDb(profile)
 }
 
 // Login by email - allows existing users to login from any device
 export async function loginByEmailAsync(email: string, password?: string): Promise<UserProfile | null> {
   if (!USE_SUPABASE || !supabase) {
-    console.log('[ProfileStorage] Supabase not available for email login')
     return null
   }
 
   try {
-    console.log('[ProfileStorage] Attempting login with email:', email)
-
     // Look up profile by email in Supabase
     const { data, error } = await supabase
       .from('profiles')
@@ -2189,28 +2040,15 @@ export async function loginByEmailAsync(email: string, password?: string): Promi
       .eq('email', email.toLowerCase())
       .maybeSingle()
 
-    if (error) {
-      console.error('[ProfileStorage] Error looking up profile by email:', error)
-      return null
-    }
-
-    if (!data) {
-      console.log('[ProfileStorage] No profile found for email:', email)
+    if (error || !data) {
       return null
     }
 
     // Convert database profile to app profile
     const profile = dbToProfile(data as DbProfile)
-    console.log('[ProfileStorage] Found profile:', {
-      id: profile.id,
-      nickname: profile.nickname,
-      role: profile.role,
-      trustLevel: profile.trustLevel,
-    })
 
     // Check if profile is banned
     if (profile.banned) {
-      console.error('[ProfileStorage] Account is banned and cannot login')
       return null
     }
 
@@ -2219,10 +2057,8 @@ export async function loginByEmailAsync(email: string, password?: string): Promi
     state.currentProfile = profile
     saveProfileState(state)
 
-    console.log('[ProfileStorage] Logged in successfully via email')
     return profile
-  } catch (err) {
-    console.error('[ProfileStorage] Exception during email login:', err instanceof Error ? err.message : err)
+  } catch {
     return null
   }
 }

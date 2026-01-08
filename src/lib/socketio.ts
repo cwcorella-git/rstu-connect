@@ -31,14 +31,13 @@ export function getSocket(): Socket | null {
       transports: ['websocket', 'polling']
     })
 
-    // Debug: Log connection events
+    // Reset error count on successful connection
     socketInstance.on('connect', () => {
-      connectionErrorCount = 0  // Reset on successful connection
-      console.log('[Socket.io] Connected to server')
+      connectionErrorCount = 0
     })
 
-    socketInstance.on('disconnect', (reason) => {
-      console.log('[Socket.io] Disconnected:', reason)
+    socketInstance.on('disconnect', () => {
+      // Connection lost
     })
 
     socketInstance.on('connect_error', () => {

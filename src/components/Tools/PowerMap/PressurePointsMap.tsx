@@ -150,8 +150,7 @@ export function PressurePointsMap({
       `(${campaignOpportunities.totalUnits} units) with poor habitability? ` +
       `This will create a multi-property organizing campaign.`
     )) {
-      console.log('Create campaign:', campaignOpportunities.affectedProperties)
-      // TODO: Open CampaignCreationModal
+      // TODO: Open CampaignCreationModal with campaignOpportunities.affectedProperties
     }
   }
 
@@ -160,8 +159,7 @@ export function PressurePointsMap({
       `Plan a coordinated strike across ${strikeReadiness.readyProperties.length} buildings ` +
       `(${strikeReadiness.totalUnits} units) that are strike-ready?`
     )) {
-      console.log('Plan coordinated strike:', strikeReadiness.readyProperties)
-      // TODO: Open CampaignCreationModal with 'strike' type
+      // TODO: Open CampaignCreationModal with 'strike' type using strikeReadiness.readyProperties
     }
   }
 
