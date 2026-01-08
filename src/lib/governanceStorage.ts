@@ -2,6 +2,9 @@
 
 import { getCurrentProfile } from './profileStorage'
 import { getLinkedGroups, updateLinkedGroup, getGroupForApn, createLinkedGroup, generateBlocName } from './linkedPropertiesStorage'
+import { supabase, USE_SUPABASE } from './supabase'
+import { castVote as serverCastVote, getVoteCounts, checkPermission, requireOnline, OfflineError } from './authService'
+import { cacheForOffline, getCached, invalidateCachePattern, CacheKeys } from './offlineCache'
 
 // ============================================================================
 // Types
@@ -283,6 +286,277 @@ export function getUserVote(proposalId: string): 'up' | 'down' | null {
   if (proposal.upvotes.includes(profile.id)) return 'up'
   if (proposal.downvotes.includes(profile.id)) return 'down'
   return null
+}
+
+// ============================================================================
+// Server-Authoritative Voting (prevents localStorage manipulation)
+// ============================================================================
+
+/**
+ * Vote on a proposal through the server (prevents localStorage manipulation)
+ * This is the secure version that should be used in production
+ */
+export async function voteOnProposalAsync(
+  proposalId: string,
+  vote: 'up' | 'down'
+): Promise<{ success: boolean; error?: string; proposal?: GovernanceProposal }> {
+  const profile = getCurrentProfile()
+  if (!profile) {
+    return { success: false, error: 'Not logged in' }
+  }
+
+  // Check permission server-side
+  const permission = await checkPermission('vote:proposal')
+  if (!permission.allowed) {
+    return { success: false, error: permission.reason }
+  }
+
+  // If Supabase is available, use server-side voting
+  if (USE_SUPABASE && supabase) {
+    try {
+      requireOnline('vote on proposals')
+
+      // Cast vote through server RPC
+      const result = await serverCastVote('proposal', proposalId, vote)
+      if (!result.success) {
+        return { success: false, error: result.error }
+      }
+
+      // Update local cache with new vote counts
+      const voteCounts = await getVoteCounts('proposal', proposalId)
+
+      // Update local state for immediate UI feedback
+      const state = getState()
+      const proposal = state.proposals.find(p => p.id === proposalId)
+      if (proposal) {
+        // Rebuild vote arrays based on server count
+        // (We don't have full voter list from server, so we update local estimate)
+        if (vote === 'up') {
+          proposal.downvotes = proposal.downvotes.filter(id => id !== profile.id)
+          if (!proposal.upvotes.includes(profile.id)) {
+            proposal.upvotes.push(profile.id)
+          }
+        } else {
+          proposal.upvotes = proposal.upvotes.filter(id => id !== profile.id)
+          if (!proposal.downvotes.includes(profile.id)) {
+            proposal.downvotes.push(profile.id)
+          }
+        }
+        saveState(state)
+
+        // Invalidate cache so next fetch gets fresh data
+        invalidateCachePattern('proposals:*')
+
+        return { success: true, proposal }
+      }
+
+      return { success: true }
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        return { success: false, error: e.message }
+      }
+      console.error('[GovernanceStorage] Server vote error:', e)
+      return { success: false, error: 'Failed to cast vote' }
+    }
+  }
+
+  // Fallback to localStorage (development/offline only)
+  const proposal = voteOnProposal(proposalId, vote)
+  if (!proposal) {
+    return { success: false, error: 'Failed to vote' }
+  }
+  return { success: true, proposal }
+}
+
+/**
+ * Get vote counts from server (for accurate display)
+ */
+export async function getProposalVoteCountsAsync(proposalId: string): Promise<{
+  upvotes: number
+  downvotes: number
+  userVote?: 'up' | 'down'
+}> {
+  if (USE_SUPABASE && supabase) {
+    try {
+      return await getVoteCounts('proposal', proposalId)
+    } catch {
+      // Fall back to local
+    }
+  }
+
+  // Fallback to localStorage
+  const proposal = getProposal(proposalId)
+  if (!proposal) {
+    return { upvotes: 0, downvotes: 0 }
+  }
+
+  return {
+    upvotes: proposal.upvotes.length,
+    downvotes: proposal.downvotes.length,
+    userVote: getUserVote(proposalId) || undefined,
+  }
+}
+
+/**
+ * Create proposal with server sync
+ */
+export async function createProposalAsync(
+  type: GovernanceProposalType,
+  groupId: string,
+  options: {
+    targetGroupId?: string
+    targetApn?: string
+    targetProfileId?: string
+    targetValue?: string
+    targetApns?: string[]
+    reason?: string
+  } = {}
+): Promise<{ success: boolean; error?: string; proposal?: GovernanceProposal }> {
+  const profile = getCurrentProfile()
+  if (!profile) {
+    return { success: false, error: 'Not logged in' }
+  }
+
+  // Check permission
+  const permission = await checkPermission('create:proposal')
+  if (!permission.allowed) {
+    return { success: false, error: permission.reason }
+  }
+
+  // Create locally first
+  const proposal = createProposal(type, groupId, options)
+  if (!proposal) {
+    return { success: false, error: 'Failed to create proposal (may be duplicate)' }
+  }
+
+  // Sync to Supabase if available
+  if (USE_SUPABASE && supabase) {
+    try {
+      requireOnline('create proposals')
+
+      const { error } = await supabase.from('governance_proposals').upsert({
+        id: proposal.id,
+        type: proposal.type,
+        group_id: proposal.groupId,
+        target_group_id: proposal.targetGroupId || null,
+        target_apn: proposal.targetApn || null,
+        target_profile_id: proposal.targetProfileId || null,
+        target_value: proposal.targetValue || null,
+        target_apns: proposal.targetApns || null,
+        proposed_by: proposal.proposedBy,
+        proposed_by_name: proposal.proposedByName,
+        reason: proposal.reason || null,
+        upvotes: proposal.upvotes,
+        downvotes: proposal.downvotes,
+        status: proposal.status,
+        partner_proposal_id: proposal.partnerProposalId || null,
+        partner_group_passed: proposal.partnerGroupPassed || false,
+        expires_at: new Date(proposal.expiresAt).toISOString(),
+        created_at: new Date(proposal.createdAt).toISOString(),
+      }, { onConflict: 'id' })
+
+      if (error) {
+        console.error('[GovernanceStorage] Failed to sync proposal to server:', error)
+        // Still return success since local worked
+      }
+
+      // Invalidate cache
+      invalidateCachePattern('proposals:*')
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        // Local creation succeeded, will sync later
+        console.warn('[GovernanceStorage] Created proposal offline, will sync later')
+      }
+    }
+  }
+
+  return { success: true, proposal }
+}
+
+/**
+ * Fetch proposals from server with caching
+ */
+export async function getActiveProposalsAsync(groupId: string): Promise<GovernanceProposal[]> {
+  // Check cache first
+  const cached = getCached<GovernanceProposal[]>(CacheKeys.proposals(groupId))
+  if (cached) {
+    return cached
+  }
+
+  if (USE_SUPABASE && supabase) {
+    try {
+      const { data, error } = await supabase
+        .from('governance_proposals')
+        .select('*')
+        .eq('group_id', groupId)
+        .in('status', ['active', 'pending-finalize', 'pending-partner'])
+        .order('created_at', { ascending: false })
+
+      if (!error && data) {
+        // Convert from DB format
+        const proposals = data.map(dbToProposal)
+
+        // Cache for offline use
+        cacheForOffline(CacheKeys.proposals(groupId), proposals, 10 * 60 * 1000)
+
+        return proposals
+      }
+    } catch {
+      // Fall through to localStorage
+    }
+  }
+
+  // Fallback to localStorage
+  return getActiveProposals(groupId)
+}
+
+/**
+ * Convert database proposal to app format
+ */
+function dbToProposal(db: {
+  id: string
+  type: string
+  group_id: string
+  target_group_id?: string | null
+  target_apn?: string | null
+  target_profile_id?: string | null
+  target_value?: string | null
+  target_apns?: string[] | null
+  proposed_by: string
+  proposed_by_name: string
+  reason?: string | null
+  upvotes: string[]
+  downvotes: string[]
+  status: string
+  partner_proposal_id?: string | null
+  partner_group_passed?: boolean | null
+  created_at: string
+  expires_at: string
+  executed_at?: string | null
+  finalized_by?: string | null
+}): GovernanceProposal {
+  return {
+    id: db.id,
+    type: db.type as GovernanceProposalType,
+    groupId: db.group_id,
+    targetGroupId: db.target_group_id || undefined,
+    targetApn: db.target_apn || undefined,
+    targetProfileId: db.target_profile_id || undefined,
+    targetValue: db.target_value || undefined,
+    targetApns: db.target_apns || undefined,
+    proposedBy: db.proposed_by,
+    proposedByName: db.proposed_by_name,
+    reason: db.reason || '',
+    upvotes: db.upvotes || [],
+    downvotes: db.downvotes || [],
+    status: db.status as GovernanceProposalStatus,
+    partnerProposalId: db.partner_proposal_id || undefined,
+    partnerGroupPassed: db.partner_group_passed ?? undefined,
+    createdAt: new Date(db.created_at).getTime(),
+    expiresAt: new Date(db.expires_at).getTime(),
+    executedAt: db.executed_at ? new Date(db.executed_at).getTime() : undefined,
+    finalizedBy: db.finalized_by || undefined,
+  }
 }
 
 // ============================================================================
