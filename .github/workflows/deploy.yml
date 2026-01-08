@@ -32,6 +32,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Run tests
+        run: npm run test:ci
+
       - name: Build Next.js site
         run: npm run build
         env:
