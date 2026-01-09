@@ -1516,8 +1516,34 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
 
   const state = getProfileState()
 
-  // Find the profile to delete
-  let profileToDelete = state.currentProfile?.id === profileId ? state.currentProfile : state.storedProfiles.find(p => p.id === profileId)
+  // Find the profile to delete - check localStorage first
+  let profileToDelete = state.currentProfile?.id === profileId
+    ? state.currentProfile
+    : state.storedProfiles.find(p => p.id === profileId)
+
+  // If not in localStorage, try to fetch from Supabase to check role
+  if (!profileToDelete && USE_SUPABASE && supabase) {
+    try {
+      const { data, error } = await supabase
+        .from('profiles')
+        .select('id, role')
+        .eq('id', profileId)
+        .single()
+
+      if (!error && data) {
+        profileToDelete = {
+          id: data.id,
+          role: data.role as UserRole,
+          nickname: '',
+          trustLevel: 'self_registered',
+          created: 0,
+          lastActive: 0
+        } as UserProfile
+      }
+    } catch {
+      // Continue - will fail below if profile not found
+    }
+  }
 
   if (!profileToDelete) {
     console.error('[DeleteProfile] Profile not found')
@@ -1534,14 +1560,14 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
     return false
   }
 
-  // Delete from localStorage
+  // Delete from localStorage if present
   if (state.currentProfile?.id === profileId) {
     state.currentProfile = null
-  } else {
+    saveProfileState(state)
+  } else if (state.storedProfiles.some(p => p.id === profileId)) {
     state.storedProfiles = state.storedProfiles.filter(p => p.id !== profileId)
+    saveProfileState(state)
   }
-
-  saveProfileState(state)
 
   // Delete from Supabase
   if (USE_SUPABASE && supabase) {
@@ -1551,9 +1577,18 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
         .delete()
         .eq('id', profileId)
 
-      if (error) throw error
-    } catch {
-      // Still return true since local deletion succeeded
+      if (error) {
+        console.error('[DeleteProfile] Supabase delete failed:', error.message)
+        // RLS may block delete - this is expected with anon key
+        // Return false to indicate failure
+        return false
+      }
+
+      console.log('[DeleteProfile] Successfully deleted profile:', profileId)
+      return true
+    } catch (err) {
+      console.error('[DeleteProfile] Supabase error:', err)
+      return false
     }
   }
 
