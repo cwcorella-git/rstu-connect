@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react'
 import type { ReadingDocument } from '@/lib/getReadingData'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { safeJsonParse } from '@/lib/safeStorage'
 import readingManifest from '@/data/reading-manifest.json'
 
 interface FeaturedReadingsSectionProps {
@@ -18,7 +19,7 @@ export function FeaturedReadingsSection({ onNavigate }: FeaturedReadingsSectionP
     if (typeof window !== 'undefined') {
       const featuredKey = 'rstu_featured_documents'
       const featuredIdsStr = localStorage.getItem(featuredKey)
-      const featuredIds = featuredIdsStr ? JSON.parse(featuredIdsStr) : []
+      const featuredIds = safeJsonParse<string[]>(featuredIdsStr, [])
 
       const allDocs = readingManifest.documents as ReadingDocument[]
 

@@ -2,6 +2,7 @@
 // Supports both localStorage (offline) and Supabase (cloud sync)
 
 import { supabase, USE_SUPABASE, DbProfile, DbInviteCode } from './supabase'
+import { safeJsonParse } from './safeStorage'
 
 // User roles with increasing permissions
 export type UserRole = 'tenant' | 'organizer' | 'admin'
@@ -182,7 +183,7 @@ function dbToProfile(db: DbProfile): UserProfile {
     preferredContact: db.preferred_contact || undefined,
     language: db.language || undefined,
     rentAmount: db.rent_amount || undefined,
-    rentHistory: db.rent_history ? JSON.parse(db.rent_history) : undefined,
+    rentHistory: db.rent_history ? safeJsonParse(db.rent_history, undefined) : undefined,
     moveInDate: db.move_in_date || undefined,
     leaseType: db.lease_type || undefined,
     leaseExpires: db.lease_expires || undefined,
@@ -1688,7 +1689,7 @@ function logVerificationAction(action: {
 }): void {
   if (typeof window === 'undefined') return
 
-  const auditLog = JSON.parse(localStorage.getItem('verification_audit') || '[]')
+  const auditLog = safeJsonParse(localStorage.getItem('verification_audit'), [] as unknown[])
   auditLog.push(action)
 
   // Keep only last 500 entries to prevent storage bloat

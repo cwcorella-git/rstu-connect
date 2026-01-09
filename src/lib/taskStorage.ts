@@ -1,6 +1,7 @@
 'use client'
 
 import { getSocket } from './socketio'
+import { safeJsonParse } from './safeStorage'
 
 // ============================================================================
 // Types
@@ -108,7 +109,7 @@ function generateId(): string {
 export function getTasks(): Task[] {
   if (typeof window === 'undefined') return []
   const stored = localStorage.getItem(TASKS_KEY)
-  return stored ? JSON.parse(stored) : []
+  return safeJsonParse<Task[]>(stored, [])
 }
 
 export function getTask(id: string): Task | null {

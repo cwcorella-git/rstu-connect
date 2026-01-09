@@ -18,7 +18,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 | Severity | Count | Status |
 |----------|-------|--------|
 | CRITICAL | 4 | 3 FIXED, 1 requires attention |
-| HIGH | 3 | 1 FIXED, 2 require attention |
+| HIGH | 3 | 2 FIXED, 1 requires attention |
 | MEDIUM | 6 | 1 FIXED, 5 require attention |
 | LOW | 4 | Address as time permits |
 
@@ -29,6 +29,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 - Removed hardcoded bootstrap admin code (now env var)
 - Removed hardcoded legacy admin password hash
 - Replaced all Math.random() ID generation with crypto.randomUUID()
+- Added safeJsonParse utility for robust JSON error handling
 - Updated .env.example template with all required environment variables
 
 ---
@@ -133,41 +134,35 @@ Keep client-side checks for UI (hiding buttons, etc.) but never trust them for s
 
 ---
 
-### H2: JSON.parse Without Error Handling
+### H2: JSON.parse Without Error Handling - FIXED
 
-**Locations:** 40+ occurrences across storage modules
+**Finding:** Many `JSON.parse()` calls lacked try-catch error handling.
 
-**Finding:** Many `JSON.parse()` calls lack try-catch error handling, which can cause application crashes if localStorage is corrupted.
+**Status:** FIXED - Added `safeJsonParse` utility to `src/lib/safeStorage.ts` and updated all unprotected JSON.parse calls.
 
+**Files updated:**
+- `src/lib/safeStorage.ts` - Added `safeJsonParse` and `safeGetJson` utilities
+- `src/lib/taskStorage.ts` - Updated getTasks()
+- `src/lib/electionStorage.ts` - Updated getElections(), getNominations(), getVotes()
+- `src/lib/readingStorage.ts` - Updated getReadingState()
+- `src/lib/adminStorage.ts` - Updated getDocumentEdits()
+- `src/lib/profileStorage.ts` - Updated dbProfileToProfile(), logVerificationAction()
+- `src/components/LandingPage/FeaturedReadingsSection.tsx` - Updated featured document parsing
+
+**Implementation:**
 ```typescript
-// Vulnerable pattern
-const data = JSON.parse(localStorage.getItem('key') || '{}');
-```
-
-**Impact:** Malformed localStorage data causes unhandled exceptions, potentially crashing the app.
-
-**Remediation Prompt:**
-```
-Wrap all JSON.parse calls in try-catch with sensible defaults:
-
-// Before
-const data = JSON.parse(localStorage.getItem('key') || '{}');
-
-// After
-function safeJsonParse<T>(json: string | null, defaultValue: T): T {
-  if (!json) return defaultValue;
+export function safeJsonParse<T>(json: string | null, defaultValue: T): T {
+  if (!json) return defaultValue
   try {
-    return JSON.parse(json) as T;
-  } catch {
-    console.warn('Failed to parse JSON, using default');
-    return defaultValue;
+    return JSON.parse(json) as T
+  } catch (e) {
+    console.warn('[Storage] Failed to parse JSON, using default value:', e)
+    return defaultValue
   }
 }
-
-const data = safeJsonParse(localStorage.getItem('key'), {});
-
-Add this utility to src/lib/safeStorage.ts and use throughout.
 ```
+
+**Note:** Remaining JSON.parse calls were already inside try-catch blocks (adminStorage auth handling, onboarding utils, favoritesStorage).
 
 ---
 
@@ -431,9 +426,9 @@ The Supabase migration Phase 2 successfully implements:
 1. ~~**C1:** Remove hardcoded Supabase credentials~~ DONE
 2. ~~**C3:** Move bootstrap code to environment variable~~ DONE
 3. ~~**H1:** Replace Math.random() with crypto.randomUUID()~~ DONE
+4. ~~**H2:** Add safeJsonParse utility~~ DONE
 
 ### Short-term (Week 2-3)
-4. **H2:** Add safeJsonParse utility
 5. **M3:** Add input sanitization with DOMPurify
 6. **M4:** Implement rate limiting
 
@@ -449,12 +444,17 @@ The Supabase migration Phase 2 successfully implements:
 | File | Issues | Status |
 |------|--------|--------|
 | `scripts/load-all-data-to-supabase.js` | C1 | FIXED |
-| `src/lib/profileStorage.ts` | C3, C4, H2 | C3 FIXED |
-| `src/lib/governanceStorage.ts` | C4, H1, H2 | Pending |
-| `src/lib/eventStorage.ts` | H1, H2 | Pending |
-| `src/lib/campaignStorage.ts` | H1, H2 | Pending |
-| `src/lib/mutualAidStorage.ts` | H1, H2 | Pending |
-| `src/lib/canvassStorage.ts` | H1, H2 | Pending |
+| `src/lib/profileStorage.ts` | C3, C4, H2 | C3, H2 FIXED |
+| `src/lib/governanceStorage.ts` | C4, H1, H2 | H1, H2 FIXED (had try-catch) |
+| `src/lib/eventStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
+| `src/lib/campaignStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
+| `src/lib/mutualAidStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
+| `src/lib/canvassStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
+| `src/lib/safeStorage.ts` | N/A | Added safeJsonParse utility |
+| `src/lib/taskStorage.ts` | H2 | FIXED |
+| `src/lib/electionStorage.ts` | H1, H2 | FIXED |
+| `src/lib/readingStorage.ts` | H2 | FIXED |
+| `src/lib/adminStorage.ts` | H2 | FIXED |
 | `src/components/PropertyView/PropertyMapTab.tsx` | M1 | Pending |
 
 ---

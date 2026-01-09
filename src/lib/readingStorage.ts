@@ -1,3 +1,5 @@
+import { safeJsonParse } from './safeStorage'
+
 interface ReadingProgress {
   documentId: string;
   scrollPosition: number;      // Pixels from top
@@ -12,12 +14,13 @@ interface ReadingState {
 }
 
 const STORAGE_KEY = 'rstu_reading_state';
+const DEFAULT_STATE: ReadingState = { favorites: [], progress: {}, lastDocument: '' };
 
 export function getReadingState(): ReadingState {
-  if (typeof window === 'undefined') return { favorites: [], progress: {}, lastDocument: '' };
+  if (typeof window === 'undefined') return DEFAULT_STATE;
 
   const stored = localStorage.getItem(STORAGE_KEY);
-  return stored ? JSON.parse(stored) : { favorites: [], progress: {}, lastDocument: '' };
+  return safeJsonParse<ReadingState>(stored, DEFAULT_STATE);
 }
 
 export function saveReadingProgress(documentId: string, scrollPosition: number, scrollPercent: number) {

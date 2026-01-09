@@ -1,6 +1,7 @@
 'use client'
 
 import { getSocket } from './socketio'
+import { safeJsonParse } from './safeStorage'
 
 // ============================================================================
 // Types
@@ -131,7 +132,7 @@ function generateId(): string {
 export function getElections(): Election[] {
   if (typeof window === 'undefined') return []
   const stored = localStorage.getItem(ELECTIONS_KEY)
-  return stored ? JSON.parse(stored) : []
+  return safeJsonParse<Election[]>(stored, [])
 }
 
 export function getElection(id: string): Election | null {
@@ -196,7 +197,7 @@ export function updateElectionStatus(electionId: string, status: Election['statu
 export function getNominations(electionId?: string): Nomination[] {
   if (typeof window === 'undefined') return []
   const stored = localStorage.getItem(NOMINATIONS_KEY)
-  const nominations: Nomination[] = stored ? JSON.parse(stored) : []
+  const nominations: Nomination[] = safeJsonParse<Nomination[]>(stored, [])
 
   if (electionId) {
     return nominations.filter(n => n.electionId === electionId)
@@ -289,7 +290,7 @@ export function respondToNomination(nominationId: string, accepted: boolean): vo
 export function getVotes(electionId?: string): Vote[] {
   if (typeof window === 'undefined') return []
   const stored = localStorage.getItem(VOTES_KEY)
-  const votes: Vote[] = stored ? JSON.parse(stored) : []
+  const votes: Vote[] = safeJsonParse<Vote[]>(stored, [])
 
   if (electionId) {
     return votes.filter(v => v.electionId === electionId)

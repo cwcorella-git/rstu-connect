@@ -1,6 +1,7 @@
 'use client'
 
 import { isAdmin as checkProfileAdmin, getCurrentProfile } from './profileStorage'
+import { safeJsonParse } from './safeStorage'
 import {
   USE_SUPABASE,
   getDocumentAdminState as getDbAdminState,
@@ -203,7 +204,7 @@ export function getDocumentEdits(): Record<string, DocumentEdit> {
   if (typeof window === 'undefined') return {};
 
   const stored = localStorage.getItem(EDITS_KEY);
-  return stored ? JSON.parse(stored) : {};
+  return safeJsonParse<Record<string, DocumentEdit>>(stored, {});
 }
 
 export function saveDocumentEdit(documentId: string, title: string, content: string) {

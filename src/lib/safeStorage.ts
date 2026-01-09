@@ -2,6 +2,29 @@
  * Safe localStorage wrapper that handles quota exceeded errors gracefully
  */
 
+/**
+ * Safely parse JSON with error handling and default value
+ * Prevents application crashes from malformed localStorage data
+ */
+export function safeJsonParse<T>(json: string | null, defaultValue: T): T {
+  if (!json) return defaultValue
+  try {
+    return JSON.parse(json) as T
+  } catch (e) {
+    console.warn('[Storage] Failed to parse JSON, using default value:', e)
+    return defaultValue
+  }
+}
+
+/**
+ * Safely get and parse JSON from localStorage
+ * Combines safeGetItem and safeJsonParse for convenience
+ */
+export function safeGetJson<T>(key: string, defaultValue: T): T {
+  const stored = safeGetItem(key)
+  return safeJsonParse(stored, defaultValue)
+}
+
 // All RSTU storage keys for cleanup
 const RSTU_STORAGE_KEYS = [
   'rstu_organizing_data',
