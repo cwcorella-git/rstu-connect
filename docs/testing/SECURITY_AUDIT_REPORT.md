@@ -19,7 +19,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 |----------|-------|--------|
 | CRITICAL | 4 | 3 FIXED, 1 requires attention |
 | HIGH | 3 | 2 FIXED, 1 requires attention |
-| MEDIUM | 6 | 4 FIXED, 2 require attention |
+| MEDIUM | 6 | 5 FIXED, 1 requires attention |
 | LOW | 4 | Address as time permits |
 
 ### Fixes Applied
@@ -195,31 +195,27 @@ Current risk is LOW because:
 
 ## MEDIUM Vulnerabilities
 
-### M1: innerHTML Usage with Dynamic Content
+### M1: innerHTML Usage with Dynamic Content - FIXED
 
 **Location:** `src/components/PropertyView/PropertyMapTab.tsx:545`
 
-**Finding:** innerHTML is used to insert dynamic content, though currently only inserting a number.
+**Finding:** innerHTML was used to insert dynamic content.
 
+**Status:** FIXED - Replaced innerHTML with safe DOM manipulation.
+
+**Change:**
 ```typescript
-markerDiv.innerHTML = \`<div>...</div>\`;
+// Before (unsafe pattern)
+groupEl.innerHTML = `<span style="...">${buildings.length}</span>`;
+
+// After (safe DOM manipulation)
+const spanEl = document.createElement('span');
+spanEl.style.cssText = 'color:white;font-size:11px;font-weight:bold;';
+spanEl.textContent = String(buildings.length);
+groupEl.appendChild(spanEl);
 ```
 
-**Impact:** LOW risk currently (only number), but pattern could be extended unsafely.
-
-**Remediation Prompt:**
-```
-Replace innerHTML with DOM manipulation:
-
-// Before
-markerDiv.innerHTML = `<div class="...">${index + 1}</div>`;
-
-// After
-const innerDiv = document.createElement('div');
-innerDiv.className = '...';
-innerDiv.textContent = String(index + 1);
-markerDiv.appendChild(innerDiv);
-```
+Using `textContent` instead of `innerHTML` ensures that any content is treated as text, not HTML, preventing XSS attacks.
 
 ---
 
@@ -421,6 +417,7 @@ The Supabase migration Phase 2 successfully implements:
 5. ~~**M3:** Add input sanitization with DOMPurify~~ DONE
 6. ~~**M4:** Implement rate limiting~~ DONE
 7. ~~**M6:** Add Content Security Policy~~ DONE
+8. ~~**M1:** Replace innerHTML with safe DOM manipulation~~ DONE
 
 ### Short-term (Week 2-3)
 

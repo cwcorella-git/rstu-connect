@@ -542,7 +542,11 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         align-items: center;
         justify-content: center;
       `;
-      groupEl.innerHTML = `<span style="color:white;font-size:11px;font-weight:bold;">${buildings.length}</span>`;
+      // Use safe DOM manipulation instead of innerHTML to prevent XSS
+      const spanEl = document.createElement('span');
+      spanEl.style.cssText = 'color:white;font-size:11px;font-weight:bold;';
+      spanEl.textContent = String(buildings.length);
+      groupEl.appendChild(spanEl);
       groupEl.title = `${group.name} - ${buildings.length} linked properties`;
 
       const centroidMarker = new maplibregl.Marker({ element: groupEl })
