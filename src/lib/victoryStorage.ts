@@ -79,10 +79,18 @@ export const COMMON_TACTICS = [
 // === HELPER FUNCTIONS ===
 
 /**
- * Generate a unique ID
+ * Generate a unique ID using crypto API
  */
 function generateId(): string {
-  return Date.now().toString(36) + Math.random().toString(36).substring(2, 9)
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().replace(/-/g, '').substring(0, 16)
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(8)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
 }
 
 /**

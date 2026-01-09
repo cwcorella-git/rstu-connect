@@ -112,6 +112,19 @@ export const CROSS_GROUP_TYPES: GovernanceProposalType[] = ['merge', 'alliance',
 export const MULTI_BUILDING_TYPES: GovernanceProposalType[] = ['form-bloc']
 
 // ============================================================================
+// Generate a cryptographically secure short ID
+function generateShortId(): string {
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().split('-')[0]
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(4)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
+}
+
 // Storage Functions
 // ============================================================================
 
@@ -172,7 +185,7 @@ export function createProposal(
 
   const now = Date.now()
   const proposal: GovernanceProposal = {
-    id: `gov-${now}-${Math.random().toString(36).slice(2, 8)}`,
+    id: `gov-${now}-${generateShortId()}`,
     type,
     groupId,
     targetGroupId: options.targetGroupId,

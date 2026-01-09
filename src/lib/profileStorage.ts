@@ -398,24 +398,48 @@ async function fetchAllInvitesFromDb(creatorId?: string): Promise<InviteCode[]> 
 
 // Generate a random UUID (required for Supabase profiles table)
 function generateId(): string {
-  // Use crypto.randomUUID if available (modern browsers)
+  // Use crypto.randomUUID (supported in all modern browsers and Node 19+)
   if (typeof crypto !== 'undefined' && crypto.randomUUID) {
     return crypto.randomUUID()
   }
-  // Fallback for older environments
-  return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
-    const r = Math.random() * 16 | 0
-    const v = c === 'x' ? r : (r & 0x3 | 0x8)
-    return v.toString(16)
-  })
+  // Fallback using crypto.getRandomValues for older environments
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(16)
+    crypto.getRandomValues(bytes)
+    bytes[6] = (bytes[6] & 0x0f) | 0x40 // Version 4
+    bytes[8] = (bytes[8] & 0x3f) | 0x80 // Variant
+    const hex = Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+    return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20)}`
+  }
+  // Last resort fallback (should never happen in browsers)
+  throw new Error('Crypto API not available')
+}
+
+// Generate a short random ID (8 hex chars) for use in compound IDs
+function generateShortId(): string {
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().split('-')[0]
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(4)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
 }
 
 // Generate a cryptographically random bootstrap code
 function generateBootstrapCode(): string {
   const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789' // No confusing chars
   let code = 'RSTU-'
-  for (let i = 0; i < 8; i++) {
-    code += chars.charAt(Math.floor(Math.random() * chars.length))
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(8)
+    crypto.getRandomValues(bytes)
+    for (let i = 0; i < 8; i++) {
+      code += chars.charAt(bytes[i] % chars.length)
+    }
+  } else {
+    throw new Error('Crypto API not available')
   }
   return code
 }
@@ -519,8 +543,14 @@ export function simpleHash(str: string): string {
 export function generateInviteCode(): string {
   const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789' // No confusing chars (0/O, 1/I/L)
   let code = ''
-  for (let i = 0; i < 6; i++) {
-    code += chars.charAt(Math.floor(Math.random() * chars.length))
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(6)
+    crypto.getRandomValues(bytes)
+    for (let i = 0; i < 6; i++) {
+      code += chars.charAt(bytes[i] % chars.length)
+    }
+  } else {
+    throw new Error('Crypto API not available')
   }
   return code
 }
@@ -1149,7 +1179,11 @@ export function getDeviceId(): string {
   try {
     let deviceId = localStorage.getItem(DEVICE_ID_KEY)
     if (!deviceId) {
-      deviceId = 'dev_' + Date.now().toString(36) + Math.random().toString(36).substring(2, 11)
+      // Use crypto.randomUUID for secure device ID generation
+      const randomPart = typeof crypto !== 'undefined' && crypto.randomUUID
+        ? crypto.randomUUID().replace(/-/g, '').substring(0, 12)
+        : Date.now().toString(36)
+      deviceId = 'dev_' + randomPart
       localStorage.setItem(DEVICE_ID_KEY, deviceId)
     }
     return deviceId

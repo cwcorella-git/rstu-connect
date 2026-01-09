@@ -15,6 +15,19 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { AvailabilitySuggest } from './AvailabilitySuggest';
 import type { TimeSlot } from '@/lib/availabilityUtils';
 
+// Generate a cryptographically secure short ID
+function generateShortId(): string {
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().split('-')[0]
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(4)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
+}
+
 interface EventCreatorProps {
   buildingId: string;
   buildingAddress: string;
@@ -220,7 +233,7 @@ export function EventCreator({
         onCreated(event);
       } else {
         // Generate recurring events
-        const seriesId = `series-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+        const seriesId = `series-${Date.now()}-${generateShortId()}`;
         const recurrenceConfig = {
           type: recurrenceType,
           interval: recurrenceType === 'weekly' ? 1 : recurrenceType === 'biweekly' ? 2 : 1,

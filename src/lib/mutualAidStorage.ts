@@ -130,7 +130,15 @@ const SKILLS_KEY = 'rstu_mutual_aid_skills'
 // === HELPER FUNCTIONS ===
 
 function generateId(): string {
-  return `${Date.now()}-${Math.random().toString(36).substr(2, 9)}`
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().split('-')[0]
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(4)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
 }
 
 function getFromStorage<T>(key: string, defaultValue: T): T {

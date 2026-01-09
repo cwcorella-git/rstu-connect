@@ -5,6 +5,19 @@ import { getSocket } from '@/lib/socketio'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import type { DirectMessageThread, DirectMessage } from '@/lib/directMessageStorage'
 
+// Generate a cryptographically secure short ID
+function generateShortId(): string {
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().split('-')[0]
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(4)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
+}
+
 // ============================================================================
 // Types
 // ============================================================================
@@ -248,7 +261,7 @@ export function useThreadMessages(threadId: string | null) {
     if (!socket || !profile || !threadId || !text.trim()) return
 
     const message: DirectMessage = {
-      id: `msg-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+      id: `msg-${Date.now()}-${generateShortId()}`,
       threadId,
       senderId: profile.id,
       senderName: profile.nickname,

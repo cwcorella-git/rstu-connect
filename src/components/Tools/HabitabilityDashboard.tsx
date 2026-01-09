@@ -242,9 +242,9 @@ export function HabitabilityDashboard({ buildings, onBuildingClick }: Habitabili
           </div>
         ) : (
           <div className="divide-y divide-gray-200">
-            {filteredBuildings.filter(item => item.building && item.score).map(({ building, score }) => (
+            {filteredBuildings.filter(item => item.building && item.score).map(({ building, score }, index) => (
               <button
-                key={building?.apn || building?.chatSlug || Math.random()}
+                key={building?.apn || building?.chatSlug || `building-${index}`}
                 onClick={() => onBuildingClick?.(building)}
                 className="w-full text-left p-4 hover:bg-gray-50 transition-colors"
               >

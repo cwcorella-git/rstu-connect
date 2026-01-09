@@ -49,6 +49,19 @@ export interface DirectMessageState {
 const STORAGE_KEY = 'rstu-direct-messages'
 const MAX_MESSAGES_PER_THREAD = 100
 
+// Generate a cryptographically secure short ID
+function generateShortId(): string {
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().split('-')[0]
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(4)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
+}
+
 // ============================================================================
 // Storage Functions
 // ============================================================================
@@ -147,7 +160,7 @@ export function createGroupThread(
   const state = getState()
 
   const thread: DirectMessageThread = {
-    id: `group-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+    id: `group-${Date.now()}-${generateShortId()}`,
     type: 'group',
     participants: participantIds,
     participantNames,
@@ -304,7 +317,7 @@ export function sendDirectMessage(
   if (!thread || !thread.participants.includes(profile.id)) return null
 
   const message: DirectMessage = {
-    id: `msg-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+    id: `msg-${Date.now()}-${generateShortId()}`,
     threadId,
     senderId: profile.id,
     senderName: profile.nickname,

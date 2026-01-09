@@ -105,6 +105,19 @@ export interface BuildingEvent {
 // Storage key
 const EVENTS_STORAGE_KEY = 'rstu-events'
 
+// Generate a cryptographically secure short ID
+function generateShortId(): string {
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().split('-')[0]
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(4)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
+}
+
 // Get all events from localStorage
 export function getAllEvents(): BuildingEvent[] {
   if (typeof window === 'undefined') return []
@@ -235,7 +248,7 @@ export function unlinkEventFromCampaign(eventId: string): BuildingEvent | null {
 export function createEvent(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>): BuildingEvent {
   const newEvent: BuildingEvent = {
     ...event,
-    id: `evt-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+    id: `evt-${Date.now()}-${generateShortId()}`,
     createdAt: Date.now(),
     rsvps: []
   }
@@ -340,7 +353,7 @@ export function addMeetingNotes(
     attendees,
     actionItems: actionItems.map(item => ({
       ...item,
-      id: `action-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`
+      id: `action-${Date.now()}-${generateShortId()}`
     })),
     createdAt: now,
     updatedAt: now
@@ -616,7 +629,7 @@ export function generateRecurringEvents(
   config: RecurrenceConfig,
   occurrences: number = 10
 ): BuildingEvent[] {
-  const seriesId = config.seriesId || `series-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`
+  const seriesId = config.seriesId || `series-${Date.now()}-${generateShortId()}`
   const events: BuildingEvent[] = []
 
   let currentDate = new Date(baseEvent.dateTime)
@@ -630,7 +643,7 @@ export function generateRecurringEvents(
 
     const newEvent: BuildingEvent = {
       ...baseEvent,
-      id: `evt-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+      id: `evt-${Date.now()}-${generateShortId()}`,
       dateTime: currentDate.getTime(),
       createdAt: Date.now(),
       rsvps: [],

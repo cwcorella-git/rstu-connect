@@ -248,9 +248,17 @@ const QUOTA_RETRY_DELAY = 60000 // Wait 1 minute before retrying after quota err
 // May Day 2028 target date
 export const MAY_DAY_2028 = new Date('2028-05-01T00:00:00').getTime()
 
-// Generate unique ID
+// Generate unique ID using crypto API
 function generateId(): string {
-  return Date.now().toString(36) + Math.random().toString(36).substring(2, 9)
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    return crypto.randomUUID().replace(/-/g, '').substring(0, 16)
+  }
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(8)
+    crypto.getRandomValues(bytes)
+    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  }
+  throw new Error('Crypto API not available')
 }
 
 // Get full organizing state

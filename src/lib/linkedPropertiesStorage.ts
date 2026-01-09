@@ -29,7 +29,17 @@ export interface LinkedPropertyGroup {
 const STORAGE_KEY = 'rstu-linked-properties';
 
 function generateId(): string {
-  return `lp-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+  let shortId: string
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+    shortId = crypto.randomUUID().split('-')[0]
+  } else if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    const bytes = new Uint8Array(4)
+    crypto.getRandomValues(bytes)
+    shortId = Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
+  } else {
+    throw new Error('Crypto API not available')
+  }
+  return `lp-${Date.now()}-${shortId}`
 }
 
 export function getLinkedGroups(): LinkedPropertyGroup[] {
