@@ -46,7 +46,7 @@ export function BlocEventForm({ group, buildings, onClose, onSuccess }: BlocEven
     // Combine date and time
     const dateTime = new Date(`${date}T${time}`).getTime()
 
-    createEvent({
+    const event = createEvent({
       buildingId: primaryBuilding.apn,
       buildingAddress: primaryBuilding.address,
       groupId: group.id,
@@ -67,6 +67,11 @@ export function BlocEventForm({ group, buildings, onClose, onSuccess }: BlocEven
     })
 
     setIsSubmitting(false)
+
+    if (!event) {
+      // Rate limited - user should try again later
+      return
+    }
     onSuccess()
   }
 

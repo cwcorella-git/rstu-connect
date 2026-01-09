@@ -192,7 +192,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
     const building = buildings.find(b => b.apn === formBuildingApn)
     if (!building) return
 
-    createPost(
+    const post = createPost(
       createType,
       formCategory,
       formTitle.trim(),
@@ -202,6 +202,11 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
       profile.id,
       profile.nickname
     )
+
+    if (!post) {
+      // Rate limited - user should try again later
+      return
+    }
 
     // Refresh posts and close form
     setPosts(getMutualAidPosts())

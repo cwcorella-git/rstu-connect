@@ -108,6 +108,11 @@ export function DayEventForm({
         status: 'confirmed'
       })
 
+      if (!event) {
+        setError('Unable to create event. Please try again in a moment.')
+        return
+      }
+
       onCreated(event)
       // Reset form
       setTitle('')

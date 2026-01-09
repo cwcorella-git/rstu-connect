@@ -19,7 +19,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 |----------|-------|--------|
 | CRITICAL | 4 | 3 FIXED, 1 requires attention |
 | HIGH | 3 | 2 FIXED, 1 requires attention |
-| MEDIUM | 6 | 2 FIXED, 4 require attention |
+| MEDIUM | 6 | 3 FIXED, 3 require attention |
 | LOW | 4 | Address as time permits |
 
 ### Fixes Applied
@@ -31,6 +31,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 - Replaced all Math.random() ID generation with crypto.randomUUID()
 - Added safeJsonParse utility for robust JSON error handling
 - Added DOMPurify input sanitization for all user-generated content
+- Added rate limiting (server-side Supabase + client-side utility)
 - Updated .env.example template with all required environment variables
 
 ---
@@ -280,40 +281,38 @@ markerDiv.appendChild(innerDiv);
 
 ---
 
-### M4: Missing Rate Limiting
+### M4: Missing Rate Limiting - FIXED
 
 **Finding:** No rate limiting on voting, proposal creation, or other state-changing operations.
 
-**Impact:** Attackers could spam the system with votes or proposals.
+**Status:** FIXED - Added both server-side (Supabase) and client-side rate limiting.
 
-**Remediation Prompt:**
-```
-Add rate limiting at Supabase level:
+**Implementation:**
 
--- In a new migration file
-CREATE OR REPLACE FUNCTION rate_limited_cast_vote(
-  p_target_type TEXT,
-  p_target_id UUID,
-  p_voter_id UUID,
-  p_vote TEXT
-) RETURNS JSONB AS $$
-DECLARE
-  recent_votes INTEGER;
-BEGIN
-  -- Check votes in last minute
-  SELECT COUNT(*) INTO recent_votes
-  FROM proposal_votes
-  WHERE voter_id = p_voter_id
-  AND voted_at > NOW() - INTERVAL '1 minute';
+1. **Server-side (Supabase):** Created `supabase/009_rate_limiting.sql` with:
+   - `rate_limit_log` table to track actions per user
+   - `rate_limit_config` table with configurable limits
+   - `check_rate_limit()` function for reusable rate limit checks
+   - Updated `cast_vote()` and `ban_user()` functions with rate limiting
+   - New rate-limited functions: `create_proposal_rate_limited()`, `create_event_rate_limited()`, `send_message_rate_limited()`
 
-  IF recent_votes >= 10 THEN
-    RETURN jsonb_build_object('success', false, 'error', 'Rate limited');
-  END IF;
+2. **Client-side:** Created `src/lib/rateLimit.ts` with:
+   - `tryAction()` - Combined check and record for rate limiting
+   - `checkRateLimit()` - Check if action is allowed
+   - In-memory tracking with automatic cleanup
 
-  -- Proceed with vote...
-END;
-$$ LANGUAGE plpgsql SECURITY DEFINER;
-```
+**Rate limits applied:**
+- Votes: 10 per minute
+- Proposals: 3 per 5 minutes
+- Events: 5 per 5 minutes
+- Messages: 30 per minute
+- Mutual aid posts: 5 per 5 minutes
+
+**Files updated:**
+- `governanceStorage.ts` - createProposal()
+- `eventStorage.ts` - createEvent()
+- `directMessageStorage.ts` - sendDirectMessage()
+- `mutualAidStorage.ts` - createPost()
 
 ---
 
@@ -421,9 +420,9 @@ The Supabase migration Phase 2 successfully implements:
 3. ~~**H1:** Replace Math.random() with crypto.randomUUID()~~ DONE
 4. ~~**H2:** Add safeJsonParse utility~~ DONE
 5. ~~**M3:** Add input sanitization with DOMPurify~~ DONE
+6. ~~**M4:** Implement rate limiting~~ DONE
 
 ### Short-term (Week 2-3)
-6. **M4:** Implement rate limiting
 
 ### Medium-term (Month 1)
 7. **M6:** Add Content Security Policy headers

@@ -230,6 +230,10 @@ export function EventCreator({
       // Create single event OR series
       if (!isRecurring) {
         const event = createEvent(baseEventData);
+        if (!event) {
+          setError('Unable to create event. Please try again in a moment.');
+          return;
+        }
         onCreated(event);
       } else {
         // Generate recurring events
@@ -244,10 +248,14 @@ export function EventCreator({
         const events = generateRecurringEvents(baseEventData, recurrenceConfig, occurrenceCount);
 
         // Create all events in series
-        events.forEach(event => createEvent(event));
+        const createdEvents = events.map(event => createEvent(event)).filter(Boolean);
+        if (createdEvents.length === 0) {
+          setError('Unable to create events. Please try again in a moment.');
+          return;
+        }
 
         // Return first event to caller
-        onCreated(events[0]);
+        onCreated(createdEvents[0]!);
       }
     } catch (err) {
       setError('Failed to create event. Please try again.');

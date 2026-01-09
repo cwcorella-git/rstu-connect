@@ -6,6 +6,7 @@ import { supabase, USE_SUPABASE } from './supabase'
 import { castVote as serverCastVote, getVoteCounts, checkPermission, requireOnline, OfflineError } from './authService'
 import { cacheForOffline, getCached, invalidateCachePattern, CacheKeys } from './offlineCache'
 import { sanitizeText, sanitizeRichText } from './sanitize'
+import { tryAction } from './rateLimit'
 
 // ============================================================================
 // Types
@@ -172,6 +173,13 @@ export function createProposal(
 ): GovernanceProposal | null {
   const profile = getCurrentProfile()
   if (!profile) return null
+
+  // Check rate limit
+  const rateLimitResult = tryAction('proposal_create', profile.id)
+  if (!rateLimitResult.allowed) {
+    console.warn('[Governance] Rate limited:', rateLimitResult.error)
+    return null
+  }
 
   const state = getState()
 

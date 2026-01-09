@@ -6,6 +6,7 @@
  */
 
 import { sanitizeText, sanitizeRichText, sanitizeUrl } from './sanitize'
+import { tryAction } from './rateLimit'
 
 // Event types
 export type EventType = 'custom' | 'meeting' | 'committee' | 'workshop' | 'action' | 'intake' | 'social' | 'other'
@@ -247,7 +248,14 @@ export function unlinkEventFromCampaign(eventId: string): BuildingEvent | null {
 }
 
 // Create a new event
-export function createEvent(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>): BuildingEvent {
+export function createEvent(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>): BuildingEvent | null {
+  // Check rate limit
+  const rateLimitResult = tryAction('event_create', event.createdBy)
+  if (!rateLimitResult.allowed) {
+    console.warn('[EventStorage] Rate limited:', rateLimitResult.error)
+    return null
+  }
+
   const newEvent: BuildingEvent = {
     ...event,
     // Sanitize user-provided text fields

@@ -2,6 +2,7 @@
 
 import { getCurrentProfile } from './profileStorage'
 import { sanitizeText } from './sanitize'
+import { tryAction } from './rateLimit'
 
 // ============================================================================
 // Types
@@ -312,6 +313,13 @@ export function sendDirectMessage(
 ): DirectMessage | null {
   const profile = getCurrentProfile()
   if (!profile || !text.trim()) return null
+
+  // Check rate limit
+  const rateLimitResult = tryAction('message_send', profile.id)
+  if (!rateLimitResult.allowed) {
+    console.warn('[DirectMessage] Rate limited:', rateLimitResult.error)
+    return null
+  }
 
   const state = getState()
   const thread = state.threads.find(t => t.id === threadId)

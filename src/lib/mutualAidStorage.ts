@@ -11,6 +11,7 @@
  */
 
 import { sanitizeText, sanitizeRichText } from './sanitize'
+import { tryAction } from './rateLimit'
 
 // === TYPES ===
 
@@ -194,7 +195,14 @@ export function createPost(
   buildingAddress: string,
   authorId: string,
   authorName: string
-): MutualAidPost {
+): MutualAidPost | null {
+  // Check rate limit
+  const rateLimitResult = tryAction('mutual_aid_post', authorId)
+  if (!rateLimitResult.allowed) {
+    console.warn('[MutualAid] Rate limited:', rateLimitResult.error)
+    return null
+  }
+
   const now = Date.now()
   const post: MutualAidPost = {
     id: generateId(),
