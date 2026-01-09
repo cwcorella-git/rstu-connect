@@ -15,9 +15,10 @@ const ADMIN_KEY = 'rstu_admin_state';
 const AUTH_KEY = 'rstu_admin_auth';
 const EDITS_KEY = 'rstu_document_edits';
 
-// Legacy password hash (SHA-256) - kept for backwards compatibility
+// Legacy password hash (SHA-256) - DEPRECATED
 // New admins should use profile-based auth via invite codes
-const PASSWORD_HASH = '5d532a96025bc1ae5ea03e724c75b75d5a5b7ce5c7c3dd9115449d3a21adc15d';
+// Set NEXT_PUBLIC_LEGACY_ADMIN_HASH to enable legacy auth (not recommended)
+const PASSWORD_HASH = process.env.NEXT_PUBLIC_LEGACY_ADMIN_HASH || '';
 
 export interface AdminState {
   hiddenDocuments: string[]; // Array of document IDs to hide
@@ -66,6 +67,12 @@ export function checkAdminAuth(): boolean {
 
 export async function verifyAdminPassword(password: string): Promise<boolean> {
   if (typeof window === 'undefined') return false;
+
+  // Legacy auth disabled if no password hash configured
+  if (!PASSWORD_HASH) {
+    console.warn('[AdminStorage] Legacy password auth is disabled. Use profile-based auth instead.');
+    return false;
+  }
 
   // Hash the input password
   const encoder = new TextEncoder();

@@ -1,5 +1,8 @@
 import { test, expect } from '@playwright/test';
 
+// Bootstrap code for tests - read from environment variable
+const BOOTSTRAP_CODE = process.env.NEXT_PUBLIC_BOOTSTRAP_ADMIN_CODE || 'TEST-BOOTSTRAP-CODE';
+
 test('debug - examine live site with iframe', async ({ page }) => {
   await page.goto('/');
   await page.waitForTimeout(5000); // Wait for iframe to load
@@ -81,8 +84,8 @@ test('debug - click Join tab and check inputs', async ({ page }) => {
 
       // Test typing bootstrap code if this looks like invite input
       if (placeholder?.toLowerCase().includes('invite') || placeholder?.toLowerCase().includes('code')) {
-        console.log('  >>> Found invite/code input, testing with RSTU-UNION-2025');
-        await input.fill('RSTU-UNION-2025');
+        console.log(`  >>> Found invite/code input, testing with ${BOOTSTRAP_CODE}`);
+        await input.fill(BOOTSTRAP_CODE);
         const value = await input.inputValue();
         console.log(`  >>> Result: "${value}" (length: ${value.length})`);
 
@@ -111,7 +114,7 @@ test('debug - test bootstrap URL param', async ({ page }) => {
   }).catch(() => console.log('Could not clear localStorage'));
 
   // Now navigate with bootstrap param
-  await page.goto('/?bootstrap=RSTU-UNION-2025');
+  await page.goto(`/?bootstrap=${BOOTSTRAP_CODE}`);
   await page.waitForTimeout(5000);
 
   // Check localStorage

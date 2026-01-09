@@ -1,5 +1,8 @@
 import { test, expect } from '@playwright/test';
 
+// Bootstrap code for tests - read from environment variable
+const BOOTSTRAP_CODE = process.env.NEXT_PUBLIC_BOOTSTRAP_ADMIN_CODE || 'TEST-BOOTSTRAP-CODE';
+
 test.describe('Recent Features', () => {
 
   test.beforeEach(async ({ page }) => {
@@ -35,9 +38,9 @@ test.describe('Recent Features', () => {
       console.log('Invite code input maxLength:', maxLength);
 
       // Try typing the full bootstrap code
-      await codeInput.fill('RSTU-UNION-2025');
+      await codeInput.fill(BOOTSTRAP_CODE);
       const value = await codeInput.inputValue();
-      console.log('Input value after typing RSTU-UNION-2025:', value);
+      console.log(`Input value after typing ${BOOTSTRAP_CODE}:`, value);
       console.log('Value length:', value.length);
 
       // Check if it accepted all 15 characters
@@ -55,7 +58,7 @@ test.describe('Recent Features', () => {
     await page.evaluate(() => localStorage.clear());
 
     // Navigate with bootstrap parameter
-    await page.goto('/?bootstrap=RSTU-UNION-2025');
+    await page.goto(`/?bootstrap=${BOOTSTRAP_CODE}`);
 
     // Wait for potential redirect
     await page.waitForTimeout(2000);
@@ -247,8 +250,8 @@ test.describe('Recent Features', () => {
 
       // If this looks like an invite code input, test typing
       if (placeholder?.toLowerCase().includes('invite') || placeholder?.toLowerCase().includes('code')) {
-        console.log('  >>> Testing this input with RSTU-UNION-2025');
-        await input.fill('RSTU-UNION-2025');
+        console.log(`  >>> Testing this input with ${BOOTSTRAP_CODE}`);
+        await input.fill(BOOTSTRAP_CODE);
         const value = await input.inputValue();
         console.log(`  >>> Result: "${value}" (length: ${value.length})`);
 

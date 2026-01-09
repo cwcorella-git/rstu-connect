@@ -23,12 +23,21 @@ const webpush = require('web-push');
 const PORT = process.env.PORT || 10000;
 
 // VAPID keys for web push (generate with: npx web-push generate-vapid-keys)
-const VAPID_PUBLIC_KEY = process.env.VAPID_PUBLIC_KEY || 'BH5qbRwr6El_ccyQplmhsVHaitlpPmZMGBuv7VNl0hFIah5iIfM7W_Q3P4GpSMeM--tdY0wpLL6fM8LszhyinoE';
-const VAPID_PRIVATE_KEY = process.env.VAPID_PRIVATE_KEY || 'xLL4V50C8np0YvfHxgmK5v-N--xcXO0JIThpTIoo-VI';
+// These MUST be set as environment variables - no hardcoded fallbacks for security
+const VAPID_PUBLIC_KEY = process.env.VAPID_PUBLIC_KEY;
+const VAPID_PRIVATE_KEY = process.env.VAPID_PRIVATE_KEY;
 const VAPID_EMAIL = process.env.VAPID_EMAIL || 'mailto:contact@renosparkstenantsunion.org';
 
-// Configure web-push
-webpush.setVapidDetails(VAPID_EMAIL, VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY);
+// Configure web-push (only if VAPID keys are configured)
+let webPushEnabled = false;
+if (VAPID_PUBLIC_KEY && VAPID_PRIVATE_KEY) {
+  webpush.setVapidDetails(VAPID_EMAIL, VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY);
+  webPushEnabled = true;
+  console.log('Web push notifications enabled');
+} else {
+  console.warn('VAPID keys not configured - web push notifications disabled');
+  console.warn('Set VAPID_PUBLIC_KEY and VAPID_PRIVATE_KEY environment variables to enable');
+}
 const ALLOWED_ORIGINS = [
   'http://localhost:3000',
   'https://rstu-connect.neocities.org',
@@ -599,6 +608,11 @@ function getAllPushSubscriptions() {
 }
 
 async function sendPushNotification(profileId, notification) {
+  if (!webPushEnabled) {
+    console.log('[Push] Web push disabled - VAPID keys not configured');
+    return;
+  }
+
   const subscriptions = getPushSubscriptionsForProfile(profileId);
 
   const payload = JSON.stringify({

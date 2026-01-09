@@ -420,12 +420,16 @@ function generateBootstrapCode(): string {
   return code
 }
 
-// Hardcoded bootstrap code for first admin
-const BOOTSTRAP_ADMIN_CODE = 'RSTU-UNION-2025'
+// Bootstrap code for first admin - loaded from environment variable
+// WARNING: In static builds, this will be embedded in the client bundle.
+// For production, consider using a Supabase Edge Function for bootstrap validation.
+const BOOTSTRAP_ADMIN_CODE = process.env.NEXT_PUBLIC_BOOTSTRAP_ADMIN_CODE || ''
 
 // Initialize bootstrap - just checks if needed (no console logging)
 export function initBootstrapCode(): string | null {
   if (typeof window === 'undefined') return null
+  // Bootstrap disabled if no code configured
+  if (!BOOTSTRAP_ADMIN_CODE) return null
   const state = getProfileState()
   // Already has a profile - no bootstrap needed
   if (state.currentProfile) return null
@@ -442,8 +446,8 @@ export function bootstrapFirstAdmin(inputCode: string, nickname?: string, passwo
   // Already has profile - no bootstrap needed
   if (state.currentProfile) return null
 
-  // Validate against hardcoded code
-  if (inputCode.toUpperCase() !== BOOTSTRAP_ADMIN_CODE) return null
+  // Validate against bootstrap code (disabled if not configured)
+  if (!BOOTSTRAP_ADMIN_CODE || inputCode.toUpperCase() !== BOOTSTRAP_ADMIN_CODE) return null
 
   // Nickname and password are required for bootstrap
   if (!nickname || !password) return null

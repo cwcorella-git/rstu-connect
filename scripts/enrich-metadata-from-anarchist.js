@@ -5,15 +5,24 @@ const { Pool } = require('pg');
 const MANIFEST_FILE = path.join(__dirname, '../src/data/reading-manifest.json');
 const OUTPUT_FILE = path.join(__dirname, '../data/anarchist-matches.json');
 
-// PostgreSQL connection to veritable-games server
-const pool = new Pool({
-  host: '192.168.1.15',
-  port: 5432,
-  database: 'veritable_games',
-  user: 'postgres',
-  password: 'postgres',
-  connectionTimeoutMillis: 5000,
-});
+// Database connection from environment variable or individual settings
+const pool = new Pool(
+  process.env.LOCAL_PG_URL
+    ? { connectionString: process.env.LOCAL_PG_URL, connectionTimeoutMillis: 5000 }
+    : {
+        host: process.env.LOCAL_PG_HOST || 'localhost',
+        port: parseInt(process.env.LOCAL_PG_PORT || '5432'),
+        database: process.env.LOCAL_PG_DATABASE || 'veritable_games',
+        user: process.env.LOCAL_PG_USER || 'postgres',
+        password: process.env.LOCAL_PG_PASSWORD,
+        connectionTimeoutMillis: 5000,
+      }
+);
+
+if (!process.env.LOCAL_PG_URL && !process.env.LOCAL_PG_PASSWORD) {
+  console.warn('Warning: No database credentials configured.');
+  console.warn('Set LOCAL_PG_URL or LOCAL_PG_PASSWORD environment variable.');
+}
 
 // Normalize title for comparison
 function normalizeTitle(title) {

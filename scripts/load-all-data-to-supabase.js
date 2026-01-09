@@ -15,9 +15,27 @@ const fs = require('fs');
 const path = require('path');
 const { createClient } = require('@supabase/supabase-js');
 
-// Supabase credentials (from .env.local)
-const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://dxkwzvweaqlhmpwgpzsa.supabase.co';
-const SUPABASE_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR4a3d6dndlYXFsaG1wd2dwenNhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjYyODQ0NDQsImV4cCI6MjA4MTg2MDQ0NH0.qbiCRiDGRYZZhL93QHh75Bpx5dek_SuvubfjfA6eln0';
+// Load .env.local if running locally
+try {
+  require('dotenv').config({ path: path.join(__dirname, '../.env.local') });
+} catch {
+  // dotenv not available, rely on environment variables
+}
+
+// Supabase credentials (from environment variables - REQUIRED)
+const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL;
+const SUPABASE_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+
+if (!SUPABASE_URL || !SUPABASE_KEY) {
+  console.error('ERROR: Missing required environment variables');
+  console.error('  NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_ANON_KEY must be set');
+  console.error('');
+  console.error('Options:');
+  console.error('  1. Create .env.local file with these variables');
+  console.error('  2. Set environment variables before running:');
+  console.error('     NEXT_PUBLIC_SUPABASE_URL=... NEXT_PUBLIC_SUPABASE_ANON_KEY=... node scripts/load-all-data-to-supabase.js');
+  process.exit(1);
+}
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
