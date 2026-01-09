@@ -18,15 +18,18 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 | Severity | Count | Status |
 |----------|-------|--------|
 | CRITICAL | 4 | 3 FIXED, 1 requires attention |
-| HIGH | 3 | Address within 1 week |
+| HIGH | 3 | 1 FIXED, 2 require attention |
 | MEDIUM | 6 | 1 FIXED, 5 require attention |
 | LOW | 4 | Address as time permits |
 
-### Additional Fixes Applied
+### Fixes Applied
+- Removed hardcoded Supabase credentials from scripts
 - Removed hardcoded VAPID keys from relay-server
 - Removed hardcoded postgres passwords from 4 metadata scripts
+- Removed hardcoded bootstrap admin code (now env var)
 - Removed hardcoded legacy admin password hash
-- Updated .env template with all required environment variables
+- Replaced all Math.random() ID generation with crypto.randomUUID()
+- Updated .env.example template with all required environment variables
 
 ---
 
@@ -113,51 +116,20 @@ Keep client-side checks for UI (hiding buttons, etc.) but never trust them for s
 
 ## HIGH Vulnerabilities
 
-### H1: Weak Cryptographic Randomness for IDs
+### H1: Weak Cryptographic Randomness for IDs - FIXED
 
-**Locations:** ~20 files using `Math.random()` for ID generation, including:
-- `src/lib/eventStorage.ts`
-- `src/lib/governanceStorage.ts`
-- `src/lib/campaignStorage.ts`
-- `src/lib/mutualAidStorage.ts`
-- `src/lib/canvassStorage.ts`
-- `src/lib/linkedPropertiesStorage.ts`
+**Finding:** IDs were generated using `Math.random()` which is not cryptographically secure.
 
-**Finding:** IDs are generated using `Math.random()` which is not cryptographically secure.
+**Status:** FIXED - All ID generation now uses `crypto.randomUUID()` with fallback to `crypto.getRandomValues()`.
 
-```typescript
-const id = Math.random().toString(36).substring(2, 9)
-```
-
-**Impact:** Predictable IDs could allow attackers to guess valid resource identifiers.
-
-**Remediation Prompt:**
-```
-Replace all Math.random() ID generation with crypto.randomUUID():
-
-// Before
-const id = Math.random().toString(36).substring(2, 9);
-
-// After
-const id = crypto.randomUUID();
-
-Or for shorter IDs:
-const id = crypto.randomUUID().split('-')[0];
-
-Files to update:
-- src/lib/eventStorage.ts
-- src/lib/governanceStorage.ts
-- src/lib/campaignStorage.ts
-- src/lib/mutualAidStorage.ts
-- src/lib/canvassStorage.ts
-- src/lib/linkedPropertiesStorage.ts
-- src/lib/strikeStorage.ts
-- src/lib/victoryStorage.ts
-- src/lib/buildingOrganizingStorage.ts
-- src/lib/evictionDefenseStorage.ts
-- src/lib/leaseStorage.ts
-- src/lib/directMessageStorage.ts
-```
+**Files updated:**
+- `src/lib/profileStorage.ts` - generateId, generateShortId, generateBootstrapCode, generateInviteCode, getDeviceId
+- `src/lib/eventStorage.ts` - Added generateShortId helper
+- `src/lib/governanceStorage.ts` - Added generateShortId helper
+- `src/lib/directMessageStorage.ts` - Added generateShortId helper
+- `src/hooks/useDirectMessages.ts` - Added generateShortId helper
+- `src/components/Events/EventCreator.tsx` - Added generateShortId helper
+- `src/lib/victoryStorage.ts`, `campaignStorage.ts`, `buildingOrganizingStorage.ts`, `electionStorage.ts`, `mutualAidStorage.ts`, `linkedPropertiesStorage.ts`, `taskStorage.ts` - Updated generateId functions
 
 ---
 
@@ -458,7 +430,7 @@ The Supabase migration Phase 2 successfully implements:
 ### Immediate (Week 1)
 1. ~~**C1:** Remove hardcoded Supabase credentials~~ DONE
 2. ~~**C3:** Move bootstrap code to environment variable~~ DONE
-3. **H1:** Replace Math.random() with crypto.randomUUID()
+3. ~~**H1:** Replace Math.random() with crypto.randomUUID()~~ DONE
 
 ### Short-term (Week 2-3)
 4. **H2:** Add safeJsonParse utility
