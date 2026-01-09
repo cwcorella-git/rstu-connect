@@ -2,6 +2,7 @@
 
 import { getSocket } from './socketio'
 import { safeJsonParse } from './safeStorage'
+import { sanitizeText, sanitizeRichText } from './sanitize'
 
 // ============================================================================
 // Types
@@ -194,20 +195,20 @@ export function createTask(data: {
 }): Task {
   const task: Task = {
     id: generateId(),
-    title: data.title,
-    description: data.description || '',
+    title: sanitizeText(data.title),
+    description: sanitizeRichText(data.description || ''),
     status: 'todo',
     priority: data.priority || 'medium',
     type: data.type || 'other',
     assigneeIds: [],
     assigneeNames: [],
     campaignId: data.campaignId,
-    campaignName: data.campaignName,
+    campaignName: data.campaignName ? sanitizeText(data.campaignName) : undefined,
     buildingId: data.buildingId,
-    buildingName: data.buildingName,
+    buildingName: data.buildingName ? sanitizeText(data.buildingName) : undefined,
     dueDate: data.dueDate,
     createdBy: data.createdBy,
-    createdByName: data.createdByName,
+    createdByName: sanitizeText(data.createdByName),
     createdAt: Date.now(),
     updatedAt: Date.now(),
   }

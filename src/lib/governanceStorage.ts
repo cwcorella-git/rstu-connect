@@ -5,6 +5,7 @@ import { getLinkedGroups, updateLinkedGroup, getGroupForApn, createLinkedGroup, 
 import { supabase, USE_SUPABASE } from './supabase'
 import { castVote as serverCastVote, getVoteCounts, checkPermission, requireOnline, OfflineError } from './authService'
 import { cacheForOffline, getCached, invalidateCachePattern, CacheKeys } from './offlineCache'
+import { sanitizeText, sanitizeRichText } from './sanitize'
 
 // ============================================================================
 // Types
@@ -191,11 +192,11 @@ export function createProposal(
     targetGroupId: options.targetGroupId,
     targetApn: options.targetApn,
     targetProfileId: options.targetProfileId,
-    targetValue: options.targetValue,
+    targetValue: sanitizeText(options.targetValue),
     targetApns: options.targetApns,
     proposedBy: profile.id,
-    proposedByName: profile.nickname,
-    reason: options.reason || '',
+    proposedByName: sanitizeText(profile.nickname),
+    reason: sanitizeRichText(options.reason || ''),
     upvotes: [profile.id], // Proposer auto-upvotes
     downvotes: [],
     status: 'active',

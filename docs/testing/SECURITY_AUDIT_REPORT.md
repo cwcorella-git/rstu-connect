@@ -19,7 +19,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 |----------|-------|--------|
 | CRITICAL | 4 | 3 FIXED, 1 requires attention |
 | HIGH | 3 | 2 FIXED, 1 requires attention |
-| MEDIUM | 6 | 1 FIXED, 5 require attention |
+| MEDIUM | 6 | 2 FIXED, 4 require attention |
 | LOW | 4 | Address as time permits |
 
 ### Fixes Applied
@@ -30,6 +30,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 - Removed hardcoded legacy admin password hash
 - Replaced all Math.random() ID generation with crypto.randomUUID()
 - Added safeJsonParse utility for robust JSON error handling
+- Added DOMPurify input sanitization for all user-generated content
 - Updated .env.example template with all required environment variables
 
 ---
@@ -256,34 +257,26 @@ markerDiv.appendChild(innerDiv);
 
 ---
 
-### M3: Missing Input Sanitization on User Content
+### M3: Missing Input Sanitization on User Content - FIXED
 
-**Finding:** User-generated content (chat messages, proposal text, event descriptions) is not consistently sanitized before storage or display.
+**Finding:** User-generated content was not consistently sanitized before storage.
 
-**Remediation Prompt:**
-```
-Add input sanitization layer:
+**Status:** FIXED - Added DOMPurify-based sanitization utility and applied to all user content storage functions.
 
-// src/lib/sanitize.ts
-import DOMPurify from 'dompurify';
+**Implementation:** Created `src/lib/sanitize.ts` with:
+- `sanitizeText()` - Strips all HTML tags (for titles, names, short fields)
+- `sanitizeRichText()` - Allows safe formatting tags (for descriptions, notes)
+- `sanitizeUrl()` - Validates and sanitizes URLs
+- `sanitizeObject()` - Recursively sanitizes object fields
 
-export function sanitizeText(input: string): string {
-  return DOMPurify.sanitize(input, { ALLOWED_TAGS: [] });
-}
-
-export function sanitizeHtml(input: string): string {
-  return DOMPurify.sanitize(input, {
-    ALLOWED_TAGS: ['b', 'i', 'em', 'strong', 'a', 'p', 'br'],
-    ALLOWED_ATTR: ['href']
-  });
-}
-
-Apply before storing user content:
-- Chat messages
-- Proposal descriptions
-- Event details
-- Mutual aid posts
-```
+**Files updated with sanitization:**
+- `governanceStorage.ts` - createProposal()
+- `eventStorage.ts` - createEvent(), addMeetingNotes(), rsvpToEvent()
+- `mutualAidStorage.ts` - createPost(), createResourceItem(), saveSkillProfile()
+- `campaignStorage.ts` - createCampaign(), addCampaignDemand(), addCampaignNote()
+- `taskStorage.ts` - createTask()
+- `directMessageStorage.ts` - sendDirectMessage()
+- `evictionDefenseStorage.ts` - addNote(), addEvidence(), addWitnessSignup()
 
 ---
 
@@ -427,9 +420,9 @@ The Supabase migration Phase 2 successfully implements:
 2. ~~**C3:** Move bootstrap code to environment variable~~ DONE
 3. ~~**H1:** Replace Math.random() with crypto.randomUUID()~~ DONE
 4. ~~**H2:** Add safeJsonParse utility~~ DONE
+5. ~~**M3:** Add input sanitization with DOMPurify~~ DONE
 
 ### Short-term (Week 2-3)
-5. **M3:** Add input sanitization with DOMPurify
 6. **M4:** Implement rate limiting
 
 ### Medium-term (Month 1)
@@ -445,16 +438,19 @@ The Supabase migration Phase 2 successfully implements:
 |------|--------|--------|
 | `scripts/load-all-data-to-supabase.js` | C1 | FIXED |
 | `src/lib/profileStorage.ts` | C3, C4, H2 | C3, H2 FIXED |
-| `src/lib/governanceStorage.ts` | C4, H1, H2 | H1, H2 FIXED (had try-catch) |
-| `src/lib/eventStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
-| `src/lib/campaignStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
-| `src/lib/mutualAidStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
+| `src/lib/governanceStorage.ts` | C4, H1, H2, M3 | H1, H2, M3 FIXED |
+| `src/lib/eventStorage.ts` | H1, H2, M3 | FIXED |
+| `src/lib/campaignStorage.ts` | H1, H2, M3 | FIXED |
+| `src/lib/mutualAidStorage.ts` | H1, H2, M3 | FIXED |
 | `src/lib/canvassStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
 | `src/lib/safeStorage.ts` | N/A | Added safeJsonParse utility |
-| `src/lib/taskStorage.ts` | H2 | FIXED |
+| `src/lib/sanitize.ts` | N/A | NEW - DOMPurify sanitization utility |
+| `src/lib/taskStorage.ts` | H2, M3 | FIXED |
 | `src/lib/electionStorage.ts` | H1, H2 | FIXED |
 | `src/lib/readingStorage.ts` | H2 | FIXED |
 | `src/lib/adminStorage.ts` | H2 | FIXED |
+| `src/lib/directMessageStorage.ts` | M3 | FIXED |
+| `src/lib/evictionDefenseStorage.ts` | M3 | FIXED |
 | `src/components/PropertyView/PropertyMapTab.tsx` | M1 | Pending |
 
 ---

@@ -10,6 +10,8 @@
  * - Participatory - collective action, not waiting for saviors
  */
 
+import { sanitizeText, sanitizeRichText } from './sanitize'
+
 // === TYPES ===
 
 export type MutualAidCategory =
@@ -198,12 +200,12 @@ export function createPost(
     id: generateId(),
     type,
     category,
-    title,
-    details,
+    title: sanitizeText(title),
+    details: sanitizeRichText(details),
     buildingApn,
-    buildingAddress,
+    buildingAddress: sanitizeText(buildingAddress),
     authorId,
-    authorName,
+    authorName: sanitizeText(authorName),
     status: 'open',
     createdAt: now,
     expiresAt: now + 30 * 24 * 60 * 60 * 1000, // 30 days
@@ -248,13 +250,13 @@ export function createResourceItem(
 ): ResourceItem {
   const item: ResourceItem = {
     id: generateId(),
-    name,
-    description,
+    name: sanitizeText(name),
+    description: sanitizeRichText(description),
     category,
     ownerId,
-    ownerName,
+    ownerName: sanitizeText(ownerName),
     buildingApn,
-    buildingAddress,
+    buildingAddress: sanitizeText(buildingAddress),
     status: 'available',
   }
 
@@ -314,12 +316,25 @@ export function getSkillProfile(memberId: string): SkillProfile | null {
 }
 
 export function saveSkillProfile(profile: SkillProfile): void {
+  // Sanitize user-provided fields
+  const sanitizedProfile: SkillProfile = {
+    ...profile,
+    memberName: sanitizeText(profile.memberName),
+    buildingAddress: profile.buildingAddress ? sanitizeText(profile.buildingAddress) : undefined,
+    availability: sanitizeText(profile.availability),
+    skills: profile.skills.map(skill => ({
+      ...skill,
+      description: skill.description ? sanitizeText(skill.description) : undefined,
+    })),
+    languages: profile.languages?.map(sanitizeText),
+  }
+
   const profiles = getSkillProfiles()
-  const index = profiles.findIndex(p => p.memberId === profile.memberId)
+  const index = profiles.findIndex(p => p.memberId === sanitizedProfile.memberId)
   if (index !== -1) {
-    profiles[index] = profile
+    profiles[index] = sanitizedProfile
   } else {
-    profiles.push(profile)
+    profiles.push(sanitizedProfile)
   }
   saveToStorage(SKILLS_KEY, profiles)
 }

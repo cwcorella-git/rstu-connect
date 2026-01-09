@@ -6,6 +6,8 @@
  * from buildingOrganizingStorage.
  */
 
+import { sanitizeText, sanitizeRichText } from './sanitize'
+
 // === TYPES ===
 
 export type CampaignStage =
@@ -346,6 +348,17 @@ export function createCampaign(
 
   const campaign: Campaign = {
     ...data,
+    // Sanitize user-provided fields
+    name: sanitizeText(data.name),
+    landlordName: sanitizeText(data.landlordName),
+    demands: data.demands.map(d => ({
+      ...d,
+      text: sanitizeText(d.text),
+      notes: d.notes ? sanitizeRichText(d.notes) : undefined,
+    })),
+    nextAction: data.nextAction ? sanitizeText(data.nextAction) : undefined,
+    nextActionAssignee: data.nextActionAssignee ? sanitizeText(data.nextActionAssignee) : undefined,
+    outcomeDetails: data.outcomeDetails ? sanitizeRichText(data.outcomeDetails) : undefined,
     id: generateId(),
     stageChanges: [{ stage: data.stage, date: data.startDate }],
     notes: [],
@@ -425,7 +438,7 @@ export function addCampaignDemand(
 
   const demand: CampaignDemand = {
     id: generateId(),
-    text,
+    text: sanitizeText(text),
     status: 'proposed',
   }
 
@@ -499,8 +512,8 @@ export function addCampaignNote(
   const note: CampaignNote = {
     id: generateId(),
     date: new Date().toISOString(),
-    author,
-    text,
+    author: sanitizeText(author),
+    text: sanitizeRichText(text),
   }
 
   campaign.notes.unshift(note) // Add to beginning

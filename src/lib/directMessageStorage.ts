@@ -1,6 +1,7 @@
 'use client'
 
 import { getCurrentProfile } from './profileStorage'
+import { sanitizeText } from './sanitize'
 
 // ============================================================================
 // Types
@@ -320,8 +321,8 @@ export function sendDirectMessage(
     id: `msg-${Date.now()}-${generateShortId()}`,
     threadId,
     senderId: profile.id,
-    senderName: profile.nickname,
-    text: text.trim(),
+    senderName: sanitizeText(profile.nickname),
+    text: sanitizeText(text.trim()),
     timestamp: Date.now(),
     readBy: [profile.id],
   }

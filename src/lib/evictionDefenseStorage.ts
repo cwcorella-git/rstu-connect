@@ -1,6 +1,7 @@
 'use client'
 
 import { randomUUID } from 'crypto'
+import { sanitizeText, sanitizeRichText } from './sanitize'
 
 // ============================================================================
 // TYPES
@@ -724,6 +725,7 @@ export function addEvidence(caseId: string, evidence: Omit<EvictionCaseEvidence,
 
   const newEvidence: EvictionCaseEvidence = {
     ...evidence,
+    description: sanitizeText(evidence.description),
     id: randomUUID()
   }
 
@@ -758,8 +760,8 @@ export function addNote(caseId: string, authorId: string, authorName: string, co
   const newNote: EvictionCaseNote = {
     id: randomUUID(),
     authorId,
-    authorName,
-    content,
+    authorName: sanitizeText(authorName),
+    content: sanitizeRichText(content),
     timestamp: Date.now(),
     organizerOnly
   }
@@ -836,7 +838,13 @@ export function addWitnessSignup(caseId: string, witness: WitnessSignup): Evicti
   const existingCase = getCase(caseId)
   if (!existingCase) return null
 
-  existingCase.witnessSignups.push(witness)
+  const sanitizedWitness: WitnessSignup = {
+    ...witness,
+    name: sanitizeText(witness.name),
+    contact: witness.contact ? sanitizeText(witness.contact) : undefined,
+  }
+
+  existingCase.witnessSignups.push(sanitizedWitness)
   return updateCase(caseId, { witnessSignups: existingCase.witnessSignups })
 }
 

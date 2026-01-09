@@ -5,6 +5,8 @@
  * Uses localStorage with optional Supabase sync
  */
 
+import { sanitizeText, sanitizeRichText, sanitizeUrl } from './sanitize'
+
 // Event types
 export type EventType = 'custom' | 'meeting' | 'committee' | 'workshop' | 'action' | 'intake' | 'social' | 'other'
 export type EventStatus = 'proposed' | 'confirmed' | 'cancelled' | 'completed'
@@ -248,6 +250,16 @@ export function unlinkEventFromCampaign(eventId: string): BuildingEvent | null {
 export function createEvent(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>): BuildingEvent {
   const newEvent: BuildingEvent = {
     ...event,
+    // Sanitize user-provided text fields
+    title: sanitizeText(event.title),
+    description: event.description ? sanitizeRichText(event.description) : undefined,
+    createdByName: sanitizeText(event.createdByName),
+    location: {
+      ...event.location,
+      name: sanitizeText(event.location.name),
+      address: event.location.address ? sanitizeText(event.location.address) : undefined,
+      virtualLink: event.location.virtualLink ? sanitizeUrl(event.location.virtualLink) : undefined,
+    },
     id: `evt-${Date.now()}-${generateShortId()}`,
     createdAt: Date.now(),
     rsvps: []
@@ -304,7 +316,7 @@ export function rsvpToEvent(
   // Add new RSVP
   event.rsvps.push({
     profileId,
-    profileNickname,
+    profileNickname: sanitizeText(profileNickname),
     status,
     timestamp: Date.now()
   })
@@ -349,10 +361,12 @@ export function addMeetingNotes(
 
   const now = Date.now()
   event.notes = {
-    content,
+    content: sanitizeRichText(content),
     attendees,
     actionItems: actionItems.map(item => ({
       ...item,
+      description: sanitizeText(item.description),
+      assignedToName: item.assignedToName ? sanitizeText(item.assignedToName) : undefined,
       id: `action-${Date.now()}-${generateShortId()}`
     })),
     createdAt: now,
