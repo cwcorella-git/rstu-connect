@@ -19,7 +19,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 |----------|-------|--------|
 | CRITICAL | 4 | 3 FIXED, 1 requires attention |
 | HIGH | 3 | 2 FIXED, 1 requires attention |
-| MEDIUM | 6 | 3 FIXED, 3 require attention |
+| MEDIUM | 6 | 4 FIXED, 2 require attention |
 | LOW | 4 | Address as time permits |
 
 ### Fixes Applied
@@ -32,6 +32,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 - Added safeJsonParse utility for robust JSON error handling
 - Added DOMPurify input sanitization for all user-generated content
 - Added rate limiting (server-side Supabase + client-side utility)
+- Added Content Security Policy via meta tags
 - Updated .env.example template with all required environment variables
 
 ---
@@ -328,34 +329,32 @@ markerDiv.appendChild(innerDiv);
 
 ---
 
-### M6: Missing Content Security Policy
+### M6: Missing Content Security Policy - FIXED
 
 **Finding:** No Content-Security-Policy headers configured to prevent XSS attacks.
 
-**Remediation Prompt:**
-```
-Add CSP headers in next.config.js:
+**Status:** FIXED - Added CSP via meta tags in `src/app/layout.tsx` (required for static export sites).
 
-const securityHeaders = [
-  {
-    key: 'Content-Security-Policy',
-    value: [
-      "default-src 'self'",
-      "script-src 'self' 'unsafe-inline' 'unsafe-eval'",  // Needed for Next.js
-      "style-src 'self' 'unsafe-inline'",
-      "img-src 'self' data: https:",
-      "connect-src 'self' https://*.supabase.co wss://*.supabase.co https://rstu-chat-server.onrender.com",
-      "frame-ancestors 'self' https://rstu-connect.neocities.org"
-    ].join('; ')
-  }
-];
-
-module.exports = {
-  async headers() {
-    return [{ source: '/:path*', headers: securityHeaders }];
-  }
-};
+**Implementation:**
+```html
+<meta httpEquiv="Content-Security-Policy" content="
+  default-src 'self';
+  script-src 'self' 'unsafe-inline' 'unsafe-eval';
+  style-src 'self' 'unsafe-inline';
+  img-src 'self' data: https: blob:;
+  connect-src 'self' https://*.supabase.co wss://*.supabase.co https://rstu-chat-server.onrender.com ...;
+  object-src 'none';
+  frame-ancestors 'self' https://rstu-connect.neocities.org;
+  upgrade-insecure-requests
+" />
 ```
+
+**Additional security headers added:**
+- `X-Content-Type-Options: nosniff` - Prevents MIME sniffing
+- `X-Frame-Options: SAMEORIGIN` - Clickjacking protection (backup for CSP)
+- `Referrer-Policy: strict-origin-when-cross-origin` - Controls referrer info
+
+**Note:** Using meta tags because `headers()` in next.config.js doesn't work with static export (`output: 'export'`).
 
 ---
 
@@ -421,6 +420,7 @@ The Supabase migration Phase 2 successfully implements:
 4. ~~**H2:** Add safeJsonParse utility~~ DONE
 5. ~~**M3:** Add input sanitization with DOMPurify~~ DONE
 6. ~~**M4:** Implement rate limiting~~ DONE
+7. ~~**M6:** Add Content Security Policy~~ DONE
 
 ### Short-term (Week 2-3)
 
