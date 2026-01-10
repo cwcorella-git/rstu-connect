@@ -18,7 +18,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 | Severity | Count | Status |
 |----------|-------|--------|
 | CRITICAL | 4 | **4 FIXED** |
-| HIGH | 3 | 2 FIXED, 1 requires attention |
+| HIGH | 3 | **3 FIXED/MITIGATED** |
 | MEDIUM | 6 | 6 FIXED/MITIGATED |
 | LOW | 4 | Address as time permits |
 
@@ -35,6 +35,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 - Added Content Security Policy via meta tags
 - Added client-side encryption for sensitive localStorage data (AES-GCM 256-bit)
 - Added server-side authorization via secure RPC functions (events, proposals, campaigns)
+- Added CSRF protection utility with Origin validation and token management
 - Updated .env.example template with all required environment variables
 
 ---
@@ -172,26 +173,36 @@ export function safeJsonParse<T>(json: string | null, defaultValue: T): T {
 
 ---
 
-### H3: No CSRF Protection on State-Changing Operations
+### H3: No CSRF Protection on State-Changing Operations - MITIGATED
 
 **Finding:** The application makes fetch requests without CSRF tokens. While Supabase uses JWT for authentication, custom API calls lack CSRF protection.
 
-**Impact:** Cross-site request forgery attacks could trick authenticated users into performing unwanted actions.
+**Status:** MITIGATED - CSRF protection infrastructure added, and current architecture is inherently CSRF-resistant.
 
-**Remediation Prompt:**
-```
-For Supabase operations, the JWT token provides sufficient protection as it's sent
-in the Authorization header (not cookies).
+**Why Current Architecture is CSRF-Safe:**
+1. **Supabase operations** use JWT in Authorization header (not cookies) - must be explicitly added by code, not auto-sent
+2. **Socket.io** uses its own authentication mechanism separate from cookies
+3. **Static site** has no server-side API routes to attack
+4. **CSP form-action** restricts form submissions to same-origin (`form-action 'self'`)
 
-For any custom API endpoints added in the future:
-1. Use SameSite=Strict cookies
-2. Add CSRF token validation
-3. Verify Origin header matches expected domain
+**Implementation (`src/lib/csrf.ts`):**
+- `validateOrigin()` - Validates request Origin header against allowed list
+- `generateCsrfToken()` / `validateCsrfToken()` - Token generation/validation for future use
+- `secureFetch()` / `securePost()` - Fetch wrappers with domain validation and CSRF tokens
+- `isAllowedApiDomain()` - Validates requests go to trusted API domains
+- Comprehensive documentation of CSRF protection strategy
 
-Current risk is LOW because:
-- Supabase uses Authorization header, not cookies
-- No custom API endpoints exist yet
-- Static site has limited attack surface
+**For Future Development:**
+```typescript
+// For any custom API endpoints:
+import { validateOrigin, validateCsrfToken, secureFetch } from './csrf'
+
+// Server-side: validate incoming requests
+const originResult = validateOrigin(request.headers.get('Origin'))
+const csrfResult = validateCsrfToken(request.headers.get('X-CSRF-Token'))
+
+// Client-side: use secure fetch wrapper
+await secureFetch('/api/custom', { method: 'POST', includeCsrfToken: true })
 ```
 
 ---
@@ -451,6 +462,7 @@ The Supabase migration Phase 2 successfully implements:
 | `src/lib/crypto.ts` | N/A | NEW - AES-GCM encryption utility |
 | `src/lib/secureStorage.ts` | N/A | NEW - Encrypted localStorage wrapper |
 | `supabase/010_secure_operations.sql` | C4 | NEW - Secure RPC functions for authorization |
+| `src/lib/csrf.ts` | H3 | NEW - CSRF protection utility |
 | `src/lib/taskStorage.ts` | H2, M3 | FIXED |
 | `src/lib/electionStorage.ts` | H1, H2 | FIXED |
 | `src/lib/readingStorage.ts` | H2 | FIXED |
