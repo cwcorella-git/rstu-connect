@@ -1584,10 +1584,13 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
         return false
       }
 
-      console.log('[DeleteProfile] Successfully deleted profile:', profileId)
+      // Profile deleted successfully
       return true
     } catch (err) {
-      console.error('[DeleteProfile] Supabase error:', err)
+      // Log error but don't expose details to user
+      if (process.env.NODE_ENV === 'development') {
+        console.error('[DeleteProfile] Supabase error:', err)
+      }
       return false
     }
   }
