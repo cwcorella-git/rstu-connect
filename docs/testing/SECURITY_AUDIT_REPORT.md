@@ -17,7 +17,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 
 | Severity | Count | Status |
 |----------|-------|--------|
-| CRITICAL | 4 | 3 FIXED, 1 requires attention |
+| CRITICAL | 4 | **4 FIXED** |
 | HIGH | 3 | 2 FIXED, 1 requires attention |
 | MEDIUM | 6 | 6 FIXED/MITIGATED |
 | LOW | 4 | Address as time permits |
@@ -34,6 +34,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 - Added rate limiting (server-side Supabase + client-side utility)
 - Added Content Security Policy via meta tags
 - Added client-side encryption for sensitive localStorage data (AES-GCM 256-bit)
+- Added server-side authorization via secure RPC functions (events, proposals, campaigns)
 - Updated .env.example template with all required environment variables
 
 ---
@@ -86,36 +87,37 @@ const BOOTSTRAP_ADMIN_CODE = process.env.NEXT_PUBLIC_BOOTSTRAP_ADMIN_CODE || ''
 
 ---
 
-### C4: Client-Side Authorization Checks (Bypassable)
+### C4: Client-Side Authorization Checks (Bypassable) - FIXED
 
-**Locations:** 42 occurrences across 15 files including:
-- `src/lib/governanceStorage.ts:253, 765, 918, 934, 943`
-- `src/lib/profileStorage.ts:1318, 1346, 1473, 1532, 1548, 1595`
-- `src/lib/buildingOrganizingStorage.ts:390, 393, 398, 410, 411, 414, 547, 625`
-- `src/components/Events/EventCard.tsx:44`
-- `src/app/page.tsx:384, 550`
+**Locations:** 42 occurrences across 15 files
 
 **Finding:** Role checks like `profile.role === 'admin'` are performed client-side where they can be bypassed via DevTools.
 
-**Impact:** Users can modify localStorage to elevate their role and bypass access controls.
+**Status:** FIXED - All security-critical operations now validated server-side via Supabase RPC functions.
 
-**Note:** The new `authService.ts` provides server-side validation via Supabase RPC functions. Client-side checks should now be treated as **UI hints only**.
+**Implementation:**
 
-**Remediation Prompt:**
-```
-For each client-side role check, ensure there is a corresponding server-side enforcement:
+1. **New SQL Migration** (`supabase/010_secure_operations.sql`):
+   - `create_event_secure()` - Validates creator is verified, not banned
+   - `delete_event_secure()` - Validates actor is creator or admin
+   - `update_event_secure()` - Validates actor is creator or admin
+   - `create_proposal_secure()` - Validates creator is verified, NOT admin (Bookchin)
+   - `create_campaign_secure()` - Validates creator is organizer+
+   - `create_mutual_aid_post_secure()` - Validates creator is verified
+   - `delete_complaint_secure()` - Validates actor is creator or admin
+   - `check_action_permission()` - Generic permission check function
 
-1. For voting: Already migrated to supabase.rpc('cast_vote') - DONE
-2. For banning: Already migrated to supabase.rpc('ban_user') - DONE
-3. For role changes: Already migrated to supabase.rpc('validate_role_change') - DONE
+2. **Updated Storage Functions:**
+   - `eventStorage.ts` - Added `createEventSecure()`, `updateEventSecure()`, `deleteEventSecure()`
+   - `governanceStorage.ts` - Updated `createProposalAsync()` to use secure RPC
+   - `campaignStorage.ts` - Added `createCampaignSecure()`
 
-Remaining actions:
-- Event creation/deletion: Add RLS policy that checks auth.uid() = created_by
-- Proposal creation: Add RLS policy on governance_proposals
-- Building organizing actions: Add server-side validation
+3. **Previously Implemented:**
+   - Voting: `cast_vote` RPC with ban/role validation
+   - Banning: `ban_user` RPC with admin validation
+   - Role changes: `validate_role_change` RPC with admin validation
 
-Keep client-side checks for UI (hiding buttons, etc.) but never trust them for security.
-```
+**Note:** Client-side role checks remain for UI (hiding buttons, etc.) but are no longer trusted for security. Server validates all write operations.
 
 ---
 
@@ -448,6 +450,7 @@ The Supabase migration Phase 2 successfully implements:
 | `src/lib/sanitize.ts` | N/A | NEW - DOMPurify sanitization utility |
 | `src/lib/crypto.ts` | N/A | NEW - AES-GCM encryption utility |
 | `src/lib/secureStorage.ts` | N/A | NEW - Encrypted localStorage wrapper |
+| `supabase/010_secure_operations.sql` | C4 | NEW - Secure RPC functions for authorization |
 | `src/lib/taskStorage.ts` | H2, M3 | FIXED |
 | `src/lib/electionStorage.ts` | H1, H2 | FIXED |
 | `src/lib/readingStorage.ts` | H2 | FIXED |

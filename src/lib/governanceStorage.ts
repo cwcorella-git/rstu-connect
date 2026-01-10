@@ -420,7 +420,8 @@ export async function getProposalVoteCountsAsync(proposalId: string): Promise<{
 }
 
 /**
- * Create proposal with server sync
+ * Create proposal with server-side validation (C4 fix)
+ * Uses secure RPC function to prevent client-side authorization bypass
  */
 export async function createProposalAsync(
   type: GovernanceProposalType,
@@ -432,6 +433,8 @@ export async function createProposalAsync(
     targetValue?: string
     targetApns?: string[]
     reason?: string
+    buildingId?: string
+    buildingAddress?: string
   } = {}
 ): Promise<{ success: boolean; error?: string; proposal?: GovernanceProposal }> {
   const profile = getCurrentProfile()
@@ -439,57 +442,88 @@ export async function createProposalAsync(
     return { success: false, error: 'Not logged in' }
   }
 
-  // Check permission
+  // Check rate limit first
+  const rateLimitResult = tryAction('proposal_create', profile.id)
+  if (!rateLimitResult.allowed) {
+    return { success: false, error: rateLimitResult.error || 'Rate limited' }
+  }
+
+  // If online and Supabase available, use server-side validation
+  if (USE_SUPABASE && supabase) {
+    try {
+      requireOnline('create proposals')
+
+      // Use secure RPC for server-side validation
+      const { data, error } = await supabase.rpc('create_proposal_secure', {
+        p_creator_id: profile.id,
+        p_building_id: options.buildingId || groupId,
+        p_building_address: sanitizeText(options.buildingAddress || ''),
+        p_title: sanitizeText(options.targetValue || type),
+        p_description: sanitizeRichText(options.reason || ''),
+        p_proposal_type: type,
+        p_group_id: groupId || null
+      })
+
+      if (error) {
+        console.error('[GovernanceStorage] Server error creating proposal:', error)
+        return { success: false, error: error.message }
+      }
+
+      if (data && !data.success) {
+        return { success: false, error: data.error }
+      }
+
+      // Create local cache copy with server-assigned ID
+      const now = Date.now()
+      const proposal: GovernanceProposal = {
+        id: data.proposal_id || `gov-${now}-${generateShortId()}`,
+        type,
+        groupId,
+        targetGroupId: options.targetGroupId,
+        targetApn: options.targetApn,
+        targetProfileId: options.targetProfileId,
+        targetValue: sanitizeText(options.targetValue),
+        targetApns: options.targetApns,
+        proposedBy: profile.id,
+        proposedByName: sanitizeText(profile.nickname),
+        reason: sanitizeRichText(options.reason || ''),
+        upvotes: [profile.id],
+        downvotes: [],
+        status: 'active',
+        createdAt: now,
+        expiresAt: now + PROPOSAL_EXPIRY_DAYS * 24 * 60 * 60 * 1000,
+      }
+
+      // Cache locally
+      const state = getState()
+      state.proposals.push(proposal)
+      saveState(state)
+
+      // Invalidate cache
+      invalidateCachePattern('proposals:*')
+
+      return { success: true, proposal }
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        // Fall through to offline handling
+        console.warn('[GovernanceStorage] Offline - cannot create proposal without server validation')
+        return { success: false, error: 'Cannot create proposals while offline' }
+      }
+      console.error('[GovernanceStorage] Failed to create proposal:', e)
+      return { success: false, error: 'Failed to create proposal' }
+    }
+  }
+
+  // No Supabase - check permission locally and create
+  // SECURITY WARNING: This path has no server-side validation
   const permission = await checkPermission('create:proposal')
   if (!permission.allowed) {
     return { success: false, error: permission.reason }
   }
 
-  // Create locally first
   const proposal = createProposal(type, groupId, options)
   if (!proposal) {
     return { success: false, error: 'Failed to create proposal (may be duplicate)' }
-  }
-
-  // Sync to Supabase if available
-  if (USE_SUPABASE && supabase) {
-    try {
-      requireOnline('create proposals')
-
-      const { error } = await supabase.from('governance_proposals').upsert({
-        id: proposal.id,
-        type: proposal.type,
-        group_id: proposal.groupId,
-        target_group_id: proposal.targetGroupId || null,
-        target_apn: proposal.targetApn || null,
-        target_profile_id: proposal.targetProfileId || null,
-        target_value: proposal.targetValue || null,
-        target_apns: proposal.targetApns || null,
-        proposed_by: proposal.proposedBy,
-        proposed_by_name: proposal.proposedByName,
-        reason: proposal.reason || null,
-        upvotes: proposal.upvotes,
-        downvotes: proposal.downvotes,
-        status: proposal.status,
-        partner_proposal_id: proposal.partnerProposalId || null,
-        partner_group_passed: proposal.partnerGroupPassed || false,
-        expires_at: new Date(proposal.expiresAt).toISOString(),
-        created_at: new Date(proposal.createdAt).toISOString(),
-      }, { onConflict: 'id' })
-
-      if (error) {
-        console.error('[GovernanceStorage] Failed to sync proposal to server:', error)
-        // Still return success since local worked
-      }
-
-      // Invalidate cache
-      invalidateCachePattern('proposals:*')
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        // Local creation succeeded, will sync later
-        console.warn('[GovernanceStorage] Created proposal offline, will sync later')
-      }
-    }
   }
 
   return { success: true, proposal }

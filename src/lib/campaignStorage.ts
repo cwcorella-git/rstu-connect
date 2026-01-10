@@ -4,9 +4,15 @@
  * Tracks building organizing campaigns from intelligence gathering
  * through resolution. Integrates with existing demands/complaints
  * from buildingOrganizingStorage.
+ *
+ * SECURITY: Campaign creation is validated server-side via Supabase RPC
+ * to prevent client-side authorization bypass (C4 fix).
  */
 
 import { sanitizeText, sanitizeRichText } from './sanitize'
+import { supabase, USE_SUPABASE } from './supabase'
+import { isOnline, requireOnline, OfflineError, checkPermission } from './authService'
+import { getCurrentProfile } from './profileStorage'
 
 // === TYPES ===
 
@@ -369,6 +375,90 @@ export function createCampaign(
   state.campaigns.push(campaign)
   saveCampaignState(state)
   return campaign
+}
+
+/**
+ * Create campaign with server-side validation (C4 fix)
+ * Uses secure RPC function to prevent client-side authorization bypass
+ */
+export async function createCampaignSecure(
+  data: Omit<Campaign, 'id' | 'created' | 'updated' | 'stageChanges' | 'notes'>
+): Promise<{ success: boolean; campaign?: Campaign; error?: string }> {
+  const profile = getCurrentProfile()
+  if (!profile) {
+    return { success: false, error: 'Not logged in' }
+  }
+
+  // If online and Supabase available, use server-side validation
+  if (USE_SUPABASE && supabase && isOnline()) {
+    try {
+      // Use secure RPC for server-side validation
+      const { data: rpcResult, error } = await supabase.rpc('create_campaign_secure', {
+        p_creator_id: profile.id,
+        p_name: sanitizeText(data.name),
+        p_building_ids: data.buildingChatSlugs,
+        p_building_addresses: [], // Could be populated if available
+        p_landlord_name: sanitizeText(data.landlordName),
+        p_start_date: data.startDate,
+        p_target_date: data.targetDate || null,
+        p_estimated_units: data.estimatedUnits || null
+      })
+
+      if (error) {
+        console.error('[CampaignStorage] Server error creating campaign:', error)
+        return { success: false, error: error.message }
+      }
+
+      if (rpcResult && !rpcResult.success) {
+        return { success: false, error: rpcResult.error }
+      }
+
+      // Create local cache copy with server-assigned ID
+      const now = Date.now()
+      const campaign: Campaign = {
+        ...data,
+        name: sanitizeText(data.name),
+        landlordName: sanitizeText(data.landlordName),
+        demands: data.demands.map(d => ({
+          ...d,
+          text: sanitizeText(d.text),
+          notes: d.notes ? sanitizeRichText(d.notes) : undefined,
+        })),
+        nextAction: data.nextAction ? sanitizeText(data.nextAction) : undefined,
+        nextActionAssignee: data.nextActionAssignee ? sanitizeText(data.nextActionAssignee) : undefined,
+        outcomeDetails: data.outcomeDetails ? sanitizeRichText(data.outcomeDetails) : undefined,
+        id: rpcResult.campaign_id || generateId(),
+        stageChanges: [{ stage: data.stage, date: data.startDate }],
+        notes: [],
+        createdBy: profile.id,
+        created: now,
+        updated: now,
+      }
+
+      // Cache locally
+      const state = getCampaignState()
+      state.campaigns.push(campaign)
+      saveCampaignState(state)
+
+      return { success: true, campaign }
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        return { success: false, error: 'Cannot create campaigns while offline' }
+      }
+      console.error('[CampaignStorage] Failed to create campaign:', e)
+      return { success: false, error: 'Failed to create campaign' }
+    }
+  }
+
+  // No Supabase - check permission locally
+  // SECURITY WARNING: This path has limited server-side validation
+  const permission = await checkPermission('create:campaign')
+  if (!permission.allowed) {
+    return { success: false, error: permission.reason }
+  }
+
+  const campaign = createCampaign(data)
+  return { success: true, campaign }
 }
 
 /**

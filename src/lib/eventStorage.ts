@@ -3,10 +3,15 @@
 /**
  * Event Storage - CRUD operations for building events
  * Uses localStorage with optional Supabase sync
+ *
+ * SECURITY: Write operations (create, update, delete) are validated server-side
+ * via Supabase RPC functions to prevent localStorage manipulation attacks.
  */
 
 import { sanitizeText, sanitizeRichText, sanitizeUrl } from './sanitize'
 import { tryAction } from './rateLimit'
+import { supabase, USE_SUPABASE } from './supabase'
+import { isOnline, requireOnline, OfflineError, checkPermission } from './authService'
 
 // Event types
 export type EventType = 'custom' | 'meeting' | 'committee' | 'workshop' | 'action' | 'intake' | 'social' | 'other'
@@ -247,18 +252,99 @@ export function unlinkEventFromCampaign(eventId: string): BuildingEvent | null {
   return event
 }
 
-// Create a new event
-export function createEvent(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>): BuildingEvent | null {
+// Create a new event (server-authoritative when online)
+export async function createEventSecure(
+  event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>
+): Promise<{ success: boolean; event?: BuildingEvent; error?: string }> {
+  // Check permission first (server-side)
+  const permission = await checkPermission('create:event')
+  if (!permission.allowed) {
+    return { success: false, error: permission.reason }
+  }
+
   // Check rate limit
   const rateLimitResult = tryAction('event_create', event.createdBy)
   if (!rateLimitResult.allowed) {
-    console.warn('[EventStorage] Rate limited:', rateLimitResult.error)
-    return null
+    return { success: false, error: rateLimitResult.error || 'Rate limited' }
   }
 
+  // If online and Supabase available, use server-side validation
+  if (USE_SUPABASE && supabase && isOnline()) {
+    try {
+      const { data, error } = await supabase.rpc('create_event_secure', {
+        p_creator_id: event.createdBy,
+        p_building_id: event.buildingId,
+        p_building_address: sanitizeText(event.buildingAddress),
+        p_title: sanitizeText(event.title),
+        p_description: event.description ? sanitizeRichText(event.description) : null,
+        p_event_type: event.eventType,
+        p_date_time: new Date(event.dateTime).toISOString(),
+        p_duration_minutes: event.durationMinutes || 60,
+        p_location_name: event.location.name ? sanitizeText(event.location.name) : null,
+        p_location_address: event.location.address ? sanitizeText(event.location.address) : null,
+        p_is_virtual: event.location.isVirtual || false,
+        p_virtual_link: event.location.virtualLink ? sanitizeUrl(event.location.virtualLink) : null,
+        p_group_id: event.groupId || null,
+        p_is_group_wide: event.isGroupWide || false,
+        p_vote_threshold: event.votes?.threshold || 3,
+        p_recurrence_type: event.recurrence?.type || 'none'
+      })
+
+      if (error) {
+        console.error('[EventStorage] Server error creating event:', error)
+        return { success: false, error: error.message }
+      }
+
+      if (data && !data.success) {
+        return { success: false, error: data.error }
+      }
+
+      // Create local cache copy
+      const newEvent: BuildingEvent = {
+        ...event,
+        title: sanitizeText(event.title),
+        description: event.description ? sanitizeRichText(event.description) : undefined,
+        createdByName: sanitizeText(event.createdByName),
+        location: {
+          ...event.location,
+          name: sanitizeText(event.location.name),
+          address: event.location.address ? sanitizeText(event.location.address) : undefined,
+          virtualLink: event.location.virtualLink ? sanitizeUrl(event.location.virtualLink) : undefined,
+        },
+        id: data.event_id,
+        createdAt: Date.now(),
+        rsvps: []
+      }
+
+      // Cache locally
+      const allEvents = getAllEvents()
+      allEvents.push(newEvent)
+      saveAllEvents(allEvents)
+
+      return { success: true, event: newEvent }
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        // Fall through to offline handling
+      } else {
+        console.error('[EventStorage] Failed to create event:', e)
+        return { success: false, error: 'Failed to create event' }
+      }
+    }
+  }
+
+  // Offline or no Supabase - use local storage only (less secure)
+  console.warn('[EventStorage] Creating event in offline mode - no server validation')
+  const localEvent = createEventLocal(event)
+  if (!localEvent) {
+    return { success: false, error: 'Failed to create event locally' }
+  }
+  return { success: true, event: localEvent }
+}
+
+// Create event locally (for offline mode or fallback)
+function createEventLocal(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>): BuildingEvent | null {
   const newEvent: BuildingEvent = {
     ...event,
-    // Sanitize user-provided text fields
     title: sanitizeText(event.title),
     description: event.description ? sanitizeRichText(event.description) : undefined,
     createdByName: sanitizeText(event.createdByName),
@@ -280,8 +366,72 @@ export function createEvent(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsv
   return newEvent
 }
 
-// Update an event
-export function updateEvent(eventId: string, updates: Partial<BuildingEvent>): BuildingEvent | null {
+// Legacy synchronous create (for backwards compatibility - uses local storage only)
+// SECURITY WARNING: This bypasses server-side validation. Use createEventSecure when possible.
+export function createEvent(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'>): BuildingEvent | null {
+  // Check rate limit
+  const rateLimitResult = tryAction('event_create', event.createdBy)
+  if (!rateLimitResult.allowed) {
+    console.warn('[EventStorage] Rate limited:', rateLimitResult.error)
+    return null
+  }
+
+  return createEventLocal(event)
+}
+
+// Update an event (server-authoritative when online)
+export async function updateEventSecure(
+  eventId: string,
+  actorId: string,
+  updates: Partial<BuildingEvent>
+): Promise<{ success: boolean; event?: BuildingEvent; error?: string }> {
+  // If online and Supabase available, use server-side validation
+  if (USE_SUPABASE && supabase && isOnline()) {
+    try {
+      const { data, error } = await supabase.rpc('update_event_secure', {
+        p_actor_id: actorId,
+        p_event_id: eventId,
+        p_title: updates.title ? sanitizeText(updates.title) : null,
+        p_description: updates.description ? sanitizeRichText(updates.description) : null,
+        p_status: updates.status || null,
+        p_date_time: updates.dateTime ? new Date(updates.dateTime).toISOString() : null,
+        p_location_name: updates.location?.name ? sanitizeText(updates.location.name) : null,
+        p_is_virtual: updates.location?.isVirtual ?? null,
+        p_virtual_link: updates.location?.virtualLink ? sanitizeUrl(updates.location.virtualLink) : null
+      })
+
+      if (error) {
+        console.error('[EventStorage] Server error updating event:', error)
+        return { success: false, error: error.message }
+      }
+
+      if (data && !data.success) {
+        return { success: false, error: data.error }
+      }
+
+      // Update local cache
+      const updatedEvent = updateEventLocal(eventId, updates)
+      return { success: true, event: updatedEvent || undefined }
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        return { success: false, error: 'Cannot update events while offline' }
+      }
+      console.error('[EventStorage] Failed to update event:', e)
+      return { success: false, error: 'Failed to update event' }
+    }
+  }
+
+  // Offline - update local only with warning
+  console.warn('[EventStorage] Updating event in offline mode - no server validation')
+  const updatedEvent = updateEventLocal(eventId, updates)
+  if (!updatedEvent) {
+    return { success: false, error: 'Event not found' }
+  }
+  return { success: true, event: updatedEvent }
+}
+
+// Update event locally
+function updateEventLocal(eventId: string, updates: Partial<BuildingEvent>): BuildingEvent | null {
   const allEvents = getAllEvents()
   const index = allEvents.findIndex(e => e.id === eventId)
 
@@ -293,8 +443,51 @@ export function updateEvent(eventId: string, updates: Partial<BuildingEvent>): B
   return allEvents[index]
 }
 
-// Delete an event
-export function deleteEvent(eventId: string): boolean {
+// Legacy synchronous update (for backwards compatibility)
+export function updateEvent(eventId: string, updates: Partial<BuildingEvent>): BuildingEvent | null {
+  return updateEventLocal(eventId, updates)
+}
+
+// Delete an event (server-authoritative when online)
+export async function deleteEventSecure(
+  eventId: string,
+  actorId: string
+): Promise<{ success: boolean; error?: string }> {
+  // If online and Supabase available, use server-side validation
+  if (USE_SUPABASE && supabase && isOnline()) {
+    try {
+      const { data, error } = await supabase.rpc('delete_event_secure', {
+        p_actor_id: actorId,
+        p_event_id: eventId
+      })
+
+      if (error) {
+        console.error('[EventStorage] Server error deleting event:', error)
+        return { success: false, error: error.message }
+      }
+
+      if (data && !data.success) {
+        return { success: false, error: data.error }
+      }
+
+      // Remove from local cache
+      deleteEventLocal(eventId)
+      return { success: true }
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        return { success: false, error: 'Cannot delete events while offline' }
+      }
+      console.error('[EventStorage] Failed to delete event:', e)
+      return { success: false, error: 'Failed to delete event' }
+    }
+  }
+
+  // Offline - cannot delete without server validation
+  return { success: false, error: 'Cannot delete events while offline' }
+}
+
+// Delete event locally
+function deleteEventLocal(eventId: string): boolean {
   const allEvents = getAllEvents()
   const index = allEvents.findIndex(e => e.id === eventId)
 
@@ -304,6 +497,11 @@ export function deleteEvent(eventId: string): boolean {
   saveAllEvents(allEvents)
 
   return true
+}
+
+// Legacy synchronous delete (for backwards compatibility - local only)
+export function deleteEvent(eventId: string): boolean {
+  return deleteEventLocal(eventId)
 }
 
 // RSVP to an event
