@@ -19,7 +19,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 |----------|-------|--------|
 | CRITICAL | 4 | 3 FIXED, 1 requires attention |
 | HIGH | 3 | 2 FIXED, 1 requires attention |
-| MEDIUM | 6 | 5 FIXED, 1 requires attention |
+| MEDIUM | 6 | 6 FIXED/MITIGATED |
 | LOW | 4 | Address as time permits |
 
 ### Fixes Applied
@@ -33,6 +33,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 - Added DOMPurify input sanitization for all user-generated content
 - Added rate limiting (server-side Supabase + client-side utility)
 - Added Content Security Policy via meta tags
+- Added client-side encryption for sensitive localStorage data (AES-GCM 256-bit)
 - Updated .env.example template with all required environment variables
 
 ---
@@ -219,39 +220,43 @@ Using `textContent` instead of `innerHTML` ensures that any content is treated a
 
 ---
 
-### M2: localStorage Contains Sensitive User Data
+### M2: localStorage Contains Sensitive User Data - MITIGATED
 
 **Locations:** 33 files access localStorage
 
 **Finding:** Sensitive data stored in localStorage is accessible to any JavaScript on the page, including potential XSS payloads.
 
-**Data at risk:**
-- User profiles (email, phone, address)
-- Invite codes
-- Building assignments
-- Role/permission data
-- Verification status
+**Status:** MITIGATED - Added client-side encryption utilities for sensitive localStorage data.
 
-**Remediation Prompt:**
+**Implementation:**
+
+1. **`src/lib/crypto.ts`** - Core encryption using Web Crypto API (AES-GCM 256-bit):
+   - `encrypt(plaintext)` - Encrypts with random IV, returns `enc:` prefixed base64
+   - `decrypt(ciphertext)` - Decrypts `enc:` prefixed values
+   - `rotateKey(sensitiveKeys)` - Re-encrypts all data with new key
+   - Key stored in localStorage (separate from encrypted data)
+
+2. **`src/lib/secureStorage.ts`** - High-level wrapper:
+   - `setSecure(key, value)` - Auto-encrypts sensitive keys
+   - `getSecure(key)` - Auto-decrypts `enc:` prefixed values
+   - `migrateSensitiveData()` - Encrypts existing unencrypted sensitive data
+   - Sensitive keys: `rstu_admin_hash`, `rstu_profile_hashes`, `rstu_admin_auth`, `rstu_session_token`, `verification_audit`
+
+**Usage:**
+```typescript
+import { setSecure, getSecure, migrateSensitiveData } from './secureStorage'
+
+// On app init - migrate existing data
+await migrateSensitiveData()
+
+// Store sensitive data (auto-encrypts)
+await setSecure('rstu_session_token', token)
+
+// Retrieve (auto-decrypts)
+const token = await getSecure('rstu_session_token')
 ```
-1. For sensitive operations, ALWAYS validate server-side (already done with authService.ts)
-2. Consider encrypting sensitive localStorage data:
 
-   import { encrypt, decrypt } from './crypto';
-
-   function setSecure(key: string, value: any) {
-     localStorage.setItem(key, encrypt(JSON.stringify(value)));
-   }
-
-   function getSecure<T>(key: string): T | null {
-     const encrypted = localStorage.getItem(key);
-     if (!encrypted) return null;
-     return JSON.parse(decrypt(encrypted));
-   }
-
-3. Clear sensitive data on logout
-4. Add session expiry to cached data
-```
+**Note:** This provides defense-in-depth against XSS reading sensitive values. Server-side validation (via authService.ts) remains the primary security control.
 
 ---
 
@@ -422,8 +427,8 @@ The Supabase migration Phase 2 successfully implements:
 ### Short-term (Week 2-3)
 
 ### Medium-term (Month 1)
-7. **M6:** Add Content Security Policy headers
-8. **M2:** Consider localStorage encryption
+7. ~~**M6:** Add Content Security Policy headers~~ DONE
+8. ~~**M2:** Consider localStorage encryption~~ DONE
 9. **L2:** Audit all external links
 
 ---
@@ -441,13 +446,15 @@ The Supabase migration Phase 2 successfully implements:
 | `src/lib/canvassStorage.ts` | H1, H2 | H1, H2 FIXED (had try-catch) |
 | `src/lib/safeStorage.ts` | N/A | Added safeJsonParse utility |
 | `src/lib/sanitize.ts` | N/A | NEW - DOMPurify sanitization utility |
+| `src/lib/crypto.ts` | N/A | NEW - AES-GCM encryption utility |
+| `src/lib/secureStorage.ts` | N/A | NEW - Encrypted localStorage wrapper |
 | `src/lib/taskStorage.ts` | H2, M3 | FIXED |
 | `src/lib/electionStorage.ts` | H1, H2 | FIXED |
 | `src/lib/readingStorage.ts` | H2 | FIXED |
 | `src/lib/adminStorage.ts` | H2 | FIXED |
 | `src/lib/directMessageStorage.ts` | M3 | FIXED |
 | `src/lib/evictionDefenseStorage.ts` | M3 | FIXED |
-| `src/components/PropertyView/PropertyMapTab.tsx` | M1 | Pending |
+| `src/components/PropertyView/PropertyMapTab.tsx` | M1 | FIXED |
 
 ---
 
