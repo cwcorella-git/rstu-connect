@@ -19,8 +19,8 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 |----------|-------|--------|
 | CRITICAL | 4 | **4 FIXED** |
 | HIGH | 3 | **3 FIXED/MITIGATED** |
-| MEDIUM | 6 | 6 FIXED/MITIGATED |
-| LOW | 4 | Address as time permits |
+| MEDIUM | 6 | **6 FIXED/MITIGATED** |
+| LOW | 4 | **4 FIXED/VERIFIED** |
 
 ### Fixes Applied
 - Removed hardcoded Supabase credentials from scripts
@@ -36,6 +36,7 @@ The recent Supabase migration (Phase 2) significantly improved security by movin
 - Added client-side encryption for sensitive localStorage data (AES-GCM 256-bit)
 - Added server-side authorization via secure RPC functions (events, proposals, campaigns)
 - Added CSRF protection utility with Origin validation and token management
+- Added production-safe logger with error sanitization
 - Updated .env.example template with all required environment variables
 
 ---
@@ -374,33 +375,82 @@ const token = await getSecure('rstu_session_token')
 
 ## LOW Vulnerabilities
 
-### L1: Verbose Error Messages
+### L1: Verbose Error Messages - MITIGATED
 
 **Finding:** Some error handlers expose internal details that could aid attackers.
 
-**Remediation:** Log detailed errors server-side, show generic messages to users.
+**Status:** MITIGATED - Created production-safe logger utility.
+
+**Implementation (`src/lib/logger.ts`):**
+- `logError()` - Sanitizes error messages in production, full details in development
+- `logWarn()` / `logInfo()` / `logDebug()` - Level-appropriate logging
+- `sanitizeError()` - Strips stack traces, file paths, and sensitive patterns
+- `getUserFriendlyError()` - Returns safe user-facing error messages
+- `handleError()` - Combines logging with user-friendly message return
+- `createLogger(category)` - Creates category-specific loggers
+
+**Sensitive patterns removed in production:**
+- Home directory paths (`/home/user/`, `/Users/`, `C:\Users\`)
+- Stack trace lines
+- Node modules and build paths
+- Internal URLs
+
+**Usage:**
+```typescript
+import { logError, handleError, StorageLogger } from './logger'
+
+// Log with sanitization
+logError('Failed to save', error, { category: 'Storage' })
+
+// Log and get user-friendly message
+const userMessage = handleError('Save failed', error, { errorType: 'storage' })
+// Returns: "Unable to save data. Please try again."
+```
 
 ---
 
-### L2: Missing Referrer Policy
+### L2: Missing Referrer Policy - VERIFIED OK
 
 **Finding:** External links don't consistently use `rel="noopener noreferrer"`.
 
-**Status:** Some links are correct (e.g., `codeEnforcementIntegration.ts:127`), but not all.
+**Status:** VERIFIED - All `target="_blank"` links already have `rel="noopener noreferrer"`.
+
+**Verification:**
+- `EditModeIndicator.tsx:80-81` - GitHub token link has rel
+- `Footer.tsx:21-22` - Google Forms link has rel
+- `HamburgerMenu.tsx:154-155` - Main site link has rel
+- `PropertyInfoTab.tsx:620-621` - Washoe County link has rel
+- `BuildingMetadata.tsx:247-248` - Washoe County link has rel
+
+Links without `target="_blank"` (same-tab navigation) don't need `rel` attribute.
 
 ---
 
-### L3: Development Dependencies in Production
+### L3: Development Dependencies in Production - VERIFIED OK
 
 **Finding:** Build includes development-only code paths.
 
-**Remediation:** Ensure `process.env.NODE_ENV` checks are consistent.
+**Status:** VERIFIED - NODE_ENV checks are properly implemented.
+
+**Verification:**
+- `ErrorBoundary.tsx:45` - Dev error details gated by `NODE_ENV === 'development'`
+- `loadAllProperties.ts:150,158` - Debug logging gated by development check
+- All `basePath` calculations use production check correctly
+
+No development-only code or debug information leaks to production build.
 
 ---
 
-### L4: Deprecated URL Handling Functions
+### L4: Deprecated URL Handling Functions - NOT A VULNERABILITY
 
-**Locations:** 5 files use `encodeURIComponent`/`decodeURIComponent`
+**Finding:** 5 files use `encodeURIComponent`/`decodeURIComponent`
+
+**Status:** NOT A VULNERABILITY - These are the standard JavaScript URL encoding functions.
+
+**Clarification:**
+- `encodeURIComponent()` and `decodeURIComponent()` are the correct, modern way to handle URL encoding
+- They are NOT deprecated - they are the recommended approach
+- Used correctly throughout the codebase for URL parameter encoding
 
 **Finding:** These are fine, but verify proper encoding at system boundaries.
 
@@ -463,6 +513,7 @@ The Supabase migration Phase 2 successfully implements:
 | `src/lib/secureStorage.ts` | N/A | NEW - Encrypted localStorage wrapper |
 | `supabase/010_secure_operations.sql` | C4 | NEW - Secure RPC functions for authorization |
 | `src/lib/csrf.ts` | H3 | NEW - CSRF protection utility |
+| `src/lib/logger.ts` | L1 | NEW - Production-safe logging utility |
 | `src/lib/taskStorage.ts` | H2, M3 | FIXED |
 | `src/lib/electionStorage.ts` | H1, H2 | FIXED |
 | `src/lib/readingStorage.ts` | H2 | FIXED |
