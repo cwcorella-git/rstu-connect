@@ -271,8 +271,8 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
             )}
           </div>
 
-          {/* Building info */}
-          {profile.buildingAddress && (
+          {/* Building info - only visible to organizers/admins or for own profile */}
+          {profile.buildingAddress && (isCurrentUser || canAccessTools()) && (
             <p className="text-sm text-gray-600 mt-0.5 truncate">
               {profile.unitNumber && `Unit ${profile.unitNumber}, `}
               {profile.buildingAddress}

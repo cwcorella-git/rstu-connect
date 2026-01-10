@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useEffect } from 'react';
 import dynamic from 'next/dynamic';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { PropertyHeader } from './PropertyHeader';
@@ -9,6 +9,8 @@ import { PropertyChatTab } from './PropertyChatTab';
 import { InfoSlideout } from './InfoSlideout';
 import { MapPlaceholder } from './MapPlaceholder';
 import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
+import { EscalationTracker, EscalationDetail, EscalationForm } from '@/components/Escalation';
+import { type EscalationCase, getActiveCases, getCaseById } from '@/lib/escalationStorage';
 
 // Lazy load map to reduce initial bundle size (~300KB)
 const PropertyMapTab = dynamic(
@@ -45,6 +47,22 @@ interface PropertyViewTabsProps {
 export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection, showBackButton, onBack }: PropertyViewTabsProps) {
   const [activeTab, setActiveTab] = useState<PropertyTab>('chat');
   const [showInfoSlideout, setShowInfoSlideout] = useState(false);
+
+  // Escalation state
+  const [selectedCase, setSelectedCase] = useState<EscalationCase | null>(null);
+  const [showNewIssueForm, setShowNewIssueForm] = useState(false);
+  const [activeIssueCount, setActiveIssueCount] = useState(0);
+
+  // Load active issue count
+  const loadIssueCount = useCallback(() => {
+    const chatSlugId = building.chatSlug;
+    const cases = getActiveCases(chatSlugId);
+    setActiveIssueCount(cases.length);
+  }, [building.chatSlug]);
+
+  useEffect(() => {
+    loadIssueCount();
+  }, [loadIssueCount, building.chatSlug]);
 
   // Check if this building is in a linked group
   const linkedGroup = useMemo(() => getGroupForApn(building.apn), [building.apn]);
@@ -105,7 +123,7 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
       />
 
       {/* Tab Bar */}
-      <PropertyTabBar activeTab={activeTab} onTabChange={setActiveTab} />
+      <PropertyTabBar activeTab={activeTab} onTabChange={setActiveTab} issueCount={activeIssueCount} />
 
       {/* Tab Content */}
       <div className="flex-1 overflow-hidden">
@@ -133,7 +151,47 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             linkedGroup={linkedGroup || null}
           />
         )}
+        {activeTab === 'issues' && (
+          <div className="h-full overflow-y-auto p-4">
+            {selectedCase ? (
+              <EscalationDetail
+                caseData={selectedCase}
+                onBack={() => setSelectedCase(null)}
+                onUpdate={() => {
+                  // Refresh the case data
+                  const updated = getCaseById(selectedCase.id);
+                  if (updated) {
+                    setSelectedCase(updated);
+                  } else {
+                    setSelectedCase(null);
+                  }
+                  loadIssueCount();
+                }}
+              />
+            ) : (
+              <EscalationTracker
+                buildingId={chatSlug}
+                buildingAddress={isLinkedChat ? linkedGroup!.name : building.address}
+                onSelectCase={(c) => setSelectedCase(c)}
+                onCreateNew={() => setShowNewIssueForm(true)}
+              />
+            )}
+          </div>
+        )}
       </div>
+
+      {/* New Issue Form Modal */}
+      {showNewIssueForm && (
+        <EscalationForm
+          buildingId={chatSlug}
+          buildingAddress={isLinkedChat ? linkedGroup!.name : building.address}
+          onSuccess={() => {
+            setShowNewIssueForm(false);
+            loadIssueCount();
+          }}
+          onCancel={() => setShowNewIssueForm(false)}
+        />
+      )}
 
       {/* Info Slideout - opens when clicking header */}
       <InfoSlideout

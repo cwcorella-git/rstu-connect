@@ -1,6 +1,29 @@
 // jest.setup.js
 import '@testing-library/jest-dom'
 
+// Mock Supabase client
+const mockSupabaseClient = {
+  from: jest.fn(() => ({
+    select: jest.fn().mockReturnThis(),
+    eq: jest.fn().mockReturnThis(),
+    is: jest.fn().mockReturnThis(),
+    or: jest.fn().mockReturnThis(),
+    limit: jest.fn().mockReturnThis(),
+    single: jest.fn().mockResolvedValue({ data: null, error: null }),
+    insert: jest.fn().mockResolvedValue({ data: null, error: null }),
+    update: jest.fn().mockResolvedValue({ data: null, error: null }),
+    upsert: jest.fn().mockResolvedValue({ data: null, error: null }),
+  })),
+  rpc: jest.fn().mockResolvedValue({ data: null, error: null }),
+}
+
+jest.mock('@supabase/supabase-js', () => ({
+  createClient: jest.fn(() => mockSupabaseClient),
+}))
+
+// Export for test access
+global.__mockSupabaseClient = mockSupabaseClient
+
 // Mock window.matchMedia (required for some components)
 Object.defineProperty(window, 'matchMedia', {
   writable: true,

@@ -35,7 +35,7 @@ const cspContent = [
   // Fonts
   "font-src 'self' data:",
   // Connections: Supabase, chat server, and WebSocket
-  "connect-src 'self' https://*.supabase.co wss://*.supabase.co https://rstu-chat-server.onrender.com wss://rstu-chat-server.onrender.com https://rstu-gun-relay.onrender.com wss://rstu-gun-relay.onrender.com",
+  "connect-src 'self' https://*.supabase.co wss://*.supabase.co https://rstu-chat-server.onrender.com wss://rstu-chat-server.onrender.com https://rstu-gun-relay.onrender.com wss://rstu-gun-relay.onrender.com https://tiles.openfreemap.org",
   // Media
   "media-src 'self'",
   // Object/embed (disable for security)

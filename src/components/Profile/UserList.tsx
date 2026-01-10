@@ -186,6 +186,8 @@ export function UserList() {
               canChangeRole={canChangeRoles}
               onChangeRole={handleRoleChange}
               isCurrentUser={profile.id === currentProfile?.id}
+              onDeleteSuccess={refresh}
+              onVerifySuccess={refresh}
             />
           ))}
         </div>
