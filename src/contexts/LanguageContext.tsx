@@ -523,6 +523,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'userList.tryAgain': 'Try again',
     'userList.noMatches': 'No users match your filters',
     'userList.noUsers': 'No users registered yet',
+    'userList.showBanned': 'Show banned',
 
     // Invite System
     'invites.title': 'Invite Codes',
@@ -1540,6 +1541,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'userList.tryAgain': 'Intenta de nuevo',
     'userList.noMatches': 'No hay usuarios que coincidan con tus filtros',
     'userList.noUsers': 'No hay usuarios registrados aun',
+    'userList.showBanned': 'Mostrar prohibidos',
 
     // Invite System
     'invites.title': 'Codigos de Invitacion',
@@ -2881,6 +2883,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'userList.tryAgain': 'Subukan muli',
     'userList.noMatches': 'Walang user na tumutugma sa iyong mga filter',
     'userList.noUsers': 'Walang user na nag-register pa',
+    'userList.showBanned': 'Ipakita ang mga na-ban',
 
     // Invite Manager
     'invites.title': 'Mga Invite Code',
@@ -3984,6 +3987,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'userList.tryAgain': '重试',
     'userList.noMatches': '没有用户符合您的筛选条件',
     'userList.noUsers': '还没有注册用户',
+    'userList.showBanned': '显示被禁用户',
 
     // Invite Manager
     'invites.title': '邀请代码',
@@ -5174,6 +5178,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'userList.tryAgain': 'Thử lại',
     'userList.noMatches': 'Không có người dùng nào phù hợp với bộ lọc',
     'userList.noUsers': 'Chưa có người dùng nào đăng ký',
+    'userList.showBanned': 'Hiển thị đã bị cấm',
 
     // Invite System
     'invites.title': 'Mã mời',

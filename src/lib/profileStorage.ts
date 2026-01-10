@@ -1476,15 +1476,21 @@ async function syncVerificationToSupabase(userId: string, verifiedBy: string): P
  * Returns true if verification succeeded (localStorage + Supabase)
  */
 export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: string): Promise<boolean> {
-  // First, verify locally (synchronous)
-  const success = verifyProfile(userId, verifiedBy)
+  const currentUser = getCurrentProfile()
 
-  if (!success) return false
+  // Only organizers and admins can verify
+  if (!currentUser || (currentUser.role !== 'organizer' && currentUser.role !== 'admin')) {
+    console.error('[VerifyProfile] Only organizers/admins can verify users')
+    return false
+  }
 
-  // Then wait for Supabase sync to complete
+  // Try local verification first (will work if profile is in localStorage)
+  const localSuccess = verifyProfile(userId, verifiedBy)
+
+  // Update Supabase regardless of local result (profile may only exist in Supabase)
   if (USE_SUPABASE && supabase) {
     try {
-      await supabase
+      const { error } = await supabase
         .from('profiles')
         .update({
           trust_level: 'verified',
@@ -1493,12 +1499,20 @@ export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: str
         })
         .eq('id', userId)
 
-    } catch {
-      // Still return true since local verification succeeded
+      if (error) {
+        console.error('[VerifyProfile] Supabase update failed:', error.message)
+        return localSuccess // Return local result if Supabase fails
+      }
+
+      console.log('[VerifyProfile] Successfully verified profile:', userId)
+      return true
+    } catch (err) {
+      console.error('[VerifyProfile] Supabase error:', err)
+      return localSuccess
     }
   }
 
-  return true
+  return localSuccess
 }
 
 /**
