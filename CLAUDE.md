@@ -19,9 +19,9 @@ npm run deploy       # Build + run deploy.sh (legacy local deploy)
 npm run lint         # Run Next.js linter
 ```
 
-**Automatic deployment:** Push to `main` triggers GitHub Actions → builds → deploys to GitHub Pages.
+**Automatic deployment:** Push to `main` triggers GitHub Actions -> builds -> deploys to GitHub Pages.
 
-⚠️ **CRITICAL: After committing changes, ALWAYS PUSH with `git push origin main`** - Commits without push don't trigger deployment.
+**CRITICAL: After committing changes, ALWAYS PUSH with `git push origin main`** - Commits without push don't trigger deployment.
 
 **Prebuild scripts (run automatically by `npm run build`):**
 1. `python3 scripts/export-all-properties.py` - Exports property data to JSON
@@ -34,30 +34,31 @@ npm run lint         # Run Next.js linter
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS (RSTU red: `#cc0000`)
 - **Base Path:** `/rstu-connect` (configured in `next.config.js`)
+- **i18n:** Custom LanguageContext with 5 locales (EN, ES, TL, ZH, VI)
 
 ### Main Tabs (in `src/app/page.tsx`)
 1. **Home (Organize):** Building directory (16,000+ rental properties) with tabbed property view:
-   - **Chat:** Real-time messaging, governance proposals, meeting coordination
+   - **Chat:** Real-time Socket.io messaging, governance proposals, meeting coordination
    - **Events:** Calendar with RSVP, event types (meeting, action, workshop, etc.)
-   - **Map:** 3D property visualization with neighboring buildings
-2. **Reading:** Document library (~900 organizing resources) with markdown viewer
+   - **Map:** 3D Mapbox visualization with neighboring buildings
+2. **Reading:** Document library (~2,900 organizing resources) with markdown viewer
 3. **Mutual Aid:** Needs/offers, skills directory, resource library, **Blocks** (linked property groups with governance)
 4. **Tools:** Unit tracker, canvassing, power map, campaigns, users
-5. **Profile:** User profiles, rent comparison, lease tracker
+5. **Profile:** User profiles, rent comparison, onboarding wizard
 
 ### Key Data Flows
 
 **Property Data:**
 ```
 data/databases/main_properties.db (192,463 Washoe County properties)
-  → scripts/export-all-properties.py (filters to ~16k rentals, prebuild)
-  → public/data/all-properties.json (compressed, ~3.6 MB)
-  → src/lib/loadAllProperties.ts (expands to EnhancedBuilding[])
-  → page.tsx renders BuildingList + PropertyViewTabs
+  -> scripts/export-all-properties.py (filters to ~16k rentals, prebuild)
+  -> public/data/all-properties.json (compressed, ~3.6 MB)
+  -> src/lib/loadAllProperties.ts (expands to EnhancedBuilding[])
+  -> page.tsx renders BuildingList + PropertyViewTabs
 
 Supabase (optional, for FTS):
-  → scripts/load-all-data-to-supabase.js (properties + intelligence data)
-  → src/lib/supabase.ts (search, evictions, landlord scores)
+  -> scripts/load-all-data-to-supabase.js (properties + intelligence data)
+  -> src/lib/supabase.ts (search, evictions, landlord scores)
 ```
 
 **Intelligence Databases (local SQLite):**
@@ -70,10 +71,10 @@ data/databases/
 
 **Reading Library:**
 ```
-docs/ (~850 markdown files with YAML frontmatter)
-  → scripts/generate-reading-manifest.js (prebuild)
-  → src/data/reading-manifest.json
-  → ReadingList + ReadingContent components
+docs/ (~2,900 markdown files with YAML frontmatter)
+  -> scripts/generate-reading-manifest.js (prebuild)
+  -> src/data/reading-manifest.json
+  -> ReadingList + ReadingContent components
 ```
 
 ### Component Structure
@@ -84,17 +85,22 @@ src/
 │   ├── page.tsx          # Main page with tab routing (home/reading/tools/profile)
 │   └── layout.tsx        # Root layout with header
 ├── components/
-│   ├── BuildingList.tsx  # Property search/filter sidebar
-│   ├── BuildingCard.tsx  # Individual property card
+│   ├── BuildingList.tsx  # Property search/filter sidebar (13 sorts, 9 filters)
+│   ├── BuildingCard.tsx  # Property card with badges (status, type, management, progress)
 │   ├── PropertyView/     # Tabbed property view (Chat, Events, Map tabs)
 │   ├── Events/           # Calendar, event cards, event creator
-│   ├── GunChat/          # Chat UI (MessageList, MessageInput)
+│   ├── SocketChat/       # Chat UI components (MessageList, MessageInput, TypingIndicator)
 │   ├── Reading/          # Document library components
 │   ├── MutualAid/        # Needs, offers, skills, library, Blocks
-│   ├── Tools/            # Organizer tools (UnitTracker, PowerMap, etc.)
-│   └── Profile/          # User profile management
+│   ├── Tools/            # Organizer tools (UnitTracker, PowerMap, Canvassing, etc.)
+│   ├── Profile/          # User profile management, onboarding wizard
+│   ├── Footer.tsx        # Translated footer component
+│   └── HamburgerMenu.tsx # Mobile navigation with translations
 ├── contexts/
-│   └── TabContext.tsx    # Global tab state
+│   ├── LanguageContext.tsx  # i18n with 5 locales, 938+ keys each
+│   └── TabContext.tsx       # Global tab state
+├── hooks/
+│   └── useSocketChat.ts     # Socket.io chat hook
 └── lib/
     ├── getBuildingsData.ts         # EnhancedBuilding interface
     ├── loadAllProperties.ts        # Loads compressed property JSON
@@ -102,9 +108,10 @@ src/
     ├── eventStorage.ts             # Building/block events, RSVPs, calendar
     ├── governanceStorage.ts        # Proposals, voting, Bookchin principle
     ├── linkedPropertiesStorage.ts  # Property groups (Blocks), alliances
-    ├── canvassStorage.ts           # Unit-level tenant outreach
+    ├── canvassStorage.ts           # Unit-level tenant outreach, habitability scores
     ├── campaignStorage.ts          # Organizing campaigns & progress
     ├── mutualAidStorage.ts         # Needs/offers, skills, resource library
+    ├── socketio.ts                 # Socket.io client configuration
     └── supabase.ts                 # Cloud sync, user storage, FTS
 ```
 
@@ -127,9 +134,14 @@ interface EnhancedBuilding {
   lat: number | null;
   lon: number | null;
   chatSlug: string;
-  // Intelligence fields (from Supabase)
+  propertyType?: string;           // mc, mi, mt, sc, st (multi/single + corp/indiv/trust)
+  managementCompanyId?: string;    // Detected management company
+  portfolioId?: string;            // Property portfolio grouping
+  // Intelligence fields
   evictionCount?: number;
-  organizingPriority?: number;  // 0-10 scale
+  evictionsPer100Units?: number;
+  totalViolations?: number;
+  organizingPriority?: number;     // 0-10 scale
   organizingStatus?: 'active' | 'emerging' | 'inactive';
   isCorporateOwned?: boolean;
   portfolioSize?: number;
@@ -148,6 +160,31 @@ interface ReadingDocument {
 }
 ```
 
+## Internationalization (i18n)
+
+**Location:** `src/contexts/LanguageContext.tsx`
+
+**Supported Locales:**
+- `en` - English (default, 938 keys)
+- `es` - Spanish (100% coverage)
+- `tl` - Tagalog (100% coverage)
+- `zh` - Chinese (100% coverage)
+- `vi` - Vietnamese (100% coverage)
+
+**Usage:**
+```typescript
+import { useLanguage } from '@/contexts/LanguageContext'
+
+function MyComponent() {
+  const { t, locale, setLocale } = useLanguage()
+  return <span>{t('nav.home')}</span>
+}
+```
+
+**Translation key structure:** `category.subcategory` (e.g., `buildings.active`, `tools.unitTracker`)
+
+**Check coverage:** `node scripts/find-missing-translations.js`
+
 ## Chat System
 
 **Current:** Socket.io server at `rstu-chat-server.onrender.com`
@@ -155,10 +192,34 @@ interface ReadingDocument {
 - Building-specific chat rooms via `chatSlug`
 - `src/lib/socketio.ts` - Socket.io client
 - `src/hooks/useSocketChat.ts` - Chat hook for components
+- `src/components/SocketChat/` - UI components (MessageList, MessageInput, TypingIndicator)
 
-**Chat slug convention:** Generated from address, e.g., "2500 E 2ND ST" → `rstu-2500-e-2nd-st`
+**Chat slug convention:** Generated from address, e.g., "2500 E 2ND ST" -> `rstu-2500-e-2nd-st`
 
-**Legacy naming:** `src/components/GunChat/` contains UI components (MessageList, MessageInput) - the name is historical, they use Socket.io data via props.
+**Legacy naming:** `src/components/GunChat/` may still exist - historical name, components use Socket.io.
+
+## Property Cards & Badges
+
+**BuildingCard.tsx** displays property info with dynamic badges:
+
+1. **Organizing Status:** Active (green), Emerging (yellow) - based on effective priority score
+2. **Property Type:** Multi (Corp/Indiv/Trust), SFR (Corp/Trust) - color-coded
+3. **Management Company:** Purple badge with detected company name
+4. **Portfolio:** Orange badge if part of multi-property portfolio
+5. **Organizing Progress:** Emerald badge showing active members and contacted/total units
+
+**Sorting options (13):** Units, Priority, Habitability, Evictions, Violations, Year Built, Portfolio Size, Value, Value/Unit, Address, Owner
+
+**Filter options (9):** All, Corporate-Owned, Individual-Owned, Trust-Owned, Active Organizing, Emerging, Has Violations, High Evictions, Favorites
+
+## Canvassing & Unit Tracker
+
+**Location:** `src/lib/canvassStorage.ts`
+
+Key functions:
+- `getEffectiveOrganizingPriority()` - Boosts priority for poor habitability
+- `getTenantSafeProgress()` - Returns active members and contacted counts for badges
+- `getHabitabilityScore()` - Calculates 0-100 score from unit conditions
 
 ## Property Database
 
@@ -166,7 +227,7 @@ SQLite database at `data/databases/main_properties.db` (398MB, 192,463 propertie
 
 ```bash
 sqlite3 data/databases/main_properties.db
-# .tables → parcels
+# .tables -> parcels
 # .schema parcels
 # SELECT COUNT(*) FROM parcels;
 ```

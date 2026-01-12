@@ -1,6 +1,7 @@
 # RSTU Connect - Reno-Sparks Tenants Union Organizing Platform
 
-**Live Site:** https://rstu-connect.neocities.org
+**Live Site:** https://rstu-connect.neocities.org (via GitHub Pages)
+**GitHub Pages:** https://cwcorella-git.github.io/rstu-connect/
 **Main Organization:** https://renosparkstenantsunion.org
 
 This repository contains the web platform for the Reno-Sparks Tenants Union (RSTU), Nevada's first tenants union.
@@ -12,82 +13,111 @@ This repository contains the web platform for the Reno-Sparks Tenants Union (RST
 ## Features
 
 ### 🏢 Organize Tab
-- **Building Directory:** Searchable list of 15 largest apartment complexes in Reno-Sparks
-- **Building Chat Rooms:** Anonymous, no-login chat via Tlk.io for tenant coordination
-- **Property Information:** Owner, units, assessed value, year built, square footage
-- **Resizable Panels:** Customize your view with adjustable sidebar width
+- **Building Directory:** 16,000+ searchable rental properties in Washoe County
+- **Property Cards:** Owner info, units, value, organizing status, management company badges
+- **Building Chat Rooms:** Real-time Socket.io chat for tenant coordination
+- **Events Calendar:** RSVP-enabled events (meetings, actions, workshops, socials)
+- **3D Property Map:** Interactive Mapbox visualization with neighboring buildings
+- **Sorting & Filtering:** 13 sort options, 9 filter presets (corporate-owned, violations, evictions, etc.)
+- **Organizing Progress:** Unit tracker badges showing tenant outreach status
 
-### 📚 Reading Library (1,738 Documents)
+### 📚 Reading Library (~2,900 Documents)
 - **Comprehensive Collection:** Tenant organizing guides, labor union resources, political theory
-- **12 Categories:** Classic theory, contemporary analysis, historical movements, housing/rent, labor unions, organizing action, police enforcement, property/landlords, strikes, and more
+- **20 Categories:** Classic theory, contemporary analysis, housing/rent, labor unions, organizing action, and more
 - **Search & Filter:** Full-text search across titles and excerpts
 - **Reading Progress:** Automatic bookmark and scroll position saving
 - **Favorites:** Star documents to keep them at the top
-- **Share Documents:** Copy links to specific documents
+- **Admin Panel:** Edit titles, hide/show documents (Ctrl+Shift+A)
 
-### 🔒 Admin Panel (Ctrl+Shift+A)
-- **Document Curation:** Edit titles, hide/show documents, mark as deleted
-- **Inline Controls:** Edit, hide, and delete buttons on each document card
-- **localStorage Persistence:** All admin edits saved locally
+### 🤝 Mutual Aid Tab
+- **Needs & Offers:** Post and browse community requests/resources
+- **Skills Directory:** Connect tenants with useful skills
+- **Resource Library:** Shared community resources
+- **Blocks:** Linked property groups with shared governance
+
+### 🛠️ Tools Tab
+- **Unit Tracker:** Door-to-door canvassing with tenant intake forms
+- **Canvassing Mode:** Mobile-friendly field organizer interface
+- **Power Map:** Relationship mapping for organizing targets
+- **Campaigns:** Track organizing campaign progress
+- **User Management:** Role-based access (organizer, steward, member)
+
+### 👤 Profile Tab
+- **User Profiles:** Display name, contact info, role badges
+- **Rent Comparison:** Compare rent to area averages
+- **Onboarding Wizard:** Guided profile setup for new users
+
+### 🌐 Multilingual Support (5 Languages)
+- **English** (en) - Default
+- **Spanish** (es) - Español
+- **Tagalog** (tl) - Filipino
+- **Chinese** (zh) - 中文
+- **Vietnamese** (vi) - Tiếng Việt
+
+Language switcher in header with 938+ translated strings per locale.
 
 ---
 
 ## Technology Stack
 
 ### Frontend
-- **Framework:** Next.js 14 App Router
+- **Framework:** Next.js 14 App Router with static export
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS (custom RSTU red theme: #cc0000)
 - **State Management:** React Context + localStorage
 - **Markdown Rendering:** react-markdown with gray-matter frontmatter parsing
+- **Maps:** Mapbox GL JS with 3D building visualization
+- **i18n:** Custom LanguageContext with 5 locales
 
 ### Chat System
-- **Platform:** Tlk.io embedded iframes
-- **Features:** No login required, mobile-friendly, persistent message history
-- **Why Tlk.io:** Zero friction for tenants, free unlimited rooms, no CSRF/auth issues
+- **Platform:** Socket.io server (self-hosted on Render)
+- **Features:** Real-time messaging, server persistence, building-specific rooms
+- **Server:** `rstu-chat-server.onrender.com`
 
 ### Deployment
-- **Hosting:** Neocities (free tier)
+- **Hosting:** GitHub Pages (primary), Neocities iframe (legacy URL)
 - **Method:** Next.js static export (SSG)
 - **CI/CD:** GitHub Actions (automatic on push to main)
-- **Build Time:** ~30 seconds
-- **Output:** Pure static HTML/CSS/JS (no backend)
+- **Build Time:** ~2 minutes
+- **Output:** Pure static HTML/CSS/JS
 
 ### Data Storage
-- **User Data:** localStorage (reading progress, favorites, admin state)
+- **User Data:** localStorage (profiles, reading progress, favorites)
+- **Cloud Sync:** Supabase (optional, for user profiles and admin state)
 - **Documents:** Markdown files with YAML frontmatter
-- **Build-time Manifest:** JSON index of all documents generated during build
+- **Properties:** SQLite database → JSON export at build time
 
 ---
 
 ## Repository Structure
-
-**📖 See [REPO_STRUCTURE.md](./REPO_STRUCTURE.md) for detailed documentation**
-
-### Key Directories
 
 ```
 rstu-connect/
 ├── src/                    # Next.js application source
 │   ├── app/               # Pages and layouts
 │   ├── components/        # React components
-│   ├── contexts/          # State management
-│   └── lib/               # Utilities and interfaces
-├── docs/                   # 1,738 organizing documents (source)
-│   ├── additional/
-│   ├── classic-theory/
-│   ├── housing-rent-tenants/
-│   ├── labor-unions/
-│   └── ...
-├── data/                   # Property databases & datasets (not deployed)
+│   │   ├── BuildingList.tsx      # Property search/filter sidebar
+│   │   ├── BuildingCard.tsx      # Property cards with badges
+│   │   ├── PropertyView/         # Chat, Events, Map tabs
+│   │   ├── Events/               # Calendar and event management
+│   │   ├── SocketChat/           # Chat UI components
+│   │   ├── Reading/              # Document library
+│   │   ├── MutualAid/            # Needs, offers, skills, Blocks
+│   │   ├── Tools/                # Organizer tools
+│   │   └── Profile/              # User profiles, onboarding
+│   ├── contexts/
+│   │   ├── LanguageContext.tsx   # i18n with 5 locales
+│   │   └── TabContext.tsx        # Global tab state
+│   └── lib/                      # Utilities and storage
+├── docs/                   # ~2,900 organizing documents (source)
+├── data/                   # Property databases (not deployed)
 │   └── databases/
-│       └── main_properties.db  # 192,463 Washoe County properties
+│       ├── main_properties.db         # 192,463 properties
+│       ├── landlord_accountability.db # Eviction records
+│       └── organizing_targets.db      # Priority scores
 ├── public/                 # Static assets
-│   └── documents/         # Built documents (generated)
-├── scripts/                # Build scripts
-│   ├── generate-reading-manifest.js
-│   └── fix-frontmatter.js
-├── archive/                # Legacy systems (Gun.js, Matrix/Element, etc.)
+│   └── data/              # Generated JSON (properties, manifest)
+├── scripts/                # Build and data scripts
 └── .github/workflows/      # CI/CD configuration
 ```
 
@@ -98,6 +128,7 @@ rstu-connect/
 ### Prerequisites
 - Node.js 18+
 - npm
+- Python 3 (for property export script)
 
 ### Local Development
 
@@ -109,18 +140,17 @@ npm install
 npm run dev
 # Open http://localhost:3000
 
-# Build static site
+# Build static site (runs prebuild scripts automatically)
 npm run build
 # Output in out/ directory
 
-# Deploy (build + copy to root for Neocities)
-npm run deploy
+# Run linter
+npm run lint
 ```
 
 ### Adding New Documents
 
-1. Add markdown files to `docs/` directory
-2. Ensure proper YAML frontmatter:
+1. Add markdown files to `docs/{category}/` with YAML frontmatter:
    ```yaml
    ---
    title: "Document Title"
@@ -128,12 +158,10 @@ npm run deploy
    date: 2025
    ---
    ```
-3. Run `npm run build` to regenerate manifest
-4. Commit and push (auto-deploys via GitHub Actions)
+2. Run `npm run build` to regenerate manifest
+3. Push to main (auto-deploys via GitHub Actions)
 
 ### Fix Malformed Frontmatter
-
-If you add bulk documents and see "Invalid frontmatter" warnings:
 
 ```bash
 node scripts/fix-frontmatter.js
@@ -147,128 +175,81 @@ npm run build
 ### 1. Static Site Generation (SSG)
 **Why:** Free hosting, no server costs, fast performance, simple deployment
 
-### 2. Tlk.io for Chat
-**Why:** No login required (zero friction for tenants), mobile-friendly, free unlimited rooms, no authentication complexity
+### 2. Socket.io for Chat
+**Why:** Real-time messaging, server persistence, building-specific rooms, mobile-friendly
 
-### 3. localStorage for User Data
-**Why:** No backend needed, privacy-first, fast performance, simple implementation
+### 3. localStorage + Supabase Hybrid
+**Why:** Fast local performance with optional cloud sync for cross-device access
 
-### 4. YAML Frontmatter for Documents
-**Why:** Human-readable, version control friendly, easy to edit, rich metadata
+### 4. 5-Language i18n
+**Why:** Serve diverse tenant communities in Reno-Sparks area
+
+### 5. Property Intelligence
+**Why:** Data-driven organizing with eviction records, corporate landlord tracking, priority scores
 
 ---
 
 ## Data & Intelligence Platform
 
-### Property Database (Not Public)
+### Property Database
 
-The `data/` directory contains a comprehensive property intelligence platform:
+The `data/` directory contains comprehensive property intelligence:
 - **192,463 Washoe County property records**
-- Owner information, addresses, parcel data
-- GPS coordinates (WGS84)
-- Corporate landlord analysis
-- Campaign tracking databases
+- **16,127 rental properties** exported to JSON
+- **7,500 eviction records** with landlord scorecards
+- **48,593 corporate landlord entities**
+- **Management company detection** (1,030 portfolios identified)
 
-**Status:** Preserved for future integration. Not currently used by live site.
+### Organizing Priority
 
-**Future Plans:** Connect property data to Organize tab for building-specific resources.
-
----
-
-## Documentation
-
-- **[REPO_STRUCTURE.md](./REPO_STRUCTURE.md)** - Complete repository documentation
-- **[SESSION_NOTES_2025-12-04.md](./SESSION_NOTES_2025-12-04.md)** - Recent development session notes
-- **[CLAUDE.md](./CLAUDE.md)** - AI assistant project instructions
-- **[ADMIN_GUIDE.md](./ADMIN_GUIDE.md)** - Admin panel usage guide
-- **[archive/README.md](./archive/README.md)** - Legacy systems documentation
+Properties scored 0-10 based on:
+- Unit count and density
+- Corporate ownership
+- Eviction history
+- Code violations
+- Habitability conditions (from canvass data)
 
 ---
 
 ## Deployment
 
 ### Automatic Deployment
-Every push to `main` branch triggers automatic deployment to Neocities:
-1. GitHub Actions runs `npm run build`
+Every push to `main` triggers:
+1. GitHub Actions runs prebuild scripts + `npm run build`
 2. Static files generated in `out/`
-3. Files synced to Neocities hosting
-4. Site live at https://rstu-connect.neocities.org
+3. Deployed to GitHub Pages
+4. Live at https://cwcorella-git.github.io/rstu-connect/
 
-### Manual Deployment
-```bash
-npm run deploy
-git add .
-git commit -m "Your commit message"
-git push origin main
-```
+### Environment Variables
+- `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL
+- `NEXT_PUBLIC_SUPABASE_URL` - Supabase project URL (optional)
+- `NEXT_PUBLIC_SUPABASE_ANON_KEY` - Supabase anon key (optional)
 
 ---
 
 ## Statistics
 
 ### Current Scale
-- **Documents:** 1,738 organizing resources
-- **Categories:** 12
-- **Buildings:** 15 with active chat rooms
-- **Property Records:** 192,463 (archived, not deployed)
-- **Code Size:** ~5,000 lines of TypeScript/React
-- **Build Time:** ~30 seconds
-- **Deploy Time:** ~2 minutes
-
-### Recent Growth
-- December 4, 2025: Added 869 documents from organizing-library
-- December 4, 2025: Fixed 210 documents with malformed YAML
-- December 4, 2025: Expanded from 417 to 1,738 total documents
-
----
-
-## Future Roadmap
-
-### Phase 1: Enhanced Reading Library
-- [ ] PDF viewer for native PDF support
-- [ ] Full-text search across document content
-- [ ] Document annotations
-- [ ] Category filtering with improved UI
-
-### Phase 2: Property Integration
-- [ ] Connect property database to Organize tab
-- [ ] Building-specific organizing resources
-- [ ] Property owner tracking
-- [ ] Campaign progress tracking
-
-### Phase 3: Collaborative Features
-- [ ] Multi-user document editing
-- [ ] Shared annotations
-- [ ] Campaign coordination tools
-- [ ] Member authentication
-
-### Phase 4: Multilingual Support
-- [ ] Spanish translations
-- [ ] Language switcher
-- [ ] Bilingual organizing materials
-
-### Phase 5: Mobile Optimization
-- [ ] Progressive Web App (PWA)
-- [ ] Offline document access
-- [ ] Field organizer tools
+- **Properties:** 16,127 rental units
+- **Documents:** ~2,900 organizing resources
+- **Categories:** 20 document categories
+- **Languages:** 5 (EN, ES, TL, ZH, VI)
+- **Translation Keys:** 938+ per locale
+- **Build Time:** ~2 minutes
+- **Bundle Size:** ~1.3 MB (first load)
 
 ---
 
 ## Contributing
 
-This is a private organizing platform for RSTU. If you're interested in adapting this for your tenant union:
+This is an organizing platform for RSTU. To adapt for your tenant union:
 
 1. **Fork the repository**
-2. **Update building data** in `src/app/page.tsx`
+2. **Update property data** in `data/databases/`
 3. **Replace documents** in `docs/` directory
-4. **Update branding** (colors, logos, links)
-5. **Deploy** to your preferred static host
-
-### Key Configuration Points
-- Building list: `src/app/page.tsx` (lines 23-177)
-- RSTU red color: `tailwind.config.ts` (`#cc0000`)
-- Organization links: `src/components/Navigation.tsx`
-- Chat room slugs: Auto-generated from building addresses
+4. **Update branding** (colors, organization name)
+5. **Configure translations** in `src/contexts/LanguageContext.tsx`
+6. **Deploy** to GitHub Pages or your preferred host
 
 ---
 
@@ -285,10 +266,9 @@ This project is open source and available for use by tenant unions and housing j
 
 **Organization:** Reno-Sparks Tenants Union
 **Website:** https://renosparkstenantsunion.org
-**Get Involved:** https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform
+**Get Involved:** [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform)
 
 **Repository:** https://github.com/cwcorella-git/rstu-connect
-**Live Site:** https://rstu-connect.neocities.org
 
 ---
 
@@ -297,18 +277,15 @@ This project is open source and available for use by tenant unions and housing j
 Built with:
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
-- [Tlk.io](https://tlk.io/) - Anonymous chat rooms
-- [Neocities](https://neocities.org/) - Free static hosting
+- [Socket.io](https://socket.io/) - Real-time messaging
+- [Mapbox GL JS](https://www.mapbox.com/) - Interactive maps
+- [Supabase](https://supabase.com/) - Cloud database
 - [react-markdown](https://github.com/remarkjs/react-markdown) - Markdown rendering
 
-Organizing resources compiled from:
-- The Anarchist Library
-- Labor Notes
-- DSA Housing Justice Commission
-- Tenant organizing networks nationwide
+Organizing resources compiled from tenant organizing networks nationwide.
 
 ---
 
 **"The platform serves organizing, organizing doesn't serve the platform."**
 
-*Last Updated: December 4, 2025*
+*Last Updated: January 2026*
