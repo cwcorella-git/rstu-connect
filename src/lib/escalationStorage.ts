@@ -142,6 +142,52 @@ export interface SuggestedAction {
                'start_strike' | 'log_contact' | 'wait' | 'celebrate'
 }
 
+// Enhanced suggestion with confidence and context
+export interface EnhancedSuggestion {
+  action: string
+  reason: string
+  confidence: 'high' | 'medium' | 'low'
+  urgent: boolean
+  actionType: SuggestedAction['actionType']
+  // Why this suggestion
+  basedOn: SuggestionSource[]
+  // For multi-path suggestions
+  alternativeActions?: Array<{
+    action: string
+    reason: string
+    actionType: SuggestedAction['actionType']
+  }>
+  // Timing info
+  daysInCurrentStage: number
+  recommendedDeadlineDays?: number
+}
+
+export type SuggestionSource =
+  | { type: 'stage'; detail: string }
+  | { type: 'time'; detail: string; daysSince: number }
+  | { type: 'building_history'; detail: string; successRate?: number }
+  | { type: 'landlord_pattern'; detail: string; responsePattern?: string }
+  | { type: 'severity'; detail: string }
+  | { type: 'category'; detail: string }
+
+export interface LandlordPattern {
+  totalCases: number
+  avgResponseDays: number | null
+  ignoreRate: number  // % of cases where landlord ignored
+  retaliationRate: number  // % of cases with retaliation
+  successfulTactics: Array<{ tactic: EscalationPath['type']; successCount: number }>
+  typicalBehavior: 'responsive' | 'slow' | 'ignores_until_pressure' | 'hostile' | 'unknown'
+}
+
+export interface BuildingHistory {
+  totalCases: number
+  victories: number
+  winRate: number
+  avgResolutionDays: number | null
+  successfulTactics: Array<{ tactic: EscalationPath['type']; successCount: number }>
+  commonCategories: IssueCategory[]
+}
+
 // ============================================================================
 // Storage Key
 // ============================================================================
@@ -929,4 +975,535 @@ export function getCasesNeedingAttention(buildingId?: string): EscalationCase[] 
     if (b.severity === 'emergency' && a.severity !== 'emergency') return 1
     return b.updatedAt - a.updatedAt
   })
+}
+
+// ============================================================================
+// Enhanced Suggestion Engine (Phase 2)
+// ============================================================================
+
+const DAY_MS = 24 * 60 * 60 * 1000
+
+/**
+ * Analyze building's escalation history to find successful tactics
+ */
+export function getBuildingHistory(buildingId: string): BuildingHistory {
+  const cases = getCasesByBuilding(buildingId)
+  const resolved = cases.filter(c => c.stage === 'resolved')
+
+  const victories = resolved.filter(c =>
+    c.resolution?.type === 'victory' || c.resolution?.type === 'compromise'
+  )
+
+  // Count successful tactics
+  const tacticCounts: Record<EscalationPath['type'], number> = {
+    code_enforcement: 0,
+    legal: 0,
+    strike: 0,
+    public_pressure: 0,
+  }
+
+  for (const v of victories) {
+    for (const path of v.escalationPaths) {
+      if (path.status === 'completed') {
+        tacticCounts[path.type]++
+      }
+    }
+    // Also count from resolution.tacticsUsed if present
+    if (v.resolution?.tacticsUsed) {
+      for (const t of v.resolution.tacticsUsed) {
+        const normalized = t.toLowerCase().replace(/\s+/g, '_') as EscalationPath['type']
+        if (normalized in tacticCounts) {
+          tacticCounts[normalized]++
+        }
+      }
+    }
+  }
+
+  const successfulTactics = Object.entries(tacticCounts)
+    .filter(([, count]) => count > 0)
+    .map(([tactic, count]) => ({ tactic: tactic as EscalationPath['type'], successCount: count }))
+    .sort((a, b) => b.successCount - a.successCount)
+
+  // Count common categories
+  const categoryCounts: Record<IssueCategory, number> = {
+    habitability: 0, lease: 0, harassment: 0, retaliation: 0, rent: 0, other: 0
+  }
+  for (const c of cases) {
+    categoryCounts[c.category]++
+  }
+  const commonCategories = Object.entries(categoryCounts)
+    .filter(([, count]) => count > 0)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3)
+    .map(([cat]) => cat as IssueCategory)
+
+  // Average resolution time
+  let totalDays = 0
+  let resolvedCount = 0
+  for (const c of resolved) {
+    if (c.resolution?.date) {
+      totalDays += (c.resolution.date - c.createdAt) / DAY_MS
+      resolvedCount++
+    }
+  }
+
+  return {
+    totalCases: cases.length,
+    victories: victories.length,
+    winRate: resolved.length > 0 ? victories.length / resolved.length : 0,
+    avgResolutionDays: resolvedCount > 0 ? Math.round(totalDays / resolvedCount) : null,
+    successfulTactics,
+    commonCategories,
+  }
+}
+
+/**
+ * Analyze landlord response patterns across all their properties
+ * Note: This requires building address to identify landlord - falls back to building-only analysis
+ */
+export function getLandlordPattern(buildingAddress: string): LandlordPattern {
+  // For now, we analyze all cases to build patterns
+  // In future, this could query by owner name from property data
+  const allCases = getAllCases()
+
+  // Find cases that might be from same landlord (same building address prefix)
+  // This is a heuristic - in production you'd match by owner name
+  const addressPrefix = buildingAddress.split(',')[0]?.trim().toLowerCase() || ''
+  const relevantCases = allCases.filter(c =>
+    c.buildingAddress.toLowerCase().startsWith(addressPrefix) ||
+    c.buildingAddress.toLowerCase().includes(addressPrefix)
+  )
+
+  if (relevantCases.length === 0) {
+    return {
+      totalCases: 0,
+      avgResponseDays: null,
+      ignoreRate: 0,
+      retaliationRate: 0,
+      successfulTactics: [],
+      typicalBehavior: 'unknown',
+    }
+  }
+
+  // Analyze response patterns
+  let ignoredCount = 0
+  let retaliatedCount = 0
+  let totalResponseDays = 0
+  let responseCount = 0
+
+  for (const c of relevantCases) {
+    const responses = c.landlordResponses
+    if (responses.length === 0) {
+      if (c.stage !== 'identified' && c.stage !== 'drafted') {
+        ignoredCount++
+      }
+    } else {
+      for (const r of responses) {
+        if (r.responseType === 'ignored') ignoredCount++
+        if (r.responseType === 'retaliated') retaliatedCount++
+      }
+      // Time to first response
+      const firstResponse = responses[0]
+      if (firstResponse && c.deliveryDate) {
+        const days = (firstResponse.date - c.deliveryDate) / DAY_MS
+        if (days >= 0 && days < 365) { // Sanity check
+          totalResponseDays += days
+          responseCount++
+        }
+      }
+    }
+  }
+
+  // Count successful tactics
+  const tacticCounts: Record<EscalationPath['type'], number> = {
+    code_enforcement: 0, legal: 0, strike: 0, public_pressure: 0
+  }
+  const victories = relevantCases.filter(c =>
+    c.resolution?.type === 'victory' || c.resolution?.type === 'compromise'
+  )
+  for (const v of victories) {
+    for (const path of v.escalationPaths) {
+      if (path.status === 'completed') {
+        tacticCounts[path.type]++
+      }
+    }
+  }
+
+  const successfulTactics = Object.entries(tacticCounts)
+    .filter(([, count]) => count > 0)
+    .map(([tactic, count]) => ({ tactic: tactic as EscalationPath['type'], successCount: count }))
+    .sort((a, b) => b.successCount - a.successCount)
+
+  // Determine typical behavior
+  const ignoreRate = relevantCases.length > 0 ? ignoredCount / relevantCases.length : 0
+  const retaliationRate = relevantCases.length > 0 ? retaliatedCount / relevantCases.length : 0
+  const avgResponseDays = responseCount > 0 ? Math.round(totalResponseDays / responseCount) : null
+
+  let typicalBehavior: LandlordPattern['typicalBehavior'] = 'unknown'
+  if (retaliationRate > 0.2) {
+    typicalBehavior = 'hostile'
+  } else if (ignoreRate > 0.5) {
+    typicalBehavior = 'ignores_until_pressure'
+  } else if (avgResponseDays !== null && avgResponseDays > 14) {
+    typicalBehavior = 'slow'
+  } else if (avgResponseDays !== null && avgResponseDays <= 7) {
+    typicalBehavior = 'responsive'
+  }
+
+  return {
+    totalCases: relevantCases.length,
+    avgResponseDays,
+    ignoreRate,
+    retaliationRate,
+    successfulTactics,
+    typicalBehavior,
+  }
+}
+
+/**
+ * Calculate days since a stage began
+ */
+function getDaysInStage(caseData: EscalationCase): number {
+  // Find the most recent stage change
+  const stageEvents = caseData.timeline.filter(e => e.type === 'stage_change' || e.type === 'created')
+  const lastStageChange = stageEvents[stageEvents.length - 1]
+  if (!lastStageChange) return Math.ceil((Date.now() - caseData.createdAt) / DAY_MS)
+  return Math.ceil((Date.now() - lastStageChange.date) / DAY_MS)
+}
+
+/**
+ * Get urgency multiplier based on severity and time
+ */
+function getUrgencyLevel(caseData: EscalationCase, daysInStage: number): {
+  urgent: boolean
+  timeWarning: string | null
+} {
+  // Emergency cases are always urgent
+  if (caseData.severity === 'emergency') {
+    return { urgent: true, timeWarning: 'Emergency - requires immediate action' }
+  }
+
+  // Retaliation detected
+  const lastResponse = caseData.landlordResponses[caseData.landlordResponses.length - 1]
+  if (lastResponse?.responseType === 'retaliated') {
+    return { urgent: true, timeWarning: 'Retaliation detected - seek legal help immediately' }
+  }
+
+  // Deadline passed
+  if (caseData.deadlineDate && caseData.deadlineDate < Date.now()) {
+    const daysOverdue = Math.ceil((Date.now() - caseData.deadlineDate) / DAY_MS)
+    return {
+      urgent: daysOverdue > 3,
+      timeWarning: `${daysOverdue} days past deadline - landlord has not responded`
+    }
+  }
+
+  // Stuck in stage too long
+  const stageTimeouts: Record<EscalationStage, number> = {
+    identified: 14,    // 2 weeks to gather support
+    drafted: 7,        // 1 week to send demand
+    delivered: 21,     // 3 weeks to get response (after deadline)
+    awaiting: 14,      // 2 weeks to decide on escalation
+    escalating: 30,    // 1 month for escalation to progress
+    resolved: 999,     // No timeout
+  }
+
+  const timeout = stageTimeouts[caseData.stage]
+  if (daysInStage > timeout) {
+    return {
+      urgent: caseData.severity === 'serious' || daysInStage > timeout * 1.5,
+      timeWarning: `${daysInStage} days in ${caseData.stage} stage - consider moving forward`
+    }
+  }
+
+  return { urgent: false, timeWarning: null }
+}
+
+/**
+ * Get enhanced suggestions with context from building history and landlord patterns
+ */
+export function getEnhancedSuggestion(
+  caseData: EscalationCase,
+  options?: {
+    includeBuildingHistory?: boolean
+    includeLandlordPattern?: boolean
+  }
+): EnhancedSuggestion {
+  const now = Date.now()
+  const daysInStage = getDaysInStage(caseData)
+  const { urgent, timeWarning } = getUrgencyLevel(caseData, daysInStage)
+
+  // Get context data if requested
+  const buildingHistory = options?.includeBuildingHistory !== false
+    ? getBuildingHistory(caseData.buildingId)
+    : null
+  const landlordPattern = options?.includeLandlordPattern !== false
+    ? getLandlordPattern(caseData.buildingAddress)
+    : null
+
+  const basedOn: SuggestionSource[] = []
+  let alternativeActions: EnhancedSuggestion['alternativeActions'] = undefined
+
+  // Start with basic stage-based suggestion
+  const basicSuggestion = getSuggestedAction(caseData)
+
+  // Build enhanced suggestion based on context
+  let action = basicSuggestion.action
+  let reason = basicSuggestion.reason
+  let confidence: EnhancedSuggestion['confidence'] = 'medium'
+  let recommendedDeadlineDays: number | undefined
+
+  basedOn.push({ type: 'stage', detail: `Current stage: ${caseData.stage}` })
+
+  // Add time-based context
+  if (timeWarning) {
+    basedOn.push({ type: 'time', detail: timeWarning, daysSince: daysInStage })
+  }
+
+  // Add severity context
+  if (caseData.severity === 'emergency' || caseData.severity === 'serious') {
+    basedOn.push({ type: 'severity', detail: `${caseData.severity.toUpperCase()} severity issue` })
+  }
+
+  // Enhance suggestions based on stage and context
+  switch (caseData.stage) {
+    case 'identified': {
+      if (daysInStage > 7 && caseData.affectedUnits.length < 3) {
+        action = 'Actively canvas for more affected tenants'
+        reason = `Only ${caseData.affectedUnits.length} unit(s) documented after ${daysInStage} days - need more support`
+        basedOn.push({ type: 'time', detail: 'Extended time in identification phase', daysSince: daysInStage })
+      }
+      if (buildingHistory && buildingHistory.winRate > 0.5) {
+        confidence = 'high'
+        reason += `. This building has a ${Math.round(buildingHistory.winRate * 100)}% win rate!`
+        basedOn.push({
+          type: 'building_history',
+          detail: `${buildingHistory.victories} victories at this building`,
+          successRate: buildingHistory.winRate
+        })
+      }
+      break
+    }
+
+    case 'drafted': {
+      // Recommend delivery method based on landlord pattern
+      if (landlordPattern && landlordPattern.typicalBehavior === 'ignores_until_pressure') {
+        action = 'Send demand via certified mail with return receipt'
+        reason = 'This landlord typically ignores initial contact - create paper trail'
+        confidence = 'high'
+        basedOn.push({
+          type: 'landlord_pattern',
+          detail: 'Landlord pattern: ignores until pressure applied',
+          responsePattern: landlordPattern.typicalBehavior
+        })
+      }
+      recommendedDeadlineDays = 14 // Default deadline
+      break
+    }
+
+    case 'delivered': {
+      if (caseData.deadlineDate) {
+        const daysUntilDeadline = Math.ceil((caseData.deadlineDate - now) / DAY_MS)
+
+        if (daysUntilDeadline < 0) {
+          // Deadline passed
+          const daysOverdue = Math.abs(daysUntilDeadline)
+
+          if (landlordPattern && landlordPattern.typicalBehavior === 'hostile') {
+            action = 'Document everything and contact legal aid'
+            reason = `${daysOverdue} days overdue. This landlord has hostile patterns - protect yourself`
+            confidence = 'high'
+            basedOn.push({
+              type: 'landlord_pattern',
+              detail: `${Math.round(landlordPattern.retaliationRate * 100)}% retaliation rate`,
+              responsePattern: 'hostile'
+            })
+          } else if (daysOverdue > 7) {
+            // Suggest escalation based on what worked before
+            if (buildingHistory && buildingHistory.successfulTactics.length > 0) {
+              const bestTactic = buildingHistory.successfulTactics[0]
+              const tacticLabels: Record<EscalationPath['type'], string> = {
+                code_enforcement: 'File code enforcement complaint',
+                legal: 'Contact legal aid',
+                strike: 'Organize rent strike',
+                public_pressure: 'Launch public pressure campaign'
+              }
+              action = tacticLabels[bestTactic.tactic]
+              reason = `No response after ${daysOverdue} days. ${tacticLabels[bestTactic.tactic]} worked ${bestTactic.successCount} time(s) here`
+              confidence = 'high'
+              basedOn.push({
+                type: 'building_history',
+                detail: `${bestTactic.tactic} successful at this building`,
+                successRate: buildingHistory.winRate
+              })
+            } else {
+              action = 'Escalate: file code enforcement or contact legal aid'
+              reason = `${daysOverdue} days past deadline with no response - time to escalate`
+            }
+
+            // Add alternative actions for multi-path escalation
+            alternativeActions = [
+              { action: 'File code enforcement complaint', reason: 'Request official inspection', actionType: 'file_complaint' },
+              { action: 'Contact legal aid', reason: 'Get legal advice on options', actionType: 'contact_legal' },
+            ]
+            if (caseData.category === 'rent' || caseData.affectedUnits.length >= 5) {
+              alternativeActions.push({
+                action: 'Organize collective action',
+                reason: `${caseData.affectedUnits.length} affected units - collective power`,
+                actionType: 'start_strike'
+              })
+            }
+          }
+        } else if (daysUntilDeadline <= 3) {
+          action = 'Prepare escalation options'
+          reason = `Only ${daysUntilDeadline} day(s) until deadline - plan your next move`
+          basedOn.push({ type: 'time', detail: 'Deadline approaching', daysSince: daysInStage })
+        }
+      }
+      break
+    }
+
+    case 'awaiting': {
+      const lastResponse = caseData.landlordResponses[caseData.landlordResponses.length - 1]
+
+      if (lastResponse?.responseType === 'retaliated') {
+        action = 'Contact legal aid IMMEDIATELY'
+        reason = 'Retaliation is illegal under Nevada law - you have legal protections'
+        confidence = 'high'
+        basedOn.push({ type: 'category', detail: 'Retaliation detected - legal emergency' })
+      } else if (!lastResponse || lastResponse.responseType === 'ignored') {
+        // Suggest multi-path escalation
+        const suggestions: Array<{ action: string; reason: string; actionType: SuggestedAction['actionType'] }> = []
+
+        if (caseData.category === 'habitability') {
+          suggestions.push({
+            action: 'File code enforcement complaint',
+            reason: 'Request official inspection of habitability issues',
+            actionType: 'file_complaint'
+          })
+        }
+
+        if (landlordPattern && landlordPattern.successfulTactics.length > 0) {
+          const bestTactic = landlordPattern.successfulTactics[0]
+          const tacticActions: Record<EscalationPath['type'], { action: string; reason: string }> = {
+            code_enforcement: { action: 'File code enforcement complaint', reason: 'Most effective against this landlord' },
+            legal: { action: 'Consult legal aid', reason: 'Legal pressure worked before' },
+            strike: { action: 'Organize rent strike vote', reason: 'Collective action has been effective' },
+            public_pressure: { action: 'Launch public campaign', reason: 'Public pressure worked before' },
+          }
+          const tactic = tacticActions[bestTactic.tactic]
+          if (!suggestions.find(s => s.action === tactic.action)) {
+            suggestions.push({ ...tactic, actionType: 'advance_stage' })
+          }
+          basedOn.push({
+            type: 'landlord_pattern',
+            detail: `${bestTactic.tactic} effective against this landlord`
+          })
+        }
+
+        if (caseData.affectedUnits.length >= 3 || caseData.affectedUnits.includes('building-wide')) {
+          suggestions.push({
+            action: 'Consider collective action (strike/petition)',
+            reason: `${caseData.affectedUnits.length >= 3 ? caseData.affectedUnits.length + ' units' : 'Building-wide'} affected - strength in numbers`,
+            actionType: 'start_strike'
+          })
+        }
+
+        if (suggestions.length > 0) {
+          action = suggestions[0].action
+          reason = suggestions[0].reason
+          alternativeActions = suggestions.slice(1)
+        }
+
+        // Recommend simultaneous escalation paths
+        if (daysInStage > 7 && suggestions.length >= 2) {
+          action = 'Start multiple escalation paths simultaneously'
+          reason = `${daysInStage} days waiting - apply pressure from multiple angles`
+          confidence = 'high'
+        }
+      }
+      break
+    }
+
+    case 'escalating': {
+      const activePaths = caseData.escalationPaths.filter(p => p.status === 'active')
+
+      if (activePaths.length === 0) {
+        action = 'Choose an escalation method'
+
+        // Recommend based on history
+        if (buildingHistory && buildingHistory.successfulTactics.length > 0) {
+          const best = buildingHistory.successfulTactics[0]
+          const tacticNames: Record<EscalationPath['type'], string> = {
+            code_enforcement: 'code enforcement',
+            legal: 'legal aid',
+            strike: 'rent strike',
+            public_pressure: 'public pressure'
+          }
+          action = `Start with ${tacticNames[best.tactic]} (${best.successCount} past successes here)`
+          confidence = 'high'
+        }
+      } else if (activePaths.length === 1 && daysInStage > 14) {
+        // Suggest adding another path
+        const currentPath = activePaths[0].type
+        const otherPaths: EscalationPath['type'][] = ['code_enforcement', 'legal', 'strike', 'public_pressure']
+          .filter(p => p !== currentPath) as EscalationPath['type'][]
+
+        action = 'Consider adding another escalation path'
+        reason = `${daysInStage} days with single escalation - add pressure from another angle`
+
+        alternativeActions = otherPaths.slice(0, 2).map(p => ({
+          action: `Add ${p.replace('_', ' ')} escalation`,
+          reason: 'Increase pressure on multiple fronts',
+          actionType: 'advance_stage' as const
+        }))
+      }
+      break
+    }
+
+    case 'resolved': {
+      if (caseData.resolution?.type === 'victory') {
+        action = 'Celebrate and document this win!'
+        reason = 'Share your victory to inspire other tenants'
+        confidence = 'high'
+        basedOn.push({ type: 'stage', detail: 'Victory achieved!' })
+      }
+      break
+    }
+  }
+
+  return {
+    action,
+    reason,
+    confidence,
+    urgent,
+    actionType: basicSuggestion.actionType,
+    basedOn,
+    alternativeActions,
+    daysInCurrentStage: daysInStage,
+    recommendedDeadlineDays,
+  }
+}
+
+/**
+ * Get all suggestions for a case, sorted by relevance
+ */
+export function getAllSuggestions(caseData: EscalationCase): EnhancedSuggestion[] {
+  const primary = getEnhancedSuggestion(caseData)
+  const suggestions: EnhancedSuggestion[] = [primary]
+
+  // Add alternative actions as separate suggestions
+  if (primary.alternativeActions) {
+    for (const alt of primary.alternativeActions) {
+      suggestions.push({
+        ...alt,
+        confidence: 'medium',
+        urgent: false,
+        basedOn: [{ type: 'stage', detail: 'Alternative escalation option' }],
+        daysInCurrentStage: primary.daysInCurrentStage,
+      })
+    }
+  }
+
+  return suggestions
 }

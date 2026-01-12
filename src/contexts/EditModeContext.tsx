@@ -1,14 +1,15 @@
 'use client'
 
 import { createContext, useContext, useState, useEffect, ReactNode, useCallback } from 'react'
+import { isAdmin } from '@/lib/profileStorage'
 import { useLanguage } from './LanguageContext'
 import { isGitHubConfigured, getStoredToken, setStoredToken, clearStoredToken, validateToken } from '@/lib/githubService'
 
 export type SaveStatus = 'idle' | 'saving' | 'success' | 'error'
 
-// Simple access code for edit mode (hard-coded for simplicity)
+// Access code for edit mode (requires admin + this code)
 // Can be overridden via environment variable
-const EDIT_ACCESS_CODE = process.env.NEXT_PUBLIC_EDIT_ACCESS_CODE || 'rstu2024'
+const EDIT_ACCESS_CODE = process.env.NEXT_PUBLIC_EDIT_ACCESS_CODE || 'rstuEd1t!'
 
 interface EditModeContextType {
   isEditMode: boolean
@@ -63,12 +64,18 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
     return hasToken
   }, [])
 
-  // Submit access code to enter edit mode
+  // Submit access code to enter edit mode (requires admin + correct code)
   const submitAccessCode = useCallback((code: string): boolean => {
+    // Double-check admin status
+    if (!isAdmin()) {
+      setError('Admin access required for edit mode')
+      return false
+    }
     if (code === EDIT_ACCESS_CODE) {
       grantEditAccess()
       setNeedsAccessCode(false)
       setIsEditMode(true)
+      setError(null)
       checkTokenSetup()
       return true
     } else {
@@ -87,7 +94,13 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
       setNeedsTokenSetup(false)
       setNeedsAccessCode(false)
     } else {
-      // Entering edit mode - check if already authenticated this session
+      // Entering edit mode - require admin status first
+      if (!isAdmin()) {
+        setError('Admin access required for edit mode')
+        setNeedsAccessCode(true) // Show prompt with error
+        return
+      }
+      // Check if already authenticated this session
       if (hasEditAccess()) {
         setIsEditMode(true)
         checkTokenSetup()

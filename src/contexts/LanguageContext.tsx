@@ -1090,6 +1090,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'landing.action.organize.step3.description': 'When you organize collectively, landlords have to listen. Contact RSTU to help you build a tenant organization.',
     'landing.action.cta': 'Ready to get organized?',
     'landing.action.contact_email': 'Contact RSTU Connect to learn more about organizing in your building',
+
+    // Organizing Progress
+    'organizing.progress': 'Organizing Progress',
+    'organizing.unitsReached': 'units reached',
+    'organizing.activeMembers': 'Active',
+    'organizing.interested': 'Interested',
+    'organizing.followUp': 'Follow-up',
+    'organizing.membersWithAccounts': 'Members with Accounts',
+    'organizing.stillNeedToReach': 'Still Need to Reach',
+    'organizing.outreachTip': 'Knock on doors, leave flyers, or share invite codes!',
+    'organizing.unitsNotYetReached': 'units not yet reached',
+    'organizing.getVerifiedToSeeUnits': 'Get verified to see which units need outreach',
+    'organizing.noProgressYet': 'No organizing progress yet',
+    'organizing.beFirstToOrganize': 'Be the first to start organizing in this building! Share invite codes with your neighbors.',
+    'organizing.reached': 'reached',
+
+    // Common - additional
+    'common.refresh': 'Refresh',
   },
   es: {
     // Navigation
@@ -2135,6 +2153,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.unitNumber': 'Número de unidad',
     'profile.unitNumberHelpText': 'Tu número de apartamento o habitación',
     'profile.unitNumberPlaceholder': 'Ej: 101, A, 2B',
+
+    // Organizing Progress
+    'organizing.progress': 'Progreso de Organización',
+    'organizing.unitsReached': 'unidades contactadas',
+    'organizing.activeMembers': 'Activos',
+    'organizing.interested': 'Interesados',
+    'organizing.followUp': 'Seguimiento',
+    'organizing.membersWithAccounts': 'Miembros con Cuentas',
+    'organizing.stillNeedToReach': 'Aún por Contactar',
+    'organizing.outreachTip': '¡Toca puertas, deja volantes, o comparte códigos de invitación!',
+    'organizing.unitsNotYetReached': 'unidades aún no contactadas',
+    'organizing.getVerifiedToSeeUnits': 'Verifícate para ver qué unidades necesitan contacto',
+    'organizing.noProgressYet': 'Aún no hay progreso de organización',
+    'organizing.beFirstToOrganize': '¡Sé el primero en organizar en este edificio! Comparte códigos de invitación con tus vecinos.',
+    'organizing.reached': 'contactados',
+
+    // Common - additional
+    'common.refresh': 'Actualizar',
   },
   tl: {
     // Navigation
@@ -3239,6 +3275,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'tools.unitHelp': 'Tulong sa pag-input ng unit',
     'tools.unitPlaceholder': 'Numero ng unit',
     'tools.utilities': 'Mga Utility',
+
+    // Organizing Progress
+    'organizing.progress': 'Progreso ng Pag-organisa',
+    'organizing.unitsReached': 'mga unit na nakausap',
+    'organizing.activeMembers': 'Aktibo',
+    'organizing.interested': 'Interesado',
+    'organizing.followUp': 'Susundan',
+    'organizing.membersWithAccounts': 'Mga Miyembro na may Account',
+    'organizing.stillNeedToReach': 'Kailangan Pa Makausap',
+    'organizing.outreachTip': 'Kumatok sa mga pintuan, mag-iwan ng flyer, o ibahagi ang mga invite code!',
+    'organizing.unitsNotYetReached': 'mga unit na hindi pa nakausap',
+    'organizing.getVerifiedToSeeUnits': 'Magpa-verify para makita kung aling mga unit ang kailangang kausapin',
+    'organizing.noProgressYet': 'Wala pang progreso sa pag-organisa',
+    'organizing.beFirstToOrganize': 'Maging una sa pag-organisa sa gusaling ito! Ibahagi ang mga invite code sa iyong mga kapitbahay.',
+    'organizing.reached': 'nakausap',
+
+    // Common - additional
+    'common.refresh': 'I-refresh',
   },
   zh: {
     // Navigation
@@ -4343,6 +4397,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'tools.unitHelp': '单元输入帮助',
     'tools.unitPlaceholder': '单元号',
     'tools.utilities': '公用事业',
+
+    // Organizing Progress
+    'organizing.progress': '组织进度',
+    'organizing.unitsReached': '单位已联系',
+    'organizing.activeMembers': '活跃',
+    'organizing.interested': '感兴趣',
+    'organizing.followUp': '跟进',
+    'organizing.membersWithAccounts': '有账户的成员',
+    'organizing.stillNeedToReach': '仍需联系',
+    'organizing.outreachTip': '敲门、留传单或分享邀请码！',
+    'organizing.unitsNotYetReached': '单位尚未联系',
+    'organizing.getVerifiedToSeeUnits': '验证后查看哪些单位需要联系',
+    'organizing.noProgressYet': '暂无组织进度',
+    'organizing.beFirstToOrganize': '成为第一个在这栋楼组织的人！与邻居分享邀请码。',
+    'organizing.reached': '已联系',
+
+    // Common - additional
+    'common.refresh': '刷新',
   },
   vi: {
     // Navigation
@@ -5428,6 +5500,24 @@ const translations: Record<Locale, Record<string, string>> = {
     'tools.unitHelp': 'Hướng dẫn nhập đơn vị',
     'tools.unitPlaceholder': 'Số đơn vị',
     'tools.utilities': 'Tiện ích',
+
+    // Organizing Progress
+    'organizing.progress': 'Tiến độ Tổ chức',
+    'organizing.unitsReached': 'đơn vị đã liên hệ',
+    'organizing.activeMembers': 'Hoạt động',
+    'organizing.interested': 'Quan tâm',
+    'organizing.followUp': 'Theo dõi',
+    'organizing.membersWithAccounts': 'Thành viên có Tài khoản',
+    'organizing.stillNeedToReach': 'Cần Liên hệ',
+    'organizing.outreachTip': 'Gõ cửa, để lại tờ rơi, hoặc chia sẻ mã mời!',
+    'organizing.unitsNotYetReached': 'đơn vị chưa liên hệ',
+    'organizing.getVerifiedToSeeUnits': 'Xác minh để xem đơn vị nào cần liên hệ',
+    'organizing.noProgressYet': 'Chưa có tiến độ tổ chức',
+    'organizing.beFirstToOrganize': 'Hãy là người đầu tiên tổ chức tại tòa nhà này! Chia sẻ mã mời với hàng xóm của bạn.',
+    'organizing.reached': 'đã liên hệ',
+
+    // Common - additional
+    'common.refresh': 'Làm mới',
   },
 }
 

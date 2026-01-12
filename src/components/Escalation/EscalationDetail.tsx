@@ -8,6 +8,8 @@ import {
   type ResponseType,
   type ResolutionType,
   type EscalationPath,
+  type EnhancedSuggestion,
+  type SuggestionSource,
   advanceStage,
   draftDemand,
   recordDelivery,
@@ -16,7 +18,9 @@ import {
   resolveCase,
   addEvidence,
   addTimelineEvent,
-  getSuggestedAction,
+  getEnhancedSuggestion,
+  getBuildingHistory,
+  getLandlordPattern,
   getCaseById,
 } from '@/lib/escalationStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
@@ -59,7 +63,9 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
   const [showNoteForm, setShowNoteForm] = useState(false)
 
   const currentProfile = getCurrentProfile()
-  const suggestion = getSuggestedAction(caseData)
+  const suggestion = getEnhancedSuggestion(caseData)
+  const buildingHistory = getBuildingHistory(caseData.buildingId)
+  const landlordPattern = getLandlordPattern(caseData.buildingAddress)
   const currentStageIndex = stageOrder.indexOf(caseData.stage)
 
   const refreshCase = () => {

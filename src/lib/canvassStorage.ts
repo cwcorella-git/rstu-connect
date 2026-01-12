@@ -569,6 +569,93 @@ export function getBuildingStats(buildingId: string): {
   }
 }
 
+/**
+ * Tenant-safe progress data - exposes only aggregate stats and unit numbers
+ * No contact info, names, or organizer notes
+ */
+export interface TenantSafeProgress {
+  totalUnits: number
+  contacted: number
+  interested: number
+  activeMembers: number
+  followUp: number
+  notInterested: number
+  notContactedUnits: string[]  // Unit numbers only, no names/contact info
+  progressPercent: number
+  status: 'active' | 'emerging' | 'starting' | 'none'
+  hasCanvassData: boolean
+}
+
+/**
+ * Get tenant-safe organizing progress for a building
+ * Returns only aggregate stats and unit numbers - no sensitive contact info
+ */
+export function getTenantSafeProgress(buildingId: string, totalBuildingUnits?: number): TenantSafeProgress {
+  const building = getBuildingCanvass(buildingId)
+
+  // No canvass data yet
+  if (!building || Object.keys(building.units).length === 0) {
+    return {
+      totalUnits: totalBuildingUnits || 0,
+      contacted: 0,
+      interested: 0,
+      activeMembers: 0,
+      followUp: 0,
+      notInterested: 0,
+      notContactedUnits: [],
+      progressPercent: 0,
+      status: 'none',
+      hasCanvassData: false,
+    }
+  }
+
+  const units = Object.values(building.units)
+  const contacted = units.filter(u => u.status !== 'NOT_CONTACTED' && u.status !== 'NO_ANSWER').length
+  const interested = units.filter(u => u.status === 'INTERESTED').length
+  const activeMembers = units.filter(u => u.status === 'ACTIVE_MEMBER').length
+  const followUp = units.filter(u => u.status === 'FOLLOW_UP').length
+  const notInterested = units.filter(u => u.status === 'NOT_INTERESTED').length
+
+  // Get unit numbers that haven't been contacted (no names or contact info)
+  const notContactedUnits = units
+    .filter(u => u.status === 'NOT_CONTACTED' || u.status === 'NO_ANSWER')
+    .map(u => u.unitNumber)
+    .sort((a, b) => {
+      // Natural sort for unit numbers (1, 2, 10 not 1, 10, 2)
+      const numA = parseInt(a.replace(/\D/g, '')) || 0
+      const numB = parseInt(b.replace(/\D/g, '')) || 0
+      if (numA !== numB) return numA - numB
+      return a.localeCompare(b)
+    })
+
+  // Use building's total units if provided (more accurate), otherwise use tracked units
+  const totalUnits = totalBuildingUnits || units.length
+  const progressPercent = totalUnits > 0 ? Math.round((contacted / totalUnits) * 100) : 0
+
+  // Determine organizing status
+  let status: 'active' | 'emerging' | 'starting' | 'none' = 'none'
+  if (activeMembers >= 3 || (activeMembers >= 1 && interested >= 3)) {
+    status = 'active'
+  } else if (activeMembers >= 1 || interested >= 2 || contacted >= 5) {
+    status = 'emerging'
+  } else if (contacted > 0) {
+    status = 'starting'
+  }
+
+  return {
+    totalUnits,
+    contacted,
+    interested,
+    activeMembers,
+    followUp,
+    notInterested,
+    notContactedUnits,
+    progressPercent,
+    status,
+    hasCanvassData: true,
+  }
+}
+
 // Export all canvass data
 export function exportCanvassData(): string {
   const state = getCanvassState()

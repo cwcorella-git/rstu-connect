@@ -161,6 +161,7 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
       <BuildingUsersSection
         buildingId={building.apn}
         buildingAddress={buildingAddress}
+        totalUnits={building.units}
       />
 
       {/* Issue Suggestion Modal */}

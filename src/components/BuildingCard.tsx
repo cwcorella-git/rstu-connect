@@ -3,7 +3,7 @@
 import React, { useMemo } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { getEffectiveOrganizingPriority } from '@/lib/canvassStorage';
+import { getEffectiveOrganizingPriority, getTenantSafeProgress } from '@/lib/canvassStorage';
 
 // Property type badge configuration
 const PROPERTY_TYPE_BADGES: Record<string, { label: string; bgColor: string; textColor: string }> = {
@@ -50,6 +50,11 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
   const effectiveOrganizingPriority = useMemo(() => {
     return getEffectiveOrganizingPriority(building.organizingPriority, building.chatSlug);
   }, [building.organizingPriority, building.chatSlug]);
+
+  // Get organizing progress for badge display
+  const organizingProgress = useMemo(() => {
+    return getTenantSafeProgress(building.chatSlug, building.units);
+  }, [building.chatSlug, building.units]);
 
   // Determine border color: linking selection (red), linked group (orange), selected (red), none
   let borderColor = 'transparent';
@@ -125,6 +130,16 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
                 title={t('buildings.multipleProperties')}
               >
                 {t('buildings.portfolio')}
+              </span>
+            )}
+
+            {/* Organizing Progress Badge */}
+            {(organizingProgress.activeMembers > 0 || organizingProgress.contacted > 0) && (
+              <span
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-emerald-100 text-emerald-700"
+                title={`${organizingProgress.activeMembers} ${t('organizing.activeMembers')} · ${organizingProgress.contacted}/${organizingProgress.totalUnits} ${t('organizing.reached')}`}
+              >
+                👥 {organizingProgress.activeMembers} · {organizingProgress.contacted}/{organizingProgress.totalUnits}
               </span>
             )}
           </div>
