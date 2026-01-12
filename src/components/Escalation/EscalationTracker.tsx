@@ -8,7 +8,7 @@ import {
   getCasesByBuilding,
   getBuildingStats,
   getCasesNeedingAttention,
-  getSuggestedAction,
+  getEnhancedSuggestion,
 } from '@/lib/escalationStorage'
 
 interface EscalationTrackerProps {
@@ -173,7 +173,7 @@ export function EscalationTracker({
           </div>
         ) : (
           cases.map((caseData) => {
-            const suggestion = getSuggestedAction(caseData)
+            const suggestion = getEnhancedSuggestion(caseData, { includeBuildingHistory: false, includeLandlordPattern: false })
             const deadline = getDeadlineStatus(caseData)
             const needsAttention = attentionCases.some(c => c.id === caseData.id)
 
@@ -217,7 +217,7 @@ export function EscalationTracker({
                         : `${caseData.affectedUnits.length} units affected`}
                     </p>
 
-                    {/* Deadline & Suggestion */}
+                    {/* Deadline & Time in Stage */}
                     <div className="flex items-center gap-3 mt-2 text-xs">
                       {deadline && (
                         <span className={deadline.color}>
@@ -225,17 +225,24 @@ export function EscalationTracker({
                         </span>
                       )}
                       <span className="text-gray-400">
-                        Updated {formatTimeAgo(caseData.updatedAt)}
+                        Day {suggestion.daysInCurrentStage} • Updated {formatTimeAgo(caseData.updatedAt)}
                       </span>
                     </div>
 
-                    {/* Suggested Action */}
+                    {/* Enhanced Suggested Action */}
                     {caseData.stage !== 'resolved' && (
-                      <div className={`mt-2 text-xs flex items-center gap-1 ${
-                        suggestion.urgent ? 'text-red-600 font-medium' : 'text-blue-600'
+                      <div className={`mt-2 text-xs flex items-center gap-2 ${
+                        suggestion.urgent ? 'text-red-600 font-medium' :
+                        suggestion.confidence === 'high' ? 'text-green-600' :
+                        'text-blue-600'
                       }`}>
-                        <span>→</span>
+                        <span>{suggestion.urgent ? '🚨' : suggestion.confidence === 'high' ? '✓' : '→'}</span>
                         <span>{suggestion.action}</span>
+                        {suggestion.confidence === 'high' && !suggestion.urgent && (
+                          <span className="text-xs px-1 py-0.5 bg-green-100 text-green-700 rounded">
+                            recommended
+                          </span>
+                        )}
                       </div>
                     )}
 

@@ -199,15 +199,102 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
         </div>
       )}
 
-      {/* Suggested Action */}
+      {/* Enhanced Suggested Action */}
       {caseData.stage !== 'resolved' && (
-        <div className={`px-4 py-3 flex-shrink-0 ${
-          suggestion.urgent ? 'bg-red-50 border-b border-red-100' : 'bg-green-50 border-b border-green-100'
+        <div className={`px-4 py-3 flex-shrink-0 border-b ${
+          suggestion.urgent ? 'bg-red-50 border-red-100' :
+          suggestion.confidence === 'high' ? 'bg-green-50 border-green-100' :
+          'bg-blue-50 border-blue-100'
         }`}>
-          <p className={`text-sm font-medium ${suggestion.urgent ? 'text-red-700' : 'text-green-700'}`}>
-            → {suggestion.action}
-          </p>
-          <p className="text-xs text-gray-600 mt-0.5">{suggestion.reason}</p>
+          {/* Main suggestion */}
+          <div className="flex items-start gap-2">
+            <span className={`text-lg ${suggestion.urgent ? 'animate-pulse' : ''}`}>
+              {suggestion.urgent ? '🚨' : suggestion.confidence === 'high' ? '✓' : '→'}
+            </span>
+            <div className="flex-1">
+              <p className={`text-sm font-medium ${
+                suggestion.urgent ? 'text-red-700' :
+                suggestion.confidence === 'high' ? 'text-green-700' :
+                'text-blue-700'
+              }`}>
+                {suggestion.action}
+              </p>
+              <p className="text-xs text-gray-600 mt-0.5">{suggestion.reason}</p>
+
+              {/* Confidence badge */}
+              <div className="flex items-center gap-2 mt-1.5">
+                <span className={`text-xs px-1.5 py-0.5 rounded ${
+                  suggestion.confidence === 'high' ? 'bg-green-200 text-green-800' :
+                  suggestion.confidence === 'medium' ? 'bg-yellow-200 text-yellow-800' :
+                  'bg-gray-200 text-gray-700'
+                }`}>
+                  {suggestion.confidence} confidence
+                </span>
+                <span className="text-xs text-gray-500">
+                  Day {suggestion.daysInCurrentStage} in stage
+                </span>
+              </div>
+
+              {/* Based on context */}
+              {suggestion.basedOn.length > 1 && (
+                <div className="mt-2 text-xs text-gray-500">
+                  <span className="font-medium">Based on: </span>
+                  {suggestion.basedOn.slice(0, 3).map((source, i) => (
+                    <span key={i}>
+                      {i > 0 && ' • '}
+                      {source.type === 'building_history' && `🏠 ${source.detail}`}
+                      {source.type === 'landlord_pattern' && `👤 ${source.detail}`}
+                      {source.type === 'time' && `⏱️ ${source.detail}`}
+                      {source.type === 'severity' && `⚠️ ${source.detail}`}
+                      {source.type === 'stage' && source.detail !== `Current stage: ${caseData.stage}` && `📍 ${source.detail}`}
+                    </span>
+                  )).filter(Boolean)}
+                </div>
+              )}
+            </div>
+          </div>
+
+          {/* Alternative actions */}
+          {suggestion.alternativeActions && suggestion.alternativeActions.length > 0 && (
+            <div className="mt-3 pt-2 border-t border-gray-200">
+              <p className="text-xs font-medium text-gray-600 mb-1.5">Also consider:</p>
+              <div className="flex flex-wrap gap-2">
+                {suggestion.alternativeActions.map((alt, i) => (
+                  <button
+                    key={i}
+                    className="text-xs px-2 py-1 bg-white border border-gray-300 rounded hover:bg-gray-50 text-gray-700"
+                    title={alt.reason}
+                  >
+                    {alt.action}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* Building & Landlord Context */}
+      {(buildingHistory.totalCases > 0 || landlordPattern.totalCases > 0) && caseData.stage !== 'resolved' && (
+        <div className="px-4 py-2 bg-gray-50 border-b border-gray-100 flex-shrink-0">
+          <div className="flex flex-wrap gap-3 text-xs">
+            {buildingHistory.totalCases > 0 && (
+              <span className="text-gray-600">
+                🏠 Building: {buildingHistory.victories}/{buildingHistory.totalCases} wins
+                {buildingHistory.winRate > 0 && ` (${Math.round(buildingHistory.winRate * 100)}%)`}
+              </span>
+            )}
+            {landlordPattern.totalCases > 0 && landlordPattern.typicalBehavior !== 'unknown' && (
+              <span className={`${
+                landlordPattern.typicalBehavior === 'hostile' ? 'text-red-600' :
+                landlordPattern.typicalBehavior === 'ignores_until_pressure' ? 'text-orange-600' :
+                landlordPattern.typicalBehavior === 'slow' ? 'text-yellow-600' :
+                'text-green-600'
+              }`}>
+                👤 Landlord: {landlordPattern.typicalBehavior.replace(/_/g, ' ')}
+              </span>
+            )}
+          </div>
         </div>
       )}
 
