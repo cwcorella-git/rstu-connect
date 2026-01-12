@@ -5,7 +5,7 @@ import { useEditMode } from '@/contexts/EditModeContext'
 
 /**
  * EditModeIndicator - Shows a status bar when edit mode is active
- * Also handles access code and token setup
+ * Also handles GitHub token setup for saving changes
  */
 export function EditModeIndicator() {
   const {
@@ -14,83 +14,13 @@ export function EditModeIndicator() {
     error,
     currentLanguage,
     needsTokenSetup,
-    needsAccessCode,
     isValidatingToken,
     exitEditMode,
     submitToken,
-    submitAccessCode,
     clearToken,
   } = useEditMode()
 
   const [tokenInput, setTokenInput] = useState('')
-  const [accessCodeInput, setAccessCodeInput] = useState('')
-
-  // Access code prompt (shown when Ctrl+Shift+E is pressed)
-  if (needsAccessCode) {
-    const handleAccessCodeSubmit = () => {
-      if (!accessCodeInput.trim()) return
-      const success = submitAccessCode(accessCodeInput.trim())
-      if (success) {
-        setAccessCodeInput('')
-      }
-    }
-
-    const handleAccessCodeKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
-      if (e.key === 'Enter') {
-        handleAccessCodeSubmit()
-      }
-    }
-
-    return (
-      <div className="fixed inset-0 z-50 bg-black bg-opacity-50 flex items-center justify-center p-4">
-        <div className="bg-white rounded-lg shadow-2xl max-w-sm w-full p-6">
-          <h2 className="text-xl font-bold text-gray-900 mb-2">
-            Edit Mode Access
-          </h2>
-          <p className="text-sm text-gray-600 mb-4">
-            Enter the access code to enable translation editing.
-          </p>
-
-          <div className="mb-4">
-            <input
-              type="password"
-              value={accessCodeInput}
-              onChange={e => setAccessCodeInput(e.target.value)}
-              onKeyDown={handleAccessCodeKeyDown}
-              placeholder="Access code"
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
-              autoFocus
-            />
-          </div>
-
-          {error && (
-            <div className="mb-4 p-3 bg-red-50 border border-red-200 rounded text-sm text-red-700">
-              {error}
-            </div>
-          )}
-
-          <div className="flex justify-end gap-2">
-            <button
-              onClick={() => {
-                setAccessCodeInput('')
-                exitEditMode()
-              }}
-              className="px-4 py-2 text-sm text-gray-600 hover:text-gray-800"
-            >
-              Cancel
-            </button>
-            <button
-              onClick={handleAccessCodeSubmit}
-              disabled={!accessCodeInput.trim()}
-              className="px-4 py-2 text-sm bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-              Enter
-            </button>
-          </div>
-        </div>
-      </div>
-    )
-  }
 
   if (!isEditMode) return null
 

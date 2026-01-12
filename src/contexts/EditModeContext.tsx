@@ -3,13 +3,9 @@
 import { createContext, useContext, useState, useEffect, ReactNode, useCallback } from 'react'
 import { isAdmin } from '@/lib/profileStorage'
 import { useLanguage } from './LanguageContext'
-import { isGitHubConfigured, getStoredToken, setStoredToken, clearStoredToken, validateToken } from '@/lib/githubService'
+import { isGitHubConfigured, setStoredToken, clearStoredToken, validateToken } from '@/lib/githubService'
 
 export type SaveStatus = 'idle' | 'saving' | 'success' | 'error'
-
-// Access code for edit mode (requires admin + this code)
-// Can be overridden via environment variable
-const EDIT_ACCESS_CODE = process.env.NEXT_PUBLIC_EDIT_ACCESS_CODE || 'rstuEd1t!'
 
 interface EditModeContextType {
   isEditMode: boolean
@@ -19,21 +15,16 @@ interface EditModeContextType {
   currentLanguage: string
   needsTokenSetup: boolean
   isValidatingToken: boolean
-  needsAccessCode: boolean
   setEditingKey: (key: string | null) => void
   setSaveStatus: (status: SaveStatus) => void
   setError: (error: string | null) => void
   toggleEditMode: () => void
   exitEditMode: () => void
   submitToken: (token: string) => Promise<boolean>
-  submitAccessCode: (code: string) => boolean
   clearToken: () => void
 }
 
 const EditModeContext = createContext<EditModeContextType | null>(null)
-
-// Storage key for remembering edit access
-const EDIT_ACCESS_KEY = 'rstu_edit_access'
 
 export function EditModeProvider({ children }: { children: ReactNode }) {
   const [isEditMode, setIsEditMode] = useState(false)
@@ -41,21 +32,8 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
   const [saveStatus, setSaveStatus] = useState<SaveStatus>('idle')
   const [error, setError] = useState<string | null>(null)
   const [needsTokenSetup, setNeedsTokenSetup] = useState(false)
-  const [needsAccessCode, setNeedsAccessCode] = useState(false)
   const [isValidatingToken, setIsValidatingToken] = useState(false)
   const { locale } = useLanguage()
-
-  // Check if user has previously authenticated for edit access (session-based)
-  const hasEditAccess = useCallback(() => {
-    if (typeof window === 'undefined') return false
-    return sessionStorage.getItem(EDIT_ACCESS_KEY) === 'true'
-  }, [])
-
-  // Grant edit access for this session
-  const grantEditAccess = useCallback(() => {
-    if (typeof window === 'undefined') return
-    sessionStorage.setItem(EDIT_ACCESS_KEY, 'true')
-  }, [])
 
   // Check if token is configured when entering edit mode
   const checkTokenSetup = useCallback(() => {
@@ -63,26 +41,6 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
     setNeedsTokenSetup(!hasToken)
     return hasToken
   }, [])
-
-  // Submit access code to enter edit mode (requires admin + correct code)
-  const submitAccessCode = useCallback((code: string): boolean => {
-    // Double-check admin status
-    if (!isAdmin()) {
-      setError('Admin access required for edit mode')
-      return false
-    }
-    if (code === EDIT_ACCESS_CODE) {
-      grantEditAccess()
-      setNeedsAccessCode(false)
-      setIsEditMode(true)
-      setError(null)
-      checkTokenSetup()
-      return true
-    } else {
-      setError('Invalid access code')
-      return false
-    }
-  }, [grantEditAccess, checkTokenSetup])
 
   const toggleEditMode = useCallback(() => {
     if (isEditMode) {
@@ -92,24 +50,16 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
       setSaveStatus('idle')
       setError(null)
       setNeedsTokenSetup(false)
-      setNeedsAccessCode(false)
     } else {
-      // Entering edit mode - require admin status first
+      // Entering edit mode - require admin status
       if (!isAdmin()) {
-        setError('Admin access required for edit mode')
-        setNeedsAccessCode(true) // Show prompt with error
+        // Silently ignore non-admins
         return
       }
-      // Check if already authenticated this session
-      if (hasEditAccess()) {
-        setIsEditMode(true)
-        checkTokenSetup()
-      } else {
-        // Need to prompt for access code
-        setNeedsAccessCode(true)
-      }
+      setIsEditMode(true)
+      checkTokenSetup()
     }
-  }, [isEditMode, hasEditAccess, checkTokenSetup])
+  }, [isEditMode, checkTokenSetup])
 
   const exitEditMode = useCallback(() => {
     setIsEditMode(false)
@@ -117,7 +67,6 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
     setSaveStatus('idle')
     setError(null)
     setNeedsTokenSetup(false)
-    setNeedsAccessCode(false)
   }, [])
 
   const submitToken = useCallback(async (token: string): Promise<boolean> => {
@@ -154,19 +103,14 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
         e.preventDefault()
         toggleEditMode()
       }
-      // Handle Escape to close access code prompt
-      if (e.key === 'Escape' && needsAccessCode) {
-        setNeedsAccessCode(false)
-        setError(null)
-      }
-      // Also handle global Escape to exit edit mode
+      // Handle global Escape to exit edit mode
       if (e.key === 'Escape' && isEditMode && !editingKey && !needsTokenSetup) {
         exitEditMode()
       }
     }
     window.addEventListener('keydown', handleKeyDown)
     return () => window.removeEventListener('keydown', handleKeyDown)
-  }, [toggleEditMode, exitEditMode, isEditMode, editingKey, needsTokenSetup, needsAccessCode])
+  }, [toggleEditMode, exitEditMode, isEditMode, editingKey, needsTokenSetup])
 
   // Clear success status after delay
   useEffect(() => {
@@ -186,14 +130,12 @@ export function EditModeProvider({ children }: { children: ReactNode }) {
         currentLanguage: locale,
         needsTokenSetup,
         isValidatingToken,
-        needsAccessCode,
         setEditingKey,
         setSaveStatus,
         setError,
         toggleEditMode,
         exitEditMode,
         submitToken,
-        submitAccessCode,
         clearToken,
       }}
     >

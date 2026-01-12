@@ -22,8 +22,12 @@ import {
   getBuildingHistory,
   getLandlordPattern,
   getCaseById,
+  shouldSuggestStrike,
+  getActiveCases,
 } from '@/lib/escalationStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
+import { getStrikeForBuilding } from '@/lib/strikeStorage'
+import { StrikeEscalationPanel } from './StrikeEscalationPanel'
 
 interface EscalationDetailProps {
   caseData: EscalationCase
@@ -295,6 +299,18 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
               </span>
             )}
           </div>
+        </div>
+      )}
+
+      {/* Strike Escalation Panel - shows when conditions are met or case is linked to strike */}
+      {caseData.stage !== 'resolved' && (shouldSuggestStrike(caseData.buildingId) || caseData.strikePreparationId || getStrikeForBuilding(caseData.buildingId)) && (
+        <div className="px-4 py-2 flex-shrink-0">
+          <StrikeEscalationPanel
+            buildingId={caseData.buildingId}
+            buildingAddress={caseData.buildingAddress}
+            linkedCases={getActiveCases(caseData.buildingId)}
+            onStrikeCreated={refreshCase}
+          />
         </div>
       )}
 

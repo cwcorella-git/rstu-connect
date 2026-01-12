@@ -21,6 +21,7 @@ import {
 } from '@/lib/supabase';
 import { buildLandlordProfile } from '@/lib/landlordProfileStorage';
 import { LandlordPortfolioSlideout } from './LandlordPortfolioSlideout';
+import { useBuildingCampaign } from '@/hooks/useBuildingCampaign';
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord';
@@ -164,6 +165,9 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
     if (!allBuildings || allBuildings.length === 0) return null;
     return buildLandlordProfile(activeBuilding.owner, allBuildings);
   }, [activeBuilding.owner, allBuildings]);
+
+  // Get campaign info for this building
+  const { campaignInfo } = useBuildingCampaign(activeBuilding.chatSlug);
 
   useEffect(() => {
     setIsOrganizer(canAccessTools());
@@ -541,6 +545,115 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
                 <p className="text-xs text-gray-600 mt-1">
                   Corporate-owned property (higher organizing potential)
                 </p>
+              )}
+            </div>
+          </>
+        )}
+
+        {/* Campaign Status Section */}
+        {campaignInfo.isActive && campaignInfo.campaign && (
+          <>
+            <SectionHeader title="Campaign Status" />
+            <div className={`border rounded-lg p-3 mb-4 ${
+              campaignInfo.campaign.stage === 'active'
+                ? 'border-red-300 bg-red-50'
+                : 'border-amber-300 bg-amber-50'
+            }`}>
+              <div className="flex items-center justify-between mb-2">
+                <span className={`text-sm font-semibold ${
+                  campaignInfo.campaign.stage === 'active' ? 'text-red-900' : 'text-amber-900'
+                }`}>
+                  {campaignInfo.campaign.name}
+                </span>
+                <span className={`text-xs font-medium px-2 py-0.5 rounded ${
+                  campaignInfo.campaign.stage === 'active'
+                    ? 'bg-red-200 text-red-800'
+                    : 'bg-amber-200 text-amber-800'
+                }`}>
+                  {campaignInfo.stageName}
+                </span>
+              </div>
+
+              {/* Progress bar */}
+              <div className="mb-3">
+                <div className="w-full h-1.5 bg-gray-200 rounded-full overflow-hidden">
+                  <div
+                    className={`h-full rounded-full ${
+                      campaignInfo.campaign.stage === 'active' ? 'bg-red-500' : 'bg-amber-500'
+                    }`}
+                    style={{ width: `${campaignInfo.stageProgress}%` }}
+                  />
+                </div>
+                <div className={`text-xs mt-1 ${
+                  campaignInfo.campaign.stage === 'active' ? 'text-red-700' : 'text-amber-700'
+                }`}>
+                  Stage progress: {campaignInfo.stageProgress}%
+                </div>
+              </div>
+
+              {/* Stats */}
+              <div className="grid grid-cols-2 gap-2 text-xs">
+                {campaignInfo.campaign.estimatedUnits && campaignInfo.campaign.estimatedUnits > 0 && (
+                  <div className="bg-white/50 rounded px-2 py-1.5">
+                    <span className={campaignInfo.campaign.stage === 'active' ? 'text-red-700' : 'text-amber-700'}>
+                      Committed:{' '}
+                    </span>
+                    <span className="font-medium">
+                      {campaignInfo.campaign.participatingUnits || 0}/{campaignInfo.campaign.estimatedUnits}
+                    </span>
+                    <span className="text-gray-500 ml-1">({campaignInfo.participationRate}%)</span>
+                  </div>
+                )}
+                {campaignInfo.monthlyRentAtRisk > 0 && (
+                  <div className="bg-white/50 rounded px-2 py-1.5">
+                    <span className={campaignInfo.campaign.stage === 'active' ? 'text-red-700' : 'text-amber-700'}>
+                      At risk:{' '}
+                    </span>
+                    <span className="font-medium">
+                      ${campaignInfo.monthlyRentAtRisk.toLocaleString()}/mo
+                    </span>
+                  </div>
+                )}
+              </div>
+
+              {/* Dates */}
+              <div className={`flex flex-wrap gap-3 mt-2 text-xs ${
+                campaignInfo.campaign.stage === 'active' ? 'text-red-600' : 'text-amber-600'
+              }`}>
+                <span>Started: {new Date(campaignInfo.campaign.startDate).toLocaleDateString()}</span>
+                {campaignInfo.campaign.targetDate && (
+                  <span>Target: {new Date(campaignInfo.campaign.targetDate).toLocaleDateString()}</span>
+                )}
+              </div>
+
+              {/* Demands summary */}
+              {campaignInfo.demandsProgress.total > 0 && (
+                <div className={`mt-2 text-xs ${
+                  campaignInfo.campaign.stage === 'active' ? 'text-red-700' : 'text-amber-700'
+                }`}>
+                  Demands: {campaignInfo.demandsProgress.won} won · {campaignInfo.demandsProgress.pending} pending
+                  {campaignInfo.demandsProgress.lost > 0 && ` · ${campaignInfo.demandsProgress.lost} lost`}
+                </div>
+              )}
+
+              {/* Next Action */}
+              {campaignInfo.nextAction && (
+                <div className="mt-2 pt-2 border-t border-white/30">
+                  <div className={`text-xs font-medium ${
+                    campaignInfo.campaign.stage === 'active' ? 'text-red-800' : 'text-amber-800'
+                  }`}>
+                    Next: {campaignInfo.nextAction.text}
+                  </div>
+                  {(campaignInfo.nextAction.date || campaignInfo.nextAction.assignee) && (
+                    <div className={`text-xs mt-0.5 ${
+                      campaignInfo.campaign.stage === 'active' ? 'text-red-600' : 'text-amber-600'
+                    }`}>
+                      {campaignInfo.nextAction.date && `Due: ${new Date(campaignInfo.nextAction.date).toLocaleDateString()}`}
+                      {campaignInfo.nextAction.date && campaignInfo.nextAction.assignee && ' · '}
+                      {campaignInfo.nextAction.assignee && `Assigned: ${campaignInfo.nextAction.assignee}`}
+                    </div>
+                  )}
+                </div>
               )}
             </div>
           </>

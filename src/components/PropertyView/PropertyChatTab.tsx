@@ -9,6 +9,7 @@ import { IssuesPanel } from '@/components/Chat/IssuesPanel'
 import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
 import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
 import { BlocFormationProposalBanner } from '@/components/Chat/BlocFormationProposalBanner'
+import { CampaignStatusBanner } from '@/components/Chat/CampaignStatusBanner'
 import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
@@ -38,6 +39,7 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
   // Modal states
   const [showIssueModal, setShowIssueModal] = useState(false)
   const [showIssuesPanel, setShowIssuesPanel] = useState(false)
+  const [issuesPanelInitialTab, setIssuesPanelInitialTab] = useState<'issues' | 'governance' | 'campaign'>('issues')
   const [showVoteModal, setShowVoteModal] = useState(false)
   const [showBlocFormation, setShowBlocFormation] = useState(false)
   const [showBlocJoin, setShowBlocJoin] = useState(false)
@@ -131,6 +133,17 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
         />
       </div>
 
+      {/* Campaign Status Banner */}
+      <div className="flex-shrink-0 px-4 pt-2">
+        <CampaignStatusBanner
+          chatSlug={chatSlug}
+          onViewDetails={() => {
+            setIssuesPanelInitialTab('campaign')
+            setShowIssuesPanel(true)
+          }}
+        />
+      </div>
+
       {/* Messages area */}
       <div className="flex-1 overflow-hidden">
         <MessageList
@@ -154,7 +167,14 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
         issuesCount={issuesCount}
         activeVotesCount={activeVotesCount}
         onSelectProposal={handleProposalSelect}
-        onViewIssues={() => setShowIssuesPanel(true)}
+        onViewIssues={() => {
+          setIssuesPanelInitialTab('issues')
+          setShowIssuesPanel(true)
+        }}
+        onViewCampaign={() => {
+          setIssuesPanelInitialTab('campaign')
+          setShowIssuesPanel(true)
+        }}
       />
 
       {/* Building Users Section */}
@@ -177,6 +197,7 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
       {showIssuesPanel && (
         <IssuesPanel
           building={building}
+          initialTab={issuesPanelInitialTab}
           onClose={() => setShowIssuesPanel(false)}
         />
       )}

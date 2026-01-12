@@ -128,6 +128,9 @@ export interface EscalationCase {
     addedBy: string
   }>
 
+  // Strike integration
+  strikePreparationId?: string  // Links to a strike preparation if escalated to collective action
+
   // Metadata
   createdAt: number
   updatedAt: number
@@ -1506,4 +1509,78 @@ export function getAllSuggestions(caseData: EscalationCase): EnhancedSuggestion[
   }
 
   return suggestions
+}
+
+// ============================================================================
+// Strike Integration
+// ============================================================================
+
+/**
+ * Determine if a building should be suggested for rent strike preparation
+ * Conditions:
+ * - 3+ active (non-resolved) escalation cases
+ * - Landlord pattern is "ignores_until_pressure" or "hostile"
+ * - OR: Any case has been in "awaiting" or "escalating" stage for 30+ days
+ */
+export function shouldSuggestStrike(buildingId: string): boolean {
+  const activeCases = getActiveCases(buildingId)
+
+  // Need at least 3 active cases
+  if (activeCases.length < 3) {
+    return false
+  }
+
+  // Check landlord pattern
+  if (activeCases.length > 0) {
+    const landlordPattern = getLandlordPattern(activeCases[0].buildingAddress)
+    if (
+      landlordPattern.typicalBehavior === 'ignores_until_pressure' ||
+      landlordPattern.typicalBehavior === 'hostile'
+    ) {
+      return true
+    }
+  }
+
+  // Check if any case has been stuck in advanced stages for 30+ days
+  for (const c of activeCases) {
+    if (c.stage === 'awaiting' || c.stage === 'escalating') {
+      const daysInStage = Math.ceil((Date.now() - c.updatedAt) / DAY_MS)
+      if (daysInStage >= 30) {
+        return true
+      }
+    }
+  }
+
+  return false
+}
+
+/**
+ * Link an escalation case to a strike preparation
+ */
+export function linkCaseToStrike(caseId: string, strikePreparationId: string): EscalationCase | null {
+  addTimelineEvent(caseId, {
+    type: 'note',
+    description: `Case linked to rent strike preparation`,
+  })
+
+  return updateCase(caseId, { strikePreparationId })
+}
+
+/**
+ * Unlink an escalation case from a strike preparation
+ */
+export function unlinkCaseFromStrike(caseId: string): EscalationCase | null {
+  addTimelineEvent(caseId, {
+    type: 'note',
+    description: `Case unlinked from rent strike preparation`,
+  })
+
+  return updateCase(caseId, { strikePreparationId: undefined })
+}
+
+/**
+ * Get all cases linked to a strike preparation
+ */
+export function getCasesForStrike(strikePreparationId: string): EscalationCase[] {
+  return getAllCases().filter(c => c.strikePreparationId === strikePreparationId)
 }

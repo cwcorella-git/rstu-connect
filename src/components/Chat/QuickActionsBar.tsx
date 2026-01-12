@@ -1,5 +1,7 @@
 'use client'
 
+import { useBuildingCampaign } from '@/hooks/useBuildingCampaign'
+import { useLanguage } from '@/contexts/LanguageContext'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import type { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 
@@ -15,17 +17,19 @@ interface QuickActionsBarProps {
   activeVotesCount: number
   onSelectProposal: (type: ProposalType) => void
   onViewIssues: () => void
+  onViewCampaign?: () => void
 }
 
 interface ActionConfig {
-  type: ProposalType | 'view-issues'
+  type: ProposalType | 'view-issues' | 'view-campaign'
   label: string
-  condition?: 'bloc-only'
+  condition?: 'bloc-only' | 'has-campaign'
 }
 
 const ACTIONS: ActionConfig[] = [
   { type: 'report-issue', label: 'Report Issue' },
   { type: 'view-issues', label: 'View Issues' },
+  { type: 'view-campaign', label: 'Campaign', condition: 'has-campaign' },
   { type: 'report-eviction', label: 'Report Eviction' },
   { type: 'start-vote', label: 'Start Bloc Vote', condition: 'bloc-only' },
 ]
@@ -37,18 +41,25 @@ export function QuickActionsBar({
   activeVotesCount,
   onSelectProposal,
   onViewIssues,
+  onViewCampaign,
 }: QuickActionsBarProps) {
+  const { t } = useLanguage()
+  const { campaignInfo } = useBuildingCampaign(building.chatSlug)
+
   const handleActionClick = (type: string) => {
     if (type === 'view-issues') {
       onViewIssues()
+    } else if (type === 'view-campaign') {
+      onViewCampaign?.()
     } else {
       onSelectProposal(type as ProposalType)
     }
   }
 
-  // Filter out bloc-only actions when not in a bloc
+  // Filter out conditional actions
   const visibleActions = ACTIONS.filter(action => {
     if (action.condition === 'bloc-only' && !propertyGroup) return false
+    if (action.condition === 'has-campaign' && !campaignInfo.isActive) return false
     return true
   })
 
@@ -56,18 +67,33 @@ export function QuickActionsBar({
     <div className="px-4 py-3 border-t border-gray-200 bg-gray-50">
       {/* Action Buttons - Outlined Style */}
       <div className="flex flex-wrap gap-2">
-        {visibleActions.map(action => (
-          <button
-            key={action.type}
-            onClick={() => handleActionClick(action.type)}
-            className="px-2.5 py-1 text-xs font-medium text-gray-700 bg-white border border-gray-300 rounded-full hover:bg-gray-50 transition-colors"
-          >
-            {action.label}
-            {action.type === 'view-issues' && issuesCount > 0 && (
-              <span className="ml-1">({issuesCount})</span>
-            )}
-          </button>
-        ))}
+        {visibleActions.map(action => {
+          // Special styling for campaign button
+          const isCampaign = action.type === 'view-campaign'
+          const isActiveStrike = isCampaign && campaignInfo.campaign?.stage === 'active'
+
+          return (
+            <button
+              key={action.type}
+              onClick={() => handleActionClick(action.type)}
+              className={`px-2.5 py-1 text-xs font-medium rounded-full transition-colors ${
+                isActiveStrike
+                  ? 'text-white bg-red-500 border border-red-500 hover:bg-red-600'
+                  : isCampaign
+                    ? 'text-amber-700 bg-amber-50 border border-amber-300 hover:bg-amber-100'
+                    : 'text-gray-700 bg-white border border-gray-300 hover:bg-gray-50'
+              }`}
+            >
+              {action.label}
+              {action.type === 'view-issues' && issuesCount > 0 && (
+                <span className="ml-1">({issuesCount})</span>
+              )}
+              {isCampaign && campaignInfo.campaign && (
+                <span className="ml-1">({campaignInfo.stageName})</span>
+              )}
+            </button>
+          )
+        })}
       </div>
 
       {/* Active Votes Indicator */}

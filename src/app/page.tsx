@@ -32,6 +32,7 @@ import { createProposal } from '@/lib/governanceStorage';
 import { runStorageHealthCheck } from '@/lib/safeStorage';
 import { useTab } from '@/contexts/TabContext';
 import { useAuth } from '@/contexts/AuthContext';
+import { useDisplay, usePanelConfig } from '@/contexts/DisplayContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
 import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
@@ -41,6 +42,11 @@ import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
 export default function Home() {
   const { activeTab, setActiveTab, markLandingAsSeen } = useTab();
   const { isAdminAuthenticated, canAccessOrganizeTab, refreshAuth } = useAuth();
+
+  // Display preferences
+  const { preferences } = useDisplay();
+  const homePanelConfig = usePanelConfig('home');
+  const readingPanelConfig = usePanelConfig('reading');
 
   // Load all properties from compressed JSON and expand to EnhancedBuilding format
   // Using client-side fetch to avoid inlining 4.1MB JSON into HTML (was creating 24MB file)
@@ -219,24 +225,15 @@ export default function Home() {
     // }
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Resizable reading list
-  const [listWidth, setListWidth] = useState<number>(40);
+  // Resizable reading list (width now from DisplayContext)
   const leftPanelRef = useRef<HTMLDivElement>(null);
   const rightPanelRef = useRef<HTMLDivElement>(null);
   const isDraggingRef = useRef(false);
   const rafRef = useRef<number>();
 
-  // Load list width from localStorage after mount
   // Run storage health check on mount
   useEffect(() => {
     runStorageHealthCheck();
-  }, []);
-
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem('rstu_reading_list_width');
-      if (saved) setListWidth(parseInt(saved));
-    }
   }, []);
 
   // Detect desktop/mobile for conditional styling
@@ -249,19 +246,16 @@ export default function Home() {
   }, []);
 
   const handleListResize = useCallback((newWidth: number) => {
-    const clamped = Math.max(25, Math.min(60, newWidth)); // Between 25% and 60%
-    setListWidth(clamped);
-    if (typeof window !== 'undefined') {
-      localStorage.setItem('rstu_reading_list_width', clamped.toString());
-    }
-  }, []);
+    const clamped = Math.max(20, Math.min(80, newWidth)); // Between 20% and 80%
+    readingPanelConfig.setWidth(clamped);
+  }, [readingPanelConfig]);
 
   // Fast resize using direct DOM manipulation
   const handleResizeStart = useCallback((e: React.MouseEvent) => {
     e.preventDefault();
     isDraggingRef.current = true;
     const startX = e.clientX;
-    const startWidth = listWidth;
+    const startWidth = readingPanelConfig.config.width;
 
     const handleMouseMove = (e: MouseEvent) => {
       if (!isDraggingRef.current) return;
@@ -301,7 +295,7 @@ export default function Home() {
 
     document.addEventListener('mousemove', handleMouseMove);
     document.addEventListener('mouseup', handleMouseUp);
-  }, [listWidth, handleListResize]);
+  }, [readingPanelConfig.config.width, handleListResize]);
 
   // Handle URL deep linking for reading documents
   useEffect(() => {
@@ -612,7 +606,10 @@ export default function Home() {
         {!isLoadingBuildings && !loadError && selectedBuilding && (
         <div className="flex flex-col md:flex-row overflow-hidden flex-1 min-h-0">
         {/* Left: Building List - hidden on mobile when property is selected */}
-        <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden`}>
+        <div
+          className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full min-h-0 h-full overflow-hidden`}
+          style={isHydrated && isDesktop && homePanelConfig.config.visible ? { flex: `0 0 ${homePanelConfig.config.width}%` } : undefined}
+        >
           <BuildingList
             buildings={buildings}
             selectedBuilding={selectedBuilding}
@@ -627,7 +624,10 @@ export default function Home() {
         </div>
 
         {/* Right: Property View with Tabs (Chat, Map, Info) - full screen on mobile with back button */}
-        <div className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full md:w-3/5 flex-col bg-white relative min-h-0 h-full overflow-hidden`}>
+        <div
+          className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full flex-col bg-white relative min-h-0 h-full overflow-hidden`}
+          style={isHydrated && isDesktop && homePanelConfig.config.visible ? { flex: `1 1 ${100 - homePanelConfig.config.width}%` } : { flex: '1 1 100%' }}
+        >
           <PropertyViewTabs
             building={selectedBuilding}
             allBuildings={buildings}
@@ -717,7 +717,7 @@ export default function Home() {
         <div
           ref={leftPanelRef}
           className={`${readingMobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col min-h-0 w-full overflow-hidden`}
-          style={isHydrated && isDesktop ? { flex: `0 0 ${listWidth}%` } : { flex: '1 1 0%' }}
+          style={isHydrated && isDesktop && readingPanelConfig.config.visible ? { flex: `0 0 ${readingPanelConfig.config.width}%` } : { flex: '1 1 0%' }}
         >
           <ReadingList
             documents={documents}
@@ -750,7 +750,7 @@ export default function Home() {
         <div
           ref={rightPanelRef}
           className={`${readingMobileView === 'content' ? 'flex' : 'hidden'} md:flex flex-col bg-white relative min-h-0 w-full overflow-hidden`}
-          style={isHydrated && isDesktop ? { flex: `1 1 ${100 - listWidth}%` } : { flex: '1 1 0%' }}
+          style={isHydrated && isDesktop && readingPanelConfig.config.visible ? { flex: `1 1 ${100 - readingPanelConfig.config.width}%` } : { flex: '1 1 0%' }}
         >
           {selectedDocument ? (
             <ReadingContent

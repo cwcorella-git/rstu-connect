@@ -23,6 +23,8 @@ import {
 } from '@/lib/buildingOrganizingStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import type { UserProfile } from '@/lib/profileStorage'
+import { CampaignPanelContent } from './CampaignPanelContent'
+import { useBuildingCampaign } from '@/hooks/useBuildingCampaign'
 import {
   getGroupProposals,
   getProposalTypeLabel,
@@ -32,7 +34,7 @@ import {
   type GovernanceProposal,
 } from '@/lib/governanceStorage'
 
-type PanelTab = 'issues' | 'governance'
+type PanelTab = 'issues' | 'governance' | 'campaign'
 
 // Inline governance content for the tab
 function GovernancePanelContent({ groupId, groupName }: { groupId: string; groupName: string }) {
@@ -212,14 +214,15 @@ function GovernancePanelContent({ groupId, groupName }: { groupId: string; group
 
 interface IssuesPanelProps {
   building: EnhancedBuilding
+  initialTab?: PanelTab
   onClose: () => void
 }
 
-export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
+export function IssuesPanel({ building, initialTab = 'issues', onClose }: IssuesPanelProps) {
   const [complaints, setComplaints] = useState<BuildingComplaint[]>([])
   const [demands, setDemands] = useState<BuildingDemand[]>([])
   const [linkedProfiles, setLinkedProfiles] = useState(0)
-  const [activeTab, setActiveTab] = useState<PanelTab>('issues')
+  const [activeTab, setActiveTab] = useState<PanelTab>(initialTab)
 
   // Client-side only state (avoid hydration mismatch)
   const [profile, setProfile] = useState<UserProfile | null>(null)
@@ -325,6 +328,16 @@ export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
                 Governance
               </button>
             )}
+            <button
+              onClick={() => setActiveTab('campaign')}
+              className={`px-3 py-1.5 text-sm rounded-lg transition ${
+                activeTab === 'campaign'
+                  ? 'bg-amber-600 text-white'
+                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              }`}
+            >
+              Campaign
+            </button>
           </div>
         </div>
 
@@ -540,8 +553,13 @@ export function IssuesPanel({ building, onClose }: IssuesPanelProps) {
             </ol>
           </div>
             </>
-          ) : propertyGroup ? (
+          ) : activeTab === 'governance' && propertyGroup ? (
             <GovernancePanelContent groupId={propertyGroup.id} groupName={propertyGroup.name} />
+          ) : activeTab === 'campaign' ? (
+            <CampaignPanelContent
+              chatSlug={building.chatSlug}
+              buildingName={building.propertyName || building.address.split(',')[0]}
+            />
           ) : null}
         </div>
 

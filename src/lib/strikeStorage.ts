@@ -9,6 +9,9 @@ export interface StrikePreparation {
   buildingChatSlug: string
   campaignId?: string
 
+  // Linked escalation cases
+  linkedEscalationIds: string[]
+
   // Legal Checklist
   legalChecklist: {
     habitabilityDocumented: boolean
@@ -145,6 +148,7 @@ export function createStrikePreparation(buildingChatSlug: string, userId: string
   const strike: StrikePreparation = {
     id,
     buildingChatSlug,
+    linkedEscalationIds: [],
     legalChecklist: {
       habitabilityDocumented: false,
       noticesSent: [],
@@ -726,4 +730,78 @@ export function getStrikeDocumentationData(strikeId: string) {
     financial: strike.financial,
     defense: strike.defense,
   }
+}
+
+// ============================================
+// Escalation Case Linking
+// ============================================
+
+/**
+ * Link an escalation case to a strike preparation
+ */
+export function linkEscalationToStrike(strikeId: string, escalationCaseId: string): boolean {
+  const strike = getStrikePreparationById(strikeId)
+  if (!strike) return false
+
+  // Don't add duplicates
+  if (strike.linkedEscalationIds.includes(escalationCaseId)) {
+    return true
+  }
+
+  const state = getStrikeState()
+  state.strikes[strikeId] = {
+    ...strike,
+    linkedEscalationIds: [...strike.linkedEscalationIds, escalationCaseId],
+    updatedAt: new Date().toISOString(),
+  }
+  saveStrikeState(state)
+  return true
+}
+
+/**
+ * Unlink an escalation case from a strike preparation
+ */
+export function unlinkEscalationFromStrike(strikeId: string, escalationCaseId: string): boolean {
+  const strike = getStrikePreparationById(strikeId)
+  if (!strike) return false
+
+  const state = getStrikeState()
+  state.strikes[strikeId] = {
+    ...strike,
+    linkedEscalationIds: strike.linkedEscalationIds.filter(id => id !== escalationCaseId),
+    updatedAt: new Date().toISOString(),
+  }
+  saveStrikeState(state)
+  return true
+}
+
+/**
+ * Get active strike for a building (most recent non-abandoned)
+ */
+export function getStrikeForBuilding(buildingChatSlug: string): StrikePreparation | null {
+  const strikes = getBuildingStrikes(buildingChatSlug)
+  // Return the most recent active strike (not in 'active' stage which means strike has started)
+  const active = strikes
+    .filter(s => s.stage !== 'active') // Filter out already-started strikes
+    .sort((a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime())
+
+  return active[0] || null
+}
+
+/**
+ * Create a strike preparation and link existing escalation cases
+ */
+export function createStrikeFromEscalations(
+  buildingChatSlug: string,
+  userId: string,
+  escalationCaseIds: string[]
+): StrikePreparation {
+  const strike = createStrikePreparation(buildingChatSlug, userId)
+
+  // Link all provided escalation cases
+  for (const caseId of escalationCaseIds) {
+    linkEscalationToStrike(strike.id, caseId)
+  }
+
+  return getStrikePreparationById(strike.id) || strike
 }

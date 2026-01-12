@@ -5,8 +5,10 @@ import { AuthProvider } from '@/contexts/AuthContext'
 import { TabProvider, useTab } from '@/contexts/TabContext'
 import { LanguageProvider, useLanguage } from '@/contexts/LanguageContext'
 import { EditModeProvider } from '@/contexts/EditModeContext'
+import { DisplayProvider } from '@/contexts/DisplayContext'
 import { Navigation } from '@/components/Navigation'
 import { LanguageSelector } from '@/components/LanguageSelector'
+import { QuickSwitcher } from '@/components/Display'
 import { VersionFooter } from '@/components/VersionFooter'
 import { EditModeIndicator } from '@/components/EditMode'
 import { Footer } from '@/components/Footer'
@@ -32,6 +34,7 @@ function Header() {
             </span>
           </button>
           <div className="flex items-center gap-2">
+            <QuickSwitcher />
             <LanguageSelector />
             <Navigation />
           </div>
@@ -44,6 +47,7 @@ function Header() {
 export function ClientLayout({ children }: { children: ReactNode }) {
   return (
     <LanguageProvider>
+    <DisplayProvider>
     <EditModeProvider>
     <AuthProvider>
     <TabProvider>
@@ -68,6 +72,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
     </TabProvider>
     </AuthProvider>
     </EditModeProvider>
+    </DisplayProvider>
     </LanguageProvider>
   )
 }
