@@ -1,8 +1,8 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { validateInviteCodeAsync } from '@/lib/profileStorage';
-import { sanitizeInviteCode } from '../utils';
+import { sanitizeInviteCode, getInviteCodeFromUrl } from '../utils';
 import type { OnboardingFormData } from '../types';
 
 interface StepWelcomeProps {
@@ -16,6 +16,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
   const [isValidating, setIsValidating] = useState(false);
   const [validationResult, setValidationResult] = useState<any>(null);
   const [hasAttempted, setHasAttempted] = useState(false);
+  const hasAutoValidated = useRef(false);
 
   // Handle invite code validation
   const handleValidateInvite = async () => {
@@ -62,6 +63,54 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
     const sanitized = sanitizeInviteCode(value);
     setLocalInviteCode(sanitized);
   };
+
+  // Sync localInviteCode when formData changes (e.g., from URL params)
+  useEffect(() => {
+    if (formData.inviteCode && formData.inviteCode !== localInviteCode) {
+      setLocalInviteCode(formData.inviteCode);
+    }
+  }, [formData.inviteCode]);
+
+  // Auto-validate if invite code came from URL (runs once on mount)
+  useEffect(() => {
+    // Only auto-validate once
+    if (hasAutoValidated.current) return;
+
+    const urlInviteCode = getInviteCodeFromUrl();
+    // Auto-validate if URL has invite code and it matches formData
+    if (urlInviteCode && formData.inviteCode === urlInviteCode) {
+      hasAutoValidated.current = true;
+
+      // Validate directly with the URL invite code (don't rely on localInviteCode state)
+      const validateUrlInvite = async () => {
+        setIsValidating(true);
+        setHasAttempted(true);
+
+        try {
+          const result = await validateInviteCodeAsync(urlInviteCode);
+          setValidationResult(result);
+
+          if (result.valid) {
+            onFormDataChange({
+              ...formData,
+              inviteCode: urlInviteCode,
+            });
+            onInviteValidation({ valid: true });
+          } else {
+            onInviteValidation({ valid: false, error: result.error });
+          }
+        } catch (err) {
+          const message = err instanceof Error ? err.message : 'Failed to validate invite code';
+          onInviteValidation({ valid: false, error: message });
+          setValidationResult({ valid: false, error: message });
+        } finally {
+          setIsValidating(false);
+        }
+      };
+
+      validateUrlInvite();
+    }
+  }, [formData.inviteCode]);
 
   return (
     <div className="space-y-6">

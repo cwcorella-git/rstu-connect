@@ -23,7 +23,6 @@ import { syncProfileToSupabase, USE_SUPABASE } from '@/lib/supabase'
 import { useUnreadCount } from '@/hooks/useDirectMessages'
 import { MessageHub } from '@/components/Messages/MessageHub'
 import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'
-import { ProfileCreate } from './ProfileCreate'
 import { ProfileEditor, type ProfileEditorHandle } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
 import { LoginForm } from './LoginForm'
@@ -47,7 +46,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [profile, setProfile] = useState<UserProfile | null>(null)
   const [storedProfiles, setStoredProfiles] = useState<UserProfile[]>([])
   const [loading, setLoading] = useState(true)
-  const [showCreate, setShowCreate] = useState(false)
   const [showEdit, setShowEdit] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
   const [showSettings, setShowSettings] = useState(false)
@@ -96,15 +94,15 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
 
     // If there's an invite code or create-profile action AND user is NOT logged in
     if ((inviteCode || action === 'create-profile') && !profile) {
-      // Show ProfileCreate component to let them create an account
-      // The invite code will be parsed and auto-filled by ProfileCreate
-      setShowCreate(true)
+      // Show the onboarding wizard (not legacy ProfileCreate)
+      // The invite code will be parsed and auto-filled by the wizard
+      setShowWizard(true)
     }
   }, [profile])
 
   const handleProfileCreated = (newProfile: UserProfile) => {
     setProfile(newProfile)
-    setShowCreate(false)
+    setShowWizard(false)
     refreshAuth() // Update nav immediately
   }
 
@@ -182,24 +180,13 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     )
   }
 
-  // Show onboarding wizard (mobile-first, replaces old ProfileCreate for new users)
+  // Show onboarding wizard
   if (showWizard) {
     return (
       <ProfileOnboardingWizard
         buildings={buildings}
         onProfileCreated={handleProfileCreated}
         onCancel={() => setShowWizard(false)}
-      />
-    )
-  }
-
-  // Show create flow (legacy fallback)
-  if (showCreate) {
-    return (
-      <ProfileCreate
-        buildings={buildings}
-        onProfileCreated={handleProfileCreated}
-        onCancel={() => setShowCreate(false)}
       />
     )
   }

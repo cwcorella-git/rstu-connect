@@ -37,7 +37,7 @@ async function generateKey(): Promise<CryptoKey> {
 async function exportKey(key: CryptoKey): Promise<string> {
   const exported = await crypto.subtle.exportKey('raw', key)
   const bytes = new Uint8Array(exported)
-  return btoa(String.fromCharCode(...bytes))
+  return btoa(String.fromCharCode.apply(null, Array.from(bytes)))
 }
 
 /**
@@ -120,7 +120,7 @@ export async function encrypt(plaintext: string): Promise<string> {
     combined.set(iv)
     combined.set(new Uint8Array(ciphertext), iv.length)
 
-    return 'enc:' + btoa(String.fromCharCode(...combined))
+    return 'enc:' + btoa(String.fromCharCode.apply(null, Array.from(combined)))
   } catch (e) {
     console.error('[Crypto] Encryption failed:', e)
     // Return plaintext as fallback (logged for debugging)

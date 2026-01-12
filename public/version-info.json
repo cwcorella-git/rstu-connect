@@ -1,8 +1,8 @@
 {
-  "commit": "fd927ac2",
-  "message": "Add nav.home translation to all 5 locales",
+  "commit": "8a6899ec",
+  "message": "Fix verify button and add showBanned translation",
   "author": "cwcorella-git",
-  "date": "2026-01-07 14:30:52 -0800",
+  "date": "2026-01-10 00:12:50 -0800",
   "branch": "main",
-  "buildTime": "2026-01-07T22:33:16.528Z"
+  "buildTime": "2026-01-12T04:41:00.197Z"
 }

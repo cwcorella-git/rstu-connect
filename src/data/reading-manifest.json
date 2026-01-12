@@ -21122,6 +21122,39 @@
       "polished": false
     },
     {
+      "id": "data-requests-washoe-code-enforcement-request",
+      "title": "washoe code enforcement request",
+      "author": null,
+      "date": null,
+      "filename": "washoe-code-enforcement-request.md",
+      "category": "Data Requests",
+      "excerpt": "Public Records Request: Code Enforcement & Housing Violations\n\nSubmit via: https://washoecountynv.nextrequest.com/\n\n---\n\nTo: Washoe County Community Services Department / Code Enforcement Di",
+      "wordCount": 545,
+      "lastModified": "2026-01-09T23:16:01.215Z",
+      "tags": [
+        "Nevada"
+      ],
+      "slug": "data-requests-washoe-code-enforcement-request",
+      "polished": false
+    },
+    {
+      "id": "data-requests-washoe-eviction-data-request",
+      "title": "washoe eviction data request",
+      "author": null,
+      "date": null,
+      "filename": "washoe-eviction-data-request.md",
+      "category": "Data Requests",
+      "excerpt": "Public Records Request: Washoe County Eviction Data\n\nSubmit via: https://washoecountynv.nextrequest.com/\n\n---\n\nTo: Washoe County Clerk's Office / Administrative Office of the Courts\n\nFrom:",
+      "wordCount": 504,
+      "lastModified": "2026-01-09T23:14:18.753Z",
+      "tags": [
+        "housing",
+        "Nevada"
+      ],
+      "slug": "data-requests-washoe-eviction-data-request",
+      "polished": false
+    },
+    {
       "id": "disability-justice-alabama-correctional-officers-respond-to-mental-health-crisis-with-deadly-force-leaving-at-least-fo",
       "title": "Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at lea",
       "author": null,
@@ -43030,6 +43063,34 @@
       "polished": false
     },
     {
+      "id": "testing-security-audit-report",
+      "title": "SECURITY AUDIT REPORT",
+      "author": null,
+      "date": null,
+      "filename": "SECURITY_AUDIT_REPORT.md",
+      "category": "Testing",
+      "excerpt": "Security Audit Report: RSTU Connect\n\nDate: January 9, 2026\nAuditor: Claude Code Security Analysis\nScope: Full codebase security review\nVersion: Post-migration (Supabase Phase 2)\n\n---",
+      "wordCount": 2537,
+      "lastModified": "2026-01-10T02:55:48.896Z",
+      "tags": [],
+      "slug": "testing-security-audit-report",
+      "polished": false
+    },
+    {
+      "id": "testing-server-auth-checklist",
+      "title": "SERVER AUTH CHECKLIST",
+      "author": null,
+      "date": null,
+      "filename": "SERVER_AUTH_CHECKLIST.md",
+      "category": "Testing",
+      "excerpt": "Server-Authoritative Features Manual Testing Checklist\n\nThis checklist covers manual browser-based testing of the server-authoritative features from 007_server_authoritative.sql.\n\n Prerequisites",
+      "wordCount": 1066,
+      "lastModified": "2026-01-08T17:44:06.675Z",
+      "tags": [],
+      "slug": "testing-server-auth-checklist",
+      "polished": false
+    },
+    {
       "id": "theory-2017-03-nasa-magnetic-shield-mars-atmosphere",
       "title": "![](_page_0_Picture_0.jpeg)",
       "author": null,
@@ -48209,6 +48270,7 @@
     "Anti War Peace",
     "Arts Culture Music",
     "Contemporary Analysis",
+    "Data Requests",
     "Disability Justice",
     "Economic Alternatives",
     "Environmental Justice",
@@ -48223,8 +48285,9 @@
     "Notes",
     "Organizing",
     "Technology Digital Justice",
+    "Testing",
     "Theory",
     "Youth Student Organizing"
   ],
-  "totalDocuments": 2898
+  "totalDocuments": 2902
 }

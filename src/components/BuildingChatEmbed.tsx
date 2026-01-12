@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from 'react'
 import { useSocketChat } from '@/hooks/useSocketChat'
-import { MessageList } from '@/components/GunChat/MessageList'
-import { MessageInput } from '@/components/GunChat/MessageInput'
+import { MessageList } from '@/components/SocketChat/MessageList'
+import { MessageInput } from '@/components/SocketChat/MessageInput'
 
 interface BuildingChatEmbedProps {
   chatSlug: string;

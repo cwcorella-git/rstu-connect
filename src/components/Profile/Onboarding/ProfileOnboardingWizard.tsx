@@ -60,18 +60,26 @@ export function ProfileOnboardingWizard({
   // Initialize from URL invite code or resume draft
   useEffect(() => {
     const inviteFromUrl = getInviteCodeFromUrl();
+
+    // Try to resume from draft FIRST
+    const draft = loadWizardDraft();
+    if (draft) {
+      setCurrentStep(draft.currentStep);
+      setFormData(draft.formData);
+    }
+
+    // URL invite code takes priority over draft invite code
+    // This ensures QR code links work even with stale drafts
     if (inviteFromUrl) {
       setFormData((prev) => ({
         ...prev,
         inviteCode: inviteFromUrl,
       }));
-    }
-
-    // Try to resume from draft
-    const draft = loadWizardDraft();
-    if (draft) {
-      setCurrentStep(draft.currentStep);
-      setFormData(draft.formData);
+      // If draft had advanced past welcome step but URL has invite code,
+      // reset to welcome step to re-validate the new code
+      if (draft && draft.currentStep !== 'welcome') {
+        setCurrentStep('welcome');
+      }
     }
   }, []);
 
@@ -124,15 +132,24 @@ export function ProfileOnboardingWizard({
     setIsLoading(true);
     setError(null);
 
+    // Create a timeout promise to prevent indefinite hanging
+    const TIMEOUT_MS = 30000; // 30 seconds
+    const timeoutPromise = new Promise<never>((_, reject) => {
+      setTimeout(() => reject(new Error('Profile creation timed out. Please check your connection and try again.')), TIMEOUT_MS);
+    });
+
     try {
-      // Only pass fields that createProfileAsync accepts
-      const profile = await createProfileAsync({
-        nickname: formData.nickname,
-        email: formData.email,
-        buildingId: formData.buildingId,
-        unitNumber: formData.unitNumber,
-        inviteCode: formData.inviteCode,
-      });
+      // Race between profile creation and timeout
+      const profile = await Promise.race([
+        createProfileAsync({
+          nickname: formData.nickname,
+          email: formData.email,
+          buildingId: formData.buildingId,
+          unitNumber: formData.unitNumber,
+          inviteCode: formData.inviteCode,
+        }),
+        timeoutPromise,
+      ]);
 
       if (profile) {
         setProfileCreated(true);
