@@ -1,6 +1,8 @@
 // Rent strike preparation tracking
 // Supports both localStorage (offline) and Supabase (cloud sync)
 
+import { createProposal, getProposal, VOTE_THRESHOLDS } from './governanceStorage'
+
 const STORAGE_KEY = 'rstu_strike_data'
 
 // Strike preparation data structure
@@ -804,4 +806,125 @@ export function createStrikeFromEscalations(
   }
 
   return getStrikePreparationById(strike.id) || strike
+}
+
+// ============================================
+// Governance Integration
+// ============================================
+
+/**
+ * Create a rent-strike governance proposal for the building
+ * Requires all 4 readiness dimensions to be true before calling
+ */
+export function createStrikeProposal(strikeId: string): string | null {
+  const strike = getStrikePreparationById(strikeId)
+  if (!strike) return null
+
+  // Check readiness before creating proposal
+  const readiness = calculateStrikeReadiness(strikeId)
+  if (!readiness.legalReady || !readiness.participationReady || !readiness.defenseReady) {
+    console.warn('[StrikeStorage] Cannot create strike proposal - readiness not met')
+    return null
+  }
+
+  // Create the governance proposal
+  const proposal = createProposal('rent-strike', strike.buildingChatSlug, {
+    targetValue: `Rent Strike Authorization for ${strike.buildingChatSlug}`,
+    reason: `Strike preparation complete. ${strike.participation.committedUnits.length} units committed (${strike.participation.percentCommitted}%). Legal preparation done. Defense coordination ready.`,
+  })
+
+  if (!proposal) {
+    console.error('[StrikeStorage] Failed to create rent-strike proposal')
+    return null
+  }
+
+  // Link proposal to strike
+  const state = getStrikeState()
+  if (state.strikes[strikeId]) {
+    state.strikes[strikeId] = {
+      ...state.strikes[strikeId],
+      strikeVote: {
+        ...state.strikes[strikeId].strikeVote,
+        proposalId: proposal.id,
+        voteStatus: 'pending',
+      },
+      updatedAt: new Date().toISOString(),
+    }
+    saveStrikeState(state)
+  }
+
+  return proposal.id
+}
+
+/**
+ * Check and sync the strike vote status from governance proposal
+ */
+export function syncStrikeVoteStatus(strikeId: string): 'pending' | 'approved' | 'rejected' | null {
+  const strike = getStrikePreparationById(strikeId)
+  if (!strike || !strike.strikeVote.proposalId) return null
+
+  const proposal = getProposal(strike.strikeVote.proposalId)
+  if (!proposal) return null
+
+  // Calculate vote threshold
+  const netVotes = proposal.upvotes.length - proposal.downvotes.length
+  const threshold = VOTE_THRESHOLDS['rent-strike'] // +10
+
+  let newStatus: 'pending' | 'approved' | 'rejected' = 'pending'
+
+  if (netVotes >= threshold || proposal.status === 'passed' || proposal.status === 'executed') {
+    newStatus = 'approved'
+  } else if (netVotes <= -3 || proposal.status === 'rejected') {
+    newStatus = 'rejected'
+  }
+
+  // Update strike status if changed
+  if (newStatus !== strike.strikeVote.voteStatus) {
+    const state = getStrikeState()
+    if (state.strikes[strikeId]) {
+      state.strikes[strikeId] = {
+        ...state.strikes[strikeId],
+        strikeVote: {
+          ...state.strikes[strikeId].strikeVote,
+          voteStatus: newStatus,
+        },
+        stage: newStatus === 'approved' ? 'authorized' : state.strikes[strikeId].stage,
+        updatedAt: new Date().toISOString(),
+      }
+      saveStrikeState(state)
+    }
+  }
+
+  return newStatus
+}
+
+/**
+ * Get the vote progress for a strike proposal
+ */
+export function getStrikeVoteProgress(strikeId: string): {
+  upvotes: number
+  downvotes: number
+  netVotes: number
+  threshold: number
+  percentComplete: number
+} | null {
+  const strike = getStrikePreparationById(strikeId)
+  if (!strike || !strike.strikeVote.proposalId) return null
+
+  const proposal = getProposal(strike.strikeVote.proposalId)
+  if (!proposal) return null
+
+  const upvotes = proposal.upvotes.length
+  const downvotes = proposal.downvotes.length
+  const netVotes = upvotes - downvotes
+  const threshold = VOTE_THRESHOLDS['rent-strike']
+  const percentComplete = Math.min(100, Math.max(0, (netVotes / threshold) * 100))
+
+  return {
+    upvotes,
+    downvotes,
+    netVotes,
+    threshold,
+    percentComplete,
+  }
 }

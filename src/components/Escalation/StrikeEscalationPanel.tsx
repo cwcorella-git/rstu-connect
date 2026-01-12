@@ -13,6 +13,9 @@ import {
   createStrikeFromEscalations,
   calculateStrikeReadiness,
   linkEscalationToStrike,
+  createStrikeProposal,
+  syncStrikeVoteStatus,
+  getStrikeVoteProgress,
 } from '@/lib/strikeStorage'
 
 interface StrikeEscalationPanelProps {
@@ -176,6 +179,65 @@ export function StrikeEscalationPanel({
                   </li>
                 ))}
               </ul>
+            </div>
+          )}
+
+          {/* Vote Progress - show if proposal exists */}
+          {existingStrike.strikeVote.proposalId && (() => {
+            const voteProgress = getStrikeVoteProgress(existingStrike.id)
+            syncStrikeVoteStatus(existingStrike.id) // Sync status from governance
+            return voteProgress ? (
+              <div className="mb-3 p-3 bg-white/50 rounded border border-red-100">
+                <p className="text-xs font-medium text-red-800 mb-2">Strike Authorization Vote</p>
+                <div className="flex items-center gap-2 mb-2">
+                  <div className="flex-1 h-2 bg-gray-200 rounded-full overflow-hidden">
+                    <div
+                      className="h-full bg-red-500 transition-all"
+                      style={{ width: `${Math.max(0, voteProgress.percentComplete)}%` }}
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-red-700">
+                    {voteProgress.netVotes}/{voteProgress.threshold}
+                  </span>
+                </div>
+                <div className="flex items-center gap-3 text-xs text-gray-600">
+                  <span className="text-green-600">+{voteProgress.upvotes} for</span>
+                  <span className="text-red-600">-{voteProgress.downvotes} against</span>
+                </div>
+                {existingStrike.strikeVote.voteStatus === 'approved' && (
+                  <div className="mt-2 p-2 bg-green-100 rounded text-xs text-green-700 font-medium">
+                    ✓ Strike Authorized! Ready to set start date.
+                  </div>
+                )}
+                {existingStrike.strikeVote.voteStatus === 'rejected' && (
+                  <div className="mt-2 p-2 bg-red-100 rounded text-xs text-red-700 font-medium">
+                    ✗ Vote rejected. Consider addressing tenant concerns.
+                  </div>
+                )}
+              </div>
+            ) : null
+          })()}
+
+          {/* Call for Vote Button - show when ready but no proposal yet */}
+          {readiness.legalReady && readiness.participationReady && readiness.defenseReady && !existingStrike.strikeVote.proposalId && (
+            <div className="mb-3">
+              <button
+                onClick={() => {
+                  const proposalId = createStrikeProposal(existingStrike.id)
+                  if (proposalId) {
+                    // Reload strike data
+                    const updated = getStrikeForBuilding(buildingId)
+                    setExistingStrike(updated)
+                  }
+                }}
+                className="w-full py-2 px-4 bg-red-600 text-white rounded-lg hover:bg-red-700 font-medium text-sm flex items-center justify-center gap-2"
+              >
+                <span>&#128499;</span>
+                Call for Strike Authorization Vote
+              </button>
+              <p className="text-xs text-red-600 text-center mt-1">
+                Requires +10 net votes from tenants
+              </p>
             </div>
           )}
 
