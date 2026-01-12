@@ -2,6 +2,8 @@
 
 import { randomUUID } from 'crypto'
 import { sanitizeText, sanitizeRichText } from './sanitize'
+import { getGroupForApn, getLinkedGroups } from './linkedPropertiesStorage'
+import type { EnhancedBuilding } from './getBuildingsData'
 
 // ============================================================================
 // TYPES
@@ -11,6 +13,23 @@ export type EvictionCaseStage = 'filed' | 'answered' | 'hearing-scheduled' | 'co
 export type EvictionCaseType = 'nonpayment' | 'lease_violation' | 'no_cause' | 'other'
 export type EvictionUrgency = 'critical' | 'urgent' | 'high' | 'normal'
 export type DefenseStrategy = 'habitability_defense' | 'retaliation_defense' | 'procedural_defense' | 'payment_plan' | 'rent_withholding' | 'other'
+
+// Alert scope for bubbling - how the alert relates to the viewing building
+export type AlertScope = 'building' | 'bloc' | 'alliance' | 'owner'
+
+// Eviction alert for bubbling to related buildings
+export interface EvictionAlert {
+  caseId: string
+  sourceApn: string
+  sourceAddress: string
+  scope: AlertScope
+  unitDisplay: string      // "Unit 4" or "A tenant" if anonymous
+  daysRemaining: number | null
+  courtDate: string | null
+  urgency: EvictionUrgency
+  noticeType: '3-day' | '5-day' | '7-day' | '30-day' | null
+  stage: EvictionCaseStage
+}
 
 export interface EvictionCaseEvidence {
   id: string
@@ -1088,4 +1107,222 @@ export function getActiveCasesByBlock(blockId: string): EvictionCase[] {
 export function getCriticalCasesByBlock(blockId: string): EvictionCase[] {
   const cases = getCasesByBlock(blockId)
   return cases.filter(c => c.urgency === 'critical' && c.stage !== 'resolved')
+}
+
+// ============================================================================
+// EVICTION ALERT BUBBLING
+// ============================================================================
+
+const DISMISSED_ALERTS_KEY = 'rstu_eviction_alerts_dismissed'
+
+/**
+ * Get dismissed alert IDs for a profile
+ */
+function getDismissedAlerts(profileId: string): string[] {
+  if (typeof window === 'undefined') return []
+  try {
+    const stored = localStorage.getItem(DISMISSED_ALERTS_KEY)
+    if (!stored) return []
+    const dismissed = JSON.parse(stored) as Record<string, string[]>
+    return dismissed[profileId] || []
+  } catch {
+    return []
+  }
+}
+
+/**
+ * Dismiss an eviction alert for a profile
+ */
+export function dismissEvictionAlert(caseId: string, profileId: string): void {
+  if (typeof window === 'undefined') return
+  try {
+    const stored = localStorage.getItem(DISMISSED_ALERTS_KEY)
+    const dismissed: Record<string, string[]> = stored ? JSON.parse(stored) : {}
+    if (!dismissed[profileId]) {
+      dismissed[profileId] = []
+    }
+    if (!dismissed[profileId].includes(caseId)) {
+      dismissed[profileId].push(caseId)
+    }
+    localStorage.setItem(DISMISSED_ALERTS_KEY, JSON.stringify(dismissed))
+  } catch {
+    console.error('Failed to dismiss eviction alert')
+  }
+}
+
+/**
+ * Check if an alert is dismissed for a profile
+ */
+export function isAlertDismissed(caseId: string, profileId: string): boolean {
+  return getDismissedAlerts(profileId).includes(caseId)
+}
+
+/**
+ * Get all APNs that should see an alert for a given source building
+ * Returns APNs with their scope (how they relate to the source)
+ */
+export function getBubbleTargets(
+  sourceApn: string,
+  allBuildings: EnhancedBuilding[]
+): { apn: string; scope: AlertScope }[] {
+  const targets: { apn: string; scope: AlertScope }[] = []
+  const seenApns = new Set<string>()
+
+  // Always include source building
+  targets.push({ apn: sourceApn, scope: 'building' })
+  seenApns.add(sourceApn)
+
+  // Get source building info for owner matching
+  const sourceBuilding = allBuildings.find(b => b.apn === sourceApn)
+
+  // Level 1: Same bloc
+  const sourceGroup = getGroupForApn(sourceApn)
+  if (sourceGroup) {
+    for (const apn of sourceGroup.apns) {
+      if (!seenApns.has(apn)) {
+        targets.push({ apn, scope: 'bloc' })
+        seenApns.add(apn)
+      }
+    }
+
+    // Level 2: Allied blocs
+    if (sourceGroup.alliances && sourceGroup.alliances.length > 0) {
+      const allGroups = getLinkedGroups()
+      for (const allyId of sourceGroup.alliances) {
+        const alliedGroup = allGroups.find(g => g.id === allyId)
+        if (alliedGroup) {
+          for (const apn of alliedGroup.apns) {
+            if (!seenApns.has(apn)) {
+              targets.push({ apn, scope: 'alliance' })
+              seenApns.add(apn)
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // Level 3: Same owner (only if we have source building info)
+  if (sourceBuilding && sourceBuilding.owner) {
+    const ownerNormalized = sourceBuilding.owner.toLowerCase().trim()
+    for (const building of allBuildings) {
+      if (
+        building.owner &&
+        building.owner.toLowerCase().trim() === ownerNormalized &&
+        !seenApns.has(building.apn)
+      ) {
+        targets.push({ apn: building.apn, scope: 'owner' })
+        seenApns.add(building.apn)
+      }
+    }
+  }
+
+  return targets
+}
+
+/**
+ * Convert an EvictionCase to an EvictionAlert
+ */
+function caseToAlert(evictionCase: EvictionCase, scope: AlertScope): EvictionAlert {
+  return {
+    caseId: evictionCase.id,
+    sourceApn: evictionCase.buildingApn,
+    sourceAddress: evictionCase.buildingAddress,
+    scope,
+    unitDisplay: evictionCase.anonymousDisplay
+      ? 'A tenant'
+      : evictionCase.unitNumber
+        ? `Unit ${evictionCase.unitNumber}`
+        : 'A unit',
+    daysRemaining: getDaysUntilCourt(evictionCase.courtDate),
+    courtDate: evictionCase.courtDate || null,
+    urgency: evictionCase.urgency,
+    noticeType: evictionCase.noticeType || null,
+    stage: evictionCase.stage,
+  }
+}
+
+/**
+ * Get all eviction alerts relevant to a building
+ * Includes alerts from: this building, bloc, allied blocs, same owner
+ * Sorted by urgency (critical first) then by scope (closest first)
+ */
+export function getAlertsForBuilding(
+  buildingApn: string,
+  allBuildings: EnhancedBuilding[]
+): EvictionAlert[] {
+  const alerts: EvictionAlert[] = []
+  const allCases = getActiveCases()
+
+  // Get the building info
+  const building = allBuildings.find(b => b.apn === buildingApn)
+
+  // Get bloc for this building
+  const buildingGroup = getGroupForApn(buildingApn)
+
+  // Get allied bloc IDs
+  const alliedBlocIds = buildingGroup?.alliances || []
+  const allGroups = getLinkedGroups()
+  const alliedApns = new Set<string>()
+  for (const allyId of alliedBlocIds) {
+    const alliedGroup = allGroups.find(g => g.id === allyId)
+    if (alliedGroup) {
+      alliedGroup.apns.forEach(apn => alliedApns.add(apn))
+    }
+  }
+
+  // Get same-owner APNs
+  const sameOwnerApns = new Set<string>()
+  if (building && building.owner) {
+    const ownerNormalized = building.owner.toLowerCase().trim()
+    for (const b of allBuildings) {
+      if (b.owner && b.owner.toLowerCase().trim() === ownerNormalized && b.apn !== buildingApn) {
+        sameOwnerApns.add(b.apn)
+      }
+    }
+  }
+
+  // Collect alerts from each case
+  for (const evictionCase of allCases) {
+    const caseApn = evictionCase.buildingApn
+
+    // Determine scope
+    let scope: AlertScope | null = null
+
+    if (caseApn === buildingApn) {
+      scope = 'building'
+    } else if (buildingGroup && buildingGroup.apns.includes(caseApn)) {
+      scope = 'bloc'
+    } else if (alliedApns.has(caseApn)) {
+      scope = 'alliance'
+    } else if (sameOwnerApns.has(caseApn)) {
+      scope = 'owner'
+    }
+
+    if (scope) {
+      alerts.push(caseToAlert(evictionCase, scope))
+    }
+  }
+
+  // Sort by urgency, then by scope (building > bloc > alliance > owner)
+  const urgencyOrder = { critical: 0, urgent: 1, high: 2, normal: 3 }
+  const scopeOrder = { building: 0, bloc: 1, alliance: 2, owner: 3 }
+
+  alerts.sort((a, b) => {
+    const urgencyDiff = urgencyOrder[a.urgency] - urgencyOrder[b.urgency]
+    if (urgencyDiff !== 0) return urgencyDiff
+    return scopeOrder[a.scope] - scopeOrder[b.scope]
+  })
+
+  return alerts
+}
+
+/**
+ * Extend WitnessSignup to support cross-building pledges
+ */
+export function addCrossBuildingSupport(
+  caseId: string,
+  witness: WitnessSignup & { sourceBuildingApn?: string }
+): EvictionCase | null {
+  return addWitnessSignup(caseId, witness)
 }

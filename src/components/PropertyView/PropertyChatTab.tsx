@@ -10,10 +10,12 @@ import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
 import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
 import { BlocFormationProposalBanner } from '@/components/Chat/BlocFormationProposalBanner'
 import { CampaignStatusBanner } from '@/components/Chat/CampaignStatusBanner'
+import { EvictionAlertBanner } from '@/components/Chat/EvictionAlertBanner'
 import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
 import { EvictionCaseForm } from '@/components/MutualAid/EvictionCaseForm'
+import { EvictionCaseDetail } from '@/components/MutualAid/EvictionCaseDetail'
 import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/governanceStorage'
@@ -44,6 +46,10 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
   const [showBlocFormation, setShowBlocFormation] = useState(false)
   const [showBlocJoin, setShowBlocJoin] = useState(false)
   const [showEvictionForm, setShowEvictionForm] = useState(false)
+  const [selectedEvictionCaseId, setSelectedEvictionCaseId] = useState<string | null>(null)
+
+  // Profile ID for eviction alert dismissals
+  const [profileId, setProfileId] = useState<string | null>(null)
 
   // Issues count for badge
   const [issuesCount, setIssuesCount] = useState(0)
@@ -57,6 +63,16 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
       const savedUsername = localStorage.getItem('rstu_chat_username')
       if (savedUsername) {
         setUsername(savedUsername)
+      }
+      // Load profile ID for alert dismissals
+      const storedProfile = localStorage.getItem('rstu_profile')
+      if (storedProfile) {
+        try {
+          const profile = JSON.parse(storedProfile)
+          setProfileId(profile.odellId || null)
+        } catch {
+          // Ignore parse errors
+        }
       }
       // Load governance data on client side only
       const group = getGroupForApn(building.apn)
@@ -141,6 +157,17 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
             setIssuesPanelInitialTab('campaign')
             setShowIssuesPanel(true)
           }}
+        />
+      </div>
+
+      {/* Eviction Alert Banner */}
+      <div className="flex-shrink-0 px-4 pt-2">
+        <EvictionAlertBanner
+          buildingApn={building.apn}
+          allBuildings={allBuildings}
+          profileId={profileId}
+          onViewCase={(caseId) => setSelectedEvictionCaseId(caseId)}
+          onReportCase={() => setShowEvictionForm(true)}
         />
       </div>
 
@@ -252,6 +279,29 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
                 setShowEvictionForm(false)
               }}
               onCancel={() => setShowEvictionForm(false)}
+            />
+          </div>
+        </div>
+      )}
+
+      {/* Eviction Case Detail Modal */}
+      {selectedEvictionCaseId && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
+          <div className="relative bg-white rounded-lg shadow-xl w-full max-w-3xl mx-4 max-h-[90vh] overflow-auto">
+            <button
+              onClick={() => setSelectedEvictionCaseId(null)}
+              className="absolute top-4 right-4 z-10 p-1 text-gray-500 hover:text-gray-700"
+              aria-label="Close"
+            >
+              <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+            <EvictionCaseDetail
+              caseId={selectedEvictionCaseId}
+              onCaseUpdated={() => {
+                // Refresh data if needed
+              }}
             />
           </div>
         </div>
