@@ -52,7 +52,7 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
     // Otherwise load original from server
     setIsEdited(false)
     setTitle(document.title)
-    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : ''
+    const basePath = '/rstu-connect'
     fetch(`${basePath}/documents/${encodeURIComponent(document.category)}/${encodeURIComponent(document.filename)}`)
       .then(res => res.text())
       .then(text => {

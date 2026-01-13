@@ -18,7 +18,7 @@ export function ServiceWorkerRegistration() {
     // Register service worker
     const registerSW = async () => {
       try {
-        const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : ''
+        const basePath = '/rstu-connect'
         const registration = await navigator.serviceWorker.register(`${basePath}/sw.js`, {
           scope: `${basePath}/`,
         })

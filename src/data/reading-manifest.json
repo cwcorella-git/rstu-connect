@@ -26977,6 +26977,20 @@
       "polished": false
     },
     {
+      "id": "governance-app-governance-system",
+      "title": "App Governance System",
+      "author": "RSTU Connect",
+      "date": "2026",
+      "filename": "App_Governance_System.md",
+      "category": "Governance",
+      "excerpt": "App Governance System\n\nRSTU Connect uses a democratic governance system where organizers who have built tenant power can vote on app-wide decisions. This document explains how the system works.",
+      "wordCount": 1059,
+      "lastModified": "2026-01-12T21:01:39.580Z",
+      "tags": [],
+      "slug": "governance-app-governance-system",
+      "polished": false
+    },
+    {
       "id": "housing-just-get-to-know-your-neighbors-south-side-weekly",
       "title": "“Just Get to Know Your Neighbors” – South Side Weekly",
       "author": "Emeline Posner",
@@ -48276,6 +48290,7 @@
     "Environmental Justice",
     "Feminist Theory",
     "Food Justice",
+    "Governance",
     "Housing",
     "Indigenous Solidarity",
     "International Solidarity",
@@ -48289,5 +48304,5 @@
     "Theory",
     "Youth Student Organizing"
   ],
-  "totalDocuments": 2902
+  "totalDocuments": 2903
 }

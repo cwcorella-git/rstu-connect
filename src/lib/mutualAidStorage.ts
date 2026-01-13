@@ -27,6 +27,10 @@ export type MutualAidCategory =
   | 'emotional_support'
   | 'translation'
   | 'tech_support'
+  // Skill-based categories (for standing offers)
+  | 'labor_physical'
+  | 'media_communications'
+  | 'cooking_meals'
   | 'other'
 
 export const CATEGORY_LABELS: Record<MutualAidCategory, string> = {
@@ -41,6 +45,10 @@ export const CATEGORY_LABELS: Record<MutualAidCategory, string> = {
   emotional_support: 'Peer Support',
   translation: 'Translation',
   tech_support: 'Tech Support',
+  // Skill-based categories
+  labor_physical: 'Physical Labor',
+  media_communications: 'Media/Communications',
+  cooking_meals: 'Cooking/Meals',
   other: 'Other',
 }
 
@@ -59,6 +67,11 @@ export interface MutualAidPost {
   status: PostStatus
   createdAt: number
   expiresAt: number
+
+  // Skill offer fields (standing offers that don't expire)
+  isSkillOffer?: boolean
+  availability?: string       // "Weekends", "Evenings after 6pm"
+  languages?: string[]        // For translation/multilingual skills
 }
 
 export type SkillCategory =
@@ -168,10 +181,13 @@ function saveToStorage<T>(key: string, value: T): void {
 export function getMutualAidPosts(): MutualAidPost[] {
   const posts = getFromStorage<MutualAidPost[]>(POSTS_KEY, [])
 
-  // Check for expired posts
+  // Check for expired posts (skill offers never expire)
   const now = Date.now()
   let hasExpired = false
   const updatedPosts = posts.map(post => {
+    // Skill offers don't expire
+    if (post.isSkillOffer) return post
+
     if (post.status === 'open' && post.expiresAt < now) {
       hasExpired = true
       return { ...post, status: 'expired' as PostStatus }
@@ -186,6 +202,12 @@ export function getMutualAidPosts(): MutualAidPost[] {
   return updatedPosts
 }
 
+export interface CreatePostOptions {
+  isSkillOffer?: boolean
+  availability?: string
+  languages?: string[]
+}
+
 export function createPost(
   type: 'need' | 'offer',
   category: MutualAidCategory,
@@ -194,7 +216,8 @@ export function createPost(
   buildingApn: string,
   buildingAddress: string,
   authorId: string,
-  authorName: string
+  authorName: string,
+  options?: CreatePostOptions
 ): MutualAidPost | null {
   // Check rate limit
   const rateLimitResult = tryAction('mutual_aid_post', authorId)
@@ -204,6 +227,8 @@ export function createPost(
   }
 
   const now = Date.now()
+  const isSkill = options?.isSkillOffer ?? false
+
   const post: MutualAidPost = {
     id: generateId(),
     type,
@@ -216,7 +241,12 @@ export function createPost(
     authorName: sanitizeText(authorName),
     status: 'open',
     createdAt: now,
-    expiresAt: now + 30 * 24 * 60 * 60 * 1000, // 30 days
+    // Skill offers don't expire (set to far future)
+    expiresAt: isSkill ? now + 365 * 24 * 60 * 60 * 1000 : now + 30 * 24 * 60 * 60 * 1000,
+    // Skill offer fields
+    isSkillOffer: isSkill || undefined,
+    availability: options?.availability ? sanitizeText(options.availability) : undefined,
+    languages: options?.languages?.map(sanitizeText),
   }
 
   const posts = getMutualAidPosts()
@@ -360,6 +390,7 @@ export function getBuildingStats(buildingApn: string): {
   offersCount: number
   resourcesCount: number
   skillsCount: number
+  skillOffersCount: number
 } {
   const posts = getMutualAidPosts().filter(
     p => p.buildingApn === buildingApn && p.status !== 'expired'
@@ -369,8 +400,89 @@ export function getBuildingStats(buildingApn: string): {
 
   return {
     needsCount: posts.filter(p => p.type === 'need').length,
-    offersCount: posts.filter(p => p.type === 'offer').length,
+    offersCount: posts.filter(p => p.type === 'offer' && !p.isSkillOffer).length,
     resourcesCount: resources.length,
     skillsCount: skills.length,
+    skillOffersCount: posts.filter(p => p.isSkillOffer).length,
   }
+}
+
+// === SKILL MIGRATION ===
+
+/**
+ * Map legacy SkillCategory to MutualAidCategory
+ */
+export function mapSkillToCategory(skill: SkillCategory): MutualAidCategory {
+  const mapping: Record<SkillCategory, MutualAidCategory> = {
+    translation: 'translation',
+    legal: 'legal',
+    tech: 'tech_support',
+    transportation: 'transportation',
+    labor: 'labor_physical',
+    childcare: 'childcare',
+    cooking: 'cooking_meals',
+    media: 'media_communications',
+    other: 'other',
+  }
+  return mapping[skill]
+}
+
+/**
+ * Migrate existing SkillProfile entries to skill offers.
+ * Call this once to convert old skill profiles to the new system.
+ * Returns number of migrated profiles.
+ */
+export function migrateSkillProfilesToOffers(): number {
+  const skillProfiles = getSkillProfiles()
+  let migratedCount = 0
+
+  for (const profile of skillProfiles) {
+    // Check if already migrated (avoid duplicates)
+    const existingPosts = getMutualAidPosts()
+    const alreadyMigrated = existingPosts.some(
+      p => p.authorId === profile.memberId && p.isSkillOffer
+    )
+    if (alreadyMigrated) continue
+
+    // Create a skill offer for each skill in the profile
+    for (const skill of profile.skills) {
+      const category = mapSkillToCategory(skill.category)
+      const title = `${SKILL_LABELS[skill.category]} - ${profile.memberName}`
+      const details = skill.description || `Available for ${SKILL_LABELS[skill.category]} assistance`
+
+      createPost(
+        'offer',
+        category,
+        title,
+        details,
+        profile.buildingApn || '',
+        profile.buildingAddress || '',
+        profile.memberId,
+        profile.memberName,
+        {
+          isSkillOffer: true,
+          availability: profile.availability,
+          languages: profile.languages,
+        }
+      )
+    }
+
+    migratedCount++
+  }
+
+  return migratedCount
+}
+
+/**
+ * Get all skill offers (standing offers)
+ */
+export function getSkillOffers(): MutualAidPost[] {
+  return getMutualAidPosts().filter(p => p.isSkillOffer && p.status !== 'expired')
+}
+
+/**
+ * Get skill offers for a specific building
+ */
+export function getBuildingSkillOffers(buildingApn: string): MutualAidPost[] {
+  return getSkillOffers().filter(p => p.buildingApn === buildingApn)
 }

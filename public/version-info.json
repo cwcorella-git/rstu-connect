@@ -1,8 +1,8 @@
 {
-  "commit": "7ba81b96",
-  "message": "Update README.md and CLAUDE.md documentation",
+  "commit": "233983d9",
+  "message": "Remove Victory system and standalone Governance tab",
   "author": "cwcorella-git",
-  "date": "2026-01-11 22:17:32 -0800",
+  "date": "2026-01-12 19:42:38 -0800",
   "branch": "main",
-  "buildTime": "2026-01-12T06:19:26.621Z"
+  "buildTime": "2026-01-13T04:17:31.595Z"
 }

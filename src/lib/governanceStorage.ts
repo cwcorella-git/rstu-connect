@@ -22,12 +22,19 @@ export type GovernanceProposalType =
   | 'mute-tenant'
   | 'escalate'
   | 'split'
-  // Collective action types
+  // Collective action types (property-based)
   | 'form-bloc'      // Create new bloc from multiple properties
   | 'join-bloc'      // Join an existing bloc
   | 'rent-strike'    // Building/bloc-wide rent strike vote
   | 'demand-letter'  // Formal demand to landlord
   | 'petition'       // Signature collection
+  // Internal collective types (non-property-based organizations)
+  | 'form-collective'      // Create new tenant collective (3 votes)
+  | 'join-collective'      // Request to join existing collective
+  | 'collective-alliance'  // Ally with another collective
+  | 'collective-rename'    // Rename collective
+  | 'add-point-person'     // Promote member to Point Person
+  | 'remove-point-person'  // Demote Point Person
   // App-wide governance types
   | 'feature-vote'   // Enable/disable app features
   | 'content-vote'   // Vote on text/content blocks
@@ -114,12 +121,19 @@ export const VOTE_THRESHOLDS: Record<GovernanceProposalType, number> = {
   'split': 5,
   'mute-tenant': 7,
   'escalate': 5,
-  // Collective action thresholds
+  // Collective action thresholds (property-based)
   'form-bloc': 3,       // Requires 3 votes from each building
   'join-bloc': 3,       // Requires 3 votes from both sides
   'rent-strike': 10,    // High bar for serious action
   'demand-letter': 5,
   'petition': 3,
+  // Internal collective thresholds (non-property-based)
+  'form-collective': 3,       // 3 co-founders required
+  'join-collective': 1,       // Single Point Person can approve
+  'collective-alliance': 3,   // Both collectives must reach this
+  'collective-rename': 3,
+  'add-point-person': 3,
+  'remove-point-person': 3,
   // App-wide governance thresholds (uses delegate weight, not raw votes)
   'feature-vote': 15,     // Moderate bar
   'content-vote': 10,     // Lower bar for text changes
@@ -1364,6 +1378,13 @@ export function getProposalTypeLabel(type: GovernanceProposalType): string {
     'rent-strike': 'Rent Strike Vote',
     'demand-letter': 'Demand Letter',
     'petition': 'Petition',
+    // Internal collective types
+    'form-collective': 'Form Collective',
+    'join-collective': 'Join Collective',
+    'collective-alliance': 'Collective Alliance',
+    'collective-rename': 'Rename Collective',
+    'add-point-person': 'Add Point Person',
+    'remove-point-person': 'Remove Point Person',
     // App-wide governance types
     'feature-vote': 'Feature Vote',
     'content-vote': 'Content Vote',

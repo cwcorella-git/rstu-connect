@@ -4,10 +4,11 @@ import { useState, useEffect, useMemo } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
-import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, SkillProfile, SkillCategory, SKILL_LABELS, SkillEntry, getSkillProfiles, saveSkillProfile, getSkillProfile, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
+import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
 import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
+import { NetworkTab } from './NetworkTab'
 
-type ViewMode = 'needs' | 'offers' | 'skills' | 'library'
+type ViewMode = 'needs' | 'offers' | 'network' | 'library'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
 
 interface MutualAidPageProps {
@@ -16,7 +17,6 @@ interface MutualAidPageProps {
 
 // All categories as arrays
 const CATEGORIES = Object.keys(CATEGORY_LABELS) as MutualAidCategory[]
-const SKILL_CATEGORIES = Object.keys(SKILL_LABELS) as SkillCategory[]
 const RESOURCE_CATEGORIES = Object.keys(RESOURCE_LABELS) as ResourceCategory[]
 
 export function MutualAidPage({ buildings }: MutualAidPageProps) {
@@ -31,15 +31,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   const [hasProfile, setHasProfile] = useState(false)
   const [myBuildingId, setMyBuildingId] = useState<string | null>(null)
   const [profile, setProfile] = useState<UserProfile | null>(null)
-  const [skillProfiles, setSkillProfiles] = useState<SkillProfile[]>([])
-  const [mySkillProfile, setMySkillProfile] = useState<SkillProfile | null>(null)
   const [isAccessDenied, setIsAccessDenied] = useState(false)
-
-  // Create Post Form State
-  const [showSkillForm, setShowSkillForm] = useState(false)
-  const [skillFormEntries, setSkillFormEntries] = useState<SkillEntry[]>([])
-  const [skillFormAvailability, setSkillFormAvailability] = useState('')
-  const [skillFormLanguages, setSkillFormLanguages] = useState('')
 
   // Resource Library Form State
   const [showResourceForm, setShowResourceForm] = useState(false)
@@ -107,17 +99,8 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
   useEffect(() => {
     setPosts(getMutualAidPosts())
     setResources(getResourceItems())
-    setSkillProfiles(getSkillProfiles())
     setLinkedGroups(getLinkedGroups().filter(g => g.apns.length > 0))
   }, [])
-
-  // Load user's skill profile
-  useEffect(() => {
-    if (profile) {
-      const myProfile = getSkillProfile(profile.id)
-      setMySkillProfile(myProfile)
-    }
-  }, [profile])
 
   // Filter posts based on view mode and filter
   const filteredPosts = posts.filter(post => {
@@ -146,17 +129,6 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
     }
     if (filterMode === 'byBuilding' && selectedBuilding) {
       if (item.buildingApn !== selectedBuilding.apn) return false
-    }
-    return true
-  })
-
-  // Filter skill profiles
-  const filteredSkillProfiles = skillProfiles.filter(sp => {
-    if (filterMode === 'myBuilding' && myBuildingId) {
-      if (sp.buildingApn !== myBuildingId) return false
-    }
-    if (filterMode === 'byBuilding' && selectedBuilding) {
-      if (sp.buildingApn !== selectedBuilding.apn) return false
     }
     return true
   })
@@ -218,75 +190,8 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
     return buildings.find(b => b.apn === formBuildingApn) || null
   }, [buildings, formBuildingApn])
 
-  // Open skill registration form
-  const handleOpenSkillForm = () => {
-    if (mySkillProfile) {
-      // Edit existing profile
-      setSkillFormEntries([...mySkillProfile.skills])
-      setSkillFormAvailability(mySkillProfile.availability)
-      setSkillFormLanguages(mySkillProfile.languages?.join(', ') || '')
-    } else {
-      // New profile
-      setSkillFormEntries([])
-      setSkillFormAvailability('')
-      setSkillFormLanguages('')
-    }
-    setShowSkillForm(true)
-  }
-
-  // Toggle skill in form
-  const handleToggleSkill = (category: SkillCategory) => {
-    setSkillFormEntries(prev => {
-      const existing = prev.find(e => e.category === category)
-      if (existing) {
-        return prev.filter(e => e.category !== category)
-      } else {
-        return [...prev, { category }]
-      }
-    })
-  }
-
-  // Submit skill profile
-  const handleSubmitSkills = () => {
-    if (!profile || skillFormEntries.length === 0) return
-
-    const building = profile.buildingId ? buildings.find(b => b.apn === profile.buildingId) : null
-
-    const skillProfile: SkillProfile = {
-      memberId: profile.id,
-      memberName: profile.nickname,
-      buildingApn: profile.buildingId,
-      buildingAddress: building?.address,
-      skills: skillFormEntries,
-      availability: skillFormAvailability,
-      contactPreference: 'profile',
-      languages: skillFormLanguages ? skillFormLanguages.split(',').map(l => l.trim()).filter(Boolean) : undefined
-    }
-
-    saveSkillProfile(skillProfile)
-    setMySkillProfile(skillProfile)
-    setSkillProfiles(getSkillProfiles())
-    setShowSkillForm(false)
-  }
-
-  // Select skill profile for detail view
-  const handleSelectSkillProfile = (sp: SkillProfile) => {
-    setSelectedItem(null) // Clear other selections
-    setMobileView('detail')
-    // We'll use a special state or pass to detail view
-  }
-
-  // Currently selected skill profile for detail view
-  const [selectedSkillProfile, setSelectedSkillProfile] = useState<SkillProfile | null>(null)
-
   // Blocs state (used for filtering by building groups)
   const [linkedGroups, setLinkedGroups] = useState<LinkedPropertyGroup[]>([])
-
-  const handleViewSkillProfile = (sp: SkillProfile) => {
-    setSelectedSkillProfile(sp)
-    setSelectedItem(null)
-    setMobileView('detail')
-  }
 
   // Resource Library Handlers
   const handleOpenResourceForm = () => {
@@ -391,7 +296,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
 
           {/* View Mode Tabs */}
           <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3">
-            {(['needs', 'offers', 'skills', 'library'] as ViewMode[]).map((mode) => (
+            {(['needs', 'offers', 'network', 'library'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setViewMode(mode)}
@@ -401,7 +306,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
-                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : t('mutualAid.library') || 'Library'}
+                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'network' ? 'Network' : t('mutualAid.library') || 'Library'}
               </button>
             ))}
           </div>
@@ -518,85 +423,9 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 )}
               </div>
             )
-          ) : viewMode === 'skills' ? (
-            // Skills directory
-            <div>
-              {/* My Skills Banner */}
-              {hasProfile && (
-                <div className="p-3 bg-gray-50 border-b border-gray-200">
-                  {mySkillProfile ? (
-                    <div className="flex items-center justify-between">
-                      <div className="text-xs text-gray-600">
-                        You&apos;re sharing {mySkillProfile.skills.length} skill{mySkillProfile.skills.length !== 1 ? 's' : ''}
-                      </div>
-                      <button
-                        onClick={handleOpenSkillForm}
-                        className="text-xs text-rstu-red hover:underline"
-                      >
-                        Edit Skills
-                      </button>
-                    </div>
-                  ) : (
-                    <button
-                      onClick={handleOpenSkillForm}
-                      className="w-full py-2 text-sm font-medium text-rstu-red border border-rstu-red rounded-lg hover:bg-red-50 transition-colors"
-                    >
-                      Register Your Skills
-                    </button>
-                  )}
-                </div>
-              )}
-
-              {filteredSkillProfiles.length > 0 ? (
-                <ul className="divide-y divide-gray-100">
-                  {filteredSkillProfiles.map((sp) => (
-                    <li
-                      key={sp.memberId}
-                      onClick={() => handleViewSkillProfile(sp)}
-                      className={`p-4 cursor-pointer hover:bg-gray-50 transition-colors ${
-                        selectedSkillProfile?.memberId === sp.memberId ? 'bg-red-50 border-l-4 border-rstu-red' : ''
-                      }`}
-                    >
-                      <div className="flex items-start justify-between">
-                        <div className="flex-1 min-w-0">
-                          <h3 className="font-medium text-sm text-gray-900">{sp.memberName}</h3>
-                          {sp.buildingAddress && (
-                            <p className="text-xs text-gray-500 mt-0.5 truncate">{sp.buildingAddress}</p>
-                          )}
-                          <div className="flex flex-wrap gap-1 mt-2">
-                            {sp.skills.slice(0, 3).map((skill) => (
-                              <span
-                                key={skill.category}
-                                className="text-xs px-2 py-0.5 rounded-full bg-purple-100 text-purple-700"
-                              >
-                                {SKILL_LABELS[skill.category]}
-                              </span>
-                            ))}
-                            {sp.skills.length > 3 && (
-                              <span className="text-xs text-gray-400">+{sp.skills.length - 3} more</span>
-                            )}
-                          </div>
-                        </div>
-                      </div>
-                    </li>
-                  ))}
-                </ul>
-              ) : (
-                <div className="p-8 text-center text-gray-500">
-                  <p className="text-sm">{t('mutualAid.noSkillsRegistered') || 'No skills registered yet.'}</p>
-                  {hasProfile ? (
-                    <button
-                      onClick={handleOpenSkillForm}
-                      className="mt-4 px-4 py-2 border border-gray-300 text-gray-700 text-sm rounded-lg hover:bg-gray-50 transition-colors"
-                    >
-                      {t('mutualAid.beTheFirst') || 'Be the First'}
-                    </button>
-                  ) : (
-                    <p className="mt-2 text-xs text-gray-400">{t('mutualAid.createProfileToRegisterSkills') || 'Create a profile to register skills'}</p>
-                  )}
-                </div>
-              )}
-            </div>
+          ) : viewMode === 'network' ? (
+            // Network tab (Resources + Collectives)
+            <NetworkTab />
           ) : null}
         </div>
       </div>
@@ -616,67 +445,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           <span className="text-sm font-medium text-gray-900">{t('mutualAid.backToList') || 'Back to list'}</span>
         </div>
 
-        {selectedSkillProfile ? (
-          // Skill profile detail view
-          <div className="flex-1 overflow-y-auto p-6">
-            <div>
-              <div className="flex items-center gap-3 mb-4">
-                <div className="w-12 h-12 rounded-full bg-purple-100 flex items-center justify-center">
-                  <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                  </svg>
-                </div>
-                <div>
-                  <h2 className="text-xl font-bold text-gray-900">{selectedSkillProfile.memberName}</h2>
-                  {selectedSkillProfile.buildingAddress && (
-                    <p className="text-sm text-gray-500">{selectedSkillProfile.buildingAddress}</p>
-                  )}
-                </div>
-              </div>
-
-              <div className="mb-4">
-                <h3 className="text-sm font-medium text-gray-900 mb-2">Skills</h3>
-                <div className="flex flex-wrap gap-2">
-                  {selectedSkillProfile.skills.map((skill) => (
-                    <span
-                      key={skill.category}
-                      className="px-3 py-1 text-sm rounded-full bg-purple-100 text-purple-700"
-                    >
-                      {SKILL_LABELS[skill.category]}
-                    </span>
-                  ))}
-                </div>
-              </div>
-
-              {selectedSkillProfile.languages && selectedSkillProfile.languages.length > 0 && (
-                <div className="mb-4">
-                  <h3 className="text-sm font-medium text-gray-900 mb-2">Languages</h3>
-                  <div className="flex flex-wrap gap-2">
-                    {selectedSkillProfile.languages.map((lang) => (
-                      <span
-                        key={lang}
-                        className="px-3 py-1 text-sm rounded-full bg-blue-100 text-blue-700"
-                      >
-                        {lang}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              )}
-
-              {selectedSkillProfile.availability && (
-                <div className="bg-gray-50 rounded-lg p-4 mb-4">
-                  <h3 className="text-sm font-medium text-gray-900 mb-2">Availability</h3>
-                  <p className="text-sm text-gray-600">{selectedSkillProfile.availability}</p>
-                </div>
-              )}
-
-              <p className="text-xs text-gray-400 italic mt-6">
-                Contact through their profile to request help
-              </p>
-            </div>
-          </div>
-        ) : selectedItem ? (
+        {selectedItem ? (
           <div className="flex-1 overflow-y-auto p-6">
             {'type' in selectedItem ? (
               // Post detail
@@ -952,112 +721,6 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 }`}
               >
                 {t('mutualAid.postTypeButton', { type: createType === 'need' ? 'Need' : 'Offer' }) || `Post ${createType === 'need' ? 'Need' : 'Offer'}`}
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
-
-      {/* Skills Registration Modal */}
-      {showSkillForm && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center">
-          {/* Backdrop */}
-          <div
-            className="absolute inset-0 bg-black/50"
-            onClick={() => setShowSkillForm(false)}
-          />
-
-          {/* Modal */}
-          <div className="relative bg-white rounded-lg shadow-xl w-full max-w-md mx-4 max-h-[90vh] overflow-y-auto">
-            {/* Header */}
-            <div className="flex items-center justify-between p-4 border-b border-gray-200">
-              <h2 className="text-lg font-bold text-gray-900">
-                {mySkillProfile ? t('mutualAid.editYourSkills') || 'Edit Your Skills' : t('mutualAid.registerYourSkills') || 'Register Your Skills'}
-              </h2>
-              <button
-                onClick={() => setShowSkillForm(false)}
-                className="p-1 text-gray-500 hover:text-gray-700"
-              >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                </svg>
-              </button>
-            </div>
-
-            {/* Form */}
-            <div className="p-4 space-y-4">
-              {/* Skills Selection */}
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">
-                  What skills can you offer? (select all that apply)
-                </label>
-                <div className="grid grid-cols-2 gap-2">
-                  {SKILL_CATEGORIES.map((cat) => {
-                    const isSelected = skillFormEntries.some(e => e.category === cat)
-                    return (
-                      <button
-                        key={cat}
-                        onClick={() => handleToggleSkill(cat)}
-                        className={`px-3 py-2 text-sm rounded-lg border transition-colors text-left ${
-                          isSelected
-                            ? 'border-purple-300 bg-purple-50 text-purple-700 font-medium'
-                            : 'border-gray-200 bg-gray-50 text-gray-600 hover:bg-gray-100'
-                        }`}
-                      >
-                        {SKILL_LABELS[cat]}
-                      </button>
-                    )
-                  })}
-                </div>
-              </div>
-
-              {/* Languages */}
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Languages you speak (comma separated)
-                </label>
-                <input
-                  type="text"
-                  value={skillFormLanguages}
-                  onChange={(e) => setSkillFormLanguages(e.target.value)}
-                  placeholder="e.g. English, Spanish, Tagalog"
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
-                />
-              </div>
-
-              {/* Availability */}
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">
-                  When are you available?
-                </label>
-                <input
-                  type="text"
-                  value={skillFormAvailability}
-                  onChange={(e) => setSkillFormAvailability(e.target.value)}
-                  placeholder="e.g. Weekends, Evenings after 6pm"
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
-                />
-              </div>
-            </div>
-
-            {/* Footer */}
-            <div className="p-4 border-t border-gray-200 flex gap-3">
-              <button
-                onClick={() => setShowSkillForm(false)}
-                className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
-              >
-                {t('common.cancel') || 'Cancel'}
-              </button>
-              <button
-                onClick={handleSubmitSkills}
-                disabled={skillFormEntries.length === 0}
-                className={`flex-1 px-4 py-2 text-sm font-medium text-white rounded-lg transition-colors ${
-                  skillFormEntries.length > 0
-                    ? 'bg-rstu-red hover:bg-red-700'
-                    : 'bg-gray-300 cursor-not-allowed'
-                }`}
-              >
-                {t('mutualAid.saveSkills') || 'Save Skills'}
               </button>
             </div>
           </div>

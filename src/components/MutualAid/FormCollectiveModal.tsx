@@ -52,13 +52,13 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
 
     try {
       // Create the organization
-      const org = createInternalOrganization(
-        name.trim(),
-        description.trim(),
+      const org = createInternalOrganization({
+        name: name.trim(),
+        description: description.trim(),
         category,
-        profile.id,
+        createdBy: profile.id,
         isPublic
-      )
+      })
 
       if (!org) {
         setError('Failed to create collective')

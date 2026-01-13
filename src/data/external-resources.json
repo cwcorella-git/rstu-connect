@@ -1,0 +1,226 @@
+{
+  "organizations": [
+    {
+      "id": "ext-voa-cares",
+      "type": "external",
+      "name": "Volunteers of America Cares Campus",
+      "description": "Emergency shelter providing beds, meals, and support services for adults experiencing homelessness in the Reno area.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 324-2622", "label": "Main Line" },
+        { "type": "address", "value": "1370 E 6th St, Reno, NV 89512" }
+      ],
+      "serviceArea": "Washoe County",
+      "eligibility": "Adults experiencing homelessness",
+      "verified": true
+    },
+    {
+      "id": "ext-hope-springs",
+      "type": "external",
+      "name": "Hope Springs (Northern Nevada HOPES)",
+      "description": "Emergency shelter with integrated medical and mental health services for individuals experiencing homelessness.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 786-4673", "label": "HOPES Main" },
+        { "type": "website", "value": "https://nnhopes.org" }
+      ],
+      "serviceArea": "Washoe County",
+      "verified": true
+    },
+    {
+      "id": "ext-safe-camp",
+      "type": "external",
+      "name": "Safe Camp",
+      "description": "Transitional housing program at Governors Bowl Park providing structured support for individuals moving toward permanent housing.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "address", "value": "Governors Bowl Park, Reno, NV" }
+      ],
+      "serviceArea": "Reno",
+      "eligibility": "Adults in transitional housing program",
+      "verified": true
+    },
+    {
+      "id": "ext-our-place",
+      "type": "external",
+      "name": "Our Place/RISE",
+      "description": "Drop-in services for individuals and families, providing meals, case management, and resource navigation.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 525-5500" },
+        { "type": "address", "value": "205 E 4th St, Reno, NV 89501" }
+      ],
+      "serviceArea": "Washoe County",
+      "verified": true
+    },
+    {
+      "id": "ext-eddy-house",
+      "type": "external",
+      "name": "Eddy House",
+      "description": "Youth shelter and services for young adults ages 12-24 experiencing homelessness or housing instability.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 384-1129" },
+        { "type": "website", "value": "https://eddyhouse.org" },
+        { "type": "address", "value": "25 Mt Rose St, Reno, NV 89509" }
+      ],
+      "serviceArea": "Washoe County",
+      "eligibility": "Youth ages 12-24",
+      "verified": true
+    },
+    {
+      "id": "ext-nevada-legal",
+      "type": "external",
+      "name": "Nevada Legal Services",
+      "description": "Free legal assistance for low-income Nevadans in civil matters including housing, family law, and public benefits.",
+      "category": "legal_aid",
+      "contacts": [
+        { "type": "phone", "value": "(775) 284-3491", "label": "Reno Office" },
+        { "type": "phone", "value": "(800) 323-8666", "label": "Statewide" },
+        { "type": "website", "value": "https://nevadalegalservices.org" }
+      ],
+      "serviceArea": "Statewide",
+      "eligibility": "Income-based (below 200% FPL)",
+      "verified": true
+    },
+    {
+      "id": "ext-nnla",
+      "type": "external",
+      "name": "Northern Nevada Legal Aid",
+      "description": "Legal assistance for tenants facing eviction, housing discrimination, and landlord-tenant disputes.",
+      "category": "legal_aid",
+      "contacts": [
+        { "type": "phone", "value": "(775) 337-5757" },
+        { "type": "website", "value": "https://nnlegalaid.org" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Income-based",
+      "verified": true
+    },
+    {
+      "id": "ext-dwss",
+      "type": "external",
+      "name": "DWSS (Division of Welfare & Support Services)",
+      "description": "Nevada state agency providing SNAP, TANF, Medicaid, and other public benefit programs.",
+      "category": "government",
+      "contacts": [
+        { "type": "phone", "value": "(775) 823-6000", "label": "Reno Office" },
+        { "type": "website", "value": "https://dwss.nv.gov" },
+        { "type": "address", "value": "1055 E William St, Reno, NV 89502" }
+      ],
+      "serviceArea": "Statewide",
+      "verified": true
+    },
+    {
+      "id": "ext-reno-housing-auth",
+      "type": "external",
+      "name": "Reno Housing Authority",
+      "description": "Section 8 vouchers, public housing, and rental assistance programs for low-income residents.",
+      "category": "government",
+      "contacts": [
+        { "type": "phone", "value": "(775) 329-3630" },
+        { "type": "website", "value": "https://renoha.org" },
+        { "type": "address", "value": "1525 E 9th St, Reno, NV 89512" }
+      ],
+      "serviceArea": "Reno",
+      "eligibility": "Income-based",
+      "verified": true
+    },
+    {
+      "id": "ext-safe-embrace",
+      "type": "external",
+      "name": "Safe Embrace",
+      "description": "Emergency shelter and support services for survivors of domestic violence and sexual assault.",
+      "category": "emergency_aid",
+      "contacts": [
+        { "type": "phone", "value": "(775) 322-3466", "label": "24-Hour Crisis Line" },
+        { "type": "website", "value": "https://safeembrace.org" }
+      ],
+      "serviceArea": "Washoe County",
+      "eligibility": "Survivors of domestic/sexual violence",
+      "verified": true
+    },
+    {
+      "id": "ext-nn-hopes",
+      "type": "external",
+      "name": "Northern Nevada HOPES",
+      "description": "Community health center providing medical, dental, behavioral health, and HIV/AIDS services regardless of ability to pay.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 786-4673" },
+        { "type": "website", "value": "https://nnhopes.org" },
+        { "type": "address", "value": "580 W 5th St, Reno, NV 89503" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Sliding scale fees",
+      "languages": ["English", "Spanish"],
+      "verified": true
+    },
+    {
+      "id": "ext-community-health",
+      "type": "external",
+      "name": "Community Health Alliance",
+      "description": "Free and low-cost medical care, dental services, and prescription assistance for uninsured and underinsured residents.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 329-6300" },
+        { "type": "website", "value": "https://chanevada.org" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Uninsured/underinsured",
+      "verified": true
+    },
+    {
+      "id": "ext-change-point",
+      "type": "external",
+      "name": "Change Point",
+      "description": "Harm reduction services including syringe exchange, HIV/Hepatitis testing, and naloxone distribution.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 432-8920" },
+        { "type": "website", "value": "https://changepointnv.org" }
+      ],
+      "serviceArea": "Washoe County",
+      "verified": true
+    },
+    {
+      "id": "ext-food-bank",
+      "type": "external",
+      "name": "Food Bank of Northern Nevada",
+      "description": "Food distribution, mobile pantries, and emergency food assistance throughout Northern Nevada.",
+      "category": "mutual_aid",
+      "contacts": [
+        { "type": "phone", "value": "(775) 331-3663" },
+        { "type": "website", "value": "https://fbnn.org" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "verified": true
+    },
+    {
+      "id": "ext-karma-box",
+      "type": "external",
+      "name": "Karma Box Project",
+      "description": "Transitional living programs and community support services for individuals rebuilding their lives.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "website", "value": "https://karmabox.org" }
+      ],
+      "serviceArea": "Reno-Sparks",
+      "verified": true
+    },
+    {
+      "id": "ext-hope-team",
+      "type": "external",
+      "name": "HOPE Team (Homeless Outreach Proactive Engagement)",
+      "description": "Washoe County Sheriff's outreach team connecting unhoused individuals with services and resources.",
+      "category": "advocacy",
+      "contacts": [
+        { "type": "phone", "value": "(775) 328-3001", "label": "Non-emergency" }
+      ],
+      "serviceArea": "Washoe County",
+      "verified": true
+    }
+  ],
+  "lastUpdated": "2025-01-12",
+  "source": "Curated from linktr.ee/renounhoused and community knowledge"
+}

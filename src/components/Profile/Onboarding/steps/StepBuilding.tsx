@@ -60,7 +60,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
 
   // Load all properties on mount
   useEffect(() => {
-    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : '';
+    const basePath = '/rstu-connect';
     fetch(`${basePath}/data/all-properties.json`)
       .then((res) => res.json())
       .then((data) => {

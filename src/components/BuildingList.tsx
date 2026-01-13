@@ -174,7 +174,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
 
   // Load all properties on mount (fallback for when Supabase is unavailable)
   useEffect(() => {
-    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : '';
+    const basePath = '/rstu-connect';
     fetch(`${basePath}/data/all-properties.json`)
       .then(res => res.json())
       .then(data => {
