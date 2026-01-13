@@ -369,14 +369,11 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             />
           )}
 
-          {/* Elections Section */}
-          <div className="bg-white rounded-lg border border-gray-200 p-4">
-            <h3 className="font-medium text-gray-900 mb-3">{t('elections.voting')}</h3>
-            <ElectionsDashboard
-              profileId={profile.id}
-              profileName={profile.nickname}
-            />
-          </div>
+          {/* Voting Section - Elections & App Governance */}
+          <ProfileVotingSection
+            profileId={profile.id}
+            profileName={profile.nickname}
+          />
 
           {/* Invite Code Manager - Available to all users */}
           {profile && <InviteCodeManager />}
