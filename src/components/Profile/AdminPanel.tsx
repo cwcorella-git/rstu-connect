@@ -6,11 +6,16 @@ import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import {
   exportProfileData,
   isAdmin,
+  getCurrentProfile,
 } from '@/lib/profileStorage'
+import {
+  getAdminSettings,
+  updateAdminSettings,
+  type AdminSettings,
+} from '@/lib/adminSettingsStorage'
 import { exportCanvassData, importCanvassData, getCanvassState } from '@/lib/canvassStorage'
 import { AlertModal } from '@/components/ui/ConfirmModal'
 import { ElectionAdmin } from '@/components/Elections'
-import { getCurrentProfile } from '@/lib/profileStorage'
 
 interface AdminPanelProps {
   buildings: EnhancedBuilding[]
@@ -25,10 +30,16 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
     contacted: number
   }>({ buildings: 0, totalUnits: 0, contacted: 0 })
 
+  // Admin settings state
+  const [adminSettings, setAdminSettings] = useState<AdminSettings | null>(null)
+
   // Alert modal state
   const [alertMessage, setAlertMessage] = useState<{ message: string; variant: 'success' | 'error' } | null>(null)
 
   useEffect(() => {
+    // Load admin settings
+    setAdminSettings(getAdminSettings())
+
     // Calculate canvass stats
     const state = getCanvassState()
     let totalUnits = 0
@@ -118,6 +129,43 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
     input.click()
   }
 
+  // Handle toggling site-wide settings
+  const handleToggleTabVisibility = (tab: keyof NonNullable<AdminSettings>['tabVisibility']) => {
+    if (!adminSettings) return
+    const profile = getCurrentProfile()
+    const result = updateAdminSettings({
+      tabVisibility: {
+        ...adminSettings.tabVisibility,
+        [tab]: !adminSettings.tabVisibility[tab],
+      },
+    }, profile?.id)
+    if (result) {
+      setAdminSettings(result)
+      setAlertMessage({
+        message: `${tab.charAt(0).toUpperCase() + tab.slice(1)} tab ${result.tabVisibility[tab] ? 'enabled' : 'disabled'}`,
+        variant: 'success',
+      })
+    }
+  }
+
+  const handleToggleFeature = (feature: keyof NonNullable<AdminSettings>['features']) => {
+    if (!adminSettings) return
+    const profile = getCurrentProfile()
+    const result = updateAdminSettings({
+      features: {
+        ...adminSettings.features,
+        [feature]: !adminSettings.features[feature],
+      },
+    }, profile?.id)
+    if (result) {
+      setAdminSettings(result)
+      setAlertMessage({
+        message: `${feature} ${result.features[feature] ? 'enabled' : 'disabled'}`,
+        variant: 'success',
+      })
+    }
+  }
+
   return (
     <div className="flex flex-col h-full overflow-hidden">
       {/* Header */}
@@ -189,6 +237,155 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
               {t('common.next') || 'Export Profile'}
             </button>
           </div>
+
+          {/* Site Settings */}
+          {adminSettings && (
+            <div className="bg-white rounded-lg border border-purple-200 p-4">
+              <h3 className="font-medium text-gray-900 mb-1">Site Settings</h3>
+              <p className="text-xs text-gray-500 mb-4">
+                These settings affect all users site-wide
+              </p>
+
+              {/* Tab Visibility */}
+              <div className="mb-4">
+                <h4 className="text-sm font-medium text-gray-700 mb-2">Tab Visibility</h4>
+                <div className="space-y-2">
+                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
+                    <span className="text-sm text-gray-700">Organize Tab</span>
+                    <button
+                      onClick={() => handleToggleTabVisibility('organize')}
+                      className={`relative w-11 h-6 rounded-full transition-colors ${
+                        adminSettings.tabVisibility.organize ? 'bg-green-500' : 'bg-gray-300'
+                      }`}
+                    >
+                      <span
+                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
+                          adminSettings.tabVisibility.organize ? 'translate-x-5' : ''
+                        }`}
+                      />
+                    </button>
+                  </label>
+                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
+                    <span className="text-sm text-gray-700">Reading Tab</span>
+                    <button
+                      onClick={() => handleToggleTabVisibility('reading')}
+                      className={`relative w-11 h-6 rounded-full transition-colors ${
+                        adminSettings.tabVisibility.reading ? 'bg-green-500' : 'bg-gray-300'
+                      }`}
+                    >
+                      <span
+                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
+                          adminSettings.tabVisibility.reading ? 'translate-x-5' : ''
+                        }`}
+                      />
+                    </button>
+                  </label>
+                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
+                    <span className="text-sm text-gray-700">Mutual Aid Tab</span>
+                    <button
+                      onClick={() => handleToggleTabVisibility('mutualAid')}
+                      className={`relative w-11 h-6 rounded-full transition-colors ${
+                        adminSettings.tabVisibility.mutualAid ? 'bg-green-500' : 'bg-gray-300'
+                      }`}
+                    >
+                      <span
+                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
+                          adminSettings.tabVisibility.mutualAid ? 'translate-x-5' : ''
+                        }`}
+                      />
+                    </button>
+                  </label>
+                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
+                    <span className="text-sm text-gray-700">Tools Tab</span>
+                    <button
+                      onClick={() => handleToggleTabVisibility('tools')}
+                      className={`relative w-11 h-6 rounded-full transition-colors ${
+                        adminSettings.tabVisibility.tools ? 'bg-green-500' : 'bg-gray-300'
+                      }`}
+                    >
+                      <span
+                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
+                          adminSettings.tabVisibility.tools ? 'translate-x-5' : ''
+                        }`}
+                      />
+                    </button>
+                  </label>
+                </div>
+                <p className="text-xs text-gray-400 mt-2">
+                  Note: Organize requires verification, Tools requires organizer role
+                </p>
+              </div>
+
+              {/* Feature Flags */}
+              <div>
+                <h4 className="text-sm font-medium text-gray-700 mb-2">Feature Flags</h4>
+                <div className="space-y-2">
+                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
+                    <div>
+                      <span className="text-sm text-gray-700">App Governance</span>
+                      <p className="text-xs text-gray-400">App-wide voting on features</p>
+                    </div>
+                    <button
+                      onClick={() => handleToggleFeature('appGovernance')}
+                      className={`relative w-11 h-6 rounded-full transition-colors ${
+                        adminSettings.features.appGovernance ? 'bg-green-500' : 'bg-gray-300'
+                      }`}
+                    >
+                      <span
+                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
+                          adminSettings.features.appGovernance ? 'translate-x-5' : ''
+                        }`}
+                      />
+                    </button>
+                  </label>
+                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
+                    <div>
+                      <span className="text-sm text-gray-700">User Feedback</span>
+                      <p className="text-xs text-gray-400">Feedback collection system</p>
+                    </div>
+                    <button
+                      onClick={() => handleToggleFeature('userFeedback')}
+                      className={`relative w-11 h-6 rounded-full transition-colors ${
+                        adminSettings.features.userFeedback ? 'bg-green-500' : 'bg-gray-300'
+                      }`}
+                    >
+                      <span
+                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
+                          adminSettings.features.userFeedback ? 'translate-x-5' : ''
+                        }`}
+                      />
+                    </button>
+                  </label>
+                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
+                    <div>
+                      <span className="text-sm text-gray-700">Delegate Voting</span>
+                      <p className="text-xs text-gray-400">Weighted voting by bloc size</p>
+                    </div>
+                    <button
+                      onClick={() => handleToggleFeature('delegateVoting')}
+                      className={`relative w-11 h-6 rounded-full transition-colors ${
+                        adminSettings.features.delegateVoting ? 'bg-green-500' : 'bg-gray-300'
+                      }`}
+                    >
+                      <span
+                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
+                          adminSettings.features.delegateVoting ? 'translate-x-5' : ''
+                        }`}
+                      />
+                    </button>
+                  </label>
+                </div>
+              </div>
+
+              {/* Last Updated */}
+              {adminSettings.lastUpdatedAt && (
+                <p className="text-xs text-gray-400 mt-4 pt-3 border-t">
+                  Last updated: {new Date(adminSettings.lastUpdatedAt).toLocaleString()}
+                  {adminSettings.lastUpdatedBy && ` by ${adminSettings.lastUpdatedBy.slice(0, 8)}...`}
+                </p>
+              )}
+            </div>
+          )}
 
           {/* Elections Management */}
           <div className="bg-white rounded-lg border border-gray-200 p-4">

@@ -75,6 +75,18 @@ export function Navigation() {
             {t('nav.tools')}
           </button>
         )}
+        {canAccessToolsTab && (
+          <button
+            onClick={() => setActiveTab('governance')}
+            className={`whitespace-nowrap ${
+              activeTab === 'governance'
+                ? 'text-gray-900 font-medium'
+                : 'text-gray-600 hover:text-gray-900'
+            }`}
+          >
+            {t('nav.governance')}
+          </button>
+        )}
         <button
           onClick={() => setActiveTab('profile')}
           className={`whitespace-nowrap flex items-center gap-2 relative ${

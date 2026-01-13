@@ -634,6 +634,15 @@ export function canAccessOrganize(): boolean {
   const profile = getCurrentProfile()
   if (!profile) return false
 
+  // Check if admin has disabled the Organize tab site-wide
+  // Import dynamically to avoid circular dependency
+  try {
+    const { isOrganizeTabEnabled } = require('./adminSettingsStorage')
+    if (!isOrganizeTabEnabled()) return false
+  } catch {
+    // If adminSettingsStorage not available, default to enabled
+  }
+
   // Only fully verified users can access
   return profile.trustLevel === 'verified'
 }

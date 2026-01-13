@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useState, ReactNode, useEffect } from 'react'
 
-type Tab = 'landing' | 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile'
+type Tab = 'landing' | 'home' | 'reading' | 'mutualAid' | 'tools' | 'governance' | 'profile'
 
 interface TabContextType {
   activeTab: Tab
