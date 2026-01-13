@@ -11,6 +11,7 @@ import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
 import { BlocFormationProposalBanner } from '@/components/Chat/BlocFormationProposalBanner'
 import { CampaignStatusBanner } from '@/components/Chat/CampaignStatusBanner'
 import { EvictionAlertBanner } from '@/components/Chat/EvictionAlertBanner'
+import { LandlordAlertBanner } from '@/components/Chat/LandlordAlertBanner'
 import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
@@ -168,6 +169,14 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
           profileId={profileId}
           onViewCase={(caseId) => setSelectedEvictionCaseId(caseId)}
           onReportCase={() => setShowEvictionForm(true)}
+        />
+      </div>
+
+      {/* Landlord Portfolio Alert Banner - alerts from same landlord's other buildings */}
+      <div className="flex-shrink-0 px-4 pt-2">
+        <LandlordAlertBanner
+          buildingApn={building.apn}
+          allBuildings={allBuildings}
         />
       </div>
 
