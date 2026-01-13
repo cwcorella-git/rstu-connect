@@ -8,7 +8,6 @@ import { EditModeProvider } from '@/contexts/EditModeContext'
 import { DisplayProvider } from '@/contexts/DisplayContext'
 import { Navigation } from '@/components/Navigation'
 import { LanguageSelector } from '@/components/LanguageSelector'
-import { QuickSwitcher } from '@/components/Display'
 import { VersionFooter } from '@/components/VersionFooter'
 import { EditModeIndicator } from '@/components/EditMode'
 import { Footer } from '@/components/Footer'
@@ -34,7 +33,6 @@ function Header() {
             </span>
           </button>
           <div className="flex items-center gap-2">
-            <QuickSwitcher />
             <LanguageSelector />
             <Navigation />
           </div>

@@ -13,7 +13,9 @@ import {
 } from '@/lib/organizationStorage'
 import { ExternalOrgCard } from './ExternalOrgCard'
 import { InternalOrgCard } from './InternalOrgCard'
+import { InternalOrgDetailView } from './InternalOrgDetailView'
 import { FormCollectiveModal } from './FormCollectiveModal'
+import { getInternalOrganization } from '@/lib/organizationStorage'
 
 // Load seed data on first use
 import externalResourcesData from '@/data/external-resources.json'
@@ -34,6 +36,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
   const [externalOrgs, setExternalOrgs] = useState<ExternalOrganization[]>([])
   const [collectives, setCollectives] = useState<InternalOrganization[]>([])
   const [selectedCollective, setSelectedCollective] = useState<InternalOrganization | null>(null)
+  const [showDetailView, setShowDetailView] = useState(false)
   const [showFormModal, setShowFormModal] = useState(false)
 
   const profile = getCurrentProfile()
@@ -73,6 +76,17 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
   const handleCollectiveClick = (org: InternalOrganization) => {
     setSelectedCollective(org)
     onSelectCollective?.(org)
+  }
+
+  const handleCollectiveCreated = () => {
+    // Refresh collectives list
+    if (collectiveFilter === 'my-collectives' && profile) {
+      setCollectives(getUserCollectives(profile.id))
+    } else {
+      setCollectives(getPublicCollectives())
+    }
+    // Switch to collectives view
+    setActiveView('collectives')
   }
 
   return (
@@ -203,6 +217,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
               {/* Form Collective button */}
               {profile && (
                 <button
+                  onClick={() => setShowFormModal(true)}
                   className="px-3 py-1.5 text-xs font-medium bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors"
                 >
                   + Form Collective
@@ -226,7 +241,10 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
                       : 'Be the first to form a tenant collective!'}
                   </p>
                   {profile && collectiveFilter !== 'my-collectives' && (
-                    <button className="px-4 py-2 text-sm font-medium bg-rstu-red text-white rounded-lg hover:bg-red-700">
+                    <button
+                      onClick={() => setShowFormModal(true)}
+                      className="px-4 py-2 text-sm font-medium bg-rstu-red text-white rounded-lg hover:bg-red-700"
+                    >
                       Form a Collective
                     </button>
                   )}
@@ -255,6 +273,13 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
           </div>
         )}
       </div>
+
+      {/* Form Collective Modal */}
+      <FormCollectiveModal
+        isOpen={showFormModal}
+        onClose={() => setShowFormModal(false)}
+        onCreated={handleCollectiveCreated}
+      />
     </div>
   )
 }
