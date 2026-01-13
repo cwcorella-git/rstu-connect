@@ -54,11 +54,7 @@ const eventStyles: Record<LandlordAlertEventType, {
   },
 }
 
-const eventLabels: Record<LandlordAlertEventType, string> = {
-  victory: 'Victory',
-  demand_escalated: 'Demand',
-  strike_started: 'Strike',
-}
+// Event labels are now handled inside the component using t() function
 
 // Icons per event type
 function EventIcon({ eventType, className }: { eventType: LandlordAlertEventType; className?: string }) {
@@ -134,17 +130,27 @@ export function LandlordAlertBanner({
   const additionalAlerts = alerts.slice(1)
   const style = eventStyles[primaryAlert.eventType]
 
+  // Get event label based on type
+  const getEventLabel = (eventType: LandlordAlertEventType): string => {
+    switch (eventType) {
+      case 'victory': return t('alerts.victory')
+      case 'demand_escalated': return t('alerts.demand')
+      case 'strike_started': return t('alerts.strike')
+      default: return eventType
+    }
+  }
+
   // Format relative time
   const formatRelativeTime = (timestamp: number): string => {
     const now = Date.now()
     const diffMs = now - timestamp
     const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24))
 
-    if (diffDays === 0) return 'Today'
-    if (diffDays === 1) return 'Yesterday'
-    if (diffDays < 7) return `${diffDays} days ago`
-    if (diffDays < 30) return `${Math.floor(diffDays / 7)} weeks ago`
-    return `${Math.floor(diffDays / 30)} months ago`
+    if (diffDays === 0) return t('common.today')
+    if (diffDays === 1) return t('common.yesterday')
+    if (diffDays < 7) return t('common.daysAgo', { count: diffDays })
+    if (diffDays < 30) return t('common.weeksAgo', { count: Math.floor(diffDays / 7) })
+    return t('common.monthsAgo', { count: Math.floor(diffDays / 30) })
   }
 
   // Get urgency badge
@@ -152,14 +158,14 @@ export function LandlordAlertBanner({
     if (urgency === 'urgent') {
       return (
         <span className="px-1.5 py-0.5 text-[10px] font-bold bg-red-600 text-white rounded uppercase">
-          Urgent
+          {t('alerts.urgent')}
         </span>
       )
     }
     if (urgency === 'important') {
       return (
         <span className="px-1.5 py-0.5 text-[10px] font-bold bg-orange-500 text-white rounded uppercase">
-          Important
+          {t('alerts.important')}
         </span>
       )
     }
@@ -174,7 +180,7 @@ export function LandlordAlertBanner({
           <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
           </svg>
-          <span>Same landlord owns {portfolioSize} properties</span>
+          <span>{t('alerts.sameOwner', { count: portfolioSize })}</span>
         </div>
       )}
 
@@ -195,7 +201,7 @@ export function LandlordAlertBanner({
                 {primaryAlert.title}
               </h3>
               <span className={`text-[10px] font-medium px-1.5 py-0.5 rounded ${style.iconBg} ${style.icon}`}>
-                {eventLabels[primaryAlert.eventType]}
+                {getEventLabel(primaryAlert.eventType)}
               </span>
               {getUrgencyBadge(primaryAlert.urgency)}
             </div>
@@ -221,14 +227,14 @@ export function LandlordAlertBanner({
                         : 'bg-orange-600 text-white hover:bg-orange-700'
                   }`}
                 >
-                  View Building
+                  {t('alerts.viewBuilding')}
                 </button>
               )}
               <button
                 onClick={() => handleDismiss(primaryAlert.id)}
                 className={`px-3 py-1 text-xs ${style.textSecondary} hover:underline`}
               >
-                {t('common.dismiss') || 'Dismiss'}
+                {t('common.dismiss')}
               </button>
             </div>
           </div>
@@ -246,7 +252,7 @@ export function LandlordAlertBanner({
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
               </svg>
-              {additionalAlerts.length} more {additionalAlerts.length === 1 ? 'alert' : 'alerts'} from same landlord
+              {t('alerts.moreAlerts', { count: additionalAlerts.length, alertWord: additionalAlerts.length === 1 ? t('alerts.alert') : t('alerts.alertsPlural') })}
             </button>
           )}
 
@@ -265,7 +271,7 @@ export function LandlordAlertBanner({
                     <div className="flex-1 min-w-0">
                       <div className="flex items-center gap-2">
                         <span className={`text-[10px] font-medium px-1 py-0.5 rounded ${alertStyle.iconBg} ${alertStyle.icon}`}>
-                          {eventLabels[alert.eventType]}
+                          {getEventLabel(alert.eventType)}
                         </span>
                         {getUrgencyBadge(alert.urgency)}
                       </div>
@@ -279,13 +285,13 @@ export function LandlordAlertBanner({
                           onClick={() => handleViewBuilding(alert.sourceChatSlug)}
                           className={`px-2 py-1 text-[10px] font-medium ${alertStyle.text} hover:underline`}
                         >
-                          View
+                          {t('common.view')}
                         </button>
                       )}
                       <button
                         onClick={() => handleDismiss(alert.id)}
                         className="p-1 text-gray-400 hover:text-gray-600"
-                        title="Dismiss"
+                        title={t('common.dismiss')}
                       >
                         <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />

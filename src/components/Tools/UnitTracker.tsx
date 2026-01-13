@@ -59,7 +59,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
 
   const handleDeleteUnit = (unitNumber: string, e: React.MouseEvent) => {
     e.stopPropagation()
-    if (confirm(t('tools.deleteUnitMsg') || `Delete unit ${unitNumber}?`)) {
+    if (confirm(t('unitTracker.deleteConfirm', { unit: unitNumber }))) {
       deleteUnit(building.chatSlug, unitNumber)
       loadUnits()
     }
@@ -96,25 +96,25 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
         <div className="px-4 py-2 border-b border-gray-200 flex-shrink-0 bg-gray-50">
           <div className="flex gap-2 text-xs">
             <div className="text-gray-600">
-              <span className="font-medium">{stats.total}</span> {t('tools.tracked') || 'tracked'}
+              <span className="font-medium">{stats.total}</span> {t('unitTracker.tracked')}
             </div>
             <div className="text-blue-600">
-              <span className="font-medium">{stats.contacted}</span> {t('tools.contacted') || 'contacted'}
+              <span className="font-medium">{stats.contacted}</span> {t('unitTracker.contacted')}
             </div>
             <div className="text-green-600">
-              <span className="font-medium">{stats.interested}</span> {t('tools.interested') || 'interested'}
+              <span className="font-medium">{stats.interested}</span> {t('unitTracker.interested')}
             </div>
             <div className="text-purple-600">
-              <span className="font-medium">{stats.active}</span> {t('tools.allStatus') || 'active'}
+              <span className="font-medium">{stats.active}</span> {t('unitTracker.active')}
             </div>
             {stats.habitability > 0 && (
               <div className="text-red-600">
-                <span className="font-medium">{stats.habitability}</span> {t('common.issues') || 'w/ issues'}
+                <span className="font-medium">{stats.habitability}</span> {t('unitTracker.withIssues')}
               </div>
             )}
             {stats.subsidized > 0 && (
               <div className="text-blue-600">
-                <span className="font-medium">{stats.subsidized}</span> {t('common.subsidized') || 'subsidized'}
+                <span className="font-medium">{stats.subsidized}</span> {t('unitTracker.subsidized')}
               </div>
             )}
           </div>
@@ -129,7 +129,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
             value={addUnitInput}
             onChange={(e) => setAddUnitInput(e.target.value)}
             onKeyDown={(e) => e.key === 'Enter' && handleAddUnits()}
-            placeholder={t('tools.unitPlaceholder') || "Unit # (e.g., 101 or 101-150)"}
+            placeholder={t('unitTracker.unitPlaceholder')}
             className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
           />
           <button
@@ -140,7 +140,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
             {t('common.add') || 'Add'}
           </button>
         </div>
-        <p className="text-xs text-gray-400 mt-1">{t('tools.unitHelp') || 'Enter single unit, range (101-150), or comma-separated'}</p>
+        <p className="text-xs text-gray-400 mt-1">{t('unitTracker.unitHelp')}</p>
       </div>
 
       {/* Data Notes Panel - for noting discrepancies */}
@@ -154,14 +154,14 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
             onChange={(e) => setFilterStatus(e.target.value as ContactStatus | 'ALL')}
             className="text-xs border border-gray-300 rounded px-2 py-1"
           >
-            <option value="ALL">{t('tools.allStatus') || 'All Status'}</option>
-            <option value="NOT_CONTACTED">{t('tools.notContacted') || 'Not Contacted'}</option>
-            <option value="NO_ANSWER">{t('tools.noAnswer') || 'No Answer'}</option>
-            <option value="CONTACTED">{t('tools.contacted') || 'Contacted'}</option>
-            <option value="INTERESTED">{t('tools.interested') || 'Interested'}</option>
-            <option value="NOT_INTERESTED">{t('tools.notInterested') || 'Not Interested'}</option>
-            <option value="FOLLOW_UP">{t('tools.followUp') || 'Follow Up'}</option>
-            <option value="ACTIVE_MEMBER">{t('tools.activeMember') || 'Active Member'}</option>
+            <option value="ALL">{t('unitTracker.allStatus')}</option>
+            <option value="NOT_CONTACTED">{t('unitTracker.notContacted')}</option>
+            <option value="NO_ANSWER">{t('unitTracker.noAnswer')}</option>
+            <option value="CONTACTED">{t('unitTracker.contactedStatus')}</option>
+            <option value="INTERESTED">{t('unitTracker.interestedStatus')}</option>
+            <option value="NOT_INTERESTED">{t('unitTracker.notInterested')}</option>
+            <option value="FOLLOW_UP">{t('unitTracker.followUp')}</option>
+            <option value="ACTIVE_MEMBER">{t('unitTracker.activeMember')}</option>
           </select>
 
           <select
@@ -169,9 +169,9 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
             onChange={(e) => setSortBy(e.target.value as 'unit' | 'status' | 'updated')}
             className="text-xs border border-gray-300 rounded px-2 py-1"
           >
-            <option value="unit">{t('tools.sortByUnit') || 'Sort by Unit'}</option>
-            <option value="status">{t('tools.sortByStatus') || 'Sort by Status'}</option>
-            <option value="updated">{t('tools.sortByUpdated') || 'Sort by Updated'}</option>
+            <option value="unit">{t('unitTracker.sortByUnit')}</option>
+            <option value="status">{t('unitTracker.sortByStatus')}</option>
+            <option value="updated">{t('unitTracker.sortByUpdated')}</option>
           </select>
 
           <span className="text-xs text-gray-500 ml-auto">
@@ -187,12 +187,12 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
             <svg className="w-12 h-12 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
             </svg>
-            <p className="text-sm">{t('tools.noUnitsAdded') || 'No units added yet'}</p>
-            <p className="text-xs mt-1">{t('tools.noUnitsHelp') || 'Add units above to start tracking tenant outreach'}</p>
+            <p className="text-sm">{t('unitTracker.noUnitsYet')}</p>
+            <p className="text-xs mt-1">{t('unitTracker.addUnitsHelp')}</p>
           </div>
         ) : filteredUnits.length === 0 ? (
           <div className="text-center py-12 text-gray-400">
-            <p className="text-sm">{t('tools.noUnitsMatch') || 'No units match filter'}</p>
+            <p className="text-sm">{t('unitTracker.noUnitsMatch')}</p>
           </div>
         ) : (
           <ul className="divide-y divide-gray-200">
@@ -257,7 +257,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
                   <button
                     onClick={(e) => handleDeleteUnit(unit.unitNumber, e)}
                     className="p-1 text-gray-400 hover:text-red-500 transition-colors"
-                    title={t('tools.deleteUnit') || 'Delete unit'}
+                    title={t('common.delete')}
                   >
                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />

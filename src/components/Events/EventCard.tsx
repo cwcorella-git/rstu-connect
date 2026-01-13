@@ -79,19 +79,19 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
   // Status badge
   const getStatusBadge = () => {
     if (event.status === 'cancelled') {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-red-100 text-red-700 rounded">{t('events.cancelled') || 'Cancelled'}</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-red-100 text-red-700 rounded">{t('eventCard.cancelled')}</span>;
     }
     if (event.status === 'completed') {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-gray-100 text-gray-600 rounded">{t('events.completed') || 'Completed'}</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-gray-100 text-gray-600 rounded">{t('eventCard.completed')}</span>;
     }
     if (isVerySoon) {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-orange-100 text-orange-700 rounded animate-pulse">{t('events.startingSoon') || 'Starting Soon'}</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-orange-100 text-orange-700 rounded animate-pulse">{t('eventCard.startingSoon')}</span>;
     }
     if (isSoon) {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-yellow-100 text-yellow-700 rounded">{t('events.tomorrow') || 'Tomorrow'}</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-yellow-100 text-yellow-700 rounded">{t('eventCard.tomorrow')}</span>;
     }
     if (event.status === 'proposed') {
-      return <span className="px-1.5 py-0.5 text-xs font-medium bg-blue-100 text-blue-700 rounded">{t('events.proposed') || 'Proposed'}</span>;
+      return <span className="px-1.5 py-0.5 text-xs font-medium bg-blue-100 text-blue-700 rounded">{t('eventCard.proposed')}</span>;
     }
     return null;
   };
@@ -139,8 +139,8 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
                   <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
                   </svg>
-                  {event.recurrence?.type === 'weekly' ? t('events.weekly') || 'Weekly' :
-                   event.recurrence?.type === 'biweekly' ? t('events.biweekly') || 'Bi-weekly' : t('events.monthly') || 'Monthly'}
+                  {event.recurrence?.type === 'weekly' ? t('eventCard.weekly') :
+                   event.recurrence?.type === 'biweekly' ? t('eventCard.biweekly') : t('eventCard.monthly')}
                   {event.recurrence?.occurrenceNumber && ` (${event.recurrence.occurrenceNumber})`}
                 </span>
               )}

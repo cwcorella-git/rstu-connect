@@ -24,6 +24,8 @@ export const viewport: Viewport = {
 
 // Content Security Policy for XSS prevention
 // Note: Using meta tag since this is a static export (headers() doesn't work)
+// Note: frame-ancestors and X-Frame-Options must be set via HTTP headers at the hosting level
+// (GitHub Pages, Neocities) - they are ignored when delivered via meta tags
 const cspContent = [
   "default-src 'self'",
   // Scripts: self + inline needed for Next.js hydration
@@ -46,8 +48,6 @@ const cspContent = [
   "base-uri 'self'",
   // Form actions
   "form-action 'self'",
-  // Frame ancestors (allow Neocities iframe)
-  "frame-ancestors 'self' https://rstu-connect.neocities.org https://*.neocities.org",
   // Upgrade insecure requests
   "upgrade-insecure-requests",
 ].join('; ')
@@ -64,7 +64,6 @@ export default function RootLayout({
         <meta httpEquiv="Content-Security-Policy" content={cspContent} />
         {/* Additional security headers via meta tags */}
         <meta httpEquiv="X-Content-Type-Options" content="nosniff" />
-        <meta httpEquiv="X-Frame-Options" content="SAMEORIGIN" />
         <meta name="referrer" content="strict-origin-when-cross-origin" />
         <link rel="apple-touch-icon" href="/rstu-connect/icon-192.png" />
         <meta name="apple-mobile-web-app-capable" content="yes" />

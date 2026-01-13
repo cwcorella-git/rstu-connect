@@ -39,24 +39,23 @@ export function GovernancePanel({
   ).slice(0, 10) // Last 10
 
   const formatTime = (timestamp: number) => {
-    const date = new Date(timestamp)
     const now = Date.now()
     const diff = now - timestamp
     const days = Math.floor(diff / (24 * 60 * 60 * 1000))
-    if (days > 0) return `${days} day${days !== 1 ? 's' : ''} ago`
+    if (days > 0) return t('common.daysAgo', { count: days })
     const hours = Math.floor(diff / (60 * 60 * 1000))
-    if (hours > 0) return `${hours} hour${hours !== 1 ? 's' : ''} ago`
+    if (hours > 0) return t('common.hoursAgo', { count: hours })
     const mins = Math.floor(diff / (60 * 1000))
-    return `${mins} minute${mins !== 1 ? 's' : ''} ago`
+    return t('common.minutesAgo', { count: mins })
   }
 
   const getTimeRemaining = (expiresAt: number) => {
     const remaining = expiresAt - Date.now()
     if (remaining <= 0) return t('governance.expired') || 'Expired'
     const days = Math.floor(remaining / (24 * 60 * 60 * 1000))
-    if (days > 0) return `${days} day${days !== 1 ? 's' : ''} left`
+    if (days > 0) return t('common.daysLeft', { count: days })
     const hours = Math.floor(remaining / (60 * 60 * 1000))
-    return `${hours} hour${hours !== 1 ? 's' : ''} left`
+    return t('common.hoursLeft', { count: hours })
   }
 
   const getNetVotes = (proposal: GovernanceProposal) => {
@@ -66,21 +65,21 @@ export function GovernancePanel({
   const getProposalSummary = (proposal: GovernanceProposal): string => {
     switch (proposal.type) {
       case 'rename':
-        return `Rename → "${proposal.targetValue}"`
+        return t('governance.proposalRename', { value: proposal.targetValue || '' })
       case 'add-property':
-        return `Add property: ${proposal.targetApn}`
+        return t('governance.proposalAddProperty', { apn: proposal.targetApn || '' })
       case 'remove-property':
-        return `Remove property: ${proposal.targetApn}`
+        return t('governance.proposalRemoveProperty', { apn: proposal.targetApn || '' })
       case 'merge':
-        return `Merge with group`
+        return t('governance.proposalMerge')
       case 'alliance':
-        return `Alliance with group`
+        return t('governance.proposalAlliance')
       case 'mute-tenant':
-        return `Mute @${proposal.targetProfileId}`
+        return t('governance.proposalMute', { profileId: proposal.targetProfileId || '' })
       case 'escalate':
-        return `Escalate demand`
+        return t('governance.proposalEscalate')
       case 'split':
-        return `Split group`
+        return t('governance.proposalSplit')
       default:
         return proposal.type
     }
@@ -97,7 +96,7 @@ export function GovernancePanel({
       <div className="bg-white rounded-lg shadow-xl max-w-lg w-full p-6 max-h-[90vh] overflow-y-auto">
         <div className="flex justify-between items-start mb-4">
           <div>
-            <h3 className="text-lg font-bold text-gray-900">{t('governance.title') || 'Governance'}</h3>
+            <h3 className="text-lg font-bold text-gray-900">{t('governance.title')}</h3>
             <p className="text-sm text-gray-500">{groupName}</p>
           </div>
           <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-xl">
@@ -109,10 +108,10 @@ export function GovernancePanel({
         <div className="mb-6">
           <h4 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-green-500"></span>
-            {t('governance.activeVotes') || 'Active Votes'}
+            {t('governance.activeVotes')}
           </h4>
           {activeProposals.length === 0 ? (
-            <p className="text-sm text-gray-400 italic">{t('governance.noActiveVotes') || 'No active votes'}</p>
+            <p className="text-sm text-gray-400 italic">{t('governance.noActiveVotes')}</p>
           ) : (
             <div className="space-y-3">
               {activeProposals.map(proposal => {
@@ -139,7 +138,7 @@ export function GovernancePanel({
                       </span>
                       {isPassed && (
                         <span className="text-xs px-2 py-0.5 bg-green-100 text-green-700 rounded">
-                          PASSED
+                          {t('governance.passed')}
                         </span>
                       )}
                     </div>
@@ -155,7 +154,7 @@ export function GovernancePanel({
           <div className="mb-6">
             <h4 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-yellow-500"></span>
-              {t('governance.pendingFinalization') || 'Pending Finalization'}
+              {t('governance.pendingFinalization')}
             </h4>
             <div className="space-y-3">
               {pendingFinalizeProposals.map(proposal => {
@@ -168,7 +167,7 @@ export function GovernancePanel({
                         {getProposalSummary(proposal)}
                       </span>
                       <span className="text-xs px-2 py-0.5 bg-yellow-100 text-yellow-700 rounded">
-                        +{netVotes} PASSED
+                        +{netVotes} {t('governance.passed')}
                       </span>
                     </div>
                     <p className="text-xs text-gray-500 mb-2">
@@ -197,10 +196,10 @@ export function GovernancePanel({
         <div>
           <h4 className="text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-gray-400"></span>
-            {t('governance.pastVotes') || 'Past Votes'}
+            {t('governance.pastVotes')}
           </h4>
           {pastProposals.length === 0 ? (
-            <p className="text-sm text-gray-400 italic">{t('governance.noPastVotes') || 'No past votes'}</p>
+            <p className="text-sm text-gray-400 italic">{t('governance.noPastVotes')}</p>
           ) : (
             <div className="space-y-2">
               {pastProposals.map(proposal => (
@@ -225,7 +224,7 @@ export function GovernancePanel({
         {/* Info */}
         <div className="mt-6 pt-4 border-t border-gray-200">
           <p className="text-xs text-gray-500">
-            {t('governance.info') || 'Vote on proposals in chat. Admins facilitate but cannot vote.'}
+            {t('governance.votingInfo')}
           </p>
         </div>
       </div>

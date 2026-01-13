@@ -89,23 +89,23 @@ function isIssue(text: string): { category: string; title: string; address: stri
   return null
 }
 
-// Category display names
-const CATEGORY_LABELS: Record<string, string> = {
-  maintenance: 'Maintenance',
-  slow_repair: 'Slow Repairs',
-  rent_increase: 'Rent Increase',
-  pests: 'Pests',
-  mold: 'Mold/Water',
-  hvac: 'HVAC',
-  plumbing: 'Plumbing',
-  security: 'Security',
-  noise: 'Noise',
-  parking: 'Parking',
-  management: 'Management',
-  harassment: 'Harassment',
-  privacy: 'Privacy',
-  illegal_fees: 'Illegal Fees',
-  lease_violation: 'Lease Violation',
+// Category translation keys
+const CATEGORY_KEYS: Record<string, string> = {
+  maintenance: 'issues.maintenance',
+  slow_repair: 'issues.slowRepairs',
+  rent_increase: 'issues.rentIncrease',
+  pests: 'issues.pests',
+  mold: 'issues.moldWater',
+  hvac: 'issues.hvac',
+  plumbing: 'issues.plumbing',
+  security: 'issues.security',
+  noise: 'issues.noise',
+  parking: 'issues.parking',
+  management: 'issues.management',
+  harassment: 'issues.harassment',
+  privacy: 'issues.privacy',
+  illegal_fees: 'issues.illegalFees',
+  lease_violation: 'issues.leaseViolation',
 }
 
 // Check if message is a vote
@@ -343,7 +343,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                       ISSUE
                     </span>
                     <span className="text-xs text-gray-500">
-                      {CATEGORY_LABELS[issue.category] || issue.category}
+                      {CATEGORY_KEYS[issue.category] ? t(CATEGORY_KEYS[issue.category]) : issue.category}
                     </span>
                   </div>
                   <span className="text-xs text-gray-400" suppressHydrationWarning>
@@ -360,8 +360,8 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                   </p>
                 )}
                 <p className="text-xs text-gray-400 mb-2">
-                  reported by {message.username}
-                  {issue.address && <span> at {issue.address}</span>}
+                  {t('messages.reportedBy')} {message.username}
+                  {issue.address && <span> {t('common.at')} {issue.address}</span>}
                 </p>
 
                 {/* Vote buttons */}
@@ -374,7 +374,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                         ? 'bg-green-100 text-green-700 font-medium'
                         : 'hover:bg-gray-100 text-gray-600'
                     } ${!currentUsername ? 'opacity-50 cursor-not-allowed' : ''}`}
-                    title={currentUsername ? 'Support this issue' : 'Set a username to vote'}
+                    title={currentUsername ? t('messages.supportIssue') : t('messages.setUsernameToVote')}
                   >
                     <span>+</span>
                     <span>{votes.up.size}</span>
@@ -387,7 +387,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                         ? 'bg-red-100 text-red-700 font-medium'
                         : 'hover:bg-gray-100 text-gray-600'
                     } ${!currentUsername ? 'opacity-50 cursor-not-allowed' : ''}`}
-                    title={currentUsername ? 'Oppose this issue' : 'Set a username to vote'}
+                    title={currentUsername ? t('messages.opposeIssue') : t('messages.setUsernameToVote')}
                   >
                     <span>-</span>
                     <span>{votes.down.size}</span>
@@ -395,9 +395,9 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                   <span className={`text-xs ml-auto ${netVotes >= 0 ? 'text-green-600' : 'text-red-600'}`}>
                     {netVotes >= 0 ? '+' : ''}{netVotes}
                     {netVotes >= 5 ? (
-                      <span className="text-green-700 font-medium ml-1">Demand!</span>
+                      <span className="text-green-700 font-medium ml-1">{t('messages.demand')}</span>
                     ) : votesToDemand > 0 ? (
-                      <span className="text-gray-400 ml-1">({votesToDemand} more to demand)</span>
+                      <span className="text-gray-400 ml-1">({t('messages.moreToDemand', { count: votesToDemand })})</span>
                     ) : null}
                   </span>
                 </div>
@@ -437,10 +437,10 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                           ? 'bg-blue-100 text-blue-700'
                           : 'bg-purple-100 text-purple-700'
                     }`}>
-                      {isApproved ? '✓ APPROVED' : proposal.type === 'location' ? '📍 LOCATION' : '📅 MEETING'}
+                      {isApproved ? `✓ ${t('messages.approved').toUpperCase()}` : proposal.type === 'location' ? `📍 ${t('messages.location').toUpperCase()}` : `📅 ${t('messages.meeting').toUpperCase()}`}
                     </span>
                     <span className="text-xs text-gray-500">
-                      by {message.username}
+                      {t('common.by')} {message.username}
                     </span>
                   </div>
                   <span className="text-xs text-gray-400" suppressHydrationWarning>
@@ -480,7 +480,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                 {/* Status message */}
                 {isApproved && proposal.type === 'meeting' && (
                   <div className="bg-green-100 rounded px-2 py-1 text-xs text-green-700 mb-2">
-                    Added to building calendar
+                    {t('messages.addedToCalendar')}
                   </div>
                 )}
 
@@ -494,7 +494,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                         ? 'bg-green-100 text-green-700 font-medium'
                         : 'hover:bg-gray-100 text-gray-600'
                     } ${!currentUsername ? 'opacity-50 cursor-not-allowed' : ''}`}
-                    title={currentUsername ? 'Vote yes' : 'Set a username to vote'}
+                    title={currentUsername ? t('messages.voteYes') : t('messages.setUsernameToVote')}
                   >
                     <span>+</span>
                     <span>{votes.up.size}</span>
@@ -507,16 +507,16 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                         ? 'bg-red-100 text-red-700 font-medium'
                         : 'hover:bg-gray-100 text-gray-600'
                     } ${!currentUsername ? 'opacity-50 cursor-not-allowed' : ''}`}
-                    title={currentUsername ? 'Vote no' : 'Set a username to vote'}
+                    title={currentUsername ? t('messages.voteNo') : t('messages.setUsernameToVote')}
                   >
                     <span>-</span>
                     <span>{votes.down.size}</span>
                   </button>
                   <span className={`text-xs ml-auto ${isApproved ? 'text-green-600 font-medium' : 'text-gray-400'}`}>
                     {isApproved ? (
-                      'Approved!'
+                      t('messages.approvedExclaim')
                     ) : votesNeeded > 0 ? (
-                      `${votesNeeded} more to approve`
+                      t('messages.moreToApprove', { count: votesNeeded })
                     ) : null}
                   </span>
                 </div>
@@ -587,16 +587,16 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                 <div className="flex items-center justify-between pt-2 border-t border-green-200">
                   <div className="flex items-center gap-3 text-xs">
                     <span className="text-green-600">
-                      <span className="font-medium">{counts.yes}</span> going
+                      <span className="font-medium">{counts.yes}</span> {t('events.going')}
                     </span>
                     {counts.maybe > 0 && (
                       <span className="text-yellow-600">
-                        <span className="font-medium">{counts.maybe}</span> maybe
+                        <span className="font-medium">{counts.maybe}</span> {t('events.maybe')}
                       </span>
                     )}
                   </div>
                   <span className="text-xs text-gray-400">
-                    by {message.username}
+                    {t('common.by')} {message.username}
                   </span>
                 </div>
               </div>
@@ -618,8 +618,8 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
                     <button
                       onClick={() => onDeleteMessage(message.id, message.username)}
                       className="text-gray-400 hover:text-red-600 opacity-0 group-hover:opacity-100 transition-opacity text-xs px-1"
-                      title="Delete message"
-                      aria-label="Delete message"
+                      title={t('messages.deleteMessage')}
+                      aria-label={t('messages.deleteMessage')}
                     >
                       ✕
                     </button>

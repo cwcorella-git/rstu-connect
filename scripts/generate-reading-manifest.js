@@ -12,7 +12,14 @@ function generateManifest() {
 
   // Clean public/documents before regenerating (removes stale categories)
   if (fs.existsSync(PUBLIC_DIR)) {
-    fs.rmSync(PUBLIC_DIR, { recursive: true });
+    // Use rm -rf via child_process as a more reliable cross-platform solution
+    const { execSync } = require('child_process');
+    try {
+      execSync(`rm -rf "${PUBLIC_DIR}"`, { stdio: 'pipe' });
+    } catch (e) {
+      // Fallback to fs.rmSync
+      fs.rmSync(PUBLIC_DIR, { recursive: true, force: true, maxRetries: 3, retryDelay: 100 });
+    }
   }
   fs.mkdirSync(PUBLIC_DIR, { recursive: true });
 

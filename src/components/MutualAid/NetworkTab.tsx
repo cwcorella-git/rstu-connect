@@ -75,7 +75,28 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
 
   const handleCollectiveClick = (org: InternalOrganization) => {
     setSelectedCollective(org)
+    setShowDetailView(true)
     onSelectCollective?.(org)
+  }
+
+  const handleCloseDetailView = () => {
+    setShowDetailView(false)
+  }
+
+  const handleOrganizationUpdated = () => {
+    // Refresh the selected organization
+    if (selectedCollective) {
+      const updated = getInternalOrganization(selectedCollective.id)
+      if (updated) {
+        setSelectedCollective(updated)
+      }
+    }
+    // Refresh collectives list
+    if (collectiveFilter === 'my-collectives' && profile) {
+      setCollectives(getUserCollectives(profile.id))
+    } else {
+      setCollectives(getPublicCollectives())
+    }
   }
 
   const handleCollectiveCreated = () => {
@@ -280,6 +301,19 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
         onClose={() => setShowFormModal(false)}
         onCreated={handleCollectiveCreated}
       />
+
+      {/* Collective Detail View Modal */}
+      {showDetailView && selectedCollective && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
+          <div className="relative bg-white rounded-lg shadow-xl w-full max-w-2xl mx-4 h-[90vh] overflow-hidden">
+            <InternalOrgDetailView
+              organization={selectedCollective}
+              onClose={handleCloseDetailView}
+              onOrganizationUpdated={handleOrganizationUpdated}
+            />
+          </div>
+        </div>
+      )}
     </div>
   )
 }
