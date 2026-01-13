@@ -11,7 +11,6 @@ import { ReadingContent } from '@/components/Reading/ReadingContent';
 import { ToolsPage } from '@/components/Tools/ToolsPage';
 import { ProfilePage } from '@/components/Profile/ProfilePage';
 import { MutualAidPage } from '@/components/MutualAid/MutualAidPage';
-import { AppGovernancePanel } from '@/components/Governance/AppGovernancePanel';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import {
@@ -63,7 +62,8 @@ export default function Home() {
   useEffect(() => {
     if (typeof window === 'undefined') return;
 
-    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : '';
+    // basePath is always /rstu-connect as configured in next.config.js
+    const basePath = '/rstu-connect';
 
     fetch(`${basePath}/data/all-properties.json`)
       .then(res => {
@@ -452,7 +452,8 @@ export default function Home() {
   // Handle document edit
   const handleEditDocument = async (doc: ReadingDocument) => {
     // Fetch current content
-    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : '';
+    // basePath is always /rstu-connect as configured in next.config.js
+    const basePath = '/rstu-connect';
     try {
       const response = await fetch(`${basePath}/documents/${encodeURIComponent(doc.category)}/${encodeURIComponent(doc.filename)}`);
       const content = await response.text();
@@ -666,19 +667,6 @@ export default function Home() {
   // Render tools view
   if (activeTab === 'tools') {
     return <ToolsPage buildings={buildings} />;
-  }
-
-  // Render governance view
-  if (activeTab === 'governance') {
-    return (
-      <div className="max-w-4xl mx-auto px-4 py-6">
-        <h1 className="text-2xl font-bold mb-2">App Governance</h1>
-        <p className="text-gray-600 mb-6">
-          Vote on app-wide decisions. Organizers who have built tenant power can propose and vote on features, content, and app direction.
-        </p>
-        <AppGovernancePanel />
-      </div>
-    );
   }
 
   // Render profile view

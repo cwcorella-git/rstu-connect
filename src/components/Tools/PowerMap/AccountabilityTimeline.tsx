@@ -3,11 +3,10 @@
 import React, { useMemo, useState } from 'react'
 import type { LandlordProfile } from '@/lib/landlordProfileStorage'
 import { getBuildingOrganizing } from '@/lib/buildingOrganizingStorage'
-import { getLandlordVictories } from '@/lib/victoryStorage'
 
 interface TimelineEntry {
   id: string
-  type: 'complaint' | 'demand' | 'victory'
+  type: 'complaint' | 'demand'
   timestamp: number
   buildingAddress: string
   buildingChatSlug: string
@@ -15,15 +14,11 @@ interface TimelineEntry {
   description?: string
   status?: string  // For complaints
   escalationLevel?: string  // For demands
-  victoryImpact?: string  // For victories
-  victoryDate?: string
-  victoryType?: string
-  tactics?: string[]
   relatedEntries?: string[]  // Links complaint → demand
 }
 
 interface TimelineFilter {
-  type: 'all' | 'complaint' | 'demand' | 'victory'
+  type: 'all' | 'complaint' | 'demand'
   timeRange: 'all' | '6months' | '1year'
 }
 
@@ -72,27 +67,6 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
       }
     }
 
-    // Add victories
-    const victories = getLandlordVictories(landlord.ownerName)
-    for (const victory of victories) {
-      const victoryTimestamp = new Date(victory.date).getTime()
-      entries.push({
-        id: victory.id,
-        type: 'victory',
-        timestamp: victoryTimestamp,
-        buildingAddress: victory.buildingChatSlug
-          ? landlord.properties.find(p => p.chatSlug === victory.buildingChatSlug)?.address || 'Multiple Buildings'
-          : 'Portfolio-wide',
-        buildingChatSlug: victory.buildingChatSlug || '',
-        title: victory.title,
-        description: victory.description,
-        victoryImpact: victory.quantifiedImpact,
-        victoryDate: victory.date,
-        victoryType: victory.type,
-        tactics: victory.tactics
-      })
-    }
-
     // Sort by timestamp (newest first)
     entries.sort((a, b) => b.timestamp - a.timestamp)
 
@@ -119,15 +93,11 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
   const escalationNeeded = useMemo(() => {
     const now = Date.now()
     const demands = timeline.filter(e => e.type === 'demand')
-    const victories = timeline.filter(e => e.type === 'victory')
 
     const ignoredDemands = demands.filter(d => {
-      // Check if demand is > 30 days old and no victory associated
+      // Check if demand is > 30 days old
       const daysSince = (now - d.timestamp) / (1000 * 60 * 60 * 24)
-      const hasVictory = victories.some(v =>
-        d.relatedEntries?.includes(v.id) || v.relatedEntries?.includes(d.id)
-      )
-      return daysSince > 30 && !hasVictory
+      return daysSince > 30
     })
 
     return {
@@ -145,8 +115,7 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
   // Count entries by type
   const counts = useMemo(() => ({
     complaints: timeline.filter(e => e.type === 'complaint').length,
-    demands: timeline.filter(e => e.type === 'demand').length,
-    victories: timeline.filter(e => e.type === 'victory').length
+    demands: timeline.filter(e => e.type === 'demand').length
   }), [timeline])
 
   // Format date
@@ -165,8 +134,6 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
         return 'bg-orange-50 border-orange-200'
       case 'demand':
         return 'bg-red-50 border-red-200'
-      case 'victory':
-        return 'bg-green-50 border-green-200'
     }
   }
 
@@ -177,8 +144,6 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
         return 'bg-orange-100 text-orange-700'
       case 'demand':
         return 'bg-red-100 text-red-700'
-      case 'victory':
-        return 'bg-green-100 text-green-700'
     }
   }
 
@@ -189,8 +154,6 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
         return '⚠️'
       case 'demand':
         return '📢'
-      case 'victory':
-        return '🏆'
     }
   }
 
@@ -201,8 +164,6 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
         return 'Complaint'
       case 'demand':
         return 'Demand'
-      case 'victory':
-        return 'Victory'
     }
   }
 
@@ -251,8 +212,8 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
             onClick={() => setFilter({ ...filter, type: 'complaint' })}
             className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
               filter.type === 'complaint'
-                ? 'bg-orange-500 text-white'
-                : 'bg-white border border-orange-200 text-orange-700 hover:bg-orange-50'
+                ? 'bg-orange-600 text-white'
+                : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
             }`}
           >
             Complaints ({counts.complaints})
@@ -262,54 +223,44 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
             className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
               filter.type === 'demand'
                 ? 'bg-red-600 text-white'
-                : 'bg-white border border-red-200 text-red-700 hover:bg-red-50'
+                : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
             }`}
           >
             Demands ({counts.demands})
           </button>
-          <button
-            onClick={() => setFilter({ ...filter, type: 'victory' })}
-            className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
-              filter.type === 'victory'
-                ? 'bg-green-600 text-white'
-                : 'bg-white border border-green-200 text-green-700 hover:bg-green-50'
-            }`}
-          >
-            Victories ({counts.victories})
-          </button>
         </div>
 
         <h3 className="text-sm font-semibold text-gray-700 mb-2">Time Range</h3>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex gap-2">
           <button
             onClick={() => setFilter({ ...filter, timeRange: 'all' })}
             className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
               filter.timeRange === 'all'
-                ? 'bg-rstu-red text-white'
+                ? 'bg-gray-700 text-white'
                 : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
             }`}
           >
             All Time
           </button>
           <button
-            onClick={() => setFilter({ ...filter, timeRange: '6months' })}
-            className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
-              filter.timeRange === '6months'
-                ? 'bg-rstu-red text-white'
-                : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
-            }`}
-          >
-            Last 6 Months
-          </button>
-          <button
             onClick={() => setFilter({ ...filter, timeRange: '1year' })}
             className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
               filter.timeRange === '1year'
-                ? 'bg-rstu-red text-white'
+                ? 'bg-gray-700 text-white'
                 : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
             }`}
           >
-            Last Year
+            Past Year
+          </button>
+          <button
+            onClick={() => setFilter({ ...filter, timeRange: '6months' })}
+            className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+              filter.timeRange === '6months'
+                ? 'bg-gray-700 text-white'
+                : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
+            }`}
+          >
+            Past 6 Months
           </button>
         </div>
       </div>
@@ -317,91 +268,53 @@ export function AccountabilityTimeline({ landlord }: { landlord: LandlordProfile
       {/* Timeline */}
       <div className="flex-1 overflow-y-auto p-4">
         {timeline.length === 0 ? (
-          <div className="flex items-center justify-center h-full text-center p-4">
-            <div>
-              <p className="text-gray-600 font-medium mb-2">No accountability activity yet</p>
-              <p className="text-sm text-gray-500">
-                Start filing complaints and organizing to build this landlord's accountability record.
-              </p>
-            </div>
+          <div className="text-center text-gray-500 py-8">
+            <p className="text-sm">No accountability entries found.</p>
+            <p className="text-xs mt-1">Complaints and demands will appear here.</p>
           </div>
         ) : (
-          <div className="space-y-3">
-            {timeline.map((entry, idx) => (
-              <div key={entry.id}>
-                {/* Date divider */}
-                {(idx === 0 || formatDate(entry.timestamp) !== formatDate(timeline[idx - 1].timestamp)) && (
-                  <div className="py-2 px-3 bg-gray-100 rounded-lg text-center sticky top-0 z-10">
-                    <p className="text-xs font-semibold text-gray-600">
-                      {formatDate(entry.timestamp)}
-                    </p>
-                  </div>
+          <div className="space-y-4">
+            {timeline.map((entry, index) => (
+              <div
+                key={entry.id}
+                className={`p-4 rounded-lg border ${getEntryColor(entry.type)} relative`}
+              >
+                {/* Timeline connector */}
+                {index < timeline.length - 1 && (
+                  <div className="absolute left-7 top-14 w-0.5 h-8 bg-gray-300" />
                 )}
 
-                {/* Entry card */}
-                <div className={`border rounded-lg p-3 ${getEntryColor(entry.type)}`}>
-                  <div className="flex items-start gap-3">
-                    {/* Icon and badge */}
-                    <div className="flex-shrink-0">
-                      <span className="text-lg">{getEntryIcon(entry.type)}</span>
+                <div className="flex items-start gap-3">
+                  {/* Icon */}
+                  <div className="text-xl flex-shrink-0">{getEntryIcon(entry.type)}</div>
+
+                  {/* Content */}
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 flex-wrap mb-1">
+                      <span className={`px-2 py-0.5 rounded text-xs font-medium ${getEntryBadgeColor(entry.type)}`}>
+                        {getEntryLabel(entry.type)}
+                      </span>
+                      <span className="text-xs text-gray-500">{formatDate(entry.timestamp)}</span>
                     </div>
 
-                    {/* Content */}
-                    <div className="flex-1 min-w-0">
-                      <div className="flex items-center gap-2 mb-1">
-                        <span className={`inline-block px-2 py-0.5 rounded text-xs font-semibold ${getEntryBadgeColor(entry.type)}`}>
-                          {getEntryLabel(entry.type)}
-                        </span>
-                        {entry.status && (
-                          <span className="text-xs text-gray-600 bg-white rounded px-1.5 py-0.5">
-                            {entry.status}
-                          </span>
-                        )}
-                        {entry.escalationLevel && (
-                          <span className="text-xs text-gray-600 bg-white rounded px-1.5 py-0.5">
-                            {entry.escalationLevel}
-                          </span>
-                        )}
-                      </div>
+                    <h4 className="font-medium text-gray-900 text-sm">{entry.title}</h4>
+                    <p className="text-xs text-gray-600 mt-0.5">{entry.buildingAddress}</p>
 
-                      {/* Title */}
-                      <h4 className="font-semibold text-sm text-gray-900 break-words">
-                        {entry.title}
-                      </h4>
+                    {entry.description && (
+                      <p className="text-sm text-gray-700 mt-2">{entry.description}</p>
+                    )}
 
-                      {/* Building */}
-                      <p className="text-xs text-gray-600 mt-1">
-                        {entry.buildingAddress.split(',')[0]}
-                      </p>
-
-                      {/* Description */}
-                      {entry.description && (
-                        <p className="text-sm text-gray-700 mt-2 line-clamp-2">
-                          {entry.description}
-                        </p>
-                      )}
-
-                      {/* Victory impact */}
-                      {entry.victoryImpact && (
-                        <div className="mt-2 p-2 bg-white rounded text-xs">
-                          <strong>Impact:</strong> {entry.victoryImpact}
-                        </div>
-                      )}
-
-                      {/* Tactics */}
-                      {entry.tactics && entry.tactics.length > 0 && (
-                        <div className="mt-2 flex flex-wrap gap-1">
-                          {entry.tactics.map((tactic, i) => (
-                            <span
-                              key={i}
-                              className="inline-block px-2 py-0.5 rounded text-xs bg-white text-gray-700"
-                            >
-                              {tactic}
-                            </span>
-                          ))}
-                        </div>
-                      )}
-                    </div>
+                    {/* Status/Level badge */}
+                    {entry.status && (
+                      <span className="inline-block mt-2 px-2 py-0.5 rounded text-xs bg-gray-100 text-gray-700">
+                        Status: {entry.status}
+                      </span>
+                    )}
+                    {entry.escalationLevel && (
+                      <span className="inline-block mt-2 px-2 py-0.5 rounded text-xs bg-red-100 text-red-700">
+                        Level: {entry.escalationLevel}
+                      </span>
+                    )}
                   </div>
                 </div>
               </div>

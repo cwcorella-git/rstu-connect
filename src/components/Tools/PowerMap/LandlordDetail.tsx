@@ -7,10 +7,9 @@ import { ComplaintSummary } from './ComplaintSummary'
 import { getStatusInfo, type OrganizingStatus } from '@/lib/buildingOrganizingStorage'
 import { AccountabilityTimeline } from './AccountabilityTimeline'
 import { PressurePointsMap } from './PressurePointsMap'
-import { VictoryShowcase } from './VictoryShowcase'
 import { ComplaintTrendChart } from './ComplaintTrendChart'
 
-type LandlordDetailTab = 'overview' | 'accountability' | 'victories' | 'pressure'
+type LandlordDetailTab = 'overview' | 'accountability' | 'pressure'
 
 interface LandlordDetailProps {
   landlord: LandlordProfile
@@ -62,16 +61,6 @@ export function LandlordDetail({ landlord, onSelectBuilding }: LandlordDetailPro
           }`}
         >
           Accountability
-        </button>
-        <button
-          onClick={() => setActiveTab('victories')}
-          className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
-            activeTab === 'victories'
-              ? 'border-rstu-red text-rstu-red'
-              : 'border-transparent text-gray-500 hover:text-gray-700'
-          }`}
-        >
-          Victories
         </button>
         <button
           onClick={() => setActiveTab('pressure')}
@@ -215,10 +204,6 @@ export function LandlordDetail({ landlord, onSelectBuilding }: LandlordDetailPro
           </div>
         )}
 
-        {/* Victories Tab */}
-        {activeTab === 'victories' && (
-          <VictoryShowcase landlord={landlord} />
-        )}
 
         {/* Pressure Points Tab */}
         {activeTab === 'pressure' && (

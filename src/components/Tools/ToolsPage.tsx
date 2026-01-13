@@ -10,8 +10,6 @@ import { LandlordDetail } from './PowerMap/LandlordDetail'
 import { TaskBoard } from '@/components/Tasks'
 import { getBuildingStats, getBuildingDiscrepancies, type UnitRecord, getAllBuildingsWithData } from '@/lib/canvassStorage'
 import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
-import { getAllVictories, type Victory } from '@/lib/victoryStorage'
-import { VictoryLibrary, VictoryDetail, VictoryForm } from './Victory'
 import { trackActivity } from '@/lib/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
@@ -72,7 +70,7 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
-type ToolsTab = 'canvassing' | 'powermap' | 'tasks' | 'victories'
+type ToolsTab = 'canvassing' | 'powermap' | 'tasks'
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord'
@@ -91,12 +89,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
   const [inputValue, setInputValue] = useState('')
   const searchQuery = useDeferredValue(inputValue)
   const [selectedLandlord, setSelectedLandlord] = useState<LandlordProfile | null>(null)
-
-  // Victory state
-  const [victories, setVictories] = useState<Victory[]>([])
-  const [selectedVictory, setSelectedVictory] = useState<Victory | null>(null)
-  const [showVictoryForm, setShowVictoryForm] = useState(false)
-  const [editingVictory, setEditingVictory] = useState<Victory | null>(null)
 
   // Building stats for progress display
   const [buildingStats, setBuildingStats] = useState<Record<string, { total: number; contacted: number; hasNotes: boolean; demands: number }>>({})
@@ -156,14 +148,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     setFavorites(getFavorites())
   }, [])
 
-  // Load victories
-  useEffect(() => {
-    setVictories(getAllVictories())
-  }, [])
-
   // Load all properties for full search (like BuildingList)
   useEffect(() => {
-    const basePath = process.env.NODE_ENV === 'production' ? '/rstu-connect' : ''
+    const basePath = '/rstu-connect'
     fetch(`${basePath}/data/all-properties.json`)
       .then(res => res.json())
       .then(data => {
@@ -394,16 +381,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
       >
         Tasks
       </button>
-      <button
-        onClick={() => setActiveToolsTab('victories')}
-        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
-          activeToolsTab === 'victories'
-            ? 'bg-white text-gray-900 shadow-sm'
-            : 'text-gray-600 hover:text-gray-900'
-        }`}
-      >
-        Victories
-      </button>
     </div>
   )
 
@@ -424,8 +401,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 ? 'Select a property to track tenant outreach'
                 : activeToolsTab === 'powermap'
                 ? 'View landlord portfolios and organizing activity'
-                : activeToolsTab === 'victories'
-                ? 'Document and share organizing wins'
                 : 'Manage and track organizing tasks'
               }
             </p>
@@ -606,23 +581,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
               selectedLandlord={selectedLandlord}
               onSelectLandlord={handleSelectLandlord}
             />
-          ) : activeToolsTab === 'victories' ? (
-            <VictoryLibrary
-              victories={victories}
-              selectedVictory={selectedVictory}
-              onSelectVictory={(victory) => {
-                setSelectedVictory(victory)
-                setShowVictoryForm(false)
-                setEditingVictory(null)
-                setToolsMobileView('units')
-              }}
-              onCreateNew={() => {
-                setSelectedVictory(null)
-                setEditingVictory(null)
-                setShowVictoryForm(true)
-                setToolsMobileView('units')
-              }}
-            />
           ) : (
             // Tasks: No list needed, Kanban board shows in right panel
             <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
@@ -696,82 +654,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                   <p className="text-sm">Select a landlord to view their portfolio</p>
                   <p className="text-xs text-gray-400 mt-2">
                     See complaint patterns and organizing activity across their properties
-                  </p>
-                </div>
-              </div>
-            )
-          ) : activeToolsTab === 'victories' ? (
-            // Victories: Detail or Form
-            showVictoryForm ? (
-              <>
-                {/* Mobile back button */}
-                {!isDesktop && (
-                  <button
-                    onClick={() => {
-                      setShowVictoryForm(false)
-                      setToolsMobileView('buildings')
-                    }}
-                    className="flex items-center gap-2 p-3 border-b border-gray-200 text-gray-600 hover:bg-gray-50"
-                  >
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                    </svg>
-                    <span className="text-sm">Back to victories</span>
-                  </button>
-                )}
-                <VictoryForm
-                  buildings={buildings}
-                  existingVictory={editingVictory || undefined}
-                  onSave={() => {
-                    setVictories(getAllVictories())
-                    setShowVictoryForm(false)
-                    setEditingVictory(null)
-                    setSelectedVictory(null)
-                  }}
-                  onCancel={() => {
-                    setShowVictoryForm(false)
-                    setEditingVictory(null)
-                  }}
-                />
-              </>
-            ) : selectedVictory ? (
-              <>
-                {/* Mobile back button */}
-                {!isDesktop && (
-                  <button
-                    onClick={() => {
-                      setSelectedVictory(null)
-                      setToolsMobileView('buildings')
-                    }}
-                    className="flex items-center gap-2 p-3 border-b border-gray-200 text-gray-600 hover:bg-gray-50"
-                  >
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                    </svg>
-                    <span className="text-sm">Back to victories</span>
-                  </button>
-                )}
-                <VictoryDetail
-                  victory={selectedVictory}
-                  onEdit={() => {
-                    setEditingVictory(selectedVictory)
-                    setShowVictoryForm(true)
-                  }}
-                  onDelete={() => {
-                    setVictories(getAllVictories())
-                    setSelectedVictory(null)
-                  }}
-                />
-              </>
-            ) : (
-              <div className="flex-1 flex items-center justify-center text-gray-400">
-                <div className="text-center">
-                  <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
-                  </svg>
-                  <p className="text-sm">Select a victory to view details</p>
-                  <p className="text-xs text-gray-400 mt-2">
-                    Or click &ldquo;Document Victory&rdquo; to record a new win
                   </p>
                 </div>
               </div>

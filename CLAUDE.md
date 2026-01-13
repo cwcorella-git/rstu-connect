@@ -268,3 +268,21 @@ sqlite3 data/databases/main_properties.db
 - `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-chat-server.onrender.com`)
 - `NEXT_PUBLIC_SUPABASE_URL` - Supabase project URL (optional, for FTS)
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY` - Supabase anon key (optional, for FTS)
+
+## Banned Features (DO NOT IMPLEMENT)
+
+The following features have been explicitly banned and should NEVER be suggested, implemented, or referenced:
+
+1. **Victories System** - A premature "victory documentation" feature that was removed because:
+   - No progression system exists to lead to victories
+   - Disconnected from organizing workflow (complaints → demands → escalation)
+   - Arbitrary and detached from actual tenant power building
+   - The Organize tools are not mature enough to support this concept
+   
+   **DO NOT:** Create victory storage, victory forms, victory showcases, victory timelines, or any "win documentation" features.
+
+If the user asks about victories or wins, redirect to:
+- Building tenant participation through canvassing
+- Filing and tracking complaints
+- Escalating demands
+- Strike coordination (when ready)

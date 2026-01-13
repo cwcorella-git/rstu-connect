@@ -3,14 +3,12 @@
 import React, { useMemo, useState } from 'react'
 import type { LandlordProfile, LandlordProperty } from '@/lib/landlordProfileStorage'
 import { getBuildingOrganizing, getStatusInfo, type OrganizingStatus } from '@/lib/buildingOrganizingStorage'
-import { getBuildingVictories } from '@/lib/victoryStorage'
 import { getHabitabilityScore } from '@/lib/canvassStorage'
 
 interface PressurePoint {
   property: LandlordProperty
   complaintsCount: number
   demandsCount: number
-  victoriesCount: number
   heatScore: number
   habitabilityScore: number | null
   habitabilityStatus: 'good' | 'fair' | 'poor' | 'no-data'
@@ -33,16 +31,14 @@ export function PressurePointsMap({
   const pressurePoints = useMemo(() => {
     return landlord.properties.map(property => {
       const organizing = getBuildingOrganizing(property.chatSlug)
-      const victories = getBuildingVictories(property.chatSlug)
       const habitability = getHabitabilityScore(property.chatSlug)
 
       const complaintsCount = organizing.complaints.length
       const demandsCount = organizing.demands.length
-      const victoriesCount = victories.length
 
-      // Heat score: complaints + (demands * 2) + (victories * 3)
+      // Heat score: complaints + (demands * 2)
       // Higher weights for escalated actions
-      const heatScore = complaintsCount + (demandsCount * 2) + (victoriesCount * 3)
+      const heatScore = complaintsCount + (demandsCount * 2)
 
       // Get habitability score and status
       const habitabilityScore = habitability?.score ?? null
@@ -52,7 +48,6 @@ export function PressurePointsMap({
         property,
         complaintsCount,
         demandsCount,
-        victoriesCount,
         heatScore,
         habitabilityScore,
         habitabilityStatus
@@ -303,7 +298,7 @@ export function PressurePointsMap({
       {/* Properties Grid */}
       <div className="flex-1 overflow-y-auto p-4">
         <div className="space-y-3">
-          {sortedPoints.map(({ property, complaintsCount, demandsCount, victoriesCount, heatScore, habitabilityScore, habitabilityStatus }) => {
+          {sortedPoints.map(({ property, complaintsCount, demandsCount, heatScore, habitabilityScore, habitabilityStatus }) => {
             const statusInfo = getStatusInfo(property.organizingStatus)
 
             // Habitability color
@@ -364,18 +359,11 @@ export function PressurePointsMap({
                       📢 {demandsCount} demand{demandsCount !== 1 ? 's' : ''}
                     </span>
                   )}
-
-                  {/* Victories */}
-                  {victoriesCount > 0 && (
-                    <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-green-100 text-green-700">
-                      🏆 {victoriesCount} victor{victoriesCount !== 1 ? 'ies' : 'y'}
-                    </span>
-                  )}
                 </div>
 
                 {/* Heat Score Explanation */}
                 <p className="text-xs text-gray-600">
-                  {getHeatLabel(heatScore)} · Score = {complaintsCount} + ({demandsCount}×2) + ({victoriesCount}×3)
+                  {getHeatLabel(heatScore)} · Score = {complaintsCount} + ({demandsCount}×2)
                 </p>
               </button>
             )
