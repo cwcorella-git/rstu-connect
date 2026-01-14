@@ -6,9 +6,9 @@ import { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
 import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
 import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
-import { NetworkTab } from './NetworkTab'
+import { SkillsTab } from './SkillsTab'
 
-type ViewMode = 'needs' | 'offers' | 'network' | 'library'
+type ViewMode = 'needs' | 'offers' | 'skills' | 'library'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
 
 interface MutualAidPageProps {
@@ -296,7 +296,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
 
           {/* View Mode Tabs */}
           <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3">
-            {(['needs', 'offers', 'network', 'library'] as ViewMode[]).map((mode) => (
+            {(['needs', 'offers', 'skills', 'library'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setViewMode(mode)}
@@ -306,7 +306,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
-                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'network' ? 'Network' : t('mutualAid.library') || 'Library'}
+                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : t('mutualAid.library') || 'Library'}
               </button>
             ))}
           </div>
@@ -330,6 +330,12 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
         </div>
 
         {/* List Content */}
+        {/* Skills tab needs special handling for proper scrolling */}
+        {viewMode === 'skills' ? (
+          <div className="flex-1 overflow-hidden">
+            <SkillsTab />
+          </div>
+        ) : (
         <div className="flex-1 overflow-y-auto">
           {viewMode === 'needs' || viewMode === 'offers' ? (
             filteredPosts.length > 0 ? (
@@ -423,11 +429,9 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                 )}
               </div>
             )
-          ) : viewMode === 'network' ? (
-            // Network tab (Resources + Collectives)
-            <NetworkTab />
           ) : null}
         </div>
+        )}
       </div>
 
       {/* Right Panel - Detail View */}

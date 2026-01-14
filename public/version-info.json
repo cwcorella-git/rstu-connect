@@ -1,8 +1,8 @@
 {
-  "commit": "19f686ff",
-  "message": "Add governance translations for Tagalog, Chinese, Vietnamese",
+  "commit": "f434f4e2",
+  "message": "Fix translation key prefixes and add missing translations",
   "author": "cwcorella-git",
-  "date": "2026-01-12 21:17:29 -0800",
+  "date": "2026-01-12 21:48:09 -0800",
   "branch": "main",
-  "buildTime": "2026-01-13T05:18:59.225Z"
+  "buildTime": "2026-01-13T17:34:44.249Z"
 }

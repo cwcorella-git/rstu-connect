@@ -11,6 +11,7 @@ import { ReadingContent } from '@/components/Reading/ReadingContent';
 import { ToolsPage } from '@/components/Tools/ToolsPage';
 import { ProfilePage } from '@/components/Profile/ProfilePage';
 import { MutualAidPage } from '@/components/MutualAid/MutualAidPage';
+import { ResourcesPage } from '@/components/Resources/ResourcesPage';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import {
@@ -662,6 +663,11 @@ export default function Home() {
   // Render mutual aid view
   if (activeTab === 'mutualAid') {
     return <MutualAidPage buildings={buildings} />;
+  }
+
+  // Render resources view
+  if (activeTab === 'resources') {
+    return <ResourcesPage />;
   }
 
   // Render tools view

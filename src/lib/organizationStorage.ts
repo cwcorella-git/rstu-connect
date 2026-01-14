@@ -11,8 +11,10 @@ import { sanitizeText, sanitizeRichText } from './sanitize'
 
 export type OrganizationType = 'external' | 'internal'
 
-// External resource categories (from linktr.ee/renounhoused analysis)
+// External resource categories (from linktr.ee/renounhoused analysis + community PDFs)
 export type ExternalResourceCategory =
+  | 'food'
+  | 'shelter'
   | 'legal_aid'
   | 'housing_services'
   | 'emergency_aid'
@@ -20,9 +22,13 @@ export type ExternalResourceCategory =
   | 'advocacy'
   | 'health_services'
   | 'mutual_aid'
+  | 'faith'
+  | 'pet_services'
   | 'other'
 
 export const EXTERNAL_CATEGORY_LABELS: Record<ExternalResourceCategory, string> = {
+  food: 'Food & Meals',
+  shelter: 'Shelter',
   legal_aid: 'Legal Aid',
   housing_services: 'Housing Services',
   emergency_aid: 'Emergency Aid',
@@ -30,6 +36,8 @@ export const EXTERNAL_CATEGORY_LABELS: Record<ExternalResourceCategory, string> 
   advocacy: 'Advocacy',
   health_services: 'Health Services',
   mutual_aid: 'Mutual Aid',
+  faith: 'Faith-Based Services',
+  pet_services: 'Pet Services',
   other: 'Other',
 }
 
