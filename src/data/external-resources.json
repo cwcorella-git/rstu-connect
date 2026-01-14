@@ -84,6 +84,21 @@
       "verified": true
     },
     {
+      "id": "ext-catholic-charities",
+      "type": "external",
+      "name": "Catholic Charities of Northern Nevada",
+      "description": "Comprehensive resource hub including food assistance, emergency aid, and social services. St. Vincent's programs serve thousands annually.",
+      "category": "food",
+      "contacts": [
+        { "type": "phone", "value": "(775) 322-7073" },
+        { "type": "website", "value": "https://ccsnn.org" },
+        { "type": "address", "value": "500 E 4th St, Reno, NV 89512" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "All welcome",
+      "verified": true
+    },
+    {
       "id": "ext-good-neighbors-warming",
       "type": "external",
       "name": "Good Neighbors Warming Centers",
@@ -100,11 +115,12 @@
       "id": "ext-voa-cares",
       "type": "external",
       "name": "Volunteers of America Cares Campus",
-      "description": "Emergency shelter providing beds, meals, and support services for adults experiencing homelessness in the Reno area. Open 7 days a week.",
+      "description": "Emergency shelter providing beds, meals, and support services for adults experiencing homelessness. Nevada's largest homeless services campus.",
       "category": "shelter",
       "contacts": [
         { "type": "phone", "value": "(775) 324-2622", "label": "Main Line" },
-        { "type": "address", "value": "1370 E 6th St, Reno, NV 89512" }
+        { "type": "website", "value": "https://www.voa-ncnn.org/reno-emergency-shelter" },
+        { "type": "address", "value": "1800 Threlkel St, Reno, NV 89512" }
       ],
       "serviceArea": "Washoe County",
       "eligibility": "Adults experiencing homelessness",
@@ -131,7 +147,8 @@
       "category": "shelter",
       "contacts": [
         { "type": "phone", "value": "(775) 786-4673", "label": "HOPES Main" },
-        { "type": "website", "value": "https://nnhopes.org" }
+        { "type": "website", "value": "https://www.nnhopes.org/hopesprings/" },
+        { "type": "address", "value": "E 4th St, Reno, NV" }
       ],
       "serviceArea": "Washoe County",
       "verified": true
@@ -143,7 +160,8 @@
       "description": "Transitional housing program at Governors Bowl Park providing structured support for individuals moving toward permanent housing.",
       "category": "shelter",
       "contacts": [
-        { "type": "address", "value": "Governors Bowl Park, Reno, NV" }
+        { "type": "website", "value": "https://washoelife.washoecounty.gov/safe-camp-information-kit/" },
+        { "type": "address", "value": "Governors Bowl Park, Line Dr, Reno, NV 89512" }
       ],
       "serviceArea": "Reno",
       "eligibility": "Adults in transitional housing program",
@@ -153,43 +171,81 @@
       "id": "ext-eddy-house",
       "type": "external",
       "name": "Eddy House",
-      "description": "Youth shelter and services for young adults ages 12-24 experiencing homelessness or housing instability.",
+      "description": "Youth shelter and services for young adults ages 12-24 experiencing homelessness or housing instability. Includes TLC 360 apartments for transitional housing.",
       "category": "shelter",
       "contacts": [
         { "type": "phone", "value": "(775) 384-1129" },
         { "type": "website", "value": "https://eddyhouse.org" },
-        { "type": "address", "value": "25 Mt Rose St, Reno, NV 89509" }
+        { "type": "address", "value": "888 Willow St, Reno, NV 89502" }
       ],
       "serviceArea": "Washoe County",
       "eligibility": "Youth ages 12-24",
       "verified": true
     },
     {
-      "id": "ext-safe-embrace",
+      "id": "ext-our-place-rise",
       "type": "external",
-      "name": "Safe Embrace",
-      "description": "Emergency shelter and support services for survivors of domestic violence and sexual assault. 24-hour crisis line available.",
-      "category": "emergency_aid",
+      "name": "Our Place / RISE",
+      "description": "Resource center and drop-in facility providing services, referrals, and support for individuals experiencing homelessness.",
+      "category": "shelter",
       "contacts": [
-        { "type": "phone", "value": "(775) 322-3466", "label": "24-Hour Crisis Line" },
-        { "type": "website", "value": "https://safeembrace.org" }
+        { "type": "website", "value": "https://www.washoecounty.gov/homeless/Cares-Campus/our_place/index.php" },
+        { "type": "address", "value": "S 21st St, Sparks, NV" }
       ],
       "serviceArea": "Washoe County",
-      "eligibility": "Survivors of domestic/sexual violence",
       "verified": true
     },
     {
-      "id": "ext-our-place",
+      "id": "ext-nyep",
       "type": "external",
-      "name": "Our Place",
-      "description": "Women's domestic violence shelter providing safe housing and support services for survivors.",
-      "category": "emergency_aid",
+      "name": "Nevada Youth Empowerment Project (NYEP)",
+      "description": "Housing and support services for youth ages 16-24 aging out of foster care or experiencing homelessness. Provides apartments and life skills training.",
+      "category": "shelter",
       "contacts": [
-        { "type": "phone", "value": "(775) 525-5500" },
-        { "type": "address", "value": "205 E 4th St, Reno, NV 89501" }
+        { "type": "phone", "value": "(775) 337-4511" },
+        { "type": "website", "value": "https://nyep.org" },
+        { "type": "address", "value": "Faland Way, Reno, NV" }
       ],
-      "serviceArea": "Washoe County",
-      "eligibility": "Women survivors of domestic violence",
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Youth ages 16-24",
+      "verified": true
+    },
+    {
+      "id": "ext-karma-box",
+      "type": "external",
+      "name": "Karma Box Project",
+      "description": "Transitional living programs at Safe Camp and community support services for individuals rebuilding their lives.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "website", "value": "https://www.karmaboxproject.org/" }
+      ],
+      "serviceArea": "Reno-Sparks",
+      "verified": true
+    },
+    {
+      "id": "ext-puf-house",
+      "type": "external",
+      "name": "P.U.F. House (WellCare Foundation)",
+      "description": "Transitional housing and crisis stabilization services. Part of WellCare Foundation programs providing recovery and housing support.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "website", "value": "https://wellcarefoundation.org/programs-reno-ctc-medical-detox-crisis/" },
+        { "type": "address", "value": "Mill St, Reno, NV" }
+      ],
+      "serviceArea": "Reno",
+      "verified": true
+    },
+    {
+      "id": "ext-life-change-center",
+      "type": "external",
+      "name": "The Life Change Center",
+      "description": "Residential and outpatient treatment programs for substance use disorders. Provides housing during recovery.",
+      "category": "housing_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 322-4700" },
+        { "type": "website", "value": "https://www.thelifechangecenter.org/" }
+      ],
+      "serviceArea": "Northern Nevada",
       "verified": true
     },
     {
@@ -200,7 +256,7 @@
       "category": "housing_services",
       "contacts": [
         { "type": "phone", "value": "(775) 329-3630" },
-        { "type": "website", "value": "https://renoha.org" },
+        { "type": "website", "value": "https://www.renoha.org/rental-assistance" },
         { "type": "address", "value": "1525 E 9th St, Reno, NV 89512" }
       ],
       "serviceArea": "Reno",
@@ -208,15 +264,31 @@
       "verified": true
     },
     {
-      "id": "ext-karma-box",
+      "id": "ext-safe-embrace",
       "type": "external",
-      "name": "Karma Box Project",
-      "description": "Transitional living programs and community support services for individuals rebuilding their lives.",
-      "category": "housing_services",
+      "name": "Safe Embrace",
+      "description": "Emergency shelter and support services for survivors of domestic violence and sexual assault. 24-hour crisis line available.",
+      "category": "emergency_aid",
       "contacts": [
-        { "type": "website", "value": "https://karmabox.org" }
+        { "type": "phone", "value": "(775) 322-3466", "label": "24-Hour Crisis Line" },
+        { "type": "website", "value": "https://www.safeembrace.org/get-help" },
+        { "type": "address", "value": "220 S Rock Blvd Suite 7, Reno, NV 89502" }
       ],
-      "serviceArea": "Reno-Sparks",
+      "serviceArea": "Washoe County",
+      "eligibility": "Survivors of domestic/sexual violence",
+      "verified": true
+    },
+    {
+      "id": "ext-safelink-wireless",
+      "type": "external",
+      "name": "SafeLink Wireless",
+      "description": "Free cell phone and monthly minutes for eligible low-income individuals through the federal Lifeline program.",
+      "category": "emergency_aid",
+      "contacts": [
+        { "type": "website", "value": "https://www.safelinkwireless.com/Enrollment/Safelink/en/Web/www/default/index.html#!/newHome" }
+      ],
+      "serviceArea": "Nationwide",
+      "eligibility": "Income-based or participation in government programs (SNAP, Medicaid, etc.)",
       "verified": true
     },
     {
@@ -228,7 +300,8 @@
       "contacts": [
         { "type": "phone", "value": "(775) 284-3491", "label": "Reno Office" },
         { "type": "phone", "value": "(800) 323-8666", "label": "Statewide" },
-        { "type": "website", "value": "https://nevadalegalservices.org" }
+        { "type": "website", "value": "https://nevadalegalservices.org" },
+        { "type": "address", "value": "S Virginia St, Reno, NV" }
       ],
       "serviceArea": "Statewide",
       "eligibility": "Income-based (below 200% FPL)",
@@ -242,7 +315,8 @@
       "category": "legal_aid",
       "contacts": [
         { "type": "phone", "value": "(775) 337-5757" },
-        { "type": "website", "value": "https://nnlegalaid.org" }
+        { "type": "website", "value": "https://www.nnlegalaid.org/" },
+        { "type": "address", "value": "299 S Arlington Ave, Reno, NV 89501" }
       ],
       "serviceArea": "Northern Nevada",
       "eligibility": "Income-based",
@@ -256,7 +330,7 @@
       "category": "health_services",
       "contacts": [
         { "type": "phone", "value": "(775) 786-4673" },
-        { "type": "website", "value": "https://nnhopes.org" },
+        { "type": "website", "value": "https://www.nnhopes.org" },
         { "type": "address", "value": "580 W 5th St, Reno, NV 89503" }
       ],
       "serviceArea": "Northern Nevada",
@@ -265,14 +339,29 @@
       "verified": true
     },
     {
+      "id": "ext-hopes-sexual-health",
+      "type": "external",
+      "name": "Northern Nevada HOPES - Sexual Health",
+      "description": "Free and confidential STI/HIV testing, PrEP, and sexual health services.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 786-4673" },
+        { "type": "website", "value": "https://www.nnhopes.org/patients/services/sexualhealth/" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "All welcome",
+      "verified": true
+    },
+    {
       "id": "ext-community-health",
       "type": "external",
       "name": "Community Health Alliance",
-      "description": "Free and low-cost medical care, dental services, and prescription assistance for uninsured and underinsured residents.",
+      "description": "Free and low-cost medical care, dental services, and prescription assistance for uninsured and underinsured residents. Center for Complex Care addresses chronic conditions.",
       "category": "health_services",
       "contacts": [
         { "type": "phone", "value": "(775) 329-6300" },
-        { "type": "website", "value": "https://chanevada.org" }
+        { "type": "website", "value": "https://www.chanevada.org/" },
+        { "type": "address", "value": "330 Crampton St, Reno, NV 89502" }
       ],
       "serviceArea": "Northern Nevada",
       "eligibility": "Uninsured/underinsured",
@@ -286,23 +375,232 @@
       "category": "health_services",
       "contacts": [
         { "type": "phone", "value": "(775) 432-8920" },
-        { "type": "website", "value": "https://changepointnv.org" }
+        { "type": "website", "value": "https://www.nnhopes.org/patients/services/change-point/" },
+        { "type": "address", "value": "445 Ralston St, Reno, NV 89503" }
       ],
       "serviceArea": "Washoe County",
+      "verified": true
+    },
+    {
+      "id": "ext-washoe-cchs",
+      "type": "external",
+      "name": "Washoe County Community Health Services",
+      "description": "Public health services including immunizations, TB testing, STI testing, and family planning. Sliding fee scale available.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 328-2400" },
+        { "type": "website", "value": "https://www.washoecounty.gov/health/programs-and-services/cchs/index.php" },
+        { "type": "address", "value": "1001 E 9th St, Reno, NV 89512" }
+      ],
+      "serviceArea": "Washoe County",
+      "eligibility": "All welcome, sliding scale",
+      "verified": true
+    },
+    {
+      "id": "ext-rsic-tribal-health",
+      "type": "external",
+      "name": "Reno-Sparks Tribal Health Center",
+      "description": "Comprehensive health services for Native American community members including medical, dental, pharmacy, and behavioral health.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 329-5162" },
+        { "type": "website", "value": "https://www.rsic.org/rsic-services/reno-sparks-tribal-health-center/" },
+        { "type": "address", "value": "1715 Kuenzli St, Reno, NV 89502" }
+      ],
+      "serviceArea": "Reno-Sparks",
+      "eligibility": "Native American community members",
+      "verified": true
+    },
+    {
+      "id": "ext-nevada-urban-indians",
+      "type": "external",
+      "name": "Nevada Urban Indians",
+      "description": "Health and social services for urban Native Americans including medical care, behavioral health, and community programs.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 788-7600" },
+        { "type": "website", "value": "https://www.nevadaurbanindians.org/departments" },
+        { "type": "address", "value": "Gateway Dr, Reno, NV" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Native American individuals and families",
+      "verified": true
+    },
+    {
+      "id": "ext-va-homeless-care",
+      "type": "external",
+      "name": "VA Homeless Veteran Care",
+      "description": "Health care, housing assistance, and support services for veterans experiencing or at risk of homelessness.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 786-7200" },
+        { "type": "website", "value": "https://www.va.gov/sierra-nevada-health-care/health-services/homeless-veteran-care/" },
+        { "type": "address", "value": "350 Capitol Hill Ave, Reno, NV 89502" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Veterans",
+      "verified": true
+    },
+    {
+      "id": "ext-wellcare",
+      "type": "external",
+      "name": "WellCare Health Services",
+      "description": "Comprehensive behavioral health services including crisis stabilization, medical detox, and outpatient treatment.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "website", "value": "https://www.wc-health.com/" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "verified": true
+    },
+    {
+      "id": "ext-silver-summit-behavioral",
+      "type": "external",
+      "name": "Silver Summit Behavioral Health",
+      "description": "Behavioral health provider network for SilverSummit Medicaid members. Mental health and substance abuse services.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "website", "value": "https://findaprovider.silversummithealthplan.com/grouping" },
+        { "type": "address", "value": "6100 Neil Rd Suite 501, Reno, NV 89511" }
+      ],
+      "serviceArea": "Nevada",
+      "eligibility": "SilverSummit Medicaid members",
+      "verified": true
+    },
+    {
+      "id": "ext-anthem-medicaid",
+      "type": "external",
+      "name": "Anthem Blue Cross Blue Shield Medicaid",
+      "description": "Nevada Medicaid managed care plan providing medical, dental, vision, and behavioral health coverage.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(855) 878-4532" },
+        { "type": "website", "value": "https://mss.anthem.com/nevada-medicaid/benefits/medicaid-benefits.html" }
+      ],
+      "serviceArea": "Nevada",
+      "eligibility": "Nevada Medicaid eligible",
+      "verified": true
+    },
+    {
+      "id": "ext-caresource-medicaid",
+      "type": "external",
+      "name": "CareSource Nevada Medicaid",
+      "description": "Nevada Medicaid managed care plan offering comprehensive health benefits and care coordination.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(855) 202-0729" },
+        { "type": "website", "value": "https://www.caresource.com/nv/plans/medicaid" }
+      ],
+      "serviceArea": "Nevada",
+      "eligibility": "Nevada Medicaid eligible",
+      "verified": true
+    },
+    {
+      "id": "ext-molina-medicaid",
+      "type": "external",
+      "name": "Molina Healthcare Nevada",
+      "description": "Nevada Medicaid managed care plan with medical, behavioral health, pharmacy, and transportation benefits.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(800) 869-7165" },
+        { "type": "website", "value": "https://www.molinahealthcare.com/members/nv/en-US/Pages/home" }
+      ],
+      "serviceArea": "Nevada",
+      "eligibility": "Nevada Medicaid eligible",
+      "verified": true
+    },
+    {
+      "id": "ext-silversummit-medicaid",
+      "type": "external",
+      "name": "SilverSummit Healthplan",
+      "description": "Nevada Medicaid managed care plan providing comprehensive health coverage and member support services.",
+      "category": "health_services",
+      "contacts": [
+        { "type": "phone", "value": "(844) 366-2880" },
+        { "type": "website", "value": "https://www.silversummithealthplan.com/" }
+      ],
+      "serviceArea": "Nevada",
+      "eligibility": "Nevada Medicaid eligible",
       "verified": true
     },
     {
       "id": "ext-dwss",
       "type": "external",
       "name": "DWSS (Division of Welfare & Support Services)",
-      "description": "Nevada state agency providing SNAP, TANF, Medicaid, and other public benefit programs.",
+      "description": "Nevada state agency providing SNAP, TANF, Medicaid, and other public benefit programs. Apply online or in person.",
       "category": "government",
       "contacts": [
         { "type": "phone", "value": "(775) 823-6000", "label": "Reno Office" },
-        { "type": "website", "value": "https://dwss.nv.gov" },
-        { "type": "address", "value": "1055 E William St, Reno, NV 89502" }
+        { "type": "website", "value": "https://dwss.nv.gov/Apply/APPLY/" },
+        { "type": "address", "value": "4055 S Virginia St, Reno, NV 89502" }
       ],
       "serviceArea": "Statewide",
+      "verified": true
+    },
+    {
+      "id": "ext-dwss-sparks",
+      "type": "external",
+      "name": "DWSS Sparks Office",
+      "description": "Sparks district office for Nevada welfare services including SNAP, TANF, and Medicaid applications.",
+      "category": "government",
+      "contacts": [
+        { "type": "phone", "value": "(775) 823-6000" },
+        { "type": "address", "value": "Greenbrae Dr, Sparks, NV" }
+      ],
+      "serviceArea": "Sparks",
+      "verified": true
+    },
+    {
+      "id": "ext-nv-dmv",
+      "type": "external",
+      "name": "Nevada DMV - ID Services",
+      "description": "Driver's licenses and state ID cards. Homeless individuals can use Declaration of Homeless Status form (DMV-128) in lieu of address proof.",
+      "category": "government",
+      "contacts": [
+        { "type": "phone", "value": "(775) 684-4368" },
+        { "type": "website", "value": "https://dmv.nv.gov/nvdl.htm" },
+        { "type": "address", "value": "Double Diamond Pkwy, Reno, NV" }
+      ],
+      "serviceArea": "Nevada",
+      "eligibility": "Form DMV-128 available for homeless status declaration",
+      "verified": true
+    },
+    {
+      "id": "ext-ssa",
+      "type": "external",
+      "name": "Social Security Administration",
+      "description": "Social Security cards, disability benefits, and retirement benefits. Free replacement Social Security cards available.",
+      "category": "government",
+      "contacts": [
+        { "type": "phone", "value": "(800) 772-1213" },
+        { "type": "website", "value": "https://www.ssa.gov/number-card" },
+        { "type": "address", "value": "Harvard Way, Reno, NV" }
+      ],
+      "serviceArea": "Nationwide",
+      "verified": true
+    },
+    {
+      "id": "ext-birth-certificates",
+      "type": "external",
+      "name": "Vital Records - Birth Certificates",
+      "description": "Information on replacing birth certificates, Social Security cards, and other vital documents.",
+      "category": "government",
+      "contacts": [
+        { "type": "website", "value": "https://www.usa.gov/replace-vital-documents" }
+      ],
+      "serviceArea": "Nationwide",
+      "verified": true
+    },
+    {
+      "id": "ext-immunization-records",
+      "type": "external",
+      "name": "Immunization Records Access",
+      "description": "How to access your immunization records through Washoe County Health District.",
+      "category": "government",
+      "contacts": [
+        { "type": "website", "value": "https://www.washoecounty.gov/health/programs-and-services/cchs/immunization-program/how-to-access-immunization-records.php" }
+      ],
+      "serviceArea": "Washoe County",
       "verified": true
     },
     {
@@ -321,10 +619,11 @@
       "id": "ext-hope-team",
       "type": "external",
       "name": "HOPE Team (Homeless Outreach Proactive Engagement)",
-      "description": "Washoe County Sheriff's outreach team connecting unhoused individuals with services and resources.",
+      "description": "Washoe County Sheriff's outreach team connecting unhoused individuals with services and resources. Non-enforcement focused.",
       "category": "advocacy",
       "contacts": [
-        { "type": "phone", "value": "(775) 328-3001", "label": "Non-emergency" }
+        { "type": "phone", "value": "(775) 328-3001", "label": "Non-emergency" },
+        { "type": "website", "value": "https://www.washoesheriff.com/operations_bureau/patrol-division/HOPETeam.php" }
       ],
       "serviceArea": "Washoe County",
       "verified": true
@@ -339,6 +638,18 @@
         { "type": "website", "value": "https://theradicalcat.org" }
       ],
       "serviceArea": "Northern Nevada",
+      "verified": true
+    },
+    {
+      "id": "ext-reno-qol-recovery",
+      "type": "external",
+      "name": "Reno Quality of Life - Recovery Services",
+      "description": "Directory of recovery services and resources for substance use disorders in the Reno area.",
+      "category": "advocacy",
+      "contacts": [
+        { "type": "website", "value": "https://linktr.ee/renoqol" }
+      ],
+      "serviceArea": "Reno",
       "verified": true
     },
     {
@@ -381,19 +692,34 @@
       "verified": true
     },
     {
-      "id": "ext-noah-animal-shelter",
+      "id": "ext-pets-homeless",
       "type": "external",
-      "name": "Noah's Animal Shelter",
-      "description": "Pet boarding services for DV shelter residents. Allows survivors to keep their pets safe while in shelter.",
+      "name": "Pets of the Homeless",
+      "description": "National nonprofit providing pet food, veterinary care, and supplies to pets of homeless individuals. Local resources and donation sites.",
       "category": "pet_services",
       "contacts": [
-        { "type": "phone", "value": "(775) 746-7547" }
+        { "type": "phone", "value": "(775) 841-7463" },
+        { "type": "website", "value": "https://petsofthehomeless.org/" }
+      ],
+      "serviceArea": "Nationwide",
+      "eligibility": "Homeless pet owners",
+      "verified": true
+    },
+    {
+      "id": "ext-noah-animal-house",
+      "type": "external",
+      "name": "Noah's Animal House",
+      "description": "Pet boarding services for domestic violence shelter residents. Allows survivors to keep their pets safe while in shelter.",
+      "category": "pet_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 746-7547" },
+        { "type": "website", "value": "https://noahsanimalhouse.org/" }
       ],
       "serviceArea": "Washoe County",
       "eligibility": "DV shelter residents",
       "verified": true
     }
   ],
-  "lastUpdated": "2026-01-12",
+  "lastUpdated": "2026-01-14",
   "source": "Curated from linktr.ee/renounhoused, community knowledge, and local resource directories"
 }
