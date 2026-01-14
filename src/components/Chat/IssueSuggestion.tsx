@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { COMPLAINT_CATEGORIES } from '@/lib/canvassStorage'
 import {
   openRenoCodeEnforcementForm,
@@ -22,6 +23,7 @@ interface IssueSuggestionProps {
 }
 
 export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSuggestionProps) {
+  const { t } = useLanguage()
   const [selectedCategory, setSelectedCategory] = useState('')
   const [title, setTitle] = useState('')
   const [description, setDescription] = useState('')
@@ -88,29 +90,28 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
       <div className="bg-white rounded-lg shadow-xl max-w-md w-full p-6 max-h-[90vh] overflow-y-auto">
         <div className="flex justify-between items-start mb-4">
-          <h3 className="text-lg font-bold text-gray-900">Report Issue</h3>
+          <h3 className="text-lg font-bold text-gray-900">{t('issueSuggestion.title')}</h3>
           <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-xl">
             &times;
           </button>
         </div>
 
         <p className="text-sm text-gray-600 mb-4">
-          Report an issue at {buildingAddress}. Tenants will vote on submitted issues.
-          Issues with +5 net votes become official demands.
+          {t('issueSuggestion.subtitle', { address: buildingAddress })}
         </p>
 
         <div className="space-y-4">
           {/* Category Selection */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Issue Category
+              {t('issueSuggestion.issueCategory')}
             </label>
             <select
               value={selectedCategory}
               onChange={(e) => setSelectedCategory(e.target.value)}
               className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
             >
-              <option value="">Select a category...</option>
+              <option value="">{t('issueSuggestion.selectCategory')}</option>
               {COMPLAINT_CATEGORIES.map((cat) => (
                 <option key={cat.key} value={cat.key}>
                   {cat.label}
@@ -122,13 +123,13 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
           {/* Title */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Issue Title
+              {t('issueSuggestion.issueTitle')}
             </label>
             <input
               type="text"
               value={title}
               onChange={(e) => setTitle(e.target.value)}
-              placeholder="e.g., Broken elevator on floor 3"
+              placeholder={t('issueSuggestion.issueTitlePlaceholder')}
               className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
               maxLength={100}
             />
@@ -140,12 +141,12 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
           {/* Description */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Details (optional)
+              {t('issueSuggestion.details')}
             </label>
             <textarea
               value={description}
               onChange={(e) => setDescription(e.target.value)}
-              placeholder="Describe the issue in detail..."
+              placeholder={t('issueSuggestion.detailsPlaceholder')}
               rows={3}
               className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red resize-none"
               maxLength={500}
@@ -158,7 +159,7 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
           {/* Preview */}
           {selectedCategory && title.trim() && (
             <div className="bg-gray-50 rounded-lg p-3 border border-gray-200">
-              <p className="text-xs text-gray-500 mb-1">Preview:</p>
+              <p className="text-xs text-gray-500 mb-1">{t('issueSuggestion.preview')}:</p>
               <div className="flex items-start gap-2">
                 <span className="text-red-500 text-lg">!</span>
                 <div>
@@ -182,11 +183,11 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
             <div className="text-xs text-blue-700">
-              <p className="font-medium">How voting works:</p>
+              <p className="font-medium">{t('issueSuggestion.howVotingWorks')}</p>
               <ul className="mt-1 space-y-0.5 list-disc list-inside text-blue-600">
-                <li>Tenants on this property can vote</li>
-                <li>+5 net votes promotes issue to a demand</li>
-                <li>-3 net votes rejects the issue</li>
+                <li>{t('issueSuggestion.tenantsCanVote')}</li>
+                <li>{t('issueSuggestion.promotesDemand')}</li>
+                <li>{t('issueSuggestion.rejectsIssue')}</li>
               </ul>
             </div>
           </div>
@@ -196,14 +197,14 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
         {(title.trim() || description.trim()) && (
           <div className="mt-4 p-3 bg-green-50 rounded-lg border border-green-200">
             <p className="text-xs font-semibold text-green-900 mb-2">
-              ✨ External Actions Available
+              ✨ {t('issueSuggestion.externalActions')}
             </p>
             <div className="space-y-1.5 text-xs">
               <button
                 onClick={handleFileCodeEnforcementComplaint}
                 className="block w-full text-left px-2 py-1.5 rounded bg-white hover:bg-green-100 border border-green-200 text-green-900 font-medium transition-colors"
               >
-                📋 File Code Enforcement Complaint
+                📋 {t('issueSuggestion.fileCodeEnforcement')}
               </button>
               {qualifiesForLegalAid && (
                 <button
@@ -214,14 +215,14 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
                       : 'border-blue-200 text-blue-900 hover:bg-blue-100'
                   }`}
                 >
-                  {isUrgentLegalIssue ? '⚠️ ' : '⚖️ '} Get Legal Aid Help
+                  {isUrgentLegalIssue ? '⚠️ ' : '⚖️ '} {t('issueSuggestion.getLegalAid')}
                 </button>
               )}
               <button
                 onClick={handleDownloadHabitabilityNotice}
                 className="block w-full text-left px-2 py-1.5 rounded bg-white hover:bg-purple-100 border border-purple-200 text-purple-900 font-medium transition-colors"
               >
-                📄 Download Demand Letter Template
+                📄 {t('issueSuggestion.downloadDemandLetter')}
               </button>
             </div>
           </div>
@@ -232,14 +233,14 @@ export function IssueSuggestion({ buildingAddress, onSubmit, onClose }: IssueSug
             onClick={onClose}
             className="px-4 py-2 text-sm text-gray-600 hover:text-gray-800"
           >
-            Cancel
+            {t('common.cancel')}
           </button>
           <button
             onClick={handleSubmit}
             disabled={!selectedCategory || !title.trim()}
             className="px-4 py-2 text-sm bg-rstu-red text-white rounded hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            Submit Issue
+            {t('issueSuggestion.submitIssue')}
           </button>
         </div>
       </div>

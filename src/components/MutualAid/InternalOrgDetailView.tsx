@@ -157,7 +157,7 @@ export function InternalOrgDetailView({
                 <h2 className="text-xl font-bold text-gray-900">{organization.name}</h2>
                 {!organization.isPublic && (
                   <span className="px-1.5 py-0.5 text-[10px] font-medium bg-gray-100 text-gray-500 rounded">
-                    Private
+                    {t('network.private')}
                   </span>
                 )}
               </div>
@@ -166,7 +166,9 @@ export function InternalOrgDetailView({
                   {COLLECTIVE_CATEGORY_LABELS[organization.category]}
                 </span>
                 <span className="text-xs text-gray-500">
-                  {organization.memberProfiles.length} member{organization.memberProfiles.length !== 1 ? 's' : ''}
+                  {organization.memberProfiles.length !== 1
+                    ? t('network.memberCountPlural', { count: organization.memberProfiles.length })
+                    : t('network.memberCount', { count: organization.memberProfiles.length })}
                 </span>
               </div>
             </div>
@@ -187,14 +189,14 @@ export function InternalOrgDetailView({
             onClick={handleRequestJoin}
             className="mt-3 w-full px-4 py-2 text-sm font-medium text-white bg-rstu-red rounded-lg hover:bg-red-700 transition-colors"
           >
-            Request to Join
+            {t('collective.requestToJoin')}
           </button>
         )}
 
         {userIsPointPerson && (
           <div className="mt-3 flex items-center gap-2">
             <span className="text-xs px-2 py-1 bg-amber-100 text-amber-700 rounded-full font-medium">
-              Point Person
+              {t('network.pointPerson')}
             </span>
           </div>
         )}
@@ -205,13 +207,13 @@ export function InternalOrgDetailView({
             <button
               key={tab}
               onClick={() => setActiveTab(tab)}
-              className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors capitalize ${
+              className={`flex-1 py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
                 activeTab === tab
                   ? 'bg-white text-gray-900 shadow-sm'
                   : 'text-gray-600 hover:text-gray-900'
               }`}
             >
-              {tab}
+              {t(`collective.${tab}`)}
             </button>
           ))}
         </div>
@@ -246,9 +248,9 @@ export function InternalOrgDetailView({
                   <svg className="w-16 h-16 mx-auto text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
                   </svg>
-                  <h3 className="font-medium text-gray-900 mb-1">Members Only</h3>
+                  <h3 className="font-medium text-gray-900 mb-1">{t('collective.membersOnly')}</h3>
                   <p className="text-sm text-gray-500">
-                    Join this collective to access the chat.
+                    {t('collective.joinToAccess')}
                   </p>
                 </div>
               </div>
@@ -264,26 +266,26 @@ export function InternalOrgDetailView({
               <div className="mb-4 p-3 bg-blue-50 rounded-lg">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h4 className="text-sm font-medium text-blue-900">Invite Code</h4>
-                    <p className="text-xs text-blue-700 mt-0.5">Share this code to invite new members</p>
+                    <h4 className="text-sm font-medium text-blue-900">{t('collective.inviteCode')}</h4>
+                    <p className="text-xs text-blue-700 mt-0.5">{t('collective.shareToInvite')}</p>
                   </div>
                   <button
                     onClick={() => setShowInviteCode(!showInviteCode)}
                     className="text-xs text-blue-600 hover:underline"
                   >
-                    {showInviteCode ? 'Hide' : 'Show'}
+                    {showInviteCode ? t('collective.hide') : t('collective.show')}
                   </button>
                 </div>
                 {showInviteCode && (
                   <div className="mt-2 flex items-center gap-2">
                     <code className="flex-1 px-3 py-2 bg-white rounded border border-blue-200 text-lg font-mono text-center">
-                      {organization.inviteCode || 'No code'}
+                      {organization.inviteCode || t('collective.noCode')}
                     </code>
                     <button
                       onClick={handleRegenerateCode}
                       className="px-3 py-2 text-xs text-blue-600 hover:bg-blue-100 rounded"
                     >
-                      Regenerate
+                      {t('collective.regenerate')}
                     </button>
                   </div>
                 )}
@@ -292,7 +294,7 @@ export function InternalOrgDetailView({
 
             {/* Point Persons */}
             <div className="mb-4">
-              <h3 className="text-sm font-medium text-gray-900 mb-2">Point Persons</h3>
+              <h3 className="text-sm font-medium text-gray-900 mb-2">{t('collective.pointPersons')}</h3>
               <div className="space-y-2">
                 {memberProfiles
                   .filter(p => organization.pointPersons.includes(p.id))
@@ -304,6 +306,7 @@ export function InternalOrgDetailView({
                       canManage={userIsPointPerson && member.id !== profile?.id}
                       onDemote={() => removePointPerson(organization.id, member.id)}
                       onRemove={() => handleRemoveMember(member.id)}
+                      t={t}
                     />
                   ))}
               </div>
@@ -311,7 +314,7 @@ export function InternalOrgDetailView({
 
             {/* Regular Members */}
             <div>
-              <h3 className="text-sm font-medium text-gray-900 mb-2">Members</h3>
+              <h3 className="text-sm font-medium text-gray-900 mb-2">{t('collective.members')}</h3>
               <div className="space-y-2">
                 {memberProfiles
                   .filter(p => !organization.pointPersons.includes(p.id))
@@ -323,11 +326,12 @@ export function InternalOrgDetailView({
                       canManage={userIsPointPerson}
                       onPromote={() => handlePromoteToPointPerson(member.id)}
                       onRemove={() => handleRemoveMember(member.id)}
+                      t={t}
                     />
                   ))}
                 {memberProfiles.filter(p => !organization.pointPersons.includes(p.id)).length === 0 && (
                   <p className="text-sm text-gray-500 text-center py-4 bg-gray-50 rounded-lg">
-                    No other members yet
+                    {t('collective.noOtherMembers')}
                   </p>
                 )}
               </div>
@@ -339,16 +343,16 @@ export function InternalOrgDetailView({
         {activeTab === 'events' && (
           <div className="flex-1 overflow-y-auto p-4">
             <div>
-              <h3 className="text-sm font-medium text-gray-900 mb-2">Upcoming Events</h3>
+              <h3 className="text-sm font-medium text-gray-900 mb-2">{t('collective.upcomingEvents')}</h3>
               {upcomingEvents.length > 0 ? (
                 <div className="space-y-2">
                   {upcomingEvents.map(event => (
-                    <EventCard key={event.id} event={event} />
+                    <EventCard key={event.id} event={event} t={t} />
                   ))}
                 </div>
               ) : (
                 <p className="text-sm text-gray-500 text-center py-8 bg-gray-50 rounded-lg">
-                  No upcoming events
+                  {t('collective.noUpcomingEvents')}
                 </p>
               )}
             </div>
@@ -356,7 +360,7 @@ export function InternalOrgDetailView({
             {/* Coming soon note */}
             <div className="mt-6 p-3 bg-gray-50 rounded-lg">
               <p className="text-xs text-gray-500 text-center">
-                Event creation for collectives coming soon.
+                {t('collective.eventCreationComingSoon')}
               </p>
             </div>
           </div>
@@ -372,7 +376,7 @@ export function InternalOrgDetailView({
                   onClick={() => setShowRenameForm(true)}
                   className="w-full px-3 py-2 text-xs font-medium border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors"
                 >
-                  Propose Rename
+                  {t('collective.proposeRename')}
                 </button>
               </div>
             )}
@@ -380,12 +384,12 @@ export function InternalOrgDetailView({
             {/* Rename Form */}
             {showRenameForm && (
               <div className="mb-4 p-3 bg-gray-50 rounded-lg">
-                <label className="block text-xs font-medium text-gray-700 mb-1">New Name</label>
+                <label className="block text-xs font-medium text-gray-700 mb-1">{t('collective.newName')}</label>
                 <input
                   type="text"
                   value={newName}
                   onChange={(e) => setNewName(e.target.value)}
-                  placeholder="Enter new name..."
+                  placeholder={t('collective.enterNewName')}
                   className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-rstu-red focus:border-transparent"
                 />
                 <div className="flex gap-2 mt-2">
@@ -393,14 +397,14 @@ export function InternalOrgDetailView({
                     onClick={() => setShowRenameForm(false)}
                     className="flex-1 px-3 py-1.5 text-xs text-gray-600 bg-white border border-gray-300 rounded-lg hover:bg-gray-50"
                   >
-                    Cancel
+                    {t('common.cancel')}
                   </button>
                   <button
                     onClick={handleProposeRename}
                     disabled={!newName.trim()}
                     className="flex-1 px-3 py-1.5 text-xs text-white bg-rstu-red rounded-lg hover:bg-red-700 disabled:bg-gray-300"
                   >
-                    Submit Proposal
+                    {t('collective.submitProposal')}
                   </button>
                 </div>
               </div>
@@ -408,7 +412,7 @@ export function InternalOrgDetailView({
 
             {/* Active Proposals */}
             <div>
-              <h3 className="text-sm font-medium text-gray-900 mb-2">Active Proposals</h3>
+              <h3 className="text-sm font-medium text-gray-900 mb-2">{t('collective.activeProposals')}</h3>
               {proposals.length > 0 ? (
                 <div className="space-y-2">
                   {proposals.map(proposal => (
@@ -417,12 +421,13 @@ export function InternalOrgDetailView({
                       proposal={proposal}
                       canVote={userIsMember}
                       onVote={handleVote}
+                      t={t}
                     />
                   ))}
                 </div>
               ) : (
                 <p className="text-sm text-gray-500 text-center py-4 bg-gray-50 rounded-lg">
-                  No active proposals
+                  {t('collective.noActiveProposals')}
                 </p>
               )}
             </div>
@@ -441,6 +446,7 @@ function MemberCard({
   onPromote,
   onDemote,
   onRemove,
+  t,
 }: {
   member: UserProfile
   isPointPerson: boolean
@@ -448,6 +454,7 @@ function MemberCard({
   onPromote?: () => void
   onDemote?: () => void
   onRemove?: () => void
+  t: (key: string, params?: Record<string, string | number>) => string
 }) {
   const [showActions, setShowActions] = useState(false)
 
@@ -462,7 +469,7 @@ function MemberCard({
         <div>
           <p className="text-sm font-medium text-gray-900">{member.nickname}</p>
           {isPointPerson && (
-            <span className="text-xs text-amber-600">Point Person</span>
+            <span className="text-xs text-amber-600">{t('network.pointPerson')}</span>
           )}
         </div>
       </div>
@@ -485,7 +492,7 @@ function MemberCard({
                   onClick={() => { onPromote(); setShowActions(false); }}
                   className="w-full text-left px-3 py-2 text-sm text-gray-700 hover:bg-gray-50"
                 >
-                  Make Point Person
+                  {t('collective.makePointPerson')}
                 </button>
               )}
               {isPointPerson && onDemote && (
@@ -493,7 +500,7 @@ function MemberCard({
                   onClick={() => { onDemote(); setShowActions(false); }}
                   className="w-full text-left px-3 py-2 text-sm text-gray-700 hover:bg-gray-50"
                 >
-                  Remove as Point Person
+                  {t('collective.removeAsPointPerson')}
                 </button>
               )}
               {onRemove && (
@@ -501,7 +508,7 @@ function MemberCard({
                   onClick={() => { onRemove(); setShowActions(false); }}
                   className="w-full text-left px-3 py-2 text-sm text-red-600 hover:bg-red-50"
                 >
-                  Remove from Collective
+                  {t('collective.removeFromCollective')}
                 </button>
               )}
             </div>
@@ -513,7 +520,7 @@ function MemberCard({
 }
 
 // Event Card Component
-function EventCard({ event }: { event: BuildingEvent }) {
+function EventCard({ event, t }: { event: BuildingEvent; t: (key: string, params?: Record<string, string | number>) => string }) {
   return (
     <div className="p-3 bg-blue-50 border border-blue-200 rounded-lg">
       <div className="flex items-start justify-between">
@@ -528,12 +535,12 @@ function EventCard({ event }: { event: BuildingEvent }) {
           event.status === 'proposed' ? 'bg-yellow-100 text-yellow-700' :
           'bg-gray-100 text-gray-700'
         }`}>
-          {event.status}
+          {t(`eventCard.${event.status}`)}
         </span>
       </div>
       {event.location && (
         <p className="text-xs text-blue-600 mt-1">
-          {event.location.isVirtual ? 'Virtual' : event.location.name}
+          {event.location.isVirtual ? t('collective.virtual') : event.location.name}
         </p>
       )}
     </div>
@@ -545,10 +552,12 @@ function ProposalCard({
   proposal,
   canVote,
   onVote,
+  t,
 }: {
   proposal: GovernanceProposal
   canVote: boolean
   onVote: (id: string, vote: 'up' | 'down') => void
+  t: (key: string, params?: Record<string, string | number>) => string
 }) {
   const userVote = getUserVote(proposal.id)
   const netVotes = proposal.upvotes.length - proposal.downvotes.length
@@ -557,13 +566,13 @@ function ProposalCard({
   const getProposalLabel = () => {
     switch (proposal.type) {
       case 'collective-rename':
-        return `Rename to "${proposal.targetValue}"`
+        return t('collective.renameTo', { name: proposal.targetValue || '' })
       case 'join-collective':
-        return `Join request`
+        return t('collective.joinRequest')
       case 'add-point-person':
-        return 'Promote to Point Person'
+        return t('collective.promoteToPointPerson')
       case 'remove-point-person':
-        return 'Remove Point Person'
+        return t('collective.removePointPersonLabel')
       default:
         return proposal.type
     }
@@ -588,9 +597,9 @@ function ProposalCard({
       {/* Vote Progress */}
       <div className="mt-3">
         <div className="flex items-center justify-between text-xs text-gray-600 mb-1">
-          <span>Progress</span>
+          <span>{t('collective.progress')}</span>
           <span className={netVotes >= threshold ? 'text-green-600 font-medium' : ''}>
-            {netVotes}/{threshold} votes
+            {t('collective.votesCount', { net: netVotes, threshold })}
           </span>
         </div>
         <div className="h-2 bg-gray-200 rounded-full overflow-hidden">
@@ -615,7 +624,7 @@ function ProposalCard({
             <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
             </svg>
-            Support ({proposal.upvotes.length})
+            {t('collective.support')} ({proposal.upvotes.length})
           </button>
           <button
             onClick={() => onVote(proposal.id, 'down')}
@@ -628,7 +637,7 @@ function ProposalCard({
             <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
             </svg>
-            Oppose ({proposal.downvotes.length})
+            {t('collective.oppose')} ({proposal.downvotes.length})
           </button>
         </div>
       )}

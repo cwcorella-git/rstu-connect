@@ -1,6 +1,7 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo, useCallback, useDeferredValue } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import {
   getExternalOrganizations,
@@ -15,13 +16,13 @@ import { ExternalOrgCard } from './ExternalOrgCard'
 import { InternalOrgCard } from './InternalOrgCard'
 import { InternalOrgDetailView } from './InternalOrgDetailView'
 import { FormCollectiveModal } from './FormCollectiveModal'
+import { ResourceCategoryGroup } from './ResourceCategoryGroup'
 import { getInternalOrganization } from '@/lib/organizationStorage'
 
 // Load seed data on first use
 import externalResourcesData from '@/data/external-resources.json'
 
 type NetworkView = 'resources' | 'collectives'
-type ResourceFilter = 'all' | ExternalResourceCategory
 type CollectiveFilter = 'all' | 'my-collectives'
 
 interface NetworkTabProps {
@@ -29,9 +30,16 @@ interface NetworkTabProps {
 }
 
 export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
+  const { t } = useLanguage()
   const [activeView, setActiveView] = useState<NetworkView>('resources')
-  const [resourceFilter, setResourceFilter] = useState<ResourceFilter>('all')
   const [collectiveFilter, setCollectiveFilter] = useState<CollectiveFilter>('all')
+
+  // Search state
+  const [searchInput, setSearchInput] = useState('')
+  const searchQuery = useDeferredValue(searchInput)
+
+  // Category expansion state
+  const [expandedCategories, setExpandedCategories] = useState<Set<string>>(new Set())
 
   const [externalOrgs, setExternalOrgs] = useState<ExternalOrganization[]>([])
   const [collectives, setCollectives] = useState<InternalOrganization[]>([])
@@ -62,16 +70,60 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
     }
   }, [collectiveFilter, profile])
 
-  // Filter external orgs by category
-  const filteredExternalOrgs = resourceFilter === 'all'
-    ? externalOrgs
-    : externalOrgs.filter(org => org.category === resourceFilter)
+  // Toggle category expansion
+  const toggleCategory = useCallback((category: string) => {
+    setExpandedCategories(prev => {
+      const next = new Set(prev)
+      if (next.has(category)) {
+        next.delete(category)
+      } else {
+        next.add(category)
+      }
+      return next
+    })
+  }, [])
 
-  // Resource category counts
-  const categoryCounts = externalOrgs.reduce((acc, org) => {
-    acc[org.category] = (acc[org.category] || 0) + 1
-    return acc
-  }, {} as Record<ExternalResourceCategory, number>)
+  // Filter external orgs by search query
+  const filteredExternalOrgs = useMemo(() => {
+    const query = searchQuery.toLowerCase().trim()
+    if (!query) return externalOrgs
+
+    return externalOrgs.filter(org =>
+      org.name.toLowerCase().includes(query) ||
+      org.description.toLowerCase().includes(query) ||
+      (org.serviceArea && org.serviceArea.toLowerCase().includes(query)) ||
+      (org.eligibility && org.eligibility.toLowerCase().includes(query)) ||
+      EXTERNAL_CATEGORY_LABELS[org.category].toLowerCase().includes(query)
+    )
+  }, [externalOrgs, searchQuery])
+
+  // Group organizations by category
+  const groupedOrgs = useMemo(() => {
+    const groups = new Map<ExternalResourceCategory, ExternalOrganization[]>()
+
+    // Initialize all categories in order
+    const categoryOrder = Object.keys(EXTERNAL_CATEGORY_LABELS) as ExternalResourceCategory[]
+    categoryOrder.forEach(cat => groups.set(cat, []))
+
+    // Populate groups
+    filteredExternalOrgs.forEach(org => {
+      const list = groups.get(org.category)
+      if (list) {
+        list.push(org)
+      }
+    })
+
+    // Return only non-empty groups
+    return categoryOrder
+      .filter(cat => (groups.get(cat)?.length || 0) > 0)
+      .map(cat => ({
+        category: cat,
+        label: EXTERNAL_CATEGORY_LABELS[cat],
+        organizations: groups.get(cat) || []
+      }))
+  }, [filteredExternalOrgs])
+
+  const isSearching = searchInput.trim().length > 0
 
   const handleCollectiveClick = (org: InternalOrganization) => {
     setSelectedCollective(org)
@@ -123,7 +175,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
                 : 'text-gray-600 hover:bg-gray-100'
             }`}
           >
-            Resources
+            {t('network.resources')}
             <span className="ml-1.5 text-xs opacity-75">({externalOrgs.length})</span>
           </button>
           <button
@@ -134,7 +186,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
                 : 'text-gray-600 hover:bg-gray-100'
             }`}
           >
-            Collectives
+            {t('network.collectives')}
             <span className="ml-1.5 text-xs opacity-75">({collectives.length})</span>
           </button>
         </div>
@@ -144,63 +196,74 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
       <div className="flex-1 overflow-y-auto">
         {/* Resources View */}
         {activeView === 'resources' && (
-          <div className="p-4">
-            {/* Category filter */}
-            <div className="mb-4">
-              <div className="flex flex-wrap gap-1.5">
-                <button
-                  onClick={() => setResourceFilter('all')}
-                  className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
-                    resourceFilter === 'all'
-                      ? 'bg-gray-800 text-white'
-                      : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-                  }`}
-                >
-                  All ({externalOrgs.length})
-                </button>
-                {(Object.keys(EXTERNAL_CATEGORY_LABELS) as ExternalResourceCategory[]).map(category => {
-                  const count = categoryCounts[category] || 0
-                  if (count === 0) return null
-                  return (
-                    <button
-                      key={category}
-                      onClick={() => setResourceFilter(category)}
-                      className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
-                        resourceFilter === category
-                          ? 'bg-gray-800 text-white'
-                          : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-                      }`}
-                    >
-                      {EXTERNAL_CATEGORY_LABELS[category]} ({count})
-                    </button>
-                  )
-                })}
+          <div className="h-full flex flex-col bg-white">
+            {/* Header with search */}
+            <div className="p-4 border-b border-gray-200 space-y-3 flex-shrink-0">
+              <div className="flex items-center justify-between">
+                <h2 className="text-lg font-bold text-gray-900">{t('network.resourceLibrary')}</h2>
+                <span className="text-xs text-gray-500">
+                  {isSearching ? (
+                    t('network.resultsFor', { count: filteredExternalOrgs.length, query: searchQuery })
+                  ) : (
+                    <>
+                      {filteredExternalOrgs.length} {filteredExternalOrgs.length !== 1 ? t('network.organizations') : t('network.organization')}
+                    </>
+                  )}
+                </span>
               </div>
+
+              {/* Search Input */}
+              <input
+                type="text"
+                placeholder={t('network.searchResources')}
+                value={searchInput}
+                onChange={(e) => setSearchInput(e.target.value)}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+              />
             </div>
 
-            {/* External org cards */}
-            <div className="space-y-3">
+            {/* Category Groups or Search Results */}
+            <div className="flex-1 overflow-y-auto">
               {filteredExternalOrgs.length === 0 ? (
-                <div className="text-center py-8 text-gray-500">
-                  <p>No resources found in this category.</p>
+                <div className="p-8 text-center text-gray-500">
+                  <p>{t('network.noResourcesFound')}</p>
+                </div>
+              ) : isSearching ? (
+                // Flat list when searching
+                <div className="p-4 space-y-3">
+                  {filteredExternalOrgs.map(org => (
+                    <ExternalOrgCard key={org.id} organization={org} />
+                  ))}
                 </div>
               ) : (
-                filteredExternalOrgs.map(org => (
-                  <ExternalOrgCard key={org.id} organization={org} />
-                ))
+                // Grouped by category when not searching
+                <div>
+                  {groupedOrgs.map(({ category, label, organizations }) => (
+                    <ResourceCategoryGroup
+                      key={category}
+                      category={category}
+                      categoryLabel={label}
+                      organizations={organizations}
+                      isExpanded={expandedCategories.has(category)}
+                      onToggle={() => toggleCategory(category)}
+                    />
+                  ))}
+                </div>
               )}
-            </div>
 
-            {/* Footer info */}
-            <div className="mt-6 pt-4 border-t border-gray-200">
-              <p className="text-xs text-gray-500 text-center">
-                Resources curated from community knowledge.{' '}
-                {profile?.role === 'admin' && (
-                  <button className="text-blue-600 hover:underline">
-                    Manage resources
-                  </button>
-                )}
-              </p>
+              {/* Footer info */}
+              {!isSearching && filteredExternalOrgs.length > 0 && (
+                <div className="p-4 border-t border-gray-200">
+                  <p className="text-xs text-gray-500 text-center">
+                    {t('network.resourcesCurated')}{' '}
+                    {profile?.role === 'admin' && (
+                      <button className="text-blue-600 hover:underline">
+                        {t('network.manageResources')}
+                      </button>
+                    )}
+                  </p>
+                </div>
+              )}
             </div>
           </div>
         )}
@@ -219,7 +282,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
                       : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                   }`}
                 >
-                  All Public
+                  {t('network.allPublic')}
                 </button>
                 {profile && (
                   <button
@@ -230,7 +293,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
                         : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                     }`}
                   >
-                    My Collectives
+                    {t('network.myCollectives')}
                   </button>
                 )}
               </div>
@@ -241,7 +304,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
                   onClick={() => setShowFormModal(true)}
                   className="px-3 py-1.5 text-xs font-medium bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors"
                 >
-                  + Form Collective
+                  {t('network.formCollectiveBtn')}
                 </button>
               )}
             </div>
@@ -255,18 +318,18 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
                     </svg>
                   </div>
-                  <p className="text-gray-600 font-medium mb-1">No collectives yet</p>
+                  <p className="text-gray-600 font-medium mb-1">{t('network.noCollectivesYet')}</p>
                   <p className="text-sm text-gray-500 mb-4">
                     {collectiveFilter === 'my-collectives'
-                      ? "You haven't joined any collectives yet."
-                      : 'Be the first to form a tenant collective!'}
+                      ? t('network.notJoinedAny')
+                      : t('network.beFirstToForm')}
                   </p>
                   {profile && collectiveFilter !== 'my-collectives' && (
                     <button
                       onClick={() => setShowFormModal(true)}
                       className="px-4 py-2 text-sm font-medium bg-rstu-red text-white rounded-lg hover:bg-red-700"
                     >
-                      Form a Collective
+                      {t('network.formACollective')}
                     </button>
                   )}
                 </div>
@@ -285,9 +348,9 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
             {/* Info about collectives */}
             <div className="mt-6 pt-4 border-t border-gray-200">
               <div className="bg-blue-50 rounded-lg p-4">
-                <h4 className="text-sm font-medium text-blue-900 mb-1">What are Collectives?</h4>
+                <h4 className="text-sm font-medium text-blue-900 mb-1">{t('network.whatAreCollectives')}</h4>
                 <p className="text-xs text-blue-700">
-                  Collectives are tenant-formed groups organized around shared interests - working groups, neighborhood groups, or affinity groups. They have shared chat, events, and governance.
+                  {t('network.collectivesDescription')}
                 </p>
               </div>
             </div>

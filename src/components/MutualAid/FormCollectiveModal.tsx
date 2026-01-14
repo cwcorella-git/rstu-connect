@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import {
   type InternalCollectiveCategory,
@@ -17,15 +18,16 @@ interface FormCollectiveModalProps {
 
 type Step = 'info' | 'category' | 'visibility' | 'confirm'
 
-const CATEGORY_DESCRIPTIONS: Record<InternalCollectiveCategory, string> = {
-  working_group: 'Task-focused groups (e.g., Communications, Legal Support, Outreach)',
-  neighborhood: 'Geographic area-based groups for local organizing',
-  affinity: 'Identity or interest-based groups (e.g., Spanish speakers, parents)',
-  committee: 'Formal decision-making bodies with specific mandates',
-  other: 'Other types of tenant organizing groups',
+const CATEGORY_DESC_KEYS: Record<InternalCollectiveCategory, string> = {
+  working_group: 'collective.workingGroupDesc',
+  neighborhood: 'collective.neighborhoodDesc',
+  affinity: 'collective.affinityDesc',
+  committee: 'collective.committeeDesc',
+  other: 'collective.otherDesc',
 }
 
 export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollectiveModalProps) {
+  const { t } = useLanguage()
   const [step, setStep] = useState<Step>('info')
   const [name, setName] = useState('')
   const [description, setDescription] = useState('')
@@ -38,12 +40,12 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
 
   const handleSubmit = async () => {
     if (!profile) {
-      setError('You must be logged in to form a collective')
+      setError(t('collective.mustBeLoggedIn'))
       return
     }
 
     if (!name.trim() || !description.trim()) {
-      setError('Name and description are required')
+      setError(t('collective.nameDescRequired'))
       return
     }
 
@@ -61,7 +63,7 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
       })
 
       if (!org) {
-        setError('Failed to create collective')
+        setError(t('collective.createFailed'))
         setIsSubmitting(false)
         return
       }
@@ -82,7 +84,7 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
       handleClose()
     } catch (e) {
       console.error('Error creating collective:', e)
-      setError('An error occurred. Please try again.')
+      setError(t('collective.errorTryAgain'))
     } finally {
       setIsSubmitting(false)
     }
@@ -156,9 +158,9 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
         {/* Header */}
         <div className="flex items-center justify-between p-4 border-b border-gray-200 flex-shrink-0">
           <div>
-            <h2 className="text-lg font-bold text-gray-900">Form a Collective</h2>
+            <h2 className="text-lg font-bold text-gray-900">{t('collective.formTitle')}</h2>
             <p className="text-xs text-gray-500 mt-0.5">
-              Step {step === 'info' ? 1 : step === 'category' ? 2 : step === 'visibility' ? 3 : 4} of 4
+              {t('collective.stepOf', { step: step === 'info' ? 1 : step === 'category' ? 2 : step === 'visibility' ? 3 : 4, total: 4 })}
             </p>
           </div>
           <button
@@ -178,35 +180,35 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
             <div className="space-y-4">
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Collective Name <span className="text-red-500">*</span>
+                  {t('collective.collectiveName')} <span className="text-red-500">*</span>
                 </label>
                 <input
                   type="text"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
-                  placeholder="e.g., Communications Working Group"
+                  placeholder={t('collective.namePlaceholder')}
                   className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
                   maxLength={60}
                 />
                 <p className="mt-1 text-xs text-gray-500">
-                  {name.length}/60 characters
+                  {t('collective.charactersCount', { count: name.length, max: 60 })}
                 </p>
               </div>
 
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Description <span className="text-red-500">*</span>
+                  {t('common.description')} <span className="text-red-500">*</span>
                 </label>
                 <textarea
                   value={description}
                   onChange={(e) => setDescription(e.target.value)}
-                  placeholder="What is the purpose of this collective? Who should join?"
+                  placeholder={t('collective.descPlaceholder')}
                   rows={4}
                   className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent resize-none"
                   maxLength={500}
                 />
                 <p className="mt-1 text-xs text-gray-500">
-                  {description.length}/500 characters (min 10)
+                  {t('collective.charactersCountMin', { count: description.length, max: 500, min: 10 })}
                 </p>
               </div>
             </div>
@@ -216,7 +218,7 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
           {step === 'category' && (
             <div className="space-y-3">
               <p className="text-sm text-gray-600 mb-4">
-                What type of collective is this?
+                {t('collective.whatType')}
               </p>
 
               {(Object.keys(COLLECTIVE_CATEGORY_LABELS) as InternalCollectiveCategory[]).map((cat) => (
@@ -237,7 +239,7 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
                       </svg>
                     )}
                   </div>
-                  <p className="text-xs text-gray-500 mt-1">{CATEGORY_DESCRIPTIONS[cat]}</p>
+                  <p className="text-xs text-gray-500 mt-1">{t(CATEGORY_DESC_KEYS[cat])}</p>
                 </button>
               ))}
             </div>
@@ -247,7 +249,7 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
           {step === 'visibility' && (
             <div className="space-y-4">
               <p className="text-sm text-gray-600 mb-4">
-                Who can see and join this collective?
+                {t('collective.whoCanSee')}
               </p>
 
               <button
@@ -267,9 +269,9 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
                     </svg>
                   </div>
                   <div>
-                    <h3 className="font-medium text-gray-900">Public Collective</h3>
+                    <h3 className="font-medium text-gray-900">{t('collective.publicCollective')}</h3>
                     <p className="text-xs text-gray-500 mt-1">
-                      Visible to all members. Anyone can request to join. Point Persons approve requests.
+                      {t('collective.publicDescription')}
                     </p>
                   </div>
                 </div>
@@ -292,9 +294,9 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
                     </svg>
                   </div>
                   <div>
-                    <h3 className="font-medium text-gray-900">Private Collective</h3>
+                    <h3 className="font-medium text-gray-900">{t('collective.privateCollective')}</h3>
                     <p className="text-xs text-gray-500 mt-1">
-                      Only visible to members. Invite code required to join. Good for sensitive organizing.
+                      {t('collective.privateDescription')}
                     </p>
                   </div>
                 </div>
@@ -306,35 +308,35 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
           {step === 'confirm' && (
             <div className="space-y-4">
               <div className="bg-gray-50 rounded-lg p-4">
-                <h3 className="font-medium text-gray-900 mb-3">Review Your Collective</h3>
+                <h3 className="font-medium text-gray-900 mb-3">{t('collective.reviewTitle')}</h3>
 
                 <dl className="space-y-2 text-sm">
                   <div className="flex">
-                    <dt className="w-24 text-gray-500">Name:</dt>
+                    <dt className="w-24 text-gray-500">{t('collective.nameField')}</dt>
                     <dd className="flex-1 text-gray-900 font-medium">{name}</dd>
                   </div>
                   <div className="flex">
-                    <dt className="w-24 text-gray-500">Type:</dt>
+                    <dt className="w-24 text-gray-500">{t('collective.typeField')}</dt>
                     <dd className="flex-1 text-gray-900">{COLLECTIVE_CATEGORY_LABELS[category]}</dd>
                   </div>
                   <div className="flex">
-                    <dt className="w-24 text-gray-500">Visibility:</dt>
-                    <dd className="flex-1 text-gray-900">{isPublic ? 'Public' : 'Private'}</dd>
+                    <dt className="w-24 text-gray-500">{t('collective.visibilityField')}</dt>
+                    <dd className="flex-1 text-gray-900">{isPublic ? t('collective.public') : t('network.private')}</dd>
                   </div>
                   <div className="flex">
-                    <dt className="w-24 text-gray-500">Description:</dt>
+                    <dt className="w-24 text-gray-500">{t('collective.descField')}</dt>
                     <dd className="flex-1 text-gray-900">{description}</dd>
                   </div>
                 </dl>
               </div>
 
               <div className="bg-blue-50 rounded-lg p-4">
-                <h4 className="text-sm font-medium text-blue-900 mb-1">What happens next?</h4>
+                <h4 className="text-sm font-medium text-blue-900 mb-1">{t('collective.whatHappensNext')}</h4>
                 <ul className="text-xs text-blue-700 space-y-1">
-                  <li>- Your collective will be created immediately</li>
-                  <li>- You will be the first Point Person</li>
-                  <li>- A formation announcement will be posted</li>
-                  <li>- Other tenants can endorse and join</li>
+                  <li>- {t('collective.createdImmediately')}</li>
+                  <li>- {t('collective.firstPointPerson')}</li>
+                  <li>- {t('collective.formationAnnouncement')}</li>
+                  <li>- {t('collective.othersCanJoin')}</li>
                 </ul>
               </div>
 
@@ -354,14 +356,14 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
               onClick={handleClose}
               className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
             >
-              Cancel
+              {t('common.cancel')}
             </button>
           ) : (
             <button
               onClick={prevStep}
               className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
             >
-              Back
+              {t('common.back')}
             </button>
           )}
 
@@ -375,10 +377,10 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
             }`}
           >
             {isSubmitting
-              ? 'Creating...'
+              ? t('collective.creating')
               : step === 'confirm'
-              ? 'Form Collective'
-              : 'Continue'}
+              ? t('collective.formTitle')
+              : t('collective.continue')}
           </button>
         </div>
       </div>

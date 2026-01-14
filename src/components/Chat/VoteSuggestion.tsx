@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
@@ -25,8 +26,8 @@ type VoteCategory = 'identity' | 'membership' | 'coordination' | 'moderation'
 
 interface VoteOption {
   type: GovernanceProposalType
-  label: string
-  description: string
+  labelKey: string
+  descriptionKey: string
   category: VoteCategory
   requiresOrganizer?: boolean
 }
@@ -34,50 +35,50 @@ interface VoteOption {
 const VOTE_OPTIONS: VoteOption[] = [
   {
     type: 'rename',
-    label: 'Rename our group',
-    description: 'Propose a new name for this property group',
+    labelKey: 'voteSuggestion.renameLabel',
+    descriptionKey: 'voteSuggestion.renameDesc',
     category: 'identity',
   },
   {
     type: 'add-property',
-    label: 'Add a property',
-    description: 'Add another building to our organizing group',
+    labelKey: 'voteSuggestion.addPropertyLabel',
+    descriptionKey: 'voteSuggestion.addPropertyDesc',
     category: 'membership',
   },
   {
     type: 'remove-property',
-    label: 'Remove a property',
-    description: 'Remove a building from our group',
+    labelKey: 'voteSuggestion.removePropertyLabel',
+    descriptionKey: 'voteSuggestion.removePropertyDesc',
     category: 'membership',
   },
   {
     type: 'merge',
-    label: 'Merge with another group',
-    description: 'Combine our group with another (requires their consent)',
+    labelKey: 'voteSuggestion.mergeLabel',
+    descriptionKey: 'voteSuggestion.mergeDesc',
     category: 'coordination',
   },
   {
     type: 'alliance',
-    label: 'Create alliance',
-    description: 'Coordinate with another group without merging',
+    labelKey: 'voteSuggestion.allianceLabel',
+    descriptionKey: 'voteSuggestion.allianceDesc',
     category: 'coordination',
   },
   {
     type: 'split',
-    label: 'Split our group',
-    description: 'Divide this group into two separate groups',
+    labelKey: 'voteSuggestion.splitLabel',
+    descriptionKey: 'voteSuggestion.splitDesc',
     category: 'membership',
   },
   {
     type: 'mute-tenant',
-    label: 'Mute a member',
-    description: 'Prevent a disruptive member from chatting (requires +7 votes and organizer approval)',
+    labelKey: 'voteSuggestion.muteLabel',
+    descriptionKey: 'voteSuggestion.muteDesc',
     category: 'moderation',
   },
   {
     type: 'escalate',
-    label: 'Escalate a demand',
-    description: 'Vote to escalate a demand to the next level',
+    labelKey: 'voteSuggestion.escalateLabel',
+    descriptionKey: 'voteSuggestion.escalateDesc',
     category: 'coordination',
   },
 ]
@@ -102,6 +103,7 @@ export function VoteSuggestion({
   const [linkedGroups, setLinkedGroups] = useState<LinkedPropertyGroup[]>([])
   const [demands, setDemands] = useState<{ id: string; title: string }[]>([])
 
+  const { t } = useLanguage()
   const profile = getCurrentProfile()
 
   useEffect(() => {
@@ -169,20 +171,20 @@ export function VoteSuggestion({
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
       <div className="bg-white rounded-lg shadow-xl max-w-md w-full p-6 max-h-[90vh] overflow-y-auto">
         <div className="flex justify-between items-start mb-4">
-          <h3 className="text-lg font-bold text-gray-900">Start a Group Vote</h3>
+          <h3 className="text-lg font-bold text-gray-900">{t('voteSuggestion.title')}</h3>
           <button onClick={onClose} className="text-gray-400 hover:text-gray-600 text-xl">
             &times;
           </button>
         </div>
 
         <p className="text-sm text-gray-600 mb-4">
-          Propose a change for {groupName}. Other tenants will vote on your proposal.
+          {t('voteSuggestion.subtitle', { groupName })}
         </p>
 
         {!selectedType ? (
           // Vote type selection
           <div className="space-y-2">
-            <p className="text-sm font-medium text-gray-700 mb-3">What would you like to vote on?</p>
+            <p className="text-sm font-medium text-gray-700 mb-3">{t('voteSuggestion.whatVote')}</p>
 
             {VOTE_OPTIONS.map(option => (
               <button
@@ -190,8 +192,8 @@ export function VoteSuggestion({
                 onClick={() => setSelectedType(option.type)}
                 className="w-full text-left p-3 rounded-lg border border-gray-200 hover:border-rstu-red hover:bg-red-50 transition"
               >
-                <div className="font-medium text-gray-900 text-sm">{option.label}</div>
-                <div className="text-xs text-gray-500 mt-0.5">{option.description}</div>
+                <div className="font-medium text-gray-900 text-sm">{t(option.labelKey)}</div>
+                <div className="text-xs text-gray-500 mt-0.5">{t(option.descriptionKey)}</div>
               </button>
             ))}
           </div>
@@ -205,13 +207,13 @@ export function VoteSuggestion({
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
-              Back to options
+              {t('voteSuggestion.backToOptions')}
             </button>
 
             <div className="bg-gray-50 rounded-lg p-3">
-              <div className="font-medium text-gray-900">{selectedOption?.label}</div>
+              <div className="font-medium text-gray-900">{selectedOption ? t(selectedOption.labelKey) : ''}</div>
               <div className="text-xs text-gray-500 mt-1">
-                Requires +{threshold} net votes to pass
+                {t('voteSuggestion.requiresVotes', { count: threshold })}
               </div>
             </div>
 
@@ -219,13 +221,13 @@ export function VoteSuggestion({
             {selectedType === 'rename' && (
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  New Group Name
+                  {t('voteSuggestion.newGroupName')}
                 </label>
                 <input
                   type="text"
                   value={newName}
                   onChange={e => setNewName(e.target.value)}
-                  placeholder={`Current: ${groupName}`}
+                  placeholder={t('voteSuggestion.currentName', { name: groupName })}
                   className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
                   maxLength={100}
                 />
@@ -235,13 +237,13 @@ export function VoteSuggestion({
             {selectedType === 'add-property' && (
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Search for Property
+                  {t('voteSuggestion.searchProperty')}
                 </label>
                 <input
                   type="text"
                   value={propertySearch}
                   onChange={e => setPropertySearch(e.target.value)}
-                  placeholder="Type an address..."
+                  placeholder={t('voteSuggestion.typeAddress')}
                   className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
                 />
                 {filteredBuildings.length > 0 && (
@@ -263,7 +265,7 @@ export function VoteSuggestion({
                   </div>
                 )}
                 {selectedApn && (
-                  <p className="text-xs text-green-600 mt-1">Selected: {propertySearch}</p>
+                  <p className="text-xs text-green-600 mt-1">{t('voteSuggestion.selected')}: {propertySearch}</p>
                 )}
               </div>
             )}
@@ -271,10 +273,10 @@ export function VoteSuggestion({
             {selectedType === 'remove-property' && building && (
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Select Property to Remove
+                  {t('voteSuggestion.selectPropertyRemove')}
                 </label>
                 <p className="text-xs text-gray-500 mb-2">
-                  Current property: {building.address.split(',')[0]}
+                  {t('voteSuggestion.currentProperty')}: {building.address.split(',')[0]}
                 </p>
                 <button
                   onClick={() => setSelectedApn(building.apn)}
@@ -292,10 +294,10 @@ export function VoteSuggestion({
             {(selectedType === 'merge' || selectedType === 'alliance') && (
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Select {selectedType === 'merge' ? 'Group to Merge With' : 'Group to Ally With'}
+                  {selectedType === 'merge' ? t('voteSuggestion.selectMerge') : t('voteSuggestion.selectAlly')}
                 </label>
                 {linkedGroups.length === 0 ? (
-                  <p className="text-sm text-gray-500 italic">No other groups available</p>
+                  <p className="text-sm text-gray-500 italic">{t('voteSuggestion.noGroups')}</p>
                 ) : (
                   <div className="space-y-2">
                     {linkedGroups.map(g => (
@@ -309,7 +311,7 @@ export function VoteSuggestion({
                         }`}
                       >
                         <div className="font-medium">{g.name}</div>
-                        <div className="text-xs text-gray-500">{g.apns.length} properties</div>
+                        <div className="text-xs text-gray-500">{g.apns.length} {t('voteSuggestion.properties')}</div>
                       </button>
                     ))}
                   </div>
@@ -320,17 +322,17 @@ export function VoteSuggestion({
             {selectedType === 'mute-tenant' && (
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Member to Mute
+                  {t('voteSuggestion.memberToMute')}
                 </label>
                 <input
                   type="text"
                   value={selectedProfileId}
                   onChange={e => setSelectedProfileId(e.target.value)}
-                  placeholder="Enter their username or profile ID"
+                  placeholder={t('voteSuggestion.enterUsername')}
                   className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red"
                 />
                 <p className="text-xs text-yellow-600 mt-1">
-                  Requires +7 votes AND organizer approval
+                  {t('voteSuggestion.requiresOrganizerApproval')}
                 </p>
               </div>
             )}
@@ -338,10 +340,10 @@ export function VoteSuggestion({
             {selectedType === 'escalate' && (
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-1">
-                  Select Demand to Escalate
+                  {t('voteSuggestion.selectDemand')}
                 </label>
                 {demands.length === 0 ? (
-                  <p className="text-sm text-gray-500 italic">No demands available to escalate</p>
+                  <p className="text-sm text-gray-500 italic">{t('voteSuggestion.noDemandsAvailable')}</p>
                 ) : (
                   <div className="space-y-2">
                     {demands.map(d => (
@@ -365,12 +367,12 @@ export function VoteSuggestion({
             {/* Reason field */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
-                Reason {selectedType === 'mute-tenant' ? '(required)' : '(optional)'}
+                {t('voteSuggestion.reason')} {selectedType === 'mute-tenant' ? t('voteSuggestion.required') : t('voteSuggestion.optional')}
               </label>
               <textarea
                 value={reason}
                 onChange={e => setReason(e.target.value)}
-                placeholder="Why are you proposing this change?"
+                placeholder={t('voteSuggestion.whyProposing')}
                 rows={2}
                 className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red resize-none"
                 maxLength={300}
@@ -389,7 +391,7 @@ export function VoteSuggestion({
               onClick={onClose}
               className="px-4 py-2 text-sm text-gray-600 hover:text-gray-800"
             >
-              Cancel
+              {t('common.cancel')}
             </button>
             <button
               onClick={handleSubmit}
@@ -404,7 +406,7 @@ export function VoteSuggestion({
               }
               className="px-4 py-2 text-sm bg-rstu-red text-white rounded hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              Submit Proposal
+              {t('voteSuggestion.submitProposal')}
             </button>
           </div>
         )}
@@ -417,12 +419,12 @@ export function VoteSuggestion({
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
               <div className="text-xs text-blue-700">
-                <p className="font-medium">How voting works:</p>
+                <p className="font-medium">{t('voteSuggestion.howVotingWorks')}</p>
                 <ul className="mt-1 space-y-0.5 list-disc list-inside text-blue-600">
-                  <li>Your vote counts as +1 automatically</li>
-                  <li>Other tenants vote in the chat</li>
-                  <li>Proposals expire after 7 days</li>
-                  <li>Admins facilitate but cannot vote</li>
+                  <li>{t('voteSuggestion.voteCountsAuto')}</li>
+                  <li>{t('voteSuggestion.tenantsVoteChat')}</li>
+                  <li>{t('voteSuggestion.proposalsExpire')}</li>
+                  <li>{t('voteSuggestion.adminsFacilitate')}</li>
                 </ul>
               </div>
             </div>

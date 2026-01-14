@@ -1501,6 +1501,11 @@ const translations: Record<Locale, Record<string, string>> = {
     
     // MutualAid - Network Tab
     'network.resources': 'Resources',
+    'network.resourceLibrary': 'Resource Library',
+    'network.searchResources': 'Search resources...',
+    'network.organizations': 'organizations',
+    'network.organization': 'organization',
+    'network.resultsFor': '{count} results for "{query}"',
     'network.collectives': 'Collectives',
     'network.all': 'All',
     'network.noResourcesFound': 'No resources found in this category.',
@@ -3046,6 +3051,11 @@ const translations: Record<Locale, Record<string, string>> = {
     
     // MutualAid - Network Tab
     'network.resources': 'Recursos',
+    'network.resourceLibrary': 'Biblioteca de Recursos',
+    'network.searchResources': 'Buscar recursos...',
+    'network.organizations': 'organizaciones',
+    'network.organization': 'organización',
+    'network.resultsFor': '{count} resultados para "{query}"',
     'network.collectives': 'Colectivos',
     'network.all': 'Todos',
     'network.noResourcesFound': 'No se encontraron recursos en esta categoría.',
@@ -4646,6 +4656,11 @@ const translations: Record<Locale, Record<string, string>> = {
     
     // MutualAid - Network Tab
     'network.resources': 'Mga Mapagkukunan',
+    'network.resourceLibrary': 'Aklatan ng Mapagkukunan',
+    'network.searchResources': 'Maghanap ng mga mapagkukunan...',
+    'network.organizations': 'mga organisasyon',
+    'network.organization': 'organisasyon',
+    'network.resultsFor': '{count} resulta para sa "{query}"',
     'network.collectives': 'Mga Kolektibo',
     'network.all': 'Lahat',
     'network.noResourcesFound': 'Walang nahanap na mapagkukunan sa kategoryang ito.',
@@ -6248,6 +6263,11 @@ const translations: Record<Locale, Record<string, string>> = {
     
     // MutualAid - Network Tab
     'network.resources': '资源',
+    'network.resourceLibrary': '资源库',
+    'network.searchResources': '搜索资源...',
+    'network.organizations': '个组织',
+    'network.organization': '个组织',
+    'network.resultsFor': '{query}的{count}个结果',
     'network.collectives': '集体',
     'network.all': '全部',
     'network.noResourcesFound': '此类别中未找到资源。',
@@ -7831,6 +7851,11 @@ const translations: Record<Locale, Record<string, string>> = {
     
     // MutualAid - Network Tab
     'network.resources': 'Tài nguyên',
+    'network.resourceLibrary': 'Thư viện Tài nguyên',
+    'network.searchResources': 'Tìm kiếm tài nguyên...',
+    'network.organizations': 'tổ chức',
+    'network.organization': 'tổ chức',
+    'network.resultsFor': '{count} kết quả cho "{query}"',
     'network.collectives': 'Tập thể',
     'network.all': 'Tất cả',
     'network.noResourcesFound': 'Không tìm thấy tài nguyên trong danh mục này.',

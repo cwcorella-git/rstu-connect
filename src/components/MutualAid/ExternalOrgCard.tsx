@@ -1,5 +1,6 @@
 'use client'
 
+import { useLanguage } from '@/contexts/LanguageContext'
 import { type ExternalOrganization, EXTERNAL_CATEGORY_LABELS } from '@/lib/organizationStorage'
 
 interface ExternalOrgCardProps {
@@ -7,6 +8,7 @@ interface ExternalOrgCardProps {
 }
 
 export function ExternalOrgCard({ organization }: ExternalOrgCardProps) {
+  const { t } = useLanguage()
   const { name, description, category, contacts, serviceArea, eligibility, verified, languages } = organization
 
   // Get contact by type
@@ -34,7 +36,7 @@ export function ExternalOrgCard({ organization }: ExternalOrgCardProps) {
                 <svg className="w-3 h-3 mr-0.5" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                 </svg>
-                Verified
+                {t('org.verified')}
               </span>
             )}
           </div>
@@ -94,7 +96,7 @@ export function ExternalOrgCard({ organization }: ExternalOrgCardProps) {
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
             </svg>
-            Call
+            {t('org.call')}
           </button>
         )}
         {website && (
@@ -105,7 +107,7 @@ export function ExternalOrgCard({ organization }: ExternalOrgCardProps) {
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
             </svg>
-            Website
+            {t('org.website')}
           </button>
         )}
         {!phone && !website && address && (
@@ -116,7 +118,7 @@ export function ExternalOrgCard({ organization }: ExternalOrgCardProps) {
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
             </svg>
-            Directions
+            {t('org.directions')}
           </button>
         )}
       </div>

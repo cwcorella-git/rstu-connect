@@ -160,7 +160,7 @@ export function EventEditor({
         dateTime: eventDateTime,
         durationMinutes: duration,
         location: {
-          name: isVirtual ? 'Virtual Meeting' : locationName.trim(),
+          name: isVirtual ? t('events.virtualMeeting') : locationName.trim(),
           isVirtual,
           virtualLink: isVirtual && virtualLink.trim() ? virtualLink.trim() : undefined,
         },
@@ -169,10 +169,10 @@ export function EventEditor({
       if (updated) {
         onUpdated(updated);
       } else {
-        setError('Failed to update event');
+        setError(t('events.updateFailed'));
       }
     } catch (err) {
-      setError('Failed to update event. Please try again.');
+      setError(t('events.updateFailedRetry'));
     } finally {
       setIsSubmitting(false);
     }
@@ -200,7 +200,7 @@ export function EventEditor({
             <button
               onClick={onClose}
               className="p-1 hover:bg-gray-100 rounded-full transition-colors"
-              aria-label="Close"
+              aria-label={t('common.close')}
             >
               <svg className="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -227,7 +227,7 @@ export function EventEditor({
                 id="title"
                 value={title}
                 onChange={e => setTitle(e.target.value)}
-                placeholder="e.g., Tenant Meeting"
+                placeholder={t('events.eventTitlePlaceholder')}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                 autoFocus
               />
@@ -316,7 +316,7 @@ export function EventEditor({
                   type="text"
                   value={locationName}
                   onChange={e => setLocationName(e.target.value)}
-                  placeholder="e.g., Community Room, Lobby"
+                  placeholder={t('events.locationPlaceholder')}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                 />
               ) : (
@@ -324,7 +324,7 @@ export function EventEditor({
                   type="url"
                   value={virtualLink}
                   onChange={e => setVirtualLink(e.target.value)}
-                  placeholder="Meeting link (optional)"
+                  placeholder={t('events.meetingLinkPlaceholder')}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
                 />
               )}
@@ -359,10 +359,10 @@ export function EventEditor({
                 value={description}
                 onChange={e => setDescription(e.target.value)}
                 rows={4}
-                placeholder="What is this event about? What should attendees expect?"
+                placeholder={t('events.descriptionPlaceholder')}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent resize-none text-sm"
               />
-              <p className="text-xs text-gray-500 mt-1">{description.length} / 500 characters</p>
+              <p className="text-xs text-gray-500 mt-1">{description.length} / 500 {t('common.characters')}</p>
             </div>
 
             {/* Submit Button */}
