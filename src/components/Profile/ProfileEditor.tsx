@@ -6,6 +6,10 @@ import {
   updateProfile,
   type UserProfile,
   canAccessTools,
+  SUGGESTED_INTERESTS,
+  INTEREST_LABELS,
+  COMMUNITY_ACTIVITIES,
+  ACTIVITY_LABELS,
 } from '@/lib/profileStorage'
 import { COMPLAINT_CATEGORIES, INTEREST_LEVELS } from '@/lib/canvassStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -153,6 +157,11 @@ export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>
     hasOrganizingExperience: profile.hasOrganizingExperience,
     interestLevel: profile.interestLevel || [],
     suggestions: profile.suggestions || '',
+    // Personalization fields
+    interests: profile.interests || [],
+    activities: profile.activities || [],
+    connectionPreference: profile.connectionPreference,
+    showInDirectory: profile.showInDirectory ?? false,
   })
 
   const [expandedSections, setExpandedSections] = useState<Set<string>>(
@@ -311,6 +320,24 @@ export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>
       bestDays: prev.bestDays?.includes(day)
         ? prev.bestDays.filter(d => d !== day)
         : [...(prev.bestDays || []), day],
+    }))
+  }
+
+  const togglePersonalInterest = (interest: string) => {
+    setFormData(prev => ({
+      ...prev,
+      interests: prev.interests?.includes(interest)
+        ? prev.interests.filter(i => i !== interest)
+        : [...(prev.interests || []), interest],
+    }))
+  }
+
+  const toggleActivity = (activity: string) => {
+    setFormData(prev => ({
+      ...prev,
+      activities: prev.activities?.includes(activity)
+        ? prev.activities.filter(a => a !== activity)
+        : [...(prev.activities || []), activity],
     }))
   }
 
@@ -895,6 +922,101 @@ export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>
             rows={3}
             className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
           />
+        </Section>
+
+        {/* Personalization & Circles */}
+        <Section id="personalization" title={t('profile.personalization') || 'Interests & Connections'} isExpanded={expandedSections.has('personalization')} onToggle={toggleSection}>
+          {/* Personal Interests */}
+          <div>
+            <span className="text-sm text-gray-600 mb-2 block">{t('profile.interests') || 'What are you interested in?'}</span>
+            <div className="flex flex-wrap gap-2">
+              {SUGGESTED_INTERESTS.map(interest => (
+                <button
+                  key={interest}
+                  type="button"
+                  onClick={() => togglePersonalInterest(interest)}
+                  className={`px-3 py-1 rounded-full text-sm transition-colors ${
+                    formData.interests?.includes(interest)
+                      ? 'bg-rstu-red text-white'
+                      : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                  }`}
+                >
+                  {INTEREST_LABELS[interest] || interest}
+                </button>
+              ))}
+            </div>
+            <p className="text-xs text-gray-400 mt-2">
+              {t('profile.interestsHelp') || 'Select interests to find Circles and connect with neighbors'}
+            </p>
+          </div>
+
+          {/* Community Activities */}
+          <div className="mt-4">
+            <span className="text-sm text-gray-600 mb-2 block">{t('profile.activities') || 'Community activities'}</span>
+            <div className="space-y-2">
+              {COMMUNITY_ACTIVITIES.map(activity => (
+                <label key={activity} className="flex items-center gap-2 text-sm">
+                  <input
+                    type="checkbox"
+                    checked={formData.activities?.includes(activity)}
+                    onChange={() => toggleActivity(activity)}
+                    className="rounded border-gray-300 text-rstu-red focus:ring-rstu-red"
+                  />
+                  {ACTIVITY_LABELS[activity] || activity}
+                </label>
+              ))}
+            </div>
+          </div>
+
+          {/* Connection Preference */}
+          <div className="mt-4">
+            <span className="text-sm text-gray-600 mb-2 block">{t('profile.connectionPreference') || 'Connect with people in'}</span>
+            <div className="flex flex-wrap gap-3">
+              <label className="flex items-center gap-1 text-sm">
+                <input
+                  type="radio"
+                  name="connectionPreference"
+                  checked={formData.connectionPreference === 'building'}
+                  onChange={() => setFormData(prev => ({ ...prev, connectionPreference: 'building' }))}
+                />
+                {t('profile.connectionBuilding') || 'My building'}
+              </label>
+              <label className="flex items-center gap-1 text-sm">
+                <input
+                  type="radio"
+                  name="connectionPreference"
+                  checked={formData.connectionPreference === 'neighborhood'}
+                  onChange={() => setFormData(prev => ({ ...prev, connectionPreference: 'neighborhood' }))}
+                />
+                {t('profile.connectionNeighborhood') || 'My neighborhood'}
+              </label>
+              <label className="flex items-center gap-1 text-sm">
+                <input
+                  type="radio"
+                  name="connectionPreference"
+                  checked={formData.connectionPreference === 'city'}
+                  onChange={() => setFormData(prev => ({ ...prev, connectionPreference: 'city' }))}
+                />
+                {t('profile.connectionCity') || 'Reno-Sparks area'}
+              </label>
+            </div>
+          </div>
+
+          {/* Directory Opt-in */}
+          <div className="mt-4 pt-4 border-t border-gray-100">
+            <label className="flex items-center gap-2 text-sm">
+              <input
+                type="checkbox"
+                checked={formData.showInDirectory}
+                onChange={(e) => setFormData(prev => ({ ...prev, showInDirectory: e.target.checked }))}
+                className="rounded border-gray-300 text-rstu-red focus:ring-rstu-red"
+              />
+              <span>{t('profile.showInDirectory') || 'Show my profile in the community directory'}</span>
+            </label>
+            <p className="text-xs text-gray-400 mt-1 ml-6">
+              {t('profile.showInDirectoryHelp') || 'Let other tenants discover you based on shared interests'}
+            </p>
+          </div>
         </Section>
 
         {/* Lease Details (Organizer-Only) */}

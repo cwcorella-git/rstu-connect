@@ -104,6 +104,13 @@ export interface UserProfile {
   hasOrganizingExperience?: boolean
   suggestions?: string
 
+  // Personalization & Circles
+  interests?: string[]                    // Free-form interest tags (gardening, gaming, books, etc.)
+  activities?: string[]                   // Community activities (mutual_aid, events, advocacy, etc.)
+  connectionPreference?: 'building' | 'neighborhood' | 'city'  // Preferred matching scope
+  circleIds?: string[]                    // IDs of Circles the user has joined
+  showInDirectory?: boolean               // Opt-in to be discoverable by other tenants
+
   // Organizer-specific
   assignedBuildings?: string[] // Building IDs organizer can access
   notes?: string // Internal organizer notes
@@ -163,6 +170,78 @@ export interface ProfileState {
 
 const STORAGE_KEY = 'rstu_profile_data'
 const BOOTSTRAP_KEY = 'rstu_bootstrap_code'
+
+// ============================================
+// Personalization Constants
+// ============================================
+
+// Suggested interests for profile personalization
+export const SUGGESTED_INTERESTS = [
+  'gardening',
+  'cooking',
+  'book_club',
+  'gaming',
+  'fitness',
+  'art',
+  'music',
+  'pets',
+  'crafts',
+  'hiking',
+  'photography',
+  'languages',
+  'movies',
+  'board_games',
+  'yoga',
+  'parenting',
+  'sustainability',
+  'tech',
+  'writing',
+  'volunteering',
+] as const
+
+// Activity preferences for community involvement
+export const COMMUNITY_ACTIVITIES = [
+  'mutual_aid',
+  'events',
+  'advocacy',
+  'skill_sharing',
+  'neighborly',
+  'organizing',
+] as const
+
+// Labels for interests (for UI display)
+export const INTEREST_LABELS: Record<string, string> = {
+  gardening: 'Gardening',
+  cooking: 'Cooking & Food',
+  book_club: 'Book Club',
+  gaming: 'Gaming',
+  fitness: 'Fitness',
+  art: 'Art & Drawing',
+  music: 'Music',
+  pets: 'Pets & Animals',
+  crafts: 'Crafts & DIY',
+  hiking: 'Hiking & Outdoors',
+  photography: 'Photography',
+  languages: 'Language Learning',
+  movies: 'Movies & TV',
+  board_games: 'Board Games',
+  yoga: 'Yoga & Meditation',
+  parenting: 'Parenting',
+  sustainability: 'Sustainability',
+  tech: 'Technology',
+  writing: 'Writing',
+  volunteering: 'Volunteering',
+}
+
+// Labels for activities
+export const ACTIVITY_LABELS: Record<string, string> = {
+  mutual_aid: 'Mutual Aid',
+  events: 'Community Events',
+  advocacy: 'Advocacy & Activism',
+  skill_sharing: 'Skill Sharing',
+  neighborly: 'Being Neighborly',
+  organizing: 'Tenant Organizing',
+}
 
 // ============================================
 // Supabase Database Operations

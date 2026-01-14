@@ -7,8 +7,9 @@ import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
 import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
 import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
 import { SkillsTab } from './SkillsTab'
+import { CirclesTab } from './CirclesTab'
 
-type ViewMode = 'needs' | 'offers' | 'skills' | 'library'
+type ViewMode = 'needs' | 'offers' | 'skills' | 'circles' | 'library'
 type FilterMode = 'all' | 'byBuilding' | 'myBuilding'
 
 interface MutualAidPageProps {
@@ -296,7 +297,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
 
           {/* View Mode Tabs */}
           <div className="flex gap-1 bg-gray-100 rounded-lg p-1 mb-3">
-            {(['needs', 'offers', 'skills', 'library'] as ViewMode[]).map((mode) => (
+            {(['needs', 'offers', 'skills', 'circles', 'library'] as ViewMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setViewMode(mode)}
@@ -306,7 +307,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     : 'text-gray-600 hover:text-gray-900'
                 }`}
               >
-                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : t('mutualAid.library') || 'Library'}
+                {mode === 'needs' ? t('mutualAid.needs') || 'Needs' : mode === 'offers' ? t('mutualAid.offers') || 'Offers' : mode === 'skills' ? t('mutualAid.skills') || 'Skills' : mode === 'circles' ? t('circles.title') || 'Circles' : t('mutualAid.library') || 'Library'}
               </button>
             ))}
           </div>
@@ -330,10 +331,14 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
         </div>
 
         {/* List Content */}
-        {/* Skills tab needs special handling for proper scrolling */}
+        {/* Skills and Circles tabs need special handling for proper scrolling */}
         {viewMode === 'skills' ? (
           <div className="flex-1 overflow-hidden">
             <SkillsTab />
+          </div>
+        ) : viewMode === 'circles' ? (
+          <div className="flex-1 overflow-hidden">
+            <CirclesTab />
           </div>
         ) : (
         <div className="flex-1 overflow-y-auto">

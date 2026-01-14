@@ -1,8 +1,8 @@
 {
-  "commit": "f434f4e2",
-  "message": "Fix translation key prefixes and add missing translations",
+  "commit": "12638182",
+  "message": "Add Resources tab and restore Skills tab in Mutual Aid",
   "author": "cwcorella-git",
-  "date": "2026-01-12 21:48:09 -0800",
+  "date": "2026-01-13 22:48:43 -0800",
   "branch": "main",
-  "buildTime": "2026-01-13T17:34:44.249Z"
+  "buildTime": "2026-01-14T22:10:24.944Z"
 }
