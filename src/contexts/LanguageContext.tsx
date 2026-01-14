@@ -905,6 +905,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.footerText': 'Know a resource that should be listed?',
     'resources.contactUs': 'Contact us',
     'resources.lastUpdated': 'Last updated',
+    'resources.directory': 'Resource Directory',
+    'resources.totalCount': '{count} organizations',
+    'resources.orgsInCategory': '{count} organizations',
+    'resources.noOrgsInCategory': 'No organizations in this category',
+    'resources.visitWebsite': 'Website',
+    'resources.openMaps': 'Maps',
+    'resources.addCategory': 'Add Category',
+    'resources.comingSoon': 'Custom categories coming soon',
 
     // Common UI
     'ui.delete': 'Delete',
@@ -2428,6 +2436,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.footerText': '¿Conoces un recurso que debería estar listado?',
     'resources.contactUs': 'Contáctanos',
     'resources.lastUpdated': 'Última actualización',
+    'resources.directory': 'Directorio de Recursos',
+    'resources.totalCount': '{count} organizaciones',
+    'resources.orgsInCategory': '{count} organizaciones',
+    'resources.noOrgsInCategory': 'No hay organizaciones en esta categoría',
+    'resources.visitWebsite': 'Sitio Web',
+    'resources.openMaps': 'Mapa',
+    'resources.addCategory': 'Agregar Categoría',
+    'resources.comingSoon': 'Categorías personalizadas próximamente',
 
     // Common UI (additional)
     'ui.delete': 'Eliminar',
@@ -4306,6 +4322,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.footerText': 'May alam ka bang mapagkukunan na dapat ilista?',
     'resources.contactUs': 'Makipag-ugnay sa amin',
     'resources.lastUpdated': 'Huling na-update',
+    'resources.directory': 'Direktoryo ng Mapagkukunan',
+    'resources.totalCount': '{count} organisasyon',
+    'resources.orgsInCategory': '{count} organisasyon',
+    'resources.noOrgsInCategory': 'Walang organisasyon sa kategoryang ito',
+    'resources.visitWebsite': 'Website',
+    'resources.openMaps': 'Mapa',
+    'resources.addCategory': 'Magdagdag ng Kategorya',
+    'resources.comingSoon': 'Malapit nang dumating ang custom na kategorya',
 
     // Profile (additional)
     'profile.nickname': 'Palayaw',
@@ -5914,6 +5938,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.footerText': '知道应该列出的资源吗？',
     'resources.contactUs': '联系我们',
     'resources.lastUpdated': '最后更新',
+    'resources.directory': '资源目录',
+    'resources.totalCount': '{count} 个组织',
+    'resources.orgsInCategory': '{count} 个组织',
+    'resources.noOrgsInCategory': '此类别中没有组织',
+    'resources.visitWebsite': '网站',
+    'resources.openMaps': '地图',
+    'resources.addCategory': '添加类别',
+    'resources.comingSoon': '自定义类别即将推出',
 
     // Profile (additional)
     'profile.nickname': '昵称',
@@ -7379,6 +7411,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.footerText': 'Biết tài nguyên nào cần được liệt kê?',
     'resources.contactUs': 'Liên hệ với chúng tôi',
     'resources.lastUpdated': 'Cập nhật lần cuối',
+    'resources.directory': 'Thư mục tài nguyên',
+    'resources.totalCount': '{count} tổ chức',
+    'resources.orgsInCategory': '{count} tổ chức',
+    'resources.noOrgsInCategory': 'Không có tổ chức nào trong danh mục này',
+    'resources.visitWebsite': 'Trang web',
+    'resources.openMaps': 'Bản đồ',
+    'resources.addCategory': 'Thêm danh mục',
+    'resources.comingSoon': 'Danh mục tùy chỉnh sắp có',
 
     // Profile (additional)
     'profile.building': 'Tòa nhà',
