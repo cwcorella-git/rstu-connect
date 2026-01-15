@@ -3,11 +3,13 @@
     {
       "id": "ext-trinity-episcopal",
       "type": "external",
-      "name": "Trinity Episcopal Church",
-      "description": "Free bag lunches, coffee, and dog/cat food. No ID required, everyone welcome.",
+      "name": "Trinity Episcopal Cathedral",
+      "description": "Free bag lunches, coffee, and dog/cat food. No ID required, everyone welcome. Historic cathedral overlooking the Truckee River in downtown Reno.",
       "category": "food",
       "contacts": [
         { "type": "hours", "value": "9:30 AM - 10:30 AM, Monday-Friday" },
+        { "type": "phone", "value": "(775) 329-4279" },
+        { "type": "website", "value": "https://trinityreno.org" },
         { "type": "address", "value": "200 Island Ave, Reno, NV 89501" }
       ],
       "serviceArea": "Reno",
@@ -33,11 +35,11 @@
       "id": "ext-family-soup",
       "type": "external",
       "name": "Family Soup at Believe Plaza",
-      "description": "Free dinner served every Tuesday evening. Community meal for anyone in need.",
+      "description": "Free dinner served every Tuesday evening. Community meal for anyone in need. Run by volunteers and community members.",
       "category": "food",
       "contacts": [
         { "type": "hours", "value": "5:00 PM, Tuesdays" },
-        { "type": "address", "value": "Believe Plaza, Downtown Reno" }
+        { "type": "address", "value": "Believe Plaza, 1 N Sierra St, Reno, NV 89501" }
       ],
       "serviceArea": "Reno",
       "eligibility": "All welcome",
@@ -47,11 +49,12 @@
       "id": "ext-mutual-aid-mondays",
       "type": "external",
       "name": "Mutual Aid Mondays at Our Center",
-      "description": "Weekly food distribution every Monday evening. Community-driven mutual aid.",
+      "description": "Weekly mutual aid gathering every Monday at 5PM. A collaborative space to strengthen community through sharing knowledge, resources, and wisdom. All ages and identities welcome.",
       "category": "food",
       "contacts": [
-        { "type": "hours", "value": "6:00 PM, Mondays" },
-        { "type": "address", "value": "Our Center, Reno" }
+        { "type": "hours", "value": "5:00 PM, Mondays" },
+        { "type": "website", "value": "https://ourcenterreno.org" },
+        { "type": "address", "value": "1745 S Wells Ave, Reno, NV" }
       ],
       "serviceArea": "Reno",
       "eligibility": "All welcome",
@@ -61,26 +64,31 @@
       "id": "ext-food-bank",
       "type": "external",
       "name": "Food Bank of Northern Nevada",
-      "description": "Food distribution, mobile pantries, and emergency food assistance throughout Northern Nevada.",
+      "description": "Food distribution, mobile pantries, and emergency food assistance serving 160,000+ people monthly across 13 Nevada counties and 10 California counties. Note: Food distributions are NOT held at the warehouse - use their Food Finder tool.",
       "category": "food",
       "contacts": [
+        { "type": "hours", "value": "Monday-Friday 8:00 AM - 4:30 PM (office only)" },
         { "type": "phone", "value": "(775) 331-3663" },
-        { "type": "website", "value": "https://fbnn.org" }
+        { "type": "website", "value": "https://fbnn.org" },
+        { "type": "address", "value": "550 Italy Dr, Sparks, NV 89437" }
       ],
-      "serviceArea": "Northern Nevada",
+      "serviceArea": "Northern Nevada & Eastern Sierra",
       "verified": true
     },
     {
       "id": "ext-hampton-house",
       "type": "external",
-      "name": "Hampton House Food Pantry",
-      "description": "Food pantry and community garden providing fresh produce and groceries to families in need.",
+      "name": "Hampton House Garden",
+      "description": "Black-led community garden with 24/7 open-access food pantry and refrigerator. Multi-generational space hosting community garden, food recovery compost, harm reduction supplies, and organizing venue. No requirements to receive food.",
       "category": "food",
       "contacts": [
-        { "type": "address", "value": "Reno, NV" }
+        { "type": "hours", "value": "Food pantry available 24/7" },
+        { "type": "phone", "value": "(775) 596-0510" },
+        { "type": "website", "value": "https://spotlightaction.org/hampton-house" },
+        { "type": "address", "value": "638 Elko Ave, Reno, NV" }
       ],
       "serviceArea": "Reno",
-      "eligibility": "All welcome",
+      "eligibility": "All welcome, no requirements",
       "verified": true
     },
     {
@@ -102,13 +110,14 @@
       "id": "ext-good-neighbors-warming",
       "type": "external",
       "name": "Good Neighbors Warming Centers",
-      "description": "Overnight warming centers rotating between churches. Safe overnight shelter with meals and warmth.",
+      "description": "Overnight warming centers rotating between churches (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Safe overnight shelter with meals and warmth through March 31. Coordinated by Hampton House Garden, RISE, and community partners.",
       "category": "shelter",
       "contacts": [
-        { "type": "hours", "value": "8:30 PM - 6:00 AM, 7 days/week during cold season" }
+        { "type": "hours", "value": "9:00 PM - 6:00 AM, 7 days/week during cold season" },
+        { "type": "website", "value": "https://spotlightaction.org/hampton-house" }
       ],
       "serviceArea": "Reno-Sparks",
-      "eligibility": "Women, women with children, men with children. Single men directed to CARES Campus.",
+      "eligibility": "Women, families, single dads with children. Single men directed to CARES Campus.",
       "verified": true
     },
     {
@@ -129,28 +138,32 @@
     {
       "id": "ext-crossroads",
       "type": "external",
-      "name": "Crossroads",
-      "description": "Transitional housing program helping individuals and families move from homelessness to stable housing.",
+      "name": "Crossroads Housing Program",
+      "description": "Transitional housing program by Catholic Charities and Washoe County HSA for men transitioning out of homelessness. Provides safe living arrangement with wrap-around services including drug/alcohol counseling, employment support, and volunteer opportunities.",
       "category": "shelter",
       "contacts": [
-        { "type": "phone", "value": "(775) 823-0700" }
+        { "type": "phone", "value": "(775) 785-4006", "label": "Main Line" },
+        { "type": "phone", "value": "(775) 322-2143", "label": "Main Campus" },
+        { "type": "website", "value": "https://ccsnn.org/pages/crossroads-housing-program" },
+        { "type": "address", "value": "395 Gould St, Reno, NV 89512" }
       ],
       "serviceArea": "Washoe County",
-      "eligibility": "Individuals in transitional housing program",
+      "eligibility": "Men transitioning out of homelessness",
       "verified": true
     },
     {
       "id": "ext-hope-springs",
       "type": "external",
       "name": "Hope Springs (Northern Nevada HOPES)",
-      "description": "Emergency shelter with integrated medical and mental health services for individuals experiencing homelessness.",
+      "description": "Northern Nevada's first bridge housing community. Different from a shelter - provides privacy, safety, autonomy with shared resources. Through safe housing, behavioral health, and wrap-around services, residents build a path toward independent living. Close to 50 residents have moved into permanent housing.",
       "category": "shelter",
       "contacts": [
         { "type": "phone", "value": "(775) 786-4673", "label": "HOPES Main" },
         { "type": "website", "value": "https://www.nnhopes.org/hopesprings/" },
-        { "type": "address", "value": "E 4th St, Reno, NV" }
+        { "type": "address", "value": "580 W 5th St, Reno, NV 89503" }
       ],
       "serviceArea": "Washoe County",
+      "eligibility": "Adults experiencing homelessness (30-60 annually)",
       "verified": true
     },
     {
@@ -186,11 +199,13 @@
       "id": "ext-our-place-rise",
       "type": "external",
       "name": "Our Place / RISE",
-      "description": "Resource center and drop-in facility providing services, referrals, and support for individuals experiencing homelessness.",
+      "description": "Low-barrier, person-first emergency shelter and resource center in partnership with Washoe County HSA. Provides services, referrals, and support for individuals experiencing homelessness. A place where guests feel welcomed and wanted.",
       "category": "shelter",
       "contacts": [
-        { "type": "website", "value": "https://www.washoecounty.gov/homeless/Cares-Campus/our_place/index.php" },
-        { "type": "address", "value": "S 21st St, Sparks, NV" }
+        { "type": "hours", "value": "Monday-Friday 8:00 AM - 5:00 PM" },
+        { "type": "phone", "value": "(775) 800-4357" },
+        { "type": "website", "value": "https://renoinitiative.org" },
+        { "type": "address", "value": "605 S 21st St, Sparks, NV 89431" }
       ],
       "serviceArea": "Washoe County",
       "verified": true
@@ -204,7 +219,7 @@
       "contacts": [
         { "type": "phone", "value": "(775) 337-4511" },
         { "type": "website", "value": "https://nyep.org" },
-        { "type": "address", "value": "Faland Way, Reno, NV" }
+        { "type": "address", "value": "11780 Faland Way, Reno, NV 89506" }
       ],
       "serviceArea": "Northern Nevada",
       "eligibility": "Youth ages 16-24",
@@ -214,10 +229,12 @@
       "id": "ext-karma-box",
       "type": "external",
       "name": "Karma Box Project",
-      "description": "Transitional living programs at Safe Camp and community support services for individuals rebuilding their lives.",
+      "description": "Nonprofit providing hope and opportunity for people experiencing homelessness. Helps clients obtain permanent housing, increase income, improve health, and regain stability and self-sufficiency through projects, programming, and community engagement.",
       "category": "housing_services",
       "contacts": [
-        { "type": "website", "value": "https://www.karmaboxproject.org/" }
+        { "type": "phone", "value": "(702) 980-0347" },
+        { "type": "website", "value": "https://www.karmaboxproject.org/" },
+        { "type": "address", "value": "100 N Arlington Ave Suite 250, Reno, NV 89501" }
       ],
       "serviceArea": "Reno-Sparks",
       "verified": true
@@ -229,8 +246,9 @@
       "description": "Transitional housing and crisis stabilization services. Part of WellCare Foundation programs providing recovery and housing support.",
       "category": "housing_services",
       "contacts": [
+        { "type": "phone", "value": "(775) 538-6700" },
         { "type": "website", "value": "https://wellcarefoundation.org/programs-reno-ctc-medical-detox-crisis/" },
-        { "type": "address", "value": "Mill St, Reno, NV" }
+        { "type": "address", "value": "850 Mill St, Reno, NV 89502" }
       ],
       "serviceArea": "Reno",
       "verified": true
@@ -243,7 +261,8 @@
       "category": "housing_services",
       "contacts": [
         { "type": "phone", "value": "(775) 322-4700" },
-        { "type": "website", "value": "https://www.thelifechangecenter.org/" }
+        { "type": "website", "value": "https://www.thelifechangecenter.org/" },
+        { "type": "address", "value": "2750 S Virginia St, Reno, NV 89502" }
       ],
       "serviceArea": "Northern Nevada",
       "verified": true
@@ -301,7 +320,7 @@
         { "type": "phone", "value": "(775) 284-3491", "label": "Reno Office" },
         { "type": "phone", "value": "(800) 323-8666", "label": "Statewide" },
         { "type": "website", "value": "https://nevadalegalservices.org" },
-        { "type": "address", "value": "S Virginia St, Reno, NV" }
+        { "type": "address", "value": "204 Marsh Ave, Reno, NV 89509" }
       ],
       "serviceArea": "Statewide",
       "eligibility": "Income-based (below 200% FPL)",
@@ -420,7 +439,7 @@
       "contacts": [
         { "type": "phone", "value": "(775) 788-7600" },
         { "type": "website", "value": "https://www.nevadaurbanindians.org/departments" },
-        { "type": "address", "value": "Gateway Dr, Reno, NV" }
+        { "type": "address", "value": "3175 Gateway Dr, Reno, NV 89431" }
       ],
       "serviceArea": "Northern Nevada",
       "eligibility": "Native American individuals and families",
@@ -448,7 +467,9 @@
       "description": "Comprehensive behavioral health services including crisis stabilization, medical detox, and outpatient treatment.",
       "category": "health_services",
       "contacts": [
-        { "type": "website", "value": "https://www.wc-health.com/" }
+        { "type": "phone", "value": "(775) 538-6700" },
+        { "type": "website", "value": "https://www.wc-health.com/" },
+        { "type": "address", "value": "850 Mill St Suite 100, Reno, NV 89502" }
       ],
       "serviceArea": "Northern Nevada",
       "verified": true
@@ -545,7 +566,8 @@
       "category": "government",
       "contacts": [
         { "type": "phone", "value": "(775) 823-6000" },
-        { "type": "address", "value": "Greenbrae Dr, Sparks, NV" }
+        { "type": "website", "value": "https://dwss.nv.gov" },
+        { "type": "address", "value": "1170 Scheels Dr, Sparks, NV 89434" }
       ],
       "serviceArea": "Sparks",
       "verified": true
@@ -557,9 +579,10 @@
       "description": "Driver's licenses and state ID cards. Homeless individuals can use Declaration of Homeless Status form (DMV-128) in lieu of address proof.",
       "category": "government",
       "contacts": [
+        { "type": "hours", "value": "Monday-Friday 8:00 AM - 5:00 PM" },
         { "type": "phone", "value": "(775) 684-4368" },
         { "type": "website", "value": "https://dmv.nv.gov/nvdl.htm" },
-        { "type": "address", "value": "Double Diamond Pkwy, Reno, NV" }
+        { "type": "address", "value": "9155 Double Diamond Pkwy, Reno, NV 89521" }
       ],
       "serviceArea": "Nevada",
       "eligibility": "Form DMV-128 available for homeless status declaration",
@@ -572,9 +595,10 @@
       "description": "Social Security cards, disability benefits, and retirement benefits. Free replacement Social Security cards available.",
       "category": "government",
       "contacts": [
+        { "type": "hours", "value": "Monday-Friday 9:00 AM - 4:00 PM" },
         { "type": "phone", "value": "(800) 772-1213" },
         { "type": "website", "value": "https://www.ssa.gov/number-card" },
-        { "type": "address", "value": "Harvard Way, Reno, NV" }
+        { "type": "address", "value": "1170 Harvard Way, Reno, NV 89502" }
       ],
       "serviceArea": "Nationwide",
       "verified": true
@@ -607,10 +631,12 @@
       "id": "ext-rise",
       "type": "external",
       "name": "RISE (Reno Initiative for Shelter and Equality)",
-      "description": "Community organization working on homelessness advocacy, mutual aid, and systemic change.",
+      "description": "Community organization working on homelessness advocacy, mutual aid, and systemic change. Operates Our Place resource center in partnership with Washoe County.",
       "category": "mutual_aid",
       "contacts": [
-        { "type": "website", "value": "https://renoinitiative.org" }
+        { "type": "phone", "value": "(775) 800-4357", "label": "Our Place" },
+        { "type": "website", "value": "https://renoinitiative.org" },
+        { "type": "address", "value": "605 S 21st St, Sparks, NV 89431" }
       ],
       "serviceArea": "Reno-Sparks",
       "verified": true
@@ -656,10 +682,12 @@
       "id": "ext-good-shepherd",
       "type": "external",
       "name": "Good Shepherd Lutheran Church",
-      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather.",
+      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. ELCA congregation welcoming all people.",
       "category": "faith",
       "contacts": [
-        { "type": "address", "value": "Reno, NV" }
+        { "type": "phone", "value": "(775) 329-0696" },
+        { "type": "website", "value": "https://goodshepherdreno.com" },
+        { "type": "address", "value": "357 Clay St, Reno, NV 89501" }
       ],
       "serviceArea": "Reno",
       "eligibility": "Good Neighbors warming center participant",
@@ -669,9 +697,11 @@
       "id": "ext-st-thomas-aquinas",
       "type": "external",
       "name": "St. Thomas Aquinas Cathedral",
-      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather.",
+      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. Catholic cathedral in downtown Reno.",
       "category": "faith",
       "contacts": [
+        { "type": "phone", "value": "(775) 329-8547" },
+        { "type": "website", "value": "https://stacathedralreno.org" },
         { "type": "address", "value": "310 W 2nd St, Reno, NV 89501" }
       ],
       "serviceArea": "Reno",
@@ -682,9 +712,11 @@
       "id": "ext-first-united-methodist",
       "type": "external",
       "name": "First United Methodist Church",
-      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather.",
+      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. Historic downtown church with community outreach programs.",
       "category": "faith",
       "contacts": [
+        { "type": "phone", "value": "(775) 322-4297" },
+        { "type": "website", "value": "https://fumcreno.org" },
         { "type": "address", "value": "201 W 1st St, Reno, NV 89501" }
       ],
       "serviceArea": "Reno",
