@@ -44,6 +44,16 @@ export function Navigation() {
           </button>
         )}
         <button
+          onClick={() => setActiveTab('resources')}
+          className={`whitespace-nowrap ${
+            activeTab === 'resources'
+              ? 'text-gray-900 font-medium'
+              : 'text-gray-600 hover:text-gray-900'
+          }`}
+        >
+          {t('nav.resources')}
+        </button>
+        <button
           onClick={() => setActiveTab('reading')}
           className={`whitespace-nowrap ${
             activeTab === 'reading'
@@ -62,16 +72,6 @@ export function Navigation() {
           }`}
         >
           {t('nav.mutualAid')}
-        </button>
-        <button
-          onClick={() => setActiveTab('resources')}
-          className={`whitespace-nowrap ${
-            activeTab === 'resources'
-              ? 'text-gray-900 font-medium'
-              : 'text-gray-600 hover:text-gray-900'
-          }`}
-        >
-          {t('nav.resources')}
         </button>
         {canAccessToolsTab && (
           <button
