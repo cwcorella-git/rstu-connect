@@ -35,6 +35,7 @@ import { ProfileVotingSection } from './ProfileVotingSection'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { RentComparison } from './RentComparison'
+import { CirclesTab } from '@/components/MutualAid/CirclesTab'
 
 interface ProfilePageProps {
   buildings: EnhancedBuilding[]
@@ -48,6 +49,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [loading, setLoading] = useState(true)
   const [showEdit, setShowEdit] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
+  const [showGroups, setShowGroups] = useState(false)
   const [showSettings, setShowSettings] = useState(false)
   const [showWizard, setShowWizard] = useState(false)
 
@@ -331,6 +333,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             selectedBuilding={selectedBuilding}
             unreadMessagesCount={unreadCount}
             onOpenMessages={() => setShowMessages(true)}
+            onOpenGroups={() => setShowGroups(true)}
             onOpenEditor={() => setShowEdit(true)}
             onOpenSettings={() => setShowSettings(true)}
           />
@@ -509,6 +512,50 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               {/* Messages Content */}
               <div className="flex-1 overflow-hidden">
                 <MessageHub embedded={true} />
+              </div>
+            </div>
+          </div>
+        </>
+      )}
+
+      {/* Groups Modal */}
+      {showGroups && (
+        <>
+          {/* Backdrop */}
+          <div
+            className="fixed inset-0 bg-black/50 z-40"
+            onClick={() => setShowGroups(false)}
+          />
+
+          {/* Modal */}
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4">
+            <div className="bg-white rounded-lg shadow-xl w-full h-[95vh] sm:h-auto sm:max-w-4xl sm:h-[80vh] flex flex-col overflow-hidden">
+              {/* Header */}
+              <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
+                <h2 className="text-xl font-semibold text-gray-900">{t('profile.groups') || 'Groups'}</h2>
+                <button
+                  onClick={() => setShowGroups(false)}
+                  className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
+                >
+                  <svg
+                    className="w-5 h-5 text-gray-500"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M6 18L18 6M6 6l12 12"
+                    />
+                  </svg>
+                </button>
+              </div>
+
+              {/* Groups Content */}
+              <div className="flex-1 overflow-hidden">
+                <CirclesTab />
               </div>
             </div>
           </div>
