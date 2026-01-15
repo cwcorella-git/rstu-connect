@@ -16,6 +16,9 @@ import {
   ArrowLeftIcon,
   PlusIcon,
   GlobeAltIcon,
+  PhoneIcon,
+  ClockIcon,
+  UserGroupIcon,
 } from '@heroicons/react/24/outline'
 import {
   getExternalOrganizations,
@@ -134,9 +137,11 @@ function CategoryCard({
 // Organization card for category detail view
 function OrganizationCard({ organization }: { organization: ExternalOrganization }) {
   const { t } = useLanguage()
-  const { name, description, contacts } = organization
+  const { name, description, contacts, eligibility, serviceArea } = organization
 
-  // Find website and address from contacts
+  // Extract contact information
+  const phoneContact = contacts.find(c => c.type === 'phone')
+  const hoursContact = contacts.find(c => c.type === 'hours')
   const websiteContact = contacts.find(c => c.type === 'website')
   const addressContact = contacts.find(c => c.type === 'address')
 
@@ -148,36 +153,100 @@ function OrganizationCard({ organization }: { organization: ExternalOrganization
     ? `https://maps.google.com/?q=${encodeURIComponent(addressContact.value)}`
     : null
 
+  const phoneUrl = phoneContact
+    ? `tel:${phoneContact.value.replace(/[^0-9+]/g, '')}`
+    : null
+
   return (
-    <div className="bg-white rounded-lg border border-gray-200 p-4 hover:shadow-sm transition-shadow">
-      <h3 className="font-bold text-gray-900">{name}</h3>
-      <p className="text-gray-600 text-sm mt-2 line-clamp-3">{description}</p>
+    <div className="bg-white rounded-lg border border-gray-200 p-5 hover:shadow-md transition-shadow">
+      {/* Header */}
+      <h3 className="font-bold text-lg text-gray-900">{name}</h3>
 
-      {addressContact && (
-        <div className="flex items-center gap-2 mt-3 text-sm text-gray-500">
-          <MapPinIcon className="w-4 h-4 flex-shrink-0" />
-          <span className="truncate">{addressContact.value}</span>
-        </div>
-      )}
+      {/* Description - no line clamp, show full text */}
+      <p className="text-gray-600 mt-2">{description}</p>
 
-      <div className="flex gap-3 mt-4">
+      {/* Info Grid */}
+      <div className="mt-4 space-y-2">
+        {/* Hours */}
+        {hoursContact && (
+          <div className="flex items-start gap-2 text-sm">
+            <ClockIcon className="w-4 h-4 flex-shrink-0 text-amber-600 mt-0.5" />
+            <span className="text-gray-700">{hoursContact.value}</span>
+          </div>
+        )}
+
+        {/* Phone */}
+        {phoneContact && (
+          <div className="flex items-start gap-2 text-sm">
+            <PhoneIcon className="w-4 h-4 flex-shrink-0 text-green-600 mt-0.5" />
+            <a href={phoneUrl!} className="text-gray-700 hover:text-green-700 hover:underline">
+              {phoneContact.value}
+            </a>
+          </div>
+        )}
+
+        {/* Address */}
+        {addressContact && (
+          <div className="flex items-start gap-2 text-sm">
+            <MapPinIcon className="w-4 h-4 flex-shrink-0 text-blue-600 mt-0.5" />
+            <span className="text-gray-700">{addressContact.value}</span>
+          </div>
+        )}
+
+        {/* Eligibility / Who it's for */}
+        {eligibility && (
+          <div className="flex items-start gap-2 text-sm">
+            <UserGroupIcon className="w-4 h-4 flex-shrink-0 text-purple-600 mt-0.5" />
+            <span className="text-gray-700">
+              <span className="font-medium">{t('resources.whoItsFor')}:</span> {eligibility}
+            </span>
+          </div>
+        )}
+
+        {/* Service Area */}
+        {serviceArea && (
+          <div className="flex items-start gap-2 text-sm">
+            <GlobeAltIcon className="w-4 h-4 flex-shrink-0 text-teal-600 mt-0.5" />
+            <span className="text-gray-700">
+              <span className="font-medium">{t('resources.serviceArea')}:</span> {serviceArea}
+            </span>
+          </div>
+        )}
+      </div>
+
+      {/* Action Buttons */}
+      <div className="flex flex-wrap gap-3 mt-5">
+        {/* Call button */}
+        {phoneUrl && (
+          <a
+            href={phoneUrl}
+            className="flex items-center justify-center gap-2 px-4 py-2.5 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors text-sm font-medium"
+          >
+            <PhoneIcon className="w-4 h-4" />
+            {t('resources.call')}
+          </a>
+        )}
+
+        {/* Website button */}
         {websiteUrl && (
           <a
             href={websiteUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-medium"
+            className="flex items-center justify-center gap-2 px-4 py-2.5 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-medium"
           >
             <GlobeAltIcon className="w-4 h-4" />
             {t('resources.visitWebsite')}
           </a>
         )}
+
+        {/* Maps button */}
         {mapsUrl && (
           <a
             href={mapsUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 bg-gray-600 text-white rounded-lg hover:bg-gray-700 transition-colors text-sm font-medium"
+            className="flex items-center justify-center gap-2 px-4 py-2.5 bg-gray-600 text-white rounded-lg hover:bg-gray-700 transition-colors text-sm font-medium"
           >
             <MapPinIcon className="w-4 h-4" />
             {t('resources.openMaps')}

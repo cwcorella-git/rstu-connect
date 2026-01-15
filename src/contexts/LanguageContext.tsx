@@ -913,6 +913,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.openMaps': 'Maps',
     'resources.addCategory': 'Add Category',
     'resources.comingSoon': 'Custom categories coming soon',
+    'resources.whoItsFor': 'Who it\'s for',
+    'resources.serviceArea': 'Serves',
+    'resources.call': 'Call',
 
     // Common UI
     'ui.delete': 'Delete',
@@ -2444,6 +2447,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.openMaps': 'Mapa',
     'resources.addCategory': 'Agregar Categoría',
     'resources.comingSoon': 'Categorías personalizadas próximamente',
+    'resources.whoItsFor': 'Para quién es',
+    'resources.serviceArea': 'Sirve a',
+    'resources.call': 'Llamar',
 
     // Common UI (additional)
     'ui.delete': 'Eliminar',
@@ -4330,6 +4336,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.openMaps': 'Mapa',
     'resources.addCategory': 'Magdagdag ng Kategorya',
     'resources.comingSoon': 'Malapit nang dumating ang custom na kategorya',
+    'resources.whoItsFor': 'Para kanino',
+    'resources.serviceArea': 'Sineserbisyuhan',
+    'resources.call': 'Tumawag',
 
     // Profile (additional)
     'profile.nickname': 'Palayaw',
@@ -5946,6 +5955,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.openMaps': '地图',
     'resources.addCategory': '添加类别',
     'resources.comingSoon': '自定义类别即将推出',
+    'resources.whoItsFor': '适用人群',
+    'resources.serviceArea': '服务区域',
+    'resources.call': '拨打电话',
 
     // Profile (additional)
     'profile.nickname': '昵称',
@@ -7419,6 +7431,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.openMaps': 'Bản đồ',
     'resources.addCategory': 'Thêm danh mục',
     'resources.comingSoon': 'Danh mục tùy chỉnh sắp có',
+    'resources.whoItsFor': 'Dành cho ai',
+    'resources.serviceArea': 'Phục vụ',
+    'resources.call': 'Gọi',
 
     // Profile (additional)
     'profile.building': 'Tòa nhà',
