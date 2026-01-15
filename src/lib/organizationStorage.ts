@@ -621,3 +621,98 @@ export function isBanned(orgId: string, profileId: string): boolean {
   const org = getInternalOrganization(orgId)
   return org?.bannedProfiles?.some(b => b.profileId === profileId) ?? false
 }
+
+// === CUSTOM CATEGORIES ===
+
+export interface CustomCategory {
+  id: string
+  name: string
+  icon: string        // Heroicon name e.g., "TruckIcon"
+  color: string       // Tailwind class e.g., "text-rose-500"
+  createdBy: string   // Profile ID
+  createdAt: string   // ISO timestamp
+}
+
+const CUSTOM_CATEGORIES_KEY = 'rstu_custom_categories'
+
+// Built-in category colors (used by ExternalResourceCategory)
+const BUILTIN_CATEGORY_COLORS = [
+  'text-amber-500',   // food
+  'text-blue-500',    // shelter
+  'text-purple-500',  // legal_aid
+  'text-teal-500',    // housing_services
+  'text-red-500',     // emergency_aid
+  'text-slate-500',   // government
+  'text-orange-500',  // advocacy
+  'text-green-500',   // health_services
+  'text-pink-500',    // mutual_aid
+  'text-indigo-500',  // faith
+  'text-cyan-500',    // pet_services
+  'text-gray-500',    // other
+]
+
+// Additional colors for custom categories
+const EXTRA_COLORS = [
+  'text-rose-500',
+  'text-lime-500',
+  'text-emerald-500',
+  'text-sky-500',
+  'text-violet-500',
+  'text-fuchsia-500',
+  'text-yellow-500',
+]
+
+export const ALL_AVAILABLE_COLORS = [...BUILTIN_CATEGORY_COLORS, ...EXTRA_COLORS]
+
+export function getCustomCategories(): CustomCategory[] {
+  return getFromStorage<CustomCategory[]>(CUSTOM_CATEGORIES_KEY, [])
+}
+
+export function getCustomCategory(id: string): CustomCategory | null {
+  const categories = getCustomCategories()
+  return categories.find(c => c.id === id) || null
+}
+
+export function getUsedColors(): string[] {
+  const customCategories = getCustomCategories()
+  const customColors = customCategories.map(c => c.color)
+  return [...BUILTIN_CATEGORY_COLORS, ...customColors]
+}
+
+export function getNextAvailableColor(): string {
+  const usedColors = getUsedColors()
+  const available = ALL_AVAILABLE_COLORS.find(c => !usedColors.includes(c))
+  return available || 'text-gray-500'
+}
+
+export function createCustomCategory(
+  name: string,
+  icon: string,
+  createdBy: string
+): CustomCategory {
+  const color = getNextAvailableColor()
+  const id = `custom-${generateId()}`
+
+  const category: CustomCategory = {
+    id,
+    name: sanitizeText(name),
+    icon,
+    color,
+    createdBy,
+    createdAt: new Date().toISOString(),
+  }
+
+  const categories = getCustomCategories()
+  categories.push(category)
+  saveToStorage(CUSTOM_CATEGORIES_KEY, categories)
+
+  return category
+}
+
+export function deleteCustomCategory(id: string): boolean {
+  const categories = getCustomCategories()
+  const filtered = categories.filter(c => c.id !== id)
+  if (filtered.length === categories.length) return false
+  saveToStorage(CUSTOM_CATEGORIES_KEY, filtered)
+  return true
+}

@@ -22,12 +22,15 @@ import {
 } from '@heroicons/react/24/outline'
 import {
   getExternalOrganizations,
+  getCustomCategories,
   type ExternalOrganization,
   type ExternalResourceCategory,
+  type CustomCategory,
   EXTERNAL_CATEGORY_LABELS,
 } from '@/lib/organizationStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { AddCategoryModal, CUSTOM_ICON_MAP } from './AddCategoryModal'
 
 // Load seed data
 import externalResourcesData from '@/data/external-resources.json'
@@ -129,6 +132,33 @@ function CategoryCard({
       <span className="text-gray-500 text-sm mt-1">{count}</span>
       <div className={`mt-4 ${CATEGORY_COLORS[category]}`}>
         {getCategoryIcon(category)}
+      </div>
+    </button>
+  )
+}
+
+// Custom category card for grid view
+function CustomCategoryCard({
+  customCategory,
+  count,
+  onClick,
+}: {
+  customCategory: CustomCategory
+  count: number
+  onClick: () => void
+}) {
+  const IconComponent = CUSTOM_ICON_MAP[customCategory.icon] || DocumentTextIcon
+  return (
+    <button
+      onClick={onClick}
+      className="bg-white rounded-xl p-6 flex flex-col items-center justify-center
+        border border-gray-200 hover:border-gray-300 hover:shadow-md
+        cursor-pointer transition-all min-h-[160px] text-center"
+    >
+      <h3 className="text-gray-900 font-semibold">{customCategory.name}</h3>
+      <span className="text-gray-500 text-sm mt-1">{count}</span>
+      <div className={`mt-4 ${customCategory.color}`}>
+        <IconComponent className="w-8 h-8" />
       </div>
     </button>
   )
@@ -262,6 +292,9 @@ export function ResourcesPage() {
   const { t } = useLanguage()
   const [organizations, setOrganizations] = useState<ExternalOrganization[]>([])
   const [selectedCategory, setSelectedCategory] = useState<ExternalResourceCategory | null>(null)
+  const [customCategories, setCustomCategories] = useState<CustomCategory[]>([])
+  const [selectedCustomCategory, setSelectedCustomCategory] = useState<CustomCategory | null>(null)
+  const [showAddModal, setShowAddModal] = useState(false)
 
   // Load organizations (from localStorage or seed data)
   useEffect(() => {
@@ -275,6 +308,9 @@ export function ResourcesPage() {
     // Sort by name
     orgs.sort((a, b) => a.name.localeCompare(b.name))
     setOrganizations(orgs)
+
+    // Load custom categories
+    setCustomCategories(getCustomCategories())
   }, [])
 
   // Check if user can add categories (admin or organizer)
@@ -311,14 +347,26 @@ export function ResourcesPage() {
   // Handle back to grid
   const handleBackClick = () => {
     setSelectedCategory(null)
+    setSelectedCustomCategory(null)
   }
 
-  // Handle add category (MVP: show coming soon message)
+  // Handle add category - open modal
   const handleAddCategory = () => {
-    alert(t('resources.comingSoon'))
+    setShowAddModal(true)
   }
 
-  // Category detail view
+  // Handle custom category created
+  const handleCategoryCreated = (category: CustomCategory) => {
+    setCustomCategories(prev => [...prev, category])
+    setShowAddModal(false)
+  }
+
+  // Handle custom category selection
+  const handleCustomCategoryClick = (category: CustomCategory) => {
+    setSelectedCustomCategory(category)
+  }
+
+  // Category detail view (built-in categories)
   if (selectedCategory) {
     return (
       <div className="h-full flex flex-col overflow-hidden bg-gray-50">
@@ -361,6 +409,50 @@ export function ResourcesPage() {
     )
   }
 
+  // Custom category detail view
+  if (selectedCustomCategory) {
+    const CustomIcon = CUSTOM_ICON_MAP[selectedCustomCategory.icon] || DocumentTextIcon
+    return (
+      <div className="h-full flex flex-col overflow-hidden bg-gray-50">
+        {/* Header */}
+        <div className="bg-white border-b border-gray-200 px-4 py-4 flex-shrink-0">
+          <div className="flex items-center gap-4">
+            <button
+              onClick={handleBackClick}
+              className="p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
+            >
+              <ArrowLeftIcon className="w-5 h-5" />
+            </button>
+            <div className="flex items-center gap-3">
+              <div className={selectedCustomCategory.color}>
+                <CustomIcon className="w-6 h-6" />
+              </div>
+              <div>
+                <h1 className="text-lg font-bold text-gray-900">
+                  {selectedCustomCategory.name}
+                </h1>
+                <p className="text-sm text-gray-500">
+                  {t('resources.customCategory')}
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Empty state - custom categories don't have orgs yet */}
+        <div className="flex-1 overflow-y-auto p-4">
+          <div className="text-center py-12 text-gray-500 max-w-md mx-auto">
+            <CustomIcon className={`w-16 h-16 mx-auto mb-4 ${selectedCustomCategory.color}`} />
+            <h2 className="text-lg font-semibold text-gray-900 mb-2">{selectedCustomCategory.name}</h2>
+            <p className="text-gray-600">
+              {t('resources.customCategoryEmpty')}
+            </p>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
   // Grid view (default)
   return (
     <div className="h-full flex flex-col overflow-hidden bg-gray-50">
@@ -390,6 +482,16 @@ export function ResourcesPage() {
             )
           })}
 
+          {/* Custom categories */}
+          {customCategories.map(cat => (
+            <CustomCategoryCard
+              key={cat.id}
+              customCategory={cat}
+              count={0}
+              onClick={() => handleCustomCategoryClick(cat)}
+            />
+          ))}
+
           {/* Add Category button (admin only) */}
           {canAddCategory && (
             <button
@@ -403,6 +505,16 @@ export function ResourcesPage() {
             </button>
           )}
         </div>
+
+        {/* Add Category Modal */}
+        {showAddModal && profile && (
+          <AddCategoryModal
+            isOpen={showAddModal}
+            onClose={() => setShowAddModal(false)}
+            onCreated={handleCategoryCreated}
+            creatorId={profile.id}
+          />
+        )}
 
         {/* Footer */}
         <div className="mt-8 pb-4 text-center">
