@@ -15,15 +15,52 @@ import {
   UserPlusIcon,
   ChatBubbleLeftRightIcon,
   XMarkIcon,
+  ChevronLeftIcon,
+  ChevronRightIcon,
+  HomeIcon,
+  HeartIcon,
+  StarIcon,
+  SparklesIcon,
+  LightBulbIcon,
+  GlobeAltIcon,
+  MapPinIcon,
+  PhoneIcon,
+  EnvelopeIcon,
+  CalendarIcon,
+  ClockIcon,
+  BookOpenIcon,
+  DocumentTextIcon,
+  PuzzlePieceIcon,
+  CameraIcon,
+  FilmIcon,
+  MicrophoneIcon,
+  SpeakerWaveIcon,
+  WifiIcon,
+  BoltIcon,
+  FireIcon,
+  BeakerIcon,
+  ScaleIcon,
+  BuildingOfficeIcon,
+  BuildingStorefrontIcon,
+  ShoppingCartIcon,
+  GiftIcon,
+  TicketIcon,
+  KeyIcon,
+  LockClosedIcon,
+  FlagIcon,
+  HandRaisedIcon,
+  HandThumbUpIcon,
+  FaceSmileIcon,
+  UserGroupIcon,
 } from '@heroicons/react/24/outline'
 import { useLanguage } from '@/contexts/LanguageContext'
 import {
   createCustomCategory,
-  getNextAvailableColor,
+  categoryNameExists,
   type CustomCategory,
 } from '@/lib/organizationStorage'
 
-// Icon options for picker
+// Icon options for picker - expanded list
 const ICON_OPTIONS = [
   { name: 'TruckIcon', component: TruckIcon, label: 'Transportation' },
   { name: 'AcademicCapIcon', component: AcademicCapIcon, label: 'Education' },
@@ -37,30 +74,44 @@ const ICON_OPTIONS = [
   { name: 'ShieldCheckIcon', component: ShieldCheckIcon, label: 'Safety' },
   { name: 'UserPlusIcon', component: UserPlusIcon, label: 'Social' },
   { name: 'ChatBubbleLeftRightIcon', component: ChatBubbleLeftRightIcon, label: 'Communication' },
+  { name: 'HomeIcon', component: HomeIcon, label: 'Housing' },
+  { name: 'HeartIcon', component: HeartIcon, label: 'Health' },
+  { name: 'StarIcon', component: StarIcon, label: 'Featured' },
+  { name: 'SparklesIcon', component: SparklesIcon, label: 'Special' },
+  { name: 'LightBulbIcon', component: LightBulbIcon, label: 'Ideas' },
+  { name: 'GlobeAltIcon', component: GlobeAltIcon, label: 'Global' },
+  { name: 'MapPinIcon', component: MapPinIcon, label: 'Location' },
+  { name: 'PhoneIcon', component: PhoneIcon, label: 'Phone' },
+  { name: 'EnvelopeIcon', component: EnvelopeIcon, label: 'Mail' },
+  { name: 'CalendarIcon', component: CalendarIcon, label: 'Calendar' },
+  { name: 'ClockIcon', component: ClockIcon, label: 'Time' },
+  { name: 'BookOpenIcon', component: BookOpenIcon, label: 'Reading' },
+  { name: 'DocumentTextIcon', component: DocumentTextIcon, label: 'Documents' },
+  { name: 'PuzzlePieceIcon', component: PuzzlePieceIcon, label: 'Games' },
+  { name: 'CameraIcon', component: CameraIcon, label: 'Photography' },
+  { name: 'FilmIcon', component: FilmIcon, label: 'Video' },
+  { name: 'MicrophoneIcon', component: MicrophoneIcon, label: 'Audio' },
+  { name: 'SpeakerWaveIcon', component: SpeakerWaveIcon, label: 'Sound' },
+  { name: 'WifiIcon', component: WifiIcon, label: 'Internet' },
+  { name: 'BoltIcon', component: BoltIcon, label: 'Energy' },
+  { name: 'FireIcon', component: FireIcon, label: 'Urgent' },
+  { name: 'BeakerIcon', component: BeakerIcon, label: 'Science' },
+  { name: 'ScaleIcon', component: ScaleIcon, label: 'Legal' },
+  { name: 'BuildingOfficeIcon', component: BuildingOfficeIcon, label: 'Office' },
+  { name: 'BuildingStorefrontIcon', component: BuildingStorefrontIcon, label: 'Store' },
+  { name: 'ShoppingCartIcon', component: ShoppingCartIcon, label: 'Shopping' },
+  { name: 'GiftIcon', component: GiftIcon, label: 'Gifts' },
+  { name: 'TicketIcon', component: TicketIcon, label: 'Events' },
+  { name: 'KeyIcon', component: KeyIcon, label: 'Access' },
+  { name: 'LockClosedIcon', component: LockClosedIcon, label: 'Security' },
+  { name: 'FlagIcon', component: FlagIcon, label: 'Priority' },
+  { name: 'HandRaisedIcon', component: HandRaisedIcon, label: 'Volunteer' },
+  { name: 'HandThumbUpIcon', component: HandThumbUpIcon, label: 'Approval' },
+  { name: 'FaceSmileIcon', component: FaceSmileIcon, label: 'Community' },
+  { name: 'UserGroupIcon', component: UserGroupIcon, label: 'Groups' },
 ]
 
-// Map color class to display name
-const COLOR_LABELS: Record<string, string> = {
-  'text-rose-500': 'Rose',
-  'text-lime-500': 'Lime',
-  'text-emerald-500': 'Emerald',
-  'text-sky-500': 'Sky',
-  'text-violet-500': 'Violet',
-  'text-fuchsia-500': 'Fuchsia',
-  'text-yellow-500': 'Yellow',
-  'text-amber-500': 'Amber',
-  'text-blue-500': 'Blue',
-  'text-purple-500': 'Purple',
-  'text-teal-500': 'Teal',
-  'text-red-500': 'Red',
-  'text-slate-500': 'Slate',
-  'text-orange-500': 'Orange',
-  'text-green-500': 'Green',
-  'text-pink-500': 'Pink',
-  'text-indigo-500': 'Indigo',
-  'text-cyan-500': 'Cyan',
-  'text-gray-500': 'Gray',
-}
+const ICONS_PER_PAGE = 12  // 2 rows of 6
 
 interface AddCategoryModalProps {
   isOpen: boolean
@@ -80,19 +131,19 @@ export function AddCategoryModal({
 
   const [name, setName] = useState('')
   const [selectedIcon, setSelectedIcon] = useState<string | null>(null)
-  const [autoColor, setAutoColor] = useState('')
   const [error, setError] = useState('')
   const [isSubmitting, setIsSubmitting] = useState(false)
+  const [iconPage, setIconPage] = useState(0)
 
-  // Calculate next available color on mount
+  const totalPages = Math.ceil(ICON_OPTIONS.length / ICONS_PER_PAGE)
+
+  // Reset form when modal opens
   useEffect(() => {
     if (isOpen) {
-      setAutoColor(getNextAvailableColor())
-      // Reset form
       setName('')
       setSelectedIcon(null)
       setError('')
-      // Focus input
+      setIconPage(0)
       setTimeout(() => inputRef.current?.focus(), 100)
     }
   }, [isOpen])
@@ -112,7 +163,12 @@ export function AddCategoryModal({
     }
   }, [isOpen, onClose])
 
-  const canSubmit = name.trim().length >= 2 && selectedIcon !== null && !isSubmitting
+  // Check for duplicate name on change
+  const nameError = name.trim().length >= 2 && categoryNameExists(name)
+    ? t('resources.categoryExists')
+    : ''
+
+  const canSubmit = name.trim().length >= 2 && selectedIcon !== null && !nameError && !isSubmitting
 
   const handleSubmit = () => {
     if (!canSubmit) return
@@ -130,7 +186,18 @@ export function AddCategoryModal({
   }
 
   const selectedIconData = ICON_OPTIONS.find(i => i.name === selectedIcon)
-  const colorLabel = COLOR_LABELS[autoColor] || 'Custom'
+
+  // Get current page of icons
+  const startIdx = iconPage * ICONS_PER_PAGE
+  const visibleIcons = ICON_OPTIONS.slice(startIdx, startIdx + ICONS_PER_PAGE)
+
+  const goToPrevPage = () => {
+    setIconPage(p => Math.max(0, p - 1))
+  }
+
+  const goToNextPage = () => {
+    setIconPage(p => Math.min(totalPages - 1, p + 1))
+  }
 
   if (!isOpen) return null
 
@@ -177,57 +244,103 @@ export function AddCategoryModal({
               value={name}
               onChange={(e) => setName(e.target.value.slice(0, 40))}
               placeholder={t('resources.categoryNamePlaceholder')}
-              className="w-full px-3 py-2 border border-gray-300 rounded-lg
+              className={`w-full px-3 py-2 border rounded-lg
                 focus:ring-2 focus:ring-rstu-red focus:border-rstu-red
-                text-gray-900 placeholder-gray-400"
+                text-gray-900 placeholder-gray-400 ${
+                  nameError ? 'border-red-300 bg-red-50' : 'border-gray-300'
+                }`}
             />
-            <p className="mt-1 text-xs text-gray-500">
-              {name.length}/40 {t('resources.characters')}
-            </p>
+            <div className="flex justify-between mt-1">
+              {nameError ? (
+                <p className="text-xs text-red-600">{nameError}</p>
+              ) : (
+                <span />
+              )}
+              <p className="text-xs text-gray-500">
+                {name.length}/40 {t('resources.characters')}
+              </p>
+            </div>
           </div>
 
-          {/* Icon Picker */}
+          {/* Icon Picker with Pagination */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-2">
               {t('resources.chooseIcon')}
             </label>
-            <div className="grid grid-cols-6 gap-2">
-              {ICON_OPTIONS.map((icon) => {
-                const IconComponent = icon.component
-                const isSelected = selectedIcon === icon.name
-                return (
-                  <button
-                    key={icon.name}
-                    type="button"
-                    onClick={() => setSelectedIcon(icon.name)}
-                    title={icon.label}
-                    className={`p-3 rounded-lg border-2 transition-all ${
-                      isSelected
-                        ? 'border-rstu-red bg-red-50'
-                        : 'border-gray-200 hover:border-gray-300 hover:bg-gray-50'
-                    }`}
-                  >
-                    <IconComponent className={`w-6 h-6 ${isSelected ? 'text-rstu-red' : 'text-gray-500'}`} />
-                  </button>
-                )
-              })}
+
+            {/* Icon Grid with Navigation */}
+            <div className="flex items-center gap-2">
+              {/* Left Arrow */}
+              <button
+                type="button"
+                onClick={goToPrevPage}
+                disabled={iconPage === 0}
+                className={`p-2 rounded-lg transition-colors flex-shrink-0 ${
+                  iconPage === 0
+                    ? 'text-gray-300 cursor-not-allowed'
+                    : 'text-gray-500 hover:bg-gray-100 hover:text-gray-700'
+                }`}
+              >
+                <ChevronLeftIcon className="w-5 h-5" />
+              </button>
+
+              {/* Icons Grid */}
+              <div className="flex-1 grid grid-cols-6 gap-2">
+                {visibleIcons.map((icon) => {
+                  const IconComponent = icon.component
+                  const isSelected = selectedIcon === icon.name
+                  return (
+                    <button
+                      key={icon.name}
+                      type="button"
+                      onClick={() => setSelectedIcon(icon.name)}
+                      title={icon.label}
+                      className={`aspect-square flex items-center justify-center rounded-lg border-2 transition-all ${
+                        isSelected
+                          ? 'border-rstu-red bg-red-50'
+                          : 'border-gray-200 hover:border-gray-300 hover:bg-gray-50'
+                      }`}
+                    >
+                      <IconComponent className={`w-6 h-6 ${isSelected ? 'text-rstu-red' : 'text-gray-500'}`} />
+                    </button>
+                  )
+                })}
+              </div>
+
+              {/* Right Arrow */}
+              <button
+                type="button"
+                onClick={goToNextPage}
+                disabled={iconPage >= totalPages - 1}
+                className={`p-2 rounded-lg transition-colors flex-shrink-0 ${
+                  iconPage >= totalPages - 1
+                    ? 'text-gray-300 cursor-not-allowed'
+                    : 'text-gray-500 hover:bg-gray-100 hover:text-gray-700'
+                }`}
+              >
+                <ChevronRightIcon className="w-5 h-5" />
+              </button>
             </div>
+
+            {/* Page indicator */}
+            <div className="flex justify-center items-center mt-2 gap-1">
+              {Array.from({ length: totalPages }, (_, i) => (
+                <button
+                  key={i}
+                  onClick={() => setIconPage(i)}
+                  className={`w-2 h-2 rounded-full transition-colors ${
+                    i === iconPage ? 'bg-rstu-red' : 'bg-gray-300 hover:bg-gray-400'
+                  }`}
+                />
+              ))}
+            </div>
+
+            {/* Selected indicator */}
             {selectedIconData && (
-              <p className="mt-2 text-sm text-gray-600">
+              <p className="mt-2 text-sm text-gray-600 text-center">
                 {t('resources.selectedIcon')}: <span className="font-medium">{selectedIconData.label}</span>
               </p>
             )}
-          </div>
-
-          {/* Auto Color */}
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1.5">
-              {t('resources.autoColor')}
-            </label>
-            <div className="flex items-center gap-3 px-3 py-2 bg-gray-50 rounded-lg border border-gray-200">
-              <span className={`w-5 h-5 rounded-full ${autoColor.replace('text-', 'bg-')}`} />
-              <span className="text-gray-700">{colorLabel}</span>
-            </div>
           </div>
         </div>
 
@@ -272,4 +385,39 @@ export const CUSTOM_ICON_MAP: Record<string, React.ComponentType<{ className?: s
   ShieldCheckIcon,
   UserPlusIcon,
   ChatBubbleLeftRightIcon,
+  HomeIcon,
+  HeartIcon,
+  StarIcon,
+  SparklesIcon,
+  LightBulbIcon,
+  GlobeAltIcon,
+  MapPinIcon,
+  PhoneIcon,
+  EnvelopeIcon,
+  CalendarIcon,
+  ClockIcon,
+  BookOpenIcon,
+  DocumentTextIcon,
+  PuzzlePieceIcon,
+  CameraIcon,
+  FilmIcon,
+  MicrophoneIcon,
+  SpeakerWaveIcon,
+  WifiIcon,
+  BoltIcon,
+  FireIcon,
+  BeakerIcon,
+  ScaleIcon,
+  BuildingOfficeIcon,
+  BuildingStorefrontIcon,
+  ShoppingCartIcon,
+  GiftIcon,
+  TicketIcon,
+  KeyIcon,
+  LockClosedIcon,
+  FlagIcon,
+  HandRaisedIcon,
+  HandThumbUpIcon,
+  FaceSmileIcon,
+  UserGroupIcon,
 }

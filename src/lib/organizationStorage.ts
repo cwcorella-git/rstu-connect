@@ -85,10 +85,13 @@ interface OrganizationBase {
   updatedAt: number
 }
 
+// Category can be a built-in type or a custom category ID (e.g., 'custom-abc123')
+export type OrganizationCategory = ExternalResourceCategory | string
+
 // External organizations (admin-curated directory)
 export interface ExternalOrganization extends OrganizationBase {
   type: 'external'
-  category: ExternalResourceCategory
+  category: OrganizationCategory
   contacts: OrganizationContact[]
   serviceArea?: string // "Washoe County", "Statewide", "Reno-Sparks"
   eligibility?: string // "Income-based", "Any tenant", "Veterans only"
@@ -188,15 +191,20 @@ export function getExternalOrganization(id: string): ExternalOrganization | null
 }
 
 export function getExternalOrganizationsByCategory(
-  category: ExternalResourceCategory
+  category: OrganizationCategory
 ): ExternalOrganization[] {
   return getExternalOrganizations().filter(o => o.category === category)
+}
+
+// Helper to check if a category is a custom category
+export function isCustomCategory(category: string): boolean {
+  return category.startsWith('custom-')
 }
 
 export function createExternalOrganization(
   name: string,
   description: string,
-  category: ExternalResourceCategory,
+  category: OrganizationCategory,
   contacts: OrganizationContact[],
   addedBy: string,
   options?: {
@@ -671,6 +679,18 @@ export function getCustomCategories(): CustomCategory[] {
 export function getCustomCategory(id: string): CustomCategory | null {
   const categories = getCustomCategories()
   return categories.find(c => c.id === id) || null
+}
+
+export function categoryNameExists(name: string): boolean {
+  const trimmedName = name.trim().toLowerCase()
+
+  // Check built-in external categories
+  const builtInNames = Object.values(EXTERNAL_CATEGORY_LABELS).map(n => n.toLowerCase())
+  if (builtInNames.includes(trimmedName)) return true
+
+  // Check custom categories
+  const customCategories = getCustomCategories()
+  return customCategories.some(c => c.name.toLowerCase() === trimmedName)
 }
 
 export function getUsedColors(): string[] {

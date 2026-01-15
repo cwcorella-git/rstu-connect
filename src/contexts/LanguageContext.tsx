@@ -944,6 +944,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.createCategory': 'Create Category',
     'resources.characters': 'characters',
     'resources.errorCreatingCategory': 'Failed to create category. Please try again.',
+    'resources.categoryExists': 'A category with this name already exists',
     'resources.customCategory': 'Custom Category',
     'resources.customCategoryEmpty': 'This custom category is ready. Organizations can be added by administrators.',
 
@@ -2508,6 +2509,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.createCategory': 'Crear Categoría',
     'resources.characters': 'caracteres',
     'resources.errorCreatingCategory': 'Error al crear categoría. Inténtalo de nuevo.',
+    'resources.categoryExists': 'Ya existe una categoría con este nombre',
     'resources.customCategory': 'Categoría Personalizada',
     'resources.customCategoryEmpty': 'Esta categoría personalizada está lista. Los administradores pueden agregar organizaciones.',
 
@@ -4427,6 +4429,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.createCategory': 'Gumawa ng Kategorya',
     'resources.characters': 'mga karakter',
     'resources.errorCreatingCategory': 'Hindi nagawa ang kategorya. Subukan ulit.',
+    'resources.categoryExists': 'May kategoryang may ganitong pangalan na',
     'resources.customCategory': 'Custom na Kategorya',
     'resources.customCategoryEmpty': 'Ang custom na kategoryang ito ay handa na. Maaaring magdagdag ng mga organisasyon ang mga administrator.',
 
@@ -6076,6 +6079,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.createCategory': '创建类别',
     'resources.characters': '个字符',
     'resources.errorCreatingCategory': '创建类别失败，请重试。',
+    'resources.categoryExists': '已存在同名类别',
     'resources.customCategory': '自定义类别',
     'resources.customCategoryEmpty': '此自定义类别已准备就绪。管理员可以添加组织。',
 
@@ -7582,6 +7586,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.createCategory': 'Tạo Danh Mục',
     'resources.characters': 'ký tự',
     'resources.errorCreatingCategory': 'Không thể tạo danh mục. Vui lòng thử lại.',
+    'resources.categoryExists': 'Đã có danh mục với tên này',
     'resources.customCategory': 'Danh Mục Tùy Chỉnh',
     'resources.customCategoryEmpty': 'Danh mục tùy chỉnh này đã sẵn sàng. Quản trị viên có thể thêm các tổ chức.',
 
