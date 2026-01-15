@@ -56,7 +56,24 @@ const translations: Record<Locale, Record<string, string>> = {
     // Footer
     'footer.mainSite': 'RSTU Main Site',
     'footer.contact': 'Contact',
+    'footer.becomeOrganizer': 'Become an Organizer',
+    'footer.suggestFeature': 'Suggest a Feature',
+    'footer.reportBug': 'Report a Bug',
     'footer.copyright': '© 2025 Reno-Sparks Tenants Union',
+
+    // Feedback
+    'feedback.featureTitle': 'Suggest a Feature',
+    'feedback.bugTitle': 'Report a Bug',
+    'feedback.titleLabel': 'Title',
+    'feedback.titlePlaceholder': 'Brief summary...',
+    'feedback.descriptionLabel': 'Description',
+    'feedback.featurePlaceholder': 'Describe the feature you\'d like to see...',
+    'feedback.bugPlaceholder': 'Describe the issue and steps to reproduce...',
+    'feedback.emailLabel': 'Email (optional)',
+    'feedback.emailPlaceholder': 'For follow-up questions',
+    'feedback.submit': 'Submit',
+    'feedback.cancel': 'Cancel',
+    'feedback.thankYou': 'Thank you for your feedback!',
 
     // Header
     'header.title': 'RSTU',
@@ -82,6 +99,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': 'Close',
     'profile.overview': 'Overview',
     'profile.messages': 'Messages',
+    'profile.groups': 'Groups',
 
     // Buildings
     'buildings.search': 'Search properties...',
@@ -916,6 +934,17 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.whoItsFor': 'Who it\'s for',
     'resources.serviceArea': 'Serves',
     'resources.call': 'Call',
+    'resources.addCategoryTitle': 'Add New Category',
+    'resources.categoryName': 'Category Name',
+    'resources.categoryNamePlaceholder': 'e.g., Transportation',
+    'resources.chooseIcon': 'Choose an Icon',
+    'resources.selectedIcon': 'Selected',
+    'resources.autoColor': 'Color (auto-assigned)',
+    'resources.createCategory': 'Create Category',
+    'resources.characters': 'characters',
+    'resources.errorCreatingCategory': 'Failed to create category. Please try again.',
+    'resources.customCategory': 'Custom Category',
+    'resources.customCategoryEmpty': 'This custom category is ready. Organizations can be added by administrators.',
 
     // Common UI
     'ui.delete': 'Delete',
@@ -1628,7 +1657,24 @@ const translations: Record<Locale, Record<string, string>> = {
     // Footer
     'footer.mainSite': 'Sitio Principal RSTU',
     'footer.contact': 'Contacto',
+    'footer.becomeOrganizer': 'Conviértete en Organizador',
+    'footer.suggestFeature': 'Sugerir una Función',
+    'footer.reportBug': 'Reportar un Error',
     'footer.copyright': '© 2025 Unión de Inquilinos de Reno-Sparks',
+
+    // Feedback
+    'feedback.featureTitle': 'Sugerir una Función',
+    'feedback.bugTitle': 'Reportar un Error',
+    'feedback.titleLabel': 'Título',
+    'feedback.titlePlaceholder': 'Breve resumen...',
+    'feedback.descriptionLabel': 'Descripción',
+    'feedback.featurePlaceholder': 'Describe la función que te gustaría ver...',
+    'feedback.bugPlaceholder': 'Describe el problema y los pasos para reproducirlo...',
+    'feedback.emailLabel': 'Correo (opcional)',
+    'feedback.emailPlaceholder': 'Para preguntas de seguimiento',
+    'feedback.submit': 'Enviar',
+    'feedback.cancel': 'Cancelar',
+    'feedback.thankYou': '¡Gracias por tus comentarios!',
 
     // Header
     'header.title': 'RSTU',
@@ -1654,6 +1700,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': 'Cerrar',
     'profile.overview': 'Descripción General',
     'profile.messages': 'Mensajes',
+    'profile.groups': 'Grupos',
 
     // Buildings
     'buildings.search': 'Buscar propiedades...',
@@ -2450,6 +2497,17 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.whoItsFor': 'Para quién es',
     'resources.serviceArea': 'Sirve a',
     'resources.call': 'Llamar',
+    'resources.addCategoryTitle': 'Agregar Nueva Categoría',
+    'resources.categoryName': 'Nombre de Categoría',
+    'resources.categoryNamePlaceholder': 'ej., Transporte',
+    'resources.chooseIcon': 'Elegir un Icono',
+    'resources.selectedIcon': 'Seleccionado',
+    'resources.autoColor': 'Color (auto-asignado)',
+    'resources.createCategory': 'Crear Categoría',
+    'resources.characters': 'caracteres',
+    'resources.errorCreatingCategory': 'Error al crear categoría. Inténtalo de nuevo.',
+    'resources.customCategory': 'Categoría Personalizada',
+    'resources.customCategoryEmpty': 'Esta categoría personalizada está lista. Los administradores pueden agregar organizaciones.',
 
     // Common UI (additional)
     'ui.delete': 'Eliminar',
@@ -3189,7 +3247,24 @@ const translations: Record<Locale, Record<string, string>> = {
     // Footer
     'footer.mainSite': 'Pangunahing Site ng RSTU',
     'footer.contact': 'Makipag-ugnayan',
+    'footer.becomeOrganizer': 'Maging Organisador',
+    'footer.suggestFeature': 'Magmungkahi ng Feature',
+    'footer.reportBug': 'Mag-ulat ng Bug',
     'footer.copyright': '© 2025 Unyon ng mga Nangungupahan sa Reno-Sparks',
+
+    // Feedback
+    'feedback.featureTitle': 'Magmungkahi ng Feature',
+    'feedback.bugTitle': 'Mag-ulat ng Bug',
+    'feedback.titleLabel': 'Pamagat',
+    'feedback.titlePlaceholder': 'Maikling buod...',
+    'feedback.descriptionLabel': 'Paglalarawan',
+    'feedback.featurePlaceholder': 'Ilarawan ang feature na gusto mong makita...',
+    'feedback.bugPlaceholder': 'Ilarawan ang problema at mga hakbang para ma-reproduce...',
+    'feedback.emailLabel': 'Email (opsyonal)',
+    'feedback.emailPlaceholder': 'Para sa mga follow-up na tanong',
+    'feedback.submit': 'Isumite',
+    'feedback.cancel': 'Kanselahin',
+    'feedback.thankYou': 'Salamat sa iyong feedback!',
 
     // Header
     'header.title': 'RSTU',
@@ -3215,6 +3290,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': 'Isara',
     'profile.overview': 'Pangkalahatang Pagtingin',
     'profile.messages': 'Mga Mensahe',
+    'profile.groups': 'Mga Grupo',
 
     // Buildings
     'buildings.search': 'Maghanap ng property...',
@@ -4808,7 +4884,24 @@ const translations: Record<Locale, Record<string, string>> = {
     // Footer
     'footer.mainSite': 'RSTU 主站',
     'footer.contact': '联系我们',
+    'footer.becomeOrganizer': '成为组织者',
+    'footer.suggestFeature': '建议功能',
+    'footer.reportBug': '报告问题',
     'footer.copyright': '© 2025 雷诺-斯帕克斯租户工会',
+
+    // Feedback
+    'feedback.featureTitle': '建议功能',
+    'feedback.bugTitle': '报告问题',
+    'feedback.titleLabel': '标题',
+    'feedback.titlePlaceholder': '简要概述...',
+    'feedback.descriptionLabel': '描述',
+    'feedback.featurePlaceholder': '描述您想要的功能...',
+    'feedback.bugPlaceholder': '描述问题和重现步骤...',
+    'feedback.emailLabel': '邮箱（可选）',
+    'feedback.emailPlaceholder': '用于后续联系',
+    'feedback.submit': '提交',
+    'feedback.cancel': '取消',
+    'feedback.thankYou': '感谢您的反馈！',
 
     // Header
     'header.title': 'RSTU',
@@ -4834,6 +4927,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': '关闭',
     'profile.overview': '概览',
     'profile.messages': '消息',
+    'profile.groups': '群组',
 
     // Buildings
     'buildings.search': '搜索物业...',
@@ -6426,7 +6520,24 @@ const translations: Record<Locale, Record<string, string>> = {
     // Footer
     'footer.mainSite': 'Trang Chính RSTU',
     'footer.contact': 'Liên hệ',
+    'footer.becomeOrganizer': 'Trở thành Người tổ chức',
+    'footer.suggestFeature': 'Đề xuất Tính năng',
+    'footer.reportBug': 'Báo cáo Lỗi',
     'footer.copyright': '© 2025 Công đoàn Người thuê nhà Reno-Sparks',
+
+    // Feedback
+    'feedback.featureTitle': 'Đề xuất Tính năng',
+    'feedback.bugTitle': 'Báo cáo Lỗi',
+    'feedback.titleLabel': 'Tiêu đề',
+    'feedback.titlePlaceholder': 'Tóm tắt ngắn...',
+    'feedback.descriptionLabel': 'Mô tả',
+    'feedback.featurePlaceholder': 'Mô tả tính năng bạn muốn...',
+    'feedback.bugPlaceholder': 'Mô tả vấn đề và các bước tái hiện...',
+    'feedback.emailLabel': 'Email (tùy chọn)',
+    'feedback.emailPlaceholder': 'Để liên hệ sau',
+    'feedback.submit': 'Gửi',
+    'feedback.cancel': 'Hủy',
+    'feedback.thankYou': 'Cảm ơn phản hồi của bạn!',
 
     // Header
     'header.title': 'RSTU',
@@ -6452,6 +6563,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': 'Đóng',
     'profile.overview': 'Tổng Quan',
     'profile.messages': 'Tin Nhắn',
+    'profile.groups': 'Nhóm',
 
     // Buildings
     'buildings.search': 'Tìm kiếm bất động sản...',

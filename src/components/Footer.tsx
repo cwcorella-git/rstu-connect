@@ -1,9 +1,13 @@
 'use client'
 
+import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { FeedbackModal } from '@/components/Feedback/FeedbackModal'
 
 export function Footer() {
   const { t } = useLanguage()
+  const [featureModalOpen, setFeatureModalOpen] = useState(false)
+  const [bugModalOpen, setBugModalOpen] = useState(false)
 
   return (
     <footer className="border-t border-gray-200 bg-white">
@@ -22,12 +26,38 @@ export function Footer() {
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-gray-900"
           >
-            {t('footer.contact')}
+            {t('footer.becomeOrganizer')}
           </a>
+          {' · '}
+          <button
+            onClick={() => setFeatureModalOpen(true)}
+            className="text-gray-500 hover:text-gray-700"
+          >
+            {t('footer.suggestFeature')}
+          </button>
+          {' · '}
+          <button
+            onClick={() => setBugModalOpen(true)}
+            className="text-gray-500 hover:text-gray-700"
+          >
+            {t('footer.reportBug')}
+          </button>
           {' · '}
           <span>{t('footer.copyright')}</span>
         </p>
       </div>
+
+      {/* Feedback Modals */}
+      <FeedbackModal
+        isOpen={featureModalOpen}
+        onClose={() => setFeatureModalOpen(false)}
+        type="feature"
+      />
+      <FeedbackModal
+        isOpen={bugModalOpen}
+        onClose={() => setBugModalOpen(false)}
+        type="bug"
+      />
     </footer>
   )
 }
