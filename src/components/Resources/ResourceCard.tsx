@@ -3,9 +3,10 @@
 import {
   type ExternalOrganization,
   type OrganizationContact,
-  EXTERNAL_CATEGORY_LABELS,
-  type ExternalResourceCategory
+  type ExternalResourceCategory,
+  isCustomCategory,
 } from '@/lib/organizationStorage'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 interface ResourceCardProps {
   organization: ExternalOrganization
@@ -65,7 +66,7 @@ function getContactIcon(type: OrganizationContact['type']) {
   }
 }
 
-function ContactButton({ contact }: { contact: OrganizationContact }) {
+function ContactButton({ contact, t }: { contact: OrganizationContact; t: (key: string) => string }) {
   const { type, value, label } = contact
 
   const getHref = () => {
@@ -80,6 +81,21 @@ function ContactButton({ contact }: { contact: OrganizationContact }) {
         return `https://maps.google.com/?q=${encodeURIComponent(value)}`
       default:
         return undefined
+    }
+  }
+
+  const getDefaultLabel = () => {
+    switch (type) {
+      case 'phone':
+        return t('resources.contactCall')
+      case 'website':
+        return t('resources.contactWebsite')
+      case 'address':
+        return t('resources.contactMap')
+      case 'email':
+        return t('resources.contactEmail')
+      default:
+        return value
     }
   }
 
@@ -102,12 +118,13 @@ function ContactButton({ contact }: { contact: OrganizationContact }) {
       className="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-700 transition-colors"
     >
       {getContactIcon(type)}
-      <span>{label || (type === 'phone' ? 'Call' : type === 'website' ? 'Website' : type === 'address' ? 'Map' : type === 'email' ? 'Email' : value)}</span>
+      <span>{label || getDefaultLabel()}</span>
     </a>
   )
 }
 
 export function ResourceCard({ organization }: ResourceCardProps) {
+  const { t } = useLanguage()
   const {
     name,
     description,
@@ -118,6 +135,11 @@ export function ResourceCard({ organization }: ResourceCardProps) {
     languages,
     verified,
   } = organization
+
+  // Get category label (translated for built-in, name for custom)
+  const categoryLabel = isCustomCategory(category)
+    ? category // Custom categories show their name from the org data
+    : t(`resources.cat.${category}`)
 
   // Separate hours from other contacts
   const hoursContact = contacts.find(c => c.type === 'hours')
@@ -137,7 +159,7 @@ export function ResourceCard({ organization }: ResourceCardProps) {
             )}
           </div>
           <span className={`inline-block px-2 py-0.5 text-xs font-medium rounded-full ${CATEGORY_COLORS[category as ExternalResourceCategory] || 'bg-gray-100 text-gray-800'}`}>
-            {EXTERNAL_CATEGORY_LABELS[category as ExternalResourceCategory] || category}
+            {categoryLabel}
           </span>
         </div>
       </div>
@@ -148,14 +170,14 @@ export function ResourceCard({ organization }: ResourceCardProps) {
       {/* Hours (if available) */}
       {hoursContact && (
         <div className="mb-3 py-2 px-3 bg-amber-50 rounded-lg border border-amber-100">
-          <ContactButton contact={hoursContact} />
+          <ContactButton contact={hoursContact} t={t} />
         </div>
       )}
 
       {/* Eligibility */}
       {eligibility && (
         <div className="mb-3 text-sm">
-          <span className="text-gray-500">Who:</span>{' '}
+          <span className="text-gray-500">{t('resources.whoLabel')}</span>{' '}
           <span className="text-gray-700 font-medium">{eligibility}</span>
         </div>
       )}
@@ -184,7 +206,7 @@ export function ResourceCard({ organization }: ResourceCardProps) {
       {actionContacts.length > 0 && (
         <div className="flex flex-wrap gap-2 pt-2 border-t border-gray-100">
           {actionContacts.map((contact, idx) => (
-            <ContactButton key={`${contact.type}-${idx}`} contact={contact} />
+            <ContactButton key={`${contact.type}-${idx}`} contact={contact} t={t} />
           ))}
         </div>
       )}

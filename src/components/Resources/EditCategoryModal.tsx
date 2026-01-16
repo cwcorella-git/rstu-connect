@@ -61,54 +61,55 @@ import {
 } from '@/lib/organizationStorage'
 
 // Icon options for picker - same as AddCategoryModal
+// labelKey is the suffix for resources.icon.{labelKey}
 const ICON_OPTIONS = [
-  { name: 'TruckIcon', component: TruckIcon, label: 'Transportation' },
-  { name: 'AcademicCapIcon', component: AcademicCapIcon, label: 'Education' },
-  { name: 'BriefcaseIcon', component: BriefcaseIcon, label: 'Employment' },
-  { name: 'ShoppingBagIcon', component: ShoppingBagIcon, label: 'Clothing' },
-  { name: 'WrenchScrewdriverIcon', component: WrenchScrewdriverIcon, label: 'Repairs' },
-  { name: 'ComputerDesktopIcon', component: ComputerDesktopIcon, label: 'Technology' },
-  { name: 'MusicalNoteIcon', component: MusicalNoteIcon, label: 'Arts' },
-  { name: 'SunIcon', component: SunIcon, label: 'Recreation' },
-  { name: 'BanknotesIcon', component: BanknotesIcon, label: 'Financial' },
-  { name: 'ShieldCheckIcon', component: ShieldCheckIcon, label: 'Safety' },
-  { name: 'UserPlusIcon', component: UserPlusIcon, label: 'Social' },
-  { name: 'ChatBubbleLeftRightIcon', component: ChatBubbleLeftRightIcon, label: 'Communication' },
-  { name: 'HomeIcon', component: HomeIcon, label: 'Housing' },
-  { name: 'HeartIcon', component: HeartIcon, label: 'Health' },
-  { name: 'StarIcon', component: StarIcon, label: 'Featured' },
-  { name: 'SparklesIcon', component: SparklesIcon, label: 'Special' },
-  { name: 'LightBulbIcon', component: LightBulbIcon, label: 'Ideas' },
-  { name: 'GlobeAltIcon', component: GlobeAltIcon, label: 'Global' },
-  { name: 'MapPinIcon', component: MapPinIcon, label: 'Location' },
-  { name: 'PhoneIcon', component: PhoneIcon, label: 'Phone' },
-  { name: 'EnvelopeIcon', component: EnvelopeIcon, label: 'Mail' },
-  { name: 'CalendarIcon', component: CalendarIcon, label: 'Calendar' },
-  { name: 'ClockIcon', component: ClockIcon, label: 'Time' },
-  { name: 'BookOpenIcon', component: BookOpenIcon, label: 'Reading' },
-  { name: 'DocumentTextIcon', component: DocumentTextIcon, label: 'Documents' },
-  { name: 'PuzzlePieceIcon', component: PuzzlePieceIcon, label: 'Games' },
-  { name: 'CameraIcon', component: CameraIcon, label: 'Photography' },
-  { name: 'FilmIcon', component: FilmIcon, label: 'Video' },
-  { name: 'MicrophoneIcon', component: MicrophoneIcon, label: 'Audio' },
-  { name: 'SpeakerWaveIcon', component: SpeakerWaveIcon, label: 'Sound' },
-  { name: 'WifiIcon', component: WifiIcon, label: 'Internet' },
-  { name: 'BoltIcon', component: BoltIcon, label: 'Energy' },
-  { name: 'FireIcon', component: FireIcon, label: 'Urgent' },
-  { name: 'BeakerIcon', component: BeakerIcon, label: 'Science' },
-  { name: 'ScaleIcon', component: ScaleIcon, label: 'Legal' },
-  { name: 'BuildingOfficeIcon', component: BuildingOfficeIcon, label: 'Office' },
-  { name: 'BuildingStorefrontIcon', component: BuildingStorefrontIcon, label: 'Store' },
-  { name: 'ShoppingCartIcon', component: ShoppingCartIcon, label: 'Shopping' },
-  { name: 'GiftIcon', component: GiftIcon, label: 'Gifts' },
-  { name: 'TicketIcon', component: TicketIcon, label: 'Events' },
-  { name: 'KeyIcon', component: KeyIcon, label: 'Access' },
-  { name: 'LockClosedIcon', component: LockClosedIcon, label: 'Security' },
-  { name: 'FlagIcon', component: FlagIcon, label: 'Priority' },
-  { name: 'HandRaisedIcon', component: HandRaisedIcon, label: 'Volunteer' },
-  { name: 'HandThumbUpIcon', component: HandThumbUpIcon, label: 'Approval' },
-  { name: 'FaceSmileIcon', component: FaceSmileIcon, label: 'Community' },
-  { name: 'UserGroupIcon', component: UserGroupIcon, label: 'Groups' },
+  { name: 'TruckIcon', component: TruckIcon, labelKey: 'transportation' },
+  { name: 'AcademicCapIcon', component: AcademicCapIcon, labelKey: 'education' },
+  { name: 'BriefcaseIcon', component: BriefcaseIcon, labelKey: 'employment' },
+  { name: 'ShoppingBagIcon', component: ShoppingBagIcon, labelKey: 'clothing' },
+  { name: 'WrenchScrewdriverIcon', component: WrenchScrewdriverIcon, labelKey: 'repairs' },
+  { name: 'ComputerDesktopIcon', component: ComputerDesktopIcon, labelKey: 'technology' },
+  { name: 'MusicalNoteIcon', component: MusicalNoteIcon, labelKey: 'arts' },
+  { name: 'SunIcon', component: SunIcon, labelKey: 'recreation' },
+  { name: 'BanknotesIcon', component: BanknotesIcon, labelKey: 'financial' },
+  { name: 'ShieldCheckIcon', component: ShieldCheckIcon, labelKey: 'safety' },
+  { name: 'UserPlusIcon', component: UserPlusIcon, labelKey: 'social' },
+  { name: 'ChatBubbleLeftRightIcon', component: ChatBubbleLeftRightIcon, labelKey: 'communication' },
+  { name: 'HomeIcon', component: HomeIcon, labelKey: 'housing' },
+  { name: 'HeartIcon', component: HeartIcon, labelKey: 'health' },
+  { name: 'StarIcon', component: StarIcon, labelKey: 'featured' },
+  { name: 'SparklesIcon', component: SparklesIcon, labelKey: 'special' },
+  { name: 'LightBulbIcon', component: LightBulbIcon, labelKey: 'ideas' },
+  { name: 'GlobeAltIcon', component: GlobeAltIcon, labelKey: 'global' },
+  { name: 'MapPinIcon', component: MapPinIcon, labelKey: 'location' },
+  { name: 'PhoneIcon', component: PhoneIcon, labelKey: 'phone' },
+  { name: 'EnvelopeIcon', component: EnvelopeIcon, labelKey: 'mail' },
+  { name: 'CalendarIcon', component: CalendarIcon, labelKey: 'calendar' },
+  { name: 'ClockIcon', component: ClockIcon, labelKey: 'time' },
+  { name: 'BookOpenIcon', component: BookOpenIcon, labelKey: 'reading' },
+  { name: 'DocumentTextIcon', component: DocumentTextIcon, labelKey: 'documents' },
+  { name: 'PuzzlePieceIcon', component: PuzzlePieceIcon, labelKey: 'games' },
+  { name: 'CameraIcon', component: CameraIcon, labelKey: 'photography' },
+  { name: 'FilmIcon', component: FilmIcon, labelKey: 'video' },
+  { name: 'MicrophoneIcon', component: MicrophoneIcon, labelKey: 'audio' },
+  { name: 'SpeakerWaveIcon', component: SpeakerWaveIcon, labelKey: 'sound' },
+  { name: 'WifiIcon', component: WifiIcon, labelKey: 'internet' },
+  { name: 'BoltIcon', component: BoltIcon, labelKey: 'energy' },
+  { name: 'FireIcon', component: FireIcon, labelKey: 'urgent' },
+  { name: 'BeakerIcon', component: BeakerIcon, labelKey: 'science' },
+  { name: 'ScaleIcon', component: ScaleIcon, labelKey: 'legal' },
+  { name: 'BuildingOfficeIcon', component: BuildingOfficeIcon, labelKey: 'office' },
+  { name: 'BuildingStorefrontIcon', component: BuildingStorefrontIcon, labelKey: 'store' },
+  { name: 'ShoppingCartIcon', component: ShoppingCartIcon, labelKey: 'shopping' },
+  { name: 'GiftIcon', component: GiftIcon, labelKey: 'gifts' },
+  { name: 'TicketIcon', component: TicketIcon, labelKey: 'events' },
+  { name: 'KeyIcon', component: KeyIcon, labelKey: 'access' },
+  { name: 'LockClosedIcon', component: LockClosedIcon, labelKey: 'security' },
+  { name: 'FlagIcon', component: FlagIcon, labelKey: 'priority' },
+  { name: 'HandRaisedIcon', component: HandRaisedIcon, labelKey: 'volunteer' },
+  { name: 'HandThumbUpIcon', component: HandThumbUpIcon, labelKey: 'approval' },
+  { name: 'FaceSmileIcon', component: FaceSmileIcon, labelKey: 'community' },
+  { name: 'UserGroupIcon', component: UserGroupIcon, labelKey: 'groups' },
 ]
 
 const ICONS_PER_PAGE = 12
@@ -311,7 +312,7 @@ export function EditCategoryModal({
                       key={icon.name}
                       type="button"
                       onClick={() => setSelectedIcon(icon.name)}
-                      title={icon.label}
+                      title={t(`resources.icon.${icon.labelKey}`)}
                       className={`aspect-square flex items-center justify-center rounded-lg border-2 transition-all ${
                         isSelected
                           ? 'border-rstu-red bg-red-50'
@@ -355,7 +356,7 @@ export function EditCategoryModal({
             {/* Selected indicator */}
             {selectedIconData && (
               <p className="mt-2 text-sm text-gray-600 text-center">
-                {t('resources.selectedIcon')}: <span className="font-medium">{selectedIconData.label}</span>
+                {t('resources.selectedIcon')}: <span className="font-medium">{t(`resources.icon.${selectedIconData.labelKey}`)}</span>
               </p>
             )}
           </div>

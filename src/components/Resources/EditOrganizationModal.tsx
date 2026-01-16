@@ -224,10 +224,10 @@ export function EditOrganizationModal({
             >
               {/* Built-in categories */}
               <optgroup label={t('resources.builtInCategories')}>
-                {(Object.entries(EXTERNAL_CATEGORY_LABELS) as [ExternalResourceCategory, string][]).map(
-                  ([key, label]) => (
+                {(Object.keys(EXTERNAL_CATEGORY_LABELS) as ExternalResourceCategory[]).map(
+                  (key) => (
                     <option key={key} value={key}>
-                      {label}
+                      {t(`resources.cat.${key}`)}
                     </option>
                   )
                 )}

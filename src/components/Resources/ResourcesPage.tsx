@@ -29,7 +29,6 @@ import {
   type ExternalOrganization,
   type ExternalResourceCategory,
   type CustomCategory,
-  EXTERNAL_CATEGORY_LABELS,
 } from '@/lib/organizationStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -482,7 +481,7 @@ export function ResourcesPage() {
             </button>
             <div>
               <h1 className="text-lg font-bold text-gray-900">
-                {EXTERNAL_CATEGORY_LABELS[selectedCategory]}
+                {t(`resources.cat.${selectedCategory}`)}
               </h1>
               <p className="text-sm text-gray-500">
                 {t('resources.orgsInCategory', { count: categoryOrgs.length })}
@@ -683,7 +682,7 @@ export function ResourcesPage() {
               <CategoryCard
                 key={category}
                 category={category}
-                label={EXTERNAL_CATEGORY_LABELS[category]}
+                label={t(`resources.cat.${category}`)}
                 count={count}
                 onClick={() => handleCategoryClick(category)}
               />

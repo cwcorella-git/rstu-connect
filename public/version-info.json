@@ -1,8 +1,8 @@
 {
-  "commit": "602c4005",
-  "message": "Enable edit/delete for organizations in built-in categories",
+  "commit": "4e24453e",
+  "message": "Add 28 community organizations across 8 new service categories",
   "author": "cwcorella-git",
-  "date": "2026-01-16 02:41:20 -0800",
+  "date": "2026-01-16 03:01:19 -0800",
   "branch": "main",
-  "buildTime": "2026-01-16T10:50:00.860Z"
+  "buildTime": "2026-01-16T11:05:25.198Z"
 }
