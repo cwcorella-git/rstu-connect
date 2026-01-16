@@ -138,17 +138,34 @@
     {
       "id": "ext-crossroads",
       "type": "external",
-      "name": "Crossroads Housing Program",
-      "description": "Transitional housing program by Catholic Charities and Washoe County HSA for men transitioning out of homelessness. Provides safe living arrangement with wrap-around services including drug/alcohol counseling, employment support, and volunteer opportunities.",
+      "name": "CrossRoads Program (Washoe County HSA)",
+      "description": "Peer-led, alcohol and drug-free structured housing program with integrated wrap-around supportive services. Offers intensive case management, life skills development, workforce readiness programming, healthcare connections, and continuing care support for alumni.",
       "category": "shelter",
       "contacts": [
-        { "type": "phone", "value": "(775) 785-4006", "label": "Main Line" },
-        { "type": "phone", "value": "(775) 322-2143", "label": "Main Campus" },
-        { "type": "website", "value": "https://ccsnn.org/pages/crossroads-housing-program" },
-        { "type": "address", "value": "395 Gould St, Reno, NV 89512" }
+        { "type": "hours", "value": "Monday-Friday 8:00 AM - 5:00 PM" },
+        { "type": "phone", "value": "(775) 328-2700" },
+        { "type": "email", "value": "crossroads@washoecounty.gov" },
+        { "type": "website", "value": "https://www.washoecounty.gov/hsa/adult_services/programs_and_services/crossroads/index.php" },
+        { "type": "address", "value": "350 S. Center Street, Reno, NV 89501" }
       ],
       "serviceArea": "Washoe County",
-      "eligibility": "Men transitioning out of homelessness",
+      "eligibility": "Men, women, women with children, and families seeking structured, supportive, alcohol and drug-free living",
+      "verified": true
+    },
+    {
+      "id": "ext-battle-born-housing",
+      "type": "external",
+      "name": "Battle Born Housing Plus (Catholic Charities)",
+      "description": "Recovery residence program providing housing and supportive services for low-income men recovering from substance use disorder. 58 residential units including studio apartments and congregate living. Services include case management, substance abuse counseling, behavioral health support, employment opportunities, and peer support. First in Nevada to earn NARR certification.",
+      "category": "shelter",
+      "contacts": [
+        { "type": "phone", "value": "(775) 870-4050" },
+        { "type": "email", "value": "battleborn@ccsnn.org" },
+        { "type": "website", "value": "https://ccsnn.org/pages/battle-born-housing-program" },
+        { "type": "address", "value": "395 Gould Street, Reno, NV 89502" }
+      ],
+      "serviceArea": "Washoe County",
+      "eligibility": "Low-income men recovering from substance use disorder",
       "verified": true
     },
     {
