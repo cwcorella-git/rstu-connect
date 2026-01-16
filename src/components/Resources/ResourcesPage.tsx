@@ -75,10 +75,10 @@ function getCategoryIcon(category: ExternalResourceCategory) {
   const iconClass = 'w-8 h-8'
   switch (category) {
     case 'food':
-      // Custom fork/knife icon for food
+      // Fork and knife icon for food
       return (
         <svg className={iconClass} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 3v18m-6-6c0 3 2.5 4 6 4s6-1 6-4c0-2-2-3-6-3s-6 1-6 3zm0-6V3m0 8c0-2 2.5-3 6-3s6 1 6 3m-12 0v4" />
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 3v6c0 1.1.9 2 2 2h.5M6 3c-1 0-2 1-2 2.5S5 8 6 9m0-6c1 0 2 1 2 2.5S7 8 6 9m0 0v12m12-18v4c0 .6-.4 1-1 1h-1.5c-.6 0-1-.4-1-1V3m3.5 6c0 1.7-1.3 3-3 3v9" />
         </svg>
       )
     case 'shelter':
