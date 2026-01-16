@@ -73,12 +73,12 @@ export function OrganizingStatusBar({ buildingId, buildingAddress, totalUnits }:
               <div className="flex items-center gap-1.5 text-xs">
                 {progress.activeMembers > 0 && (
                   <span className="px-1.5 py-0.5 rounded bg-green-100 text-green-700 font-medium">
-                    {progress.activeMembers} {t('organizing.active') || 'Active'}
+                    {progress.activeMembers} {t('organizing.activeMembers') || 'Active'}
                   </span>
                 )}
                 {progress.interested > 0 && (
                   <span className="px-1.5 py-0.5 rounded bg-blue-100 text-blue-700 font-medium">
-                    {progress.interested} {t('organizing.interestedShort') || 'Int.'}
+                    {progress.interested} {t('organizing.interested') || 'Interested'}
                   </span>
                 )}
                 {!hasStats && progress.contacted > 0 && (

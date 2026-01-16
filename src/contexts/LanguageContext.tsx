@@ -1420,6 +1420,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'organizing.noProgressYet': 'No organizing progress yet',
     'organizing.beFirstToOrganize': 'Be the first to start organizing in this building! Share invite codes with your neighbors.',
     'organizing.reached': 'reached',
+    'organizing.notInterested': 'Not interested',
 
     // Campaign
     'campaign.noCampaign': 'No Active Campaign',
@@ -3160,6 +3161,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'organizing.noProgressYet': 'Aún no hay progreso de organización',
     'organizing.beFirstToOrganize': '¡Sé el primero en organizar en este edificio! Comparte códigos de invitación con tus vecinos.',
     'organizing.reached': 'contactados',
+    'organizing.notInterested': 'No interesado',
 
     // Campaign
     'campaign.noCampaign': 'Sin Campaña Activa',

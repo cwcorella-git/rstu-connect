@@ -21,7 +21,7 @@ import { EvictionCaseDetail } from '@/components/MutualAid/EvictionCaseDetail'
 import { getActiveCases } from '@/lib/escalationStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/governanceStorage'
-import { BuildingUsersSection } from './BuildingUsersSection'
+import { OrganizingStatusBar } from './OrganizingStatusBar'
 import type { PropertyTab } from './PropertyTabBar'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import type { EvictionCase } from '@/lib/evictionDefenseStorage'
@@ -207,8 +207,8 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
         }}
       />
 
-      {/* Building Users Section */}
-      <BuildingUsersSection
+      {/* Organizing Status Bar */}
+      <OrganizingStatusBar
         buildingId={building.apn}
         buildingAddress={buildingAddress}
         totalUnits={building.units}

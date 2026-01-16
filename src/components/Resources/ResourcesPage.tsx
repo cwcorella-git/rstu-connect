@@ -25,8 +25,9 @@ import {
   TruckIcon,
   ArrowPathIcon,
   ShoppingBagIcon,
-  FaceSmileIcon,
-  LifebuoyIcon,
+  GiftIcon,
+  ShieldCheckIcon,
+  StarIcon,
 } from '@heroicons/react/24/outline'
 import {
   getExternalOrganizations,
@@ -103,11 +104,11 @@ function getCategoryIcon(category: ExternalResourceCategory) {
     case 'employment_training':
       return <BriefcaseIcon className={iconClass} />
     case 'childcare':
-      return <FaceSmileIcon className={iconClass} />
+      return <GiftIcon className={iconClass} />
     case 'transportation':
       return <TruckIcon className={iconClass} />
     case 'disability_services':
-      return <LifebuoyIcon className={iconClass} />
+      return <ShieldCheckIcon className={iconClass} />
     case 'lgbtq_services':
       // Rainbow/pride heart icon
       return (
@@ -119,12 +120,7 @@ function getCategoryIcon(category: ExternalResourceCategory) {
     case 'reentry_services':
       return <ArrowPathIcon className={iconClass} />
     case 'pet_services':
-      // Custom paw icon
-      return (
-        <svg className={iconClass} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 18c-3.5 0-6-2.5-6-5.5 0-2 1.5-3.5 3-3.5 1 0 1.8.5 2.3 1.2.3.5.7.8.7.8s.4-.3.7-.8c.5-.7 1.3-1.2 2.3-1.2 1.5 0 3 1.5 3 3.5 0 3-2.5 5.5-6 5.5zM7.5 7c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM16.5 7c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM10 10c.8 0 1.5-.7 1.5-1.5S10.8 7 10 7s-1.5.7-1.5 1.5S9.2 10 10 10zM14 10c.8 0 1.5-.7 1.5-1.5S14.8 7 14 7s-1.5.7-1.5 1.5.7 1.5 1.5 1.5z" />
-        </svg>
-      )
+      return <StarIcon className={iconClass} />
     case 'other':
     default:
       return <DocumentTextIcon className={iconClass} />
