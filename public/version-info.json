@@ -1,8 +1,8 @@
 {
-  "commit": "7850b646",
-  "message": "Fix SVG icons for Food, Childcare, and Disability Services",
+  "commit": "88a51209",
+  "message": "Remove 94 off-topic documents from reading library",
   "author": "cwcorella-git",
-  "date": "2026-01-16 05:34:16 -0800",
+  "date": "2026-01-16 05:40:55 -0800",
   "branch": "main",
-  "buildTime": "2026-01-16T13:40:32.252Z"
+  "buildTime": "2026-01-16T13:52:33.116Z"
 }

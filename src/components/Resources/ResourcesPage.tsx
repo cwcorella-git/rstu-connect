@@ -23,8 +23,10 @@ import {
   TrashIcon,
   BriefcaseIcon,
   TruckIcon,
-  AcademicCapIcon,
   ArrowPathIcon,
+  ShoppingBagIcon,
+  FaceSmileIcon,
+  LifebuoyIcon,
 } from '@heroicons/react/24/outline'
 import {
   getExternalOrganizations,
@@ -75,14 +77,7 @@ function getCategoryIcon(category: ExternalResourceCategory) {
   const iconClass = 'w-8 h-8'
   switch (category) {
     case 'food':
-      // Fork and spoon icon (Lucide utensils style)
-      return (
-        <svg className={iconClass} fill="none" stroke="currentColor" strokeWidth={1.5} strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
-          <path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2" />
-          <path d="M7 2v20" />
-          <path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3zm0 0v7" />
-        </svg>
-      )
+      return <ShoppingBagIcon className={iconClass} />
     case 'shelter':
       return <HomeIcon className={iconClass} />
     case 'emergency_aid':
@@ -108,19 +103,11 @@ function getCategoryIcon(category: ExternalResourceCategory) {
     case 'employment_training':
       return <BriefcaseIcon className={iconClass} />
     case 'childcare':
-      return <AcademicCapIcon className={iconClass} />
+      return <FaceSmileIcon className={iconClass} />
     case 'transportation':
       return <TruckIcon className={iconClass} />
     case 'disability_services':
-      // Accessibility wheelchair icon (standard symbol)
-      return (
-        <svg className={iconClass} fill="none" stroke="currentColor" strokeWidth={1.5} strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
-          <circle cx="16" cy="4" r="1.5" />
-          <path d="M18 19a4 4 0 1 1-7.5-2" />
-          <path d="M12 12V8.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5V12h2l1.5 5H21" />
-          <path d="M7.5 12H12" />
-        </svg>
-      )
+      return <LifebuoyIcon className={iconClass} />
     case 'lgbtq_services':
       // Rainbow/pride heart icon
       return (
