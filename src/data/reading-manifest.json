@@ -28134,6 +28134,45 @@
       "polished": false
     },
     {
+      "id": "housing-progress-and-poverty-henry-george",
+      "title": "Progress and Poverty",
+      "author": "Henry George",
+      "date": "1879",
+      "filename": "Progress-and-Poverty-Henry-George.md",
+      "category": "Housing",
+      "excerpt": "Progress and Poverty\n\nAn Inquiry into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy\n\nBy Henry George (1879)\n\n---\n\n\r\n  This Memorial Edition of",
+      "wordCount": 177118,
+      "lastModified": "2026-01-16T13:11:02.276Z",
+      "tags": [
+        "land",
+        "economics",
+        "rent",
+        "poverty",
+        "political-economy"
+      ],
+      "slug": "housing-progress-and-poverty-henry-george",
+      "polished": false
+    },
+    {
+      "id": "housing-protection-or-free-trade-henry-george",
+      "title": "Protection or Free Trade",
+      "author": "Henry George",
+      "date": "1886",
+      "filename": "Protection-or-Free-Trade-Henry-George.md",
+      "category": "Housing",
+      "excerpt": "Protection or Free Trade\n\nAn Examination of the Tariff Question, with Especial Regard to the Interests of Labor\n\nBy Henry George (1886)\n\n---\n\n\n50  EAST  69TH  STREET  NEW  YORK \n\n1944 \n\n\nTHE",
+      "wordCount": 107646,
+      "lastModified": "2026-01-16T13:13:07.870Z",
+      "tags": [
+        "economics",
+        "trade",
+        "labor",
+        "political-economy"
+      ],
+      "slug": "housing-protection-or-free-trade-henry-george",
+      "polished": false
+    },
+    {
       "id": "housing-anonymous-reflections-on-rent-strike-vancouver",
       "title": "Reflections on Rent Strike Vancouver",
       "author": "Anonymous",
@@ -28322,6 +28361,26 @@
         "tenants"
       ],
       "slug": "housing-sample-letters-to-landlords",
+      "polished": false
+    },
+    {
+      "id": "housing-social-problems-henry-george",
+      "title": "Social Problems",
+      "author": "Henry George",
+      "date": "1883",
+      "filename": "Social-Problems-Henry-George.md",
+      "category": "Housing",
+      "excerpt": "Social Problems\n\nBy Henry George (1883)\n\n---\n\nThe  first  eleven  chapters  of  this  book  are  revised  from \narticles  published  in  Frank  Leslie's  Illustrated  Newspaper, \nduring  the  firs",
+      "wordCount": 93469,
+      "lastModified": "2026-01-16T13:11:51.022Z",
+      "tags": [
+        "land",
+        "economics",
+        "social-reform",
+        "poverty",
+        "political-economy"
+      ],
+      "slug": "housing-social-problems-henry-george",
       "polished": false
     },
     {
@@ -48021,5 +48080,5 @@
     "Theory",
     "Youth Student Organizing"
   ],
-  "totalDocuments": 2887
+  "totalDocuments": 2890
 }
