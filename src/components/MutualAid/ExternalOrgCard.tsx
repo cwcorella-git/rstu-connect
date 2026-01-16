@@ -1,7 +1,7 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
-import { type ExternalOrganization, EXTERNAL_CATEGORY_LABELS } from '@/lib/organizationStorage'
+import { type ExternalOrganization, type ExternalResourceCategory, EXTERNAL_CATEGORY_LABELS } from '@/lib/organizationStorage'
 
 interface ExternalOrgCardProps {
   organization: ExternalOrganization
@@ -40,7 +40,7 @@ export function ExternalOrgCard({ organization }: ExternalOrgCardProps) {
               </span>
             )}
           </div>
-          <span className="text-xs text-gray-500">{EXTERNAL_CATEGORY_LABELS[category]}</span>
+          <span className="text-xs text-gray-500">{EXTERNAL_CATEGORY_LABELS[category as ExternalResourceCategory] || category}</span>
         </div>
       </div>
 

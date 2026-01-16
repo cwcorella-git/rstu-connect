@@ -4,7 +4,8 @@ import { useState, useEffect } from 'react'
 import { useSocketChat } from '@/hooks/useSocketChat'
 import { MessageList } from '@/components/SocketChat/MessageList'
 import { MessageInput } from '@/components/SocketChat/MessageInput'
-import { IssueSuggestion } from '@/components/Chat/IssueSuggestion'
+import { EscalationForm } from '@/components/Escalation/EscalationForm'
+import { EscalationModal } from '@/components/Escalation/EscalationModal'
 import { IssuesPanel } from '@/components/Chat/IssuesPanel'
 import { VoteSuggestion } from '@/components/Chat/VoteSuggestion'
 import { CrossGroupBanner } from '@/components/Chat/CrossGroupBanner'
@@ -17,7 +18,7 @@ import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
 import { EvictionCaseForm } from '@/components/MutualAid/EvictionCaseForm'
 import { EvictionCaseDetail } from '@/components/MutualAid/EvictionCaseDetail'
-import { getBuildingComplaints, getBuildingDemands } from '@/lib/buildingOrganizingStorage'
+import { getActiveCases } from '@/lib/escalationStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/governanceStorage'
 import { BuildingUsersSection } from './BuildingUsersSection'
@@ -41,8 +42,9 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
 
   // Modal states
   const [showIssueModal, setShowIssueModal] = useState(false)
+  const [showEscalationModal, setShowEscalationModal] = useState(false)
   const [showIssuesPanel, setShowIssuesPanel] = useState(false)
-  const [issuesPanelInitialTab, setIssuesPanelInitialTab] = useState<'issues' | 'governance' | 'campaign'>('issues')
+  const [issuesPanelInitialTab, setIssuesPanelInitialTab] = useState<'issues' | 'governance' | 'campaign'>('campaign')
   const [showVoteModal, setShowVoteModal] = useState(false)
   const [showBlocFormation, setShowBlocFormation] = useState(false)
   const [showBlocJoin, setShowBlocJoin] = useState(false)
@@ -84,26 +86,19 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
     }
   }, [building.apn])
 
-  // Load issues count
+  // Load issues count from escalation storage
   useEffect(() => {
     const updateCount = () => {
-      const complaints = getBuildingComplaints(building.chatSlug)
-      const demands = getBuildingDemands(building.chatSlug)
-      const activeCount = complaints.filter(c => c.status === 'voting').length + demands.length
-      setIssuesCount(activeCount)
+      // Use chatSlug as buildingId for escalation cases
+      const activeCases = getActiveCases(chatSlug)
+      setIssuesCount(activeCases.length)
     }
     updateCount()
-    // Re-check when panel closes (user may have voted)
-    if (!showIssuesPanel) {
+    // Re-check when modal closes (user may have updated cases)
+    if (!showEscalationModal && !showIssueModal) {
       updateCount()
     }
-  }, [building.chatSlug, showIssuesPanel])
-
-  // Handle issue suggestion - uses current username or 'Tenant'
-  const handleIssueSuggestion = (message: string) => {
-    const name = username || 'Tenant'
-    sendMessage(message, name)
-  }
+  }, [chatSlug, showEscalationModal, showIssueModal])
 
   // Handle governance vote submission
   const handleVoteSuggestion = (message: string) => {
@@ -204,8 +199,7 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
         activeVotesCount={activeVotesCount}
         onSelectProposal={handleProposalSelect}
         onViewIssues={() => {
-          setIssuesPanelInitialTab('issues')
-          setShowIssuesPanel(true)
+          setShowEscalationModal(true)
         }}
         onViewCampaign={() => {
           setIssuesPanelInitialTab('campaign')
@@ -220,16 +214,35 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
         totalUnits={building.units}
       />
 
-      {/* Issue Suggestion Modal */}
+      {/* Escalation Form - Report New Issue */}
       {showIssueModal && (
-        <IssueSuggestion
+        <EscalationForm
+          buildingId={chatSlug}
           buildingAddress={buildingAddress}
-          onSubmit={handleIssueSuggestion}
-          onClose={() => setShowIssueModal(false)}
+          onSuccess={() => {
+            setShowIssueModal(false)
+            // Refresh issue count
+            setIssuesCount(getActiveCases(chatSlug).length)
+          }}
+          onCancel={() => setShowIssueModal(false)}
         />
       )}
 
-      {/* Issues Panel */}
+      {/* Escalation Modal - View All Issues */}
+      {showEscalationModal && (
+        <EscalationModal
+          isOpen={showEscalationModal}
+          onClose={() => {
+            setShowEscalationModal(false)
+            // Refresh issue count when closing
+            setIssuesCount(getActiveCases(chatSlug).length)
+          }}
+          chatSlug={chatSlug}
+          buildingAddress={buildingAddress}
+        />
+      )}
+
+      {/* Issues Panel - For Governance and Campaign tabs */}
       {showIssuesPanel && (
         <IssuesPanel
           building={building}

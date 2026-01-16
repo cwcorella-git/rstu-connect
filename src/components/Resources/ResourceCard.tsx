@@ -136,8 +136,8 @@ export function ResourceCard({ organization }: ResourceCardProps) {
               </svg>
             )}
           </div>
-          <span className={`inline-block px-2 py-0.5 text-xs font-medium rounded-full ${CATEGORY_COLORS[category]}`}>
-            {EXTERNAL_CATEGORY_LABELS[category]}
+          <span className={`inline-block px-2 py-0.5 text-xs font-medium rounded-full ${CATEGORY_COLORS[category as ExternalResourceCategory] || 'bg-gray-100 text-gray-800'}`}>
+            {EXTERNAL_CATEGORY_LABELS[category as ExternalResourceCategory] || category}
           </span>
         </div>
       </div>

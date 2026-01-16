@@ -23,6 +23,7 @@ import {
 import {
   getExternalOrganizations,
   getCustomCategories,
+  getExternalOrganizationsByCategory,
   type ExternalOrganization,
   type ExternalResourceCategory,
   type CustomCategory,
@@ -31,6 +32,7 @@ import {
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { AddCategoryModal, CUSTOM_ICON_MAP } from './AddCategoryModal'
+import { AddOrganizationModal } from './AddOrganizationModal'
 
 // Load seed data
 import externalResourcesData from '@/data/external-resources.json'
@@ -295,6 +297,7 @@ export function ResourcesPage() {
   const [customCategories, setCustomCategories] = useState<CustomCategory[]>([])
   const [selectedCustomCategory, setSelectedCustomCategory] = useState<CustomCategory | null>(null)
   const [showAddModal, setShowAddModal] = useState(false)
+  const [showAddOrgModal, setShowAddOrgModal] = useState(false)
 
   // Load organizations (from localStorage or seed data)
   useEffect(() => {
@@ -326,8 +329,9 @@ export function ResourcesPage() {
 
     // Count organizations per category
     organizations.forEach(org => {
-      const current = counts.get(org.category) || 0
-      counts.set(org.category, current + 1)
+      const cat = org.category as ExternalResourceCategory
+      const current = counts.get(cat) || 0
+      counts.set(cat, current + 1)
     })
 
     return counts
@@ -365,6 +369,18 @@ export function ResourcesPage() {
   const handleCustomCategoryClick = (category: CustomCategory) => {
     setSelectedCustomCategory(category)
   }
+
+  // Handle organization created in custom category
+  const handleOrgCreated = (org: ExternalOrganization) => {
+    setOrganizations(prev => [org, ...prev])
+    setShowAddOrgModal(false)
+  }
+
+  // Get organizations for custom category
+  const customCategoryOrgs = useMemo(() => {
+    if (!selectedCustomCategory) return []
+    return organizations.filter(org => org.category === selectedCustomCategory.id)
+  }, [organizations, selectedCustomCategory])
 
   // Category detail view (built-in categories)
   if (selectedCategory) {
@@ -416,39 +432,80 @@ export function ResourcesPage() {
       <div className="h-full flex flex-col overflow-hidden bg-gray-50">
         {/* Header */}
         <div className="bg-white border-b border-gray-200 px-4 py-4 flex-shrink-0">
-          <div className="flex items-center gap-4">
-            <button
-              onClick={handleBackClick}
-              className="p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
-            >
-              <ArrowLeftIcon className="w-5 h-5" />
-            </button>
-            <div className="flex items-center gap-3">
-              <div className={selectedCustomCategory.color}>
-                <CustomIcon className="w-6 h-6" />
-              </div>
-              <div>
-                <h1 className="text-lg font-bold text-gray-900">
-                  {selectedCustomCategory.name}
-                </h1>
-                <p className="text-sm text-gray-500">
-                  {t('resources.customCategory')}
-                </p>
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-4">
+              <button
+                onClick={handleBackClick}
+                className="p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
+              >
+                <ArrowLeftIcon className="w-5 h-5" />
+              </button>
+              <div className="flex items-center gap-3">
+                <div className={selectedCustomCategory.color}>
+                  <CustomIcon className="w-6 h-6" />
+                </div>
+                <div>
+                  <h1 className="text-lg font-bold text-gray-900">
+                    {selectedCustomCategory.name}
+                  </h1>
+                  <p className="text-sm text-gray-500">
+                    {t('resources.orgsInCategory', { count: customCategoryOrgs.length })}
+                  </p>
+                </div>
               </div>
             </div>
+            {/* Add Organization button */}
+            {canAddCategory && (
+              <button
+                onClick={() => setShowAddOrgModal(true)}
+                className="flex items-center gap-2 px-3 py-2 bg-rstu-red text-white rounded-lg hover:bg-rstu-red-dark transition-colors text-sm font-medium"
+              >
+                <PlusIcon className="w-4 h-4" />
+                {t('resources.addOrganization')}
+              </button>
+            )}
           </div>
         </div>
 
-        {/* Empty state - custom categories don't have orgs yet */}
+        {/* Organization List */}
         <div className="flex-1 overflow-y-auto p-4">
-          <div className="text-center py-12 text-gray-500 max-w-md mx-auto">
-            <CustomIcon className={`w-16 h-16 mx-auto mb-4 ${selectedCustomCategory.color}`} />
-            <h2 className="text-lg font-semibold text-gray-900 mb-2">{selectedCustomCategory.name}</h2>
-            <p className="text-gray-600">
-              {t('resources.customCategoryEmpty')}
-            </p>
+          <div className="space-y-4 max-w-3xl mx-auto">
+            {customCategoryOrgs.length === 0 ? (
+              <div className="text-center py-12 text-gray-500">
+                <CustomIcon className={`w-16 h-16 mx-auto mb-4 ${selectedCustomCategory.color}`} />
+                <h2 className="text-lg font-semibold text-gray-900 mb-2">{selectedCustomCategory.name}</h2>
+                <p className="text-gray-600 mb-4">
+                  {t('resources.customCategoryEmpty')}
+                </p>
+                {canAddCategory && (
+                  <button
+                    onClick={() => setShowAddOrgModal(true)}
+                    className="inline-flex items-center gap-2 px-4 py-2 bg-rstu-red text-white rounded-lg hover:bg-rstu-red-dark transition-colors"
+                  >
+                    <PlusIcon className="w-4 h-4" />
+                    {t('resources.addFirstOrg')}
+                  </button>
+                )}
+              </div>
+            ) : (
+              customCategoryOrgs.map(org => (
+                <OrganizationCard key={org.id} organization={org} />
+              ))
+            )}
           </div>
         </div>
+
+        {/* Add Organization Modal */}
+        {showAddOrgModal && profile && (
+          <AddOrganizationModal
+            isOpen={showAddOrgModal}
+            onClose={() => setShowAddOrgModal(false)}
+            onCreated={handleOrgCreated}
+            categoryId={selectedCustomCategory.id}
+            categoryName={selectedCustomCategory.name}
+            creatorId={profile.id}
+          />
+        )}
       </div>
     )
   }

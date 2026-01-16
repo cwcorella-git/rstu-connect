@@ -2,17 +2,16 @@
 
 import { useLanguage } from '@/contexts/LanguageContext'
 
-export type PropertyTab = 'chat' | 'map' | 'events' | 'issues';
+export type PropertyTab = 'chat' | 'map' | 'events';
 
 interface PropertyTabBarProps {
   activeTab: PropertyTab;
   onTabChange: (tab: PropertyTab) => void;
-  issueCount?: number;
 }
 
-const TAB_IDS: PropertyTab[] = ['chat', 'events', 'issues', 'map'];
+const TAB_IDS: PropertyTab[] = ['chat', 'events', 'map'];
 
-export function PropertyTabBar({ activeTab, onTabChange, issueCount }: PropertyTabBarProps) {
+export function PropertyTabBar({ activeTab, onTabChange }: PropertyTabBarProps) {
   const { t } = useLanguage()
 
   const getTabLabel = (id: PropertyTab): string => {
@@ -20,7 +19,6 @@ export function PropertyTabBar({ activeTab, onTabChange, issueCount }: PropertyT
       case 'chat': return t('property.chat')
       case 'map': return t('property.map')
       case 'events': return t('property.events')
-      case 'issues': return t('property.issues') || 'Issues'
     }
   }
 
@@ -37,11 +35,6 @@ export function PropertyTabBar({ activeTab, onTabChange, issueCount }: PropertyT
           }`}
         >
           {getTabLabel(id)}
-          {id === 'issues' && issueCount !== undefined && issueCount > 0 && (
-            <span className="ml-1 px-1.5 py-0.5 text-xs bg-red-100 text-red-700 rounded-full">
-              {issueCount}
-            </span>
-          )}
         </button>
       ))}
     </div>

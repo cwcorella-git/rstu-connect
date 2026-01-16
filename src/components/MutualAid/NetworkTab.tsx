@@ -93,7 +93,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
       org.description.toLowerCase().includes(query) ||
       (org.serviceArea && org.serviceArea.toLowerCase().includes(query)) ||
       (org.eligibility && org.eligibility.toLowerCase().includes(query)) ||
-      EXTERNAL_CATEGORY_LABELS[org.category].toLowerCase().includes(query)
+      (EXTERNAL_CATEGORY_LABELS[org.category as ExternalResourceCategory] || org.category).toLowerCase().includes(query)
     )
   }, [externalOrgs, searchQuery])
 
@@ -107,7 +107,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
 
     // Populate groups
     filteredExternalOrgs.forEach(org => {
-      const list = groups.get(org.category)
+      const list = groups.get(org.category as ExternalResourceCategory)
       if (list) {
         list.push(org)
       }
