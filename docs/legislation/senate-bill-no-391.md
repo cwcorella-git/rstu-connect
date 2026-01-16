@@ -4,90 +4,54 @@ author: Senate Bill No
 date: '2025'
 category: legislation
 tags:
-  - legislation
-  - Nevada
+- legislation
+- Nevada
 ---
-
 # senate-bill-no-391
-
-*Converted from: `./senate-bill-no-391.pdf`*  
-*Total pages: 8*  
-*File size: 147363 bytes*  
-*Converted: Mon Sep  8 02:04:31 PM PDT 2025*
-
----
-
-## Page 1
-
-### Complete Page View
-![Page 1 Complete](images/page_001_full.png)
-
-### Extracted Text
-
-
-     REQUIRES TWO-THIRDS MAJORITY VOTE (§ 2)                                                                    EXEMPT
-                (Reprinted with amendments adopted on April 21, 2025)
-                                  FIRST REPRINT                   S.B. 391
-
-                             SENATE BILL NO. 391–SENATOR NEAL
-
-                                                MARCH 17, 2025
-                                                ____________
-
-                                Referred to Committee on Judiciary
-     SUMMARY—Revises provisions                                        relating          to      real       property.
-             (BDR 10-84)
-     FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
-                  Effect on the State: Contains Appropriation not included
-                     in Executive Budget.
-                                                               ~
-
-      EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
-
-
-     AN ACT relating to real property; limiting, with certain exceptions,
-            the total aggregate number of units of residential real
-            property in this State that may be purchased in any 1
-            calendar year by certain corporate investors; requiring,
-            with certain exceptions, certain corporate investors in
-            residential real property in this State to register with the
-            Securities Division of the Office of the Secretary of State
-            each time before purchasing a unit of residential real
-            property; authorizing the Attorney General to bring
-            certain actions; requiring the Secretary of State to
-            establish requirements for the form and contents of an
-            instrument that creates a life estate; prohibiting a county
-            recorder from recording certain deeds and documents
-            under certain circumstances; making an appropriation;
-            and providing other matters properly relating thereto.
-     Legislative Counsel’s Digest:
- 1       Section 2 of this bill provides, with certain exceptions, that: (1) the total
- 2   aggregate number of units of residential real property in this State that may be
- 3   purchased in any 1 calendar year by corporations, limited-liability companies and
- 4   any affiliates of such entities must not exceed 100 units; and (2) a corporation,
- 5   limited-liability company or affiliate of such an entity is prohibited from purchasing
- 6   any unit of residential real property in this State if, as a result of the purchase, the
- 7   total aggregate number of units of residential real property purchased in this State
- 8   during the current calendar year by any corporations, limited-liability companies
- 9   and affiliates of such entities would exceed 100 units.
+REQUIRES TWO-THIRDS MAJORITY VOTE (§ 2)                                                                    EXEMPT
+(Reprinted with amendments adopted on April 21, 2025)
+FIRST REPRINT                   S.B. 391
+SENATE BILL NO. 391–SENATOR NEAL
+MARCH 17, 2025
+____________
+Referred to Committee on Judiciary
+SUMMARY—Revises provisions                                        relating          to      real       property.
+(BDR 10-84)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Contains Appropriation not included
+in Executive Budget.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to real property; limiting, with certain exceptions,
+the total aggregate number of units of residential real
+property in this State that may be purchased in any 1
+calendar year by certain corporate investors; requiring,
+with certain exceptions, certain corporate investors in
+residential real property in this State to register with the
+Securities Division of the Office of the Secretary of State
+each time before purchasing a unit of residential real
+property; authorizing the Attorney General to bring
+certain actions; requiring the Secretary of State to
+establish requirements for the form and contents of an
+instrument that creates a life estate; prohibiting a county
+recorder from recording certain deeds and documents
+under certain circumstances; making an appropriation;
+and providing other matters properly relating thereto.
+Legislative Counsel’s Digest:
+1       Section 2 of this bill provides, with certain exceptions, that: (1) the total
+2   aggregate number of units of residential real property in this State that may be
+3   purchased in any 1 calendar year by corporations, limited-liability companies and
+4   any affiliates of such entities must not exceed 100 units; and (2) a corporation,
+5   limited-liability company or affiliate of such an entity is prohibited from purchasing
+6   any unit of residential real property in this State if, as a result of the purchase, the
+7   total aggregate number of units of residential real property purchased in this State
+8   during the current calendar year by any corporations, limited-liability companies
+9   and affiliates of such entities would exceed 100 units.
 10       Section 2 also requires the Securities Division of the Office of the Secretary of
 11   State to create and maintain a registry of corporations, limited-liability companies
-
-
-     -                                                                            *SB391_R1*
-
+-                                                                            *SB391_R1*
 ---
-
-## Page 2
-
-### Complete Page View
-![Page 2 Complete](images/page_002_full.png)
-
-### Extracted Text
-
-
-                                               –2–
-
+–2–
 12   and any affiliates of such entities that purchase or own residential real property in
 13   this State. Section 2 requires, with certain exceptions, a corporation, limited14   liability company or any affiliate of such an entity to register with the Securities
 15   Division each time before the entity purchases any unit of residential real property
@@ -117,51 +81,35 @@ tags:
 40        Section 6 of this bill makes an appropriation to the Office of the Secretary of
 41   State for personnel, travel, operating, equipment, information services and
 42   contractor costs to carry out the provisions of section 2.
-
-
-        THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
-           SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
-
- 1       Section 1. Chapter 111 of NRS is hereby amended by adding
- 2   thereto the provisions set forth as sections 2 to 4, inclusive, of this
- 3   act.
- 4       Sec. 2. 1. Except as otherwise provided in subsection 2:
- 5       (a) The total aggregate number of units of residential real
- 6   property in this State that may be purchased in any 1 calendar
- 7   year by corporations, limited-liability companies and affiliates of
- 8   such entities must not exceed 100 units.
- 9       (b) A corporation, limited-liability company or affiliate of such
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1       Section 1. Chapter 111 of NRS is hereby amended by adding
+2   thereto the provisions set forth as sections 2 to 4, inclusive, of this
+3   act.
+4       Sec. 2. 1. Except as otherwise provided in subsection 2:
+5       (a) The total aggregate number of units of residential real
+6   property in this State that may be purchased in any 1 calendar
+7   year by corporations, limited-liability companies and affiliates of
+8   such entities must not exceed 100 units.
+9       (b) A corporation, limited-liability company or affiliate of such
 10   an entity shall not purchase any unit of residential real property in
 11   this State if, as a result of the purchase, the total aggregate
 12   number of units of residential real property purchased in this State
 13   during the current calendar year by corporations, limited-liability
 14   companies and affiliates of such entities would exceed 100 units.
 15       2. The provisions of subsection 1 do not apply to:
-
-
-     -                                                       *SB391_R1*
-
+-                                                       *SB391_R1*
 ---
-
-## Page 3
-
-### Complete Page View
-![Page 3 Complete](images/page_003_full.png)
-
-### Extracted Text
-
-
-                                      –3–
-
- 1       (a) The intracorporate sale or transfer of units of residential
- 2   real property;
- 3       (b) The sale of newly constructed units of residential real
- 4   property;
- 5       (c) The sale of a mobile home or manufactured home; or
- 6       (d) The sale of an apartment building.
- 7       3. The Securities Division of the Office of the Secretary of
- 8   State shall create and maintain a registry of corporations, limited-
- 9   liability companies and affiliates of such entities that purchase or
+–3–
+1       (a) The intracorporate sale or transfer of units of residential
+2   real property;
+3       (b) The sale of newly constructed units of residential real
+4   property;
+5       (c) The sale of a mobile home or manufactured home; or
+6       (d) The sale of an apartment building.
+7       3. The Securities Division of the Office of the Secretary of
+8   State shall create and maintain a registry of corporations, limited-
+9   liability companies and affiliates of such entities that purchase or
 10   own residential real property in this State. The Securities Division
 11   shall make the registry available on the Internet website of the
 12   Office of the Secretary of State.
@@ -198,31 +146,18 @@ tags:
 43   the provisions of section 2 of this act to obtain an injunction or
 44   other equitable relief appropriate to ensure compliance with or
 45   enforce the provisions of section 2.
-
-
-     -                                            *SB391_R1*
-
+-                                            *SB391_R1*
 ---
-
-## Page 4
-
-### Complete Page View
-![Page 4 Complete](images/page_004_full.png)
-
-### Extracted Text
-
-
-                                       –4–
-
- 1       2. The provisions of this section do not abrogate or limit the
- 2   right of any person to bring any civil action pursuant to any other
- 3   statute or the common law.
- 4       Sec. 4. The Secretary of State shall adopt regulations
- 5   establishing requirements for the form and contents of any
- 6   instrument that creates a life estate.
- 7       Sec. 5. NRS 111.312 is hereby amended to read as follows:
- 8       111.312 1. The county recorder shall not record with respect
- 9   to real property, a notice of completion, a declaration of homestead,
+–4–
+1       2. The provisions of this section do not abrogate or limit the
+2   right of any person to bring any civil action pursuant to any other
+3   statute or the common law.
+4       Sec. 4. The Secretary of State shall adopt regulations
+5   establishing requirements for the form and contents of any
+6   instrument that creates a life estate.
+7       Sec. 5. NRS 111.312 is hereby amended to read as follows:
+8       111.312 1. The county recorder shall not record with respect
+9   to real property, a notice of completion, a declaration of homestead,
 10   a restrictive covenant modification form, a restrictive covenant
 11   modification document, a lien or notice of lien, an affidavit of death,
 12   a mortgage or deed of trust, any conveyance of real property or
@@ -259,31 +194,18 @@ tags:
 43   name and mailing address of the person who prepared the legal
 44   description. The county recorder is not required to verify the
 45   accuracy of the name and mailing address of such a person.
-
-
-     -                                             *SB391_R1*
-
+-                                             *SB391_R1*
 ---
-
-## Page 5
-
-### Complete Page View
-![Page 5 Complete](images/page_005_full.png)
-
-### Extracted Text
-
-
-                                            –5–
-
- 1       6. If a document including the same legal description described
- 2   in subsection 5 previously has been recorded, the document must
- 3   include all information necessary to identify and locate the previous
- 4   recording, but the name and mailing address of the person who
- 5   prepared the legal description is not required for the document to be
- 6   recorded. The county recorder is not required to verify the accuracy
- 7   of the information concerning the previous recording.
- 8       7. Except as otherwise provided in subsection 10, if a
- 9   corporation, limited-liability company or affiliate of such an entity
+–5–
+1       6. If a document including the same legal description described
+2   in subsection 5 previously has been recorded, the document must
+3   include all information necessary to identify and locate the previous
+4   recording, but the name and mailing address of the person who
+5   prepared the legal description is not required for the document to be
+6   recorded. The county recorder is not required to verify the accuracy
+7   of the information concerning the previous recording.
+8       7. Except as otherwise provided in subsection 10, if a
+9   corporation, limited-liability company or affiliate of such an entity
 10   purchases a unit of residential real property, the county recorder
 11   shall not record the deed unless the corporation, limited-liability
 12   company or affiliate of such an entity submits to the county
@@ -319,31 +241,18 @@ tags:
 42   following sums:
 43          For the Fiscal Year 2025-2026 .................................. $476,004
 44          For the Fiscal Year 2026-2027 .................................... $81,705
-
-
-     -                                                   *SB391_R1*
-
+-                                                   *SB391_R1*
 ---
-
-## Page 6
-
-### Complete Page View
-![Page 6 Complete](images/page_006_full.png)
-
-### Extracted Text
-
-
-                                      –6–
-
- 1       2. Any balance of the sums appropriated by subsection 1
- 2   remaining at the end of the respective fiscal years must not be
- 3   committed for expenditure after June 30 of the respective fiscal
- 4   years by the entity to which the appropriation is made or any entity
- 5   to which money from the appropriation is granted or otherwise
- 6   transferred in any manner, and any portion of the appropriated
- 7   money remaining must not be spent for any purpose after
- 8   September 18, 2026, and September 17, 2027, respectively, by
- 9   either the entity to which the money was appropriated or the entity
+–6–
+1       2. Any balance of the sums appropriated by subsection 1
+2   remaining at the end of the respective fiscal years must not be
+3   committed for expenditure after June 30 of the respective fiscal
+4   years by the entity to which the appropriation is made or any entity
+5   to which money from the appropriation is granted or otherwise
+6   transferred in any manner, and any portion of the appropriated
+7   money remaining must not be spent for any purpose after
+8   September 18, 2026, and September 17, 2027, respectively, by
+9   either the entity to which the money was appropriated or the entity
 10   to which the money was subsequently granted or transferred, and
 11   must be reverted to the State General Fund on or before
 12   September 18, 2026, and September 17, 2027, respectively.
@@ -354,32 +263,6 @@ tags:
 17   regulations and performing any other preparatory administrative
 18   tasks that are necessary to carry out the provisions of this act; and
 19       (b) On January 1, 2026, for all other purposes.
-
-                                      H
-
-
-     -                                            *SB391_R1*
-
----
-
-## Page 7
-
-### Complete Page View
-![Page 7 Complete](images/page_007_full.png)
-
-### Extracted Text
-
-
-
----
-
-## Page 8
-
-### Complete Page View
-![Page 8 Complete](images/page_008_full.png)
-
-### Extracted Text
-
-
-
+H
+-                                            *SB391_R1*
 ---
