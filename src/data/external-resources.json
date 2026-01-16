@@ -774,6 +774,418 @@
       "serviceArea": "Washoe County",
       "eligibility": "DV shelter residents",
       "verified": true
+    },
+    {
+      "id": "ext-nevada-211",
+      "type": "external",
+      "name": "Nevada 211",
+      "description": "Free, confidential 24/7 resource hotline connecting Nevadans to essential services including food, housing, healthcare, mental health, and support for children, families, seniors, and people with disabilities. Translation services in 150+ languages.",
+      "category": "crisis_mental_health",
+      "contacts": [
+        { "type": "hours", "value": "24/7, 365 days" },
+        { "type": "phone", "value": "211", "label": "Call" },
+        { "type": "phone", "value": "(866) 535-5654", "label": "Toll-free" },
+        { "type": "website", "value": "https://www.nevada211.org" }
+      ],
+      "serviceArea": "Statewide",
+      "eligibility": "All welcome",
+      "verified": true
+    },
+    {
+      "id": "ext-988-crisis",
+      "type": "external",
+      "name": "988 Suicide & Crisis Lifeline",
+      "description": "National crisis line for anyone experiencing suicidal thoughts, mental health crisis, or emotional distress. Free, confidential support 24/7. If calling 911, ask for a Crisis Intervention Team (CIT) Officer.",
+      "category": "crisis_mental_health",
+      "contacts": [
+        { "type": "hours", "value": "24/7" },
+        { "type": "phone", "value": "988", "label": "Call or Text" },
+        { "type": "website", "value": "https://988lifeline.org" }
+      ],
+      "serviceArea": "Nationwide",
+      "eligibility": "Anyone in crisis",
+      "verified": true
+    },
+    {
+      "id": "ext-nami-nn",
+      "type": "external",
+      "name": "NAMI Northern Nevada",
+      "description": "Free mental health support, education, and advocacy. Offers support groups, educational programs, and 24-hour emergency resources including mobile outreach safety team and crisis support hotline. Helps residents access quality housing, employment, healthcare, and education.",
+      "category": "crisis_mental_health",
+      "contacts": [
+        { "type": "phone", "value": "1-800-950-6264", "label": "NAMI Helpline" },
+        { "type": "website", "value": "https://naminorthernnevada.org" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "All welcome",
+      "verified": true
+    },
+    {
+      "id": "ext-dcfs-mcrt",
+      "type": "external",
+      "name": "DCFS Mobile Crisis Response Team",
+      "description": "Mobile crisis response and stabilization services for youth under 18. Provides community-based mental health therapy, medication management, early childhood day treatment, and wraparound care coordination.",
+      "category": "crisis_mental_health",
+      "contacts": [
+        { "type": "phone", "value": "(775) 688-1670", "label": "Northern Nevada" },
+        { "type": "website", "value": "https://dcfs.nv.gov/programs/cmh/" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Youth under 18",
+      "verified": true
+    },
+    {
+      "id": "ext-reno-behavioral",
+      "type": "external",
+      "name": "Reno Behavioral Healthcare Hospital",
+      "description": "Free and confidential mental health assessments available 24/7 to help determine the best treatment plan. Provides inpatient and outpatient mental health services.",
+      "category": "crisis_mental_health",
+      "contacts": [
+        { "type": "hours", "value": "24/7 assessments" },
+        { "type": "phone", "value": "(775) 393-2201" },
+        { "type": "website", "value": "https://www.renobehavioral.com" },
+        { "type": "address", "value": "6940 Sierra Center Pkwy, Reno, NV 89511" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Free assessments for all",
+      "verified": true
+    },
+    {
+      "id": "ext-washoe-senior-services",
+      "type": "external",
+      "name": "Washoe County Senior Services",
+      "description": "Comprehensive services for adults 60+ including nutritious meals, in-home assistance, emotional health programs, residential care, and financial management support. Programs include homemaker services, case management, representative payee, and group homes.",
+      "category": "senior_services",
+      "contacts": [
+        { "type": "hours", "value": "Monday-Friday 8:00 AM - 5:00 PM" },
+        { "type": "phone", "value": "(775) 328-2575" },
+        { "type": "website", "value": "https://www.washoecounty.gov/seniorsrv/" },
+        { "type": "address", "value": "1155 E 9th St #25, Reno, NV 89512" }
+      ],
+      "serviceArea": "Washoe County",
+      "eligibility": "Age 60 and over",
+      "verified": true
+    },
+    {
+      "id": "ext-senior-ride",
+      "type": "external",
+      "name": "Washoe Senior Ride (Taxi Bucks)",
+      "description": "Subsidized taxi program for seniors. Provides transportation assistance for medical appointments, shopping, and other essential trips.",
+      "category": "senior_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 328-2575" },
+        { "type": "website", "value": "https://www.washoecounty.gov/seniorsrv/programs_and_services/index.php" }
+      ],
+      "serviceArea": "Washoe County",
+      "eligibility": "Seniors",
+      "verified": true
+    },
+    {
+      "id": "ext-fbnn-seniors",
+      "type": "external",
+      "name": "Food Bank Senior Nutrition Program",
+      "description": "Monthly food boxes for seniors 60+ through the USDA Commodity Supplemental Food Program. Provides nutritious food to supplement diets of low-income elderly.",
+      "category": "senior_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 331-3663" },
+        { "type": "website", "value": "https://www.fbnn.org/gethelp/seniors/" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Seniors 60+, income-based",
+      "verified": true
+    },
+    {
+      "id": "ext-nevadaworks",
+      "type": "external",
+      "name": "Nevadaworks / EmployNV Career Hub",
+      "description": "One-stop shop for free career services including job search assistance, resume help, skills training, and career counseling. Good Jobs Northern Nevada program provides free training in healthcare, IT, manufacturing, and logistics with support services like childcare and transportation.",
+      "category": "employment_training",
+      "contacts": [
+        { "type": "hours", "value": "Monday-Friday 8:00 AM - 5:00 PM" },
+        { "type": "phone", "value": "(775) 284-9600" },
+        { "type": "website", "value": "https://nevadaworks.com" },
+        { "type": "address", "value": "4001 S Virginia St, Ste H, Reno, NV 89502" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "All job seekers",
+      "verified": true
+    },
+    {
+      "id": "ext-csa-workforce",
+      "type": "external",
+      "name": "Community Services Agency (CSA) Workforce Development",
+      "description": "Free employment services for job seekers of all backgrounds. Provides skill-building, training, and removes barriers to employment. Connects job seekers with opportunities in aerospace, construction, healthcare, IT, manufacturing, mining, and tourism.",
+      "category": "employment_training",
+      "contacts": [
+        { "type": "phone", "value": "(775) 786-6023" },
+        { "type": "website", "value": "https://csareno.org/program/employment-assistance-and-job-training/" },
+        { "type": "address", "value": "1090 E 8th St, Reno, NV 89512" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "All job seekers",
+      "verified": true
+    },
+    {
+      "id": "ext-detr",
+      "type": "external",
+      "name": "Nevada DETR (Employment, Training & Rehabilitation)",
+      "description": "State workforce agency providing job placement, training, unemployment insurance, services for people with disabilities, and labor market data. Many services provided through EmployNV Career Hubs.",
+      "category": "employment_training",
+      "contacts": [
+        { "type": "phone", "value": "(775) 684-0350" },
+        { "type": "website", "value": "https://detr.nv.gov" }
+      ],
+      "serviceArea": "Statewide",
+      "verified": true
+    },
+    {
+      "id": "ext-childrens-cabinet",
+      "type": "external",
+      "name": "The Children's Cabinet",
+      "description": "Child care subsidy assistance for income-eligible families so they can work, receive job training, or finish education. Subsidies cover up to 100% of child care costs with copays of $0, $90, or $150/month based on income. Priority for children with special needs, homeless children, and very low-income families.",
+      "category": "childcare",
+      "contacts": [
+        { "type": "phone", "value": "(775) 856-6200" },
+        { "type": "phone", "value": "1-800-753-5500", "label": "Toll-free" },
+        { "type": "website", "value": "https://www.childrenscabinet.org/who-we-serve/i-am-a-parent/child-care-financial-assistance/" },
+        { "type": "address", "value": "1090 S Rock Blvd, Reno, NV 89502" }
+      ],
+      "serviceArea": "All Nevada except Clark/Lincoln/Nye County",
+      "eligibility": "Income-based (at or below 41% State Median Income)",
+      "verified": true
+    },
+    {
+      "id": "ext-rtc-reduced-fare",
+      "type": "external",
+      "name": "RTC Washoe Reduced Fare Program",
+      "description": "Reduced bus fare of $0.75 (vs $2.00 regular) for seniors 60+, individuals with disabilities or Medicare cards, and U.S. Veterans. Buy passes via Token Transit app.",
+      "category": "transportation",
+      "contacts": [
+        { "type": "phone", "value": "(775) 348-7433" },
+        { "type": "website", "value": "https://rtcwashoe.com/public-transportation/fares-passes/" }
+      ],
+      "serviceArea": "Reno-Sparks",
+      "eligibility": "Seniors 60+, disabled, Medicare, Veterans",
+      "verified": true
+    },
+    {
+      "id": "ext-access-healthcare-transport",
+      "type": "external",
+      "name": "Access to Healthcare Network - Medical Transportation",
+      "description": "FREE non-emergency medical transportation for seniors, disabled individuals, and low-income residents in Reno and Greater Washoe County. Senior Ambassador Program provides free rides for eligible Medicare patients.",
+      "category": "transportation",
+      "contacts": [
+        { "type": "phone", "value": "(775) 324-7006" },
+        { "type": "website", "value": "https://www.accesstohealthcare.org/services-for-individuals/non-emergency-medical-transportation/" }
+      ],
+      "serviceArea": "Washoe County",
+      "eligibility": "Seniors, disabled, low-income",
+      "verified": true
+    },
+    {
+      "id": "ext-mtm-medicaid-transport",
+      "type": "external",
+      "name": "MTM Health - Medicaid Transportation",
+      "description": "Free non-emergency transportation for Nevada Medicaid members to covered appointments. Offers reloadable debit card for public transit day passes. Must schedule rides in advance.",
+      "category": "transportation",
+      "contacts": [
+        { "type": "phone", "value": "1-844-879-7341" },
+        { "type": "website", "value": "https://www.mtm-inc.net/nevada/members/" }
+      ],
+      "serviceArea": "Statewide",
+      "eligibility": "Nevada Medicaid members",
+      "verified": true
+    },
+    {
+      "id": "ext-dav-vans",
+      "type": "external",
+      "name": "DAV Vans for Veterans",
+      "description": "Free van rides to and from VA Sierra Nevada Healthcare System for veterans who don't have other transportation options. Ambulatory passengers only (able to move without driver assistance).",
+      "category": "transportation",
+      "contacts": [
+        { "type": "phone", "value": "(775) 328-1486" },
+        { "type": "website", "value": "https://www.va.gov/sierra-nevada-health-care/dav-vans-transportation-for-veterans/" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Veterans (ambulatory)",
+      "verified": true
+    },
+    {
+      "id": "ext-ccsnn-immigration",
+      "type": "external",
+      "name": "Catholic Charities Immigration Legal Services",
+      "description": "Mother Cabrini Immigration Legal Services providing high quality, low-cost or pro bono immigration legal services since 2006. Helps foreign-born individuals and families obtain or extend lawful immigration status or citizenship.",
+      "category": "legal_aid",
+      "contacts": [
+        { "type": "hours", "value": "Tuesdays at 9am for appointments" },
+        { "type": "phone", "value": "(775) 393-3877" },
+        { "type": "email", "value": "immigration@ccsnn.org" },
+        { "type": "website", "value": "https://ccsnn.org/pages/immigration-legal-services" },
+        { "type": "address", "value": "480 E Moana Lane, Reno, NV 89502" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "$75 consultation fee",
+      "verified": true
+    },
+    {
+      "id": "ext-plan-immigration",
+      "type": "external",
+      "name": "PLAN Citizenship & Immigration Program",
+      "description": "DOJ-recognized and accredited immigration services. Assists with adjustment of status, DACA, family petitions, Temporary Protected Status (TPS), and EOIR proceedings.",
+      "category": "legal_aid",
+      "contacts": [
+        { "type": "phone", "value": "(775) 800-1851" },
+        { "type": "email", "value": "info@plancip.org" },
+        { "type": "website", "value": "https://planevada.org/immigration/" },
+        { "type": "address", "value": "495 Apple St, Suite 108, Reno, NV 89502" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "verified": true
+    },
+    {
+      "id": "ext-ndalc",
+      "type": "external",
+      "name": "Nevada Disability Advocacy & Law Center (NDALC)",
+      "description": "Nevada's federally-mandated protection and advocacy system for human, legal, and service rights for individuals with disabilities. Provides information, referral, technical assistance, training, legal and non-legal advocacy, and outreach.",
+      "category": "disability_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 333-7878", "label": "Reno" },
+        { "type": "phone", "value": "1-800-992-5715", "label": "Toll-free" },
+        { "type": "website", "value": "https://ndalc.org" },
+        { "type": "address", "value": "2820 W Charleston Blvd #11, Las Vegas, NV 89102" }
+      ],
+      "serviceArea": "Statewide",
+      "eligibility": "Individuals with disabilities",
+      "verified": true
+    },
+    {
+      "id": "ext-adsd",
+      "type": "external",
+      "name": "Nevada Aging & Disability Services (ADSD)",
+      "description": "State agency ensuring older adults and individuals with disabilities have access to essential programs and resources. Programs include Autism Treatment Assistance, Office of Community Living, and independent living support.",
+      "category": "disability_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 687-4210" },
+        { "type": "website", "value": "https://adsd.nv.gov" },
+        { "type": "address", "value": "3416 Goni Rd D-132, Carson City, NV 89706" }
+      ],
+      "serviceArea": "Statewide",
+      "eligibility": "Older adults, individuals with disabilities",
+      "verified": true
+    },
+    {
+      "id": "ext-natrc",
+      "type": "external",
+      "name": "Nevada Assistive Technology Resource Center",
+      "description": "Part of Nevada Center for Excellence in Disabilities at UNR. Offers device loans, demonstrations, and training to help individuals with disabilities explore and use assistive technology effectively.",
+      "category": "disability_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 682-9070" },
+        { "type": "website", "value": "https://www.unr.edu/nced" },
+        { "type": "address", "value": "University of Nevada, Reno, NV 89557" }
+      ],
+      "serviceArea": "Statewide",
+      "eligibility": "Individuals with disabilities",
+      "verified": true
+    },
+    {
+      "id": "ext-our-center-lgbtq",
+      "type": "external",
+      "name": "Our Center (LGBTQ+ Community Center)",
+      "description": "Safe, empowering, and supportive center for the LGBTQ+ community. Offers support groups for youth and adult trans members, senior community groups, prevention-focused initiatives, education, and job information.",
+      "category": "lgbtq_services",
+      "contacts": [
+        { "type": "hours", "value": "Mon-Fri 11am-8pm, Sat-Sun 10am-2pm" },
+        { "type": "phone", "value": "(775) 624-3720" },
+        { "type": "email", "value": "center@ourcenterreno.org" },
+        { "type": "website", "value": "https://ourcenterreno.org" },
+        { "type": "address", "value": "1745 S Wells Ave, Reno, NV 89502" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "All LGBTQ+ individuals and allies",
+      "verified": true
+    },
+    {
+      "id": "ext-nn-pride",
+      "type": "external",
+      "name": "Northern Nevada Pride",
+      "description": "LGBTQ+ advocacy, community events, and Pride celebrations. Supports the activities of Our Center. Promotes rights and wellbeing of the LGBTQ+ community through public awareness and events.",
+      "category": "lgbtq_services",
+      "contacts": [
+        { "type": "website", "value": "https://northernnevadapride.org" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "verified": true
+    },
+    {
+      "id": "ext-hopes-lgbtq-health",
+      "type": "external",
+      "name": "HOPES LGBTQ & Gender Healthcare",
+      "description": "The Barry Frank Family Gender and Sexual Healthcare Clinic provides culturally competent, judgment-free health care including gender affirming resources, case management, and financial support for individuals transitioning.",
+      "category": "lgbtq_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 786-4673" },
+        { "type": "website", "value": "https://www.nnhopes.org/patients/health-services/lgbtq-health/" },
+        { "type": "address", "value": "580 W 5th St, Reno, NV 89503" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "All LGBTQ+ individuals",
+      "verified": true
+    },
+    {
+      "id": "ext-ccsnn-reentry",
+      "type": "external",
+      "name": "Catholic Charities Reentry Programs",
+      "description": "Reentry and recovery programs for formerly incarcerated individuals including Battle Born Housing Plus and St. Marguerite Support Services. Designed to reduce recidivism, promote recovery, provide basic needs, and support long-term reintegration.",
+      "category": "reentry_services",
+      "contacts": [
+        { "type": "phone", "value": "(775) 322-7073" },
+        { "type": "website", "value": "https://ccsnn.org" }
+      ],
+      "serviceArea": "Northern Nevada",
+      "eligibility": "Formerly incarcerated individuals",
+      "verified": true
+    },
+    {
+      "id": "ext-life-changes-reentry",
+      "type": "external",
+      "name": "Life Changes, Inc.",
+      "description": "Statewide reentry services for individuals released from Nevada Department of Corrections. Provides transportation from parole office, intake assistance, help purchasing necessities like phones, and ongoing support.",
+      "category": "reentry_services",
+      "contacts": [
+        { "type": "website", "value": "https://www.lifechangesinc.solutions/serviceslist" }
+      ],
+      "serviceArea": "Statewide",
+      "eligibility": "Individuals released from NDOC",
+      "verified": true
+    },
+    {
+      "id": "ext-nv-energy-assistance",
+      "type": "external",
+      "name": "NV Energy Assistance Programs",
+      "description": "Utility assistance programs for customers struggling to pay electric and gas bills. Includes payment plans, budget billing, and connections to LIHEAP and other assistance programs.",
+      "category": "emergency_aid",
+      "contacts": [
+        { "type": "phone", "value": "(775) 834-4444", "label": "Northern Nevada" },
+        { "type": "website", "value": "https://www.nvenergy.com/account-services/assistance-programs" }
+      ],
+      "serviceArea": "NV Energy service area",
+      "eligibility": "Income-based",
+      "verified": true
+    },
+    {
+      "id": "ext-liheap",
+      "type": "external",
+      "name": "LIHEAP (Low Income Energy Assistance)",
+      "description": "Federal program helping low-income households pay heating and cooling bills. Apply through Nevada DWSS. Payment goes directly to utility company and covers past due and future bills.",
+      "category": "emergency_aid",
+      "contacts": [
+        { "type": "phone", "value": "(775) 823-6000", "label": "DWSS Reno" },
+        { "type": "website", "value": "https://dss.nv.gov" }
+      ],
+      "serviceArea": "Statewide",
+      "eligibility": "Income at or below 60% State Median Income",
+      "verified": true
     }
   ],
   "lastUpdated": "2026-01-16",
