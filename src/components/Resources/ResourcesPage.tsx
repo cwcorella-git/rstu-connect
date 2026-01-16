@@ -19,6 +19,8 @@ import {
   PhoneIcon,
   ClockIcon,
   UserGroupIcon,
+  PencilIcon,
+  TrashIcon,
 } from '@heroicons/react/24/outline'
 import {
   getExternalOrganizations,
@@ -33,6 +35,8 @@ import { getCurrentProfile } from '@/lib/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { AddCategoryModal, CUSTOM_ICON_MAP } from './AddCategoryModal'
 import { AddOrganizationModal } from './AddOrganizationModal'
+import { EditCategoryModal } from './EditCategoryModal'
+import { DeleteCategoryDialog } from './DeleteCategoryDialog'
 
 // Load seed data
 import externalResourcesData from '@/data/external-resources.json'
@@ -298,6 +302,8 @@ export function ResourcesPage() {
   const [selectedCustomCategory, setSelectedCustomCategory] = useState<CustomCategory | null>(null)
   const [showAddModal, setShowAddModal] = useState(false)
   const [showAddOrgModal, setShowAddOrgModal] = useState(false)
+  const [showEditModal, setShowEditModal] = useState(false)
+  const [showDeleteDialog, setShowDeleteDialog] = useState(false)
 
   // Load organizations (from localStorage or seed data)
   useEffect(() => {
@@ -374,6 +380,22 @@ export function ResourcesPage() {
   const handleOrgCreated = (org: ExternalOrganization) => {
     setOrganizations(prev => [org, ...prev])
     setShowAddOrgModal(false)
+  }
+
+  // Handle custom category updated
+  const handleCategoryUpdated = (updated: CustomCategory) => {
+    setCustomCategories(prev => prev.map(c => c.id === updated.id ? updated : c))
+    setSelectedCustomCategory(updated)
+    setShowEditModal(false)
+  }
+
+  // Handle custom category deleted
+  const handleCategoryDeleted = () => {
+    if (selectedCustomCategory) {
+      setCustomCategories(prev => prev.filter(c => c.id !== selectedCustomCategory.id))
+      setSelectedCustomCategory(null)
+    }
+    setShowDeleteDialog(false)
   }
 
   // Get organizations for custom category
@@ -454,15 +476,31 @@ export function ResourcesPage() {
                 </div>
               </div>
             </div>
-            {/* Add Organization button */}
+            {/* Action buttons */}
             {canAddCategory && (
-              <button
-                onClick={() => setShowAddOrgModal(true)}
-                className="flex items-center gap-2 px-3 py-2 bg-rstu-red text-white rounded-lg hover:bg-rstu-red-dark transition-colors text-sm font-medium"
-              >
-                <PlusIcon className="w-4 h-4" />
-                {t('resources.addOrganization')}
-              </button>
+              <div className="flex items-center gap-2">
+                <button
+                  onClick={() => setShowEditModal(true)}
+                  className="p-2 text-gray-500 hover:text-gray-700 hover:bg-gray-100 rounded-lg transition-colors"
+                  title={t('resources.editCategory')}
+                >
+                  <PencilIcon className="w-5 h-5" />
+                </button>
+                <button
+                  onClick={() => setShowDeleteDialog(true)}
+                  className="p-2 text-gray-500 hover:text-red-600 hover:bg-red-50 rounded-lg transition-colors"
+                  title={t('resources.deleteCategory')}
+                >
+                  <TrashIcon className="w-5 h-5" />
+                </button>
+                <button
+                  onClick={() => setShowAddOrgModal(true)}
+                  className="flex items-center gap-2 px-3 py-2 bg-rstu-red text-white rounded-lg hover:bg-rstu-red-dark transition-colors text-sm font-medium"
+                >
+                  <PlusIcon className="w-4 h-4" />
+                  {t('resources.addOrganization')}
+                </button>
+              </div>
             )}
           </div>
         </div>
@@ -504,6 +542,26 @@ export function ResourcesPage() {
             categoryId={selectedCustomCategory.id}
             categoryName={selectedCustomCategory.name}
             creatorId={profile.id}
+          />
+        )}
+
+        {/* Edit Category Modal */}
+        {showEditModal && (
+          <EditCategoryModal
+            isOpen={showEditModal}
+            onClose={() => setShowEditModal(false)}
+            onUpdated={handleCategoryUpdated}
+            category={selectedCustomCategory}
+          />
+        )}
+
+        {/* Delete Category Dialog */}
+        {showDeleteDialog && (
+          <DeleteCategoryDialog
+            isOpen={showDeleteDialog}
+            onClose={() => setShowDeleteDialog(false)}
+            onDeleted={handleCategoryDeleted}
+            category={selectedCustomCategory}
           />
         )}
       </div>

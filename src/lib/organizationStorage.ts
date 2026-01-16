@@ -681,16 +681,18 @@ export function getCustomCategory(id: string): CustomCategory | null {
   return categories.find(c => c.id === id) || null
 }
 
-export function categoryNameExists(name: string): boolean {
+export function categoryNameExists(name: string, excludeId?: string): boolean {
   const trimmedName = name.trim().toLowerCase()
 
   // Check built-in external categories
   const builtInNames = Object.values(EXTERNAL_CATEGORY_LABELS).map(n => n.toLowerCase())
   if (builtInNames.includes(trimmedName)) return true
 
-  // Check custom categories
+  // Check custom categories (optionally excluding one by ID for edit validation)
   const customCategories = getCustomCategories()
-  return customCategories.some(c => c.name.toLowerCase() === trimmedName)
+  return customCategories.some(c =>
+    c.name.toLowerCase() === trimmedName && c.id !== excludeId
+  )
 }
 
 export function getUsedColors(): string[] {
@@ -735,4 +737,32 @@ export function deleteCustomCategory(id: string): boolean {
   if (filtered.length === categories.length) return false
   saveToStorage(CUSTOM_CATEGORIES_KEY, filtered)
   return true
+}
+
+export function updateCustomCategory(
+  id: string,
+  updates: { name?: string; icon?: string }
+): CustomCategory | null {
+  const categories = getCustomCategories()
+  const index = categories.findIndex(c => c.id === id)
+  if (index === -1) return null
+
+  // Validate name uniqueness if name is being changed
+  if (updates.name) {
+    if (categoryNameExists(updates.name, id)) {
+      return null
+    }
+  }
+
+  // Apply updates
+  const updated: CustomCategory = {
+    ...categories[index],
+    ...(updates.name && { name: sanitizeText(updates.name) }),
+    ...(updates.icon && { icon: updates.icon }),
+  }
+
+  categories[index] = updated
+  saveToStorage(CUSTOM_CATEGORIES_KEY, categories)
+
+  return updated
 }
