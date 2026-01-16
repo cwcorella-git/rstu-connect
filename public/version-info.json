@@ -1,8 +1,8 @@
 {
-  "commit": "415001d5",
-  "message": "Add organization creation modal for custom categories",
+  "commit": "f2ad7a70",
+  "message": "Fix Crossroads/Battle Born Housing data mix-up",
   "author": "cwcorella-git",
-  "date": "2026-01-16 01:19:51 -0800",
+  "date": "2026-01-16 02:27:12 -0800",
   "branch": "main",
-  "buildTime": "2026-01-16T10:03:23.580Z"
+  "buildTime": "2026-01-16T10:31:57.985Z"
 }

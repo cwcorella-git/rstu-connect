@@ -37,6 +37,8 @@ import { AddCategoryModal, CUSTOM_ICON_MAP } from './AddCategoryModal'
 import { AddOrganizationModal } from './AddOrganizationModal'
 import { EditCategoryModal } from './EditCategoryModal'
 import { DeleteCategoryDialog } from './DeleteCategoryDialog'
+import { EditOrganizationModal } from './EditOrganizationModal'
+import { DeleteOrganizationDialog } from './DeleteOrganizationDialog'
 
 // Load seed data
 import externalResourcesData from '@/data/external-resources.json'
@@ -171,7 +173,13 @@ function CustomCategoryCard({
 }
 
 // Organization card for category detail view
-function OrganizationCard({ organization }: { organization: ExternalOrganization }) {
+interface OrganizationCardProps {
+  organization: ExternalOrganization
+  onEdit?: () => void
+  onDelete?: () => void
+}
+
+function OrganizationCard({ organization, onEdit, onDelete }: OrganizationCardProps) {
   const { t } = useLanguage()
   const { name, description, contacts, eligibility, serviceArea } = organization
 
@@ -196,7 +204,31 @@ function OrganizationCard({ organization }: { organization: ExternalOrganization
   return (
     <div className="bg-white rounded-lg border border-gray-200 p-5 hover:shadow-md transition-shadow">
       {/* Header */}
-      <h3 className="font-bold text-lg text-gray-900">{name}</h3>
+      <div className="flex items-start justify-between gap-2">
+        <h3 className="font-bold text-lg text-gray-900">{name}</h3>
+        {(onEdit || onDelete) && (
+          <div className="flex items-center gap-1 flex-shrink-0">
+            {onEdit && (
+              <button
+                onClick={onEdit}
+                className="p-1.5 text-gray-400 hover:text-gray-600 hover:bg-gray-100 rounded-lg transition-colors"
+                title={t('resources.editOrg')}
+              >
+                <PencilIcon className="w-4 h-4" />
+              </button>
+            )}
+            {onDelete && (
+              <button
+                onClick={onDelete}
+                className="p-1.5 text-gray-400 hover:text-red-600 hover:bg-red-50 rounded-lg transition-colors"
+                title={t('resources.deleteOrg')}
+              >
+                <TrashIcon className="w-4 h-4" />
+              </button>
+            )}
+          </div>
+        )}
+      </div>
 
       {/* Description - no line clamp, show full text */}
       <p className="text-gray-600 mt-2">{description}</p>
@@ -304,6 +336,9 @@ export function ResourcesPage() {
   const [showAddOrgModal, setShowAddOrgModal] = useState(false)
   const [showEditModal, setShowEditModal] = useState(false)
   const [showDeleteDialog, setShowDeleteDialog] = useState(false)
+  const [showEditOrgModal, setShowEditOrgModal] = useState(false)
+  const [showDeleteOrgDialog, setShowDeleteOrgDialog] = useState(false)
+  const [selectedOrg, setSelectedOrg] = useState<ExternalOrganization | null>(null)
 
   // Load organizations (from localStorage or seed data)
   useEffect(() => {
@@ -396,6 +431,34 @@ export function ResourcesPage() {
       setSelectedCustomCategory(null)
     }
     setShowDeleteDialog(false)
+  }
+
+  // Handle organization edit click
+  const handleEditOrg = (org: ExternalOrganization) => {
+    setSelectedOrg(org)
+    setShowEditOrgModal(true)
+  }
+
+  // Handle organization updated
+  const handleOrgUpdated = (updated: ExternalOrganization) => {
+    setOrganizations(prev => prev.map(o => o.id === updated.id ? updated : o))
+    setSelectedOrg(null)
+    setShowEditOrgModal(false)
+  }
+
+  // Handle organization delete click
+  const handleDeleteOrg = (org: ExternalOrganization) => {
+    setSelectedOrg(org)
+    setShowDeleteOrgDialog(true)
+  }
+
+  // Handle organization deleted
+  const handleOrgDeleted = () => {
+    if (selectedOrg) {
+      setOrganizations(prev => prev.filter(o => o.id !== selectedOrg.id))
+    }
+    setSelectedOrg(null)
+    setShowDeleteOrgDialog(false)
   }
 
   // Get organizations for custom category
@@ -527,7 +590,12 @@ export function ResourcesPage() {
               </div>
             ) : (
               customCategoryOrgs.map(org => (
-                <OrganizationCard key={org.id} organization={org} />
+                <OrganizationCard
+                  key={org.id}
+                  organization={org}
+                  onEdit={canAddCategory ? () => handleEditOrg(org) : undefined}
+                  onDelete={canAddCategory ? () => handleDeleteOrg(org) : undefined}
+                />
               ))
             )}
           </div>
@@ -562,6 +630,26 @@ export function ResourcesPage() {
             onClose={() => setShowDeleteDialog(false)}
             onDeleted={handleCategoryDeleted}
             category={selectedCustomCategory}
+          />
+        )}
+
+        {/* Edit Organization Modal */}
+        {showEditOrgModal && selectedOrg && (
+          <EditOrganizationModal
+            isOpen={showEditOrgModal}
+            onClose={() => { setShowEditOrgModal(false); setSelectedOrg(null); }}
+            onUpdated={handleOrgUpdated}
+            organization={selectedOrg}
+          />
+        )}
+
+        {/* Delete Organization Dialog */}
+        {showDeleteOrgDialog && selectedOrg && (
+          <DeleteOrganizationDialog
+            isOpen={showDeleteOrgDialog}
+            onClose={() => { setShowDeleteOrgDialog(false); setSelectedOrg(null); }}
+            onDeleted={handleOrgDeleted}
+            organization={selectedOrg}
           />
         )}
       </div>

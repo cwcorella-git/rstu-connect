@@ -976,6 +976,13 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.removeOrgsFirst': 'Remove all {count} organization(s) from this category first.',
     'resources.errorUpdatingCategory': 'Failed to update category. Please try again.',
     'resources.errorDeletingCategory': 'Failed to delete category. Please try again.',
+    'resources.editOrg': 'Edit Organization',
+    'resources.deleteOrg': 'Delete Organization',
+    'resources.editOrgTitle': 'Edit Organization',
+    'resources.deleteOrgTitle': 'Delete Organization?',
+    'resources.deleteOrgMessage': 'Are you sure you want to delete "{name}"? This cannot be undone.',
+    'resources.errorUpdatingOrg': 'Failed to update organization. Please try again.',
+    'resources.errorDeletingOrg': 'Failed to delete organization. Please try again.',
 
     // Common UI
     'ui.delete': 'Delete',
@@ -2570,6 +2577,13 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.removeOrgsFirst': 'Primero elimina todas las {count} organización(es) de esta categoría.',
     'resources.errorUpdatingCategory': 'Error al actualizar la categoría. Inténtalo de nuevo.',
     'resources.errorDeletingCategory': 'Error al eliminar la categoría. Inténtalo de nuevo.',
+    'resources.editOrg': 'Editar Organización',
+    'resources.deleteOrg': 'Eliminar Organización',
+    'resources.editOrgTitle': 'Editar Organización',
+    'resources.deleteOrgTitle': '¿Eliminar Organización?',
+    'resources.deleteOrgMessage': '¿Estás seguro de que quieres eliminar "{name}"? Esto no se puede deshacer.',
+    'resources.errorUpdatingOrg': 'Error al actualizar la organización. Inténtalo de nuevo.',
+    'resources.errorDeletingOrg': 'Error al eliminar la organización. Inténtalo de nuevo.',
 
     // Common UI (additional)
     'ui.delete': 'Eliminar',
@@ -4519,6 +4533,13 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.removeOrgsFirst': 'Alisin muna ang {count} organisasyon mula sa kategoryang ito.',
     'resources.errorUpdatingCategory': 'Hindi na-update ang kategorya. Subukan ulit.',
     'resources.errorDeletingCategory': 'Hindi nabura ang kategorya. Subukan ulit.',
+    'resources.editOrg': 'I-edit ang Organisasyon',
+    'resources.deleteOrg': 'Burahin ang Organisasyon',
+    'resources.editOrgTitle': 'I-edit ang Organisasyon',
+    'resources.deleteOrgTitle': 'Burahin ang Organisasyon?',
+    'resources.deleteOrgMessage': 'Sigurado ka bang gusto mong burahin ang "{name}"? Hindi na ito maibabalik.',
+    'resources.errorUpdatingOrg': 'Hindi na-update ang organisasyon. Subukan ulit.',
+    'resources.errorDeletingOrg': 'Hindi nabura ang organisasyon. Subukan ulit.',
 
     // Profile (additional)
     'profile.nickname': 'Palayaw',
@@ -6198,6 +6219,13 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.removeOrgsFirst': '请先从此类别中删除所有 {count} 个组织。',
     'resources.errorUpdatingCategory': '更新类别失败，请重试。',
     'resources.errorDeletingCategory': '删除类别失败，请重试。',
+    'resources.editOrg': '编辑组织',
+    'resources.deleteOrg': '删除组织',
+    'resources.editOrgTitle': '编辑组织',
+    'resources.deleteOrgTitle': '删除组织？',
+    'resources.deleteOrgMessage': '确定要删除"{name}"吗？此操作无法撤销。',
+    'resources.errorUpdatingOrg': '更新组织失败，请重试。',
+    'resources.errorDeletingOrg': '删除组织失败，请重试。',
 
     // Profile (additional)
     'profile.nickname': '昵称',
@@ -7734,6 +7762,13 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.removeOrgsFirst': 'Vui lòng xóa tất cả {count} tổ chức khỏi danh mục này trước.',
     'resources.errorUpdatingCategory': 'Không thể cập nhật danh mục. Vui lòng thử lại.',
     'resources.errorDeletingCategory': 'Không thể xóa danh mục. Vui lòng thử lại.',
+    'resources.editOrg': 'Chỉnh sửa Tổ chức',
+    'resources.deleteOrg': 'Xóa Tổ chức',
+    'resources.editOrgTitle': 'Chỉnh sửa Tổ chức',
+    'resources.deleteOrgTitle': 'Xóa Tổ chức?',
+    'resources.deleteOrgMessage': 'Bạn có chắc muốn xóa "{name}"? Không thể hoàn tác.',
+    'resources.errorUpdatingOrg': 'Không thể cập nhật tổ chức. Vui lòng thử lại.',
+    'resources.errorDeletingOrg': 'Không thể xóa tổ chức. Vui lòng thử lại.',
 
     // Profile (additional)
     'profile.building': 'Tòa nhà',
