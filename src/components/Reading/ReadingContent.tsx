@@ -9,6 +9,13 @@ import { trackActivity } from '@/lib/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
+// Strip YAML frontmatter from markdown content
+function stripFrontmatter(content: string): string {
+  // Match frontmatter at the start: ---\n...\n---
+  const frontmatterRegex = /^---\s*\n[\s\S]*?\n---\s*\n?/
+  return content.replace(frontmatterRegex, '').trim()
+}
+
 interface ReadingContentProps {
   document: ReadingDocument
   showBackButton?: boolean
@@ -34,7 +41,7 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
     // Check for edited version first
     const editedDoc = getDocumentEdit(document.id)
     if (editedDoc) {
-      setContent(editedDoc.content)
+      setContent(stripFrontmatter(editedDoc.content))
       setTitle(editedDoc.title)
       setIsEdited(true)
       setIsLoading(false)
@@ -56,7 +63,7 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
     fetch(`${basePath}/documents/${encodeURIComponent(document.category)}/${encodeURIComponent(document.filename)}`)
       .then(res => res.text())
       .then(text => {
-        setContent(text)
+        setContent(stripFrontmatter(text))
         setIsLoading(false)
 
         // Restore scroll position

@@ -983,6 +983,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.deleteOrgMessage': 'Are you sure you want to delete "{name}"? This cannot be undone.',
     'resources.errorUpdatingOrg': 'Failed to update organization. Please try again.',
     'resources.errorDeletingOrg': 'Failed to delete organization. Please try again.',
+    'resources.category': 'Category',
+    'resources.builtInCategories': 'Built-in Categories',
+    'resources.customCategories': 'Custom Categories',
+    'resources.categoryWillMove': 'Organization will be moved to this category',
 
     // Common UI
     'ui.delete': 'Delete',
@@ -2584,6 +2588,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.deleteOrgMessage': '¿Estás seguro de que quieres eliminar "{name}"? Esto no se puede deshacer.',
     'resources.errorUpdatingOrg': 'Error al actualizar la organización. Inténtalo de nuevo.',
     'resources.errorDeletingOrg': 'Error al eliminar la organización. Inténtalo de nuevo.',
+    'resources.category': 'Categoría',
+    'resources.builtInCategories': 'Categorías Integradas',
+    'resources.customCategories': 'Categorías Personalizadas',
+    'resources.categoryWillMove': 'La organización se moverá a esta categoría',
 
     // Common UI (additional)
     'ui.delete': 'Eliminar',
@@ -4540,6 +4548,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.deleteOrgMessage': 'Sigurado ka bang gusto mong burahin ang "{name}"? Hindi na ito maibabalik.',
     'resources.errorUpdatingOrg': 'Hindi na-update ang organisasyon. Subukan ulit.',
     'resources.errorDeletingOrg': 'Hindi nabura ang organisasyon. Subukan ulit.',
+    'resources.category': 'Kategorya',
+    'resources.builtInCategories': 'Mga Built-in na Kategorya',
+    'resources.customCategories': 'Mga Custom na Kategorya',
+    'resources.categoryWillMove': 'Ililipat ang organisasyon sa kategoryang ito',
 
     // Profile (additional)
     'profile.nickname': 'Palayaw',
@@ -6226,6 +6238,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.deleteOrgMessage': '确定要删除"{name}"吗？此操作无法撤销。',
     'resources.errorUpdatingOrg': '更新组织失败，请重试。',
     'resources.errorDeletingOrg': '删除组织失败，请重试。',
+    'resources.category': '类别',
+    'resources.builtInCategories': '内置类别',
+    'resources.customCategories': '自定义类别',
+    'resources.categoryWillMove': '组织将移至此类别',
 
     // Profile (additional)
     'profile.nickname': '昵称',
@@ -7769,6 +7785,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'resources.deleteOrgMessage': 'Bạn có chắc muốn xóa "{name}"? Không thể hoàn tác.',
     'resources.errorUpdatingOrg': 'Không thể cập nhật tổ chức. Vui lòng thử lại.',
     'resources.errorDeletingOrg': 'Không thể xóa tổ chức. Vui lòng thử lại.',
+    'resources.category': 'Danh mục',
+    'resources.builtInCategories': 'Danh mục Có sẵn',
+    'resources.customCategories': 'Danh mục Tùy chỉnh',
+    'resources.categoryWillMove': 'Tổ chức sẽ được chuyển sang danh mục này',
 
     // Profile (additional)
     'profile.building': 'Tòa nhà',

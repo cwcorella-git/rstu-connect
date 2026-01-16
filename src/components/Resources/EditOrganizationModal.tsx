@@ -5,8 +5,13 @@ import { XMarkIcon } from '@heroicons/react/24/outline'
 import { useLanguage } from '@/contexts/LanguageContext'
 import {
   updateExternalOrganization,
+  getCustomCategories,
+  isCustomCategory,
+  EXTERNAL_CATEGORY_LABELS,
   type ExternalOrganization,
   type OrganizationContact,
+  type ExternalResourceCategory,
+  type OrganizationCategory,
 } from '@/lib/organizationStorage'
 
 interface EditOrganizationModalProps {
@@ -34,6 +39,7 @@ export function EditOrganizationModal({
   // Form state - initialized from organization
   const [name, setName] = useState(organization.name)
   const [description, setDescription] = useState(organization.description)
+  const [category, setCategory] = useState<OrganizationCategory>(organization.category)
   const [phone, setPhone] = useState(getContactValue(organization.contacts, 'phone'))
   const [website, setWebsite] = useState(getContactValue(organization.contacts, 'website'))
   const [address, setAddress] = useState(getContactValue(organization.contacts, 'address'))
@@ -48,6 +54,7 @@ export function EditOrganizationModal({
     if (isOpen) {
       setName(organization.name)
       setDescription(organization.description)
+      setCategory(organization.category)
       setPhone(getContactValue(organization.contacts, 'phone'))
       setWebsite(getContactValue(organization.contacts, 'website'))
       setAddress(getContactValue(organization.contacts, 'address'))
@@ -74,10 +81,14 @@ export function EditOrganizationModal({
     }
   }, [isOpen, onClose])
 
+  // Get all available categories
+  const customCategories = getCustomCategories()
+
   // Check if there are changes
   const hasChanges =
     name.trim() !== organization.name ||
     description.trim() !== organization.description ||
+    category !== organization.category ||
     phone.trim() !== getContactValue(organization.contacts, 'phone') ||
     website.trim() !== getContactValue(organization.contacts, 'website') ||
     address.trim() !== getContactValue(organization.contacts, 'address') ||
@@ -112,6 +123,7 @@ export function EditOrganizationModal({
       const updated = updateExternalOrganization(organization.id, {
         name: name.trim(),
         description: description.trim(),
+        category,
         contacts,
         eligibility: eligibility.trim() || undefined,
         serviceArea: serviceArea.trim() || undefined,
@@ -196,6 +208,46 @@ export function EditOrganizationModal({
             <p className="mt-1 text-xs text-gray-500">
               {description.length}/500 {t('resources.characters')}
             </p>
+          </div>
+
+          {/* Category */}
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">
+              {t('resources.category')}
+            </label>
+            <select
+              value={category}
+              onChange={(e) => setCategory(e.target.value as OrganizationCategory)}
+              className="w-full px-3 py-2 border border-gray-300 rounded-lg
+                focus:ring-2 focus:ring-rstu-red focus:border-rstu-red
+                text-gray-900 bg-white"
+            >
+              {/* Built-in categories */}
+              <optgroup label={t('resources.builtInCategories')}>
+                {(Object.entries(EXTERNAL_CATEGORY_LABELS) as [ExternalResourceCategory, string][]).map(
+                  ([key, label]) => (
+                    <option key={key} value={key}>
+                      {label}
+                    </option>
+                  )
+                )}
+              </optgroup>
+              {/* Custom categories */}
+              {customCategories.length > 0 && (
+                <optgroup label={t('resources.customCategories')}>
+                  {customCategories.map((cat) => (
+                    <option key={cat.id} value={cat.id}>
+                      {cat.name}
+                    </option>
+                  ))}
+                </optgroup>
+              )}
+            </select>
+            {category !== organization.category && (
+              <p className="mt-1 text-xs text-amber-600">
+                {t('resources.categoryWillMove')}
+              </p>
+            )}
           </div>
 
           {/* Contact Info Section */}

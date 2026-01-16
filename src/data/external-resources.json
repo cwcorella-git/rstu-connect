@@ -123,12 +123,12 @@
     {
       "id": "ext-voa-cares",
       "type": "external",
-      "name": "Volunteers of America Cares Campus",
-      "description": "Emergency shelter providing beds, meals, and support services for adults experiencing homelessness. Nevada's largest homeless services campus.",
+      "name": "Volunteers of America Nevada CARES Campus",
+      "description": "Emergency shelter for up to 600 adults experiencing homelessness. Clients can bring partners, pets, and possessions. Provides support services, case management, housing navigation, mental health counseling, and meals.",
       "category": "shelter",
       "contacts": [
-        { "type": "phone", "value": "(775) 324-2622", "label": "Main Line" },
-        { "type": "website", "value": "https://www.voa-ncnn.org/reno-emergency-shelter" },
+        { "type": "phone", "value": "(775) 329-4141" },
+        { "type": "website", "value": "https://www.voa-ncnn.org/locations/nevada-cares-campus/" },
         { "type": "address", "value": "1800 Threlkel St, Reno, NV 89512" }
       ],
       "serviceArea": "Washoe County",
@@ -177,7 +177,7 @@
       "contacts": [
         { "type": "phone", "value": "(775) 786-4673", "label": "HOPES Main" },
         { "type": "website", "value": "https://www.nnhopes.org/hopesprings/" },
-        { "type": "address", "value": "580 W 5th St, Reno, NV 89503" }
+        { "type": "address", "value": "1920 E 4th St, Reno, NV 89512" }
       ],
       "serviceArea": "Washoe County",
       "eligibility": "Adults experiencing homelessness (30-60 annually)",
@@ -234,9 +234,9 @@
       "description": "Housing and support services for youth ages 16-24 aging out of foster care or experiencing homelessness. Provides apartments and life skills training.",
       "category": "shelter",
       "contacts": [
-        { "type": "phone", "value": "(775) 337-4511" },
+        { "type": "phone", "value": "(775) 747-2073" },
         { "type": "website", "value": "https://nyep.org" },
-        { "type": "address", "value": "11780 Faland Way, Reno, NV 89506" }
+        { "type": "address", "value": "1369 Faland Way, Reno, NV 89503" }
       ],
       "serviceArea": "Northern Nevada",
       "eligibility": "Youth ages 16-24",
@@ -246,10 +246,10 @@
       "id": "ext-karma-box",
       "type": "external",
       "name": "Karma Box Project",
-      "description": "Nonprofit providing hope and opportunity for people experiencing homelessness. Helps clients obtain permanent housing, increase income, improve health, and regain stability and self-sufficiency through projects, programming, and community engagement.",
+      "description": "Nonprofit providing hope and opportunity for people experiencing homelessness. Helps clients obtain permanent housing, increase income, improve health, and regain stability and self-sufficiency through projects, programming, and community engagement. Founded by Grant Denton in 2018.",
       "category": "housing_services",
       "contacts": [
-        { "type": "phone", "value": "(702) 980-0347" },
+        { "type": "email", "value": "Grantadenton@gmail.com" },
         { "type": "website", "value": "https://www.karmaboxproject.org/" },
         { "type": "address", "value": "100 N Arlington Ave Suite 250, Reno, NV 89501" }
       ],
@@ -274,12 +274,14 @@
       "id": "ext-life-change-center",
       "type": "external",
       "name": "The Life Change Center",
-      "description": "Residential and outpatient treatment programs for substance use disorders. Provides housing during recovery.",
+      "description": "Residential and outpatient treatment programs for substance use disorders. Multiple locations in Reno, Sparks, and Carson City.",
       "category": "housing_services",
       "contacts": [
-        { "type": "phone", "value": "(775) 322-4700" },
+        { "type": "phone", "value": "(775) 900-8522", "label": "Reno" },
+        { "type": "phone", "value": "1 (833) 438-8522", "label": "Main" },
+        { "type": "email", "value": "info@thelifechangecenter.org" },
         { "type": "website", "value": "https://www.thelifechangecenter.org/" },
-        { "type": "address", "value": "2750 S Virginia St, Reno, NV 89502" }
+        { "type": "address", "value": "130 Vine St, Reno, NV 89503" }
       ],
       "serviceArea": "Northern Nevada",
       "verified": true
@@ -334,10 +336,11 @@
       "description": "Free legal assistance for low-income Nevadans in civil matters including housing, family law, and public benefits.",
       "category": "legal_aid",
       "contacts": [
+        { "type": "hours", "value": "Mon-Thu 8am-4pm, Fri 8am-12pm (walk-ins 30 min before close)" },
         { "type": "phone", "value": "(775) 284-3491", "label": "Reno Office" },
         { "type": "phone", "value": "(800) 323-8666", "label": "Statewide" },
         { "type": "website", "value": "https://nevadalegalservices.org" },
-        { "type": "address", "value": "204 Marsh Ave, Reno, NV 89509" }
+        { "type": "address", "value": "449 S Virginia St, 3rd Floor, Reno, NV 89501" }
       ],
       "serviceArea": "Statewide",
       "eligibility": "Income-based (below 200% FPL)",
@@ -350,9 +353,9 @@
       "description": "Legal assistance for tenants facing eviction, housing discrimination, and landlord-tenant disputes.",
       "category": "legal_aid",
       "contacts": [
-        { "type": "phone", "value": "(775) 337-5757" },
+        { "type": "phone", "value": "(775) 329-2727" },
         { "type": "website", "value": "https://www.nnlegalaid.org/" },
-        { "type": "address", "value": "299 S Arlington Ave, Reno, NV 89501" }
+        { "type": "address", "value": "401 Ryland St, Suite 100, Reno, NV 89502" }
       ],
       "serviceArea": "Northern Nevada",
       "eligibility": "Income-based",
@@ -397,7 +400,7 @@
       "contacts": [
         { "type": "phone", "value": "(775) 329-6300" },
         { "type": "website", "value": "https://www.chanevada.org/" },
-        { "type": "address", "value": "330 Crampton St, Reno, NV 89502" }
+        { "type": "address", "value": "680 S Rock Blvd, Reno, NV 89502" }
       ],
       "serviceArea": "Northern Nevada",
       "eligibility": "Uninsured/underinsured",
@@ -451,25 +454,26 @@
       "id": "ext-nevada-urban-indians",
       "type": "external",
       "name": "Nevada Urban Indians",
-      "description": "Health and social services for urban Native Americans including medical care, behavioral health, and community programs.",
+      "description": "Health and social services for urban Native Americans including medical care, behavioral health, and community programs. Services available to all populations regardless of insurance, with discounted rates based on income.",
       "category": "health_services",
       "contacts": [
+        { "type": "hours", "value": "Mon-Fri 8:00 AM - 4:30 PM" },
         { "type": "phone", "value": "(775) 788-7600" },
-        { "type": "website", "value": "https://www.nevadaurbanindians.org/departments" },
-        { "type": "address", "value": "3175 Gateway Dr, Reno, NV 89431" }
+        { "type": "website", "value": "https://www.nevadaurbanindians.org" },
+        { "type": "address", "value": "9480 Gateway Dr, Suite 100, Reno, NV 89521" }
       ],
       "serviceArea": "Northern Nevada",
-      "eligibility": "Native American individuals and families",
+      "eligibility": "Native American individuals and families (all populations welcome)",
       "verified": true
     },
     {
       "id": "ext-va-homeless-care",
       "type": "external",
       "name": "VA Homeless Veteran Care",
-      "description": "Health care, housing assistance, and support services for veterans experiencing or at risk of homelessness.",
+      "description": "Health care, housing assistance, and support services for veterans experiencing or at risk of homelessness. Provides immediate food and shelter, transitional and permanent housing, job training, and mental health treatment.",
       "category": "health_services",
       "contacts": [
-        { "type": "phone", "value": "(775) 786-7200" },
+        { "type": "phone", "value": "(775) 324-6600" },
         { "type": "website", "value": "https://www.va.gov/sierra-nevada-health-care/health-services/homeless-veteran-care/" },
         { "type": "address", "value": "350 Capitol Hill Ave, Reno, NV 89502" }
       ],
@@ -703,7 +707,8 @@
       "category": "faith",
       "contacts": [
         { "type": "phone", "value": "(775) 329-0696" },
-        { "type": "website", "value": "https://goodshepherdreno.com" },
+        { "type": "email", "value": "staff@goodshepherdreno.org" },
+        { "type": "website", "value": "https://www.goodshepherdreno.org" },
         { "type": "address", "value": "357 Clay St, Reno, NV 89501" }
       ],
       "serviceArea": "Reno",
@@ -714,12 +719,12 @@
       "id": "ext-st-thomas-aquinas",
       "type": "external",
       "name": "St. Thomas Aquinas Cathedral",
-      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. Catholic cathedral in downtown Reno.",
+      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. Catholic cathedral in downtown Reno, mother church of the Diocese of Reno.",
       "category": "faith",
       "contacts": [
-        { "type": "phone", "value": "(775) 329-8547" },
-        { "type": "website", "value": "https://stacathedralreno.org" },
-        { "type": "address", "value": "310 W 2nd St, Reno, NV 89501" }
+        { "type": "phone", "value": "(775) 329-2571" },
+        { "type": "website", "value": "https://stacathedral.com" },
+        { "type": "address", "value": "310 W 2nd St, Reno, NV 89503" }
       ],
       "serviceArea": "Reno",
       "eligibility": "Good Neighbors warming center participant",
@@ -729,12 +734,12 @@
       "id": "ext-first-united-methodist",
       "type": "external",
       "name": "First United Methodist Church",
-      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. Historic downtown church with community outreach programs.",
+      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. Historic downtown church founded 1868, listed on National Register of Historic Places.",
       "category": "faith",
       "contacts": [
-        { "type": "phone", "value": "(775) 322-4297" },
-        { "type": "website", "value": "https://fumcreno.org" },
-        { "type": "address", "value": "201 W 1st St, Reno, NV 89501" }
+        { "type": "phone", "value": "(775) 322-4564" },
+        { "type": "website", "value": "https://renofirst.church" },
+        { "type": "address", "value": "209 W 1st St, Reno, NV 89501" }
       ],
       "serviceArea": "Reno",
       "eligibility": "Good Neighbors warming center participant",
@@ -758,17 +763,19 @@
       "id": "ext-noah-animal-house",
       "type": "external",
       "name": "Noah's Animal House",
-      "description": "Pet boarding services for domestic violence shelter residents. Allows survivors to keep their pets safe while in shelter.",
+      "description": "Full-service pet facility on domestic violence shelter grounds. Allows survivors to keep their pets safe while in shelter. Reno location opened 2018 in partnership with Domestic Violence Resource Center.",
       "category": "pet_services",
       "contacts": [
-        { "type": "phone", "value": "(775) 746-7547" },
-        { "type": "website", "value": "https://noahsanimalhouse.org/" }
+        { "type": "phone", "value": "(775) 384-9460" },
+        { "type": "email", "value": "noahsanimalhouse@gmail.com" },
+        { "type": "website", "value": "https://noahsanimalhouse.org/" },
+        { "type": "address", "value": "316 California Ave #314, Reno, NV 89509" }
       ],
       "serviceArea": "Washoe County",
       "eligibility": "DV shelter residents",
       "verified": true
     }
   ],
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-01-16",
   "source": "Curated from linktr.ee/renounhoused, community knowledge, and local resource directories"
 }

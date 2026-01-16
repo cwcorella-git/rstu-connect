@@ -1,8 +1,8 @@
 {
-  "commit": "4265d72f",
-  "message": "Add edit and delete functionality for organizations",
+  "commit": "602c4005",
+  "message": "Enable edit/delete for organizations in built-in categories",
   "author": "cwcorella-git",
-  "date": "2026-01-16 02:32:53 -0800",
+  "date": "2026-01-16 02:41:20 -0800",
   "branch": "main",
-  "buildTime": "2026-01-16T10:40:24.050Z"
+  "buildTime": "2026-01-16T10:50:00.860Z"
 }
