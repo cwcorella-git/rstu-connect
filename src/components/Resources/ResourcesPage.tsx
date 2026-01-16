@@ -75,12 +75,12 @@ function getCategoryIcon(category: ExternalResourceCategory) {
   const iconClass = 'w-8 h-8'
   switch (category) {
     case 'food':
-      // Bowl/plate icon for food
+      // Fork and spoon icon (Lucide utensils style)
       return (
-        <svg className={iconClass} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6c-4.97 0-9 2.69-9 6h18c0-3.31-4.03-6-9-6z" />
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5 12c0 3.31 3.13 6 7 6s7-2.69 7-6" />
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 3v3M9 4.5l1 2M15 4.5l-1 2" />
+        <svg className={iconClass} fill="none" stroke="currentColor" strokeWidth={1.5} strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
+          <path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2" />
+          <path d="M7 2v20" />
+          <path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3zm0 0v7" />
         </svg>
       )
     case 'shelter':
@@ -108,25 +108,17 @@ function getCategoryIcon(category: ExternalResourceCategory) {
     case 'employment_training':
       return <BriefcaseIcon className={iconClass} />
     case 'childcare':
-      // Parent and child icon
-      return (
-        <svg className={iconClass} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <circle cx="9" cy="5" r="2.5" strokeWidth={1.5} />
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5 21v-3a4 4 0 014-4h0a4 4 0 014 4v3" />
-          <circle cx="17" cy="9" r="2" strokeWidth={1.5} />
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14 21v-2a3 3 0 013-3h0a3 3 0 013 3v2" />
-        </svg>
-      )
+      return <AcademicCapIcon className={iconClass} />
     case 'transportation':
       return <TruckIcon className={iconClass} />
     case 'disability_services':
-      // Wheelchair accessibility icon
+      // Accessibility wheelchair icon (standard symbol)
       return (
-        <svg className={iconClass} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <circle cx="11" cy="5" r="2" strokeWidth={1.5} />
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 8v4H8" />
-          <circle cx="8" cy="17" r="3" strokeWidth={1.5} />
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 12h4l2 6h2" />
+        <svg className={iconClass} fill="none" stroke="currentColor" strokeWidth={1.5} strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
+          <circle cx="16" cy="4" r="1.5" />
+          <path d="M18 19a4 4 0 1 1-7.5-2" />
+          <path d="M12 12V8.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5V12h2l1.5 5H21" />
+          <path d="M7.5 12H12" />
         </svg>
       )
     case 'lgbtq_services':
