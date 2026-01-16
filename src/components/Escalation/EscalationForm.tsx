@@ -2,6 +2,19 @@
 
 import { useState } from 'react'
 import {
+  HomeIcon,
+  DocumentTextIcon,
+  ExclamationTriangleIcon,
+  ShieldExclamationIcon,
+  BanknotesIcon,
+  ScaleIcon,
+  KeyIcon,
+  CurrencyDollarIcon,
+  BoltIcon,
+  LockClosedIcon,
+  EllipsisHorizontalCircleIcon,
+} from '@heroicons/react/24/outline'
+import {
   type IssueCategory,
   type IssueSeverity,
   createCase,
@@ -15,41 +28,71 @@ interface EscalationFormProps {
   onCancel: () => void
 }
 
-const categoryOptions: { value: IssueCategory; label: string; icon: string; examples: string }[] = [
+const categoryOptions: { value: IssueCategory; label: string; icon: React.ComponentType<{ className?: string }>; examples: string }[] = [
   {
     value: 'habitability',
     label: 'Habitability',
-    icon: '🏠',
+    icon: HomeIcon,
     examples: 'Broken heating, plumbing, pests, mold, safety hazards',
   },
   {
     value: 'lease',
     label: 'Lease Violation',
-    icon: '📄',
+    icon: DocumentTextIcon,
     examples: 'Landlord violating lease terms, illegal entry, service cuts',
   },
   {
     value: 'harassment',
     label: 'Harassment',
-    icon: '⚠️',
+    icon: ExclamationTriangleIcon,
     examples: 'Threats, intimidation, discrimination, privacy violations',
   },
   {
     value: 'retaliation',
     label: 'Retaliation',
-    icon: '🚨',
+    icon: ShieldExclamationIcon,
     examples: 'Eviction threats after complaints, rent increases after organizing',
   },
   {
     value: 'rent',
     label: 'Rent Issues',
-    icon: '💰',
-    examples: 'Unfair increases, illegal fees, security deposit issues',
+    icon: BanknotesIcon,
+    examples: 'Unfair increases, illegal fees, sudden changes',
+  },
+  {
+    value: 'discrimination',
+    label: 'Discrimination',
+    icon: ScaleIcon,
+    examples: 'Protected class discrimination, refusal to rent, different lease terms',
+  },
+  {
+    value: 'illegal_entry',
+    label: 'Illegal Entry',
+    icon: KeyIcon,
+    examples: 'Entering without 24-hour notice, entering without permission',
+  },
+  {
+    value: 'security_deposit',
+    label: 'Security Deposit',
+    icon: CurrencyDollarIcon,
+    examples: 'Failure to return deposit, wrongful deductions, no itemized list',
+  },
+  {
+    value: 'utilities',
+    label: 'Utility Issues',
+    icon: BoltIcon,
+    examples: 'Illegal shutoffs, failure to maintain landlord-controlled utilities',
+  },
+  {
+    value: 'eviction',
+    label: 'Eviction / Lockout',
+    icon: LockClosedIcon,
+    examples: 'Illegal lockout, self-help eviction, improper eviction notice',
   },
   {
     value: 'other',
     label: 'Other',
-    icon: '📋',
+    icon: EllipsisHorizontalCircleIcon,
     examples: 'Any other issue affecting tenants',
   },
 ]
@@ -175,8 +218,9 @@ export function EscalationForm({
                     className="mt-1"
                   />
                   <div className="flex-1">
-                    <p className="font-medium">
-                      {opt.icon} {opt.label}
+                    <p className="font-medium flex items-center gap-2">
+                      <opt.icon className="w-5 h-5" />
+                      {opt.label}
                     </p>
                     <p className="text-sm text-gray-500">{opt.examples}</p>
                   </div>

@@ -20,11 +20,16 @@ export type EscalationStage =
   | 'resolved'     // Issue concluded
 
 export type IssueCategory =
-  | 'habitability'  // Repairs, safety, health issues
-  | 'lease'         // Lease violations by landlord
-  | 'harassment'    // Landlord harassment
-  | 'retaliation'   // Retaliation for organizing
-  | 'rent'          // Rent increases, fees
+  | 'habitability'      // Repairs, safety, health issues
+  | 'lease'             // Lease violations by landlord
+  | 'harassment'        // Landlord harassment
+  | 'retaliation'       // Retaliation for organizing
+  | 'rent'              // Rent increases, fees
+  | 'discrimination'    // Fair Housing Act violations
+  | 'illegal_entry'     // Entering without notice (NRS 118A.330)
+  | 'security_deposit'  // Deposit issues (NRS 118A.242)
+  | 'utilities'         // Utility shutoffs (NRS 118A.390)
+  | 'eviction'          // Illegal lockout/eviction (NRS 118A.480)
   | 'other'
 
 export type IssueSeverity = 'minor' | 'moderate' | 'serious' | 'emergency'
@@ -864,6 +869,34 @@ function getSuggestionByCategory(category: IssueCategory): SuggestedAction {
       reason: 'Rent issues often require organized tenant response',
       actionType: 'start_strike',
     },
+    discrimination: {
+      action: 'File Fair Housing complaint',
+      reason: 'Discrimination violates Fair Housing Act - file complaint with HUD',
+      urgent: true,
+      actionType: 'contact_legal',
+    },
+    illegal_entry: {
+      action: 'Document and send written notice',
+      reason: 'Nevada law requires 24-hour notice (NRS 118A.330)',
+      actionType: 'advance_stage',
+    },
+    security_deposit: {
+      action: 'Send demand letter for deposit',
+      reason: 'Landlord must return deposit within 30 days (NRS 118A.242)',
+      actionType: 'advance_stage',
+    },
+    utilities: {
+      action: 'File code enforcement complaint',
+      reason: 'Utility shutoffs for rent non-payment may be illegal',
+      urgent: true,
+      actionType: 'file_complaint',
+    },
+    eviction: {
+      action: 'Contact legal aid immediately',
+      reason: 'Illegal lockouts/self-help evictions require urgent legal protection',
+      urgent: true,
+      actionType: 'contact_legal',
+    },
     other: {
       action: 'Evaluate escalation options',
       reason: 'Consider code enforcement, legal aid, or collective action',
@@ -1029,7 +1062,9 @@ export function getBuildingHistory(buildingId: string): BuildingHistory {
 
   // Count common categories
   const categoryCounts: Record<IssueCategory, number> = {
-    habitability: 0, lease: 0, harassment: 0, retaliation: 0, rent: 0, other: 0
+    habitability: 0, lease: 0, harassment: 0, retaliation: 0, rent: 0,
+    discrimination: 0, illegal_entry: 0, security_deposit: 0, utilities: 0, eviction: 0,
+    other: 0
   }
   for (const c of cases) {
     categoryCounts[c.category]++

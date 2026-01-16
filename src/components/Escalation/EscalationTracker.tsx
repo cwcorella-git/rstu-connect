@@ -2,6 +2,19 @@
 
 import { useState, useEffect } from 'react'
 import {
+  HomeIcon,
+  DocumentTextIcon,
+  ExclamationTriangleIcon,
+  ShieldExclamationIcon,
+  BanknotesIcon,
+  ScaleIcon,
+  KeyIcon,
+  CurrencyDollarIcon,
+  BoltIcon,
+  LockClosedIcon,
+  EllipsisHorizontalCircleIcon,
+} from '@heroicons/react/24/outline'
+import {
   type EscalationCase,
   type EscalationStage,
   getActiveCases,
@@ -43,13 +56,18 @@ const severityColors: Record<string, string> = {
   emergency: 'text-red-600',
 }
 
-const categoryIcons: Record<string, string> = {
-  habitability: '🏠',
-  lease: '📄',
-  harassment: '⚠️',
-  retaliation: '🚨',
-  rent: '💰',
-  other: '📋',
+const categoryIcons: Record<string, React.ComponentType<{ className?: string }>> = {
+  habitability: HomeIcon,
+  lease: DocumentTextIcon,
+  harassment: ExclamationTriangleIcon,
+  retaliation: ShieldExclamationIcon,
+  rent: BanknotesIcon,
+  discrimination: ScaleIcon,
+  illegal_entry: KeyIcon,
+  security_deposit: CurrencyDollarIcon,
+  utilities: BoltIcon,
+  eviction: LockClosedIcon,
+  other: EllipsisHorizontalCircleIcon,
 }
 
 export function EscalationTracker({
@@ -167,7 +185,7 @@ export function EscalationTracker({
       <div className="divide-y divide-gray-100 max-h-[500px] overflow-y-auto">
         {cases.length === 0 ? (
           <div className="p-8 text-center text-gray-500">
-            <p className="text-4xl mb-2">🏠</p>
+            <HomeIcon className="w-12 h-12 mx-auto mb-2" />
             <p className="font-medium">No escalation cases yet</p>
             <p className="text-sm mt-1">Report an issue to start tracking</p>
           </div>
@@ -187,8 +205,11 @@ export function EscalationTracker({
               >
                 <div className="flex items-start gap-3">
                   {/* Category Icon */}
-                  <div className="text-2xl flex-shrink-0">
-                    {categoryIcons[caseData.category] || '📋'}
+                  <div className="flex-shrink-0 text-gray-500">
+                    {(() => {
+                      const IconComponent = categoryIcons[caseData.category] || EllipsisHorizontalCircleIcon
+                      return <IconComponent className="w-6 h-6" />
+                    })()}
                   </div>
 
                   {/* Main Content */}

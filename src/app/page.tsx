@@ -127,7 +127,7 @@ export default function Home() {
 
   // Reading tab state - merge manifest with localStorage edits
   const [allDocuments, setAllDocuments] = useState<ReadingDocument[]>(() => {
-    const manifestDocs = readingManifest.documents as ReadingDocument[];
+    const manifestDocs = (readingManifest as { documents: ReadingDocument[] }).documents;
     // Initial state - will be updated in useEffect after mount
     return manifestDocs;
   });
@@ -171,7 +171,7 @@ export default function Home() {
 
   // Function to merge document edits from localStorage
   const mergeDocumentEdits = () => {
-    const manifestDocs = readingManifest.documents as ReadingDocument[];
+    const manifestDocs = (readingManifest as { documents: ReadingDocument[] }).documents;
     const edits = getDocumentEdits();
 
     // Merge edits into documents

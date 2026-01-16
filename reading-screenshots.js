@@ -6,58 +6,35 @@ const { chromium } = require('playwright');
   
   try {
     await page.goto('http://localhost:3000/rstu-connect');
-    await page.waitForTimeout(3000);
+    await page.waitForTimeout(4000);
     
-    // Click "Enter" or similar to get past landing
-    const enterBtn = await page.locator('button:has-text("Enter"), button:has-text("Start"), button:has-text("Continue")').first();
-    if (await enterBtn.count() > 0) {
-      await enterBtn.click();
+    await page.screenshot({ path: '/tmp/s1-landing.png' });
+    console.log('Screenshot 1: Landing');
+    
+    // Click "I Rent" button on landing page
+    const iRentBtn = await page.locator('button:has-text("I Rent")').first();
+    if (await iRentBtn.count() > 0) {
+      await iRentBtn.click();
       await page.waitForTimeout(2000);
     }
     
-    // Go to Reading
-    await page.locator('button:has-text("Reading")').first().click();
+    await page.screenshot({ path: '/tmp/s2-after-irent.png' });
+    console.log('Screenshot 2: After I Rent');
+    
+    // Try clicking Reading in the nav
+    await page.click('text=Reading', { timeout: 5000 }).catch(() => {});
     await page.waitForTimeout(2000);
     
-    // Expand Housing category
-    await page.locator('button:has-text("Housing")').first().click();
-    await page.waitForTimeout(1000);
+    await page.screenshot({ path: '/tmp/s3-reading.png' });
+    console.log('Screenshot 3: Reading');
     
-    // Click on first housing document
-    const housingDocs = await page.locator('button').filter({ hasText: /tenant|rent|eviction|lease/i });
-    if (await housingDocs.count() > 0) {
-      await housingDocs.first().click();
+    // Click on any document that looks like it has content
+    const docBtns = await page.locator('button[class*="text-left"]');
+    if (await docBtns.count() > 0) {
+      await docBtns.first().click();
       await page.waitForTimeout(2000);
-      
-      // Scroll through document
-      await page.screenshot({ path: '/tmp/doc-top.png' });
-      console.log('Screenshot: Doc top');
-      
-      // Scroll to middle of content area
-      await page.evaluate(() => {
-        const containers = document.querySelectorAll('.overflow-y-auto');
-        containers.forEach(c => {
-          if (c.scrollHeight > c.clientHeight) {
-            c.scrollTop = c.scrollHeight * 0.4;
-          }
-        });
-      });
-      await page.waitForTimeout(500);
-      await page.screenshot({ path: '/tmp/doc-middle.png' });
-      console.log('Screenshot: Doc middle');
-      
-      // Scroll more
-      await page.evaluate(() => {
-        const containers = document.querySelectorAll('.overflow-y-auto');
-        containers.forEach(c => {
-          if (c.scrollHeight > c.clientHeight) {
-            c.scrollTop = c.scrollHeight * 0.8;
-          }
-        });
-      });
-      await page.waitForTimeout(500);
-      await page.screenshot({ path: '/tmp/doc-bottom.png' });
-      console.log('Screenshot: Doc bottom');
+      await page.screenshot({ path: '/tmp/s4-document.png' });
+      console.log('Screenshot 4: Document');
     }
     
   } catch (e) {
