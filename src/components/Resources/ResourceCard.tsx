@@ -25,6 +25,14 @@ const CATEGORY_COLORS: Record<ExternalResourceCategory, string> = {
   mutual_aid: 'bg-pink-100 text-pink-800',
   faith: 'bg-indigo-100 text-indigo-800',
   pet_services: 'bg-cyan-100 text-cyan-800',
+  crisis_mental_health: 'bg-violet-100 text-violet-800',
+  senior_services: 'bg-rose-100 text-rose-800',
+  employment_training: 'bg-lime-100 text-lime-800',
+  childcare: 'bg-sky-100 text-sky-800',
+  transportation: 'bg-fuchsia-100 text-fuchsia-800',
+  disability_services: 'bg-emerald-100 text-emerald-800',
+  lgbtq_services: 'bg-gradient-to-r from-red-100 via-yellow-100 to-blue-100 text-purple-800',
+  reentry_services: 'bg-stone-100 text-stone-800',
   other: 'bg-gray-100 text-gray-800',
 }
 

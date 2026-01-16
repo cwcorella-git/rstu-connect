@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import { ExclamationTriangleIcon } from '@heroicons/react/24/outline'
 import {
   type EscalationCase,
   getActiveCases,
@@ -287,7 +288,7 @@ export function StrikeEscalationPanel({
             {landlordPattern.retaliationRate > 0 && (
               <div className="col-span-2">
                 <span className="text-red-600 font-medium">
-                  ⚠️ {Math.round(landlordPattern.retaliationRate * 100)}% retaliation rate
+<ExclamationTriangleIcon className="w-4 h-4 inline mr-1" />{Math.round(landlordPattern.retaliationRate * 100)}% retaliation rate
                 </span>
               </div>
             )}

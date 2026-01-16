@@ -2,6 +2,25 @@
 
 import { useState } from 'react'
 import {
+  CheckIcon,
+  ExclamationCircleIcon,
+  ArrowRightIcon,
+  HomeIcon,
+  UserIcon,
+  ClockIcon,
+  ExclamationTriangleIcon,
+  MapPinIcon,
+  BuildingLibraryIcon,
+  ScaleIcon,
+  HandRaisedIcon,
+  MegaphoneIcon,
+  CameraIcon,
+  DocumentTextIcon,
+  VideoCameraIcon,
+  DocumentIcon,
+  PaperClipIcon,
+} from '@heroicons/react/24/outline'
+import {
   type EscalationCase,
   type EscalationStage,
   type DeliveryMethod,
@@ -164,7 +183,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                   isCurrent ? 'bg-blue-600 text-white' :
                   'bg-gray-200 text-gray-500'
                 }`}>
-                  {isComplete ? '✓' : index + 1}
+                  {isComplete ? <CheckIcon className="w-4 h-4" /> : index + 1}
                 </div>
                 {index < stageOrder.length - 1 && (
                   <div className={`w-8 h-1 ${
@@ -195,7 +214,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                 deadline.daysUntil <= 3 ? 'text-yellow-700' :
                 'text-blue-700'
               }`}>
-                ⏱️ Deadline: {deadline.date}
+<ClockIcon className="w-4 h-4 inline mr-1" />Deadline: {deadline.date}
               </span>
               <span className="text-sm ml-2 text-gray-600">({deadline.label})</span>
             </div>
@@ -212,8 +231,8 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
         }`}>
           {/* Main suggestion */}
           <div className="flex items-start gap-2">
-            <span className={`text-lg ${suggestion.urgent ? 'animate-pulse' : ''}`}>
-              {suggestion.urgent ? '🚨' : suggestion.confidence === 'high' ? '✓' : '→'}
+            <span className={`${suggestion.urgent ? 'animate-pulse' : ''}`}>
+              {suggestion.urgent ? <ExclamationCircleIcon className="w-5 h-5 text-red-600" /> : suggestion.confidence === 'high' ? <CheckIcon className="w-5 h-5 text-green-600" /> : <ArrowRightIcon className="w-5 h-5 text-blue-600" />}
             </span>
             <div className="flex-1">
               <p className={`text-sm font-medium ${
@@ -244,13 +263,13 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                 <div className="mt-2 text-xs text-gray-500">
                   <span className="font-medium">Based on: </span>
                   {suggestion.basedOn.slice(0, 3).map((source, i) => (
-                    <span key={i}>
+                    <span key={i} className="inline-flex items-center gap-0.5">
                       {i > 0 && ' • '}
-                      {source.type === 'building_history' && `🏠 ${source.detail}`}
-                      {source.type === 'landlord_pattern' && `👤 ${source.detail}`}
-                      {source.type === 'time' && `⏱️ ${source.detail}`}
-                      {source.type === 'severity' && `⚠️ ${source.detail}`}
-                      {source.type === 'stage' && source.detail !== `Current stage: ${caseData.stage}` && `📍 ${source.detail}`}
+                      {source.type === 'building_history' && <><HomeIcon className="w-3 h-3 inline" /> {source.detail}</>}
+                      {source.type === 'landlord_pattern' && <><UserIcon className="w-3 h-3 inline" /> {source.detail}</>}
+                      {source.type === 'time' && <><ClockIcon className="w-3 h-3 inline" /> {source.detail}</>}
+                      {source.type === 'severity' && <><ExclamationTriangleIcon className="w-3 h-3 inline" /> {source.detail}</>}
+                      {source.type === 'stage' && source.detail !== `Current stage: ${caseData.stage}` && <><MapPinIcon className="w-3 h-3 inline" /> {source.detail}</>}
                     </span>
                   )).filter(Boolean)}
                 </div>
@@ -283,19 +302,19 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
         <div className="px-4 py-2 bg-gray-50 border-b border-gray-100 flex-shrink-0">
           <div className="flex flex-wrap gap-3 text-xs">
             {buildingHistory.totalCases > 0 && (
-              <span className="text-gray-600">
-                🏠 Building: {buildingHistory.victories}/{buildingHistory.totalCases} wins
+              <span className="text-gray-600 inline-flex items-center gap-1">
+                <HomeIcon className="w-3 h-3" /> Building: {buildingHistory.victories}/{buildingHistory.totalCases} wins
                 {buildingHistory.winRate > 0 && ` (${Math.round(buildingHistory.winRate * 100)}%)`}
               </span>
             )}
             {landlordPattern.totalCases > 0 && landlordPattern.typicalBehavior !== 'unknown' && (
-              <span className={`${
+              <span className={`inline-flex items-center gap-1 ${
                 landlordPattern.typicalBehavior === 'hostile' ? 'text-red-600' :
                 landlordPattern.typicalBehavior === 'ignores_until_pressure' ? 'text-orange-600' :
                 landlordPattern.typicalBehavior === 'slow' ? 'text-yellow-600' :
                 'text-green-600'
               }`}>
-                👤 Landlord: {landlordPattern.typicalBehavior.replace(/_/g, ' ')}
+                <UserIcon className="w-3 h-3" /> Landlord: {landlordPattern.typicalBehavior.replace(/_/g, ' ')}
               </span>
             )}
           </div>
@@ -409,11 +428,11 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                     <div className="space-y-2">
                       {caseData.escalationPaths.map((path, i) => (
                         <div key={i} className="flex items-center justify-between text-sm">
-                          <span>
-                            {path.type === 'code_enforcement' && '🏛️ Code Enforcement'}
-                            {path.type === 'legal' && '⚖️ Legal'}
-                            {path.type === 'strike' && '✊ Strike'}
-                            {path.type === 'public_pressure' && '📢 Public Pressure'}
+                          <span className="inline-flex items-center gap-1">
+                            {path.type === 'code_enforcement' && <><BuildingLibraryIcon className="w-4 h-4" /> Code Enforcement</>}
+                            {path.type === 'legal' && <><ScaleIcon className="w-4 h-4" /> Legal</>}
+                            {path.type === 'strike' && <><HandRaisedIcon className="w-4 h-4" /> Strike</>}
+                            {path.type === 'public_pressure' && <><MegaphoneIcon className="w-4 h-4" /> Public Pressure</>}
                           </span>
                           <span className={`px-2 py-0.5 rounded text-xs ${
                             path.status === 'active' ? 'bg-blue-100 text-blue-700' :
@@ -515,12 +534,12 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
               caseData.evidence.map((ev) => (
                 <div key={ev.id} className="p-3 border border-gray-200 rounded-lg">
                   <div className="flex items-center gap-2">
-                    <span className="text-lg">
-                      {ev.type === 'photo' && '📷'}
-                      {ev.type === 'document' && '📄'}
-                      {ev.type === 'video' && '🎥'}
-                      {ev.type === 'receipt' && '🧾'}
-                      {ev.type === 'other' && '📎'}
+                    <span className="text-gray-500">
+                      {ev.type === 'photo' && <CameraIcon className="w-5 h-5" />}
+                      {ev.type === 'document' && <DocumentTextIcon className="w-5 h-5" />}
+                      {ev.type === 'video' && <VideoCameraIcon className="w-5 h-5" />}
+                      {ev.type === 'receipt' && <DocumentIcon className="w-5 h-5" />}
+                      {ev.type === 'other' && <PaperClipIcon className="w-5 h-5" />}
                     </span>
                     <span className="font-medium text-gray-900">{ev.description}</span>
                   </div>
@@ -850,10 +869,10 @@ function EscalationForm({ caseId, existingPaths, onSave, onCancel }: {
           </label>
           <div className="space-y-2">
             {[
-              { value: 'code_enforcement', label: '🏛️ Code Enforcement', desc: 'File complaint for inspection' },
-              { value: 'legal', label: '⚖️ Legal Aid', desc: 'Consult with housing attorney' },
-              { value: 'strike', label: '✊ Rent Strike', desc: 'Organize collective rent withholding' },
-              { value: 'public_pressure', label: '📢 Public Pressure', desc: 'Media, rallies, public action' },
+              { value: 'code_enforcement', label: 'Code Enforcement', icon: BuildingLibraryIcon, desc: 'File complaint for inspection' },
+              { value: 'legal', label: 'Legal Aid', icon: ScaleIcon, desc: 'Consult with housing attorney' },
+              { value: 'strike', label: 'Rent Strike', icon: HandRaisedIcon, desc: 'Organize collective rent withholding' },
+              { value: 'public_pressure', label: 'Public Pressure', icon: MegaphoneIcon, desc: 'Media, rallies, public action' },
             ].map((option) => (
               <label
                 key={option.value}
@@ -870,7 +889,7 @@ function EscalationForm({ caseId, existingPaths, onSave, onCancel }: {
                   className="mt-1"
                 />
                 <div>
-                  <p className="font-medium">{option.label}</p>
+                  <p className="font-medium flex items-center gap-2"><option.icon className="w-4 h-4" /> {option.label}</p>
                   <p className="text-sm text-gray-600">{option.desc}</p>
                 </div>
               </label>

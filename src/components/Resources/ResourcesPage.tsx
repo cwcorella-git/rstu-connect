@@ -21,6 +21,10 @@ import {
   UserGroupIcon,
   PencilIcon,
   TrashIcon,
+  BriefcaseIcon,
+  TruckIcon,
+  AcademicCapIcon,
+  ArrowPathIcon,
 } from '@heroicons/react/24/outline'
 import {
   getExternalOrganizations,
@@ -50,6 +54,14 @@ const CATEGORY_ORDER: ExternalResourceCategory[] = [
   'housing_services',
   'legal_aid',
   'health_services',
+  'crisis_mental_health',
+  'senior_services',
+  'employment_training',
+  'childcare',
+  'transportation',
+  'disability_services',
+  'lgbtq_services',
+  'reentry_services',
   'government',
   'mutual_aid',
   'advocacy',
@@ -87,6 +99,39 @@ function getCategoryIcon(category: ExternalResourceCategory) {
       return <MegaphoneIcon className={iconClass} />
     case 'faith':
       return <SparklesIcon className={iconClass} />
+    case 'crisis_mental_health':
+      return <PhoneIcon className={iconClass} />
+    case 'senior_services':
+      return <UserGroupIcon className={iconClass} />
+    case 'employment_training':
+      return <BriefcaseIcon className={iconClass} />
+    case 'childcare':
+      // Custom child/family icon
+      return (
+        <svg className={iconClass} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 4.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM7 21v-2a4 4 0 014-4h2a4 4 0 014 4v2M5.5 9.5a1.5 1.5 0 100 3 1.5 1.5 0 000-3zM3 18v-1a2.5 2.5 0 012.5-2.5M18.5 9.5a1.5 1.5 0 100 3 1.5 1.5 0 000-3zM21 18v-1a2.5 2.5 0 00-2.5-2.5" />
+        </svg>
+      )
+    case 'transportation':
+      return <TruckIcon className={iconClass} />
+    case 'disability_services':
+      // Custom wheelchair/accessibility icon
+      return (
+        <svg className={iconClass} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <circle cx="12" cy="4.5" r="2" strokeWidth={1.5} />
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 7v5m0 0l3 5h3m-6-5H9l-2 8m0 0a2 2 0 104 0m-4 0h4" />
+        </svg>
+      )
+    case 'lgbtq_services':
+      // Rainbow/pride heart icon
+      return (
+        <svg className={iconClass} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" />
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M7 8h10M7 11h10M8.5 14h7" />
+        </svg>
+      )
+    case 'reentry_services':
+      return <ArrowPathIcon className={iconClass} />
     case 'pet_services':
       // Custom paw icon
       return (
@@ -113,6 +158,14 @@ const CATEGORY_COLORS: Record<ExternalResourceCategory, string> = {
   mutual_aid: 'text-pink-500',
   faith: 'text-indigo-500',
   pet_services: 'text-cyan-500',
+  crisis_mental_health: 'text-violet-500',
+  senior_services: 'text-rose-500',
+  employment_training: 'text-lime-500',
+  childcare: 'text-sky-500',
+  transportation: 'text-fuchsia-500',
+  disability_services: 'text-emerald-500',
+  lgbtq_services: 'text-pink-500',
+  reentry_services: 'text-stone-500',
   other: 'text-gray-500',
 }
 
