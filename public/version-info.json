@@ -1,8 +1,8 @@
 {
-  "commit": "f2ad7a70",
-  "message": "Fix Crossroads/Battle Born Housing data mix-up",
+  "commit": "4265d72f",
+  "message": "Add edit and delete functionality for organizations",
   "author": "cwcorella-git",
-  "date": "2026-01-16 02:27:12 -0800",
+  "date": "2026-01-16 02:32:53 -0800",
   "branch": "main",
-  "buildTime": "2026-01-16T10:31:57.985Z"
+  "buildTime": "2026-01-16T10:40:24.050Z"
 }

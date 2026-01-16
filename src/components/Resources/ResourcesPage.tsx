@@ -501,7 +501,12 @@ export function ResourcesPage() {
               </div>
             ) : (
               categoryOrgs.map(org => (
-                <OrganizationCard key={org.id} organization={org} />
+                <OrganizationCard
+                  key={org.id}
+                  organization={org}
+                  onEdit={canAddCategory ? () => handleEditOrg(org) : undefined}
+                  onDelete={canAddCategory ? () => handleDeleteOrg(org) : undefined}
+                />
               ))
             )}
           </div>
