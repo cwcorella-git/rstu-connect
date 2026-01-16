@@ -57,7 +57,7 @@ Our partnership with Northern Nevada Legal Aid creates a powerful combination:
 ### Who Qualifies
 NNLA serves residents whose income is at or below **125% of Federal Poverty Guidelines**. For 2025, this means:
 - Individual: $18,900 annually
-- Family of 2: $25,500 annually  
+- Family of 2: $25,500 annually
 - Family of 4: $38,750 annually
 
 ### How to Apply
@@ -117,7 +117,7 @@ NNLA uses community volunteers for:
 - **Court support** (accompanying tenants to hearings)
 - **Translation** at community events
 - **Outreach** at apartment complexes
-- **Administrative support** 
+- **Administrative support**
 
 ### Advocate
 Support increased funding for legal aid:
@@ -127,7 +127,7 @@ Support increased funding for legal aid:
 
 ## Working Together for Housing Justice
 
-The partnership between Northern Nevada Legal Aid and RSTU shows what's possible when legal advocacy and community organizing work together. 
+The partnership between Northern Nevada Legal Aid and RSTU shows what's possible when legal advocacy and community organizing work together.
 
 **Individual rights + collective power = lasting change**
 

@@ -90,7 +90,3 @@ Thanks, yes very welcome, and a reminder that the old man was still capable of d
 ## In reply to Welcomebylibcom.org
 
 The original seems to be in Il programma comunista ■ 15 / 1965 (10 September), not 10/'65:
-
-http://www.pcint.org/25\_Publ\_pre\_82/256\_Il\_Programma\_Comunista/03%20IlPC\_1964-1973.htm#1965
-
-http://www.pcint.org/40\_pdf/250\_Il-PC/1964-1973/1965/1965-ilpc-15.pdf

@@ -51,7 +51,6 @@ Black Lives Matter, several local chapters of the Democratic Socialists of Ameri
 On social media, racial justice advocates expressed their support as well.
 Today, incarcerated men and women are going on strike to protest the slave labor they are demanded to partake in.
 The 13th Amendment allows this, but it is wrong. It must be protested. All slavery should be banned in this country. Period.
-https://t.co/2Of7n3zLBc
 
 ## — Shaun King (@ShaunKing)
 
@@ -60,9 +59,6 @@ https://t.co/2Of7n3zLBc
 We're standing in solidarity with our inmates in Florida prisons who are on strike today - protesting prison overcrowding, brutal living conditions, and working for no or little pay.
 
 #MLKDay
-
-https://t.co/c2vgpfycdX
-
 ## — Justice Democrats (@justicedems)
 
 ## January 15, 2018
@@ -72,7 +68,6 @@ Florida's prison laborers are going on strike today to protest slave labor in pr
 
 @jbwashing
 .
-https://t.co/16CiV3sWvp
 
 ## — identity politics is good (@SeanMcElwee)
 

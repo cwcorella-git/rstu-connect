@@ -236,7 +236,7 @@ desire | Desire • Passion • Infatuation | | |
 
 In 1980, Robert Plutchik diagrammed a wheel of eight emotions: joy, trust, fear, surprise, sadness, disgust, anger and anticipation, inspired by his *Ten Postulates*. [49][50] Plutchik also theorized twenty-four "Primary", "Secondary", and "Tertiary" dyads (feelings composed of two emotions). [51][52][53][54][55][56][57] The wheel emotions can be paired in four groups:
 
-Primary dyad = one petal apart = **Love** = *Joy* + *Trust*Secondary dyad = two petals apart = **Envy** = *Sadness* + *Anger*Tertiary dyad = three petals apart = **Shame** = *Fear* + *Disgust*Opposite emotions = four petals apart = *Anticipation* ∉ *Surprise* 
+Primary dyad = one petal apart = **Love** = *Joy* + *Trust*Secondary dyad = two petals apart = **Envy** = *Sadness* + *Anger*Tertiary dyad = three petals apart = **Shame** = *Fear* + *Disgust*Opposite emotions = four petals apart = *Anticipation* ∉ *Surprise*
 
 There are also triads, emotions formed from 3 primary emotions, though Plutchik never describes in any detail what the triads might be. [58] This leads to a combination of 24 dyads and 32 triads, making 56 emotions at 1 intensity level. [59] Emotions can be mild or intense; [60] for example, distraction is a mild form of surprise, and rage is an intense form of anger. The kinds of relation between each pair of emotions are:
 

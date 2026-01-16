@@ -6,9 +6,6 @@ category: "contemporary-analysis"
 # **Episode 45: The Nature Of Wisdom/**
 
 #### **Source:**
-
-https://www.meaningcrisis.co/ep-45-awakening-from-the-meaning-crisis-the-nature-of-wisdom/
-
 Welcome back to Awakening from the Meaning Crisis.
 
 So we are continuing, and it deserves this much attention, our long discussion about the nature of wisdom, because since the axial revolution it is just crucially connected to the project of meaning in life.

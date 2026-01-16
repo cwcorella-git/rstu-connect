@@ -42,9 +42,6 @@ In solidarity,
 Travailleuses et travailleurs pour la justice climatique (TJC)
 
 Coordinating Committee of TJC.
-
-https://justiceclimatique.org/
-
 Disclaimer:
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author.

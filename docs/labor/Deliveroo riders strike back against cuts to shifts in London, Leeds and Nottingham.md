@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/deliveroo-riders-strike-back-against-cuts-shifts-london-leeds-and-nottingham
-
 **Tags:** Industrial Workers of the World (IWW), retail and food, strikes, distribution, United Kingdom, food service, IWGB, Deliveroo, gig economy
 
 Deliveroo riders took action across London, Leeds and Nottingham over the weekend of the 12th-13th July in response to punitive new policies from management that would cut hours for motorbike couriers in London and cyclists elsewhere.

@@ -32,9 +32,6 @@ Deforested arable soils in the Amazon are productive for a short period of time 
 Terra preta soils were created by farming communities between 450 BCE and 950 CE. [10][11][12] Soil depths can reach 2 meters (6.6 ft). It is reported to regenerate itself at the rate of 1 centimeter (0.4 in) per year. [13]
 
 The origins of the Amazonian dark earths were not
-
-2 of 26
-
 immediately clear to later settlers. One idea was that they resulted from ashfall from volcanoes in the [Andes,](https://en.wikipedia.org/wiki/Andes) since they occur more frequently on the brows of higher terraces. Another theory considered its formation to be a result of [sedimentation](https://en.wikipedia.org/wiki/Sedimentation) in [tertiary](https://en.wikipedia.org/wiki/Tertiary) lakes or in recent ponds.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
 # **Anthropogenic roots**

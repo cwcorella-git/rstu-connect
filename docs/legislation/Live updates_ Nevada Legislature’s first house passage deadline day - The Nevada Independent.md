@@ -9,9 +9,7 @@ tags:
 - Nevada
 - legislation
 ---
-# Live updates_ Nevada Legislature's first house passage deadline day - The Nevada Independent
----
-Live updates: Nevada Legislature's ﬁrst house passage...            https://thenevadaindependent.com/article/live-updates-...
+
 Nevada Legislature 2025
 INDY HOME         STORIES         POLICY TRACKER          PROMISE TRACKER          LEGISLATORS
 RESOURCES          NEWSLETTERS           SUPPORT US
@@ -34,7 +32,7 @@ more than a thousand introduced so far have been exempted.
 In 2023, only 10 measures died at this juncture of the 120-day session and in 2021, that number was
 just seven, in addition to one resolution.
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...            https://thenevadaindependent.com/article/live-updates-...
+
 To view the status of all legislative measures, check out The Nevada Independent's public bill
 tracker.
 Here's a look at which bills passed ahead of Tuesday's deadline and what lawmakers said about them.
@@ -71,7 +69,7 @@ Additionally, AJR12, a resolution supporting the prioritization of solar develop
 disturbed public lands in Nevada, failed to pass out of the Assembly.
 In the Senate's nal evening oor session, more than 20 bills passed and did meet the deadline.
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...         https://thenevadaindependent.com/article/live-updates-...
+
 Those included:
 • SB179, another bill sponsored by Ohrenschall, which requires the Nevada Equal Rights
 Commission to determine if antisemitism was a factor in a case of alleged discrimination in
@@ -107,7 +105,7 @@ housing units on a single family lot. As amended, it would exclude ADUs being bu
 Tahoe Area Master Plan area. The bill passed with a party line vote of 27-15, with Republicans
 opposed.
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...         https://thenevadaindependent.com/article/live-updates-...
+
 • AB406, brought by Assm. Jovan Jackson (D-North Las Vegas), was nearly gutted, and as
 amended, would prohibit schools from using articial intelligence to perform the duties a
 school counselor, psychologist or social worker otherwise would. The bill initially would have
@@ -144,7 +142,7 @@ The bill received the support of all Democrats and three Republicans: Sens. John
 John Steinbeck (R-Las Vegas) and Je Stone (R-Henderson). Sen Ira Hansen (R-Sparks) indicated
 that he would have supported the proposal if the amendment was submitted earlier.
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...         https://thenevadaindependent.com/article/live-updates-...
+
 Here are some of the other bills that passed:
 • SB338, dubbed the "Taylor Swift bill" and sponsored by Sen. Julie Pazina (D-Las Vegas),
 requires ticket sellers subject to Nevada's live entertainment tax to disclose the total price
@@ -181,7 +179,7 @@ committee but was referred to the Assembly budget committee on Monday.
 Sen. Fabian Donate (D-Las Vegas) is hoping to give Nevadans $10,000 to $15,000 to buy down
 the interest rates on their rst homes, which would save them anywhere from $50,000 to
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...         https://thenevadaindependent.com/article/live-updates-...
+
 $100,000 over the course of a 30-year loan. The bill was referred to the Senate Finance
 Committee.
 -- Lizzie Ramirez
@@ -217,7 +215,7 @@ bill passed along party lines.
 • It's similar to a measure Jauregui proposed during the 2023 legislative session, which was
 vetoed by Gov. Joe Lombardo.
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...        https://thenevadaindependent.com/article/live-updates-...
+
 • AB283, from Assm. Max Carter (D-Las Vegas) would restructure the summary eviction process
 to require landlords to le rst, rather than the tenant. The measure passed along party lines.
 Health care
@@ -253,7 +251,7 @@ party lines with Republicans in opposition.
 Open meeting law exemption, backup re insurance bills on the chopping block -- 3:39 p.m.
 The Assembly also moved three bills to the chief clerk's desk, which might indicate that they have a
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...           https://thenevadaindependent.com/article/live-updates-...
+
 low chance of meeting Tuesday's deadline. The bills were:
 • AB64, brought by the attorney general's oce, which would add certain exemptions to the
 state's open meeting law, including instances when a public body is receiving legal counsel or
@@ -288,7 +286,7 @@ Reno) joining Republicans in opposition.
 Democrats, Republicans cross party lines on AI, animal testing bills -- 2:38 p.m.
 The Senate passed more than a dozen bills out of the chamber Tuesday, before recessing until 3:30
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...           https://thenevadaindependent.com/article/live-updates-...
+
 p.m.
 Here's a summary:
 • Sens. John Steinbeck (R-Las Vegas) and Lori Rogich (R-Las Vegas) crossed party lines to
@@ -326,7 +324,7 @@ Assm. Selena Torres-Fossett's (D-Las Vegas) AB176, which would generally ban the
 agencies from limiting access to reproductive health care with some limited exceptions, passed out
 of the Assembly with unanimous support from Democrats and Republicans.
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...            https://thenevadaindependent.com/article/live-updates-...
+
 The bill, also called the Right to Contraception and Family Planning Services Act, would protect
 services related to pregnancy, contraception, miscarriage, or in vitro fertilization. Notably, the bill
 does not apply to abortion-related laws or certain education-related policies -- such as sex education
@@ -362,7 +360,7 @@ messages. It requires a two-thirds majority vote.
 association to install an electric vehicle charging station in a common area if a majority of
 board members approve.
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...            https://thenevadaindependent.com/article/live-updates-...
+
 • SB179, another bill from Ohrenschall, which would require the Nevada Equal Rights
 Commission to determine if antisemitism was a factor in a case of alleged discrimination in
 housing, employment or public accommodation.
@@ -398,7 +396,7 @@ long-standing policy requiring parents to consent or opt in for their children t
 education curriculum to instead opt out.
 • AB245 - Sponsored by Jauregui, this measure would ban Nevadans 21 and younger from owning
 ---
-Live updates: Nevada Legislature's ﬁrst house passage...          https://thenevadaindependent.com/article/live-updates-...
+
 semi-automatic shotguns and semi-automatic ries. Similarly, it prohibits children 14 and
 older from handling these guns as well.
 • AB283 - This measure from Assm. Max Carter (D-Las Vegas) would restructure the summary

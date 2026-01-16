@@ -5174,7 +5174,7 @@ At times, however, Tucker used language implying that the state would, while mai
 
 "But," it will be asked of the Anarchists…, "what shall be done with those individuals who undoubtedly will persist in violating the social law by invading their neighbors?" The Anarchists answer that the abolition of the State will leave in existence
 
-60 See his website, Mutualize!, at 
+60 See his website, Mutualize!, at
 
 61 Proudhon, *The Principle of Federation* 45–7.
 

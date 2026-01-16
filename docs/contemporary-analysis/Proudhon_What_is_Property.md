@@ -67,7 +67,7 @@ which he has stamped as his own.
 | First Proposition.
 Property is impossible, because it demands Something for Nothing.
 Second Proposition.
-Property is impossible because wherever it exists Production costs | 
+Property is impossible because wherever it exists Production costs |
 104 |
 | more than it is worth.
  | 108 |
@@ -79,7 +79,7 @@ Property is impossible, because, with a given capital, Production is | |
 Property is impossible, because it is Homicide.
  | 112 |
 | Fifth Proposition.
-Property is impossible, because, if it exists, Society devours itself. | 
+Property is impossible, because, if it exists, Society devours itself. |
 115 |
 | Appendix To The Fifth Proposition.
  | 121 |
@@ -963,9 +963,8 @@ Because justice was supposed to be its principle.
 
 Possession alone produced all that.
 
-
 "Eternal principle, — "
-## 
+##
 ## Property is eternal, like every negation, —
 
 ## "Of all social and civil institutions."
@@ -988,14 +987,12 @@ Under the regime of property, labor is not a condition, but a privilege.
 
 What is justice without equality of fortunes? A balance with false weights.
 
-
 "All morality, — "
-## 
+##
 ## A famished stomach knows no morality, —
 
-
 "All public order, — "
-## 
+##
 ## Certainly, the preservation of property, —
 
 ## "Rest on the right of property."4

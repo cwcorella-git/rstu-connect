@@ -96,7 +96,7 @@ Translated and with an introduction by Philip Freeman
 
 ## ![](_page_1_Picture_0.jpeg)
 
-#### 
+####
 
 Ancient Wisdom for Modern Readers presents the timeless and timely ideas of classical thinkers in lively new translations. Enlightening and entertaining, these books make the practical wisdom of the ancient world accessible for modern life.
 

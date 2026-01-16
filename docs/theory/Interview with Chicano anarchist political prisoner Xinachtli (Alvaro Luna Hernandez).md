@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/interview-chicano-anarchist-political-prisoner-xinachtli-alvaro-luna-hernandez
-
 **Tags:** United States, police, repression, prisons, Texas, Anarchist Black Cross, The Final Straw Radio, Xinachtli (Alvaro Luna Hernandez), PDF
 
 An interview with Xinachtli, a Chicano anarchist communist political prisoner serving a 50-year sentence in the Texas prison system after defending himself from an armed police officer. This interview was originallybroadcast as an audio segment by The Final Straw Radio Show, who also formatted it as a printable zine.

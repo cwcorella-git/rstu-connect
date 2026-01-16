@@ -7,9 +7,9 @@ category: "contemporary-analysis"
 
 ### Folk Devils and Moral Panics
 
- **'. . . a brilliant and subtle exercise in "grounded theory".'** *Stuart Hall, Emeritus Professor, The Open University* 
+ **'. . . a brilliant and subtle exercise in "grounded theory".'** *Stuart Hall, Emeritus Professor, The Open University*
 
- **'Richly documented and convincingly presented'** *New Society* 
+ **'Richly documented and convincingly presented'** *New Society*
 
 ## ![](_page_2_Picture_0.jpeg)
 
@@ -1142,7 +1142,7 @@ polarized the images of the good, brave policemen with the evil, cowardly mob. T
 
 These images were defi nitely absorbed by the public. Of the total number of post-Margate opinion statements, less than 1 per cent were critical of the police (mentioning, for example, their provocative tactics or their hyper-sensitivity to leather jackets or long hair). The rest only had praise for the police, or went further to make the familiar charge that the policeman's hands were tied and that he should be given more powers. In the Brighton sample, 43 (i.e. 66.2 per cent) agreed with the methods used by the police, a further 13 (20 per cent) thought that the police should have been tougher and only 9 (13.8 per cent) criticized the police for being unfair or provocative.
 
-Additional signs of public support for the police could be seen in the courts, where prolonged applause from the public benches followed statements by the Chairman complimenting the police. The same reaction occurred during parliamentary debates. Letters to local papers in the resorts were mainly in praise of the police, 'this gallant bulwark of society' ( *Brighton and* 
+Additional signs of public support for the police could be seen in the courts, where prolonged applause from the public benches followed statements by the Chairman complimenting the police. The same reaction occurred during parliamentary debates. Letters to local papers in the resorts were mainly in praise of the police, 'this gallant bulwark of society' ( *Brighton and*
 
 \* This sort of imagery is identical to that used in covering crowd clashes between political demonstrators and the police: 'Police Win Battle of Grosvenor Square', 'The Day the Police Were Wonderful', 'Fringe Fanatics Foiled at Big Demonstration: What the Bullies Faced', etc. For a detailed analysis of the media portrayal of the police in one such case, the 1968 Vietnam demonstrations in London, see Halloran *et al* . 20
 
@@ -2134,7 +2134,6 @@ Widowed 3
 Divorced/Separated
 4 | Occupation
 
-
 Labour
 1
 Conservative
@@ -2610,30 +2609,29 @@ Joel Best, *Threatened Children: rhetoric and concern about child-victims* , Uni
 
 #### **GENERAL INDEX**
 
-
 AA 91
 Aberfan 24, 36
 Ace Café 210
-action groups 90, 129, 132, 137, 141, 
+action groups 90, 129, 132, 137, 141,
  149
-adolescence 2, 12, 38; backgrounds 
- 203, 205–7, 210–11, 213, 216–17; 
- end 229, 232–3; exploitation 159; 
- inventory 43, 45; reaction 53–4, 
+adolescence 2, 12, 38; backgrounds
+ 203, 205–7, 210–11, 213, 216–17;
+ end 229, 232–3; exploitation 159;
+ inventory 43, 45; reaction 53–4,
  58, 68, 86, 88, 102
-affl uence 28–9, 31, 55–8, 69; 
- backgrounds 202–4, 215, 222–3; 
- reaction 92, 135, 147, 154; 
+affl uence 28–9, 31, 55–8, 69;
+ backgrounds 202–4, 215, 222–3;
+ reaction 92, 135, 147, 154;
  sociology 220
 agents of social control 89–92
 Aldermaston marches 70
 alienation 11, 72
 Allport, F. H. 13, 182
-America 4, 9, 25, 28, 45, 58, 81, 142, 
+America 4, 9, 25, 28, 45, 58, 81, 142,
  158, 185, 197, 209–10, 220
 amphetamines 152
-amplifi cation 17–18, 89, 122; 
- backgrounds 201–2; control 
+amplifi cation 17–18, 89, 122;
+ backgrounds 201–2; control
 ## 160
 ## anarchists 160
 ## 145
@@ -2645,20 +2643,20 @@ amplifi cation 17–18, 89, 122;
 ## Bank Holidays 22–3, 30–1, 33–5;
 ## backgrounds 212; crowd scenes
 ## 168, 173; exclusive control 137,
-## 
+##
 
-agents 191, 196; impact 196, 
- 199; media 184–5; model 226–7, 
- 231; process 232; reaction 156, 
+agents 191, 196; impact 196,
+ 199; media 184–5; model 226–7,
+ 231; process 232; reaction 156,
 anti-psychiatry school 232
 anxiety 81, 132, 163
-appeal 101, 104, 106, 112–13, 115, 
+appeal 101, 104, 106, 112–13, 115,
 Arran, Earl of 150
-Association of Municipal 
+Association of Municipal
  Corporations 134
 attitudes 47–79
 audience 172, 179–82, 199
-## 
+##
 | 143, 150; reaction 53, 70, 84–5, | Brando, M. 56, 209 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 94, 97–8, 116, 134; sociology 218; | Brighton 16, 22–3, 26–7; |

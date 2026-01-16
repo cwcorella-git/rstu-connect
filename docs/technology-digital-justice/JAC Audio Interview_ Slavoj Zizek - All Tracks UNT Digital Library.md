@@ -2219,5 +2219,3 @@ Basic information for referencing this web page. We also provide [extended guida
 ## ![](_page_57_Figure_6.jpeg)
 
 ## **Permanent URL (This Page)**
-
-https://digital.library.unt.edu/ark:/67531/metadc40384/m1/Copy

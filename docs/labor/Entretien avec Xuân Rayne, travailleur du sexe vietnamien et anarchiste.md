@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/entretien-avec-xuan-rayne-travailleur-du-sexe-vietnamien-et-anarchiste
-
 **Tags:** anarchism, United States, Vietnam, anarchists, sex industry, Français, homelessness, Mèo Mun,
 
 ## Xuân Rayne, police

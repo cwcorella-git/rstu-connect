@@ -63,5 +63,4 @@ rent striking. Solidarity with all striking blows against the crises of
 capitalism, colonialism and civilization. Solidarity with those living
 on the streets unable to withhold rent, yet resisting with every breath.
 
-
 For a growing revolt and realization of desire

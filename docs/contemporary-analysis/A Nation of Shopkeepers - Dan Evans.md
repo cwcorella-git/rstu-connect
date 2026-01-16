@@ -1989,14 +1989,14 @@ Fractions are distinct strata or groups within the same class which can have dif
 
 - Adkins, L., Cooper, M., & Konings, M., (2020) *The Asset Economy* Polity
 - Althusser, L. (1970) *'Ideology and Ideological State Apparatuses'*in *Lenin and Philosophy and Other Essays,* Monthly Review Press available online at:
- - 
+ -
 - Bano, N., (2021) 'Home Ownership Can't Solve the Housing Crisis' *Tribune* October 2nd [https://tribunemag.co.uk/2021/10/homeownership](https://tribunemag.co.uk/2021/10/homeownership-cant-solve-the-housing-crisis)[cant-solve-the-housing-crisis](https://tribunemag.co.uk/2021/10/homeownership-cant-solve-the-housing-crisis)
 - Barratt, T., Goods, C., Veen, A. (2020) 'I'm my own boss…': Active intermediation and 'entrepreneurial' worker agency in the Australian gigeconomy. *Environment and Planning A: Economy and Space*. 52(8) pp-1643-1661.
 - Bechhofer, F., & Elliot, B (1978) 'The Voice of Small Business & The Politics of Survival' *The Sociological Review*, 26 (1) pp. 57-88
 - Bechhofer, F., & Elliot, B., (1968) 'An approach to a study of small shopkeepers and the class structure' European Journal of Sociology 9 (2) pp. 180-202
 - Bechhofer, F., & Elliot, B., (1981) *The Petite-Bourgeoisie: Comparative Studies of the Uneasy Stratum* Mac Millan
 - Bechhofer, F., & Elliot, B., (1985) 'The Petite Bourgeoisie in Late Capitalism' *Annual Review of Sociology*, Vol. 11 pp. 181-207
-- Benn-Michaels, W. (2018) 'The Political Economy of Anti-Racism' Nonsite.org February 11th, 2018 Available online at: 
+- Benn-Michaels, W. (2018) 'The Political Economy of Anti-Racism' Nonsite.org February 11th, 2018 Available online at:
 - Benn-Michaels, W., & Reed, A., (2020) 'The Trouble with Disparity' Nonsite.org September 10th 2020. (Available online at:
 
 #### )
@@ -2015,7 +2015,7 @@ Fractions are distinct strata or groups within the same class which can have dif
 - Chitty, C. (2013) *New Labour and Secondary Education, 1994-2010* Basingstoke: Palgrave Macmillan
 - Christophers, B. (2020) *Rentier Capitalism: Who Owns the Economy, and Who Pays for It?* Verso
 
-- Clarke, S., & Ginsberg, N., (1974) 'The Political Economy Of Housing' *C. S. E. Political Economy Of Housing Group—Papers available online at:* 
+- Clarke, S., & Ginsberg, N., (1974) 'The Political Economy Of Housing' *C. S. E. Political Economy Of Housing Group—Papers available online at:*
 - Colomb, C. (2007) 'Unpacking new labour's 'Urban Renaissance' agenda:Towards a socially sustainable reurbanization of British cities?', *Planning, practice & research*, 22 (1), pp. 1-24.
 - Cooper, M. (2022) 'Family Capitalism and the Small Business Insurrection' *Dissent Magazine*, (available online at [https://www.dissentmagazine.org/article/family-capitalism-and-thesmall](https://www.dissentmagazine.org/article/family-capitalism-and-thesmall-business-insurrection)[business-insurrection\)](https://www.dissentmagazine.org/article/family-capitalism-and-thesmall-business-insurrection)
 - Davies, A. R. (2013). 'Right to Buy': The Development of a Conservative Housing Policy, 1945 – 1980. *Contemporary British History*, 27(4), pp. 421-444.
@@ -2096,7 +2096,7 @@ Fractions are distinct strata or groups within the same class which can have dif
 - Urry, J., & Abercrombie, N. (1983) *Capital, Labour and the Middle Classes* George Allen & Unwin: London
 - Waites, B. (1987) *A Class Society at War: England 1914-18* Berg: Leamington Spa
 
-- Ward, C. (1987) 'The Path Not Taken' *Raven* No.3. Available online at: 
+- Ward, C. (1987) 'The Path Not Taken' *Raven* No.3. Available online at:
 - Wayne, M. (2021) 'Roadmaps After Corbyn: Parties, Classes, Political Cultures' *New Left Review 131*
 - Weldon, D. (2021) 'Barratt Britain: A Closer Look at The Conservative's Red Wall Seats' IPPR *Progressive Review* PP. 281- 285
 - Willis, P. (1978) *Learning to Labour: How Working Class Kids Get Working Class Jobs* Ashgate

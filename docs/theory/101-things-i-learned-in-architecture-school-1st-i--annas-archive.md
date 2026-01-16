@@ -88,11 +88,11 @@ A fi gure is also called object, form, element, or positive shape. Ground is alt
 
 ![](_page_14_Picture_0.jpeg)
 
-**4 fi gures arranged randomly with negative space resulting** 
+**4 fi gures arranged randomly with negative space resulting**
 
 ![](_page_14_Picture_2.jpeg)
 
-**The same 4 fi gures arranged to create positive space (a triangle)** 
+**The same 4 fi gures arranged to create positive space (a triangle)**
 
 ![](_page_14_Picture_4.jpeg)
 
@@ -515,7 +515,7 @@ Because a square is inherently nondynamic, it doesn't naturally suggest movement
 
 ![](_page_104_Figure_0.jpeg)
 
-**But certainly a multiplicity of similars would better refl ect the perturbance of the modularity, given the particularity of the language established by the axial relationships** 
+**But certainly a multiplicity of similars would better refl ect the perturbance of the modularity, given the particularity of the language established by the axial relationships**
 
 ## **If you can't explain your ideas to your grandmother in terms that she understands, you don't know your subject well enough.**
 

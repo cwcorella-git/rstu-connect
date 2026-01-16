@@ -1128,5 +1128,3 @@ JASON STANLEY is the Jacob Urowsky Professor of Philosophy at Yale University. S
 Discover your next great read!
 
 Get personalized book picks and up-to-date news about this author.
-
-Sign up now.

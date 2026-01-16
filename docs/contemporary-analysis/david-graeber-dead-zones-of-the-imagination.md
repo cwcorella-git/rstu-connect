@@ -25,7 +25,7 @@ I went to her bank, picked up the requisite forms, and brought them to the nursi
 
 The next week the notary duly appeared, accompanied me upstairs, made sure I’d filled out my side of the form (as had been repeatedly emphasized to me), and then, in my mother’s presence, proceeded to fill out her own. I was a little puzzled that she didn’t ask my mother to sign anything, only me, but I figured she must know what she was doing. The next day I took it to the bank, where the woman at the desk took one look, asked why my mother hadn’t signed it, and showed it to her manager who told me to take it back and do it right. Apparently the notary had no idea what she was doing. So I got new forms, filled out my side of each, and made a new appointment. On the appointed day the notary duly appeared, and after some awkward remarks about the difficulties caused by each bank having its own, completely different power of attorney form, we proceeded upstairs. I signed, my mother signed—with some difficulty—and the next day I returned to the bank. Another woman at a different desk examined the forms and asked why I had signed the line where it said to write my name and printed my name on the line where it said to sign.
 
-> 
+>
 “I did? Well, I just did exactly what the notary told me to do.”
 
 “But it says clearly ‘signature’ here.”
@@ -62,12 +62,12 @@ Novelists often do manage to make great literature out of the apparent circulari
 
 Now it’s true there are works of anthropology that echo some of these themes: one thinks, for instance, of Jack Goody’s reflection on the idea of the list in *The domestication of the savage mind* (1977), which is just as much about the birth of self-enclosing bureaucratic systems of classification as Roland Barthes’ *Sade, Fourier, Loyola* (1971) is about the moment such logic came to be applied—at least imaginatively—to absolutely every corporeal aspect of human life: passions, sexual acts, or religious devotion. But most are not explicitly about bureaucracy at all. Within the anthropological literature on bureaucracy itself, in turn, there are works that echo something of the absurdist mode so prevalent in literature: Matthew Hull’s work on paperwork as ritual (2008, 2010, 2012), Akhil Gupta’s recent *Red tape* (2012), which directly takes on the failures of Indian bureaucracies to alleviate poverty, or Andrew Mathews’ work on the Mexican forestry service (2005, 2011). But these are somewhat exceptional. The real core of the anthropological literature on bureaucracy, even at the height of the “literary turn,” took the completely opposite direction, asking not why bureaucracy produces absurdity, but rather, why so many people believe this is the case. The single best-known anthropological work on bureaucracy is Michael Herzfeld’s *The social production of indifference* (1992), which begins by framing the question thusly:
 
-> 
+>
 [I]n most industrial democracies—where the state is supposed to be a respecter of persons—people rail in quite predictable ways against the evils of bureaucracy. It does not matter that their outrage is often unjustified; what counts is their ability to draw on a predictable image of malfunction. If one could not grumble about “bureaucracy,” bureaucracy itself could not easily exist: both bureaucracy and the stereotypical complaints about it are parts of a larger universe that we might call, quite simply, the ideology and practice of accountability. (1992: 3)
 
 To understand the system in cultural terms—that is, to find the areas of symbolic richness, rife for anthropological analysis, where its victims can represent themselves as Christlike, for example, and imagine local officials as embodiments of Oriental Despotism—one has to move out of the offices entirely and into the cafes.
 
-> 
+>
 The symbolic roots of Western bureaucracy are not to be sought, in the first instance, in the official forms of bureaucracy itself, although significant traces may be discovered there. They subsist above all in popular reactions to bureaucracy—in the ways in which ordinary people actually manage and conceptualize bureaucratic relations. (1992: 8)[2]
 
 This is not to say Herzfeld and others who have followed in his wake (e.g., Navaro-Yashin 2002) explicitly deny that immersion in bureaucratic codes and regulations can, in fact, cause people to act in ways that in any other context would be considered idiotic. Just about anyone is aware from personal experiences that they regularly do. Yet for purposes of cultural analysis, truth is rarely considered an adequate explanation. At best one can expect a “yes, but…”—with the assumption that the “but” introduces everything that’s really interesting and important: for instance, the way that complaints about that idiocy subtly act to reinscribe the complainers as subjects within the same moral field of accountability that bureaucrats inhabit, the way this creates a certain conception of the nation, and so on.
@@ -88,9 +88,7 @@ All of this is obvious enough. What’s of ethnographic interest, perhaps, is ho
 
 Actually, one could make the same argument about the way that the term “structural violence” itself is deployed in contemporary social theory—because the way I am using it here is quite decidedly unconventional. The term itself traces back to debates within Peace Studies in the 1960s; it was coined by Johann Galtung (1969, 1975; cf. Lawler 1995), to meet the charge that to define “peace” as the mere absence of acts of physical assault is to overlook the prevalence of much more insidious structures of human exploitation. Galtung felt the term “exploitation” was too loaded, owing to its identification with Marxism, and proposed as an alternative “structural violence”—i.e., any institutional arrangement that, by its very operation, regularly causes physical or psychological harm to a certain portion of the population, or imposes limits on their freedom. Structural violence could thus be distinguished from both “personal violence” (violence by an identifiable human agent) and “cultural violence” (those beliefs and assumptions about the world that justify the infliction of harm). This is the how the term has mainly been taken up in the anthropological literature as well (e.g., Bourgois 2001; Farmer 2004, 2005; Gupta 2012). Paul Farmer, for instance, writes that he found the term apt in describing the suffering and early death of so many of the poor Haitian farmers among whom he worked and treated,
 
-
 because such suffering is “structured” by historically given (and often economically driven) processes and forces that conspire—whether through routine, ritual, or, as is more commonly the case, the hard surfaces of life—to constrain agency. For many, including most of my patients and informants, choices both large and small are limited by racism, sexism, political violence, *and* grinding poverty. (Farmer 2002: 40)
-
 
 In all these formulations, “structural violence” is treated as structures that have violent effects, whether or not actual physical violence is involved. This is actually quite different from my own formulation, more consonant with the feminist tradition (e.g., Scheper-Hughes 1992; Nordstrom and Martin 1992), which sees these more as structures *of* violence—since it is only the constant fear of physical violence that makes them possible, and allows them to have violent effects. Racism, sexism, poverty, these cannot exist except in an environment defined by the ultimate threat of actual physical force. To insist on a distinction only makes sense if one wishes, for some reason, to also insist that there *could* be, for example, a system of patriarchy that operated in the total absence of domestic violence, or sexual assault—despite the fact that, to my knowledge, no such system has ever been observed.
 
@@ -114,7 +112,7 @@ Violence’s capacity to allow arbitrary decisions, and thus to avoid the kind o
 
 This is not an aspect of violence that has received much attention in the burgeoning “anthropology of violence” literature. The latter has tended instead to move in exactly the opposite direction, emphasizing the ways that acts of violence are meaningful and communicative. Neil Whitehead, for instance, in a recent collection simply entitled *Violence* (2004), goes so far as to insist that anthropologists need to examine why people are ever wont to speak of “meaningless violence” at all. Violence, he suggests, is best understood as analogous with poetry:
 
-> 
+>
 Violent actions, no less than any other kind of behavioral expression, are deeply infused with cultural meaning and are the moment for individual agency within historically embedded patterns of behavior. Individual agency, utilizing extant cultural forms, symbols, and icons, may thus be considered “poetic” for the rule-governed substrate that underlies it, and for how this substrate is deployed, through which new meanings and forms of cultural expression emerge. (Whitehead 2004: 9–10)
 
 When I object to this emphasis on the meaningful nature of violence, I’m not trying to suggest that the fundamental point is in any way untrue. It would be absurd to deny that acts of violence are, typically, meant as acts of communication, or that they tend to be surrounded by symbols and generate myths. Yet it seems to me that, just as in the case of bureaucracy, this is an area where anthropologists are particularly inclined to confuse interpretive depth with social significance: that is, to assume that the most interesting aspect of violence is also, necessarily, the most important. Yes, violent acts tend to have a communicative element. But this is true of any other form of human action as well. It strikes me that what is really important about violence is that it is perhaps the only form of human action that holds out even in the possibility of having social effects *without* being communicative.
@@ -129,7 +127,7 @@ These effects are often most visible when the structures of inequality take the 
 
 Nothing I am saying here is particularly new to anyone familiar with Feminist Standpoint Theory or Critical Race Studies. Indeed, I was originally inspired to these broader reflections by a passage by bell hooks:
 
-> 
+>
 Although there has never been any official body of black people in the United States who have gathered as anthropologists and/or ethnographers to study whiteness, black folks have, from slavery on, shared in conversations with one another “special” knowledge of whiteness gleaned from close scrutiny of white people. Deemed special because it is not a way of knowing that has been recorded fully in written material, its purpose was to help black folks cope and survive in a white supremacist society. For years black domestic servants, working in white homes, acted as informants who brought knowledge back to segregated communities—details, facts, psychoanalytic readings of the white “Other.” (hooks 1992: 165)
 
 If there is a flaw in the feminist literature, I would say, it’s that it can be, if anything, too generous, tending to emphasize the insights of the oppressed over the blindness or foolishness of their oppressors.[7]
@@ -177,7 +175,6 @@ There is another reason I began with that story. As my apparently inexplicable c
 ### Acknowledgements
 
 I’d like to thank David Apter, Keith Breckenridge, Giovanni da Col, Kryzstina Fevervary, Andrej Grubacic, Casey High, Matthew Hull, Jennifer Jackson, Erica Lagalisse, Lauren Leve, Andrew Mathews, Christina Moon, Stuart Rockefeller, Marina Sitrin, Steve Cupid Theodore, and Hylton White for advice, suggestions and encouragement on this project. The essay is dedicated to my mother, in honor of her moral political commitment, irreverence, and common sense.
-
 
  - David Apter. 1965. The politics of modernization. Chicago: University of Chicago Press.
 
@@ -310,7 +307,6 @@ I’d like to thank David Apter, Keith Breckenridge, Giovanni da Col, Kryzstina 
  - Virginia Woolf. 1927. To the lighthouse. London: Hogarth.
 
  - World March of Women. 2009. “Violence against women.” Committee for the Abolition of Third World Debt.
-
 
 [1] This essay is based on the 2006 Malinowski Memorial Lecture entitled “Beyond power/knowledge: An exploration of the relation of power, ignorance and stupidity.” It is a substantially revised version of the one that, for some years, was available online at the LSE website. This version is now meant to be considered the official one for reference purposes.
 

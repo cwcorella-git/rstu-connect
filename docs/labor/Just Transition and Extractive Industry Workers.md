@@ -138,31 +138,13 @@ While all of the above challenges aren't insurmountable, they're made more chall
 How do we get past these roadblocks?
 
 Fortunately there are real world examples of just transition programs, albeit on varying degrees of limited scale, that can serve as models. Many of these are available on the IWW Environmental Union Caucus website:
-
-https://ecology.iww.org/term/justtransition
-
 Some specific, notable examples:
 
 The Case for an Ecosocialist Rank & File Strategy in the Building Trades -
-
-https://ecology.iww.org/node/3367
-
 Culver City Takes Historic Steps to End Neighborhood Oil Drilling -
-
-https://ecology.iww.org/node/4066
-
 Just Transition at the Intersection of Labour and Climate Justice Movements: Lessons from the Portuguese Climate Jobs Campaign -
-
-https://ecology.iww.org/node/3496
-
 The Just Transition for Coal Workers Can Start Now. Colorado Is Showing How -
-
-https://ecology.iww.org/node/3607
-
 Just Transition: Joint Proposal of PG&E, Friends of the Earth, NRDC, IBEW Local 1245, et. al. to Retire Diablo Canyon Nuclear Power Plant -
-
-https://ecology.iww.org/node/4026
-
 ## ![](_page_8_Figure_0.jpeg)
 
 Retraining for similarly leveled but differently skilled positions within the same company in the same or nearby location;

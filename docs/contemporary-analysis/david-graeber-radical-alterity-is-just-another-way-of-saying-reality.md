@@ -287,11 +287,9 @@ The problem with cultural relativism is that it places people in boxes not of th
 
 Some people like deep boxes. There seems every reason to believe that those Viveiros de Castro works with, those with whom he struggles for rights to “ontological self-determination,” count among their number. But by that same token, one must respect the desires of those who wish for their boxes to be shallower, or do not wish to be placed in any sort of box at all.
 
-
 *An idea that is not dangerous is unworthy of being called an idea at all.*
 
 – Oscar Wilde.
-
 
 In my more cynical moments, I sometimes think of social theory as a kind of game, where one of the prizes is to see who can come up with the wildest, most shocking, most dangerous-sounding idea, that still does not offer any meaningful challenge to existing structures of authority. And that we have become so used to playing this game that we no longer recognize what a genuinely dangerous idea would even look like.
 
@@ -310,7 +308,6 @@ I have only seen witchcraft once on its path. I had been sitting late in the hut
 True, Evans-Pritchard provides one potential, “rational” explanation, but he doesn’t seem to set much stock by it. And the simple, matter-of-fact quality of the description is clearly designed to open up a sense of unsettling possibility: who knows, maybe there actually is something going on here that we just don’t know about? Since after all, if someone *that* no-nonsense tells you there might be something happening that science can’t account for, one has to confront the possibility that he might actually be right.
 
 ### References
-
 
 Albert, Ethel. 1956. “The classification of values, a method and illustration.” *American Anthropologist* 58 (2): 221–48.
 
@@ -477,7 +474,6 @@ Viveiros de Castro, Eduardo. 1992. *From the enemy’s point of view: humanity a
 Wagner, Roy. (1975) 1981. *The invention of culture*. Chicago: University of Chicago Press. Whitehead, Alfred North. 1923. *Process and reality*: *An essay in cosmology*. New York: MacMillan.
 
 Winch, Peter. 1964. “Understanding a primitive society.” *American Philosophical Quarterly* 1 (4): 307–24.
-
 
 [1] I would like to thank Rita Astuti, Maurice Bloch, Sophie Carapetian, Giovanni da Col, Rebecca Coles, Julie Goldsmith, Stephanie Grohmann, Mervyn Hartwig, Erica Lagalisse, Niall McDevitt, Hayder Al-Mohammad, Heathcote Ruthven, Marshall Sahlins, Alpa Shah, David Wengrow, Heather Williams, and Matthew Wilde for helpful readings and reflections.
 

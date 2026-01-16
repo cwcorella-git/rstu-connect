@@ -84,23 +84,23 @@ Here are some common mistakes that developers make in creating a game concept:
 
 - The concept is totally off base or inapplicable to the company's current plans. If you don't want to waste your time writing up concepts that get tossed, find out what the company in question is looking for and keep an ear to the ground for opportunities with which your idea may be a good fit.
 
-- 
+-
 
 - In terms of resources, the document asks for the moon. Try to keep your concept within the realm of possibility. Keeping the budgets down by suggesting existing tools or properties to reuse is helpful. Limit your ideas to that which can be accomplished in a timely fashion and with a reasonable budget. Limit experimental technologies to one area. Don't suggest revolutionary AI as well as a new, state-of-the-art 3D engine. If you are being solicited to produce the game concept, find out what the time frame and budget expectations are first.
 
-- 
+-
 
 - The document lacks content. Simply saying, "It's Command & Conquer meets Mech Warrior where you order your 'Mechs in tactical combat," is insufficient. Your description has to explain the actions that the player will perform and make them seem fun. A good description might read, for example, "You order your 'Mech to fire at point-blank range on the exposed right torso of the Clan Mad Cat Omni Mech." This kind of descriptive content will help mitigate misinterpretations of the core game play that you envision.
 
-- 
+-
 
 - The game isn't fun. A useful exercise is to break down all of the player verbs (such as shoot, command, run, purchase, build, and look) and envision how player performs each. Then, for each verb, ask yourself if it's fun. Then ask yourself if the target market would find it fun. Be objective. If the action that the player takes isn't fun, figure out another action for the player to take that is fun or drop the verb entirely.
 
-- 
+-
 
 - The game-concept document employs poor language and grammar. Don't make yourself look like an ass or an idiot. Check your grammar and spelling and avoid four-letter words and sexual innuendo. You don't know who will ultimately read your document or whom you might offend with some particularly expressive words. Even the macho, politically incorrect, culturally insensitive, slangusing manager with whom you exchange dirty jokes over a beer at lunchtime can get quite sensitive with documented verbiage.
 
-- 
+-
 
 - The designer gives up. Don't give up submitting ideas. You never know when one of them will take off. Persistence pays off, believe me.
 
@@ -126,7 +126,7 @@ The game proposal includes the following features:
 
 - Target market: The target market is defined by the genre and the platform, issues that have been already addressed in the concept document. You can qualify this definition by mentioning specific titles that epitomize this market. The most successful of these titles will indicate the viability and size of the market. Also mention the typical age range, gender, and any other key characteristics. If this game involves a licensed property or is a sequel, describe the existing market.
 
-- 
+-
 
 - Top performers: List the top performers in the market. Express their sales numbers in terms of units, breaking out any notable data-disk numbers and any successful sequels. Include their ship date. You can be vague -- Q1 1998 or spring 1998. This research can go way back, so present your data in chronological order.
 
@@ -145,15 +145,15 @@ Technical analysis: The technical analysis should be written by a seasoned progr
 
 - Risks: List any technical risks. If you don't foresee any technical risks, by all means say so. Risks are any aspect of research and development that will cause a major set back (weeks or months) if they fail. List technologies that, though they've been proven to work by competitors, your company has never developed or with which your company has little experience. List, for example, real-time strategy if your team has never developed a real-time strategy game before; or 3D rendering if this is your first foray into 3D. List any of the major development tasks mentioned previously if you perceive any risk. All untried off-the-shelf solutions (3D engines, editors, code libraries and APIs, drivers, and so on) should be listed as risks because they may end up not fulfilling your particular needs. Any development done by an outside contractor should also be listed, as that's always a big risk. When assessing risks, you should also indicate the likely impact that fixing or replacing the technology will have on the schedule. Indicate the time in weeks or months that the ship date will slip. List the time impact on specific resources. List any new resources (people, software, hardware, and so on) that would be required to fix it. This section may seem pessimistic, but it creates a comfort level for your document's reviewers - they will come away with the impression that the game implementation is under control, especially if they can perceive these risks themselves. Plus you'll have the opportunity to say, "You can't say I didn't warn you."
 
-- 
+-
 
 - Alternatives (if any): Alternatives are suggestions for working around some of these experimental or risky features and major development tasks. By presenting alternatives, you give the reviewers options and let them make the choices. List anything that might cost more money or time than desired but might have better results, or vice versa (it may cost less money and time but it may have less desirable results). Whatever you do, be sure to spell out the pros and cons.
 
-- 
+-
 
 - Estimated resources: List the estimated resources: employees, contractors, software, hardware, and so on. Use generic, industrystandard titles for people outside of the company: for instance, the publisher or investor who might read your document. List their time estimates in work months or weeks. Ignore actual costs (dollars), as that comes later.
 
-- 
+-
 
 - Estimated Schedule: The schedule is an overall duration of the development cycle followed by milestone estimates, starting with the earliest possible start date, then alpha, beta, and gold master.
 

@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/still-solidarity-solitary-message-inside-suwannee-correctional-institution
-
 **Tags:** Industrial Workers of the World (IWW), United States, repression, prisons, Florida, Incarcerated Workers Organizing Committee, Ezzial Williams
 
 Incarcerated Fellow Worker Ezzial Williams speaks out from solitary confinement. Ezzial is serving 18 months Close Management for 'inciting a riot' in the weeks leading up to the August 21st 2018 nationwide prison strike. This article previously appeared in the Industrial Worker.

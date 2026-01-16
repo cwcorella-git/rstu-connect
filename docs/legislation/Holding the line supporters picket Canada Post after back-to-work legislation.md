@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 #### **Source:**
-
-https://libcom.org/article/holding-line-supporters-picket-canada-post-after-back-work-legislation
-
 **Tags:** Industrial Workers of the World (IWW), United States, strikes, postal service, CUPW, Canada
 
 ## Post, Organizing Work

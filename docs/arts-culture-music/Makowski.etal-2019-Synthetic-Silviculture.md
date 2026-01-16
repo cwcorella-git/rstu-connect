@@ -23,7 +23,7 @@ Miłosz Makowski, Torsten Hädrich, Jan Scheffczyk, Dominik L. Michels, Sören P
 
 Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org.
 
-© 2019 Association for Computing Machinery. 0730-0301/2019/7-ART131 \$15.00 
+© 2019 Association for Computing Machinery. 0730-0301/2019/7-ART131 \$15.00
 
 ## 1 INTRODUCTION
 
@@ -111,7 +111,7 @@ We provide a set of module prototypes $S = \{G_1, G_2, \dots, G_{|S|}\}$ . A mod
 
 A plant model in our method is represented as an ordered tree graph of connected modules $u \in U$ referred to as the module architecture (Fig. 5, a) with root module $u_{\text{root}}$ . This architecture is developed during the simulation (Fig. 4, c). At each simulation step we first estimate the light exposure Q for each module and calculate its growth potential vigor $\bar{v}$ . Then, we determine how quickly each module develops (i.e. the physiological age) and whether, where, and how to attach or detach modules.
 
-5.2.1 Light and Vigor Distribution. We assume that plant growth is constrained by light availability (space). To estimate the available space for module growth, we define spherical bounding volumes $B_u$ 
+5.2.1 Light and Vigor Distribution. We assume that plant growth is constrained by light availability (space). To estimate the available space for module growth, we define spherical bounding volumes $B_u$
 
 ![](_page_4_Figure_2.jpeg)
 

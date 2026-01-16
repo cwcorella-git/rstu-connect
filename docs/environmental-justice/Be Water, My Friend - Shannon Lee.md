@@ -1963,7 +1963,7 @@ Identifiers: LCCN 2020031675 | ISBN 9781250206688 (hardcover) | ISBN 97812507948
 
 Subjects: LCSH: Martial arts—Philosophy. | Spiritual life. | Lee, Bruce, 1940– 1973.
 
-Classification: LCC GV1101 . L44 2020 | DDC 796.8—dc23 LC record available at 
+Classification: LCC GV1101 . L44 2020 | DDC 796.8—dc23 LC record available at
 
 ### eISBN 9781250206695
 

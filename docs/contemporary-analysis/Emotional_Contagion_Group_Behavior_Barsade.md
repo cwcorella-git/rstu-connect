@@ -19,16 +19,13 @@ Stable URL: [http://www.jstor.org/stable/3094912](http://www.jstor.org/stable/30
 
 ## Accessed: 12/02/2015 02:13
 
-Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
 
 JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
 
 ## ![](_page_0_Picture_10.jpeg)
 
 *Sage Publications, Inc.* and *Johnson Graduate School of Management, Cornell University* are collaborating with JSTOR to digitize, preserve and extend access to *Administrative Science Quarterly.*
-
-http://www.jstor.org
-
 The Ripple Effect: Emotional Contagion and Its Influence on Group Behavior
 
 Sigal G. Barsade Yale University Group emotional contagion, the transfer of moods among people in a group, and its influence on work group dynamics was examined in a laboratory study of managerial decision making using multiple, convergent measures of mood, individual attitudes, behavior, and group-level dynamics. Using a 2 x 2 experimental design, with a trained confederate enacting mood conditions, the predicted effect of emotional contagion was found among group members, using both outside coders' ratings of participants' mood and participants' self-reported mood. No hypothesized differences in contagion effects due to the degree of pleasantness of the mood expressed and the energy level with which it was conveyed were found. There was a significant influence of emotional contagion on individual-level attitudes and group processes. As predicted, the positive emotional contagion group members experienced improved cooperation, decreased conflict, and increased perceived task performance. Theoretical implications and practical ramifications of emotional contagion in groups and organizations are discussed.
@@ -43,7 +40,7 @@ Implicit attention has been paid to collective emotion in the organizational beh
 
 © 2002 by Johnson Graduate School, Cornell University. 0001-8392/02/4704-644/\$3.00.
 
-- 
+-
 
 I would like to thank Barry Staw, Charles O'Reilly, JB, Ken Craik, Jennifer Chatman, J. Turners, Batia Wiesenfeld, John Nezlek, Linda Johanson, Joe Porac, Keith Murnighan, Sara Manning, and three anonymous ASQ reviewers for their help and the positive emotional contagion they have induced.
 

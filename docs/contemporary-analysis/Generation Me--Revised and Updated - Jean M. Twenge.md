@@ -37,7 +37,7 @@ Why Today's Young Americans Are More Confident, Assertive, Entitled—and More M
 
 "Dr. Jean Twenge provides an insightful analysis of the young adults she labels 'Gen Me'—their supreme self-confidence in their own worth, their concern with doing things 'their way,' and the benefits and costs that come from their focus on themselves. Twenge draws upon her outstanding research to describe generational differences and their sources, lending an authority to her analysis that few previous commentators on Gen Me have enjoyed."
 
-—Susan Nolen-Hoeksema, PhD, Yale University professor and author of *Women Who Think Too Much* 
+—Susan Nolen-Hoeksema, PhD, Yale University professor and author of *Women Who Think Too Much*
 
 "Jean Twenge has the intelligence and courage to voice a concern that is in the minds of all today's parents. If you want your child to succeed in today's world, read this book."
 
@@ -195,7 +195,7 @@ Gen Me believes that people should follow their dreams and not be held back by s
 
 This is the good part of the trend—Gen Me'ers enjoy unprecedented freedom to pursue what makes them happy and to look past traditional distinctions based on race, gender, and sexual orientation. But their high expectations, combined with an increasingly competitive world, have led to a darker flip side, in which they blame other people for their problems and sink into anxiety and depression. Perhaps because of the focus on the self, sexual behavior has also changed radically: these days, sex outside of marriage is not the main story—the focus is on hooking up, or sex without the benefit of a romantic relationship at all.
 
-My perspective on today's young generation differs from that of Neil Howe and William Strauss, who argued in their 2000 book, *Millennials Rising*, that those born since 1982 will usher in a return to duty, civic responsibility, and teamwork. Their book is subtitled *The Next Great* 
+My perspective on today's young generation differs from that of Neil Howe and William Strauss, who argued in their 2000 book, *Millennials Rising*, that those born since 1982 will usher in a return to duty, civic responsibility, and teamwork. Their book is subtitled *The Next Great*
 
 Generation and contends that today's young people will resemble the generation who won World War II. I agree that in an all-encompassing crisis today's young people would likely rise to the occasion—people usually do what needs to be done. But there is little evidence that today's young people feel much attachment to duty or to group cohesion—high school students in the 2000s and 2010s are significantly less civically engaged and less trustful of government and other large institutions than Boomers were in the 1970s. Instead, young people have been consistently taught to put their own needs first and to focus on feeling good about themselves. This attitude is not conducive to following social rules or favoring the group's needs over the individual's. Fewer young people are interested in joining the military now than when the Boomers and GenX'ers were young; this generation is no more inclined than Boomers were to get killed in a war. Even the subtitle, The Next Great Generation, displays the hubris fed to the young by their adoring elders. When the World War II generation was growing up during the 1920s, no one was calling them the Greatest Generation and telling them they were the best kids ever. That label was not even applied to them until 2001, more than fifty years after their accomplishments during the 1940s.
 
@@ -2724,7 +2724,7 @@ As education professor Maureen Stout notes: Stout, Feel-Good Curriculum, 3–4.
 - A 2010 survey raised the bar: "26% of Teens Expected to Become Famous by Age 25," Barna Group Youth Poll, May 10, 2010, [https://www.barna.org/barna-update/article/16](https://www.barna.org/barna-update/article/16-teensnext-gen/366-teenagers-want-successful-careers-and-global-travel-expect-to-delay-marriage-a-parenting) [teensnext-gen/366-teenagers-want-successful-careers-and-global-travel-expect-to](https://www.barna.org/barna-update/article/16-teensnext-gen/366-teenagers-want-successful-careers-and-global-travel-expect-to-delay-marriage-a-parenting)[delay-marriage-a-parenting.](https://www.barna.org/barna-update/article/16-teensnext-gen/366-teenagers-want-successful-careers-and-global-travel-expect-to-delay-marriage-a-parenting)
 - Quarterlife Crisis concludes that twentysomethings: Robbins and Wilner, Quarterlife Crisis, 109.
 - Tim Urban recently published an article: "Wait but Why, Why Generation Y Yuppies Are Unhappy," Huffington Post, September 15, 2013, [http://www.huffingtonpost.com/wait](http://www.huffingtonpost.com/wait-but-why/generation-y-unhappy_b_3930620.html)[but-why/generation-y-unhappy\\_b\\_3930620.html](http://www.huffingtonpost.com/wait-but-why/generation-y-unhappy_b_3930620.html)
-- A Kaiser Family Foundation study found: V. Rideout, U. G. Foehr, and D. F. Roberts, "Generation M2: Media in the Lives of 8-to-18-Year Olds," Kaiser Family Foundation study, January 2010, [http://kff.org/other/event/generation-m2-media-in-the-lives-of/;](http://kff.org/other/event/generation-m2-media-in-the-lives-of/) and 
+- A Kaiser Family Foundation study found: V. Rideout, U. G. Foehr, and D. F. Roberts, "Generation M2: Media in the Lives of 8-to-18-Year Olds," Kaiser Family Foundation study, January 2010, [http://kff.org/other/event/generation-m2-media-in-the-lives-of/;](http://kff.org/other/event/generation-m2-media-in-the-lives-of/) and
 - Writer Cathi Hanauer sums this up: Cathi Hanauer. ed., The Bitch in the House (New York: Harper Collins Perennial, 2002), xv.
 - In Quarterlife Crisis, Joanna says: Robbins and Wilner, Quarterlife Crisis, 93.
 - In her book on eating disorders: Joan Jacobs Brumberg, Fasting Girls (New York: New American Library, 1989), 267.
@@ -3097,7 +3097,6 @@ In one study, college career counselors named: L. M. Hite and K. S. Mc Donald, "
 
 ## Index
 
-
 A
 Abdul, Paula, 119, 120
 abortions:
@@ -3133,7 +3132,7 @@ Ameri Corps, 101, 269
 Anderson, Ethan, 221
 Aniston, Jennifer, 135
 anxiety, 145–47, 148, 156, 202
-## 
+##
 
 appearance, obsession on, 134–36
 Armstrong, Elizabeth, 216
@@ -3179,7 +3178,7 @@ self-focus of, 59–63, 66, 67, 68–69
 bankruptcy, personal, 170
 Basinger, Kim, 61
 Basu, Alo, 122
-## 
+##
 
 Battle Hymn of the Tiger Mother (Chua), 307
 Baumeister, Roy, 88, 294, 307
@@ -3225,7 +3224,7 @@ Carrey, Jim, 25
 celebrity:
  dreams of, 171
  obsession with, 121
-## 
+##
 
 and obsession with appearance, 134–36
 Chappelle, Dave, 231
@@ -3272,7 +3271,7 @@ Cohen, Eric, 141
 Colbert Report, The (TV), 193
 Colin, Chris, 107–8, 122, 155, 198, 295
 college admissions, 157–59
-## 
+##
 
 college populations, 321–22
 Collins, Rebecca, 219
@@ -3319,7 +3318,7 @@ culture:
  and ethnic pride, 234–36
  influence of, 11, 69, 311
  and marriage, 156
-## 
+##
 
 and movie themes, 118–19
 Culture of Fear, The (Glassner), 179
@@ -3365,7 +3364,7 @@ disengagement, 181–203
 divorce, 130, 151, 153
 Dolan-Pascoe, Brenda, 80
 dominance, 126
-## 
+##
 
 donations, charitable, 44, 100, 102
 Donne, John, 296
@@ -3411,7 +3410,7 @@ entitlement, 85–86, 92, 97–98, 266
 entrepreneurship, 275–76, 288–90
 environment, concern for, 188–89
 Epplin, Luke, 107, 108
-## 
+##
 
 equality, 227–60
  civil rights movement, 227–29, 233
@@ -3457,7 +3456,7 @@ freedom:
  and self-doubt, 160
 Freeman, Elise, 186
 Free to Be . . . You and Me (film), 240
-## 
+##
 
 Friends (TV), 39
 friendships, 312–13
@@ -3503,7 +3502,7 @@ Generation Me, first edition of, xii, xiii, xvi, 6, 285–86, 301
 Generation We (2008), 186
 Generation Whatever, 181–82
 Generation X:
-## 
+##
 
 being yourself, 24
  birth year of (1961–81), 5, 6
@@ -3549,7 +3548,7 @@ group membership, 47
 Growing (Up) at Thirty-Seven (Rubin), 60
 Growing Up Digital (Tapscott), 13, 28
 Guerra, Patricia, 166
-## 
+##
 
 H
 Hais, Michael, 185
@@ -3595,7 +3594,7 @@ Hung, William, 119–20
 Huxley, Aldous, 65
 Hyde, Janet, 80
 hypomania, 145–46
-## 
+##
 
 I
 i Generation (i Gen), 5
@@ -3641,7 +3640,7 @@ isolation, 149–57
 It's a Wonderful Life (film), 119
 It's Never Too Soon to Discipline (Peters), 306
 I Want a Famous Face (TV), 134
-## 
+##
 
 J
 James, E L, 122
@@ -3687,7 +3686,7 @@ K
 Kamen, Paula, 210, 239
 Kardashian, Kim, 213
 Kasser, Tim, 275
-## 
+##
 
 Kato, Lesley, 295
 Katz, Lilian, 97
@@ -3731,7 +3730,7 @@ Lords, Traci, 213
 Lost in Transition (Smith), 30, 187
 luck, 194–96, 294
 Lyons, Sean, 272
-## 
+##
 
 Macko, Lia, 108, 252, 254
 Maduro, E. S., 246
@@ -3778,7 +3777,7 @@ media:
  and sex, 218–21, 222
  stories about threats in, 177–79
  violence shown in, 310–11
-## 
+##
 
 medicine, distrust in, 190–91
 Meeker, Meg, 220
@@ -3825,7 +3824,7 @@ movies:
  and social rules, 24–27
 multitasking, 315–16
 Murphy Brown (TV), 39
-## 
+##
 
 Murray, Sandra, 131
 Myers, David, 179–80
@@ -3869,7 +3868,7 @@ oversharing, 50–51
 overthinking, 311–12
 P
 Palosz, Bart, 148
-## 
+##
 
 Paltrow, Gwyneth, 123
 parents:
@@ -3916,7 +3915,7 @@ Pond, Richard, 96
 Poniewozik, James, 120
 pornography, 213–14
 possessions, 137–41
-## 
+##
 
 Post, Andrew, 166–67
 Postman, Neil, 192, 220
@@ -3961,7 +3960,7 @@ religion, 42–48
  fundamentalist, 46–47, 75
  and homosexuality, 259
  make-your-own, 46
-## 
+##
 
 restrictive rules of, 46
  therapeutic individualism in, 45
@@ -4007,7 +4006,7 @@ Sanford and Son (TV), 175
 Sarbanes-Oxley, 34
 Schneider, Barbara, 110
 Scholar, The (TV), 124
-## 
+##
 
 schools, see education
 Schor, Juliet, 138
@@ -4054,7 +4053,7 @@ self-love, 129–34, 295
 Self Matters (Dr. Phil), 65
 self-promotion, 126
 self-satisfaction, 67, 68
-## 
+##
 
 Seligman, Martin, 66, 88, 177
 Seligson, Hannah, 100–101
@@ -4101,7 +4100,7 @@ Smith, Howard, 237–38
 Smith, Kevin, 24
 Snapchat, 123, 221
 social change, 323–24
-## 
+##
 
 social consciousness, 100
 social networking, 104–6, 123, 150, 156
@@ -4148,7 +4147,7 @@ stress, 142–80
  and depression, 142–45, 146–47
  economic causes of, 160–70
  and jobs, 159–60
-## 
+##
 
 and loneliness, 149–57
  media stories as sources of, 177–79
@@ -4194,7 +4193,7 @@ Titanic, 98
 Title IX, 244–45
 tolerance, 28, 31–32, 103, 104
 Torrance Tests of Creative Thinking, 87–88
-## 
+##
 
 traits, use of term, 319–20
 Trinkaus, John, 32
@@ -4238,7 +4237,7 @@ Watergate, 190
 wealth, age distribution of, 161
 We Are All Special (coloring book), 2
 weddings:
-## 
+##
 
 over-the-top, 123
  personalized, 41–42
@@ -4283,7 +4282,7 @@ York, Sara Ferguson, Duchess of, 61
  and delusions of grandeur, 120, 141, 172
  and expectations, 109–14, 172
  extending adolescence via, 114–19
-## 
+##
 
 and fame, 120–24
  and "Follow your dreams," 112–14
@@ -4299,7 +4298,7 @@ Zappos, 271
 Zhang, Liqing, 183
 Zoloft, 143, 144
 Zucker, Bonnie, 128
-## 
+##
 ## ![](_page_362_Picture_0.jpeg)
 
 A Division of Simon & Schuster, Inc. 1230 Avenue of the Americas New York, NY 10020 [www. Simonand Schuster.com](http://www.simonandschuster.com/)

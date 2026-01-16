@@ -13,7 +13,7 @@ category: "contemporary-analysis"
 
 ## The Sunday Times Bestseller
 
-# 
+#
 
 # STATUS GAME
 
@@ -2096,9 +2096,8 @@ Easter Sunday 2018: https://www.youtube.com/watch?v=Y5zx1xzzi7k.
 - Ed Kemper had paranoid schizophrenia (although this remains contested): Kemper's defence of insanity rested on this claim, which was disputed at trial by Dr Joel Fort.
 - 'showed indications of schizophrenia': 'My Brother, the Unabomber', Michaela Haas, 25 February 2016, Medium.
 
-
 'I cut o her head and I humiliated her corpse': Murder: No Apparent Motive, HBO documentary, 1984.
-## 
+##
 'seemed appropriate as much as she'd': Mindhunter, John Douglas (Random House, 2017), p. 108.
 
 'He was a man on a mission': Mindhunter, John Douglas (Random House, 2017), p. 391.
@@ -2744,10 +2743,9 @@ member of the Mbuti in the Congo was caught cheating: Moral Origins, Christopher
 - A coee at a cafe might cost: The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 2290.
 - by December 1923 that same dollar cost 4,200,000,000,000 marks: The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 2247.
 
-
 when Germany fell behind on its reparations of gold and coal: The Coming of the Third Reich, Richard Evans (Penguin,
  2004). Kindle location 2211.
-## 
+##
 'The sense of outrage and disbelief that swept through': The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 1568.
 
 'secret, planned, demagogic campaign': The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 1491.
@@ -2826,7 +2824,6 @@ Muenchen (as per September 2020). 'until they have become addicted to us': The C
 
 the motorway: The Third Reich in Power, Richard Evans (Penguin, 2006), pp. 322–328.
 
-
 5 billion marks … subsidies for house … substantial amounts in deprived areas: The Third Reich in Power, Richard Evans
  (Penguin, 2006), p. 330.
 interest-free loans … nearly a quarter of a million: The Third Reich in Power, Richard Evans (Penguin, 2006), pp. 330, 331.
@@ -2874,7 +2871,7 @@ a butcher sculpted Hitler in lard: Marketing the Third Reich, Nicholas O'Shaughn
  (Routledge, 2017), p. 116.
 'perhaps even millions': The Coming of the Third Reich, Richard Evans (Penguin, 2004). Kindle location 6604.
 'caught in a mob of ten thousand hysterics': Berlin Diary: The Journal of a Foreign Correspondent, 1934–1941, William L.
-## 
+##
 Shirer (Ishi Press, 2010), p. 17.
 
 - One study of ninety-four wars since 1648: Virtuous Violence, Alan Fiske and Tage Shakti Rai (Cambridge University Press, 2014), p. 94.
@@ -2915,10 +2912,9 @@ Shirer (Ishi Press, 2010), p. 17.
 - advised maidens to always 'marry into their own estate': The Politico's World, Joan Wildeblood and Peter Brinson (Oxford University Press, 1965), p. 21.
 - one in ten global marriages are between relatives: The Weirdest People in the World, Joseph Henrich (Penguin, 2020), p. 157.
 
-
 Partly it has to do with lucky geography: This argument was made in Guns, Germs, and Steel, Jared Diamond (Vintage,
  1998).
-## 
+##
 the roots of Western individualism: This argument was made in The Geography of Thought, Richard E. Nisbett (Nicholas Brealey, 2003) and explored further in my 2017 book Sele.
 
 for the Catholic Church's weird preoccupation with incest: This argument was made in The Weirdest People in the World, Joseph Henrich (Penguin, 2020).
@@ -3195,9 +3191,8 @@ a sequence of tweets by a US journalist, Rani Molla: https://twitter.com/ranimol
 
 Molla has written for the Wall Street Journal: https://www.vox.com/authors/rani-molla(accessed 10 November 2020).
 
-
 When the New Right look upwards: National Populism, Roger Eatwell and Matthew Goodwin (Pelican Books, 2018), p. 106.
-## 
+##
 41 per cent of white millennials: National Populism, Roger Eatwell and Matthew Goodwin (Pelican Books, 2018), p. 10.
 
 white non-college voters comprised around three-fths: National Populism, Roger Eatwell and Matthew Goodwin (Pelican Books, 2018), p. 26.
@@ -3284,7 +3279,6 @@ This notion is thought to have its roots in Ancient Greece: Communism, Richard P
 
 The word itself was invented in 1840s Paris: Communism, Richard Pipes (Weidenfeld & Nicolson, 2001), pp. ix–xi.
 
-
 80 to 90 per cent of the world's economy had been based on agriculture: Communism, Richard Pipes (Weidenfeld &
  Nicolson, 2001), p. 9.
 resented the rise in status of these nouveaux riches: Communism, Richard Pipes (Weidenfeld & Nicolson, 2001), p. 10.
@@ -3357,7 +3351,7 @@ One witness remembered a 'pretty girl': Cannibal Island, Nicolas Werth (Princeto
  2014). Kindle location 2449.
 Lev Kopelev scolded himself: Revolutionary Russia 1891–1991, Orlando Figes (Pelican, 2014). Kindle location 2487.
 'they are not human beings, they are kulaks': Harvest of Sorrow, Robert Conquest (Vintage, 2002). Kindle location 2807.
-## 
+##
 
 2504.
 At the start of the 1930s goods began disappearing from shops in the towns and cities; severe shortages of foods, clothes
@@ -3425,7 +3419,7 @@ in 1934 1,400 tonnes of cocoa beans: Caviar with Champagne, Jukka Gronow (Berg, 
 'New Year's trees': Caviar with Champagne, Jukka Gronow (Berg, 2003), p. 36.
 fty kinds of bread … 'including twenty new types': Everyday Stalinism, Sheila Fitzpatrick (Oxford University Press, 1999), p.
  90.
-## 
+##
 Americans made ve thousand hamburgers … 'in Germany ice cream is sold': Caviar with Champagne, Jukka Gronow (Berg,
 
 2003), pp. 74–75.
@@ -3490,7 +3484,6 @@ those with 'complex', multiple self-identities: Happiness, Daniel Nettle (Oxford
 
 The page numbers in this index relate to the printed version of this book; they do not match the pages of your ebook. You can use your ebook reader's search tool to nd a specic word or passage.
 
-
 Acemoglu, Daron, 241
 African Americans, 52, 270, 275–6
 age, 309; and cues for choosing who to copy, 49; and New Left, 268–9; status
@@ -3520,7 +3513,7 @@ attractive people, 39
 Australia, 30, 34, 98, 106–7, 164
 Bacete, Francisco Juan García, 171
 Balch, Robert, 199
-## 
+##
 banking elites, 234
 
 Barbaro, Francesco, 238 Barkow, Jerome, 45–6, 103–5 Barlow, John Perry, 171–2 Bascom, William, 28–9 Beck, Glenn, 72

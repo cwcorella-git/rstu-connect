@@ -191,9 +191,6 @@ Notes:
 ## [1]
 
 "An Open Letter to Big 3 Auto CEOs: The Climate Movement Stands with UAW!"
-
-https://www.labor4sustainability.org/uaw-solidarity-letter/
-
 ## ![](_page_12_Figure_0.jpeg)
 
 | https://www.cbsnews.com/news/uaw-demands-2023-strike-why-contract-negotiations/|
@@ -255,17 +252,8 @@ ID%2D19 |
 ## | [17] |
 
 "Senate Bill No. 519, September 20, 2023, Introduced by Senators SINGH, MCCANN, HERTEL, MCDONALD RIVET, GEISS, MCMORROW and SHINK and referred to the Committee on Labor," September 20, 2023.
-
-https://www.legislature.mi.gov/documents/2023-2024/billintroduced/Senate/pdf/2023-SIB-0519.pdf
-
 For an overview of just transition programs, see Jeremy Brecher, "How to Protect Workers While Protecting the Climate," Labor Network for Sustainability, July 15, 2021.
-
-https://www.labor4sustainability.org/just-transition/how-to-protect-workers-while-protecting-the-climate/
-
 For state just transition programs, see Jeremy Brecher, "Protecting Workers and Communities from Below Part 2:There Ought to be a Law," Labor Network for Sustainability, May 15, 2023.
-
-https://www.labor4sustainability.org/strike/protecting-workers-and-communities-from-below-part-2-there-ought-to-be-a-law/
-
 Disclaimer:
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author.

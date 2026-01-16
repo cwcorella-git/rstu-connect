@@ -88,7 +88,7 @@ Liberal-Conservative Mobilization in Turkey |
 | 11 years 5 months ago |
 | In reply to Welcomebylibcom.org |
 | edited: the comment originally posted here was a mislocated comment to this thread
-http://libcom.org/news/anarchism-context-civil-war-08052014|
+
 | (I would link to the individual comment, but individual comment links seem unavailable at the
 moment?) |
 

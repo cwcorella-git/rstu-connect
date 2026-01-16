@@ -1410,5 +1410,3 @@ Mikki Kendall is a writer, speaker, and blogger whose work has appeared in The W
 ## Discover your next great read!
 
 Get personalized book picks and up-to-date news about this author.
-
-Sign up now.

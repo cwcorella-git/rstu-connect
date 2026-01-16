@@ -49,9 +49,8 @@ In *[Physics](https://en.wikipedia.org/wiki/Physics_(Aristotle))*, using the [hy
 
 It is absurd to suppose that ends are not present [in nature] because we do not see an agent deliberating.
 
-
 —Aristotle, Physics, 2.8, 199b27-9[i]
-## 
+##
 These Platonic and Aristotelian arguments ran counter to those presented earlier by [Democritus](https://en.wikipedia.org/wiki/Democritus) and later by [Lucretius,](https://en.wikipedia.org/wiki/Lucretius) both of whom were supporters of what is now often called [accidentalism:](https://en.wikipedia.org/wiki/Accidentalism_(philosophy))
 
 Nothing in the body is made in order that we may use it. What happens to exist is the cause of its use.

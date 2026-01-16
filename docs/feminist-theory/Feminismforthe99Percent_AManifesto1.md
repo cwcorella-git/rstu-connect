@@ -23,7 +23,7 @@ tags:
 
 # [Journal of International Women's Studies](https://vc.bridgew.edu/jiws)
 
-[Volume 22](https://vc.bridgew.edu/jiws/vol22) [Issue 1](https://vc.bridgew.edu/jiws/vol22/iss1) [Article 33](https://vc.bridgew.edu/jiws/vol22/iss1/33) 
+[Volume 22](https://vc.bridgew.edu/jiws/vol22) [Issue 1](https://vc.bridgew.edu/jiws/vol22/iss1) [Article 33](https://vc.bridgew.edu/jiws/vol22/iss1/33)
 
 ## February 2021
 
@@ -35,7 +35,7 @@ Follow this and additional works at: [https://vc.bridgew.edu/jiws](https://vc.br
 
 ## ![](_page_1_Picture_7.jpeg)
 
-Part of the [Women's Studies Commons](http://network.bepress.com/hgg/discipline/561?utm_source=vc.bridgew.edu%2Fjiws%2Fvol22%2Fiss1%2F33&utm_medium=PDF&utm_campaign=PDFCover Pages) 
+Part of the [Women's Studies Commons](http://network.bepress.com/hgg/discipline/561?utm_source=vc.bridgew.edu%2Fjiws%2Fvol22%2Fiss1%2F33&utm_medium=PDF&utm_campaign=PDFCover Pages)
 
 Cover Page Footnote:
 

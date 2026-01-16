@@ -206,7 +206,7 @@ Imagine, for a moment, that there had been a hidden microphone in the pastry sho
 
 Now this latter point is technically true, but once again, absurd if you have the slightest bit of context. In Canada, Jaggi is something of a public figure. He appears on TV regularly, as spokesperson for CLAC or some other radical organization. As a result, he gets arrested all the time. It has become something of a running gag in radical circles in Canada. Before every big action or mobilization, the police will almost invariably come in and arrest Jaggi Singh; partly, it would seem, just because he’s the only prominent anarchist they’ve actually heard of.
 
-> 
+>
 “Here come the anti-US protesters again. Everything in place?
 
 “Riot control gas?” “Check.”
@@ -3463,28 +3463,26 @@ Since this is a book about direct action, it might be best to begin by explainin
 
 Over the years, hundreds of anarchists have tried to answer this question, in pamphlets and broadsides and speeches. Here’s a sampling:
 
-
 Direct action implies one’s acting for one’s self, in a fashion in which one may weigh directly the problem with which you are confronted, and without needing the mediation of politicians or bureaucrats. If you see some bulldozers about to wreck your house, you engage in direct action to directly intervene to try to stop them. Direct action places moral conscience up against the official law… It is the expression of the individual’s readiness to fight, to take control of his life, and to try, directly, to act on the world that surrounds us, to take responsibility for one’s actions.
 
 —*Sans Titres Bulletin*, “What is Direct Action?”
 
-
-> 
+>
 To take a homely example. If the butcher weighs one’s meat with his thumb on the scale, one may complain about it and tell him he is a bandit who robs the poor, and if he persists and one does nothing else, this is mere talk; one may call the Department of Weights and Measures, and this is indirect action; or one may, talk failing, insist on weighing one’s own meat, bring along a scale to check the butcher’s weight, take one’s business somewhere else, help open a cooperative store, etc., and these are direct actions.
 
 —David Wieck, “Habits of Direct Action”
 
-> 
+>
 Direct Action aims to achieve our goals through our own activity rather than through the actions of others. It is about people taking power for themselves. In this, it is distinguished from most other forms of political action such as voting, lobbying, attempting to exert political pressure though industrial action or through the media. All of these activities… concede our power to existing institutions which work to prevent us from acting ourselves to change the status quo. Direct Action repudiates such acceptance of the existing order and suggests that we have both the right and the power to change the world. It demonstrates this by doing it. Examples of Direct Action include blockades, pickets, sabotage, squatting, tree spiking, lockouts, occupations, rolling strikes, slow downs, the revolutionary general strike. In the community it involves, amongst other things, establishing our own organizations such as food co-ops and community access radio and TV … Direct Action is not only a method of protest but also a way of “building the future now.” Any situation where people organize to extend control over their own circumstances without recourse to capital or state constitutes Direct Action… Where it succeeds, Direct Action shows that people can control their own lives—in effect, that an Anarchist society is possible.
 
 —Rob Sparrow, “Anarchist Politics and Direct Action”
 
-> 
+>
 Every person who ever thought he had a right to assert something, and went boldly and asserted it, himself, or jointly with others that shared his convictions, was a direct actionist… Every person who ever had a plan to do anything, and went and did it, or who laid his plan before others, and won their co-operation to do it with him, without going to external authorities to please do the thing for them, was a direct actionist… Every person who ever in his life had a difference with anyone to settle, and went straight to the other persons involved to settle it, either by a peaceable plan or otherwise, was a direct actionist.
 
 —Voltairine De Cleyre, “Direct Action”
 
-> 
+>
 Man has as much liberty as he is willing to take. Anarchism therefore stands for direct action, the open defiance of, and resistance to, all laws and restrictions, economic, social and moral. But defiance and resistance are illegal. Therein lies the salvation of man. Everything illegal necessitates integrity, self-reliance, and courage. In short, it calls for free, independent spirits, for men who are men, and who have a bone in their back which you cannot pass your hand through.
 
 —Emma Goldman, “Anarchism: What It Really Stands For”
@@ -3795,10 +3793,8 @@ Still, this formulation remains more than a little crude. Probably, the real opp
 
 ### **RANDOM OBSERVATIONS ON ACTIVIST CULTURE**
 
-
 A society that denies us every adventure makes its own abolition the only possible adventure.
 *—*Reclaim the Streets slogan
-
 
 If one sees capitalism as a gigantic meaningless engine of endless expansion that reduces the majority of the planet’s inhabitants to hopeless poverty, that reduces even its beneficiaries to lonely isolated atoms doomed by fear and insecurity to lives of mind-numbing work and meaningless consumerism, even as it threatens the destruction of the planet—but if at the same time, one does not wish to, or does not believe it possible to simply flee the system, but rather wishes to stay and fight—then what precisely can one do? What sort of social relations is it possible to create among those who wish to make their lives a refusal of the very logic of capitalism, even as they necessarily remain inside it?
 

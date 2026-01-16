@@ -1925,9 +1925,6 @@ May need to make it required reading for the developers at my studio."
 > —Adam Conover, executive producer and host of truTV's *Adam Ruins Everything*
 
 ## ![](_page_241_Picture_0.jpeg)
-
-Sign up for Bookperk and get e-book bargains, sneak peeks, special offers, and more—delivered straight to your inbox.
-
 ## **SIGN UP NOW**
 
 # **Copyright**

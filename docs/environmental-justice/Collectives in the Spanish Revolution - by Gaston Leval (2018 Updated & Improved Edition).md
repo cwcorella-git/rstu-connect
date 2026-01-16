@@ -14,9 +14,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/collectives-spanish-revolution-gaston-leval-2018-updated-improved-edition
-
 **Tags:** economics, libertarian communism, Spain, syndicalism, anarcho-syndicalism, Spanish civil war, peasants, Confederación Nacional del Trabajo (CNT), Buenaventura Durruti, Federación Anarquista Ibérica (FAI)
 
 A new, updated, and improved edition of a classic of anarcho-syndicalist economics -- a detailed eyewitness and analysis of the successes and struggles of a libertarian socialist economy

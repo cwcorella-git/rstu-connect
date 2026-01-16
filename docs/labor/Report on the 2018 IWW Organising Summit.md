@@ -76,9 +76,6 @@ And that's about it, there was a closing plenary and a social/fundraiser for the
 Thanks for the detailed report. It was a good meeting - unfortunately we couldn't attend other workshops during the second half, as we presented our west London experiences and put forward some points for discussion:
 
 Longer version of presentation here:
-
-https://iww.org.uk/news/a-preliminary-summary-of-an-iww-organising-effort-winter-2017-18-west-london/
-
 Points for discussion - IWW organising summit 2018
 
 Based on the experiences in London I want to raise some general points for discussion.

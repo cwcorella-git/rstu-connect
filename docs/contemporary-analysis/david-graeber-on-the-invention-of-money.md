@@ -85,7 +85,7 @@ Even when strangers met and barter did ensue, people often had a lot more on the
 
 The first example is from the Amazonian Nambikwara, as described in an early essay by the famous French anthropologist Claude Levi-Strauss. This was a simple society without much in the way of division of labor, organized into small bands that traditionally numbered at best a hundred people each. Occasionally if one band spots the cooking fires of another in their vicinity, they will send emissaries to negotiate a meeting for purposes of trade. If the offer is accepted, they will first hide their women and children in the forest, then invite the men of other band to visit camp. Each band has a chief and once everyone has been assembled, each chief gives a formal speech praising the other party and belittling his own; everyone puts aside their weapons to sing and dance together—though the dance is one that mimics military confrontation. Then, individuals from each side approach each other to trade:
 
-> 
+>
 
 If an individual wants an object he extols it by saying how fine it is. If a man values an object and wants much in exchange for it, instead of saying that it is very valuable he says that it is worthless, thus showing his desire to keep it. ‘This axe is no good, it is very old, it is very dull’, he will say… [8]
 

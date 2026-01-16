@@ -207,7 +207,7 @@ KASP *Krašto apsaugos savanorių pajėgos* (Lithuanian
 
 LRU Lithuanian Riflemen's Union MOND Ministry of National Defence
 
-NATO North Atlantic Treaty Organization NKVD *Narodnyi Komissariat Vnutrennikh Del* 
+NATO North Atlantic Treaty Organization NKVD *Narodnyi Komissariat Vnutrennikh Del*
 
 ## (People's Commissariat for Internal Affairs)
 
@@ -2451,15 +2451,9 @@ Altman, Howard, "\$250 Million Aid Package to Ukraine Will Support US Security T
 Andrijauskas, Romas, Stasė Andrijauskienė, Alfonsas Andriukaitis, Edmundas Bartuška, Vytautas Bastys, Vytautas Bogušis, Vladas Bobinas, Romas Vitkevičius, Jonas Volungevičius, Jonas Dambrauskas, Jonas Eišvidas, Rimas Žukauskas, Ivars Žukovksis, Alfredas Zeideks, Juris Ziemelis, Liutauras Kazakevičius, Leonas Laurinskas, Rimas Mažukna, Mocius, Mart Niklus, Napoleonas Narkūnas, Sigitas Paulavičius, Angelė Paškauskienė, Kęstutis Povilaitis, Jadvyga Petkevičienė, Jonas Petkevičius, Jonas Protuse-vičius, Sigitas Randis, Endel Ratas, Henrikas Sambore, Julius Sasnauskas, Leonora Sasnauskaitė, Algis Statkevičius, Kęstutis Subačius, Enn Tarto, Antanas Terleckas, Erik Udam, Ints Calitis, Petras Cidzikas, Arvydas Čekanavičius, Vladas Šakalys, Jonas Šerkšnas, Zigmas Širvinskas, Mečislovas Jurevičius, and Virgilijus Jaugelis, "A Statement of Baltic Representatives," August 23, 1979. As of September 21, 2020: http://www.lituanus.org/1980\_1/80\_1\_01.htm
 
 Apor, Balázs, Péter Apor, and Sándor Horváth, *The Handbook of Courage: Cultural Opposition and Its Heritage in Eastern Europe*, Budapest, Hungary: Research Centre for the Humanities of the Hungarian Academy of Sciences, 2018. As of January 10, 2020:
-
-http://cultural-opposition.eu/activities/handbook/
-
 Araja, Dita, "Nevardarbīgas pretošanās paraugs [Example of Non-Violent Resistance]," *Diena*, January 13, 2006.
 
 "Ar kampaņu 'Esi viens no mums!' bruņotie spēki aicina jauniešus stāties profesionālajā dienestā [With a Campaign 'Be One of Us!' The Armed Forces Are Inviting Youth to Joint Professional Service]," Sargs.lv, February 5, 2016. As of August 20, 2020:
-
-http://www.sargs.lv/lv/Zinas/Latvija/2016/02/05-01.aspx#lastcomment
-
 Arreguín-Toft, Ivan, "How the Weak Win Wars: A Theory of Asymmetric Conflict," *International Security*, Vol. 26, No. 1, Summer 2001, pp. 93–128.
 
 Atkeson, Edward B., "The Relevance of Civilian Based Defense to US Security Interests, Part II," *Military Review*, U. S. Army Command and General Staff College, Fort Leavenworth, Kan., June 1976, pp. 45–55.
@@ -2471,37 +2465,22 @@ Auliciema, Marianna, and Kristine Bekere, eds., "Nyet nyet Soviet. Stasti par La
 Bajarūnas, Eitvydas, and Vytautas Keršanskas, "Hybrid Threats: Analysis of Content, Challenges Posed and Measures to Overcome," *Lithuanian Annual Strategic Review*, Vol. 16, No. 1, 2017–2018.
 
 Baltic Defence Cooperation Ministerial Committee, "Joint Communiqué of the Baltic Defence Cooperation Ministerial Committee," Tartu, Estonia, June 20, 2019. As of October 13, 2020:
-
-https://kam.lt/download/
-
 65679/2019%2006%2020%203b%20joint%20communique.pdf
 
 Baltic Initiative and Network, "The Museum of the Barricades of 1991, Riga," webpage, undated. As of April 4, 2020:
-
-http://coldwarsites.net/country/latvia/the-museum-of-the-barricades-of-1991-riga/
-
 Balzer, Harley, "The Ukraine Invasion and Public Opinion," *Georgetown Journal of International Affairs*, Vol. 16, No. 1, Winter–Spring 2015, pp. 79–93.
 
 Bārkans, Elmārs, "Arī Latvijas cilvēkus lūgs sapirkt pārtiku, sērkociņus, zāles un citas vajadzīgas lietas krīzes gadījumam [Latvian Residents Will Also Be Asked to Buy Food, Matches, Medicine and Other Items for Crisis Situations]," jauns.lv, March 26, 2019.
 
 Barokadopēdija, "1991: Janvāris [1991: January]," webpage, undated. As of April 4, 2020:
-
-https://www.barikadopedija.lv/raksti/1991
-
 Bartkowski, Maciej J., ed., *Recovering Nonviolent History: Civil Resistance in Liberation Struggles*, Boulder, Colo.: Lynne Rienner Publishers, 2013.
 
 ———, *Nonviolent Civilian Defense to Counter Russian Hybrid Warfare*, Washington, D. C.: Johns Hopkins University Center for Advanced Governmental Studies, March 2015a. As of April 4, 2020:
-
-https://www.nonviolent-conflict.org/
-
 wp-content/uploads/2018/12/GOV1501\_White Paper\_Bartkowski.pdf
 
 ———, "Countering Hybrid War: Civil Resistance as a National Defence Strategy," open Democracy, May 12, 2015b. As of April 4, 2020: https://www.opendemocracy.net/en/civilresistance/countering-hybrid-war-civil-resistance-as-national-defence-strateg/
 
 Berzins, Mikelis I., "Analyzing and Understanding the Latvian Environmental Movement," capstone project, Corvallis, Ore.: Oregon State University, 2015. As of April 4, 2020:
-
-https://ir.library.oregonstate.edu/concern/graduate\_projects/707959237
-
 Beyerle, Shaazka, *Curtailing Corruption: People Power for Accountability and Justice*, Boulder, Colo.: Lynne Rienner Publishers, 2014.
 
 Beyerle, Shaazka, and Arwa Hassan, "Popular Resistance Against Corruption in Turkey and Egypt," in Maria J. Stephan, ed., *Civilian Jihad: Nonviolent Struggle, Democratization, and Governance in the Middle East*, New York: Palgrave Mc Millan, 2009, pp. 265–280.
@@ -2511,9 +2490,6 @@ Binnendijk, Anika Locke, and Ivan Marovic, "Power and Persuasion: Nonviolent Str
 Binnendijk, Anika, and Miranda Priebe, *An Attack Against Them All? Drivers of Decisions to Contribute to NATO Collective Defense*, Santa Monica, Calif.: RAND Corporation, RR-2964-OSD, 2019. As of August 14, 2020: https://www.rand.org/pubs/research\_reports/RR2964.html
 
 Bleiere, Daina, "Padomju otrreizējā okupācija Latvijā [Second Soviet Occupation in Latvia]," Nacionālā enciklopēdija, updated May 18, 2020. As of August 14, 2020:
-
-https://enciklopedija.lv/skirklis/22220
-
 "Britain to Repay Baltic States for Seizure of Gold Deposits," *Washington Post*, January 23, 1992.
 
 Buckley, Cynthia, Ralph Clem, Jarod Fox, and Erik Herron, "The War in Ukraine Is More Devastating Than You Know," *Washington Post*, April 9, 2018.
@@ -2523,23 +2499,14 @@ Bungs, Dzintra, "Joint Political Initiatives by Estonians, Latvians, and Lithuan
 Buttar, Prit, *Between Giants: The Battle for the Baltics in World War II*, Oxford, UK: Osprey Publishing, 2013.
 
 Carter, Joe, "5 Facts About Captive Nations Week," Ethics and Religious Liberty Commission of the Southern Baptist Convention, July 21, 2016. As of January 23, 2020:
-
-https://erlc.com/resource-library/articles/5-facts-about-captive-nations-week
-
 CCDCOE—*See* North Atlantic Treaty Organization Cooperative Cyber Defence Centre of Excellence.
 
 CERT. LV, "Valsts iestāžu vadītāji piedalās kiberdrošības mācībās 'Kiberdzirnas 2016' [Institution Leaders Participate in Cyber Security Exercise 'Cyber Mill 2016']," December 8, 2016. As of August 18, 2020:
-
-https://cert.lv/lv/2016/12/
-
 valsts-iestazu-vaditaji-piedalas-kiberdrosibas-macibas-kiberdzirnas-2016
 
 Chapple, Amos, "Lithuanian Independence: Recording the First Crack in the U. S. S. R.," Radio Free Europe/Radio Liberty, March 11, 2020.
 
 Charap, Samuel, Elina Treyger, and Edward Geist, *Understanding Russia's Intervention in Syria*, Santa Monica, Calif.: RAND Corporation, RR-3180-AF, 2019. As of August 24, 2020:
-
-https://www.rand.org/pubs/research\_reports/RR3180.html
-
 Chenoweth, Erica, and Kurt Schock, "Do Contemporaneous Armed Challenges Affect the Outcomes of Mass Nonviolent Campaigns?" *Mobilization*, Vol. 20, No. 4, December 1, 2015, pp. 427–451.
 
 Chenoweth, Erica, and Maria J. Stephan, *Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict*, New York: Columbia University Press, 2011.
@@ -2561,9 +2528,6 @@ Dorronsoro, Gilles, *The Taliban's Winning Strategy in Afghanistan*, Washington,
 taliban-s-winning-strategy-in-afghanistan-pub-23331
 
 Dūdienė, Asta, ed., *War After War: Armed Anti-Soviet Resistance in Lithuania*, 1944–1953, Vilnius, Lithuania: Lithuanian Ministry of National Defence, 2006. As of September 21, 2020:
-
-https://kam.lt/download/48070/karas\_po\_karo\_eng.pdf
-
 Edelstein, David M., "Occupational Hazards: Why Military Occupations Succeed or Fail," *International Security*, Vol. 29, No. 1, Summer 2004, pp. 49–91.
 
 Eglitis, Olgerts, *Nonviolent Action in the Liberation of Latvia*, Monograph Series No. 5, Boston, Mass.: Albert Einstein Institution, 1993.
@@ -2571,67 +2535,31 @@ Eglitis, Olgerts, *Nonviolent Action in the Liberation of Latvia*, Monograph Ser
 Estonian Defence League, "Estonian Defence League," webpage, last updated April 3, 2020. As of April 4, 2020: https://www.kaitseliit.ee/en/edl
 
 Estonian Ministry of Defence, *National Defence Strategy: Estonia*, Tallinn, Estonia, 2011. As of August 18, 2020:
-
-http://www.kaitseministeerium.ee/sites/default/files/elfinder/article\_files/national\_defence\_strategy.pdf
-
 EUR-Lex, "Glossary of Summaries: Mutual Defence Clause," webpage, undated. As of August 18, 2020:
-
-https://eur-lex.europa.eu/summary/glossary/mutual\_defence.html
-
 European Commission, "Baltic Energy Market Interconnection Plan," webpage, July 31, 2014. As of August 18, 2020:
-
-https://ec.europa.eu/energy/en/topics/infrastructure/high-level-groups/baltic-energy-market-interconnection-plan
-
 ———, "State of the Energy Union 2015," Commission Staff Working Document, Brussels, Belgium, November 18, 2015. As of August 18, 2020: https://ec.europa.eu/energy/sites/ener/files/documents/4\_Overview%20oil%20stocks.pdf
 
 ———, *Report from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions: Renewable Energy Progress Report*, Brussels, Belgium, April 9, 2019a. As of August 18, 2020:
-
-https://ec.europa.eu/commission/sites/beta-political/files/report-progress-renewable-energy-april2019\_en.pdf
-
 ———, "EU Foreign Investment Screening Regulation Enters into Force," webpage, April 10, 2019b. As of August 18, 2020: http://trade.ec.europa.eu/doclib/press/index.cfm?id=2008
 
 ———, "Estonia: Overview of the National Disaster Management System," webpage, last updated October 8, 2019c. As of August 18, 2020: https://ec.europa.eu/echo/what/civil-protection/disaster-management/estonia\_en
 
 ———, "EU Civil Protection Mechanism," webpage, last updated May 4, 2020. As of August 18, 2020:
-
-https://ec.europa.eu/echo/what/civil-protection/mechanism\_en
-
 European Parliament and Council of the European Union, Directive 2010/13/EU of the European Parliament and of the Council, *Official Journal of the European Union*, March 10, 2010. As of October 12, 2020:
-
-https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0013
-
 Eurostat, "Oil Stocks—Emergency Stocks in Days Equivalent—Monthly Data," webpage, last updated March 9, 2020. As of August 18, 2020: https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=nrg\_143m&lang=en
 
 Fiala, Otto C., *Resistance Operating Concept*, Stockholm, Sweden: Swedish Defence University, 2019a. As of September 18, 2020:
-
-https://www.diva-portal.org/smash/get/diva2:1392106/FULLTEXT01.pdf
-
 ———, "Special Operations Command Europe Resistance Operating Concept," briefing slides, Special Operations Command Europe, May 2019b. As of August 20, 2020:
-
-https://nsiteam.com/
-
 special-operations-command-europe-soceur-resistance-operating-concept/
 
 Flanagan, Stephen J., Jan Osburg, Anika Binnendijk, Marta Kepe, and Andrew Radin, *Deterring Russian Aggression in the Baltic States Through Resilience and Resistance*, Santa Monica, Calif.: RAND Corporation, RR-2779-OSD, 2019. As of August 18, 2020:
-
-https://www.rand.org/pubs/research\_reports/RR2779.html
-
 Fonay, Kyle W., "On Guerrilla Warfare: Two Takes, Mao vs. Guevara," *Small Wars Journal*, August 18, 2013. As of October 13, 2020:
-
-https://smallwarsjournal.com/jrnl/art/
-
 on-guerrilla-warfare-two-takes-mao-vs-guevara
 
 Ford, Christopher M., "Speak No Evil: Targeting a Population's Neutrality to Defeat an Insurgency," *Parameters*, Vol. 35, No. 2, Summer 2005, pp. 51–66.
 
 Friber, John, "Trojan Footprint—UW in the Baltic States," SOF News, June 15, 2018. As of August 18, 2020:
-
-http://www.sof.news/uw/trojan-footprint/
-
 Garuckas, Karolis, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Viktoras Petkus, and Tomas Venclova, "Dėl dabartinės padėties Lietuvoje. Helsinkio Sustarimu Vykdymui Remti Lietuvos Visuomenine Grupe Pareiskimas. Trisdešmit Penkių Velstybių, 1975 Metų Helsinkio Akto Dalyvių Belgrado Konferencijai [Statement of the Current Situation in Lithuania. Statement to Support the Implementation of the Helsinki Agreements. To the Belgrade Conference of Thirty-Five States Parties to the Helsinki Act of 1975]," *Chronicle of the Catholic Church in Lithuania*, July 17, 1977. As of September 21, 2020:
-
-http://www.lkbkronika.lt/index.php/ausra-nr-8/
-
 1297-trisdesimt-penkiu-valstybiu-1975-metu-helsinkio-aktodalyviu-belgrado-konferencijai
 
 Geeraerts, Gustaaf, "Two Approaches to Civilian Defence," *Security Dialogue*, Vol. 9, No. 4, October 1978, pp. 316–320.
@@ -2641,45 +2569,21 @@ Gerdziunas, Benas, "Baltics Battle Russian in Online Disinformation War," Deutsc
 Girnius, Saulius, "The Demise of the Lithuanian Helsinki Group," *Lituanus*, Vol. 30, No. 2, Summer 1984.
 
 Government of Estonia, State of Emergency Act, January 10, 1996. As of September 21, 2020:
-
-https://www.riigiteataja.ee/en/eli/ee/512052020002/consolide
-
 ———, Assistant Police Officer Act, November 24, 2010. As of August 18, 2020: https://www.riigiteataja.ee/en/eli/526062014002/consolide
 
 ———, The Estonian Defence League Act, February 28, 2013. As of April 4, 2020:
-
-https://www.riigiteataja.ee/en/eli/525112013006/consolide
-
 ———, Emergency Act, July 1, 2017a. As of August 18, 2020: https://www.riigiteataja.ee/en/eli/513062017001/consolide
 
 ———, *National Security Concept 2017*, Tallinn, Estonia, 2017b. As of August 18, 2020:
-
-http://www.kaitseministeerium.ee/sites/default/files/elfinder/article\_files/national\_security\_concept\_2017\_0.pdf
-
 Government of Latvia, National Security Law, December 14, 2000. As of April 4, 2020:
-
-https://likumi.lv/ta/en/en/id/14011-national-security-law
-
 ———, The National Guard of the Republic of Latvia Law, May 6, 2010. As of April 4, 2020:
-
-https://likumi.lv/ta/en/en/id/210634
-
 rezervju-izveidei-not...
 
 ———, "Procedures for the Ensuring and Providing of Emergency Stock Services by Merchant for the Establishment of State Petroleum Product Stocks in a Specified Amount," April 12, 2011. As of August 18, 2020: https://likumi.lv/ta/id/229001-kartiba-kada-komersanti-nodrosina-un-sniedz-drosibas-rezervju-pakalpojumu-valsts-naftas-produktu-drosibas-
 
 ———, *The National Security Concept (Informative Section)*, Riga, Latvia, 2016. As of August 18, 2020:
-
-https://www.mod.gov.lv/sites/mod/files/document/NDK\_ENG\_final.pdf
-
 Government of Lithuania, The Constitution of the Republic of Lithuania, October 25, 1992. As of August 18, 2020:
-
-https://www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
-
 ———, Law of the Republic of Lithuania on the Lithuanian Riflemen's Union, July 2, 1997. As of April 4, 2020:
-
-https://www.sauliusajunga.lt/wp-content/uploads/2019/03/LAW.pdf
-
 ———, Law on the Organisation of the National Defence System and Military Service, May 5, 1998. As of April 4, 2020:
 
 https://e-seimas.lrs.lt/portal/legal Act/lt/TAD/a02d70a507f311e8802fc9918087744d?jfwid=2r1mlj3y
@@ -2689,9 +2593,6 @@ https://e-seimas.lrs.lt/portal/legal Act/lt/TAD/a02d70a507f311e8802fc9918087744d
 Guevara, Che, *Guerrilla Warfare*, 3rd. ed., ed. Brian Loveman, Wilmington, Del.: Scholarly Resources Inc., [1960] 1997.
 
 Hartmanis, Jānis, "Latviešu nacionālo partizānu cīņa pret padomju okupācijas režīmu 1944.—1956. [Latvian National Partisan Fight Against the Soviet Occupation Regime in 1944–1956]," Sargs.lv, April 12, 2016. As of October 17, 2016:
-
-http://www.sargs.lv/lv/Vesture/Vesture/2016/04/12-01.aspx#lastcomment
-
 Helvey, Robert L., *On Strategic Nonviolent Conflict: Thinking About the Fundamentals*, Boston, Mass.: Albert Einstein Institution, 2004.
 
 Herem, Martin, "The Strategy and Activity of the Forest Brothers: 1947–1950," *CTX*, Vol. 3, No. 3, August 2013, pp. 39–53.
@@ -2709,25 +2610,16 @@ Horowitz, Michael C., Evan Perkoski, and Philip B. K. Potter, "Tactical Diversit
 "Insurgents in Afghanistan Have Mastered Media Manipulation," *Armed Forces Journal*, April 1, 2008.
 
 International Committee of the Red Cross, Protocol Additional to the Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of International Armed Conflicts (Protocol I), of 8 June 1977, Geneva, Switzerland, May 2010. As of April 4, 2020:
-
-https://www.icrc.org/en/doc/assets/files/other/icrc\_002\_0321.pdf
-
 International Holocaust Remembrance Alliance, "Uku and Eha Masing, Righteous Among the Nations," webpage, January 28, 2019. As of April 4, 2020: https://www.holocaustremembrance.com/ihmd-events/uku-and-eha-masing-righteous-among-nations
 
 Itkowitz, Colby, "How Jane Fonda's 1972 Trip to North Vietnam Earned Her the Nickname 'Hanoi Jane,'" *Washington Post*, September 21, 2018.
 
 "Jackal Stone 10 SOF Exercise Concludes in Poland," Shadow Spear, October 12, 2010. As of September 21, 2020:
-
-https://www.shadowspear.com/2010/10/jackal-stone-10-conclusion/
-
 Jakubcionis, Algirdas, *The Unarmed Anti-Soviet Resistance in Lithuania*, Vilnius, Lithuania: Genocide and Resistance Research Centre of Lithuania, 2011.
 
 Jakubec, Pavol, "Together and Alone in Allied London: Czechoslovak, Norwegian and Polish Governments-in-Exile, 1940–1945," *International History Review*, Vol. 42, No. 3, 2020, pp. 465–484.
 
 Joint Baltic American National Committee, Inc., "House and Senate Baltic Caucuses Poised for Historic Expansion in 2019," April 23, 2019. As of August 19, 2020:
-
-https://www.jbanc.org/single-post/2019/04/23/
-
 House-and-Senate-Baltic-Caucuses-poised-for-historic-expansion-in-2019
 
 Jones, Hannah, "Tahitians Campaign to Stop French Nuclear Testing, 1995," Global Nonviolent Action Database, March 22, 2011. As of April 4, 2020: https://nvdatabase.swarthmore.edu/content/tahitians-campaign-stop-french-nuclear-testing-1995
@@ -2735,9 +2627,6 @@ Jones, Hannah, "Tahitians Campaign to Stop French Nuclear Testing, 1995," Global
 Juurvee, Ivo, Ramon Loik, Mari-Ann Ploom, Tõnis Hintsov, Andres Parve, and Eerik Heldna, *Preparing for Crises in Estonia: Improvement Options for Civilian Food and Emergency Goods Supplies*, Tallinn, Estonia: International Centre for Defence and Security, February 2020. As of August 19, 2020: https://icds.ee/wp-content/uploads/2020/02/ICDS\_Report\_Summary\_Preparing\_for\_Crises\_in\_Estonia\_Juurvee\_Loik\_February\_2020.pdf
 
 Kaasik, Peeter, "The June Deportation, 1941," webpage, Estonica, last updated October 1, 2012a. As of October 17, 2016:
-
-http://www.estonica.org/en/The\_June\_deportation,\_1941/
-
 ———, "Estonian National Independence Party," webpage, Estonica, last modified October 2, 2012b. As of January 24, 2020: http://www.estonica.org/en/Estonian\_National\_Independence\_Party/
 
 Kalinovsky, Artemy M., and Sergey Radchenko, "Why Russia No Longer Regrets Its Invasion of Afghanistan," *Washington Post*, February 15, 2019.
@@ -2753,23 +2642,11 @@ Kivirähk, Juhan, *Public Opinion and National Defence*, Tallinn, Estonia: Eston
 Klavins & Slaidins Lawin, "Issues Relating to Foreign Investment," information sheet, Lex Mundi, 2010. As of September 21, 2020: http://www.lexmundi.com/Document.asp?DocID=1673
 
 Kofman, Michael, Katya Migacheva, Brian Nichiporuk, Andrew Radin, Olesya Tkacheva, and Jenny Oberholtzer, *Lessons from Russia's Operations in Crimea and Eastern Ukraine*, Santa Monica, Calif.: RAND Corporation, RR-1498-A, 2017. As of August 18, 2020:
-
-https://www.rand.org/pubs/research\_reports/RR1498.html
-
 Kramer, Andrew E., "Spooked by Russia, Tiny Estonia Trains a Nation of Insurgents," *New York Times*, October 31, 2016.
 
 Kudors, Andis, "Latvia: Disinformation Resilience Index," Ukrainian Prism, July 31, 2018. As of August 18, 2020:
-
-http://prismua.org/en/english-latvia-disinformation-resilience-index/
-
 Kumer-Haukanõmm, Kaja, and Keiu Telve, *Estonian Human Development Report 2016/2017: Estonia at the Age of Migration—2.1. Estonians in the World*, Tallinn, Estonia: Foundation Estonian Cooperation Assembly, 2017. As of August 18, 2020:
-
-https://inimareng.ee/en/open-to-the-world/estonians-in-the-world/
-
 Kuul, Margus, *Civil Resistance: An Essential Element of a Total Defense Strategy*, thesis, Monterey, Calif.: Naval Postgraduate School, June 2014. As of April 4, 2020:
-
-https://www.hsdl.org/?view&did=760860
-
 Kuusk, Pearu, "The Post-WWII Armed Resistance to Soviet Power in Estonia," webpage, Estonica, last modified October 1, 2012. As of August 18, 2020: http://www.estonica.org/en/
 
 The\_post-WW\_II\_armed\_resistance\_to\_Soviet\_power\_in\_Estonia/
@@ -2785,43 +2662,22 @@ Latvenergo, "Latvenergo AS Increases Its Share Capital," Globe Newswire, June 20
 Latvian Cabinet of Ministers, Noteikumi par iedzīvotāju nodrošināšanu ar pārtiku valsts apdraudējuma gadījumā [Food Provisions to Population in the Event of Crisis to the State], August 28, 2007. As of August 18, 2020: https://m.likumi.lv/doc.php?id=162510#piel1
 
 Latvian Footprints, "Latvians in America from 1949 to Today," webpage, undated. As of October 17, 2016:
-
-http://pedas.lapamuzejs.lv/?page\_id=549&lang=en
-
 Latvian Ministry of Agriculture, "Valsts mēroga civilās aizsardzības mācības 'STORMEX 2016' [Nationwide Civil Protection Training 'STORMEX 2016']," October 21, 2016. As of December 2, 2020:
-
-https://www.zm.gov.lv/valsts-meza-dienests/jaunumi/valsts-meroga-civilas-aizsardzibas-macibas-stormex-2016-?id=8294
-
 Latvian Ministry of Defence, *Latvijas iedzīvotāju viedoklis par valsts aizsardzības jautājumiem [Opinion of Latvian Residents About State Defense Issues]*, Latvian public opinion poll, Riga, Latvia, November 2016. As of August 18, 2020: https://www.mod.gov.lv/sites/mod/files/
 
 ## document/SKDS\_aptauja\_2016%20%281%29.pdf
 
 ———, *Comprehensive National Defence in Latvia*, Riga, Latvia, 2019a. As of August 18, 2020:
-
-https://www.mod.gov.lv
-
 ———, "Latvijā uzsāks visaptversošas valsts aizsardzības sistēmas ieviešanu [Latvia Starts Implementing a Comprehensive Defense System]," July 1, 2019b. As of August 18, 2020:
-
-https://www.mod.gov.lv/en/node/6947
-
 "Latvijas Gaze AS," Reuters, last updated August 20, 2020. As of August 20, 2020:
 
 https://www.reuters.com/companies/GZE1R. RI
 
 Lawyers Latvia.com, "Latvian Legislation on Foreign Investments," last updated August 21, 2015. As of August 20, 2020:
-
-https://www.lawyerslatvia.com/latvian-legislation-on-foreign-investments
-
 Lessenski, Marin, *Common Sense Wanted: Resilience to "Post-Truth" and Its Predictors in the New Media Literacy Index 2018*, Sofia, Bulgaria: Open Society Institute—Sofia, March 2018. As of August 18, 2020:
-
-https://osis.bg/wp-content/uploads/2018/04/
-
 ## Media Literacy Index2018\_publishENG.pdf
 
 LETA, "leM izstrādāti ietekumi, kā iedzīvotājiem rīkoties kara gadījumā [MoI Has Developed Recommendations on What Residents Should Do in Case of War]," TVNET.lv, March 18, 2015. As of August 20, 2020:
-
-https://www.tvnet.lv/5226110/iem-izstradati-ieteikumi-ka-iedzivotajiem-rikoti
-
 LETA/TBT Staff, "Lithuania's School Year Extended by 10 Days, National Defense, Sex Education Courses Added," *Baltic Times*, August 27, 2017.
 
 ———, "Government Still to Decide Whether to Use Preemptive Right Regarding Gazprom Shares," *Baltic Times*, December 30, 2019.
@@ -2847,17 +2703,11 @@ Martin, Brian, *Justice Ignited: The Dynamics of Backfire*, Lanham, Md.: Rowman 
 Martin, Brian, and Wendy Varney, "Nonviolence and Communication," *Journal of Peace Research*, Vol. 40, No. 2, March 2003, pp. 213–232.
 
 May, Clifford D., and Thomas J. Reese, "Another Missed Opportunity: Russia Evades Designation for Religious Repression," Atlantic Council, January 31, 2018. As of April 4, 2020:
-
-https://www.atlanticcouncil.org/blogs/ukrainealert/another-missed-opportunity-russia-evades-designation-for-religious-repression/
-
 Mc Kew, Molly K., "'They Will Die in Tallinn': Estonia Girds for War with Russia," *Politico Magazine*, July 10, 2018.
 
 Mc Manus, Doyle, "Bush, Gorbachev Dealings Reach Impasse over Baltics: Diplomacy: U. S. Plans to File Charges of Rights Abuse in Lithuania, One of Many Issues Bedeviling Relationship," *Los Angeles Times*, January 23, 1991.
 
 Miniotaite, Grazina, *Nonviolent Resistance in Lithuania: A Story of Peaceful Liberation*, Washington, D. C.: Albert Einstein Institution, 2002. As of November 10, 2019:
-
-https://www.nonviolent-conflict.org/resource/nonviolent-resistance-lithuania-story-peaceful-liberation/
-
 ———, "Retracing Lithuania's Steps Toward Independence," *Draugas News*, February 15, 2015.
 
 Ministry of Defence of Latvia, "Buklets 'Kā rīkoties krīzes situācijā'" [Booklet 'What to Do in a Crisis Situation']," webpage, undated. As of September 21, 2020: https://www.sargs.lv/lv/buklets-ka-rikoties-krizes-situacija
@@ -2867,43 +2717,25 @@ Ministry of Defence of Latvia, "Buklets 'Kā rīkoties krīzes situācijā'" [Bo
 Ministry of Foreign Affairs of the Republic of Latvia, Diasporas politika Latvijā [Latvian Diaspora Policy], March 1, 2017. As of August 18, 2020: https://www.mfa.gov.lv/arpolitika/diasporas-politika/diasporas-politika-latvija
 
 Ministry of the Interior of Estonia, "Valitsus ootab asutustelt 72-tunnist valmisolekut elutähtsate teenuste katkestusel [The Government Expects to Be Ready for a 72-Hour Break in Vital Services]," July 20, 2017a. As of August 20, 2020:
-
-https://www.siseministeerium.ee/et/uudised/
-
 valitsus-ootab-asutustelt-72-tunnist-valmisolekut-elutahtsate-teenuste-katkestusel
 
 ———, "Crisis Management," webpage, last updated September 27, 2017b. As of August 18, 2020:
-
-https://www.siseministeerium.ee/en/activities/crisis-management
-
 ———, "Crisis Management: State Launched Crisis Preparedness Campaign," March 26, 2019. As of August 20, 2020: https://www.siseministeerium.ee/ru/novosti/gosudarstvo-nachalo-informacionnuyu-kampaniyu-po-teme-podgotovki-kkrizisam Ministry of the Interior and the Government of Estonia, *Code of Conduct for Crisis Situations*, 2018. As of August 18, 2020: https://www.rescue.ee/files/2020-03/elanikkonnakaitse-a4-en.pdf?977eed4edf Ministry of the Interior of Latvia, *Vai tu zini, ka rikoties arkartas gadijumos? [Do You Know What to Do in an Emergency?]*, undated. As of August 18, 2020: https://www.iem.gov.lv/lv/ka-rikoties-arkartas-gadijuma/vugd\_all-2.pdf Ministry of National Defence of Lithuania, "Ką turime žinoti apie pasirengimą ekstremaliosioms situacijoms ir karo metui: rimti patarimai linksmai [Prepare to Survive Emergencies and War: A Cheerful Take on Serious Recommendations]," Vilnius, Lithuania, 2015. As of August 18, 2020: https://kam.lt/download/50719/ka%20turime%20zinoti%20praktiniai%20patarimai-lt-el.pdf ———, "Ką turime žinoti apie pasipriešinimą: Aktyviu veiksmu gaires [What August 18, 2020:
 
 We Need to Know About Resistance: Guidelines for Active Action]," 2016a. As of https://kam.lt/lt/katurimezinoti.html
 
 ———, "Defence Policy," webpage, last updated July 22, 2016b. As of August 20, 2020:
-
-https://kam.lt/en/defence\_policy\_1053.html
-
 ———, "Ministry of National Defence Issues Third Publication on Civil Resistance," news release, October 27, 2016c. As of August 20, 2020: https://kam.lt/en/news\_1098/current\_issues/ministry\_of\_national\_defence\_issued\_third\_publication\_on\_civil\_resistance.html
 
 ———, "Numbers of Citizens Who Have Confidence in the Lithuanian Armed Forces and Are Prepared to Defend the Motherland Are Increasing," January 7, 2019. As of August 20, 2020:
-
-https://kam.lt/en/news\_1098/current\_issues/
-
 numbers\_of\_citizens\_who\_have\_confidence\_in\_the\_lithuanian\_armed\_forces\_ and\_are\_prepared\_to\_defend\_the\_motherland\_are\_increasing.html
 
 ———, "Budget Statement: Appropriations for National Defence 2020," March 30, 2020. As of August 18, 2020: https://kam.lt/en/budget\_1065.html
 
 Mizokami, Kyle, "How NATO Uses Trees to Stop Tanks," *Popular Mechanics*, January 10, 2017. As of August 18, 2020:
-
-https://www.popularmechanics.com/military/weapons/a24691/nato-abatis-anti-tank-defense/
-
 MOND—*See* Ministry of National Defence.
 
 Morris, Chris, "Crimea Referendum: Voters 'Back Russia Union,'" BBC News, March 16, 2014. As of April 4, 2020:
-
-https://www.bbc.com/news/world-europe-26606097
-
 Morrow, James D., *Order Within Anarchy: The Laws of War as an International Institution*, New York: Cambridge University Press, 2014.
 
 Mouritzen, Hans, ed., *Bordering Russia: Theory and Prospects for Europe's Baltic Rim*, New York: Routledge, 1998.
@@ -2933,45 +2765,21 @@ Nepstad, Sharon Erickson, *Nonviolent Revolutions: Civil Resistance in the Late 
 Nikers, Olevs, "Inside Latvia's New State Defense Concept: Riga Declares Its Military Ambitions Ahead of NATO Summit," *Eurasia Daily Monitor*, Vol. 13, No. 104, May 28, 2016.
 
 North Atlantic Treaty Organization, "Defence Expenditure of NATO Countries (2011–2018)," press release, Brussels, Belgium, March 14, 2019a. As of August 18, 2020:
-
-https://www.nato.int/nato\_static\_fl2014/assets/pdf/pdf\_2019\_03/190314-pr2018-34-eng.pdf
-
 ———, "Crisis Management Exercise 2019," press release, Brussels, Belgium, last updated May 3, 2019b. As of August 25, 2020:
-
-https://www.nato.int/cps/en/natohq/news\_165844.htm
-
 ———, "Collective Defence—Article 5," webpage, last updated November 25, 2019c. As of August 18, 2020:
-
-https://www.nato.int/cps/en/natohq/topics\_110496.htm
-
 ———, "Resilience and Article 3," webpage, last updated March 31, 2020. As of August 21, 2020:
-
-https://www.nato.int/cps/en/natohq/topics\_132722.htm
-
 North Atlantic Treaty Organization Cooperative Cyber Defence Centre of Excellence, "Locked Shields," webpage, undated. As of August 18, 2020: https://ccdcoe.org/exercises/locked-shields/
 
 Occupation Museum Foundation, *The Three Occupations of Latvia, 1940–1991: Soviet and Nazi Take-Overs and Their Consequences*, Riga, Latvia, 2005. As of September 21, 2020:
-
-https://www.mfa.gov.lv/data/file/e/P/3\_okupacijas.pdf
-
 "Occupied But Not Silenced. January 13, 1991: The Night When Soviets Stormed LRT," LRT, January 12, 2020. As of April 4, 2020:
-
-https://www.lrt.lt/en/news-in-english/19/1132182/
-
 occupied-but-not-silenced-january-13-1991-the-night-when-soviets-stormed-lrt
 
 Office of Soviet Analysis, Central Intelligence Agency, "The Costs of Soviet Involvement in Afghanistan: An Intelligence Assessment," Washington, D. C., February 1987. As of April 4, 2020:
-
-https://www.cia.gov/library/readingroom/docs/DOC\_0000499320.pdf
-
 Official Statistics Portal, "Lithuanians in the World," December 12, 2014. As of August 20, 2020:
 
 https://osp.stat.gov.lt/en/informaciniai-pranesimai?article Id=3046777
 
 O'Hanlon, Michael E., and Christopher Skaluba, "A Report from NATO's Front Lines," *Order from Chaos* blog, Brookings Institution, June 13, 2019. As of April 4, 2020:
-
-https://www.brookings.edu/blog/order-from-chaos/2019/06/13/a-report-from-natos-front-lines/
-
 Olson, Mancur, *The Logic of Collective Action: Public Goods and the Theory of Groups*, Cambridge, Mass.: Harvard University Press, 1971.
 
 O'Neill, Monique, "SOCEUR and Swedish Defense University Collaborate on Academic Publication, the Resistance Operating Concept (ROC)," Defense Visual Information Distribution Service, December 2, 2019. As of August 20, 2020: https://www.dvidshub.net/news/356342/
@@ -2983,27 +2791,15 @@ Palk, Paavo, "Revelations on the Restoration of Independence," International Cen
 Petersen, Rodger D., *Resistance and Rebellion: Lessons from Eastern Europe*, Cambridge, UK: Cambridge University Press, 2001.
 
 Pettai, Vello A., "Estonia," in Walter R. Iwaskiw, ed., *Estonia, Latvia, and Lithuania Country Studies*, Washington, D. C.: Federal Research Division, Library of Congress, 1996, pp. 1–82. As of April 4, 2020:
-
-https://www.marines.mil/Portals/1/Publications/
-
 Estonia,%20Latvia,%20and%20Lithuania%20Study\_1.pdf
 
 Pew Research Center, "Topline Questionnaire," May 23, 2017. As of August 18, 2020:
-
-https://www.pewresearch.org/global/2017/05/23/natos-image-improves-on-both-sides-of-atlantic/
-
 Phalen, Anthony, and Max Rennebohm, "Latvians Campaign for National Independence, 1989–1991," Global Nonviolent Action Database, 2011. As of April 4, 2020:
-
-https://nvdatabase.swarthmore.edu/content/
-
 latvians-campaign-national-independence-1989-1991
 
 Praks, Henrik, *Hybrid or Not: Deterring and Defeating Russia's Ways of Warfare in the Baltics—The Case of Estonia*, Rome, Italy: Research Division, NATO Defense College, No. 124, December 2015.
 
 President of Latvia, "Duties, Powers, and Rights of the President of Latvia," webpage, undated. As of April 4, 2020:
-
-https://www.president.lv/en/president-of-latvia/institution-of-the-president-of-latvia/duties-and-rights
-
 Punga, Olavi, "Estonia's Forest Brothers in 1941: Goals, Capabilities, and Outcomes," *Combating Terrorism Exchange*, Vol. 3, No. 3, August 2013, pp. 30–38.
 
 Račkauskaitė, Živilė, "Pasipriešinimas sovietiniam režimui Lietuvoje septintajame–aštuntajame dešimtmetyje [Resistance to the Soviet Regime in Lithuania in the 1970s]," *Genocide and Resistance Magazine*, 1988. As of September 21, 2020:
@@ -3011,9 +2807,6 @@ Račkauskaitė, Živilė, "Pasipriešinimas sovietiniam režimui Lietuvoje septi
 http://genocid.lt/Leidyba/4/Zivile.htm#The%20Youth%20Anti-Soviet%20Resistance%20Movement%20in%20Lithuania%20in%20the%20Seventies%20 and%20Eighties
 
 Radin, Andrew, *Hybrid Warfare in the Baltics: Threats and Potential Responses*, Santa Monica, Calif.: RAND Corporation, RR-1577-AF, 2017. As of August 21, 2020:
-
-https://www.rand.org/pubs/research\_reports/RR1577.html
-
 Rain, Liivoja, "Soviet War Crimes in the Baltic States," in Kevin Jon Heller and Gerry Simpson, eds., *The Hidden Histories of War Crimes Trials*, Oxford, UK: Oxford University Press, 2013, pp. 248–266.
 
 Ramonaitė, Ainė, Valdemaras Klumbys, and Rytė Kukulskytė, *Exploring Vindicated Clandestine Networks: The Functioning of Samizdat in Soviet Lithuania*, Vilnius, Lithuania: Vilnius University, September 2013. As of August 18, 2020: https://ecpr.eu/Filestore/Paper Proposal/8af407e7-fbeb-4e65-afb0-b78c79e72d25.pdf
@@ -3023,17 +2816,8 @@ Rannut, Mart, "Beyond Linguistic Policy: The Soviet Union Versus Estonia," *Roli
 Rashid, Ahmed, *Taliban: Militant Islam, Oil and Fundamentalism in Central Asia*, New Haven, Conn.: Yale University Press, 2000.
 
 Red Cross EU Office, "Disaster Preparedness for Older People," webpage, undated. As of August 18, 2020:
-
-https://redcross.eu/projects/disaster-preparedness-for-the-elderly
-
 Reklaitis, George, "Cold War Lithuania: National Armed Resistance and Soviet Counterinsurgency," *Carl Beck Papers in Russian & East European Studies*, No. 1806, July 2007. As of August 20, 2020:
-
-https://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/view/135
-
 Republic of Estonia Defence Forces, "National Defence Development Plan 2017– 2026," webpage, undated. As of August 18, 2020:
-
-http://www.kaitseministeerium.ee/riigikaitse2026/arengukava/eng/
-
 ———, "Siil Exercise Starts in Estonia," May 2, 2018. As of August 18, 2020: http://www.mil.ee/en/News-Archive/10207/siil-exercise-starts-in-estonia
 
 Republic of Lithuania, Law on the Basics of National Security, last amended July 23, 2009. As of August 18, 2020:
@@ -3065,23 +2849,14 @@ Rubin, Barnett R., *The Search for Peace in Afghanistan: From Buffer State to Fa
 Satter, Raphael, and Dmytro Vlasov, "Ukraine Soldiers Bombarded by 'Pinpoint Propaganda' Texts," Associated Press, May 11, 2017.
 
 Sargs.lv, "Brochure: What to Do in Case of a Crisis," webpage, undated. As of August 25, 2020:
-
-https://www.sargs.lv/lv/brochure-what-to-do-in-case-of-crisis
-
 Saum, Karl, "Chapter 3: Small State UW Doctrine: Feasibility and Application for National Defense," in Kevin D. Stringer and Glennis F. Napier, eds., *Resistance Views: Essays on Unconventional Warfare and Small State Resistance*, Mac Dill Air Force Base, Fla.: The JSOU Press, 2018.
 
 Schlotterbeck, Markus, "Golan Druze Resistance to Israeli Forced Citizenship, 1981–1982," Global Nonviolent Action Database, June 17, 2019. As of April 4, 2020:
-
-https://nvdatabase.swarthmore.edu/content/golan-druze-resistance-israeli-forced-citizenship-1981-1982
-
 Schnorf, Richard A., "The Baltic States in U. S.-Soviet Relations: The Years of Doubt, 1943–1946," *Lituanus*, Vol. 12, No. 4, Winter 1966.
 
 Schock, Kurt, *Unarmed Insurrections: People Power Movements in Nondemocracies*, Vol. 22, Minneapolis, Minn.: University of Minnesota Press, 2005.
 
 "Secret Supplementary Protocols of the Molotov-Ribbentrop Non-Aggression Pact, 1939," History and Public Policy Program Digital Archive, September 1939. As of June 24, 2020:
-
-https://digitalarchive.wilsoncenter.org/document/110994
-
 Sharp, Gene, *The Politics of Nonviolent Action,* Part II: *The Methods of Nonviolent Action*, Boston, Mass.: Extending Horizon Books, 1973.
 
 ———, *Making Europe Unconquerable: The Potential of Civilian-Based Deterrence and Defense*, Cambridge, Mass.: Ballinger Publishing Co., 1985.
@@ -3095,9 +2870,6 @@ Singing Revolution.com, homepage, undated. As of August 24, 2020: https://www.si
 Solf, Waldemar A., "Protection of Civilians Against the Effects of Hostilities Under Customary International Law and Under Protocol I," *American University International Law Review*, Vol. 1, No. 1, 1986.
 
 "Sputnik Ends Operations in Estonia," ERR News, January 1, 2020. As of August 18, 2020:
-
-https://news.err.ee/1019231/sputnik-ends-operations-in-estonia
-
 State University.com Education Encyclopedia, "Estonia: History and Background," webpage, undated. As of January 23, 2020: https://education.stateuniversity.com/pages/445/
 
 ## Estonia-HISTORY-BACKGROUND.html
@@ -3117,15 +2889,9 @@ Sutton, Jonathan, Charles R. Butcher, and Isak Svensson, "Explaining Political J
 Svensson, Isak, and Mathilda Lindgren, "Community and Consent: Unarmed Insurrections in Non-Democracies," *European Journal of International Relations*, Vol. 17, No. 1, May 2010, pp. 97–120.
 
 Swedish Civil Contingencies Agency, "Balt Prev Resilience: Baltic Everyday Accidents, Disaster Prevention and Resilience," Microsoft Power Point presentation, 2013. As of August 18, 2020:
-
-https://ec.europa.eu/echo/funding-evaluations/financing-civil-protection-europe/selected-projects/baltic-every-day-accident\_en
-
 "Syrian Troops Leave Lebanon After 29-Year Occupation," *New York Times*, April 26, 2005.
 
 Tavaana, "The Cedar Revolution in Lebanon," webpage, undated. As of April 4, 2020:
-
-https://tavaana.org/en/en/content/cedar-revolution-lebanon-0
-
 Tracevskis, Rokas M., "70th Anniversary of Deportation and Uprising of 1941," *Baltic Times*, June 29, 2011.
 
 Trams, Taivo, "Tuvojas līdz šim vērienīgākās mācības [The Most Ambitious Exercise to Date Is Coming]," Sargs.lv, March 16, 2018. As of August 20, 2020: http://www.sargs.lv/Zinas/Dienesta\_gaita/2018/03/16-01.aspx#lastcomment
@@ -3133,9 +2899,6 @@ Trams, Taivo, "Tuvojas līdz šim vērienīgākās mācības [The Most Ambitious
 Tucker, Joshua A., "Enough! Electoral Fraud, Collective Action Problems, and Post-Communist Colored Revolutions," *Perspectives on Politics*, Vol. 5, No. 3, September 2007, pp. 535–551.
 
 United Nations Human Security Unit, *Human Security Handbook: An Integrated Approach for the Realization of the Sustainable Development Goals and the Priority Areas of the International Community and the United Nations System*, New York, January 2016. As of August 24, 2020:
-
-https://www.un.org/humansecurity/wp-content/uploads/2017/10/h2.pdf
-
 United States of America, Republic of Estonia, Republic of Latvia, and Republic of Lithuania, Charter of Partnership Among the United States of America and the Republic of Estonia, Republic of Latvia, and Republic of Lithuania, Washington, D. C., January 16, 1998.
 
 U. S. Army, Field Manual 31-21, *Guerrilla Warfare*, Washington, D. C.: U. S. Government Printing Office, March 23, 1955.
@@ -3145,9 +2908,6 @@ U. S. Department of State, *Foreign Relations of the United States: Diplomatic P
 ———, "Current United States Policy Toward Lithuania, Latvia, and Estonia," memorandum, November 5, 1965. As of August 20, 2020: https://digitalarchive.wilsoncenter.org/document/144963
 
 Värä, Einar, "The Road to Independence," webpage, Estonica, last modified September 26, 2012. As of April 4, 2020:
-
-http://www.estonica.org/en/History/
-
 1985-1991\_Restoration\_of\_independence/The\_road\_to\_independence/
 
 Vardys, V. Stanley, "How the Baltic Republics Fare in the Soviet Union," *Foreign Affairs*, Vol. 44, No. 3, April 1966, pp. 512–517.
@@ -3157,9 +2917,6 @@ VTT, "New Horizon 2020 Project to Build European Communities Resilience and Soci
 https://www.vttresearch.com/media/news/new-horizon-2020-project-to-build-european-communities -resilience-and-social-capital
 
 Vytautas Magnus University, "Prof. Alpo Russi. About Recognition of Independence of Baltic States," webpage, January 20, 2020. As of August 24, 2020:
-
-https://www.vdu.lt/en/prof-alpo-russi-about-recognition-of-independence-ofbaltic-states/
-
 Wells, Matthew, "Casualties, Regime Type and the Outcomes of Wars of Occupation," *Conflict Management and Peace Science*, Vol. 33, No. 5, 2016, pp. 469–490.
 
 Wiktorek Sarlo, Alexandra, "Fighting Disinformation in the Baltic States," Foreign Policy Research Institute, July 6, 2017. As of August 20, 2020: https://www.fpri.org/article/2017/07/fighting-disinformation-baltic-states/
@@ -3171,9 +2928,6 @@ Zalite, Indulis, *Galvenās nevardarbīgās pretošanās formas un slēptais nac
 Žanis Lipke Memorial, "Biography," webpage, undated. As of April 4, 2020: https://lipke.lv/en/zanis-lipke/biography/
 
 Zemessardze, "Par Zemessardzi [About the National Guard]," webpage, undated. As of April 4, 2020:
-
-https://www.zs.mil.lv/en/node/137
-
 Zunes, Stephen, "Estonia's Singing Revolution (1986–1991)," Washington, D. C.: International Center on Nonviolent Conflict, April 2009. As of August 20, 2020: https://www.nonviolent-conflict.org/estonias-singing-revolution-1986-1991/#:~:text=Estonians%20gathered%20in%20 the%20thousands, the%20support%20of%20the%20republic's
 
 Zunes, Stephen, and Jacob Mundy, *Western Sahara: War, Nationalism, and Conflict Irresolution*, Syracuse, N. Y.: Syracuse University Press, 2010.

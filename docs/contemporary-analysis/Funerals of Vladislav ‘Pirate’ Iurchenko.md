@@ -34,5 +34,3 @@ And even if I do not see the victory of the Ukrainian people over the occupiers,
 I believe that the future will certainly come. While our comrades continue to fight, totalitarianism, authoritarianism and fascism will not capture humanity. I wish my comrades also not to lose confidence in the struggle for freedom.
 
 It's available on the channel of our comradeshere.https://t.me/boakom/181
-
-https://www.solidaritycollectives.org/en/funerals-of-vladislav-pirate-iurchenko/

@@ -10,9 +10,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/one-organizers-perspective-what-drew-them-general-defense-committee
-
 **Tags:** x382089, General Defense Committee, Industrial Workers of the World (IWW), anti-fascism
 
 A piece by x382089, who writes approvingly of the IWW's General Defense Committee. This was written and published within the context of internal conflict in the North American IWW over the GDC's anti-fascist efforts. Originally appeared in the Industrial Worker(Summer 2017).

@@ -9,7 +9,7 @@ tags:
 
 Just a few months ago, I wrote a piece for Adbusters that started with a conversation I’d had with an Egyptian activist friend named Dina:
 
-> 
+>
 All these years,” she said, “we’ve been organizing marches, rallies… And if only 45 people show up, you’re depressed, if you get 300, you’re happy. Then one day, 200,000 people show up. And you’re incredulous: on some level, even though you didn’t realize it, you’d given up thinking that you could actually win.
 
 As the Occupy Wall Street movement spreads across America, and even the world, I am suddenly beginning to understand a little of how she felt.

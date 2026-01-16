@@ -39,7 +39,7 @@ This article is published with Open Access a[t www.ijcua.com](http://www.ijcua.c
 
 *This article investigates the relationship between the transformation of cities and the right to the city. To be able to do this, the problems that are created by contemporary urbanization such as social exclusion, poverty and environmental degradation are discussed in the first part. After that, with a special focus on the period starting with the industrial revolution up until today, the article explains the economic and political motivations behind the urban transformation. This part emphasizes how urban change under different forms of capitalism creates and deepens social inequalities in cities. The final part of this article will be a discussion on the right to the city, and its relation to these urban issues.*
 
-JOURNAL OF CONTEMPORARY URBAN AFFAIRS (2020), *4*(1), 1-10. 
+JOURNAL OF CONTEMPORARY URBAN AFFAIRS (2020), *4*(1), 1-10.
 
 [www.ijcua.com](file:///C:/Users/Hossein/Desktop/new%20articles/JCUA/www.ijcua.com)
 
@@ -165,30 +165,30 @@ The authors declare no conflict of interest.
 
 - Ellwood, W. (2002). *Küreselleşmeyi Anlama Kılavuzu, Metis, İstanbul [A Guide to Understanding Globalization, Metis, Istanbul]*.
 - Gandy, M. (Ed.). (2011). *Urban Constellations*. Jovis.
-- Gottdiener, M. (1993). A Marx for Our Time: Henri Lefebvre and the Production of Space. *Sociological Theory*, *11*(1), 129-134. 
-- Hall, T., & Hubbard, P. (1996). The entrepreneurial city: new urban politics, new urban geographies? *Progress in Human Geography*, *20*(2), 153-174. 
+- Gottdiener, M. (1993). A Marx for Our Time: Henri Lefebvre and the Production of Space. *Sociological Theory*, *11*(1), 129-134.
+- Hall, T., & Hubbard, P. (1996). The entrepreneurial city: new urban politics, new urban geographies? *Progress in Human Geography*, *20*(2), 153-174.
 - Harvey, D. (1989). From Managerialism to Entrepreneurialism: The Transformation in Urban Governance in Late Capitalism. *Geografiska Annaler: Series B, Human Geography*, *71*(1), 3-17. [https://doi.org/10.1080/04353684.1989.1187958](https://doi.org/10.1080/04353684.1989.11879583) [3](https://doi.org/10.1080/04353684.1989.11879583)
 - Harvey, D. (2008). The right to the city. *The city reader*, *6*(1), 23-40.
 - Heiler, U., Mayerl, R., Minaca, M., Ottes, L., & Vrychea, A. (1994). *European Charter for Women in the City* [https://www.hlrn.org/img/documents/1994%20-](https://www.hlrn.org/img/documents/1994%20-%20European%20Charter%20for%20Women%20in%20the%20City.pdf) [%20European%20Charter%20for%20Women%](https://www.hlrn.org/img/documents/1994%20-%20European%20Charter%20for%20Women%20in%20the%20City.pdf) [20in%20the%20City.pdf](https://www.hlrn.org/img/documents/1994%20-%20European%20Charter%20for%20Women%20in%20the%20City.pdf)
 - Hobsbawm, E. J. (1998). *Behind the Times: The Decline and Fall of the Twentieth-century avant-gardes*. Thames and Hudson London.
 - Judd, D. R., & Parkinson, M. (1990). *Leadership and Urban Regeneration: Cities in North America and Europe*. SAGE Publications.
 - Kevin Fox, G., Shefner, J., & Brumley, K. (2001). Abstract space, social space, and the redevelopment of public housing. In G. Kevin Fox (Ed.), *Critical Perspectives on Urban Redevelopment* (Vol. 6, pp. 313-335). Emerald Group Publishing Limited. [https://doi.org/10.1016/S1047-0042\(01\)80012-](https://doi.org/10.1016/S1047-0042(01)80012-X) [X](https://doi.org/10.1016/S1047-0042(01)80012-X)
-- Keyder, Ç., & Öncü, A. (1994). Globalization of a Third-World Metropolis: Istanbul in the 1980's. *Review (Fernand Braudel Center)*, *17*(3), 383-421. 
+- Keyder, Ç., & Öncü, A. (1994). Globalization of a Third-World Metropolis: Istanbul in the 1980's. *Review (Fernand Braudel Center)*, *17*(3), 383-421.
 - Lampugnani, V. M. (1985). *Architecture and City Planning in the Twentieth Century*. Van Nostrand Reinhold Company.
 
 - Lefebvre, H. (1992). *The Production of Space*. Wiley.
-- Marcuse, P. (2009). From critical urban theory to the right to the city. *City*, *13*(2-3), 185-197. 
+- Marcuse, P. (2009). From critical urban theory to the right to the city. *City*, *13*(2-3), 185-197.
 - Meyer, M. (2009). *Discussion Paper: Urban Policies and the Right to the City*.
 - Montreal City Council. (2005). *Montreal Charter of Rights and Responsibilities.* [https://ville.montreal.qc.ca/pls/portal/docs/page/](https://ville.montreal.qc.ca/pls/portal/docs/page/charte_mtl_fr/media/documents/charte_montrealaise_english.pdf) [charte\\_mtl\\_fr/media/documents/charte\\_montrea](https://ville.montreal.qc.ca/pls/portal/docs/page/charte_mtl_fr/media/documents/charte_montrealaise_english.pdf) [laise\\_english.pdf](https://ville.montreal.qc.ca/pls/portal/docs/page/charte_mtl_fr/media/documents/charte_montrealaise_english.pdf)
 - Özden, P. P. (2010). *Türkiye'deki kentsel dönüşüm politikaları ve uygulamalarına eleştirel bir bakış [a critical look at the policies and practices of urban transformation in Turkey]*.
 - Özdemir, D. (2010). Giriş: Batı Avrupa'da Kentsel Dönüşüm Olgusunun Süreç İçinde Değişen Anlamları ve Türkiye Yansımaları *[Introduction: In the process of urban transformation Case Western Europe and Turkey Reflections Changing Meaning ]* , Nobel Yayın.
 - Pachauri, R. K., Allen, M. R., Barros, V. R., Broome, J., Cramer, W., Christ, R., Church, J. A., Clarke, L., Dahe, Q., & Dasgupta, P. (2014). *Climate change 2014: synthesis report. Contribution of Working Groups I, II and III to the fifth assessment report of the Intergovernmental Panel on Climate Change*. Ipcc.
-- Paddison, R. (1993). City Marketing, Image Reconstruction and Urban Regeneration. *Urban Studies*, *30*(2), 339-349. 
+- Paddison, R. (1993). City Marketing, Image Reconstruction and Urban Regeneration. *Urban Studies*, *30*(2), 339-349.
 - Pinto, C. A. (2009). Manifesto for a new urbanity. European Urban Charter II. *Council of Europe*, 49.
 - Purcell, M. (2002). Excavating Lefebvre: The right to the city and its urban politics of the inhabitant. *Geo Journal*, *58*(2), 99-108. [https://doi.org/10.1023/B:GEJO.0000010829.62](https://doi.org/10.1023/B:GEJO.0000010829.62237.8f) [237.8f](https://doi.org/10.1023/B:GEJO.0000010829.62237.8f)
 - Roberts, P., Sykes, H., & Granger, R. (Eds.). (2016). *Urban Regeneration*. SAGE Publications. [https://doi.org/10.4135/9781473921788.](https://doi.org/10.4135/9781473921788)
 - Sassen, S. (1998). *Globalization and Its Discontents*. New Press.
-- Thorns, D. C. (2004). *The Transformation of Cities: Urban Theory and Urban Life*. Palgrave. 
+- Thorns, D. C. (2004). *The Transformation of Cities: Urban Theory and Urban Life*. Palgrave.
 
 ## ![](_page_8_Picture_1.jpeg)
 
@@ -198,7 +198,7 @@ Torrey, B. B. (2004). Urbanization: An environmental force to be reckoned with. 
 
 United Nations. (2015). World Urbanization Prospects: The 2014 Revision,(ST/ESA/SER. A/366). *United Nations Population Division*.
 
-UCLG. (2012). European Charter for the Safeguarding of Human Rights in the City. 
+UCLG. (2012). European Charter for the Safeguarding of Human Rights in the City.
 
 UN-HABITAT. (2003). *The challenge of slums: global report on human settlements, 2003*. UN-HABITAT.
 

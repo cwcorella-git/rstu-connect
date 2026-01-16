@@ -44,7 +44,7 @@ Principal Author: Ngozi Ndulue Edited by Robert Dunham
 #### **27 Race Still Matters: The Continuing Role of Race in the Modern Death Penalty**
 
 - **28 Modern Capital Punishment Trends: Declining Use but Continuing Disparities**
-- **33 Race Matters at Every Stage of** 
+- **33 Race Matters at Every Stage of**
  - **a Capital Case**
  - **37** Arrest and Homicide Clearance Rates
  - **37** Prosecutorial Charging
@@ -1261,7 +1261,7 @@ Supporting Petitioner at 10, *Kennedy v. Louisiana*, 554 U. S. 407 (2008) (citin
 
 *261* Sherod axton, *Disciplining Death: Assessing and Ameliorating Arbitrariness in Capital Charging*, 49 Ariz. St. L. J. 137, 176 (2017).
 
-*262* Brief for Amicus Curiae the Pennsylvania Association of Criminal Defense Lawyers, on Behalf of the Appellant, Robert Cook*, Commonwealth v. Cook,* 597 Pa. 572 (Pa. 2008) (No. 407)*.* 
+*262* Brief for Amicus Curiae the Pennsylvania Association of Criminal Defense Lawyers, on Behalf of the Appellant, Robert Cook*, Commonwealth v. Cook,* 597 Pa. 572 (Pa. 2008) (No. 407)*.*
 
 *263* Tina Rosenberg, *e Deadliest D. A., N. Y. Times*, Jul. 16, 1995; see Death Penalty Information Center, *Justice on the Cheap:e Philadelphia Story* (1992) (noting that Philadelphia prosecutors sought death in more than 50 percent of all homicides).
 

@@ -14,9 +14,6 @@ Jordan T. Camp Race Class 2012 53: 95 DOI: 10.1177/0306396811426519
 The online version of this article can be found at: http://rac.sagepub.com/content/53/4/95
 
 ## Published by: \$SAGE
-
-http://www.sagepublications.com
-
 On behalf of:
 
 ## ![](_page_0_Picture_7.jpeg)

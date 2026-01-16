@@ -75,9 +75,6 @@ Solidarity and tradition:
 A just transition from fossil fuels to a greener economy
 
 A "just transition" would bring business, labour and government together to plan for a smooth move away from fossil fuels, as energy companies transform their business models. This transition is already beginning in other parts of the world, as, for example, offshore oil service companies move to servicing offshore wind power installations. Proposed ILO guidelines (
-
-https://goo.gl/jdaetC
-
 ) for this just transition include re-skilling and training, social support and economic diversification.
 
 What is the global divestment movement?

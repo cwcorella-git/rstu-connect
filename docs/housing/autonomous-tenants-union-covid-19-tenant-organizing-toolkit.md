@@ -162,7 +162,7 @@ NOTE: It is important throughout this process to get all communication between y
 
  - [Letter requesting rent delay/suspension](https://docs.google.com/document/d/1PjSxScwpArNHXG2lOg0lYS3m290yKStFZqstjm1X0vA/edit?usp`sharing)
 
- - [Rent Reduction Letter](https://docs.google.com/document/d/1ZWZWjifbPYr9F14HsKn7ReizsxdQWYxaUgC3yDiQDsE/edit) 
+ - [Rent Reduction Letter](https://docs.google.com/document/d/1ZWZWjifbPYr9F14HsKn7ReizsxdQWYxaUgC3yDiQDsE/edit)
  Note: To *legally* reduce rent under the RLTO, this letter must be sent 14 days before rent is due, and you must list a percentage of the rent you want to reduce for each issue. It can’t be more than 50% of your total rent.
 
  - [Laundry Letter](https://docs.google.com/document/d/16-69PEiiHicz3Ge4oQT-Ia01XagStK3jqS7wzCb8K5s/edit)

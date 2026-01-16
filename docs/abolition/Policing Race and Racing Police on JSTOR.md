@@ -24,9 +24,6 @@ Vol. 47, No. 3/4 (161/162), A Critical Theory of Police Power in the Twenty-Firs
 ## Published By: Social Justice/Global Options
 
 ## ![](_page_0_Picture_10.jpeg)
-
-https://www.jstor.org/stable/27094596
-
 ## Cite
 
 # **Read and download**

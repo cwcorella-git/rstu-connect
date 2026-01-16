@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/1968-1969-pakistani-students-workers-and-peasants-bring-down-dictator
-
 **Tags:** manufacturing and materials, education, strikes, Pakistan, agriculture, peasants, student strikes,
 
 ## Aileen Eisenburg, PDF

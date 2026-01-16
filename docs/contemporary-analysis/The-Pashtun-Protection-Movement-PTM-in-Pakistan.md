@@ -144,9 +144,9 @@ Second, Pashtuns were targeted by the foreignghters (mostly Taliban members)eein
 
 #### Text Box 1: What Are the Tribal Areas?
 
-**The Federally Administered Tribal Areas (FATA) consisted of seven tribal regions (or agencies) in northwestern Pakistan. The seven regions, now called districts, are Bajaur, Khyber, Kurram, Mohmand, Orakzai, North Waziristan, and South Waziristan. Since the independence of Pakistan in 1947, the president of Pakistan has had absolute legislative and executive authority over the FATA. The Pakistan Constitution blocked parliament and constitutional courts from exercising any jurisdiction over the territory.** 
+**The Federally Administered Tribal Areas (FATA) consisted of seven tribal regions (or agencies) in northwestern Pakistan. The seven regions, now called districts, are Bajaur, Khyber, Kurram, Mohmand, Orakzai, North Waziristan, and South Waziristan. Since the independence of Pakistan in 1947, the president of Pakistan has had absolute legislative and executive authority over the FATA. The Pakistan Constitution blocked parliament and constitutional courts from exercising any jurisdiction over the territory.**
 
-**The Provincially Administered Tribal Areas (PATA) include the northwestern Malakand division of the Khyber Pakhtunkhwa (KP) province. The governor of the KP province, a presidential appointee, has absolute authority in legislative and judicial matters of the PATA. The elected local members in the provincial legislative assembly of the KP do not have the power to initiate legislation concerning their districts. The Frontier Crimes Regulation (see Text Box 2), in contrast to the FATA, did not extend its jurisdiction over the PATA.** 
+**The Provincially Administered Tribal Areas (PATA) include the northwestern Malakand division of the Khyber Pakhtunkhwa (KP) province. The governor of the KP province, a presidential appointee, has absolute authority in legislative and judicial matters of the PATA. The elected local members in the provincial legislative assembly of the KP do not have the power to initiate legislation concerning their districts. The Frontier Crimes Regulation (see Text Box 2), in contrast to the FATA, did not extend its jurisdiction over the PATA.**
 
 **In May 2018, following the rise of the Pashtun Tahafuz Movement, the FATA was given constitutional status under the 25th amendment of the Pakistan Constitution through its integration with the KP province. This amendment also abolished the status of the erstwhile PATA by empowering the elected members to initiate legislation concerning their local districts.**
 
@@ -160,7 +160,7 @@ Third, tribal Pashtuns have been victims of Pakistan's policies targeting the Ta
 
 joining governmentbacked Peace Committees charged with maintaining law and order However, far from establishing peace, these groups have often been propagators of violence, attacking barber shops, music stores, and girls' schools for being anti Islam in their eyes
 
-*Pashtun youth recognized that they could not challenge state violence while using the same violent tools against their oppressors.* 
+*Pashtun youth recognized that they could not challenge state violence while using the same violent tools against their oppressors.*
 
 (Roggio 2008) Furthermore, the integration of Taliban defectors into local communities has exacerbated the tendency in Pakistan to racially prole Pashtuns as terrorists
 
@@ -327,7 +327,7 @@ Following in Bacha Khan's footsteps, the PTM calls for nonviolent badal instead 
 
 ## Text Box 3: What is the *Pashtunwali* Code?\*
 
-**Pashtunwali, "the way of the Pashtuns," is the conventional code of life for traditional Pashtuns living in Pakistan and Afghanistan. The main principles of Pashtunwali pertinent to this study are nanawatey, nang, and badal.** 
+**Pashtunwali, "the way of the Pashtuns," is the conventional code of life for traditional Pashtuns living in Pakistan and Afghanistan. The main principles of Pashtunwali pertinent to this study are nanawatey, nang, and badal.**
 
 **Nanawatey, "asylum" or "protection," is giving shelter to anyone who requests shelter from their enemies. The host is obligated to honor the request, even if it comes from a former enemy. The host who gives nanawatey defends the asylum seeker, even at the cost of his own life. It is under this code that, in 2001, some local Pashtuns in the tribal areas gave asylum to the foreign ghters who had requested refuge from the Americans and their allied forces in Afghanistan.**
 
@@ -563,7 +563,7 @@ constitutional institutions in the newly merged tribal districts, including a co
 
 The PTM islling the leadership vacuum in the tribal areas by elevating youth and women into positions of political inuence Following the FATA–KP merger, which for therst time allowed the residents of the erstwhile FATA to have representation in Pakistan's National Assembly, Mohsin Dawar and Ali Wazir—two founding members of the PTM—won National
 
-*The rise of the PTM has fostered unity among the tribes by reducing tribal feuds through the facilitation of tribal jirgas and covenants.* 
+*The rise of the PTM has fostered unity among the tribes by reducing tribal feuds through the facilitation of tribal jirgas and covenants.*
 
 Assembly seats as independent candidates in the Pakistani general elections held in May 2018 Their electoral victories were the product of the political stature they both gained as leaders of the PTM
 
@@ -786,7 +786,7 @@ I, the author, would like to acknowledge the extensive support and critical feed
 
 ## by Jonathan Pinckney, 2021
 
-**Preventing Mass Atrocities: From a Responsibility to Protect (RtoP) to a Right to Assist (RtoA)** 
+**Preventing Mass Atrocities: From a Responsibility to Protect (RtoP) to a Right to Assist (RtoA)**
 
 **Campaigns of Civil Resistance** by Peter Ackerman and Hardy Merriman, 2019
 

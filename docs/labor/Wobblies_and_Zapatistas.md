@@ -535,7 +535,7 @@ My plea is simply that we not replicate the fratricidal squabbles of the early p
 
 # Luxemburg, Weil, and E. P. Thompson
 
-Let us move *from the movement to individuals. Among a few people who "sought a fusion of Marxism and anarchism," a few names, and lives, come to mind and heart. You told me once, in a different conversation in my house in Brooklyn, that you and your friend, the late Daniel Singer, used to define yourselves as (among many other things) "Luxemburgists." You also mention Rosa in many of your essays as a revolutionary who offered a "working-class self-activity paradigm," and a revolutionary who might be "the most significant theorist of the twentieth century labor movement." Another libertarian critic of authoritarian Marxism whom we both admire is Simone Weil. Perhaps we can suggest to the attention of the new generation of libertarian revolutionaries, the life, work and ideas of this fascinating radical. A third person who constructively sought this particular fusion of traditions, a person who, in a different way, is a mentor-like figure to both of us, is E. P. Thompson. Both in his "Letter to Lesek Kolakowski" and in* The Poverty of Theory *he advocates "libertarian socialism."* 
+Let us move *from the movement to individuals. Among a few people who "sought a fusion of Marxism and anarchism," a few names, and lives, come to mind and heart. You told me once, in a different conversation in my house in Brooklyn, that you and your friend, the late Daniel Singer, used to define yourselves as (among many other things) "Luxemburgists." You also mention Rosa in many of your essays as a revolutionary who offered a "working-class self-activity paradigm," and a revolutionary who might be "the most significant theorist of the twentieth century labor movement." Another libertarian critic of authoritarian Marxism whom we both admire is Simone Weil. Perhaps we can suggest to the attention of the new generation of libertarian revolutionaries, the life, work and ideas of this fascinating radical. A third person who constructively sought this particular fusion of traditions, a person who, in a different way, is a mentor-like figure to both of us, is E. P. Thompson. Both in his "Letter to Lesek Kolakowski" and in* The Poverty of Theory *he advocates "libertarian socialism."*
 
 Luxemburg, Weil, and Thompson are discussed in my *Living Inside Our Hope*. I make the point that in each case a particular thinker emerged from a context, a setting in which the limitations of Marxism became apparent and thoughtful revolutionaries looked beyond its boundaries.
 
@@ -789,7 +789,7 @@ Does anything require us to reject the project of combining what is best in anar
 
 # Burnham's Dilemma
 
-This might be *a good moment to ask you about the problem that "has nagged at and puzzled you all your adult life"—the problem of transition from capitalism to socialism. Let us talk about E. P. Thompson's "warrens" and the so-called Burnham's dilemma. In what sense are the temporary spokes councils of the new anarchists, as you recently stated, "very different from the kinds of institutions (guilds, banks, corporations, or free cities) whereby the bourgeoisie built up a base of power within feudal society," but "not so different from the radical Protestant congregations that were also part of the capitalist new society within the shell of the old"?* 
+This might be *a good moment to ask you about the problem that "has nagged at and puzzled you all your adult life"—the problem of transition from capitalism to socialism. Let us talk about E. P. Thompson's "warrens" and the so-called Burnham's dilemma. In what sense are the temporary spokes councils of the new anarchists, as you recently stated, "very different from the kinds of institutions (guilds, banks, corporations, or free cities) whereby the bourgeoisie built up a base of power within feudal society," but "not so different from the radical Protestant congregations that were also part of the capitalist new society within the shell of the old"?*
 
 *If another world is possible, a student asked me once, should we want to begin to bring it "from the ashes of the old," or "within the shell of the old"? And, if we want to build it within the interstices of the hierarchical society, how shall we proceed? What institutions and intuitions can serve the new anarchist movement in "warrening" the present society with the emerging institutions of the new?*
 
@@ -1143,7 +1143,7 @@ I have other ideas but why don't I stop with these for the moment, and get your 
 
 # Direct Democracy and Representation
 
-Would new anarchists *accept the ground rules you mentioned? My answer would be a resounding yes. But allow me to disagree with recognizing the process you describe as a representative democracy. When you write that there should be "no separation between the Revolutionary people and decisionmakers" I understand this as emphasizing complex and multi-layered, but always direct relationships between people and their mandated, recallable delegates. This is, it seems to me, direct democracy of a kind that anarchists would always support.* 
+Would new anarchists *accept the ground rules you mentioned? My answer would be a resounding yes. But allow me to disagree with recognizing the process you describe as a representative democracy. When you write that there should be "no separation between the Revolutionary people and decisionmakers" I understand this as emphasizing complex and multi-layered, but always direct relationships between people and their mandated, recallable delegates. This is, it seems to me, direct democracy of a kind that anarchists would always support.*
 
 OK, good. I agree that I am not proposing a republic as opposed to a direct democracy, or a representative system as opposed to participatory democracy. But I am insisting that a movement of any size will require a process of representation and that this process has its own discipline, which must be respected. The attitude, "Nobody talks for me, I am a free spirit," will require restraint.
 
@@ -1602,7 +1602,7 @@ SNCC failed to find a way out of the box described by Bob Moses. We ought not be
 
 # History as Accompaniment
 
-In Visions of History *you said that practicing law is like "history with dessert," I wonder what you meant by that. You also told me that your most profound and rewarding experience in doing guerrilla history was as a lawyer, accompanying steelworkers and prisoners. So, continuing with the logic of my previous question, is being a lawyer perhaps a more appropriate position in historical guerrilla warfare than the one of the professional historian?* 
+In Visions of History *you said that practicing law is like "history with dessert," I wonder what you meant by that. You also told me that your most profound and rewarding experience in doing guerrilla history was as a lawyer, accompanying steelworkers and prisoners. So, continuing with the logic of my previous question, is being a lawyer perhaps a more appropriate position in historical guerrilla warfare than the one of the professional historian?*
 
 Ideally, guerrilla history would be produced by the guerrillas themselves. And through much of the experience of humankind it has been so.
 
@@ -2577,7 +2577,7 @@ I think a millennium or two in which women took the lead would be helpful to all
 
 # Humanitarian Imperialism and Nonviolent Civil Disobedience
 
-I already mentioned *Kosovo. Students recently rebelled in the streets of Venezuela. I read that they were "helped" by special* *trainers in nonviolent civil disobedience, some of them from my country, members of the movement that used to be called Otpor! Thousands of comfortable middle-class San Franciscans are protesting against the violence in Tibet, while screaming at local Chinese workers. Things one reads on Darfur are beyond belief. There seems to be no war and no catastrophe that western humanists cannot make worse. How do you relate, in this context, to the relationship between humanitarian imperialism and nonviolent civil disobedience?* 
+I already mentioned *Kosovo. Students recently rebelled in the streets of Venezuela. I read that they were "helped" by special* *trainers in nonviolent civil disobedience, some of them from my country, members of the movement that used to be called Otpor! Thousands of comfortable middle-class San Franciscans are protesting against the violence in Tibet, while screaming at local Chinese workers. Things one reads on Darfur are beyond belief. There seems to be no war and no catastrophe that western humanists cannot make worse. How do you relate, in this context, to the relationship between humanitarian imperialism and nonviolent civil disobedience?*
 
 These questions are inter-related: people turn to "humanitarian imperialism" when nonviolence appears to have failed. I will try to sort them out a little.
 

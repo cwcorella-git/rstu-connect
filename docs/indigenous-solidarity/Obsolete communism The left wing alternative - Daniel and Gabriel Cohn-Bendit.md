@@ -11,9 +11,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/obsolete-communism-left-wing-alternative-daniel-and-gabriel-cohn-bendit
-
 **Tags:** strikes, general strikes, uprisings, France, France 1968, accounts, Gabriel Cohn-Bendit, Daniel
 
 ## Cohn-Bendit, PDF

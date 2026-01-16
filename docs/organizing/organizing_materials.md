@@ -9,7 +9,7 @@ tags:
 
 # Organizing Materials and Activities
 
-**Date**: September 8, 2025  
+**Date**: September 8, 2025
 **Purpose**: Comprehensive documentation of RSTU's organizing strategies, meeting notes, campaigns, and community building activities
 
 ## Organizational Structure and Governance
@@ -19,7 +19,7 @@ tags:
 #### Mission Statement
 "We are a tenant organization fighting for safe and secure housing for all in the Reno-Sparks area. We believe that housing is a human right, not a commodity, and that everyone deserves control over their living situation."
 
-#### Vision Statement  
+#### Vision Statement
 "Through collective action and mutual aid, we organize to fight back against the displacement and abuse of tenants. This includes holding landlords accountable when they have failed to provide dignified and safe living conditions, educating tenants about their rights and protections, and eviction defense. We are committed to remaining an all volunteer organization run democratically by tenants. We aim to build tenant power through mass participation and solidarity across communities of tenants."
 
 #### Core Values Framework
@@ -50,11 +50,11 @@ tags:
 - **Seven-Day Notice** required for simple/supermajority votes
 
 #### Membership Categories
-**Voting Members**: Tenants (anyone not controlling their own/others' housing)  
-- Renters, students in dorms, unhoused people, incarcerated people  
+**Voting Members**: Tenants (anyone not controlling their own/others' housing)
+- Renters, students in dorms, unhoused people, incarcerated people
 - Must reside in Reno-Sparks area
 
-**Non-Voting Members**: People controlling their own housing  
+**Non-Voting Members**: People controlling their own housing
 - Can participate in committees and volunteer work
 - Cannot vote or hold elected office
 
@@ -104,13 +104,13 @@ tags:
 - **Status**: Coordinating first building meeting (as of August 2024)
 - **Contact**: Someone reached out directly to RSTU
 
-**Sparks Marina Apartments**  
+**Sparks Marina Apartments**
 - **Previous Organizing**: One attendee at previous meeting
 - **Current Focus**: Building larger turnout for next meeting
 
 **Ralston Street Near UNR** (New Campaign - August 2024)
 - **Issue Identification**: Single landlord owns most buildings on street
-- **Tenant Issues**: 
+- **Tenant Issues**:
   - Electrical code violations (2-prong outlets, power shutoffs)
   - Unsafe pest control (poison around pets)
   - Severe infestations (30+ mice in one unit)
@@ -171,7 +171,7 @@ tags:
 ### January 2025 Meetings
 
 #### January 13, 2025 - Strong Towns Confusion ⚠️
-**Note**: This appears to be Strong Towns meeting notes accidentally included  
+**Note**: This appears to be Strong Towns meeting notes accidentally included
 **Content**: ADU ordinance discussion, Ward NAB meetings
 **Action**: Verify source and separate from RSTU materials
 
@@ -190,7 +190,7 @@ tags:
 ### August 2024 Meeting (Detailed)
 
 #### August 7, 2024 - General Meeting
-**Location**: 638 Elko Ave and Zoom  
+**Location**: 638 Elko Ave and Zoom
 **Attendees**: 11 members (Jack, Alex, Nick, David, Ben, Sarah, Kasey, Dalton, Nix, Elizabeth, Robert)
 
 **Committee Updates**:
@@ -200,7 +200,7 @@ tags:
 
 **New Member Issues** (Sarah, Kasey, Dalton, Robert):
 - Multiple code violations and safety concerns
-- Property management negligence  
+- Property management negligence
 - Need for organizing support and rights education
 
 **Strategic Discussions**:

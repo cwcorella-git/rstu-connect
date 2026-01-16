@@ -417,17 +417,17 @@ where we use $\gamma$ to denote the EMA's discount factor. To expedite learning 
 
 ## 1: Initialize token score array S
 
-2: Split input tokens into chunks of size $n_{up}$ 
+2: Split input tokens into chunks of size $n_{up}$
 
-3: **for** each input chunk **do** 
+3: **for** each input chunk **do**
 
 4: Extract attention matrix $\mathbf{A}_k$ from the latest $n_{up}$ queries
 
 ## 5: **for** column i in $\mathbf{A}_k$ **do**
 
-6: Apply STFT of window size $n_w$ and stride $s_w$ to $\mathbf{A}_k[:, i]$ 
+6: Apply STFT of window size $n_w$ and stride $s_w$ to $\mathbf{A}_k[:, i]$
 
-7: Compute spectrograms $\omega_i^t \in \mathbb{C}^{17}$ for $t = 1, \dots, n_T$ $\triangleright n_T = n_{up}/s_w$ 
+7: Compute spectrograms $\omega_i^t \in \mathbb{C}^{17}$ for $t = 1, \dots, n_T$ $\triangleright n_T = n_{up}/s_w$
 
 ## 8: Calculate $\omega_i$ with Equation 4
 
@@ -435,9 +435,9 @@ where we use $\gamma$ to denote the EMA's discount factor. To expedite learning 
 
 ## 10: Normalize spectrogram features $\omega_i$
 
-11: Concatenate positional embedding to $\omega_i$ 
+11: Concatenate positional embedding to $\omega_i$
 
-Update S with BAM predicted score $m_{\phi}(\omega_i)$ 
+Update S with BAM predicted score $m_{\phi}(\omega_i)$
 
 ## return S
 
@@ -481,56 +481,51 @@ $$|A - \hat{A}|_2 4. Each article corresponds to 10 QA pairs, and there are 200 
 5https://disclosure2.edinet-fsa.go.jp/
 
 6https://www.mufg.jp/ir/report/security\_report/
-
-https://group.ntt/jp/ir/library/results/
-
 8https://global.toyota/jp/ir/library/securities-report/
 
 #### Prompt for extractive QA
 
-
-抽出型の長文QAモデルのトレーニングデータを作成しています。 
-コンテキストとして長い文書を提供します。 
-文書を注意深く読み、分析し、20個の質問と回答のペアを生成してください。 
-生成されたQAペアの要件は以下の通りです。\n 
-1. 回答は文書からのテキストの一部でなければなりません。\n 
-2. 回答は短く簡潔なテキストの一部であるべきです。\n 
-3. 質問は多様で、文書の異なる側面をカバーすべきです。\n 
-4. 回答は、直接文章の内容を引用してください。余計な情報は含めないでください。\n 
-以下の形式で20個の質問と回答のペアを直接回答してください:\n 
-### 質問 1 ###\n 
-{question_1}\n 
-### 回答 1 ###\n 
-{answer_1}\n 
-...\n 
-### 質問 20 ###\n 
-{question_20}\n 
-### 回答 20 ###\n 
-{answer_20}\n 
-文書は以下の通りです:\n 
-### 文書 ###\n 
+抽出型の長文QAモデルのトレーニングデータを作成しています。
+コンテキストとして長い文書を提供します。
+文書を注意深く読み、分析し、20個の質問と回答のペアを生成してください。
+生成されたQAペアの要件は以下の通りです。\n
+1. 回答は文書からのテキストの一部でなければなりません。\n
+2. 回答は短く簡潔なテキストの一部であるべきです。\n
+3. 質問は多様で、文書の異なる側面をカバーすべきです。\n
+4. 回答は、直接文章の内容を引用してください。余計な情報は含めないでください。\n
+以下の形式で20個の質問と回答のペアを直接回答してください:\n
+### 質問 1 ###\n
+{question_1}\n
+### 回答 1 ###\n
+{answer_1}\n
+...\n
+### 質問 20 ###\n
+{question_20}\n
+### 回答 20 ###\n
+{answer_20}\n
+文書は以下の通りです:\n
+### 文書 ###\n
 {doc_text}
-## 
+##
 #### Prompt for abstractive summarization
 
-
-抽象的な長文要約モデルのトレーニングデータを作成しています。 
-コンテキストとして長い文書を提供します。 
-文書を注意深く読み、分析し、5個の要約例を生成してください。 
-以下は生成される要約の要件です。\n 
-1. 各要約は短く簡潔であるべきです。\n 
-2. 各要約は文書の一般的なアイデア、トレンド、洞察を網羅すべきです。\n 
-3. すべての要約は内容が同一でありながら、表現が多様であるべきです。\n 
-以下の形式で5個の要約を直接返信してください:\n 
-### 要約 1 ###\n 
-{summary_1}\n 
-...\n 
-### 要約 5 ###\n 
-{summary_5}\n 
-文書は以下の通りです:\n 
-### 文書 ###\n 
+抽象的な長文要約モデルのトレーニングデータを作成しています。
+コンテキストとして長い文書を提供します。
+文書を注意深く読み、分析し、5個の要約例を生成してください。
+以下は生成される要約の要件です。\n
+1. 各要約は短く簡潔であるべきです。\n
+2. 各要約は文書の一般的なアイデア、トレンド、洞察を網羅すべきです。\n
+3. すべての要約は内容が同一でありながら、表現が多様であるべきです。\n
+以下の形式で5個の要約を直接返信してください:\n
+### 要約 1 ###\n
+{summary_1}\n
+...\n
+### 要約 5 ###\n
+{summary_5}\n
+文書は以下の通りです:\n
+### 文書 ###\n
 {doc_text}
-## 
+##
 Figure 10: LLM prompts for generating synthetic QA pairs and summaries in Chou Bun.
 
 Collecting human annotations for long-text tasks is challenging, therefore we use synthetic QA pairs and summaries. In particular, we prompt various LLMs9 to generate multiple question-answer pairs or summaries for each document. Different instructions are designed for the two tasks and they are shown in Figure 10. To improve the reliability of the synthetic data, we ensure that every answer in extractive QA tasks is a text span presented in its corresponding source document. In Table 10, we provide the statistics of the benchmark.

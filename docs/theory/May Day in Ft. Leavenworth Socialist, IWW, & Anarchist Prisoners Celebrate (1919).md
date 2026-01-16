@@ -15,9 +15,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/may-day-ft-leavenworth-socialist-iww-anarchist-prisoners-celebrate-1919
-
 **Tags:** Industrial Workers of the World (IWW), United States, 1910s, prisons, May Day, Socialist Party of America, Kansas
 
 An article from the Liberator newspaper, describing how socialist, anarchist and IWW prisoners celebrated May Day at Fort Leavenworth in 1919. This article was made available online by We Never Forget, andthe full issue of the newspaper can be found at the Marxists Internet Archive.

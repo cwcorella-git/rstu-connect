@@ -13,9 +13,7 @@ As Europe recoils in horror from the wake of the massacre of 77 people by an ant
 
 The wording of the leaflet, much quoted, is quite remarkable:
 
-
 *Anarchism is a political philosophy which considers the state undesirable, unnecessary, and harmful, and instead promotes a stateless society, or anarchy. Any information relating to anarchists should be reported to your local police.*
-
 
 Any information? Really? Does that include shoe size? Favorite colour? Sexual predilections? Mobile phone messages?
 

@@ -32,7 +32,6 @@ ISBN: 978-0-446-56958-3
 
 #### Contents
 
-
 | Copyright        |  |  |
 |------------------|--|--|
 | Author's
@@ -1072,7 +1071,7 @@ It's almost always stronger dramatically to prevent your characters from returni
 
 "I would never write about someone who is not at the end of his rope."
 
-**—STANLEY ELKIN** 
+**—STANLEY ELKIN**
 
 ## **Set the clock [ticking.](#page-4-23)**
 
@@ -1174,7 +1173,7 @@ Ultimately, everything must serve to advance the plot and inform on character. W
 
 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
 
-**—ANTOINE DE SAINT-EXUPÉRY** 
+**—ANTOINE DE SAINT-EXUPÉRY**
 
 #### **Convenient versus inconvenient [coincidences](#page-5-2)**
 

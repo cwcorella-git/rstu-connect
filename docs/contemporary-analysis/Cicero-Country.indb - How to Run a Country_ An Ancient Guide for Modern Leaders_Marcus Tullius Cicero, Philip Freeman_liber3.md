@@ -150,7 +150,7 @@ Of the three main types of government, monarchy is in my opinion by far the most
 
 ## L
 
-*Marcus Cicero loved to give advice, especially to his relatives and particularly to his younger brother Quintus. When Quintus was appointed governor of the important Roman province of Asia (on the western coast of modern Turkey) in 61 BC, Marcus couldn't resist sending him not one but two lengthy letters telling him how to do his job. Quintus was a perfectly capable administrator who would later serve bravely in Gaul under Julius Caesar, but he did have something of a temper and was prone to ts of melancholy. Although Quintus may not* 
+*Marcus Cicero loved to give advice, especially to his relatives and particularly to his younger brother Quintus. When Quintus was appointed governor of the important Roman province of Asia (on the western coast of modern Turkey) in 61 BC, Marcus couldn't resist sending him not one but two lengthy letters telling him how to do his job. Quintus was a perfectly capable administrator who would later serve bravely in Gaul under Julius Caesar, but he did have something of a temper and was prone to ts of melancholy. Although Quintus may not*
 
 *have welcomed the unsolicited advice from his brother, the rst letter contains wise counsel for anyone facing the trials of public of ce.*
 
@@ -158,7 +158,7 @@ So then, what I ask of you most of all is that you don't give in to despair or b
 
 If you were thrown into some great, dangerous war and your term of offi ce were extended, I might worry more that the winds of fortune could blow you about. But as I said, chance has nothing or at least very little to do with how you carry out your duties to your country. It depends much more on your own courage and thoughtful moderation. I don't think you need to worry about an ambush by enemies, fi erce battles, being abandoned by our allies, running out of money or food for the troops, or that the army is going to mutiny against you. Such things do happen occasionally even to the wisest men, who are no more able to overcome misfortune than the best helmsmen can master a violent storm. Your job is to steer the ship of state smoothly and steadily. Remember that a helmsman who falls asleep can wreck a craft. Still, if you stay awake, you might enjoy the voyage.
 
-*Five years after Cicero's consulship in 63 BC, he was exiled from Italy by his political enemies on trumped-up charges. One of the few friends who stood by him was Publius Sestius, who was later unjustly charged by these same enemies with inciting public violence. Cicero defended* 
+*Five years after Cicero's consulship in 63 BC, he was exiled from Italy by his political enemies on trumped-up charges. One of the few friends who stood by him was Publius Sestius, who was later unjustly charged by these same enemies with inciting public violence. Cicero defended*
 
 *him on his return to Rome and took the opportunity of the trial to outline his vision of a true leader and how citizens should respond when faced with threats to their freedom.*
 
@@ -198,7 +198,7 @@ Why should I say more? At this point, I gave up and joined the crowd on the beac
 
 ## F E
 
-*Cicero made many friends and even more enemies as he climbed the political ladder. He worked tirelessly throughout his career to* 
+*Cicero made many friends and even more enemies as he climbed the political ladder. He worked tirelessly throughout his career to*
 
 *strengthen the state, especially in his exposure of a plot by the ruined nobleman Catiline to overthrow the elected government. One of his allies in this struggle was Metellus Celer, who raised an army in northern Italy to ght against Catiline and his band of disgruntled veterans. But the brother of Metellus was notably hostile to Cicero, putting him in the dif cult position in the family-centered world of ancient Rome of working against a close relative of a friend. Metellus wrote a scathing letter to Cicero expressing his indignity at an attack on his brother, to which Cicero responds. The following selection reveals the letter as a model of how to handle an offended ally by addressing a problem directly and graciously explaining why it is sometimes necessary for a leader to stand up to a friend, even if there are political consequences.*
 
@@ -212,7 +212,7 @@ Let me assure you I did not attack your brother, but simply responded to his att
 
 I have always desired to be your friend and have tried to make you understand that our relationship means the world to me. My warm feelings for you have not changed and will not change, as long as you wish. Because of my affection for you, I would much rather abandon my quarrel with your brother than allow my disagreement with him to damage our friendship.
 
-*In contrast to the previous letter, the following passage, written only a year later, reveals a much more candid Cicero as he tells his friend Atticus about the current political situation in Rome. Atticus spent most of his adult life in Greece assiduously avoiding politics, though he* 
+*In contrast to the previous letter, the following passage, written only a year later, reveals a much more candid Cicero as he tells his friend Atticus about the current political situation in Rome. Atticus spent most of his adult life in Greece assiduously avoiding politics, though he*
 
 *maintained a great interest in Roman affairs and was always anxious for news.*
 
@@ -228,7 +228,7 @@ That friend of yours— you know who I mean, the one you said started to praise 
 
 ## P
 
-*It's dif cult for us today to imagine the importance of oratory in the ancient world. In an age before printing or electronic media, the ability of a leader to speak persuasively to crowds large and small was essential. But when Cicero talks about an orator, he means much more than someone who gives speeches. To him an orator was above all a statesman who was able to* 
+*It's dif cult for us today to imagine the importance of oratory in the ancient world. In an age before printing or electronic media, the ability of a leader to speak persuasively to crowds large and small was essential. But when Cicero talks about an orator, he means much more than someone who gives speeches. To him an orator was above all a statesman who was able to*
 
 *express the power of an idea to the public based on knowledge and wisdom. True Roman orators could persuade their audience to agree with them not because of verbal techniques, important as they might be, but because they knew what they were talking about and cared deeply for their country.*
 
@@ -270,7 +270,7 @@ So what should I do? . . . There's no room left to sit on the fence.
 
 ## M P
 
-*Ancient Rome was a empire of haves and havenots, with little in the way of a social safety net. Taxes could be onerous, but were needed to fund the large army. Since the second century BC, there had been proposals to reduce the tax burden* 
+*Ancient Rome was a empire of haves and havenots, with little in the way of a social safety net. Taxes could be onerous, but were needed to fund the large army. Since the second century BC, there had been proposals to reduce the tax burden*
 
 *and redistribute land and goods among veterans and the urban poor. Cicero did not object to easing the burden on the needy, but warns in his essay* On Duties *against the dangers of politicians taking such sentiments too far. He also roundly condemns the greedy nature of those who serve in government only to serve themselves.*
 
@@ -296,7 +296,7 @@ For years, we have watched in silence while all the wealth of the world is gathe
 
 ## I
 
-*In 56 BC, the conservatives in the senate realized they could not attack Julius Caesar directly while he was leading a successful war in Gaul,* 
+*In 56 BC, the conservatives in the senate realized they could not attack Julius Caesar directly while he was leading a successful war in Gaul,*
 
 *so they staged a proxy ght against one of his closest aides, a wealthy foreigner named Balbus from the city of Gades on the Atlantic coast of the Iberian peninsula. Balbus had received Roman citizenship over fteen years earlier from Pompey for his service to Rome. Cicero felt compelled by his alliance at the time with Caesar and Pompey to defend Balbus, but his arguments go beyond the particular occasion of the trial to illustrate the Roman attitude toward extending citizenship to outsiders. Unlike many Greek cities, the Romans welcomed worthy foreigners (such as the Apostle Paul) and even former slaves as full citizens. Cicero's ancestors at the Volscian hilltown of Arpinum had bene ted from such a grant of citizenship in the previous century, and so we may imagine he was sympathetic to the cause. Cicero believed that a nation that welcomes outsiders into its ranks as equal members becomes stronger, not weaker.*
 
@@ -310,7 +310,7 @@ Without a doubt what has done the most to increase the power and reputation of t
 
 ## W
 
-*The Greeks and Romans had no illusions about war. From Homer's* Iliad *to Caesar's* Gallic War*, the horrors and terrible human cost are plain* 
+*The Greeks and Romans had no illusions about war. From Homer's* Iliad *to Caesar's* Gallic War*, the horrors and terrible human cost are plain*
 
 *to see. But neither did they shrink from war when they felt is was necessary. Waging war to protect one's country, support allies, or maintain honor was considered perfectly acceptable by all. Cicero agrees with this philosophy and argues in one of his earliest political speeches that protecting the honor of a country can be the most compelling reason to go to war. The occasion was the proposal to allow his patron Pompey to take up a military command against Mithradates, a long-standing nemesis of Rome who ruled in Asia Minor.*
 
@@ -326,7 +326,7 @@ No war is honorable unless it is announced and declared or it is for the recover
 
 ## C
 
-*The abuse of power was rampant in the late Roman Republic, especially among those members of the nobility who were sent abroad to govern provinces. The privilege of these Roman wolves to feast on the provincial sheep was often protected by members of the senate, who had behaved similarly themselves or hoped to in the future. But honest men such as Cicero believed* 
+*The abuse of power was rampant in the late Roman Republic, especially among those members of the nobility who were sent abroad to govern provinces. The privilege of these Roman wolves to feast on the provincial sheep was often protected by members of the senate, who had behaved similarly themselves or hoped to in the future. But honest men such as Cicero believed*
 
 *that corruption was a cancer that ate at the heart of a state. In the following passages, taken from one of Cicero's earliest speeches, Gaius Verres, a former governor of the island of Sicily now on trial, is held up as the epitome of the crooked politician out to pro t from his term in of ce.*
 

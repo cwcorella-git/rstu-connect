@@ -6,21 +6,21 @@ category: "contemporary-analysis"
 0:01
 In 2019, I was doing administrative work at an insurance company.
 0:05
-Every morning, I'd get up at 5, take a cold shower, get dressed, and head up the 
+Every morning, I'd get up at 5, take a cold shower, get dressed, and head up the
 road
 0:10
 to travel.
 0:11
 Once I'd gotten a taxi before a certain time, I'd get away from most of the traffic
 0:16
-and be at the office around 6:30, long before the work day is supposed to begin at 
+and be at the office around 6:30, long before the work day is supposed to begin at
 8.
 0:21
 I'd open up, warm my breakfast, and prepare myself for the day ahead.
 0:25
 It was simple work, I'll be honest.
 0:27
-It's not like I was lifting boxes or working at a restaurant (Although I do have 
+It's not like I was lifting boxes or working at a restaurant (Although I do have
 stories
 0:32
 from that experience I might share someday).
@@ -61,7 +61,7 @@ Sorting.
 0:52
 Uploading.
 0:53
-## 
+##
 
 Filing.
 0:54
@@ -75,7 +75,7 @@ After all, I couldn't let them suck up all my time.
 1:03
 I was organizing in the early days of what is now the movement I'm a part of.
 1:07
-I was also, in addition to a full-time worker on a three month contract, a full 
+I was also, in addition to a full-time worker on a three month contract, a full
 time student,
 1:13
 getting my Bachelor's.
@@ -96,18 +96,18 @@ It felt like my soul was drained.
 1:35
 I felt like grey.
 1:36
-My ex had broken up with me, my courses were demanding so much effort (especially 
+My ex had broken up with me, my courses were demanding so much effort (especially
 my group
 1:41
-projects), I was leading the climate group, I was commuting for hours every day, 
+projects), I was leading the climate group, I was commuting for hours every day,
 and when
 1:47
-I got home, I always had to confront a messy room, thanks to siblings, and a 
+I got home, I always had to confront a messy room, thanks to siblings, and a
 sinkful of
 1:51
 dishes to tackle.
 1:53
-Plus, the skies were heavy on the rain on some days and violently hot on other 
+Plus, the skies were heavy on the rain on some days and violently hot on other
 days,
 1:58
 barraging me on either extreme.
@@ -122,7 +122,7 @@ I wasn't quite at my mental limit.
 2:10
 MY stress threshold.
 2:11
-## 
+##
 
 But I was close.
 2:13
@@ -132,7 +132,7 @@ I was able to go back to studying full time after the contract expired.
 2:17
 I don't have bills, for now.
 2:19
-I'm in my final year in college now and things aren't as bad as they were last 
+I'm in my final year in college now and things aren't as bad as they were last
 year.
 2:23
 My blood isn't running thin daily.
@@ -149,17 +149,17 @@ It really is.
 2:46
 You can feel it in your skin, in your muscles, in your bones.
 2:51
-Like tree rings telling a story, you might even be able to pinpoint where stress 
+Like tree rings telling a story, you might even be able to pinpoint where stress
 has
 2:56
 harmed you.
 2:57
-Stress is the consequence of many a calamity, and the catalyst of many more, 
+Stress is the consequence of many a calamity, and the catalyst of many more,
 mentally, emotionally,
 3:03
 physically, and socially.
 3:05
-Stress is a tension, caused by events, thoughts, or circumstances that lead to 
+Stress is a tension, caused by events, thoughts, or circumstances that lead to
 frustration,
 3:11
 anger, and nervousness.
@@ -168,37 +168,37 @@ Our bodies react to such strenuous demands and challenges on our being with stre
 3:18
 And there are so many things that can trigger stress.
 3:22
-Work stress, like the commute, workload, hours, conditions, fear of termination, 
+Work stress, like the commute, workload, hours, conditions, fear of termination,
 termination,
 3:29
 and of course, your submission to a 9-5 dictator.
 3:33
-School stress, like classes, grades, workload, exams, teachers, students, and the 
+School stress, like classes, grades, workload, exams, teachers, students, and the
 fear of
 3:37
 what's to come.
 3:41
-Mental stress, like depression, anxiety, anger, fear, uncertainty, change, 
+Mental stress, like depression, anxiety, anger, fear, uncertainty, change,
 expectations, grief,
 3:49
 guilt, chronic illness, trauma, loneliness, and low self-esteem.
 3:53
-## 
+##
 
-Life stress, like loss of a loved one, marriage, breakups, divorce, social drift, 
+Life stress, like loss of a loved one, marriage, breakups, divorce, social drift,
 social obligations,
 4:02
-natural disasters, the consumerist ratrace, public speaking, pandemics, policing, 
+natural disasters, the consumerist ratrace, public speaking, pandemics, policing,
 discrimination
 4:09
 and harassment, assault, and other forms of violence.
 4:14
 Stress is suffering in and ofitself.
 4:16
-As a result of it, we deal with headaches, sleep problems, muscle pain, digestive 
+As a result of it, we deal with headaches, sleep problems, muscle pain, digestive
 problems,
 4:22
-sex problems, blood pressure issues, moodiness, restlessness, demotivation, 
+sex problems, blood pressure issues, moodiness, restlessness, demotivation,
 irritability,
 4:29
 substance abuse, and so much more.
@@ -217,7 +217,7 @@ People can recognize, on a visceral level, that things could be different.
 4:59
 We're alienated and anxious.
 5:01
-It's been estimated that no more than 23% of everyone alive today is free of 
+It's been estimated that no more than 23% of everyone alive today is free of
 psychopathological
 5:08
 symptoms.
@@ -228,37 +228,37 @@ We're mentally, and in many cases, literally, impoverished.
 5:14
 Our society is deeply unhealthy and we all know it.
 5:18
-Check the countries with the highest levels of inequality, the numbers of people 
+Check the countries with the highest levels of inequality, the numbers of people
 with
 5:23
 stress-related diseases are through the roof.
 5:25
 The economic cycles, the boom and bust, they trigger hypervigilance in our bodies.
 5:32
-We have to constantly scan our urban jungle for threats of job loss, automation, 
+We have to constantly scan our urban jungle for threats of job loss, automation,
 financial
 5:37
 insecurity, and the decimation of entire economies and sectors.
 5:42
-It's almost as though we're held in captivity, psychologically dominated by 
+It's almost as though we're held in captivity, psychologically dominated by
 unpredictable,
 5:48
 wildly varying abuse and hierarchical power structures that capitalism engenders.
-## 
+##
 
 5:53
-And as psychologist Judith Herman noted, "The ultimate effect of psychological 
+And as psychologist Judith Herman noted, "The ultimate effect of psychological
 domination
 5:59
-is to convince the victim that the perpetrator is omnipotent, that resistance is 
+is to convince the victim that the perpetrator is omnipotent, that resistance is
 futile,
 6:06
 and that her life depends upon winning his indulgence through absolute compliance."
 6:12
-Capitalism exploits the body's natural survival responses by creating the 
+Capitalism exploits the body's natural survival responses by creating the
 conditions of psychological
 6:17
-domination, but it alleviates stress by producing an economy organized around the 
+domination, but it alleviates stress by producing an economy organized around the
 production
 6:22
 and circulation of addictive substances and practices.
@@ -277,7 +277,7 @@ Spirits.
 6:35
 Tobacco.
 6:36
-People used these substances to self-medicate in response to the effects of 
+People used these substances to self-medicate in response to the effects of
 capitalist dominance.
 6:39
 Look at today.
@@ -296,17 +296,16 @@ and addiction begins.
 Societies throughout history have had to contend with power dynamics and the stress
 they cause.
 6:59
-Many of the most egalitarian indigenous societies dealt with the quest for status 
+Many of the most egalitarian indigenous societies dealt with the quest for status
 and power
 7:03
 by undermining and isolating those who try to bully and dominate others.
 7:08
-Egalitarian societies respond to power and status by trying to mitigate its 
+Egalitarian societies respond to power and status by trying to mitigate its
 effects,
 7:13
-## 
+##
 while capitalism propagates exploitation and traumatic stress in ways that promote
-
 
 the
 7:17
@@ -316,7 +315,7 @@ I mean, we don't have to work for so long.
 7:24
 We don't have to be at school for so long.
 7:27
-Studies have demonstrated that we can only consistently and effectively perform 
+Studies have demonstrated that we can only consistently and effectively perform
 tasks
 7:30
 for about 3-6 hours per day, for 1-2 hours at a time.
@@ -339,14 +338,14 @@ And when we're stressed, who really has the energy to fight for the rights?
 7:52
 It wasn't always like this.
 7:54
-As Robert Anton Wilson described in Prometheus Rising, when capitalism built 
+As Robert Anton Wilson described in Prometheus Rising, when capitalism built
 itself, the
 8:00
 social bond was broken.
 8:01
 We're bonded to money now.
 8:03
-Our survival doesn't depend on *other people* in this society, it depends on 
+Our survival doesn't depend on *other people* in this society, it depends on
 getting that
 8:08
 cheddar.
@@ -367,11 +366,11 @@ It's the natural course of the universe, and everything it encapsulates.
 8:33
 Nature follows the Dao with ease, but we have willpower.
 8:36
-## 
+##
 
 We can choose to go against it.
 8:39
-We don't follow our natural course now because our society of control and shame, 
+We don't follow our natural course now because our society of control and shame,
 oppressed
 8:44
 by government and capital, keeps us swimming against the river's current.
@@ -380,10 +379,10 @@ What a stressful existence.
 8:56
 How Can We Address Stress?
 8:59
-I checked WebMD, and it said stress can be managed through, among other things, 
+I checked WebMD, and it said stress can be managed through, among other things,
 "maintaining
 9:05
-a positive attitude, meditation, yoga, exercise, healthy eating, time management, 
+a positive attitude, meditation, yoga, exercise, healthy eating, time management,
 leisure,
 9:11
 sleep, social support, and mental treatment."
@@ -414,7 +413,7 @@ Leisure is vital.
 9:39
 Don't let anyone tell you otherwise.
 9:40
-Our society created the word laziness to guilt us constantly for not working 
+Our society created the word laziness to guilt us constantly for not working
 constantly.
 9:46
 But, you see, none of these things address stress systematically.
@@ -428,15 +427,15 @@ safe home environment, or affordable mental care.
 Even among the fortunate, therapy is often focused on "fixing" the individual to
 10:07
 adjust to a sick society, using medication if necessary.
-## 
+##
 
 10:12
 That's not enough.
 10:13
-Distress, misery, and loneliness are woven into the very fabric of our social 
+Distress, misery, and loneliness are woven into the very fabric of our social
 system.
 10:18
-Our physical environment and socioeconomic status have tremendous power over our 
+Our physical environment and socioeconomic status have tremendous power over our
 well-being.
 10:22
 The crisis is capitalism.
@@ -457,7 +456,7 @@ We're all we've got.
 10:53
 We can't afford to wait until after capitalism has been abolished to be happy.
 10:58
-While that's the long-term cure, understanding the root of our stress can make the 
+While that's the long-term cure, understanding the root of our stress can make the
 personal
 11:03
 political, driving us to act and connect with people who can support us.
@@ -489,7 +488,7 @@ The invasion, occupation, and destruction of our very being.
 We need to heal ourselves.
 11:42
 Conversely, obsessing over only the welfare of the self is an equally awful
-## 
+##
 
 pitfall.
 11:50
@@ -507,7 +506,7 @@ Beyond recognition.
 12:03
 We have each other.
 12:04
-In the nightmare of today, with all our fears and limitations, liberation must 
+In the nightmare of today, with all our fears and limitations, liberation must
 remember
 12:09
 the whole, which exists in each

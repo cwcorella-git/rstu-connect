@@ -21,7 +21,7 @@ Statement by IWW Secretary, Russ Spring - Union calls for an end to the growing 
 
 , April 22, 2019
 Statement delivered to Bristol IWW EUC, to be announced in solidarity with the Earth Strike climate protest on April 27th, 2019:
-https://www.facebook.com/events/777567979287005/
+
 Regarding the passing of the IWW’s new environmental policy, calling for an end to the growing economy and the transformation of harmful industry.
 “The threat of extinction is a very loud wake up call. Not just a wake up call to the needs of the planet but also a wake up call to the need for system change. Urgent and seismic action is needed for the immediate future and the long term survival of our planet.
 The changes that are required are so substantial that capitalism cannot deliver them. System change not climate change is one of the placards and chants of the schools strikes.

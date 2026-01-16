@@ -10,15 +10,15 @@ category: "contemporary-analysis"
 0:05
 It's hot out here man, it is hot TODAY."
 0:07
-In light of the recent IPCC report, issuing a code red warning for humanity, 
+In light of the recent IPCC report, issuing a code red warning for humanity,
 climate hopelessness
 0:14
 is at an all time high.
 0:16
-As I've spoken about many times before, in my videos addressing the climate 
+As I've spoken about many times before, in my videos addressing the climate
 movement,
 0:21
-Gen Z, and the psychology of collapse, there's no mincing words and no sense in 
+Gen Z, and the psychology of collapse, there's no mincing words and no sense in
 beating around
 0:27
 the bush.
@@ -27,18 +27,18 @@ We are in hell and in many ways, things are going to get worse.
 0:33
 And yet, I'm as passionately solarpunk as ever.
 0:37
-Recently I released a music video based on solarpunk to lend some encouragement to 
+Recently I released a music video based on solarpunk to lend some encouragement to
 all
 0:41
 those involved in the movement.
 0:43
-But for those who haven't seen it, and haven't seen my video on solarpunk either, 
+But for those who haven't seen it, and haven't seen my video on solarpunk either,
 to summarize,
 0:49
-solarpunk is a shining vision of a positive, communal future, grounded in our 
+solarpunk is a shining vision of a positive, communal future, grounded in our
 efforts in
 0:55
-the existing world, that emphasizes the need for environmental sustainability, 
+the existing world, that emphasizes the need for environmental sustainability,
 self-governance,
 0:59
 and social justice.
@@ -54,14 +54,14 @@ Some people question why solarpunk is even called punk.
 1:19
 After all, isn't it just some 100% on the vibrance slider hopium utopia?
 1:25
-I think this misses the point of solarpunk and its role in the present world we 
+I think this misses the point of solarpunk and its role in the present world we
 live
 1:29
 in.
 1:30
-There is emphasis on the future among solarpunk spaces, but the punk aspect of 
+There is emphasis on the future among solarpunk spaces, but the punk aspect of
 solarpunk is
-## 
+##
 derived from its rebellion against the war on hope.
 
 ## 1:39
@@ -250,25 +250,24 @@ Perhaps some already come to mind.
 
 plants and materials as cheaply as possible; remember to walk with bags so you can
 
-
 easily
 7:41
 collect any garbage, rocks, and weeds that you're clearing away; give your plants a
 7:45
-little water from time to time; and give your plants a boost with compost when you 
+little water from time to time; and give your plants a boost with compost when you
 can.
 7:49
-Remember there are other methods of seed distribution you can try out beyond what 
+Remember there are other methods of seed distribution you can try out beyond what
 I've presented,
 7:54
 so be creative.
 7:55
-For example, @sfinbloom on Tik-Tok skateboards around San Francisco with a pepper 
+For example, @sfinbloom on Tik-Tok skateboards around San Francisco with a pepper
 shaker
 8:01
 bottle and spreads native seeds that way.
 8:04
-Lastly, check out @octaviachill on Tik-Tok, she's an anarchist guerilla gardener 
+Lastly, check out @octaviachill on Tik-Tok, she's an anarchist guerilla gardener
 with
 8:09
 some great resources if you'd like to learn more about how you and/or your affinity
@@ -276,41 +275,41 @@ group
 8:13
 can get started.
 8:14
-Let's turn now to community level solutions, cuz solarpunk's got you covered there 
+Let's turn now to community level solutions, cuz solarpunk's got you covered there
 too.
 8:19
-Part of our aim is for the radical development of communal food autonomy through 
+Part of our aim is for the radical development of communal food autonomy through
 food forest
 Food Forest
 8:25
 commons.
 8:26
-A food forest, or forest garden, is a diverse planting of edible plants that 
+A food forest, or forest garden, is a diverse planting of edible plants that
 attempts to
 8:32
 mimic the ecosystems and patterns found in nature.
 8:36
-They aim to be three dimensional, with life extending up, down, and out in all 
+They aim to be three dimensional, with life extending up, down, and out in all
 directions.
 8:42
 Food forests are rooted in permaculture principles.
 8:44
-Our Changing Climate already has an excellent video on permaculture that you can 
+Our Changing Climate already has an excellent video on permaculture that you can
 check out,
 8:49
-and you should probably watch my video on permablitzing too, but put simply, 
+and you should probably watch my video on permablitzing too, but put simply,
 permaculture
 8:54
 is a design philosophy that integrates land, resources, people, and the environment
 through
 8:59
-mutually beneficial synergies, imitating the diverse, harmonious, stable, 
+mutually beneficial synergies, imitating the diverse, harmonious, stable,
 resilient, no
 9:05
 waste, and closed loop systems seen in nature.
 9:09
 Permaculture seeks to work with, rather than against, nature.
-## 
+##
 Food forests are nothing new.
 
 ## 9:15
@@ -573,7 +572,6 @@ floor is more legit in my opinion.
 
 Be careful about adding too many though, you don't want them to strangle your
 
-
 plants.
 14:20
 And, I mean, that's it.
@@ -586,34 +584,34 @@ But it's not a requirement.
 14:29
 The benefits of food forests, once they've been established, are innumerable.
 14:33
-They sequester carbon; cool the climate; provide habitat for wildlife; develop 
+They sequester carbon; cool the climate; provide habitat for wildlife; develop
 resilience through
 14:40
-biodiversity; enrich the soil; provide beauty and tranquility; provide great 
+biodiversity; enrich the soil; provide beauty and tranquility; provide great
 yields; attract
 14:47
-beneficial insects and pollinators; and produce their own mulch, compost, and 
+beneficial insects and pollinators; and produce their own mulch, compost, and
 fertilizer;
 14:53
-all for very little maintenance and zero damaging herbicides and pesticides, 
+all for very little maintenance and zero damaging herbicides and pesticides,
 weeding, crop rotation,
 14:59
 mowing or excessive digging.
 15:01
-Be patient, observe your environment, and work well with your community to make 
+Be patient, observe your environment, and work well with your community to make
 cities,
 15:08
 suburbs, and country bloom.
 15:11
-Solarpunk borrows from anarchic and socialist ideas, including the notion that we 
+Solarpunk borrows from anarchic and socialist ideas, including the notion that we
 should
 15:15
 control our own labour.
 15:17
-Syndicates and worker co-operatives, while limited under capitalism, can help 
+Syndicates and worker co-operatives, while limited under capitalism, can help
 facilitate
 15:22
-the cooperation of farmers, scientists, and the broader community to develop 
+the cooperation of farmers, scientists, and the broader community to develop
 technologies
 15:27
 and techniques that can benefit the whole population, instead of the wealthy few.
@@ -629,11 +627,11 @@ Put simply, they're organisms whose DNA has been modified using genetic engineer
 15:49
 technology.
 15:50
-While the selective breeding of the past has helped humanity give certain crops 
+While the selective breeding of the past has helped humanity give certain crops
 certain
 15:54
 desirable traits, it takes many generations to see any kind of success.
-## 
+##
 15:59 Meanwhile, through genetic engineering technology, we've been able to accelerate this process 16:04 to improve the growth, pest resistance, nutritional content, and ease of farming for many staple 16:10 crops. 16:11 However, it's not all sunshine and rainbows. 16:15 There has been some legitimate concern about the impact of GMOs on the environment, as 16:19 well as some less scientifically grounded concern about the impact of GMOs on human 16:24 health. 16:25 The scientific consensus is that GM crops are just as safe for human and animal consumption 16:30 as conventional food. 16:31 They don't cause cancer or allergies. 16:34 But it is important to be rigorous in our testing of these crops before introducing 16:39 them to the public. 16:40 As for GMOs impact on the environment, a lot of it can be boiled down to the practices 16:45 of capitalist industrial agriculture. 16:48 Besides the patents and monopolies that manipulate and foster debilitating dependency on multinational 16:54 agricultural corporations, the way that GMOs are currently used in monoculture farming 17:01 contributes to the current decrease in biodiversity and ongoing evolution of resilient pests and 17:06 diseases that can easily wipe out large populations of flora. 17:11 We need to liberate the innovations and benefits of GMOs from their current, environmentally 17:15 damaging uses. 17:17 We need to seize them from the clutches of these corporations and venture into the currently 17:21 uncharted territory of their immense potential. 17:24 Our climate is changing, and we need our food sources to change with it to minimize the
 
 ## 17:29
@@ -644,18 +642,17 @@ casualties of collapse.
 
 And the fossil fuel driven air conditioning we currently use is a false solution to the 19:17 coming heat waves. 19:18 These machines, which we use to bring cool air indoors, are driving temperatures outdoors 19:23 ever higher. 19:24 Solarpunk, once again, could offer a solution. 19:28 Terracotta air-conditioning. 19:29 A beautiful solution that combines the biomimicry of beehives with the cooling properties of 19:34 wet terracotta. 19:36 Terracotta cooling systems have already been tried and tested by a team of scientists in 19:40 New Delhi, and work through a very simple mechanism. 19:43 First, pipes pour water on top of a structure of hundreds of tubes, completely soaking them 19:49 and as air flows through this wet terracotta it cools significantly. 19:54 This process is similar to how your body cools you down with sweat droplets. 19:59 Finally, as the water makes its way to the bottom of the structure, it's collected in 20:03 a basin and recycled up to the top to complete a closed loop system. 20:08 When working properly, the structure can cool the air by as much as 20° F, or 6° C. The 20:15 team of New Delhi scientists have automated the process to provide optimal water flow 20:20 so it doesn't require any work, but if creating an automatic water release system at the top 20:26 is too complex, you can simply pour water onto the terracotta structure every so often. 20:31 The promise of this system lies in the terracotta's simplicity and beauty. 20:36 It can be built and implemented quickly as long as you have a bit of water and some friends 20:41 or community to help make terracotta cylinders. 20:45 Cylinders that are not beholden to any chemical coolants or fossil fuels, yet are extremely 20:51 effective. 20:52
 
-
-In this way, the terracotta air conditioner reflects the core of a Solarpunk 
+In this way, the terracotta air conditioner reflects the core of a Solarpunk
 vision, it
 20:57
 combines the aesthetics of a naturally made beehive with the DIY attitudes of punk.
 21:02
-It uses technology in a way that expands access to a comfortable life and brings 
+It uses technology in a way that expands access to a comfortable life and brings
 the workings
 21:09
 of the natural world in harmony with the human one.
 21:12
-In short, it builds resilience to the climate crisis in a decentralized, 
+In short, it builds resilience to the climate crisis in a decentralized,
 accessible, and
 21:18
 beautiful way.
@@ -663,7 +660,7 @@ beautiful way.
 Conclusion Thanks for the help!
 Conclusion
 21:21
-All in all, whether through guerilla gardening, food forest commons, GMO coops, or 
+All in all, whether through guerilla gardening, food forest commons, GMO coops, or
 terracotta
 21:27
 climate control, we can be empowered by solarpunk to take action in our communities
@@ -671,7 +668,7 @@ to build
 21:33
 resilience in the face of climate crisis.
 21:36
-Through a positive synergy of power to the people, lessons from Mother Nature, and 
+Through a positive synergy of power to the people, lessons from Mother Nature, and
 our
 21:41
 technological potential, we can build a better world, here and now.
@@ -695,7 +692,7 @@ Please like, comment, subscribe, and share with your fellow peoples.
 22:08
 Thanks once again of course to the Famalay.
 22:11
-If you can, join these beautiful humans and support me too on 
+If you can, join these beautiful humans and support me too on
 Patreon.com/saintdrew.
 22:15
 Check out all my other videos for a range of radical topics.

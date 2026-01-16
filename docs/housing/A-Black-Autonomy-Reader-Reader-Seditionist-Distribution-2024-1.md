@@ -37,7 +37,7 @@ Typeset in Caslon 11pt. Available in other formats upon request.
 
 *Dare to look at the intersectionalities. Dare to be holistic. Part of the heart of anarchy is, dare to go against the grain of the conventional ways of thinking about our realities. Anarchists have always gone against the grain, and that's been a place of hope.*
 
-*bell hooks* 
+*bell hooks*
 
 # *FOREWORD*
 
@@ -737,7 +737,7 @@ rough the Imagination, All is possible.
 
 # **Anarchism + Black Revolution = New Black Autonomous Politics Black Autonomy Federation** *(1994)*
 
-*First Published in Vol.1 No.2 of Black Autonomy (1994) The same text appeared as a statement of the Black Autonomy International In Black Autonomy Vol.3 No.1 published in 1997* 
+*First Published in Vol.1 No.2 of Black Autonomy (1994) The same text appeared as a statement of the Black Autonomy International In Black Autonomy Vol.3 No.1 published in 1997*
 
 e new autonomous politics is made up of the anti-authoritarian core of Anarchism and many of the tenents of revolutionary Black nationalism. is combination of all elements makes up something so new it has not been fully dened before now. We will attempt now to more sharply dene what has been talked about for the last fteen years, and also to place it within a historical context so that it can no longer be dismissed as an"eclectic mish-mash", or "corruption" of (both) ideals as the purists would claim.
 
@@ -1001,7 +1001,7 @@ e process of anarchist transformation in Africa might prove comparatively easy, 
 
 # **e Voice from Below - Zambian Workers Speak Out Sakhela Buhlungu and Lucien van der Walt** *(1997)*
 
-*Descriptions of workers resistance in Zambia during the transition to multiparty politics after being a single party state throughout the 70s until 1991. Showing the grassroots resistance workers put up to privatisation of formerly state owned rms and the associated job cuts.* 
+*Descriptions of workers resistance in Zambia during the transition to multiparty politics after being a single party state throughout the 70s until 1991. Showing the grassroots resistance workers put up to privatisation of formerly state owned rms and the associated job cuts.*
 
 Shopoor workers and lower level management in Zambia are extremely critical of the economic policies of the MMD (Movement for Multiparty Democracy) government. Interviews conducted with shopstewards at Nitrogen Chemicals of Zambia (NCZ) give an insight into these views.
 
@@ -1845,7 +1845,7 @@ By means of conclusion, while the Panthers never achieved the overthrow of white
 
 # **On A Black Feminist Anarchism Zoé Samudzi** *(2017)*
 
-*Partial transcript of a talk given at the Orange County, California Anarchist Bookfair in 2017. Due to the audio quality of the youtube upload, some words are doubtlessly missing from the transcript due to them being indecipherable over the background noise.* 
+*Partial transcript of a talk given at the Orange County, California Anarchist Bookfair in 2017. Due to the audio quality of the youtube upload, some words are doubtlessly missing from the transcript due to them being indecipherable over the background noise.*
 
 In her 1983 literary work In Search Of Our Mothers' Gardens Alice Walker described a womanist as;
 
@@ -1959,7 +1959,7 @@ at's all I have, because I want us to have a conversation.
 
 # **Interviewing Warren Mc Gregor of ZACF Warren Mc Gregor & Leroy Maisiri** *(2018)*
 
-*Warren Mc Gregor is an activist born in the Coloured townships of the Cape Flats, now resident in Johannesburg, where he is involved in working class and union education.* 
+*Warren Mc Gregor is an activist born in the Coloured townships of the Cape Flats, now resident in Johannesburg, where he is involved in working class and union education.*
 
 *Leroy Maisiri (LM)*: First of all thank you so much for your time, and making room for me in your busy schedule. Please kindly begin stating your name and any political aliations you have with organisations or movements within the left.
 
@@ -2451,7 +2451,7 @@ MK: Yeah. ere has to be a direct recall. And no hell of a lot of money involved 
 
 ### **Where We Are.**
 
-**We march, we shout, we cry out, we anguish, and yet justice has not come for our Black brothers and sisters who had been murdered.** 
+**We march, we shout, we cry out, we anguish, and yet justice has not come for our Black brothers and sisters who had been murdered.**
 
 As of September 2020 we as a people dedicated to a political struggle are at a standstill, lost of any political momentum. Rather, more people keep being murdered with no arrival of justice in sight. More families and communities are destroyed by the police and the government daily, yet we march on. To what avail? Let's think about the routine of the average protestor in 2020 since, and even before, the George Floyd protests. Many folks hear about upcoming protests in or nearby their areas and travel an hour or so, meet up with a crowd, listen to a few speakers, march for a few more hours and then go right back home with no real action having been made or conclusion being reached. e routine is not always the same, sometimes people riot, get arrested, brutalized, maimed, or even all three. But outside of waiting for the next facebook or twitter update telling them where the next protest will be, nothing else is done. Protest in, and protest out, people will march, riot, and chant with unwavering energy and fervor. e events in Portland and the rest of the country since George Floyd's death demonstrate the lengths people will go to ght and work together. Yet it always stops at the protest; there is no organizing past this. It's as if our solidarity, our spirit and our love to ght vanish once we get in our cars and leave for home.
 
@@ -2653,7 +2653,7 @@ In this moment of insurgency are we going to display our capacity necessary to d
 
 # **On the Black Leadership and Other White Myths We Still Outside Collective** *(2020)*
 
-*A communiqué sent to Ill Will by some black friends in New York.* 
+*A communiqué sent to Ill Will by some black friends in New York.*
 
 What they call, "the black leadership," does not exist. Let's be serious: what they are talking about is nothing more than a gment of the white liberal imagination. at is, if these so-called black leaders even exist at all, then they can only be found shucking and jiving a "woke" white person's head.
 
@@ -3215,7 +3215,7 @@ is is a distinct turn away from the individualist line of white illegalism which
 
 # **Dreams of Black Revolt Anon** *(2022)*
 
-*Note: A lot of people seem to be writing about the rebellion. However, there aren't enough black anarchist voices (or black revolutionaries in general) publicly reecting on it. Our input matters the most right now in my opinion. Shoutout to the Anarkatas, Lorenzo, Saint from Haters, the comrades who wrote BAJ, and all my homies who I talk to about this stu.* 
+*Note: A lot of people seem to be writing about the rebellion. However, there aren't enough black anarchist voices (or black revolutionaries in general) publicly reecting on it. Our input matters the most right now in my opinion. Shoutout to the Anarkatas, Lorenzo, Saint from Haters, the comrades who wrote BAJ, and all my homies who I talk to about this stu.*
 
 *I hope this gives yall a taste about what's been on my mind the past two years. I've been involved in a variety of writing projects but this one is really just a mostly personal reection on how I've been feeling. One day I'll be back on twitter but I hope this one essay helps shape the discourse a bit more, haha. It isn't meant to be a full critique of anything. It's just a few ideas that been bouncing around in my head.*
 
@@ -3251,7 +3251,7 @@ e fascist counter-revolution is on the rise with the attacks on our trans siblin
 
 # **How to Deal with the Cost of Living Hike Your Local Black Queers** *(2022)*
 
-*Several copies of this 28 page A6 zine were packaged in bubble bags and dropped o anonymously at various social centres in London, England in the Summer of 2022, adorned with a Circle A graphic over the backdrop of defaced British Currency.* 
+*Several copies of this 28 page A6 zine were packaged in bubble bags and dropped o anonymously at various social centres in London, England in the Summer of 2022, adorned with a Circle A graphic over the backdrop of defaced British Currency.*
 
 ### **THE COST OF LIVING IS RISING THE GOVERNMENT IS FUCKING US OVER YET AGAIN NO SURPRISE**
 
@@ -3550,7 +3550,7 @@ We also want to highlight what black anarchist projectuality can look like in li
 
 ## **So Many Incredible Gehennas!: Anti-Blackness and the Ruse of Safety TACKY** *(2023)*
 
-*"is boat is your womb, a matrix, and yet it expels you. is boat: pregnant with as many dead as living under sentence of death."* 
+*"is boat is your womb, a matrix, and yet it expels you. is boat: pregnant with as many dead as living under sentence of death."*
 
 ## *Edouard Glissant*
 
@@ -3564,7 +3564,7 @@ His alleged transgressions are immaterial to me at this point. Property, big or 
 
 I hope Jordan Neely haunts every subway tunnel. I hope the hands that bound his feet and the arms that cut the wind from his body nd themselves broken, bloodied, and severed. I hope the eyes that played witness to a lynching fall out of their sockets. I hope every pair of lungs in that car, lungs that sighed in relief as Jordan was being dispossessed of his life, I hope they all collapse and those people never take another breath. I hope the guard that pulled his gun and drew down on Banko Brown chokes in his sleep and I hope it hurts. I'm not remiss in my thoughts of revenge because that's all we have, Our Revenge. e burning of precincts and retail stores that carry more value than black life is Our Revenge. e disquieting of non-black fragility through force and re is Our Revenge. It may unsettle some that civil and political society are so squarely in my cross hairs, but their domination extends beyond structure and capital. ey extend beyond city halls and police stations, beyond the failures of private and state-run mental health facilities, beyond the purposed inadequacy of commodied housing, and into the psychic anxieties that glue material daily life into place. e anti-blackness of everyone else's safety, security, and care. at's what needs to be attacked. at is what will begin to cement Our Revenge.
 
-*"Worn down, in a debasement more eternal than apocalypse. But that is nothing yet."* 
+*"Worn down, in a debasement more eternal than apocalypse. But that is nothing yet."*
 
 #### *Edouard Glissant*
 
@@ -3574,13 +3574,13 @@ e more daunting and lamentable conversations came from people with the wherewith
 
 It's dicult for me to write about Brown's death any deeper than something purely analytical. ere's a necessary air of experience that I do not have, a purely visceral anxiety surrounding the increased likelihood of demise because of a clear rejection of not only the gender binary but cis-masculinity and the thwarting of a type of capture within a framework that is organized through sheer violence. ere are others far better suited for that who theorize daily life from a black-trans subject position. I know the piece of shit security guard who murdered him was not in fear for his safety. I don't need to see footage to know that. His decision was clear and controlled and, while easily settled into a pathetic protection of property, can possibly be read as the outward expression of what might be his own transphobia. But fuck him. My sorrow for Brown is sympathetic because I know that, way down on the scorecard, there his name will be. I don't know if I'm lamenting its lack of prominence in the current consciousness or its possible complete absence. I just know that I don't want it to be meaningless.
 
-*"Peoples who have been to the abyss do not brag of being chosen. ey do not believe they are giving birth to any modern force."* 
+*"Peoples who have been to the abyss do not brag of being chosen. ey do not believe they are giving birth to any modern force."*
 
 ## *Edouard Glissant*
 
 Abolitionist platitudes ring especially hollow at this point. Tensed-up stomach muscles push "we keep us safe!" into the air with such an assurance without any thought of if that claim even makes sense. Or if the sense it might make frames them squarely in a space as the grand bestowers of a safety that ultimately denies those outside of even the loosest boundaries as irreconcilable with the idea. e common thread among everyone who claims solutions to houselessness and insanity, the two most digestible explanations of the Negro Problem, is soft incarceration. Whether involuntary commitment, as the New York Post advocates for, or broader access to mental health facilities (whatever that means), both private and state-run, the solution is to lock away the undesirable. Because bars and handcus aren't immediately recognizable it doesn't smell like imprisonment to their quaint sensibilities. House arrest is without physical bars and cus but, through the coercion of monitoring and the threat of physical prison itself, it's still imprisonment. e psych ward, my own least favorite place, though lacking steel bars, still contains elements of imprisonment: locks, restraints, monitoring, isolation, coercion, the lurking threat of imprisonment itself. Medication is both cus and gun if your condition isn't as easily treatable. And if your condition is merely a response to the anti-blackness of daily life, you are untreatable. en the real restraints, the real cus, and real prison start to enter the picture. I say all of that from experience. at is what safety looks like at this juncture and its liberals who are ghting the hardest to expand that safety. Such liberal conceptions of the world and how to achieve that world need to nd a grave before it nishes digging one for those of us who will never manage to stay above dirt.
 
-*"…what suerings came from the unknown!"* 
+*"…what suerings came from the unknown!"*
 
 ### *Edouard Glissant*
 
@@ -3588,7 +3588,7 @@ I refuse to posit strategies or solutions here. I simply wish to decompress. A m
 
 # **Black Cataclysm: Anarchism and Ruination Sam C. Tenorio** *(2024)*
 
-*Transcribed by Commie Con from an Anarchist Research Group essay uploaded to Youtube.* 
+*Transcribed by Commie Con from an Anarchist Research Group essay uploaded to Youtube.*
 
 ### *From the description;*
 
@@ -3902,7 +3902,7 @@ In *Anarchism And e Black Revolution*, Ervin emphasized that Anarchism is "the m
 
 ## **Jo Nina Ervin, 1958 - Jo Nina Speaks** *(2022)*
 
-*Transcribed by the editor from Episode 8 of the Black Autonomy Podcast* 
+*Transcribed by the editor from Episode 8 of the Black Autonomy Podcast*
 
 **Lorenzo Kom'Boa Ervin:** In this episode, we'll be talking to Jo Nina Ervin, co host of the Black Autonomy podcast and a former member of the Black Panther Party, about her life and experiences of nearly 50 years in the Black liberation struggle in america.
 
@@ -4150,7 +4150,7 @@ In prison Michael has also written several short articles, which can be found on
 
 **Compiled From His Interview** *'No Way As A Way'* **and a Biographical Sketch Found in** *Our Culture, Our Resistance* **by Ernesto Aguilar** *(2003)*
 
-*Greg Jackson was born in 1970 in Seattle to a white mother and black father, he was raised mostly by his mother. He became politicised due to racist violence he experienced & growing up on welfare until he was 17. is also helped jump start his career in martial arts, beginning with boxing. His answers to some question in the 2003 interview provide excellent insight to his early life and political experiences.* 
+*Greg Jackson was born in 1970 in Seattle to a white mother and black father, he was raised mostly by his mother. He became politicised due to racist violence he experienced & growing up on welfare until he was 17. is also helped jump start his career in martial arts, beginning with boxing. His answers to some question in the 2003 interview provide excellent insight to his early life and political experiences.*
 
 ### **Was there a dening political moment in your life?**
 
@@ -4416,11 +4416,11 @@ e TAAC may choose to form smaller collectives to carry out specic tasks, e.g. an
 
 # **Revolutionary Abolitionist Movement** *(2017)*
 
-*RAM was a Black led revolutionary organisation founded in 2017, with deep ties to the prison struggle in the US and the armed revolution in Rojava. ey organised demonstrations in several cities in the US and embarked on projects to educate imprisoned people.* 
+*RAM was a Black led revolutionary organisation founded in 2017, with deep ties to the prison struggle in the US and the armed revolution in Rojava. ey organised demonstrations in several cities in the US and embarked on projects to educate imprisoned people.*
 
-*e Kuwasi Balagoon Liberation Project - An educational project that began as an introductory class designed to bring in a new generation of revolutionaries. It has now been compiled into a text and reader titled 'e Kuwasi Balagoon Liberation School' meant to be sent to comrades behind bars.* 
+*e Kuwasi Balagoon Liberation Project - An educational project that began as an introductory class designed to bring in a new generation of revolutionaries. It has now been compiled into a text and reader titled 'e Kuwasi Balagoon Liberation School' meant to be sent to comrades behind bars.*
 
-*Below is their founding statement, later followed up by a small book by the same name in 2018. e organisation have been inactive since the end of 2020.* 
+*Below is their founding statement, later followed up by a small book by the same name in 2018. e organisation have been inactive since the end of 2020.*
 
 ### **Burn Down the American Plantation: Announcing RAM**
 
@@ -4565,7 +4565,7 @@ is text was written during Ojore's prison term and covers real examples of the p
 
 Distinguishing the dierences between the above status is important because Anarchist Political Prisoner "Robert axton" recently wrote me a letter saying;
 
-*"When I had a relatively stable life in Austin, Texas, I started to do Anarchist Black Cross (ABC) work there (this was about a year…prior to the stat of the* *Anarchist Black Cross Federation) and some prisoners sent me appeals to nd them legal help, some demanded money - lots of it, every month, or they wouldn't consider writing or otherwise being involved with projects I was trying to initiate or others were only interesting in having me hook them with nude pictures of woman companeras."* 
+*"When I had a relatively stable life in Austin, Texas, I started to do Anarchist Black Cross (ABC) work there (this was about a year…prior to the stat of the* *Anarchist Black Cross Federation) and some prisoners sent me appeals to nd them legal help, some demanded money - lots of it, every month, or they wouldn't consider writing or otherwise being involved with projects I was trying to initiate or others were only interesting in having me hook them with nude pictures of woman companeras."*
 
 Being a POW and knowing other Political Prisoners of War, I can say that I'm certain that such requests as they had ben asked of Robert axton never came from a Prisoner(s) who came into the concentration camp system as a Political Prisoner of a Prisoner of War. I can't say the same thing for social prisoners (not all social prisoners) because I known some apolitical social prisoners as well as some politicised social prisoners who are only interested in meeting women and exploiting (the) concerned and vulnerable out there in the communities at-large, for money and material things. I also know some people at there in minimum custoned who only show an interest in prisoners (apolitical as well as political) when they need the prisoners input to enhance their political careers, or some Left-Wing or Right-Wing "project" that they are working on.
 
@@ -4629,7 +4629,7 @@ Looking to an oppressed group, within an oppressed group, like the former double
 
 Black Anarchism isn't an academic discipline (even though there are a handful of Black Anarchist academics), and searching for the same level of historical detail as we commonly nd with white anarchism is an exercise in futility; it simply doesn't exist. I am limited to the English language and thus locked out of many conversations and events. My hope is that, over time, these nonsensical borders (much like the aforementioned enclaves) will disappear through the success of Black-led anti-state projects and spaces. Anarchism's opponents see anarchism as a pastime for middle-class white people on the weekend: a shelf full of expensive hardbacks written by white academics, a crudely drawn logo on the t-shirt of a white teenager stuck in the past, and an ideology that died with the failure of its mass movements in Europe in the 1900s. But if they scratch the surface and ask, "Why does anarchism appeal to students in Sudan, landless workers in South Africa, queer revolutionaries ghting against theocratic Christian settler colonialism in the so-called US, and Black poor people in the heart of the British state?" they can see a glimpse of its value and importance.
 
-**Anarchism isn't white, nor will it ever be again.** 
+**Anarchism isn't white, nor will it ever be again.**
 
 ## ![](_page_479_Picture_0.jpeg)
 

@@ -226,9 +226,6 @@ Scott Nicholas Nappalos lives and works as a nurse in Sacramento, California. He
 ## [1]
 
 Nappalos, SN. (2010).
-
-https://libcom.org/library/defining-practice-intermediate-level-organization-struggle
-
 ## [2]
 
 Ibid (2011).
@@ -246,51 +243,27 @@ http://eial.tau.ac.il/index.php/eial/article/view File/286/257
 ## [10]
 
 Sociedad de Resistencia de Rosario. (2014). Translated by Nappalos, SN. What is a resistence society?
-
-https://libcom.org/library/what-resistance-society
-
 ## [11]
 
 Nappalos, SN. (2010). Defining practice: the intermediate level of organization and struggle.
-
-https://libcom.org/library/defining-practice-intermediate-level-organization-struggle
-
 ## [12]
 
 You can get a sense of some of that debate, most of which never was written down, from discussing around contracts and the direct unionism pamphlet. Unfortunately the same debates and mistakes seem to repeat themselves every few years with new generations of organizers and gaps in continuity of militants who came before them. Debate on direct unionism. (2011).
-
-https://libcom.org/library/debate-direct-unionism
-
 Nappalos, SN. (2005). Lessons from a social service workers strike.
-
-https://libcom.org/blog/lessons-social-service-worker's-strike-27022014
-
 ## [14]
 
 Direct unionism: a discussion paper. (2011).
-
-https://libcom.org/library/direct-unionism-discussion-paper-09052011
-
 ## [15]
 
 Bekken, J. June 2004. Troqueros wildcat California ports.
 
 The Industrial Worker.
-
-http://www.iww.org/history/campaigns/stocktontroqueros/1
-
 ## [16]
 
 Pete, L. June 2004. Wildcats disable West Coast ports.
 
 The Industrial Worker.
-
-http://www.iww.org/history/campaigns/stocktontroqueros/2
-
 For instance see: Etrucker. Judge ends shutdown of Miami port. July 24 2004.
-
-http://www.etrucker.com/2004/07/29/judge-ends-shutdown-of-miami-port/
-
 ## [18]
 
 Some strains of syndicalism and councilism have addressed these issues differently, however that type of thought, for lack of a better term 'unitary', has been particularly weak in North America where stark divisions between political organizations and social organizations of struggle have been dominant. I left them out for that reason. For historical accounts of some of these debates between unitary and dualist ideas about organization within the International Workers Association (IWA-AIT) see Damier, V. (2012). Translated by Archibald, M. From
@@ -298,9 +271,6 @@ Some strains of syndicalism and councilism have addressed these issues different
 ## Petr Alekeyevich Kropotkin
 
 . Ed. I. I. Blauberg. (Moscow: Rosspen). Pg. 266-299.
-
-http://www.katesharpleylibrary.net/t76jzz
-
 ## [19]
 
 ## Particularly see the series of pieces on
@@ -310,17 +280,11 @@ Towards a Theory of Political Organization for our Time cited above for some of 
 Hawthorne, N. (2011). The intermediate level and trajectories of struggle.
 
 Recomposition.
-
-http://recomposition.info/2011/04/27/the-intermediate-level-and-trajectories-of-struggle/
-
 ## [21]
 
 Kahlo, A. & Zee, T. (2014). The intermediate moment part 1.
 
 Unity and Struggle.
-
-http://unityandstruggle.org/2014/06/18/the-intermediate-moment-part-one/
-
 ## [22]
 
 Nappalos, SN. (2015). A new society must be built.
@@ -328,17 +292,11 @@ Nappalos, SN. (2015). A new society must be built.
 ## Recomposition
 
 .
-
-http://recomposition.info/2015/04/23/a-new-society-must-be-built/
-
 ## [23]
 
 Swanson, A. February 24 2015. The incredible decline of American unions, in one animated map.
 
 The Washington Post.
-
-https://www.washingtonpost.com/news/wonk/wp/2015/02/24/the-incredible-decline-of-american-unions-in-one-animated-map/
-
 ## [24]
 
 The traditional line of much of the left would have unions like the IWW and projects like Solidarity Networks devoid of revolutionary politics, which are supposed to come from the political parties and organizations.
@@ -350,29 +308,17 @@ Luckily the past 5 years or so has given us some energy in this direction with I
 ## Wobblyism: Revolutionary unionism for today
 
 (2013) by the Wobblyism Working Group.
-
-http://libcom.org/library/wobblyism-revolutionary-unionism-today#footnote1\_z4ssk31
-
 ## [26]
 
 Hawthorne, N. (2012). "No politics in the union"? Come off it.
-
-https://libcom.org/blog/no-politics-union-come-it-21102012
-
 | [27] |
 |------|
 ## | |
 
 Wobblyist Working Group. (2015). Memorandum on the Bay Area food mart campaign.
-
-http://libcom.org/library/memorandum-bay-area-food-mart-campaign
-
 ## [28]
 
 Lopez Arango, E. (1929). Translated by Nappalos, SN. Political leadership or ideological orientation of the workers movement.
-
-https://libcom.org/library/political-leadership-or-ideological-orientation-workers-movement
-
 Disclaimer:
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author's.

@@ -11,7 +11,6 @@ This was not always so. There was a time when hatred was assumed to form part of
 
 Consider the following quotations:
 
-
 [*The Emperor*] *Commodus had now attained the summit of vice and infamy. Amidst the acclamations of a flattering court, he was unable to disguise, from himself, that he had deserved the contempt and hatred of every man of sense and virtue in his empire. His ferocious spirit was irritated by the consciousness of that hatred, by the envy of every kind of merit, by the just apprehension of danger, and by the habit of slaughter, which he contracted in his daily amusements.*
 
 *The honest labours of Papinian served only to inflame the hatred which Caracalla had already conceived against his father’s minister…*
@@ -25,7 +24,6 @@ Consider the following quotations:
 *The empire was afflicted by five civil wars; and the remainder of the time was not so much a state of tranquility as a suspension of arms between several hostile monarchs, who, viewing each other with an eye of fear and hatred, strove to increase their respective forces at the expense of their subjects.*
 
 *The emperor [Constantine] had now imbibed the spirit of controversy, and the angry sarcastic style of his edicts was designed to inspire his subjects with the hatred which he had conceived against the enemies of Christ.*
-
 
 What jumps out about these passages—they are all drawn from Gibbon’s Decline and Fall of the Roman Empire—is first of all, just how normal hatred was assumed to be. It was only to be expected that kings and politicians should hate their rivals. Conquered people hated their conquerors, unjust rulers were detested, emperors hated the senate, senators loathed the common people and imperial advisors and members of the emperor’s family were detested by the urban mob, which would periodically try to burn their palaces. Even more remarkably to the contemporary ear, there is no sense, in the works of ancient historians or ancient moralists, that such hatreds were in principle illegitimate. They might be. But many were entirely justified. Indeed, hatred for a cruel and unjust ruler could even be considered a civic virtue. In Medieval times feelings of ill will between prominent families, neighborhoods, and guilds were often institutionalized in relations of formal “hatred,” considered simply the inverse form of friendship; one could also be transformed into the other by appropriate rituals. In England, for instance, it was assumed that, in the ordinary course of events, the common people would detest the king, royalty in most places being seen as foreigners, there would often be public celebrations at the failure of some royal project. Hatred for men of the cloth was inveterate. (As late as 1736, Jonathan Swift wrote an essay entitled “Concerning that Universal Hatred that Prevails Against the Clergy.”) Different branches of the clergy hated one other: the schoolmen hated members of the monastic orders, the lay clergy detested the priests. According to Thomas Aquinas, even the hatred of God himself was preferable to unbelief or indifference, since it was, in its own way, a form of intense engagement with the Divine.
 

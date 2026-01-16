@@ -166,9 +166,7 @@ The references in the notes are quite useful. As are the External Links listed a
 
 ## Facilitating Meetings Effectively
 
-
 Hints for Facilitators: Handling Difficult Behaviors in Meetings
-
 
 On Robert's Rules and Parliamentary Procedure General Henry M. Robert, Robert's Rules of Order [1876]. Many editions, e.g., Robert's Rules of Order, Newly Revised. Scott, Foresman, and Company, 1970, 594 pages.
 

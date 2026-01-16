@@ -6,8 +6,7 @@ category: misc
 tags:
 - Nevada
 ---
-# Federal land policy in Nevada - Ballotpedia
----
+
 Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%2F%2Fballotpedia.org%...
 ballotpedia.org
 Federal land policy in Nevada
@@ -274,7 +273,7 @@ Source: U.S. Department of the Interior, "PILT"
 Environmental policy in the 50 states
 Click on a state below to read more about that state's
 energy policy.
-http://ballotpedia.org/Environmental_policy_in_STATE
+
 Federal land policy in Nevada - Ballotpedia   about:reader?url=https%3A%2F%2Fballotpedia.org%...
 VT
 NH

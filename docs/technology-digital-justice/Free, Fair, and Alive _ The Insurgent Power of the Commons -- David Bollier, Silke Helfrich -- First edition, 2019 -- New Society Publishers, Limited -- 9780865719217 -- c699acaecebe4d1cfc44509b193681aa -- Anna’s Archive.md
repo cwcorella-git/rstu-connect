@@ -199,9 +199,8 @@ Commoning Mushrooms: The Iriaiken Philosophy | 266
 
 Building Stronger Commons Through Relationalized Property | 273 Re-Introducing Meaning Making into Modern Law | 279
 
-
 9. State Power and Commoning | 283
-## 
+##
 ## "The State" and "The People" | 286
 
 ## Equal Under Law, Unequal in Reality | 288

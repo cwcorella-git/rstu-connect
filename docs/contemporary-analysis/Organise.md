@@ -89,5 +89,5 @@ it were. Any suggestions? |
 | wcass14 |
 | 11 months ago |
 | Can somebody please put me in contact with Samuel Lowry? He wrote this article;
-https://libcom.org/article/asturias-revolt-1934-sam-lowry|
+
 ## | Please reach me at[email protected] |

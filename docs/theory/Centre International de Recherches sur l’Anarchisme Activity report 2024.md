@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/centre-international-de-recherches-sur-lanarchisme-activity-report-2024
-
 **Tags:** Centre International de Recherches sur l'Anarchisme, anarchism
 
 An update on the activities of Centre International de Recherches sur l'Anarchisme/International Research Centre on Anarchism (CIRA), an archive of anarchist material in Lausanne, Switzerland that was founded in 1957. Originally appeared in Bulletin du CIRA81.

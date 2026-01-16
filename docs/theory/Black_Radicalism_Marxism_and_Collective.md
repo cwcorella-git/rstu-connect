@@ -22,7 +22,6 @@ Published by The Johns Hopkins University Press DOI: 10.1353/aq.2013.0007
 
 ## For additional information about this article
 
-
 ## **Black Radicalism, Marxism, and Collective Memory: An Interview with Robin D. G. Kelley**
 
 ## *Jordan T. Camp*

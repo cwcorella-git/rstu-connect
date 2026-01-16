@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/federica-montseny-and-spanish-anarchist-feminism-shirley-f-fredericks
-
 **Tags:** Shirley F. Fredericks, Federica Montseny, feminism, anarchism, anarcho-syndicalism,
 
 Confederación Nacional del Trabajo (CNT), Mujeres Libres

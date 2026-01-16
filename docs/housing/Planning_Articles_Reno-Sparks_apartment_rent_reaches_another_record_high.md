@@ -10,7 +10,7 @@ tags:
 
 # Reno-Sparks apartment rent reaches another record high.pdf
 
-![Figure from page 1](images/page_001_content/img-000.png) Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-... Sparks neighborhoods posted higher rents but industry watchers expect the uble-digit increases.
+Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-... Sparks neighborhoods posted higher rents but industry watchers expect the uble-digit increases.
                    Reno Gazette Journal
          July 29, 2022, 7:00 a.m. PT
          Reno-Sparks’ apartment sector closed the ﬁrst half of the year with record numbers yet
@@ -118,7 +118,7 @@ This document was converted from **05_Architecture_Urban_Planning/Articles/Reno-
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high.md" 
+bash claude code "Collections/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high.md"
 **Library Location:** 05_Architecture_Urban_Planning is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

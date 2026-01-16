@@ -34,7 +34,6 @@ Waqas Tufail School of Social Sciences Leeds Beckett University Leeds, UK
 ISSN 2946-3912 ISSN 2946-3920 (electronic)
 Palgrave Studies in Crime, Media and Culture
 ISBN 978-3-031-37878-2 ISBN 978-3-031-37879-9 (e Book)
-https://doi.org/10.1007/978-3-031-37879-9
 
 © The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer International Publishing AG, part of Springer Nature 2023
 

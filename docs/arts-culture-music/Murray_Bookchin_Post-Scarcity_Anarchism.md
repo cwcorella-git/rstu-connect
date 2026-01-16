@@ -92,7 +92,7 @@ I. Anarchism—Addresses, essays, lectures. 2. Radicalism— Addresses, essays, 
 
 ### **Contents**
 
-| 
+|
 Introduction to the First Edition
  | 11 |
 |---------------------------------------------------------------------|-----|
@@ -104,7 +104,6 @@ Introduction to the First Edition
 
  | 105 |
 | The Forms of Freedom
-
 
 4 | 163 |
 | Listen, Marxist!

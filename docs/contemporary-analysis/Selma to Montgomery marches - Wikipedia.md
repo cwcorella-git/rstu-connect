@@ -39,9 +39,6 @@ obstructed from
 registering to vote
   |
 ## | |
-
-2 of 45
-
 | • Failed voter |
 |----------------|
 | registration |

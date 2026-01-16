@@ -920,7 +920,7 @@ to
 GDP,
 U. S. | 117 |
 | 6.6 | Labor
-share
+
 of
 income
 in
@@ -1536,7 +1536,7 @@ of
 manufactured
 goods
 and
-share
+
 of
 export
 of
@@ -3489,7 +3489,7 @@ The profit curve has a positive slope of p/ k below full capacity and is vertica
 
 The realization curve, which shows the equilibrium of saving and investment, is given by the following equations. Let us suppose that workers do not save, and that a constant fraction sr is saved from the net profits. The net saving normalized by the fixed capital gs is given by the following equation:
 
-Saving function: 
+Saving function:
 $$g^s = s_r r - b - x$$
 ## (3)
 
@@ -3497,7 +3497,7 @@ where b is the budget deficit and x the net export, both normalized by the fixed
 
 We suppose that the current rate of profit and the capacity utilization influence investment. We denote the investment propensity to the rate of profit with ir , and that to the utilization rate with iu. The ratio of investment to the fixed capital gi is given by the following equation:
 
-Investment function: 
+Investment function:
 $$g^i = i_o + i_r r + i_u u$$
 ## (4)
 
@@ -5954,7 +5954,7 @@ Figure 14.5 conceptualizes the changes in the spatial relationships of these thr
 - Shift of production from export-oriented to domestic market-oriented type •
 - Capital-to-Potential Market •
 
-- 
+-
 
 *Figure 14.5* Transition of spatial relationships of capital, labor, and markets: conceptual chart (source: author).
 

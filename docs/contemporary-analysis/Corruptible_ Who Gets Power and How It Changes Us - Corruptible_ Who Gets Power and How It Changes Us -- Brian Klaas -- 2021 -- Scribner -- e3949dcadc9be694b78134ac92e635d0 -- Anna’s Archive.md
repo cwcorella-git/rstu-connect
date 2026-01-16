@@ -2704,7 +2704,6 @@ frequently groomed: Ibid.
 
 A note about the index: The pages referenced in this index refer to the page numbers in the print edition. Clicking on a page number will take you to the ebook location that corresponds to the beginning of that page in the print edition. For a comprehensive list of locations of any word or phrase, use your reading system's search function.
 
-
 Abhisit Vejjajiva, 129–34
 Acton, John Dalberg-Acton, Baron, 128, 140, 148, 154, 157, 163, 245, 246
 addiction, and social status, 166–68
@@ -2734,7 +2733,7 @@ audits, of decision-making processes, 195–99
 authoritarian learning, 139–40
 Babiak, Paul, 96
 baby-faced appearance, and threat perception, 81–82
-## 
+##
 
 Ban, Hajnal, 78–79
 Batavia (ship), 1–4, 17, 29
@@ -2781,7 +2780,7 @@ Bueno de Mesquita, Bruno, 120
 Bühren, Christoph, 193–94
 Bundy, Ted, 94, 96
 Bush, George W., 122, 125, 211
-## 
+##
 
 businesses. See also CEOs
     appearance ("white guy in a tie") and credibility in, 61–63
@@ -2827,7 +2826,7 @@ Cincinnatus, Lucius Quinctius, 243–45
 Citizen Assembly model, 189–90
 civil service
     corruption of, as job attraction for corruptible people, 15–16
-## 
+##
 
 employee rotation in, 193–94
     status changes and health of workers in, 169–70
@@ -2874,7 +2873,7 @@ corruption
     aphorisms about power and, 128
     bad systems and leader's use of, 15–16
     behavior changes and beliefs about, 114
-## 
+##
 
 dictators' innovative approaches to, 139-40
     gender discrimination and, 74
@@ -2920,7 +2919,7 @@ dark triad traits
     elected officials with, 100
     management candidates and, 96–97
     professional positions with, 99, 102
-## 
+##
 
 psychopaths and, 90–91, 96, 101
 Darwin, Charles, 173, 175
@@ -2966,7 +2965,7 @@ elections
 emotional contagion, 92–93
 empathy, 92–94
 environmental circumscription, 34
-## 
+##
 
 ethnic minorities
     percentage as CEOs, 63–65
@@ -3011,7 +3010,7 @@ gender discrimination
     grant funding and, 105
     job application evaluations and, 74
     physical size in perceptions of power and, 75-76
-## 
+##
 
 genetics
     aging rate and, 173–74
@@ -3057,7 +3056,7 @@ hierarchy
     hunter-gatherer bands and, 27–29, 33
     !Kung rituals for controlling, 23–24
     leader's power over shipwrecked sailors and, 3–4, 6, 17
-## 
+##
 
 limits of at societies and need for, 36
     military use of ranged weapons and need for, 31–33
@@ -3102,7 +3101,7 @@ job applications
     diversity of selection panels in, 83
     gender discrimination in, 74
     impact of black-sounding names in, 82
-## 
+##
 
 job interviews, and psychopaths, 95
 journalism, corruption coverage by, 233–36
@@ -3147,7 +3146,7 @@ leaders. See also CEOs; political leaders
     social distance used by, 216
     spatial distance used by, 217–18
     strength in perceptions of, 75–76, 77
-## 
+##
 
 torture memo as example of abstraction in work of, 210–13, 215
 leader selection
@@ -3193,7 +3192,7 @@ Markopolos, Harry, 147
 Marmot, Sir Michael, 168–70, 171–72, 175, 176–77
 Marshall Project, 52
 Mc Clelland, David, 49
-## 
+##
 
 Mc Cormack, Win, 152
 Mc Fife, Martin, 56–58, 105
@@ -3239,7 +3238,7 @@ murders. See also homicide rates
 Mussolini, Benito, 198–99
 myths, about dictators, 140–41
 Nader, Michael, 165–68, 179
-## 
+##
 
 narcissism. See also dark triad traits
     as motivation to seek power, 219
@@ -3284,7 +3283,7 @@ police departments, 49–55
     behavior changes and beliefs about, 114
     convicted repeat oenders as ocers in, 181–87
     ethnic composition of, 55
-## 
+##
 
 ex-soldiers serving in, 52
     homicide rates for civilians in, 52
@@ -3331,7 +3330,7 @@ power
     as a neutral tool in civilization, 36
     obsession with leaders' appearance of, 63
     physical size and perceptions of, 75–77
-## 
+##
 
 power paradox for people holding, 157–58
     prison experiment on attraction of, 11–14
@@ -3378,7 +3377,7 @@ psychopaths, 85–103
     school maintenance man's rise to leadership as example of, 85–89
     successful blending in by, 94–95
     supercial charm of, 93, 94, 95, 100, 102
-## 
+##
 
 ultimatum game studies of, 97–99
 psychopathy, in dark triad, 90
@@ -3424,7 +3423,7 @@ religion and religious movements
     Rajneesh movement and, 149–54, 163
     Spanish Inquisition and, 127–28
 replication crisis, 68, 158
-## 
+##
 
 research
     controlled conditions issue in, 163
@@ -3470,7 +3469,7 @@ shadow boards of directors, 190
 sharing
     chimpanzee experiment on, 22
     lucky-unlucky status of children and, 21–22
-## 
+##
 
 power and level of, 160–61
 Sheela, Ma Anand, 149–54, 163
@@ -3517,7 +3516,7 @@ status
     aging rate and, 173–75, 176, 177
     changes over time in, 70–71
     drug use experiment and, 165–68
-## 
+##
 
 health and level of, 169–70, 177, 178
     height as predictor of, 77–78
@@ -3563,7 +3562,7 @@ Tomasello, Michael, 21–22
 torture, memo on use of, 210–13, 215
 triage, in medical care, 142–45
 trial by ordeal, 221–23
-## 
+##
 
 Trope, Yaacov, 214–15
 Tung, Jenny, 172–73, 174, 176, 178–79
@@ -3608,7 +3607,7 @@ Western Kentucky University, 13–14
 white-collar crime, 218, 232–33
 "white guy in a tie" approach, for business credibility, 61–63
 Whitehall II Study, 169–70, 175, 176–77
-## 
+##
 
 Williams, George Washington, 120
 women
@@ -3632,7 +3631,7 @@ Yap, Andy, 68
 Yong, Ed, 92
 Yoo, John, 210–13, 215
 Zimbardo, Philip, 11–13, 155
-## 
+##
 #### We hope you enjoyed reading this Simon & Schuster ebook.
 
 Get a FREE ebook when you join our mailing list. Plus, get updates on new releases, deals, recommended reads, and more from Simon & Schuster. Click below to sign up and see terms and conditions.

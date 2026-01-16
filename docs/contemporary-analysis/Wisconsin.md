@@ -371,9 +371,9 @@ Wisconsin [Municipalities](https://en.wikipedia.org/wiki/Administrative_division
 
 The United States Census Bureau estimates that the population of Wisconsin was 5,822,434 on July 1, 2019, a 2.4% increase since the 2010 United States census. [106] This includes a natural increase since the last census of 150,659 people (i.e., 614,771 births minus 464,112 deaths) and a decrease due to net migration of 12,755 people. Immigration resulted in a net increase of 59,251 people, and migration from within the U. S. resulted in a net decrease of 72,006 people. [107]
 
-According to HUD's 2022 Annual Homeless Assessment Report, there were an estimated 4,775 homeless people in Wisconsin. $\frac{[108][109]}{}$ 
+According to HUD's 2022 Annual Homeless Assessment Report, there were an estimated 4,775 homeless people in Wisconsin. $\frac{[108][109]}{}$
 
-Ethnic composition as of the $\underline{2020 \text{ census}}$ 
+Ethnic composition as of the $\underline{2020 \text{ census}}$
 
 | Race and
 Ethnicity [110] | | Alone | | Total |

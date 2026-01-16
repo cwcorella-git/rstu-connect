@@ -7,7 +7,7 @@ tags:
   - Graeber
 ---
 
-> 
+>
 Fritz Saxl used to say that Warburg, in each of his articles, would write an introduction to a science that would never see the light of day. (p. 38)
 
 [E]very technique for remembering is also a technique of the imagination. (p. 199)

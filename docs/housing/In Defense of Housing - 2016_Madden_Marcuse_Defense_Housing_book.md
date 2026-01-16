@@ -1610,7 +1610,6 @@ Addressing residential injustice and inequality will demand state action as well
 
 ## Index
 
-
 abandoned buildings, 173–5
  tax on, 202
 Abrams, Charles, 167
@@ -1642,9 +1641,8 @@ alienation, 55
  and precarity, 56n, 59
  and private property, 56, 83
  and real estate, 82
-## 
+##
 as violence, 60
-
 
 See also displacement; eviction; oppression; racism; segregation
 Alliance of Housing Movements, 112
@@ -1685,7 +1683,7 @@ capitalism:
  and gender, 99
  and housing, 6, 10
  and hyper-commodification, 28
-## 
+##
 
 and industrialization, 23
  and policy, 120
@@ -1726,7 +1724,7 @@ crisis:
  idea of, 9–10
  See also housing crisis
 Cuevas, Ofelia O., 102
-## 
+##
 
 Davis, Benjamin, 163
 Dawnay Day (financial company), 182–3
@@ -1767,7 +1765,7 @@ Dubai, 90
 efficiency, 48–9
  and reform, 199–200
 elites:
-## 
+##
 
 conflicts between, 120
  and dignity of housing, 74
@@ -1808,7 +1806,7 @@ financialization, 8, 31–4
  and mortgage, 32
  and real estate, 33–4
 financing, 28
-## 
+##
 
 and urban renewal, 131
  See also mortgage
@@ -1849,7 +1847,7 @@ gentrification, 16, 42–5
 George, Henry, 151
 Gilman, Charlotte Perkins, 99, 113
 Ginzburg, Moisei, 114
-## 
+##
 
 Giuliani, Rudolph, 173, 180
 Glaeser, Edward, 46
@@ -1890,7 +1888,7 @@ home:
  and racism, 102
  as social necessity, 58
  universal access to, 113
-## 
+##
 
 and work, 20–1, 22n
  See also domicide; homeownership; housing; public housing
@@ -1931,7 +1929,7 @@ housing:
  cooperative, 115–6
  cost, 2, 40, 47
  defense of, 11–2, 187–9
-## 
+##
 
 destruction of, negates resistance, 91–2
  as determinant of access to resources, 89
@@ -1972,7 +1970,7 @@ housing crisis, 1–4
  and real estate, 179
  and right to housing, 193
  solution to, 52
-## 
+##
 
 and transformative demands, 200
  understanding of, 4
@@ -2013,7 +2011,7 @@ industrialization:
  deindustrialization, 173
 industry, wartime, 128
 inequality, 27
-## 
+##
 
 and affordable housing, 216
  and alienation, 59
@@ -2054,7 +2052,7 @@ Koch, Ed, 173
 Krupp, Alfred, 89
 labor See work
 labor camps, 89–91
-## 
+##
 
 and luxury buildings, 90
 Laing, R. D., 68
@@ -2095,7 +2093,7 @@ luxury buildings, 36–9
  and taxes, 38, 202
  and wealthy, 38
 Madison Capital, 42
-## 
+##
 
 Madison, James, 74
 Mandel, Ernest, 83
@@ -2136,7 +2134,7 @@ mortgage:
  and wealthy, 141
 Moses, Robert, 165, 167
 Movement for Justice in El Barrio (MJB), 181–3
-## 
+##
 
 movements, 111–7, 146–50
  Alliance of Housing Movements, 112
@@ -2177,7 +2175,7 @@ neighbors, 79
 neoliberalism, 172–87
  and abandonment, 173–5
  and gentrification, 173, 176–7
-## 
+##
 
 and rent control, 184–5
  war against homeless support groups, 180
@@ -2218,7 +2216,7 @@ New York:
  South Bronx, 53–4
  Tenant League, 152–3
  tenant movement, 153–64
-## 
+##
 
 Tenant Protection Unit, 16
  Tompkins Square Riot of 1988, 178–9
@@ -2259,7 +2257,7 @@ Paris:
  and Haussmann, 91
 paternalism, 128–9
 patriotism, 129
-## 
+##
 
 Percy, Charles, 75–6
 Pierce, Melusina Fay, 113
@@ -2300,7 +2298,7 @@ political struggle, 85–8, 91–4
  anti-eviction activism, 109–11
  debt strike, 162
  democratization, 211–2
-## 
+##
 
 Draft Riots of 1863, 122
  and housing, 117–8
@@ -2341,7 +2339,7 @@ private enterprise, 127–30
 private equity, 33
 private property:
  and alienation, 56, 83
-## 
+##
 
 and homeownership, 79–80
  and inequality, 81
@@ -2382,7 +2380,7 @@ public housing, 126–30
  alternatives are not a replacement for, 210–1
  beginning of, 126–9
  build one, demolish one, 130
-## 
+##
 
 as conflict resolution, 85
  and deregulation, 46
@@ -2423,7 +2421,7 @@ real estate:
  and alienation, 82
  blamelessness of, 51
  controls rebellion, 94
-## 
+##
 
 and deindustrialization, 173
  and fear of tenant movement, 158
@@ -2464,7 +2462,7 @@ rent strike, 106–9, 111, 154–7, 162
  and municipal housing, 116
  in New York, 154–6, 162, 169–70, 175, 186
 renters:
-## 
+##
 
 exploitation of, 41–2
  harassment of, 43
@@ -2505,7 +2503,7 @@ Skidmore, Thomas, 151
 slum clearance, 130–4, 191
  and business interests, 130–3
  and displacement, 166
-## 
+##
 
 and tenant movement, 166–7
 slums:
@@ -2546,7 +2544,7 @@ state:
 status quo, 119–21, 123–4, 126, 143
  and right to housing, 195
  and transformative demands, 199
-## 
+##
 
 Stern, Michael, 36
 stigmatization, 73
@@ -2587,7 +2585,7 @@ transformative demands, 198–200
 transgender, 100
 Umoja Village, 110
 underperformance, 43–4
-## 
+##
 
 United Nations, 3, 93, 192–3
 United States Housing Authority (USHA), 129
@@ -2628,7 +2626,7 @@ wealthy:
  and luxury buildings, 38
  and public subsidies, 141
  and riots in New York, 122
-## 
+##
 
 and taxes, 141
  See also elites; luxury buildings

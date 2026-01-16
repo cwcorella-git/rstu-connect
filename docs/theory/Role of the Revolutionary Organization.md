@@ -61,7 +61,4 @@ The revolutionary organization is also a political home for revolutionaries. A p
 ## 3 of 4 10/24/25, 10:25 AM
 
 our organizations. This responsibility for maintaining an organizational culture of accountability is that of the entire membership. The membership is responsible for and accountable for the memberships' actions. To do this the membership defines clear guidelines to pro-actively solve issues before they happen.
-
-http://blackrosefed.org/role-of-the-revolutionary-organization/
-
 ## 4 of 4 10/24/25, 10:25 AM

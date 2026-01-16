@@ -20,7 +20,7 @@ tags:
 
 ## First Published: 1928
 
-Printed & Published by: **Navajivan Publishing House** 
+Printed & Published by: **Navajivan Publishing House**
 
 ## Ahmedabad 380 014 (INDIA)
 

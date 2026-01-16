@@ -8,9 +8,6 @@ category: "arts-culture-music"
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/coordenacao-anarquista-brasileira-analyse-brazils-political-earthquake
-
 **Tags:** general strikes, Brazil, Freedom Press, Coordinación Anarquista Brasileña, Brazil protests 2017
 
 In the following essay members of Coordenação Anarquista Brasileira, a member group of the Anarkismo network, analyse the series of mass protests, riots and rebellions which have rocked the State and its elites in recent months.

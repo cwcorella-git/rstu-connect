@@ -255,7 +255,7 @@ directly and jump up to the broken ledges to her If Alice is feeling sneaky, she
 
 can smother the enemies in debris from afar, eliminating them and skipping the fight, freeing her up to explore a hidden area.
 
-- 
+-
 
 ## DIFFICULTY LEVELS & GAMEPLAY EXPERIENCE
 
@@ -748,7 +748,7 @@ The Fortune Teller's words linger.
 
 want to open, but they still cannot see..." "I know. But you can never see the way. You are lost in the darkness. Your eyes
 
-**(a)** 
+**(a)**
 
 ## 1
 
@@ -1662,7 +1662,7 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.2 ANGER
 
 ## ![](_page_42_Picture_5.jpeg)
 
-Inferno Ability States and Attack Concepts to be Confirmed $\{TBC\}$ 
+Inferno Ability States and Attack Concepts to be Confirmed $\{TBC\}$
 
 ## ![](_page_42_Picture_7.jpeg)
 

@@ -160,9 +160,6 @@ For anyone who cares our intro on unions, which explains many of our positions, 
 ## In reply to Welcomebylibcom.org
 
 Got sent this link by an AF comrade. No idea if the Exeter UCU delegates are SWP or not. Interesting to see another perspective that is just as, if not more, damning of the leadership and officials than the one above!
-
-https://exeterucu.wordpress.com/2018/05/30/exeter-ucu-delegation-response-to-events-at-ucu-congress-30th-may-2018/
-
 ## Joseph Kay
 
 7 years 4 months ago

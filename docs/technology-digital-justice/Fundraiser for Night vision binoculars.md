@@ -17,9 +17,6 @@ tags:
 We recently received a request for a night vision device from our anarchist internationalist comrade Lev, who is currently serving as a medic.
 
 In her own words, you can learn about her combat path and why this equipment is crucial and needed for advantage and survival.
-
-https://www.solidaritycollectives.org/en/campaign/fundraiser-for-night-vision-binoculars/
-
 "My nickname is Lev. I work with the International Legion in Ukraine. I am a platoon medic.
 
 I am an anarchist and have been an internationalist fighter for about ten years. I worked in north-east Syria with the women's liberation movement against the Islamic states' violent oppression towards the local people and the revolution there.
@@ -45,5 +42,3 @@ Support us in equipping Lev's medic team with night-time operational capability 
 ## Jar:https://send.monobank.ua/jar/6Sw CaCAf86
 
 ## Card: 4441 1111 2493 2215
-
-https://www.solidaritycollectives.org/en/campaign/fundraiser-for-night-vision-binoculars/

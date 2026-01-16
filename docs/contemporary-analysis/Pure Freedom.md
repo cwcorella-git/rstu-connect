@@ -1289,7 +1289,6 @@ That's why all anarchist social concepts have always aimed to be built on small,
 
 I've already pointed out that these "small units" can come into being for geographic, material, technical, ideological, ethical, or aesthetic reasons — or simply from mutual sympathy or practical rationality. Multiple such units can exist side by side — or together — in the same place and time. For example, I might simultaneously belong:
 
-
 as a resident, to the council of my neighborhood;
  as a father, to a group running a free school;
  as a connoisseur, to an association for "Anarchy and Luxury";
@@ -1300,7 +1299,7 @@ as a resident, to the council of my neighborhood;
  as a cosmopolitan, to a global association of Esperantists;
  as a frequent traveler, to a federation organizing railway timetables — and
 so on …
-## 
+##
 "But, but …" critics might interject, "You can do all of that already today!" And: "Isn't that a bit too much work and responsibility all at once?" Or: "How many people do you honestly think would be so committed and voluntarily take interest in community work?!"
 
 Let's try to answer these objections one at a time.

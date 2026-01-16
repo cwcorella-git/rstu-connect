@@ -395,7 +395,7 @@ Sorabji, R., 2005, The Philosophy of the Commentators 200–600 AD. A Sourcebook
 
 Thanks to Christopher Shields for commenting on a draft of this entry.
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by [Andrea Falcon](http://www.andreafalcon.net/) 
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by [Andrea Falcon](http://www.andreafalcon.net/)
 
 [Open access to the SEP is made possible by a world-wide funding initiative.](https://plato.stanford.edu/fundraising/) [Please Read How You Can Help Support the Growth and Development of the](https://plato.stanford.edu/fundraising/) [Encyclopedia](https://plato.stanford.edu/fundraising/)
 

@@ -50,9 +50,6 @@ Our campaign had several advantages.
 We were trying to stop a fossil fuel project in advance. It is generally easier to prevent new infrastructure than to shut down, or even block the expansion of, an existing facility. Oakland residents were not already employed in the coal industry, nor had it sponsored our Little League teams.
 
 There was a clear path to our goal. The City Council had the power to prevent coal from being stored at the terminal on City-owned property based on health and safety grounds, as spelled out in the Development Agreement. We just had to convince them there was "substantial evidence" of "a condition substantially dangerous to …health or safety" of "occupants or users of the Project, [or] adjacent neighbors." (
-
-http://www2.oaklandnet.com/oakca1/groups/ceda/documents/report/oak055211.pdf
-
 ## )
 
 Coal already had a terrible reputation. A widely recognized imperative to close existing coal-fired plants, including a national campaign by the Sierra Club, provided context for our local struggle. The local dangers of coal dust escaping from railroad cars and the exacerbating effects of burning coal on climate disruption were intuitively obvious to people we spoke with. Of course, we needed to amass scientific data to justify the ordinance banning coal, but in our community work we were building on a pre-existing narrative.
@@ -84,9 +81,6 @@ Occupy Oakland took over the plaza. ( |
 | His initial assertion that the Oakland Bulk and Oversized Terminal (OBOT) would not involve
 coal is documented in his own newsletter and in conversation reported by Council Member
 Dan Kalb. (See quote from newsletter in |
-
-http://ww2.kqed.org/news/2015/07/06/oakland-mayor-port-developer-in-dispute-over-plan-to-ship-coal/
-
 ## and Kalb's report in http://www.insidebayarea.com/breaking-news/ci\_28499049/oakland-city-council-have-publichearing-exporting-coal
 
 ## .)
@@ -94,19 +88,10 @@ http://ww2.kqed.org/news/2015/07/06/oakland-mayor-port-developer-in-dispute-over
 Initially the City signed a development agreement for the Oakland Army Base (OAB) with Prologis CCIG, a joint venture. On February 16, 2016, the scope of CCIG and its principal, Tagami, was reduced. The City now has lease agreements with several different tenants, for projects that include a trucker facility run by OMSS (Oakland Maritime Support Services) and two recycling firms, CASS (Custom Alloy Scrap Sales) and CWS (California Waste Solutions), as well as the marine terminal CCIG is developing.
 
 Negotiations between Tagami and Utah coal interests became public in April, 2015, through a Utah newspaper article. (
-
-http://www.richfieldreaper.com/news/local/article\_e13121f0-dd67-11e4-b956-3ff480cc1929.html
-
 ) Around this time, the public learned that Terminal Logistics Solutions (TLS), headed by Jerry Bridges and Omar Benjamin, would be the operators of the terminal. TLS is located in the Rotunda Building where Tagami also has his office. Bridges and Benjamin, who are both Black, are former executive directors of the Port of Oakland. Their leadership roles gave TLS the appearance of a home-grown enterprise run by people of color. They have used their credibility in the community to attract support for the coal project, claiming that the facility would generate jobs, and that the community's health and safety would be protected because both OBOT and the rail cars would be completely enclosed. This local front for the project is deceptive: evidence suggests that the majority voting share in TLS is controlled by Bowie Resource Partners, the coal company behind the proposal to ship coal through OBOT, whose mines are non-union. (
-
-http://nocoalinoakland.info/who-owns-tls/
-
 ## )
 
 In 2013 Bowie proposed shipping coal through the Port of Oakland, which rejected Bowie's proposal in early 2014. (
-
-http://earthjustice.org/news/press/2014/port-of-oakland-rejects-proposals-to-construct-new-coal-export-terminal
-
 ) Bowie soon looked for an alternative way to get coal from mines it owns in Utah to overseas markets to compensate for plummeting domestic demand. When the former army base was decommissioned in 1999, part of it was ceded to the Port of Oakland, part to the City of Oakland. Tagami had already obtained general approval to develop a bulk commodities terminal on one corner of the City-owned waterfront and, at some point in 2014, it appears that Tagami decided to do business with Bowie rather than keep his promise not to ship coal through the new facility. The plans were hatched in secret, but when news of Tagami's betrayal of the public trust broke in April 2015, Tagami and his collaborators at TLS suddenly found themselves in hot water.
 
 Under the guise of a local minority business, TLS had lunch with the staff of West Oakland Environmental Indicators Project (WOEIP) and offered them twelve cents per ton of coal shipped through Oakland if they would support the proposal. (
@@ -120,15 +105,9 @@ http://www.eastbayexpress.com/Seven Days/archives/2015/09/21/buying-support-for-
 ## Faith and labor
 
 TLS also met with a number of Oakland pastors and offered them financial support linked to coal. This divided the clergy; a number of them became spokespeople on behalf of TLS. While some clergy repeated the claims of TLS that OBOT would provide jobs, others, outraged and disappointed, joined the opposition to coal. (
-
-http://www.eastbayexpress.com/oakland/coal-money-divides-oaklands-churches/Content?oid=4673334
-
 ## )
 
 The situation within organized labor was complicated. Years of negotiation went into the Project Labor Agreement for the OAB site, which may account for some of the concern within organized labor that opposition to coal would unravel a great deal of work. In August, 2015, the Teamsters Joint Council No. 7 sent a letter to the City Council outlining their concerns that banning coal would jeopardize the entire project. (
-
-https://d3n8a8pro7vhmx.cloudfront.net/350bayarea/pages/2409/attachments/original/1439593522/Teamsters\_letter-coal.pdf?1439593522
-
 ## )
 
 The Laborers sent members to the September 21, 2015 City Council hearing to support the speakers in favor of using OBOT for coal. Although Building Trades unions did not officially support or oppose the plans, some opposed the resolution against coal passed by the Labor Council. They may have been concerned that the terminal would not be constructed without a commitment to coal, which would deprive their membership of potential jobs.
@@ -164,9 +143,6 @@ The SC provided many resources, including the organizing work of the Bay Area ch
 The SC and WOEIP staff in NCIO are also members of the Bay Area Coal Exports Group (BACEG). Other members of BACEG are Earthjustice, CBE, San Francisco Baykeepers, and Asian Pacific Environmental Network (APEN). BACEG predated the Oakland coal controversy. It is also concerned about coal in Richmond (a relatively small amount is shipped out of a private terminal there, Levin-Richmond Terminal, and is transported through the city in open rail cars) and in Stockton. Through the SC's national campaign, Beyond Coal, they are also connected with efforts in the Northwest and elsewhere.
 
 BACEG's role in the coal campaign included legal action and organizing expert testimony. Four organizations within BACEG (SC, APEN, CBE and Baykeepers, represented by Earthjustice and SC attorneys) sued the City, asserting that shipping coal required a new Environmental Impact Report. (
-
-http://content.sierraclub.org/environmentallaw/sites/content.sierraclub.org.environmentallaw/files/2015-1002%20Petition%20for%20Writ%20of%20Mandate\_0.pdf
-
 ) (The suit was dismissed without prejudice, which meant it can be refiled should the developer later apply for permits to store coal at OBOT and the City fail to conduct an environmental quality review.) BACEG mobilized expert speakers to provide testimony about the dangers of coal to the council (as well as oil, which was briefly considered by the City Council) and they drafted a proposed ordinance.
 
 NCIO met much more frequently than BACEG, and was focused solely on the Oakland campaign. BACEG consists of non-profit organizations with paid staff, while NCIO, with the exceptions of the overlapping members, is composed of unpaid activists, mostly from Oakland. The relationships between NCIO, SC and BACEG included cooperation and complementarity, and also areas of conflict. NCIO grassroots activists wanted to be represented in BACEG's meetings, but were not included. Multiple centers of leadership led to some unnecessary duplication of effort and became particularly problematic when there were differences about strategic direction (for example, relationships with Utah activists, when and how to pressure Governor Jerry Brown, whether to oppose a proposed review of evidence by an environmental consulting firm). At such times, tension over who was in charge of the campaign, along with poor communication, exacerbated the underlying political differences.
@@ -188,9 +164,6 @@ https://www.scribd.com/document/281846981/ALC-Revised-Resolution OnCoal Exports-
 ## .)
 
 In the wake of the decision to oppose coal, the Alameda Labor Council has formed a Climate and Environmental Justice Caucus. (
-
-https://ecology.iww.org/node/1699
-
 ). The coal campaign is proud of its role in catalyzing environmental activism by local labor forces.
 
 ## Faith
@@ -206,9 +179,6 @@ When she learned about his outreach to clergy, an NCIO activist introduced this 
 Their efforts culminated with three events on February 16. The first was a press conference which generated a widely circulated photograph of many faith leaders and others active in religious communities standing in opposition to coal.
 
 Speakers at the press conference, which was well reported, included representatives of many denominations: Baptist, Presbyterian, Episcopal, Jewish, and United Church of Christ, with support from others including Catholic, Islamic, interfaith, and Native American groups. (
-
-http://postnewsgroup.com/blog/2016/02/19/clergy-warn-dangers-coal/
-
 ) Following the press conference there was a prayer vigil organized by AICAN. Meanwhile, a number of clergy went into the City Council meeting and spoke together during Open Forum to express the significant opposition to coal among the many faith traditions in Oakland.
 
 ## Business
@@ -228,21 +198,12 @@ The success of our outreach efforts was apparent in a February, 2016 poll commis
 ## | | | | |
 
 ) A larger but unscientific poll was conducted by State Senator Loni Hancock in support of her legislative efforts against coal. She invited people to email responses to a series of questions, and 92% of the respondents opposed coal. (
-
-http://nocoalinoakland.info/senator-loni-hancock-92-of-constituents-oppose-oakland-coal-export-terminal/
-
 ## )
 
 ## Elected officials and community leaders
 
 NCIO also reached out to elected officials in nearby jurisdictions, and some of them reached out to us. Eleven East Bay Area mayors signed a letter to the Oakland City Council (
-
-http://nocoalinoakland.info/wp-content/uploads/2016/04/Mayors-Letter-on-Coal.pdf
-
 ), 25 officials signed our letter to the Mayor and City Council, and seven spoke at the June 27, 2016 council meeting preceding the vote. (
-
-http://nocoalinoakland.info/11-east-bay-mayors-condemn-oakland-coal-plan/
-
 ## )
 
 Because of federal pre-emption of rail traffic decisions, communities have no control over the nature of goods shipped by train through their neighborhoods. If the Oakland City Council blocked coal at the terminal, there would be no risk of coal transport through their communities, so our neighbors strongly supported our efforts.
@@ -262,13 +223,7 @@ Parents, teachers and mentors helped us reach young people, whose testimony at t
 Health professionals were natural allies in the campaign against coal, and the California Nurses Association played a prominent role in our labor organizing. Doctors and nurses organized 200 colleagues and several major associations (representing over 25,000 members) to sign letters of opposition to coal.
 
 A vital role was played by public health professionals who testified at hearings and submitted written evidence. (
-
-http://nocoalinoakland.info/health-care-leaders-speak-out-against-coal/
-
 ) Most impressively, nine prominent public health professionals, working independently without remuneration from the City, produced a report for the June 27, 2016 hearing, endorsed by even more of their colleagues, documenting the health and safety risks of shipping coal. (
-
-http://nocoalinoakland.info/public-health-experts-expose-coal-hazard-protection-fallacies/
-
 ## )
 
 #### Council members
@@ -278,9 +233,6 @@ An important part of our strategy was to identify the positions of each of the c
 ## Tactics
 
 Gene Sharp, who has written extensively on this subject, has identified 198 methods of nonviolent action, including 54 forms of "nonviolent protest and persuasion." (
-
-http://www.mapm.org/documents/198\_nonviolent\_methods\_2007.pdf
-
 ) The No Coal in Oakland campaign used at least 22 of these 54 methods.
 
 ## Petitions
@@ -298,9 +250,6 @@ https://docs.google.com/document/d/18PvxxHL3k3Ij SpP4QKgp YjAgGVMg8r2geEBnwb FxQ
 The petition indicated the extent of popular opposition to coal, while the letter to the Mayor identified important organizations and public figures supporting a ban. Both were expected to have impact on the council members. These documents were delivered during council hearings, but as the lists continued to grow it is not clear that the final versions ever did reach them.
 
 A third document was a petition to be signed by West Oakland residents only. With 532 signatures, it was delivered on June 27, 2016, as a reflection of the sentiment in the community that would be most impacted by the potential coal shipments. This petition could have had many more signatures if we had started using it when we first began canvassing in West Oakland, as many West Oakland residents signed our city-wide petition. (
-
-https://d3n8a8pro7vhmx.cloudfront.net/350bayarea/pages/2409/attachments/original/1453319488/West\_Oakland\_Sign-on\_Letter.pdf?1453319488
-
 ## )
 
 #### Outreach flyers
@@ -314,9 +263,6 @@ https://d3n8a8pro7vhmx.cloudfront.net/350bayarea/pages/2409/attachments/original
 ## )
 
 We had a basic handout that was frequently updated to announce specific events—council meetings, rallies and community activities. This flyer provided some background information, encouraged people to show up, and indicated how to connect with the campaign. (One example:
-
-http://www.sunflower-alliance.org/wp-content/uploads/2016/02/Revised-Flyer-June-25-27.pdf
-
 ## .)
 
 (We used a union print shop for large orders, and indicated "labor donated" when we printed a few copies of a flyer.)
@@ -328,9 +274,6 @@ Another form of outreach was phone banking, which took place at crucial times to
 NCIO created an email group for "internal" communications. With some misgivings, we relied on Google technology for our email group and for documents we wanted NCIO activists to be able to access. We used this email list to circulate the agenda and minutes of our weekly meetings, enabling people to keep abreast of campaign developments even if they didn't attend a meeting. We shared news and did some brainstorming about tactics. This email list was remarkably focused on the campaign, avoiding trolls or dogmatists who often undermine on-line discussion groups.
 
 Little dreaming what a formidable task this would turn out to be, a dedicated activist agreed to post NCIO information on a page on the website of the Sunflower Alliance, a climate justice organization in the East Bay closely allied with our objectives. (
-
-http://www.sunflower-alliance.org/campaigns/no-coal-oakland-campaign/
-
 ) This page grew to include links to NCIO documents, the official record of testimony to the City Council, and media reports including articles, blogs and radio interviews. It was—and remains–an invaluable reference source.
 
 The NCIO website was not launched until March, 2016, but it immediately became an essential repository of information and analysis. It is hard to imagine how we managed so long without it. (
@@ -386,9 +329,6 @@ Singing and music-making was an element of many of our rallies. One unusual inci
 ## Media outreach
 
 In addition to our own media outreach, as indicated above, NCIO benefited from coverage in the progressive and establishment media, as evidenced by the extensive links posted on the campaign page. (
-
-http://www.sunflower-alliance.org/campaigns/no-coal-oakland-campaign/#media
-
 ) Initially media repeated inaccurate information from city officials, including that the City had signed away its authority to protect the community from dangers like coal. Our efforts were critical to educating the City Council, the press, and the public.
 
 Activists were contacted by reporters for interviews and quotes, and spokespeople appeared on several radio programs. We placed Op Eds and used letters to the editor to respond to distorted coverage. The
@@ -439,15 +379,9 @@ Since City Council meetings are televised, livestreamed and archived on line, ou
 The major arguments of the pro-coal forces, and our responses, are briefly summarized with links to other documents:
 
 Pro-Coal Claim: OBOT would provide thousands of jobs for the unemployed residents of West Oakland. NCIO Response: The jobs claims were grossly exaggerated, as OBOT itself, a highly mechanized facility, would only generate 117 jobs, and these would be for members of a union with a long waiting list for new members. (
-
-http://nocoalinoakland.info/the-mythical-12000-jobs/
-
 ## )
 
 Pro-Coal Claim: Coal transport and handling would have no environmental impact because of the use of covered coal cars and a fully enclosed domed facility. NCIO Response: We documented that covered coal cars are not in operation anywhere in the U. S., that the Federal Railway Authority has not evaluated their effectiveness for preventing leakage of coal dust during transport, and that covering cars could lead to fires or explosions. (
-
-http://nocoalinoakland.info/tls-deception-on-coal-dust-exposure-uncovered/
-
 ## )
 
 Pro-Coal Claim: Utah bituminous coal is low-sulfur, and therefore "cleaner" than the China coal it would replace. NCIO Response: We argued that we need to support a transition to renewable energy, and that any coal burned in China would still increase climate disruption and return pollutants to Oakland, undermining the state's climate goals as well as local health. Pro-Coal Claim: Without coal, OBOT will not be feasible. NCIO Response: We pointed out that the developers themselves claimed that 15,000 possible commodities could be shipped. They argued or implied the whole OAB development would be threatened, an argument that lost any credibility when the rest of the OAB development was separated from Tagami's project in February, 2016. We had been mystified that the operators were not looking at alternative commodities, until we learned that TLS is a front for Bowie Resource Partners, the coal company that has no interest in any other commodity. If TLS abandons OBOT, we expect another use can be found for the property, probably one that generates more jobs and certainly one with safer jobs.
@@ -463,9 +397,6 @@ https://d3n8a8pro7vhmx.cloudfront.net/350bayarea/pages/2409/attachments/original
 At the September 21, 2015 hearing which the pro-coal forces paid laborers to attend, we distributed a flyer about jobs without coal and several activists engaged in conversations with the laborers.
 
 On March 24, 2016, the San Francisco Chronicle printed an opinion piece from Michael Mc Clure, a CCIG partner, which was filled with misrepresentations. The Chronicle published our letter rebutting his falsehoods; we also sent a thorough refutation to the City Council and mayor. (
-
-http://nocoalinoakland.info/developers-op-ed-piece/
-
 ## )
 
 Late in the evening of May 22, 2016, we learned that the developers were holding a press conference at 11:00 the next morning. One of our supporters quickly drafted a response to the distortions in the press release, with some input from others in the campaign. She and two more campaigners distributed this rebuttal to the media as they arrived for the press conference. This was a remarkable example of a rapid response from an individual within the campaign.
@@ -518,9 +449,6 @@ A crucial component of defeating the coal terminal was presenting the City Counc
 - (b) recruiting experts to provide testimony and written evidence for that hearing, and
 - (c) liaison to the independent panel of public health scientists who wrote a report for the June 27, 2016 vote.
 - (d) Our major submission on September 21, 2015, can be found at:
-
-https://d3n8a8pro7vhmx.cloudfront.net/350bayarea/pages/2409/attachments/original/1445119795/Comment\_-\_No\_Coal\_in\_Oakland\_with\_Hyperlinks.pdf?1445119795
-
 | (e) All documents related to the coal issue, both those submitted to the City and those written
 by city staff can be found at the City's website at |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -560,9 +488,6 @@ California State Senator Loni Hancock drafted legislation regarding coal exports
 ## .)
 
 One of her bills was passed and signed by Governor Brown. It will stop state funding for any future proposed coal terminals. It is not relevant for OBOT, which has already used public money and from this point on will raise private funds. (
-
-http://sd09.senate.ca.gov/news/2016-08-26-gov-brown-signs-ban-state-funding-coal-related-projects
-
 ## )
 
 ## Jerry Brown
@@ -576,9 +501,6 @@ NCIO was interested in pressuring Governor Jerry Brown to take a stand, since he
 ## Insight magazine. Their first item declared: "Governor, alleged champion of climate-change action: We're reserving a spot in 'Bad Week' until you take a stand on that plan to ship millions of tons of coal through Oakland." They continued in this vein even after the City Council vote.
 
 We organized a statewide call-out to Brown on April 25, 2016, inviting allies to contact him to oppose coal in Oakland and to support Loni Hancock's legislation. (
-
-http://www.sunflower-alliance.org/wp-content/uploads/2016/02/Brown-Call-Out-email-with-info.pdf
-
 ) When Brown visited San Francisco on June 2, NCIO members demonstrated in front of the building where he spoke and handed out flyers about our coal campaign.
 
 Brown's first statement about coal in Oakland finally came when he signed Senator Hancock's bill on August 26, 2016, alluding with approval to the Oakland ban.
@@ -586,9 +508,6 @@ Brown's first statement about coal in Oakland finally came when he signed Senato
 ## Federal possibilities
 
 WOEIP staff, who are active in both NCIO and BACEG, are exploring federal remedies under Title VI of the Civil Rights Act. (
-
-http://nocoalinoakland.info/does-the-coal-plan-violate-federal-civil-right-law/
-
 ## )
 
 ## Regulatory agencies
@@ -600,9 +519,6 @@ NCIO has made preliminary contact with staff and elected officials at agencies t
 On June 27, 2016, the Oakland City Council voted 7-0 (with one member absent) to pass an ordinance prohibiting large quantities of coal in the city, along with a resolution applying this
 
 ## ordinance to the OAB property. (
-
-http://www2.oaklandnet.com/oakca1/groups/ceda/documents/report/oak059403.pdf
-
 ## )
 
 On July 19, 2016 a second reading was incorporated into a long consent calendar item. The whole package passed by consensus so quickly we didn't even have time to applaud!

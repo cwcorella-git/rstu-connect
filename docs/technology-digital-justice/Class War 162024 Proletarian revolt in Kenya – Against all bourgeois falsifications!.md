@@ -14,9 +14,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/class-war-162024-proletarian-revolt-kenya-against-all-bourgeois-falsifications
-
 **Tags:** Tridni Valka, internationalism, class struggle, Kenya, Class War Group
 
 The text we present here on the very recent wave of class struggle that swept Kenya (and is still sweeping it at the time of writing) does not pretend to be "complete" or "objective" analysis of the situation. We are not here to make just a diagnose of the ills of Capital; we are here to participate in digging its grave! We have nothing to do with analyses of bourgeois political economy, so prized by all the colors and shades of the prism of capital's left and far left, analyses which crush beneath the weight of their figures, their percentages, their graphs, their curves, their logorrhea… any expression of the life of our class and its struggle, any manifestation of the living. As far as we are concerned, we simply and modestly address a warm and vibrant greeting to our class brothers and sisters in struggle in Kenya, as everywhere else in this capitalist hell that imposes itself on our humanity, and we call on them to stand up, after having raised their heads, to get organized ever more powerfully for the struggles to come…

@@ -410,7 +410,6 @@ Clark,
 
 ## Between Earth and Empire
 
-
 , 135.
 C. L. R. James,
 Notes on Dialectics: Hegel, Marx, Lenin
@@ -425,7 +424,7 @@ Fromm,
 Anatomy of Human Destructiveness
 , 368.
 Clark,
-## 
+##
 | Between Earth and Empire |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | , 136. |

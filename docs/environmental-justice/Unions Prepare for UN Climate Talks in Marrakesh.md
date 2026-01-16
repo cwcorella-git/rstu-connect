@@ -212,12 +212,7 @@ http://www.sustainlabour.org/documentos/Resolution. Assembly. EN.pdf
 
 http://www.ituc-csi.org/IMG/pdf/ituc\_constitution.pdf http://www.ituc-csi.org/IMG/pdf/CONGRESS\_Decisions\_EN.pdf
 
-## Page 65
-
 ## 4
-
-http://www.sustainlabour.org/documentos/Trade%20Union%20Resolution%20on%20Labour%20and%20Environment.pdf
-
 5 Social dialogue is a tripartite process between workers, employers and governments that exists in all countries where unions exist and at all scales, from the workplace to international negotiations. It includes formal processes of negotiation, consultation and information exchange and covers both economic and social issues.
 
 Disclaimer:

@@ -204,15 +204,15 @@ Objection to the [state](https://en.wikipedia.org/wiki/State_(polity)) and its i
 
 ## ![](_page_10_Picture_6.jpeg)
 
-Anarchist protesters in [Boston](https://en.wikipedia.org/wiki/Boston) opposing state-waged war unachievable fiction due to the fact that the [ruling class](https://en.wikipedia.org/wiki/Ruling_class) is distinct from the rest of society. [\[154\]](#page-19-11) One of the earliest criticisms is that anarchism defies and fails to understand the biological inclination to authority. 
+Anarchist protesters in [Boston](https://en.wikipedia.org/wiki/Boston) opposing state-waged war unachievable fiction due to the fact that the [ruling class](https://en.wikipedia.org/wiki/Ruling_class) is distinct from the rest of society. [\[154\]](#page-19-11) One of the earliest criticisms is that anarchism defies and fails to understand the biological inclination to authority.
 
-[155] Joseph Raz states that the acceptance of authority implies the belief that following their instructions will afford more success. 
+[155] Joseph Raz states that the acceptance of authority implies the belief that following their instructions will afford more success.
 
-[156] Raz believes that this argument is true in following both authorities' successful and mistaken instruction. 
+[156] Raz believes that this argument is true in following both authorities' successful and mistaken instruction.
 
-[157] Anarchists reject this criticism because challenging or disobeying authority does not entail the disappearance of its advantages by acknowledging authority such as doctors or lawyers as reliable, nor does it involve a complete surrender of independent judgment. 
+[157] Anarchists reject this criticism because challenging or disobeying authority does not entail the disappearance of its advantages by acknowledging authority such as doctors or lawyers as reliable, nor does it involve a complete surrender of independent judgment.
 
-[158] Anarchist perception of human nature, rejection of the state, and commitment to social revolution has been criticised by academics as naive, overly simplistic, and unrealistic, respectively. 
+[158] Anarchist perception of human nature, rejection of the state, and commitment to social revolution has been criticised by academics as naive, overly simplistic, and unrealistic, respectively.
 
 [159] Classical anarchism has been criticised for relying too heavily on the belief that the abolition of the state will lead to human cooperation prospering.
 

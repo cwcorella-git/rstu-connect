@@ -6,9 +6,6 @@ category: "contemporary-analysis"
 # **Episode 40: Wisdom And Rationality/**
 
 #### **Source:**
-
-https://www.meaningcrisis.co/ep-40-awakening-from-the-meaning-crisis-wisdom-and-rationality/
-
 Welcome back to Awakening from Meaning Crisis.
 
 So last time, I tried to make some tentative suggestions as to what religion that's not a religion would look like. And how it can make use of and be integrated with ecology of psychotechnologies for addressing the perennial problems and a cognitive scientific worldview that can legitimate and situate that ecology of practices.

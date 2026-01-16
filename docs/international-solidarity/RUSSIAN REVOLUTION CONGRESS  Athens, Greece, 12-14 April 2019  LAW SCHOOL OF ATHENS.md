@@ -25,9 +25,6 @@ The anniversary debate on the October Revolution usually remains trapped in the 
 More specifically, the conference aims to focus on the following thematic axes:
 
 1. Social and political conditions in the Pre-Revolutionary Russia2. Problems of transition to a "stateless" state: revolution and democracy, self-organization and institutions, direct democracy and representation,3. The agricultural revolution: the legacy of the Russian rural community (mir)4. Revolution and Industrialization: factory, wage labor, cooperatives, market, state design5. Political "avant-guards": Narodniks, Socialists-Revolutionaries, Mensheviks, anarchists6. Revolution and national issue: between ethnicities and nationalities7. Gender and identity issues during the transition.
-
-https://congress1917.gr/home\_enhttp://voidnetwork.gr/2019/04/09/russian-revolution-congress-athens-greece-12-14-april-2019-law-school-athens/
-
 jondwhite
 
 6 years 6 months ago

@@ -13,9 +13,7 @@ For all the vast literature on “the gift,” the concept is surprisingly under
 
 In challenging the assumption of the gift’s conceptual unity, I follow Marcel Mauss whose great contribution to social theory was to recognize not only the diversity of “economic transactions” across human societies, but also that all important economic and moral possibilities are present in *any* human society. Even if we like to contrast “gift economies” with “market economies,” as if each represents a total conceptual universe, Mauss did not see things this way. True, he did write, for instance, at the end of his “essay on the gift”:
 
-
 The word “interest” can be traced back to the Latin *interest* written on account books opposite rents to be recovered…The victory of rationalism and mercantilism was required before the notions of profit and the individual were given currency and raised to the level of principles… It is only our Western societies that quite recently turned man into an economic animal (1990 [1924]: 73–74)
-
 
 When making such statements, Mauss was referring to how, in a given social order, people seize on certain practices and use them to generalize about human nature. Our conception of man as an “economic animal” is made possible by certain specific technologies (money, ledger sheets, mathematical calculations of interest) which we then generalize to reveal the hidden truth behind everything—but the existence of such technologies proves nothing. Neither is Mauss really saying that such calculation is anything new.
 
@@ -41,7 +39,7 @@ This is why in the immediate wake of great disasters—a flood, a blackout, a re
 
 Evans-Pritchard reports his discomfiture when someone gave him intentionally wrong directions:
 
-> 
+>
 On one occasion I asked the way to a certain place and was deliberately deceived. I returned in chagrin to camp and asked the people why they had told me the wrong way. One of them replied, ‘You are a foreigner, why should we tell you the right way? Even if a Nuer who was a stranger asked us the way we would say to him, “You continue straight along that path”, but we would not tell him that the path forked. Why should we tell him? But you are now a member of our camp and you are kind to our children, so we will tell you the right way in future’ (Evans- Pritchard 1940:182).
 
 The Nuer are constantly engaged in feuds; any stranger might be an enemy scouting out a good place for an ambush: it would be unwise to give him useful information. Evans-Pritchard’s own situation was obviously relevant. The inhabitants of the first place he settled in followed a prophet recently killed by the British government who sent the RAF to strafe and bomb their camps. Their treatment of him seems quite generous.
@@ -66,7 +64,7 @@ Communism as a principle of morality, rather than as a property arrangement, com
 
 Unless the needs (dire poverty) or the abilities (wealth beyond imagination) are sufficiently dramatic or sociality is completely absent, communistic morality will always enter into how people take accounts. A medieval Turkish folktale about the Sufi mystic Nasruddin Hodja makes the point:
 
-> 
+>
 One day when Nasruddin was left in charge of the local tea-house, the king and some retainers, who had been hunting nearby, stopped in for breakfast. “Do you have quail eggs?” asked the king. “I’m sure I can find some,” answered Nasruddin. The king ordered an omelet of a dozen quail eggs, and Nasruddin ran out to fetch them. After the king and his party had eaten, he charged them a hundred gold pieces. The king was puzzled. “Are quail eggs really that rare in this part of the country?” “It’s not so much quail eggs that are rare around here,” Nasruddin replied. “It’s visits from kings.”
 
 ### II: EXCHANGE
@@ -113,7 +111,7 @@ These principles always coexist. It is hard to imagine a society where people we
 
 In practice, the principles slip into each other. Hierarchical relations often include limited communistic elements (think of patronage); likewise, when “abilities” and “needs” prove disproportionate, communistic relations can easily slip into relations of inequality. Genuinely egalitarian societies invariably develop safeguards against anyone—say, good hunters in a hunting society—rising too far above themselves; just as they are suspicious of anything that might make one member a serious debtor to another. Those who draw attention to their own accomplishments are the object of mockery. Often the polite thing to do is to make fun of oneself. Peter Freuchen, who lived with Inuit in Greenland, described how the quality of a delicacy offered to guests was indicated by how much they belittled it. When a successful hunter gave him a large quantity of walrus meat, he found that you should never thank someone for food:
 
-> 
+>
 Up in our country we are human!” said the hunter. “And since we are human we help each other. We don’t like to hear anybody say thanks for that. What I get today you may get tomorrow. Up here we say that by gifts one makes slaves and by whips one makes dogs (Freuchen 1961: 154).
 
 Gift here is not something given freely, as any human would do for another, when someone has food and another needs it. Rather, to thank someone suggests they might *not* have acted that way, thereby conferring an obligation, a sense of debt—and hence, superiority. Egalitarian collectives or political organizations in America have to come up with their own safeguards against creeping hierarchy when faced with similar dilemmas. Communism does not slip inevitably into hierarchy —the Inuit have managed to fend it off for thousands of years. But one must always guard against it.
@@ -127,7 +125,6 @@ The heroic gift, in contrast, occurs when relations of exchange threaten to brea
 The very complexity in gifts—which so often form the nexus where different moral orders intersect, shade into one another, and shift back and forth— has allowed them to become such an endlessly rich subject for philosophical reflection; yet to insist on treating gifts as a unitary category has stood in the way of understanding what these moral principles actually are.
 
 ### Bibliography
-
 
 Bataille, Georges
 

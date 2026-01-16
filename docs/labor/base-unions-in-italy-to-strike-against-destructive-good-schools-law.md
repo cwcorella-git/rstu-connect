@@ -75,6 +75,3 @@ eugene
 Base unions is something I encountered a lot in Greece, but haven't ever been able to find (or at least in English) material that dove into the concept further. From my understanding through conversations with various Greek comrades, it was that it was more or less unions that sought no legal recognition, or were even rank and file unions within unions.
 Does anyone know if this is accurate or know of any recommended material on this subject?
 As far as not seeking legal recognition goes that could be true for Greece, I don't really know, but I don't think it's intrinsic to base unions elsewhere. Spain for example has lots of small radical unions of one kind or another but I think they'd almost all have some kind of legal status.Las Kellys, an interesting new grouping of hotel cleaners, might be an exception. Apart from the CNT, the CGT and the Coordinadora I don't think there's much about them in English. On the Coordinadora:
-https://m.youtube.com/watch?v=bg87F7q5YFc
-https://libcom.org/library/la-coordinadora-union-without-bureaucrats
-https://libcom.org/forums/organise/spainish-dock-workers-union-19032014

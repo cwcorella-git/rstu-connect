@@ -105,11 +105,6 @@ Ralston, Romarilyn. Revisiting the Prison Industrial Complex. Open Democracy, Ap
 ## Video Dialogues
 
 Alliance of MENA Socialists. Socialist Feminist International Dialogues https://allianceofmesocialists.org/dialogue-between-socialist-feminists-from-china-russia-turkey/
-
-https://allianceofmesocialists.org/report-on-socialist-feminist-dialogue-between-iranian-iraqi-palestinian-lebanese-chilean-women/
-
-https://allianceofmesocialists.org/livestream-dialogue-between-sudanese-algerian-african-american-syrian-and-iranian-socialist-feminists/
-
 | https://allianceofmesocialists.org/panel-on-challenges-facing-socialist-feminism-march-29live| |
 |-----------------------------------------------------------------------------------------------|--|
 | streamed/ | |
@@ -117,5 +112,3 @@ https://allianceofmesocialists.org/livestream-dialogue-between-sudanese-algerian
 ## Campaigns
 
 Alliance of MENA Socialists. Campaign in Solidarity with Feminist Political Prisoners in the Middle East https://allianceofmesocialists.org/campaign-in-solidarity-with-feminist-political-prisoners-in-the-middle-east-and-north-africa/
-
-https://allianceofmesocialists.org/free-mays-abou-ghosh-and-khalida-jarrar-from-israels-prisons/

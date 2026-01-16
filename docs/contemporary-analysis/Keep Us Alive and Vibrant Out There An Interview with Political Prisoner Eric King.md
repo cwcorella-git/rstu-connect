@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/keep-us-alive-and-vibrant-out-there-interview-political-prisoner-eric-king
-
 **Tags:** United States, anarchists, repression, prisons, Eric King, Black & Pink
 
 An interview with anarchist political prisoner Eric King from the Seattle-Tacoma chapter of Black and Pink. This article was first published by It's Going Down.

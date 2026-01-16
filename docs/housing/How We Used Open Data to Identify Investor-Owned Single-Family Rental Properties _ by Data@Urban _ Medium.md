@@ -10,9 +10,7 @@ tags:
 - housing
 - tenants
 ---
-# How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium
----
-How We Used Open Data to Identify Investor-Owned Si...                https://urban-institute.medium.com/how-we-used-open-...
+
 Open in app                                                                              Sign up   Sign in
 Search
 Writing is for everyone.
@@ -32,7 +30,7 @@ end of state and city eviction moratoriums passed during the COVID-19 pandemic.
 These tenants are not alone. Having an investor or corporation as a landlord has
 become increasingly common, with nearly 40 percent of all rental units nationwide
 ---
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 owned by anonymous shell entities.
 Researchers, housing advocates, and politicians aiming to promote equitable
 housing and economic recovery are concerned that the growth of speculative
@@ -64,7 +62,7 @@ We outline key lessons below in hopes that they might be useful to researchers,
 advocates, and organizations interested in understanding their landscape of
 landlords.
 ---
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 Lessons learned from attempting to disentangle the web of corporate
 landlords in the Twin Cities:
 1. Partner with local leaders to create analyses that support ongoing research and
@@ -85,7 +83,7 @@ owners like local nonprofits or public housing authorities as investors.
 Below is the R script we used to examine property records from both counties to
 identify and categorize investor-owners of single-family homes.
 ---
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 CURA and our partners were also interested in understanding where these landlords
 were located in relation to their property holdings. Their researchers had heard
 anecdotally that corporate landlord absenteeism made repair requests and positive
@@ -94,7 +92,7 @@ Urban’s geocoder to get an approximate location for each parcel owner and to c
 a clean and unified owner address field. Property tax records often have data entry
 errors, such as misspellings, and the many departments involved in the data
 ---
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 collection might not be compatible or consistent. Geocoding our taxpayer data thus
 reduced the number of unique owner addresses of single-family rentals in 2020
 from 520,000 to 476,000.
@@ -127,14 +125,13 @@ homestead tax exemption, and land-use designations, which allowed us to generall
 know whether a parcel was an owner-occupied single-family home or a likely rental.
 We refined the accuracy of this proxy by testing it against a rental property license
 ---
-How We Used Open Data to Identify Investor-Owned Si...         https://urban-institute.medium.com/how-we-used-open-...
+
 dataset in Minneapolis and rental registration data in St. Paul and by comparing our
 estimates with those produced by the US Census Bureau.
 Get Data@Urban’s stories in your inbox
 Join Medium for free to get updates from this writer.
 Enter your email
-Subscribe
-2. Use clustering and fuzzy matching to make manual cleaning less painful
+
 The most difficult task was trying to disentangle the web of LLCs, LPs, and real
 estate investment trusts. Investor owners frequently create these shell entities that
 make understanding the true size and scope of their portfolio difficult. For example,
@@ -155,13 +152,13 @@ weighting for differences at the beginning and end of strings. We then manually
 created JW score cutoffs for landlord names in each year by eyeing which score
 seemed to be a conservative cutoff between different spellings and different owners.
 You can see an example of similar owner name and taxpayer names, along with JW
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 scores, in in the table below. Our team would have used matches with JW scores less
 than 0.216667, highlighted in red below, for our conservative cutoff, even though
 other owners and taxpayers were likely the same.
 A part of the R code we used to fuzzy-match is below.
 ---
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 Then, we used a basic unsupervised cluster method to further decrease the number
 of names within our new “clean_name” variable. We started by creating a distance
 matrix using the Jaro-Winkler edit distance metric. Then, we used an unsupervised
@@ -170,7 +167,7 @@ treating each clean name as its own individual cluster and gradually combined
 increasingly similar names into larger clusters until it reached our predefined
 number of clusters. We shifted our cluster count (K in the code below) until we saw
 ---
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 that the names within each cluster were likely to be a single owner.
 The R script example below was done using a base data table of landlord names for
 all likely rental properties in both counties in a single year and allowed us to reduce
@@ -179,7 +176,7 @@ As a last step, we looked through the data and created a few additional manual
 cleaning rules, like grouping by taxpayer address, to reduce the number of
 variations and to more accurately understand how many properties were in an
 ---
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 owner’s portfolio. This was important because we created a cutoff for “corporate
 ownership” that excluded small-scale owners with fewer than three total properties.
 This preliminary analysis gave us a broad understanding of where and when
@@ -212,7 +209,7 @@ were developed by the counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott
 and Washington and the Metropolitan Council for their own internal business
 purposes. These organizations do not represent or warrant that the GIS Data or the
 data documentation are error-free, complete, current, or accurate. You are
-How We Used Open Data to Identify Investor-Owned Si...     https://urban-institute.medium.com/how-we-used-open-...
+
 responsible for any consequences resulting from your use of the GIS Data or your
 reliance on the GIS Data. You should consult the data documentation for this
 particular GIS Data to determine the limitations of the GIS Data and the precision
@@ -237,7 +234,7 @@ the GIS Data include a copy of this disclaimer and metadata.
 -Yonah Freemark
 Want to learn more? Sign up for the Data@Urban newsletter.
 Open Data      Landlords    Rental Property    Minneapolis      Real Estate
-How We Used Open Data to Identify Investor-Owned Si...              https://urban-institute.medium.com/how-we-used-open-...
+
 Follow
 Written by Data@Urban
 2.3K followers · 57 following
@@ -247,13 +244,13 @@ No responses yet
 Write a response
 What are your thoughts?
 More from Data@Urban
-How We Used Open Data to Identify Investor-Owned Si...         https://urban-institute.medium.com/how-we-used-open-...
+
 Data@Urban
 Choosing the Right OCR Service for Extracting Text Data
 Optical character recognition, or OCR, is a key tool for people who want to build or collect text
 data. OCR uses machine learning to…
 Mar 25, 2022     19
-How We Used Open Data to Identify Investor-Owned Si...          https://urban-institute.medium.com/how-we-used-open-...
+
 Data@Urban
 Exploring AI: How Urban Is Piloting Guidelines around Using AI in Our
 Research and Policy Work
@@ -265,7 +262,7 @@ Designing a New Access Measure for the Spatial Equity Data Tool API
 The Urban Institute’s Spatial Equity Data Tool (SEDT) is a free, powerful software that allows
 users to upload point spatial data — such as…
 Feb 25     61
-How We Used Open Data to Identify Investor-Owned Si...       https://urban-institute.medium.com/how-we-used-open-...
+
 Data@Urban
 Using Multiprocessing to Make Python Code Faster
 Everyone could use more time, especially here at the Urban Institute, where researchers
@@ -273,12 +270,12 @@ regularly analyze large datasets. Because we can’t…
 Sep 18, 2018     1.6K   8
 See all from Data@Urban
 Recommended from Medium
-How We Used Open Data to Identify Investor-Owned Si...      https://urban-institute.medium.com/how-we-used-open-...
+
 In Runner's Life by Stephen Hands
 The Mid-Run Form Check
 The simple habit that can prevent injury and make you a better runner
 4d ago     16      1
-How We Used Open Data to Identify Investor-Owned Si...                        https://urban-institute.medium.com/how-we-used-open-...
+
 Nikulsinh Rajput
 DuckDB: The Future of Lightweight Analytics
 A zero-ops, in-process OLAP engine that turns files into fast answers — right on your laptop or
@@ -288,12 +285,12 @@ In Artificial Intelligence in Plain English by Vipul Thukral
 AI-driven Dispatch Planning & Optimisation System
 Introduction
 Jun 22        253
-How We Used Open Data to Identify Investor-Owned Si...   https://urban-institute.medium.com/how-we-used-open-...
+
 Tracy Cranford
 Little Owl
 When little girls grow up and move away
 Aug 15     1.1K   18
-How We Used Open Data to Identify Investor-Owned Si...              https://urban-institute.medium.com/how-we-used-open-...
+
 In Coding Nexus by Civil Learning
 I Handed ChatGPT $100 to Trade Stocks—Here’s What Happened in 2
 Months.

@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/wobblies-continue-lawsuits-against-texas-prison-authorities-despite-retaliation
-
 **Tags:** Incarcerated Workers Organizing Committee, Industrial Workers of the World (IWW), Julio 'Comrade Z' Zuniga, Texas, United States, prisons
 
 An article by J Parampathu giving an update on the Industrial Workers of the World/Incarcerated Workers Organizing Committee's activity inside Texas prisons. This article was first published by the Industrial Worker.

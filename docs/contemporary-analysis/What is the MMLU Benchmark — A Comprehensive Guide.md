@@ -66,7 +66,7 @@ An LLM benchmark typically consists of the following components:
 - •
 - •
 
-- 
+-
 
 - •
 - •

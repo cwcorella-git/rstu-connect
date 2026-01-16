@@ -8,8 +8,7 @@ tags:
 - labor
 - Spain
 ---
-# employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish
----
+
 DERECHOS           DE   LOS     EMPLEADOS
 CONFORME A LA LEY NACIONAL DE RELACIONES DEL TRABAJO
 a e Nacioal de Relacioes del Trabajo (NRA e iglés) garatiza el dereco de los empleados a

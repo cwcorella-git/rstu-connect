@@ -7,9 +7,7 @@ tags:
 - Nevada
 - legislation
 ---
-# Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News
----
-Nevada Legislature passes voter ID bill on 2025 session'...                                  https://apnews.com/article/nevada-legislature-2025-edu...
+
 LIVE:             FBI ofﬁcials ousted           Intel stock tumbles           United Airlines            Chikungunya virus
 Trump tariffs
 U.S. NEWS
@@ -25,7 +23,7 @@ Republican Gov. Joe Lombardo is expected to take action through next week on the
 hundreds of bills that passed. The ﬁrst-term governor vetoed a record 75 bills in 2023.
 Nevada lawmakers meet every other year in odd years.
 ---
-Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
+
 Ahead of the session, Lombardo urged the Legislature to put politics aside and come
 together to ﬁnd solutions for such issues as affordable housing and education. Some of his
 major bills failed, including a wide-ranging bill that would have created stiffer penalties for
@@ -36,9 +34,9 @@ improving outcomes in our K-12 education system,” Lombardo said in a statement
 Here is a look at some of the notable bills that passed and failed during this year’s 120-day
 session in Carson City.
 RELATED STORIES
-Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
+
 Nevada governor's race shaping up as a marquee battle in a state carried by Trump
-Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
+
 Tribes move to join lawsuit challenging Montana election laws
 California Republican lawmakers launch campaign to require voter ID
 Elections
@@ -52,7 +50,7 @@ November passing a voter ID ballot measure. It would have to pass again in 2026 
 amend the state constitution.
 ◆ Stay up to date with the latest U.S. news by signing up to our WhatsApp channel.
 ---
-Nevada Legislature passes voter ID bill on 2025 session'...   https://apnews.com/article/nevada-legislature-2025-edu...
+
 — Primary elections for nonpartisan voters: A week before the session ended, Democratic
 Assembly Speaker Steve Yeager introduced a bill as an emergency request that would allow
 nonpartisan voters to cast a ballot in Republican or Democratic primary elections, excluding
@@ -78,7 +76,7 @@ for affordable housing. It passed.
 on party lines. They include a proposal that would create a pilot program capping rent prices
 for seniors for a year, and another that would allow tenants to quickly ﬁle legal complaints
 against landlords for unsafe living conditions like broken air conditioning or broken locks.
-Nevada Legislature passes voter ID bill on 2025 session'...             https://apnews.com/article/nevada-legislature-2025-edu...
+
 Public safety
 — Lombardo’s crime bill: The governor, who was a longtime police ofﬁcer and the former
 elected sheriff in Las Vegas, had vowed ahead of the session to crack down on crime. But his
@@ -102,7 +100,7 @@ on lotteries. It failed after the Legislature’s ﬁrst major deadline in April
 RIO YAMAT
 Yamat is a national business reporter for The Associated Press. Based in Las Vegas, she
 covers airlines, travel and tourism.
-Nevada Legislature passes voter ID bill on 2025 session'...            https://apnews.com/article/nevada-legislature-2025-edu...
+
 MOST READ
 Fort Stewart Army sergeant in custody after he shot 5 soldiers, ofﬁcials say
 A speeding motorist driving at 199 mph on Germany’s Autobahn is ﬁned more than $1,000

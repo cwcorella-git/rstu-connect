@@ -2153,9 +2153,8 @@ Those people were to be the young brave's sacrificial priests. This was to be a 
 
 There is an equivalent scene described in the apocryphal Christian Acts of John, immediately before Jesus goes to be crucified. This is one of the most moving passages in Christian literature. In the Matthew, Mark, Luke and John gospels, it is simply mentioned that, at the conclusion of the celebration of the Last Supper, Jesus and his disciples sang a hymn before he went forth. But in the Acts of John, we have a word-for-word account of the whole singing of the hymn. Just before going out into the garden at the end of the Last Supper, Jesus says to the company, "Let us dance!" And they all hold hands in a circle, and as they circle around him, Jesus sings, "Glory be to thee, Father!"
 
-
  To which the circling company responds, "Amen."
-## 
+##
 ## "Glory be to thee, Word!"
 
 ## And again, "Amen."

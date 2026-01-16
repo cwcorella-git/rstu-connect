@@ -166,5 +166,3 @@ We should be incredibly suspicious of valorizing alternatives like Maussian gift
 It is the interplay of desire and math that ultimately shapes what is possible, not sweeping historical impressions or awkward taxonomies of cultural dynamics. *Debt: The First 5,000 Years* is an exhilarating storm of anecdotes and with many insightful themes, but it flounders in many respects when it seeks to draw lessons from history.
 
 The past is no cage for the future.
-
-https://c4ss.org/content/24459

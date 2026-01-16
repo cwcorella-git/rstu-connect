@@ -1619,7 +1619,7 @@ Bailey, D. R. Shac leton, ed. Cicero: Selected Letters.
 
 ew or : Pen uin Boo s, .
 
-Boatwri ht, Mary $\dot{\ddot{u}}$ ., Daniel J. Gar ola, yoel Lens i, and Richard J. $\dot{\sigma}$ . $\dot{\ddot{u}}$ al ert. The Romans: From Village to Empire. xford: xford yni ersity Press, $\xi$ 
+Boatwri ht, Mary $\dot{\ddot{u}}$ ., Daniel J. Gar ola, yoel Lens i, and Richard J. $\dot{\sigma}$ . $\dot{\ddot{u}}$ al ert. The Romans: From Village to Empire. xford: xford yni ersity Press, $\xi$
 
 E eritt, onthony. Cicero: The Life and Times of Rome's Greatest Politician. yew yor: Random House,
 

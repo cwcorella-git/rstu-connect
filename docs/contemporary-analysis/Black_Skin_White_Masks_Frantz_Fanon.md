@@ -304,7 +304,7 @@ I would like to acknowledge the contributions made to this translation by André
 
 ## **INTRODUCTION**
 
-*I am talking of millions of men who have been skillfully injected with fear, inferiority complexes, trepidation, servility, despair, abasement.* 
+*I am talking of millions of men who have been skillfully injected with fear, inferiority complexes, trepidation, servility, despair, abasement.*
 
 ## *—Aimé Césaire*, Discours sur le Colonialisme
 
@@ -1007,9 +1007,8 @@ What a struggle to free himself of a purely subjective confl ict. I am a white m
 
 differences that separate me from them. Indeed, read the book again and you will be convinced:
 
-
 Who knocked at the door? Ah, yes, of course.
-## 
+##
 ## "Is that you, Soua?"
 
 ## "Yes, major."
@@ -1162,7 +1161,7 @@ We shall see that another solution is possible. It implies a restructuring of th
 
 # **THE SO-CALLED DEPENDENCY COMPLEX OF COLONIZED PEOPLES**
 
-*In the whole world no poor devil is lynched, no wretch is tortured, in whom I too am not degraded and murdered.* 
+*In the whole world no poor devil is lynched, no wretch is tortured, in whom I too am not degraded and murdered.*
 
 ## *—Aimé Césaire*, Et les chiens se taisent
 
@@ -1291,7 +1290,7 @@ Earlier, we uncovered in certain of M. Mannoni's statements a mistake that is at
 
 The primary concern of M. Mannoni was to criticize the methods hitherto employed by the various ethnographers who had turned their attention to primitive peoples. But we see the criticism that must be made of his own work.
 
-*After having sealed the Malagasy into his own customs, after having evolved a unilateral analysis of his view of the world, after having described the Malagasy within a closed circle, after* 
+*After having sealed the Malagasy into his own customs, after having evolved a unilateral analysis of his view of the world, after having described the Malagasy within a closed circle, after*
 
 16. Sartre, *Anti-Semite*, p. 69.
 
@@ -1341,7 +1340,7 @@ Here again we encounter the same misapprehension. It is of course obvious that t
 
 "Not all peoples can be colonized; only those who experience this need [for dependency]." And, a little later: "Wherever Europeans have founded colonies of the type we are considering, it can safely be said that their coming was unconsciously expected even desired—by the future subject peoples. Everywhere there existed legends foretelling the arrival of strangers from the sea, bearing wondrous gifts with them."26 It becomes obvious that the white man acts in obedience to an authority complex, a leadership complex, while the Malagasy obeys a dependency complex. Everyone is satisfi ed.
 
-When the question arises of understanding why the European, the foreigner, was called *vazaha*, which means *honorable stranger;* 
+When the question arises of understanding why the European, the foreigner, was called *vazaha*, which means *honorable stranger;*
 
 24. *Ibid.*, p. 84.
 
@@ -2112,7 +2111,7 @@ The Remus stories are a monument to the ambivalence of the South. Harris, the ar
 
 There is a quest for the Negro, the Negro is in demand, one cannot get along without him, he is needed, but only if he is made palatable in a certain way. Unfortunately, the Negro knocks down the system and breaks the treaties. Will the white man rise in resistance? No, he will adjust to the situation. This fact, Wolfe says, explains why many books dealing with racial problems become best-sellers.36
 
-Certainly no one is *compelled* to read stories of Negroes who make love to white women (*Deep are the Roots, Strange Fruit, Uncle Remus)*, of whites who learn that they are Negroes (*Kingsblood Royal, Lost Boundaries, Uncle* 
+Certainly no one is *compelled* to read stories of Negroes who make love to white women (*Deep are the Roots, Strange Fruit, Uncle Remus)*, of whites who learn that they are Negroes (*Kingsblood Royal, Lost Boundaries, Uncle*
 
 - 35. The character of Uncle Remus was created by Harris. The fi gure of this gentle, melancholy old slave with his eternal *grin* is one of the most typical images of the American Negro.
 - 36. See also the many Negro fi lms of recent years. And yet all the producers were white.
@@ -2269,9 +2268,8 @@ and for this, O lord with white teeth, men with fragile necks receive and collec
 
 53. *L'air et les songes* (Paris, Corti, 1943).
 
-
-I give you the chain-gang 
-I give you the swamp 
+I give you the chain-gang
+I give you the swamp
 I give you the Intourist with the three-cornered journey
 devour wind
 I give you my rugged lips
@@ -2303,7 +2301,7 @@ rise glutton of the sky
 and the vast black hole where I wanted to drown myself
 the other moon
 there now I want to haul out the evil tongue
-## 
+##
 of the night in its moveless glaze!54
 
 54. Aimé Césaire, *Cahier d'un retour au pays natal* (Paris, Présence Africaine, 1956), pp. 94–96.
@@ -2651,7 +2649,7 @@ To educate man to be *actional*, preserving in all his relations his respect for
 
 ## **BY WAY OF CONCLUSION**
 
-*The social revolution . . . cannot draw its poetry from the past, but only from the future. It cannot begin with itself before it has stripped itself of all its superstitions concerning the past. Earlier revolutions relied on memories out of world history in order to drug themselves against their own content. In order to fi nd their own content, the revolutions of the nineteenth century have to let the dead bury the dead. Before, the expression exceeded the content; now, the content exceeds the expression.* 
+*The social revolution . . . cannot draw its poetry from the past, but only from the future. It cannot begin with itself before it has stripped itself of all its superstitions concerning the past. Earlier revolutions relied on memories out of world history in order to drug themselves against their own content. In order to fi nd their own content, the revolutions of the nineteenth century have to let the dead bury the dead. Before, the expression exceeded the content; now, the content exceeds the expression.*
 
 ## *—Karl Marx*, The Eighteenth Brumaire
 

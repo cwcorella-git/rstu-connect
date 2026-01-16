@@ -4,8 +4,7 @@ author: "Reno Sparks Tenants Union"
 date: "2025"
 category: "misc"
 ---
-# RSTU-General-Meeting-1-22-25
----
+
 RSTU General Meeting 1/22/25
 ●   Assign roles
 ○ Facilitator: Elizabeth

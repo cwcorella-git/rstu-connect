@@ -31,9 +31,9 @@ Permission to make digital or hard copies of all or part of this work for person
 
 CHIWORK 2023, June 13–16, 2023, Oldenburg, Germany
 
-© 2023 Copyright held by the owner/author(s). Publication rights licensed to ACM. ACM ISBN 979-8-4007-0807-7/23/06. . . \$15.00 
+© 2023 Copyright held by the owner/author(s). Publication rights licensed to ACM. ACM ISBN 979-8-4007-0807-7/23/06. . . \$15.00
 
-and Watercooler Talk May Not Foster Research Creativity. In Annual Symposium on Human-Computer Interaction for Work 2023 (CHIWORK 2023), June 13–16, 2023, Oldenburg, Germany. ACM, New York, NY, USA, 12 pages. 
+and Watercooler Talk May Not Foster Research Creativity. In Annual Symposium on Human-Computer Interaction for Work 2023 (CHIWORK 2023), June 13–16, 2023, Oldenburg, Germany. ACM, New York, NY, USA, 12 pages.
 
 #### 1 INTRODUCTION
 
@@ -263,13 +263,13 @@ The authors thank Abigail Sellen for her support. We also thank the research par
 - [5] Andy Jassy. 2023. Update from Andy Jassy on Amazon's return to office plans. [https://www.aboutamazon.com/news/company-news/andy-jassy](https://www.aboutamazon.com/news/company-news/andy-jassy-update-on-amazon-return-to-office)[update-on-amazon-return-to-office](https://www.aboutamazon.com/news/company-news/andy-jassy-update-on-amazon-return-to-office)
 - [6] Atlassian. 2023. Team Anywhere: Distributed Workforce. [https://www.atlassian.](https://www.atlassian.com/practices/use-cases/team-anywhere) [com/practices/use-cases/team-anywhere](https://www.atlassian.com/practices/use-cases/team-anywhere)
 - [7] Abdul Ghafoor Awan and M Tafique Tahir. 2015. Impact of working environment on employee's productivity: A case study of Banks and Insurance Companies in Pakistan. European Journal of Business and Management 7, 1 (2015), 329–345.
-- [8] Jeremy N. Bailenson. 2021. Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue. Technology, Mind, and Behavior 2, 1 (Feb. 2021). 
+- [8] Jeremy N. Bailenson. 2021. Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue. Technology, Mind, and Behavior 2, 1 (Feb. 2021).
 - [9] Richard Banfield, C Todd Lombardo, and Trace Wax. 2015. Design sprint: A practical guidebook for building great digital products. O'Reilly Media, Inc.
 
 - [10] Gemma Bateman. 2009. Employee perceptions of co-worker support and its effect on job satisfaction, work stress and intention to quit. Master's thesis.
 - [11] Matthew J Beck and David A Hensher. 2022. Working from home in Australia in 2020: Positives, negatives and the potential for future benefits to transport and society. Transportation Research Part A: Policy and Practice 158 (2022), 271–284.
 - [12] Rachel Bergmann, Sean Rintel, Nancy Baym, Advait Sarkar, Damian Borowiec, Priscilla Wong, and Abigail Sellen. 2022. Meeting (the) Pandemic: Videoconferencing Fatigue and Evolving Tensions of Sociality in Enterprise Video Meetings During COVID-19. Computer Supported Cooperative Work (CSCW) (2022), 1–37.
-- [13] Rachel Bergmann, Sean Rintel, Nancy Baym, Advait Sarkar, Damian Borowiec, Priscilla Wong, and Abigail Sellen. 2022. Meeting (the) Pandemic: Videoconferencing Fatigue and Evolving Tensions of Sociality in Enterprise Video Meetings During COVID-19. Computer Supported Cooperative Work (CSCW) (Nov. 2022). 
+- [13] Rachel Bergmann, Sean Rintel, Nancy Baym, Advait Sarkar, Damian Borowiec, Priscilla Wong, and Abigail Sellen. 2022. Meeting (the) Pandemic: Videoconferencing Fatigue and Evolving Tensions of Sociality in Enterprise Video Meetings During COVID-19. Computer Supported Cooperative Work (CSCW) (Nov. 2022).
 - [14] Nicholas Bloom. 2021. Don't Let Employees Pick Their WFH Days. Harvard Business Review (May 2021). [https://hbr.org/2021/05/dont-let-employees-pick](https://hbr.org/2021/05/dont-let-employees-pick-their-wfh-days)[their-wfh-days](https://hbr.org/2021/05/dont-let-employees-pick-their-wfh-days)
 - [15] Nicholas Bloom. 2021. Hybrid is the Future of Work. Stanford Institute for Economic Policy Research (SIEPR): Stanford, CA, USA (2021).
 - [16] Nicholas Bloom, James Liang, John Roberts, and Zhichun Jenny Ying. 2015. Does working from home work? Evidence from a Chinese experiment. The Quarterly Journal of Economics 130, 1 (2015), 165–218.
@@ -304,7 +304,7 @@ The authors thank Abigail Sellen for her support. We also thank the research par
 - [43] Peter Buell Hirsch. 2022. The hippogryphs on the 14th floor: the future of hybrid work. Journal of Business Strategy 44, 1 (Jan. 2022), 50–53. [https:](https://doi.org/10.1108/JBS-11-2022-0191) [//doi.org/10.1108/JBS-11-2022-0191](https://doi.org/10.1108/JBS-11-2022-0191) Publisher: Emerald Publishing Limited.
 - [44] Sonia Jaffe and Jenna Butler. 2021. What is hybrid? [https://www.microsoft.com/](https://www.microsoft.com/en-us/research/project/the-new-future-of-work/articles/what-is-hybrid/) [en-us/research/project/the-new-future-of-work/articles/what-is-hybrid/](https://www.microsoft.com/en-us/research/project/the-new-future-of-work/articles/what-is-hybrid/)
 - [45] Vera John-Steiner. 2000. Creative collaboration. Oxford University Press.
-- [46] Brennan Jones, Yaying Zhang, Priscilla N. Y. Wong, and Sean Rintel. 2021. Belonging There: VROOM-Ing into the Uncanny Valley of XR Telepresence. Proc. ACM Hum.-Comput. Interact. 5, CSCW1, Article 59 (apr 2021), 31 pages. 
+- [46] Brennan Jones, Yaying Zhang, Priscilla N. Y. Wong, and Sean Rintel. 2021. Belonging There: VROOM-Ing into the Uncanny Valley of XR Telepresence. Proc. ACM Hum.-Comput. Interact. 5, CSCW1, Article 59 (apr 2021), 31 pages.
 - [47] Christian Klein. 2021. Pledge to Flex: The Future of Work at SAP Is 100% Flexible and Trust Based. [https://news.sap.com/2021/06/pledge-to-flex-future-of-work](https://news.sap.com/2021/06/pledge-to-flex-future-of-work-at-sap/)[at-sap/](https://news.sap.com/2021/06/pledge-to-flex-future-of-work-at-sap/)
 - [48] Robert Kraut, Carmen Egido, and Jolene Galegher. 1988. Patterns of contact and communication in scientific research collaboration. In Proceedings of the 1988 ACM conference on Computer-supported cooperative work (CSCW '88). Association for Computing Machinery, New York, NY, USA, 1–12. [https:](https://doi.org/10.1145/62266.62267) [//doi.org/10.1145/62266.62267](https://doi.org/10.1145/62266.62267)
 - [49] Robert E Kraut, Carmen Egido, and Jolene Galegher. 2014. Patterns of contact and communication in scientific research collaborations. Intellectual teamwork (2014), 163–186.
@@ -327,12 +327,12 @@ The authors thank Abigail Sellen for her support. We also thank the research par
 - [64] Cal Newport. 2019. Digital minimalism: Choosing a focused life in a noisy world. Penguin.
 - [65] Ekaterina Olshannikova, Thomas Olsson, Jukka Huhtamäki, Susanna Paasovaara, and Hannu Kärkkäinen. 2020. From Chance to Serendipity: Knowledge Workers' Experiences of Serendipitous Social Encounters. Advances in Human-Computer Interaction 2020 (Feb. 2020), e1827107. Publisher: Hindawi.
 - [66] Alex F Osborn. 1953. Applied imagination. Charles Scribner, New York (1953).
-- [67] Pedro R. Palos-Sanchez, Pedro Baena-Luna, and Daniel Silva-O'Connor. 2022. Exploring employees' beliefs regarding the potential benefits of virtual worlds for group cohesion: gather town. Multimedia Tools and Applications (Dec. 2022). 
+- [67] Pedro R. Palos-Sanchez, Pedro Baena-Luna, and Daniel Silva-O'Connor. 2022. Exploring employees' beliefs regarding the potential benefits of virtual worlds for group cohesion: gather town. Multimedia Tools and Applications (Dec. 2022).
 - [68] Alex Soojung-Kim Pang. 2016. Rest: Why you get more done when you work less. Basic Books.
 - [69] Jane Parry, Zoe Young, Stephan Bevan, Michail Veliziotis, Yehuda Baruch, Mina Beigi, Zofia Bajorek, Emma Salter, and Chira Tochia. 2021. Working from Home under COVID-19 lockdown: Transitions and tensions. (2021).
 - [70] Michael Quinn Patton. 2014. Qualitative research & evaluation methods: Integrating theory and practice. Sage publications.
 - [71] Paul B. Paulus and Jared B. Kenworthy. 2019. Effective Brainstorming. In The Oxford Handbook of Group Creativity and Innovation, Paul B. Paulus and Bernard A. Nijstad (Eds.). Oxford University Press, 287–386.
-- [72] René Riedl. 2022. On the stress potential of videoconferencing: definition and root causes of Zoom fatigue. Electronic Markets 32, 1 (March 2022), 153–177. 
+- [72] René Riedl. 2022. On the stress potential of videoconferencing: definition and root causes of Zoom fatigue. Electronic Markets 32, 1 (March 2022), 153–177.
 - [73] Simone M. Ritter and Eric F. Rietzschel. 2017. Lay Theories of Creativity. In The Science of Lay Theories: How Beliefs Shape Our Cognition, Behavior, and Health, Claire M. Zedelius, Barbara C. N. Müller, and Jonathan W. Schooler (Eds.). Springer International Publishing, Cham, 95–126. [https://doi.org/10.1007/978-](https://doi.org/10.1007/978-3-319-57306-9_5) [3-319-57306-9\\_5](https://doi.org/10.1007/978-3-319-57306-9_5)
 - [74] Robert Root-Bernstein, Lindsay Allen, Leighanna Beach, Ragini Bhadula, Justin Fast, Chelsea Hosey, Benjamin Kremkow, Jacqueline Lapp, Kaitlin Lonc, Kendell Pawelec, et al. 2008. Arts foster scientific success: avocations of nobel, national academy, royal society, and sigma xi members. Journal of Psychology of Science and Technology 1, 2 (2008), 51–63.
 - [75] Michele Rostan and Flavio Antonio Ceravolo. 2015. The internationalisation of the academy: Convergence and divergence across disciplines. European Review 23, S1 (2015), S38–S54.
@@ -359,7 +359,7 @@ The authors thank Abigail Sellen for her support. We also thank the research par
 - [95] Yun Wang, Ying Liu, Weiwei Cui, John Tang, Haidong Zhang, Doug Walston, and Dongmei Zhang. 2021. Returning to the office during the COVID-19 pandemic recovery: Early indicators from China. In Extended abstracts of the 2021 CHI conference on human factors in computing systems. 1–6.
 - [96] Warren O. Hagstrom. 1965. The Scientific Community. Southern Illinois University Press, Carbondale, Ill.
 - [97] Daniel Wheatley. 2017. Employee satisfaction and use of flexible working arrangements. Work, employment and society 31, 4 (2017), 567–585.
-- [98] Steve Whittaker, David Frohlich, and Owen Daly-Jones. 1994. Informal workplace communication: what is it like and how might we support it?. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '94). Association for Computing Machinery, New York, NY, USA, 131–137. 
+- [98] Steve Whittaker, David Frohlich, and Owen Daly-Jones. 1994. Informal workplace communication: what is it like and how might we support it?. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '94). Association for Computing Machinery, New York, NY, USA, 131–137.
 - [99] Da Jung Woo, Camille G. Endacott, and Karen K. Myers. 2023. Navigating Water Cooler Talks Without the Water Cooler: Uncertainty and Information Seeking During Remote Socialization. Management Communication Quarterly 37, 2 (May 2023), 251–280. Publisher: SAGE Publications Inc.
 - [100] Longqi Yang, David Holtz, Sonia Jaffe, Siddharth Suri, Shilpi Sinha, Jeffrey Weston, Connor Joyce, Neha Shah, Kevin Sherman, Brent Hecht, et al. 2022. The effects of remote work on collaboration among information workers. Nature human behaviour 6, 1 (2022), 43–54.
 - [101] Longqi Yang, Sonia Jaffe, David Holtz, Siddharth Suri, Shilpi Sinha, Jeffrey Weston, Connor Joyce, Neha Shah, Kevin Sherman, Chia-Jung Lee, et al. 2020. How work from home affects collaboration: A large-scale study of information workers in a natural experiment during COVID-19. ar Xiv preprint ar Xiv:2007.15584 (2020).

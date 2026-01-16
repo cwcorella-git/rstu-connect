@@ -163,7 +163,7 @@ xvi
 
 2. Surround yourself with the right people. Build a talented sta you can trust. You can't be every here at once, so Jnd those ho ill represent you as i they ere try-in to be elected themselves.
 
-3. Call in all favors. $\tilde{\tau}$ t's time to ently (or not so ently) remind everyone you have ever helped that they o e you. $\tilde{\tau}$ 
+3. Call in all favors. $\tilde{\tau}$ t's time to ently (or not so ently) remind everyone you have ever helped that they o e you. $\tilde{\tau}$
 
 someone isn't under obli ation to you, let them kno that their support no ill put you in their debt in the uture. ond as an elected o scial, you ill be ell placed to help them in their time o need.
 
@@ -591,7 +591,7 @@ be in to heed the advice am ivin you, let alone ollo it throu h.
 
 . ook at ntonius— ho can the man establish riendships hen he can't even remember anyone's name? an there be anythin sillier than or a candidate to think a person he doesn't kno ill support him? t ould take miraculous ability, reno n, and accomplishments to in over voters ithout takin the time to talk to them. la y scoundrel, un illin to ork or supporters, lackin intelli ence, havin a poor reputation, and possessin no riends cannot possibly beat a man backed by many and admired by all unless somethin oes horribly ron .
 
-. here ore ork to obtain the support o all the voters by makin riends o 
+. here ore ork to obtain the support o all the voters by makin riends o
 
 #### MMER UM PE S
 
@@ -613,7 +613,7 @@ you make the leadin men rom each o these your riends, the rest ill ollo alon . h
 
 Volent te amicum, si suam a te amicitiam expeti videbunt. d ut intelli ant oratione ea quae ad eam rationem pertinet habenda consequere. Homines municipales ac rusti-cani, si nobis nomine noti sunt, in amicitia esse se arbitrantur; si vero etiam praesidi se aliquid sibi constituere putant, non amit-tunt occasionem promerendi. Hos ceteri et maxime tui competitores ne norunt quidem, tu et nosti et acile co nosces, sine quo amicitia esse non potest.
 
-. eque id tamen satis est, tametsi ma num est, sed sequitur spes utilitatis 
+. eque id tamen satis est, tametsi ma num est, sed sequitur spes utilitatis
 
 ## H EE
 
@@ -659,7 +659,7 @@ ill be reatly aided by the act that you are one o them, as lon as you ork to sec
 
 . Since have touched on the subject o ollo ers, let me also say that you must have a ide variety o people around you on a daily basis. Voters ill jud e you on hat sort o cro d you dra both in quality and numbers. he three types o ollo ers are those ho reet you at home, those ho escort you do n to the Forum, and those ho accompany you herever you o.
 
-. s or the rst type, they are the least reliable since many ill make 
+. s or the rst type, they are the least reliable since many ill make
 
 #### MMER UM PE S
 

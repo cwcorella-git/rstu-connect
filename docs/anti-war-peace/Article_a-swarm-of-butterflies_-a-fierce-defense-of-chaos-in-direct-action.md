@@ -10,8 +10,6 @@ tags:
 ---
 
 # A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action
-
-A Swarm of Butterﬂies: A Fierce Defense of Chaos in Di... https://theanarchistlibrary.org/library/curious-george-b...
             Curious George Brigade
             A Swarm of Butterﬂies: A Fierce
             Defense of Chaos in Direct Action

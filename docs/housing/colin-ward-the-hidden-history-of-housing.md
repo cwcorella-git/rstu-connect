@@ -10,17 +10,17 @@ tags:
 
 ### Executive summary
 
- - Up to 1945 ‘plotlanders’ were able to make use of small patches of land not needed for agriculture, gradually building up weekend shacks into permanent residences, by using their own time and labour rather than large sums of money. 
+ - Up to 1945 ‘plotlanders’ were able to make use of small patches of land not needed for agriculture, gradually building up weekend shacks into permanent residences, by using their own time and labour rather than large sums of money.
 
- - Immediately after the Second World War, homeless people in their thousands squatted in recently-vacated military camps, organizing their own communal services. Then, in the 1960s and 1970s, a similar movement erupted across vacant local-authority properties, evolving into long-term housing co-operatives. 
+ - Immediately after the Second World War, homeless people in their thousands squatted in recently-vacated military camps, organizing their own communal services. Then, in the 1960s and 1970s, a similar movement erupted across vacant local-authority properties, evolving into long-term housing co-operatives.
 
- - Today various kinds of travellers are attempting to settle on their own land, living outside the formal economy and experimenting with a wide range of unconventional dwelling types. 
+ - Today various kinds of travellers are attempting to settle on their own land, living outside the formal economy and experimenting with a wide range of unconventional dwelling types.
 
- - This sort of self-help housing provision is flexible, cheap and creative. It tends to use human capital rather than financial capital, and to evolve slowly from the most basic provision by devising ingenious new solutions. 
+ - This sort of self-help housing provision is flexible, cheap and creative. It tends to use human capital rather than financial capital, and to evolve slowly from the most basic provision by devising ingenious new solutions.
 
- - We should allow this to flourish, by restraining government’s impulse to outlaw unconventional behaviour through such legislation as the Criminal Justice Act 1994. 
+ - We should allow this to flourish, by restraining government’s impulse to outlaw unconventional behaviour through such legislation as the Criminal Justice Act 1994.
 
- - In addition, planning authorities should be more sympathetic to experimentation, perhaps even reviving the idea of relaxed planning zones associated with some of the New Towns in the 1960s. 
+ - In addition, planning authorities should be more sympathetic to experimentation, perhaps even reviving the idea of relaxed planning zones associated with some of the New Towns in the 1960s.
 
 ### Introduction
 
@@ -86,7 +86,7 @@ Unofficial settlements are seen as a threat to wildlife, which is sacrosanct. Th
 
 But all these unhappy confrontations are the direct result of public policy. Something has to be done to change it, and the hidden history of twentieth-century housing offers some currently unconventional models.
 
-> 
+>
 
 September 2004
 
@@ -102,12 +102,12 @@ September 2004
 
  - Colin Ward, ‘The early squatters’, in Nick Wates (ed.), *Squatting. The Real Story* (1980).
 
- - Colin Ward, ‘The do it yourself New Town’, in *Talking Houses* (1990) 
+ - Colin Ward, ‘The do it yourself New Town’, in *Talking Houses* (1990)
 
 ### Useful links
 
 Further information on some of the groups active in this area is available from the following websites:
 
- - Chapter 7. The Planning Office of The Land Is Ours: [www.tlio.org.uk](http://www.tlio.org.uk/chapter7/) 
+ - Chapter 7. The Planning Office of The Land Is Ours: [www.tlio.org.uk](http://www.tlio.org.uk/chapter7/)
 
  - Walter Segal Self Build Trust: [www.segalselfbuild.co.uk](http://www.segalselfbuild.co.uk/)

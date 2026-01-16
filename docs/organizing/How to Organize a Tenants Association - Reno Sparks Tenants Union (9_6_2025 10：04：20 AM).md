@@ -21,7 +21,6 @@ How to Organize a Tenants Association - Reno Sparks Tenants Union Skip to conten
     * [Mutual Aid Requests](https://renosparkstenantsunion.org/mutual-aid-requests/)
     * [Upcoming Events](https://renosparkstenantsunion.org/events/)
 
-
 # How to Organize a Tenants Association
 
 August 5, 2025
@@ -37,7 +36,6 @@ The best time to organize a Tenants Association is _before_ you have problems.
   3. How to Get Started Organizing a Tenants Association
   4. More Resources
   5. Here’s How You Can Make a BIG Difference in Only 5 Minutes
-
 
 * * *
 
@@ -66,7 +64,6 @@ As a community, you can effectively:
   * Keep yourself and your neighbors safe
   * Fight gentrification and influence community development
 
-
 * * *
 
 ### **How to Get Started Organizing a Tenants Association**
@@ -77,15 +74,13 @@ As a community, you can effectively:
   4. **Hold your first meeting:** Pick a time and place. This could be a potluck or coffee hour. You may want to rotate times, and make sure to have childcare if needed. Don’t worry if not everyone can make it. Every meeting should have clear objectives. Designate roles: agenda-maker, facilitator, notetaker. Use this as a way to get people invested in the process.
   5. **Take action:** The TA should work to better the homes, lives, and financial situations of its members. Explore strategies together and bring as many people in as possible. Consider escalating pressure: send a collective demands letter, visit the landlord’s office or house, etc. Connect with other buildings whether they already have formed TAs or need help in starting one.
 
-
 * * *
 
 ### **More Resources**
 
-  * Organize and Rise: The Tenants’ Handbook by Madrid Tenants’ Union 
-  * Autonomous Tenants Union Network Resource List:  
-  * _Tenant Union Flatbush: How to Organize a Tenant Association_ : 
-
+  * Organize and Rise: The Tenants’ Handbook by Madrid Tenants’ Union
+  * Autonomous Tenants Union Network Resource List:
+  * _Tenant Union Flatbush: How to Organize a Tenant Association_ :
 
 If you live in Washoe County and need help moving, paying for rent, or other support, [send a request to our Mutual Aid network](https://renosparkstenantsunion.org/mutual-aid-requests/).
 
@@ -96,7 +91,6 @@ If you live in Washoe County and need help moving, paying for rent, or other sup
   1. [Join our mailing list.](https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform)
   2. [Email your legislator](https://nvlcb.maps.arcgis.com/apps/instant/lookup/index.html?appid=0815e77623f04028993e9f3ecc56174e) and tell them you stand with RSTU and NHJA to support affordable housing and tenants’ rights.
   3. Follow and promote our posts on [Instagram](https://www.facebook.com/renosparkstenants/) and [Facebook](https://www.facebook.com/renosparkstenants/) to join the conversation.
-
 
 [Download Zine (Digital Version)](http://renosparkstenantsunion.org/wp-content/uploads/2025/08/RSTU_HowToOrganizeATenantsAssociation_Digital.pdf)
 

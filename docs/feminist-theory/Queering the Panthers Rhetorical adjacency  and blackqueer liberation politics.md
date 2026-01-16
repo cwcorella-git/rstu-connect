@@ -13,7 +13,7 @@ tags:
 | Date: Unknown |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source:
-https://libcom.org/article/queering-panthers-rhetorical-adjacency-and-blackqueer-liberation-politics|
+
 | Tags: United States, LGBTQ+ (Lesbian Gay Bi Trans Queer +), Black Panthers, feminism, gender,
 Gay Liberation Front (US), police, PDF |
 | Lisa Corrigan's article charting the coterminous relationship between the black liberation

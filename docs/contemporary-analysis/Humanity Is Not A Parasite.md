@@ -335,7 +335,7 @@ Under the euphemisms of **and we, and every aspect of nature, become simplified*
 
 **Some may protest that such a society is 8:16 Why think of what we could be when itm envisioning are decentralised but socially and economically interconnected, 9:14 confederating while maintaining the principles of free association for both communities and 9:19 individuals. 9:20 For people to be invested in their society and their environment, we must relearn the 9:24 practice of participation in communal processes. 9:27 Horizontal decision making power, responsibility, and the consequences of such must be equally 9:34 distributed. 9:35 Our role in the ecological community must be significantly transformed, most pressingly 9:40 in the realm of agriculture. 9:42 Vast factory farms and unsustainable industrial monocultures must be phased out for decentralised 9:49 polycultures. 9:51 We must familiarise ourselves with the sensitive subtleties of the land, maintain the health 9:56 of the soil, increase the sustenance of the watershed, and cultivate diversity of the 10:01 flora and fauna specific to the regions we inhabit. 10:05 This can only occur on the human scale. 10:08 When it comes to technology, it is absolutely vital that we shift away from the violent 10:14**
 
-**mining practices occuring around the globe, scale down the** 
+**mining practices occuring around the globe, scale down the**
 
 **wasteful mass production of**
 

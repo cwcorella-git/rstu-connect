@@ -5,7 +5,7 @@ category: "contemporary-analysis"
 
 # **THE BHAGAVAD GITA**
 
-**Translated from the Sanskrit with Introduction and Notes by** 
+**Translated from the Sanskrit with Introduction and Notes by**
 
 ### **B. Srinivasa Murthy**
 
@@ -13,7 +13,7 @@ category: "contemporary-analysis"
 
 # **THE BHAGAVAD GITA**
 
-*Translated from the Sanskrit with introduction and notes by* 
+*Translated from the Sanskrit with introduction and notes by*
 
 ### **B. Srinivasa Murthy**
 
@@ -89,7 +89,7 @@ Faith | 123 |
 
 ## *With deep appreciation and gratitude to:*
 
- *my parents* 
+ *my parents*
 
 ## *Mary Jo Murthy*
 
@@ -135,7 +135,7 @@ B. Srinivasa Murthy January 1991 California State University, Long Beach
 
 The *Bhagavad Gita,* popularly known as the *Gita,* is one of the most important philosophical and religious classics in the world. The *Gita* synthesizes both rational analysis and religious inspiration in answering the fundamental questions of the meaning of life and death. It has inspired the Indian people for centuries, guiding them in their daily struggles and giving them spiritual strength to lead a life of goodness, tolerance and harmony. When faced with existential crises and critical life decisions, one can turn to the words of the *Bhagavad Gita* for direction and consolation. Mahatma Gandhi aptly summarized his indebtedness to this great work: "When disappointment stares me in the face and all alone I see not one ray of light, I go back to the *Bhagavadgita.* I find a verse here and a verse there and I immediately begin to smile in the midst of overwhelming tragedies — and my life has been full of external tragedies — and if they have left no visible, no indelible scar on me, I owe it all to the teachings of the *Bhagavadgita."* 1
 
-The impact of the *Gita's* teachings have been widespread, reaching far beyond the borders of India. As the nuclear physicist, Robert Oppenheimer,2 watched the first stunning explosion of the atom bomb in tests conducted in New Mexico, he remembered the following words of the *Gita:* "If the light of a thousand suns were to blaze all at once in the sky, it would be like the splendor of that great Being" (11.12). The famous German philosopher-humanist, Wilhelm von Humboldt, commented that this classic is "the most beautiful, perhaps the only true philosophical song existing in any known tongue."3 Ralph Waldo Emerson, Henry David Thoreau, T. S. Eliot, Arthur Schopenhauer, Aldous Huxley, and Sir Edwin Arnold were all deeply influenced by the *Gita.* 
+The impact of the *Gita's* teachings have been widespread, reaching far beyond the borders of India. As the nuclear physicist, Robert Oppenheimer,2 watched the first stunning explosion of the atom bomb in tests conducted in New Mexico, he remembered the following words of the *Gita:* "If the light of a thousand suns were to blaze all at once in the sky, it would be like the splendor of that great Being" (11.12). The famous German philosopher-humanist, Wilhelm von Humboldt, commented that this classic is "the most beautiful, perhaps the only true philosophical song existing in any known tongue."3 Ralph Waldo Emerson, Henry David Thoreau, T. S. Eliot, Arthur Schopenhauer, Aldous Huxley, and Sir Edwin Arnold were all deeply influenced by the *Gita.*
 
 The reason why the *Bhagavad Gita* has been so popular in India is due to the fact that it is both an inspirational and practical guide to daily living. The *Gita's* teachings are simple and direct, whereas most of the ancient Indian writings on philosophy and religion, in contrast, are accessible only to scholars. From the deep well of the *Gita,* both scholars and laymen can draw the waters of faith, reason, and natural law, in accordance with their individual needs.
 
@@ -163,7 +163,7 @@ Yudhisthira, caught up in gambling fever, agreed to the bet and lost again. This
 
 After enduring the years of exile and hiding their identities throughout the thirteenth year, the brothers returned to reclaim their kingdom. By that time, Duryodhana had become the ruler and he refused to give up the Pandavas' kingdom. The Pandava brothers were enraged by this injustice and both sides prepared for war.
 
-The *Bhagavad Gita* begins as the two sides face each other in full battle array. Sanjaya, the king's minister, relates to the blind Dhritarashtra all that is taking place on the battle ground. As the two armies are lined up and ready for the first clash of arms on the battlefield of Kurukshetra, Arjuna and his charioteer, Lord Krishna, begin the dialogue which makes up the *Gita.* 
+The *Bhagavad Gita* begins as the two sides face each other in full battle array. Sanjaya, the king's minister, relates to the blind Dhritarashtra all that is taking place on the battle ground. As the two armies are lined up and ready for the first clash of arms on the battlefield of Kurukshetra, Arjuna and his charioteer, Lord Krishna, begin the dialogue which makes up the *Gita.*
 
 Lord Krishna is the most important figure in the *Bhagavad Gita,* for he is God in human form. Although Krishna appears to be Arjuna's charioteer, he is the incarnation of Lord Vishnu, one of the gods in the Hindu trinity. Many mythological legends have been recorded in the *Bhagavata* about Lord Krishna's entry into the world of men and his early life. In the *Gita,* Arjuna represents the typical human being and Krishna, as the Supreme Lord of the universe, teaches Arjuna how to seek perfection and realize the Divine.
 
@@ -173,15 +173,15 @@ The major teachings woven together in the *Bhagavad Gita* have their roots in an
 
 The influence of the Upanishads upon the *Bhagavad Gita* is very significant. In fact, the *Gita* can be classified as a separate Upanishad. A. B. Keith considers the *Gita* to have originally been an Upanishad similar to the *Shvetashvatara Upanishad.*
 
-Even though the *Gita* forms part of the epic *Mahabharata,* its central teachings are more philosophical and religious than the rest of the *Mahabharata.* 
+Even though the *Gita* forms part of the epic *Mahabharata,* its central teachings are more philosophical and religious than the rest of the *Mahabharata.*
 
-The main teachings of the Upanishads, namely, the nature of *Brahman* or *Atman* (the Universal Self or Soul) and *atman* (the individual self or soul), form the basis of the most salient doctrine in the *Gita.* The immortality of the Self, the distinction between the individual self and the absolute Self, the bondage of the self and reincarnation, and the way in which the transcendence of the self can be achieved, all form the life blood of the *Gita.* 
+The main teachings of the Upanishads, namely, the nature of *Brahman* or *Atman* (the Universal Self or Soul) and *atman* (the individual self or soul), form the basis of the most salient doctrine in the *Gita.* The immortality of the Self, the distinction between the individual self and the absolute Self, the bondage of the self and reincarnation, and the way in which the transcendence of the self can be achieved, all form the life blood of the *Gita.*
 
 Frequently, the passages found in the *Gita* have been directly absorbed from the Upanishads. For example, in the *Katha Upanishad* we read: "The Self is not born, It does not die. It has not come from anywhere, nothing has come from It. Unborn, eternal, everlasting, primal, It is not slain when the body is slain" *(Katha Up.* 1.2.18). The *Gita* presents the same idea: "It is never born, nor does It die at anytime; nor, having once been, will It again cease to be. It is unborn, eternal, permanent and primal. It is not slain when the body is slain" (2.20). Again, the *Katha Upanishad* states: "If the slayer thinks he slays and if the slain one thinks he is slain, neither of them understand. The Self slays not, nor can It be slain" *(Katha Up.* 1.2.19). The *Gita* reiterates: "He who understands that this Self is a slayer, and he who understands that It is slain; neither of them have wisdom. The Self neither slays nor is slain" (2.19).
 
 We find innumerable parallels between the *Mundaka,* the *Isa,* and the *Shvetashvatara Upanishads* and the *Bhagavad Gita* on the subjects of ritualism, sacrifice, action and the practice of yoga, as well as the way to Brahman.
 
-The Upanishadic texts form the last part of the Vedas. Vedic concepts have also directly influenced the *Bhagavad. Gita'* s ideas, particularly on the subjects of revealed knowledge, *Purusha* (spirit), *dharma,* and the four castes. The *Gita* contains two remarkable chapters on *Raja Yoga* (mysticism) and *Vibhuti Yoga* (the manifestation of the Divine). The description of Lord Krishna's divine manifestations, found in Chapter 10 of the *Gita,* strongly resembles both the style and content of the description of the Supreme Being found in the *Rig Veda.* 
+The Upanishadic texts form the last part of the Vedas. Vedic concepts have also directly influenced the *Bhagavad. Gita'* s ideas, particularly on the subjects of revealed knowledge, *Purusha* (spirit), *dharma,* and the four castes. The *Gita* contains two remarkable chapters on *Raja Yoga* (mysticism) and *Vibhuti Yoga* (the manifestation of the Divine). The description of Lord Krishna's divine manifestations, found in Chapter 10 of the *Gita,* strongly resembles both the style and content of the description of the Supreme Being found in the *Rig Veda.*
 
 #### **THE SELF**
 
@@ -321,7 +321,7 @@ Even if a man of the most sinful conduct worships Me with singleminded devotion,
 
 In *Bhakti Yoga,* the devotee completely surrenders to God and finds *sharanagati* (final refuge) in Him. Faith, trust and refuge in God are not only a powerful antidote to existential anxiety, but also give comfort and peace in this life and *moksha* (salvation) in the next. The devotee will be released from the cycle of births and deaths, as Lord Krishna has promised: "Whosoever remembers Me alone at the hour of death, when he leaves his body and departs, comes into My state of being — of this there is no doubt" (8.5).
 
-The essential teachings of the *Gita* and the three yogas point the way to perfection and liberation. Each person may choose the path which suits his or her temperament and needs to attain self-realization and freedom from *Samsara.* 
+The essential teachings of the *Gita* and the three yogas point the way to perfection and liberation. Each person may choose the path which suits his or her temperament and needs to attain self-realization and freedom from *Samsara.*
 
 ## **THE**
 
@@ -1574,39 +1574,39 @@ Van Buitenen, J. A. B. *The Bhagavadgita in the Mahabharata*. Chicago: Universit
 
 #### **Comments on the Bhagavad Gita**
 
-*"Murthy's translation captures the profound and timeless message of the GITA. A lucid introduction offers thought-provoking insights on this Indian religious classic."* 
+*"Murthy's translation captures the profound and timeless message of the GITA. A lucid introduction offers thought-provoking insights on this Indian religious classic."*
 
 ## > *-Swami Satyanananda Benares, India*
 
-*"This modern translation of THE BHAGAVAD GITA combines profundity of thought and a clear style of writing. Murthy's introduction provides excellent insights based upon a lifelong study of Indian thought."* 
+*"This modern translation of THE BHAGAVAD GITA combines profundity of thought and a clear style of writing. Murthy's introduction provides excellent insights based upon a lifelong study of Indian thought."*
 
 > *-Damodar R. Sar Desai Professor of History University of California, Los Angeles*
 
-*"The translation of Srinivasa Murthy, like its predecessors, celebrates and pays homage to this great literary and philosophical work. Its use of language is clear and direct, and yet it challenges the reader to enter into the world view of India. … Conceived not from the perspective of an outsider looking in nor from the perspective of an insider seeking to mystify the curious, this book admirably makes accessible a great classic of world literature, in a manner true to the Indian tradition."* 
+*"The translation of Srinivasa Murthy, like its predecessors, celebrates and pays homage to this great literary and philosophical work. Its use of language is clear and direct, and yet it challenges the reader to enter into the world view of India. … Conceived not from the perspective of an outsider looking in nor from the perspective of an insider seeking to mystify the curious, this book admirably makes accessible a great classic of world literature, in a manner true to the Indian tradition."*
 
 > *-Christopher Chapple Professor of Theology Loyola Marymount University*
 
-*"Murthy's translation …. is clear, lucid, concise, and does not compromise on scholarly expectations … I particularly like Chapters 14 - 18 as here Dr. Murthy brings out in splendid clarity the profundity of the moral and ethical teachings of the BHAGAVADGITA."* 
+*"Murthy's translation …. is clear, lucid, concise, and does not compromise on scholarly expectations … I particularly like Chapters 14 - 18 as here Dr. Murthy brings out in splendid clarity the profundity of the moral and ethical teachings of the BHAGAVADGITA."*
 
 > *-Purusottama Bilimoria Visiting Fellow, Institute for the Advanced Study of World Religions State University of New York, Stony Brook*
 
-*"Prof. Murthy's translation of the GITA is wonderful. The prose is resonant, and with his lucid translation, the book will serve equally well in the classroom or as an excellent introduction to GITA and Hinduism for the general public. I most highly recommend this book."* 
+*"Prof. Murthy's translation of the GITA is wonderful. The prose is resonant, and with his lucid translation, the book will serve equally well in the classroom or as an excellent introduction to GITA and Hinduism for the general public. I most highly recommend this book."*
 
 > *-Peter Lowentrout Professor of Religious Studies California State University, Long Beach*
 
-*"This straightforward translation of the GITA, accompanied by an excellent introduction and extensive notes, makes it quite suitable for introductory courses in* *philosophy and religion, and for any reader interested in becoming acquainted with this great classic of India."* 
+*"This straightforward translation of the GITA, accompanied by an excellent introduction and extensive notes, makes it quite suitable for introductory courses in* *philosophy and religion, and for any reader interested in becoming acquainted with this great classic of India."*
 
 > *-Gary L. Baran Professor of Philosophy Los Angeles City College*
 
-*"Srinivasa Murthy's GITA translation is straightforward and elegant. This is precisely the type of translation needed to present the GITA to American undergraduates."* 
+*"Srinivasa Murthy's GITA translation is straightforward and elegant. This is precisely the type of translation needed to present the GITA to American undergraduates."*
 
 > *-Jeffrey Broughton Chairman, Department of Religious Studies California State University, Long Beach*
 
-*"We welcome Professor Murthy's lucid English translation of this Indian classic."* 
+*"We welcome Professor Murthy's lucid English translation of this Indian classic."*
 
-*-Shoryu Kastura Professor of Philosophy Hiroshima University, Japan* 
+*-Shoryu Kastura Professor of Philosophy Hiroshima University, Japan*
 
-*"This translation of the GITA is simple and clear with an excellent introduction, ideal for college students who cannot fully understand the complex Hindu concepts."* 
+*"This translation of the GITA is simple and clear with an excellent introduction, ideal for college students who cannot fully understand the complex Hindu concepts."*
 
 > *-Santosh Kumari N. Desai Professor of Theology St. John's University, Jamaica, New York*
 

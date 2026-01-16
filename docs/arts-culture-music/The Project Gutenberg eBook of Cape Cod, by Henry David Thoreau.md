@@ -1449,7 +1449,4 @@ Project Gutenberg™ e Books are often created from several printed editions, al
 Most people start at our website which has the main PG search facility: [www.gutenberg.org.](https://www.gutenberg.org/)
 
 ## This website includes information about Project
-
-The Project Gutenberg e Book of Cape Cod, by Henry Da... https://www.gutenberg.org/files/34392/34392-h/34392-...
-
 Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new e Books, and how to subscribe to our email newsletter to hear about new e Books.

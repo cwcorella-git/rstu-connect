@@ -72,7 +72,7 @@ Conclusion: For a Radical Right to Housing
 
 We would like to thank the team at Verso for helping us produce this book, and especially Leo Hollis, whose advice and steady encouragement helped us make the text more lucid and readable. We warmly acknowledge the support of the many colleagues and friends who, through close reading or insightful conversation, helped us improve this book. We are grateful to Neil Brenner for giving us input and encouragement. Jenny Robinson provided helpful feedback on an earlier version of this project. Michelle Rosales provided research assistance early in our collaboration. We thank Desiree Fields, Tom Waters, and the participants in the Wohnungsfrage Academy in Berlin, 2015, for reading and discussing versions of these chapters. And we want to acknowledge all of the friends, colleagues, students, and activists who helped us develop these arguments, especially the people involved with the housing and rent control movements in New York, including the Planners Network, the National Lawyers Guild, various organizations of public housing tenants, Picture the Homeless, Community Voices Heard, FUREE, and many other organizations too many to list.
 
-Some parts of this book include material previously published by Peter Marcuse. Chapter two draws on "Residential Alienation, Home Ownership and the Limits of Shelter Policy," *Journal of Sociology and Social Welfare* 3.2 (1975): 181–203. Chapter three includes sections of "The Other Side of Housing: Oppression and Liberation," *Scandinavian Housing and Planning* 
+Some parts of this book include material previously published by Peter Marcuse. Chapter two draws on "Residential Alienation, Home Ownership and the Limits of Shelter Policy," *Journal of Sociology and Social Welfare* 3.2 (1975): 181–203. Chapter three includes sections of "The Other Side of Housing: Oppression and Liberation," *Scandinavian Housing and Planning*
 
 Research 4. Sup1 (1987): 232–70. Chapter four is an updated and rewritten version of "Housing Policy and the Myth of the Benevolent State," pp. 248–63 in Rachel G. Bratt, Chester Hartman, and Ann Meyerson, eds, *Critical Perspectives on Housing* (Philadelphia: Temple University Press, 1986). Chapter five incorporates sections of "Housing Movements in the USA," *Housing, Theory and Society* 16.2 (1999): 67–86.
 
@@ -1625,7 +1625,6 @@ Addressing residential injustice and inequality will demand state action as well
 
 ## Index
 
-
 abandoned buildings, 173–5
  tax on, 202
 Abrams, Charles, 167
@@ -1654,7 +1653,7 @@ alienation, 55
  and inequality, 59
  and landlords, 72–3
  Marx on, 57, 80
-## 
+##
 
 and precarity, 56n, 59
  and private property, 56, 83
@@ -1702,7 +1701,7 @@ capitalism:
  and industrialization, 23
  and policy, 120
  and rent strike, 156
-## 
+##
 
 and urban development, 8
  See also commodification of housing; hyper-commodification; market; profit
@@ -1751,7 +1750,7 @@ democratization, 211–2
 demolition See domicide
 deregulation, 46–50
  action against, 203
-## 
+##
 
 and house prices, 40
  and hyper-commodification, 28–31
@@ -1800,7 +1799,7 @@ eviction, 62–5, 156
  and Giuliani, 180
  and homelessness, 64
  moratorium on, 207
-## 
+##
 
 and NYCHA, 165
  and tenant movement, 170
@@ -1848,7 +1847,7 @@ gender:
  intersectionality, 98–104
  LGBTQ, 100, 210
  paternalism, 128–9
-## 
+##
 
 unpaid domestic labor, 22n, 99–100
  See also women
@@ -1897,7 +1896,7 @@ home:
  and humanization, 111
  ideological significance of, 82
  meaning of, 11–2
-## 
+##
 
 and movements, 111
  and profit, 49
@@ -1947,7 +1946,7 @@ housing:
  as determinant of access to resources, 89
  and dignity, 74
  and experimentation, 208–11
-## 
+##
 
 and globalization, 34–5
  goal of, 191
@@ -1997,7 +1996,7 @@ Hoyt, Homer, 96
 humane housing, 80–3, 114
  and humanization, 111
 Husock, Howard, 46
-## 
+##
 
 Hylan, John, 158
 hyper-commodification, 26–35
@@ -2047,7 +2046,7 @@ insecurity, 67–74
  ontological security, 68–9, 72, 74
 insurrection, 92, 171
  and urban renewal, 92
-## 
+##
 
 intersectionality, 98–104
 investment, 47–8
@@ -2093,7 +2092,7 @@ luxury buildings, 36–9
  and cooperative housing, 116–7
  and de Blasio, 184
  and inequality, 180
-## 
+##
 
 and labor camps, 90
  as low-income housing, 208
@@ -2142,7 +2141,7 @@ mortgage:
  and state, 25
  strikes, 109
  and suburbanization, 134
-## 
+##
 
 and wealthy, 141
 Moses, Robert, 165, 167
@@ -2191,7 +2190,7 @@ neoliberalism, 172–87
 New Deal, 24, 117, 131, 165
 New York:
  and abandonment, 173–5
-## 
+##
 
 and affordable housing, 137–9
  anti-rent movement, 152
@@ -2241,7 +2240,7 @@ Obama, Barack, 74, 96
 obedience:
  and homeownership, 95–8, 125
  and housing, 94
-## 
+##
 
 and public housing, 129–30
 Occupy Our Homes, 183
@@ -2290,7 +2289,7 @@ policy:
  Low-Income Housing Tax Credit, 136–7
  and movements, 120
  myth of benevolent state, 119-21, 126, 128, 140, 144
-## 
+##
 
 myth of meddling state, 140–4
  and private enterprise, 127
@@ -2340,7 +2339,7 @@ Powis, Monsignor John, 72
 precarity, 54–5, 71, 73
  and alienation, 56n, 59
 primitive accumulation, 19
-## 
+##
 
 private enterprise, 127–30
  monopoly of, 204
@@ -2390,7 +2389,7 @@ public housing, 126–30
  beginning of, 126–9
  build one, demolish one, 130
  as conflict resolution, 85
-## 
+##
 
 and deregulation, 46
  disappearance of, 40–1, 172, 185
@@ -2438,7 +2437,7 @@ real estate:
  and housing crisis, 179
  and investment trusts (REITs), 34, 41
  monopoly of, 204
-## 
+##
 
 more important than industry, 27–8
  and oppression, 94
@@ -2488,7 +2487,7 @@ right to housing, 139, 192–5, 217
  and status quo, 195
 Right to the City Alliance, 185, 196, 201, 208, 215
 Right to the City Coalition, 185–6
-## 
+##
 
 Riis, Jacob, 124, 126, 153
 riots:
@@ -2537,7 +2536,7 @@ state:
  and deregulation, 31
  and housing, 141–3
  and inequality, 143–4, 218
-## 
+##
 
 and luxury buildings, 138
  and market, 46–7
@@ -2586,7 +2585,7 @@ Thatcher, Margaret, 96
 Tompkins Square Riot of 1874 (NY), 122
 Tompkins Square Riot of 1988 (NY), 178–9
 Toscano, Alberto, 206
-## 
+##
 
 Tounkara, Assetu, 53
 Tounkara, Mahamadou, 53
@@ -2633,7 +2632,7 @@ wealthy:
  and luxury buildings, 38
  and public subsidies, 141
  and riots in New York, 122
-## 
+##
 
 and taxes, 141
  See also elites; luxury buildings

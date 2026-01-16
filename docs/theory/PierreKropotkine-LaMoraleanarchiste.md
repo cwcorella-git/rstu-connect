@@ -29,9 +29,6 @@ Pierre (Piotr) Alekseïevitch Kropotkine est un anarcho-communiste, géographe e
 **Copyright:** This work is available for countries where copyright is Life+70 and in the USA.
 
 **Note:** Ce livre vous est offert par Feedbooks.
-
-http://www.feedbooks.com
-
 Il est destiné à une utilisation strictement personnelle et ne peut en aucun cas être vendu.
 
 ## Chapitre 1

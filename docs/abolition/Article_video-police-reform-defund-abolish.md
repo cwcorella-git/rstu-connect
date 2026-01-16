@@ -12,7 +12,7 @@ tags:
 
 [VIDEO] Police: Reform? Defund? Abolish? Date: Unknown Source: https://libcom.org/article/video-police-reform-defund-abolish Tags: police
 Should police be reformed, defunded, or abolished?
-https://youtu.be/ik2xZEgoReE
+
 [youtube]ik2xZEgoReE[/youtube]
 I wrote this as a debate between characters with strong/weak points made on both the reform and abolish side. Rather than have a clear winner, I wanted to respond to challenging questions and criticisms.
 My own opinion is that we should abolish the police but that genuine abolition is likely not possible in capitalism.

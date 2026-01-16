@@ -2238,9 +2238,6 @@ Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept 
 Project Gutenberg-tm e Books are often created from several printed editions, all of which are confirmed as Public Domain in the U. S. unless a copyright notice is included. Thus, we do not necessarily keep e Books in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
-
-http://www.gutenberg.org
-
 This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new e Books, and how to subscribe to our email newsletter to hear about new e Books.
 
 ## *The Conquest of Bread, by Peter Kropotkin*

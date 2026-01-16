@@ -31,7 +31,7 @@ Adel Abdel-Kader Trend Green Knowledge Toronto, ON, Canada
 
 Aparajithan Narasimhan AN Design, Habitat Studio Chennai, India
 
-ISBN 978-3-030-58398-9 ISBN 978-3-030-58399-6 (e Book) 
+ISBN 978-3-030-58398-9 ISBN 978-3-030-58399-6 (e Book)
 
 © The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2020
 
@@ -2783,7 +2783,7 @@ BTRC. Beijing Transportation Research Center. 2017. *Beijing transport annual re
 - Zacharias, John, and Desmond Bliek. 2008. Planning and the market in the transformation of Huaqiangbei, Shenzhen. *Journal of Urban Design* 13: 347–362.
 - Zacharias, John, and Ben Ma. 2015. Industrial zone development policy related to real estate and transport outcomes in Shenzhen, China. *Land Use Policy* 47: 382–393.
 - Zacharias, John, and Xuwen Li. 2016. Shifting from metro to sustainable surface modes for short distance travel. *Transportation Research Record* 2541: 38–45. [https://doi.org/10.3141/2541-05.](https://doi.org/10.3141/2541-05)
-- Zacharias, John and Qi Zhao. 2017. Local environmental factors in metro patronage. *Journal of Public Transport* 10: 91–106. 
+- Zacharias, John and Qi Zhao. 2017. Local environmental factors in metro patronage. *Journal of Public Transport* 10: 91–106.
 - Zacharias, John and Qiang Sheng. 2019. Why cycling in 2007 was faster than being driven in 2017 in Tianjin. *[Journal of Traffic and Transportation Engineering](https://doi.org/10.17265/2328-2142/2019.01.001)* 7: 1–12. https://doi.org/10.17265/2328-2142/2019.01.001
 - Zhao, Pengjun. 2014. The impact of the built environment on bicycle commuting: Evidence from Beijing. *Urban Studies* 51: 1019–1037.
 - Zhang, H., S. Shaheen, and X. Chen. 2014. Bicycle evolution in China: From the 1900s to the present. *International Journal of Sustainable Transportation* 8: 317–335.
@@ -3282,7 +3282,6 @@ We invite you, dear reader, to continue to engage in the movement to build socia
 | © The Editor(s) (if applicable) and The Author(s), under exclusive license | 179 |
 | to Springer Nature Switzerland AG 2020 | |
 ## | J. Moore et al. (eds.), Ecocities Now, | |
-
 
 | Concepción, 61, 63, 77 | Economic growth, 104, 176 |
 |---------------------------------------------------|------------------------------------------------|

@@ -15,9 +15,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/arise-ukrainian-comrades-anti-war-direct-actions-russia-and-its-9th-review
-
 **Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, police, Ukraine
 
 More than 100 days of this crazy bloodbath is over. Subversive acts to stop the daily hundreds of corpses on both sides are becoming more and more, although not enough to radically change the situation. Meet the new survey about it. And please support this online media center for humanitarian aid to civilian population orcommunity rebuilding campaignin widely injured city of Kharkiv. To donate you are welcome to jointhis fundraising.

@@ -23,11 +23,10 @@ He was a tough-looking youth of twenty-five or six, with reddish-yellow hair and
 
 Something in his face deeply moved me. It was the face of a man who would commit murder and throw away his life for a friend — the kind efface you would expect in an Anarchist, though as likely as not he was a Communist. There were both candour and ferocity in it; also the pathetic reverence that illiterate people have for their supposed superiors. Obviously he could not make head or tail of the map; obviously he regarded map-reading as a stupendous intellectual feat. I hardly know why, but I have seldom seen anyone — any man, I mean — to whom I have taken such an immediate liking. While they were talking round the table some remark brought it out that I was a foreigner. The Italian raised his head and said quickly:
 
-
 'Italiano?'
 I answered in my bad Spanish: 'No, Inglés. Y tú?'
 'Italiano.'
-## 
+##
 As we went out he stepped across the room and gripped my hand very hard. Queer, the affection you can feel for a stranger! It was as though his spirit and mine had momentarily succeeded in bridging the gulf of language and tradition and meeting in utter intimacy. I hoped he liked me as well as I liked him. But I also knew that to retain my first impression of him I must not see him again; and needless to say I never did see him again. One was always making contacts of that kind in Spain.
 
 I mention this Italian militiaman because he has stuck vividly in my memory. With his shabby uniform and fierce pathetic face he typifies for me the special atmosphere of that time. He is bound up with all my memories of that period of the war — the red flags in Barcelona, the gaunt trains full of shabby soldiers creeping to the front, the grey war-stricken towns farther up the line, the muddy, ice-cold trenches in the mountains.
@@ -355,20 +354,18 @@ The Fascists had brought up a machine-gun now. You could see it spitting like a 
 
 Everyone began cursing and saying why the hell didn't they send us some supports. With a sub-machine-gun or twenty men with clean rifles we could hold this place against a battalion. At this moment Paddy Donovan, who was second-in-command to Benjamin and had been sent back for orders, climbed over the front parapet.
 
-
 'Hi! Come on out of it! All men to retire at once!'
 'What?'
 'Retire! Get out of it!'
 'Why?'
 'Orders. Back to our own lines double-quick.'
-## 
+##
 People were already climbing over the front parapet. Several of them were struggling with a heavy ammunition box. My mind flew to the telescope which I had left leaning against the parapet on the other side of the position. But at this moment I saw that the four Shock Troopers, acting I suppose on some mysterious orders they had received beforehand, had begun running up the communication-trench. It led to the other Fascist position and — if they got there — to certain death. They were disappearing into the darkness. I ran after them, trying to think of the Spanish for 'retire'; finally I shouted, 'Atrás! Atrás!' which perhaps conveyed the right meaning. The Spaniard understood it and brought the others back. Paddy was waiting at the parapet.
-
 
 'Come on, hurry up.'
 'But the telescope!'
 'B — the telescope! Benjamin's waiting outside.'
-## 
+##
 We climbed out. Paddy held the wire aside for me. As soon as we got away from the shelter of the Fascist parapet we were under a devilish fire that seemed to be coming at us from every direction. Part of it, I do not doubt, came from our own side, for everyone was firing all along the line. Whichever way we turned a fresh stream of bullets swept past; we were driven this way and that in the darkness like a flock of sheep. It did not make it any easier that we were dragging a captured box of ammunition — one of those boxes that hold 1750 rounds and weigh about a hundredweight — besides a box of bombs and several Fascist rifles. In a few minutes, although the distance from parapet to parapet was not two hundred yards and most of us knew the ground, we were completely lost. We found ourselves slithering about in a muddy field, knowing nothing except that bullets were coming from both sides. There was no moon to go by, but the sky was growing a little lighter. Our lines lay east of Huesca; I wanted to stay where we were till the first crack of dawn showed us which was east and which was west; but the others were against it. We slithered onwards, changing our direction several times and taking it in turns to haul at the ammunition-box. At last we saw the low flat line of a parapet looming in front of us. It might be ours or it might be the Fascists'; nobody had the dimmest idea which way we were going. Benjamin crawled on his belly through some tall whitish weed till he was about twenty yards from the parapet and tried a challenge. A shout of 'Poum!' answered him. We jumped to our feet, found our way along the parapet, slopped once more through the irrigation ditch — splash-gurgle! — and were in safety.
 
 Kopp was waiting inside the parapet with a few Spaniards. The doctor and the stretchers were gone. It appeared that all the wounded had been got in except Jorge and one of our own men, Hiddlestone by name, who were missing. Kopp was pacing up and down, very pale. Even the fat folds at the back of his neck were pale; he was paying no attention to the bullets that streamed over the low parapet and cracked close to his head. Most of us were squatting behind the parapet for cover. Kopp was muttering. 'Jorge! Cogño! Jorge!' And then in English. 'If Jorge is gone it is terreeble, terreeble!' Jorge was his personal friend and one of his best officers. Suddenly he turned to us and asked for five volunteers, two English and three Spanish, to go and look for the missing men. Moyle and I volunteered with three Spaniards.
@@ -483,9 +480,8 @@ What the devil was happening, who was fighting whom, and who was winning, was at
 
 In our position it was strangely peaceful. The Civil Guards in the Café Moka had drawn down the steel curtains and piled up the café furniture to make a barricade. Later half a dozen of them came on to the roof, opposite to ourselves, and built another barricade of mattresses, over which they hung a Catalan national flag. But it was obvious that they had no wish to start a fight. Kopp had made a definite agreement with them: if they did not fire at us we would not fire at them. He had grown quite friendly with the Civil Guards by this time, and had been to visit them several times in the Café Moka. Naturally they had looted everything drinkable the café possessed, and they made Kopp a present of fifteen bottles of beer. In return Kopp had actually given them one of our rifles to make up for one they had somehow lost on the previous day. Nevertheless, it was a queer feeling sitting on that roof. Sometimes I was merely bored with the whole affair, paid no attention to the hellish noise, and spent hours reading a succession of Penguin Library books which, luckily, I had bought a few days earlier; sometimes I was very conscious of the armed men watching me fifty yards away. It was a little like being in the trenches again; several times I caught myself, from force of habit, speaking of the Civil Guards as 'the Fascists'. There were generally about six of us up there. We placed a man on guard in each of the observatory towers, and the rest of us sat on the lead roof below, where there was no cover except a stone palisade. I was well aware that at any moment the Civil Guards might receive telephone orders to open fire. They had agreed to give us warning before doing so, but there was no certainty that they would keep to their agreement. Only once, however, did trouble look like starting. One of the Civil Guards opposite knelt down and began firing across the barricade. I was on guard in the observatory at the time. I trained my rifle on him and shouted across:
 
-
 'Hi! Don't you shoot at us!'
-## 
+##
 He motioned with his rifle towards the side-street that ran past the bottom of our building. Sure enough, a youth in blue overalls, with a rifle in his hand, was dodging round the corner. Evidently he had just taken a shot at the Civil Guards on the roof.
 
 'I was firing at him. He fired first.' (I believe this was true.) 'We don't want to shoot you. We're only workers, the same as you are.'
@@ -594,7 +590,7 @@ I have tried to write objectively about the Barcelona fighting, though, obviousl
 
 *The instrument for all this lay ready to hand for the Germans and Italians in the shape of the Trotskyist organization known as the P. O. U. M.*
 
-*The P. O. U. M., acting in cooperation with well-known criminal elements, and with certain* 
+*The P. O. U. M., acting in cooperation with well-known criminal elements, and with certain*
 
 *other deluded persons in the Anarchist organizations planned, organized, and led the attack in the rearguard, accurately timed to coincide with the attack on the front at Bilbao, etc., etc.*
 
@@ -644,7 +640,7 @@ The foreign capitalist newspapers, in general, laid the blame for the fighting u
 
 #### **A TROTSKYIST REVOLT**
 
-*. . . This has not been an Anarchist uprising. It is a frustrated putsch of the 'Trotskyist' P. O. U. M., working through their controlled organizations, 'Friends of Durruti' and Libertarian Youth. . . . The tragedy began on Monday afternoon when the Government sent armed police into the Telephone Building, to disarm the workers there, mostly C. N. T. men. Grave irregularities in the service had been a scandal for some time. A large crowd gathered in the Plaza de Cataluña outside, while the C. N. T. men resisted, retreating floor by floor to the top of the building. . . . The incident was very obscure, but word went round that the Government was out against the Anarchists. The streets filled with armed men. . . . By nightfall every workers' centre and Government building was barricaded, and at ten o'clock the first volleys were fired and the first ambulances began ringing their way through the streets. By dawn all Barcelona was under fire. ... As the day wore on and the dead mounted to over a hundred, one could make a guess at what was happening. The Anarchist C. N. T. and Socialist U. G. T. were not technically 'out in the street'. So long as they remained behind the barricades they were merely watchfully waiting, an attitude which included the right to shoot at anything armed in the open street. . . (the) genera] bursts were invariably aggravated by pacos — hidden solitary men, usually Fascists, shooting from roof-tops at nothing in particular, but doing all they could to add to the general panic.. . . By Wednesday evening,* 
+*. . . This has not been an Anarchist uprising. It is a frustrated putsch of the 'Trotskyist' P. O. U. M., working through their controlled organizations, 'Friends of Durruti' and Libertarian Youth. . . . The tragedy began on Monday afternoon when the Government sent armed police into the Telephone Building, to disarm the workers there, mostly C. N. T. men. Grave irregularities in the service had been a scandal for some time. A large crowd gathered in the Plaza de Cataluña outside, while the C. N. T. men resisted, retreating floor by floor to the top of the building. . . . The incident was very obscure, but word went round that the Government was out against the Anarchists. The streets filled with armed men. . . . By nightfall every workers' centre and Government building was barricaded, and at ten o'clock the first volleys were fired and the first ambulances began ringing their way through the streets. By dawn all Barcelona was under fire. ... As the day wore on and the dead mounted to over a hundred, one could make a guess at what was happening. The Anarchist C. N. T. and Socialist U. G. T. were not technically 'out in the street'. So long as they remained behind the barricades they were merely watchfully waiting, an attitude which included the right to shoot at anything armed in the open street. . . (the) genera] bursts were invariably aggravated by pacos — hidden solitary men, usually Fascists, shooting from roof-tops at nothing in particular, but doing all they could to add to the general panic.. . . By Wednesday evening,*
 
 *however, it began to be clear who was behind the revolt. All the walls had been plastered with an inflammatory poster calling for an immediate revolution and for the shooting of Republican and Socialist leaders. It was signed by the 'Friends of Durruti'. On Thursday morning the Anarchists daily denied all knowledge or sympathy with it, but La Batalla, the P. O. U. M. paper, reprinted the document with the highest praise. Barcelona, the first city of Spain, was plunged into bloodshed by agents provocateurs using this subversive organization.*
 
@@ -797,9 +793,8 @@ It was late when I got back to Barcelona, and there were no taxis. It was no use
 
 When I got to the hotel my wife was sitting in the lounge. She got up and came towards me in what struck me as a very unconcerned manner; then she put an arm round my neck and, with a sweet smile for the benefit of the other people in the lounge, hissed in my ear:
 
-
 'Get out!'
-## 
+##
 ## &#x27;What?'
 
 ## &#x27;Get out of here at once!'
@@ -881,11 +876,10 @@ However, I got there in time, and slightly to my surprise I was granted a hearin
 
 However, he heard me patiently, nodded his head a great number of times, and gave a guarded assent to what I said. Yes, it sounded as though there might have been a mistake. Clearly the matter should be looked into. Mañana — I protested. Not mañana! The matter was urgent; Kopp was due at the front already. Again the officer seemed to agree. Then came the question I was dreading:
 
-
 'This Major Kopp — what force was he serving in?'
 The terrible word had to come out: 'In the P. O. U. M. militia.'
 'P. O. U. M.!'
-## 
+##
 I wish I could convey to you the shocked alarm in his voice. You have got to remember how the P. O. U. M. was regarded at that moment. The spy-scare was at its height; probably all good Republicans did believe for a day or two that the P. O. U. M. was a huge spying organization in German pay. To have to say such a thing to an officer in the Popular Army was like going into the Cavalry Club immediately after the Red Letter scare and announcing yourself a Communist. His dark eyes moved obliquely across my face. Another long pause, then he said slowly:
 
 'And you say you were with him at the front. Then you were serving in the P. O. U. M. militia yourself?' 'Yes.'

@@ -333,7 +333,7 @@ The survey was shared via email with the three aforementioned networks of donors
 
 had disproportionately more exposure to organizers and to social movement concepts, data, and strategic thinking than if the survey had been sent to randomly selected donors Because this survey was not disseminated randomly, the survey results are a compilation of the views of these 30 respondents The survey results should not be construed as representative of all donors or of all human rights, social justice, and democracy donors Nevertheless, the survey results are valuable because they increase the breadth of expertise included in this report The survey allowed donors who might otherwise not comment publicly to do so
 
-*In recent years, donors have increasingly funded grant proposals that use terms related to organizing and movements.* 
+*In recent years, donors have increasingly funded grant proposals that use terms related to organizing and movements.*
 
 anonymously And because the responses were collected systematically, trends that might otherwise be invisible became visible
 
@@ -457,7 +457,7 @@ When support for these two sets of activities came into conict with each other, 
 
 This meant that despite Laurence Simon's departure,AJWS would continue to fund local, grassroots projects and organizations
 
-In 1998, Ruth Messinger left a career in New York City politics to become president of AJWS Over 18 years, she drove AJWS's growth, expanding the annual budget from \$2 million to nearly \$70 million (USDT–IRS 1998; USDT–IRS 2016 This was *"[D]irect experience has to radicalize you—not in an irresponsible way, but it has to give you the sense of urgency...."* 
+In 1998, Ruth Messinger left a career in New York City politics to become president of AJWS Over 18 years, she drove AJWS's growth, expanding the annual budget from \$2 million to nearly \$70 million (USDT–IRS 1998; USDT–IRS 2016 This was *"[D]irect experience has to radicalize you—not in an irresponsible way, but it has to give you the sense of urgency...."*
 
 ## —Laurence Simon spurred in large part by inuxes in donations immediately after natural disasters 22 But unlike many other international relief and development organizations, AJWS grants were commonly under \$30,000, which made it a better match for smaller, local rather than larger, national grantees—the latter of which preferred and could more easily absorb six- and seven-gure grants 23 AJWS's commitment to supporting local initiatives for long-term development meant that its New York and in-country staand consultants had institutionalized incentives to develop longterm relationships with grantees in aected areas (Gaynor 2019, 208) 24 This facilitated their ability to steward inuxes of funding in ways that responded to evolving local needs 25 This growth aligned with Simon's original vision that AJWS support international relief and long-term development eorts despite the fact that his role in the organization's founding went largely unrecognized during this period
 
@@ -691,7 +691,7 @@ Movements may operate outside of formal political institutions, but they do not 
 
 individuals—some of which undertake institutional activities that complement the work of organizers and movements Donors who are willing to support the work of organizers and movements but who are unable to support them directly can consider supporting more traditional NGOs or individuals in the movement ecosystem In short, "Not every foundation needs to support the 'rebels'" (Mahomed, Hopstein, and Krämer 2020) Some foundations can support traditional NGOs that shape the broader political environment such that it is more conducive to the work of organizers and movements
 
-*"Not every foundation needs to support the 'rebels.'"* 
+*"Not every foundation needs to support the 'rebels.'"*
 
 ## —Mahomed, Hopstein, and Krämer
 
@@ -737,7 +737,7 @@ Foreign support has mixed and sometimes countervailing eects on the characterist
 
 Negative eects of foreign support include undermining movement legitimacy, decreasing participation levels, and increasing the risk of repression 56 For example, movement leaders may redirect precious time from movement building at home toward communicating and networking with donors in New York, San Francisco, or Washington, and completing grant applications, reports, and evaluations One movement leader went so far as to say,"Whenever we [are given] nancial resources it seems we are less resourceful When we had zero money, our organization was growing It is such an interesting challenge" (Winig and
 
-*Foreign support is always secondary to domestic support when it comes to social movement success.* 
+*Foreign support is always secondary to domestic support when it comes to social movement success.*
 
 Ganz 2017) An increased focus on an international donor audience may decrease leaders' connection to and visibility with their constituents at home Legitimacy and credibility at home are necessary for mobilizing large numbers of diverse participants And research has shown
 
@@ -2169,7 +2169,7 @@ and
 social
 movements? |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 
+|
 16 Are
 there
 any
@@ -2199,7 +2199,7 @@ conversation?
 If
 yes,
 please
-email
+
  |
 ## | |
 
@@ -2651,7 +2651,7 @@ Thank You!
 
 **Whitman,** Gordon. "Never a Proposal: How Herb Sandler Gave Nonprots the Support They Needed Most." Inside Philanthropy, June 10, 2019.
 
-**http://www.sandlerfoundation.org/wp-content/uploads/Never-a-Proposal\_How -Herb-Sandler-Gave-Nonprots-the -Support-They-Needed-Most\_Inside** 
+**http://www.sandlerfoundation.org/wp-content/uploads/Never-a-Proposal\_How -Herb-Sandler-Gave-Nonprots-the -Support-They-Needed-Most\_Inside**
 
 **-Philanthropy\_061019.pdf**.
 
@@ -2719,7 +2719,7 @@ by Qamar Jafri, 2021 (Urdu translation also available)
 
 **How to Win Well: Civil Resistance Breakthroughs and the Path to Democracy** by Jonathan Pinckney, 2021
 
-**Preventing Mass Atrocities: From a Responsibility to Protect (RtoP) to a Right to Assist (RtoA)** 
+**Preventing Mass Atrocities: From a Responsibility to Protect (RtoP) to a Right to Assist (RtoA)**
 
 ## **Campaigns of Civil Resistance**
 

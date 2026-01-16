@@ -21,10 +21,9 @@ First edition 1998 Second (Internet) edition 2000 Third (Internet) edition 2002 
 
 *Getting Free* is available on the web at:  It is mirror posted at:
 
+A Portuguese translation of the second Internet edition is available at:
 
-A Portuguese translation of the second Internet edition is available at: 
-
-> A Spanish translation of this edition, in preparation, will be available at: 
+> A Spanish translation of this edition, in preparation, will be available at:
 
 The first edition was translated into Farsi by Payman Piedar and published in three installments in the Persian journal of anarcho-communism, *Nakhdar,* issues #2 (2001), #3 (2003), and #4 (2005), P. O. Box 380473, Cambridge, Massachusetts 02139.
 

@@ -127,7 +127,6 @@ Concentration of Slaves on the Great Plantations [35]
 
 Chapter 4 – ABOLITIONISM: THE PRIMARY PHASE, 1850-1871 [37]
 
-
 The Slave in Literature [38]
  Reform and Abolition [39]
  International Pressure [40]
@@ -160,7 +159,7 @@ SEXAGENARIANS [75]
 Chapter 9 – ANONYMOUS HEROES,THE PROTESTS OF THE
 ENSLAVED,AND ABOLITION [109]
  The Caifazes [109]
-## 
+##
 ## Masters and Slaves [110]
 
 ## The Slave and Abolitionism [112]

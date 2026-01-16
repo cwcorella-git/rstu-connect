@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/support-striking-university-workers-and-build-worker-student-solidarity
-
 **Tags:** Industrial Workers of the World (IWW), education, strikes, United Kingdom, universities, UCU,
 
 ## PDF

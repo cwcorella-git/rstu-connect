@@ -405,5 +405,3 @@ Bayan, "Gain Strength in an All-Round Way in Engaging the Duterte Regime," \*Ang
 [75] I thank Adrienne Cacatian alerting me of this reversal taken fromthe H. G. Wells short story "The Country of the Blind" (1904).
 
 Taken from Muntjac Magazine and Bandilang Itim.
-
-https://muntjacmag.noblogs.org/post/2025/05/02/rebel-peripheries/

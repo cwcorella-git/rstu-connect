@@ -35,7 +35,6 @@ On the individual level, alienation is said to occur when there is a clash betwe
 
 ### Bibliography
 
-
 Geyer, Felix, ed. *Alienation, Ethnicity, and Postmodernism.* London and Westport, Conn.: Greenwood Press, 1996.
 
 Ollman, Bertell. *Alienation: Marx’s Conception of Man in Capitalist Society.* Cambridge, U.K., and New York: Cambridge University Press, 1976.

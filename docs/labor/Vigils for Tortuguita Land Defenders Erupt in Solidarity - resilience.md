@@ -67,9 +67,6 @@ Watch this 2022 Al Jazeera special to learn more about The Battle Over Cop City:
 Teaser photo credit: Released into the publi domain.
 
 ## ![](_page_24_Picture_6.jpeg)
-
-Vigils for Tortuguita: Land Defenders Erupt in Solidarity... https://www.resilience.org/stories/2023-01-24/vigils-for-...
-
 ## ![](_page_25_Picture_2.jpeg)
 
 By [Kurt Cobb,](https://www.resilience.org/resilience-author/kurt-cobb/) [Resource Insights](http://resourceinsights.blogspot.com/2024/03/why-dont-humans-respond-to-extinction.html)

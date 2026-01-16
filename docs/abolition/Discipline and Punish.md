@@ -586,7 +586,7 @@ It may be that war as strategy is a continuation of politics. But it must not be
 
 ## ![](_page_115_Picture_2.jpeg)
 
-7. Bedtime at the reformatory of Mettray. Cf. $\underline{p.~??}$ 
+7. Bedtime at the reformatory of Mettray. Cf. $\underline{p.~??}$
 
 ## ![](_page_116_Picture_2.jpeg)
 

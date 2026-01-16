@@ -21,7 +21,7 @@ Mari J. Matsuda, Liberal Jurisprudence and Abstracted Visions of Human Nature: A
 
 Available at: https://digitalrepository.unm.edu/nmlr/vol16/iss3/18
 
-This Article is brought to you for free and open access by The University of New Mexico School of Law. For more information, please visit the New Mexico Law Review website: [www.lawschool.unm.edu/nmlr](http://www.lawschool.unm.edu/nmlr) 
+This Article is brought to you for free and open access by The University of New Mexico School of Law. For more information, please visit the New Mexico Law Review website: [www.lawschool.unm.edu/nmlr](http://www.lawschool.unm.edu/nmlr)
 
 # VISIONS OF HUMAN NATURE: A FEMINIST CRITIQUE OF RAWLS' THEORY OF JUSTICE
 

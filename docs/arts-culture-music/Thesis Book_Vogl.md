@@ -1579,9 +1579,6 @@ Equipment for Buildings . Wiley.
 Hicks, D., Holden, C. (2007 ). Remembering the future: what do children think?. Environmental Education Research, 13(4), 501-512.
 
 Irwin, N. (2016, May 15). What was the greatest era for innovation? A brief guided tour. The New York Times. Retrieved December 14, 2021, from greatest-era-for-american-innovation-a-brief-guided-tour.html.
-
-https://www.nytimes.com/2016/05/15/upshot/what-was-the-
-
 Frontier. (n.d.). Retrieved December 15, 2021, from https://oceanixcity.
 
 Leading the next frontier for human habitation. Oceanix Humanity 's Nex t com/

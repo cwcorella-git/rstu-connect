@@ -23,7 +23,4 @@ This advice draws from two sources:
 - 2. Real life examples of successful mass movements and organizing campaigns
 
 This video is an episode of the Aktion Show, a weekly livestream about praxis and direct action, but includes a brief intro and outro that was not part of the show. Skip to 4:03 for the main presentation.
-
-https://youtu.be/VsN\_IMFa0tE
-
 ## [youtube]VsN\_IMFa0tE[/youtube]

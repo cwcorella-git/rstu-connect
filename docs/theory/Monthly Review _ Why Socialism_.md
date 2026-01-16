@@ -87,7 +87,7 @@ Clarity about the aims and problems of socialism is of greatest signicance in ou
 
 [Inconvenient Truths about 'Real Existing' Zionism](https://monthlyreview.org/2009/05/01/inconvenient-truths-about-real-existing-zionism/)
 
-[Marxism, the United States, and the Twentieth-Century](https://monthlyreview.org/2009/05/01/marxism-the-united-states-and-the-twentieth-century/) 
+[Marxism, the United States, and the Twentieth-Century](https://monthlyreview.org/2009/05/01/marxism-the-united-states-and-the-twentieth-century/)
 
 ## Also in this issue
 

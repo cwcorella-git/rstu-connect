@@ -6,9 +6,6 @@ category: "contemporary-analysis"
 # **Episode 39: The Religion Of No Religion/**
 
 #### **Source:**
-
-https://www.meaningcrisis.co/ep-39-awakening-from-the-meaning-crisis-the-religion-of-no-religion/
-
 Welcome back to Awakening from the Meaning Crisis.
 
 So last time, I was making a proposal to you of how we could address the perennial problems. And I gave you a systematic set of things that could be cultivated in an integrated fashion for addressing perennial problems. And then we saw how that interacts with our attempts to ameliorate and alleviate the perennial problems, interact with the historical forces, and that we get the fundamental undermining of meaning in life and that problem set by Wolf. And then I proposed to you that there was a response to that in terms of the notion of agape and then I moved into the direct addressing of the historical forces looking about for recovery of something like what the three orders did for us.

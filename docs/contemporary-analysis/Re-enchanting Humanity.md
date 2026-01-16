@@ -2223,7 +2223,6 @@ If this should happen at some time in the future, antihumanists will have contri
  - [\[62\]](#page-44-1) Ibid., p. 262.
  - [\[63\]](#page-44-2) James Lovelock, The Ages of Gaia: A Biography of Our Living Planet (New York: Bantam
 
-
 Books, 1988). On human beings as 'intelligent fleas', see p. 155.
  [64] Ibid., p. 19.
  [65] Ibid., p. 40, emphasis added.
@@ -2285,7 +2284,7 @@ Peace and War (New York: Penguin Books, 1947)
  [111] Ibid., pp. 281–2.
  [112] Ibid., p. 48.
  [113] Ibid., p. 211.
-## 
+##
 [\[114\]](#page-62-1) Garrett Hardin, Biology: Its Human Implications (1949), as cited in Allan Chase, The Legacy of Malthus: The Social Costs of the New Scientific Racism (1975; Urbana, Chicago, and London: University of Illinois Press, 1980).
 
 [\[115\]](#page-62-2) Ibid., p. 372.
@@ -2602,9 +2601,8 @@ Columbia University Press, 1990), p. 46.
 
 [\[283\]](#page-159-2) Jean Baudrillard, Forget Foucault (New York: Semiotext[e], 1987), p. 58, emphasis added. [\[284\]](#page-159-3) Jean Baudrillard: 'On Nihilism:', On the Beach, no. 6 (Spring 1984); cited in Douglas Kellner, fean Baudrillard: From Marxism to Postmodernism and Beyond (Stanford: Stanford
 
-
 University Press, 1989), pp. 118, 119.
-## 
+##
 [\[287\]](#page-160-0) Hence I do not use the words sociology or psychology as more than theoretical speculations. Like philosophy, they clearly have a place in the development of knowledge, but sciences they definitely are not. My respect for theoretical speculation, which also occurs in the 'hard sciences', is immense and I would not want to deflate its importance. What is disquieting, however, is the pretension that social theorizing can produce the kind of compelling laws that physicists and chemists formulate. Doubtless sociometrics, like Emile Durkheim's study of suicide, closely resembles a scientific endeavor and occupies a gray zone between the natural sciences and social theories. But the more sweeping claims to certainty made by so-called 'social scientists', such as Karl Mannheim or Talcott Parsons, are actually a form of speculative theoretics that cannot claim to have the kind of rigor demanded of a physicist.
 
 [\[288\]](#page-161-0) Thomas S. Kuhn, The Structure of Scientific Revolutions (Chicago: University of Chicago

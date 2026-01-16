@@ -4547,7 +4547,6 @@ Ki-Woo hurriedly switches his phone to silence mode. Ki-Tek and Ki-Jung do the s
 
 ## Da-Hae's text messages crowd Ki-Woo's screen --
 
-
 / SMH Da-Song's crazy raindance
 / I hate my brother
 / Totes saw this coming. Started losing his shit at camp
@@ -4558,7 +4557,7 @@ Ki-Woo hurriedly switches his phone to silence mode. Ki-Tek and Ki-Jung do the s
 / No
 / Why noooooooot
 / I'm with you right now
-## 
+##
 Da-Hae continues to exchange cringe-inducing love texts with Ki-Woo as she plops down on the sofa.
 
 Ki-Tek, Ki-Woo, and Ki-Jung nearly shriek when Da-Hae's wriggly feet come within inches of their faces.

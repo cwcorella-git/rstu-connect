@@ -528,7 +528,7 @@ Setting: Arsenal (offshore plant near New York Harbor)
 
 ## Play time: 5–6 hours
 
-Objectives: Infiltrate offshore plant $\rightarrow$ Rescue the President $\rightarrow$ Encounter Vamp & Snake $\rightarrow$ 
+Objectives: Infiltrate offshore plant $\rightarrow$ Rescue the President $\rightarrow$ Encounter Vamp & Snake $\rightarrow$
 
 Contact security guard → Defuse C4s → Deactivate PAL → Destroy AI (Washington) → Destroy Metal Gear RAY → Arsenal's rampage → Defeat
 
@@ -1285,10 +1285,9 @@ The amphibious Metal Gear RAY (boss battle – Aircraft Carrier Chapter[21])
 
 # The evil
 
-
-Evil Patriots > Solidus > 
+Evil Patriots > Solidus >
 Ocelot > The Terrorists Good
-## 
+##
 ### 1) The Patriots
 
 21 See 5.

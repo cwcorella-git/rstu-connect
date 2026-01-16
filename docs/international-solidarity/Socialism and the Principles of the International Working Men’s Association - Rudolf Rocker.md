@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/socialism-and-principles-international-working-mens-association-rudolf-rocker
-
 **Tags:** Rudolf Rocker, International Workers' Association (IWA), state socialism, syndicalism
 
 An article by Rudolf Rocker about what he sees as the bankruptcy of the socialist and Communist parties and the revolutionary syndicalist International Working Men's Association (IWMA, now IWA) as the only real alternative for a liberatory future in the face of fascism. Originally appeared in Vanguard(Vol. 1, No. 8, May-June 1933)

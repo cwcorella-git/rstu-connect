@@ -89,9 +89,6 @@ As for organising outside of the workplace, I don't think everyone on these foru
 It seems safe to assume that what Bookchin (correct me if I'm wrong), Ocalan, Mr. Owens and fellow travelers have done is push this 'libertarian municipalist' model forward, imagined an ideal fighting 'community', abstracted away class struggle, in the name of having a greater concern for all other, neglected social concerns and ended with something that in practice, is totally incapable of addressing not only class but all other social oppressions (racism, sexism, etc.). And it makes sense why it was the chosen ideology of Ocalan, for even if Bookchin still had thought class struggle was important, his model pointed to these terrible conclusions.
 
 ## ![](_page_9_Figure_2.jpeg)
-
-http://libcom.org/forums/thought/syndicalism-vs-libertarian-municipalismandhttp://libcom.org/forums/thought/libertarian-municipalism
-
 And whilst I have my disagreements with Wayne Price's understanding of marxism and his views on 'national liberation' amongst others, he still makes some valid points in this critique:www.anarkismo.net/article/28832
 
 ## ■■

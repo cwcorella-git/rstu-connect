@@ -20,7 +20,6 @@ Upcoming Events - Reno Sparks Tenants Union Skip to content
     * [Mutual Aid Requests](https://renosparkstenantsunion.org/mutual-aid-requests/)
     * [Upcoming Events](https://renosparkstenantsunion.org/events/)
 
-
 # Upcoming Events
 
 * * *
@@ -33,15 +32,15 @@ RSVPing helps give us an accurate count of interest to best plan the event. Than
 
 First Name *
 
-Last Name 
+Last Name
 
 Email *
 
-Phone 
+Phone
 
-I would like to subscribe to the RSTU newsletter. 
+I would like to subscribe to the RSTU newsletter.
 
-If you are a human seeing this field, please leave it empty. 
+If you are a human seeing this field, please leave it empty.
 
 © 2025 Reno Sparks Tenants Union · [Contact Us](https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform)
 

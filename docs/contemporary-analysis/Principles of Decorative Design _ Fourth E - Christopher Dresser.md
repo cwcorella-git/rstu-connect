@@ -38,7 +38,7 @@ from page images generously made available by
 
 Note: Images of the original pages are available through Internet
 
-Archive. See 
+Archive. See
 
 Transcriber's Notes:
 
@@ -2013,9 +2013,8 @@ As I am writing for the working man, as well as for others, will he pardon me re
 
 In taking leave of my reader, let me say that if I personally can aid him in any way, I shall be glad to do so. If any who really seek knowledge of decorative design, and are hard workers, choose to send me designs for criticism or comment, or desire any other aid that I can give them, I shall be happy to do what little I can for them. My address will be found at the end of the Preface.
 
-
 FOOTNOTES:
-## 
+##
 [\[29\]](#page-252-1) See chapters on glass and earthenware.
 
 #### INDEX.
@@ -2050,7 +2049,6 @@ Black, a Neutral in Decorative Work, 45.
 
 ## Buhl-work, 64.
 
-
 Buildings, Decoration of, 73, et seq.
 Byzantine Ornament, 11.
 Cabinet, Construction of a, 61.
@@ -2070,7 +2068,7 @@ Chair-coverings, 72.
 Chairs, Construction of, 52-57.
 Character of the Designer shown by his Work, 163.
 Chinese Enamels, 143.
-## 
+##
 
 Chinese Harmony of Colour, 48.
 Chinese Ornament, 11.
@@ -2091,7 +2089,7 @@ Colour-top, the, 48, and note.
 Copper Vessels Inlaid with Silver, 142.
 Cornices, Colouring of, 93.
 Couches, 57, et seq.
-## 
+##
 Curtain Materials, 107, et seq.
 
 Curves, most Beautiful when most Subtle, 23.
@@ -2134,10 +2132,9 @@ Truthful Construction of, 59, 65, et seq. ; Proportion and Enrichment of, 61,
 
 63.
 
-
 Glass, as a Material for Art-purposes, 118, 127, et seq. ; Vessels, Various,
 130, et seq. ; Vessels, Coloured, 131, 132;
-## 
+##
 ## Cutting of, 132;
 
 Engraving of, 133; Ornamentation of, 133;
@@ -2172,9 +2169,8 @@ Harmony of Colour. See Colour.
 
 Historical Inquiry Necessary to the Understanding of Decoration,
 
-
 4.
-## 
+##
 ## Humour in Ornament, 24-29;
 
 Chinese and Japanese, 25, 27, 28.
@@ -2209,9 +2205,8 @@ Iron-work, Ornamental, 147, et seq. ; must Manifest a True Constructive Principl
 
 Japan, Deterioration in the Art-works of, 161.
 
-
 Japanese Art, 11.
-## 
+##
 ## Japanese Colouring, 48.
 
 ## Japanese Earthenware, 120.
@@ -2282,7 +2277,6 @@ Preface, v., vi.
 
 Pretence in Art-decoration, 157-159.
 
-
 Proportion must be Subtle, 23.
 Purpose, Adaptation to, Taught by Plants, 21.
 Renaissance Ornament, 13.
@@ -2301,10 +2295,10 @@ Study of Art-decoration, how it should be carried on, 14, 160, 161,
 162.
 Styles of Architecture, 73.
 Sugar-basin, its Form, 138.
-## 
+##
 
 Surface Decoration, 73, et seq.
-## 
+##
 ## Symbols in Christian Art, 12.
 
 Table-covers, The Borders of, 109, 111.

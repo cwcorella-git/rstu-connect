@@ -53,7 +53,6 @@ I mean, I'm broadly agreed on that, although I think that the 2006 and 2011 exam
 
 and generally speaking I think school student walkouts are perhaps an under-theorised method of struggle at the moment. Having said that, I think that if we allow that school student strikes do at least count as strikes of some kind, then we are once again at a moment where widespread walkouts are/have been taking place in one sector, and those involved are making a conscious attempt to generalise and broaden their struggle.
 Not exactly theorised, but did this quick blog on school walkouts last year:
-https://libcom.org/blog/cutting-class-communism-school-strikes-april-20th-17022018
 
 ## R Totale
 
@@ -198,7 +197,7 @@ Here is Glaberman's paragraph immediately before the one I quoted:
 ## Glaberman
 
 However, there are also other elements. People tend to view workers as victims. They are exploited, they are 'alienated, they have 36 second jobs, etc. I talked to workers on a' wildcat strike at a Chrysler stamping plant about 15 miles outside of Detroit a few years ago. It was the first day of the strike and there were a few guys on the picket line-you don't really need a great effort to shut a plant down in the Detroit area. This was a stamping plant making parts for various Chrysler cars. What the workers were saying was, if we're out one day, Chrysler Jefferson, Dodge Main, and the Plymouth plant in Detroit shut down. If we're down two days, Windsor, Ontario, shuts down. If we're down three days, St. Louis, Missouri, shuts down, and so on. One of the realities of working class existence is not simply victimization, but power, and an awareness of that power when it seems to be appropriate, or when the possibility opens up.Not all workers have that power. In a plant making trim with 16 other plants making the same kind of trim, workers can go out for six months without being noticed. But in a crucial kind of plant, or on a railroad, or if the auto industry is shut down, or the steel industry, or some other industry, workers become aware of a social reality which is different than what is available to middle class radicals or anyone else.
-https://libcom.org/library/working-class-social-change-martin-glaberman
+
 He is not just counterposing workers and students, he is counterposing workers in single points of manufacturing and logistics failure that can disrupt entire sections of the economy, vs. all other workersincluding manufacturing workers in a 'non-crucial' plant.
 (to be clear, I love this piece by Glaberman, I just think he overstates the case in this bit, because he's ignoring all tactics except the withdrawal of labour). Also he's not wrong that
 workers in key logistics/manufacturing have more power, but what methods are available to workers without that structural power - more than Glaberman allows for.

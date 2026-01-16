@@ -54,20 +54,10 @@ James Petras, The Power of Israel in the United States
 ## Angry Arab News Service
 
 ## The Web Site of As'ad Abukhalil
-
-http://www.angryarab.blogspot.com/
-
 ## Electronic Intifada
 
-
 ## Uruknet.info
-
-http://www.uruknet.info/?p=-6">p=-6"/>
-
 ## New England Committee to Defend Palestine
-
-http://www.onepalestine.org/>
-
 ## 2 of 3 9/17/25, 11:29 AM
 
 - [\[1\]](#page-0-0) William Bowles, "The Final Solution is a No-State Solution," on the web at:

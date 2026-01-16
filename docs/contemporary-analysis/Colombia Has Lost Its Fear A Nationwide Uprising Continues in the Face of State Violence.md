@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/colombia-has-lost-its-fear-nationwide-uprising-continues-face-state-violence
-
 **Tags:** Crimeth Inc., general strikes, social movements, Colombia, Medios Libres Cali
 
 After decades of armed conflict and paramilitary violence, Colombia has seen protest movements return in strength over the past year and a half. The forceful demonstrations of the past week exceed even the high points of the nationwide uprising of November and December 2019. In response, the most heavily armed government in Latin America has carried out a brutal crackdown. This article was first published by Crimethinc.

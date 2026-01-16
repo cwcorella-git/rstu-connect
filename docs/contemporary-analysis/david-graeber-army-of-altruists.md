@@ -7,13 +7,13 @@ tags:
   - Graeber
 ---
 
-> 
+>
 
 You know, education, if you make the most of it, you study hard, you do your homework and you make an effort to be smart, you can do well. If you don’t, you get stuck in Iraq.
 
 John Kerry (D-Mass.)
 
-> 
+>
 
 Kerry owes an apology to the many thousands of Americans serving in Iraq, who answered their country’s call because they are patriots and not because of any deficiencies in their education.
 

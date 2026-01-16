@@ -510,13 +510,7 @@ Second, I hope I've convinced you that the history of inequality is not a long, 
 - ——. *Capital and Ideology*. Translated by Arthur Goldhammer. Cambridge, Mass.: The Belknap Press of Harvard University Press, 2020.
 
 ### **World Inequality Database:**
-
-https://wid.world/
-
 ### **Lecture Materials:**
-
-http://piketty.pse.ens.fr/files/Piketty2022SE.pdf
-
 ### CREDITS
 
 ## ![](_page_69_Picture_1.jpeg)

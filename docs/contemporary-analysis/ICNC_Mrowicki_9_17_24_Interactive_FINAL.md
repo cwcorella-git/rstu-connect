@@ -773,7 +773,7 @@ In Poznań's Old Market Square, around 1,500 demonstrators chanted that they wou
 
 #### Box 2. Judge 16 Recalls the 2017 Resistance
 
-**A breakthrough came in 2017 and an attempt to take over the Supreme Court. Three acts were intended to take over the judiciary. This awakened a wide social mass—we decided that we must reach proportionally for more tools to block it. This required taking another step forward. I knew that you had to go out into the streets, but the judges stood aside, a little further, so as not to show themselves, they did not speak because it was a time when politicians were still pushing their way. It was also the case that we agreed with citizens in Gorzów, that we divide the demonstration into two parts—there are 20 minutes for lawyers, and in the second part, when politicians, we leave aside. The change was big, because I remember that there were 20-30 judges in front of the courts, 50-60 in Gorzów itself. Judges and their families came. There were also lawyers, prosecutors and court employees.** 
+**A breakthrough came in 2017 and an attempt to take over the Supreme Court. Three acts were intended to take over the judiciary. This awakened a wide social mass—we decided that we must reach proportionally for more tools to block it. This required taking another step forward. I knew that you had to go out into the streets, but the judges stood aside, a little further, so as not to show themselves, they did not speak because it was a time when politicians were still pushing their way. It was also the case that we agreed with citizens in Gorzów, that we divide the demonstration into two parts—there are 20 minutes for lawyers, and in the second part, when politicians, we leave aside. The change was big, because I remember that there were 20-30 judges in front of the courts, 50-60 in Gorzów itself. Judges and their families came. There were also lawyers, prosecutors and court employees.**
 
 **The nature of the chains of light (invented by judge Bartłomiej Przymusiński)—they were sublime in character—everyone could join.**
 
@@ -2549,42 +2549,41 @@ demic | |
 
 **European** Court of Human Rights. "Communication in the case of Biliński v. Poland (no. 13278/20)."
 
-
-––––– "Communication in the case of Brodowiak and Dżus v. Poland (nos. 28122/20 and 
+––––– "Communication in the case of Brodowiak and Dżus v. Poland (nos. 28122/20 and
 48599/20)."
-––––– "Communication in the case of Pionka 
+––––– "Communication in the case of Pionka
 v. Poland (no. 26004/20)."
-––––– "Communication in the case of Tuleya 
+––––– "Communication in the case of Tuleya
 v. Poland (no. 21181/19)."
-––––– "Judgment of 26 April 1995, Prager and 
+––––– "Judgment of 26 April 1995, Prager and
 Oberschlick v. Austria, no. 15974/90."
-––––– "Judgment of 26 February 2009, 
+––––– "Judgment of 26 February 2009,
 Kudeshkina v. Russia, no. 29492/05."
-––––– "Judgment of 27 May 2014, Baka v. 
+––––– "Judgment of 27 May 2014, Baka v.
 Hungary, no. 20261/12."
-––––– "Judgment of 28 October 1999, Wille v. 
+––––– "Judgment of 28 October 1999, Wille v.
 Liechtenstein, no. 28396/95."
-––––– "Judgment of 29 June 2021, Broda and 
+––––– "Judgment of 29 June 2021, Broda and
 Bojara v. Poland, nos. 26691/18 and 27367/18."
-––––– "Judgment of 15 March 2022, Grzęda v. 
+––––– "Judgment of 15 March 2022, Grzęda v.
 Poland [GC], 43572/18."
-––––– "Judgment of 16 June 2022, Żurek v. 
+––––– "Judgment of 16 June 2022, Żurek v.
 Poland, no. 39650/18."
-––––– "Judgment of 22 July 2021, Reczkowicz 
-and Others v. Poland nos. 43447/19, 49868/19 
+––––– "Judgment of 22 July 2021, Reczkowicz
+and Others v. Poland nos. 43447/19, 49868/19
 and 57511/19."
 ––––– "Judgment of 3 February 2022, Advance Pharma sp. z o.o v. Poland, no. 1469/20."
-––––– "Judgment of 6 October 2022, 
+––––– "Judgment of 6 October 2022,
 Juszczyszyn v. Poland, no. 35599/20."
-––––– "Judgment of 7 May 2021, Xero Flor w 
+––––– "Judgment of 7 May 2021, Xero Flor w
 Polsce sp. z o.o. v. Poland, no. 4907/18."
-––––– "Judgment of 8 November 2021, 
-Dolińska-Ficek and Ozimek v. Poland (nos. 
+––––– "Judgment of 8 November 2021,
+Dolińska-Ficek and Ozimek v. Poland (nos.
 49868/19 and 57511/19)."
-––––– "Judgment of 6 July 2023, Tuleya v. 
-Poland, nos. 21181/19 and 51751/20, 
+––––– "Judgment of 6 July 2023, Tuleya v.
+Poland, nos. 21181/19 and 51751/20,
 ––––– "Judgment of 24 October 2023, Pająk
-## 
+##
 and Others v. Poland, no. 25226/18,
 
 **–––––** "Judgment of 23 November 2023, Wałęsa v. Poland, no. 50849/21.

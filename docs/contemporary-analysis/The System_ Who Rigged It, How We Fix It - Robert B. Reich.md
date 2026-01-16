@@ -54,7 +54,7 @@ Subjects: LCSH: Dimon, Jamie. | Democracy—United States. | Oligarchy—United 
 
 Classification: LCC JK275 . R455 2020 (print) | LCC JK275 (ebook) | DDC 322/.30973 dc23
 
-> LC record available at  LC ebook record available at 
+> LC record available at  LC ebook record available at
 
 > > Cover art by Justin Metz Cover design by Tyler Comrie
 
@@ -1282,5 +1282,3 @@ Robert B. Reich is currently Chancellor's Professor of Public Policy at the Gold
 [Discover](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780525659051/display/1) your next [great](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780525659051/display/1) read!
 
 Get personalized book picks and up-to-date news about this author.
-
-Sign up [now.](http://links.penguinrandomhouse.com/type/prhebooklanding/isbn/9780525659051/display/2)

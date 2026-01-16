@@ -24,10 +24,7 @@ No jobs on a dead planet: Why South African unions should stop investing in foss
 More jobs:
 Yes, the fossil fuel industry creates jobs, but it also creates climate change, air and water pollution, substantial corruption, wars, social instability, economic crises and fuel shortages, and destroys arable land — all of which destroy jobs and human wellbeing. A greener economy will create more, better, safer jobs. According to the International Labour
 ## Organisation (
-
-https://goo.gl/rSryng
 ): “…most studies show that a transition to a low-carbon economy will lead to a net increase in employment”. The Australian Council of Trade Unions (ACTU) has argued for “a planned closure of coal power stations – along with both a jobs and energy plan for the country”, saying it will “create a more prosperous and diversified economy”. (
-https://goo.gl/k4da08
 
 ## ). Renewable energy is now
 
@@ -60,7 +57,7 @@ Solidarity and tradition:
 “An injury to one is an injury to all.” The global divestment movement is led by many people of colour and people of faith, constituencies which overlap strongly with the union movement. The union movement has a social and historical responsibility to stand up for social justice, human rights and good governance. The fossil fuel industry, on the other hand, is extremely corrupt, threatening good governance and worker’s rights as well as human health and the environment.
 A just transition from fossil fuels to a greener economy
 A “just transition” would bring business, labour and government together to plan for a smooth move away from fossil fuels, as energy companies transform their business models. This transition is already beginning in other parts of the world, as, for example, offshore oil service companies move to servicing offshore wind power installations. Proposed ILO guidelines (
-https://goo.gl/jdaetC
+
 ) for this just transition include re-skilling and training, social support and economic diversification.
 What is the global divestment movement?
 The world’s governments may have agreed collectively to phase out fossil fuels, but they are still moving far too slowly. Despite 21st century technology, we remain very much dependent on our natural environment for fresh air, water, food, energy and psychological wellbeing.

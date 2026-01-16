@@ -8,9 +8,6 @@ category: "contemporary-analysis"
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/we-want-bomani-shakur-free-zine-commemorating-rams-month-action-bomani
-
 **Tags:** United States, riots, repression, prisons, Ohio, Lucasville, Keith 'Malik' Washington, Revolutionary Abolitionist Movement, Bomani Shakur, True Leap Press
 
 A zine by True Leap Press, compiling articles by and about Lucasville prisoner Bomani Shakur, produced as part of the call for actions in support of Bomani during the anniversary of the Lucasville Uprising in April.

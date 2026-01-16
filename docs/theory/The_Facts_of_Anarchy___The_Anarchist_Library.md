@@ -92,7 +92,7 @@ This document was converted from **01_Political_Theory/Articles/The Facts of Ana
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_The_Facts_of_Anarchy___The_Anarchist_Library/01_Political_Theory_Articles_The_Facts_of_Anarchy___The_Anarchist_Library.md" 
+bash claude code "Collections/01_Political_Theory_Articles_The_Facts_of_Anarchy___The_Anarchist_Library/01_Political_Theory_Articles_The_Facts_of_Anarchy___The_Anarchist_Library.md"
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

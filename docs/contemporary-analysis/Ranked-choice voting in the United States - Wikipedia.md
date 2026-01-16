@@ -666,7 +666,6 @@ In October 2007, the city of [Cary, North Carolina](https://en.wikipedia.org/wik
 | Vickie Maxwell | 1075 | (35.6%) | 1353
 (44.8%)
 
-
 268
 (8.9%) | | |
 | Nels Roseland | 793 | (26.2%) | | | |

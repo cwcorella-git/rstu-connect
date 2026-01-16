@@ -15,9 +15,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/bonzo-goes-oslo-christian-fundamentalists-and-far-right-strike-new-pose
-
 **Tags:** feminism, gender, conspiracy theories, Third Position, antisemitism, transgender, LGBTQ+ (Lesbian Gay Bi Trans Queer +)
 
 A look at recent attempts by religious fundamentalist reactionaries and conspiracy theorists to build coalitions with "gender critical" feminists.

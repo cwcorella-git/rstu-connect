@@ -473,7 +473,7 @@ The state has a very small number of Pacific Islanders, numbering 17,982 and mak
 
 #### **European-Americans**
 
-In 2023, 7,260,529 Illinoisans identified as non-Hispanic white alone, making up 57.9% of the population. $\frac{[104]}{}$ Although a majority of white residents in the state live in the Chicago area, the counties with the highest percent share of white population are all located in rural areas with smaller populations, with non-Hispanic white people making up over 80 or 90% of the population in most non-urban counties in the state. $\frac{[145]}{}$ 
+In 2023, 7,260,529 Illinoisans identified as non-Hispanic white alone, making up 57.9% of the population. $\frac{[104]}{}$ Although a majority of white residents in the state live in the Chicago area, the counties with the highest percent share of white population are all located in rural areas with smaller populations, with non-Hispanic white people making up over 80 or 90% of the population in most non-urban counties in the state. $\frac{[145]}{}$
 
 In the Chicago metro area, the white population is located mostly in suburban areas, with non-Hispanic white residents making up a majority of the population (between $53\%^{[146]}$ and $75\%^{[147]}$ ) in every metropolitan county other than Cook County, while making up only 31.7% of the population in the city of Chicago itself. Within Chicago, there is significant racial segregation, with the white population concentrated primarily on the North Side of the city, while many predominantly African-American or Hispanic neighborhoods on the West Side and South Side of the city have almost no non-Hispanic white residents. [149]
 
@@ -823,7 +823,7 @@ Mattoon was chosen as the site for the Department of Energy's Future Gen project
 
 #### Petroleum
 
-Illinois is a leading refiner of petroleum in the American $\underline{\text{Midwest}}$ , with a combined crude oil distillation capacity of nearly 900,000 bbl/d (140,000 m³/d). However, Illinois has very limited crude oil proved reserves that account for less than 1% of the U. S. total reserves. Residential heating is 81% natural gas compared to less than 1% heating oil. Illinois is ranked 14th in oil production among states, with a daily output of approximately 28,000 bbl (4,500 m³) in $2005.\frac{[227][228]}{}$ 
+Illinois is a leading refiner of petroleum in the American $\underline{\text{Midwest}}$ , with a combined crude oil distillation capacity of nearly 900,000 bbl/d (140,000 m³/d). However, Illinois has very limited crude oil proved reserves that account for less than 1% of the U. S. total reserves. Residential heating is 81% natural gas compared to less than 1% heating oil. Illinois is ranked 14th in oil production among states, with a daily output of approximately 28,000 bbl (4,500 m³) in $2005.\frac{[227][228]}{}$
 
 ## ![](_page_20_Figure_4.jpeg)
 

@@ -74,7 +74,7 @@ household,
   | Standard deduction or itemized | | | | | | | 11 | | 1,909. | | |
 | \$19,400
 If you checked | 12
-13 | Qualified business income deduction | | , | , | 
+13 | Qualified business income deduction | | , | , |
 5-Δ | | | | 12 | | 2,950. |
 | any box under | 14 | Add lines 12 and 13 | | | | | | | | 14 | | 2,950. |
 | Standard
@@ -1025,7 +1025,7 @@ Additional tax on IRAs or other tax-favored accounts. Attac | | 7 | |
 | | deferred compensation plan described in section 457A | 17 i | | |
 | į | Section 72(m)(5) excess benefits tax | 17 j | | |
 | K
-I | Golden parachute payments | 17 k 
+I | Golden parachute payments | 17 k
  17 l | | |
 | m | Excise tax on insider stock compensation from an | | | |
 | n | expatriated corporation | 17 m | | |
@@ -2401,8 +2401,6 @@ Qualified reservist repayments
 Nondeductible traditional IRA contributions, to Form 8606, ln 1 | | |
 
 ## Christopher W Corella 385-17-2724
-
-## Page 2
 
 # **Roth IRA Contributions**
 

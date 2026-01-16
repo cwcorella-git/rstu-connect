@@ -20,9 +20,6 @@ Plane Stupid wants police spies out of our lives! Date: Mon, 04/17/2017 - 18:17 
 , April 4, 2017
 Crowdjustice appeal launched by social justice campaigner/ Plane Stupid member Tilly
 ## Gifford
-
-https://www.crowdjustice.org/case/undercover-policing-scotland/
-
 ## UNDERCOVER POLITICAL POLICING & SCOTLAND
 
 The Home Office has failed to extend the Undercover Policing Inquiry into Scotland and the Scottish Government has failed to order its own public inquiry into #spycops. I am taking them to Court to make sure an Inquiry is held into Undercover Political Policing in Scotland.
@@ -56,25 +53,25 @@ Why no Legal Aid?
 Despite this being a strong case, with good facts, supported by clear domestic and human rights law, the Scottish Legal Aid Board (SLAB) have refused my legal aid application in March 2017.
 I hope to initially raise £5,000 in order to take this case forward and to get the Court to grant permission for it to proceed to a full Judicial Review. Please support this case, it is important to me, but is just as important to hundreds of others.
 [1]
-http://news.met.police.uk/news/claimants-in-civil-cases-receive-mps-apology-138574
+
 [2]
-http://campaignopposingpolicesurveillance.com/tag/scotland/
+
 [3]
-https://www.ucpi.org.uk/wp-content/uploads/2016/06/Terms-of-Reference.pdf
+
 [4]
-https://www.theguardian.com/uk/audio/2009/apr/24/police-surveillance-intelligence-1
+
 ;
-https://www.theguardian.com/uk/audio/2009/apr/24/police-surveillance-intelligence-2
+
 ; and
-https://www.theguardian.com/uk/audio/2009/apr/24/police-surveillance-intelligence-3
+
 .
 [5]
-http://www.bbc.com/news/uk-scotland-scotland-politics-36943320)
+
 [6] The Public Interest Law Unit is a project that specialises in challenges to decision made by public bodies. It specialises in judicial review, human rights and public inquiries. It is currently representing core participants in the Undercover Policing Inquiry (
 www.ucpi.org.uk
 ) which has a remit to look at undercover policing in England & Wales.
 [7]
-https://www.holyrood.com/articles/news/michael-matheson-orders-review-undercover-policing
+
 -scotland
 
 [8]

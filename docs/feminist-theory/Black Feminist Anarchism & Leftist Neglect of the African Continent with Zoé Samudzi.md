@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/black-feminist-anarchism-leftist-neglect-african-continent-zoe-samudzi
-
 **Tags:** Zimbabwe, feminism, colonialism, Zoé Samudzi, Millenials are Killing Capitalism
 
 Transcript of an interview with Zoé Samudzi from the second episode of Millenials are Killing Capitalism.

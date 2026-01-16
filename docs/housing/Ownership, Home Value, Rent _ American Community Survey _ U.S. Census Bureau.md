@@ -7,8 +7,7 @@ tags:
 - community
 - housing
 ---
-# Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau
----
+
 An oﬃcial website of the United States government Here’s how you know
 BACK TO TOPICS PAGE [/ACS/WWW/ABOUT/WHY-WE-ASK-EAC…
 We ask about whether a home is owned or rented to

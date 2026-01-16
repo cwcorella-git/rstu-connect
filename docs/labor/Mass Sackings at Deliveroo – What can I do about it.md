@@ -73,9 +73,4 @@ Many thanks for your swift responses, you have up to one calendar month to deliv
 ## Thank you for your cooperation
 
 ## YOUR NAME, RIDER NUMBER, ADDRESS
-
-https://iww.org.uk/iww-couriers-network/
-
 https://www.facebook.com/IWWCouriers Network/
-
-https://twitter.com/IWW\_Couriers

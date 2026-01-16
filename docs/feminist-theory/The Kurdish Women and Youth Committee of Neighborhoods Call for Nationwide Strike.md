@@ -15,9 +15,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/kurdish-women-and-youth-committee-neighborhoods-call-nationwide-strike
-
 **Tags:** Slingers Collective, Iran, Kurdistan, general strikes, Iran protests 2022
 
 A call for a general strike from the 2022 uprising in Iran. This article was previously published in English by the Slingers Collective.

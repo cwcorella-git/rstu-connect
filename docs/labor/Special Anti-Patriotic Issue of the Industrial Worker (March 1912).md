@@ -107,7 +107,7 @@ society which will be worthy of the name of civilization.
  |
 | Here's to the noble patriot,Away he'll never roam—He loudly yells for war and gore,But safely
 stays at home. |
-| 
+|
 The working men have no country. We cannot take from them that which they have not. By
 freedom is meant free buying and selling.—Communist Manifesto |
 ## | |

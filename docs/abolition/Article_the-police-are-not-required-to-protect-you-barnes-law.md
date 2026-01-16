@@ -151,7 +151,7 @@ The Police are Not Required to Protect You — Barnes Law about:reader?url=https
 
                [3]
 ## DeShaney v. Winnebago County Department of Social
-               Services, 489 U.S. 189 (1989). 
+               Services, 489 U.S. 189 (1989).
 
                [4]
 ## Ibid.

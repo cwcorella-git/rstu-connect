@@ -25,7 +25,7 @@ Part of the [Marketing Commons](https://network.bepress.com/hgg/discipline/638?u
 
 Zareian, Ash, "Conspicuous Asceticism: Collapsing Consumers' Hungry Ghosts" (2022). Theses and Dissertations. 1082.
 
-[https://scholarworks.utrgv.edu/etd/1082](https://scholarworks.utrgv.edu/etd/1082?utm_source=scholarworks.utrgv.edu%2Fetd%2F1082&utm_medium=PDF&utm_campaign=PDFCover Pages) 
+[https://scholarworks.utrgv.edu/etd/1082](https://scholarworks.utrgv.edu/etd/1082?utm_source=scholarworks.utrgv.edu%2Fetd%2F1082&utm_medium=PDF&utm_campaign=PDFCover Pages)
 
 This Dissertation is brought to you for free and open access by Scholar Works @ UTRGV. It has been accepted for inclusion in Theses and Dissertations by an authorized administrator of Scholar Works @ UTRGV. For more information, please contact [justin.white@utrgv.edu, william.flores01@utrgv.edu.](mailto:justin.white@utrgv.edu,%20william.flores01@utrgv.edu)
 
@@ -588,7 +588,7 @@ Mother | | | | .61 | .92 | .84 |
 | ACE4 | Domestic Substance Abuse | .68 | | | | | |
 ## | ∑= | | 5.02 | 3.62 | 3.38 | | | |
 
-**Table 1.3: Inter-construct Correlation between Latent Variables** 
+**Table 1.3: Inter-construct Correlation between Latent Variables**
 
 | Latent Variables | ACE | NAR | CMC | CNC | CON | CNA | FOR |
 |--------------------------------|-------|-------|-------|-------|-------|-------|-------|
@@ -765,7 +765,7 @@ Before colonization, it was documented that Native American communities such as 
 
 H1: There is a negative relationship between a high-fat animal based diet and narcissism.
 
-**"If we are looking for a dietary cause of some of the ills of civilization, we should look at the most significant changes in man's diet." – John Yudkin** 
+**"If we are looking for a dietary cause of some of the ills of civilization, we should look at the most significant changes in man's diet." – John Yudkin**
 
 As there has been a pre-dominant dependence on seed-fed diets (i.e. grains and seed oils) in the West, a chemical analysis of grains and seeds must be considered in its relation to compulsive consumption. Grains and seeds are glucose-based food groups with different types of protein called gluten which comes in many forms such as gliadin in wheat, avenin in oats, zein in corn, and orzenin in rice (Osborne and Buehl 2016). Gluten contains morphine-like compounds called gluten exorphins (Huebner, Lieberman, Rubino, and Wall 1984; Osborne and Buehl 2016). Moreover, dairy contains casomorphins, which the body cannot differentiate from gluten (Osborne and Buehl 2016). Dairy contains 10% of the strength of prescription morphine (Hazum, Sabatka, Chang, Brent, Findlay, and Cuatrecasas 1981), and also contributes to insulin resistance because of its carbohydrate content (Pereira, Jacobs, Van Horn, Slattery, Kartashov, and Ludwig 2002). Since gluten contains lectins (Gundry and Solimene 2017), and lectins are present in all legumes, including peanuts, legumes may have some adverse effects on the health of consumers, which can result in consumers seeking pain relief.
 

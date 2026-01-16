@@ -2199,9 +2199,6 @@ Elizabeth Manton is an American-born translator currently living in the Netherla
 - 4 The Joseph Rowntree Foundation published an extensive report on the experiment, which is the source of all the quotes cited here. See: Juliette Hough and Becky Rice, *Providing Personalised Support to Rough Sleepers. An Evaluation of the City of London Pilot* (2010). http://www.jrf.org.uk/publications/support-rough-sleepers-london. For another evaluation, see: Liz Blackender and Jo Prestidge, "Pan London Personalised Budgets for Rough Sleepers," *Journal of Integrated Care* (January 2014).
 - 5 In 2013, the project was expanded to twenty-eight rough sleepers in London's City, of whom twenty already had a roof over their heads.
 - 6 "Cutting out the middle men," *Economist* (November 4, 2010). http://www.economist.com/node/17420321.
-
-http://www.emeraldinsight.com/journals.htm?articleid=17104939&.
-
 - 7 Quoted in: Jacob Goldstein, "Is It Nuts to Give to the Poor Without Strings Attached?" *New York Times* (August 13, 2013). http://www.nytimes.com/2013/08/18/magazine/is-it-nuts-to-give-to-the-poorwithout-strings-attached.html.
 - 8 Johannes Haushofery and Jeremy Shapiroz, "Policy Brief: Impacts of Unconditional Cash Transfers." https://www.princeton.edu/~joha/publications/Haushofer\_Shapiro\_Policy\_Brief\_2013.pdf.
 - 9 The prestigious charity evaluator Give Well, which has reviewed over 500 charities, ranks Give Directly fourth on its list of top charities.

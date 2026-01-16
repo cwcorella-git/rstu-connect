@@ -16,14 +16,14 @@ Notes from        Educational Material Planning 6/20/25 :
 
 Check for info:      Reno-Sparks Tenant Union Presentation.pptx
 
-Check media fact sheet for wins from tenants unions 
+Check media fact sheet for wins from tenants unions
 ## Document Summary
 
 This document was converted from **01_Political_Theory/Articles/What Is A Tenants Union - Google Docs.pdf** containing 1 pages.
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_What_Is_A_Tenants_Union_-_Google_Docs/01_Political_Theory_Articles_What_Is_A_Tenants_Union_-_Google_Docs.md" 
+bash claude code "Collections/01_Political_Theory_Articles_What_Is_A_Tenants_Union_-_Google_Docs/01_Political_Theory_Articles_What_Is_A_Tenants_Union_-_Google_Docs.md"
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

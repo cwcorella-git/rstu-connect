@@ -141,6 +141,6 @@ The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-
 ## Together, we will be unstoppable.
 
 3 of 4 10/4/25, 12:05 PM The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-federat...
-            Retrieved on December 20, 2024 from 
+            Retrieved on December 20, 2024 from
             AF2C expects this text will be expanded on in the future.
 4 of 4 10/4/25, 12:05 PM

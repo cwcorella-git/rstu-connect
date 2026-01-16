@@ -10,10 +10,7 @@ tags:
 - housing
 - tenants
 ---
-# Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current
----
-Too busy fretting over you-know-who to follow the NV L...             https://nevadacurrent.com/2025/04/16/too-busy-fretting...
-PART OF STATES NEWSROOM
+
 
 LEGISLATURE
 Too busy fretting over you-know-who to
@@ -32,7 +29,7 @@ that caught our eye and where they are, complete with links to our
 prior coverage.
 * Notes: Bills exempt from
 ---
-Too busy fretting over you-know-who to follow the NV L...     https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+
 legislative deadlines are
 marked with an asterisk. Lead          The next major legislative
 sponsors are listed in                 deadline is Tuesday, April 22. By
@@ -75,7 +72,7 @@ diversion programs in Clark and Washoe counties. Status:
 Heard by Assembly Ways and Means, no action taken.
 •                      * (Gov. Joe Lombardo, R) would allocate
 ---
-Too busy fretting over you-know-who to follow the NV L...   https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+
 $250 million to build more housing and expand the denition
 of aordable housing to include people with higher incomes.
 Status: Heard by Assembly Commerce and Labor, no action taken.
@@ -115,7 +112,7 @@ Senate Finance.
 increase Medicaid reimbursement for mental health providers.
 Passed Senate Commerce.
 ---
-Too busy fretting over you-know-who to follow the NV L...     https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+
 Health care / Reproductive Rights
 •                    * (State Sen. Nicole Cannizzaro, D) would
 establish the right to assisted reproduction treatment, including
@@ -157,7 +154,7 @@ Nguyen, D) would allow          leadership has made it clear
 workers covered by              they are using it as a bargaining
 collective bargaining           chip for their other legislative
 ---
-Too busy fretting over you-know-who to follow the NV L...   https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+
 agreements to use their         priorities.
 accrued leave to care for
 family members. Status:         The 'A Teacher In Every
@@ -200,7 +197,7 @@ to extend fuel revenue indexing (FRI) an additional decade
 beyond its current sunset date. Status: Passed Assembly Growth
 and Infrastructure.
 ---
-Too busy fretting over you-know-who to follow the NV L...   https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+
 Business & Economic Development
 •                  (Storey County) would require companies
 seeking massive tax abatements to enter into agreements to
@@ -241,7 +238,7 @@ organizations. Status: Passed Senate Education.
 dedicate $100 million in state general obligation bonds for
 high-needs school construction projects in low-population
 counties that cannot fund them through typical means. Status:
-Too busy fretting over you-know-who to follow the NV L...             https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+
 Passed Assembly Government Aairs, referred to Assembly Ways
 and Means.
 •                     (Assemblymember Daniele Monroe-
@@ -272,7 +269,7 @@ populations exceeding 100,000 people include "heat
 mitigation" as part of their master plans. Status: Passed
 Government Aairs.
 Our stories may be republished online or in print under Creative Commons license CC BY-NC-ND
-Too busy fretting over you-know-who to follow the NV L...                 https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+
 4.0. We ask that you edit only for style or to shorten, provide proper attribution and link to our
 website. AP and Getty images may not be republished. Please see our republishing guidelines for use
 of any other photos and graphics.
@@ -301,7 +298,7 @@ it might take to x them.
 We're part of States Newsroom, the nation's largest state-focused
 nonprot news organization.
 DEIJ Policy | Ethics Policy | Privacy Policy
-Too busy fretting over you-know-who to follow the NV L...                       https://nevadacurrent.com/2025/04/16/too-busy-fretting...
+
 Our stories may be republished online or in print under Creative Commons license CC BY-NC-ND
 4.0. We ask that you edit only for style or to shorten, provide proper attribution and link to our
 website. (See full republishing guidelines.)

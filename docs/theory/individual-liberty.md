@@ -4369,7 +4369,7 @@ he could not have intended to exclude the idea of the necessity of a standard,
 for this is proved by the sentence immediately preceding it, — a sentence
 which Mr. Yarros’s correspondent could not have understood, since, if he had
 understood it, honesty would have forbidden him to omit it. Here it is: “Each
-subscriber (to the Bank) binds himself to receive in every payment, from any
+
 person whomsoever, and at par, the paper of the Bank of Exchange.” At par,
 mind you. At par with what; if you please? Evidently at par with some chosen
 standard; and, no other standard being speciﬁed, evidently at par with the
@@ -5778,7 +5778,7 @@ government prescribes as valid for the discharge of debt. Any currency not so
 prescribed is not legal tender, no matter how universal its use or how
 unlimited its issue, and to label it so is a confusion of terms.
 Another word as to the term “Greenbacker.” He is a Greenbacker who
-subscribes to the platform of the Greenback party. The cardinal principle of
+
 that platform is that the government shall monopolize the manufacture of
 money, and that any one who, in rebellion against that sacred prerogative,
 may presume to issue currency on his own account shall therefore be taxed,
@@ -9407,7 +9407,7 @@ of industry and banking in Great Britain, Charles P. Isaacs’ “The Menace of
 the Money Power” (Jonathan Cape, 11 Gower Street, London) is excellent. It
 shows how Scotland formerly prospered under a comparatively free system of
 banking.
-Retrieved on February 19th, 2009 from  [now dead]. 
+Retrieved on February 19th, 2009 from  [now dead].
 Selections From the Writings of Benjamin R. Tucker Vanguard Press, New
 York, 1926, Kraus Reprint Co., Millwood, NY, 1973.
 ---

@@ -335,7 +335,6 @@ As he knew everything that ought to be known and as he obtained the key to all k
 
 Once a certain brahmin named Dona, noticing the characteristic marks of the footprint of the Buddha, approached him and questioned him.
 
-
 "Your Reverence will be a deva?" 39
  "No, indeed, brahmin, a deva am I not," replied the Buddha.
  "Then Your Reverence will be a gandhabba?" 40
@@ -344,17 +343,16 @@ Once a certain brahmin named Dona, noticing the characteristic marks of the foot
  "No, indeed, brahmin, not a Yakkha."
  "Then Your Reverence will be a human being?"
  "No, indeed, brahmin, a human being am I not."
-## 
+##
 ## "Who, then, pray, will Your Reverence be?"
 
 The Buddha replied that he had destroyed defilements which condition rebirth as a deva, gandhabba, yakkha, or a human being and added:
-
 
 As a lotus, fair and lovely,
 By the water is not soiled,
 By the world am I not soiled;
 Therefore, brahmin, am I Buddha. 42
-## 
+##
 The Buddha does not claim to be an incarnation (avatāra) of the Hindu god Vishnu, who, as the Bhagavad Gītā **[43](https://bps.lk/olib/bp/bp102s-files/OEBPS/Text/notes.html#pgf Id-1168410)** charmingly sings, is born again and again in different periods to protect the righteous, to destroy the wicked, and to establish the Dharma (right).
 
 According to the Buddha countless are the gods (*devas*) who are also a class of beings subject to birth and death; but there is no one supreme god, who controls the destinies of human beings and who possesses a divine power to appear on earth at different intervals, employing a human form as a vehicle. **[44](https://bps.lk/olib/bp/bp102s-files/OEBPS/Text/notes.html#pgf Id-1168414)**
@@ -833,12 +831,11 @@ The cause of this suffering is craving or attachment (*taṇhā*). This is the s
 
 The Dhammapada states:
 
-
 From craving springs grief,
 from craving springs fear;
 For him who is wholly free from craving,
 there is no grief, much less fear. (v. 216)
-## 
+##
 Craving, the Buddha says, leads to repeated births (*ponobhavikā*). This Pali term is very noteworthy as there are some scholars who state that the Buddha did not teach the doctrine of rebirth. This second truth indirectly deals with the past, present and future births.
 
 This Third noble truth has to be realised by developing (*bhāvetabba*) the Noble Eightfold Path (*ariya ahaṇgika magga*). This unique path is the only straight way to Nibbāna. This is the fourth noble truth.
@@ -5824,7 +5821,6 @@ According to Buddhism there are forty subjects of meditation (*kammahāna*) whic
  - i. The Buddha (*buddhānussati*),
  - ii. the doctrine (*dhammānussati*),
 
-
 iii. the Sangha (saṇghānussati),
      iv. virtue (sīlānussati),
       v. liberality (cāgānussati),
@@ -5837,7 +5833,7 @@ d. The four illimitables or the four modes of sublime conduct (brahmavihāra),
  namely:
       i. loving kindness (mettā),
       ii. compassion (karuṇā),
-## 
+##
 - iv. equanimity (*upekkhā*). e. The one perception—i.e., the perception of the loathsomeness of material food (*āhāre paikkūla-saññā*). **[417](https://bps.lk/olib/bp/bp102s-files/OEBPS/Text/notes.html#pgf Id-1172897)**
 - f. The one analysis—i.e., of the four elements (*catudhātuvavatthāna*). **[418](https://bps.lk/olib/bp/bp102s-files/OEBPS/Text/notes.html#pgf Id-1172901)**
 - g. The four *arūpa jhānas*—namely:

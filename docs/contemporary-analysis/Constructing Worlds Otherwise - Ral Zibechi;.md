@@ -13,7 +13,7 @@ Societies in Movement and Anticolonial Paths in Latin America
 
 ## ![](_page_0_Picture_4.jpeg)
 
-# 
+#
 
 # Societies in Movement and Anticolonial Paths in Latin America Raúl Zibechi
 
@@ -225,7 +225,7 @@ One of the great contributions of Zapatismo is the way they have extended collec
 
 "If there is no organization there is nothing." Collective work is not decided by a central command or a centralized institution, which would be tantamount to reproducing a state system. It is the villages, the regions, the autonomous municipalities, and the zones that must come together to decide how the work should be implemented and how it should be carried out. For example, there are families that have few children and others that have many, and so it is up to them to discuss how much time each family can spend working for themselves and how much for the collective and so on to address all the problems that arise.
 
-As Gladys Tzul Tzul points out, regarding the Indigenous peoples in Guatemala, communal service is not paid because "it is the obligatory work that we all have to do for the sustenance of life in common." This obligation also applies to the Indigenous communal government assemblies as well, "where the K'ax K'ol (a k'iche' concept for a kind of collective practice) is the foundation on which the assembly rests and where the systems of communal government are produced. This is where the full participation of all takes place." $\frac{35}{2}$ 
+As Gladys Tzul Tzul points out, regarding the Indigenous peoples in Guatemala, communal service is not paid because "it is the obligatory work that we all have to do for the sustenance of life in common." This obligation also applies to the Indigenous communal government assemblies as well, "where the K'ax K'ol (a k'iche' concept for a kind of collective practice) is the foundation on which the assembly rests and where the systems of communal government are produced. This is where the full participation of all takes place." $\frac{35}{2}$
 
 At this point, it should be noted that the communal assembly is very different from the assembly of urban workers or that of the neighborhood assemblies. It is mandatory, because it is an additional form of collective work. The communal authorities are decision bearers of the assemblies, to the point that "there is no dissociation between communal authority and communal assembly." 36
 
@@ -696,7 +696,7 @@ In a view focused on linkages, we cannot reduce the commonality to collectively 
 
 Collective practices (trabajo colectivo) are the sustenance of the common and the true material basis that produces and reproduces the existence of living communities, with relations of reciprocity and mutual help that stand in contrast to the hierarchical and individuated and proper relations in state institutions. The community is kept alive not by common property but by collective works that are a creating, recreating, and affirming it in their daily lives. These collective works are how the common folks make community, as a way of expressing social relations different from the hegemonic ones.
 
-In her sociological work, Guatemalan Mayan community member Gladys Tzul Tzul asserts that in the society based on communal work there is no separation between the sphere of domestic society, which organizes reproduction, and political society, which organizes public life but that both sustain and feed each other. In the communities, the complementarity between the two groups managed through communal governing, in what is known as the K'iche concept of K'ax K'ol discussed earlier, loosely translating to laborious work. $\frac{150}{}$ 
+In her sociological work, Guatemalan Mayan community member Gladys Tzul Tzul asserts that in the society based on communal work there is no separation between the sphere of domestic society, which organizes reproduction, and political society, which organizes public life but that both sustain and feed each other. In the communities, the complementarity between the two groups managed through communal governing, in what is known as the K'iche concept of K'ax K'ol discussed earlier, loosely translating to laborious work. $\frac{150}{}$
 
 Collective works are found in all the actions of the community, but there are those that make space not only for the reproduction of material goods but the community as such, from the assembly and the celebration to the consolation during periods of mourning and burials. There are also the types of collective labor that coordinate alliances with other communities. Additionally, many of the ongoing struggles of resistance ensuring the reproduction of communal life are also anchored in collective work.
 

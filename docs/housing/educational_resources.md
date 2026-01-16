@@ -10,7 +10,7 @@ tags:
 
 # Educational Resources and Tenant Rights Materials
 
-**Date**: September 8, 2025  
+**Date**: September 8, 2025
 **Purpose**: Comprehensive catalog of educational materials, tenant rights resources, and knowledge-sharing tools developed by and for RSTU members
 
 ## Core Educational Framework
@@ -103,8 +103,8 @@ tags:
 ### Published Zines and Handbooks ⭐⭐⭐
 
 #### "How to Organize a Tenants Association" Zine
-**Status**: Completed - `RSTU_HowToOrganizeATenantsAssociation_Zine.pdf`  
-**Format**: Pocket-sized zine (2.25" x 3.75" pages)  
+**Status**: Completed - `RSTU_HowToOrganizeATenantsAssociation_Zine.pdf`
+**Format**: Pocket-sized zine (2.25" x 3.75" pages)
 **Content**:
 
 **Getting Started Process**:
@@ -120,7 +120,7 @@ tags:
 - Local mutual aid resources (tinyurl.com/RSTUMA)
 
 #### Nevada Tenant Rights Reference Materials
-**Source**: Multiple legal aid organizations and government resources  
+**Source**: Multiple legal aid organizations and government resources
 **Content**:
 
 **Legal Framework**:
@@ -131,7 +131,7 @@ tags:
 
 **Resource Directory**:
 1. Legal Aid of Southern Nevada
-2. Northern Nevada Legal Aid  
+2. Northern Nevada Legal Aid
 3. Nevada Legal Services (FAQ format)
 4. Clark County .gov resources
 5. Reno Gazette Journal coverage (2019)
@@ -140,13 +140,13 @@ tags:
 ### Know Your Rights Training Program ⭐⭐⭐
 
 #### Attorney-Led Education Sessions
-**Coordination**: Ben organizing attorney partnerships  
-**Format**: Group training sessions for members  
+**Coordination**: Ben organizing attorney partnerships
+**Format**: Group training sessions for members
 **Topics**: Nevada tenant law, habitability standards, retaliation protection, organizing rights
 
 #### Legal System Navigation
-**Eviction Court Observation**: Member education through court watching  
-**Self-Help Resources**: Civil Self-Help Law Center (Justice Court downtown, 9am-5pm)  
+**Eviction Court Observation**: Member education through court watching
+**Self-Help Resources**: Civil Self-Help Law Center (Justice Court downtown, 9am-5pm)
 **Legal Aid Connection**: Referral system to Northern Nevada Legal Aid
 
 #### Rights Enforcement Training

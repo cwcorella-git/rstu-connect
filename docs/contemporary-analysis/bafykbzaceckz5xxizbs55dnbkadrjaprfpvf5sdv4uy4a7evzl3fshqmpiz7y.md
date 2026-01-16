@@ -585,7 +585,7 @@ I sm w-wg srs pp r wrkg gr d gr smpy g by. Ts w w-pyg jbs r s wrkg gr d gr, prps
 
 A vr wrd, sms, quy d r bg jp rdzd by g wrkdys d wrkwks. Ad r s vd wrkg gr r r mr my rss ur ppss. I dd, -v d sw dsp rsg ms s 1950s, vs ppss v rsd, d sm urs y v drsd. I my usds rss gb, b s skwd; mu m s bg sp wrkg r my d, s squ, r's ug m r .
 
-Nw w v dsvrd rsd m s dd mr my d psssss w v, mr w d qur ppy. Ad r s mug vd r r s d psyg ss ssd w mr- d sump usd sys. W ms rs d w gp bw gs- d ws-pd wrkrs wds, s mdr-dy prbms w—rsg vs s s, dprss, d d drug bus. 
+Nw w v dsvrd rsd m s dd mr my d psssss w v, mr w d qur ppy. Ad r s mug vd r r s d psyg ss ssd w mr- d sump usd sys. W ms rs d w gp bw gs- d ws-pd wrkrs wds, s mdr-dy prbms w—rsg vs s s, dprss, d d drug bus.
 
 T usu sry prgrss s s mjry wrd urs r grd "gb my," wgd wrk w dsp upd wrk d bm the wrk pp d. Cry s s ppg urs k C d Id d Sus As s s m s pp r bmg wg rrs.
 
@@ -1218,7 +1218,7 @@ W us rm rm s rgs gs xpd Sppr's Cks d r E Sppr's Cks.
 
 Ts sumr guds d kss r xrmy usu p g us d u mr bu prdus d mps prdu m—d w sud ry us m w w'r ddg w r wr buy. Hwvr, w'r sdrg gy sps d prdus v my pus b du r. W d k bu rs w r pr w, s sumrs, w pu prdus rug "suppy " r d us.
 
-T suppy ggs mpxy vvd gg my prdus ds sumrs—rm surg d rg rw mrs ssmbg s mp prs sg prdu mup yrs wsrs d r rs py rs pssg prdu g . 
+T suppy ggs mpxy vvd gg my prdus ds sumrs—rm surg d rg rw mrs ssmbg s mp prs sg prdu mup yrs wsrs d r rs py rs pssg prdu g .
 
 #### Supp Cain
 
@@ -1350,7 +1350,7 @@ Drmg vu rm sr vvs gd u bw prdur d sumr—w mu ds rmr d grw prdu, d w mu sumr py 
 
 Tr r s us bw rmr d vr m. T rmr s u s d yps pus (usuy rg) dd rdr prdu r sumrs. T rmr russ s d sps ss r w rd y w rpr by supprg bud. I rur rmr grs p g dmd gvg r.
 
-O rs bu CSA s py xuds w m grups bus ump sum s pd up r. My CSA vs v dvpd srgs ddrss s r. I sm CSA sms, w-m mmbrs py sms. T sms s mr ss subsrp, d s ms w-m mmbrs d up w sum my s sd r x ss's pym. Or srgs r r gr-m mmbrs py mr rdr subsdz wr-m mmbrs, r w-m mmbrs r rds wrd r subsrp by wrkg rm, d r mmbrs rry u vur wrk kp s dw r vry. 
+O rs bu CSA s py xuds w m grups bus ump sum s pd up r. My CSA vs v dvpd srgs ddrss s r. I sm CSA sms, w-m mmbrs py sms. T sms s mr ss subsrp, d s ms w-m mmbrs d up w sum my s sd r x ss's pym. Or srgs r r gr-m mmbrs py mr rdr subsdz wr-m mmbrs, r w-m mmbrs r rds wrd r subsrp by wrkg rm, d r mmbrs rry u vur wrk kp s dw r vry.
 
 G gvg s r mjr rm dr bw pp d bw pp d vrms prvds w-bg d ps us survv w. A vr wrd, p p g r br rs s vurs d gv wy r my d psssss.
 
@@ -1986,7 +1986,7 @@ Ts prpry rgs r jusd bss r d v w k p y s dg s wrk r dquy prd rm r rdrs—s w wud 
 
 Hw d w u r my rs md bud xsg u mms, w my mds vr m v prdud? Muss rm k rss k Wdy Gur p-p rss k DJ Spky (Pu Mr) xpy kwdg r mus s pssb y bus rbus rr mus s. T rsk w vry prv IP pr s ds db rrs w rbus rs r d r mms.
 
-Ors sr s rs, d, prury r rm gy, r s ursg xprms w prv prpry d p-ss rsurs prrz rsps bw pp vr ur rsps gs d, prss, bud w mmus. Ivs ud Crv Cmms, p-sur swr (k Lux d Frx), d r swr (k GNU) d s ssd vs, Gr Pub Ls d Cpy. Fr rm sg u, bussss r dg p-ss brv dsg prs rs r mrk sr d sur yy d vbr v. 
+Ors sr s rs, d, prury r rm gy, r s ursg xprms w prv prpry d p-ss rsurs prrz rsps bw pp vr ur rsps gs d, prss, bud w mmus. Ivs ud Crv Cmms, p-sur swr (k Lux d Frx), d r swr (k GNU) d s ssd vs, Gr Pub Ls d Cpy. Fr rm sg u, bussss r dg p-ss brv dsg prs rs r mrk sr d sur yy d vbr v.
 
 I ur v r w gy s gv rs p-ss mms, s v r s s rdg ur mms. S mu gy w k r grd dy rs ur p's rwb rsurs—wr rsurs mp prs ur g dvs r s usd pwr prdu d pr s dvs.
 
@@ -2082,7 +2082,7 @@ State |
 
 ur gruur d dusr "dvms" v wrug ur ry mms. Ad r s us vgg rky rgums bu v d u prpry. I s gs, s mpr rgz rdss dr mms d r mmus. Fr xmp, rdr rpr ur mspr mms w d sur s kwdg s vb rug ur kwdg mms.
 
-I mmuy my w bg k rspsby jus r dvdu mms bu r w mms s rd w r d w sp "w" s rdpd w dr y sud w's. Ts sdrs mus b pr y s k bk prpry d mm r b . 
+I mmuy my w bg k rspsby jus r dvdu mms bu r w mms s rd w r d w sp "w" s rdpd w dr y sud w's. Ts sdrs mus b pr y s k bk prpry d mm r b .
 
 #### ETivE a TiS r mmi
 
@@ -2244,7 +2244,7 @@ essio Rasani, nancia arke rader, bbC Word News, 2011
 
 IBGYBG—"I' b g, yu' b g"—s wy wrry bu g rm srp z mg du?
 
-T GFC s gg v w gmbrs bg g bus sm m. Ir vsrs rm Id Id x gd r svgs r rs usds U. S. mrggs, y v r rus dsd s subprm mrgg mrk rsd. Prv quy mgrs bug d sd dsrssd rms, srppg r sb sss r usg wy qurd busss s r k u rgr s. O U. S. mpy, Smms Mrss Py Ld (Prprry Lmd) ws bug d sd sv ms wy yrs. Ivsrs md my, w Smms's db bd rm US\$164 m 1991 US\$1.3 b 2009. T s prv quy rm bug Smms ud ' d buyr, d rm w bkrup. 
+T GFC s gg v w gmbrs bg g bus sm m. Ir vsrs rm Id Id x gd r svgs r rs usds U. S. mrggs, y v r rus dsd s subprm mrgg mrk rsd. Prv quy mgrs bug d sd dsrssd rms, srppg r sb sss r usg wy qurd busss s r k u rgr s. O U. S. mpy, Smms Mrss Py Ld (Prprry Lmd) ws bug d sd sv ms wy yrs. Ivsrs md my, w Smms's db bd rm US\$164 m 1991 US\$1.3 b 2009. T s prv quy rm bug Smms ud ' d buyr, d rm w bkrup.
 
 Nw s yr, GFC s gg wy. A uky w v, jrg wrd, md kg. Bu my sus rpr d pub srs v b bdy dmgd r dsryd. Cmmus d s r surg, d s urr d uur grs v b pu rsk.
 
@@ -2350,7 +2350,7 @@ A mpr s vsm Kr s b srg brry d du du mvm md rdg ry. Ery , s mvm ws d by P. N. Pkr
 
 T xpr s Kr sws s jus vsm rps bs bu vsm pp by pp. My gs s s rg. A uru squ b r wgs d ds vd by wrkrs Kr s rs mv pr rgs Id. Tr r g rs umpym d udrmpym. My dud Krs sk mpym vrss. Ad ug pys rss brd s mprvd dr my, m prbms rm, udg g sud rs.
 
-Tug msrm mss r uppy w Kr's w r m grw, rs r rgud by xprms w msrm kd m grw r bg pursud r. T sbzd ppu d mmm rss d rdsrbu ud w b grds r w-wg uur bu rud gd . 
+Tug msrm mss r uppy w Kr's w r m grw, rs r rgud by xprms w msrm kd m grw r bg pursud r. T sbzd ppu d mmm rss d rdsrbu ud w b grds r w-wg uur bu rud gd .
 
 ## I Mrrkum, Kr's prs rs, wm r kg d. Sm usd gbrd svgs grups, md up bw wy d ry wm, r rsrmg msvs rm rd sss prdu prvs. Sm mus my svd by sv usd wm v ydd ug pz rg prdur prvs mkg sp, s ms, u r prdus, d d. I 2002, ry usd wm k pdg buy y prdud Mr sp rr mprd brds. Ad 2008, r udrd rprsvs rm udrd gvrms Kr sgd "Mrrkum D r r S-Suy Vgb Prdu." Ty pdgd suppr wm's prp rg vgb rmg, dvrsy rp prdu, d v d sury rsb uur. Kr sws us r my b my wys vsg sb my srvs pp d p w.
 
@@ -2396,7 +2396,6 @@ W ms vsg, usu wy kg sk s u drk s–b yss. Hr ws vsms (ss) d ws bs r xprssd rms p
 
 usr, 's k Hmby Idusrs, dsussd pr 3, d msur yp SROI. Ts s rprs rgs -rsk yu, mg kp m u j d p m bud wrw vs mmuy. I qu gv gur, vsm Hmby mg mu \$200,000 pr yr. L's sy yr rprs kps yug pp u j. T s kpg prs prs pr yr my b smg rdr \$70,000. S mry prxy r w s svd by kpg yug pp u prs r yr s \$700,000. W vsm s ddud, rmdr s \$500,000, d w s mu s dvdd by vsm, SROI rsus s gur 2.5. Ts ms
 
-
 Social or environmental
           return (in $)
 ## Investment
@@ -2405,7 +2404,7 @@ Social or environmental
 ## Investment
 ## (in $)
 Sia rETr ivESTmET (Sri)
-## 
+##
 r vry dr vsd Hmby, sy s svd xpd ur \$2.50.
 
 As w y w msurg srum, r s mu dsuss bu ususs SROI msur. Sm p duy d prps udsrby rdug b mry vus SROI. Ors r suspus b usd s wy mrg w u ss rr w rs s bs.

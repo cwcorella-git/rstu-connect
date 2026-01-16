@@ -1467,7 +1467,6 @@ a. The thirteen-year-old:
 
 "So, why do they want to kill us? His father's in the militia and says we all ought to have our throats slit."
 
-
 "But he didn't say anything like that to you?"
 "Him? No."
 "You know he's dead now."
@@ -1479,7 +1478,7 @@ a. The thirteen-year-old:
 "Are you sorry you killed someone?"
 "No, because they want to kill us, so . . ."
 "Do you mind being in prison?"
-## 
+##
 ### b. The fourteen-year-old:
 
 This boy is very different from his classmate. He is almost a man, an adult, judging from his muscular control, his physiognomy, and the tone and content of his answers. He does not deny killing either. Why did he do it? He does not answer the question, but asks me if I have ever seen a European in prison. Has there ever been a European arrested and imprisoned for the murder of an Algerian? I replied that in fact I had never seen any Europeans in prison.
@@ -2076,9 +2075,8 @@ Perhaps Fanon reached such heights and his vision was so broad because he was a 
  - 81 Horne, 222.
  - 82 WE, 18.
 
-
 83 WE, 21.
-## 
+##
 - WE, 31.
 - WE, 34.
 - Hannah Arendt, On Violence (New York: Harcourt, Brace and World, 1970), 69.

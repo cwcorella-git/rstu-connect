@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 #### **Source:**
-
-https://libcom.org/article/failed-response-coronavirus-indiana-prisons-pendleton-correctional-facility
-
 **Tags:** United States, prisons, Indiana, Kevin 'Rashid' Johnson, Covid-19
 
 An article by Kevin "Rashid" Johnson exposing how Indiana prisons have responded to the pandemic. Since this article was first written, a hunger strike has broken out over the conditions described here.

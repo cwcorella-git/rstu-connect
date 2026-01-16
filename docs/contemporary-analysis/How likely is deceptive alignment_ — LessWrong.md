@@ -562,11 +562,10 @@ at being said, the question we have to care about is not which one maxes out rst
 
 ### 28 comments, sorted by top scoring
 
-
 [-]
 [anonymous] 19 0
          3y
-## 
+##
 I felt like this post could benet from a summary so I wrote one below. It ended up being pretty long, so if people think it's useful I could make it into it's own top-level post.
 
 ### Summary of the summary

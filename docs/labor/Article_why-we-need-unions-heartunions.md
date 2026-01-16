@@ -32,6 +32,6 @@ Unions have always had a larger social role beyond the ‘bread and butter’ is
 As individuals we are almost powerless to overcome the status quo and effect change in our society. But collectively we are strong. Unions allow us to come together to stand up for ourselves and provide an organisational structure for that collective strength. For all these reasons and more, we need unions and we have to work together to defend them, especially in light of the government’s most recent attack.
 Next week the TUC will be launching its #HeartUnions campaign to highlight the amazing work trade unions do in our society.
 There’s a fair bit going on in Bristol. The Trades Council has a list of some of this activity. If you can, make sure you get involved:
-https://bristoltradesunioncouncil.wordpress.com/2016/02/02/heartunions-get-involved/
+
 Disclaimer:
 The views expressed here are not the official position of the IWW (or even the IWW’s EUC) and do not necessarily represent the views of anyone but the author’s.

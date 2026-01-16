@@ -14,9 +14,6 @@ tags:
 **Date:** Unknown
 
 **Source:**
-
-https://libcom.org/article/class-war-against-state-war-iww-istanbuls-statement-turkish-invasion-syria
-
 **Tags:** Industrial Workers of the World (IWW), Syria, imperialism, Turkey, Syria conflict
 
 Istanbul Industrial Workers of the World's statement against the invasion of Syria. The following statement was originally published onYeryüzü Postas■.

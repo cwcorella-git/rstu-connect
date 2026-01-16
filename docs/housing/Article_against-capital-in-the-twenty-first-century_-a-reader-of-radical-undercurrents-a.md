@@ -562,7 +562,7 @@ Francis Fukuyama, “e End of History?” National Interest, no. 16 (1989): 3
      42. For an excellent elaboration on the question of fascism and capitalism, see the essay
 in this volume by Angela Mitropoulos (Chapter 9.4).
      43. J. V. Stalin, “Dialectical and Historical Materialism,” September, 1938, available at
-https://www.marxists.org/reference/archive/stalin/works/1938/09.htm.
+
      44. Piketty, Capital in the Twenty-First Century, 549.
      45. Ibid.
      46. Ibid., 571.

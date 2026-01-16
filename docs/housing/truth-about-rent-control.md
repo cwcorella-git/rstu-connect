@@ -19,7 +19,7 @@ Let's examine the actual truth about this misleading document.
 ### Funding Sources
 The report was produced by the **Nevada Policy Research Institute (NPRI)**, a conservative think tank that receives significant funding from:
 - **Nevada Association of Realtors** - Direct financial contributions
-- **Apartment Association of Nevada** - Member dues and special assessments  
+- **Apartment Association of Nevada** - Member dues and special assessments
 - **National Apartment Association** - National lobbying organization
 - **Real Estate Roundtable** - Corporate real estate interests
 
@@ -37,7 +37,7 @@ The report exhibits classic signs of biased research:
 
 **What the report claims**: All forms of rent regulation lead to decreased housing construction and reduced rental supply.
 
-**The reality**: 
+**The reality**:
 - **Modern rent stabilization** policies typically exempt new construction for 15-20 years
 - **Studies show** that moderate rent increase limits (5-7% annually) have minimal impact on new construction
 - **Academic research** distinguishes between harsh 1970s-era controls and modern rent stabilization

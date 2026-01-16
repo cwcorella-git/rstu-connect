@@ -13,9 +13,6 @@ tags:
 The version presented in WRAP is the published version (Version of Record).
 
 # **Persistent WRAP URL:**
-
-http://wrap.warwick.ac.uk/103485
-
 ## **How to cite:**
 
 The repository item page linked to above, will contain details on accessing citation guidance from the publisher.

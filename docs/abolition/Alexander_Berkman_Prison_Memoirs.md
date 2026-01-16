@@ -292,7 +292,6 @@ His manner disconcerts me; but the sarcasm of his words and the offensive tone r
 
 "Oh, that is interesting," I hear, as in a dream, the unpleasant guttural voice of the Director. "When did you write it?"
 
-
 "Three years ago."
 "How old were you then?"
 "Twelve."
@@ -300,7 +299,7 @@ His manner disconcerts me; but the sarcasm of his words and the offensive tone r
 "Yes."
 "Where?"
 "At home."
-## 
+##
 "Bring it to me to-morrow. Without fail, remember."
 
 His voice grows stern. The words fall upon my cars with the harsh metallic sound of my sister's piano that memorable evening of our musicale when, in a spirit of mischief, I hid a piece of gas pipe in the instrument tuned for the occasion.
@@ -1161,20 +1160,18 @@ Between the narrow bars, the beverage is poured into my bent, rusty tin can. In 
 
 "Want to be smart, don't you? Well, we'll take it out of you. Hey, there, Sam," the officer motions to the trusty, "no dinner for A 7, you hear!"
 
-
 "Yes, sir. Yes, sir!"
 "No more coffee, either."
 "Yes, sir."
-## 
+##
 The guard measures me with a look of scornful hatred. Malice mirrors in his face. Involuntarily I step back into the cell. His gaze falls on my naked feet.
-
 
 "Ain't you got no shoes?"
 "Yes."
 "Ye-e-s! Can't you say 'sir'? Got shoes?"
 "Yes.,'
 "Put 'emn on, damn you."
-## 
+##
 His tongue sweeps the large quid of tobacco from one cheek to the other. With a hiss, a thick stream of brown splashes on my feet. "Damn you, put 'em on."
 
 The clatter and noises have ceased; the steps have died away. All is still in the dark hall. Only occasional shadows flit by, silent, ghostlike.
@@ -2877,12 +2874,11 @@ With great relief I learn that "Crazy Smithy" is not dead. He will recover, the 
 
 The rare snatches of conversation with the old rangeman are events in the monotony of the solitary. Owing to the illness of Bob, communication with my friends is almost entirely suspended. In the forced idleness the hours grow heavy and languid, the days drag in unvarying sameness, By violent efforts orts of will I strangle the recurring thought of my long sentence, and seek forgetfulness in reading. Volume after volume passes through my hands, till my brain is steeped with the printed word. Page by page I recite the history of the Holy Church, the lives of the Fathers and the Saints, or read aloud, to hear a human voice, the mythology of Greece and India, mingling with it, for the sake of variety, a few chapters from Mill and Spencer. But in the midst of an intricate passage in the "Unknowable," or in the heart of a difficult mathematical problem, I suddenly become aware of my pencil drawing familiar figures on the library slate: 22 x 12 = 264. What is this, I wonder. And immediately I proceed, in semi-conscious manner, to finish the calculation:
 
-
 264 x 30 = 7,920 days.
 7,920 x 24 = 190,080 hours.
 190,080 x 60 = 11,404,800 minutes.
 11,404,800 x 60 = 684,288,000 seconds.
-## 
+##
 But the next moment I am aghast at the realization that my computation allows only 30 days per month, whereas the year consists of 365, sometimes even of 366 days. And again I repeat the process, multiplying 22 by 365, and am startled to find that I have almost 700,000,000 seconds to pass in the solitary. From the official calendar alongside of the rules the cheering promise faces me, Good conduct shortens time. But I have been repeatedly reported and punished — they will surely deprive me of the commutation. With great care I figure out my allowance: one month on the first year, one on the second; two on the third and fourth; three on the fifth, sixth, seventh, eighth, and ninth; four months' "good time" on each succeeding year. I shall therefore have to serve fifteen years and three months in this place, and then eleven months in the workhouse. I have been here now two years. It still leaves me 14 years and 2 months, or more than 5,170 days. Appalled by the figures, I pace the cell in agitation. It is hopeless! It is folly to expect to survive such a sentence, especially in view of the Warden's persecution, and the petty tyranny of the keepers.
 
 Thoughts of suicide and escape, wild fancies of unforeseen developments in the world at large that will somehow result in my liberation, all struggle in confusion, leaving me faint and miserable. My absolute isolation holds no promise of deliverance; the days of illness and suffering fill me with anguish. With a sharp pang I observe the thinning of my hair. The evidence of physical decay rouses the fear of mental collapse, insanity . . . I shudder at the terrible suggestion, and lash myself into a fever of irritation with myself, the rangeman, and every passing convict, my heart seething with hatred of the Warden, the guards, the judge, and that unembodied, shapeless, but inexorable and merciless, thing — the world. In the moments of reacting calm I apply myself to philosophy and science, determinedly, with the desperation born of horror. But the dread ghost is ever before me; it follows me up and down the cell, mocks me with the wild laughter of "Crazy Smith" in the stillness of the night, and with the moaning and wailing of my neighbor suddenly gone mad.
@@ -3946,18 +3942,16 @@ The incident cements our intimacy; our intimacy, our first diffidence disappears
 
 ## "Will you promise not to laugh at me, Sashenka?"
 
-
 "I wouldn't laugh at you."
-## 
+##
 "Well, I'll tell you. I wasthinking — how shall I tell you? I wasthinking, Sashenka — if you were here with me — I would to like to kiss you."
 
 An unaccountable sense of joy glows in my heart, I muse in silence.
 
 "What's the matter, Sashenka? Why don't you say something? Are you angry with me?"
 
-
 "No, Felipe, you foolish little boy."
-## 
+##
 ## "Oh, I am so glad, Sashenka."
 
 In the evening the guards descend to relieve Johnny; he is to be transferred to the basket, they inform him. On the way past my cell, he whispers: "Hope I'll see you soon, Sashenka." A friendly officer knocks on the outer blind door of my cell. "That you thar Berkman? You want to b'have to th' Dep'ty. He's put you down for two more days for sassin' him."
@@ -5026,9 +5020,8 @@ Considerable time elapses before "Coz" returns. From the delay I judge that the 
 
 ## "Well, I'll tell you. He is not a screw."
 
-
 "Can't be a prisoner?"
-## 
+##
 ### III
 
 Dear Mr. J. M.:

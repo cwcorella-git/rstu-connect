@@ -129,7 +129,7 @@ M e bk b z e z z w nqe Oe e ge ew ee e we e e eq e b e w e I e e e ee e b c w we
 
 B W p F b b P F B Ndes, \* u pp b b p b q k q F p B g p q W p p o b ? W p ? A I ? q p P F
 
-W ? p p b id. b p p b b b p p m p b A p b b p p U /Ep P d Cp ad b d k d b W p p f p p b p p p b p b 
+W ? p p b id. b p p b b b p p m p b A p b b p p U /Ep P d Cp ad b d k d b W p p f p p b p p p b p b
 
 b b T p p d b b d k p p p p qk A bz p p p p p b pl W c pp p p B p p p b p b i pb p ( p p u o a
 
@@ -149,9 +149,9 @@ For Freire, the flexible and efficient state in the information age is very diff
 
 How can the solidarity state hope to keep domestic capital from flying off into the ether of the global flows? How can such a state, rooted in the empowerment of citizens and workers, hope to attract international technology transfer and capital investment? Neoliberals argue that it cannot; that it would inherently drive capital and new technology away. But with Paulo Freire at our side, let us consider this carefully. Capital needs a stable political environment for high returns over the long term. Stability is impossible in societies marked by great income and information inequality, uneven participation, exclusion, and the absence of a critically aware citizenry that is prepared to solve political problems in its own interest. Politi-
 
-b p Cp s b k b b k pb b k pp k p p p D p q b pp p p p p p b p b 
+b p Cp s b k b b k pb b k pp k p p p D p q b pp p p p p p b p b
 
-F b q pp b b K k L b k p Kk) b k p L F p 97 98 Pp b k p b p p p b G F p p p G Y p p b b kpp F B p p: p pp 
+F b q pp b b K k L b k p Kk) b k p L F p 97 98 Pp b k p b p p p b G F p p p G Y p p b b kpp F B p p: p pp
 
 B k pp p p b p p p F p p p q b p p b ? F b p b p p A p k p p p b b p b p k q k Y k b p p k p p
 
@@ -227,7 +227,7 @@ In part, this is the path that leads an economist who realizes that the problems
 
 Pe e He u F k c vw w c v c v U w c uc w c c cc c c c v c c u uc cv c c w w c w cc v ck u cv u Hz ck w cv c h cc wh h vu cc v c c v a w c c k w wk u w c c c cz c cc q c u w c v c M Fa wu v w ccr w v c cu v cm A w c w u v c c w v v v w m u w c ur c u g u w vw c c w c q w h c c v v wk c
 
-Cp u uc c z qu W w wc c c u v c w wk v u B k w z vc v a w 
+Cp u uc c z qu W w wc c c u v c w wk v u B k w z vc v a w
 
 cu cc cu f v c v S c w c c v c h c v w kw wc c c w c u v w f
 
@@ -293,7 +293,7 @@ Because I am a being in the world and with the world, I have not a little piece 
 
 A sense of security slowly returned to the degree that, in needing it, I would search for it through the relationship between my mother and my father. When I woke up in the morning, I happily understood that my security depended on the way my parents spoke to each other and to me.
 
-My first world was the yard in my house, with the mango trees, cashew trees with their branches kneeling down to the shaded ground, along with the breadfruit trees among others. These trees with their varied colors, smells, and fruits would attract various birds where they would take advantage of the s v s sn {s o 
+My first world was the yard in my house, with the mango trees, cashew trees with their branches kneeling down to the shaded ground, along with the breadfruit trees among others. These trees with their varied colors, smells, and fruits would attract various birds where they would take advantage of the s v s sn {s o
 
 M d b s b v s ssss ss ds Ss s d ss s s d s s s b s ld b s s s s s v b s s v d ss v s
 
@@ -331,7 +331,7 @@ he Fes Ze cs, e he be ee ee expe sc ve hs pesece he Sch ve s s sc s h he echsc e
 
 Sch p ese e chcezes he cpe hes es he pcces ese's pessves he pc , he pese Less h se ccze e s beses" , pc ebe p e s js he ee he c psve ee spes che he hee s h e che, " he s heesse he h sse ece v Ge ec e ee hv he es" cvs P Fee e es sese he ec eee hs h h es ps, cscesess; b he h he echc, scec, pess evepe ees" Devepe " hee ses s hs s exc h hs seese he csses: he epcz ec e, ec eqes echc scec pess evepe s ch s es es p ejec he h h c be e b he cse qeces eccbz ese b he e becse h c be e s he uvbe Accep he exb h es pce s excee cb he ces he eq h s he cee he eh"
 
-Oe he e eeces beee e sch sc eecsscss ecss, phsphes ecs, es e-es eve ccep, ese , h ec pcce sh be e sce e he , " e ex," b he beev h sh s ce e c ex," e he " Abve , eece es p p 
+Oe he e eeces beee e sch sc eecsscss ecss, phsphes ecs, es e-es eve ccep, ese , h ec pcce sh be e sce e he , " e ex," b he beev h sh s ce e c ex," e he " Abve , eece es p p
 
 ## p b B Fc Jb p p b p p p q b b b pb b p b b b p b b pb b p p
 
@@ -339,9 +339,9 @@ Oe he e eeces beee e sch sc eecsscss ecss, phsphes ecs, es e-es eve ccep, ese , 
 
 ## W k b v k e b p Ob k b H p v
 
-A p p hq o pk b b b pp k pv p ppS b pp p b b p M p o: p b p a 
+A p p hq o pk b b b pp k pv p ppS b pp p b b p M p o: p b p a
 
-O V p b k P p k "0 ? II p W , b b ' p p b pb o p p v 
+O V p b k P p k "0 ? II p W , b b ' p p b pb o p p v
 
 W v p pb p p p b p b o A · t pp pp p p pp p p. pp pp j N (s 5, pa 5
 
@@ -387,7 +387,7 @@ A "no-man's land," it is surrendered to the generations as they come; whether "f
 
 ## A I p b I b b Bz z v b pp v v b b p
 
-W I p b I b R Gb B C R Bz I p b N P Az V Lb C G } A b C v pp B I bs vp p v I pp R I A p A I b 
+W I p b I b R Gb B C R Bz I p b N P Az V Lb C G } A b C v pp B I bs vp p v I pp R I A p A I b
 
 ## N b b v b pp b v l p " Ov p p pp bz z p v pf p
 
@@ -491,7 +491,7 @@ The urgently needed improvement in the quality of our education is linked to inc
 
 ## p I pz M p Gp W R O !GO I Eu p
 
-O p Bz p I p vp p p p p z p pp p pp I p p p pp y p ' 
+O p Bz p I p vp p p p p z p pp p pp I p p p pp y p '
 
 ## D p Dp E, v pv p p p q pg x O A q vp p
 
@@ -513,7 +513,7 @@ I pv v p pp v v A v v p ?
 
 Te e e e ee c e py F e e e e e e ee ey pe ey pe ( e) pey pe Ue pece e eve ee e p z ve c Te e e e f pee e ee e m even e e pe
 
-Te ec ey pe ee ec eve e e c e e e e e e e pee pee e e e ee e e eee e ey mpe e excvey e e ec cc cy ce e ve e e e e e ey pe v ee e e e e e e e G e eply e c h ee p ee e pe e h e p e e v cze d d A ee e e e e e e ve e ee y pyi v e ve e y e ea eve ) e e ve e ee eecve y pu vey ey e e ey e de ejy ve ve pee pece e e ee 
+Te ec ey pe ee ec eve e e c e e e e e e e pee pee e e e ee e e eee e ey mpe e excvey e e ec cc cy ce e ve e e e e e ey pe v ee e e e e e e e G e eply e c h ee p ee e pe e h e p e e v cze d d A ee e e e e e e ve e ee y pyi v e ve e y e ea eve ) e e ve e ee eecve y pu vey ey e e ey e de ejy ve ve pee pece e e ee
 
 pye ppe e e' exece e pe wec cue eC ve, p ev Heve I efe c ep - e e pye beeve ee ee e ee ey G e ce e ve e je ve y pye k G ve e ee p e e e pef e ppee ve y pye e e ene e ee r e n e e ey y ee e pe e e o neve G p e e ve e ee j e e ee ev e eey ve y ee e ep e e enee eve y vey pe by ve pee e eee je Ae e ppee e ppe e ve e e; e ey e e py e ppe e
 
@@ -585,9 +585,9 @@ A 979 Vp Ez, , m, , q L p u k p J
 
 H p Bz v m?1 k l, w m pp , , a W , pp, bk gp W k pp k l v, , x vn
 
-W N v, , m pf, v Bz, pp p pp g, b , m , m p , p p pp, b, h 
+W N v, , m pf, v Bz, pp p pp g, b , m , m p , p p pp, b, h
 
-## A , vv, , v e pv z , p, p v , , N Pp m ik , v b v v v k k v k , q v k Pp f p p v, p v b , v p W p l, 
+## A , vv, , v e pv z , p, p v , , N Pp m ik , v b v v v k k v k , q v k Pp f p p v, p v b , v p W p l,
 
 Pp v pd A p , v p , r W SC v " / p t v v O v pb v
 
@@ -601,7 +601,7 @@ P - k I b p p p p k l , k , ,
 
 ## Pp p p k, k k py o Rk k k v , , k
 
-## : j p, , , pq v cI Nv, p p z ; R p s i d c s y 
+## : j p, , , pq v cI Nv, p p z ; R p s i d c s y
 
 H c ss y pcm p y c s cs p y? H c ss y w sc s cks ss a ks? Ps y s pcss s c c O c s n e s pss c y y c yy n e s c c c y y ps sy c s c y cy Sc ps y ss s s ps scs c wk s w y p ps w s cy c
 
@@ -613,7 +613,7 @@ My c s s s s F s s s y pgss s s ccs s pcc s y c cs y s pps s s s s y p s s sc p 
 
 ## Ts scsc s cs cs p cc a cc csc sy cq p pc
 
-F s ss s ss ss cc c h c c ps e s cc pcp y s cc pgss pspc pcss c c c s s ee c es ps h cs cc pcp pcp cs s ps sp s ee c c ss w m scp cs ccp s ee sn h s p y sk s pss c cc w s cc 
+F s ss s ss ss cc c h c c ps e s cc pcp y s cc pgss pspc pcss c c c s s ee c es ps h cs cc pcp pcp cs s ps sp s ee c c ss w m scp cs ccp s ee sn h s p y sk s pss c cc w s cc
 
 pss c s xc h sk c cc s H s s y s p ccp jc s c Ps s c s ccs sc sy s cs s ps ps H s c P s s psp h sss sc css s ss sy scs sp Hp c c s w c c t s k c ps cc I ms c cps c c s cc p s T w ps c s s s c s pss s , pc cc k c k y"
 
@@ -623,7 +623,7 @@ y cky kws y h sc s s ss s w s y n i
 
 y y v y y y h svs ; y y y y y y s z y y p y v v s s s by s s sy v W p y w y b U y s W y pgv I sv py y y pgv y m 'y v mb l p "m s v p u y a y v A k s b q pk mS by y b k b v y s py s b b y g y b y y v y m d
 
-A p y v u y y t p pb y y L p O v v e p k sv L y w q by, Ny vb b b - y ADS, by v y ky fy b p m b mb x 
+A p y v u y y t p pb y y L p O v v e p k sv L y w q by, Ny vb b b - y ADS, by v y ky fy b p m b mb x
 
 A py i h u . A p b b pb v cm j p system must be strong. That, though, does not mean this criticism should be pronounced with anger rather than with the goodness and peace characteristic of those engaged in the good combat. This must not be the discourse of bitterness, without even the faintest trace of hope. On the contrary, it must be hopeful, critically optimistic, and "drenched" in ethics.
 
@@ -803,7 +803,7 @@ A w pz poo o po o o ox po o p od b D o o o p w o op o o poo o o b or o v o o po
 
 Ao o o io v o oo p: wl r o 'S p o boo z w pp O opd b l oo o poo vo op B o p vb o b o p o o F w o e o poo ot Wo pogv o p o
 
-W p o i o p ooo b o o pov o o v uo o bo ow o p r s v o d v pvoo o poo wo bo opo d pov o o v o o. o owv, o o o b o v o w 
+W p o i o p ooo b o o pov o o v uo o bo ow o p r s v o d v pvoo o poo wo bo opo d pov o o v o o. o owv, o o o b o v o w
 
 T p o o wo boo o p o o o r o v poo o o oo o pol point of view. What is strictly necessary for them is to deposit contents about the vital phenomenon in the learn er.
 
@@ -867,7 +867,7 @@ Oo ov o v o ou c w v o ou c w d wou p o do coo o u w d w w b d God O coy o oud c
 
 do o v coob pk bou A oo como do w ou oc coc uo d pdoc d o w o o owv ud poc o u o ovco opv l d o ud ul oc o v d ou u vo o c o u o o pprn oc v dp oo u ov c d v owd o So dow cu co a o w /
 
-S ou d Mu d uo d o d o o o bu cu do o obz ov d o o co co w o co rs d v co ngs Ngng o b wou bu ng ou c No v o o d o u b wo c o b u dd do o bv o o v Hv bv o pob; pob c ov ad cotdc i co coc d o dp ud c w w c d w do o v o o ocl o wo 
+S ou d Mu d uo d o d o o o bu cu do o obz ov d o o co co w o co rs d v co ngs Ngng o b wou bu ng ou c No v o o d o u b wo c o b u dd do o bv o o v Hv bv o pob; pob c ov ad cotdc i co coc d o dp ud c w w c d w do o v o o ocl o wo
 
 Sc w cd v v b o u ow cou o o coc C w co o o c oc c o o or How ob o wl" w Cr bu o ou cl o" o I
 
@@ -963,7 +963,7 @@ Ts s s h s s pss p m p b s s 960 p 0 p s sms n hu s p 0 p ps ss. Th s s jp 78 s 
 
 As spks b Nss F s s pp bss s h s s s s s h ss s p i b s h bss s d I s h s Ns b k k b F b ss s b bk rss py bz k p, s , s s hs s pp s s ps sss " s s
 
-Hv b p h Ps n u s s Nhs s s s mp mss s s gs s ss Bz p s T m h s ns ss s b ps s s p s p s s Ts s s Ns pp s n s Vn s h ps b n b b n kn s pp b c c p c ccp p c cp b a b 
+Hv b p h Ps n u s s Nhs s s s mp mss s s gs s ss Bz p s T m h s ns ss s b ps s s p s p s s Ts s s Ns pp s n s Vn s h ps b n b b n kn s pp b c c p c ccp p c cp b a b
 
 N k k pp x B bw 979 988 38 k B b p b c c , b B /30/89 p 4)
 
@@ -995,7 +995,7 @@ Ans s s mp cos B B B 1900 s vy c my y c s c H ws b s bcs wy ccs b cs ws p wy s g
 
 ## Hs sv wk w pbc cs ws scy c B wc n J
 
-F Dsc n c b ps NPq) s w s s (UESCO) wys cs s pbcc s sbs s c c n bcc pcs s c c Hs s w ccy n cc vp s bs scc sc pc by cs pmy c by s Kw w b s xc cv y spsby by s c c w 
+F Dsc n c b ps NPq) s w s s (UESCO) wys cs s pbcc s sbs s c c n bcc pcs s c c Hs s w ccy n cc vp s bs scc sc pc by cs pmy c by s Kw w b s xc cv y spsby by s c c w
 
 A gy c c w s b s w s cbv pjc n ps ws w vc J Dwys s W c b Uvsy b c Dwy U. Swcws s wy Bz v v D w s ps Bza sy sw ccs s b cs v ws b y bcs s Ac s fc Kpsky L s w s Rss's c plcy Ms s v p As v cv s s s Bz
 
@@ -1011,7 +1011,7 @@ j F M m E m m m ME d b y m m z b m " ( 81
 
 F m k m ymm b m y m a D y m mz k mmm y y m my y m ks W m OUPSI fy y qy m um mm m (m) by g
 
-E y m A 5 2 m Am C C m C E A (NAE NAE m l m mm y F q y p m m v G m j : z e w m i xm r m mz 
+E y m A 5 2 m Am C C m C E A (NAE NAE m l m mm y F q y p m m v G m j : z e w m i xm r m mz
 
 D m j m B Rh C A B E y um M y y m k , t y F m
 
@@ -1107,7 +1107,7 @@ that they were able to crush Canudos, on October 5, 1897, twelve days after the 
 
 Ts s M ss sh s b h Bz r h W Bk h b h ss bs s s kp h bks hqs i Wsh ps pyms t h Bz 1sy Dpm s b bs ws wh hs h bk gs hs sp h W Bks x p Bz:
 
-I h s p s Bz h s s s h p sp s sss h i, h u hs s p s h pjs wh w p whh h bjs s by h W Bk by h Bz m Scoos do o move. Teceswo soud be tied sl demoste he sme defceces s beoe. Sude peomace so emed e se[y ] ty ys h W Bk s \$00 pjs Bz h Bz m s sp \$ 7 h s pjs hs by hh b h \$80 N s hs b sy h sp \$280 \$00 s 
+I h s p s Bz h s s s h p sp s sss h i, h u hs s p s h pjs wh w p whh h bjs s by h W Bk by h Bz m Scoos do o move. Teceswo soud be tied sl demoste he sme defceces s beoe. Sude peomace so emed e se[y ] ty ys h W Bk s \$00 pjs Bz h Bz m s sp \$ 7 h s pjs hs by hh b h \$80 N s hs b sy h sp \$280 \$00 s
 
 wh h h wh sys h h W Bk s hb z s sppw whs s pb wh s s h hs p w s h s p by h s h cy h s s s ss s h hs bks (075 p y h s whh s p y wh h y s bs ps 05 p s py h fss) F ss ps s h W Bk pss b p h ( Ve z /3/94)
 

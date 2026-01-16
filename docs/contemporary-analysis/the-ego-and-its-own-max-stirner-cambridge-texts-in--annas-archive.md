@@ -2157,14 +2157,13 @@ Further, Edgar Bauer goes on: 'guardianship is the characteristic of a governmen
 
 'In the constitutional state it is the regent and his disposition that the whole structure of government rests on in the end.'! How would that be otherwise in the 'people's state'? Shall I not there be governed by the people's disposition too, and does it make a difference for me whether I see myself kept in dependence by the prince's disposition or by the people's disposition, so-called 'public opinion'? If dependence means as much as 'religious relation', as Edgar Bauer rightly alleges, then in the people's state the people remains for me the superior power, the 'maj esty' (for God and prince have their proper essence in 'majesty') to which I stand in religious relations. - Like
 
-
-, Ibid. p. 56. 
-d Ibid. p. n 
+, Ibid. p. 56.
+d Ibid. p. n
 ## b Ibid. p. 76.
 ## , Ibid. p. 74.
 ## , Ibid. p. 69.
 ## f Ibid. p. I30.
-## 
+##
 the sovereign regent, the sovereign people too would be reached by no law. Edgar Bauer's whole attempt comes to a change of masters. Instead of wanting to make the people free, he should have had his mind on the sole realizable freedom, his own.
 
 In the constitutional state absolutism itself has at last come in conflict with itself, as it has been shattered into a duality; the government wants to be absolute, and the people wants to be absolute. These two absolutes will wear out against each other.
@@ -3645,16 +3644,15 @@ Papal states and changing the criteria for inclusion of books in the Index - and
 
 Certain subjects, such as Christianity and egoism, occur on virtually every page of The Ego and Its Own; in such cases the entries below refer only to passages where there is some extended discusson of the subject.
 
-
-adulthood, xiv, 1 6-18 
-Africa, xvii-xviii, xix, 63 
-Algiers, 230 
-alienation: see bifurcation of self 
-America, 1 60, 1 97, 212, 235, 236 
-anarchism, xi, xxxvii-xxxviii, 336 
-ancient world, xiv-xv, 1 9-27, 29-30, 
-        3 6, 42, 63, 85-7, 1 52, 1 63, 
-        1 90-2, 207, 260, 3 20-2 
+adulthood, xiv, 1 6-18
+Africa, xvii-xviii, xix, 63
+Algiers, 230
+alienation: see bifurcation of self
+America, 1 60, 1 97, 212, 235, 236
+anarchism, xi, xxxvii-xxxviii, 336
+ancient world, xiv-xv, 1 9-27, 29-30,
+        3 6, 42, 63, 85-7, 1 52, 1 63,
+        1 90-2, 207, 260, 3 20-2
 atheism, 32, 3 8-.'Vi, xviii, xx, xxxvii, |
 |-----------------------------------------|----------------------------------------------|
 | Calvin, John, 347 | 332, 344, 348 |

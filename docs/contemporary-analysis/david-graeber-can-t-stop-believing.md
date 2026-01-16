@@ -19,7 +19,7 @@ For liberals, of course, all this means that Republicans live in a dream world o
 
 The origin of that phrase is telling in itself. It comes from a *New York Times Magazine* essay by onetime *Wall Street Journal* correspondent Ron Suskind. Called “Faith, Certainty and the Presidency of George W. Bush,” the essay is, for the most part, an elaboration on the same point I just made, namely that for Bush’s fans, the purity of his inner convictions was what really mattered. But the passage that made Suskind famous was one in which he reports a conversation with an unnamed “senior adviser to Bush” that, he says, “gets to the very heart of the Bush presidency”:
 
-> 
+>
 
 The aide said that guys like me were “in what we call the reality-based community,” which he defined as people who “believe that solutions emerge from your judicious study of discernible reality.” I nodded and murmured something about enlightenment principles and empiricism. He cut me off. “That’s not the way the world really works anymore,” he continued. “We’re an empire now, and when we act, we create our own reality. And while you’re studying that reality—judiciously, as you will—we’ll act again, creating other new realities, which you can study too, and that’s how things will sort out. We’re history’s actors ... and you, all of you, will be left to just study what we do.”
 

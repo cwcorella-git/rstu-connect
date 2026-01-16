@@ -17,7 +17,7 @@ The next week the notary duly appeared, accompanied me upstairs, made sure I’d
 
 The next day I took it to the bank, where the woman at the desk took one look, asked why my mother hadn’t signed it, and showed it to her manager, who told me to take it back and do it right. Apparently the notary had no idea what she was doing. So I got new forms, filled out my side of each, and made a new appointment. On the appointed day the notary duly appeared, and after some awkward remarks about the difficulties caused by each bank having its own, completely different power of attorney form, we proceeded upstairs. I signed, my mother signed—with some difficulty—and the next day I returned to the bank. Another woman at a different desk examined the forms and asked why I had signed the line where it said to write my name and printed my name on the line where it said to sign.
 
-> 
+>
 “I did? Well, I just did exactly what the notary told me to do.”
 
 “But it says clearly ‘signature’ here.”
@@ -134,7 +134,6 @@ I’d like to thank David Apter, Keith Breckenridge, Kryzstina Fevervary, Andrej
 
 ### **BIBLIOGRAPHY**
 
-
 Apter, David
 
 1965 The Politics of Modernization. Chicago: University of Chicago Press.
@@ -144,9 +143,6 @@ Apter, David
 Breckenridge, Keith
 
 2003 “Power Without Knowledge: Three Colonialisms in South Africa.”
-
-http://www.history.und.ac.za/Sempapers/Breckenridge2003.pdf.
-
 2005 “Verwoerd’s Bureau of Proof: Total Information in the Making of Apartheid.” History Workshop Journal 59: 83–108
 
 Cooper, Marc

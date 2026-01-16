@@ -40,9 +40,6 @@ The notion that college should be free seems to be on everyone's mind.
 ## ![](_page_1_Picture_6.jpeg)
 
 ### **Stay in the Know!**
-
-Subscribe to our weekly emails and get the latest college news and resources sent straight to your inbox!
-
 A [February 2024 poll](https://www.freecollegenow.org/fact_sheet) by the Campaign for Free College Tuition found that 78% of Americans favor free college. College Promise, a similar organization, touts [bipartisan support](https://assets.website-files.com/61ba001bb59d05538c5a4bd8/61ba001bb59d0576b75a4c5a_College%20Promise%20for%20All%20Policy%20Proposal.pdf) for its agenda.
 
 But is free college actually a good idea? Let's look at the pros and cons of this controversial issue.

@@ -828,7 +828,7 @@ More than 250,000 Confederate soldiers died during the war. Some widows abandone
 
 ## ![](_page_80_Picture_9.jpeg)
 
-- 
+-
 
 ## 2nd National Flag
 

@@ -345,9 +345,6 @@ I gave out the link to libcom so hopefully we'll hear from some of the CNT Malag
 ## In reply to Welcomebylibcom.org
 
 Just seen that CNT Malaga have posted their report of the events earlier in the day (before the big March of the evening)- sorry I can't translate.
-
-http://malaga.cnt.es/spip.php?article693
-
 Crónica de la primera parte de la jornada de huelga 14-N en Málaga
 
 Desde las 11 de la noche, el local de cnt Málaga está abierto para orientar la acción de los piquetes y ofrecer un sitio donde descansar a todes aquelles que han querido hacerlo. A las 12 los primeros piquetes han salido hacia el centro, cerrando todos los bares. En uno de los pubs hay problemas con los dueños del local, acude la policía y realizan una detención. A las 5 ha salido otro grupo a reunirse con compañeres de otros colectivos, dirigiéndose hacia la Estación de Autobuses, que ya estaba cercada por la policía, y la estación de Renfe Vialia. En el trayecto se han ido cerrando los pocos locales que habían abierto, sin mayores incidentes. Sólo destacar el hecho de que cuatro policías locales han decidido desayunar justo en el momento que echaba el cierre un bar a solicitud del piquete. Cercados por la policía nacional, el piquete ha permanecido en la puerta del local hasta que los cuatro policías locales han terminado su consumición, que dicho sea de paso, no han abonado.
@@ -365,13 +362,7 @@ I'm not counting CCOO-UGT marches that, for instance in Madrid, took around 800,
 However, CNT + CGT + communist unions + neighborhood assemblies + social movements + occupiers (indignados of the 15M) took around 60,000 people in Madrid streets. In Barcelona the figure is between 50,000 and 80,000 (organisers tend to exaggerate the numbers; but CCOO and UGT exaggerate even more). In Gijón, 20,000, in Tarragona 25,000, in Zaragoza 25,000, 20,000 in Valladolid, in Vigo 10,000, in Granada 10,000 and so forth. Those people went to anticapitalist (also called critic, alternative) demos or blocs.
 
 Here there is the count of CGT in Catalonia. They might be exaggerating in Barcelona, but the figures in the rest of the catalan towns seems to be realistic.
-
-http://www.cgtcatalunya.cat/spip.php?article8212
-
 CNT numbers are also surprising:
-
-http://cnt.es/noticias/cobertura-informativa-huelga-general-14n
-
 For instance cnt alone: Salamanca, 7000; Cartagena, 3000; 2000 in Valencia...
 
 We are still in moving in a rate of 1/10 of the force of the bureaucratic unions, but the growth is impressing.

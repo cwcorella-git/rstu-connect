@@ -2655,5 +2655,3 @@ In the long run, the best image of Bakunin is not that of the revolutionary on t
 Since the Second World War, there has been a renewed interest in Bakunin, not only from the students' movements in the sixties but from intenectuals like Noam Chomsky. Bakunin's cult of spontaneity, his celebration of revolutionary win and instinctive rebellion, his advocacy of workers' control, his faith in the creative energies of the people, his critique of science - an have appealed to the rebellious young in modem technological States. Even
 
 Che Guevara was hailed as the 'new Bakunin'. Bakunin's search for wholeness in a divided society is not merely the product of a diseased form of romanticism or an unbalanced psyche, but rather a bold and inspiring attempt to reclaim one's humanity in an alienated world.
-
-https://anarchyinaction.org/index.php?title=Demanding\_the\_Impossible:\_A\_History\_of\_Anarchism

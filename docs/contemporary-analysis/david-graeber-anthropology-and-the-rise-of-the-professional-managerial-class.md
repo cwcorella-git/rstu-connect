@@ -62,7 +62,7 @@ As social historians have long noted, people of working-class background rarely 
 
 Still, this paragraph rather struck me:
 
-> 
+>
 
 As readers of Biehl, Daniel, and other anthropologists of suffering, we come to realize the shared humanity that links us to others who suffer. We also realize how profoundly human beings can fail one another, and sometimes we gain insight into ways we might be complicit in this failure. It is clearly a hope of suffering slot anthropology that these lessons might become a motive for change.... This kind of anthropology surely has important work to do in addressing the great cultural problems of our age. (Robbins 2013: 456)
 

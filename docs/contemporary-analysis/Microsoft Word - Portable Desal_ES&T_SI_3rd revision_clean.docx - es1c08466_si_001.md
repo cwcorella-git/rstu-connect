@@ -494,7 +494,7 @@ Table S4. The standard conditions for multistage electromembrane process.
 ml/m |
 | , | 2 ×
 , |
-| , | 
+| , |
 0.48
 g/L |
 | , | 35

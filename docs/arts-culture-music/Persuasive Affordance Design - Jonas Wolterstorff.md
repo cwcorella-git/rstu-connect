@@ -262,7 +262,7 @@ Communities
 | 5.3 |
 | Diary Elements and Personal Tracking – Finding Research to Scrutinise
 Feedback as Motivational Affordance |
-| 
+|
 75 |
 
 Applying Lessons from Psychology and Human-Computer-Interaction to
@@ -281,7 +281,7 @@ Applying Lessons from Psychology and Human-Computer-Interaction to
 | – Finding Research to Scrutinise Lookout Master Board
 Visualised Ranking
 & Best Burrow Board as Motivational Affordance |
-| 
+|
 84 |
 | 5.4.1 |
 | Analysis:
@@ -361,7 +361,7 @@ Meerkats 117 |
  |
 | 122 |
 | ANNEX |
-| 
+|
 128 |
 | – Thesis for Master
 – Sustainable
@@ -2230,9 +2230,8 @@ be assumed. |
 | Community |
 ## | come friends, Social Capital, |
 
-
 community
-## 
+##
 ## World Suck foundation memorialisation
 
 ## 2)
@@ -2750,7 +2749,6 @@ Mindful Meerkats - A Smartphone Game as an instrument for behavioural change tow
 
 ## TABLE 6: VIRTUAL AGENT TYPOLOGY - EXTENDED (BY AUTHOR)
 
-
 Virtual Agent Typology
 (
 + = strong
@@ -2766,7 +2764,7 @@ of Reality
 1) Sprite
 (e.g. Androidify/
 -
-## 
+##
 -
 
 ## ![](_page_177_Figure_0.jpeg)
@@ -3582,7 +3580,6 @@ ead om elo re
 
 ## Even do and
 
-
 В
 ure
 such
@@ -3600,7 +3597,7 @@ SS
 C
 gners.
 ter
-## 
+##
 uch
 
 | (V) |
@@ -4058,7 +4055,7 @@ ds to
 
 ad ent lea nge to eha le ha ds Beha В lead hange m ds in ent lea
 
-- 
+-
 
 m to to
 
@@ -4257,9 +4254,6 @@ Ariely, Dan. 2008. Predictably Irrational: The Hidden Forces That Shape Our Deci
 Ayres, Ian, Sophie Raseman, and Alice Shih. 2012. "Evidence from Two Large Field Experiments That Peer Comparison Feedback Can Reduce Residential Energy Usage." Journal of Law, Economics, and Organization, ews020.
 
 Bang, Magnus, Anton Gustafsson, and Cecilia Katzeff. 2007. "Promoting New Patterns in Household Energy Consumption with Pervasive Learning Games." In Persuasive Technology, edited by Yvonne de Kort, Wijnand IJsselsteijn, Cees Midden, Berry Eggen, and B. J. Fogg, 55–63. Lecture Notes in Computer Science 4744. Springer Berlin Heidelberg.
-
-http://link.springer.com.proxy.library.uu.nl/chapter/10.1007/978-3-540-77006-0\_7.
-
 Bartle, Richard. 2014. "Richard A. Bartle: Avatar, Character, Persona." Mud.co.uk. July 8. http://mud.co.uk/rich-ard/acp.htm?utm\_content=bufferc85ba&utm\_medium=social&utm\_source=twitter.com &utm\_campaign=buffer.
 
 Bernays, Edward L. 1952. Public Relations. 2. print. Norman: Univ. of Oklahoma Press.
@@ -4281,23 +4275,11 @@ Boyd, Danah, and Kate Crawford. 2012. "Critical Questions for Big Data." Informa
 ## International
 
 Publishing.
-
-http://link.springer.com.proxy.library.uu.nl/chapter/10.1007/978-3-319-10208-5\_5.
-
 Caon, Maurizio, Elena Mugellini, and Omar Abou Khaled. 2013. "A Pervasive Game to Promote Social Offline Interaction."
 
 In Proceedings of the 2013 ACM Conference on Pervasive and Ubiquitous Computing Adjunct Publication, 1381–84. ACM.
-
-http://dl.acm.org/citation.cfm?id=2497359.
-
 Castellini, Brianna. 2013. "Don't Forget To Be Awesome: An In-Depth Exploration of Nerdfighteria." Interface: The Journal of Education, Community and Values 13 (inter13).
-
-http://commons.pacificu.edu/cgi/viewcontent.cgi?article=1025&context=inter13.
-
 Celino, Irene. 2013. "Location-Based Games for Citizen Computation." In Handbook of Human Computation, edited by Pietro Michelucci, 297–316. Springer New York.
-
-http://link.springer.com.proxy.library.uu.nl/chapter/10.1007/978-1-4614-8806-4\_25.
-
 Chemero, Anthony. 2003. "An Outline of a Theory of Affordances." Ecological Psychology 15 (2): 181–95.
 
 Consolvo, Sunny, Eric Paulos, and Ian Smith. 2007. "Mobile Persuasion for Everyday Behavior Change." Mobile Persuasion 20: 77–86.
@@ -4376,9 +4358,6 @@ Fogg, BJ, Dean Eckles, I. Bogost, and others. 2007. Mobile Persuasion: 20 Perspe
 Stanford Captology Media Standford, CA.
 
 "Four of Nine Planetary Boundaries Now Crossed – University of Copenhagen." 2015. Accessed July 15.
-
-http://snm.ku.dk/english/news/all\_news/2015/01\_four\_of\_nine\_planetary\_boundaries\_crossed/.
-
 Gibson,
 
 ## James
@@ -4394,9 +4373,6 @@ Gibson,
 Hilldale,
 
 USA.
-
-https://books.google.de/books?
-
 hl=de&lr=&id=b9WWAwAAQBAJ&oi=fnd&pg=PA56&dq=the+theory+of+affordances&ots=KUZuBDpnD7&sig=U332i1erzOJecf IfDyWFc QjJe Dc.
 
 Glasser, Harold. 2004. "Learning Our Way to a Sustainable and Desirable World: Ideas Inspired by Arne Naess and Deep Ecology." In Higher Education and the Challenge of Sustainability, 131–48. Springer. http://link.springer.com/content/pdf/10.1007/0-306-48515-X\_11.pdf.
@@ -4426,9 +4402,6 @@ Environmental Politics 11 (2): 95–120. doi:10.1080/714000601.
 ——. 2003. "Thinking Habits into Action: The Role of Knowledge and Process in Questioning Household Consumption Practices." Local Environment 8 (1): 95–112. doi:10.1080/13549830306673.
 
 Hooper, Clare J., and Jill Walker Rettberg. 2011. "Experiences with Geographical Collaborative Systems: Playfulness in Geo-social Networks and Geocaching." Workshop presented at the Please Enjoy workshop at Mobile HCI, August.
-
-http://eprints.soton.ac.uk/272471/.
-
 How Behavioral Science Can Lower Your Energy Bill. 2013. https://www.youtube.com/watch?v=4cJ08w Oqloc&feature=youtube\_gdata\_player.
 
 ## Master Thesis
@@ -4462,12 +4435,9 @@ Kligler-Vilenchik, Neta. 2013. "'Decreasing World Suck.'" http://drupal.dmlhub.n
 Kollmuss, Anja, and Julian Agyeman. 2002. "Mind the Gap: Why Do People Act Environmentally and What Are the Barriers to pro-Environmental Behavior?" Environmental Education Research 8 (3): 239–60.
 
 Landers, Richard N., and Rachel C. Callan. 2011. "Casual Social Games as Serious Games: The Psychology of Gamification in Undergraduate Education and Employee Training." In Serious Games and Edutainment Applications, edited by Minhua Ma, Andreas Oikonomou, and Lakhmi C. Jain, 399–423. Springer London.
-
-http://link.springer.com.proxy.library.uu.nl/chapter/10.1007/978-1-4471-2161-9\_20.
-
 Layard, Richard. 2003. "Happiness: Has Social Science a Clue? Lecture 1: What Is Happiness? Are We Getting Happier?"
 
-$http://eprints.lse.ac.uk/47425/1/\__libfile_REPOSITORY\_Content\_Layard\_Has\%20social\%20science\%20a\%20clue\%20what\%20is\%20happiness\_Has\%20social\%20science\%20a\%20clue\%20what\%20is\%20happiness\%20(LSE\%20RO).pdf.$ 
+$http://eprints.lse.ac.uk/47425/1/\__libfile_REPOSITORY\_Content\_Layard\_Has\%20social\%20science\%20a\%20clue\%20what\%20is\%20happiness\_Has\%20social\%20science\%20a\%20clue\%20what\%20is\%20happiness\%20(LSE\%20RO).pdf.$
 
 Lejano, Raul P., and Francisco Fernandez de Castro. 2014. "Norm, Network, and Commons: The Invisible Hand of Community." Environmental Science & Policy, Interrogating The Commons, 36 (February): 73–85. doi:10.1016/j.en-vsci.2013.07.012.
 
@@ -4490,9 +4460,6 @@ Matyas, Sebastian, Christian Matyas, Christoph Schlieder, Peter Kiefer, Hiroko M
 International Conference on Advances in Computer Entertainment Technology, 244–47. ACM. http://dl.acm.org/citation.cfm?id=1501806.
 
 Mc Gonigal, Jane. 2003. "A Real Little Game: The Performance of Belief in Pervasive Play." Level Up.
-
-http://ww%20w.avantgame.com/MCGONIGAL%20A%20Real%20Little%20Game%20DiGRA%202003.pdf.
-
 Mc Leod, Poppy Lauretta, Yi-Ching Liu, and Jill Elizabeth Axline. 2014. "When Your Second Life Comes Knocking: Effects of Personality on Changes to Real Life from Virtual World Experiences." Computers in Human Behavior 39: 59–70.
 
 doi:10.1016/j.chb.2014.06.025.
@@ -4568,9 +4535,6 @@ doi:10.1177/1555412005281779.
 Reiss, Steven. 2004. "Multifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires." Review of General Psychology 8 (3): 179.
 
 Robertson, Margaret. 2010. "Can't Play, Won't Play: Blog: Hide&Seek." Inventing New Kinds of Play. Hide&Seek. June 10.
-
-http://hideandseek.net/2010/10/06/cant-play-wont-play/.
-
 Rockström, Johan, Will Steffen, Kevin Noone, \AAsa Persson, Stuart III Chapin, Eric Lambin, Timothy M. Lenton, Marten Scheffer, Carl Folke, and Hans Joachim Schellnhuber. 2009. "Planetary Boundaries: Exploring the Safe Operating Space for
 
 ## Humanity."
@@ -4584,9 +4548,6 @@ Rockström, Johan, Will Steffen, Kevin Noone, \AAsa Persson, Stuart III Chapin, 
 ## 14
 
 (2).
-
-http://search.ebscohost.com/login.aspx?direct=true&pro-
-
 file=ehost&scope=site&authtype=crawler&jrnl=17083087&AN=52253039 &h=fz5vuY%2BLo9Pa2OZGg1yGLYWN
 
 9uWUn6ghkE8JGJb0fu5cy Kw1M14N8I%2FH87v8cR%2Fj2ltnx3AZquy3 0%2Bvklw BfBg%3D%3D&crl=c.
@@ -4606,9 +4567,6 @@ Sakamoto, Mizuki, and Tatsuo Nakajima. 2013. "Micro-Crowdfunding: Achieving a Su
 A Smartphone Game as an instrument for behavioural change towards sustainable lifestyles Santonen, Teemu, and Edward Faber. 2015. "Towards a Comprehensive Framework to Analyse Edutainment Applications."
 
 Accessed August 8.
-
-http://ispim.org/files/budapest\_proceedings/documents/678325815\_Paper.pdf.
-
 Schoolman, Ethan D., Jeremy S. Guest, Kathleen F. Bush, and Andrew R. Bell. 2012. "How Interdisciplinary Is Sustainability Research? Analyzing the Structure of an Emerging Scientific Field." Sustainability Science 7 (1): 67–80. doi:10.1007/s11625-011-0139-z.
 
 Seppelt, Ralf, Romina Martin, Alexander Finger, Christin Henzen, Martin Lindner, Katrin Pietzsch, Andreas Werntze, Ute Zander, and Jule Schulze. 2014. "Experiences with a Serious Online Game for Exploring Complex Relationships of Sustainable Land Management and Human Well-Being: LandYOUs." http://www.igb-berlin.de/IGB-Publikationen/Martin\_2014\_p\_IEMSS.pdf.
@@ -4646,9 +4604,6 @@ Stern, Paul C., Thomas Dietz, Troy D. Abel, Gregory A. Guagnano, and Linda Kalof
 Swan, Melanie. 2012. "Sensor Mania! The Internet of Things, Wearable Computing, Objective Metrics, and the Quantified Self 2.0." Journal of Sensor and Actuator Networks 1 (3): 217–53. doi:10.3390/jsan1030217.
 
 Swilling, Mark, and Eve Annecke. 2012. "Just Transitions: Explorations of Sustainability in an Unfair World."
-
-http://scholar.sun.ac.za/handle/10019.1/83160.
-
 Tausczik, Yla R., Laura A. Dabbish, and Robert E. Kraut. 2014. "Building Loyalty to Online Communities through Bond and Identity-Based Attachment to Sub-Groups." In , 146–57. ACM Press. doi:10.1145/2531602.2531688.
 
 Tol, R. 2003. "Is the Uncertainty about Climate Change Too Large for Expected Cost-Benefit Analysis?" Climatic Change 56
@@ -4689,7 +4644,7 @@ A Smartphone Game as an instrument for behavioural change towards sustainable li
 | http://books.google.de/books?
 hl=de&lr=&id=TYVqxs YkgEMC&oi=fnd&pg=PA35&dq=har- |
 
-$old+glasser\&ots=4Y\_5XFt-RT\&sig=f5ZTy9D5tyY2NU-Tpfqu3fHAu Vs.$ 
+$old+glasser\&ots=4Y\_5XFt-RT\&sig=f5ZTy9D5tyY2NU-Tpfqu3fHAu Vs.$
 
 WCED. 1987. Our common future. Oxford [u.a.]: Univ. Press.
 

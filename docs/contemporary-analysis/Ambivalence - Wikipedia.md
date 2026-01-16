@@ -31,7 +31,7 @@ Objective ambivalence is generally assessed using a method first developed by Ka
 
 Kaplan initially defined ambivalence as total affect (the sum of positive and negative reactions) minus polarity (the absolute difference of positive and negative reactions).[\[3\]](#page-11-2) For example, if objective ambivalence towards exercising was assessed using two separate 6-point scales, and a person indicated that his or her evaluation was slightly negative (e.g., 2 on a 6-point scale) and extremely positive (e.g., 6 on a 6-point scale), this person's ambivalence would be quantified by 2 times the lesser of these two evaluations (i.e., 4 in this example).
 
-Kaplan's measure yields the formula: 
+Kaplan's measure yields the formula:
 ## $$Ambivalence = L + S - (L - S) = 2S$$
 
 Here, S represents the smaller rating or reaction (called "conflicting" reaction in the seminal paper by Priester and Petty[\[16\]\)](#page-12-6), and L represents the larger rating or dominant reaction.

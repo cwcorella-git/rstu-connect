@@ -6,8 +6,7 @@ category: misc
 tags:
 - education
 ---
-# educational-material
----
+
 Educational Material Quick
 Reference
 Quick Links

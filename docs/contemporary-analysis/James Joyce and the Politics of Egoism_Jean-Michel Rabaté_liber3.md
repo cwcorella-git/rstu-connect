@@ -17,7 +17,7 @@ JEAN-MICHEL RABATÉ is Professor of English at the University of Pennsylvania. H
 
 The Pitt Building, Trumpington Street, Cambridge, United Kingdom
 
-### 
+###
 
 The Edinburgh Building, Cambridge CB2 2RU, UK 40 West 20th Street, New York, NY 10011-4211, USA 477 Williamstown Road, Port Melbourne, VIC 3207, Australia Ruiz de Alarcón 13, 28014 Madrid, Spain Dock House, The Waterfront, Cape Town 8001, South Africa http://www.cambridge.org
 
@@ -94,7 +94,7 @@ Chapter , "Joyce the egoist," was published in Modernism/Modernity, vol. , no. ,
 
 Note: double slashes (oblique lines) in quotations indicate paragraph breaks.
 
-### 
+###
 
 # Apres mot, le deluge: the ego as symptom
 
@@ -160,7 +160,7 @@ This double thesis is reiterated several times in the following sections, as in 
 
 The recurrent leitmotif of egoism in dreams throughout the *Interpretation of Dreams* acquires the character of an absolute thesis in the structural account of the "dream-work." Freud keeps the moralistic overtones of "egoism" in his description of a structural function deriving from the position of the "subject of enunciation" or the unconscious Cartesian *cogito* present in the dream:
 
-Dreams are completely egoistical. Whenever my own ego does not appear in the content of the dream, but only some extraneous person, I may safely assume that my own ego lies concealed, by identification, behind the other person; I can insert my ego into the context... Thus my ego may be represented in a dream several times over, now directly and now through identification with extraneous persons. By means of a number of such identifications it becomes possible to condense an extraordinary amount of thought material. The fact that the dreamer's own ego appears several times, or in several forms, in a dream is at bottom no more remarkable than that the ego should be contained in a conscious thought several times or in different places or connections – e.g. in the sentence "when I think what a healthy child I was." $(ID, 358)^{24}$ 
+Dreams are completely egoistical. Whenever my own ego does not appear in the content of the dream, but only some extraneous person, I may safely assume that my own ego lies concealed, by identification, behind the other person; I can insert my ego into the context... Thus my ego may be represented in a dream several times over, now directly and now through identification with extraneous persons. By means of a number of such identifications it becomes possible to condense an extraordinary amount of thought material. The fact that the dreamer's own ego appears several times, or in several forms, in a dream is at bottom no more remarkable than that the ego should be contained in a conscious thought several times or in different places or connections – e.g. in the sentence "when I think what a healthy child I was." $(ID, 358)^{24}$
 
 What Freud offers us, in other words, could be called a "grammar of egoism," in which the active and passive voices keep revolving around a mobile subjective center – much as he was to propose later about fantasy in "A Child is Being Beaten."25
 
@@ -206,7 +206,7 @@ In a very similar manner, Richard Rowan explains to his son Archie why it is bet
 
 One might nd in Joyce an older substratum of motives linking egoism and heroism (at least in the not so ironical title of Stephen Hero) that can call up Ayn Rand's subversion of her own values. The main fantasy that the creative ego can live and produce just for himself, independently from the gaze of the big Other, is not tantamount to asserting that the self makes up reality. What the comparison between Ayn Rand and Joyce can teach us nally is that solipsism and relativism can be avoided if and only if egoism contains the dialectical means by which it can be surperseded – be it through an almost impossible gift or through an even more paradoxical hospitality to the other.
 
-### 
+###
 
 I will sketch more fully some historical implications of Joyce's involvement in the "philosophy of egoism" and its political consequences in the following chapter. Let me just briey survey the broad evolution of the concept in Joyce's life and works with a view to answering Lacan's criticism. Joyce made a point of his earlier esthetic never to distinguish art from life, as I will show in chapter . In a essay, he writes of William Blake:
 
@@ -238,7 +238,7 @@ If in the *Wake* the circle of history is recaptured endlessly, the cumulative e
 
 Having sketched how Joyce became the Lacanian Symptom of literature, I will have to make a detour through his esthetic theories in order to follow the route linking "negative esthetics" to the philosophy of egoism that will be explored in a subsequent chapter. The loaded confrontation between endogamy and exogamy will lead us to a revision of the themes of hospitality and sodomy in the context of Joyce's desire to write a universal history of mankind. Other chapters will be devolved to the function of the reader, just sketched with Lucia here. I will subsequently have to distinguish between the plain readers, ideal readers, and revolutionary readers. Caught up in her father's revolution of language, acting as the rst symptom of its disturbing eects, Lucia's tragedy was to identify with the position of the ideal reader of the Wake while being deprived of her no doubt brilliant future.40 Joyce's book was made all the more dramatic as it was not only supposed to be a funny book – as indicated by the delicately paradoxical coining of "funferall" (FW ., ., and see also ., .) ), one of the most powerful leitmotifs of Finnegans Wake – but it became a prophetic book with a vengeance. Joyce's messianic dreams sublimated his egoism (the wish to have a direct impact on a cherished daughter) into the decision to replace a "dream monologue" (.) by a "drama parapolylogic" (.) including all his readers, in the hope that their, our cacophonous voices would just blend into a collective "music of the future." Nevertheless, he added a prudent question mark: "The mujic of the footure on the barbarihams of the bashed?" (. ).
 
-### 
+###
 
 # The ego, the nation, and degeneration
 
@@ -260,7 +260,7 @@ Finnegans Wake achieves this by plunging us in medias res or rather in the middl
 
 My focus in this book will be both more limited than Weir's Modernist contextualization of culture and anarchy, since I focus on Joyce and use the concept of anarchistic "egoism" as a hidden backbone underpinning his personal and literary trajectory, and broader, since I explore a number of critical concepts revolving around issues of egoism and its opposite notions, generosity or hospitality. Egoism, to be true, a rather fuzzy but strategic term, can be historicized (as we will see in a number of chapters dealing either with avant-garde politics or notions such as "Victorianism" or "Edwardianism"), and works at the juncture between art and politics, philosophy and literature, ethics and esthetics, artistic production and artistic consumption. Before discussing the theoretical stakes that are implied by this strategy, I will go back to Max Nordau, the rst critic who perceived the centrality of the concept of egoism for an understanding of Modernism. He is of course one of Modernism's most violent detractors, but his wholesale attack on the ideology of "egomania" in Degeneration connects usefully the "disease" of egoism with the works of Ibsen, Nietzsche, Baudelaire, Wagner, Zola, in fact anyone who had shown artistic or literary talent by the end of the nineteenth century.
 
-### 
+###
 
 Max Nordau's best-seller, Entartung () soon translated into English as Degeneration () 10 delivers a sweeping denunciation of the "modern" under all its shapes, which leads him to present a surprisingly clear view – al contrario, as it were – of the conceptual origins of Modernism. Degeneration was a spectacular critical success in the last years of the nineteenth century until a few critics like Wells and Shaw pointed out its howling misreadings, hasty reductions and philosophical inadequacies. In his excellent Degeneration, Culture and the Novel, 11 William Greenslade has sketched the entire ideological context that gave to the diagnosis of "degeneration" such a hold on the imagination of the late Victorian public.
 
@@ -463,7 +463,7 @@ If Marx saw in Stirner proof by incompetence and self-parody of the bankruptcy o
 
 Stirner is a writer who produces a work in order to extol the pleasure of life perceived as the Ego's auto-delectation and self-erasure: everything is Ghost for the unique mill of the Ego. The Ego is All and Nothing at once, and the non-totalizable source of negativity introduced into the world. This would recall Fichte rather than Hegel; here, the combination of their theses provides an unassailable position – except if you manage to convince the Ego that he is just another ghost. Which is what Marx and Engels have attempted to do, with a modest measure of success.
 
-### 
+###
 
 It is not a mere coincidence that Joyce's work should have found its way into the pages of Mardsen's magazine. If we are to pay attention to what Stanislaus Joyce has to say, his elder brother distinguished himself early by a Stirnerian attitude. At the beginning of his diary, in , when James was putting together material for a tentative autobiography, Stanislaus notes:
 
@@ -529,7 +529,7 @@ Most critics who belong to Thornton's "reconstructive" camp would then follow St
 
 In the ction that escapes from the autobiographical sphere, Joyce often provides interesting critiques of egoism, especially when it appears not as the expression of the self 's liberation but as nihilistic impotence. The "case" of Mr. Duy would provide a good example of this critique. "A Painful Case" shows how a man can condemn a woman to degradation and nally to an ignominious death through his rejection of love: "He thought that in her eyes he would ascend to an angelical stature; and as he attached the fervent nature of his companion more and more closely to him, he heard the strange impersonal voice which he recognised as his own, insisting on the soul's incurable loneliness. We cannot give ourselves, it said: we are our own."22 Is Mr. Duy the negative version of the egoist? Perhaps, especially when we remember that this story is based upon an incident that happened to Stanislaus Joyce. Let us take this as an opportunity to return to his diary, and to what it has to say about literary egoism, or more precisely about Meredith's famous novel, The Egoist.
 
-THE BOOK OF EGOISM: "CRIBBED OUT OF MEREDITH" 
+THE BOOK OF EGOISM: "CRIBBED OUT OF MEREDITH"
 ## $$(U, 14: 1486)$$
 
 A long and self-conscious passage in the Dublin Diary is devoted to a systematic comparison between Henry James and George Meredith. Stanislaus values James over Meredith and nds many faults with two main novels, Richard Feverel and The Egoist. "The Egoist is later and more mature work, but its construction is far worse. It drags intolerably until within about pages of the end, and then ends like a farce by Pinero" (DD, ). He then sums up the plot, stressing its articiality and obscurity ("Vernon Whitford and Colonel de Craye evidently know as much about the aair as Meredith himself ") and concludes: "Perhaps what is called a 'plot' has little attraction for me, but it seems to me that The Egoist has to be written again and that the man who will write it must be able to write without a 'plot,' directly from his characters" (DD,). One could surmise that this is precisely the kind of advice that Joyce paid attention to when he rewrote Stephen Hero as A Portrait of the Artist as a Young Man. I am not merely suggesting that the novel is a variation on the theme of The Egoist, but also that Ulysses attempts to overcome aporias of anarchist egoism by fusing the main themes of two novels: Richard Feverel – for the "father and son" intrigue linking Bloom and Stephen, as some explicit allusions make clear – and The Egoist. This last point needs more explanations.
@@ -639,7 +639,7 @@ Another source of greatness is Diculty. When any work seems to have required imm
 
 Can one say that Joyce attempts to "exclude the idea of art and contrivance" in his new idiom? I would like to suggest that the obvious di culty of his work was if not produced, at least enhanced, by an attempt to solve the four esthetic paradoxes I have sketched.
 
-### 
+###
 
 Colleen Jaurretsche's book15 on Joyce's mysticism gives us a good idea of how Joyce's language is haunted by its own margins and limits. She implies with her title, "The Sensual Philosophy," that Joyce's negative theology or apophatic mysticism should not be understood as an individual variation or aberration on traditional religion, but as a discourse that addresses the senses, eroticism, love, and desire, apprehended as the logical consequence of a general esthetic system. Out of the tradition of mystical theology Joyce was tapping in his Dublin years, out of his interest in occultism and theosophy, his fascination for Blake's visionary powers, his study of Dionysius the pseudo-Aeropagite, we gather a unique and original philosophy of "limit stages" and an esthetic of negativity. However, this wide and vague tradition is seen by him as typically "Irish." Thus, Dionysius, who is quoted in "Ireland, Island of Saints and Sages," is only one among the relatively uncanonical inuences who can make sense of a tradition of Irish mysticism and link a "sensual philosophy" with the paradoxical discourse of absence and unknowing.
 
@@ -663,7 +663,7 @@ Yet is no body present here which was not there before. Only is order othered. N
 
 Lo, the laud of laurens now orielising benedictively when saint and sage have said their say. (FW, . –)
 
-### 
+###
 
 # Theory's slice of life
 
@@ -695,7 +695,7 @@ Aristotle believes that lice are self-generated and equates the production of li
 
 Strangely enough, one of the rst victims of lice was an egregious casualty: he was no less than Homer himself! According to an old anecdote, passed on to us by various authors including Heraclitus, here is the sad story of how Homer died. He was watching children who asked him to solve a riddle. They said: "What we have seen and caught, we left behind. What we have neither seen nor caught, we bring with us" (Fr. B DK). According to Heraclitus, Homer's death was caused by his failure to explain the riddle.11 Although he was the "wisest of all men," he was nevertheless deceived by a simple and childish riddle! A fatal puzzle proved his inability to reach the wisdom of children, who appear closer to the essence of time as cosmic play and pure becoming. Heraclitus' fragment puns on the etymology of Homeros suggesting "blindness" and of phtheir (louse) calling up phtheiro (I destroy, I corrupt). It is as though the destructiveness often etymologically ascribed to Helen – as in the famous passage of Agamemnon by Aeschylus, where Helen is accused of destroying "men, cities and rule" by a pun that nds its way into Pound's seventh Canto12 – had been transferred to the most minute and despicable creature on earth. Here is the full fragment: "Men are deluded as to their knowledge of visible things, a little like Homer, who was nevertheless wiser than all the Greeks taken together, for children who were killing lice deceived him when they said: What we have seen and caught, we left behind; what we have neither seen nor caught, we bring with us."13 Poetic wisdom betrays its impotence since it cannot sublimate either bodily refuse or teeming vermin, in which one recognizes an allegory of the invisible nature of the ow of time. The authors of an interesting book on Greek Insects believe that these boys had caught some sh they had left behind, but carried lice with them. Let this red herring rot on the shores of Greece! Curiously, Davies and Kathirithamby have been as deceived as Homer once was, for it is much more plausible and philosophically telling to assume that Homer's mischievous children had referred to lice in both cases. Heraclitus' exalted obscurity manages to make lice the topic of philosophic discourse, even though it remains impenetrably obscure: it succeeds where epic poetry fails, and nds in lice an image of an invisible but pervasive life-force, life dimly glimpsed as an endless stream of becoming that cannot be arrested, just momentarily caught in the prism of a mocking riddle. In this riddle, a riddle that I would be tempted to allegorize and generalize, the lice seem to function in a curious way: they are invisible, alien bodies, yet produced by my body's secretions. If I see them, I can catch them and kill them. But if I don't – which is more often the case – I have to carry them with me. Isn't this a remarkable description of the unconscious? A knowledge that is hidden somewhere on or in my (now happily balding) head, a knowledge, which like nostalgia, I carry with me when I am not aware of the knowledge it knows.
 
-### 
+###
 
 During his ill-fated stay in Rome, Joyce writes to his brother, who has stayed in Trieste: "On Saturday last I went up to the headquarters of the black lice to nd out if they had chosen their general. A carman told (me) they had elected a German and were now at their pranzo."14 This is how Joyce reports the election of Francis Xavier Werns to the position of General of the Jesuits in September . This is only one example of a recurrent trope, evincing a strong animus against Jesuits and priests – a feeling entirely shared by James and Stanislaus. Thus, the image of lice follows a complex evolution in Joyce's works, and I will just try to sketch the rhetoric they generate. A rst stage is clearly provided by the metaphor of the parasite. For Joyce, the main paradigm of social parasitism is Catholicism. Priests share with lice their typical black color and a tendency to swarm in huge numbers. In Joyce's systematic critique of religion, the term of "lice" functions as a privileged trope denouncing the "plague of Catholicism." Stephen Hero develops the gure resoundingly:
 
@@ -879,7 +879,7 @@ In the opening paragraph, a young man appears in the middle of a Paris crowd:
 
 For from the chaos of appearances, amid periods and sites, in the illusion of things being begotten and born, one among the others, distinct from the others, yet similar to the others, one the same and yet another, from the infinity of possible existences, I appear . . . Paris, on a bright evening of setting sun, the monotonous noises, the pale houses, the foliage of shadows; a milder evening; and the joy of being someone, of walking; the streets and multitudes, and, stretching far in the air, the sky; all around, Paris sings, and, in the haze of shapes perceived, softly it frames the idea. 22
 
-The slightly blurred and impressionistic passage could come straight from $Mrs.\ Dalloway$ — while evoking the diffuse unanimism of the "big city" one finds in the rare descriptive passages dealing with Dublin in Joyce's $Dubliners.^{23}$ 
+The slightly blurred and impressionistic passage could come straight from $Mrs.\ Dalloway$ — while evoking the diffuse unanimism of the "big city" one finds in the rare descriptive passages dealing with Dublin in Joyce's $Dubliners.^{23}$
 
 It is not sure, indeed, whether Dujardin's narrative technique is the most ideally suited to allow for a reconstruction, even subjective, of everyday life in a big city. The novel's beginnings are inauspicious, since, given the perspectivist mode of narration, the least movements become difficult to describe. Here is how Prince gropes his way up the stairs of a friend who plays the role of his confidant:
 
@@ -943,13 +943,13 @@ The limited praise Woolf meted out in "Mr. Bennett and Mrs. Brown" to the triumv
 
 The main issue is the alleged lack of compassion for the "common reader" that struck contemporaries (and Woolf above all) as the main sign of their being "modern," and we will have to explore the issue of this "new reader" in some detail. For Joyce, his own struggle with the new and old reader started as a confrontation with censorship. The long and infuriating history of the delayed and thwarted publication of Dubliners, whose "scrupulous meanness" implied for Joyce the recurrent use of "bloody" – already a great sin for the British censor – and of some political allusions has been alluded to earlier. As a symptom, it merely conrmed for Joyce the irredeemably "provincial" status of Ireland.
 
-### 
+###
 
 The gure of the British king is very useful for Joyce since it allows him to create a nexus of images dening the absurdity of all oppression while providing an easy "center" as a target for political satire. This is why in "Circe," Stephen echoes Stirner's idea that one is only free when one can "own oneself " completely. Thus, pointing to his head, he says: "But in here it is I must kill the priest and the king" (U, : –). When we reach this explosion of anarchistic and egoistic solipsism, a passably drunk Private Carr overhears the remark and waxes patriotic: "What's that you're saying about my king ?" (U, : – and ). Carr's violence proves that no privacy obtains when one speaks of "killing the king" – and his furor culminates in a series of expletives: "I'll wring the neck of any fucking bastard says a word against my bleeding fucking king" (U, : –). This is clearly an escalation in linguistic outrage after the mild oaths of Dubliners, which is why, summoned in such a gentle manner, the king appears in person:
 
 (Edward the Seventh appears in an archway . . . In his left hand he holds a plasterer's bucket on which is printed Defense d'uriner. A roar of welcome greets him.)
 
-### 
+###
 
 (slowly, solemnly but indistinctly) Peace, perfect peace. For identication, bucket in my hand. Cheerio, boys. (he turns to his subjects) We have come here to witness a clean straight ght and we heartily wish both men the best of good luck. Mahak makar a bak. (he shakes hands with Private Carr, Private Compton, Stephen, Bloom and Lynch)
 
@@ -975,7 +975,7 @@ Joyce's "egoistic" stance leaves him poised between two worlds, the old Victoria
 
 Like Pound, Joyce had clear ideas about the ideal capital from which one can attack provincialism as an error or a terror. If, however, the preparatory notes to *Exiles* show that Joyce was entertaining dreams of making Dublin a capital just like Ibsen's Christiana, he never believed he would be the king or even "unacknowledged legislator" of his world (as Pound tended to do) – a world defined by exile rather than sovereignty. Joyce was satisfied with being a "productor" working with lots of "anticollaborators," an "engineer" devising the software necessary to make the universal word-machine function hypertextually. But like Shem, Joyce could boast that "he would wipe alley english spooker, multaphoniaksically spuking, off the face of the erse" (*FW*, 178. 6–7) – inventing a new Anglo-Irish language, which speaks in and out of seventy or so different idioms in order to radically abolish the "King's English."
 
-### 
+###
 
 # The conquest of Paris
 
@@ -1081,7 +1081,7 @@ It is curious to see how much Jolas and Gilbert relied upon Ogden's and Richards
 
 We will see how Ogden fits into the general picture of avant-gardism later; his hidden and pervasive influence suggests that all the essays in *Our Exagmination*... ought to be read together, anonymously almost, as if they had all been written by one single author. They recreate the voice of *transition*, a review marked by its reverence for Joyce who stands out as the only indisputable "authority" all contributors agree upon.
 
-### 
+###
 
 Suzette Henke has "revisited" the essays contained in Our Exagmination . . . in Classics of Joyce Criticism, and in doing so she has acted like most Joyce scholars, ironically dismissing the collection as a series of "critical anomalies," as critical pieces that only deserve to be kept in the museum of early and misguided eorts.6 Most Joyceans have felt authorized to such an attitude by the master himself, who seems to mock himself and his "disciples" above all – especially when he reintroduces them into his book as the "twelve deaferended dumbbawls of the whowl abovebeugled to be the contonuation through regeneration of the urutteration of the word in pregross" (FW, . –). Henke also notes that Beckett's essay is the only introduction that has survived and is regularly anthologized – probably more for Beckett's reputation than for his explanations of Joyce, she suggests. "Those decentered disciples sent on a 'wilgoup's chase across the kathartic ocean' (FW, .) foundered in a nexus of undecidability but made valiant eorts to resist the centrifugal force that marginalized their critical enterprise" (Henke, "Exagmining Beckett & Company," p. ).
 
@@ -1109,7 +1109,7 @@ Experimental psychology is still in its infancy, but it is to a well-developed l
 
 The turgid style, worthy of a Shaunian Professor Jones, betrays a stylistic and conceptual uneasiness: this type of positivist scientism seems to provide a common discourse, the promise of a future truth creates a doxa that ought to be shared by "plain readers" and "plain critics" alike.
 
-### 
+###
 
 Du's attempt is not very far from C. K. Ogden's experiment of the same year, when he translated the last four pages of Anna Livia Plurabelle into Basic English, "the International Language of words in which everything may be said" and published the result in transition. As Ogden proudly announced: "the simplest and most complex languages of man are placed side by side."11 Indeed, the translation is surprisingly successful, for apart from a few conceptual rewritings ("Well, you know or don't you kennet or haven't I told you every story has an end" thus becomes: "Well are you conscious, or haven't you knowledge, or haven't I said it, that every story has an ending") the rhythm is generally well conveyed. The piece ends on: "Night now! Say it, say it, tree! Night night! The story say of stem or stone. By the side of the river water of, this way and that way waters of. Night!" (In Transition, p. ). Like Du, Ogden wants to prove that Joyce is indeed doing very complex things with simple means. He also demonstrates that since one cannot translate proper nouns or the rhythm given by a still normal grammar, the verbal inventions are not as important as most detractors would have it.
 
@@ -1131,13 +1131,13 @@ In the Letter episode, the narrator addresses the issue of Anna Livia's readers 
 
 In Ulysses, Joyce had postulated the reconciliation of the Citizen and the Artist while leaving to an uneducated female voice the "last word" of his book. In his arduous progression through Work in Progress, Joyce's creation of an ideal audience has rst and foremost a defensive function: the "common or neuter" reader is less educated than critics might wish, yet he or she will read the book and derive "lots of fun" from it. By the thirties Joyce, who had already decided to base his new epic on an Everyman (Here Comes Everybody) wished to make the "new reader" – whose forerunner could have been Eugene Jolas – an integral part of his narrative structure. We will then have to grasp how this "new reader" paves the way to the concept of an "ideal reader" linked to the strategic location of a world capital in which all the languages of humanity can be spoken. After all, Babel was a city, and Babylon one of the world's rst capitals.
 
-### 
+###
 
 # Hospitality and sodomy
 
 After he woke me last night same dream or was it? Wait. Open hallway . . . That man led me, spoke. I was not afraid. The melon he had he held against my face. Smiled: creamfruit smell. That was the rule he said. In. Come. Red carpet spread. You will see who. (U, : –)
 
-### 
+###
 
 Why is it at times easier to recreate the atmosphere of Joyce's Dublin in places such as Zurich, Paris, Philadelphia? It cannot just be that there are more James Joyce pubs in these cities than in Dublin or that the Bloomsday celebrations have turned into mass-produced tourist attractions! Is it because as readers we enjoy our imitatio Joyci when following a familiar paradigm of exile and displacement? Or is it because, as Terry Eagleton pointedly notes, Joyce's compliment to Dublin is incredibly backhanded? Here is what Eagleton has to say about the internationalist ethos of Modernism:
 
@@ -1200,7 +1200,7 @@ The antiphonal narrative of "Ithaca" follows a very curious logic at this point,
 
 The series of refusals, denials, dissociations would force us to go back to a very obscure center in Joyce's works, or rather a corner – the missing fourth corner of a parallelogram known as a "gnomon" according to Euclid's geometry and the narrator of "The Sisters." Fritz Senn has rightly identied it as any "form characterized by incompletion."9 It is as if the principle of light and clear, radiant manifestation that we usually identify with epiphanies had to disclose an exactly doubling opposite in a principle of darkness, or darkness made visible: this would be the connection between the gnomon's interplay of shadows and the general economy of the family and society that could be called simply "Joycean sodomy."
 
-### 
+###
 
 There are a few allusions to sodomy in Dubliners (Stanislaus Joyce once referred in a letter to the "Sodomite" he and his brother had met one day and who was the model for the "pervert" who masturbates in front of the two boys in "An Encounter"), but with Ulysses, the central paradigm is provided by the parable of Sodom in Genesis , less because of the luxurious wickedness of the inhabitants of the city, but because the narrative accounting for the destruction of Sodom stresses that the main transgression the Sodomites were guilty of was not just homoerotic lust, but a denial of the sacred law of hospitality: the two angels who reach the city are welcomed by Lot, who sits at the gate as a living embodiment of hospitality. When he insists that they come to his house, and prepares a feast for them, he is surprised by the crowd, who insists upon having sex with the strangers. In an excess of charity, Lot even oers his two daughters, who are still virgins at the time, hoping to deect their lust! These daughters will later repay the compliment and abuse an all too charitable father, making him drunk and taking him as an unwitting genitor in order to start a new branch of the family – incest being condoned once the fundamental rules of hospitality have been obeyed through and through. This seems to sketch the scene of a primal family always assailed by doubts over incest, sexual potency, and symbolic transmission that is repeatedly adumbrated in Finnegans Wake.
 
@@ -1288,7 +1288,7 @@ When in the French capital, Joyce acted as much the part of Odysseus, using the 
 
 Once he felt he had conquered Paris, Joyce was rapidly disillusioned with his own victory. Was that a Pyrrhic victory in the sense called up by Stephen's meditation on history? Could Joyce have mused, too: "Another victory like that and we are done for."27 In the same way as the Punic wars tend to look not even punning but simply puny from the perspective of an Anna Livia when she is about to merge with her oceanic father ("I thought you the great in all things, in guilt and glory. You're but a puny. Home! My people were not their sort out beyond there so far as I can" [FW, . –]), Joyce's assessment of his "conquest," especially in view of Lucia's troubles, may have been rather bitter in the end. The sentence "and to peer was Parish worth thette mess" (FW, . –) rephrases more dubitably Henry IV's motto ("Paris vaut bien une messe"). Was this parish of the world a "capital city" worth Jacob's mess of pottage or the golden apple of literature?
 
-### 
+###
 
 # Hospitality in the capital city
 
@@ -1338,7 +1338,7 @@ When we reach the same passage in the version, it is less the insertion of allus
 
 Let me quote a passage from Haveth Childers Everywhere that clearly indicates a much more critical mode of writing:
 
-Like as my palmer's past policy I have had my best master's lessons as the public he knows, and do you know, homesters, I honestly think if I have failed lamentably by accident benets through shintoed, spitered, perplagued and cramkrieged, I am doing my dids bits and have made of my prudentials good. I have been told I own stolenmines or something of that sorth in the sooth of Spainien. Hohohoho! Have I said ogso how I abhor myself vastly (truth to tell) and do repent to my netherheart of suntry clothing? The amusin part is I will say, hotelmen, that since I, over the deep drowner athacleeath to seek again Irrlanding, shamed in mind, with three plunges of my ruddertail, yet not a bottlenim, 
+Like as my palmer's past policy I have had my best master's lessons as the public he knows, and do you know, homesters, I honestly think if I have failed lamentably by accident benets through shintoed, spitered, perplagued and cramkrieged, I am doing my dids bits and have made of my prudentials good. I have been told I own stolenmines or something of that sorth in the sooth of Spainien. Hohohoho! Have I said ogso how I abhor myself vastly (truth to tell) and do repent to my netherheart of suntry clothing? The amusin part is I will say, hotelmen, that since I, over the deep drowner athacleeath to seek again Irrlanding, shamed in mind, with three plunges of my ruddertail, yet not a bottlenim,
 
 vaneed imperial standard by weaponright and platzed mine residenze, taking bourd and burgage under starrimisty and ran and operated my brixtol selection here . . . (MS b––v)
 
@@ -1368,7 +1368,7 @@ Since we are kept waiting for this impossible moment when we wake up from the dr
 
 The last point I would like to make is linked with my rst: the issue of language is crucial, and here it is clear that English provides the basic structure. If indeed one can say that Joyce "anglicizes" foreign names, he does this tongue in cheek, without being duped by the implicit imperialism this could betray: he conversely proves the unique "hospitality" of English when he makes it "accept" the most foreign signiers. We have seen how much the issue of an international language or of a bilingual Ireland preoccupied him. As Mallarme wrote in his Mots Anglais, 9 English is properly speaking the "language of angels," but in Joyce's celestial and terrestrial cities, angels do laugh: "wherever my good Allenglishes Angleslachsen is spoken" (FW, . –) also suggests the German "lachen" meaning laugh, while "Eternest cittas" (. ) contains the opposite idea of "ernst" (earnest, serious). A "citizen" for Joyce is also someone who can laugh at (and in) his own city.
 
-### 
+###
 
 # Joyce's late Modernism and the birth of the genetic reader
 
@@ -1452,7 +1452,7 @@ This comes as the consequence of the hypertextual and collective corpus generate
 
 > X revolution of word manage – – burial of old sense (. B..)
 
-### 
+###
 
 # Stewardship, Parnellism, and egotism
 
@@ -1626,7 +1626,7 @@ I reproduce the text as quoted in Eugène Jolas, *Man from Babel* (Yale: Yale Un
 - Here, I have substantially modied the translation of "The Way to Language" in Basic Writings, pp. –, to be closer to the text. See Martin Heidegger, Unterwegs zur Sprache (Pfullingen: Gunther Neske, ), p. . See Splinters of Experience by Kryzstof Ziarek (Evanston: Northwestern University Press, forthcoming).
 - T. S. Eliot, "Marina," Collected Poems (London: Faber,), p..
 
-### 
+###
 
 - L'Egoste is an expensive, very large-sized luxurious fashion magazine based in Paris which publishes exclusive photographs by famous photographers. It appears irregularly in two bulky sections, and costs francs (US\$ ). As an excellent omen, the thirteenth issue was published in June (Paris).
 - Launched by Caron Perfumes, Paris in the spring of . This means: "It is in the darkness (or in black) that one recognizes the anarchist."
@@ -1779,7 +1779,7 @@ But whenever we nd creatures spontaneously generated in living animals or in the
 - Letter from January , , in LIV, p. .
 - Pound published this essay in The New Age of July , . See Ezra Pound, Selected Prose – (London: Faber,), pp.–. Pound begins with Flaubert's famous statement: "If they had read my 'Education Sentimentale' these things would not have happened" (p. ).
 
-### 
+###
 
 - Giambattista Vico, The New Science, trans. Thomas Goddard Bergin and Max Harold Fisch (Ithaca, NY: Cornell University Press, ), § . One customarily refers to the New Science by paragraph numbers, which I do, using always the same edition. I will develop this analysis in chapter .
 - I am alluding to my essay on "Joyce the Parisian," in The Cambridge Companion to James Joyce, ed. Derek Attridge (Cambridge: Cambridge University Press, ), pp. –.
@@ -1820,7 +1820,7 @@ But whenever we nd creatures spontaneously generated in living animals or in the
 - Manfred Putz, "The Identity of the Reader in Finnegans Wake," James Joyce Quarterly, , (Summer ), pp. –.
 - Sigmund Freud, The Question of Lay Analysis, An Introduction to Psychoanalysis, trans. Nancy Procter-Gregg (New York: Norton, ).
 
-### 
+###
 
 - Terry Eagleton, "Nationalism: Irony and Commitment," in Nationalism, Colonialism and Literature, ed. Seamus Deane (Minneapolis: University of Minnesota Press, ), p. .
 - LII, .
@@ -1853,7 +1853,7 @@ But whenever we nd creatures spontaneously generated in living animals or in the
 
 See Don Giord and Robert J. Seidman, Ulysses Annotated (Berkeley: University of California Press, ), p. , for Joyce's sources.
 
-### 
+###
 
 - See the important appendix in Danis Rose and John O'Hanlon, Understanding Finnegans Wake (New York: Garland, ), pp. –.
 - Reections on James Joyce. Stuart Gilbert's Paris Journal, pp. –. Hereafter PJ, and page number.

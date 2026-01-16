@@ -20,7 +20,7 @@ existentialism is a humanism
 
 ## JEAN-PAUL SARTRE
 
-including A Commentary on $\mathit{Tbe}\ \mathit{Stranger}$ 
+including A Commentary on $\mathit{Tbe}\ \mathit{Stranger}$
 
 ## (Explication de L'Étranger)
 

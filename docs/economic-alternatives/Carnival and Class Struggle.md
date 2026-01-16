@@ -163,67 +163,66 @@ There were a few minor riots in the 1850s, but true concerns about the serious s
 
 ## 3:34
 
-
-Carnival rose in the 1860s. Canboulay and its attendees were vilified by 
-contemporary media, 
+Carnival rose in the 1860s. Canboulay and its attendees were vilified by
+contemporary media,
 3:40
-and British colonial government, who referred to the celebration as "jamette", 
+and British colonial government, who referred to the celebration as "jamette",
 3:44
-indicating that Canboulay was celebrated by the "lowest" in society, the 
-"underclass" Carnival of 
+indicating that Canboulay was celebrated by the "lowest" in society, the
+"underclass" Carnival of
 3:49
-the dock and warehouse workers, laundry women, prostitutes, gamblers, cornermen, 
-and others 
+the dock and warehouse workers, laundry women, prostitutes, gamblers, cornermen,
+and others
 3:54
-from the impoverished, exploited, and overcrowded East Port of Spain communities. 
-Communities which 
+from the impoverished, exploited, and overcrowded East Port of Spain communities.
+Communities which
 3:59
-are still disenfranchised today, btw/. It was there that the bands would develop, 
-duking it 
+are still disenfranchised today, btw/. It was there that the bands would develop,
+duking it
 4:05
-out through drumming and stick fighting and led by (usually female) soloists 
-called chauntelle, 
+out through drumming and stick fighting and led by (usually female) soloists
+called chauntelle,
 4:09
-whose role was to boast of their band's musical accomplishments and roast rival 
-gangs, all in the 
+whose role was to boast of their band's musical accomplishments and roast rival
+gangs, all in the
 4:14
-style of calypso. They employed a verbal dexterity seen in other distinctly 
-African music styles, 
+style of calypso. They employed a verbal dexterity seen in other distinctly
+African music styles,
 4:20
-like rap. { music } 
+like rap. { music }
 4:29
-White folks also lived in Port of Spain at the time and closeness to such a bold 
+White folks also lived in Port of Spain at the time and closeness to such a bold
 4:33
-and proud culture made white authorities extremely uncomfortable and unsettled. 
+and proud culture made white authorities extremely uncomfortable and unsettled.
 4:37
-The San Fernando Gazette would describe them as "youthful in years but matured in 
-every vice 
+The San Fernando Gazette would describe them as "youthful in years but matured in
+every vice
 4:42
-that perverts and degrades humanity, wanton, perverse and depraved beyond 
-expression." 
+that perverts and degrades humanity, wanton, perverse and depraved beyond
+expression."
 4:48
-R. G. Hamilton, a colonial office representative from London, called Canboulay a 
-"senseless, 
+R. G. Hamilton, a colonial office representative from London, called Canboulay a
+"senseless,
 4:54
-irrational amusement, that affords a pretext for the indulgence of unbridled 
-licentiousness on the 
+irrational amusement, that affords a pretext for the indulgence of unbridled
+licentiousness on the
 4:59
 part of the worst of the population." People still enjoyed it though. There was an
-almost vicarious 
+almost vicarious
 5:05
-satisfaction in the flair, wit, and devil-may-care attitude displayed by the 
-calypsonians. 
+satisfaction in the flair, wit, and devil-may-care attitude displayed by the
+calypsonians.
 5:10
-In the 1860s, 70s, and 80s, the working class calypsonians would assault their 
-rulers in song. 
+In the 1860s, 70s, and 80s, the working class calypsonians would assault their
+rulers in song.
 5:16
-In Ol' Mas on Jouvert Morning, costumed revellers would mock the Governor, 
+In Ol' Mas on Jouvert Morning, costumed revellers would mock the Governor,
 5:20
 the Chief Justice, the Attorney General, well-known lawyers, and other higher ups.
 5:25
-Carnival was also quite raunchy. Pioneered by the so-called jamettes, the poui 
+Carnival was also quite raunchy. Pioneered by the so-called jamettes, the poui
 sticks were phallic,
-## 
+##
 the street dancing was spicy, and crossdressing in transparent night gowns was particularly common.
 
 ## 5:36

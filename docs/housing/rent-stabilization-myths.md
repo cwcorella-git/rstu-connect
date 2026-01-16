@@ -18,7 +18,7 @@ Let's set the record straight.
 
 **The Reality**: Well-designed rent stabilization policies don't reduce housing supply. Studies show that moderate rent increase limits (like 5-7% annually) have minimal impact on new construction while providing crucial stability for existing tenants.
 
-**What they don't tell you**: 
+**What they don't tell you**:
 - Most rent stabilization proposals include exemptions for new construction
 - The real barrier to housing supply is restrictive zoning, not tenant protections
 - Corporate landlords artificially restrict supply to drive up rents
@@ -54,7 +54,7 @@ Let's set the record straight.
 
 **The Reality**: The "free market" in housing is heavily subsidized and regulated to benefit property owners. True free market solutions would eliminate:
 - Mortgage interest deductions for investors
-- Depreciation allowances for rental properties  
+- Depreciation allowances for rental properties
 - Zoning restrictions that limit housing types
 - Corporate ownership of single-family homes
 

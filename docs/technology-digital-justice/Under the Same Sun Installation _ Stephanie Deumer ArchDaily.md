@@ -28,13 +28,13 @@ Under the Same Sun Installation / Stephanie Deumer
 
 [+ 14](https://www.archdaily.com/977782/under-the-same-sun-installation-stephanie-deumer/621f5087b5a16b0164efc163-under-the-same-sun-installation-stephanie-deumer-photo)
 
-- 
+-
 
 - Year: [2022](https://www.archdaily.com/search/projects/year/2022?ad_name=project-specs&ad_medium=single)
 
-- 
+-
 
-- 
+-
 
 ## More Specs Less Specs
 

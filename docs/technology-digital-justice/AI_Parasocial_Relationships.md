@@ -389,12 +389,11 @@ Hoffner, C. A., & Bond, B. J. (2022). Parasocial relationships, social media, & 
 
 observations on intimacy at a distance. Psychiatry, 19(3), 215-229.
 
-
 Midjourney. (2024). Images generated.
 
-Noor, N., Rao Hill, S., & Troshani, I. (2022). Artificial intelligence service agents: role of parasocial relationship. Journal of Computer Information Systems, 62(5), 1009-1023. The Center for Humane Technology. (2023, March 9). The A. I. dilemma. [Video]. You Tube. 
+Noor, N., Rao Hill, S., & Troshani, I. (2022). Artificial intelligence service agents: role of parasocial relationship. Journal of Computer Information Systems, 62(5), 1009-1023. The Center for Humane Technology. (2023, March 9). The A. I. dilemma. [Video]. You Tube.
 
-Tukachinsky, R., Walter N., & Saucier, C. J. (2020, December) Antecedents and Effects of Parasocial Relationships: A Meta-Analysis, Journal of Communication, 70(6) 868–894. 
+Tukachinsky, R., Walter N., & Saucier, C. J. (2020, December) Antecedents and Effects of Parasocial Relationships: A Meta-Analysis, Journal of Communication, 70(6) 868–894.
 
 World Health Organization. (2023, February 6). Artificial intelligence in mental health research: new WHO study on applications and challenges.
 
@@ -480,9 +479,8 @@ They [ChatGPT] are starting to build a facility [called Stargate and it's going 
 
 [2024/05/17 12:52] Elektra Panthar: ((that's scary as hell))
 
-
 [2024/05/17 12:52] Lyr Lobo: Great session
-Many thanks 
+Many thanks
 [2024/05/17 12:52] Sofia Varela: fantastic talk
 [2024/05/17 12:52] Gemma (Gemma Cleanslate): /me APPLAUDS!!!
 [2024/05/17 12:52] Zzri Avian (Zri Portal): /me clapsss
@@ -492,7 +490,7 @@ Many thanks
 [2024/05/17 12:52] Stealth (Cicero Kit): Thank you
 [2024/05/17 12:52] Valibrarian Gregg: Thanks everyone!
 [2024/05/17 12:53] roropillow Resident: Thank you all!
-## 
+##
 [2024/05/17 12:53] Paws Pawzouti (Opinicus Extraordinaire): This was great, thank you. ^^ [2024/05/17 12:53] Elli Pinion: Awesome, thank you both! [2024/05/17 12:53] Walter Mitty (jupiter2223 Resident): thank you for the great talk
 
 [2024/05/17 12:53] Elektra Panthar: GH: we have to wrap up, please give our presenters a big applause!

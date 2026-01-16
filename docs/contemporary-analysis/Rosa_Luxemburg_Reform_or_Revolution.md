@@ -22,9 +22,6 @@ This edition of *Reform or Revolution?* is a reprint of the revised Second Editi
 ## ![](_page_3_Picture_4.jpeg)
 
 This book is under license Attribution-Share Alike 4.0 International (CC BY-SA 4.0)
-
-https://creativecommons.org/licenses/by-sa/4.0/
-
 ## **Contents**
 
 | Introduction | | 1 |

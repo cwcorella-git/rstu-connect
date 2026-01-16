@@ -5,7 +5,7 @@ category: "contemporary-analysis"
 
 # USE MAINTENANCE AND CONSUMER INFORMATION
 
-# 
+#
 
 ## ![](_page_0_Picture_2.jpeg)
 
@@ -129,11 +129,11 @@ The vehicle is provided with auxiliary drive to the rear wheel, with pedals, gea
 
 ## **Frame:** cold drawn and welded steel tubes
 
-- 
+-
 
 ## **Front suspension:** telescopic for~
 
-*r* 
+*r*
 
 **Brakes:** internal expanding type on both wheels
 
@@ -420,7 +420,7 @@ Fill with grease · E·sso BEACO·N 3 or · . FIAT JOTA 3 or equivalent the· .r
 
 At intervals lubricate the chain, pedals and wheel pivot points, check the chain • tension· (fig. 14 and pag. 21). Clean the carburetto r(pag. 19).
 
-- 
+-
 
 #### · **Summary of maintenance and lubr-ication instructions** '
 
@@ -438,7 +438,7 @@ At intervals lubricate the chain, pedals and wheel pivot points, check the chain
 
 **EVERY 5,000 MILES** Check oi-l in rear hub.
 
-- 
+-
 
 Esso Gear Oil 90 or equivalent.
 
@@ -446,13 +446,13 @@ Grease roller housing.
 
 ## Esso Beacon 3 or equivalent. ·
 
-- 
+-
 
 At intervals clean spark plug. lubrica Je chain and check chain tension. . .
 
 ' . Engine: ev, ery refuelling, (lubrication by petro il mi:xture).
 
-- 
+-
 
 - • t . •
 
@@ -460,7 +460,7 @@ At intervals clean spark plug. lubrica Je chain and check chain tension. . .
 
 ## ' •
 
-- 
+-
 
 ## HOW TO CHECK YOUR MACHINE FAULT FINDING
 
@@ -526,13 +526,13 @@ Figures carry out vehicle minimum sto·pping distance without locking the wheels
 
 Speed o·f the vehicle when stopping 60 mph or if the vehicle cannot exceed · such speed because of i~s structural feature, · the maxi, mum
 
-- 
+-
 
 !
 
 speed attainable (in this last case, under figures a proper note with asterisk is carried out).
 
-- 
+-
 
 ## '
 
@@ -575,19 +575,19 @@ Hight-speed Pass . . . .
 
 This figure ind i, cates braking performance that can be met or e·xceeded by the vehicles to which it applies, without locking the wheels, under different conditions of loading. The information presented represents results obtainable by skilled drivers under controlled road and vehicle cond i1tlons, and the information may not be· correct under other conditions.
 
-- 
+-
 
 **M·otor driven cycle GRANDE** (type with maximum speed 25 mph)
 
 ## A. Fully Operation Service Brake
 
-- 
+-
 
 ## ![](_page_38_Figure_4.jpeg)
 
 ## Stopping Distance in feet from 25 mph\*
 
-- 
+-
 
 . \* «The maximum speed attainable by accelerating at m~ximum rate from a standing start for one mile».
 

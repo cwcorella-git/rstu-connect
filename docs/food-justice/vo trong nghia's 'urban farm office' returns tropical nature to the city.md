@@ -51,5 +51,3 @@ Vo Trong Nghia designs its 'vertical farm' with simple construction methods, inc
 ## ![](_page_4_Picture_2.jpeg)
 
 ## ![](_page_4_Picture_3.jpeg)
-
-5 of 5

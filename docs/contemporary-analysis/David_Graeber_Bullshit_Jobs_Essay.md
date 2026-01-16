@@ -47,6 +47,6 @@ If someone had designed a work regime perfectly suited to maintaining the power 
 
 ## David Graeber On the Phenomenon of Bullshit Jobs: A Work Rant August 2013
 
-Retrieved on 2018-01-20 from 
+Retrieved on 2018-01-20 from
 
 **theanarchistlibrary.org**

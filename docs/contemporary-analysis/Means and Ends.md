@@ -1167,9 +1167,6 @@ Composed of delegates from every single union in the country.
 #### **National Plenum**
 
 General assembly of delegates from each regional committee.
-
-131 of 279
-
 The CNT's system of majority voting was explained in more detail within the organization's constitution, which was printed on the trade union's membership card. It declared that "Anarcho-syndicalism and anarchism recognize the validity of majority decisions. The militant has a right to his own point of view and to defend it, but he is obliged to comply with majority decisions, even when they are against his own feelings... We recognize the sovereignty of the individual, but we accept and agree to carry out the collective mandate taken by majority decision. Without this there is no organization."[\[830\]](#page-264-1)
 
 Members of the CNT did, nonetheless, disagree about whether or not this system of majority voting, in which decisions were binding on all members, should be applied to much smaller specific anarchist organizations. The Iberian Anarchist Federation (FAI) was a specific anarchist organization composed of small affinity groups. The FAI initially made most of their decisions via unanimous agreement and rarely used voting. In 1934, the Z and Nervio affinity groups pushed for the FAI to adopt binding agreements established through majority vote. The Afinidad affinity group, which included Peirats, agreed with the necessity of such a system within the CNT, but opposed it being implemented within small specific anarchist organizations or affinity groups. After a confrontational FAI meeting Afinidad left the organization in protest.[\[831\]](#page-264-2)
@@ -3554,7 +3551,6 @@ Anarchism, 121–26; Ravindranathan, Bakunin and the Italians, 225–29.
 
 [\[862\]](#page-135-5) Malatesta, At the Café: Conversations on Anarchism (London: Freedom Press, 2005), 82–
 
-
 83.
  [863] Kropotkin, Direct Struggle, 344. See also 315–33.
  [864] Malatesta, Method of Freedom, 179.
@@ -3583,7 +3579,7 @@ of Emma Goldman's Mother Earth, ed. Peter Glassgold, (New York: Counterpoint, 20
  [885] Malatesta, Towards Anarchy, 49.
  [886] Malatesta, Patient Work, 320.
  [887] Malatesta, Towards Anarchy, 168. See also Malatesta, The Anarchist Revolution: Polemical
-## 
+##
 Articles, 1924–1931, ed. Vernon Richards (London: Freedom Press, 1995), 80; Kropotkin, Direct Struggle, 293–94.
 
 [\[888\]](#page-139-6) Michael Bakunin, Statism and Anarchy (Cambridge: Cambridge University Press, 1990), ed. Marshall Shatz, 114, 25. For another example, see Malatesta, Towards Anarchy, 98–103.

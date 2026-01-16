@@ -219,7 +219,6 @@ The achievement of full contractual status for industrial arrangements was not o
 
 ### Bibliography
 
-
 Aston, T.H. and C.H.E. Philpin, *The Brenner Debate*. Cambridge: Cambridge UP 1987.
 
 Braudel, Fernand. *Civilization and Capitalism*. Berkeley: University of California Press, 1992.

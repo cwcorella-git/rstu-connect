@@ -99,7 +99,7 @@ Similarly, the Athenian historian [Thucydides](https://en.wikipedia.org/wiki/Thu
 
 Before the Persian crisis, history had been represented among the Greeks only by local or family traditions. The "Wars of Liberation" had given to Herodotus the first genuinely historical inspiration felt by a Greek. These wars showed him that there was a corporate life, higher than that of the city, of which the story might be told; and they offered to him as a subject the drama of the collision between East and West. With him, the spirit of history was born into Greece; and his work, called after the nine Muses, was indeed the first utterance of [Clio.](https://en.wikipedia.org/wiki/Clio)
 
-—R. C. Jebb, 
+—R. C. Jebb,
 ## $$[27]$$
 
 Though Herodotus is generally considered a reliable source of ancient history, many present-day historians believe that his accounts are at least partially inaccurate, attributing the observed inconsistencies in the *Histories* to exaggeration[.\[28\]](#page-8-11)[\[29\]](#page-8-12)[\[30\]](#page-8-13)

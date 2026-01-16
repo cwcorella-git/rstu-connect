@@ -35,7 +35,7 @@ Suchotzki, K.; Crombez, G.; Smulders, F. T. Y.; Meijer, E.; Verschuere, B.
 
 Citation for published version (APA):
 
-Suchotzki, K., Crombez, G., Smulders, F. T. Y., Meijer, E., & Verschuere, B. (2015). The cognitive mechanisms underlying deception: An event-related potential study. International Journal of Psychophysiology, 95(3), 395-405. 
+Suchotzki, K., Crombez, G., Smulders, F. T. Y., Meijer, E., & Verschuere, B. (2015). The cognitive mechanisms underlying deception: An event-related potential study. International Journal of Psychophysiology, 95(3), 395-405.
 
 ## General rights
 
@@ -145,7 +145,7 @@ To circumvent the potentially problematic sphericity assumption of univariate re
 
 #### 3.1. Behavioral data
 
-Error rates, reaction times (RT), and RT standard deviations were analyzed with a 2 (Deception: truth vs. lie) $\times$ 2 (Enactment: enacted vs. intended crime) repeated measures MANOVA. The 2 $\times$ 2 MANOVA on error percentage revealed a significant main effect of Deception, F(1,19)=30.97, p^1$ We calculated the effect size f using the following formula: $f=\sqrt{\lceil\eta_p^2\ /\ (1-\eta_p^2)\rceil}.$ $^2$ We calculated the effect size d using the following formula: $d=M_1-M_2\ /\ (\sqrt{SD_1^2+SD_2^2-2*r_{12}*SD_1*SD_2}).$ 
+Error rates, reaction times (RT), and RT standard deviations were analyzed with a 2 (Deception: truth vs. lie) $\times$ 2 (Enactment: enacted vs. intended crime) repeated measures MANOVA. The 2 $\times$ 2 MANOVA on error percentage revealed a significant main effect of Deception, F(1,19)=30.97, p^1$ We calculated the effect size f using the following formula: $f=\sqrt{\lceil\eta_p^2\ /\ (1-\eta_p^2)\rceil}.$ $^2$ We calculated the effect size d using the following formula: $d=M_1-M_2\ /\ (\sqrt{SD_1^2+SD_2^2-2*r_{12}*SD_1*SD_2}).$
 
 &lt;sup>3 Both question types (enacted/planned crime and control crime) were taken into the analyses. Because there was no significant interaction of Question type with Deception or Enactment in our analyses, the factor Ouestion type was dropped.
 

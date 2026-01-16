@@ -68,9 +68,6 @@ However, one point I need to make, this is not only about making profit. ■t is
 felo 11 years 5 months ago
 
 'The pressure for more production was an invitation for the Soma disaster'An engineer from Soma Mining Inc. talked about the negligence chain behind the disaster\*
-
-http://www.habervesaire.com/news/the-pressure-for-more-production-was-an-invitation-for-the-soma-disaster-2712.html
-
 Mark.
 
 11 years 5 months ago

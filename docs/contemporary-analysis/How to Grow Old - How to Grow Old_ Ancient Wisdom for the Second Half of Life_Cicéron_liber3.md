@@ -65,7 +65,7 @@ This book has been composed in Garamond and Futura
 
 # CONTENTS
 
-*Introduction vii* How to Grow Old *Notes Further Reading* 
+*Introduction vii* How to Grow Old *Notes Further Reading*
 
 Forty-five BC was a bad year for Marcus Tullius Cicero.
 

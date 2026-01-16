@@ -10,9 +10,7 @@ tags:
 - legislation
 - Nevada
 ---
-# Budget Negotiations Continue as Legislature Prepares for Special Session - League of Minnesota Cities
----
-Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.org/news-publications/news/all/budge...
+
 Budget Negotiations Continue as
 Legislature Prepares for Special
 Session
@@ -47,7 +45,7 @@ Under the joint budget targets reached by legislative leaders and Gov. Tim Walz,
 raise taxes or cut spending by $118 million in ﬁscal years 2025‐2027 and $190 million in ﬁscal
 years 2028‐2029. As a part of the joint target agreement, the bill must raise revenue through
 ---
-Budget Negotiations Continue as Legislature Prepares...       https://www.lmc.org/news-publications/news/all/budge...
+
 narrowing a current tax exemption for data centers, repealing the local cannabis aid account,
 and increasing the cannabis gross receipts tax from 10% to 15%.
 The group has adopted some provisions for the ﬁnal bill, including:
@@ -86,7 +84,7 @@ and safe time law enacted in 2023. The only adjustment is a slight reduction to 
 premium rate for Paid Leave from 1.2% to 1.1%. The rate is currently set at 0.88%.
 Remaining budget bills
 ---
-Budget Negotiations Continue as Legislature Prepares...        https://www.lmc.org/news-publications/news/all/budge...
+
 The following budget areas still need to be passed by both chambers:
 • Capital investment
 • Commerce

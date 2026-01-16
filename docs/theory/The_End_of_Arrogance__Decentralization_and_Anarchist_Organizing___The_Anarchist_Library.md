@@ -269,7 +269,7 @@ This document was converted from **01_Political_Theory/Articles/The End of Arrog
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library/01_Political_Theory_Articles_The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library.md" 
+bash claude code "Collections/01_Political_Theory_Articles_The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library/01_Political_Theory_Articles_The_End_of_Arrogance__Decentralization_and_Anarchist_Organizing___The_Anarchist_Library.md"
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

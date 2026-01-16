@@ -20,7 +20,6 @@ Jack Woods - Reno Sparks Tenants Union Skip to content
     * [Mutual Aid Requests](https://renosparkstenantsunion.org/mutual-aid-requests/)
     * [Upcoming Events](https://renosparkstenantsunion.org/events/)
 
-
 # Jack Woods
 
   * ## [RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform](https://renosparkstenantsunion.org/uncategorized/rstu-partners-with-nevada-housing-justice-alliance-to-lobby-for-housing-reform/)
@@ -118,7 +117,6 @@ November 15, 2024
 Located on the first floor of the Reno Justice Court at 1 South Sierra Street, Reno, Nevada 89501, the Civil Self-Help Law Center is a cornerstone for residents seeking legal assistance. The center is open Monday through Thursday from 9:00 AM to 5:00 PM. In collaboration with Nevada Legal Services, the center provides access to
 
 [Read More](https://renosparkstenantsunion.org/resources/civil-self-help-law-center-provides-legal-information-resources-for-tenants/)
-
 
 © 2025 Reno Sparks Tenants Union · [Contact Us](https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform)
 

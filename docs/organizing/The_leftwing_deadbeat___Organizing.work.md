@@ -9,7 +9,7 @@ tags:
 
 # The leftwing deadbeat – Organizing.work.pdf
 
-![Figure from page 1](images/page_001_content/img-000.png) ![Figure from page 1](images/page_001_content/img-001.png) ![Figure from page 1](images/page_001_content/img-002.png) The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
+The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
                                                                                                  
            The leftwing deadbeat
            MK Lees and Marianne Garneau look at leftists’ poor track record in workplace organizing
@@ -189,7 +189,7 @@ This document was converted from **01_Political_Theory/Articles/The leftwing dea
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_The_leftwing_deadbeat___Organizing.work/01_Political_Theory_Articles_The_leftwing_deadbeat___Organizing.work.md" 
+bash claude code "Collections/01_Political_Theory_Articles_The_leftwing_deadbeat___Organizing.work/01_Political_Theory_Articles_The_leftwing_deadbeat___Organizing.work.md"
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

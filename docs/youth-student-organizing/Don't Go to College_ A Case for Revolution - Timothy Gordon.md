@@ -601,7 +601,7 @@ Students working with Kansas State's health center organized workshops because t
 
 ese new adulting courses aren't, of course, about how to manage a household as husband and wife, but rather how to live single, alone, and childless as a student-debt-burdened, smart-city professional—or maybe, at best, in a "genderless" two-income household where there is no traditional division of labor. Yet, before she became a woke United States senator, even Elizabeth Warren acknowledged that an economy that required two-income households was not a socially desirable one. In her 2003 book e Two Income Trap: Why Middle-Class Mothers and Fathers Are Going Broke (coauthored with her daughter), Warren argues that two-income families are actually getting poorer and putting themselves at greater risk of bankruptcy than the previous generation's single-income families because of a rapidly increased cost of living, while also stating that stay-at-home mothers are "the most important part of the safety net" of society. 16
 
-In truth, the spike in the cost of living is largely driven by the economic assumptions of a two-income, everyone-goes-to-college, household model. Those economic assumptions include the need for daycare, the search for real estate in good school districts, college tuitions, and so on. It is a college-and feminist-inspired vicious economic circle. The way to break that circle is to go back to a better social model. Most of us shouldn't go to college, shouldn't have that crippling student debt, shouldn't have that deadly delay of adulthood, shouldn't suffer that four—or more—years of neo-Marxist indoctrination. Instead, young people should be encouraged to marry young and establish one-income households. *This is the heart of the revolution, or counterrevolution, that will restore American society.* 
+In truth, the spike in the cost of living is largely driven by the economic assumptions of a two-income, everyone-goes-to-college, household model. Those economic assumptions include the need for daycare, the search for real estate in good school districts, college tuitions, and so on. It is a college-and feminist-inspired vicious economic circle. The way to break that circle is to go back to a better social model. Most of us shouldn't go to college, shouldn't have that crippling student debt, shouldn't have that deadly delay of adulthood, shouldn't suffer that four—or more—years of neo-Marxist indoctrination. Instead, young people should be encouraged to marry young and establish one-income households. *This is the heart of the revolution, or counterrevolution, that will restore American society.*
 
 Instead of paying for daycare—which "now costs as much as buying a brand new Hyundai Elantra each year," 17 according to *The Atlantic*—how about having mothers taking on that role, as their children would certainly prefer? Instead of mothers abandoning their homes, what about mothers abandoning the workplace and demanding that their husbands be good, responsible providers? Instead of delaying the formation of families and making women and children unhappier and men more immature and less marriageable, what about doing what works? That would give us a better society—one that wouldn't need "adulting" courses.
 
@@ -1644,7 +1644,6 @@ A note about the index: e pages referenced in this index refer to the page numbe
 
 #### **A**
 
-
 adulting, 75–77, 79–82
 Alexander the Great, 112, 195
 anti-Christian bias, 15, 22, 28, 50, 102, 130, 134
@@ -1657,9 +1656,8 @@ Aristotelianism, 15, 93, 111, 115, 117–18, 121, 145
 Aristotle, 4, 11, 14–16, 18, 75, 77, 92–93, 110–13, 115, 117–22, 124, 152, 165, 177, 184–85,
  199
 Augustine, Saint, 4, 16, 173
-## 
+##
 #### **B**
-
 
 Bacon, Francis, 119–22, 152, 192
 Baconian philosophy, 121–22, 149, 181, 184, 196n5
@@ -1672,7 +1670,7 @@ Black Lives Matter, 11, 18, 23, 26, 101, 143
 Boghossian, Peter, 197, 202
 Bray, Mark, 203
 Butler, Judith, 31–32
-## 
+##
 
 C
 cancel culture, 139, 206
@@ -1692,9 +1690,8 @@ Declaration of Independence, 93
 Descartes, René, 121–22
 determinism, 32, 67, 98
 discrimination, 22, 24–25, 27, 82, 128, 133
-## 
+##
 #### **E**
-
 
 education reform, 52–53
 empiricism, 120, 122
@@ -1702,13 +1699,12 @@ Enlightenment, 93–94, 114, 119–22
 equity, 23, 26, 35, 48, 56–57
 ethics, 110–11, 115, 119
 eugenics, 60, 123
-## 
+##
 diversity, 23, 25–26, 48, 56–57, 101
 
 dystopianism, 97, 99–100
 
 #### **F**
-
 
 family, 4, 27, 29–31, 41, 70, 73–75, 78, 80, 180
 Fauci, Anthony, 52, 60
@@ -1718,28 +1714,25 @@ Floyd, George, 143
 form, x, 117–18, 120, 122,
 freedom, x, 19, 29, 51, 93, 100, 102, 109, 177
 free will, 7, 93–94, 122
-## 
+##
 
 French Revolution, 114
-## 
+##
 #### **G**
-
 
 Garrow, David, 135–36
 gender, 10, 27–36, 40, 46, 53, 78, 80, 86, 128, 131, 140–41, 143–44
 Generation Z, 29, 80
 Great Books, 38, 41, 51, 93, 131
 Greek philosophy, 116–19, 181
-## 
+##
 #### **H**
-
 
 Heraclitus, 116, 118, 122
 home economics, 78–80, 84
 Hume, David, 7, 199
-## 
+##
 ## **I**
-
 
 imperialism, 24
 inclusion, 26, 48, 57
@@ -1747,19 +1740,17 @@ intersectionality, 22–23, 27–28, 48, 54, 57, 62, 124, 129–30, 135, 202
 Iraq War, 8, 200
 Islam, 96, 109, 140, 205
 ivory tower, 138–39, 145, 200–202
-## 
+##
 #### **J**
 
 Jefferson, omas, 24, 135–36
 
 #### **K**
 
-
 Kendi, Ibram X., 26
 King Jr., Martin Luther, 5, 25, 27, 135
-## 
+##
 ## **L**
-
 
 Le, 8–10, 45–46, 128, 135, 137, 201–2, 204
 le-wing university bias, 37–38, 136
@@ -1767,9 +1758,8 @@ Lemaître, Georges, 62–63, 65
 LGBTQ+, 2, 23–24, 28–30, 34, 60, 62, 85, 87, 122, 139–40, 203. See also transgenderism
 liberal arts education, x, 41, 57, 102, 108, 112, 147, 154, 161, 163, 165–66, 177–78, 180–89,
  193–95
-## 
+##
 #### **M**
-
 
 marriage, 27, 30, 74–75, 78, 81, 86–88, 97
 Marx, Karl, 64, 92, 96, 123,
@@ -1783,20 +1773,18 @@ Middle Ages, 2, 93, 110, 120, 174
 millennials, 76, 80
 modern philosophy, 117, 121
 motte-and-bailey fallacy, 136–37
-## 
+##
 #### **N**
 
 National Socialists (Nazis), 29, 123 natural law, 12, 29, 93–94, 137, 147 neo-Marxism. See Marxism Newton, Isaac, 121, 152 Niemöller, Martin, 204 Nietzsche, Friedrich, 7, 124
 
 #### **O**
 
-
 Obama, Barack, 50, 200
 obesity, 96, 205
 Oxford, University of, 9, 11, 98, 100, 151, 176, 201
-## 
+##
 #### **P**
-
 
 pandemic, 11, 60, 83, 97, 100, 108. See also COVID-19
 Parmenides, 116, 118
@@ -1806,16 +1794,15 @@ politics, 4, 8, 37, 62, 111, 120, 158, 169
 privilege, 22–23, 130, 137
 progressive ideology, 10, 35, 38, 86–87, 101, 114, 123, 138, 143
 pronouns, 11, 33, 55, 97, 131
-## 
+##
 
 Protestants, 7, 93–94, 120, 122, 151, 153–54, 160, 163–65
-## 
+##
 #### **Q**
 
 quantum mechanics, 62–63, 67–68
 
 #### **R**
-
 
 race, 22, 24–26, 36, 52, 95, 131, 137, 145, 173, 202, 204–5
 racism, 8, 10, 24, 26–27, 36, 40, 47, 50, 54–55, 133, 137, 139–40. See also anti-racism
@@ -1826,9 +1813,8 @@ Roman Catholicism, 6, 8, 10–12, 15, 17–18, 29, 41, 62–63, 69–70, 93–94
  120, 133, 147, 149, 152–56, 160, 162–66, 168–70, 172, 176, 178, 193
 Rowe, Mike, 44, 83–84
 Russell, Bertrand, 7, 199
-## 
+##
 ## **S**
-
 
 safe spaces, ix, 1, 23, 27, 73
 Scholasticism, 115
@@ -1845,25 +1831,23 @@ Stalin, Joseph, 65, 70–71
 STEM (science, technology, engineering, and math), 53–54, 57, 59–71, 85
 student debt, 1, 3, 44–47, 80–82
 systemic racism. See racism
-## 
+##
 #### **T**
-
 
 theology, 11, 18, 63–64, 119, 122, 164, 167, 173, 183, 192
 omism, 92, 95–97, 114–15, 119–20
 transgenderism, 9, 28, 30–34, 98, 131, 143–44, 202
 transhumanism, 97–102, 122
-## 
+##
 
 Trump, Donald, 9, 142, 201
 Twitter, 11, 141, 203
-## 
+##
 #### **U**
 
 utopianism, 99
 
 ## **W**
-
 
 Warren, Elizabeth, 47, 81
 West Point, 6–7, 199
@@ -1872,7 +1856,7 @@ Western philosophy, 93–94, 109–10, 119
 white fragility, 23, 26
 woke ideology, 2–3, 18, 21–41, 54, 56, 71, 81, 84, 97–98, 101–2, 129, 145, 200, 203, 206
 World War II, 6, 59, 70
-## 
+##
 #### Copyright © 2022 by Timothy J. Gordon and Michael J. Robillard
 
 All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means electronic or mechanical, including photocopy, recording, or any information storage and retrieval system now known or to be invented, without permission in writing from the publisher, except by a reviewer who wishes to quote brief passages in connection with a review written for inclusion in a magazine, newspaper, website, or broadcast.

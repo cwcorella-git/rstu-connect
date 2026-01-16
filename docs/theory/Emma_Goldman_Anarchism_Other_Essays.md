@@ -33,9 +33,9 @@ tags:
 
 **[Chapter 11: Marriage and Love](http://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays#toc13)**
 
-**[Chapter 12: The Modern Drama: A](http://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays#toc14)** 
+**[Chapter 12: The Modern Drama: A](http://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays#toc14)**
 
-**[Powerful Disseminator of Radical](http://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays#toc14)** 
+**[Powerful Disseminator of Radical](http://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays#toc14)**
 
 **[Thought](http://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays#toc14)**
 
@@ -125,7 +125,7 @@ In October, 1893, Emma Goldman was tried in the criminal courts of New York on t
 
 Emma Goldman passed her time in the penitentiary in the capacity of nurse in the prison hospital. Here she found opportunity to shed some rays of kindness into the dark lives of the unfortunates whose sisters of the street did not disdain two years previously to share with her the same house. She also found in prison opportunity to study English and its literature, and to familiarize herself with the great American writers. In Bret Harte, Mark Twain, Walt Whitman, Thoreau, and Emerson she found great treasures.
 
-She left Blackwell's Island in the month of August, 1894, a woman of twenty-five, developed and matured, and intellectually transformed. Back into the arena, richer in experience, purified by suffering. She did not feel herself deserted and alone any more. Many hands were stretched out to welcome her. There were at the time numerous intellectual oases in New York. The saloon of Justus Schwab, at Number Fifty, First Street, was the center where gathered Anarchists, littérateurs, and bohemians. Among others she also met at this time a number of American Anarchists, and formed the friendship of Voltairine de Cleyre, Wm. C. Owen, Miss Van Etton, and Dyer D. Lum, former editor of the *Alarm* and executor of the last wishes of the Chicago martyrs. In John Swinton, the noble old fighter for liberty, she found one of her staunchest friends. Other intellectual centers there were *Solidarity*, published by John Edelman; *Liberty*, by the Individualist Anarchist Benjamin R. Tucker; the *Rebel*, by Harry Kelly; *Der* 
+She left Blackwell's Island in the month of August, 1894, a woman of twenty-five, developed and matured, and intellectually transformed. Back into the arena, richer in experience, purified by suffering. She did not feel herself deserted and alone any more. Many hands were stretched out to welcome her. There were at the time numerous intellectual oases in New York. The saloon of Justus Schwab, at Number Fifty, First Street, was the center where gathered Anarchists, littérateurs, and bohemians. Among others she also met at this time a number of American Anarchists, and formed the friendship of Voltairine de Cleyre, Wm. C. Owen, Miss Van Etton, and Dyer D. Lum, former editor of the *Alarm* and executor of the last wishes of the Chicago martyrs. In John Swinton, the noble old fighter for liberty, she found one of her staunchest friends. Other intellectual centers there were *Solidarity*, published by John Edelman; *Liberty*, by the Individualist Anarchist Benjamin R. Tucker; the *Rebel*, by Harry Kelly; *Der*
 
 *Sturmvogel*, a German Anarchist publication, edited by Claus Timmermann; *Der Arme Teufel*, whose presiding genius was the inimitable Robert Reitzel. Through Arthur Brisbane, now chief lieutenant of William Randolph Hearst, she became acquainted with the writings of Fourier. Brisbane then was not yet submerged in the swamp of political corruption. He sent Emma Goldman an amiable letter to Blackwell's Island, together with the biography of his father, the enthusiastic American disciple of Fourier.
 
@@ -1421,7 +1421,7 @@ With equal stupidity the boy Morris is driven to suicide because he fails in his
 
 For years thoughtful men and women in Germany had advocated the compelling necessity of sex enlightenment. *Mutterschutz*, a publication specially devoted to frank and intelligent discussion of the sex problem, has been carrying on its agitation for a considerable time. But it remained for the dramatic genius of Wedekind to influence radical thought to the extent of forcing the introduction of sex physiology in many schools of Germany.
 
-Scandinavia, like Germany, was advanced through the drama much more than through any other channel. Long before Ibsen appeared on the scene, Björnson, the great essayist, thundered against the inequalities and injustice prevalent in those countries. But his was a voice in the wilderness, reaching but the few. Not so with Ibsen. His *Brand*, *Doll's House*, *Pillars of Society*, *Ghosts*, and *An* 
+Scandinavia, like Germany, was advanced through the drama much more than through any other channel. Long before Ibsen appeared on the scene, Björnson, the great essayist, thundered against the inequalities and injustice prevalent in those countries. But his was a voice in the wilderness, reaching but the few. Not so with Ibsen. His *Brand*, *Doll's House*, *Pillars of Society*, *Ghosts*, and *An*
 
 *Enemy of the People* have considerably undermined the old conceptions, and replaced them by a modern and real view of life. One has but to read *Brand* to realize the modern conception, let us say, of religion, — religion, as an ideal to be achieved on earth; religion as a principle of human brotherhood, of solidarity, and kindness.
 

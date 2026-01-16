@@ -1860,7 +1860,7 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 
 - 1 [@Repeater Books](mailto:@Repeater Books). Tweet. 14 January 2017: ](https://twitter.com/repeaterbooks/status/820272612303667200)
 - 2 *The Fisher-Function* was organised by Lendl Barcelos, Ashiya Eastwood, Kodwo Eshun, Mahan Moalemi, Geelia Ronkina and myself. For more information on this lecture series, you can visit: ](https://fisherfunction.persona.co/)
-- 3 Mark Fisher, "*k-punk* and I", k-punk, 9 December 2009: 
+- 3 Mark Fisher, "*k-punk* and I", k-punk, 9 December 2009:
 - 4 Mark Fisher, "Psychedelic Reason", *k-punk*, 19 August 2004: ](https://k-punk.org/psychedelic-reason/)
 - 5 Robin Mackay. "Mark Fisher Memorial." *Urbanomic*: ](https://www.urbanomic.com/document/mark-fisher-memorial/)
 - 6 Mark Fisher, "Acid Communism (Unfinished Introduction)" in *k-punk: The Collected and Unpublished Writings of Mark Fisher (2004-2016)*, ed. Darren Ambrose. London: Repeater Books, 2018, 766.
@@ -1917,12 +1917,12 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 28 Ibid.
 
 - 29 See: Rob Waugh, "What is 'Accelerationism', the belief followed by New Zealand terror attacker?", *Metro*, 18 March 2019: ](https://metro.co.uk/2019/03/18/accelerationism-belief-followed-new-zealand-terror-attacker-8930673/)
-- 30 Andy Beckett. "Accelerationism: how a fringe philosophy predicted the future we live in", *The Guardian*, 11 May 2017: 
+- 30 Andy Beckett. "Accelerationism: how a fringe philosophy predicted the future we live in", *The Guardian*, 11 May 2017:
 - 31 Pete Wolfendale, "So, Accelerationism, What's All That About?", *Dialectical Insurgency*, 3 August 2014: ](https://deontologistics.tumblr.com/post/91953882443/so-accelerationism-whats-all-that-about)
 - 32 For an in-depth breakdown of Accelerationism's more recent offshoots and controversies, I would point the reader to a popular blogpost of my own on this topic. See: "A U/Acc Primer", *Xenogothic*, 4 March 2019: >
 - 33 Mark Fisher. "Postcapitalist Desire" in *What Are We Fighting For: A Radical Collective Manifesto*, eds. Federico Campagna and Emanuele Campiglio. London: Pluto Press, 2012, 18.
-- 34 See: Roisin Kiberd, "The Rise and Fall of 'Boring Dystopia', the Anti-Facebook Facebook Group", *Vice*, 22 December 2015: 
-- 35 Simon O'Sullivan. "The Missing Subject of Accelerationism". *Metamute*. 12 September 2014: 
+- 34 See: Roisin Kiberd, "The Rise and Fall of 'Boring Dystopia', the Anti-Facebook Facebook Group", *Vice*, 22 December 2015:
+- 35 Simon O'Sullivan. "The Missing Subject of Accelerationism". *Metamute*. 12 September 2014:
 - 36 Ibid.
 
 - 37 Ibid.
@@ -1951,7 +1951,7 @@ Dancers at Consciousness Razing, SETspace, Dalston, 2018.
 - 58 Herbert Marcuse. *One-Dimensional Man*. London: Routledge Classics, 1991, 66.
 - 59 Marcuse. *An Essay on Liberation*, 8.
 - 60 Ibid., 9.
-- 61 Mark Fisher. "Unpicking the codes of Ghettoville". *Dazed Digital*. 28 January 2014: 
+- 61 Mark Fisher. "Unpicking the codes of Ghettoville". *Dazed Digital*. 28 January 2014:
 - 62 Mark Fisher, "Digital Bauhaus Summit 2016: Designer Communism". *Egress*. 6 June 2016: ](https://egressac.wordpress.com/2016/06/06/digital-bauhaus-summit-2016-designer-communism/)
 - 63 "Red Pill". *Know Your Meme*. 10 May 2017: ](http://knowyourmeme.com/memes/red-pill)
 - 64 Ray Brassier. "Prometheanism and its Critiques" in *#Accelerate*, 470.
@@ -2114,11 +2114,11 @@ http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/ Wikiped
 - 24 Ibid.
 
 - 25 Sherry Turkle. *Life on the Screen: Identity in the Age of the Internet*. London: Phoenix, 1996, 83.
-- 26 Alyssa Rosenberg. "The ridiculous ending of 'The OA' betrays the series' best idea." *The Washington Post*. 21 December 2016: 
+- 26 Alyssa Rosenberg. "The ridiculous ending of 'The OA' betrays the series' best idea." *The Washington Post*. 21 December 2016:
 - 27 Ibid.
 - 28 Ibid.
 - 29 Ibid.
-- 30 Alessandra Stanley. "Oh! Mr. Darcy… Yes, I Said Yes!", *The New York Times*, 20 November 2005: 
+- 30 Alessandra Stanley. "Oh! Mr. Darcy… Yes, I Said Yes!", *The New York Times*, 20 November 2005:
 - 31 Alyssa Rosenberg. "The ridiculous ending of 'The OA' betrays the series' best idea."
 - 32 H. P. Lovecraft, *Supernatural Horror in Literature*. New York: Dover Publications, Inc., 1973, 12.
 
@@ -2140,7 +2140,7 @@ http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/ Wikiped
 - 13 Ibid., 105.
 - 14 Mark Fisher, "How to Kill a Zombie: Strategising the End of Neoliberalism", in *k-punk*, 539.
 - 15 Even more accurately, we might point to the 2018 video game *Red Dead Redemption 2* — likewise developed by Rockstar Games: the makers of *Grand Theft Auto* — as being more obviously analogous to the Wild West experience on offer.
-- 16 Mark Fisher, "Sympathy for the androids: the twisted morality of *Westworld*", *The New Humanist*, 30 November 2016: 
+- 16 Mark Fisher, "Sympathy for the androids: the twisted morality of *Westworld*", *The New Humanist*, 30 November 2016:
 - 17 Ibid.
 - 18 Mark Fisher, "Abandon hope (summer is coming)", *k-punk*, 11 May 2015: ](http://k-punk.org/abandon-hope-summer-is-coming/)
 - 19 Ibid.
@@ -2228,7 +2228,7 @@ http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/ Wikiped
 - 20 Nancy, "The Confronted Community", 22.
 - 21 Fisher, *The Weird and the Eerie*, 11.
 - 22 Fisher, "k-punk, or the Glampunk Art Pop Discontinuum", *k-punk*, 11 September 2004: [
-- 23 Fisher, "It Doesn't Matter If We All Die: The Cure's Unholy Trinity", *k-punk*, 3 August 2005: 
+- 23 Fisher, "It Doesn't Matter If We All Die: The Cure's Unholy Trinity", *k-punk*, 3 August 2005:
 - 24 Ibid.
 - 25 Nancy, "The Confronted Community", 23.
 - 26 Ibid., 24.
@@ -2318,7 +2318,7 @@ http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land/ Wikiped
 - 9 Fredric Jameson, *Valences of the Dialectic*. London: Verso Books, 2009, 612.
 - 10 Fisher, "Baroque Sunbursts".
 - 11 Ibid.
-- 12 Having written about Mark's time in D-Generation in his forward to Repeater's *k-punk* collection, Reynolds would later share these two articles from *Melody Maker* on his blog. See: "D-Generation – or, the Dawn of k-punk", *Reynolds Retro*, 19 November 2018: 
+- 12 Having written about Mark's time in D-Generation in his forward to Repeater's *k-punk* collection, Reynolds would later share these two articles from *Melody Maker* on his blog. See: "D-Generation – or, the Dawn of k-punk", *Reynolds Retro*, 19 November 2018:
 - 13 David Toop, *Into the Maelstrom: Music, Improvisation and the Dream of Freedom (Before 1970)*. London: Bloomsbury, 2016, 70.
 - 14 Ibid.
 - 15 Ibid.

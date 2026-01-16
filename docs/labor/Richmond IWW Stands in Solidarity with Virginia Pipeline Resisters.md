@@ -90,9 +90,6 @@ reaffirms our belief and commitment to revolutionary industrial unionism, enviro
 (Credit, with solidarity and gratitude, to fellow workers at Twin Cities IWW for inspiration and common content.)
 
 Please support this campaign:
-
-https://fundly.com/nopipelinesva
-
 ## Venmo: @NoACP
 
 | Pay Pal: | |

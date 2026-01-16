@@ -68,19 +68,19 @@ r. Capiaism isoy 2s ceuy. 2. Powe (ocia scieces) 3. ocia casses. 4. Gobaizaio. .
 
 330.212- Ty Gb H 24, Gb H 28, c cg g cp ppc p p k kg c A cp g g c p pg g c pc c gc pc y c g M c c cp c A g g cp ppc cp q c c c c p c p c pc c cp y cy
 
-H pcc cp g p p c g c q pc gg p cp k q cp c c p gg pc q pc cp g pc c c c y g c c g w c c g k c c g k gb c k c gc g pc pc c cc cp cc g c g c p p c pc c pc g cp c p () c gp cg c p p g g c hg cp c p () pp c k p p g g c g c cc g c p g c c p p qy p g cy cg c g pc c c q q ggpc cc c cp p g gg p ss cc cc c c gg; suu , g c cc g p pc cc c gg gg g cc c c g cp c c c cg c c c c; c c c p cg c c p pc c gc pc g g g I M p g cc c g g c c c g g cp c pc g cc pg pp p pc cc c c g cp g c c cg cp c c g p y g j pcc Ac j c c cg c g 
+H pcc cp g p p c g c q pc gg p cp k q cp c c p gg pc q pc cp g pc c c c y g c c g w c c g k c c g k gb c k c gc g pc pc c cc cp cc g c g c p p c pc c pc g cp c p () c gp cg c p p g g c hg cp c p () pp c k p p g g c g c cc g c p g c c p p qy p g cy cg c g pc c c q q ggpc cc c cp p g gg p ss cc cc c c gg; suu , g c cc g p pc cc c gg gg g cc c c g cp c c c cg c c c c; c c c p cg c c p pc c gc pc g g g I M p g cc c g g c c c g g cp c pc g cc pg pp p pc cc c c g cp g c c cg cp c c g p y g j pcc Ac j c c cg c g
 
 cp c c c 3 p G Rc pc g c pcc ccc gcc uu g c g c p p c y g cp cg pcc c k p y M c jc k pp y g c k g pc g c p B h Th s cg g k p II, ck Pg c p p cpg M E c g g
 
-3 T h Gb V 2) Gb , j Kg T G V 2) L B 2) 2 2 V R 2) 2) 2 R 22) ) 2 R Py 2) 2 E 2) ) } D P 2) 2 ) 
+3 T h Gb V 2) Gb , j Kg T G V 2) L B 2) 2 2 V R 2) 2) 2 R 22) ) 2 R Py 2) 2 E 2) ) } D P 2) 2 )
 
 p c g cp pc g g g cp cc c g c c Th s b s , uu, s? p g cp c c cc c c c cc g ckg pc c c pc p pc p b s Tw Fs u Fs A s u g M B p p g c g pc cc p : g pp c p ; p g ; c p4 k p g g k c c k M c cc c p c g g c cp p G Rc c p cp g c pg cc g cp p c c pc p c pp ckg
 
-A k c k g c c cc ( ) c M c c cc cp M c g c pc p c p k c g g c vuu cc s w c p c g gc p y c pc pcp p g pp cp p c c y k p A g pc cg c c c c c p g cc cc p cc 
+A k c k g c c cc ( ) c M c c cc cp M c g c pc p c p k c g g c vuu cc s w c p c g gc p y c pc pcp p g pp cp p c c y k p A g pc cg c c c c c p g cc cc p cc
 
 Y k ccp g c p c g c cc c pc c gc cgc c cc g c c p s u c pp pp jy y c gc pc y
 
-4 
+4
 
 hg c pg c gc c gc c kg pp c pcg y p g cy g p gc cg c q pp pp cg p cgc cg G c y c p g c A cp p c y cgc c g p c cg pk pg cp c gc g g c B cc p y cc M g c cp hu c c ppcg c pp y pp pc cp c g Dk Ag
 
@@ -106,7 +106,7 @@ A cg q cc cp c c 9 g cp p c c () c c p J p pc q c () p c cc
 
 ## 8 G y I R 2, 2: 88
 
-9 
+9
 
 their respective territories, including disciplining labor. Reciprocally, local managers of the national capitalist state are compelled, just as they were in the past, by the structural power of the capitalist system. The legitimacy of these states and the reproduction of the status of state elites as privileged strata depend on their ability to attract and retain now-globalized accumulation to the territories over which they exercise political authority. Competition among national states to attract transnationally mobile capital becomes functional to global capital and to its ability to exercise a structural power over the direct power of states - that is, over the policymaking process of national states, in the same way that national capital previously exercised what some referred to as the "veto power" of capital over the state. In this way, the continued existence of the nation-state and the interstate system appear to be a central condition for the class power of transnational capital and for the reproduction of global capitalism. Transnational corporations during the early 1990s, for example, were able to utilize the institutions of different nation-states in order to continuously dismantle regulatory structures and other state restrictions on the operation of transnational capital in a process of "mutual deregulation." These are topics that I take up later on; they are central to an understanding of the global crisis, which in part involves the disjuncture between a globalizing economy and a nation-state-based system of political authority.
 
@@ -186,11 +186,11 @@ yc g c pc c c c r r 3 q c :
 - p pp g p 4 pc c g jc pc c c c cc pp c
 - 5 jc gg c pc y cp
 
-3 T Gy V 22) D T 2) T E R E 2) K R , 2 22 t22 
+3 T Gy V 22) D T 2) T E R E 2) K R , 2 22 t22
 
 ## 4 D P
 
-(1) pp p c c g g g p y g 
+(1) pp p c c g g g p y g
 
 g c: gg cpg (c gc cg pp pc cpg pc c c cc ccp) pc c p c cy c c g c y pg g c g cp c c y pp pc p ( pp g g c cpcc cp c c pg) g c g py pp c c pc pk c ggg c pg pp cc g k pk pc gc p pc g ck R c g pc g g k pc k cgg g pcc c pc c c pp c c cg c pc g c p c c g cg gp cp c pc pc c cp g
 
@@ -276,7 +276,7 @@ A gc c cp c cp cg g c cc ; p g c cc pc c c pc c cc cp cy cg /c g g g c pc c cgc 
 
 c c p c c gg Dc E p cp p cp Dc / cp c cp A c yp cc g cg pc cp p g c c c c c cg g c g c c c q c c c c cc c pc cp A gp cc g cp c c c g c ccp B c A A g g cg K Kk p pp 4 K G M s"5 cp p cp c H gg cp c u cpg p c g cp ppc g Kk ppc cc g cp c g g cp k c p y p c g pp g k g c cp g cc c cp c y cp g cg c cg p p gg g g cp cc c c c pc c c gp y cp cp y pc p c c g
 
-3 
+3
 
 2 2) 2
 
@@ -285,8 +285,6 @@ c c p c c gg Dc E p cp p cp Dc / cp c cp A c yp cc g cg pc cp p g c c c c c cg g
 pp c g p pc g cg g pc c c pcc c gp cp cc p cp g g cg pcc c c yp cc pc cp g g cc cc Ag cc c cp y g cg c cg p p c BM c p cp c cg cc p R g cg cp ck J BM c c y BM g c c cp cp c c gp k g cp
 
 Ep (E) p GM c p p c Ac cp cp g A cc cp c cp g cpg [/ g] c cp k p ss ssu cp g g c p g c cp us p cp g g c cp B g g cp Ac Ep cp cp g Ac Ep g c c g g g ; g c k j c cp g c k c c E cc cp cc c ypc p cp p c cy g p cy pg k pg c c p c ypc
-
- 
 
 c c gg K 7 B c p cg cc g g g cc A cc Ag g cc k A l g E gg g A c g c g H c pp E cg cp g gg K p cp ; c yp () cp() g cq c c D gg c j c B y c p p pk cc cp c ccc g cg g g c wbs s c cp g cp g g c A g j k pc E cp Ep c E cp Ep k g c j c g c g c K B j Bc p p cc c cp oc c j g cp H cp cp g gp cp l p cp g g gg K g c c c c c gg g gg Ac ic w p ic: c Uic it c Uic NV [ Nhici hi cp] % & [Uici] 4% Ui Ui 2% & 4% ip c % KDD Jp 24% i & h b Cp iib c vic phip & KDD i ip c Uic i
 
@@ -308,7 +306,7 @@ In 1957, Paul Baran, a Russian-born U. S. Marxist, published The Political Econo
 
 &lt;sup>31 Paul A. Baran, The Political Economy of Growth (New York; Monthly Review Press, 1957).
 
-cy g p B k cc p p c c c cp g c c g g B c c T c cg c g g cp c c cg g cp cg p pc cp g c g p c p pc p c c c c gc P c yg py [P] pc c ( p) c c c g p [p g] Ecg p p g p pc k / yg p g c cp pc j c c gp pc A cc c ppy g c p g gp p c p cc g g kg c c g g pc c g 
+cy g p B k cc p p c c c cp g c c g g B c c T c cg c g g cp c c cg g cp cg p pc cp g c g p c p pc p c c c c gc P c yg py [P] pc c ( p) c c c g p [p g] Ecg p p g p pc k / yg p g c cp pc j c c gp pc A cc c ppy g c p g gp p c p cc g g kg c c g g pc c g
 
 G B c j p c c c B c pg cp g c p gp g ppc g p gc I I gc c M M g c p p p p g cp qp c g gc pc p cg c p ccc g cp
 
@@ -322,7 +320,7 @@ c g cc k c g p4 pc cp cjc cg qck g c c g cp chgy y pc cg (c c pcg c) c cp g A g 
 
 ## 35 E P ky 24, 48: 4 2, o
 
-36 
+36
 
 ( ) c p cp p c g cp p g M c p g p7 M p ck c c pcc c
 
@@ -334,9 +332,9 @@ A c p cp p pc cc c p Ac M g g cp M Gp A p pg R Bk (RB) p pc g ck cg p cg cp Th N
 
 37
 
-38 
+38
 
-39 
+39
 
 40 V jj H Yk T, q 2 2o%2% 2o % 2o% 2o % 2o % 2o% 2o
 
@@ -360,7 +358,7 @@ g cp cc pg q g c g c p s c B c / k E g c p c p p p jg k c D M c g pc Ecc (E) pk 
 
 44 J -y R 28, 2:
 
-cp gg c cg p c c pc g k c pc c gp g c cc cp p gg gc c c ; c cc c g cp Y B g p c cc p c gp c Mc c cc c p k M E c g 
+cp gg c cg p c c pc g k c pc c gp g c cc cp p gg gc c c ; c cc c g cp Y B g p c cc p c gp c Mc c cc c p k M E c g
 
 jcg g cp P cc p cc G c BR (B R Ac) c BR pp c c ccp y p c pp c p pg p c c BR c g gp g c c gg pc cc c Gg g f ppy BR c p gcc c pc cc c g gpg c g c g g g g cp c c 45 c k c cc g g cp c p g c c c pc g g g G/ BR c p pc jckg p pc cc cp Ac M pp g c J Vc A P cp cg g c c cy q gc p
 
@@ -388,7 +386,7 @@ ck cp g B c p c g pc cy c pc p c c c g pc cc c g s lss s ls cc c pc p c c c p c 
 
 p p p cp gp cc g cp c cc k k pc c p g c g c p g g cp cc c q p K c c g c pc g cp c V Ac c y cy
 
-Bkg cc g pc p c cp c c c p p g g cy g cc g pc ccc p y y G cc cg q k g p c cg cp c ul cg pc ppg c cg cqc g p c c A c c c pc c c p pc c g c k c p cc g c Dc g cg c c c c c g g c pc g M c c p g g g g cp g g c gp cg g k p jc g g cp p g cy c y cc c cg 
+Bkg cc g pc p c cp c c c p p g g cy g cc g pc ccc p y y G cc cg q k g p c cg cp c ul cg pc ppg c cg cqc g p c c A c c c pc c c p pc c g c k c p cc g c Dc g cg c c c c c g g c pc g M c c p g g g g cp g g c gp cg g k p jc g g cp p g cy c y cc c cg
 
 ## Se Cplsm r Cpls Clnzn f he Se?
 
@@ -450,7 +448,7 @@ D Rkp g g c Kg c p g ulss c c cg c c g g c pc p c c cc pc gg ccc c pc p A g g p 
 
 ## 67 , P P k y )
 
-68 Gb R T P ) Gb D I ) T T K T k T , 
+68 Gb R T P ) Gb D I ) T T K T k T ,
 
 cc [ g] M g Ac p p: g p pc p c g p p c c pp 9 H g :
 
@@ -460,7 +458,7 @@ pc pc gg g g q c cy s c pcc cc cc cc 7 p pc gg g g g K c Gg k p Vc Pck p Jg M EE
 
 69 ,
 
-70 
+70
 
 7'
 
@@ -506,7 +504,7 @@ Mc c g kg c jc jc A g k g c c k cc c c g c g c k pc c pcp cc cc jy Y k j y cp cp
 
 ### Frml nd Rel Sbsmpn nd Srpls Hmny
 
-P cc g p cc pp p g k g g c k f c g p c k c g c j g pc cp 8 pc p cp c p p p pc c pp p f pc c c k cp E p pc pcp pc g k p cp c pp kg c c p R p k cp pc pc c c cp c cp p c c cp cp pp k p cp M g ppg pc pc c k p Ac us c c k cp g p K Ppp c ccp ssss cp c cp c pc wsh cp c c g g pc ppp p cp g cc pc p p cp pp gc g pc pp cp cp ( c cp s) cp p p 
+P cc g p cc pp p g k g g c k f c g p c k c g c j g pc cp 8 pc p cp c p p p pc c pp p f pc c c k cp E p pc pcp pc g k p cp c pp kg c c p R p k cp pc pc c c cp c cp p c c cp cp pp k p cp M g ppg pc pc c k p Ac us c c k cp g p K Ppp c ccp ssss cp c cp c pc wsh cp c c g g pc ppp p cp g cc pc p p cp pp gc g pc pp cp cp ( c cp s) cp p p
 
 ## A c pc c cp g cp g p g cc pc g g gg pc
 
@@ -514,7 +512,7 @@ P cc g p cc pp p g k g g c k f c g p c k c g c j g pc cp 8 pc p cp c p p p pc c 
 
 cpc g p cp c pc k p cc k cg k cy g p cc cc j k p kgc cg c g p 3 k c p g pg pc g kc 8"
 
-c g c g g p cp [] pc c p cc B cp c cp c g cp gc y R g cp c jc p g s cc cp g g s b; pc ( p) 83 cg g ssb us pc G cg k pc pc g c p g c pc p c g ss Fs Ks sbuv s 
+c g c g g p cp [] pc c p cc B cp c cp c g cp gc y R g cp c jc p g s cc cp g g s b; pc ( p) 83 cg g ssb us pc G cg k pc pc g c p g c pc p c g ss Fs Ks sbuv s
 
 gg c c g g k c pc c pc g pc cp k c c g g yc Hy g cp g cp g p cy cpg k cy g g c p cp g c g kc (g y) p cg g c cp k cp g g g cp cp c gg c K p c J K k p cc c c cp c q g k c p p K
 
@@ -524,11 +522,11 @@ gg c c g g k c pc c pc g pc cp k c c g g yc Hy g cp g cp g p cy cpg k cy g g c p
 
 k c g c ggg g c c k l 3 p H cc g p c g c p c pg g pg pc k c pg g g c g g ( g) cc g c c c g g p cp cy
 
-K p g cp cc pc c c p k pp p pjc K cp k g cy pp pc D cp cp c cp c cc p k p K g bu c pc cc cp c pc c c gy cp c c c c gg c gg c cp c cp pg cck p cp pp c pp gg p 
+K p g cp cc pc c c p k pp p pjc K cp k g cy pp pc D cp cp c cp c cc p k p K g bu c pc cc cp c pc c c gy cp c c c c gg c gg c cp c cp pg cck p cp pp c pp gg p
 
 k c cp g g g pc p c c p kg c cc c c c cp p cp g c gg c pp k g c c g cp k g y g p g c pc k p g p cp g c c c c cp c c c p kg c c c g Dg g c cp p c pc cp g g pc p p pp cc pc pcp cg g g p cc cc cp
 
-K cc cc c c p g cc c gc g c p p g 3 cp g c p Ag Pc p B g R Rg ( ) Mg c Kg () cp c g cp c gc c M Bk p c g c j pg c g c cc pg pc pc c cp pc c c j c cp g kg p cc p c pc cc pg g c ppc k cc g c c c c p g c g cc c cc cy Mg c c g g y jg c c k gc cc k c c g c p pc gc c c pcp cy c cpcy cc c pc pc g cg pc cgc cc pc ccc Ap gc ppc pgc g g p g ckg p g cp k cc g gy pc g c cg g g c c c c p g c g pc g k cp ss p cp wh c pc c cc cp Ecc cg pg g c c c ccc q q cp g c g g cc cc p g c cc pc g p q cp c c pg c c g c cp 
+K cc cc c c p g cc c gc g c p p g 3 cp g c p Ag Pc p B g R Rg ( ) Mg c Kg () cp c g cp c gc c M Bk p c g c j pg c g c cc pg pc pc c cp pc c c j c cp g kg p cc p c pc cc pg g c ppc k cc g c c c c p g c g cc c cc cy Mg c c g g y jg c c k gc cc k c c g c p pc gc c c pcp cy c cpcy cc c pc pc g cg pc cgc cc pc ccc Ap gc ppc pgc g g p g ckg p g cp k cc g gy pc g c cg g g c c c c p g c g pc g k cp ss p cp wh c pc c cc cp Ecc cg pg g c c c ccc q q cp g c g g cc cc p g c cc pc g p q cp c c pg c c g c cp
 
 Ecc g pc c j p g cp cpg p p c c g cp c g c g cp c p c pc ypc c c g cp ( cp cc c) p pc p y pg g g g pp cp pc p c c pg c pc c B cg c cc g g cc pc g g cp kp g c G g cp k c p pc c pc g cc cp Dg c p; p p p pc cy p gg c c pc p p kg k p cy pc p g p p k cy k p c cp A c g g cp g cg c gg k p k g p pp c cp pc c B pg p kg cc cp c c g c g cy g p j p cc c cg p pp gg g c c c c g B p cc cg c c c c gg cp cg () cgc c p g cp c j g pcy c c k pcy I g g g c gc p g 4 c g c g c c cp gcp c p k g g g
 
@@ -548,7 +546,7 @@ H c c g c c c kg g c g c p ppy y A c p g c y g p g p c cp q c g p c g c c pc cc 
 
 #### Gb M C?
 
-Ag g kg c g c p g p c g p kg c cc cp c j k g g cp p c p g cp c c c c g cp p ppg cp g p c y c pg j k g cp B c c 3 pp c g g k c kg c 
+Ag g kg c g c p g p c g p kg c cc cp c j k g g cp p c p g cp c c c c g cp p ppg cp g p c y c pg j k g cp B c c 3 pp c g g k c kg c
 
 M ccp c cg g pc c gp pc p pc c p g ccp c cp kg c pp c g pc c p cp cg g c 9 c cc pp c c c c p g kg c j g c cp
 
@@ -598,7 +596,7 @@ cp p c cc c cp g p cp g Ep c p c k p j c g gp p B ggpc c cp j cc pc c cy c p p g
 
 ## Jh Mi
 
-A g g c q qy p c g cp p p A c c pc g cy k p cy y H c g cp pc y c H c pc c c g cy pc H g p 
+A g g c q qy p c g cp p p A c c pc g cy k p cy y H c g cp pc y c H c pc c c g cy pc H g p
 
 c c c c cc c c g c Hc c pcc k pc g c gp c g g ; cc c p Pc c cc pc c g c c cjc ppc gc p cy c c c pc c p c c c c cc
 
@@ -686,7 +684,7 @@ Second, the state is not a "thing" but a relation - class relations played out a
 
 ## j By Gb, j I ) j pc gp c c; c cp cy c p pc c gp c k c k g g ccp p P 9 pc gp c c c p g c gp cy gc p c cp c c
 
-P s w cpcy c c jc g pp p p p P g c c c p c g g p g c c p g pc p p pp pp p p c c p c g pc c c p c g pp g c cc c c p cp c p c g c c cp cp cp cp pc c cp c g p c g B c p c g G cp c pc c pp p ppy g c c p p c c c p M p c j c Bk k g c k k p c c c g cp cc s s c p p R cg wk h vs suu hs hugh whh h T s gs xs h ss w 
+P s w cpcy c c jc g pp p p p P g c c c p c g g p g c c p g pc p p pp pp p p c c p c g pc c c p c g pp g c cc c c p cp c p c g c c cp cp cp cp pc c cp c g p c g B c p c g G cp c pc c pp p ppy g c c p p c c c p M p c j c Bk k g c k k p c c c g cp cc s s c p p R cg wk h vs suu hs hugh whh h T s gs xs h ss w
 
 ## &#x27;9 P P V )
 
@@ -696,7 +694,7 @@ Hc c pc p pcg cc cc jy g k p k pc k g c gc G0, M W B c q g cc g cp p cc pc c jc 
 
 ## w V )
 
-B c c suus c c g ppc p A c gc c g cc c c c p c c g c: g gc c c gg c g p p c c c c gc c p cg c ppc pc cc c gc c c c c gc Agc cc p c c c c gp p cp c cg 
+B c c suus c c g ppc p A c gc c g cc c c c p c c g c: g gc c c gg c g p p c c c c gc c p cg c ppc pc cc c gc c c c c gc Agc cc p c c c c gp p cp c cg
 
 Y c cc p gc c c p c c cg gc p c g cc g c p ck g c p g gg cqc c c cp g c p j c c c Y c p cc gc c pc cy kg k p p cp pc c g ( c ppc) j c y pc g c cc gc y ccc k c c c pc p g cg c c c cc g c c p c c pc p gc c cc j cc pc cc c k g cc pc cgc
 
@@ -712,7 +710,7 @@ pp p c p cp: ) g c cp g pcp g c (cpg g c ); ) cp cp ckg pcg jcg k c (cpg g cp cp
 
 J c g c cc p c g c c cc g c p c c pc cc p c cc c kg cc ppy p cp c c g pc cg y pc cg c cg p cc cg c p c k cg c A cp g c cc cg g p c B g gg c c W Ep (E) cg k k gg c cc pg p g k g c jc pc c g cc cp g c gg g c c cc cp pg c pg pc gg g pc p p kg p cp cc cc p p
 
-3 
+3
 
 cc 4 g pp pp g cpcy kp p cp ccc pg c g pc pp h cpcy pg c p c cpc pg (pg) c c j pg g j c cc c c cy cp cc h c A c g cy g c c c g c ppy g y g c c k p cc g c p c g y cc c k p pc y cy g K A E qg A g:
 
@@ -744,9 +742,9 @@ s 22
 
 J cp p p g pp k g p g c pg c y pg p g g pg jc g cc Y c pg Bk c cg M c j pc M Dp G pckpg p q ( g cp) k g c pc c g cc p c c g g k g cc cc c p g cp g cy cc pg M p c g cp g c p c g p c y g F
 
-29 
+29
 
-30 ) 
+30 )
 
 ## 3 &#x27; H t
 
@@ -798,7 +796,7 @@ cg g c gp cp cc
 
 A c Ac cp c g pc pc c g g p c p cp pc c pg g pc c g cp c c pc p k pc Bk cc g p p pg g g g c; c p c; c k pc g k; ; g g Rcpc c pc c cg q pg cc c p cc c cp p gc c B Agc Dp Ac Dp Bk g c c Ac pg cc p c g Ac g cp pc c g g cc pc g g cp c
 
-## The Cse f Free Trde greemens c cc pc c p c p g pp p ccp c cc c cg g k / k c g g c Ac Ag (AA) Ac Ag (AA) Ac g p c c c p g p p cp p ccg p pg c c pg p c p c c B g p p g j c p g p c c cp E g cc gc g g c g gc p pc gc pc gg cc g c k c 
+## The Cse f Free Trde greemens c cc pc c p c p g pp p ccp c cc c cg g k / k c g g c Ac Ag (AA) Ac Ag (AA) Ac g p c c c p g p p cp p ccg p pg c c pg p c p c c B g p p g j c p g p c c cp E g cc gc g g c g gc p pc gc pc gg cc g c k c
 
 Y g c k k g cp c pk c g M ADM cp A g c B cg gc pp cp pcg c c c g c p cp g gc cp cp gc B p c g p g g cp g cp gc pc pp pc p p g cp c g pg cc b gb g g p B g ADM Ag Bg c 60 pc pc B M c cg c 39 B cp cp g g cp B c cq c k B g gg pg gc g g ( pc g Gp c gc p) B g p cp g cp4
 
@@ -810,7 +808,7 @@ Y g c k k g cp c pk c g M ADM cp A g c B cg gc pp cp pcg c c c g c p cp g gc cp 
 
 g c cp c g p p kg c k gc g g kg c g cp P p RP cp cg c g cq kg g ppp p g cp c c R Gc p p c ppy g p c c p pc c kg pp c p R Gc p c pp4
 
-AA p cc k Mc g cc pc 4 Mc AA ck g cp g pp c cy cg p pp k pc c A 3 c A A c Mc k cp c p AA; cp g g p c c g pp AA y c Mc gp g p Mc Mc P ( ) c Mc cp c p R pc Mc p c s k AA k c pc pp c A A p Mc cp g p c c k J cp GMA MA g c pc c k 4 GMA c cc pc k G A Mc g cp c k M Ag pc pc Mc g c g (c) c c ck c pc c pg g p c c 
+AA p cc k Mc g cc pc 4 Mc AA ck g cp g pp c cy cg p pp k pc c A 3 c A A c Mc k cp c p AA; cp g g p c c g pp AA y c Mc gp g p Mc Mc P ( ) c Mc cp c p R pc Mc p c s k AA k c pc pp c A A p Mc cp g p c c k J cp GMA MA g c pc c k 4 GMA c cc pc k G A Mc g cp c k M Ag pc pc Mc g c g (c) c c ck c pc c pg g p c c
 
 41 , q 2q
 
@@ -830,7 +828,7 @@ Mc pc ck c gg c c g g c44 Dg gg c p p g Mc g c Mc c gg gp c g py R Py (PR) c Mc 
 
 ## 47 Dy R T R ) E ·b 2)
 
-p Mc g c c c Mc c p g c Bk q p cc gp g Mc cy k cc cc g p Mc cp pp c c c k gg gg c gp Mc gc p Mc cp c pc c c p Mc pc gc p g cp cp g cp c kg g pcg gg c c cp pc A p c gc cg g cp g cp gc g gg gc cp p g c pc k pc g p (g gc pc c) kg g cg c pc g gp cp c j g g cp cy cp c cp c cc p cp g g k c cp c c c pc g pc pc p k p c c Pc c p pg g gg k 
+p Mc g c c c Mc c p g c Bk q p cc gp g Mc cy k cc cc g p Mc cp pp c c c k gg gg c gp Mc gc p Mc cp c pc c c p Mc pc gc p g cp cp g cp c kg g pcg gg c c cp pc A p c gc cg g cp g cp gc g gg gc cp p g c pc k pc g p (g gc pc c) kg g cg c pc g gp cp c j g g cp cy cp c cp c cc p cp g g k c cp c c c pc g pc pc p k p c c Pc c p pg g gg k
 
 Mc g c cpc kg g / k p pc pc cy k c p c pp c py c c c c c: pp c py [] g g gg p B H H Py g; g j pg p c
 
@@ -884,7 +882,7 @@ jc A g c c cp cg c c cy c c 4 T c p c c g cp g c g cp k gg pc p cc c k cp g c cp
 
 ## 56 T 2) H )
 
-c g cp p c c py cp pcg c pc g gc cpg c c c p c c c cp g g gp g / pp c cp g c p pc p g gp g c c cc c (g g ggc cpg) c H g p p cp c cg p p g y c c c c k cp g gc cc cc p pc c c q c c g c pcg ppc c p p p cp c cp c c pc c p p gg c c c q pc pc c c ; g cp cp p pp c cp cg 
+c g cp p c c py cp pcg c pc g gc cpg c c c p c c c cp g g gp g / pp c cp g c p pc p g gp g c c cc c (g g ggc cpg) c H g p p cp c cg p p g y c c c c k cp g gc cc cc p pc c c q c c g c pcg ppc c p p p cp c cp c c pc c p p gg c c c q pc pc c c ; g cp cp p pp c cp cg
 
 R p pp c c c k c ( V) E g g c p cp c c p c pjc A c c gg g pc c gg c g gc g cp g p gg gp c cp gp pjc pp c p cc p p pjc gg g g p g c c gp gg p gc cgc pj c c g cp p wh cc g p A k p cp cc ppc g cc g cp pg p g c c g cc y g g l pp pc g g c g c g c p g g c c cc cc c c p c p g l pp l p cpcy p gc c c c p c A p g g cp c qpp g gc pc c g c c c pc gc g p jy g c; g cp c gp g g cp c c c Gc g c c p g pc g c g hg c g cp c p k cp c y c c c Gc c c c c p c c c c g c c c c g g c c cc c c pg c g cg c c c c c g g cc c g cp c c p g cp g pg c p jy y k cg c g c c g c p c gb das w b H g Pt g ccp p c pc y c g ccp Gc ccp c c p c p g c gp c g g gp c g j g c c c p c ( g p c) p c c g c c A g cp c c g pc p c c pc c cp cp c cp of unrestrained power to dictate. This power is structural; it is neither coercive (directly, although "legitimate" transnational coercion through the TNS is an increasing occurrence) nor hegemonic. During the 1980s and 1990s the transnational elite and TNS organs forged consensus among the leading dominant groups in most countries around the world and weaved together a global capitalist power bloc, but it was unable to secure a more expansive hegemony or base of "active consent" among subordinate majorities around the world. This further complicates attempts from above to resolve the global crisis.
 
@@ -968,7 +966,7 @@ Max Weber, Economy and Society (Berkeley: University of California Press, 1978 [
 
 B g g gc p g c c c p p g c c gc p c c yg A Gc c pc c cc y c c c cc g c p k bh / k c c c g c c cgg c g g c p b / k cp kg pc
 
-H g ppc gg c g g9 B H p c H c c c c g pc g p H k g c gp (cc ) j g H g pc p c c/pc c c p c c g pc g c R H y cq c c gc gc gg pcc pc cc D g c gp gg pc cc A h s v su s g c g c c g c gp c ggg g g pc B pc cq c g c c c pc 
+H g ppc gg c g g9 B H p c H c c c c g pc g p H k g c gp (cc ) j g H g pc p c c/pc c c p c c g pc g c R H y cq c c gc gc gg pcc pc cc D g c gp gg pc cc A h s v su s g c g c c g c gp c ggg g g pc B pc cq c g c c c pc
 
 ## pc c p pc y pc pc g cy g A c p pc c pc c g g p
 
@@ -978,7 +976,7 @@ H g ppc gg c g g9 B H p c H c c c c g pc g p H k g c gp (cc ) j g H g pc p c c/p
 
 w 2
 
-g c gp c cg cc g g g g cp p cp cc g pc pc gg g g pc c p g cc cc c cg pgc c pc pc g g pc ggp g c cc (g ) cp y pc c pc pc p p pc cc c s cp k ggpc p c c c p c c pc ggpc p pc k cp c c ppy c gc (g c pp) c cc (g c p cc y) c p p cc c c 
+g c gp c cg cc g g g g cp p cp cc g pc pc gg g g pc c p g cc cc c cg pgc c pc pc g g pc ggp g c cc (g ) cp y pc c pc pc p p pc cc c s cp k ggpc p c c c p c c pc ggpc p pc k cp c c ppy c gc (g c pp) c cc (g c p cc y) c p p cc c c
 
 c p g pc pc pc c q pc pc jc Dg g M g H c g p ( pp) p cp cc (pc c cc) pc pcg pc g ggpc p p g g M p cc cp pg pc g c pc cp c g pc g c cp cp
 
@@ -1316,11 +1314,11 @@ c j p B cp g \$ M gg c cg pckgg c (g gg) g p k g pc k pc cy gg c ccg k 3 R A Gp 
 
 Rg c c p cg c qy A g c c pc cp c cp c c cp ( p cc cp) c p R p ccg pc B c : k c cp c g c k g p g p c c cg pp c c c cc cc H c p c c g c c p p g g k ccg cp g cc pg cc G c c g c
 
-## The Perverse Wrld f Predry Trnsnnl Fnne Cpl p py c cp p pc g c c c c pc c cp c Wai c c p c pc p g 
+## The Perverse Wrld f Predry Trnsnnl Fnne Cpl p py c cp p pc g c c c c pc c cp c Wai c c p c pc p g
 
 ## 32 D P B T R Bbb Ecy 2 )
 
-33 
+33
 
 ## 34 H , 8
 
@@ -1330,7 +1328,7 @@ c D c g k c c M g g pc c p p cc g c g cc gg c pg p p g p c cp c pc c p c cp g g 
 
 ## 36 2, D
 
-pp pckg \$ p k p c Ep c y cy Ep c Mc pg gg p k g E c k p g pc g c pc pc p G kp G c g B c c p pc pc pc gp pc c pc c g c p c cp pc cy c pc cp c g V g g k pc g pc A gp g pc c c cc g c c cg cp gp c g c \$ ccg M cc pc \$· j cc cc pc cc g c ! p G p c k g g c pc 37 c c gp c g c cp c c k g q g cp g ; g pp cp B 8 c pc g g y c 
+pp pckg \$ p k p c Ep c y cy Ep c Mc pg gg p k g E c k p g pc g c pc pc p G kp G c g B c c p pc pc pc gp pc c pc c g c p c cp pc cy c pc cp c g V g g k pc g pc A gp g pc c c cc g c c cg cp gp c g c \$ ccg M cc pc \$· j cc cc pc cc g c ! p G p c k g g c pc 37 c c gp c g c cp c c k g q g cp g ; g pp cp B 8 c pc g g y c
 
 B y cy cc c cp g g cp p g c g p gg k gg cp g c q k c ck
 
@@ -1557,7 +1555,7 @@ p pc p c c p r c g p gp cg c p g c j
 
 ## g py g py cp A p pjc yc c
 
-P k c cp ; cp cjc c g g c g c g cp A c cp pp yc c cgg B pc 1 9 g c c g cy A c y pg p p g c c p c c g gb ws c pjc c g g pp p pc gc c g c c pjc cp cy pc p; cg c; g cc c c c c c g c/c pc p cg c p; cc cc c y g pg kg c; c g cpg pc c c cc; cc p c c cc y p pp ccc pc g c c cjc g g Hg c g yc c gc pc pgc c c c c pjc g g cp c ccp cc k gb s ppg P x TN g y cg p pc s cp p cg c c p pc g c c c pc c cjc Y c pc c c c p c g g g cc g c c p p c c c g c pc g c 
+P k c cp ; cp cjc c g g c g c g cp A c cp pp yc c cgg B pc 1 9 g c c g cy A c y pg p p g c c p c c g gb ws c pjc c g g pp p pc gc c g c c pjc cp cy pc p; cg c; g cc c c c c c g c/c pc p cg c p; cc cc c y g pg kg c; c g cpg pc c c cc; cc p c c cc y p pp ccc pc g c c cjc g g Hg c g yc c gc pc pgc c c c c pjc g g cp c ccp cc k gb s ppg P x TN g y cg p pc s cp p cg c c p pc g c c c pc c cjc Y c pc c c c p c g g g cc g c c p p c c c g c pc g c
 
 ## P P V )
 
@@ -1625,7 +1623,7 @@ Gc p ccp p gp g cg c cg g p cp p g p pjc c cpg pp p p pp p cg pjc cp g f c c cpg
 
 cp cp c p cpg pp pc pc A c c Py c g c A g B gg D Kc c \$ c B G B p k Py g c Ac Ppy Mc p cp g cg c cp cck c c gg pc c cp g k Kc Py g g cp p pc c c pgc c Kc g c p pg c c k g cp cg pc cp cgc pc c pc
 
-3 Yk, , 2, B T Pt, 2, 
+3 Yk, , 2, B T Pt, 2,
 
 p p pc pg pc pp q c g cp pc g pg c cg g kg c c c c g 4 cp g g kg c ck c g y c G Rc pc j g p A c p cp Ep c pc p g c g c cp pc gg pg g p k c pc g c cc: pc c cp cy cp c g (pc p) c ( c Kc ) p cc ycy cp c p cc cg c g c c c g g pp gp c Ac Ac P ( c)
 
@@ -1651,7 +1649,7 @@ Pcg c c k cp g c p c g c p s g g p cp c c c c c cpg pc p s cg g pc c cp y p g c 
 
 ### Ne-Fss Mvemens n US Cvl Sey nd Ply
 
-G Rc gg k gc gg pp c gc c c ck c g g k c g g gg pc ck c gg p pp cc c kgc gg c c g g Py k p M P K g gg cp c c g pc c c g c g c c g c c pc cy q p M cc yc c pjc g g g g c P G Bck pp c g Py c g c c pc c g g p cgc Py g pc g Rpc Py g p k c pc gc g Py k p Rpc Py c g g p pc p g g p k pp g c pc g pp c c gp c p pc c gc gg p gp Kp R Rpc g R P c c Py Kp c p cg pc c A g c c c pg pc c c cg yc g B Kp cp g cg cy pc c 
+G Rc gg k gc gg pp c gc c c ck c g g k c g g gg pc ck c gg p pp cc c kgc gg c c g g Py k p M P K g gg cp c c g pc c c g c g c c g c c pc cy q p M cc yc c pjc g g g g c P G Bck pp c g Py c g c c pc c g g p cgc Py g pc g Rpc Py g p k c pc gc g Py k p Rpc Py c g g p pc p g g p k pp g c pc g pp c c gp c p pc c gc gg p gp Kp R Rpc g R P c c Py Kp c p cg pc c A g c c c pg pc c c cg yc g B Kp cp g cg cy pc c
 
 c g cg c Rpc Py p g c g cc By G k g pc P Rc cpg c k pc c pp g g pp g g g p c p pc c c cg g c c cp g cp g gc c pc g c M Mjy c g g g J k g cpg g g cg g c p pc M Mjy g gg pc g g g g Rpc Py R Rg c pc c Rg Rpc Py cpg c c Rpc Py p
 
@@ -1659,7 +1657,7 @@ B c gg p c c g g Rpc Py c cc g pc Gg W. B c g A gp c c c g c k H Eg Rc G Jsus c 
 
 g pc c cg c c Rpc Py g cpc p c Hg c pg k c g c cy g p g g c k c c k G :3 l, G g g c
 
-30 @ 
+30 @
 
 ## 3' D K G Py 2)
 
@@ -1753,7 +1751,7 @@ G pp ck ck c g ck cp cg pc cg p c pc g cp c cc c cg g g g c; c pg pc gc c k; pc 
 
 ## A c p c cp g ccy pc c q cp
 
-49 
+49
 
 ## 50 G G P Gb 2) H P T P 2 ) T J
 
@@ -1761,7 +1759,7 @@ G pp ck ck c g ck cp cg pc cg p c pc g cp c cc c cg g g g c; c pg pc gc c k; pc 
 
 53 4
 
-54 
+54
 
 pp g c cpc p c gc G c c c c g c pcg p gg g cp c gg c K c g g g c p g c c g g c g k g c p c p p pjc g p p cpcy cp p p p cc c g p pp c cp pc p k g c p p pjc c c y j p 3 c \$\$3 pc; p ck p c pc c g cg k gg jc p (pc p ck ) c '
 
@@ -1793,7 +1791,7 @@ A g g g kg c c pc Hg c p cpg c c c c cpgg k pc g c c c pc c H cg Pcg bks [ ck cc
 
 ## H e P , 2
 
-3 
+3
 
 Rc c c cc c cgy c p cp p M c c c c c p f c h g g xc p c A c g p c p cc cc T c c c gy ccp c i T c c c cc g c pg4 g c c hg c c ppc c p c c c g g g c gc pcgc pc c c c c c cc jc qy lss ls pg cgc c c (pc ypc cg) pg c p g c A G p gc c cc c / c g y cc c pc B cg c c g cc cp (pc g c p) cpy pc cp p c c c ; cp p c c c R A H cg s h v x lss cc g c ck c g c c pp gp g cp :
 
@@ -1881,7 +1879,7 @@ c g cp pc c k c c pc k c j y ck p g g c g ( g c) k pc cc p g c p p pc c j c pc g
 
 ## 84 R 2, ) 2
 
-85 
+85
 
 insights, in particular, the recognition that control reaches beyond the productive structure, beyond consumption and social relations, to encompass the body itself (hence "biopolitics"). In the classical Marxist construct, the worker faces alienation and exploitation during the time he or she sells this commodity to capital, that is, during the work shift. In between this regularized sale of labor power the worker is not a commodity but an alienated human being, "free" to rest and replenish in the sphere of social reproduction. In its archetypical form, the new immigrant worker as a mobile input for globalized circuits of accumulation is not just selling commodified labor during the time he or she is working; the whole body becomes a commodity, mobilized and supplied in the same way as are raw materials, money, intermediate goods, and other inputs. It is, after all, the whole body that must migrate and insert itself into the global accumulation circuits as immigrant labor. Hence, even when each regular sale of labor power concludes - that is, after each work period - the worker is not "free" to rest and replenish as in the traditional Marxist analysis of labor and capital, since he or she remains immigrant/undocumented labor twenty-four hours a day, unable to engage in the "normal" channels of rest and social reproduction due to the whole set of institutional exclusions, state controls, racialized discrimination, xenophobia, and oppression that the undocumented immigrant worker experiences in the larger social milieu. The worldwide immigrant labor regime becomes the very epitome of transnational capital's naked domination in the age of globalization.
 
@@ -1893,7 +1891,7 @@ This war against immigrants has escalated in recent years, in part in response t
 
 See, inter alia, Tanya Maria Golash-Boza, Immigrant Nation: Raids, Detentions, and Deportations in Post-9/II America (Boulder, C. Paradigm Publishers, 20II); Joseph Nevins, Operation Gatekeeper: The Rise of the 'Illegal Alien' and the Making of the U. S.-Mexico Border, 2nd ed. (New York: Routledge, 20II); Deepa Fernandez, Targeted: Homeland Security and the Business of Immigration (New York: Seven Stories Press, 2007).
 
-p p c c g c A j g p gg c pg p k p c 7 B kg gg cg y c cg p cp g g pg g g pc g g kg c cg c c cp gg p c g k c cg c g kg pp c p cc Mc g B P ppc c c g p c c g c g cc gp c c gc c c g cy g g pp pc g g c Ag g k p c g cy p p g g q g A B c 
+p p c c g c A j g p gg c pg p k p c 7 B kg gg cg y c cg p cp g g pg g g pc g g kg c cg c c cp gg p c g k c cg c g kg pp c p cc Mc g B P ppc c c g p c c g c g cc gp c c gc c c g cy g g pp pc g g c Ag g k p c g cy p p g g q g A B c
 
 p g g c pkg c p c g c g ck g g ppp g kpc
 
@@ -1903,7 +1901,7 @@ p g g c pkg c p c g c g ck g g ppp g kpc
 
 c p c g c g pg c pc c c g Mc g c c c gg Ag gp p B p c g B c pc c c c cg py g M g K K K p c y cy pc g g Mc A p cy M c c c q p c c c c pg K Mc g p g c ccg B P p Mc g c P g g g gp p g ypc g p g c g cc g Mc g gg pg pg c M c p gg g c pc c kg c
 
-A g g pcg k g c c q cc pcc p cp c g pc gc c g ppgg c g c g g Rc y g g gg pc c g c g c y j j j 
+A g g pcg k g c c q cc pcc p cp c g pc gc c g ppgg c g c g g Rc y g g gg pc c g c g c y j j j
 
 c c g g k c p (g c c) pc cc pc E c c gg cp g kg c c pc p c g cg c kpc cy p c pg pc c g g y / c p c c cp gy g p c c c cy c p Py :
 
@@ -1949,7 +1947,7 @@ ppg g cp g G g k g c p g g g c g cg pp pp k p c c g c p cg s p pp c c p c pc g B
 
 ## B c A g A R Pc AE AE
 
-H K 2, 
+H K 2,
 
 ## 97 Gk
 
@@ -1991,7 +1989,7 @@ c cp g c g cg gc g g c gc cc pp g c G pc p cc gc c c c cc q c g pp A k c cc g pc
 
 ## 17 Yk T, 2 2o o2 \_o
 
-1 
+1
 
 ## 19 ] 2o lD +# U Zj 2
 
@@ -2029,9 +2027,9 @@ G k c g c c c cp gc cc c k cp cc c c cc 9 c H c B c g Ac (A) q Pp Jc g c g g k c
 
 ## &#x27;'8 j V )
 
-9 
+9
 
-g pc p c c cp p pp ccc c Accg yg k c DH B pc g c pc cy cp g c y: c g g Dc cy Ac c g y [ ] c p c c : pc ccp M c g g c g c gc g pc 
+g pc p c c cp p pp ccc c Accg yg k c DH B pc g c pc cy cp g c y: c g g Dc cy Ac c g y [ ] c p c c : pc ccp M c g g c g c gc g pc
 
 Ag c cy y g c gc pc Dg ccp q c Pg pcp g pcgc p cp G c G M Ppg Jp G p ( g ) g c c g ccp k Rg c c kg p pg pcc pg c g H g y pp c c g A p c c c q kg c c c c R c cg g g g pp c c p Dcg gg g cpg g pc ppg cy pp c c pp H c g c g c
 
@@ -2041,9 +2039,9 @@ Ag c cy y g c gc pc Dg ccp q c Pg pcp g pcgc p cp G c G M Ppg Jp G p ( g ) g c c
 
 122 , 2
 
-## &#x27;23 I, 2 
+## &#x27;23 I, 2
 
-g gg g c pc c g c g y p c c pp c cg c c c c ccp cc c pc g c c p g p G c cy p c 24 A cg cc pp c c c cy c y p pp cp g p y T gc gg c c H c H c c c c p c g c Th Hu Lk pc g Vgg p c p pp HA X g c c c q g pc c c c g c c c c g c gc ycy c k k cy c Ag g y gp c p pc c pc c cc pc g g p p c c ( g Mc ) g jc g cc k pc cc cp A p c g p p p g cg gc p cp c k g c c cy c pc y c g gck g yc c y p c y yc c pjc g 
+g gg g c pc c g c g y p c c pp c cg c c c c ccp cc c pc g c c p g p G c cy p c 24 A cg cc pp c c c cy c y p pp cp g p y T gc gg c c H c H c c c c p c g c Th Hu Lk pc g Vgg p c p pp HA X g c c c q g pc c c c g c c c c g c gc ycy c k k cy c Ag g y gp c p pc c pc c cc pc g g p p c c ( g Mc ) g jc g cc k pc cc cp A p c g p p p g cg gc p cp c k g c c cy c pc y c g gck g yc c y p c y yc c pjc g
 
 ## 12 T ) 2 oooo\_\_\_ \_
 
@@ -2114,13 +2112,13 @@ Have we entered a new wave of popular revolts and revolutions? Since the crisis 
 The Telegraph, February 1, 2011, on-line edition, from http://www.telegraph.co.uk/finance/
 globalbusiness/8296987/IMF-raises-spectre-of-civil-wars-as-global-inequalities-worsen.html.
 
-c g k c cp p l l Ag p g p k E c ( y cg Gc p p ); pg M E Ac; ccp M ; ; gg k g k; g g gg c 
+c g k c cp p l l Ag p g p k E c ( y cg Gc p p ); pg M E Ac; ccp M ; ; gg k g k; g g gg c
 
 ccp cpy p g jc c y g cg c p c g pc g cc c kg g c c c g cc c g g c p ( g c) c c gg p g g cp c k cg c p D pc c c ppc H cp k c c g c ccp c c c c c p c c B py c c cc c c c g g cqc cg g j P R H cc pp c g c yg g g p cpg c c
 
 ## pp k y c cp p c c g c p cg Rc g p ckg c g pg
 
-I I D 2x, 27, 7, 
+I I D 2x, 27, 7,
 
 sturdy organizations that can give both substance and continuity to popular upheavals. Part of the problem in sustaining a rebellion that could present a systemic challenge to global capitalism stems from the crisis of the twentieth-century left worldwide, its willingness to have bought into the neo-liberal ideological claim of the "End of History." This left became defeatist in the late twentieth century in the face of the ascent to hegemony of global capitalism, insisting that we had to be "realistic" and "pragmatic," to limit ourselves to putting a "human face" on the capitalist system. The quote by Frederic Jameson that opens this chapter was meant to draw attention to the mental paralysis and "postmodern cynicism" of the global left.
 
@@ -2128,7 +2126,7 @@ The bankruptcy of the strategy and program of much of this twentieth-century lef
 
 12 Among others, John Holloway, in Change the World without Taking Power: The Meaning of Revolution Today (London: Pluto, 2002), elevated to theoretical status the notion that capitalism can be superseded without confronting and overthrowing the capitalist state. I cannot take up the debate here, but see my critique in William I. Robinson, Latin America and Global Capitalism (Baltimore: Johns Hopkins University Press, 2008). Anticipating such an argument in the wake of the "identity politics" of the 1980s onward, A Sivanandan noted in 1990: "There may be all sorts of 'resistance to the system' in civil society, all sorts of new social movements and a 'politics of the family, of health, of food, of sexuality, of the body,' as Sivanandan observes. "And they may even succeed in pushing out the boundaries of individual freedom. But the moment they threaten to change the system in any fundamental way or go beyond the personal politics of health, food, sexuality, etc., they come up against the power of the state." It is only by challenging state power that "you expose the coercive face of the state to the people, sharpening their political sense and resistance, providing the temper and climate for the construction of more effective 'social blocs'.... It is inconceivable that we should go on talking about resistances in civil society and ignoring the power of the state. . . . How do you extend a 'politics of food' to the hungry, 'a politics of the body' to the homeless, a 'politics of the family' to those without any income?" Communities of Resistance: Writings on Black Struggles for Socialism (London: Verso, 1990), 42-43.
 
-x3 In its extreme variant - which regrettably, in my view, has become a not uncommon attitude among youth - is the belief that social communication blurbs are a sufficient substitute for reading texts and studying society and history, as expressed to a reporter by one organizer of mass student gc p p p g p Y c p g p gg p j P M q K p g p g c c k c k c: k kg k; c p q P Dp4 c g p c Pcc c cp cp p ; y g p cg Pxs y g y pcc g g c cg pc pc! pcc pg g c pc g g pg pcc p p c gc Y c pg c pcc c y g jcy c c g pc g cp c c M g k p p c cc cg c c g p p pck c k cy cc p g ( q M pg Gy) q g p k c jc g pcp; k 
+x3 In its extreme variant - which regrettably, in my view, has become a not uncommon attitude among youth - is the belief that social communication blurbs are a sufficient substitute for reading texts and studying society and history, as expressed to a reporter by one organizer of mass student gc p p p g p Y c p g p gg p j P M q K p g p g c c k c k c: k kg k; c p q P Dp4 c g p c Pcc c cp cp p ; y g p cg Pxs y g y pcc g g c cg pc pc! pcc pg g c pc g g pg pcc p p c gc Y c pg c pcc c y g jcy c c g pc g cp c c M g k p p c cc cg c c g p p pck c k cy cc p g ( q M pg Gy) q g p k c jc g pcp; k
 
 H g c c c g cp p c c c p cp c cc pp g g g c g cp cc cp p c y c cy p Y p p c g c wh
 
@@ -2164,7 +2162,7 @@ Rcg gg gg B p jc k [yc] : v hg (p g) c pp p g c c pc [ MEA] cg pp c c g p p p pc
 
 ## f R 2 , : 76 ) 3
 
-p k c cg g c pc cc p p pcc 4 R c p c pg k g c cp p p p 
+p k c cg g c pc cc p p pcc 4 R c p c pg k g c cp p p p
 
 ### New Dak ges? The Speer f Cllpse p cc c g c g c cgc c cc c cc y g j c cg y cgg pc Pg pc c P c Ah k cg pc py y pc H c gc ggc pc g 11 g c c p cg g pc ggcc cg cp c c ( pc pcc) A g g cy g cg P Vk c c E
 
@@ -2190,7 +2188,7 @@ Foster, Clark, and York, The Ecological Rift, 14, 35.
 
 Rgg c cp cc cc p c cp p c p c g g cp p A Jp cp cp j9 B c c g cp A g K c p p c c c g c pjc k c gc cp cc k c g c p ( ss sxs )
 
-Y p cg A cg p c pg cc pcg p p Ecgc c c p cpc c c g c py p c c p pg cp gc k p p g p c p c pg pg p p: p c c c c 
+Y p cg A cg p c pg cc pcg p p Ecgc c c p cpc c c g c py p c c p pg cp gc k p p g p c p c pg pg p p: p c c c c
 
 Y g cgc c cp ( cp ) cg g g pcp c c cp pc c () cg g cp k c gc g E M cy c p p c p g g cpcy c c pc c p c cp c c c cc
 
@@ -2200,7 +2198,7 @@ Y g cgc c cp ( cp ) cg g g pcp c c cp pc c () cg g cp k c gc g E M cy c p p c p 
 
 ## 3 T E Rf, 7
 
-p c pc c p p c E M cp R Ep H c c pc c c c c cc cgc c p cp g c c cp pcp c cp c k cp q cc R h s h gu cc c cy c c cp g c c ppc cg c p y c g cgc c gg g c cg; pk c p c; p pc c; cc pc cp c gc A M g k cg c Accg g c py cc g c c c pcg g c (c cg g cc y ) ppg p g pc c p cg c c g c ccc pc p c E g cp c g cy p 
+p c pc c p p c E M cp R Ep H c c pc c c c c cc cgc c p cp g c c cp pcp c cp c k cp q cc R h s h gu cc c cy c c cp g c c ppc cg c p y c g cgc c gg g c cg; pk c p c; p pc c; cc pc cp c gc A M g k cg c Accg g c py cc g c c c pcg g c (c cg g cc y ) ppg p g pc c p cg c c g c ccc pc p c E g cp c g cy p
 
 cg g pc p c Dk Ag cg g pc c g c g pc c c cp H c py Dk Ag p c:4
 
@@ -2242,7 +2240,7 @@ uss 23 3
 
 gc c pp cg g c gp k p p pp c g pc gc c c c c cgc c cp g cp c p (Hg g g) p cp c pjc A pp cp g c q pc c cc g cp g c c p c cg c pc c c g p cp g A c gg g c c k g Rg g pg g cp cg Pp gg c c p p c gg cc pp c c c g jc p g c c g g cgc c c c cgg k g g h k s g p y gc g c c cp c cpg gc c p gc gp c pjc c g g cp p k c c kg g c p kg c cp cc gc pp jy c cg cg gc cc gc c gc g g c g ccc pp p cc c g uu y c gc pg gg cp gc c g g p g cg cp; kg pgc
 
-## c g c g c ( ) G Mc p g y g jy40 jy c c; p p c g A cg cg c c c g g Y c c cy g c c p g cp g pk p; k cc j us w wh w A ck Dg g g p c g gg; 
+## c g c g c ( ) G Mc p g y g jy40 jy c c; p p c g A cg cg c c c g g Y c c cy g c c p g cp g pk p; k cc j us w wh w A ck Dg g g p c g gg;
 
 p c cc g h cci hich ic cii b h c p i h ci p h h ci i ch h; i ci hi ih i ih h cip h i hi picii h h bck i h ichi bh i i c i ci ; h pcic h i i hiic p cii hich ii h p ci b i b h
 

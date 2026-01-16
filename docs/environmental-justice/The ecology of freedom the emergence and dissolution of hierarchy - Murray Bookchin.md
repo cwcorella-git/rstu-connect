@@ -14,9 +14,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/ecology-freedom-emergence-and-dissolution-hierarchy-murray-bookchin
-
 **Tags:** Murray Bookchin, environment, technology, anarchism, PDF
 
 "The very notion of the domination of nature by man stems from the very real domination of human by human." With this succinct formulation, Murray Bookchin launches his most ambitious work,The Ecology of Freedom. An engaging and extremely readable book of breathtaking scope, its inspired synthesis of ecology, anthropology and political theory traces our conflicting legacies of hierarchy and freedom from the first emergence of human culture to today's globalized capitalism, constantly pointing the way to a sane, sustainable ecological future.

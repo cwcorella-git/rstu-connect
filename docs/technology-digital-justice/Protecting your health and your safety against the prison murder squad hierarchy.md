@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/protecting-your-health-and-your-safety-against-prison-murder-squad-hierarchy
-
 **Tags:** Jason Renard Walker, Texas, prisons, United States
 
 Texas prisoner Jason Renard Walker writes on ways to protect yourself against an attack by prison guards.

@@ -18,7 +18,7 @@ tags:
 #title Why Creaghe Won’t Pay Poor Rates!
 #author John Creaghe
 #date September 1891
-#source Retrieved on 14 August from 
+#source Retrieved on 14 August from
 #lang en
 #pubdate 2024-08-14T18:37:09
 #topics 1890's; Ireland; England; Rent; Landlordism; Property; Workhouses

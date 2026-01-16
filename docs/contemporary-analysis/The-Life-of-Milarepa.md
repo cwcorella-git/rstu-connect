@@ -86,9 +86,6 @@ II. Title.
 #### 294.3'923092—dc22 [B] 2010018244
 
 The scanning, uploading, and distribution of this book via the Internet or via any other means without the permission of the publisher is illegal and punishable by law. Please purchase only authorized electronic editions, and do not participate in or encourage electronic piracy of copyrighted materials. Your support of the author's rights is appreciated.
-
-http://us.penguingroup.com
-
 ## For Maya
 
 #### **Introduction**

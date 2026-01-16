@@ -22,7 +22,7 @@ Over the winter, rather than making an issue of the extraordinary illegal violen
 
 One reason OWS agreed to forgo mass civil disobedience in New York on 1 May was to solidify those alliances. Instead, occupiers working within the coalition pushed – with the boisterous support of many rank and file, despite the initial hesitation of some union leadership – for a joint solidarity statement that called not just for the usual battle against austerity, but to the revolutionary transformation of society:
 
-> 
+>
 
 “For centuries, May Day has been a time when the stirrings of spring lead people of good will towards visions of revolutionary renewal. The powerful wish to take these dreams away from us. They never will. And so it is on this May Day, in the wake of a growing planetary uprising for justice, we dare to look forward to a world when the borders that divide us will be made meaningless, to the birth of genuinely democratic culture of communities managing their own resources for the common good, and where the value and dignity of no human being on this planet is considered inferior to any other.”
 

@@ -7,5 +7,3 @@ tags:
   - labor
   - environment
 ---
-
-

@@ -83,9 +83,6 @@ Capitalism vs. the Climate consulted with a number of Bridgeport residents and t
 Ms. Rodriguez remained unphased after the city council voted, as expected, to endorse PSEG's new fracked gas plant: "PSEG should not celebrate too much. Regardless of what the city council says, we're not going to stop fighting this project."
 
 Support grassroots organizing and direct action against fracked gas in Bridgeport by donating at this link set up for us by FANG. The funds raised will be spent under the direction of a committee of Bridgeport residents who oppose PSEG's fracked gas proposal.
-
-http://bit.ly/CVC-Action
-
 Disclaimer:
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author's.

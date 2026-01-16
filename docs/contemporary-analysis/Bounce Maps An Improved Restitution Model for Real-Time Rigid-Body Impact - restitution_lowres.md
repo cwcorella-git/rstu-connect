@@ -26,9 +26,6 @@ Permission to make digital or hard copies of all or part of this work for person
 © 2017 Association for Computing Machinery.
 
 ## 0730-0301/2017/7-ART150 \$15.00
-
-https://doi.org/10.1145/3072959.3073634
-
 #### 1 INTRODUCTION
 
 Rigid-body impact and contact are of great importance to computer graphics. As in [Smith et al. 2012], we define contact to include resting or sliding contact, whereas impact captures instantaneous and transient collisions. Much work has been done in computer graphics to model contact and impact scenarios, as well as to develop efficient and robust techniques to handle complex collision scenarios; see Sec. 2 for a brief review.
@@ -154,9 +151,9 @@ Our method for efficiently estimating the COR for a given (X,N) is summarized in
 
 1 Function compute Epsilon()
 Input: $X, N, U, \omega, M$ |\* Initialize in contact:
-2 $v_n^- = -1 \frac{m}{s}, v_n^+ = 0, n = -N, q = \begin{pmatrix} 0 \\ I \\ 0 \end{pmatrix} \dot{q} = \begin{pmatrix} v_n^- n \\ 0 \\ 0 \end{pmatrix}$ 
+2 $v_n^- = -1 \frac{m}{s}, v_n^+ = 0, n = -N, q = \begin{pmatrix} 0 \\ I \\ 0 \end{pmatrix} \dot{q} = \begin{pmatrix} v_n^- n \\ 0 \\ 0 \end{pmatrix}$
 
-3 
+3
 $$R_{bound} = 1$$
 , $\Delta R_i = \sqrt{2} ||U_i||_2 / \omega_i$ , $i = 1 \dots m$ .
 
@@ -339,6 +336,6 @@ C Ullrich and Dinesh K Pai. 1998. Contact response maps for real time dynamic si
 
 C Ullrich and Dinesh K Pai. 1999. Green's function contact maps for accurate real time collisions. In Robotics and Automation, 1999. Proceedings. 1999 IEEE International Conference on, Vol. 3. IEEE, 1849-1855.
 
-Yu Wang and Matthew T. Mason. 1987. Modeling Impact Dynamics for Robotic Opera $tions. \ In \ Proceedings \ of the \ IEEE \ International \ Conference \ on \ Robotics \ and \ Auutomation.$ 
+Yu Wang and Matthew T. Mason. 1987. Modeling Impact Dynamics for Robotic Opera $tions. \ In \ Proceedings \ of the \ IEEE \ International \ Conference \ on \ Robotics \ and \ Auutomation.$
 
 Changxi Zheng and Doug L. James. 2011. Toward High-Quality Modal Contact Sound. ACM Transactions on Graphics (Proceedings of SIGGRAPH 2011) 30, 4 (Aug. 2011). http://www.cs.cornell.edu/projects/Sound/mc

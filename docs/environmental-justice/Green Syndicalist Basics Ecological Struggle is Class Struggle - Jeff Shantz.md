@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/green-syndicalist-basics-ecological-struggle-class-struggle-jeff-shantz
-
 **Tags:** Jeff Shantz, anarcho-syndicalism, syndicalism, ecological crisis, ecology, class struggle, Working Class, commons, direct action
 
 A micro primer on green syndicalism. Originally published in the Salish Sea Anarcha Network zine, issue 1 ("Spring Forward," 2025).

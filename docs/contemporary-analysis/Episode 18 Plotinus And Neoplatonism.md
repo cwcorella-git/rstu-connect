@@ -6,9 +6,6 @@ category: "contemporary-analysis"
 ## **Episode 18: Plotinus And Neoplatonism/**
 
 ## **Source:**
-
-https://www.meaningcrisis.co/ep-18-awakening-from-the-meaning-crisis-plotinus-and-neoplatonism/
-
 Welcome back to awakening from the meaning crisis. So last time we were taking a look at a group of people. As I said before, the Gnostic shouldn't be understood as forming like their own community or group. Although there might have been some Gnostic churches, we should think of them more like we think of existentialism or fundamentalism. You can be a fundamentalist Christian or Muslim or Jew, et cetera. It's more about a style, a way of being, a way of understanding and interpreting, and that it was pervasive during the same period as early Christianity and the two are interacting with each other. In fact, as we'll see, many Gnostics thought of themselves as Christians.
 
 So we were taking a look at how to go about interpreting gnosticism. Why are we doing this? We're doing this because I'm presenting the Gnostic movement as the axial revolution within the axial revolution. It's taking the revolution to its culmination in many important ways that I think have direct relevance for us today. In order to do that, I'm presenting to you something like the cognitive science of what gnosis actually is. And in order to do that, we've been making use of some important work by Harry Frankfurt and LA Paul.

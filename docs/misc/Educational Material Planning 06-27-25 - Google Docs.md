@@ -6,8 +6,7 @@ category: misc
 tags:
 - education
 ---
-# Educational Material Planning 06-27-25 - Google Docs
----
+
 Previous Meeting Notes:     Educational Material Planning 6/20/25
 Housekeeping/Follow Up
 - Stacey made half sheets for mutual aid info to distribute!

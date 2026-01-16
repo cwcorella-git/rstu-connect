@@ -44,7 +44,7 @@ In the absence of serious struggles, or, which amounts to the same thing, in the
 | can only be created by way of a libertarian revolution. |
 |---------------------------------------------------------------------------------------------------------|
 | Translated from the Spanish source at:
-http://www.nodo50.org/tortuga/Cuando-el-capitalismo-se-vuelve|
+
 | Tranbert |
 | 5 years ago |
 | In reply to Welcomebylibcom.org |

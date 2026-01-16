@@ -8,9 +8,6 @@ category: "contemporary-analysis"
 ## **Date:** Unknown
 
 #### **Source:**
-
-https://libcom.org/article/passage-few-thousand-people-through-brief-period-time-edicoes-antipaticas
-
 **Tags:** general strikes, social movements, demonstrations, Portugal, Portugal against austerity, Edições Antipáticas
 
 The deployment of austerity measures in Portugal gives the context to several resistance struggles and events that come under detailed description and analysis from a critical perspective.

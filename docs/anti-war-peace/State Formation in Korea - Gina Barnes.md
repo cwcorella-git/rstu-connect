@@ -20,11 +20,11 @@ The Book of Changes (Zhouyi): a Bronze Age document translated with introduction
 
 Strengthen the Country and Enrich the People: the reform writings of Ma Jianzhong (1845-1900) Paul Bailey (1998)
 
-China: a Historical and Cultural Dictionary *Michael Dillon, ed. (1998)* 
+China: a Historical and Cultural Dictionary *Michael Dillon, ed. (1998)*
 
-Korea: a Historical and Cultural Dictionary *Keith Pratt and Richard Rutt (1999)* 
+Korea: a Historical and Cultural Dictionary *Keith Pratt and Richard Rutt (1999)*
 
-State Formation in Korea: historical and archaeological perspectives *Gina L. Barnes (2001)* 
+State Formation in Korea: historical and archaeological perspectives *Gina L. Barnes (2001)*
 
 ## China's Tibet Policy (2001)
 
@@ -196,7 +196,7 @@ Huiando-simg and Kungnae-song
 
 ## Mongch'on T'osong
 
-**Special function sites** 
+**Special function sites**
 
 ## Masan Sansong
 
@@ -3896,7 +3896,6 @@ CERAMICS 36, 44, 169, 200; earthenware (yŏnjil) 93, 95, 97–98, 100– 105–1
 
 CERAMIC TYPES: Black Pottery 84–85, 95; celedon 114, 168; Chinese
 
-
 Geometric 100; Gaki 95; Haji(ki) 88, 212; Kaya 98–99, 118, 123, 169, 194,
  196, 205, 212, 220–222; Kimhae 83, 86, 92, 94, 96–100, 113, 118, 194,
  203; Longshan 103; Paekche 99, 170; Plain Pottery [Mumun] 61, 84,
@@ -3904,7 +3903,7 @@ Geometric 100; Gaki 95; Haji(ki) 88, 212; Kaya 98–99, 118, 123, 169, 194,
  123; protoporcelain 81, 98–99, 118, 123, 169, 196, 198, 220–222; Sué
  212; United Silla 99, 169, 221; Wajil 93–97, 99–100, 107, 110, 113–
  114, 118–123, 194, 203–206, 220; Yangshao 103; Yayoi 83, 93, 97
-## 
+##
 #### CHIN 7, 15–17, 19, 30
 
 - CHINA ix, xiii, xxi, 1, 5, 9–10, 13, 18–20, 22–24, 29–33, 54–61, [92–95](https://calibre-pdf-anchor.a/#a235), 106, 109, 111, 114, [117,](https://calibre-pdf-anchor.a/#a283) 123, [125,](https://calibre-pdf-anchor.a/#a301) 151, 153, 165, 211, 213, 224, 232; Fujian province 105; Hebei province 126, 129; Henan province 105; Inner Mongolia 129; Jilin province 20, 23, 187; Liaodong peninsula 9, 17–18, 21, 23, 32; Liaoning province 20; Liaoxi 55; Manchuria 10– 12, 19–20, 24–25, 32, 34–36, 54, 155, 187, 219; Shangdong peninsula 9, 11; Sichuan province 185; Zhejiang province 104–105, 107
@@ -3919,12 +3918,11 @@ Chosŏn period (AD 1392–1910) xv, 155, 159, 162–174; [see also Yi Dynasty]
 
 Eastern Jin (AD 317–420) 59–60, 105, 142, 168, 232
 
-
 Han Dynasty (BC 206 - AD 220) xiii, 2–3, 10–12, 17, 19, 60, 83, 87, 89,
  93, 103–104, 106, 112, 126, 129, 165, 203–204, 219; Eastern [Early]
  Han (BC 206– AD 9) 105, 111; Western [Late] Han (AD 23–220) 181,
  185
-## 
+##
 Iron Age of Korea (500 BC-AD 300) xiii, xxi, 8, 11, 15, 82, 84 , 86, 89; Early Iron Age (IAI) (500 BC-AD 0) xxi, 8, 15, 61, 84, 99, 113, 202; Late Iron Age (IAII) (AD 0–300) xxi, 8, 61, 83–84, 86, 99, [117,](https://calibre-pdf-anchor.a/#a283) 131, 156, 169, [201–205,](https://calibre-pdf-anchor.a/#a451) 220
 
 Japanese colonial period (1910–1945) 20, 38, 155
@@ -3965,9 +3963,8 @@ Shu Han (Minor Han) Dynasty (AD 221–265) 2
 
 Song Dynasty (AD 960–1279) 105, 185
 
-
 Southern Qi Dynasty (AD 479–502) 57
-## 
+##
 Sui Dynasty (AD 581–618) xxi, 22, 200
 
 Tang Dynasty (AD 618–906) xxi, 22, 54–127, 129, 174
@@ -3994,7 +3991,6 @@ Zhou Dynasty (BC 1027–221) xxi, 2, 10, 103–106, 112, [125](https://calibre-p
 
 CITIES and towns, modern: Andong 192–193; Anyang 232; Chang'an 42; Changnyŏng 184, 195, 192–194, 197, 231; Ch'angwŏn 191–194, 224; Chaoyang 232; Chiksan 27–28; Ch'ilgok 192–193; Chinch'on 107–109; Chinhae 192, 194, 232; Chinju 192–193, 198; Ch'ogye 192–193; Hadong 192–193; Haman 184, 191–194, 197–198; Hamch'ŏn 191; Hamnyŏng 184; Hamyang 192–193; Hapch'ŏn 192–193, 197–198; Hwangp'o 155; Iksan 27–28, 30; Iryang 191; Jian 21, 23, 165; Kangbung 192–193; Kimhae 28, 132–133, 135, 137, 180–181, 184–187, 189, 191–194, 197– 198, 219, 223; Kŏch'ang 192–193, 198; Kongju 27–28, 32, 114, 192–193; Koryŏng 131, 184, 192–193, 197–198, 221; Kosŏng 184, 191–194, 198; Kwangju 27–28, 107–108, 132–133; Kyŏngju 4, 44, 81–82, 84–85, 94, 132, 157, 175, 187, 196–198, [201–227,](https://calibre-pdf-anchor.a/#a451) 231–232; Kyŏngsan 133, 184, 192– 193, 197–198; Masan 169, 192–194; Nagasaki 84; Namwŏn 192–193;
 
-
 Nyŏngsan 192–193; Okchŏn 192–193; P'ohang 205, 211, 218; Purim
 192–193; Pusan 4, 31, 82–83, 85, 92, 133, 157, 179, 191–194, 198, 208,
 222–223, 230–231; Puyŏ 32, 56, 82, 114, 172–175; Pyŏngyang 4, 11, 14,
@@ -4004,7 +4000,7 @@ Sanch'ŏn 192–193; Seoul 4, 32, 36, 40, 82, 85, 94, 128, 131–132, 164, 166,
 153; Taegu 81, 192–193, 196, 198, 218, 222, 232; Taejon 84–85; Tansŏng
 192–193; Tanyang 232; Uich'ang 191–194; Uisŏng 192–193; Ulchu 192–
 194; Ulsan 197, 210–211, 218; Yangsan 232; Zhengzhou 159
-## 
+##
 CLOTHING 19, 26, 29, 54; brocade 18; furs 25; silk 18, 29
 
 COMMANDARIES xiii–xiv, 6–7, 15, 17–20, 31, 34–35, 46, 60, 61, 165, 175 Daifang [Taifang] 17–18, 27–28, 30, 32, 36, 60 Lelang [Lolang] xiv, 14, 16–21, 24–28, 30–32, 42, 46–48, 59–61, 80, 83, 86, 97, 106, 112–113, 151, 165, 169, 180, 186, 188, 191, 203, 219, 231 Liaodong 10, 22–23, 36, 60–61 Xuantu 17–19, 21–23, 25, 60–61
@@ -4025,7 +4021,6 @@ ETHNICITY 6, 11–12, 15, 17, 21, 26, 32–33, 35–36, 184, 186, 188, 220– 22
 
 FOODSTUFFS: millet xiv; rice xiv, 38, 173; salt 19; red beans 173
 
-
 FORTIFICATIONS xii, 54–128, 152, 158, 169, 175–176, 217, 223–224,
  226; 'duel defensive system' 175; historical forts: Tanghang 153; Taga-
  jō 174; [see also walled sites]
@@ -4034,7 +4029,7 @@ founding dates 3–4, 26, 34, 37, 46–47, 61, 82–83, 153, 180–181, 186, 197
 founding myths 10–11, 13, 25–26, 33–36, 41–42, 47, 185–186
 GEOGRAPHY xiv, 9, 27, 29, 47, 85, 97; Pen/Insula(r) xii, 126, 149, 151,
 188; Aegean ix; Altai 211; Bohai Bay 9, 13; Central Asia 32, 210, 219;
-## 
+##
 Eurasian continent xiii; Europe 38, 118, 123; Germany xiv, 232; Greece 232; Holland 232; India 182, 184–185; Inner Asia 220; Kazakhstan 211; Korean Straits xiv, 39; Northeast Asia 202, 218–220; Yellow Sea 9; [see also rivers; mountains; China; Japan; Korea]
 
 GLASS: beads 175, 205; cups 8
@@ -4048,7 +4043,6 @@ heritage 82
 HISTORICAL PERSONS: Alfred the Great x; Bede ix; Caesar ix; Dong Shou 24, 59, 127–128, 151; Gongsun 17, 61; Herodotus ix; Homer ix; Iryon [Ilyŏn] 2, 180–181, 200; Lord of Mahan 30, 60; Kim Pu-sik 4, 202; Liu Sheng 126; Namnyo 15, 61; de Sahagun, Father Bernard ix; Sima Qian 2; Strabo ix; Tacitus ix; Ugo [Youqu] 12; Weiman [Wiman] 11–13, 16, 30; Youqu [Ugo] 12, 14; Zhang, Crown Prince 14; Zhang Tong 24; Zhen Shou 2; [see also Kings; Queens]
 
 #### HISTORICAL PLACENAMES and administrative units: spelling and pronunciation 200; Ch'anghae 182; Chaoxian 9–11, 15, 17, 60; Chinju [Jinzhou] 185; Donggou 20, 23, 130, 143, 151, 165; Hŏ Hwang-ok 185; Imhae-hyŏn/gun 181; Kaogouli prefecture 22; Kari(ch'on) 184, 215; Kimhae-pu 181, 184; Koya-ch'on 215; Kŭmgwan-kyŏng 181; Kŭmju 184; Mimana [Imna] 38–40, [125,](https://calibre-pdf-anchor.a/#a301) 143, 148, 200 (Nihonfu 38–39; Wafu 39); Pyŏkjin 184; Taesu-ch'on 215; [see also capitals, polities]
-
 
 HISTORICAL SOURCES ix, x, 1, 2, 6, 8, 12, 14, 34, 44, 168, 179, 200,
  216, 218, 224; of China ix, 6, 9, 16, 20, 22, 25–27, 31, 33–35, 39, 40,
@@ -4079,7 +4073,7 @@ HORSES x, 126, 160, 166, 168; figurines 170, 176, 223; horse armor 128–
  trappings 8, 14, 27, 39, 41, 133, 144–146, 148, 160–161, 168, 206, 219;
  horse-drawn vehicles 14, 126, 166
 ideology 6, 47, 82, 153, 176
-## 
+##
 INTERACTION x, 14, 20, 204; embassies 22, 61; diplomatic relations 19
 
 INVASIONS: Zhou invasion of Shang (BC 1027) 61; Yan invasion of Chaoxian 10, 12; Han invasion of Chosŏn \(109–8 BC) xiii–xiv, 8–9, 11–12, 14–15, 17, 30, 42, 47, 61, 165, 203, 206; Koguryŏ invasion of Yalu estuary (AD 242) 23; Wei invasion of Koguryŏ (AD 244–5) 21, 25–26, 47, 166; Koguryŏ invasions of Xuantu and Liaodong (AD 105– 6, 131, 167–9\) 22; Murong invasion of Puyŏ (AD 286) 25–26, 32, 34, 47; Koguryŏ destruction of Lelang (AD 313) 42, 60, 151, 206, 219, 220; Murong invasion of Koguryŏ (AD 341) 24, 26; Yan invasion of Koguryŏ (AD 342) 166; Murong invasion of Puyŏ (AD 346) 32; Koguryŏ invasion of Paekche (AD 369) 35; Paekche conquest of Mahan (AD 9) 35; Koguryŏ invasion of south coast (ca. AD 400) 141, 143–144, 187, 219; Koguryŏ invasion of Paekche (AD 475) 32, 142, 168; Silla conquest of Pon-Kaya (AD 532) 37, 39, 42, 181, 185, 196, 198, 223; Silla repel Koguryŏ (AD 551) 223; Silla conquest of Tae-Kaya (AD 562) 37, 42, 196, 198, 221–223, 232; Silla conquest of Paekche (AD 660) 43; Silla conquest of Koguryŏ (AD 668) 43; raids 22–23, 38, 61; [see also Appendix 1A]
@@ -4097,10 +4091,9 @@ IRON AGE: British xiii; European ix, x [see also chronology]
 - KINGS (including emperors): Anjang 59; Chabi 40, 59; Chin 16, 30; Chinhŭng 59; Chonji 232; Guang Wu 181; Han 16; Hurhae Isagŭm 60; Hye 34; Kaero 181, 200; Kŏdŭng 182; Kogungyang 59; Kugungwon 60; Koi 33, 60; Kuhŏng 182; Kuisin 33, 60; Kŭn Kusu 59; Kwanggaet'o 20, 59; Mu 36, 180; Munju 54, 182, 211, 226; Muyŏl [T'aejong] 54; Naemul 40, 59, 182, 214, 218, 232; Nulchi 232; Piryu 34, 42, 57, 198; P'yŏngwŏn 166; Silsong 59; Sinmun 54; Soji 20, 59; Suro [Suryŏng] 38, 181–182, 184–186; Tongsŏng 25, 60; Uija 232; Wu 11; Yangwŏn 14; Zhun [Chun] 11–13, 16
 - KINSHIP 6, 29; ancestors 41, 182, 185, 187; clan 23, 29, 34–35, 40–41, 185, 189, 215–216; descent-groups 41; family 81; genealogies 43; lineage 6, 41, 200, [201](https://calibre-pdf-anchor.a/#a451); marriage 34, 38, 181–182, 185, 188, 232; clan names: Hŏ [Xu/Hu] 185; Kim 40, 47–48, 214–215, 220, 227; Pak 41,
 
-
 48, 215; Sŏk 41, 215; Kŭmnyang 41; Saryang 41; Ponp'i 41;
 Moryang 41; Hanji 41; Suppi 41
-## 
+##
 KOGURYŏ xiv–xv, xxi, 3–4, 7–8, 17–19, 20–27, 31–37, 42–44, 46–48, 54– 61, 80–82, 128–130, 132, 138, 141–144, 148, 151, 153, 155, 165–166, 169, 176, 180, 187, 197, [201–202,](https://calibre-pdf-anchor.a/#a451) 212, 218, 220, 231
 
 KOREA: Cheju Island 107–108; Ch'ungch'ŏng-pukdo (north) province 108, 232; Hwanghae province 9, 12; Kyŏngju Basin 40, 42, 44; Kyŏngsong-namdo (south) province 97, 131, 133; Kyŏngsong-pukdo (north) province 97, 232; P'yŏngan province 9, 12; Korean peninsula: northern xiv–xv, 9–27, 30, 44, 47, 83, 87, 155, 164–166, 169, 180, 202; central 15, [92–100,](https://calibre-pdf-anchor.a/#a235) 114, 169–172; southern xv, 16, 19, 27–31, 38, [92](https://calibre-pdf-anchor.a/#a235), [125,](https://calibre-pdf-anchor.a/#a301) 128, 153–154, 180; southeastern (Yŏngnam) 37–44, 94, 95, [117–](https://calibre-pdf-anchor.a/#a283) [151,](https://calibre-pdf-anchor.a/#a283) 157, 166–169, [179–231](https://calibre-pdf-anchor.a/#a413); southwestern (Honam) 31–36, 107–111, 172–174; North Korea xiv–xv, 6, 10, 12, 17, 165; South Korea xiv; [see also cities]
@@ -4133,10 +4126,9 @@ nationalism 3, 6, 8
 - PAEKCHE xiv–xv, xii, 3–4, 7–8, 24, 26, 30, 31–36, 37–40, 42–43, 46–48, 54–61, 81–82, 85, 94, 99, 114, [125](https://calibre-pdf-anchor.a/#a301), 128–130, 132, 142–143, 148, 151, 153– 154, 162–168, 170, 172–173, 175–176, 180, 183, 187, 189, 197–198, 200– 202, 231; [see also Ceramic Types: Paekche]
 - PEOPLES: Alan 218; Dong-i 11; Fuyu [Puyŏ] 22; Khitan xv; Kyeru 24; Maek 11, 26; Malgal xv, 44, 54; Mongol xv; Murong 21, 24, 26, 32, 34–35, 59–60; Okcho [Okjo, Wo-chu] 21–22, 25–26, 32, 34–35; Puyŏ
 
-
 [Fuyu] 21–22, 25–26, 32–36, 47, 60, 125, 186–188, 219; Tungus 26;
 Vikings 38; Wa 38–39, 59, 143, 204; Xianbi 20; Ye 26, 204
-## 
+##
 - POLITICAL: complexity xiii; hierarchy xiii, 81, 142, 144, 206, 211; identity 3, 9, 21, 35, 176, 202, 221; isostasy xiii; organization 14, 41; policy of 'divide and rule' 16, 19, 30; rank and title 13, 14, 17, 19, 21– 23, 33, 40, [125,](https://calibre-pdf-anchor.a/#a301) 131, 144, 182, 198, 206, 218, 226; relations/ships xiv, 2; rulers/leaders xii, 5–6, 12–15, 23–24, 29, 35, 40–42, 44, 46–47, 86, 133, 144, 182, 186–187, 198, 202, 221; systems xiii; sociopolitical development 7, 46; [see also territory]
 - POLITIES: Boji [Pai-chi] 33, 35; Chinhan [Chenhan] 16, 27–28, 30–31, 40–42, 60, 89, 180, 189, [201,](https://calibre-pdf-anchor.a/#a451) 203, 205, 220; Jin 30; Kudara 33, 38; Kuya 186, 189–190, 197; Liao xv; Mahan 16, 27–31, 33–35, 59–60, 180, 203; Mioyama 28, 38; Mokchi 16, 27; Nara xiv; Nihon 39; Parhae [Bohai] xv, 7, 22, 44–45; Pyŏnhan [Bianhan] 27–28, 30–31, 37–38, 40, 180, 185–186, 188–191, 197, 203, 205, 220; Puyŏ [Fuyu]155; Qin 34; Saro 30, 40–42, 47, 197, [201–203](https://calibre-pdf-anchor.a/#a451), 215, 218, 220, 224, 226; Shipche 33; Shu xxi; United Silla 7, 22, 43, 45; Wessex x; Wŏlji 16; Yamatai 31; Yamato xii, xiv, xxi, 36, 38–9, 42, 54–61, [125](https://calibre-pdf-anchor.a/#a301), 127, 129, 142–144, 151, 188, 191, 232; Yan [Yen] 9–11, 13, 61, 129, 133, 136, 148, 159, 166; Zhou 9, 11, 14–15, 61, 153; [see also Kaya polities]
 
@@ -4154,9 +4146,8 @@ RIVERS (including their basins): Ch'ong 4; Han 4, 15–16, 27, 32, 34–36, 42, 
 - SOCIAL STRATIFICATION 3, 6, 8, 27, 36, 42, 44, 46–48, 87–88, 113, 202–203, 211–212, 220; aristocracy xv, 5, 23, 33, 39, 42, 44, 81, 174; class society 14, 23, 87, 202, 220; commoners 5, 44, 46, 88, 158, 168–169, 197, 212; elites x, 5, 8, 14–15, 20, 35–36, 47–48, 88, 125, 128, 132, 142, 148, 152, 158, 160, 168–169, 174, 176, 186, 188, 196–197, 201, 232; royalty 23–24, 26, 33, 35, 43, 133, 176, 182, 186, 196–198, 211–212, 218, 232; social status 5, 8, 14, 16, 18–19, 27, 36, 44, 46, 81, 86–89, 126, 131, 144, 148, 185–186, 188, 218–220, 226
 - STATE xiii; attribution/definition x, 2, 4, 6, 13, 16, 28, 30, 44, 46–47, 89; archaic state (*kodae kukka*) 5; city-state 15; confederated kingdoms (*nyŏnmaeng wangguk*) 5; empire xiii, xiv; *guo* [*guk*] x, 1, 2, 10, 27–29, 31, 33, 37–38, 40, 42, 44, 48, 182, 188–190; Japanese xiv, 152; kingdom xiv–xv, 5, 24, 28, 83, 152, 186; Korean xiv–xv; nation-states xiv; *polis* x; primitive state (*gensbi kokka*) 46; regional state (*nyŏngyŏk*
 
-
 kukka) 5; secondary states \underline{xiii}, 1; tribal state 5, 13, 22, 153; village state 41; walled-town state (s\breve{o}ng\bar{u}p\ kukka) 5, 13, 22, 29–30, 41, 153
-## 
+##
 STATE FORMATION/origins xi, xv; in Japan xiii; in Korea xii–xiii, 2, 6–9, 13, 33, 35, 44, 80, 82, 125, 169, 179; causes 7, 12; organization 153; processes 1, 92; theory xii–xiii, 1, 6–7
 
 STONE ARTEFACTS: adzes 144; missiles 158, 161; sculptures 211; whetstone 168, 170; [see also beadstone]
@@ -4173,7 +4164,7 @@ TERRITORY: administration 15, 222, 226; extent 12, 21, 34, 45, 156, 176, 182, 18
 
 ## Three Kingdoms states of Korea 3, 31, 36, 46
 
-TOMBS x, 3, 20, 27, 42, 44, 80, 86–87, 125–149, 201, 224; horizontal-entry chamber tombs 20, 87, 131, 196, 208, 210–211, 213, 223, 231; keyhole-shaped 129; Koguryŏ-type pyramidal 36, 47, 130; mounded tomb culture 8, 42, 46; mounded tombs 36, 40, 44, 46–47, 89, 128–129, 131–132, 151, 188, 208, 215, 218; multiple-chamber tombs 82; mural tombs 20, 126–128, 130, 138; royal 8, 38, 197, 209–212, 214, 216, 220; Silla-type stone/earth-mounded 195, 209–211, 216, 223, 231; 'spirit paths' 211; *named tombs:* **Chinju** 184–185; **Ch'ŏnma-ch'ong** (Heavenly Horse, #155) 81, 209, 214; **Dong Shou** 127–128; **First Emperor of Qin** 126; **Kŏm-ch'ong** (Sword) 214; **Kümgwan-ch'ong** (Gold Crown) 214; **Kumryŏngch'ong** (Gold Bell) 214; **Kurohimeyama** 
+TOMBS x, 3, 20, 27, 42, 44, 80, 86–87, 125–149, 201, 224; horizontal-entry chamber tombs 20, 87, 131, 196, 208, 210–211, 213, 223, 231; keyhole-shaped 129; Koguryŏ-type pyramidal 36, 47, 130; mounded tomb culture 8, 42, 46; mounded tombs 36, 40, 44, 46–47, 89, 128–129, 131–132, 151, 188, 208, 215, 218; multiple-chamber tombs 82; mural tombs 20, 126–128, 130, 138; royal 8, 38, 197, 209–212, 214, 216, 220; Silla-type stone/earth-mounded 195, 209–211, 216, 223, 231; 'spirit paths' 211; *named tombs:* **Chinju** 184–185; **Ch'ŏnma-ch'ong** (Heavenly Horse, #155) 81, 209, 214; **Dong Shou** 127–128; **First Emperor of Qin** 126; **Kŏm-ch'ong** (Sword) 214; **Kümgwan-ch'ong** (Gold Crown) 214; **Kumryŏngch'ong** (Gold Bell) 214; **Kurohimeyama**
 
 - 151; Mancheng 126, 129; Mesuriyama 148; Mich'u 81; Muryŏng 36; Omaruyama 151; Sik-i-ch'ong (Ornamental Shoe) 214; Shikinzan 151; Sŏbong-ch'ong (Swedish Phoenix) 214; Ssangsang-chŏng (Twin Tomb, Hwangnam Taech'ŏng #98) 81, 210, 212–214, 231; Suro 181; Three-Chambered 130; Wu Liang 11; Yuantaizi 232; [see also cemeteries]
 - TRADE xiii-xiv, 7, 12, 14, 18-20, 25-26, 31, 40, 42; 84, 168, 170, 185, 187-188, 203-204, 220; exchange 14; diplomatic 18; direct 15; down-the-line 15; imports 31, 188; Yellow Sea trading network 89

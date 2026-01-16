@@ -251,15 +251,9 @@ processes that any form of non-market economic behavior seems equal to every oth
 A part of the right answer is suggested by the claim that free software is made by those who seek reputational compensation for their activity. Famous Linux hackers, the theory is, are known all over the planet as programming deities. From this they derive either enhanced self-esteem or indirect material advancement.28 But the programming deities, much as they have contributed to free software, have not done the bulk of the work. Reputations, as Linus Torvalds himself has often pointed out, are made by willingly acknowledging that it was all done by someone else. And, as many observers have noted, the free software movement has also produced superlative documentation. Documentation-writing is not what hackers do to attain cool, and much of the documentation has been written by people who didn't write the code. Nor must we limit the indirect material advantages of authorship to increases in reputational capital. Most free software authors I know have day jobs in the technology industries, and the skills they hone in the more creative work they do outside the market no doubt sometimes measurably enhance their value within it. And as the free software products gained critical mass and became the basis of a whole new
 
 27A recent industry estimate puts the number of Linux systems worldwide at 7.5 million. See Josh Mc Hugh, Linux: The Making of a Global Hack, Forbes, August 10, 1998.
-
-http://www.forbes.com/forbes/98/0810/6203094s1.htm
-
 Because the software is freely obtainable throughout the net, there is no simple way to assess actual usage.
 
 28Eric Raymond is a partisan of the "ego boost" theory, to which he adds another faux-ethnographic comparison, of free software composition to the Kwakiutl potlatch. See Eric S. Raymond, Homesteading the Noosphere.
-
-http://www.tuxedo.org/˜esr/writings/homesteading.
-
 But the potlatch, certainly a form of status competition, is unlike free software for two fundamental reasons: it is essentially hierarchical, which free software is not, and, as we have known since Thorstein Veblen rst called attention to its signicance, it is a form of conspicuous waste. See Thorstein Veblen, *The Theory of the Leisure Class* (New York: Viking, 1967), (1st ed. 1899), 75. These are precisely the grounds which distinguish the anti-hierarchical and utilitiarian free software culture from its propertarian counterparts.
 
 set of business models built around commercial distribution of that which people can also get for nothing, an increasing number of people are speci cally employed to write free software. But in order to be employable in the eld, they must already have established themselves there. Plainly, then, this motive is present, but it isn't the whole explanation.

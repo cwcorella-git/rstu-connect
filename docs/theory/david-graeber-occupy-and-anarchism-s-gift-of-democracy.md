@@ -14,7 +14,7 @@ As the history of past movements all make clear, nothing terrifies those running
 
 Almost every time I’m interviewed by a mainstream journalist about OWS, I get some variation of the same lecture:
 
-> 
+>
 
 “How are you going to get anywhere if you refuse to create a leadership structure or make a practical list of demands? And what’s with all this anarchist nonsense – the consensus, the sparkly fingers … ? You’re never going to be able to reach regular, mainstream Americans with this sort of thing!”
 

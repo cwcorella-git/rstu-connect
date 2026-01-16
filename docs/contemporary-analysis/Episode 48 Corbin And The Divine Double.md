@@ -6,9 +6,6 @@ category: "contemporary-analysis"
 # **Episode 48: Corbin And The Divine Double/**
 
 #### **Source:**
-
-https://www.meaningcrisis.co/ep-48-awakening-from-the-meaning-crisis-corbin-and-the-divine-double/
-
 Welcome back to Awakening from the Meaning Crisis.
 
 So last time we were pursuing in-depth, trying to understand Heidegger's work as a prophet in the Old Testament sense of the meaning crisis. We took a look at this notion of the thing beyond itself and realness as simultaneously the shining into our framing and the withdrawing beyond our framing in a deeply inter-affording inter-penetrating manner.

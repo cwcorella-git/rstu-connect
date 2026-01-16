@@ -36,9 +36,6 @@ Hear Railroad Workers United members speak about their struggle, the situation o
 Featuring: Engineers and conductors from Railroad Workers United, facilitated by Maximillion Alvarez from The Real News who has covered this struggle extensively. Co-Sponsored by: Railroad Workers United, Haymarket Books, and Many more.
 
 View full list of co-sponsors here:
-
-https://docs.google.com/document/d/1O....
-
 Disclaimer:
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author.

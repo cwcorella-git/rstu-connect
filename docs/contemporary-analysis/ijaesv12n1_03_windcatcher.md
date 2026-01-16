@@ -7,9 +7,9 @@ category: "contemporary-analysis"
 
 # **Ali Alzaed1 and Ashraf Balabel2**
 
-*1 Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.* 
+*1 Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.*
 
-*2Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.* 
+*2Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.*
 
 #### **Abstract**
 

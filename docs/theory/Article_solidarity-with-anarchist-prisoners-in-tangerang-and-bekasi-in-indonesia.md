@@ -34,16 +34,8 @@ In responding to reports that this fundraiser is a scam, the AFFC has confirmed 
 The paypal account is owned by con artists and Bandilang Itim should know this as they should know the 'Infoshop' in Cebu is phony. The one that recently took a UK org for GBP 2,400
 Unfortunately, there are unscrupulous types who are prepared to take advantage of gullible anarchists from the West.
 These unfortunate kids from Tangerang are 'anarko punks' that are not organised into any anarchist group and their confession to the media that they are part of an anarcho-syndicalist group (kelompok anarko-sindikalis) was made under duress. The kid was bashed by the Tangerang cops and made to confess for the benefit of the media.
-https://www.youtube.com/watch?v=Oe-ACqefX10
-https://www.youtube.com/watch?v=M6s3RegIrIM
-
 ## In this video you can hear the cops prompting him
-
-https://www.youtube.com/watch?v=LQjyfCj5K5k
 There is a concerted effort by the media in Indonesia to equate anarcho-syndicalism with vandalism and terrorism. It is denounced as a foreign ideology contrary to the principles of 'pancasila'
-https://www.youtube.com/watch?v=tlMYgbHcbuM
-https://en.wikipedia.org/wiki/Pancasila_(politics)
-
 ## Lugius
 
 5 years 3 months ago

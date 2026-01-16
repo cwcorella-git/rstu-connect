@@ -33,7 +33,7 @@ focus work, time protection, work engagement workplace, well-being, experimental
 
 #### ACM Reference Format:
 
-Koustuv Saha and Shamsi T. Iqbal. 2023. Focus Time for well-being and Work Engagement of Information Workers. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA '23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 11 pages. 
+Koustuv Saha and Shamsi T. Iqbal. 2023. Focus Time for well-being and Work Engagement of Information Workers. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA '23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 11 pages.
 
 #### 1 INTRODUCTION AND BACKGROUND
 
@@ -41,7 +41,7 @@ Managing time better at workplaces is one of the key interests of researchers an
 
 Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the owner/author(s).
 
-CHI EA '23, April 23–28, 2023, Hamburg, Germany © 2023 Copyright held by the owner/author(s). ACM ISBN 978-1-4503-9422-2/23/04. 
+CHI EA '23, April 23–28, 2023, Hamburg, Germany © 2023 Copyright held by the owner/author(s). ACM ISBN 978-1-4503-9422-2/23/04.
 
 these have also added complexities in terms of the increased number of meetings, longer work hours, blurred work-life boundaries, more multi-tasking, and disrupted work-life balance \[15, 28, [46\]](#page-6-4). These complexities have simultaneously added limits to an individual's ability and time to do self-focused work, and affected well-being \[11, [51\]](#page-6-6). Prior work has noted the costs of task switching and disruptions due to notifications towards depleted productivity and well-being \[5, 13, 21, 29, 32, [37\]](#page-6-11). Kushlev and Dunn found that limiting email checking reduced stress, and Mark et al. noted that self-interruptions of emails lead to better productivity than notification-based interruptions. Other work found blocking notifications enhanced focused work and reduced multitasking and distractions \[34, [38\]](#page-6-13). Research has also noted the importance of focused work in improving productivity and well-being \[14, 19, 34, [43\]](#page-6-16). Focused work is found to associate with cognitive absorption, which not only significantly impacts an individual's deep involvement, learning [\[1\]](#page-5-1), and creativity [\[9\]](#page-6-17), but also helps them be more relaxed and perceive greater control \[31, [42\]](#page-6-19).
 

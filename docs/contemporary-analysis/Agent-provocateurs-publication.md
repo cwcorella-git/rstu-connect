@@ -125,7 +125,7 @@ There are also many examples of the use of agent provocateurs in more democratic
 
 ## ![](_page_18_Picture_0.jpeg)
 
-**A poster showing the face of undercover police officer Mark Kennedy, a.k.a. Mark Stone, was attached to railings at a solidarity picket prior to a hearing into the use of undercover police officers in the infiltration of environmental and social justice campaigns, January 15, 2016.** 
+**A poster showing the face of undercover police officer Mark Kennedy, a.k.a. Mark Stone, was attached to railings at a solidarity picket prior to a hearing into the use of undercover police officers in the infiltration of environmental and social justice campaigns, January 15, 2016.**
 
 Another major example is how in 2010 covert police provocateur Mark Kennedy was exposed in the United Kingdom for promoting violence, property destruction, internal discord, and the "radical" demonization of nonviolent activists as sell-outs and fools while posing as an eco-activist and peace activist for seven years using the nom de guerre Mark Stone. What triggered his exposure was that "Stone" was arrested in 2009 along with ve real activists and charged with conspiring to sabotage a power station. The case collapsed when the other ve did some investigation into "Mark Stone's" role and then gave testimony suggesting that Kennedy was an agent provocateur and had not only been the key planner, but had funded the small group's activities, which is illegal under British common law (Lewis and Evans 2011). Activists from at least three other peace or environmental campaigns in Ireland and England also testied that Kennedy inltrated
 
@@ -341,9 +341,6 @@ There will likely always be agent provocateurs who try to sow division and encou
 **"About Us.**" Undercover Research Project. Accessed October 4, 2021, https://undercoverresearch.net/about-us-2/.
 
 **"Activist 'Bitterly Disappointed' by 'Closed' Report into Undercover Policing.**" Belfast Telegraph, February 6, 2017.
-
-https://www.belfasttelegraph.co.uk/news/republic-of-ireland/activist-bitterly-disappointed-by-closed-report-into-undercover-policing-35427120.html.
-
 **FBI Counterterrorism Division.** "Black Identity Extremists Likely Motivated to Target Law Enforcement Ocers." 2017. FBI Intelligence Assessment. https:// assets.documentcloud.org/documents/4067711/BIE-Redacted.pdf.
 
 **Case, Ben.** "Beyond Violence and Nonviolence." ROAR Magazine 5 (June 2017). https://roarmag.org/magazine/beyond-violence-nonviolence-antifascism/.

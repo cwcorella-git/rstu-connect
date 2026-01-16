@@ -38,7 +38,7 @@ To get a sense of how this dynamic might work itself out, let me take an example
 
 Chloe was a professor of sociology at a prominent British university who unwisely took on a three-year gig as dean with a specific responsibility to provide “strategic leadership” to a troubled campus. Of course, most of those toiling in the academic mills have come to fear the word “strategic.” “Strategic mission statements” — or, worse, “strategic vision documents” — instill a particular terror, since they are the primary means by which corporate management techniques are insinuated into academic life. So one might feel justified already in suspecting that Chloe has been placed in a bullshit position. According to her testimony, this was indeed the case:
 
-> 
+>
 
 The reason that my Dean’s role was a bullshit job is the same reason that all non-executive Deans, Pro-Vice-Chancellors, or other ‘strategic’ roles in Universities are bullshit jobs. The ‘real’ roles of power and responsibility within a University trace the flow of money through the organisation. An executive PVC or Dean (i.e. s/he who holds the budget) can cajole, coerce, encourage, bully, negotiate with departments about what they can, ought or might want to do using the stick (or carrot) of money. Strategic Deans and other such roles have no carrots or sticks. They are non-executive. They hold no money, just (as was once described to me) “the power of persuasion and influence.”
 
@@ -46,7 +46,7 @@ I did not sit on University Leadership and so was not part of the bun fights abo
 
 So Chloe’s primary role was to come up with yet another strategic vision statement, of the kind that are deployed to justify the number-crunching and box-ticking that has become so central to academic life. But since she had no actual power, it was all meaningless shadow play. What she did get was her own tiny empire of administrative staff.
 
-> 
+>
 
 I was given a 75% full-time equivalent Personal Assistant, a 75% full-time equivalent ‘Special Project and Policy Support Officer’ and a full time post-doctoral research fellow, PLUS £20,000 “expenses” allowance. In other words — a shed-load of (public) money went into supporting a bullshit job. The project and policy support officer was there to help me with projects and policies. The PA was brilliant but ended up just being a glorified travel agent and diary secretary. The Research Fellow was a waste of time and money because apart from anything else, I am a lone scholar and all my work is deeply qualitative. I do not work in teams and don’t actually need an assistant.
 
@@ -56,13 +56,13 @@ Chloe appears to have been a generous boss. As she spent her own hours developin
 
 Still, the truly disturbing thing about the whole arrangement, according to Chloe, was her realization that if she had been given real power, she probably would have done harm. Because after her two-year stint as dean, she was unwise enough to accept the gig as head of her old department — that is, before quitting six months later in horror and disgust:
 
-> 
+>
 
 My very brief stint as Head of Department reminded me that at least, at the very minimum, 90% of the role is bullshit. Filling out the forms that the Faculty Dean sends so that s/he can write her strategy documents that get sent up the chain of command. Producing a confetti of paperwork as part of the auditing and monitoring of research activities and teaching activities. Producing plan after plan after 5-year-plan justifying why departments need to have the money and staff they already have. Doing bloody annual appraisals which go into a drawer never to be looked at again. And, in order to get these tasks done, as HoD, you ask your staff to help out. Bullshit proliferation.
 
 What’s more, having been trained in social theory, Chloe had all the tools to understand what was happening around her, to trace out the underlying dynamics at play:
 
-> 
+>
 
 It is not capitalism per se that produces the bullshit. It is managerialist ideologies put into practice in complex organisations. As managerialism embeds itself, you get entire cadres of academic staff whose job it is just to keep the managerialist plates spinning — strategies, performance targets, audits, reviews, appraisals, renewed strategies, etc, etc. — which happen in an almost wholly and entirely disconnected fashion from the real life blood of universities — teaching and education.
 

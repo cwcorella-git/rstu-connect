@@ -125,12 +125,10 @@ Messaging:
 
  - Include the landlord’s name and photo, as well as the address of the building the tenants are defending. Label it “COMMUNITY NOTICE” to grab atention, and ask at the end for the reader to reach out to their neighbor about the issue you’ve highlighted.
 
-
 Leave a flyer on every building’s door...
 ...and on every windshield
 of every car...
 ...but don t put them in mailboxes. It’s illegal!
-
 
 ### press conference
 

@@ -114,7 +114,6 @@ With these considerations, you can use the transformers pipeline API to load the
 
 from transformers import Auto Tokenizer import transformers import torch
 
-
 model = "tiiuae/falcon-7b-instruct"
 tokenizer = Auto Tokenizer.from_pretrained(model)
 pipeline = transformers.pipeline(
@@ -125,9 +124,8 @@ pipeline = transformers.pipeline(
  trust_remote_code=True,
  device_map="auto",
 )
-## 
+##
 And then, you'd run text generation using code like the following:
-
 
 sequences = pipeline(
  "Write a poem about Valencia.",
@@ -139,9 +137,8 @@ sequences = pipeline(
 )
 for seq in sequences:
  print(f"Result: {seq['generated_text']}")
-## 
+##
 And you may get something like the following:
-
 
 Valencia, city of the sun
 The city that glitters like a star
@@ -149,11 +146,10 @@ A city of a thousand colors
 Where the night is illuminated by stars
 Valencia, the city of my heart
 Where the past is kept in a golden chest
-## 
+##
 #### Inference of Falcon 40B
 
 Running the 40B model is challenging because of its size: it doesn't fit in a single A100 with 80 GB of RAM. Loading in 8-bit mode, it is possible to run in about 45 GB of RAM, which fits in an A6000 (48 GB) but not in the 40 GB version of the A100. This is how you'd do it:
-
 
 from transformers import Auto Tokenizer,
 Auto Model For CausalLM
@@ -174,7 +170,7 @@ pipeline = transformers.pipeline(
  model=model,
  tokenizer=tokenizer,
 )
-## 
+##
 Note, however, that mixed 8-bit inference will use torch.float16 instead of torch.bfloat16, so make sure you test the results thoroughly.
 
 If you have multiple cards and accelerate installed, you can take advantage of device\_map="auto" to automatically distribute the model layers across various cards. It can even offload some layers to the CPU if necessary, but this will impact inference speed.
@@ -258,7 +254,6 @@ We fine-tuned the two variants of the Falcon models (7B and 40B) on the Guanaco 
 
 The full script to reproduce our experiments using PEFT is available [here,](https://gist.github.com/pacman100/1731b41f7a90a87b457e8c5415ff1c14) but only a few lines of code are required to quickly run the SFTTrainer (without PEFT for simplicity):
 
-
 from datasets import load_dataset
 from trl import SFTTrainer
 from transformers import Auto Tokenizer,
@@ -272,7 +267,7 @@ Auto Model For CausalLM.from_pretrained(model_id,
 trust_remote_code=True)
 trainer = SFTTrainer(
  model,
-## 
+##
 
  tokenizer=tokenizer
  train_dataset=dataset,
@@ -280,7 +275,7 @@ trainer = SFTTrainer(
  max_seq_length=512,
 )
 trainer.train()
-## 
+##
 Check out the [original qlora repository](https://github.com/artidoro/qlora/) for additional details about evaluating the trained models.
 
 #### Fine-tuning Resources

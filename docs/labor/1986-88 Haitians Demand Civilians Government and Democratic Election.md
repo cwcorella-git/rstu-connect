@@ -15,9 +15,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/1986-88-haitians-demand-civilians-government-and-democratic-election
-
 **Tags:** education, general strikes, students, buses, elections, Haiti, blockades, Alison Roseberry-Polier,
 
 ## PDF

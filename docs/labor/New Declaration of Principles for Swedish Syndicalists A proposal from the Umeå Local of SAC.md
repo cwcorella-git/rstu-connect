@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/new-declaration-principles-swedish-syndicalists-proposal-umea-local-sac
-
 **Tags:** Umeå Local of SAC, Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
 
 A proposal from the Umeå Local of SAC. First, a draft was made by the union member Rasmus Hästbacka and discussed at a national seminar on ideology. Then, a refined version was decided by the Umeå Local and submitted to the 2022 SAC Congress. After minor modifications, the text wasadopted. More texts by Hästbacka on Libcomhere.
@@ -39,9 +36,6 @@ Thecurrent Declaration of principleshas two shortcomings: the language is unnece
 - 10. Syndicalists build a militant international trade union movement. Such a movement opens a historic opportunity to introduce equal societies around the world. Thus, a libertarian socialism will be realized. This is the alternative to both "state socialism" of the former Soviet Union and the global capitalism of today. Our vision is nothing less than a world of free and equal people.
 
 THE UMEÅ LOCAL Joakim 3 years 9 months ago In reply to Welcomebylibcom.org SAC members can read more about the Congress here:
-
-https://www.sac.se/Insidan/Centralorganisationen/SAC-s-kongresser/Kongressen-2021
-
 ## Fozzie
 
 ## ![](_page_3_Figure_0.jpeg)

@@ -34,9 +34,6 @@ The Russian Federation has invaded Ukraine and is increasing the risk of a wides
 We, university students, intellectual, political activists, union members, elected representatives, association officials, journalists, citizens etc, in diversity of our opinions and activities - forewarned by the Russian student group Free Azat, add our voices to those already expressed across the world. We solemnly demand that the government of the Russian Federation release Azat.
 
 Please publicly add your voice: https://docs.google.com/forms/d/e/1FAIpQLSf Jfo CxgSOw FbmcQXwtzE1SIabfJLC4ud6B-WL1knrU\_L73Ow/viewform?pli=1 First list of signatories:
-
-https://blogs.mediapart.fr/solidarite-freeazat/blog/020623/liberte-pour-azat-miftakhov
-
 Second list of signatories:
 
 ## Links to show support (in French)

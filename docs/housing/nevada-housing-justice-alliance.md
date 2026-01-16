@@ -18,7 +18,7 @@ The NHJA brings together tenant organizations, housing advocates, legal aid prov
 
 ### Coalition Members Include:
 - Reno Sparks Tenants Union
-- Las Vegas Tenants Union  
+- Las Vegas Tenants Union
 - Nevada Legal Aid
 - Progressive Leadership Alliance of Nevada (PLAN)
 - Make the Road Nevada
@@ -53,7 +53,7 @@ The NHJA is pushing for comprehensive housing reform in the upcoming legislative
 - End arbitrary and retaliatory evictions
 - Provide due process protections
 
-**Rent Stabilization Authorization**  
+**Rent Stabilization Authorization**
 - Allow local governments to enact rent increase limits
 - Protect tenants from excessive rent hikes
 - Maintain housing stability in communities

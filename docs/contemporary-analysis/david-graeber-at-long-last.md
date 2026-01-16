@@ -101,7 +101,7 @@ A self-organizing structure has to be a totality with respect to its own self-or
 
 Piaget agreed with Lévi-Strauss (who, at least in the early part of his career, also drew on scientific models) in seeing structures as, to quote Turner, “groups of transformations bounded by invariant constraints” (p. 209, this volume)—the invariants being the rules that govern the arrangement and rearrangement of the elements. But where Lévi-Strauss was content to see those rules as givens, part of the elementary structures of the human mind, Piaget, who started from action, could not. As a result, as he put it, “the idea of *structure* as a system of transformations becomes continuous with that of *construction* as continual formation” (Piaget 1970: 34, original emphasis)—the structure is always building itself, and, as soon as it seems to have reached the top, it always must necessarily create an even higher degree of coordination of which the actors cannot be entirely conscious, because it is the self-regulating mechanism that’s making it possible for them to think about such questions in the first place:
 
-> 
+>
 Gödel showed that the construction of a demonstrably consistent relatively rich theory requires not simply an “analysis” of its “presuppositions,” but the construction of the next “higher” theory! . . . The pyramid of knowledge no longer rests on foundations but hangs by its vertex, an ideal point never reached and, more curious, constantly rising! In short, rather than envisaging human knowledge as a pyramid or building of some sort, we should think of it as a spiral the radius of whose turns increases as the spiral rises. (Piaget 1970: 34)
 
 This is why we’re not dealing with some kind of authoritarian, closed system here. Structures are always open. But critically, they are always open at the top. Even those who think they’re operating at the very top of a conceptual (or social) system cannot, by definition, completely understand what they’re really up to. Turner supplemented Piaget’s insights in this regard with those of Soviet developmental psychologist and educational theorist Lev Vygotsky’s notion of “proximal level of development”—that is, that all of us are always necessary operating on one level of sophistication higher than we can consciously explain. This is why, for instance, it is possible to speak in grammatical English sentences even if one is completely incapable of explaining the difference between a past participle and a gerund, or even never actually heard that past participles or gerunds are things that are supposed to exist. It’s obvious why such approaches should be of interest to anthropologists, because, in a way, this is the key question in any cultural analysis. How do people operate with tacit codes of which they are not consciously aware? Structuralism just makes this problem explicit. Even if we are able to demonstrate that a Greek musical performance or courtship ritual is really an exact inversion of the symbolic code on display in a typical knife fight, one still has to eventually get to the question of where this code actually resides. Is it somewhere in the actors’ heads, some unconscious level of the mind? Would that be an individual or collective unconscious? Is it inscribed in the architecture, as it were, so that people absorb the tacit categories and associations by which they live—hot/ cold, wet/dry, high/low, male/female—simply by moving about in culturally appropriate ways through the physical environment? Or is it somehow implicit in their language?
@@ -120,7 +120,7 @@ I suspect there are good reasons for this. If left-wing thought, whether in its 
 
 Terry Turner’s basic question, then, with regard to myth was: Why have so many human societies embraced such conservative conclusions? Certainly this was true of the Kayapó. As Turner writes in “The fire of the jaguar”:
 
-> 
+>
 The question becomes this: why should the Kayapó regard the very power to create and maintain their social order . . . as itself, in origin and essence, an asocial (“natural”) power? The answer is that they do not regard the structure of society itself as within their power to change, or, therefore, within their power to create. It follows that the basic forms, that is, the basic transformative mechanisms upon which their society rests, must derive from an extrasocial source. (p. 30, this volume)
 
 Hence his embrace of Marx and the fundamental insight—one seen nowadays as so intrinsically suspicious by poststructuralists—that there is a necessary link between humans’ misunderstanding of the process of their own creativity and forms of authority and exploitation.
@@ -133,7 +133,7 @@ Finally, there is a degree—already noted—to which such questions can never r
 
 This might seem somewhat contradictory: How can one both say that myth is the product of an intellectual puzzle and, simultaneously, that it is not an attempt to solve that puzzle? What, for Turner, are myths actually about? Here, at least, he is considerate enough to spell the matter out:
 
-> 
+>
 . . . the basic notion of the function of myth put forward in this study [is] that of directly connecting the “subjectivity” of the social actor with the objective structure of the socioeconomic system to which he or she belongs. (p. 146, this volume)
 
 “Subjectivity” here is meant in the literal sense: it is about the formation of the subject, as an entity disposed to act and capable of acting in a certain way. Myths provide those who hear, learn, and retell them not only with tacit models for how to act but, even more, with a tacit guide to how to feel about the process by which we do so, with all its attendant dilemmas, tensions, and contradictions, what it is justifiable to fear and to desire.
@@ -164,13 +164,11 @@ Well, pendulums do swing. It’s possible that the current adamant hostility to 
 
 ### REFERENCES CITED
 
-
 Latour, Bruno. 2007. *Reassembling the social*. Oxford: Clarendon.
 
 Piaget, Jean. 1970. *Structuralism*. Translated and edited by Chaninah Maschler. New York: Basic Books.
 
 Turner, Terence S. 1977. “Narrative structure and mythopoiesis: A critique and reformulation of structuralist concepts of myth narrative and poetics.” *Arethusa* 10 (11): 103–64.
-
 
 [1] I know three definitely existed: *The fire of the jaguar*, a collection called *Critique of pure culture* contracted to Berg but endlessly delayed, and *The Kayapó of eastern Para*, a manuscript prepared for “Cedi, Povos Indigenas do Brasil, Volume VIII” of which I still have a copy of the first 56 pages—I can’t for the life of me figure out what happened to the rest of it. Other rumored volumes may or may not be mythical.
 

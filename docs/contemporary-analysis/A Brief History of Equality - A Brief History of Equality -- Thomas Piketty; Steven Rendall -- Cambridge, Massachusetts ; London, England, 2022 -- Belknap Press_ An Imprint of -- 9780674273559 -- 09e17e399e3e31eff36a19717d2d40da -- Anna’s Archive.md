@@ -247,7 +247,7 @@ We must also put into perspectie the idea o a purchasing poer multiplied by ten 
 
 the end o the nineteenth century). Te order o magnitude is epressie and poerully coneys the idea o a massie quantitatie increase, hich is incontestable, but in truth the precise gure is not ery signicant. It may make sense to compare incomes in order to ealuate inequalities ithin a gien society (insoar as the dif er ent social groups interact and maintain relations ith one another through monetary echanges) or beteen countries in a gien period (also insoar as these socie ties maintain such contacts ith each other, hich has become more and more requently the case at the global leel since the eigh teenth century), or to study the eolution o purchasing poer on the scale o a e years or a e de cades. On the other hand, the eercise loses its meaning as soon as e consider temporal adances as gigantic as the one in question here.
 
-o grasp such radical transormations o ays o lie, no unidimensional indicator can be sucient. It is better to resort to a multidimensional approach in order to gauge the eolution o access to concrete goods such as education, health care, ood, clothing, housing, transportation, culture, and so on. In this case, depending on the kind o good (that is, rom a technical point o ie, depending on the composition o the basket o goods used to calculate the price inde), e could just as ell conclude that aerage purchasing poer has been multiplied by to or three or een or tenty (and not by ten) beteen and . 
+o grasp such radical transormations o ays o lie, no unidimensional indicator can be sucient. It is better to resort to a multidimensional approach in order to gauge the eolution o access to concrete goods such as education, health care, ood, clothing, housing, transportation, culture, and so on. In this case, depending on the kind o good (that is, rom a technical point o ie, depending on the composition o the basket o goods used to calculate the price inde), e could just as ell conclude that aerage purchasing poer has been multiplied by to or three or een or tenty (and not by ten) beteen and .
 
 3. For concrete eamples o the rise in purchasing poer o the aerage income e pressed in terms o kilograms o carrots or meat, in nespapers, hairdressers, bicycles, or apartment rents in France oer the course o the tentieth century, see . Piketty, Top Incomes in France in the Twentieth Century (Cambridge, MA: Harard Uniersity Press, ), –; and . Piketty, Capital in the Twenty- First Century (Cambridge, MA: Belknap Press o Harard Uniersity Press, ), –. In sum: purchasing poer e pressed in manuactured goods has increased more than aerage, hile purchasing poer epressed in terms o ser ices has increased much less than aerage increase (or een not at all, in the case o certain ser ices). Purchasing poer epressed in terms o ood is near aerage.
 
@@ -2127,7 +2127,7 @@ communism: Chinese, 15, 233; institutional arrangements in, 14–15; power distr
 
 Company Law (1906, UK), 113n23 Condorcet, marquis de, 78 Congo-Ocean Railway, 87–88, 89 Cooper, Frederick, 3 corporate/company voting rights, 106, 113–120, 118f, 161t, 165–166, cotton, 56–59. *See also* textile industry Covid-19 pandemic: economic system changes following, 236, 239, 241; labor issues in, 103; public debt changes with, 148*f*; social and political changes from, 11; vaccine access in, 207n6
 
-Cuba, 57*f*, 69 currency, 172, 222, 239–243 Czech Republic, 212, 213*f* 
+Cuba, 57*f*, 69 currency, 172, 222, 239–243 Czech Republic, 212, 213*f*
 
 194n21
 
@@ -2205,7 +2205,7 @@ income: average, 18–20, 19*f*, 21; basic, 158–159, 160, 162, 164; from capit
 
 India: affirmative action in, 190–194, 191*f*; campaign financing in, 109; castes and inequality in, 107–108, 190–194, 191*f*, 192*f*; colonialism in, 48; Covid vaccine access in, 207n6; economic power of, 234; gendered discrimination in, 186, 190; "great redistribution" in, 121; income inequality in, 218n22; ITO project supported by, 207; nationalism in, 236; textiles and manufactured products from, 51, 57–59, 60 industrial revolutions, 49–51, 125–126, 228–229
 
-infant mortality, 16, 20 inflation, 27, 146–147, 148*f*, 149, 153, 240 inheritance: minimum (or for all), 160, 160*f*, 161*t*, 162–165, 168; property ownership and, 4–6, 31, 35; redistribution of, 160, 160*f*, 161*t*, 162–164; reparations for lost, 74, 75n5; research on, 4–6; socioeconomic status and, 97*f* 
+infant mortality, 16, 20 inflation, 27, 146–147, 148*f*, 149, 153, 240 inheritance: minimum (or for all), 160, 160*f*, 161*t*, 162–165, 168; property ownership and, 4–6, 31, 35; redistribution of, 160, 160*f*, 161*t*, 162–164; reparations for lost, 74, 75n5; research on, 4–6; socioeconomic status and, 97*f*
 
 interest rates, 241–242
 international aid, 211–214, 213f, 216
@@ -2234,7 +2234,7 @@ Morocco, 61, 90–91, 144–145
 multinational corporations, 206;
 beneficiary of international integration, 171; and dispute settlement, 220; and profit and capital flight, 212; and rights of poor countries, 215, 215–216n19, 218; taxing, 208, 210, 219, 238, 244n20
 
-national income: calculation of, 23–24; in China, 205, 230n6; foreign assets as percentage of, 142; in France, 37–38n8, 122; property ownership as percentage of, 141, 141*f*; public assets as percentage of, 235n11; public debt as percentage of, 146, 148*f*; reparations as percentage of, 72–73, 74, 76, 80n12, 145–146; as socioeconomic indicator, 23–24, 27; taxes as percentage of, 54–55, 54*f*, 122–124, 126, 156, 160, 161*t* 
+national income: calculation of, 23–24; in China, 205, 230n6; foreign assets as percentage of, 142; in France, 37–38n8, 122; property ownership as percentage of, 141, 141*f*; public assets as percentage of, 235n11; public debt as percentage of, 146, 148*f*; reparations as percentage of, 72–73, 74, 76, 80n12, 145–146; as socioeconomic indicator, 23–24, 27; taxes as percentage of, 54–55, 54*f*, 122–124, 126, 156, 160, 161*t*
 
 nationalism, 236–237 Native Land Act (1913, S. Africa), 85 Ndiaye, Pap, 9
 

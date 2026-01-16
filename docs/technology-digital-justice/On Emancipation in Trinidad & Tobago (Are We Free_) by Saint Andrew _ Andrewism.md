@@ -91,9 +91,6 @@ Critical thinking atrophies, natural curiosity is broken, and young psyches are 
 After spending two decades of our lives in school, we graduate as a new generation of followers of the same society that kept us back, unable to challenge the false narrative and devastating system of the colonizers.
 
 Our schools preserve the systems of inequality that we grapple with today. They maintain a society that is hostile towards differences in intelligence and styles of learning that are not profitable. The education system (de)grades, tests, and standardizes our children, ignoring their rich, natural complexity and diversity of
-
-On Emancipation in Trinidad & Tobago (Are We Free?) ... https://medium.com/andrewism/on-emancipation-ba04...
-
 thought, development, and ability.
 
 #### Racism
@@ -279,9 +276,6 @@ Jul 14, 2020 [68](https://medium.com/@andrew-sage/the-education-system-is-broken
 Nov 23, 2020 [70](https://medium.com/andrewism/fixing-port-of-spain-2d64c5e7cfdf?source=post_page---author_recirc--ba0425a08176----1---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------) [1](https://medium.com/andrewism/fixing-port-of-spain-2d64c5e7cfdf?source=post_page---author_recirc--ba0425a08176----1---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
 
 ## ![](_page_18_Picture_7.jpeg)
-
-On Emancipation in Trinidad & Tobago (Are We Free?) ... https://medium.com/andrewism/on-emancipation-ba04...
-
 ## ![](_page_19_Picture_2.jpeg)
 
 In by Andrewism [Andrew Sage](https://medium.com/@andrew-sage?source=post_page---author_recirc--ba0425a08176----2---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)

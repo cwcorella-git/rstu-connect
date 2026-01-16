@@ -87,7 +87,6 @@ I would make a radical suggestion: that technological unemployment has already h
 
 **References**
 
-
 Dahlgreen, W. (2015). 37% of British Workers Think Their Jobs are Meaningless. *YouGov*. Retrieved August 2, 2019, from https://yougov.co.uk/topics/life-style/articles-reports/2015/08/12/british-jobs-meaningless
 
 Graeber, D. (2004). *Fragments of an Anarchist Anthropology*. Chicago: Prickly Paradigm Press.

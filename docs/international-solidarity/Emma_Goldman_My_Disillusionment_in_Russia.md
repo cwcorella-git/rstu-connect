@@ -112,7 +112,7 @@ Superstitions die hard. In the case of this modern superstition the process is d
 
 How powerful a hold that superstition wields I realize from my own experience. I had always known that the Bolsheviki are Marxists. For thirty years I fought the Marxian theory as a cold, mechanistic, enslaving formula. In pamphlets, lectures and debates I argued against it. I was therefore not unaware of what might be expected from the Bolsheviki. But the Allied attack upon them made them the symbol of the Russian Revolution, and brought me to their defence.
 
-From November, 1917, until February, 1918, while out on bail for my attitude against the war, I toured America in defence of the Bolsheviki. I published a pamphlet in elucidation of the Russian Revolution and in justification of the Bolsheviki. I defended them as embodying *in* 
+From November, 1917, until February, 1918, while out on bail for my attitude against the war, I toured America in defence of the Bolsheviki. I published a pamphlet in elucidation of the Russian Revolution and in justification of the Bolsheviki. I defended them as embodying *in*
 
 *practice* the spirit of the revolution, in spite of their theoretic Marxism. My attitude toward them at that time is characterized in the following passages from my pamphlet, "The Truth About the Bolsheviki:"[\[1\]](http://theanarchistlibrary.org/library/emma-goldman-my-disillusionment-in-russia#fn1)
 

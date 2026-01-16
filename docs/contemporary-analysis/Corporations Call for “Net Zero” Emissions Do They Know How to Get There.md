@@ -146,9 +146,6 @@ www.worldenergyoutlook.org
 . The IEA also reported that the Paris Agreement would see electricity generation from coal grow by 24 percent by 2040, available at http://www
 
 . worldcoal.org/signing-ceremony-paris-agreement-what%E2%80%99s-next.
-
-https://www.virgin.com/richard-branson/
-
 climate-opportunity-paris.
 
 | People and planet alongside profit available at |

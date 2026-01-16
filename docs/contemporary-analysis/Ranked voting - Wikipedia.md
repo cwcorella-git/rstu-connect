@@ -161,7 +161,7 @@ The defeat-dropping Condorcet methods all look for a Condorcet winner, i.e. a ca
 - 22. ^ ["North to the Future: Alaska's Ranked Choice Voting System](https://alaskapublic.org/2023/09/19/north-to-the-future-alaskas-ranked-choice-voting-system-is-praised-and-criticized-nationally/) [is Praised and Criticized Nationally"](https://alaskapublic.org/2023/09/19/north-to-the-future-alaskas-ranked-choice-voting-system-is-praised-and-criticized-nationally/). Alaska Public Media.
 - 23. ^ ["New Zealand Cities Voting to Implement Ranked Choice](https://www.fairvote.org/new_zealand_cities_voting_to_implement_ranked_choice_voting) [Voting"](https://www.fairvote.org/new_zealand_cities_voting_to_implement_ranked_choice_voting). September 19, 2017.
 - 24. ^ Smart, Peter (November 11, 2022). ["A wave of cities across](https://www.electoral-reform.org.uk/a-wave-of-cities-across-the-united-states-switch-to-fair-voting-systems/) [the United States switch to fair voting systems"](https://www.electoral-reform.org.uk/a-wave-of-cities-across-the-united-states-switch-to-fair-voting-systems/). Electoral Reform Society. Retrieved January 22, 2025.
-- 25. ^ 
+- 25. ^
 - 26. ^ [https://lgiu.org/blog-article/how-irelands-local-elections](https://lgiu.org/blog-article/how-irelands-local-elections-work/)[work/](https://lgiu.org/blog-article/how-irelands-local-elections-work/)
 - 27. ^ Weber, Robert J. (September 1978). ["Comparison of Public](https://cowles.yale.edu/publications/cfdp/cfdp-498) [Choice Systems"](https://cowles.yale.edu/publications/cfdp/cfdp-498). Cowles Foundation Discussion Papers. Cowles Foundation for Research in Economics: 16, 38, 62. No. 498.
 - 28. ^ T. N. Tideman and F. Plassman, "Modeling the Outcomes of Vote-Casting in Actual Elections" (2012).

@@ -97,9 +97,6 @@ Urbanization,
 JOURNAL OF CONTEMPORARY URBAN AFFAIRS (2020), 4(1), 1-10.
 
 Urban Rights.
-
-https://doi.org/10.25034/ijcua.2020.v4n1-1
-
 ## This work is licensed under a www.ijcua.com
 
 ## Creative Commons Attribution -
@@ -125,9 +122,6 @@ in 2014. The same report predicts that the world years. New mega-urban regions i
 28 between the years 1990 and 2014, and it is Associate Professor of Architecture and Urban Design at expected to rise up to 41 in 2030 (United Nations, Girne American University, Cyprus Department of Economic and Social Affairs, Email address: senem.zeybekoglu@gmail.com Population Division, 2015). According to the How to Cite this Article:
 
 Zeybekoglu, S. (2020). City, Urban Transformation and the Right to the City. Journal of Contemporary Urban Affairs, 4(1), 1-10.
-
-https://doi.org/10.25034/ijcua.2020.v4n1-8
-
 ## ![](_page_4_Picture_5.jpeg)
 
 ## JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020
@@ -560,9 +554,6 @@ North America and Europe, (ed.) D. Judd, and Dr. Senem Zeybekoglu 7
 M. Parkinson, pp: 31-50, Sage, London, New Leadership+and+Urban+Regeneration,+Cities Delhi.
 
 ## +in+North+America+and+Europe,+(ed.)+D.+J
-
-https://books.google.com.cy/books?id=nlYFAudd,+and+M.+Parkinson,&hl=en&sa=X&ved=
-
 QAAIAAJ&q=Leadership+and+Urban+Regen 0ahUKEwilr7a Qreration,+Cities+in+North+America+and+Euro
 
 ## bi AhVIJZoKHY99Cy0Q6AEIQTAF
@@ -576,9 +567,6 @@ Keyder, Ç. and Öncü, A. (1994) "Globalization of Leadership+and+Urban+Regener
 Review 17/3, pp: 383-421, p:389.
 
 ## udd,+and+M.+Parkinson,&hl=en&sa=X&ved=
-
-https://www.jstor.org/stable/40241297
-
 ## 0ahUKEwilr7a Qr-
 
 Lampugnani, V. M. (1985) Architecture and City bi AhVIJZoKHY99Cy0Q6AEIQTAF
@@ -590,9 +578,6 @@ Planning in the Twentieth Century, Van Gotham, K. F., Shefner, J., Brumley, K. (
 Redevelopment of Public Housing", Critical 5vgEACAAJ&dq=Architecture+and+City+Pla Perspectives on Urban Redevelopment, 6, pp: nning+in+the+Twentieth+Century+lampugna 313- 335
 
 ## ni&hl=en&sa=X&ved=0ahUKEwis7rv MsObi AhV
-
-https://www.emeraldinsight.com/doi/pdfplusmz6YKHX8vD5MQ6AEIJjAA
-
 ## /10.1016/S1047-0042(01)80012-X
 
 Lefèbvre , H. (1996) The Production of Space, Gottdiener, M. (1993) "A Marx for Our Time: Henri Blackwell Publishers, Oxford, UK
@@ -600,9 +585,6 @@ Lefèbvre , H. (1996) The Production of Space, Gottdiener, M. (1993) "A Marx for
 Lefèbvre and The Production of Space", https://books.google.com.cy/books?id=SIXcn Sociological Theory, 11/1.
 
 ## Ioa4MwC&dq=Lef%C3%A8bvre+,+H.+(1996)+
-
-https://www.jstor.org/stable/201984?seq=1#
-
 The+Production+of+Space&hl=en&sa=X&ved metadata\_info\_tab\_contents
 
 =0ahUKEwjT7r\_as Obi AhXRJpoKHXutAJwQ6AEI Hall,
@@ -634,9 +616,6 @@ Vol.
 1, pp: 3-17.
 
 ## 14.02.2018
-
-https://doi.org/10.1080/04353684.1989.118795
-
 https://ville.montreal.qc.ca/pls/portal/docs/p 83
 
 age/charte\_mtl\_fr/media/documents/charte Harvey, D. (2008) "The Right to the City" New Left \_montrealaise\_english.pdf,
@@ -658,9 +637,6 @@ Report. Contribution of Working Groups I, II Paddison, R. (1993) "City Marketing
 Intergovernmental Panel on Climate Change Urban Studies 30/2, pp: 339- 350;
 
 [Core Writing Team, R. K. Pachauri and L. A.
-
-https://journals.sagepub.com/doi/abs/10.108
-
 Meyer (eds.)]. Geneva: IPCC. Retrieved on 0/00420989320080331
 
 02.16.2018, from:
@@ -732,9 +708,6 @@ PgAACAAJ&dq=Globalization+and+its+Disco Paper Urban Policies and the Right to th
 ntents:+Essays+on+the+New+Mobility+of+Peo Retrieved on
 
 15.11.2010.
-
-http://hic-
-
 ## ple+and+Money&hl=en&sa=X&ved=0ahUKE
 
 mena.org/documents/UN%20Habitat%20disc wibmee Usubi AhXB8qYKHe8IBakQ6AEIJjAA ussion.pdf
@@ -779,9 +752,6 @@ Environmental Force to be Reckoned With.
 How to Cite this Article:
 
 Zeybekoglu, S. (2020). City, Urban Transformation and the Right to the City. Journal of Contemporary Urban Affairs, 4(1), 1-10.
-
-https://doi.org/10.25034/ijcua.2020.v4n1-8
-
 ## Dr. Senem Zeybekoglu 9
 
 www.ijcua.com This page is intentionally left blank.

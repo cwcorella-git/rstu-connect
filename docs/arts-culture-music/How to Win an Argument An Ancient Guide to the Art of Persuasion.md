@@ -47,7 +47,7 @@ Names: Cicero, Marcus Tullius, author. | May, James M., editor, translator. Titl
 
 Identifiers: LCCN 2016012361 | ISBN 9780691164335 (hardcover : alk. paper) Subjects: LCSH: Rhetoric, Ancient. | Persuasion (Rhetoric) | Cicero, Marcus Tullius.
 
-Classification: LCC PA6307. A2 M39 2016 | DDC 808—dc23 LC record available at 
+Classification: LCC PA6307. A2 M39 2016 | DDC 808—dc23 LC record available at
 
 British Library Cataloging-in-Publication Data is available
 

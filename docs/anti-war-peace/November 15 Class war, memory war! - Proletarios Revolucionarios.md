@@ -49,5 +49,3 @@ For the rupture and proletarian revolt, here and everywhere!For the world commun
 ## Quito, Ecuador, November 2014
 
 Download the flyer in PDF [in Spanish]: We encourage its reproduction, distribution and discussion.
-
-http://www.autistici.org/tridnivalka/ecuador-november-15-class-war-memory-war/

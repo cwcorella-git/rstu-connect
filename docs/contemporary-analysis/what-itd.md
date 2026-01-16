@@ -760,13 +760,12 @@ But even the third stratum, "the younger and more sensitive section of the worke
 
 55"In the interval between these articles there was one (*Iskra*, No. 3), which dealt especially with class antagonisms in the countryside. (See*Collected Works*, Vol. 4, pp. 420-28
 
-
 –Ed.)
 56Ibid., pp. 420-28 –Ed.
 57Ibid., Vol. 5, pp. 95-100 –Ed.
 58Ibid., pp. 101-02 –Ed.
 59See Collected Works, Vol. 5, pp. 87-88 –Ed.
-## 
+##
 60There follows a reference to the "concrete Russian conditions which fatalistically impel the working-class movement on to the revolutionary path". But these people refuse to understand that the revolutionary path of the working-class movement might not be a Social-Democratic path. When absolutism reigned, the entire West-European bourgeoisie "impelled", deliberately impelled, the workers on to the path of revolution. We Social-Democrats, however, cannot be satisfied with that. And if we, by any means whatever, degrade Social-Democratic politics to the level of spontaneous trade-unionist politics, we thereby play into the hands of bourgeois democracy.
 
 62See "Who Will Bring About the Political Revolution?" in the collection published in Russia, entitled *The Proletarian Struggle.* Re-issued by the Kiev Committee.

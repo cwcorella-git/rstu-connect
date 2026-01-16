@@ -7,7 +7,6 @@ tags:
 
 # **Pëtr Kropotkin Memoirs of a Revolutionist 1899**
 
-
 Author's Note
  Introduction by Georg Brandes
 Chapter 1: Childhood
@@ -48,7 +47,7 @@ Chapter 4: St. Petersburg; First Journey to Western Europe
  V
  VI
  VII
-## 
+##
 
 VIII
  IX
@@ -83,15 +82,14 @@ Chapter 6: Western Europe
  XV
  XVI
  XVII
-## 
+##
 #### **Author's Note**
 
 This book would not probably have been written for some time to come, but for the kind invitation and the most friendly encouragement of the editor and the publishers of "The Atlantic Monthly" to write it for serial publication in their magazine. I feel it a most pleasant duty to express here my very best thanks for the hospitality that was offered to me, and for the friendly pressure that was exercised to induce me to undertake this work. It was published in "The Atlantic Monthly" (September, 1898, to September, 1899), under the title, "The Autobiography of a Revolutionist." Preparing it now for publication in book form, I have added considerably to the original text in the parts dealing with my youth and my stay in Siberia, and especially in the Sixth Part, in which I have told the story of my life in Western Europe.
 
-
 P. Kropótkin
 Bromley, Kent, October, 1899
-## 
+##
 ## **Introduction by Georg Brandes**
 
 The autobiographies which we owe to great minds have in former times generally been of one of three types: 'So far I went astray, thus I found the true Path' (St Augustine); or, 'So bad was I, but who dares to consider himself better!" (Rousseau); or, 'This is the way a genius has slowly been evolved from within and by favourable surroundings'(Goethe). In these forms of selfrepresentation the author is thus mainly preoccupied with himself.

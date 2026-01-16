@@ -69,7 +69,6 @@ PREFACE |
 | I. THE TASK |
 | 1.
 
-
 5
 LABOR . |
 | 2.
@@ -127,18 +126,15 @@ THE WORKERS' REVOLUTION .
 
 | 1. THE ENGLISH BOURGEOISIE
 
-
 99 |
 |-------------------------------------------------------|
 | 2. THE FRENCH BOURGEOISIE
-
 
 103 |
 | 3. THE GERMAN BOURGEOISIE .
 109
 • |
 | 4. NATIONALISM
-
 
 115 |
 | 5.
@@ -159,14 +155,11 @@ FASCISM
 .• 161 |
 | 2. THE RISE OF CHINA
 
-
 166 |
 | 3. THE COLONIES
 
-
 174 |
 | 4. RUSSIA AND EUROPE
-
 
 178 |
 | 5. IN THE ABySS 183 |

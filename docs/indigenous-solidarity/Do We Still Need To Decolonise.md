@@ -184,11 +184,10 @@ Palestinians. 3:58 Internal colonialism refers to the exploitation of minority g
 
 ## 5:29
 
-
-In both forms of colonialism, acts of enclosure are justified in a cultural 
+In both forms of colonialism, acts of enclosure are justified in a cultural
 discourse that
 5:34
-assigns colonising forces the position of civilisation and colonial subjects the 
+assigns colonising forces the position of civilisation and colonial subjects the
 position
 5:39
 of savagery, incapable of using the land "properly."
@@ -201,19 +200,19 @@ in as slaves or indentured labour by the colonial power.
 In both forms of colonialism, the occupying force aims to exploit the resources and
 labour
 5:58
-of the colony, creating disastrous human and ecological consequences that 
+of the colony, creating disastrous human and ecological consequences that
 reverberate over
 6:03
 generations.
 6:05
 Acts of possession are a common practice in the process of colonialism.
 6:09
-Before, during, or after acts of enclosure, colonial powers claim their newly 
+Before, during, or after acts of enclosure, colonial powers claim their newly
 acquired
 6:14
 territory through what American historian Patricia Seed has called "ceremonies of
 6:19
-possession," in her book Ceremonies of Possession, which include naming to 
+possession," in her book Ceremonies of Possession, which include naming to
 establish the legitimacy
 6:25
 of their claims.
@@ -222,55 +221,55 @@ Quote: "French, Spanish, and Dutch settlers both
 6:30
 named and claimed to possess through naming.
 6:33
-Portuguese settlers recognised naming as a means of establishing power, but viewed 
+Portuguese settlers recognised naming as a means of establishing power, but viewed
 it
 6:37
 as an oppressive form of colonialism.
 6:40
-English rulers disparaged naming as a legitimate claim, with the ironic result of 
+English rulers disparaged naming as a legitimate claim, with the ironic result of
 retaining
 6:45
-a considerable number of indigenous names simply because naming was not pivotal to 
+a considerable number of indigenous names simply because naming was not pivotal to
 establishing
 6:51
 colonial authority."
 6:53
-Naming practices carry the weight of generations of cultural history, sense of 
+Naming practices carry the weight of generations of cultural history, sense of
 place, and right
 6:59
 to belong.
 7:00
 There is a political dimension to names.
 7:02
-By erasing the Indigenous legacy of a place, flora, or fauna by their name, 
+By erasing the Indigenous legacy of a place, flora, or fauna by their name,
 colonial powers
-## 
+##
 
 7:08
-are able to write out the native from the cartography, taxonomy, and topography of 
+are able to write out the native from the cartography, taxonomy, and topography of
 a
 7:12
 region.
 7:13
-There are, of course, exceptions, where Indigenous names have been somewhat 
+There are, of course, exceptions, where Indigenous names have been somewhat
 retained, such as
 7:27
 Lake Tanganyika and the islands of Jamaica and Sumatra.
 7:30
 However, it's important to note that even in those cases, what becomes the official
 7:35
-place name is determined by colonial powers, irrespective of the names that other 
+place name is determined by colonial powers, irrespective of the names that other
 Indigenous
 7:41
 peoples may have assigned those territories.
 7:43
-Take the Mississippi river for instance, the Choctaw called it Misha Sipokni and 
+Take the Mississippi river for instance, the Choctaw called it Misha Sipokni and
 the Wyandot
 7:49
-called it Yandawezue, but most only know it as Mississippi because the French said 
+called it Yandawezue, but most only know it as Mississippi because the French said
 so.
 7:56
-Acts of possession by colonial powers help assert control and legitimise their 
+Acts of possession by colonial powers help assert control and legitimise their
 theft.
 8:04
 The persistence of these names today serve as symbolic reminders of their continued
@@ -278,34 +277,34 @@ domination
 8:09
 of people and place.
 8:12
-Finally, acts of administration are the ways in which colonial powers manage their 
+Finally, acts of administration are the ways in which colonial powers manage their
 territories'
 8:17
 economically, politically, and socially.
 8:20
-Speaking generally, colonial rule brought colonies into a global market that would 
+Speaking generally, colonial rule brought colonies into a global market that would
 displace
 8:25
-existing subsistence, non-monetary, and gift economies and introduced the 
+existing subsistence, non-monetary, and gift economies and introduced the
 structural characteristics
 8:29
-of capitalism, including private ownership of the means of production for the sake 
+of capitalism, including private ownership of the means of production for the sake
 of
 8:32
-profit, price systems, and after the abolition of slavery and the end of 
+profit, price systems, and after the abolition of slavery and the end of
 indentureship, wage
 8:39
 labour.
 8:40
-Colonial governments superseded preexisting governance systems, which included 
+Colonial governments superseded preexisting governance systems, which included
 hierarchical
 8:45
-and horizontal arrangements alike, in favour of the indirect and disenfranchised 
+and horizontal arrangements alike, in favour of the indirect and disenfranchised
 models
 8:49
 of governance that dominated the colonial period.
 8:53
-## 
+##
 Even post-universal suffrage, the people were still deprived of meaningful access to the
 
 ## 8:57
@@ -516,7 +515,6 @@ ensure that everyone has access to the means of subsistence and production neces
 
 toward
 
-
 17:46
 liberatory ends, punctuated by major ruptures and advances.
 17:52
@@ -530,12 +528,12 @@ practices in the here-and-now.
 18:07
 All of these acts of decolonisation must occur concurrently.
 18:11
-Landback without symbolic decolonisation would mean maintaining the signifiers of 
+Landback without symbolic decolonisation would mean maintaining the signifiers of
 colonial
 18:16
 possession and domination even after we've escaped their grip.
 18:20
-Symbolic decolonisation without social revolution would just change the appearance 
+Symbolic decolonisation without social revolution would just change the appearance
 of our situation
 18:25
 on the surface, but not the deeper relationships, institutions, and systems defined
@@ -546,7 +544,7 @@ powers.
 Decolonisation entails a process of deconstruction and a process of reconstruction,
 particularly
 18:39
-of the ways we relate with one another socially, politically, economically, 
+of the ways we relate with one another socially, politically, economically,
 culturally, and
 18:45
 spatially.
@@ -558,7 +556,7 @@ the future.
 18:53
 It takes the knowledge, experience, and input of all of us.
 18:57
-I struggled a lot with writing this video because it's difficult to not have a 
+I struggled a lot with writing this video because it's difficult to not have a
 discussion
 19:02
 about decolonisation feel incomplete.

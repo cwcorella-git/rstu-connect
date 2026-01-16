@@ -17,7 +17,7 @@ There are a lot of obvious things you can say about Buffy. In the show’s first
 
 The show’s anti-authoritarianism runs throughout. If the series has an ultimate message for the youth of America, it is that whatever instinctual revulsion you might feel toward those who claim to be your betters is not only justified–but things are likely far worse than you could possibly imagine. Ever think of your friend’s mother, who constantly pushes her into cheerleading competitions, as a witch? She is. Ever suspect the swim coach would do anything to win that championship? You’re right. He would. That the traditional family-values guy courting your divorced mother is some kind of robot, or a sex-crazed killer? He’s both. That your sadistic principal is a repressed Nazi child-molester? Well… we don’t have the full story on him yet, but it’s probably at least that bad.
 
-> 
+>
 Giles: It’s a reliquary. Used to house items of religious significance. Most commonly a finger or some other body part from a saint.
 
 Buffy: Note to self. Religion: creepy.
@@ -30,7 +30,7 @@ Traditional vampire movies are a variation. In a way, they are ultimately about 
 
 Yet Buffy not only avoids such sadistic pleasures, it openly mocks the underlying morality:
 
-> 
+>
 Buffy: (Trying to bluff her way into a fundamentalist church) You know, I just… I woke up and I looked in the mirror and I thought, hey! What’s with all this sin? I need to change! I’m… I’m dirty. I’m… Bad, with the sex, and the envy and that loud music us kids listen to nowadays. (Blank stares.) (Sigh.) Oh, I just **** at undercover. Where’s Ken? (Kicks down door.)
 
 In fact, its moral premise is precisely the opposite. Vampire-slaying has to be kept secret. As a result, almost everyone in Sunnydale believes Buffy and company are juvenile delinquents: violent, lazy, irresponsible, disobedient. Bad. In reality, they are almost unimaginably self-sacrificing and good. In this sense, Buffy is a kind of anti-horror.

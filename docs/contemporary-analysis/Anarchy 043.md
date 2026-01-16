@@ -91,7 +91,7 @@ The Welfare Clinics seem to be able to combine courtesy and efficiency and achie
 
 In my own area, London, which has had a pioneering, enlightened
 
-*CHARLOTTE FRANKLIN lives in North London and has four boys who have experienced a variety of schools.* 
+*CHARLOTTE FRANKLIN lives in North London and has four boys who have experienced a variety of schools.*
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -293,7 +293,7 @@ Schools create life and death pressure to succeed, but to succeed into what. Hig
 
 We dull them in an incubation period so they won't know what the world is really about. They get reward for falseness in testing instead of truth. The truth of the matter is they really don't understand, can't possibly understand most of what they are writing or reading, or getting tested on. But they have to find tricks for studying to get a good grade. To get a good grade things have to be done superficially so everything that is required can be finished on time. A trick for doing things you don't like to do as well as what you do like thereby dulling your true feelings. There is no energy left for what you really want to do therefore setting a pattern for all your life. It leads to a subtle feeling of guilt if you're really are having a good time at something.
 
-*JANICE GREER and PEG BLOSSOM have been trying to interest other parents in the Chicago area to start a school, perhaps on the model of Summerhill.* 
+*JANICE GREER and PEG BLOSSOM have been trying to interest other parents in the Chicago area to start a school, perhaps on the model of Summerhill.*
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––
 

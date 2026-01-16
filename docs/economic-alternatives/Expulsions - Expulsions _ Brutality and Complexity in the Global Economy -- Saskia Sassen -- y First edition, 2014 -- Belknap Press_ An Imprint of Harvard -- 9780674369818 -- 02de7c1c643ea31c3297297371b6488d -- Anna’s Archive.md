@@ -1803,11 +1803,11 @@ In 2000, Nestlé's Ice Mountain Spring Water was granted a permit to pump about 
 
 Here follow a few cases involving what is one of the most global of companies.
 
-#### 
+####
 
 The Serra da Mantiqueira region of Brazil is famous for its Circuito das Aguas, springs with high mineral content thought to have medicinal properties. It is also the source of Nestlé's Pure Life water brand. After Nestlé set up production in the late 1990s, overpumping led to the drying up of local springs. Residents led suit in 2001 and were able to stop Nestlé from extracting more water in 2006, because demineralization is illegal under Brazilian law. Nestlé's actions, however, will continue to affect the quality of water in the region for a long time to come, as it took hundreds of years of exposure to rock aquifers for the water Nestlé has taken to become highly mineralized. Corporate Watch reports that it now seems that Nestlé has exhausted the supply of the locally prized mineral water.54
 
-#### 
+####
 
 Nestlé Waters Canada and its precursors, Aberfoyle Springs and Aberfoyle Fisheries, have had a permit to take water from a well on property located in the village of Aberfoyle in the Guelph region since 1984. Nestlé submitted an application for a ve- year renewal of the current water taking, without an increase in either rate or amount, to Ontario's Ministry of the Environment on March 30, 2007. Nestlé pumps 3.6 million liters of water a day from the local sub- watershed. This triggered controversy, as the city of Guelph was at the time asking its citizens to conserve water. But the permit was renewed. The reason was lack of evidence that the water extraction was harmful; however, no tests were conducted to determine the extent of damage.55
 

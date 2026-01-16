@@ -197,9 +197,6 @@ This checklist covers manual browser-based testing of the server-authoritative f
 3.
 
 **Comments:**
-
-
-
 ---
 
 ## Quick Reference Commands

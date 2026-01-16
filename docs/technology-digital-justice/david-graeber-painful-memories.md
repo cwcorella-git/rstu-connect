@@ -21,7 +21,7 @@ The experience of slavery could not be directly told, as history, if only becaus
 
 From around 1820 to sometime around 1850, hundreds of thousands of people were taken prisoner by Merina military expeditions and carried back to the central highlands of Imerina. The Merina kingdom’s army, armed and trained by its British allies, made common practice of massacring all the adult males of ‘rebel’ villages, and carrying off everybody else to be sold as slaves. Sometime around 1855, Queen Ranavalona I’s secretary Raombana wrote of these campaigns:
 
-> 
+>
 As to the miseries which these continual wars brought to the provincial people, that is indescribable, for by fighting, but more deceit, that is, the offer of life and pardon if they yield and submit, thousands and thousands have thus been murdered in cold blood, and their numerous wives, children and cattle seized and reduced to slavery.
 
 Mothers are separated from their tender offspring and other relations, as they are divided and distributed amongst different masters, and are thus taken into different parts of the country where they never discover one another again, with very few exceptions.
@@ -62,7 +62,6 @@ Actually, Nety had previously wondered whether Razanamavo would be willing to ta
 
 Razanamavo had an oddly distant manner of speaking, somehow absent; she crouched wrapped in a yellow cloth staring off into the courtyard as she talked, as if looking at something far away, or perhaps nothing at all, and never once gazed at the other people in the room, even when she was more or less speaking to them. In part she was probably exhausted from an afternoon at work; but her manner seemed to complement the content of her discourse, which was much more evocative and dreamy than the usual, matter-of-fact style of historical narration. After telling her story, and answering a few of Nety’s questions about her relatives, she seemed to just fade away, staring off as if so lost in thought that she didn’t even notice anyone was talking to her, until after a little while, we gave up and started talking about something else.
 
-
 *Razanamavo’.* He, you know—our grandmother said that when he was about to die, he said: ‘I am about to die now, so take me to the north of the village, to the dam. And as for me’ he said, ‘don’t bury me in a tomb but just release me in the current of the river. And get a *lamba arin-drano* [10] he said, ‘like you would for burying a son-in-law.’
 
 And they said: ‘maybe we won’t put you in the river, because we’d be embarrassed.’
@@ -78,7 +77,6 @@ But they didn’t do it. They just buried him normally and left him there.
 ‘If you do this thing, then a great blessing will come to you.’ Then the water flooded... he was dead. ‘I don’t like *lambammd* he said, ‘but *lamba arin-drano*, and...’ those were to be the mourning clothes. ‘So your children will never become poor, nor the generations of your descendants to come ...’ This is something they all dreamed, all of them absolutely. But we didn’t get the blessing because we didn’t do it. They put him in the center of the top shelf to the north of the tomb, and he still hasn’t been moved to this day.
 
 Once, there were a good number of descendants, but there are few left any more.[11]
-
 
 She too told how he had moved from the pool to the east of the village to the one near Antandrokomby. She wasn’t sure where he had gone after that, but she suspected he had finally returned to his original home in Betsileo.
 
@@ -104,9 +102,7 @@ I heard a lot of speculation about the origin of such ghosts. One medium from Ar
 
 Many refused to even speculate. The important thing about Vazimba, Armand’s brother Germain once told me, is that you don’t know what they are or where they come from. They are by definition mysterious, invisible, a kind of unknown power:
 
-
 *Germain*: Vazimba are a kind of thing that isn’t seen. They don’t show their bodies like, say, people do, or the divine spirits who possess mediums and cure people. If you carry pork to a place where one is, then that night, as soon as you kill the light you look and there’s this hand moving towards you. As soon as you light the candle again, it’s gone. Or, say you’re washing your face in you don’t know what... and likely as not your face will swell up hugely like this, and it absolutely won’t go away until you bum incense over it. You take it to someone who will make offerings, and then you’re cured. But that’s all you know—you have absolutely no idea what was in the water.[18]
-
 
 As this quote makes clear, when people thought about Vazimba, it was usually not as a matter for abstract historical speculation but as one of immediate practical concern. One discovered that a place was haunted by Vazimba because someone had taken ill. A child playing in the fields had drunk some water from a reedy pool, or taken fishes that they shouldn’t have, or they had been tending pigs or taking some other polluting substance to the place where a Vazimba was. Such children would often fall into a fever, or parts of their body would swell up; usually, they would be tormented by dreams or apparitions. Vazimba were normally invisible; when they did appear, it was almost always in the nightmare visions of an adolescent or a child. Normally they appear either as horribly mutilated—fingerless, noseless—reaching out to snatch the children, or else, especially with older children as extremely attractive members of the opposite sex, trying to lure them into their watery domains. The ritual for expelling Vazimba was similar to rituals for expelling hostile ghosts: the curer would burn things, there would be incense, smoke. But one would usually also leave offerings at the place, almost exactly those one would give to ancestors at *famadihana:* rum or honey, candies, ginger, suet, bananas, bread. If nothing else, these rituals would ‘clean’ the place of the pollution that had offended the creature and made it ‘fierce,’ to soothe it, placate it, and at the same time, ensure it remained confined there.[19]
 
@@ -146,9 +142,7 @@ To understand the story of Rainitaba, though, one has to understand something ab
 
 *Fanany* are striking-looking snakes, easily identifiable because of their coloration, which is said to resemble that of a *lamba arin-drano*, with bands of white, orange, and black. But they are rarely sighted on dry land.
 
-
 When one of these is found the people assemble and ask it if it is the *fangany* of So-and-so, mentioning in succession the names of the various chiefs who are dead; and the animal is asserted to nod its head when the right name is mentioned. The relatives of the man at whose name the beast moves its head then take possession of it by inducing it to wriggle on to a clean *lamba,* by which it is carried to the former residence of the dead man. Oxen are killed, feasting commences, and a scene similar to that at a funeral ensues. A little of the blood is presented to the *fangany,* after which it is set free in the neighborhood of the chief’s grave (Shaw 1878: 411).
-
 
 While this was a 19th century Betsileo custom restricted to royalty, just about everyone I spoke to in 20th century Imerina had heard of it. Certainly, all *olona mainty.* Almost all of them though were under the impression that this was something that can happen spontaneously to anyone from Betsileo.
 
@@ -156,17 +150,13 @@ The way I usually heard the story was this: should a *fanany* happen to appear i
 
 Here are two different stories I heard from old men from Betafo, stories about Betsileo wage laborers which both seem to date back to around the 1920s[26]—well before the massive migrations of the 1950s and ’60s. One was told me by the catechist from the village of Amba-ribe, in the far west of Betafo’s territory. His uncle, he explained to me, had once employed an ancient Betsileo cattleherd, who was also a medium,[27] and his great-uncle had also once employed him to catch a Vazimba and move it into a nearby moat—which he did, trapping the spirit in a giant *sobika* basket. Later the medium himself grew sick and was about to die.
 
-
 *Ramena*: However, when he was about to die—and he was very old—he wouldn’t let them wrap him in a *lambamena*, or bind him. They put him in the bottom of a *sobika*, and covered it up with earth. Three days later, when they looked again, sure enough he wasn’t in there any more. The hole was wide open.[28]
 
-
 The refusal of proper shrouds of course echoes the story of Rainitaba, as does the disappearing body. But Ramena leaves the rest ambiguous. An old man from Andrianony told me a much more explicit story about a Betsileo laborer who turned into a *fanany*:
-
 
 *Ramwao:* It was a long time ago, back when they used to drive cattle over the rice fields instead of harrowing them. And there was a hireling of Rakotomanga’s, who lived in Antanety. He was Betsileo. The man had been hired to harvest rice, but he got sick and died while he was working in the fields. So they buried the Betsileo in the ground above the rice field. After he’d been in there for a year, he came out as a *fanany.* Came out as an animal.
 
 And having come out as an animal, he went up to Rakotomanga’s house. And they said ‘What?’ And they said: ‘Are you what’s left of So-and-so?’ The creature nodded his head. They gave it rice. The creature ate the rice (they say it was really huge, but I didn’t see it with my own eyes) and after a while, they told it ‘if this is truly you who are here before us, then leave us and go home. Go back to your ancestral lands.’ When the creature had its fill of rice, it headed off. And when it had arrived there, then the man had a dream where it told him ‘I have arrived at my ancestral lands.’[29]
-
 
 Such stories—about isolated Betsileo workers—already overlap with ideas about lost travelers who die away from home and become Vazimba. But in this case, transformation contains the possibility of resolution; a number of people told me that Betsileo who happen to die and are buried far from home will almost always turn into serpents and go home.
 
@@ -236,10 +226,10 @@ I should thank Bruce Applebaum, Jennifer Cole, Jean Comaroff, Nhu Thi Le, Stuart
 
 [10] A kind of silk cloth from Betsileo, marked by bands of bright color set between black and white stripes, worn during Betsileo funerals, but also on festive occasions.
 
-[11] MV: *Izy manko efa ho faty izy, hoy ig>izany Hay renibenay, iizaho izao efa ho faty3 hoy izy, tsy maintsy tonga aty auaratanana io, an-baragp io. Dia izaho hoy izy aza alevina ampasana fa alefasao hanarafy an3io renirano io. Dia hovidiana lamba arin-drano hoy izy, ohatra an’ilay alevina vinanto-lahy izany, dia hoe ‘angamba tsy rumdefany an’iny renirano iny*, *fa menatr’olona izahay. ‘A-an, tsy menatra ianareo hoy izy io, fa hahita fahasoavina be ianareo raha vitanareo izay.’ Dia tsy nanao izy’, fa nalevina ihany dia izoy lasa izoy.* 
- *?: Rainitaba io?* 
- MV: *I-e, lavaka kely ohatra an’izao no nilevenany, tsisy fasana miditra eo, amin3ny atsi-nanana. Dia nanao an’anona hamadika an’ilay olona dia nitady lamba dia nijanona tsara Hay lamba. Izy naka.* 
- *Raha vitanareo iny zovatra iny dia ho any aminareo fahasoavina be. Dia nitondraka ny rano—maty izy. ‘Izaho tsy tia lambamena, 3 hoy izy, fa lamba arindrano, dia*.... *Ireny ilay lamba jisaona ireny izany.* 
+[11] MV: *Izy manko efa ho faty izy, hoy ig>izany Hay renibenay, iizaho izao efa ho faty3 hoy izy, tsy maintsy tonga aty auaratanana io, an-baragp io. Dia izaho hoy izy aza alevina ampasana fa alefasao hanarafy an3io renirano io. Dia hovidiana lamba arin-drano hoy izy, ohatra an’ilay alevina vinanto-lahy izany, dia hoe ‘angamba tsy rumdefany an’iny renirano iny*, *fa menatr’olona izahay. ‘A-an, tsy menatra ianareo hoy izy io, fa hahita fahasoavina be ianareo raha vitanareo izay.’ Dia tsy nanao izy’, fa nalevina ihany dia izoy lasa izoy.*
+ *?: Rainitaba io?*
+ MV: *I-e, lavaka kely ohatra an’izao no nilevenany, tsisy fasana miditra eo, amin3ny atsi-nanana. Dia nanao an’anona hamadika an’ilay olona dia nitady lamba dia nijanona tsara Hay lamba. Izy naka.*
+ *Raha vitanareo iny zovatra iny dia ho any aminareo fahasoavina be. Dia nitondraka ny rano—maty izy. ‘Izaho tsy tia lambamena, 3 hoy izy, fa lamba arindrano, dia*.... *Ireny ilay lamba jisaona ireny izany.*
  *Fa tsy manjaiy mahantra ny zanakareo, olona farana mandimby sy ny olona any ivelany izy. Zavatra efa vao tsiryony daholo daholo mihitsy. Fa tsy nahazo fahasoavina izahay fa tsy nanao. Apetraka amin3ny avaratra indrindra amin3ny afovoany sy mbola tsy qftndra hatra-min’izao. Taloha, taranany betsaka ihany fa efa vitsy izy izao.*
 
 [12] When she died in 1913 this land was estimated to be worth about 152 francs; actually somewhat above the average legacy for Betafo as a whole. (Though this might simply be because none of the land had been parceled out in advance among her sons.) Her husband, who had died in 1912, appears to have left no property at all to his descendants, which is apparently the reason he has been entirely forgotten.
@@ -280,11 +270,10 @@ I should thank Bruce Applebaum, Jennifer Cole, Jean Comaroff, Nhu Thi Le, Stuart
 
 [30] In fact, the word for ‘history,’ *tantara*, could be used to mean ‘privilege’ as well.
 
-[31] Though almost all these ancient hamlets had long since been abandoned, the slaves on liberation having moved further up the hills. 
+[31] Though almost all these ancient hamlets had long since been abandoned, the slaves on liberation having moved further up the hills.
  The almost ritualized invocation of Betsileo origins might also be interpreted as serving as a kind of authorization to speak. In many rural communities I found that even old Merina men would push the descendants of Betsileo migrants forward to tell me local histories, despite the fact they had been bom elsewhere, just on the basis of their greater ability to talk.
 
 ### *Bibliography*
-
 
 Abinal, A.
 

@@ -25,9 +25,6 @@ A general strike was called across Italy by several base unions including SI Cob
 In Piacenza, over a thousand workers gathered to blockade an Amazon warehouse:
 
 Grève de la logistique en Italie ! A l'appel des syndicats de base (Si Cobas), l'ensemble du secteur est mobilisé, particulièrement dans le nord du pays. Depuis ce matin, la plateforme Amazon de Piacenza est encerclée et bloquée par plus d'un millier d'ouvriers...pic.twitter.com/kU4NO2qap0— David Gab (@David Gab\_)October 11, 2021
-
-https://www.facebook.com/watch/?v=337412214848365
-
 Meanwhile, in Prato, a picket against the Dreamland textile company was violently attacked, leading to four strikers being hospitalised:
 
 Italy — Striking workers were attacked yesterday by baseball bat-wielding thugs at a picket organised by the#Si Cobastrade union in Prato, near Florence.https://t.co/Sgk Lgf CibP—ANPI Scuola - Brescia (@ANPI\_Scuola)October 12, 2021

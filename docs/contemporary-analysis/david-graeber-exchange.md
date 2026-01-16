@@ -11,7 +11,7 @@ We commonly speak of people “exchanging insults” or “exchanging addresses.
 
 When we use the term in the abstract, however, we are usually talking about economic transactions, the kind regulated, for example, by the Securities and Exchange Commission. Here is the definition on one Wall Street Web page:
 
-> 
+>
 
 Exchange: to provide goods and services and receive goods or services of approximately equal value in return; here, also called barter.[1]
 
@@ -138,7 +138,6 @@ The second theme is the intimate relations between media of exchange, and visual
 [7] The myth of barter and commodity theories of money were of course developed precisely in this period.
 
 ### References and Suggested Readings
-
 
 Arrighi, Giovanni. 1994. *The Long Twentieth Century: Money, Power, and the Origins of Our Times*. London: Verso.
 

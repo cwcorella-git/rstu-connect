@@ -1780,5 +1780,5 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
              Whatever you choose, remain an active and engaged member. Together, we
            can address our shortcomings as an organization and herald a new age of
            revolutionary unionism that brings capital to its knees once and for all.
-           Retrieved on 2025-09-23 from 
+           Retrieved on 2025-09-23 from
 37 of 37 10/11/25, 1:03 PM

@@ -26,7 +26,6 @@ It was plausible, but I didn’t really know. In a way, I wrote the piece as a k
 
 This is what I wrote for the August 2013 issue:
 
-
 **On the Phenomenon of Bullshit Jobs**
 
 In the year 1930, John Maynard Keynes predicted that, by century’s end, technology would have advanced sufficiently that countries like Great Britain or the United States would have achieved a fifteen-hour work week. There’s every reason to believe he was right. In technological terms, we are quite capable of this. And yet it didn’t happen. Instead, technology has been marshaled, if anything, to figure out ways to make us all work more. In order to achieve this, jobs have had to be created that are, effectively, pointless. Huge swathes of people, in Europe and North America in particular, spend their entire working lives performing tasks they secretly believe do not really need to be performed. The moral and spiritual damage that comes from this situation is profound. It is a scar across our collective soul. Yet virtually no one talks about it.
@@ -60,7 +59,6 @@ This is a profound psychological violence here. How can one even begin to speak 
 Even more perverse, there seems to be a broad sense that this is the way things should be. This is one of the secret strengths of right-wing populism. You can see it when tabloids whip up resentment against tube workers for paralyzing London during contract disputes: the very fact that tube workers can paralyze London shows that their work is actually necessary, but this seems to be precisely what annoys people. It’s even clearer in the United States, where Republicans have had remarkable success mobilizing resentment against schoolteachers and autoworkers (and not, significantly, against the school administrators or auto industry executives who actually cause the problems) for their supposedly bloated wages and benefits. It’s as if they are being told “But you get to teach children! Or make cars! You get to have real jobs! And on top of that, you have the nerve to also expect middle-class pensions and health care?”
 
 If someone had designed a work regime perfectly suited to maintaining the power of finance capital, it’s hard to see how he or she could have done a better job. Real, productive workers are relentlessly squeezed and exploited. The remainder are divided between a terrorized stratum of the universally reviled unemployed and a larger stratum who are basically paid to do nothing, in positions designed to make them identify with the perspectives and sensibilities of the ruling class (managers, administrators, etc.)—and particularly its financial avatars—but, at the same time, foster a simmering resentment against anyone whose work has clear and undeniable social value. Clearly, the system was never consciously designed. It emerged from almost a century of trial and error. But it is the only explanation for why, despite our technological capacities, we are not all working three- to four-hour days.
-
 
 If ever an essay’s hypothesis was confirmed by its reception, this was it. “On the Phenomenon of Bullshit Jobs” produced an explosion.
 
@@ -282,7 +280,7 @@ I will return to this dynamic in the next chapter when we examine the role of fl
 
 Finally, the hairdressers. I’m afraid to say that Douglas Adams has a lot to answer for here. Sometimes it seemed to me that whenever I would propose the notion that a large percentage of the work being done in our society was unnecessary, some man (it was always a man) would pop up and say, “Oh, yes, you mean, like, hairdressers?” Then he would usually make it clear that he was referring to Douglas Adams’s sci-fi comedic novel *The Restaurant at the End of the Universe*, in which the leaders of a planet called Golgafrincham decide to rid themselves of their most useless inhabitants by claiming, falsely, that the planet is about to be destroyed. To deal with the crisis they create an “Ark Fleet” of three ships, A, B, and C, the first to contain the creative third of the population, the last to include blue-collar workers, and the middle one to contain the useless remainder. All are to be placed in suspended animation and sent to a new world; except that only the B ship is actually built and it is sent on a collision course with the sun. The book’s heroes accidentally find themselves on Ship B, investigating a hall full of millions of space sarcophagi, full of such useless people whom they initially assume to be dead. One begins reading off the plaques next to each sarcophagus:
 
-> 
+>
 “It says ‘Golgafrincham Ark Fleet, Ship B, Hold Seven, Telephone Sanitizer, Second Class’—and a serial number.”
 
 “A telephone sanitizer?” said Arthur. “A dead telephone sanitizer?”
@@ -441,12 +439,12 @@ So, what might the modern equivalent be?
 
 Some old-fashioned feudal-style retainer jobs still do exist.[46] Doormen are the most obvious example. They perform the same function in the houses of the very rich that electronic intercoms have performed for everyone else since at least the 1950s. One former concierge complains:
 
-> 
+>
 Bill: Another bullshit job—concierge in one of these buildings. Half my time was spent pressing a button to open the front door for residents and saying hello as they passed through the lobby. If I didn’t get to that button in time and a resident had to open the door manually, I’d hear about it from my manager.
 
 In some countries, such as Brazil, such buildings still have uniformed elevator operators whose entire job is to push the button for you. There is a continuum from explicit feudal leftovers of this type to receptionists and front-desk personnel at places that obviously don’t need them.
 
-> 
+>
 Gerte: In 2010 I worked as a receptionist at a Dutch publishing company. The phone rang maybe once a day, so I was given a couple of other tasks:
 
  -~~Keep candy dish full of mints. (Mints were supplied by someone else at the company; I just had to take a handful out of a drawer next to the candy dish and put them in the candy dish.)
@@ -459,7 +457,7 @@ Clearly, one call a day could be handled by someone else at the press in the sam
 
 Receptionists are required as a Badge of Seriousness even if there’s nothing else for them to do. Other flunkies are Badges of Importance. The following account is from Jack, who was hired as a cold caller in a low-level securities trading firm. Such firms, he explains, “operate by stolen corporate directories: internal company phonebooks that some enterprising individual has stolen a physical copy of and then sold to various firms.” Brokers then call upper-level employees of the companies and try to pitch them stocks.
 
-> 
+>
 Jack: My job, as a cold caller, was to call these people. Not to try to sell them stocks, but rather, to offer “free research material on a promising company that is about to go public,” emphasizing that I was calling on behalf of a broker. That last point was especially stressed to me during my training. The reasoning behind this was that the brokers themselves would seem, to the potential client, to be more capable and professional if they were so damn busy making money that they needed an assistant to make this call for them. There was literally no other purpose to this job than to make my neighbor the broker appear to be more successful than he actually was.
 
 I was paid two hundred dollars per week, cash, literally from the broker’s wallet, for making him look like a high roller. But this didn’t just make for social capital for the broker with regards to his clients; in the office itself, being a broker with your own cold caller was a status symbol, and an important one in such a hypermasculine, hypercompetitive office environment. I was some kind of totem figure for him. Owning me could mean the difference between his getting a meeting with a visiting regional head or not; but for the most part, it just put him on a slightly higher rung on the social ladder of the workplace.
@@ -470,7 +468,7 @@ This is the very definition of a flunky job.
 
 The pettiness of the game here—even in the 1990s, $200 was not a lot of money—helps lay bare dynamics that might express themselves in more opaque ways in larger and more complex corporate environments. There we often find cases where no one is entirely sure how or why certain positions were invented and maintained. Here is Ophelia, who works for an organization that runs social marketing campaigns:
 
-> 
+>
 Ophelia: My current job title is Portfolio Coordinator, and everyone always asks what that means, or what it is I actually do? I have no idea. I’m still trying to figure it out. My job description says all sorts of stuff about facilitating relationships between partners, etc., which as far as I’m concerned, just means answering occasional queries.
 
 It has occurred to me that my actual title refers to a bullshit job. However, the reality of my working life is functioning as a Personal Assistant to the Director. And in that role, I do have actual work tasks that need doing, simply because the people I assist are either too “busy” or too important to do this stuff themselves. In fact, most of the time, I seem to be the only one at my workplace who has something to do. Some days I run around frantically, whilst most of the midlevel managers sit around and stare at a wall, seemingly bored to death and just trying to kill time doing pointless things (like that one guy who rearranges his backpack for a half hour every day).
@@ -479,12 +477,12 @@ Obviously, there isn’t enough work to keep most of us occupied, but—in a wei
 
 Ophelia suspects her job was originally just an empty place filler, created so that someone could boast about the number of employees he had working under him. But once it was created, a perverse dynamic began to set in, whereby managers off-loaded more and more of their responsibilities onto the lowest-ranking female subordinate (her) to give the impression that they were too busy to do such things themselves, leading, of course, to their having even less to do than previously—a spiral culminating in the apparently bizarre decision to hire another manager to stare at the wall or play Pokémon all day, just because hiring him would make it look like that was not what everyone else was doing. Ophelia ends up sometimes working frenetically; in part because the few necessary tasks (handed off to her) are augmented with completely made-up responsibilities designed to keep low-level staff bustling:
 
-> 
+>
 Ophelia: We are divided between two organizations and two buildings. If my boss (the boss of the whole place, in fact) goes to the other building, I have to fill in a form to book a room for her. Every time. It is absolute insanity, but it certainly keeps the receptionist over there very busy and therefore, indispensable. It also makes her appear very organized, juggling and filing all this paperwork. It occurs to me that this is what they really mean in job ads when they say that they expect you to make office procedures more efficient: that you create more bureaucracy to fill the time.
 
 Ophelia’s example highlights a common ambiguity: Whose job is really bullshit, that of the flunky? Or the boss? Sometimes, as we’ve seen with Jack, it’s clearly the former—the flunky really does only exist to make his or her immediate superior look or feel important. In cases like that, no one minds if the flunky does absolutely nothing:
 
-> 
+>
 Steve: I just graduated, and my new “job” basically consists of my boss forwarding emails to me with the message “Steve refer to the below,” and I reply that the email is inconsequential or straight-up spam.
 
 In other cases, as with Ophelia, the flunkies end up effectively doing the bosses’ jobs for them. This, of course, was the traditional role of female secretaries (now relabeled “administrative assistants”) working for male executives during most of the twentieth century: while in theory secretaries were there just to answer the phone, take dictation, and do some light filing, in fact, they often ended up doing 80 percent to 90 percent of their bosses’ jobs, and sometimes, 100 percent of its nonbullshit aspects. It would be fascinating—though probably impossible—to write a history of books, designs, plans, and documents attributed to famous men that were actually written by their secretaries.[48]
@@ -493,7 +491,7 @@ So, in such cases, who has the bullshit job?
 
 Here again, I think we are forced to fall back on the subjective element. The middle manager in Ophelia’s office reorganizing his backpack for a half hour every day may or may not have been willing to admit his job was pointless, but those hired just to make someone like him seem important almost invariably know it and resent it—even when it doesn’t involve making up unnecessary busywork:
 
-> 
+>
 Judy: The only full-time job I ever had—in Human Resources in a private sector engineering firm—was wholly not necessary. It was there only because the HR Specialist was lazy and didn’t want to leave his desk. I was an HR Assistant. My job took, I shit you not, one hour a day—an hour and a half max. The other seven or so hours were spent playing *2048* or watching YouTube. Phone never rang, Data were entered in five minutes or less. I got paid to be bored. My boss could have easily done my job yet again—fucking lazy turd.
 
 ----
@@ -516,7 +514,7 @@ I have included goons as a category of bullshit job largely for this reason: bec
 
 The reason I thought the word “goon” appropriate is because in almost all cases, goons find their jobs objectionable not just because they feel they lack positive value but also because they see them as essentially manipulative and aggressive:
 
-> 
+>
 Tom: I work for a very large American-owned postproduction company based in London. There are parts of my job that have always been very enjoyable and fulfilling: I get to make cars fly, buildings explode, and dinosaurs attack alien spaceships for movie studios, providing entertainment for audiences worldwide.
 
 More recently, however, a growing percentage of our customers are advertising agencies. They bring us adverts for well-known branded products: shampoos, toothpastes, moisturizing creams, washing powders, etc., and we use visual effects trickery to make it seem like these products actually work.
@@ -527,7 +525,7 @@ I get paid £100,000 a year to do this.
 
 When I asked why he considered his job to be bullshit (as opposed to merely, say, evil), Tom replied:
 
-> 
+>
 Tom: I consider a worthwhile job to be one that fulfills a preexisting need, or creates a product or service that people hadn’t thought of, that somehow enhances and improves their lives. I believe we passed the point where most jobs were these type of jobs a long time ago. Supply has far outpaced demand in most industries, so now it is demand that is manufactured. My job is a combination of manufacturing demand and then exaggerating the usefulness of the products sold to fix it. In fact, you could argue that that is the job of every single person that works in or for the entire advertising industry. If we’re at the point where in order to sell products, you have to first of all trick people into thinking they need them, then I think you’d be hard-pressed to argue that these jobs aren’t bullshit.[50]
 
 In advertising, marketing, and publicity, discontent of this sort runs so high that there is even a magazine, *Adbusters*, produced entirely by workers in the industry who resent what they are made to do for a living and wish to use the powers they’ve acquired in advertising for good instead of evil—for instance, by designing flashy “subvertising” that attacks consumer culture as a whole.
@@ -552,7 +550,7 @@ So once again, what really irks is (1) the aggression and (2) the deception. Her
 
 Duct tapers are employees whose jobs exist only because of a glitch or fault in the organization; who are there to solve a problem that ought not to exist. I am adopting the term from the software industry, but I think it has more general applicability. One testimony from a software developer describes the industry like this:
 
-> 
+>
 Pablo: Basically, we have two kinds of jobs. One kind involves working on core technologies, solving hard and challenging problems, etc.
 
 The other one is taking a bunch of core technologies and applying some duct tape to make them work together.
@@ -565,13 +563,12 @@ Cleaning is a necessary function: things get dusty even if they just sit there, 
 
 The most obvious examples of duct tapers are underlings whose jobs are to undo the damage done by sloppy or incompetent superiors.
 
-> 
+>
 Magda: I once worked for an SME [a small or medium-size enterprise] where I was the “tester.” I was required to proofread research reports written by their posh star researcher-statistician.
 
 The man didn’t know the first thing about statistics, and he struggled to produce grammatically correct sentences. He tended to avoid using verbs. He was so bad, I’d reward myself with a cake if I found a coherent paragraph. I lost twelve pounds working in that company. My job was to convince him to undertake a major reworking of every report he produced. Of course, he would never agree to correct anything, let alone undertake a rework, so I would then have to take the report to the company directors. They were statistically illiterate too, but being the directors, they could drag things out even more.
 
 There is, it seems, a whole genre of jobs that involve correcting the damage done by a superior who holds his position for reasons unrelated to ability to do the work. (This overlaps somewhat with flunky positions where the jobholder has to do the superior’s work, but it’s not exactly the same thing.) Here’s another example, of a programmer who got a job for a firm run by a Viennese psychologist who fancied himself an old-style scientific revolutionary, and who had invented what was, in the company, referred to simply as “the algorithm.” The algorithm aimed to reproduce human speech. The company sold it to pharmacists to use on their websites. Except it didn’t work:
-
 
 Nouri: The company’s founding “genius” was this Viennese research psychologist, who claimed to have discovered the Algorithm. For many months, I was never allowed to see it. I just wrote stuff that used it.
 
@@ -586,7 +583,6 @@ The psychologist’s code kept failing to give sensible results. Typical cycle:
  - Triumphantly emerges with bug fix—now it’s perfect!
 
  - Go to step one.
-
 
 In the end, the programmer was reduced to writing very primitive Eliza scripts[51] to mimic speech for the Web pages just to cover up the fact that the Algorithm was basically gibberish, and the company, it turned out, was a pure vanity project run by a rented CEO who used to manage a gym.
 
@@ -614,7 +610,7 @@ I duly stacked the books, but the carpenter never reappeared. There ensued a ser
 
 I am using the term “box tickers” to refer to employees who exist only or primarily to allow an organization to be able to claim it is doing something that, in fact, it is not doing. The following testimony is from a woman hired to coordinate leisure activities in a care home:
 
-> 
+>
 Betsy: Most of my job was to interview residents and fill out a recreation form that listed their preferences. That form was then logged on a computer and promptly forgotten about forever. The paper form was also kept in a binder, for some reason. Completion of the forms was by far the most important part of my job in the eyes of my boss, and I would catch hell if I got behind on them. A lot of the time, I would complete a form for a short-term resident, and they would check out the next day. I threw away mountains of paper. The interviews mostly just annoyed the residents, as they knew it was just bullshit paperwork, and no one was going to care about their individual preferences.
 
 The most miserable thing about box-ticking jobs is that the employee is usually aware that not only does the box-ticking exercise do nothing toward accomplishing its ostensible purpose, it actually undermines it, since it diverts time and resources away from the purpose itself. So here Betsy was aware that the time she spent processing forms about how residents might wish to be entertained was time *not* spent entertaining them. She did manage to engage in some leisure activities with the residents (“Fortunately, I was able to play the piano for the residents every day before dinner, and that was a beautiful time, with singing, smiling, and tears”), but as so often in such situations, there was a sense that these moments were indulgences granted her as a reward for carrying out her primary duties, which consisted of the filling out and proper disposition of forms.[52]
@@ -623,7 +619,7 @@ We’re all familiar with box ticking as a form of government. If a government�
 
 The corporate compliance industry might be considered an intermediary form. It is explicitly created by (US) government regulation:
 
-> 
+>
 Layla: I work in a growing industry born out of the federal regulation the Foreign Corrupt Practices Act.
 
 Basically US companies have to do due diligence to make sure they aren’t doing business with corrupt overseas firms. Clients are big companies—tech, auto companies, etc.—who might have myriad smallish businesses they supply or work with in places like China (my region).
@@ -640,19 +636,19 @@ Eventually, after last-minute attempts to have her fill out a sheaf of late-appl
 
 This mentality seems to increase, not decrease, when government functions are reorganized to be more like a business, and citizens, for example, are redefined as “customers.” Mark is Senior Quality and Performance Officer in a local council in the United Kingdom:
 
-> 
+>
 Mark: Most of what I do—especially since moving away from frontline customer-facing roles—involves ticking boxes, pretending things are great to senior managers, and generally “feeding the beast” with meaningless numbers that give the illusion of control. None of which helps the citizens of that council in the slightest.
 
 I’ve heard an apocryphal story about a Chief Executive who turned on the fire alarm, so all the staff gathered in the car park. He then told all the employees who were with a customer when the alarm went off to return to the building immediately. The other employees could return when one of the people dealing with a customer needed them for something, and so on and so forth. If this had happened when I was at that council, I would have been in the car park for a very long time!
 
 Mark goes on to describe local government as little more than an endless sequence of box-ticking rituals revolving around monthly “target figures.” These were put up on posters in the office and coded green for “improving,” amber for “stable,” and red for “decline.” Supervisors appeared innocent even of the basic concept of random statistical variation—or at least, pretended to be—as each month, those with green-coded figures were rewarded, while those with red urged to do a better job. Almost none of this had any real bearing on providing services:
 
-> 
+>
 Mark: One project I worked on was to come up with some housing “service standards.” The project involved playing lip service to customers, and having long discussions with managers at meetings, before finally writing up a report that got praised (mainly because it was presented and laid out attractively) by managers in the meeting. The report then got filed away—making absolutely no difference to the residents but still somehow requiring many hours of staff time, not to mention all the hours the residents themselves spent filling in surveys or attending focus groups. In my experience, this is how most policy works in local government.[56]
 
 Note here the importance of the physical attractiveness of the report. This is a theme that comes up frequently in testimonies about box-ticking operations and even more so in the corporate sector than in government. If the ongoing importance of a manager is measured by how many people he has working under him, the immediate material manifestation of that manager’s power and prestige is the visual quality of his presentations and reports. The meetings in which such emblems are displayed might be considered the high rituals of the corporate world. And just as the retinues of a feudal lord might include servants whose only role[57] was to polish his horses’ armor or tweeze his mustache before tournaments or pageants, so may present-day executives keep employees whose sole purpose is to prepare their PowerPoint presentations or craft the maps, cartoons, photographs, or illustrations that accompany their reports. Many of these reports are nothing more than props in a Kabuki-like corporate theater—no one actually reads them all the way through.[58] But this doesn’t stop ambitious executives from cheerfully shelling out half a workman’s yearly wages of company money just to be able to say, “Ooh yes, we commissioned a report on that.”
 
-> 
+>
 Hannibal: I do digital consultancy for global pharmaceutical companies’ marketing departments. I often work with global PR agencies on this, and write reports with titles like *How to Improve Engagement Among Key Digital Health Care Stakeholders*. It is pure, unadulterated bullshit, and serves no purpose beyond ticking boxes for marketing departments. But it is very easy to charge a very large amount of money to write bullshit reports. I was recently able to charge around twelve thousand pounds to write a two-page report for a pharmaceutical client to present during a global strategy meeting. The report wasn’t used in the end because they didn’t manage to get to that agenda point during their allotted meeting time, but the team I wrote it for was very happy with it nonetheless.
 
 There are whole minor industries that exist just to facilitate such box-ticking gestures. I worked for some years for the Interlibrary Loan Office in the University of Chicago Science Library, and at least 90 percent of what people did there was photocopy and mail out articles from medical journals with titles such as the *Journal of Cell Biology*, *Clinical Endocrinology*, and the *American Journal of Internal Medicine*. (I was lucky. I did something else.) For the first few months, I was under the naïve impression that these articles were being sent to doctors. To the contrary, a bemused coworker eventually explained to me: the overwhelming majority were being sent to lawyers.[59] Apparently, if you are suing a doctor for malpractice, part of the show involves assembling an impressive pile of scientific papers to plunk down on the table at an appropriately theatrical moment and then enter into evidence. While everyone knows that no one will actually read these papers, there is always the possibility that the defense attorney or one of his expert witnesses might pick one up at random for inspection—so it is considered important to ensure your legal aides locate articles that can at least plausibly be said to bear in some way on the case.
@@ -669,7 +665,7 @@ As one might imagine, it is especially difficult to gather testimonies from task
 
 Ben represents a classic example of type 1. He is a middle manager:
 
-> 
+>
 Ben: I have a bullshit job, and it happens to be in middle management. Ten people work for me, but from what I can tell, they can all do the work without my oversight. My only function is to hand them work, which I suppose the people that actually generate the work could do themselves. (I will say that in a lot of cases, the work that is assigned is a product of other managers with bullshit jobs, which makes my job two levels of bullshit.)
 
 I just got promoted to this job, and I spend a lot of my time looking around and wondering what I’m supposed to be doing. As best I can tell, I’m supposed to be motivating the workers. I sort of doubt that I’m earning my salary doing that, even if I’m really trying!
@@ -678,7 +674,7 @@ Ben calculates that he spends at least 75 percent of his time allocating tasks a
 
 Being forced to supervise people who don’t need supervision is actually a fairly common complaint. Here, for instance, is the testimony of an Assistant Localization Manager named Alphonso:
 
-> 
+>
 Alphonso: My job is to oversee and coordinate a team of five translators. The problem with that is that the team is perfectly capable of managing itself: they are trained in all the tools they need to use and they can, of course, manage their time and tasks. So I normally act as a “task gatekeeper.” Requests come to me through Jira (a bureaucratic online tool for managing tasks), and I pass them on to the relevant person or persons. Other than that, I’m in charge of sending periodic reports to my manager, who, in turn, will incorporate them into “more important” reports to be sent to the CEO.
 
 This kind of combination of taskmastering and box ticking would appear to be the very essence of middle management.
@@ -695,21 +691,21 @@ Now, those of us toiling in the academic mills who still like to think of oursel
 
 According to Chloe’s testimony, this was exactly the case—though, if at first, not precisely for the reasons I imagined.
 
-> 
+>
 Chloe: The reason that my Dean’s role was a bullshit job is the same reason that all nonexecutive Deans, PVCs [Pro-Vice Chancellors], and other “strategic” roles in universities are bullshit jobs. The real roles of power and responsibility within a university trace the flow of money through the organization. An executive PVC or Dean (in other words, s/he who holds the budget) can cajole, coerce, encourage, bully, and negotiate with departments about what they can, ought, or might want to do, using the stick (or carrot) of money. Strategic Deans and other such roles have no carrots or sticks. They are nonexecutive. They hold no money, just (as was once described to me) “the power of persuasion and influence.”
 
 I did not sit on university leadership and so was not part of the bunfights about targets, overall strategy, performance measures, audits, etc. I had no budget. I had no authority over the buildings, the timetable, or any other operational matters. All I could do was come up with a new strategy that was in effect a re-spin of already agreed-upon university strategies.
 
 So her primary role was to come up with yet another strategic vision statement, of the kind that are regularly deployed to justify the number crunching and box ticking that has become so central to British academic life.[62] But since Chloe had no actual power, it was all meaningless shadow play. What she *did* get was what all high-level university administrators now receive as their primary badge of honor: her own tiny empire of administrative staff.
 
-> 
+>
 Chloe: I was given a 75% full-time equivalent Personal Assistant, a 75% full-time equivalent “Special Project and Policy Support Officer,” and a full-time postdoctoral Research Fellow, *plus* an “expenses” allowance of twenty thousand pounds. In other words, a shed-load of (public) money went into supporting a bullshit job. The Project and Policy Support Officer was there to help me with projects and policies. The PA was brilliant but ended up just being a glorified travel agent and diary secretary. The Research Fellow was a waste of time and money because I am a lone scholar and don’t actually need an assistant.
 
 So, I spent two years of my life making up work for myself and for other people.
 
 Actually, Chloe appears to have been a very generous boss. As she spent her own hours developing strategies she knew would be ignored, her Special Projects Officer “ran around doing timetable scenarios” and gathering useful statistics, the Personal Assistant kept her diary, and the Research Fellow spent her time working on her own personal research. This in itself seems perfectly innocent. At least none of them was doing any harm. Who knows, maybe the Research Fellow even ended up making an important contribution to human knowledge of her own. The truly disturbing thing about the whole arrangement, according to Chloe, was her ultimate realization that if she had been given real power, she probably *would* have done harm. Because after two years as Dean, she was unwise enough to accept a gig as head of her old department and was thus able see things from the other side—that is, before quitting six months later in horror and disgust:
 
-> 
+>
 Chloe: My very brief stint as Head of Department reminded me that at the very minimum, ninety percent of the role is bullshit: Filling out the forms that the Faculty Dean sends so that she can write her strategy documents that get sent up the chain of command. Producing a confetti of paperwork as part of the auditing and monitoring of research activities and teaching activities. Producing plan after plan after five-year plan justifying why departments need to have the money and staff they already have. Doing bloody annual appraisals that go into a drawer never to be looked at again. And, in order to get these tasks done, as HoD, you ask your staff to help out. Bullshit proliferation.
 
 So, what do I think? It is not capitalism per se that produces the bullshit.[63] It is managerialist ideologies put into practice in complex organizations. As managerialism embeds itself, you get entire cadres of academic staff whose job it is just to keep the managerialist plates spinning—strategies, performance targets, audits, reviews, appraisals, renewed strategies, etc., etc.—which happen in an almost wholly and entirely disconnected fashion from the real lifeblood of universities: teaching and education.
@@ -718,7 +714,7 @@ On this, I will leave Chloe the last word.
 
 Chloe at least was allocated her staff first and only then had to figure out how to keep them occupied. Tania, who had a series of taskmaster jobs in both the public and private sectors, provides us with an explanation of how entirely new bullshit positions can come about. This last testimony is unique because it explicitly incorporates the typology developed in this chapter. Toward the end of my research, I laid out my then nascent five-part division on Twitter, to encourage comments, amendments, or reactions. Tania felt the terms fit her experience well:
 
-> 
+>
 Tania: I might be a taskmaster in your taxonomy of BS jobs. I was one of two deputy directors of an administrative services office that handled HR, budget, grants, contracts, and travel for two bureaus with total resources of about $600 million and a thousand souls.
 
 At some point as a manager (or as a duct taper helping to fill functional gaps), you realize that you need to hire a new person to meet an organizational need. Most of the time, the needs I am trying to fill are either my own need for a box ticker or a duct taper, or the needs of other managers, sometimes to hire people for non-BS work or to hire their ration of goons and flunkies.
@@ -727,7 +723,7 @@ The reason I need duct tapers is usually because I have to compensate for poorly
 
 This last is important. Even in corporate environments, it is very difficult to remove an underling for incompetence if that underling has seniority and a long history of good performance reviews. As in government bureaucracies, the easiest way to deal with such people is often to “kick them upstairs”: promote them to a higher post, where they become somebody else’s problem. But Tania was already at the top of this particular hierarchy, so an incompetent would continue to be her problem even if kicked upstairs. She was left with two options. Either she could move the incompetent into a bullshit position where he had no meaningful responsibilities, or, if no such position was currently available, she could leave him in place and hire someone else to really do his job. But if you take the latter course, another problem arises: you can’t recruit someone for the incompetent’s job, since the incompetent already has that job. Instead, you have to make up a new job with an elaborate job description that you know to be bullshit, because, really, you’re hiring that person to do something else. Then you have to go through the motions of pretending the new person is ideally qualified to do the made-up job you don’t really want him or her to do. All this involves a great deal of work.
 
-> 
+>
 Tania: In organizations with structured job classifications and position descriptions, there has to be an established and classified job to which you can recruit someone. (This is a whole professional universe of BS jobs and boondogglery unto itself. It’s similar to the world of people who write grant proposals or contract bids.)
 
 So the creation of a BS job often involves creating a whole universe of BS narrative that documents the purpose and functions of the position as well as the qualifications required to successfully perform the job, while corresponding to the format and special bureaucratese prescribed by the Office of Personnel Management and my agency’s HR staff.
@@ -752,7 +748,7 @@ Consider Chloe the nonexecutive Dean. In a way, she, too, was a flunky, since he
 
 I received one testimony from a man who worked for a telemarketing company with a contract with a major IT firm. (Let’s say Apple. I don’t know if it was Apple. He didn’t tell me which one it was.) His job was to call up corporations and try to convince them to book a meeting with an Apple sales representative. The problem was that all of the firms they would call already had an Apple sales rep permanently attached to them, often working out of the same office. What’s more, they were perfectly aware of this.
 
-> 
+>
 Jim: I often asked my managers how they would convince prospects of the value of taking a meeting with a sales rep from our technology giant customer when they already had a sales rep from that same technology giant on their premises. Some were as hapless as I was, but the more effective managers patiently explained to me that I was missing the point: an appointment-setting call is a game of social niceties.
 
 Prospects don’t take a meeting because they think it might help solve a business problem; they take it because they fear it would be impolite not to.
@@ -765,7 +761,7 @@ The flak catcher is, of course, a familiar role in any bureaucracy. The man-whos
 
 Sometimes flak catchers are well aware of what they’re there for, as with Nathaniel, who signed up for a work-study program at a college in Canada, and was assigned to sit in the registrar’s office and call people to tell them that some form was filled out incorrectly and they’d have to do it all over again. (“Since all frontline workers were students, it kept the cap on how pissed off anyone could reasonably get. The first line you used when someone became agitated was, ‘Sorry, man, I know it’s BS. I am a student, too.’ ”) Other flak catchers seem touchingly innocent:
 
-> 
+>
 Tim: I work in a college dormitory during the summer. I have worked at this job for three years, and at this point, it is still completely unclear to me what my actual duties are.
 
 Primarily, it seems that my job consists of physically occupying space at the front desk. This is what I spend approximately seventy percent of my time doing. While engaged in this, I am free to “pursue my own projects,” which I take to mean mainly screwing around and creating rubber band balls out of rubber bands I find in the cabinets. When I am not busy with this, I might be checking the office email account (I have basically no training or administrative power, of course, so all I can do is forward these emails to my boss), moving packages from the door where they get dropped off to the package room, answering phone calls (again, I know nothing and rarely answer a question to the caller’s satisfaction), finding ketchup packets from 2005 in the desk drawers, or calling maintenance to report that a resident has dropped three forks down the garbage disposal, and now the sink is spewing decayed food.
@@ -882,7 +878,7 @@ One might be tempted to conclude from these responses that there is at least one
 
 ## Chapter 3: Why Do Those in Bullshit Jobs Regularly Report Themselves Unhappy? (On Spiritual Violence, Part 1)
 
-> 
+>
 Workplaces are fascist. They’re cults designed to eat your life; bosses hoard your minutes jealously like dragons hoard gold.
 
 —Nouri
@@ -899,7 +895,7 @@ In this chapter, I don’t just want to ask why people are so unhappy doing what
 
 I will begin with a story. The following is the tale of a young man named Eric, whose first experience of the world of work was of a job that proved absolutely, even comically, pointless.
 
-> 
+>
 Eric: I’ve had many, many awful jobs, but the one that was undoubtedly pure, liquid bullshit was my first “professional job” postgraduation, a dozen years ago. I was the first in my family to attend university, and due to a profound naïveté about the purpose of higher education, I somehow expected that it would open up vistas of hitherto-unforeseen opportunity.
 
 Instead, it offered graduate training schemes at PricewaterhouseCoopers, KPMG, etc. I preferred to sit on the dole for six months using my graduate library privileges to read French and Russian novels before the dole forced me to attend an interview which, sadly, led to a job.
@@ -908,29 +904,27 @@ That job involved working for a large design firm as its “Interface Administra
 
 Eric soon discovered that he was hired only because of a communication problem in the organization. In other words, he was a duct taper: the entire computer system was necessary only because the partners were unable to pick up the phone and coordinate with one another:
 
-> 
+>
 Eric: The firm was a partnership, with each office managed by one partner. All of them seem to have attended one of three private schools and the same design school (the Royal College of Art). Being unbelievably competitive fortysomething public schoolboys, they often tried to outcompete one another to win bids, and on more than one occasion, two different offices had found themselves arriving at the same client’s office to pitch work and having to hastily combine their bids in the parking lot of some dismal business park. The Interface was designed to make the company supercollaborative, across all of its offices, to ensure that this (and other myriad fuckups) didn’t happen again, and my job was to help develop it, run it, and sell it to the staff.
 
 The problem was, it soon became apparent that Eric wasn’t even really a duct taper. He was a box ticker: one partner had insisted on the project, and, rather than argue with him, the others pretended to agree. Then they did everything in their power to make sure it didn’t work.
 
-> 
+>
 Eric: I should have realized that this was one partner’s idea that no one else actually wanted to implement. Why else would they be paying a twenty-one-year-old history graduate with no IT experience to do this? They’d bought the cheapest software they could find, from a bunch of absolute crooks, so it was buggy, prone to crashing, and looked like a Windows 3.1 screen saver. The entire workforce was paranoid that it was designed to monitor their productivity, record their keystrokes, or flag that they were torrenting porn on the company internet, and so they wanted nothing to do with it. As I had absolutely no background in coding or software development, there was very little I could do to improve the thing, so I was basically tasked with selling and managing a badly functioning, unwanted turd. After a few months, I realized that there was very little for me to do at all most days, aside from answer a few queries from confused designers wanting to know how to upload a file, or search for someone’s email on the address book.
 
 The utter pointlessness of his situation soon led to subtle—and then, increasingly unsubtle—acts of rebellion:
 
-> 
+>
 Eric: I started arriving late and leaving early. I extended the company policy of “a pint on Friday lunchtime” into “pints every lunchtime.” I read novels at my desk. I went out for lunchtime walks that lasted three hours. I almost perfected my French reading ability, sitting with my shoes off with a copy of *Le Monde* and a Petit Robert. I tried to quit, and my boss offered me a £2,600 raise, which I reluctantly accepted. They needed me precisely because I didn’t have the skills to implement something that they didn’t want to implement, and they were willing to pay to keep me. (Perhaps one could paraphrase Marx’s *Economic and Philosophical Manuscripts of 1844* here: to forestall their fears of alienation from their own labor, they had to sacrifice me up to a greater alienation from potential human growth.)
 
 As time went on, Eric became more and more flagrant in his defiance, hoping he could find something he could do that might actually cause him to be fired. He started showing up to work drunk and taking paid “business trips” for nonexistent meetings:
 
-> 
+>
 Eric: A colleague from the Edinburgh office, to whom I had poured out my woes when drunk at the annual general meeting, started to arrange phony meetings with me, once on a golf course near Gleneagles, me hacking at the turf in borrowed golf shoes two sizes too large. After getting away with that, I started arranging fictional meetings with people in the London office. The firm would put me up in a nicotine-coated room in the St. Athans in Bloomsbury, and I would meet old London friends for some good old-fashioned all-day drinking in Soho pubs, which often turned into all-night drinking in Shoreditch. More than once, I returned to my office the following Monday in last Wednesday’s work shirt. I’d long since stopped shaving, and by this point, my hair looked like it was robbed from a Zeppelin roadie. I tried on two more occasions to quit, but both times my boss offered me more cash. By the end, I was being paid a stupid sum for a job that, at most, involved me answering the phone twice a day. I eventually broke down on the platform of Bristol Temple Meads train station one late summer’s afternoon. I’d always fancied seeing Bristol, and so I decided to “visit” the Bristol office to look at “user take-up.” I actually spent three days taking MDMA at an anarcho-syndicalist house party in St. Pauls, and the dissociative comedown made me realize how profoundly upsetting it was to live in a state of utter purposelessness.
 
 After heroic efforts, Eric did finally manage to get himself replaced:
 
-
 Eric: Eventually, responding to pressure, my boss hired a junior fresh out of a computer science degree to see if some improvements could be made to our graphical user interface. On this kid’s first day at work, I wrote him a list of what needed to be done—and then immediately wrote my resignation letter, which I posted under my boss’s door when he took his next vacation, surrendering my last paycheck over the telephone in lieu of the statutory notice period. I flew that same week to Morocco to do very little in the coastal town of Essaouira. When I came back, I spent the next six months living in a squat, growing my own vegetables on three acres of land. I read your *Strike!* piece when it first came out. It might have been a revelation for some that capitalism creates unnecessary jobs in order for the wheels to merely keep on turning, but it wasn’t to me.
-
 
 The remarkable thing about this story is that many would consider Eric’s a dream job. He was being paid good money to do nothing. He was also almost completely unsupervised. He was given respect and every opportunity to game the system. Yet despite all that, it gradually destroyed him.
 
@@ -952,7 +946,7 @@ If anything, this appears to compound the sense of purposelessness.
 
 Perhaps anti-Eric would, indeed, have found a way to turn around that purposelessness and seen himself as in on the joke; perhaps if he were a real go-getter, he’d have used his administrative skills to effectively take over the office; but even children of the rich and powerful often find this difficult to pull off. The following testimony gives a sense of the moral confusion they can often feel:
 
-> 
+>
 Rufus: I got the job because my dad was a Vice President at the company. I was charged with handling complaints. Given that it was (in name) a biomedical company, all returned product was considered a biohazard. So I was able to spend a lot of time in a room all by myself, with no supervision and essentially no work to do. The bulk of my memory of the job involves either playing Minesweeper or listening to podcasts.
 
 I did spend hours poring over spreadsheets, tracking changes on Word documents, etc., but I guarantee you that I contributed *nothing* to this company. I spent every minute at the office wearing headphones. I paid only the smallest attention possible to the people around me and the “work” I was assigned.
@@ -967,7 +961,7 @@ Still, this story raises another question: If Rufus’s father didn’t actually
 
 That’s puzzling. It’s all the more puzzling because the father’s attitude appears to be extremely common. It wasn’t always so. There was once a time when most students in college whose parents could afford it, or who qualified for scholarships or assistance, received a stipend. It was considered a good thing that there might be a few years in a young man’s or woman’s life where money was not the primary motivation; where he or she could thus be free to pursue other forms of value: say, philosophy, poetry, athletics, sexual experimentation, altered states of consciousness, politics, or the history of Western art. Nowadays it is considered important they should work. However, it is not considered important they should work at anything useful. In fact, like Rufus they’re barely expected to work at all, just to show up and pretend to do so. A number of students wrote just to complain to me about this phenomenon. Here Patrick reflects on his job as a casual retail assistant in a student union convenience store:
 
-> 
+>
 Patrick: I didn’t actually need the job (I was getting by financially without it), but after some pressure from my family, I applied for it out of some warped sense of obligation to get experience in work to prepare me for whatever lay ahead beyond university. In reality, the job just took away time and energy from other activities I had been doing, like campaigning and activism, or reading for pleasure, which I think made me resent it even more.
 
 The job was pretty standard for a student union convenience store and involved serving people on the till (could have easily been done by a machine) with the explicitly stated requirement, in my performance review after my trial period, that I “should be more positive and happy when serving customers.” So not only did they want me to do work that could have been performed by a machine just as effectively, they wanted me to pretend that I was enjoying that state of affairs.
@@ -980,7 +974,7 @@ This is what happens, of course, when you first open the entire world of social 
 
 Here’s another example:
 
-> 
+>
 Brendan: I’m at a small college in Massachusetts training to be a high school history teacher. Recently I started work at the dining commons.
 
 A coworker told me on my first day: “Half of this job is making things *look* clean, and the other half is looking busy.”
@@ -991,7 +985,7 @@ However, sometimes one of the less understanding supervisors would be working. I
 
 But of course, efficiency is not the point. In fact, if we are simply talking about teaching students about efficient work habits, the best thing would be to leave them to their studies. Schoolwork is, after all, real work in every sense except that you don’t get paid for it (though if you’re receiving a scholarship or an allowance, you actually are getting paid for it). In fact, like almost all the other activities Patrick or Brendan might have been engaged in had they not been obliged to take on “real world” jobs, their classwork is actually more real than the largely make-work projects they ended up being forced to do. Schoolwork has real content. One must attend classes, do the readings, write exercises or papers, and be judged on the results. But in practical terms, this appears to be exactly what makes schoolwork appear inadequate to those authorities—parents, teachers, governments. administrators—who have all come to feel that they must also teach students about the real world. It’s *too* results-oriented. You can study any way you want to so long as you pass~~the test. A successful student has to learn self-discipline, but this is not the same as learning how to operate under orders. Of course, the same is true of most of the other projects and activities students might otherwise be engaged in: whether rehearsing for plays, playing in a band, political activism, or baking cookies or growing pot to sell to fellow students. All of which might be appropriate training for a society of self-employed adults, or even one made up primarily of the largely autonomous professionals (doctors, lawyers, architects, and so forth) that universities were once designed to produce. It might even be appropriate to train young people for the democratically organized collectives that were the subject of Patrick’s reveries about full communism. But as Brendan points out, it is very much *not* preparation for work in today’s increasingly bullshitized workplace:
 
-> 
+>
 Brendan: A lot of these student work jobs have us doing some sort of bullshit task like scanning IDs, or monitoring empty rooms, or cleaning already-clean tables. Everyone is cool with it, because we get money while we study, but otherwise there’s absolutely no reason not to just give students the money and automate or eliminate the work.
 
 I’m not altogether familiar with how the whole thing works, but a lot of this work is funded by the Feds and tied to our student loans. It’s part of a whole federal system designed to assign students a lot of debt—thereby promising to coerce them into labor in the future, as student debts are so hard to get rid of—accompanied by a bullshit education program designed to train and prepare us for our future bullshit jobs.
@@ -1012,7 +1006,7 @@ This is what Brendan meant by how make-work student employment was a way of “p
 
 ### why many of our fundamental assumptions on human motivation appear to be incorrect
 
-> 
+>
 I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success… such emotions make a man forget food, sleep, friends, love, everything.
 
 —Nikola Tesla
@@ -1050,7 +1044,6 @@ Groos himself was primarily interested in asking why humans play games, and why 
 If this is so, then it begins to give us a sense of why being trapped in a job where one is treated as if one were usefully employed, and has to play along with the pretense that one is usefully employed, but at the same time, is keenly aware one is *not* usefully employed, would have devastating effects. It’s not just an assault on the person’s sense of self-importance but also a direct attack on the very foundations of the sense that one even *is* a self. A human being unable to have a meaningful impact on the world ceases to exist.
 
 ### a brief excursus on the history of make-work and particularly of the concept of buying other people’s time
-
 
 **Boss:** How come you’re not working?
 
@@ -1120,7 +1113,7 @@ So the next time a big rush came, we made sure to take our sweet time.
 
 It’s easy to see why employees might characterize such make-work tasks as bullshit, and many of the testimonies I received enlarged on the resentment this produced. Here is an example of what might be called “traditional make-work,” from Mitch, a former ranch hand in Wyoming. Ranch work, he wrote, is hard but rewarding, and if you are lucky enough to work for an easygoing employer, it tends to alternate cheerfully between intense bursts of effort and just sort of hanging around. Mitch was not so lucky. His boss, “a very old and well-respected member of the community, of some regional standing in the Mormon church,” insisted as a matter of principle that whenever there was nothing to do, free hands had to spend their time “picking rocks.”
 
-> 
+>
 Mitch: He would drop us off in some random field, where we were told to pick up all the rocks and put them in a pile. The idea, we were told, was to clear the land so that tractor implements wouldn’t catch on them.
 
 I called BS on that right off. Those fields had been plowed many times before I ever saw them, plus the frost heaves of the severe winters there would just raise more rocks to the surface over time. But it kept the paid hands “busy” and taught us proper work ethic (meaning obedience, a very high principle as taught in Mormonism), blah, blah.
@@ -1137,7 +1130,7 @@ Almost as soul destroying as being forced to work for no purpose is being forced
 
 Occasionally the very rich hire their fellow human beings to pose as statues on their lawns during parties.[93] Some “real” jobs seem very close to this: although one does not need to stand quite as still, one must also do it for much longer periods of time:
 
-> 
+>
 Clarence: I worked as a museum guard for a major global security company in a museum where one exhibition room was left unused more or less permanently. My job was to guard that empty room, ensuring no museum guests touched the… well, *nothing* in the room, and ensure nobody set any fires. To keep my mind sharp and attention undivided, I was forbidden any form of mental stimulation, like books, phones, etc.
 
 Since nobody was ever there, in practice I sat still and twiddled my thumbs for seven and a half hours, waiting for the fire alarm to sound. If it did, I was to calmly stand up and walk out. That was it.
@@ -1150,7 +1143,7 @@ Clarence lasted six months (roughly twenty million seconds) and then took a job 
 
 These are obviously extreme examples. But the morality of “You’re on my time” has become so naturalized that most of us have learned to see the world from the point of view of the restaurant owner—to the extent that even members of the public are encouraged to see themselves as bosses and to feel indignant if public servants (say, transit workers) seem to be working in a casual or dilatory fashion, let alone just lounging around. Wendy, who sent me a long history of her most pointless jobs, reflected that many of them seem to come about because employers can’t accept the idea that they’re really paying someone to be on call in case they’re needed:
 
-> 
+>
 Wendy: Example one: as a receptionist for a small trade magazine, I was often given tasks to perform while I was waiting for the phone to ring. Fair enough—but the tasks were almost uniformly BS. One I will remember for the rest of my life: one of the ad sales people came to my desk and dumped thousands of paper clips on my desk and asked me to sort them by color. I thought she was joking, but she wasn’t. I did it, only to observe that she then used them interchangeably without the slightest attention to the color of the clip.
 
 Example two: my grandmother, who lived independently in an apartment in New York City into her early nineties. She did need help, though, so we hired a very nice woman to live with her and keep an eye out. Basically, she was there in case my grandmother fell or needed help, and to help her do shopping and laundry, but if all went well, there was basically nothing for her to do. This drove my grandmother crazy. “She’s just sitting there!” she would complain. We would explain that was the point.
@@ -1159,7 +1152,7 @@ To help my grandmother save face, we asked the woman if she would mind straighte
 
 Not just. Once you recognize the logic, it becomes easy to see that whole jobs, careers, and even industries can come to conform to this logic—a logic that not so very long ago would have been universally considered utterly bizarre. It has also spread across the world. Ramadan Al Sokarry, for example, is a young Egyptian engineer working for a public enterprise in Cairo:
 
-> 
+>
 Ramadan: I graduated from the Electronics and Communications Department in one of the best engineering schools in my country, where I had studied a complicated major, and where all the students had high expectations of careers tied to research and the development of new technologies.
 
 Well, at least that’s what our studies made us think. But it wasn’t the case. After graduation, the only job I could find was as a control and HVAC [heating, ventilating, and air-conditioning] engineer in a corporatized government company—only to discover immediately that I hadn’t been hired as an engineer at all but really as some kind of a technical bureaucrat. All we do here is paperwork, filling out checklists and forms, and no one actually cares about anything but whether the paperwork is filed properly.
@@ -1170,7 +1163,7 @@ To state the matter bluntly: the company really just needed to have a team of en
 
 Still, the process left him feeling hollow:
 
-> 
+>
 Ramadan: In my experience, this was psychologically exhausting and it left me depressed, having to go every workday to a job that I considered pointless. Gradually I started losing interest in my work, and started watching films and reading novels to fill the empty shifts. I now even leave my workplace for hours almost each shift without anyone noticing.
 
 Once again, the end result, however exasperating, doesn’t seem all that impossibly bad. Especially once Ramadan had figured out how to game the system. Why couldn’t he see it, then, as stealing back time that he’d sold to the corporation? Why did the pretense and lack of purpose grind him down?
@@ -1261,7 +1254,7 @@ This is one of the things that comes through strongly in the testimonies I assem
 
 Before exploring these themes, though, it’s important to acknowledge that those who hold bullshit jobs are not uniformly miserable. As I mentioned in the last chapter, there were a handful of largely positive testimonials from workers who were quite satisfied with their bullshit jobs. It’s hard to generalize about their common features because there really weren’t all that many of them, but perhaps we can try to tease out a few:
 
-> 
+>
 Warren: I work as a substitute teacher in a public school district in Connecticut. My job just involves taking attendance and making sure the students stay on task with whatever individual work they have. Teachers rarely if ever actually leave instructions for teaching. I don’t mind the job, however, since it allows me lots of free time for reading and studying Chinese, and I occasionally have interesting conversations with students. Perhaps my job could be eliminated in some way, but for now I’m quite happy.
 
 It’s not entirely clear this is even a bullshit job; as public education is currently organized, someone does have to look after the children in a given class period if a teacher calls in sick.[95] The bullshit element seems to lie in pretending that instructors such as Warren are there to teach, when everyone knows they’re not: presumably this is so the students will be more likely to respect their authority when they tell them to stop running around and do their assignments. The fact that the role isn’t entirely useless must help somewhat. Crucially, too, it is unsupervised, nonmonotonous, involves social interaction, and allows Warren to spend a lot of time doing whatever he likes. Finally, it’s clearly not something he envisions doing for the rest of his life.
@@ -1270,7 +1263,7 @@ This is about as good as a bullshit job is likely to get.
 
 Some traditional bureaucratic jobs can also be quite pleasant, even if they serve little purpose. This is especially true if by taking the job one becomes part of a great and proud tradition, such as the French civil service. Take Pauline, a tax official in Grenoble:
 
-> 
+>
 Pauline: I’m a technical bankruptcy advisor in a government ministry equivalent to Britain’s Inland Revenue Service. About 5 percent of my job is giving technical advice. The rest of the day, I explain incomprehensible procedures to my colleagues, help them locate directives that serve no purpose, cheer up the troops, and reassign files that “the system” has misdirected.
 
 Oddly enough, I enjoy going to work. It’s as if I were being paid sixty thousand dollars a year to do the equivalent of Sudoku or crossword puzzles.[96]
@@ -1293,14 +1286,14 @@ To every rule there must be exceptions. Some did report supervisors who were rel
 
 Some managers communicate indirectly, by their own behavior. In the local British government office in which Beatrice worked, for example, supervisors indicated the appropriate level of pretense (just a little) during the week by livestreaming important sports events and similar acts of self-indulgence. On weekend shifts, in contrast, no pretense was required:
 
-> 
+>
 Beatrice: On other occasions, my role models known as “senior management” would stream World Cup football matches live into the office onto their desktops. I understood this gesture to be a form of multitasking, so I started to research my own projects whenever I had nothing to do at work.
 
 On the other hand, my weekend role was a breeze. It was quite a sought-after position in the authority because of the high rate of overtime pay. In that office, we did nothing. We made Sunday dinners, and I even heard stories of someone bringing a sunbed-recliner into work so they could relax on it whilst we put the TV on. We surfed the internet, watched DVDs—but more often, we just went to sleep, as there was nothing to do. We would get some rest in before Monday morning started.
 
 In other cases, the rules are set out explicitly, but in such a way that they are clearly made to be broken.[99] Robin, hired as a temp in North Carolina but not assigned any duties, managed to turn technical competence into a way to mitigate the experience—to a degree:
 
-> 
+>
 Robin: I was told that it was very important that I stay busy, but I wasn’t to play games or surf the Web. My primary function seemed to be occupying a chair and contributing to the decorum of the office.
 
 At first, this seemed pretty easy, but I quickly discovered that looking busy when you aren’t is one of the least pleasant office activities imaginable. In fact, after two days, it was clear that this was going to be the worst job I had ever had.
@@ -1313,11 +1306,10 @@ As far as temporary jobs are concerned, the worker is often effectively being te
 
 Sometimes in longer-term positions, there is enough camaraderie among employees that they can discuss the situation openly and find common strategies to use against supervisors. Solidarity in such circumstances can bring a sense of common purpose. Robert speaks of the legal aides at a crooked law firm:
 
-> 
+>
 Robert: The weirdest thing about this job is how, in a twisted way, it was kind of enjoyable. The legal assistants were all smart and interesting people, and working a job that was so clearly meaningless led to a great deal of bonding and gallows humor among the team. I managed to maneuver my way into a desk with its back to the wall, so I could spend as much time as possible surfing the internet or teaching myself computer programming. Much of what we did was obviously inefficient, like manually relabeling thousands of files, so I’d automate it and then use the time it would have taken me to complete it manually to do whatever I wanted. I also always made sure to have at least two projects run by different bosses, so that I could tell both of them that I was spending a lot of time on the other project.
 
 At the very least, there can be a conspiracy of silence on such shirking strategies; sometimes, active cooperation. In other cases, one can be lucky enough to find a supervisor who is both willing to be fairly honest and agreeable enough to set almost explicit parameters for loafing. The emphasis here is on “almost.” One can never simply ask. Here’s someone who has an on-call job at a travel insurance company. He’s basically a duct taper, there to straighten out things once every month or two when something goes predictably awry in their relation to their partner company. Otherwise:
-
 
 **Calvin:** Any given week, there will be a few situations where [our partner company] is supposed to reach out to my team for advisory. So for up to twenty minutes a week, we have actual work to do. Ordinarily, though, I send five or eight fifteen-word emails a day, and every few days, there’s a ten-minute team meeting. The rest of the workweek is functionally mine, though not in any way I can flaunt. So I flit through social media, RSS aggregation, and coursework in a wide but short browser window I keep discreetly on the second of my two monitors. And every few hours, I’ll remember I’m at a workplace and respond to my one waiting email with something like: “We agree with the thing you said. Please proceed with the thing.” Then I only have to pretend to be visibly overworked for seven more hours each day.
 
@@ -1325,24 +1317,23 @@ At the very least, there can be a conspiracy of silence on such shirking strateg
 
 **Calvin:** Our team manager seems to know what’s up, but she’s never let on to having problems with it. Occasionally, I will have days with zero work at all, so I’ll let her know that and volunteer to help out another department if they’re bogged down in some way. That help is never needed, it seems, so my letting her know is my way of declaring, “I’m going to be on Twitter a full eight hours, but I told you in advance, so it’s actually extremely noble of me.” She schedules hourlong weekly meetings that haven’t once had ten minutes of content—we spend the rest of them chatting casually. And since her bosses, up however high, are aware of the genuine problems the other company can cause, I think it’s presumed we’re wrangling their nonsense, or at least might have to at any given second.
 
-
 Not all supervisors, then, subscribe to the ideology of “You’re on my time.” Particularly in large organizations where managers don’t have much of a proprietary feeling anyway and don’t have reason to believe they’ll get in much trouble with their own superiors if they notice one of their subordinates slacking off, they might well let matters take their own course.[100] This kind of polite, coded, mutual consideration is perhaps about as close to honesty in such situations as one is likely to get. But even in such maximally benevolent circumstances, there is a taboo on being too explicit. The one thing that could never, apparently, happen, is for anyone to actually say, “Basically, you’re just here in case of emergencies. Otherwise, do what you like and try not to get in anybody’s way.” And even Calvin feels obliged to pretend to be overworked, just as a reciprocal gesture of appreciation and respect.
 
 More typically supervisors simply find subtle ways to say “Just shut up and play along.”
 
-> 
+>
 Maria: My first meeting on arriving to start this job was with my line manager, who was very quick to explain that she had absolutely no idea what the person who used to do my job actually did. But luckily for me, that predecessor was still around. She had just moved up inside the team and would be able to show me everything that she had done in her former role. She did. It took about an hour and a half.
 
 “Everything she had done” also turned out to be virtually nothing. Maria couldn’t handle the idleness. She begged her coworkers to let her do a share of their work; something to make herself feel she had some reason to be around. Driven to distraction, she finally made the mistake of openly complaining to her manager:
 
-> 
+>
 Maria: I spoke to my manager, who very clearly told me not to “advertise the fact” that I wasn’t mega busy. I asked her to at least send any unclaimed work my way, and she told me she would show me a few of the things she does, but never did.
 
 This is as close to being told directly to pretend to work as one is likely to get. Even more dramatic, but in no way unusual, is the experience of Lilian, hired as Digital Product Project Manager in the IT department of a major publishing house. Despite the somewhat pretentious-sounding title, Lilian insists that such positions are not necessarily bullshit—she’d had a similar gig before, and while it was relatively undemanding, she did get to work with a small, friendly team solving genuine problems. “This new place, however…”
 
 As best she could reconstruct what happened (much of it had occurred just before she arrived), her immediate supervisor, an arrogant blowhard obsessed with the latest business fads and buzzwords, had sent out a series of bizarre and contradictory directives that had the unintended consequence of leaving Lilian with no responsibilities at all. When she gently pointed out there was a problem, her concerns were brushed aside with eye rolls and similar gestures of impatient dismissal.
 
-> 
+>
 Lilian: One would think that, as a Project Manager, I would somehow be “running” the process. Except there is no room in the process for that to happen. No one is running this process. Everyone is confused.
 
 Other people expect me to help them and organize things and give them the confidence that people usually look to a Project Manager for because I’ve been given that title. But I have no authority and no control over anything.
@@ -1351,7 +1342,7 @@ So I read a lot. I watch TV. I have no idea what my boss thinks I do all day.
 
 As a result of her situation, Lilian has to come up with two quite difficult false fronts: one for her superior and another for her underlings. In the first case, because she can only speculate what, if anything, her supervisor actually wants her to do; in the second, in the fact that about the only positive contribution she is allowed to make is to adopt an air of cheerful confidence that might inspire her subordinates to do a better job. (“Cheer up the troops,” as Pauline might put it.) Or at least not infect them with her own desperation and confusion. Underneath, Lilian was riddled with anxiety. It’s worth quoting her comments at length because they give a sense of the spiritual toll such a situation can take:
 
-> 
+>
 Lilian: What’s it like to have a job like this? Demoralizing. Depressing. I get most of the meaning in my life from my job, and now my job has no meaning or purpose.
 
 It gives me anxiety because I think that at any moment someone is actually going to realize that nothing would change if I were not here and they could save themselves the money.
@@ -1376,7 +1367,7 @@ Many speak of the intense frustration of learning gradually that they are instea
 
 At first, he thought the new job, also for a gaming company, was going to be different:
 
-> 
+>
 Charles: In 2002 I was hired by [BigGameCo], in LA, as an associate producer. I was excited about this job because I was told I would be in charge of writing the design document that bridged the desires of the artists with the realities of what the programmers could do. For the first few months, though, there was nothing to do. My big duty every day was ordering dinner from a delivery place for the rest of the staff.
 
 Again, just sitting around, doing emails. Most days, I would go home early, because, why the fuck not?
@@ -1393,7 +1384,7 @@ Things are rarely quite as obvious as this: cases where the worker is basically 
 
 Let’s look at a worst-case scenario: unpleasant work, bad conditions, obvious uselessness. Nigel was a temp worker hired by a company that had won a contract to scan the application forms for hundreds of thousands of company loyalty cards. Since the scanning equipment the company used was imperfect, and since its contract stated that each form would be checked for errors no fewer than three times before being approved, the company was obliged to bus in a small army of temps every day to act as “Data Perfecters.” This is how he describes his work:
 
-> 
+>
 Nigel: It is hard to explain what this level of entranced boredom was like. I found myself conversing with God, pleading for the next record to contain an error, or the next one, or the next. But the time seemed to pass quickly, like some kind of near-death experience.
 
 There was something about the sheer purity of the social uselessness of this job, combined with the crippling austerity of the process, that united the Data Perfecters. We all knew that this was bullshit. I really think that if we had been processing applications for something that had a more obvious social value—organ transplant registration, say, or tickets to [the] Glastonbury [rock festival]—then it would have felt different. I don’t mean that the process would have been any less tedious—an application form is an application form—but the knowledge that no one cared about this work, that there was really nothing of any value riding on how we did the job, made it feel like some sort of personal test of stamina, like Olympic endurance boredom for its own sake.
@@ -1408,12 +1399,12 @@ Where for some, pointlessness exacerbates boredom, for others it exacerbates anx
 
 Since the ads didn’t really work, client satisfaction was everything. Designers were told to indulge their clients’ every whim, no matter how technically difficult, self-indulgent, or absurd.
 
-> 
+>
 Greg: High-paying clients generally want to reproduce their TV commercials within the banner ads and demand complex storyboards with multiple “scenes” and mandatory elements. Automotive clients would come in and demand that we use Photoshop to switch the steering wheel position or fuel tank cap on an image the size of a thumbnail.
 
 Such exacting demands were made, and had to be accommodated, as designers stewed in the knowledge that no Web surfer would possibly be able to make out such tiny details in a rapidly moving image from the corner of her eye. All this was barely tolerable, but once Greg actually saw the abovementioned studies, which also revealed that even if the surfer did see them, she wouldn’t click on the banner anyway, he began to experience symptoms of clinical anxiety.
 
-> 
+>
 Greg: That job taught me that pointlessness compounds stress. When I started working on those banners, I had patience for the process. Once I realized that the task was more or less meaningless, all that patience evaporated. It takes effort to overcome cognitive dissonance—to actually care about the process while pretending to care about the result.
 
 Eventually the stress became too much for him, and he quit to take another job.
@@ -1422,12 +1413,12 @@ Eventually the stress became too much for him, and he quit to take another job.
 
 Stress was another theme that popped up regularly. When, as with Greg, one’s bullshit job involves not just sitting around pretending to work but actually working on something everyone knows—but can’t say—is pointless, the level of ambient tension increases and often causes people to lash out in arbitrary ways. We’ve already met Hannibal, who makes extraordinary amounts of money writing reports designed to be waved around in pharmaceutical marketing meetings and later thrown away. In fact, he confines the bullshit aspects of his employment to a day or two a week—just enough to pay the bills—and spends the rest of his time engaged in medical research aimed at eradicating tuberculosis in the Global South—which no one seems to want to pay for. This gives him the opportunity to compare behavior in both his workplaces:
 
-> 
+>
 Hannibal: That’s the other thing I’ve noticed: the amount of workplace aggression and stress I see in people is inversely correlated with the importance of the work they’re doing: “The client’s going fucking apeshit because they’re under pressure from their boss to get this presentation ready for the Q3 planning meeting on Monday! They’re threatening to cancel the entire fucking contract unless we get it delivered by *tomorrow morning*! We’re all going to need to stay late to finish it! (Don’t worry, we’ll order some shitty junk food pizzas and pissy lager in so we can work through the night…).” This is typical for the bullshit reports. Whereas working on meaningful stuff always has more of a collaborative atmosphere, everyone working together toward a greater goal.
 
 Similarly, while few offices are entirely free of cruelty and psychological warfare, many respondents seemed to feel they were particularly prevalent in offices where everyone knew, but did not wish to admit, that they weren’t really doing much of anything.[102]
 
-> 
+>
 Annie: I worked for a medical care cost management firm. I was hired to be part of a special tasks team that performed multiple functions within the company.
 
 They never provided me with this training, and instead my job was to:
@@ -1444,18 +1435,16 @@ In particular, I made one highlighting error consistently during my first two we
 
 Such minor acts of sadism should be familiar to most of us who have worked in office environments. You have to ask yourself: What was the supervisor who called in Annie time and time again to “talk to her” about a mistake that she knew perfectly well had long since been corrected, actually thinking? Did she somehow forget, each time, that the problem had been resolved? That seems unlikely. Her behavior appears to be a pure exercise of power for its own sake. The pointlessness of the exercise—both Annie and her boss knew nothing would really be achieved by telling someone to fix a problem that’s already been fixed—made it nothing more than a way for the boss to rub that fact—that this *was* a relation of pure arbitrary power—in Annie’s face. It was a ritual of humiliation that allows the supervisor to show who’s boss in the most literal sense, and it puts the underling in her place, justified no doubt by the sense that underlings are generically guilty at the very least of spiritual insubordination, of resenting the boss’s tyranny, in the same way that police who beat suspects they know to be innocent will tell themselves the victim is undoubtedly guilty of something else.
 
-> 
+>
 Annie: I did this for six months before deciding I’d rather die than continue. This was also, however, the first time I made a living wage doing anything. Before that, I was a preschool teacher, and while what I was doing was very important, I made $8.25 an hour (in the Boston area).
 
 This leads us to another issue: the effects of such situations on employees’ physical health. While I lack statistical evidence, if the testimonials are anything to go by, stress-related ailments seem a frequent consequence of bullshit jobs. I’ve read multiple reports of depression, anxiety overlapping with physical symptoms of every sort, from carpal tunnel syndrome that mysteriously vanishes when the job ends, to what appears, while it’s happening, like autoimmune breakdown. Annie, too, became increasingly ill. Part of the reason, she felt in retrospect, was the extreme contrast between the work environments of her previous job and this one:
-
 
 **David:** I’m trying to imagine what it must have been like to move from a real job, teaching and taking care of children, to something so entirely pointless and humiliating, just to pay the rent. Do you think there are a lot of people in that situation?
 
 **Annie:** I imagine it has to be pretty common! Low-paying childcare jobs have really high turnover. Some people get additional training and can move on to something more sustaining, but a lot of the ones I’ve watched leave (mostly women) end up in some office or retail management.
 
 One part of the experience I think about a lot is that I went from an environment where I was touched and touching all day long—picking kids up, getting hugs, giving piggybacks, rocking to sleep—into an environment where nobody talked to each other, let alone touched each other. I didn’t recognize the effect this had on my body while it was happening, but now in retrospect I see what a *huge* impact it had on my physical and mental health.
-
 
 I suspect that not only is Annie right, but she is describing an unusually dramatic example of what is, in fact, a very common dynamic. Annie was convinced that not only was her particular job pointless but also that the entire enterprise shouldn’t really exist: at best, it was a giant exercise in duct taping, making up for some bits of the damage caused by the notoriously dysfunctional American health care system, of which it was an intrinsic part. But of course, no one was allowed to discuss such matters in the office. No one was allowed to discuss anything in the office. The physical isolation was continuous with the social isolation. Everyone there was forced to become a little bubble unto himself or herself.
 
@@ -1466,7 +1455,6 @@ In such minimal, but clearly unequal, social environments, strange things can st
 I am suggesting, then, that the very meaninglessness of bullshit employment tends to exacerbate the sadomasochistic dynamic already potentially present in any top-down hierarchical relationship. It’s not inevitable; some supervisors are generous and kind. But the lack of any feeling of common purpose, any reason to believe one’s collective actions in any way make life better for those outside the office or really have *any* significant effect on anyone outside the office, will tend to magnify all the minor indignities, distempers, resentments, and cruelties of office life, since, ultimately, office politics is all that’s really going on.
 
 Many, like, Annie, were terrified by the health effects. Just as a prisoner in solitary confinement inevitably begins to experience brain damage, the worker deprived of any sense of purpose often experiences mental and physical atrophy. Nouri, whom we met in chapter 2, repairing code for an incompetent Viennese psychologist, kept something of a diary of each of his successive bullshit jobs and their effects upon his mind and body:
-
 
 **Nouri:**
 
@@ -1486,21 +1474,20 @@ Many, like, Annie, were terrified by the health effects. Just as a prisoner in s
 
 **Effect on me:** relentless mediocrity and fear due to my inability to focus crippled my mind; I got a cold every month; warping my consciousness to motivate myself killed my immune system. PTSD. My thoughts were thoroughly mediocre…
 
-
 Nouri had the misfortune to stumble through a series of relentlessly absurd and/or abusive corporate environments. He managed to keep himself sane—at least to the degree of fending off complete mental and physical breakdown—by finding a different sense of purpose: he began to carry out a detailed analysis of the social and institutional dynamics that lie behind failed corporate projects. Effectively, he became an anthropologist. (This has been very useful to me. Thanks, Nouri!) Then he discovered politics, and began diverting time and resources toward plotting to destroy the very system that created such ridiculous jobs. At this point, he reports, his health began to markedly improve.
 
 Even in relatively benign office environments, the lack of a sense of purpose eats away at people. It may not cause actual physical and mental degeneration, but at the very least, it leaves workers struggling with feelings of emptiness or worthlessness. These feelings are typically in no sense mitigated, but actually compounded by the prestige, respect, and generous compensation that such positions often confer. Like Lilian, bullshit jobholders can be secretly tortured by the suspicion that they are being paid more than their actually productive underlings (“How bullshit would *that* be?”), or that others have legitimate reason to hate them. This left many genuinely confused about how they *should* feel. No moral compass was available. One might consider this a kind of moral scriptlessness.
 
 Here is a relatively mild case. Finn works for a company that licenses software on a subscription basis:
 
-> 
+>
 Finn: From the moment I first read the “Bullshit Jobs” essay a couple of years back, it resonated with me. I continue to pull it out occasionally to read and refer friends to.
 
 I’m a manager of technical support for a software-as-a-service company. My job seems to mostly consist of sitting in meetings, emailing, communicating coming changes to my team, serving as an escalation point for client issues, and doing performance reviews.
 
 Performance reviews, Finn admits, are bullshit, explaining, “Everyone already knows who the slackers are.” Actually, he acknowledges readily that most of his responsibilities are bullshit. The useful work he performs consists mainly of duct taping: solving problems caused by various unnecessarily convoluted bureaucratic processes within the company. Plus, the company itself is fairly pointless.
 
-> 
+>
 Finn: Still, sitting down to write this, there’s part of my brain that wants to defend my bullshit job. Mostly because the job provides for me and my family. I think that’s where the cognitive dissonance comes in. From an emotional standpoint, it’s not like I’m invested in my job or the company in any way. If I showed up on Monday and the building had disappeared, not only would society not care, I wouldn’t, either. If there’s any satisfaction that comes from my job, it’s being an expert in navigating the waters of our disorganized organization and being able to get things done. But being an expert in something that is unnecessary is, as you can imagine, not *all* that fulfilling.
 
 My preference would be to write novels and opinion essays, which I do in my spare time, but I fear the leap from my bullshit job will mean being incapable of making ends meet.
@@ -1511,7 +1498,7 @@ Yet at the same time, one cannot also dismiss one’s own experience that someth
 
 Many others spoke, like Lilian, of the agonizing disparity between the outward respect they received from society and the knowledge of what they actually did. Dan, an administrative contractor for a British corporation’s offices in Toronto, was convinced he did only about an hour or two of real work a week—work he could have easily done from home. The rest was entirely pointless. Putting on the suit and coming to the office was, he felt, just an elaborate sacrificial ritual; a series of meaningless gestures he had to perform in order to prove himself worthy of a respect he did not deserve. At work, he wondered constantly if his coworkers felt the same way:
 
-> 
+>
 Dan: It felt like some Kafkaesque dream sequence that only I had the misfortune of realizing how stupid so much of what we were doing was, but deep down inside, I felt as if this experience had to be a silently shared one. We must have all known! We were an office of six people, and we were all “managers”… There were easily more managers in the building than actual employees. The situation was completely absurd.
 
 In Dan’s case, everyone played along with the charade. The environment was in no way abusive. The six managers and their supervising managers-of-managers were polite, friendly, mutually supportive. They all told one another what a terrific job they were doing and what a disaster it would be for everyone else if they weren’t there as part of the team—but only, Dan felt, as a way of consoling one another in the secret knowledge they were hardly doing anything, that their work was of no social value, and that if they weren’t there, it would make no difference. It was even worse outside the office, where he began to be treated as the member of his family who had really made something of his life. “It’s honestly hard to describe how mad and useless I felt. I was being taken seriously as a ‘young professional’—but did any of them know what it was I really did?”
@@ -1524,12 +1511,12 @@ It doesn’t help that higher-ups in such situations will regularly insist that 
 
 Vasily works as a research analyst for a European foreign affairs office: his office, he reports, has just as many supervisors as researchers, and every sentence of any document produced by a researcher invariably ends up being passed up two levels of hierarchy to be read, edited, and passed down again, repeatedly, until it makes no sense. Granted, this would be more of a problem if there were a chance that anyone outside the office would ever read them, or, for that matter, be aware they existed. Vasily does occasionally try to point all this out to his superiors:
 
-> 
+>
 Vasily: If I question the utility or sense of our work, my bosses look at me as if I’m from another planet. Of course they do: for them, it is crucial that the work we’re doing is not seen as total nonsense. If that would be the case, the positions would be canceled, and the result would be having no job.
 
 In this case, it’s not the capitalist economic system but the modern international state system that between the various consular services, United Nations, and Bretton Woods instututions, creates untold thousands of (usually high-paid, respectable, comfortable) jobs across the planet. One can argue, as in all things, about which of these positions are truly useful and for what. Presumably some do important work—preventing wars, for instance. Others arrange and rearrange furniture. What’s more, there are pockets inside the apparatus that appear, to their low-ranking denizens, at least, as entirely superfluous. This perception, says Vasily, creates feelings of guilt and shame:
 
-> 
+>
 Vasily: When I am in public and people ask me about my job, I don’t want to. There is nothing to say, nothing to be proud of. Working for the foreign ministry has a high reputation, so when I am saying, “ I am working for the foreign ministry,” people usually react with a mix of respect and not really knowing what I am doing. I think the respect makes it even worse.
 
 There are a million ways to make a human feel unworthy. The United States, so often a pioneer in such areas, has, among other things, perfected a quintessentially American mode of political discourse that consists in lecturing others about what jerks they are to think they have a right to something. Call it “rights-scolding.” Rights-scolding has many forms and manifestations. There is a right-wing version, which centers on excoriating others for thinking the world owes them a living, or owes them medical treatment when they are gravely ill, or maternity leave, or workplace safety, or equal protection under the law. But there is also a left-wing version, which consists of telling people to “check their privilege” when they feel they are entitled to pretty much anything that some poorer or more oppressed person does not have.
@@ -1542,19 +1529,19 @@ Let us end, then, with Rachel, to express the horror of a generation.
 
 Rachel was a math whiz with an undergrad degree in physics, but from a poor family. She aspired to pursue a graduate degree, but with British university tuition fees having tripled, and financial assistance cut to the bone, she was forced to take a job as Catastrophe Risk Analyst for a big insurance company to raise the requisite funds. A year out of her life, she told herself, but hardly the end of the world:
 
-> 
+>
 Rachel: “It’s not the worst thing in the world: learn some new skills, earn some money, and do a bit of networking while you’re at it.” Such was my thinking. “Realistically, how bad is it going to be?” And obviously, in the back of your head, the resounding, “Loads of people spend their whole lives doing boring, backbreaking work for barely any money. What on earth makes *you* too special for one year in a boring office job?”
 
 That last one is an overarching fear for self-aware millennials. I can barely scroll through Facebook without hitting some preachy think piece about my generation’s entitlement and reluctance to just do a bloody day’s work, for Christ’s sake! It is sort of hard to gauge whether my standards for an “acceptable” job are reasonable or just the result of ridiculous, Generation Snowflakey “entitled bollocks” (as my grandma likes to say).
 
 This is, incidentally, a particularly British variation of rights-scolding (though it increasingly infects the rest of Europe): older people who grew up with cradle-to-grave welfare state protections mocking young people for thinking they might be entitled to the same thing. There was also another factor, much though Rachel was slightly embarrassed to admit it: the position paid extremely well; more than either of her parents was making. For someone who’d spent her entire adult existence as a penniless student supporting herself through temping, call center, and catering jobs, it would be refreshing to finally get a taste of bourgeois life.
 
-> 
+>
 Rachel: I’d done the “office thing” and the “crap job thing,” so how bad could a crap office job be, really? I had no concept of the bottom-of-the-ocean black depths of boredom I would sink to under a bulk of bureaucracy, terrible management, and myriad bullshit tasks.
 
 Rachel’s job was necessitated by various capital holding requirement regulations which, like all corporations in a similar situation, her employer had no intention of respecting. Thus, a typical day consisted of taking in emails each morning with data on how much money different branches of the firm would expect to lose in some hypothetical catastrophe scenario, “cleaning” the data, copying the data into a spreadsheet (whereupon the spreadsheet program invariably crashed and had to be rebooted), and coming up with a figure for overall losses. Then, if there was a potential legal problem, Rachel was expected to massage the numbers until the problem went away. That’s when things were going well. On a bad day, or bad month, when there was nothing else to do, her supervisors would make up elaborate and obviously pointless exercises to keep her busy, such as constructing “mind maps”[107]. Or just leave her with nothing—but always with the proviso that while doing nothing, she had to actively pretend not to be:
 
-> 
+>
 Rachel: The weirdest and (apart from the title) maybe most bullshitty thing about my job was that while it was generally acknowledged that there wasn’t really enough work to do, you weren’t allowed to conspicuously not work. In a hark back to the days of the early internet, even Twitter and Facebook were banned.
 
 My academic degree was pretty interesting and involved a lot of work, so, again, I had no concept of the horrible dread I would feel getting up in the morning to spend all day sitting in an office trying to inconspicuously waste time.
@@ -1571,7 +1558,6 @@ From thinking a “crap office job” was hardly the end of the world, Rachel wa
 
 There is one other, slightly different form of social suffering that ought to be acknowledged: the misery of having to pretend you’re providing some kind of benefit to humanity, when you know the exact opposite is in fact the case. For obvious reasons, this is most common among social service providers who work for government or nongovernmental organizations (NGOs). Most are engaged in box-ticking rituals, at least to a certain degree, but many are aware that what they’re doing is worse than useless: they are harming the people they are supposedly there to help. Shihi is now an artist, but she was once a community therapist in New York City:
 
-
 Sh*Í*hi: I used to work as a therapist in a community mental health center in the Bronx in the 1990s and 2000s. I have a social work degree.
 
 My clients ended up either being mandated to “treatment” after being incarcerated for minor stuff (Clinton’s crime bill), lost their jobs and apartments after being jailed, or just needed to prove to welfare-to-work or Social Security offices that they need SSI [Supplemental Security Income] or other food/rent subsidies because they were mentally ill.
@@ -1584,10 +1570,9 @@ I had groups to run like “anger management,” “coping skills” .~~.~~. The
 
 My job was useless and harmful. So many NGOs profit from the misery created by inequality. I made a very poor living doing what I did, but it still pains me deeply that I was a poverty pimp.
 
-
 It is interesting and important to note that many of the petty officials who do absurd and terrible things in the name of paperwork are keenly aware of what they are doing and of the human damage that is likely to result—even if they usually feel they must remain stone-faced when dealing with the public. Some rationalize it. A few take sadistic pleasure. But any victim of the system who has ever asked herself, “How can such people live with themselves?” might take some comfort in the fact that, in many cases, they can’t. Meena’s job for a local government council in an English town sometimes referred to as “Little Skidrow-by-the-Sea” was represented to her, when she took it, as working with the homeless. She found this was true in a sense:
 
-> 
+>
 Meena: My job was not to place, to advise, or help homeless people in any way. Instead, I had to try to collect their paperwork (proof of ID, National Insurance number, proof of income, etc.) so that the temporary homeless unit could claim back housing benefit. They had three days to provide it. If they couldn’t or wouldn’t provide the necessary paperwork, I had to ask their caseworkers to kick them out of their temporary accommodations. Obviously, homeless people with drug addictions tend to have difficulties providing two proofs of income, among many other things. But so do fifteen-year-olds whose parents have abandoned them, and veterans with PTSD, and women fleeing domestic violence.
 
 So ultimately, Meena explains, her role was to threaten to make formerly homeless people homeless again, “all so that one department could claim a cash transfer from another.” What was it like? “Soul destroying.” After six months, she couldn’t take it and gave up on government service entirely.
@@ -1612,7 +1597,7 @@ This is not to say, however, that the soul has no means for resistance. It might
 
 Yet others escape into Walter Mitty–style reverie, a traditional coping mechanism for those condemned to spend their lives in sterile office environments. It’s probably no coincidence that nowadays many of these involve fantasies not of being a World War I flying ace, marrying a prince, or becoming a teenage heartthrob, but of having a better—just utterly, ridiculously better—job. Boris, for instance, works for “a major international institution” writing bullshit reports. Here is his (obviously somewhat self-mocking) report:
 
-> 
+>
 Boris: It is clearly a bullshit job because I have tried everything, self-help books, sneaky onanistic breaks, calling my mother and crying, realizing all my life choices have been pure shite—but I keep carrying on because I have a rent to pay.
 
 What’s more, this situation, which causes me a mild to severe depression, also obliges me to postpone my true life’s calling: being J. Lo’s or Beyoncé’s Personal Assistant (either separately or concomitantly). I am a hardworking, results-driven person so I believe I could handle it well. I would be willing to work for one of the Kardashians, too, particularly Kim.
@@ -1621,27 +1606,26 @@ Still, most testimonies focus on creativity as a form of defiance—the dogged f
 
 For instance, workers hired for a certain skill, but who are then not really allowed to exercise it, rarely end up exercising that skill in a covert way when they discover they have free time on their hands. They almost invariably end up doing something else. We’ve already observed in chapter 3 how Ramadan, the engineer who dreamed of working at the cutting edge of science and technology, simply gave up when he discovered he was really expected to sit around doing paperwork all day. Rather than pursuing scientific projects on the sly, he threw himself into film, novels, and the history of Egyptian social movements. This is typical. Faye, who has been contemplating writing a pamphlet on “how to keep your soul intact in corporate environments,” falls back on music:
 
-> 
+>
 Faye: The frustrated musician in me has come up with ways of silently learning music while stuck at my corporate desk. I studied Indian classical music for a while and have internalized two of their rhythmic systems. Indian approaches are abstract, numerical, and nonwritten, and so open up ways for me to silently and invisibly practice in my head.
 
 This means I can improvise music while stuck in the office, and even incorporate inputs from the world around me. You can groove off the ticking clock as dull meetings drag on or turn a phone number into a rhythmic poem. You can translate the syllables of corporate jargon into quasi hip-hop, or interpret the proportions of the filing cabinet as a polyrhythm. Doing this has been a shield to more aggregate boredom in the workplace than I can possibly explain. I even gave a talk to friends a few months ago about using rhythm games to alleviate workplace boredom, demonstrating how you can turn aspects of a dull meeting into a funk composition.
 
 Lewis, who describes himself as a “fake investment banker” for a financial consulting firm in Boston, is working on a play. When he realized his role in the company was basically pointless, he began to lose motivation and with it the ability to concentrate on the one or two hours per day he actually did need to work. His supervisor, a stickler for time and “optics” who seemed remarkably indifferent to productivity, didn’t seem to mind what Lewis did so long as he didn’t leave the office before she did, but what he describes as his Midwestern American guilt complex drove him to come up with a means to carry on:
 
-> 
+>
 Lewis: Happily, I have an automatic standing desk and lots of mildly guilt-ridden BS-free time. So, over the last three months, I’ve used that time to write my first play. Strangely, the creative output began out of necessity rather than desire. I found that I’m way more productive and efficient once I’ve chewed on a scene or dialogue. In order to do the seventy minutes or so of actual work I need to get done in a given day, I’ll need another three to four hours of creative writing.
 
 Faye and Lewis are unusual. The most common complaint among those trapped in offices doing nothing all day is just how difficult it is to repurpose the time for anything worthwhile. One might imagine that leaving millions of well-educated young men and women without any real work responsibilities but with access to the internet—which is, potentially, at least, a repository of almost all human knowledge and cultural achievement—might spark some sort of Renaissance. Nothing remotely along these lines has taken place. Instead, the situation has sparked an efflorescence of social media (Facebook, YouTube, Instagram, Twitter): basically, of forms of electronic media that lend themselves to being produced and consumed while pretending to do something else. I am convinced this is the primary reason for the rise of social media, especially when one considers it in the light not just of the rise of bullshit jobs but also of the increasing bullshitization of real jobs. As we’ve seen, the specific conditions vary considerably from one bullshit job to another. Some workers are supervised relentlessly; others are expected to do some token task but are otherwise left more or less alone. Most are somewhere in between. Yet even in the best of cases, the need to be on call, to spend at least a certain amount of energy looking over one’s shoulder, maintaining a false front, never looking too obviously engrossed, the inability to fully collaborate with others—all this lends itself much more to a culture of computer games, YouTube rants, memes, and Twitter controversies than to, say, the rock ’n’ roll bands, drug poetry, and experimental theater created under the midcentury welfare state. What we are witnessing is the rise of those forms of popular culture that office workers can produce and consume during the scattered, furtive shards of time they have at their disposal in workplaces where even when there’s nothing for them to do, they still can’t admit it openly.
 
 Some testimonies similarly bemoaned the fact that traditional forms of artistic expression simply cannot be pursued under bullshit conditions. Padraigh, an Irish art school graduate shepherded into a pointless job at a foreign tech multinational owing to the complexities of the Irish welfare and tax system—which, he says, makes it almost impossible to be self-employed unless you’re already rich—has been forced to abandon his life’s calling:
 
-> 
+>
 Padraigh: But what kills me most is the fact that outside of work, I have been unable to paint, to follow my creative impulses to draw or scrape out ideas on canvas. I was quite focused on it whilst I was unemployed. But that didn’t pay. So now I have the money and not the time, energy, or headspace to be creative.[111]
 
 He still manages to keep up a political life as an anarchist determined to destroy the economic system that does not allow him to pursue his life’s true calling. Meanwhile, a New York legal aide, James, is reduced to acts of subtle protest: “Spending all day in a sterile office environment, I’m too mentally numb to do anything but consume meaningless media,” he says. “And on occasion, yeah, I do feel quite depressed about it all: the isolation, the futility, the tiredness. My one small act of rebellion is wearing a black-and-red-star pin into work every day—they have no fucking idea!”
 
 Finally, a British psychologist who, owing to Prime Minister Tony Blair’s higher education reforms of the 1990s, was laid off as a teacher and rehired as a “Project Assessor” to determine the effects of laying off teachers:
-
 
 **Harry:** What surprises me is that it’s astonishingly difficult to repurpose time for which one is being paid. I’d have felt guilty if I’d dodged the BS work and, say, used the time to have a go at writing a novel. I felt obliged to do my best to carry out the activities I was contracted to carry out—even if I knew those activities were entirely futile.
 
@@ -1653,24 +1637,23 @@ Finally, a British psychologist who, owing to Prime Minister Tony Blair’s high
 
 **Harry:** Yes, it’s really interesting.
 
-
 So utilizing a bullshit job to pursue other projects isn’t easy. It requires ingenuity and determination to take time that’s been first flattened and homogenized—as all work time tends to be in what James calls “sterile office environment[s]”—then broken randomly into often unpredictably large fragments, and use that time for projects requiring thought and creativity. Those who manage to do so have already sunk a great deal of their—presumably finite—creative energies just into putting themselves in a position where they can use their time for anything more ambitious than cat memes. Not that there’s anything wrong with cat memes. I’ve seen some very good ones. But one would like to think our youth are meant for greater things.
 
 About the only accounts I received from workers who felt they had largely overcome the mental destruction caused by bullshit jobs were from those that had found a way to keep those jobs down to one or two days a week. Needless to say, this is logistically extremely difficult, and usually impossible, for either financial or career reasons. Hannibal might serve as a success story in this regard. The reader may recall him as the man who writes bullshit reports for marketing agencies for as much as £12,000 a go and tries to limit this work if possible to one day a week. During the rest of the week, he pursues projects that he considers utterly worthwhile but knows that he couldn’t possibly self-finance:
 
-> 
+>
 Hannibal: One of the projects I’m working on is to create an image-processing algorithm to read low-cost diagnostic strips for TB patients in the developing world. Tuberculosis is one of the world’s biggest killers, causing one and a half million deaths a year with up to eight million infected at any one time. Diagnosis is still a significant problem, so if you can improve the treatment of just one percent of those eight million infected patients, then you can count lives improved in the tens of thousands per year. We’re already making a difference. This work is rewarding for all those involved. It’s technically challenging, involves problem solving and working collaboratively to achieve a greater goal that we all believe in. It is the antithesis of a bullshit job. However, it is proving virtually impossible to raise more than a very small amount of money to do this.
 
 Even after spending much time and energy trying to convince various health executives there might be potentially lucrative spin-offs of one sort or another, he only raised enough to pay the expenses of the project itself, certainly not enough to provide any sort of compensation for those working on it, including himself. So Hannibal ends up writing meaningless word spaghetti for marketing forums in order to fund a project that will actually save lives.
 
-> 
+>
 Hannibal: If I get the opportunity, I ask people who work in PR or for global pharmaceutical companies what they think of this state of affairs, and their reactions are interesting. If I ask people more junior than me, they tend to think I am setting them some kind of test or trying to catch them out. Perhaps I’m just trying to get them to admit that what they do is worthless so I can persuade their boss to make them redundant? If I ask people more senior than me what they think about this, they will usually start by saying something along the lines of “Welcome to the real world,” like I’m some teenage dropout yet to “get it,” and accept that I can’t stay at home playing video games and smoking weed all day. I must admit that I spent quite a lot of time doing that as a teenager, but I’m no longer a teenager. In fact, I’m usually charging them a huge amount of money to write bullshit reports, so I often then detect that there’s a moment of reflection as they internally question who it is that really doesn’t “get it.”
 
 Hannibal is at the top of his game: an accomplished researcher who can walk with confidence in the corridors of corporate power. He’s aware, too, that in the professional world, playing the part is everything: form is always valued over content, and from all indications, he can perform the role with consummate skill.[112] Thus, he can see his bullshit activities as basically a kind of scam; something he’s putting over on the corporate world. He can even see himself as a kind of modern-day Robin Hood in a world where, as he put it, merely “doing something worthwhile is subversive.”
 
 Hannibal’s is a best-case scenario. Others turn to political activism. This can be extremely beneficial to a worker’s emotional and physical health,[113] and is usually easier to integrate with the fragmented nature of office time—this is true of digital activism, at least—than more conventional creative pursuits. Still, the psychological and emotional labor required to balance meaningful interests and bullshit work is often daunting. I’ve already mentioned Nouri’s work-related health problems, which began to improve markedly when he began working to unionize his workplace. It required definite mental discipline, yes, but not nearly so great as the mental discipline required to operate effectively in a high-pressure corporate environment where one knew one’s work had no effect at all:
 
-> 
+>
 Nouri: I used to have to go literally “insane” to get into work. Scrub away “me” and become the thing that can do this work. Afterward, I’d often need a day to recover; to remember who I am. (If I didn’t, I’d become an acerbic, nitpicky person to people in my private life, enraged over tiny things.)
 
 So I’d have to find all sorts of mental technologies to make my work bearable. The most effective motivations were deadlines and rage. (For example, pretending I was slighted, so I’d “show them” with my excellent productivity.) But as a result, it was hard to organize the different parts of me, the ancient things which cohere into “me”; they quickly went off-kilter.
@@ -1679,7 +1662,7 @@ In contrast, I could stay up late for hours working on workplace organizer stuff
 
 Nouri, too, experienced working on something meaningful as entirely different. True, unlike Hannibal, he wasn’t working with a collaborative team. But even working toward a larger meaningful purpose, he felt, allowed him to reintegrate a shattered self. And eventually he did begin to find the seeds of a community, at least in the minimal form of a fellow isolated workplace organizer:
 
-> 
+>
 Nouri: I began to introduce myself to people by saying that programming is my day job, and workplace organizer is my real job. My workplace subsidizes my activism.
 
 Recently I found someone very much like me online; we’ve become deep, deep friends, and as of last week, I find it so much easier to get into “the zone” for work. I think it’s because someone understands me. For all my other “close” friends, I’m an active listener, a sounding board—because they simply don’t understand the things I care about. Their eyes glaze over when I even mention my activism.
@@ -1740,12 +1723,12 @@ How this has come to happen, and how the current situation has become normalized
 
 ## Chapter 5: Why Are Bullshit Jobs Proliferating?
 
-> 
+>
 In the Scilly Islands… the natives of that group are popularly said to have eked out a precarious livelihood by taking in each other’s washing.
 
 —obscure nineteenth-century joke
 
-> 
+>
 A bourgeois paradise will supervene, in which everyone will be free to exploit—but there will be no one to exploit. On the whole, one must suppose that the type of it would be that town that I have heard of, whose inhabitants lived by taking in each other’s washing.
 
 —William Morris, 1887
@@ -1909,16 +1892,15 @@ On a superficial level, of course, the immediate mechanisms that create bullshit
 
 It seems to me that those creating, playing around with, and destroying large amounts of money in the FIRE sector provide the perfect place to begin to ask this question—in part because many who work in this sector are convinced that almost everything done in it is basically a scam.[136]
 
-> 
+>
 Elliot: So I did a job for a little while working for one of the “big four” accountancy firms. They had been contracted by a bank to provide compensation to customers that had been involved in the PPI scandal. The accountancy firm was paid by the case, and we were paid by the hour. As a result, they purposefully mis-trained and disorganized staff so that the jobs were repeatedly and consistently done wrong. The systems and practices were changed and modified all the time, to ensure no one could get used to the new practice and actually do the work correctly. This meant that cases had to be redone and contracts extended.
 
 In case the reader is unaware, the PPI (payment protection insurance) scandal broke in the United Kingdom in 2006, when a large number of banks were found to have been unloading unwanted and often wildly disadvantageous account insurance policies on their clients. Courts ordered much of the money returned, and the result was an entire new industry organized around resolving PPI claims. As Elliot reported it, at least some of those hired to process these claims were intentionally dragging their feet to milk the contract for all they could.
 
-> 
+>
 Elliot: The senior management had to be aware of this, but it was never explicitly stated. In looser moments, some of the management said things like “We make money from dealing with a leaky pipe—do you fix the pipe, or do you let the pipe keep leaking?” (or words to that effect). There had been vast sums set aside by the bank to pay compensation for the PPI.
 
 This is actually a fairly common story in the testimonies I received: I heard about similar things going on in law firms involved with asbestos compensation payments as well. Whenever a very large sum of money, in the hundreds of millions, is set aside to compensate an entire class of people, a bureaucracy must be set up to locate claimants, process claims, and portion out the money. This bureaucracy may often involve hundreds or even thousands of people. Since the money that pays their salaries is ultimately coming from the same pot, they have no particular incentive to distribute the spoils efficiently. That would be killing the goose that laid the golden egg! According to Elliot, this often led to “crazy, surreal stuff” like intentionally placing offices in different cities and forcing people to commute between them, or printing and destroying the same documents a half dozen times—all the while threatening legal action against anyone who revealed such practices to outsiders.[137] Clearly, the point was to siphon off as much of the money as possible before it got to the claimants; the longer the lower-level people took, the more the company would earn; but owing to the peculiar dynamic discussed in the last chapter, the very pointlessness of the exercise seemed to exacerbate levels of stress and abusive behavior.
-
 
 Elliot: The cynicism involved was remarkable. I guess it works out to a form of parasitism. As it happens, the job was also extremely difficult and stressful: it appeared that part of their business model was placing impossible targets which would increase all the time so that turnover was high and more staff would regularly have to be brought in and mis-trained, so that, I imagine, the firm could plausibly ask their client that the contract be extended further.
 
@@ -1932,19 +1914,18 @@ This was demoralizing, of course. I’m now working as a cleaner, which is the l
 
 **Elliot:** I’m not sure who was ultimately paying for this. The bank? An insurance company that insured the bank against losses on fraud activities in the first place? Of course, ultimately it would be the consumer and taxpayer who pay; all these companies need to know is how to milk it.
 
-
 As long ago as 1852, Charles Dickens, in *Bleak House*, was already making fun of the legal profession with the case of *Jarndyce and Jarndyce—*in which two teams of barristers keep the battle over a huge estate alive for more than a lifetime, until they’ve devoured the whole thing, whereupon they simply declare the matter moot and move on. The moral of the story is that when a profit-seeking enterprise is in the business of distributing a very large sum of money, the most profitable thing for it to do is to be as inefficient as possible.
 
 Of course, this is basically what the entire FIRE sector does: it creates money (by making loans) and then moves it around in often extremely complicated ways, extracting another small cut with every transaction. The results often leave bank employees feeling that the entire enterprise is just as pointless as the accountancy company’s intentionally mis-training employees to milk a cash cow. Surprising numbers of bank employees can’t even figure out what the real justification for their particular species of bank is supposed to be.
 
-> 
+>
 Bruce: I work as a fund accountant at a custodian bank. I’ve never really figured out what custodian banks do. I understand the concepts associated with custodian banks, but I always thought of them as just an unnecessary added layer of accounting. Custodian banks safeguard concepts such as stocks and bonds. How do they actually do that? Can Russian hackers steal these concepts? As far as I can see, the entire custodian bank industry is bullshit.
 
 One reason for the confusion, perhaps, is that the level of general fear, stress, and paranoia appears to be much greater in banks than in most of the other enterprises we’ve been considering so far. Employees are under enormous pressure not to ask too many questions. One rebel banker, who described to me in detail the machinations by which the biggest banks would lobby the government to introduce regulations to their advantage and then expect everyone to play along with the pretense that the regulations had simply been imposed, told me he thought it’s almost as bad as coming out as gay would have been in the 1950s: “There are many people who have read ‘on the phenomenon of bullsh*t jobs’ and know of the reality of our industry, yet they (including myself) are consumed by fear of losing our jobs, so we don’t talk about or discuss these issues openly. We lie to ourselves, our colleagues, and our families.”
 
 Such sentiments were commonplace. Almost all bank workers I corresponded with insisted on elaborate secrecy, effacing any detail that might possibly connect them to their employer. At the same time, many emphasized how cathartic it was to be able to finally express things that had been percolating through their minds for so many years. Here, for instance, is the testimony of Rupert, an economic refugee from Australia now working in the City of London, on bullshitization within the financial institution where he presently works:
 
-> 
+>
 Rupert: So in banking, obviously the entire sector adds no value and is therefore bullshit. But let’s leave that to the side for a minute and look at those within banking who literally do nothing. There actually are not all that many of these because banking is a weird mix. Overall we do nothing, yet within that nothing it’s efficient, meritocratic, and in general lean.
 
 Still, the most obvious is the cheerleader Human Resources Department. At some point, banking realized that everyone hates them, and that their staff knows this, too, so they set about trying to make the staff feel better about it all. We have an intranet that HR was told to make into a kind of internal “community,” like Facebook. They set it up; nobody used it. So they then started to try and bully everyone into using it, which made us hate it even more. Then they tried to entice people in by having HR post a load of touchy-feely crap or people writing “internal blogs” that nobody cared about. Still nobody comes.
@@ -1961,7 +1942,7 @@ Okay, next: the time sheet guy…
 
 After listing a few positions that could easily be automated away and seem to exist only to provide employment, Rupert ends with the most apparently useless position of all:
 
-> 
+>
 Rupert: Finally, middle management. The other day, I had to get an approval from someone at middle-management level. I clicked on a system to email out approval requests. Twenty-five middle managers were listed (only one needed to approve). I had only ever heard of one of them. What are these people doing all day long? Are they not worried about being found out and having to work at McDonald’s?
 
 According to those middle managers who’ve contacted me, the answer to “What are these people doing all day long” would be, in many cases, at least, “Not much.” So in Rupert’s estimation, at least, in the lower echelons, competence and efficiency actually do seem to be the reigning values; the higher one goes up the ladder, the less true this appears to be.
@@ -1970,14 +1951,14 @@ Rupert’s account is fascinating from any number of perspectives. Take the them
 
 Another common theme was the way many of those laboring in financial institutions—to a much larger degree than those in most large corporations—had little or no idea how their work contributed to the bank as a whole. Irene, for example, worked for several major investment banks in “Onboarding”—that is, monitoring whether the bank’s clients (in this case, various hedge funds and private equity funds) were in compliance with government regulations. In theory, every transaction the bank engaged in had to be assessed. The process was self-evidently corrupt, since the real work was outsourced to shady outfits in Bermuda, Mauritius, and or the Cayman Islands (“where bribes are cheap”), and they invariably found everything to be in order. Nonetheless, since a 100% percent approval rate would hardly do, an elaborate edifice had to be erected so as to make it look as if sometimes, they did indeed find problems sometimes. So Irene would report that the outsider reviewers had okayed the transaction, and a Quality Control board would review Irene’s paperwork and duly locate typos and other minor errors. Then the total number of “fails” in each department would be turned over to be tabulated by a metrics division, this allowing everyone involved to spend hours every week in meetings arguing over whether any particular “fail” was real.
 
-> 
+>
 Irene: There was an even higher caste of bullshit, propped atop the metrics bullshit, which were the data scientists. Their job was to collect the fail metrics and apply complex software to make pretty pictures out of the data. The bosses would then take these pretty pictures to their bosses, which helped ease the awkwardness inherent in the fact that they had no idea what they were talking about or what any of their teams actually did. At [Big Bank A], I had five bosses in two years. At [Big Bank B], I had three. The vast majority were installed, cherry-picked by higher-ups, and “gifted” these castles of shit. In many cases, sadly, it was how the companies met their minorities-in-management quota.
 
 So once again, we have the same combination of fraud, pretense (no one was allowed to talk about the shady companies in the Cayman Islands), a system designed not to be understood, which was then pushed off on managers who had no idea what was going on below them, largely because it made no sense. It was all just a meaningless ritual. What’s entirely unclear is whether anyone on top of the food chain—the data crunchers, the just-passing-through executives, even the higher-ups who chose them—actually knew how pointless it all was.
 
 Finally, on top of the usual artificially induced stress and tension and barking about deadlines, the usual sadomasochistic interpersonal relations, and the usual fearful silences (that is, all the things that typically happen when pointless projects are organized on top-down lines), there was the intense pressure on employees to take part in a different set of rituals designed to prove the institution really cared. In Irene’s case, these were not staged charity events, but New Agey seminars that often drove her to the point of tears:
 
-> 
+>
 Irene: On top of the metrics, there were the cruel, patronizing “flexibility” and “mindfulness” seminars. No, you can’t work fewer hours. No you can’t get paid more. No, you can’t choose which bullshit projects to decline. But you can sit through this seminar, where the bank tells you how much it values flexibility.
 
 The mindfulness seminars were even worse. They attempted to reduce the unfathomable beauty and stupefying sadness of the human experience into the raw physicality of breathing, eating, and shitting. Breathe mindfully. Eat mindfully. Shit mindfully, and you can be successful in business.
@@ -1986,17 +1967,17 @@ All of this, presumably, to remind the employee that if one reduced life to pure
 
 What we’ve seen so far from Elliot, Rupert, and Irene are all partial, situated perspectives on very large and complicated organizations. None of them has an overall, panoptic view. But it’s not entirely clear if anyone else does, either. One has to assume the higher-ups in Irene’s story, who intentionally assign executives from minority backgrounds to the onboarding sector, are aware that most of what goes on in that part of the company is bullshit. Even they might not know precisely how and why. Nor would it be possible to create some kind of secret survey to determine what percentage of bank workers secretly believe their jobs to be bullshit and the divisions in which they tend to be concentrated. The closest I was able to find to general insight came from a certain Simon, who had been employed by a series of large international banks in risk management, which basically, he says, means to analyze and “find problems in their internal processes.”
 
-> 
+>
 Simon: I spent two years analyzing the critical payment and operations processes at one bank, with the sole aim to work out how a staff member might use the computer systems to commit fraud and theft, and thereby recommend solutions to prevent this. What I discovered by chance was that most people at the bank didn’t know why they were doing what they were doing. They would say that they are only supposed to log into this one system and select one menu option and type certain things in. They didn’t know why.
 
 So Simon’s job was basically to be the all-seeing eye that determined how different parts of a bank’s many moving parts fit together and iron out any incoherences, vulnerabilities, or redundancies he might find. In other words, he’s about as qualified to answer the question as anyone could be. His conclusions?
 
-> 
+>
 Simon: In my conservative estimation, eighty percent of the bank’s sixty thousand staff were not needed. Their jobs could either completely be performed by a program or were not needed at all because the programs were designed to enable or replicate some bullshit process to begin with.
 
 In other words, forty-eight thousand of the bank’s sixty thousand employees did nothing useful—or nothing that couldn’t easily be done by a machine. These were, Simon believed, de facto bullshit jobs, even if the bank workers themselves were deprived of the means to assess or collectively analyze the situation, and expected to keep any suspicions to themselves. But why didn’t the bank’s higher-ups figure this out and do something about it? Well, the easiest way to answer that question is to observe what happened when Simon did suggest reforms:
 
-> 
+>
 Simon: In one instance, I created a program that solved a critical security problem. I went to present it to an executive, who included all his consultants in the meeting. There were twenty-five of them in the boardroom. The hostility I faced during and after the meeting was severe, as I slowly realized that my program automated everything they were currently being paid to do by hand. It’s not as if they enjoyed it; it was tedious work, monotonous and boring. The cost of my program was five percent of what they were paying those twenty-five people. But they were adamant.
 
 I found many similar problems and came up with solutions. But in all my time, not one of my recommendations was ever actioned. Because in every case, fixing these problems would have resulted in people losing their jobs, as those jobs served no purpose other than giving the executive they reported to a sense of power.
@@ -2005,7 +1986,7 @@ So even if these jobs didn’t originate as flunky jobs, which presumably most d
 
 ### on some ways in which the current form of managerial feudalism resembles classical feudalism, and other ways in which it does not
 
-> 
+>
 The upper quintile is growing in size and income because all the value created by actual productive workers in the lower quintiles gets extracted by those at the top. When the top classes rob everybody else, they need a lot more guard labor to keep their stolen loot secure.
 
 —Kevin Carson
@@ -2044,7 +2025,7 @@ As a general principle, I would propose the following: in any political-economic
 
 ### how managerial feudalism manifests itself in the creative industries through an endless multiplication of intermediary executive ranks
 
-> 
+>
 Every dean needs his vice-dean and sub-dean, and each of them needs a management team, secretaries, admin staff; all of them only there to make it harder for us to teach, to research, to carry out the most basic functions of our jobs.
 
 —anonymous British academic[143]
@@ -2055,7 +2036,7 @@ The same phenomenon can be observed in a dozen different fields. For instance, t
 
 I received several testimonies from workers in TV “development”—that is, small companies in the business of coming up with programming ideas to pitch to larger ones. Here’s an example that illustrates just how much the introduction of market elements within the process has changed things:
 
-> 
+>
 Owen: I work in development. This part of the television industry has expanded exponentially in the last twenty years. TV used to be commissioned by one channel controller who would ask producers he liked to make whatever shows they wanted. There was no “development.” There was just making the show.
 
 Now every company in TV (and film, too) has its own development team, staffed by three to ten people, and there are more and more commissioners whose job it is to listen to their pitches. None of these people make TV shows.
@@ -2066,37 +2047,36 @@ I would say the average development team gets one show commissioned every three 
 
 Such complaints are similar to what one regularly hears in academia: it’s not just the senselessness of the process that rankles, but as with all box-ticking rituals, the fact that one ends up spending so much more time pitching, assessing, monitoring, and arguing about what one does than one spends actually doing it. In film, television, and even radio, the situation becomes even more distressing, because owing to internal marketization of the industry, a substantial chunk of those who work in it spend their time working on shows that do not and will never exist. Apollonia, for instance, did a stint for a development team pitching ideas for reality TV shows with titles such as *Snipped* (where men voted too promiscuous by the audience underwent a vasectomy live on the air), *Transsexual Housewives*, and—this was a real title—*Too Fat to Fuck.* All were cast and promoted, even though not one was ever produced.
 
-> 
+>
 Apollonia: What would happen is we would come up with ideas together and then sell them to networks. Which involves sourcing the talent, building a sizzle video (a thirty-second promo for something that doesn’t exist yet), and then shopping that sizzle around to try and sell it to a network. While I was there, we didn’t sell any shows, presumably because my boss was an idiot.
 
 Apollonia did all the work, so that the Vice President and the Senior Vice President—who were the only other members of her team—could helicopter around the city meeting other vice presidents and senior vice presidents for lunch, and generally acting like high-powered media executives. During the time she worked there, the result of such efforts was precisely zero.
 
 How did this happen? And what happens when an idea *is* accepted? One current Hollywood scriptwriter was kind enough to send me his insider’s analysis of what went wrong and how things now play out:
 
-> 
+>
 Oscar: In the Golden Age of Hollywood, from the 1920s to the 1950s, studios were vertical operations. They were also companies headed by one man, who took all the decisions and who banked his own money. They were not yet owned by conglomerates, and they had no board of directors. These studio “heads” were far from intellectuals, or artists, but they had gut instincts, took risks, and had an innate sense about what made a movie work. Instead of armies of executives, they would actually hire armies of writers for their story department. Those writers were on the payroll, supervised by the producers, and everything was in-house: actors, directors, set designers, actual film stages, etc.
 
 Starting in the sixties, he continues, this system came under attack as vulgar, tyrannical, and stifling of artistic talent. For a while, the resulting ferment did allow some innovative visions to shine through, but the ultimate result was a corporatization far more stifling than anything that had come before.
 
-> 
+>
 Oscar: There were openings in the sixties and seventies (New Hollywood: Beatty, Scorsese, Coppola, Stone), as the film industry was in complete chaos at the time. Then, in the 1980s, corporate monopolies took over studios. It was a big deal, and I think a sign of things to come, when Coca-Cola purchased Columbia Pictures (for a short while). From then on, movies wouldn’t be made by those that liked them or even watched them. (Clearly, this ties in with the advent of neoliberalism and a larger shift in society.)
 
 The system that eventually emerged was suffused with bullshit on every level. The process of “development” (“development hell,” as writers prefer to call it) now ensures that each script has to pass through not just one but usually a half dozen clone-like executives with titles such as (Oscar lists some) “Managing Director of International Content and Talent, Executive Managing Director, Executive Vice President for Development, and, my favorite, Executive Creative Vice President for Television.” Most are armed with MBAs in marketing and finance but know almost nothing about the history or technicalities of film or TV. Their professional lives, like that of Apollonia’s boss, seem to consist almost entirely of writing emails and having ostensibly high-powered lunches with other executives bearing equally elaborate titles. As a result, what was once the fairly straightforward business of pitching and selling a script idea descends into a labyrinthine game of self-marketing that can go on for years before a project is finally approved.
 
 It’s important to emphasize that this happens not just when an independent writer tries to sell a script idea to a studio on “spec,” but even in-house, for writers already inside a studio or production company. Oscar is obliged to work with an “incubator,” who plays a role roughly equivalent to that of a literary agent, helping him prepare script proposals that the incubator will then pass to his own network of top executives, either within or outside the company. His example is of another television show, though he emphasizes the process is exactly the same for movies:
 
-> 
+>
 Oscar: So I “develop” a series project with this “incubator”… writing a “bible”: a sixty-page document that details the project’s concept, characters, episodes, plots, themes, etc. Once that’s done comes the carnival of pitching. The incubator and I propose the project to a slew of broadcasters, financing funds, and production companies. These people are, purportedly, at the top of the food chain. You could spend months in the vacuum of communications with them—emails unanswered and so on. Phone calls are considered pushy, if not borderline harassment. Their jobs are to read and seek out projects—yet they couldn’t be more unreachable if they worked from a shack in the middle of the Amazon Jungle.
 
 Pitching is a strategic ballet. There is a ritual delay of at least a week between each communication. After a month or two, however, one executive might take enough of an interest to agree to a face-to-face meeting:
 
-> 
+>
 Oscar: In the meetings, they ask you to pitch them the project all over again (although they’re supposed to have already read it). Once that’s done, they usually ask you prewritten one-size-fits-all questions filled with buzzwords… It’s always very noncommittal, and without exception, they tell you about all the other executives that would need to approve the project in case it would be decided to move forward.
 
 Then you go, and they forget about you… and you have to follow up, and the loop begins anew. In fact, an executive will seldom tell you yes or no. If he says yes, and then the project goes nowhere or else gets made and bombs, it’s his responsibility. If he says no and then it succeeds somewhere else, he will get blamed for the oversight. Above all, the executive loathes taking responsibility.
 
 The game, then, is to keep the ball in the air as long as possible. Just to option an idea, which involves a mere token payment, typically requires approval from three other branches of the company. Once the option papers are signed, a new process of stalling begins:
-
 
 Oscar: They will tell me the document they optioned is too long to send around; they need a shorter pitch document. Or suddenly they also want some changes to the concept. So we have a meeting, we talk it over, brainstorm.
 
@@ -2108,12 +2088,9 @@ Or they’ll say “I’m not saying you should do *X*, but maybe you should do 
 
 Alternately, the executive will totally, wholeheartedly agree with everything the writer proposes; then as soon as the meeting is over, he’ll send out an email instructing her to do the opposite. Or wait a few weeks and inform her the entire project must be reconceived. After all, if all he did was shake the writer’s hand and allow her to get to work, there’d be little point of having an Executive Creative Vice President to begin with—let alone five or six of them.
 
-
 In other words, film and TV production is now not all that entirely different from the accountancy companies mis-training employees to stall the distribution of PPI payments, or Dickens’s case of *Jarndyce and Jarndyce*. The longer the process takes, the greater the excuse for the endless multiplication of intermediary positions, and the more money is siphoned off before it has any chance to get to those doing the actual work.
 
-
 Oscar: And *all this* for a (now) fifteen-page document. Now, extrapolate that to more people, a script, a director, producers, even more executives, the shoot, the edit—and you have a picture of the insanity of the industry.
-
 
 At this point, we are entering into what might be termed the airy reaches of the bullshit economy, and therefore, that part least accessible to study. We cannot know what Executive Creative Vice Presidents are really thinking. Even those who are secretly convinced their jobs are pointless—and for all we know, that’s pretty much all of them—are unlikely to admit this to an anthropologist. So one can only guess.
 
@@ -2223,7 +2200,7 @@ This was the structural level. In the next two chapters, I will turn to the cult
 
 ## Chapter 6: Why Do We as a Society Not Object to the Growth of Pointless Employment?
 
-> 
+>
 How vain the opinion is of some certain people of the East Indies, who think that apes and baboons, which are with them in great numbers, are imbued with understanding, and that they can speak but will not, for fear they should be imployed and set to work.
 
 —Antoine Le Grand, c. 1675
@@ -2254,7 +2231,7 @@ Still, there’s an obvious problem with the concept of utility. Saying that som
 
 Most economists conclude therefore that there’s no point in sitting in judgment about what people *should* want; better to just accept that they *do* want, and then sit in judgment about how effectively (“rationally”) they set about pursuing their desires. Most workers seem to agree. As I’ve noted, those who felt their jobs were pointless almost never said things such as “I produce selfie sticks. Selfie sticks are stupid. People shouldn’t buy stupid things like that,” or, “Who really needs a two-hundred-dollar pair of socks?” Even the one or two exceptions were revealing. Take Dietrich, who worked for a company that provided party supplies, mostly to local churches:
 
-> 
+>
 Dietrich: I worked for years in the warehouse of a novelty store. I don’t really know what to say other than it was complete and total BS. One doesn’t know true degradation until one has spent a good portion of one’s waking hours schlepping around boxes of clown noses, sneezing powders, plastic champagne flutes, cardboard cutouts of basketball players, and all other manner of other pointless knickknacks and nonsense. Most of the time, we just sat in the back of the warehouse with little to nothing to do, musing on the total irrelevance of what we were doing, year after year, as the business proved more and more unsustainable.
 
 To add insult to injury, our paychecks were bright red and had clown faces on them, much to the amusement of bank tellers everywhere—as if their jobs were any more meaningful!
@@ -2297,34 +2274,34 @@ It seems to me that the words “value” and “values” have become our commo
 
 This was certainly the primary consideration of those who wondered about the larger meaning of their jobs. In most of the testimonies I collected, “meaningful” was just a synonym for “helpful,” and “valuable,” for “beneficial.” Let’s take a glance at some of the ways people reflected on the value of their jobs:
 
-> 
+>
 Car Salesman: I work for a large used-car finance company in the United States that caters to the subprime market. Oftentimes, I find myself wondering if my job really has any value at all besides to the owners of the company.
 
-> 
+>
 Aerospace Engineer: The senior management are happy to work fifty to sixty hours a week (and encourage all their minions to do likewise) to be seen to be busy but without ever producing anything of value… True, if knowledge and new technology are created as by-products, then one could argue that the job retains some value. In some instances of my job, this did occur, but it tended to be the exception rather than the rule.
 
-> 
+>
 Telemarketer: It’s a job with no social value whatsoever. At least if you stack shelves at a supermarket, you are doing something that benefits people. Everybody needs groceries and the things supermarkets sell. In call center work, the calls are essentially time-wasting nuisance calls.
 
-> 
+>
 Freelance Academic Translator: Over the years, I have translated papers from just about every academic discipline—from ecology to corporate law, social science to computer science. The vast majority of it is of no discernible value to humanity whatsoever.
 
-> 
+>
 Pharmacist: I entered the medical profession under the assumption that my job would be meaningful and my work would be helpful. In reality, I’ve realized most of the medical field is a house of cards. I would contest the idea that doctors have genuinely helpful jobs.
 
-> 
+>
 Civil Servant: Neither of these jobs helped anyone in any way.[157]
 
 None of this is likely to be news to most readers; this is the way pretty much anyone might talk about his job if he had to reflect on it in the abstract. As Eric’s father remarked in chapter 3, after dutifully chewing Eric out as a “nonsensical idiot” for quitting such a high-paying job, “Well, what good could that job do for anyone anyway?”
 
 The telemarketer cited above made an explicit appeal to the concept of “social value”—value to society as a whole. This concept came up periodically in other accounts as well:
 
-> 
+>
 Homeowner Association Manager: Managing homeowners associations is one hundred percent bullshit. Wealthy people buy a condo building with a bunch of other wealthy strangers, then hire someone else to manage and maintain it. The only reason this job exists is that the owners don’t like or trust each other. I did this job for three years and never saw one hint of social value.
 
 Or recall Nigel the Data Perfecter, already quoted in chapter 4, who spent hundreds of hours staring at company loyalty card information looking for nonexistent mistakes:
 
-> 
+>
 Data Perfecter: I really think that if we had been processing applications for something that had a more obvious social value—organ transplant registration, say, or tickets to Glastonbury—then it would have felt different.
 
 It’s interesting to juxtapose these two, because they show that for most people, “social value” isn’t just about creating wealth or even leisure. It is equally about creating sociability. Organ donation allows people to save one another’s lives; the Glastonbury music festival allows them to slog through the mud together smoking drugs and playing or listening to their favorite music—that is, to give one another joy and happiness. Such collective experiences can be considered of “obvious social value.” In contrast, making it easier for rich people to avoid one another (it’s a notorious thing that very wealthy people almost invariably dislike their neighbors), shows “not one hint of social value.”
@@ -2332,7 +2309,6 @@ It’s interesting to juxtapose these two, because they show that for most peopl
 Now, “social value” of this sort clearly can’t be measured, and undoubtedly if one were to sit down with any one of the workers whose testimonies I’ve cited, one would find that each had a slightly different idea of what was useful or valuable to society and what was not. Still, I suspect they would all have agreed on at least two things: first, that the most important things one gets out of a job are (1) money to pay the bills, and (2) the opportunity to make a positive contribution to the world. Second, that there is an inverse relation between the two. The more your work helps and benefits others, and the more social value you create, the less you are likely to be paid for it.
 
 ### concerning the inverse relationship between the social value of work and the amount of money one is likely to be paid for it
-
 
 *Virtutum omnium pretium in ipsis est.*
 
@@ -2430,7 +2406,7 @@ Many testimonies remarked on this work-as-an-end-in-itself morality. Clement had
 
 One of the things that puzzled Clement was the way that everyone at his old job felt they had to pretend to one another they were overwhelmed by their responsibilities, despite the obvious fact that they had very little to do:
 
-> 
+>
 Clement: My colleagues often discussed how busy things would get and how hard they work, even though they would routinely be gone at two or three in the afternoon. What is the name for this kind of public denial of the crystal-clear reality?
 
 My mind keeps going back to the pressure to value ourselves and others on the basis of how hard we work at something we’d rather not be doing. I believe this attitude exists in the air around us. We sniff it into our noses and exhale it as a social reflex in small-talk; it is one of the guiding principles of social relations here: if you’re not destroying your mind and body via paid work, you’re not living right. Are we to believe that we are sacrificing for our kids, or something, who we don’t get to see because we’re at work all fucking day!?
@@ -2441,15 +2417,13 @@ This certainly resonates with my own experience. Most academics are first drawn 
 
 Academics aren’t paid for writing or reviewing research articles, but at least the universities that do pay them acknowledge, however reluctantly, that research is part of their job description. In the business world, it’s worse. For instance, Geoff Shullenberger, a writing professor at New York University, reacted to my original 2013 essay with a blog pointing out that many businesses now feel that if there’s work that’s gratifying in any way at all, they really shouldn’t have to pay for it:
 
-
 For Graeber, bullshit jobs carry with them a moral imperative: “If you’re not busy all the time doing something, anything—doesn’t really matter what it is—you’re a bad person.” But the flipside of that logic seems to be: if you actually like doing *X* activity, if it is valuable, meaningful, and carries intrinsic rewards for you, it is wrong for you to expect to be paid (well) for it; you should give it freely, even (especially) if by doing so you are allowing others to profit. In other words, we’ll make a living from you doing what you love (for free), but we’ll keep you in check by making sure you have to make a living doing what you hate.
-
 
 Shullenberger gave the example of translation work. Translating a paragraph or document from one language to another—particularly from a dry business document—is not a task that many people would do for fun; still, one can imagine some reasons people might do it other than the money. (They are trying to perfect their language abilities, for example.) Therefore, most executives’ first instinct, upon hearing that translation work is required, is to try to see if they can’t find some way to make someone do it for free. Yet these very same executives are willing to shell out handsome salaries for “Vice Presidents for Creative Development” and the like, who do absolutely nothing. (In fact, such executives might themselves *be* Vice Presidents for Creative Development, and do nothing at all other than trying to figure out how to get others to do work for free.)
 
 Shullenberger speaks of an emerging “voluntariat,” with capitalist firms increasingly harvesting the results not of paid labor but of unpaid interns, internet enthusiasts, activists, volunteers, and hobbyists, and “digitally sharecropping” the results of popular enthusiasm and creativity to privatize and market the results.[172] The free software industry, perversely enough, has become a paradigm in this respect. The reader may recall Pablo, who introduced the notion of duct taping in chapter 2: software engineering work was divided between the interesting and challenging work of developing core technologies, and the tedious labor of “applying duct tape” to allow different core technologies to work together, because the designers had never bothered to think about their compatibility. His main point, though, was that, increasingly, open source means that all the really engaging tasks are done for free:
 
-> 
+>
 Pablo: Where two decades ago, companies dismissed open source software and developed core technologies in-house, nowadays companies rely heavily on open source and employ software developers almost entirely to apply duct tape on core technologies they get for free.
 
 In the end, you can see people doing the nongratifying duct-taping work during office hours and then doing gratifying work on core technologies during the night.
@@ -2458,7 +2432,7 @@ This leads to an interesting vicious circle: given that people choose to work on
 
 Paradoxically, the more that software engineers collaborate online to do free creative labor simply for the love of doing it, as a gift to humanity, the less incentive they have to make them compatible with other such software, and the more those same engineers will have to be employed in their day jobs fixing the damage—doing the sort of maintenance work that no one would be willing to do for free. He concludes:
 
-> 
+>
 Pablo: My guess is that we are going to see the same dynamics in other industries as well. E.g., if people are willing to write news articles for free, nobody would pay professional journalists. Instead, the money will be redirected to the PR and advertisement industries. Eventually the quality of news will decrease because of lack of funding.
 
 One could argue that this has already begun to happen, as fewer and fewer newspapers and news services employ actual reporters. My purpose here, though, is not to unravel the complex and often arcane labor arrangements that grow out of this ethos, but simply to document the existence of the ethos itself. Attitudes toward labor have changed. Why? How have so many humans reached the point where they accept that even miserable, unnecessary work is actually morally superior to no work at all?
@@ -2467,12 +2441,12 @@ Here we must consider the history of changing ideas about work itself.
 
 ### on the theological roots of our attitudes toward labor
 
-> 
+>
 Man is made to be in the visible universe an image and likeness of God Himself, and he is placed in it in order to subdue the earth… Only man is capable of work, and only man works, at the same time by work occupying his existence on earth.
 
 —Pope John Paul II, *Laborem Exercens* (*On Human Labor*), 1981
 
-> 
+>
 We may define labor as any exertion of mind or body undergone partly or wholly with a view to some good other than the pleasure derived from the work.
 
 —Alfred Marshall, *Principles of Economics*, 1890
@@ -2501,7 +2475,7 @@ In the case of young nobles, “waiting” largely meant waiting for an inherita
 
 The fact that servants were paid is crucial because it meant that while wage labor did exist in Northern Europe, centuries before the dawn of capitalism, almost everyone in the Middle Ages assumed that it was something respectable people engaged in only in the first phase of their working life. Service and wage labor were largely identified; even in Oliver Cromwell’s time, day laborers could still be referred to as “servants.” Service, in turn, was seen above all as the process whereby young people learned not only their trade, but the “manners,” the comportment appropriate to a responsible adult. As one oft-quoted account by a Venetian visitor to England put it around 1500:
 
-> 
+>
 The want of affection in the English is strongly manifested toward their children; for after having kept them at home till they arrive at the age of seven or nine years at the utmost, they put them out, both males and females, to hard service in the households of other people, binding them generally for seven or nine years.[177] And these are called apprentices, and during that time they perform all the most menial offices; and few are born who are exempted from this fate, for everyone, however rich he may be, sends away his children into the houses of others, whilst he, in return, receives those of strangers into his own. And on inquiring their reason for this severity, they answered that they did it in order that their children learn better manners.[178]
 
 Manners, in the medieval and Early Modern sense, went well beyond etiquette; the term referred to one’s manner of acting and being in the world more generally, one’s habits, tastes, and sensibilities. Young people were expected to work for wages in the households of others because—unless one was intending to join the clergy and become a scholar—what we would consider paid work, and what we would consider education, were seen as largely the same thing, and both were a process of learning self-discipline, about “achiev[ing] mastery of one’s baser desires”[179] and learning how to behave like a proper self-contained adult.
@@ -2514,14 +2488,14 @@ As a result of such arrangements, attitudes toward work in medieval Northern Eur
 
 ### how, with the advent of capitalism, work came to be seen in many quarters either as a means of social reform or ultimately as a virtue in its own right, and how laborers countered by embracing the labor theory of value
 
-> 
+>
 No adequate history of the meanings of work has been written.
 
 —C. Wright Mills, *White Collar: The American Middle Classes*, 1951
 
 All this was to change with the advent of capitalism. By “capitalism,” here I am referring not to markets—these had long existed—but to the gradual transformation of relations of service into permanent relations of wage labor: that is, a relation between some people who owned capital, and others who did not and thus were obliged to work for them. What this meant in human terms was, first of all, that millions of young people found themselves trapped in permanent social adolescence. As the guild structures broke down, apprentices could become journeymen, but journeymen could no longer become masters, which meant that, in traditional terms, they would not be a position to marry and start families of their own. They were expected to live their entire lives effectively as unfinished human beings.[181] Inevitably, many began to rebel, give up on the interminable waiting, and began marrying early, abandoning their masters to set up cottages and families of their own—which, in turn, set off a wave of moral panic among the emerging employing class very reminiscent of later moral panics about teenage pregnancy. The following is from *The Anatomie of Abuses*, a sixteenth-century manifesto by a Puritan named Phillip Stubbes:
 
-> 
+>
 And besides this, you shall have every saucy boy, of ten, fourteen, sixteen, or twenty years of age, catch up a woman, and marry her, without any fear of God at all… or, which is more, without any respect how they may live together, with sufficient maintenance for their callings and estate. No, no! It maketh no matter for these things, so he have his pretty pussy to huggle withall, for that is the only thing he desireth. Then build they up a cottage, though but of elder poles, in every lane end almost, where they live as beggers all their life after. This filleth the land with such store of mendicants~~.~~.~~. that in short time it is like to grow to great poverty and scarceness.[182]
 
 It was at this moment that one can speak of the birth of the proletariat as a class—a term derived appropriately enough from a Latin word for “those who produce offspring,” since in Rome, the poorest citizens who did not have enough wealth to tax were useful to the government only by producing sons who could be drafted into the army.
@@ -2532,7 +2506,7 @@ Why, starting in the sixteenth century, did the middle classes suddenly develop 
 
 After the industrial revolution, the celebration of work was taken up with renewed vigor by the Methodists, but even more, if anything, in educated middle-class circles that didn’t see themselves as particularly religious. Perhaps its greatest advocate was Thomas Carlyle, an enormously popular essayist, who, concerned with the decline of morality in the new Age of Mammon, proposed what he called a Gospel of Work. Carlyle insisted that labor should not be viewed as a way to satisfy material needs, but as the essence of life itself; God had intentionally created the world unfinished so as to allow humans the opportunity to complete His work through labor:
 
-> 
+>
 A man perfects himself by working… Consider how, even in the meanest sorts of Labour, the whole soul of man is composed into a kind of real harmony, the instant he sets himself to work! Doubt, Desire, Sorrow, Remorse, Indignation, Despair itself, all these like helldogs lie beleaguering the soul of the poor day-worker, as of every man; but he bends himself with free valour against his task, and all these are stilled, all these shrink murmuring far off into their caves. The man is now a man. The blessed glow of Labour in him, is it not purifying fire, wherein all poison is burnt up?
 
 All true Work is sacred; in all true Work, were it but true hand-labour, there is something of divineness… Oh brother, if this is not “worship,” then I say, the more the pity for worship; for this is the noblest thing yet discovered under God’s sky. Who art thou that complainest of thy life of toil? Complain not. Look up, my wearied brother; see thy fellow Workmen there, in God’s Eternity, sacred Band of the Immortals, celestial Bodyguard of the Empire of Mankind.[185]
@@ -2545,7 +2519,7 @@ By the 1830s, many were, in fact, proclaiming exactly that. It is important to e
 
 Still, Lincoln went on to insist, what made the United States different from Europe, indeed what made its democracy possible, was that it lacked a permanent population of wage laborers:
 
-> 
+>
 “There is not of necessity any such thing as the free hired laborer being fixed to that condition for life. Many independent men everywhere in these States a few years back in their lives were hired laborers. The prudent, penniless beginner in the world labors for wages a while, saves a surplus with which to buy tools or land for himself, then labors on his own account another while, and at length hires another new beginner to help him.”
 
 In other words, even though he didn’t put it quite this way, Lincoln argued that, owing to America’s rapid economic and territorial expansion, it was possible there to maintain something like the old medieval system, in which everyone started out working for others, then used the proceeds of wage labor to set up shop, or buy a farm (on land seized from its indigenous inhabitants), and then eventually themselves play the capitalist, employing young people as laborers in their own right.
@@ -2556,7 +2530,7 @@ Certainly a detail left out of every cowboy movie I ever saw! (The notable excep
 
 ### concerning the key flaw in the labor theory of value as it became popular in the nineteenth century, and how the owners of capital exploited that flaw
 
-> 
+>
 Virtually any form of labor can be described as “caring” in the sense that it results in activities that help meet the needs of others.
 
 —Nancy Folbre
@@ -2583,7 +2557,7 @@ In fact, there was never a time most workers worked in factories. Even in the da
 
 This blindness has consequences. Let me give an illustration. In 2014 there was a transit strike when London’s mayor threatened to close perhaps a hundred London Underground ticket offices, leaving only machines. This sparked an online debate among certain local Marxists about whether the workers threatened with redundancy had “bullshit jobs”—the logic put forward by some being that, either a job produced value for capitalism, which the capitalists clearly no longer thought these jobs did, or else it served a social function that would be necessary even if capitalism did not exist, which clearly these did not since under full communism, transport would be free. Needless to say I was drawn in. Asked to respond, I eventually referred my interlocutors to a circular put out by the strikers themselves, called “Advice to Passengers Using the Future London Underground.” It included lines like these:
 
-> 
+>
 Please ensure you are thoroughly familiar with London Underground’s 11 lines and 270 stations before traveling .~~.~~. Please ensure that there are no delays in your journey, or any accidents, emergencies, incidents, or evacuations. Please do not be disabled. Or poor. Or new to London. Please avoid being too young or too old. Please do not be harassed or assaulted while traveling. Please do not lose your property or your children. Please do not require assistance in any way.
 
 It apparently never having occurred to many advocates of proletarian revolution to investigate what it is that transit workers actually did, they appear to have lapsed into something very like the right-wing tabloid stereotype of city employees as overpaid idlers lounging about on the public dime.
@@ -2606,7 +2580,7 @@ Viewing work as production allows us to ask such questions. This couldn’t be m
 
 ### how, over the course of the twentieth century, work came to be increasingly valued primarily as a form of discipline and self-sacrifice
 
-> 
+>
 We keep inventing jobs because of this false idea that everyone has to be employed at some sort of drudgery because, according to Malthusian Darwinian theory, he must justify his right to exist.
 
 —Buckminster Fuller
@@ -2627,7 +2601,7 @@ There have been an enormous number of surveys, studies, inquests, and ethnograph
 
 We might refer to this as “the paradox of modern work.” The entire discipline of the sociology of work, not to mention industrial relations, has largely been concerned with trying to understand how both these things can be true at the same time. As two paragons of the field, Al Gini and Terry Sullivan, put it in 1987:
 
-> 
+>
 In well over a hundred studies in the last twenty-five years, workers have regularly depicted their jobs as physically exhausting, boring, psychologically diminishing or personally humiliating and unimportant.
 
 [But at the same time] they want to work because they are aware at some level that work plays a crucial and perhaps unparalleled psychological role in the formation of human character. Work is not just a course of livelihood, it is also one of the most significant contributing factors to an inner life… To be denied work is to be denied far more than the things that work can buy; it is to be denied the ability to define and respect one’s self.”[202]
@@ -2648,7 +2622,7 @@ Perhaps we should leave the last word to Carlyle, who includes in his celebratio
 
 Bentham and the Utilitarians, who saw no purpose of human life other than the pursuit of pleasure, can be seen as the philosophical ancestors of modern consumerism, which is still justified by an economic theory of “utility.” But Carlyle’s perspective isn’t really the negation of Bentham’s; or if it is, then only in the dialectical sense, where two apparent opposites remain permanently at war with one another, their advocates unaware that in their struggle, they constitute a higher unity which would be impossible without both. The belief that what ultimately motivates human beings has always been, and must always be, the pursuit of wealth, power, comforts, and pleasure, has always and must always be complemented by a doctrine of work as self-sacrifice, as valuable precisely *because* it is the place of misery, sadism, emptiness, and despair. As Carlyle put it:
 
-> 
+>
 “All work, even cotton-spinning, is noble; work is alone noble, be that here said and asserted once more. And in like manner too, all dignity is painful. A life of ease is not for any man… Our highest religion is named the Worship of Sorrow. For the son of man there is no noble crown, well worn or even ill worn, but there is a crown of thorns!”[206]
 
 [151] For instance, at the height of the Greek debt crisis, public opinion in Germany was almost unanimous that Greek debt should not be forgiven because Greek workers were entitled and lazy. This was countered by statistics showing Greek workers actually put in longer hours than German ones; which, in turn, was countered by the argument that this might be true on paper but Greek workers slacked off on the job. At no point did anyone suggest that German workers were working *too* hard, creating an overproduction problem that could only be solved by lending foreign countries money to be able to import their goods, let alone that the Greek ability to enjoy life was in any way admirable or a model for others. To take another example, when, in the 1990s, the French Socialist Party ran on the platform of a thirty-five-hour workweek, I remember being struck by the fact that no American news source I was able to find that deigned to mention this fact suggested that reducing working hours might be seen as, let alone be, good in itself, but only presented it as a tactic for reducing unemployment. In other words, allowing people to work less could only be treated as a social good if it allowed more people to be working.
@@ -2769,12 +2743,12 @@ Bentham and the Utilitarians, who saw no purpose of human life other than the pu
 
 ## Chapter 7: What Are the Political Effects of Bullshit Jobs, and Is There Anything That Can Be Done About This Situation?
 
-> 
+>
 I believe that this instinct to perpetuate useless work is, at bottom, simply fear of the mob. The mob (the thought runs) are such low animals that they would be dangerous if they had leisure; it is safer to keep them too busy to think.
 
 —George Orwell, *Down and Out in Paris and London*
 
-> 
+>
 If someone had designed a work regime perfectly suited to maintaining the power of finance capital, it’s hard to see how they could have done a better job. Real, productive workers are relentlessly squeezed and exploited. The remainder are divided between a terrorized stratum of the, universally reviled, unemployed and a larger stratum who are basically paid to do nothing, in positions designed to make them identify with the perspectives and sensibilities of the ruling class (managers, administrators, etc.)—and particularly its financial avatars—but, at the same time, foster a simmering resentment against anyone whose work has clear and undeniable social value.
 
 —from “On the Phenomenon of Bullshit Jobs”
@@ -2787,7 +2761,7 @@ In a sense, those critics who claim we are not working a fifteen-hour week becau
 
 ### on how the political culture under managerial feudalism comes to be maintained by a balance of resentments
 
-> 
+>
 Now at the time of which I was speaking, as the voters were inscribing their ostraka [to determine which politician would be expelled from the city], it is said that an unlettered and utterly boorish fellow handed his ostrakon to Aristides, whom he took to be one of the ordinary crowd, and asked him to write Aristides on it. He, astonished, asked the man what possible wrong Aristides had done him. “None whatever,” was the answer, “I don’t even know the fellow, but I am tired of hearing him everywhere called ‘The Just.’ ” On hearing this, Aristides made no answer, but wrote his name on the ostrakon and handed it back.
 
 —Plutarch, *Life of Aristides the Just*
@@ -2802,16 +2776,14 @@ Moral envy is an undertheorized phenomenon. I’m not sure that anyone has ever 
 
 Moral envy of this sort is rife in activist or religious communities; what I would like to suggest here is that it is also, more subtly, present in the politics surrounding work. Just as anger at immigrants often involves the simultaneous accusation that newcomers work both too much and too little, so does resentment against the poor focus simultaneously on those who don’t work, since they are imagined to be lazy, and those who do work, since (unless they’ve been dragooned into some kind of work-fare) at least they don’t have bullshit jobs. Why, for instance, have conservatives in the United States been so successful at whipping up popular resentment against unionized hospital or autoworkers? During the 2008 bailout of the financial industry, while there was a public outcry against bankers’ million-dollar bonuses, no actual sanctions followed; however, the consequent bailout of the auto industry did involve sanctions: on assembly line workers. They were widely denounced as coddled for having union contracts that allowed them generous health and pension plans, vacations, and $28-per-hour wages, and forced into massive give-backs. Those working in the financial offices of the same companies who (insofar as they were not just sitting around doing nothing at all) were the ones who had actually caused the problems and were not expected to make similar sacrifices. As a local paper recalled:
 
-> 
+>
 The bank bailout would be followed in February by a bailout of auto companies. Here, it was assumed that thousands of jobs must be shed for those companies to regain profitability. There had long been envy of auto-workers’ job protection and health benefits; now they became a scapegoat. As once-proud Michigan manufacturing cities all but shut down, right-wing radio commentators asserted that workers—instrumental, historically, through their labor struggles in obtaining seven-day work weeks and forty-hour days for everyone—were getting their just desserts.[207]
 
 One reason American autoworkers had such relatively generous plans, compared with other blue-collar workers, was first and foremost because they played such an essential role in creating something their fellow citizens actually needed, and what’s more, something recognized as culturally important (indeed, central to their sense of themselves as Americans).[208] It’s hard to escape the impression that this was precisely what others resented about them. “They get to make cars! Shouldn’t that be enough for them? I have to sit around filling out stupid forms all day, and these bastards want to rub it in by threatening to go on strike to demand a dental plan, or two weeks off to take their kids to see the Grand Canyon or the Colosseum, on top of that?”
 
 It’s quite the same with the otherwise inexplicable drum-beat of animosity directed, in the United States, against primary and secondary school teachers. Schoolteachers, of course, are the very definition of those who chose a socially important and high-minded vocation in the full knowledge that it would involve low pay and stressful conditions. One becomes a teacher because one wants to have a positive impact on others’ lives. (As a New York subway recruiting ad used to say, “No one ever called someone up twenty years later to thank them for being such an aspiring insurance claims adjuster.”) Yet again, this seems to be what makes them fair game in the eyes of all those who denounce them as spoiled, entitled, overpaid spouters of secular humanist anti-Americanism. Granted, one can understand why Republican activists target teachers’ unions. Teachers’ unions are one of the mainstays of support for the Democratic Party. But teachers’ unions include both teachers and school administrators, the latter being those actually responsible for most of the policies most Republican activists object to. So why not focus on them? It would have been much easier for them to make a case that the school administrators are overpaid parasites than that teachers are coddled and spoiled. As Eli Horowitz noted:
 
-
 What’s remarkable about this is that Republicans and other conservatives actually *did* complain about school administrators—but then they stopped. For whatever reason, those voices (which were few and quiet to begin with) dwindled to nonexistence almost as soon as the conversation began. In the end, *the teachers themselves* turned out to be the more valid political targets, even though they do the more valuable work.[209]
-
 
 Again, I think this can only be put down to moral envy. Teachers are seen as people who have ostentatiously put themselves forward as self-sacrificing and public-spirited, as wanting to be the sort of person who gets a call twenty years later saying “Thank you, thank you for all you did for me.” For people like that to form unions, threaten strikes, and demand better working conditions is considered almost hypocritical.
 
@@ -2849,7 +2821,7 @@ All the other objects of resentment I’ve mentioned so far can be seen as osten
 
 ### how the current crisis over robotization relates to the larger problem of bullshit jobs
 
-> 
+>
 Puritanism: the haunting fear that someone, somewhere, may be happy.
 
 —H. L. Mencken
@@ -2864,7 +2836,7 @@ The latest wave of robotization has caused the same moral crises and moral panic
 
 At this point, my own instinct is to turn for inspiration from Vonnegut to a different science-fiction writer, Stanislaw Lem, whose space voyager Ijon Tichy describes a visit to a planet inhabited by a species to which the author gives the rather unsubtle name of Phools. At the time of his arrival the Phools were experiencing a classic Marxian overproduction crisis. Traditionally, they had been divided into Spiritors (Priests), Eminents (Aristocrats), and Drudgelings (Workers). As one helpful native explained:
 
-> 
+>
 “Through the ages inventors built machines that simplified work, and where in ancient times a hundred Drudgelings had bent their sweating backs, centuries later a few stood by a machine. Our scientists improved the machines, and the people rejoiced at this, but subsequent events show how cruelly premature was that rejoicing.”
 
 The factories, ultimately, became a little too efficient, and one day an engineer created machines that could operate with no supervision at all:
@@ -2943,17 +2915,17 @@ I’ve only been able to identify one solution currently being promoted by socia
 
 Let me end with a final testimony, from an activist friend whose political purpose in life is to render her own bullshit job unnecessary, and one of her fellow activists. Leslie is a Benefits Advisor in the United Kingdom, that is, she works for an NGO whose purpose is to guide citizens through the elaborate obstacle course successive governments have set up to make it as difficult as possible for those out of work, or otherwise in material need, to get access to the money the government claims it has set apart for them. Here is the testimony she sent in:
 
-> 
+>
 Leslie: My job shouldn’t be necessary, but it is, because of the whole long train of bullshit jobs invented to keep people who need money from having it. As if claiming any kind of benefit were not Kafkaesque, intrusive and humiliating enough, they also make it incredibly complicated. Even when someone is entitled to something, the process of applying is so complex most need help to understand the questions and their own rights.
 
 Leslie has had to deal for years with the insanity that ensues when one tries to reduce human caring to a format that can be recognized by computers—let alone computers designed to keep caring precisely limited. As a result she ends up in much the same position as Tania in chapter 2, who had to spend hours rewriting job applicants’ CVs and coaching them on which keywords to use to “make it past the computer”:
 
-> 
+>
 Leslie: There are now certain words which have to be used on the forms, I call it the catechism, which if not used can result in a failed claim—but these are only known by those like myself who have had training and access to the handbooks. And even then, especially for disability claims, the claimant often ends up having to fight through to a tribunal to get their entitlement recognized. I do get a little thrill every time we win through for someone. But this doesn’t make up for the anger I feel about the colossal waste of everyone’s time this is. For the claimant, for me, for the various bods at the DWP [Department of Works and Pensions] who deal with the claim, for the judges at the tribunals, the experts called in to support either side. Isn’t there something more constructive we could all be doing, like, I don’t know, installing solar panels or gardening? I also often wonder about whoever made up these rules. How much did they get paid for it? How long did it take them? How many people were involved? To their minds I guess they were ensuring that the noneligible don’t get money… And then I think of visiting aliens laughing at us, humans inventing rules to prevent other humans from getting access to tokens of a human concept, money—which is by its nature not scarce.
 
 On top of all that, since she is a do-gooder, Leslie can expect to make only a minimal living herself and the money to run her office itself involves satisfying an endless chain of self-satisfied paper pushers.
 
-> 
+>
 Leslie: To add insult to injury, my work is funded by charity trusts, a whole other long chain of BS jobs, from me applying for money up to the CEOs who claim their organizations fight poverty, or “make the world a better place.” At my end this starts with hours searching for relevant funds, reading their guidelines, spending time learning how to best approach them, filling out forms, making phone calls. If successful, I’ll next have to spend hours every month compiling statistics and filling out monitoring forms. Each trust has its own catechism and its own sets of indicators, each wants their own set of evidence that we are “empowering” people, or “creating change” or innovation, when, in fact, we’re juggling rules and language on behalf of people who just need help to fill out the paperwork, so they can get on with their lives.
 
 Leslie told me of studies that demonstrate that any system of means testing, no matter how it’s framed, will necessarily mean at least 20 percent of those who legitimately qualify for benefits give up and don’t apply. That’s almost certainly more than the number of “cheats” who might be detected by the rules—in fact, even counting those who are honestly mistaken the number still only comes to 1.6 percent. The 20 percent figure would apply even if no one actually was formally denied benefits at all. But of course the rules are designed to deny as many claimants as can plausibly be denied: between sanctions and capricious applications of the rules, we’ve gotten to the point now where 60 percent of those eligible for unemployment benefits in the United Kingdom don’t get them. In other words, everyone she describes, the entire archipelago that starts with the bureaucrats who write the rules, and includes the DWP, enforcement tribunals, advocates, and employees who work for the funding bodies that process applications for the NGOs that employ those advocates, all of them, are part of a single vast apparatus that exists to maintain the illusion that people are naturally lazy and don’t really want to work—and therefore, that even if society does have a responsibility to ensure they don’t literally starve to death, it is necessary to make the process of providing them with the means of continued existence as confusing, time-consuming, and humiliating as possible.
@@ -2964,7 +2936,6 @@ Leslie knew this better than anyone because she’d spent time on both sides of 
 
 Candi, a fellow Basic Income activist—who also held a useless job in the system whose details she preferred not to disclose—told me she originally became interested in such issues when she first moved to London in the 1980s and became part of the International Wages for Housework Movement:
 
-
 **Candi:** I got involved in Wages for Housework because I felt that my mother needed it. She was trapped in a bad marriage, and she would have left my dad a lot earlier if she’d had her own money. That’s something really important for anyone in an abusive or even just boring relationship: to be able to get out of it without being financially impacted.
 
 I’d just been in London for a year. I’d been trying to get involved in some form of feminism back in the States. One of my formative memories was my mother taking me to a consciousness raising group in Ohio when I was nine. We ripped out pages from St. Paul’s Gospel where he was talking about how terrible women are and made a pile of them. And because I was the youngest member of the group they told me to light the pile. I remember I wouldn’t do it at first because I’d been taught not to play with matches.
@@ -2973,11 +2944,9 @@ I’d just been in London for a year. I’d been trying to get involved in some 
 
 **Candi:** I did. My mother gave me permission. Not long after that she got a job that paid enough to live on, and immediately, she left my dad. That was kind of proof in the pudding for me.
 
-
 In London, Candi found herself drawn to Wages for Housework—then widely seen by most other feminists as an annoying if not dangerous fringe group—because she saw it as providing an alternative to sterile debates between liberals and separatists. Here at least was an economic analysis of the real-life problems women faced. Some at the time were beginning to speak of a “global work machine,” a planetwide wage-labor system designed to pump more and more effort out of more and more people, but what feminist critics had begun pointing out was that same system also defined what was to be considered “real” labor—the kind that could be reduced to “time” and could thus be bought and sold—and what wasn’t. Most women’s labor was placed in the latter category, despite the fact that without it, the very machine that stamped it as “not really work” would grind to a halt immediately.
 
 Wages for Housework was essentially an attempt to call capitalism’s bluff, to say, “Most work, even factory work, is done for a variety of motives; but if you want to insist that work is only valuable as a marketable commodity, then at least you can be consistent about the matter!” If women were to be compensated in the same way as men then a huge proportion of the world’s wealth would instantly have to be handed over to them; and wealth, of course, is power. What follows is from a conversation with both of them:
-
 
 **David:** So inside Wages for Housework, were there many debates about the policy implications—you know, the mechanisms through which the wages would actually be paid?
 
@@ -2993,14 +2962,12 @@ So we certainly targeted where the money was. But we never much got into the mec
 
 **Leslie:** Global Women’s Strike. That’s the contemporary successor to Wages for Housework. When we came out with the first European UBI [Universal Basic Income] petition back in 2013, that was Global Women’s Strike’s response: two months later, they put out a petition to wage carers instead. Which myself, I wouldn’t have a problem with, if they were willing to admit that everyone is a carer in one form or another. If you’re not looking after someone else then at the very least you’re looking after yourself, and this takes time and energy the system is less and less willing to afford people. But then recognizing that would just lead back to UBI again: if everyone’s a carer, then you might as well just fund everybody, and let them decide for themselves who they want to care for at any given time.
 
-
 Candi had come around from Wages for Housework to UBI for similar reasons. She and some of her fellow activists started asking themselves: Say we did want to promote a real, practical program, what would that be?
 
-> 
+>
 Candi: The reaction we used to get on the street when we leafleted for Wages for Housework was, either women would say, “Great! Where can I sign up?” or they’d say, “How dare you demand money for something I do for love?” That second reaction wasn’t entirely crazy, these women were understandably resistant to commodifying all human activity in the way that getting a wage for housework might imply.
 
 Candi was particularly moved by the arguments of the French Socialist thinker André Gorz. When I offered my own analysis on the inherently unquantifiable nature of caring, she told me Gorz had anticipated it forty years ago:
-
 
 **Candi:** Gorz’s critique of Wages for Housework was that if you kept emphasizing the importance of care to the global economy in strictly financial terms, then there was the danger that you’d end up putting a dollar value on different forms of caring, and saying, that’s its real “value.” But in that case, you are running the risk of more and more of that caring becoming monetized, quantified, and therefore, kind of fucked up, because monetizing those activities often decreases the qualitative value of the care, especially if it’s done, as it is usually, as a list of specific tasks with set time limits. He was already saying that in the seventies, and now, of course, that’s exactly what’s transpired. Even in teaching, nursing.[223]
 
@@ -3012,7 +2979,6 @@ Candi was particularly moved by the arguments of the French Socialist thinker An
 
 **Leslie:** Whereas UBI … Didn’t Silvia [Federici] write or talk in an interview recently about how the UN and then all sorts of world bodies kind of glommed onto feminism as a way to resolve the capitalist crisis of the seventies? They said, sure, let’s bring women and carers into the paid workforce (most working-class women were already doing a “double day”), not to empower women~~but as a way of disciplining men. Because insofar as you see an equalization of wages since then, it’s mainly because in real terms, working-class men’s wages have gone *down*, not because women are necessarily getting that much more. They’re always trying to set us against each other. And that’s what all these mechanisms for assessing the relative value of different kinds of work are necessarily going to be about.
 
-
 That’s why for me, the pilot study of Basic Income carried out in India is so exciting. Well a lot of things are exciting about it—for instance, domestic violence goes way down. (This makes sense because I think some 80 percent of domestic disputes that lead to violence turn out to be about money.) But the main thing is, it starts to make social inequalities dissolve. You start by giving everyone an equal amount of money. That in itself is important, because money has a certain symbolic power: it’s something that’s the same for everyone, and when you give everyone, men, women, old, young, high caste, low caste, exactly the same amount, those differences start to dissolve. This happened in the Indian pilot where they observed that the girls were given the same amount of food as boys unlike before, disabled people were more accepted in village activities, and young women dropped the social convention that said they were supposed to be shy and modest and started hanging around in public like boys… Girls started participating in public life.[224]
 
 And any UBI payment would have to be enough to live on, all by itself, and it would have to be completely unqualified. Everyone has to get it. Even people who don’t need it. It’s worth it, just to establish the principle that when it comes to what’s required to live, everyone deserves that, equally, without qualification. This makes it a human right, not just charity or duct tape for lack of other forms of income. Then if there are further needs on top of that, say someone is disabled, well, then you address that, too. But only *after* you establish the right of material existence for all people.
@@ -3021,7 +2987,7 @@ This is one of the elements that startles and confuses a lot of people when they
 
 What Basic Income ultimately proposes is to detach livelihood from work. Its immediate effect would be to massively reduce the amount of bureaucracy in any country that implemented it. As Leslie’s case shows, an enormous amount of the machinery of government, and that half-government corporate NGO penumbra that surrounds it in most wealthy societies, is just there to make poor people feel bad about themselves. It’s an extraordinarily expensive moral game played to prop up a largely useless global work machine.
 
-> 
+>
 Candi: Let me give an example. Recently I was thinking maybe I’d foster a kid. So I looked into the package. It’s quite generous. You get a council flat, and on top of that you get £250 a week to look after the child. But then I realized: wait a minute. They’re talking about £13,000 a year and an apartment, for one child. Which the child’s parents in probably most cases didn’t have. If we’d just given the same thing to the parents so they didn’t get into so many problems they’d never have had to foster the child to begin with.
 
 And, of course, that’s not even counting the cost of the salaries of the civil servants who arrange and monitor fosterage, the building and upkeep of the offices in which they work, the various bodies that monitor and control those civil servants, the building and upkeep of the offices in which *they* work, and so forth.
@@ -3038,7 +3004,7 @@ Finally, the concept of unconditional universal support is directly relevant to 
 
 It’s always occurred to me this insight is important and could even become the basis for a theory of social liberation. I like to think that Michel Foucault, the French social philosopher, was moving in this direction before his tragic death in 1984. Foucault, according to people who knew him, underwent a remarkable personal transformation on discovering BDSM, turning from a notoriously cagey and standoffish personality to one suddenly warm, open, and friendly[229]—but his theoretical ideas also entered into a period of transformation that he was never able to fully bring to fruit. Foucault, of course, is famous mainly as a theorist of power, which he saw as flowing through all human relationships, even as the basic substance of human sociality, since he once defined it as simply a matter of “acting on another’s actions.”[230] This always created a peculiar paradox because while he wrote in such a way as to suggest he was an antiauthoritarian opposed to power, he defined power in such a way that social life would impossible without it. At the very end of his career, he seems to have aimed to resolve the dilemma by introducing a distinction between what he called power and domination. The first, he said, was just a matter of “strategic games.” Everyone is playing power games all the time, we can hardly help it, but neither is there anything objectionable about our doing so. So in this, his very last interview:
 
-> 
+>
 Power is not an evil. Power is strategic games. We know very well that power is not an evil. Take for example, sexual relationship or love relationships. To exercise power over another, in a sort of open strategic game, where things could be reversed, that is not evil. That is part of love, passion, of sexual pleasure…
 
 It seems to me we must distinguish the relations of power as strategic games between liberties—strategic games that result from the fact that some people try to determine the conduct of others—and the states of domination, which are what we ordinarily call “power.”[231]
@@ -3124,7 +3090,6 @@ I think I should also thank Megan Laws, the indefatigable LSE anthropology gradu
 David Graeber is a Professor of Anthropology at the London School of Economics. He is the author of *DEBT: The First 5,000 Years*, and a contributor to *Harper’s*, *The Guardian*, and *The Baffler*. He lives in London.
 
 ## Bibliography
-
 
 Ackroyd, Stephen, and Paul Thompson. *Organizational Misbehaviour*. London: Sage, 1999.
 

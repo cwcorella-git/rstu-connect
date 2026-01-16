@@ -30,7 +30,7 @@ Introduction: The far left in Britain from 1956 - Evan Smith and Matthew WorleyP
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |
 | A pity not to see this in it, probably too far left for it;
-https://libcom.org/history/looking-back-1956-30-years-after-ken-weller|
+
 | freemind |
 | 6 years 3 months ago |
 | In reply to Welcomebylibcom.org |

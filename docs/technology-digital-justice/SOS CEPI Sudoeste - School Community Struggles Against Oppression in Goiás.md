@@ -11,9 +11,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/sos-cepi-sudoeste-school-community-struggles-against-oppression-goias
-
 ## **Tags:** education, Brazil, Invisiveis
 
 Students, parents and community call from help from the international community and Human Rights Organizations. Since the day 15 of May when a paralisation was organized by a group of Invisible students without leaders, the 'suspected organizers' have been harassed, interrogated, bullied and even been subject to police persecution without any proof of ill doing save maybe participating in a peaceful protest against the cuts in education budget. This has been ocurring in the Colégio Estadual de Período Integral (CEPI) Sudoeste, located in the Sudoeste Sector in Goiânia, Goiás, Brasil.

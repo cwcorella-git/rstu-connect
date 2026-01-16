@@ -11,8 +11,7 @@ tags:
 
 # ferguson_police_department_report.pdf
 
-![Figure from page 1](images/page_001_content/img-000.png) ![Figure from page 1](images/page_001_content/img-001.png) ![Figure from page 1](images/page_001_content/img-002.png) ![Figure from page 1](images/page_001_content/img-003.png) ![Figure from page 1](images/page_001_content/img-004.png) ![Figure from page 1](images/page_001_content/img-005.png) ![Figure from page 1](images/page_001_content/img-006.png) ![Figure from page 1](images/page_001_content/img-007.png)
-    Investigation of the
+Investigation of the
 Ferguson Police Department United States Department of Justice
        Civil Rights Division
            March 4, 2015
@@ -526,7 +525,7 @@ This document was converted from **11_Art_Culture/Books/ferguson_police_departme
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/11_Art_Culture_Books_ferguson_police_department_report/11_Art_Culture_Books_ferguson_police_department_report.md" 
+bash claude code "Collections/11_Art_Culture_Books_ferguson_police_department_report/11_Art_Culture_Books_ferguson_police_department_report.md"
 **Library Location:** 11_Art_Culture is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

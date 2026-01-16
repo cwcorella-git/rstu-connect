@@ -10,8 +10,7 @@ tags:
 - unions
 - Nevada
 ---
-# Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx
----
+
 Reno-Sparks Tenants Union
 Town Hall
 ---

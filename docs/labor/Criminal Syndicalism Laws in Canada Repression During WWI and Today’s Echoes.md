@@ -11,9 +11,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/criminal-syndicalism-laws-canada-repression-during-wwi-and-todays-echoes
-
 **Tags:** Jeff Shantz, Industrial Workers of the World (IWW), anarcho-syndicalism, repression, indigenous, strikes, Canada, First Red Scare, One Big Union
 
 Much has been said about the criminal syndicalism laws in the United States and the outlawing of syndicalist organizing under the first Red Scare in 1919. Yet it is often overlooked that similar laws targeting the Industrial Workers of the World (IWW) were passed in Canada in the context of capitalist attacks on militant working class organizing, and ruling class xenophobia, and fear of transnational labor solidarity, during World War One. Indeed, this September marks the 105-year anniversary of the passing of the most far-reaching anti-syndicalist law in Canada—one that explicitly targeted the IWW making membership a crime. Notably, the Canadian criminalization of syndicalism predated the criminal syndicalism laws in the US.

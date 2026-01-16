@@ -20,7 +20,6 @@ Exposed: Shocking Reasons Rents and Hidden Fees Are Too High - Reno Sparks Tenan
     * [Mutual Aid Requests](https://renosparkstenantsunion.org/mutual-aid-requests/)
     * [Upcoming Events](https://renosparkstenantsunion.org/events/)
 
-
 # Exposed: Shocking Reasons Rents and Hidden Fees Are Too High
 
 March 20, 2025
@@ -42,7 +41,6 @@ Unfortunately for Reno and Sparks tenants, the answer is not so simple, so let�
   3. Landlords Are Not Fixing Habitability Issues
   4. Special Interests Are Lobbying to Use Our Public Lands for Luxury Homes
   5. Here’s How You Can Make a BIG Difference in Only 5 Minutes
-
 
 ### **Landlords Are Price-Fixing Units and Constraining Housing Supply**
 
@@ -66,7 +64,6 @@ SB 426 would have:
   * Limited rent increases to inflation, specifically the cost-of-living adjustment (COLA) **** set annually by the state Housing Division (based on the Consumer Price Index), capped at 5%.
   * Prohibited landlords from charging more rent than was advertised.
 
-
 #### 2\. AB 298 – Fee Transparency
 
 AB 298 would have:
@@ -75,7 +72,6 @@ AB 298 would have:
   * Required landlords to explain all possible fees a tenant could be charged, the purpose of each fee, and whether the fee is variable in the lease agreement.
   * Refund rental application fees if an application is denied or ignored.
   * Stopped landlords from raising rents more than 10% annually for individuals 62 years old and/or on Social Security.
-
 
 #### 3\. AB 340 – Fairer Eviction Processes
 
@@ -87,18 +83,16 @@ AB 340 would have:
   * Given tenants 7 days to file a written response/defense.
   * Sealed COVID-specific eviction records.
 
-
 #### 4\. AB 223 – Habitability Standards
 
 AB 223 would have:
 
   * Made it easier for tenants to withhold rent when a unit is uninhabitable.
   * Allowed tenants to collect damages up to 3x rent if a landlord unlawfully locks out a tenant, cuts of essential services, or interrupts utilities.
-  * Expanded habitability standards to include: 
+  * Expanded habitability standards to include:
     * doors, windows and locks
     * rodent, insect, and vermin control
     * protection from radon, lead, asbestos, toxic mold
-
 
 The [Nevada Independent](https://nevadacurrent.com/2023/06/19/lombardo-kills-tenant-protections-eviction-reforms-despite-warnings-of-homeless-crisis/ "Nevada Independent") covered tons of other bills shut down by the Governor. They quoted the statewide policy director for the Nevada Coalition of Legal Service Prividers, who said **“I think we are going to have people who have never been homeless before face the real prospect of being homeless for the first time.”**
 
@@ -112,7 +106,7 @@ Instead of protecting tenants from unsafe living conditions, Governor Lombardo t
 
 ### **Special Interests Are Lobbying to Use Our Public Lands for Luxury Homes**
 
-Real estate professionals, developers, and investors are teaming up to bulldoze our public lands to build luxury single family homes. 
+Real estate professionals, developers, and investors are teaming up to bulldoze our public lands to build luxury single family homes.
 
 Their plan, called [the “Lands” bill](https://www.landsbill.org/), would sell over 15,000 acres of public land at **massive discounts** to developers for housing development. **If landlords can charge “market rate” for housing, Nevadans should charge _at least_ “market rate” for the land, too.**
 
@@ -123,7 +117,6 @@ The authors claim the bill will set aside over 200,000 acres for conservation, b
   1. [Join our mailing list.](https://docs.google.com/forms/d/e/1FAIpQLSc4Fgq0sW7BFHfFLDvM8NIUIKLtnkDTC9RwUQ1rLin8ZqyoSQ/viewform "Join our mailing list.")
   2. [Email your legislator](https://nvlcb.maps.arcgis.com/apps/instant/lookup/index.html?appid=0815e77623f04028993e9f3ecc56174e "Email your legislator") and tell them you stand with RSTU to support affordable housing and tenants’ rights.
   3. Follow and promote our posts on [Facebook](https://www.facebook.com/renosparkstenants/) and [Instagram](https://www.facebook.com/renosparkstenants/) to join the conversation.
-
 
 In: [Policy](https://renosparkstenantsunion.org/category/policy/), [Rent Stabilization](https://renosparkstenantsunion.org/category/policy/rent-stabilization/)
 

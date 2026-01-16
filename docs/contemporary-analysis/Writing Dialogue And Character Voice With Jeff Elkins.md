@@ -14,9 +14,6 @@ category: "contemporary-analysis"
 ## Audio Player
 
 Podcast: [Download](https://media.blubrry.com/thecreativepenn/content.blubrry.com/thecreativepenn/Podcast_Jeff Elkins3.mp3) (Duration: 1:04:44 — 52.6MB)
-
-Subscribe: [Spotify](https://open.spotify.com/show/070M71FwN4u6HOivKRvqvq?si=R0u1whtwT3WZknzYQ_j Bbw) | [Tune In](https://tunein.com/podcasts/Arts--Culture-Podcasts/The-Creative-Penn-Podcast-p1183352/) | [RSS](https://www.thecreativepenn.com/feed/podcast/) | [More](https://www.thecreativepenn.com/podcasts/)
-
 **How can we write authentic and engaging character dialogue? How can we incorporate sub-text that deepens our writing?** Jeff Elkins, The Dialogue Doctor explains more in this interview.
 
 ## ![](_page_0_Picture_10.jpeg)

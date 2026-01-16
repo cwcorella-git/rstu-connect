@@ -834,7 +834,7 @@ plurimum in amicitia amicorum bene suadentium valeat auctoritas; eaque et adhibe
 
 ### HOW TO BE A FRIEND
 
-one was willing to help these men $\tilde{A}$ ght against their countries, so both men in the end killed themselves. $\hat{A}$ $\hat{A}$ 
+one was willing to help these men $\tilde{A}$ ght against their countries, so both men in the end killed themselves. $\hat{A}$ $\hat{A}$
 
 ÀÂ. Therefore a plea of friendship should never be offered as an excuse for such wicked conspiracies. I believe they should be punished to the full extent of the law so that no one ever thinks it is forgivable to aid a friend in a plot against one's own country— a thing which, as matters are going, I'd not be surprised to see happen in the future. After all, I'm worried about the fate of the Republic after my death as much as I am about the present.
 

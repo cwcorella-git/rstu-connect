@@ -103,8 +103,6 @@ Interesting liveblog from anarchist website:Live Blog #3Oct : General Strike in 
 8 years ago
 
 ## In reply toWelcomebylibcom.org
-
-https://www.iww.org/node/9037
 Statement from the CNT on the situation in CataloniaOpen letter from CNT’s International
 ## Secretary
 

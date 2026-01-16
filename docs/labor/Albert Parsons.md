@@ -65,7 +65,7 @@ Cook [County](https://en.wikipedia.org/wiki/Cook_County_Jail) Jail, [Chicago,](h
 
 ## **Branch** Confederate States Army
 
-County, living on the frontier for three years. $\boxed{4}$ Thereafter, they moved again to the $\boxed{\text{Texas Hill}}$ Country, establishing a farm in the valley of the $\boxed{\text{Brazos}}$ River. $\boxed{4}$ 
+County, living on the frontier for three years. $\boxed{4}$ Thereafter, they moved again to the $\boxed{\text{Texas Hill}}$ Country, establishing a farm in the valley of the $\boxed{\text{Brazos}}$ River. $\boxed{4}$
 
 Years of 1861–1865
 service

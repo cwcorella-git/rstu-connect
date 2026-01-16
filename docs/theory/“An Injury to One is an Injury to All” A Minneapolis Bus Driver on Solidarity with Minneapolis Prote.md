@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/injury-one-injury-all-minneapolis-bus-driver-solidarity-minneapolis-protesters
-
 **Tags:** workplace activity, United States, transport, buses, accounts, Minneapolis, Minnesota, Black Lives Matter movement, Hard Crackers, racism
 
 An interview from Hard Crackers with Adam, a Minneapolis bus driver who refused to let the police use his vehicle and encouraged other drivers to do the same.

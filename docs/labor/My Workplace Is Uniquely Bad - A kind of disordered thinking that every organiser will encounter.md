@@ -66,5 +66,3 @@ https://libcom.org/article/beyond-fck-you-organizers-approach-confronting-hatefu
 ## The Stopwatch And The Wooden Shoe
 
 --An article about the invention of 'scientific management' and how, no shit, the bosses intentionally designed workplaces to break your spirit in this way.
-
-https://libcom.org/article/stopwatch-and-wooden-shoe-scientific-management-and-industrial-workers-world

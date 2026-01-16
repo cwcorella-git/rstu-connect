@@ -42,7 +42,7 @@ I once asked Immanuel Wallerstein why he thought academics engaged in such secta
 
 If one were to follow Wallerstein’s lead, it would no doubt be possible to write a history of academic sectarianism, starting perhaps with the theological quarrels between Dominicans and Franciscans in the thirteenth century – that is, back when the quarrels were literally between rival sects – and tracing it down to the origins of the modern university system in Prussia in the early nineteenth century. As Randall Collins (1998) has pointed out, the reformers who created the modern university system, mainly by putting philosophy in the place formerly held by theology as master discipline and tying the institution to a newly centralizing state, were almost all exponents of one or another form of philosophical Idealism. His argument seems a trifle cynical, but the pattern was repeated in so many places – with Idealism becoming the dominant philosophical mode at exactly the moment that universities were reformed, first in Germany, then England, the United States, Italy, Scandinavia, Japan – that it’s difficult to deny that something is going on here (Collins 1998: 650):
 
-> 
+>
 
 When Kant proposed to make the philosophy faculty arbiter of the other disciplines, he was carrying out a line which made academic careers in themselves superior to careers within the church . . . When Fichte envisioned university professors as a new species of philosopher-king, he was putting in the most flamboyant form the tendency for academic degree holders to monopolize entry into government administration. The basis for these arguments had to be worked out in the concepts of philosophical discourse; but the motivation for creating these concepts came from the realistic assessment that the structure was moving in a direction favorable to a self-governing intellectual elite.
 
@@ -84,7 +84,6 @@ No doubt there are many others.
 
 ### References
 
-
 Bourdieu, P. (1993) *The Field of Cultural Production: essays on art and literature*, in R. Johnson (ed.), Cambridge: Polity Press.
 
 Collins, R. (1998) *The Sociology of Philosophies: a global theory of intellectual change*, Cambridge, MA: Harvard University Press.
@@ -92,7 +91,6 @@ Collins, R. (1998) *The Sociology of Philosophies: a global theory of intellectu
 Comte, A. (1852) *Catechisme Positiviste: ou sommaire exposition de la religion universelle en onze entretiens systematiques entre une femme et un prêtre de l’humanité*, Paris: Chez le Auteur.
 
 Saint-Simon, H. de (1825) *Nouveau Christianisme: dialogues entre un conservateur et un novateur, primier dialogue*, Paris: Bossange.
-
 
 [1] Significantly, those Marxist tendencies that are not named after individuals, like Autonomism or Council Communism, are themselves the closest to anarchism.
 

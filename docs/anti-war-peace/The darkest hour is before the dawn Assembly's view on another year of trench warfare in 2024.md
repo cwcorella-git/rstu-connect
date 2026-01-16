@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/darkest-hour-dawn-assemblys-view-another-year-trench-warfare-2024
-
 **Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, prisons
 
 In the picture: "War is a kind of action, thanks to which people who do not know each other kill each other for the sake of glory and benefit of people who know each other very well, but do not kill each other" (Paul Valéry)

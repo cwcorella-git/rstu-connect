@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/popular-front-volunteer-group-occupied-melitopol-under-persecution-their-aid
-
 **Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, police, Ukraine
 
 This is the story from a resident of another southern Ukrainian town, taken by Russian troops in the first day of spring. Life is half-starving there, but this guy decided to save those who cannot survive in the occupation at all, and now is detained in unknown place.

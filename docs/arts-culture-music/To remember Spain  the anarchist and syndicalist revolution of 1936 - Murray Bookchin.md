@@ -15,9 +15,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/remember-spain-anarchist-and-syndicalist-revolution-1936-murray-bookchin
-
 **Tags:** Murray Bookchin, Spain, Spanish civil war, Confederación Nacional del Trabajo (CNT), mobi,
 
 ## epub, PDF

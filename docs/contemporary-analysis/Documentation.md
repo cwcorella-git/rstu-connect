@@ -339,9 +339,6 @@ Tweak left half of marked curves. Higher values in "Sky Luminance" will make sky
 With default shipped settings Enviro does not limit the colors brightness. This is needed for some post effects to work correctly. For example Bloom. And it also will give you best results and HDR compability. However you need to use some tonemapping to get best results. For example using the Unity Post Processing -> Color Grading tonemapping.
 
 So download and import Unity Post Processing through the Unity Package Manager and setup in your scenes.
-
-https://docs.unity3d.com/Packages/com.unity.postprocessing@2.1/manual/Quickstart.html
-
 Now in your post processing volume profile, add the Color Grading module and activate Tonemapping here. Personally I use the "ACES" mode here.
 
 ## ![](_page_17_Picture_10.jpeg)
@@ -372,14 +369,13 @@ Enviro Sky Mgr.instance. Change Focus (Game Object player, Camera Camera);
 
 ## Activate or deactivate features:
 
-
 Enviro Sky Mgr.instance.use Volume Lighting = true;
 Enviro Sky Mgr.instance.use Volume Clouds = true;
 Enviro Sky Mgr.instance.use Flat Clouds = true;
 Enviro Sky Mgr.instance.use Particle Clouds = true;
 Enviro Sky Mgr.instance.use Sun Shafts = true;
 Enviro Sky Mgr.instance.use Moon Shafts = true;
-## 
+##
 Enviro Sky Mgr.instance.use Distance Blur = true;
 
 ## Change clouds quality:
@@ -390,7 +386,6 @@ Enviro Sky.instance. Apply Volume Clouds Quality Preset(Enviro Volume Clouds Qua
 
 ## Get current Time:
 
-
 int current Second = Enviro Sky Mgr.instance. Time. Seconds;
 int current Minute = Enviro Sky Mgr.instance. Time. Minutes;
 int current Hour = Enviro Sky Mgr.instance. Time. Hours;
@@ -398,26 +393,23 @@ int current Day = Enviro Sky Mgr.instance. Time. Days;
 int current Month = Enviro Sky Mgr.instance. Get Current Month();
 int current Year = Enviro Sky Mgr.instance. Time. Years;
 float time OfDay = Enviro Sky Mgr.instance. Get Time OfDay();
-## 
+##
 ## Get current sun and moon "time" (0-1). Usefull to use in curves and gradient to evaluate values:
-
 
 float solar Time = Enviro Sky Mgr.instance. Time.solar Time;
 float lunar Time = Enviro Sky Mgr.instance. Time.lunar Time;
-## 
+##
 ## Get a time string to be used in your UI:
-
 
 string time String = Enviro Sky Mgr.instance. Get Time String();
 string time String With Seconds = Enviro Sky Mgr.instance. Get Time String With Seconds();
-## 
+##
 ## Set time of enviro:
-
 
 Enviro Sky Mgr.instance. Set Time OfDay(float tod);
 Enviro Sky Mgr.instance. Set Time(int year, int day, int hour, int minute, int second);
 Enviro Sky Mgr.instance. Set Time(System. Date Time date Time);
-## 
+##
 ## Set time progress mode of enviro:
 
 Enviro Sky Mgr.instance. Time. Progress Time = Enviro Time. Time Progress Mode. None;
@@ -479,7 +471,6 @@ Enviro Sky Mgr.instance. Change Weather Instant(Enviro Weather Preset weather Pr
 ## ![](_page_23_Picture_0.jpeg)
 
 ## Events
-
 
 Enviro Sky Mgr.instance. On Weather Changed += (Enviro Weather Prefab type) =>
 {

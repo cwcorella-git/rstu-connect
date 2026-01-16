@@ -59,9 +59,6 @@ ADFI's twitter: https://twitter.com/asghar06483522
 ## Links to https://iran-hrm.com
 
 Iran HRM quoting MEK:
-
-https://iran-hrm.com/index.php/2017/06/26/desecrating-mek-martyrs-graves/
-
 MEK quoting Iran HRM: https://english.mojahedin.org/newsen/59647/iran-human-rights-monitor-monthly-report-november-2017
 
 More on MEK here: https://www.independent.co.uk/news/world/middle-east/mek-maryam-rajavi-anti-iran-albania-cult-state-regime-a8556201.html

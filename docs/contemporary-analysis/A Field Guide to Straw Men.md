@@ -296,7 +296,7 @@ Political scientist Roger Griffin dismisses Third Positionist claims of being "b
 
 If we were going to talk about this esoteric conception — if we were going to discuss whether the perceivable universe is an ever-circling, ever-fluxing field of illusory change emanating from an immutable center in which all ostensibly disparate entities are one; if we're going to talk, in other words, about whether the universe is a swastika — we are essentially in a realm where we are talking about something very much like "magic," and whether or not it is, in fact, real. Talk about complex discussions. This is a subject on which people of all political persuasions remain divided." … Yes, we get it Schroder, the swastika once stood and still stands for something that is not nazism, something very nice. I'd like to remind you that in our age and circumstances it also most often stands for nazism.
 
-[\[20\]](#page-12-0) 
+[\[20\]](#page-12-0)
 
 [\[21\]](#page-13-0) [http://www.shekhovtsov.org/articles/Anton\\_Shekhovtsov-Apoliteic\\_Music.html](https://web.archive.org/web/20160303215022/http://www.shekhovtsov.org/articles/Anton_Shekhovtsov-Apoliteic_Music.html)
 

@@ -8,9 +8,6 @@ category: "contemporary-analysis"
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/grand-national-holiday-and-congress-productive-classes-william-benbow
-
 **Tags:** general strikes, 1800s, 1830s, William Benbow
 
 Published in 1832 this pamphlet is possibly the earliest published advocacy for a general strike as a means for dismantling inequality and the oppression of the ruling class. Self published by William Benbow an unconventional preacher and 19th century radical, the "Sacred Month" was adopted by the Chartists in 1839though Benbow was arrested before it started.

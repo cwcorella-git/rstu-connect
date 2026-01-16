@@ -21,15 +21,15 @@ category: "contemporary-analysis"
 
 ### **Praise for Being Numerous**
 
-"Natasha Lennard's lucid writing about militant social struggles from the inside is in some sense the simplest thing: these are the contemporary forms of what people have long done against intolerable conditions and intransigent powers. And yet engagement with them is so disallowed in the present that Lennard's fidelity to investigation and insight feels hard-won, heroic, and deeply honorable. This is committed journalism at its finest: forbidden, formidable, ferocious." —Joshua Clover, author of *Riot. Strike*. *Riot: The New Era of Uprisings* 
+"Natasha Lennard's lucid writing about militant social struggles from the inside is in some sense the simplest thing: these are the contemporary forms of what people have long done against intolerable conditions and intransigent powers. And yet engagement with them is so disallowed in the present that Lennard's fidelity to investigation and insight feels hard-won, heroic, and deeply honorable. This is committed journalism at its finest: forbidden, formidable, ferocious." —Joshua Clover, author of *Riot. Strike*. *Riot: The New Era of Uprisings*
 
-"I am always thrilled to read work by Natasha Lennard. Her combination of theory and hard reporting is as rare as it is essential. Questions about liberalism and anti-fascism that dominate our political moment are tackled here with theoretical sophistication, serious reporting, and an inimitable style." —Sarah Leonard, coeditor of *The Future We Want: Radical Ideas for the New Century* 
+"I am always thrilled to read work by Natasha Lennard. Her combination of theory and hard reporting is as rare as it is essential. Questions about liberalism and anti-fascism that dominate our political moment are tackled here with theoretical sophistication, serious reporting, and an inimitable style." —Sarah Leonard, coeditor of *The Future We Want: Radical Ideas for the New Century*
 
 "This book is a must read for those interested in elegant and clever writing on the urgent political and social issues of our day. Natasha Lennard offers sharp perspectives on the stale and complacent polarization of left and right. And there is a power and freshness here: amidst the glimpses of the personal—while often couched in erudite philosophical discourse—she reveals herself to be a woman and thinker of substance." —Razia Iqbal, journalist at BBC News
 
-"Deconstruction with a political bite, Natasha Lennard is the left's answer to post-truth." —Malcolm Harris, author of *Kids These Days: Human Capital and the Making of Millennials* "Lennard's writing puts feelings, facts and reasoning in close contact, respectfully learning from each other. As she shows so clearly, this communing of the faculties is one of the keys to an anti-fascist life." —Mc Kenzie Wark, author of *General Intellects: Twenty-One Thinkers for the Twenty First Century* 
+"Deconstruction with a political bite, Natasha Lennard is the left's answer to post-truth." —Malcolm Harris, author of *Kids These Days: Human Capital and the Making of Millennials* "Lennard's writing puts feelings, facts and reasoning in close contact, respectfully learning from each other. As she shows so clearly, this communing of the faculties is one of the keys to an anti-fascist life." —Mc Kenzie Wark, author of *General Intellects: Twenty-One Thinkers for the Twenty First Century*
 
-"Lennard is no mere academic cheering from the sidelines, because fascism is never academic. In her testimonies and elegant critiques, she haunts the specter of its appearance, dealing with its pernicious effects on everyday life, and asks the pertinent question: what does a non-fascist life actually look like?" —Brad Evans, author of *Histories of Violence: Post-War Critical Thought* 
+"Lennard is no mere academic cheering from the sidelines, because fascism is never academic. In her testimonies and elegant critiques, she haunts the specter of its appearance, dealing with its pernicious effects on everyday life, and asks the pertinent question: what does a non-fascist life actually look like?" —Brad Evans, author of *Histories of Violence: Post-War Critical Thought*
 
 # Being Numerous Essays on Non-Fascist Life
 
@@ -65,14 +65,13 @@ A catalog record for this book is available from the Library of Congress
 
 ### Typeset in Sabon by MJ & N Gavan, Truro, Cornwall Printed in the UK by CPI Group
 
-
 Having only the force Of days
-## 
+##
 
 Most simple
 Most difficult
 —George Oppen, 1968
-## 
+##
 For my mother, Sindy, and my person, Lukas.
 
 ### Contents
@@ -119,7 +118,7 @@ I don't mean happenstances, or missteps—too many liberal commentators frame ou
 
 Virilio applied the concept of the "accident" to technological advancement and its logic of acceleration. But the idea is useful broadly, when looking at the operations through which society, selves and power are produced and organized. For example, if the current growth of fascism is an accident, in a sense cribbed from Virilio, it is not because it is a diversion, antithetical to liberal capitalism. The accident was baked into the context.
 
-$\sim$ 
+$\sim$
 
 What follows in this collection, written and updated over the last four years of my career as a columnist, journalist and essayist, is a series of pieces, each of which takes aim at how liberal, capitalist ideology—and its sometimes-fanatical commitment to Enlightenment promises—fails to address its own potential accidents and limitations.
 
@@ -147,7 +146,7 @@ I had miscalculated "we."
 
 In the weeks and months prior to Trump's inauguration, an outpouring of media commentary was dedicated to determining whether the soon-to-be president was or was not a fascist, and whether we were or were not on the verge of living under a fascist regime. Characteristics like selective populism, nationalism, racism, traditionalism, the deployment of Newspeak and a disregard for reasoned debate were rightly noted as fascist tendencies, if not sufficient for some to call the Trump phenomenon a fascist one.
 
-These articles spoke to a genuine panic that the arc of history had been bent in the wrong direction, twisting back on itself toward early twentieth-century Europe. They were steeped in modernity's progress myth, conveniently forgetting that fascism has, in fact, always been continuous with modernity. Whether or not the commentators concluded that Trump was an *actual* fascist, they all agreed that fascism was to be understood as The Worst. This glut of commentary treated fascism as something that takes shape only in the context of a historically constituted regime—the problem of fascism was real, but located only in the threat of its possible return: *Will Donald Trump bring fascism to America?* 
+These articles spoke to a genuine panic that the arc of history had been bent in the wrong direction, twisting back on itself toward early twentieth-century Europe. They were steeped in modernity's progress myth, conveniently forgetting that fascism has, in fact, always been continuous with modernity. Whether or not the commentators concluded that Trump was an *actual* fascist, they all agreed that fascism was to be understood as The Worst. This glut of commentary treated fascism as something that takes shape only in the context of a historically constituted regime—the problem of fascism was real, but located only in the threat of its possible return: *Will Donald Trump bring fascism to America?*
 
 It was as if decades of theorizing fascism—as an ideology, or a tendency, a practice, something that never quite disappeared —had been erased overnight and all that mattered in the media frenzy was delineating Trump's similarities and differences to Hitler or Mussolini.
 
@@ -173,7 +172,7 @@ Meanwhile, magazines and news outlets—only a year ago lousy with warnings agai
 
 What changed? In truth, nothing. We are observing a phenomenon that Martin Luther King Jr. noted well in his 1963 "Letter from a Birmingham Jail." We are dealing with "the white moderate, who is more devoted to 'order' than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice; who constantly says: 'I agree with you in the goal you seek, but I cannot agree with your methods of direct action.'" There is no shortage of irony in the invocation of MLK by today's white moderates in order to decry Antifa tactics as violent; in fact, I believe (if one can so speculate) that these same commentators would have been critical of his radical nonviolence, predicated as it was on the provocation of violent spectacle. It is a great liberal tradition to stand on the wrong side of history until that history is comfortably in the past.
 
-$\sim$ 
+$\sim$
 
 We're seeing a liberal aversion to violence, but it is one that fails to locate violence in the right places.
 
@@ -347,7 +346,7 @@ The literal demonization of Brown as a justification for his killing echoed the 
 
 In *Othello*, written circa 1604, Shakespeare's most villainous creation, Iago, warns the white Venetian senator Brabantio that the "devil will make a grandsire" of him if Othello, the Moor, is permitted to marry and procreate with his white daughter. It was the same racist allusions of Jacobean religious paranoia that found purchase in that Ferguson grand jury meeting room. And the paper of record joined the demonizing chorus, upholding a narrative that stood on the shoulders of centuries of wretched racism.
 
-$\sim$ 
+$\sim$
 
 A related moralization concerned the riots that followed, with angels and demons projected onto well-worn good-protester/bad-protester dichotomies. This played out, too, in Baltimore in 2015, when black twenty-five-year-old Freddie Gray died in custody. His spinal cord had been snapped during a "rough ride" in a police van. After countless police killings of young black people, even the response to furious, righteous protest has become predictable. The protests, we are told, "turn violent." Racists and reactionaries call it thuggery (pure and simple). Liberals, believing themselves on the right side of the anti-racist struggle, condemn the "violent" protesters, and stress the presence of good, nonviolent demonstrators, who marched and mourned but didn't riot or loot.
 
@@ -481,7 +480,7 @@ It was not until January 23, three days after Trump's inauguration, that the Jus
 
 Meanwhile the state cases were already trickling through Morton County, with hundreds still unresolved. "The size and scope of the thing, it's overwhelming," said Freeman.
 
-$\sim$ 
+$\sim$
 
 It's hard to imagine a starker optic disconnect than that between the dramatic spectacle of the protest camps, on the one hand, and the boxy, small-town blocks and parking lot grids that make up the nearby cities, on the other. The pipeline fight provided a visual language of indigenous resistance and frontline militarized battle: the bright flags of every tribal nation flying, the temporary tent and tipi towns, hundreds of bold banners, water protectors in traditional dress mounted on horses, law enforcement officers and National Guardsmen in riot gear. Tear gas. Water cannons. Fire.
 
@@ -525,7 +524,7 @@ The attorney noted that there is hardly anywhere to bring an argument from a sov
 
 After a group dinner in her living room one night, Freeman and I sat in her equally jumbled adjoining bedroom. "In these cases we have both law and proof on our side. But really," she said, with a quiver to her voice, "it's the righteousness of it."
 
-$\sim$ 
+$\sim$
 
 In April 2018, WPLC published a tally of case statistics. Of the 831 arrests, 578 cases had concluded, with 337 won through dismissal or acquittal at trial; 226 water protectors have accepted some sort of pretrial agreement, but none that requires cooperation with the government in other defendants' prosecutions. Over half of these agreements were "pretrial diversions"—delayed dismissals that do not entail an admission of guilt. One hundred and forty-four trials were still to begin.
 
@@ -685,7 +684,7 @@ The far-greater violation, by my lights, was his assumption that I would want to
 
 The arguments that followed didn't focus on the problematics of his assuming my desires for me. They turned on the fulcrum of why my desires weren't somehow better. I wasn't attracted to this person, so my ex called me a body fascist. My ex might be right. My libidinal tastes fit firmly within conventional determinations of beauty. I could, and often do, look back on this story as an ur-example of a manarchist (as they are known) weaponizing the idea of radical sexual politics in order to police the desires of others to serve his own.
 
-And that's all true. No one should be expected to fuck anyone. But this is complicated by the fact that sometimes our desires *are* worth questioning and challenging. Sometimes experimentation, while it should be conditional on consent, *does* require trying things we might not immediately *desire* in and of themselves, but as potential introductions to desiring differently. *Don't know what I want but I know how to get it.* 
+And that's all true. No one should be expected to fuck anyone. But this is complicated by the fact that sometimes our desires *are* worth questioning and challenging. Sometimes experimentation, while it should be conditional on consent, *does* require trying things we might not immediately *desire* in and of themselves, but as potential introductions to desiring differently. *Don't know what I want but I know how to get it.*
 
 But by treating sex as a political project of rupturing preconditioned desires, might we end up reducing each other to experimental objects for our own self-development? And more to the point, such an approach treats sex *acts* as techniques of self-construction, as if the simple meeting of certain bodies serves to subvert and reorganize desires. Maybe it can. Maybe I think there are more urgent political projects than having sex with people I don't currently find attractive, but who share my political diagnoses. And what demarcates political sex from the sort of privileged play of Burning Man orgies? Post festum, does the world look that different? I knew this would get confessional.
 
@@ -887,7 +886,6 @@ Meanwhile, life continues. In the weeks following my last overdose, my days were
 
 # Index
 
-
 accidents, 3, 119
 ACLU (American Civil Liberties Union), 77
 Agamben, Giorgio
@@ -911,7 +909,7 @@ The Argonauts (Nelson), 30
 AT&T, 110–111
 The Babadook (film), 30
 "bad protesters," 74
-## 
+##
 
 Bakken Formation, 57
 Baltimore, MD riots, 38, 43
@@ -947,7 +945,7 @@ Clapper, James, 110–112
 Clark (personal friend of author), 1–2
 classism, 35
 Clinton, Hillary, 2
-## 
+##
 
 collective fury, 39
 corpses, 99–108
@@ -982,7 +980,7 @@ Facebook, 111, 115
 Fanon, Frantz
  Wretched of the Earth, 39
 fascism, as un-bannable, 17
-## 
+##
 
 "fascist habit," 16
 felony riot charges, 45–54
@@ -1017,7 +1015,7 @@ Guatarri, Félix, 15
 habitual police brutality, 35
 Hall, Evelyn Beatrice, 77
 hallucinations, ghosts and, 27
-## 
+##
 
 Hamlet (play), 32
 Harris, Sam, 28
@@ -1052,7 +1050,7 @@ looting, 39–40
 Los Angeles, CA riots (1992), 39–40
 Louis XV, King of France, 104–105
 love, 81–85
-## 
+##
 
 manarchist, 91–92
 Mandan, ND, 60, 62, 65, 67
@@ -1088,7 +1086,7 @@ Nelson, Maggie
 "neo-fascism," 14
 Netanyahu, Benjamin, 105
 New Inquiry, 38–39
-## 
+##
 
 New York Review of Books, 23
 Newsham, Peter, 47, 49
@@ -1123,7 +1121,7 @@ protester violence, 42
 Protevi, John, 16
 public viewings, of corpses, 105
 queer privilege, 92
-## 
+##
 
 queering, 88
 Quine, Willard Van Orman, 28–30
@@ -1158,7 +1156,7 @@ sleep paralysis, 27
 Smith, De Andre, 40
 Snowden, Edward, 109–111, 113
 social contract
-## 
+##
 
 about, 74
  romantic illusion of, 75
@@ -1194,7 +1192,7 @@ Trump, Donald J.
  opposition to, 74
  rights under, 76, 77–78
  starting term as president, 7–8
-## 
+##
 
 truth, types of, 29
 Tufekci, Zeynep, 96
@@ -1229,7 +1227,7 @@ Williams, Bernard, 43
 Williams, Linda, 94
 Wilson, Darren, 36, 37
 Wittgenstein, Ludwig, 23–24, 33–34, 118
-## 
+##
 
 Wizner, Ben, 112
 Women's March, 52–53

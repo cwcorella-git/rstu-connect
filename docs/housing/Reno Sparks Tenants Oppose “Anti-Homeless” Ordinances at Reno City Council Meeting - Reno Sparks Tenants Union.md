@@ -12,9 +12,7 @@ tags:
 - urban
 - Nevada
 ---
-# Reno Sparks Tenants Oppose "Anti-Homeless" Ordinances at Reno City Council Meeting - Reno Sparks Tenants Union
----
-Reno Sparks Tenants Oppose "Anti-Homeless" Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
+
 Reno Sparks Tenants Union
 Blog    Member Stories       Mutual Aid Requests
 Reno Sparks Tenants Oppose
@@ -36,7 +34,7 @@ received. A post by Family Soup Mutual Aid, shared by RSTU on Instagram,
 received over 650 likes and reached far more people.
 One RSTU member, Ben Iness, highlighted how close many Reno renters are
 to losing their homes:
-Reno Sparks Tenants Oppose "Anti-Homeless" Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
+
 Ben Iness giving public comment on January 22, 2025
 "For every $100 increase in rent, we see a 9% increase in the chance of
 becoming unhoused."
@@ -47,17 +45,17 @@ This meets the HUD deﬁnition for
 "Homelessness is a housing problem, not a personal or moral failing. It
 is devastating and diicult whenever we punish folks in response."
 Ben Iness, Reno City Council Public Comment, January 22, 2025
-Reno Sparks Tenants Oppose "Anti-Homeless" Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
+
 UNLV Report.pdf
 RSTU would like to thank the many allies, community members, and
 concerned citizens who showed up Wednesday in-person and online to
 advocate for aordable housing and basic human dignity. Together, we are
 building an unstoppable coalition ﬁghting for safe, digniﬁed, and aordable
 housing for all.
-Reno Sparks Tenants Oppose "Anti-Homeless" Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
+
 The Reno Sparks Tenants Union is recruiting renters, volunteers, donors, and
 ---
-Reno Sparks Tenants Oppose "Anti-Homeless" Ordinanc...   https://renosparkstenantsunion.org/policy/reno-sparks-...
+
 community leaders to join the ﬁght for safe, digniﬁed, and aordable housing
 for everyone. We invite you to get involved and follow us on Facebook and
 Instagram to keep up with the latest news aecting renters in Reno.

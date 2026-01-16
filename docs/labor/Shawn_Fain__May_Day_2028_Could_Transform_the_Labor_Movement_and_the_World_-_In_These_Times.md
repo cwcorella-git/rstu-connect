@@ -149,7 +149,7 @@ This document was converted from **01_Political_Theory/Articles/Shawn Fain_ May 
 
 **Usage with Claude Code:**
 
-bash claude code "Collections/01_Political_Theory_Articles_Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times/01_Political_Theory_Articles_Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times.md" 
+bash claude code "Collections/01_Political_Theory_Articles_Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times/01_Political_Theory_Articles_Shawn_Fain__May_Day_2028_Could_Transform_the_Labor_Movement_and_the_World_-_In_These_Times.md"
 **Library Location:** 01_Political_Theory is organized as:
 - **Books/**: Complete texts and manuals
 - **Articles/**: Papers, documents, and shorter works

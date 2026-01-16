@@ -1731,7 +1731,7 @@ On a recent speaking engagement in Georgia, I was chauffeured by one of the comp
 
 Listening is magic. And it can do wonders for our confidence, conversations, and bottom line. On a PBS special memorializing the late actress Audrey Hepburn, one of her colleagues said, "She had a wonderful quality that made her different—she *listened*."
 
-It's a lesson we can learn from a truly gracious woman, a gem who truly did have *Breakfast at Tiffany s!* 
+It's a lesson we can learn from a truly gracious woman, a gem who truly did have *Breakfast at Tiffany s!*
 
 #### **REMINDERS**
 
@@ -1806,7 +1806,7 @@ And in the category of "new wrinkles" ...:Several years ago I noticed a deep fro
 
 "They only last six months," replied Mumsy. "Don't get one." I became quite cool, thinking she was going to tell me I was perfect as I was. She continued, "Instead, save your money, and in a year and a half, have your whole forehead lifted!" Oh, well.
 
-As we get older, our bodies can become a great source of gentle humor. (We can either laugh or cry.) Diane Parente is an image consultant, author, speaker, and a dear friend. She has cleaned out my closets, ridding me of anything and everything that didn't make the grade. After a shopping adventure in Scottsdale, I came home with an elegant black and silver St. John knit dress, which I tried on for her. As I looked in the mirror, I was struck with horror! I could see a bulge in my thighs. *Oy vay!* 
+As we get older, our bodies can become a great source of gentle humor. (We can either laugh or cry.) Diane Parente is an image consultant, author, speaker, and a dear friend. She has cleaned out my closets, ridding me of anything and everything that didn't make the grade. After a shopping adventure in Scottsdale, I came home with an elegant black and silver St. John knit dress, which I tried on for her. As I looked in the mirror, I was struck with horror! I could see a bulge in my thighs. *Oy vay!*
 
 "Parente, I swear they were not there in Scottsdale. The dress fit perfectly. The store must have had *trick* mirrors!"
 
@@ -2516,9 +2516,8 @@ People often talk about the event or venue, because that is what the commonality
 
 The first conversations may be about the game itself, the course, other courses, the pros, golf stories and jokes, but somewhere out on the seventh or fourteenth hole, business is discussed. Even when the pro fixes up your foursome, by the fifth tee someone will ask,
 
-
 "What do you do?"
-## 
+##
 I am not a golfer, but my sources say that business on the course is best kept very low-key—like the game itself. The good things about the conversation among the foursome are: 1) a captive audience and 2) a solid block of time.
 
 The same process of conversation applies to tennis, hiking, biking, riding, backpacking, theater, musical performance in the intermissions, and so on.
@@ -2763,7 +2762,6 @@ Here are a few of them (courtesy of Dave Arnold, Infosight). Most of them are re
 - :-) Smile; happy :-o Surprised; shocked
 - ;-) Wink
 
-
 :-# My lips are sealed
 :-( Frowning; sad 8-) I'm wearing glasses
 :'-( Crying
@@ -2782,7 +2780,7 @@ humble opinion
 AKA Also
 OTOH On the
 known as
-## 
+##
 other hand
 
 #### TYPE OUTCAST
@@ -3768,13 +3766,12 @@ Or else use the tried-and-true alternative: Excuse yourself and move on.
 
 People who speak what we know to be untruths aren't always telling intentional lies. Sometimes we perceive or remember events differently because we all have different "filters"—as was obvious in the famous duet between Maurice Chevalier and Hermione Gingold in Gigi:
 
-
 "We dined at 9:00."
 "No, it was 8:00."
 "I was on time."
 "No, you were late."
 "Ah yes …:I remember it well."
-## 
+##
 And we often don't. But people who intentionally lie are problematic. What if we find ourselves in a conversation à deux, social group, or a meeting and hear a colleague, co-worker, or relative say something that bears no resemblance to the facts as we know them?
 
 Is silence the best coping strategy? Maybe. Again, it's a judgment call. The best "voice" to listen to is the one in our stomach; it will advise us wisely.

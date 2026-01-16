@@ -130,7 +130,7 @@ Instead of criminalizing homelessness, we advocate for:
 
 ### Public Investment
 - **Affordable housing development** at scale
-- **Mental health and addiction services** 
+- **Mental health and addiction services**
 - **Job training and placement** programs
 - **Childcare and family support** services
 

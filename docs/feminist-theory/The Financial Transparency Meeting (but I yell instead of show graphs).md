@@ -10,7 +10,7 @@ tags:
 | Date: 2025-07-15 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source:
-https://www.threadings.io/the-financial-transparency-meeting-but-i-yell-instead-of-show-graphs/|
+
 | Listen to this essay right here! |
 | The financial transparency meeting but i yell instead of show graphs |
 | 0:00 |
@@ -309,9 +309,6 @@ This is also why I set the goal of 10,000 paid subscribers, specifically on thre
 Which is just a different kind of risk! Once again: I remind us that powerful revolutionary systems incur powerful enemies! Success actually makes me WAY LESS SAFE than failure does! Anyways! Sign up above!!
 
 Here is the form if you have resources that are not just money!
-
-https://www.jotform.com/form/251693630800151
-
 ## Conclusions (for today)
 
 I have proven myself to be effective. I have proven to myself that I am resourceful. I have proven to myself that I can and will do what I say that I will. The risk of increased pooled resources will only shift from risks associated with a lack of personal finances to risk because our collaboration became a threat to the power systems. Both are violent. Okay?

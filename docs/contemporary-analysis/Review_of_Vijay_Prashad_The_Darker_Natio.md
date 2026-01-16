@@ -14,9 +14,6 @@ Jordan T. Camp Race Class 2009 50: 100 DOI: 10.1177/03063968090500040702
 The online version of this article can be found at: http://rac.sagepub.com/content/50/4/100.citation
 
 ## Published by: SAGE
-
-http://www.sagepublications.com
-
 On behalf of:
 
 ## ![](_page_0_Picture_8.jpeg)

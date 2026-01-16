@@ -7,8 +7,7 @@ tags:
 - tenants
 - housing
 ---
-# Landlord-Tenant-Handbook-NLS-April-2022
----
+
 Nevada Landlord-Tenant Law
 Introduction
 Nevada Revised Statutes (NRS) Chapters 40 and 118A contain the provisions of
@@ -38,7 +37,7 @@ Nevada Legal Services. If you are eligible for our services, we will answer your
 question. If not, we can provide a referral to another attorney who can.
 1
 NRS Chapter 648 covers process servers.
-Page 1 of 36
+
 Part One-Moving In
 I.    Lease Requirements
 Nevada law does not require a written lease with your landlord, except if you rent a
@@ -68,7 +67,7 @@ If a landlord offers a written lease, NRS 118A.200 requires:
 (d) Services included with the dwelling;
 (e) Fees which are required and the purposes of the fee;
 (f) Deposits which are required and the conditions for their refund;
-Page 2 of 36
+
 (g) Charges which may be required for late or partial payment of rent or for
 return of any dishonored check;
 (h) Inspection rights of the landlord;
@@ -96,7 +95,7 @@ dishonored checks.
 condition as when the tenancy began.
 This means that if your verbal or written lease does not contain any provision
 regarding late fees, the landlord cannot charge anything for the late payment of rent.
-Page 3 of 36
+
 Prohibited lease terms
 NRS 118A.220(1) prohibits any lease that requires you to:
 (1) Give up any right under NRS Chapter 118A;
@@ -125,7 +124,7 @@ change can happen immediately or anytime less than thirty days. NRS
 If your lease has expired, you landlord must provide 30 days notice of any rent
 increase, if you rent by the week, or 60 days notice if you rent for any longer
 period of time.
-Page 4 of 36
+
 II.   Security Deposits
 NRS 118A.240, 118A.242, and 118A.244, govern security deposits in Nevada.
 What is a security deposit?
@@ -152,7 +151,7 @@ your landlord should not be able to evict you if you do not purchase a surety
 bond. This may be viewed as retaliation under NRS 118A.510(1)(f).
 If you and the landlord agree to have surety bond instead of a deposit, you will
 pay an up-front fee for the bond that will cover the legal deductions normally
-Page 5 of 36
+
 paid by your security deposit. If you disagree with the charges, you must notify
 the surety bond company in writing. The surety bond can sue you for damages if
 the bond does not cover the costs allowable under NRS 118A.242. If the surety
@@ -184,7 +183,7 @@ If you disagree with any deductions the landlord has made, you can sue the
 landlord. If the landlord has made any deductions to your security deposit, you
 have three arguments: (1) the damage did not occur; (2) the deductions were not
 warranted under the law; and (3) the costs were unreasonable, if warranted.
-Page 6 of 36
+
 For example, the landlord deducted the cost to repaint your dwelling based on
 many chips and scuffs on the walls. You deny this damage and your argument
 against this charge would be the damage did not occur (argument 1). If you lived
@@ -217,7 +216,7 @@ Air conditioning, if not provided in your lease or in good working order when yo
 move in, is NOT required under NRS 118A.290. Your lease may also require you
 to make repairs and perform maintenance tasks, so check your lease before
 complaining about any habitability problem or lease violation.
-Page 7 of 36
+
 NRS 118A.350, 118A.355, 118A.360, and 118A.380 contain your remedies if the
 landlord has failed to maintain a habitable dwelling. These laws have different
 requirements and a diagram follows this section.
@@ -245,7 +244,7 @@ You must allow time for landlord to fix problem
 Nevada law provides time for a landlord to fix the habitability problem. For
 problems other than essential services, you must give the landlord 14 days to fix
 the problem. If you want to repair and deduct and have an emergency, you can
-Page 8 of 36
+
 require the landlord to fix the problem sooner than 14 days, but no sooner than 48
 hours after issuing the notice.
 Remedies if the landlord does not fix the problem
@@ -275,7 +274,7 @@ If you want to withhold rent under NRS 118A.355, you do not need to issue
 written notice if the landlord has already received notice from code enforcement or
 some other government agency. Still, you must deposit your rent into an escrow
 account with the justice court.
-Page 9 of 36
+
 Yet, we still strongly advise you to send your own notice, keep a copy of the
 notice, and wait fourteen days for the landlord to fix the problem. Always keep a
 copy of the notice that you give your landlord. You will need it as proof that you
@@ -303,7 +302,7 @@ actions or inaction, then you can pursue your remedies under NRS 118A.380. If
 the essential services problem is not the result of willful or negligent actions of the
 landlord, then you must pursue the remedies under the previous section
 Habitability and Lease Violations.
-Page 10 of 36
+
 Written notice and forty-eight hours to fix
 The landlord must treat your lack of essential services as an emergency that must
 be repaired within forty-eight hours. You should first provide written notice to
@@ -331,7 +330,7 @@ Substitutes for written notice
 If you are suing the landlord for money damages under NRS 118A.380, you do not
 need to issue written notice if the landlord admits in court of the problems. This
 rarely happens.
-Page 11 of 36
+
 If you want to withhold rent or sue for damages under NRS 118A.380, you do not
 need to issue written notice if the landlord has already received notice from code
 enforcement or some other government agency.
@@ -347,7 +346,7 @@ withheld.
 What if the landlord tries to evict me?
 If you withhold rent, the landlord could try to evict you using a five day pay rent or
 quit notice. This would violate Nevada law. See Part 3- Retaliation.
-Page 12 of 36
+
 Habitability Notices and Remedies
 Terminate lease
 118A.350
@@ -369,7 +368,7 @@ deduct
 118A.380                                               R and D, sue,
 Essential                  48 hours                   withhold rent,
 Services                                             rent abatement
-Page 13 of 36
+
 Part 3-Retaliation and the Fair Housing Act
 I.    Retaliation
 NRS 118A.510 protects you from retaliation. Retaliation requires two
@@ -394,7 +393,7 @@ domestic violence, the landlord cannot react by:
 (a) Threatening to serve or serving an eviction notice, unless the eviction is
 based on the failure to pay rent, nuisance, or a lease violation,
 (b) Increasing your rent, or
-Page 14 of 36
+
 (c) Decreasing essential services required by NRS Chapter 118A or the
 lease.
 If the landlord has retaliated against you, NRS 118A.510 allows you to sue the
@@ -420,7 +419,7 @@ Discrimination under Nevada law
 NRS Chapter 118 contains Nevada’s anti-discrimination laws. These laws mirror
 the federal Fair Housing Act, except Nevada law includes sexual orientation and
 gender identity in the protected classes. NRS 118.100.
-Page 15 of 36
+
 Part 4-Leaving So Soon?
 I.    Surrender and Abandonment
 Under NRS 118A.480, a landlord does not have to issue any eviction notice if you
@@ -450,7 +449,7 @@ the exclusive eviction procedure for the resident of a manufactured home or in a
 home after transfer of ownership through sale or foreclosure.
 The more popular eviction process is summary eviction. This booklet does not
 cover the plenary eviction process, except with regard to foreclosures or transfer of
-Page 16 of 36
+
 ownership below. Generally, service of a seven day pay rent or quit notice or five
 day unlawful detainer notice signals summary eviction.
 Summary Eviction
@@ -481,7 +480,7 @@ when a landlord issues an eviction notice. 2
 As of September of 2019, Justice Court and District Court have different versions of Rule 6.
 Justice Court excludes weekends, holidays, and non-judicial days counting 10 days or less.
 District Court counts these days.
-Page 17 of 36
+
 If you have received a seven day pay rent or quit notice, NRS 40.253 allows you
 until close of business (when court closes) on the seventh day following service of
 this notice to pay the rent, move, or file an affidavit with the justice court. In
@@ -512,7 +511,7 @@ the eviction because service was insufficient and the court does not have
 jurisdiction to enter an eviction order. You must file a motion right away and we
 suggest contacting Nevada Legal Services or consulting with another attorney to
 avoid the eviction.
-Page 18 of 36
+
 Only a constable or sheriff, registered process server, or an attorney or agent of an
 attorney can serve eviction notices. Only the constable or sheriff can serve
 eviction orders.
@@ -542,7 +541,7 @@ Supreme Court has determined that “legal defense” is when you have a “genu
 issue of material fact.” Anvui, LLC v. Dragon, LLC, 163 P.3d 405 (2007). You
 also have a legal defense if you establish a jurisdictional error by the court or the
 landlord.
-Page 19 of 36
+
 If the judge finds that you have raised a legal defense, the judge will deny the
 eviction. If you do not raise a legal defense, the judge will grant the eviction and
 issue an order. The constable or sheriff must serve the eviction order within
@@ -573,7 +572,7 @@ NRS 40.253 specifically provides that if you paid the rent or tried to pay the r
 should provide a receipt or some other evidence that demonstrates you paid or tried
 to pay the rent. If you have tried to pay the rent, do not spend this money and
 bring it with you to court.
-Page 20 of 36
+
 (b) I have a legal reason for not paying the rent
 There are a wide variety of legal reasons for not paying the rent. Many judges are
 not aware or refuse to recognize these reasons so you should carefully consider
@@ -604,7 +603,7 @@ NRS 118A.490 allows you to offset or subtract from your rent any amount the
 landlord owes you under your lease, NRS Chapter 118A, or other applicable law.
 To have a defense to a nonpayment eviction, this offset amount must equal or
 exceed the rent you owe to the landlord.
-Page 21 of 36
+
 For example, a leaky roof has caused $2,000 in damages to your furniture and
 clothing. You have not paid this month’s rent which is $1,000 and the landlord has
 served a seven day pay rent or quit notice. You would have a legal defense to the
@@ -634,7 +633,7 @@ court. The court will determine whether you can stay and for how long. You
 should wait until near the end of your thirty day notice because if the court denies
 your request for a thirty day extension, the court can order your eviction within
 five days.
-Page 22 of 36
+
 If you are not disabled and not over fifty-nine, you can still ask the court for more
 time to move. You do this by waiting for the landlord to serve a five day unlawful
 detainer (required after your thirty or seven day notice expires). Then, you must
@@ -664,7 +663,7 @@ classes under Nevada law. Any act of discrimination is a defense to a no cause
 eviction notice. While some discrimination is easy to spot, other discriminatory
 actions are not. For example, your landlord cannot evict you for having children.
 If you have a mental or physical disability, a landlord cannot evict you because you
-Page 23 of 36
+
 need a service animal even if the service animal has NO special training. See Part
 3(II) –The Fair Housing Act.
 Five day unlawful detainer notice
@@ -692,7 +691,7 @@ from saving your tenancy even though you fixed the problem or it does not recur.
 Grounds for eviction
 Your eviction notice should contain the reasons for the eviction. Justice Court
 Rule of Civil Procedure 101. The reasons should contain enough information for
-Page 24 of 36
+
 you to figure out what the landlord is referring to and enable you to present a
 meaningful defense to the court.
 What is a lease violation?
@@ -722,7 +721,7 @@ after the five day lease violation or three day nuisance notice expires.
 The five day unlawful detainer notice is the required notice if the landlord seeks a
 summary eviction order. The five day unlawful detainer notice must advise you
 that you have five judicial days to move or file an affidavit with the justice court.
-Page 25 of 36
+
 If you want to file an affidavit, you must file within five business days and the
 information on the contesting the eviction is contained above.
 Four Day Housebreaker/Squatter Notice
@@ -754,7 +753,7 @@ business days after the day you receive the notice to either move out, request a
 delay in the eviction (stay), or contest the eviction. Do not count weekends,
 holidays, and other days the court is closed. To contest the eviction, you must file
 an affidavit with the Justice Court in your township.
-Page 26 of 36
+
 The landlord may also serve a five day unlawful detainer notice. This notice is
 similar to the 4 day housebreaker notice, except you get one extra weekday to file
 your affidavit.
@@ -785,7 +784,7 @@ the right to charge reasonable storage fees, or moving and storage fees before
 returning your property to you.
 If you have been through the court process or the constable/sheriff locked you out,
 then you only have 14 days to file a motion (not affidavit) to challenge the
-Page 27 of 36
+
 landlord’s right to hold your property. The landlord must wait 21 days, however,
 before disposing of your property.
 ***
@@ -814,7 +813,7 @@ If the landlord does withhold your property for back rent, you can sue the landl
 to return the property and for up to $2,500 in statutory damages, plus actual
 damages, under NRS 118A.520 and 118A.390.
 What charges are reasonable?
-Page 28 of 36
+
 A reasonable charge to store your property would be up to the daily prorated rent
 you paid when you lived in the dwelling. For example, if you paid $300 per month
 in rent, the landlord could reasonable charge $10 per day ($300 divided by 30) to
@@ -842,7 +841,7 @@ this does not mean that you do not have any other alternatives. One alternative 
 to file a small claims action against the landlord for the value of the property that
 you could not get back. You can sue the landlord for negligence based on a
 violation of NRS 118A.460 or conversion (as explained below).
-Page 29 of 36
+
 What is conversion?
 If the landlord has not stored your property for thirty days and gave your property
 to someone else, you can claim conversion and sue this person. “Conversion” is
@@ -873,7 +872,7 @@ Generally, you will know whether your landlord is going through foreclosure. The
 bank must provide notice to the landlord and post this notice on the property. If
 you have any doubts, property records are available to the general public. Your
 local county recorder’s office will have a notice of default (initiating the
-Page 30 of 36
+
 foreclosure process), the notice of sale (the last notice before the sale), and any
 other foreclosure notices required by law. Transfer of title documents will also be
 available. These documents demonstrate who has legal title of your dwelling and
@@ -903,7 +902,7 @@ more) after the notice of sale is recorded. You will this notice of sale, along 
 another Notice of Tenant’s Rights. The Notice of Tenant’s Rights informs you of
 your rights as a tenant. Your landlord has until five day before the sale at auction
 to save the dwelling from foreclosure.
-Page 31 of 36
+
 Do I have to pay rent even though the landlord is in foreclosure?
 Even though the landlord may not be paying the mortgage, you must continue to
 pay the rent as long as you live in the dwelling and the landlord owns the property.
@@ -929,7 +928,7 @@ handle. The container holds the key to your dwelling. The lock box provides litt
 or no notice and you can refuse to allow the landlord or real estate agent to put the
 lock box on your door. If the landlord installs a lock box on your door without
 your permission, you can seek an injunction.
-Page 32 of 36
+
 NRS 118A.500 allows you to seek an injunction to stop the landlord from abusing
 the right to access your dwelling. A lock box would be an abuse of the landlord’s
 right to access your dwelling. If a lock box is on your door handle, you should
@@ -956,7 +955,7 @@ property if no acceptable bid is made at the foreclosure auction. After title to
 property is taken away from your landlord, you can voluntarily leave after the
 foreclosure and we recommend providing notice to the new owner. NRS 40.255
 provides this right.
-Page 33 of 36
+
 If you stay, you must pay your rent and abide by the terms of your lease. The new
 owner must honor your lease and cannot evict you until it expires. If you live in
 residential housing, four units or less, the new must provide a sixty day notice.
@@ -982,7 +981,7 @@ before leaving. If the new owner will only pay you after you move out, then you
 should get the cash for keys offer in writing.
 Sale or Transfer/How much time do I have?
 "Residential Sale"
-Page 34 of 36
+
 If the landlord sells or transfers your residential dwelling (four units or less), and
 not through a foreclosure, then the new owner must honor your lease provide a
 thirty day notice. After the thirty days expire, or your lease expires, whichever is
@@ -1010,7 +1009,7 @@ previous landlord and must return the deposit or provide a written accounting
 within thirty days after you move out.
 After a foreclosure, the old owner may also return the security deposit to you, after
 making any deductions allowed under NRS 118A.242 (explained above).
-Page 35 of 36
+
 If the security deposit is not transferred and not returned to you, you can sue the
 old landlord under NRS 118A.242 if more than thirty days have expired after the
 property transfers.
@@ -1029,5 +1028,5 @@ assistance.
 AB141-Any nonpayment eviction during the State of Emergency is automatically
 sealed.
 Both of these provisions end in 2023. Stay up to date at nevadalegalservices.org
-Page 36 of 36
+
 ---

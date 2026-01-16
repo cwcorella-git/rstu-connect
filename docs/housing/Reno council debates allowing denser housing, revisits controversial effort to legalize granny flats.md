@@ -9,8 +9,7 @@ tags:
 - housing
 - Nevada
 ---
-# Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats
----
+
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...
 foxreno.com
 Reno council debates allowing

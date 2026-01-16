@@ -55,9 +55,6 @@ To get the kind of wholesale change we need, in the timeframe available, is goin
 Links:
 
 The Power to Transform the South West report can be found here:-
-
-http://mollymep.org.uk/2015/04/17/power-to-transform
-
 The views expressed here are not the official position of the IWW (or even the IWW's EUC)
 
 and do not necessarily represent the views of anyone but the author's.

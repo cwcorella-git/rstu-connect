@@ -1095,10 +1095,9 @@ During the execution o a cell, the input prompt will contain an asterisk. I it s
 
 Finally, it is important to keep separate the display and output areas below the input cell. The dierence between these two areas is subtle and conusing, but is very important in some instances. The display area is reserved or any item that code has produced or viewing. That includes simple text (i.e., print("hello, world")) or gures rom a plot. The output area is reserved or items that the cell "returns." This is why in many notebooks you may see a variable assignment ollowed immediately by the variable, like this:
 
-
 x = 2434 + 33476
 x
-## 
+##
 In this example, you wouldn't actually see the value computed unless you print it to the display area, or return the value. Here, we return it as the last value o the cell.
 
 ## ![](_page_41_Picture_8.jpeg)
@@ -1127,10 +1126,9 @@ In addition to the IPywidgets library, the ipyleaet library (https://ipylealet.r
 
 #### Example
 
-
 from ipyleaflet import Map
 Map(center=[34.6252978589571, -77.34580993652344], zoom=10)
-## 
+##
 For the ambitions reader, there are resources available or you to write your your own custom widgets. The widget cookie cutter project (https://ipywidgets.rtd.io) is a good place to start.
 
 #### 5.3.3 Magics
@@ -1217,7 +1215,7 @@ The set o extensions or Jupyter is constantly evolving. Educators are exploring 
 The block-based programming extension (called Jigsaw) allows users to program using drag-and-drop blocks o code that can be integrated with other cells in a Jupyter Notebook (see gure). The advantages (and disadvantages) o blocked-based languages are active research topics in computer education research (see, or example, Mark Guzdial's excellent Computing Education Research Blog, specically those posts on block-based languages).
 
 $$\begin{bmatrix} 1. & 1. & 1. \\ 1. & 1. & 1. \end{bmatrix}$$
-+ $\begin{bmatrix} 1. & 2. & 3. \\ 4. & 5. & 6. \end{bmatrix}$ = $\begin{bmatrix} 2. & 3. & 4. \\ 5. & 6. & 7. \end{bmatrix}$ 
++ $\begin{bmatrix} 1. & 2. & 3. \\ 4. & 5. & 6. \end{bmatrix}$ = $\begin{bmatrix} 2. & 3. & 4. \\ 5. & 6. & 7. \end{bmatrix}$
 
 Figure 5.4: Google Collaboratory uses Jupyter extensions to customize Jupyter or their users. The run/play icon to the let o the code cell is created using extensions. This is not present in the standard Jupyter sotware. Tensor Flow is a library or creating Machine Learning experiments in Python.
 

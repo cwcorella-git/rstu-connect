@@ -46,22 +46,22 @@ Please first navigate to a specific Image before printing.
 - •
 - •
 
-- 
+-
 
-- 
+-
 
 ## ![](_page_3_Picture_4.jpeg)
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
-- 
+-
 
 -

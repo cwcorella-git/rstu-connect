@@ -1004,7 +1004,7 @@ The longest recorded strike between the Screen Actors Guild and Alliance of Moti
 
 Join us for our First Strike Festival 2024! And learn more about the 1824 Strike
 
-- 
+-
 
 ## ![](_page_76_Picture_8.jpeg)
 

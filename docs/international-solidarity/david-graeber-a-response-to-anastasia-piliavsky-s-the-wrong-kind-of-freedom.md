@@ -24,7 +24,7 @@ Now, it is certainly true that in certain sections, I identify myself with that 
 
 Insofar, as I weigh in on the question at all in the book, I make it clear that I do not believe that given the opportunity, people are likely to eliminate bureaucratic procedures entirely:
 
-> 
+>
 
 Bureaucracy holds out at least the possibility of dealing with other human beings in ways that do not demand either party has to engage in all those complex and exhausting forms of interpretive labor described in the first essay in this book, where just as you can simply place your money on the counter and not have to worry about what the cashier thinks of how you are dressed, you can also pull out your validated photo ID card without having to explain to the librarian why you are so keen to read about homoerotic themes in eighteenth century British verse. Surely, this is part of the appeal. In fact, if one really ponders the matter, it is hard to imagine how, even if we do achieve some utopian communal society, some impersonal (dare I say, bureaucratic?) institutions would not still be necessary, and for just this reason. To take one obvious example: languishing on some impersonal lottery system or waiting list for a desperately needed organ transplant might be alienating and distressing, but it is difficult to envision any less impersonal way of allocating a limited pool of hearts or kidneys that would not be immeasurably worse (p.152.)
 
@@ -38,7 +38,7 @@ Finally, I guess I will have to address the reviewer’s claim that as an advoca
 
 So here goes. The reviewer asks: how would it be possible to organize, say, a train system in a society with no rules at all? My answer is it would not be possible to do so, and this is why it would never occur to me to advocate a society with no rules at all. Here again, I actually wrote a paragraph explaining why that was not my position (not that I should really have had to, since it is an absurd position that no one would actually hold, but as it happens I did write it):
 
-> 
+>
 
 It is worth thinking about language for a moment, because one thing it reveals, probably better than any other example, is that there is a basic paradox in our very idea of freedom. On the one hand, rules are by their nature constraining. Speech codes, rules of etiquette, and grammatical rules, all have the effect of limiting what we can and cannot say. It is not for nothing that we all have the picture of the schoolmarm rapping a child across the knuckles for some grammatical error as one of our primordial images of oppression. But at the same time, if there were no shared conventions of any kind—no semantics, syntax, and phonemics—we had all just be babbling incoherently and would not be able to communicate with each other at all. Obviously in such circumstances, none of us would be free to do much of anything. So at some point along the way, rules-as-constraining pass over into rules-as-enabling, even if it is impossible to say exactly where. Freedom, then, really is the tension of the free play of human creativity against the rules it is constantly generating (p.199).
 
@@ -46,7 +46,7 @@ Rather than claiming that freedom can only come by eliminating all rules, I expl
 
 In case that was not clear enough:
 
-> 
+>
 
 Freedom has to be in tension with something, or it is just randomness. This suggests that the absolute pure form of play, one that really is absolutely untrammeled by rules of any sort (other than those it itself generates and can set aside at any instance) itself can exist only in our imagination, as an aspect of those divine powers that generate the cosmos… There is also something potentially terrifying about play for just this reason, because this open-ended creativity is also what allows it to be randomly destructive. Cats play with mice. Pulling the wings off flies is also a form of play. Playful gods are rarely ones any sane person would desire to encounter (p.192–93).
 

@@ -355,7 +355,7 @@ Source: 1910–2020
 
 ## ![](_page_9_Figure_5.jpeg)
 
-A map of Minnesota's population density, 
+A map of Minnesota's population density,
 
 According to the [United States Census Bureau](https://en.wikipedia.org/wiki/United_States_Census_Bureau) and the Minnesota State Demographic Center, Minnesota had a population of about 5.7 million in 2020, making it the 22nd-most populous U. S. state.[\[85\]](#page-34-1) Its fertility rate in 2021 was slightly below the replacement rate at 1.75, but the state has seen growth over the past century through more births than deaths, and significant immigration.[\[86\]](#page-34-2) A destination for European immigrants in the late 19th and early 20th centuries, primarily from [Scandinavia](https://en.wikipedia.org/wiki/Scandinavia), [Germany,](https://en.wikipedia.org/wiki/Germany) and [Ireland](https://en.wikipedia.org/wiki/Ireland), it now attracts people from [Latin America](https://en.wikipedia.org/wiki/Latin_America), primarily [Mexico;](https://en.wikipedia.org/wiki/Mexico) [East Africa,](https://en.wikipedia.org/wiki/East_Africa) particularly [Somalis](https://en.wikipedia.org/wiki/Somalis) and [Ethiopians](https://en.wikipedia.org/wiki/Ethiopians); and [South](https://en.wikipedia.org/wiki/South_Asia) and [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia), especially [Hmong](https://en.wikipedia.org/wiki/Hmong_people), [Vietnamese,](https://en.wikipedia.org/wiki/Vietnamese_people) and [Indians](https://en.wikipedia.org/wiki/Indian_people). [\[3\]](#page-27-7) The state has a diverse population in terms of age, birthplace, ancestry, and socioeconomic status, with a welleducated populace and a median household income around \$77,000.[\[87\]](#page-34-3)
 

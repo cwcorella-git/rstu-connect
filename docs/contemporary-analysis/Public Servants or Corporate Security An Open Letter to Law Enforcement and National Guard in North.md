@@ -58,17 +58,11 @@ You're probably being kept in a bubble of skewed briefings and biased media cove
 .
 
 ## Winona La Duke is an internationally renowned activist working on issues of sustainable development, renewable energy, and food systems. She lives and works on the White Earth Reservation in northern Minnesota, where she is program director of Honor the Earth and founder of the White Earth Land Recovery Project. She has authored Recovering the Sacred, All Our Relations, Last Standing Woman, The Winona La Duke Reader, The Militarization of Indian Country, Chronicles: Stories from the Front Lines in the Battle for Environmental Justice, and other books.
-
-http://www.honorearth.org
-
 ## Ann Wright is a retired Army colonel and a 29-year US Army/Army Reserves veteran. She was a U. S. State Department diplomat, and was posted in nine countries (including Afghanistan and Somalia) until she resigned in 2003 in protest of the impending war on Iraq. She was recently imprisoned and deported from Israel for challenging the illegal naval blockade, on the Women's Boat to Gaza. She is co-author of the book Dissent: Voices of Conscience; Government Insiders Speak Out Against the War in Iraq.
 
 www.voicesofconscience.com
 
 ## Zoltan Grossman is a professor of Geography and Native Studies at The Evergreen State College in Olympia, Washington, working at the intersections of ethnic/racial conflict, environmental justice, and militarism/G. I. rights. He is co-editor of Asserting Native Resilience: Pacific Rim Indigenous Nations Face the Climate Crisis, and author of the forthcoming Unlikely Alliances: Native Nations and White Communities Join to Defend Rural Lands.
-
-http://academic.evergreen.edu/g/grossmaz
-
 Disclaimer:
 
 The views expressed here are not the official position of the IWW (or even the IWW's EUC) and do not necessarily represent the views of anyone but the author's.

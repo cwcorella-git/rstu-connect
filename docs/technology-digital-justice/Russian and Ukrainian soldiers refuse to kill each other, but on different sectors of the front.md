@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/russian-and-ukrainian-soldiers-refuse-kill-each-other-different-sectors-front
-
 **Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, prisons
 
 Caricature by unknown author "On the offensive" (circa 1917) is becoming more and more relevant before our eyes...

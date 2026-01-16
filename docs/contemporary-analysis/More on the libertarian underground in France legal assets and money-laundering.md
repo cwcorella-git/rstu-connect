@@ -12,9 +12,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/more-libertarian-underground-france-legal-assets-and-money-laundering
-
 **Tags:** Movimiento Libertario Español (MLE), Spain, France, Laureano Cerrada, anarchism,
 
 Confederación Nacional del Trabajo (CNT), Spanish civil war

@@ -7,9 +7,7 @@ tags:
 - education
 - organizing
 ---
-# Petition to Protect Students at UNR from Unlawful Detainment
----
-Petition to Protect Students at UNR from Unlawful Det...                     https://docs.google.com/forms/d/e/1FAIpQLScK1hjLSF...
+
 Petition to Protect Students at UNR from
 Unlawful Detainment
 1. We demand that the University of Nevada, Reno protect its students' rst amendment

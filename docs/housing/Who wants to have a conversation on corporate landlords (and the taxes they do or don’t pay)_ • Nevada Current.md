@@ -9,12 +9,9 @@ tags:
 - housing
 - Nevada
 ---
-# Who wants to have a conversation on corporate landlords (and the taxes they do or don't pay)_ • Nevada Current
----
-Who wants to have a conversation on corporate landlord...               https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
-PART OF STATES NEWSROOM
+
 
-ECONOMY       HOUSING       LEGISLATURE      POLITICS + GOVERNMENT
+
 Who wants to have a conversation on
 corporate landlords (and the taxes they
 do or don't pay)?
@@ -36,7 +33,7 @@ mortgages they nance. Similar to mutual funds, REITs are required
 to payout most of their income as dividends to their shareholders,
 of which there typically must be at least 100.
 ---
-Who wants to have a conversation on corporate landlord...   https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
+
 Megadeals involving Las Vegas Strip properties are the most high-
 prole example of REITs making their mark in Nevada, but REITs
 are not limited to any one industry. Nationally, they have received
@@ -74,7 +71,7 @@ income tax doesn't have that obvious avenue before it.
 A curious commerce tax exemption
 Considine is sponsoring Assembly Bill 345, which would remove
 ---
-Who wants to have a conversation on corporate landlord...   https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
+
 from the commerce tax statute an exemption for REITs. That
 exemption was written into the 2015 bill, championed by then-
 Gov. Brian Sandoval, authorizing the commerce tax, which for real
@@ -112,7 +109,7 @@ exemption. If there is no
 benet, then why is it in
 there? How is it aecting
 our state, our tax base
-Who wants to have a conversation on corporate landlord...        https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
+
 and our population?"
 She continued, "I know
 the benets to the
@@ -152,7 +149,7 @@ exemption, then the second company would purchase the
 subsidiary.
 Considine introduced a bill, Assembly Bill 450, to close that
 loophole. Assembly Speaker Steve Yeager and Assemblywoman
-Who wants to have a conversation on corporate landlord...   https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
+
 Sandra Jauragui independently introduced a similar bill, Assembly
 Bill 448.
 "I don't think anyone is violating the law," Yeager emphasized
@@ -190,7 +187,7 @@ That MGM-VICI deal
 was reported to include
 $860 million in annual
 ---
-Who wants to have a conversation on corporate landlord...     https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
+
 rent for 25 years, with     Megadeals involving Las Vegas Strip properties
 rent rising 2% annually    are the most high-prole example of REITs making
 their mark in Nevada. (Photo: Ronda Churchill/
@@ -228,7 +225,7 @@ REITs own 7,937 properties across Nevada, totalling $78.02 billion
 in property value, according to Nareit. Those properties include
 more than 4,600 single-family rentals, 1,100 cell towers, 153
 industrial centers, 149 retail centers and 82 health care facilities.
-Who wants to have a conversation on corporate landlord...                 https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
+
 Our stories may be republished online or in print under Creative Commons license CC BY-NC-ND
 4.0. We ask that you edit only for style or to shorten, provide proper attribution and link to our
 website. AP and Getty images may not be republished. Please see our republishing guidelines for use
@@ -250,7 +247,7 @@ BY APRIL CORBIN GIRNUS
 April 10, 2025
 P O L I CY, P O L I T I C S A N D C O M M E N TA RY
 DEMOCRACY TOOLKIT                                                                       
-Who wants to have a conversation on corporate landlord...                      https://nevadacurrent.com/2023/04/17/who-wants-to-ha...
+
 Nevada Current is a nonprot online source of political and policy
 news and commentary. We seek to demonstrate how policies,
 institutions and systems make life harder for Nevadans than it

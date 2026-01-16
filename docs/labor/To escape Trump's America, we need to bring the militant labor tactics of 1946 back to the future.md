@@ -14,9 +14,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/escape-trumps-america-we-need-bring-militant-labor-tactics-1946-back-future
-
 **Tags:** Industrial Workers of the World (IWW), United States, strikes, general strikes, 2016 US elections, Lifelong Wobbly
 
 The last general strike in the US was in Oakland in 1946. That year there were 6 city-wide general strikes, plus nationwide strikes in steel, coal, and rail transport. More than 5 million workers struck in the biggest strike wave of US history. So what happened? Why haven't we ever gone out like that again? ... When we allowed ourselves to lose our most important weapons 70 years ago, we took the first step towards Trump's America. We're stuck in the wrong timeline - if we want to get out, we have to bring the militant labor tactics of 1946 back to the future!

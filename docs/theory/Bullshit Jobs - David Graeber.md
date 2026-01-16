@@ -3024,7 +3024,7 @@ Saint Augustine who was really responsible for the notion that all humans are ta
 | Arnold,
 1965. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 
+|
 "Two
 Kinds
 of
@@ -3078,7 +3078,7 @@ of
 Minnesota
 Press,
 1994. |
-| 
+|
 Empire.
 Cambridge,
 MA:
@@ -3270,7 +3270,7 @@ Cambridge
 University
 Press,
 1972. |
-| 
+|
 Family
 Life
 and
@@ -3284,7 +3284,7 @@ Cambridge
 University
 Press,
 1977. |
-| 
+|
 "Family
 and
 Household
@@ -3309,7 +3309,7 @@ Cambridge
 University
 Press,
 1983. |
-| 
+|
 The
 World
 We

@@ -39,7 +39,7 @@ British Library Cataloguing in Publication Data A catalogue record for this book
 ISBN 978 0 7453 4995 4           Paperback ISBN 978 0 7453 4997 8           PDF ISBN 978 0 7453 4996 1           EPUB
 Cover design by Crisis Interior design by Geraldine Hendler All author royalties go to various anarcha-feminist initiatives.
 This book is printed on paper suitable for recycling and made from fully managed and sustained forest sources. Logging, pulping and manufacturing processes are expected to conform to the environmental standards of the country of origin.
-Printed in the United Kingdom 
+Printed in the United Kingdom
 ---
 To you, all of you,
 who embody anarcha-feminism every day.
@@ -54,14 +54,14 @@ TEA, BOOKS, AND THRESHOLDS                                        |   49 C O R I
 UNSANCTIONED SANCTUARIES:                                         |   71 CROSS-CONTIN E NTAL EXCHANGE L I B E RT I E VA L A N C E A N D X E L A D E L A X
 TARPS AN D GOSSIP:                                                |   97 EXISTING AS RESISTING RAANI BEGUM
 BROWN GIRL RISE:                                                  | 105 HOW WE TAKE CARE OF OU R OWN C L A I R E BA R R E R A
-COLEC TIVA MUJ E RE S SU BVE RS IVAS:                             | 125 IN SOLIDARIT Y AND FRIENDSHIP LO R A G A LO R A 
+COLEC TIVA MUJ E RE S SU BVE RS IVAS:                             | 125 IN SOLIDARIT Y AND FRIENDSHIP LO R A G A LO R A
 ---
 S O L I D A R I T Y A P O T H E C A RY:                      | 175 RECLAIMING LIFE N I C O L E RO S E
 NORTH STAR H EALTH COLLEC TIVE:                              | 195 T E N D I N G T O T H E S PA R K S M AG S B E A L L A N D C O RY M A R I A DAC K
 STITCHING TOGETHER OTHER WORLDS                              | 221 C I N DY BA RU K H M I L S T E I N
 ILLUSTRATING ANARCHA-FEMINISM                                | 251 A D DY A L I C AT AMAN A N D R E A NA R N O A N O U K K U O NA B R E E BU S K ERRE F E M I N I S T C O L L AG E S P G H K I L L J OY N. O. B O N Z O R AYA N ROA N B O U C H E R S U G A R B O M B I N G WO R L D ZOLA
 REMEMBRANCE AND                                              | 2 81 SUBVERSIVE BODIES IN MOTION B R E E BU S K
-SHAKESQUEER TUCSON:                                          | 3 01 PERFORMING ANARCHO-FEMINISM W R E N AW RY 
+SHAKESQUEER TUCSON:                                          | 3 01 PERFORMING ANARCHO-FEMINISM W R E N AW RY
 ---
 SUPPORTING THE REVOLUTION,                             | 341 ONE STEW AT A TIME A L E H S TA N KOVA A N D F E N YA F I S C H L E R
 AN EXPERIMENT IN ADDRESSING                            | 353 INTRAORGANIZATIONAL VIOLENCE B E N J I H A RT
@@ -70,12 +70,12 @@ ABORTION WITHOUT BORDERS                               | 379 MEGAN MCGEE
 TR AN S ITION AN D AUTONOMY                            | 395 S C OT T / S H U L I B R A N S O N
 M O V E M E N T M I D W I F E RY                       | 4 09 V I C K Y O S T E RW E I L
 HOW WE PERSISTED                                       | 419 AS A NEW ANARCHA GROUP IN LJUBLJANA ČR N E M A ČK E
-D O YO U F E E L T H E S A M E ?                       | 4 33 V I L JA S A A R I N E N 
+D O YO U F E E L T H E S A M E ?                       | 4 33 V I L JA S A A R I N E N
 ---
 PROLOGUE:
 CONSTELL ATIONS OF CARE
 |
-C I N DY BA RU K H M I L S T E I N 
+C I N DY BA RU K H M I L S T E I N
 If we set our aims on destroying hierarchies, …
 [we should] devise social relations that no longer
 reproduce that world. Our actions right now pre-
@@ -100,19 +100,19 @@ PROLOGUE   /   3
 Institute for Palestine Studies, October 27, 2023, https://palestine- studies.org/en/node/1654517.
 2. Quoted in Dylan Elderidge Fitzwater, Autonomy Is in Our Hearts:
 Zapatista Autonomous Government through the Lens of the Tzotzil Language (Oakland, CA: PM Press, 2019), 31.
-4   /    CONSTELL ATIONS OF C ARE 
+4   /    CONSTELL ATIONS OF C ARE
 ---
 PROLOGUE   /   5
 ---
 3. Nadia Bou Ali, “Ugly Enjoyment,” Parapraxis, accessed December
 12, 2023, https://parapraxismagazine.com/articles/ugly-enjoyment.
-6   /   CONSTELL ATIONS OF C ARE 
+6   /   CONSTELL ATIONS OF C ARE
 ---
 PROLOGUE   /   7
 ---
 4. Cindy Barukh Milstein, Try Anarchism for Life: The Beauty of Our
 Circle (Strangers in a Tangled Wilderness, 2022), 69.
-8   /    CONSTELL ATIONS OF C ARE 
+8   /    CONSTELL ATIONS OF C ARE
 ---
 If we’re serious about fundamentally, nay, radically (as
 in “getting to the roots”) transforming this world, including in joyfully militant and riotously joyful ways, we must be serious about simultaneously transforming ourselves. Anarcha-feminists have long articulated this notion. We’ve underscored too, in words and deeds, that there’s no binary between social relations and social organization, or what’s been called “the personal” and “the political.” Instead, there’s a developmental logic, nurtured through the ways we act as
@@ -125,7 +125,7 @@ Collective care points beyond all the structures we
 ght against while simultaneously already embodying
 the alternatives we ght and yearn for. Yet for too long,
 the centrality of care to life itself has been downplayed
-10   /    CONSTELL ATIONS OF C ARE 
+10   /    CONSTELL ATIONS OF C ARE
 ---
 or erased, including within anarchist circles. Anarcha-
 feminists have challenged the invisibilization of care,
@@ -148,7 +148,7 @@ hiding under her skirt.
 “don’t expect from the gods, whether earthly or
 heavenly, what you can nd in yourself.”
 And thus, walked o
-12   /   CONSTELL ATIONS OF C ARE 
+12   /   CONSTELL ATIONS OF C ARE
 ---
 the illiterate woman,
 to wash her face with the rays of the sun.6
@@ -161,18 +161,18 @@ December 13, 2023
 Asheville, NC
 * * *
 What you’ll nd between the covers of Constellations of Care is only a fraction of the many stories that were shared with me since I put out a “call” for pieces after Libertie Valance, with Firestorm bookstore, ohandedly suggested the idea of a contemporary anthology related to anarcha-feminism way back in summer 2021. (Shoutout and love to Libertie for her dear friendship, ability to generatively nudge my thinking, and contribution herein.) This book was, to my surprise, a tful journey—more so than any other collection I’ve birthed. To my sorrow, patriarchy, including within anarchism, is so alive and well, it convinces way too many people that their experiences, ideas, and projects have no value, and that they can’t or shouldn’t write. That translated into me scouring the globe numerous times, attempting to counter-convince feministic anarchists to tell their own stories—frequently without success. It translated into many, many dozens of anarchistic feminists getting in touch with sketches of what they wanted to explore
-14   /   CONSTELL ATIONS OF C ARE 
+14   /   CONSTELL ATIONS OF C ARE
 ---
 PROLOGUE   /   15
 ---
-16   /   CONSTELL ATIONS OF C ARE 
+16   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 PROLOGUE   /   17
 ---
 7. All author proceeds from this book will be redistributed to various
 anarcha-feminist initiatives, based on suggestions from the contributors to this collection and shifting with each round of royalties.
-18   /   CONSTELL ATIONS OF C ARE 
+18   /   CONSTELL ATIONS OF C ARE
 |
 TA H E L A X E L , E L I A S LOW E ,
 A M I W E I N T R AU B,
@@ -182,7 +182,7 @@ AND FLIP ZANG
 of two, albeit unrelated, collectives in this anthology (see “Tarps and Gossip”).
 THE COLLECTIVE AS A CRUCIAL FORM   /      21
 ---
-22   /   CONSTELL ATIONS OF C ARE 
+22   /   CONSTELL ATIONS OF C ARE
 ---
 THE COLLECTIVE AS A CRUCIAL FORM   /   23
 ---
@@ -190,21 +190,21 @@ THE COLLECTIVE AS A CRUCIAL FORM   /   23
 For the Wild (podcast), episode 157, accessed December 5, 2023, https:// forthewild.world/listen/kim-tallbear-on-reviving-kinship-and-sexual- abundance-157.
 3. Xandra Metcalfe, “‘Why Are We Like This?’: The Primacy of
 Transsexuality,” in Transgender Marxism, ed. Jules Joanne Gleeson and Elle O’Rourke (London: Pluto Press, 2021), 219.
-24   /   CONSTELL ATIONS OF C ARE 
+24   /   CONSTELL ATIONS OF C ARE
 ---
 THE COLLECTIVE AS A CRUCIAL FORM   /   25
 ---
-26   /   CONSTELL ATIONS OF C ARE 
+26   /   CONSTELL ATIONS OF C ARE
 ---
 THE COLLECTIVE AS A CRUCIAL FORM   /   27
 ---
 4. À la Stefano Harney and Fred Moten, incompletion means to
 resist the impulse to constantly improve, and then constantly manage and own what you improve on. Instead, we aim to simply be all that we share and what we lose happily through sharing, which is our completeness, the possibility of our ever being nished, staying smugly uncontainable. Stefano Harney and Fred Moten, All Incomplete (London: Minor Compositions, 2021).
-28   /   CONSTELL ATIONS OF C ARE 
+28   /   CONSTELL ATIONS OF C ARE
 ---
 THE COLLECTIVE AS A CRUCIAL FORM   /   29
 ---
-30   /   CONSTELL ATIONS OF C ARE 
+30   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 This essay is the product of many months of reconnecting, remembering, and discussion. The words were written by Flip with essential contributions from Tahel, Elias, Ami, and Leo.
@@ -214,33 +214,33 @@ THE COLLECTIVE AS A CRUCIAL FORM   /   31
 ---
 Leo Williamson-Rea (they/he) feels most at home near water and loves the chaos magic of rerooting relationality. In between mischief and healing, Leo enjoys spending time with plants, singing songs in the moonlight, and learning dierent means of defending what they love.
 Flip Zang (he/him) is a writer and geohistorian born and raised in Shawanwaki/Shawnee and Osage land (also known as Pittsburgh). He likes to make music and ask big questions, and can never decide which thing to love most.
-32   /   CONSTELL ATIONS OF C ARE 
+32   /   CONSTELL ATIONS OF C ARE
 |
-M E X I C O C I T Y – BA S E D F E M I N I S T- A NA RC H I S T A F F I N I T Y G RO U P I N C O N V E R S AT I O N W I T H A N D T R A N S L AT E D B Y S C OT T C A M P B E L L 
+M E X I C O C I T Y – BA S E D F E M I N I S T- A NA RC H I S T A F F I N I T Y G RO U P I N C O N V E R S AT I O N W I T H A N D T R A N S L AT E D B Y S C OT T C A M P B E L L
 We should start by saying that we aren’t a collective or formal group. We see ourselves more as a small group of women and nonconforming folks who are united by love, friendship, and the struggle for freedom, autonomy, mutual aid, and life against the dynamics of the current patriarchal state. We come from dierent anarchist positions and understand things dierently in many cases, but we come together to do things jointly based on trust and the need to support our existence. We live in dierent parts of Mexico City, where we carry out most of our struggles. Or to put it more poetically, we are women of all the res, born in lands full of misery. Our lives are written in the wind, and our struggles, loves, longings, and desires to change this reality live in the sea, in the waves that beat furiously on the rocks that contain them. Each one of us has her own history, forged with smiles and tears. Each one walks alone, yet we are strengthened by our paths that unite with the libertarian idea. Our hair is interwoven, and we move forward together, trying to be a support, company, and embrace, despite everything, despite the uncertainty and this overwhelming moment, despite the repression. Survivors of the terrible, only the wind will know the passion with which we once tried, at some moment, in some time, for humanity to be strengthened by the beauty of mutual cooperation and disobedience, without states, exchanges, competition, and capitalism.
 OUR AFFINIT Y IS OUR MANIFESTO   /   35
 ---
 Not all of us conceive of ourselves as anarcha-feminists. We’re all anarchists, antiauthoritarians, and antipatriarchal, yet we’ve never arrived at having a joint identity. We came together based on the recognition that our own experiences have provided. We’re a group that ranges from twenty to forty years old. As such, we don’t all have the same paths, trajectories, or positions. All of our stories are individual ones, and each one took its time. For some, what was important was the break with those men who we believed to be compañeros, but who betrayed, hurt, or snitched on us. With that we saw the crumbling of a discourse that was just that: a discourse—and one that didn’t delve deeply into how patriarchy runs through us. For others of us, the reality of being women and feminized bodies was always present: how we weren’t listened to or were made invisible in political anarchist spaces; that only masculine voices were respected; and that even when we sustained various activities and a large part of the anarchist movement in the city, we continued to be relegated to the margins and unheard. So we assumed a position of defense and necessary confrontation within the movement, which was exhausting, but that helped us to be in this place today, together. In a way, we lost our fear of separatism [femme-only spaces], although we never stopped seeing that there are men in this world we would have to interact with. We found one another in mixed, anarchist movement spaces through
-36   /   CONSTELL ATIONS OF C ARE 
+36   /   CONSTELL ATIONS OF C ARE
 ---
 What are your perspectives on the resurgent feminist movement in so- called Mexico that began in 2018?
 Although the “boom” in the feminist movement around the world became more visible in the media in 2018, with massive marches on March 8, strikes in universities in Chile, Mexico, Spain, France, Italy, the United States, and so on, we hold that
 OUR AFFINIT Y IS OUR MANIFESTO   /   37
 ---
-38   /   CONSTELL ATIONS OF C ARE 
+38   /   CONSTELL ATIONS OF C ARE
 ---
 OUR AFFINIT Y IS OUR MANIFESTO   /   39
 ---
 Street actions get a lot of attention, but beyond those, how have you all been involved in the broader feminist movement?
 As we’ve mentioned, we’re not a formal group, much less a homogeneous one, and therefore the ways in which we’re involved in the feminist movement are equally diverse. Some of us accompany the anticarceral struggle, in which some compañeras have faced charges after participating in feminist actions or protests; others of us are involved in graphic design, which continues to be necessary to visualize the struggle in the streets and online; others are committed to physical self-defense; others of us contribute through print publishing; others are committed to radio work; yet others are involved in the self-management of mental and physical health; others have started and sustain spaces of resistance such as bookstores, libraries, and cooperatives; and others are involved in solidarity economies. In general, we’re all in search of life and survival, which basically robs us of a lot of time and energy. Something that has become necessary to do together, though, has to do with the precarious conditions that most feminized bodies experience. In this regard, in 2020 [when the pandemic began], we saw how women were at greater risk due to the forced connement because they were with their aggressors all the time. It was necessary to go out and call on women to ght for life and occupy the streets. We called for the
-40   /   CONSTELL ATIONS OF C ARE 
+40   /   CONSTELL ATIONS OF C ARE
 ---
 OUR AFFINIT Y IS OUR MANIFESTO   /   41
 ---
 As we come from anarchism, and we have little by little been breaking with its classical vision of struggle, we understand that the struggle is found in all spaces, micro and macro. Therefore we don’t see the need to wait for some moment to intervene in this or that; rather, we believe in the necessity of placing strain on the relations of domination—among them gender and sex—in the spaces that we inhabit: families, collectives, compañerxs, and ourselves. But we can’t do that if we don’t struggle to make it clear that we exist, to make a space for ourselves among the already established structures of struggle, dissent, and society in general. That same space gives us the opportunity to make our positions clear, to go forward as we would like to live and according to our principles—that is, outside the institutions, away from the state, through direct action, self-management, and autonomy. Contrary to the fashion of “visibility,” we position ourselves through obscure and opaque daily action. Our action is our own manifesto.
 Speaking of taking action, what has your experience of participating in feminist actions felt like, and what has it made possible that previously might have seemed foreclosed to you?
 A point of street action that seemed impossible was the acceptance of the slogan “It was all of us” in a moment when the white feminist discourse seemed to prevail and the supposedly citizenly idea of the “good feminist” kept
-42   /   CONSTELL ATIONS OF C ARE 
+42   /   CONSTELL ATIONS OF C ARE
 ---
 1. “Fuimos todas” (It was all of us) was a slogan used in response
 to the direct actions carried out during feminist mobilizations. Instead of pointing out those responsible for the actions to the police, everyone chanted their complicity.
@@ -248,7 +248,7 @@ OUR AFFINIT Y IS OUR MANIFESTO   /     43
 ---
 What has it meant for you all to be an affinity group of feminist anarchists participating in the movement and being there for each other as opposed to going it alone?
 We go alone and together. We believe in each other’s individuality and the power of being together. But we know that not all of us want or can take on the same things, or have the same abilities, to mention a few dierences. Even so, knowing that we exist as a rare and amorphous entity has given us security in moving about our city. We know that if one of us falls into the clutches of the police, there will be many of us outside the police station or prison entrance. We know that if one of us is sick, we’ll have another one accompanying and caring for us. And we know that whatever idea we want to carry out, we can share it and nd an echo among others. In this way, we see that anity cannot be measured entirely in political, strategic, and pragmatic terms but instead goes hand in hand with how it transcends and traverses love, friendship, and the struggle for survival. Are we in anity? Yes, but we are also accomplices, sisters, friends, and compañeras. We don’t just see ourselves as an anity group or meet
-44   /   CONSTELL ATIONS OF C ARE 
+44   /   CONSTELL ATIONS OF C ARE
 ---
 This is a broad question, but how do you articulate your own feminist anarchism?
 As we mentioned, we have dierent roots, and sexuality has not aected each of us in the same way and that means many things. The older members of our group grew up in a fairly heterosexual anarchist scene, and therefore nonconformity was more opaque or simply did not appear. Of course, we have precious beings who are openly gay, but we understand, as the anarchist scene here is heterosexual, that those bodies escape from those spaces and construct their own. We recognize that we came late to many criticisms in this sense, and little by little we have learned to come out of the closet ourselves or deconstruct our own sex-gender identity, although we don’t see it as the core that denes us.
@@ -256,7 +256,7 @@ Indeed, we have a critique of identity. Sometimes it means
 taking on an essence in order to act from a certain positionality, but most of the time it blurs a series of dierences that to us, seem necessary in order to walk together. Perhaps before indicating our sexual identity, we start from the point of being “dark- skinned” or Indigenous descendants—an inevitable matter that situates us on the stage of antagonistic struggles and more so in an essentially racist country. We are also poor; we come from places and families that have always struggled for survival.
 OUR AFFINIT Y IS OUR MANIFESTO   /   45
 ---
-46   /   CONSTELL ATIONS OF C ARE 
+46   /   CONSTELL ATIONS OF C ARE
 ---
 OUR AFFINIT Y IS OUR MANIFESTO   /   47
 ---
@@ -265,47 +265,47 @@ life in a dignied way, and toward death in a meaningful way, even if it’s f
 * * *
 As for our informal anity group, we have no names that dene us. Only the knowledge that nature is everything and humanity is destruction. To change that is our path.
 Scott Campbell is a radical writer and translator residing in both what they call the United States and Mexico. His personal website is fallingintoincandescence.com. For a longer version of this interview, visit itsgoingdown.org/feminist-anarchist- anity-group-interview.
-48   /   CONSTELL ATIONS OF C ARE 
+48   /   CONSTELL ATIONS OF C ARE
 |
-C O R I N N E , AU RO R E , É R I S , A N D TO M 
+C O R I N N E , AU RO R E , É R I S , A N D TO M
 The Anarcha-Feminist Library of Toulouse, or Bibliothèque Anarcha-Féministe—fondly called la BAF, a wordplay on the French bae, meaning “slap,” or just la bibli—is a couple- thousand-book-rich self-organized library in a major city in the southwest of France. We rent a place, Au Chat Noir (At the Black Cat), together with four other organizations, including a chapter of an anarcho-syndicalist / revolutionary syndicalist union, a local anarchist group, an antifascist group, and an anarchist-communist group. Additional organizations, such as a trans support group, fat-positive feminist zine-making group, and discussion group against borders, are regular users of the space. The library is, in a way, the shop front of the building: whether you enter Au Chat Noir for an organizing meeting, movie night, or support group, you can’t fail to notice the thousands of colorful books happily displayed on wooden shelves as well as the comfortable chairs, blankets, and rugs made for snuggling up with a novel and herbal tea. In practice, we’re open on Wednesday and Sunday after- noons—recently, we’ve been opening on Friday afternoons too, for a special “quiet library session” during which we keep the space as silent as possible to make it accessible to people who are otherwise disturbed or impaired by chatty or noisy environments—with frequent book or feminism-related
 TEA , BOOKS, AND THRESHOLDS   /   51
 ---
 HOW TO SET UP AN ANARCHA-FEMINIST LIBRARY
 The library was born from the collision of a pile of books and a space.1 It has changed and is still evolving with the people we’ve met along the way. Books came rst: via a kleptomaniac friend who plundered Toulouse’s independent bookshops but had to move and leave some of their treasure behind, some gifts from families and friends, extra copies from other anarchist libraries, and a
 1. This section was written by Corinne.
-52    /    CONSTELL ATIONS OF C ARE 
+52    /    CONSTELL ATIONS OF C ARE
 ---
 TEA , BOOKS, AND THRESHOLDS   /   53
 ---
-54   /   CONSTELL ATIONS OF C ARE 
+54   /   CONSTELL ATIONS OF C ARE
 ---
 Au Chat Noir invited us to a meeting to discuss the idea
 of us joining. There are at least two diverging accounts of how this meeting went. In my version, although I was upset at having to face the person who had driven me to quit my former group not long before, I expected little from the groups comprising the building. So when we were given the keys and a time slot to open the library, I was over the moon. We had approached other spaces, but none were as well tted to what we had in mind. These other spaces were often sympathetic but private businesses where people would feel pressured into, say, paying for drinks and so on, when it was essential to us that our library shouldn’t have this kind of setting. The version from the other three people goes like this: they were not enthused by the people who called us “comrades” (which is not a term that we ever used and was rather o-putting) and were still condescending despite their best eorts, but they decided not to challenge them as they knew I was tired of conict. We all remember that the meeting was way too long, running past the breaking of the fast for Ramadan, so we cut it short as politely as we could and drove to Kentucky Fried Chicken.
 TEA , BOOKS, AND THRESHOLDS   /   55
 ---
 Outside the time when the library was open, those of us with la BAF only communicated using the “Drafts” folder of an email address that all four of us had access to. What this meant was that when we received emails regarding Au Chat Noir’s maintenance that were not always kind or caring, one of us would immediately draft a response that got saved in the “Drafts” folder, such that we could all edit along—in a crude, pre–Google Drive version of collaborative writing. Others would then add things such as “I can’t believe they did this. ... But is telling them to fuck o a good approach strategically?” Then the email draft would either become a civil yet rm response, one edit at a time, or devolve into an outlet for us to vent about whatever was going on, creating a weird collage of anger, jokes, and political analysis that helped us cope with the (rare) negative experiences we encountered with other groups. Sometimes we shied away from raising an issue because we were tired and felt discouraged at the prospect of writing our grievance down for others in the space. But it helped to share our feelings with each other in the early stages, focusing on what we wanted to achieve, and whether it was fair and reasonable or counterproductive, all things considered. More often than not, ranting in a draft email was sucient, and allowed us to calm down and realize we had less to gain from stirring up an issue than we had in ignoring it and instead strengthening ourselves so as to proactively intervene in—and stop—similar occurrences in the future. Sometimes another form of action was taken: we wrote and shared a calmer email,
-56   /   CONSTELL ATIONS OF C ARE 
+56   /   CONSTELL ATIONS OF C ARE
 ---
 REARRANGING OUR SHELVES AND SELVES
 The books we had at the beginning were mostly on the history of social movements and historical anarchist women. We wanted the library to be in tune with movements as they exist today and the issues they are dealing with. At that time in France, there was an emerging feminist theory that was against capitalism and the state, and advocated for the abolition of prisons. There was a will (strongly repressed by the government and media) to challenge French republican “universalism” and talk about racism. The queer and crip movements were also starting to publish their rst books (zines and pamphlets already existed). So we started collecting more feminist and queer books, particularly titles that seemed essential. We began attempting
 TEA , BOOKS, AND THRESHOLDS   /   57
 ---
-58   /   CONSTELL ATIONS OF C ARE 
+58   /   CONSTELL ATIONS OF C ARE
 ---
 TEA , BOOKS, AND THRESHOLDS   /   59
 ---
 KEEPING THE DOORS OPEN
 It has happened more than a few times that when I was talking about la BAF to someone, I preferred using the more politically neutral phrase “associative library,” which in France refers to a community or nonprot organization, instead of using “anarcha-feminist”—knowing that the overtly political name could lead to heated reactions.2 Indeed, on a few occasions when I called la BAF by its name, I’ve been met with harsher reactions such as, “Oh, so you’re one of those
 2. This section was written by Aurore.
-60    /    CONSTELL ATIONS OF C ARE 
+60    /    CONSTELL ATIONS OF C ARE
 ---
 TEA , BOOKS, AND THRESHOLDS   /   61
 ---
 TO BE OR NOT TO BE A SAFE SPACE
 An important thing to know about la BAF is that it’s not a safe space.3 This fact may seem surprising or even shocking because, from a feminist cultural perspective, safety in general and safe spaces in particular have been central demands. So
 3. This section was written by Éris.
-62    /    CONSTELL ATIONS OF C ARE 
+62    /    CONSTELL ATIONS OF C ARE
 ---
 TEA , BOOKS, AND THRESHOLDS   /   63
 ---
@@ -313,18 +313,18 @@ Third, in a society rife with discrimination of all kinds,
 demanding that an individual not engage in any of them is nearly, if not completely, impossible. As activists, we are (or should be) constantly learning, questioning our previous and current beliefs, listening to dierent views, and addressing issues as they arise. People who come into our spaces are not blank pages; they’ve soaked up a deeply unfair society. We can ask them—and each other—to put in the work, question their (often unconscious) prejudices, and listen to those people they may come to harm, but we can’t ask that they know “everything” before they even join in our projects. In fact, a social justice culture that revolves around the usage of certain words and presents certain issues as somehow denitive (as if marginalized people never disagree on language or strategy) is likely to generate “correctness anxiety,” making individuals (especially young or new to the struggle) afraid to speak or act lest they oend someone. Such “safe” spaces are not accessible because the amount of knowledge needed to come in is deeply elitist. They are not empowering either if one has to constantly walk on eggshells.
 And nally, contrary to “safety,” what we need is resilience.
 We need to generate spaces, both social and actual, in which mistakes are gently remarked, trying is praised, and expressing one’s discomfort is met with thankfulness and the knowledge that it’ll allow us to grow. Resilience isn’t about not being hurt in the rst place; it’s about recovering from hurt. A resilient space is not one in which people never fall; it is one in which falling is OK because there is no hard ground to seriously injure us, and there are comrades to help us get back up again.
-64   /   CONSTELL ATIONS OF C ARE 
+64   /   CONSTELL ATIONS OF C ARE
 ---
 TEA , BOOKS, AND THRESHOLDS   /   65
 ---
 ON DOING NOTHING, AND ALL THE WORK IT ENTAILS
 And there we stand on the threshold, the anarcha-feminist librarians.4 It is peculiar indeed to act the part. Sometimes the best thing to do is nothing at all. Strangely, this may take more work than you would expect. This may seem a little weird at rst. We organize because we want to do things after all—usually a whole lot of things. But one of our goals at the library is to create (a) space for others. A space where people can come to explore, experiment, and enjoy; where they’re free to do their own things and be their own selves. So sometimes what we need to do is nothing. Move back and open up some space for others to breathe. Is it worth it? YES! When at last you sit back, sip some tea, and look at people doing their own cool stu in the space you helped create, it can make your heart swell with pride. And sometimes they will even want to do things with you too! How
 4. This section was written by Tom.
-66    /   CONSTELL ATIONS OF C ARE 
+66    /   CONSTELL ATIONS OF C ARE
 ---
 TEA , BOOKS, AND THRESHOLDS   /   67
 ---
-68   /   CONSTELL ATIONS OF C ARE 
+68   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 La Bibliothèque Anarcha-Féministe de Toulouse is a de facto association based in Toulouse. It is an open, self-organized library that tries to make theory, ction, art books, comics, and zines accessible to the greatest number of people. The space also runs and participates in a number of varied cultural and activist events. You can reach Bibliothèque Anarcha- Féministe by email at bibli_afem@riseup.net or on Instagram @biblianarchafeministe.
@@ -339,7 +339,7 @@ Libertie: Can you tell me a little bit more about Casa C.O.A.T.L.?
 Xela: This is our third autonomous community-based space
 UNSANCTIONED SANCTUARIES   /   73
 ---
-74   /   CONSTELL ATIONS OF C ARE 
+74   /   CONSTELL ATIONS OF C ARE
 ---
 Libertie: It’s beautiful that you’ve created the spaces you need for each step of your collective journey. I guess I should share more about our physical space, since that’s something we have in common! At the time of this conversation [in 2022], Firestorm is in its second location, a retail storefront in the commercial corridor of a residential neighborhood. We started o running a dierent kind of space downtown—a café, because that’s what we had experience with. None of us had worked in bookstores. When we left downtown, it was an opportunity to grow into something new, and we picked a space we thought would be good for books. Our collective rst heard about y’all [the OVAS] in 2017. We screened the documentary lm Ovarian Psycos about your activities in East LA and thought you were the dreamiest, coolest, most badass anarcha-feminists in the entire world. So when you and I met in 2019 at the Institute for Advanced
 UNSANCTIONED SANCTUARIES   /   75
@@ -347,40 +347,40 @@ UNSANCTIONED SANCTUARIES   /   75
 Xela: Oh, that’s so sweet. Thank you, but really we, or I should say I, don’t know what the fuck I’m doing. I, like most folks, am just trying to gure shit out, print, love myself, and fuck shit up on my bicycle when I can.
 Libertie: Bikes are such a cool starting point for a collective. I mean, I’ve heard about radical spaces that started with a study group or house shows, but it’s really unique to begin as a bike crew. Anarcha-feminists on bikes reminds me of the lm Born in Flames from the 1980s, which starts with a women’s bike gang doing street interventions, like confronting patriarchal men and responding to assaults. Can you tell me more about how y’all got started?
 Xela: So a couple of things happened at the same time. As is still the case today unfortunately, femmes of all ages are disappearing everywhere, including back-to-back instances of femmes murdered in our communities specically, generat- ing the desire to do something other than be fearful. And not wanting to instill fear in my daughter, not wanting to normalize misogyny or femicide but instead to reclaim our collective strength and ride at night, and intentionally take up the road, streets, corners, parks, and hills—all the locations where femmes had been killed—for the purpose of becoming a force to kill patriarchy, seemed more therapeutic and healing to us than lighting a candle at a vigil ever would. In February 2010, I took my daughter to pick out a bicycle for her birthday, and she picked out a black one with orange
-76   /   CONSTELL ATIONS OF C ARE 
+76   /   CONSTELL ATIONS OF C ARE
 ---
 Libertie: That’s fantastic! You’ve been an anarchist and feminist for a long time. It sounded like maybe you got started in the punk scene, is that right?
 Xela: I was an angry kid. I had a lot of rage and frustration, and punk spoke to that, but what was really awesome and unexpected were the groups and collectives with zines and mutual aid projects at the shows that redirected my rage in a way that gave more context and the possibility to create
 UNSANCTIONED SANCTUARIES   /   77
 ---
 Libertie: The Zapatistas have always embodied such incredible Indigenous feminist politics, it makes sense that they would be an entry point for your radicalization. I’m a few years behind you, so I got into anarchism in the late 1990s and then really started to understand myself as being part of a movement after the Battle of Seattle. That trajectory of global resistance owed an enormous debt to the Zapatistas. I identied as a feminist before I was an anarchist. Growing up in a rural part of the South, being a feminist was the rst “radical” identity I embraced. As a kid, I didn’t really know anyone who claimed feminism, so it seemed sort of edgy. It’s
-78   /   CONSTELL ATIONS OF C ARE 
+78   /   CONSTELL ATIONS OF C ARE
 ---
 Xela: You telling me about how you grew up reminds me that it’s also super important that a lot of us here on the Eastside grew up under a lot of religious dogma, the omnipotent patriarchy of god, and for example, myself living under those conditions, the violence of subjugation. A lot of us in some form or another get pressed into submission, surrendering our power, bodies, desires, and dreams, under threat of punishment by god, the criticisms of society, and/ or the disownment of our fathers and/or brothers, and by extension the authority of our mothers perpetuating that—at least that was what I lived. Anywhere, any space that’s created that is not that, spaces like Firestorm, for instance, or like here on the Eastside, are crucial to us throwing o that submission and guring out what we want for ourselves. Besides us here in occupied Tongvaland, there’s the Eastside Café, an autonomous community space; Corazón Del Pueblo, a collective, volunteer-run cultural center; and today, Memories of El Monte, a QTPOC community arts and mutual aid space. These spaces need to multiply and exist everywhere. Tell me what inspired y’all and how Firestorm got started.
 UNSANCTIONED SANCTUARIES   /   79
 ---
 Xela: I hear that. We had similar misgivings about how to identify likely cuz of our inexperience, and just being happy that other femmes wanted to come ride bicycles in these streets at night to bark at the car when a man would drive by whistling or join us when we stopped at the detention centers to rage out “Fuck the police!” I assumed everybody coming out to the rides would clearly have to be feminist and anarchist, or at the very least would be bound to become one soon enough. It seems that whether because we’re poor, Brown, or rowdy, and zero fucks given, automatically our organizing eorts are suspect or underestimated and undermined. We can often internalize that shit and even undermine ourselves. I often feel I’m not doing enough or not doing it the “right way,” but I have to catch myself and stop that cop in my head bullshit cuz really what the fuck is that? The “right way” according to whom? Doing enough as measured by what standard? I was asked recently by an old friend, when was I going to grow up and go do something real with my life. He said,
-80   /   CONSTELL ATIONS OF C ARE 
+80   /   CONSTELL ATIONS OF C ARE
 ---
 Libertie: I really admire that! When people ask you what it means that you’re an anarchist feminist project, what do you tell them?
 Xela: We are the squad you’ve been warned about. The cautionary tale for all who struggle for a better world and are actively organizing. To be feminist is to be vigilant about power hierarchies that we may be re-creating in our interpersonal relationships and within our own political analysis even—and so be able to reect on our own shit and be intentional about destroying those hierarchical leanings within ourselves rst. And feminist because for the last ve-hundred-plus years on stolen land, we’ve been under patriarchy, particularly of the white, cis, hetero variety, and that shit gotta go. Anarchist cuz I will not obey. I refuse to willingly concede control of my life or body—not to the state, not to a “god,” not to a man. And anarchists cuz we get a lot more done by ourselves or with others who care beyond consumption and/or party lines.
 Libertie: That’s an incredible answer. I’m writing it down! (laughs.) Our attachment to anarcha-feminism is similarly
 UNSANCTIONED SANCTUARIES   /   81
 ---
-82   /   CONSTELL ATIONS OF C ARE 
+82   /   CONSTELL ATIONS OF C ARE
 ---
 Xela: Recently somebody mentioned that they try to stay away from conict, right? And my initial response was, “I enjoy conict!” But that was a lazy way of saying it doesn’t bother me. I feel like in those moments of conict, you can really understand each other at a dierent level. So if something bothered you or whatever, let’s unpack that further
 UNSANCTIONED SANCTUARIES   /   83
 ---
 Libertie: This is something that shows up for us. Conict avoidance can be a product of white supremacy culture, and while it’s not only white people who replicate white supremacy, for us, as a majority-white collective, we’ve really struggled with this dynamic. Many of us were raised not talking through conicts or being told that women should keep their voices down. But if we’re going to have healthy relationships, we have to be less fragile and willing to have conicts.
 Xela: Our collective is primarily Brown, and we’ve been indoctrinated to not stir anything up, or keep our voices low or just swallow it, even at the detriment of our continued discomfort. I see it still in organizing spaces like ours. I’ve been told, continuously, that it’s my tone, so I’ve experimented with that. I’ve tried to sing it. I’ll try to say it sweetly. But it doesn’t matter. It’s the point that I’m speaking, even if I say, “Come on, we’re sisters. If my tone was this way, if I curse this way, I wasn’t cursing you.” I think it goes back to how we’re stuck in carceral dynamics, even the surveillance of how we speak. One time I started putting duct tape around my mouth, so that I wouldn’t interrupt. But then it became an issue of, “Xela, we didn’t like the way you rolled your eyes or how you looked at us.” So then I’m sort of stuck with surveillance of
-84   /   CONSTELL ATIONS OF C ARE 
+84   /   CONSTELL ATIONS OF C ARE
 ---
 UNSANCTIONED SANCTUARIES   /   85
 ---
 Libertie: That’s really insightful. I like the idea of emotional mutual aid. I’m curious if you have any norms or practices that support communication within your collective? How do y’all manage relationships?
 Xela: Well, back in the day, we used to do a very tankie type of practice: crit self-crit. (laughs.) Then, instead, we tried to do what’s called Spinoza’s roses: Where do we have owers and where do we have thorns? But one of the things that I saw happening a lot was this need to pathologize each other. That’s kind of fucked up, because that’s why the collective has the word psycho in it, meaning, “Yeah, the world is crazy.” If what I’m doing is seen as crazy, we’re already pathologized. So I didn’t understand the need to pathologize ourselves further. It felt like surveillance culture and the easy way out of things. So nowadays, with the collective members who we have currently, we just talk it out if there’s an issue. One collective I was a part of before had an interesting practice: whenever there was discord, or if there was conict between two folks, we had two options. You could box it out— some kind of jujitsu domination, or for people who weren’t into that, you could give the gift of forgiveness, or the gift of just simply being present for each other to be able to discuss it further. But these days what we’re trying to do is before every meeting, have a real honest check-in, a check-in of the heart, not just how your day is or how your week has been going.
-86   /   CONSTELL ATIONS OF C ARE 
+86   /   CONSTELL ATIONS OF C ARE
 ---
 Xela: No, if the conict is between two people, we have a member who does her best at hearing both sides. Nobody ocially made her the mediator, but she does it and just has skills. But sadly we did lose a member recently who needed space because they just didn’t have capacity, emotional capacity, to try to resolve things, and I wish them the best. Ultimately that is a personal decision. You can’t force anybody to make the space so that together we can gure it out.
 Libertie: It’s hard doing this under capitalism because there’s so many limitations placed on people’s ability to show up.
@@ -388,7 +388,7 @@ Xela: Yeah, but one of the things that we did even back then was have a hard agr
 Libertie: I agree that it’s easier to navigate relationships when you really know someone; you kind of know their context and story. A lot of times, when somebody doesn’t show up in a good way, there’s something going on for them. So we try to make a lot of space to talk about what’s going on for us outside our work together. We’ve also experimented with dierent ways of creating space for relationship building. For instance, we were doing a thing where every month,
 UNSANCTIONED SANCTUARIES   /   87
 ---
-88   /   CONSTELL ATIONS OF C ARE 
+88   /   CONSTELL ATIONS OF C ARE
 ---
 Xela: That’s beautiful.
 Libertie: It’s been useful. It also means that when a new person starts working with us, we can have them answer the same questions, but then also share all the answers that we’ve previously written out. I think it’s nice for new people. So they’ll know that if I’m really cranky, I probably need to eat food. (laughs.)
@@ -398,7 +398,7 @@ Xela: Absolutely. For example, our other spaces always had principles of unity. 
 UNSANCTIONED SANCTUARIES   /   89
 ---
 Libertie: That sounds similar to our experience. Our collective is negative on policies and rules that people need to follow. Instead we try to build a shared culture that changes as our needs change. Maybe that looks like generating a collectively written document, but we write statements and not contracts. Sometimes we end up sharing those statements publicly too—as a form of transparency or to help people understand what we’re doing. Years ago, we wrote some collective agreements to guide our work together in meetings.
-90   /   CONSTELL ATIONS OF C ARE 
+90   /   CONSTELL ATIONS OF C ARE
 ---
 Xela: The name was speaking initially to the immediate issues of those in the collective, which originally was just me and my daughter. As our collective grew, we got a lot of heat on a variety of issues. Like we were not real cyclists cuz we didn’t wear the right clothing nor were we posting constant clocking in of our miles, so who cares? We can’t aord your fancy gear, jerks! Or, for example, why not let men ride? And we were like, well, fuck it. Men can hold the water for us, if they want. Ha! Maybe some people thought we were really arrogant, but nah, nah, this collective is for us women. So we doubled down, but then we got schooled appropriately on the fact that not all women have ovaries.
 Libertie: Was that feedback from your local community or strangers on the internet?
@@ -408,7 +408,7 @@ UNSANCTIONED SANCTUARIES   /   91
 Libertie: I think it’s great that after hearing how your shit was landing for people with dierent experiences, you wanted to change it up, to make it clear that you were in solidarity with trans folks. Firestorm had some experiences that were maybe a little similar. I think you can’t run a public project and not get called on some shit. And sometimes maybe you disagree with the call, but you still learn something. Early in Firestorm’s history, our collective didn’t describe itself as queer or trans. We brought those identities with us, but it wasn’t the basis of our organizing. So at some point, in maybe 2009, we got into conict with a radical trans crew in our town. I think these folks didn’t understand us to be part of their community, and they approached us with the same suspicion that queer and trans people often approach straight spaces. They were upset because we booked an event with an artist who we didn’t know had played the Michigan Womyn’s Music Festival.
 Xela: That was a TERF festival, right?
 Libertie: Yeah. But I honestly didn’t know anything about it at the time. So we booked this feminist musician Bitch, who was on Ani DiFranco’s record label, and a couple days before the show we found out that people were tearing down and defacing our yers. Asheville is a small town, so we gured out who was doing it, and asked them to sit down and talk to us. By the time we sat down together, this group of mostly trans
-92   /   CONSTELL ATIONS OF C ARE 
+92   /   CONSTELL ATIONS OF C ARE
 ---
 Xela: At the very least have a goddamn conversation. Yes, yes.
 Libertie: Right. Well it was short notice, but it seemed reasonable. Bitch decided not to play the show, so there wasn’t a public conversation, but it was still a big lesson for our collective. We realized that we had a responsibility to be more careful with the content that we platformed, and I think some of us also started thinking about how we needed to better communicate who we were to our community, because for me the hardest part of it was not being recognized by other trans people.
@@ -420,7 +420,7 @@ When I think about feminism, one of the things I think
 about a lot is how we respond when people are experiencing harm. Within our collective over the years, we’ve had a lot of opportunities to confront toxic behavior and we made mistakes, especially early on. We didn’t hold people accountable eectively and weren’t really holding ourselves accountable. Then even when we started taking anti- oppression work seriously, we were slow to recognize how harm played out between queer and trans people. But I guess the thing that we did right is that we didn’t give up, and when people criticized us—we didn’t use that as an excuse to stop trying. Those experiences have been really foundational to my feminism.
 The way you were talking about how much you give—
 and how much community spaces like Casa C.O.A.T.L. are giving—makes me think about how movement spaces are a type of feminist direct action. What I mean is that there’s a
-94   /   CONSTELL ATIONS OF C ARE 
+94   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Firestorm can be found in real life at 1022 Haywood Road, its third and maybe nal location in Asheville, or online at https://restorm.coop.
@@ -433,24 +433,24 @@ RAANI BEGUM
 reduction organization, see https://projectsafe.com/. For more on the Philadelphia Red Umbrella Alliance, an all-volunteer, sex-worker- run collective, see https://phillyrua.com/. Editor’s note: It’s a sweet coincidence that Nightshade is the name of two, albeit unrelated, collectives in this anthology (see “The Collective as a Crucial Form”).
 TARPS AND GOSSIP   /     99
 ---
-100   /   CONSTELL ATIONS OF C ARE 
+100   /   CONSTELL ATIONS OF C ARE
 ---
 TARPS AND GOSSIP   /   101
 ---
-102   /   CONSTELL ATIONS OF C ARE 
+102   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Raani Begum, a queer, migrant, disabled, full-service sex worker, is a core organizer in Project SAFE and the Philadel- phia Red Umbrella Alliance, and a member of Heaux History and Mad Ecologies. They also read, build, community, and write. Raani is interested in how topics of sentiment and
 TARPS AND GOSSIP   /   103
 ---
-104   /   CONSTELL ATIONS OF C ARE 
+104   /   CONSTELL ATIONS OF C ARE
 |
 C L A I R E BA R R E R A
 BROWN GIRL RISE   /   107
 ---
 SISTERHOOD
 Many of the people involved in BGR had histories of working in nonprots or government agencies, and had been burned by the ways the state insinuated itself into every aspect of that work. BGR didn’t want to re-create typical nonprot models of youth service provision, and we continue to resist the pull of professionalization and the culture of white supremacy at every turn. Dani, who had worked with neurodivergent youths in nonprot settings prior to working with BGR, names how nonprots expect a kind of false, authoritarian division between the service provider, youth “client,” and family surrounding the youth. She says, “When I worked with youths in other organizations, it was really like, I’m there solely for the youths and I don’t listen to the parents. The parents aren’t a concern to me because having a relationship with the parents would jeopardize my relationship with the youths. Like it wouldn’t serve them as well.” Dividing our personal and professional selves, including in care and educational professionals, is an eective tool to divide
-108   /   CONSTELL ATIONS OF C ARE 
+108   /   CONSTELL ATIONS OF C ARE
 ---
 BROWN GIRL RISE   /   109
 ---
@@ -470,11 +470,11 @@ isolated and intergenerational connections are lost.1
 As organizers, we want to cultivate solidarity between our- selves and between youths. Further, we want to nurture it between generations. We believe that kinship in the face of state violence is a radical armation of the value of our lives. We also see sisterhood as primary to achieving lasting and profound change, where we can resource each other outside the transactional and scarcity-oriented programs of the state. Building intergenerational relationships and centering youth leadership is not always easy. BGR has frequently come up against the ageism that permeates our world. The parents in our organizing collective are all older than the other members who do the majority of the direct youth work.
 1. Nick Montgomery and carla bergman, Joyful Militancy: Building
 Thriving Resistance in Toxic Times (Oakland, CA: AK Press, 2017), 10.
-110    /   CONSTELL ATIONS OF C ARE 
+110    /   CONSTELL ATIONS OF C ARE
 ---
 BROWN GIRL RISE   /   111
 ---
-112   /   CONSTELL ATIONS OF C ARE 
+112   /   CONSTELL ATIONS OF C ARE
 ---
 At the level of the BGR organizing collective, the way we practiced sisterhood became synonymous with the term erce love, which was coined a few years into our work and play together. As Dani denes it,
 Fierce love is loving people authentically and as they show up, and really loving people to the point where you allow them to be their full self around you and also to make that love a priority over everything else. I think in our work we are constantly dealing with deadlines and having to present to the world in a certain way to make the work that we’re doing seem legitimate. And I think the way that we really ght against that is with erce love. No deadline matters as much as the needs of people within this collective.
@@ -501,7 +501,7 @@ better or that what I’m doing is not the way I have to
 be doing it. I have the capacity to make changes that
 are good for myself and good for my community as a
 whole.
-114    /   CONSTELL ATIONS OF C ARE 
+114    /   CONSTELL ATIONS OF C ARE
 ---
 BROWN GIRL RISE   /   115
 ---
@@ -523,20 +523,20 @@ authentically meant sharing our own experiences and
 opening up about what we do to move through those
 spaces with wholeness—always recognizing that we
 are part of a continuum of Black and Brown femme
-116    /   CONSTELL ATIONS OF C ARE 
+116    /   CONSTELL ATIONS OF C ARE
 ---
 Lizzie states that with erce love, “My belonging [in BGR] is not based on whatever I can do for XYZ, this capitalist transactional exchange of I can make this contribution.” Our collective members and families have inherent worth and belonging, regardless of the role we each play or where we are in our growth. “We’re all at dierent places,” Gloria, another parent and BGR auntie, says, “but we recognize, one, that we’re all growing and we welcome that, and we’re not going to throw each other away because we’re not perfect.” There have been many moments when a collective member had to take a break from BGR, be it for one meeting or a year, and yet they still had a place in our group.
 PLAY AND JOY
 Creative engagement has been part of BGR’s pedagogy from the start. We made sure to have interactive programming that included games, art, discussions, and more. Yet in the beginning, we still fell prey to white supremacist tendencies to try to stu as much information into our youths as possible. The urgency we felt to help our youths engage in activism and be educated about social justice made us want to push too much content in our workshops. In many anarchist and leftist circles that we have participated in, this focus on theoretical knowledge combined with protests, boycotts, and so on, is
 BROWN GIRL RISE   /   117
 ---
-118   /   CONSTELL ATIONS OF C ARE 
+118   /   CONSTELL ATIONS OF C ARE
 ---
 2. Harsha Walia, Undoing Border Imperialism (Oakland, CA: AK Press,
 2013), 11.
 BROWN GIRL RISE   /   119
 ---
-120   /   CONSTELL ATIONS OF C ARE 
+120   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 In his manifesto and guide to storytelling and imaginary play, Grammar of Fantasy, Italian communist, author, and children’s educator Gianni Rodari sums up his views on the revolutionary nature of creativity in his chapter titled “Lenin’s Grandfather.” He recounts a story he heard about children in Russia who liked to sneak into their cousin Vladimir Lenin’s grandfather’s garden via a window versus the door.
@@ -572,7 +572,7 @@ weird with somebody, then it makes it so much easier
 to transition into the things that you don’t always feel
 comfortable talking about with other people.
 Sisterhood, erce love, play, and joy are all deeply interrelated.
-122    /   CONSTELL ATIONS OF C ARE 
+122    /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Although this piece was written by claire barrera, it was a deeply collaborative and relational eort that included Ashnie Butler, Allie Dyer, Lizzie Fussell, Dani Mandley, Ash Martin, Grace McMickens, Gloria Pinzon, and Kalie Pinzon. Shoutout as well to other current and former BGR collective members: Noelle Al-Musaifry, Anayeli Diaz, Madeleine Harmon, Shantae Johnson, Akasha Lawrence Spence, Lara Pacheco, Iris Torres, and Lorraine Wilson. For more on BGR, see https://browngirlrise.org/.
@@ -592,7 +592,7 @@ COLECTIVA MUJERES SUBVERSIVAS     /   127
 ---
 2019. The rst call, one of many, was initiated by Mara and
 Anita. Working with a cogendered collective, they organized a two-day event called Mujeres Subversivas: Anarcho-Feminist Action and Self-Defense. There was a DIY market, discussion about the zine “Accion y AutodefensAnarcofeminista” (Anar- cho-Feminist Action and Self-Defense), self-defense class, documentaries, and workshops on interpersonal violence and teaching new forms of masculinity, screen printing, papermaking, and stencils, not to mention performances by lots of bands and a radical feminist theater troupe called Ollin Compani. Many people in attendance, though, got upset that the thespians took to the stage between bands and started disrespecting the powerful art being performed before them. The artists and actors were baring their souls and getting heckled for it. The rage in that moment sparked the re for the femme-based collective Mujeres Subversivas. That same rage could still be felt under the rubble of the old ower elds.
-128   /   CONSTELL ATIONS OF C ARE 
+128   /   CONSTELL ATIONS OF C ARE
 ---
 I am a woman and want to be a poet. I want to name violence with owers in my mouth. I want to be among those who bend the world to us. I want to create words that cut o autumn, and along the way, the heads of some rapists. I want to tell my mother, My friends, and all of them,
 COLECTIVA MUJERES SUBVERSIVAS   /   129
@@ -601,7 +601,7 @@ COLECTIVA MUJERES SUBVERSIVAS   /   129
 Gaby threw her words o the stage and into the hearts of the crowd at this punk show, kindling their inner res. The potent rhythm of a drumbeat felt like the countdown to a blasto. It was followed by a screaming guitar ri and bass line that resounded throughout the space. The music was throbbing, sharp, raw, and direct. An all-femme mosh pit broke out,
 2. Reexistir (Reexist) by Gabriela Navajas Rojas, a poem used in a song
 by the band Filoso.
-130   /   CONSTELL ATIONS OF C ARE 
+130   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Anita clapped her hands together. The game was starting in today’s kids workshop. We lined the children up in a row, making the younger, rambunctious, and distracted Erizo the leader. He called the shots, directing the other kids to pass small foam mats—foamies, as we called them—along a path to get to the other side. No one else was allowed to speak. It took some coaxing on our behalf, reminding him now and again of the goal, and asking him what he should do next, but eventually he got all the other kids across.
@@ -611,7 +611,7 @@ COLECTIVA MUJERES SUBVERSIVAS   /   131
 ---
 * * *
 We wrapped up the workshop and led the kids through the patio, past the parents sitting in the front room and into the kitchen of Casa de Vinculación Social (Social Connection House) to wash their hands. Casa de Vinculación is a social center in the heart of Carrillo. It’s a large two-story house with ample front and back patios as well as a large garden. Many collectives ow in and out of the space. Over time, a musical collective has taught guitar classes for kids, various exercise classes have been held, a psychologist oers care, and people built a sweat lodge out back. An environmental collective maintains the gardens. Several years ago, Casa de Vinculación organized and planted a community garden in an abandoned lot around the corner too. Recently, a couple of the collectives got together to form Micelio (Mycelium), which organizes around the issue of Querétaro’s water, an especially poignant topic since 2022, when the state moved to
-132   /   CONSTELL ATIONS OF C ARE 
+132   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 The parents had prepared sliced fruit and tostadas with vegan toppings and salsas, and made sure that coee and lemon verbena tea stayed hot on the stove. They sat in the next room around a big table chatting and opened up space for several of us to sit, while others began bringing the foamies back upstairs and putting away the art supplies. Mona, Ramona’s mother, thanked us. “This is such great work you all do. How did you get started?” We looked around at each other. “Well …” Mara started. “Mara!” blurted out Fatx. “You’re the connection for all of us.” Mara shrugged with a smile. “Well what can I say? I just wanted to be organizing with powerful feminists. And it all just came together.”
@@ -619,7 +619,7 @@ COLECTIVA MUJERES SUBVERSIVAS   /   133
 ---
 * * *
 Victoria, Erizo’s mother, nodded with understanding. Lora came down from putting the foamies and art supplies away, nding the last empty seat at the table. There was curiosity in the eyes of Yun, whose boys Mateo and Geronimo were playing with the other kids out back. “OK, so explain to me more about your collective,” Yun said with her warm smile. “Like what is it?” The intention of Mujeres Subversivas, from the start, has been to create a network of women and femmes connected by common ideals, organized horizontally and in solidarity, to share feelings, thoughts, and the re that rages within us all. To weave the world with our words, growing together up out
-134   /   CONSTELL ATIONS OF C ARE 
+134   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 “Denitely,” said Majo, the mother of José Carlos. “What other activities have you all put together?”
@@ -627,7 +627,7 @@ COLECTIVA MUJERES SUBVERSIVAS   /   135
 ---
 2020. Then in February, we got together and created another
 three murals.” “The murals were amazing,” said Leo. “My grandparents even showed up! I was kinda scared about that at rst, but it turned out great.” Gaby came in from washing the dishes. She wiped her hands on a tablecloth. “I really loved those events! It was a perfect balance of being organized yet spontaneous.”
-136   /   CONSTELL ATIONS OF C ARE 
+136   /   CONSTELL ATIONS OF C ARE
 ---
 “Oh my goddess, yes,” said Pau.
 “Has anyone swept yet?” asked Fatx.
@@ -651,7 +651,7 @@ COLECTIVA MUJERES SUBVERSIVAS   /   137
 ---
 * * *
 “So what have you folks learned from all of your organizing?” Sebastian inquired We grew pensive. “Take notes!” said Gaby, which got a round of laughs and lightened the mood. Then Lora spoke up. “I think we probably overorganized the lecture series. Turns out you can overdo it on the organizing end. We were meeting all the time, but we would get o topic and didn’t get a lot done. Not always; sometimes our meetings were really productive, but at other times it was like four hours would just disappear without anything concrete happening.” “Yeah, there was a lot of self-induced stress,” Fatx observed. “I think we’ve learned the importance of delegation and trust—to trust ourselves, trust each other. We don’t all have to be there for a yer collage, for instance.”
-138   /   CONSTELL ATIONS OF C ARE 
+138   /   CONSTELL ATIONS OF C ARE
 ---
 Gaby built on that, saying that it was “nding a balance
 of organization and spontaneity. Honestly, I think a fast- approaching deadline can help everything come together. Everyone nds what needs to happen and gets it done.”
@@ -668,7 +668,7 @@ COLECTIVA MUJERES SUBVERSIVAS   /   139
 ---
 * * *
 That afternoon of the lecture series felt like a psychic hug from the collective. We were equals, smiling and happy. And we were erce! We channeled our rage into stories sung as poems hurled into each other’s hearts. We were vulnerable, opening up about our battles and crying over our wounds of war. We were furious, but we weren’t alone. That made all the dierence, and together we danced joy back into each other’s lives, creating and sharing our art. Mujeres Subversivas has been our call to action, solidied with the help of everyone there. Together we forge this liminal space, with open dialogue and an egalitarian spirit, carrying the torch for those who couldn’t make it and those who rst lit it to create a magical space where we feel protected, safe, and accompanied. Our work in collective has always been accomplished through horizontal organization and autogestión, which is a word that doesn’t translate well.
-140   /   CONSTELL ATIONS OF C ARE 
+140   /   CONSTELL ATIONS OF C ARE
 ---
 To open the party that marked the close of the lecture
 series we held a DIY market, where our friends bartered and sold their art—inspiring us with their energy and their re. Once the space had lled with laughter, we gathered everyone together for the last lecture in our series, which included a slideshow, arts and crafts, and deep questions. We’ve always strived to bring a balance of tactical experience and theory to our events, and this one was no dierent.
@@ -676,7 +676,7 @@ We concluded with the open mic, which without overorganizing, was spontaneous an
 The rst act to light up the mic was Power Animala, an allfemme rap group that inspired our bodies into motion with dynamic beats. Powerful verses made our hearts run wild. Then Fer shared a poem addressed to the trash human who’d wasted her time while she’d let her own talents languish. Josi lled the microphone with a poignant story about a person who tried to cut o their colorful wings and wanted to control their magical dreams. Roux gave a solo rap performance about the time she was metaphorically drowned by a relationship that
 COLECTIVA MUJERES SUBVERSIVAS   /   141
 ---
-142   /   CONSTELL ATIONS OF C ARE 
+142   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 We nished up the last of the chores, gathered up the children, and piled into various vehicles to caravan together downtown. The city museum was a collision of the past and present. Its stone Spanish architecture of the colonized past met with modern mood lighting of the present while powerful artwork hung in stark contrast on white plaster walls. It was an unlikely venue, usually reserved for ne art exhibitions and gatherings of Querétaro’s well-to-do. The building had an outdoor patio built into the interior, and that’s where the show was taking place. So while the Spaniards had forced their culture onto the diverse Indigenous peoples of what is now Mexico, we were spreading our own culture in this place that now belonged to the upper class, the oppressor class. It was a strange dichotomy indeed, but we were here to break the space and claim it as our own—at least for a night anyway. Gaby took to the stage, grabbing the mic and channeling
@@ -684,12 +684,12 @@ COLECTIVA MUJERES SUBVERSIVAS   /   143
 ---
 * * *
 Las mujeres subversivas nacemos de un momento a otro y en cualquier espacio-tiempo. Emergemos en el instante que nos re/conocemos niñas madres abuelas hermanas tías amigas educadoras humanas En ese momento, en el que nos asumimos mujeres aún sabiendo que estamos ante un sistema que nos dice las otras, las olvidadas, las anuladas. Es ese momento, en el cual nos cuestionamos acerca de todo aquello que no nos permite ser y que ahora sabemos, lograremos arrancarlo de nosotras de la misma manera que podemos y deseamos hacerlo de este mundo. Es ese momento, en el que descubrimos nuestra capacidad
-144   /   CONSTELL ATIONS OF C ARE 
+144   /   CONSTELL ATIONS OF C ARE
 ---
 Mujeres Subversivas are born from one moment to the next in any space-time. We emerge the instant we recognize ourselves. girls mothers grandmothers sisters aunts friends educators humans In that moment, when we embrace ourselves as women despite knowing that we
 COLECTIVA MUJERES SUBVERSIVAS   /   145
 ---
-146   /   CONSTELL ATIONS OF C ARE 
+146   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Mujeres Subversivas was founded in 2019 and is based in Querétaro, Mexico. There are currently seven members, though they are looking forward to expanding. They can be reached on Facebook at Mujeres Subversivas Acción y Autodefensa Anarcofeminista. Amor y rabia hermanxs!
@@ -705,7 +705,7 @@ traditionally the period when we’ve harvested our crops, and all the seeds we 
 work and contributions throughout the project.
 PINK PEACOCK   /      151
 ---
-152   /   CONSTELL ATIONS OF C ARE 
+152   /   CONSTELL ATIONS OF C ARE
 ---
 PINK PEACOCK   /   153
 ---
@@ -723,7 +723,7 @@ see it as I have seen it, then it may be called a vision
 rather than a dream.
 This is how I feel today: “not so despairing,” at least most of the time. I’m writing this less than a month after the café closed its doors for the last time, and days before the rst mutual aid free meal share that I’m now organizing in my area. Rosh Hashanah is still a couple of months away, but again I have the feeling of standing on a threshold. I am remembering and honoring the Pink Peacock, and as I do so, I try to look ahead to our possible futures and back to the past we shared. I know that others saw it, lived it, and felt the way I felt; it was a vision and not a dream.
 * * *
-154    /   CONSTELL ATIONS OF C ARE 
+154    /   CONSTELL ATIONS OF C ARE
 ---
 It was obvious to us from the beginning that accessibility would be a priority. We follow the social model of disability and accessibility: everyone has access needs, and they all deserve to be lavishly met. Money is an access issue, and that’s always been one of the fundamental principles of the café: that it’s free. That came from our experiences of food insecurity. I remember the rst time I was given free food in a similar way; it was summer 2011, I was about twenty-one, and my band was doing a DIY tour circuit with a bunch of anarchist punks. We were hungry, and someone said there was free food at a church every Wednesday or whatever; they gave away food, no questions asked, with no means testing. So we went and got fed there—and that changed my whole life. I realized that this was what I needed to be doing too. Soon I got involved with Food Not Bombs in East London, and that was even better than the church because it wasn’t Jesus-y. The church people were nice—they weren’t preaching or proselytizing—
 2. For the full list and detailed descriptions of Pink Peacock’s
@@ -734,13 +734,13 @@ On other accessibility needs, there are so many dierent
 sides to it. Of course there are all the physical and sensory needs, which is what people often think of rst. And then there are mental and social access needs. Things like you don’t have to read Hebrew to come to our Seder. You don’t have to look a certain way, or be between eighteen and thirty- four, to be treated with dignity as a queer person. You don’t have to know all about gender theory and what your own gender stu is in order to come talk to us about trans stu. We didn’t do a lot of reading theory. At the start, it was just Joe and I, and neither of us were up on crip theory; it was just, we know that these are barriers and so we’re going to look at how we can reduce them. This wasn’t a point of principle—the not reading. It would’ve been good if we had read more and known more; it just happens that we didn’t do a lot of reading rst. We didn’t have time.
 Our main inuence has been constant feedback, both from
 our volunteers and other people in the community. Some things, I think, we did a really good job on, and other things, we did a bad job, and people told us and we learned from it. Joe and I are both autistic, and I’ve got other mental health stu, which gave us some awareness of how equipped spaces are or aren’t to deal with anything that’s not normative. So
-156   /   CONSTELL ATIONS OF C ARE 
+156   /   CONSTELL ATIONS OF C ARE
 ---
 Could we talk a bit about communication between the collective members and other volunteers, and how people take responsibility and ownership around improving things in terms of accessibility? Are there any examples of someone sharing a new idea or suggestion on meeting an access need, and how has that gone?
 One of the rst things that I say to new volunteers is that their dignity, comfort, and safety are what’s most important. So if they’re volunteering and there’s something they don’t want to do, they shouldn’t be doing it; we can get somebody else to do it. Some people love to do dishes, some people love counting out coins, and some people are happy to clean the toilet because they love cleaning. The collective works. It usually takes collective members some time before they really take ownership of the project because it’s just so unusual that we’re like, “OK, we’ve welcomed you in and now this space is yours as much as it’s mine.” It takes people a little while to really believe that. But then once they do, they start to make changes and make things better. So, for example, people are constantly organizing and reorganizing the storage areas in the back to make things accessible. That might not be the most obvious accessibility thing for everyone, but it is for us, because now it’s so much
 PINK PEACOCK   /   157
 ---
-158   /   CONSTELL ATIONS OF C ARE 
+158   /   CONSTELL ATIONS OF C ARE
 ---
 I like the privacy curtains as well—you have these cute lacy-black curtains over the lower part of the windows so that plenty of light comes in, but you don’t feel like you’re sitting in a display window on the street, and they’re not blackout curtains so it doesn’t feel weird. It feels cozy and safer as a queer space.
 Thank you! Both of those things, the lights and curtains, really required little thought and not a lot of money to make them work, and you install them and then they’re there forever. And there are so many access things that are like that. Such as installing a ramp—wheelchairs are always the rst thing people think about, so installing a ramp is the kind of thing that’s in the general public’s mind. You install the ramp once and it’s done. It’s there for years and years before you need to replace it. So it’s kind of pathetic that there isn’t step-free access everywhere. I mean, it’s dierent if all you have is a space that’s up or down a ight of stairs in one of these old
@@ -748,14 +748,14 @@ PINK PEACOCK   /   159
 ---
 Interestingly, I think some of the policies that are in place primarily because of accessibility also make such a big difference in terms of making the café space so special; they incidentally make it stick out against the mainstream experience of going to cafés in the capitalist hellscape. Like the lighting, and also the efforts you make to reduce noise by having soft furnishings, tablecloths, and so on. From my viewpoint, I come into the Pink Peacock and just notice how much more pleasant it is to be there. When I go to other places that are supposed to be nice and luxurious, often everything in there consists of hard, uncomfortable surfaces that reverberate noise. And as somebody who, as far as I know, doesn’t have any specific sensory issues or particular communication difficulties, it’s still just unpleasant and makes me feel angry because I know that, for instance, my deaf friend can’t be in those environments, and there are so many other people who would struggle or have a horrible time in spaces like that.
 Even people who have no reason to be angry about it—people who don’t have that empathy or understanding, and don’t have any sensory issues—nd those environments stressful. They’re meant to be stressful. It’s meant to keep table turnover high—that’s why those cafés are built like that, especially the big corporate ones. By design, they don’t want you lingering. And so this is something that we always knew we needed to
-160   /   CONSTELL ATIONS OF C ARE 
+160   /   CONSTELL ATIONS OF C ARE
 ---
 The café has come about in a time and place where it’s much needed. It’s been sorely needed both in terms of the growing poverty in this part of the world, and the many kinds of insecurity and inequality that have been brought to light during COVID, and neither of those things look like they’re going away. While the lockdowns are over, the cost of everything is rising, and so is food insecurity, so if anything, it’s getting worse and worse right now in the United Kingdom.
 Especially at the beginning, we had a lot of people who had obviously never taken a COVID test; they didn’t have access to them because they’re street homeless, or because there were language barriers that meant that they don’t interact with pharmacies or the Scottish government website. So I’ve shown dozens of people how to take their rst COVID test— which was upsetting because I’m not a medical professional and I’m not really qualied to do this—and then sometimes those people would have a positive result, and then I’m the one who’s giving them medical advice, saying here’s what you need to do so that you can recover and not transmit it to anybody else. We get told all the time at the Pink Peacock that we’re the only place asking people to take tests; people look at us like we’re insane when we ask them to take COVID tests, even when they were easily available for free. It seemed like, generally speaking, both anarchist and mainstream venues were thinking more about accessibility during the period where we were coming out of lockdowns.
 PINK PEACOCK   /   161
 ---
 I would say that people seem to have forgotten not only the 1980s and 1990s but things that were so much in our general public awareness just two and three years ago as well: COVID prevention, and the widespread concern around things like food insecurity and insecurity
-162   /   CONSTELL ATIONS OF C ARE 
+162   /   CONSTELL ATIONS OF C ARE
 ---
 Yeah, there’s fatigue, and there’s exhaustion, because we’ve been going through and are still going through a pandemic and a lot of grief, and I think our collective capacity to deal with all of this is really weak right now. There’s this sense of fatalism: What can we do?
 And yet in that extremely hard time, you’ve created this space!
@@ -764,7 +764,7 @@ What are some of the things that make it possible to keep it open, to sustain it
 PINK PEACOCK     /   163
 ---
 Support. It’s been so important, right from the start, that we had a lot of support both from people here in the Southside and a wider community online. We would be nothing without that. At the beginning of the pandemic, when we didn’t have any space and we weren’t sure whether this was going to work, we posted online that we were going to try doing food deliveries for people in our postal code for pay-what-you-want down to nothing. There were two separate links: here’s where you place an order, and here’s where you can send us money if you want to, but you don’t have to, and we won’t know if you do or not because we’re not checking. We will just bring you food, and if you don’t pay for it that’s ne. And we did a few delivery days throughout spring 2020, and every time we made enough money to pay for our material costs—not our labor, but our material costs—except for the last time. So we posted about that on social media, just saying, “Hey, we didn’t quite make up the costs this time, but we served eighty meals,” or whatever it was, “and if you can help us cover the costs, here’s the link,” and people immediately did. We don’t always get that kind of response now. But that really is what made things possible in the beginning. We have the best customers and supporters. The customers who come to the café are overwhelmingly lovely. And online as well—there is a lot of bad-faith interaction on social media, and there are people out there who hate us and persistently harass us, and that is really depressing and actively makes me less able to engage. But the other side of it is people saying
-164   / CONSTELL ATIONS OF C ARE 
+164   / CONSTELL ATIONS OF C ARE
 ---
 People who haven’t even tasted the carrot lox—which is delicious, by the way—love you! This also relates to something I wanted to ask you about: social relations and what the café project has to offer, particularly from an accessibility viewpoint, in terms of changing, reshaping, or opening up those relations. You show people what’s possible in the context of food and drink and accessible spaces, but are there ways that you’re showing what’s possible interpersonally?
 A lot of the volunteers at the café are disabled, and it’s really important to us that we are supportive—not just “tolerant” or “accepting,” but genuinely supportive of each other. So if someone’s having a pain day and can’t come in that day, or if they’re here but they need to go home early, or they don’t want to go home but they need to sit down for the rest of their shift instead of being on their feet, we say, “OK, great, do that.” And that’s been such a learning curve for all of us, to be in an environment where you can actually state your needs and have them met. That just doesn’t happen most places. So that’s one social thing that we’re trying to shift for all the collective members—the way we think about labor and rest, and prioritizing the well-being of the workers above everything else. It always feels bad to close the café on a day when we’re supposed to be open, but we are always so clear that we will close the café rather than have somebody working there who’s not well in whatever way. So if you’re working
@@ -774,7 +774,7 @@ It’s also hard that nobody is telling each other when to take
 a break because we’re all in charge of our own needs and boundaries. We’re always trying to encourage each other to identify and state those boundaries, to say, “Hey, I need to sit down” or “I need to go home” or “I can’t commit to this today,” and we’re getting better at it. And hopefully we do notice things with each other, like if I’m getting tired today or burning out generally, somebody will notice that and say something, but not necessarily so. There’s no one who’s going to “manage you” in that way because there are no managers.
 Right, I think it’s important to note, though, that having those things—hierarchy and managers—which exist in “regular” jobs, doesn’t necessarily mean that a worker is safer that way, or that their well-being is any better or being looked out for; it can be quite the opposite. Because the praxis that you’re describing, genuinely putting the volunteer workers’ health and well-being first, is incredibly far from the norm in paid work contexts. Even in public-facing jobs, you’ll regularly see people at work who are visibly physically unwell and absolutely should not be at work doing those tasks right now, and it’s so bad for everyone.
 Right, and that’s just the visible things! There’s always pain and exhaustion and mental health stu that you can’t necessarily see as well, and whether or not it’s a public health concern, those people are absolutely not being looked out for and told that it’s OK to stop, or take a long break, or go home.
-166   /   CONSTELL ATIONS OF C ARE 
+166   /   CONSTELL ATIONS OF C ARE
 ---
 We try to have a good collective culture around this, and
 I actually think we were better at it before but now we’ve slipped into being shit about taking breaks. Some people can be—denitely myself included—reluctant to take breaks, and actually stop and rest when they do take them. It’s hard, and we’re working on it, and we all know that we should be better at it, but we’re also constantly understaed. It would be easier to take breaks if we had enough people to cover everything, but we don’t. So we’re always pushing ourselves because we care, you know—it’s important to us to stay open and keep making the food.
@@ -784,14 +784,14 @@ Another thing on social relations, and something I’m really
 proud of that the café does, is we shift the paradigm away
 PINK PEACOCK   /   167
 ---
-168   /   CONSTELL ATIONS OF C ARE 
+168   /   CONSTELL ATIONS OF C ARE
 ---
 PINK PEACOCK   /   169
 ---
 That means education is another thing that you’re providing for people. This kind of nonjudgmental education in political spaces is in short supply, and I think, also good feminist and accessibility praxis.
 I hadn’t really thought about the space being educational outside the literature we stock, but yeah. So much of the education is social, like explaining anarchism, explaining Jewish stu, health stu. I talk to a lot of older gays about trans issues. It’s just answering questions.
 From my point of view, another aspect of anarcha-feminist praxis, which is also accessibility praxis, is that you’ve committed to being a dry and all-ages-friendly place. I used to work in an extremely male- dominated workplace in tech a few years back before the pandemic, and all the social events centered around drinking. And it felt like it was always me and one or two other female workers who had to say,
-170   /   CONSTELL ATIONS OF C ARE 
+170   /   CONSTELL ATIONS OF C ARE
 ---
 Exactly, yeah, and queer spaces here generally have the same problem of things revolving around alcohol and nightlife, which means there’s nowhere to go if you don’t want to drink.
 Right, so the café is a place you can come to if you’re queer and in recovery, you’re too young to go to a bar, pregnant or trying to get pregnant, don’t drink for religious reasons, have caring responsibilities, or don’t want to be around drunk people because of trauma. And there are also all kinds of issues around communication: for anyone who has any kind of difficulty with speech or hearing, or is using a language that isn’t their first language, in places with loud music and drinking, it can be really difficult to interact. That can be a real invisible social barrier, and it’s so important that you’re providing an alternative.
@@ -800,7 +800,7 @@ about and new ways of considering accessibility as a concept. So thank you! To w
 I think the things I wish I’d known at the start and things I think other people need to know are maybe dierent. What I wish someone had told me is really specic and kind of depressing. I wish I’d been prepared for the amount of vitriol
 PINK PEACOCK    /   171
 ---
-172   /   CONSTELL ATIONS OF C ARE 
+172   /   CONSTELL ATIONS OF C ARE
 ---
 So it’s not just, oh, anyone can do it. It’s hard. And you
 have to know how to manage your energy, and the resources that you have, and the skills that you have, to the best of your ability because you’re going to fail in lots of—hopefully small—ways, and you have to pick yourself up from those and keep going.
@@ -812,7 +812,7 @@ PINK PEACOCK   /   173
 Moishe Holleb | ‫ה השמ‬‫ בעל‬is a queer and trans Yiddish anarchist who cares a lot about food justice, Yiddish, support- ing survivors of sexual violence, and trans health care. He recently moved to Brooklyn to be around more queer lefty Jews. His Instagram is @mishaholleb.
 Alice Ross | ‫ לדײא‬‫ עדײר‬is motivated by curiosity, unafraid of sincerity, and thinks you should make time to look at the moon. She is on Instagram as @sketchyalice and part of @leithfoodnotbombs.
 The Pink Peacock collective included around forty dierent people over its three years of operation. Every one of them contributed to the space with their unique skills and insights, fostering community with their labor and dedication, building ‫( אבה םלועה‬h’oylom h’bo, or the world to come).
-174   /   CONSTELL ATIONS OF C ARE 
+174   /   CONSTELL ATIONS OF C ARE
 RECLAIMING LIFE
 |
 N I C O L E RO S E
@@ -834,7 +834,7 @@ FAILED to even take her to [the] fucking hospital for
 her biopsies. … [It] failed to take her to her pre-op
 appointment, so now the surgery that was meant to
 happen months ago has been pushed back AGAIN.
-178    /   CONSTELL ATIONS OF C ARE 
+178    /   CONSTELL ATIONS OF C ARE
 ---
 It’s a really long story of ongoing neglect and harm. …
 She is lucky to still be fucking alive.
@@ -856,7 +856,7 @@ for frontline organizers with heavy hearts.
 —Solidarity Apothecary, Instagram, September 24,
 2020
 Hypervigilance, muscle pain, nightmares, digestive issues, chronic inammation, and on and on—the body doesn’t lie about the eects of state violence, even if we hide our feelings behind movement machismo. What I learned studying herbalism, though, is that we can heal tissues, calm nervous
-180    / CONSTELL ATIONS OF C ARE 
+180    / CONSTELL ATIONS OF C ARE
 ---
 SOLIDARIT Y APOTHEC ARY   /   181
 ---
@@ -876,15 +876,15 @@ rage and pain.
 The mission of the Solidarity Apothecary is to materially support revolutionary struggles and communities with plant medicines to strengthen collective autonomy, self-defense, and resilience, whether to climate change, capitalism, borders, or so much more. Anarchists have always been dedicated to
 3. “Emma Goldman—Women’s Rights—Birth Control,” Jewish
 Women’s Archive, accessed December 8, 2023, https://jwa.org/ womenofvalor/goldman/womens-rights/birth-control.
-182    /   CONSTELL ATIONS OF C ARE 
+182    /   CONSTELL ATIONS OF C ARE
 ---
 SOLIDARIT Y APOTHEC ARY   /   183
 ---
-184   / CONSTELL ATIONS OF C ARE 
+184   / CONSTELL ATIONS OF C ARE
 ---
 SOLIDARIT Y APOTHEC ARY   /   185
 ---
-186   / CONSTELL ATIONS OF C ARE 
+186   / CONSTELL ATIONS OF C ARE
 ---
 I love your herbal book. … Personally I cannot overstate how this book has helped me in prison. I have many ailments from asthma, COPD, [and] severe reactive skin. Unfortunately our prison yard is mostly concrete. But I have managed to treat my ailments by picking dandelion leaves to eat and wash. Also we have some plantain that grows so I use that for lots of things. Also we have a bit of clover so I use all [of] what I can. On the out[side], I lived in a eld and never touched detergent. I have a good knowledge of herbs, but your book has bolstered up my own knowledge, and the use of canteen items as well is amazing. Thank you all so much for this book. Herbs keep me alive in prison, and give me light and greenery.
 MOBILE HERBAL CLINIC CALAIS
@@ -896,7 +896,7 @@ than ever, and many people came back asking for
 rells of cough syrup.
 —Solidarity Apothecary, Instagram, November 2019
 It needs no introduction that state violence is racialized, classed, and gendered in its design and application. The British border is no exception. People arrive in northern France after having traveled for months and thousands of miles in order to then cross the Channel to apply for asylum in the United Kingdom. Many have come from Syria, Kurdistan, Afghanistan, Iran, Sudan, and Eritrea, to name a few places. Their journeys expose the horror of white supremacy in what’s often dubbed Fortress Europe. In Calais, people live in outdoor encampments with constant police evictions and brutality as well as food and water insecurity after having already faced a dangerous trek of crossings via water or hidden in trucks—both of which have taken many lives. For the last ve years, Mobile Herbal Clinic Calais has maintained a presence in northern France supporting refugees and migrants risking their lives to cross the British border. I regularly visit Calais most months as a eld coordinator and herbal rst aider being mentored by senior herbalists and doctors on our team. Since October 2019, we have seen more than ve thousand people with upper respiratory conditions, skin complaints, digestive issues, and more, not to mention injuries inicted by the police. Our medicines are crafted by a dedicated network of grassroots medicine makers and growers, with expenses covered by do-it-ourselves fundraisers. During
-188    / CONSTELL ATIONS OF C ARE 
+188    / CONSTELL ATIONS OF C ARE
 ---
 At times, it can literally feel like a “sticking plaster,” as we
 say in England, when you’re applying bandages or engaged in wound care. Yet it’s clear after thousands of conversations that the solidarity is valued and needed, and people feel warmth and anity toward the medicines we used, particularly because many of the travelers are coming from countries with strong herbal medicine traditions.
@@ -904,7 +904,7 @@ Herbal medicine comes into its own in response to upper
 respiratory infections (coughs, colds, u, sinus infections, etc.). We give people cough syrup, immune tonic, chest rubs, salt water, lozenges, and so on, to help shift their symptoms. We listen to people’s chests if they’ve been coughing for longer than a week, and refer them for antibiotics or a hospital when needed. Our work in the region is not just about symptomatic relief; our multimodality team of doctors, paramedics, and herbalists aims to nd those people who may slip through the net and yet need urgent care. One man I met who’d had a long-term cough and sore throat actually had tuberculosis. He was able to access urgent care during a two-week hospital stay, and it was amazing to shake his hand on the next visit once he was out of the hospital. We also oer bruise ointments and heat packs for people with long-term musculoskeletal injuries that are up when they’re walking massive amounts of miles
 SOLIDARIT Y APOTHEC ARY   /   189
 ---
-190   /   CONSTELL ATIONS OF C ARE 
+190   /   CONSTELL ATIONS OF C ARE
 ---
 CARE IS A RADICAL ACT
 I’ve had this tiny anxiety in the back of my head that people wouldn’t nd [our humble herbal medicine] useful in this context. Like WTF can some herb tea do right now? But the demand has taken me aback, and everyone is constantly saying how needed and appreciated it is.
@@ -917,14 +917,14 @@ colonized Western world have been taught to no longer see plants, much less have
 * * *
 4. Robin Wall Kimmerer, Braiding Sweetgrass: Indigenous Wisdom,
 Scientic Knowledge, and the Teachings of Plants (Minneapolis: Milkweed Editions, 2013), 229.
-192   /   CONSTELL ATIONS OF C ARE 
+192   /   CONSTELL ATIONS OF C ARE
 ---
 SOLIDARIT Y APOTHEC ARY   /   193
 ---
 T O T H E S PA R K S
 |
 M AG S B E A L L
-A N D C O RY M A R I A DAC K 
+A N D C O RY M A R I A DAC K
 * * *
 NORTH STAR HEALTH COLLECTIVE   /   197
 ---
@@ -932,7 +932,7 @@ At 2:00 p.m., sirens blared all over Quito, the capital city
 where I was then living, and at 2:30 p.m. helicopters could be seen ying overhead, making sure that people were in fact inside for the rest of the day and night. The consequences for breaking curfew and other regulations involved being ned a month’s salary and thrown into jail for three to four months. Having come from this extreme Ecuadorian lockdown, I was still in the mindset of taking curfews seriously. Early on in the George Floyd uprising, and shortly after curfews were being set in both Minneapolis and Saint Paul, I heard a rumor that street medics were allowed “curfew immunity.” This turned out to be a laughable fallacy, yet as I like to say, “I came for the lie; I stayed for the community.”
 Although there is absolutely no such thing as curfew
 immunity for street medics, I’m glad this false rumor led me to a phone call that changed my life. With my hands shaking out of nervousness, I called a number given to me by a friend of a friend and left a voicemail with someone at North Star Health Collective, asking if I could become a street medic. As a certied Wilderness First Responder for over twelve
-198   /   CONSTELL ATIONS OF C ARE 
+198   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 North Star Health Collective “ran”—shorthand for going out as a street medic—in support of what would become known as “the uprising.” Later, it was called the rst uprising or George Floyd uprising because of the one that was kicked o the following year by another murder-by-police, this time of Daunte Wright. We ran beginning with the rst march after George Floyd was killed, although we had no idea what was coming at the end of that march when it reached the Third Precinct. As the anger on the streets found traction and sustained itself beyond a day or two, or even a few, North Star wasn’t fully prepared for the level of labor to come in caring for our communities. This is not an attempt to tell that story, even though we’ll reference it. Instead, it is a reection on how, as medics, we engage in movements and grassroots organizing, because the
@@ -942,17 +942,17 @@ A BRIEF HISTORY
 How we were drawn to this work is unique to each of our lived experiences, of course, but the street medic world has a long and powerful history. We usually start the story in the civil rights era—though there are lineages far older than that—and share the origins of the Medical Committee for Human Rights, which had a protest arm that took care of people in the streets in places like Selma, Alabama. We honor the health care work of the Black Panther Party and Young Lords.1 The teachers of the next generation of street medics came from that time and taught those of us in the “another world is possible” era in the late 1990s and early 2000s the same skills. Medic skills evolved and continue to do so to this day, when now those of us from that earlier time in turn teach the new generation. North Star’s tale falls into these last chapters. North Star Health Collective was founded in 2008 in preparation for the Republican National Convention set to be hosted in Saint Paul that year. Founding member
 1. For more on this history, see, for example, “Medical Committee
 for Human Rights,” SNCC Digital, accessed December 8, 2023, https:// snccdigital.org/inside-sncc/alliances-relationships/mchr/; Johanna Fernández, The Young Lords: A Radical History (Chapel Hill: University of North Carolina Press, 2020); Alondra Nelson, Body and Soul: The Black Panther Party and the Fight against Medical Discrimination (Minneapolis: University of Minnesota Press, 2013).
-200    /   CONSTELL ATIONS OF C ARE 
+200    /   CONSTELL ATIONS OF C ARE
 ---
 NORTH STAR HEALTH COLLECTIVE   /   201
 ---
 NORTH STAR ETHICS
 There is a dierence between being a street medic and being a medic-in-the-streets. Health care professionals who hit the streets with their med bags are not necessarily prepared to give care to people under extreme duress with limited resources. And unless you’re a trained street medic, you might not be operating with the same values that North Star holds. We
-202   /   CONSTELL ATIONS OF C ARE 
+202   /   CONSTELL ATIONS OF C ARE
 ---
 NORTH STAR HEALTH COLLECTIVE   /   203
 ---
-204   /   CONSTELL ATIONS OF C ARE 
+204   /   CONSTELL ATIONS OF C ARE
 ---
 NORTH STAR HEALTH COLLECTIVE   /   205
 ---
@@ -960,13 +960,13 @@ NORTH STAR HEALTH COLLECTIVE   /   205
 Mags: When I think about why I’m a street medic, I think about an experience the rst night of the uprising after the murder of George Floyd. People weren’t particularly prepared for it to turn into such a street battle. The cops were in hard defense of their precinct; it had been breached and was surrounded on three sides. They were ring tear gas every way they could. They would re a round, and people would move back to let the chemical spray pass. And there, in that moment, is my medic buddy and me. We wash peoples’ eyes out so that they can advance again. Twenty years ago it was the same. We wash your eyes or tend to your wounds so that you can keep ghting.
 * * *
 Cory: After Trump lost the 2020 presidential election, his supporters began to hold regular protests in front of the governor’s mansion in Saint Paul. Counterprotesters would show up, often resulting in clashes between the two groups. A police presence was constant at these events. One
-206   /   CONSTELL ATIONS OF C ARE 
+206   /   CONSTELL ATIONS OF C ARE
 ---
 NORTH STAR HEALTH COLLECTIVE   /   207
 ---
 NORTH STAR PRACTICES
 Holding a set of anarchist values while in motion is important. North Star often thrives—or knows why we’re not—because of our practices. We work to live this out in everything we do. Which means that we develop protocols as well as discuss how to evolve and change, but from a strong rooting in what we are working to build. It’s granular, like when we check in with each other at the start of an action. It guides us, such that we insist on never running alone. It’s why we have a whole dispatch system so as to care for each other on, and as
-208   /   CONSTELL ATIONS OF C ARE 
+208   /   CONSTELL ATIONS OF C ARE
 ---
 BUDDIES AND THE RITUAL OF OUR CHECK -INS
 To understand our check-ins, you have to understand that we always run with at least one other person and sometimes more. If there are three medics at a march, they all stick together. If there are more, they can split into pairs or trios. The larger collective trusts the autonomy of the medics on the ground to decide how to do that within our protocols. Buddies are important for several reasons—safety, support, accountability, and just plain logistics, to name a few. When we train street medics, before we ever get to medical skills, we teach our ethics and then our buddy system because it is a key practice of those ethics. In each training, we teach and stress PEARLY (physical vulnerabilities, emotional vulnerabilities, arrestability, role, loose ends, and yes [or no] to buddying), and buddy pairs go through this list with each other at the start of a run. Whether we’re approaching a candlelight vigil or thousand- person march, check-ins give us a moment to ground ourselves, within ourselves and to one another. We do this even if we have the pleasure of running as a street medic with several of our best friends—friends who’ve been in our lives for years before we ever became street medics. PEARLY allows us room to be dynamic human beings, capable of changing our boundaries as needed every time we run. There’s also a sort of secular holiness in practicing this ritual. It prepares and calms us the way that reverence prepares and calms a person
@@ -990,7 +990,7 @@ than to say to your buddy, “I’ve never spent close time
 with you, but our work is now to keep each other safe.”
 DISPATCH
 Buddies on the ground are backed up by our dispatchers, who oer care as well, but remotely. Our dispatch is a support system made up of people who are away from the
-210    /   CONSTELL ATIONS OF C ARE 
+210    /   CONSTELL ATIONS OF C ARE
 ---
 NORTH STAR HEALTH COLLECTIVE   /   211
 ---
@@ -1010,7 +1010,7 @@ of themselves. In Judaism, there’s a concept called
 halacha, which is often translated as law, but it literally
 means the way of going. And the ethos behind being
 a North Star street medic feels like halacha—together
-212    /   CONSTELL ATIONS OF C ARE 
+212    /   CONSTELL ATIONS OF C ARE
 ---
 we are nding a way of going. I found other parts
 of my life suddenly shifting in relationship to those
@@ -1037,7 +1037,7 @@ modern-day funeral procession.
 That day, in that anger and grief, someone was clearly upset, yelling and moving around erratically. As street medics, we didn’t interrupt or stop that person. We let them be in their rage yet also stayed close in case they needed support. To street medic shouldn’t be an interruption of legitimate emotional response but rather a means of holding people during it.
 CARING FOR THE CARERS
 Of course, this doesn’t ever come easy or with some magical clarity. Many of us are burned out right now, even though
-214    /   CONSTELL ATIONS OF C ARE 
+214    /   CONSTELL ATIONS OF C ARE
 ---
 we can be so thoughtful and so careful about how we connect and move through the world, and also not destroy ourselves in that process. Everybody gets to say yes or no to anything that’s happening. And if I really believe in that [consent] for other people, I have to believe that about myself, because I notice that the moments I don’t believe that about myself are the moments I start stepping over other people’s consent and agency. When we care for ourselves it’s disruptive of a story that’s so convenient to capitalism, which is that people just care and then die, right? They don’t get to keep growing. I don’t think until I really encountered and tried to live out that principle that I actually understood that capitalism wins when caretakers die and burnout. It had never occurred to me that there was another way.
 North Star has made it our business to not allow this to happen to our medics. A clear example is when eleven of us were arrested on November 4, 2020, the day after the US presidential elections. In what became known as “the most expensive dance party in the history of Minnesota,” multiple law enforcement agencies kettled nearly seven hundred
@@ -1045,13 +1045,13 @@ NORTH STAR HEALTH COLLECTIVE   /   215
 ---
 2. See “Cory Maria Dack, One of 11 Street Medics with North Star
 Health Collective Arrested during ‘The People’s Mandate’ Protest on November 4, 2020,” Unicorn Riot, https://vimeo.com/700701534.
-216   /   CONSTELL ATIONS OF C ARE 
+216   /   CONSTELL ATIONS OF C ARE
 ---
 NORTH STAR TODAY, NORTH STAR TOMORROW
 Minneapolis, the Twin Cities Metro, and the state of Minnesota are in a challenging moment right now. It’s been nearly three years since the uprising in response to the lynching of George Floyd, followed by subsequent uprisings around the city, and almost two years since the culminating summer of frontline ghts against the Line 3 pipeline. The amount of people being ground up while going through the legal system is staggering—somewhere in the thousands—not to mention the impact of trauma on those facing state repression and/or having been part of such battles. The work of trying to pick up the pieces and gure out what comes next, and how heavy that weight feels, is palpable. For all the broader attention that comes with the pitched battles and direct actions, there are a
 NORTH STAR HEALTH COLLECTIVE   /   217
 ---
-218   /   CONSTELL ATIONS OF C ARE 
+218   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Mags Beall is an organizer in the pregurative anarchist tradition; she identies as a queer femme who is a descendant of a mix of northern European (mostly Irish) settler colo- nizers. Over the past twenty-ve years, she has engaged in local ghts against ecological destruction and for animal liberation, (im)migrant solidarity and No More Deaths, anti- fascism, and housing. In 2015, she left the US West Coast, rejoining her blood family in Minnesota (unceded Dakota and Anishinaabeg territory), continuing with street medic and community health work. She continues to participate in
@@ -1059,12 +1059,12 @@ NORTH STAR HEALTH COLLECTIVE   /   219
 ---
 Cory Maria Dack is an Indigenous Latina from Ecuador and northern Minnesota. She recently led a full Source to Sea paddle of the Mississippi River to “decolonize thru-paddling” by increasing representation and uplifting the voices of women of color, immigrants, fat-bodied people, and members of the LGBTQ+ community. When not living in a canoe, she runs as a street medic with North Star Health Collective. Cory would like to thank her mentors at North Star for keeping her safe on the front lines, her friends and family for learning and growing with her, and her dad for always supporting her, even when some of the stu she does scares him.
 Mags and Cory would like to oer deep gratitude to the whole of North Star Health Collective. They also want to thank the collective friends and communities across the Twin Cities, Minnesota, and Turtle Island, especially all the fellow street medics they’ve learned so much from and who have oered them such support over the years, along with their collaborators in Relationships Evolving Possibilities and Voices for Radical Justice.
-220   /   CONSTELL ATIONS OF C ARE 
+220   /   CONSTELL ATIONS OF C ARE
 |
-C I N DY BA RU K H M I L S T E I N 
+C I N DY BA RU K H M I L S T E I N
 STITCHING TOGE THER OTHER WORLDS   /   223
 ---
-224   /   CONSTELL ATIONS OF C ARE 
+224   /   CONSTELL ATIONS OF C ARE
 ---
 STITCHING TOGE THER OTHER WORLDS   /   225
 ---
@@ -1072,40 +1072,40 @@ STITCHING TOGE THER OTHER WORLDS   /   225
 The beloved project ended, badly. A monthlong anarchist camp—but so much more than that—that I’d thrown myself into for a decade’s worth of summers. It split into two halves that could never again form a whole, if it ever did. More precisely, one half had to leave because the other half had, over the years, organized as if in a cloud-cuckoo-land, not wanting to venture past its own political dogmatism, internal power dynamics, and patriarchal behaviors (despite rhetoric to the contrary), or inability to deal with the reality of mundane logistics like paying the bills. Our half had brought vibrancy to this project, not only renewing it in many ways, but doing the lion’s share of the self-organizing and communal care to make it happen. In the end, we became, to borrow from Ursula K. Le Guin, “the ones who walk[ed] away” from what had, for us, so often felt utopian, knowing that our departure also spelled the death of this longtime, remarkably transformative space for hundreds of other anarchists from around the world. Similar to the conclusion of Le Guin’s short story, we couldn’t yet imagine what alternative universe we were journeying toward, though, mostly because our hearts were so heavy. “It is possible it does not exist,” observes Le Guin.
 1. This sampler is based solely on my own recollections, ltered
 through the mists of time, beginning with the rst piece in the 1990s and early 2000s, and moving closer to the present from there. It does not mean to imply a seamless experience; like all feministic anarchist experiments, these have their share of aws and heartbreaks. Still, it’s crucial to recognize those time-spaces when we feel as if we’re already inhabiting the kinds of social and organizational relations that we so desire and deserve.
-226   /   CONSTELL ATIONS OF C ARE 
+226   /   CONSTELL ATIONS OF C ARE
 ---
 STITCHING TOGE THER OTHER WORLDS   /   227
 ---
 2
 It was not a safe space. How could it (pretend to) be? Not only was it smack-dab in the center of the intensive
-228   /   CONSTELL ATIONS OF C ARE 
+228   /   CONSTELL ATIONS OF C ARE
 ---
 STITCHING TOGE THER OTHER WORLDS   /   229
 ---
-230   /   CONSTELL ATIONS OF C ARE 
+230   /   CONSTELL ATIONS OF C ARE
 ---
 STITCHING TOGE THER OTHER WORLDS   /   231
 ---
 3
 Maybe it was the open, multilevel, hundred-plus-year-old barn that sparked our “cultivating care” framework. After all, anyone driving by it on the wooded road, friend or foe, could see right into the charmingly ramshackle structure, making this now-longtime radical space feel equal parts beautiful and vulnerable. It was clearly a magical location for our anarchist summer school. But the magic wasn’t simply “there,” like this barn, built decades ago by unknown others. As an organizing collective, we had to continually tend to the oorboards and support beams, literally and guratively, to conjure it up. And that ongoing “repair work” had to be something that everyone who participated in the camp for three summers proactively engaged in side by side. How, though, could we encourage everyone to be tinkerers, and with what tool kits? There were so many devices we wanted to pack into the programming—history, strategic thinking, hands-on skills related to direct action, play, and more. Way too much for an eight-day camp. Yet perhaps the most crucial tool turned out to be something that is not usually ready to hand in most anarchist spaces: being vulnerable with each other, and doing so as the foundation for everything else.
-232   /   CONSTELL ATIONS OF C ARE 
+232   /   CONSTELL ATIONS OF C ARE
 ---
 2. I’m borrowing loosely from the title of Kai Cheng Thom’s I Hope
 We Choose Love: A Trans Girl’s Notes from the End of the World (Vancouver: Arsenal Pulp Press, 2019).
 STITCHING TOGE THER OTHER WORLDS    /   233
 ---
-234   /   CONSTELL ATIONS OF C ARE 
+234   /   CONSTELL ATIONS OF C ARE
 ---
 4
 Richard Spencer’s cross-country speaking tour at US colleges was put to a screeching halt by thousands of “little” acts of antifascist care. Of course, what the headlines will tell you is quite dierent: “Violence Erupts on MSU Campus as Richard Spencer Speaks”; “Fights Break out at Michigan State [University] as Protesters, White Supremacists Converge for Richard Spencer Speech.” And alas, some of the more bro-ey antifascists among us who contributed to this wildly successful deplatforming eort would largely agree, pointing to the ghting—the physical community self-defense—as what did the trick on
 STITCHING TOGE THER OTHER WORLDS   /   235
 ---
-236   /   CONSTELL ATIONS OF C ARE 
+236   /   CONSTELL ATIONS OF C ARE
 ---
 #StopSpencer. Based on that, we’d created layers of a buddy
 STITCHING TOGE THER OTHER WORLDS   /   237
 ---
-238   /   CONSTELL ATIONS OF C ARE 
+238   /   CONSTELL ATIONS OF C ARE
 ---
 #StopSpencer credited us anarchists with supplying the care
 and solidarity they needed to nd their own strength, allowing them to go further than they ever thought they could. And crucially, processing together works wonders. Care works, including in the ght to hinder fascism.
@@ -1113,27 +1113,27 @@ and solidarity they needed to nd their own strength, allowing them to go furt
 There were so many times during #DefendJ20 when it felt like the state was sitting back, laughing at us, watching codefendants and their supporters tear each other apart. I knew it was the intense emotional strain of some two hundred people facing the possibility of seventy-ve years behind bars after being mass arrested during #Disrupt20 at Trump’s 2017 inauguration that caused the internal fractures, acrimony, and even downright nastiness as the weeks turned into months of us trying to sustain our DIY solidarity infrastructure. It’s not that J20 codefendants weren’t supported with a tremendous amount of love and solidarity—legal, material, and immaterial. But on the regular, there wasn’t a feministic commitment to gently, skillfully, and carefully intervening at the rst sign that the statist stress was being misplaced onto our own dynamics. To this day, I’m proud that a core of us supporters— “coincidentally,” a majority of which were queer and/or female—stuck it out, even if the end was bittersweet: collective defense mostly held and the charges were dropped, thank
 STITCHING TOGE THER OTHER WORLDS   /   239
 ---
-240   /   CONSTELL ATIONS OF C ARE 
+240   /   CONSTELL ATIONS OF C ARE
 ---
 STITCHING TOGE THER OTHER WORLDS   /   241
 ---
-242   /   CONSTELL ATIONS OF C ARE 
+242   /   CONSTELL ATIONS OF C ARE
 ---
 6
 The two most joyous anarchist gatherings I’ve experienced since the pandemic began both made the most amount of room for grief. And I wasn’t alone in that assessment. That might sound paradoxical. How can sorrow and joy commingle? How can we nd the greatest sense of a harmonious whole by publicly curating space for both anguish and delight? For most of human history, people practiced an abundance of intricate, culturally embedded communal rituals and sacred spaces to not only get them through every transition, good and bad, but also make sense of those shifts. Such ceremonies, from festivals to funerals, were inseparable parts of a healthy ecosystem. They (re)generated, sustained, and armed life and its cycles, giving them dignity and meaning. They let people immerse themselves in the entire spectrum of human emotions, which in actuality don’t t neatly into experiences but instead are bound up in the highs and lows of them all.
 STITCHING TOGE THER OTHER WORLDS   /   243
 ---
-244   /   CONSTELL ATIONS OF C ARE 
+244   /   CONSTELL ATIONS OF C ARE
 ---
 3. Cindy Milstein, ed., Rebellious Mourning: The Collective Work of Grief
 (Oakland, CA: AK Press, 2017).
 STITCHING TOGE THER OTHER WORLDS     /   245
 ---
-246   /   CONSTELL ATIONS OF C ARE 
+246   /   CONSTELL ATIONS OF C ARE
 ---
 STITCHING TOGE THER OTHER WORLDS   /   247
 ---
-248   /   CONSTELL ATIONS OF C ARE 
+248   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Ten years ago, in the blink of an eye between my dad dying and my mom soon to follow, I was tasked with cleaning out their home of many decades as part of caring for them through sickness and death. The easiest solution, and most intuitively anarchistic one, was to do a make-an-oer “yard sale” right in the house itself. Yet in the down-and-out economy of Michigan, it quickly became apparent I needed to turn it into a really, really free market. Over the course of a week, hundreds of folks dug through the whole house from attic to the basement—the one I’d remade into a theater/forest so long ago—and took what they wanted. In the process, people told me their hard-luck stories, and I listened; then they wanted to hear about my losses, and they listened. They also joyfully shared their nds with me, from a teenager who eagerly snagged the same typewriter I’d used as a teen, saying they wanted to be a writer, to the people without health insurance who’d discovered leftover medical supplies from my parents’ illnesses that they themselves greatly needed, to the person who carted o what to me looked like sheer garbage, saving me the trouble.
@@ -1141,7 +1141,7 @@ STITCHING TOGE THER OTHER WORLDS   /   249
 ---
 * * *
 Cindy Barukh Milstein still doesn’t quilt. Or maybe they do, in dierent ways.
-250   /   CONSTELL ATIONS OF C ARE 
+250   /   CONSTELL ATIONS OF C ARE
 ---
 ADDY
 I felt inspired to draw this because I wanted to express that we’re out here. In my experience, it can feel lonely trying to nd other people. Yet I have found and we will nd people who understand how deeply we need each other, who want to grow together, to acknowledge that we’re going to make mistakes and are capable of harming others, but will support each other with love, care, accountability, and tenderness to unlearn ways of thinking that are hurting us, and create safe, loving, anarchistic relationships and joyful realities. I created this illustration to print as a sticker and paste around my city, although I’m still looking for a printer that uses vegan materials, is worker owned, and has as little ecological footprint as possible. My drawings are representations of my dreams of building another world as well as protesting against hierarchy (patri- archy included), speciesism, adult supremacy (that’s why most of my characters look young), binaries, and the academy. They are about tenderness and vulnerability, about allowing us to feel rage and sadness, let our emotions bring us closer, and take care of and defend each other.
@@ -1239,30 +1239,30 @@ uprising, but those who participated and still align themselves with its goals o
 REMEMBRANCE AND SUBVERSIVE BODIES      /      283
 ---
 * * *
-284   /   CONSTELL ATIONS OF C ARE 
+284   /   CONSTELL ATIONS OF C ARE
 ---
 REMEMBRANCE AND SUBVERSIVE BODIES   /   285
 ---
 2. Poder popular (popular or people power) is a form of workers’ or
 direct democracy. In Chilean history, it has referenced a form of political power derived from the independent activity of working-class people, which in its formulation and constitution is (in theory) highly collective, exible, representative, and direct.
-286   /   CONSTELL ATIONS OF C ARE 
+286   /   CONSTELL ATIONS OF C ARE
 ---
 3. South Americans consider all the people of the Americas to be
 americana/os. I’m thus still “American,” but no longer consider myself so bound to the United States in my political thinking or culture.
 REMEMBRANCE AND SUBVERSIVE BODIES      /   287
 ---
 * * *
-288   /   CONSTELL ATIONS OF C ARE 
+288   /   CONSTELL ATIONS OF C ARE
 ---
 REMEMBRANCE AND SUBVERSIVE BODIES   /   289
 ---
 * * *
 It was November 23, 2019, and I was having the best day of my life. The revolt was in full swing, and I remember the ethereal quality of simply existing in public and seeing it unfold around me. The historic Communist mural brigade, the Brigada Ramona Parra (BRP), had put out an open call for volunteers to join it in painting a massive mural alongside the Mapocho River where it passes Plaza Dignidad, and my compañera Denisse and I had decided it was an opportunity not to be
-290   /   CONSTELL ATIONS OF C ARE 
+290   /   CONSTELL ATIONS OF C ARE
 ---
 REMEMBRANCE AND SUBVERSIVE BODIES   /   291
 ---
-292   /   CONSTELL ATIONS OF C ARE 
+292   /   CONSTELL ATIONS OF C ARE
 ---
 4. Sentido y razón, written and directed by Martín Pizarro Veglia
 (Chile, 2021), 19 min., https://cinechile.cl/pelicula/sentido-y-razon/.
@@ -1270,17 +1270,17 @@ REMEMBRANCE AND SUBVERSIVE BODIES     /   293
 ---
 * * *
 In the rst weeks of the pandemic, I suddenly had more time on my hands than I knew what to do with. Although I still considered myself a painter, I had largely abandoned my personal practice in favor of collective projects and the capitalist grind. The quarantine was almost a blessing in that sense; at last, I could look back on my collection of photos from a busy year of protests and select the best to use as painting references. Even then, I think I understood that the pandemic meant the end of the revolt as I knew it, but I still anticipated the idea of returning to those memories with pleasure, knowing that the act of painting was a way to escape my dull, uncertain present.
-294   /   CONSTELL ATIONS OF C ARE 
+294   /   CONSTELL ATIONS OF C ARE
 ---
 REMEMBRANCE AND SUBVERSIVE BODIES   /   295
 ---
 I decided to create a gigantografía, a popular form of
 street art I’d learned about alongside my compañeras at the height of the feminist wave. I used a free internet program to transform a digital scan of El Tango Encapuchao into a ninety-
-296   /   CONSTELL ATIONS OF C ARE 
+296   /   CONSTELL ATIONS OF C ARE
 ---
 REMEMBRANCE AND SUBVERSIVE BODIES   /   297
 ---
-298   /   CONSTELL ATIONS OF C ARE 
+298   /   CONSTELL ATIONS OF C ARE
 ---
 Los años siguen su rumbo y el olvido no descansa
 Volviendo la vida mansa, dejándola sin memoria
@@ -1301,7 +1301,7 @@ follower
 * * *
 REMEMBRANCE AND SUBVERSIVE BODIES   /   299
 ---
-300   /   CONSTELL ATIONS OF C ARE 
+300   /   CONSTELL ATIONS OF C ARE
 PERFORMING
 ANARCHO-FEMINISM
 |
@@ -1320,7 +1320,7 @@ Sophie Maloney: As You Like It (Duke Frederick and Audrey), Romeo and Juliet, 20
 2020, it was canceled due to the COVID-19 pandemic. The production was directed by Adrian Provenzano and had a somewhat dierent cast, although many of the same elements, including the stage, were used in
 2022. Throughout our conversations, those who were part of the 2020
 production emphasized the importance of naming and acknowledging the rst iteration, since so much work and creativity went into it.
-304   /   CONSTELL ATIONS OF C ARE 
+304   /   CONSTELL ATIONS OF C ARE
 ---
 Egg: Romeo and Juliet, 2022 (Tybalt and miscellaneous support)
 Adrian Provenzano: Twelfth Night (Viola), Macbeth (Malcolm), As You Like It (Silvius, Amiens Family Band member, and puppetry), Romeo and Juliet, 2020 (director), and Romeo and Juliet, 2022 (Chorus and costume coordinator)
@@ -1334,7 +1334,7 @@ SHAKESQUEER TUCSON    /     305
 ---
 Glen: Somebody suggested, “Glen and Maggie should direct.” Then we sent out an email. The subject line was, “It wasn’t a joke.” We invited nine or ten of our closest friends in Tucson to a meeting. People we thought might be interested in it. At that meeting, we explained, “We’re gonna do the play, we’re gonna have rehearsals, we’re gonna have auditions. Me and Maggie are gonna direct. Does this sound good to everybody?” We just kind of went for it.
 Inmn: I got involved in Shakesqueer when I was living in Asheville, North Carolina, and I came to Tucson to help with the No More Deaths Spring Break. It was the rst day that I got into town, and I ran into a friend, and they said, “Are you going to the play tonight?” They told me that this group was putting on a production of Twelfth Night and the theme was “space punk,” and it was all genderbent and wacky. So I drove all the way down to Arivaca, Arizona, to catch the last performance and absolutely fell in love with it from the moment the curtains opened. Then the next year I was in town visiting in the winter again and got a random text message from a friend about auditions for Macbeth, a second production that Shakesqueer was putting on.
-306   /   CONSTELL ATIONS OF C ARE 
+306   /   CONSTELL ATIONS OF C ARE
 ---
 Dominique: I saw Macbeth and loved it. I saw As You Like It. Loved it. Dressed up for As You Like It, in a ower crown and oral clothing and fun makeup. Tried to get others to participate via bringing more owers to wear and saying, “Here’s yours, here’s yours, here’s yours.” I remember running lines with Ember because they were in As You Like It. When the auditions happened for the 2022 production of Romeo and Juliet, I actually wanted to play the Nurse for a fun thing to do. Glen encouraged me to try out for a bigger role, so I looked at some of the monologues and showed up to the audition semi-prepared and very much excited. And also excited to get the role of Romeo and terried to get the role.
 Egg: Someone I knew was in As You Like It. I went and saw it. I read the playbill that you probably wrote, Wren, and I was really excited because I had just read Silvia Federici’s Caliban and the Witch, and thought, “Oh, all of this material about the enclosure of the commons is really doing it for me.” I didn’t follow Shakesqueer closely enough to be part of the rst production of Romeo and Juliet, but when there was an open call for auditions in winter 2021, that’s when I tried out.
@@ -1342,14 +1342,14 @@ SHAKESQUEER TUCSON   /   307
 ---
 Adrian: Because the majority of the people in the group every year have been radicals, or people who believe in revolution and liberation, that has inuenced what we create. Even if we’re not always going around and saying we’re an anarcho- queer project or anarcho-feminist project, I think we’re all people who are aware of power, people who are aware of control and hierarchies, and want to act on that in our smaller collectives that we create and form a dierent way of relating to one another. Because of that, we shift the plays to take out moments, or shift those moments to feel better in relation to what our ideals and values are. Sometimes it’s really in your face in a fun way, like at the end of Macbeth, killing me, the king, and yelling, “Never another king, never another cop, never another policeman, never another president,” and blood foaming from my mouth. And then taking that on tour to rural Arizona was intense. We had to have conversations about what we felt was appropriate. I think we decided to not use all the same language when we were in Ajo. We had a whole consensus meeting about it. It’s not that we wanted to censor ourselves but rather we asked, “What’s appropriate in dierent spaces?”
 Egg: Part of putting together a production that makes it have these elements of anarchism could be found in other theater productions as well, which is beautiful when you think about it. But the elements that make Shakesqueer anarchist are the ways in which the cast becomes mutually dependent on one another in the formation of this creative project; we rely on
-308   /   CONSTELL ATIONS OF C ARE 
+308   /   CONSTELL ATIONS OF C ARE
 ---
 Glen: Anarchism, at least in my understanding, means the minimizing of hierarchy. And putting on a play is coordinating a sizable group of people into doing an extremely specic and predetermined set of actions. With this project, those hierarchies have always been put under the microscope of the group, or very, very much put out there in the group, such as, “This is what we’re doing, we’re thinking about creating a temporary, consensual hierarchy here.” That to me is anarchist; when those top-down structures pop up, they can be disassembled by the group if they are not legitimate or whatever.
 Adrian: We’ve had a couple of iterations of how much control the director did or did not have throughout the years. There’s been moments when people feel like the director has too much control, and yet those plays went extremely smoothly. And then there’s been moments when the directors have felt like they didn’t want to have much control or power, and want it to be more consensual, and then it was a lot bumpier and slower and maybe a little more chaotic of a production. I feel like this past year, we hit a real sweet spot. Inmn had a vision and a real story that they wanted to tell. We all really loved that vision and story, and wanted to help create that story. But there were certain moments when Inmn wanted to do something and the rest of the cast didn’t want to, and we did a consensus process and then Inmn’s ideas didn’t happen.
 SHAKESQUEER TUCSON   /   309
 ---
 Dominique: Toward the beginning of Romeo and Juliet re- hearsals, we had a meeting specically for what our COVID protocols were going to be. We were in the middle of a COVID wave again; it was in January. We were still masking at the rehearsals, and being outside and trying to keep distance and stu like that. As the numbers went down, we relaxed some of those protocols. It felt good; we were trying to move through that according to what science and numbers showed us. The decision on how the play was going to end was collaborative in a couple of dierent ways. We played with the idea of Juliet living, Juliet killing Paris, or maybe the play ending after Juliet stabs herself, and not having the families come and see Romeo and Juliet. That was all a group discussion. All of that collaboration is the anarcho side, and on the feminism side, I feel like some aspects of feminism are so basic, like let’s just not have cis men in charge of everything.
-310   /   CONSTELL ATIONS OF C ARE 
+310   /   CONSTELL ATIONS OF C ARE
 ---
 Egg: I suppose the way that I see it as a feminist project is that the tasks of putting it together don’t become sharply dierentiated and the people taking them on are not stratied, not doing so because they are forced into a position of caretaking, cleaning up, or taking responsibility for things that others are avoiding because of a desire to be in the spotlight or do more glamorous tasks. It’s kind of analogous in my mind to other autonomous projects where everyone does the dishes.
 Maggie: In more subtle ways, I think Shakesqueer does reect anarcho-feminism and anarcho-queerness by empowering people to take on creative projects that maybe they haven’t had access to before. Along with all of that there’s some sort of DIY aesthetic that I really love. I think it’s so cool that with the rst play, almost no one had theater experience. We worked through that together, and we trusted each other to put in the work to learn those skills and then share those skills with our community.
@@ -1359,12 +1359,12 @@ SHAKESQUEER TUCSON   /   311
 ---
 Egg: I think that Shakepeare’s writing already oers up a lot of space for queer possibility. In his plays as well as his other writing and sonnets, you can easily read how dierent forms of love are explored.
 Inmn: As You Like It is about this “woman” who disguises herself as a man to travel about the world more easily and safely, and ends up meeting a man who’s in love with her, but doesn’t know that she is a her because she’s disguised as a man and starts to court him as this man, which is very gay. That’s just how the play originally is. But in the original version, she unveils at the end and can marry this man because she’s actually a woman. In our version, which feels very familiar to me, through playing at being another gender, you can nd the ways in which the gender that you’ve been raised in is not necessarily the gender that you are, the experience that you have, or the identity that you embody.
-312   /   CONSTELL ATIONS OF C ARE 
+312   /   CONSTELL ATIONS OF C ARE
 ---
 Dominique: There was queerness in a lot of dierent aspects of Romeo and Juliet. There was a story line of Mercutio having a big old crush on Romeo that was kind of unrequited; falling in love with your best friend, that does happen. We discussed early on, too, do we want part of Romeo and Juliet’s star- crossed lovership to be that their parents are homophobic? And we decided no, we don’t want that to be a part of this story because it’s part of so many other stories and it’s kind of overdone. Let’s just have this in a queer utopia sense where that’s actually not the issue at all. The costumery had elements of, “What is gender?” even with Glen’s role as the Nurse. There’s a lot of roles that are “male,” and the Nurse was not really one of them, but then Glen being the perfect Nurse, wearing the elements of a nurse and talking about being a wet nurse. Then there’s a number of characters who use they/them pronouns. We’re conned by some of the words, but we’ve changed some of the words to be what we want them to be. There was a fat joke in one of the exchanges, and I asked, “Can we take that out?” and the group replied, “Oh, yeah, strike it! Done!”
 SHAKESQUEER TUCSON   /   313
 ---
-314   /   CONSTELL ATIONS OF C ARE 
+314   /   CONSTELL ATIONS OF C ARE
 ---
 Adrian: I want to talk about the feelings of this play, Romeo and Juliet, in regard to care or mutual aid, which is an anarchist principle. We really came into that this year, where there was a lot of reciprocal care happening within the play. There was a lot of checking in and making sure people’s needs were met, a lot of consensus process, asking people what they needed, and helping them get those things. In a lot of ways, it’s a feminist ideal as well: making sure people in the collective have what they need and listening to people.
 Dominique: If someone was having a stressful time in their personal life or because of the play, there was actual caring. I got stressed out because some of the content of the play was reigniting my work stressors [working as a nurse throughout the COVID-19 pandemic] and I wasn’t fully mentally pre- pared for that to happen. I wasn’t sure if I was gonna mention it, but then decided to talk with Inmn and Adrian about it. I talked to some other friends too, but within this group of new ones, I trusted that they would be kind and allow me some grace to kind of freak out.
@@ -1373,7 +1373,7 @@ SHAKESQUEER TUCSON   /   315
 ---
 Egg: Care showed up as people taking collective and individual responsibility in the creation of the project as a whole, and care also showed up in many interpersonal dynamics that I was a part of and witnessed. Learning all the ght choreography for Romeo and Juliet, there were these moments of really embodied care when Dominique would knock me down, stand over me, and murder me during every practice, and then extend her hand and lift me up, pat me on the back, and wipe the dirt o me. Another form that care took was in people encouraging one another to be the best that they could be. There was this moment midway through rehearsals when Glen spoke to the whole group, and as a reminder to people to memorize their lines, said, “If we had our lines memorized by now, we could all be focusing more on acting.” It was a gentle invitation to the group that probably could have felt a little bit like shaming in a way, but instead was kind and helpful.
 Inmn: Having been the director twice now and getting to work really closely with people on some of the acting stu, it’s been beautiful to watch people take on these roles or build intimacy with their scene partners in ways that they might not have ever done before. We’re always all learning about the production while it’s happening. One of our members
-316   /   CONSTELL ATIONS OF C ARE 
+316   /   CONSTELL ATIONS OF C ARE
 ---
 Dominique: A couple of things were going wrong on the second night of Romeo and Juliet. Someone was mentioning the second night curse, and I was like, “What the fuck is that?” But denitely things were going wrong and awry. We had a little meeting in the intermission, and there was someone who had a slightly harsh tone, and someone else oered, “Come on. Let’s be gentle with each other.” That’s a beautiful thing. That’s a beautiful reminder.
 Ember: Something that’s amazing about theater is how immersive it is. It seems impossible to not get swept up in
@@ -1382,7 +1382,7 @@ SHAKESQUEER TUCSON   /   317
 Sophie: A lot of our world is oriented by work and then activism. There have been times in my life where I feel like I just work and go to meetings. Shakesqueer was a huge thing for me of making and deepening friendships. I think when we’re just meeting people at parties or something casually, we’re not working or building something together in the same way. There’s a magic to theater, especially doing shows and stu; it’s fun, exhilarating, and energizing, and that energy has this kind of social stickiness or glue to it that is really important for building community.
 I’ve met people through that process who I’m now good
 friends with, and I feel more cared for overall in the commu- nity because I think we’ve been through stu together, even if it’s sort of fun-slash-stage-stress. This year there are new cast members; they’re maybe not somebody I would have met or interacted with a lot, and thus get to form bonds with. It’s nice
-318   /   CONSTELL ATIONS OF C ARE 
+318   /   CONSTELL ATIONS OF C ARE
 ---
 Maggie: The rst time we did a play, everyone in the audi- ence didn’t really understand what we were doing, and so when they saw it, they realized, “Oh, they’re actually putting on a play and memorized the lines.” It generated joy and love in the community for the coming days afterward and maybe even further. Why I love doing events in general is creating a space for the community to come together that’s not always based around a party or something. How can we think through dierent things or show each other talents that maybe we don’t usually show each other? Joy absolutely connects with care. I was talking to Ember within the rst couple years of doing Shakesqueer and said, “This is just fun work. It’s not political work.” And Ember was like, “Why is it not political work also? It’s just a dierent kind of political work than we’re used to.” That really struck a chord with me: that political work is not always in the streets or on the border or whatever. Also, if you’ve done projects with your friends that take a lot of coordination and working together, what results is that you are better able to work together in the future on a diversity of projects. We fucked around and did rehearsals and a play for three months, and that made it so when we’re doing, for example, Tucson Mesh or stu with the BCC, it makes it that much easier to come at it trusting that you can do something with someone else and that you’ve had fun with that person.5
 5. Tucson Mesh is a community-controlled and collectively run
@@ -1390,7 +1390,7 @@ wireless internet network that oers sliding-scale and low-cost internet acces
 SHAKESQUEER TUCSON    /   319
 ---
 Maggie: I don’t think that we just do theater and everything’s great. It’s a specic way to tell stories, to bring community together, to build our ability to be creative together. It’s just one part of many things that we can do together that creates a better world. It makes me sad to think about a project like Shakesqueer ending, but I think that it’s OK for certain projects to come and do something special, and then they don’t have to be institutionalized, you know? We should only be doing this if it’s creating joy and happiness in our community. Let’s stop when it’s not doing that and let other people decide what they want to do.
-320   /   CONSTELL ATIONS OF C ARE 
+320   /   CONSTELL ATIONS OF C ARE
 ---
 Dominique: The obvious potential is to fuck shit up, and with creativity, destroy the harmful structures of society within this little space that we’re creating. For a moment, for a night, for a few hours, queerness isn’t the issue; for a few hours this element of friendship and magic and crystals and all of that can exist. I used to play the strings for this country band that sang songs about being gay. We played gay bars in small towns in the Midwest and Southeast, or we played smaller venues. It’s a similar feeling of, “For this time, in this room, we are going to create the world that we want to live in.” My hope is that people get so invigorated, recharged, and inspired by that feeling that we all created for the audience that they go and do it themselves in their lives. It exponentially makes more spaces where that can exist.
 Ember: I really believe in the importance of local art. I don’t like art being perceived as this thing that only people who went to art school and have abundant surplus income can make, or this weird thing where people all over the world are consuming the same media and there’s this monoculture, kind of like a attening of local cultures. So what Shakesqueer also does is it reminds us that we are artists, and builds on and contributes to local culture.
@@ -1401,14 +1401,14 @@ Dominique: My friend’s kid, she just turned twelve, and I was really excited f
 Inmn: Theater is a real-life experience. You have to leave your house to see a play and be there with the actors. If the actors put on a play, and part of the play moves, maybe the audience moves with the play, maybe the play roves, and maybe they go do some other stu and it becomes unclear whether it’s part of the performance or whether it’s a political action in and of itself. I grew up watching Bread and Puppet and the Beehive Collective put on performances that were connected to polit- ical struggles going on.6 I’ve always really loved how theater is something for the people, less so than the ruling class. Theater traditionally has been this fun way that class hierar- chies can be temporarily broken down. You can get away with a lot that you couldn’t normally get away with and poke a lot of fun at the ruling class in ways that at least historically,
 6. For more on these projects, see Bread and Puppet, https://
 breadandpuppet.org/; Beehive Collective, https://beehivecollective.org/.
-322   /   CONSTELL ATIONS OF C ARE 
+322   /   CONSTELL ATIONS OF C ARE
 ---
 Egg: Theater in my experience has oered the most potential to the people who participate in it. It’s an invitation to frolic in a world where the rules have changed, and that invites a reimagining of political, interpersonal, and social possibilities. Theater enables us as creators of a project to inhabit dierent selves, and try on how we could move these hauntings and the possession of ourselves into our everyday life. Theater is also a space for radical possibility in that the
 SHAKESQUEER TUCSON   /   323
 ---
 Adrian: We love putting on these productions for our communities so they can see and feel the joy—or this year, mourning—of the story, but also it’s for the people who are in it to have this intense feeling of putting everything aside in their life. The potential in that is that you get comfortable, and experience creating something beautiful and new, and really hard, with a group of radicals that share your vision of what the future should be. Then you get to show the whole community what you’ve done and the artistry, but I think honing our skills of consensus and collaboration and storytelling creates room for other projects. You could say there are parallels between doing a direct action as well. Being in a group of people where you’re trying to gure something out together and collaborate, and it’s uncomfortable, and you have to put everything in your life aside for it.
 Glen: Another way of putting it would be that we’re demonstrating something to ourselves by doing it. Some cool things about theater are that it’s big, it makes a splash, it’s an event, it’s one night or three nights. I think it’s important to me, from the way that I relate to art, not just to have a
-324   /   CONSTELL ATIONS OF C ARE 
+324   /   CONSTELL ATIONS OF C ARE
 ---
 Ember: I love the idea of touring. I was really excited when we learned that there’s an anarchist theater festival in Montreal. In my dream, I was like, “We’re gonna get a school bus and ll it up with our set and the band and whatever, and drive to Montreal and have the best time, the most outrageously fun time we could possibly imagine.” I hope that’s not impossible in the future. But it’s perfectly good for Shakesqueer to stay the scale that it is, and it’s important for the people who are putting it on and the people who are the audience.7
 Maggie: It’s been really nice with Shakespeare that we can adapt a play to touch on themes of queerness or feminism or radical politics in general. But I hope that we’re giving people the skills and condence to do storytelling through theater that’s maybe even more blatantly radical. Before Shakesqueer, I didn’t really know anyone doing theater in Tucson. And since Shakesqueer, a lot of our friends now have dierent skills around it. The more ways that we know how to tell stories, the better, because I think stories are powerful when it comes to pushing these ideas into the realm of reality.
@@ -1419,7 +1419,7 @@ SHAKESQUEER TUCSON   /   325
 * * *
 Wren Awry is a Tucson-based writer, archivist, and editor of the anthology Nourishing Resistance: Stories of Food, Protest, and Mutual Aid (PM Press, 2023).
 Shakesqueer Tucson produces radical, queer interpretations of Shakespeare plays. You can learn more about its work at www.shakesqueertheater.org.
-326   /   CONSTELL ATIONS OF C ARE 
+326   /   CONSTELL ATIONS OF C ARE
 C O M M U N I TA R I A N
 KITCHENS: STOKING THE
 F L A M E S O F M E M O RY
@@ -1431,25 +1431,25 @@ CAMPBELL
 COMMUNITARIAN KITCHENS   /   329
 ---
 1. Translator’s notes: Technically, ollas comunitarias means “communitarian pots” in English. I’ve chosen to go with “communitarian kitchens” to get at the spirit of what they embody, but other translations might be “communal pots,” “communal cooking pots,” or “community pots,” or “communal kitchens” or “community kitchens.” The front lines, sup- ported and nourished by the communitarian kitchens, were made up of women, men, and nonconforming folks who put themselves at the front of the marches, encampments, and other collective actions in order to safeguard the mobilizations and protect other people. Many of them were killed, disappeared, tortured, and/or jailed by the state.
-330    /   CONSTELL ATIONS OF C ARE 
+330    /   CONSTELL ATIONS OF C ARE
 ---
 THE FIRE THAT INHABITS ME
 Since I was a girl, re has been an everyday part of my life. Innite memories of our daily relationship with re now inhabit me. The tulpas always remind me of dreams, signs, stories, advice, plants, remedies, avors, colors, smells, and sounds. I remember the tulpa in our house in the mountains of the Indigenous reservation of Jambaló, in the southwest of what they call Colombia; its three big rocks were on the ground, almost in the center of our kitchen, with pieces of burning wood atop the stones. Always nearby were the pots of food, medicinal waters, brewed coee, and toasted coca that provided all the energy for the day’s work. I remember my maternal grandparents, with whom I had the privilege of spending my childhood. They were always close to the tulpa, asking us about our dreams; explaining the meaning of signs (bodily vibrations) to us so that we could recognize the messages of Mother Earth; showing us how to use plants to protect ourselves and care for the territory; and advising us, based on their joys and sorrows, on how to walk through life. They taught us how to understand the re’s signals. When the sounds of the re seemed smothered, for instance, as if
 COMMUNITARIAN KITCHENS   /   331
 ---
-332   /   CONSTELL ATIONS OF C ARE 
+332   /   CONSTELL ATIONS OF C ARE
 ---
 Today I relive the memory of the communitarian kitchens that we helped to stoke in the mountains of Jambaló in 1986, when my mother became a teacher in the rural community of El Voladero. Festivals and school ceremonies were held that wove us toward a better education. I remember the comadres, midwives, and neighborhood women arriving with something from their garden and a knife in hand to cook. I remember the day laborers, musicians, and neighbors arriving with rewood, and in case more was needed, machetes in hand. We held a minga—ancestral collective work where everyone contributes—to enjoy life in community. We all took collective action to build a decent school, better education, happy childhood, and organized community. From that space, we dreamed and created daily life around the re. At that time, almost everyone had a tulpa in their home. The school meetings were places to not only to talk about the progress and setbacks of the students but above all address the problems of the community and look for collective solutions. Not everything was rosy, but keeping the re burning during the various collective actions ensured that community organization was maintained at the time. The communitarian kitchens, better known as fogones in our territories, have always accompanied the communal work carried out through the mingas. They have been present in the barter exchanges and assemblies, nourished the traditional festivals, and never been absent from the mobilizations and collective actions that we have carried out for the past fty- three years organized by the Cauca Indigenous Regional
 COMMUNITARIAN KITCHENS   /   333
 ---
 2. The council was created in 1971 to ght for the unity, land,
 culture, and autonomy of the peoples in the mountains of the Cauca.
-334   /   CONSTELL ATIONS OF C ARE 
+334   /   CONSTELL ATIONS OF C ARE
 ---
 In the uprisings, strikes, revolts, marches, encampments, popular assemblies, blockades, land recuperations, communal congresses, appropriation of factories, roadblocks, and popular tribunals, and on pickets and barricades, re has always been present. Fire helps us to endure low temperatures and cook food so as to resist, among many other things. Communitarian kitchens and re are a necessary couple. They have been present and vital in feeding the dignied rebellions that denounce and question the state, transnationals, and all the other powers that have always oppressed us. For the most part, the communitarian kitchens have been the fruit of self- organization, self-management, and self-care, far beyond the promises and lies of the state. For a long time, in ruralized and urbanized territories, communitarian kitchens have sustained struggles against hunger, for land and water, as a life practice and central axis for collective nourishment. Without going too far back, it is enough to recall some exemplary moments in various latitudes that have stoked the res of struggle. There is the Housewives Committee of the Twentieth- Century Mine founded in the 1960s by the wives of tin miners at the Siglo XX Mine in Potosí in what they call Bolivia. These women organized against the repression and imprisonment of their husbands, who had marched for the payment of wages. They demanded the miners’ freedom, food supplies, and payment for work. Among them, Domitila Barrios de Chungara distinguished herself as one of the most courageous.
 COMMUNITARIAN KITCHENS   /   335
 ---
-336   /   CONSTELL ATIONS OF C ARE 
+336   /   CONSTELL ATIONS OF C ARE
 ---
 During the pandemic, hunger, discontent, and indignation
 were what compelled people to organize. People clearly saw the need to collectively feed themselves in order to resist economic subjugation, urgency to rise up together in the face of policies and reforms that continue to impoverish them, and necessity to decide how to sustain the various uprisings and safeguard life. Moreover, against the backdrop of rising fascism, social abandonment, and the current wars and others in the making, it is not enough to name the self-proclaimed Front Line Mothers of the communitarian kitchens in what they call Chile or Ecuador, Colombia or Peru—the women who are fundamental to self-managing everything in daily life, and more so when they come together and manage to feed revolutions. We must also mention the mothers, women, children, and youths who day by day are being bombed, displaced, and disappeared, and impeded from having their own communitarian kitchens.
@@ -1463,7 +1463,7 @@ We must go beyond the spotlight. We must gather ourselves
 in the shadows to ensure that communitarian kitchens come together through self-organization, self-care, and self- management, and don’t get lost in welfare politics that try to bureaucratize even food. May they not get lost in the institutionalization that political parties seek. May they not turn into banners for the compañera or compañero from the struggle who transforms themselves into a candidate in order to take power from above. May they continue to germinate as seeds that bloom in soil fertilized by dignied rebellion and the urgency of autonomy.
 In a context where the powers from above have shown
 us that no matter how libertarian they may be, they must always comply with the regime of sacricing the people (it’s enough to look into the mirror at Venezuela, Nicaragua, Chile, and Bolivia), our res are crucial. In a context where other pandemics such as hunger are looming, wars continue to be the biggest business, extractivism continues to triumph, patriarchy continues to turn the land into merchandise, the communitarian kitchens are an emergent necessity to sustain life and collective relations among peoples. This continues to be demonstrated here and now by the Network of Community Kitchens in Popayán. I invite us to immerse ourselves in the obscurity that inhabits the ollas comunitarias when the lights of the spectacle cease to shine on the sweaty faces and calloused hands behind the steaming pots.
-338   /   CONSTELL ATIONS OF C ARE 
+338   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Vilma Rocío Almendra Quiguanás, daughter of the Nasa and Misak peoples, is a member of Pueblos en Camino (pueblosencamino.org), a self-managed initiative that seeks to weave resistance and autonomy among peoples and processes in Abya Yala. She can be contacted at https://facebook.com/ almendra.kiwenasa or vilmaalmendra@yahoo.es. Vilma re- sides in Vereda Quitapereza, Santander de Quilichao, Mother of the Forests, in what they call Colombia.
@@ -1478,21 +1478,21 @@ A L E H S TA N KOVA A N D
 F E N YA F I S C H L E R
 SUPPORTING THE REVOLUTION   /   343
 ---
-344   /   CONSTELL ATIONS OF C ARE 
+344   /   CONSTELL ATIONS OF C ARE
 ---
 SUPPORTING THE REVOLUTION   /   345
 ---
-346   /   CONSTELL ATIONS OF C ARE 
+346   /   CONSTELL ATIONS OF C ARE
 ---
 SUPPORTING THE REVOLUTION   /   347
 ---
-348   /   CONSTELL ATIONS OF C ARE 
+348   /   CONSTELL ATIONS OF C ARE
 ---
 SUPPORTING THE REVOLUTION   /   349
 ---
 * * *
 Aleh Stankova is a queer Balkan feminist organizer originally from Bulgaria who spent many years living in the United Kingdom, where she cofounded North London Food Not Bombs. She is currently based in Soa, Bulgaria. Aleh has worked extensively within feminist and women’s rights organizations, including with victims of domestic and state violence, and by resourcing feminist movements. She is also trying to DJ, and is an auntie and proud cat parent.
-350   /   CONSTELL ATIONS OF C ARE 
+350   /   CONSTELL ATIONS OF C ARE
 ---
 You can nd the North London Food Not Bombs group on Instagram @fnb_london and Facebook @fnblondon.
 SUPPORTING THE REVOLUTION   /   351
@@ -1506,7 +1506,7 @@ B E N J I H A RT
 AN EXPERIMENT   /   355
 ---
 1. For more information on Dissenters, see wearedissenters.org.
-356     /   CONSTELL ATIONS OF C ARE 
+356     /   CONSTELL ATIONS OF C ARE
 ---
 AN EXPERIMENT   /   357
 ---
@@ -1515,7 +1515,7 @@ Our aim here was to both set realistic expectations and
 make our intentions explicit from the onset. When those from marginalized identities experience violence in our own spaces, there can be a deep disappointment layered on top of the trauma, as we frequently arrived at those spaces because we were eeing the violence of others—our families, our jobs, our schools, and larger institutions. We can understandably have higher expectations for how we will be treated in spaces that are explicitly feminist, antiracist, and antiauthoritarian, by their very nature promising us a vision of a better world. When we experience the same harm there that we did in the spaces we escaped, the feeling of betrayal can amplify the pain of the harm itself.
 What the handbook attempts to communicate is not, “You
 will never experience harm here,” but instead, “If and when harm likely does happen, here are the ways we are collectively
-358   /   CONSTELL ATIONS OF C ARE 
+358   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 AN EXPERIMENT   /   359
@@ -1523,7 +1523,7 @@ AN EXPERIMENT   /   359
 Dissenters coach Dylan Rodriguez, an author and scholar, teaches us that “a boundary is not a border.”2 A theme we noticed in organizing spaces—particularly those involving youths—is that a commitment to tearing down oppressive structures can sometimes unintentionally result in the erosion of norms and expectations that are crucial to reinforcing relationships of trust. An example of this might be a group declaring, in a genuine attempt to ght adultism, that adults and young people are completely equal within the organization. While this might seem just and even radical at the onset, it can often lead to dynamics where the real social power that adults have over youths is denied, making it easier for older members to manipulate and pressure young people into unhealthy or even violent relationship dynamics. Much like the insistence on not “seeing” race, denying the existence of racism, ableism, sexism, and other forms of systemic violence doesn’t make them go away but rather frequently allows them to ourish. As the SPA team, one of our guiding beliefs is that borders control us, but boundaries protect us. Anarchist feminist politics do not teach us to reject all structure. They invite us to imagine structures that are shaped by and intended to protect the autonomy of the most vulnerable versus the interests of the most powerful. To avoid these dynamics and embody these aspirations, we
 2. Dylan Rodriguez, Dissenters Safety Protocol Training for Coaches,
 October 27, 2021. For an introduction to Rodriguez and his work, see https://proles.ucr.edu/app/home/prole/dylanr.
-360   /   CONSTELL ATIONS OF C ARE 
+360   /   CONSTELL ATIONS OF C ARE
 ---
 DESTIGMATIZING THE OWNING OF HARM, WHILE NOT NORMALIZING HARM ITSELF
 Another of our movement mentors, grassroots organizer and author Mariame Kaba, reminds us that you cannot actually hold anyone accountable.3 We set ourselves up for all types of futile power struggles as well as deep heartbreak when we enter the work of transformative justice with this expectation. Within the handbook, we talked about how it is on each of us as individuals to hold ourselves accountable when another member of our collective comes to us and expresses we’ve done something that hurt them. What the collective can do is to help foster the conditions and create the containers within which individuals who have caused harm—which will likely be every one of us eventually—can willingly take responsibility for the consequences of their actions. We tried to oer a framework for this in our handbook,
@@ -1531,13 +1531,13 @@ Another of our movement mentors, grassroots organizer and author Mariame Kaba, r
 with Mariame Kaba” (podcast), April 10, 2019.
 AN EXPERIMENT   /   361
 ---
-362   /   CONSTELL ATIONS OF C ARE 
+362   /   CONSTELL ATIONS OF C ARE
 ---
 THE HEART OF THE EXPERIMENT
 As members of the SPA team, we initially presented our handbook and some of the philosophies and guidelines outlined here at Dissenters’ rst in-person convening since the start of the pandemic, the Tidal Wave Convergence in September 2022, with over sixty member-leaders from across our chapters and campaigns in attendance. The reception was earnest, warm, and even exciting. Many of the students and youths present expressed that they had never had
 AN EXPERIMENT   /   363
 ---
-364   /   CONSTELL ATIONS OF C ARE 
+364   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Benji Hart is an interdisciplinary author, artist, and educator whose work centers Black radicalism, queer liberation, and prison abolition. Their words have appeared in numerous anthologies, and been published at the Advocate, Teen Vogue, Time, and elsewhere. They have led popular education and arts-based workshops for organizations internationally, in- cluding the American Repertory Theater, Liberation Library, and Young Chicago Authors. For more of their work, see at BenjiHart.com. Special thanks to the other members of the SPA Team at the time of this essay’s writing: Yuni Chang, Nadine Darwish, Debbie Southorn, and the mentorship of Rachel Caidor at the Help Desk.
@@ -1545,15 +1545,15 @@ AN EXPERIMENT   /   365
 ---
 ABORTION
 |
-BAY L A ( A K A BAY ) O S T R AC H 
+BAY L A ( A K A BAY ) O S T R AC H
 1. Though the language used at the time was not inclusive, the selfavowed feminist clinics that were part of the federation, including the one mentioned here, were early sources of queer- and trans-friendly health care in the 1980s and 1990s.
 COLLECTIVELY FUNDING ABORTION   /    369
 ---
-370   /   CONSTELL ATIONS OF C ARE 
+370   /   CONSTELL ATIONS OF C ARE
 ---
 COLLECTIVELY FUNDING ABORTION   /   371
 ---
-372   /   CONSTELL ATIONS OF C ARE 
+372   /   CONSTELL ATIONS OF C ARE
 ---
 COLLECTIVELY FUNDING ABORTION   /   373
 ---
@@ -1566,11 +1566,11 @@ procedures
 •       New sources of funding now that many people
 would have to travel farther and likely go to clinics
 that cost more than had our feminist one
-374       /    CONSTELL ATIONS OF C ARE 
+374       /    CONSTELL ATIONS OF C ARE
 ---
 COLLECTIVELY FUNDING ABORTION   /   375
 ---
-376   /   CONSTELL ATIONS OF C ARE 
+376   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Bayla (Bay) Ostrach is an applied medical anthropologist and community-based researcher and technical assistance provider based in Southern Appalachia. Beginning in 1999 and continuing through the mid-2010s, they worked in seven independent abortion clinics in two states and two countries, and cofounded the grassroots abortion fund described in this essay. In addition to studying abortion access, reproductive health and justice, and health policy, they study and work in harm reduction, drug user health, and topics related to mutual and social support, including with Castellers in Catalunya. Bay can be found @BaylaOstrach.
@@ -1582,11 +1582,11 @@ MEGAN MCGEE
 Dream Team, https://aborcyjnydreamteam.pl/; Kobiety W Sieci, https://maszwybor.net/; Ciocia Basia, https://instagram.com/ ciocia.basia.berlin/?hl=en; Abortion Network Amsterdam https:// abortionnetwork.amsterdam/; Women Help Women, https:// womenhelp.org/; Abortion Support Network, https://asn.org.uk/.
 ABORTION WITHOUT BORDERS     /   381
 ---
-382   /   CONSTELL ATIONS OF C ARE 
+382   /   CONSTELL ATIONS OF C ARE
 ---
 ABORTION WITHOUT BORDERS   /   383
 ---
-384   /   CONSTELL ATIONS OF C ARE 
+384   /   CONSTELL ATIONS OF C ARE
 ---
 ABORTION WITHOUT BORDERS   /   385
 ---
@@ -1596,7 +1596,7 @@ The Abortion Dream Team stays in touch after the
 pharmacological abortion is over too. “Usually, people want to go to the doctor to make sure everything is OK,” explains Adrianna. “But the vagina is such a great organ that it will clear itself without even checking.” She says people often write to the team afterward to thank it and express how happy they are. “The stigma of abortion is such a big thing in Poland, they usually cannot tell even their partners or friends. So I think the most important role we have is that we are giving the support. We are with you, you are not alone, and this is your decision. This is a good decision.”
 Activists in the Abortion without Borders network agree
 that the rst thing that changed in the wake of Poland’s near- total abortion ban was that an atmosphere of fear gripped
-386   /   CONSTELL ATIONS OF C ARE 
+386   /   CONSTELL ATIONS OF C ARE
 ---
 Coming from Poland’s anarchist punk scene and queer
 feminist movement, Asia moved to Amsterdam to work with Women Help Women because of the limitations on what kind of support she could provide to those seeking abortions in Poland due to the legal restrictions. Women Help Women is a formal organization located in dierent areas around the world, but “we are not a huge organization,” Asia explains. “We focus on the countries where there is not access to safe abortion services.” Women Help Women also operates along a horizontal organizational culture, which Asia points out requires “constant conversation” about what it means to organize nonhierarchically. And “we try to change the narrative and promote a supportive, nonjudgmental, nor- malizing-of-abortion approach,” she says.
@@ -1604,16 +1604,16 @@ All the collectives in the network share the goal of not only
 decriminalizing but also demedicalizing abortion. “Abortion pills are something that you can do on your own. You can decide when you want to have this abortion, how to do it,” Adrianna underscores, noting that sadly, “like every area of life,” people’s decision-making power is frequently “taken by politicians or men in power.”
 ABORTION WITHOUT BORDERS   /   387
 ---
-388   /   CONSTELL ATIONS OF C ARE 
+388   /   CONSTELL ATIONS OF C ARE
 ---
 ABORTION WITHOUT BORDERS   /   389
 ---
-390   /   CONSTELL ATIONS OF C ARE 
+390   /   CONSTELL ATIONS OF C ARE
 ---
 ABORTION WITHOUT BORDERS   /   391
 ---
 * * *
-392   /   CONSTELL ATIONS OF C ARE 
+392   /   CONSTELL ATIONS OF C ARE
 ---
 ABORTION WITHOUT BORDERS   /   393
 ---
@@ -1623,23 +1623,23 @@ TR ANSITION AND AUTONOMY   /   397
 ---
 1. Testosterone, on the other hand, is a controlled substance and
 therefore making it is illegal. It’s possible that people are doing this, though, or nding black market testosterone.
-398    /   CONSTELL ATIONS OF C ARE 
+398    /   CONSTELL ATIONS OF C ARE
 ---
 TR ANSITION AND AUTONOMY   /   399
 ---
-400   /   CONSTELL ATIONS OF C ARE 
+400   /   CONSTELL ATIONS OF C ARE
 ---
 TR ANSITION AND AUTONOMY   /   401
 ---
-402   /   CONSTELL ATIONS OF C ARE 
+402   /   CONSTELL ATIONS OF C ARE
 ---
 TR ANSITION AND AUTONOMY   /   403
 ---
-404   /   CONSTELL ATIONS OF C ARE 
+404   /   CONSTELL ATIONS OF C ARE
 ---
 TR ANSITION AND AUTONOMY   /   405
 ---
-406   /   CONSTELL ATIONS OF C ARE 
+406   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 Scott/Shuli Branson is a queer/transfemme Jewish anarchist writer, translator, community organizer, and teacher. They translated Jacques Lesage de la Haye’s The Abolition of Prison and Guy Hocquenghem’s second book of essays, Gay Liberation after May ’68, for which they also wrote a critical introduction on his queer anarchism. She coedited Surviving the Future: Abolitionist Queer Strategies with Raven Hudson and Bry Reed for PM Press. Shuli is the author of Practical Anarchism: A Guide for Daily Life and is currently working on a book on trans youth liberation. They often contribute to the Final Straw Radio, a weekly anarchist radio show and podcast. Her new project is a talk show called “The Breakup Theory,” where anarchists and queers discuss the ways their politics show up in their relationships. Scott is grateful for the comrades who shared their experiences, wisdom, and time to support the report back in this essay.
@@ -1649,24 +1649,24 @@ TR ANSITION AND AUTONOMY   /   407
 V I C K Y O S T E RW E I L
 MOVEMENT MIDWIFERY   /   411
 ---
-412   /   CONSTELL ATIONS OF C ARE 
+412   /   CONSTELL ATIONS OF C ARE
 ---
 MOVEMENT MIDWIFERY   /   413
 ---
-414   /   CONSTELL ATIONS OF C ARE 
+414   /   CONSTELL ATIONS OF C ARE
 ---
 MOVEMENT MIDWIFERY   /   415
 ---
 1. Donna J. Haraway, Staying with the Trouble: Making Kin in the
 Chthulucene (Durham, NC: Duke University Press, 2016).
-416   /   CONSTELL ATIONS OF C ARE 
+416   /   CONSTELL ATIONS OF C ARE
 ---
 MOVEMENT MIDWIFERY   /   417
 ---
 * * *
 This essay is dedicated to Jennifer Bennetch (1985–2022), who inspired and changed everyone she struggled beside. May her memory be a revolution.
 Vicky Osterweil is a writer, worker, and agitator based out of Philadelphia. She is the author of two books: In Defense of Looting (Bold Type, 2020) and The Extended Universe (Hay- market, 2024).
-418   /   CONSTELL ATIONS OF C ARE 
+418   /   CONSTELL ATIONS OF C ARE
 IN LJUBLJANA
 |
 ČR N E M AČK E
@@ -1676,52 +1676,52 @@ In 2020, some parts of the antiauthoritarian movement in slovenia (re-, re-, re)
 currently have hierarchical power in the world, such as the names of cities, nation-states, and geopolitical regions.
 HOW WE PERSISTED    /    421
 ---
-422   /   CONSTELL ATIONS OF C ARE 
+422   /   CONSTELL ATIONS OF C ARE
 ---
 SPACE
 In the beginning, črne mačke gathered on the second oor of the Autonomous Factory Rog in a small space that had been occupied and renovated by one of our members, who made it into a cozy hideout for witches and herbalists. On the rooftop of this squat, she’d set up a small garden and always provided self-picked teas for our meetings. At 7:00 a.m. on January 19, 2021, in the midst of a cold winter and during the peak of the second wave of the COVID pandemic, the municipality of ljubljana along with support of the police decided to violently evict the Autonomous Factory Rog. The loss of this huge factory space meant that a lot of groups now found themselves displaced in the city. New self- organized spaces seemed impossible to establish given that the police and security guards were controlling every step of those who did not obey the government’s COVID restrictions, which were mostly just a pretext for imposing authoritarian policies rather than protecting the populace. This hostile environment prevented us from gathering and traveling. After the eviction, the city authority and private property owners even began to control and protect abandoned buildings from potential squatters. All over the region, squats had already started disappearing
 HOW WE PERSISTED   /   423
 ---
 * * *
-424   /   CONSTELL ATIONS OF C ARE 
+424   /   CONSTELL ATIONS OF C ARE
 ---
 A year and a half after losing our beloved Autonomous Factory Rog, we changed the locks on an empty building, now known as mačjak. Mačjak oered us an opportunity to learn how to build a space from the ground up on our own terms and liberate ourselves from the previous arrangements. Opening a squat allowed us to become more autonomous, have space to think collectively, apply tactics we’d already developed, and establish new ones to solve problems we identied within the system and our movement. Occupying mačjak changed a lot for us. It gave us inde- pendence from the collective that we shared the previous space with. It supplied us with new condence to organize exactly how we wanted to, without the need for or feeling like we had to explain ourselves to anyone. It gave us a fresh perspective on power dynamics, putting us in the position of having a space and deciding whom to invite to organize in it. This not only inuenced our relationships on the outside but also on the inside, within us. Since opening mačjak, we still struggle with the distribution of the care work that has to be put into the space and our collective. As a previously more or less street-oriented collective, we sometimes feel impatient and stuck when most of our energy is used for maintaining a place, sometimes leaving little capacity for outside actions. One of the important questions related to mačjak was the notion of safe space—safe for whom, and from whom. Collectively we never felt comfortable with understanding safety on the basis of identity. Our struggle against patriarchy, which has always been at the core of our organizing, and later on “moving away” from the “oh so united anarchist movement
 HOW WE PERSISTED   /   425
 ---
 HOW TO ORGANIZE
 In the two years since we formed, our collective has gone through numerous changes in ideology and group dynamics, which sometimes we’ve tackled well and sometimes less eectively. As a feminist group, we are “experts” in self-care and excellent reproductive workers, yet we keep failing when trying to put these ideas into practice. Looking at already established anarchist and feminist groups in our geographies, we felt that the rst didn’t recognize the importance of antisexist work, and the latter adopted neoliberal approaches in their ght against (gender) oppression. That’s why we decided at rst to forge our own organizing path based on our own values, wants, and capac- ities, and not focus too much on how to connect with other groups from the start. Yet when there were fractures within our collective, and especially after we lost a number of members, we decided not to aim at expanding, even though we keep returning to this question at dierent points in our organizing. As a small group, it’s easier to address conicts and nd common ground. Trust can be built and tended to more easily. We seek to nd
-426   /   CONSTELL ATIONS OF C ARE 
+426   /   CONSTELL ATIONS OF C ARE
 ---
 HOW WE PERSISTED   /   427
 ---
 When engaged in organizing beyond our collective in var- ious struggles, we’ve often felt like the “feminists on duty.” When there was an issue connected to abortion or rape, for instance, it was assigned to us; when addressing war, it was not assumed that we would even be interested. We recognize, however, that war and its repercussions have an inherently feminist dimension. Macho traits like pride in connection to patriotism, physical strength, and its association with weapons, competition, and binarism are all features that drive people to start wars or join armies in the rst place. We see it as necessary to talk about “nonconventional” weapons used during wars, such as rape. On the practical side, there is a need to maintain spaces where people who desert and ee can nd shelter; there is much care work to be done for people who’ve experienced war and the violence connected to it, not to mention dealing with rape victims. While we see broader societal issues such as war through the lens of patriarchy, we also look at “typicial” feminist themes through the lens of other hierarchical systems. For example, access to abortion in slovenia cannot be seen as just an individualist, liberal issue of “my body, my choice.” The right to abortion is (for now) guaranteed, with some exceptions that can be tied to a range of capitalist and nationalist rationales. Even though abortion is considered basic health care in slovenia, people who do not have the right papers that the state imposes can’t access it freely. Meaning that lots of people on the move or those who are seeking asylum are excluded, and even with the “correct” citizenship, abortion and health
-428   /   CONSTELL ATIONS OF C ARE 
+428   /   CONSTELL ATIONS OF C ARE
 ---
 WE HAVE TO STAY OPEN
 From our beginnings onward, we’ve questioned the women- only constellation and romanticized the idea of being viewed as a queer collective, even though we as collective members are generally read as heteronormative women by those who do not know us personally. One of the reasons why we opted for the queer label was also not to push away potential members who didn’t identify as women. Yet this turned out to be not only an ideological struggle but a generational one too. We’ve been inuenced in our thinking and organizing by dierent streams of oppressed peoples’ movements—from our sisters organizing for women’s rights in the balkan region, to our western comrades experimenting with living together in squats and housing projects, and from historical revolutionary movements to the more recent ones. Our older members have taken more inspiration from Indigenous women’s struggles on other continents, while our younger ones relate more to the queer movements here in europe. We’ve all drawn inspiration from the Rojava women’s autonomous organizing, and thus have embraced the need for women-only and all-oppressed- genders or FLINTA (female, lesbian, intersex, trans, and agender) groups, believing that they can coexist in parallel with mixed-group organizing, while also supporting men-only congurations within our movement.
 HOW WE PERSISTED   /   429
 ---
-430   /   CONSTELL ATIONS OF C ARE 
+430   /   CONSTELL ATIONS OF C ARE
 ---
 * * *
 HOW WE PERSISTED   /   431
 ---
-432   /   CONSTELL ATIONS OF C ARE 
+432   /   CONSTELL ATIONS OF C ARE
 |
 V I L JA S A A R I N E N
 To the ones who warn their fellow passengers when seeing
 ticket inspectors waiting on the metro platforms or stall the inspectors so as to gift the ones who haven’t bought a ticket more time to get away. To all who move closer to each other in the hope of becoming a territory. To the parents who bring their kids to demonstrations. To everyone who waits outside jails and hospitals. To those who study rst aid, law, and trauma support. To all who show up in the streets when it’s below minus-15 degrees Celsius. To anyone who has housed, hidden, and helped refugees, or arranged transport for them. To everyone who has ever brought food or other treasures to collective spaces so that everyone could eat. Anyone who has peeled tens of kilograms of potatoes, fried hundreds of falafel, or organized places to meet, discuss, and learn. Saved plates of food for the ones who have not yet returned safely. Prepared meals separately for comrades with allergies. Invested in collective infrastructure. Been on a hunger strike. To all of those caring for collective needs or doing the right thing even though it is risky. To all that grows under the ice in the absence of sunshine. To those struggling to unlearn patriarchy, moving back to give space, oering care, and moving forward in their work of understanding their emotions. To Danuta, Tess, and all of you standing face-to-face with fascists, cops, or other violent men and not backing down. To all of those who still carry the new world in their hearts.
 DO YOU FEEL THE SAME?   /   435
 ---
-436   /   CONSTELL ATIONS OF C ARE 
+436   /   CONSTELL ATIONS OF C ARE
 ---
 DO YOU FEEL THE SAME?   /   437
 ---
-438   /   CONSTELL ATIONS OF C ARE 
+438   /   CONSTELL ATIONS OF C ARE
 ---
 DO YOU FEEL THE SAME?   /   439
 ---
-440   /   CONSTELL ATIONS OF C ARE 
+440   /   CONSTELL ATIONS OF C ARE
 ---
 Forever yours, Vilja
 PS This letter is an assemblage of words and situations created by friends and comrades around the world. Despite having one writer, it is a collaboration of many, not only because of the borrowed words, but due to all the shared magic and intense discussions. As you already should know, I love all of you very much!
@@ -1729,7 +1729,7 @@ DO YOU FEEL THE SAME?   /   441
 ---
 * * *
 Vilja Saarinen writes from Helsinki, although she would love to be with you, wherever you are and wherever there is even a tiny spark. Vilja nds it important to appreciate and celebrate our big and small victories throughout history, and never forget the beauty of our resistance. If you feel the same, feel free to write to her at viljasaarinen@protonmail.com.
-442   /   CONSTELL ATIONS OF C ARE 
+442   /   CONSTELL ATIONS OF C ARE
 ---
 PREVIOUS TITLES, ALL LABORS OF LOVE:
 Anarchism and Its Aspirations, by Cindy Milstein (AK Press, 2010)
@@ -1738,5 +1738,5 @@ Taking Sides: Revolutionary Solidarity and the Poverty of Liberalism, edited by 
 Rebellious Mourning: The Collective Work of Grief, edited by Cindy Milstein (AK Press, 2017)
 Deciding for Ourselves: The Promise of Direct Democracy, edited by Cindy Milstein (AK Press, 2020)
 There Is Nothing So Whole as a Broken Heart: Mending the World as Jewish Anarchists, edited by Cindy Milstein (AK Press, 2021)
-Try Anarchism for Life: The Beauty of Our Circle, by Cindy Barukh Milstein (Strangers in a Tangled Wilderness, 2022) 
+Try Anarchism for Life: The Beauty of Our Circle, by Cindy Barukh Milstein (Strangers in a Tangled Wilderness, 2022)
 ---

@@ -102,21 +102,21 @@ where dv' denotes the (volume) integration variable corresponding to $\mathbf{x}
 We will later approximate the integral of Eq. (2) using a sum for numerical quadrature. Since $\delta(\mathbf{r})$ is, however, neither a function nor can be discretized, we first make a continuous approximation to the Dirac- $\delta$ distribution as a preparation to the discrete approximation of the integral. A natural choice to approximate $\delta$ is to use a normalized Gaussian since $\delta$ is equal to the normal distribution with zero variance. Consequently, convolving a field quantity A with a Gaussian effectively smoothes A. We will later see that the Gaussian is, however, not an optimal choice due to its non-compact support domain and will therefore consider more general smoothing functions $W: \mathbb{R}^d \times \mathbb{R}^+ \to \mathbb{R}$ which we will refer to as *kernel functions* or *smoothing kernels*. Formally the continuous approximation to $A(\mathbf{x})$ with $W(\mathbf{r}, h)$ is
 
 ## $$A(\mathbf{x}) \approx (A * W) (\mathbf{x})$$
-  
-= 
+
+=
 $$\int A(\mathbf{x}') W(\mathbf{x} - \mathbf{x}', h) dv',$$
 ## (3)
 
 where h denotes the kernel's smoothing length. The smoothing length controls the amount of smoothing and consequently how strongly the value of A at position $\mathbf{x}$ is influenced by the values in its close proximity. This means the smoothing effect increases with growing smoothing lengths. The following properties are furthermore desired:
 
 $$\int_{\mathbb{R}^d} W(\mathbf{r}', h) dv' = 1 \qquad \qquad \text{(normalization condition)}$$
- 
+
 $$\lim_{h' \to 0} W(\mathbf{r}, h') = \delta(\mathbf{r}) \qquad \qquad \text{(Dirac-$\delta$ condition)}$$
- 
+
 $$W(\mathbf{r}, h) \geq 0 \qquad \qquad \text{(positivity condition)}$$
- 
+
 $$W(\mathbf{r}, h) = W(-\mathbf{r}, h) \qquad \qquad \text{(symmetry condition)}$$
- 
+
 $$W(\mathbf{r}, h) = 0 \text{ for } ||\mathbf{r}|| \geq \hbar, \qquad \text{(compact support condition)}$$
 
 $\forall \mathbf{r} \in \mathbb{R}^d, h \in \mathbb{R}^+$ , where $\hbar$ denotes the support radius of the kernel function. Moreover, the kernel should be at least twice continuously differentiable to enable a consistent discretization of 2nd-order partial differential equations (PDEs). It is essential to use a kernel that satisfies the first two conditions (normalization and Dirac- $\delta$ ), in order to ensure that the approximation in Eq. (3) remains valid. The positivity condition is not strongly required (there are also kernels that do not have this property). However, in the context of physical simulations kernels that take negative values may lead to physically inconsistent estimates of field quantities, e.g., negative mass density estimates, and should therefore be avoided. We will later see that the symmetry condition ensures 1st-order consistency of the continuous approximation. Finally, ensuring that the kernel is compactly supported is a purely practical consideration that will come into play after discretizing the continuous integral and will be discussed later. To keep this tutorial practical, we refrain from discussing how to construct SPH kernels and would like to refer the reader to the review of Liu and Liu [LL10] for a discussion on kernel construction and an overview over a range of smoothing kernels suitable for SPH.
@@ -364,9 +364,9 @@ dition typically leads to stable simulations [SP09, ICS\*14, BK17]. Although obv
 
 Based on the knowledge that we have acquired up to this point, we are now able to implement a simple state-equation based simulator for weakly compressible fluids with operator splitting using SPH and symplectic Euler integration.
 
-for all particle 
+for all particle
 $$i$$
-do Reconstruct density $\rho_i$ at $\mathbf{x}_i$ with Eq. (11) for all particle $i$ do Compute $\mathbf{F}_i^{\text{viscosity}} = m_i v \nabla^2 \mathbf{v}_i$ , e.g., using Eq. (23) $\mathbf{v}_i^* = \mathbf{v}_i + \frac{\Delta t}{m_i} (\mathbf{F}_i^{\text{viscosity}} + \mathbf{F}_i^{\text{ext}})$ for all particle $i$ do Compute $\mathbf{F}_i^{\text{pressure}} = -\frac{1}{\rho} \nabla p$ using state eq. and Eq. (19) for all particle $i$ do $\mathbf{v}_i(t+\Delta t) = \mathbf{v}_i^* + \frac{\Delta t}{m_i} \mathbf{F}_i^{\text{pressure}}$ $\mathbf{x}_i(t+\Delta t) = \mathbf{x}_i + \Delta t \mathbf{v}_i(t+\Delta t)$ 
+do Reconstruct density $\rho_i$ at $\mathbf{x}_i$ with Eq. (11) for all particle $i$ do Compute $\mathbf{F}_i^{\text{viscosity}} = m_i v \nabla^2 \mathbf{v}_i$ , e.g., using Eq. (23) $\mathbf{v}_i^* = \mathbf{v}_i + \frac{\Delta t}{m_i} (\mathbf{F}_i^{\text{viscosity}} + \mathbf{F}_i^{\text{ext}})$ for all particle $i$ do Compute $\mathbf{F}_i^{\text{pressure}} = -\frac{1}{\rho} \nabla p$ using state eq. and Eq. (19) for all particle $i$ do $\mathbf{v}_i(t+\Delta t) = \mathbf{v}_i^* + \frac{\Delta t}{m_i} \mathbf{F}_i^{\text{pressure}}$ $\mathbf{x}_i(t+\Delta t) = \mathbf{x}_i + \Delta t \mathbf{v}_i(t+\Delta t)$
 
 Algorithm 1: Simulation loop for SPH simulation of weakly compressible fluids.
 
@@ -445,7 +445,7 @@ $$\Delta t \nabla^2 p(t) = \frac{\rho^0 - \rho^*}{\Delta t}.$$
 
 Note that $\nabla \cdot \nabla p(t) = \nabla^2 p(t)$ . In this equation, the pressure p is unknown. We have one equation per particle, resulting in a system with n equations and n unknown pressure values for n particles. Various similar PPE forms can be derived more formally, e.g., starting with the continuity equation at time $t + \Delta t$ : $-\rho(t + \Delta t)\nabla$ .
 
-$\mathbf{v}(t+\Delta t) = \frac{\mathrm{D}\rho(t+\Delta t)}{\mathrm{D}t}. \text{ The time derivative of the density is approximated with } \frac{\mathrm{D}\rho(t+\Delta t)}{\mathrm{D}t} = \frac{\rho(t+\Delta t)-\rho(t)}{\Delta t}. \text{ The velocity is written as } \mathbf{v}(t+\Delta t) = \mathbf{v}^* - \Delta t \frac{1}{\rho(t+\Delta t)} \nabla p(t+\Delta t) \text{ using an implicit update with the pressure acceleration at time } t+\Delta t. \text{ Imposing the constraint } \rho(t+\Delta t) = \rho^0, \text{ we get } -\rho^0 \nabla \cdot \mathbf{v}^* + \nabla \cdot (\Delta t \nabla p(t+\Delta t)) = \frac{\rho^0 - \rho(t)}{\Delta t} \text{ and finally }$ 
+$\mathbf{v}(t+\Delta t) = \frac{\mathrm{D}\rho(t+\Delta t)}{\mathrm{D}t}. \text{ The time derivative of the density is approximated with } \frac{\mathrm{D}\rho(t+\Delta t)}{\mathrm{D}t} = \frac{\rho(t+\Delta t)-\rho(t)}{\Delta t}. \text{ The velocity is written as } \mathbf{v}(t+\Delta t) = \mathbf{v}^* - \Delta t \frac{1}{\rho(t+\Delta t)} \nabla p(t+\Delta t) \text{ using an implicit update with the pressure acceleration at time } t+\Delta t. \text{ Imposing the constraint } \rho(t+\Delta t) = \rho^0, \text{ we get } -\rho^0 \nabla \cdot \mathbf{v}^* + \nabla \cdot (\Delta t \nabla p(t+\Delta t)) = \frac{\rho^0 - \rho(t)}{\Delta t} \text{ and finally }$
 
 $$\Delta t \nabla^2 p(t + \Delta t) = \frac{\rho^0 - (\rho(t) - \Delta t \rho^0 \nabla \cdot \mathbf{v}^*)}{\Delta t}.$$
 ## (36)
@@ -593,7 +593,7 @@ Note that this formulation is similar to the pressure computation of PCISPH (see
 
 Algorithm 4 shows the divergence-free solver. In each iteration first the divergence is updated for all particles. Then the pressure values are determined and the predicted velocity is updated accordingly.
 
-1: **while** 
+1: **while**
 $$\left(\left(\frac{D\rho}{Dt}\right)^{\text{avg}} > \eta^{\text{div}}\right) \lor (\text{iter}  \eta) \lor (\text{iter}  \rho^0$ , which causes pressure $p_i > 0$ which in turn causes a pressure force $\mathbf{F}_i^p \neq \mathbf{0}$ that accelerates the fluid particle away from boundary particles. Please note that $i_b$ denote boundary neighbors of a fluid particle i. Accordingly, $i_f$ refer to indices of fluid neighbors of a fluid particle i.
 
 handle non-penetration of rigid boundaries using particle sampling approaches. We gradually develop a formulation starting with a simple dense, uniform multilayer sampling of the boundary and show how the method can be simplified to a uniform single layer sampling and consequently even to a robust and consistent formulation using non-uniformly sampled boundaries. We moreover discuss how the fluid-boundary coupling can be improved using pressure mirroring or pressure extrapolation and how these techniques can be incorporated into the previously discussed pressure solvers. For implicit or mesh-based boundary handling techniques we would like to refer the reader to the corresponding literature, e.g., [KB17, HKK07a, HKK07b, BLS12, MFK\*15, FLR\*13, FM15]
@@ -949,25 +949,24 @@ for all particle i do Find neighbors for all particle i do
 
 for all particle i do
 
-Compute transfer forces $\mathbf{F}_{i}^{\text{non-pressure}}$ Compute transfer forces $\mathbf{F}_{i}^{\text{transfer}} = m_{i} \mathbf{v}_{t} \nabla \times \mathbf{\omega}_{i}$ Compute transfer torque $\tau_{i}^{\text{transfer}} = m_{i} \mathbf{v}_{t} (\nabla \times \mathbf{v}_{i} - 2\mathbf{\omega}_{i})$ 
+Compute transfer forces $\mathbf{F}_{i}^{\text{non-pressure}}$ Compute transfer forces $\mathbf{F}_{i}^{\text{transfer}} = m_{i} \mathbf{v}_{t} \nabla \times \mathbf{\omega}_{i}$ Compute transfer torque $\tau_{i}^{\text{transfer}} = m_{i} \mathbf{v}_{t} (\nabla \times \mathbf{v}_{i} - 2\mathbf{\omega}_{i})$
 
 Compute time step size $\Delta t$ according to CFL
 
-for all particle 
+for all particle
 $$i$$
 do
 $$\mathbf{v}_{i}^{*} = \mathbf{v}_{i} + \frac{\Delta t}{m_{i}} (\mathbf{F}_{i}^{\text{non-pressure}} + \mathbf{F}_{i}^{\text{transfer}} + \mathbf{F}_{i}^{\text{ext}})$$
 
 for all particle i do
 
-Enforce incompressibility using pressure solver Update $\mathbf{v}_{i}^{*}$ 
+Enforce incompressibility using pressure solver Update $\mathbf{v}_{i}^{*}$
 
 for all particle i do
 
 ## $$\mathbf{v}_i(t+\Delta t) = \mathbf{v}_i^*$$
 
 $$\mathbf{x}_{i}(t + \Delta t) = \mathbf{x}_{i} + \Delta t \mathbf{v}_{i}(t + \Delta t)$$
-  
 
 $$\mathbf{\omega}_{i}(t + \Delta t) = \mathbf{\omega}_{i}(t) + \frac{\Delta t}{m_{i}\Theta_{i}}(\mathbf{\tau}_{i}^{\text{transfer}} + \mathbf{\tau}_{i}^{\text{ext}})$$
 
@@ -1231,14 +1230,14 @@ $$\mathbf{v}_{R}^{t+\Delta t} = \mathbf{v}_{R} + \Delta t \frac{1}{m_{R}} \left(
 $$\omega_R^{t+\Delta t} = \omega_R + \Delta t \mathbf{I}_R^{-1} \left( \mathbf{\tau}_R + (\mathbf{I}_R \omega_R) \times \omega_R + \sum_{k \in \mathcal{R}} \mathbf{r}_k \times \mathbf{F}_k^{rr} \right),$$
 ## (170)
 
-where $I_R$ is the inertia tensor of the rigid body. The vectors $F_R$ 
+where $I_R$ is the inertia tensor of the rigid body. The vectors $F_R$
 
 and $\tau_R$ contain all forces and torques acting on the body except the unknown rigid-rigid contact forces $\mathbf{F}_k^{\text{rr}}$ . $\mathcal{R}$ denotes the set of all particles of rigid body R. Note that all quantities on the right hand side are at time t. For improved readability we omitted the time parameter for all quantities at the current time t.
 
 In the next step we substitute Eqs. (168)-(170) in Eq. (167) to get a linear system for the unknown rigid-rigid contact forces
 
-$$\frac{\rho_r^0 - \rho_r}{\Delta t} = -\rho_r \nabla \cdot \left( \mathbf{v}_R + \frac{\Delta t}{m_R} \mathbf{F}_R \right) - \rho_r \nabla \cdot \left( \frac{\Delta t}{m_R} \sum_{k \in \mathcal{R}} \mathbf{F}_k^{\text{rr}} \right) 
-- \rho_r \nabla \cdot \left( \left( \omega_R + \Delta t \mathbf{I}_R^{-1} \left( \mathbf{\tau}_R + (\mathbf{I}_R \omega_R) \times \omega_R \right) \right) \times \mathbf{r}_r^{t + \Delta t} \right) 
+$$\frac{\rho_r^0 - \rho_r}{\Delta t} = -\rho_r \nabla \cdot \left( \mathbf{v}_R + \frac{\Delta t}{m_R} \mathbf{F}_R \right) - \rho_r \nabla \cdot \left( \frac{\Delta t}{m_R} \sum_{k \in \mathcal{R}} \mathbf{F}_k^{\text{rr}} \right)
+- \rho_r \nabla \cdot \left( \left( \omega_R + \Delta t \mathbf{I}_R^{-1} \left( \mathbf{\tau}_R + (\mathbf{I}_R \omega_R) \times \omega_R \right) \right) \times \mathbf{r}_r^{t + \Delta t} \right)
 - \rho_r \nabla \cdot \left( \Delta t \left( \mathbf{I}_R^{-1} \sum_{k \in \mathcal{R}} \mathbf{r}_k \times \mathbf{F}_k^{\text{rr}} \right) \times \mathbf{r}_r^{t + \Delta t} \right).$$
 ## (171)
 

@@ -40,12 +40,12 @@ scheduled to provide more opportunities for the public to participate.
    February 18th at 5:30 pm - Ward 2 NAB
 ---
    February 19th at 5:30 pm - Virtual Stakeholder Meeting
-https://us06web.zoom.us/j/84652250236
+
    February 20th at 6:00 pm - Ward 4 NAB
    February 24th at 9:00 am - Virtual Stakeholder Meeting
-https://us06web.zoom.us/j/81663144899
+
    February 24th at 5:00 pm - Virtual Stakeholder Meeting
-https://us06web.zoom.us/j/89014251824
+
    Planning Commission TBD
    City Council TBD
 In our meeting we discussed possibly providing a summery of the new ADU regs and

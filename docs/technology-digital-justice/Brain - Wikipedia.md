@@ -161,7 +161,7 @@ information, circadian rhythms, olfactory input, and autonomic nervous system. T
 
 ## **Birds**
 
-Comparison of Vertebrate Brains: Mammalian, Reptilian, Amphibian, Teleost, and Ammocoetes. *CB., cerebellum;* 
+Comparison of Vertebrate Brains: Mammalian, Reptilian, Amphibian, Teleost, and Ammocoetes. *CB., cerebellum;*
 
 The avian brain is the central organ of the nervous system in birds. Birds possess large, complex brains, which process, integrate, and coordinate information received from the optic nerves.
 

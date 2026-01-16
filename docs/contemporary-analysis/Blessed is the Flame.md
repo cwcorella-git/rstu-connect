@@ -744,7 +744,6 @@ And to all those living recalcitrant lives.
  - [\[91\]](#page-15-13) Langbein 305
  - [\[92\]](#page-16-1) Langbein 305
 
-
 [93] Langbein 306
  [94] Langbein 306
  [95] Wasowicz 247
@@ -807,7 +806,7 @@ praying. Problematic to be sure, and disturbing beyond belief.
  [148] Bæden Vol. I 24
  [149] Bæden Vol. I 88
  [150] Bæden Vol. I 109
-## 
+##
 
 [151] Bæden Vol. I 109
 [152] Who often speak the same language as nihilists, but arrive at some different conclusions.
@@ -825,7 +824,7 @@ praying. Problematic to be sure, and disturbing beyond belief.
 [164] Pilecki 13
 [165] Wasowicz; Garlinski; Langbein
 [166] Garlinski 57
-## 
+##
 [\[167\]](#page-30-2) Auschwitz, Birkenau and Monowitz were sub-camps of the same broader Auschwitz complex.
 
 [\[168\]](#page-30-3) Those very fortunate few who were ever granted a release from Auschwitz were required to sign a release form stating that they had "no complaints" about the camp and that they were "satisfied" with their stay (Rees 30).
@@ -950,7 +949,6 @@ praying. Problematic to be sure, and disturbing beyond belief.
 
 [\[229\]](#page-40-3) A Conversation Between Anarchists 5. A similar observation is made by the Invisible Committee, who write: "Organizing is acting in accordance with a common perception... without this binding agent, gestures dissolve without a trace into nothingness, lives have the texture of
 
-
 dreams, and uprisings end up in school-books," (To our friends 17).
  [230] Sun Still Rises 1
  [231] Sim Still Rises 10
@@ -983,7 +981,7 @@ rescued by partisans (Rashke 171)
  [253] Venona Q 28
  [254] Müller 151
  [255] Levi 142
-## 
+##
 #### Reworked doc file from the OCR pdf of Archive.org
 
 Taken from the original book: Running heads, body and italics set in Sabon, an old-style typeface designed by German typographer, suspected-communist and concentration camp survivor Jan Tschichold. Headers are set in DIN 1451, the iconic authoritarian typeface of the German state adopted during the Third Reich's rein and still the face of German signage today. Pistols Drawn 2016. Contact for the author: undertow(A)riseup.net | Blessed is the Flame was originally published by Pistols Drawn. Book printed by [The Tower](https://the-tower.ca/the-tower-inprint/) [In Print](https://the-tower.ca/the-tower-inprint/)

@@ -19,7 +19,6 @@ American Quarterly, Volume 61, Number 3, September 2009, pp. 693-717 (Article)
 
 ## For additional information about this article
 
-
 # **"We Know This Place": Neoliberal Racial Regimes and the Katrina Circumstance**
 
 ## *Jordan T. Camp*

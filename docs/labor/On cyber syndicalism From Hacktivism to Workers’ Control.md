@@ -79,9 +79,6 @@ Negri, Antonio. 2008. Reflections on Empire. London: Polity
 Shantz, Jeff. 2010. Constructive Anarchy: Building Infrastructures of Resistance. Surrey: Ashgate
 
 Squire, Jo. 2013. "Anonymous and the Future of Hacktivism." Socialist Alternative 27.
-
-http://sa.org.au/index.php?option=com\_k2&view=item&id=7760:anonymous-and...
-
 Summer, Kay and Harry Halpin. 2010. "The Crazy before the New." In What Would it Mean to Win?, eds. Turbulence Collective. Oakland: PM Press, 113–120.
 
 ## Disclaimer:

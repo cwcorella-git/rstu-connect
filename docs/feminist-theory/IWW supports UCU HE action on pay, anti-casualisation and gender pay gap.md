@@ -11,9 +11,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/iww-supports-ucu-he-action-pay-anti-casualisation-and-gender-pay-gap
-
 **Tags:** education, schools, United Kingdom, universities, Scotland, Glasgow, Edinburgh, Edinburgh
 
 ## IWW, Clydeside IWW, IWW Scotland

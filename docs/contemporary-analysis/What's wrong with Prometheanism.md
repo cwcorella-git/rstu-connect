@@ -510,9 +510,6 @@ Yes..itwasdirected at me.
 By the way, you also accuse me of trying to have my cake and eat it. This is odd because you seem to be saying that I and OTWs are one of two things: we're either a) workers, or b) not workers. This is implied by the snide comment that we couldn't be workers and enjoy onto-cartography. But this assumes that workers can't or shouldn't talk about onto-cartography. Why? Because they're incapable?
 
 I don't think you can pin the blame for this classification scheme on me unless you see me as the embodiment of the capitalist system. But I grew up on a housing estate with very little but my intelligence to call my own and knowing the pleasures of the mind for the "average worker" I wouldn't deny them to you. Like I said at the end of the previous post, go for your life if that's what you're into but don't expect me to see it as in any way revolutionary, to say the least.
-
-https://www.youtube.com/watch?v=G\_3\_GyW6omY
-
 ## Ablokeimet
 
 11 years 3 months ago

@@ -118,7 +118,7 @@ Ryan Roberts A5155EM HMP Bristol, Horfield, 19 Cambridge Road, Bristol. BS7 8PS
 
 ## Or use emailaprisoner.com
 
-For more info on Kill the Bill Prisoner support: **bristolabc.wordpress.com** 
+For more info on Kill the Bill Prisoner support: **bristolabc.wordpress.com**
 
 ## ![](_page_3_Picture_16.jpeg)
 
@@ -149,8 +149,6 @@ THERE MAYBE TIMES WHEN WE ARE POWERLESS TO PREVENT INJUSTICE, BUT THERE MUST NEV
 ## ![](_page_4_Picture_10.jpeg)
 
 ## ![](_page_4_Picture_11.jpeg)
-
-## Page 5
 
 The momentum for prisoners to organise on the inside, to defend their rights, was strengthened after the first ever 'national prison strike' in North America several years ago now. An act that was seen as a wake-up call for prisoners at the value of their own strength when organised. For many on the inside, that scene of unionised solidarity has been a source of self-empowerment and inspiration for many prisoners held in jails across the world.
 
@@ -364,7 +362,7 @@ Derry Radical Bookfair derryradicalbookfair.wordpress.com
 
 **Derry Antifascists** facebook.com/Derry Anti Fascists
 
-Incarcerated Workers Organising Committee Ireland www.onebigunion.ie/iwocireland **Belfast Anarchists** 
+Incarcerated Workers Organising Committee Ireland www.onebigunion.ie/iwocireland **Belfast Anarchists**
 
 caoradhubh@riseup.net facebook: Belfast Anarchists Twitter: @ainrialaithe
 

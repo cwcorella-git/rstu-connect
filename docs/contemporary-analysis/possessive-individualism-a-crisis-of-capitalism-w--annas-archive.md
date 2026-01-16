@@ -1309,7 +1309,7 @@ Macpherson, C. B. 1973. *Democratic Theory,* Oxford: Clarendon Press.
 - Northrop, F. S. C. 1967. *The Logic of the Sciences and the Humanities,* New York: Meridian Books.
 - Rinne, Ulf. 2014. "Anonymous Job Applications and Hiring Discrimination," *IZA World of Labor*, 48, May. [https://wol.iza.org/uploads/articles/454/pdfs/anonymous-job](https://wol.iza.org/uploads/articles/454/pdfs/anonymous-job-applications-and-hiring-discrimination.one-pager.pdf?v=1)[applications-and-hiring-discrimination.one-pager.pdf?v=1](https://wol.iza.org/uploads/articles/454/pdfs/anonymous-job-applications-and-hiring-discrimination.one-pager.pdf?v=1)
 - Sen, Amartya. 1993. "Markets and Freedoms: Achievements and Limitations of the Market Mechanism in Promoting Individual Freedoms," *Oxford Economic Papers* 45: 519–41.
-- Sivy, Michael. 2012. "The Big Winner of the Great Recession Is . . . ." *Time*, January 18. 
+- Sivy, Michael. 2012. "The Big Winner of the Great Recession Is . . . ." *Time*, January 18.
 - Veblen, Thorstein. 1904. *The Theory of the Business Enterprise*. New Brunswick, NJ: Transaction Books.
 - World Development Indicators. 2018. Washington, DC: World Bank.
 
@@ -1705,7 +1705,7 @@ The countries listed in the Organization for Economic Cooperation and Developmen
 - 2. Data based on the authors' (Campos, 2014) calculations using GDP per capita data from Maddison (2007). Western Europe includes Austria, Belgium, Denmark, Finland, France, Germany, Italy, The Netherlands, Norway, Sweden, Switzerland, and the United Kingdom. US-CAN-NZ-AUS is Australia, Canada, New Zealand, and the United States.
 - 3. Notice that there are only three OECD countries (Canada, the United States, and Mexico) with significant oil reserves.
 - 4. See the Appendix for countries in each of these groupings.
-- 5. 
+- 5.
 
 #### **References**
 

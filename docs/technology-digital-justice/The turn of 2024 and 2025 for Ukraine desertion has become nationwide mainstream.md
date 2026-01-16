@@ -14,9 +14,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/turn-2024-and-2025-ukraine-desertion-has-become-nationwide-mainstream
-
 **Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, police, prisons, migration
 
 A moment from the joint rallies of Ukrainian, Russian and local opponents of the war held on December 21 in Berlin, Cologne and Paris. This photo is from Germany

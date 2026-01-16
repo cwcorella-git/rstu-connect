@@ -3128,24 +3128,23 @@ mate's skin is scraped away to provide easier access for execution personnel to 
 | Animals, euthanasia drugs, 92, 122 |
 ## | |
 
-
 AP, see Associated Press
 Arao, Henry, 183
 Archibald, Thayne, 197
-Arizona: gas chamber, 97, 111–12, 115; 
- hangings, 54–59; state prison, 54, 
+Arizona: gas chamber, 97, 111–12, 115;
+ hangings, 54–59; state prison, 54,
  57–58, 111–12
 Arizona Supreme Court, 56
-Arkansas: electrocutions, 161–62; 
+Arkansas: electrocutions, 161–62;
  lethal injections, 130, 134–36
 Armstrong, John, 185
 Arnold, Delmar, 192
 Associated Press (AP), 49–50
 Atkins, Philip, 203
 Atlanta Constitution, 2, 152–53, 156
-Auburn State Prison (New York), 
+Auburn State Prison (New York),
  68–69, 70
-## 
+##
 Baay, William, 5 Bailey, Brian, 31 Balch, Dr., 68 Ballard, J. W., 189 Balske, Dennis, 107, 197
 
 | Banks, Johnnie, 191 | 12–13, 14; legacy,

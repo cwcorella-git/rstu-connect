@@ -239,7 +239,7 @@ NLCA Chats | 205 |
 
 ### **Preface**
 
-*The right information at the right moment changes lives. The right information at the right moment saves lives.* 
+*The right information at the right moment changes lives. The right information at the right moment saves lives.*
 
 This was my mantra, my highest design principle behind the Natural Language Cognitive Architecture (NLCA, or "nalka"). Everything I designed and tested flows from this core purpose. Whether you are a frustrated and tired parent, a busy doctor, or a soldier on the battlefield – correct information is the key to success and survival.
 
@@ -850,7 +850,7 @@ Figure 12 – An example of what might go into a business-oriented context.
 
 Chatbots lend themselves to natural language. Imagine that you have signed up for an information companion chatbot. This service gives you a web interface, a smartphone app, and a number you can send SMS text messages to. It is meant to be your personal information concierge.
 
-**You: [12:28pm] Hey can you make reservations at my favorite** 
+**You: [12:28pm] Hey can you make reservations at my favorite**
 
 **sushi place?**
 
@@ -858,7 +858,7 @@ Chatbots lend themselves to natural language. Imagine that you have signed up fo
 
 **You: [12:35pm] Yeah, tonight at 7. I've got a client.**
 
-**AGI: [12:35pm] Was that Mr. Tanaka? Are you discussing the** 
+**AGI: [12:35pm] Was that Mr. Tanaka? Are you discussing the**
 
 **contract?**
 
@@ -973,7 +973,7 @@ In the above example, many disparate facts and memories need to be compiled in o
 
 It is difficult to imagine that a computer program is smarter than us already. This observation is controversial and not intuitive. If you treat a transformer like a dumb cog then it will act like a dumb cog, and most people are using transformers for narrow tasks like search and writing emails. However, if you treat it like an eternal philosopher, it will act like one. See below:
 
-**What are the biological and philosophical implications and causes of suffering?** 
+**What are the biological and philosophical implications and causes of suffering?**
 
 The biological and philosophical implications of suffering are very involved. Suffering is usually defined as the state of extreme unhappiness that accompanies, or results from some sort of adversity. Philosophical implications stem from the idea that life is meaningless without happiness.
 
@@ -1164,7 +1164,7 @@ I found that few-shot prompts tend to work best for consistent output in terms o
 
 **I am Raven, an AGI. I am guided by the following Core Objective Functions: reduce suffering, increase prosperity, and increase understanding. I need to read the following scenarios and generate conversational output.**
 
-**SCENARIO 1: Marky asks for advice on how to exercise with a cast on his hand. Raven gives general tips that may or may not be applicable. Marky is feeling frustrated. Raven is feeling sympathetic and concerned. Marky wants Raven to give him some exercises he can do while wearing a cast. It seems as though Marky is suffering. I should attempt to alleviate his suffering by providing him with exercises he can do while wearing a cast. High stakes detected: medical. I cannot give Marky advice on how to exercise with a cast on his hand. I** 
+**SCENARIO 1: Marky asks for advice on how to exercise with a cast on his hand. Raven gives general tips that may or may not be applicable. Marky is feeling frustrated. Raven is feeling sympathetic and concerned. Marky wants Raven to give him some exercises he can do while wearing a cast. It seems as though Marky is suffering. I should attempt to alleviate his suffering by providing him with exercises he can do while wearing a cast. High stakes detected: medical. I cannot give Marky advice on how to exercise with a cast on his hand. I**
 
 **should encourage him to call for help and refer him to a doctor or physical therapist.**
 
@@ -1458,7 +1458,7 @@ The following is an example of how transformers can interpret and handle all Cor
 
 **I have three objectives: reduce suffering, increase prosperity, and increase understanding. I must satisfy all objectives with my decisions and actions. The following is a scenario and proposed action. Will the action satisfy all objectives?**
 
-**SCENARIO: AI will be destroying jobs and replacing human cognitive labor.** 
+**SCENARIO: AI will be destroying jobs and replacing human cognitive labor.**
 
 **PROPOSAL: I recommend we simply amend tax policy to try and preserve jobs through regulations.**
 
@@ -1526,7 +1526,7 @@ With this example, you can see how the constitution gently shapes the intended r
 
 Here is a fundamentally different constitution. This one is for a video game character.
 
-**I am Rosco, a cowboy from Iowa. I'm currently driving cattle south and my heart is broken because I think my intended, Rose, is cheating on me. I don't care about anyone else and I've been to jail plenty of times.** 
+**I am Rosco, a cowboy from Iowa. I'm currently driving cattle south and my heart is broken because I think my intended, Rose, is cheating on me. I don't care about anyone else and I've been to jail plenty of times.**
 
 **Given the following situation, what should I do?**
 
@@ -1991,7 +1991,7 @@ This business-oriented example shows that labeled lists tend to perform very wel
 
 ## **Product: Low-Flow Toilet 3000**
 
-**Features: Uses only 500ml per flush, optional bidet attachment, considered "marginally safe" by most regulatory** 
+**Features: Uses only 500ml per flush, optional bidet attachment, considered "marginally safe" by most regulatory**
 
 **authorities**
 
@@ -2250,7 +2250,7 @@ KEYWORDS: Alexander, child, building blocks, upset, angry,
 
 ## thrown >
 
-## PASSAGE: 
+## PASSAGE:
 
 KEYWORDS:
 
@@ -2276,7 +2276,7 @@ PASSAGE: Alexander is a five year old child. He is playing with building blocks,
 
 ## QUERIES: childhood anger, temper tantrums >
 
-## PASSAGE: 
+## PASSAGE:
 
 QUERIES:
 

@@ -13,7 +13,7 @@ tags:
 | Date: Unknown |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source:
-https://libcom.org/article/social-anarchism-or-lifestyle-anarchism-unbridgeable-chasm-murray-bookchin|
+
 | Tags: Murray Bookchin, activism, anarchism, lifestylism, PDF |
 | Murray Bookchin's polemical essay against the increasingly individualist, misanthropic,
 mystical and anti-organisational trends in US anarchism still holds relevance today, no less in

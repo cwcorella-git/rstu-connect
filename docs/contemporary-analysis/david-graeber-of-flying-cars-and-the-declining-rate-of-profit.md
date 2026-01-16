@@ -127,9 +127,7 @@ There was a time when academia was society’s refuge for the eccentric, brillia
 
 If all this is true in the social sciences, where research is still carried out with minimal overhead largely by individuals, one can imagine how much worse it is for astrophysicists. And, indeed, one astrophysicist, Jonathan Katz, has recently warned students pondering a career in the sciences. Even if you do emerge from the usual decade-long period languishing as someone else’s flunky, he says, you can expect your best ideas to be stymied at every point:
 
-
 *You will spend your time writing proposals rather than doing research. Worse, because your proposals are judged by your competitors, you cannot follow your curiosity, but must spend your effort and talents on anticipating and deflecting criticism rather than on solving the important scientific problems. . . . It is proverbial that original ideas are the kiss of death for a proposal, because they have not yet been proved to work.*
-
 
 That pretty much answers the question of why we don’t have teleportation devices or antigravity shoes. Common sense suggests that if you want to maximize scientific creativity, you find some bright people, give them the resources they need to pursue whatever idea comes into their heads, and then leave them alone. Most will turn up nothing, but one or two may well discover something. But if you want to minimize the possibility of unexpected breakthroughs, tell those same people they will receive no resources at all unless they spend the bulk of their time competing against each other to convince you they know in advance what they are going to discover.
 
@@ -137,9 +135,7 @@ In the natural sciences, to the tyranny of managerialism we can add the privatiz
 
 There are many forms of privatization, up to and including the simple buying up and suppression of inconvenient discoveries by large corporations fearful of their economic effects. (We cannot know how many synthetic fuel formulae have been bought up and placed in the vaults of oil companies, but it’s hard to imagine nothing like this happens.) More subtle is the way the managerial ethos discourages everything adventurous or quirky, especially if there is no prospect of immediate results. Oddly, the Internet can be part of the problem here. As Neal Stephenson put it:
 
-
 *Most people who work in corporations or academia have witnessed something like the following: A number of engineers are sitting together in a room, bouncing ideas off each other. Out of the discussion emerges a new concept that seems promising. Then some laptop-wielding person in the corner, having performed a quick Google search, announces that this “new” idea is, in fact, an old one; it—or at least something vaguely similar—has already been tried. Either it failed, or it succeeded. If it failed, then no manager who wants to keep his or her job will approve spending money trying to revive it. If it succeeded, then it’s patented and entry to the market is presumed to be unattainable, since the first people who thought of it will have “first-mover advantage” and will have created “barriers to entry.” The number of seemingly promising ideas that have been crushed in this way must number in the millions.*
-
 
 And so a timid, bureaucratic spirit suffuses every aspect of cultural life. It comes festooned in a language of creativity, initiative, and entrepreneurialism. But the language is meaningless. Those thinkers most likely to make a conceptual breakthrough are the least likely to receive funding, and, if breakthroughs occur, they are not likely to find anyone willing to follow up on their most daring implications.
 

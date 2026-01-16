@@ -787,7 +787,7 @@ Lind by Noyler or only Keyler Cheny, Jerniter Shackelford, Dana Doffey and Megan
 
 ## Voice Editors
 
-**Production Assistant Video Post Production QA Testers** 
+**Production Assistant Video Post Production QA Testers**
 
 ## **Production Assistants**
 

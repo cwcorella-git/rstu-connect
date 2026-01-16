@@ -21,7 +21,7 @@ tags:
 
 **To cite this article:** Craig Jarvis (2022) Cypherpunk ideology: objectives, profiles, and influences (1992–1998), Internet Histories, 6:3, 315-342, DOI: [10.1080/24701475.2021.1935547](https://www.tandfonline.com/action/show Cit Formats?doi=10.1080/24701475.2021.1935547)
 
-**To link to this article:** 
+**To link to this article:**
 
 | © 2021 The Author(s). Published by Informa
 UK Limited, trading as Taylor & Francis
@@ -388,18 +388,18 @@ Craig Jarvis is an independent cyber security strategist completing a PhD in Inf
 
 #### **References**
 
-- Bartlett, J. (2016). *Cypherpunks write code*. American Scientist. [https://web.archive.org/](https://web.archive.org/web/20201209230910/) [web/20201209230910/](https://web.archive.org/web/20201209230910/) 
-- Bell, J. (1997, April 3). *Assassination Politics.* Cryptome. [https://web.archive.org/](https://web.archive.org/web/20210105223654/) [web/20210105223654/](https://web.archive.org/web/20210105223654/) 
+- Bartlett, J. (2016). *Cypherpunks write code*. American Scientist. [https://web.archive.org/](https://web.archive.org/web/20201209230910/) [web/20201209230910/](https://web.archive.org/web/20201209230910/)
+- Bell, J. (1997, April 3). *Assassination Politics.* Cryptome. [https://web.archive.org/](https://web.archive.org/web/20210105223654/) [web/20210105223654/](https://web.archive.org/web/20210105223654/)
 - Bellia, P. L. (2012\). Wiki Leaks and the institutional framework for national security disclosures. *The Yale Law Journal*, *121*(6), 1448–1526.
-- Beltramini, E. (2020). Against Technocratic Authoritarianism: A short intellectual history of the cypherpunk movement. *Internet Histories*. 
+- Beltramini, E. (2020). Against Technocratic Authoritarianism: A short intellectual history of the cypherpunk movement. *Internet Histories*.
 - Bentham, J. \(1843\). *The works of Jeremy Bentham, vol. 11 (Memoirs of Bentham Part II and Analytical Index)*. Online Library of Liberty.  [https://oll.](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index) [libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index)[ii-and-analytical-index](https://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-11-memoirs-of-bentham-part-ii-and-analytical-index)
-- Boaz, D. (2015). *The libertarian mind*. Liberatianism.org. [https://web.archive.org/](https://web.archive.org/web/20151029234532/) [web/20151029234532/](https://web.archive.org/web/20151029234532/) 
+- Boaz, D. (2015). *The libertarian mind*. Liberatianism.org. [https://web.archive.org/](https://web.archive.org/web/20151029234532/) [web/20151029234532/](https://web.archive.org/web/20151029234532/)
 - Böhme, R., Nicolas, C., Edelman, B., & Moore, T. (2015\). Bitcoin: Economics, technology, and governance. Journal of Economic Perspectives, *29*(2), 213–238. [https://doi.org/10.1257/](https://doi.org/10.1257/jep.29.2.213) [jep.29.2.213](https://doi.org/10.1257/jep.29.2.213)
 - Brautigan, R. \(1967). *All watched over by machines of loving grace*. brautigan.net. [https://web.](https://web.archive.org/web/20070223021032/http://www.brautigan.net/machines.html) [archive.org/web/20070223021032/http://www.brautigan.net/machines.html](https://web.archive.org/web/20070223021032/http://www.brautigan.net/machines.html)
 - Card, O. S. \(1985). *Ender's Game*. Tor Books.
-- Chaum, D. \(1985a\). Security without identification: Transaction systems to make Big Brother obsolete. *Communications of the ACM*, *28*(10), 1030–1044. 
+- Chaum, D. \(1985a\). Security without identification: Transaction systems to make Big Brother obsolete. *Communications of the ACM*, *28*(10), 1030–1044.
 - Chaum, D. \(1985b). *Security without identification: card computers to make Big Brother obsolete*. chaum.  [https://www.chaum.com/publications/](https://www.chaum.com/publications/Security_Wthout_Identification.html) [Security\\_Wthout\\_Identification.html](https://www.chaum.com/publications/Security_Wthout_Identification.html).
-- Cypherpunk Bitstream Podcast. (2020). *Cypherpunk bitstream podcast*. [https://web.archive.org/](https://web.archive.org/web/20210210062703/) [web/20210210062703/](https://web.archive.org/web/20210210062703/) 
+- Cypherpunk Bitstream Podcast. (2020). *Cypherpunk bitstream podcast*. [https://web.archive.org/](https://web.archive.org/web/20210210062703/) [web/20210210062703/](https://web.archive.org/web/20210210062703/)
 - Dahlberg, L. \(2010\). Cyber-Libertarianism 2.0: A discourse theory/critical political economy examination. *Cultural Politics: An International Journal*, *6*(3), 331–356.  [175174310X12750685679753](https://doi.org/10.2752/)
 
 Dexheimer, E. (1993, September 29). Secret agents. *Denver Westword*, *12*.
@@ -418,7 +418,7 @@ Levy, S. (2010\). *Hackers: Heroes of the Computer Revolution – 25th anniversa
 
 Martin, K. \(2020). *Cryptography: The key to digital security, how it works, and why it matters*. W. W. Norton & Company.
 
-Milhon, J. \(n.d\). *The nerdgirl's pillow book, or, the joy of hacker sex.* Jude Milhon's Webpage. [https://web.archive.org/web/20070814112409/](https://web.archive.org/web/20070814112409) 
+Milhon, J. \(n.d\). *The nerdgirl's pillow book, or, the joy of hacker sex.* Jude Milhon's Webpage. [https://web.archive.org/web/20070814112409/](https://web.archive.org/web/20070814112409)
 
 Orenstein, J. (2016, February 29). *Memorandum and Order*. United States District Court Easter District of New York.  [https://cdn1.vox-cdn.com/](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf) [uploads/chorus\\_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6124209/Orenstein-Order-Apple-i Phone-02292016.0.pdf)
 
@@ -426,7 +426,7 @@ Palys, T. \(2008). Purposive sampling. In L. M. Givens (Ed.), *The Sage encyclop
 
 Rid, T. (2016). *Rise of the machines: The lost history of Cybernetics*. W. W. Norton & Company.
 
-Rhoads, C. \(2007, January 13). *The twilight years of Cap'n Crunch.* Wall Street Journal. [https://](https://web.archive.org/web/20210314162356) [web.archive.org/web/20210314162356/](https://web.archive.org/web/20210314162356) 
+Rhoads, C. \(2007, January 13). *The twilight years of Cap'n Crunch.* Wall Street Journal. [https://](https://web.archive.org/web/20210314162356) [web.archive.org/web/20210314162356/](https://web.archive.org/web/20210314162356)
 
 Roszak, T. (1969\). *The making of a counter culture: Reflections on the technocratic society and its youthful opposition*. Anchor Books.
 
@@ -444,7 +444,7 @@ Vasvari, R., & Scarselli, G. (1996\). *Plaintiff seeks summary judgment in Cleve
 
 Vinge, V. (1981\). *True names*. Dell Publishing.
 
-Zimmermann, P. (n.d). *The early roots of PGP*. philzimmermann.com. [https://web.archive.org/](https://web.archive.org/web/20210128154041/) [web/20210128154041/](https://web.archive.org/web/20210128154041/) 
+Zimmermann, P. (n.d). *The early roots of PGP*. philzimmermann.com. [https://web.archive.org/](https://web.archive.org/web/20210128154041/) [web/20210128154041/](https://web.archive.org/web/20210128154041/)
 
 Zinn, H. (1980\). *A people's history of the United States*. Harper Collins Publishers.
 
@@ -490,9 +490,9 @@ Barlow, J. P. (1996\). A declaration of the independence of cyberspace. *Electro
 
 Blankenship, L. (1986). Hacker Manifesto/The Conscience of a Hacker. *Phrack Magazine* [https://](https://web.archive.org/web/20210224205447/http://phrack.org/issues/7/3.html) [web.archive.org/web/20210224205447/http://phrack.org/issues/7/3.html](https://web.archive.org/web/20210224205447/http://phrack.org/issues/7/3.html)
 
-Hughes, E. (1993, March 9). *A Cypherpunk's Manifesto*. activism.net. [https://web.archive.org/](https://web.archive.org/web/20210311174847/) [web/20210311174847/](https://web.archive.org/web/20210311174847/) 
+Hughes, E. (1993, March 9). *A Cypherpunk's Manifesto*. activism.net. [https://web.archive.org/](https://web.archive.org/web/20210311174847/) [web/20210311174847/](https://web.archive.org/web/20210311174847/)
 
-May, T. C. (1988). *Crypto-Anarchist Manifesto*. activism.net. [https://web.archive.org/](https://web.archive.org/web/20210224050018/) [web/20210224050018/](https://web.archive.org/web/20210224050018/) 
+May, T. C. (1988). *Crypto-Anarchist Manifesto*. activism.net. [https://web.archive.org/](https://web.archive.org/web/20210224050018/) [web/20210224050018/](https://web.archive.org/web/20210224050018/)
 
 May, T. C. (1994b, September 10). *The Cyphernomicon*. Nakamoto Institute. [https://web.archive.](https://web.archive.org/web/20201101035447/) [org/web/20201101035447/](https://web.archive.org/web/20201101035447/)
 

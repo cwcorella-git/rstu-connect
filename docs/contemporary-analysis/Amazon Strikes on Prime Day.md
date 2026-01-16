@@ -20,5 +20,3 @@ Meanwhile up to 3,000 workers at six Amazon facilities came out on strike in Ger
 Demonstrations against the plight of Amazon workers took place in the United States whilst a consumer boycott also took place over the Prime Day period.
 
 Original Article at:
-
-https://www.anarchistcommunism.org/2018/07/20/amazon-strikes-on-prime-day/

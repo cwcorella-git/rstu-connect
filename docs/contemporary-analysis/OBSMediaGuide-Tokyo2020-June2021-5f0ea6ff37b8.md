@@ -571,7 +571,7 @@ OBS is set to adopt 5G's wireless technology further for the broadcast of the Ol
 
 ## ![](_page_22_Picture_7.jpeg)
 
-Guillermo Jiménez Director of **Broadcast Engineering** 
+Guillermo Jiménez Director of **Broadcast Engineering**
 
 ## ![](_page_22_Picture_9.jpeg)
 

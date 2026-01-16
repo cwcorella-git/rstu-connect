@@ -87,7 +87,6 @@ Toni Cade Bambara: 1983, interviewed by Claudia Tate. Answering the question, "W
 
 This passage (along with the maxim first-quoted) guides us through this essay which stitches the following omnipresent theses into a quilt that keeps me warm at night:
 
-
 (
 1
 ) One of the greatest powers held in the human sovereign world is the
@@ -100,7 +99,7 @@ We are currently at war
 and (I would argue) in the
 exposition of a new world.
 (
-## 
+##
 | 3 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ) |

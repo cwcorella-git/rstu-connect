@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/strike-west-london-richmond-upon-thames-college-staff-fight-fire-and-rehire
-
 **Tags:** Anonymous, strikes, London, education, UCU
 
 On the week of 23rd May, UCU members at Richmond upon Thames College, a Further Education college in Twickenham, West London, will be on strike against a proposal by the College leadership to fire and rehire the entire teaching staff body onto an inferior contract that deprives teaching staff of 10 days' holiday.
@@ -79,7 +76,7 @@ We also insist on the necessity of building solidarity between education workers
 | [10] https://www.londonlibdems.org.uk/munira_wilson_mp_urges_govt_to_ban_fire_and_rehir
 e_policy |
 | [11]
-https://www.theatlantic.com/business/archive/2017/07/japan-mystery-low-birth-rate/534291/|
+
 | [12] https://en.internationalism.org/icconline/2007/kamagasaki|
 | [13] https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Wages-of-typic
 al-UK-employee-have-become-decoupled-from-productivity |

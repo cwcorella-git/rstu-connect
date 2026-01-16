@@ -25,11 +25,11 @@ Although this book started out as an individual project, in the end a great many
 
 *There are hidden stories all around us, growing in abandoned villages in the mountains or vacant lots in the city, petrifying beneath our feet in the remains of societies like nothing we've known, whispering to us that things could be different. But the politician you know is lying to you, the manager who hires and fires you, the landlord who evicts you, the president of the bank that owns your house, the professor who grades your papers, the cop who rolls your street, the reporter who informs you, the doctor who medicates you, the husband who beats you, the mother who spanks you, the soldier who kills for you, and the social worker who fits your past and future into a folder in a filing cabinet all ask* "WHAT WOULD YOU DO WITHOUT US? *It would be anarchy."*
 
-*And the daughter who runs away from home, the bus driver on the picket line, the veteran who threw back his medal but holds on to his rifle, the boy saved from suicide by the love of his friends, the maid who must bow to those who can't even cook for themselves, the immigrant hiking across a desert to find her family on the* 
+*And the daughter who runs away from home, the bus driver on the picket line, the veteran who threw back his medal but holds on to his rifle, the boy saved from suicide by the love of his friends, the maid who must bow to those who can't even cook for themselves, the immigrant hiking across a desert to find her family on the*
 
 *other side, the kid on his way to prison because he burned down a shopping mall they were building over his childhood dreams,*
 
-*the neighbor who cleans up the syringes from the vacant lot,* 
+*the neighbor who cleans up the syringes from the vacant lot,*
 
 *hoping someone will turn it into a garden, the hitchhiker on the open road,*
 
@@ -37,7 +37,7 @@ Although this book started out as an individual project, in the end a great many
 
 *maybe all of us can feel it:*
 
-*our bosses and tormentors are afraid of what they would do without us,* 
+*our bosses and tormentors are afraid of what they would do without us,*
 
 *and their threat is a promise the best parts of our lives are anarchy already.*
 
@@ -884,7 +884,7 @@ Derrick Jensen, *A Culture of Make Believe.* White River Junction, Vermont: Chel
 
 Vine Deloria, Jr. *Custer Died for Your Sins: an Indian Manifesto.* New York: Macmillan, 1969.
 
-Ward Churchill, *From a Native Son: Selected Essays on Indigenism 1985-1995,* Cambridge: South End Press, 1999; or his interview on Indigenism and Anarchism in the journal *Upping the Anti.* 
+Ward Churchill, *From a Native Son: Selected Essays on Indigenism 1985-1995,* Cambridge: South End Press, 1999; or his interview on Indigenism and Anarchism in the journal *Upping the Anti.*
 
 # 1. Human Nature
 
@@ -1078,7 +1078,7 @@ The anti-globalization movement can be contrasted with the anti-war movement tha
 
 The anti-war movement could not stop the occupation of Iraq, or even sustain itself, because people are neither empowered nor fulfilled by passively participating in symbolic spectacles. In contrast, the effectiveness of decentralized networks can be seen in the many victories of the anti-globalization movement: the summits shut down, the collapse of the WTO and FTAA, the dramatic scaling back of the IMF and World Bank.16 This non-hierarchical
 
-16 The victories of the movement and the failure of the IMF and World Bank are argued by David Graeber in "The Shock of Victory," *Rolling* 
+16 The victories of the movement and the failure of the IMF and World Bank are argued by David Graeber in "The Shock of Victory," *Rolling*
 
 movement demonstrated that people desire to free themselves from domination, and that they have the ability to cooperate in an anti-authoritarian manner even in large groups of strangers from different nations and cultures.
 
@@ -1330,7 +1330,7 @@ Gaston Leval, *Collectives in the Spanish Revolution*, London: Freedom Press, 19
 
 Melford E. Spiro, *Kibbutz: Venture in Utopia,* New York: Schocken Books, 1963.
 
-Peter Gelderloos, *Consensus: A New Handbook for Grassroots Social, Political, and* 
+Peter Gelderloos, *Consensus: A New Handbook for Grassroots Social, Political, and*
 
 *Environmental Groups*, Tucson: See Sharp Press, 2006.
 
@@ -2263,7 +2263,7 @@ Delegates from the aaruch kept meeting and created an interwilaya coordination. 
 
 *Against the policies of underdevelopment, pauperization, and miserablization of the Algerian people.*
 
-*Placing all the executive functions of the State including the* 
+*Placing all the executive functions of the State including the*
 
 *security forces under the effective authority of democratically elected bodies.*
 
@@ -2307,7 +2307,7 @@ From the very beginning, the political parties were threatened by the self-organ
 
 *Publicly resign from the movement before seeking any elected office.*
 
-*Not accept any political office (nomination by decree) in the institutions of power.* 
+*Not accept any political office (nomination by decree) in the institutions of power.*
 
 ## *Show civic-mindedness and respect to others.*
 
@@ -2521,7 +2521,7 @@ To be successful, revolution must occur on many fronts at once. It won't work to
 
 > I don't think December 2001 was a lost opportunity for revolution nor was it a failed revolution. It was and is part of the ongoing revolutionary process here. We have learnt many lessons about collective organizing and strength, and the barriers to self-management. For many people it opened their eyes to what we can do together, and that taking control of our lives and acting collectively whether it's as part of a piquete, a communal bakery or an afterschool club dramatically improves the quality of our lives. If the struggle stays autonomous and with the people the next uprising will have strong foundations to build upon…113
 
-113Natasha Gordon and Paul Chatterton, *Taking Back Control: A Journey* 
+113Natasha Gordon and Paul Chatterton, *Taking Back Control: A Journey*
 
 #### Recommended Reading
 
@@ -2541,7 +2541,7 @@ Jaime Semprun, *Apologie pour l'Insurrection Algérienne,* Paris: Editions de L'
 
 George Orwell, *Homage to Catalonia,* London: Martin Secker & Warburg Ltd., 1938.
 
-George Katsiaficas, *The Subversion of Politics: European Autonomous Social* 
+George Katsiaficas, *The Subversion of Politics: European Autonomous Social*
 
 *through Argentina's Popular Uprising*, Leeds (UK): University of Leeds, 2004. 114For those who cannot read French or Spanish, in 2004 Firestarter Press put out a good zine about this insurrection, called *"You Cannot Kill Us, We Are Already Dead":'Algeria's Ongoing Popular Uprising*.
 

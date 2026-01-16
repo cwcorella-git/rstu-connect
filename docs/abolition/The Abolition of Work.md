@@ -102,7 +102,4 @@ So the abolitionists will be largely on their own. No one can say what would res
 Life will become a game, or rather many games, but not—as it is now—a zero/sum game. An optimal sexual encounter is the paradigm of productive play. The participants potentiate each other's pleasures, nobody keeps score, and everybody wins. The more you give, the more you get. In the ludic life, the best of sex will diffuse into the better part of daily life. Generalized play leads to the libidinization of life. Sex, in turn, can become less urgent and desperate, more playful. If we play our cards right, we can all get more out of life than we put into it; but only if we play for keeps.
 
 Workers of the world… relax!
-
-http://www.inspiracy.com/black/abolition/abolitionofwork.html
-
 This essay originated as a speech in 1980. A revised and enlarged version was published as a pamphlet in 1985, and in the first edition of The Abolition of Work and Other Essays (Loompanics Unlimited, 1986). It has also appeared in many periodicals and anthologies, including translations into French, German, Italian, Dutch and Slovene. Revised by the author for the Inspiracy Press edition. | The 1985 original is available on [https://web.archive.org.](https://web.archive.org/web/20090209195926/www.primitivism.com/abolition.htm)

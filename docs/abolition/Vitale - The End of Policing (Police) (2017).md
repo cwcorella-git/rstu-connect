@@ -1864,7 +1864,6 @@ We must break these intertwined systems of oppression. Every time we look to the
 
 ### Index
 
-
 Abbott, Greg 189
 Advancement Project 71, 170, 238n7
 AFL-CIO 192
@@ -1899,7 +1898,7 @@ Bernstein, Elizabeth 247n21
 Biasotti, Michael 87
 Bittner, Egon 76–7, 241n2
 Black Lives Matter 55, 208, 218, 226
-## 
+##
 
 Black Panthers 49
 Black Youth Project 154–5, 225, 259n2
@@ -1946,7 +1945,7 @@ Csete, Joanne 248n13
 Cure Violence 174
 Currie, Elliott 171, 229, 253n24
 Czitrom, Daniel 229, 236n17
-## 
+##
 
 Daley, Robert 248n17
 Dashboard cameras 22–3
@@ -1991,7 +1990,7 @@ Garwood, Jesse 42
 Gates, Daryl 158, 169
 Gates, Henry Louis 3
 General Trade Union 37
-## 
+##
 
 German, Michael 258n35, 258n37
 Gilje, Paul 235n11
@@ -2037,7 +2036,7 @@ Illegal Immigration Reform and Immigration Responsibility Act 180, 183–4, 189
 Immigration and Customs Enforcement (ICE) 178, 182–5
 Immigration and Naturalization Service 180
 Immigration Movement International 196, 256n50
-## 
+##
 
 Immigration Restriction League 176
 Implicit bias 7–8, 24, 68
@@ -2082,7 +2081,7 @@ Law Enforcement against Prohibition 140
 Law Enforcement Assisted Diversion 85–6
 Law Enforcement Intelligence Unit 205
 Leahy, Patrick 179
-## 
+##
 
 Legalization of alcohol 222; of drugs 152–3, 222; of gambling 222; of sex work 124, 222
 Leone, Peter 74–5, 241n58
@@ -2128,7 +2127,7 @@ Neocleous, Mark 34, 235n6
 Nevins, Joseph 230, 253n2
 New York Civil Liberties Union 208, 213, 251n58, 258n44
 New Zealand Prostitution Law Review Committee 127
-## 
+##
 
 New York Police Department (NYPD) 1, 4, 7, 13, 15, 29, 37, 39, 70, 78, 83, 106, 112, 137,
  141–2, 165–6, 169, 183, 207–8, 212–14
@@ -2174,7 +2173,7 @@ Political policing 23, 36–42, 48–50, 197–220
 Posse Comitatus Act 189
 Powell, Kajieme 77
 President's Task Force on Twenty-First-Century Policing 13–14, 69, 233n34
-## 
+##
 
 Procedural Justice 13–15, 27
 Project Griffin 200
@@ -2219,7 +2218,7 @@ Simon, Jonathan 51, 53, 237n40
 Siraj, Shahawar Martin 212
 Slager, Michael 1
 Slave patrols 45–7
-## 
+##
 
 Slavery 45–7, 132, 225
 Smithsimon, Greg 235n57
@@ -2263,7 +2262,7 @@ Wald, Johanna 69, 240n48
 War on Crime 27, 50
 War on Drugs 3, 13, 22, 27, 53, 129–55, 185, 195, 222, 226
 War on Terror 3, 25, 27, 187, 201, 211–12
-## 
+##
 
 Watt, Peter 250n43, 256n48
 Watts riot 32

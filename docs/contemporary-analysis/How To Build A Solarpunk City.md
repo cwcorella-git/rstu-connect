@@ -441,56 +441,55 @@ the vision of face-to-face democracy seen in the Greek polis, nor do they posses
 
 Howard misses is that cities under capitalism are spaces of vast income
 
-
-inequality, time disparity, 
+inequality, time disparity,
 12:57
-and alienated labour. Though a necessary component in promoting community, 
-changing 
+and alienated labour. Though a necessary component in promoting community,
+changing
 13:03
-the design and layout of the city alone will not change that reality. In the end, 
-the garden city 
+the design and layout of the city alone will not change that reality. In the end,
+the garden city
 13:09
-vision leaves us with a bitter taste of compromise with certain aspects of 
-capitalism and the state, 
+vision leaves us with a bitter taste of compromise with certain aspects of
+capitalism and the state,
 13:15
 much like the ideology of Georgism as a whole. As Bookchin writes in The Limits of
-the City, 
+the City,
 13:22
-"[Howard's garden city does] not encompass the full range and possibilities of 
-human experience. 
+"[Howard's garden city does] not encompass the full range and possibilities of
+human experience.
 13:27
-Neighbourliness is mistaken for organic social intercourse and mutual aid; wellmanicured parks 
+Neighbourliness is mistaken for organic social intercourse and mutual aid; wellmanicured parks
 13:34
-for the harmonisation of humanity with nature; the proximity of work places for 
-the development 
+for the harmonisation of humanity with nature; the proximity of work places for
+the development
 13:39
-of a new meaning for work and its integration with play; an eclectic mix of ranchhouses, slab-like 
+of a new meaning for work and its integration with play; an eclectic mix of ranchhouses, slab-like
 13:45
-apartment buildings, and bachelor-type flats for spontaneous architectural 
-variety; shopping-mart 
+apartment buildings, and bachelor-type flats for spontaneous architectural
+variety; shopping-mart
 13:50
-plazas and a vast expanse of lawn for the agora; lecture halls for cultural 
-centres; hobby classes 
+plazas and a vast expanse of lawn for the agora; lecture halls for cultural
+centres; hobby classes
 13:56
-for vocational variety; benevolent trusts or municipal councils for selfadministration. Indeed, the appearance of community serves the ideological 
-function of concealing the 
+for vocational variety; benevolent trusts or municipal councils for selfadministration. Indeed, the appearance of community serves the ideological
+function of concealing the
 14:07
 incompleteness of an intimate and shared social life. Key elements of the self are
 14:13
-formed outside the parameters of the design — by forces that stem from economic 
-competition, class antagonisms, social hierarchy, domination, and economic 
-exploitation. Although people are 
+formed outside the parameters of the design — by forces that stem from economic
+competition, class antagonisms, social hierarchy, domination, and economic
+exploitation. Although people are
 14:24
-brought together to enjoy certain conveniences and pleasantries, they remain as 
-truncated and 
+brought together to enjoy certain conveniences and pleasantries, they remain as
+truncated and
 14:29
-culturally impoverished as they were in the metropolis, with the difference that 
-the stark reality of urban decay in the big cities removes any veil of 
-appearances from the incompleteness 
+culturally impoverished as they were in the metropolis, with the difference that
+the stark reality of urban decay in the big cities removes any veil of
+appearances from the incompleteness
 14:39
-and contradictions of social life." The problem with city planning that we must 
+and contradictions of social life." The problem with city planning that we must
 confront is that city planning alone is not enough. In fact, it can reinforce the
-## 
+##
 part as 14:55 a response to capitalists' utter inability to not generate unsanitary, inefficient, and
 
 ## 15:01

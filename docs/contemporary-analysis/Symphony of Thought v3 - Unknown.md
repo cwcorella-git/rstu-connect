@@ -77,7 +77,6 @@ Subjects: Computer Science | Artificial Intelligence | Ethics and Philosophy
 ## | Loops
 40 |
 
-
 Microservices 42
  Generation vs Discrimination 44
  Pattern Matching & Generation 45
@@ -106,7 +105,7 @@ Part 4: Cognitive Control 99
  Task Sets 109
  Self-Awareness 114
  Metacognition 120
-## 
+##
 Beliefs & Evidence 126 Identity & Persona 131 Spontaneity 136 Recap 138 Part 5: Learning 139 Record Everything 139 Security 140 Scale 141 Labeling Memories 144 Updating Models 147 Pipelines 148 Self-Correction & Error Detection 150 Types of Recall 152 Rapid Induction and Generalization 153
 
 ## Recap 154
@@ -584,7 +583,7 @@ The second heuristic imperative is to *increase prosperity*. Prosperity is a com
 
 The final heuristic imperative was inspired by human curiosity – one of the chief intellectual features that set us apart from all other animals. Curiosity is foundational to the human mind, so much so that it develops even before language. Preverbal toddlers demonstrate curiosity above and beyond any other animals, even dolphins and crows. Curiosity is *the desire to know or understand for its own sake*. Curiosity, while augmented by language, does not require language to work. Toddlers ask themselves wordless internal questions when they push their building blocks over or try to peek behind a mirror. They are wondering "What happens if...?" and "Where did that go...?" even if they cannot yet put words to it.
 
-Curiosity is a feature shared by all humans, to a greater or lesser degree. Certainly, some people are less curious than others, but we are all very curious animals. By endowing our ACE with a sense of curiosity, it will be inclined to explore, to advance its comprehension, and to teach others. Remember that this heuristic imperative is defined as *increase understanding for all intelligent entities* – that includes *itself!* 
+Curiosity is a feature shared by all humans, to a greater or lesser degree. Certainly, some people are less curious than others, but we are all very curious animals. By endowing our ACE with a sense of curiosity, it will be inclined to explore, to advance its comprehension, and to teach others. Remember that this heuristic imperative is defined as *increase understanding for all intelligent entities* – that includes *itself!*
 
 Curiosity is a powerful imperative, as it will drive the ACE to seek understanding in all things, for its own sake. Understanding can be the key to resolving conflicts, solving problems, and improving life for everyone.
 
@@ -1345,9 +1344,8 @@ In the same way, our robots must learn about their abilities and limits over tim
 
 Let's give a quick example before we move on about how self-awareness might look to GPT-3 embodied in a robot:
 
-
 I am a robot lifting a heavy box. What do the following logs mean?
-## 
+##
 ## CHASSIS LOAD: Maximum lift weight 85 kg exceeded
 
 Orientation sensor: angular momentum detected, pitching forward, acceleration detected
@@ -1420,7 +1418,7 @@ There is no clear goal or plan in the above thoughts, so it is difficult to say 
 
 It's important to note that this was out-of-the-box functionality. Without any finetuning or examples, GPT-3 was able to determine that, in this case, the robot is not thinking about the problem correctly. With some effort and finetuning, this could be amended further to make specific recommendations such as "shut off this brainstorming module and try a different one." Since these instructions and feedback can be quite flexible, it will also require a new paradigm of thought to design natural language programming within these microservices.
 
-There are, of course, more aspects of metacognition beyond steering thoughts. While a maestro conducts the orchestra and a sea captain orchestrates ship operations, so to do these great leaders consider the art of their profession. Few people on the planet read as much or think as deeply as naval commanders. They are prodigious contemplators of their role, their place in the world, and their purpose. Composers and conductors, meanwhile, study the human condition and emotion to great depths. To put it simply, another purpose of metacognition is to ask of ourselves the deceptively simple question *why?* Why did I do that? Why do I believe that? Why am I here? And by extension *what does it mean?* 
+There are, of course, more aspects of metacognition beyond steering thoughts. While a maestro conducts the orchestra and a sea captain orchestrates ship operations, so to do these great leaders consider the art of their profession. Few people on the planet read as much or think as deeply as naval commanders. They are prodigious contemplators of their role, their place in the world, and their purpose. Composers and conductors, meanwhile, study the human condition and emotion to great depths. To put it simply, another purpose of metacognition is to ask of ourselves the deceptively simple question *why?* Why did I do that? Why do I believe that? Why am I here? And by extension *what does it mean?*
 
 Let us perform some metacognition on the heuristic imperatives. I warn you; this rumination is very long!
 
@@ -1546,7 +1544,7 @@ Our identity, the answer to the question "who am I?" is the sum total of everyth
 
 Humans are rarely so unidimensional. Sometimes we have conflicting goals and interests, and various facets of our personality often have nothing to do with one another. We are so often shaped by our strengths and weaknesses. For instance, if someone is bad at math (or hates it despite being good at it) this will alter their trajectory for their entire life. They may gravitate towards people-oriented jobs instead of STEM. These tiny aspects of ourselves can have huge knock-on effects over the years. Consider how these little facets may also impact the persona you craft for the ACE you create.
 
-This is why I originally called my heuristic imperatives as *Core Objective Functions*. They represent the highest ideals to which I'd like my ACE to strive. In other words, I want my RAVEN project to construct an identity centered around benevolence as defined by the heuristic imperatives: *reduce suffering for all lifeforms, increase prosperity for all* 
+This is why I originally called my heuristic imperatives as *Core Objective Functions*. They represent the highest ideals to which I'd like my ACE to strive. In other words, I want my RAVEN project to construct an identity centered around benevolence as defined by the heuristic imperatives: *reduce suffering for all lifeforms, increase prosperity for all*
 
 lifeforms, and increase understanding for all intelligent entities. I will leave you with a final example of how this works.
 

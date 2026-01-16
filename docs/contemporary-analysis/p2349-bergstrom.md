@@ -139,13 +139,12 @@ Even with groups of related words, we must combine and prune our results to avoi
 
 3http://www.nuance.com/naturallyspeaking
 
-
 200 red (25) white (19) blue (3)
 150 color (25) pattern (20) red (5)
 100 red (10) white (10) green (6)
 ## ⇐200 red (20) white (16) blue (2) green (2)
 150 color (25) pattern (20) red (4)
-## 
+##
 **Figure 4. ESA results with significant overlap are combined into similar groups. The weight of the topic weight is the highest weight of the combined topics. Individual words are combined via weighted sum. For 'white,' this calculation is:** (200*·*19+100*·*10)*÷*(200+100) = 16**.**
 
 weighted results. The topics are combined after calculating a distance between all pairs. The distance is a relative difference between the word weights of the top words; sharing words indicates a much closer match. The pairs are combined until a maximum cutoff distance is exceeded.

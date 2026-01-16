@@ -4,5 +4,3 @@ category: theory
 tags:
   - theory
 ---
-
-

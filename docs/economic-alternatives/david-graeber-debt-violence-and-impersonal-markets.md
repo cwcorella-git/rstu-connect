@@ -290,7 +290,6 @@ One needs *a* market to exist in some immediate concrete form when one needs to 
 
 ### Bibliography
 
-
 Aglietta, M. and Orlean, A.
 
 1992 *La Violence de la monnaie*. Paris: PUF.

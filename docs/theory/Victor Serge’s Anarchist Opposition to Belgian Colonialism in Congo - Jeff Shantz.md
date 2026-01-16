@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/victor-serges-anarchist-opposition-belgian-colonialism-congo-jeff-shantz
-
 **Tags:** Jeff Shantz, Victor Serge, Congo, Belgium, colonialism, Anti-colonialism, anarchism
 
 The recent course of imperialism, and debates within anarchist movements over contemporary atrocities, reveal a certain lack of familiarity with anarchist positions on colonialism and imperialism. The positions of historic anarchists have been overlooked, forgotten, or largely lost to time.

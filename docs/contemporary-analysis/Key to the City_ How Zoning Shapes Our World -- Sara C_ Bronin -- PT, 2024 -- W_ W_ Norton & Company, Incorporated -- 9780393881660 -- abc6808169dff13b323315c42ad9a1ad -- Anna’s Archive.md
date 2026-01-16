@@ -1508,7 +1508,6 @@ Page numbers listed correspond to the print edition of this book. You can use yo
 
 Page numbers after 178 refer to endnotes.
 
-
 accessory dwelling units, 81–83
 accessory structures, 44
 accessory uses, 56, 113, 186
@@ -1533,7 +1532,7 @@ African American communities
  in the diverse makeup of the postwar city, 55
  food insecurity among, 195
  in Georgetown, 168
-## 
+##
 
 Great Migration to the North, 39–40
  in Hartford, 4–5, 116
@@ -1583,7 +1582,7 @@ Archive House, Chicago, 42–43, 185
 area median income, 76, 191, 194
 Arizona
  Mc Dowell Mountains, 128
-## 
+##
 
 Phoenix, 129–30, 134
  Scottsdale, 129–32, 134, 201, 202
@@ -1631,7 +1630,7 @@ Baltimore, MD, 29–34, 37, 39, 188
  city council, 37, 63
  downtown, 30–31, 63–65
  Great Fire of, 63
-## 
+##
 
 Inner Harbor, 63–64
  Jones Falls, 30, 62–64
@@ -1681,7 +1680,7 @@ Buffalo, NY, 23, 99–104, 169–70
 Builders Association of Metropolitan Pittsburgh v. City of Pittsburgh, 87, 195
 buildings. See housing; zoning
 Building Zone Resolution (New York City), 7
-## 
+##
 
 "build-to" lines, 142
 bulb-outs (curb extensions), 149, 150
@@ -1729,7 +1728,7 @@ Chicago, 39–41
  Jackson Park, 45
  Lake Michigan waterfront, 43
  "most dangerous block" in, 41
-## 
+##
 
 Parkway Garden Homes, 41, 185
  South Side, 39–45, 80, 151, 185
@@ -1779,7 +1778,7 @@ commercial use
  home-based businesses, 22, 28, 170
  malls, 24–27
  small-scale artisanal production, 29–38, 100, 116, 120, 170
-## 
+##
 
 strip malls, 3, 15, 44, 153, 154, 165
  tourism, 24–25, 62, 64, 65, 68, 88, 90–91, 157, 158, 161
@@ -1826,7 +1825,7 @@ craft brewers, 34–36
 Crosby, TX, 17, 19–20, 28, 34, 71–73
 Crystal Cathedral, Anaheim, 91, 97–98, 102, 107
 curb extensions (bulb-outs), 149, 150
-## 
+##
 
 Dallas, 104
 Decca, 48
@@ -1876,13 +1875,12 @@ downtown districts, 1–5, 8, 17, 22–24, 28
  Fresno, CA, 24
  Hartford, 1–5, 36, 124–25
  impact of COVID-19 on, 28–29
-## 
+##
 Nashville, 59–61, 187, 188 San Diego, 23–27 Sandpoint, ID, 94–95 Washington, D. C., 170 Dr. Wax Records, Chicago, 42 Driskill Hotel, Austin, 55, 57 Dubay, Lelaneia, 37 Dutch elm disease, 201
 
 East Atlantic Avenue, Delray Beach, FL, 152–57 East End neighborhood of Galveston, TX, 158–60, 161 Ebony magazine, 44 "ecosystem services," 125–27, 129 ecosystems, natural, 123–35 El Principe Azul nightclub, Houston, 15, 19 emergency zoning measures, 27–28 enforcement, 30, 58–59, 67–68, 156, 181 England, 17, 158 environmental issues algal blooms, 117 Clean Water Act, 117 conservation incentives, 110–11 conservation land, 20 conservation overlay districts, 49–50 "conservation"-type zoning protections, 186 "ecosystem services," 125–27, 129 environmental impact statements, 119 fossil fuels, 21, 93 greenhouse gas emissions, 93, 96, 164 heat islands, 9–10, 96, 125, 131, 134, 144 manure, 117–19 pollution, 4, 78, 96, 117, 128, 140, 141, 169, 200 See also water use and management environmental justice movement, 78 Environmental Protection Agency (EPA), 117, 141 Erie Canal, 102 "Euclidean" zoning, 20, 30–31, 181 European cities, 39, 68 "Everybody Loves a Parade" mural, Burlington, 137 exclusionary zoning, 16, 20, 35, 77–78, 79, 84–87, 106, 168
 
 family restaurants, 109–10 Farm Aid concert, 109–11, 119–20 farmland, 126–27 bans against agricultural use, 111, 114–15, 189 family farms, 109, 117, 119 "right-to-farm" laws, 118, 120
-
 
 See also agricultural use
 Fashion Valley mall, San Diego, 24–25
@@ -1930,7 +1928,7 @@ Galveston, TX, 157–61, 206
  The Strand, 157–58
 gambling, 63, 72, 161. See also Las Vegas, NV
 "garden city," 126, 201
-## 
+##
 
 Garden Grove, CA, 66–67, 91, 97–99, 104, 107, 196–97
 "Garden Grove" (song), 98
@@ -1980,11 +1978,10 @@ greenhouse gas emissions, 93, 96, 164
 green roofs, 132–33
 Greensheet newspaper, 72
 "Grow Boston" office, 114
-## 
+##
 Guaranty Building, Buffalo, 99 Guardian, The, 114 Gulf of Mexico, 117, 157 Gulfton neighborhood of Houston, 15–19, 28, 71–73, 77, 180, 181
 
 Hansberry, Lorraine, 41, 45–46 hardship clauses, 36, 159–60 Hartford Athletic soccer team, 37 Hartford Courant, 37 Hartford, CT, 1–11, 34–37, 149–50, 172–73 Albany Avenue area of, 2–5, 110, 173 asthma, 4, 178 Avon, a suburb outside, 4 Bowles Park, 149–50 Bushnell Park, 124 car dealers in, 198 the Charter Oak, 123–25, 127 Colt Armory, 35–37, 123 downtown, 1–11, 36, 124–25 food insecurity in, 110–11, 114–16, 119–20 Food Policy Commission, 110, 114–15, 125 Keney Park, 115–16 lot size mandates, 88 mixed-use districts in, 36 nature in, 123–25 nightlife in, 58–59, 65 North End neighborhood of, 149 parking mandates in, 95, 102–3 race and affordable housing in, 78–79, 88 rezoning in, 35–38 State Capitol building in, 123 Thomas Hooker Brewery, 35–37 Twain's neighborhood in, 2–3, 10 Wadsworth Atheneum, 124, 126 Hartford Daily Courant, 123 Hartford Flavor Company, 37 Hartford Public Library, 2 Hartford Public Schools, 116 Harvard University, 79–80 healthcare and health outcomes. See public health heat islands, 9–10, 96, 125, 131, 134, 144 Hispanic communities. See Latino communities Historical Zoning District Ordinance of Galveston, TX, 158 historic architecture, 3, 9–10, 42, 99, 143, 158–62 Historic Nashville, 50–51 home-based businesses, 22, 28, 170 homelessness, 76
-
 
 homeownership
  closing the gaps in, 86
@@ -2032,7 +2029,7 @@ hurricanes, 71–72, 153, 158
 Hustler Club, 64
 Idaho, 94–95, 102, 104
 Illinois, 40. See also Chicago
-## 
+##
 immigrant communities, 16, 19, 23, 40, 79, 157, 179, 180 immunity, 145–46, 148, 204 incentives, 51–52, 96, 105, 110–11, 133 inclusionary zoning, 85–87, 88, 105, 171, 195 Indigenous peoples, 129, 132 industrial use oil and gas industry, 16, 73 shipping infrastructure, 64, 158 See also commercial use infill development, 25, 62, 75–76, 182, 183 Inner Harbor, Baltimore, 63–64 Institute of Transportation Engineers (ITE), 96–97 institutional inertia, 10, 148 Interstate 610 (I-610), 72, 75 interstate highway system, 35, 57, 72, 75, 92 Intracoastal Waterway, 152, 157 Iowa, 88, 118, 200 Italianate architecture, 158
 
 Jackson, Alan, 49 Jackson Park, Chicago, 45 Jackson, WY, 88 Jagger, Mick, 37 Japanese kintsugi style art, 144 Jennings, Waylon, 48 Jet magazine, 44 Jewish communities, 17, 55 Jim Crow laws, 39 Johns Hopkins University, 32 Johnson, Philip, 91 Jones Falls, Baltimore, 30, 62–64 Jones, George, 48, 119 Joplin, Janis, 54
@@ -2040,7 +2037,6 @@ Jackson, Alan, 49 Jackson Park, Chicago, 45 Jackson, WY, 88 Jagger, Mick, 37 Jap
 "Keep Austin Weird," 59 Keney, Henry, 115–16 Keney Park Sustainability Project, 115–16 Kentucky, 40 Kinder Institute, Rice University, 180, 181 King, Martin Luther, 3
 
 La Jolla, CA, 167 Lake Champlain, 140, 141, 141 Lake Erie, 117 Lake Michigan, 43 landscaping, 26, 58–59, 102–3, 113, 115, 127, 130–32, 134, 138, 142–44, 150, 170
-
 
 land use, 1, 6–7, 19, 20–25. See also agricultural use; commercial use; housing;
     nightlife; zoning
@@ -2088,7 +2084,7 @@ maps, zoning, 5–9, 31, 162, 207
 marijuana, 68, 115
 Marohn, Charles, 164
 Marston, Hamilton, 24, 25, 182
-## 
+##
 
 Maryland, 30–32, 168, 183. See also Baltimore, MD
 Massachusetts, 105, 193. See also Boston, MA
@@ -2138,7 +2134,7 @@ mixed-use districts, 8, 22–27, 99, 142–43, 170
 Monkkonen, Paavo, 84, 194
 Moreno, Vivian, 26
 mortgages, 92, 160
-## 
+##
 
 mortuaries, 198
 Most Endangered Places list, 50
@@ -2186,7 +2182,7 @@ neighborhoods
  nostalgia for "traditional," 153
  See also communities; specific cities and neighborhoods
 Neighbors for More Neighbors (N4MN), 81–84
-## 
+##
 
 Nelson, Willie, 48, 54, 109, 119
 Neutra, Richard, 91
@@ -2233,7 +2229,7 @@ overlay districts, 65
  adult use, 188
  conservation, 49–50
  historic, 181–82
-## 
+##
 
 parking
  parking generation rates, 96–97
@@ -2283,7 +2279,7 @@ poverty
  childhood poverty, 197
  generational poverty, 79–80
  measuring, 85, 93, 110
-## 
+##
 
 "segregation of the affluent," 84, 194
 preservation, 10, 50–52, 73, 160–61, 165, 168, 169, 181–82
@@ -2331,7 +2327,7 @@ rain gardens, 141–44
 rainwater harvesting, 131–33, 141, 202
 Raisin in the Sun, A (Hansberry), 45
 RCA Studios, 48
-## 
+##
 
 real estate. See development
 "redemptive architecture," 46
@@ -2379,7 +2375,7 @@ Ryman Auditorium, Nashville, 59–60
 Sacramento, CA, 103–4, 198
 Saks Fifth Avenue, 25
 San Diego, CA, 23–27, 31, 102, 105, 142–43, 183, 207
-## 
+##
 
 city council, 24–27, 183
  downtown, 23–27
@@ -2429,7 +2425,7 @@ single-family housing, 8, 17, 20–21, 40, 181
 single-use zoning, 25–27, 99. See also mixed-use districts
 Sixth Street, Nashville, 54–59, 80, 187
 small-scale artisanal production, 29–38, 100, 116, 120, 170
-## 
+##
 
 small-scale housing development, 76, 84, 103
 Smart Growth America, 139–40
@@ -2479,7 +2475,7 @@ suburbs, 3–5, 21
  Levittown, 92
  malls, 24–27
  office districts in the, 28
-## 
+##
 
 stagnation of the, 31
  "streetcar suburbs," 47, 169
@@ -2527,9 +2523,8 @@ transportation, 90–108
  walking distance and access to, 106, 127
  See also automobiles; bicycling; pedestrians; public transportation
 Tucson, AZ, 11, 130, 131, 132, 134–35, 202
-## 
+##
 ## Vaughn, Stevie Ray, 54
-
 
 U. S. Submarine Sandwiches, 16, 180
 uncertainty, 19, 51, 61, 83
@@ -2574,7 +2569,7 @@ Urban Street Design Guide, 149
 utilitas, venustas, and firmitas (utility, delight, and firmness), 172
 vacancies/vacant lots, 31–32, 61, 80
 variances, 36–38, 61–62, 103, 185, 187
-## 
+##
 
 vehicle miles traveled, 93, 101
 Vermont, 136. See also Burlington, VT
@@ -2620,7 +2615,7 @@ Wyoming, 88
 "yes-in-my-backyard" (YIMBY), 82–83
 Young, Neil, 109
 "zone lots," 146–47, 204
-## 
+##
 
 zoning, 1–11, 166–73
  for accessory uses, 56, 113, 186
@@ -2670,7 +2665,7 @@ zoning, 1–11, 166–73
  "use tables" in, 20, 171
  vacancies/vacant lots, 31–32, 61, 80
  variances, 36–38, 61–62, 103, 185, 187
-## 
+##
 zoning's power for good, 5, 172 See also development; governance; maximums and minimums; rezoning
 
 #### Copyright © 2024 by Sara C. Bronin

@@ -9,9 +9,7 @@ tags:
 - housing
 - Nevada
 ---
-# Six ways Nevada policymakers are trying to tackle the housing crisis - Carson Now
----
-Six ways Nevada policymakers are trying to tackle the ...             https://www.carsonnow.org/04/13/2025/six-ways-nevada...
+
 by
 Sunday, April 13, 2025 - 9:30am
 New home construction in northwest Reno on April 7, 2025. Credit: David Calvert/The Nevada Independent
@@ -19,7 +17,7 @@ By Lizzie Ramirez — When Emma Goabel moved into her first apartment, her washe
 and back door lock were all broken.
 It took a month for the landlord to fix the appliances and replace the locks.
 ---
-Six ways Nevada policymakers are trying to tackle the ...     https://www.carsonnow.org/04/13/2025/six-ways-nevada...
+
 “We couldn’t lock our door at night,” said Goabel, 20. “We just locked our bedroom doors at night [and]
 pray[ed] for the best. They said it wasn’t that big of an issue.”
 Many renters face similar issues. But finding a new place with a better landlord isn’t easy in Nevada’s pricey
@@ -47,7 +45,7 @@ now.”
 Opponents, including Realtors and landlords, argue that any form of rent control will hurt Nevada’s housing
 market and have made the policy the focus of a major ad campaign. Instead, they say the Legislature should
 focus on building more housing units to increase supply and satisfy demand.
-Six ways Nevada policymakers are trying to tackle the ...     https://www.carsonnow.org/04/13/2025/six-ways-nevada...
+
 The Nevada Realtors supported the idea of rent caps for seniors last legislative session, but now oppose the
 bill.
 “It’s no longer a pandemic … we need to let the market figure itself out,” Azim Jessa, an executive board
@@ -68,7 +66,7 @@ The Northern Nevada Central Labor Council (NNCLC), a union whose members include
 construction industry, is also lobbying for the bill on behalf of retirees.
 “We’re not doing a good enough job of taking care of our older community and at a national level, we’re
 actively working to make sure that they’re even worse off personally,” NNCLC President Ross Kinson said.
-Six ways Nevada policymakers are trying to tackle the ...              https://www.carsonnow.org/04/13/2025/six-ways-nevada...
+
 Housing for rent in Reno on April 7, 2025. (David Calvert/The Nevada Independent)
 Tightening renter protections
 Similarly, proponents say another bill, AB223, would create safer and healthier living conditions by giving
@@ -89,7 +87,7 @@ Considine told The Nevada Independent. “They’re working class people that ar
 environment.”
 Building more housing
 ---
-Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonnow.org/04/13/2025/six-ways-nevada...
+
 Lawmakers are also focused on speeding up delays in housing development, which stem from building
 slowdowns during the 2008 Great Recession and the COVID-19 pandemic, along with the rising costs of
 housing materials, zoning regulations, permitting processes and widespread federal land ownership.
@@ -117,7 +115,7 @@ support concepts such as a light rail system. AB256, a bill sponsored by Assm. S
 Reno), would start the process of creating a regional train system in Nevada. The bill was passed out of
 committee in late March.
 ---
-Six ways Nevada policymakers are trying to tackle the ...     https://www.carsonnow.org/04/13/2025/six-ways-nevada...
+
 “Good cities become great cities because they invest in their infrastructure [and] public transit,” Kinson said.
 Incentivizing more projects
 Lombardo also introduced his own housing bill, AB540, which would put forward $250 million in state
@@ -145,7 +143,7 @@ We want the people who work in Nevada to be able to buy a home in Nevada, and th
 there.”
 Tackling high interest rates
 ---
-Six ways Nevada policymakers are trying to tackle the ...    https://www.carsonnow.org/04/13/2025/six-ways-nevada...
+
 With rising interest rates in the last few years further driving up the cost of buying a home, Sen. Fabian
 Doñate (D-Las Vegas) is hoping to minimize those burdens through his bill SB193, which would require the
 state’s housing division to establish a pilot program to help eligible families buy down the interest rate on

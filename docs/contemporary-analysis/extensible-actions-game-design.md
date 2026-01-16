@@ -144,7 +144,7 @@ automated programs from posting comments. |
 | Post a comment |
 | Sign in with
 Typepad
-Facebook
+
 Twitterand more |
 | F O L L O W W H A T G A M E S A R E |
 | What Games Are is about game design, game development, games as art, craft, culture and industry and how you can

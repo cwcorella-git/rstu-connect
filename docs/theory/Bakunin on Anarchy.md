@@ -16,7 +16,6 @@ tags:
 
 ## **1971**
 
-
 Prefatory Note
  Preface
  Introduction
@@ -53,11 +52,10 @@ II. The Anarchism of Michael Bakunin
  IV. L'Égalité, August 28, 1869;
 III. The Franco-Prussian War and the Paris Commune
  1870 — Letter to Albert Richard
-## 
+##
 Postscript to the Letter to Albert Richard
 
 1870 — *Letters to a Frenchman on the Present Crisis*
-
 
 General Problems of the Social Revolution
  The Revolutionary Temper and Its Matrix
@@ -92,7 +90,7 @@ IV. Final Years
  V
  VI
 Selected Bibliography
-## 
+##
 ## **Prefatory Note**
 
 ## A Note About the Editor

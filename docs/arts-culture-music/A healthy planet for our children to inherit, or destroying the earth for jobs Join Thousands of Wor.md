@@ -92,9 +92,6 @@ towens@buildingtrades.org
 communications@liuna.org
 
 ## UA: Mark Mc Manus (410) 269-2000 |
-
-http://www.ua.org/contact
-
 Workers' rights are inseparable from indigenous rights, and from the right of all people to a clean environment. As the Standing Rock Sioux say, "Mni Wiconi" – water is life. There are no jobs, or life, on a dead planet. We need a just transition and full employment to build a sustainable world. We hope you will join us in that fight.
 
 #Mni Wiconi #Water IsLife! #NoKXL! #NoDAPL!

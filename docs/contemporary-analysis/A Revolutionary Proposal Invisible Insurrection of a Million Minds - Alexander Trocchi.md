@@ -8,9 +8,6 @@ category: "contemporary-analysis"
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/revolutionary-proposal-invisible-insurrection-million-minds-alexander-trocchi
-
 ## **Tags:** Alexander Trocchi, art, education
 
 Trocchi's proposals for a radical education establishment, which fed into the creation of the Anti University in Shoreditch, London in 1968. From Internationale Situationniste #8 (January 1963).

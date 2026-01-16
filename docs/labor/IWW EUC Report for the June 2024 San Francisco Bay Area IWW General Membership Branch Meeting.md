@@ -68,9 +68,6 @@ w-earth-firster-karen-pickett/ |
 # A. Background
 
 - In 2016, the Bay Area IWW became one of 21 Bay Area unions to oppose coal exports through a proposed Bulk Oversized Terminal being constructed in the Port of Oakland. (Details here:
-
-https://nocoalinoakland.info
-
 ## )
 
 ## B. Proposal
@@ -121,9 +118,6 @@ among workers who create, design, build, and engineer the weapons used in Israel
 campaign of genocide. This bodes well not only for ending decades long oppression of
 Palestine, but workers taking a stand against ecological destruction and fossil fuel
 extractivism: |
-
-https://www.californiaclimatejobsplan.com/
-
 ## III. Bay Area and California Green Unionism
 
 #### A. SB 252
@@ -147,9 +141,6 @@ for job creation. |
 | - This coalition formed out of the unions that initially endorsed the "California Climate Jobs
 Plan" - |
 ## | |
-
-https://www.californiaclimatejobsplan.com/
-
 | . They are mostly concerned with lobbying the California State Government at this point.
 Details here: |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -215,25 +206,13 @@ lot of back-patting by the Biden Administration, they are at least publicly ackn
 these projects cannot be built without union, environmentalist, and indigenous support. Details here:
 
 Biden-Harris Administration Celebrates Progress in Domestic Floating Offshore Wind -
-
-https://cleantechnica.com/2024/05/16/biden-harris-administration-celebrates-progress-in-domestic-floating-offshore-wind/
-
 #### G. Gaza / Student Occupations
 
 - There is growing union support for a ceasefire, the student occupations, and BDS, including among workers who create, design, build, and engineer the weapons used in Israel's ongoing campaign of genocide. This bodes well not only for ending decades long oppression of Palestine, but workers taking a stand against ecological destruction and fossil fuel extractivism:
 
 How UC Researchers Began Saying No to Military Work -
-
-https://www.labornotes.org/blogs/2024/05/how-uc-researchers-began-saying-no-military-work
-
 A letter from Black Rose Anarchist Militants in California Public Universities to our Classmates and Colleagues -
-
-https://blackrosefed.org/letter-california-public-universities/
-
 Statement of Solidarity with Students, Workers, and Palestine -
-
-https://www.labor4sustainability.org/articles/statement-of-solidarity-with-students-workers-and-palestine/
-
 | Unions Support Student Protestors Against Campus Administrators and Police - |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://www.labornotes.org/2024/05/unions-support-student-protestors-against-campus-admi

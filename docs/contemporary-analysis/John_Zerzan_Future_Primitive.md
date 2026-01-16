@@ -421,21 +421,20 @@ Like language, tonality is historically characterized by its unfreedom. We are m
 
 # **Chapter 4: The Catastrophe of Post-Modernism**
 
-
- 1. 
-The primacy of language & the end of the subject 
-2. 
-The exhaustion of modernism & the rise of postmodernism 
-3. 
-The celebration of impotence 
-4. 
-Derrida, deconstruction & diff'rance 
-5. 
-The crisis of representation 
-6. 
-Barthes, Foucault & Lyotard 
+ 1.
+The primacy of language & the end of the subject
+2.
+The exhaustion of modernism & the rise of postmodernism
+3.
+The celebration of impotence
+4.
+Derrida, deconstruction & diff'rance
+5.
+The crisis of representation
+6.
+Barthes, Foucault & Lyotard
 7.
-## 
+##
 ## *Deleuze, Guattari & Baudrillard*
 
 Madonna, "Are We Having Fun Yet?", supermarket tabloids, Milli Vanilli, virtual reality, "shop 'till you drop," Pee Wee's Big Adventure, New Age/computer 'empowerment', mega-malls, Talking Heads, comic-strip movies, 'green' consumption. A build-up of the resolutely superficial and cynical. Toyota commercial: "New values: saving, caring—all that stuff;" Details magazine: "Style Matters;" "Why Ask Why? Try Bud Dry;" watching television endlessly while mocking it. Incoherence, fragmentation, relativism—up to and including the dismantling of the very notion of meaning (because the record of rationality has been so poor?); embrace of the marginal, while ignoring how easily margins are made fashionable. "The death of the subject" and "the crisis of representation."
@@ -790,7 +789,7 @@ Yes, Europe is so old and artificial, America is so fresh and blank as to be tru
 
 It is not that this anti-cultural hero never says anything valid. In noticing the ubiquitously selfpublicizing nature of U. S. society: "The American flag itself bears witness to this by its omnipresence...not as a heroic sign but as the trademark of a good brand." Maybe not terribly deep, but OK. It is very daunting, though, how rare are such moments of intelligence, how lacking in irony overall is the stream of downright silly and reactionary commentary.
 
-Continuing on, the reader begins to get a bearing on Baudrillard's perspective. Celebrating American ascendance, especially in his loving attention to the superficial, he comes into focus: this is the utter fascination with what is seen as the triumphant, the view of one for whom subjugation is taken for granted. He basks in the radiance of capital's imagined transcendence and transforms this into liberation. Thus the motel maid he encounters functions *"in total* 
+Continuing on, the reader begins to get a bearing on Baudrillard's perspective. Celebrating American ascendance, especially in his loving attention to the superficial, he comes into focus: this is the utter fascination with what is seen as the triumphant, the view of one for whom subjugation is taken for granted. He basks in the radiance of capital's imagined transcendence and transforms this into liberation. Thus the motel maid he encounters functions *"in total*
 
 *freedom"* (italics his). Here is that state where "politics *frees itself* in the spectacle" (italics his). Utopia. Paradise.
 
@@ -808,7 +807,7 @@ Adorno, T. (1974) *Introduction to the Sociology of Music.* New York: Seabury Pr
 
 Agel, Jerome (1971) *The Radical Therapist.* New York
 
-Ainsworth, Mary D. S. (1967) *Infancy in Uganda Infant Care and Growth.* 
+Ainsworth, Mary D. S. (1967) *Infancy in Uganda Infant Care and Growth.*
 
 Allport, Gordon (1983) "Language and Cognition" in *Approaches to Language,* ed. R. Harris. Oxford.
 
@@ -844,7 +843,7 @@ Binford, Lewis R. (1968) New *Perspectives in Archaeology.* Chicago: Aldine.
 - —. (1984) *fauna! Remains from Klasies River Mouth.* NY: Academic Press.
 - —. (1989) "Were There Elephant Hunters at Tooralba?" in *The Evolution of Modern Hunting,* eds. Nittecki and Nittecki. New York.
 
-Bittker (February 1985) "The Industrialization of American Psychiatry" *American Journal of Psychology.* 
+Bittker (February 1985) "The Industrialization of American Psychiatry" *American Journal of Psychology.*
 
 Bloch, M. (1977) "The Past and the Present" in the *Present Man.* vol.12.
 
@@ -876,7 +875,7 @@ Burkhardt, J. (1958) *The Renaissance in Italy, II.* New York: Harper and Row.
 
 Canetti, E. (1978) *The Human Province.* New York: Seabury Press. Translated by Joachim Neugroschel.
 
-Castel and Lovell (1982) *The Psychiatric Society.* 
+Castel and Lovell (1982) *The Psychiatric Society.*
 
 Chenneviere, R. (1920) "The Rise of the Musical Proletariat," in *The Musical Quarterly,* v.6.
 
@@ -942,11 +941,11 @@ Festinger, Leon (1983) *The Human Legacy.* New York: Columbia Univ. Press.
 
 Foster, Mary Le Cren (1990) "Symbolic Origins and Transitions in the Paleolithic" in the *Emergence of Modern Humans,* ed. Paul Mellars. Ithaca, NY.
 
-Foucault, Michel (1972) *The Archaelogy of Knowledge.* 
+Foucault, Michel (1972) *The Archaelogy of Knowledge.*
 
 Freedman, F., ed. (1968) *Lectures on the History and Art of Music.* New York: Da Capo Press.
 
-Freud, Sigmund (1904) *Psychology of Everyday Life.* 
+Freud, Sigmund (1904) *Psychology of Everyday Life.*
 
 —. (1920) *A General Introduction to Psychoanalysis.* Garden City, NY: Garden City Publishing Co.
 
@@ -978,9 +977,9 @@ Gross, Martin L. (1978) *The Psychological Society.* New York
 
 Hadingham, Evan (1979) *Secrets of the Ice Age.* New York.
 
-Hali, Trish (Jan 2, 1988) "Why All Those People Fell They Never Have Any Time" *New York Times.* 
+Hali, Trish (Jan 2, 1988) "Why All Those People Fell They Never Have Any Time" *New York Times.*
 
-Harman, David (1987). *Illiteracy: A National Dilemma.* 
+Harman, David (1987). *Illiteracy: A National Dilemma.*
 
 Harner, Michael (1972) *The Jivaro, People of the Sacred Waterfalls.* Berkeley.
 
@@ -990,13 +989,13 @@ Harris, Marvin and Eric Ross (1987) *Food and Evolution.* Philadephia.
 
 Hill, C. (1961) *The Century of Revolution.* Edinburgh: T. Nelson.
 
-Hinds, Michael de Courcy (Feb. 17, 1990) *New York Times.* 
+Hinds, Michael de Courcy (Feb. 17, 1990) *New York Times.*
 
 ## Hochschild, Russell (1983) *Managed Heart.*
 
 Hogg, Gary (1966) *Cannibalism and Human Sacrifice.* New York.
 
-Hollingshead and Redlich (1958) *Social Class and Mental Illness.* 
+Hollingshead and Redlich (1958) *Social Class and Mental Illness.*
 
 Holloway, R. L. (1972) "Australopithicene endocasts..." in *Primitive Functional Morphology and Evolution,* ed. by R. W. Turtle. The Hague.
 
@@ -1030,7 +1029,7 @@ Kelly, Robert L. (1991) "Sedentism, Sociopolitical Inequality, and Resource Fluc
 
 Carbondale, IL. Kern, S. (1983) *The Culture of Time and Space, 1880-1918.* Cambridge, MA: Harvard University Press.
 
-Kernberg, Otto (1975) *Borderline Conditions and Pathological Narcissism.* 
+Kernberg, Otto (1975) *Borderline Conditions and Pathological Narcissism.*
 
 Kittrie, Nicholas N. (1971) *The Right to Be Different: Deviance and Enforced Therapy.* Baltimore
 
@@ -1129,7 +1128,7 @@ Nettl, B. (1985) *The World Impact of Western Music.* New York: Schirmer Books.
 
 Nietzsce, F. (1964) "The Case of Wagner" and "Twilights of the Idols." *Works.* New York: Russell and Russell
 
-Nisbet, Robert. *The Present Age: Progress and Anarchy in North America.* 
+Nisbet, Robert. *The Present Age: Progress and Anarchy in North America.*
 
 Norbeck, Edward (1961) *Religion in Primitive Society.* New York: Harper.
 
@@ -1161,7 +1160,7 @@ Post, Laurens van der (1958) *The Lost World of the Kalahari.* New York.
 
 Post, Laurens van der and Jane Taylor (1984) *Testament to Bushmen.* New York.
 
-Postman, Neil (1985) *Amusing Ourselves to Death.* 
+Postman, Neil (1985) *Amusing Ourselves to Death.*
 
 Radin, Paul (1937) *Primitive Religion.* New York: Dover Publications.
 
@@ -1173,7 +1172,7 @@ Raynor, H. (1972) *A Social History of Music.* New York: Schocken Books.
 
 Reese, G. (1959) *Music in the Renaissance.* New York: Norton.
 
-Regier, Boyd, et. al. (Nov 1988) *Archives of General Psychiatry.* 
+Regier, Boyd, et. al. (Nov 1988) *Archives of General Psychiatry.*
 
 Reich, Wilhelm. (1970) *The Mass Psychology of Fascism* New York
 
@@ -1193,7 +1192,7 @@ Rosen, R. D. (1977) *Psychobabble.* New York.
 
 Rothbarm and Weisz (1989) *Child Psychopathology and the Quest for Control.*
 
-Roustang, Francois (1983) *Psychoanalysis Never Lets Go* 
+Roustang, Francois (1983) *Psychoanalysis Never Lets Go*
 
 Rowell, L. (1983) *Thinking About Music.* Amherst: University of Massachusetts Press.
 
@@ -1209,7 +1208,7 @@ Sanday, Peggy Reeves (1986) *Divine Hunger: Cannibalism as a Cultural System.* N
 
 Sansom, Basil (1980) *The Camp at Wallaby Cross.* Canberra: Australia Institute of Aboriginal Studies.
 
-Schaef, Anne Wilson (1987) *Society Becomes an Addict.* 
+Schaef, Anne Wilson (1987) *Society Becomes an Addict.*
 
 Schenker, H. (1973) *Harmony.* Cambridge, MA: Harvard University Press.
 
@@ -1221,7 +1220,7 @@ Sheldon, D. (1986) "The Fugue as an Expression of Classical Values," *Internatio
 
 Shepherd, J. ed. (1980) *Whose Music? A Sociology of Musical Languages.* New Brunswick, NJ: Transaction, especially "The Musical Coding of Ideologies."
 
-Shiffman, James R. (Feb 3, 1989) "Teenagers End Up in Pschiatric Hospitals in Alarming Numbers. *Wall Street Journal.* 
+Shiffman, James R. (Feb 3, 1989) "Teenagers End Up in Pschiatric Hospitals in Alarming Numbers. *Wall Street Journal.*
 
 Silberbauer, George B. (1981) *Hunter and Habitat in the Central Kalahari Desert.* New York: Cambridge Univ Press.
 
@@ -1259,7 +1258,7 @@ Tanner & Zihlman (1976) "Women in Evolution" *Signs,* vol. 1.
 
 Taylor, R. (1979) *Richard Wagner.* New York: Taplinger Publishing Company.
 
-Thomas, Elizabeth Marshall (1959) *The Harmless People.* 
+Thomas, Elizabeth Marshall (1959) *The Harmless People.*
 
 ## Torrey (1980) *Schizophrenia and Civilization.*
 
@@ -1278,7 +1277,7 @@ Turnbull, Colin (1976) *Man in Africa.* Garden City, NY. Anchor/Doubleday.
 
 Tuzin, Donald F. (1976) *The Llahita Arapesh: Dimenensions of Unity.* Berkeley: Univ of California Press.
 
-Vaneigem, Raoul (1975) *The Revolution of Everyday Life.* 
+Vaneigem, Raoul (1975) *The Revolution of Everyday Life.*
 
 Wenke, Robert (1984) *Patterns in Prehistory.* New York.
 
@@ -1294,9 +1293,9 @@ Woodburn, James (1968) "An Introduction to Hazda Ecology" in Lee and De Vore's *
 
 Wymer, John (1981) *The Palaeolithic Age.* New York: St. Martin's Press.
 
-Wynn, Thomas (1985) *The Evolution of Spatial Competence.* 
+Wynn, Thomas (1985) *The Evolution of Spatial Competence.*
 
-Wyshograd, Edith (1990) *Saints and Postmodernism.* 
+Wyshograd, Edith (1990) *Saints and Postmodernism.*
 
 Xenakis, I. (1971) *Formalized Music.* Bloomington: Indiana University Press.
 

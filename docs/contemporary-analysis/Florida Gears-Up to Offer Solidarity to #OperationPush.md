@@ -161,21 +161,20 @@ We will gather outside of the Reception and Medical Center in Lake Butler, FL, a
 
 ## ![](_page_10_Figure_0.jpeg)
 
-
 https://
 fighttoxicprisons.wordpress
 .com/2017/12/06/
 fl-prisoners-announce-opera
 tion-push-starting-jan-15to-cripple-prison-system/
 Details on Angela Davis event:
-https://www.facebook.com/
+
 events/1741210299519279
 /
 See Also
 Final Straw: #OperationPUSH, Strikes in Florida Prisons
 - By collective,
 It's Going Down
-## 
+##
 | , January 8, 2018 |
 |------------------------------------------|
 | Kite Line: #OperationPUSH - By Kite Line |

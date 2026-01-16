@@ -85,7 +85,7 @@ Acknowledgments xix | xiii | | | |
 
 *Anatomy of a shellmound* 107; *Fish stories* 110 **Pen/Insular species management 111**
 
-*Jomon husbandry* 111; *Chulmun husbandry* 115 **Mainland cereal growers 116** *Northern millet cultures* 116; *Southern rice culture* 117; *Mainland* 
+*Jomon husbandry* 111; *Chulmun husbandry* 115 **Mainland cereal growers 116** *Northern millet cultures* 116; *Southern rice culture* 117; *Mainland*
 
  *broad-ranging subsistence* 120 **Food studies 121**
 
@@ -832,7 +832,7 @@ In addition to the above four criteria, early sites also have to make tephra lay
 
 Bar-Yosef, Ofer & Wang, Youping (2012) "Paleolithic archaeology in China."
 
-Schepartz, Lynne A. & Miller-Antonio, Sari (eds.) (2004) *Asia and the Middle* 
+Schepartz, Lynne A. & Miller-Antonio, Sari (eds.) (2004) *Asia and the Middle*
 
 # Innovations of Modern Humans
 
@@ -1380,7 +1380,7 @@ from Sannai Maruyama (see Figure 6.2). e site consists of two separate circles p
 
 ## ![](_page_157_Figure_2.jpeg)
 
-| 
+|
  | | |
 ## |------|--|--|
 
@@ -2665,7 +2665,7 @@ Very few iron artifacts survive in the archaeological record because bladed iron
 
 Barnes, Gina L. (2007) "Edge of empire." Chapter 7 in *State formation in Japan*.
 
-## Mounded Tomb Cultures archipelago (see Table 1.7). The burial systems of all of these early states focused on elite goods for the tomb contents – bronze, gilt-bronze, gold, jade, e Pen/Insular polities are classed as secondary states – that is, representations are all substantially dierent, attesting to cultural chronicles (*Nihon Shoki* of 720), and the Korean histories (*Samguk* 
+## Mounded Tomb Cultures archipelago (see Table 1.7). The burial systems of all of these early states focused on elite goods for the tomb contents – bronze, gilt-bronze, gold, jade, e Pen/Insular polities are classed as secondary states – that is, representations are all substantially dierent, attesting to cultural chronicles (*Nihon Shoki* of 720), and the Korean histories (*Samguk*
 
 Interesting additions to the material culture of the mature Pen/ BC–224 AD) and Sassanian (300–650) empires of Central Asia.
 
@@ -3751,9 +3751,9 @@ Demeter, Fabrice, *et al.* (2009) "Anatomically modern
 
 ## —– (2003) "Monuments to an unbroken line: the
 
-Evasdottir, Erika E. S. (2000) "Rereading *Rethinking* 
+Evasdottir, Erika E. S. (2000) "Rereading *Rethinking*
 
-—– (2006) *Chinese society in the Age of Confucius* 
+—– (2006) *Chinese society in the Age of Confucius*
 
 ## Fang, Y. S.; Huang, Y. P. & Shen, C. (2004) "Pebble
 
@@ -3779,7 +3779,7 @@ Neolithic ruins in the Jinghe River gorges, middle
 
 —– (2010) "Living on the edge of the continent: the
 
-Iriye, Akira & Miller, H. Lyman (1997) *Can history* 
+Iriye, Akira & Miller, H. Lyman (1997) *Can history*
 
 ## Jiang, Leping & Liu, Li (2006) "New evidence for
 
@@ -3825,9 +3825,9 @@ Liu, Li (2000) "Ancestor worship: an archaeological
 
 —– (2003) "'e products of minds as well as of hands':
 
-—– (2004) *e Chinese Neolithic: trajectories to early* 
+—– (2004) *e Chinese Neolithic: trajectories to early*
 
-—– (2007) "Rethinking Erlitou: legend, history and —– (2009) "State emergence in early China." *Annual* 
+—– (2007) "Rethinking Erlitou: legend, history and —– (2009) "State emergence in early China." *Annual*
 
 "Evidence for the early beginning (c. 9000 ca. BP)
 
@@ -3835,7 +3835,7 @@ Liu, Li (2000) "Ancestor worship: an archaeological
 
 ## Liu, Y.; Hu, Y. & Wei, Q. (2012) "Early to Late
 
-Loewe, Michael (1979) *Ways to Paradise: the Chinese* 
+Loewe, Michael (1979) *Ways to Paradise: the Chinese*
 
 ## Mallory, J. P. & Mair, Victor H. (2000) *e Tarim*
 
@@ -3961,11 +3961,11 @@ Tomb #155 F14.4; **Sinan** 33, 40; dong F14.3; **Sokkuram** 367–8, 391, F15.1,
 
 ## INDEX II. Periods
 
-89–91; of China 3–4, 8, 20, 37, 40, T0.1a, T1.1a, b; of Korea 20; *see also* 
+89–91; of China 3–4, 8, 20, 37, 40, T0.1a, T1.1a, b; of Korea 20; *see also*
 
 ## INDEX II. Periods
 
-89–91; of China 3–4, 8, 20, 37, 40, T0.1a, T1.1a, b; of Korea 20; *see also* 
+89–91; of China 3–4, 8, 20, 37, 40, T0.1a, T1.1a, b; of Korea 20; *see also*
 
 ## Archaeology of East Asia: Index II–Index III
 
@@ -4017,7 +4017,7 @@ F13.12, T10.3; **drums** 200, F12.13;
 
 382, F9.1, T9.1, T9.2; **shifting capital systems** of Shang 206–7, of Yamato
 
-Zhou 223, 227, of Silla F15.10, of Parhae F15.10; *see also* under state F5.4; **villages** 101–2, 115, 259; *see* 
+Zhou 223, 227, of Silla F15.10, of Parhae F15.10; *see also* under state F5.4; **villages** 101–2, 115, 259; *see*
 
 ApH.1; **anvils** F6.9; **clay tablets** 281, F11.15; **cylinders** ApH.2; **decorated bricks** F12.9; **drum**s T6.2; **inkstones** F15.12; **masks** 150, F6.12; *mingqi*
 
@@ -4061,7 +4061,7 @@ Archaeology of East Asia: Index IV 487 B12.1; **Tocharian** 178; **Tungusic** 33
 
 ## B4.2; **SEM** 113; **surface/ site survey**
 
-488 Archaeology of East Asia: Index IV 86; **of ora** 52, 60, 74, 78–79; **"Out** 
+488 Archaeology of East Asia: Index IV 86; **of ora** 52, 60, 74, 78–79; **"Out**
 
 174, B6.2, T6.2; **villages** 101, 127,
 
@@ -4101,7 +4101,7 @@ T1.4; **capitals** 34, 336, 340, 364, 372, F14.2, F15.7; **crafts** 340, B14.1;
 
 380, F15.1, F15.14; **Wajil** 317, 322, named types: **blackwares/ eggshell** 14,
 
-314, 319, 327–8, 331; **wealth** 126, **discs** 163–4, 166, ApI, B7.1; **chime** 
+314, 319, 327–8, 331; **wealth** 126, **discs** 163–4, 166, ApI, B7.1; **chime**
 
 187; **dualism** 129, 138; **egalitarian** F14.12; **tablets** 239; *yue* **axe** 163–4,
 

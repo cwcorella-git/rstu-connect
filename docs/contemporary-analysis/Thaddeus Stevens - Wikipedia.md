@@ -745,7 +745,7 @@ Stevens," Journal of the Lancaster County Historical Society (1970) 74:33–71, 
 - [Stevens and Smith Historic Site](http://www.stevensandsmith.org/)
 - [Thaddeus Stevens Society](http://www.thaddeusstevenssociety.com/)
 
-- 
+-
 
 - United States Congress. ["Thaddeus Stevens \(id: S000887\)"](http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000887). [Biographical Directory of the United States Congress](https://en.wikipedia.org/wiki/Biographical_Directory_of_the_United_States_Congress). Includes [Guide to Research Collections](http://bioguide.congress.gov/scripts/guidedisplay.pl?index=S000887) where his papers are located.
 - [Mr. Lincoln and Freedom: Thaddeus Stevens](http://www.mrlincolnandfreedom.org/inside.asp?ID=73&subjectID=4) [Archived](https://web.archive.org/web/20121212010044/http://www.mrlincolnandfreedom.org/inside.asp?ID=73&subjectID=4) December 12, 2012, at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine)

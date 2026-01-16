@@ -150,7 +150,7 @@ The [Hindu calendar](https://en.wikipedia.org/wiki/Hindu_calendar) is a [lunisol
 
 Soma was presumed to be a planet in Hindu astronomical texts.[\[27\]](#page-6-18) It is often discussed in various [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) astronomical texts, such as the 5th century *Aryabhatiya* by [Aryabhatta,](https://en.wikipedia.org/wiki/Aryabhatta) the 6th century *Romaka* by Latadeva and *Panca Siddhantika* by Varahamihira, the 7th century *Khandakhadyaka* by Brahmagupta and the 8th century *Sisyadhivrddida* by Lalla.[\[28\]](#page-6-19) Other texts such as *Surya Siddhanta* dated to have been complete sometime between the 5th century and 10th century present their chapters on various planets with deity mythologies.[\[28\]](#page-6-19) However, they show that the Hindu scholars were aware of elliptical orbits, and the texts include sophisticated formulae to calculate its past and future positions:[\[29\]](#page-6-20)
 
-The longitude of Moon = 
+The longitude of Moon =
 $$m-\frac{P\times R\sin(m-a)}{360}$$
 – Surya Siddhanta II.39.43[29] where $m$ is the Moon's mean longitude, a is the longitude at apogee, P is epicycle of apsis, R=3438'.
 

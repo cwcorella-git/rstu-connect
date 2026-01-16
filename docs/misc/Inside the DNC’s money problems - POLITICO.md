@@ -4,8 +4,7 @@ author: "Unknown"
 date: "2025"
 category: "misc"
 ---
-# Inside the DNC’s money problems - POLITICO
----
+
 Inside the DNC’s money problems - POLITICO                            https://www.politico.com/news/2025/08/18/dnc-fundrais...
 Inside the DNC’s money problems
 Big donors have pulled back from giving to the party, and small donors are not growing enough to make up the
@@ -137,13 +136,12 @@ F I L E D U N D E R : C A M PA I G N F I N A N C E , D E M O C R A T I C N A T I
 C A M PA I G N F U N D R A I S I N G
 Playbook
 The unofficial guide to official Washington, every morning and weekday afternoons.
-EMAIL
+
 Your Email
 EMPLOYER
 Employer
 * All fields must be completed to subscribe
-SIGN UP
-By signing up, you acknowledge and agree to our Privacy Policy and Terms of Service . You may unsubscribe at any time by following the
+
 directions at the bottom of the email or by contacting us here . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms
 of Service apply.
 ---

@@ -57,7 +57,7 @@ Avenir Next Rounded is a version of Avenir Next with rounded terminals, designed
 
 The family includes 8 fonts in 4 weights (regular, medium, demi, and bold) and 1 width (based on normal width), with complementary italics. Open Type features include numerator and denominator, fractions, standard ligatures, lining and oldstyle figures, localized forms, scientific inferiors, subscript and superscript, and small caps.
 
-- 
+-
 
 ## Avenir Next in condensed and regular widths
 

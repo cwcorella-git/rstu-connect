@@ -2237,43 +2237,43 @@ See Elizabeth A. Wilson, People Power Movements and International Human Rights: 
 
 #### **PRESIDENT AND CEO**
 
-ȗ 
+ȗ
 
 #### **EXECUTIVE VICE CHAIRS**
 
-ȗ ȗ 
+ȗ ȗ
 ## Ǥ
 
 #### **VICE CHAIRS**
 
-ȗ 
+ȗ
 ## Ǥ ȗǤ ȗ Ǥ
 
 #### **TREASURER**
 
-ȗ 
+ȗ
 
 #### **DIRECTORS**
 
 Ǥ ȗ Ǥ Ǥ Ǥ Ǥ ȗ ȗ
-Ǥ Ǥ ȗ Ǥ ȗ ȗ Ǥ ȗ 
-Ǥ Ǥ ǡ 
-Ǥ 
-Ǥ ǡ 
+Ǥ Ǥ ȗ Ǥ ȗ ȗ Ǥ ȗ
+Ǥ Ǥ ǡ
+Ǥ
+Ǥ ǡ
 ## Ǥ Ǥ Ǥ ȗ Ǥ Ǥ
 
 Ǥ Ǥ ȗ Ǥ ł ò Ǥ ȗ Ǥ Ǥ ȗ
-Ǥ ȗ Ǥ Ǥ Ǥ ȗǤ 
-Ǥ Ǥ 
+Ǥ ȗ Ǥ Ǥ Ǥ ȗǤ
+Ǥ Ǥ
 Ǥ Ǥ ȗ
-Ǥ 
-Ǥ ȗ Ǥ 
+Ǥ
+Ǥ ȗ Ǥ
 ## Ǥ Ǥ Ǥ Y Ǥ Ǥ ȗ Ǥ
 
-ȗ Ǥ ȗ Ǥ 
-Ǥ 
-Ǥ Ǥ Ǥ Ǥ 
-Ǥ Ǥ Ǥ 
+ȗ Ǥ ȗ Ǥ
+Ǥ
+Ǥ Ǥ Ǥ Ǥ
+Ǥ Ǥ Ǥ
 ## ǤǤ ȗ ȗ Ǥ Ǥ Ǥ Ǥ ȗ
 
 ## Ǥ ȗ
@@ -2282,7 +2282,7 @@ See Elizabeth A. Wilson, People Power Movements and International Human Rights: 
 
 #### **HONORARY DIRECTORS**
 
-Ǥ ǡ Ǥ Ǥ Ǥ Ǥ 
+Ǥ ǡ Ǥ Ǥ Ǥ Ǥ
 ## Ǥ Ǥ
 
 ## *\*Executive Committee Members*

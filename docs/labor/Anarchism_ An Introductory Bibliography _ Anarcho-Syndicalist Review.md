@@ -1118,7 +1118,7 @@ Resource List for Anti-Elections / Pro-Anarchy Campaign. Online at:
 
 Schweickart, David, "Nonsense on Stilts: Michael Albert's Parecon," and "I Still Think It's Nonsense." Online at: [http://](http://www.zmag.org/content/showarticle.cfm?ItemID=9795) [www.zmag.org/content/showarticle.cfm?ItemID=9795](http://www.zmag.org/content/showarticle.cfm?ItemID=9795) and [9918.](http://www.zmag.org/content/showarticle.cfm?ItemID=9918)
 
-"Anarchist Debate of Participatory Economics." Online at: 
+"Anarchist Debate of Participatory Economics." Online at:
 
 Fotopoulos, Takis, "Inclusive Democracy and Participatory Economics." [http://www.inclusivedemocracy.org/dn/vol9/](http://www.inclusivedemocracy.org/dn/vol9/takis_parecon.htm) [takis\\_parecon.htm](http://www.inclusivedemocracy.org/dn/vol9/takis_parecon.htm)
 
@@ -1224,7 +1224,7 @@ Philadelphia: Temple University Press, 1981, 214 pages.
 
 # **Pamphlets Galore**
 
-## From See Sharp Press 
+## From See Sharp Press
 
 Voltairine De Cleyre, Anarchism and American Traditions
 
@@ -1544,7 +1544,7 @@ Infoshop News ](http://news.infoshop.org/)
 
 Infoshop ](http://www.infoshop.org/page/Anarchism)
 
-Revolt 
+Revolt
 
 Anarchist News ](http://www.anarchistnews.org/)
 

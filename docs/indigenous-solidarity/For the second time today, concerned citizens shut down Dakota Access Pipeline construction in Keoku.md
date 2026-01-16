@@ -36,9 +36,6 @@ After police arrived, roads were blocked and views were obstructed. Witnesses sa
 Earlier today, several people locked arms and blocked construction access for at least one hour. One woman remained seated and the police appeared to use stress positions in an attempt to force compliance.
 
 For weeks citizens have held an encampment on Mississippi River road in Keokuk, Iowa, called "Mississippi Stand" (
-
-http://www.mississippistand.com
-
 ). Hundreds of people from the tri-state area have come to engage in nonviolent civil disobedience against the pipeline. Supporters continue to mobilize from across the country and more arrive each day.
 
 Footage of this evening's occurrence was livestreamed on Mississippi Stand's Facebook page.

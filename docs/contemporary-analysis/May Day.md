@@ -74,7 +74,4 @@ The cops!
 The anger calms. The honest worker reappears... and flees, followed by the policemen's boots.
 
 The comedy is over... They have to disperse and the crowd flees, hiccupping and stumbling, while exasperated comrades, wanting to resist orders and shoves, shout "anarchy" in the face of the police workers as a challenge. And in the distance...the cabarets, the bars, the thousand tentacles of that terrible octopus, alcohol, suck out and breathes in all this worker blood. It's the holiday of the organized proletariat. It's May Day.
-
-https://www.marxists.org/archive/libertad/1905/may-day.htm
-
 ## 3 of 3 10/9/25, 6:53 PM

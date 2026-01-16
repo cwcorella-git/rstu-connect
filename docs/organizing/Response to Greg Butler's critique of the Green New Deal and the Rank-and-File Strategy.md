@@ -549,14 +549,13 @@ In response to Butler's claim that the Green New Deal resolution that "calls for
 
 Texas may be a major oil state, but it also has more installed renewable energy capacity than any other US state (like they say,
 
-
 everything's
 bigger in Texas).
 I
 would also point out that while California has a reputation for being a "deep green" state,
 it
 actually ranks
-## 
+##
 third behind Texas and Alaska, in order of states that produce the most oil, but that hasn't stopped many union members, including several Building Trades locals from supporting the Green New Deal here.
 
 No Shit, Sherlock!

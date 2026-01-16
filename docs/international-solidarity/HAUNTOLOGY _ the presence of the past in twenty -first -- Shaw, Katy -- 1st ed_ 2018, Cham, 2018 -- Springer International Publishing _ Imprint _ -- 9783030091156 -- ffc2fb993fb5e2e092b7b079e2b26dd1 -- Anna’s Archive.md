@@ -254,7 +254,7 @@ Hauntology is motivated by an interest in illuminating a past we do not know, as
 - 62. Derrida, 1994, p. 48.
 
 - 63. Derrida, 1994, p. 196.
-- 64. James Bridle, 'Hauntological Futures', booktwo.org, 20 March 2011 
+- 64. James Bridle, 'Hauntological Futures', booktwo.org, 20 March 2011
 - 65. Derrida 1994, p. 10.
 - 66. Derrida, 1994, p. xix.
 - 67. Derrida, 1994, p. 46.
@@ -287,7 +287,7 @@ Hauntology is motivated by an interest in illuminating a past we do not know, as
 - 93. Reynolds, 2012, p. xiv.
 - 94. Jacques Derrida, On the Name Thomas Dutoit (ed.) (Stanford: Stanford University Press, 1995) p. 2.
 - 95. Jacques Derrida, The Gift of Death & Literature in Secret (Religion and Postmodernism) (Chicago: Chicago University Press, 2008) p. 223.
-- 96. Mark Fisher, 'Phonograph Blues', K-Punk: Abstract Dynamics, 19 October 2006 
+- 96. Mark Fisher, 'Phonograph Blues', K-Punk: Abstract Dynamics, 19 October 2006
 - 97. Jacques Derrida quoted in Buse and Stott, 1999, p. 9.
 - 98. Derrida quoted in Loevlie, 2013, p. 336.
 - 99. Jodey Castricano, Cryptomimesis: The Gothic and Jacques Derrida's Ghost Writing (London: Mc Gill-Queens University Press, 2001) p. 29.
@@ -424,13 +424,13 @@ As a popular phrase, 'Killing Time' is often understood to mean a mundane act us
 - 5. Frank Kermode, The Sense of an Ending: Studies in the Theory of Fiction (New York: Open University Press, 1967) pp. 95–96.
 - 6. Don De Lilo, Mao II (New York: Viking, 1991) p. 80.
 - 7. Erected in October 1999, the London Eye is a 125 metre tall landmark that surpasses the height of other, more famous, features of the London skyline including Big Ben and St Paul's Cathedral. In 'Killing Time', this landmark of the millennium is represented as little more than a political tool, 'powered by hot air and other parliamentary emissions' that are 'piped up' from the parliament building on the opposite bank of the River Thames in London.
-- 8. Andrew Motion also penned a poem to commemorate the turn of the millennium in 1999. The nished work—'2000: Zero Gravity: The Millennium Report'—was published in the English daily newspaper The Guardian, 
-- 9. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014 
+- 8. Andrew Motion also penned a poem to commemorate the turn of the millennium in 1999. The nished work—'2000: Zero Gravity: The Millennium Report'—was published in the English daily newspaper The Guardian,
+- 9. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014
 - 10. Killing Time was adapted as a made-for-television lm screened on New Year's Day, 1 January 2000 on English television station Channel 4. The adaptation offers a more straightforward narrative, one that follows the progress of 'Millennium Man', a kind of everyman protagonist, as he travels through England collecting objects from the past that have been forgotten or ignored. The central narrative of the lm is interspersed with footage of real people surrendering their own memory objects from the past thousand years, culminating in a nal and symbolic pyre, burning memory and time, at the Millennium Dome in Greenwich, London, the Prime Meridian of Greenwich from which time around the world is measured.
-- 11. Simon Armitage quoted in Robert Potts, 'Mean Time', The Guardian, 15 December 1999 
-- 12. Simon Armitage quoted in Robert Potts, 'Mean Time', The Guardian, 15 December 1999 
-- 13. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014 
-- 14. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014 
+- 11. Simon Armitage quoted in Robert Potts, 'Mean Time', The Guardian, 15 December 1999
+- 12. Simon Armitage quoted in Robert Potts, 'Mean Time', The Guardian, 15 December 1999
+- 13. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014
+- 14. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014
 - 15. Gordon, 2008, p. 18.
 - 16. Due to the high population of the areas featured in the path of totality, this natural spectacle became one of the most-viewed total solar eclipses in human history. Many people organized eclipse-watching parties, or set up video projectors to record the event. The occasion of the solar eclipse is presented by the news media as a natural wonder, one prime for mediation and authentic experience, with pictures of the eclipse shadow beamed live from the Mir Space station.
 - 17. Laura A. Janda, 'The conceptualization of events and their relationship to time in Russian', Glossos, Issue 2, Winter 2002. p. 3.
@@ -442,15 +442,15 @@ As a popular phrase, 'Killing Time' is often understood to mean a mundane act us
 - 22. Derrida, 1989, p. 61
 - 23. Derrida, 1994, p. 11.
 - 24. David Weaver (ed.) The American Journalist in the 21st Century: U. S. News People at the Dawn of a New Millennium (New York: Routledge, 2006) p. 226.
-- 25. Simon Armitage quoted in Robert Potts, 'Mean Time', The Guardian, 15 December 1999 
-- 26. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014 
-- 27. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014 
+- 25. Simon Armitage quoted in Robert Potts, 'Mean Time', The Guardian, 15 December 1999
+- 26. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014
+- 27. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014
 - 28. In the aftermath there was international debate about the motivations of the killers and the extent to which the attack could have been prevented. 'Columbine' became part of the common vernacular when referring to school shootings, and the killings even spawned an online fan culture of fellow discontents who termed themselves 'Columbiners'.
 - 29. Derrida, 1994, p. xviii.
 - 30. Gordon, 2008, p. 63.
 - 31. Pierre Macherey, 'Marx Dematerialised, or the Spirit of Derrida' in Michael Sprinker (ed.) Ghostly Demarcations: A Symposium on Jacques Derrida's Specters of Marx (London: Verso, 2008) p. 19.
 - 32. Esther Peeren, The Spectral Metaphor: Living Ghosts and the Agency of Invisibility (London: Palgrave Macmillan, 2014) p. 10.
-- 33. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014 
+- 33. Simon Armitage quoted in Alex Macdonald, 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014
 
 ### CHAPTER 2
 
@@ -533,24 +533,24 @@ Critics claim that 'Jez Butterworth believes in ghosts.24 In *Jerusalem* he fore
 - 1. Holdsworth and Luckhurst, 2013, p. 1.
 - In England, the first years of the twenty-first century were marked by a trend for revivifying plays from the past in the changed context of the new century. Coupled with a renewed presence of the cultural gure of the specter on stage—from Jeremy Dyson and Andy Nyman's new production Ghost Stories at the Duke of Yorks Theatre (2010), and a staging of Hamlet at the National Theatre (2010), to new productions Ghost: The Musical (2011) at the Manchester Opera House and then at the Piccadilly Theatre, London and the twenty-sixth consecutive year of running for The Woman In Black at The Fortune Theatre, London—English theatre entered the new millennium saturated with specters.
 
-- 3. Sophie Nield, 'Theatre of Screams: On Ghosts and Drama', The Guardian, 1 Nov 2010 
-- 4. Sophie Nield, 'Theatre of Screams: On Ghosts and Drama', The Guardian, 1 Nov 2010 
-- 5. Michael Billington, 'Great Performances' The Guardian, 13 April 2015 
-- 6. Jez Butterworth, 'Theater Talk: "Jerusalem" Playwright Jez Butterworth and Tony-winning Best Actor, Mark Rylance', CunyTV75: Youtube 
-- 7. Jez Butterworth quoted in Aida Edemariam, 'The Saturday Interview: Jez Butterworth', The Guardian, 14 May 2011 
+- 3. Sophie Nield, 'Theatre of Screams: On Ghosts and Drama', The Guardian, 1 Nov 2010
+- 4. Sophie Nield, 'Theatre of Screams: On Ghosts and Drama', The Guardian, 1 Nov 2010
+- 5. Michael Billington, 'Great Performances' The Guardian, 13 April 2015
+- 6. Jez Butterworth, 'Theater Talk: "Jerusalem" Playwright Jez Butterworth and Tony-winning Best Actor, Mark Rylance', CunyTV75: Youtube
+- 7. Jez Butterworth quoted in Aida Edemariam, 'The Saturday Interview: Jez Butterworth', The Guardian, 14 May 2011
 - 8. Holdsworth and Luckhurst, 2013, p. 2.
 - 9. Michael Simmons Roberts and Paul Farley, Edgelands: Journeys Into England's True Wilderness (London: Vintage, 2012) p. 5.
 - 10. David Ian Rabey, The Theatre and Films of Jez Butterworth (London: Bloomsbury Methuen Drama, 2015) p. 111.
-- 11. Jez Butterworth, 'Theater Talk: "Jerusalem" Playwright Jez Butterworth and Tony-winning Best Actor, Mark Rylance', CunyTV75: Youtube 
+- 11. Jez Butterworth, 'Theater Talk: "Jerusalem" Playwright Jez Butterworth and Tony-winning Best Actor, Mark Rylance', CunyTV75: Youtube
 - 12. Rabey, 2015, p. 139.
 - 13. Elisabeth Angel-Perez in Rabey, 2015, p. 185.
 - 14. Peter Brooks, The Empty Space (Harmondsworth: Penguin, 1968) p. 47.
-- 15. Andrew Marr, 'Evictions, Protests, Unrest: How Jerusalem Saw them Coming', BBC News, 24 October 2011 
+- 15. Andrew Marr, 'Evictions, Protests, Unrest: How Jerusalem Saw them Coming', BBC News, 24 October 2011
 - 16. Rabey, 2015, p. 129.
 - 17. Billy Bragg, The Progressive Patriot (London: Black Swan, 2007) p. 268.
 - 18. Harpin, 2011, p. 72.
 
-- 19. Jez Butterworth quoted in Sarah Hemming, 'Jez Butterworth's Play Hits the West End', Financial Times 29 January 2010 
+- 19. Jez Butterworth quoted in Sarah Hemming, 'Jez Butterworth's Play Hits the West End', Financial Times 29 January 2010
 - 20. Mary Douglas, Mary Douglas Collected Works Volume II: Purity and Danger: An Analysis of Concepts of Pollution and Taboo (London: Routledge, 2003) p. 122.
 - 21. Jez Butterworth, Mojo and a Filmmaker's Diary (London: Faber, 1998) p. 147.
 - 22. May quoted in Rabey, 2015, p. 2.
@@ -682,7 +682,7 @@ Shar, Felix attempts unconditional hospitality but nds that his gesture is futil
 ## noteS
 
 - 1. Zadie Smith, White Teeth (London: Hamish Hamilton, 2000) p. 281.
-- 2. Zadie Smith quoted in John Self, 'Zadie Smith Interview', Asylum 
+- 2. Zadie Smith quoted in John Self, 'Zadie Smith Interview', Asylum
 - 3. David Coughlan, Ghost Writing in Contemporary American Fiction (London: Palgrave, 2016) p. 19.
 - 4. Zadie Smith, 'That Crafty Feeling' in Changing My Mind Essays (London: Penguin, 2009) pp. 99–110; p. 102.
 - 5. Jacques Derrida, A Taste for the Secret (ed.) Maurizio Ferraris (London: Wiley, 2001) p. 53.
@@ -707,13 +707,13 @@ Shar, Felix attempts unconditional hospitality but nds that his gesture is futil
 - 23. Derrida, 2000, p. 62.
 - 24. Derrida, 2000, p. 65.
 - 25. Derrida, 2000, p. 71.
-- 26. Zadie Smith quoted in Thomas Page Mc Bee, 'The Rumpus Interview with Zadie Smith', The Rumpus, 1 January 2013 
+- 26. Zadie Smith quoted in Thomas Page Mc Bee, 'The Rumpus Interview with Zadie Smith', The Rumpus, 1 January 2013
 - 27. Michael De Certeau, The Practice of Everyday Life (trans.) Steven Rendall (Berkley, LA: University of California Press, 1984) p. 108.
-- 28. Zadie Smith quoted in Christopher Bollen, "Interview: Zadie Smith', Interview Magazine 
-- 29. Zadie Smith, 'Dead Man Laughing', The New Yorker, 22 December 2008 
-- 30. Zadie Smith quoted in Theodore Dalrymple, 'Zadie Smith's London', City Journal, Winter 2013 
-- 31. Zadie Smith quoted in Laura Miller, '"NW": Zadie Smith's Neighborhood', Salon, 27 August 2012 
-- 32. Zadie Smith quoted in John Self, 'Zadie Smith Interview', Asylum 
+- 28. Zadie Smith quoted in Christopher Bollen, "Interview: Zadie Smith', Interview Magazine
+- 29. Zadie Smith, 'Dead Man Laughing', The New Yorker, 22 December 2008
+- 30. Zadie Smith quoted in Theodore Dalrymple, 'Zadie Smith's London', City Journal, Winter 2013
+- 31. Zadie Smith quoted in Laura Miller, '"NW": Zadie Smith's Neighborhood', Salon, 27 August 2012
+- 32. Zadie Smith quoted in John Self, 'Zadie Smith Interview', Asylum
 - 33. Derrida, 2000, p. 83.
 - 34. Derrida, 2000, p. 71.
 - 35. Derrida, 2000, p. 81.
@@ -724,8 +724,8 @@ Shar, Felix attempts unconditional hospitality but nds that his gesture is futil
 - 40. Smith, 2009, p. 142.
 - 41. Sigmund Freud, 'The Uncanny', The Standard Edition of the Complete Psychological Works of Sigmund Freud (trans.) James Strachey and Anna Freud (London: Hogarth, 1986) pp. 218–252; p. 225.
 - 42. Susheila Nasta (ed.) Writing across Worlds: Contemporary Writers Talk (London: Routledge, 2004) pp. 266–278; p. 273.
-- 43. Zadie Smith quoted in Christopher Bollen, "Interview: Zadie Smith', Interview Magazine 
-- 44. Zadie Smith, 'Dead Man Laughing', The New Yorker, 22 December 2008 
+- 43. Zadie Smith quoted in Christopher Bollen, "Interview: Zadie Smith', Interview Magazine
+- 44. Zadie Smith, 'Dead Man Laughing', The New Yorker, 22 December 2008
 
 - 45. Derrida, 2000, p. 80.
 - 46. When his absent mother suddenly reappears after eight years without contact, 'Felix took her in' (164) despite the advice of his other family and friends. His reward for this act of hospitality is made apparent the following day when he wakes in his home to nd 'she was gone, with Felix's cashpoint card, his watch, all his chains' (165). This failed gesture to invite in the Other is repeated later in his narrative when he rises to offer a pregnant woman a seat on a crowded tube train. His gesture, 'Take mine' (166), does not lead to reward, but to death, as the same men take offence, follow Felix off the Tube at the next stop and stab him in the darkness of a nearby street.
@@ -825,18 +825,18 @@ Through the spectral dynamic of literature, Peace mobilizes hauntology to explai
 
 - 1. Faber book jacket para-text in David Peace, Patient X [Proof Copy] (London: Faber, 2018).
 - 2. Patient X is itself a reiteration of David Peace's 2016 short story collection Fantasma (meaning 'Ghost') published by Italian press Saggiatore. Fantasma contained ve short stories and an essay that were originally written and published individually for a series of different occasions. As such, each story operated as a discrete narrative that was capable of standing singularly, but collectively they combined to offer a common protagonist to Fantasma, as well as connecting thematic concerns with the relationship between texts and rewrites, the individual and society, and the self and the Other. These themes and stories are extended, rewritten or augmented in Patient X to form a sequence of twelve short stories that chronicle the nal years in the life of Ryūnosuke Akutagawa.
-- 3. David Peace quoted by Poetarum Silva, 'FANTASMA, DI DAVID PEACE', Poetarum Silva 
-- 4. David Peace, 'Radio Interview', Radio Popolare, March 2016 
-- 5. David Peace quoted in Annarita Briganti, 'Peace: "Preferisco le storie brevi il romanzo è minato dall'individualismo"', La Repubblica.it, 3 September 2016 
+- 3. David Peace quoted by Poetarum Silva, 'FANTASMA, DI DAVID PEACE', Poetarum Silva
+- 4. David Peace, 'Radio Interview', Radio Popolare, March 2016
+- 5. David Peace quoted in Annarita Briganti, 'Peace: "Preferisco le storie brevi il romanzo è minato dall'individualismo"', La Repubblica.it, 3 September 2016
 - 6. Email from David Peace to Katy Shaw, 7.9.17.
 - 7. Frank O'Connor, The Lonely Voice: A Study of the Short Story (Cleveland: World Publishing, 1963) p. 32.
-- 8. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016 
-- 9. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016 
+- 8. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016
+- 9. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016
 
 - 10. G. H. Healey, 'Introduction', Ryūnosuke Akutagawa, Kappa: A Novel [1927] (trans.) Geoffrey Bownas (London: Peter Owen, 1970) p. 23.
 - 11. Beongcheon Yu, Akutagawa: An Introduction (Detroit: Wayne State University Press, 1972) p. 21.
 - 12. Howard Hibbet, 'Introduction', Ryūnosuke Akutagawa, Rashomon and other Stories (trans.) Takashi Kojima (Tokyo: Charles E Tuttle Company: 1952) p. 10.
-- 13. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016 
+- 13. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016
 - 14. Healey, 1970, p. 17.
 - 15. Healey, 1970, p. 24.
 - 16. Healey, 1970, p. 25.
@@ -852,23 +852,23 @@ Through the spectral dynamic of literature, Peace mobilizes hauntology to explai
 - 26. The story of 'The Spider's Thread' was rst recorded in writing as 'The Fable of the Onion', a story in which an evil woman is sent to hell because she has failed to do a good deed in her whole life. It is then noted that she had once given an onion to a beggar as an act of kindness. As a result, the angels use an onion to pull her from the pits of hell. But, as other sinners try to hang onto her clothes and join her escape, she kicks them off, and with this selsh act the onion breaks, sending her falling back into hell. The story was later rewritten by Dostoevsky as 'The Brothers Karamazov' (1917–18) and then by Akutagawa as 'The Spider's Thread'. Akutagawa's version of the story was rst published in a children's magazine called Akai Tori (Red Bird) and draws on karmic teachings to offer a parable about seless action. Based on a Buddhist parable published in Tokyo in 1895, the story describes the fate of Kandata, an evil robber who is damned to
 
 - hell before being offered a reprieve because he once saved the life of a spider. This spider is sent to help raise him out of hell on its thread, but the thread snaps when Kandata refuses to share it with other sinners who attempt to escape alongside him.
-- 27. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016 
-- 28. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016 
-- 29. David Peace, 'Radio Interview', Radio Popolare, March 2016 
-- 30. David Peace quoted in Annarita Briganti, 'Peace: "Preferisco le storie brevi il romanzo è minato dall'individualismo"', La Repubblica.it, 3 September 2016 
-- 31. David Peace, 'David Peace Interviewed by Jorge: Podcast No. 144', The Bat Segundo Show 
-- 32. David Peace quoted in David Frati, 'Intervista a David Peace', Mangialibri 
+- 27. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016
+- 28. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016
+- 29. David Peace, 'Radio Interview', Radio Popolare, March 2016
+- 30. David Peace quoted in Annarita Briganti, 'Peace: "Preferisco le storie brevi il romanzo è minato dall'individualismo"', La Repubblica.it, 3 September 2016
+- 31. David Peace, 'David Peace Interviewed by Jorge: Podcast No. 144', The Bat Segundo Show
+- 32. David Peace quoted in David Frati, 'Intervista a David Peace', Mangialibri
 - 33. Derrida, 1994, p. 168.
 - 34. Derrida, 1994, p. 125.
 - 35. Derrida, 1994, p. 124.
-- 36. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016 
+- 36. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016
 - 37. Derrida, 1994, p. 16.
-- 38. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016 
+- 38. David Peace quoted in Francesco Cancellato, 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016
 - 39. Lafeadio Hean, 'Poe's Verse', (ed.) John Erskine Interpretations in Literature (New York: Kennicat Press, 1965) p. 151.
-- 40. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016 
+- 40. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016
 
-- 41. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016 
-- 42. David Peace quoted in David Frati, I'ntervista a David Peace', Mangialibri 
+- 41. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016
+- 42. David Peace quoted in David Frati, I'ntervista a David Peace', Mangialibri
 
 ## ![](_page_109_Picture_0.jpeg)
 
@@ -926,27 +926,27 @@ The interconnected nature of past, present and future is central to hauntology, 
 - Armitage, Simon. Killing Time (London: Faber and Faber, 1999)
 - Baudrillard, Jean. The Illusion of the End (trans.) Chris Turner (Stanford: Stanford University Press, 1994)
 - Benjamin, Walter. On the Concept of History, in Selected Writings: Volume Four, Eiland, Howard and Jennings (eds.), Michael W. (trans.) Edmund Jephcott (Cambridge: Harvard University Press, 2003)
-- Billington, Michael. 'Great Performances' The Guardian, 13 April 2015 
+- Billington, Michael. 'Great Performances' The Guardian, 13 April 2015
 - Blanco, Maria del Pilar and Peeren, Esther (eds.), Popular Ghosts: The Haunted Spaces of Everyday Culture (London: Continuum, 2010)
 - Blanco, Maria del Pilar and Peeren, Esther (eds.) The Spectralities Reader (London: Bloomsbury, 2013)
-- Bollen, Christopher. "Interview: Zadie Smith', Interview Magazine 
+- Bollen, Christopher. "Interview: Zadie Smith', Interview Magazine
 - Bragg, Billy. The Progressive Patriot (London: Black Swan, 2007)
 
-- Bridle, James. 'Hauntological Futures', booktwo.org, 20 March 2011 
-- Briganti, Annarita. 'Peace: "Preferisco le storie brevi il romanzo è minato dall'individualismo"', La Repubblica.it, 3 September 2016 
+- Bridle, James. 'Hauntological Futures', booktwo.org, 20 March 2011
+- Briganti, Annarita. 'Peace: "Preferisco le storie brevi il romanzo è minato dall'individualismo"', La Repubblica.it, 3 September 2016
 - Brooks, Peter. The Empty Space (Harmondsworth: Penguin, 1968)
 - Buse, P and Stott, A (eds.). Ghosts: Deconstruction, Psychoanalysis, History (London: Palgrave, 1999)
-- Butterworth, Jez. 'Theater Talk: "Jerusalem" Playwright Jez Butterworth and Tony-winning Best Actor, Mark Rylance', CunyTV75: Youtube 
+- Butterworth, Jez. 'Theater Talk: "Jerusalem" Playwright Jez Butterworth and Tony-winning Best Actor, Mark Rylance', CunyTV75: Youtube
 - Butterworth, Jez. Jerusalem (London: Nick Hern Books, 2009)
 - Butterworth, Jez. Mojo and a Filmmaker's Diary (London: Faber, 1998)
-- Cancellato, Francesco. 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016 
+- Cancellato, Francesco. 'David Peace: A volte ci cerchiamo su Google per scoprire chi siamo', Linkiesta, 12 March 2016
 - Caputo, J. D. Deconstruction in a Nutshell: A Conversation with Jacques Derrida (New ork: Fordham University Press, 2002)
 - Castricano, Jodey. Cryptomimesis: The Gothic and Jacques Derrida's Ghost Writing (London: Mc Gill-Queens University Press, 2001)
 - Chesterton, G. K. Charles Dickens: A Critical Study (New ork: Dood Mead and Company, 1906)
 - Cixous, Hélène. 'When the Word Is a Stage', New Literary History, Vol. 37 No 1 (Winter 2006) pp. 107–117.
 - Cixous, Hélène. Three Steps on the Ladder of Writing (New ork: Columbia University Press, 1994)
 - Coughlan, David. Ghost Writing in Contemporary American Fiction (London: Palgrave, 2016)
-- Dalrymple, Theodore. 'Zadie Smith's London', City Journal, Winter 2013 
+- Dalrymple, Theodore. 'Zadie Smith's London', City Journal, Winter 2013
 - Dayton, Eric (ed.). Art and Interpretation: An Anthology of Readings in Aesthetics and the Philosophy of Art (Peterborough: Broadview, 1998)
 - De Certeau, Michael. The Practice of Everyday Life (trans.) Steven Rendall (Berkley, LA: University of California Press, 1984)
 - De Lilo, Don. Mao II (New ork: Viking, 1991)
@@ -961,19 +961,19 @@ The interconnected nature of past, present and future is central to hauntology, 
 - Derrida, Jacques. The Gift of Death & Literature in Secret (Religion and Postmodernism) (Chicago: Chicago University Press, 2008)
 - Douglas, Mary. Mary Douglas Collected Works Volume II: Purity and Danger: An Analysis of Concepts of Pollution and Taboo (London: Routledge, 2003)
 - Dubreuil, Laurent. 'The Presences of Deconstruction', New Literary History, Vol. 37 No. 1.
-- Edemariam, Aida. 'The Saturday Interview: Jez Butterworth', The Guardian, 14 May 2011 
+- Edemariam, Aida. 'The Saturday Interview: Jez Butterworth', The Guardian, 14 May 2011
 - Erskine, John (ed.). Interpretations in Literature (New ork: Kennicat Press, 1965)
-- Fisher, Mark. 'Phonograph Blues', K-Punk: Abstract Dynamics, 19 October 2006 
-- Fisher, Mark. 'Specters of Accelerationism', K-Punk: Abstract Dynamics, 28 October 2008 
+- Fisher, Mark. 'Phonograph Blues', K-Punk: Abstract Dynamics, 19 October 2006
+- Fisher, Mark. 'Specters of Accelerationism', K-Punk: Abstract Dynamics, 28 October 2008
 - Fisher, Mark. Capitalist Realism (Winchester: Zero Books, 2009)
 - Fisher, Mark. Ghosts of My Life (Winchester: Zero Books, 2014)
 - Frank, Jason A and Tamborino, John. Vocations of Political Theory (Minneapolis: University of Minnesota Press, 2000)
-- Frati, David. 'Intervista a David Peace', Mangialibri 
+- Frati, David. 'Intervista a David Peace', Mangialibri
 - Freud, Sigmund. The Standard Edition of the Complete Psychological Works of Sigmund Freud (trans.) James Strachey and Anna Freud (London: Hogarth, 1986)
 - Gordon, Avery. Ghostly Matters: Haunting and the Sociological Imagination (Minneapolis: University of Minnesota Press, 2008)
 - Harpin, Anna. 'Land of Hope and Glory: Jez Butterworth's Tragic Landscapes', Studies in Theatre and Performance, Vol. 31, No 1 (2011) pp. 61–73.
 - Harris, Verne. 'Hauntology, Archivy and Banditry: An Engagement with Derrida and Zapiro', Critical Arts, Vol. 29, No 1 (2015) pp.13–27.
-- Hemming, Sarah. 'Jez Butterworth's Play Hits the West End', Financial Times, 29 January 2010 
+- Hemming, Sarah. 'Jez Butterworth's Play Hits the West End', Financial Times, 29 January 2010
 
 - Holdsworth, Natalie and Luckhurst, Mary (eds.). A Concise Companion to Contemporary British and Irish Drama (Chichester: Wiley Blackwell, 2013)
 - Horkheimer, Max and Adorno, Theodor W. (eds.) The Dialectic of Enlightenment: Philosophical Fragments (trans.) Edmund Jephcott (Stanford: Stanford University Press, 2002)
@@ -984,35 +984,35 @@ The interconnected nature of past, present and future is central to hauntology, 
 - Loevlie, Elisabeth M. 'Faith in the Ghosts of Literature: Poetic Hauntology in Derrida, Blanchot and Morrison's Beloved', Religions 2013, 4, pp. 336–350.
 - Luckhurst, Mary and Morin, Emilie (eds.). Theatre and Ghosts: Materiality, Performance and Modernity (London: Palgrave, 2014)
 - Lyotard, Jean-Francois. Postmodern Condition: A Report on Knowledge (Theory & History of Literature) (Manchester: Manchester University Press, 1984)
-- Macdonald, Alex. 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014 
+- Macdonald, Alex. 'Jaundiced Reality: Simon Armitage Interviewed', The Quietus, 12 October 2014
 - Mangan, Michael. Staging Masculinities (Basingstoke: Palgrave, 2003)
-- Marr, Andrew. 'Evictions, Protests, Unrest: How Jerusalem Saw them Coming', BBC News, 24 October 2011 
-- Mc Bee, Thomas Page. 'The Rumpus Interview with Zadie Smith', The Rumpus, 1 January 2013 
-- Miller, Laura. '"NW": Zadie Smith's Neighborhood', Salon, 27 August 2012 
-- Motion, Andrew. '2000: Zero Gravity: The Millennium Report', The Guardian, 27 December 1999 
+- Marr, Andrew. 'Evictions, Protests, Unrest: How Jerusalem Saw them Coming', BBC News, 24 October 2011
+- Mc Bee, Thomas Page. 'The Rumpus Interview with Zadie Smith', The Rumpus, 1 January 2013
+- Miller, Laura. '"NW": Zadie Smith's Neighborhood', Salon, 27 August 2012
+- Motion, Andrew. '2000: Zero Gravity: The Millennium Report', The Guardian, 27 December 1999
 - Murray, Alex. 'Hauntology; Or, Capitalism Is Dead, Let's Eat It's Corpse!', MA Thesis (Manchester: Manchester Metropolitan University, 2015)
 - Nasta, Susheila (ed.). Writing across Worlds: Contemporary Writers Talk (London: Routledge, 2004)
 - Natoli, Joseph and Hutcheon, Linda (eds.). A Postmodern Reader (New ork: State University Press of New ork, 1993)
-- Nield, Sophie. 'Theatre of Screams: On Ghosts and Drama', The Guardian, 1 Nov 2010 
+- Nield, Sophie. 'Theatre of Screams: On Ghosts and Drama', The Guardian, 1 Nov 2010
 
 - O'Brien, Eugene. 'Guests of a Nation: Geists of a Nation', New Hibernia Review, Vol. 11, No. 3 (Autumn 2007) pp. 114–130.
 - O'Brien, Eugene. '"More than a Language…No More of a Language": Merriman, Heaney, and the Metamorphoses of Translation', Irish University Review, Vol. 34 No. 2 (Autumn-Winter 2004) pp. 277–290.
 - O'Connor, Frank. The Lonely Voice: A Study of the Short Story (Cleveland: World Publishing, 1963)
 - O'Gorman, Kevin D. 'Modern Hospitality: Lessons from the Past', Journal of Hospitality and Tourism Management 12 (2) 2005, pp. 141–151.
 - Olick, Jeffrey K., Vinitzky, Vered and Daniel Levy (eds.) The Collective Memory Reader (Oxford: Oxford University Press, 2011)
-- Peace, David. 'David Peace Interviewed by Jorge: Podcast No. 144', The Bat Segundo Show 
-- Peace, David. 'Radio Interview', Fahrenheit.it, 11 March 2016a 
-- Peace, David. 'Radio Interview', Radio Popolare, March 2016b 
+- Peace, David. 'David Peace Interviewed by Jorge: Podcast No. 144', The Bat Segundo Show
+- Peace, David. 'Radio Interview', Fahrenheit.it, 11 March 2016a
+- Peace, David. 'Radio Interview', Radio Popolare, March 2016b
 - Peace, David. Patient X (London: Faber, 2018)
 - Peeren, Esther. The Spectral Metaphor: Living Ghosts and the Agency of Invisibility (London: Palgrave Macmillan, 2014)
-- Poetarum Silva, 'FANTASMA, DI DAVID PEACE', Poetarum Silva 
-- Potts, Robert. 'Mean Time', The Guardian, 15 December 1999 
+- Poetarum Silva, 'FANTASMA, DI DAVID PEACE', Poetarum Silva
+- Potts, Robert. 'Mean Time', The Guardian, 15 December 1999
 - Raphael, Timothy. 'Mo(u)rning in America: Hamlet, Reagan, and the Rights of Memory', Theatre Journal, Vol. 59, No. 1 (March 2007) pp. 1–20.
 - Reynolds, Simon. Retromania: Pop Culture's Addiction to its Own Past (London: Faber, 2012)
 - Roberts, Michael Simmons and Farley, Paul. Edgelands: Journeys into England's True Wilderness (London: Vintage, 2012)
 - Rosello, Mireille. Postcolonial Hospitality: The Immigrant as Guest (Stanford: Stanford University Press, 2001)
 - Schor, Esther. Bearing the Dead: The British Culture of Mourning from the Enlightenment to Victoria (London: Princeton University Press, 1994)
-- Self, John. 'Zadie Smith Interview', Asylum 
+- Self, John. 'Zadie Smith Interview', Asylum
 - Sim, Stuart. Postmodern Encounters: Derrida and the End of History (Cambridge: Icon Books UK, 1999)
 - Smith, Zadie. 'Dead Man Laughing', The New Yorker, 22 December 2008  Smith, Zadie. Changing my Mind Essays (London: Penguin, 2009)
 
@@ -1060,9 +1060,6 @@ The interconnected nature of past, present and future is central to hauntology, 
 K. Shaw, Hauntology,
 
 ## A
-
-https://doi.org/10.1007/978-3-319-74968-6
-
 1 Note: Page numbers followed by 'n' refer to notes.
 
 F M Future, 2, 3, 5, 7, 8, 10–15, 18, 19, Media, 4, 13, 25, 28, 31–34, 36–38, 20n12, 26, 27, 29-31, 37-40, 40, 41n16, 93 44, 54, 55, 60, 67, 71, 72, 87, Millennial, 17, 25-30, 32, 34, 35, 37, 106-109 39, 40 G N Ghost, 1-23, 27, 29, 38, 43, 44, 46, Novel, 3, 18, 58n24, 59-61, 64-68, 48, 54–56, 63, 77, 84, 86–88, 70, 71, 73, 77–79, 84, 85, 97 90-94, 96, 97, 99, 100n2, 105, 106, 108, 109, 110n6 Guest, 60–64, 68, 69, 71, 74, 76 O Other, 7, 10, 11, 18, 19, 51, 54, 60, 62-64, 68-71, 76, 78, 81n46, H 87, 90, 94-96, 98, 100n2, 106, Haunting, 2, 3, 6, 7, 9, 11–13, 15–18, 108, 109 20n12, 29, 32, 34, 35, 37, 38, 44, 45, 48, 49, 55, 56, 76, 83, 84, 86, 87, 91, 95, 97, 106–108, P 110n7 Past, 2-19, 20n12, 25-27, 29-31, Hauntology, 1-23, 63, 84, 91, 93, 95, 37-39, 41n10, 44-47, 49, 50, 97-99, 105-110 52, 55, 56, 56n2, 60, 61, 65, 67, Home, 18, 35, 49, 51-53, 61-65, 71, 77, 78, 87, 89-91, 93, 94, 96, 98-100, 106-109 68-72, 74-76, 78, 81n46, 95, 97 Peace, David, 18, 23n108, 83-103 Poetry, 3, 27, 28, 34, 40, 58n24 Hospitality, 9, 10, 18, 53, 60–65, 68-71, 75, 77-79, 81n46, 107, Post-millennial, 3, 14, 19, 44, 56, 108 58n24, 60, 84, 106 Power, 4, 10, 14, 15, 29, 34, 39, 44, 46, 51-55, 60-64, 67-69, 71, 73, 74, 92, 97, 100, 107 Intertextual, 15–17, 44–46, 48–50, 54–56, 58n24, 88, 98, 108 R Rewriting, 17, 83, 84, 87–91, 99 $\mathbf{L}$ Ryūnosuke Akutagawa, 83–85, 88, 89, London, 18, 27, 35, 40n7, 41n10, 46, 92, 97, 100n2, 101n10, 101n12,

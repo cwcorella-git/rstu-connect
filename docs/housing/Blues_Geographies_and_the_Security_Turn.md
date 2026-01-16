@@ -22,7 +22,6 @@ Published by The Johns Hopkins University Press DOI: 10.1353/aq.2012.0028
 
 ## For additional information about this article
 
-
 # **Blues Geographies and the Security Turn: Interpreting the Housing Crisis in Los Angeles**
 
 ## *Jordan T. Camp*

@@ -3073,9 +3073,6 @@ Fava, Giovanni A., and Fiammetta Cosci. "Understanding and Managing Withdrawal S
 Fiorino, Dennis F., Ariane Coury, and Anthony G. Phillips. "Dynamic Changes in Nucleus Accumbens Dopamine Efflux during the Coolidge Effect in Male Rats." Journal of Neuroscience 17, no. 12 (1997): 4849–55. https://doi.org/10.1523/jneurosci.17-12-04849.1997.
 
 Fisher, J. P., D. T. Hassan, and N. O'Connor. "Case Report on Pain." British Medical Journal 310, no. 6971 (1995): 70.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2548478/pdf/bmj00574-0074.pdf.
-
 Fogel, Robert William. The Fourth Great Awakening and the Future of Egalitarianism. Chicago: University of Chicago Press, 2000.
 
 Francis, David R. "Why High Earners Work Longer Hours." National Bureau of Economic Research digest, 2020. http://www.nber.org/digest/jul06/w11895.html.
@@ -3177,9 +3174,6 @@ Minois, Nadège. "The Hormetic Effects of Hypergravity on Longevity and Aging." 
 Montagu, Kathleen A. "Catechol Compounds in Rat Tissues and in Brains of Different Animals." Nature 180 (1957): 244–45. https://doi.org/10.1038/180244a0.
 
 National Potato Council. Potato Statistical Yearbook 2016. Accessed April 18, 2020.
-
-https://web.archive.org/web/20190707034920/https://www.nationalpotatocouncil.org/files/7014/6919/7938/NPCyearbook2016\_-\_FINAL.pdf.
-
 Ng, Marie, Tom Fleming, Margaret Robinson, Blake Thomson, Nicholas Graetz, Christopher Margono, Erin C. Mullany, et al. "Global, Regional, and National Prevalence of Overweight and Obesity in Children and Adults during 1980–2013: A Systematic Analysis for the Global Burden of Disease Study 2013." Lancet 384, no. 9945 (August 2014): 766–81. https://doi.org/10.1016/S0140-6736(14)60460-8.
 
 Ng, S. W., and B. M. Popkin. "Time Use and Physical Activity: A Shift Away from Movement across the Globe," Obesity Reviews 13, no. 8 (August 2012): 659–80. https://doi.org/10.1111/j.1467-789X.2011.00982.x.
@@ -3191,13 +3185,7 @@ OECD. "OECD Health Statistics 2020," July 2020. http://www.oecd.org/els/healthsy
 OECD. "Special Focus: Measuring Leisure in OECD Countries." In Society at a Glance 2009: OECD Social Indicators. Paris: OECD Publishing, 2009. https://doi.org/10.1787/soc\_glance-2008-en.
 
 Ohe, Christina G. von der, Corinna Darian-Smith, Craig C. Garner, and H. Craig Heller. "Ubiquitous and Temperature-Dependent Neural Plasticity in Hibernators." Journal of Neuroscience 26, no. 41 (2006): 10590–98.
-
-https://doi.org/10.1523/JNEUROSCI.2874-06.2006.
-
 Omura, Daniel T., Damon A. Clark, Aravinthan D. T. Samuel, and H. Robert Horvitz. "Dopamine Signaling Is Essential for Precise Rates of Locomotion by C. Elegans." PLOS ONE 7, no. 6 (2012).
-
-https://doi.org/10.1371/journal.pone.0038649.
-
 Östlund, Magdalena Plecka, Olof Backman, Richard Marsk, Dag Stockeld, Jesper Lagergren, Finn Rasmussen, and Erik Näslund. "Increased Admission for Alcohol Dependence after Gastric Bypass Surgery Compared with Restrictive Bariatric Surgery." JAMA Surgery 148, no. 4 (2013): 374–77. https://doi.org/10.1001/jamasurg.2013.700.
 
 Pascoli, Vincent, Marc Turiault, and Christian Lüscher. "Reversal of Cocaine-Evoked Synaptic Potentiation Resets Drug-Induced Adaptive Behaviour." Nature 481 (2012): 71–75. https://doi.org/10.1038/nature10709.
@@ -3239,9 +3227,6 @@ Shanmugam, Victoria K., Kara S. Couch, Sean Mc Nish, and Richard L. Amdur. "Rela
 Sharp, Mark J., and Thomas A. Melnik. "Poisoning Deaths Involving Opioid Analgesics—New York State, 2003–2012." Morbidity and Mortality Weekly Report 64, no. 14 (2015): 377–80.
 
 Shahbandeh, M. "Gluten-Free Food Market Value in the United States from 2014 to 2025." Statista, November 20, 2019. Accessed July 2, 2020.
-
-https://www.statista.com/statistics/884086/us-gluten-free-food-market-value/.
-
 Sherwin, C. M. "Voluntary Wheel Running: A Review and Novel Interpretation." Animal Behaviour 56, no. 1 (1998): 11–27. https://doi.org/10.1006/anbe.1998.0836.
 
 Shoda, Yuichi, Walter Mischel, and Philip K. Peake. "Predicting Adolescent Cognitive and Self-Regulatory Competencies from Preschool Delay of Gratification: Identifying Diagnostic Conditions." Developmental Psychology 26, no. 6 (1990): 978–86. https://doi.org/10.1037/0012-1649.26.6.978.
@@ -3265,17 +3250,11 @@ Sprenger, Christian, Ulrike Bingel, and Christian Büchel. "Treating Pain with P
 Strang, John, Thomas Babor, Jonathan Caulkins, Benedikt Fischer, David Foxcroft, and Keith Humphreys. "Drug Policy and the Public Good: Evidence for Effective Interventions." Lancet 379 (2012): 71–83.
 
 Substance Abuse and Mental Health Services Administration, U. S. Department of Health and Human Services. Behavioral Health, United States, 2012. HHS Publication No. (SMA) 13-4797, 2013.
-
-http://www.samhsa.gov/data/sites/default/files/2012-BHUS.pdf.
-
 Sutou, Shizuyo. "Low-Dose Radiation from A-Bombs Elongated Lifespan and Reduced Cancer Mortality Relative to Un-Irradiated Individuals." Genes and Environment 40, no. 26 (2018). https://doi.org/10.1186/s41021-018-0114-3.
 
 Sydenham, Thomas. "A Treatise of the Gout and Dropsy." In The Works of Thomas Sydenham, M. D., on Acute and Chronic Diseases, 254. London, 1783. https://books.google.com/books?id=i SxsAAAA-MAAJ&printsec=frontcover&source=gbs\_ge\_summary\_r&cad=0#v=onepage&q&f=false 2.
 
 Synnott, Mark. "How Alex Honnold Made the Ultimate Climb without a Rope." National Geographic online. Accessed July 8, 2020.
-
-https://www.nationalgeographic.com/magazine/2019/02/alex-honnold-madeultimate-climb-el-capitan-without-rope.
-
 Synnott, Mark. The Impossible Climb: Alex Honnold, El Capitan, and the Climbing Life. New York: Dutton, 2018.
 
 Taussig, Helen B. " 'Death' from Lightning and the Possibility of Living Again." American Scientist 57, no. 3 (1969): 306–16.
@@ -3289,9 +3268,6 @@ Vasconcellos, Silvio José Lemos, Matheus Rizzatti, Thamires Pereira Barbosa, Br
 Review." Trends in Psychology 27, no. 1 (2019): 141–53. https://doi.org/10.9788/TP2019.1-11.
 
 Vengeliene, Valentina, Ainhoa Bilbao, and Rainer Spanagel. "The Alcohol Deprivation Effect Model for Studying Relapse Behavior: A Comparison between Rats and Mice." Alcohol 48, no. 3 (2014): 313–20.
-
-https://doi.org/10.1016/j.alcohol.2014.03.002.
-
 Volkow, N. D., J. S. Fowler, and G. J. Wang. "Role of Dopamine in Drug Reinforcement and Addiction in Humans: Results from Imaging Studies." Behavioural Pharmacology 13, no. 5 (2002): 355–66. https://doi.org/10.1097/00008877-200209000-00008.
 
 Volkow, N. D., J. S. Fowler, G-J. Wang, and J. M. Swanson. "Dopamine in Drug Abuse and Addiction: Results from Imaging Studies and Treatment Implications." Molecular Psychiatry 9, no. 6 (June 2004): 557–69. https://doi.org/10.1038/sj.mp.4001507.
@@ -3330,7 +3306,6 @@ The page numbers in this index refer to the printed version of this book. The li
 
 Note: Page numbers in italics refer to illustrations.
 
-
 abstinence
  binging following, 87
  in DOPAMINE framework, 76–81
@@ -3351,7 +3326,7 @@ acupuncture, 154
 Adderall
  clients' experiences with, 32, 33, 41–44
  dopamine output effected by, 50
-## 
+##
 
 increasing rates of prescription of, 39
  questions on efficacy of, 130
@@ -3392,7 +3367,7 @@ alcohol
  and depression, 78–79
  disease burden attributed to, 29
  and disulfiram as means of self-binding, 97–98
-## 
+##
 
 impact of access on use of, 101
  and naltrexone as means of self-binding, 96
@@ -3433,7 +3408,7 @@ antidepressants
  prevalence of use, 38–39
  tolerance/dependence issues with, 130
 anxiety
-## 
+##
 
 of author, 189–90
  and cannabis consumption, 76, 81, 84–85
@@ -3473,7 +3448,7 @@ blaming, 191
 blood pressure, 29
 blue-collar jobs, 168–69
 boredom, 41, 105–7
-## 
+##
 
 brain
  and abundance in modern world, 67
@@ -3513,7 +3488,7 @@ cannabis
  and DOPAMINE framework, 74–75
  and medical marijuana, 114
  and mindfulness, 81
-## 
+##
 
 objectives of consumers of, 73–74
  potency of, 22
@@ -3554,7 +3529,7 @@ cigarettes and nicotine
  electronic cigarettes/vape pens, 21–22, 113–14
  impact of access on use of, 101
  and Jacob's experience with sex addiction, 13
-## 
+##
 
 class equality, 30
 classical (Pavlovian) conditioning, 58–62
@@ -3595,7 +3570,7 @@ cues
  associated with drug use, 58
  cue-dependent learning, 58–62
 cutting, addiction to, 167
-## 
+##
 
 data gathering in DOPAMINE framework, 72–73
 deaths
@@ -3636,7 +3611,7 @@ distractions
 disulfiram as means of self-binding, 97–98
 dogs, pain-response study of, 145–47
 dopamine
-## 
+##
 
 dopamine receptors, 48, 56, 56
  function of, 48–49
@@ -3677,7 +3652,7 @@ drugs and drug use
 Dunnington, Kent, 2
 Duragesic fentanyl, 18
 Dutto, Vince, 26–27
-## 
+##
 
 DXM, 22
 dysphoria, 57
@@ -3716,7 +3691,7 @@ female modesty, 112
 fentanyl, 21, 22
 fibromyalgia, 154–55
 Finucane, Tom, 67
-## 
+##
 
 food
  addiction to, 88, 99–100
@@ -3755,7 +3730,7 @@ Hatcher, Alexandrea, 134
 health care, affordable, 30
 heart rate following pain exposure, 146, 147, 148
 Hebb, Donald, 179
-## 
+##
 
 hedonic set point, 54, 145
 hedonism, 37, 57
@@ -3796,7 +3771,7 @@ honesty, 171–205
 Honnold, Alex, 159–60, 166–67
 hormesis, science of, 148–52
 hotel rooms, 17–18
-## 
+##
 
 Hung, Lin, 184
 Huxley, Aldous, 40
@@ -3834,7 +3809,7 @@ Kant, Immanuel, 118
 ketamine, 22, 115
 Kimmel, Jimmy, 150
 Klonopin, 39, 130
-## 
+##
 
 Koob, George, 57, 101
 Korea, 39
@@ -3873,7 +3848,7 @@ medical marijuana, 114. See also cannabis
 medical practice, modern, 38–39
 medications
  client's experience with, 32–33, 41–44
-## 
+##
 
 impacts on emotional experience, 131
  and lack of basic self-care mistaken for mental illness, 41–44
@@ -3913,7 +3888,7 @@ naltrexone as means of self-binding, 96–97
 National Center for Health Statistics (CDC), 133
 National Health Interview Survey, 133
 natural resources, 30
-## 
+##
 
 Netflix, binge-watching, 44
 neuroadaptation (tolerance), 53–58
@@ -3953,7 +3928,7 @@ opioids
  and shrinking of temporal horizons, 103–4
  and tolerance (neuroadaptation), 55
  and willingness to help others, 184
-## 
+##
 
 See also specific drugs, including heroin
 opponent-process theory, 52–53
@@ -3993,7 +3968,7 @@ pain
  and exposure therapy, 156–59
  and extreme sports, 165–67
  and homeostatic mechanisms, 143–44
-## 
+##
 
 and hormesis, 148–52
  and increased tolerance to fear, 159–60
@@ -4034,7 +4009,7 @@ pleasure
  inability to enjoy, 57
  neural processing of, 2
  pain experienced with, 65
-## 
+##
 
 pain's ability to trigger, 144–48
  pursuit of, as source of pain, 66–68, 234
@@ -4075,7 +4050,7 @@ presynaptic neurons, 47–48, 48
 prevention, honesty as means of, 197–204
 Priessnitz, Vincenz, 141–42
 problems in DOPAMINE framework, 74–75
-## 
+##
 
 Prohibition era, 19
 promises, breaking/keeping, 194–95
@@ -4114,7 +4089,7 @@ responsibility, personal, 186–91
 restraint, symbols of, 116–17
 reward pathways in the brain, 49
  and denial, 177
-## 
+##
 
 and learning's impact on dopamine firing, 63–64
  and measuring addictive potential of drugs/behaviors, 49
@@ -4154,7 +4129,7 @@ self-binding, 89–118
  chronological strategies for, 101–9
  client's experience with, 89–91
  and creating barriers to drug of choice, 91–92
-## 
+##
 
 limitations of, 94–95, 113
  and marshmallow experiment at Stanford, 115–16
@@ -4195,7 +4170,7 @@ Silicon Valley, 168
 simple pleasures, taking joy in, 57–58, 234
 Sirens of Homer's Odysseus, 93, 176
 skydiving, 165
-## 
+##
 
 sleeve gastrectomy, 99
 smartphones
@@ -4235,7 +4210,7 @@ Theory of Sacrifice and Stigma (Iannaconne), 220–21
 time limits. See chronological strategies for self-binding
 tobacco use. See cigarettes and nicotine
 tolerance (neuroadaptation), 53–58
-## 
+##
 
 trading one addiction for another, 79–80, 99
 transcranial direct current stimulation (tDCS), 178
@@ -4273,7 +4248,7 @@ Winnicott, Donald, 191
 withdrawal
  cautions about life-threatening, 79
  and dopamine fasting, 79, 84
-## 
+##
 
 and dysphoria driven relapse, 57
  from reading habit, 181
@@ -4288,7 +4263,7 @@ World War II
  atomic blasts in Japan, 149
  wounded soldiers in, 65–66
 Xanax, 22, 39, 79, 129, 130
-## 
+##
 youth, 75, 79, 151
 
 #### A B C D E F G H I J K L M N O P Q R S T U V W X Y
@@ -4304,5 +4279,3 @@ Anna Lembke is professor of Psychiatry and Addiction Medicine at Stanford Univer
 Discover your next great read!
 
 Get personalized book picks and up-to-date news about this author.
-
-Sign up now.

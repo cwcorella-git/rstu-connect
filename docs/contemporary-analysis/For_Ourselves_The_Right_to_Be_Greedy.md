@@ -59,11 +59,11 @@ category: "contemporary-analysis"
 | | 36 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 19 |
 | | 37 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 20 |
 | | 38 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 20 |
-| | 39 | | | | | | | | | | | | | | | | | | | | | | | | 
+| | 39 | | | | | | | | | | | | | | | | | | | | | | | |
  | | | | | | | | | | | | | 20 |
 | | 40 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 21 |
 | | 41 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 21 |
-| | 42 | | | | | | | | | | | | | | | | | | | | | | | | 
+| | 42 | | | | | | | | | | | | | | | | | | | | | | | |
  | | | | | | | | | | | | | 21 |
 | | 43 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 21 |
 | | 44 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 21 |
@@ -89,23 +89,23 @@ category: "contemporary-analysis"
 | | 62 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 28 |
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | IV. | . Th | e . | R | es | 01 | 12 | ın | C | e | of | f I | Eg | ,0 | is | m | lS | | | | | | | | | | | | | | | | | | | | | | 29 |
-| | 63 | | | | | | • | | | | | | | | | | | | | | | | | | 
+| | 63 | | | | | | • | | | | | | | | | | | | | | | | | |
 • | | | | | | | | | | | | | 29 |
 | | 64 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 29 |
 | | 65 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 29 |
 | | 66 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 29 |
 | | 67 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 30 |
-| | 68 | | | | | | | | | | | | | | | | | | | | | | | | 
+| | 68 | | | | | | | | | | | | | | | | | | | | | | | |
 • | | | | | | | | | | | | | 30 |
 | | _ | | | | | _ | _ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | V. | Cor | | | | | | | | | | • | | | | | | | | | | | | | | | | | | | | | | | | | | | 31 |
 | | 69 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 31 |
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 31 |
-| | 71 | • | • | | • | • | • | ٠ | • | • | • | | | | • | • | • | • | ٠ | ٠ | • | • | • | • | 
-• | • | • | 
-• | ٠ | | ٠ | • | • | | 
+| | 71 | • | • | | • | • | • | ٠ | • | • | • | | | | • | • | • | • | ٠ | ٠ | • | • | • | • |
+• | • | • |
+• | ٠ | | ٠ | • | • | |
 • | • | • | 31 |
-| | 72 | | | | | | | | | | | | | | | | | | | | | | | | 
+| | 72 | | | | | | | | | | | | | | | | | | | | | | | |
  | | | | | | | | | | | | | 32 |
 
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 3 |
@@ -134,7 +134,7 @@ category: "contemporary-analysis"
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | - | | | | | | | | | | | | | | | | | | | | | | | | | | | • | | | | | | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 9 | 3 | • | • | • | • | • | • | • | • | • | • | • | • | • | 
+| 9 | 3 | • | • | • | • | • | • | • | • | • | • | • | • | • |
 • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • | • • | • | • | • | • | • | • | • | • | • | • | • | • | 3 |
 | IX. A | ٩u | th | ıo | ri | t | V | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 4 |
 | 9 | 4 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 4 |
@@ -202,17 +202,17 @@ category: "contemporary-analysis"
 | | Thesis 71 | |
 ## | | Thesis 76 | . 65 |
 
-| | Thesis 79 | 
+| | Thesis 79 |
 . . | , . | | | | | | | | | | | | | | | | 66 |
 |----------|------------|----------------|-----|--|--|--|--|-------|--|--|---|--|--|-------|--|-------|--|--|----|
-| | Thesis 88 | 
+| | Thesis 88 |
  | | | | | | | | | | | | | | | | | 66 |
-| | Thesis 89 | 
- | | | | | | | | | | | | | | 
+| | Thesis 89 |
+ | | | | | | | | | | | | | |
  | | | 67 |
 | | Thesis 91 | | | | | | | | | | | | | | | | | | 67 |
-| | Thesis 92 | 
- | | | | | | | | | | | | | | 
+| | Thesis 92 |
+ | | | | | | | | | | | | | |
  | | | 67 |
 | | Thesis 93 | | | | | | | | | | | | | | | | | | 67 |
 | | Thesis 94 | | | | | | | | | | | | | | | | | | 68 |
@@ -248,19 +248,19 @@ category: "contemporary-analysis"
 | | Thesis 30 | | | | | | | | | | | | | | | | | | 76 |
 | | Thesis 35 | | | | | | | | | | | | | | | | | | 76 |
 | | Thesis 36 | | | | | | | | | | | | | | | | | | 76 |
-| | Thesis 40 | 
- | | | | | | 
-• | | | • | | | 
-• | | 
+| | Thesis 40 |
+ | | | | | |
+• | | | • | | |
+• | |
 • | | | 76 |
 | | Thesis 42 | | | | | | | | | | | | | | | | | | 77 |
-| | Thesis 46 | 
+| | Thesis 46 |
  | | | | | | | | | | | | | | | | | 77 |
-| | Thesis 48 | 
+| | Thesis 48 |
 . . | | | | | | | | | | | | | | | | | 78 |
-| | Thesis 49 | 
+| | Thesis 49 |
 . . | | | | | | | | | | | | | | | | | 78 |
-| | Thesis 53 | 
+| | Thesis 53 |
 . . | | | | | | | | | | | | | | | | | 78 |
 | | Thesis 54 | | | | | | | | | | | | | | | | | | 78 |
 
@@ -1230,11 +1230,10 @@ This relationship might be clarified in terms of a dialectical symbolic logic, w
 
 With *p* representing that (social) state of affairs characterized as "narrow egoism", *~p* representing the state of "altruism", and *~~p* "communist egoism", we can formulate this relation as follows:
 
-
 (~~p # p) & (~~p # ~p) & (p # ~p)
  or simply:
 (p # ~~p # ~p)
-## 
+##
 The latter two conjunctions would be granted truth even by formal logic, but the first belongs exclusively to dialectical logic. Only a vestige, a shadow of the first conjunct holds within formal logic:
 
 "A sentence and its negation are called contradictories of one another. Though any sentence of the form *~o* has two equivalent contradictories, *o* and *~~o*, it has become customary to speak loosely of 'the' contradictory of a sentence."
@@ -1253,9 +1252,8 @@ We can arrive at a formal-logical version of this model by reduction, specifical
 
 The great advantage of the Dialectical Logic (Fig. 1) is seen concretely by using the interpretation:
 
-
 p: (the) "narrow egoism" (theory) is true of the world.
-## 
+##
 *~p*: "altruism" is true of the world.
 
 *~~p*: "communist egoism" is true of the world.

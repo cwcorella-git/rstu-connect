@@ -169,9 +169,8 @@ Relationship models opposed to possession, coercion, codependency, and dominatio
 
 No matter what shape they take, relationships need honesty and trust and love. I find polyamory a useful framework for practicing a broader, social, radical love ethic. If it's not your thing, though, that's cool.
 
-
 [1] bell hooks – "All About Love"
-## 
+##
 [\[2\]](#page-1-0) Gabor Maté – "The Myth of Normal"
 
 [\[3\]](#page-1-1) Sándor Ferenczi quoted in "Coming to Our Senses"

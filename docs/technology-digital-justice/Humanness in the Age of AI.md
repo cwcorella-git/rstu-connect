@@ -2,7 +2,7 @@
 title: >-
   Accept All Reject Settings no longer be effective discriminators it for
   interactions exclusively with ent. Similar to how users can filter e.g.
-  "Following" and "For You" nt or accounts that have been 
+  "Following" and "For You" nt or accounts that have been
 category: technology-digital-justice
 tags:
   - technology
@@ -88,9 +88,6 @@ By clicking "Accept All", you agree to the storing of cookies on your device to 
 ## Reject
 
 ## Settings lvancement of AI has rendered data int for attesting one's human status. Indiverifying humanness through an status based on unique physical Humanity--a technology company as supported the design of a The state-of-the-art device, which liveness and uniqueness without storing any image data, issues an Ai-sate PoP credential on World ID. While
-
-4 of 25
-
 ## Humanness in the Age of AI
 
 ## EN Get World App
@@ -145,9 +142,6 @@ Accept All
 ## Reject digital identity. Without it, many use cases of identity where humans become hard to distinguish from Al. ing zero-knowledge proofs and selective empower individuals. Please note that the layers represent a standardized definition of digital
 
 ## Settings onhood and digital authentication is crucial to mitigate attacks. World ID seeks to establish a permissionless
-
-7 of 25
-
 ## ΕN
 
 ## Get World App

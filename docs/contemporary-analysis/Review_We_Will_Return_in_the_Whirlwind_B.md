@@ -14,9 +14,6 @@ Race Class 2010 51: 90 DOI: 10.1177/03063968100510030803
 The online version of this article can be found at: http://rac.sagepub.com/content/51/3/90
 
 Published by:
-
-http://www.sagepublications.com
-
 On behalf of:
 
 ## ![](_page_0_Picture_8.jpeg)

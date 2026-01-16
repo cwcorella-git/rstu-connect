@@ -33,7 +33,7 @@ Influences:
 ## Australian Labor Movement (1)(2)
 
 Sources:Murphy, D.J. (ed), The Big Strikes, Queensland 1889-1965, University of Queensland Press, Brisbane, Queensland, 1983.Morrison, A.A., 'The Brisbane general Strike of 1912', Historical Studies Australia and New Zealand, vol. 4, no. 4, 1950, pp. 125-144.
-http://www.freebase.com/view/en/1912_brisbane_general_strike
+
 Additional Notes:
 
 ## Edited by Max Rennebohm (03/04/2011)

@@ -26,17 +26,17 @@ tags:
 
 [+ 47](https://www.archdaily.com/977508/natural-house-ideo-arquitectura/621810a36864940164c479b7-natural-house-ideo-arquitectura-photo)
 
-- 
+-
 
 - Area: [250](https://www.archdaily.com/search/projects/min_area/200/max_area/300?ad_name=project-specs&ad_medium=single) m²
 
 - Year: [2021](https://www.archdaily.com/search/projects/year/2021?ad_name=project-specs&ad_medium=single)
 
-- 
+-
 
 ## Manufacturers: ICONICO, Stork interior design
 
-- 
+-
 
 ## Lead Architect: Virginia González del Barco
 

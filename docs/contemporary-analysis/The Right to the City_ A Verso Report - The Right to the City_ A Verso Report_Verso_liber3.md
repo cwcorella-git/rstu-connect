@@ -1277,9 +1277,6 @@ Geographers 63 (1973), 275–295.
 - 1 Blackshaw, R. v (Rev 1) [2011]EWCA Crim 2312 (18 October 2011). Available here: http://www.bailii.org/ew/cases/EWCA/Crim/2011/2312.html
 - 2 c.1300, agast, «terrified,» pp. of M. E. agasten «to frighten» (late 13c.), from a-intensive prefix + O. E. gæstan «to terrify,» from gæst «spirit, ghost».
 - 3 'Intellectuals and power: A conversation between Michel Foucault and Gilles Deleuze'
-
-http://libcom.org/library/intellectuals-power-a-conversation-between-michel-foucault-and-gillesdeleuze
-
 - 4 R v Blackshaw, cited
 - 5 R v Caird [1970] 54 Cr. App. R 499 at 506.
 
@@ -1403,7 +1400,7 @@ hand."
 October
 (2014)
 Motherboard
-http://motherboard.vice.com/read/the-mailman-mapping-brazils-largest-favela-by-hand|
+
 |----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | | |
 | | |

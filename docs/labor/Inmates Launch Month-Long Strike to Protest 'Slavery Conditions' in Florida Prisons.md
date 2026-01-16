@@ -62,9 +62,6 @@ On social media, racial justice advocates expressed their support as well.
 Today, incarcerated men and women are going on strike to protest the slave labor they are demanded to partake in.
 
 The 13th Amendment allows this, but it is wrong. It must be protested. All slavery should be banned in this country. Period.
-
-https://t.co/2Of7n3zLBc
-
 ## — Shaun King (@Shaun King)
 
 ## January 15, 2018

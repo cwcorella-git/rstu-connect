@@ -1893,7 +1893,7 @@ Nevertheless, advocates of social control as a means to social efficiency also h
 
 The struggle between a conception of social studies as fostering, on the one hand, reflection on obstacles to societal improvement and, on the other, a uniform ideology that allows for efficient social control of the masses, via nationalist appeals to American exceptionalism, continued throughout the twentieth century and on to the present day. However, the role of educational theorists who masked an explicit aim of social control in the language of scientific efficiency in advocating the latter conception is rarely acknowledged.32
 
-With scarcely concealed excitement, the website of The Eagle Forum, an organization formed by Phyllis Schlafly in 1975 in the fight against the Equal Rights Amendment, reviews *The* 
+With scarcely concealed excitement, the website of The Eagle Forum, an organization formed by Phyllis Schlafly in 1975 in the fight against the Equal Rights Amendment, reviews *The*
 
 American Citizens Handbook, the National Education Association's handbook or social studies teachers, ublished in 1951:
 

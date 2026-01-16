@@ -76,7 +76,7 @@ More thrust per m2 compared to other wind propulsion technologies.
 
 ## ![](_page_4_Figure_1.jpeg)
 
-Rotor Sails on a longitudinal Rail System are transported along the deck by an independent Rail System **ANEMOI** 
+Rotor Sails on a longitudinal Rail System are transported along the deck by an independent Rail System **ANEMOI**
 
 - Minimal impact on cargo and port operations
 - Suitable for all vessel type, recommended for Bulk Carriers

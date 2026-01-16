@@ -301,7 +301,7 @@ Cato: Est istuc quidem, Laeli, aliquid, sed nequaquam in isto sunt omnia; ut The
 
 'Nec hercule,' inquit, 'si ego Seriphius essem, nec tu, si Atheniensis clarus umquam fuisses.' Quod eodem modo de senectute dici potest: nec enim in summa inopia levis esse senectus potest ne sapienti quidem, nec insipienti etiam in summa copia non gravis.
 
-ź**ę̃** 
+ź**ę̃**
 
 #### HOW TO GROW OLD
 

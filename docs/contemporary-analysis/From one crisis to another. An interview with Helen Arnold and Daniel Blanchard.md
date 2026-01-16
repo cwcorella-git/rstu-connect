@@ -12,9 +12,6 @@ category: "contemporary-analysis"
 **Tags:** Socialisme Ou Barbarie, Murray Bookchin, Daniel Blanchard, May 68, crisis
 
 This text is a translation of an article originally published in French in September 2021 on the websiteA contretemps:
-
-https://acontretemps.org/IMG/pdf/d\_une\_crise\_a\_l\_autre\_blanchard-arnold\_.pdf
-
 Helen Arnold and Daniel Blanchard introduced Murray Bookchin's thinking to France in 1976. In2019 they participated in the publication of a collection of that author's texts,Pouvoir de détruire, pouvoir de créer, along with Renaud Garcia and Vincent Gerber. The work of this libertarian thinker hasattracted increasing attention in France recently.
 
 However, I did not want to limit the interview with these friends to that subject, but to exchange ontheir trajectory in general, with their commitments over the years. Social criticism and the desire foremancipation have remained central concerns in their lives. In the 1950s and 60s, they were members ofthe group and journal Socialisme ou Barbarie, and in 2007, along with other former members, theyproduced an anthology of the writings from the journal.

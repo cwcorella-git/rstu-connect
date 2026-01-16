@@ -347,21 +347,21 @@ Signed by Lech Walesa, Thomas Schelling, Larry Diamond, James Stavridis, James L
 
 ## ![](_page_27_Figure_1.jpeg)
 
-**Afghanistan Algeria Argentina Armenia Australia Austria Bangladesh Belarus** 
+**Afghanistan Algeria Argentina Armenia Australia Austria Bangladesh Belarus**
 
 ## **Belgium**
 
-**Bolivia Bosnia and Herzegovina Brazil Bulgaria Burkina Faso Burma Burundi** 
+**Bolivia Bosnia and Herzegovina Brazil Bulgaria Burkina Faso Burma Burundi**
 
 ## **Cambodia**
 
-**Cameroon Canada Chile China Colombia Cote d'Ivoire (Ivory Coast)** **Democratic Republic of Congo Dominican Republic Ecuador Egypt El Salvador Estonia** 
+**Cameroon Canada Chile China Colombia Cote d'Ivoire (Ivory Coast)** **Democratic Republic of Congo Dominican Republic Ecuador Egypt El Salvador Estonia**
 
-**Ethiopia Fiji Finland France Gambia Georgia Germany Ghana** 
+**Ethiopia Fiji Finland France Gambia Georgia Germany Ghana**
 
-**Guinea (Conakry) Greece Guatemala Haiti Honduras Hong Kong Hungary India** 
+**Guinea (Conakry) Greece Guatemala Haiti Honduras Hong Kong Hungary India**
 
-**Indonesia Iran Iraq Israel Italy Jordan Kazakhstan Kenya Kosovo** 
+**Indonesia Iran Iraq Israel Italy Jordan Kazakhstan Kenya Kosovo**
 
 ## ![](_page_28_Picture_0.jpeg)
 
@@ -376,17 +376,17 @@ Signed by Lech Walesa, Thomas Schelling, Larry Diamond, James Stavridis, James L
 | Malawi |
 ## | Maldives |
 
-**Mauritania Mexico Moldova Mongolia Morocco Namibia Nepal Netherlands New Zealand** 
+**Mauritania Mexico Moldova Mongolia Morocco Namibia Nepal Netherlands New Zealand**
 
-**Nicaragua Nigeria Norway Pakistan Palestine Paraguay Peru Philippines Poland** 
+**Nicaragua Nigeria Norway Pakistan Palestine Paraguay Peru Philippines Poland**
 
-**Russia Senegal Serbia Sierra Leone Singapore Slovakia Slovenia Somalia South Africa** **South Sudan Spain Sri Lanka Sudan Sweden Switzerland Syria Tanzania** 
+**Russia Senegal Serbia Sierra Leone Singapore Slovakia Slovenia Somalia South Africa** **South Sudan Spain Sri Lanka Sudan Sweden Switzerland Syria Tanzania**
 
 ## **Thailand**
 
-**Tibet Tonga Tunisia Turkey Uganda Ukraine United Kingdom** 
+**Tibet Tonga Tunisia Turkey Uganda Ukraine United Kingdom**
 
-**Uruguay Vanuatu Venezuela Vietnam West Papua Western Sahara Yemen Zambia** 
+**Uruguay Vanuatu Venezuela Vietnam West Papua Western Sahara Yemen Zambia**
 
 ## **Zimbabwe**
 
@@ -1836,7 +1836,7 @@ Internally, broad-based civic coalitions are environments for compromise, common
 
 Source: Karatnycky and Ackerman, How Freedom Is Won, 18.
 
-**FIW = "Freedom in the World" CAR = "Combined Average Rating" (average of FIW Political Rights and Civil Liberties scores. The scores are based on a 1-7 scale: 1 represents the highest level of freedom and 7 the lowest.)** 
+**FIW = "Freedom in the World" CAR = "Combined Average Rating" (average of FIW Political Rights and Civil Liberties scores. The scores are based on a 1-7 scale: 1 represents the highest level of freedom and 7 the lowest.)**
 
 ## ![](_page_112_Figure_3.jpeg)
 
@@ -2522,13 +2522,13 @@ Aside from the image of the author and Gene Sharp in Lithuania, all photographs 
 
 **PAGE 73: Peter Charlesworth/Light Rocket via Getty Images.**
 
-**PAGE 105: Universal History Archive/Universal Images Group** 
+**PAGE 105: Universal History Archive/Universal Images Group**
 
 ## **via Getty Images.**
 
 ## **PAGE 133: Bettman via Getty Images.**
 
-**PAGE 134: Photograph: Elijah Jokazi via Evening Post/** 
+**PAGE 134: Photograph: Elijah Jokazi via Evening Post/**
 
 ## **The Herald/Tisoblackstar.**
 

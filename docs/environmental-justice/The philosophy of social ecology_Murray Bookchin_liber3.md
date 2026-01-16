@@ -158,7 +158,7 @@ L m m pb Ho P b pm p p pj b m m i p hu b-d m i b y b T \_mp b c m m W u m p m b 
 
 ## m. A h m m m p  b b p p N q m'S rg m y f a
 
-G b b mp m p mb · pm m m b v t m m b b anm w m a m " m b B m m p : b m· p p b p vmt b i m m p; m 
+G b b mp m p mb · pm m m b v t m m b b anm w m a m " m b B m m p : b m· p p b p vmt b i m m p; m
 
 U pbmi I m b mg i m p · m eonl wl Us, m m b A M p m p mp W mi m b k pobm b Ap m pp b pc with bengn physiographic conditions, we are subject to material insecurity, contesting wills, challenges to our sense of self and self-regard, fears of disease, diminishing physical powers with age, frightening dreams, and so forth. We address these abiding problems with relatively developed minds that are still encased, as it were, in extremely potent animal attributes.
 
@@ -328,13 +328,13 @@ Naïve as the Presocratic view may be with all its archaisms, a nature philosoph
 
 tion," the "epistemological turn." Kant finally denatured nature for cognitive purposes, and one grade of Being effectively ceased to exist. Kant left us alone with our own subjectivity. "Kant does Jaspers incisively summarized the issue; "what he inquires into is our knowledge of objects. He provides no doctrine of the metaphysical world, but a critique of the reason that aspires to nificant turn in Western philosophy with his "Copernican revoluof its Presocratic remnant by removing the material "grade of being" altogether. Things-in-themselves ceased to be things at all not, like all earlier philosophers, investigate objects," as Karl know it. He gives no doctrine of Being as something objectively sciousness. Or, in his own words, he provides no 'doctrine,' but a knowledge of the supersensible or as ontology, which teaches It was Kant-a near Jacobin-who made the most sigknown, but an elucidation of existence as the situation of our conpropaedeutics." Accordingly, Kantian categories have objective validity only insofar as they remain within the limits of possible experience. After Kant, "metaphysics in the sense of objective being as whole, is impossible."12
 
-As liberating as this innovation was from absolute empiricism, which renders its own experience in a world of pure w b m b K m d sw u bv kwdd m wd slb wb d wd d w mg c k i o w bbd w m nwd d w dd b wd w nwb dd d nw nw b ws nwbb d d vb r d dd u d dd W d m bm btzd 
+As liberating as this innovation was from absolute empiricism, which renders its own experience in a world of pure w b m b K m d sw u bv kwdd m wd slb wb d wd d w mg c k i o w bbd w m nwd d w dd b wd w nwb dd d nw nw b ws nwbb d d vb r d dd u d dd W d m bm btzd
 
 dvm w u d w w d b dd m kw13 d w v d b d dm d b m v dd sbv bs F S b d b m o d wd nw -ad w m l dd w m [] b bj bd wd d b g w m d dd m d d dd d m f m md b m xv O mJ bm B d H' g so bd R v w w v w G m wd d g m m w bv d Nu I y bd bd bw m d b m W b w w " sm m mm d m d dr d m w md d s wv m m) w v m m d d m bv ( d qu v E w d d wd h ) Md mp; s m L , d mm mbdd m Ad x m [ mr mbdm d] w m D ; e R w md m m t m 5
 
 Th m bv vr Km; d d . h m m xr bv b m m v· dd "'o dn v d h t v m d Ev dm ppr m m b m A um m pp m ppp v u v dd ppp bd pm m mm dd p6
 
-mm d b b d pp p m m m d m d m ps p mp b b bj d bj m d m v m b mm m m v d m d m d m A K c bv h d m bm p o m m d p v m v 
+mm d b b d pp p m m m d m d m ps p mp b b bj d bj m d m v m b mm m m v d m d m d m A K c bv h d m bm p o m m d p v m v
 
 v x m v b Wd b pppd bi ud mp b m mm- m d m m d m d b p m w v d p vvd m b Cb d m m dd m d p bd m b Hd Odm v v m pp p m F m m b mb E d Nv Am pu bm pu mm p ml mm A dd vb m b d eegym b m m d d vmm m TUd m8p vb d / d y
 
@@ -346,7 +346,7 @@ Be ge m w w e e C mm w ge m ve e om r mem Um e kg e m: ge m e e wvew ge m e m e 
 
 I w d d d a dgud . W Md p d p p h y xp dd wd j. d w pd p w w p d d hpb w d g p w xp p w w M w d I p p dsd p d s q kw d p w d d w e ud w N
 
-W p c dg p d z B d p p gi L d pp d Jd A d w p p d f! d g d t j q ff d cm - S ppu NCp pgi dd pp d pgy d h d  v d pp wd d ld W pp D g, w v, p dd, d y kd H w d wd, dd d p ; dd p v K vi pp w w p pv a v y pp w y p n r w w y v v W wv y ppp ppy ppp qy p 
+W p c dg p d z B d p p gi L d pp d Jd A d w p p d f! d g d t j q ff d cm - S ppu NCp pgi dd pp d pgy d h d  v d pp wd d ld W pp D g, w v, p dd, d y kd H w d wd, dd d p ; dd p v K vi pp w w p pv a v y pp w y p n r w w y v v W wv y ppp ppy ppp qy p
 
 O ppp h w v pop  w w x v p p ( v pps- p " t I pp G ppy ) pv fi p w w wv n v
 
@@ -649,11 +649,11 @@ Hence, it distorts the very meaning of dialectic to speak of it as a "method." I
 
  Hg w vw h v h h pw i ( g w v h g e t ss q y w gv I A gv B k v h r w wh h w v wh r wh\_2 c w ( w) h h a-g b 1'ng g h h v h h v w z g g v gh v wyw g , w h vy h h " wh v h v gv v h v T gu h v h g r v Wh whh wh jv g h h v hp v . M h mg h w vv w h . A h h v w w d S h w v ; w v h w g y. [ h w h h w h g x
 
-Gv v g h g v I h h fg h h S d mm m m w m vm W m w w w mm m w vy m w w aa wv m m s v mv N w v m w m D my r- v m u C m t" w m k v w m A p vm v s w v g v s m w v ' m 
+Gv v g h g v I h h fg h h S d mm m m w m vm W m w w w mm m w vy m w w aa wv m m s v mv N w v m w m D my r- v m u C m t" w m k v w m A p vm v s w v g v s m w v ' m
 
 ## m z w e w g g v 0 v m m W v v m ma v v n s v m v m I w m, h mv cm o c w o v m T mk eoy, w m m v e m m sy T q I w m I vw \$ m g b ma I my gw lm F m m mm v mu m
 
-U g x w vm m m w i w m T m m v g w mm m m a z j Em m z m f m w. B w z m m vv m m v 
+U g x w vm m m w i w m T m m v g w mm m m a z j Em m z m f m w. B w z m m vv m m v
 
 # Y F
 
@@ -734,9 +734,9 @@ which pointedly studies the social origins of a nature ideology and explores its
 
 ### HISTORY, CIVILIZATION, AND PROGRESS Outline for a Criticism of Modern Relativism
 
-Rarely have the concepts that literally define the best of Western culture--its notions of a meaningful flistory, a universal Civilization, and the possibility of Progress--been called so radically into question as they are today. In recent decades, both in the United States and abroad, the academy and a subculture of self-styled postmodernist intellectuals have nourished an entirely new ensemble of cultural conventions that stem from a corrosive social, p m m T m p d€4 p pm m p m p v p pp pw r xp I p p p m p m pmm p p p h p p p p p p ; p - p mpp m p v p l m pp W p pmc ( ) Up\_ m p a k p v 
+Rarely have the concepts that literally define the best of Western culture--its notions of a meaningful flistory, a universal Civilization, and the possibility of Progress--been called so radically into question as they are today. In recent decades, both in the United States and abroad, the academy and a subculture of self-styled postmodernist intellectuals have nourished an entirely new ensemble of cultural conventions that stem from a corrosive social, p m m T m p d€4 p pm m p m p v p pp pw r xp I p p p m p m pmm p p p h p p p p p p ; p - p mpp m p v p l m pp W p pmc ( ) Up\_ m p a k p v
 
-## v H Cv p m m W p m p E m b p p W Histy p m m p mp po f p q t i p vp m m A Cv Izntio'? pm p  p p p. s? Rv v j p p p p m p v m M m g m pe 
+## v H Cv p m m W p m p E m b p p W Histy p m m p mp po f p q t i p vp m m A Cv Izntio'? pm p  p p p. s? Rv v j p p p p m p v m M m g m pe
 
 ## p p xp v p p v p mp p F p' m p p p p p k m v a serious response, rather, they are dismissed as symptoms of a personal and social malaise.
 

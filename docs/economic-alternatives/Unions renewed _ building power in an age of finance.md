@@ -64,7 +64,7 @@ Names: Martin, Alice (Economist), author. | Quick, Annie, author. Title: Unions 
 
 automation — Provided by publisher.
 
-Identifiers: LCCN 2020014209 (ebook) | ISBN 9781509539116 (hardback) | ISBN 9781509539123 (paperback) | ISBN 9781509539130 (epub) 
+Identifiers: LCCN 2020014209 (ebook) | ISBN 9781509539116 (hardback) | ISBN 9781509539123 (paperback) | ISBN 9781509539130 (epub)
 Subjects: LCSH: Labor unions--History--21st century. | Labor movement. | Financialization. Classification: LCC HD6476 . M266 2020 (print) | LCC HD6476 (ebook) | DDC 331.880973--dc23
 
 LC record available at https://lccn.loc.gov/2020014208LC ebook record available at https://lccn.loc.gov/2020014209

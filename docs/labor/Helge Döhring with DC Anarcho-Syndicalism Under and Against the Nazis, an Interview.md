@@ -15,9 +15,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/helge-dohring-dc-anarcho-syndicalism-under-and-against-nazis-interview
-
 **Tags:** Helge Döhring, DC, FAUD, Germany, anarcho-syndicalism, Nazism, World War II, Rudolf
 
 ## Rocker, syndicalism

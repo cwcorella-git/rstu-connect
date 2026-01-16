@@ -19,7 +19,7 @@ In such circumstances, one might say, the more ambitious the thinker, the furthe
 
 Above all else, Öcalan’s intellectual project is driven by a recognition that the revolutionary left’s embrace of positivism, the notion that it would even be possible to create this sort of science of society, has been the “disease of modernity,” the religion of its technocrats and officials, and, for the revolutionary left, an unmitigated disaster—since it means nothing to those classes that actually create things:
 
-> 
+>
 
 It is with pain and anger that I have to admit that the noble struggle that has raged for the past one hundred and fifty years was carried out on the basis of a vulgar, materialist positivism doomed to failure. The class struggle underlies this approach. However, the class—contrary to what they believe—is not the workers and laborers resisting enslavement, but the petit bourgeoisie who has long ago surrendered and became part of modernity. Positivism is the ideology that has formed this class’s perception and underlies its meaningless reaction against capitalism.
 
@@ -29,7 +29,7 @@ How does one begin to go about developing an alternative—one that would do jus
 
 Here Öcalan is nothing if not honest. Disarmingly so. His own sense of greater meaning, he explains, traces back into his own well of mythic imagery from his childhood beside the Zagros mountains, once haunts of Dionysus’ Maenads, from his lingering guilt at tearing the heads off birds to his first experience of the divine in the children’s play of village girls temporarily set free from patriarchal authority. Let us assume, he effectively says, there is something universal here. That such experiences speak to the historical tragedy of a region whose women once made unprecedented contributions to human civilization, but which has ever since been reduced to a bloody plaything of empire:
 
-> 
+>
 
 Upper Mesopotamia became a region of battle and continuously changed hands between the Roman Empire and the two Persian Iranian Empires of the Parthians and the Sassanids. It thus became a region which was no longer a source of civilizations but a region of destruction. It is one of the most tragic developments of history that it has always been subjected to incursion, occupation, annexation and exploitation by other forces. It is like the fate suffered by women: although she has achieved the biggest cultural revolution, she has been violated the most.
 

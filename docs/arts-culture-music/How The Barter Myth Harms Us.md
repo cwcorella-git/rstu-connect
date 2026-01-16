@@ -101,36 +101,35 @@ no reason to assume that it would produce a concrete medium of exchange regularl
 
 ## 5:31
 
-
 in everyday transactions within a society.
 5:34
-Such a system would likely only be used by the tiny proportion of the population 
+Such a system would likely only be used by the tiny proportion of the population
 engaged
 5:39
 in long-distance trade.
 5:40
-As the late British anthropologist David Graeber argues, among the many flaws of 
+As the late British anthropologist David Graeber argues, among the many flaws of
 this economic
 5:45
-theory on the origin of money via barter is the assumption of spot transactions as 
+theory on the origin of money via barter is the assumption of spot transactions as
 the
 5:51
-basis of early economies: if people don't make the trade right away, there's no 
+basis of early economies: if people don't make the trade right away, there's no
 deal.
 5:56
 But why would we limit ourselves to spot transactions in a day-to-day economy?
 6:01
-If you don't have what I want right now, I can still give you what you want, and 
+If you don't have what I want right now, I can still give you what you want, and
 you'll
 6:05
 eventually return the favour.
 6:07
 We are neighbours, after all.
 6:10
-The vast majority of all economic relations in human history have existed between 
+The vast majority of all economic relations in human history have existed between
 people
 6:15
-that lived near each other and knew each other personally, not long-distance 
+that lived near each other and knew each other personally, not long-distance
 traders.
 6:22
 An institution as impersonal as money wouldn't cut it in such contexts.
@@ -145,14 +144,14 @@ Do you want to trade my spears for some bread?
 6:37
 Johnny: Nah bro I only have two apples and I don't want spears.
 6:43
-Carlton: What about my two-disc Blu-Ray special edition of the Incredibles with 
+Carlton: What about my two-disc Blu-Ray special edition of the Incredibles with
 commentary
 6:48
 from director Brad Bird?
 6:49
 Maybe then I could trade your apples for some bread.
 6:52
-Johnny: Nah, no thanks, Blu Ray is a social construct, and besides, I didn't even 
+Johnny: Nah, no thanks, Blu Ray is a social construct, and besides, I didn't even
 like
 6:59
 the sequel.
@@ -161,16 +160,16 @@ What's going on, you look really worn out?
 7:03
 Carlton: Man, I've been stressed out whole day tryna barter.
 7:07
-## 
+##
 
-First I tried old man Geoffrey, then I tried Shanice the shaman, even hit up 
+First I tried old man Geoffrey, then I tried Shanice the shaman, even hit up
 Maurice from
 7:12
 across the river.
 7:14
 Just, no one.
 7:15
-Johnny: I see what you mean, you seem down badder than a lone antelope on an empty 
+Johnny: I see what you mean, you seem down badder than a lone antelope on an empty
 plain.
 7:22
 This whole system feels rigged frfr.
@@ -190,7 +189,7 @@ Not like it's ever gonna change.
 7:51
 This is the only possible system.
 7:53
-Carlton: I hate being the projection of dead economists used to justify the 
+Carlton: I hate being the projection of dead economists used to justify the
 universal and
 7:59
 masturbatory nature of capitalism Johnny: Same here.
@@ -206,23 +205,23 @@ measured exactly, and while valuables are given, there is no explicit agreement 
 8:26
 immediate or future returns.
 8:28
-Such gift economies rely on mutual and alternating debts as the foundation upon 
+Such gift economies rely on mutual and alternating debts as the foundation upon
 which social
 8:35
 relationships are maintained.
 8:37
 There is still a sense of some gifts being better than others, of course.
 8:42
-Canoes take a lot of time and effort to make, so you're gonna get called cheap if 
+Canoes take a lot of time and effort to make, so you're gonna get called cheap if
 the
 8:45
-gift you return is just a chicken, but nobody's gonna assign a numerical value to 
+gift you return is just a chicken, but nobody's gonna assign a numerical value to
 exactly
 8:51
 how cheap you are for that social faux pas.
 8:55
 Across the world, we can find many examples of gift economy principles practised in
-## 
+##
 day-to-day 9:01 life. 9:02 In the Trobriand Islands of Papua New Guinea, the people exchange shell necklaces and armbands 9:07 (known as soulava) in a vast and complex network of relationships that spans the islands. 9:13 The soulava are considered valuable not for their inherent worth, but for the relationships 9:19 they help to create and maintain. 9:21 In traditional Chinese society, gift-giving was viewed as a way to build and maintain 9:27 guanxi, the social connections and networks that facilitate cooperation and trust among 9:32 people. 9:34 Among the Indigenous peoples of the Pacific Northwest Coast of North America, the practice 9:38 of potlatch served to create and reinforce social relationships through gift-giving at 9:44 large ceremonial feasts, to mark important life events such as weddings, funerals, and 9:49 the passing of leadership roles, and to demonstrate one's wealth, generosity, and social status. 9:56 Non-monetary societies typically separate the things and services they share into various 10:01 spheres of exchange. 10:02 There might be a sphere of general consumption, a sphere for land, a sphere for marriages, 10:08 and a sphere for diplomacy. 10:10 For example, some rural Mongolian gold miners wouldn't use the gold they mined to purchase 10:15 cattle or pay dowries, because taking material from one sphere and putting it into another 10:21 is considered a pollution. 10:24 Consolidating everything into one sphere of exchange through money is not the only way 10:29 of organising economic life.
 
 And anyway, there's no reason why there should be just one story for the origin of

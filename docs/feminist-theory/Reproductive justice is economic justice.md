@@ -45,7 +45,7 @@ e-black-women-sparked-a-movement/ | |
 | At the end of this essay, I will read the We Remember Brochure, cover pictured above,
 disseminated by Women of African Descent for Reproductive Justice because it's some bars.
 You can find it linked in bold in this section of the essay, or by clicking on the picture in the
-newsletter. | |
+
 | Reproductive Justice is a critical feminist framework designed by a group of Black women,
 who organized and called themselves Women of African Descent for Reproductive Justice.
 It's an | |
@@ -223,9 +223,6 @@ net worth poverty study from 2021: https://onlinelibrary.wiley.com/doi/abs/10.11
 ## Poverty and Abortion: A Vicious Cycle
 
 . (n.d.). USCCB.
-
-https://www.usccb.org/committees/pro-life-activities/poverty-and-abortion-vicious-cycle
-
 Birthrates are declining globally – here's why it matters
 
 . (2022, May 20). World Economic Forum. https://www.weforum.org/agenda/2021/06/birthrates-declining-globally-why-matters

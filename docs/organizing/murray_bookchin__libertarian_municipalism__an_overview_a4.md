@@ -107,7 +107,7 @@ April 3, 1991; addendum, October 1, 1991
 The Anarchist Library
 October 17, 2009
 Anti-Copyright.
-http://theanarchistlibrary.org
+
 Author: Murray Bookchin
 Title: Libertarian Municipalism: An
 Overview

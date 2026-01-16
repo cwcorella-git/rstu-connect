@@ -46,9 +46,6 @@ we use cookies to make your reading a better experience.
 got it!
 
 more info >
-
-2 of 22
-
 ## ![](_page_2_Picture_2.jpeg)
 
 residential and hotel towers surround a landscaped park along the river $\mid$ image $\ensuremath{\mathbb{C}}$ Negativ
@@ -57,11 +54,11 @@ residential and hotel towers surround a landscaped park along the river $\mid$ i
 
 ## ![](_page_2_Picture_6.jpeg)
 
-GO'C completes 'tinyleaf,' a compact outpost embedded into the northwestern **15k views** 
+GO'C completes 'tinyleaf,' a compact outpost embedded into the northwestern **15k views**
 
 ## ![](_page_2_Picture_8.jpeg)
 
-openwork wooden walls shield theo domini's primitive-inspired residence in **12k views** 
+openwork wooden walls shield theo domini's primitive-inspired residence in **12k views**
 
 ## THE HOUSING AND HOTEL TOWERS
 

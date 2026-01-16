@@ -1506,5 +1506,3 @@ Transformharm.org.
 Tufekci, Zeynep. "How Hong Kong Did It: With the Government Flailing, the City's Citizens Decided to Organize Their Own Coronavirus Response." The Atlantic, May 12, 2020. theatlantic.com.
 
 Walia, Harsha. Undoing Border Imperialism. Chico, CA: AK Press, 2013.
-
-https://1lib.us/book/6119675/99b812

@@ -425,7 +425,7 @@ The [National Police Chiefs' Council](https://en.wikipedia.org/wiki/National_Pol
 - 3. ^ Avon and Somerset Police, Cheshire Constabulary, Cleveland Police, Devon and Cornwall Police, Dorset Police, Greater Manchester Police, Hampshire and Isle of Wight Constabulary, Lancashire Constabulary, Merseyside Police, Metropolitan Police, Northumbria Police, North Wales Police, South Yorkshire Police, Staffordshire Police, West Midlands Police, and additional police forces providing support. Including those in Wales, such as North Wales Police, [22] South Wales Police, [23] and Dyfed-Powys Police. [25][26]
 - 4. \(^\) Southport: 3, Tamworth: 3, Rotherham: >1
 - 5. ^ Rotherham: >1
-- 6. 
+- 6.
 ## Sheffield: 1
 
 7. ^ Plymouth: 1

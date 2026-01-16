@@ -110,9 +110,6 @@ We couldn't have done this without a few key riders, who know who they are. Work
 ## In reply to Welcomebylibcom.org
 
 Additional report from Bournemouth here:
-
-https://iww.org.uk/news/deliveroo-strikes-views-from-the-picket-line/
-
 ## R Totale
 
 | 6 years 8 months ago |

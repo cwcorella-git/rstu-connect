@@ -26,15 +26,15 @@ tags:
 
 [+ 35](https://www.archdaily.com/1004405/viglostasi-residence-block722/64ba9307edf169582e782b7b-viglostasi-residence-block722-photo)
 
-- 
+-
 
 - Area: [500](https://www.archdaily.com/search/projects/min_area/400/max_area/600?ad_name=project-specs&ad_medium=single) m²
 
 - Year: [2023](https://www.archdaily.com/search/projects/year/2023?ad_name=project-specs&ad_medium=single)
 
-- 
+-
 
-- 
+-
 
 Manufacturers: [Grohe,](https://www.archdaily.com/catalog/us/companies/832/grohe) Blomus, MOS Design
 

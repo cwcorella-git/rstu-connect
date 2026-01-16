@@ -74,7 +74,6 @@ THE WOMEN: DUAL DREAM, DUAL NIGHTMARE, DUAL AWAKENING
 - 18 The Unjust Sentencing of Elorriaga and Entzin
 - 19 Opening Remarks at the First Intercontinental Encuentro for Humanity and
 
-
 against Neoliberalism
  20 — Tomorrow Begins Today
      First
@@ -130,7 +129,7 @@ SECTION II — Beneath the Mask
  55 — Letter to the Eureka Committee
  56 — It Continues Raining Here
  57 — Democratic Teachers and the Zapatista Dream
-## 
+##
 58 — Closing Words at the National Encuentro in Defense of the Cultural Heritage To Plant the Tree of Tomorrow Memory Has Its Own Reality
 
 ### **SECTION III — Creating Memory PART ONE — TALES FOR A SLEEPLESS SOLITUDE— The Stories of**

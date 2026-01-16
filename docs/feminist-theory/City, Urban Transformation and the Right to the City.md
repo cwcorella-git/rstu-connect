@@ -174,27 +174,12 @@ https://books.google.com.cy/books?id=nlYFAQAAIAAJ&q=Leadership+and+Urban+Regen e
 ## bi AhVIJZoKHY99Cy0Q6AEIQTAF
 
 Gotham, K. F., Shefner, J., Brumley, K. (2001) "Abstract Space, Social Space and the Redevelopment of Public Housing", Critical Perspectives on Urban Redevelopment, 6, pp: 313-335
-
-https://www.emeraldinsight.com/doi/pdfplus/10.1016/S1047-0042(01)80012-X
-
 Gottdiener, M. (1993) "A Marx for Our Time: Henri Lefèbvre and The Production of Space", Sociological Theory, 11/1.
-
-https://www.jstor.org/stable/201984?seq=1#metadata\_info\_tab\_contents
-
 - Hall, T. and Hubbard, P. (1996) "The entrepreneurial city: new urban politics, new urban geographies?" Progress in Human Geography, V:20/2, pp: 153-174. https://doi.org/10.1177/030913259602000201
 - Harvey, D. (1989) "From Managerialism to Entrepreneurialism: The Transformation in Urban Governance in Late Capitalism", Geografiska Annaler. Series B, Human Geography, Vol. 71, No. 1, pp: 3-17. https://doi.org/10.1080/04353684.1989.11879583
 - Harvey, D. (2008) "The Right to the City" New Left Review, 53, pp: 23-39.
-
-https://kompreser.espivblogs.net/files/2012/11/David-Harvey-The-Right-To-The-City-full.pdf
-
 Hobsbawm, E. J., (1998) Sanayi ve İmparatorluk, Dost Kitabevi, Ankara.
-
-http://www.dostyayinevi.com/TR/belge/1-347/sanayi-ve-imparatorluk.html
-
 IPCC, (2014): Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, R. K. Pachauri and L. A. Meyer (eds.)]. Geneva: IPCC. Retrieved on 02.16.2018, from:
-
-http://www.ipcc.ch/report/ar5/syr/
-
 Judd, D. and Parkinson, M. (1990) "Urban Leadership and Regeneration Economic Constraint and Political Choice" Leadership and Urban Regeneration, pp: 13-30.
 
 https://books.google.com.cy/books?id=nlYFAQAAIAAJ&q=Leadership+and+Urban+Regen eration,+Cities+in+North+America+and+Euro pe,+(ed.)+D.+Judd,+and+M.+Parkinson,&dq=
@@ -204,9 +189,6 @@ Leadership+and+Urban+Regeneration,+Cities +in+North+America+and+Europe,+(ed.)+D.
 ## bi AhVIJZoKHY99Cy0Q6AEIQTAF
 
 Keyder, Ç. and Öncü, A. (1994) "Globalization of a Third World Metropolis: Istanbul in the 1980s" Review 17/3, pp: 383-421, p:389.
-
-https://www.jstor.org/stable/40241297
-
 - Lampugnani, V. M. (1985) Architecture and City Planning in the Twentieth Century, Van Nostrand Reinhold Company, New York. https://books.google.com.cy/books?id=Wn95vgEACAAJ&dq=Architecture+and+City+Pla nning+in+the+Twentieth+Century+lampugna ni&hl=en&sa=X&ved=0ahUKEwis7rv MsObi AhV mz6YKHX8vD5MQ6AEIJjAA
 - Lefèbvre , H. (1996) The Production of Space, Blackwell Publishers, Oxford, UK https://books.google.com.cy/books?id=SIXcn Ioa4MwC&dq=Lef%C3%A8bvre+,+H.+(1996)+ The+Production+of+Space&hl=en&sa=X&ved =0ahUKEwjT7r\_as Obi AhXRJpoKHXutAJwQ6AEI NTAD
 - Marcuse, P. (2009) "From critical urban theory to the right to the city" CITY, VOL. 13, NOS. 2–3, JUNE–SEPTEMBER 2009, pp: 185-106, p:189. https://doi.org/10.1080/13604810902982177
@@ -214,13 +196,7 @@ https://www.jstor.org/stable/40241297
 - Montreal City Council (2005), Montreal Charter of Rights and Responsibilities, Retrieved on 14.02.2018
  - https://ville.montreal.qc.ca/pls/portal/docs/page/charte\_mtl\_fr/media/documents/charte \_montrealaise\_english.pdf,
 - Özdemir, D. (2010) "Giriş: Batı Avrupa'da Kentsel Dönüşüm Olgusunun Süreç İçinde Değişen Anlamları ve Türkiye Yansımaları", Kentsel Dönüşümde Politika, Mevzuat, Uygulama, (ed.) D. Özdemir, pp: 1-34, Nobel Yayın, Ankara, İstanbul.
-
-https://www.nobelyayin.com/detay.asp?u=3094
-
 Paddison, R. (1993) "City Marketing, Image Reconstruction and Urban Regeneration" Urban Studies 30/2, pp: 339-350;
-
-https://journals.sagepub.com/doi/abs/10.1080/00420989320080331
-
 Percy, S., (2003), "New Agendas", Urban Regeneration in Europe, (ed.) C. Couch, C. Fraser ve S. Percy, pp: 200-208, Blackwell, Oxford.
 
 https://books.google.com.cy/books?id=53a2w5Vku PsC&dq=Urban+Regeneration+in+Euro pe,+(ed.)+C.+Couch,+C.+Fraser+ve+S.+Percy ,&source=gbs\_navlinks\_s

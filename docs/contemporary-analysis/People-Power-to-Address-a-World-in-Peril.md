@@ -240,7 +240,7 @@ In ongoing conicts rmed groups lso sometimes functionlly substitute people power
 
 Furthermore growing body of scholrship recog nizes tht direct civil society inclusion in pece nego titions leds to better conict outcomes To this end **acts of nonviolent protest by civil society have been found to increase the probability that civil society groups will be included**—nd given substntive roles such s full prticipnts or meditors—in pece negotitions **63**
 
-Lstly fter forml negotitions hve ended **people power movements can play a crucial role in ensuring** 
+Lstly fter forml negotitions hve ended **people power movements can play a crucial role in ensuring**
 
 **that all parties live up to their commitments** nd tht relevnt new policies re implemented **64**
 

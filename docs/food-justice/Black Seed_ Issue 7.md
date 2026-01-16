@@ -85,9 +85,6 @@ We still use the term green anarchy to describe our position but this issue begi
 This issue features articles on veganism, fungi, and post-Indian aphorisms, interviews with the Ampoa Duta collective. It finishes the Talsetan Brothers interview from issue 5 (oops), and includes reviews of the IAF, Ellul and Voyer, and *The Uninhabitable Earth.*
 
 There are dramatic updates to our website at:
-
-http://blackseed.anarchyplanet.org.
-
 By the time you see this issue, most older articles should be up at https://theanarchistlibrary.org
 
 # **Revolution of Fungal Life by Anonymous**
@@ -982,9 +979,6 @@ From the declaration of the Sec- wepemc: "Investors take note, the Trans Mountai
 The project moved the tiny houses to Blue River camp where they are currently occupying a proposed Kinder Morgan Man Camp\* site that will bring over a thousand men into the unceded Secwepemc Territory. The Tiny House Warriors are seeking support for the next phase of construction.
 
 To learn more and support this effort visit:
-
-https://www.facebook.com/tinyhousewarriors/.
-
 ### **Unist'ot'en Camp and Coastal Gas Link Liquefied Natural Gas (LNG)**
 
 ## Pipeline Resistance

@@ -14,9 +14,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/south-african-wobblies-origins-industrial-unions-south-africa-john-philips
-
 **Tags:** racism, Industrial Workers of the World (IWW), South Africa, unions, syndicalism, International Socialist League, Industrial and Commercial Workers Union of Africa, John Philips, PDF
 
 John Philip's pioneering, hard-to-get study of syndicalism in South Africa, stressing the influence of the IWW.

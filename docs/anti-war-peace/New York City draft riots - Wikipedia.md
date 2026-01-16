@@ -8,8 +8,7 @@ tags:
 - urban
 - New York
 ---
-# New York City draft riots - Wikipedia
----
+
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 en.wikipedia.org
 New York City draft riots

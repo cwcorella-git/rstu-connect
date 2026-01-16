@@ -200,7 +200,7 @@ Cenotaphs have also been the subject of a number of illustrations including:
 
 ### **Digital and astronomical**
 
-In the Internet age, virtual cenotaphs are common in the game $\underline{World\ of\ Warcraft}$ , as well as in $\underline{The}$ $\underline{Elder\ Scrolls}$ series games though modding add-ons. $\underline{[25][26][27][28]}$ 
+In the Internet age, virtual cenotaphs are common in the game $\underline{World\ of\ Warcraft}$ , as well as in $\underline{The}$ $\underline{Elder\ Scrolls}$ series games though modding add-ons. $\underline{[25][26][27][28]}$
 
 They have also been created in the augmented reality game Ingress in honour of the slain MIT police officer Sean Collier[29] and in memory of the victims of the 1942 Struma disaster.[30]
 
@@ -341,7 +341,7 @@ The [Cenotaph,](https://en.wikipedia.org/wiki/The_Cenotaph,_Bulawayo) [Bulawayo]
 - 16. Skelton & Gliddon – Lutyens and the Great War, published 2008, Pages 23–47 (also see external link below: Cenotaph of Sigismunda and Lutyen's Whitehall Cenotaph)
 - 17. "Buildings of outstanding or national architectural or historic interest."
 - 18. ["Botanic Gardens and Parks Authority" \(https://www.bgpa.wa.gov.au/kings-park/visit/history/](https://www.bgpa.wa.gov.au/kings-park/visit/history/state-war-memorial) [state-war-memorial\).](https://www.bgpa.wa.gov.au/kings-park/visit/history/state-war-memorial) *State War Memorial*. Retrieved 15 July 2022.
-- 19. "Many Waters Cannot Quench Love" 
+- 19. "Many Waters Cannot Quench Love"
 - 20. ["Titanic Memorials: Archibald Butt Cenotaph, Arlington National Cemetery Arlington, VA"](http://www.glts.org/memorials/dc/arlington.html) [\(http://www.glts.org/memorials/dc/arlington.html\).](http://www.glts.org/memorials/dc/arlington.html) Retrieved 11 July 2010.
 - 21. ["Leachtaí Cuimhneacháin \(Stone Memorials for Dead\)" \(http://www.aranislands.ie/aran-islan](http://www.aranislands.ie/aran-islands/inis-mor-inishmore/churches-celtic/Leachtai-Cuimhneachain-Stone-Memorials-for-Dead) [ds/inis-mor-inishmore/churches-celtic/Leachtai-Cuimhneachain-Stone-Memorials-for-Dead\)](http://www.aranislands.ie/aran-islands/inis-mor-inishmore/churches-celtic/Leachtai-Cuimhneachain-Stone-Memorials-for-Dead). *Aran Islands*. 16 December 2013. Retrieved 16 October 2015.
 - 22. Mike. ["Have you been to Inis Mhór the largest of the Aran Islands off County Galway? –](https://youririshheritage.com/have-you-been-to-inis-mhor-the-largest-of-the-aran-islands-off-county-galway/) [Your Irish Heritage" \(https://youririshheritage.com/have-you-been-to-inis-mhor-the-largest-of](https://youririshheritage.com/have-you-been-to-inis-mhor-the-largest-of-the-aran-islands-off-county-galway/) [-the-aran-islands-off-county-galway/\).](https://youririshheritage.com/have-you-been-to-inis-mhor-the-largest-of-the-aran-islands-off-county-galway/) *Your Irish Heritage*. Retrieved 16 October 2015.

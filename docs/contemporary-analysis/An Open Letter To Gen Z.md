@@ -4,64 +4,64 @@ category: "contemporary-analysis"
 ---
 
 0:02
-I'm just a kid, and life is a nightmare. Before I start the letter, I just want to 
+I'm just a kid, and life is a nightmare. Before I start the letter, I just want to
 0:06
-say thanks to everyone who's been engaging with my content so far. I really 
-appreciate 
+say thanks to everyone who's been engaging with my content so far. I really
+appreciate
 0:10
 the feedback and support. If I could ask a favour, send this to your friends, your
-Discord servers, 
+Discord servers,
 0:14
-your group chats, and your Zoom classes. There's a lot I want to say to you all. 
+your group chats, and your Zoom classes. There's a lot I want to say to you all.
 0:18
-(cue dramatic piano music) A Letter to Gen Z 
+(cue dramatic piano music) A Letter to Gen Z
 A Letter to Gen Z
 0:25
-Dear Gen Z, We've been called 
+Dear Gen Z, We've been called
 0:28
-Digital Natives, Post-Millenials, Zoomers, and even i Generation, which, ew. It's 
-quite dystopic 
+Digital Natives, Post-Millenials, Zoomers, and even i Generation, which, ew. It's
+quite dystopic
 0:34
-if you think about it. Like, are we really gonna be named after a trillion dollar 
-corporation? 
+if you think about it. Like, are we really gonna be named after a trillion dollar
+corporation?
 0:39
-Anyway, I'm writing this to say that I see you. 
+Anyway, I'm writing this to say that I see you.
 0:44
-We may be facing different individual battles, but I think we share a collective 
-anxiety, 
+We may be facing different individual battles, but I think we share a collective
+anxiety,
 0:48
-a mourning about the state of the world and our future. A sense of doom and 
-growing hopelessness. 
+a mourning about the state of the world and our future. A sense of doom and
+growing hopelessness.
 0:54
-Some are clinging to a fantasy while others are utterly depressed. Y'all know who 
-y'all are, 
+Some are clinging to a fantasy while others are utterly depressed. Y'all know who
+y'all are,
 0:59
-somewhere in the fuzzy generation borders of 1995 and 2012. I see you. Let's talk 
-about you. 
+somewhere in the fuzzy generation borders of 1995 and 2012. I see you. Let's talk
+about you.
 1:08
-Or, the story of us, really. The Story of Us 
+Or, the story of us, really. The Story of Us
 The Story of Us
 1:13
-First, we were born. Duh. For the early Zoomers, we probably witnessed in real 
-time the shift in 
+First, we were born. Duh. For the early Zoomers, we probably witnessed in real
+time the shift in
 1:19
 technology through our childhoods. The old and the new. The Nokia, the Blackberry,
-and the i Phone. 
+and the i Phone.
 1:25
 Corporal punishment before it was banned in schools. Blackboards, Whiteboards, and
 1:29
-Smartboards. The 90s classics and the 2000s hits. Arthur, Sesame Street, 
-Spongebob, all that jazz. 
+Smartboards. The 90s classics and the 2000s hits. Arthur, Sesame Street,
+Spongebob, all that jazz.
 1:36
 We don't really remember 9/11, but we do remember the Recession, and the impact it
-had on our lives. 
+had on our lives.
 1:41
-Some of us, *cough* like myself, are crippled by nostalgia. 
+Some of us, *cough* like myself, are crippled by nostalgia.
 1:46
-Alas, if only I could go back to "walking down the street with everybody that I 
-meet 
+Alas, if only I could go back to "walking down the street with everybody that I
+meet
 1:50
-## 
+##
 having an original point of view" or venturing "between the lions". It couldn't last.
 
 ## 1:56
@@ -547,9 +547,6 @@ check it out. Go to Patreon.com/saintdrew. Thanks for watching. Please like, com
 ## Outro
 
 ## 13:12
-
-subscribe, and share with your fellow Gen Z. Feed the algorithm. Check out my previous videos
-
 ## 13:17
 
 for other fascinating topics. You can follow me on Twitter @\_saintdrew and check out my monthly

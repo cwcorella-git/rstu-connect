@@ -109,7 +109,7 @@ Here again, avoidance can be seen as an inversion of joking. On the level of avo
 
 There is, it is true, a certain mutuality in relations of avoidance. If I were standing before the Queen of England, I wouldn’t pick my nose or crack a dirty joke, and I would expect the same from her. On the other hand, the burden of avoidance would definitely be on me, and it is appropriate that any sort of contact ought to be initiated by the person of superior rank: conversation, eye contact, and the like. And further, if I were to pick my nose at the Queen, or crack a dirty joke, I could fully expect to be excluded from polite society till the end of my days; while if the Queen did so in my presence I would probably take this as a gesture of indulgent familiarity and perhaps reciprocate—though never quite so freely as she. Norbert Elias provides a telling quote from a sixteenth-century manual on manners:
 
-> 
+>
 One should not sit with one’s back or posterior turned towards another, nor raise the thigh so high that the members of the human body, which should properly be covered with clothing at all times, might be exposed to view. For this and similar things are not done, except among people before whom one is not ashamed. It is true that a great lord might do so before one of his servants or in the presence of a friend of lower rank; for in this he would not show him arrogance but rather a particular affection and friendship (1978: 138).
 
 By the logic of my argument, picking my nose at the Queen would be much the same as thumbing my nose at the Queen; it would be a sort of joking attack.[3] It’s my obligation then, to constitute her on the level of avoidance, as untouchable and self-enclosing; she, in her ability to initiate contact with me, is showing no such compunctions, and constituting me more on the level of joking.
@@ -140,12 +140,12 @@ Before moving on to hierarchy, I should probably throw in a point of clarificati
 
 ### On Hierarchy
 
-> 
+>
 The term “good,” in most Greek thought, connoted above all a certain definite, though still essentially negative, characteristic. This is manifest in nearly all the Greek schools of moral philosophy which descended from Socrates—in the temper of the ideal Cynic, Diogenes, who needed and wanted nothing any other man could give him, in the ataraxy of the Epicureans, in the apathy of the Stoics. The essence of “good,” even in ordinary human experience, lay in self-containment, freedom from all dependence upon that which is external to the individual.
 
 (Lovejoy 1936: 42)
 
-> 
+>
 Tjaden hasn’t finished yet. He thinks for a while and then asks: “And would a King have to stand up stiff to an emperor?”
 
 None of us are quite sure about it, but we don’t suppose so. They are both so exalted that standing strictly to attention is probably not insisted on.
@@ -166,7 +166,7 @@ Let me take up Dumont’s arguments about the nature of hierarchy in a little mo
 
 These arguments go back to Dumont’s original structural analysis of the caste system in India, and particularly, of the fourfold division of the varnas. It might be useful here to take a glance at his formal analysis of this system (Dumont 1970: 67), which is actually quite brief. He begins by describing a simple linear hierarchy. Everything is based on purity. Brahmans (Priests) are considered purer than Kshatriyas (Warriors), Kshatriyas are purer than Vaishyas (Merchants), and Vaishyas are purer than Shudras (Farmers). However, after saying this, he immediately proceeds to explain that this ranking is worked out through “a series of successive dichotomies or inclusions”—thus implying the existence of a taxonomic hierarchy instead:
 
-> 
+>
 The set of the four varnas divides into two: the last category, that of the Shudras, is opposed to the block of the first three, whose members are “twice-born”... These twice-born in turn divide into two: the Vaishyas are opposed to the block formed by the Kshatriyas and the Brahmans, which in turn divides into two (ibid.).
 
 This is a little confusing but the basic idea is simple enough: at any point along the ladder, those on top could be seen as in some sense lumped together, insofar as they are all superior to those immediately below them. This is obviously true in a certain sense—particularly if one looks at things from the perspective of those towards the top of the ladder. Still, framing matters seems to be an intentional effort to sidestep what almost anyone else would think is the single most important feature of any caste system: that from the perspective of those on the bottom, we are dealing with a system not of inclusion, but of exclusion. Actually, not even just from the perspective of those on the bottom. Would it not make more sense to frame things this way: The Brahmans, the group at the top, see themselves as set off from all others as particularly pure and holy. From their perspective, everyone else can even be seen as a kind of undifferentiated mass, shading into each other and even into non-human creatures in so far as all lack the purity of Brahmans. However, from the point of view of the next highest group, the Kshatriyas, the more relevant opposition is that which sets both they and the Brahmans apart against another residual category, which is again relatively impure. Then comes the opposition between twice-born and others—which would include both Shudras and Untouchables, who are so base they fall out of the fourfold scale entirely, and who Dumont therefore ignores entirely. And so on.
@@ -239,7 +239,7 @@ All this might have been in keeping with the hierarchical principles of the time
 
 The phrasing here—“enclosure,” “against all the world”—is certainly suggestive of the logic of avoidance. It is much harder to determine the degree to which these new definitions affected people’s common sense about the nature of the individual, society, or the relation between the two. But not, perhaps, impossible. At least one historian, C.B. MacPherson (1962), has suggested that by the seventeenth century the principle of individual, exclusive private property had become so broadly accepted among ordinary English people that popular politicians could invoke it as the basis for making claims of natural rights and political liberties. MacPherson is most famous, perhaps, for his arguments about assumptions about property underlying the political theories of Hobbes and Locke, but his most interesting material is drawn from the Levellers, a radical political faction in Cromwell’s New Model Army during the English Revolution. In 1646, for instance, Leveller Richard Overton wrote in his tract An Arrow Against All Tyrants that:
 
-> 
+>
 To every Individual in nature is given an individual property by nature, not to be invaded or usurped by any: for every one as he is himself, so he hath a self propriety, else could he not be himself, and on this no second may presume to deprive any of, without manifest violation and affront to the very principles of nature, and of the Rules of equity and justice between man and man… Every man [is] by nature a King, Priest and Prophet in his own natural circuit and compass, whereof no second may partake, but by deputation, commission, and free consent from him whose natural right and freedom it is. (in MacPherson 1962: 140–141).
 
 In other words, a man’s person—his body, like his chattels—were his exclusive property, and therefore he had the absolute right to exclude “all things hurtful and obnoxious” from it. [23] Even the king could not trespass on this right. This was perhaps the first political evocation of the principle that (as Goffman put it) the human person was sacred. The fact that, by the time of the English revolution, such an argument could make sense to an audience of common soldiers does show that concepts of private property had indeed played a large role in reshaping popular conceptions of the person. And, as MacPherson notes, this doctrine—he calls it “possessive individualism”—became the basis of notions of political freedom that emerged at the time, and which have remained the foundation of prevailing theories of the rights of man to the present day (ibid.: 142–159).
@@ -252,7 +252,7 @@ One is ultimately left with the view of the world presented by economics, which 
 
 So far, I have been trying to make a case that it was the emerging commercial classes of Early Modern Europe that first embraced the notion of reforming society by reforming its manners, and that the standards of propriety they embraced were ultimately rooted in ideologies of private property. I also suggested that, in so far as projects of reform were successful, it was largely because the market and commercial logic was increasingly setting the terms of social life among all classes of people. Attempts to close down ale-houses or ban mummers’ plays, after all, could only achieve so much, and they tended to create a determined and resentful opposition. The more lasting changes were on a much more deeply internalized level. Here some of Elias’ material is particularly revealing. In 1558, for example, an Italian courtier could still write:
 
-> 
+>
 For the same reason it is not a refined habit, when coming across something disgusting in the street, as sometimes happens, to turn at once to one’s companion and point it out to him.
 
 It is far less proper to hold out the stinking thing for the other to smell, as some are wont, who even urge the other to do so, lifting the foul-smelling thing to his nostrils and saying, “I should like to know how much that stinks,” when it would be better to say, “Because it stinks I do not smell it” (Della Caso, Galateo, in Elias 1978: 131).
@@ -265,7 +265,7 @@ In the Middle Ages, just about everyone who did know how to read had learned the
 
 Aries cites a late-fourteenth century account of England, written by a traveler from Italy:
 
-> 
+>
 The want of affection in the English is strongly manifested towards their children; for after having kept them at home till they arrive at the age of seven or nine years at the utmost, they put them out, both males and females, to hard service in the households of other people, binding them generally for seven or nine years. And these are called apprentices, and during that time they perform all the most menial offices; and few are born who are exempted from this fate, for everyone, however rich he may be, sends away his children into the houses of others, whilst he, in return, receives those of strangers into his own (from A Relation of the Island of England [apparently anonymous], cited in Aries 1962: 365).
 
 Though “the Italian considers this custom cruel...insinuating that the English took in each other’s children because they thought that in that way they would obtain better service than they would from their own offspring,” Aries suggests, realistically enough, that “the explanation which the English themselves gave to the Italian observer was probably the real one: “In order that their children might learn better manners” (op cit.).
@@ -292,7 +292,7 @@ English Calvinists (“Puritans” was, in fact, a term of abuse) were mostly dr
 
 As Keith Thomas points out, such attacks were at the same time attacks on the public place of the young in village culture:
 
-> 
+>
 What were the campaigns for the Reformation of Manners if not attempts to suppress all the great obstacles to the subordination of youth: holidays, when the young people were released from their masters’ supervision; theatres, to which they flocked to be corrupted; alehouses, which threw them into disorder, there being “many drunkards short of twenty years old”; gaming, “a pernicious thing and destructive of youth”; maypoles, which encouraged “the rout” in their insolency towards the “ancient and the honourable” and taught “young people impudency and rebellion”: dancing, for “where shall young men and maidens meet, if not at the dancing-place?”; sabbath-breaking, by “servants and...the younger sort”; and all the annual rites of misrule when youth temporarily inverted the social order? (Thomas 1976: 221).
 
 But concerns about youth were already becoming hard to distinguish from those concerning class. One constant complaint in Puritan tracts was the multiplication of impoverished households. The problem, in their view, was that young men and women were abandoning domestic service and marrying early, despite the fact that neither had the resources to support a proper family. This concern was matched with one over “masterless men”—with the independent poor, the murky and disordered world of hawkers, beggars, minstrels and vagabonds. In an ideal society, all these should be assembled under the domestic discipline of the Godly, who would direct them in labor as in prayer (Hill 1979; Wrightson & Levine 1979).[29]
@@ -307,7 +307,7 @@ The village maypole, Richard Baxter tells us, was near his father’s house at E
 
 In some cases they lead to open confrontation:
 
-> 
+>
 A Star Chamber case for 1604 tells how a group in the country parish of Alton, Southam, procured a minstrel and danced on Whitsunday. When the constable and church warden tried to arrest the musician, they were overpowered by his supporters who moved him to another part of the village, locked him in a house and, posting one of their own number on the roof to keep watch, continued to dance merrily on the lawn to the strains of the music that came out through the open window (Wright & Lones 1938: 299).
 
 It’s hard to say how often such occasions lead to outright violence (most of our sources were written by Puritans who referred to ordinary church ales as “heathenish rioting”), but riots did occur, and not only over economic issues like enclosure.
@@ -341,7 +341,6 @@ This leads to my second point: that any attempt to create a genuinely egalitaria
 Allow me a final word on those hierarchical possibilities. One of the dangers of muddled terms is that they make “hierarchy” (usually defined in two or three different ways at once) seem like an inevitable feature of social life. To a certain degree, of course, it is. There will always be nested sets of categories, and people will always have a tendency to rank some things as better or worse than others, but none of this has any necessary social implications one way or another. What we are used to thinking of as social hierarchies are a particular constellation of these principles, and as Arthur Lovejoy (1936) pointed out, fairly unstable ones, since in order to impose a single all-encompassing hierarchical system, you need to measure everyone on a single scale; the moment one begins to introduce more than one criteria (refinement, rationality, money, grace, etc) into the Great Chain of Being, the whole thing falls apart. Obviously, this alone is not enough to destroy a hierarchical form of social organization. As Dumontians regularly point out, the usual solution is to create a hierarchy of scales: so that in a caste system, for instance, the scale of purity is the highest, which is why Brahmans are the most exalted sort of people, the scale of power second, the scale of wealth comes after that, and so on. This is certainly true to an extent, but—even aside from the fact that it’s never clear if the system is really so unified as Dumontians like to make out—there are very real limits to how many different axes of discrimination can be absorbed. Multiply linear hierarchies endlessly, and any such system will, inevitably, fall apart. A million different modes of discrimination is, to all practical intents and purposes, identical to no mode of discrimination at all.
 
 ### Bibliography
-
 
 Aries, Philippe
 
@@ -627,7 +626,6 @@ Wrightson, Keith, and David Levine
 
 1979 Poverty and Piety in an English Village. Cambridge: Cambridge University Press.
 
-
 ## 2 — The Very Idea of Consumption: Desire, Phantasms, and the Aethetics of Destruction from Medieval Times to the Present
 
 This essay is not a critique of consumerism. It’s not meant to offer yet another exposé of the evils of mass consumption or of contemporary consumer practices. I want to ask instead why it is we talk about “consumption” or “consumer practices” at all. Why is it, when we see someone buying refrigerator magnets, and someone else putting on eye-liner, or cooking dinner, or singing at a karaoke bar, or just sitting around watching TV, we assume that they are on some level doing the same thing, that it can be described as “consumption” or “consumer behavior,” and that these are all in some way analogous to eating food? I want to ask where this term came from, why we ever started using it, what it says about our assumptions about property, desire, and social relations that we continue to use it. Finally, I want to suggest that maybe this is not the best way to think about such phenomena and that we might do well to come up with better ones.
@@ -696,7 +694,7 @@ Here, I turn to the work of the Italian philosopher, Giorgio Agamben (1993), and
 
 Agamben on Ficino:
 
-> 
+>
 In the same passage, the specific character of melancholic Eros was identified by Ficino as disjunction and excess. “This tends to occur,” he wrote, “to those who, misusing love, transform what rightly belongs to contemplation into the desire of the embrace.” The erotic intention that unleashes the melancholic disorder presents itself as that which would possess and touch what ought merely to be the object of contemplation, and the tragic insanity of the saturnine temperament thus finds its root in the intimate contradiction of a gesture that would embrace the unobtainable” (1993a: 17–18).
 
 Agamben goes on to quote the French Scholastic Henry of Ghent, to the effect that melancholics “cannot conceive the incorporeal” as such, because they do not know “how to extend their intelligence beyond space and size.” For such depressive characters, lonely brooding is punctuated by frustrated urges to seize what cannot really be seized.[48]
@@ -763,7 +761,7 @@ In other words, when “creative consumption” is at its most creative, it’s 
 
 Above all, I think we should be careful about importing the political economy habit of seeing society as divided into two spheres, of production and consumption into cultural analysis (or at best three: production, consumption, and exchange.) Doing so almost inevitably forces us to view almost all forms of non-alienated production as “consumer behavior”:
 
-> 
+>
 Cooking, playing sports, gardening, DIY (Do-It-Yourself), home decoration, dancing and music-making are all examples of consumer activities which involve some participation, but they cannot of themselves transform the major invasion by commercial interest groups into consumption which has occurred since the 1950s (Bocock 1993: 51).
 
 According to the logic of the quote above, if I bought some vegetables and prepared a gazpacho to share with some friends, that’s actually consumerism. In fact, it would be even if I grew the vegetables myself (presumably, because I bought the seeds). We are back to the teenagers with the rock band. Any production not for the market is treated as a form of consumption, which has the incredibly reactionary political effect of treating almost every form of unalienated experience we do engage in as somehow a gift granted us by the captains of industry.
@@ -1010,7 +1008,6 @@ Yovel, Yirmiyahu (ed.)
 
 1999 Desire and Affect: Spinoza as Psychologist. New York: Little Room Press.
 
-
 ## 3 — Turning Modes of Production Inside Out: or, Why Capitalism Is A Transformation of Slavery (Short Version)
 
 What follows is really just the summary of a much longer argument I hope to develop elsewhere at greater length. A lot of the issues it addresses—the state of Marxist theory, the notion of the mode of production, World-Systems analysis—are ones most anthropologists in the United States (or for that matter, most political activists) have come to think of as tiresome and passé. However, I think that, if well employed, these concepts can still tell us new and surprising things about the world we inhabit. The problem is that they haven’t always been employed particularly well.
@@ -1071,7 +1068,7 @@ The ultimate weakness of MoP approaches, it seems to me, is that they set out fr
 
 The approach is usually attributed to Marx—indeed, “historical materialism” of this sort is about the only aspect of Marx’s thought scholars like Gunder Frank claim is really salvageable (e.g., Gills & Frank 1993: 106–109). Now, I really don’t see the point of entering into some prolonged debate about whether this represents what Marx “really” meant when he talked about “materialism.” Marx’s work pulls in any number of different directions. But some are decidedly more interesting. Consider this passage from his ethnographic notebooks:
 
-> 
+>
 Among the ancients we discover no single inquiry as to which form of landed property. etc., is the most productive, which creates maximum wealth. Wealth does not appear as the aim of production, although Cato may well investigate the most profitable cultivation of fields, or Brutus may even lend money at the most favorable rate of interest. The inquiry is always about what kind of property creates the best citizens. Wealth as an end in itself appears only among a few trading peoples—monopolists of the carrying trade—who live in the pores of the ancient world like the Jews in medieval society....
 
 Thus the ancient conception, in which man always appears (in however narrowly national, religious or political a definition) as the aim of production, seems very much more exalted than the modern world, in which production is the aim of man and wealth the aim of production. In fact, however, when the narrow bourgeois form has been peeled away, what is wealth, if not the universality of needs, capacities, enjoyments, productive powers, etc., of individuals, produced in universal exchange? (1854 [1965: 84])
@@ -1163,7 +1160,6 @@ Thesis 5: Capitalism’s unlimited demand for growth and profit is related to th
 This one, though, I will have to leave as a possible direction for future research.
 
 ### Bibliography
-
 
 Abu-Lughod, Janet
 
@@ -1473,7 +1469,6 @@ Wood, Ellen Meiskins
 
 2002 The Origin of Capitalism: A Larger View. London: Verso.
 
-
 ## 4 — Fetishism As Social Creativity: or, Fetishes Are Gods In The Process of Construction
 
 In this paper, I would like to make a contribution to theories of social creativity. By social creativity, I mean the creation of new social forms and institutional arrangements. Creativity of this sort has been the topic of some discussion in social theory of late, although up to now anthropology has not played much of a role in it. Here, I would like to bring anthropology into an area that has traditionally been seen as its home turf: by looking at the literature on “fetishism” in Africa.
@@ -1510,21 +1505,21 @@ The problem was that in order to conduct their trade, they had to constantly con
 
 Situations like this can very easily lead one to reflect on the arbitrariness of value. After all, it is important to bear in mind that these early merchant adventurers were not only seeking gold, they were doing it at very considerable risk to their own lives. Coastal “castles” were malarial pest-holes: a European who spent a year in one had about a fifty-fifty chance of coming back alive. It would be very easy, in such circumstance, to begin to ask oneself: why are so many of us willing to risk death for the sake of a soft yellow metal, one which isn’t even useful for anything except to look pretty? In what way is this really different than desire for beads and trinkets?[63] It was not as if people of the time were incapable of such reflections: the absurdity of such overweening desire for gold became a stock theme for popular satirists, particularly in the age of the conquistadors. The merchants in West Africa, however, instead seem to have come to the brink of such a conclusion and then recoiled. Instead of acknowledging the arbitrariness underlying all systems of value, their conclusion was that it was the Africans who were arbitrary. African societies were utterly without order, their philosophies utterly unsystematic, their tastes utterly whimsical and capricious:
 
-> 
+>
 the most numerous Sect [in Guinea] are the Pagans, who trouble themselves about no Religion at all; yet every one of them have some Trifle or other, to which they pay a particular Respect, or Kind of Adoration, believing it can defend them from all Dangers: Some have a Lion’s Tail, some a Bird’s Feather, some a Pebble, a Bit of Rag, a Dog’s Leg; or, in short, any thing they fancy: And this they call their Fetish, which Word not only signifies the Thing worshipped, but sometimes a Spell, Charm, or Inchantment (William Smith 1744, in Pietz 1987: 41).
 
 So Africans were evidently like small children, always picking up little objects because they look odd or gross or brightly colored, and then becoming attached to them, treating them like they had personalities, adoring them, giving them names. The same thing that inspired them to value random objects in the marketplaces caused them to make random objects into gods.
 
 The most common explanation of the origin of fetishes begins something like this. An African intends to set out on some project, to go off trading for example. He heads out in the morning and the first thing he sees that strikes him as in any way unusual or extraordinary, or just that randomly strikes his fancy, he adopts as a charm that will enable him to carry out his project. Pietz calls it the “chance conjuncture of a momentary desire or purpose and some random object brought to the desirer’s attention”; Le Maire put it more simply: they “worship the first thing they meet in the Morning.” Bosman writes of one of his informants:
 
-> 
+>
 He obliged me with the following Answer, that the Number of their Gods was endless and innumerable: For (said he) any of us being resolved to undertake any thing of Importance, we first of all search out a God to prosper our designed Undertaking; and going out of Doors with this design, take the first Creature that presents itself to our Eyes, whether Dog, Cat, or the most contemptible Animal in the World, for our God; or perhaps instead of that any Inanimate that fals in our way, whether a Stone, a piece of Wood, or any Thing else of the same Nature (in Pietz 1987: 43).
 
 It was not the “Otherness” of the West Africans that ultimately drove Europeans to such extreme caricatures, then, but rather, the threat of similarity—which required the most radical rejection. So too with aesthetics, particularly the aesthetics of sexual attraction. European sources wrote of the odd practices of the women they encountered in coastal towns, who “fetishized themselves” by making up their faces with different kinds of colored clays, or wore “fetish gold” in their hair, intricately worked ornaments, frogs and birds along with glass beads and similar adornment. The descriptions here are not usually morally condemnatory, but they usually adopt a kind of sneering tone, one of contempt for what seems to pass as beauty in these parts, what Africans found alluring or attractive. But, again, they obviously protest too much. If European sojourners were entirely immune to the charms of women with earth on their faces and frogs in their hair, they would not have fathered hundreds of children with them; indeed, there is no particular reason to assume that the numbers of such children would have been substantially higher had the women in question behaved liked proper European ladies and put grease on their lips and gold rings in their ears instead.
 
 The same dynamic recurs when Europeans talked about African modes of government. First, observers would insist that the basis of African social life was essentially chaotic, that it was utterly lacking in systematic public order; they would usually end up by admitting that laws were, in fact, quite systematically obeyed. According to some, almost miraculously so. The attitude is summed up by a later British administrator, Brodie Cruickshank, Governor General of the Gold Coast in the nineteenth century:
 
-> 
+>
 The local govt of the Gold Coast must have the candor to acknowledge its obligations to Fetish, as a police agent. Without this powerful ally, it would have been found impossible to maintain that order, which characterized the country during the last twenty years, with the physical force of the govt. The extraordinary security afforded to property in the most remote districts, the great safety with which packages of gold of great value are transmitted by single messengers for hundreds of miles, and the facility with which lost or stolen property is generally recovered, have excited the astonishment of Europeans newly arrived in the country (Cruickshank 1853, in Pietz 1995: 25).
 
 The reason, they concluded, boiled down to the most primitive of instincts: fear of death, or the terrible punishments fetishes were thought to bring down on those who violated their (somewhat arbitrary) principles.
@@ -1555,7 +1550,7 @@ What I have said so far applies to minor, or ordinary, akombo. There were also m
 
 To understand this, one has understand something, I think, about traditional Tiv conceptions of social power—at least as they stood in the early twentieth century. The Tiv combined very hierarchical domestic arrangements—with household compounds constructed around some important older man, almost invariably with numerous wives, surrounded by a host of frustrated unmarried adult sons—and a fiercely egalitarian ethos which allowed next to nothing in the way of political office outside the compound. Certain older men manage to gain a larger influence in communal affairs, but such accomplishments are viewed with extreme ambivalence. Social power, the ability to impose one’s will on others, is referred to as tsav; it is seen in quite material terms as a fatty yellow substance that grows on human hearts. Some people have tsav naturally. They are what we’d refer to as “natural leadership types.” It can also be created, or increased, by eating human flesh. This is “witchcraft,” the definition of evil:
 
-> 
+>
 Tiv believe that persons with tsav form an organization called the mbatsav. This group is said to have a division of labor and a loose organization. The mbatsav are said to meet at night, usually for nefarious purposes; they rob graves in order to eat corpses; they bewitch people in order to put corpses into graves which they can rob. There is thought to be a network of “flesh debts” which become established when someone tricks you into eating human flesh and then claims a return in kind; the only thing you can do is to kill your children and your close kinsmen—people over whom you have some sort of power—and finally, because no one can ever win against the organization, you must give yourself to them as a victim because you have no kinsmen left to give (P. Bohannan 1958: 4–5).
 
 As Paul Bohannan succinctly puts it: “men attain power by consuming the substance of others.” While one can never be certain that any particular elder is also an evil cannibalistic witch, the classes overlap, and it would seem that, in recorded times at least, every generation or so, a witch-finding movement would sweep through the country unmasking the most prominent figures of local authority (Akiga 1939; P. Bohannan 1958).[68]
@@ -1578,7 +1573,7 @@ Even chiefly office could be drawn into the same logic. In much of Central Afric
 
 The following gives something of the flavor of their power:
 
-> 
+>
 Lunkanka is a nkisi in a statue and it is extremely fierce and strong. It came from Mongo, where many of our forebears used to go to compose it, but now its keepers have all died out. When it had a keeper it was very strong, and so it destroyed whole villages. Its strength lay in seizing [its victims], crushing their chests, making them bleed from the nose and excrete pus; driving knives into their chests, twisting necks, breaking arms and legs, knotting their intestines, giving them night-mares, discovering witches in the village, stifling a man’s breathing and so on. When it was known that Lunkanka was exceedingly powerful, a great many people trusted it for healing, placing oaths and cursing witches and magicians, and so on (in MacGaffey 1991: 127).[70]
 
 The text goes on to explain that if two men make an agreement—say, one agreed to be the other’s client, or pawn, and thus bound to his village—they might both drive nails into Lunkanka to seal the agreement; the nkisi would then act as its power of enforcement. According to MacGaffey (1987), in the nineteenth century every aspect of BaKongo economic life, from the policing of marketplaces to the protection of property rights to the enforcement of contracts, was carried out through the medium of minkisi, and the nkisi so employed were, in every case, forms of crystallized violence and affliction.
@@ -1619,7 +1614,7 @@ Here of course is where we start, finally, moving in the direction of the Marxia
 
 Not that we are speaking of pure mystification here. As I have tried to demonstrate in my analysis of the Merina Royal Bath ceremony (2001: 232–39) and hasina ritual in general, people were not entirely unaware that it was the ritual that made the king, that what constructed royal power was not the coin, but the action of giving it. This was tacit in the ritual itself, and stated explicitly just off-stage. Similarly, Malagasy charms involved the giving of an oath or pledge by those protected by them, or over whom they had power; without that, it was simply a powerless object. On the other hand, once given, the object was treated as having a power of its own. Something similar seems to have been widely recognized by West African “fetishists.” In fact, if one looks over the literature surveyed by Pietz, one sees the exact same emphasis on action: here, taking a collective oath could be called “making” or “drinking” or “eating” fetish, phrases which appear to be direct translations from African languages. A fetish is something one makes, or does:
 
-> 
+>
 Obligatory Swearing they also call, making of Fetiche’s; If any Obligation is to be confirmed, their Phrase is, let us as a farther Confirmation make Fetiche’s. When they drink the Oath-Draught, ‘tis usually accompanied with an Imprecation, that the Fetiche may kill them if they do not perform the Contents of their Obligation (Bosman 1705 [1967: 149]).
 
 The basic sequence here—people create (“make”) something; then they act as if that thing has power over them—is of course just the sort of sequence Marx was thinking of when he spoke of “fetishism.” There are two curious elements here. One is that those involved seemed not entirely unaware that this was happening: both that these objects were constructed, but at the same time, that they came to have some kind of power over those who constructed them. This is very important, I think, and I will try to consider the full implications in a moment. The other curious thing is that Pietz does not even consider any of this. In fact, even when he turns to look at Marx’s own work (1993), Pietz considers every definition of fetishism, every aspect, other than the simplest and most common one: that “fetishism” occurs when human beings end up bowing down before and worshipping that which they have themselves created.[76]
@@ -1683,7 +1678,6 @@ African fetishes then could be said to work on the opposite principle. Those who
 What does all this teach us about the grand theoretical issues raised at the beginning? If nothing else, that if one takes seriously the idea of social creativity, one will probably have to abandon some of the dreams of certainty that have so enchanted the partisans both of holistic and individualistic models. No doubt, processes of social creativity are, to some degree, unchartable. This is probably all for the best. There are certain things that ought not to be tabulated. Making it the centerpiece of a social theory, regardless, seems like it would be an increasingly important gesture at a time when the heirs of Pietz’s merchants have managed to impose their strange, materialist theology on not just Africans, but almost everyone—to the extent that human life itself can be seen as having no value except as a means to produce fetishized commodities.
 
 ### Bibliography
-
 
 Abrahamsson, Hans
 
@@ -1993,7 +1987,6 @@ Vansina, Jan
 
 1990 Paths in the Rainforests: Toward a History of Political Tradition in Equatorial Africa. Madison: University of Wisconsin Press.
 
-
 # Part II — Provisional Autonomous Zone: Dilemmas of Authority in Rural Madagascar
 
 ## 5 — Provisional Autonomous Zone: or, The Ghost-State in Madagascar
@@ -2042,7 +2035,7 @@ From a different perspective, though, the situation looked quite different. Beca
 
 The key issue in most Western definitions of the state is its power to coerce. States employ “force”—a euphemistic term for the threat of violence—to enforce the law. The classic definition here is Weber’s: “A compulsory political association with continuous organization will be called a ‘state’ if and in so far as its administrative staff successfully upholds a claim to the monopoly of the legitimate use of physical force in the enforcement of its order” (1968 I: 54). But Weber’s definition was itself really just a matter of repeating the conventional jural wisdom of his day. In fact, he seems to have been drawing directly on the work of an earlier German legal theorist named Rudolph von Ihering, who in 1877 had defined the state this way:
 
-> 
+>
 The State is the only competent as well as the sole owner of social coercive force—the right to coerce forms the absolute monopoly of the State. Every association that wishes to realize its claims upon its members by means of mechanical coercion is dependent upon the cooperation of the State, and the State has in its power to fix the conditions under which it will grant such aid (cited in Turner & Factor 1994: 103–104).
 
 A definition like this is mainly a way to focus the mind; it is not of that much use for determining whether or not any particular organization is a state, since for that, everything depends on whether or not one feels a would-be state has been “successful” in claiming its monopoly. Nonetheless, these definitions do capture the implicit common sense behind modern Western institutions of government—one in no way foreign to the Malagasy state, which was organized very much on this same model under the French colonial regime, and whose current form is based largely on colonial institutions. And most Malagasy, I think, would have agreed that the ability to apply force in this way was, essentially, what made a state what it was. This made it all the more striking that, in most of the Malagasy countryside, the state had become almost completely unwilling to do so. Far from maintaining an absolute monopoly of the right to coerce, or to authorize others to do so, the state simply did not exercise what was ostensibly its primary function there at all.
@@ -2071,7 +2064,7 @@ On the other hand, existing evidence gives us no reason to believe that people t
 
 Let me make a broad generalization. Confronted with someone bent on imposing unwanted authority, a typical Malagasy response will be to agree heartily with whatever demands that person makes, and then, as soon as they are gone, to try to go on living one’s life as if the incident had never happened. One might even say this was the archetypically Malagasy way of dealing with authority: one’s first line of defense is simply to deny that the event in question (a government official coming to count cattle and announce the required tax payments, or negotiate the requisitioning of laborers to replant trees or build a road) ever occurred. Admittedly, it is hardly a strategy limited to Madagascar. Something along these lines is often considered a typically “peasant” strategy: it is an obvious course to take when one is in no way economically dependent on those trying to tell one what to do. But there are many other routes to take, all sorts of possible combinations of confrontation, negotiation, subversion, acquiescence. In Madagascar, where there is often a strong distaste for open confrontation in daily life in general, the preferred approach has always been to do whatever it takes to make the annoying outsider happy until he goes away; then, insist that he had never been there to begin with, or if that doesn’t work, to simply ignore whatever one has agreed with and see what the consequences might be. It even takes on a cosmological dimension. Malagasy myths on the origins of death claim that life itself was won from God in a deal that humans never really intended to keep (hence, it is said, God kills us). Here is one, drawn early in the century from the Betsimisaraka of the east coast. There are endless variations, most obviously tongue-in-cheek, with the Creator often bearing an uncanny resemblance to the sort of passing colonial official who would periodically show up in villages, with armed retainers, demanding the payment of taxes:
 
-> 
+>
 Once upon a time, a Vazimba [aboriginal] couple were the only two occupants of the earth. They were sad because they had no children, so one day they found some clay and gave it human form. They made two figures, one a little boy, the other a little girl. The woman blew in their noses to animate them but she wasn’t able to give them life. Then, one day, she happened to meet a god who was traveling on the earth. The woman asked him to give life to the two statues and promised him, if he succeeded, two cows and a sum of money. So he did so.
 
 When the children grew up, the parents married them to one another. Then the god returned to claim his payment.
@@ -2092,7 +2085,7 @@ Since that day, humans have been mortal, and when one quits life, Malagasy peopl
 
 The mythological point is, to say the least, suggestive. One might well argue that this whole attitude is ultimately one with the logic of sacrifice, which at least in Madagascar is often explicitly phrased as a way of fobbing off the Divine Powers with a portion of what is rightfully theirs, so as to win the rest for living people. The life of the animal, it is often said, goes to God; hence (implicitly), we get to keep our own. Consider, then, the curious fact that all over Madagascar, sacrificial rituals—or their functional equivalents, such as the famadihana (reburial) rituals of Imerina—always seem to require government permits. The fact that this permit has been received, that the paperwork has been properly done, is often made much of during the ceremony itself. Here is a fragment of a Betsimisaraka speech, spoken over the body of a sacrificial ox:
 
-> 
+>
 For this ox is not the kind of ox that lazes in its pen or shits anywhere on entering the village. Its body is here with us, but its life is with you, the government. You, the government, are like a great beast lying on its back: he who turns it over sees its huge jaws; so we, comrades, cannot turn that beast over! It is this official permit that is the knife that dares to cut its hide, the ax that dares to break its bones, which comes from you who hold political authority (Aly 1984: 59–60).
 
 Not only is the state figured simultaneously as a potential force of violence and its victim; the act of acquiring a permit becomes equated with the act of sacrifice itself. The main point I am trying to make here is about autonomy. Filling out forms, registering land, even paying taxes, might be considered the equivalents of sacrifice: little ritualized actions of propitiation by which one wins the autonomy to continue with one’s life.
@@ -2155,7 +2148,6 @@ Of course, the institutional structure did remain: there were schools, banks, ho
 
 ### Bibliography
 
-
 Althabe, Gérard
 
 1969 Oppression et Libération dans l’Imaginaire: les communautés villageoises de la côte orientale de Madagascar. Paris: Maspero.
@@ -2209,7 +2201,6 @@ Turner, Stephen, and Regis Factor
 Weber, Max
 
 1968 Economy and Society: An Outline of Interpretive Sociology. 2 vols. (Guenther Roth and Claus Wittich, eds.; Ephraim Fischoff, trans.). New York: Bedminster Press.
-
 
 ## 6 — Dancing With Corpses Reconsidered: An Interpretation of Famadihana (In Arivonimamo, Madagascar)
 
@@ -2481,7 +2472,6 @@ This is not to say that famadihana were not also memorials to the dead, just as 
 
 ### Bibliography
 
-
 Astuti, Rita
 
 1995 People of the Sea: Identity and Descent Among the Vezo of Madagascar. Cambridge: Cambridge University Press.
@@ -2590,7 +2580,6 @@ Wilson, Peter
 
 1991 Freedom by a Hair’s Breadth: Tsimihety in Madagascar. Ann Arbor: University of Michigan Press.
 
-
 ## 7 — Love Magic and Political Morality in Central Madagascar, 1875–1990
 
 This essay sets out from a simple question. Why is it that at the end of the last century, people in Imerina in central Madagascar seem to have universally assumed that it was men who used ody fitia, or “love medicine”—while, when I was living there between 1989 and 1991, absolutely everyone I spoke to took it for granted that it was women who did so? This question is linked to another. In both periods, love medicine was clearly the stuff of scandal. But over the last hundred years, what is scandalous about it appears to have changed. Nineteenth-century texts invariably emphasized that what were called love medicines were really forms of violence: not only did they humiliate their victims, often in spectacular ways, they also could do very real physical harm. The people I knew were just as disapproving. But what they disapproved of in love medicine was something very different: the fact that people under its influence would do whatever their enchanter told them, that they were, in effect, enslaved.
@@ -2631,12 +2620,12 @@ The greatest source on nineteenth-century Merina medicine is a book by a Norwegi
 
 The implicit scenario seems to have been roughly similar to the one assumed by the people I talked to in Arivonimamo: a man makes advances, the woman is “proud” (in other words she is not interested), he resorts to medicine. The charm Imahaka, for example,
 
-> 
+>
 helped to overcome the resistance of a “proud” woman... [It] was supposed to have the power to render women mad, of provoking amorous madness. This is the prayer one makes to it: “Listen o Imahaka. There’s a woman who is proud towards me: render her mad, demented like a rabid dog... Make it so that her heart moves, bubbles, boils, so that she can no longer be kept back by her father, by her mother, by her kin” (Vig 1969: 30–31).[141]
 
 The woman would thus be compelled to the caster’s bed. This sort of “amorous madness” was said to be a feature of almost all such charms, but the descriptions often suggest, not a person caught up by a frenzy of desire, but one simply torn away against her will. Often, it seems as if the enchanter is acting out of a vindictive desire to humble and humiliate the woman who had rejected him. Consider, for instance, the prayer to another charm:
 
-> 
+>
 “...even when the woman is before the eyes of her brother,[142] or in public, may you render her so mad as to throw off her clothing to run to me. Even if the rivers are deep and the current strong, even if the day is dark and the place she lives very distant, may she be obliged to come. Even if she is hidden away and a thousand men let forth a cry of war to retain her, make it so they can do nothing”
 
 The poor enchanted woman would be like a rabid dog, like a mad thing; “the foam would keep coming from her mouth like a rabid dog, and like a rabid dog she would fling herself about, run and run without aim or reason, and all the while raving like a lunatic. This state would continue until she came to the man who had enchanted her using the charm” (1969: 87–88).
@@ -2703,7 +2692,7 @@ Wage-labor is by far the least popular alternative. Most descendants of free peo
 
 Two years after the emancipation of 1896, a colonial official wrote that:
 
-> 
+>
 Questioned on this occasion, a woman of the highest caste of nobility, rich, the owner of numerous slaves, responded with melancholy: “What does it matter if our slaves have been freed? Haven’t all Malagasy, beginning with the Queen, now become slaves of the French?” (Carol 1898: 38–39)
 
 If this was a mere figure of speech, it has proved a remarkably enduring one. Even when talking with very well-educated people I would often hear comments like “the French you know treated their slaves much better than the British”—referring by this to policies of colonial rule. Discussions of chattel slavery would slip seamlessly into discussions of colonialism and back. In fact, almost all political relationships, including those identified with the Merina kingdom itself, appear to have been re-evaluated and largely reshaped in the popular imagination through assimilation with slavery. In modern Malagasy, the meaning of the word fanompoana is closer to the English term “servitude” than it is to “service”; it implies work carried out under threat of coercion, and is most often used as a euphemism for slavery.[156] There were any number of such euphemisms. One of the more striking was “soldier.” It took me some time to figure out that when someone recounting oral traditions referred to a lord’s “soldiers,” they usually meant his slaves. In fact, the terms “soldier” and “slave” were often used interchangeably—a startling identification, since in the nineteenth century, slaves would have been the last people ever allowed to carry guns. The connection seemed to be simply that both were people who obey orders. In oral traditions, historical relations of command always tended to be treated as so many refractions of slavery, and therefore as essentially unjust.
@@ -2728,7 +2717,7 @@ Not only was the ideal of negative authority practically impossible; it also cre
 
 I should explain here that the term mpamosavy, which I have rendered “witch” or “sorcerer,” has always had two somewhat different meanings. On the one hand, it can refer to anyone—archetypically, men—driven by envy, spite, and resentment to harm others by means of medicine. But there are also “witches who go out at night,” creatures of absolute depravity who prowled the surroundings of Merina villages after dusk. These were the ultimate image of moral evil. Even in the nineteenth century, they were also seen as predominantly women:
 
-> 
+>
 No village is free from supposed witches, who are said to take their walks abroad at midnight to visit the tombs, on top of which they dance and revile the dead. They are said to be mainly elderly females of sinister aspect, joined by young women of bad character, with occasional male associates... At the dead of night they knock at the doors of neighbors they wish to injure, and should there be anyone sick, they howl most dismally around the house (Haile 1893: 11).[159]
 
 Witches were said to gather together to plan and carry out their more elaborate acts of sorcery, or terrorize those keeping vigil over the dead, accompanied by wild cats and owls. They went about naked, their clothing bundled on their heads and their fingers tipped with poisons. They had tremendous, uncanny strength, could span great distances almost instantly, dive into moats or out of windows and land unscathed.
@@ -2764,7 +2753,6 @@ In the beginning of this essay, I suggested that the fantasies surrounding ody f
 This was a game in which Merina women were certainly as much players as were men. Yet at the same time, they labored under a peculiar disadvantage. Often, in fact, women seemed to act as agents of their own ultimate repression: circulating stories that served as profound meditations on the nature of desire and human decency, but which, at the same time, had the ultimate effect of reflecting and reinforcing men’s fears of women, and radically circumscribing the ability of women—any women—to become respected figures of authority. It was almost as if they were, somehow, the victims of their own psychological insight. Certainly, just as most of the best story-tellers I knew in Arivonimamo were women, so were most of the most acute social psychologists and social theorists. To some degree, of course, their sensitivity to their surroundings was itself an effect of their relative lack of social power: a large part of privilege, anywhere, is the luxury of being able to remain oblivious to much of what goes on around one. The most troubling questions, it seems to me, are two-fold. The first is how that greater perceptiveness and sensitivity to one’s social environment itself seems to contribute to women’s ultimate subordination. The second is how this still seems to happen where women’s moral reflections are one of the principal media for social changes that in almost every other way dramatically anti-authoritarian. What has happened in rural Imerina over the last century could even, by certain definitions, be described as a revolution. The trauma of colonial rule sparked a profound reassessment of the very nature of power and authority. That reassessment was couched in the terms already familiar to rural people—such as the logic of protection—but as a result, rural people’s relations with one another genuinely changed. All this ensured that when the power of colonial (and colonial-inspired) regimes went into retreat, in part in the face of persistent passive resistance, political life itself had changed as well. It had become in most ways far more egalitarian than it appears to have been in, say, in the nineteenth century. Women played a crucial role in all of this; yet at the same time, they did so in ways that ended up guaranteeing that gender relations remain among the least affected by the change.
 
 ### Bibliography
-
 
 Althabe, Gerard
 
@@ -2884,7 +2872,6 @@ Vig, Lars
 
 1969 Charmes: Spécimens de Magie Malgache. Oslo: Universitetsforlagets Trykningssentral.
 
-
 ## 8 — Oppression
 
 In Malagasy there is a word, tsindriana, that means “oppressed.” The literal definition is “to be pressed down, crushed by a heavy weight.” Used in a political context, it means to suffer under some kind of unjust power or authority.
@@ -2938,7 +2925,7 @@ Whenever people talk about how zoky and zandry should behave towards one another
 
 The theme of bearing burdens, however, resonates throughout. This is from the original text:
 
-> 
+>
 It was the custom of the ancients, too, for brothers, or sisters, etc., to eat from the same plate. Once the zoky had eaten the larger part, he would leave the rest to his zandry, and when the zandry deferred, saying “eat on,” his zoky would reply, “no, you eat, because it is you who will be carrying the baskets” (Cousins 1960: 124).
 
 Now, as I say, all this is rather an idealization. In practice, such rules always tend to apply to certain contexts, and certain people, more than others. It’s hard to imagine that even the strictest family would have kept a constant eye on a five-year-old child to ensure she never sat with her head at a higher elevation than her ten-year-old sister. In fact, if Malagasy in 1860 were anything like the ones I knew, under ordinary circumstances, no one paid much attention to where five-year-olds sat at all. Rules of seniority were observed mainly on more or less formal occasions—in fact, one might say this is what a “formal” occasion was: one in which rules of seniority were strictly observed. And this was still true among the people I knew. Principles of height and priority were almost entirely ignored in everyday practice, but were carefully observed at ritual moments. On mildly formal occasions, they tended to be observed in abbreviated, allusive form: for instance, in the way that, when guests were in the house, anyone getting up to leave the room would always stoop down slightly when walking past those still seated, to indicate they knew they really shouldn’t be allowing their heads to be in a position higher than those of anyone older or more exalted than themselves.
@@ -2953,7 +2940,7 @@ The largest slaveholding families made up the state apparatus itself: most of th
 
 These were the most enthusiastic supporters of the missionaries, but the latter found many of their habits disconcerting. Many remarked on the way that members of this class would never appear in public bearing anything remotely resembling a burden. James Sibree of the LMS wrote:
 
-> 
+>
 It appears strange to the Malagasy to see us Europeans walking out for short distances unaccompanied by a servant or some attendant; for no free Malagasy, male or female, would think of going abroad without at least one follower at his or her heels... So again, no respectable Malagasy would carry with him any small article, such as a Bible or hymn-book; that must be taken by a slave boy or girl following them: and they wonder to see us carrying a map or roll of drawings as we go to our schools or Bible-classes (Sibree 1880: 183).
 
 Joseph Sewell of the Society of Friends similarly remarked how “ludicrous” it was, to foreign observers, to see “ladies followed in the street by a slave holding some trifling thing like an umbrella or a bible... Even school-children will have a little slave to carry their books and slates” (1867: 11).
@@ -3040,7 +3027,7 @@ However, the confusing thing is the way that, when people tried to explain exact
 
 The ambalavelona outbreak in which he became famous occurred in 1977. An entire dorm of teenage girls at the local CEG fell prey to a condition rather like Ramanenjana, usually caused by an evil-doer who exposes his victims to the influence of hostile ghosts. I heard many accounts of the spectacular results. The victims first began to be seized by sudden panics which lead them to suddenly bolt from the classroom; matters soon escalated to the point where some began tearing off their clothes and running naked across campus, others ripping their clothes to shreds as they lay writhing and screaming on the ground. There were stories of possessed girls jumping out of second- or third-story windows and landing unharmed, suddenly developing such enormous strength it was impossible to subdue them. How? Here is Ramose’s description of what happens when one is afflicted by ambalavelona:
 
-> 
+>
 Ramose: The first thing that happens is that the person develops a sudden headache, then eventually, their minds become lost. They start speaking in words that make no sense, and it’s like there’s a second person inside them.
 
 There’s something frightening the sick person. It chokes them. It torments them. It feels like they’re struggling with a snake, or some fierce beast (depending on how the evil spirit (fanahy ratsy) manifests itself).
@@ -3055,7 +3042,7 @@ At one point, he was called in to question a girl who had been afflicted but had
 
 But then in summing up, he asserted the exact opposite. Actually, it was the ghost itself—the “second person”—that was screaming and struggling:
 
-> 
+>
 Ramose: The first person no longer has any control of herself: it’s the second person who rules over her.
 
 David: So it’s the second person who...
@@ -3114,7 +3101,7 @@ Scott is writing primarily about situations where the hierarchical lines are cle
 
 On the other hand, it does seems rather unsatisfying just to insist that people must have been whispering egalitarian sentiments to one another, because people always do. It seems reasonable to assume that if egalitarian principles were present, they must have manifested themselves in some way that left traces of some sort or another. In fact, if one examines the record carefully, I think principles of equality can be detected—often, perhaps especially, inside some of the most ardent assertions of hierarchy themselves. At times, it is true, Merina kings emphasized that they were guardians of property and maintained the ranks and divisions of the kingdom; at others, though, they emphasized that, as Andrianampoinimerina is said to have put it, “you should all be equal because you are all equally my subjects.” The absolute gulf between ruler and ruled made internal distinctions between subjects irrelevant in comparison, even perhaps a bit subversive. Similarly, in royal labor projects: here one can turn for evidence to some of the very texts in which foreign observers emphasize absolute loyalty of subjects to the Queen. Where many early Malagasy sources emphasized how ranks and divisions are worked out through the allocation of different sorts of royal labor, foreign observers were often struck by how, when actually performing personal service to the Queen, all such status distinctions would simply be thrown aside:
 
-> 
+>
 When there happens to be special work requiring to be done in connection with the royal courtyards, such as rebuilding or extending the lofty retaining walls, all ranks of the people, from the highest to the lowest, take a pride in doing with their hands some of the actual labour. Under the eye of their Queen, who sits on a raised seat looking on, the highest officers are seen with their lambas [mantles] girded round their loins, working harder than their slaves, carrying stone, digging or ramming earth, and doing whatever manual labour may be required. Much of the same kind of feeling exists in clearing the ground for the erection of their chapels, when every one—male and female, Andrians and slaves, officers and soldiers—will all labour with the greatest zeal; some digging, others bringing stone, others laying bricks, while their wives will mix the mortar and fetch the water required for the work (Sibree 1880: 189–90).
 
 One needs to be careful with texts like this. It’s hard to know how much the author really understood of what was going on. For instance, the text implies (but doesn’t quite say) that free people and slaves worked together on royal projects. This could not have been true. Slaves were strictly forbidden to work on royal projects, and any slave who could prove in court that he had could win his freedom. But the rest seems accurate enough. And masters and slaves did indeed work side by side in building Protestant churches; a perfect example of how the logic of existing practices made ordinary Merina disposed to be receptive to the Christian message that at least in religious contexts (and by implication, potentially, other ones) everyone was equal before the Lord.[201]
@@ -3158,7 +3145,6 @@ This is not to argue that all forms of authority are illegitimate. If that were 
 One might refer to this as “dialogic relativism”—a mutual recognition of, and respect for, difference founded on the recognition of an even more fundamental similarity (hence, equality) that makes such recognition possible. It could only rest on a commitment to carry on the conversation in a way that never pushes aside uncomfortable questions—such as, for instance, who gets to speak, and who has to do the heavy lifting?—but that also proceeds on the assumption that no single tradition has a monopoly on insight on such issues. If our exploration of the term “oppression” shows anything, I think, it is how rich, and how heterogeneous, the material from which we could thus patch together a shared sense of humanity really is.
 
 ### Bibliography
-
 
 Althabe, Gerard
 
@@ -3356,7 +3342,6 @@ Whitaker, Mark P.
 
 1996 “Relativism.” In Encyclopedia of Social and Cultural Anthropology (Alan Barnard & Jonathan Spencer eds.). London: Routledge.
 
-
 # Part III — Direct Action, Direct Democracy, and Social Theory
 
 ## 9 — The Twilight of Vanguardism
@@ -3413,7 +3398,6 @@ The role of indigenous peoples, in turn, leads us back to the role of ethnograph
 
 ### Bibliography
 
-
 Bonald, Louis-Gabriel-Ambroise
 
 1864 Œuvres complètes de M. de Bonald. Paris : J.P. Migne
@@ -3459,7 +3443,6 @@ Poggioli, Renato
 Saint-Simon, Henri, comte de
 
 1825 Nouveau Christianisme: dialogues entre un conservateur et un novateur, primier dialogue. Paris: Bossange.
-
 
 ## 10 — Social Theory As Science and Utopia: or, Does The Prosect of a General Sociological Theory Still Mean Anything in an Age of Globalization?
 
@@ -3587,7 +3570,7 @@ In light of this, I will be making a series of related arguments and perhaps the
 
 I’ll begin, then, with a relatively easy target: Samuel P. Huntington’s famous essay on the “Clash of Civilizations.” Huntington is a professor of International Relations at Harvard, a classic Cold War intellectual, beloved of right-wing think tanks. In 1993, he published an essay arguing that, now that the Cold War was over, global conflicts would come to center on clashes between ancient cultural traditions. The argument was notable for promoting a certain notion of cultural humility. Drawing on the work of Arnold Toynbee, he urged Westerners to understand that theirs is just one civilization among many, that its values should in no way be assumed to be universal. Democracy in particular, he argued, is a distinctly Western idea and the West should abandon its efforts to impose it on the rest of the world:
 
-> 
+>
 At a superficial level, much of Western culture has indeed permeated the rest of the world. At a more basic level, however, Western concepts differ fundamentally from those prevalent in other civilizations. Western ideas of individualism, liberalism, constitutionalism, human rights, equality, liberty, the rule of law, democracy, free markets, the separation of church and state, often have little resonance in Islamic, Confucian, Japanese, Hindu, Buddhist, or Orthodox cultures. Western efforts to propagate such ideas produce instead a reaction against “human rights imperialism” and a reaffirmation of indigenous values, as can be seen in the support for religious fundamentalism by the younger generation in non-Western cultures. The very notion that there is a “universal civilization” is a Western idea, directly at odds with the particularism of most Asian societies and their emphasis on what distinguishes one people from another (1993: 120).
 
 The list of Western concepts is fascinating from any number of angles. If taken literally, for instance, it would mean that “the West” only really took any kind of recognizable form in the nineteenth or even twentieth centuries, since in any previous one the overwhelming majority of “Westerners” would have rejected just about all these principles out of hand—if, indeed, they would have been able even to conceive of them. One can, if one likes, scratch around through the last two or three thousand years in different parts of Europe and find plausible forerunners to most of them. Many try. Fifth-century Athens usually provides a useful resource in this regard, provided one is willing to ignore, or at least skim over, almost everything that happened between then and perhaps 1215 AD, or maybe 1776. This is roughly the approach taken by most conventional textbooks. Huntington is a bit subtler. He treats Greece and Rome as a separate, “Classical civilization,” which then splits off into Eastern (Greek) and Western (Latin) Christianity—and later, of course, Islam. When Western civilization begins, it is identical to Latin Christendom. After the upheavals of the Reformation and Counter-Reformation, however, the civilization loses its religious specificity and transforms into something broader and essentially secular. The results, however, are much the same as in conventional textbooks, since Huntington also insists that the Western tradition was all along “far more” the heir of the ideas of Classical civilization than its Orthodox or Islamic rivals.
@@ -3598,7 +3581,7 @@ It seems to me the only way to understand why Huntington creates the list he doe
 
 It gets worse. In a later clarification called “What Makes the West Western” (1996), Huntington actually does claim that “pluralism” is one of the West’s unique qualities:
 
-> 
+>
 Western society historically has been highly pluralistic. What is distinctive about the West, as Karl Deutsch noted, “is the rise and persistence of diverse autonomous groups not based on blood relationship or marriage.” Beginning in the sixth and seventh centuries these groups initially included monasteries, monastic orders, and guilds, but afterwards expanded in many areas of Europe to include a variety of other associations and societies (1996: 234).
 
 He goes on to explain this diversity also included class pluralism (strong aristocracies), social pluralism (representative bodies), linguistic diversity, and so on. All this gradually set the stage, he says, for the unique complexity of Western civil society. Now, it would be easy to point out how ridiculous all this is. One could, for instance, remind the reader that China and India in fact had, for most of their histories, a great deal more religious pluralism than Western Europe;[212] that most Asian societies were marked by a dizzying variety of monastic orders, guilds, colleges, secret societies, sodalities, professional and civic groups; that none ever came up with such distinctly Western ways of enforcing uniformity as the war of extermination against heretics, the Inquisition, or the witch hunt. But the amazing thing is that what Huntington is doing here is trying to turn the very incoherence of his category into its defining feature. First, he describes Asian civilizations in such a way that they cannot, by definition, be plural; then, if one were to complain that people he lumps together as “the West” don’t seem to have any common features at all—no common language, religion, philosophy, or mode of government—Huntington could simply reply that this pluralism is the West’s defining feature. It is the perfect circular argument.
@@ -3663,7 +3646,7 @@ My emphasis on the military origins of direct democracy is not meant to imply th
 
 The remarkable thing is just how long it took. For the first three hundred years of the North Atlantic system, democracy continued to mean “the mob.” This was true even in the “Age of Revolutions.” In almost every case, the founders of what are now considered the first democratic constitutions in England, France, and the United States, rejected any suggestion that they were trying to introduce “democracy.” As Francis Dupuis-Deri (1999, 2004) has observed:
 
-> 
+>
 The founders of the modern electoral systems in the United States and France were overtly anti-democratic. This anti-democratism can be explained in part by their vast knowledge of the literary, philosophical and historical texts of Greco-Roman antiquity. Regarding political history, it was common for American and French political figures to see themselves as direct heirs to classical civilization and to believe that all through history, from Athens and Rome to Boston and Paris, the same political forces have faced off in eternal struggles. The founders sided with the historical republican forces against the aristocratic and democratic ones, and the Roman republic was the political model for both the Americans and the French, whereas Athenian democracy was a despised counter-model (Dupuis-Deri 2004: 120).
 
 In the English-speaking world, for example, most educated people in the late eighteenth century were familiar with Athenian democracy largely through a translation of Thucydides by Thomas Hobbes. Their conclusion, that democracy was unstable, tumultuous, prone to factionalism and demagoguery, and marked by a strong tendency to turn into despotism, was hardly surprising.
@@ -3712,7 +3695,7 @@ If one reexamines some of the mooted passages, this is precisely what one finds.
 
 Still, Enlightenment theory to the contrary, nations are not really created by the acts of wise lawgivers. Neither is democracy invented in texts; even if we are forced to rely on texts to divine its history. Actually, the men who wrote the Constitution were not only for the most part wealthy landowners, few had a great deal of experience in sitting down with a group of equals—at least, until they became involved in colonial congresses. Democratic practices tend to first get hammered out in places far from the purview of such men, and, if one sets out in search for which of their contemporaries had the most hands-on experience in such matters, the results are sometimes startling. One of the leading contemporary historians of European democracy, John Markoff, in an essay called “Where and When Was Democracy Invented?,” remarks, at one point, very much in passing:
 
-> 
+>
 that leadership could derive from the consent of the led, rather than be bestowed by higher authority, would have been a likely experience of the crews of pirate vessels in the early modern Atlantic world. Pirate crews not only elected their captains, but were familiar with countervailing power (in the forms of the quartermaster and ship’s council) and contractual relations of individual and collectivity (in the form of written ship’s articles specifying shares of booty and rates of compensation for on-the-job injury) (Markoff 1999: 673n62).
 
 As a matter of fact, the typical organization of eighteenth-century pirate ships, as reconstructed by historians like Marcus Rediker (2004: 60–82), appears to have been remarkably democratic. Captains were not only elected, they usually functioned much like Native American war chiefs: granted total power during chase or combat, they were otherwise were treated like ordinary crewmen. Those ships whose captains were granted more general powers also insisted on the crew’s right to remove them at any time for cowardice, cruelty, or any other reason. In every case, ultimate power rested in a general assembly that often ruled on even the most minor matters, always, apparently, by majority show of hands.
@@ -3761,7 +3744,7 @@ We’re finally back, then, where we began, with the rise of global movements ca
 
 One might gauge the importance of the point by considering what happens when it’s not born constantly in mind. Let me turn here to an author whose position is actually quite close to my own. In a book called Cosmopolitanism (2002), literary theorist Walter Mignolo provides a beautiful summary of just how much Kant’s cosmopolitanism, or the UN discourse on human rights, was developed within a context of conquest and imperialism; then invokes Zapatista calls for democracy to counter an argument by Slavoj Žižek that Leftists need to temper their critiques of Eurocentrism in order to embrace democracy as “the true European legacy from ancient Greece onward” (1998: 1009). Mignolo writes:
 
-> 
+>
 The Zapatistas have used the word democracy, although it has a different meaning for them than it has for the Mexican government. Democracy for the Zapatistas is not conceptualized in terms of European political philosophy but in terms of Maya social organization based on reciprocity, communal (instead of individual) values, the value of wisdom rather than epistemology, and so forth… The Zapatistas have no choice but to use the word that political hegemony imposed, though using that word does not mean bending to its mono-logic interpretation. Once democracy is singled out by the Zapatistas, it becomes a connector through which liberal concepts of democracy and indigenous concepts of reciprocity and community social organization for the common good must come to terms (Mignolo 2002: 180).
 
 This is a nice idea. Mignolo calls it “border thinking.” He proposes it as a model for how to come up with a healthy, “critical cosmopolitanism,” as opposed to the Eurocentric variety represented by Kant or Žižek. The problem though, it seems to me, is that in doing so, Mignolo himself ends up falling into a more modest version of the very essentializing discourse he’s trying to escape.
@@ -3787,7 +3770,6 @@ In other words, “the people” must be evoked as the authority behind the allo
 It is in this context that I might suggest that the anarchist solution—that there really is no resolution to this paradox—is really not all that unreasonable. The democratic state was always a contradiction. Globalization has simply exposed the rotten underpinnings, by creating the need for decision-making structures on a planetary scale where any attempt to maintain the pretense of popular sovereignty, let alone participation, would be obviously absurd. The neo-liberal solution, of course, is to declare the market the only form of public deliberation one really needs, and to restrict the state almost exclusively to its coercive function. In this context, the Zapatista response—to abandon the notion that revolution is a matter of seizing control over the coercive apparatus of the state, and instead proposing to refound democracy in the self-organization of autonomous communities—makes perfect sense. This is the reason an otherwise obscure insurrection in southern Mexico caused such a sensation in radical circles to begin with. Democracy, then, is for the moment returning to the spaces in which it originated: the spaces in between. Whether it can then proceed to engulf the world depends perhaps less on what kind of theories we make about it, but on whether we honestly believe that ordinary human beings, sitting down together in deliberative bodies, would be capable of managing their own affairs as well as elites, whose decisions are backed up by the power of weapons, are of managing it for them—or even whether, even if they wouldn’t, they have the right to be allowed to try. For most of human history, faced with such questions, professional intellectuals have almost universally taken the side of the elites. It is rather my impression that, if it really comes down to it, the overwhelming majority are still seduced by the various ugly mirrors and have no real faith in the possibilities of popular democracy. But perhaps this too could change.
 
 ### Bibliography
-
 
 Adams, John
 
@@ -4047,7 +4029,6 @@ Wilkinson, David
 
 1998 “A Leftist Plea for Eurocentrism.” Critical Inquiry 24: 989–1009.
 
-
 ## 12 — On The Phenomenology of Giant Puppets: Broken Windows, Imaginary Jars of Urine, and the Cosmolgical Role of the Police in American Culture
 
 What follows is an essay of interpretation. It is about direct action in North America, about the mass mobilizations organized by the so called “anti-globalization movement,” and especially, about the war of images that has surrounded it. It begins with a simple observation. I think it’s fair to say that if the average American knows just two things about these mobilizations, they are, first of all, that there are often people dressed in black who break windows; second, that they involve colorful giant puppets. I want to start by asking why these images in particular appear to have so struck the popular imagination. I also want to ask why it is that, of the two, American police seem to hate the puppets more. As many activists have observed, the forces of order in the United States seem to have a profound aversion to giant puppets. Often police strategies aim to destroy or capture them before they can even appear on the streets. As a result, a major concern for those planning actions soon became how to hide the puppets so they would not be destroyed in pre-emptive attacks. What’s more, for many individual officers at least, the objection to puppets appeared to be not merely strategic, but personal, even visceral. Cops hate puppets. Activists are puzzled as to why.
@@ -4082,7 +4063,7 @@ Well, if nothing else, the two do mark a kind of neat structural opposition. Ana
 
 If the paired images seem somehow powerful, I would suggest, it is because their juxtaposition does, in fact, say something important about what direct action aims to achieve. Let me begin by considering property destruction. Such acts are anything but random. They tend to follow strict ethical guidelines: individual possessions are off-limits, for example, along with any commercial property that’s the base of its owner’s immediate livelihood. Every possible precaution is to be taken to avoid harming actual human beings. The targets—often carefully researched in advance—are corporate facades, banks and mass retail outlets, government buildings, or other symbols of state power. When describing their strategic vision, anarchists tend to draw on Situationism (Debord and Vaneigem have always been the most popular French theorists in anarchist infoshops). Consumer capitalism renders us isolated passive spectators, our only relation to one another our shared fascination with an endless play of images that are, ultimately, representations of the very sense of wholeness and community we have lost. Property destruction, then, is an attempt to “break the spell,” to divert and redefine. It is a direct assault upon the Spectacle. Consider here the words of the famous N30 Seattle Black Bloc communiqué, from the section entitled “On the Violence of Property”:
 
-> 
+>
 When we smash a window, we aim to destroy the thin veneer of legitimacy that surrounds private property rights. At the same time, we exorcise that set of violent and destructive social relationships which has been imbued in almost everything around us. By “destroying” private property, we convert its limited exchange value into an expanded use value. A storefront window becomes a vent to let some fresh air into the oppressive atmosphere of a retail outlet (at least until the police decide to tear-gas a nearby road blockade). A newspaper box becomes a tool for creating such vents or a small blockade for the reclamation of public space or an object to improve one’s vantage point by standing on it. A dumpster becomes an obstruction to a phalanx of rioting cops and a source of heat and light. A building facade becomes a message board to record brainstorm ideas for a better world.
 
 After N30, many people will never see a shop window or a hammer the same way again. The potential uses of an entire cityscape have increased a thousand-fold. The number of broken windows pales in comparison to the number of broken spells—spells cast by a corporate hegemony to lull us into forgetfulness of all the violence committed in the name of private property rights and of all the potential of a society without them. Broken windows can be boarded up (with yet more waste of our forests) and eventually replaced, but the shattering of assumptions will hopefully persist for some time to come (in David & X 2002: 56).
@@ -4105,7 +4086,7 @@ Still, the positive images are often treated with little more respect than the e
 
 Here is an extract from my early reflections on the subject, jotted down shortly after spending time in the Puppet Warehouse in Philadelphia before the Republican Convention in 2000, somewhat reedited:
 
-> 
+>
 (field notes extracts: July 31, 2000)
 
 The question I keep asking myself is: why are these things even called “puppets?” Normally, one thinks of “puppets” as figures that move in response to the motions of some puppeteer. Most of these have few, if any, moving parts. These are more like moving statues, sometimes worn, sometimes carried. So in what sense are they “puppets?”
@@ -4136,7 +4117,7 @@ One might phrase it this way. The events targeted by the movement—trade summit
 
 Here one should probably let events speak for themselves. If one looks at what happened during the months immediately following Seattle, the first thing one observes is a series of preemptive strikes, always aimed at threats that (not unlike Iraq’s weapons of mass destruction) never quite materialized:
 
-> 
+>
 April 2000, Washington DC
 
 Hours before the protests against the IMF and World Bank are to begin on April 15, police round up 600 marchers in a preemptive arrest and seize the protesters’ Convergence Center. Police Chief Charles Ramsey loudly claims to have discovered a workshop for manufacturing molotov cocktails and homemade pepper spray inside. DC police later admit no such workshop existed (really they’d found paint thinner used in art projects and peppers being used for the manufacture of gazpacho); however, the convergence center remains closed and much of the art and many of the puppets inside are confiscated.
@@ -4181,7 +4162,7 @@ That there might have been some kind of coordination in this effort might be gle
 
 Police are also apparently regularly warned that puppets might be used to conceal bombs or weapons.[246] If questioned on their attitudes towards puppets, this is how they are likely to respond. However, it’s hard to imagine this alone could explain the level of personal vindictiveness witnessed in Miami and other actions—especially since police hacking puppets to pieces must have been aware that there was nothing hidden inside them. The antipathy seems to run far deeper. Many activists have speculated on the reasons:
 
-> 
+>
 David Corston-Knowles: You have to bear in mind these are people who are trained to be paranoid. They really do have to ask themselves whether something so big and inscrutable might contain explosives, however absurd that might seem from a non-violent protester’s perspective. Police view their jobs not just as law enforcement, but also as maintaining order. And they take that job very personally. Giant demonstrations and giant puppets aren’t orderly. They are about creating something—a different society, a different way of looking at things—and creativity is fundamentally at odds with the status quo.
 
 Daniel Lang: Well, one theory is that the cops just don’t like being upstaged by someone putting on a bigger show. After all, normally they’re the spectacle: they’ve got the blue uniforms, they’ve got the helicopters and horses and rows of shiny motorcycles. So maybe they just resent it when someone steals the show by coming up with something even bigger and even more visually striking. They want to take out the competition.
@@ -4220,7 +4201,7 @@ To fully understand the place of puppets, though, I think one has to grapple wit
 
 I already touched on this question obliquely earlier when I suggested that, when politicians informed street cops that protestors were “trust fund babies,” what they really meant to suggest was that they could be brutalized, but not maimed or killed, and that police tactics should be designed accordingly. From an ethnographer’s perspective, one of the most puzzling things about direct action is to understand how these rules are actually negotiated. Certainly, rules exist. There are lines that cannot be crossed by the police without risk of major scandal, there are endless lines that cannot be crossed by activists. Yet each side acts as if it is playing a game whose rules it had worked out exclusively through its own internal processes, without any consultation with the other players. This could not ultimately be the case. I first began thinking about these questions after my experience in Philly during the Republican Convention in the summer of 2000. As I’ve said, I was working mainly with an activist media team. During the day of action, however, my job was to go out into the streets with a cell phone to report back to them what was actually happening. I ended up accompanying a column of Black Bloc’ers whose actions were originally meant as a diversion, to lure police away from street blockades in a different part of town. The police appear to have decided not to take the bait, and as a result, the Bloc briefly had their run of a wide stretch of downtown Philadelphia:
 
-> 
+>
 (based on field notes: Philadelphia, August 1, 2000)
 
 Faced with a rapidly moving column of several hundred anarchists appearing out of nowhere, small groups of police would often abandon their cars, which the anarchists would then proceed to trash and spray-paint. A couple dozen police cars, one stretch limo, and numerous official buildings were hit in the course of the next hour or so. Eventually, reinforcements, in the form of police bicycle squads began to appear and before long there was a rough balance of forces. What followed at this point could only be described as an episode of some kind of nonviolent warfare. A few Black Bloc kids would try to shut down a bus by playing with valves in the back; a squad of bike cops would swoop in and grab a few, cuffing them and locking their bikes together to create tiny fortresses in which to hold them. Once, a large mass of protesters appeared from another direction and the cops ended up besieged in their little bike fort, with Black Bloc’ers surrounding them, screaming insults, throwing paint bombs above their heads, doing everything but actually attacking them. On that occasion the Bloc wasn’t quite able to snatch back their arrested comrades before police vans with reinforcements appeared to take them away; elsewhere, there were rumors of successful “unarrests.” The police even suffered a casualty in that particular confrontation: one overweight cop, overwhelmed by the tension and stifling heat, collapsed and had to be carried off or revived with smelling salts.
@@ -4310,7 +4291,6 @@ In one sense, this is the most clever ideological displacement of all—the perf
 Like any ideological formula, however, this one is extraordinarily unstable, riddled with contradictions—as the initial difficulties of the US police in suppressing the globalization movement so vividly attest. It seems to me it is best seen as a way of managing a situation of extreme alienation and insecurity that itself can only be maintained by systematic coercion. Faced with anything that remotely resembles creative, non-alienated experience, it tends to look as ridiculous as a deodorant commercial during a time of national disaster. But then, I am an anarchist. The anarchist problem remains how to bring that sort of experience, and the imaginative power that lies behind it, into the daily lives of those outside the small, autonomous bubbles we anarchists have already created. This is a continual problem, but there seems to me every reason to believe that, were it possible, the power of the police cosmology, and with it, the power of the police themselves, would simply melt away.
 
 ### Bibliography
-
 
 Bitner, Egon
 
@@ -4405,7 +4385,6 @@ Virno, Paolo, and Michael Hardt, eds.
 Wise Fool Puppet Intervention
 
 n.d. “History of Radical Puppetry,” www.zeitgeist.net/wfca/radpup.htm. Accessed July 15, 2007.
-
 
 [1] Failure to recognize this is the weakness, I think, of much of the existing theoretical literature on the subject. Mary Douglas’ essay on “jokes” for instance starts out as an analysis of joking relations. The result is a brilliant reflection on the nature of humor, but, it seems to me, is of little use in understanding the nature of joking relations in the traditional anthropological sense of the term.
 

@@ -1736,7 +1736,7 @@ $$\overline{B}_{e} \quad \overline{B}_{p} \quad \overline{B}_{p} \quad \overline
 
 A diagonal matrix, $I_{\text{B}}$ , also is defined to contain elements of (f t') that were not moved to $z_{\text{B}}$ .
 
-Diagonal 
+Diagonal
 $$I_{\beta} = (\overline{A}_{e} \quad \overline{A}_{p} \quad \overline{A}_{a} \quad 1 \quad 1 \quad 1 \quad \overline{O}_{e} \quad \overline{O}_{p} \quad \overline{O}_{a}$$
 
 $$1 \quad A_{e} \quad A_{p} \quad A_{a} \quad 1 \quad 1 \quad 1 \quad O_{e} \quad O_{p} \quad O_{a}$$
@@ -1924,20 +1924,20 @@ $$1 \quad 1 \quad 1 \quad 1 \quad 1 \quad 1 \quad \overline{A}_{e} \quad \overli
 
 The diagonal matrix, $I_{\alpha}$ , contains elements of (f' t') that were not moved to $z_{\alpha}$ .
 
-Diagonal 
+Diagonal
 $$\mathbf{I}_{a} = \begin{pmatrix} 1 & 1 & 1 & \overline{B}_{e} & \overline{B}_{p} & \overline{B}_{a} & \overline{O}_{e} & \overline{O}_{p} & \overline{O}_{a} \\ & 1 & 1 & 1 & B_{e} & B_{p} & B_{a} & O_{e} & O_{p} & O_{a} \\ & B_{e} & B_{p} & B_{a} & B_{e} & B_{p} & O_{a} & B_{a} \\ & B_{e}O_{e} & B_{e}O_{p} & B_{p}O_{e} & B_{p}O_{p} & B_{p}O_{a} & B_{a}O_{e} & B_{a}O_{p} \\ & B_{e}O_{e} & B_{p}O_{p} & B_{p}O_{p} & B_{p}O_{a} & B_{a}O_{a} \end{pmatrix}$$
 ## (13.3)
 
 Assuming that behaviors reappear in interaction fairly infrequently, it is reasonable to treat the behavior transients as equal to fundamentals—that is, each behavior is recalled fresh from memory, as it is recognized. Then Eq. (13.3) becomes
 
-Diagonal 
+Diagonal
 $$\mathbf{I}_{\alpha} = \begin{pmatrix} 1 & 1 & 1 & \overline{B}_{e} & \overline{B}_{p} & \overline{B}_{a} & \overline{O}_{e} & \overline{O}_{p} & \overline{O}_{a} \\ & 1 & 1 & 1 & \overline{B}_{e} & \overline{B}_{p} & \overline{B}_{a} & O_{e} & O_{p} & O_{a} \\ & \overline{B}_{e} & \overline{B}_{p} & \overline{B}_{a} & \overline{B}_{e} & \overline{B}_{p} & O_{a} & \overline{B}_{a} \\ & \overline{B}_{e}O_{e} & \overline{B}_{e}O_{p} & \overline{B}_{p}O_{e} & \overline{B}_{p}O_{p} & \overline{B}_{p}O_{a} & \overline{B}_{a}O_{e} & \overline{B}_{a}O_{p} \\ & \overline{B}_{e}O_{e} & \overline{B}_{p}O_{p} & \overline{B}_{p}O_{p} & \overline{B}_{p}O_{a} & \overline{B}_{a}O_{a} \end{pmatrix}$$
 
 ## $$(13.4)$$
 
 Equation (13.4) lets object transients differ from object fundamentals, and by this rendering of the re-identification problem an object person's circumstantial state as a result of past events affects the calculation of an appropriate actor. However, an alternative construction is that labeling processes ignore all events prior to the last event—the one that is being explained—in which case object transients also would be set equal to fundamentals.
 
-Diagonal 
+Diagonal
 $$\mathbf{I}_{\alpha} = \begin{pmatrix} 1 & 1 & 1 & \overline{B}_{e} & \overline{B}_{p} & \overline{B}_{a} & \overline{O}_{e} & \overline{O}_{p} & \overline{O}_{a} \\ & 1 & 1 & 1 & \overline{B}_{e} & \overline{B}_{p} & \overline{B}_{a} & \overline{O}_{e} & \overline{O}_{p} & \overline{O}_{a} \\ & \overline{B}_{e} & \overline{B}_{p} & \overline{B}_{a} & \overline{B}_{e} & \overline{B}_{p} & \overline{O}_{a} & \overline{B}_{a} \\ & \overline{B}_{e} \overline{O}_{e} & \overline{B}_{e} \overline{O}_{p} & \overline{B}_{p} \overline{O}_{e} & \overline{B}_{p} \overline{O}_{a} & \overline{B}_{a} \overline{O}_{e} & \overline{B}_{a} \overline{O}_{p} \\ & \overline{B}_{e} \overline{O}_{e} & \overline{B}_{p} \overline{O}_{p} & \overline{B}_{p} \overline{O}_{p} & \overline{B}_{p} \overline{O}_{a} & \overline{B}_{a} \overline{O}_{e} & \overline{B}_{a} \overline{O}_{p} \\ & \overline{B}_{e} \overline{O}_{e} & \overline{B}_{p} \overline{O}_{p} & \overline{B}_{p} \overline{O}_{p} & \overline{B}_{p} \overline{O}_{a} & \overline{B}_{a} \overline{O}_{p} \end{pmatrix}$$
 
 ## $$(13.5)$$
@@ -1981,7 +1981,7 @@ $$\overline{O}_{e} = \overline{O}_{p} = \overline{O}_{e} = \overline{O}_{p} = \o
 
 Instead of the diagonal matrix, $I_{\alpha}$ , in Eq. (13.5), we use
 
-Diagonal 
+Diagonal
 $$\mathbf{I}_{o} = (\overline{A}_{e} \quad \overline{A}_{p} \quad \overline{A}_{a} \quad \overline{B}_{e} \quad \overline{B}_{p} \quad \overline{B}_{a} \quad 1 \quad 1 \quad 1$$
 
 $$1 \quad \overline{A}_{e} \quad \overline{A}_{p} \quad \overline{A}_{a} \quad \overline{B}_{e} \quad \overline{B}_{p} \quad \overline{B}_{a} \quad 1 \quad 1 \quad 1$$
@@ -2020,7 +2020,7 @@ $$\mathbf{o} = -\left(\mathbf{S}_{o}^{\prime}\mathbf{I}_{o}\mathbf{H}_{\mathbf{I
 
 In affect control theory, emotion is a transitory affective and somatic condition that registers how an event makes one seem as compared to how one is supposed to be. A person's emotion combines with his or her situational identity, generating a transient impression equivalent to the transient impression created by the current event. Thereby the person viscerally experiences how the current event impacts on his or her identity. This conception can be represented schematically as follows.
 
-Emotion: function 
+Emotion: function
 $$\left\{ \begin{cases} \text{Historically} \\ \text{Anchored} \\ \text{State} \end{cases}, \left\{ \begin{array}{c} \text{Event} \\ \text{Generated} \\ \text{State} \end{cases} \right\}$$
 
 The historically-anchored state is the fundamental evaluation-potency-activity (EPA) profile
@@ -2353,26 +2353,25 @@ Standard computational algorithms are used in *Interact* for matrix algebra. How
 
 Table 18-2. Segment of Java Code From Interact for Computing Diagonals of Matricies ID, IE, and IR
 
-
-// Fill I_diagonal with ones. 
-I_diagonal = new double[full Size]; 
-for (int i = 0; i  (desired Solution + 2))) { 
- // Deal with the section of I_diagonal associated with fundamentals. 
- I_diagonal[col] = this Event.abos Fundamentals[slot][epa]; 
- // Now deal with the transient section of I_diagonal. 
- // The range variable is number of fundamentals in the identity matrix of Z: 
- // 6 for AB event, 9 for ABO event, 12 for ABOS event. 
- // Start at range + 1 to allow for equation constant. 
- for (int i = range + 1; i < full Size; i++ ) { 
- // Multiply selected transients. 
- if (Zterm[i - range][col]) { 
- I_diagonal[i] = I_diagonal[i] * this Event.abos Transients Out[slot][epa]; 
- } 
- } 
- } 
- } 
+// Fill I_diagonal with ones.
+I_diagonal = new double[full Size];
+for (int i = 0; i  (desired Solution + 2))) {
+ // Deal with the section of I_diagonal associated with fundamentals.
+ I_diagonal[col] = this Event.abos Fundamentals[slot][epa];
+ // Now deal with the transient section of I_diagonal.
+ // The range variable is number of fundamentals in the identity matrix of Z:
+ // 6 for AB event, 9 for ABO event, 12 for ABOS event.
+ // Start at range + 1 to allow for equation constant.
+ for (int i = range + 1; i < full Size; i++ ) {
+ // Multiply selected transients.
+ if (Zterm[i - range][col]) {
+ I_diagonal[i] = I_diagonal[i] * this Event.abos Transients Out[slot][epa];
+ }
+ }
+ }
+ }
 }
-## 
+##
 # Part 3
 
 ## Researching Affect Control Theory
@@ -2947,176 +2946,174 @@ Transient affective meaning: A momentary affective meaning resulting from action
 
 ## Index
 
-
-accommodation, mental, 4, 71, 72, 134 
-action, 3, 4, 13, 19, 21, 22, 24, 27, 28, 32, 
-    33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 
+accommodation, mental, 4, 71, 72, 134
+action, 3, 4, 13, 19, 21, 22, 24, 27, 28, 32,
+    33, 35, 36, 37, 38, 39, 40, 41, 42, 43,
     44, 45, 46, 47, 48, 50, 51, 52, 53, 54,
-    55, 56, 58, 60, 61, 65, 66, 67, 69, 70, 
-    71, 74, 89, 90, 101, 103, 107, 115, 
-    119, 120, 121, 122, 123, 124, 130, 
-    137, 140, 141, 145, 146, 147 
-activity dimension, 7, 8, 9, 10, 11, 14, 15, 
-    17, 18, 19, 22, 23, 26, 33, 34, 36, 38, 
+    55, 56, 58, 60, 61, 65, 66, 67, 69, 70,
+    71, 74, 89, 90, 101, 103, 107, 115,
+    119, 120, 121, 122, 123, 124, 130,
+    137, 140, 141, 145, 146, 147
+activity dimension, 7, 8, 9, 10, 11, 14, 15,
+    17, 18, 19, 22, 23, 26, 33, 34, 36, 38,
     39, 42, 47, 48, 49, 50, 51, 52, 54, 57,
-    58, 61, 62, 65, 66, 67, 68, 70, 73, 74, 
-    75, 76, 77, 78, 82, 99, 104, 109, 113, 
-    116, 121, 122, 123, 129, 131, 132, 
-    133, 135, 140, 145, 146 
-actor, 35, 36, 37, 38, 39, 40, 41, 43, 46, 
-    47, 49, 52, 53, 54, 66, 69, 82, 88, 89, 
-    90, 91, 92, 93, 94, 101, 103, 104, 105, 
-    107, 108, 113, 115, 116, 117, 118, 
+    58, 61, 62, 65, 66, 67, 68, 70, 73, 74,
+    75, 76, 77, 78, 82, 99, 104, 109, 113,
+    116, 121, 122, 123, 129, 131, 132,
+    133, 135, 140, 145, 146
+actor, 35, 36, 37, 38, 39, 40, 41, 43, 46,
+    47, 49, 52, 53, 54, 66, 69, 82, 88, 89,
+    90, 91, 92, 93, 94, 101, 103, 104, 105,
+    107, 108, 113, 115, 116, 117, 118,
     119, 120, 121, 122, 123, 124, 125,
-    130, 131, 140, 141, 142, 145, 146 
-actor-behavior interaction, 40, 91, 140 
-acts, 13, 24, 25, 37, 38, 39, 40, 43, 44, 45, 
-    48, 49, 50, 51, 52, 53, 54, 55, 61, 62, 
-    67, 69, 100, 115 
-adults, 14, 28, 29, 30, 74, 77, 78, 136 
+    130, 131, 140, 141, 142, 145, 146
+actor-behavior interaction, 40, 91, 140
+acts, 13, 24, 25, 37, 38, 39, 40, 43, 44, 45,
+    48, 49, 50, 51, 52, 53, 54, 55, 61, 62,
+    67, 69, 100, 115
+adults, 14, 28, 29, 30, 74, 77, 78, 136
 affect, 2, 3, 4, 5, 26, 37, 40, 42, 44, 45,
-    48, 49, 50, 56, 66, 67, 72, 81, 97, 99, 
+    48, 49, 50, 56, 66, 67, 72, 81, 97, 99,
     101, 109, 119, 129, 130, 131, 132,
-## 
+##
 
-133, 134, 135, 136, 137, 139, 142, 
-    143, 145, 146, 147 
-affective meaning, 4, 11, 37, 42, 44, 46, 
+133, 134, 135, 136, 137, 139, 142,
+    143, 145, 146, 147
+affective meaning, 4, 11, 37, 42, 44, 46,
     48, 52, 66, 129, 130, 131, 132, 133,
-    145, 146, 147 
-age, 27, 33, 77, 78 
-alienation, 75 
-amalgamation, 4, 68, 100, 101, 103, 104, 
-    105, 145, 146, 147 
-aspirations, 74, 77 
+    145, 146, 147
+age, 27, 33, 77, 78
+alienation, 75
+amalgamation, 4, 68, 100, 101, 103, 104,
+    105, 145, 146, 147
+aspirations, 74, 77
 assimilation, mental, 70, 71, 72
-attributes, 4, 22, 26, 33, 34, 65, 66, 67, 68, 
-    69, 70, 101, 103, 120, 131, 141, 145, 
+attributes, 4, 22, 26, 33, 34, 65, 66, 67, 68,
+    69, 70, 101, 103, 120, 131, 141, 145,
     147
-authority, 15, 46, 49, 52, 54 
-Averett, Christine, 34, 63, 98, 131, 134 
-balance effect, 40 
-behavior, 3, 4, 5, 8, 13, 15, 19, 22, 23, 24, 
-    25, 30, 32, 36, 37, 38, 39, 40, 41, 42, 
+authority, 15, 46, 49, 52, 54
+Averett, Christine, 34, 63, 98, 131, 134
+balance effect, 40
+behavior, 3, 4, 5, 8, 13, 15, 19, 22, 23, 24,
+    25, 30, 32, 36, 37, 38, 39, 40, 41, 42,
     43, 44, 45, 47, 48, 49, 50, 51, 52, 53,
-    54, 55, 56, 60, 65, 66, 67, 68, 69, 71, 
-    73, 75, 76, 78, 82, 85, 86, 87, 88, 89, 
-    90, 91, 92, 94, 103, 108, 113, 114, 
-    115, 116, 117, 118, 119, 120, 121, 
-    122, 123, 124, 125, 129, 130, 135, 
-    137, 140, 141, 142, 145, 146, 147 
+    54, 55, 56, 60, 65, 66, 67, 68, 69, 71,
+    73, 75, 76, 78, 82, 85, 86, 87, 88, 89,
+    90, 91, 92, 94, 103, 108, 113, 114,
+    115, 116, 117, 118, 119, 120, 121,
+    122, 123, 124, 125, 129, 130, 135,
+    137, 140, 141, 142, 145, 146, 147
 behavior-object interaction, 39, 40
-bereavement, 41, 60, 61, 131 
+bereavement, 41, 60, 61, 131
 biological factors, 14, 27, 33, 41, 57, 78
-## 
+##
 
-Canada, 3, 15, 17, 18, 19, 22, 23, 26, 41, 
-    73, 74, 98, 130, 131, 133, 136, 142 
-characteristic emotion, 59, 70, 100, 120, 
+Canada, 3, 15, 17, 18, 19, 22, 23, 26, 41,
+    73, 74, 98, 130, 131, 133, 136, 142
+characteristic emotion, 59, 70, 100, 120,
     142
-childhood, 7, 8, 10, 11, 13, 14, 17, 22, 28, 
-    29, 35, 39, 40, 41, 44, 47, 54, 70, 72, 
-    77, 103, 136 
-China, 22, 132, 133, 142 
-cliques, 21, 46, 56, 136 
-coefficients, 10, 18, 19, 84, 90, 98, 99, 
-    100, 101, 104, 121, 122, 123 
-cognition, 35, 37, 42 
-compensating identities, 3, 74, 75, 78 
-computer program, 3, 4, 5, 23, 84, 88, 
-    108, 119, 120, 129, 130, 131, 132, 
-    133, 139, 143, 144, 146, 147 
-congruencies, 40 
-consensus, 14, 19, 21 
-consistencies, 39, 40, 41, 118 
-control, 2, 56, 129, 131, 145 
-correlations, 10, 15, 16, 17, 18, 19 
-culture, 10, 11, 13, 14, 15, 16, 17, 18, 19, 
-    21, 22, 23, 24, 36, 39, 41, 47, 54, 55, 
-    56, 71, 72, 73, 77, 78, 81, 84, 100, 
-    120, 123, 131, 132, 133, 134, 135, 
-    142, 145, 146, 147 
-definition of the situation, 43, 65, 67, 140 
-deflection, 41, 44, 54, 60, 61, 62, 63, 66, 
-    81, 82, 105, 119, 129, 130, 140, 141, 
-    145, 147 
-denotative meaning, 145, 146 
-deviance, 8, 15, 22, 24, 25, 26, 29, 30, 33, 
-    39, 46, 53, 54, 55, 59, 62, 66, 67, 68, 
-    69, 75, 76, 78, 130, 131, 137, 143, 
+childhood, 7, 8, 10, 11, 13, 14, 17, 22, 28,
+    29, 35, 39, 40, 41, 44, 47, 54, 70, 72,
+    77, 103, 136
+China, 22, 132, 133, 142
+cliques, 21, 46, 56, 136
+coefficients, 10, 18, 19, 84, 90, 98, 99,
+    100, 101, 104, 121, 122, 123
+cognition, 35, 37, 42
+compensating identities, 3, 74, 75, 78
+computer program, 3, 4, 5, 23, 84, 88,
+    108, 119, 120, 129, 130, 131, 132,
+    133, 139, 143, 144, 146, 147
+congruencies, 40
+consensus, 14, 19, 21
+consistencies, 39, 40, 41, 118
+control, 2, 56, 129, 131, 145
+correlations, 10, 15, 16, 17, 18, 19
+culture, 10, 11, 13, 14, 15, 16, 17, 18, 19,
+    21, 22, 23, 24, 36, 39, 41, 47, 54, 55,
+    56, 71, 72, 73, 77, 78, 81, 84, 100,
+    120, 123, 131, 132, 133, 134, 135,
+    142, 145, 146, 147
+definition of the situation, 43, 65, 67, 140
+deflection, 41, 44, 54, 60, 61, 62, 63, 66,
+    81, 82, 105, 119, 129, 130, 140, 141,
+    145, 147
+denotative meaning, 145, 146
+deviance, 8, 15, 22, 24, 25, 26, 29, 30, 33,
+    39, 46, 53, 54, 55, 59, 62, 66, 67, 68,
+    69, 75, 76, 78, 130, 131, 137, 143,
     145
-dictionaries, 71, 119, 129, 130, 131, 132, 
-    133, 141, 142, 143, 146 
-dimensions, 85, 97, 103, 109, 121, 125, 
-    140, 145, 146 
-distance, 10, 41, 52, 62, 134, 146 
-education, 3, 10, 24, 26, 29, 30, 32, 34, 
-    37, 38, 43, 44, 45, 48, 52, 58, 61, 71, 
-    73, 74, 129, 130, 131, 132, 133, 136, 
+dictionaries, 71, 119, 129, 130, 131, 132,
+    133, 141, 142, 143, 146
+dimensions, 85, 97, 103, 109, 121, 125,
+    140, 145, 146
+distance, 10, 41, 52, 62, 134, 146
+education, 3, 10, 24, 26, 29, 30, 32, 34,
+    37, 38, 43, 44, 45, 48, 52, 58, 61, 71,
+    73, 74, 129, 130, 131, 132, 133, 136,
     137
-emotion, 2, 3, 4, 23, 24, 25, 32, 34, 44, 
-    45, 46, 55, 56, 57, 58, 59, 60, 61, 62, 
-    63, 65, 67, 69, 70, 71, 72, 97, 98, 99, 
-    100, 101, 103, 104, 116, 117, 118, 
-    119, 120, 131, 132, 135, 136, 137, 
-    139, 140, 141, 142, 144, 146 
+emotion, 2, 3, 4, 23, 24, 25, 32, 34, 44,
+    45, 46, 55, 56, 57, 58, 59, 60, 61, 62,
+    63, 65, 67, 69, 70, 71, 72, 97, 98, 99,
+    100, 101, 103, 104, 116, 117, 118,
+    119, 120, 131, 132, 135, 136, 137,
+    139, 140, 141, 142, 144, 146
 empathy, 49, 135
-## 
+##
 
-EPA profile, 9, 10, 97, 98, 101, 103, 104, 
-    119, 133, 136, 140, 141, 142, 143, 
+EPA profile, 9, 10, 97, 98, 101, 103, 104,
+    119, 133, 136, 140, 141, 142, 143,
     146
-errors, 16, 17, 142, 143 
-estimation, 14, 17, 19, 84, 89, 90, 100, 
-    113, 116, 117, 130, 131, 140, 142, 
+errors, 16, 17, 142, 143
+estimation, 14, 17, 19, 84, 89, 90, 100,
+    113, 116, 117, 130, 131, 140, 142,
     143
-evaluation dimension, 7, 8, 9, 10, 11, 14, 
-    15, 17, 18, 19, 21, 22, 23, 24, 25, 26, 
-    28, 29, 32, 33, 34, 37, 38, 39, 40, 41, 
-    45, 46, 48, 49, 50, 51, 52, 53, 54, 55, 
-    57, 58, 60, 61, 62, 63, 65, 66, 67, 68, 
-    69, 72, 73, 75, 76, 77, 78, 82, 85, 97, 
-    98, 99, 100, 103, 104, 108, 109, 113, 
-    115, 116, 117, 118, 121, 122, 123, 
-    129, 131, 133, 135, 136, 140, 143, 
-    145, 146 
-events, 2, 3, 4, 32, 35, 36, 37, 38, 41, 43, 
-    47, 50, 52, 53, 54, 57, 58, 59, 60, 61, 
-    62, 63, 66, 70, 71, 72, 81, 82, 83, 84, 
-    89, 91, 92, 97, 98, 99, 101, 103, 104, 
-    106, 113, 119, 121, 122, 123, 125, 
-    129, 130, 134, 137, 139, 140, 141, 
-    142, 143, 146 
-expectations, 3, 4, 22, 24, 27, 30, 33, 34, 
-    41, 54, 55, 65, 68, 71, 140, 141, 142, 
+evaluation dimension, 7, 8, 9, 10, 11, 14,
+    15, 17, 18, 19, 21, 22, 23, 24, 25, 26,
+    28, 29, 32, 33, 34, 37, 38, 39, 40, 41,
+    45, 46, 48, 49, 50, 51, 52, 53, 54, 55,
+    57, 58, 60, 61, 62, 63, 65, 66, 67, 68,
+    69, 72, 73, 75, 76, 77, 78, 82, 85, 97,
+    98, 99, 100, 103, 104, 108, 109, 113,
+    115, 116, 117, 118, 121, 122, 123,
+    129, 131, 133, 135, 136, 140, 143,
+    145, 146
+events, 2, 3, 4, 32, 35, 36, 37, 38, 41, 43,
+    47, 50, 52, 53, 54, 57, 58, 59, 60, 61,
+    62, 63, 66, 70, 71, 72, 81, 82, 83, 84,
+    89, 91, 92, 97, 98, 99, 101, 103, 104,
+    106, 113, 119, 121, 122, 123, 125,
+    129, 130, 134, 137, 139, 140, 141,
+    142, 143, 146
+expectations, 3, 4, 22, 24, 27, 30, 33, 34,
+    41, 54, 55, 65, 68, 71, 140, 141, 142,
     147
-experienced-self, 110, 111, 134 
-experiments, 45, 56, 115, 131, 132, 135 
-facial expression, 2, 45, 52, 57, 62, 119, 
-    131, 140, 141, 144, 146 
-family, 3, 8, 10, 11, 17, 22, 27, 28, 29, 30, 
-    35, 38, 40, 41, 44, 48, 60, 61, 62, 67, 
-    68, 70, 73, 74, 76, 77, 98, 103, 131, 
+experienced-self, 110, 111, 134
+experiments, 45, 56, 115, 131, 132, 135
+facial expression, 2, 45, 52, 57, 62, 119,
+    131, 140, 141, 144, 146
+family, 3, 8, 10, 11, 17, 22, 27, 28, 29, 30,
+    35, 38, 40, 41, 44, 48, 60, 61, 62, 67,
+    68, 70, 73, 74, 76, 77, 98, 103, 131,
     136
-feelings, 4, 7, 8, 9, 11, 13, 14, 17, 19, 22, 
-    23, 35, 37, 38, 39, 40, 41, 42, 44, 45, 
-    51, 52, 55, 57, 59, 60, 62, 63, 67, 73, 
-    103, 108, 120, 139, 140, 143, 146 
-filters, 142, 143 
-Francis, Linda, 63, 131, 134, 135 
-friendship, 8, 10, 30, 32, 33, 34, 45, 46, 
-    47, 56, 61, 67, 69, 70, 73 
-fundamentals, 48, 81, 82, 83, 84, 85, 88, 
-    91, 92, 97, 98, 99, 100, 101, 103, 104, 
-    105, 107, 113, 115, 116, 117, 120, 
-    123, 125, 145, 146, 147 
-gender, 3, 10, 15, 17, 18, 19, 22, 23, 24, 
+feelings, 4, 7, 8, 9, 11, 13, 14, 17, 19, 22,
+    23, 35, 37, 38, 39, 40, 41, 42, 44, 45,
+    51, 52, 55, 57, 59, 60, 62, 63, 67, 73,
+    103, 108, 120, 139, 140, 143, 146
+filters, 142, 143
+Francis, Linda, 63, 131, 134, 135
+friendship, 8, 10, 30, 32, 33, 34, 45, 46,
+    47, 56, 61, 67, 69, 70, 73
+fundamentals, 48, 81, 82, 83, 84, 85, 88,
+    91, 92, 97, 98, 99, 100, 101, 103, 104,
+    105, 107, 113, 115, 116, 117, 120,
+    123, 125, 145, 146, 147
+gender, 3, 10, 15, 17, 18, 19, 22, 23, 24,
     26, 29, 33, 36, 37, 42, 53, 55, 66, 67,
-## 
+##
 68, 69, 71, 73, 74, 75, 121, 136, 137,
 
 ## 140
-
 
 Germany, 3, 17, 19, 22, 131, 132, 133,
 ## lability, 62, 100
@@ -3216,110 +3213,110 @@ Japan, 3, 17, 18, 19, 22, 41, 42, 63, 84,
 labeling, 4, 27, 28, 65, 66, 67, 92, 130,
     131, 135, 137, 141
 ## Osgood, Charles, 11, 129, 133, 135
-## 
+##
 
-perception, 36, 37, 136, 137 
-personality, 23, 33, 34, 65, 66, 68, 69, 147 
-politics, 27, 28, 30, 32, 39, 40, 75, 77, 
-    130, 136 
-potency dimension, 7, 8, 9, 10, 11, 14, 15, 
-    17, 18, 19, 22, 23, 26, 33, 34, 38, 39, 
-    40, 41, 46, 47, 48, 49, 50, 51, 52, 54, 
-    57, 58, 60, 61, 62, 65, 66, 67, 72, 73, 
-    74, 75, 76, 77, 78, 82, 99, 104, 109, 
-    113, 116, 121, 122, 123, 129, 130, 
-    133, 135, 136, 140, 145, 146 
-prediction, 3, 15, 18, 19, 24, 41, 47, 54, 
-    55, 60, 67, 71, 84, 89, 90, 98, 108, 
-    115, 116, 117, 119, 120, 121, 122, 
-    123, 129, 130, 131, 134, 135, 137, 
-    139, 140, 142, 143, 146 
-psychology, 3, 24, 26, 42, 60, 63, 65, 84, 
-    129, 143 
-ratings, 9, 10, 11, 16, 17, 18, 19, 22, 23, 
-    24, 129, 142 
-rationality, 48 
-reality, 4, 70, 71, 72, 73 
-recently-experienced-self, 110, 111 
-re-identification, 66, 67, 69, 70, 72, 92, 
-    101, 103, 107, 115, 116, 117, 118, 
-    120, 142, 146 
-relationships, 45, 49, 50, 51, 53, 57, 59, 
-    60, 61, 77, 135, 136, 143 
-religion, 8, 21, 23, 24, 26, 27, 28, 29, 30, 
-    32, 37, 48, 54, 59, 68, 72, 74, 77, 135, 
+perception, 36, 37, 136, 137
+personality, 23, 33, 34, 65, 66, 68, 69, 147
+politics, 27, 28, 30, 32, 39, 40, 75, 77,
+    130, 136
+potency dimension, 7, 8, 9, 10, 11, 14, 15,
+    17, 18, 19, 22, 23, 26, 33, 34, 38, 39,
+    40, 41, 46, 47, 48, 49, 50, 51, 52, 54,
+    57, 58, 60, 61, 62, 65, 66, 67, 72, 73,
+    74, 75, 76, 77, 78, 82, 99, 104, 109,
+    113, 116, 121, 122, 123, 129, 130,
+    133, 135, 136, 140, 145, 146
+prediction, 3, 15, 18, 19, 24, 41, 47, 54,
+    55, 60, 67, 71, 84, 89, 90, 98, 108,
+    115, 116, 117, 119, 120, 121, 122,
+    123, 129, 130, 131, 134, 135, 137,
+    139, 140, 142, 143, 146
+psychology, 3, 24, 26, 42, 60, 63, 65, 84,
+    129, 143
+ratings, 9, 10, 11, 16, 17, 18, 19, 22, 23,
+    24, 129, 142
+rationality, 48
+reality, 4, 70, 71, 72, 73
+recently-experienced-self, 110, 111
+re-identification, 66, 67, 69, 70, 72, 92,
+    101, 103, 107, 115, 116, 117, 118,
+    120, 142, 146
+relationships, 45, 49, 50, 51, 53, 57, 59,
+    60, 61, 77, 135, 136, 143
+religion, 8, 21, 23, 24, 26, 27, 28, 29, 30,
+    32, 37, 48, 54, 59, 68, 72, 74, 77, 135,
     146
-Robinson, Dawn, 56, 72, 131, 132, 134, 
-    135, 136, 137 
-roles, 3, 26, 27, 30, 32, 33, 36, 47, 48, 49, 
-    50, 51, 52, 53, 55, 65, 66, 67, 69, 70, 
-    72, 73, 74, 75, 77, 97, 98, 99, 100, 
-    101, 104, 147 
-rules, 67, 122, 140, 146 
-salience, 46, 49, 50, 51, 74 
-scales, 9, 10, 11, 16, 100, 129, 133 
-Schneider, Andreas, 56, 131, 133, 134, 
-    135, 136, 137, 144 
-self, 3, 4, 23, 24, 25, 28, 32, 34, 38, 44, 
-    45, 46, 47, 50, 55, 56, 58, 60, 61, 62, 
-    63, 66, 73, 74, 75, 76, 77, 78, 90, 97, 
-    98, 99, 100, 104, 109, 110, 111, 120, 
-    121, 122, 123, 124, 132, 134, 137, 
-    140, 142, 146 
-self-actualization, 73, 74, 75, 76, 77, 78, 
-    109, 110, 111, 134, 142 
+Robinson, Dawn, 56, 72, 131, 132, 134,
+    135, 136, 137
+roles, 3, 26, 27, 30, 32, 33, 36, 47, 48, 49,
+    50, 51, 52, 53, 55, 65, 66, 67, 69, 70,
+    72, 73, 74, 75, 77, 97, 98, 99, 100,
+    101, 104, 147
+rules, 67, 122, 140, 146
+salience, 46, 49, 50, 51, 74
+scales, 9, 10, 11, 16, 100, 129, 133
+Schneider, Andreas, 56, 131, 133, 134,
+    135, 136, 137, 144
+self, 3, 4, 23, 24, 25, 28, 32, 34, 38, 44,
+    45, 46, 47, 50, 55, 56, 58, 60, 61, 62,
+    63, 66, 73, 74, 75, 76, 77, 78, 90, 97,
+    98, 99, 100, 104, 109, 110, 111, 120,
+    121, 122, 123, 124, 132, 134, 137,
+    140, 142, 146
+self-actualization, 73, 74, 75, 76, 77, 78,
+    109, 110, 111, 134, 142
 self-concept, 25, 61, 75, 78
-## 
+##
 
-self-directed action, 90, 120, 121, 122, 
-    123, 124, 147 
-self-esteem, 32, 46, 62, 73, 75, 76, 78 
-self-evaluations, 46, 75, 76, 77 
-self-sentiment, 4, 25, 32, 34, 46, 56, 62, 
-    63, 73, 74, 75, 76, 77, 78, 109, 111, 
-    134, 137, 147 
-semantic differential, 19, 129, 133 
-sentiments, 2, 3, 4, 7, 8, 9, 10, 11, 13, 14, 
-    15, 16, 17, 18, 19, 21, 22, 23, 24, 26, 
-    32, 35, 37, 41, 42, 43, 44, 45, 46, 48, 
-    49, 50, 51, 52, 53, 54, 55, 56, 60, 61, 
-    65, 66, 70, 71, 72, 73, 74, 75, 76, 77, 
-    78, 81, 83, 89, 104, 109, 119, 120, 
-    129, 130, 131, 132, 135, 136, 137, 
-    139, 140, 141, 142, 143, 145, 146, 
+self-directed action, 90, 120, 121, 122,
+    123, 124, 147
+self-esteem, 32, 46, 62, 73, 75, 76, 78
+self-evaluations, 46, 75, 76, 77
+self-sentiment, 4, 25, 32, 34, 46, 56, 62,
+    63, 73, 74, 75, 76, 77, 78, 109, 111,
+    134, 137, 147
+semantic differential, 19, 129, 133
+sentiments, 2, 3, 4, 7, 8, 9, 10, 11, 13, 14,
+    15, 16, 17, 18, 19, 21, 22, 23, 24, 26,
+    32, 35, 37, 41, 42, 43, 44, 45, 46, 48,
+    49, 50, 51, 52, 53, 54, 55, 56, 60, 61,
+    65, 66, 70, 71, 72, 73, 74, 75, 76, 77,
+    78, 81, 83, 89, 104, 109, 119, 120,
+    129, 130, 131, 132, 135, 136, 137,
+    139, 140, 141, 142, 143, 145, 146,
     147
-settings, 3, 22, 23, 28, 31, 36, 37, 38, 41, 
-    42, 43, 47, 60, 66, 70, 73, 74, 75, 82, 
-    85, 89, 90, 119, 120, 121, 122, 125, 
-    130, 131, 132, 140, 142, 145, 146, 
+settings, 3, 22, 23, 28, 31, 36, 37, 38, 41,
+    42, 43, 47, 60, 66, 70, 73, 74, 75, 82,
+    85, 89, 90, 119, 120, 121, 122, 125,
+    130, 131, 132, 140, 142, 145, 146,
     147
-sexuality, 15, 21, 22, 23, 24, 25, 26, 27, 
-    28, 29, 30, 32, 35, 38, 39, 40, 45, 47, 
-    54, 55, 59, 60, 62, 67, 68, 69, 75, 76, 
-    77, 135, 137 
-simulation, 4, 23, 56, 57, 83, 84, 88, 89, 
-    108, 115, 119, 130, 131, 135, 137, 
-    139, 140, 141, 142, 143, 147 
-situation, 2, 3, 4, 27, 28, 31, 32, 33, 34, 
-    36, 42, 44, 46, 47, 48, 51, 52, 53, 57, 
-    58, 59, 61, 65, 67, 68, 69, 70, 71, 73, 
-    74, 97, 99, 100, 101, 103, 104, 109, 
-    132, 135, 140, 141, 146, 147 
-Smith, Herman, 5, 26, 34, 42, 56, 63, 72, 
-    84, 89, 90, 98, 130, 131, 132, 133, 
-    134, 135, 136, 137 
-Smith-Lovin, Lynn, 5, 26, 34, 42, 56, 63, 
-    72, 84, 89, 130, 131, 132, 134, 135, 
-    136, 137 
-social institution, 3, 4, 27, 28, 29, 30, 31, 
-    32, 33, 34, 37, 43, 44, 48, 52, 53, 60, 
-    66, 67, 74, 75, 77, 109, 132, 136, 142, 
-    143, 146, 147 
-societies, 3, 10, 13, 14, 15, 17, 19, 21, 27, 
-    28, 30, 76, 109, 134, 136, 146 
-solidarity, 60, 63, 135 
-somatic factors, 57, 63, 97, 132, 135, 146 
-stability, 15, 17, 19, 23, 38, 62, 70, 72, 
+sexuality, 15, 21, 22, 23, 24, 25, 26, 27,
+    28, 29, 30, 32, 35, 38, 39, 40, 45, 47,
+    54, 55, 59, 60, 62, 67, 68, 69, 75, 76,
+    77, 135, 137
+simulation, 4, 23, 56, 57, 83, 84, 88, 89,
+    108, 115, 119, 130, 131, 135, 137,
+    139, 140, 141, 142, 143, 147
+situation, 2, 3, 4, 27, 28, 31, 32, 33, 34,
+    36, 42, 44, 46, 47, 48, 51, 52, 53, 57,
+    58, 59, 61, 65, 67, 68, 69, 70, 71, 73,
+    74, 97, 99, 100, 101, 103, 104, 109,
+    132, 135, 140, 141, 146, 147
+Smith, Herman, 5, 26, 34, 42, 56, 63, 72,
+    84, 89, 90, 98, 130, 131, 132, 133,
+    134, 135, 136, 137
+Smith-Lovin, Lynn, 5, 26, 34, 42, 56, 63,
+    72, 84, 89, 130, 131, 132, 134, 135,
+    136, 137
+social institution, 3, 4, 27, 28, 29, 30, 31,
+    32, 33, 34, 37, 43, 44, 48, 52, 53, 60,
+    66, 67, 74, 75, 77, 109, 132, 136, 142,
+    143, 146, 147
+societies, 3, 10, 13, 14, 15, 17, 19, 21, 27,
+    28, 30, 76, 109, 134, 136, 146
+solidarity, 60, 63, 135
+somatic factors, 57, 63, 97, 132, 135, 146
+stability, 15, 17, 19, 23, 38, 62, 70, 72,
     111, 143
-## 
+##
 status, 22, 23, 27, 34, 52, 76, 101, 136, 142, 145, 147 stereotypes, 23 stress, 47, 56, 60, 61, 62, 63, 75, 137, 147 structure, 17, 47, 57, 59, 60, 62, 63, 107, 109, 114, 131, 132, 134, 135, 136, 137, 146 sub-cultures, 21, 22, 23, 24, 25, 26, 55, 130, 135, 136, 137, 140, 147 supernatural, 29, 61, 67 surveys, 15, 24, 42, 56, 132, 135 Thomassen, Lisa Thomas, 3, 56, 63, 98, 100, 133, 134, 137 traits, 23, 26, 33, 34, 41, 65, 66, 68, 69, 70, 101, 120, 131, 136, 141, 142, 145, 147 transients, 38, 70, 81, 82, 83, 84, 85, 88, 91, 92, 97, 98, 99, 100, 101, 103, 106, 113, 115, 116, 117, 120, 123, 125, 135, 141, 145, 146, 147 trans-situational, 69, 101 Tsoudis, Olga, 72, 135, 137 turn-taking, 47 U. S. A., 3, 7, 10, 11, 17, 18, 19, 22, 23, 24, 44, 56, 131, 137, 143 Umino, Michio, 42, 84, 131, 134, 136 universals, 11, 146 verbs, 35, 36, 42, 43, 143, 146 victimization, 3, 54, 55, 67, 73, 76, 143 weights, 82, 83, 88, 111 work, 3, 4, 11, 26, 27, 28, 29, 30, 32, 34, 36, 37, 42, 43, 44, 45, 47, 48, 50, 51, 52, 54, 56, 57, 63, 66, 67, 69, 70, 71, 72, 73, 74, 76, 77, 119, 123, 129, 130, 131, 132, 133, 134, 135, 136, 137, 139, 143, 145

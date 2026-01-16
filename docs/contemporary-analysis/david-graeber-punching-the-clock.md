@@ -11,7 +11,7 @@ Everyone is familiar with the sorts of jobs whose purpose is difficult to discer
 
 This is how Kurt, a subcontractor for the German military, describes his job:
 
-> 
+>
 “The German military has a subcontractor that does its IT work. The IT firm has a subcontractor that does its logistics. The logistics firm has a subcontractor that does its personnel management. I work for that company.
 
 “Let’s say a soldier moves to an office two rooms down the hall. Instead of carrying his computer over, he fills out a form. The IT subcontractor reads and approves it and forwards it to the logistics firm. The logistics firm approves the move and requests personnel from us. I get an email to travel to the barracks. The barracks are up to three hundred miles away from my home, so I rent a car. I drive to the barracks, fill out a form, unhook the computer, load it into a box, and seal the box. A guy from the logistics firm carries the box to the new office. There, I unseal the box, fill out another form, hook up the computer, get a few signatures, drive back home, send a letter with the paperwork, and then I get paid.”
@@ -46,7 +46,7 @@ Workers protesting oppressive conditions, meanwhile, adopted the same notions of
 
 The idea that workers have a moral obligation to allow their working time to be dictated has become so normalized that members of the public feel indignant if they see, say, transit workers lounging on the job. Thus busywork was invented: to ameliorate the supposed problem of workers not having enough to do to fill an eight-hour day. Take the experience of a woman named Wendy, who sent me a long history of pointless jobs she had worked:
 
-> 
+>
 “As a receptionist for a small trade magazine, I was often given tasks to perform while waiting for the phone to ring. Once, one of the ad-sales people dumped thousands of paper clips on my desk and asked me to sort them by color. She then used them interchangeably.
 
 “Another example: my grandmother lived independently in an apartment in New York City into her early nineties, but she did need some help. We hired a very nice woman to live with her, help her do shopping and laundry, and keep an eye out in case she fell or needed help. So, if all went well, there was nothing for this woman to do. This drove my grandmother crazy. ‘She’s just sitting there!’ she would complain. Ultimately, the woman quit.”

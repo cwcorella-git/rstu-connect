@@ -32,31 +32,16 @@ World Resources Institute (WRI) Just Transition Framework:
 World Resources Institute has produced a very thorough and well written article on just transition for refinery workers:
 
 In a Clean Energy Future, What Happens to California's Thousands of Oil Refinery Workers? -
-
-https://www.wri.org/insights/ca-oil-refineries-just-transition
-
 They recently presented their findings at a recent meeting of the Richmond Refinery Transition Working Group and announced their intent to conduct ongoing research with the intent of developing a set of policy recommendations for the state, for affected unions, communities, and environmental organizations;
 
 Their recommendations will incorporate previous studies by the UC Labor Center (including
 
 Putting California on the High Road: a Jobs and Climate Action Plan for 2030 -
-
-https://laborcenter.berkeley.edu/putting-california-on-the-high-road-a-jobs-and-climate-actionplan-for-2030/
-
 and
 
 Fossil fuel layoff: The economic and employment effects of a refinery closure on workers in the Bay Area -
-
-https://laborcenter.berkeley.edu/fossil-fuel-layoff/
-
 ), PERI (including especially the California Climate Jobs Plan, aka "The Pollin Report" -
-
-https://www.californiaclimatejobsplan.com/
-
 ## ), and Labor Network for Sustainability -
-
-https://www.labor4sustainability.org/
-
 ## )
 
 ## Protecting SB 1137 (the Oil Well Setbacks Law)

@@ -261,7 +261,7 @@ c) Language becomes the only referential, as the 'real' referential is abolished
 
 At one end of this skyline dominated by important works we observed the emergence of everyday life, the revelation of its hidden possibilities; at the opposite end everyday life reappears but in a different perspective. Now the writer unmasks, discovers, unveils; everyday life becomes less and less bearable, less and less interesting; yet the author manages to create an interest in this intolerable tediousness simply by telling it, by writing, by literature. Our investigation has thus exposed a denite change both in the things written about and in the way of writing. We are not concerned here with further ramications such as the contemporary theatre (Ionesco, Beckett), poetry (Ponge), lms (Resnais, Godard), etc.; nor with any attempt at generalization. We only wish to underline the metaphysical function of contemporary literature. We shall come across these problems again and again under different aspects. The 'world' is divided into the world of everyday life (real, empirical, practical) and the world of metaphor; metaphorical writing, or the metaphorical world of writing tends either towards articial oppositions and illusory contradictions or towards self- destruction in the comedy of insanity (existentialism, Artaud); but this is not the place to analyse these sub-divisions.
 
-### 
+###
 
 We shall now tackle everyday life from the new angle of philosophy. In the nineteenth century the axis of thought was redirected from speculation towards empirical practical realism, with the works of Karl Marx and the budding social sciences forming landmarks on the line of displacement. In the social framework of freely competitive capitalism Marx concentrated mainly on the everyday existence of the working classes from the dual viewpoint of productive power and illusions to overcome. Notwithstanding the assaults of positivism and pragmatism, philosophy still directs such inquiries and is alone capable of connecting fragmentary ideologies and specialized sciences; moreover it cannot be dispensed with if we want to understand the essence and existence, the real or imaginary responsibilities, the potentialities and limitations of mankind; and there is no method to equal it in linking and assessing disconnected material. This is because philosophy, through the wide range of its interests, projects the image of a 'complete human being', free, accomplished, fully realized, rational yet real. This image – implicit already in Socrates' maieutic – has, for approximately twenty centuries, been rened, revised, opposed, developed and adorned with superuities and hyperboles.
 
@@ -369,7 +369,7 @@ Only when considering the life of the working classes – and by redeeming and e
 
 Are such assertions, petitions and projects irredeemably outdated, should we give them up for good and all, or can they be reformulated more artfully? This question will be answered later. None the less our critical analysis of everyday life involves, in retrospect, a particular view of history and the historicity of everyday life can only be compiled by exposing its emergence in the past. Undoubtedly people have always had to be fed, clothed, housed and have had to produce and then re-produce that which has been consumed; but until the nineteenth century, until the advent of competitive capitalism and the expansion of the world of trade the quotidian as such did not exist, and the point we are making here is crucial, it is indeed one of the major paradoxes of history. In the heart of poverty and (direct) oppression there was style; in former times labours of skill were produced, whereas today we have (commercialized) products and exploitation has replaced violent oppression. Style gave signicance to the slightest object, to actions and activities, to gestures; it was a concrete signicance, not an abstraction taken piecemeal from a system of symbols. There was a style of cruelty, a style of power, a style of wisdom; cruelty and power (the Aztecs, Rome) produced great styles and great civilizations, but so did the aristocratic wisdom of Egypt or of India. With the rise of the masses (who were none the less still exploited) and with democracy (the masses still being exploited) great styles, symbols and myths have disappeared together with collective works such as cathedrals, monuments and festivals. Modern man (the man who praises modernity) is the man of transition, standing between the death of style and its rebirth. That is why we must contrast style and culture, to show up the latter's fragmentary character, its lack of unity, and why we are justied in formulating a revolutionary plan to recreate a style, resurrect the Festival and gather together culture's scattered fragments for a transguration of everyday life.
 
-### 
+###
 
 This summary of theories formulated in an earlier work is given here for a specic reason. The sequel to the Introduction, the Critique de la vie quotidienne itself, was to have developed and claried these theories and elaborated the assertions; thus the main section of the work would have dealt with the historical evolution of everyday life showing:
 
@@ -783,7 +783,7 @@ The answers to these questions must be postponed, for by referring to the consum
 
 ### LINGUISTIC PHENOMENA
 
-### 
+###
 
 Scholars of contemporary linguistics can be divided into two groups. There are those who consider language as a social experience and examine the morphological, syntactic and lexical characteristics of the languages (or tongues) in current use, including sub-systems and connotational speech (pertaining to sexual and erotic experience, work and working life, city life, without omitting written and literary language) in their inquiry. The other method consists in seeing linguistics not as a specialized but as a general science and, indeed, an exemplary one; and on this basis scholars focus their attention on general problems or information and communication, their inquiry thus constituting a sociological (historico-sociological) and cultural phenomenon. But this leads us to question the signicance of such inquiries, of even if they have any signicance, if the fact of seeking or rejecting a signicance has a signicance.
 
@@ -1175,11 +1175,11 @@ Second theory or hypothesis: the social community's relation to the soil is one 
 - 7 Cf. Le Degré zero de l'écriture, Paris, 1958.
 - René Lalou and the members of the Groupes de Recherche Institutionelle, and might be called *socio-analyses*, for they presuppose interventions into an actual situation, a community's everyday life. The socio-analytical intervention *dissociates* into place and time the bearings of the situation, combined as they are with false evidence; it *associates* experiences that were previously foreign to it, and then proceeds by induction and transduction. Thus anti-Stalinist opposition inside communist parties was, in its time, a remarkable case of socio-analysis, and some of its findings can be observed in later developments (sociological in particular, Marxist in general). The third volume of the *Critique de la vie quotidienne* will develop certain features of this account and will probably be constructed according to the following plan: first, unmediated everyday life, its variations and misapprehensions, then an elucidation of forms.
 
-# 
+#
 
 ### TOWARDS A PERMANENT CULTURAL REVOLUTION
 
-### 
+###
 
 The main points of our analysis can be summed up as follows:
 

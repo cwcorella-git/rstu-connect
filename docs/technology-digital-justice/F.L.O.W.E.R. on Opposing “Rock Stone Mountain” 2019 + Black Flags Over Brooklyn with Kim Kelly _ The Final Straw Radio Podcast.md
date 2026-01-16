@@ -20,7 +20,7 @@ Firstly we're presenting a conversation that William had with an organizer with 
 
 ## 1 of 6 11/11/25, 10:16 PM
 
-This group is @flowerunited on Twitter, and that's a great way to get rapid updates as February 2nd draws nearer. Also a great way to keep updated and read more about the history of this event, plus to see a long list of endorsing groups, you can go to 
+This group is @flowerunited on Twitter, and that's a great way to get rapid updates as February 2nd draws nearer. Also a great way to keep updated and read more about the history of this event, plus to see a long list of endorsing groups, you can go to
 
 ## Audio Player
 

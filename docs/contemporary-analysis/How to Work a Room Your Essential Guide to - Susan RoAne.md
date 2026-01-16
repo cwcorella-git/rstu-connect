@@ -2350,7 +2350,7 @@ Adding a person to your database or ling a card is helpful only if you can retri
 
 - Never leave home without them! As Mom says, "You never know who you'll run into." I keep business cards in the pocket of my running suit!
 
-- 
+-
 
 Do NOT pass out brochures. Brochures are expensive.
 
@@ -2723,7 +2723,7 @@ If you have forgotten a name or two:
 
 - Say so—with humor.
 
-- 
+-
 
 Always state your own name when greeting another person. (They may have forgotten your name as well.)
 
@@ -3311,7 +3311,7 @@ Some of the best stories are those you tell on yourself.
 
 - Don't put people down. "Roasting" can create a slow burn—one that can back re.
 
-- 
+-
 
 Don't use humor that is racist, sexist, or homophobic or
 
@@ -6447,9 +6447,8 @@ handshake, 92–95
 
 American Library Association, initiating conversation,
 
-
 218
-## 
+##
 ## 101–2
 
 ## Apologies, 137–39
@@ -6693,9 +6692,6 @@ interrupters, 115–16
 ## Communication listening and, 136–37
 
 customer service and, 48
-
-newsletters/professional determining preferred method journals/minutes, 130–31
-
 of, 240–41
 
 newspapers, 125–29
@@ -7949,5 +7945,3 @@ Harper Collins Publishers Inc.
 ## 10 East 53rd Street
 
 ## New York, NY 10022
-
-http://www.harpercollinsebooks.com

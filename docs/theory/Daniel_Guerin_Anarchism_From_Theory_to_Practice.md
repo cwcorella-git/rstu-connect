@@ -143,7 +143,7 @@ I*dea* [New York, 1969]). This more radical critique of capnans{ relations of pr
 
 11. For some background, see Walter Kendall, *The Revolutionary Movement in Britain* (London, 1969).
 
-12. For a good discussion, see Michael Kidron, *Western Capitalism* 
+12. For a good discussion, see Michael Kidron, *Western Capitalism*
 
 *Since the War* (London, 1968).
 
@@ -159,7 +159,7 @@ I*dea* [New York, 1969]). This more radical critique of capnans{ relations of pr
 
 ## **Prerace**
 
-*i* 
+*i*
 
 There has recently been a renewal of interest in anarchism. Books, pamphlets, and anthologies are being devoted to it. It is doubtful whether this literary effort is really very effective. It is difficult to trace the outlines of anarchism. Its master thinkers rarely condensed their ideas into systematic works. If, on occasion, they tried to do so, it was only in thin pamphlets designed for propaganda and popularization in which only fragments of their ideas : can be observed. Moreover, there are several kinds of anarchism and many variations within the thought of each of the great libertarians.
 

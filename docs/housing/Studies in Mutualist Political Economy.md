@@ -4045,7 +4045,6 @@ Albemarle Street, 1821), vol. 1 of Piero Sraffa, ed., The Works and Corresponden
 - [\[334\]](#page-112-1) Andrew Ure, Philosophy of Manufactures, in Thompson, Making of the English Working Class 360.
 - [\[335\]](#page-112-2) David Noble, America by Design: Science, Technology, and the Rise of Corporate Capitalism (N. Y.: Alfred A. Knopf, 1977) xi-xii.
 
-
 [336] Hammonds, Town Labourer 72.
  [337] Ibid. 80.
  [338] Ibid. 91–2.
@@ -4105,7 +4104,7 @@ Doubleday, Page & Co., 1909) 297–8.
 1980) 31.
  [382] Dobb, Studies in the Development of Capitalism 235–6.
  [383] Wallerstein, Historical Capitalism 105–6.
-## 
+##
 [\[384\]](#page-122-4) Wallerstein, The Modern World System, Part I 62, 286.
 
 ## 290 of 301 10/4/25, 1:12 PM
@@ -4158,7 +4157,6 @@ Doubleday, Page & Co., 1909) 297–8.
 - [\[428\]](#page-137-0) Edward Heimann, "Franz Oppenheimer's Economic Ideas," Social Research (New York)
 
 1983) 27.
-
 
 (February 1944) 28.
  [429] Rothbard, Power and Market 132–3.
@@ -4219,7 +4217,7 @@ Press, 1975) 81.
 194.
  [471] Alexander Cairncross, "Economic Schizophrenia," Scottish Journal of Political Economy
 (February 1950), qt. in Michael Perelman, Classical Political Economy: Primitive Accumulation
-## 
+##
 ## 292 of 301 10/4/25, 1:12 PM
 
 and the Social Division of Labor (Totowa, N. J.: Rowman & Allanheld; London: F. Pinter, 1984, c

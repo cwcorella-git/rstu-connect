@@ -13,9 +13,6 @@ tags:
 ## **Date:** Unknown
 
 ## **Source:**
-
-https://libcom.org/article/socioeconomic-protests-ukraine-and-anti-police-revolt-occupied-crimea
-
 **Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, Crimea, police, wildcat strikes, strikes,
 
 ## Ukraine

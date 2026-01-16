@@ -9,7 +9,7 @@ tags:
 - Nevada
 ---
 # Local government perspectives of federal land management in Nevada - ScienceDirect
-Local government perspectives of federal land manage...              https://www.sciencedirect.com/science/article/abs/pii/S...
+
 Land Use Policy
 Volume , Issue , July , Pages -
 Local government perspectives of federal
@@ -17,7 +17,7 @@ land management in Nevada
 Christopher A Simon           , John Dobra
 Show more
 Share        Cite
-https://doi.org/./S-()-
+
 Get rights and content
 Abstract
 The impact of federal land ownership and management is a particularly contentious
@@ -35,7 +35,7 @@ cost to local businesses and individual taxpayers. An analysis of Payments in Li
 indicates that with limited--yet notable--exceptions, the federal government pays a
 larger sum to counties than would be collected if the federal lands were privatized.
 ---
-Local government perspectives of federal land manage...        https://www.sciencedirect.com/science/article/abs/pii/S...
+
 Introduction
 The impact of federal land management has been a longstanding source of concern for
 local governments and economies in the West. Such concerns have once again become a
@@ -63,7 +63,7 @@ state governments. It is a relationship which is forever changing,3 yet remains 
 element shaping public policy. The rise of Progressive politics and the growing
 importance of social welfare and equality-related issues at ...
 ---
-Local government perspectives of federal land manage...    https://www.sciencedirect.com/science/article/abs/pii/S...
+
 Public lands and politics
 Our study of federalism's impact on Nevada local governments15 is an attempt to better
 understand the federal-local relationships in light of an apparently significant change in
@@ -91,7 +91,7 @@ Endnote
 We used the Herfindahl--Hirshman Index (Hirschman, 1964, p. 761) as a measure of
 market share in analyzing the relative "thin" quality of county economies in Nevada.23
 ---
-Local government perspectives of federal land manage...      https://www.sciencedirect.com/science/article/abs/pii/S...
+
 The H Index provides us with a measure of market concentration [0, 10,000]. The market
 concentration guidelines used by US Department Justice (USDOJ) offer assistance in
 interpreting the statistic. In anti-trust cases, the USDOJ (2002) employs the following H
@@ -119,7 +119,7 @@ CO, p....
 S. Davis
 Fighting over public landsinterest groups, states, and the federal government
 ---
-Local government perspectives of federal land manage...           https://www.sciencedirect.com/science/article/abs/pii/S...
+
 M. Derthick
 American federalismhalf full or half empty?
 The Brookings Review ()
@@ -150,13 +150,13 @@ environmental policies of the 1970s that relied upon arrangements of cooperative
 (Babcock, 1996; Fairfax and Cawley, 1991)....
 Show abstract
 ---
-Local government perspectives of federal land manage...                                        https://www.sciencedirect.com/science/article/abs/pii/S...
+
 Federal agency involvement in western renewable energy resource decisions:
 Assessing the views of colorado county commissioners
 , Environmental Practice
 Public perceptions of land management in the Great Basin
 , USDA Forest Service General Technical Report RMRS Gtr
-http://www.unr.nevada.edu/∼casimon/casimon.html
+
 View full text
 Copyright ©  Elsevier Ltd. All rights reserved.
 All content on this site: Copyright ©  Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI

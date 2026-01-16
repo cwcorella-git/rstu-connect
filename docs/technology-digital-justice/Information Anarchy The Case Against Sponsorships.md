@@ -373,7 +373,7 @@ year because I love it. do you love it? do you have literally two USD? it's okay
 you do, slide some bread their way!!! |
 | ■ |
 | full article here:
-https://www.indigenousaction.org/unknowable-against-an-indigenous-anarchist-theory-zine/|
+
 | ■ |
 | full article here: https://www.thenation.com/article/activism/anarchism-navajo-aid/|
 | ■ |

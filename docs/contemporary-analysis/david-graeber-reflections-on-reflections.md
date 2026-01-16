@@ -41,7 +41,6 @@ Now I’m not necessarily putting this particular argument forward for anthropol
 
 **References:**
 
-
 Roy Bhaskar. 2009. Scientific realism and human emancipation. London: Routledge.
 
 Randall Collins. 2002. The sociology of philosophies: A global theory of intellectual change. Cambridge, MA: Belknap.
