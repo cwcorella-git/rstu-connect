@@ -24,6 +24,14 @@ export type ExternalResourceCategory =
   | 'mutual_aid'
   | 'faith'
   | 'pet_services'
+  | 'crisis_mental_health'
+  | 'senior_services'
+  | 'employment_training'
+  | 'childcare'
+  | 'transportation'
+  | 'disability_services'
+  | 'lgbtq_services'
+  | 'reentry_services'
   | 'other'
 
 export const EXTERNAL_CATEGORY_LABELS: Record<ExternalResourceCategory, string> = {
@@ -38,6 +46,14 @@ export const EXTERNAL_CATEGORY_LABELS: Record<ExternalResourceCategory, string> 
   mutual_aid: 'Mutual Aid',
   faith: 'Faith-Based Services',
   pet_services: 'Pet Services',
+  crisis_mental_health: 'Crisis & Mental Health',
+  senior_services: 'Senior Services',
+  employment_training: 'Employment & Job Training',
+  childcare: 'Childcare',
+  transportation: 'Transportation',
+  disability_services: 'Disability Services',
+  lgbtq_services: 'LGBTQ+ Services',
+  reentry_services: 'Reentry Services',
   other: 'Other',
 }
 

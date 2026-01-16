@@ -1,8 +1,8 @@
 {
-  "commit": "4e24453e",
-  "message": "Add 28 community organizations across 8 new service categories",
+  "commit": "c8c6dd65",
+  "message": "Clean 652 documents with improved artifact removal",
   "author": "cwcorella-git",
-  "date": "2026-01-16 03:01:19 -0800",
+  "date": "2026-01-16 04:23:21 -0800",
   "branch": "main",
-  "buildTime": "2026-01-16T11:05:25.198Z"
+  "buildTime": "2026-01-16T12:24:33.086Z"
 }

@@ -15,6 +15,7 @@ import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertie
 import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage'
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 // Compressed property format from all-properties.json
 interface CompressedProperty {
@@ -80,6 +81,7 @@ interface ToolsPageProps {
 }
 
 export function ToolsPage({ buildings }: ToolsPageProps) {
+  const { t } = useLanguage()
   const [selectedBuilding, setSelectedBuilding] = useState<EnhancedBuilding | null>(null)
   const [selectedUnit, setSelectedUnit] = useState<UnitRecord | null>(null)
   const [toolsMobileView, setToolsMobileView] = useState<'buildings' | 'units'>('buildings')
@@ -359,7 +361,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             : 'text-gray-600 hover:text-gray-900'
         }`}
       >
-        Canvassing
+        {t('tools.canvassing')}
       </button>
       <button
         onClick={() => setActiveToolsTab('powermap')}
@@ -369,7 +371,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             : 'text-gray-600 hover:text-gray-900'
         }`}
       >
-        Power Map
+        {t('tools.powerMap')}
       </button>
       <button
         onClick={() => setActiveToolsTab('tasks')}
@@ -379,7 +381,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             : 'text-gray-600 hover:text-gray-900'
         }`}
       >
-        Tasks
+        {t('tools.tasks')}
       </button>
     </div>
   )
@@ -391,17 +393,17 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         {/* Left: Building Selector - hidden on mobile when building is selected or on tasks tab */}
         <div className={`${toolsMobileView === 'buildings' && activeToolsTab !== 'tasks' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 min-h-0 h-full overflow-hidden border-r border-gray-200 bg-white`}>
           <div className="p-4 border-b border-gray-200 flex-shrink-0">
-            <h2 className="text-lg font-bold text-gray-900 mb-2">Organizer Tools</h2>
+            <h2 className="text-lg font-bold text-gray-900 mb-2">{t('tools.organizerTools')}</h2>
 
             {/* Tabs */}
             <TabSwitcher />
 
             <p className="text-sm text-gray-500 mt-3">
               {activeToolsTab === 'canvassing'
-                ? 'Select a property to track tenant outreach'
+                ? t('tools.selectPropertyToTrack')
                 : activeToolsTab === 'powermap'
-                ? 'View landlord portfolios and organizing activity'
-                : 'Manage and track organizing tasks'
+                ? t('tools.viewLandlordPortfolios')
+                : t('tools.manageTrackTasks')
               }
             </p>
 
@@ -413,7 +415,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                     type="text"
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
-                    placeholder="Search all properties by address, owner, or APN..."
+                    placeholder={t('tools.searchPropertiesPlaceholder')}
                     className="w-full px-3 py-2 pl-9 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
                   />
                   <svg
@@ -437,17 +439,17 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 </div>
                 <p className="text-xs text-gray-500 mt-2">
                   {isSearching ? (
-                    <span className="text-gray-400">Searching...</span>
+                    <span className="text-gray-400">{t('tools.searching')}</span>
                   ) : inputValue.trim() ? (
                     <>
-                      {filteredBuildings.length} result{filteredBuildings.length !== 1 ? 's' : ''}
-                      {filteredBuildings.length >= 50 && <span className="text-gray-400"> (showing first 50)</span>}
+                      {filteredBuildings.length} {filteredBuildings.length !== 1 ? t('tools.results') : t('tools.result')}
+                      {filteredBuildings.length >= 50 && <span className="text-gray-400"> {t('tools.showingFirst50')}</span>}
                     </>
                   ) : (
                     <>
-                      {filteredBuildings.length} properties
+                      {filteredBuildings.length} {t('tools.properties')}
                       {buildingsWithData.size > 0 && (
-                        <span className="text-green-600"> ({buildingsWithData.size} with data)</span>
+                        <span className="text-green-600"> ({buildingsWithData.size} {t('tools.withData')})</span>
                       )}
                     </>
                   )}
@@ -461,13 +463,13 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
             <div className="flex-1 overflow-y-auto">
               {isSearching ? (
                 <div className="p-4 text-center text-gray-500 text-sm">
-                  <div className="animate-pulse">Searching properties...</div>
+                  <div className="animate-pulse">{t('tools.searchingProperties')}</div>
                 </div>
               ) : filteredBuildings.length === 0 ? (
                 <div className="p-4 text-center text-gray-500 text-sm">
                   {inputValue.trim()
-                    ? `No properties match "${inputValue}"`
-                    : 'No properties available.'
+                    ? t('tools.noPropertiesMatch', { query: inputValue })
+                    : t('tools.noPropertiesAvailable')
                   }
                 </div>
               ) : (
@@ -498,32 +500,32 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                           {hasData && (
                             <span
                               className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-700"
-                              title="Has canvassing data"
+                              title={t('tools.hasCanvassingData')}
                             >
-                              Data
+                              {t('tools.dataBadge')}
                             </span>
                           )}
                           {linkedGroup && (
                             <span
                               className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-orange-100 text-orange-700"
-                              title={`Linked: ${linkedGroup.name}`}
+                              title={t('tools.linkedTo', { name: linkedGroup.name })}
                             >
-                              Linked
+                              {t('tools.linkedBadge')}
                             </span>
                           )}
                           {stats.hasNotes && (
                             <span
                               className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-yellow-100 text-yellow-700"
-                              title="Has notes"
+                              title={t('tools.hasNotes')}
                             >
-                              Notes
+                              {t('tools.notesBadge')}
                             </span>
                           )}
                           {/* Star/Favorite button */}
                           <button
                             onClick={(e) => handleToggleFavorite(e, building.apn)}
                             className="p-1 hover:bg-gray-100 rounded transition-colors"
-                            title={isFav ? 'Remove from favorites' : 'Add to favorites'}
+                            title={isFav ? t('tools.removeFromFavorites') : t('tools.addToFavorites')}
                           >
                             <svg
                               className={`w-4 h-4 ${isFav ? 'text-yellow-500 fill-yellow-500' : 'text-gray-300'}`}
@@ -554,7 +556,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                             />
                           </div>
                           <span className="text-xs text-gray-400">
-                            {stats.contacted}/{totalUnits} contacted
+                            {stats.contacted}/{totalUnits} {t('tools.contacted')}
                           </span>
                         </div>
                         {/* Demands row */}
@@ -564,7 +566,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                             </svg>
                             <span className="text-xs text-green-600 font-medium">
-                              {stats.demands} approved demand{stats.demands !== 1 ? 's' : ''}
+                              {stats.demands} {stats.demands !== 1 ? t('tools.approvedDemands') : t('tools.approvedDemand')}
                             </span>
                           </div>
                         )}
@@ -588,9 +590,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 <svg className="w-12 h-12 mx-auto mb-3 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
                 </svg>
-                <p className="text-sm">View the task board</p>
+                <p className="text-sm">{t('tools.viewTaskBoard')}</p>
                 <p className="text-xs text-gray-400 mt-1">
-                  Drag tasks between columns to update status
+                  {t('tools.dragTasksInstructions')}
                 </p>
               </div>
             </div>
@@ -620,7 +622,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                   <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                   </svg>
-                  <p>Select a property to start canvassing</p>
+                  <p>{t('tools.selectPropertyToCanvass')}</p>
                 </div>
               </div>
             )
@@ -637,7 +639,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
                     </svg>
-                    <span className="text-sm">Back to landlords</span>
+                    <span className="text-sm">{t('tools.backToLandlords')}</span>
                   </button>
                 )}
                 <LandlordDetail
@@ -651,9 +653,9 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                   <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
                   </svg>
-                  <p className="text-sm">Select a landlord to view their portfolio</p>
+                  <p className="text-sm">{t('tools.selectLandlordToView')}</p>
                   <p className="text-xs text-gray-400 mt-2">
-                    See complaint patterns and organizing activity across their properties
+                    {t('tools.seeComplaintPatterns')}
                   </p>
                 </div>
               </div>
