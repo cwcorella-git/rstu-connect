@@ -86,8 +86,28 @@ export function useOrganizingProgress(
         }
       }
 
+      // Fallback: count registered profiles who may have failed canvass sync
+      // If a member has a unit that's still in notContactedUnits, they weren't synced
+      const notContactedSet = new Set(canvassProgress.notContactedUnits)
+      let extraActive = 0
+      let extraInterested = 0
+
+      for (const member of registeredMembers) {
+        if (member.unitNumber && notContactedSet.has(member.unitNumber)) {
+          // This member has a unit that should be counted but wasn't synced
+          if (member.isVerified) {
+            extraActive++
+          } else {
+            extraInterested++
+          }
+        }
+      }
+
       setProgress({
         ...canvassProgress,
+        activeMembers: canvassProgress.activeMembers + extraActive,
+        interested: canvassProgress.interested + extraInterested,
+        contacted: canvassProgress.contacted + extraActive + extraInterested,
         registeredMembers,
         canSeeUnitDetails,
       })
