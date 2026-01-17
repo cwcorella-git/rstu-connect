@@ -4,6 +4,7 @@ import React, { useMemo, useState } from 'react'
 import type { LandlordProfile, LandlordProperty } from '@/lib/landlordProfileStorage'
 import { getBuildingOrganizing, getStatusInfo, type OrganizingStatus } from '@/lib/buildingOrganizingStorage'
 import { getHabitabilityScore } from '@/lib/canvassStorage'
+import { CampaignCreationModal } from './CampaignCreationModal'
 
 interface PressurePoint {
   property: LandlordProperty
@@ -26,6 +27,11 @@ export function PressurePointsMap({
 }) {
   const [sortBy, setSortBy] = useState<SortBy>('heat')
   const [habitabilityFilter, setHabitabilityFilter] = useState<HabitabilityFilter>('all')
+
+  // Campaign modal state
+  const [campaignModalOpen, setCampaignModalOpen] = useState(false)
+  const [campaignType, setCampaignType] = useState<'habitability' | 'strike'>('habitability')
+  const [campaignProperties, setCampaignProperties] = useState<LandlordProperty[]>([])
 
   // Calculate pressure points
   const pressurePoints = useMemo(() => {
@@ -140,22 +146,15 @@ export function PressurePointsMap({
 
   // Handlers for campaign creation
   const handleCreateCampaign = () => {
-    if (window.confirm(
-      `Create a coordinated campaign for ${campaignOpportunities.affectedProperties.length} buildings ` +
-      `(${campaignOpportunities.totalUnits} units) with poor habitability? ` +
-      `This will create a multi-property organizing campaign.`
-    )) {
-      // TODO: Open CampaignCreationModal with campaignOpportunities.affectedProperties
-    }
+    setCampaignType('habitability')
+    setCampaignProperties(campaignOpportunities.affectedProperties.map(p => p.property))
+    setCampaignModalOpen(true)
   }
 
   const handleCoordinatedStrike = () => {
-    if (window.confirm(
-      `Plan a coordinated strike across ${strikeReadiness.readyProperties.length} buildings ` +
-      `(${strikeReadiness.totalUnits} units) that are strike-ready?`
-    )) {
-      // TODO: Open CampaignCreationModal with 'strike' type using strikeReadiness.readyProperties
-    }
+    setCampaignType('strike')
+    setCampaignProperties(strikeReadiness.readyProperties.map(p => p.property))
+    setCampaignModalOpen(true)
   }
 
   return (
@@ -370,6 +369,15 @@ export function PressurePointsMap({
           })}
         </div>
       </div>
+
+      {/* Campaign Creation Modal */}
+      <CampaignCreationModal
+        isOpen={campaignModalOpen}
+        onClose={() => setCampaignModalOpen(false)}
+        landlordName={landlord.ownerName}
+        preselectedProperties={campaignProperties}
+        campaignType={campaignType}
+      />
     </div>
   )
 }
