@@ -5,6 +5,7 @@ export interface OnboardingFormData {
   nickname: string;
   email: string;
   buildingId?: string;
+  buildingAddress?: string;
   unitNumber?: string;
   rentAmount?: number;
   occupants?: number;

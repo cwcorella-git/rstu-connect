@@ -145,6 +145,7 @@ export function ProfileOnboardingWizard({
           nickname: formData.nickname,
           email: formData.email,
           buildingId: formData.buildingId,
+          buildingAddress: formData.buildingAddress,
           unitNumber: formData.unitNumber,
           inviteCode: formData.inviteCode,
         }),

@@ -56,10 +56,16 @@ export function ProfileEditModal({ isOpen, onClose, buildings, onSave }: Profile
     try {
       setIsLoading(true)
 
+      // Get building address for the selected building
+      const building = selectedBuildingId
+        ? buildings.find(b => b.chatSlug === selectedBuildingId)
+        : null
+
       const updatedProfile: UserProfile = {
         ...profile,
         nickname: nickname.trim(),
         buildingId: selectedBuildingId || undefined,
+        buildingAddress: building?.address || undefined,
         unitNumber: unitNumber.trim() || undefined,
       }
 

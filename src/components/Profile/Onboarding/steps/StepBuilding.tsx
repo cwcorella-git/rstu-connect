@@ -172,6 +172,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
     onFormDataChange({
       ...formData,
       buildingId: building.chatSlug,
+      buildingAddress: building.address,
     });
   };
 
@@ -183,6 +184,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
     onFormDataChange({
       ...formData,
       buildingId: undefined,
+      buildingAddress: undefined,
       unitNumber: undefined,
     });
   };
