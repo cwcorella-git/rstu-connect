@@ -1,11 +1,13 @@
 'use client'
 
-import { useState, useRef, MouseEvent, createElement, ReactNode } from 'react'
+import { useState, useRef, useCallback, MouseEvent, TouchEvent, createElement, ReactNode } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { InlineEditor } from './InlineEditor'
 
 type ElementType = 'span' | 'p' | 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'div' | 'li'
+
+const LONG_PRESS_DURATION = 500 // ms
 
 interface EditableTextProps {
   tKey: string
@@ -22,7 +24,7 @@ interface EditableTextProps {
  *   <EditableText tKey="landing.hero.title" as="h1" className="text-4xl font-bold" />
  *
  * In normal mode: Renders the translated text as the specified element
- * In edit mode: Shows hover highlight, Ctrl+click opens inline editor
+ * In edit mode: Shows hover highlight, Ctrl+click or long-press (500ms) opens inline editor
  */
 export function EditableText({
   tKey,
@@ -36,18 +38,14 @@ export function EditableText({
   const [showEditor, setShowEditor] = useState(false)
   const [editorPosition, setEditorPosition] = useState({ top: 0, left: 0 })
   const elementRef = useRef<HTMLElement>(null)
+  const longPressTimerRef = useRef<NodeJS.Timeout | null>(null)
+  const touchStartPosRef = useRef<{ x: number; y: number } | null>(null)
 
   const translatedText = t(tKey)
   const isBeingEdited = editingKey === tKey
 
-  const handleClick = (e: MouseEvent) => {
-    // Only respond to Ctrl+click in edit mode
-    if (!isEditMode || !e.ctrlKey) return
-
-    e.preventDefault()
-    e.stopPropagation()
-
-    // Get position for the editor
+  // Open the editor at element position
+  const openEditor = useCallback(() => {
     const rect = elementRef.current?.getBoundingClientRect()
     if (rect) {
       setEditorPosition({
@@ -55,10 +53,60 @@ export function EditableText({
         left: rect.left + window.scrollX,
       })
     }
-
     setEditingKey(tKey)
     setShowEditor(true)
+  }, [tKey, setEditingKey])
+
+  // Clear long press timer
+  const clearLongPress = useCallback(() => {
+    if (longPressTimerRef.current) {
+      clearTimeout(longPressTimerRef.current)
+      longPressTimerRef.current = null
+    }
+    touchStartPosRef.current = null
+  }, [])
+
+  const handleClick = (e: MouseEvent) => {
+    // Only respond to Ctrl+click in edit mode
+    if (!isEditMode || !e.ctrlKey) return
+
+    e.preventDefault()
+    e.stopPropagation()
+    openEditor()
   }
+
+  // Touch handlers for long-press support
+  const handleTouchStart = useCallback((e: TouchEvent) => {
+    if (!isEditMode) return
+
+    const touch = e.touches[0]
+    touchStartPosRef.current = { x: touch.clientX, y: touch.clientY }
+
+    longPressTimerRef.current = setTimeout(() => {
+      // Vibrate if available (haptic feedback)
+      if ('vibrate' in navigator) {
+        navigator.vibrate(50)
+      }
+      openEditor()
+    }, LONG_PRESS_DURATION)
+  }, [isEditMode, openEditor])
+
+  const handleTouchMove = useCallback((e: TouchEvent) => {
+    if (!touchStartPosRef.current) return
+
+    // Cancel if user moves finger more than 10px (scrolling)
+    const touch = e.touches[0]
+    const dx = Math.abs(touch.clientX - touchStartPosRef.current.x)
+    const dy = Math.abs(touch.clientY - touchStartPosRef.current.y)
+
+    if (dx > 10 || dy > 10) {
+      clearLongPress()
+    }
+  }, [clearLongPress])
+
+  const handleTouchEnd = useCallback(() => {
+    clearLongPress()
+  }, [clearLongPress])
 
   const handleCloseEditor = () => {
     setShowEditor(false)
@@ -81,7 +129,11 @@ export function EditableText({
       ref: elementRef,
       className: combinedClassName,
       onClick: handleClick,
-      title: isEditMode ? `Ctrl+Click to edit: ${tKey}` : undefined,
+      onTouchStart: handleTouchStart,
+      onTouchMove: handleTouchMove,
+      onTouchEnd: handleTouchEnd,
+      onTouchCancel: handleTouchEnd,
+      title: isEditMode ? `Ctrl+Click or long-press to edit: ${tKey}` : undefined,
     },
     children || translatedText
   )

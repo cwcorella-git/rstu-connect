@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from 'react'
 import { toggleFavorite, getReadingState } from '@/lib/readingStorage'
+import { isAdmin } from '@/lib/profileStorage'
+import { useEditMode } from '@/contexts/EditModeContext'
 import type { ReadingDocument } from '@/lib/getReadingData'
 
 // Color palette for tags - consistent colors based on tag content
@@ -57,6 +59,8 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
   const [isFavorited, setIsFavorited] = useState(false)
   const [showCopied, setShowCopied] = useState(false)
   const [isTagsHovered, setIsTagsHovered] = useState(false)
+  const { isEditMode, toggleEditMode } = useEditMode()
+  const userIsAdmin = isAdmin()
 
   useEffect(() => {
     const state = getReadingState()
@@ -172,9 +176,27 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
         </div>
 
         <div className="flex items-center gap-3 flex-shrink-0 ml-2">
+          {/* Edit Mode Toggle - Admin only */}
+          {userIsAdmin && (
+            <button
+              onClick={toggleEditMode}
+              className={`flex items-center gap-1 transition min-w-[44px] min-h-[44px] justify-center ${
+                isEditMode
+                  ? 'text-blue-600 hover:text-blue-700'
+                  : 'text-gray-500 hover:text-gray-700'
+              }`}
+              title={isEditMode ? 'Exit Edit Mode (Ctrl+Shift+E)' : 'Enter Edit Mode (Ctrl+Shift+E)'}
+              aria-label={isEditMode ? 'Exit edit mode' : 'Enter edit mode'}
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+              </svg>
+            </button>
+          )}
+
           <button
             onClick={handleToggleFavorite}
-            className={`flex items-center gap-1 transition ${
+            className={`flex items-center gap-1 transition min-w-[44px] min-h-[44px] justify-center ${
               isFavorited
                 ? 'text-yellow-500 hover:text-yellow-600'
                 : 'text-gray-500 hover:text-gray-700'
@@ -186,7 +208,7 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
 
           <button
             onClick={handleShare}
-            className="flex items-center gap-1 text-gray-500 hover:text-gray-700 transition"
+            className="flex items-center gap-1 text-gray-500 hover:text-gray-700 transition min-w-[44px] min-h-[44px] justify-center"
             title="Copy link to document"
           >
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
