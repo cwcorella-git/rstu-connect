@@ -1,5 +1,6 @@
 ---
 title: "Industrial unionism in America - Marion Dutton Savage"
+date: 1920
 category: "contemporary-analysis"
 tags:
   - united-states

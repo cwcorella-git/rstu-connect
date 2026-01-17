@@ -1,5 +1,6 @@
 ---
 title: "Episode 37: Reverse Engineering Enlightenment Part 2/"
+date: 1983
 category: "arts-culture-music"
 tags:
   - arts

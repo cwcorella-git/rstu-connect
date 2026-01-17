@@ -189,23 +189,28 @@ export function ProfileOnboardingWizard({
     }
   }, [currentStep, profileCreated, onCancel]);
 
+  // Memoized callbacks to prevent infinite re-render loops
+  const handleEmailValidation = useCallback((result: { available: boolean; error?: string }) => {
+    setEmailValidation({
+      available: result.available,
+      error: result.error,
+    });
+  }, []);
+
+  const handleInviteValidation = useCallback((result: { valid: boolean; error?: string }) => {
+    setInviteValidation({
+      valid: result.valid,
+      error: result.error,
+    });
+  }, []);
+
   // Render current step
   const renderCurrentStep = () => {
     const stepProps = {
       formData,
       onFormDataChange: setFormData,
-      onEmailValidation: (result: { available: boolean; error?: string }) => {
-        setEmailValidation({
-          available: result.available,
-          error: result.error,
-        });
-      },
-      onInviteValidation: (result: { valid: boolean; error?: string }) => {
-        setInviteValidation({
-          valid: result.valid,
-          error: result.error,
-        });
-      },
+      onEmailValidation: handleEmailValidation,
+      onInviteValidation: handleInviteValidation,
     };
 
     switch (currentStep) {

@@ -1,5 +1,6 @@
 ---
 title: "E Books"
+author: "Mario I. Blejer"
 date: 1975
 category: economic-alternatives
 tags:

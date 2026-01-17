@@ -1,5 +1,6 @@
 ---
 title: "Chandra"
+date: 1868
 category: "contemporary-analysis"
 tags:
   - analysis

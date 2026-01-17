@@ -1,5 +1,6 @@
 ---
 title: "FRAGILITY"
+date: 1949
 category: "contemporary-analysis"
 tags:
   - analysis

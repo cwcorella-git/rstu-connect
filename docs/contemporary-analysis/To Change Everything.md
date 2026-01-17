@@ -1,5 +1,6 @@
 ---
 title: "Crimeth Inc."
+date: 2016
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: Women's Cafe
+date: 1980
 category: feminist-theory
 tags:
   - women

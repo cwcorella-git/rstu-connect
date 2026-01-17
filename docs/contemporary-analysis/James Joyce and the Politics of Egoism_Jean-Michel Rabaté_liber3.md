@@ -1,5 +1,6 @@
 ---
 title: "JAMES JOYCE AND THE POLITICS OF EGOISM"
+author: "Carola M. Kaplan"
 date: 1997
 category: "contemporary-analysis"
 tags:

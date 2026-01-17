@@ -1,5 +1,6 @@
 ---
 title: "VINTAGE e Books"
+author: "John P. Davis"
 date: 1992
 category: "contemporary-analysis"
 tags:

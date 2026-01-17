@@ -1,5 +1,6 @@
 ---
 title: "\"Man, it is hot today.\""
+date: 1973
 category: "contemporary-analysis"
 tags:
   - analysis

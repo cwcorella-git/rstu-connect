@@ -1,5 +1,6 @@
 ---
 title: The Weakness of a Politics of Protest
+author: "Kevin Danaher"
 date: 2000
 category: contemporary-analysis
 tags:

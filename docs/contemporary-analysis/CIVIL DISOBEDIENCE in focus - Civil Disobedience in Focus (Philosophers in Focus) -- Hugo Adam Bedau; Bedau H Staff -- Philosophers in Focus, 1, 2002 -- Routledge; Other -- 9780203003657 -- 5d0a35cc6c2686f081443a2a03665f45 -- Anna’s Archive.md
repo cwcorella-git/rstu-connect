@@ -1,5 +1,6 @@
 ---
 title: Civil Disobedience Focus
+author: "Jane M. Day"
 date: 1991
 category: contemporary-analysis
 tags:

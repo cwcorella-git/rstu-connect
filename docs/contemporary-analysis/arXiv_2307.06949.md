@@ -1,5 +1,6 @@
 ---
 title: "Hyper Dream Booth: Hyper Networks for Fast Personalization of Text-to-Image Models"
+date: 2022
 category: "contemporary-analysis"
 tags:
   - analysis

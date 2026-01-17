@@ -1,5 +1,6 @@
 ---
 title: HORTICULTURE
+author:
 date: 2005
 category: arts-culture-music
 tags:

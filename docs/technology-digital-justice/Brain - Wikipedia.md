@@ -1,6 +1,7 @@
 ---
 title: Brain
 author: "Wikipedia contributors"
+date: 1970
 category: technology-digital-justice
 tags:
   - technology

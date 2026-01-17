@@ -1,5 +1,6 @@
 ---
 title: "I grew up hearing about the Illuminati everywhere, from DVD sermons to internet memes."
+date: 2000
 category: "contemporary-analysis"
 tags:
   - analysis

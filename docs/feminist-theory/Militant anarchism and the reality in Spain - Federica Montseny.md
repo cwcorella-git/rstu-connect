@@ -1,5 +1,6 @@
 ---
 title: Militant anarchism and the reality in Spain - Federica Montseny
+author: "Federica Montseny"
 date: 1937
 category: feminist-theory
 tags:

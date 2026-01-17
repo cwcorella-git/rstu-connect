@@ -1,5 +1,6 @@
 ---
 title: "Pushing: On the U in AEIOU"
+date: 1960
 category: "contemporary-analysis"
 tags:
   - workplace-activity
