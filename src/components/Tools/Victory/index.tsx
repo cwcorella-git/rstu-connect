@@ -1,6 +1,0 @@
-export { VictoryCard } from './VictoryCard'
-export { VictoryLibrary } from './VictoryLibrary'
-export { VictoryDetail } from './VictoryDetail'
-export { VictoryForm } from './VictoryForm'
-export { VictoryTimeline } from './VictoryTimeline'
-export { VictoryAnnouncement } from './VictoryAnnouncement'

@@ -1,5 +1,6 @@
 ---
 title: DEFUND THE POLICE
+author: "Chris Cunneen"
 date: 2023
 category: international-solidarity
 tags:

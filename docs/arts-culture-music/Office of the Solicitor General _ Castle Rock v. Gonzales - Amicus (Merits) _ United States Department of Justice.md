@@ -1,5 +1,6 @@
 ---
 title: "Castle Rock v. Gonzales - Amicus (Merits)"
+author: "Paul D. Clement"
 date: 1976
 category: "arts-culture-music"
 tags:

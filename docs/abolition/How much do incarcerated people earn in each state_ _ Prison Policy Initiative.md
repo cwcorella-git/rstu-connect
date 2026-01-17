@@ -1,5 +1,6 @@
 ---
 title: How much do incarcerated people earn in each state?
+author: "Wendy Sawyer"
 date: 2017
 category: contemporary-analysis
 tags:

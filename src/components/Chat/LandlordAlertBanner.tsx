@@ -28,14 +28,6 @@ const eventStyles: Record<LandlordAlertEventType, {
   iconBg: string
   icon: string
 }> = {
-  victory: {
-    bg: 'bg-green-50',
-    border: 'border-green-500',
-    text: 'text-green-900',
-    textSecondary: 'text-green-700',
-    iconBg: 'bg-green-100',
-    icon: 'text-green-600',
-  },
   demand_escalated: {
     bg: 'bg-orange-50',
     border: 'border-orange-500',
@@ -59,13 +51,6 @@ const eventStyles: Record<LandlordAlertEventType, {
 // Icons per event type
 function EventIcon({ eventType, className }: { eventType: LandlordAlertEventType; className?: string }) {
   switch (eventType) {
-    case 'victory':
-      // Trophy icon
-      return (
-        <svg className={className} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
-        </svg>
-      )
     case 'demand_escalated':
       // Megaphone icon
       return (
@@ -133,7 +118,6 @@ export function LandlordAlertBanner({
   // Get event label based on type
   const getEventLabel = (eventType: LandlordAlertEventType): string => {
     switch (eventType) {
-      case 'victory': return t('alerts.victory')
       case 'demand_escalated': return t('alerts.demand')
       case 'strike_started': return t('alerts.strike')
       default: return eventType
@@ -222,9 +206,7 @@ export function LandlordAlertBanner({
                   className={`px-3 py-1 text-xs font-medium rounded transition ${
                     primaryAlert.eventType === 'strike_started'
                       ? 'bg-red-600 text-white hover:bg-red-700'
-                      : primaryAlert.eventType === 'victory'
-                        ? 'bg-green-600 text-white hover:bg-green-700'
-                        : 'bg-orange-600 text-white hover:bg-orange-700'
+                      : 'bg-orange-600 text-white hover:bg-orange-700'
                   }`}
                 >
                   {t('alerts.viewBuilding')}

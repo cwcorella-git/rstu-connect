@@ -1,5 +1,6 @@
 ---
 title: Nonviolent Movements and Material Resources in Northwest Mexico
+author: "Chris Allan and A. Scott Du Pree"
 date: 2021
 category: anti-war-peace
 tags:

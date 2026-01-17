@@ -3,11 +3,9 @@
 import { useState, useEffect, useCallback } from 'react'
 import type { Campaign, CampaignStage, CampaignOutcome } from '@/lib/campaignStorage'
 import { Task, getTasksByCampaign, deleteTask } from '@/lib/taskStorage'
-import type { Victory } from '@/lib/victoryStorage'
 import { TaskCard } from '@/components/Tasks/TaskCard'
 import { TaskDetail } from '@/components/Tasks/TaskDetail'
 import { TaskForm } from '@/components/Tasks/TaskForm'
-import { VictoryForm } from '@/components/Tools/Victory/VictoryForm'
 import {
   updateCampaign,
   deleteCampaign,
@@ -53,7 +51,6 @@ export function CampaignDetail({
   const [editingNextAction, setEditingNextAction] = useState(false)
   const [nextActionText, setNextActionText] = useState(campaign.nextAction || '')
   const [nextActionDate, setNextActionDate] = useState(campaign.nextActionDate || '')
-  const [showVictoryForm, setShowVictoryForm] = useState(false)
 
   // Tasks state
   const [tasks, setTasks] = useState<Task[]>([])
@@ -112,19 +109,6 @@ export function CampaignDetail({
     deleteCampaign(campaign.id)
     onDelete()
   }
-
-  const handleVictorySaved = (victory: Victory) => {
-    // Link the victory to this campaign
-    updateCampaign(campaign.id, { victoryId: victory.id })
-    setShowVictoryForm(false)
-    onUpdate()
-  }
-
-  // Check if we should show "Document Victory" button
-  const canDocumentVictory =
-    campaign.stage === 'resolved' &&
-    (campaign.outcome === 'won' || campaign.outcome === 'partial') &&
-    !campaign.victoryId
 
   return (
     <div className="flex flex-col h-full overflow-hidden">
@@ -222,26 +206,6 @@ export function CampaignDetail({
                 </button>
               ))}
             </div>
-            {/* Document Victory button */}
-            {canDocumentVictory && (
-              <button
-                onClick={() => setShowVictoryForm(true)}
-                className="mt-3 w-full py-2 px-4 bg-green-600 text-white rounded-lg text-sm font-medium hover:bg-green-700 flex items-center justify-center gap-2"
-              >
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
-                </svg>
-                Document Victory
-              </button>
-            )}
-            {campaign.victoryId && (
-              <p className="mt-3 text-xs text-green-600 font-medium flex items-center gap-1">
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
-                Victory documented
-              </p>
-            )}
           </div>
         )}
 
@@ -544,22 +508,6 @@ export function CampaignDetail({
           onClose={() => setShowTaskForm(false)}
           onSave={loadTasks}
         />
-      )}
-
-      {/* Victory Form Modal */}
-      {showVictoryForm && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center">
-          <div className="absolute inset-0 bg-black/50" onClick={() => setShowVictoryForm(false)} />
-          <div className="relative bg-white rounded-lg shadow-xl max-w-2xl w-full mx-4 max-h-[90vh] overflow-hidden">
-            <VictoryForm
-              buildings={buildings}
-              initialBuildingSlug={campaign.buildingChatSlugs[0]}
-              initialLandlord={campaign.landlordName}
-              onSave={handleVictorySaved}
-              onCancel={() => setShowVictoryForm(false)}
-            />
-          </div>
-        </div>
       )}
     </div>
   )

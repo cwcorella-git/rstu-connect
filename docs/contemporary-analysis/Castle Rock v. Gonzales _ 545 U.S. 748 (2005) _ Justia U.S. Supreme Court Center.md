@@ -1,5 +1,6 @@
 ---
 title: "Supreme.justia.com"
+author: "Paul D. Clement"
 date: 2005
 category: contemporary-analysis
 tags:

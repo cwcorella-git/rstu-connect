@@ -8,7 +8,6 @@
 
 import type { EnhancedBuilding } from './getBuildingsData'
 import { getBuildingOrganizing, type BuildingDemand } from './buildingOrganizingStorage'
-import { getAllVictories, type Victory } from './victoryStorage'
 import { getStrikeState, type StrikePreparation } from './strikeStorage'
 import { getCurrentProfile } from './profileStorage'
 
@@ -16,7 +15,7 @@ import { getCurrentProfile } from './profileStorage'
 // TYPES
 // ============================================================================
 
-export type LandlordAlertEventType = 'demand_escalated' | 'victory' | 'strike_started'
+export type LandlordAlertEventType = 'demand_escalated' | 'strike_started'
 export type LandlordAlertUrgency = 'info' | 'important' | 'urgent'
 
 export interface LandlordAlert {
@@ -36,8 +35,6 @@ export interface LandlordAlert {
 export interface LandlordAlertMetadata {
   demandId?: string
   demandTitle?: string
-  victoryId?: string
-  victoryType?: string
   strikeId?: string
   strikeStage?: string
 }
@@ -204,64 +201,6 @@ function generateDemandAlerts(
 }
 
 /**
- * Generate victory alerts from victories linked to this landlord
- */
-function generateVictoryAlerts(
-  sameOwnerBuildings: EnhancedBuilding[],
-  landlordName: string,
-  maxAgeMs: number
-): LandlordAlert[] {
-  const alerts: LandlordAlert[] = []
-  const now = Date.now()
-  const normalizedLandlord = normalizeOwnerName(landlordName)
-
-  // Get all victories
-  const victories = getAllVictories()
-
-  // Get set of same-owner building slugs for quick lookup
-  const sameOwnerSlugs = new Set(sameOwnerBuildings.map(b => b.chatSlug))
-
-  for (const victory of victories) {
-    const victoryDate = new Date(victory.date).getTime()
-
-    // Check age
-    if (now - victoryDate > maxAgeMs) continue
-
-    // Check if victory is linked to same landlord (by name or by building)
-    const victoryLandlordMatch =
-      victory.landlordName && normalizeOwnerName(victory.landlordName) === normalizedLandlord
-    const victoryBuildingMatch =
-      victory.buildingChatSlug && sameOwnerSlugs.has(victory.buildingChatSlug)
-
-    if (!victoryLandlordMatch && !victoryBuildingMatch) continue
-
-    // Find the source building for this victory
-    const sourceBuilding = victory.buildingChatSlug
-      ? sameOwnerBuildings.find(b => b.chatSlug === victory.buildingChatSlug)
-      : null
-
-    alerts.push({
-      id: `victory_${victory.id}`,
-      eventType: 'victory',
-      sourceApn: sourceBuilding?.apn || '',
-      sourceAddress: sourceBuilding?.address || victory.landlordName || 'Unknown',
-      sourceChatSlug: victory.buildingChatSlug || '',
-      landlordName,
-      title: `Victory vs. ${landlordName.split(' ').slice(0, 3).join(' ')}`,
-      description: victory.title,
-      timestamp: victoryDate,
-      urgency: 'info',
-      metadata: {
-        victoryId: victory.id,
-        victoryType: victory.type,
-      },
-    })
-  }
-
-  return alerts
-}
-
-/**
  * Generate strike alerts from buildings with same owner
  */
 function generateStrikeAlerts(
@@ -344,11 +283,10 @@ export function getLandlordAlertsForBuilding(
 
   // Generate alerts from each source
   const demandAlerts = generateDemandAlerts(sameOwnerBuildings, landlordName, maxAgeMs)
-  const victoryAlerts = generateVictoryAlerts(sameOwnerBuildings, landlordName, maxAgeMs)
   const strikeAlerts = generateStrikeAlerts(sameOwnerBuildings, landlordName, maxAgeMs)
 
   // Combine all alerts
-  const allAlerts = [...demandAlerts, ...victoryAlerts, ...strikeAlerts]
+  const allAlerts = [...demandAlerts, ...strikeAlerts]
 
   // Filter out dismissed alerts
   const profile = getCurrentProfile()

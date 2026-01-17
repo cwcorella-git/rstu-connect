@@ -1,5 +1,6 @@
 ---
 title: 'I Have No Words & I Must Design: Toward a Critical Vocabulary for Games'
+author: "Greg Costikyan"
 date: 1982
 category: anti-war-peace
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Castle Rock v. Gonzales | Case Brief for Law Students
+author: "Paul D. Clement"
 date: 1989
 category: youth-student-organizing
 tags:

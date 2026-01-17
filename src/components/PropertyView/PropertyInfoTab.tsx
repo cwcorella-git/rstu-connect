@@ -6,13 +6,6 @@ import { canAccessTools } from '@/lib/profileStorage';
 import { getHabitabilityScore, getEffectiveOrganizingPriority } from '@/lib/canvassStorage';
 import { useTab } from '@/contexts/TabContext';
 import {
-  getRelatedVictories,
-  getVictoryTypeLabel,
-  getVictoryTypeColor,
-  formatVictoryDate,
-  type Victory,
-} from '@/lib/victoryStorage';
-import {
   getPropertyEvictionStats,
   getLandlordScore,
   USE_SUPABASE,
@@ -205,11 +198,6 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
 
     loadIntelligence();
   }, [activeBuilding.apn, activeBuilding.owner]);
-
-  // Get victories for this building and/or its landlord
-  const victories = useMemo(() => {
-    return getRelatedVictories(activeBuilding.chatSlug, activeBuilding.owner);
-  }, [activeBuilding.chatSlug, activeBuilding.owner]);
 
   // Get habitability score for this building (organizer-only)
   const habitabilityScore = useMemo(() => {
@@ -664,49 +652,6 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
                     </div>
                   )}
                 </div>
-              )}
-            </div>
-          </>
-        )}
-
-        {/* Victory Archive Section */}
-        {victories.length > 0 && (
-          <>
-            <SectionHeader title="Documented Wins" />
-            <div className="space-y-2 mb-4">
-              {victories.slice(0, 3).map((victory) => (
-                <div
-                  key={victory.id}
-                  className={`p-3 rounded-lg border ${getVictoryTypeColor(victory.type)}`}
-                >
-                  <div className="flex items-start justify-between gap-2">
-                    <div className="flex-1 min-w-0">
-                      <div className="flex items-center gap-2 mb-1">
-                        <span className="text-xs font-medium px-1.5 py-0.5 rounded bg-white/50">
-                          {getVictoryTypeLabel(victory.type)}
-                        </span>
-                        <span className="text-xs opacity-75">
-                          {formatVictoryDate(victory.date)}
-                        </span>
-                      </div>
-                      <p className="font-medium text-sm">{victory.title}</p>
-                      {victory.quantifiedImpact && (
-                        <p className="text-xs mt-0.5 font-medium">{victory.quantifiedImpact}</p>
-                      )}
-                      {victory.memberQuote && (
-                        <p className="text-xs mt-1 italic opacity-75">
-                          &ldquo;{victory.memberQuote}&rdquo;
-                          {victory.memberName && <span> - {victory.memberName}</span>}
-                        </p>
-                      )}
-                    </div>
-                  </div>
-                </div>
-              ))}
-              {victories.length > 3 && (
-                <p className="text-xs text-gray-500 text-center">
-                  +{victories.length - 3} more wins for this landlord
-                </p>
               )}
             </div>
           </>

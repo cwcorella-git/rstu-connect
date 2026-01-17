@@ -1,5 +1,6 @@
 ---
 title: Decommodification in the twentyfirst century
+author: "Ursula Huws"
 date: 1947
 category: arts-culture-music
 tags:

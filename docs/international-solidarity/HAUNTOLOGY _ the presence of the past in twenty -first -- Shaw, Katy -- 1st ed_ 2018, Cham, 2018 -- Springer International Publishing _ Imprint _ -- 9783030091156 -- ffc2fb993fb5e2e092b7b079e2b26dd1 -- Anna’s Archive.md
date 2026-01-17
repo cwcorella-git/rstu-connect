@@ -1,5 +1,6 @@
 ---
 title: Hauntology
+author: "Katy Shaw"
 date: 1999
 category: international-solidarity
 tags:
