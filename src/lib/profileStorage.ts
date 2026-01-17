@@ -854,7 +854,13 @@ export function createProfile(data: {
   if (profile.buildingId && profile.unitNumber && profile.buildingAddress) {
     import('./canvassStorage').then(({ ensureUnitExists, linkProfileToUnit }) => {
       ensureUnitExists(profile.buildingId!, profile.buildingAddress!, profile.unitNumber!)
-      linkProfileToUnit(profile.buildingId!, profile.unitNumber!, profile.id, profile.nickname)
+      linkProfileToUnit(
+        profile.buildingId!,
+        profile.unitNumber!,
+        profile.id,
+        profile.nickname,
+        profile.trustLevel === 'verified'
+      )
     })
   }
 
@@ -884,7 +890,13 @@ export function updateProfile(updates: Partial<UserProfile>): UserProfile | null
     // Import canvass functions dynamically to avoid circular imports
     import('./canvassStorage').then(({ ensureUnitExists, linkProfileToUnit }) => {
       ensureUnitExists(newProfile.buildingId!, newProfile.buildingAddress!, newProfile.unitNumber!)
-      linkProfileToUnit(newProfile.buildingId!, newProfile.unitNumber!, newProfile.id, newProfile.nickname)
+      linkProfileToUnit(
+        newProfile.buildingId!,
+        newProfile.unitNumber!,
+        newProfile.id,
+        newProfile.nickname,
+        newProfile.trustLevel === 'verified'
+      )
     })
   }
 
@@ -925,6 +937,17 @@ export function updateProfile(updates: Partial<UserProfile>): UserProfile | null
         })
       })
     }
+  }
+
+  // Sync status when trust level changes to verified
+  if (updates.trustLevel === 'verified' && newProfile.buildingId && newProfile.unitNumber) {
+    import('./canvassStorage').then(({ getUnit, updateUnitStatus }) => {
+      const unit = getUnit(newProfile.buildingId!, newProfile.unitNumber!)
+      // Only upgrade if linked to this profile and not already active
+      if (unit?.profileId === newProfile.id && unit.status !== 'ACTIVE_MEMBER') {
+        updateUnitStatus(newProfile.buildingId!, newProfile.unitNumber!, 'ACTIVE_MEMBER')
+      }
+    })
   }
 
   return newProfile

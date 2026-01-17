@@ -13,11 +13,15 @@ let skipped = 0;
 
 // Author patterns - very specific to avoid false positives
 const authorPatterns = [
+  // "**Author:** FirstName LastName" (markdown bold)
+  /\*\*[Aa]uthor:\*\*\s*([A-Z][a-z]+(?:\s+(?:[A-Z]\.?\s*)?[A-Z]?[a-z']+)+)/m,
+  // "## Author: FirstName LastName"
+  /^#+\s*[Aa]uthor:\s*([A-Z][a-z]+(?:\s+(?:[A-Z]\.?\s*)?[A-Z]?[a-z']+)+)/m,
   // "By FirstName LastName" at start of line
   /^[Bb]y\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
   // "## By FirstName LastName"
   /^#+\s*[Bb]y\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
-  // "Author: FirstName LastName"
+  // "Author: FirstName LastName" plain text
   /^[Aa]uthor:\s*([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
   // "Written by FirstName LastName"
   /^[Ww]ritten\s+[Bb]y:?\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
@@ -25,8 +29,10 @@ const authorPatterns = [
   /^#\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
   // "| FirstName LastName" (Wikipedia-style attribution)
   /^\|\s*([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*\|?/m,
-  // "- FirstName LastName" after a byline or author label
-  /(?:[Bb]y|[Aa]uthor)[:\s]*-?\s*([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)/m,
+  // "Translated by FirstName LastName"
+  /[Tt]ranslated\s+[Bb]y:?\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)/m,
+  // "A report from FirstName LastName"
+  /[Aa]\s+report\s+(?:from|by)\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z']+(?:-[A-Z][a-z]+)?)/m,
 ];
 
 // Names that are likely not authors (organizations, etc.)
@@ -37,6 +43,8 @@ const notAuthors = [
   'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August',
   'September', 'October', 'November', 'December', 'Home Page', 'Main Page',
   'Read More', 'See Also', 'External Links', 'References', 'Related Articles',
+  'Anonymous', 'Unknown', 'Various Authors', 'Contributors', 'Wikimedia',
+  'Race Today', 'Black Flag', 'Class War', 'Libcom', 'Anarchist Library',
 ];
 
 function extractAuthor(content) {

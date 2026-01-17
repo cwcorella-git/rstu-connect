@@ -1,5 +1,6 @@
 ---
 title: (Deportation The (די דעפּאָרטאַציאָן
+author: "Industrial Workers of the World"
 category: labor
 tags:
   - immigration

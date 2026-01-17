@@ -1,5 +1,6 @@
 ---
 title: "결혼과 사랑 (Marriage and Love)"
+author: "Emma Goldman"
 category: "contemporary-analysis"
 ---
 

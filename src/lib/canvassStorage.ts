@@ -422,6 +422,12 @@ export function getBuildingCanvass(buildingId: string): BuildingCanvass | null {
   return state.buildings[buildingId] || null
 }
 
+// Get a specific unit from a building
+export function getUnit(buildingId: string, unitNumber: string): UnitRecord | null {
+  const building = getBuildingCanvass(buildingId)
+  return building?.units[unitNumber] || null
+}
+
 // Initialize or get building canvass
 export function initBuildingCanvass(buildingId: string, buildingAddress: string): BuildingCanvass {
   const state = getCanvassState()
@@ -755,11 +761,23 @@ export function linkProfileToUnit(
   buildingId: string,
   unitNumber: string,
   profileId: string,
-  profileNickname: string
+  profileNickname: string,
+  isVerified?: boolean
 ): void {
   const state = getCanvassState()
   const building = state.buildings[buildingId]
   if (!building || !building.units[unitNumber]) return
+
+  const currentStatus = building.units[unitNumber].status
+
+  // Auto-upgrade status when profile links
+  // Never downgrade existing higher statuses
+  let newStatus = currentStatus
+  if (currentStatus === 'NOT_CONTACTED' || currentStatus === 'NO_ANSWER') {
+    newStatus = isVerified ? 'ACTIVE_MEMBER' : 'INTERESTED'
+  } else if (isVerified && currentStatus === 'INTERESTED') {
+    newStatus = 'ACTIVE_MEMBER'  // Upgrade verified users
+  }
 
   building.units[unitNumber] = {
     ...building.units[unitNumber],
@@ -767,6 +785,7 @@ export function linkProfileToUnit(
     profileNickname,
     linkedAt: Date.now(),
     updated: Date.now(),
+    status: newStatus,
   }
   building.lastModified = Date.now()
   saveCanvassState(state)

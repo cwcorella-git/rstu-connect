@@ -1,5 +1,6 @@
 ---
 title: 아나르코 생디칼리슴 (Anarcho-Syndicalism)
+author: "Rudolf Rocker"
 date: 2004
 category: contemporary-analysis
 tags:

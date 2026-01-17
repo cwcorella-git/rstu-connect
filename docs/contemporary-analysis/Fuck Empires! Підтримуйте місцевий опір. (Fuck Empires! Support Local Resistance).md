@@ -1,5 +1,6 @@
 ---
 title: "Fuck Empires! Підтримуйте місцевий опір. (Fuck Empires! Support Local Resistance)"
+author: "Solidarity Collectives"
 category: "contemporary-analysis"
 ---
 

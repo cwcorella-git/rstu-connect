@@ -1,8 +1,8 @@
 {
-  "commit": "6959fe55",
-  "message": "Extract additional metadata from document content",
+  "commit": "8d662bf2",
+  "message": "Extract 954 additional publication dates from document content",
   "author": "cwcorella-git",
-  "date": "2026-01-16 19:31:21 -0800",
+  "date": "2026-01-16 19:36:16 -0800",
   "branch": "main",
-  "buildTime": "2026-01-17T03:35:22.460Z"
+  "buildTime": "2026-01-17T03:37:27.936Z"
 }
