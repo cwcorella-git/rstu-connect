@@ -1,5 +1,6 @@
 ---
 title: A Wobbly contract - Luigi Rinaldi
+date: 2017
 category: labor
 tags:
   - unions

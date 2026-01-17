@@ -1,5 +1,6 @@
 ---
 title: "The Moral Basis of Vegetarianism"
+author: "Jitendra T Desai"
 date: 1959
 category: "contemporary-analysis"
 ---

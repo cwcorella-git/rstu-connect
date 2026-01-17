@@ -1,6 +1,7 @@
 ---
 title: "Cape Cod"
 author: "Henry David Thoreau"
+date: 2010
 category: "arts-culture-music"
 ---
 

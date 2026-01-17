@@ -1,5 +1,6 @@
 ---
 title: "The strip club did indeed make me bonkers!"
+date: 2025
 category: "contemporary-analysis"
 ---
 

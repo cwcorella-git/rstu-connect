@@ -1,5 +1,6 @@
 ---
 title: "When am I compelled to speak? (ft. Madleen flotilla, Booker, and necessary reorientation)"
+date: 2025
 category: "arts-culture-music"
 ---
 

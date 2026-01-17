@@ -1,5 +1,6 @@
 ---
 title: 'Book Review: Wobblies of the world: a history of globetrotting troublemakers'
+date: 2018
 category: labor
 tags:
   - unions

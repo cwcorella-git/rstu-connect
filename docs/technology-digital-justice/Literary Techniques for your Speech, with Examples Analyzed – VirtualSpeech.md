@@ -1,5 +1,6 @@
 ---
 title: 'Literary Techniques for your Speech, with Examples Analyzed'
+date: 2022
 category: technology-digital-justice
 tags:
   - technology

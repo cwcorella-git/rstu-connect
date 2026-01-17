@@ -1,5 +1,6 @@
 ---
 title: "Ruth Messinger"
+date: 1990
 category: "contemporary-analysis"
 ---
 

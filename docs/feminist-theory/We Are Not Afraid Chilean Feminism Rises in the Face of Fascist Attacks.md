@@ -1,5 +1,6 @@
 ---
 title: 'We Are Not Afraid: Chilean Feminism Rises in the Face of Fascist Attacks'
+date: 2018
 category: feminist-theory
 tags:
   - feminism

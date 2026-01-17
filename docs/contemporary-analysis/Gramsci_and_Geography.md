@@ -1,5 +1,6 @@
 ---
 title: "Gramsci and Geography"
+author: "Joseph A. Buttigieg"
 date: 1986
 category: "contemporary-analysis"
 ---

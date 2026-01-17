@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2018
   Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida
   Prisons
 category: contemporary-analysis

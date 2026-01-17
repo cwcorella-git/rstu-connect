@@ -1,5 +1,6 @@
 ---
 title: The Financial Transparency Meeting (but I yell instead of show graphs).
+date: 2025
 category: feminist-theory
 tags:
   - feminism

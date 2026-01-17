@@ -1,5 +1,6 @@
 ---
 title: THIRD CLASS
+date: 2008
 category: contemporary-analysis
 tags:
   - class

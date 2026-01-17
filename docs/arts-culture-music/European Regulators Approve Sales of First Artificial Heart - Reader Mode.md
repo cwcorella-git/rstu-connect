@@ -1,5 +1,6 @@
 ---
 title: "European Regulators Approve Sales of First Articial Heart"
+date: 2021
 category: "arts-culture-music"
 ---
 

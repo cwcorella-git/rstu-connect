@@ -1,5 +1,6 @@
 ---
 title: "REGERED THE SARTE"
+author: "Homi K. Bhabha"
 date: 1963
 category: "arts-culture-music"
 ---

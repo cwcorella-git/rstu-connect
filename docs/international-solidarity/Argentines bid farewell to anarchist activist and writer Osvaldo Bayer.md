@@ -1,5 +1,6 @@
 ---
 title: Argentines bid farewell to anarchist activist and writer Osvaldo Bayer
+date: 2018
 category: international-solidarity
 tags:
   - anarchism

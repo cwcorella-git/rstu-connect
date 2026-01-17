@@ -1,5 +1,6 @@
 ---
 title: ARE PRISONS OBSOLETE?
+author: "Angela Y. Davis"
 date: 2003
 category: contemporary-analysis
 tags:

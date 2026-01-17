@@ -1,5 +1,6 @@
 ---
 title: 'The racist roots of American policing: From slave patrols to traffic stops'
+date: 1990
 category: contemporary-analysis
 tags:
   - police

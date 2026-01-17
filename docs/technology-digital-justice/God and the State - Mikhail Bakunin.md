@@ -1,5 +1,6 @@
 ---
 title: BAKUNIN
+author: "Benjamin R. Tucker"
 date: 2014
 category: technology-digital-justice
 tags:

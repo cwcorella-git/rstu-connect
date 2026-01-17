@@ -1,5 +1,6 @@
 ---
 title: Iranian feminists speak out
+date: 2024
 category: feminist-theory
 tags:
   - feminism

@@ -1,5 +1,6 @@
 ---
 title: 'RESCHEDULE: Financial Transparency Meetings'
+date: 2025
 category: feminist-theory
 tags:
   - feminism

@@ -1,5 +1,6 @@
 ---
 title: "The paradox of tolerance: do we have to tolerate intolerant?"
+date: 2025
 category: "contemporary-analysis"
 ---
 

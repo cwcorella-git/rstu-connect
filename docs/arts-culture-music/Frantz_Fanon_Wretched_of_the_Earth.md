@@ -1,5 +1,6 @@
 ---
 title: The Wretched of the Earth
+author: "Homi K. Bhabha"
 date: 1963
 category: arts-culture-music
 tags: []

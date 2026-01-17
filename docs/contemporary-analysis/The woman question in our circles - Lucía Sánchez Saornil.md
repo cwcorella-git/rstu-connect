@@ -1,5 +1,6 @@
 ---
 title: The woman question in our circles - Lucía Sánchez Saornil
+date: 2023
 category: contemporary-analysis
 tags:
   - women

@@ -1,5 +1,6 @@
 ---
 title: "What are you willing to do? [from ismatu.fm]"
+date: 2025
 category: "contemporary-analysis"
 ---
 

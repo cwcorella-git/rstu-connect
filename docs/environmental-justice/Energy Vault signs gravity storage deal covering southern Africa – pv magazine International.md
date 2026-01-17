@@ -1,5 +1,6 @@
 ---
 title: "Pv-magazine.com"
+date: 2024
 category: environmental-justice
 tags:
   - environment

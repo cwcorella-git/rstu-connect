@@ -1,5 +1,6 @@
 ---
 title: 'The Great Society, U. Michigan, 1964'
+date: 1964
 category: contemporary-analysis
 tags: []
 ---

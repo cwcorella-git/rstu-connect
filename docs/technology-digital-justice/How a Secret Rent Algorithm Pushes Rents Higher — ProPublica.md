@@ -1,5 +1,6 @@
 ---
 title: Rent Going Up? One Company's Algorithm Could Be Why.
+date: 2019
 category: technology-digital-justice
 tags:
   - housing

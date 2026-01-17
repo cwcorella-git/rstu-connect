@@ -1,5 +1,6 @@
 ---
 title: "A letter on Metacognition [ft. a social experiment]"
+date: 2025
 category: "contemporary-analysis"
 ---
 

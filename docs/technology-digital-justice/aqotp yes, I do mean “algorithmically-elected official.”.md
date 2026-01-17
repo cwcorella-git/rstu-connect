@@ -1,5 +1,6 @@
 ---
 title: "Aqotp: yes, I do mean ''algorithmically-elected official.''"
+date: 2025
 category: technology-digital-justice
 tags:
   - technology

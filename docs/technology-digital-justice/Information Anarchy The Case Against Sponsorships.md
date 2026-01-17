@@ -1,5 +1,6 @@
 ---
 title: 'Information Anarchy: The Case Against Sponsorships'
+date: 2023
 category: technology-digital-justice
 tags:
   - anarchism

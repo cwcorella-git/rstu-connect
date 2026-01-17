@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Carlos A. Cort"
   In the long hot summer, Ukrainian and Russian soldiers broke records for the
   growth of desertio
 category: technology-digital-justice

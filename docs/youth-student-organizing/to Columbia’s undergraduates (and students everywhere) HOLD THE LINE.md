@@ -1,5 +1,6 @@
 ---
 title: "To Columbia''s undergraduates (and students everywhere): HOLD THE LINE."
+date: 2024
 category: youth-student-organizing
 tags:
   - education

@@ -1,5 +1,6 @@
 ---
 title: 'Counterinsurgency Reexamined: Racism, Capitalism, and US Military Doctrine'
+author: "Jordan T. Camp"
 date: 1915
 category: environmental-justice
 tags:

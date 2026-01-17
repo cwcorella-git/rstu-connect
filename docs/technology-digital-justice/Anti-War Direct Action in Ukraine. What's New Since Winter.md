@@ -1,5 +1,6 @@
 ---
 title: Anti-War Direct Action in Ukraine. What's New Since Winter?
+date: 2024
 category: technology-digital-justice
 tags:
   - direct action

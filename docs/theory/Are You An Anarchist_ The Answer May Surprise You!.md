@@ -1,5 +1,6 @@
 ---
 title: David Graeber
+date: 2009
 category: contemporary-analysis
 tags:
   - anarchism

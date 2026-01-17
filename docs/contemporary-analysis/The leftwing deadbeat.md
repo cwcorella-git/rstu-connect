@@ -1,5 +1,6 @@
 ---
 title: "The leftwing deadbeat"
+date: 2023
 category: "contemporary-analysis"
 ---
 

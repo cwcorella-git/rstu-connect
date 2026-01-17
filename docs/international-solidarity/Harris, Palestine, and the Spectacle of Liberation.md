@@ -1,5 +1,6 @@
 ---
 title: 'Harris, Palestine, and the Spectacle of Liberation.'
+date: 2024
 category: international-solidarity
 tags:
   - Palestine

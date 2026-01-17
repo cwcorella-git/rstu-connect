@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "George S. Wallace"
   Founders Online: Memorial and Remonstrance against Religious Assessments, [ca.
   …
 category: technology-digital-justice

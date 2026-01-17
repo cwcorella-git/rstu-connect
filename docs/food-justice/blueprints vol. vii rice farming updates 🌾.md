@@ -1,5 +1,6 @@
 ---
 title: "Blueprints vol. vii: rice farming updates"
+date: 2025
 category: food-justice
 tags:
   - food

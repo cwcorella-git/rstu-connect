@@ -1,5 +1,6 @@
 ---
 title: "The Postmodern Left and the Success of Neoliberalism"
+date: 2018
 category: "contemporary-analysis"
 ---
 

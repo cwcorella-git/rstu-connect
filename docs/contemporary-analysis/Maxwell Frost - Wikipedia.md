@@ -1,5 +1,6 @@
 ---
 title: "Maxwell Frost"
+date: 2025
 category: "contemporary-analysis"
 ---
 

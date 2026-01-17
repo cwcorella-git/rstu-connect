@@ -1,5 +1,6 @@
 ---
 title: "Charles Sumner"
+date: 1869
 category: "contemporary-analysis"
 ---
 

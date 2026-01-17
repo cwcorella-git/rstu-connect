@@ -1,5 +1,6 @@
 ---
 title: "Fighting for Our Lives"
+date: 2002
 category: "contemporary-analysis"
 ---
 

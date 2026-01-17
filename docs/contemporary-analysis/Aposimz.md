@@ -1,5 +1,6 @@
 ---
 title: Aposimz
+date: 2021
 category: contemporary-analysis
 tags: []
 ---

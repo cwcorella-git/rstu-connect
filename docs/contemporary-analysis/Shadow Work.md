@@ -1,5 +1,6 @@
 ---
 title: "Ivan Illich"
+author:
 category: "contemporary-analysis"
 ---
 

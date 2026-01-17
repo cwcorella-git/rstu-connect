@@ -1,5 +1,6 @@
 ---
 title: "Notes on the Moment (02 Feb 2025)"
+date: 2025
 category: "contemporary-analysis"
 ---
 

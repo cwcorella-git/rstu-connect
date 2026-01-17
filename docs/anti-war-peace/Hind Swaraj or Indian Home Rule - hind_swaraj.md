@@ -1,5 +1,6 @@
 ---
 title: Hind Swaraj or Indian Home Rule
+author: "Jitendra T Desai"
 category: anti-war-peace
 tags:
   - India

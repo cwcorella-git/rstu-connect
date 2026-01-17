@@ -1,5 +1,6 @@
 ---
 title: Karl Polanyi
+author: "Joseph E. Stiglitz"
 date: 1944
 category: feminist-theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "ICL-CIL referendum 2025: results are in"
+date: 2025
 category: "contemporary-analysis"
 ---
 

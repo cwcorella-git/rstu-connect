@@ -1,5 +1,6 @@
 ---
 title: "Parasitic Processing — The Cognitive Science of Overthinking"
+date: 2021
 category: "contemporary-analysis"
 ---
 

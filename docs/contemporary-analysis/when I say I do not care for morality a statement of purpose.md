@@ -1,5 +1,6 @@
 ---
 title: "When I say I do not care for morality: a statement of purpose"
+date: 2024
 category: "contemporary-analysis"
 ---
 

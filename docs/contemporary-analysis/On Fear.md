@@ -1,5 +1,6 @@
 ---
 title: "On Fear."
+date: 2024
 category: "contemporary-analysis"
 ---
 

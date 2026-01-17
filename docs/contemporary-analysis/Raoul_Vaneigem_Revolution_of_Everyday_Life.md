@@ -1,5 +1,6 @@
 ---
 title: The Revolution of Everyday Life
+author:
 category: contemporary-analysis
 tags: []
 ---

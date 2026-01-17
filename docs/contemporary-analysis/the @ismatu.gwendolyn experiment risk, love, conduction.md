@@ -1,5 +1,6 @@
 ---
 title: "The @ismatu.gwendolyn experiment: risk, love, conduction."
+date: 2025
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "20 Flaws with the Core Objective Functions"
+author: "David K. Shapiro"
 date: 2022
 category: "contemporary-analysis"
 ---

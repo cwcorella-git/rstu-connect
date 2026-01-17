@@ -1,65 +1,137 @@
+#!/usr/bin/env node
+/**
+ * Extract authors from document content using various patterns
+ */
+
 const fs = require('fs');
 const path = require('path');
-const matter = require('gray-matter');
 
-const DOCS_DIR = path.join(__dirname, '../docs');
+const docsDir = path.join(__dirname, '../docs');
 
-// Pattern: ## **Author Name** at start of content
-const AUTHOR_HEADER_PATTERN = /^##\s*\*\*([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+)\*\*/m;
+let updated = 0;
+let skipped = 0;
 
-// Exclude these as they're not authors
-const EXCLUDED = new Set([
-  'Date Unknown', 'Source Unknown', 'Tags Unknown', 'Further Reading',
-  'Original Source', 'External Links', 'See Also', 'Related Articles',
-]);
+// Author patterns - very specific to avoid false positives
+const authorPatterns = [
+  // "By FirstName LastName" at start of line
+  /^[Bb]y\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
+  // "## By FirstName LastName"
+  /^#+\s*[Bb]y\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
+  // "Author: FirstName LastName"
+  /^[Aa]uthor:\s*([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
+  // "Written by FirstName LastName"
+  /^[Ww]ritten\s+[Bb]y:?\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
+  // "# FirstName LastName" (common for essays where author name is first header)
+  /^#\s+([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*$/m,
+  // "| FirstName LastName" (Wikipedia-style attribution)
+  /^\|\s*([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)\s*\|?/m,
+  // "- FirstName LastName" after a byline or author label
+  /(?:[Bb]y|[Aa]uthor)[:\s]*-?\s*([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+(?:-[A-Z][a-z]+)?)/m,
+];
 
-const candidates = [];
+// Names that are likely not authors (organizations, etc.)
+const notAuthors = [
+  'The Guardian', 'The Atlantic', 'New York', 'Los Angeles', 'San Francisco',
+  'United States', 'North America', 'South America', 'Wikipedia', 'Google',
+  'Anonymous Author', 'Unknown Author', 'The Anarchist', 'The Communist',
+  'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August',
+  'September', 'October', 'November', 'December', 'Home Page', 'Main Page',
+  'Read More', 'See Also', 'External Links', 'References', 'Related Articles',
+];
 
-function scanDir(dir) {
-  for (const item of fs.readdirSync(dir)) {
-    const fullPath = path.join(dir, item);
-    const stat = fs.statSync(fullPath);
-    if (stat.isDirectory() && !item.startsWith('.')) {
-      scanDir(fullPath);
-    } else if (item.endsWith('.md')) {
-      const content = fs.readFileSync(fullPath, 'utf8');
-      let parsed;
-      try { parsed = matter(content); } catch (e) { return; }
+function extractAuthor(content) {
+  // Only search first 30 lines
+  const lines = content.split('\n').slice(0, 30);
+  const searchArea = lines.join('\n');
 
-      // Skip if already has author
-      if (parsed.data.author) return;
+  for (const pattern of authorPatterns) {
+    const match = searchArea.match(pattern);
+    if (match && match[1]) {
+      let author = match[1].trim();
 
-      // Look for author header in first 500 chars
-      const firstPart = parsed.content.slice(0, 500);
-      const match = firstPart.match(AUTHOR_HEADER_PATTERN);
+      // Validate author name
+      if (!author.includes(' ')) continue; // Must have first + last name
+      if (author.length < 5 || author.length > 50) continue;
+      if (notAuthors.some(n => author.includes(n))) continue;
+      if (/\d/.test(author)) continue; // No numbers in author names
 
-      if (match && !EXCLUDED.has(match[1])) {
-        // Also try to extract date
-        const dateMatch = firstPart.match(/##\s*\*\*(?:Date:?\s*)?(\d{4})\*\*/);
+      // Clean up trailing punctuation
+      author = author.replace(/[.,;:]+$/, '').trim();
 
-        candidates.push({
-          file: path.relative(DOCS_DIR, fullPath),
-          author: match[1],
-          date: dateMatch ? dateMatch[1] : null,
-          title: (parsed.data.title || '').slice(0, 50),
-        });
-      }
+      return author;
+    }
+  }
+  return null;
+}
+
+function walkDir(dir) {
+  const files = fs.readdirSync(dir);
+  for (const file of files) {
+    const filepath = path.join(dir, file);
+    const stat = fs.statSync(filepath);
+    if (stat.isDirectory()) {
+      walkDir(filepath);
+    } else if (file.endsWith('.md')) {
+      processFile(filepath);
     }
   }
 }
 
-scanDir(DOCS_DIR);
+function processFile(filepath) {
+  let content = fs.readFileSync(filepath, 'utf8');
 
-console.log(`Found ${candidates.length} documents with author in content header:\n`);
-candidates.slice(0, 30).forEach(c => {
-  console.log(`  ${c.file}:`);
-  console.log(`    + author: "${c.author}"${c.date ? `, date: ${c.date}` : ''}`);
-});
-if (candidates.length > 30) {
-  console.log(`\n  ... and ${candidates.length - 30} more`);
+  if (!content.startsWith('---')) return;
+
+  const endIdx = content.indexOf('---', 3);
+  if (endIdx === -1) return;
+
+  const frontmatter = content.substring(3, endIdx);
+  const body = content.substring(endIdx + 3);
+
+  // Check if already has a valid author
+  const authorMatch = frontmatter.match(/^author:\s*(.+)$/m);
+  if (authorMatch) {
+    const authorVal = authorMatch[1].trim().replace(/['"]/g, '');
+    if (authorVal && authorVal !== 'null' && authorVal.toLowerCase() !== 'unknown' && authorVal.length > 3) {
+      skipped++;
+      return;
+    }
+  }
+
+  // Try to extract author from body
+  const author = extractAuthor(body);
+
+  if (!author) {
+    skipped++;
+    return;
+  }
+
+  // Update frontmatter
+  const lines = frontmatter.split('\n');
+  const existingAuthorIdx = lines.findIndex(l => l.startsWith('author:'));
+  const escapedAuthor = author.replace(/"/g, '\\"');
+
+  if (existingAuthorIdx !== -1) {
+    lines[existingAuthorIdx] = `author: "${escapedAuthor}"`;
+  } else {
+    // Insert after title
+    const titleIdx = lines.findIndex(l => l.startsWith('title:'));
+    const insertIdx = titleIdx !== -1 ? titleIdx + 1 : 1;
+    lines.splice(insertIdx, 0, `author: "${escapedAuthor}"`);
+  }
+
+  const newFrontmatter = lines.join('\n');
+  const newContent = '---' + newFrontmatter + '---' + body;
+
+  fs.writeFileSync(filepath, newContent, 'utf8');
+
+  console.log(`Updated: ${path.relative(docsDir, filepath)} -> author: "${author}"`);
+  updated++;
 }
 
-// Export for use in fix script
-if (process.argv.includes('--json')) {
-  console.log(JSON.stringify(candidates, null, 2));
-}
+console.log('Extracting authors from document content...\n');
+walkDir(docsDir);
+
+console.log(`\n=== DONE ===`);
+console.log(`Updated: ${updated}`);
+console.log(`Skipped: ${skipped}`);

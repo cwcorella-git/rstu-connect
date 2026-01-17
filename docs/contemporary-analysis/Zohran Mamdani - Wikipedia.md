@@ -1,5 +1,6 @@
 ---
 title: "Zohran Mamdani"
+date: 2021
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "11 Step Process for a Great Chatbot Design"
+date: 2022
 category: "contemporary-analysis"
 ---
 

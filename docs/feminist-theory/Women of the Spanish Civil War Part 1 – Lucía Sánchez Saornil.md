@@ -1,5 +1,6 @@
 ---
 title: 'Women of the Spanish Civil War: Part 1 – Lucía Sánchez Saornil'
+date: 2017
 category: feminist-theory
 tags:
   - women

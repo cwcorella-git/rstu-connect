@@ -1,5 +1,6 @@
 ---
 title: "Teaching and Learning with Jupyter"
+date: 2019
 category: "arts-culture-music"
 ---
 

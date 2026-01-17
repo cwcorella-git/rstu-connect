@@ -1,5 +1,6 @@
 ---
 title: 'Shaky claims and shaggy lion stories: a look back at a few great smears'
+date: 2006
 category: technology-digital-justice
 tags:
   - technology

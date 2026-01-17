@@ -1,5 +1,6 @@
 ---
 title: "Lyndon B. Johnson"
+date: 1963
 category: "contemporary-analysis"
 ---
 

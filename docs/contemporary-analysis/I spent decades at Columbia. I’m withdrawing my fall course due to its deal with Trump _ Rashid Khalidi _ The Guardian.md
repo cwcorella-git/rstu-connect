@@ -1,5 +1,6 @@
 ---
 title: "News Opinion Sport Culture Lifestyle"
+date: 2025
 category: "contemporary-analysis"
 ---
 

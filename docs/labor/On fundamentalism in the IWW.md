@@ -1,5 +1,6 @@
 ---
 title: On "fundamentalism" in the IWW
+date: 2017
 category: labor
 tags:
   - unions

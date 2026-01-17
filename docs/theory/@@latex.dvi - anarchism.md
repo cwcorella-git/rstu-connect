@@ -1,5 +1,6 @@
 ---
 title: '*Anarchism Triumphant*: Free Software and the Death of Copyright'
+date: 1999
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: 'Ten Years Since the Financial Crash: What Price Education?'
+date: 2017
 category: youth-student-organizing
 tags:
   - education

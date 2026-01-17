@@ -1,5 +1,6 @@
 ---
 title: What is Property?
+author:
 category: contemporary-analysis
 tags:
   - property

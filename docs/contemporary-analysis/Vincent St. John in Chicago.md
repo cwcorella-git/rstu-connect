@@ -1,5 +1,6 @@
 ---
 title: Vincent St. John in Chicago
+author: "Fred W. Heslewood"
 category: contemporary-analysis
 tags:
   - Chicago

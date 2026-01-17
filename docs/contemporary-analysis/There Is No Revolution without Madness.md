@@ -1,5 +1,6 @@
 ---
 title: "There Is No Revolution without Madness."
+date: 2023
 category: "contemporary-analysis"
 ---
 

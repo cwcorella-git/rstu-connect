@@ -1,5 +1,6 @@
 ---
 title: "The role of the artist is to load the gun."
+date: 2024
 category: "arts-culture-music"
 ---
 

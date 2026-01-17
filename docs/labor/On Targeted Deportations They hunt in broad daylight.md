@@ -1,5 +1,6 @@
 ---
 title: 'On Targeted Deportations: They hunt in broad daylight.'
+date: 2025
 category: labor
 tags:
   - immigration

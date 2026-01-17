@@ -1,6 +1,7 @@
 ---
 title: 'After Paris: A Global Movement for Climate Jobs'
 author: "Jonathan Neale -"
+date: 2015
 category: environmental-justice
 tags:
   - environment

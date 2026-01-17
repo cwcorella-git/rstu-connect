@@ -1,5 +1,6 @@
 ---
 title: "A prelude: 'blessed,' meaning washed with blood."
+date: 2023
 category: "contemporary-analysis"
 ---
 

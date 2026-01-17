@@ -1,5 +1,6 @@
 ---
 title: 'Abraham Guillén, ''The military error of "the Left"'''
+date: 2024
 category: theory
 tags:
   - theory

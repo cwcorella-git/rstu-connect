@@ -1,5 +1,6 @@
 ---
 title: GNU Manifesto
+date: 2011
 category: contemporary-analysis
 tags: []
 ---

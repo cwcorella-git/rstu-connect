@@ -1,5 +1,6 @@
 ---
 title: 'Consciousness, revolution, and the IWW - Jade Saab'
+date: 2023
 category: labor
 tags:
   - unions

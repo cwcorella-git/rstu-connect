@@ -1,5 +1,6 @@
 ---
 title: "General Social Survey Wikipedia"
+author: "James A. Davis"
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: A note on the anarchist agrupación
+date: 2023
 category: contemporary-analysis
 tags:
   - anarchism

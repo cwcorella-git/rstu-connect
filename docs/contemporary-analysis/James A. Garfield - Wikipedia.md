@@ -1,5 +1,6 @@
 ---
 title: "James A. Garfield"
+date: 1881
 category: "contemporary-analysis"
 ---
 

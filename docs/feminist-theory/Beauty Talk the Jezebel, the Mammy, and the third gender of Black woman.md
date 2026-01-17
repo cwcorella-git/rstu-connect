@@ -1,5 +1,6 @@
 ---
 title: 'Beauty Talk: the Jezebel, the Mammy, and the third gender of "Black woman."'
+date: 2022
 category: feminist-theory
 tags:
   - women

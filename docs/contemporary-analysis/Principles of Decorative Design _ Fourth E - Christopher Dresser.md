@@ -1,6 +1,7 @@
 ---
 title: "Principles of Decorative Design"
 author: "Christopher Dresser"
+date: 2012
 category: "contemporary-analysis"
 ---
 

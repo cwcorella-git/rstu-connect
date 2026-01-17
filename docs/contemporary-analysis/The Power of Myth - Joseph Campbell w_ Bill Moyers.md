@@ -1,5 +1,6 @@
 ---
 title: "JOSEPH CAMPBELL"
+author:
 date: 1988
 category: "contemporary-analysis"
 ---

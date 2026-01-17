@@ -1,5 +1,6 @@
 ---
 title: "To kick ICE out requires action, to keep them out requires organization"
+date: 2025
 category: "contemporary-analysis"
 ---
 

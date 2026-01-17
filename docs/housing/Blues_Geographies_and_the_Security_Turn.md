@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Ernest R. Savage"
 date: 1965
   Blues Geographies and the Security Turn: Interpreting the Housing Crisis in
   Los Angeles

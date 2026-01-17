@@ -1,5 +1,6 @@
 ---
 title: "On an Island Watch House Bed, A Black Man's Lying Dead"
+date: 2020
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "I love my country//she looks like me."
+date: 2023
 category: "contemporary-analysis"
 ---
 

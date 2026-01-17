@@ -1,5 +1,6 @@
 ---
 title: "UNCLE TOM'S CABIN"
+author: "Christopher G. Diller"
 date: 1852
 category: "contemporary-analysis"
 ---
