@@ -100,6 +100,7 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
       {/* Unified Header with back button (mobile) - clickable for info */}
       <PropertyHeader
         building={building}
+        chatSlug={chatSlug}
         showBackButton={showBackButton}
         onBack={onBack}
         onInfoClick={handleInfoClick}
