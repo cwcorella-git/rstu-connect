@@ -1,5 +1,6 @@
 ---
 title: Viglostasi Residence / block722
+author: "ArchDaily"
 date: 2023
 category: technology-digital-justice
 tags:

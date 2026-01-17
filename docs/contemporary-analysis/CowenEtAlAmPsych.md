@@ -1,5 +1,6 @@
 ---
 title: Mapping 24 Emotions Conveyed by Brief Human Vocalization
+author: "Alan S. Cowen"
 date: 2018
 category: contemporary-analysis
 tags:

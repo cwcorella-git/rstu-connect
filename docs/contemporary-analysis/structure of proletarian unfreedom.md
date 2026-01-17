@@ -1,5 +1,6 @@
 ---
 title: The Structure of Proletarian Unfreedom*
+author: "JSTOR"
 date: 1982
 category: contemporary-analysis
 tags:

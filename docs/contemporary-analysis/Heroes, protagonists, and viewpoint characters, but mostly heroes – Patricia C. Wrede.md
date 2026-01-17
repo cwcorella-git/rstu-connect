@@ -1,5 +1,6 @@
 ---
 title: "Heroes, protagonists, and viewpoint characters, but mostly heroes – Patricia C. Wrede"
+author: "Patricia C. Wrede"
 date: 2025
 category: contemporary-analysis
 tags:

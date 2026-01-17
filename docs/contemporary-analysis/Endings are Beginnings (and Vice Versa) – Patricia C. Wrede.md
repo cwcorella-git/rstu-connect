@@ -1,5 +1,6 @@
 ---
 title: Endings are Beginnings (and Vice Versa) – Patricia C. Wrede
+author: "Patricia C. Wrede"
 date: 2025
 category: contemporary-analysis
 tags:

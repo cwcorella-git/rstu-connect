@@ -1,5 +1,6 @@
 ---
 title: "CHAPTER TWO Thoughts on Pre-state Cultural Development on the Korean Peninsula from an Archaeological Point of View"
+author: "Gina L. Barnes"
 date: 1996
 category: anti-war-peace
 tags:

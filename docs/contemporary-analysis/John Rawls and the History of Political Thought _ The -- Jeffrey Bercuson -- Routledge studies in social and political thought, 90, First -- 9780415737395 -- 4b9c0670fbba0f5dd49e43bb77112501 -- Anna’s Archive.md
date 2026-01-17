@@ -1,5 +1,6 @@
 ---
 title: "John Rawls and the History of Political Thought"
+author: "William E. Scheuerman"
 date: 2014
 category: "contemporary-analysis"
 tags:

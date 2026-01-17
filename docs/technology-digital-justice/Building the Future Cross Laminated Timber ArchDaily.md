@@ -1,5 +1,6 @@
 ---
 title: 'Building the Future: Cross Laminated Timber'
+author: "Eric Baldwin"
 date: 2015
 category: technology-digital-justice
 tags:

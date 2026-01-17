@@ -1,5 +1,6 @@
 ---
 title: "Loneliness"
+author: "JOHN CACIOPPO"
 date: 2008
 category: "contemporary-analysis"
 tags:

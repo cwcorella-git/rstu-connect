@@ -1,5 +1,6 @@
 ---
 title: 'First Novels, Part 5-Finish and revise – Patricia C. Wrede'
+author: "Patricia C. Wrede"
 date: 2025
 category: arts-culture-music
 tags:

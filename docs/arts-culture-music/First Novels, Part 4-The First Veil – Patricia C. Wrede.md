@@ -1,5 +1,6 @@
 ---
 title: 'First Novels, Part 4-The First Veil – Patricia C. Wrede'
+author: "Patricia C. Wrede"
 date: 2025
 category: arts-culture-music
 tags:

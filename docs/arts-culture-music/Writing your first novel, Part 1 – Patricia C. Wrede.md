@@ -1,5 +1,6 @@
 ---
 title: "Writing your first novel, Part 1 – Patricia C. Wrede"
+author: "Patricia C. Wrede"
 date: 2025
 category: "arts-culture-music"
 tags:

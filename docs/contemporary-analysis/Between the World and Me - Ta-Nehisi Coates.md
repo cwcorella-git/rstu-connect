@@ -1,5 +1,6 @@
 ---
 title: "COATES"
+author: "Ta-Nehisi Coates"
 date: 2015
 category: "contemporary-analysis"
 tags:

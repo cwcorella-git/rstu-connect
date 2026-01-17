@@ -1,5 +1,6 @@
 ---
 title: Natural House / Ideo arquitectura
+author: "ArchDaily"
 date: 1961
 category: technology-digital-justice
 tags:

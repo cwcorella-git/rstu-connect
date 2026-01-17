@@ -1,5 +1,6 @@
 ---
 title: First novels Part 2-Prewriting – Patricia C. Wrede
+author: "Patricia C. Wrede"
 date: 2025
 category: arts-culture-music
 tags:

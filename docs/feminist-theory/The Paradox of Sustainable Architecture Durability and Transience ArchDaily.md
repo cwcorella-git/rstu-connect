@@ -1,5 +1,6 @@
 ---
 title: 'The Paradox of Sustainable Architecture: Durability and Transience'
+author: "Ankitha Gattupalli"
 date: 2004
 category: feminist-theory
 tags:

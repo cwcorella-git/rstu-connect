@@ -1,5 +1,6 @@
 ---
 title: "IMAGINATION"
+author: "Walter A. Friedman"
 date: 1995
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Cortex Suppression Resolves Motivation Conflict in Favor of Prosociality - Neuroscience News"
+author: "Neuroscience News"
 category: "contemporary-analysis"
 tags:
   - analysis

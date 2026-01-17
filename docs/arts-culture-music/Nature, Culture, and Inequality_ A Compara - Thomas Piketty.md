@@ -1,5 +1,6 @@
 ---
 title: "NATURE, CULTURE, AND INEQUALITY"
+author: "Thomas Piketty"
 date: 2022
 category: "arts-culture-music"
 tags:

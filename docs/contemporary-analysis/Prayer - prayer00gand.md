@@ -1,5 +1,6 @@
 ---
 title: "Prayer"
+author: "Mahatma Gandhi"
 date: 2018
 category: "contemporary-analysis"
 tags:

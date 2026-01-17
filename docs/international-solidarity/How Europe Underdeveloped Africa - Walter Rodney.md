@@ -1,5 +1,6 @@
 ---
 title: "How europe underdeveloped AFRICA"
+author: "Walter Rodney"
 date: 2011
 category: international-solidarity
 tags:

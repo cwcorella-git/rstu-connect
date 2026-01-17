@@ -1,5 +1,6 @@
 ---
 title: "Design Document for:"
+author: "Chris Taylor"
 date: 1999
 category: "contemporary-analysis"
 tags:

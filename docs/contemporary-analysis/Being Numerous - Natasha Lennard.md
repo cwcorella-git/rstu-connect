@@ -1,5 +1,6 @@
 ---
 title: "BEING NUMEROUS SSAYS ()/V"
+author: "Natasha Lennard"
 date: 2019
 category: "contemporary-analysis"
 tags:

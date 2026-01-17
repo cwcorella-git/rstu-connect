@@ -1,5 +1,6 @@
 ---
 title: "Peter Gelderloos Commoning and Scarcity a manifesto against capitalism June 2012"
+author: "Peter Gelderloos"
 date: 1994
 category: contemporary-analysis
 tags:

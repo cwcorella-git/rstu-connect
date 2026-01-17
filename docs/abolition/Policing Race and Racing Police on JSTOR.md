@@ -1,6 +1,6 @@
 ---
 title: Policing Race And Racing Police On Jstor
-author: Unknown
+author: "JSTOR"
 date: '2020'
 category: abolition
 tags:

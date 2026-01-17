@@ -1,5 +1,6 @@
 ---
 title: 'Villains and Antagonists, but Mostly Villains – Patricia C. Wrede'
+author: "Patricia C. Wrede"
 date: 2025
 category: technology-digital-justice
 tags:

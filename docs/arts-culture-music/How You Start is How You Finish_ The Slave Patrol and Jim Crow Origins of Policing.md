@@ -1,5 +1,6 @@
 ---
 title: "How You Start is How You Finish? The Slave Patrol and Jim Crow Origins of Policing"
+author: "Professor Gary"
 date: 2013
 category: arts-culture-music
 tags:

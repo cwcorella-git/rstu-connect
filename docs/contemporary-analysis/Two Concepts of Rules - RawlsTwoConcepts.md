@@ -1,5 +1,6 @@
 ---
 title: "Philosophical Review"
+author: "JSTOR"
 date: 1953
 category: "contemporary-analysis"
 tags:

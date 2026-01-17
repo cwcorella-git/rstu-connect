@@ -1,5 +1,6 @@
 ---
 title: "The dock workers strike and San Francisco general strike, 1934 - Jeremy Brecher"
+author: "Jeremy Brecher"
 date: 1919
 category: contemporary-analysis
 tags:

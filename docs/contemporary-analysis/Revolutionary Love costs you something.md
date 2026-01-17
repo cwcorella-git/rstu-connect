@@ -1,5 +1,6 @@
 ---
 title: "Revolutionary Love costs you something."
+author: "Joy James"
 date: 2023
 category: "contemporary-analysis"
 tags:

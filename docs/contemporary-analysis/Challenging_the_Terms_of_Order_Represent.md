@@ -1,5 +1,6 @@
 ---
 title: "Challenging the Terms of Order"
+author: "Jordan T. Camp"
 date: 1935
 category: "contemporary-analysis"
 tags:
