@@ -4,8 +4,10 @@ author: Nevada Current
 date: '2025'
 category: housing
 tags:
-- housing
-- tenants
+  - housing
+  - tenants-rights
+  - rent
+  - tenants
 ---
 # Address rent now or homelessness later, lawmakers told
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...

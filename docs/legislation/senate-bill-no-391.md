@@ -4,8 +4,10 @@ author: Senate Bill No
 date: '2025'
 category: legislation
 tags:
-- legislation
-- Nevada
+  - legislation
+  - policy
+  - law
+  - Nevada
 ---
 # senate-bill-no-391
 REQUIRES TWO-THIRDS MAJORITY VOTE (§ 2)                                                                    EXEMPT

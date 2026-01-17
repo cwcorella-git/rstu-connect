@@ -1,6 +1,9 @@
 ---
 title: "Episode 50: Tillich And Barfield/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 50: Tillich And Barfield/**

@@ -1,8 +1,8 @@
 {
-  "commit": "f9b3e113",
-  "message": "Add text truncation to Reading panel and Georgism tags",
+  "commit": "bfb6a204",
+  "message": "Extract 154 tag sets from document content",
   "author": "cwcorella-git",
-  "date": "2026-01-16 19:46:42 -0800",
+  "date": "2026-01-16 19:48:09 -0800",
   "branch": "main",
-  "buildTime": "2026-01-17T03:47:17.126Z"
+  "buildTime": "2026-01-17T03:55:30.613Z"
 }

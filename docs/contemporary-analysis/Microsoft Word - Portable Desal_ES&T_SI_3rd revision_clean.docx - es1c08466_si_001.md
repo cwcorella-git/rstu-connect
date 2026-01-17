@@ -1,6 +1,9 @@
 ---
 title: "Supporting Information"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Supporting Information

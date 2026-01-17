@@ -2,6 +2,9 @@
 title: "Anonymous"
 date: 2001
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Anonymous**

@@ -1,6 +1,9 @@
 ---
 title: "FRAGILITY"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # FRAGILITY

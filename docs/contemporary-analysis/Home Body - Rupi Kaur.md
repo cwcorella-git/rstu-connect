@@ -1,7 +1,9 @@
 ---
 title: "Home body rupi kaur"
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

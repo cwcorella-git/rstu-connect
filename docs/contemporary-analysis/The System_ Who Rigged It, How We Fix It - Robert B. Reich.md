@@ -3,6 +3,9 @@ title: "THE SYSTEM"
 author: "Robert B. Reich"
 date: 2020
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # THE SYSTEM

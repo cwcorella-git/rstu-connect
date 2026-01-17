@@ -1,6 +1,9 @@
 ---
 title: "CHAPTER 1 PROLOGUE: VALUES AND PERSPECTIVES"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 SNAOW YLLAM TI WOH ERIK OF LOCERS AND TO FER SOLL BOCKERS

@@ -1,6 +1,9 @@
 ---
 title: "CONTACT"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # CONTACT

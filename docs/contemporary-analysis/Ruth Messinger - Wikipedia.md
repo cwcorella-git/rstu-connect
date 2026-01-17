@@ -2,6 +2,10 @@
 title: "Ruth Messinger"
 date: 1990
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

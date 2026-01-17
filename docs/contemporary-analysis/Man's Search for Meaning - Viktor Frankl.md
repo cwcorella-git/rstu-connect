@@ -2,6 +2,9 @@
 title: "MAN'S SEARCH FOR MEANING VIKTOR E. FRANKL"
 date: 1946
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # MAN'S SEARCH FOR MEANING VIKTOR E. FRANKL

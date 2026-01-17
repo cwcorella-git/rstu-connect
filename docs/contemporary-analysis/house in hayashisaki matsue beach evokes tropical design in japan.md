@@ -4,7 +4,9 @@ date: 1999
   akio isshiki's house evokes tropical design on japan's hayashisaki matsue
   beach
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [designboom.com](https://www.designboom.com/architecture/house-hayashisaki-akio-isshiki-architects-matsue-beach-japan-06-20-2023/)

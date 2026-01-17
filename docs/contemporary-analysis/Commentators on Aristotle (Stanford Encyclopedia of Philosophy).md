@@ -2,7 +2,9 @@
 title: Stanford Encyclopedia of Philosophy
 date: 2005
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 # [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)

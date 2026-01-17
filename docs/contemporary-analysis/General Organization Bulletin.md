@@ -1,6 +1,10 @@
 ---
 title: "General Organization Bulletin"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **General Organization Bulletin**

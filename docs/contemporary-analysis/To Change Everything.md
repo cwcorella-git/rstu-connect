@@ -1,6 +1,9 @@
 ---
 title: "Crimeth Inc."
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Crimeth Inc.**

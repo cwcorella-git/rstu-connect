@@ -3,6 +3,9 @@ title: "Gramsci and Geography"
 author: "Joseph A. Buttigieg"
 date: 1986
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_4.jpeg)

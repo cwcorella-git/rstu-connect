@@ -2,6 +2,10 @@
 title: "Civilian-Based Resistance in the Baltic States"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - resistance
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

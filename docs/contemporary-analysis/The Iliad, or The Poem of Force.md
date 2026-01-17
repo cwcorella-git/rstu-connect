@@ -1,6 +1,9 @@
 ---
 title: "Simone Weil"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Simone Weil**

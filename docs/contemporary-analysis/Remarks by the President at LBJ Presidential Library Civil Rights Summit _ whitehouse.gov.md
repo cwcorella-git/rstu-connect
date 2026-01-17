@@ -1,7 +1,9 @@
 ---
 title: "Obamawhitehouse.archives.gov"
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [obamawhitehouse.archives.gov](https://obamawhitehouse.archives.gov/the-press-office/2014/04/10/remarks-president-lbj-presidential-library-civil-rights-summit)

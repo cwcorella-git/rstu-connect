@@ -2,6 +2,10 @@
 title: "Confederate States of America"
 date: 1861
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Confederate_States_of_America)

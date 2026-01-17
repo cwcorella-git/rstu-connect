@@ -2,6 +2,10 @@
 title: "Bethann Hardison"
 date: 1942
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ### [en.wikipedia.org](https://en.wikipedia.org/wiki/Bethann_Hardison)

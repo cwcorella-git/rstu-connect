@@ -1,6 +1,9 @@
 ---
 title: "The Falcon has landed in the Hugging Face ecosystem"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [huggingface.co](https://huggingface.co/blog/falcon)

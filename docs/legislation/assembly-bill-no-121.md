@@ -4,8 +4,10 @@ author: Assembly Bill No
 date: '2023'
 category: legislation
 tags:
-- legislation
-- Nevada
+  - legislation
+  - policy
+  - law
+  - Nevada
 ---
 # assembly-bill-no-121
 Assembly Bill No. 121–Assemblywomen Considine, Anderson,

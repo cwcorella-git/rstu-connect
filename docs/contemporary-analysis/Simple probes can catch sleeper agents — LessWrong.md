@@ -1,7 +1,9 @@
 ---
 title: Simple probes can catch sleeper agents
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 # [Simple probes can](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1) [catch sleeper](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1) [agents](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1)

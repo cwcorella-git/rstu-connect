@@ -2,6 +2,10 @@
 title: "Criticism of the Quran"
 date: 1987
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Criticism_of_the_Quran)

@@ -4,6 +4,8 @@ author: Eric Klinenberg
 date: '2018'
 category: organizing
 tags:
+  - organizing
+  - direct-action
 - organizing
 ---
 # Palaces for the People_ How Social Infrast - Eric Klinenberg

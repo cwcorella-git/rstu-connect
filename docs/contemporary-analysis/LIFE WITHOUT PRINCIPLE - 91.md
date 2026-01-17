@@ -2,6 +2,9 @@
 title: "Table of Contents"
 date: 2001
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Henry David Thoreau

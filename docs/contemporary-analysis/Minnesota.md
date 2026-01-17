@@ -2,6 +2,10 @@
 title: "Minnesota"
 date: 1858
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

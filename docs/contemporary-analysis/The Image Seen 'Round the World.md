@@ -2,6 +2,9 @@
 title: "The Image Seen 'Round the World"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **The Image Seen 'Round the World**

@@ -1,6 +1,10 @@
 ---
 title: "In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov**

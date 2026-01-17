@@ -1,6 +1,9 @@
 ---
 title: "Henry David Thoreau"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Henry David Thoreau

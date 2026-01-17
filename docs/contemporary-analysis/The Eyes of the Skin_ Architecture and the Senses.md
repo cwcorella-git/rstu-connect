@@ -2,6 +2,9 @@
 title: "PALLASMAA THE SENSES"
 date: 1959
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **PALLASMAA** THE SENSES

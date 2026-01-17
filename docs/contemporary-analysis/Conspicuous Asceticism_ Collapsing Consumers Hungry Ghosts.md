@@ -2,6 +2,9 @@
 title: "CONSPICUOUS ASCETICISM: COLLAPSING CONSUMERS' HUNGRY GHOSTS"
 date: 2022
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### University of T ersity of Texas Rio Gr exas Rio Grande Valley

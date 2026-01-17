@@ -1,6 +1,9 @@
 ---
 title: "Episode 23: Romanticism/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 23: Romanticism/**

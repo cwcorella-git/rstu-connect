@@ -4,7 +4,9 @@ date: 2025
   Emotional intelligence in action: theoretical models for educators to enhance
   learning and connection in the classroom: a conceptual review
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

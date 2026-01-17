@@ -2,6 +2,9 @@
 title: "Make it stick"
 date: 2014
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # make it stick

@@ -3,6 +3,8 @@ title: "App Governance System"
 author: "RSTU Connect"
 date: 2026
 category: governance
+tags:
+  - wikipedia
 ---
 
 # App Governance System

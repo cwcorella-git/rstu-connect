@@ -5,8 +5,10 @@ author: Employee Rights Under
 date: '2022'
 category: labor
 tags:
-- labor
-- Spain
+  - labor
+  - workers
+  - unions
+  - Spain
 ---
 
 DERECHOS           DE   LOS     EMPLEADOS

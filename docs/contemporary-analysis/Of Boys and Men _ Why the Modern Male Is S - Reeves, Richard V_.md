@@ -2,7 +2,9 @@
 title: "And What To Do About It"
 date: 2022
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 Why the Modern Male is Struggling,

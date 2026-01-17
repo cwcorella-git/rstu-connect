@@ -1,6 +1,9 @@
 ---
 title: "Hyper Dream Booth: Hyper Networks for Fast Personalization of Text-to-Image Models"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Hyper Dream Booth: Hyper Networks for Fast Personalization of Text-to-Image Models

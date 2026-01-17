@@ -1,7 +1,9 @@
 ---
 title: The Myth of Non-Reformist Reforms
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [blackrosefed.org](https://www.blackrosefed.org/myth-non-reformist-reforms/)

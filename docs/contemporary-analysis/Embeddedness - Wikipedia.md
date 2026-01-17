@@ -2,6 +2,10 @@
 title: "Embeddedness"
 date: 1989
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 # Embeddedness

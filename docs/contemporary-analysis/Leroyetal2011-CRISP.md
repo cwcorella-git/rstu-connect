@@ -2,6 +2,9 @@
 title: "SOCIAL AFFILIATION AS A WAY TO SOCIALLY REGULATE EMOTIONS: EFFECTS OF OTHERS' SITUATIONAL AND EMOTIONAL SIMILARITIES"
 date: 1959
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 Submitted: August 20, 2010 First Revision: October 21, 2010 Accepted: December1, 2010

@@ -1,6 +1,9 @@
 ---
 title: "Episode 43: Wisdom And Virtue/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 43: Wisdom And Virtue/**

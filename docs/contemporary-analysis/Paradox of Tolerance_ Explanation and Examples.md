@@ -1,6 +1,9 @@
 ---
 title: "Philosophy Terms Search for a term Enter"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # [Philosophy Terms](https://philosophyterms.com/) Search for a term **Enter**

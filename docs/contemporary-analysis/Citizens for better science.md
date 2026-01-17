@@ -2,6 +2,10 @@
 title: "Citizens for better science"
 date: 1971
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Citizens for better science**

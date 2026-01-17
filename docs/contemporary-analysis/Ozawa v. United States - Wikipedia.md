@@ -2,6 +2,10 @@
 title: "Ozawa v. United States"
 date: 1922
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ozawa_v._United_States)

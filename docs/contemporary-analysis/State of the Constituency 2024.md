@@ -2,6 +2,9 @@
 title: "State of the Constituency 2024"
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **State of the Constituency 2024**

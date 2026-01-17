@@ -2,6 +2,9 @@
 title: "All Rise"
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### ICNC MONOGRAPH SERIES

@@ -2,6 +2,9 @@
 title: "An Ambiguous Paradise Built in Hell"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **An Ambiguous Paradise Built in Hell**

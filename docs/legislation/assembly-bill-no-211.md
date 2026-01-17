@@ -4,8 +4,10 @@ author: Assembly Bill No
 date: '2025'
 category: legislation
 tags:
-- legislation
-- Nevada
+  - legislation
+  - policy
+  - law
+  - Nevada
 ---
 # assembly-bill-no-211
 Assembly Bill No. 211–Assemblymember Considine

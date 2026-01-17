@@ -1,6 +1,9 @@
 ---
 title: "Drugs are fucking everywhere (and we're all addicted to comfort)."
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [threadings.io](https://www.threadings.io/drugs-are-fucking-everywhere-and/)

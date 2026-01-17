@@ -2,6 +2,9 @@
 title: "Castle Rock v. Gonzales - Amicus (Merits)"
 date: 1976
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 #### [justice.gov](https://www.justice.gov/osg/brief/castle-rock-v-gonzales-amicus-merits)

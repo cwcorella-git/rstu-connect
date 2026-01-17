@@ -2,6 +2,9 @@
 title: "Writing Dialogue And Character Voice With Jeff Elkins"
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [thecreativepenn.com](https://www.thecreativepenn.com/2021/04/05/dialogue-character-voice/)

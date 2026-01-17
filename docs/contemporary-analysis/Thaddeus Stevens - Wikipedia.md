@@ -2,6 +2,10 @@
 title: "Thaddeus Stevens"
 date: 1814
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Thaddeus_Stevens)

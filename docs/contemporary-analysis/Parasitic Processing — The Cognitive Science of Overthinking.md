@@ -2,6 +2,9 @@
 title: "Parasitic Processing — The Cognitive Science of Overthinking"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [dismantledmind.com](https://dismantledmind.com/parasitic-processing/)

@@ -4,6 +4,9 @@ author: Peter Kropotkin
 date: '1880'
 category: theory
 tags:
+  - theory
+  - political-theory
+  - peter-kropotkin
 - theory
 ---
 # An Appeal to the Young

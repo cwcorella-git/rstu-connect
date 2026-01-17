@@ -2,6 +2,10 @@
 title: "Stories - Harpers Ferry National Historical Park (U. S. National Park Service)"
 date: 1881
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - history
 ---
 
 [nps.gov](https://www.nps.gov/hafe/learn/historyculture/stories.htm)

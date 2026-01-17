@@ -2,6 +2,9 @@
 title: "Notes on the Moment (02 Feb 2025)"
 date: 2025
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Notes on the Moment (02 Feb 2025)**

@@ -2,6 +2,10 @@
 title: "Standpoint theory"
 date: 1989
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Standpoint_theory)

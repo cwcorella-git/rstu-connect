@@ -2,6 +2,10 @@
 title: "Ranked-choice voting in the United States"
 date: 2019
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ranked-choice_voting_in_the_United_States)

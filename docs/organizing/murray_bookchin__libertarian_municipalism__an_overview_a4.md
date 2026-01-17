@@ -4,9 +4,12 @@ author: Murray Bookchin
 date: '2025'
 category: organizing
 tags:
-- municipalism
-- urban
-- Bookchin
+  - organizing
+  - direct-action
+  - murray-bookchin
+  - municipalism
+  - urban
+  - Bookchin
 ---
 # Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4
 Libertarian Municipalism: An Overview

@@ -2,6 +2,9 @@
 title: "IMPORTANT . PLEASE READ"
 date: 2000
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 THE PROSPECTIVE THIRD GAME IN AMERICAN MCGEE'S ALICE SERIES

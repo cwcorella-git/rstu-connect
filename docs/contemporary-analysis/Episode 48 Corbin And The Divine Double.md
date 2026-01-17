@@ -2,6 +2,9 @@
 title: "Episode 48: Corbin And The Divine Double/"
 date: 1961
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 48: Corbin And The Divine Double/**

@@ -2,6 +2,9 @@
 title: "UvA-DARE (Digital Academic Repository)"
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

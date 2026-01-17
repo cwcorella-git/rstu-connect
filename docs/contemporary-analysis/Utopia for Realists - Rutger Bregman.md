@@ -2,6 +2,9 @@
 title: "UTOPIA FOR REALISTS"
 date: 2014
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

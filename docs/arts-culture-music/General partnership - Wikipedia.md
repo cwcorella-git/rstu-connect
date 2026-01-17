@@ -2,7 +2,10 @@
 title: "General Partnership Wikipedia"
 date: 2003
 category: arts-culture-music
-tags: []
+tags:
+  - arts
+  - culture
+  - wikipedia
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/General_partnership)

@@ -2,6 +2,9 @@
 title: "Criminal Justice Fact Sheet"
 date: 1986
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [naacp.org](https://naacp.org/resources/criminal-justice-fact-sheet)

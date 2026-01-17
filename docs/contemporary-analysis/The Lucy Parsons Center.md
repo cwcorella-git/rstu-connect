@@ -3,6 +3,9 @@ title: "The Lucy Parsons Center"
 author: "James Herod"
 date: 1999
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## James Herod

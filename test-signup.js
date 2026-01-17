@@ -25,14 +25,9 @@ const { chromium } = require('playwright');
   await page.goto('http://localhost:3000/rstu-connect/');
   await page.waitForLoadState('networkidle');
 
-  // Check if Supabase is configured
-  const supabaseConfigured = await page.evaluate(() => {
-    // @ts-ignore
-    return !!window.__NEXT_DATA__?.props?.pageProps?.supabaseUrl ||
-           !!localStorage.getItem('supabase.auth.token') ||
-           !!process.env.NEXT_PUBLIC_SUPABASE_URL;
-  });
-  console.log(`Supabase appears configured: ${supabaseConfigured}`);
+  // Check if Supabase is configured (based on environment variable presence)
+  const hasSupabaseUrl = !!process.env.NEXT_PUBLIC_SUPABASE_URL;
+  console.log(`Supabase env vars set: ${hasSupabaseUrl}`);
 
   // Create an admin profile with invite code in localStorage
   // This simulates an admin who already created an invite
@@ -100,8 +95,21 @@ const { chromium } = require('playwright');
   console.log('Screenshot: signup-1-initial.png');
 
   // Check if we see the onboarding wizard
-  const wizardVisible = await page.locator('text=Welcome').first().isVisible().catch(() => false);
+  let wizardVisible = await page.locator('text=Welcome').first().isVisible().catch(() => false);
   console.log(`Onboarding wizard visible: ${wizardVisible}`);
+
+  // If wizard not visible, try clicking Profile tab
+  if (!wizardVisible) {
+    const profileTab = page.locator('button:has-text("Profile"), [data-tab="profile"]').first();
+    if (await profileTab.isVisible().catch(() => false)) {
+      console.log('Clicking Profile tab...');
+      await profileTab.click();
+      await page.waitForTimeout(1000);
+      await page.screenshot({ path: 'signup-1b-after-profile-click.png', fullPage: true });
+      wizardVisible = await page.locator('text=Welcome').first().isVisible().catch(() => false);
+      console.log(`Onboarding wizard visible after Profile click: ${wizardVisible}`);
+    }
+  }
 
   // Find the invite code input
   const inviteInput = page.locator('input[placeholder*="invite"]').first();
@@ -155,8 +163,21 @@ const { chromium } = require('playwright');
         }
 
         if (!isValidating || successVisible || errorVisible) {
+          // Wait a bit more for React state to propagate
+          await page.waitForTimeout(500);
+
+          // Re-check Next button after waiting
+          const nextButtonFinal = page.locator('button:has-text("Next"), button:has-text("Continue")').first();
+          const nextEnabledFinal = await nextButtonFinal.isEnabled().catch(() => false);
+          console.log(`[${elapsed}s] After wait - NextEnabled: ${nextEnabledFinal}`);
+
           await page.screenshot({ path: `signup-2-after-check-${elapsed}s.png`, fullPage: true });
           console.log(`Screenshot: signup-2-after-check-${elapsed}s.png`);
+
+          if (successVisible && !nextEnabledFinal) {
+            console.log('\n>>> BUG: Invite validated successfully but Next button is still disabled!');
+            console.log('>>> This is likely a React state propagation issue.');
+          }
           break;
         }
 

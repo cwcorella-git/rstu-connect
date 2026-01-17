@@ -2,6 +2,9 @@
 title: "Social Functions of Emotion and Emotion Regulation"
 date: 2012
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [Social Functions of Emotion and Emotion Regulation](https://www.researchgate.net/publication/325404608_Social_Functions_of_Emotion_and_Emotion_Regulation?enrich Id=rgreq-e23ed377664b1d836381568df1272b77-XXX&enrich Source=Y292ZXJQYWdl OzMyNTQwNDYwODtBUzo2Mz EzMjg1NTQ5MDE1MDVAMTUy NzUzMTg2NTE5Ng%3D%3D&el=1_x_3&_esc=publication Cover Pdf)

@@ -2,6 +2,9 @@
 title: "F. A. Hayek"
 date: 1988
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

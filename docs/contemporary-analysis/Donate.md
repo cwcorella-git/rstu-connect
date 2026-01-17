@@ -1,6 +1,10 @@
 ---
 title: "Donate"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Donate**

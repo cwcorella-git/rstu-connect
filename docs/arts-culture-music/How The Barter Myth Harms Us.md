@@ -1,6 +1,9 @@
 ---
 title: "It arises fairly frequently within barter systems because you can't always find"
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 0:00 Back when I was in school, in my social studies class, I learned that prior to the invention 0:04 of money, people had to barter for everything they needed from anyone else. 0:09 In a barter system, value is determined by negotiation and mutual agreement, not market 0:17 price. 0:18 So people negotiate with each other to trade goods and services they can offer with goods 0:23 and services they desire. 0:25 So for example, let's say I have baskets pon baskets of mangoes and I'm tryna get 0:29 rid of them because I prefer pineapples. 0:31 And let's say one of my neighbours, we'll call them Patsy, has a goat and my other neighbour, 0:37 Boyo, has a field of pineapples. 0:40 Boyo doh like mangoes, but he does want a goat for a goat race, and Patsy tired taking 0:45 care of this goat, so she ready to give away the goat in exchange for some mangoes. 0:49 Easy solution, I give Patsy my mangoes, I get Patsy's goat, and I give Patsy's goat 0:55 to Boyo in exchange for his pineapples. 0:58 That's the ideal barter system scenario, but it gets messy the moment you introduce 1:03 more than one trade scenario into the equation. 1:07 What if Boyo didn't want the goat, what if he wanted a cow? 1:10 What if Patsy was allergic to mangoes? 1:12 What if none of my neighbours had pineapples and my mangoes just rotted away cuz I couldn't 1:16 trade them for anything I wanted? 1:18 That tricky scenario is known as the double coincidence of wants problem, which is when 1:24 two parties each have a good or service that the other party wants, but they are unable 1:30 to trade because they each desire something different from what the other has to offer.

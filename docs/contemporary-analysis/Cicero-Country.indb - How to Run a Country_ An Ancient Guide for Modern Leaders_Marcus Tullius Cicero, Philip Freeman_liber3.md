@@ -2,7 +2,9 @@
 title: An Ancient Guide for Modern Leaders
 date: 2013
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

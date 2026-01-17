@@ -6,9 +6,9 @@ author: Unknown
 date: '2025'
 category: misc
 tags:
-- urban
-- legislation
-- Nevada
+  - urban
+  - legislation
+  - Nevada
 ---
 
 Budget Negotiations Continue as

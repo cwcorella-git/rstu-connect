@@ -2,6 +2,10 @@
 title: "There Is No Revolution without Madness."
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 ## **There Is No Revolution without Madness.**

@@ -2,6 +2,9 @@
 title: "Paul Krugman's Sorry Salvation"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Paul Krugman's Sorry Salvation**

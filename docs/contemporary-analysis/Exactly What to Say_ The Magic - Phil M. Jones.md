@@ -3,6 +3,9 @@ title: "Phil M Jones"
 author: "Phil M Jones"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 "This is the dictionary of business success language.

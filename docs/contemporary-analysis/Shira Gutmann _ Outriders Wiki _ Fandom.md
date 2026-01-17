@@ -1,6 +1,9 @@
 ---
 title: "Shira Gutmann"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [outriders.fandom.com](https://outriders.fandom.com/wiki/Shira_Gutmann)

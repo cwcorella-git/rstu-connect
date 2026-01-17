@@ -1,6 +1,9 @@
 ---
 title: "MEMORIAL AND REMONSTRANCE AGAINST RELIGIOUS ASSESSMENTS, BY JAMES MADISON, 1785"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **MEMORIAL AND REMONSTRANCE AGAINST RELIGIOUS ASSESSMENTS, BY JAMES MADISON, 1785**

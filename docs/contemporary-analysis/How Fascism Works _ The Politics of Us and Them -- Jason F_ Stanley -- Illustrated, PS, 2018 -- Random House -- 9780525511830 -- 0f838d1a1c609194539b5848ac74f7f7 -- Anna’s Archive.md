@@ -3,6 +3,9 @@ title: "HOW FASCISM WORKS"
 author: "Jason Stanley"
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # HOW FASCISM WORKS

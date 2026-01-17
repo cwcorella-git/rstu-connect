@@ -1,6 +1,10 @@
 ---
 title: "After the Revolution"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 ## Anark

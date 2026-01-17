@@ -3,6 +3,9 @@ title: "LBJ Fights the White Backlash"
 author: "Jeremy D. Mayer"
 date: 2001
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [archives.gov](https://www.archives.gov/publications/prologue/2001/spring/lbj-and-white-backlash-1)

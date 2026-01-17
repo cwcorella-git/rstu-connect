@@ -1,6 +1,9 @@
 ---
 title: "METAPHYSICS BOOK I"
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 # **METAPHYSICS BOOK I**

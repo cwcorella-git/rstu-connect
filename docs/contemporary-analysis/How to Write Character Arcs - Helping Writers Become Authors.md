@@ -1,6 +1,9 @@
 ---
 title: "How to Write Character Arcs"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [helpingwritersbecomeauthors.com](https://www.helpingwritersbecomeauthors.com/write-character-arcs/)

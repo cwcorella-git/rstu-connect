@@ -2,6 +2,10 @@
 title: "Sumak kawsay"
 date: 2011
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Sumak_kawsay)

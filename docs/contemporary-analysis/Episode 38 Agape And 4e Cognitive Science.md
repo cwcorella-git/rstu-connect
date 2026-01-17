@@ -2,6 +2,9 @@
 title: "Episode 38: Agape And 4e Cognitive Science/"
 date: 2000
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 38: Agape And 4e Cognitive Science/**

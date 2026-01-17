@@ -4,7 +4,9 @@ date: 2020
   If I Had My Way I'd Tear The Building Down: Political Economy, Regional
   History, and Landscape Transformations in Greater New Orleans
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_1.jpeg)

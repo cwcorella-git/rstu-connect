@@ -2,6 +2,9 @@
 title: "What Games Are"
 date: 1987
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 The Wayback Machine - https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/2011/01/you-need-a-marketing-story-mar…

@@ -2,6 +2,9 @@
 title: "Albert Libertad"
 date: 1906
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Albert Libertad**

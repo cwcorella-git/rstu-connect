@@ -4,6 +4,9 @@ author: "Socialism
 date: 1983
 Te"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Bolo'bolo

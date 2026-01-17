@@ -2,6 +2,9 @@
 title: "Episode 29: Getting To The Depths Of Relevance Realization/"
 date: 2013
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 29: Getting To The Depths Of Relevance Realization/**

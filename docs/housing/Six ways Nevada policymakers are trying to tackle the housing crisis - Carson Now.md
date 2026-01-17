@@ -6,8 +6,9 @@ author: Carson Now
 date: '2025'
 category: housing
 tags:
-- housing
-- Nevada
+  - housing
+  - tenants-rights
+  - Nevada
 ---
 
 by

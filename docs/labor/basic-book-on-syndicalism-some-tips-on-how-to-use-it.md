@@ -4,6 +4,10 @@ author: Erik Bonk on Syndikalisten's
 date: '2025'
 category: labor
 tags:
+  - labor
+  - workers
+  - unions
+  - syndicalism
 - syndicalism
 - labor
 - unions

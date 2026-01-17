@@ -1,6 +1,9 @@
 ---
 title: "BLOOD, SWEAT, AND PIXELS"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

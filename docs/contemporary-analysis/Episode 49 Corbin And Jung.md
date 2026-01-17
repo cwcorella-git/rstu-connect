@@ -1,6 +1,9 @@
 ---
 title: "Episode 49: Corbin And Jung/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 49: Corbin And Jung/**

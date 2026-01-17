@@ -2,6 +2,9 @@
 title: "MEDIA GUIDE OLYMPIC GAMES TOKYO 2020"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

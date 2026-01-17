@@ -2,7 +2,9 @@
 title: 'Obituary: Albert Ellis'
 date: 1913
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [theguardian.com](https://www.theguardian.com/news/2007/aug/11/guardianobituaries.usa)

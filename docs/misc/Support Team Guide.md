@@ -3,6 +3,9 @@ title: "Support Team Guide"
 author: "Unknown"
 date: "2025"
 category: "misc"
+tags:
+  - rstu
+  - organizing
 ---
 # Support Team Guide
 🌱 Want to Support a Community Garden? Here's How to

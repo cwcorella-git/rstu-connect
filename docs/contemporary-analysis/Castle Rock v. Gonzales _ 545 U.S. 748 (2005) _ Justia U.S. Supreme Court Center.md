@@ -2,7 +2,9 @@
 title: "Supreme.justia.com"
 date: 2005
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [supreme.justia.com](https://supreme.justia.com/cases/federal/us/545/748/)

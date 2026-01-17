@@ -1,7 +1,9 @@
 ---
 title: Oppose (Confrontation)
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## 0:00

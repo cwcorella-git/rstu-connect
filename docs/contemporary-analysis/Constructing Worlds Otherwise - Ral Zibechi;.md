@@ -3,6 +3,9 @@ title: "Raúl Zibechi"
 author: "Charles V. Hamilton"
 date: 2006
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Raúl Zibechi

@@ -2,7 +2,9 @@
 title: Stanford Encyclopedia of Philosophy
 date: 2002
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

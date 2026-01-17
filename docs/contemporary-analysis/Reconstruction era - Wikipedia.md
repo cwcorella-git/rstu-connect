@@ -2,6 +2,10 @@
 title: "Reconstruction era"
 date: 1861
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

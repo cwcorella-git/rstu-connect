@@ -3,7 +3,9 @@ title: HACKSAW RIDGE
 author: "ROBERT SCHENKKAN"
 date: 2013
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## HACKSAW RIDGE

@@ -2,6 +2,9 @@
 title: "HOW TO WIN An election"
 date: 2012
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # HOW TO WIN An election

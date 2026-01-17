@@ -1,6 +1,9 @@
 ---
 title: "Understanding Emile Durkheim's \"Collective Consciousness\""
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [thoughtco.com](https://www.thoughtco.com/collective-consciousness-definition-3026118)

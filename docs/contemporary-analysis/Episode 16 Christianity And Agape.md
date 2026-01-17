@@ -2,6 +2,9 @@
 title: "Episode 16: Christianity And Agape/"
 date: 1957
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Episode 16: Christianity And Agape/**

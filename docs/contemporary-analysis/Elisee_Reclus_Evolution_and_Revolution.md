@@ -2,6 +2,10 @@
 title: "Evolution and Revolution"
 date: 1891
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 ## **Evolution and Revolution**

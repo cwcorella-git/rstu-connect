@@ -6,8 +6,8 @@ author: The Nevada Independent
 date: '2023'
 category: misc
 tags:
-- Nevada
-- legislation
+  - Nevada
+  - legislation
 ---
 
 Nevada Legislature 2025

@@ -1,6 +1,9 @@
 ---
 title: "PROLOGUE"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## CITIZEN KANE

@@ -2,6 +2,11 @@
 title: "Cultural Revolution"
 date: 1962
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
+  - wikipedia
+  - revolution
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Cultural_Revolution)

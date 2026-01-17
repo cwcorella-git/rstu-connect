@@ -6,9 +6,10 @@ author: Nevada Current
 date: '2025'
 category: housing
 tags:
-- Nevada
-- housing
-- tenants
+  - housing
+  - tenants-rights
+  - Nevada
+  - tenants
 ---
 
 

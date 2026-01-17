@@ -2,6 +2,10 @@
 title: "Revolutionary Love costs you something."
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 ## **Revolutionary Love costs you something.**

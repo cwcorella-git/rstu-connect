@@ -4,9 +4,12 @@ author: Wikipedia
 date: '2017'
 category: anti-war-peace
 tags:
-- riots
-- urban
-- New York
+  - anti-war
+  - peace
+  - wikipedia
+  - riots
+  - urban
+  - New York
 ---
 
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...

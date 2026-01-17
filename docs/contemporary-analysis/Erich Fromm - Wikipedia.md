@@ -2,6 +2,10 @@
 title: "Erich Fromm"
 date: 1947
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Erich_Fromm)

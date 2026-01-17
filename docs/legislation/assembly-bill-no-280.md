@@ -4,8 +4,10 @@ author: Assembly Bill No
 date: '2021'
 category: legislation
 tags:
-- legislation
-- Nevada
+  - legislation
+  - policy
+  - law
+  - Nevada
 ---
 # assembly-bill-no-280
 Assembly Bill No. 280–Assemblywomen Peters;

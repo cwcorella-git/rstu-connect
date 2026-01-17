@@ -4,8 +4,10 @@ author: Housing Advocacy Organization
 date: '2022'
 category: organizing
 tags:
-- tenants
-- housing
+  - organizing
+  - direct-action
+  - tenants
+  - housing
 ---
 
 Nevada Landlord-Tenant Law

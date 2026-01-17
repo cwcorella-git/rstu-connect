@@ -2,6 +2,10 @@
 title: "Zohran Mamdani"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

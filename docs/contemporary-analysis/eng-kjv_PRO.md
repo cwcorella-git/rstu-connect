@@ -1,6 +1,10 @@
 ---
 title: "Eng kjv PRO"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### The Proverbs

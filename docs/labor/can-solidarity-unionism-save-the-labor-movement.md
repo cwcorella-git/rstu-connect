@@ -4,6 +4,10 @@ author: Eric Dirnbach -
 date: '2015'
 category: labor
 tags:
+  - labor
+  - workers
+  - unions
+  - solidarity
 - solidarity
 - labor
 ---

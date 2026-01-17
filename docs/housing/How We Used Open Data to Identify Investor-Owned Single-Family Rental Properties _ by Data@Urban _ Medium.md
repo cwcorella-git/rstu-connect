@@ -6,9 +6,10 @@ author: Housing Advocacy Organization
 date: '2025'
 category: housing
 tags:
-- urban
-- housing
-- tenants
+  - housing
+  - tenants-rights
+  - urban
+  - tenants
 ---
 
 Open in app                                                                              Sign up   Sign in

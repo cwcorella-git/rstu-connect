@@ -1,6 +1,9 @@
 ---
 title: "THINKING AHEAD:"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # THINKING AHEAD:

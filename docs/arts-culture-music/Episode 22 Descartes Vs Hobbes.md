@@ -1,6 +1,9 @@
 ---
 title: "Episode 22: Descartes Vs Hobbes/"
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 # **Episode 22: Descartes Vs Hobbes/**

@@ -1,6 +1,9 @@
 ---
 title: "OUTSTANDING ORIGINAL SCREENPLAY"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # OUTSTANDING ORIGINAL SCREENPLAY

@@ -3,6 +3,9 @@ title: "Proposed-bylaws-to-review-at-2-21-meeting.pdf"
 author: "Proposed Bylaws To"
 date: "2025"
 category: "misc"
+tags:
+  - rstu
+  - organizing
 ---
 # proposed-bylaws-to-review-at-2-21-meeting.pdf
 Proposed Bylaws (2/21 Meeting)

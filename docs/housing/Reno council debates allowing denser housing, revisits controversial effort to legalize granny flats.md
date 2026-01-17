@@ -6,8 +6,9 @@ author: Housing Advocacy Organization
 date: '2025'
 category: housing
 tags:
-- housing
-- Nevada
+  - housing
+  - tenants-rights
+  - Nevada
 ---
 
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...

@@ -2,6 +2,9 @@
 title: "From the Hills to the Streets to the Table"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # From the Hills to the Streets to the Table

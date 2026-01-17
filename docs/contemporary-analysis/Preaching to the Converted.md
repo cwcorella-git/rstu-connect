@@ -1,6 +1,10 @@
 ---
 title: "Preaching to the Converted?"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Preaching to the Converted?**

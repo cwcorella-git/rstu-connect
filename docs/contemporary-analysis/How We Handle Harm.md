@@ -1,6 +1,9 @@
 ---
 title: "Punch Up * Kick Down Distro How We Handle Harm"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Punch Up \* Kick Down Distro How We Handle Harm**

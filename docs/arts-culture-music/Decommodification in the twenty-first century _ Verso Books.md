@@ -2,7 +2,9 @@
 title: Decommodification in the twentyfirst century
 date: 1947
 category: arts-culture-music
-tags: []
+tags:
+  - arts
+  - culture
 ---
 
 ## [versobooks.com](https://www.versobooks.com/blogs/news/5001-decommodification-in-the-twenty-first-century)

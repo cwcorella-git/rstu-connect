@@ -1,6 +1,9 @@
 ---
 title: "Episode 39: The Religion Of No Religion/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 39: The Religion Of No Religion/**

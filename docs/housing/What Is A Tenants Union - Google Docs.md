@@ -4,6 +4,10 @@ author: Google Docs
 date: '2025'
 category: housing
 tags:
+  - housing
+  - tenants-rights
+  - unions
+  - tenants
 - tenants
 - unions
 ---

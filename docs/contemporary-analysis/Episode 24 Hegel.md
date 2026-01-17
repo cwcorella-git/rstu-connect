@@ -1,6 +1,9 @@
 ---
 title: "Episode 24: Hegel/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Episode 24: Hegel/**

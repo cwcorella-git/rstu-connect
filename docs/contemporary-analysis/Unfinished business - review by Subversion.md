@@ -1,6 +1,10 @@
 ---
 title: "Unfinished business - review by Subversion"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Unfinished business - review by Subversion**

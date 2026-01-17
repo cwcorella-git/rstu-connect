@@ -2,7 +2,10 @@
 title: "The American Scholar Wikipedia"
 date: 1989
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/The_American_Scholar)

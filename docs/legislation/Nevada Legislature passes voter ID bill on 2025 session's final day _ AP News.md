@@ -4,8 +4,8 @@ author: AP News
 date: '2023'
 category: misc
 tags:
-- Nevada
-- legislation
+  - Nevada
+  - legislation
 ---
 
 LIVE:             FBI ofﬁcials ousted           Intel stock tumbles           United Airlines            Chikungunya virus

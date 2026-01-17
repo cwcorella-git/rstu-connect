@@ -2,6 +2,10 @@
 title: "Webb Miller (journalist)"
 date: 1918
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Webb_Miller_(journalist))

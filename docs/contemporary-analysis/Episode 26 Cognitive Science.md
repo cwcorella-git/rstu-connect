@@ -1,6 +1,9 @@
 ---
 title: "Episode 26: Cognitive Science/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 26: Cognitive Science/**

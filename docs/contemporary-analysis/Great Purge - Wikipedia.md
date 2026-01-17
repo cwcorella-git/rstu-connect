@@ -2,6 +2,10 @@
 title: "Great Purge"
 date: 1936
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

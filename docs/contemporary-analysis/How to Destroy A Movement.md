@@ -1,6 +1,9 @@
 ---
 title: "We live in a society."
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 0:00

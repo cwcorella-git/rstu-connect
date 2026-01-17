@@ -2,6 +2,10 @@
 title: "ERASING HISTORY"
 date: 1906
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - history
 ---
 
 # ERASING HISTORY

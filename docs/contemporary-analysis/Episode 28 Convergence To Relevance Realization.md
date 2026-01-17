@@ -1,6 +1,9 @@
 ---
 title: "Episode 28: Convergence To Relevance Realization/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Episode 28: Convergence To Relevance Realization/**

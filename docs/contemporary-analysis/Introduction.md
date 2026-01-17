@@ -2,6 +2,10 @@
 title: "Introduction"
 date: 1985
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Introduction**

@@ -1,7 +1,9 @@
 ---
 title: NATIONAL BESTSELLER
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## NATIONAL BESTSELLER

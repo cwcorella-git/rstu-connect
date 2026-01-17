@@ -2,6 +2,9 @@
 title: "Aqotp: how to take breaks at the end of the world"
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **aqotp: how to take breaks at the end of the world**

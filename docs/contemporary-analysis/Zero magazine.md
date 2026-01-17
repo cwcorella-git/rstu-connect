@@ -1,6 +1,10 @@
 ---
 title: "Zero magazine"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Zero magazine**

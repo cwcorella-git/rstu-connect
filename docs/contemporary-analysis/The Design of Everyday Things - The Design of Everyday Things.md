@@ -1,6 +1,10 @@
 ---
 title: "THE DESIGN OF EVERYDAY THINGS"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Figure_1.jpeg)

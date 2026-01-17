@@ -1,7 +1,9 @@
 ---
 title: Enoch Colonization Authority
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 [outriders.fandom.com](https://outriders.fandom.com/wiki/Enoch_Colonization_Authority)

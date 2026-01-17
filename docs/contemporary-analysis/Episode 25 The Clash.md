@@ -2,6 +2,9 @@
 title: "Episode 25: The Clash/"
 date: 1943
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 25: The Clash/**

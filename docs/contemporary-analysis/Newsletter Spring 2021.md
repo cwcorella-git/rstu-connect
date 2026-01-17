@@ -1,6 +1,9 @@
 ---
 title: "Komahskwema'a Naming Application"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_1.jpeg)

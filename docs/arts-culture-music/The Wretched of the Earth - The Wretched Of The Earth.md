@@ -3,6 +3,9 @@ title: "REGERED THE SARTE"
 author: "Homi K. Bhabha"
 date: 1963
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 A NEW TRANSLATION FROM THE FRENCH BY

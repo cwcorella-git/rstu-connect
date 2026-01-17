@@ -2,6 +2,10 @@
 title: "Kathleen Cleaver"
 date: 1998
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Kathleen_Cleaver)

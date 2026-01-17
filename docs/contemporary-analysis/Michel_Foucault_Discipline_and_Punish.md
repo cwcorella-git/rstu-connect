@@ -2,6 +2,9 @@
 title: "MICHE L FOUCAULT"
 date: 1977
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # MICHE L FOUCAULT

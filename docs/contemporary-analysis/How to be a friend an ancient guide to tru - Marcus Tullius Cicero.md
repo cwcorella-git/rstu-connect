@@ -1,6 +1,9 @@
 ---
 title: "HOW TO BE A FRIEND"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # HOW TO BE A FRIEND

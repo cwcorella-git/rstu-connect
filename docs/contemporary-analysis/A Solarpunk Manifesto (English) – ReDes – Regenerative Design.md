@@ -1,7 +1,9 @@
 ---
 title: A Solarpunk Manifesto (English) – Re Des – Regenerative Design
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 [re-des.org](https://www.re-des.org/es/a-solarpunk-manifesto/)

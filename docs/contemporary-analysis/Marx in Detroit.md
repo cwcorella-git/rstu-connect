@@ -2,6 +2,10 @@
 title: "Marx in Detroit"
 date: 1976
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Marx in Detroit**

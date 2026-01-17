@@ -2,6 +2,9 @@
 title: "There are a great many springtimes: notes on Bethann Hardison's Invisible Beauty"
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **There are a great many springtimes: notes on Bethann Hardison's Invisible Beauty**

@@ -2,6 +2,9 @@
 title: "WILL STORR"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 'A master storyteller'

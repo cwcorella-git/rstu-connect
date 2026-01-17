@@ -2,6 +2,9 @@
 title: "Bell hooks"
 date: 2001
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ### NATIONAL BESTSELLER

@@ -4,8 +4,10 @@ author: Google Docs
 date: '2025'
 category: housing
 tags:
-- tenants
-- Nevada
+  - housing
+  - tenants-rights
+  - tenants
+  - Nevada
 ---
 # Tenants Rights In Nevada - Google Docs
 Jump to zine draft →

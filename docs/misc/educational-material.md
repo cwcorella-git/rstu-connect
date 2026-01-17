@@ -4,6 +4,7 @@ author: Unknown
 date: '2025'
 category: misc
 tags:
+  - education
 - education
 ---
 

@@ -2,6 +2,9 @@
 title: "NATURE, CULTURE, AND INEQUALITY"
 date: 2022
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 # NATURE, CULTURE, AND INEQUALITY

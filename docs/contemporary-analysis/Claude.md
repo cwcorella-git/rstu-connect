@@ -1,6 +1,9 @@
 ---
 title: "Claude"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [claude.ai](https://claude.ai/chat/5a754f6d-3a52-4ad7-82c3-b04713d6e84c)

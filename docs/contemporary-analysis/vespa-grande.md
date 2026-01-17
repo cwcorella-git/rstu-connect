@@ -1,6 +1,9 @@
 ---
 title: "USE MAINTENANCE AND CONSUMER INFORMATION"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # USE MAINTENANCE AND CONSUMER INFORMATION

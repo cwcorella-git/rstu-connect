@@ -4,8 +4,11 @@ author: Nevada Legislature
 date: '2023'
 category: legislation
 tags:
-- tenants
-- Nevada
+  - legislation
+  - policy
+  - law
+  - tenants
+  - Nevada
 ---
 # Nevada Assembly Bill 223
 Assembly Bill No. 223–Assemblymembers Considine;

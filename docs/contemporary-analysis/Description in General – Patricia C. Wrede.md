@@ -2,7 +2,9 @@
 title: Description in General – Patricia C. Wrede
 date: 2025
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/description-in-general/)

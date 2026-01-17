@@ -1,6 +1,10 @@
 ---
 title: "Organise"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Organise**

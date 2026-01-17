@@ -2,6 +2,10 @@
 title: "Sam Fanto Samotnaf"
 date: 1997
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## **Sam Fanto Samotnaf**

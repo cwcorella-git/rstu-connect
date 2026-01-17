@@ -2,6 +2,9 @@
 title: "Franklin D Roosevelt Second Bill Of Rights"
 date: 2013
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [aboutfranklindroosevelt.com](https://www.aboutfranklindroosevelt.com/the-2nd-bill-of-rights/486/)

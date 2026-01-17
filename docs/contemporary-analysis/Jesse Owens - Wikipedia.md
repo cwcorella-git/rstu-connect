@@ -2,6 +2,10 @@
 title: "Jesse Owens"
 date: 1935
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Jesse_Owens)

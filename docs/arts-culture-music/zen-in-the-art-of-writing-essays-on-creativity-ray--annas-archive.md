@@ -2,7 +2,9 @@
 title: Z E N IN THE ART OF WRITIN G RAY BRADBURY
 date: 1994
 category: arts-culture-music
-tags: []
+tags:
+  - arts
+  - culture
 ---
 
 ears these words used. How rarely do we see people living.

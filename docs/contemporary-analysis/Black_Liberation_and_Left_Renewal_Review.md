@@ -3,6 +3,9 @@ title: "Black Liberation and Left Renewal"
 author: "JORDAN T. CAMP"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Black Liberation and Left Renewal

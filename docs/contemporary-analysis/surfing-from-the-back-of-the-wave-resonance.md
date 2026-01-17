@@ -2,6 +2,9 @@
 title: "What Games Are"
 date: 2011
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 The Wayback Machine - https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/2011/01/surfing-from-the-back-of-the-wa…

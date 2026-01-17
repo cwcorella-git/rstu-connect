@@ -1,6 +1,10 @@
 ---
 title: "Beyond the Bullshit: In A Galaxy Far, Far Away..."
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Beyond the Bullshit: In A Galaxy Far, Far Away...**

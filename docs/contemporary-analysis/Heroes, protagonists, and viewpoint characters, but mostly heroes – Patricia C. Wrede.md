@@ -4,7 +4,9 @@ date: 2025
   Heroes, protagonists, and viewpoint characters, but mostly heroes – Patricia
   C. Wrede
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/heroes-protagonists-and-viewpoint-characters-but-mostly-heroes/)

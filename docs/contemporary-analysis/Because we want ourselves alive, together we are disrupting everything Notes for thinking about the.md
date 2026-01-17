@@ -2,6 +2,10 @@
 title: "Because we want ourselves alive, together we are disrupting everything: Notes for thinking abou"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Because we want ourselves alive, together we are disrupting everything: Notes for thinking about the paths of social transformation today**

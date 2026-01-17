@@ -2,6 +2,9 @@
 title: "WHO GETS POWER AND HOW IT CHANGES US"
 date: 1965
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

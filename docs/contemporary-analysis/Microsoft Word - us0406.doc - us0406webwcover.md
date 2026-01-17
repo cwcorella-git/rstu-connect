@@ -2,6 +2,9 @@
 title: "So Long as They Die"
 date: 2003
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

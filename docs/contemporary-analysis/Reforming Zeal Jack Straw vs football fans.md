@@ -2,6 +2,10 @@
 title: "Reforming Zeal: Jack Straw vs football fans"
 date: 2001
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Reforming Zeal: Jack Straw vs football fans**

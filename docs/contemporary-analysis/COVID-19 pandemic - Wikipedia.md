@@ -1,6 +1,10 @@
 ---
 title: "COVID-19 pandemic"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 # **COVID-19 pandemic**

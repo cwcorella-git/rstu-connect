@@ -2,6 +2,9 @@
 title: "P. M."
 date: 1983
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **P. M.**

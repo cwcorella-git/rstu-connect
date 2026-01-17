@@ -2,6 +2,10 @@
 title: "THE STATE & REVOLUTION:"
 date: 1852
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 # THE STATE & REVOLUTION:

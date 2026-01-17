@@ -3,6 +3,9 @@ title: "JOSEPH CAMPBELL"
 author:
 date: 1988
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # JOSEPH CAMPBELL

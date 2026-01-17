@@ -2,6 +2,9 @@
 title: "What We Want"
 date: 1963
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## SNCC

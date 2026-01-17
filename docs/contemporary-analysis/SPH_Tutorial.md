@@ -1,6 +1,9 @@
 ---
 title: "Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids

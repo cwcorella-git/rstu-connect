@@ -4,9 +4,11 @@ author: Picking Fights
 date: '2025'
 category: organizing
 tags:
-- solidarity
-- organizing
-- Seattle
+  - organizing
+  - direct-action
+  - solidarity
+  - crimethinc
+  - Seattle
 ---
 # Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network
 In the following reflections, which were originally published throughCrimethinc, participants in the Seattle Solidarity Network share what they have learned in the course of 17 years of experimenting with tactics to fight against bosses and landlords.

@@ -2,6 +2,9 @@
 title: "September 23, 2024"
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## September 23, 2024

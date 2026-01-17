@@ -2,6 +2,9 @@
 title: "Copy of Answers to Devolver"
 date: 2025
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Copy of Answers to Devolver

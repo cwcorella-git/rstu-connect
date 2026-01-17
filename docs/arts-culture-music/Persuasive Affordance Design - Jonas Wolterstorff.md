@@ -1,6 +1,9 @@
 ---
 title: "TABLE 1: COMMON PSYCHOLOGICAL FACTORS LINKED TO GAMES (HA-"
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 ## Persuasive Affordance Design in "Mindful Meerkats"

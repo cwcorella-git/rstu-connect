@@ -1,6 +1,9 @@
 ---
 title: "AN EVOLVED UNIVERSAL TRANSFORMER MEMORY"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # AN EVOLVED UNIVERSAL TRANSFORMER MEMORY

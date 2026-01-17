@@ -2,6 +2,9 @@
 title: "Deception detection: State of the art and future prospects"
 date: 2002
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

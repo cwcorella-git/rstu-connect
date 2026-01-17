@@ -1,6 +1,10 @@
 ---
 title: "Reform or Revolution? Rosa Luxemburg"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 # Reform or Revolution? Rosa Luxemburg

@@ -2,6 +2,9 @@
 title: "THE BHAGAVAD GITA"
 date: 1985
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **THE BHAGAVAD GITA**

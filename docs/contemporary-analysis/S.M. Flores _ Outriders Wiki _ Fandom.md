@@ -2,7 +2,9 @@
 title: S. M. Flores
 date: 1855
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 [outriders.fandom.com](https://outriders.fandom.com/wiki/S. M._Flores)

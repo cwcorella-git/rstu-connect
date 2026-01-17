@@ -4,8 +4,10 @@ author: Assembly Bill No
 date: '2023'
 category: legislation
 tags:
-- legislation
-- Nevada
+  - legislation
+  - policy
+  - law
+  - Nevada
 ---
 # assembly-bill-no-283
 Assembly Bill No. 283–Assemblymen Summers-Armstrong,

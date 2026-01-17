@@ -4,6 +4,9 @@ author: Not Enough
 date: '2023'
 category: organizing
 tags:
+  - organizing
+  - direct-action
+  - solidarity
 - solidarity
 - organizing
 ---

@@ -1,6 +1,9 @@
 ---
 title: "HOW TO GROW OLD"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

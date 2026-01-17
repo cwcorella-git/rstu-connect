@@ -1,6 +1,10 @@
 ---
 title: "The Eclipse Committee Manifesto"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **The Eclipse Committee Manifesto**

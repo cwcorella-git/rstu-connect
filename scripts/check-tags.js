@@ -10,6 +10,7 @@ const docsDir = path.join(__dirname, '../docs');
 
 let noTags = [];
 let emptyTags = [];
+let withTags = [];
 let total = 0;
 
 function walkDir(dir) {
@@ -40,16 +41,35 @@ function processFile(filepath) {
 
   if (!fm.includes('tags:')) {
     noTags.push(relPath);
-  } else if (/tags:\s*\[\]|tags:\s*$/m.test(fm)) {
-    emptyTags.push(relPath);
+    return;
   }
+
+  // Check for actual tag entries (lines like "  - tagname" after tags:)
+  const tagsMatch = fm.match(/tags:[\s\S]*?(?=\n[a-z]|\n---|$)/i);
+  if (tagsMatch) {
+    const tagsSection = tagsMatch[0];
+    const tagEntries = tagsSection.match(/^\s+-\s+.+$/gm);
+    if (tagEntries && tagEntries.length > 0) {
+      withTags.push({ path: relPath, count: tagEntries.length });
+      return;
+    }
+  }
+
+  emptyTags.push(relPath);
 }
 
 walkDir(docsDir);
 
+console.log('=== TAG COVERAGE STATS ===');
 console.log('Total docs:', total);
+console.log('With tags:', withTags.length, `(${Math.round(withTags.length/total*100)}%)`);
+console.log('Empty tags field:', emptyTags.length);
 console.log('Missing tags field:', noTags.length);
-console.log('Empty tags:', emptyTags.length);
+
 console.log('\n=== Samples without tags ===');
-noTags.slice(0, 20).forEach(p => console.log('  ' + p));
-if (noTags.length > 20) console.log('  ... and', noTags.length - 20, 'more');
+noTags.slice(0, 10).forEach(p => console.log('  ' + p));
+if (noTags.length > 10) console.log('  ... and', noTags.length - 10, 'more');
+
+console.log('\n=== Samples with empty tags ===');
+emptyTags.slice(0, 10).forEach(p => console.log('  ' + p));
+if (emptyTags.length > 10) console.log('  ... and', emptyTags.length - 10, 'more');

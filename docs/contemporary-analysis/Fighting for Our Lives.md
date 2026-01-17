@@ -2,6 +2,9 @@
 title: "Fighting for Our Lives"
 date: 2002
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Noam Deguerre, Crimeth Inc. Writers' Bloc**

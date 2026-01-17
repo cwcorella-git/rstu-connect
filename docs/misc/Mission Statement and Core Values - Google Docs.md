@@ -3,6 +3,9 @@ title: "Mission Statement and Core Values - Google Docs"
 author: "Google Docs"
 date: "2025"
 category: "misc"
+tags:
+  - rstu
+  - organizing
 ---
 # Mission Statement and Core Values - Google Docs
 Mission Statement

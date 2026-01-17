@@ -2,6 +2,9 @@
 title: "The Inefficient Utopia or How Consensus Will Change the World"
 date: 2009
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Curious George Brigade**

@@ -2,7 +2,10 @@
 title: The Revolution of Everyday Life
 author:
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 ## **The Revolution of Everyday Life**

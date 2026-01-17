@@ -3,6 +3,10 @@ title: "Copy of RSTU General Meeting 6_25_25 - Google Docs"
 author: "Google Docs"
 date: "2025"
 category: "misc"
+tags:
+  - rstu
+  - meeting-notes
+  - organizing
 ---
 # Copy of RSTU General Meeting 6_25_25 - Google Docs
 RSTU General Meeting 6/25/25

@@ -2,6 +2,9 @@
 title: "Our activism will be intersectional, or it will be bullshit…"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Our activism will be intersectional, or it will be bullshit…**

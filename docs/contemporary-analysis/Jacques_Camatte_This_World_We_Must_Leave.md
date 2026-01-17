@@ -2,6 +2,9 @@
 title: "THIS WORLD WE MUST LEAVE"
 date: 1973
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # THIS WORLD WE MUST LEAVE

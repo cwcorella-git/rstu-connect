@@ -1,6 +1,9 @@
 ---
 title: "Milk and honey rupi kaur"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## milk and honev

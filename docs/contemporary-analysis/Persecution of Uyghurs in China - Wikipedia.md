@@ -2,6 +2,10 @@
 title: "Persecution of Uyghurs in China"
 date: 2014
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

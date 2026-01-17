@@ -2,6 +2,9 @@
 title: "IVAN ILLICH"
 date: 1971
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## IVAN ILLICH

@@ -2,6 +2,9 @@
 title: "James Clear"
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Tiny Changes, Remarkable Results

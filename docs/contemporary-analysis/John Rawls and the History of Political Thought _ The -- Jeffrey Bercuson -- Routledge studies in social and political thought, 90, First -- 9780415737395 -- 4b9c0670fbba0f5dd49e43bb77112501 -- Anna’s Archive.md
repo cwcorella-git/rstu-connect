@@ -1,6 +1,10 @@
 ---
 title: "John Rawls and the History of Political Thought"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - history
 ---
 
 # John Rawls and the History of Political Thought

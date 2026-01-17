@@ -2,6 +2,9 @@
 title: "IMAGINATION"
 date: 1995
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Jennifer Gosetti-Ferencei

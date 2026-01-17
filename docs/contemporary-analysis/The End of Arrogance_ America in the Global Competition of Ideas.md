@@ -2,6 +2,9 @@
 title: "The End of Arrogance"
 date: 2010
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # The End of Arrogance

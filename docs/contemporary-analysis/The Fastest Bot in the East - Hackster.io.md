@@ -1,7 +1,9 @@
 ---
 title: The Fastest Bot in the East
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [hackster.io](https://www.hackster.io/news/the-fastest-bot-in-the-east-cc56c33b7809.amp)

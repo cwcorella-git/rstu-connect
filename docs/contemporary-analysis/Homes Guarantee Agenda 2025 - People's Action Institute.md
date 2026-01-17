@@ -1,6 +1,9 @@
 ---
 title: "Homes Guarantee Agenda 2025"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [peoplesactioninstitute.org](https://peoplesactioninstitute.org/homes-guarantee-agenda-2025/)

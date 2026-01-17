@@ -2,6 +2,10 @@
 title: "Der Klasen Kampf"
 date: 1919
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Der Klasen Kampf**

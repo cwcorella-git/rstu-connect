@@ -2,7 +2,9 @@
 title: Chatting About The State Of Hacker-Friendly AR Gear
 date: 1909
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [hackaday.com](https://hackaday.com/2023/06/02/chatting-about-the-state-of-hacker-friendly-ar-gear/)

@@ -2,6 +2,9 @@
 title: "Loneliness"
 date: 2008
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # loneliness

@@ -1,6 +1,10 @@
 ---
 title: "Fuck Empires!"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## Fuck Empires!

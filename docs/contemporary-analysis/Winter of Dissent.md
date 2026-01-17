@@ -2,6 +2,9 @@
 title: "Winter of Dissent"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Winter of Dissent**

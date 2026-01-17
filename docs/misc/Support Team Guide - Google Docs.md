@@ -3,6 +3,9 @@ title: "Support Team Guide - Google Docs"
 author: "Google Docs"
 date: "2025"
 category: "misc"
+tags:
+  - rstu
+  - organizing
 ---
 
 Want to Support a Community Garden? Here's How to

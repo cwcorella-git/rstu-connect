@@ -2,7 +2,10 @@
 title: "List Of A24 Films Wikipedia"
 date: 2022
 category: arts-culture-music
-tags: []
+tags:
+  - arts
+  - culture
+  - wikipedia
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_A24_films)

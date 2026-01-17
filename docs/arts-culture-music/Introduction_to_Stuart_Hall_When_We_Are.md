@@ -2,6 +2,9 @@
 title: "When We Are All Enemies of the State"
 date: 1969
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 **Help Us Stay Paywall-Free Donate Menu Subscribe Sign In**

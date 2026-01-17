@@ -2,7 +2,9 @@
 title: Business News
 date: 2019
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

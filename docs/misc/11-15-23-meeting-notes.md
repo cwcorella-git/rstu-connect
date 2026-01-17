@@ -3,6 +3,10 @@ title: "11-15-23-meeting-notes"
 author: "the county"
 date: "2023"
 category: "misc"
+tags:
+  - rstu
+  - meeting-notes
+  - organizing
 ---
 # 11-15-23-meeting-notes
 Reno‐Sparks Tenant Union

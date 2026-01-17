@@ -2,6 +2,10 @@
 title: "Information wants to be free"
 date: 1987
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Information_wants_to_be_free)

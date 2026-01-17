@@ -4,6 +4,7 @@ author: Google Docs
 date: '2025'
 category: misc
 tags:
+  - education
 - education
 ---
 

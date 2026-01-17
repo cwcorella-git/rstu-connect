@@ -2,6 +2,9 @@
 title: "REVIEW"
 date: 2019
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # REVIEW

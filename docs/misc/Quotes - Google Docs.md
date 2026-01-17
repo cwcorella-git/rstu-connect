@@ -3,6 +3,9 @@ title: "Quotes - Google Docs"
 author: "Google Docs"
 date: "2025"
 category: "misc"
+tags:
+  - rstu
+  - organizing
 ---
 # Quotes - Google Docs
 General notes

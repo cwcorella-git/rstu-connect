@@ -1,6 +1,10 @@
 ---
 title: "Matrix of domination"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Matrix_of_domination)

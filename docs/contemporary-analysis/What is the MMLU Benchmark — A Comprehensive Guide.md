@@ -2,6 +2,9 @@
 title: "What is the MMLU Benchmark? A Comprehensive Guide"
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Figure_2.jpeg)

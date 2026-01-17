@@ -2,7 +2,9 @@
 title: Are We Ready for AI to Raise the Dead?
 date: 2023
 category: arts-culture-music
-tags: []
+tags:
+  - arts
+  - culture
 ---
 
 ## [esquire.com](https://www.esquire.com/news-politics/a43774075/artificial-intelligence-digital-immortality/)

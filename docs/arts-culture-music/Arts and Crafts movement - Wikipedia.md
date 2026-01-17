@@ -2,6 +2,10 @@
 title: "Arts and Crafts movement"
 date: 1852
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

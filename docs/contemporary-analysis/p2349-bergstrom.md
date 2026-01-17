@@ -2,6 +2,9 @@
 title: "Conversation Clusters: Grouping Conversation Topics through Human-Computer Dialog"
 date: 2009
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Conversation Clusters: Grouping Conversation Topics through Human-Computer Dialog

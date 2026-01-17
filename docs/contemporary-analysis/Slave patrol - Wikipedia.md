@@ -2,6 +2,10 @@
 title: "Slave patrol"
 date: 2019
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Slave_patrol)

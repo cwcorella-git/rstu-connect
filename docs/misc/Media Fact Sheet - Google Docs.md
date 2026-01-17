@@ -3,6 +3,9 @@ title: "Media Fact Sheet - Google Docs"
 author: "Google Docs"
 date: "2015"
 category: "misc"
+tags:
+  - rstu
+  - organizing
 ---
 # Media Fact Sheet - Google Docs
 MEDIA FACT SHEET

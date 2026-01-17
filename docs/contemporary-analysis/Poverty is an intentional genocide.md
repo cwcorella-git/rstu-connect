@@ -2,6 +2,9 @@
 title: "Poverty is an intentional genocide."
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Poverty is an intentional genocide.**

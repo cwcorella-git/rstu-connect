@@ -1,6 +1,9 @@
 ---
 title: "TERMINATOR 2: JUDGMENT DAY"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **TERMINATOR 2: JUDGMENT DAY**

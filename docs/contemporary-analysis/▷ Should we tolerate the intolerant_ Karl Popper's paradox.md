@@ -2,6 +2,9 @@
 title: "Should we tolerate the intolerant? Karl Popper's paradox"
 date: 2010
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [psychology-spot.com](https://psychology-spot.com/karl-popper-paradox-tolerate-intolerance/)

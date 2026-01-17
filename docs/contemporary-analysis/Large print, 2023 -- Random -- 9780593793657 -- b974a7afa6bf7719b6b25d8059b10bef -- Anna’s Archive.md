@@ -3,6 +3,9 @@ title: "BROOKS"
 author: "David Brooks"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Bestselling author of The Road to Character

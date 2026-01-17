@@ -3,6 +3,9 @@ title: "News Analysis and Media Coverage"
 author: "Nevada Current"
 date: "2025"
 category: "misc"
+tags:
+  - news
+  - analysis
 ---
 
 # News Analysis and Media Coverage

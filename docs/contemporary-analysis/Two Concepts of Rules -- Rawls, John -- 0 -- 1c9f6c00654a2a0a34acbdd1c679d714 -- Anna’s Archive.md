@@ -2,6 +2,9 @@
 title: "Two Concepts of Rules"
 date: 1953
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

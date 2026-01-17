@@ -1,6 +1,9 @@
 ---
 title: "What Games Are"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **[What Games Are](https://web.archive.org/web/20250913094130/https://www.whatgamesare.com/)**

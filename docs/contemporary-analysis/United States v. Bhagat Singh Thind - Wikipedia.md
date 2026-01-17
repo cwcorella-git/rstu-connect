@@ -2,7 +2,10 @@
 title: "United States V. Bhagat Singh Thind Wikipedia"
 date: 1923
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_v._Bhagat_Singh_Thind)

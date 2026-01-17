@@ -2,6 +2,10 @@
 title: "R. I. P. Taylor – Rage is our weapon"
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **R. I. P. Taylor – Rage is our weapon**

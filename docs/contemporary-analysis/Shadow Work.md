@@ -3,6 +3,9 @@ title: "Ivan Illich"
 author:
 date: 1980
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Ivan Illich**

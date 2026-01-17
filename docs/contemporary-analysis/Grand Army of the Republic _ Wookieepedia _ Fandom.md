@@ -1,6 +1,9 @@
 ---
 title: "Grand Army of the Republic"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [starwars.fandom.com](https://starwars.fandom.com/wiki/Grand_Army_of_the_Republic)

@@ -4,8 +4,9 @@ author: Google Docs
 date: '2025'
 category: housing
 tags:
-- housing
-- tenants
+  - housing
+  - tenants-rights
+  - tenants
 ---
 # Common Tactics Of Landlords - Google Docs
 View notes from original meeting:     Educational Material Planning 6/20/25

@@ -2,6 +2,9 @@
 title: "Hell Is a Very Small Place"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 OICES from SOLITARY CONFINEMENT Jean Casella James Ridge Word Edited Sarah Shourd

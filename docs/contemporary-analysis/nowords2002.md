@@ -2,6 +2,9 @@
 title: "I Have No Words & I Must Design: Toward a Critical Vocabulary for Games"
 date: 1990
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

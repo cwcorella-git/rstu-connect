@@ -1,7 +1,9 @@
 ---
 title: Tips for Handling Pacing in a Thriller Novel
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [writersdigest.com](https://www.writersdigest.com/write-better-fiction/tips-for-handling-pacing-in-a-thriller-novel)

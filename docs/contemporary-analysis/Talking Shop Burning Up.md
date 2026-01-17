@@ -2,6 +2,9 @@
 title: "Talking Shop: Burning Up"
 date: 2019
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Talking Shop: Burning Up**

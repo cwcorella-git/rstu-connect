@@ -1,6 +1,10 @@
 ---
 title: "Repression hits hardest at the end."
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
+  - crimethinc
 ---
 
 As all movements inevitably reach limits, it is pointless to bewail their passing as if they would go on growing indenitely if only the participants were strategic enough.

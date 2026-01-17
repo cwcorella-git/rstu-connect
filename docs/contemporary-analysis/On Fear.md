@@ -2,6 +2,9 @@
 title: "On Fear."
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **On Fear.**

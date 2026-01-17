@@ -2,6 +2,9 @@
 title: "JAMES JOYCE AND THE POLITICS OF EGOISM"
 date: 1997
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # JAMES JOYCE AND THE POLITICS OF EGOISM

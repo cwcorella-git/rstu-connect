@@ -2,6 +2,10 @@
 title: "Kudzu"
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

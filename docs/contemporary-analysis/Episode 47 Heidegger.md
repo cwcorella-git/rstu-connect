@@ -1,6 +1,9 @@
 ---
 title: "Episode 47: Heidegger/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 47: Heidegger/**

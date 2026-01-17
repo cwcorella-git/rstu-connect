@@ -1,7 +1,10 @@
 ---
 title: Why Tesla's Optimus Is a Big Step on the Way to AGI
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## [hackernoon.com](https://hackernoon.com/why-teslas-optimus-is-a-big-step-on-the-way-to-agi/)

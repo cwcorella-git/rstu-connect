@@ -2,6 +2,10 @@
 title: "Manifest destiny"
 date: 1872
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

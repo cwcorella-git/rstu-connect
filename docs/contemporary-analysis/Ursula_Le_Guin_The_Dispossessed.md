@@ -1,7 +1,9 @@
 ---
 title: Ursula K. Le Guin
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 WINNER OF THE HUGO AND NEBULA AWARDS, THE WORLD FANTASY AWARD, AND THE NATIONAL BOOK AWARD AN ASTONISHING TALE OF ONE MAN'S SEARCH FOR UTOPIA

@@ -3,6 +3,9 @@ title: "Is The Bible More Violent Than The Quran?"
 author: "Barbara Bradley Hagerty"
 date: 1996
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [npr.org](https://www.npr.org/2010/03/18/124494788/is-the-bible-more-violent-than-the-quran)

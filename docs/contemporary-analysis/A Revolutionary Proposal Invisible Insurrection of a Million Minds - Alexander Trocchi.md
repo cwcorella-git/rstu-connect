@@ -2,6 +2,10 @@
 title: "A Revolutionary Proposal: Invisible Insurrection of a Million Minds - Alexander Trocchi"
 date: 1968
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 ## **A Revolutionary Proposal: Invisible Insurrection of a Million Minds - Alexander Trocchi**

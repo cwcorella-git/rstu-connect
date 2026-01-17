@@ -2,6 +2,9 @@
 title: "On Fire Departments"
 date: 2018
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 #### [thesisdriven.com](https://www.thesisdriven.com/p/on-fire-departments)

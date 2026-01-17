@@ -2,6 +2,10 @@
 title: "Sherman Antitrust Act"
 date: 1993
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Sherman_Antitrust_Act)

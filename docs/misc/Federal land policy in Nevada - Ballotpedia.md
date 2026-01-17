@@ -4,7 +4,7 @@ author: Unknown
 date: '2025'
 category: misc
 tags:
-- Nevada
+  - Nevada
 ---
 
 Federal land policy in Nevada - Ballotpedia           about:reader?url=https%3A%2F%2Fballotpedia.org%...

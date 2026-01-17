@@ -1,6 +1,10 @@
 ---
 title: "Libcom introductory guide"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **libcom introductory guide**

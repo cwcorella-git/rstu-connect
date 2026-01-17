@@ -2,6 +2,11 @@
 title: "An Open Letter to Revolutionaries"
 date: 1917
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
+  - libcom
 ---
 
 # **An Open Letter to Revolutionaries**

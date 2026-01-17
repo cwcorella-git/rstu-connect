@@ -2,6 +2,9 @@
 title: "The Road Less Traveled,"
 date: 1978
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # The Road Less Traveled,

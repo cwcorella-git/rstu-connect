@@ -2,6 +2,10 @@
 title: "Newham Monitoring Project annual reports"
 date: 1983
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Newham Monitoring Project annual reports**

@@ -2,6 +2,11 @@
 title: "Half the Sky: interview with Yu Shuet"
 date: 1977
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - interviews
+  - libcom
 ---
 
 ## **Half the Sky: interview with Yu Shuet**

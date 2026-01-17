@@ -3,6 +3,9 @@ title: "JEAN BAUDRILLARD"
 author: "JEAN BAUDRILLARD TRANSLATED BY SHEILA FARIA GLASER"
 date: 1981
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # JEAN BAUDRILLARD

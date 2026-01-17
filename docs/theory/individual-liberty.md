@@ -4,8 +4,9 @@ author: Economic Rent
 date: '1893'
 category: theory
 tags:
-- liberty
-- theory
+  - theory
+  - political-theory
+  - liberty
 ---
 # Individual Liberty
 Benjamin Tucker

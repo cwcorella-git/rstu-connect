@@ -2,6 +2,9 @@
 title: "New perspectives on cognitive dissonance theory"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

@@ -3,6 +3,10 @@ title: "RSTU-General-Meeting-1-22-25"
 author: "Reno Sparks Tenants Union"
 date: "2025"
 category: "misc"
+tags:
+  - rstu
+  - meeting-notes
+  - organizing
 ---
 
 RSTU General Meeting 1/22/25

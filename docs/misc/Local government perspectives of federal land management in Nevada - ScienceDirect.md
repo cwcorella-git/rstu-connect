@@ -6,7 +6,7 @@ author: Unknown
 date: '1999'
 category: misc
 tags:
-- Nevada
+  - Nevada
 ---
 # Local government perspectives of federal land management in Nevada - ScienceDirect
 

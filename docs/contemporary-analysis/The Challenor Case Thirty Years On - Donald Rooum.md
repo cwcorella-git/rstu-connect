@@ -2,6 +2,10 @@
 title: "The Challenor Case Thirty Years On - Donald Rooum"
 date: 1964
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **The Challenor Case Thirty Years On - Donald Rooum**

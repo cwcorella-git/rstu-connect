@@ -2,6 +2,9 @@
 title: "SNAPSHOTS OF AGENT PROVOCATEURS AROUND THE WORLD"
 date: 2005
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

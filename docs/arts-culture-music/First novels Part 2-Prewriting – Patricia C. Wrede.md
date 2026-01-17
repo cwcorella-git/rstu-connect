@@ -2,7 +2,9 @@
 title: First novels Part 2-Prewriting – Patricia C. Wrede
 date: 2025
 category: arts-culture-music
-tags: []
+tags:
+  - arts
+  - culture
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-2-prewriting/)

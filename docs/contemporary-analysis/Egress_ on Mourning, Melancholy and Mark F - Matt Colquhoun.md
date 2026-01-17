@@ -1,6 +1,10 @@
 ---
 title: "Egress: on mourning, melancholy and Mark Fisher"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 # egress: on mourning, melancholy and Mark Fisher

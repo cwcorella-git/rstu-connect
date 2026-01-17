@@ -1,7 +1,9 @@
 ---
 title: An Ancient Guide to True Friendship
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ш

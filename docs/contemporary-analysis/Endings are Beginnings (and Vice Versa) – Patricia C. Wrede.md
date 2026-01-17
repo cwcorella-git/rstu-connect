@@ -2,7 +2,9 @@
 title: Endings are Beginnings (and Vice Versa) – Patricia C. Wrede
 date: 2025
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/endings-are-beginnings-and-vice-versa/)

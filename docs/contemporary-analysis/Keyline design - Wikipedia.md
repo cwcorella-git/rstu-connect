@@ -2,7 +2,10 @@
 title: "Keyline Design Wikipedia"
 date: 1954
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Keyline_design)

@@ -1,6 +1,9 @@
 ---
 title: "BOOK VII"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 Provided by The Internet Classics Archive. See bottom for copyright. Available online at http://classics.mit.edu//Aristotle/nicomachaen.html

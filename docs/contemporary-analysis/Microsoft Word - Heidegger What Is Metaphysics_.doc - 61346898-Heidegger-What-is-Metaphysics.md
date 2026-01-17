@@ -2,6 +2,9 @@
 title: "INTRODUCTION TO \"WHAT IS METAPHYSICS?\" GETTING TO THE BOTTOM OF METAPHYSICS (1949)2"
 date: 1929
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### **MARTIN HEIDEGGER**

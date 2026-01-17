@@ -2,7 +2,10 @@
 title: Emotion classification
 date: 1985
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

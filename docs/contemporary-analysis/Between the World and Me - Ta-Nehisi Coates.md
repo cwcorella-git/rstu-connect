@@ -2,6 +2,9 @@
 title: "COATES"
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # COATES

@@ -2,7 +2,9 @@
 title: Book review
 date: 2007
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

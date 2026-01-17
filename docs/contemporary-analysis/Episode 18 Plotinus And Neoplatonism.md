@@ -1,6 +1,9 @@
 ---
 title: "Episode 18: Plotinus And Neoplatonism/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Episode 18: Plotinus And Neoplatonism/**

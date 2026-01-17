@@ -1,6 +1,9 @@
 ---
 title: "Chapter 04"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ### **Homage to Catalonia - George Orwell**

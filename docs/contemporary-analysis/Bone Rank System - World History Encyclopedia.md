@@ -1,6 +1,9 @@
 ---
 title: "Bone Rank System"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [worldhistory.org](https://www.worldhistory.org/Bone_Rank_System/)

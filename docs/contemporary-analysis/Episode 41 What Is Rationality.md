@@ -1,6 +1,9 @@
 ---
 title: "Episode 41: What Is Rationality/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 41: What Is Rationality/**

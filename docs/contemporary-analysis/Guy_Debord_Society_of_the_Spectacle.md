@@ -2,6 +2,9 @@
 title: "THE SOCIETY OF THE SPECTACLE"
 date: 1967
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## GUY DEBORD

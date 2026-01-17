@@ -1,6 +1,9 @@
 ---
 title: "\"Man, it is hot today.\""
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 0:01

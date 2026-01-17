@@ -1,6 +1,9 @@
 ---
 title: "Diffusion Tensor Imaging (DTI) - Fiber Tracking"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [imagilys.com](https://www.imagilys.com/diffusion-tensor-imaging-dti/)

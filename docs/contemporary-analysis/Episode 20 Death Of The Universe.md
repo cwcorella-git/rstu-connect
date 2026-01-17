@@ -1,6 +1,9 @@
 ---
 title: "Episode 20: Death Of The Universe/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 20: Death Of The Universe/**

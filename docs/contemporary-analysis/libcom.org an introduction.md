@@ -2,6 +2,10 @@
 title: "Libcom.org: an introduction"
 date: 2005
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **libcom.org: an introduction**

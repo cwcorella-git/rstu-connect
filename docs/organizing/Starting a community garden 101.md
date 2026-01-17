@@ -4,8 +4,9 @@ author: Unknown
 date: '2025'
 category: organizing
 tags:
-- community
-- organizing
+  - organizing
+  - direct-action
+  - community
 ---
 # Starting a community garden 101
 How to Start a Backyard Community Garden (Mutual Aid Style)

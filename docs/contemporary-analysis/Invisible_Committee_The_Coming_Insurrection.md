@@ -2,6 +2,9 @@
 title: "A point of clarification"
 date: 2008
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **THE COMING INSURRECTION**

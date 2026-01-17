@@ -1,6 +1,9 @@
 ---
 title: "Paul Goodman"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Paul Goodman**

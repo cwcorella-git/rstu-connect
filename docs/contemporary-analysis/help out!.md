@@ -1,6 +1,10 @@
 ---
 title: "Help out!"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **help out!**

@@ -2,6 +2,10 @@
 title: "James A. Garfield"
 date: 1881
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/James_A._Garfield)

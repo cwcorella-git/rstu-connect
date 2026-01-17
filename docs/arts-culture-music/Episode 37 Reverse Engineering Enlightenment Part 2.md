@@ -1,6 +1,9 @@
 ---
 title: "Episode 37: Reverse Engineering Enlightenment Part 2/"
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 # **Episode 37: Reverse Engineering Enlightenment Part 2/**

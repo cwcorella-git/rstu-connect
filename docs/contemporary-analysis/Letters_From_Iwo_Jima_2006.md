@@ -2,6 +2,9 @@
 title: "LETTERS FROM IWO JIMA"
 date: 2006
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # LETTERS FROM IWO JIMA

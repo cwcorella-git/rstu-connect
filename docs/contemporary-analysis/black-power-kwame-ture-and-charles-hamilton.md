@@ -2,6 +2,9 @@
 title: "VINTAGE e Books"
 date: 1992
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # VINTAGE e Books

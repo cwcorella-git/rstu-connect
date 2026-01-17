@@ -2,6 +2,9 @@
 title: "The Nature of Money"
 author: "James Herod"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # James Herod

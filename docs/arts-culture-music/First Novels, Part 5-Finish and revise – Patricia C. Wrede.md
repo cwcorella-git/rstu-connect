@@ -2,7 +2,9 @@
 title: 'First Novels, Part 5-Finish and revise – Patricia C. Wrede'
 date: 2025
 category: arts-culture-music
-tags: []
+tags:
+  - arts
+  - culture
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-5-finish-and-revise/)

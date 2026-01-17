@@ -4,10 +4,12 @@ author: hashing verified
 date: '2025'
 category: housing
 tags:
-- tenants
-- organizing
-- gig economy
-- Nevada
+  - housing
+  - tenants-rights
+  - tenants
+  - organizing
+  - gig economy
+  - Nevada
 ---
 # Building a Comprehensive Tenant Organizing Platform for Reno-Sparks
 Building a comprehensive tenant organizing platform for RenoSparks

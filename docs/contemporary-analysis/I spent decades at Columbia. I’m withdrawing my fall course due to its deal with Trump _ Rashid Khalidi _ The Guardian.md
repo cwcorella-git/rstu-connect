@@ -2,6 +2,9 @@
 title: "News Opinion Sport Culture Lifestyle"
 date: 2025
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 **[Support us](https://support.theguardian.com/us/contribute?REFPVID=mdz1r5kquf7tg1x5mfpx&INTCMP=header_support_2025-05-12_PRICEANCHOR_HEADER__US_CONTROL&acquisition Data=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22component Id%22%3A%22header_support_2025-05-12_PRICEANCHOR_HEADER__US_CONTROL%22%2C%22component Type%22%3A%22ACQUISITIONS_HEADER%22%2C%22campaign Code%22%3A%22header_support_2025-05-12_PRICEANCHOR_HEADER__US_CONTROL%22%2C%22ab Tests%22%3A%5B%7B%22name%22%3A%222025-05-12_PRICEANCHOR_HEADER__US%22%2C%22variant%22%3A%22CONTROL%22%7D%5D%2C%22referrer Pageview Id%22%3A%22mdz1r5kquf7tg1x5mfpx%22%2C%22referrer Url%22%3A%22https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2025%2Faug%2F01%2Fcolumbia-historian-rashid-khalidi-open-letter%22%2C%22is Remote%22%3Atrue%7D) [Sign in](https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&component Event Params=component Type%3Didentityauthentication%26component Id%3Dguardian_signin_header)**

@@ -1,7 +1,9 @@
 ---
 title: CONVENTION ON THE RIGHTS OF THE CHILD
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

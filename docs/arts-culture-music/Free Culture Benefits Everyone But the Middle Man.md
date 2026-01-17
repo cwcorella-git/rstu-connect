@@ -1,6 +1,9 @@
 ---
 title: "Kevin Carson"
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 ## **Kevin Carson**

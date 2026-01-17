@@ -1,6 +1,9 @@
 ---
 title: "Power supply compatibility guide for Fractal Design Ridge case"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Power supply compatibility guide for Fractal Design Ridge case**

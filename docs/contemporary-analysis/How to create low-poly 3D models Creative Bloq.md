@@ -2,6 +2,9 @@
 title: "How to create low-poly 3D models"
 date: 1886
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ### [creativebloq.com](https://www.creativebloq.com/3d/how-create-low-poly-3d-models-121310159)

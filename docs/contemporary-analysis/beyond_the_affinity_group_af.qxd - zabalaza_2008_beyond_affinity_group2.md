@@ -2,6 +2,9 @@
 title: "Beyond the Affinity Group"
 date: 1868
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 **This collection of three articles examines the how and why of anarchist organisation. The first is a look at the success of the network form of organisation and why it came to the fore in the current period. It then looks at the limitations of that form or organisation. The second article looks at the organisational practise of the first anarchists and in particular Michael Bakunin and re-examines the different levels of organisation he advocated in the light of the needs of anarchists today. The final article asks why anarchist organisations mostly failed to grow following the collapse of the left and identifies why large-scale anarchist organisations are essential if we are to ever overthrow capitalism.**

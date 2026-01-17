@@ -2,7 +2,9 @@
 title: REVIEW BY JORDAN T CAMP
 date: 2001
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

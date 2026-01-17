@@ -2,6 +2,9 @@
 title: "The leftwing deadbeat"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ### **MK Lees & Marianne Garneau**

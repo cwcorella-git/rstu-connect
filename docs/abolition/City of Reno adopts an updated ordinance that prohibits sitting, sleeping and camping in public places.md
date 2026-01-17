@@ -6,8 +6,11 @@ author: Unknown
 date: '2025'
 category: abolition
 tags:
-- urban
-- Nevada
+  - abolition
+  - police
+  - prisons
+  - urban
+  - Nevada
 ---
 # City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...

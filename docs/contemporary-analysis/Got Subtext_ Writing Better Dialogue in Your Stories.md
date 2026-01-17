@@ -1,6 +1,9 @@
 ---
 title: "Got Subtext? Writing Better Dialogue"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [jerryjenkins.com](https://jerryjenkins.com/subtext-examples/)

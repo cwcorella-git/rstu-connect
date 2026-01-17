@@ -3,6 +3,9 @@ title: "Making Decisions Amongst Assemblies"
 author: "James Herod"
 date: 2010
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # James Herod

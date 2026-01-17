@@ -2,6 +2,10 @@
 title: "New Brandeis movement"
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

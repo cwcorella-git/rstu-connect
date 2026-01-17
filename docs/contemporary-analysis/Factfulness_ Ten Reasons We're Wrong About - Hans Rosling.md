@@ -2,6 +2,10 @@
 title: "About the Author"
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 'One of the most important books I've ever read an indispensable guide to thinking clearly about the world' Bill Gates

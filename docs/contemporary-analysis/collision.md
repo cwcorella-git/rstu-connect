@@ -1,6 +1,9 @@
 ---
 title: "Improved Collision detection and Response"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Improved Collision detection and Response

@@ -2,6 +2,10 @@
 title: "Selma to Montgomery marches"
 date: 1965
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 # Selma to Montgomery marches

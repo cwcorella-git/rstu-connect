@@ -2,6 +2,9 @@
 title: "CASTLE ROCK V. GONZALES"
 date: 2002
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [law.cornell.edu](https://www.law.cornell.edu/supct/html/04-278. ZO.html)

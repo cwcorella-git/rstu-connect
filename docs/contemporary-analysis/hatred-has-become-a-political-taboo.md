@@ -3,6 +3,10 @@ title: "Hatred has become a political taboo"
 author: "David Graeber"
 date: "Dec. 31<sup>st</sup>, 2021"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - david-graeber
 ---
 
 By the end of the twentieth and beginning of the twenty-first century, it is the one emotion that is considered intrinsically illegitimate. We have legal categories like “hate speech,” “hate crimes.” For a public figure, to profess or even publically acknowledge feelings of hatred towards anyone—even their bitterest rival—would be to instantly place themselves outside the pale of acceptable political behavior. “Haters” are bad people. In no sense can it ever be legitimate to base a political or social policy on hatred, of any kind. It has come to such a pass that one can barely encourage hatred even against abstractions. Christians used to be encouraged to “love the sinner, hate the sin.” Such language would never have been coined today. Even to encourage others to feel hatred for envy, pride, or gluttony might be considered slightly problematic.

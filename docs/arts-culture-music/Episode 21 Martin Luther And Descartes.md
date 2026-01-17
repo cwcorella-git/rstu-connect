@@ -1,6 +1,9 @@
 ---
 title: "Episode 21: Martin Luther And Descartes/"
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 # **Episode 21: Martin Luther And Descartes/**

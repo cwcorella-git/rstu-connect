@@ -2,6 +2,9 @@
 title: "Marcus Tullius Cicero"
 date: 2016
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 ## An Ancient Guide to the Art of Persuasion

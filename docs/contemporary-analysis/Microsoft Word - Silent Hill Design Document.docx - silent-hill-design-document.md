@@ -1,6 +1,9 @@
 ---
 title: "SPENS DOCUMENT"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # SPENS DOCUMENT

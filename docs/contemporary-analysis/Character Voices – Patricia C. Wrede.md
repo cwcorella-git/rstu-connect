@@ -2,7 +2,9 @@
 title: Character Voices – Patricia C. Wrede
 date: 2025
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/character-voices-2/)

@@ -2,6 +2,9 @@
 title: "Draft Resolution - Stop Line 3"
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Draft Resolution - Stop Line 3**

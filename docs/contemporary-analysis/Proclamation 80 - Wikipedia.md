@@ -3,6 +3,10 @@ title: "Proclamation 80"
 author: "THE PRESIDENT OF THE UNITED STATES:"
 date: 1861
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Proclamation_80)

@@ -2,6 +2,9 @@
 title: "Prayer"
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

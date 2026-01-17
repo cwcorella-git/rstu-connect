@@ -2,6 +2,10 @@
 title: "Bonus Army"
 date: 1932
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Bonus_Army)

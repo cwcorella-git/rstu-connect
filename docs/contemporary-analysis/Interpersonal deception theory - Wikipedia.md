@@ -2,6 +2,10 @@
 title: "Interpersonal deception theory"
 date: 1996
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Interpersonal_deception_theory)

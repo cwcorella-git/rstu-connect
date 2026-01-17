@@ -2,6 +2,9 @@
 title: "Episode 40: Wisdom And Rationality/"
 date: 2013
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 40: Wisdom And Rationality/**

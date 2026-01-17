@@ -1,6 +1,9 @@
 ---
 title: "INT. UNKNOWN SPACE"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Her by

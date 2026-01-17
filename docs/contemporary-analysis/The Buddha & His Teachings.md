@@ -1,6 +1,9 @@
 ---
 title: "THE BUDDHA AND HIS TEACHINGS"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # THE BUDDHA AND HIS TEACHINGS

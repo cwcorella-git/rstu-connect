@@ -2,6 +2,9 @@
 title: "Cayden Mak"
 date: 2022
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Cayden Mak**

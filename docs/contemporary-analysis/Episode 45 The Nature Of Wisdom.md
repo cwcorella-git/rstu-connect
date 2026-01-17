@@ -2,6 +2,9 @@
 title: "Episode 45: The Nature Of Wisdom/"
 date: 2013
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 45: The Nature Of Wisdom/**

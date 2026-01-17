@@ -2,6 +2,9 @@
 title: "Serafinski"
 date: 2013
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Serafinski**

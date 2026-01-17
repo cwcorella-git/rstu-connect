@@ -2,6 +2,9 @@
 title: "ONTYRANNY"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ON TYRANNY

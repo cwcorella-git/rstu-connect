@@ -2,6 +2,9 @@
 title: "Design Document for:"
 date: 1999
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Design Document for:**

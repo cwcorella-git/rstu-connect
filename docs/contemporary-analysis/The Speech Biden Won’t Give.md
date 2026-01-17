@@ -2,6 +2,9 @@
 title: "The Speech Biden Won't Give"
 date: 2014
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **The Speech Biden Won't Give**

@@ -1,6 +1,9 @@
 ---
 title: "The New and The Old Church"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## The New and The Old Church

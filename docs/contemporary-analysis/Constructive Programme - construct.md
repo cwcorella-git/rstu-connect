@@ -2,6 +2,9 @@
 title: "CONSTRUCTIVE PROGRAMME"
 date: 1941
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # CONSTRUCTIVE PROGRAMME

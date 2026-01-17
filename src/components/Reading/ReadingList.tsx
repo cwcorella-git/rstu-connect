@@ -291,9 +291,9 @@ export function ReadingList({
     <div className="h-full flex flex-col bg-white">
       {/* Header */}
       <div className="p-4 border-b border-gray-200 space-y-3 flex-shrink-0">
-        <div className="flex items-center justify-between">
-          <h2 className="text-lg font-bold text-gray-900">{t('reading.library')}</h2>
-          <span className="text-xs text-gray-500">
+        <div className="flex items-center justify-between gap-2 min-w-0">
+          <h2 className="text-lg font-bold text-gray-900 truncate flex-shrink min-w-0">{t('reading.library')}</h2>
+          <span className="text-xs text-gray-500 truncate flex-shrink min-w-0">
             {isSearching ? (
               <span className="text-gray-400">{t('reading.searching')}</span>
             ) : (

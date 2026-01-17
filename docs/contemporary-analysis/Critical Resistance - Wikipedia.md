@@ -2,6 +2,11 @@
 title: "Critical Resistance"
 date: 2000
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
+  - resistance
 ---
 
 ## ![](_page_0_Picture_2.jpeg)

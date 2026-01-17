@@ -3,6 +3,9 @@ title: "Folk Devils and Moral Panics  The creation of the Mods and Rockers   sta
 author: "Routledge"
 date: 1972
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

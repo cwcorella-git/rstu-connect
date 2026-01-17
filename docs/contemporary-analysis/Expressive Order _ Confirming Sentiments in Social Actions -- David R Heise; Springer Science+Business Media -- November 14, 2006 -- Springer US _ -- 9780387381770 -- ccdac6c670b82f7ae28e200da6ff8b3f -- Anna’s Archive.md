@@ -2,6 +2,9 @@
 title: "Expressive Order"
 date: 2007
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Expressive Order Confirming Sentiments in Social Actions

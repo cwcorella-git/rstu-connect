@@ -2,6 +2,9 @@
 title: "Epictetus"
 date: 1965
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [Spring 2017 Edition](https://plato.stanford.edu/arch Ives/spr2017/index.html)

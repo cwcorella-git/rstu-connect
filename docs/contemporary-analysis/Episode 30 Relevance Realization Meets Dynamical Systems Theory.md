@@ -1,6 +1,9 @@
 ---
 title: "Episode 30: Relevance Realization Meets Dynamical Systems Theory/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Episode 30: Relevance Realization Meets Dynamical Systems Theory/**

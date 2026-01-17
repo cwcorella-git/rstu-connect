@@ -2,6 +2,9 @@
 title: "Full text of \"We Dont Need Gun Control We Need To Take Control\""
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 #### [archive.org](https://archive.org/stream/anarchy_We_Dont_Need_Gun_Control_We_Need_To_Take_Control/We_Dont_Need_Gun_Control_We_Need_To_Take_Control_djvu.txt)

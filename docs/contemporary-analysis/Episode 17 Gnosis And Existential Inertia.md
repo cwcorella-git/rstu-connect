@@ -2,6 +2,9 @@
 title: "Episode 17: Gnosis And Existential Inertia/"
 date: 1990
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 17: Gnosis And Existential Inertia/**

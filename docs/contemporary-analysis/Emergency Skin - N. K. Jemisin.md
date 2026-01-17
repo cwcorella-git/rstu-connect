@@ -2,6 +2,9 @@
 title: "EMERGENCY N. K. JEMISIN"
 date: 2019
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## AMAZON ORIGINAL STORIES

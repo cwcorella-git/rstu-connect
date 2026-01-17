@@ -1,6 +1,9 @@
 ---
 title: "ENDING RAPE CULTURE ACTIVITY ZINE"
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

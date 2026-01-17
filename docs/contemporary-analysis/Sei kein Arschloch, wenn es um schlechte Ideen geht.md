@@ -1,6 +1,10 @@
 ---
 title: "Sei kein Arschloch, wenn es um schlechte Ideen geht"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Sei kein Arschloch, wenn es um schlechte Ideen geht**

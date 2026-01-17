@@ -1,6 +1,9 @@
 ---
 title: "The Right To Be Greedy"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **The Right To Be Greedy**

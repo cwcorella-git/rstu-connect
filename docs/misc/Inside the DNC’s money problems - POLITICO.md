@@ -4,6 +4,10 @@ author: "JESSICA PIPER"
 author: "Unknown"
 date: "2025"
 category: "misc"
+tags:
+  - news
+  - politics
+  - democrats
 ---
 
 Inside the DNC’s money problems - POLITICO                            https://www.politico.com/news/2025/08/18/dnc-fundrais...

@@ -2,6 +2,10 @@
 title: "Knife crime - analysing a moral panic"
 date: 2007
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Knife crime - analysing a moral panic**

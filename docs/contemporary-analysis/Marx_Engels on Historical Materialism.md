@@ -2,6 +2,9 @@
 title: "Broad Overview:"
 date: 1999
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Marx-Engels Subject Archive**

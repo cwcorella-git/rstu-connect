@@ -1,6 +1,9 @@
 ---
 title: "MOSS"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## "NO COUNTRY FOR OLD MEN"

@@ -2,7 +2,10 @@
 title: "Donald L. Cox Wikipedia"
 date: 2019
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Donald_L._Cox)

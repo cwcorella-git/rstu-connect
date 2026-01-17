@@ -2,6 +2,9 @@
 title: "Challenging the Terms of Order"
 date: 1935
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

@@ -4,8 +4,10 @@ author: Assembly Bill No
 date: '2025'
 category: legislation
 tags:
-- legislation
-- Nevada
+  - legislation
+  - policy
+  - law
+  - Nevada
 ---
 # assembly-bill-no-201
 Assembly Bill No. 201–Assemblymember Roth

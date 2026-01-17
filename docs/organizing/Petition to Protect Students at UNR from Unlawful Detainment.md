@@ -4,8 +4,9 @@ author: Unknown
 date: '2025'
 category: organizing
 tags:
-- education
-- organizing
+  - organizing
+  - direct-action
+  - education
 ---
 
 Petition to Protect Students at UNR from

@@ -3,6 +3,9 @@ title: "EXACT LY WHAT TO SAY"
 author: "Phil M. Jones"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 "This is the dictionary of business success language. Right from page 1, you're given the strategy to change the way you influence others." scott stratten, President of Un Marketing Inc. and best-selling author of the Un Marketing series

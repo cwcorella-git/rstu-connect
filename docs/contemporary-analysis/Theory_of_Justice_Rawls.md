@@ -1,6 +1,9 @@
 ---
 title: "18. PRINCIPLES FOR INDIVIDUALS: THE PRINCIPLE OF FAIRNESS"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **A THEORY OF JUSTICE**

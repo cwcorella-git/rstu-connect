@@ -1,6 +1,9 @@
 ---
 title: "Industrial Society and Its Future"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **FC**

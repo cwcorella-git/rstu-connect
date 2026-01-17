@@ -2,6 +2,9 @@
 title: "Conclusions | Rebel Steps"
 date: 2008
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Conclusions | Rebel Steps**

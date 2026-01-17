@@ -1,7 +1,10 @@
 ---
 title: After the Crest
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - crimethinc
 ---
 
 ## [crimethinc.com](https://crimethinc.com/2013/09/09/after-the-crest-the-life-cycle-of-movements)

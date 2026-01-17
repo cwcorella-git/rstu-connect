@@ -2,6 +2,9 @@
 title: "*We Need* PEOPLE POWER"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # *We Need* PEOPLE POWER

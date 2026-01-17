@@ -4,8 +4,10 @@ author: Google Docs
 date: '2025'
 category: housing
 tags:
-- housing
-- tenants
+  - housing
+  - tenants-rights
+  - rent
+  - tenants
 ---
 # Current Bylaws Draft - Google Docs
 Reno-Sparks Tenants Union Constitution

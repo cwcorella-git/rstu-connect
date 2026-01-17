@@ -6,11 +6,12 @@ author: Reno Sparks Tenants Union
 date: '2025'
 category: housing
 tags:
-- tenants
-- unions
-- housing
-- urban
-- Nevada
+  - housing
+  - tenants-rights
+  - tenants
+  - unions
+  - urban
+  - Nevada
 ---
 
 Reno Sparks Tenants Union

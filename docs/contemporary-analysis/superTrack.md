@@ -2,6 +2,9 @@
 title: "Super Track: Motion Tracking for Physically Simulated Characters using Supervised Learning"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Super Track: Motion Tracking for Physically Simulated Characters using Supervised Learning

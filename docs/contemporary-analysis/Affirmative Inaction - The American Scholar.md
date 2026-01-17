@@ -2,7 +2,9 @@
 title: Affirmative Inaction - The American Scholar
 date: 1965
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [theamericanscholar.org](https://theamericanscholar.org/affirmative-inaction/)

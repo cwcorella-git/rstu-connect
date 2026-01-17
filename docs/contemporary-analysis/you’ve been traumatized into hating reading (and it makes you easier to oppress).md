@@ -2,6 +2,9 @@
 title: "You've been traumatized into hating reading (and it makes you easier to oppress)."
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **you've been traumatized into hating reading (and it makes you easier to oppress).**

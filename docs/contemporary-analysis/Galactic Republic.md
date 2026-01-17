@@ -1,6 +1,10 @@
 ---
 title: "Galactic Republic"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 [starwars.fandom.com](https://starwars.fandom.com/wiki/Galactic_Republic)

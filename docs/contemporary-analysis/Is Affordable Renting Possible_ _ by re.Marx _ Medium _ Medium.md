@@ -1,6 +1,10 @@
 ---
 title: "Is Affordable Renting Possible?"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - rent
 ---
 
 #### [medium.com](https://medium.com/@re. Marx/is-affordable-renting-possible-68a883ade30e)

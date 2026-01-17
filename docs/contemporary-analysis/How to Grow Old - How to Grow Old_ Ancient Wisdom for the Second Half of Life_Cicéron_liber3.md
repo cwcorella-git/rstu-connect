@@ -1,6 +1,9 @@
 ---
 title: "Marcus Tullius Cicero"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## 0 0 0 0 0 0 0 0

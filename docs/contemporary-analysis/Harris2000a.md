@@ -2,6 +2,9 @@
 title: "Understanding Emotion"
 date: 1995
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ### CHAPTER 18

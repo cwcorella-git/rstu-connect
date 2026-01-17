@@ -2,6 +2,9 @@
 title: "Preface"
 date: 1901
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## What is to be Done?

@@ -2,7 +2,9 @@
 title: ENHANCED EDITION
 date: 1977
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

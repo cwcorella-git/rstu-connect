@@ -2,6 +2,9 @@
 title: "Higher-order truths about chmess"
 date: 1989
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## Higher-order truths about chmess

@@ -4,6 +4,8 @@ author: Reno Sparks Tenants Union
 date: '2025'
 category: organizing
 tags:
+  - organizing
+  - direct-action
 - organizing
 ---
 # brief-overview

@@ -3,6 +3,9 @@ title: "The Conference on Money"
 author: "James Herod"
 date: 2004
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **James Herod**

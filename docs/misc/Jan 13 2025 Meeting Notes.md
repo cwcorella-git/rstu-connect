@@ -3,6 +3,10 @@ title: "Jan 13 2025 Meeting Notes"
 author: "Reno Sparks Tenants Union"
 date: "2025"
 category: "misc"
+tags:
+  - rstu
+  - meeting-notes
+  - organizing
 ---
 # Jan 13 2025 Meeting Notes
 1/13/25 Meeting Notes:

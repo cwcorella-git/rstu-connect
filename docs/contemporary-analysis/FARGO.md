@@ -2,6 +2,9 @@
 title: "THROUGH A WINDSHIELD"
 date: 1987
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## FARGO a screenplay by Ethan Coen and Joel Coen

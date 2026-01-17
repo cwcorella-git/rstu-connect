@@ -1,6 +1,10 @@
 ---
 title: "Punch Up * Kick Down Distro Love as a Revolutionary Social Ethic"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 # **Punch Up \* Kick Down Distro Love as a Revolutionary Social Ethic**

@@ -3,6 +3,9 @@ title: "Administrative Documents and Internal Operations"
 author: "Reno Sparks Tenants Union"
 date: "2025"
 category: "misc"
+tags:
+  - news
+  - analysis
 ---
 
 # Administrative Documents and Internal Operations

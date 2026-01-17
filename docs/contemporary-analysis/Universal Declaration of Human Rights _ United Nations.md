@@ -1,6 +1,9 @@
 ---
 title: "Universal Declaration of Human Rights | United Nations"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [un.org](https://www.un.org/en/about-us/universal-declaration-of-human-rights)

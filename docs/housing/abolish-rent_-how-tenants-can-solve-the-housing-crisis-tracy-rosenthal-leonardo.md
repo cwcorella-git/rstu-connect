@@ -6,9 +6,10 @@ author: Praise for ABOLISH RENT
 date: '2025'
 category: housing
 tags:
-- tenants
-- housing
-- abolition
+  - housing
+  - tenants-rights
+  - tenants
+  - abolition
 ---
 
 Praise for ABOLISH RENT

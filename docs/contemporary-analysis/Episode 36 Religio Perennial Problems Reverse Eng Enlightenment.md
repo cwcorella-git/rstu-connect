@@ -1,6 +1,9 @@
 ---
 title: "Episode 36: Religio Perennial Problems Reverse Eng Enlightenment/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 36: Religio Perennial Problems Reverse Eng Enlightenment/**

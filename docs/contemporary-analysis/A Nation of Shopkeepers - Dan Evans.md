@@ -1,6 +1,9 @@
 ---
 title: "A Nation of Shopkeepers"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # A Nation of Shopkeepers

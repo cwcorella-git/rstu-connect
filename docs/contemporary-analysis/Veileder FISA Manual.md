@@ -1,6 +1,9 @@
 ---
 title: "FISA Manual"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **FISA Manual**

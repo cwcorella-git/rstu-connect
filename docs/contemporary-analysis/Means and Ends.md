@@ -2,6 +2,9 @@
 title: "Zoe Baker"
 date: 1845
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Zoe Baker**

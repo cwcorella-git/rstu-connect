@@ -4,8 +4,11 @@ author: Karl Marx
 date: '2025'
 category: housing
 tags:
-- housing
-- tenants
+  - housing
+  - tenants-rights
+  - rent
+  - karl-marx
+  - tenants
 ---
 # Marx 1844_ Rent of Land
 Karl Marx

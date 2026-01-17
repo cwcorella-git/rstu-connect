@@ -2,6 +2,10 @@
 title: "State and Revolution"
 date: 1918
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - revolution
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

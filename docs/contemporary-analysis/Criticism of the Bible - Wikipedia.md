@@ -1,6 +1,10 @@
 ---
 title: "Criticism of the Bible"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Criticism_of_the_Bible)

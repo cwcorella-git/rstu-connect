@@ -2,6 +2,9 @@
 title: "Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems"
 date: 2019
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 # Synthetic Silviculture: Multi-scale Modeling of Plant Ecosystems

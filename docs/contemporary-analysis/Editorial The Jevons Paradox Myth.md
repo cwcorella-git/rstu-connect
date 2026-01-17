@@ -2,6 +2,9 @@
 title: "Editorial: The Jevons Paradox Myth"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Editorial: The Jevons Paradox Myth**

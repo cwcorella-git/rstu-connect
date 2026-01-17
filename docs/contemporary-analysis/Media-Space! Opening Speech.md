@@ -2,6 +2,9 @@
 title: "Peter Lamborn Wilson Media-Space! Opening Speech 28th February 1997"
 date: 1989
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Peter Lamborn Wilson Media-Space! Opening Speech 28th February 1997**

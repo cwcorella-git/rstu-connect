@@ -4,8 +4,11 @@ author: Nevada Legislature
 date: '2023'
 category: legislation
 tags:
-- housing
-- Nevada
+  - legislation
+  - policy
+  - law
+  - housing
+  - Nevada
 ---
 # Nevada Assembly Bill 121
 Assembly Bill No. 121–Assemblymember Considine

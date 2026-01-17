@@ -2,6 +2,9 @@
 title: "SUSAN ROANE"
 date: 1997
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # SUSAN ROANE

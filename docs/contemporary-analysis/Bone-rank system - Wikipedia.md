@@ -2,7 +2,10 @@
 title: "Bone Rank System Wikipedia"
 date: 2022
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Bone-rank_system)

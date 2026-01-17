@@ -2,6 +2,9 @@
 title: "John Rawls"
 date: 1994
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # John Rawls

@@ -2,6 +2,10 @@
 title: "Ummah"
 date: 1987
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### en.wikipedia.org

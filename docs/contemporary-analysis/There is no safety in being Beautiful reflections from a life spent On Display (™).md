@@ -2,6 +2,9 @@
 title: "There is no safety in being Beautiful: reflections from a life spent On Display (™)"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **There is no safety in being Beautiful: reflections from a life spent On Display (™)**

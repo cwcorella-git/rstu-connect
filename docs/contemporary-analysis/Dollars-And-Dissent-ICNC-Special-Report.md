@@ -3,6 +3,9 @@ title: "Dollars and Dissent"
 author: "Benjamin Naimark-Rowse"
 date: 2022
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Dollars and Dissent

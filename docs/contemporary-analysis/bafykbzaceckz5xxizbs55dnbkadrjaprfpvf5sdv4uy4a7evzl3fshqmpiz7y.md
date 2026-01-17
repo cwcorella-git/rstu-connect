@@ -1,6 +1,9 @@
 ---
 title: "Take Back the Economy"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## AN ETHICAL GUIDE FOR TRANSFORMING DUR COMMUNITIES

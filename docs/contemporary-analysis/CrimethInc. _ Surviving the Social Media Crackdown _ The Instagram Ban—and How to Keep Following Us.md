@@ -1,6 +1,10 @@
 ---
 title: "Surviving the Social Media Crackdown"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - crimethinc
 ---
 
 #### [crimethinc.com](https://crimethinc.com/2020/12/21/surviving-the-social-media-crackdown-the-instagram-ban-and-how-to-keep-following-us)

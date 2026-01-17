@@ -3,6 +3,9 @@ title: "Natural Language Cognitive Architecture A Prototype Artificial General I
 author: "David K. Shapiro"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

@@ -1,6 +1,10 @@
 ---
 title: "Statutes of the Red and Black Coordination"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Statutes of the Red and Black Coordination**

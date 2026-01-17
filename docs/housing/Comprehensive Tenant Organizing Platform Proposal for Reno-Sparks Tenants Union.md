@@ -6,11 +6,13 @@ author: Sparks Tenants Union
 date: '2025'
 category: housing
 tags:
-- tenants
-- unions
-- organizing
-- gig economy
-- Nevada
+  - housing
+  - tenants-rights
+  - tenants
+  - unions
+  - organizing
+  - gig economy
+  - Nevada
 ---
 # Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union
 Comprehensive Tenant Organizing Platform Proposal for RenoSparks Tenants Union

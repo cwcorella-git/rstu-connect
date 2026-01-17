@@ -2,6 +2,9 @@
 title: "You don't need any expert's permission to write your story, your way. Repeat that."
 date: 2018
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 ## BRIAN KOPPELMAN

@@ -2,6 +2,10 @@
 title: "Five Houses - Dora Schemme and Barbara Rosenberg"
 date: 1981
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 # **Five Houses - Dora Schemme and Barbara Rosenberg**

@@ -2,6 +2,10 @@
 title: "JEAN M. TWENGE, PhD"
 author: "Jean M. Twenge"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 # JEAN M. TWENGE, PhD

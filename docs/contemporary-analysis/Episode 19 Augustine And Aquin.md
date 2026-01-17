@@ -1,6 +1,9 @@
 ---
 title: "Episode 19: Augustine And Aquin/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 19: Augustine And Aquin/**

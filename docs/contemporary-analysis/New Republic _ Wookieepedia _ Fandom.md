@@ -1,6 +1,9 @@
 ---
 title: "New Republic"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 [starwars.fandom.com](https://starwars.fandom.com/wiki/New_Republic)

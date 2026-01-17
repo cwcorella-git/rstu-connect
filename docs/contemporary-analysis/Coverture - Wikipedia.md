@@ -2,6 +2,10 @@
 title: "Coverture"
 date: 1897
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Coverture)

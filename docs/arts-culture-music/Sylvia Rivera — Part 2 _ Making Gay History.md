@@ -2,6 +2,9 @@
 title: "Sylvia Rivera — Part 2"
 date: 1995
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 #### [makinggayhistory.org](https://makinggayhistory.org/podcast/sylvia-rivera-part-2/)

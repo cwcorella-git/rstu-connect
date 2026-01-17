@@ -2,6 +2,9 @@
 title: "Concerning Violence"
 date: 2017
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 ## ![](_page_0_Figure_0.jpeg)

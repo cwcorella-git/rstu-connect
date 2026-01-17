@@ -3,6 +3,9 @@ title: "Sexual Promiscuity in America"
 author: "ALBERT ELLIS"
 date: 1958
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # Sexual Promiscuity in America

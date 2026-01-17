@@ -6,9 +6,11 @@ author: Housing Advocacy Organization
 date: '2025'
 category: housing
 tags:
-- tenants
-- unions
-- Nevada
+  - housing
+  - tenants-rights
+  - tenants
+  - unions
+  - Nevada
 ---
 
 Reno-Sparks Tenants Union

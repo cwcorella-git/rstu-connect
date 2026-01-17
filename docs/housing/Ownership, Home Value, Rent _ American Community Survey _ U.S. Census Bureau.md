@@ -4,8 +4,10 @@ author: Housing Advocacy Organization
 date: '2025'
 category: housing
 tags:
-- community
-- housing
+  - housing
+  - tenants-rights
+  - rent
+  - community
 ---
 
 An oﬃcial website of the United States government Here’s how you know

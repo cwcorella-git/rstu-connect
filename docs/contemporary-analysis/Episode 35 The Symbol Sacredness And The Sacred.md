@@ -1,6 +1,9 @@
 ---
 title: "Episode 35: The Symbol Sacredness And The Sacred/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Episode 35: The Symbol Sacredness And The Sacred/**

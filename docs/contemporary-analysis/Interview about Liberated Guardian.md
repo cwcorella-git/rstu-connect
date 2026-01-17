@@ -3,6 +3,10 @@ title: "Interview about Liberated Guardian"
 author: "James Herod"
 date: 2014
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - interviews
 ---
 
 ## James Herod

@@ -1,6 +1,9 @@
 ---
 title: "Making a Change"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **SESSION 2 HANDOUT – PYRAMID OF DISCRIMINATION AND VIOLENCE**

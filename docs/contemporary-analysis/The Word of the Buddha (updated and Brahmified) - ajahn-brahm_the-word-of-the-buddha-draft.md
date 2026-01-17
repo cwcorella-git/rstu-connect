@@ -1,6 +1,9 @@
 ---
 title: "The Word of the Buddha"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # The Word of the Buddha

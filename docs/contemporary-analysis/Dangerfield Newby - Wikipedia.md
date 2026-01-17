@@ -2,6 +2,10 @@
 title: "Dangerfield Newby"
 date: 1903
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Dangerfield_Newby)

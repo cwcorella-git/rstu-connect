@@ -2,6 +2,9 @@
 title: "In 2019, I was doing administrative work at an insurance company."
 date: 2019
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 0:01

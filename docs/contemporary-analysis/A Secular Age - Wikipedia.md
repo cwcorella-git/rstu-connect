@@ -2,6 +2,10 @@
 title: "A Secular Age"
 date: 2007
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/A_Secular_Age)

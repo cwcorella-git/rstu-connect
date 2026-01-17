@@ -2,6 +2,9 @@
 title: "A letter on Metacognition [ft. a social experiment]"
 date: 2025
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **A letter on Metacognition [ft. a social experiment]**

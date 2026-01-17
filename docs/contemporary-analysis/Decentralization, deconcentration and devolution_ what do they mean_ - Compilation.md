@@ -1,6 +1,9 @@
 ---
 title: "Decentralization, deconcentration and devolution: what do they mean?1"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Decentralization, deconcentration and devolution: what do they mean?1**

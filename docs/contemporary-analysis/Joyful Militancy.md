@@ -1,6 +1,10 @@
 ---
 title: "Carla bergman and Nick Montgomery Joyful Militancy"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 # **carla bergman and Nick Montgomery Joyful Militancy**

@@ -2,7 +2,9 @@
 title: The Pitfalls of Liberalism
 date: 1971
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
 ---
 
 ## [redsails.org](https://redsails.org/the-pitfalls-of-liberalism/)

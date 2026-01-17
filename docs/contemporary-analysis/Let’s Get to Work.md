@@ -2,6 +2,9 @@
 title: "Let's Get to Work"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Let's Get to Work**

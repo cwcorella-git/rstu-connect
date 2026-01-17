@@ -2,6 +2,9 @@
 title: "HOW TO RUN A COUNTRY"
 date: 2013
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # HOW TO RUN A COUNTRY

@@ -2,6 +2,9 @@
 title: "Comments on the Society of the Spectacle"
 date: 1984
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Comments on the Society of the Spectacle**

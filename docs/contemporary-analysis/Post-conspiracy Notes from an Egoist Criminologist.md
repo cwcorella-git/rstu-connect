@@ -1,6 +1,10 @@
 ---
 title: "Post-conspiracy: Notes from an Egoist Criminologist"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Post-conspiracy: Notes from an Egoist Criminologist**

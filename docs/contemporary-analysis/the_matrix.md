@@ -2,6 +2,9 @@
 title: "16 INT. META CORTECHS OFFICE 16"
 date: 1998
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 by

@@ -3,7 +3,10 @@ title: "General Social Survey Wikipedia"
 author: "James A. Davis"
 date: 2011
 category: contemporary-analysis
-tags: []
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/General_Social_Survey)

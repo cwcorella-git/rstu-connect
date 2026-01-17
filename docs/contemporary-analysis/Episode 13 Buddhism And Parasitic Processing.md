@@ -1,6 +1,9 @@
 ---
 title: "Episode 13: Buddhism And Parasitic Processing/"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 ## **Episode 13: Buddhism And Parasitic Processing/**

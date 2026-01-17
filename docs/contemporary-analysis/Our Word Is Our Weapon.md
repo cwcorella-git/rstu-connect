@@ -1,6 +1,9 @@
 ---
 title: "Subcomandante Marcos"
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
 ---
 
 # **Subcomandante Marcos**

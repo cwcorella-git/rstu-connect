@@ -3,6 +3,9 @@ title: "Cape Cod"
 author: "Henry David Thoreau"
 date: 2010
 category: "arts-culture-music"
+tags:
+  - arts
+  - culture
 ---
 
 #### **The Project Gutenberg e Book of Cape Cod, by Henry David Thoreau**

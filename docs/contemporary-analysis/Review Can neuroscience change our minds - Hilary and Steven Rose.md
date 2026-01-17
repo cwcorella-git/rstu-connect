@@ -2,6 +2,10 @@
 title: "Review: Can neuroscience change our minds? - Hilary and Steven Rose"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - libcom
 ---
 
 ## **Review: Can neuroscience change our minds? - Hilary and Steven Rose**

@@ -2,6 +2,10 @@
 title: "Bretton Woods Conference"
 date: 1919
 category: "contemporary-analysis"
+tags:
+  - analysis
+  - current-events
+  - wikipedia
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Bretton_Woods_Conference)

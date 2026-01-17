@@ -252,21 +252,25 @@ export default function Home() {
     readingPanelConfig.setWidth(clamped);
   }, [readingPanelConfig]);
 
-  // Fast resize using direct DOM manipulation
-  const handleResizeStart = useCallback((e: React.MouseEvent) => {
+  // Fast resize using direct DOM manipulation (supports mouse and touch)
+  const handleResizeStart = useCallback((e: React.MouseEvent | React.TouchEvent) => {
     e.preventDefault();
     isDraggingRef.current = true;
-    const startX = e.clientX;
+    const startX = 'touches' in e ? e.touches[0].clientX : e.clientX;
     const startWidth = readingPanelConfig.config.width;
 
-    const handleMouseMove = (e: MouseEvent) => {
+    const getClientX = (e: MouseEvent | TouchEvent): number => {
+      return 'touches' in e ? e.touches[0]?.clientX ?? (e as TouchEvent).changedTouches[0].clientX : (e as MouseEvent).clientX;
+    };
+
+    const handleMove = (e: MouseEvent | TouchEvent) => {
       if (!isDraggingRef.current) return;
 
       // Cancel any pending animation frame
       if (rafRef.current) cancelAnimationFrame(rafRef.current);
 
       rafRef.current = requestAnimationFrame(() => {
-        const deltaX = e.clientX - startX;
+        const deltaX = getClientX(e) - startX;
         const containerWidth = window.innerWidth;
         const deltaPercent = (deltaX / containerWidth) * 100;
         const newWidth = Math.max(25, Math.min(60, startWidth + deltaPercent));
@@ -281,22 +285,26 @@ export default function Home() {
       });
     };
 
-    const handleMouseUp = (e: MouseEvent) => {
+    const handleEnd = (e: MouseEvent | TouchEvent) => {
       isDraggingRef.current = false;
       if (rafRef.current) cancelAnimationFrame(rafRef.current);
 
       // Calculate final width and update React state
-      const deltaX = e.clientX - startX;
+      const deltaX = getClientX(e) - startX;
       const containerWidth = window.innerWidth;
       const deltaPercent = (deltaX / containerWidth) * 100;
       handleListResize(startWidth + deltaPercent);
 
-      document.removeEventListener('mousemove', handleMouseMove);
-      document.removeEventListener('mouseup', handleMouseUp);
+      document.removeEventListener('mousemove', handleMove);
+      document.removeEventListener('mouseup', handleEnd);
+      document.removeEventListener('touchmove', handleMove);
+      document.removeEventListener('touchend', handleEnd);
     };
 
-    document.addEventListener('mousemove', handleMouseMove);
-    document.addEventListener('mouseup', handleMouseUp);
+    document.addEventListener('mousemove', handleMove);
+    document.addEventListener('mouseup', handleEnd);
+    document.addEventListener('touchmove', handleMove, { passive: false });
+    document.addEventListener('touchend', handleEnd);
   }, [readingPanelConfig.config.width, handleListResize]);
 
   // Handle URL deep linking for reading documents
@@ -748,8 +756,9 @@ export default function Home() {
 
         {/* Resize Handle - separate element between panels, only on desktop */}
         <div
-          className="hidden md:flex items-center justify-center w-2 cursor-col-resize hover:bg-rstu-red/20 bg-gray-100 border-x border-gray-200 group flex-shrink-0"
+          className="hidden md:flex items-center justify-center w-2 cursor-col-resize hover:bg-rstu-red/20 bg-gray-100 border-x border-gray-200 group flex-shrink-0 touch-none"
           onMouseDown={handleResizeStart}
+          onTouchStart={handleResizeStart}
         >
           <div className="w-0.5 h-8 bg-gray-300 rounded-full group-hover:bg-rstu-red transition-colors" />
         </div>
