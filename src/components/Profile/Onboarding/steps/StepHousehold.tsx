@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useRef, useCallback } from 'react';
 import type { OnboardingFormData } from '../types';
 
 interface StepHouseholdProps {
@@ -15,17 +15,42 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
   const [hasPets, setHasPets] = useState(formData.hasPets ?? false);
   const [moveInDate, setMoveInDate] = useState(formData.moveInDate || '');
 
-  // Update form data whenever fields change
-  useEffect(() => {
+  // Use ref to avoid stale closure issues with formData
+  const formDataRef = useRef(formData);
+  formDataRef.current = formData;
+
+  // Update parent when values change
+  const updateParent = useCallback((updates: Partial<OnboardingFormData>) => {
     onFormDataChange({
-      ...formData,
-      rentAmount: rentAmount ? parseInt(rentAmount, 10) : undefined,
-      occupants: occupants ? parseInt(occupants, 10) : undefined,
-      hasChildren: hasChildren || undefined,
-      hasPets: hasPets || undefined,
-      moveInDate: moveInDate || undefined,
+      ...formDataRef.current,
+      ...updates,
     });
-  }, [rentAmount, occupants, hasChildren, hasPets, moveInDate, formData, onFormDataChange]);
+  }, [onFormDataChange]);
+
+  const handleRentChange = (value: string) => {
+    setRentAmount(value);
+    updateParent({ rentAmount: value ? parseInt(value, 10) : undefined });
+  };
+
+  const handleOccupantsChange = (value: string) => {
+    setOccupants(value);
+    updateParent({ occupants: value ? parseInt(value, 10) : undefined });
+  };
+
+  const handleChildrenChange = (value: boolean) => {
+    setHasChildren(value);
+    updateParent({ hasChildren: value || undefined });
+  };
+
+  const handlePetsChange = (value: boolean) => {
+    setHasPets(value);
+    updateParent({ hasPets: value || undefined });
+  };
+
+  const handleMoveInChange = (value: string) => {
+    setMoveInDate(value);
+    updateParent({ moveInDate: value || undefined });
+  };
 
   return (
     <div className="space-y-6">
@@ -48,7 +73,7 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
             id="rent-amount"
             type="number"
             value={rentAmount}
-            onChange={(e) => setRentAmount(e.target.value)}
+            onChange={(e) => handleRentChange(e.target.value)}
             placeholder="1200"
             min="0"
             step="50"
