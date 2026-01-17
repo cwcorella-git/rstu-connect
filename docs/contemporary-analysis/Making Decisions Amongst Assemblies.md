@@ -1,5 +1,7 @@
 ---
-title: "James Herod"
+title: "Making Decisions Amongst Assemblies"
+author: "James Herod"
+date: 2010
 category: "contemporary-analysis"
 ---
 

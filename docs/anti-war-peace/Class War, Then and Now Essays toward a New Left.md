@@ -1,5 +1,6 @@
 ---
 title: 'Class War, Then and Now: Essays toward a New Left'
+date: 2025
 category: anti-war-peace
 tags:
   - anti-war

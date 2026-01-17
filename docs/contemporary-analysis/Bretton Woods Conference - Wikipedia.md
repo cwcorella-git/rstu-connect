@@ -1,5 +1,6 @@
 ---
 title: "Bretton Woods Conference"
+date: 1919
 category: "contemporary-analysis"
 ---
 

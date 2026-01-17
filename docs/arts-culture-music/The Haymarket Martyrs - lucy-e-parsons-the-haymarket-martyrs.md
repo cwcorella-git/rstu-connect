@@ -1,5 +1,6 @@
 ---
 title: "Te Haymarket Martyrs"
+date: 1926
 category: "arts-culture-music"
 ---
 

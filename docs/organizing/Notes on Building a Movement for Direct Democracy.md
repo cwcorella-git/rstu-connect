@@ -1,5 +1,7 @@
 ---
-title: James Herod
+title: "Notes on Building a Movement for Direct Democracy"
+author: "James Herod"
+date: 2004
 category: organizing
 tags:
   - democracy

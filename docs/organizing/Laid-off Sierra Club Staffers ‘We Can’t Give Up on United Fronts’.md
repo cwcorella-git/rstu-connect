@@ -1,5 +1,6 @@
 ---
 title: 'Laid-off Sierra Club Staffers: ''We Can''t Give Up on United Fronts'''
+date: 1968
 category: organizing
 tags:
   - organizing

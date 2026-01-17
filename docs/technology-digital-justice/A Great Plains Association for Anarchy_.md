@@ -1,5 +1,7 @@
 ---
-title: James Herod
+title: "A Great Plains Association for Anarchy?"
+author: "James Herod"
+date: 2002
 category: technology-digital-justice
 tags:
   - anarchism

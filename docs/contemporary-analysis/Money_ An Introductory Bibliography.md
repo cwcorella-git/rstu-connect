@@ -1,5 +1,6 @@
 ---
-title: "James Herod"
+title: "The Nature of Money"
+author: "James Herod"
 category: "contemporary-analysis"
 ---
 

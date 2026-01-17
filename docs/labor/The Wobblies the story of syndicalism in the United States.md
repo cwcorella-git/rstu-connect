@@ -1,5 +1,6 @@
 ---
 title: 'The Wobblies: the story of syndicalism in the United States'
+date: 1967
 category: contemporary-analysis
 tags:
   - unions

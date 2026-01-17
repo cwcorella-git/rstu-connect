@@ -1,8 +1,8 @@
 {
-  "commit": "82e673b5",
-  "message": "Improve Reading Library document cards",
+  "commit": "1023ecee",
+  "message": "Fix layout to remove wasted space above footer",
   "author": "cwcorella-git",
-  "date": "2026-01-16 19:07:23 -0800",
+  "date": "2026-01-16 19:16:11 -0800",
   "branch": "main",
-  "buildTime": "2026-01-17T03:15:13.043Z"
+  "buildTime": "2026-01-17T03:22:20.309Z"
 }

@@ -1,5 +1,6 @@
 ---
 title: Itō Noe
+date: 1921
 category: contemporary-analysis
 tags:
   - anarchism

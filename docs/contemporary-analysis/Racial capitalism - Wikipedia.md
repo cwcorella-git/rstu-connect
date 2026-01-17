@@ -1,5 +1,6 @@
 ---
 title: Racial capitalism
+date: 1983
 category: contemporary-analysis
 tags:
   - racial justice

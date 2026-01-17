@@ -1,5 +1,6 @@
 ---
 title: 'Revolutionary Syndicalism, or Anarcho-syndicalism - René Berthier'
+date: 1986
 category: theory
 tags:
   - anarchism

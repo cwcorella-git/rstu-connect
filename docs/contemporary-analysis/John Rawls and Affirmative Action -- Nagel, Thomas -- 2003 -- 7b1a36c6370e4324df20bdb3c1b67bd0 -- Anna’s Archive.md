@@ -1,6 +1,7 @@
 ---
 title: John Rawls and Affirmative Action
 author: "Thomas Nagel"
+date: 1971
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: "A THEORY OF JUSTICE"
+date: 1971
 category: "contemporary-analysis"
 ---
 

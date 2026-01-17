@@ -1,5 +1,6 @@
 ---
-title: "James Herod"
+title: "The Conference on Money"
+author: "James Herod"
 category: "contemporary-analysis"
 ---
 

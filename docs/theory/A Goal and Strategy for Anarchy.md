@@ -1,5 +1,6 @@
 ---
 title: A Goal and Strategy for Anarchy
+date: 2008
 category: theory
 tags:
   - anarchism

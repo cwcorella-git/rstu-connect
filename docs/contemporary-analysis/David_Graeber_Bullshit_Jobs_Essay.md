@@ -1,5 +1,6 @@
 ---
 title: 'On the Phenomenon of Bullshit Jobs: A Work Rant'
+date: 2013
 category: contemporary-analysis
 tags:
   - Graeber

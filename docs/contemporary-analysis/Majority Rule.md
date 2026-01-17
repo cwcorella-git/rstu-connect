@@ -1,5 +1,7 @@
 ---
-title: "James Herod"
+title: "Majority Rule"
+author: "James Herod"
+date: 2001
 category: "contemporary-analysis"
 ---
 

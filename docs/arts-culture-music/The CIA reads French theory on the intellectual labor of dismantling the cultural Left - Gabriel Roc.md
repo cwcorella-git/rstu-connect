@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1967
   The CIA reads French theory: on the intellectual labor of dismantling the
   cultural Left - Gabri
 category: arts-culture-music

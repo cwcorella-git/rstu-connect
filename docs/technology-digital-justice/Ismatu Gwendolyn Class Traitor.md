@@ -1,5 +1,6 @@
 ---
 title: 'Ismatu Gwendolyn: Class Traitor'
+date: 1970
 category: technology-digital-justice
 tags:
   - class

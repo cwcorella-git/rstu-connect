@@ -1,5 +1,7 @@
 ---
-title: "James Herod"
+title: "A Brief Critique of Anarcho-Syndicalism"
+author: "James Herod"
+date: 2010
 category: labor
 tags:
   - anarchism

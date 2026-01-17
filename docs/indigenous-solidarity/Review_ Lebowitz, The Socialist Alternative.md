@@ -1,5 +1,6 @@
 ---
-title: "James Herod"
+title: "Review: Lebowitz, The Socialist Alternative"
+author: "James Herod"
 date: 1937
 category: indigenous-solidarity
 tags:

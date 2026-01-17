@@ -1,5 +1,6 @@
 ---
 title: The Weakness of a Politics of Protest
+date: 2000
 category: contemporary-analysis
 tags:
   - protests

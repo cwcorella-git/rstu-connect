@@ -1,5 +1,6 @@
 ---
 title: The sociology of a school
+date: 1967
 category: contemporary-analysis
 tags:
   - anarchism

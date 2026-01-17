@@ -1,5 +1,6 @@
 ---
 title: The Modern Crisis Murray Bookchin
+date: 2022
 category: arts-culture-music
 tags:
   - Bookchin

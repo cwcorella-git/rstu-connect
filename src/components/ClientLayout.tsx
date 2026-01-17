@@ -49,15 +49,15 @@ export function ClientLayout({ children }: { children: ReactNode }) {
     <EditModeProvider>
     <AuthProvider>
     <TabProvider>
-      <main className="min-h-screen flex flex-col">
+      <main className="h-screen flex flex-col overflow-hidden">
         {/* Header */}
         <Header />
 
         {/* Edit Mode Indicator - shows below header when edit mode is active */}
         <EditModeIndicator />
 
-        {/* Page Content */}
-        <div className="flex-1 flex flex-col min-h-0">
+        {/* Page Content - scrolls internally */}
+        <div className="flex-1 flex flex-col min-h-0 overflow-hidden">
           {children}
         </div>
 

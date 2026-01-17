@@ -1,5 +1,6 @@
 ---
 title: 'Palestine: The No-State Solution'
+date: 2009
 category: international-solidarity
 tags:
   - Palestine

@@ -1,5 +1,6 @@
 ---
-title: "James Herod"
+title: "Is Greed All that's Wrong With Capitalism?"
+author: "James Herod"
 category: contemporary-analysis
 tags:
   - capitalism

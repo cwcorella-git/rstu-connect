@@ -1,5 +1,7 @@
 ---
-title: "James Herod"
+title: "Defeating Capitalists Quickly to Save the Earth"
+author: "James Herod"
+date: 2016
 category: arts-culture-music
 tags:
   - capitalism

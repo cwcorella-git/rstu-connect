@@ -1,5 +1,7 @@
 ---
-title: "James Herod"
+title: "Breaking Out of the Cage and Destroying Our Jailers"
+author: "James Herod"
+date: 1999
 category: technology-digital-justice
 tags:
   - prisons

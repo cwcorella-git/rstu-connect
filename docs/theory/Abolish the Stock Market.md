@@ -1,5 +1,7 @@
 ---
-title: James Herod
+title: "Abolish the Stock Market"
+author: "James Herod"
+date: 2009
 category: theory
 tags:
   - abolition
