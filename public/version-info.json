@@ -1,8 +1,8 @@
 {
-  "commit": "1d84ef5f",
-  "message": "Replace problematic icons with better Heroicons",
+  "commit": "fe53782d",
+  "message": "Add notInterested translation key for OrganizingStatusBar",
   "author": "cwcorella-git",
-  "date": "2026-01-16 05:59:04 -0800",
+  "date": "2026-01-16 19:02:21 -0800",
   "branch": "main",
-  "buildTime": "2026-01-16T21:16:24.163Z"
+  "buildTime": "2026-01-17T03:06:28.553Z"
 }

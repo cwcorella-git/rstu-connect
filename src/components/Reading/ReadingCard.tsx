@@ -60,35 +60,35 @@ export function ReadingCard({
     >
       <div className="flex items-start justify-between gap-2">
         <div className="flex-1 min-w-0">
-          {/* Title and Polished Badge */}
-          <div className="flex items-center gap-2">
-            <h3 className={`font-semibold text-sm text-gray-900 truncate ${isHidden ? 'line-through' : ''}`}>
-              {document.title}
-            </h3>
+          {/* Title */}
+          <h3 className={`font-semibold text-sm text-gray-900 leading-tight ${isHidden ? 'line-through' : ''}`}>
+            {document.title}
             {document.polished && (
               <span
-                className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-medium bg-yellow-50 text-yellow-700 rounded-full border border-yellow-200 flex-shrink-0"
+                className="ml-2 inline-flex items-center gap-1 px-1.5 py-0.5 text-xs font-medium bg-yellow-50 text-yellow-700 rounded border border-yellow-200 align-middle"
                 title="Polished document - curated by RSTU organizers"
               >
                 <SparklesIcon className="w-3 h-3" />
-                Polished
               </span>
             )}
-          </div>
+          </h3>
 
           {/* Author and date subtitle */}
-          {(document.author || document.date) && (
-            <p className="text-xs text-gray-600 truncate mt-0.5">
-              {document.author && <span>{document.author}</span>}
-              {document.author && document.date && <span> · </span>}
-              {document.date && <span>{document.date}</span>}
-            </p>
-          )}
+          <p className="text-xs text-gray-600 mt-0.5">
+            {document.author ? (
+              <>
+                <span>{document.author}</span>
+                {document.date && <span> · {document.date}</span>}
+              </>
+            ) : document.date ? (
+              <span>{document.date}</span>
+            ) : (
+              <span className="text-gray-400 italic">Unknown author</span>
+            )}
+          </p>
 
-          {/* Meta info */}
+          {/* Meta info - reading time and favorite */}
           <div className="mt-0.5 flex items-center gap-2 text-xs text-gray-500">
-            <span>{document.category}</span>
-            <span>•</span>
             <span>{readingTime} {t('reading.minRead') || 'min read'}</span>
             <button
               onClick={(e) => {
