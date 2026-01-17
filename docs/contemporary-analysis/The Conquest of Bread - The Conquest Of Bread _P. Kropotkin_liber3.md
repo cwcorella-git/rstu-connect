@@ -1,5 +1,6 @@
 ---
 title: 'The Conquest of Bread, by Peter Kropotkin'
+author: "Peter Kropotkin"
 date: 2007
 category: contemporary-analysis
 tags:

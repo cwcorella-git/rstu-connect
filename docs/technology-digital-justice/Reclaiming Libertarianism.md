@@ -1,5 +1,6 @@
 ---
 title: Reclaiming Libertarianism
+author:
 category: technology-digital-justice
 tags:
   - technology

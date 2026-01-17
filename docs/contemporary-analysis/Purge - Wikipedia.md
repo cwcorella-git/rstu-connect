@@ -1,5 +1,6 @@
 ---
 title: "Purge"
+author: "Wikipedia contributors"
 date: 1958
 category: "contemporary-analysis"
 tags:

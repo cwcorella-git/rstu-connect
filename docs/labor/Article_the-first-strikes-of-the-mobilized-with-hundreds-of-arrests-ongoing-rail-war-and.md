@@ -2,7 +2,7 @@
 title: >-
   The First Strikes Of The Mobilized With Hundreds Of Arrests Ongoing Rail War
   And
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Is this the end?: as the CNT crumbles"
+author: "Confederación Nacional del Trabajo"
 date: 1980
 category: "contemporary-analysis"
 tags:

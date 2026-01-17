@@ -1,5 +1,6 @@
 ---
 title: GNU Manifesto
+author: "Richard M. Stallman"
 date: 2011
 category: contemporary-analysis
 tags:

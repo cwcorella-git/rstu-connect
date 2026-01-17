@@ -1,5 +1,6 @@
 ---
 title: "Selma to Montgomery marches"
+author: "Wikipedia contributors"
 date: 1965
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Class War #64 1994'
+author: "Class War Federation"
 category: anti-war-peace
 tags:
   - anti-war

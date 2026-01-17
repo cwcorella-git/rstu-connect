@@ -1,6 +1,6 @@
 ---
 title: The Iceland Womens Strike 1975
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

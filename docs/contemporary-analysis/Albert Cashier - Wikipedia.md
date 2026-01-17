@@ -1,5 +1,6 @@
 ---
 title: "Albert Cashier Wikipedia"
+author: "Wikipedia contributors"
 date: 1864
 category: contemporary-analysis
 tags:

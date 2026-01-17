@@ -1,6 +1,6 @@
 ---
 title: Culture Leisure and the Police
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: abolition
 tags:

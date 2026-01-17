@@ -1,6 +1,6 @@
 ---
 title: The Anarchist Library Anarwiki
-author: Unknown
+author: "The Anarchist Library"
 date: '2025'
 category: theory
 tags:

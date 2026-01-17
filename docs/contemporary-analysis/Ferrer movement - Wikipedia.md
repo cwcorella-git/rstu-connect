@@ -1,5 +1,6 @@
 ---
 title: "Ferrer movement"
+author: "Wikipedia contributors"
 date: 1980
 category: "contemporary-analysis"
 tags:

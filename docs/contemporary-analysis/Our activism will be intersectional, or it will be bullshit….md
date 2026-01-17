@@ -1,5 +1,6 @@
 ---
 title: "Our activism will be intersectional, or it will be bullshit…"
+author: "Industrial Workers of the World"
 date: 2017
 category: "contemporary-analysis"
 tags:

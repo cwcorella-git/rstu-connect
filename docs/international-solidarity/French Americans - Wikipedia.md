@@ -1,5 +1,6 @@
 ---
 title: French Americans
+author: "Wikipedia contributors"
 category: international-solidarity
 tags:
   - France

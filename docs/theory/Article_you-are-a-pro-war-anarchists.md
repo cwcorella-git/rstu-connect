@@ -1,6 +1,6 @@
 ---
 title: You Are a Pro War Anarchists
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: NO! Single Employee Train Crews
+author: "Industrial Workers of the World"
 date: 2016
 category: technology-digital-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Praise
+author: "Wikipedia contributors"
 date: 1981
 category: technology-digital-justice
 tags:

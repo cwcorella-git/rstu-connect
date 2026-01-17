@@ -1,6 +1,6 @@
 ---
 title: Solidarity with the Workers at Kavala Oil
-author: "Staff -"
+author:
 date: 2022
 category: environmental-justice
 tags:

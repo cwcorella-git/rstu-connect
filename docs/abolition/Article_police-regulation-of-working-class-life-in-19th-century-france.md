@@ -1,6 +1,6 @@
 ---
 title: Police Regulation of Working Class Life in 19th Century France
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: abolition
 tags:

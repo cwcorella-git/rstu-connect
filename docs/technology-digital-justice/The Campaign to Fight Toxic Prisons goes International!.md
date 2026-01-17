@@ -1,5 +1,6 @@
 ---
 title: The Campaign to Fight Toxic Prisons goes International!
+author: "Industrial Workers of the World"
 date: 2017
 category: technology-digital-justice
 tags:

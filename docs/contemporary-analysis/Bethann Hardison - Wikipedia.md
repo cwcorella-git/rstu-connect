@@ -1,5 +1,6 @@
 ---
 title: "Bethann Hardison"
+author: "Wikipedia contributors"
 date: 1942
 category: "contemporary-analysis"
 tags:

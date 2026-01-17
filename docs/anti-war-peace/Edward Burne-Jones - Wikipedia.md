@@ -1,5 +1,6 @@
 ---
 title: Edward Burne-Jones
+author: "Wikipedia contributors"
 date: 1877
 category: anti-war-peace
 tags:

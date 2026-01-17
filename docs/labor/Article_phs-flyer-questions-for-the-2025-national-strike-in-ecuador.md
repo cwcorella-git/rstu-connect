@@ -1,6 +1,6 @@
 ---
 title: Phs Flyer Questions For The 2025 National Strike In Ecuador
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

@@ -1,6 +1,6 @@
 ---
 title: How To Defend Yourself During A Police Interrogation
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: abolition
 tags:

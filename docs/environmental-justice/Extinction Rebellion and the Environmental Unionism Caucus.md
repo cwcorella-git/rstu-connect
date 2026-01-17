@@ -1,5 +1,6 @@
 ---
 title: Extinction Rebellion and the Environmental Unionism Caucus
+author: "Industrial Workers of the World"
 date: 2018
 category: environmental-justice
 tags:

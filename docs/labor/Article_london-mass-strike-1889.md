@@ -1,6 +1,6 @@
 ---
 title: London Mass Strike 1889
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Class War #15 1985'
+author: "libcom.org"
 category: anti-war-peace
 tags:
   - anti-war

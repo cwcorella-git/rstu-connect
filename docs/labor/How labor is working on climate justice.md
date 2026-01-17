@@ -1,5 +1,6 @@
 ---
 title: How labor is working on climate justice
+author: "Industrial Workers of the World"
 date: 2015
 category: labor
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Battle Cry of Freedom
+author: "Wikipedia contributors"
 date: 1887
 category: contemporary-analysis
 tags:

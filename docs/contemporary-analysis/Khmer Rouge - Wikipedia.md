@@ -1,5 +1,6 @@
 ---
 title: "Khmer Rouge"
+author: "Wikipedia contributors"
 date: 1951
 category: "contemporary-analysis"
 tags:

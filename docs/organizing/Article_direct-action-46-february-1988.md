@@ -1,6 +1,6 @@
 ---
 title: Direct Action 46 February 1988
-author: Unknown
+author: "Confederación Nacional del Trabajo"
 date: '2025'
 category: organizing
 tags:

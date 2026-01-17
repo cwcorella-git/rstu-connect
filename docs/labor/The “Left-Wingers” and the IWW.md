@@ -1,5 +1,6 @@
 ---
 title: The 'Left-Wingers' and the IWW
+author: "Industrial Workers of the World"
 date: 1908
 category: contemporary-analysis
 tags:

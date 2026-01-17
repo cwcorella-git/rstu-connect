@@ -1,5 +1,6 @@
 ---
 title: Another solidarity network/IWW case - A potential for a strategic leap
+author: "Industrial Workers of the World"
 category: organizing
 tags:
   - unions

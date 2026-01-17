@@ -1,5 +1,6 @@
 ---
 title: Possessive Individualism
+author:
 category: contemporary-analysis
 tags:
   - capitalism

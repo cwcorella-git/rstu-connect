@@ -1,5 +1,6 @@
 ---
 title: Facial expression
+author: "Wikipedia contributors"
 date: 1972
 category: contemporary-analysis
 tags:

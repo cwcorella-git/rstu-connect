@@ -1,5 +1,6 @@
 ---
 title: Athenian democracy
+author: "Wikipedia contributors"
 category: contemporary-analysis
 tags:
   - democracy

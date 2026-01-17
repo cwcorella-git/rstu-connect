@@ -1,5 +1,6 @@
 ---
 title: Bolsa Família
+author: "Wikipedia contributors"
 date: 2003
 category: contemporary-analysis
 tags:

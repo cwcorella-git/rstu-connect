@@ -1,5 +1,6 @@
 ---
 title: "A Secular Age"
+author: "Wikipedia contributors"
 date: 2007
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Murray Bookchin Radical Agriculture 1972
+author: "Murray Bookchin"
 date: 1972
 category: arts-culture-music
 tags:

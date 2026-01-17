@@ -1,5 +1,6 @@
 ---
 title: "General Partnership Wikipedia"
+author: "Wikipedia contributors"
 date: 2003
 category: arts-culture-music
 tags:

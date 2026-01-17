@@ -1,5 +1,6 @@
 ---
 title: 'Floods, climate change and job cuts'
+author: "Industrial Workers of the World"
 date: 2015
 category: environmental-justice
 tags:

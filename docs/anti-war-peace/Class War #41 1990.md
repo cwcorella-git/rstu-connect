@@ -1,5 +1,6 @@
 ---
 title: 'Class War #41 1990'
+author: "Class War Federation"
 date: 1990
 category: anti-war-peace
 tags:

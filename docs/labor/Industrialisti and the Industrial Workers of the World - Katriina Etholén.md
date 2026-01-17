@@ -1,5 +1,6 @@
 ---
 title: Industrialisti and the Industrial Workers of the World - Katriina Etholén
+author: "Industrial Workers of the World"
 date: 2020
 category: contemporary-analysis
 tags:

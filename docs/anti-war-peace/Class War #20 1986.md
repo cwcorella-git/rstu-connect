@@ -1,5 +1,6 @@
 ---
 title: 'Class War #20 1986'
+author: "Class War Federation"
 category: anti-war-peace
 tags:
   - anti-war

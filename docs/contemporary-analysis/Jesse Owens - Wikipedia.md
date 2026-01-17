@@ -1,5 +1,6 @@
 ---
 title: "Jesse Owens"
+author: "Wikipedia contributors"
 date: 1935
 category: "contemporary-analysis"
 tags:

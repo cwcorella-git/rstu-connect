@@ -1,5 +1,6 @@
 ---
 title: "Interpersonal deception theory"
+author: "Wikipedia contributors"
 date: 1996
 category: "contemporary-analysis"
 tags:

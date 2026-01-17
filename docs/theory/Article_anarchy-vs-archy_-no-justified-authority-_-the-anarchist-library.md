@@ -1,6 +1,6 @@
 ---
 title: Anarchy Vs Archy No Justified Authority the Anarchist Library
-author: Unknown
+author: "The Anarchist Library"
 date: '2025'
 category: theory
 tags:

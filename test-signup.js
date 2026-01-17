@@ -1,5 +1,136 @@
 const { chromium } = require('playwright');
 
+// Full signup flow test function
+async function testFullSignupFlow(page) {
+  // Step 1: Click Next after invite validation
+  console.log('\n--- Step 2: Identity ---');
+  const nextButton = page.locator('button:has-text("Next"), button:has-text("Continue")').first();
+  await nextButton.click();
+  await page.waitForTimeout(1500);
+
+  await page.screenshot({ path: 'signup-flow-2-identity.png', fullPage: true });
+  console.log('Screenshot: signup-flow-2-identity.png');
+
+  // Fill nickname
+  const nicknameInput = page.locator('input#nickname, input[placeholder*="call you" i]').first();
+  if (await nicknameInput.isVisible().catch(() => false)) {
+    const testNickname = 'TestUser' + Date.now().toString().slice(-4);
+    await nicknameInput.fill(testNickname);
+    console.log(`Filled nickname: ${testNickname}`);
+  } else {
+    console.log('>>> Nickname input not found!');
+  }
+
+  // Fill email
+  const emailInput = page.locator('input[type="email"], input[name="email"]').first();
+  if (await emailInput.isVisible().catch(() => false)) {
+    const testEmail = `test${Date.now()}@example.com`;
+    await emailInput.fill(testEmail);
+    console.log(`Filled email: ${testEmail}`);
+  }
+
+  await page.waitForTimeout(2000);
+
+  // Wait for email validation
+  for (let i = 0; i < 10; i++) {
+    const nextEnabled = await nextButton.isEnabled().catch(() => false);
+    console.log(`[${i}s] Next button enabled: ${nextEnabled}`);
+    if (nextEnabled) break;
+    await page.waitForTimeout(1000);
+  }
+
+  await page.screenshot({ path: 'signup-flow-2b-identity-filled.png', fullPage: true });
+  console.log('Screenshot: signup-flow-2b-identity-filled.png');
+
+  // Click Next to step 3 (Building)
+  console.log('\n--- Step 3: Building ---');
+  if (await nextButton.isEnabled().catch(() => false)) {
+    await nextButton.click();
+    await page.waitForTimeout(1000);
+    await page.screenshot({ path: 'signup-flow-3-building.png', fullPage: true });
+    console.log('Screenshot: signup-flow-3-building.png');
+  } else {
+    console.log('>>> Cannot proceed: Next button not enabled after identity step');
+    return;
+  }
+
+  // Click Skip to step 4 (Household)
+  console.log('\n--- Step 4: Household ---');
+  const skipButton = page.locator('button:has-text("Skip")').first();
+  if (await skipButton.isVisible().catch(() => false)) {
+    await skipButton.click();
+    await page.waitForTimeout(1000);
+    await page.screenshot({ path: 'signup-flow-4-household.png', fullPage: true });
+    console.log('Screenshot: signup-flow-4-household.png');
+  } else {
+    // Try Next if Skip not available
+    await nextButton.click();
+    await page.waitForTimeout(1000);
+  }
+
+  // Click Skip to step 5 (Review)
+  console.log('\n--- Step 5: Review ---');
+  if (await skipButton.isVisible().catch(() => false)) {
+    await skipButton.click();
+    await page.waitForTimeout(1000);
+    await page.screenshot({ path: 'signup-flow-5-review.png', fullPage: true });
+    console.log('Screenshot: signup-flow-5-review.png');
+  }
+
+  // Find and click Create Profile
+  console.log('\n=== CRITICAL TEST: Create Profile ===');
+  const createButton = page.locator('button:has-text("Create Profile")').first();
+  if (await createButton.isVisible().catch(() => false)) {
+    console.log('Clicking Create Profile...');
+    const startTime = Date.now();
+
+    await createButton.click();
+
+    // Monitor for up to 40 seconds (past the 30 second timeout)
+    for (let i = 0; i < 40; i++) {
+      await page.waitForTimeout(1000);
+      const elapsed = Math.round((Date.now() - startTime) / 1000);
+
+      // Check for loading spinner
+      const isLoading = await page.locator('text=Creating...').isVisible().catch(() => false);
+      const spinnerVisible = await page.locator('svg.animate-spin').first().isVisible().catch(() => false);
+
+      // Check for error
+      const hasError = await page.locator('.bg-red-50, [role="alert"]').first().isVisible().catch(() => false);
+      const errorText = hasError ? await page.locator('.text-red-700, .text-red-800').first().textContent().catch(() => '') : '';
+
+      // Check for success
+      const profileCreated = await page.locator('text=Profile Created').isVisible().catch(() => false);
+
+      console.log(`[${elapsed}s] Loading: ${isLoading || spinnerVisible}, Error: ${hasError}, Success: ${profileCreated}`);
+
+      if (hasError) {
+        console.log(`   Error: ${errorText}`);
+      }
+
+      if (!(isLoading || spinnerVisible) || hasError || profileCreated) {
+        await page.screenshot({ path: `signup-flow-6-result-${elapsed}s.png`, fullPage: true });
+        console.log(`Screenshot: signup-flow-6-result-${elapsed}s.png`);
+
+        if (profileCreated) {
+          console.log('\n>>> SUCCESS: Profile created successfully!');
+        } else if (hasError) {
+          console.log(`\n>>> ERROR: ${errorText}`);
+        }
+        break;
+      }
+
+      if (i === 35) {
+        console.log('\n!!! CRITICAL: Profile creation still loading after 35 seconds !!!');
+        console.log('This confirms the bug: createProfileAsync has no effective timeout.');
+        await page.screenshot({ path: 'signup-flow-TIMEOUT.png', fullPage: true });
+      }
+    }
+  } else {
+    console.log('>>> Create Profile button not found');
+  }
+}
+
 (async () => {
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
@@ -178,6 +309,12 @@ const { chromium } = require('playwright');
             console.log('\n>>> BUG: Invite validated successfully but Next button is still disabled!');
             console.log('>>> This is likely a React state propagation issue.');
           }
+
+          // If Next is enabled, continue to full signup flow
+          if (nextEnabledFinal) {
+            console.log('\n=== Continuing full signup flow ===');
+            await testFullSignupFlow(page);
+          }
           break;
         }
 
@@ -212,6 +349,17 @@ const { chromium } = require('playwright');
 
   await newPage.screenshot({ path: 'signup-3-new-context.png', fullPage: true });
   console.log('Screenshot: signup-3-new-context.png');
+
+  // Try clicking Profile tab if wizard not visible
+  const newWizardVisible = await newPage.locator('text=Welcome').first().isVisible().catch(() => false);
+  if (!newWizardVisible) {
+    const profileTab = newPage.locator('button:has-text("Profile"), [data-tab="profile"]').first();
+    if (await profileTab.isVisible().catch(() => false)) {
+      console.log('Clicking Profile tab (new context)...');
+      await profileTab.click();
+      await newPage.waitForTimeout(1000);
+    }
+  }
 
   // Find and click Check button
   const newCheckButton = newPage.locator('button:has-text("Check")').first();

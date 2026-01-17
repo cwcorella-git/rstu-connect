@@ -1,5 +1,6 @@
 ---
 title: "Slave patrol"
+author: "Wikipedia contributors"
 date: 2019
 category: "contemporary-analysis"
 tags:

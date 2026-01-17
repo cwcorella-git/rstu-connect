@@ -1,5 +1,6 @@
 ---
 title: "Bone Rank System Wikipedia"
+author: "Wikipedia contributors"
 date: 2022
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Report on the 2018 IWW Organising Summit
+author: "Industrial Workers of the World"
 date: 2015
 category: contemporary-analysis
 tags:

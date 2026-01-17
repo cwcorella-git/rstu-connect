@@ -1,5 +1,6 @@
 ---
 title: 'Incarceration, Justice and the Planet'
+author: "Industrial Workers of the World"
 date: 2016
 category: contemporary-analysis
 tags:

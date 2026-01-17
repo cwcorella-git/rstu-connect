@@ -1,5 +1,6 @@
 ---
 title: "Grand National Holiday, and Congress of the Productive Classes: William Benbow"
+author: "William Benbow"
 category: "contemporary-analysis"
 tags:
   - general-strikes

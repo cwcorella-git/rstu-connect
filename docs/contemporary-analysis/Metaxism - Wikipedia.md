@@ -1,5 +1,6 @@
 ---
 title: "Metaxism Wikipedia"
+author: "Wikipedia contributors"
 date: 2014
 category: "contemporary-analysis"
 tags:

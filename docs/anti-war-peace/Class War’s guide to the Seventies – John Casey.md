@@ -1,5 +1,6 @@
 ---
 title: Class War's guide to the Seventies – John Casey
+author: "Class War Federation"
 date: 1945
 category: anti-war-peace
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Ozawa v. United States"
+author: "Wikipedia contributors"
 date: 1922
 category: "contemporary-analysis"
 tags:

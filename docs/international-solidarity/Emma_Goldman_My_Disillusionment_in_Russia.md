@@ -1,5 +1,6 @@
 ---
 title: Emma Goldman My Disillusionment in Russia
+author: "Emma Goldman"
 category: theory
 tags:
   - Emma Goldman

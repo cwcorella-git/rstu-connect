@@ -1,5 +1,6 @@
 ---
 title: "Hypatia"
+author: "Wikipedia contributors"
 date: 1866
 category: "contemporary-analysis"
 tags:

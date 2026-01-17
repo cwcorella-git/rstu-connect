@@ -1,5 +1,6 @@
 ---
 title: A Just Transition for Fossil Fuels Workers is Possible
+author: "Industrial Workers of the World"
 date: 2016
 category: feminist-theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: California Climate Jobs Plan Continues to Gain Union Endorsements
+author: "Industrial Workers of the World"
 date: 2022
 category: environmental-justice
 tags:

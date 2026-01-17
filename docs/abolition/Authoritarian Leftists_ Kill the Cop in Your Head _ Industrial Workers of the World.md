@@ -1,5 +1,6 @@
 ---
 title: 'Authoritarian Leftists: Kill the Cop in Your Head'
+author: "Industrial Workers of the World"
 date: 1995
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Emotional self-regulation"
+author: "Wikipedia contributors"
 category: "contemporary-analysis"
 tags:
   - analysis

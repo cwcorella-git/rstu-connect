@@ -1,5 +1,6 @@
 ---
 title: "Matrix of domination"
+author: "Wikipedia contributors"
 category: "contemporary-analysis"
 tags:
   - analysis

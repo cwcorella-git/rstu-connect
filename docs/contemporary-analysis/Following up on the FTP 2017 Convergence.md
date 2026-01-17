@@ -1,5 +1,6 @@
 ---
 title: "Following up on the FTP 2017 Convergence"
+author: "Industrial Workers of the World"
 date: 2017
 category: "contemporary-analysis"
 tags:

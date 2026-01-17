@@ -1,5 +1,6 @@
 ---
 title: "Sumak kawsay"
+author: "Wikipedia contributors"
 date: 2011
 category: "contemporary-analysis"
 tags:

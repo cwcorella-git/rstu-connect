@@ -1,5 +1,6 @@
 ---
 title: 'Union co-operatives: what they are and why we need them'
+author: "Industrial Workers of the World"
 date: 2017
 category: economic-alternatives
 tags:

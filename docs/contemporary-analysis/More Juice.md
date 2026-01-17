@@ -1,5 +1,6 @@
 ---
 title: "More Juice?"
+author: "Industrial Workers of the World"
 date: 2023
 category: "contemporary-analysis"
 tags:

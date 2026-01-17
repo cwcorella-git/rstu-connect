@@ -1,5 +1,6 @@
 ---
 title: Inclusive capitalism
+author: "Wikipedia contributors"
 date: 2016
 category: technology-digital-justice
 tags:

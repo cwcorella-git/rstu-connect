@@ -1,5 +1,6 @@
 ---
 title: Delfin English teachers win contract improvements after joining IWW
+author: "Industrial Workers of the World"
 category: youth-student-organizing
 tags:
   - unions

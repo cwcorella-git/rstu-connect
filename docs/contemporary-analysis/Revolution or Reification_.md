@@ -1,5 +1,6 @@
 ---
 title: "Revolution or Reification? A Critique of FRSO's Political Program 2024"
+author:
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: "Cultural Revolution"
+author: "Wikipedia contributors"
 date: 1962
 category: "arts-culture-music"
 tags:

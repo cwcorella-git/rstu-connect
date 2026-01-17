@@ -1,5 +1,6 @@
 ---
 title: Approval voting
+author: "Wikipedia contributors"
 date: 1992
 category: technology-digital-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'I am a member of the CNT, for anarcho-syndicalism - René Thieblemont'
+author: "Confederación Nacional del Trabajo"
 date: 1955
 category: contemporary-analysis
 tags:

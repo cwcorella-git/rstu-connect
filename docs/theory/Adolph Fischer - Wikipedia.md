@@ -1,5 +1,6 @@
 ---
 title: Adolph Fischer
+author: "Wikipedia contributors"
 date: 1984
 category: theory
 tags:

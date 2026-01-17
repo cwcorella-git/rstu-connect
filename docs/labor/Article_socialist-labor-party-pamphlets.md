@@ -1,6 +1,6 @@
 ---
 title: Socialist Labor Party Pamphlets
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

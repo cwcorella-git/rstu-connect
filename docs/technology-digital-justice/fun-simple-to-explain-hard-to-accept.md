@@ -1,5 +1,6 @@
 ---
 title: What Games Are
+author:
 date: 2011
 category: technology-digital-justice
 tags:

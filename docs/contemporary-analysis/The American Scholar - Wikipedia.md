@@ -1,5 +1,6 @@
 ---
 title: "The American Scholar Wikipedia"
+author: "Wikipedia contributors"
 date: 1989
 category: contemporary-analysis
 tags:

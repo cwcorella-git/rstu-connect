@@ -1,5 +1,6 @@
 ---
 title: 'Class War #26 1988'
+author: "Class War Federation"
 category: anti-war-peace
 tags:
   - anti-war

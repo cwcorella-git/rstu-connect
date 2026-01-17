@@ -1,5 +1,6 @@
 ---
 title: "CONTACT"
+author: "Menno Meyjes"
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: "Communalist Murray Bookchin: the natural world"
+author: "Murray Bookchin"
 category: contemporary-analysis
 tags:
   - Bookchin

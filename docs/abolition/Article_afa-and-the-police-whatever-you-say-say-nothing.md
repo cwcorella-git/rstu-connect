@@ -1,6 +1,6 @@
 ---
 title: Afa and the Police Whatever You Say Say Nothing
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: abolition
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Ummah"
+author: "Wikipedia contributors"
 date: 1987
 category: "contemporary-analysis"
 tags:

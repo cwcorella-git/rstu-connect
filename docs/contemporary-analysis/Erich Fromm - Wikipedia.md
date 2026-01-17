@@ -1,5 +1,6 @@
 ---
 title: "Erich Fromm"
+author: "Wikipedia contributors"
 date: 1947
 category: "contemporary-analysis"
 tags:

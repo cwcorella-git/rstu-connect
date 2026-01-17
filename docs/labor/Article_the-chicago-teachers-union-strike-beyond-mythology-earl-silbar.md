@@ -1,6 +1,6 @@
 ---
 title: The Chicago Teachers Union Strike Beyond Mythology Earl Silbar
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991'
+author: "Murray Bookchin"
 date: 1985
 category: arts-culture-music
 tags:

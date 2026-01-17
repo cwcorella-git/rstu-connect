@@ -1,5 +1,6 @@
 ---
 title: Murray Bookchin
+author: "Murray Bookchin"
 date: 1995
 category: contemporary-analysis
 tags:

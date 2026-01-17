@@ -1,5 +1,6 @@
 ---
 title: Appomattox campaign
+author: "Wikipedia contributors"
 date: 1865
 category: technology-digital-justice
 tags:

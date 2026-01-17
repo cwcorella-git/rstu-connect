@@ -1,5 +1,6 @@
 ---
 title: 'November 15: Class war, memory war! - Proletarios Revolucionarios'
+author: "Class War Federation"
 date: 1922
 category: anti-war-peace
 tags:

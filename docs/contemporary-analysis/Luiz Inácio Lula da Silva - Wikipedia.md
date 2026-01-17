@@ -1,5 +1,6 @@
 ---
 title: Luiz Inácio Lula da Silva
+author: "Wikipedia contributors"
 date: 2023
 category: contemporary-analysis
 tags:

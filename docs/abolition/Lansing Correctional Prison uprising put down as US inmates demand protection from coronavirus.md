@@ -1,5 +1,6 @@
 ---
 title: >-
+author:
   Lansing Correctional: Prison uprising put down as US inmates demand protection
   from coronavirus
 category: contemporary-analysis

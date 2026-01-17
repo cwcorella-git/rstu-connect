@@ -1,5 +1,6 @@
 ---
 title: "A few thoughts on studying the most radical social movement of the 21st century"
+author: "Industrial Workers of the World"
 date: 2016
 category: "contemporary-analysis"
 tags:

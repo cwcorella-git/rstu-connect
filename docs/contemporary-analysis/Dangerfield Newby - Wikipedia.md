@@ -1,5 +1,6 @@
 ---
 title: "Dangerfield Newby"
+author: "Wikipedia contributors"
 date: 1903
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Ranked voting"
+author: "Wikipedia contributors"
 category: "contemporary-analysis"
 tags:
   - analysis

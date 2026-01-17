@@ -1,5 +1,6 @@
 ---
 title: "Bonus Army"
+author: "Wikipedia contributors"
 date: 1932
 category: "contemporary-analysis"
 tags:

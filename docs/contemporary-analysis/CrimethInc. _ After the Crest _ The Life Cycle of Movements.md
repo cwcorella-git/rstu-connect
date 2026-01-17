@@ -1,5 +1,6 @@
 ---
 title: After the Crest
+author: "CrimethInc."
 category: contemporary-analysis
 tags:
   - analysis

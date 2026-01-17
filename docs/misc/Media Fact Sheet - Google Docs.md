@@ -1,6 +1,6 @@
 ---
 title: "Media Fact Sheet - Google Docs"
-author: "Google Docs"
+author:
 date: "2015"
 category: "misc"
 tags:

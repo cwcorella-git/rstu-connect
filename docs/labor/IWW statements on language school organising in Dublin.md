@@ -1,5 +1,6 @@
 ---
 title: IWW statements on language school organising in Dublin
+author: "Industrial Workers of the World"
 date: 2018
 category: labor
 tags:

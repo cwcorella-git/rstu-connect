@@ -1,5 +1,6 @@
 ---
 title: "Limited Liability Company Wikipedia"
+author: "Wikipedia contributors"
 date: 1997
 category: contemporary-analysis
 tags:

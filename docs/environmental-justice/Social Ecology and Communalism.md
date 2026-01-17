@@ -1,5 +1,6 @@
 ---
 title: Murray Bookchin Social Ecology and Communalism 2006
+author: "Murray Bookchin"
 date: 2002
 category: environmental-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Mondragon Corporation"
+author: "Wikipedia contributors"
 date: 2015
 category: "contemporary-analysis"
 tags:

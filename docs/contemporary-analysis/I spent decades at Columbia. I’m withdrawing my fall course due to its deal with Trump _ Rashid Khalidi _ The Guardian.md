@@ -1,5 +1,6 @@
 ---
 title: "News Opinion Sport Culture Lifestyle"
+author: "Freie Arbeiterinnen- und Arbeiter-Union"
 date: 2025
 category: "contemporary-analysis"
 tags:

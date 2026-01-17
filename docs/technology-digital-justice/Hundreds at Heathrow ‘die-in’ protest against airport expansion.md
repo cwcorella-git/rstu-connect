@@ -1,5 +1,6 @@
 ---
 title: Hundreds at Heathrow 'die-in' protest against airport expansion
+author: "Industrial Workers of the World"
 date: 2016
 category: technology-digital-justice
 tags:

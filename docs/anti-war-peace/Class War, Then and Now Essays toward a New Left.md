@@ -1,5 +1,6 @@
 ---
 title: 'Class War, Then and Now: Essays toward a New Left'
+author: "Class War Federation"
 date: 2025
 category: anti-war-peace
 tags:

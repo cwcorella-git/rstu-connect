@@ -1,5 +1,6 @@
 ---
 title: "Criticism of the Bible"
+author: "Wikipedia contributors"
 category: "contemporary-analysis"
 tags:
   - analysis

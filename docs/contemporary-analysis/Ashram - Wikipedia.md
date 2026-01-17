@@ -1,5 +1,6 @@
 ---
 title: "Ashram Wikipedia"
+author: "Wikipedia contributors"
 date: 1999
 category: contemporary-analysis
 tags:

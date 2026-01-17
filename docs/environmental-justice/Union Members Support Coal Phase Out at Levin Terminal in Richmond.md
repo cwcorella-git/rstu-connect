@@ -1,5 +1,6 @@
 ---
 title: Union Members Support Coal Phase Out at Levin Terminal in Richmond
+author: "Steve Morse"
 date: 2020
 category: environmental-justice
 tags:

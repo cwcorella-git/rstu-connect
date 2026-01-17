@@ -1,5 +1,6 @@
 ---
 title: "Coppicing Wikipedia"
+author: "Wikipedia contributors"
 category: contemporary-analysis
 tags:
   - analysis

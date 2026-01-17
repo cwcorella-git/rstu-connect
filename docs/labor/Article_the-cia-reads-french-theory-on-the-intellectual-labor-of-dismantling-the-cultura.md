@@ -2,7 +2,7 @@
 title: >-
   The Cia Reads French Theory On the Intellectual Labor of Dismantling the
   Cultura
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

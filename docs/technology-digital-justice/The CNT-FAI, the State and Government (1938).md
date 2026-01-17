@@ -1,5 +1,6 @@
 ---
 title: Albert Jensen
+author: "Confederación Nacional del Trabajo"
 date: 1938
 category: technology-digital-justice
 tags:

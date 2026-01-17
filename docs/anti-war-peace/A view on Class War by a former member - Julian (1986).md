@@ -1,5 +1,6 @@
 ---
 title: A view on "Class War" by a former member - Julian (1986)
+author: "Class War Federation"
 date: 1986
 category: anti-war-peace
 tags:

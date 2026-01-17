@@ -1,5 +1,6 @@
 ---
 title: A blueprint for a party of an old type
+author: "Scott Jay"
 date: 2016
 category: theory
 tags:

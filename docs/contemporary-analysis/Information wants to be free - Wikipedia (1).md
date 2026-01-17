@@ -1,5 +1,6 @@
 ---
 title: "Information Wants To Be Free Wikipedia (1)"
+author: "Wikipedia contributors"
 date: 1987
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Class War #4 1983'
+author: "Class War Federation"
 date: 1981
 category: anti-war-peace
 tags:

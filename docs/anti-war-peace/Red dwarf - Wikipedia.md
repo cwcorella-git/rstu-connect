@@ -1,5 +1,6 @@
 ---
 title: Red dwarf
+author: "Wikipedia contributors"
 date: 1973
 category: anti-war-peace
 tags:

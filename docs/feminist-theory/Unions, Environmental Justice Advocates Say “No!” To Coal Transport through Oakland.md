@@ -1,6 +1,6 @@
 ---
 title: >-
-author: "Staff -"
+author:
 date: 2015
   Unions, Environmental Justice Advocates Say 'No!' To Coal Transport through
   Oakland

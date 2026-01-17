@@ -1,5 +1,6 @@
 ---
 title: "Confederate States of America"
+author: "Wikipedia contributors"
 date: 1861
 category: "contemporary-analysis"
 tags:

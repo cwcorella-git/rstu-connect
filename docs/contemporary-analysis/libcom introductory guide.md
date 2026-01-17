@@ -1,5 +1,6 @@
 ---
 title: "Libcom introductory guide"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - analysis

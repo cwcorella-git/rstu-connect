@@ -1,5 +1,6 @@
 ---
 title: IWW Deliveroo riders strike and blockade in London
+author: "Industrial Workers of the World"
 category: contemporary-analysis
 tags:
   - strikes

@@ -1,5 +1,6 @@
 ---
 title: "Centralized Government Wikipedia"
+author: "Wikipedia contributors"
 date: 1987
 category: theory
 tags:

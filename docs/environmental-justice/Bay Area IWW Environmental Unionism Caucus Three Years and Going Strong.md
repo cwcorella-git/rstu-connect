@@ -1,5 +1,6 @@
 ---
 title: 'Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong'
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

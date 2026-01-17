@@ -1,5 +1,6 @@
 ---
 title: "Robert E. Lee"
+author: "Wikipedia contributors"
 date: 1829
 category: "contemporary-analysis"
 tags:

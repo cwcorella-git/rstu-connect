@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Industrial Workers of the World"
 date: 2022
   Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative
   Ocean Farmer

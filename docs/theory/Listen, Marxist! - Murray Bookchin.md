@@ -1,5 +1,6 @@
 ---
 title: 'Listen, Marxist! - Murray Bookchin'
+author: "Murray Bookchin"
 date: 1937
 category: theory
 tags:

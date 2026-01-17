@@ -1,5 +1,6 @@
 ---
 title: Abraham Lincoln
+author: "Wikipedia contributors"
 date: 1861
 category: theory
 tags:

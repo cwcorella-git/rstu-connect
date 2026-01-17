@@ -1,5 +1,6 @@
 ---
 title: "Ecology.iww.org"
+author: "Industrial Workers of the World"
 date: 2025
 category: organizing
 tags:

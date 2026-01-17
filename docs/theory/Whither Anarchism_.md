@@ -1,5 +1,6 @@
 ---
 title: Murray Bookchin Whither Anarchism? A Reply to Recent Anarchist Critics 1998
+author: "Murray Bookchin"
 date: 1981
 category: contemporary-analysis
 tags:

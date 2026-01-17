@@ -1,5 +1,6 @@
 ---
 title: Alain Ehrenberg
+author: "Wikipedia contributors"
 date: 2010
 category: technology-digital-justice
 tags:

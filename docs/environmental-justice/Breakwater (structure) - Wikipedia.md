@@ -1,5 +1,6 @@
 ---
 title: Breakwater (structure)
+author: "Wikipedia contributors"
 date: 2019
 category: environmental-justice
 tags:

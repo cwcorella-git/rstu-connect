@@ -1,6 +1,6 @@
 ---
 title: Edinburgh IWW statement on Scotrail/RMT railworkers strikes
-author: "Staff -"
+author:
 date: 2016
 category: technology-digital-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Keyline Design Wikipedia"
+author: "Wikipedia contributors"
 date: 1954
 category: contemporary-analysis
 tags:

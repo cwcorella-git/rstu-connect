@@ -1,5 +1,6 @@
 ---
 title: "About the Author"
+author: "Hans Rosling"
 date: 2018
 category: "contemporary-analysis"
 tags:

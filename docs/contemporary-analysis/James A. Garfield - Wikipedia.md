@@ -1,5 +1,6 @@
 ---
 title: "James A. Garfield"
+author: "Wikipedia contributors"
 date: 1881
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Haymarket affair
+author: "Wikipedia contributors"
 date: 1886
 category: technology-digital-justice
 tags:

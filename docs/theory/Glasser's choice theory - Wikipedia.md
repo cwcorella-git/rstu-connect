@@ -1,5 +1,6 @@
 ---
 title: Glasser's choice theory
+author: "Wikipedia contributors"
 date: 2008
 category: theory
 tags:

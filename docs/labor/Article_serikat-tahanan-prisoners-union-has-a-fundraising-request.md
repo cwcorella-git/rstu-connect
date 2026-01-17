@@ -1,6 +1,6 @@
 ---
 title: Serikat Tahanan Prisoners Union Has a Fundraising Request
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

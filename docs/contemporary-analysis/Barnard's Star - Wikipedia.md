@@ -1,5 +1,6 @@
 ---
 title: Barnard's Star
+author: "Wikipedia contributors"
 date: 1916
 category: contemporary-analysis
 tags:

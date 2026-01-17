@@ -1,5 +1,6 @@
 ---
 title: The Origins of Collective Decision-Making by Andy Blunden
+author: "Andy Blunden"
 category: theory
 tags:
   - theory

@@ -1,5 +1,6 @@
 ---
 title: "En.wikipedia.org)"
+author: "Wikipedia contributors"
 date: 1983
 category: contemporary-analysis
 tags:

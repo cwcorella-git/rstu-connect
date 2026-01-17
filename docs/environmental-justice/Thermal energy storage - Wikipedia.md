@@ -1,5 +1,6 @@
 ---
 title: Thermal energy storage
+author: "Wikipedia contributors"
 date: 1995
 category: environmental-justice
 tags:

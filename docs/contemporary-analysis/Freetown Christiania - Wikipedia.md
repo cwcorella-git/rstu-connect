@@ -1,5 +1,6 @@
 ---
 title: "Freetown Christiania"
+author: "Wikipedia contributors"
 date: 1976
 category: "contemporary-analysis"
 tags:

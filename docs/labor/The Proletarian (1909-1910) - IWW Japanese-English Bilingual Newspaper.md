@@ -1,5 +1,6 @@
 ---
 title: The Proletarian (1909-1910) - IWW Japanese-English Bilingual Newspaper
+author: "Industrial Workers of the World"
 date: 1909
 category: contemporary-analysis
 tags:

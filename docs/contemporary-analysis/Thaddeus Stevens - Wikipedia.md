@@ -1,5 +1,6 @@
 ---
 title: "Thaddeus Stevens"
+author: "Wikipedia contributors"
 date: 1814
 category: "contemporary-analysis"
 tags:

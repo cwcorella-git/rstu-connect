@@ -1,6 +1,6 @@
 ---
 title: Origins of the Police David Whitehouse Libcomorg
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: abolition
 tags:

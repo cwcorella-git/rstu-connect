@@ -1,5 +1,6 @@
 ---
 title: How to Socialize America's Energy
+author: "Kate Arnoff"
 date: 2016
 category: environmental-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Battle of Appomattox Court House
+author: "Wikipedia contributors"
 date: 1865
 category: technology-digital-justice
 tags:

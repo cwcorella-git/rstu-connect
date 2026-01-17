@@ -1,6 +1,6 @@
 ---
 title: Police Powers Bill Preparing For Class War
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: abolition
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Ranked-choice voting in the United States"
+author: "Wikipedia contributors"
 date: 2019
 category: "contemporary-analysis"
 tags:

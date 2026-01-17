@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Industrial Workers of the World"
 date: 2016
   Rank-and-File Union Members Join Standing Rock Camp, As Crackdown on Opponents
   of Pipeline Esca

@@ -1,5 +1,6 @@
 ---
 title: A Change of Heart—Revolutionary Ecology in a World of Climate Change
+author: "Rob DiPerna"
 date: 1990
 category: theory
 tags:

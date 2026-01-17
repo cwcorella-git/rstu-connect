@@ -2,7 +2,7 @@
 title: >-
   Factionalism in Transition a Comparison of Ruptures in the Spanish Anarchist
   Mov
-author: Unknown
+author: "Confederación Nacional del Trabajo"
 date: '2025'
 category: theory
 tags:

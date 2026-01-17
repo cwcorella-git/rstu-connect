@@ -1,5 +1,6 @@
 ---
 title: 'Class War #12 1984'
+author: "Class War Federation"
 category: anti-war-peace
 tags:
   - anti-war

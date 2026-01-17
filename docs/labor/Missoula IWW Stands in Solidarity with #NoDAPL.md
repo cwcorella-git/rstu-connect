@@ -1,5 +1,6 @@
 ---
 title: 'Missoula IWW Stands in Solidarity with #NoDAPL'
+author: "Industrial Workers of the World"
 date: 2016
 category: labor
 tags:

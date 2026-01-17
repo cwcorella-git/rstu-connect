@@ -1,6 +1,6 @@
 ---
 title: Timperley Village Anarchist Tv Am
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: theory
 tags:

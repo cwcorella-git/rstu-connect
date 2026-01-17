@@ -2,7 +2,7 @@
 title: >-
   A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas
   Suffoc
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: abolition
 tags:

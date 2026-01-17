@@ -1,5 +1,6 @@
 ---
 title: "Charles Sumner"
+author: "Wikipedia contributors"
 date: 1869
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Christian Zionism"
+author: "Wikipedia contributors"
 date: 1909
 category: "contemporary-analysis"
 tags:

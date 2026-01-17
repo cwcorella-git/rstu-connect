@@ -1,5 +1,6 @@
 ---
 title: 'Prism: The Internet as New Enclosure'
+author: "CrimethInc."
 category: technology-digital-justice
 tags:
   - technology

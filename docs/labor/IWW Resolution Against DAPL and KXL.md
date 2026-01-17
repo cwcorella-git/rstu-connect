@@ -1,5 +1,6 @@
 ---
 title: IWW Resolution Against DAPL and KXL
+author: "Industrial Workers of the World"
 date: 2017
 category: labor
 tags:

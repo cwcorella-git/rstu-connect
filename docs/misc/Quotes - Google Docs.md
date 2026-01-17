@@ -1,6 +1,6 @@
 ---
 title: "Quotes - Google Docs"
-author: "Google Docs"
+author:
 date: "2025"
 category: "misc"
 tags:

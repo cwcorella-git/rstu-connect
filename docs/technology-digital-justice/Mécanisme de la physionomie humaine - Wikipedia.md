@@ -1,5 +1,6 @@
 ---
 title: Mécanisme de la physionomie humaine
+author: "Wikipedia contributors"
 date: 1862
 category: technology-digital-justice
 tags:

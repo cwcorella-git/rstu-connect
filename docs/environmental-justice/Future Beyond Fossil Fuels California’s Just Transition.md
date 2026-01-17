@@ -1,5 +1,6 @@
 ---
 title: 'Future Beyond Fossil Fuels: California''s Just Transition'
+author: "Industrial Workers of the World"
 date: 2020
 category: feminist-theory
 tags:

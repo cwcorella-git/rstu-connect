@@ -1,6 +1,6 @@
 ---
 title: "Copy of RSTU General Meeting 6_25_25 - Google Docs"
-author: "Google Docs"
+author:
 date: "2025"
 category: "misc"
 tags:

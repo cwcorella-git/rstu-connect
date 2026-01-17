@@ -1,5 +1,6 @@
 ---
 title: "The Image Seen 'Round the World"
+author: "Industrial Workers of the World"
 date: 2017
 category: "contemporary-analysis"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'About The Organization Of Anarchists In Ukraine: Point Of View Of A Member'
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: theory
 tags:

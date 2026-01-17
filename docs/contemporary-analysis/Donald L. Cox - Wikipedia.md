@@ -1,5 +1,6 @@
 ---
 title: "Donald L. Cox Wikipedia"
+author: "Wikipedia contributors"
 date: 2019
 category: contemporary-analysis
 tags:

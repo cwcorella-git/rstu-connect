@@ -1,5 +1,6 @@
 ---
 title: Murray Bookchin What is Social Ecology? 1993
+author: "Murray Bookchin"
 category: environmental-justice
 tags:
   - environment

@@ -1,5 +1,6 @@
 ---
 title: On "fundamentalism" in the IWW
+author: "Industrial Workers of the World"
 date: 2017
 category: labor
 tags:

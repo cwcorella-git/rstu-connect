@@ -1,5 +1,6 @@
 ---
 title: The Meaning of Work in a Sustainable Society
+author: "Industrial Workers of the World"
 date: 1888
 category: environmental-justice
 tags:

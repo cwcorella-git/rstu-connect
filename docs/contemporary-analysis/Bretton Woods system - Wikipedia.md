@@ -1,5 +1,6 @@
 ---
 title: "Bretton Woods system"
+author: "Wikipedia contributors"
 date: 1945
 category: "contemporary-analysis"
 tags:

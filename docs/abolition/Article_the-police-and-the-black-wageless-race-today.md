@@ -1,6 +1,6 @@
 ---
 title: The Police And The Black Wageless Race Today
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: abolition
 tags:

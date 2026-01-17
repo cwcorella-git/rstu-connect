@@ -1,5 +1,6 @@
 ---
 title: "Webb Miller (journalist)"
+author: "Wikipedia contributors"
 date: 1918
 category: "contemporary-analysis"
 tags:

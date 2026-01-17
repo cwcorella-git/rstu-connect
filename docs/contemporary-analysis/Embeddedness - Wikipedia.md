@@ -1,5 +1,6 @@
 ---
 title: "Embeddedness"
+author: "Wikipedia contributors"
 date: 1989
 category: "contemporary-analysis"
 tags:

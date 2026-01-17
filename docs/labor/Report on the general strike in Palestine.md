@@ -1,5 +1,6 @@
 ---
 title: Report on the general strike in Palestine
+author:
 date: 1987
 category: labor
 tags:

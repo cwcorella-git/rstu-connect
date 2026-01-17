@@ -1,5 +1,6 @@
 ---
 title: IWW report from the 30th SAC Congress
+author: "Industrial Workers of the World"
 date: 2009
 category: contemporary-analysis
 tags:

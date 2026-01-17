@@ -1,5 +1,6 @@
 ---
 title: WHAT IS THE IWW?
+author: "Industrial Workers of the World"
 date: 1995
 category: labor
 tags:

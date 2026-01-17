@@ -1,5 +1,6 @@
 ---
 title: "Cognitive dissonance"
+author: "Wikipedia contributors"
 date: 1956
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Solidarity and Class War meet uptown – Andy Brown
+author: "Class War Federation"
 category: anti-war-peace
 tags:
   - solidarity

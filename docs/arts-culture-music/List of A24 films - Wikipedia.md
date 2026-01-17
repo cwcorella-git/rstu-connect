@@ -1,5 +1,6 @@
 ---
 title: "List Of A24 Films Wikipedia"
+author: "Wikipedia contributors"
 date: 2022
 category: arts-culture-music
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Police Powers Bill Preparing For
-author: Unknown
+author: "Class War Federation"
 date: '2022'
 category: abolition
 tags:

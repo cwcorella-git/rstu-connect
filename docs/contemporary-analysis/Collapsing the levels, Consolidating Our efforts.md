@@ -1,5 +1,6 @@
 ---
 title: "Collapsing the levels, Consolidating Our efforts"
+author: "SN Nappalos"
 date: 2015
 category: "contemporary-analysis"
 tags:

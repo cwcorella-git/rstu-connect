@@ -1,5 +1,6 @@
 ---
 title: Battle of Blair Mountain
+author: "Wikipedia contributors"
 date: 1920
 category: labor
 tags:

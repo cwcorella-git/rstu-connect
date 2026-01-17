@@ -1,5 +1,6 @@
 ---
 title: Eudaimonia
+author: "Wikipedia contributors"
 category: technology-digital-justice
 tags:
   - technology

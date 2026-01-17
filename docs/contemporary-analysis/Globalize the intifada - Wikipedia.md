@@ -1,5 +1,6 @@
 ---
 title: "Globalize the intifada"
+author: "Wikipedia contributors"
 date: 1976
 category: "contemporary-analysis"
 tags:

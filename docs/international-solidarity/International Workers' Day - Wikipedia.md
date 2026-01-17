@@ -1,5 +1,6 @@
 ---
 title: International Workers' Day
+author: "Wikipedia contributors"
 date: 1889
 category: international-solidarity
 tags:

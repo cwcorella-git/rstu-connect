@@ -1,5 +1,6 @@
 ---
 title: "Book Review: The Dawn of Everything: A New History of Humanity"
+author: "Industrial Workers of the World"
 date: 2019
 category: "arts-culture-music"
 tags:

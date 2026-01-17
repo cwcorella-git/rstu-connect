@@ -1,5 +1,6 @@
 ---
 title: 'IWW supports UCU HE action on pay, anti-casualisation and gender pay gap'
+author: "Industrial Workers of the World"
 date: 2016
 category: feminist-theory
 tags:

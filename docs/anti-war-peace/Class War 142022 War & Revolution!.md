@@ -1,5 +1,6 @@
 ---
 title: 'Class War 14/2022: War & Revolution!?'
+author: "Class War Federation"
 date: 2014
 category: anti-war-peace
 tags:

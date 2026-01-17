@@ -1,5 +1,6 @@
 ---
 title: Escaping the Default Future When Writing Science Fiction
+author: "Freie Arbeiterinnen- und Arbeiter-Union"
 category: contemporary-analysis
 tags:
   - analysis

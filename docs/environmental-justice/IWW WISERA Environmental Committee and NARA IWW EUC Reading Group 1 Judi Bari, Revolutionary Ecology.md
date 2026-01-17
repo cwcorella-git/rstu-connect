@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Industrial Workers of the World"
 date: 2023
   IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 1: Judi
   Bari, "Revolutionary

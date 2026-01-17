@@ -1,5 +1,6 @@
 ---
 title: Scipio Africanus
+author: "Wikipedia contributors"
 category: international-solidarity
 tags:
   - international

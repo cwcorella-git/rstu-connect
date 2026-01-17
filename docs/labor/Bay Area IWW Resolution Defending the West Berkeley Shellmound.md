@@ -1,5 +1,6 @@
 ---
 title: Bay Area IWW Resolution Defending the West Berkeley Shellmound
+author: "Industrial Workers of the World"
 date: 2017
 category: contemporary-analysis
 tags:

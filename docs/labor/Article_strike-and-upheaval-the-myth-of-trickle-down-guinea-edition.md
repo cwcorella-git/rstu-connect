@@ -1,6 +1,6 @@
 ---
 title: Strike And Upheaval The Myth Of Trickle Down Guinea Edition
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:

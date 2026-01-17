@@ -1,6 +1,6 @@
 ---
 title: Statement of Solidarity with Railroad Workers
-author: "Staff -"
+author:
 date: 2022
 category: technology-digital-justice
 tags:

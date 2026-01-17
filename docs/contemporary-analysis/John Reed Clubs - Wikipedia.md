@@ -1,5 +1,6 @@
 ---
 title: "John Reed Clubs"
+author: "Wikipedia contributors"
 date: 1930
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Sherman Antitrust Act"
+author: "Wikipedia contributors"
 date: 1993
 category: "contemporary-analysis"
 tags:

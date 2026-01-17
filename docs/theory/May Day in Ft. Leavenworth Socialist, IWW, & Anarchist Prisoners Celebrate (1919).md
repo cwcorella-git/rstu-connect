@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Industrial Workers of the World"
 date: 1919
   May Day in Ft. Leavenworth: Socialist, IWW, & Anarchist Prisoners Celebrate
   (1919)

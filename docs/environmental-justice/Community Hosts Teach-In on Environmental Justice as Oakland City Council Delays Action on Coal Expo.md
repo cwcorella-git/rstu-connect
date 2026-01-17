@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "April Thomas"
 date: 2015
   Community Hosts Teach-In on Environmental Justice as Oakland City Council
   Delays Action on Coal

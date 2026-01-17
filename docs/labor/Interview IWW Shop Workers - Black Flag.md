@@ -1,5 +1,6 @@
 ---
 title: 'Interview: IWW Shop Workers - Black Flag'
+author: "Industrial Workers of the World"
 category: contemporary-analysis
 tags:
   - unions

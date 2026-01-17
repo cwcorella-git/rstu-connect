@@ -1,5 +1,6 @@
 ---
 title: 'One Big Union, One Long Fight'
+author: "Industrial Workers of the World"
 date: 2011
 category: labor
 tags:

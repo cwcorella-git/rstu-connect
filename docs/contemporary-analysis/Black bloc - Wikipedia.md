@@ -1,5 +1,6 @@
 ---
 title: "Black bloc"
+author: "Wikipedia contributors"
 date: 2017
 category: "contemporary-analysis"
 tags:

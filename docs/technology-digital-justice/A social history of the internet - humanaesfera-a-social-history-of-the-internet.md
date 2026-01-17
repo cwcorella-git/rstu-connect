@@ -1,5 +1,6 @@
 ---
 title: The Anarchist Library Anti-Copyright
+author: "The Anarchist Library"
 category: technology-digital-justice
 tags:
   - anarchism

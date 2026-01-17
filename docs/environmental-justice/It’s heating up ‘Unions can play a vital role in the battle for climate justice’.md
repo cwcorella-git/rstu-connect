@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Industrial Workers of the World"
 date: 2016
   It's heating up: 'Unions can play a vital role in the battle for climate
   justice'

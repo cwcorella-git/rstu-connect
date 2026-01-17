@@ -1,6 +1,6 @@
 ---
 title: Us Coal Miners Strikes 1894 Jeremy Brecher
-author: Unknown
+author: "libcom.org"
 date: '2025'
 category: labor
 tags:
