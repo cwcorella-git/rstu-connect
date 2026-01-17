@@ -1,8 +1,8 @@
 {
-  "commit": "c3aa1230",
-  "message": "Use only Heroicons for resource category icons",
+  "commit": "1d84ef5f",
+  "message": "Replace problematic icons with better Heroicons",
   "author": "cwcorella-git",
-  "date": "2026-01-16 05:53:15 -0800",
+  "date": "2026-01-16 05:59:04 -0800",
   "branch": "main",
-  "buildTime": "2026-01-16T13:58:21.183Z"
+  "buildTime": "2026-01-16T21:16:24.163Z"
 }

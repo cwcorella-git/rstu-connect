@@ -4960,6 +4960,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'organizing.noProgressYet': 'Wala pang progreso sa pag-organisa',
     'organizing.beFirstToOrganize': 'Maging una sa pag-organisa sa gusaling ito! Ibahagi ang mga invite code sa iyong mga kapitbahay.',
     'organizing.reached': 'nakausap',
+    'organizing.notInterested': 'Hindi interesado',
 
     // Campaign
     'campaign.noCampaign': 'Walang Aktibong Kampanya',
@@ -6758,6 +6759,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'organizing.noProgressYet': '暂无组织进度',
     'organizing.beFirstToOrganize': '成为第一个在这栋楼组织的人！与邻居分享邀请码。',
     'organizing.reached': '已联系',
+    'organizing.notInterested': '不感兴趣',
 
     // Campaign
     'campaign.noCampaign': '无活动活动',
@@ -8536,6 +8538,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'organizing.noProgressYet': 'Chưa có tiến độ tổ chức',
     'organizing.beFirstToOrganize': 'Hãy là người đầu tiên tổ chức tại tòa nhà này! Chia sẻ mã mời với hàng xóm của bạn.',
     'organizing.reached': 'đã liên hệ',
+    'organizing.notInterested': 'Không quan tâm',
 
     // Campaign
     'campaign.noCampaign': 'Không có Chiến dịch Hoạt động',
