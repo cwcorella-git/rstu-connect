@@ -92,7 +92,7 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
           id="occupants"
           type="number"
           value={occupants}
-          onChange={(e) => setOccupants(e.target.value)}
+          onChange={(e) => handleOccupantsChange(e.target.value)}
           placeholder="2"
           min="1"
           max="20"
@@ -107,7 +107,7 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
           <label className="block text-sm font-medium text-gray-700 mb-3">Do you have children living with you?</label>
           <div className="flex gap-3">
             <button
-              onClick={() => setHasChildren(true)}
+              onClick={() => handleChildrenChange(true)}
               className={`flex-1 py-3 px-4 rounded-lg font-medium text-sm transition-all ${
                 hasChildren
                   ? 'bg-rstu-red text-white'
@@ -117,7 +117,7 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
               Yes
             </button>
             <button
-              onClick={() => setHasChildren(false)}
+              onClick={() => handleChildrenChange(false)}
               className={`flex-1 py-3 px-4 rounded-lg font-medium text-sm transition-all ${
                 !hasChildren
                   ? 'bg-rstu-red text-white'
@@ -133,7 +133,7 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
           <label className="block text-sm font-medium text-gray-700 mb-3">Do you have pets?</label>
           <div className="flex gap-3">
             <button
-              onClick={() => setHasPets(true)}
+              onClick={() => handlePetsChange(true)}
               className={`flex-1 py-3 px-4 rounded-lg font-medium text-sm transition-all ${
                 hasPets
                   ? 'bg-rstu-red text-white'
@@ -143,7 +143,7 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
               Yes
             </button>
             <button
-              onClick={() => setHasPets(false)}
+              onClick={() => handlePetsChange(false)}
               className={`flex-1 py-3 px-4 rounded-lg font-medium text-sm transition-all ${
                 !hasPets
                   ? 'bg-rstu-red text-white'
@@ -165,7 +165,7 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
           id="move-in-date"
           type="text"
           value={moveInDate}
-          onChange={(e) => setMoveInDate(e.target.value)}
+          onChange={(e) => handleMoveInChange(e.target.value)}
           placeholder="e.g., January 2023 or 1/15/2023"
           className="w-full px-4 py-3 border border-gray-300 rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
         />
