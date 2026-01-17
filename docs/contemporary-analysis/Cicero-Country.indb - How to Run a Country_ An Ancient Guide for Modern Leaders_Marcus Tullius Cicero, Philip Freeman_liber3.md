@@ -1,5 +1,6 @@
 ---
 title: An Ancient Guide for Modern Leaders
+author: "Princeton University Press"
 date: 2013
 category: contemporary-analysis
 tags:

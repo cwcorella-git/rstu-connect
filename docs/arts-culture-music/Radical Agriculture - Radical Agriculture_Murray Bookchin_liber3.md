@@ -1,5 +1,6 @@
 ---
-title: "Radial Agriulture"
+title: "Radical Agriculture"
+author: "Murray Bookchin"
 date: 1972
 category: arts-culture-music
 tags:

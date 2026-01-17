@@ -1,5 +1,6 @@
 ---
 title: 'Palestine: The No-State Solution'
+author: "James Herod"
 date: 2009
 category: international-solidarity
 tags:

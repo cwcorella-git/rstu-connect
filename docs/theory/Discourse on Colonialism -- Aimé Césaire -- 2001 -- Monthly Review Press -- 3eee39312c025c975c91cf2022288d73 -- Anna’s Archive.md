@@ -1,5 +1,6 @@
 ---
 title: COLONIALISM
+author: "Editions Presence Africaine"
 date: 1972
 category: theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: The Principles of Communism
+author: "Andy Blunden"
 date: 1969
 category: contemporary-analysis
 tags:

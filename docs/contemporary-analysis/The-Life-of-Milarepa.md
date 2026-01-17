@@ -1,5 +1,6 @@
 ---
 title: "TSANGNYÖN HERUKA"
+author: "Donald S. Lopez Jr"
 date: 2010
 category: "contemporary-analysis"
 tags:

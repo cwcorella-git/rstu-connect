@@ -1,6 +1,6 @@
 ---
-title: ANARCHY in ACTION
-author:
+title: "Anarchy in Action"
+author: "Colin Ward"
 date: 1973
 category: anti-war-peace
 tags:

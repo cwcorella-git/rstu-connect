@@ -1,5 +1,6 @@
 ---
 title: "John Rawls"
+author: "Thomas Pogge"
 date: 1994
 category: "contemporary-analysis"
 tags:

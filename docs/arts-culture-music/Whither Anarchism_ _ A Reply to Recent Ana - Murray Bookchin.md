@@ -1,5 +1,6 @@
 ---
 title: Whither Anarchism?
+author: "Murray Bookchin"
 date: 1998
 category: arts-culture-music
 tags:

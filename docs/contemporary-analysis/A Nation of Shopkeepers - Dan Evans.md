@@ -1,5 +1,6 @@
 ---
 title: "A Nation of Shopkeepers"
+author: "Dan Evans"
 date: 2023
 category: "contemporary-analysis"
 tags:

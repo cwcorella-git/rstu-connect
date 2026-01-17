@@ -1,5 +1,6 @@
 ---
 title: Henri Lefebvre
+author: "Sacha Rabinovitch"
 date: 1969
 category: contemporary-analysis
 tags:

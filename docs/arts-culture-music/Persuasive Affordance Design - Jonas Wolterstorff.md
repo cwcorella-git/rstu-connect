@@ -1,5 +1,6 @@
 ---
-title: "TABLE 1: COMMON PSYCHOLOGICAL FACTORS LINKED TO GAMES (HA-"
+title: "Persuasive Affordance Design"
+author: "Jonas Wolterstorff"
 date: 2015
 category: "arts-culture-music"
 tags:

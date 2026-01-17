@@ -1,5 +1,6 @@
 ---
 title: 'Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review'
+author: "James Herod"
 date: 1969
 category: contemporary-analysis
 tags:
