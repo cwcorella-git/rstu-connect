@@ -1788,6 +1788,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.support': 'Support',
     'collective.oppose': 'Oppose',
 
+    // Mission Header
+    'mission.tagline': 'Housing is a right, not a privilege',
+    'mission.expand': 'Expand',
+    'mission.collapse': 'Collapse',
+    'mission.title': 'Reno-Sparks Tenants Union',
+    'mission.subtitle': 'Building collective power for housing justice',
+    'mission.stats.rentals': 'rentals tracked',
+    'mission.stats.rentIncrease': 'rent increase (5yr)',
+    'mission.stats.corporate': 'corporate-owned',
+    'mission.stats.members': 'active members',
+    'mission.action.report': 'Report Issue',
+    'mission.action.meeting': 'Find Meeting',
+    'mission.action.rights': 'Know Your Rights',
+
   },
   es: {
     // Navigation
@@ -3528,6 +3542,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.votesCount': '{net}/{threshold} votos',
     'collective.support': 'Apoyar',
     'collective.oppose': 'Oponerse',
+
+    // Mission Header
+    'mission.tagline': 'La vivienda es un derecho, no un privilegio',
+    'mission.expand': 'Expandir',
+    'mission.collapse': 'Colapsar',
+    'mission.title': 'Unión de Inquilinos de Reno-Sparks',
+    'mission.subtitle': 'Construyendo poder colectivo para la justicia de vivienda',
+    'mission.stats.rentals': 'alquileres rastreados',
+    'mission.stats.rentIncrease': 'aumento de alquiler (5 años)',
+    'mission.stats.corporate': 'propiedad corporativa',
+    'mission.stats.members': 'miembros activos',
+    'mission.action.report': 'Reportar Problema',
+    'mission.action.meeting': 'Encontrar Reunión',
+    'mission.action.rights': 'Conoce Tus Derechos',
 
   },
   tl: {
@@ -5325,6 +5353,19 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.support': 'Suportahan',
     'collective.oppose': 'Tutulan',
 
+    // Mission Header
+    'mission.tagline': 'Ang pabahay ay karapatan, hindi pribilehiyo',
+    'mission.expand': 'Palawakin',
+    'mission.collapse': 'I-collapse',
+    'mission.title': 'Unyon ng mga Nangungupahan ng Reno-Sparks',
+    'mission.subtitle': 'Nagtatayo ng kolektibong kapangyarihan para sa hustisya sa pabahay',
+    'mission.stats.rentals': 'mga upa na sinusubaybayan',
+    'mission.stats.rentIncrease': 'pagtaas ng upa (5 taon)',
+    'mission.stats.corporate': 'pag-aari ng korporasyon',
+    'mission.stats.members': 'aktibong miyembro',
+    'mission.action.report': 'Mag-ulat ng Isyu',
+    'mission.action.meeting': 'Hanapin ang Pulong',
+    'mission.action.rights': 'Alamin ang Iyong Karapatan',
 
     // Reading - additional
     'reading.backToList': 'Bumalik sa listahan ng dokumento',
@@ -7123,6 +7164,19 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.support': '支持',
     'collective.oppose': '反对',
 
+    // Mission Header
+    'mission.tagline': '住房是权利，不是特权',
+    'mission.expand': '展开',
+    'mission.collapse': '收起',
+    'mission.title': '雷诺-斯帕克斯租户联盟',
+    'mission.subtitle': '为住房正义建立集体力量',
+    'mission.stats.rentals': '追踪的出租房',
+    'mission.stats.rentIncrease': '租金上涨（5年）',
+    'mission.stats.corporate': '企业所有',
+    'mission.stats.members': '活跃成员',
+    'mission.action.report': '报告问题',
+    'mission.action.meeting': '查找会议',
+    'mission.action.rights': '了解您的权利',
 
     // Reading - additional
     'reading.backToList': '返回文档列表',
@@ -8902,6 +8956,19 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.support': 'Ủng hộ',
     'collective.oppose': 'Phản đối',
 
+    // Mission Header
+    'mission.tagline': 'Nhà ở là quyền lợi, không phải đặc quyền',
+    'mission.expand': 'Mở rộng',
+    'mission.collapse': 'Thu gọn',
+    'mission.title': 'Liên đoàn Người thuê nhà Reno-Sparks',
+    'mission.subtitle': 'Xây dựng sức mạnh tập thể vì công lý nhà ở',
+    'mission.stats.rentals': 'căn hộ cho thuê được theo dõi',
+    'mission.stats.rentIncrease': 'tăng tiền thuê (5 năm)',
+    'mission.stats.corporate': 'thuộc sở hữu doanh nghiệp',
+    'mission.stats.members': 'thành viên tích cực',
+    'mission.action.report': 'Báo cáo vấn đề',
+    'mission.action.meeting': 'Tìm cuộc họp',
+    'mission.action.rights': 'Biết quyền của bạn',
 
     // Reading - additional
     'reading.backToList': 'Quay lại danh sách tài liệu',
