@@ -31,19 +31,29 @@ const LAND_USE_CODES: Record<string, string> = {
   '500': 'Commercial (general)',
 };
 
-// Tooltip component
+// Tooltip component with tap-to-toggle support for touch devices
 function Tooltip({ text, children }: { text?: string; children: React.ReactNode }) {
+  const [isVisible, setIsVisible] = useState(false);
   const tooltipText = text || 'Code definition not available';
+
   return (
-    <span className="relative group cursor-help border-b-2 border-dotted border-gray-400 hover:border-rstu-red">
+    <button
+      type="button"
+      onClick={() => setIsVisible(!isVisible)}
+      onBlur={() => setIsVisible(false)}
+      className="relative cursor-help border-b-2 border-dotted border-gray-400 hover:border-rstu-red focus:outline-none focus:border-rstu-red inline text-left"
+      aria-label={`Show definition: ${tooltipText}`}
+    >
       {children}
-      <span className="absolute invisible group-hover:visible opacity-0 group-hover:opacity-100
-                       transition-opacity bg-gray-900 text-white text-xs px-2 py-1 rounded
-                       whitespace-nowrap bottom-full left-0 mb-1 z-50 shadow-lg pointer-events-none">
+      <span
+        className={`absolute bg-gray-900 text-white text-xs px-2 py-1 rounded
+                    whitespace-nowrap bottom-full left-0 mb-1 z-50 shadow-lg
+                    transition-opacity ${isVisible ? 'visible opacity-100' : 'invisible opacity-0'}`}
+      >
         {tooltipText}
         <span className="absolute top-full left-2 border-4 border-transparent border-t-gray-900"></span>
       </span>
-    </span>
+    </button>
   );
 }
 
