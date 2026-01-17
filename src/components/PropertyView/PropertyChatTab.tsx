@@ -209,7 +209,7 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
 
       {/* Organizing Status Bar */}
       <OrganizingStatusBar
-        buildingId={building.apn}
+        buildingId={chatSlug}
         buildingAddress={buildingAddress}
         totalUnits={building.units}
       />

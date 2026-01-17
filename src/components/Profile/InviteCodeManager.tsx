@@ -138,14 +138,14 @@ export function InviteCodeManager() {
 
   const handleCreate = async () => {
     const selectedBuilding = selectedBuildingId
-      ? buildings.find(b => b.apn === selectedBuildingId)
+      ? buildings.find(b => b.chatSlug === selectedBuildingId)
       : null
 
     const options: CreateInviteOptions = {
       grantRole,
       maxUses,
       expiresIn,
-      buildingId: selectedBuildingId || undefined,
+      buildingId: selectedBuildingId || undefined,  // Now stores chatSlug
       buildingAddress: selectedBuilding?.address || undefined,
       unitNumber: unitNumber.trim() || undefined,
     }
@@ -312,10 +312,10 @@ export function InviteCodeManager() {
                     .slice(0, 10)
                     .map((building) => (
                       <button
-                        key={building.apn}
+                        key={building.chatSlug}
                         type="button"
                         onClick={() => {
-                          setSelectedBuildingId(building.apn)
+                          setSelectedBuildingId(building.chatSlug)
                           setBuildingSearch(building.address)
                         }}
                         className="w-full text-left px-3 py-2 hover:bg-gray-50 border-b border-gray-100 last:border-b-0 text-sm"
@@ -331,7 +331,7 @@ export function InviteCodeManager() {
               {selectedBuildingId && (
                 <div className="mt-2 p-2 bg-blue-50 border border-blue-200 rounded-md text-sm">
                   <div className="font-medium text-blue-900">
-                    {buildings.find(b => b.apn === selectedBuildingId)?.address}
+                    {buildings.find(b => b.chatSlug === selectedBuildingId)?.address}
                   </div>
                   <button
                     type="button"

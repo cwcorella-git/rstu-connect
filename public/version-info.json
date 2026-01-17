@@ -1,8 +1,8 @@
 {
-  "commit": "707d496b",
-  "message": "Fix infinite re-render loop in StepHousehold",
+  "commit": "22a879d7",
+  "message": "Fix invalid frontmatter in document library",
   "author": "cwcorella-git",
-  "date": "2026-01-16 20:35:02 -0800",
+  "date": "2026-01-16 21:04:04 -0800",
   "branch": "main",
-  "buildTime": "2026-01-17T05:02:58.732Z"
+  "buildTime": "2026-01-17T05:16:02.695Z"
 }

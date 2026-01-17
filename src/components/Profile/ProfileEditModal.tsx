@@ -76,7 +76,7 @@ export function ProfileEditModal({ isOpen, onClose, buildings, onSave }: Profile
   if (!isOpen || !profile) return null
 
   const selectedBuilding = selectedBuildingId
-    ? buildings.find(b => b.apn === selectedBuildingId)
+    ? buildings.find(b => b.chatSlug === selectedBuildingId)
     : null
 
   // Search buildings
@@ -153,10 +153,10 @@ export function ProfileEditModal({ isOpen, onClose, buildings, onSave }: Profile
                 <div className="mt-2 border border-gray-200 rounded-lg bg-white max-h-48 overflow-y-auto">
                   {filteredBuildings.map((building) => (
                     <button
-                      key={building.apn}
+                      key={building.chatSlug}
                       type="button"
                       onClick={() => {
-                        setSelectedBuildingId(building.apn)
+                        setSelectedBuildingId(building.chatSlug)
                         setBuildingSearch(building.address)
                       }}
                       className="w-full text-left px-3 py-2 hover:bg-gray-50 border-b border-gray-100 last:border-b-0 text-sm"
