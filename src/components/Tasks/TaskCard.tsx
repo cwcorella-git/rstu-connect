@@ -1,32 +1,75 @@
 'use client'
 
+import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 import {
   Task,
+  TaskStatus,
   isOverdue,
   isDueSoon,
   formatDueDate,
   getPriorityColor,
   TASK_TYPES,
+  TASK_STATUSES,
 } from '@/lib/taskStorage'
 
 interface TaskCardProps {
   task: Task
   onClick: () => void
+  onStatusChange?: (taskId: string, newStatus: TaskStatus) => void
 }
 
-export function TaskCard({ task, onClick }: TaskCardProps) {
+// Get status icon for move buttons
+function getStatusIcon(status: TaskStatus): string {
+  switch (status) {
+    case 'todo': return '○'
+    case 'in_progress': return '◐'
+    case 'blocked': return '⊘'
+    case 'done': return '●'
+    default: return '○'
+  }
+}
+
+// Get status color for buttons
+function getStatusButtonColor(status: TaskStatus): string {
+  switch (status) {
+    case 'todo': return 'bg-gray-100 hover:bg-gray-200 text-gray-700'
+    case 'in_progress': return 'bg-blue-100 hover:bg-blue-200 text-blue-700'
+    case 'blocked': return 'bg-red-100 hover:bg-red-200 text-red-700'
+    case 'done': return 'bg-green-100 hover:bg-green-200 text-green-700'
+    default: return 'bg-gray-100 hover:bg-gray-200 text-gray-700'
+  }
+}
+
+export function TaskCard({ task, onClick, onStatusChange }: TaskCardProps) {
   const { t } = useLanguage()
+  const [showStatusMenu, setShowStatusMenu] = useState(false)
 
   const overdue = isOverdue(task)
   const dueSoon = isDueSoon(task)
   const priorityColor = getPriorityColor(task.priority)
   const typeLabel = TASK_TYPES.find(tt => tt.value === task.type)?.labelKey
 
+  // Get available status transitions (exclude current)
+  const availableStatuses = TASK_STATUSES.filter(s => s.value !== task.status)
+
+  const handleStatusChange = (e: React.MouseEvent, newStatus: TaskStatus) => {
+    e.stopPropagation()
+    if (onStatusChange) {
+      onStatusChange(task.id, newStatus)
+    }
+    setShowStatusMenu(false)
+  }
+
+  const handleToggleMenu = (e: React.MouseEvent) => {
+    e.stopPropagation()
+    setShowStatusMenu(!showStatusMenu)
+  }
+
   return (
     <div
       onClick={onClick}
-      className="bg-white rounded-lg border border-gray-200 p-3 cursor-pointer hover:shadow-md transition-shadow"
+      className="bg-white rounded-lg border border-gray-200 p-3 cursor-pointer hover:shadow-md transition-shadow relative group"
     >
       {/* Header */}
       <div className="flex items-start justify-between gap-2 mb-2">
@@ -107,6 +150,53 @@ export function TaskCard({ task, onClick }: TaskCardProps) {
           </div>
         )}
       </div>
+
+      {/* Touch-friendly status change button - visible on mobile, hover on desktop */}
+      {onStatusChange && (
+        <div className="absolute top-2 right-2">
+          <button
+            onClick={handleToggleMenu}
+            className="p-1.5 rounded-md bg-gray-100 hover:bg-gray-200 text-gray-600
+                       opacity-100 sm:opacity-0 sm:group-hover:opacity-100 sm:group-focus-within:opacity-100
+                       transition-opacity min-w-[32px] min-h-[32px] flex items-center justify-center"
+            title={t('tasks.changeStatus') || 'Change status'}
+            aria-label={t('tasks.changeStatus') || 'Change status'}
+          >
+            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 9l4-4 4 4m0 6l-4 4-4-4" />
+            </svg>
+          </button>
+
+          {/* Status change menu */}
+          {showStatusMenu && (
+            <>
+              {/* Backdrop to close menu */}
+              <div
+                className="fixed inset-0 z-40"
+                onClick={(e) => { e.stopPropagation(); setShowStatusMenu(false); }}
+              />
+
+              {/* Menu */}
+              <div className="absolute right-0 top-full mt-1 z-50 bg-white rounded-lg shadow-lg border border-gray-200 py-1 min-w-[140px]">
+                <div className="px-2 py-1 text-xs text-gray-500 font-medium border-b border-gray-100">
+                  {t('tasks.moveTo') || 'Move to'}
+                </div>
+                {availableStatuses.map(status => (
+                  <button
+                    key={status.value}
+                    onClick={(e) => handleStatusChange(e, status.value)}
+                    className={`w-full text-left px-3 py-2 text-sm flex items-center gap-2
+                               ${getStatusButtonColor(status.value)} transition-colors`}
+                  >
+                    <span className="text-base">{getStatusIcon(status.value)}</span>
+                    <span>{t(status.labelKey)}</span>
+                  </button>
+                ))}
+              </div>
+            </>
+          )}
+        </div>
+      )}
     </div>
   )
 }

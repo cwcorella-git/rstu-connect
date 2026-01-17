@@ -119,7 +119,11 @@ export function TaskColumn({ status, tasks, onTaskClick, onDrop }: TaskColumnPro
                 onDragStart={(e) => handleDragStart(e, task.id)}
                 className="cursor-grab active:cursor-grabbing"
               >
-                <TaskCard task={task} onClick={() => onTaskClick(task)} />
+                <TaskCard
+                  task={task}
+                  onClick={() => onTaskClick(task)}
+                  onStatusChange={onDrop}
+                />
               </div>
             ))
           )}
