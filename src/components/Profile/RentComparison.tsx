@@ -3,9 +3,11 @@
 import { useState, useEffect, useMemo } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { getBuildingCanvass, getHabitabilityScore } from '@/lib/canvassStorage'
-import { calculateYoyRentIncrease, shouldAlertAboutRentIncrease, type RentHistoryEntry } from '@/lib/profileStorage'
+import { calculateYoyRentIncrease, shouldAlertAboutRentIncrease, type RentHistoryEntry, getCurrentProfile } from '@/lib/profileStorage'
 import { downloadRentDisputePDF } from '@/lib/rentDisputePDF'
 import { RentHistoryChart } from './RentHistoryChart'
+import { createProposal } from '@/lib/governanceStorage'
+import { getGroupForApn } from '@/lib/linkedPropertiesStorage'
 
 interface RentComparisonProps {
   building: EnhancedBuilding
@@ -14,6 +16,7 @@ interface RentComparisonProps {
   rentHistory?: RentHistoryEntry[]
   onUpdateRent?: (rent: number) => void
   onAddHistoryEntry?: (date: string, amount: number) => void
+  onNavigateToBuilding?: (chatSlug: string) => void
 }
 
 interface RentStats {
@@ -24,7 +27,7 @@ interface RentStats {
   median: number
 }
 
-export function RentComparison({ building, unitNumber, userRent, rentHistory, onUpdateRent, onAddHistoryEntry }: RentComparisonProps) {
+export function RentComparison({ building, unitNumber, userRent, rentHistory, onUpdateRent, onAddHistoryEntry, onNavigateToBuilding }: RentComparisonProps) {
   const [stats, setStats] = useState<RentStats | null>(null)
   const [showInput, setShowInput] = useState(false)
   const [rentInput, setRentInput] = useState(userRent?.toString() || '')
@@ -114,10 +117,47 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
   }
 
   const handleOrganizeBuilding = () => {
-    // This would integrate with governance system to create an organizing proposal
-    // For now, open the building in organizing mode or show a prompt
-    if (window.confirm('Would you like to start organizing in this building? You can create a collective demand for fair housing conditions and rent increases.')) {
-      // TODO: Integrate with governance system using building.apn
+    const profile = getCurrentProfile()
+    if (!profile) {
+      alert('Please sign in to organize.')
+      return
+    }
+
+    // Check if building is part of an existing bloc
+    const existingBloc = getGroupForApn(building.apn)
+    const groupId = existingBloc?.id || building.chatSlug
+
+    // Build the reason from available data
+    const reasons: string[] = []
+    if (yoyIncrease && yoyIncrease.percentChange > 5) {
+      reasons.push(`Rent increased ${yoyIncrease.percentChange.toFixed(1)}% (${yoyIncrease.dollarChange > 0 ? '+' : ''}$${yoyIncrease.dollarChange}/mo)`)
+    }
+    if (buildingComparison && buildingComparison.direction === 'above' && buildingComparison.percent > 15) {
+      reasons.push(`Rent is ${buildingComparison.percent}% above building average`)
+    }
+    if (isPoorCondition && habitabilityScore) {
+      reasons.push(`Poor habitability score (${habitabilityScore.score}/100)`)
+    }
+
+    const reasonText = reasons.length > 0
+      ? `Demanding fair housing conditions and rent relief. Issues: ${reasons.join('; ')}.`
+      : 'Demanding fair housing conditions and reasonable rent levels.'
+
+    // Create the demand-letter proposal
+    const proposal = createProposal('demand-letter', groupId, {
+      targetValue: `Demand Letter - ${building.address.split(',')[0]}`,
+      reason: reasonText,
+    })
+
+    if (proposal) {
+      alert(`Collective demand proposal created! Rally your neighbors to vote on it.`)
+      // Navigate to the building to see the proposal
+      if (onNavigateToBuilding) {
+        onNavigateToBuilding(building.chatSlug)
+      }
+    } else {
+      // May have failed due to rate limit or duplicate
+      alert('Could not create proposal. There may already be an active proposal for this building, or please try again in a few minutes.')
     }
   }
 

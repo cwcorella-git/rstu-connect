@@ -49,13 +49,18 @@ Shows organizers:
 
 ---
 
-### Phase 3: Governance Integration
+### Phase 3: Governance Integration (COMPLETE)
 
-**File:** `src/components/Profile/RentComparison.tsx:120`
+**File:** `src/components/Profile/RentComparison.tsx`
 
-TODO says: "Integrate with governance system using building.apn"
+~~TODO says: "Integrate with governance system using building.apn"~~ DONE
 
-Connect rent comparison data to building-level proposals so tenants can propose rent-related actions based on comparable data.
+Implementation:
+- ~~Import governance and bloc functions~~ DONE
+- ~~Update handleOrganizeBuilding to create demand-letter proposals~~ DONE
+- ~~Build reason text from rent increase %, building average, and habitability score~~ DONE
+- ~~Check if building is part of existing bloc, use bloc ID or chatSlug~~ DONE
+- ~~Add onNavigateToBuilding callback to navigate user after proposal creation~~ DONE
 
 ---
 
@@ -89,7 +94,7 @@ Connect rent comparison data to building-level proposals so tenants can propose 
 | Legal Aid Referrals | Complete | Integrated | Done |
 | **Campaign from PowerMap** | Complete | Complete | **Done** |
 | **Delegate System** | Complete | Complete | **Done** |
-| Governance Integration | Partial | Partial | Phase 3 |
+| Governance Integration | Complete | Complete | **Done** |
 
 ---
 
