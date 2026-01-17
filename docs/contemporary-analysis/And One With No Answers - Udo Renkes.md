@@ -1,5 +1,6 @@
 ---
 title: "And One With No Answers - Udo Renkes"
+date: 1981
 category: "contemporary-analysis"
 tags:
   - 1980s

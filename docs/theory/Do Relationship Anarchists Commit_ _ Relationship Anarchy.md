@@ -1,5 +1,6 @@
 ---
 title: "Relationship-anarchy.com"
+date: 2016
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: 'Entretien avec Xuân Rayne, travailleur du sexe vietnamien et anarchiste'
+date: 2018
 category: labor
 tags:
   - anarchism

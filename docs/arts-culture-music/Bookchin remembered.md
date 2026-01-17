@@ -1,5 +1,6 @@
 ---
 title: Bookchin remembered
+date: 1921
 category: arts-culture-music
 tags:
   - Bookchin

@@ -1,6 +1,7 @@
 ---
 title: Anti-Fascism Is Self-Defense
 author: "CrimethInc."
+date: 2017
 category: contemporary-analysis
 tags:
   - antifascism

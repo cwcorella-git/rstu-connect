@@ -1,5 +1,6 @@
 ---
 title: ENVIRONMENT AND BEHAVIOR
+date: 2006
 category: environmental-justice
 tags:
   - environment

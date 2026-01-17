@@ -1,5 +1,6 @@
 ---
 title: What Is Democracy?
+date: 2017
 category: contemporary-analysis
 tags:
   - democracy

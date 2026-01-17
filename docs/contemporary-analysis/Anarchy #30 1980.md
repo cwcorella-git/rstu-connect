@@ -1,5 +1,6 @@
 ---
 title: 'Anarchy #30 1980'
+date: 1980
 category: contemporary-analysis
 tags:
   - anarchism

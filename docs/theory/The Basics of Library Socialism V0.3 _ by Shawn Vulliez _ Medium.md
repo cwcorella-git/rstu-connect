@@ -1,5 +1,6 @@
 ---
 title: The Basics of Library Socialism V0.3
+date: 2023
 category: contemporary-analysis
 tags:
   - theory

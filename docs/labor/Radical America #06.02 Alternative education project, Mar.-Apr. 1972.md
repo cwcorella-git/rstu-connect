@@ -1,5 +1,6 @@
 ---
 title: 'Radical America #06.02: Alternative education project, Mar.-Apr. 1972'
+date: 1972
 category: labor
 tags:
   - indigenous

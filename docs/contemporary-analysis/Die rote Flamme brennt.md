@@ -1,5 +1,6 @@
 ---
 title: "Die rote Flamme brennt"
+date: 2018
 category: "contemporary-analysis"
 tags:
   - pete-davies

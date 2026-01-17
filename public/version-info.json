@@ -1,8 +1,8 @@
 {
-  "commit": "e263c4e3",
-  "message": "Achieve 100% tag coverage across all documents",
+  "commit": "67b80b9d",
+  "message": "Improve author coverage from 32% to 43%",
   "author": "cwcorella-git",
-  "date": "2026-01-16 19:57:16 -0800",
+  "date": "2026-01-16 20:05:26 -0800",
   "branch": "main",
-  "buildTime": "2026-01-17T04:04:15.116Z"
+  "buildTime": "2026-01-17T04:10:22.883Z"
 }

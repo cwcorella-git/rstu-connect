@@ -1,6 +1,7 @@
 ---
 title: That is what is meant by success is as dangerous as failure.
 author:
+date: 1996
 category: technology-digital-justice
 tags:
   - technology

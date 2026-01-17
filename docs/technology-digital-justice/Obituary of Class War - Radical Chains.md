@@ -1,6 +1,7 @@
 ---
 title: Obituary of Class War - Radical Chains
 author: "Class War Federation"
+date: 1992
 category: technology-digital-justice
 tags:
   - anti-war

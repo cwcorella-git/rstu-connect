@@ -1,5 +1,6 @@
 ---
 title: Post-Scarcity Anarchism
+date: 1949
 category: arts-culture-music
 tags:
   - anarchism

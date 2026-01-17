@@ -1,5 +1,6 @@
 ---
 title: Communist Manifesto (Chapter 1)
+date: 1888
 category: contemporary-analysis
 tags:
   - socialism

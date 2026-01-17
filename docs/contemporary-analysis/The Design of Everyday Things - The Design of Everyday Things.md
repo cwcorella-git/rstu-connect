@@ -1,5 +1,6 @@
 ---
 title: "THE DESIGN OF EVERYDAY THINGS"
+date: 1969
 category: "contemporary-analysis"
 tags:
   - analysis

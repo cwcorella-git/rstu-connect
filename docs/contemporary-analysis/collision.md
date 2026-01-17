@@ -1,6 +1,7 @@
 ---
 title: "Improved Collision detection and Response"
 author: "Freie Arbeiterinnen- und Arbeiter-Union"
+date: 2003
 category: "contemporary-analysis"
 tags:
   - analysis

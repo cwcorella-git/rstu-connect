@@ -1,5 +1,6 @@
 ---
 title: "Why We Need a World Party - Donald Parkinson"
+date: 1909
 category: "arts-culture-music"
 tags:
   - organisation

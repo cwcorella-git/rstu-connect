@@ -1,5 +1,6 @@
 ---
 title: "Love & Rage Vol. 1 No. 6, October 1990"
+date: 1990
 category: "contemporary-analysis"
 tags:
   - murray-bookchin

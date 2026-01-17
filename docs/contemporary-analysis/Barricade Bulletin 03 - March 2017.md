@@ -1,5 +1,6 @@
 ---
 title: Barricade Bulletin 03 - March 2017
+date: 2017
 category: contemporary-analysis
 tags:
   - protests

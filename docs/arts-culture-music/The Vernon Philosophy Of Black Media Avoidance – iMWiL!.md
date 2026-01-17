@@ -1,5 +1,6 @@
 ---
 title: The Vernon Philosophy Of Black Media Avoidance
+date: 2018
 category: arts-culture-music
 tags:
   - Black

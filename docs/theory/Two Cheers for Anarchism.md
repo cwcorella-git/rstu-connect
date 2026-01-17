@@ -1,5 +1,6 @@
 ---
 title: James C. Scott
+date: 2012
 category: contemporary-analysis
 tags:
   - anarchism

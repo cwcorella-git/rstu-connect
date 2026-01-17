@@ -1,5 +1,6 @@
 ---
 title: Deep Eology & Anarcism
+date: 1989
 category: environmental-justice
 tags:
   - anarchism

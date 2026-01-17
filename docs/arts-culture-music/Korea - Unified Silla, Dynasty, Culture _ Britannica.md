@@ -1,5 +1,6 @@
 ---
 title: "Kolp'um | Confucianism, Hierarchy, Caste System"
+date: 1953
 category: "arts-culture-music"
 tags:
   - arts

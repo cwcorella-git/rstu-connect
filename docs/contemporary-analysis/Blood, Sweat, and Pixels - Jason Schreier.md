@@ -1,5 +1,6 @@
 ---
 title: "BLOOD, SWEAT, AND PIXELS"
+date: 2015
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -5,6 +5,7 @@ title: >-
   Content L.A.'s Class Struggle Looks Like This: The
 category: housing
 author: Housing Advocacy Organization
+date: 2018
 tags:
   - tenants
   - class

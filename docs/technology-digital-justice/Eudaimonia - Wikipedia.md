@@ -1,6 +1,7 @@
 ---
 title: Eudaimonia
 author: "Wikipedia contributors"
+date: 1958
 category: technology-digital-justice
 tags:
   - technology

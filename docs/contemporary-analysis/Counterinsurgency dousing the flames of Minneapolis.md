@@ -1,5 +1,6 @@
 ---
 title: "Counterinsurgency: dousing the flames of Minneapolis"
+date: 2017
 category: "contemporary-analysis"
 tags:
   - united-states

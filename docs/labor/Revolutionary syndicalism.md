@@ -1,5 +1,6 @@
 ---
 title: Revolutionary syndicalism
+date: 1936
 category: theory
 tags:
   - syndicalism

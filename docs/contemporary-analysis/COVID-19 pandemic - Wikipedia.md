@@ -1,6 +1,7 @@
 ---
 title: "COVID-19 pandemic"
 author: "Wikipedia contributors"
+date: 2019
 category: "contemporary-analysis"
 tags:
   - analysis

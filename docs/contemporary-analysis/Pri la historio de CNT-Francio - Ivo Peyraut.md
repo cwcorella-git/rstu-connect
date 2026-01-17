@@ -1,6 +1,7 @@
 ---
 title: Pri la historio de CNT-Francio - Ivo Peyraut
 author: "Confederación Nacional del Trabajo"
+date: 1926
 category: contemporary-analysis
 tags:
   - Los Angeles

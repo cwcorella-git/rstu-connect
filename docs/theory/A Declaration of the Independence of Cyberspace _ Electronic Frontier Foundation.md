@@ -1,6 +1,7 @@
 ---
 title: '![](_page_0_Picture_2.jpeg)'
 author: "John Perry Barlow"
+date: 1994
 category: theory
 tags:
   - theory

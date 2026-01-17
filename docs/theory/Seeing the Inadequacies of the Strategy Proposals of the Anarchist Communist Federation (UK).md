@@ -1,6 +1,7 @@
 ---
 title: "Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Federation (UK)"
 author: "James Herod"
+date: 2001
 category: contemporary-analysis
 tags:
   - anarchism

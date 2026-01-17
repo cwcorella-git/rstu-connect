@@ -1,5 +1,6 @@
 ---
 title: The Principles of Communism
+date: 1969
 category: contemporary-analysis
 tags:
   - theory

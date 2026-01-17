@@ -1,6 +1,7 @@
 ---
 title: French Americans
 author: "Wikipedia contributors"
+date: 2021
 category: international-solidarity
 tags:
   - France

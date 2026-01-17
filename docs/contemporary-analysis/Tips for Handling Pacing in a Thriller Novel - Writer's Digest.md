@@ -1,5 +1,6 @@
 ---
 title: Tips for Handling Pacing in a Thriller Novel
+date: 1964
 category: contemporary-analysis
 tags:
   - analysis

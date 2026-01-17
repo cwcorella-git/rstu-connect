@@ -1,5 +1,6 @@
 ---
 title: "CHAPTER 1 PROLOGUE: VALUES AND PERSPECTIVES"
+date: 2009
 category: "contemporary-analysis"
 tags:
   - analysis

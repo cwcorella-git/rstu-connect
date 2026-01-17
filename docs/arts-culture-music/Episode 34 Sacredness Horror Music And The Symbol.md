@@ -1,5 +1,6 @@
 ---
 title: "Episode 34: Sacredness Horror Music And The Symbol/"
+date: 1917
 category: "arts-culture-music"
 tags:
   - arts

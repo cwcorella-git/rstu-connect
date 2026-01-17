@@ -1,5 +1,6 @@
 ---
 title: 'Message from Ferguson prisoner Josh Williams, July 2019'
+date: 2019
 category: contemporary-analysis
 tags:
   - prisons

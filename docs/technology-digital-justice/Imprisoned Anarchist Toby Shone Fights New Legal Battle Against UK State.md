@@ -1,5 +1,6 @@
 ---
 title: Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State
+date: 2022
 category: technology-digital-justice
 tags:
   - anarchism

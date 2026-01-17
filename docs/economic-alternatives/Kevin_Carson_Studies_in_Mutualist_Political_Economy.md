@@ -1,5 +1,6 @@
 ---
 title: 'Part One—Theoretical Foundations: Value Theory'
+date: 2001
 category: economic-alternatives
 tags:
   - economics

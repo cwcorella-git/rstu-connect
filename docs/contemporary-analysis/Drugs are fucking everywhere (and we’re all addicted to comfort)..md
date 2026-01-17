@@ -1,5 +1,6 @@
 ---
 title: "Drugs are fucking everywhere (and we're all addicted to comfort)."
+date: 2023
 category: "contemporary-analysis"
 tags:
   - analysis

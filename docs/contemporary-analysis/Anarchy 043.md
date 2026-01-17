@@ -1,5 +1,6 @@
 ---
 title: ANARCHY 43
+date: 1964
 category: contemporary-analysis
 tags:
   - anarchism

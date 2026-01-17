@@ -1,6 +1,7 @@
 ---
 title: 'Interview: IWW Shop Workers - Black Flag'
 author: "Industrial Workers of the World"
+date: 1998
 category: contemporary-analysis
 tags:
   - unions

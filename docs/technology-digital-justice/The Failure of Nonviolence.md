@@ -1,5 +1,6 @@
 ---
 title: Peter Gelderloos
+date: 2013
 category: technology-digital-justice
 tags:
   - nonviolence

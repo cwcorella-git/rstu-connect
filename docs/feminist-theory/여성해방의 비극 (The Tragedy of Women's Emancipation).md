@@ -1,6 +1,7 @@
 ---
 title: 여성해방의 비극 (The Tragedy of Women's Emancipation)
 author: "Emma Goldman"
+date: 1906
 category: feminist-theory
 tags:
   - women

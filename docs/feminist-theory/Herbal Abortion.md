@@ -1,5 +1,6 @@
 ---
 title: Herbal Abortion a woman's d.i.y. guide
+date: 2002
 category: theory
 tags:
   - women

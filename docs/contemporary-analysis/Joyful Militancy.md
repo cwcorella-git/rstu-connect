@@ -1,5 +1,6 @@
 ---
 title: "Carla bergman and Nick Montgomery Joyful Militancy"
+date: 2017
 category: "contemporary-analysis"
 tags:
   - analysis

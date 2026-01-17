@@ -1,5 +1,6 @@
 ---
 title: "PROBLEMS RUNNING THE GAME"
+date: 1980
 category: "contemporary-analysis"
 tags:
   - analysis

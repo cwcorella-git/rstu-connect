@@ -1,5 +1,6 @@
 ---
 title: "Orange-tinted concrete blocks subtly stack residential complex in mexico"
+date: 2023
 category: contemporary-analysis
 tags:
   - Mexico

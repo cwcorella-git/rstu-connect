@@ -1,5 +1,6 @@
 ---
 title: "TERMINATOR 2: JUDGMENT DAY"
+date: 1991
 category: "contemporary-analysis"
 tags:
   - analysis

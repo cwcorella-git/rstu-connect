@@ -1,6 +1,7 @@
 ---
 title: "Ranked voting"
 author: "Wikipedia contributors"
+date: 1855
 category: "contemporary-analysis"
 tags:
   - analysis

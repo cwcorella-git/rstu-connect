@@ -1,5 +1,6 @@
 ---
 title: Inflation is How the System Restores the Primacy of Capital
+date: 2021
 category: contemporary-analysis
 tags:
   - capitalism

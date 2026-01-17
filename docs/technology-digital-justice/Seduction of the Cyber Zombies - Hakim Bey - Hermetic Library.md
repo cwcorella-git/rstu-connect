@@ -1,5 +1,6 @@
 ---
 title: Seduction of the Cyber Zombies - Hakim Bey
+date: 1871
 category: technology-digital-justice
 tags:
   - technology

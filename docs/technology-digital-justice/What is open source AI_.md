@@ -1,5 +1,6 @@
 ---
 title: What is open source AI?
+date: 2024
 category: technology-digital-justice
 tags:
   - technology

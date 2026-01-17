@@ -1,5 +1,6 @@
 ---
 title: "KEY BENEFITS"
+date: 2022
 category: "contemporary-analysis"
 tags:
   - analysis

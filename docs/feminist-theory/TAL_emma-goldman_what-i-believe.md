@@ -1,5 +1,6 @@
 ---
 title: What I Believe
+date: 1908
 category: feminist-theory
 tags:
   - Emma Goldman

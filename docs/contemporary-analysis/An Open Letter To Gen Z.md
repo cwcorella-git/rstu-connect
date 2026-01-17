@@ -1,5 +1,6 @@
 ---
 title: "I'm just a kid, and life is a nightmare. Before I start the letter, I just want to"
+date: 1995
 category: "contemporary-analysis"
 tags:
   - analysis

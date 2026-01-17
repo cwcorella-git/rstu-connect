@@ -1,5 +1,6 @@
 ---
 title: "John Rawls and the History of Political Thought"
+date: 2014
 category: "contemporary-analysis"
 tags:
   - analysis

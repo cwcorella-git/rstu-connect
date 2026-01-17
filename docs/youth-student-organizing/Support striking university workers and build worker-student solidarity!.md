@@ -1,5 +1,6 @@
 ---
 title: Support striking university workers and build worker-student solidarity!
+date: 2022
 category: youth-student-organizing
 tags:
   - solidarity

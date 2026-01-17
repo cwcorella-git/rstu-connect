@@ -1,5 +1,6 @@
 ---
 title: What Is the Environmental Impact of Each Building Material?
+date: 2022
 category: environmental-justice
 tags:
   - environment

@@ -1,5 +1,6 @@
 ---
 title: Marxism and Sexuality
+date: 1909
 category: theory
 tags:
   - socialism

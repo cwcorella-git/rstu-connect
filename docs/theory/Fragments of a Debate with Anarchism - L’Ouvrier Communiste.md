@@ -1,5 +1,6 @@
 ---
 title: Fragments of a Debate with Anarchism - L'Ouvrier Communiste
+date: 1918
 category: contemporary-analysis
 tags:
   - anarchism

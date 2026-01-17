@@ -1,5 +1,6 @@
 ---
 title: "Mumia Abu-Jamal on \"outside agitators\" and the meaning of Ferguson"
+date: 2014
 category: "contemporary-analysis"
 tags:
   - united-states

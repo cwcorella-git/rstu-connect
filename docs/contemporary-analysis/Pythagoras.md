@@ -1,5 +1,6 @@
 ---
 title: "Pythagoras"
+date: 1972
 category: "contemporary-analysis"
 tags:
   - analysis

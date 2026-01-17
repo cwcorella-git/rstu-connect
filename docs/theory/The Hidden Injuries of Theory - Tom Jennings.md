@@ -1,5 +1,6 @@
 ---
 title: The Hidden Injuries of Theory - Tom Jennings
+date: 1992
 category: theory
 tags:
   - theory

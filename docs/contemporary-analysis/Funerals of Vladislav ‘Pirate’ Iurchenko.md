@@ -1,5 +1,6 @@
 ---
 title: "Funerals of Vladislav 'Pirate' Iurchenko"
+date: 2025
 category: "contemporary-analysis"
 tags:
   - solidarity-collectives

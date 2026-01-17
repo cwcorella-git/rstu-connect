@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2018
   Still in Solidarity from Solitary: Message From Inside Suwannee Correctional
   Institution
 category: contemporary-analysis

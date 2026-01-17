@@ -1,5 +1,6 @@
 ---
 title: Simple probes can catch sleeper agents
+date: 2024
 category: contemporary-analysis
 tags:
   - analysis

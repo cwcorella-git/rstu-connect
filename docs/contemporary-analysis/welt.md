@@ -1,5 +1,6 @@
 ---
 title: 'Welt, welts'
+date: 2004
 category: contemporary-analysis
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: "An afterthought: 'extra-parliamentary electoralism'"
+date: 2015
 category: "contemporary-analysis"
 tags:
   - anarchism

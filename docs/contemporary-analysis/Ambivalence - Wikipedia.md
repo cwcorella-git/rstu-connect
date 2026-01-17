@@ -1,5 +1,6 @@
 ---
 title: "Ambivalence"
+date: 1957
 category: "contemporary-analysis"
 tags:
   - analysis

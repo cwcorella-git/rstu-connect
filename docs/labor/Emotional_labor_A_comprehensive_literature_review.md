@@ -5,6 +5,7 @@ title: >-
   Emotional labor: A comprehensive literature revi
 category: labor
 author: Chunjiang Yang
+date: 2020
 tags:
   - labor
   - unions

@@ -1,5 +1,6 @@
 ---
 title: The History of Anarchism and Syndicalism in Indonesia
+date: 2022
 category: contemporary-analysis
 tags:
   - anarchism

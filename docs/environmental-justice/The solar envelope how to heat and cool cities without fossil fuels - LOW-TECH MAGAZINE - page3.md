@@ -1,5 +1,6 @@
 ---
 title: 'The solar envelope: how to heat and cool cities without fossil fuels'
+date: 2012
 category: environmental-justice
 tags:
   - urban

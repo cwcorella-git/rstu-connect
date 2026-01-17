@@ -1,5 +1,6 @@
 ---
 title: "Why the world needs viruses to function"
+date: 1918
 category: "contemporary-analysis"
 tags:
   - analysis

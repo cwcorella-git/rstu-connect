@@ -1,5 +1,6 @@
 ---
 title: Striking workers imprisoned in Iran
+date: 2017
 category: contemporary-analysis
 tags:
   - prisons

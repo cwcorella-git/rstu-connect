@@ -1,6 +1,7 @@
 ---
 title: "JEAN M. TWENGE, PhD"
 author: "Jean M. Twenge"
+date: 2006
 category: "contemporary-analysis"
 tags:
   - analysis

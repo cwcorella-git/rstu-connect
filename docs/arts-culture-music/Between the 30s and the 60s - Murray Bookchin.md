@@ -1,6 +1,7 @@
 ---
 title: Between the 30s and the 60s - Murray Bookchin
 author: "Murray Bookchin"
+date: 1917
 category: arts-culture-music
 tags:
   - Bookchin

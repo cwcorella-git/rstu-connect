@@ -1,5 +1,6 @@
 ---
 title: The Economy of Ideas
+date: 1994
 category: economic-alternatives
 tags:
   - economics

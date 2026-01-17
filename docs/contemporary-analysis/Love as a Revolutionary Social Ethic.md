@@ -1,5 +1,6 @@
 ---
 title: "Punch Up * Kick Down Distro Love as a Revolutionary Social Ethic"
+date: 2024
 category: "contemporary-analysis"
 tags:
   - analysis

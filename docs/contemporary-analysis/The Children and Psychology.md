@@ -1,5 +1,6 @@
 ---
 title: "Paul Goodman"
+date: 2021
 category: "contemporary-analysis"
 tags:
   - analysis

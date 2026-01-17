@@ -1,5 +1,6 @@
 ---
 title: Read Write Own
+date: 1990
 category: technology-digital-justice
 tags:
   - technology

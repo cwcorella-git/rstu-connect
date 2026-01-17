@@ -1,5 +1,6 @@
 ---
 title: Two new anarchist feminist projects in Scotland
+date: 2018
 category: feminist-theory
 tags:
   - anarchism

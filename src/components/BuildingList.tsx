@@ -625,6 +625,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                     isFavorite={favorites.has(building.apn)}
                     isInLinkingSelection={linkingSelection.some(b => b.apn === building.apn)}
                     isLinked={false}
+                    isLinkMode={isLinkMode}
                     onClick={() => onSelectBuilding(building)}
                     onToggleFavorite={(e) => handleToggleFavorite(building.apn, e)}
                     onCtrlClick={onToggleLinkSelection ? () => onToggleLinkSelection(building) : undefined}

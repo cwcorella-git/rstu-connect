@@ -1,5 +1,6 @@
 ---
 title: "Understanding Emile Durkheim's \"Collective Consciousness\""
+date: 1893
 category: "contemporary-analysis"
 tags:
   - analysis

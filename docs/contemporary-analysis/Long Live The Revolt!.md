@@ -1,5 +1,6 @@
 ---
 title: Long Live The Revolt!
+date: 2020
 category: contemporary-analysis
 tags:
   - riots

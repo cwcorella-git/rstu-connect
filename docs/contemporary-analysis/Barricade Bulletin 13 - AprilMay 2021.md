@@ -1,5 +1,6 @@
 ---
 title: Barricade Bulletin 13 - April/May 2021
+date: 2021
 category: contemporary-analysis
 tags:
   - blockades

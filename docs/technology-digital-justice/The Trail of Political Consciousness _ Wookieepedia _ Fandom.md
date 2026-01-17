@@ -1,5 +1,6 @@
 ---
 title: The Trail of Political Consciousness
+date: 2022
 category: technology-digital-justice
 tags:
   - technology

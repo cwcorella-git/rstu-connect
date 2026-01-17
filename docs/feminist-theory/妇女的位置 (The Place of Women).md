@@ -1,6 +1,7 @@
 ---
 title: 妇女的位置 (The Place of Women)
 author: "Selma James"
+date: 1952
 category: feminist-theory
 tags:
   - women

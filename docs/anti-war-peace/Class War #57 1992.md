@@ -1,6 +1,7 @@
 ---
 title: 'Class War #57 1992'
 author: "Class War Federation"
+date: 1992
 category: anti-war-peace
 tags:
   - anti-war

@@ -1,6 +1,7 @@
 ---
 title: "Surviving the Social Media Crackdown"
 author: "CrimethInc."
+date: 2020
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,6 +1,7 @@
 ---
 title: The Revolution of Everyday Life
 author:
+date: 1963
 category: contemporary-analysis
 tags:
   - analysis

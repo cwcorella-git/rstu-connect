@@ -1,5 +1,6 @@
 ---
 title: 'Before you get stuck in, why not sign up...?'
+date: 2016
 category: contemporary-analysis
 tags:
   - United Kingdom

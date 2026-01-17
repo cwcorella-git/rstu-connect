@@ -1,5 +1,6 @@
 ---
 title: "Was die Solidaritätsgewerkschaft ist und was nicht"
+date: 2013
 category: "contemporary-analysis"
 tags:
   - don-white

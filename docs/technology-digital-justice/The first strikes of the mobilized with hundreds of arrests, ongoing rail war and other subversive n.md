@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2022
   The first strikes of the mobilized with hundreds of arrests, ongoing rail war
   and other subvers
 category: technology-digital-justice

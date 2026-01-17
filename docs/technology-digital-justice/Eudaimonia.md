@@ -1,5 +1,6 @@
 ---
 title: Eudaimonia
+date: 1958
 category: technology-digital-justice
 tags:
   - technology

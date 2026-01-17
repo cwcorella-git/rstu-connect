@@ -1,5 +1,6 @@
 ---
 title: "Episode 28: Convergence To Relevance Realization/"
+date: 1986
 category: "contemporary-analysis"
 tags:
   - analysis

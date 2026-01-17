@@ -1,5 +1,6 @@
 ---
 title: "PROLOGUE"
+date: 1940
 category: "contemporary-analysis"
 tags:
   - analysis

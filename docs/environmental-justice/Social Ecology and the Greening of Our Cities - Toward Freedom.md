@@ -1,5 +1,6 @@
 ---
 title: Social Ecology and the Greening of Our Cities
+date: 2007
 category: environmental-justice
 tags:
   - environment

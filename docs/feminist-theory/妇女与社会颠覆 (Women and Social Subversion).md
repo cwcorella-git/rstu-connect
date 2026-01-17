@@ -1,6 +1,7 @@
 ---
 title: 妇女与社会颠覆 (Women and Social Subversion)
 author: "Mariarosa Dalla Costa"
+date: 1971
 category: feminist-theory
 tags:
   - women

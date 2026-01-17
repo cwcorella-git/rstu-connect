@@ -1,5 +1,6 @@
 ---
 title: Anarchism
+date: 1871
 category: contemporary-analysis
 tags:
   - anarchism

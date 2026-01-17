@@ -1,5 +1,6 @@
 ---
 title: 'Anarchy #11 1973'
+date: 1973
 category: contemporary-analysis
 tags:
   - anarchism

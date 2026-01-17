@@ -1,5 +1,6 @@
 ---
 title: "Egress: on mourning, melancholy and Mark Fisher"
+date: 2020
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: "Milk and honey rupi kaur"
+date: 2005
 category: "contemporary-analysis"
 tags:
   - analysis

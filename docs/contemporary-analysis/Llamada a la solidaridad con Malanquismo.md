@@ -1,5 +1,6 @@
 ---
 title: Llamada a la solidaridad con Malanquismo
+date: 2023
 category: contemporary-analysis
 tags:
   - Los Angeles

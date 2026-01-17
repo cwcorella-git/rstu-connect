@@ -38,11 +38,12 @@ interface PropertyViewTabsProps {
   onSelectBuilding?: (building: EnhancedBuilding) => void;
   linkingSelection?: EnhancedBuilding[];
   onToggleLinkSelection?: (building: EnhancedBuilding) => void;
+  isLinkMode?: boolean;
   showBackButton?: boolean;
   onBack?: () => void;
 }
 
-export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection, showBackButton, onBack }: PropertyViewTabsProps) {
+export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection, isLinkMode = false, showBackButton, onBack }: PropertyViewTabsProps) {
   const [activeTab, setActiveTab] = useState<PropertyTab>('chat');
   const [showInfoSlideout, setShowInfoSlideout] = useState(false);
 
@@ -124,6 +125,7 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             onSelectBuilding={onSelectBuilding}
             linkingSelection={linkingSelection}
             onToggleLinkSelection={onToggleLinkSelection}
+            isLinkMode={isLinkMode}
           />
         )}
         {activeTab === 'events' && (

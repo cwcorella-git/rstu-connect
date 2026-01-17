@@ -1,5 +1,6 @@
 ---
 title: Anarchism and Outrage
+date: 1893
 category: theory
 tags:
   - anarchism

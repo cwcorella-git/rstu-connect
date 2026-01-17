@@ -1,5 +1,6 @@
 ---
 title: "Fuck empires, support local resistances."
+date: 2025
 category: "contemporary-analysis"
 tags:
   - solidarity-collectives

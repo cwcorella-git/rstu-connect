@@ -1,5 +1,6 @@
 ---
 title: 'Undercover Research Group: The Fifteen Questions We Work With'
+date: 2011
 category: youth-student-organizing
 tags:
   - students

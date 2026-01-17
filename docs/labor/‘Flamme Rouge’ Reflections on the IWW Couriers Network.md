@@ -1,6 +1,7 @@
 ---
 title: '''Flamme Rouge'': Reflections on the IWW Couriers Network'
 author: "Industrial Workers of the World"
+date: 2018
 category: contemporary-analysis
 tags:
   - unions

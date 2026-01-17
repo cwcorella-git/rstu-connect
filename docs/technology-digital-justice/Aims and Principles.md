@@ -1,6 +1,7 @@
 ---
 title: Anarchist Federation
 author: "Anarchist Federation"
+date: 2021
 category: technology-digital-justice
 tags:
   - anarchism

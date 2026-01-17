@@ -1,5 +1,6 @@
 ---
 title: How likely is deceptive alignment?
+date: 2022
 category: contemporary-analysis
 tags:
   - analysis

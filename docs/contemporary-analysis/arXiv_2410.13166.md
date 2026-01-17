@@ -1,5 +1,6 @@
 ---
 title: "AN EVOLVED UNIVERSAL TRANSFORMER MEMORY"
+date: 2023
 category: "contemporary-analysis"
 tags:
   - analysis

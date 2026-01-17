@@ -1,5 +1,6 @@
 ---
 title: 'Anarchist Direct Actions: A Challenge for Law Enforcement'
+date: 2004
 category: contemporary-analysis
 tags:
   - direct action

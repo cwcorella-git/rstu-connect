@@ -1,5 +1,6 @@
 ---
 title: 'The Paradox of Sustainable Architecture: Durability and Transience'
+date: 2004
 category: feminist-theory
 tags:
   - feminism

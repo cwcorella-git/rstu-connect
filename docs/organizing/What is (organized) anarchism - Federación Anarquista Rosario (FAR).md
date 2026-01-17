@@ -1,5 +1,6 @@
 ---
 title: What is (organized) anarchism? - Federación Anarquista Rosario (FAR)
+date: 1975
 category: contemporary-analysis
 tags:
   - anarchism

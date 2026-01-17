@@ -1,6 +1,7 @@
 ---
 title: Short reflection on a Solidarity Network / IWW case
 author: "Industrial Workers of the World"
+date: 2019
 category: theory
 tags:
   - unions

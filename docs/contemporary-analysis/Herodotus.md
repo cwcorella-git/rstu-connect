@@ -1,5 +1,6 @@
 ---
 title: "Herodotus"
+date: 1908
 category: "contemporary-analysis"
 tags:
   - analysis

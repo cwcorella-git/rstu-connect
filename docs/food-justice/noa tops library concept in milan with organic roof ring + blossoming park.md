@@ -1,5 +1,6 @@
 ---
 title: "Noa* tops library concept in milan with organic roof ring + blossoming park"
+date: 2022
 category: food-justice
 tags:
   - food

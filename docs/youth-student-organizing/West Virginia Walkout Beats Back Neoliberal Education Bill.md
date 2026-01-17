@@ -1,5 +1,6 @@
 ---
 title: West Virginia Walkout Beats Back Neoliberal Education Bill
+date: 2018
 category: youth-student-organizing
 tags:
   - strikes

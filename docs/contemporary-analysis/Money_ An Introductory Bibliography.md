@@ -1,6 +1,7 @@
 ---
 title: "The Nature of Money"
 author: "James Herod"
+date: 1994
 category: "contemporary-analysis"
 tags:
   - analysis

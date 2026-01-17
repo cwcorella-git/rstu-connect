@@ -1,5 +1,6 @@
 ---
 title: "Homes Guarantee Agenda 2025"
+date: 2025
 category: "contemporary-analysis"
 tags:
   - analysis

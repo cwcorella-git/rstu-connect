@@ -1,5 +1,6 @@
 ---
 title: 'Lisbon on strike: November 14th in Portugal'
+date: 2012
 category: contemporary-analysis
 tags:
   - strikes

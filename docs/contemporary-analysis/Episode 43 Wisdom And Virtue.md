@@ -1,5 +1,6 @@
 ---
 title: "Episode 43: Wisdom And Virtue/"
+date: 2006
 category: "contemporary-analysis"
 tags:
   - analysis

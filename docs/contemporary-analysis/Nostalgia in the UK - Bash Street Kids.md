@@ -1,5 +1,6 @@
 ---
 title: Nostalgia in the UK - Bash Street Kids
+date: 1984
 category: contemporary-analysis
 tags:
   - United Kingdom

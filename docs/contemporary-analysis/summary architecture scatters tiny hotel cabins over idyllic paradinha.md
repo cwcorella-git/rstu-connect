@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2022
   summary architecture scatters tiny hotel cabins over idyllic landscape of
   paradinha
 category: contemporary-analysis

@@ -1,5 +1,6 @@
 ---
 title: "Oscar Wilde 1891"
+date: 1891
 category: contemporary-analysis
 tags:
   - theory

@@ -1,6 +1,7 @@
 ---
 title: "Reform or Revolution? Rosa Luxemburg"
 author: "Rosa Luxemburg"
+date: 2020
 category: "contemporary-analysis"
 tags:
   - analysis

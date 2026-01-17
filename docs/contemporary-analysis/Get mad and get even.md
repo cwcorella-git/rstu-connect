@@ -1,5 +1,6 @@
 ---
 title: "Get mad and get even"
+date: 2013
 category: "contemporary-analysis"
 tags:
   - sex-and-sexuality

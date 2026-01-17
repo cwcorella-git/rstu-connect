@@ -1,5 +1,6 @@
 ---
 title: "Punch Up * Kick Down Distro Hope in the Collapse 2025"
+date: 2025
 category: "contemporary-analysis"
 tags:
   - analysis

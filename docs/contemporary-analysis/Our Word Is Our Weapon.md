@@ -1,5 +1,6 @@
 ---
 title: "Subcomandante Marcos"
+date: 2002
 category: "contemporary-analysis"
 tags:
   - analysis

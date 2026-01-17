@@ -1,6 +1,7 @@
 ---
 title: (Deportation The (די דעפּאָרטאַציאָן
 author: "Industrial Workers of the World"
+date: 1919
 category: labor
 tags:
   - immigration

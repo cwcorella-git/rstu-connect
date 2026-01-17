@@ -1,5 +1,6 @@
 ---
 title: Workers solidarity network launches site in Brazil
+date: 2017
 category: organizing
 tags:
   - solidarity

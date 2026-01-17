@@ -1,8 +1,8 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { isEmailAvailable } from '@/lib/profileStorage';
-import { validateEmailFormat, getFieldError } from '../utils';
+import { getFieldError } from '../utils';
 import type { OnboardingFormData, ValidateEmailResult } from '../types';
 
 interface StepIdentityProps {
@@ -16,7 +16,6 @@ export function StepIdentity({
   formData,
   onFormDataChange,
   onEmailValidation,
-  emailValidation,
 }: StepIdentityProps) {
   const [email, setEmail] = useState(formData.email);
   const [nickname, setNickname] = useState(formData.nickname);
@@ -26,36 +25,47 @@ export function StepIdentity({
   const emailCheckTimeout = useRef<NodeJS.Timeout | null>(null);
   const autoFocusRef = useRef<HTMLInputElement>(null);
 
+  // Use ref to avoid stale closure issues with formData
+  const formDataRef = useRef(formData);
+  formDataRef.current = formData;
+
   // Auto-focus nickname input on mount
   useEffect(() => {
     if (autoFocusRef.current && !nickname) {
       autoFocusRef.current.focus();
     }
-  }, [nickname]);
+  }, []);
 
-  // Validate nickname
-  useEffect(() => {
-    const error = getFieldError('nickname', nickname, {});
+  // Handle nickname change - update local state and parent
+  const handleNicknameChange = useCallback((value: string) => {
+    setNickname(value);
+    const error = getFieldError('nickname', value, {});
     setNicknameError(error);
 
-    // Update form data
+    // Update parent form data
     onFormDataChange({
-      ...formData,
-      nickname,
+      ...formDataRef.current,
+      nickname: value,
     });
-  }, [nickname, formData, onFormDataChange]);
+  }, [onFormDataChange]);
 
-  // Debounced email validation
+  // Handle email change - update local state and trigger validation
+  const handleEmailChange = useCallback((value: string) => {
+    const normalizedEmail = value.toLowerCase();
+    setEmail(normalizedEmail);
+
+    // Update parent form data immediately
+    onFormDataChange({
+      ...formDataRef.current,
+      email: normalizedEmail,
+    });
+  }, [onFormDataChange]);
+
+  // Debounced email validation effect
   useEffect(() => {
     // Clear previous timeout
     if (emailCheckTimeout.current) {
       clearTimeout(emailCheckTimeout.current);
-    }
-
-    // Clear error when user starts typing
-    if (email && emailError && isValidatingEmail === false) {
-      setEmailError(null);
-      setIsValidatingEmail(false);
     }
 
     // Don't validate if email is empty
@@ -103,15 +113,7 @@ export function StepIdentity({
         clearTimeout(emailCheckTimeout.current);
       }
     };
-  }, [email, onEmailValidation, emailError, isValidatingEmail]);
-
-  // Update form data when email changes
-  useEffect(() => {
-    onFormDataChange({
-      ...formData,
-      email,
-    });
-  }, [email, formData, onFormDataChange]);
+  }, [email, onEmailValidation]);
 
   return (
     <div className="space-y-6">
@@ -133,7 +135,7 @@ export function StepIdentity({
           id="nickname"
           type="text"
           value={nickname}
-          onChange={(e) => setNickname(e.target.value)}
+          onChange={(e) => handleNicknameChange(e.target.value)}
           placeholder="How should we call you?"
           maxLength={30}
           className={`w-full px-4 py-3 border rounded-lg text-base font-medium focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
@@ -160,7 +162,7 @@ export function StepIdentity({
             id="email"
             type="email"
             value={email}
-            onChange={(e) => setEmail(e.target.value.toLowerCase())}
+            onChange={(e) => handleEmailChange(e.target.value)}
             placeholder="your@email.com"
             className={`w-full px-4 py-3 border rounded-lg text-base font-medium focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
               emailError ? 'border-red-500 bg-red-50' : 'border-gray-300'

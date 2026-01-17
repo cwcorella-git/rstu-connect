@@ -1,5 +1,6 @@
 ---
 title: The Art of Relationship Anarchy
+date: 2023
 category: arts-culture-music
 tags:
   - anarchism

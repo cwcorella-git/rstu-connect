@@ -1,5 +1,6 @@
 ---
 title: Statements from Alabama Prisoners as Strike Enters Third Week
+date: 2022
 category: contemporary-analysis
 tags:
   - strikes

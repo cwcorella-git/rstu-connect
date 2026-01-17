@@ -1,5 +1,6 @@
 ---
 title: What Games Are
+date: 2010
 category: technology-digital-justice
 tags:
   - gig economy

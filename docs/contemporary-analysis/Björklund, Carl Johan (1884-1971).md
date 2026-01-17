@@ -1,5 +1,6 @@
 ---
 title: "Björklund, Carl Johan (1884-1971)"
+date: 1884
 category: "contemporary-analysis"
 tags:
   - nick-heath

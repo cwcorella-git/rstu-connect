@@ -1,5 +1,6 @@
 ---
 title: "Episode 19: Augustine And Aquin/"
+date: 1926
 category: "contemporary-analysis"
 tags:
   - analysis

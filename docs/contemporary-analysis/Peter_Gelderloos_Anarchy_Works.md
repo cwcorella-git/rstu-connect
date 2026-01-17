@@ -1,5 +1,6 @@
 ---
 title: Anarchy Works
+date: 2010
 category: contemporary-analysis
 tags:
   - anarchism

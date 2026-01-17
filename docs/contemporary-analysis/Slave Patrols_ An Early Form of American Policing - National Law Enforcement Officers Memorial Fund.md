@@ -1,5 +1,6 @@
 ---
 title: 'Slave Patrols: An Early Form of American Policing'
+date: 1865
 category: contemporary-analysis
 tags:
   - police

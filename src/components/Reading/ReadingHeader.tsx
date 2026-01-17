@@ -133,9 +133,8 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
               <span className="flex-shrink-0">•</span>
               <div
                 className={`flex items-center gap-1 transition-all duration-300 ${
-                  isTagsHovered ? 'overflow-x-auto max-w-none' : 'overflow-hidden'
+                  isTagsHovered ? 'flex-wrap overflow-visible' : 'overflow-hidden'
                 }`}
-                style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
               >
                 {displayTags.map((tag, i) => {
                   const color = getTagColor(tag)
@@ -149,12 +148,23 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
                   )
                 })}
                 {!isTagsHovered && hiddenCount > 0 && (
-                  <span
-                    className="text-gray-400 flex-shrink-0 cursor-pointer hover:text-gray-600"
+                  <button
+                    onClick={() => setIsTagsHovered(true)}
+                    onBlur={() => setIsTagsHovered(false)}
+                    className="text-gray-400 flex-shrink-0 cursor-pointer hover:text-gray-600 min-h-[28px] min-w-[28px] flex items-center justify-center"
                     title={`${hiddenCount} more: ${allTags.slice(3).join(', ')}`}
                   >
                     +{hiddenCount}
-                  </span>
+                  </button>
+                )}
+                {isTagsHovered && hiddenCount > 0 && (
+                  <button
+                    onClick={() => setIsTagsHovered(false)}
+                    className="text-gray-400 flex-shrink-0 cursor-pointer hover:text-gray-600 min-h-[28px] min-w-[28px] flex items-center justify-center"
+                    title="Show fewer tags"
+                  >
+                    −
+                  </button>
                 )}
               </div>
             </>

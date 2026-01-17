@@ -1,5 +1,6 @@
 ---
 title: "Paul Goodman"
+date: 1960
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: "Industrial Society and Its Future"
+date: 1995
 category: "contemporary-analysis"
 tags:
   - analysis

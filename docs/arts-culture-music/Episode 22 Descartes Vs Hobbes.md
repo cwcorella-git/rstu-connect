@@ -1,5 +1,6 @@
 ---
 title: "Episode 22: Descartes Vs Hobbes/"
+date: 1994
 category: "arts-culture-music"
 tags:
   - arts

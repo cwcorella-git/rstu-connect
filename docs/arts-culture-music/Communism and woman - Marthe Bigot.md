@@ -1,5 +1,6 @@
 ---
 title: Communism and woman - Marthe Bigot
+date: 1920
 category: arts-culture-music
 tags:
   - women

@@ -1,5 +1,6 @@
 ---
 title: "Episode 23: Romanticism/"
+date: 1977
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: "18. PRINCIPLES FOR INDIVIDUALS: THE PRINCIPLE OF FAIRNESS"
+date: 1961
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: "Take Back the Economy"
+date: 2008
 category: "contemporary-analysis"
 tags:
   - analysis

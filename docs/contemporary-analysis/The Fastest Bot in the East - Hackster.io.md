@@ -1,5 +1,6 @@
 ---
 title: The Fastest Bot in the East
+date: 2023
 category: contemporary-analysis
 tags:
   - analysis

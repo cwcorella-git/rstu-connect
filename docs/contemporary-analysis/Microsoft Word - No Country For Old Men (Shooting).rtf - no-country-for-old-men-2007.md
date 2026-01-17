@@ -1,5 +1,6 @@
 ---
 title: "MOSS"
+date: 2007
 category: "contemporary-analysis"
 tags:
   - analysis

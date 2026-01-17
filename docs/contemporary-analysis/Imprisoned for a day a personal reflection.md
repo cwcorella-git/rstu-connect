@@ -1,5 +1,6 @@
 ---
 title: 'Imprisoned for a day: a personal reflection'
+date: 2000
 category: contemporary-analysis
 tags:
   - prisons

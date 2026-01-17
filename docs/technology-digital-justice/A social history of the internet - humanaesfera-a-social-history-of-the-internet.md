@@ -1,6 +1,7 @@
 ---
 title: The Anarchist Library Anti-Copyright
 author: "The Anarchist Library"
+date: 1968
 category: technology-digital-justice
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: Sheinbaum renews pact to freeze prices on essential grocery items
+date: 2018
 category: food-justice
 tags:
   - food

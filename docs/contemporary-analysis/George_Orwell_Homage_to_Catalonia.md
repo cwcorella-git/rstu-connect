@@ -1,5 +1,6 @@
 ---
 title: "Chapter 04"
+date: 1938
 category: "contemporary-analysis"
 tags:
   - analysis

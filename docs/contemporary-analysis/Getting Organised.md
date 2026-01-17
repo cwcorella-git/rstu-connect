@@ -1,5 +1,6 @@
 ---
 title: "Getting Organised"
+date: 1997
 category: "contemporary-analysis"
 tags:
   - organisation

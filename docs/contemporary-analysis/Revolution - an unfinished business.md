@@ -1,5 +1,6 @@
 ---
 title: "Revolution - an unfinished business"
+date: 1997
 category: "contemporary-analysis"
 tags:
   - anarchist-federation

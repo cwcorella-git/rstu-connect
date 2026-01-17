@@ -1,5 +1,6 @@
 ---
 title: "Episode 41: What Is Rationality/"
+date: 2000
 category: "contemporary-analysis"
 tags:
   - analysis

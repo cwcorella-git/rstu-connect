@@ -1,5 +1,6 @@
 ---
 title: 'The 1946 general strike of Rochester, New York'
+date: 1946
 category: contemporary-analysis
 tags:
   - general strikes

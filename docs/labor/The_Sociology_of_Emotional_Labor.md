@@ -6,6 +6,7 @@ title: >-
   Article
 category: labor
 author: Wharton Washington
+date: 2009
 tags:
   - labor
   - unions

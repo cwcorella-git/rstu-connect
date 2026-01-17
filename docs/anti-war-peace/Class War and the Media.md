@@ -1,6 +1,7 @@
 ---
 title: Class War and the Media
 author: "Class War Federation"
+date: 1996
 category: anti-war-peace
 tags:
   - anti-war

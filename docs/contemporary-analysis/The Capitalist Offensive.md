@@ -1,5 +1,6 @@
 ---
 title: The Capitalist Offensive
+date: 2008
 category: contemporary-analysis
 tags:
   - capitalism

@@ -1,5 +1,6 @@
 ---
 title: Peter H. Marshall Demanding the Impossible A History of Anarchism
+date: 1993
 category: contemporary-analysis
 tags:
   - anarchism

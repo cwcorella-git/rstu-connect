@@ -1,5 +1,6 @@
 ---
 title: "The Falcon has landed in the Hugging Face ecosystem"
+date: 1911
 category: "contemporary-analysis"
 tags:
   - analysis

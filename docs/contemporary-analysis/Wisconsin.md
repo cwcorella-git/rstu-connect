@@ -1,5 +1,6 @@
 ---
 title: "Wisconsin"
+date: 2020
 category: "contemporary-analysis"
 tags:
   - analysis

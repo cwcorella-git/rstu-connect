@@ -1,5 +1,6 @@
 ---
 title: Ivan Illich
+date: 1973
 category: feminist-theory
 tags:
   - feminism

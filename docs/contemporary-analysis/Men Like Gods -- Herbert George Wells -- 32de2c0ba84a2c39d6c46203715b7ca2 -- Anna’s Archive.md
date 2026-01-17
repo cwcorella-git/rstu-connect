@@ -1,5 +1,6 @@
 ---
 title: "MEN LIKE GODS"
+date: 1913
 category: "contemporary-analysis"
 tags:
   - analysis

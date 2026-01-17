@@ -1,5 +1,6 @@
 ---
 title: Horst Stowasser
+date: 2007
 category: contemporary-analysis
 tags:
   - liberty

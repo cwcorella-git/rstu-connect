@@ -1,5 +1,6 @@
 ---
 title: 'From Antiglobe to Antifa: A Recent History of Anarchist Struggle in NYC'
+date: 2019
 category: contemporary-analysis
 tags:
   - anarchism

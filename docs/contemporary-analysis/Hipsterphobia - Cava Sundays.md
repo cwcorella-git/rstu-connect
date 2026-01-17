@@ -1,5 +1,6 @@
 ---
 title: "Hipsterphobia - Cava Sundays"
+date: 1964
 category: "contemporary-analysis"
 tags:
   - culture

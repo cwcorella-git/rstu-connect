@@ -1,5 +1,6 @@
 ---
 title: Various Authors
+date: 2019
 category: food-justice
 tags:
   - food

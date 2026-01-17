@@ -1,5 +1,6 @@
 ---
 title: 아나르카 페미니스트 선언 (Anarcha-Feminist Manifesto)
+date: 1982
 category: feminist-theory
 tags:
   - anarchism

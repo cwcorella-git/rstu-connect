@@ -1,5 +1,6 @@
 ---
 title: Statement from John Paul Wootton for June 11 day of solidarity
+date: 2008
 category: contemporary-analysis
 tags:
   - solidarity

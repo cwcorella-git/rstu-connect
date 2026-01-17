@@ -1,5 +1,6 @@
 ---
 title: "Obamawhitehouse.archives.gov"
+date: 2014
 category: contemporary-analysis
 tags:
   - analysis

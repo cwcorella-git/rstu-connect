@@ -1,5 +1,6 @@
 ---
 title: '"I''m your new teacher, my name is Mrs. Simpson."'
+date: 1975
 category: theory
 tags:
   - education

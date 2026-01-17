@@ -1,5 +1,6 @@
 ---
 title: Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea
+date: 2020
 category: technology-digital-justice
 tags:
   - protests

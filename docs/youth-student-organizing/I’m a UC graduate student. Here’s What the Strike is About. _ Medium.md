@@ -1,5 +1,6 @@
 ---
 title: I'm a UC graduate student. Here's What the Strike is About.
+date: 2022
 category: youth-student-organizing
 tags:
   - strikes

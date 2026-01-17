@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Richard Stallman"
+date: 2007
   Pavia Doctoral Address: Innovation Is Secondary When Freedom Is at Stake - GNU
   Project
 category: technology-digital-justice

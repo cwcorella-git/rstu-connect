@@ -1,5 +1,6 @@
 ---
 title: Adams–Onís Treaty
+date: 2024
 category: theory
 tags:
   - theory

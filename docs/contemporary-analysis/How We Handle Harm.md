@@ -1,5 +1,6 @@
 ---
 title: "Punch Up * Kick Down Distro How We Handle Harm"
+date: 2025
 category: "contemporary-analysis"
 tags:
   - analysis

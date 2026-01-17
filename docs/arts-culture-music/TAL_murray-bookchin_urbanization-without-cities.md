@@ -1,5 +1,6 @@
 ---
 title: 'Chapter Seven: The Social Ecology of Urbanization'
+date: 1860
 category: arts-culture-music
 tags:
   - environment

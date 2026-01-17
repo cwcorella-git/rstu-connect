@@ -1,5 +1,6 @@
 ---
 title: "A new modern Design of four-sided Windcatcher for Natural Ventilation in Residential Building in Saudi Arabia"
+date: 2015
 category: "contemporary-analysis"
 tags:
   - analysis

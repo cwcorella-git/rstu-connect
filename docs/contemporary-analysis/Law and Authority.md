@@ -1,5 +1,6 @@
 ---
 title: Pëtr Kropotkin Law and Authority 1886
+date: 1886
 category: contemporary-analysis
 tags:
   - Kropotkin

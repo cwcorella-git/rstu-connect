@@ -1,5 +1,6 @@
 ---
 title: "Episode 39: The Religion Of No Religion/"
+date: 1990
 category: "contemporary-analysis"
 tags:
   - analysis

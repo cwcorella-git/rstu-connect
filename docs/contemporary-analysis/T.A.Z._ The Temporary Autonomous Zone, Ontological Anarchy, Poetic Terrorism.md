@@ -1,5 +1,6 @@
 ---
 title: Hakim Bey
+date: 1985
 category: contemporary-analysis
 tags:
   - anarchism

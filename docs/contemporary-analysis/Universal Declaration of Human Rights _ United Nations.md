@@ -1,5 +1,6 @@
 ---
 title: "Universal Declaration of Human Rights | United Nations"
+date: 2021
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2021
   U N I V E R S A L R E N D E R P I P E L I N E F O R A D V A N C E D UNIT Y
   CREATORS
 category: contemporary-analysis

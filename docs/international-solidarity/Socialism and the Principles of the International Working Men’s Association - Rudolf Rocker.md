@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1933
   Socialism and the Principles of the International Working Men's Association -
   Rudolf Rocker
 category: international-solidarity

@@ -1,5 +1,6 @@
 ---
 title: 'Direct Action (Sol Fed) #12 1999'
+date: 1999
 category: contemporary-analysis
 tags:
   - direct action

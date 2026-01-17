@@ -1,5 +1,6 @@
 ---
 title: BRIEF HISTORY EQUALITY THOMAS PIKETTY
+date: 2022
 category: contemporary-analysis
 tags:
   - United Kingdom

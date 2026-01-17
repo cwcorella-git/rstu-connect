@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2026
   Question of Forces: Interview on Community College Labor Struggle in
   Philadelphia
 category: youth-student-organizing

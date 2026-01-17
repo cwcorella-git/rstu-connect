@@ -1,6 +1,7 @@
 ---
 title: News from libertarian Spain (Vol. 03 No. 01 March 1979)
 author: "Confederación Nacional del Trabajo"
+date: 1979
 category: technology-digital-justice
 tags:
   - protests

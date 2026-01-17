@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2023
   vo trong nghia's 'urban farm office' reintroduces tropical nature to ho chi
   minh city
 category: food-justice

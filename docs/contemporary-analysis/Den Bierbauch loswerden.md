@@ -1,5 +1,6 @@
 ---
 title: "Den Bierbauch loswerden"
+date: 2017
 category: "contemporary-analysis"
 tags:
   - daniel-bovart-katz

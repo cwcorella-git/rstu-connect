@@ -1,5 +1,6 @@
 ---
 title: "Zero magazine"
+date: 1976
 category: "contemporary-analysis"
 tags:
   - analysis

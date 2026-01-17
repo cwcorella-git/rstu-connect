@@ -1,5 +1,6 @@
 ---
 title: Workers Solidarity Movement closing statement
+date: 2021
 category: theory
 tags:
   - solidarity

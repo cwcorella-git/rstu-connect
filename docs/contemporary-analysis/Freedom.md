@@ -1,5 +1,6 @@
 ---
 title: Freedom
+date: 2019
 category: contemporary-analysis
 tags:
   - liberty

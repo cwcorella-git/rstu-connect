@@ -1,5 +1,6 @@
 ---
 title: On the political economy of women - Conference of Socialist Economists
+date: 1976
 category: feminist-theory
 tags:
   - socialism

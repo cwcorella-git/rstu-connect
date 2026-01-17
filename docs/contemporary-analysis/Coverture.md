@@ -1,5 +1,6 @@
 ---
 title: "Coverture"
+date: 1870
 category: "contemporary-analysis"
 tags:
   - analysis

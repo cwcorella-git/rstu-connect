@@ -1,5 +1,6 @@
 ---
 title: General strike conference and a lesson in the arrogance of trade union leaders
+date: 2012
 category: contemporary-analysis
 tags:
   - general strikes

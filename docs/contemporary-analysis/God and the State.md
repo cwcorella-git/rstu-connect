@@ -1,5 +1,6 @@
 ---
 title: Michail Bakunin God and the State 1882
+date: 1882
 category: contemporary-analysis
 tags:
   - Bakunin

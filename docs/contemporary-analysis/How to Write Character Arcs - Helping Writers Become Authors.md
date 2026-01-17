@@ -1,5 +1,6 @@
 ---
 title: "How to Write Character Arcs"
+date: 2015
 category: "contemporary-analysis"
 tags:
   - analysis

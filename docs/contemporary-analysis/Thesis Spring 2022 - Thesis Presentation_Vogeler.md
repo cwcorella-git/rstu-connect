@@ -1,5 +1,6 @@
 ---
 title: "The New and The Old Church"
+date: 2022
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: The Socialist Future of the Syndicates - Georges Sorel
+date: 1898
 category: contemporary-analysis
 tags:
   - socialism

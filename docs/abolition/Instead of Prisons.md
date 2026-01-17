@@ -1,5 +1,6 @@
 ---
 title: Prison Research Education Action Project Instead of Prisons
+date: 1976
 category: contemporary-analysis
 tags:
   - prisons

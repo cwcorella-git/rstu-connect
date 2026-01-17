@@ -1,5 +1,6 @@
 ---
 title: "Simone Weil"
+date: 1945
 category: "contemporary-analysis"
 tags:
   - analysis

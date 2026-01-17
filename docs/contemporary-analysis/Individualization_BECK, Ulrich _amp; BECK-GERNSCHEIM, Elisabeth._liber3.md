@@ -1,5 +1,6 @@
 ---
 title: "Individualization"
+date: 2001
 category: "contemporary-analysis"
 tags:
   - analysis

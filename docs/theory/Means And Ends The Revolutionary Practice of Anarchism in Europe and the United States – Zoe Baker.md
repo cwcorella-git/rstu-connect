@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1868
   Means And Ends: The Revolutionary Practice of Anarchism in Europe and the
   United States – Zoe B
 category: contemporary-analysis

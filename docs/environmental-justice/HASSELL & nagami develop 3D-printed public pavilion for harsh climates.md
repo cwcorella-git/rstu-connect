@@ -1,5 +1,6 @@
 ---
 title: HASSELL & nagami develop 3Dprinted public pavilion for harsh climates
+date: 2023
 category: environmental-justice
 tags:
   - environment

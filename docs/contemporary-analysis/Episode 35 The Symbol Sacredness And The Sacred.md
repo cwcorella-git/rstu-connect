@@ -1,5 +1,6 @@
 ---
 title: "Episode 35: The Symbol Sacredness And The Sacred/"
+date: 1951
 category: "contemporary-analysis"
 tags:
   - analysis

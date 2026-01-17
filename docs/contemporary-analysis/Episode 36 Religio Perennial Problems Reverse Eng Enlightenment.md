@@ -1,5 +1,6 @@
 ---
 title: "Episode 36: Religio Perennial Problems Reverse Eng Enlightenment/"
+date: 1990
 category: "contemporary-analysis"
 tags:
   - analysis

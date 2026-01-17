@@ -1,5 +1,6 @@
 ---
 title: "RYŪNOSUKE AKUTAGAWA"
+date: 1918
 category: theory
 tags:
   - theory

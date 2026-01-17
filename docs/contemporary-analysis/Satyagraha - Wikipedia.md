@@ -1,6 +1,7 @@
 ---
 title: "Satyagraha Wikipedia"
 author: "Wikipedia contributors"
+date: 1930
 category: contemporary-analysis
 tags:
   - analysis

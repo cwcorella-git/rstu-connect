@@ -1,5 +1,6 @@
 ---
 title: "Komahskwema'a Naming Application"
+date: 2021
 category: "contemporary-analysis"
 tags:
   - analysis

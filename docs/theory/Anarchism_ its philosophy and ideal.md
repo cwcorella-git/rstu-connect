@@ -1,5 +1,6 @@
 ---
 title: Pëtr Kropotkin
+date: 1898
 category: contemporary-analysis
 tags:
   - anarchism

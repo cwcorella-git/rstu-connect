@@ -1,5 +1,6 @@
 ---
 title: 'FREEDOM PLAZA: A MEGAPROJECT ALONG THE WATERFRONT'
+date: 2024
 category: contemporary-analysis
 tags:
   - housing

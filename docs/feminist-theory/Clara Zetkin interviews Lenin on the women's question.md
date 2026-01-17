@@ -1,5 +1,6 @@
 ---
 title: Clara Zetkin interviews Lenin on the women's question
+date: 1920
 category: feminist-theory
 tags:
   - women

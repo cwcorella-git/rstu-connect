@@ -28,13 +28,14 @@ interface BuildingCardProps {
   isInLinkingSelection?: boolean;
   isLinked?: boolean;
   linkedGroupName?: string;
+  isLinkMode?: boolean;
   onClick: () => void;
   onToggleFavorite: (e: React.MouseEvent) => void;
   onCtrlClick?: (e: React.MouseEvent) => void;
   'data-apn'?: string;
 }
 
-export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
+export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, isLinkMode = false, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
   const { t } = useLanguage();
   // Only show property name if it's distinct from the address
   const hasDistinctPropertyName = building.propertyName &&
@@ -61,10 +62,24 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
     borderColor = '#cc0000';
   }
 
+  // Handle click - in link mode, treat as Ctrl+click for touch selection
+  const handleClick = (e: React.MouseEvent) => {
+    // In link mode or with Ctrl/Cmd key, toggle link selection
+    if (isLinkMode || e.ctrlKey || e.metaKey) {
+      if (onCtrlClick) {
+        onCtrlClick(e);
+        e.preventDefault();
+        return;
+      }
+    }
+    // Normal click - select the building
+    onClick();
+  };
+
   return (
     <li
       data-apn={dataApn}
-      onClick={onClick}
+      onClick={handleClick}
       className={`p-3 transition-colors cursor-pointer hover:bg-gray-50 ${
         isSelected ? 'bg-red-50' : isInLinkingSelection ? 'bg-red-50' : 'bg-white'
       }`}
@@ -158,5 +173,6 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
          prev.isFavorite === next.isFavorite &&
          prev.isInLinkingSelection === next.isInLinkingSelection &&
          prev.isLinked === next.isLinked &&
-         prev.linkedGroupName === next.linkedGroupName;
+         prev.linkedGroupName === next.linkedGroupName &&
+         prev.isLinkMode === next.isLinkMode;
 });

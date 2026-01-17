@@ -1,5 +1,6 @@
 ---
 title: "Episode 26: Cognitive Science/"
+date: 1991
 category: "contemporary-analysis"
 tags:
   - analysis

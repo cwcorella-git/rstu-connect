@@ -1,5 +1,6 @@
 ---
 title: "Inside Story #2 1972"
+date: 1972
 category: "contemporary-analysis"
 tags:
   - abortion

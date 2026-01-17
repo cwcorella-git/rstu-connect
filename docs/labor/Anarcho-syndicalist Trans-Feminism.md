@@ -1,5 +1,6 @@
 ---
 title: Anarcho-syndicalist Trans-Feminism
+date: 1936
 category: theory
 tags:
   - anarchism

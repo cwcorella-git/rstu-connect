@@ -1,5 +1,6 @@
 ---
 title: How much do you really make?
+date: 2021
 category: theory
 tags:
   - theory

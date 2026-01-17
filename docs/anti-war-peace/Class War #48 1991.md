@@ -1,6 +1,7 @@
 ---
 title: 'Class War #48 1991'
 author: "Class War Federation"
+date: 1991
 category: anti-war-peace
 tags:
   - anti-war

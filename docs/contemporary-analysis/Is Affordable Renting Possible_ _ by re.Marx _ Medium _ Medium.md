@@ -1,5 +1,6 @@
 ---
 title: "Is Affordable Renting Possible?"
+date: 2022
 category: "contemporary-analysis"
 tags:
   - analysis

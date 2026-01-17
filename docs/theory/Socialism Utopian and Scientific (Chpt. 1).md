@@ -1,5 +1,6 @@
 ---
 title: Utopian and Scientific (Chpt. 1)
+date: 1880
 category: contemporary-analysis
 tags:
   - socialism

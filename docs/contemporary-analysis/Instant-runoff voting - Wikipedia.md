@@ -1,6 +1,7 @@
 ---
 title: "Instant-runoff voting"
 author: "Wikipedia contributors"
+date: 2015
 category: "contemporary-analysis"
 tags:
   - analysis

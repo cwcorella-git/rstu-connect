@@ -1,5 +1,6 @@
 ---
 title: Counterinsurgency and the Policing of Space in Ferguson
+date: 2014
 category: contemporary-analysis
 tags:
   - police

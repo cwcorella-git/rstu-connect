@@ -1,5 +1,6 @@
 ---
 title: The ABC of syndicalist sections
+date: 2019
 category: contemporary-analysis
 tags:
   - syndicalism

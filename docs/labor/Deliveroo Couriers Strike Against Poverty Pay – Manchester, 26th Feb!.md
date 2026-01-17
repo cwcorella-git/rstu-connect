@@ -1,5 +1,6 @@
 ---
 title: 'Deliveroo Couriers Strike Against Poverty Pay – Manchester, 26th Feb!'
+date: 2016
 category: organizing
 tags:
   - strikes

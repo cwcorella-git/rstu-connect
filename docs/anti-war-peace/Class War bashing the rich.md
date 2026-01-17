@@ -1,6 +1,7 @@
 ---
 title: Class War "bashing the rich"
 author: "Class War Federation"
+date: 2011
 category: anti-war-peace
 tags:
   - anti-war

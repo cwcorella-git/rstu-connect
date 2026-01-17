@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2018
   Collectives in the Spanish Revolution by Gaston Leval (2018 Updated & Improved
   Edition)
 category: environmental-justice

@@ -1,5 +1,6 @@
 ---
 title: The Battle for Bread at Lawrence - Mary Marcy
+date: 1912
 category: labor
 tags:
   - labor

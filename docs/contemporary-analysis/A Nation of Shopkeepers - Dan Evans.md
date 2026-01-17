@@ -1,5 +1,6 @@
 ---
 title: "A Nation of Shopkeepers"
+date: 2023
 category: "contemporary-analysis"
 tags:
   - analysis

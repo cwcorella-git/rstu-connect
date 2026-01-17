@@ -1,5 +1,6 @@
 ---
 title: "Ledare och ledda – ett naturfenomen?"
+date: 2005
 category: theory
 tags:
   - theory

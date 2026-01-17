@@ -1,6 +1,7 @@
 ---
 title: 'Fields, Factories and Workshops Tomorrow'
 author: "Kevin A. Carson"
+date: 1940
 category: contemporary-analysis
 tags:
   - Kropotkin

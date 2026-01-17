@@ -1,5 +1,6 @@
 ---
 title: "Documentation"
+date: 2019
 category: "contemporary-analysis"
 tags:
   - analysis

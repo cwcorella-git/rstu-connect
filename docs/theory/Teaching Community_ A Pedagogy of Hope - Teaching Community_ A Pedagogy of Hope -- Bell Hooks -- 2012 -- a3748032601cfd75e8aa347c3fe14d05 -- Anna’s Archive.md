@@ -1,5 +1,6 @@
 ---
 title: Teaching Community
+date: 2012
 category: theory
 tags:
   - community

@@ -1,5 +1,6 @@
 ---
 title: 'BLOODY SUNDAY: MARCH FOR JUSTICE'
+date: 2022
 category: contemporary-analysis
 tags:
   - protests

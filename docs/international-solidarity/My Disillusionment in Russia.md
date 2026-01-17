@@ -1,5 +1,6 @@
 ---
 title: PREFACE TO FIRST VOLUME OF AMERICAN EDITION
+date: 1921
 category: international-solidarity
 tags:
   - Russia

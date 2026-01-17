@@ -1,5 +1,6 @@
 ---
 title: ESCAPE FOR CHILDHOOD
+date: 1996
 category: theory
 tags:
   - theory

@@ -1,6 +1,7 @@
 ---
 title: Emma Goldman My Disillusionment in Russia
 author: "Emma Goldman"
+date: 1921
 category: theory
 tags:
   - Emma Goldman

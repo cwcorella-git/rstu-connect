@@ -1,5 +1,6 @@
 ---
 title: Mikhail Bakunin
+date: 1873
 category: contemporary-analysis
 tags:
   - anarchism

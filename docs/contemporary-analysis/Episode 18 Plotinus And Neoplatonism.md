@@ -1,5 +1,6 @@
 ---
 title: "Episode 18: Plotinus And Neoplatonism/"
+date: 1955
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: "What's wrong with Prometheanism?"
+date: 2008
 category: "contemporary-analysis"
 tags:
   - murray-bookchin

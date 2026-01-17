@@ -1,5 +1,6 @@
 ---
 title: "Teleology"
+date: 1900
 category: "contemporary-analysis"
 tags:
   - analysis
