@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "The Trade Union Unity League: American Communists and the transition to industrial unionism: 19"
 author: "Edward P. Johanningsmeier"
 date: 1920
-  The Trade Union Unity League: American Communists and the transition to
-  industrial unionism: 19
 category: labor
 tags:
   - unions

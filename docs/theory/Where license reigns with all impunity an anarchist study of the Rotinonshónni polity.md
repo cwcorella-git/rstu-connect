@@ -1,12 +1,13 @@
 ---
-title: >-
-date: 1924
-  'Where license reigns with all impunity': an anarchist study of the
-  Rotinonshón:ni polity
-category: contemporary-analysis
+title: "'Where license reigns with all impunity': an anarchist study of the Rotinonshón:ni polity"
+author: "Stephen Arthur"
+date: 2010
+category: theory
 tags:
   - anarchism
   - theory
+  - indigenous
+  - iroquois
 ---
 
 ## **"Where license reigns with all impunity": an anarchist study of the Rotinonshón:ni polity**

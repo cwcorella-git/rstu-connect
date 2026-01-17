@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "To remember Spain: the anarchist and syndicalist revolution of 1936 - Murray Bookchin"
 date: 1993
-  To remember Spain: the anarchist and syndicalist revolution of 1936 - Murray
-  Bookchin
 category: arts-culture-music
 tags:
   - anarchism

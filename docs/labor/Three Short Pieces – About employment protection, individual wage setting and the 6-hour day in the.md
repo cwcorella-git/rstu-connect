@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Three Short Pieces – About employment protection, individual wage setting and the 6-hour day in"
 date: 2024
-  Three Short Pieces – About employment protection, individual wage setting and
-  the 6-hour day in
 category: economic-alternatives
 tags:
   - labor

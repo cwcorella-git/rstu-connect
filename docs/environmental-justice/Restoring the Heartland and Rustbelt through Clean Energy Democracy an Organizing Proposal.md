@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Restoring the Heartland and Rustbelt through Clean Energy Democracy: an Organizing Proposal"
 author: "That Green Union Guy -"
 date: 2017
-  Restoring the Heartland and Rustbelt through Clean Energy Democracy: an
-  Organizing Proposal
 category: environmental-justice
 tags:
   - organizing

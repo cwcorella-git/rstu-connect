@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "性别的逻辑——领域的分离与抛弃的过程 (The Logic of Gender - The Process of Separation and Abandonment)"
 date: 2013
-  性别的逻辑——领域的分离与抛弃的过程 (The Logic of Gender - The Process of Separation and
-  Abandonment)
 category: feminist-theory
 tags:
   - feminism

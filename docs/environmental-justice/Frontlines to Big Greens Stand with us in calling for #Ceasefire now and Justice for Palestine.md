@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Frontlines to Big Greens: Stand with us in calling for #Ceasefire now and Justice for Palestine"
 author: "Hendrik Voss -"
 date: 2023
-  Frontlines to Big Greens: Stand with us in calling for #Ceasefire now and
-  Justice for Palestine
 category: environmental-justice
 tags:
   - Palestine

@@ -1,13 +1,12 @@
 ---
-title: >-
+title: "'Energize the Movement': Jailhouse Lawyers Speak on the Importance of the National Shut'Em Down Demonstrations"
+author: "Jailhouse Lawyers Speak"
 date: 2018
-  'Energize the Movement': Jailhouse Lawyers Speak on the Importance of the
-  National Shut'Em Down
 category: technology-digital-justice
 tags:
   - prisons
-  - technology
-  - digital rights
+  - activism
+  - solidarity
 ---
 
 ## **"Energize the Movement": Jailhouse Lawyers Speak on the Importance of the National Shut'Em Down Demonstrations**

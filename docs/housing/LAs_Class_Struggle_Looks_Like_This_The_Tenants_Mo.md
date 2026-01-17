@@ -1,8 +1,5 @@
 ---
-title: >-
-  L.A.'s Class Struggle Looks Like This The Tenants Mo... aboutreaderurl=
-  Source: ./L.A.'s Class Struggle Looks Like This_ The Tenants Movement.pdf ##
-  Content L.A.'s Class Struggle Looks Like This: The
+title: "L.A.'s Class Struggle Looks Like This The Tenants Mo... aboutreaderurl= Source: ./L.A.'s Class Struggle Looks Like This_ The Tenants Movement.pdf ## Content L.A.'s Class Struggle Looks Like This: The"
 category: housing
 author: Housing Advocacy Organization
 date: 2018

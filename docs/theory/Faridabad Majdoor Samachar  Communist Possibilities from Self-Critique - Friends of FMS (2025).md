@@ -1,12 +1,13 @@
 ---
-title: >-
+title: "Faridabad Majdoor Samachar: Communist Possibilities from Self-Critique - Friends of FMS (2025)"
+author: "Friends of FMS"
 date: 2025
-  Faridabad Majdoor Samachar : Communist Possibilities from Self-Critique -
-  Friends of FMS (2025)
 category: theory
 tags:
   - socialism
   - theory
+  - india
+  - marxism
 ---
 
 ## **Faridabad Majdoor Samachar : Communist Possibilities from Self-Critique - Friends of FMS (2025)**

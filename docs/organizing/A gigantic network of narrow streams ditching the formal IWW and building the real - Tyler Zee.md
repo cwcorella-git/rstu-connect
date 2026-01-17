@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "A gigantic network of narrow streams: ditching the formal IWW and building the real - Tyler Zee"
 author: "Industrial Workers of the World"
 date: 2014
-  A gigantic network of narrow streams: ditching the formal IWW and building the
-  real - Tyler Zee
 category: organizing
 tags:
   - unions

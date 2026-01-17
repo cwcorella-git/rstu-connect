@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "My thoughts after attending the 'Workers Rising Everywhere' training: A critique of the Mc Alev"
 date: 1949
-  My thoughts after attending the 'Workers Rising Everywhere' training: A
-  critique of the Mc Alev
 category: labor
 tags:
   - labor

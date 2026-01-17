@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Chinese augmented reality glasses maker Nreal rebrands as Xreal as it takes on tech giants"
 date: 2021
-  Chinese augmented reality glasses maker Nreal rebrands as Xreal as it takes on
-  tech giants
 category: contemporary-analysis
 tags:
   - analysis

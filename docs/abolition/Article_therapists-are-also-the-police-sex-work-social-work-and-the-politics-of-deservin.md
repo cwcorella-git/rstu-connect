@@ -1,7 +1,5 @@
 ---
-title: >-
-  Therapists Are Also the Police Sex Work Social Work and the Politics of
-  Deservin
+title: "Therapists Are Also the Police Sex Work Social Work and the Politics of Deservin"
 author: Unknown
 date: '2025'
 category: abolition

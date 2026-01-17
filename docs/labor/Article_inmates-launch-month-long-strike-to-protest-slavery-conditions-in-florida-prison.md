@@ -1,7 +1,5 @@
 ---
-title: >-
-  Inmates Launch Month Long Strike To Protest Slavery Conditions in Florida
-  Prison
+title: "Inmates Launch Month Long Strike To Protest Slavery Conditions in Florida Prison"
 author: Industrial Workers of the World
 date: '2025'
 category: labor

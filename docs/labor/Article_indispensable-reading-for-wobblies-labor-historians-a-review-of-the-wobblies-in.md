@@ -1,7 +1,5 @@
 ---
-title: >-
-  Indispensable Reading For Wobblies Labor Historians a Review of the Wobblies
-  in
+title: "Indispensable Reading For Wobblies Labor Historians a Review of the Wobblies in"
 author: Bill Haywood
 date: '2025'
 category: labor

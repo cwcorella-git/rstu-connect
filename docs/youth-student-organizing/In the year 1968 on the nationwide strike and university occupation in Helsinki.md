@@ -1,12 +1,13 @@
 ---
-title: >-
+title: "In the year 1968: on the nationwide strike and university occupation in Helsinki"
+author: "Suvi Auvinen"
 date: 1968
-  In the year 1968: on the nationwide strike and university occupation in
-  Helsinki
 category: youth-student-organizing
 tags:
   - strikes
   - occupations
+  - finland
+  - universities
 ---
 
 ## **In the year 1968: on the nationwide strike and university occupation in Helsinki**

@@ -1,8 +1,5 @@
 ---
-title: >-
-  ORIGINAL RESEARCH (6) Source: ./fpsyg-10-02439-1.pdf ## Content ORIGINAL
-  RESEARCH published: 30 October 2019 doi: 10.3389/fpsyg.2019.02439 Different
-  Aspects of Emotional Awareness in Relation to Motor
+title: "ORIGINAL RESEARCH (6) Source: ./fpsyg-10-02439-1.pdf ## Content ORIGINAL RESEARCH published: 30 October 2019 doi: 10.3389/fpsyg.2019.02439 Different Aspects of Emotional Awareness in Relation to Motor"
 category: housing
 author: S. Stepper
 date: 2019

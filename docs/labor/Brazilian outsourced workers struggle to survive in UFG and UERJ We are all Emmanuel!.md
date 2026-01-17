@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Brazilian outsourced workers struggle to survive in UFG and UERJ: We are all Emmanuel!"
 date: 2020
-  Brazilian outsourced workers struggle to survive in UFG and UERJ: We are all
-  Emmanuel!
 category: labor
 tags:
   - labor

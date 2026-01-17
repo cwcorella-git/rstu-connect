@@ -1,6 +1,6 @@
 ---
 title: "Alienation and Mass Organization"
-author: "Sitsirya."
+
 date: 2018
 category: "contemporary-analysis"
 tags:

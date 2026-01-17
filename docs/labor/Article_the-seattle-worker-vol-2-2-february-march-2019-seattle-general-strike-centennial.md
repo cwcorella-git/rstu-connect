@@ -1,7 +1,5 @@
 ---
-title: >-
-  The Seattle Worker Vol 2 2 February March 2019 Seattle General Strike
-  Centennial
+title: "The Seattle Worker Vol 2 2 February March 2019 Seattle General Strike Centennial"
 author: Industrial Workers of the World
 date: '2025'
 category: labor

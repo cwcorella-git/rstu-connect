@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida"
 author: "Campaign to Fight Toxic Prisons -"
 date: 2016
-  Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and
-  Lockdowns across Florida
 category: contemporary-analysis
 tags:
   - strikes

@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "A Real Extinction Rebellion Means the End of Colonialism, Imperialism, and Capitalism"
 author: "Jessica Garraway -"
 date: 2019
-  A Real Extinction Rebellion Means the End of Colonialism, Imperialism, and
-  Capitalism
 category: theory
 tags:
   - riots

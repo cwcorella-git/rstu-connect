@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Siberian anti-fascists are arrested on suspicion of terrorism and making explosives"
 date: 2022
-  Siberian anti-fascists are arrested on suspicion of terrorism and making
-  explosives
 category: contemporary-analysis
 tags:
   - antifascism

@@ -1,7 +1,5 @@
 ---
-title: >-
-  If I were to list some of the most basic anarchic principles, individual
-  autonomy,
+title: "If I were to list some of the most basic anarchic principles, individual autonomy,"
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Managed Decline: A Just Clean Energy Transition and Lessons from Canada's Cod Fishing Industry*"
 author: "Adam Scott and Matt Maiorana -"
 date: 2015
-  Managed Decline: A Just Clean Energy Transition and Lessons from Canada's Cod
-  Fishing Industry*
 category: feminist-theory
 tags:
   - Canada

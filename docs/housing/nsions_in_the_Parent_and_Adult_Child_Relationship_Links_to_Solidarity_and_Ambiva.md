@@ -1,8 +1,5 @@
 ---
-title: >-
-  nsions in the Parent and Adult Child Relationship Links to Solidarity and
-  Ambivalence Source: ./Tensions in the Parent and Adult Child Relationship_
-  Links to Solidarity and Ambivalence.pdf ## Content
+title: "nsions in the Parent and Adult Child Relationship Links to Solidarity and Ambivalence Source: ./Tensions in the Parent and Adult Child Relationship_ Links to Solidarity and Ambivalence.pdf ## Content"
 category: housing
 author: Adult Child
 date: 2017

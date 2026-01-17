@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "\"Judge Lynch, you have the floor!\" The murder of Farion amid the decay processes in the warring"
 date: 2023
-  "Judge Lynch, you have the floor!" The murder of Farion amid the decay
-  processes in the warring
 category: anti-war-peace
 tags:
   - anti-war

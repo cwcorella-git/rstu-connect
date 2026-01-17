@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Amid Price Plunge, North American Oil and Gas Workers Seek Transition to Renewable Sector"
 author: "Candice Bernd -"
 date: 2016
-  Amid Price Plunge, North American Oil and Gas Workers Seek Transition to
-  Renewable Sector
 category: feminist-theory
 tags:
   - labor

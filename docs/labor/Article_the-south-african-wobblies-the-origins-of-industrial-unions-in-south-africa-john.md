@@ -1,7 +1,5 @@
 ---
-title: >-
-  The South African Wobblies the Origins of Industrial Unions in South Africa
-  John
+title: "The South African Wobblies the Origins of Industrial Unions in South Africa John"
 author: Industrial Workers of the World
 date: '2025'
 category: labor

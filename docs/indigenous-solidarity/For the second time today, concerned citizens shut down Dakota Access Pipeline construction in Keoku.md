@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "For the second time today, concerned citizens shut down Dakota Access Pipeline construction in"
 author: "Aaron Murphy, Ruby Montoya, and Jim Arenz -"
 date: 2016
-  For the second time today, concerned citizens shut down Dakota Access Pipeline
-  construction in
 category: indigenous-solidarity
 tags:
   - fossil fuels

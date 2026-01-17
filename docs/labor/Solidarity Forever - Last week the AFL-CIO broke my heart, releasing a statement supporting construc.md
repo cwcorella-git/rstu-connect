@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a statement supporting co"
 author: "Brendan Orsinger -"
 date: 2016
-  Solidarity Forever? - Last week the AFL-CIO broke my heart, releasing a
-  statement supporting co
 category: theory
 tags:
   - unions

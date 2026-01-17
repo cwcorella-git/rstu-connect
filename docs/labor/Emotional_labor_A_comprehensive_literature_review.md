@@ -1,8 +1,5 @@
 ---
-title: >-
-  Emotional labor A comprehensive literature review Source: ./HSM0723.pdf ##
-  Content See discussions, stats, and author profiles for this publication at:
-  Emotional labor: A comprehensive literature revi
+title: "Emotional labor A comprehensive literature review Source: ./HSM0723.pdf ## Content See discussions, stats, and author profiles for this publication at: Emotional labor: A comprehensive literature revi"
 category: labor
 author: Chunjiang Yang
 date: 2020

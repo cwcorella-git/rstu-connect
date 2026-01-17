@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Never Dormant on Death Row: Siddique Hasan and Bomani Shakur on Ferguson & movements against po"
 date: 2014
-  Never Dormant on Death Row: Siddique Hasan and Bomani Shakur on Ferguson &
-  movements against po
 category: technology-digital-justice
 tags:
   - police

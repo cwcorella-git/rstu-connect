@@ -1,9 +1,5 @@
 ---
-title: >-
-  The Sociology of Emotional Labor Source:
-  ./The_Sociology_of_Emotional_Labor.pdf ## Content See discussions, stats, and
-  author profiles for this publication at: The Sociology of Emotional Labor
-  Article
+title: "The Sociology of Emotional Labor Source: ./The_Sociology_of_Emotional_Labor.pdf ## Content See discussions, stats, and author profiles for this publication at: The Sociology of Emotional Labor Article"
 category: labor
 author: Wharton Washington
 date: 2009

@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "If it's jobs they want, Labour and the unions must back renewables, not Hinkley C!"
 date: 2016
-  If it's jobs they want, Labour and the unions must back renewables, not
-  Hinkley C!
 category: environmental-justice
 tags:
   - labor

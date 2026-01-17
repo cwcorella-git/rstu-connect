@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "—Geo Maher, author of A World Without Police: How Strong Communities Make Cops Obsolete"
 date: 2022
-  —Geo Maher, author of A World Without Police: How Strong Communities Make Cops
-  Obsolete
 category: contemporary-analysis
 tags:
   - police

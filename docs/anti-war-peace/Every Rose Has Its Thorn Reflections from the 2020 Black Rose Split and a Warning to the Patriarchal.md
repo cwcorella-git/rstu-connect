@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Every Rose Has Its Thorn: Reflections from the 2020 Black Rose Split and a Warning to the Patriarchal Revolutionary Left"
 author: "Black Rose Anarchist Federation"
 date: 1974
-  Every Rose Has Its Thorn: Reflections from the 2020 Black Rose Split and a
-  Warning to the Patriarchal Revolutionary Left
 category: anti-war-peace
 tags:
   - anti-war

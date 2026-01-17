@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War"
 date: 2021
-  The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil
-  War
 category: feminist-theory
 tags:
   - nonviolence

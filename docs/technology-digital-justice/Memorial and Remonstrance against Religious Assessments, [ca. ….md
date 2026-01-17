@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Founders Online: Memorial and Remonstrance against Religious Assessments, [ca. …"
 author: "George S. Wallace"
 date: 1868
-  Founders Online: Memorial and Remonstrance against Religious Assessments, [ca.
-  …
 category: technology-digital-justice
 tags:
   - technology

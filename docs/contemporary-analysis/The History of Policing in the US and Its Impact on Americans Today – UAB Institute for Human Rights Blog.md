@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "The History of Policing in the US and Its Impact on Americans Today – UAB Institute for Human Rights Blog"
 date: 1964
-  The History of Policing in the US and Its Impact on Americans Today – UAB
-  Institute for Human Rights Blog
 category: contemporary-analysis
 tags:
   - police

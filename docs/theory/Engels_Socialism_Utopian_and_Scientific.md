@@ -1,10 +1,12 @@
 ---
-title: 'Socialism: Utopian and Scientific'
-author: "Engels)"
-date: 1845
-category: contemporary-analysis
+title: "Socialism: Utopian and Scientific"
+author: "Friedrich Engels"
+date: 1880
+category: theory
 tags:
   - theory
+  - socialism
+  - marxism
 ---
 
 # Socialism: Utopian and Scientific

@@ -1,7 +1,5 @@
 ---
-title: >-
-  2022 Global Climate Strike: Travailleuses et Travailleurs pour la Justice
-  Climatique
+title: "2022 Global Climate Strike: Travailleuses et Travailleurs pour la Justice Climatique"
 author: Industrial Workers of the World
 date: '2022'
 category: labor

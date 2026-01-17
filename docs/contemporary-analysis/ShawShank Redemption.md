@@ -4968,7 +4968,8 @@ Well, it means you're ready to rejoin society as a--
 
 I know what you think it means. Me, I think it's a made-up word, a politician's word. A word so young fellas like you can wear a suit and tie and have a job. What do you really want to know? Am I sorry for what I did?
 
-- -----
+- --
+---
 
 ## MAN g2
 

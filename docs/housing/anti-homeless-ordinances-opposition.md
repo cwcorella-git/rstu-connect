@@ -1,7 +1,5 @@
 ---
-title: >-
-  Reno Sparks Tenants Oppose 'Anti-Homeless' Ordinances at Reno City Council
-  Meeting
+title: "Reno Sparks Tenants Oppose 'Anti-Homeless' Ordinances at Reno City Council Meeting"
 author: RSTU Action Committee
 date: '2025-08-28'
 category: abolition

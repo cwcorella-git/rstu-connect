@@ -1,7 +1,5 @@
 ---
-title: >-
-City of Reno adopts an updated ordinance that prohibits sitting, sleeping and
-camping in public places
+title: "City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places"
 author: Unknown
 date: '2025'
 category: abolition

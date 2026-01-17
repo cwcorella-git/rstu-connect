@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "A Class War Against State War – IWW Istanbul's Statement on the Turkish Invasion of Syria"
 author: "Industrial Workers of the World"
-  A Class War Against State War – IWW Istanbul's Statement on the Turkish
-  Invasion of Syria
 category: labor
 tags:
   - unions

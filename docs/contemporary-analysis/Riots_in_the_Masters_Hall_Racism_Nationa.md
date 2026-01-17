@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Riots in the Master's Hall: Racism, Nationalism, and the Crisis of U. S. Hegemony"
 date: 2010
-  Riots in the Master's Hall: Racism, Nationalism, and the Crisis of U. S.
-  Hegemony
 category: contemporary-analysis
 tags:
   - riots

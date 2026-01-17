@@ -1,7 +1,5 @@
 ---
-title: >-
-  Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots
-  Spr
+title: "Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots Spr"
 author: It's Going Down
 date: '2025'
 category: abolition

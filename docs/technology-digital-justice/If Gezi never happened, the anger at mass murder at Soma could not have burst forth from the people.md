@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "\"If Gezi never happened, the anger at mass murder at Soma could not have burst forth from the p"
 date: 1980
-  "If Gezi never happened, the anger at mass murder at Soma could not have burst
-  forth from the p
 category: technology-digital-justice
 tags:
   - technology

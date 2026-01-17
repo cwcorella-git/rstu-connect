@@ -1,8 +1,5 @@
 ---
-title: >-
-  Sample Letters to Landlords aboutreaderurl= Source: ./Sample Letters to
-  Landlords.pdf ## Content Sample Letters to Landlords rentstrike.noblogs.org
-  Sample Letters to Landlords 4-5 minutes If you find
+title: "Sample Letters to Landlords aboutreaderurl= Source: ./Sample Letters to Landlords.pdf ## Content Sample Letters to Landlords rentstrike.noblogs.org Sample Letters to Landlords 4-5 minutes If you find"
 category: housing
 author: On March
 tags:

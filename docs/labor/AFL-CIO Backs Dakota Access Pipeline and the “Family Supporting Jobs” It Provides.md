@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "AFL-CIO Backs Dakota Access Pipeline and the 'Family Supporting Jobs' It Provides"
 author: "Kate Aronoff -"
 date: 2016
-  AFL-CIO Backs Dakota Access Pipeline and the 'Family Supporting Jobs' It
-  Provides
 category: labor
 tags:
   - unions

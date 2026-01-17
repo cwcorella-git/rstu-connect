@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Popular Front. A volunteer group in occupied Melitopol is under persecution for their aid"
 date: 2021
-  Popular Front. A volunteer group in occupied Melitopol is under persecution
-  for their aid
 category: organizing
 tags:
   - organizing

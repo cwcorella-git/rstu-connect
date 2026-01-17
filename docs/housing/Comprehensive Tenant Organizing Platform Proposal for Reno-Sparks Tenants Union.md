@@ -1,7 +1,5 @@
 ---
-title: >-
-Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants
-Union
+title: "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union"
 author: Sparks Tenants Union
 date: '2025'
 category: housing

@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "New Declaration of Principles for Swedish Syndicalists? A proposal from the Umeå Local of SAC"
 date: 2022
-  New Declaration of Principles for Swedish Syndicalists? A proposal from the
-  Umeå Local of SAC
 category: contemporary-analysis
 tags:
   - syndicalism

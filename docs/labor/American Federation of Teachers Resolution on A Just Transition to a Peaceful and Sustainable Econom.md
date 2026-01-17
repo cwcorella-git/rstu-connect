@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "American Federation of Teachers Resolution on A Just Transition to a Peaceful and Sustainable E"
 date: 2017
-  American Federation of Teachers Resolution on A Just Transition to a Peaceful
-  and Sustainable E
 category: labor
 tags:
   - education

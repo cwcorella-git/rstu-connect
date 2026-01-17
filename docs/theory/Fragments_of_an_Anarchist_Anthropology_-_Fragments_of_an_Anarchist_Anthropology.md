@@ -1,7 +1,5 @@
 ---
-title: >-
-  Fragments of an Anarchist Anthropology - Fragments of an Anarchist
-  Anthropology.pdf
+title: "Fragments of an Anarchist Anthropology - Fragments of an Anarchist Anthropology.pdf"
 author: David Graeber
 date: '2004'
 category: theory

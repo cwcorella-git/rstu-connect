@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "More on the libertarian underground in France: legal assets and money-laundering"
 date: 1949
-  More on the libertarian underground in France: legal assets and
-  money-laundering
 category: contemporary-analysis
 tags:
   - France

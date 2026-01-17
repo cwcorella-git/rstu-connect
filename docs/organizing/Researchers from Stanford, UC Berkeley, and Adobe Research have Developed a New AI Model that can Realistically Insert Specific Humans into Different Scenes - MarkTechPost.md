@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "## Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a New AI Model that can"
 date: 2023
-  ## Researchers from Stanford, UC Berkeley, and Adobe Research have Developed a
-  New AI Model that can
 category: organizing
 tags:
   - organizing

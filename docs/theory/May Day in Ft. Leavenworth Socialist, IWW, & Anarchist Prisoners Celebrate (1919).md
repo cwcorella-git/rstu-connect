@@ -1,15 +1,14 @@
 ---
-title: >-
+title: "May Day in Ft. Leavenworth: Socialist, IWW, & Anarchist Prisoners Celebrate (1919)"
 author: "Industrial Workers of the World"
 date: 1919
-  May Day in Ft. Leavenworth: Socialist, IWW, & Anarchist Prisoners Celebrate
-  (1919)
-category: contemporary-analysis
+category: theory
 tags:
   - unions
   - anarchism
   - socialism
   - prisons
+  - iww
 ---
 
 ## **May Day in Ft. Leavenworth: Socialist, IWW, & Anarchist Prisoners Celebrate (1919)**

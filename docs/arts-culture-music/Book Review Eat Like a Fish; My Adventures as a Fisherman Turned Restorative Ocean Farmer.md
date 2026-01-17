@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative Ocean Farmer"
 author: "Industrial Workers of the World"
 date: 2022
-  Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative
-  Ocean Farmer
 category: arts-culture-music
 tags:
   - food

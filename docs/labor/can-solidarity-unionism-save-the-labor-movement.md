@@ -8,8 +8,6 @@ tags:
   - workers
   - unions
   - solidarity
-- solidarity
-- labor
 ---
 # Can “solidarity unionism” save the labor movement
 By Eric Dirnbach -

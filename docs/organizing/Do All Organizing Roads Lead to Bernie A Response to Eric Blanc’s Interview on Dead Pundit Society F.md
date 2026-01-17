@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Do All Organizing Roads Lead to Bernie? A Response to Eric Blanc's Interview on Dead Pundit Soc"
 date: 2012
-  Do All Organizing Roads Lead to Bernie? A Response to Eric Blanc's Interview
-  on Dead Pundit Soc
 category: contemporary-analysis
 tags:
   - organizing

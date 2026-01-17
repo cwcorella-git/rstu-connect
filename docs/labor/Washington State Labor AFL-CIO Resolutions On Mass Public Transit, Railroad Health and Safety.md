@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad Health and Safety"
 date: 2016
-  Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad
-  Health and Safety
 category: labor
 tags:
   - unions

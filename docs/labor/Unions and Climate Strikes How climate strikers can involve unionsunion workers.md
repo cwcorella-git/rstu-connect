@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Unions and Climate Strikes: How climate strikers can involve unions/union workers"
 date: 2006
-  Unions and Climate Strikes: How climate strikers can involve unions/union
-  workers
 category: environmental-justice
 tags:
   - unions

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed
-  Desert
+title: "Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed Desert"
 author: "libcom.org"
 date: '2025'
 category: labor

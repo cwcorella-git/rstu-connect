@@ -1,12 +1,12 @@
 ---
-title: >-
-date: 1868
-  Means And Ends: The Revolutionary Practice of Anarchism in Europe and the
-  United States – Zoe B
-category: contemporary-analysis
+title: "Means And Ends: The Revolutionary Practice of Anarchism in Europe and the United States – Zoe Baker"
+author: "Zoe Baker"
+date: 2023
+category: theory
 tags:
   - anarchism
   - theory
+  - history
 ---
 
 ## **Means And Ends: The Revolutionary Practice of Anarchism in Europe and the United States – Zoe Baker**

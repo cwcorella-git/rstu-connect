@@ -1,7 +1,5 @@
 ---
-title: >-
-  Failed Response to Coronavirus in Indiana Prisons (Pendleton Correctional
-  Facility)
+title: "Failed Response to Coronavirus in Indiana Prisons (Pendleton Correctional Facility)"
 category: technology-digital-justice
 tags:
   - prisons

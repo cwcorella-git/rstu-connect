@@ -1,12 +1,13 @@
 ---
-title: >-
-date: 1987
-  Black Radicalism, Marxism, and Collective Memory: An Interview with Robin D.
-  G. Kelley
+title: "Black Radicalism, Marxism, and Collective Memory: An Interview with Robin D. G. Kelley"
+author: "Jordan T. Camp"
+date: 2013
 category: theory
 tags:
   - socialism
   - theory
+  - marxism
+  - interviews
 ---
 
 ## ![](_page_0_Picture_0.jpeg)

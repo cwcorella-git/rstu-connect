@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Bonzo goes to Oslo: Christian fundamentalists and the far-right strike a new pose"
 date: 2017
-  Bonzo goes to Oslo: Christian fundamentalists and the far-right strike a new
-  pose
 category: contemporary-analysis
 tags:
   - strikes

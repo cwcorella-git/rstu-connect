@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip Littler"
 date: 2020
-  Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip
-  Littler
 category: contemporary-analysis
 tags:
   - prisons

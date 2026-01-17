@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the COVID-19 Era"
 date: 2017
-  Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the
-  COVID-19 Era
 category: contemporary-analysis
 tags:
   - riots

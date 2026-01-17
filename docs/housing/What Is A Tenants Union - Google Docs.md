@@ -1,6 +1,6 @@
 ---
 title: What Is A Tenants Union - Google Docs
-author: Google Docs
+
 date: '2025'
 category: housing
 tags:
@@ -8,8 +8,6 @@ tags:
   - tenants-rights
   - unions
   - tenants
-- tenants
-- unions
 ---
 # What Is A Tenants Union - Google Docs
 Notes from        Educational Material Planning 6/20/25 :

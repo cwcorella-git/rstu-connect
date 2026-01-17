@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Keep Us Alive and Vibrant Out There: An Interview with Political Prisoner Eric King"
 date: 2014
-  Keep Us Alive and Vibrant Out There: An Interview with Political Prisoner Eric
-  King
 category: contemporary-analysis
 tags:
   - prisons

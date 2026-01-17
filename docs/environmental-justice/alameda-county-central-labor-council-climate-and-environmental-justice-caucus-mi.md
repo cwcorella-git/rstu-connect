@@ -1,7 +1,5 @@
 ---
-title: >-
-  Alameda County Central Labor Council Climate and Environmental Justice Caucus
-  Mi
+title: "Alameda County Central Labor Council Climate and Environmental Justice Caucus Mi"
 author: Alameda County Central
 date: '2025'
 category: labor

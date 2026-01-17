@@ -1,7 +1,5 @@
 ---
-title: >-
-  Rank and File Union Members Join Standing Rock Camp As Crackdown On Opponents
-  of
+title: "Rank and File Union Members Join Standing Rock Camp As Crackdown On Opponents of"
 author: Industrial Workers of the World
 date: '2025'
 category: labor

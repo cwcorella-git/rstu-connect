@@ -1,7 +1,6 @@
 ---
 title: "Inside the DNC’s money problems - POLITICO"
-author: "JESSICA PIPER"
-author: "Unknown"
+author: "Jessica Piper"
 date: "2025"
 category: "misc"
 tags:

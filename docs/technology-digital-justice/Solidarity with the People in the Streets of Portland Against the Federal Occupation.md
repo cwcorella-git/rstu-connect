@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Solidarity with the People in the Streets of Portland: Against the Federal Occupation"
 date: 2018
-  Solidarity with the People in the Streets of Portland: Against the Federal
-  Occupation
 category: technology-digital-justice
 tags:
   - occupations

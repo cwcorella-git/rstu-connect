@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Only the power of the class unity of the workers is able to stop the execution machine of the Islamic regime of capital – December 2022"
 author: "Class War Federation"
 date: 2017
-  Only the power of the class unity of the workers is able to stop the execution
-  machine of the Islamic regime of capital – December 2022
 category: anti-war-peace
 tags:
   - labor

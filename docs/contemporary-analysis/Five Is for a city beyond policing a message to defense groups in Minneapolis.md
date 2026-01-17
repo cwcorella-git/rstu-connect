@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Five 'I's for a city beyond policing: a message to defense groups in Minneapolis"
 date: 2020
-  Five 'I's for a city beyond policing: a message to defense groups in
-  Minneapolis
 category: contemporary-analysis
 tags:
   - police

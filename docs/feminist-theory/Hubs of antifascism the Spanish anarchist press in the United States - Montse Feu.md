@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Hubs of antifascism: the Spanish anarchist press in the United States - Montse Feu"
 date: 1970
-  Hubs of antifascism: the Spanish anarchist press in the United States - Montse
-  Feu
 category: feminist-theory
 tags:
   - anarchism

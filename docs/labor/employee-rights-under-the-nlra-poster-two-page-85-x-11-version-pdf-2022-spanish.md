@@ -1,6 +1,5 @@
 ---
-title: >-
-employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish
+title: "employee-rights-under-the-nlra-poster-two-page-85-x-11-version-pdf-2022-spanish"
 author: Employee Rights Under
 date: '2022'
 category: labor

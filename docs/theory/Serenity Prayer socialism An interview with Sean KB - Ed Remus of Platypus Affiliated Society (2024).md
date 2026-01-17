@@ -1,11 +1,13 @@
 ---
-title: >-
+title: "Serenity Prayer socialism: An interview with Sean KB - Ed Remus of Platypus Affiliated Society (2024)"
+author: "Ed Remus"
 date: 2024
-  Serenity Prayer socialism: An interview with Sean KB - Ed Remus of Platypus
-  Affiliated Society
-category: contemporary-analysis
+category: theory
 tags:
   - theory
+  - marxism
+  - interviews
+  - labor
 ---
 
 ## **Serenity Prayer socialism: An interview with Sean KB - Ed Remus of Platypus Affiliated Society (2024)**

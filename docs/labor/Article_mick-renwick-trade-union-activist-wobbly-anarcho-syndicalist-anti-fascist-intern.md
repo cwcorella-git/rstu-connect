@@ -1,7 +1,5 @@
 ---
-title: >-
-  Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist
-  Intern
+title: "Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist Intern"
 author: Industrial Workers of the World
 date: '2025'
 category: labor

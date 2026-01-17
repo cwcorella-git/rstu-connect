@@ -1,8 +1,5 @@
 ---
-title: >-
-  COVID-19 Mutual Aid It's Going Down aboutreaderurl= Source: ./COVID-19 Mutual
-  Aid _ It's Going Down.pdf ## Content COVID-19 Mutual Aid | It's Going Down
-  itsgoingdown.org COVID-19 Mutual Aid It's Going
+title: "COVID-19 Mutual Aid It's Going Down aboutreaderurl= Source: ./COVID-19 Mutual Aid _ It's Going Down.pdf ## Content COVID-19 Mutual Aid | It's Going Down itsgoingdown.org COVID-19 Mutual Aid It's Going"
 category: organizing
 author: Black Lives Matter Louisville
 tags:

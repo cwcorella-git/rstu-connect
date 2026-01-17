@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "The Teacher Strike in West Virginia: Interview with IWW Teacher Michael Mochaidean"
 author: "Radical Education Department -"
 date: 2018
-  The Teacher Strike in West Virginia: Interview with IWW Teacher Michael
-  Mochaidean
 category: organizing
 tags:
   - strikes

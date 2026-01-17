@@ -1,7 +1,5 @@
 ---
-title: >-
-Local government perspectives of federal land management in Nevada -
-ScienceDirect
+title: "Local government perspectives of federal land management in Nevada - ScienceDirect"
 author: Unknown
 date: '1999'
 category: misc

@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "\"Having a Cause\" versus Living in a Life Centered in Radical Transformation – Dean Spade"
 author: "Roger Peet, available at justseeds.org"
 date: 2018
-  "Having a Cause" versus Living in a Life Centered in Radical Transformation –
-  Dean Spade
 category: theory
 tags:
   - theory

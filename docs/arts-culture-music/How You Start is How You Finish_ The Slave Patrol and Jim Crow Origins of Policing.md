@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "How You Start is How You Finish? The Slave Patrol and Jim Crow Origins of Policing"
 date: 2013
-  How You Start is How You Finish? The Slave Patrol and Jim Crow Origins of
-  Policing
 category: arts-culture-music
 tags:
   - police

@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Anti-Fascism Beyond Machismo: Gender, Politics, and the Struggle Against Fascism"
 date: 2018
-  Anti-Fascism Beyond Machismo: Gender, Politics, and the Struggle Against
-  Fascism
 category: feminist-theory
 tags:
   - antifascism

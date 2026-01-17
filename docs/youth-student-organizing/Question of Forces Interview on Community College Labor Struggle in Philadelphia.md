@@ -1,13 +1,14 @@
 ---
-title: >-
-date: 2026
-  Question of Forces: Interview on Community College Labor Struggle in
-  Philadelphia
+title: "Question of Forces: Interview on Community College Labor Struggle in Philadelphia"
+author: "It's Going Down"
+date: 2022
 category: youth-student-organizing
 tags:
   - community
   - labor
   - education
+  - strikes
+  - philadelphia
 ---
 
 ## **Question of Forces: Interview on Community College Labor Struggle in Philadelphia**

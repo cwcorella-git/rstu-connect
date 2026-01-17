@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy and People Power"
 author: "Kali Akuno -"
 date: 2022
-  Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy
-  and People Power
 category: environmental-justice
 tags:
   - autonomy

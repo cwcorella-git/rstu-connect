@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "A volunteer from Kharkov was tortured by the military after trying to leave Ukraine"
 date: 1985
-  A volunteer from Kharkov was tortured by the military after trying to leave
-  Ukraine
 category: technology-digital-justice
 tags:
   - Ukraine

@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Militarization & Economic Transformation in Colombia & Mexico Drug War Capitalism By Dawn Paley"
 date: 1980
-  Militarization & Economic Transformation in Colombia & Mexico Drug War
-  Capitalism By Dawn Paley
 category: theory
 tags:
   - anti-war

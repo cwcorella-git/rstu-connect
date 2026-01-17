@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "A Major Strike May be Coming and I Promise You No One is Ready for it if it Does!"
 author: "Xaxnar -"
 date: 2022
-  A Major Strike May be Coming and I Promise You No One is Ready for it if it
-  Does!
 category: labor
 tags:
   - strikes

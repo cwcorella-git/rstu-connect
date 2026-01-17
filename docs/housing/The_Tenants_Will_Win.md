@@ -1,9 +1,5 @@
 ---
-title: >-
-  The Tenants Will Win Source:
-  ./the-tenants-will-win-tanc-pandemic-organizing-guide.pdf ## Content The
-  Tenants Will Win: TANC Pandemic Organizing Guide - Versión en español Haga
-  clic aquí - March 22, 2
+title: "The Tenants Will Win Source: ./the-tenants-will-win-tanc-pandemic-organizing-guide.pdf ## Content The Tenants Will Win: TANC Pandemic Organizing Guide - Versión en español Haga clic aquí - March 22, 2"
 category: housing
 author: Organizing Guide
 date: 2020

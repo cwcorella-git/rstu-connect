@@ -1,7 +1,5 @@
 ---
-title: >-
-  Strike At A Military Airfield And Other Refusals To Fight In Russia And
-  Ukraine
+title: "Strike At A Military Airfield And Other Refusals To Fight In Russia And Ukraine"
 author: "libcom.org"
 date: '2025'
 category: labor

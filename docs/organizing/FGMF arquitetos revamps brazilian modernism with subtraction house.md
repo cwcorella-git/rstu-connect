@@ -1,9 +1,6 @@
 ---
-title: >-
+title: "home > architecture > FGMF arquitetos revamps brazilian modernism with house of voids 'subtracon house' socialize) compe design directory shop 1courses ons architecture) 1)"
 date: 2024
-  home > architecture > FGMF arquitetos revamps brazilian modernism with house
-  of voids 'subtracon house' socialize) compe design directory shop 1courses ons
-  architecture) 1)
 category: organizing
 tags:
   - organizing

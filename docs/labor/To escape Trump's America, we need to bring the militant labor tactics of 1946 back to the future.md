@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "To escape Trump's America, we need to bring the militant labor tactics of 1946 back to the futu"
 date: 1946
-  To escape Trump's America, we need to bring the militant labor tactics of 1946
-  back to the futu
 category: contemporary-analysis
 tags:
   - labor

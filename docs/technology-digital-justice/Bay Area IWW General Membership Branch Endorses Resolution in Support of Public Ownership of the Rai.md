@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of th"
 author: "Industrial Workers of the World"
 date: 2023
-  Bay Area IWW General Membership Branch Endorses Resolution in Support of
-  Public Ownership of th
 category: technology-digital-justice
 tags:
   - unions

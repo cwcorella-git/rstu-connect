@@ -1,12 +1,12 @@
 ---
-title: >-
-date: 2019
-  Strike in West London: Richmond upon Thames College staff fight 'Fire and
-  Rehire'
+title: "Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'"
+date: 2022
 category: youth-student-organizing
 tags:
   - strikes
   - education
+  - london
+  - teachers
 ---
 
 ## **Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'**

@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "The darkest hour is before the dawn? Assembly's view on another year of trench warfare in 2024*"
 date: 2024
-  The darkest hour is before the dawn? Assembly's view on another year of trench
-  warfare in 2024*
 category: anti-war-peace
 tags:
   - anti-war

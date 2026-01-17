@@ -1,7 +1,5 @@
 ---
-title: >-
-  FBI says man killed in Missouri wanted to bomb hospital amid coronavirus
-  epidemic
+title: "FBI says man killed in Missouri wanted to bomb hospital amid coronavirus epidemic"
 category: contemporary-analysis
 tags:
   - healthcare

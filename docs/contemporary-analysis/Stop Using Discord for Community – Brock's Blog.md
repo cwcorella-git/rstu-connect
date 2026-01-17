@@ -1,6 +1,6 @@
 ---
 title: "Stop Using Discord For Community – Brock'S Blog"
-author: "Brock"
+
 date: 2025
 category: contemporary-analysis
 tags:

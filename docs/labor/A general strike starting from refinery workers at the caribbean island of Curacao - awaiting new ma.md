@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "A general strike starting from refinery workers at the caribbean island of Curacao - awaiting n"
 date: 1969
-  A general strike starting from refinery workers at the caribbean island of
-  Curacao - awaiting n
 category: arts-culture-music
 tags:
   - general strikes

@@ -1,12 +1,12 @@
 ---
-title: Students Lead the Militancy!
-author: "Laya."
+title: "Students Lead the Militancy!"
 date: 1970
 category: youth-student-organizing
 tags:
   - education
   - students
   - youth
+  - activism
 ---
 
 ## **Students Lead the Militancy!**

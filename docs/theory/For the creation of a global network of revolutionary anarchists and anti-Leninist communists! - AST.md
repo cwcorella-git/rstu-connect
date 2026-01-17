@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "For the creation of a global network of revolutionary anarchists and anti-Leninist communists!"
 date: 1917
-  For the creation of a global network of revolutionary anarchists and
-  anti-Leninist communists!
 category: contemporary-analysis
 tags:
   - anarchism

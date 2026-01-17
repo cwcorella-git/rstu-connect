@@ -1,7 +1,5 @@
 ---
-title: >-
-  A General Strike Starting From Refinery Workers At the Caribbean Island of
-  Curac
+title: "A General Strike Starting From Refinery Workers At the Caribbean Island of Curac"
 author: Wikipedia
 date: '2025'
 category: labor

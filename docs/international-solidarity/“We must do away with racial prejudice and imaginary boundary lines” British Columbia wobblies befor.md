@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "'We must do away with racial prejudice and imaginary boundary lines': British Columbia wobblies"
 date: 1900
-  'We must do away with racial prejudice and imaginary boundary lines': British
-  Columbia wobblies
 category: international-solidarity
 tags:
   - unions

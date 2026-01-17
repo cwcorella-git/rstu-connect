@@ -5,7 +5,6 @@ date: '2025'
 category: misc
 tags:
   - education
-- education
 ---
 
 Previous Meeting Notes:     Educational Material Planning 6/20/25

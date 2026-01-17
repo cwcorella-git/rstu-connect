@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest"
 date: 2023
-  Defending Abundance Everywhere: A Call to Every Community from the Weelaunee
-  Forest
 category: environmental-justice
 tags:
   - community

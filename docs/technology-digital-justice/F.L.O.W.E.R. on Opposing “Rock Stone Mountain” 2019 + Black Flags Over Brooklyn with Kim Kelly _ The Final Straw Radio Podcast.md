@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "F. L. O. W. E. R. on Opposing 'Rock Stone Mountain' 2019 + Black Flags Over Brooklyn with Kim Kelly"
 date: 2019
-  F. L. O. W. E. R. on Opposing 'Rock Stone Mountain' 2019 + Black Flags Over
-  Brooklyn with Kim Kelly
 category: technology-digital-justice
 tags:
   - technology

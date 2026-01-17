@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Queering the Panthers: Rhetorical adjacency and black/queer liberation politics"
 date: 2019
-  Queering the Panthers: Rhetorical adjacency and black/queer liberation
-  politics
 category: feminist-theory
 tags:
   - LGBTQ+

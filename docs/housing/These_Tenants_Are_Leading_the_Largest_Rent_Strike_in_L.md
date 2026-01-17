@@ -1,8 +1,5 @@
 ---
-title: >-
-  These Tenants Are Leading the Largest Rent Strike in L... aboutreaderurl=
-  Source: ./These Tenants Are Leading the Largest Rent Strike in LA History _
-  The Nation.pdf ## Content These Tenants Are Leadin
+title: "These Tenants Are Leading the Largest Rent Strike in L... aboutreaderurl= Source: ./These Tenants Are Leading the Largest Rent Strike in LA History _ The Nation.pdf ## Content These Tenants Are Leadin"
 category: labor
 author: Housing Advocacy Organization
 tags:

@@ -7,7 +7,6 @@ tags:
   - theory
   - political-theory
   - peter-kropotkin
-- theory
 ---
 # An Appeal to the Young
 Pëtr Kropotkin

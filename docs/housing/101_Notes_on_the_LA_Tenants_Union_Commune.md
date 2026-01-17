@@ -1,8 +1,5 @@
 ---
-title: >-
-  101 Notes on the LA Tenants Union Commune aboutreaderurl= Source: ./101 Notes
-  on the LA Tenants Union _ Commune.pdf ## Content 101 Notes on the LA Tenants
-  Union | Commune communemag.com 101 Notes on t
+title: "101 Notes on the LA Tenants Union Commune aboutreaderurl= Source: ./101 Notes on the LA Tenants Union _ Commune.pdf ## Content 101 Notes on the LA Tenants Union | Commune communemag.com 101 Notes on t"
 category: housing
 author: Union Commune aboutreaderurl
 date: 2012

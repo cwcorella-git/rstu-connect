@@ -5,7 +5,6 @@ date: '2025'
 category: misc
 tags:
   - education
-- education
 ---
 # Educational Material Planning 06-20-25 - Google Docs
 - NEXT MEETINGS:

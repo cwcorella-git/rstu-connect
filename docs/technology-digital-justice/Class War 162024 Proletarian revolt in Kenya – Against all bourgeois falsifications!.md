@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Class War 16/2024: Proletarian revolt in Kenya – Against all bourgeois falsifications!"
 author: "Class War Federation"
 date: 2024
-  Class War 16/2024: Proletarian revolt in Kenya – Against all bourgeois
-  falsifications!
 category: technology-digital-justice
 tags:
   - riots

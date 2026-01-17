@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Eleven blind leaders or \"practical socialism\" and \"revolutionary tactics\" from an I. W. W.standpoint – B. H. Williams"
 date: 1910
-  Eleven blind leaders or "practical socialism" and "revolutionary tactics" from
-  an I. W. W.standpoint – B. H. Williams
 category: theory
 tags:
   - theory

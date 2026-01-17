@@ -1,8 +1,6 @@
 ---
-title: >-
-  The Case For the Tenant Union Jan Mar 2023 Pr Issue Prrac Connecting Research
-  To
-author: '|-'
+title: "The Case For the Tenant Union Jan Mar 2023 Pr Issue Prrac Connecting Research To"
+
 date: '2025'
 category: housing
 tags:

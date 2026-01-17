@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "ANARCHISM From Theory to Practice by Daniel Guerin I ntroduction by Noam Chomsky Translated by Mary Klopper o"
 date: 1880
-  ANARCHISM From Theory to Practice by Daniel Guerin I ntroduction by Noam
-  Chomsky Translated by Mary Klopper o
 category: theory
 tags:
   - anarchism

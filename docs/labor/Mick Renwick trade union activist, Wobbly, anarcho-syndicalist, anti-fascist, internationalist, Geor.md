@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist"
 date: 2014
-  Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist,
-  internationalist
 category: international-solidarity
 tags:
   - unions

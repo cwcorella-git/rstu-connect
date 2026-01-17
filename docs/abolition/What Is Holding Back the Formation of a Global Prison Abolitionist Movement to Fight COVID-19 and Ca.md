@@ -1,7 +1,5 @@
 ---
-title: >-
-  What Is Holding Back the Formation of a Global Prison Abolitionist Movement to
-  Fight COVID-19 and Capitalism?
+title: "What Is Holding Back the Formation of a Global Prison Abolitionist Movement to Fight COVID-19 and Capitalism?"
 author: Unknown
 date: '2011'
 category: abolition

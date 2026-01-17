@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "GEO at UIUC Statement in Response to Richard Trumka's Statement on the Dakota Access Pipeline"
 author: "Solidarity Committee -"
 date: 2010
-  GEO at UIUC Statement in Response to Richard Trumka's Statement on the Dakota
-  Access Pipeline
 category: labor
 tags:
   - fossil fuels

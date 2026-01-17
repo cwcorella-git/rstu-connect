@@ -6,7 +6,6 @@ category: organizing
 tags:
   - organizing
   - direct-action
-- organizing
 ---
 # brief-overview
 What is a Tenants

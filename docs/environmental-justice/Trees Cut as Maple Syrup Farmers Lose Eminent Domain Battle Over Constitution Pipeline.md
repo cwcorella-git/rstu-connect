@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution Pipeline"
 date: 2016
-  Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution
-  Pipeline
 category: environmental-justice
 tags:
   - food

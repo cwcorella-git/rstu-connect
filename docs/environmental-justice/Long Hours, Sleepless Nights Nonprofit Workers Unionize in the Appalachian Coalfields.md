@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian Coalfields"
 author: "Caitlin Myers -"
 date: 2021
-  Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian
-  Coalfields
 category: environmental-justice
 tags:
   - labor

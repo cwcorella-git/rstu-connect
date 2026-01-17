@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "How Western Mental Health Reinforces Capitalism b[y Christian Arnold](https://hoodcommunist.org/author/carnold/)"
 date: 1952
-  How Western Mental Health Reinforces Capitalism b[y Christian
-  Arnold](https://hoodcommunist.org/author/carnold/)
 category: theory
 tags:
   - socialism

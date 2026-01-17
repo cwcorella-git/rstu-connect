@@ -5,7 +5,6 @@ date: '2025'
 category: misc
 tags:
   - education
-- education
 ---
 
 Educational Material Quick

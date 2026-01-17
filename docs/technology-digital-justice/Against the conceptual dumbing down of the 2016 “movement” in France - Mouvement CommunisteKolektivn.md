@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Against the conceptual dumbing down of the 2016 'movement' in France - Mouvement Communiste/Kol"
 date: 1995
-  Against the conceptual dumbing down of the 2016 'movement' in France -
-  Mouvement Communiste/Kol
 category: technology-digital-justice
 tags:
   - socialism

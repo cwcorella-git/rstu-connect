@@ -1,6 +1,6 @@
 ---
 title: Basic book on syndicalism – some tips on how to use it
-author: Erik Bonk on Syndikalisten's
+author: "Erik Bonk"
 date: '2025'
 category: labor
 tags:
@@ -8,10 +8,6 @@ tags:
   - workers
   - unions
   - syndicalism
-- syndicalism
-- labor
-- unions
-- workers
 ---
 # Basic book on syndicalism – some tips on how to use it
 Buy the printed bookhereor download a free PDF. The article below is translated from the Swedish magazineSyndikalisten, printed issue #3 2023. The author is a member of the Swedish syndicalist unionSAC.

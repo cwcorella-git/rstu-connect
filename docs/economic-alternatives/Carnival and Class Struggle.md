@@ -1,7 +1,5 @@
 ---
-title: >-
-  Carnival. What comes to mind? For the Americans in my audience, you might be
-  thinking of the
+title: "Carnival. What comes to mind? For the Americans in my audience, you might be thinking of the"
 category: economic-alternatives
 tags:
   - class

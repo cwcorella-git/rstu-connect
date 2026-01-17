@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "'Energy Without Injury': From Redwood Summer to Break Free via Occupy Wall Street"
 author: "Desiree Hellegers -"
 date: 2016
-  'Energy Without Injury': From Redwood Summer to Break Free via Occupy Wall
-  Street
 category: environmental-justice
 tags:
   - occupations

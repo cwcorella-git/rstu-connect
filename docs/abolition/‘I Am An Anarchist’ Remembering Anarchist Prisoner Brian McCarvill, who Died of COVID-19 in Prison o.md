@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "'I Am An Anarchist': Remembering Anarchist Prisoner Brian Mc Carvill, who Died of COVID-19 in P"
 date: 2020
-  'I Am An Anarchist': Remembering Anarchist Prisoner Brian Mc Carvill, who Died
-  of COVID-19 in P
 category: contemporary-analysis
 tags:
   - anarchism

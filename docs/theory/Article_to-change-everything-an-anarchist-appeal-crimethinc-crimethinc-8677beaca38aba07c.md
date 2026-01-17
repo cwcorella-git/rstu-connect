@@ -1,7 +1,5 @@
 ---
-title: >-
-  To Change Everything An Anarchist Appeal Crimethinc Crimethinc
-  8677beaca38aba07c
+title: "To Change Everything An Anarchist Appeal Crimethinc Crimethinc 8677beaca38aba07c"
 author: CrimethInc.
 date: '2025'
 category: theory

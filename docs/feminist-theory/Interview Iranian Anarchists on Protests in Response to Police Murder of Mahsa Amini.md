@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini"
 date: 2022
-  Interview: Iranian Anarchists on Protests in Response to Police Murder of
-  Mahsa Amini
 category: feminist-theory
 tags:
   - protests

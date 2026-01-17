@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "8th of march - international women's day - messages from the front line in Ukraine"
 date: 2022
-  8th of march - international women's day - messages from the front line in
-  Ukraine
 category: theory
 tags:
   - protests

@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - C"
 date: 1920
-  Talking about a revolution: Federica Montseny and Emma Goldman during the
-  Spanish Civil War - C
 category: feminist-theory
 tags:
   - anti-war

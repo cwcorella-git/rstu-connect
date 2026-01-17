@@ -1,7 +1,5 @@
 ---
-title: >-
-  Conservatives Back Down On Anti Worker Law in Face of General Strike Threat
-  Rank
+title: "Conservatives Back Down On Anti Worker Law in Face of General Strike Threat Rank"
 author: Jeff Shantz
 date: '2025'
 category: labor

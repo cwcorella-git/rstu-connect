@@ -1,8 +1,5 @@
 ---
-title: >-
-  KEEPING YOUR RENT WHY KEEP YOUR RENT Source: ./WHY-KEEP-YOUR-RENT.pdf ##
-  Content KEEPING YOUR RENT: WHY KEEP YOUR RENT? torontokeepyourrent@gmail.com |
-  647-874-8793 | Facebook: Keep Your Rent Toronto
+title: "KEEPING YOUR RENT WHY KEEP YOUR RENT Source: ./WHY-KEEP-YOUR-RENT.pdf ## Content KEEPING YOUR RENT: WHY KEEP YOUR RENT? torontokeepyourrent@gmail.com | 647-874-8793 | Facebook: Keep Your Rent Toronto"
 category: housing
 author: Housing Advocacy Organization
 tags:

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack
-  Libe
+title: "Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe"
 author: Treyf Podcast
 date: '2025'
 category: theory

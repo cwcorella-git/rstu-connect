@@ -1,8 +1,8 @@
 {
-  "commit": "acf91c31",
-  "message": "Improve date coverage from 78% to 92%",
+  "commit": "707d496b",
+  "message": "Fix infinite re-render loop in StepHousehold",
   "author": "cwcorella-git",
-  "date": "2026-01-16 20:12:30 -0800",
+  "date": "2026-01-16 20:35:02 -0800",
   "branch": "main",
-  "buildTime": "2026-01-17T04:19:05.891Z"
+  "buildTime": "2026-01-17T05:02:58.732Z"
 }

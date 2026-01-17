@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Operation Sold Out II: The Failed General Strike in British Columbia in 2004 – Paul Finch"
 date: 2005
-  Operation Sold Out II: The Failed General Strike in British Columbia in 2004 –
-  Paul Finch
 category: technology-digital-justice
 tags:
   - general strikes

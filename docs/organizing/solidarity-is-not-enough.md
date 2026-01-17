@@ -1,14 +1,12 @@
 ---
 title: Solidarity is Not Enough
-author: Not Enough
+
 date: '2023'
 category: organizing
 tags:
   - organizing
   - direct-action
   - solidarity
-- solidarity
-- organizing
 ---
 # Solidarity is Not Enough
 By Northumbria IWW -

@@ -1,7 +1,5 @@
 ---
-title: >-
-Teachers union files initiative to ask legislature, voters to legalize strikes
-for educators • Nevada Current
+title: "Teachers union files initiative to ask legislature, voters to legalize strikes for educators • Nevada Current"
 author: Nevada Current
 date: '2025'
 category: labor

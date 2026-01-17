@@ -1,9 +1,6 @@
 ---
-title: >-
+title: "Accept All Reject Settings no longer be effective discriminators it for interactions exclusively with ent. Similar to how users can filter e.g. \"Following\" and \"For You\" nt or accounts that have been"
 date: 2023
-  Accept All Reject Settings no longer be effective discriminators it for
-  interactions exclusively with ent. Similar to how users can filter e.g.
-  "Following" and "For You" nt or accounts that have been
 category: technology-digital-justice
 tags:
   - technology

@@ -1,7 +1,5 @@
 ---
-title: >-
-  For the Creation of a Global Network of Revolutionary Anarchists and Anti
-  Lenini
+title: "For the Creation of a Global Network of Revolutionary Anarchists and Anti Lenini"
 author: "libcom.org"
 date: '2025'
 category: theory

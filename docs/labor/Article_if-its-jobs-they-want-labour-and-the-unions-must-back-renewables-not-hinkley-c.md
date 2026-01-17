@@ -1,7 +1,5 @@
 ---
-title: >-
-  If It''s Jobs They Want, Labour and the Unions Must Back Renewables Not
-  Nuclear
+title: "If It''s Jobs They Want, Labour and the Unions Must Back Renewables Not Nuclear"
 author: Industrial Workers of the World
 date: '2025'
 category: labor

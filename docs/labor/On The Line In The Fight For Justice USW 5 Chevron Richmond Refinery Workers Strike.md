@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "On The Line In The Fight For Justice: USW 5 Chevron Richmond Refinery Workers Strike"
 author: "Steve Zeltser -"
 date: 2022
-  On The Line In The Fight For Justice: USW 5 Chevron Richmond Refinery Workers
-  Strike
 category: contemporary-analysis
 tags:
   - strikes

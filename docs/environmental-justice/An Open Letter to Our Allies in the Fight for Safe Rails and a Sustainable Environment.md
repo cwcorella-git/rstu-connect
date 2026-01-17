@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "An Open Letter to Our Allies in the Fight for Safe Rails and a Sustainable Environment"
 date: 2017
-  An Open Letter to Our Allies in the Fight for Safe Rails and a Sustainable
-  Environment
 category: environmental-justice
 tags:
   - environment

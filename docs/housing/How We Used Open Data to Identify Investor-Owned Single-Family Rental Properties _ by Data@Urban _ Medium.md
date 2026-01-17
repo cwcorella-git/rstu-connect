@@ -1,7 +1,5 @@
 ---
-title: >-
-How We Used Open Data to Identify Investor-Owned Single-Family Rental
-Properties _ by Data@Urban _ Medium
+title: "How We Used Open Data to Identify Investor-Owned Single-Family Rental Properties _ by Data@Urban _ Medium"
 author: Housing Advocacy Organization
 date: '2025'
 category: housing

@@ -1,9 +1,7 @@
 ---
-title: >-
+title: "Prospects for Social Democracy in the US: Insights From a Syndicalist in Sweden"
 author: "Industrial Workers of the World"
 date: 2017
-  Prospects for Social Democracy in the US: Insights From a Syndicalist in
-  Sweden
 category: contemporary-analysis
 tags:
   - syndicalism

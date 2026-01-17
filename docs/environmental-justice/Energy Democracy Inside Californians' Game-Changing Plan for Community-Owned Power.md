@@ -1,13 +1,12 @@
 ---
-title: >-
-author:
-date: 2015
-  Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned
-  Power
+title: "Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power"
+date: 2016
 category: environmental-justice
 tags:
   - community
   - democracy
+  - energy
+  - california
 ---
 
 ## **Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power**

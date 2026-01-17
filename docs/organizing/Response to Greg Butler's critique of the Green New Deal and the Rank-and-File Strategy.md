@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Response to Greg Butler's critique of the Green New Deal and the Rank-and-File Strategy"
 date: 2021
-  Response to Greg Butler's critique of the Green New Deal and the Rank-and-File
-  Strategy
 category: organizing
 tags:
   - organizing

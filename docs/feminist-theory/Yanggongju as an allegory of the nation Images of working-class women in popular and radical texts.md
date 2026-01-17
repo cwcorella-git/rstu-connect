@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "Yanggongju as an allegory of the nation: Images of working-class women in popular and radical t"
 date: 2012
-  Yanggongju as an allegory of the nation: Images of working-class women in
-  popular and radical t
 category: feminist-theory
 tags:
   - women

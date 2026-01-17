@@ -1,8 +1,6 @@
 ---
-title: >-
+title: "iran-based team group envisions this 'bohem' house as an assemblage of fluid shells"
 date: 2022
-  iran-based team group envisions this 'bohem' house as an assemblage of fluid
-  shells
 category: contemporary-analysis
 tags:
   - analysis
