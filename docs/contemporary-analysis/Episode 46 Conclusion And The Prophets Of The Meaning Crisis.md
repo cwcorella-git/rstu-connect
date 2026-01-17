@@ -1,5 +1,6 @@
 ---
 title: "Episode 46: Conclusion And The Prophets Of The Meaning Crisis/"
+date: 2013
 category: "contemporary-analysis"
 ---
 

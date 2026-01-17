@@ -1,5 +1,6 @@
 ---
 title: "Episode 45: The Nature Of Wisdom/"
+date: 2013
 category: "contemporary-analysis"
 ---
 

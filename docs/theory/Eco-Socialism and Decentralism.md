@@ -1,5 +1,6 @@
 ---
 title: Eco-Socialism and Decentralism
+date: 2016
 category: contemporary-analysis
 tags:
   - theory

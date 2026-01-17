@@ -1,5 +1,6 @@
 ---
 title: 'I Have No Words & I Must Design: Toward a Critical Vocabulary for Games'
+date: 1982
 category: anti-war-peace
 tags:
   - anti-war

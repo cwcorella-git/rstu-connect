@@ -1,6 +1,7 @@
 ---
 title: Indigenous Resistance Deserves Workers' Solidarity
 author: "Roger Butterfield"
+date: 2016
 category: labor
 tags:
   - solidarity

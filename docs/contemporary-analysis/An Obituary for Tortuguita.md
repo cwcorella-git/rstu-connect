@@ -1,6 +1,7 @@
 ---
 title: "An Obituary for Tortuguita"
 author: "Tallahassee IWW -"
+date: 2023
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Cops and Cocaine: Bent for the cause – Black Flag'
+date: 1997
 category: technology-digital-justice
 tags:
   - police

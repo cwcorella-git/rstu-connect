@@ -1,5 +1,6 @@
 ---
 title: "Winter of Dissent"
+date: 2016
 category: "contemporary-analysis"
 ---
 

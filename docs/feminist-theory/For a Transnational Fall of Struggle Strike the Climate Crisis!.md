@@ -1,6 +1,7 @@
 ---
 title: 'For a Transnational Fall of Struggle: Strike the Climate Crisis!'
 author: "TSS PLATFORM -"
+date: 2022
 category: feminist-theory
 tags:
   - strikes

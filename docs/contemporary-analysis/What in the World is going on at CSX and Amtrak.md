@@ -1,5 +1,6 @@
 ---
 title: "What in the World is going on at CSX and Amtrak?"
+date: 2018
 category: "contemporary-analysis"
 ---
 

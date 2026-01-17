@@ -1,5 +1,6 @@
 ---
 title: A Short History of Anarchism
+date: 1888
 category: contemporary-analysis
 tags:
   - anarchism

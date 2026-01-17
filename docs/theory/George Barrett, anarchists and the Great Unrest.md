@@ -1,5 +1,6 @@
 ---
 title: 'George Barrett, anarchists and the Great Unrest'
+date: 1910
 category: contemporary-analysis
 tags:
   - anarchism

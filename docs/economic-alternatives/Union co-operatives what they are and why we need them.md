@@ -1,5 +1,6 @@
 ---
 title: 'Union co-operatives: what they are and why we need them'
+date: 2017
 category: economic-alternatives
 tags:
   - unions

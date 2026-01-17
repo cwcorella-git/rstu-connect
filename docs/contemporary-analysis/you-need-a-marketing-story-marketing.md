@@ -1,5 +1,6 @@
 ---
 title: "What Games Are"
+date: 1987
 category: "contemporary-analysis"
 ---
 

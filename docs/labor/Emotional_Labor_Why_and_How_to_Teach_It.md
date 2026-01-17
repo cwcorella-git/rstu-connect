@@ -5,6 +5,7 @@ title: >-
   profiles for this publication at: Emotional Labor: Why and How to Teach I
 category: labor
 author: Sharon H
+date: 1916
 tags:
   - labor
   - unions

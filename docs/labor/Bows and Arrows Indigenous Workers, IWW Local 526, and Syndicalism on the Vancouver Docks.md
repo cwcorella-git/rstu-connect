@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Jeff Shantz -"
+date: 2021
   Bows and Arrows: Indigenous Workers, IWW Local 526, and Syndicalism on the
   Vancouver Docks
 category: organizing

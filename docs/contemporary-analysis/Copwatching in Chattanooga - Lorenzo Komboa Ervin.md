@@ -1,5 +1,6 @@
 ---
 title: "Copwatching in Chattanooga - Lorenzo Komboa Ervin"
+date: 1969
 category: "contemporary-analysis"
 ---
 

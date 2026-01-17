@@ -1,5 +1,6 @@
 ---
 title: "Writing Dialogue And Character Voice With Jeff Elkins"
+date: 2015
 category: "contemporary-analysis"
 ---
 

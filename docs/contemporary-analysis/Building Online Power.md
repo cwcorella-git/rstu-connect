@@ -1,5 +1,6 @@
 ---
 title: "Cayden Mak"
+date: 2022
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Home body rupi kaur"
+date: 2022
 category: "contemporary-analysis"
 ---
 

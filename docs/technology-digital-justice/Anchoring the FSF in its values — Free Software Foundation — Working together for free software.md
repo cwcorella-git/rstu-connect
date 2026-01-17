@@ -1,5 +1,6 @@
 ---
 title: Anchoring the FSF in its values
+date: 2025
 category: technology-digital-justice
 tags:
   - technology

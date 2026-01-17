@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2023
   Revolutionary prisoners Ruslan Abasov and Lev Skoryakin managed to leave
   Russia
 category: international-solidarity

@@ -1,5 +1,6 @@
 ---
 title: Fragments of anarchism in higher education critical art pedagogies
+date: 2006
 category: arts-culture-music
 tags:
   - anarchism

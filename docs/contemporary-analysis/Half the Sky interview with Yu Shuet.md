@@ -1,5 +1,6 @@
 ---
 title: "Half the Sky: interview with Yu Shuet"
+date: 1977
 category: "contemporary-analysis"
 ---
 

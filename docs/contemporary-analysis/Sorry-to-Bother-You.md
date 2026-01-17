@@ -1,5 +1,6 @@
 ---
 title: "2 INT. CASSIUS'S STUDIO APARTMENT- MORNING 2"
+date: 2003
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Origins of Policing in the United States
+date: 2016
 category: contemporary-analysis
 tags:
   - police

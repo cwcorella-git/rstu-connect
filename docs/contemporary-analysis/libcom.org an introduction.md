@@ -1,5 +1,6 @@
 ---
 title: "Libcom.org: an introduction"
+date: 2005
 category: "contemporary-analysis"
 ---
 

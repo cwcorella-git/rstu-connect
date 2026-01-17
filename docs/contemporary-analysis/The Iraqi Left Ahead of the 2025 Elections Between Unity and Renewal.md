@@ -1,5 +1,6 @@
 ---
 title: "The Iraqi Left Ahead of the 2025 Elections: Between Unity and Renewal"
+date: 2025
 category: "contemporary-analysis"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: 'Workers at Curbside Recycling Win Raise, Paid Time Off'
 author: "Elise Brehob -"
+date: 2021
 category: technology-digital-justice
 tags:
   - labor

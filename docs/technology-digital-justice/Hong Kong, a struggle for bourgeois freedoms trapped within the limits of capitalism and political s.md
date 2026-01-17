@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2014
   Hong Kong, a struggle for bourgeois freedoms trapped within the limits of
   capitalism and politi
 category: technology-digital-justice

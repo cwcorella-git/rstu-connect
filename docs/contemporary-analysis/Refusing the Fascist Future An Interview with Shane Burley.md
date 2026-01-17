@@ -1,5 +1,6 @@
 ---
 title: "Refusing the Fascist Future: An Interview with Shane Burley"
+date: 2017
 category: "contemporary-analysis"
 ---
 

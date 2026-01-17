@@ -1,5 +1,6 @@
 ---
 title: Your Wars! Our Dead! 'Sir! No Sir!'
+date: 2023
 category: anti-war-peace
 tags:
   - anti-war

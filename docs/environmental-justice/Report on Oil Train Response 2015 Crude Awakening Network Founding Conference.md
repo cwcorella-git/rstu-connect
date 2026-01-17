@@ -1,6 +1,7 @@
 ---
 title: Report on Oil Train Response 2015 Crude Awakening Network Founding Conference
 author: "Fritz Edler -"
+date: 2015
 category: environmental-justice
 tags:
   - fossil fuels

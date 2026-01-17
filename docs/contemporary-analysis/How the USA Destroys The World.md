@@ -1,5 +1,6 @@
 ---
 title: "Three K's, Two A's in AmeriKKKa, I'm just a black spade spawn out the nebula."
+date: 2016
 category: "contemporary-analysis"
 ---
 

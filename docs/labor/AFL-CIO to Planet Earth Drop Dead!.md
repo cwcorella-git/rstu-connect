@@ -1,5 +1,6 @@
 ---
 title: 'AFL-CIO to Planet Earth: Drop Dead!'
+date: 2016
 category: labor
 tags:
   - unions

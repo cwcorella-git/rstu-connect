@@ -1,5 +1,6 @@
 ---
 title: Resolution Against the Dakota Access Pipeline
+date: 2016
 category: labor
 tags:
   - fossil fuels

@@ -1,5 +1,6 @@
 ---
 title: 'The Bernie Sanders Paradox: When Socialism Grows Old'
+date: 1981
 category: contemporary-analysis
 tags:
   - theory

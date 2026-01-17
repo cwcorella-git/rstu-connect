@@ -1,5 +1,6 @@
 ---
 title: 'Direct Action in the Motor City: Restaurant Workers Fight Back'
+date: 2017
 category: contemporary-analysis
 tags:
   - direct action

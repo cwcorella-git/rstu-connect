@@ -1,6 +1,7 @@
 ---
 title: Can the Climate Movement Break Free From the 'Jobs vs. Environment' Debate?
 author: "Kate Aronoff -"
+date: 2016
 category: environmental-justice
 tags:
   - environment

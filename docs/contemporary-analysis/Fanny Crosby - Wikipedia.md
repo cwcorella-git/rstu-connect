@@ -1,5 +1,6 @@
 ---
 title: "Fanny Crosby"
+date: 1906
 category: "contemporary-analysis"
 ---
 

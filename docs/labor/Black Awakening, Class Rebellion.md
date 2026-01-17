@@ -1,5 +1,6 @@
 ---
 title: 'Black Awakening, Class Rebellion'
+date: 2016
 category: labor
 tags:
   - riots

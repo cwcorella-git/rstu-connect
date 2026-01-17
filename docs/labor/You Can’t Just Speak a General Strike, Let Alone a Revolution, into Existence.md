@@ -1,6 +1,7 @@
 ---
 title: 'You Can''t Just Speak a General Strike, Let Alone a Revolution, into Existence'
 author: "That Green Union Guy -"
+date: 2025
 category: contemporary-analysis
 tags:
   - general strikes

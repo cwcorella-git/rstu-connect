@@ -1,5 +1,6 @@
 ---
 title: 'Holding the line: supporters picket Canada Post after back-to-work legislation'
+date: 2011
 category: contemporary-analysis
 tags:
   - Canada

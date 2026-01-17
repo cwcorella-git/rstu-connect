@@ -1,5 +1,6 @@
 ---
 title: Scientists discover a gel that whitens teeth and kills 94% of bacteria
+date: 2019
 category: environmental-justice
 tags:
   - environment

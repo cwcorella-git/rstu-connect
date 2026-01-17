@@ -1,5 +1,6 @@
 ---
 title: 'Poland: The Assault on Reproductive Rights Continues'
+date: 1990
 category: feminist-theory
 tags:
   - feminism

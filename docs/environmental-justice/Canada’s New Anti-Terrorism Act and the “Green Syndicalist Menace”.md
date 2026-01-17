@@ -1,5 +1,6 @@
 ---
 title: Canada's New Anti-Terrorism Act and the 'Green Syndicalist Menace'
+date: 2015
 category: environmental-justice
 tags:
   - syndicalism

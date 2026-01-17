@@ -1,5 +1,6 @@
 ---
 title: Agrivoltaics
+date: 1981
 category: technology-digital-justice
 tags:
   - technology

@@ -1,5 +1,6 @@
 ---
 title: War resistance in Ukraine amidst the hype about peace talks
+date: 2023
 category: technology-digital-justice
 tags:
   - anti-war

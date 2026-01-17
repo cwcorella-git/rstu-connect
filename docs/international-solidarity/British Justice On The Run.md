@@ -1,5 +1,6 @@
 ---
 title: British Justice On The Run
+date: 1992
 category: international-solidarity
 tags:
   - United Kingdom

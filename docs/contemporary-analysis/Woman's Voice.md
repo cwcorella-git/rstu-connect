@@ -1,5 +1,6 @@
 ---
 title: Woman's Voice
+date: 1896
 category: contemporary-analysis
 tags:
   - women

@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1917
   Industrial suicide: understanding the 1924 split of the Industrial Workers of
   the World - Cameron Molyneux
 category: labor

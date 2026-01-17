@@ -1,5 +1,6 @@
 ---
 title: Unions stand at Standing Rock
+date: 2016
 category: environmental-justice
 tags:
   - environment

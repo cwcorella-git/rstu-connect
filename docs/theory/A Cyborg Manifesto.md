@@ -1,5 +1,6 @@
 ---
 title: Donna Haraway
+date: 1984
 category: theory
 tags:
   - theory

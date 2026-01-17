@@ -1,5 +1,6 @@
 ---
 title: 'Kite Line: Appalachian Prison Resistance'
+date: 2017
 category: technology-digital-justice
 tags:
   - prisons

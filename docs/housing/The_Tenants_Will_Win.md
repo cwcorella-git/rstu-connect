@@ -6,6 +6,7 @@ title: >-
   clic aquí - March 22, 2
 category: housing
 author: Organizing Guide
+date: 2020
 tags:
   - protests
   - tenants

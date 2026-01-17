@@ -1,5 +1,6 @@
 ---
 title: "Buddhism and the Coming Revolution - Gary Snyder"
+date: 1961
 category: "contemporary-analysis"
 ---
 

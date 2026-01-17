@@ -1,6 +1,7 @@
 ---
 title: Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights
 author: "Staff -"
+date: 2016
 category: food-justice
 tags:
   - food

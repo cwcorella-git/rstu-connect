@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2017
   Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for
   environmental jus
 category: theory

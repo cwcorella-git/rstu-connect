@@ -1,5 +1,6 @@
 ---
 title: "Copy of Answers to Devolver"
+date: 2025
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: May Day and Immigrant Workers
+date: 2023
 category: labor
 tags:
   - labor

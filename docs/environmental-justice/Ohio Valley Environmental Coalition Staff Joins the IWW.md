@@ -1,6 +1,7 @@
 ---
 title: Ohio Valley Environmental Coalition Staff Joins the IWW
 author: "Staff -"
+date: 2021
 category: environmental-justice
 tags:
   - unions

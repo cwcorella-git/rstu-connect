@@ -1,5 +1,6 @@
 ---
 title: "Prayer"
+date: 2018
 category: "contemporary-analysis"
 ---
 

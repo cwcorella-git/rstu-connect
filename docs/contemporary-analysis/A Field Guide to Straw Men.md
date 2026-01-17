@@ -1,5 +1,6 @@
 ---
 title: "Sadie and Exile, Esoteric Fascism, and Olympia's Little White Lies"
+date: 1941
 category: "contemporary-analysis"
 ---
 

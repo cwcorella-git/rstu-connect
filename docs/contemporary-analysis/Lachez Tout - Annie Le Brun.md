@@ -1,5 +1,6 @@
 ---
 title: "Lachez Tout - Annie Le Brun"
+date: 1972
 category: "contemporary-analysis"
 ---
 

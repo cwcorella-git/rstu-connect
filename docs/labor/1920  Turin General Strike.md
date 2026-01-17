@@ -1,5 +1,6 @@
 ---
 title: '1920: Turin General Strike'
+date: 1919
 category: labor
 tags:
   - general strikes

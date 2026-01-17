@@ -1,5 +1,6 @@
 ---
 title: Earthworkers Unite!
+date: 2024
 category: arts-culture-music
 tags:
   - labor

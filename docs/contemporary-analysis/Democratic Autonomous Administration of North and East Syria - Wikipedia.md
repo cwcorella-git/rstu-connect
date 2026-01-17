@@ -1,5 +1,6 @@
 ---
 title: Democratic Autonomous Administration of North and East Syria
+date: 2016
 category: contemporary-analysis
 tags:
   - autonomy

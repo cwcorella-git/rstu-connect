@@ -1,5 +1,6 @@
 ---
 title: Are Refinery Workers Climate Enemies?
+date: 2022
 category: environmental-justice
 tags:
   - labor

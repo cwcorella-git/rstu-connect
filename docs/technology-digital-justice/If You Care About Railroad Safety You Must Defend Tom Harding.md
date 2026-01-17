@@ -1,5 +1,6 @@
 ---
 title: If You Care About Railroad Safety You Must Defend Tom Harding
+date: 2016
 category: technology-digital-justice
 tags:
   - railroads

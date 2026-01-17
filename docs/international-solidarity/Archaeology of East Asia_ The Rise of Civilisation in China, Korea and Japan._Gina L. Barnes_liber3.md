@@ -1,5 +1,6 @@
 ---
 title: EAST ASIA
+date: 1990
 category: international-solidarity
 tags:
   - international

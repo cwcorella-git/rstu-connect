@@ -1,5 +1,6 @@
 ---
 title: "Defend The Land: End Toxic Gold Mining"
+date: 2022
 category: "contemporary-analysis"
 ---
 

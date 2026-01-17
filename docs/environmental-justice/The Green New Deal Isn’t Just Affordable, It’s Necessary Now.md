@@ -1,5 +1,6 @@
 ---
 title: 'The Green New Deal Isn''t Just Affordable, It''s Necessary Now'
+date: 2019
 category: environmental-justice
 tags:
   - environment

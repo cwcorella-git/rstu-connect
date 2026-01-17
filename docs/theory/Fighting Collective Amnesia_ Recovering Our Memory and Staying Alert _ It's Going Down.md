@@ -1,5 +1,6 @@
 ---
 title: 'Fighting Collective Amnesia: Recovering Our Memory and Staying Alert'
+date: 2011
 category: theory
 tags:
   - theory

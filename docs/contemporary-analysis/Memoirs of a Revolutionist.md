@@ -1,5 +1,6 @@
 ---
 title: Pëtr Kropotkin Memoirs of a Revolutionist 1899
+date: 1898
 category: contemporary-analysis
 tags:
   - Kropotkin

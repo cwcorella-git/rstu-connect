@@ -1,5 +1,6 @@
 ---
 title: "Armed Joy"
+date: 1977
 category: "contemporary-analysis"
 ---
 

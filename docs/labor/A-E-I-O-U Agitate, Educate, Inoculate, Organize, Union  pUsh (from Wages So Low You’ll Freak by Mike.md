@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2007
   A-E-I-O-U: Agitate, Educate, Inoculate, Organize, Union / pUsh (from 'Wages So
   Low You'll Freak
 category: labor

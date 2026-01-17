@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2016
   Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop
   Irrigation of Crop
 category: food-justice

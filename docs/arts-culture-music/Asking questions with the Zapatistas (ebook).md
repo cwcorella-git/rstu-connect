@@ -1,5 +1,6 @@
 ---
 title: Asking questions with the Zapatistas (ebook)
+date: 2022
 category: arts-culture-music
 tags:
   - Mexico

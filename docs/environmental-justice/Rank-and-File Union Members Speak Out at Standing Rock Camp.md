@@ -1,5 +1,6 @@
 ---
 title: Rank-and-File Union Members Speak Out at Standing Rock Camp
+date: 2016
 category: environmental-justice
 tags:
   - unions

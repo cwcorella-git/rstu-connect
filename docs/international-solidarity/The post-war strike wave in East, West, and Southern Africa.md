@@ -1,5 +1,6 @@
 ---
 title: 'The post-war strike wave in East, West, and Southern Africa'
+date: 1871
 category: international-solidarity
 tags:
   - strikes

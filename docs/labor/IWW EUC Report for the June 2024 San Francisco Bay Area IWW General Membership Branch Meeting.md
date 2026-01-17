@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2024
   IWW EUC Report for the June 2024 San Francisco Bay Area IWW General Membership
   Branch Meeting
 category: contemporary-analysis

@@ -1,5 +1,6 @@
 ---
 title: The Quit India Speeches | Famous Speeches by Mahatma Gandhi
+date: 1920
 category: contemporary-analysis
 tags:
   - India

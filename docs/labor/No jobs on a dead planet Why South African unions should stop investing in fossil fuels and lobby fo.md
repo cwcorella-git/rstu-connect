@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2017
   No jobs on a dead planet: Why South African unions should stop investing in
   fossil fuels and lo
 category: labor

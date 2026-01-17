@@ -1,6 +1,7 @@
 ---
 title: "The Revolution Will Be On Rail, Part I"
 author: "Matt Stannard -"
+date: 2016
 category: "arts-culture-music"
 ---
 

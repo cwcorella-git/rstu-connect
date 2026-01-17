@@ -1,5 +1,6 @@
 ---
 title: Democrats told to "get shot" for the anti-Trump resistance
+date: 2026
 category: contemporary-analysis
 tags:
   - democracy

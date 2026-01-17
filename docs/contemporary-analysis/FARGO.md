@@ -1,5 +1,6 @@
 ---
 title: "THROUGH A WINDSHIELD"
+date: 1987
 category: "contemporary-analysis"
 ---
 

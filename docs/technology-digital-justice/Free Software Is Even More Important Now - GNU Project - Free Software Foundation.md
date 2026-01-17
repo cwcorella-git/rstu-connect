@@ -1,5 +1,6 @@
 ---
 title: Free Software Is Even More Important Now
+date: 1983
 category: technology-digital-justice
 tags:
   - technology

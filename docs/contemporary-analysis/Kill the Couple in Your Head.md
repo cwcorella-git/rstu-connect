@@ -1,5 +1,6 @@
 ---
 title: "Anonymous"
+date: 1975
 category: "contemporary-analysis"
 ---
 

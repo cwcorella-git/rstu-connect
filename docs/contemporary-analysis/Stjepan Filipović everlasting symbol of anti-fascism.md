@@ -1,5 +1,6 @@
 ---
 title: 'Stjepan Filipovi■: everlasting symbol of anti-fascism'
+date: 1942
 category: contemporary-analysis
 tags:
   - antifascism

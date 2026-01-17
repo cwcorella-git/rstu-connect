@@ -1,5 +1,6 @@
 ---
 title: Northeast Ohio Protestors Demand Justice for East Palestine
+date: 2023
 category: international-solidarity
 tags:
   - protests

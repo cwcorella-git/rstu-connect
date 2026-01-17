@@ -1,5 +1,6 @@
 ---
 title: Protestors Takes To Trees As Pipeline's Chainsaws Approach
+date: 2016
 category: technology-digital-justice
 tags:
   - protests

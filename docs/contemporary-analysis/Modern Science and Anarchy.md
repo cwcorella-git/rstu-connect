@@ -1,5 +1,6 @@
 ---
 title: Pëtr Kropotkin
+date: 1872
 category: contemporary-analysis
 tags:
   - anarchism

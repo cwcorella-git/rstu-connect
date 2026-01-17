@@ -1,5 +1,6 @@
 ---
 title: "Montague \"Monty\" Miller - 1831 -1920"
+date: 1920
 category: "contemporary-analysis"
 ---
 

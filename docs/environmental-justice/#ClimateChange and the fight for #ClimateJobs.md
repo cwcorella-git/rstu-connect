@@ -1,5 +1,6 @@
 ---
 title: '#Climate Change and the fight for #Climate Jobs'
+date: 2015
 category: environmental-justice
 tags:
   - environment

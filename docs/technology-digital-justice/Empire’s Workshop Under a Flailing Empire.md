@@ -1,5 +1,6 @@
 ---
 title: Empire's Workshop Under a Flailing Empire
+date: 1987
 category: technology-digital-justice
 tags:
   - technology

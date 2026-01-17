@@ -1,5 +1,6 @@
 ---
 title: The Industrial Syndicalist newspaper 1910-1911
+date: 1974
 category: contemporary-analysis
 tags:
   - syndicalism

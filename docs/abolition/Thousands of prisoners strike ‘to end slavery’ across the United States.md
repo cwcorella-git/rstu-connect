@@ -1,6 +1,7 @@
 ---
 title: Thousands of prisoners strike 'to end slavery' across the United States
 author: "Ann Montague -"
+date: 2016
 category: abolition
 tags:
   - strikes

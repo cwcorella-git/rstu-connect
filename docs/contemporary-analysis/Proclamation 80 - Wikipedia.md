@@ -1,6 +1,7 @@
 ---
 title: "Proclamation 80"
 author: "THE PRESIDENT OF THE UNITED STATES:"
+date: 1861
 category: "contemporary-analysis"
 ---
 

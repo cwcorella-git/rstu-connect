@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2013
   Against the Nationalist Fragmentation of Cyberspace & Against "Astroturf
   Activism"
 category: technology-digital-justice

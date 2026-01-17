@@ -1,5 +1,6 @@
 ---
 title: Cincinnati
+date: 2023
 category: labor
 tags:
   - solidarity

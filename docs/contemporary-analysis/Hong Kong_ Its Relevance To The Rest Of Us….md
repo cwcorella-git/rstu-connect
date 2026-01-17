@@ -1,5 +1,6 @@
 ---
 title: "Sam Fanto Samotnaf"
+date: 1997
 category: "contemporary-analysis"
 ---
 

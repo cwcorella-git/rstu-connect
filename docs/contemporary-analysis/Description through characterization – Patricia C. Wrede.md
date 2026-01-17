@@ -1,5 +1,6 @@
 ---
 title: Description through characterization – Patricia C. Wrede
+date: 2025
 category: contemporary-analysis
 tags: []
 ---

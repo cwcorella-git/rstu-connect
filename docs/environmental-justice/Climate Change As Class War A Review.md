@@ -1,6 +1,7 @@
 ---
 title: 'Climate Change As Class War: A Review'
 author: "Tom Wetzel -"
+date: 2022
 category: environmental-justice
 tags:
   - environment

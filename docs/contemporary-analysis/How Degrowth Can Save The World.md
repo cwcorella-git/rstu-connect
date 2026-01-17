@@ -1,5 +1,6 @@
 ---
 title: "Our world is dying. Or more accurately, it is being killed."
+date: 1970
 category: "contemporary-analysis"
 ---
 

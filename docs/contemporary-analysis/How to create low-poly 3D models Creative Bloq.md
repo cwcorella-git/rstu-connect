@@ -1,5 +1,6 @@
 ---
 title: "How to create low-poly 3D models"
+date: 1886
 category: "contemporary-analysis"
 ---
 

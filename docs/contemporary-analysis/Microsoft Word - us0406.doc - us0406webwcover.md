@@ -1,5 +1,6 @@
 ---
 title: "So Long as They Die"
+date: 2003
 category: "contemporary-analysis"
 ---
 

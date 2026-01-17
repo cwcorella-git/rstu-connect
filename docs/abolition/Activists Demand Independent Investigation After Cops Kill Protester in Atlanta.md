@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2023
   Activists Demand Independent Investigation After Cops Kill Protester in
   Atlanta
 category: abolition

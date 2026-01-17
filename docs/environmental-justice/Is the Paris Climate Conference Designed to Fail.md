@@ -1,6 +1,7 @@
 ---
 title: Is the Paris Climate Conference Designed to Fail?
 author: "Brian Tokar -"
+date: 2015
 category: environmental-justice
 tags:
   - environment

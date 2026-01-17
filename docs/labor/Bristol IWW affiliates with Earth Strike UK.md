@@ -1,5 +1,6 @@
 ---
 title: Bristol IWW affiliates with Earth Strike UK
+date: 2022
 category: arts-culture-music
 tags:
   - strikes

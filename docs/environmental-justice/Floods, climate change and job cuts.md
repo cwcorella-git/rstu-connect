@@ -1,5 +1,6 @@
 ---
 title: 'Floods, climate change and job cuts'
+date: 2015
 category: environmental-justice
 tags:
   - labor

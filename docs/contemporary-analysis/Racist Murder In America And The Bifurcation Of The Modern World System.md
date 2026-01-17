@@ -1,5 +1,6 @@
 ---
 title: "Racist Murder In America And The Bifurcation Of The Modern World System"
+date: 2020
 category: "contemporary-analysis"
 ---
 

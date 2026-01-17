@@ -1,6 +1,7 @@
 ---
 title: Richmond IWW May Day Platform
 author: "Joe Sabo -"
+date: 2018
 category: labor
 tags:
   - unions

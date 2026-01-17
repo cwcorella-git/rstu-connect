@@ -1,5 +1,6 @@
 ---
 title: 'Abraham Lincoln Speech in Chicago, Illinois on July 10th, 1858'
+date: 1854
 category: theory
 tags:
   - Chicago

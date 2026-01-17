@@ -1,5 +1,6 @@
 ---
 title: 'Brain Age: Train Your Brain in Minutes a Day!'
+date: 2019
 category: technology-digital-justice
 tags:
   - technology

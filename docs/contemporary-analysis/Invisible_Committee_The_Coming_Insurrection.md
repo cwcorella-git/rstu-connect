@@ -1,5 +1,6 @@
 ---
 title: "A point of clarification"
+date: 2008
 category: "contemporary-analysis"
 ---
 

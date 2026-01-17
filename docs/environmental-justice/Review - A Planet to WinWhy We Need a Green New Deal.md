@@ -1,5 +1,6 @@
 ---
 title: 'Review - A Planet to Win:Why We Need a Green New Deal'
+date: 2023
 category: environmental-justice
 tags:
   - environment

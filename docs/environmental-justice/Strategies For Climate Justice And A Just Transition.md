@@ -1,5 +1,6 @@
 ---
 title: Strategies For Climate Justice And A Just Transition
+date: 2016
 category: feminist-theory
 tags:
   - environment

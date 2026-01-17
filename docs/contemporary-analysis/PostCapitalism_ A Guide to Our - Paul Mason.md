@@ -1,5 +1,6 @@
 ---
 title: MASON POSTCAPITALISM AGUIDE TOUR FUTURE
+date: 2008
 category: contemporary-analysis
 tags:
   - capitalism

@@ -1,5 +1,6 @@
 ---
 title: Chicago Replies To Moscow!
+date: 1945
 category: contemporary-analysis
 tags:
   - Chicago

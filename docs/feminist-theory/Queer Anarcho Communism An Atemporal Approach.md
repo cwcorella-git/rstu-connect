@@ -1,5 +1,6 @@
 ---
 title: 'Queer Anarcho Communism: An Atemporal Approach'
+date: 2024
 category: feminist-theory
 tags:
   - anarchism

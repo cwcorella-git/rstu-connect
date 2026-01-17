@@ -1,5 +1,6 @@
 ---
 title: "Thekeep.eiu.edu"
+date: 1989
 category: youth-student-organizing
 tags:
   - liberty

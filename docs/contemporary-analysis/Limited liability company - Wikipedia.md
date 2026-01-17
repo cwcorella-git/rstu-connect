@@ -1,5 +1,6 @@
 ---
 title: "Limited Liability Company Wikipedia"
+date: 1997
 category: contemporary-analysis
 tags: []
 ---

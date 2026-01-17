@@ -1,6 +1,7 @@
 ---
 title: 'Well, if You Ask Me: No Justice, No Peace'
 author: "Dano T Bob -"
+date: 2015
 category: anti-war-peace
 tags:
   - anti-war

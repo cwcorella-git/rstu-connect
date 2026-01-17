@@ -1,5 +1,6 @@
 ---
 title: Motion to Face the Realities of Climate Change
+date: 2016
 category: environmental-justice
 tags:
   - environment

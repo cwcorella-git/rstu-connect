@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1919
   The dock workers strike and San Francisco general strike, 1934 - Jeremy
   Brecher
 category: contemporary-analysis

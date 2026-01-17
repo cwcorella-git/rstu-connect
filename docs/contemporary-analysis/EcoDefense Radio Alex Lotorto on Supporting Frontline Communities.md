@@ -1,5 +1,6 @@
 ---
 title: 'Eco Defense Radio: Alex Lotorto on Supporting Frontline Communities'
+date: 2016
 category: contemporary-analysis
 tags:
   - community

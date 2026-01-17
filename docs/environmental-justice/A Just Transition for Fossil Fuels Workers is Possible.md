@@ -1,5 +1,6 @@
 ---
 title: A Just Transition for Fossil Fuels Workers is Possible
+date: 2016
 category: feminist-theory
 tags:
   - labor

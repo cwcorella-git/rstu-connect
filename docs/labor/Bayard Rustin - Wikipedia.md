@@ -1,5 +1,6 @@
 ---
 title: Bayard Rustin
+date: 1912
 category: labor
 tags:
   - labor

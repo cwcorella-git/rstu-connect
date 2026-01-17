@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2014
   A gigantic network of narrow streams: ditching the formal IWW and building the
   real - Tyler Zee
 category: organizing

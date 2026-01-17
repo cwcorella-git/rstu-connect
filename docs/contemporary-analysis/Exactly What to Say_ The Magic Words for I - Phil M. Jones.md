@@ -1,5 +1,6 @@
 ---
 title: "EXACT LY WHAT TO SAY"
+author: "Phil M. Jones"
 date: 2017
 category: "contemporary-analysis"
 ---

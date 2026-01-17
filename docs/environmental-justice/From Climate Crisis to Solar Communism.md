@@ -1,5 +1,6 @@
 ---
 title: From Climate Crisis to Solar Communism
+date: 2015
 category: environmental-justice
 tags:
   - environment

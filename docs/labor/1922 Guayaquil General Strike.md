@@ -1,5 +1,6 @@
 ---
 title: '1922: Guayaquil General Strike'
+date: 1922
 category: labor
 tags:
   - general strikes

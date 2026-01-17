@@ -1,5 +1,6 @@
 ---
 title: Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York
+date: 1971
 category: contemporary-analysis
 tags:
   - healthcare

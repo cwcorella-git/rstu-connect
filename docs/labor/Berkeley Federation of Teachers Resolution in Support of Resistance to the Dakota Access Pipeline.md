@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2016
   Berkeley Federation of Teachers Resolution in Support of Resistance to the
   Dakota Access Pipeli
 category: labor

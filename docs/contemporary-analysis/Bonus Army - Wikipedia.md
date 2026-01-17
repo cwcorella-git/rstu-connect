@@ -1,5 +1,6 @@
 ---
 title: "Bonus Army"
+date: 1932
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Comité invisible"
+date: 2008
 category: "contemporary-analysis"
 ---
 

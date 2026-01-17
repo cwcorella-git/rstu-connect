@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Jordan T. Camp"
+date: 1967
   Detroit's Rebellion and the Rise of the Neoliberal State: 1967: Dialectics of
   Insurgency By Jordan T. Camp
 category: contemporary-analysis

@@ -1,5 +1,6 @@
 ---
 title: "Bretton Woods system"
+date: 1945
 category: "contemporary-analysis"
 ---
 

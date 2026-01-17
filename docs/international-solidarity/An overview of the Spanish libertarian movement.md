@@ -1,5 +1,6 @@
 ---
 title: An overview of the Spanish libertarian movement
+date: 1936
 category: international-solidarity
 tags:
   - Spain

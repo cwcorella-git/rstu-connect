@@ -1,5 +1,6 @@
 ---
 title: What makes me tired when organising with middle class comrades
+date: 2016
 category: contemporary-analysis
 tags:
   - class

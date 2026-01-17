@@ -1,5 +1,6 @@
 ---
 title: 'Union Busting in Fast Fashion: IWW Cork'
+date: 2023
 category: contemporary-analysis
 tags:
   - unions

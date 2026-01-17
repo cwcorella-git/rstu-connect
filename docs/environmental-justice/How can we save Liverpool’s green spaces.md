@@ -1,5 +1,6 @@
 ---
 title: How can we save Liverpool's green spaces?
+date: 2016
 category: environmental-justice
 tags:
   - environment

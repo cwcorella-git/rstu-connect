@@ -1,6 +1,7 @@
 ---
 title: 'Paris climate agreement: a terror attack on Africa'
 author: "Patrick Bond -"
+date: 2015
 category: environmental-justice
 tags:
   - environment

@@ -1,6 +1,7 @@
 ---
 title: Climate Strike!
 author: "Philly Metro Area WSA -"
+date: 2022
 category: environmental-justice
 tags:
   - strikes

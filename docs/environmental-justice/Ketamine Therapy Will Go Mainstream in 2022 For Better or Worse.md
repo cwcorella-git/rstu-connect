@@ -1,5 +1,6 @@
 ---
 title: Ketamine Therapy Will Go Mainstream in 2022 For Better or Worse
+date: 2022
 category: environmental-justice
 tags:
   - environment

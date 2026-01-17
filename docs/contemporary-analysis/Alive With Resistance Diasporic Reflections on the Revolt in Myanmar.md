@@ -1,5 +1,6 @@
 ---
 title: 'Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar'
+date: 1989
 category: contemporary-analysis
 tags:
   - riots

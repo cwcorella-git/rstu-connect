@@ -1,5 +1,6 @@
 ---
 title: "Dissecting the right's \"free speech\" rhetoric"
+date: 1965
 category: "contemporary-analysis"
 ---
 

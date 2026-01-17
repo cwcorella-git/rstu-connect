@@ -1,5 +1,6 @@
 ---
 title: Taking Liberties newsletter - Anarchist Black Cross (Sheffield/London)
+date: 1991
 category: contemporary-analysis
 tags:
   - anarchism

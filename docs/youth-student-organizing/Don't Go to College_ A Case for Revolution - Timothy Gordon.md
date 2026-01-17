@@ -1,5 +1,6 @@
 ---
 title: A CASE FOR REVOLUTION
+date: 2022
 category: youth-student-organizing
 tags:
   - education

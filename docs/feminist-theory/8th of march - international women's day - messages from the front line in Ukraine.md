@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2022
   8th of march - international women's day - messages from the front line in
   Ukraine
 category: theory

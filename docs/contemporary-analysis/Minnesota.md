@@ -1,5 +1,6 @@
 ---
 title: "Minnesota"
+date: 1858
 category: "contemporary-analysis"
 ---
 

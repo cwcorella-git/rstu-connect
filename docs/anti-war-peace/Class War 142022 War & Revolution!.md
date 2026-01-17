@@ -1,5 +1,6 @@
 ---
 title: 'Class War 14/2022: War & Revolution!?'
+date: 2014
 category: anti-war-peace
 tags:
   - anti-war

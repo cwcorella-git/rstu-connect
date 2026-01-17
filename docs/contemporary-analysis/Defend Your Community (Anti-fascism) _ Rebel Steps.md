@@ -1,5 +1,6 @@
 ---
 title: Defend Your Community (Antifascism) | Rebel Steps
+date: 2017
 category: contemporary-analysis
 tags:
   - community

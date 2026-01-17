@@ -1,6 +1,7 @@
 ---
 title: A New Economic System for a World in Rapid Disintegration
 author: "C. J. Polychroniou and Lily Sage -"
+date: 2016
 category: economic-alternatives
 tags:
   - economics

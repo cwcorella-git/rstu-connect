@@ -1,5 +1,6 @@
 ---
 title: "Ethnic nationalism"
+date: 2018
 category: "contemporary-analysis"
 ---
 

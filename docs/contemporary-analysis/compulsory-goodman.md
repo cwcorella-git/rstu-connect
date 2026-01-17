@@ -1,5 +1,6 @@
 ---
 title: Compulsory Miseducation
+date: 1911
 category: contemporary-analysis
 tags:
   - education

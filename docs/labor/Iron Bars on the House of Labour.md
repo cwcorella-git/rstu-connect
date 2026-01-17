@@ -1,5 +1,6 @@
 ---
 title: Iron Bars on the House of Labour
+date: 2016
 category: contemporary-analysis
 tags:
   - labor

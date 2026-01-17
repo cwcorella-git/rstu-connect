@@ -1,6 +1,7 @@
 ---
 title: "Fascist Entryism: Ad Busters and the Problem of Hazy Politics"
 author: "Antifascist Front -"
+date: 2016
 category: "contemporary-analysis"
 ---
 

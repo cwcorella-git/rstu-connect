@@ -1,5 +1,6 @@
 ---
 title: Toward the Creative Nothing
+date: 1890
 category: anti-war-peace
 tags:
   - anti-war

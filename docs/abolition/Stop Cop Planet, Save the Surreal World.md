@@ -1,6 +1,7 @@
 ---
 title: 'Stop Cop Planet, Save the Surreal World'
 author: "Dan Fischer -"
+date: 2023
 category: contemporary-analysis
 tags:
   - police

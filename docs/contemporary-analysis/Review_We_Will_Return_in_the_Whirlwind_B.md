@@ -1,5 +1,6 @@
 ---
 title: "Race & Class http://rac.sagepub.com/"
+date: 1965
 category: contemporary-analysis
 tags:
   - class

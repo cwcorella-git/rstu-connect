@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1996
   Therapists Are Also the Police: Sex Work, Social Work, and the Politics of
   Deservingness
 category: labor

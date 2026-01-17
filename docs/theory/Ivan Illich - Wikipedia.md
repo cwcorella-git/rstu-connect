@@ -1,5 +1,6 @@
 ---
 title: Ivan Illich
+date: 1926
 category: theory
 tags:
   - theory

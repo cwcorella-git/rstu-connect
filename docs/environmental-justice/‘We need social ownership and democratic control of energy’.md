@@ -1,5 +1,6 @@
 ---
 title: '''We need social ownership and democratic control of energy'''
+date: 2015
 category: environmental-justice
 tags:
   - democracy

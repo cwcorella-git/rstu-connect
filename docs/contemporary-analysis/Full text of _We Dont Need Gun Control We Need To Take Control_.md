@@ -1,5 +1,6 @@
 ---
 title: "Full text of \"We Dont Need Gun Control We Need To Take Control\""
+date: 2015
 category: "contemporary-analysis"
 ---
 

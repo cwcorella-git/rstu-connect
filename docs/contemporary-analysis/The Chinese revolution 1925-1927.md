@@ -1,5 +1,6 @@
 ---
 title: "The Chinese revolution 1925-1927"
+date: 1925
 category: "contemporary-analysis"
 ---
 

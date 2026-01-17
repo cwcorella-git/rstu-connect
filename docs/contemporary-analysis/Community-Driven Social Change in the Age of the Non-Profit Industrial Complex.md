@@ -1,5 +1,6 @@
 ---
 title: Community-Driven Social Change in the Age of the Non-Profit Industrial Complex
+date: 2016
 category: contemporary-analysis
 tags:
   - community

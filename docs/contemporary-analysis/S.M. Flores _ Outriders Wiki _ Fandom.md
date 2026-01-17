@@ -1,5 +1,6 @@
 ---
 title: S. M. Flores
+date: 1855
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'Striking For The Future of Education: Interview with a Los Angeles Teacher'
+date: 2018
 category: youth-student-organizing
 tags:
   - education

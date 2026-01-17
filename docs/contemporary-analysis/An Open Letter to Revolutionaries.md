@@ -1,5 +1,6 @@
 ---
 title: "An Open Letter to Revolutionaries"
+date: 1917
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Greetings from Sweden: A dual-track syndicalism?'
+date: 2021
 category: contemporary-analysis
 tags:
   - syndicalism

@@ -1,6 +1,7 @@
 ---
 title: Boycott Sakuma Berries!
 author: "A Abraham Chakur -"
+date: 2016
 category: contemporary-analysis
 tags:
   - boycotts

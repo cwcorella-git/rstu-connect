@@ -1,5 +1,6 @@
 ---
 title: Table of Contents
+date: 1905
 category: contemporary-analysis
 tags:
   - anarchism

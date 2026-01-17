@@ -1,5 +1,6 @@
 ---
 title: "WHO GETS POWER AND HOW IT CHANGES US"
+date: 1965
 category: "contemporary-analysis"
 ---
 

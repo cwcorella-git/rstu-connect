@@ -1,6 +1,7 @@
 ---
 title: "The Revolution in Work Calls for an Evolution in Living"
 author: "Graham Peebles -"
+date: 2017
 category: "contemporary-analysis"
 ---
 

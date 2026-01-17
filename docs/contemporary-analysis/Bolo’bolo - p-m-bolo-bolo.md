@@ -1,6 +1,7 @@
 ---
 title: "Bolo'bolo"
 author: "Socialism
+date: 1983
 Te"
 category: "contemporary-analysis"
 ---

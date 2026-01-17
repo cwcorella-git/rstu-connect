@@ -1,5 +1,6 @@
 ---
 title: 'Greece: The Lockdown Resumes - New Democracy and Pandemic Opportunism'
+date: 1973
 category: contemporary-analysis
 tags:
   - democracy

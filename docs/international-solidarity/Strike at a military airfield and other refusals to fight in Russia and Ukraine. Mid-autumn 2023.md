@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2023
   Strike at a military airfield and other refusals to fight in Russia and
   Ukraine. Mid-autumn 202
 category: technology-digital-justice

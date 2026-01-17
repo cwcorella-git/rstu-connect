@@ -1,5 +1,6 @@
 ---
 title: 'Obsolete communism: The left wing alternative - Daniel and Gabriel Cohn-Bendit'
+date: 1984
 category: indigenous-solidarity
 tags:
   - indigenous

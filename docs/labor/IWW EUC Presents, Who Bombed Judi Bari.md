@@ -1,5 +1,6 @@
 ---
 title: 'IWW EUC Presents, Who Bombed Judi Bari?'
+date: 2023
 category: contemporary-analysis
 tags:
   - unions

@@ -1,5 +1,6 @@
 ---
 title: Interview with the organizing team of "Utopia Libertaria" *
+date: 2002
 category: organizing
 tags:
   - organizing

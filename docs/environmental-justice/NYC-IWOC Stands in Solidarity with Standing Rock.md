@@ -1,6 +1,7 @@
 ---
 title: NYC-IWOC Stands in Solidarity with Standing Rock
 author: "IWOC-NYC -"
+date: 2016
 category: environmental-justice
 tags:
   - solidarity

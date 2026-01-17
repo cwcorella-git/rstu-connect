@@ -1,5 +1,6 @@
 ---
 title: "Libguides.mnhs.org"
+date: 1934
 category: contemporary-analysis
 tags:
   - strikes

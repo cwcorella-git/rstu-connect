@@ -1,5 +1,6 @@
 ---
 title: Crowd scenes – Patricia C. Wrede
+date: 2013
 category: contemporary-analysis
 tags: []
 ---

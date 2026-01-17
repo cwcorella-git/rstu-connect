@@ -1,5 +1,6 @@
 ---
 title: "Draft Resolution - Stop Line 3"
+date: 2018
 category: "contemporary-analysis"
 ---
 

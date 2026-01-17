@@ -1,5 +1,6 @@
 ---
 title: The syndicalist movement in Sweden - John Andersson
+date: 1910
 category: contemporary-analysis
 tags:
   - syndicalism

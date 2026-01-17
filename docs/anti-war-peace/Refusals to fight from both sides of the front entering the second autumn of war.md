@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2024
   Refusals to fight from both sides of the front: entering the second autumn of
   war
 category: anti-war-peace

@@ -1,5 +1,6 @@
 ---
 title: 'Racism, shmacism. Get a rope and let''s go hang us one.'
+date: 2010
 category: contemporary-analysis
 tags:
   - racism

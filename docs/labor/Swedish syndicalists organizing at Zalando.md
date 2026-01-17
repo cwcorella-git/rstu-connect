@@ -1,5 +1,6 @@
 ---
 title: Swedish syndicalists organizing at Zalando
+date: 2021
 category: contemporary-analysis
 tags:
   - syndicalism

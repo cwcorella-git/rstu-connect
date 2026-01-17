@@ -1,5 +1,6 @@
 ---
 title: The Science of Revolutionary Warfare
+date: 1884
 category: anti-war-peace
 tags:
   - anti-war

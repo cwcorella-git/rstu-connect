@@ -1,5 +1,6 @@
 ---
 title: Haymarket affair
+date: 1886
 category: technology-digital-justice
 tags:
   - technology

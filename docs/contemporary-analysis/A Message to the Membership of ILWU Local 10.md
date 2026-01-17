@@ -1,6 +1,7 @@
 ---
 title: "A Message to the Membership of ILWU Local 10"
 author: "Derrick H Muhammad -"
+date: 2016
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement'
+date: 1933
 category: environmental-justice
 tags:
   - environment

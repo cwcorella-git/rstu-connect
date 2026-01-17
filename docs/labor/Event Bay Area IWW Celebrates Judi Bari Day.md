@@ -1,5 +1,6 @@
 ---
 title: 'Event: Bay Area IWW Celebrates Judi Bari Day'
+date: 1990
 category: contemporary-analysis
 tags:
   - unions

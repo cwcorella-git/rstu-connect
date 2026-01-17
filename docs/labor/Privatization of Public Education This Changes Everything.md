@@ -1,5 +1,6 @@
 ---
 title: 'Privatization of Public Education: This Changes Everything'
+date: 2016
 category: labor
 tags:
   - education

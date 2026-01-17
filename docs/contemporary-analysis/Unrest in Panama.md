@@ -1,5 +1,6 @@
 ---
 title: "Unrest in Panama"
+date: 2009
 category: "contemporary-analysis"
 ---
 

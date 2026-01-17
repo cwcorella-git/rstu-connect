@@ -1,5 +1,6 @@
 ---
 title: How Children Learn
+date: 1900
 category: theory
 tags:
   - theory

@@ -1,5 +1,6 @@
 ---
 title: "Ranked-choice voting in the United States"
+date: 2019
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Interview with Esther and Sam Do Igoff – Doug Richardson"
+date: 1975
 category: "contemporary-analysis"
 ---
 

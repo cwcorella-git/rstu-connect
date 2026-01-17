@@ -1,5 +1,6 @@
 ---
 title: "Episode 44: Theories Of Wisdom/"
+date: 2004
 category: "contemporary-analysis"
 ---
 

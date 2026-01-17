@@ -1,5 +1,6 @@
 ---
 title: The Information Revolution and the Class Struggle
+date: 2013
 category: economic-alternatives
 tags:
   - class

@@ -1,5 +1,6 @@
 ---
 title: Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!
+date: 2005
 category: theory
 tags:
   - occupations

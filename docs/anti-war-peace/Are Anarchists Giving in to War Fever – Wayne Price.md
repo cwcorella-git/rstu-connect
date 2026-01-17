@@ -1,5 +1,6 @@
 ---
 title: Are Anarchists Giving in to War Fever? – Wayne Price
+date: 1915
 category: anti-war-peace
 tags:
   - anarchism

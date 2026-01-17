@@ -1,5 +1,6 @@
 ---
 title: "What is the MMLU Benchmark? A Comprehensive Guide"
+date: 2024
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Free Software and Education - GNU Project
+date: 1983
 category: labor
 tags:
   - education

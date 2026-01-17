@@ -1,5 +1,6 @@
 ---
 title: Abraham Lincoln
+date: 1861
 category: theory
 tags:
   - theory

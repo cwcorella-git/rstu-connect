@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2015
   Teleseminar Transcript: "Just Transition" with Mateo Nube of Movement
   Generation
 category: organizing

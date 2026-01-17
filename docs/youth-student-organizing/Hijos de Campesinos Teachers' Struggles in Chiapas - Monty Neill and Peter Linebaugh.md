@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1986
   Hijos de Campesinos: Teachers' Struggles in Chiapas - Monty Neill and Peter
   Linebaugh
 category: youth-student-organizing

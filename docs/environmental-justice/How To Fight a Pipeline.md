@@ -1,6 +1,7 @@
 ---
 title: How To Fight a Pipeline
 author: "Alex Lotorto -"
+date: 2016
 category: contemporary-analysis
 tags:
   - fossil fuels

@@ -1,5 +1,6 @@
 ---
 title: USLAW Passes Resolution on Climate Change
+date: 2016
 category: environmental-justice
 tags:
   - environment

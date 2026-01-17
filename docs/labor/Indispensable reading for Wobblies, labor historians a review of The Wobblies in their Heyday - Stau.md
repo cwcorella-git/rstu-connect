@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1917
   Indispensable reading for Wobblies, labor historians: a review of The Wobblies
   in their Heyday
 category: labor

@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+date: 1985
 category: "contemporary-analysis"
 ---
 

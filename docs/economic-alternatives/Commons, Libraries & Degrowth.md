@@ -1,5 +1,6 @@
 ---
 title: 'Commons, Libraries & Degrowth'
+date: 1968
 category: contemporary-analysis
 tags:
   - commons

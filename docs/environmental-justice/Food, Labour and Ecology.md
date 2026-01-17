@@ -1,5 +1,6 @@
 ---
 title: 'Food, Labour and Ecology'
+date: 2016
 category: environmental-justice
 tags:
   - labor

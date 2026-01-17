@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "DC Direct Action News -"
+date: 2017
   IWW blockades Street in front of Whole Foods Demanding Reinstatement for
   Worker
 category: food-justice

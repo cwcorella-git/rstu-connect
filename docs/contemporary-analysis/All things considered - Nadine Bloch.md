@@ -1,5 +1,6 @@
 ---
 title: "All things considered - Nadine Bloch"
+date: 1976
 category: "contemporary-analysis"
 ---
 

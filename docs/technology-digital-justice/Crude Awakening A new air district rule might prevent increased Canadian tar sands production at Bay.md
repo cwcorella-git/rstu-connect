@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Will Parrish -"
+date: 2016
   Crude Awakening: A new air district rule might prevent increased Canadian tar
   sands production at Bay Area refineries
 category: technology-digital-justice

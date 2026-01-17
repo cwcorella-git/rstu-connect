@@ -1,6 +1,7 @@
 ---
 title: Railroad Workers United Supports Public Ownership of the Rails
 author: "Railroad Workers United -"
+date: 2022
 category: technology-digital-justice
 tags:
   - labor

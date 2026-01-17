@@ -1,6 +1,7 @@
 ---
 title: 'Green Union Organizing: Avoiding the "Jobs versus Environment" Trap'
 author: "That Green Union Guy -"
+date: 2022
 category: labor
 tags:
   - unions

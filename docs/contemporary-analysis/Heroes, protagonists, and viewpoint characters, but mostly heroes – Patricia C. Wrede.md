@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2025
   Heroes, protagonists, and viewpoint characters, but mostly heroes – Patricia
   C. Wrede
 category: contemporary-analysis

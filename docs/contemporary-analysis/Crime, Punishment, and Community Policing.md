@@ -1,5 +1,6 @@
 ---
 title: 'Crime, Punishment, and Community Policing'
+date: 2001
 category: contemporary-analysis
 tags:
   - community

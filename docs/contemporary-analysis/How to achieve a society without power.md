@@ -1,5 +1,6 @@
 ---
 title: "How to achieve a society without power?"
+date: 1931
 category: "contemporary-analysis"
 ---
 

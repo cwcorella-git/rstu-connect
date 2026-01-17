@@ -1,5 +1,6 @@
 ---
 title: "Freetown"
+date: 2022
 category: "contemporary-analysis"
 ---
 

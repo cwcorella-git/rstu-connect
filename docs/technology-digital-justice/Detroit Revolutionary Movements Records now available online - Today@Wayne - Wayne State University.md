@@ -1,5 +1,6 @@
 ---
 title: "Today.wayne.edu"
+date: 1969
 category: technology-digital-justice
 tags:
   - technology

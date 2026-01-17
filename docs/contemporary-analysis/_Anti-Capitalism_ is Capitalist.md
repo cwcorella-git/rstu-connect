@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2009
   Need I remind you, however, that social democracy is still capitalism, so the
   point
 category: contemporary-analysis

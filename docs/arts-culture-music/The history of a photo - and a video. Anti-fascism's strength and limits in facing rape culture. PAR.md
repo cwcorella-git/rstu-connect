@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2017
   The history of a photo - and a video. Anti-fascism's strength and limits in
   facing rape culture
 category: arts-culture-music

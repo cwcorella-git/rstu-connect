@@ -1,5 +1,6 @@
 ---
 title: "These ten charts show the blackwhite economic gap hasn't budged in 50 years"
+date: 2013
 category: "arts-culture-music"
 ---
 

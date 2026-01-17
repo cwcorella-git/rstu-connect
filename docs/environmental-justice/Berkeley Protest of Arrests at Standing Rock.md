@@ -1,5 +1,6 @@
 ---
 title: Berkeley Protest of Arrests at Standing Rock
+date: 2016
 category: environmental-justice
 tags:
   - protests

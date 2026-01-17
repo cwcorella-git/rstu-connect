@@ -1,5 +1,6 @@
 ---
 title: "Interpersonal deception theory"
+date: 1996
 category: "contemporary-analysis"
 ---
 

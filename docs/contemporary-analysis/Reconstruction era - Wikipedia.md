@@ -1,5 +1,6 @@
 ---
 title: "Reconstruction era"
+date: 1861
 category: "contemporary-analysis"
 ---
 

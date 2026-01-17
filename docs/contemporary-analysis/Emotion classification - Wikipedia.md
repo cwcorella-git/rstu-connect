@@ -1,5 +1,6 @@
 ---
 title: Emotion classification
+date: 1985
 category: contemporary-analysis
 tags: []
 ---

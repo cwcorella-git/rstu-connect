@@ -1,6 +1,7 @@
 ---
 title: "After Brexit and Trump: don't demonise; localise!"
 author: "Helena Norberg-Hodge & Rupert Read -"
+date: 2016
 category: "contemporary-analysis"
 ---
 

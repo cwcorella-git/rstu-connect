@@ -1,5 +1,6 @@
 ---
 title: 'Final Straw: Autonomous Northern California Fire Relief Efforts'
+date: 2017
 category: contemporary-analysis
 tags:
   - autonomy

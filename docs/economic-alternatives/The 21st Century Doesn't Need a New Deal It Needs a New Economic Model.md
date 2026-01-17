@@ -1,6 +1,7 @@
 ---
 title: 'The 21st Century Doesn''t Need a New Deal: It Needs a New Economic Model'
 author: "C. J. Polychroniou -"
+date: 2016
 category: economic-alternatives
 tags:
   - economics

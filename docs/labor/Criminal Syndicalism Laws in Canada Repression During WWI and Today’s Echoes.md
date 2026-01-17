@@ -1,5 +1,6 @@
 ---
 title: 'Criminal Syndicalism Laws in Canada: Repression During WWI and Today''s Echoes'
+date: 1918
 category: contemporary-analysis
 tags:
   - syndicalism

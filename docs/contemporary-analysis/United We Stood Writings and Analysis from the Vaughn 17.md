@@ -1,5 +1,6 @@
 ---
 title: "United We Stood: Writings and Analysis from the Vaughn 17"
+date: 2017
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Ares"
+date: 1925
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "CONSTRUCTIVE PROGRAMME"
+date: 1941
 category: "contemporary-analysis"
 ---
 

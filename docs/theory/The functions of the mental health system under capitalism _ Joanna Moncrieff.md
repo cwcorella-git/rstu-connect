@@ -1,5 +1,6 @@
 ---
 title: The functions of the mental health system under capitalism
+date: 2022
 category: theory
 tags:
   - healthcare

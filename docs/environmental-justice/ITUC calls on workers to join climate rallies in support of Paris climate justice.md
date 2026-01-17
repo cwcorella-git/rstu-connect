@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2015
   ITUC calls on workers to join climate rallies in support of Paris climate
   justice
 category: environmental-justice

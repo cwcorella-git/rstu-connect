@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1999
   akio isshiki's house evokes tropical design on japan's hayashisaki matsue
   beach
 category: contemporary-analysis

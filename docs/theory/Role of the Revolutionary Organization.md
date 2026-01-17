@@ -1,5 +1,6 @@
 ---
 title: Black Rose Anarchist Federation
+date: 2019
 category: contemporary-analysis
 tags:
   - anarchism

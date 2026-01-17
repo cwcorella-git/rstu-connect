@@ -1,6 +1,7 @@
 ---
 title: "The Problem with Only Striking"
 author: "IWW Bruxelles -"
+date: 2023
 category: "contemporary-analysis"
 ---
 

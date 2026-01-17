@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2022
   Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative
   Ocean Farmer
 category: arts-culture-music

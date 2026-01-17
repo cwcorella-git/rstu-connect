@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2021
   Ohio Valley Environmental Coalition Workers Stand Firm Despite Management
   Offensive
 category: environmental-justice

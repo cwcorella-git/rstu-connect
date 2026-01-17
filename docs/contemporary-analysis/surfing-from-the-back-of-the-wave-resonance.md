@@ -1,5 +1,6 @@
 ---
 title: "What Games Are"
+date: 2011
 category: "contemporary-analysis"
 ---
 

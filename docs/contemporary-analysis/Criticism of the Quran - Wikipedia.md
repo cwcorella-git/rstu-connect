@@ -1,5 +1,6 @@
 ---
 title: "Criticism of the Quran"
+date: 1987
 category: "contemporary-analysis"
 ---
 

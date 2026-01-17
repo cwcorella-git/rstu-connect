@@ -1,5 +1,6 @@
 ---
 title: "Do treeplanters suffer from Stockholm syndrome?"
+date: 2018
 category: "contemporary-analysis"
 ---
 

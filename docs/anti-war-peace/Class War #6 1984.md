@@ -1,5 +1,6 @@
 ---
 title: 'Class War #6 1984'
+date: 1984
 category: anti-war-peace
 tags:
   - anti-war

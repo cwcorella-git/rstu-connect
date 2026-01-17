@@ -1,5 +1,6 @@
 ---
 title: Getting Trade Readjustment Allowance for Shalefield Workers
+date: 2016
 category: contemporary-analysis
 tags:
   - labor

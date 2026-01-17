@@ -1,5 +1,6 @@
 ---
 title: "What We Want"
+date: 1963
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Soil Solidarity
+date: 2017
 category: contemporary-analysis
 tags:
   - solidarity

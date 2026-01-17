@@ -1,5 +1,6 @@
 ---
 title: The History of the Workers' Unemployment Insurance Bill
+date: 1934
 category: contemporary-analysis
 tags:
   - labor

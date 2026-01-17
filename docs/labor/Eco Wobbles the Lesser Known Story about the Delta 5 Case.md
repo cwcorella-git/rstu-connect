@@ -1,5 +1,6 @@
 ---
 title: 'Eco Wobbles: the Lesser Known Story about the Delta 5 Case'
+date: 2016
 category: contemporary-analysis
 tags:
   - unions

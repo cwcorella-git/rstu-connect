@@ -1,5 +1,6 @@
 ---
 title: The Irrepressible Anarchists
+date: 2006
 category: contemporary-analysis
 tags:
   - anarchism

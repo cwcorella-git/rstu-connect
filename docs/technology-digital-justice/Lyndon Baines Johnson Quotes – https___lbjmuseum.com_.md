@@ -1,5 +1,6 @@
 ---
 title: Lyndon Baines Johnson Quotes
+date: 1964
 category: technology-digital-justice
 tags:
   - technology

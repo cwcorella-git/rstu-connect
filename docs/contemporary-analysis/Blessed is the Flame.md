@@ -1,5 +1,6 @@
 ---
 title: "Serafinski"
+date: 2013
 category: "contemporary-analysis"
 ---
 

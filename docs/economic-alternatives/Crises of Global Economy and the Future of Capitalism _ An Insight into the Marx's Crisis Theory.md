@@ -1,5 +1,6 @@
 ---
 title: "E Books"
+date: 1975
 category: economic-alternatives
 tags:
   - capitalism

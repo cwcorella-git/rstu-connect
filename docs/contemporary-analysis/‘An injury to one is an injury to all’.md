@@ -1,6 +1,7 @@
 ---
 title: "'An injury to one is an injury to all'"
 author: "Angela K. Evans -"
+date: 2016
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Caribbean women and the black community
+date: 1975
 category: theory
 tags:
   - women

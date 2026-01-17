@@ -1,5 +1,6 @@
 ---
 title: War against war is starting? The grapes of wrath in Ukraine
+date: 2022
 category: arts-culture-music
 tags:
   - anti-war

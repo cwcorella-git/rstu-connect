@@ -1,5 +1,6 @@
 ---
 title: "Cultural Revolution"
+date: 1962
 category: "arts-culture-music"
 ---
 

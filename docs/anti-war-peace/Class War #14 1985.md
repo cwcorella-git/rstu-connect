@@ -1,5 +1,6 @@
 ---
 title: 'Class War #14 1985'
+date: 1985
 category: anti-war-peace
 tags:
   - anti-war

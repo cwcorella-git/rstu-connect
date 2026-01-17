@@ -1,5 +1,6 @@
 ---
 title: '1994: Wallis and Futuna General Strike'
+date: 2011
 category: labor
 tags:
   - general strikes

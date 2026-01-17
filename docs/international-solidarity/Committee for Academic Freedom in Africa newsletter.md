@@ -1,5 +1,6 @@
 ---
 title: Committee for Academic Freedom in Africa newsletter
+date: 1991
 category: international-solidarity
 tags:
   - liberty

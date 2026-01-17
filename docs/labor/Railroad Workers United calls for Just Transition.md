@@ -1,5 +1,6 @@
 ---
 title: Railroad Workers United calls for Just Transition
+date: 2016
 category: feminist-theory
 tags:
   - labor

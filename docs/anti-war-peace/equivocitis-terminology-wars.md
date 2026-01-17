@@ -1,5 +1,6 @@
 ---
 title: Treatment
+date: 2012
 category: anti-war-peace
 tags:
   - anti-war

@@ -1,5 +1,6 @@
 ---
 title: "In 2019, I was doing administrative work at an insurance company."
+date: 2019
 category: "contemporary-analysis"
 ---
 

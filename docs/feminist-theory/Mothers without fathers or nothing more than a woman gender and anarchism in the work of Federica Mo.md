@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1923
   Mothers without fathers or nothing more than a woman: gender and anarchism in
   the work of Feder
 category: feminist-theory

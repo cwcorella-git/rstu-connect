@@ -1,5 +1,6 @@
 ---
 title: Sending Fascists Packing is An Act of Community Self-Defense
+date: 2017
 category: contemporary-analysis
 tags:
   - community

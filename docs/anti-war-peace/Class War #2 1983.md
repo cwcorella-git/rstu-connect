@@ -1,5 +1,6 @@
 ---
 title: 'Class War #2 1983'
+date: 1983
 category: anti-war-peace
 tags:
   - anti-war

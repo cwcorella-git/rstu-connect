@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2015
   Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty
   Negotiations in Pa
 category: environmental-justice

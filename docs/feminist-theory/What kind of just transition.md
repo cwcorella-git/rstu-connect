@@ -1,5 +1,6 @@
 ---
 title: What kind of "just transition"?
+date: 2015
 category: feminist-theory
 tags:
   - just transition

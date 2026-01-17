@@ -1,5 +1,6 @@
 ---
 title: International Workers' Day
+date: 1889
 category: international-solidarity
 tags:
   - labor

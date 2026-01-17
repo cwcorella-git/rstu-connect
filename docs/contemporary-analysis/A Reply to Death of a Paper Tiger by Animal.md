@@ -1,5 +1,6 @@
 ---
 title: "A Reply to Death of a Paper Tiger by Animal"
+date: 1997
 category: "contemporary-analysis"
 ---
 

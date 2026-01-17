@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2016
   Colombia Has Lost Its Fear: A Nationwide Uprising Continues in the Face of
   State Violence
 category: contemporary-analysis

@@ -1,5 +1,6 @@
 ---
 title: Paul Goodman
+date: 2009
 category: arts-culture-music
 tags:
   - anti-war

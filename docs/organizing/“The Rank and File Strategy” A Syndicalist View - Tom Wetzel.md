@@ -1,5 +1,6 @@
 ---
 title: '''The Rank and File Strategy'': A Syndicalist View - Tom Wetzel'
+date: 1922
 category: organizing
 tags:
   - syndicalism

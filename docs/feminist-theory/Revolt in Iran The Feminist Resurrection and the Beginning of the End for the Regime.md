@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2022
   Revolt in Iran: The Feminist Resurrection and the Beginning of the End for the
   Regime
 category: feminist-theory

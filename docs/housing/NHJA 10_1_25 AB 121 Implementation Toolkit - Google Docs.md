@@ -1,5 +1,6 @@
 ---
 title: NHJA NEW Protections for Tenants!
+date: 2025
 category: contemporary-analysis
 tags:
   - tenants

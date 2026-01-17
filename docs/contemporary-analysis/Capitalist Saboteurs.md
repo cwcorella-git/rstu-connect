@@ -1,5 +1,6 @@
 ---
 title: Capitalist Saboteurs
+date: 2016
 category: contemporary-analysis
 tags:
   - capitalism

@@ -1,5 +1,6 @@
 ---
 title: 'Authoritarian Leftists: Kill the Cop in Your Head'
+date: 1995
 category: contemporary-analysis
 tags:
   - police

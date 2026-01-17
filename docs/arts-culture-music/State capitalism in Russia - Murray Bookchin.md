@@ -1,5 +1,6 @@
 ---
 title: State capitalism in Russia - Murray Bookchin
+date: 1950
 category: arts-culture-music
 tags:
   - capitalism

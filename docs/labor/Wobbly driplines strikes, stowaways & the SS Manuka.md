@@ -1,5 +1,6 @@
 ---
 title: 'Wobbly driplines: strikes, stowaways & the SS Manuka'
+date: 1923
 category: contemporary-analysis
 tags:
   - unions

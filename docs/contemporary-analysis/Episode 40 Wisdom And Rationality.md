@@ -1,5 +1,6 @@
 ---
 title: "Episode 40: Wisdom And Rationality/"
+date: 2013
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Death of a paper tiger: reflections on Class War'
+date: 1885
 category: anti-war-peace
 tags:
   - anti-war

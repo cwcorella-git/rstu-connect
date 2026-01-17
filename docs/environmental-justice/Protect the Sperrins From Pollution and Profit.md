@@ -1,6 +1,7 @@
 ---
 title: Protect the Sperrins From Pollution and Profit
 author: "Derry IWW"
+date: 2018
 category: environmental-justice
 tags:
   - environment

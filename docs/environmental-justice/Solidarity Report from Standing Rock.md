@@ -1,5 +1,6 @@
 ---
 title: Solidarity Report from Standing Rock
+date: 2017
 category: environmental-justice
 tags:
   - solidarity

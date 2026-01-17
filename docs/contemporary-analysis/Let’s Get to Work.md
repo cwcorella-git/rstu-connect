@@ -1,5 +1,6 @@
 ---
 title: "Let's Get to Work"
+date: 2017
 category: "contemporary-analysis"
 ---
 

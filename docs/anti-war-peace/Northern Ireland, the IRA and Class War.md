@@ -1,5 +1,6 @@
 ---
 title: 'Northern Ireland, the IRA and Class War'
+date: 1997
 category: anti-war-peace
 tags:
   - anti-war

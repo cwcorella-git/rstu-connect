@@ -1,6 +1,7 @@
 ---
 title: San Diego Labor Opposes Dakota Access Pipeline
 author: "Jim Miller -"
+date: 2016
 category: labor
 tags:
   - labor

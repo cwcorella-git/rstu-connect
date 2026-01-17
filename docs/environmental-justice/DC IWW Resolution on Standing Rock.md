@@ -1,5 +1,6 @@
 ---
 title: DC IWW Resolution on Standing Rock
+date: 2016
 category: environmental-justice
 tags:
   - unions

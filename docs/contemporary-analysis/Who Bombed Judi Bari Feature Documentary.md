@@ -1,6 +1,7 @@
 ---
 title: "Who Bombed Judi Bari? Feature Documentary"
 author: "Darryl Cherney -"
+date: 1990
 category: "contemporary-analysis"
 ---
 

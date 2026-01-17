@@ -1,5 +1,6 @@
 ---
 title: IWW report from the 30th SAC Congress
+date: 2009
 category: contemporary-analysis
 tags:
   - unions

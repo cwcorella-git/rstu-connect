@@ -1,5 +1,6 @@
 ---
 title: How To Set Up An Anti-Raids Group
+date: 2018
 category: technology-digital-justice
 tags:
   - technology

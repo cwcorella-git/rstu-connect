@@ -1,5 +1,6 @@
 ---
 title: 'Listen, Marxist!'
+date: 1969
 category: contemporary-analysis
 tags:
   - socialism

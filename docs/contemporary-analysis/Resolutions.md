@@ -1,5 +1,6 @@
 ---
 title: "Resolutions"
+date: 2014
 category: "contemporary-analysis"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Green Syndicalism in the Arctic
 author: "Jeff Shantz -"
+date: 2021
 category: environmental-justice
 tags:
   - syndicalism

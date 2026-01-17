@@ -1,5 +1,6 @@
 ---
 title: HOST CITY CONTRACT FOR THE GAMES OF THE XXXII OLYMPIAD IN THE YEAR 2020
+date: 2020
 category: contemporary-analysis
 tags:
   - urban

@@ -1,5 +1,6 @@
 ---
 title: Under the Same Sun Installation / Stephanie Deumer
+date: 2022
 category: technology-digital-justice
 tags:
   - technology

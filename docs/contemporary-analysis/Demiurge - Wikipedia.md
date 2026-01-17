@@ -1,5 +1,6 @@
 ---
 title: "Demiurge"
+date: 1974
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Freetown Christiania"
+date: 1976
 category: "contemporary-analysis"
 ---
 

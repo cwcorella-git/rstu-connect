@@ -1,6 +1,7 @@
 ---
 title: The first signs of an ecological class struggle in Germany
 author: "Franziska Heinisch and Julia Kaiser -"
+date: 2023
 category: environmental-justice
 tags:
   - environment

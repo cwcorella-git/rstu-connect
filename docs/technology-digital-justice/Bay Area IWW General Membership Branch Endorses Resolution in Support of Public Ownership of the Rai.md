@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2023
   Bay Area IWW General Membership Branch Endorses Resolution in Support of
   Public Ownership of th
 category: technology-digital-justice

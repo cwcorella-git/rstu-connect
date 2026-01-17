@@ -1,5 +1,6 @@
 ---
 title: Low-carbon economy
+date: 2017
 category: environmental-justice
 tags:
   - environment

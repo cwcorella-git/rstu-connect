@@ -1,5 +1,6 @@
 ---
 title: IWW Stands in Solidarity with Resistance to Dakota Access Pipeline
+date: 2016
 category: theory
 tags:
   - unions

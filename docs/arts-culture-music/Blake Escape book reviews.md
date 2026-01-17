@@ -1,5 +1,6 @@
 ---
 title: "Blake Escape: book reviews"
+date: 1969
 category: "arts-culture-music"
 ---
 

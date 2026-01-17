@@ -1,5 +1,6 @@
 ---
 title: Chatting About The State Of Hacker-Friendly AR Gear
+date: 1909
 category: contemporary-analysis
 tags: []
 ---

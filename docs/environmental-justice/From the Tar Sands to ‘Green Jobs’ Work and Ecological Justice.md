@@ -1,6 +1,7 @@
 ---
 title: From the Tar Sands to 'Green Jobs'? Work and Ecological Justice
 author: "Greg Albo and Lilian Yap -"
+date: 2016
 category: environmental-justice
 tags:
   - environment

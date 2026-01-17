@@ -1,5 +1,6 @@
 ---
 title: "Kinesiology"
+date: 2013
 category: "contemporary-analysis"
 ---
 

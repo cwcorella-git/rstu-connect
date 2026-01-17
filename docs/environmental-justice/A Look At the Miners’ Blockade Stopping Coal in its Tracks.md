@@ -1,6 +1,7 @@
 ---
 title: A Look At the Miners' Blockade Stopping Coal in its Tracks
 author: "Earth First! Journal -"
+date: 2019
 category: environmental-justice
 tags:
   - blockades

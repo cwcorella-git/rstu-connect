@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2022
   Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite
   Retaliation
 category: labor

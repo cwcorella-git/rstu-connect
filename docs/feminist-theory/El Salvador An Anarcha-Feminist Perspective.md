@@ -1,5 +1,6 @@
 ---
 title: 'El Salvador: An Anarcha-Feminist Perspective'
+date: 2009
 category: feminist-theory
 tags:
   - anarchism

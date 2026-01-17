@@ -1,5 +1,6 @@
 ---
 title: Climate change and the summit smokescreen
+date: 2015
 category: environmental-justice
 tags:
   - environment

@@ -1,5 +1,6 @@
 ---
 title: INSTEAD OF E-DUCATION
+date: 1977
 category: theory
 tags:
   - education

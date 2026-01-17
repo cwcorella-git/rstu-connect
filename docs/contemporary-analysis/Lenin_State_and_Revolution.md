@@ -1,5 +1,6 @@
 ---
 title: "THE STATE & REVOLUTION:"
+date: 1852
 category: "contemporary-analysis"
 ---
 

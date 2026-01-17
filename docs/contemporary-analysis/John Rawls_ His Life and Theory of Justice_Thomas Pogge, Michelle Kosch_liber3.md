@@ -1,5 +1,6 @@
 ---
 title: "John Rawls"
+date: 1994
 category: "contemporary-analysis"
 ---
 

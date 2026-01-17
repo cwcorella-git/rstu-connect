@@ -1,5 +1,6 @@
 ---
 title: Attica Prison riot
+date: 1971
 category: contemporary-analysis
 tags:
   - riots

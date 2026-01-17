@@ -1,5 +1,6 @@
 ---
 title: "Curious George Brigade Liberate not Exterminate 2005"
+date: 2003
 category: "contemporary-analysis"
 ---
 

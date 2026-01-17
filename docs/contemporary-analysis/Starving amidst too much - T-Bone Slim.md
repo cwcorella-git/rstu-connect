@@ -1,5 +1,6 @@
 ---
 title: "Starving amidst too much - T-Bone Slim"
+date: 1923
 category: "contemporary-analysis"
 ---
 

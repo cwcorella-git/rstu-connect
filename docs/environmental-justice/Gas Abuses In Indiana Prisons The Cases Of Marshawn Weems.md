@@ -1,5 +1,6 @@
 ---
 title: 'Gas Abuses In Indiana Prisons: The Cases Of Marshawn Weems'
+date: 2019
 category: environmental-justice
 tags:
   - prisons

@@ -1,5 +1,6 @@
 ---
 title: '1947: Mombasa General Strike'
+date: 2014
 category: labor
 tags:
   - general strikes

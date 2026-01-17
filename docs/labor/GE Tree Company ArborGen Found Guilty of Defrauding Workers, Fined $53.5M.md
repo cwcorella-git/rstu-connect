@@ -1,5 +1,6 @@
 ---
 title: 'GE Tree Company Arbor Gen Found Guilty of Defrauding Workers, Fined $53.5M'
+date: 2015
 category: contemporary-analysis
 tags:
   - labor

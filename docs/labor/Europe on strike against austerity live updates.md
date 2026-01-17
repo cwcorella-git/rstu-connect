@@ -1,5 +1,6 @@
 ---
 title: 'Europe on strike against austerity: live updates'
+date: 2012
 category: labor
 tags:
   - strikes

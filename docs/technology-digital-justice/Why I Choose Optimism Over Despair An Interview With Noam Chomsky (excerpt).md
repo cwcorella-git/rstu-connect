@@ -1,5 +1,6 @@
 ---
 title: 'Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)'
+date: 2016
 category: technology-digital-justice
 tags:
   - technology

@@ -1,5 +1,6 @@
 ---
 title: 'Students, Activists, and Communists in Movement Politics'
+date: 1972
 category: organizing
 tags:
   - socialism

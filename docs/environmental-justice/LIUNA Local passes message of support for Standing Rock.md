@@ -1,6 +1,7 @@
 ---
 title: LIUNA Local passes message of support for Standing Rock
 author: "Richard Mellor -"
+date: 2016
 category: environmental-justice
 tags:
   - environment

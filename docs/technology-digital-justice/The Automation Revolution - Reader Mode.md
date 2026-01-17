@@ -1,6 +1,7 @@
 ---
 title: Dire Forecasts
 author: "David Tobenkin January 12, 2019"
+date: 2019
 category: technology-digital-justice
 tags:
   - technology

@@ -1,5 +1,6 @@
 ---
 title: "Stasi"
+date: 1950
 category: "contemporary-analysis"
 ---
 

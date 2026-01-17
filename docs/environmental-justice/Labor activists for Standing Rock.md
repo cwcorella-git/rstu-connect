@@ -1,5 +1,6 @@
 ---
 title: Labor activists for Standing Rock
+date: 2016
 category: environmental-justice
 tags:
   - labor

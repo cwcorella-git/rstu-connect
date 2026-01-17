@@ -1,5 +1,6 @@
 ---
 title: A New Wave of Climate Insurgents Defines Itself as Law-Enforcers
+date: 2016
 category: environmental-justice
 tags:
   - environment

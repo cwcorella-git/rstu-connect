@@ -1,5 +1,6 @@
 ---
 title: Battle of Blair Mountain
+date: 1920
 category: labor
 tags:
   - labor

@@ -1,6 +1,7 @@
 ---
 title: Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters
 author: "Joe Sabo -"
+date: 2018
 category: theory
 tags:
   - unions

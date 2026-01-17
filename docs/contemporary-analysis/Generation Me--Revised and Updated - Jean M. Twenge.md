@@ -1,5 +1,6 @@
 ---
 title: "JEAN M. TWENGE, PhD"
+author: "Jean M. Twenge"
 category: "contemporary-analysis"
 ---
 

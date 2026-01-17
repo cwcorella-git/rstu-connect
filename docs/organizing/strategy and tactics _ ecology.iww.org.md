@@ -1,5 +1,6 @@
 ---
 title: "Ecology.iww.org"
+date: 2025
 category: organizing
 tags:
   - unions

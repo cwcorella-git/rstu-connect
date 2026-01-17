@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2024
   Internationalism – a guide to action or an excuse for inaction? To the start
   of the Prague Acti
 category: organizing

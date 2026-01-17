@@ -1,5 +1,6 @@
 ---
 title: West Virginia IWW Commemorates Battle of Blair Mountain Centennial
+date: 2021
 category: labor
 tags:
   - unions

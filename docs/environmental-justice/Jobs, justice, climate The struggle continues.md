@@ -1,6 +1,7 @@
 ---
 title: 'Jobs, justice, climate: The struggle continues'
 author: "Martin Empson -"
+date: 2016
 category: environmental-justice
 tags:
   - environment

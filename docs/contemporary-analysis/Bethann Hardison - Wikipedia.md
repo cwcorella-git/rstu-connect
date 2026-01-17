@@ -1,5 +1,6 @@
 ---
 title: "Bethann Hardison"
+date: 1942
 category: "contemporary-analysis"
 ---
 

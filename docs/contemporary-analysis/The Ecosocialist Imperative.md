@@ -1,5 +1,6 @@
 ---
 title: The Ecosocialist Imperative
+date: 2016
 category: contemporary-analysis
 tags:
   - socialism

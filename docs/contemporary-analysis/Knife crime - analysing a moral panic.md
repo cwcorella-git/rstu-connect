@@ -1,5 +1,6 @@
 ---
 title: "Knife crime - analysing a moral panic"
+date: 2007
 category: "contemporary-analysis"
 ---
 

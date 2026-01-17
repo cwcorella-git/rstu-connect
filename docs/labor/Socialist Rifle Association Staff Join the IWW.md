@@ -1,6 +1,7 @@
 ---
 title: Socialist Rifle Association Staff Join the IWW
 author: "Staff -"
+date: 2021
 category: contemporary-analysis
 tags:
   - unions

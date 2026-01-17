@@ -1,6 +1,7 @@
 ---
 title: Nitricity Workers Launch Rare Union Drive at Start-up
 author: "Shelby N -"
+date: 2022
 category: labor
 tags:
   - unions

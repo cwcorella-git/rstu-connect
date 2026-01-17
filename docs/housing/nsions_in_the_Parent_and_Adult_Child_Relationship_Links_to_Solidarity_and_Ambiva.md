@@ -5,6 +5,7 @@ title: >-
   Links to Solidarity and Ambivalence.pdf ## Content
 category: housing
 author: Adult Child
+date: 2017
 tags:
   - solidarity
   - housing

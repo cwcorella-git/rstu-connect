@@ -1,5 +1,6 @@
 ---
 title: 'Suds and Socialism Forum: Workers and the Environment'
+date: 2021
 category: environmental-justice
 tags:
   - labor

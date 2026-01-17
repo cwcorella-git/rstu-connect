@@ -1,6 +1,7 @@
 ---
 title: Frackville Prison's Systemic Water Crisis
 author: "Bryant Arroyo -"
+date: 2017
 category: environmental-justice
 tags:
   - prisons

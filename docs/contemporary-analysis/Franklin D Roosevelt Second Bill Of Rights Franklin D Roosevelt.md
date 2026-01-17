@@ -1,5 +1,6 @@
 ---
 title: "Franklin D Roosevelt Second Bill Of Rights"
+date: 2013
 category: "contemporary-analysis"
 ---
 

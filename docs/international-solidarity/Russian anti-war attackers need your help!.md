@@ -1,5 +1,6 @@
 ---
 title: Russian anti-war attackers need your help!
+date: 1920
 category: international-solidarity
 tags:
   - anti-war

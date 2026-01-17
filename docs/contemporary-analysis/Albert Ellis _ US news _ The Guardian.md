@@ -1,5 +1,6 @@
 ---
 title: 'Obituary: Albert Ellis'
+date: 1913
 category: contemporary-analysis
 tags: []
 ---

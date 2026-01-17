@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2016
   Marius Mason calls for an International Day of Trans Prisoner Support on
   January 22nd
 category: labor

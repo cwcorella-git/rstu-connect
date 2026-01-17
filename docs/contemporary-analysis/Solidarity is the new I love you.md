@@ -1,6 +1,7 @@
 ---
 title: Solidarity is the new I love you
 author: "Dano T Bob -"
+date: 2015
 category: contemporary-analysis
 tags:
   - solidarity

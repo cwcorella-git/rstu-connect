@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2013
   The Murder of George Floyd: The End of Racism Starts with the Death of
   Capitalism
 category: arts-culture-music

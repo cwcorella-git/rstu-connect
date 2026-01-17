@@ -1,5 +1,6 @@
 ---
 title: Are Prisons Obsolete?
+date: 1990
 category: contemporary-analysis
 tags:
   - prisons

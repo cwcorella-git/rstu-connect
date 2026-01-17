@@ -1,5 +1,6 @@
 ---
 title: "Hot Summer in Greece: The Lockdown Abates—the Struggle Continues"
+date: 1973
 category: "contemporary-analysis"
 ---
 

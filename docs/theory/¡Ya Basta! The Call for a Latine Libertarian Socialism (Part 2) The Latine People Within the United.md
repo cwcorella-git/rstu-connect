@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1898
   ¡Ya Basta! The Call for a Latine Libertarian Socialism (Part 2): The Latine
   People Within the U
 category: arts-culture-music

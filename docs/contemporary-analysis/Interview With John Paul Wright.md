@@ -1,5 +1,6 @@
 ---
 title: "Interview With John Paul Wright"
+date: 2016
 category: "contemporary-analysis"
 ---
 

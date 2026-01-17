@@ -1,5 +1,6 @@
 ---
 title: Report on the 2018 IWW Organising Summit
+date: 2015
 category: contemporary-analysis
 tags:
   - unions

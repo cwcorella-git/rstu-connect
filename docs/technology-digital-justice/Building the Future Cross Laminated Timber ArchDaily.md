@@ -1,5 +1,6 @@
 ---
 title: 'Building the Future: Cross Laminated Timber'
+date: 2015
 category: technology-digital-justice
 tags:
   - technology

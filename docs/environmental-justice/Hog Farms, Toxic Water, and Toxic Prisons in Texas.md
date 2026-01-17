@@ -1,6 +1,7 @@
 ---
 title: 'Hog Farms, Toxic Water, and Toxic Prisons in Texas'
 author: "Comrade Malik -"
+date: 2018
 category: environmental-justice
 tags:
   - prisons

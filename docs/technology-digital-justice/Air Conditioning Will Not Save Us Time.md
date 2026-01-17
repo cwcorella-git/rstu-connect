@@ -1,6 +1,7 @@
 ---
 title: Air Conditioning Will Not Save Us
 author: "Eric Dean Wilson"
+date: 2022
 category: technology-digital-justice
 tags:
   - technology

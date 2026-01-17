@@ -1,6 +1,7 @@
 ---
 title: Animal Liberation Is Climate Justice
 author: "Laura Schleifer and Dan Fischer -"
+date: 2023
 category: environmental-justice
 tags:
   - environment

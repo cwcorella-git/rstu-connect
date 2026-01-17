@@ -1,5 +1,6 @@
 ---
 title: "Collapsing the levels, Consolidating Our efforts"
+date: 2015
 category: "contemporary-analysis"
 ---
 

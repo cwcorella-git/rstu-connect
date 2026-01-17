@@ -1,5 +1,6 @@
 ---
 title: Class War newspaper
+date: 1983
 category: anti-war-peace
 tags:
   - anti-war

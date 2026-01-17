@@ -1,5 +1,6 @@
 ---
 title: Sky Anarchy
+date: 1917
 category: contemporary-analysis
 tags:
   - anarchism

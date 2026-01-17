@@ -1,5 +1,6 @@
 ---
 title: How to Socialize America's Energy
+date: 2016
 category: environmental-justice
 tags:
   - environment

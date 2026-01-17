@@ -1,5 +1,6 @@
 ---
 title: Worker Solidarity with Camp Makwa and the Movement for Environmental Justice
+date: 2017
 category: environmental-justice
 tags:
   - solidarity

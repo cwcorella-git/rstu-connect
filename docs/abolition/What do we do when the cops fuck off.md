@@ -1,5 +1,6 @@
 ---
 title: What do we do when the cops fuck off?
+date: 1981
 category: contemporary-analysis
 tags:
   - police

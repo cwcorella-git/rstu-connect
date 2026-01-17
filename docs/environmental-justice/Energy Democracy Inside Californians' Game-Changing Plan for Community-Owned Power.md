@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2015
   Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned
   Power
 category: environmental-justice

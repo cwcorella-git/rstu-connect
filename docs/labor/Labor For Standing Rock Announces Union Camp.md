@@ -1,5 +1,6 @@
 ---
 title: Labor For Standing Rock Announces Union Camp
+date: 2016
 category: environmental-justice
 tags:
   - unions

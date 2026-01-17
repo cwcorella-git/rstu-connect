@@ -1,5 +1,6 @@
 ---
 title: Women & the Covid-19 Crisis in South Africa
+date: 2005
 category: feminist-theory
 tags:
   - women

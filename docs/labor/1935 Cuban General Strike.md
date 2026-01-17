@@ -1,5 +1,6 @@
 ---
 title: '1935: Cuban General Strike'
+date: 2011
 category: labor
 tags:
   - general strikes

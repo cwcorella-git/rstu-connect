@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2019
   Strike in West London: Richmond upon Thames College staff fight 'Fire and
   Rehire'
 category: youth-student-organizing

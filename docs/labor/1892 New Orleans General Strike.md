@@ -1,5 +1,6 @@
 ---
 title: 1892 New Orleans General Strike
+date: 1892
 category: labor
 tags:
   - general strikes

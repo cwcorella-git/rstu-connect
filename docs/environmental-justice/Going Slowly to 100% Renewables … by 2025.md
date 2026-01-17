@@ -1,5 +1,6 @@
 ---
 title: Going Slowly to 100% Renewables … by 2025?
+date: 2020
 category: environmental-justice
 tags:
   - environment

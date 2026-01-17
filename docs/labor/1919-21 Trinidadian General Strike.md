@@ -1,5 +1,6 @@
 ---
 title: '1919-21: Trinidadian General Strike'
+date: 1919
 category: labor
 tags:
   - general strikes

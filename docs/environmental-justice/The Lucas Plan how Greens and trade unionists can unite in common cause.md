@@ -1,6 +1,7 @@
 ---
 title: 'The Lucas Plan: how Greens and trade unionists can unite in common cause'
 author: "David King -"
+date: 2016
 category: environmental-justice
 tags:
   - environment

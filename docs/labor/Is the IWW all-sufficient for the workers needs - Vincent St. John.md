@@ -1,5 +1,6 @@
 ---
 title: Is the IWW all-sufficient for the workers needs? - Vincent St. John
+date: 1915
 category: contemporary-analysis
 tags:
   - unions

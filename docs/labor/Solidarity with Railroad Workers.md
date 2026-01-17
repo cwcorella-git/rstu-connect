@@ -1,5 +1,6 @@
 ---
 title: Solidarity with Railroad Workers
+date: 2022
 category: theory
 tags:
   - solidarity

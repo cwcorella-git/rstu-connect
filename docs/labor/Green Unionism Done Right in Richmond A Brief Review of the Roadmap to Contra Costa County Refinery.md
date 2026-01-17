@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "That Green Union Guy -"
+date: 2025
   Green Unionism Done Right in Richmond: A Brief Review of the "Roadmap to
   Contra Costa County Re
 category: labor

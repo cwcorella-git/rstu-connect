@@ -1,5 +1,6 @@
 ---
 title: "G. Ogo, Drica Dejerk"
+date: 1927
 category: "contemporary-analysis"
 ---
 

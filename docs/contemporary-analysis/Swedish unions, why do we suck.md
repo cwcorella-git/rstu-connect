@@ -1,5 +1,6 @@
 ---
 title: 'Swedish unions, why do we suck?'
+date: 2021
 category: contemporary-analysis
 tags:
   - Sweden

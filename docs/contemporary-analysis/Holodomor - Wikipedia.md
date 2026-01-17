@@ -1,5 +1,6 @@
 ---
 title: "Holodomor"
+date: 2004
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: WHAT IS THE IWW?
+date: 1995
 category: labor
 tags:
   - unions

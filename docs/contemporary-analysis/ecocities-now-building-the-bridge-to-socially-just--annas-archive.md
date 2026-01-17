@@ -1,5 +1,6 @@
 ---
 title: I COCITIES NOW
+date: 1987
 category: contemporary-analysis
 tags:
   - urban

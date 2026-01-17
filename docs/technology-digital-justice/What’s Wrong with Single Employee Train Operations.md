@@ -1,6 +1,7 @@
 ---
 title: What's Wrong with Single Employee Train Operations?
 author: "Ron Kaminkow -"
+date: 2021
 category: technology-digital-justice
 tags:
   - labor

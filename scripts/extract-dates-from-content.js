@@ -13,19 +13,23 @@ let skipped = 0;
 
 // Date patterns to look for in content
 const datePatterns = [
-  // Month DD, YYYY at start of content
-  /^#+?\s*(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+(\d{4})/m,
-  // "Published: Month DD, YYYY" or "Posted: ..."
-  /(?:Published|Posted|Date):\s*(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+(\d{4})/i,
+  // Month DD, YYYY anywhere in early content
+  /(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+(\d{4})/i,
+  // MM/DD/YYYY format
+  /\d{1,2}\/\d{1,2}\/(\d{4})/,
+  // "Published ... YYYY" or "Posted ... YYYY"
+  /(?:Published|Posted|Updated|Created)\s+.*?(\d{4})/i,
   // "Month YYYY" header
-  /^#+\s*(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})/m,
+  /^#+\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})/m,
   // YYYY-MM-DD format
   /(\d{4})-\d{2}-\d{2}/,
-  // "(YYYY)" at end of line - but only near the top
+  // "(YYYY)" at end of line
   /\((\d{4})\)\s*$/m,
   // Copyright YYYY
   /©\s*(\d{4})/,
   /[Cc]opyright\s+(\d{4})/,
+  // "in YYYY" or "from YYYY"
+  /\b(?:in|from|since)\s+(\d{4})\b/i,
 ];
 
 // Extract year from match

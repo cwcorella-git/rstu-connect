@@ -1,5 +1,6 @@
 ---
 title: Spanish libertarian movement in France National Congress
+date: 1936
 category: international-solidarity
 tags:
   - Spain

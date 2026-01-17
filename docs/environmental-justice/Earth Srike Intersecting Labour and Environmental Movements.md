@@ -1,5 +1,6 @@
 ---
 title: 'Earth Srike: Intersecting Labour and Environmental Movements'
+date: 2019
 category: environmental-justice
 tags:
   - labor

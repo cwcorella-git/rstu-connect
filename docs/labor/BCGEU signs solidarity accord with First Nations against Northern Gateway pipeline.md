@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2016
   BCGEU signs solidarity accord with First Nations against Northern Gateway
   pipeline
 category: labor

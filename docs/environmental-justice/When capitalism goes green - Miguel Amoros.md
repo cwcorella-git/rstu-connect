@@ -1,5 +1,6 @@
 ---
 title: When capitalism goes green - Miguel Amoros
+date: 1972
 category: environmental-justice
 tags:
   - capitalism

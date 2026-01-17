@@ -1,5 +1,6 @@
 ---
 title: "Lumad"
+date: 1983
 category: "contemporary-analysis"
 ---
 

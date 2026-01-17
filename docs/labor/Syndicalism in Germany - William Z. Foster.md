@@ -1,6 +1,7 @@
 ---
 title: Syndicalism in Germany - William Z. Foster
 author: "William Z. Foster"
+date: 1911
 category: theory
 tags:
   - syndicalism

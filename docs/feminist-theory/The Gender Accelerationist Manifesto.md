@@ -1,5 +1,6 @@
 ---
 title: Vikky Storm and Eme Flores
+date: 2019
 category: feminist-theory
 tags:
   - feminism

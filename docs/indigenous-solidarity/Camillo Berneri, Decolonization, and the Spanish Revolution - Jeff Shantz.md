@@ -1,5 +1,6 @@
 ---
 title: 'Camillo Berneri, Decolonization, and the Spanish Revolution - Jeff Shantz'
+date: 1936
 category: theory
 tags:
   - Spain

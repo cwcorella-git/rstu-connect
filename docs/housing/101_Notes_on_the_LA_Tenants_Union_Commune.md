@@ -5,6 +5,7 @@ title: >-
   Union | Commune communemag.com 101 Notes on t
 category: housing
 author: Union Commune aboutreaderurl
+date: 2012
 tags:
   - tenants
   - unions

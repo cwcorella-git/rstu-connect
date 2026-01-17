@@ -1,5 +1,6 @@
 ---
 title: The Origins of Modern Day Policing
+date: 2020
 category: contemporary-analysis
 tags:
   - police

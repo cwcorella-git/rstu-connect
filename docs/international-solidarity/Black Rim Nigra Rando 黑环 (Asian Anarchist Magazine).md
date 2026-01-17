@@ -1,5 +1,6 @@
 ---
 title: Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine)
+date: 1978
 category: international-solidarity
 tags:
   - anarchism

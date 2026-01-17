@@ -1,6 +1,7 @@
 ---
 title: "NUMSA statement on Eskom CEO's resignation"
 author: "Irvin Jim and Patrick Craven -"
+date: 2016
 category: "contemporary-analysis"
 ---
 

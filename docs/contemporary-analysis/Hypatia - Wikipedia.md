@@ -1,5 +1,6 @@
 ---
 title: "Hypatia"
+date: 1866
 category: "contemporary-analysis"
 ---
 

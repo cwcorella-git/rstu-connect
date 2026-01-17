@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2017
   Trump's executive order confirms US State Department has trained the Hong Kong
   police
 category: abolition

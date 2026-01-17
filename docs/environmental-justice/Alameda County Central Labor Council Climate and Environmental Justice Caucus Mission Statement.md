@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2016
   Alameda County Central Labor Council Climate and Environmental Justice Caucus
   Mission Statement
 category: labor

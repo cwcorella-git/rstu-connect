@@ -1,6 +1,7 @@
 ---
 title: 'Just Transition for Auto Workers: The Answer to Auto''s Race to the Bottom'
 author: "Jeremey Brecher -"
+date: 2023
 category: feminist-theory
 tags:
   - labor

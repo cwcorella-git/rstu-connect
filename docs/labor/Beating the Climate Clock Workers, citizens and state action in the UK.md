@@ -1,6 +1,7 @@
 ---
 title: 'Beating the Climate Clock: Workers, citizens and state action in the UK'
 author: "Hillary Wainright -"
+date: 2024
 category: labor
 tags:
   - labor

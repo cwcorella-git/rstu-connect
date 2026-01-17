@@ -1,5 +1,6 @@
 ---
 title: "Episode 42: Intelligence Rationality And Wisdom/"
+date: 1990
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: French Women Insurgents
+date: 1851
 category: feminist-theory
 tags:
   - women

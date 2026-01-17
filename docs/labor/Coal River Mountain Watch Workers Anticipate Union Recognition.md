@@ -1,5 +1,6 @@
 ---
 title: Coal River Mountain Watch Workers Anticipate Union Recognition
+date: 2021
 category: environmental-justice
 tags:
   - unions

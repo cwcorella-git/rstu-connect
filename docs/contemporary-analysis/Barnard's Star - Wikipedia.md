@@ -1,5 +1,6 @@
 ---
 title: Barnard's Star
+date: 1916
 category: contemporary-analysis
 tags: []
 ---

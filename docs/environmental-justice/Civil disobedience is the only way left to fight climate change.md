@@ -1,5 +1,6 @@
 ---
 title: Civil disobedience is the only way left to fight climate change
+date: 2018
 category: environmental-justice
 tags:
   - civil disobedience

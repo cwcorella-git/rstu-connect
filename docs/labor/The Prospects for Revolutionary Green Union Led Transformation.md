@@ -1,5 +1,6 @@
 ---
 title: The Prospects for Revolutionary Green Union Led Transformation
+date: 2020
 category: theory
 tags:
   - unions

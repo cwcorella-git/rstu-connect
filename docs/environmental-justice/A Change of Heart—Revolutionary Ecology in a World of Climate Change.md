@@ -1,5 +1,6 @@
 ---
 title: A Change of Heart—Revolutionary Ecology in a World of Climate Change
+date: 1990
 category: theory
 tags:
   - environment

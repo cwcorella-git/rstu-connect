@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Staff -"
+date: 2015
   Unions, Environmental Justice Advocates Say 'No!' To Coal Transport through
   Oakland
 category: feminist-theory

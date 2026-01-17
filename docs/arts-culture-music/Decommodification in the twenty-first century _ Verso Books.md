@@ -1,5 +1,6 @@
 ---
 title: Decommodification in the twentyfirst century
+date: 1947
 category: arts-culture-music
 tags: []
 ---

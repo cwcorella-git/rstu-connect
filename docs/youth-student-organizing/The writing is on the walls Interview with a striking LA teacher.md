@@ -1,5 +1,6 @@
 ---
 title: '''The writing is on the walls'': Interview with a striking LA teacher'
+date: 1989
 category: youth-student-organizing
 tags:
   - education

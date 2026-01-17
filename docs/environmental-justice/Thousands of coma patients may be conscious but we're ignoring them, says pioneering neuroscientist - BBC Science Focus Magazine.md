@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2021
   Thousands of coma patients may be conscious but we're ignoring them, says
   pioneering neuroscientist
 category: environmental-justice

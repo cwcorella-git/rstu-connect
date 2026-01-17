@@ -1,5 +1,6 @@
 ---
 title: What Games Are
+date: 2010
 category: organizing
 tags:
   - organizing

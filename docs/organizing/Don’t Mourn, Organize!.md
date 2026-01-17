@@ -1,6 +1,7 @@
 ---
 title: 'Don''t Mourn, Organize!'
 author: "Anne Petermann, Executive Director -"
+date: 2016
 category: contemporary-analysis
 tags:
   - organizing

@@ -1,6 +1,7 @@
 ---
 title: 'The Poisoning of Flint: Capitalism and Environmental Sabotage'
 author: "Mike Kolhoff -"
+date: 2016
 category: environmental-justice
 tags:
   - environment

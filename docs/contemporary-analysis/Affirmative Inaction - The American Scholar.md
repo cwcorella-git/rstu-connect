@@ -1,5 +1,6 @@
 ---
 title: Affirmative Inaction - The American Scholar
+date: 1965
 category: contemporary-analysis
 tags: []
 ---

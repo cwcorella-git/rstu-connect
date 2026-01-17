@@ -1,5 +1,6 @@
 ---
 title: "Khmer Rouge"
+date: 1951
 category: "contemporary-analysis"
 ---
 

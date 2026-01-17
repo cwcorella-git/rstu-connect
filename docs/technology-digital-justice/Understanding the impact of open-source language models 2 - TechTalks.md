@@ -1,5 +1,6 @@
 ---
 title: Understanding the impact of opensource language models - Tech Talks
+date: 2022
 category: technology-digital-justice
 tags:
   - technology

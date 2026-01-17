@@ -1,6 +1,7 @@
 ---
 title: Earth Strike Ireland Rising
 author: "IWW Ireland -"
+date: 2019
 category: arts-culture-music
 tags:
   - strikes

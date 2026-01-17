@@ -1,5 +1,6 @@
 ---
 title: "IVAN ILLICH"
+date: 1971
 category: "contemporary-analysis"
 ---
 

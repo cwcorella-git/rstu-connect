@@ -1,5 +1,6 @@
 ---
 title: 'The Seattle general strike, 1919 - Jeremy Brecher'
+date: 1919
 category: contemporary-analysis
 tags:
   - general strikes

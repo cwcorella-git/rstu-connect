@@ -1,5 +1,6 @@
 ---
 title: Business unionism vs revolutionary unionism - Dave Neal
+date: 1919
 category: labor
 tags:
   - labor

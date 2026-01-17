@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1987
   Black Radicalism, Marxism, and Collective Memory: An Interview with Robin D.
   G. Kelley
 category: theory

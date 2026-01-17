@@ -1,5 +1,6 @@
 ---
 title: Why Are All Cops Bastards? - Serge Quaddruppani and Jérôme Floch
+date: 2021
 category: contemporary-analysis
 tags:
   - police

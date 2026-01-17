@@ -1,5 +1,6 @@
 ---
 title: "Interview: Ronan Bennett - Black Flag"
+date: 1974
 category: "contemporary-analysis"
 ---
 

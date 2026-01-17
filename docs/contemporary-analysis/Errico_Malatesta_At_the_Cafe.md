@@ -1,5 +1,6 @@
 ---
 title: At The Café
+date: 1922
 category: contemporary-analysis
 tags:
   - Malatesta

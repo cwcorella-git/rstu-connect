@@ -1,5 +1,6 @@
 ---
 title: "Great Purge"
+date: 1936
 category: "contemporary-analysis"
 ---
 

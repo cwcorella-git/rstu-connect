@@ -1,5 +1,6 @@
 ---
 title: "Confederate States of America"
+date: 1861
 category: "contemporary-analysis"
 ---
 

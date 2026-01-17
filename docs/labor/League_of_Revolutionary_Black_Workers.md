@@ -1,5 +1,6 @@
 ---
 title: 'A. Muhammad Ahmad 1968-1971: The League of Revolutionary Black Workers'
+date: 1958
 category: contemporary-analysis
 tags:
   - labor

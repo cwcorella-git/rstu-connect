@@ -1,6 +1,7 @@
 ---
 title: "A new Lucas Plan for the future"
 author: "David King -"
+date: 2016
 category: "contemporary-analysis"
 ---
 

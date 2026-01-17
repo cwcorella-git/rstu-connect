@@ -1,5 +1,6 @@
 ---
 title: "Defend Our Sperrins Not Toxic Gold Mining"
+date: 2019
 category: "contemporary-analysis"
 ---
 

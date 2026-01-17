@@ -1,5 +1,6 @@
 ---
 title: "Conclusions | Rebel Steps"
+date: 2008
 category: "contemporary-analysis"
 ---
 

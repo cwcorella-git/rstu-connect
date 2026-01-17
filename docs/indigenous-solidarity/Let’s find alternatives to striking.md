@@ -1,5 +1,6 @@
 ---
 title: Let's find alternatives to striking
+date: 2021
 category: indigenous-solidarity
 tags:
   - indigenous

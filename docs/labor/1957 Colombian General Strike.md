@@ -1,5 +1,6 @@
 ---
 title: '1957: Colombian General Strike'
+date: 1957
 category: labor
 tags:
   - general strikes

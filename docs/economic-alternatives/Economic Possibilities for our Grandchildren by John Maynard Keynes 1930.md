@@ -1,5 +1,6 @@
 ---
 title: John Maynard Keynes 1930
+date: 1929
 category: economic-alternatives
 tags:
   - economics

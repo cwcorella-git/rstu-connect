@@ -1,6 +1,7 @@
 ---
 title: Socialize the Railways!
 author: "Tom Wetzel -"
+date: 2023
 category: technology-digital-justice
 tags:
   - railroads

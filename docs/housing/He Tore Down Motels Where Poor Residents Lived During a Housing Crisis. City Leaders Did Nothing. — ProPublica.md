@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2001
   He Tore Down Motels Where Poor Residents Lived During a Housing Crisis. City
   Leaders Did Nothing.
 category: contemporary-analysis

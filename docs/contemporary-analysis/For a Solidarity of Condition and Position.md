@@ -1,5 +1,6 @@
 ---
 title: A Delivery Driver in Manhattan
+date: 2020
 category: contemporary-analysis
 tags:
   - solidarity

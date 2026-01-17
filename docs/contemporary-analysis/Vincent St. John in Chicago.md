@@ -1,6 +1,7 @@
 ---
 title: Vincent St. John in Chicago
 author: "Fred W. Heslewood"
+date: 1907
 category: contemporary-analysis
 tags:
   - Chicago

@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1995
   Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising
   to India's Farmer
 category: labor

@@ -1,5 +1,6 @@
 ---
 title: '1942: Luxembuorg General Strike'
+date: 2011
 category: labor
 tags:
   - general strikes

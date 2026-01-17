@@ -1,6 +1,7 @@
 ---
 title: "Utopia: Work less play more"
 author: "Madeleine Ellis-Petersen"
+date: 2017
 category: "contemporary-analysis"
 ---
 

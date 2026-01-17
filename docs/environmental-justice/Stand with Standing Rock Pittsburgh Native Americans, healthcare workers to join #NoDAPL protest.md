@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Sarah Anne Hughes -"
+date: 2016
   Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to
   join #NoDAPL prote
 category: environmental-justice

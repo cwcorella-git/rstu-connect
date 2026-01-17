@@ -1,5 +1,6 @@
 ---
 title: 'Episode 32: Rr In The Brain Insight And Consciousness/'
+date: 2008
 category: technology-digital-justice
 tags:
   - technology

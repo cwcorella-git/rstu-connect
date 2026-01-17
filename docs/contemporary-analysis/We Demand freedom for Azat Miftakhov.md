@@ -1,5 +1,6 @@
 ---
 title: We Demand freedom for Azat Miftakhov
+date: 2019
 category: contemporary-analysis
 tags:
   - liberty

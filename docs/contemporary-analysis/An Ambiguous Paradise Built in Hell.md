@@ -1,5 +1,6 @@
 ---
 title: "An Ambiguous Paradise Built in Hell"
+date: 2023
 category: "contemporary-analysis"
 ---
 

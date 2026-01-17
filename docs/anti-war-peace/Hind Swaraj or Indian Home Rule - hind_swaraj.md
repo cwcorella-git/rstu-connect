@@ -1,6 +1,7 @@
 ---
 title: Hind Swaraj or Indian Home Rule
 author: "Jitendra T Desai"
+date: 1921
 category: anti-war-peace
 tags:
   - India

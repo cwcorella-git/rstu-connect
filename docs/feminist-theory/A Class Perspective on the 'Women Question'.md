@@ -1,5 +1,6 @@
 ---
 title: A Class Perspective on the 'Women Question'
+date: 2019
 category: feminist-theory
 tags:
   - women

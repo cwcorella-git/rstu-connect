@@ -1,5 +1,6 @@
 ---
 title: 'Canada''s Free Birth Control and Insulin Program: Complete Overview'
+date: 2025
 category: contemporary-analysis
 tags:
   - Canada

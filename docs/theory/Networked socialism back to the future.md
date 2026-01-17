@@ -1,6 +1,7 @@
 ---
 title: 'Networked socialism: back to the future'
 author: "Gabriel Levy -"
+date: 2016
 category: contemporary-analysis
 tags:
   - theory

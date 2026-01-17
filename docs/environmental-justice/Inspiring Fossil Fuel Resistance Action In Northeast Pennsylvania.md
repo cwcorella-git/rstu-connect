@@ -1,6 +1,7 @@
 ---
 title: Inspiring Fossil Fuel Resistance Action In Northeast Pennsylvania
 author: "Ted Glick -"
+date: 2016
 category: environmental-justice
 tags:
   - fossil fuels

@@ -1,5 +1,6 @@
 ---
 title: 'Climate Justice and Class Struggle: Online Screening Event'
+date: 2022
 category: environmental-justice
 tags:
   - environment

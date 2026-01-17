@@ -1,6 +1,7 @@
 ---
 title: XR call for just transition from North Sea oil to renewable energy
 author: "Gabriel Levy -"
+date: 2019
 category: feminist-theory
 tags:
   - environment

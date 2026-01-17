@@ -1,5 +1,6 @@
 ---
 title: Labor Wars in the U. S.
+date: 1877
 category: anti-war-peace
 tags:
   - labor

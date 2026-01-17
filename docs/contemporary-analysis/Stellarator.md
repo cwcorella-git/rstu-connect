@@ -1,5 +1,6 @@
 ---
 title: "Stellarator"
+date: 1951
 category: "contemporary-analysis"
 ---
 

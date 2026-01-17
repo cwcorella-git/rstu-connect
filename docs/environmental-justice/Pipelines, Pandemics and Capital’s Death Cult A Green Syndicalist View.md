@@ -1,6 +1,7 @@
 ---
 title: 'Pipelines, Pandemics and Capital''s Death Cult: A Green Syndicalist View'
 author: "Jeff Shantz -"
+date: 2021
 category: environmental-justice
 tags:
   - syndicalism

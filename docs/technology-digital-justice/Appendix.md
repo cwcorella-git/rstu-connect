@@ -1,5 +1,6 @@
 ---
 title: Appendix
+date: 1960
 category: technology-digital-justice
 tags:
   - technology

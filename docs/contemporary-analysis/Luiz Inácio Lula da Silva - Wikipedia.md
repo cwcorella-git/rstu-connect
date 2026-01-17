@@ -1,5 +1,6 @@
 ---
 title: Luiz Inácio Lula da Silva
+date: 2023
 category: contemporary-analysis
 tags:
   - unions

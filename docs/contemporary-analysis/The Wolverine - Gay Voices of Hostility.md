@@ -1,5 +1,6 @@
 ---
 title: "The Wolverine - Gay Voices of Hostility"
+date: 1980
 category: "contemporary-analysis"
 ---
 

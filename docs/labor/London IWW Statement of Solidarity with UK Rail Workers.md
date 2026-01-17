@@ -1,5 +1,6 @@
 ---
 title: London IWW Statement of Solidarity with UK Rail Workers
+date: 2022
 category: technology-digital-justice
 tags:
   - unions

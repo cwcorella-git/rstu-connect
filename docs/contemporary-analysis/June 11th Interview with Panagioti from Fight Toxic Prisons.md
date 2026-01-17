@@ -1,6 +1,7 @@
 ---
 title: 'June 11th: Interview with Panagioti from Fight Toxic Prisons'
 author: "June 11 -"
+date: 2018
 category: contemporary-analysis
 tags:
   - prisons

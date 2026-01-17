@@ -1,5 +1,6 @@
 ---
 title: "Identity crisis: Leftist anti-wokeness is bullshit"
+date: 2016
 category: "contemporary-analysis"
 ---
 

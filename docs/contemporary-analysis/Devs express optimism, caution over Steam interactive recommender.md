@@ -1,5 +1,6 @@
 ---
 title: Business News
+date: 2019
 category: contemporary-analysis
 tags: []
 ---

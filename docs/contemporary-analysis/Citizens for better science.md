@@ -1,5 +1,6 @@
 ---
 title: "Citizens for better science"
+date: 1971
 category: "contemporary-analysis"
 ---
 

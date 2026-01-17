@@ -1,5 +1,6 @@
 ---
 title: Digital commons
+date: 2018
 category: technology-digital-justice
 tags:
   - commons

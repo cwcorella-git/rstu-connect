@@ -1,5 +1,6 @@
 ---
 title: 'Wayward Notes on Feminism: A little bit of backwardness? - Stuart Wise'
+date: 2007
 category: feminist-theory
 tags:
   - feminism

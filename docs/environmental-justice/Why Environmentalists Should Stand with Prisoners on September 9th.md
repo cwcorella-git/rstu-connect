@@ -1,5 +1,6 @@
 ---
 title: Why Environmentalists Should Stand with Prisoners on September 9th
+date: 2016
 category: environmental-justice
 tags:
   - prisons

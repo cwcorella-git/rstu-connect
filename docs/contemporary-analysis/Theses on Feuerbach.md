@@ -1,5 +1,6 @@
 ---
 title: "Theses On Feuerbach"
+date: 1888
 category: "contemporary-analysis"
 ---
 

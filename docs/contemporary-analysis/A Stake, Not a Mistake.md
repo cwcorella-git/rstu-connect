@@ -1,5 +1,6 @@
 ---
 title: "James Herod A Stake, Not a Mistake On Not Seeing the Enemy October 2001"
+date: 1999
 category: "contemporary-analysis"
 ---
 

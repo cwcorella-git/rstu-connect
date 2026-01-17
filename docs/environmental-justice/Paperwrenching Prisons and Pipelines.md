@@ -1,5 +1,6 @@
 ---
 title: Paperwrenching Prisons and Pipelines
+date: 2017
 category: contemporary-analysis
 tags:
   - prisons

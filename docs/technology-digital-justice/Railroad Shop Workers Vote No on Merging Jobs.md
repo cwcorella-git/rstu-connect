@@ -1,5 +1,6 @@
 ---
 title: Railroad Shop Workers Vote No on Merging Jobs
+date: 2016
 category: technology-digital-justice
 tags:
   - labor

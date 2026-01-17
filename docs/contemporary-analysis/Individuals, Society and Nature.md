@@ -1,6 +1,7 @@
 ---
 title: "Individuals, Society and Nature"
 author: "Leonard Mortensen -"
+date: 2023
 category: "contemporary-analysis"
 ---
 

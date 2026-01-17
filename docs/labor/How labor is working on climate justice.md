@@ -1,5 +1,6 @@
 ---
 title: How labor is working on climate justice
+date: 2015
 category: labor
 tags:
   - labor

@@ -1,5 +1,6 @@
 ---
 title: 'Class War #9 1984'
+date: 1984
 category: labor
 tags:
   - anti-war

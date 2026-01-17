@@ -1,5 +1,6 @@
 ---
 title: Union Members Support Coal Phase Out at Levin Terminal in Richmond
+date: 2020
 category: environmental-justice
 tags:
   - unions

@@ -1,5 +1,6 @@
 ---
 title: "Persecution of Uyghurs in China"
+date: 2014
 category: "contemporary-analysis"
 ---
 

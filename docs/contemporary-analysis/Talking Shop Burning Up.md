@@ -1,5 +1,6 @@
 ---
 title: "Talking Shop: Burning Up"
+date: 2019
 category: "contemporary-analysis"
 ---
 

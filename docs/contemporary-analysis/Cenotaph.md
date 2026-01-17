@@ -1,5 +1,6 @@
 ---
 title: "Cenotaph"
+date: 1919
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Text of Irish Republican Army (IRA) 'Green Book' (Book I and II)
+date: 1958
 category: environmental-justice
 tags:
   - Ireland

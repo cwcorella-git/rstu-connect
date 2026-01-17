@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2022
   Union Advocates for Socialist Rifle Association Workers, Volunteers and
   Members
 category: contemporary-analysis

@@ -1,5 +1,6 @@
 ---
 title: "Following up on the FTP 2017 Convergence"
+date: 2017
 category: "contemporary-analysis"
 ---
 

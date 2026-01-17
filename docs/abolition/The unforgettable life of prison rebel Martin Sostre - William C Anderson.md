@@ -1,5 +1,7 @@
 ---
 title: The unforgettable life of prison rebel Martin Sostre - William C Anderson
+author: "William C Anderson"
+date: 2015
 category: abolition
 tags:
   - prisons

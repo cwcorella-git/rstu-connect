@@ -1,5 +1,6 @@
 ---
 title: 'Extinction Rebellion: Not the Struggle we Need, Pt. 1'
+date: 2017
 category: contemporary-analysis
 tags:
   - riots

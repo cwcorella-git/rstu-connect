@@ -1,5 +1,6 @@
 ---
 title: "Paul Krugman's Sorry Salvation"
+date: 2016
 category: "contemporary-analysis"
 ---
 

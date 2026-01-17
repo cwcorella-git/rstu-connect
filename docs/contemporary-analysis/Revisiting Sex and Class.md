@@ -1,5 +1,6 @@
 ---
 title: Revisiting Sex and Class
+date: 2017
 category: contemporary-analysis
 tags:
   - class

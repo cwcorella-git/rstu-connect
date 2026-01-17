@@ -1,6 +1,7 @@
 ---
 title: 'Bristol Earth Strike: Action for Earth Day'
 author: "Earth Strike UK -"
+date: 2021
 category: arts-culture-music
 tags:
   - strikes

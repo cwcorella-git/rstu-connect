@@ -1,5 +1,6 @@
 ---
 title: "Notes on the Death of Franco (Part I)"
+date: 1976
 category: "arts-culture-music"
 ---
 

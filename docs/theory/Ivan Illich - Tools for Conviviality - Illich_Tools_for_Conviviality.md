@@ -1,5 +1,6 @@
 ---
 title: Acknowledgments
+date: 1971
 category: theory
 tags:
   - theory

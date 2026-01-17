@@ -1,5 +1,6 @@
 ---
 title: "Paul and Percival Goodman Banning Cars from Manhattan 1961"
+date: 1961
 category: "contemporary-analysis"
 ---
 

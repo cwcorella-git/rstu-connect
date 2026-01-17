@@ -1,5 +1,6 @@
 ---
 title: John Reed Clubs and Proletarian Art—Part I
+date: 1933
 category: arts-culture-music
 tags:
   - solidarity

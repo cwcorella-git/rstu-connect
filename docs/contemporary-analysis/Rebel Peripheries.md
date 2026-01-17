@@ -1,5 +1,6 @@
 ---
 title: "Rebel Peripheries"
+date: 1937
 category: "contemporary-analysis"
 ---
 

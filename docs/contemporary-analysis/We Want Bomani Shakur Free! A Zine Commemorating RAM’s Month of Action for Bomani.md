@@ -1,5 +1,6 @@
 ---
 title: "We Want Bomani Shakur Free!: A Zine Commemorating RAM's Month of Action for Bomani"
+date: 2020
 category: "contemporary-analysis"
 ---
 

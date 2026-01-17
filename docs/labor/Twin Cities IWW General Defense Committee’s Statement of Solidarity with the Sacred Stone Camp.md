@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Erik Davis -"
+date: 2016
   Twin Cities IWW General Defense Committee's Statement of Solidarity with the
   Sacred Stone Camp*
 category: contemporary-analysis

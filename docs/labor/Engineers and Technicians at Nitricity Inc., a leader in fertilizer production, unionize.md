@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Max Baru -"
+date: 2022
   Engineers and Technicians at Nitricity Inc., a leader in fertilizer
   production, unionize
 category: labor

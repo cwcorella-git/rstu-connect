@@ -1,5 +1,6 @@
 ---
 title: "Jeremy Hammond's statement on the plea and sentencing of his brother, Jason Hammond"
+date: 2015
 category: "contemporary-analysis"
 ---
 

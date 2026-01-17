@@ -1,5 +1,6 @@
 ---
 title: 'Derinkuyu: History of Turkey''s Underground City'
+date: 1963
 category: contemporary-analysis
 tags:
   - urban

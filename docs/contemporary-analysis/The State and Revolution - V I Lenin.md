@@ -1,5 +1,6 @@
 ---
 title: "State and Revolution"
+date: 1918
 category: "contemporary-analysis"
 ---
 

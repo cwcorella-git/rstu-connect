@@ -1,5 +1,6 @@
 ---
 title: 'Capital Blight: The Two Bums'
+date: 2016
 category: contemporary-analysis
 tags:
   - capitalism

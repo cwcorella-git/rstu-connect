@@ -1,6 +1,7 @@
 ---
 title: The Green New Deal is Only a Beginning
 author: "Wobbly Ball - Open Letter, Summer 2019"
+date: 2019
 category: environmental-justice
 tags:
   - environment

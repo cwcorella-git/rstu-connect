@@ -1,5 +1,6 @@
 ---
 title: San Francisco IBU Opposes Coal Exports in Oakland!
+date: 2016
 category: environmental-justice
 tags:
   - environment

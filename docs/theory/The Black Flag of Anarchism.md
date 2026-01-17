@@ -1,5 +1,6 @@
 ---
 title: Paul Goodman
+date: 1968
 category: contemporary-analysis
 tags:
   - anarchism

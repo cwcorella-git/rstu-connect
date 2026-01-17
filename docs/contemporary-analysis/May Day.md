@@ -1,5 +1,6 @@
 ---
 title: "Albert Libertad"
+date: 1906
 category: "contemporary-analysis"
 ---
 

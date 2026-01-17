@@ -1,5 +1,6 @@
 ---
 title: "Episode 27: Problem Formulation/"
+date: 1990
 category: "contemporary-analysis"
 ---
 

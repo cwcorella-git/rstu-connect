@@ -1,5 +1,6 @@
 ---
 title: Organizing to End Prison Slavery with Bennu Hannibal Ra Sun
+date: 2012
 category: contemporary-analysis
 tags:
   - organizing

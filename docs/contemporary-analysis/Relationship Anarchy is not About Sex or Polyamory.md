@@ -1,5 +1,6 @@
 ---
 title: The Thinking Aro
+date: 2016
 category: contemporary-analysis
 tags:
   - anarchism

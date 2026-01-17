@@ -1,5 +1,6 @@
 ---
 title: One organizer's perspective on what drew them to the General Defense Committee
+date: 2017
 category: organizing
 tags:
   - organizing

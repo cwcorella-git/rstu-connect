@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2017
   UPTE-CWA resolution demanding University of California Retirement Plan (UCRP)
   divest from Energy Transfer Partners and from Banking Institutions that fund
   the Dakota Access Pipeline

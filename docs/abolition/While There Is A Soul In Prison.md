@@ -1,6 +1,7 @@
 ---
 title: While There Is A Soul In Prison
 author: "Marie Gottschalk, and the"
+date: 2016
 category: contemporary-analysis
 tags:
   - prisons

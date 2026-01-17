@@ -1,5 +1,6 @@
 ---
 title: Thermal energy storage
+date: 1995
 category: environmental-justice
 tags:
   - environment

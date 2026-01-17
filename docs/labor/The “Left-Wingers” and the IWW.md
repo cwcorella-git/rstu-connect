@@ -1,5 +1,6 @@
 ---
 title: The 'Left-Wingers' and the IWW
+date: 1908
 category: contemporary-analysis
 tags:
   - unions

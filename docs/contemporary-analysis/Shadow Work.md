@@ -1,6 +1,7 @@
 ---
 title: "Ivan Illich"
 author:
+date: 1980
 category: "contemporary-analysis"
 ---
 

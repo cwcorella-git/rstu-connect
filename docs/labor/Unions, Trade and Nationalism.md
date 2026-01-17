@@ -1,6 +1,7 @@
 ---
 title: 'Unions, Trade and Nationalism'
 author: "Tom Crofton -"
+date: 2017
 category: labor
 tags:
   - labor

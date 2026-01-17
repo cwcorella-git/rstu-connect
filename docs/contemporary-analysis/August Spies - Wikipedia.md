@@ -1,5 +1,6 @@
 ---
 title: "August Spies"
+date: 1855
 category: "contemporary-analysis"
 ---
 

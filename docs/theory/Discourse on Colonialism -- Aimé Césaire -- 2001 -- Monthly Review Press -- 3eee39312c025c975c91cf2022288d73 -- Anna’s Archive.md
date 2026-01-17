@@ -1,5 +1,6 @@
 ---
 title: COLONIALISM
+date: 1972
 category: theory
 tags:
   - theory

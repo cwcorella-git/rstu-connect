@@ -1,5 +1,6 @@
 ---
 title: Durham Teaching Assistants – Not Finished Yet?
+date: 2017
 category: labor
 tags:
   - labor

@@ -5,6 +5,7 @@ title: >-
   KNOW (FAQ) torontokeepyourrent@gmail.com | 647-874-8793 | Facebook: Keep
 category: housing
 author: Keeping Your
+date: 2020
 tags:
   - housing
   - tenants

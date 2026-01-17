@@ -1,5 +1,6 @@
 ---
 title: "To The CEOs of General Motors, Ford, and Stellantis:"
+date: 2023
 category: "contemporary-analysis"
 ---
 

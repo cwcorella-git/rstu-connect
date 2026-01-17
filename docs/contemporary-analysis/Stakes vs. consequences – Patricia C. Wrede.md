@@ -1,5 +1,6 @@
 ---
 title: Stakes vs. consequences – Patricia C. Wrede
+date: 2025
 category: contemporary-analysis
 tags: []
 ---

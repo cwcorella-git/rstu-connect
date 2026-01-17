@@ -1,5 +1,6 @@
 ---
 title: Capital and the Left - Nicole Cox and Silvia Federici
+date: 1975
 category: contemporary-analysis
 tags:
   - capitalism

@@ -1,5 +1,6 @@
 ---
 title: 'Florida Gears-Up to Offer Solidarity to #Operation Push'
+date: 2018
 category: contemporary-analysis
 tags:
   - solidarity

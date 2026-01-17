@@ -1,5 +1,6 @@
 ---
 title: Albert Parsons
+date: 1873
 category: labor
 tags:
   - labor

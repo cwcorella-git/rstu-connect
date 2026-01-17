@@ -1,5 +1,6 @@
 ---
 title: Emma Goldman Anarchism and Other Essays
+date: 1887
 category: theory
 tags:
   - anarchism

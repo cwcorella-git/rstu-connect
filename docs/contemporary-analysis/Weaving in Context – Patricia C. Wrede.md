@@ -1,5 +1,6 @@
 ---
 title: Weaving in Context – Patricia C. Wrede
+date: 2024
 category: contemporary-analysis
 tags: []
 ---

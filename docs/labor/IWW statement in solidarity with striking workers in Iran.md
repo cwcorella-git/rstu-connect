@@ -1,5 +1,6 @@
 ---
 title: IWW statement in solidarity with striking workers in Iran
+date: 2018
 category: labor
 tags:
   - unions

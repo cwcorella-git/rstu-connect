@@ -1,5 +1,6 @@
 ---
 title: Why did Plane Stupid chain themselves to the runway at Stansted Airport?
+date: 2017
 category: technology-digital-justice
 tags:
   - technology

@@ -1,5 +1,6 @@
 ---
 title: Why work and workers matter in the environmental debate
+date: 2016
 category: environmental-justice
 tags:
   - labor

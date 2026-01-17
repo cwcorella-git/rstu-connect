@@ -1,5 +1,6 @@
 ---
 title: A Climate Plan that Works for Workers
+date: 2016
 category: labor
 tags:
   - labor

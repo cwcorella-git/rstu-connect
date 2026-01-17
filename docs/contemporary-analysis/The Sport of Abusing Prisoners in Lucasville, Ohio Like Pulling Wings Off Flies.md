@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2020
   The Sport of Abusing Prisoners in Lucasville, Ohio: Like Pulling Wings Off
   Flies
 category: contemporary-analysis

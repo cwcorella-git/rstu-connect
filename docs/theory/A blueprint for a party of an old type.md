@@ -1,5 +1,6 @@
 ---
 title: A blueprint for a party of an old type
+date: 2016
 category: theory
 tags:
   - theory

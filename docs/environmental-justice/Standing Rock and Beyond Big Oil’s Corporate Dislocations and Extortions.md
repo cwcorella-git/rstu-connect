@@ -1,6 +1,7 @@
 ---
 title: 'Standing Rock and Beyond: Big Oil''s Corporate Dislocations and Extortions'
 author: "Wendell G Bradley -"
+date: 2016
 category: environmental-justice
 tags:
   - fossil fuels

@@ -1,5 +1,6 @@
 ---
 title: Bookchin on Technology
+date: 1978
 category: arts-culture-music
 tags:
   - Bookchin

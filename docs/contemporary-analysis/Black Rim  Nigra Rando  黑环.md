@@ -1,5 +1,6 @@
 ---
 title: "Black Rim / Nigra Rando / ■■"
+date: 1978
 category: "contemporary-analysis"
 ---
 

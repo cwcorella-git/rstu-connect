@@ -1,5 +1,6 @@
 ---
 title: Deschooling Society
+date: 1971
 category: theory
 tags:
   - education

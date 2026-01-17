@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Labor for Standing Rock -"
+date: 2017
   A healthy planet for our children to inherit, or destroying the earth for
   jobs? Join Thousands
 category: arts-culture-music

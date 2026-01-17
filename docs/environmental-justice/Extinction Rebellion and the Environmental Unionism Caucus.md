@@ -1,5 +1,6 @@
 ---
 title: Extinction Rebellion and the Environmental Unionism Caucus
+date: 2018
 category: environmental-justice
 tags:
   - riots

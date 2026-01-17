@@ -1,5 +1,6 @@
 ---
 title: Are We Ready for AI to Raise the Dead?
+date: 2023
 category: arts-culture-music
 tags: []
 ---

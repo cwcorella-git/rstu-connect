@@ -1,6 +1,7 @@
 ---
 title: >-
 author: "Panagioti Tsolkas and Nicholas Todd -"
+date: 2016
   From Pipelines to Prisons: The intersection of native rights, mass
   incarceration and environmen
 category: labor

@@ -1,5 +1,6 @@
 ---
 title: INDEX
+date: 2017
 category: environmental-justice
 tags:
   - environment

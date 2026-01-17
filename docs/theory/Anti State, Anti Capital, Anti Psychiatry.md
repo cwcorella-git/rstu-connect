@@ -1,5 +1,6 @@
 ---
 title: 'Anti State, Anti Capital, Anti Psychiatry'
+date: 1965
 category: theory
 tags:
   - capitalism

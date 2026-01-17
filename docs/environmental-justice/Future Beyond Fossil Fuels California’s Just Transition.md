@@ -1,5 +1,6 @@
 ---
 title: 'Future Beyond Fossil Fuels: California''s Just Transition'
+date: 2020
 category: feminist-theory
 tags:
   - fossil fuels
