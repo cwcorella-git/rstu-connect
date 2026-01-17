@@ -1,6 +1,13 @@
 ---
 title: "Amazon Strikes on Prime Day"
 category: "contemporary-analysis"
+tags:
+  - retail-and-food
+  - strikes
+  - spain
+  - amazon
+  - germany
+  - uk
 ---
 
 ## **Amazon Strikes on Prime Day**

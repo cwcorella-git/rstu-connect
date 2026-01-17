@@ -1,6 +1,11 @@
 ---
 title: "Inside Story #2 1972"
 category: "contemporary-analysis"
+tags:
+  - abortion
+  - pdf
+  - feminism
+  - media-and-culture
 ---
 
 ## **Inside Story #2 1972**

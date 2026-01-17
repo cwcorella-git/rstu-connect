@@ -3,6 +3,10 @@ title: "The Revolution in Work Calls for an Evolution in Living"
 author: "Graham Peebles -"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - green-economics
+  - green-unionism
+  - green-syndicalism
 ---
 
 ## **The Revolution in Work Calls for an Evolution in Living**

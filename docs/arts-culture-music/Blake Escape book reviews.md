@@ -2,6 +2,16 @@
 title: "Blake Escape: book reviews"
 date: 1969
 category: "arts-culture-music"
+tags:
+  - solidarity
+  - 1960s
+  - 1990s
+  - prisons
+  - cold-war
+  - book-reviews
+  - george-blake
+  - pat-pottle
+  - michael
 ---
 
 ## **Blake Escape: book reviews**

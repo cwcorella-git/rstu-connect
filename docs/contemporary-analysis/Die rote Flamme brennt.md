@@ -1,6 +1,10 @@
 ---
 title: "Die rote Flamme brennt"
 category: "contemporary-analysis"
+tags:
+  - pete-davies
+  - spuren-der-solidarität
+  - deutsch
 ---
 
 ## **Die rote Flamme brennt**

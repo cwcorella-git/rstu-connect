@@ -2,6 +2,14 @@
 title: "José Peirats: a comrade, a friend - Federico Arcos"
 date: 1962
 category: "contemporary-analysis"
+tags:
+  - federico-arcos
+  - josé-peirats
+  - fifth-estate
+  - anarchism
+  - anarcho-syndicalism
+  - obituaries
+  - solidaridad-obrera
 ---
 
 ## **José Peirats: a comrade, a friend - Federico Arcos**

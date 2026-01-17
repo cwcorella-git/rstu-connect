@@ -2,6 +2,13 @@
 title: "Scotland Yardies"
 date: 1997
 category: "contemporary-analysis"
+tags:
+  - black-flag
+  - drugs
+  - police
+  - brixton
+  - jamaica
+  - 1990s
 ---
 
 ## **Scotland Yardies**

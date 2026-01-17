@@ -3,6 +3,13 @@ title: "Corporations Call for 'Net Zero' Emissions: Do They Know How to Get Ther
 author: "Sean Sweeney -"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - renewable-energy
+  - green-capitalism
+  - ecosocialism
+  - green-unionism
+  - just-transition
+  - sean
 ---
 
 # **Corporations Call for "Net Zero" Emissions: Do They Know How to Get There?**

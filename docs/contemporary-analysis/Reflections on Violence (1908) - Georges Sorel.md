@@ -2,6 +2,11 @@
 title: "Reflections on Violence (1908) - Georges Sorel"
 date: 1908
 category: "contemporary-analysis"
+tags:
+  - marxism
+  - fascism
+  - syndicalism
+  - georges-sorel
 ---
 
 ## **Reflections on Violence (1908) - Georges Sorel**

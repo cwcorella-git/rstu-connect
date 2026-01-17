@@ -1,6 +1,13 @@
 ---
 title: "And One With No Answers - Udo Renkes"
 category: "contemporary-analysis"
+tags:
+  - 1980s
+  - police
+  - germany
+  - squatting
+  - berlin
+  - udo-renkes
 ---
 
 ## **And One With No Answers - Udo Renkes**

@@ -1,6 +1,12 @@
 ---
 title: "Fuck empires, support local resistances."
 category: "contemporary-analysis"
+tags:
+  - solidarity-collectives
+  - anarchism
+  - anti-fascism
+  - anti-imperialism
+  - ukraine
 ---
 
 ## **Fuck empires, support local resistances.**

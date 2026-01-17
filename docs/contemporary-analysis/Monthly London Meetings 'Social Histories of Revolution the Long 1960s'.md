@@ -1,6 +1,12 @@
 ---
 title: "Monthly London Meetings: 'Social Histories of Revolution: the Long 1960s'"
 category: "contemporary-analysis"
+tags:
+  - 1960s
+  - vietnam-war
+  - social-movements
+  - france-1968
+  - feminism
 ---
 
 ## **Monthly London Meetings: 'Social Histories of Revolution: the Long 1960s'**

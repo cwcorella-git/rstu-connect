@@ -1,6 +1,13 @@
 ---
 title: "Funerals of Vladislav 'Pirate' Iurchenko"
 category: "contemporary-analysis"
+tags:
+  - solidarity-collectives
+  - anarchism
+  - internationalism
+  - anti-fascism
+  - anti-colonialism
+  - ukraine
 ---
 
 ## **Funerals of Vladislav 'Pirate' Iurchenko**

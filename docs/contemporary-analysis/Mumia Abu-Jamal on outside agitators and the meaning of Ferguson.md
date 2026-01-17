@@ -1,6 +1,12 @@
 ---
 title: "Mumia Abu-Jamal on \"outside agitators\" and the meaning of Ferguson"
 category: "contemporary-analysis"
+tags:
+  - united-states
+  - 2014-ferguson-unrest
+  - black-lives-matter-movement
+  - mumia-abu-jamal
+  - police
 ---
 
 ## **Mumia Abu-Jamal on "outside agitators" and the meaning of Ferguson**

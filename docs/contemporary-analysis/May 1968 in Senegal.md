@@ -2,6 +2,15 @@
 title: "May 1968 in Senegal"
 date: 1961
 category: "contemporary-analysis"
+tags:
+  - lassou
+  - strikes
+  - schools
+  - general-strikes
+  - students
+  - universities
+  - school-students
+  - senegal
 ---
 
 ## **May 1968 in Senegal**

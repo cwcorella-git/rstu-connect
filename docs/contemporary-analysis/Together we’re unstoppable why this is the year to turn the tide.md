@@ -3,6 +3,14 @@ title: "Together we're unstoppable: why this is the year to turn the tide"
 author: "Rosa Fields -"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - plane-stupid
+  - blockadia
+  - heathrow
+  - climate-justice
+  - ella-gilbert
+  - bec-sanderson
+  - iww
 ---
 
 ## **Together we're unstoppable: why this is the year to turn the tide**

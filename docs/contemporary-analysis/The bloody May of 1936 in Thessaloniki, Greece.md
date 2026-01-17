@@ -2,6 +2,15 @@
 title: "The bloody May of 1936 in Thessaloniki, Greece"
 date: 1936
 category: "contemporary-analysis"
+tags:
+  - welcometospace
+  - strikes
+  - general-strikes
+  - massacres
+  - repression
+  - pensions
+  - greece
+  - 8-hour-day
 ---
 
 ## **The bloody May of 1936 in Thessaloniki, Greece**

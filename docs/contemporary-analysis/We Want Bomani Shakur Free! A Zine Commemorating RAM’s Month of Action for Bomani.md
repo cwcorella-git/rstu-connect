@@ -2,6 +2,17 @@
 title: "We Want Bomani Shakur Free!: A Zine Commemorating RAM's Month of Action for Bomani"
 date: 2020
 category: "contemporary-analysis"
+tags:
+  - united-states
+  - riots
+  - repression
+  - prisons
+  - ohio
+  - lucasville
+  - keith-malik-washington
+  - revolutionary-abolitionist-movement
+  - bomani-shakur
+  - true-leap-press
 ---
 
 ## **We Want Bomani Shakur Free!: A Zine Commemorating RAM's Month of Action for Bomani**

@@ -2,6 +2,14 @@
 title: "Southall Black Sisters interview - Black Flag"
 date: 1980
 category: "contemporary-analysis"
+tags:
+  - black-flag
+  - united-kingdom
+  - interviews
+  - feminism
+  - domestic-violence
+  - 1970s-80s-asians-fight-racism
+  - migration
 ---
 
 ## **Southall Black Sisters interview - Black Flag**

@@ -1,6 +1,15 @@
 ---
 title: "Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune"
 category: "contemporary-analysis"
+tags:
+  - education
+  - uprisings
+  - students
+  - universities
+  - school-students
+  - philippines
+  - gasera-journal
+  - randy
 ---
 
 ## **Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune**

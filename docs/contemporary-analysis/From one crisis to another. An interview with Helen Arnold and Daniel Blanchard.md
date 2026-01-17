@@ -2,6 +2,12 @@
 title: "From one crisis to another. An interview with Helen Arnold and Daniel Blanchard"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - socialisme-ou-barbarie
+  - murray-bookchin
+  - daniel-blanchard
+  - may-68
+  - crisis
 ---
 
 ## **From one crisis to another. An interview with Helen Arnold and Daniel Blanchard**

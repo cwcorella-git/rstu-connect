@@ -2,6 +2,12 @@
 title: "Reader about the Syrian Revolution"
 date: 2012
 category: "contemporary-analysis"
+tags:
+  - revolutions
+  - arab-spring
+  - syria
+  - anarchism
+  - rojava
 ---
 
 ## **Reader about the Syrian Revolution**

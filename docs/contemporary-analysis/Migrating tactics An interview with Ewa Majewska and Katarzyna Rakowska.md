@@ -2,6 +2,12 @@
 title: "Migrating tactics: An interview with Ewa Majewska and Katarzyna Rakowska"
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - interviews
+  - poland
+  - abortion
+  - feminism
+  - pdf
 ---
 
 ## **Migrating tactics: An interview with Ewa Majewska and Katarzyna Rakowska**

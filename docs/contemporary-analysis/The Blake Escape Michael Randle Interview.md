@@ -2,6 +2,15 @@
 title: "The Blake Escape: Michael Randle Interview"
 date: 1982
 category: "contemporary-analysis"
+tags:
+  - black-flag
+  - nicolas-walter
+  - 1980s
+  - 1960s
+  - prisons
+  - united-kingdom
+  - interviews
+  - cold-war
 ---
 
 ## **The Blake Escape: Michael Randle Interview**

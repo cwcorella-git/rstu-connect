@@ -2,6 +2,12 @@
 title: "Buddhism and the Coming Revolution - Gary Snyder"
 date: 1961
 category: "contemporary-analysis"
+tags:
+  - gary-snyder
+  - buddhism
+  - anarchism
+  - vietnam-war
+  - religion
 ---
 
 ## **Buddhism and the Coming Revolution - Gary Snyder**

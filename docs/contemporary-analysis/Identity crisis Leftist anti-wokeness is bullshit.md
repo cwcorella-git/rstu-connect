@@ -2,6 +2,12 @@
 title: "Identity crisis: Leftist anti-wokeness is bullshit"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - class
+  - racism
+  - feminism
+  - adolph-l.-reed-jr.
+  - intersectionality
 ---
 
 # **Identity crisis: Leftist anti-wokeness is bullshit**

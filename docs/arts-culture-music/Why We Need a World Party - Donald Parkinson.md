@@ -1,6 +1,12 @@
 ---
 title: "Why We Need a World Party - Donald Parkinson"
 category: "arts-culture-music"
+tags:
+  - organisation
+  - syndicalism
+  - left-communism
+  - donald-parkinson
+  - communist-league-of-tampa
 ---
 
 ## **Why We Need a World Party - Donald Parkinson**

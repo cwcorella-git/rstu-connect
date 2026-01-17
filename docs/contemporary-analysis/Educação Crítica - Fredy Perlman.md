@@ -1,6 +1,11 @@
 ---
 title: "Educação Crítica - Fredy Perlman"
 category: "contemporary-analysis"
+tags:
+  - fredy-perlman
+  - education
+  - universities
+  - português
 ---
 
 # **Educação Crítica - Fredy Perlman**

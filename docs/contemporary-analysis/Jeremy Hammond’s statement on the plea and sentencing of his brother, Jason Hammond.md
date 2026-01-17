@@ -2,6 +2,12 @@
 title: "Jeremy Hammond's statement on the plea and sentencing of his brother, Jason Hammond"
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - united-states
+  - police
+  - repression
+  - chicago
+  - jeremy-hammond
 ---
 
 ## **Jeremy Hammond's statement on the plea and sentencing of his brother, Jason Hammond**

@@ -3,6 +3,14 @@ title: "Well, If You Ask Me: Flint"
 author: "Dano T. Bob"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - dano-t-bob
+  - flint
+  - water-pollution
+  - disaster-capitalism
+  - privatization
+  - toxics
+  - health-and-safety
 ---
 
 ## **Well, If You Ask Me: Flint**

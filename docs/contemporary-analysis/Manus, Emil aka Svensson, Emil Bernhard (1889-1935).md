@@ -2,6 +2,13 @@
 title: "Manus, Emil aka Svensson, Emil Bernhard (1889-1935)"
 date: 1945
 category: "contemporary-analysis"
+tags:
+  - nick-heath
+  - sweden
+  - sveriges-arbetares-centralorganisation
+  - anarchists
+  - biographies
+  - syndicalism
 ---
 
 ## **Manus, Emil aka Svensson, Emil Bernhard (1889-1935)**

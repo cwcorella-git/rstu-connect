@@ -2,6 +2,12 @@
 title: "Hot Summer in Greece: The Lockdown Abates—the Struggle Continues"
 date: 1973
 category: "contemporary-analysis"
+tags:
+  - crimeth-inc.
+  - repression
+  - prisons
+  - greece
+  - athens
 ---
 
 ## **Hot Summer in Greece: The Lockdown Abates—the Struggle Continues**

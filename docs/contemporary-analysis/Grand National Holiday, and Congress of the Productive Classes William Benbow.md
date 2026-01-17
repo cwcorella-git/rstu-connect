@@ -1,6 +1,11 @@
 ---
 title: "Grand National Holiday, and Congress of the Productive Classes: William Benbow"
 category: "contemporary-analysis"
+tags:
+  - general-strikes
+  - 1800s
+  - 1830s
+  - william-benbow
 ---
 
 ## **Grand National Holiday, and Congress of the Productive Classes: William Benbow**

@@ -3,6 +3,10 @@ title: "The Problem with Only Striking"
 author: "IWW Bruxelles -"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - strategy-and-tactics
+  - class-struggle
+  - deep-organizing
 ---
 
 ## **The Problem with Only Striking**

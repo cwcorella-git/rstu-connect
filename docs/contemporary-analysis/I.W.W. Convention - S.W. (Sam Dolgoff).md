@@ -2,6 +2,8 @@
 title: "I. W. W. Convention - S. W. (Sam Dolgoff)"
 date: 1938
 category: "contemporary-analysis"
+tags:
+  - sam-dolgoff
 ---
 
 ## **I. W. W. Convention - S. W. (Sam Dolgoff)**

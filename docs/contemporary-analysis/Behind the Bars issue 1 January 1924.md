@@ -2,6 +2,12 @@
 title: "Behind the Bars issue 1 January 1924"
 date: 1924
 category: "contemporary-analysis"
+tags:
+  - anarchist-red-cross
+  - anarchism
+  - anarchist-black-cross
+  - international-solidarity
+  - mollie-steimer
 ---
 
 ## **Behind the Bars issue 1 January 1924**

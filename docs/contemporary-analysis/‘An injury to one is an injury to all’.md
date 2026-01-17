@@ -3,6 +3,14 @@ title: "'An injury to one is an injury to all'"
 author: "Angela K. Evans -"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - green-unionism
+  - yellow-unionism
+  - labor-union-camp
+  - nodapl
+  - energy-transfer
+  - pipelines
+  - afl-cio
 ---
 
 ## **'An injury to one is an injury to all'**

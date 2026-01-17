@@ -2,6 +2,11 @@
 title: "Interview With John Paul Wright"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - j.-p.-wright
+  - railroad-workers
+  - green-unionism-by-john-carico---fifth-column
+  - march-26
 ---
 
 ## **Interview With John Paul Wright**

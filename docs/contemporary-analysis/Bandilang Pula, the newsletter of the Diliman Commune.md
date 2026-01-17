@@ -1,6 +1,13 @@
 ---
 title: "Bandilang Pula, the newsletter of the Diliman Commune"
 category: "contemporary-analysis"
+tags:
+  - education
+  - students
+  - universities
+  - philippines
+  - student-strikes
+  - bandilang-pula
 ---
 
 ## **Bandilang Pula, the newsletter of the Diliman Commune**

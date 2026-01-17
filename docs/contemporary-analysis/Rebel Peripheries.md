@@ -2,6 +2,16 @@
 title: "Rebel Peripheries"
 date: 1937
 category: "contemporary-analysis"
+tags:
+  - simoun-magsalin
+  - muntjac-magazine
+  - bandilang-itim
+  - guerrilla
+  - philippines
+  - maoism
+  - maoists
+  - anarchism
+  - communisation
 ---
 
 ## **Rebel Peripheries**

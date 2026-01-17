@@ -1,6 +1,13 @@
 ---
 title: "The Cordobazo, 1969, photo gallery"
 category: "contemporary-analysis"
+tags:
+  - general-strikes
+  - riots
+  - uprisings
+  - argentina
+  - cordoba
+  - cordobazo-1969
 ---
 
 ## **The Cordobazo, 1969, photo gallery**

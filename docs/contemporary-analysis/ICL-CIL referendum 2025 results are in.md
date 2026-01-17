@@ -2,6 +2,9 @@
 title: "ICL-CIL referendum 2025: results are in"
 date: 2025
 category: "contemporary-analysis"
+tags:
+  - cnt-f
+  - federation-of-general-workers-myanmar
 ---
 
 ## **ICL-CIL referendum 2025: results are in**

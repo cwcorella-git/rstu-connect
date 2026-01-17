@@ -3,6 +3,15 @@ title: "Who Bombed Judi Bari? Feature Documentary"
 author: "Darryl Cherney -"
 date: 1990
 category: "contemporary-analysis"
+tags:
+  - judi-bari
+  - darryl-cherney
+  - earth-first!
+  - earth-first!---iww-local-1
+  - green-unionism
+  - green-syndicalism
+  - california
+  - mendocino-county
 ---
 
 ## **Who Bombed Judi Bari? Feature Documentary**

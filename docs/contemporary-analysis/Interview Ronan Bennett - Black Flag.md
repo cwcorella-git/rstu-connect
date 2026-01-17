@@ -2,6 +2,14 @@
 title: "Interview: Ronan Bennett - Black Flag"
 date: 1974
 category: "contemporary-analysis"
+tags:
+  - black-flag
+  - media-and-culture
+  - prisons
+  - northern-ireland
+  - united-kingdom
+  - interviews
+  - ronan
 ---
 
 ## **Interview: Ronan Bennett - Black Flag**

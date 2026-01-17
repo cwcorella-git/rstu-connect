@@ -2,6 +2,11 @@
 title: "To kick ICE out requires action, to keep them out requires organization"
 date: 2025
 category: "contemporary-analysis"
+tags:
+  - black-rose-anarchist-federation
+  - immigration-and-customs-enforcement
+  - migration
+  - donald
 ---
 
 ## **To kick ICE out requires action, to keep them out requires organization**

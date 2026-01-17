@@ -2,6 +2,15 @@
 title: "Interview: Adil Rahman of Newham Monitoring Project - Black Flag"
 date: 1980
 category: "contemporary-analysis"
+tags:
+  - black-flag
+  - 1990s
+  - london
+  - united-kingdom
+  - interviews
+  - newham
+  - tower-hamlets
+  - newham
 ---
 
 ## **Interview: Adil Rahman of Newham Monitoring Project - Black Flag**

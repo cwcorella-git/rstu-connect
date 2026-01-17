@@ -2,6 +2,13 @@
 title: "Black Rim / Nigra Rando / ■■"
 date: 1978
 category: "contemporary-analysis"
+tags:
+  - killing-king-abacus
+  - hsi-hsuan-wou
+  - dc
+  - asia
+  - anarchism
+  - japan
 ---
 
 # **Black Rim / Nigra Rando /** ■■

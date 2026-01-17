@@ -1,6 +1,11 @@
 ---
 title: "Revolution - an unfinished business"
 category: "contemporary-analysis"
+tags:
+  - anarchist-federation
+  - class-war-federation
+  - groups
+  - united-kingdom
 ---
 
 ## **Revolution - an unfinished business**

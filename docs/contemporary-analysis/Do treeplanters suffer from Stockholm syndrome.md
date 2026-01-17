@@ -2,6 +2,10 @@
 title: "Do treeplanters suffer from Stockholm syndrome?"
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - timber-workers
+  - green-unionism
+  - green-syndicalism
 ---
 
 ## **Do treeplanters suffer from Stockholm syndrome?**

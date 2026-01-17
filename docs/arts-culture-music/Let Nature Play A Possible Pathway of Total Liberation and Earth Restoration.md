@@ -3,6 +3,16 @@ title: "Let Nature Play: A Possible Pathway of Total Liberation and Earth Restor
 author: "Dan Fischer -"
 date: 2012
 category: "arts-culture-music"
+tags:
+  - shorter-work-hours
+  - green-syndicalism
+  - anti-productivism
+  - autonomism
+  - iww-environmental-unionism-caucus
+  - lucas-plan
+  - porto-marghera-workerist-group
+  - la-via-campesina
+  - earth-first!---iww-local-1
 ---
 
 ## **Let Nature Play: A Possible Pathway of Total Liberation and Earth Restoration**

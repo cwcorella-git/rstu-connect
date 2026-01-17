@@ -2,6 +2,13 @@
 title: "Augusto Masetti (1888–1966)"
 date: 1888
 category: "contemporary-analysis"
+tags:
+  - fiorenza-tarozzi
+  - psychiatry
+  - anti-colonialism
+  - r.-d.-laing
+  - thomas-szasz
+  - ivan-illich
 ---
 
 ## **Augusto Masetti (1888–1966)**

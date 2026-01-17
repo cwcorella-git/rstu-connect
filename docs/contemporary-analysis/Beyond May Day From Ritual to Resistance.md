@@ -2,6 +2,13 @@
 title: "Beyond May Day: From Ritual to Resistance"
 date: 1968
 category: "contemporary-analysis"
+tags:
+  - general-strikes
+  - direct-action
+  - unions
+  - may-day
+  - jeff-shantz
+  - revolutionary-unionism
 ---
 
 # **Beyond May Day: From Ritual to Resistance**

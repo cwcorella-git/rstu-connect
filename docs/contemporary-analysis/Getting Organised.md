@@ -1,6 +1,10 @@
 ---
 title: "Getting Organised"
 category: "contemporary-analysis"
+tags:
+  - organisation
+  - class-war-federation
+  - united-kingdom
 ---
 
 ## **Getting Organised**

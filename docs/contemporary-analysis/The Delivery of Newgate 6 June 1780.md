@@ -2,6 +2,15 @@
 title: "The Delivery of Newgate 6 June 1780"
 date: 1956
 category: "contemporary-analysis"
+tags:
+  - midnight-notes-collective
+  - riots
+  - prisons
+  - london
+  - united-kingdom
+  - legal
+  - security-industry
+  - 1700s
 ---
 
 # **The Delivery of Newgate 6 June 1780**

@@ -1,6 +1,15 @@
 ---
 title: "El Manifesto de Aceleracionismo de Género"
 category: "contemporary-analysis"
+tags:
+  - español
+  - feminism
+  - gender
+  - housework
+  - historical-materialism
+  - transgender
+  - vikky-storm
+  - eme
 ---
 
 # **El Manifesto de Aceleracionismo de Género**

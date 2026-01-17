@@ -1,6 +1,11 @@
 ---
 title: "Björklund, Carl Johan (1884-1971)"
 category: "contemporary-analysis"
+tags:
+  - nick-heath
+  - sweden
+  - antimilitarism
+  - anarchism
 ---
 
 ## **Björklund, Carl Johan (1884-1971)**

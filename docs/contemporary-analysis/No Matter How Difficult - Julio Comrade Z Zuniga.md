@@ -2,6 +2,12 @@
 title: "No Matter How Difficult - Julio \"Comrade Z\" Zuniga"
 date: 1913
 category: "contemporary-analysis"
+tags:
+  - united-states
+  - prisons
+  - texas
+  - incarcerated-workers-organizing-committee
+  - julio-comrade-z
 ---
 
 ## **No Matter How Difficult - Julio "Comrade Z" Zuniga**

@@ -3,6 +3,13 @@ title: "Still Standing or Standing Still?"
 author: "Robert Lambert -"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - green-unionism
+  - globalization
+  - ecosocialism
+  - green-syndicalism
+  - movement-politics
+  - capitalism
 ---
 
 # **Still Standing or Standing Still?**

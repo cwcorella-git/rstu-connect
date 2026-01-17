@@ -2,6 +2,11 @@
 title: "A letter to the libertarian left"
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - libertarian-socialist-caucus
+  - especifismo
+  - libertarian-socialism
+  - anarchism
 ---
 
 ## **A letter to the libertarian left**

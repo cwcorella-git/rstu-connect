@@ -2,6 +2,12 @@
 title: "A Right Result"
 date: 1991
 category: "contemporary-analysis"
+tags:
+  - fascism
+  - 1990s
+  - united-kingdom
+  - hertfordshire
+  - police
 ---
 
 ## **A Right Result**

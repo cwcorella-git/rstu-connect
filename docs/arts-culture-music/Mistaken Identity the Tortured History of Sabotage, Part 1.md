@@ -2,6 +2,15 @@
 title: "Mistaken Identity: the Tortured History of Sabotage, Part 1"
 date: 2016
 category: "arts-culture-music"
+tags:
+  - x344543
+  - green-unionism
+  - green-syndicalism
+  - sabotage
+  - direct-action
+  - earth-first!
+  - ralph-chaplin
+  - elizabeth-gurley-flynn
 ---
 
 ## **Mistaken Identity: the Tortured History of Sabotage, Part 1**

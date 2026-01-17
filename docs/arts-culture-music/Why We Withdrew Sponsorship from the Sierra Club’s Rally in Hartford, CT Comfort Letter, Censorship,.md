@@ -2,6 +2,10 @@
 title: "Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censo"
 date: 2016
 category: "arts-culture-music"
+tags:
+  - sierra-club
+  - big-green
+  - movement-politics
 ---
 
 ## **Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censorship, and Compromise!**

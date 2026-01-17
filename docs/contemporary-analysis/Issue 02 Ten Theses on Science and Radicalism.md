@@ -2,6 +2,12 @@
 title: "Issue 02: Ten Theses on Science and Radicalism"
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - the-peer-review
+  - covid-19
+  - science
+  - anarchism
+  - pdf
 ---
 
 ## **Issue 02: Ten Theses on Science and Radicalism**

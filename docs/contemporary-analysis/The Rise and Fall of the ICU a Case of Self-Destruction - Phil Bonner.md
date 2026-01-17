@@ -2,6 +2,13 @@
 title: "The Rise and Fall of the ICU: a Case of Self-Destruction? - Phil Bonner"
 date: 1978
 category: "contemporary-analysis"
+tags:
+  - racism
+  - south-africa
+  - unions
+  - syndicalism
+  - phil-bonner
+  - industrial-and-commercial-workers
 ---
 
 ## **The Rise and Fall of the ICU: a Case of Self-Destruction? - Phil Bonner**

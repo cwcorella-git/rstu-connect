@@ -2,6 +2,13 @@
 title: "Fuck Empires! Підтримуйте місцевий опір. (Fuck Empires! Support Local Resistance)"
 author: "Solidarity Collectives"
 category: "contemporary-analysis"
+tags:
+  - solidarity-collectives
+  - anarchism
+  - anti-fascism
+  - anti-imperialism
+  - anti-colonialism
+  - russia-
 ---
 
 ## **Fuck Empires! Підтримуйте місцевий опір. (Fuck Empires! Support Local Resistance)**

@@ -1,6 +1,10 @@
 ---
 title: "Book Review | Beyond the Periphery of the Skin"
 category: "arts-culture-music"
+tags:
+  - silvia-federici
+  - feminism
+  - aragorn-eloff
 ---
 
 ## **Book Review | Beyond the Periphery of the Skin**

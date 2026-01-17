@@ -2,6 +2,12 @@
 title: "Montague \"Monty\" Miller - 1831 -1920"
 date: 1920
 category: "contemporary-analysis"
+tags:
+  - anarchism
+  - world-war-i
+  - australia
+  - biographies
+  - monty
 ---
 
 ## **Montague "Monty" Miller - 1831 -1920**

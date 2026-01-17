@@ -1,6 +1,11 @@
 ---
 title: "Hipsterphobia - Cava Sundays"
 category: "contemporary-analysis"
+tags:
+  - culture
+  - racism
+  - class-war-federation
+  - london
 ---
 
 ## **Hipsterphobia - Cava Sundays**

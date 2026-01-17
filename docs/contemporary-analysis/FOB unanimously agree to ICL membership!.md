@@ -2,6 +2,11 @@
 title: "FOB unanimously agree to ICL membership!"
 date: 2025
 category: "contemporary-analysis"
+tags:
+  - international-confederation-of-labour
+  - anarcho-syndicalism
+  - syndicalism
+  - brazil
 ---
 
 ## **FOB unanimously agree to ICL membership!**

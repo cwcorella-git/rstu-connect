@@ -3,6 +3,12 @@ title: "A new Lucas Plan for the future"
 author: "David King -"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - lucas-plan
+  - green-syndicalism
+  - green-unionism
+  - ecosocialism
+  - just-transition
 ---
 
 ## **A new Lucas Plan for the future**

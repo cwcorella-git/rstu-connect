@@ -1,6 +1,10 @@
 ---
 title: "You There, Lift Your Skinny Fists!"
 category: "contemporary-analysis"
+tags:
+  - kristin-supine
+  - anti-fascism
+  - class-struggle
 ---
 
 ## **You There, Lift Your Skinny Fists!**

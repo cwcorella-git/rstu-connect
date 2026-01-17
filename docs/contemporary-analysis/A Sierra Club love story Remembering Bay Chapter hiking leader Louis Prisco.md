@@ -3,6 +3,11 @@ title: "A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Pr
 author: "Staff -"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - bay-area-iww
+  - sierra-club
+  - louis-prisco
+  - green-unionism
 ---
 
 ## **A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Prisco**

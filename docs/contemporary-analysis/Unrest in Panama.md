@@ -2,6 +2,15 @@
 title: "Unrest in Panama"
 date: 2009
 category: "contemporary-analysis"
+tags:
+  - education
+  - strikes
+  - riots
+  - privatisation
+  - internationalism
+  - panama
+  - healthcare
+  - anarchist
 ---
 
 ## **Unrest in Panama**

@@ -1,6 +1,11 @@
 ---
 title: "Was die Solidaritätsgewerkschaft ist und was nicht"
 category: "contemporary-analysis"
+tags:
+  - don-white
+  - mk-lees
+  - spuren-der-solidarität
+  - deutsch
 ---
 
 ## **Was die Solidaritätsgewerkschaft ist und was nicht**

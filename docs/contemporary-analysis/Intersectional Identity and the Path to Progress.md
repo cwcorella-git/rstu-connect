@@ -2,6 +2,13 @@
 title: "Intersectional Identity and the Path to Progress"
 date: 2009
 category: "contemporary-analysis"
+tags:
+  - australia
+  - feminism
+  - moishe-postone
+  - intersectionality
+  - eleanor-robertson
+  - meanjin
 ---
 
 ## **Intersectional Identity and the Path to Progress**

@@ -2,6 +2,13 @@
 title: "Curing The English Disease"
 date: 2001
 category: "contemporary-analysis"
+tags:
+  - activism
+  - community-activity
+  - black-flag
+  - claimants-and-unpaid
+  - 2000s
+  - united-kingdom
 ---
 
 ## **Curing The English Disease**

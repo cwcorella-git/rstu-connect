@@ -2,6 +2,12 @@
 title: "All things considered - Nadine Bloch"
 date: 1976
 category: "contemporary-analysis"
+tags:
+  - nadine-bloch
+  - situationist
+  - feminism
+  - daniel-denevert
+  - centre-for-research-on-the-social
 ---
 
 ## **All things considered - Nadine Bloch**

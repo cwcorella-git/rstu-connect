@@ -1,6 +1,12 @@
 ---
 title: "An afterthought: 'extra-parliamentary electoralism'"
 category: "contemporary-analysis"
+tags:
+  - anarchism
+  - class-war-federation
+  - united-kingdom
+  - elections
+  - socialist-party-of-great-britain
 ---
 
 ## **An afterthought: 'extra-parliamentary electoralism'**

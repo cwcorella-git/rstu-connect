@@ -2,6 +2,13 @@
 title: "They Call It Suicide, We Call It Murder - Black Flag"
 date: 1993
 category: "contemporary-analysis"
+tags:
+  - black-flag
+  - deaths
+  - italy
+  - turin
+  - police
+  - prisons
 ---
 
 ## **They Call It Suicide, We Call It Murder - Black Flag**

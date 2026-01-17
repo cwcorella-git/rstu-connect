@@ -2,6 +2,17 @@
 title: "Reflections on Revolutionary Defeatism — \"Lefty\" Hooligan"
 date: 1975
 category: "contemporary-analysis"
+tags:
+  - lefty-hooligan
+  - russia-ukraine-war
+  - russian-revolution-1917
+  - german-revolution-1918
+  - leninism
+  - anarchism
+  - vietnam-war
+  - left-communism
+  - national-liberation
+  - revolutionary-defeatism
 ---
 
 ## **Reflections on Revolutionary Defeatism — "Lefty" Hooligan**

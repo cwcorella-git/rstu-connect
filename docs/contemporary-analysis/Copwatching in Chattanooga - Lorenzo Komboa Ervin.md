@@ -2,6 +2,11 @@
 title: "Copwatching in Chattanooga - Lorenzo Komboa Ervin"
 date: 1969
 category: "contemporary-analysis"
+tags:
+  - lorenzo-komboa-ervin
+  - united-states
+  - chattanooga
+  - police
 ---
 
 ## **Copwatching in Chattanooga - Lorenzo Komboa Ervin**

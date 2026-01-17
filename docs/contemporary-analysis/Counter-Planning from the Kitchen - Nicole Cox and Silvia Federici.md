@@ -2,6 +2,14 @@
 title: "Counter-Planning from the Kitchen - Nicole Cox and Silvia Federici"
 date: 1975
 category: "contemporary-analysis"
+tags:
+  - nicole-cox
+  - silvia-federici
+  - housework
+  - feminism
+  - pdf
+  - falling-wall-press
+  - wages-for-housework
 ---
 
 ## **Counter-Planning from the Kitchen - Nicole Cox and Silvia Federici**

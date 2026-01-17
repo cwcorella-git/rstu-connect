@@ -3,6 +3,14 @@ title: "The Revolution Will Be On Rail, Part I"
 author: "Matt Stannard -"
 date: 2016
 category: "arts-culture-music"
+tags:
+  - green-unionism
+  - railroad-workers
+  - crude-by-rail
+  - railcon15
+  - j.-p.-wright
+  - just-transition
+  - health-and-safety
 ---
 
 ## **The Revolution Will Be On Rail, Part I**

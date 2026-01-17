@@ -2,6 +2,13 @@
 title: "Berenguer, Sara (1919-2010)"
 date: 1938
 category: "contemporary-analysis"
+tags:
+  - nick-heath
+  - women
+  - anarchists
+  - biographies
+  - feminism
+  - confederación-nacional-del-trabajo
 ---
 
 ## **Berenguer, Sara (1919-2010)**

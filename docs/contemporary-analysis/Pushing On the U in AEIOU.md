@@ -1,6 +1,10 @@
 ---
 title: "Pushing: On the U in AEIOU"
 category: "contemporary-analysis"
+tags:
+  - workplace-activity
+  - mk-lees
+  - organizing-work
 ---
 
 # **Pushing: On the U in AEIOU**

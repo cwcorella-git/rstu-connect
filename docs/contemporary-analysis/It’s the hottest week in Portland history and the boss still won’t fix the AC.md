@@ -3,6 +3,16 @@ title: "It's the hottest week in Portland history and the boss still won't fix t
 author: "CF Ivanovic -"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - portland-iww
+  - portland
+  - oregon
+  - climate-change
+  - health-and-safety
+  - service-workers
+  - global-warming
+  - class-struggle
+  - green-unionism
 ---
 
 ## **It's the hottest week in Portland history and the boss still won't fix the AC**

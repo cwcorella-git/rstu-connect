@@ -2,6 +2,11 @@
 title: "If Voting Changed Anything..."
 date: 1995
 category: "contemporary-analysis"
+tags:
+  - black-flag
+  - state
+  - murray-bookchin
+  - electoralism
 ---
 
 ## **If Voting Changed Anything...**

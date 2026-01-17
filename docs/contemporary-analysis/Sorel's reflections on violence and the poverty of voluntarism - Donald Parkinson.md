@@ -2,6 +2,11 @@
 title: "Sorel's reflections on violence and the poverty of voluntarism - Donald Parkinson"
 date: 1910
 category: "contemporary-analysis"
+tags:
+  - violence
+  - fascism
+  - syndicalism
+  - donald-parkinson
 ---
 
 ## **Sorel's reflections on violence and the poverty of voluntarism - Donald Parkinson**

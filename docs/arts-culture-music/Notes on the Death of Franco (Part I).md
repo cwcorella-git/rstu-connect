@@ -2,6 +2,12 @@
 title: "Notes on the Death of Franco (Part I)"
 date: 1976
 category: "arts-culture-music"
+tags:
+  - murray-bookchin
+  - fascism
+  - 1970s
+  - spain
+  - francisco-franco
 ---
 
 ## **Notes on the Death of Franco (Part I)**

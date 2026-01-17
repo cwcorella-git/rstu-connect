@@ -1,6 +1,14 @@
 ---
 title: "Jean Grave on Colonization – Jeff Shantz"
 category: "contemporary-analysis"
+tags:
+  - jeff-shantz
+  - colonialism
+  - anti-colonialism
+  - settler-colonialism
+  - jean-grave
+  - anarchism
+  - imperialism
 ---
 
 ## **Jean Grave on Colonization – Jeff Shantz**

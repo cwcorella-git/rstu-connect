@@ -3,6 +3,14 @@ title: "RWU Urges Operating Crafts to \"Vote No!\" Defeat the Tentative Agreemen
 author: "Railroad Workers United -"
 date: 2022
 category: "contemporary-analysis"
+tags:
+  - railroad-workers
+  - class-struggle
+  - joe-biden
+  - strikes
+  - transportation-workers
+  - transportation
+  - transportation-infrastructure
 ---
 
 ## **RWU Urges Operating Crafts to "Vote No!" Defeat the Tentative Agreement**

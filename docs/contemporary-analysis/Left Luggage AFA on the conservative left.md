@@ -2,6 +2,10 @@
 title: "Left Luggage: AFA on the conservative left"
 date: 1997
 category: "contemporary-analysis"
+tags:
+  - class-war-federation
+  - united-kingdom
+  - socialist-workers-party-uk
 ---
 
 ## **Left Luggage: AFA on the conservative left**

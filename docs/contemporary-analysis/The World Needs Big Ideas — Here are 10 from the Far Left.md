@@ -3,6 +3,14 @@ title: "The World Needs Big Ideas — Here are 10 from the Far Left"
 author: "Mary Lorax -"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - green-syndicalism
+  - anarchism
+  - anarcho-syndicalism
+  - ecosocialism
+  - green-unionism
+  - solar-communism
+  - just-transition
 ---
 
 # **The World Needs Big Ideas — Here are 10 from the Far Left**

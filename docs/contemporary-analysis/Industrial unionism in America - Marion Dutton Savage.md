@@ -1,6 +1,13 @@
 ---
 title: "Industrial unionism in America - Marion Dutton Savage"
 category: "contemporary-analysis"
+tags:
+  - united-states
+  - 1920s
+  - unions
+  - syndicalism
+  - afl
+  - marion
 ---
 
 ## **Industrial unionism in America - Marion Dutton Savage**

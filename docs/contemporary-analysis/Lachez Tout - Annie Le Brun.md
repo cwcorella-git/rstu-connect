@@ -2,6 +2,11 @@
 title: "Lachez Tout - Annie Le Brun"
 date: 1972
 category: "contemporary-analysis"
+tags:
+  - annie-le-brun
+  - feminism
+  - david-wise
+  - france
 ---
 
 ## **Lachez Tout - Annie Le Brun**

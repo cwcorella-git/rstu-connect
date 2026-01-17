@@ -3,6 +3,15 @@ title: "After Brexit and Trump: don't demonise; localise!"
 author: "Helena Norberg-Hodge & Rupert Read -"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - donald-trump
+  - green-syndicalism
+  - green-unionism
+  - ecosocialism
+  - climate-justice
+  - globalization
+  - movement-politics
+  - neoliberalism
 ---
 
 ## **After Brexit and Trump: don't demonise; localise!**

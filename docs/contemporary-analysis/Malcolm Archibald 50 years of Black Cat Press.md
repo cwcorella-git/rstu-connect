@@ -2,6 +2,13 @@
 title: "Malcolm Archibald: 50 years of Black Cat Press"
 date: 2024
 category: "contemporary-analysis"
+tags:
+  - malcolm-archibald
+  - edmonton
+  - anarchism
+  - sean-patterson
+  - canada
+  - freedom-press
 ---
 
 ## **Malcolm Archibald: 50 years of Black Cat Press**

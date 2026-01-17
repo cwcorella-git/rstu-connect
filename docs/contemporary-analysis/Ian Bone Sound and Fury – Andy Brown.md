@@ -1,6 +1,14 @@
 ---
 title: "Ian Bone: Sound and Fury – Andy Brown"
 category: "contemporary-analysis"
+tags:
+  - andy-brown
+  - solidarity
+  - class-war-federation
+  - 1980s
+  - united-kingdom
+  - interviews
+  - ian-bone
 ---
 
 ## **Ian Bone: Sound and Fury – Andy Brown**

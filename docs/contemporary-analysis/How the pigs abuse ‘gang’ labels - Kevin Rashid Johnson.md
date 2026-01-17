@@ -2,6 +2,12 @@
 title: "How the pigs abuse 'gang' labels - Kevin 'Rashid' Johnson"
 date: 2010
 category: "contemporary-analysis"
+tags:
+  - racism
+  - united-states
+  - prisons
+  - kevin-rashid-johnson
+  - police
 ---
 
 ## **How the pigs abuse 'gang' labels - Kevin "Rashid" Johnson**

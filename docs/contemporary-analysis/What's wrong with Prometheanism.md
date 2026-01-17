@@ -1,6 +1,12 @@
 ---
 title: "What's wrong with Prometheanism?"
 category: "contemporary-analysis"
+tags:
+  - murray-bookchin
+  - environment
+  - technology
+  - climate-change
+  - philosophy
 ---
 
 # **What's wrong with Prometheanism?**

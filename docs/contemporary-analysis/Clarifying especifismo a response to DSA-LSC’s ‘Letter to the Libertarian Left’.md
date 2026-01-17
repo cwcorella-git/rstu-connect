@@ -2,6 +2,11 @@
 title: "Clarifying especifismo: a response to DSA-LSC's 'Letter to the Libertarian Left'"
 date: 2025
 category: "contemporary-analysis"
+tags:
+  - black-rose-anarchist-federation
+  - especifismo
+  - libertarian-socialist-caucus
+  - democratic
 ---
 
 ## **Clarifying especifismo: a response to DSA-LSC's 'Letter to the Libertarian Left'**

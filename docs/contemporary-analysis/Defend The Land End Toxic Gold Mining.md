@@ -2,6 +2,10 @@
 title: "Defend The Land: End Toxic Gold Mining"
 date: 2022
 category: "contemporary-analysis"
+tags:
+  - iww-wisera
+  - ireland
+  - iww-environmental-unionism
 ---
 
 ## **Defend The Land: End Toxic Gold Mining**

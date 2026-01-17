@@ -2,6 +2,12 @@
 title: "Their Crimes, Our Punishment: Texas Department of Criminal Justice's State-Wide Deadly Use of F"
 author: "Jason Renard Walker"
 category: "arts-culture-music"
+tags:
+  - united-states
+  - repression
+  - prisons
+  - texas
+  - jason-renard-walker
 ---
 
 ## **Their Crimes, Our Punishment: Texas Department of Criminal Justice's State-Wide Deadly Use of Force Cover-Ups**

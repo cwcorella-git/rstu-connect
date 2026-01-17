@@ -2,6 +2,12 @@
 title: "Crime And Punishment"
 date: 1914
 category: "contemporary-analysis"
+tags:
+  - bm-blob
+  - police
+  - 1980s
+  - prisons
+  - football
 ---
 
 ## **Crime And Punishment**

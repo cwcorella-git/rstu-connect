@@ -2,6 +2,10 @@
 title: "Resolutions"
 date: 2014
 category: "contemporary-analysis"
+tags:
+  - general-strikes
+  - united-kingdom
+  - phil-dickens
 ---
 
 ## **Resolutions**

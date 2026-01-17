@@ -1,6 +1,11 @@
 ---
 title: "Get mad and get even"
 category: "contemporary-analysis"
+tags:
+  - sex-and-sexuality
+  - australia
+  - feminism
+  - gender
 ---
 
 ## **Get mad and get even**

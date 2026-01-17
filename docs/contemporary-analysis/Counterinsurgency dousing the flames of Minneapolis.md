@@ -1,6 +1,14 @@
 ---
 title: "Counterinsurgency: dousing the flames of Minneapolis"
 category: "contemporary-analysis"
+tags:
+  - united-states
+  - pacifism
+  - minneapolis
+  - peter-gelderloos
+  - conspiracy-theories
+  - roar-mag
+  - black
 ---
 
 ## **Counterinsurgency: dousing the flames of Minneapolis**

@@ -2,6 +2,14 @@
 title: "United We Stood: Writings and Analysis from the Vaughn 17"
 date: 2017
 category: "contemporary-analysis"
+tags:
+  - united-states
+  - riots
+  - repression
+  - prisons
+  - pennsylvania
+  - delaware
+  - pdf
 ---
 
 ## **United We Stood: Writings and Analysis from the Vaughn 17**

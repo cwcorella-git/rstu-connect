@@ -2,6 +2,15 @@
 title: "Elena Quinteros, 1945-1976"
 date: 1966
 category: "contemporary-analysis"
+tags:
+  - edgar-rodrigues
+  - women
+  - education
+  - repression
+  - venezuela
+  - killings
+  - biographies
+  - uruguay
 ---
 
 ## **Elena Quinteros, 1945-1976**

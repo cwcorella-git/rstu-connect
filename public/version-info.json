@@ -1,8 +1,8 @@
 {
-  "commit": "cc504392",
-  "message": "Add fallback counting for unsynced profiles in organizing progress",
+  "commit": "f9b3e113",
+  "message": "Add text truncation to Reading panel and Georgism tags",
   "author": "cwcorella-git",
-  "date": "2026-01-16 19:44:08 -0800",
+  "date": "2026-01-16 19:46:42 -0800",
   "branch": "main",
-  "buildTime": "2026-01-17T03:45:43.450Z"
+  "buildTime": "2026-01-17T03:47:17.126Z"
 }

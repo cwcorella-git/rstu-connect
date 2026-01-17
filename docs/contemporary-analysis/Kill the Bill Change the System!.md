@@ -1,6 +1,11 @@
 ---
 title: "Kill the Bill? Change the System!"
 category: "contemporary-analysis"
+tags:
+  - internationalist-communist-tendency
+  - repression
+  - united-kingdom
+  - communist-workers
 ---
 
 ## **Kill the Bill? Change the System!**

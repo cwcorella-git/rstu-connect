@@ -2,6 +2,13 @@
 title: "A Tilted Guide to Being a Defendant: A Guide to the Criminal Legal System for Radicals"
 date: 2016
 category: "contemporary-analysis"
+tags:
+  - united-states
+  - repression
+  - prisons
+  - legal
+  - tilted-scales-collective
+  - pdf
 ---
 
 ## **A Tilted Guide to Being a Defendant: A Guide to the Criminal Legal System for Radicals**

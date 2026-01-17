@@ -3,6 +3,14 @@ title: "Alienation and Mass Organization"
 author: "Sitsirya."
 date: 2018
 category: "contemporary-analysis"
+tags:
+  - activism
+  - education
+  - schools
+  - students
+  - universities
+  - philippines
+  - sitsirya
 ---
 
 ## **Alienation and Mass Organization**

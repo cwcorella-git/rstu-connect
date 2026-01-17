@@ -2,6 +2,12 @@
 title: "An Open Letter of a Part-Time Instructor from PUP"
 date: 2018
 category: "arts-culture-music"
+tags:
+  - education
+  - universities
+  - philippines
+  - simoun-magsalin
+  - jose-mario-de-vega
 ---
 
 ## **An Open Letter of a Part-Time Instructor from PUP**

@@ -2,6 +2,13 @@
 title: "Speech at the Madrid Ateneo - Salvador Seguí"
 date: 1919
 category: "contemporary-analysis"
+tags:
+  - spain
+  - syndicalism
+  - anarcho-syndicalism
+  - madrid
+  - speeches
+  - confederación-nacional-del
 ---
 
 ## **Speech at the Madrid Ateneo - Salvador Seguí**

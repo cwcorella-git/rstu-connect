@@ -2,6 +2,16 @@
 title: "New Battlefields - Phil Neel interview by e-Komite (2021)"
 date: 2021
 category: "contemporary-analysis"
+tags:
+  - phil-neel
+  - anarchism
+  - communism
+  - organisation
+  - suburbs
+  - exurbs
+  - hinterland
+  - geography
+  - rural
 ---
 
 ## **New Battlefields - Phil Neel interview by e-Komite (2021)**

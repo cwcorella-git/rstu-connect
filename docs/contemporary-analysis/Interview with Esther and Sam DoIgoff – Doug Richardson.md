@@ -2,6 +2,14 @@
 title: "Interview with Esther and Sam Do Igoff – Doug Richardson"
 date: 1975
 category: "contemporary-analysis"
+tags:
+  - sam-dolgoff
+  - anarchism
+  - united-states
+  - anarcho-syndicalism
+  - anarchist-communism
+  - esther-dolgoff
+  - doug-richardson
 ---
 
 ## **Interview with Esther and Sam Do Igoff – Doug Richardson**

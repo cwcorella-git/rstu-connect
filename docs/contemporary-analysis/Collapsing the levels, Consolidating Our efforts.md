@@ -2,6 +2,15 @@
 title: "Collapsing the levels, Consolidating Our efforts"
 date: 2015
 category: "contemporary-analysis"
+tags:
+  - libertarian-socialism
+  - anarcho-syndicalism
+  - green-syndicalism
+  - anarchism
+  - ecosocialism
+  - green-unionism
+  - class-struggle
+  - movement-politics
 ---
 
 # **Collapsing the levels, Consolidating Our efforts**

@@ -1,6 +1,10 @@
 ---
 title: "Den Bierbauch loswerden"
 category: "contemporary-analysis"
+tags:
+  - daniel-bovart-katz
+  - spuren-der-solidarität
+  - deutsch
 ---
 
 ## **Den Bierbauch loswerden**

@@ -1,6 +1,14 @@
 ---
 title: "Greek public broadcasting shutdown"
 category: "contemporary-analysis"
+tags:
+  - strikes
+  - general-strikes
+  - greece
+  - occupations
+  - job-losses
+  - radio
+  - greece-against
 ---
 
 ## **Greek public broadcasting shutdown**

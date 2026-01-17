@@ -2,6 +2,12 @@
 title: "From the clinker to cleats: the story of Nicolaas Steelink - Matthew Hart"
 date: 1922
 category: "arts-culture-music"
+tags:
+  - matthew-hart
+  - nicolaas-steelink
+  - enness-ellae
+  - football
+  - sport
 ---
 
 ## **From the clinker to cleats: the story of Nicolaas Steelink - Matthew Hart**

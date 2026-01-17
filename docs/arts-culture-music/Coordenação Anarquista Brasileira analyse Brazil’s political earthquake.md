@@ -2,6 +2,12 @@
 title: "Coordenação Anarquista Brasileira analyse Brazil's political earthquake"
 date: 2016
 category: "arts-culture-music"
+tags:
+  - general-strikes
+  - brazil
+  - freedom-press
+  - coordinación-anarquista-brasileña
+  - brazil-protests-2017
 ---
 
 ## **Coordenação Anarquista Brasileira analyse Brazil's political earthquake**

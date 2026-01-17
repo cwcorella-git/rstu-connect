@@ -3,6 +3,12 @@ title: "An Obituary for Tortuguita"
 author: "Tallahassee IWW -"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - atlanta-forest
+  - mobilizations-and-uprisings
+  - anti-capitalism
+  - libertarian-socialism
+  - industrial
 ---
 
 ## **An Obituary for Tortuguita**

@@ -2,6 +2,12 @@
 title: "The letters of Os Cangaceiros in relation to \"13,000 Escapes\""
 date: 1991
 category: "contemporary-analysis"
+tags:
+  - os-cangaceiros
+  - pdf
+  - bm-blob
+  - prisons
+  - france
 ---
 
 ## **The letters of Os Cangaceiros in relation to "13,000 Escapes"**

@@ -2,6 +2,14 @@
 title: "To The CEOs of General Motors, Ford, and Stellantis:"
 date: 2023
 category: "contemporary-analysis"
+tags:
+  - automobile-manufacturers
+  - ford
+  - stellantis
+  - green-unionism
+  - electric-vehicles
+  - just-transition
+  - 350
 ---
 
 ## **To The CEOs of General Motors, Ford, and Stellantis:**

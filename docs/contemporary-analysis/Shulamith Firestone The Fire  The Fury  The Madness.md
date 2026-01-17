@@ -2,6 +2,14 @@
 title: "Shulamith Firestone: The Fire / The Fury / The Madness"
 date: 2009
 category: "contemporary-analysis"
+tags:
+  - david-wise
+  - stuart-wise
+  - feminism
+  - new-york
+  - herbert-marcuse
+  - friedrich-engels
+  - valerie
 ---
 
 # **Shulamith Firestone: The Fire / The Fury / The Madness**
