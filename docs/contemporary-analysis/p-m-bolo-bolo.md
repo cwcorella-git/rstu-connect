@@ -1,5 +1,6 @@
 ---
 title: Bolo'bolo
+date: 1983
 category: contemporary-analysis
 tags: []
 ---

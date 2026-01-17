@@ -1,5 +1,6 @@
 ---
-title: dopamine
+title: "Dopamine"
+date: 2021
 category: environmental-justice
 tags:
   - environment

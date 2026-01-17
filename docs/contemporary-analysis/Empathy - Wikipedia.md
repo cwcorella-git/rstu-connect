@@ -1,5 +1,6 @@
 ---
 title: "Empathy"
+date: 1983
 category: "contemporary-analysis"
 ---
 

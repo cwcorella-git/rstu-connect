@@ -1,5 +1,6 @@
 ---
 title: 아나르코 생디칼리슴 (Anarcho-Syndicalism)
+date: 2004
 category: contemporary-analysis
 tags:
   - anarchism

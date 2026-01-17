@@ -1,5 +1,6 @@
 ---
 title: Statement of the Hospital and the Refinery
+author: "John Kalwaic -"
 category: theory
 tags:
   - healthcare

@@ -1,5 +1,6 @@
 ---
 title: 'COP26 Corporate Sponsors: A Barrier To A Just Transition'
+author: "Earth Strike UK -"
 category: feminist-theory
 tags:
   - just transition

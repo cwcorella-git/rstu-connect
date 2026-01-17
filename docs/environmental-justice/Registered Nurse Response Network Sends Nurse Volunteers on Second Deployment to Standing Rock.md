@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Charles Idelson -"
   Registered Nurse Response Network Sends Nurse Volunteers on Second Deployment
   to Standing Rock*
 category: environmental-justice

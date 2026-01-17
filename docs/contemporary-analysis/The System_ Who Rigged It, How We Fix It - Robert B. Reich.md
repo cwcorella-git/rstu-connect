@@ -1,5 +1,6 @@
 ---
 title: "THE SYSTEM"
+date: 2020
 category: "contemporary-analysis"
 ---
 

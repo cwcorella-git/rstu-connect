@@ -1,5 +1,6 @@
 ---
 title: 'Anarchism: Utopian or scientific'
+date: 1962
 category: contemporary-analysis
 tags:
   - anarchism

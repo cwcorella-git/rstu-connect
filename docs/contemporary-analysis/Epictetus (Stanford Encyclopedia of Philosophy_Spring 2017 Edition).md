@@ -1,5 +1,6 @@
 ---
 title: "Epictetus"
+date: 1965
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Kathleen Cleaver"
+date: 1998
 category: "contemporary-analysis"
 ---
 

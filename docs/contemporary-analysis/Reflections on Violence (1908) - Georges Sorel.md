@@ -1,5 +1,6 @@
 ---
 title: "Reflections on Violence (1908) - Georges Sorel"
+date: 1908
 category: "contemporary-analysis"
 ---
 

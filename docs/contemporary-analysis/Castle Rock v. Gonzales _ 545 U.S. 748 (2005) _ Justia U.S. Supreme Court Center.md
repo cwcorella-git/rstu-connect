@@ -1,5 +1,6 @@
 ---
-title: supreme.justia.com
+title: "Supreme.justia.com"
+date: 2005
 category: contemporary-analysis
 tags: []
 ---

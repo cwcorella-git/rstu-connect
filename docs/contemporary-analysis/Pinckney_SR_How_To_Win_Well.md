@@ -1,5 +1,6 @@
 ---
 title: "How to Win Well"
+date: 2021
 category: "contemporary-analysis"
 ---
 

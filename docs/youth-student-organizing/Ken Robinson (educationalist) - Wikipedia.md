@@ -1,5 +1,6 @@
 ---
 title: Ken Robinson (educationalist)
+date: 1981
 category: youth-student-organizing
 tags:
   - education

@@ -1,5 +1,6 @@
 ---
 title: Utopian and Scientific (Chpt. 3)
+date: 1877
 category: contemporary-analysis
 tags:
   - theory

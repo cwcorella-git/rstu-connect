@@ -1,5 +1,6 @@
 ---
 title: A syndicalist strategy for the Swedish labour market
+date: 2021
 category: contemporary-analysis
 tags:
   - syndicalism

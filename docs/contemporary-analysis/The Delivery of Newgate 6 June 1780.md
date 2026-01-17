@@ -1,5 +1,6 @@
 ---
 title: "The Delivery of Newgate 6 June 1780"
+date: 1956
 category: "contemporary-analysis"
 ---
 

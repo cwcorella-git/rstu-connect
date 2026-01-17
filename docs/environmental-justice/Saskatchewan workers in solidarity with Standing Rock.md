@@ -1,5 +1,6 @@
 ---
 title: Saskatchewan workers in solidarity with Standing Rock
+author: "Denise Leduc -"
 category: environmental-justice
 tags:
   - solidarity

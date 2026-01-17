@@ -1,5 +1,6 @@
 ---
 title: The short instructional manifesto for relationship anarchy
+date: 2006
 category: contemporary-analysis
 tags:
   - anarchism

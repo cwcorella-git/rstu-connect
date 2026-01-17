@@ -1,5 +1,6 @@
 ---
 title: Constructing Emotion
+date: 1937
 category: theory
 tags:
   - theory

@@ -1,5 +1,6 @@
 ---
 title: Education for Critical Conssciousness
+date: 1965
 category: theory
 tags:
   - education

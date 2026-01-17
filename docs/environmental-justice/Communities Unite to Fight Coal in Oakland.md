@@ -1,5 +1,6 @@
 ---
 title: Communities Unite to Fight Coal in Oakland
+author: "Eric K. Arnold -"
 category: environmental-justice
 tags:
   - community

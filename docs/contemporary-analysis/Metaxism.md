@@ -1,5 +1,6 @@
 ---
 title: "Metaxism"
+date: 2014
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: educational-material
+title: "Educational-material"
 author: Unknown
 date: '2025'
 category: misc

@@ -1,5 +1,5 @@
 ---
-title: b-solar and sub-lunar points. Current zenith locations.
+title: "B-solar and sub-lunar points. Current zenith locations."
 author: Sub Solar And Sub
 date: '2017'
 category: housing

@@ -1,5 +1,6 @@
 ---
 title: Democratic Confederalism
+date: 2011
 category: theory
 tags:
   - democracy

@@ -1,5 +1,6 @@
 ---
 title: Whose personal is more political? Experience in contemporary feminist politics
+date: 2016
 category: feminist-theory
 tags:
   - feminism

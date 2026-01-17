@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Aaron Murphy, Ruby Montoya, and Jim Arenz -"
   For the second time today, concerned citizens shut down Dakota Access Pipeline
   construction in
 category: indigenous-solidarity

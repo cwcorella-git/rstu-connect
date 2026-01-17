@@ -1,5 +1,6 @@
 ---
 title: "Evolution and Revolution"
+date: 1891
 category: "contemporary-analysis"
 ---
 

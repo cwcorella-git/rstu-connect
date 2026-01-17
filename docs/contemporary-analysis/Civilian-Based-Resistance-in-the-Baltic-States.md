@@ -1,5 +1,6 @@
 ---
 title: "Civilian-Based Resistance in the Baltic States"
+date: 2021
 category: "contemporary-analysis"
 ---
 

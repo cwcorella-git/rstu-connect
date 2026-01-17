@@ -1,5 +1,6 @@
 ---
 title: Towards a PEOPLE'S PEACE
+date: 2025
 category: anti-war-peace
 tags:
   - anti-war

@@ -1,5 +1,6 @@
 ---
 title: 'The French government told us a big lie, and we believed it'
+author: "Jonathan Neale -"
 category: international-solidarity
 tags:
   - France

@@ -1,5 +1,6 @@
 ---
 title: "Ozawa v. United States"
+date: 1922
 category: "contemporary-analysis"
 ---
 

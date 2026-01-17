@@ -1,5 +1,6 @@
 ---
 title: BYUNG-CHULHAN PSYCHO-POLICS
+date: 2017
 category: feminist-theory
 tags:
   - feminism

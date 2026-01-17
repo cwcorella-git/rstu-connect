@@ -1,5 +1,6 @@
 ---
 title: 'NEPA IWW Delivers A Message to Wendy''s: We Want Fair Food'
+author: "Alex Lotorto -"
 category: technology-digital-justice
 tags:
   - unions

@@ -1,5 +1,6 @@
 ---
 title: Battle Cry of Freedom
+date: 1887
 category: contemporary-analysis
 tags:
   - liberty

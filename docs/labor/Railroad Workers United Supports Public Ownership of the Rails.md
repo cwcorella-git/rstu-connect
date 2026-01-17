@@ -1,5 +1,6 @@
 ---
 title: Railroad Workers United Supports Public Ownership of the Rails
+author: "Railroad Workers United -"
 category: technology-digital-justice
 tags:
   - labor

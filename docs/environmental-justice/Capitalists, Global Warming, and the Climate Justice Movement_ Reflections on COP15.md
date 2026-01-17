@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2010
   Capitalists, Global Warming, and the Climate Justice Movement: Reflections on
   COP15
 category: environmental-justice

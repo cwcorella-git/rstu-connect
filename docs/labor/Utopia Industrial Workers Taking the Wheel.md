@@ -1,5 +1,6 @@
 ---
 title: 'Utopia: Industrial Workers Taking the Wheel'
+author: "Hilary Wainwright -"
 category: contemporary-analysis
 tags:
   - labor

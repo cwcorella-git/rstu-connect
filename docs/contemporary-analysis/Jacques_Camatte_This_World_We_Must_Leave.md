@@ -1,5 +1,6 @@
 ---
 title: "THIS WORLD WE MUST LEAVE"
+date: 1973
 category: "contemporary-analysis"
 ---
 

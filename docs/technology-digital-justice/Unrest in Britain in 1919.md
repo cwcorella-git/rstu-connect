@@ -1,5 +1,6 @@
 ---
 title: Unrest in Britain in 1919
+date: 2019
 category: technology-digital-justice
 tags:
   - United Kingdom

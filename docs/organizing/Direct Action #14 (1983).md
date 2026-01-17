@@ -1,5 +1,6 @@
 ---
 title: 'Direct Action #14 (1983)'
+date: 1983
 category: contemporary-analysis
 tags:
   - direct action

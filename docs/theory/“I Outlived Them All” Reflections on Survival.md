@@ -1,5 +1,6 @@
 ---
 title: '''I Outlived Them All'': Reflections on Survival'
+date: 1948
 category: theory
 tags:
   - theory

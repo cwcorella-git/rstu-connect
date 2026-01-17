@@ -1,5 +1,6 @@
 ---
 title: BAKUNIN
+date: 2014
 category: technology-digital-justice
 tags:
   - Bakunin

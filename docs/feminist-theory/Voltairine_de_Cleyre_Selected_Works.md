@@ -1,5 +1,6 @@
 ---
 title: POEMS
+date: 1956
 category: feminist-theory
 tags:
   - feminism

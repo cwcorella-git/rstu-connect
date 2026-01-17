@@ -1,5 +1,6 @@
 ---
 title: "Migrating tactics: An interview with Ewa Majewska and Katarzyna Rakowska"
+date: 2018
 category: "contemporary-analysis"
 ---
 

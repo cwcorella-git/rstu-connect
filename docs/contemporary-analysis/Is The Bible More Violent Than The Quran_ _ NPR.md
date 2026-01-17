@@ -1,5 +1,6 @@
 ---
 title: "Is The Bible More Violent Than The Quran?"
+author: "Barbara Bradley Hagerty"
 category: "contemporary-analysis"
 ---
 

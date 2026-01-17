@@ -1,5 +1,6 @@
 ---
 title: "Castle Rock v. Gonzales - Amicus (Merits)"
+date: 1976
 category: "arts-culture-music"
 ---
 

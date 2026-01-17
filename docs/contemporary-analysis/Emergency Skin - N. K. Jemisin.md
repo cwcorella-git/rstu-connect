@@ -1,5 +1,6 @@
 ---
 title: "EMERGENCY N. K. JEMISIN"
+date: 2019
 category: "contemporary-analysis"
 ---
 

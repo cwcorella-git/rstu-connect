@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Peter Moore -"
   Reuse, Recycle, Unionize!: Urban Ore workers win union election, get ready to
   negotiate contrac
 category: contemporary-analysis

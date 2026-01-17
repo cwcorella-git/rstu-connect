@@ -1,5 +1,6 @@
 ---
 title: "Manifest destiny"
+date: 1872
 category: "contemporary-analysis"
 ---
 

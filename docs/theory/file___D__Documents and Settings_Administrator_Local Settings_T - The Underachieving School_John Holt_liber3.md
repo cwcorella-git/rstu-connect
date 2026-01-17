@@ -1,5 +1,6 @@
 ---
 title: TRUE LEARNING
+date: 1968
 category: theory
 tags:
   - education

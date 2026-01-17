@@ -1,5 +1,6 @@
 ---
 title: An Ancient Guide for Modern Leaders
+date: 2013
 category: contemporary-analysis
 tags: []
 ---

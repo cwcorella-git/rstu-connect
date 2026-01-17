@@ -1,5 +1,6 @@
 ---
 title: "Alienation and Mass Organization"
+author: "Sitsirya."
 category: "contemporary-analysis"
 ---
 

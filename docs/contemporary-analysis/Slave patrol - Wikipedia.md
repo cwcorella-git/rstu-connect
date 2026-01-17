@@ -1,5 +1,6 @@
 ---
 title: "Slave patrol"
+date: 2019
 category: "contemporary-analysis"
 ---
 

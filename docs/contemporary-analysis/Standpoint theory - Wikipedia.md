@@ -1,5 +1,6 @@
 ---
 title: "Standpoint theory"
+date: 1989
 category: "contemporary-analysis"
 ---
 

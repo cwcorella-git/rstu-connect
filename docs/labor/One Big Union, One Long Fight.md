@@ -1,5 +1,6 @@
 ---
 title: 'One Big Union, One Long Fight'
+date: 2011
 category: labor
 tags:
   - unions

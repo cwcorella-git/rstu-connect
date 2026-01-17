@@ -1,5 +1,6 @@
 ---
 title: Civil Resistance Against Climate Change
+date: 2021
 category: environmental-justice
 tags:
   - environment

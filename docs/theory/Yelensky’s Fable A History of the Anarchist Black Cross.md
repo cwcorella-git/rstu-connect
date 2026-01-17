@@ -1,5 +1,6 @@
 ---
 title: 'Yelensky''s Fable: A History of the Anarchist Black Cross'
+author: "Matthew Hart"
 category: contemporary-analysis
 tags:
   - anarchism

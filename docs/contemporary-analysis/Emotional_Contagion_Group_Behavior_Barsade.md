@@ -1,5 +1,6 @@
 ---
 title: "Influence of Emotional Contagion on Individual and Group Processes"
+date: 2002
 category: "contemporary-analysis"
 ---
 

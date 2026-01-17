@@ -1,5 +1,6 @@
 ---
 title: "Cosmopolitanism"
+date: 2014
 category: "contemporary-analysis"
 ---
 

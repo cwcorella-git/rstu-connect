@@ -1,5 +1,6 @@
 ---
 title: Nonviolent Movements and Material Resources in Northwest Mexico
+date: 2021
 category: anti-war-peace
 tags:
   - nonviolence

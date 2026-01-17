@@ -1,5 +1,6 @@
 ---
 title: 'Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review'
+date: 1969
 category: contemporary-analysis
 tags:
   - anarchism

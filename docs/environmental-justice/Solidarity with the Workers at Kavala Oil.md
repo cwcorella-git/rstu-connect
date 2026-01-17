@@ -1,5 +1,6 @@
 ---
 title: Solidarity with the Workers at Kavala Oil
+author: "Staff -"
 category: environmental-justice
 tags:
   - solidarity

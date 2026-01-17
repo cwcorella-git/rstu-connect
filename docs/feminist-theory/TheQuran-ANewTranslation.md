@@ -1,5 +1,6 @@
 ---
 title: The Qur'an
+date: 2001
 category: feminist-theory
 tags:
   - feminism

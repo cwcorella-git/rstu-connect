@@ -1,5 +1,6 @@
 ---
 title: Agrivoltaics
+date: 2017
 category: technology-digital-justice
 tags:
   - technology

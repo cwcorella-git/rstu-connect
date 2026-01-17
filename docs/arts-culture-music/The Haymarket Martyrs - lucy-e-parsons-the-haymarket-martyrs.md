@@ -1,5 +1,5 @@
 ---
-title: "## Te Haymarket Martyrs"
+title: "Te Haymarket Martyrs"
 category: "arts-culture-music"
 ---
 

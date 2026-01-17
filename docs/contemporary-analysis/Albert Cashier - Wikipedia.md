@@ -1,5 +1,6 @@
 ---
-title: en.wikipedia.org
+title: "Albert Cashier Wikipedia"
+date: 1864
 category: contemporary-analysis
 tags: []
 ---

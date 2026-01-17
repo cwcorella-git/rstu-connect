@@ -1,5 +1,6 @@
 ---
 title: 'Voodoo Employees Wrongly Fired During June Heat Wave, Labor Board Rules'
+author: "Sophie Peel -"
 category: contemporary-analysis
 tags:
   - labor

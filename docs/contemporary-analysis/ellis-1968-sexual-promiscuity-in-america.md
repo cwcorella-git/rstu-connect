@@ -1,5 +1,7 @@
 ---
 title: "Sexual Promiscuity in America"
+author: "ALBERT ELLIS"
+date: 1958
 category: "contemporary-analysis"
 ---
 

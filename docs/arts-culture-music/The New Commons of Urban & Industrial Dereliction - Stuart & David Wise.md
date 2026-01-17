@@ -1,5 +1,6 @@
 ---
 title: The New Commons of Urban & Industrial Dereliction - Stuart & David Wise
+date: 2012
 category: arts-culture-music
 tags:
   - urban

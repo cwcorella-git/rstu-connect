@@ -1,5 +1,6 @@
 ---
 title: "Their Crimes, Our Punishment: Texas Department of Criminal Justice's State-Wide Deadly Use of F"
+author: "Jason Renard Walker"
 category: "arts-culture-music"
 ---
 

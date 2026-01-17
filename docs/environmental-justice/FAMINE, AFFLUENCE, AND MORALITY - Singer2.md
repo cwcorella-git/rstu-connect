@@ -1,5 +1,7 @@
 ---
-title: '## FAMINE, AFFLUENCE, AND MORALITY'
+title: "FAMINE, AFFLUENCE, AND MORALITY"
+author: "Peter Singer (1972)"
+date: 1972
 category: environmental-justice
 tags:
   - environment

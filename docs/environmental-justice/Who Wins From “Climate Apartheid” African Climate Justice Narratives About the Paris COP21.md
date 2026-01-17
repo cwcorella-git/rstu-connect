@@ -1,5 +1,7 @@
 ---
 title: >-
+author: "Patrick Bond -"
+date: 2009
   Who Wins From 'Climate Apartheid'?: African Climate Justice Narratives About
   the Paris COP21
 category: environmental-justice

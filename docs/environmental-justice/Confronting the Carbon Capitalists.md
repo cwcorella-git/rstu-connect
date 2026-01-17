@@ -1,5 +1,6 @@
 ---
 title: Confronting the Carbon Capitalists
+author: "Seattle IWW -"
 category: environmental-justice
 tags:
   - capitalism

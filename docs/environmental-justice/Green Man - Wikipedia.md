@@ -1,5 +1,6 @@
 ---
 title: Green Man
+date: 2022
 category: environmental-justice
 tags:
   - environment

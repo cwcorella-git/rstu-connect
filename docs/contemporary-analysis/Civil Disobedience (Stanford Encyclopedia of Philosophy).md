@@ -1,5 +1,6 @@
 ---
 title: Civil Disobedience
+date: 2007
 category: contemporary-analysis
 tags:
   - civil disobedience

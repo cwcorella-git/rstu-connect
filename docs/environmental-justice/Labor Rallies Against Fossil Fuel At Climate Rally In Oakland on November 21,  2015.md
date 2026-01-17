@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Steve Zeltser -"
   Labor Rallies Against Fossil Fuel At Climate Rally In Oakland on November 21,
   2015
 category: labor

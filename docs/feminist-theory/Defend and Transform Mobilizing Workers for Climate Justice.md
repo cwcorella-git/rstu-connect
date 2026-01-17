@@ -1,5 +1,7 @@
 ---
 title: 'Defend and Transform: Mobilizing Workers for Climate Justice'
+author: "Jeremy Anderson -"
+date: 2018
 category: feminist-theory
 tags:
   - labor

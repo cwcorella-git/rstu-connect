@@ -1,5 +1,6 @@
 ---
 title: '2007: Chad Government Employees Strike'
+date: 2007
 category: labor
 tags:
   - strikes

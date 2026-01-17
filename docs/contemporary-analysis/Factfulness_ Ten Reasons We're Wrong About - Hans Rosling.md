@@ -1,5 +1,6 @@
 ---
 title: "About the Author"
+date: 2018
 category: "contemporary-analysis"
 ---
 

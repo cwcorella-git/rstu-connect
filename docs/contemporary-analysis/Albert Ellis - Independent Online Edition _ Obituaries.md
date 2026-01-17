@@ -1,5 +1,6 @@
 ---
 title: "The Wayback Machine - https://web.archive.org/web/20071018071619/http://news.i…"
+date: 1988
 category: "contemporary-analysis"
 ---
 

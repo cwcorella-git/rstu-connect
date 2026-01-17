@@ -1,5 +1,7 @@
 ---
 title: "THINKING AHEAD:"
+author: "Alecia Vogl"
+date: 2019
 category: "arts-culture-music"
 ---
 

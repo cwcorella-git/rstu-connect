@@ -1,5 +1,6 @@
 ---
 title: "Deception detection: State of the art and future prospects"
+date: 2002
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: social-ecology.org
+title: "Social-ecology.org"
+date: 2008
 category: environmental-justice
 tags:
   - environment

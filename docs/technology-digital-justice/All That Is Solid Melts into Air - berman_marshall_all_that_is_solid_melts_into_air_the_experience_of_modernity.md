@@ -1,5 +1,6 @@
 ---
-title: fin That Is
+title: "Fin That Is"
+date: 1971
 category: technology-digital-justice
 tags:
   - technology

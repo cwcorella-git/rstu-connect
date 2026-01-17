@@ -1,5 +1,6 @@
 ---
-title: '## James Herod'
+title: "James Herod"
+date: 1937
 category: indigenous-solidarity
 tags:
   - socialism

@@ -1,5 +1,6 @@
 ---
 title: Green versus Yellow Unionism in Oakland
+author: "That Green Union Guy -"
 category: labor
 tags:
   - labor

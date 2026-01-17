@@ -1,5 +1,6 @@
 ---
 title: "Webb Miller (journalist)"
+date: 1918
 category: "contemporary-analysis"
 ---
 

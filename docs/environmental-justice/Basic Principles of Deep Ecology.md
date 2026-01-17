@@ -1,5 +1,6 @@
 ---
 title: Arne Næss and George Sessions Basic Principles of Deep Ecology 1984
+date: 1984
 category: environmental-justice
 tags:
   - environment

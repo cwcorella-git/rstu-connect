@@ -1,5 +1,7 @@
 ---
 title: 'Fostering a Fourth Democratic Wave:'
+author: "Hardy Merriman, Patrick Quirk, and Ash Jain"
+date: 2023
 category: arts-culture-music
 tags:
   - democracy

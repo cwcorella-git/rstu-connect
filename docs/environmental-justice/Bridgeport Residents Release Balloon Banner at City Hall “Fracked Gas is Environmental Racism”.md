@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Dan Fischer, et. al. -"
   Bridgeport Residents Release Balloon Banner at City Hall: 'Fracked Gas is
   Environmental Racism
 category: environmental-justice

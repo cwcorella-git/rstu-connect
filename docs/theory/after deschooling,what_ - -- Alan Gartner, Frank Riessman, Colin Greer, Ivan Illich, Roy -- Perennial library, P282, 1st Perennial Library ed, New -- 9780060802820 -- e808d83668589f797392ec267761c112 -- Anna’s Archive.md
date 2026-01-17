@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1973
   After Deschooling, What? Ivan Illich, et al. Edited by Alan Gartner, Collin
   Grange and Frank Riessman
 category: theory

@@ -1,5 +1,6 @@
 ---
-title: "make it stick"
+title: "Make it stick"
+date: 2014
 category: "contemporary-analysis"
 ---
 

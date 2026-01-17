@@ -1,5 +1,6 @@
 ---
 title: 'We''ll always have Paris: The tragedy of global climate politics'
+author: "Tadzio Müller -"
 category: environmental-justice
 tags:
   - environment

@@ -1,5 +1,6 @@
 ---
 title: Municipalism
+date: 2024
 category: contemporary-analysis
 tags:
   - municipalism

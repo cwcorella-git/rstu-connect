@@ -1,5 +1,6 @@
 ---
 title: 'Counterinsurgency Reexamined: Racism, Capitalism, and US Military Doctrine'
+date: 1915
 category: environmental-justice
 tags:
   - racial justice

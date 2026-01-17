@@ -1,5 +1,6 @@
 ---
 title: What does dirt in a cog mean?
+date: 2025
 category: organizing
 tags:
   - organizing

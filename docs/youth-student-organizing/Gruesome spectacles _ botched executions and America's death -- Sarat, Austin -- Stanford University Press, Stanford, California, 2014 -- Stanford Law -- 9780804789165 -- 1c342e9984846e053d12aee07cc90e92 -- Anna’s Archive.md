@@ -1,5 +1,6 @@
 ---
 title: GRUESOME SPECTACLES
+date: 2014
 category: youth-student-organizing
 tags:
   - students

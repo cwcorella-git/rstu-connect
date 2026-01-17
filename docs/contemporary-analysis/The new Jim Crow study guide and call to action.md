@@ -1,5 +1,6 @@
 ---
 title: "The New Jim Crow Study Guide and Call to Action"
+date: 2013
 category: "contemporary-analysis"
 ---
 

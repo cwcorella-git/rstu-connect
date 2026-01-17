@@ -1,5 +1,6 @@
 ---
-title: en.m.wikipedia.org
+title: "Keyline Design Wikipedia"
+date: 1954
 category: contemporary-analysis
 tags: []
 ---

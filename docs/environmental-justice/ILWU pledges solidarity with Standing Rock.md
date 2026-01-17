@@ -1,5 +1,6 @@
 ---
 title: ILWU pledges solidarity with Standing Rock
+author: "Staff -"
 category: environmental-justice
 tags:
   - solidarity

@@ -1,5 +1,6 @@
 ---
 title: Himeyuri students
+date: 1953
 category: youth-student-organizing
 tags:
   - education

@@ -1,5 +1,6 @@
 ---
 title: "Sherman Antitrust Act"
+date: 1993
 category: "contemporary-analysis"
 ---
 

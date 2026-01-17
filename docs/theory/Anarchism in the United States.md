@@ -1,5 +1,6 @@
 ---
 title: 'Ronald Creagh, Gabriel Kuhn, Jesse Cohn'
+date: 1881
 category: contemporary-analysis
 tags:
   - anarchism

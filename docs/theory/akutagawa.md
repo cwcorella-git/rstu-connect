@@ -1,5 +1,5 @@
 ---
-title: '## RYŪNOSUKE AKUTAGAWA'
+title: "RYŪNOSUKE AKUTAGAWA"
 category: theory
 tags:
   - theory

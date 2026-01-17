@@ -1,5 +1,6 @@
 ---
 title: 'News: Air District Commits to Studying Refinery Pollution Caps'
+author: "Shoshana Wechsler -"
 category: environmental-justice
 tags:
   - environment

@@ -1,5 +1,6 @@
 ---
 title: "VINTAGE e Books"
+date: 1992
 category: "contemporary-analysis"
 ---
 

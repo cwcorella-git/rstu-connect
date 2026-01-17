@@ -1,5 +1,6 @@
 ---
-title: '## Race & Class http://rac.sagepub.com/'
+title: "Race & Class http://rac.sagepub.com/"
+date: 2005
 category: contemporary-analysis
 tags:
   - class

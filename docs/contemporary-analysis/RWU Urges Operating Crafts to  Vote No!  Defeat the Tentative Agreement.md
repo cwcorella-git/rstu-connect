@@ -1,5 +1,6 @@
 ---
 title: "RWU Urges Operating Crafts to \"Vote No!\" Defeat the Tentative Agreement"
+author: "Railroad Workers United -"
 category: "contemporary-analysis"
 ---
 

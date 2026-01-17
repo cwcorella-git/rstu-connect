@@ -1,5 +1,6 @@
 ---
 title: CANT MONT THE CASE FOR ECONOMIC DISOBEDIENCE
+date: 2020
 category: economic-alternatives
 tags:
   - debt

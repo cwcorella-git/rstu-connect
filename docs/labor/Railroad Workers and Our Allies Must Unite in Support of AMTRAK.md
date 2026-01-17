@@ -1,5 +1,7 @@
 ---
 title: Railroad Workers and Our Allies Must Unite in Support of AMTRAK
+author: "Ron Kaminkow -"
+date: 2016
 category: technology-digital-justice
 tags:
   - labor

@@ -1,5 +1,6 @@
 ---
 title: How financialization undermines the power of workers
+date: 2020
 category: economic-alternatives
 tags:
   - labor

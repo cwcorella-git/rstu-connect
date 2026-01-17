@@ -1,5 +1,6 @@
 ---
 title: "Information wants to be free"
+date: 1987
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Well, if You Ask Me: Oil and Me'
+author: "Dano T Bob"
 category: environmental-justice
 tags:
   - fossil fuels

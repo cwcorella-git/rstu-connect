@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1992
   Review: Revolution as Merchandise - "Unfinished Business-The Politics of Class
   War" - a British
 category: international-solidarity

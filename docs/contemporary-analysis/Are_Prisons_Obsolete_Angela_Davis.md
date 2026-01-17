@@ -1,5 +1,6 @@
 ---
 title: ARE PRISONS OBSOLETE?
+date: 2003
 category: contemporary-analysis
 tags:
   - prisons

@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Jeremy Brecher and Todd Vachon -"
   Union Members Don't Oppose Environmental Protections: They're Actually More
   Likely To Support T
 category: labor

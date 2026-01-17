@@ -1,5 +1,6 @@
 ---
 title: 妇女的力量与社会翻转 (The Power of Women and Social Subversion)
+date: 1973
 category: feminist-theory
 tags:
   - women

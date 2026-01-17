@@ -1,5 +1,6 @@
 ---
 title: "Erich Fromm"
+date: 1955
 category: "contemporary-analysis"
 ---
 

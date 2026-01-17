@@ -1,5 +1,6 @@
 ---
 title: Writing Style
+date: 1914
 category: environmental-justice
 tags:
   - riots

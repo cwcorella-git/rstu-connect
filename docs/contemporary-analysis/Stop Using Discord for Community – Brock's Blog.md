@@ -1,5 +1,6 @@
 ---
-title: blog.brockh.at
+title: "Stop Using Discord For Community – Brock'S Blog"
+author: "Brock"
 category: contemporary-analysis
 tags:
   - community

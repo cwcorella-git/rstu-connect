@@ -1,5 +1,6 @@
 ---
 title: Errico Malatesta (1853-1932) - Jeff Shantz
+date: 2011
 category: contemporary-analysis
 tags:
   - Malatesta

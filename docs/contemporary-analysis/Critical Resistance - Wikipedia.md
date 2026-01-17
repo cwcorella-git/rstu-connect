@@ -1,5 +1,6 @@
 ---
 title: "Critical Resistance"
+date: 2000
 category: "contemporary-analysis"
 ---
 

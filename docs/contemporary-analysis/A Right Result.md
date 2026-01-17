@@ -1,5 +1,6 @@
 ---
 title: "A Right Result"
+date: 1991
 category: "contemporary-analysis"
 ---
 

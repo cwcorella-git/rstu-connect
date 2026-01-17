@@ -1,5 +1,6 @@
 ---
 title: "Purge"
+date: 1958
 category: "contemporary-analysis"
 ---
 

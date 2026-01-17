@@ -1,5 +1,6 @@
 ---
 title: 'Austerity vs. the Planet: The Future of Labor Environmentalism'
+author: "Trish Kahle -"
 category: labor
 tags:
   - labor

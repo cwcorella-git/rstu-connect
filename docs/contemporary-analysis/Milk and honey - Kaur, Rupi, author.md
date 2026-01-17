@@ -1,5 +1,5 @@
 ---
-title: "milk and honey rupi kaur"
+title: "Milk and honey rupi kaur"
 category: "contemporary-analysis"
 ---
 

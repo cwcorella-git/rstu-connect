@@ -1,5 +1,6 @@
 ---
 title: European syndicalism and the IWW
+date: 1933
 category: labor
 tags:
   - unions

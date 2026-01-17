@@ -1,5 +1,6 @@
 ---
 title: "Doing Away With Private Utilities Is a Matter of Life and Death"
+author: "Ryan Smith -"
 category: "contemporary-analysis"
 ---
 

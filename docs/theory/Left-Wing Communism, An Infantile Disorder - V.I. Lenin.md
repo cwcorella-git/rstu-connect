@@ -1,5 +1,6 @@
 ---
 title: LITTLE LENIN LIBRARY VOLUME 20
+author: "V. I. Lenin"
 category: contemporary-analysis
 tags:
   - theory

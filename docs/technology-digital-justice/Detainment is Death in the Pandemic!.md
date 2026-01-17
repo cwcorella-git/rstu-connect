@@ -1,5 +1,6 @@
 ---
 title: Detainment is Death in the Pandemic!
+author: "Simoun Magsalin."
 category: technology-digital-justice
 tags:
   - technology

@@ -1,5 +1,6 @@
 ---
 title: "Crime And Punishment"
+date: 1914
 category: "contemporary-analysis"
 ---
 

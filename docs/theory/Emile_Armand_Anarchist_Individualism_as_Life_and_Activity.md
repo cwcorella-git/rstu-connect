@@ -1,5 +1,6 @@
 ---
 title: Anarchist Individualism as a Life and Activity
+date: 1907
 category: contemporary-analysis
 tags:
   - anarchism

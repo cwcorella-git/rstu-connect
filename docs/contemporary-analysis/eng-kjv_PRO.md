@@ -1,5 +1,5 @@
 ---
-title: "eng kjv PRO"
+title: "Eng kjv PRO"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: '#Shut ItDown: Organizing to Strike for Climate Justice'
+author: "Patrick Young -"
 category: environmental-justice
 tags:
   - strikes

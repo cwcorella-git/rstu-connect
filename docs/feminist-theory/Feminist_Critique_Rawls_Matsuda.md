@@ -1,5 +1,6 @@
 ---
 title: 'VISIONS OF HUMAN NATURE: A FEMINIST CRITIQUE OF RAWLS'' THEORY OF JUSTICE'
+date: 1986
 category: feminist-theory
 tags:
   - feminism

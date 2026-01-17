@@ -1,5 +1,6 @@
 ---
 title: Castle Rock v. Gonzales | Case Brief for Law Students
+date: 1989
 category: youth-student-organizing
 tags:
   - education

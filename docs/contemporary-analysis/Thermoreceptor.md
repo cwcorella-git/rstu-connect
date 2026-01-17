@@ -1,5 +1,6 @@
 ---
 title: "Thermoreceptor"
+date: 1979
 category: "contemporary-analysis"
 ---
 

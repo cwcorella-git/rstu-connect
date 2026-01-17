@@ -1,5 +1,7 @@
 ---
 title: "Getting Free"
+author: "James Herod"
+date: 2001
 category: "contemporary-analysis"
 ---
 

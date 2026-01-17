@@ -1,5 +1,6 @@
 ---
-title: en.wikipedia.org
+title: "The American Scholar Wikipedia"
+date: 1989
 category: contemporary-analysis
 tags: []
 ---

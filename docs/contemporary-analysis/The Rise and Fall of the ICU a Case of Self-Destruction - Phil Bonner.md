@@ -1,5 +1,6 @@
 ---
 title: "The Rise and Fall of the ICU: a Case of Self-Destruction? - Phil Bonner"
+date: 1978
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Speech at the Madrid Ateneo - Salvador Seguí"
+date: 1919
 category: "contemporary-analysis"
 ---
 

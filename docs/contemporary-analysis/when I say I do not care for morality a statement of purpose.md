@@ -1,5 +1,5 @@
 ---
-title: "when I say I do not care for morality: a statement of purpose"
+title: "When I say I do not care for morality: a statement of purpose"
 category: "contemporary-analysis"
 ---
 

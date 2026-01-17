@@ -1,5 +1,6 @@
 ---
 title: "Ethnogenesis"
+date: 1997
 category: "contemporary-analysis"
 ---
 

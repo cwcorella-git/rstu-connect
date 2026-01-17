@@ -1,5 +1,6 @@
 ---
 title: "Jesse Owens"
+date: 1935
 category: "contemporary-analysis"
 ---
 

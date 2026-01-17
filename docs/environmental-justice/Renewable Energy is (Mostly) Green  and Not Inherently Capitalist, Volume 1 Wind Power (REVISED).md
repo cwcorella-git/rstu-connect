@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "That Green Union Guy -"
   Renewable Energy is (Mostly) Green and Not Inherently Capitalist, Volume 1:
   Wind Power (REVISED
 category: environmental-justice

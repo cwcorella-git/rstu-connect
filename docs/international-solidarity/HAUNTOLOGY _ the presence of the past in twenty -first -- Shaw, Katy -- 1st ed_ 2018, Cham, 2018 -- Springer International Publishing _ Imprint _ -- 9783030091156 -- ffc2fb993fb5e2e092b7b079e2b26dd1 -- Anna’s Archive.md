@@ -1,5 +1,6 @@
 ---
 title: Hauntology
+date: 1999
 category: international-solidarity
 tags:
   - international

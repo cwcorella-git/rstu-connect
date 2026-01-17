@@ -1,5 +1,6 @@
 ---
 title: "Scotland Yardies"
+date: 1997
 category: "contemporary-analysis"
 ---
 

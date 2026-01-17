@@ -1,5 +1,6 @@
 ---
 title: 'Copyleft: Pragmatic Idealism - GNU Project'
+author: "Richard Stallman"
 category: technology-digital-justice
 tags:
   - technology

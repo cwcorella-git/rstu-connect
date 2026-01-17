@@ -1,5 +1,6 @@
 ---
 title: 'One Million Climate Jobs: A Challenge for Canadians'
+author: "Jonathan Neale -"
 category: environmental-justice
 tags:
   - environment

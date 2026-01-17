@@ -1,5 +1,6 @@
 ---
 title: "UNCLE TOM'S CABIN"
+date: 1852
 category: "contemporary-analysis"
 ---
 

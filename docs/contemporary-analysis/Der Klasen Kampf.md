@@ -1,5 +1,6 @@
 ---
 title: "Der Klasen Kampf"
+date: 1919
 category: "contemporary-analysis"
 ---
 

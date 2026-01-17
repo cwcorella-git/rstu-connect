@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Campaign to Fight Toxic Prisons -"
   Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and
   Lockdowns across Florida
 category: contemporary-analysis

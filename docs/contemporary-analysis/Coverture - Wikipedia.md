@@ -1,5 +1,6 @@
 ---
 title: "Coverture"
+date: 1897
 category: "contemporary-analysis"
 ---
 

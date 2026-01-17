@@ -1,5 +1,6 @@
 ---
 title: Prisoners and Climate Injustice
+author: "Natalia Cardona -"
 category: environmental-justice
 tags:
   - prisons

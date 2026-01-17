@@ -1,5 +1,6 @@
 ---
 title: Karl Polanyi
+date: 1944
 category: feminist-theory
 tags:
   - labor

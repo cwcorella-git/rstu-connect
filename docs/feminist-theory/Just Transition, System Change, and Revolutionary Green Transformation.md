@@ -1,5 +1,6 @@
 ---
 title: 'Just Transition, System Change, and Revolutionary Green Transformation'
+author: "That Green Union Guy -"
 category: feminist-theory
 tags:
   - just transition

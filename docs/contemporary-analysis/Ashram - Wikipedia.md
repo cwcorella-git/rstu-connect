@@ -1,5 +1,6 @@
 ---
-title: en.wikipedia.org
+title: "Ashram Wikipedia"
+date: 1999
 category: contemporary-analysis
 tags: []
 ---

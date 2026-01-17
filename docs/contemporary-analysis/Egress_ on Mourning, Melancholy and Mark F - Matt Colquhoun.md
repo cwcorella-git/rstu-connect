@@ -1,5 +1,5 @@
 ---
-title: "egress: on mourning, melancholy and Mark Fisher"
+title: "Egress: on mourning, melancholy and Mark Fisher"
 category: "contemporary-analysis"
 ---
 

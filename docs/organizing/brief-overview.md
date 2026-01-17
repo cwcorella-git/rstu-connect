@@ -1,5 +1,5 @@
 ---
-title: brief-overview
+title: "Brief-overview"
 author: Reno Sparks Tenants Union
 date: '2025'
 category: organizing

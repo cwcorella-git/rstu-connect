@@ -1,5 +1,6 @@
 ---
 title: Adolph Fischer
+date: 1984
 category: theory
 tags:
   - theory

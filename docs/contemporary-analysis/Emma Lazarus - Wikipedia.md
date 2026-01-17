@@ -1,5 +1,6 @@
 ---
 title: "Emma Lazarus"
+date: 1871
 category: "contemporary-analysis"
 ---
 

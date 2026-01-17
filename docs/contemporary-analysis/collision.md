@@ -1,5 +1,5 @@
 ---
-title: "## Improved Collision detection and Response"
+title: "Improved Collision detection and Response"
 category: "contemporary-analysis"
 ---
 

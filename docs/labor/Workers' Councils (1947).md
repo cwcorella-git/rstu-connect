@@ -1,5 +1,6 @@
 ---
 title: Workers' Councils
+date: 1944
 category: contemporary-analysis
 tags:
   - labor

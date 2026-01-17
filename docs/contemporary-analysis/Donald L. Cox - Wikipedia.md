@@ -1,5 +1,6 @@
 ---
-title: en.wikipedia.org
+title: "Donald L. Cox Wikipedia"
+date: 2019
 category: contemporary-analysis
 tags: []
 ---

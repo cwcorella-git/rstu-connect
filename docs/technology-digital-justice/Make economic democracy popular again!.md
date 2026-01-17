@@ -1,5 +1,6 @@
 ---
 title: Make economic democracy popular again!
+date: 2012
 category: technology-digital-justice
 tags:
   - democracy

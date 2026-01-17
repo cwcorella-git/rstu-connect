@@ -1,5 +1,6 @@
 ---
 title: "JEAN BAUDRILLARD"
+author: "JEAN BAUDRILLARD TRANSLATED BY SHEILA FARIA GLASER"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: "Folk Devils and Moral Panics  The creation of the Mods and Rockers   stanley cohen folk devils and moral panics"
+author: "Routledge"
+date: 1972
 category: "contemporary-analysis"
 ---
 

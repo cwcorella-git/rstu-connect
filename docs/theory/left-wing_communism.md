@@ -1,5 +1,7 @@
 ---
 title: '''Left-Wing'' Communism: An Infantile Disorder'
+author: "Doug
+Lorimer"
 category: contemporary-analysis
 tags:
   - theory

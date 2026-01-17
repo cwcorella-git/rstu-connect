@@ -1,5 +1,5 @@
 ---
-title: pv-magazine.com
+title: "Pv-magazine.com"
 category: environmental-justice
 tags:
   - environment

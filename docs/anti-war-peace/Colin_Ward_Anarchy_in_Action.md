@@ -1,5 +1,6 @@
 ---
 title: ANARCHY in ACTION
+date: 1973
 category: anti-war-peace
 tags:
   - anarchism

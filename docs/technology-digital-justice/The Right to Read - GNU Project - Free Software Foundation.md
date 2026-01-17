@@ -1,5 +1,7 @@
 ---
 title: The Right to Read - GNU Project
+author: "Richard Stallman"
+date: 1995
 category: technology-digital-justice
 tags:
   - technology

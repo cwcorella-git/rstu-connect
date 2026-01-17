@@ -1,5 +1,6 @@
 ---
 title: Should College Be Free?
+author: "Updated on May 6, 2025"
 category: youth-student-organizing
 tags:
   - education

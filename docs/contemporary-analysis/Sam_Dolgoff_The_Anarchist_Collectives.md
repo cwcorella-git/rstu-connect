@@ -1,5 +1,6 @@
 ---
 title: EANARCHIST COLLECTIVES
+author: "Augustin Souchy"
 category: contemporary-analysis
 tags:
   - anarchism

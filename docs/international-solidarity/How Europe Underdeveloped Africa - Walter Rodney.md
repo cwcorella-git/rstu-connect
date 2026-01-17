@@ -1,5 +1,6 @@
 ---
-title: how europe underdeveloped AFRICA
+title: "How europe underdeveloped AFRICA"
+date: 2011
 category: international-solidarity
 tags:
   - international

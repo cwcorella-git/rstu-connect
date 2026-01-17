@@ -1,5 +1,5 @@
 ---
-title: '## Oscar Wilde 1891'
+title: "Oscar Wilde 1891"
 category: contemporary-analysis
 tags:
   - theory

@@ -1,5 +1,5 @@
 ---
-title: assembly-bill-no-283
+title: "Assembly-bill-no-283"
 author: Assembly Bill No
 date: '2023'
 category: legislation

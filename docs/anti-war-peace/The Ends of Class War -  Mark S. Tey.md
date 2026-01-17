@@ -1,5 +1,6 @@
 ---
 title: The Ends of Class War - Mark S. Tey
+date: 1997
 category: anti-war-peace
 tags:
   - anti-war

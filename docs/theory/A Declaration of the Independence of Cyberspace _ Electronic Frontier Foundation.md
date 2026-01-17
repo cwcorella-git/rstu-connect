@@ -1,5 +1,6 @@
 ---
 title: '![](_page_0_Picture_2.jpeg)'
+author: "John Perry Barlow"
 category: theory
 tags:
   - theory

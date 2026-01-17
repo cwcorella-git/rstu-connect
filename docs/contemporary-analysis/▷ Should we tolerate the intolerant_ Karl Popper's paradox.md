@@ -1,5 +1,6 @@
 ---
 title: "Should we tolerate the intolerant? Karl Popper's paradox"
+date: 2010
 category: "contemporary-analysis"
 ---
 

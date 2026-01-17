@@ -1,5 +1,6 @@
 ---
 title: The Structure of Proletarian Unfreedom*
+date: 1982
 category: contemporary-analysis
 tags:
   - liberty

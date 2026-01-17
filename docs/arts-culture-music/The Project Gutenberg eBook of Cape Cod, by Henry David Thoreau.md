@@ -1,5 +1,6 @@
 ---
 title: "Cape Cod"
+author: "Henry David Thoreau"
 category: "arts-culture-music"
 ---
 

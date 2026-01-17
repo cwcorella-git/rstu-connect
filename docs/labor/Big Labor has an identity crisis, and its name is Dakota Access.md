@@ -1,5 +1,6 @@
 ---
 title: 'Big Labor has an identity crisis, and its name is Dakota Access'
+author: "Aura Bogado -"
 category: labor
 tags:
   - labor

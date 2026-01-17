@@ -1,5 +1,6 @@
 ---
 title: Town of Castle Rock v. Gonzales
+date: 2005
 category: contemporary-analysis
 tags: []
 ---

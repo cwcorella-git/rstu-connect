@@ -1,5 +1,6 @@
 ---
 title: "Raúl Zibechi"
+date: 2006
 category: "contemporary-analysis"
 ---
 

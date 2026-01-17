@@ -1,5 +1,6 @@
 ---
 title: Feminism for the 99 Percent A Manifesto (1)
+date: 2021
 category: feminist-theory
 tags:
   - feminism

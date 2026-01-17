@@ -1,5 +1,6 @@
 ---
 title: 'The League of Revolutionary Black Workers: A Historical Study'
+author: "A. Muhammad Ahmad"
 category: contemporary-analysis
 tags:
   - labor

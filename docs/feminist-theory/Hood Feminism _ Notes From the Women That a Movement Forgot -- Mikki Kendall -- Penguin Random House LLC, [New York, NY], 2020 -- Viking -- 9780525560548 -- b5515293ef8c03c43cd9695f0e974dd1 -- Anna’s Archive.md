@@ -1,5 +1,6 @@
 ---
 title: HOOD FEMINISM
+date: 2020
 category: feminist-theory
 tags:
   - feminism

@@ -1,5 +1,7 @@
 ---
 title: "My Visit to the Kremlin"
+author: "Nestor Makhno"
+date: 1979
 category: "contemporary-analysis"
 ---
 

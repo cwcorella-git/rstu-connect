@@ -1,5 +1,6 @@
 ---
 title: 'IWW Member Liam Cain: Why I Am With Labor For Standing Rock'
+author: "Liam Cain -"
 category: environmental-justice
 tags:
   - unions

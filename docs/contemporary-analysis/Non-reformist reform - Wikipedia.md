@@ -1,5 +1,6 @@
 ---
 title: "Non-reformist reform"
+date: 1987
 category: "contemporary-analysis"
 ---
 

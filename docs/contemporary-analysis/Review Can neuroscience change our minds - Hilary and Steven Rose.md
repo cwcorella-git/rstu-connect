@@ -1,5 +1,6 @@
 ---
 title: "Review: Can neuroscience change our minds? - Hilary and Steven Rose"
+date: 2016
 category: "contemporary-analysis"
 ---
 

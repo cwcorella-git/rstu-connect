@@ -1,5 +1,6 @@
 ---
 title: "Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact"
+date: 2017
 category: "contemporary-analysis"
 ---
 

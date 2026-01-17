@@ -1,5 +1,6 @@
 ---
 title: 'Did $200,000 Bail Keep Pipeline Activist Out of Sunoco''s Way?'
+author: "Anne Meador -"
 category: technology-digital-justice
 tags:
   - fossil fuels

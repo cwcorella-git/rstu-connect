@@ -1,5 +1,6 @@
 ---
 title: Are Refinery Workers Climate Enemies? - Part 2
+author: "That Green Union Guy -"
 category: environmental-justice
 tags:
   - labor

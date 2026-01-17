@@ -1,5 +1,6 @@
 ---
 title: 'Plane Stupid stands in solidarity with #Black Lives Matter''s #Shut Down'
+author: "Paula -"
 category: contemporary-analysis
 tags:
   - solidarity

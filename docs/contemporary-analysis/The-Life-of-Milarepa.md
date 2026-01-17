@@ -1,5 +1,6 @@
 ---
 title: "TSANGNYÖN HERUKA"
+date: 2010
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: en.m.wikipedia.org
+title: "Information Wants To Be Free Wikipedia (1)"
+date: 1987
 category: contemporary-analysis
 tags: []
 ---

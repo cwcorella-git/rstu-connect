@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 2021
   A protein-rich, plant-based emulsifier that could replace dairy and eggs in
   certain foods
 category: technology-digital-justice

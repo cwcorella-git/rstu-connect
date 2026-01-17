@@ -1,5 +1,7 @@
 ---
 title: 'Socialism: Utopian and Scientific'
+author: "Engels)"
+date: 1845
 category: contemporary-analysis
 tags:
   - theory

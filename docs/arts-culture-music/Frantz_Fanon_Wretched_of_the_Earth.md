@@ -1,5 +1,6 @@
 ---
 title: The Wretched of the Earth
+date: 1963
 category: arts-culture-music
 tags: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: March for Our Lives
+date: 2018
 category: contemporary-analysis
 tags:
   - protests

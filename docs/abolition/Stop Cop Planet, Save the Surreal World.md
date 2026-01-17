@@ -1,5 +1,6 @@
 ---
 title: 'Stop Cop Planet, Save the Surreal World'
+author: "Dan Fischer -"
 category: contemporary-analysis
 tags:
   - police

@@ -1,5 +1,6 @@
 ---
 title: Resource Mobilization in Palestinian Nonviolent Campaigns
+date: 2022
 category: technology-digital-justice
 tags:
   - nonviolence

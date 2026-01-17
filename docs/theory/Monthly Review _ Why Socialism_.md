@@ -1,5 +1,6 @@
 ---
 title: MONTHLY REVIEW
+date: 1959
 category: contemporary-analysis
 tags:
   - theory

@@ -1,5 +1,6 @@
 ---
 title: GOD AND THE STATE
+date: 1970
 category: contemporary-analysis
 tags:
   - Bakunin

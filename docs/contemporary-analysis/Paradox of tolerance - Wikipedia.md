@@ -1,5 +1,6 @@
 ---
 title: "Paradox of tolerance"
+date: 1945
 category: "contemporary-analysis"
 ---
 

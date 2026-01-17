@@ -1,5 +1,5 @@
 ---
-title: "when am I compelled to speak? (ft. Madleen flotilla, Booker, and necessary reorientation)"
+title: "When am I compelled to speak? (ft. Madleen flotilla, Booker, and necessary reorientation)"
 category: "arts-culture-music"
 ---
 

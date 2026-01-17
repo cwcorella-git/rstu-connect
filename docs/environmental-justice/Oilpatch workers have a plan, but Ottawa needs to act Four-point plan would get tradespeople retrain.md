@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Lyndsey Easton -"
   Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would
   get tradespeople r
 category: environmental-justice

@@ -1,5 +1,5 @@
 ---
-title: senate-bill-no-283
+title: "Senate-bill-no-283"
 author: Senate Bill No
 date: '2025'
 category: legislation

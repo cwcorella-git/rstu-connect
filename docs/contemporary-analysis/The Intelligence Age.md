@@ -1,5 +1,5 @@
 ---
-title: "## September 23, 2024"
+title: "September 23, 2024"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "## Higher-order truths about chmess"
+title: "Higher-order truths about chmess"
+date: 1989
 category: "contemporary-analysis"
 ---
 

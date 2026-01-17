@@ -1,5 +1,6 @@
 ---
 title: ITSOK TOBE ANGRY ABOUNT
+author: "BERNIE SANDERS"
 category: contemporary-analysis
 tags:
   - capitalism

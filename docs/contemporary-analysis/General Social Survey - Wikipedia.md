@@ -1,5 +1,5 @@
 ---
-title: en.wikipedia.org
+title: "General Social Survey Wikipedia"
 category: contemporary-analysis
 tags: []
 ---

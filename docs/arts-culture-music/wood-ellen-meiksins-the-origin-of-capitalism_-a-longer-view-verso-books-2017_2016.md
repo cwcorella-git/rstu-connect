@@ -1,5 +1,6 @@
 ---
 title: The Origin of Capitalism a longer view
+date: 2002
 category: arts-culture-music
 tags:
   - capitalism

@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1994
   IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 2: Notes
   from Hell
 category: environmental-justice

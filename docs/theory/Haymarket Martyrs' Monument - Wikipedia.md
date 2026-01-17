@@ -1,5 +1,6 @@
 ---
 title: Haymarket Martyrs' Monument
+date: 1893
 category: theory
 tags:
   - theory

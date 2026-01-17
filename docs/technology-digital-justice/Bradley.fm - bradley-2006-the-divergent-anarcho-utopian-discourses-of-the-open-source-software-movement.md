@@ -1,5 +1,6 @@
 ---
 title: The Divergent Anarcho-utopian Discourses of the Open Source Software Movement
+date: 1985
 category: technology-digital-justice
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: One of the Best Places to Fight for the Environment Is in Your Workplace
+author: "Libronaught -"
 category: environmental-justice
 tags:
   - environment

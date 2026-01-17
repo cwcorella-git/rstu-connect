@@ -1,5 +1,7 @@
 ---
-title: "## Bolo'bolo"
+title: "Bolo'bolo"
+author: "Socialism
+Te"
 category: "contemporary-analysis"
 ---
 

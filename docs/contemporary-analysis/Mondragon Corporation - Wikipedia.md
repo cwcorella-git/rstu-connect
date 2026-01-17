@@ -1,5 +1,6 @@
 ---
 title: "Mondragon Corporation"
+date: 2015
 category: "contemporary-analysis"
 ---
 

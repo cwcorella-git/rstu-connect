@@ -1,5 +1,6 @@
 ---
 title: "Gramsci and Geography"
+date: 1986
 category: "contemporary-analysis"
 ---
 

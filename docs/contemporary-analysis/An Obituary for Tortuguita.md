@@ -1,5 +1,6 @@
 ---
 title: "An Obituary for Tortuguita"
+author: "Tallahassee IWW -"
 category: "contemporary-analysis"
 ---
 

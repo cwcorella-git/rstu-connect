@@ -1,5 +1,6 @@
 ---
 title: "It's the hottest week in Portland history and the boss still won't fix the AC"
+author: "CF Ivanovic -"
 category: "contemporary-analysis"
 ---
 

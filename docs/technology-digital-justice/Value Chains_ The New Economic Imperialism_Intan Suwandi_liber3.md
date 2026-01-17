@@ -1,5 +1,6 @@
 ---
 title: Value Chains
+date: 2019
 category: technology-digital-justice
 tags:
   - technology

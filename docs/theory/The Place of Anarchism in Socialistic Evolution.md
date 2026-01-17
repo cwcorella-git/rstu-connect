@@ -1,5 +1,6 @@
 ---
 title: The Place of Anarchism in Socialistic Evolution
+date: 1884
 category: contemporary-analysis
 tags:
   - anarchism

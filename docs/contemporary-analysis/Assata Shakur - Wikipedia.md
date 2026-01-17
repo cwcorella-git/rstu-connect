@@ -1,5 +1,6 @@
 ---
 title: "Assata Shakur"
+date: 1970
 category: "contemporary-analysis"
 ---
 

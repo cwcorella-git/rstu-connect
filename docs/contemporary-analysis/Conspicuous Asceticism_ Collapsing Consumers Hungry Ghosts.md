@@ -1,5 +1,6 @@
 ---
 title: "CONSPICUOUS ASCETICISM: COLLAPSING CONSUMERS' HUNGRY GHOSTS"
+date: 2022
 category: "contemporary-analysis"
 ---
 

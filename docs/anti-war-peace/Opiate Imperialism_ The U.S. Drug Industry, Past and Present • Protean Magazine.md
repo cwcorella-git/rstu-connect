@@ -1,5 +1,6 @@
 ---
 title: SUPPORT US
+date: 2016
 category: theory
 tags:
   - anti-war

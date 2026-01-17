@@ -1,5 +1,6 @@
 ---
 title: What if the workers were in control?
+author: "Hillary Wainwright -"
 category: contemporary-analysis
 tags:
   - labor

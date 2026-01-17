@@ -1,5 +1,6 @@
 ---
 title: Abraham De Leon
+date: 2006
 category: theory
 tags:
   - anarchism

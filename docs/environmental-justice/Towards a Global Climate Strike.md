@@ -1,5 +1,6 @@
 ---
 title: Towards a Global Climate Strike
+author: "John Molyneux -"
 category: environmental-justice
 tags:
   - strikes

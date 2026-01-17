@@ -1,5 +1,6 @@
 ---
 title: "Symphony of Thought"
+date: 2022
 category: "contemporary-analysis"
 ---
 

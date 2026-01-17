@@ -1,5 +1,6 @@
 ---
 title: Workers at Berkeley's Ecology Center aim to unionize
+author: "Iris Kwok -"
 category: environmental-justice
 tags:
   - labor

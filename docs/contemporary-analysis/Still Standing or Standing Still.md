@@ -1,5 +1,6 @@
 ---
 title: "Still Standing or Standing Still?"
+author: "Robert Lambert -"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "## Henry David Thoreau"
+title: "Henry David Thoreau"
 category: "contemporary-analysis"
 ---
 

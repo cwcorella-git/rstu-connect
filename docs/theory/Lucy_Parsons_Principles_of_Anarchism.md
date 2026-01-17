@@ -1,5 +1,6 @@
 ---
 title: The Principles of Anarchism
+date: 1905
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Kate Aronoff -"
   AFL-CIO Backs Dakota Access Pipeline and the 'Family Supporting Jobs' It
   Provides
 category: labor

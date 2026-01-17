@@ -1,5 +1,6 @@
 ---
 title: 68 EXT. BETWEEN THE BUILDINGS - DAY 68
+date: 1936
 category: technology-digital-justice
 tags:
   - technology

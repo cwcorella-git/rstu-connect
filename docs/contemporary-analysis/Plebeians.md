@@ -1,5 +1,6 @@
 ---
 title: "Plebeians"
+date: 1982
 category: "contemporary-analysis"
 ---
 

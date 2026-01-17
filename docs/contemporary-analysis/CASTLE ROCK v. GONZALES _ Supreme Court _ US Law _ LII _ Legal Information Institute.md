@@ -1,5 +1,6 @@
 ---
 title: "CASTLE ROCK v. GONZALES"
+date: 2002
 category: "contemporary-analysis"
 ---
 

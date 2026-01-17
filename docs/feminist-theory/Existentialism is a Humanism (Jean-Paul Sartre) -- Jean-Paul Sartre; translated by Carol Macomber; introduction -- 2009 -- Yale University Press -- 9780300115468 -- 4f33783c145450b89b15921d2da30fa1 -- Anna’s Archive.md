@@ -1,5 +1,6 @@
 ---
 title: Preface to the 1996 French Edition
+date: 1943
 category: feminist-theory
 tags:
   - France

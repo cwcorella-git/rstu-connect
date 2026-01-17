@@ -1,5 +1,6 @@
 ---
 title: The Case for an Ecosocialist Rank & File Strategy in the Building Trades
+author: "Ryan Pollock -"
 category: organizing
 tags:
   - socialism

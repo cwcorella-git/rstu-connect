@@ -1,5 +1,6 @@
 ---
 title: Chapter 1. The Interview with Merlino
+date: 1948
 category: contemporary-analysis
 tags:
   - anarchism

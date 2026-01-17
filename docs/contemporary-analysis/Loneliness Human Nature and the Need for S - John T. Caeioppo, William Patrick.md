@@ -1,5 +1,6 @@
 ---
-title: "loneliness"
+title: "Loneliness"
+date: 2008
 category: "contemporary-analysis"
 ---
 

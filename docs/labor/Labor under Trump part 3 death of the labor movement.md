@@ -1,5 +1,6 @@
 ---
 title: 'Labor under Trump part 3: death of the labor movement?'
+author: "S Nicholas Nappalos -"
 category: labor
 tags:
   - labor

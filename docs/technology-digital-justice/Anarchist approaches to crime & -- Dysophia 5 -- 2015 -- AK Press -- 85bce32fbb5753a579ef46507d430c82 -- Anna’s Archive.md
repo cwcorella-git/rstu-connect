@@ -1,5 +1,6 @@
 ---
-title: what about the rapists?
+title: "What about the rapists?"
+date: 2010
 category: technology-digital-justice
 tags:
   - anarchism

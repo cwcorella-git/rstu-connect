@@ -1,5 +1,6 @@
 ---
 title: The Educational enterprise in the Light of the Gospel
+date: 1982
 category: youth-student-organizing
 tags:
   - education

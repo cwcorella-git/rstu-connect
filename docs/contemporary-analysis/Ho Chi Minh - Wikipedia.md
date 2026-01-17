@@ -1,5 +1,6 @@
 ---
 title: "Ho Chi Minh"
+date: 1945
 category: "contemporary-analysis"
 ---
 

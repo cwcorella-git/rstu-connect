@@ -1,5 +1,6 @@
 ---
 title: "The Ego and Its Own"
+date: 1995
 category: "contemporary-analysis"
 ---
 

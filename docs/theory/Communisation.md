@@ -1,5 +1,6 @@
 ---
 title: Gilles Dauvé
+date: 1850
 category: contemporary-analysis
 tags:
   - theory

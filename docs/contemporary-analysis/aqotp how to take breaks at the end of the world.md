@@ -1,5 +1,5 @@
 ---
-title: "aqotp: how to take breaks at the end of the world"
+title: "Aqotp: how to take breaks at the end of the world"
 category: "contemporary-analysis"
 ---
 

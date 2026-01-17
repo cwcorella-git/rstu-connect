@@ -1,5 +1,6 @@
 ---
-title: "## en.wikipedia.org"
+title: "Metaxism Wikipedia"
+date: 2014
 category: "contemporary-analysis"
 ---
 

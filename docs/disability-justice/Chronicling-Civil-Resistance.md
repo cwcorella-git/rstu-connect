@@ -1,5 +1,7 @@
 ---
 title: CHRONICLING CIVIL RESISTANCE
+author: "Deborah Mathis and Hailey Grace Allen 2021"
+date: 2021
 category: disability-justice
 tags:
   - disability

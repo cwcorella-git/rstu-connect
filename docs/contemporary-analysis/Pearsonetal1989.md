@@ -1,5 +1,6 @@
 ---
 title: 'Social ranking in the Kingdom of Old Silla, Korea: Analysis of burials'
+date: 1972
 category: contemporary-analysis
 tags: []
 ---

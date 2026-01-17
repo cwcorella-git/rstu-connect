@@ -1,5 +1,6 @@
 ---
 title: Red dwarf
+date: 1973
 category: anti-war-peace
 tags:
   - anti-war

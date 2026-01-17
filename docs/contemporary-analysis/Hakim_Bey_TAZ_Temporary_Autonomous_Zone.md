@@ -1,5 +1,6 @@
 ---
 title: 'T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism'
+date: 1985
 category: contemporary-analysis
 tags:
   - anarchism

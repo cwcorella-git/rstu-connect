@@ -1,5 +1,6 @@
 ---
 title: The Pitfalls of Liberalism
+date: 1971
 category: contemporary-analysis
 tags: []
 ---

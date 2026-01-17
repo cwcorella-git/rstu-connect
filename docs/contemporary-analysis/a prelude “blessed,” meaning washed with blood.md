@@ -1,5 +1,5 @@
 ---
-title: "a prelude: 'blessed,' meaning washed with blood."
+title: "A prelude: 'blessed,' meaning washed with blood."
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "All Rise"
+date: 2024
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Situationist International Anthology
+date: 1958
 category: international-solidarity
 tags:
   - international

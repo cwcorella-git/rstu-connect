@@ -1,5 +1,6 @@
 ---
 title: "Sylvia Rivera — Part 2"
+date: 1995
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: emotionally intelligent leadership
+title: "Emotionally intelligent leadership"
+date: 2015
 category: technology-digital-justice
 tags:
   - education

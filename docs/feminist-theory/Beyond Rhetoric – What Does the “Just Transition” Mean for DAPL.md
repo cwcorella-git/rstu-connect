@@ -1,5 +1,6 @@
 ---
 title: Beyond Rhetoric – What Does the 'Just Transition' Mean for DAPL?
+author: "Emily Llyn Williams -"
 category: feminist-theory
 tags:
   - just transition

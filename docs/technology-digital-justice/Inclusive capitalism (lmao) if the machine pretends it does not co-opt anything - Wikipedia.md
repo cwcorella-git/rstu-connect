@@ -1,5 +1,6 @@
 ---
 title: Inclusive capitalism
+date: 2016
 category: technology-digital-justice
 tags:
   - cooperatives

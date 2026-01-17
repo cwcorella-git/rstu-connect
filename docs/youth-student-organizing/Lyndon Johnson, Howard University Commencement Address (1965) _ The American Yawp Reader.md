@@ -1,5 +1,6 @@
 ---
 title: 'Lyndon Johnson, Howard University Commencement Address (1965)'
+date: 1965
 category: youth-student-organizing
 tags:
   - students

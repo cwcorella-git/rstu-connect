@@ -1,5 +1,6 @@
 ---
 title: 'No Coal in Oakland: a Report on the Campaign'
+author: "Margaret Rossoff -"
 category: labor
 tags:
   - labor

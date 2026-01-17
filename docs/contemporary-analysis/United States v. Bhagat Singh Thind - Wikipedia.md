@@ -1,5 +1,6 @@
 ---
-title: en.wikipedia.org
+title: "United States V. Bhagat Singh Thind Wikipedia"
+date: 1923
 category: contemporary-analysis
 tags: []
 ---

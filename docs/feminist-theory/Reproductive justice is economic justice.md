@@ -1,5 +1,6 @@
 ---
 title: Reproductive justice is economic justice.
+date: 2022
 category: theory
 tags:
   - feminism

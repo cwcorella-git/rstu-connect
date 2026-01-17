@@ -1,5 +1,6 @@
 ---
 title: "Marx in Detroit"
+date: 1976
 category: "contemporary-analysis"
 ---
 

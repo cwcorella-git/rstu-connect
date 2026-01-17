@@ -1,5 +1,5 @@
 ---
-title: libguides.mnhs.org
+title: "Libguides.mnhs.org"
 category: contemporary-analysis
 tags:
   - strikes

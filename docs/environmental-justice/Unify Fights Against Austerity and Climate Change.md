@@ -1,5 +1,6 @@
 ---
 title: Unify Fights Against Austerity and Climate Change
+author: "Asbjørn Wahl -"
 category: environmental-justice
 tags:
   - environment

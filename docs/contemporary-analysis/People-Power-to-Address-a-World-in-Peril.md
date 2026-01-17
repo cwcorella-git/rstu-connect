@@ -1,5 +1,6 @@
 ---
 title: "*We Need* PEOPLE POWER"
+date: 2023
 category: "contemporary-analysis"
 ---
 

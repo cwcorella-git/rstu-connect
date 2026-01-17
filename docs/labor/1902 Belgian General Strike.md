@@ -1,5 +1,6 @@
 ---
 title: '1902: Belgian General Strike'
+date: 1902
 category: labor
 tags:
   - general strikes

@@ -1,5 +1,6 @@
 ---
 title: "Everything Must Go!"
+date: 2015
 category: "contemporary-analysis"
 ---
 

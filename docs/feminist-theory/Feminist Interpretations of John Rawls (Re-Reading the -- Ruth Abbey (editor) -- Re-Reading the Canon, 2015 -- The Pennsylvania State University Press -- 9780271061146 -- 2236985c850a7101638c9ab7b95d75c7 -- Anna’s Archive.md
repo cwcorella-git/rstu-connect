@@ -1,5 +1,6 @@
 ---
 title: FEMINIST INTERPRETATIONS Of john rawls
+date: 1994
 category: feminist-theory
 tags:
   - feminism

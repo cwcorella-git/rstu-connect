@@ -1,5 +1,6 @@
 ---
 title: "How the pigs abuse 'gang' labels - Kevin 'Rashid' Johnson"
+date: 2010
 category: "contemporary-analysis"
 ---
 

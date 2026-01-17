@@ -540,7 +540,7 @@ export default function Home() {
     }
 
     return (
-      <div className="flex flex-col overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
+      <div className="flex flex-col overflow-hidden flex-1 h-full">
         {/* Linking status bar */}
         {linkingSelection.length > 0 && (() => {
           const profile = getCurrentProfile();
@@ -580,7 +580,7 @@ export default function Home() {
 
         {/* Loading State */}
         {isLoadingBuildings && (
-          <div className="flex items-center justify-center flex-1" style={{ height: 'calc(100vh - 140px)' }}>
+          <div className="flex items-center justify-center flex-1">
             <div className="text-center">
               <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-rstu-red mb-4"></div>
               <p className="text-gray-600">Loading property data...</p>
@@ -591,7 +591,7 @@ export default function Home() {
 
         {/* Error State */}
         {loadError && (
-          <div className="flex items-center justify-center flex-1" style={{ height: 'calc(100vh - 140px)' }}>
+          <div className="flex items-center justify-center flex-1">
             <div className="text-center max-w-md p-6">
               <h2 className="text-xl font-semibold text-gray-900 mb-2">Failed to Load Property Data</h2>
               <p className="text-gray-600 mb-4">{loadError}</p>
@@ -682,7 +682,7 @@ export default function Home() {
 
   // Render reading view
   return (
-    <>
+    <div className="flex flex-col flex-1 h-full min-h-0">
       {/* Admin Login */}
       {showAdminLogin && (
         <AdminLogin
@@ -720,7 +720,7 @@ export default function Home() {
         />
       )}
 
-      <div className="flex flex-col md:flex-row overflow-hidden" style={{ height: 'calc(100vh - 140px)' }}>
+      <div className="flex flex-col md:flex-row overflow-hidden flex-1 h-full">
         {/* Left: Reading List - hidden on mobile when document is selected */}
         <div
           ref={leftPanelRef}
@@ -801,6 +801,6 @@ export default function Home() {
         onConfirm={confirmDocumentDelete}
         onCancel={() => setDeleteConfirm(null)}
       />
-    </>
+    </div>
   );
 }

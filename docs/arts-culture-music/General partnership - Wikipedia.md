@@ -1,5 +1,6 @@
 ---
-title: en.wikipedia.org
+title: "General Partnership Wikipedia"
+date: 2003
 category: arts-culture-music
 tags: []
 ---

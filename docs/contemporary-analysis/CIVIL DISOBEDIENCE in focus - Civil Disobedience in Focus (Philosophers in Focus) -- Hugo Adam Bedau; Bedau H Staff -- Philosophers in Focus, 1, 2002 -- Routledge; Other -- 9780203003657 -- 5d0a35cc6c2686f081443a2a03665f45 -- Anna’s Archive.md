@@ -1,5 +1,6 @@
 ---
 title: Civil Disobedience Focus
+date: 1991
 category: contemporary-analysis
 tags:
   - civil disobedience

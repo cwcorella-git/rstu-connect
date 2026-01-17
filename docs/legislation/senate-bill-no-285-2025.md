@@ -1,5 +1,5 @@
 ---
-title: senate-bill-no-285-2025
+title: "Senate-bill-no-285-2025"
 author: Senate Bill No
 date: '2025'
 category: legislation

@@ -1,5 +1,5 @@
 ---
-title: '## Ledare och ledda – ett naturfenomen?'
+title: "Ledare och ledda – ett naturfenomen?"
 category: theory
 tags:
   - theory

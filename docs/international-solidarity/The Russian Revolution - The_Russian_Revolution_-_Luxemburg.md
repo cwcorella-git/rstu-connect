@@ -1,5 +1,7 @@
 ---
 title: The Russian Revolution
+author: "Rosa Luxemburg"
+date: 1940
 category: international-solidarity
 tags:
   - Russia

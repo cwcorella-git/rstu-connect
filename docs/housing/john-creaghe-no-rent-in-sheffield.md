@@ -1,5 +1,5 @@
 ---
-title: john-creaghe-no-rent-in-sheffield
+title: "John-creaghe-no-rent-in-sheffield"
 author: Housing Advocacy Organization
 date: '1893'
 category: housing

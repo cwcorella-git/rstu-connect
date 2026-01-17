@@ -1,5 +1,6 @@
 ---
 title: Bookchin
+date: 2008
 category: arts-culture-music
 tags:
   - Bookchin

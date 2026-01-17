@@ -1,5 +1,6 @@
 ---
 title: Another World is Phony? The case for a syndicalist vision
+date: 2019
 category: contemporary-analysis
 tags:
   - syndicalism

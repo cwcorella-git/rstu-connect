@@ -1,5 +1,5 @@
 ---
-title: thekeep.eiu.edu
+title: "Thekeep.eiu.edu"
 category: youth-student-organizing
 tags:
   - liberty

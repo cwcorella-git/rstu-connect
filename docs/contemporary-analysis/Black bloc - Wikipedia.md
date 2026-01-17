@@ -1,5 +1,6 @@
 ---
 title: "Black bloc"
+date: 2017
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Polanyi' s Great Transformation and the Concept of the Embedded Economy
+date: 2011
 category: feminist-theory
 tags:
   - feminism

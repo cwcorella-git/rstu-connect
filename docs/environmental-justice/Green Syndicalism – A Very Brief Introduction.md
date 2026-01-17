@@ -1,5 +1,6 @@
 ---
 title: Green Syndicalism – A Very Brief Introduction
+author: "Jeff Shantz"
 category: environmental-justice
 tags:
   - syndicalism

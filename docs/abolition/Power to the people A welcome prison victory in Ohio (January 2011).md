@@ -1,5 +1,6 @@
 ---
 title: 'Power to the people: A welcome prison victory in Ohio (January 2011)'
+author: "Bomani Shakur, aka Keith La Mar"
 category: contemporary-analysis
 tags:
   - prisons

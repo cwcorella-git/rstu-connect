@@ -1,5 +1,6 @@
 ---
 title: "Well, If You Ask Me: Flint"
+author: "Dano T. Bob"
 category: "contemporary-analysis"
 ---
 

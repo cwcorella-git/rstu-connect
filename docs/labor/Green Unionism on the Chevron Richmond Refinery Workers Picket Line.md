@@ -1,5 +1,6 @@
 ---
 title: Green Unionism on the Chevron Richmond Refinery Workers Picket Line
+author: "That Green Union Guy -"
 category: labor
 tags:
   - labor

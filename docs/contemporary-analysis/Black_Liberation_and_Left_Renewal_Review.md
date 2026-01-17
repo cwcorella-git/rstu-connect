@@ -1,5 +1,7 @@
 ---
-title: "## Black Liberation and Left Renewal"
+title: "Black Liberation and Left Renewal"
+author: "JORDAN T. CAMP"
+date: 2016
 category: "contemporary-analysis"
 ---
 

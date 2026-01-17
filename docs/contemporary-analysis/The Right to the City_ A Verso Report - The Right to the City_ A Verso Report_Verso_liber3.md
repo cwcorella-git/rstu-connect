@@ -1,5 +1,6 @@
 ---
 title: The Right to the City
+date: 2017
 category: contemporary-analysis
 tags:
   - urban

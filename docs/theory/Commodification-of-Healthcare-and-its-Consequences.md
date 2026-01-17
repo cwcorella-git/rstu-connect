@@ -1,5 +1,6 @@
 ---
 title: COMMODIFICATION OF HEALTHCARE AND ITS CONSEQUENCES
+date: 2009
 category: theory
 tags:
   - healthcare

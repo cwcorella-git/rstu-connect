@@ -1,5 +1,6 @@
 ---
 title: RWU Statement Upon the Acquittal of Canadian Railroad Workers
+author: "Ron Kaminkow -"
 category: technology-digital-justice
 tags:
   - labor

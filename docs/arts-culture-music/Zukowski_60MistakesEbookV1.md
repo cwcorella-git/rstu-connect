@@ -1,5 +1,7 @@
 ---
 title: "GUGAME MARKETING MISTAKES"
+author: "Chris Zukowski"
+date: 2023
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Public Duty Doctrine and Its Implications for Police Officers
+date: 1856
 category: technology-digital-justice
 tags:
   - police

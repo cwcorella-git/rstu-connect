@@ -1,5 +1,6 @@
 ---
 title: Voodoo Doughnut Reaches Settlement With Staff Over Unfair Labor Practices
+author: "Communications Department -"
 category: technology-digital-justice
 tags:
   - labor

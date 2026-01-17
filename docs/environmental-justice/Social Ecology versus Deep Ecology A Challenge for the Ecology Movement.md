@@ -1,5 +1,6 @@
 ---
 title: 'Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement'
+author: "Murray Bookchin"
 category: environmental-justice
 tags:
   - environment

@@ -1,5 +1,6 @@
 ---
 title: "THE SOCIETY OF THE SPECTACLE"
+date: 1967
 category: "contemporary-analysis"
 ---
 

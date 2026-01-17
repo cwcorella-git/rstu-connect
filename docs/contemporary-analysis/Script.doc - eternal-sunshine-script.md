@@ -1,5 +1,7 @@
 ---
 title: "Eternal Sunshine of the Spotless Mind"
+author: "Charlie Kaufman"
+date: 2003
 category: "contemporary-analysis"
 ---
 

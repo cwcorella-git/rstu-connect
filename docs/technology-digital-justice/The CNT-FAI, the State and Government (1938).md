@@ -1,5 +1,6 @@
 ---
 title: Albert Jensen
+date: 1938
 category: technology-digital-justice
 tags:
   - technology

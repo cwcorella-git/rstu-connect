@@ -1,5 +1,6 @@
 ---
 title: Situating "the blurred trail of the Cangaceiros on the social pampas"
+date: 2009
 category: technology-digital-justice
 tags:
   - technology

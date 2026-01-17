@@ -1,5 +1,6 @@
 ---
 title: How Social Trust Shapes Civil Resistance
+date: 2021
 category: international-solidarity
 tags:
   - international

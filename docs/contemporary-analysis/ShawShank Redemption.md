@@ -1,5 +1,6 @@
 ---
 title: "THE SHAWSHANK REDEMPTION"
+date: 1946
 category: "contemporary-analysis"
 ---
 

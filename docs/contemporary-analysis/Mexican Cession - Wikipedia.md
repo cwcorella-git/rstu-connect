@@ -1,5 +1,6 @@
 ---
 title: Mexican Cession
+date: 1913
 category: contemporary-analysis
 tags:
   - Mexico

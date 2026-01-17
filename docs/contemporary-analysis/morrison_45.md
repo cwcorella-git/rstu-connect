@@ -1,5 +1,6 @@
 ---
 title: "Home of the Heart: the Modern Origins of *Furusato*"
+date: 1914
 category: "contemporary-analysis"
 ---
 

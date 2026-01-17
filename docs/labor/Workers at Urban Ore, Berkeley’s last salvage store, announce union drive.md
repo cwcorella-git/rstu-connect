@@ -1,5 +1,6 @@
 ---
 title: 'Workers at Urban Ore, Berkeley''s last salvage store, announce union drive'
+author: "Iris Kwok -"
 category: contemporary-analysis
 tags:
   - unions

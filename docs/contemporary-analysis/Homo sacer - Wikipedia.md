@@ -1,5 +1,6 @@
 ---
 title: Homo sacer
+date: 1998
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Ferrer movement"
+date: 1980
 category: "contemporary-analysis"
 ---
 

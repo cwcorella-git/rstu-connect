@@ -1,5 +1,5 @@
 ---
-title: '## James Herod'
+title: "James Herod"
 category: technology-digital-justice
 tags:
   - prisons

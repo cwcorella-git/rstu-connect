@@ -1,5 +1,6 @@
 ---
 title: Marxism Freedom and the State
+date: 1950
 category: contemporary-analysis
 tags:
   - socialism

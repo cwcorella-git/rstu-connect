@@ -1,5 +1,6 @@
 ---
 title: David Graeber
+date: 1996
 category: contemporary-analysis
 tags:
   - Graeber

@@ -1,5 +1,6 @@
 ---
 title: Post-Scarcity Anarchism
+date: 2004
 category: arts-culture-music
 tags:
   - anarchism

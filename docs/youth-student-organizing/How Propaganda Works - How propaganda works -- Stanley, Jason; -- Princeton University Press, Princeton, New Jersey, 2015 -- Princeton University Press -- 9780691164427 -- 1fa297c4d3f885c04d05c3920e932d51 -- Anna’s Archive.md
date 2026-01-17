@@ -1,5 +1,6 @@
 ---
 title: HOW
+date: 2015
 category: youth-student-organizing
 tags:
   - students

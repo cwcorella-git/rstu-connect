@@ -1,5 +1,6 @@
 ---
 title: 'Workplace Heat: Guidance for Language School Workers'
+author: "Ryan -"
 category: arts-culture-music
 tags:
   - labor

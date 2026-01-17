@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Kiera Loki Anderson -"
   Monkeywrenching the Misogynists in our Movements: A historical exploration of
   call-outs and ant
 category: feminist-theory

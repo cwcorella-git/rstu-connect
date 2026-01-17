@@ -1,5 +1,6 @@
 ---
 title: Murray Bookchin
+date: 1963
 category: environmental-justice
 tags:
   - environment

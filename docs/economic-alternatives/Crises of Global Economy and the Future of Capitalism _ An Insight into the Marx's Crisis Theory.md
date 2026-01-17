@@ -1,5 +1,5 @@
 ---
-title: e Books
+title: "E Books"
 category: economic-alternatives
 tags:
   - capitalism

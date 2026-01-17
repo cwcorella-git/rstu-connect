@@ -1,5 +1,6 @@
 ---
 title: "MAN'S SEARCH FOR MEANING VIKTOR E. FRANKL"
+date: 1946
 category: "contemporary-analysis"
 ---
 

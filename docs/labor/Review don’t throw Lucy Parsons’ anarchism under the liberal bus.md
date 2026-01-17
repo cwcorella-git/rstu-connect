@@ -1,5 +1,6 @@
 ---
 title: 'Review: don''t throw Lucy Parsons'' anarchism under the liberal bus'
+date: 2004
 category: labor
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: "Hell Is a Very Small Place"
+date: 2016
 category: "contemporary-analysis"
 ---
 

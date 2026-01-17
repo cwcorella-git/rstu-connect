@@ -1,5 +1,6 @@
 ---
 title: PEDAGOGY OF THE HEART
+date: 2000
 category: theory
 tags:
   - theory

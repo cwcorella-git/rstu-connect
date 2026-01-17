@@ -1,5 +1,6 @@
 ---
 title: Toronto Teach-In Poses Climate Justice Alternative
+author: "John Riddell -"
 category: environmental-justice
 tags:
   - environment

@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Darryl Cherney -"
   ¿Quién le puso una bomba a Judi Bari? / Who Bombed Judi Bari? (Spanish
   Subtitles)
 category: international-solidarity

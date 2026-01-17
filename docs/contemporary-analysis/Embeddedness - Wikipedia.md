@@ -1,5 +1,6 @@
 ---
 title: "Embeddedness"
+date: 1989
 category: "contemporary-analysis"
 ---
 

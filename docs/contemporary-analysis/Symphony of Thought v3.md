@@ -1,5 +1,6 @@
 ---
 title: "Symphony of Thought Orchestrating Artificial Cognition"
+date: 2022
 category: "contemporary-analysis"
 ---
 

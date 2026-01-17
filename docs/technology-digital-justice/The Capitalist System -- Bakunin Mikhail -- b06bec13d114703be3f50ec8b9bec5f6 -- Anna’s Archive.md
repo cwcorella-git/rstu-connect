@@ -1,5 +1,6 @@
 ---
-title: '## THE CAPITALIST SYSTEM'
+title: "THE CAPITALIST SYSTEM"
+author: "Michael Bakunin"
 category: technology-digital-justice
 tags:
   - capitalism

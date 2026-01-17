@@ -1,5 +1,5 @@
 ---
-title: senate-bill-no-391
+title: "Senate-bill-no-391"
 author: Senate Bill No
 date: '2025'
 category: legislation

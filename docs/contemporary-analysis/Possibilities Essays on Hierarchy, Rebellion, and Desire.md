@@ -1,5 +1,6 @@
 ---
 title: POSSIBILITIES
+date: 2007
 category: contemporary-analysis
 tags:
   - riots

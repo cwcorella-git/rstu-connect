@@ -1,5 +1,6 @@
 ---
 title: "A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Prisco"
+author: "Staff -"
 category: "contemporary-analysis"
 ---
 

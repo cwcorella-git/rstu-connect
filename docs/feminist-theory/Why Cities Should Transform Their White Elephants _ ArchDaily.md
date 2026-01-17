@@ -1,5 +1,6 @@
 ---
 title: Why Cities Should Transform Their White Elephants
+author: "Fabian Dejtiar | Translated by Maggie Johnson"
 category: feminist-theory
 tags:
   - urban

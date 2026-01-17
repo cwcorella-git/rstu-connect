@@ -1,5 +1,7 @@
 ---
 title: "The Pashtun Protection Movement (PTM) in Pakistan"
+author: "Qamar Jafri"
+date: 2021
 category: "contemporary-analysis"
 ---
 

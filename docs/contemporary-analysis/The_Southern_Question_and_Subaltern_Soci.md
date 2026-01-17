@@ -1,5 +1,6 @@
 ---
 title: "The Southern Question and Subaltern Social Groups and Classes"
+date: 2025
 category: "contemporary-analysis"
 ---
 

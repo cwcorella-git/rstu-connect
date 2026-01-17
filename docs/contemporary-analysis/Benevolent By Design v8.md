@@ -1,5 +1,6 @@
 ---
 title: "20 Flaws with the Core Objective Functions"
+date: 2022
 category: "contemporary-analysis"
 ---
 

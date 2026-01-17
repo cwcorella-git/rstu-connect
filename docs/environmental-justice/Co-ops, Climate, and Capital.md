@@ -1,5 +1,6 @@
 ---
 title: 'Co-ops, Climate, and Capital'
+author: "RK Upadhya -"
 category: environmental-justice
 tags:
   - cooperatives

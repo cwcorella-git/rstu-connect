@@ -1,5 +1,6 @@
 ---
 title: NESTOR MAKHNO
+date: 2004
 category: contemporary-analysis
 tags:
   - anarchism

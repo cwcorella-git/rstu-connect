@@ -1,5 +1,6 @@
 ---
 title: "Epictetus"
+date: 2023
 category: "contemporary-analysis"
 ---
 

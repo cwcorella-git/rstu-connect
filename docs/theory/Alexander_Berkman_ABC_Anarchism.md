@@ -1,5 +1,7 @@
 ---
 title: ABC of Anarchism
+author: "ALEXANDER BERKMAN"
+date: 1977
 category: contemporary-analysis
 tags:
   - anarchism

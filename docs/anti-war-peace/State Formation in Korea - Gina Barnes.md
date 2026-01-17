@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1996
   CHAPTER TWO Thoughts on Pre-state Cultural Development on the Korean Peninsula
   from an Archaeological Point of View
 category: anti-war-peace

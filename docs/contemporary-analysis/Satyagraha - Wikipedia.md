@@ -1,5 +1,5 @@
 ---
-title: en.wikipedia.org
+title: "Satyagraha Wikipedia"
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: THE WOMAN OF COLOR AND THE WHITE MAN
+date: 2008
 category: contemporary-analysis
 tags:
   - women

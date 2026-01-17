@@ -1,5 +1,6 @@
 ---
 title: "Critical Thoughts on Consensus Decision Making"
+date: 2008
 category: "contemporary-analysis"
 ---
 

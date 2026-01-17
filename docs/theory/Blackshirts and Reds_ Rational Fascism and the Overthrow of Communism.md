@@ -1,5 +1,7 @@
 ---
 title: BLACKSHIRTS &
+author: "Michael Parenti"
+date: 1996
 category: contemporary-analysis
 tags:
   - theory

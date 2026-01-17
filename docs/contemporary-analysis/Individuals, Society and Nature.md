@@ -1,5 +1,6 @@
 ---
 title: "Individuals, Society and Nature"
+author: "Leonard Mortensen -"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Despite Intimidation, Union Voices Get Louder for Ceasefire in Gaza'
+author: "Keith Brower Brown and Caitlyn Clark -"
 category: labor
 tags:
   - unions

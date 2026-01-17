@@ -1,5 +1,6 @@
 ---
 title: 'Social Syndicalism: an Opinion of One Old Shipyard Worker'
+author: "Arthur J Miller -"
 category: contemporary-analysis
 tags:
   - syndicalism

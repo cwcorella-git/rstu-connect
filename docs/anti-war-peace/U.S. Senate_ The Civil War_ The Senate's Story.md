@@ -1,5 +1,6 @@
 ---
 title: 'U. S. Senate: The Civil War: The Senate''s Story'
+date: 1870
 category: anti-war-peace
 tags:
   - anti-war

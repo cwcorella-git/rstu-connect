@@ -1,5 +1,6 @@
 ---
 title: "Globalize the intifada"
+date: 1976
 category: "contemporary-analysis"
 ---
 

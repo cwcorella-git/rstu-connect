@@ -1,5 +1,6 @@
 ---
 title: DEFUND THE POLICE
+date: 2023
 category: international-solidarity
 tags:
   - police

@@ -1,5 +1,6 @@
 ---
 title: "Understanding Emotion"
+date: 1995
 category: "contemporary-analysis"
 ---
 

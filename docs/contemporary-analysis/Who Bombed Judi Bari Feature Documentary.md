@@ -1,5 +1,6 @@
 ---
 title: "Who Bombed Judi Bari? Feature Documentary"
+author: "Darryl Cherney -"
 category: "contemporary-analysis"
 ---
 

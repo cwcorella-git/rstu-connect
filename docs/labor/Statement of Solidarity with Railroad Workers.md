@@ -1,5 +1,6 @@
 ---
 title: Statement of Solidarity with Railroad Workers
+author: "Staff -"
 category: technology-digital-justice
 tags:
   - solidarity

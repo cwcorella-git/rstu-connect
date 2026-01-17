@@ -1,5 +1,6 @@
 ---
 title: Book review
+date: 2007
 category: contemporary-analysis
 tags: []
 ---

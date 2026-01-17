@@ -1,5 +1,6 @@
 ---
 title: Jeff Shantz
+date: 2004
 category: contemporary-analysis
 tags:
   - anarchism

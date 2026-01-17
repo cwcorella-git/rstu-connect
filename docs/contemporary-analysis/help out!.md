@@ -1,5 +1,5 @@
 ---
-title: "help out!"
+title: "Help out!"
 category: "contemporary-analysis"
 ---
 

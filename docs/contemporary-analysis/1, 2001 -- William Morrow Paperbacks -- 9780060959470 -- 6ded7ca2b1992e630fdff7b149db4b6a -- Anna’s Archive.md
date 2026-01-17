@@ -1,5 +1,6 @@
 ---
-title: "bell hooks"
+title: "Bell hooks"
+date: 2001
 category: "contemporary-analysis"
 ---
 

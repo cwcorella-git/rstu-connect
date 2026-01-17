@@ -1,5 +1,6 @@
 ---
 title: "Preface"
+date: 1901
 category: "contemporary-analysis"
 ---
 

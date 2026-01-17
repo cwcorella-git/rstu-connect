@@ -1,5 +1,6 @@
 ---
 title: "Challenging the Terms of Order"
+date: 1935
 category: "contemporary-analysis"
 ---
 

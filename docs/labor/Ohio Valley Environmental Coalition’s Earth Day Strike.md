@@ -1,5 +1,6 @@
 ---
 title: Ohio Valley Environmental Coalition's Earth Day Strike
+author: "Cal Colgan -"
 category: labor
 tags:
   - strikes

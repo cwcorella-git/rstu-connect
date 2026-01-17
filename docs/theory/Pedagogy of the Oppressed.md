@@ -1,5 +1,6 @@
 ---
 title: Pedagogy of the Oppressed
+date: 1968
 category: theory
 tags:
   - theory

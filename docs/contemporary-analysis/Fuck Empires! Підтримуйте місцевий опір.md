@@ -1,5 +1,5 @@
 ---
-title: "## Fuck Empires!"
+title: "Fuck Empires!"
 category: "contemporary-analysis"
 ---
 

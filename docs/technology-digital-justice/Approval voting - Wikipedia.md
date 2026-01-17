@@ -1,5 +1,6 @@
 ---
 title: Approval voting
+date: 1992
 category: technology-digital-justice
 tags:
   - technology

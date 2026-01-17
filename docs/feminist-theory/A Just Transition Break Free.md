@@ -1,5 +1,6 @@
 ---
 title: 'A Just Transition: Break Free'
+author: "John Paul Wright -"
 category: feminist-theory
 tags:
   - just transition

@@ -1,5 +1,6 @@
 ---
 title: 'The Unions'' Life After Death: Recipes for a new labor movement'
+date: 2022
 category: labor
 tags:
   - labor

@@ -1,5 +1,6 @@
 ---
 title: "Dangerfield Newby"
+date: 1903
 category: "contemporary-analysis"
 ---
 

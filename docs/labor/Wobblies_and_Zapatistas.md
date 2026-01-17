@@ -1,5 +1,6 @@
 ---
 title: Praise for Wobblies & Zapatistas
+date: 2008
 category: contemporary-analysis
 tags:
   - unions

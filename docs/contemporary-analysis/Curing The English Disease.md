@@ -1,5 +1,6 @@
 ---
 title: "Curing The English Disease"
+date: 2001
 category: "contemporary-analysis"
 ---
 

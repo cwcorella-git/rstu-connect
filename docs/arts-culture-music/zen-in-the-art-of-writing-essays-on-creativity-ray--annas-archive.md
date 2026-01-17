@@ -1,5 +1,6 @@
 ---
 title: Z E N IN THE ART OF WRITIN G RAY BRADBURY
+date: 1994
 category: arts-culture-music
 tags: []
 ---

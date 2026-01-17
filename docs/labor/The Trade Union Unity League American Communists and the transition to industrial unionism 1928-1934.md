@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1920
   The Trade Union Unity League: American Communists and the transition to
   industrial unionism: 19
 category: labor

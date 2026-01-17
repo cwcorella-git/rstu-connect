@@ -1,5 +1,6 @@
 ---
 title: 'FREE, FAIR ALVE THE INSURGENT POWER'
+date: 2019
 category: technology-digital-justice
 tags:
   - commons

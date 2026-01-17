@@ -1,5 +1,6 @@
 ---
 title: 'Class Power can Remake Society: Remembering Australia''s ''Green Ban'' Movement'
+author: "Ben Purtill -"
 category: organizing
 tags:
   - class

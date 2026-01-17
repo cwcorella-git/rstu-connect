@@ -1,5 +1,5 @@
 ---
-title: relationship-anarchy.com
+title: "Relationship-anarchy.com"
 category: contemporary-analysis
 tags:
   - anarchism

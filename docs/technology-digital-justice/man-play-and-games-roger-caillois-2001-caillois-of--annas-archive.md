@@ -1,5 +1,7 @@
 ---
 title: 'Man, Play and Games'
+author: "Librairie G alliinard. Paris"
+date: 1958
 category: technology-digital-justice
 tags:
   - technology

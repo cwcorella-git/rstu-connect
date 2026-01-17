@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Radical Education Department -"
   The Teacher Strike in West Virginia: Interview with IWW Teacher Michael
   Mochaidean
 category: organizing

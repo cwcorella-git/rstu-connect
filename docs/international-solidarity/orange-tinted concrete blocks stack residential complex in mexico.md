@@ -1,5 +1,5 @@
 ---
-title: orange-tinted concrete blocks subtly stack residential complex in mexico
+title: "Orange-tinted concrete blocks subtly stack residential complex in mexico"
 category: contemporary-analysis
 tags:
   - Mexico

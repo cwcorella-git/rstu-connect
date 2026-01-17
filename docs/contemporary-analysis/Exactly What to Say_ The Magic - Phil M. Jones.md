@@ -1,5 +1,6 @@
 ---
 title: "Phil M Jones"
+date: 2017
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Ummah"
+date: 1987
 category: "contemporary-analysis"
 ---
 

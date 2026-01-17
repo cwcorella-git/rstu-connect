@@ -1,5 +1,6 @@
 ---
-title: anarchosyndicalism
+title: "Anarchosyndicalism"
+date: 1938
 category: contemporary-analysis
 tags:
   - anarchism

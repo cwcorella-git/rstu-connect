@@ -1,5 +1,6 @@
 ---
 title: University of Memphis Digital Commons University of Memphis Digital Commons
+date: 2015
 category: contemporary-analysis
 tags:
   - anarchism

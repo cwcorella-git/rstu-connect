@@ -1,5 +1,6 @@
 ---
 title: "F. A. Hayek"
+date: 1988
 category: "contemporary-analysis"
 ---
 

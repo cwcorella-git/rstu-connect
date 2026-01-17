@@ -1,5 +1,5 @@
 ---
-title: en.wikipedia.org
+title: "Coppicing Wikipedia"
 category: contemporary-analysis
 tags: []
 ---

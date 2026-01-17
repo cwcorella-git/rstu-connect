@@ -1,5 +1,6 @@
 ---
 title: ABOLITION. FEMINISM. NOW.
+date: 2022
 category: feminist-theory
 tags:
   - feminism

@@ -1,5 +1,6 @@
 ---
 title: "Left And Right Have Nothing In Common On NAFTA"
+author: "Stephanie Basile -"
 category: "contemporary-analysis"
 ---
 

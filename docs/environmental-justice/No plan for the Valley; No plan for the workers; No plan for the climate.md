@@ -1,5 +1,6 @@
 ---
 title: No plan for the Valley; No plan for the workers; No plan for the climate
+author: "IWW Melbourne -"
 category: environmental-justice
 tags:
   - labor

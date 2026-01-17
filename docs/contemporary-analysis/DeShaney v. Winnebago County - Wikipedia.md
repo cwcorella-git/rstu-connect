@@ -1,5 +1,6 @@
 ---
 title: "De Shaney v. Winnebago County"
+date: 1989
 category: "contemporary-analysis"
 ---
 

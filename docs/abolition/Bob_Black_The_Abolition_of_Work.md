@@ -1,5 +1,6 @@
 ---
 title: The Abolition of Work
+date: 1991
 category: contemporary-analysis
 tags:
   - abolition

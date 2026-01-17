@@ -1,5 +1,6 @@
 ---
 title: "Natural Language Cognitive Architecture A Prototype Artificial General Intelligence"
+date: 2021
 category: "contemporary-analysis"
 ---
 

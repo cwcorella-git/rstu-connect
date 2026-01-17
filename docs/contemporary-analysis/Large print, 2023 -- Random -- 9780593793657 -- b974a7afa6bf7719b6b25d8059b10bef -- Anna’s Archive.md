@@ -1,5 +1,7 @@
 ---
 title: "BROOKS"
+author: "David Brooks"
+date: 2023
 category: "contemporary-analysis"
 ---
 

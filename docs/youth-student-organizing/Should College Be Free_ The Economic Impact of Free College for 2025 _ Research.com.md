@@ -1,5 +1,6 @@
 ---
 title: Should College Be Free? The Economic Impact of Free College for 2025
+date: 2014
 category: youth-student-organizing
 tags:
   - education

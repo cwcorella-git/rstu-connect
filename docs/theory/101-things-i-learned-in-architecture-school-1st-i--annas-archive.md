@@ -1,5 +1,6 @@
 ---
 title: 101 Things I Learned in Architecture School
+date: 2007
 category: theory
 tags:
   - education

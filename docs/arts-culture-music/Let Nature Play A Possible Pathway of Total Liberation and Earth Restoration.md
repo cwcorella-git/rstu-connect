@@ -1,5 +1,7 @@
 ---
 title: "Let Nature Play: A Possible Pathway of Total Liberation and Earth Restoration"
+author: "Dan Fischer -"
+date: 2012
 category: "arts-culture-music"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "construction starts on sou fujimoto's 700m diameter wooden ring roof for expo 2025 osaka master plan"
+title: "Construction starts on sou fujimoto's 700m diameter wooden ring roof for expo 2025 osaka master plan"
 category: "contemporary-analysis"
 ---
 

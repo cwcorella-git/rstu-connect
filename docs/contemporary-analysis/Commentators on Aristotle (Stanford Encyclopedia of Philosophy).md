@@ -1,5 +1,6 @@
 ---
 title: Stanford Encyclopedia of Philosophy
+date: 2005
 category: contemporary-analysis
 tags: []
 ---

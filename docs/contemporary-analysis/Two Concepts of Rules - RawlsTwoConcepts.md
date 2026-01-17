@@ -1,5 +1,6 @@
 ---
 title: "Philosophical Review"
+date: 1953
 category: "contemporary-analysis"
 ---
 

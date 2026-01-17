@@ -1,5 +1,6 @@
 ---
 title: "Two Concepts of Rules"
+date: 1953
 category: "contemporary-analysis"
 ---
 

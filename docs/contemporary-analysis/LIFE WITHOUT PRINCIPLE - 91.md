@@ -1,5 +1,6 @@
 ---
 title: "Table of Contents"
+date: 2001
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "YOU ARE DEAD!"
+date: 2022
 category: "contemporary-analysis"
 ---
 

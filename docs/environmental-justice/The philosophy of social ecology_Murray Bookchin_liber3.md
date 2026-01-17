@@ -1,5 +1,6 @@
 ---
 title: FREEDOM AND NECESSITY IN NATURE A Problem in Ecological Ethics'
+date: 1991
 category: environmental-justice
 tags:
   - environment

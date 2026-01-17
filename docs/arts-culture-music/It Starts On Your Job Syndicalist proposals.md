@@ -1,5 +1,6 @@
 ---
 title: 'It Starts On Your Job: Syndicalist proposals'
+date: 2022
 category: arts-culture-music
 tags:
   - syndicalism

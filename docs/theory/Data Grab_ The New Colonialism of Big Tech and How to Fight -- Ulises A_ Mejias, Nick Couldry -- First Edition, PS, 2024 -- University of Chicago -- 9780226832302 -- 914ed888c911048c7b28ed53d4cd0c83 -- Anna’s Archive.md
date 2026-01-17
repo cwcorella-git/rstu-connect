@@ -1,5 +1,6 @@
 ---
 title: DATA GRAB
+date: 2024
 category: theory
 tags:
   - Chicago

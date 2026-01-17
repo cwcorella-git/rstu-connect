@@ -1,5 +1,6 @@
 ---
 title: '1991: Mali General Strike'
+date: 1997
 category: labor
 tags:
   - general strikes

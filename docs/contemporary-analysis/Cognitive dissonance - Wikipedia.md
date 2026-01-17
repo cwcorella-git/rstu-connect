@@ -1,5 +1,6 @@
 ---
 title: "Cognitive dissonance"
+date: 1956
 category: "contemporary-analysis"
 ---
 

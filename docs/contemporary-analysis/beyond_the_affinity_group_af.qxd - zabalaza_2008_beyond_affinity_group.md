@@ -1,5 +1,6 @@
 ---
 title: "Beyond the Affinity Group"
+date: 1868
 category: "contemporary-analysis"
 ---
 

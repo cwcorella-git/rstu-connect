@@ -1,5 +1,6 @@
 ---
 title: Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline
+author: "Mark Hand -"
 category: labor
 tags:
   - unions

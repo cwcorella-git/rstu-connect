@@ -1,5 +1,6 @@
 ---
-title: en.wikipedia.org
+title: "Centralized Government Wikipedia"
+date: 1987
 category: theory
 tags:
   - theory

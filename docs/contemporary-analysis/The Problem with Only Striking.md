@@ -1,5 +1,6 @@
 ---
 title: "The Problem with Only Striking"
+author: "IWW Bruxelles -"
 category: "contemporary-analysis"
 ---
 

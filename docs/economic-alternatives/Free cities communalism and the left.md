@@ -1,5 +1,6 @@
 ---
 title: 'Free cities: communalism and the left'
+date: 1994
 category: contemporary-analysis
 tags:
   - urban

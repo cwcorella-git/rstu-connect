@@ -1,5 +1,5 @@
 ---
-title: "## The New and The Old Church"
+title: "The New and The Old Church"
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: blueprint-for-community-resilience-and-mutual-aid-networks
+title: "Blueprint-for-community-resilience-and-mutual-aid-networks"
 author: '### 3. Resource Limitations'
 date: '2025'
 category: organizing

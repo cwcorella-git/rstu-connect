@@ -5,6 +5,7 @@ title: >-
   Aspects of Emotional Awareness in Relation to Motor
 category: housing
 author: S. Stepper
+date: 2019
 tags:
   - housing
   - tenants

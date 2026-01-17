@@ -1,5 +1,6 @@
 ---
 title: 'If We Must Die: Bomani Shakur''''s Statement On Launching a Hunger Strike'
+author: "Bomani Shakur"
 author: Unknown
 date: '2025'
 category: labor

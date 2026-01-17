@@ -1,5 +1,6 @@
 ---
 title: Were we wrong? - Murray Bookchin
+date: 1934
 category: arts-culture-music
 tags:
   - Bookchin

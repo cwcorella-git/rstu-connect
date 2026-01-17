@@ -1,5 +1,6 @@
 ---
 title: "SNAPSHOTS OF AGENT PROVOCATEURS AROUND THE WORLD"
+date: 2005
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: >-
+date: 1995
   Factionalism in transition: a comparison of ruptures in the Spanish anarchist
   movement - Eduardo Romanos
 category: feminist-theory

@@ -1,5 +1,6 @@
 ---
 title: "Christian Zionism"
+date: 1909
 category: "contemporary-analysis"
 ---
 

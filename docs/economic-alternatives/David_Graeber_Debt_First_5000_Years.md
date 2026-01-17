@@ -1,5 +1,6 @@
 ---
 title: DAVID GRAEBER
+date: 2011
 category: economic-alternatives
 tags:
   - Graeber

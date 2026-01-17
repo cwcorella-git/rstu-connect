@@ -1,5 +1,6 @@
 ---
 title: "Social Functions of Emotion and Emotion Regulation"
+date: 2012
 category: "contemporary-analysis"
 ---
 

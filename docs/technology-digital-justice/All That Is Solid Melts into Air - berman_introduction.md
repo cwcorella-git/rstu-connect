@@ -1,5 +1,5 @@
 ---
-title: '## New York City January 1981'
+title: "New York City January 1981"
 category: technology-digital-justice
 tags:
   - urban

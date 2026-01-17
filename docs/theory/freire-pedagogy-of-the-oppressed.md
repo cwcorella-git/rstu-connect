@@ -1,5 +1,6 @@
 ---
 title: PAULO FREIRE
+date: 1970
 category: theory
 tags:
   - theory

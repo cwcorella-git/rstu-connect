@@ -1,5 +1,6 @@
 ---
-title: '## Radial Agriulture'
+title: "Radial Agriulture"
+date: 1972
 category: arts-culture-music
 tags:
   - food

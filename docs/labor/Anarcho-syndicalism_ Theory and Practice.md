@@ -1,5 +1,6 @@
 ---
 title: 'Anarcho-syndicalism: Theory and Practice'
+date: 1868
 category: contemporary-analysis
 tags:
   - anarchism

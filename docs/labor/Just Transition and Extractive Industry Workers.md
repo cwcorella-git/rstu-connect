@@ -1,5 +1,6 @@
 ---
 title: Just Transition and Extractive Industry Workers
+author: "That Green Union Guy -"
 category: labor
 tags:
   - labor

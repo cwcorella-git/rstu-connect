@@ -1,5 +1,6 @@
 ---
 title: What If Rail Workers Struck? A Talk with RWU
+author: "Ron Kaminkow and the Ypsilante IWW -"
 category: technology-digital-justice
 tags:
   - labor

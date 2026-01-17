@@ -1,5 +1,6 @@
 ---
 title: "HOW TO RUN A COUNTRY"
+date: 2013
 category: "contemporary-analysis"
 ---
 

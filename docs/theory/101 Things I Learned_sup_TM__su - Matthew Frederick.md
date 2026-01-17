@@ -1,5 +1,6 @@
 ---
 title: 101 Things I Learned™ in Film School
+date: 2010
 category: theory
 tags:
   - education

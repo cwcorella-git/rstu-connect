@@ -1,5 +1,6 @@
 ---
 title: "The Moral Basis of Vegetarianism"
+date: 1959
 category: "contemporary-analysis"
 ---
 

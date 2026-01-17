@@ -1,5 +1,6 @@
 ---
-title: en.wikipedia.org
+title: "Bone Rank System Wikipedia"
+date: 2022
 category: contemporary-analysis
 tags: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: Dakota Access opens rift in AFL-CIO and debate within labor movement
+author: "Paul Roland -"
 category: labor
 tags:
   - unions

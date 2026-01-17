@@ -1,5 +1,6 @@
 ---
 title: Henri Lefebvre
+date: 1969
 category: contemporary-analysis
 tags: []
 ---

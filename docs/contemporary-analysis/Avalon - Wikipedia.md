@@ -1,5 +1,6 @@
 ---
 title: "Avalon"
+date: 1860
 category: "contemporary-analysis"
 ---
 

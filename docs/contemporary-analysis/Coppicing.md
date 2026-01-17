@@ -1,5 +1,5 @@
 ---
-title: en.wikipedia.org
+title: "Coppicing"
 category: contemporary-analysis
 tags: []
 ---

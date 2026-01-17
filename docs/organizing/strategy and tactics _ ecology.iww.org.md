@@ -1,5 +1,5 @@
 ---
-title: ecology.iww.org
+title: "Ecology.iww.org"
 category: organizing
 tags:
   - unions

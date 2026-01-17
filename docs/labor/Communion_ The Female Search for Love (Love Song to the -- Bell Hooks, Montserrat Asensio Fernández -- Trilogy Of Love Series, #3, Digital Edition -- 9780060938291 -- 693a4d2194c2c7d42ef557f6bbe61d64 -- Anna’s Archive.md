@@ -1,5 +1,5 @@
 ---
-title: communion
+title: "Communion"
 category: labor
 tags:
   - labor

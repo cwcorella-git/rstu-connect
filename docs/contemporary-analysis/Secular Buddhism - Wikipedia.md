@@ -1,5 +1,6 @@
 ---
 title: "Secular Buddhism"
+date: 2014
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Expressive Order"
+date: 2007
 category: "contemporary-analysis"
 ---
 

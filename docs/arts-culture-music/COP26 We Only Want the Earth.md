@@ -1,5 +1,6 @@
 ---
 title: "COP26: We Only Want the Earth"
+author: "IWW Ireland -"
 category: "arts-culture-music"
 ---
 

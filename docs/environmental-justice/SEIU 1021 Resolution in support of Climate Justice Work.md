@@ -1,5 +1,6 @@
 ---
 title: SEIU 1021 Resolution in support of Climate Justice Work
+author: "SEIU 1021 - Resolution Adopted April 13, 2016"
 category: environmental-justice
 tags:
   - environment

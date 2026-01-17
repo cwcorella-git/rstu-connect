@@ -1,5 +1,6 @@
 ---
 title: Against Capital in the Twenty-First Century
+date: 2018
 category: technology-digital-justice
 tags:
   - capitalism

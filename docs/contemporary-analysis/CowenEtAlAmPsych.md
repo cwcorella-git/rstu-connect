@@ -1,5 +1,6 @@
 ---
 title: Mapping 24 Emotions Conveyed by Brief Human Vocalization
+date: 2018
 category: contemporary-analysis
 tags: []
 ---

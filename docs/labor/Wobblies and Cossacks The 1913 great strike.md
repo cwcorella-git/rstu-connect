@@ -1,5 +1,6 @@
 ---
 title: 'Wobblies and Cossacks: The 1913 great strike'
+date: 2013
 category: contemporary-analysis
 tags:
   - strikes

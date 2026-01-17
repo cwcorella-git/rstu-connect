@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Adrienne Onday andoriginally published at friendship anarchy."
   Wrath Over Pride: A call-out post to 'radical' cis (het) men and their
   inadequacy in gender str
 category: feminist-theory

@@ -1,5 +1,6 @@
 ---
 title: "The World Needs Big Ideas — Here are 10 from the Far Left"
+author: "Mary Lorax -"
 category: "contemporary-analysis"
 ---
 

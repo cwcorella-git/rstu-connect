@@ -1,5 +1,6 @@
 ---
 title: >-
+author: "Steve Zeltser -"
   On The Line In The Fight For Justice: USW 5 Chevron Richmond Refinery Workers
   Strike
 category: contemporary-analysis

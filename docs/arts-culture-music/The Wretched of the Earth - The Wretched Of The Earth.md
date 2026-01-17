@@ -1,5 +1,6 @@
 ---
 title: "REGERED THE SARTE"
+date: 1963
 category: "arts-culture-music"
 ---
 

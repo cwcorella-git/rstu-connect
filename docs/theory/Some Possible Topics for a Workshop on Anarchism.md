@@ -1,5 +1,6 @@
 ---
 title: Some Possible Topics for a Workshop on Anarchism
+date: 1992
 category: contemporary-analysis
 tags:
   - anarchism

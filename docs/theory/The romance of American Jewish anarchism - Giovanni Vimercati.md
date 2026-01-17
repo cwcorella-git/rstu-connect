@@ -1,5 +1,6 @@
 ---
 title: The romance of American Jewish anarchism - Giovanni Vimercati
+date: 1980
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: "The End of Arrogance"
+date: 2010
 category: "contemporary-analysis"
 ---
 

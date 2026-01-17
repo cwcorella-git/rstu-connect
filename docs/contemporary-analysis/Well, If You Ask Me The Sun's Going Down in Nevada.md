@@ -1,5 +1,6 @@
 ---
 title: 'Well, If You Ask Me: The Sun''s Going Down in Nevada'
+author: "Dano T. Bob"
 category: contemporary-analysis
 tags:
   - Nevada

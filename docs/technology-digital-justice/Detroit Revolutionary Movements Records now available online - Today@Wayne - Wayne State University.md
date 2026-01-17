@@ -1,5 +1,5 @@
 ---
-title: today.wayne.edu
+title: "Today.wayne.edu"
 category: technology-digital-justice
 tags:
   - technology

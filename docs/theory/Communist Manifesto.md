@@ -1,5 +1,6 @@
 ---
 title: The Communist Manifesto
+date: 1849
 category: contemporary-analysis
 tags:
   - socialism

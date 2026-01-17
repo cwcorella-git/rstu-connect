@@ -1,5 +1,5 @@
 ---
-title: "carla bergman and Nick Montgomery Joyful Militancy"
+title: "Carla bergman and Nick Montgomery Joyful Militancy"
 category: "contemporary-analysis"
 ---
 

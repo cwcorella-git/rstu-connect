@@ -1,5 +1,5 @@
 ---
-title: "## Self-charging, thousand-year battery startup NDB aces key tests and lands rst beta customers – Te"
+title: "Self-charging, thousand-year battery startup NDB aces key tests and lands rst beta customers – Te"
 category: "arts-culture-music"
 ---
 

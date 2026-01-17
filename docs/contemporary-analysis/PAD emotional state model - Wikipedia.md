@@ -1,5 +1,6 @@
 ---
 title: "PAD emotional state model"
+date: 1980
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Whither Anarchism?
+date: 1998
 category: arts-culture-music
 tags:
   - anarchism

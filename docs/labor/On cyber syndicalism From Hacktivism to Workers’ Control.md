@@ -1,5 +1,7 @@
 ---
 title: 'On cyber syndicalism: From Hacktivism to Workers'' Control'
+author: "Jeff Shantz -"
+date: 2010
 category: technology-digital-justice
 tags:
   - syndicalism

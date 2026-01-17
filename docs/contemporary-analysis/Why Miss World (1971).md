@@ -1,5 +1,6 @@
 ---
 title: "Why Miss World? (1971)"
+date: 1971
 category: "contemporary-analysis"
 ---
 

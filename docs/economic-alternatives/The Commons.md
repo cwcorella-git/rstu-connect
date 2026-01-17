@@ -1,5 +1,6 @@
 ---
 title: The Commons
+date: 2015
 category: contemporary-analysis
 tags:
   - commons

@@ -1,5 +1,6 @@
 ---
 title: "Issue 02: Ten Theses on Science and Radicalism"
+date: 2015
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "SUSAN ROANE"
+date: 1997
 category: "contemporary-analysis"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Syndicalist Sociology: The Forgotten Work of Guillaume De Greef'
+date: 1908
 category: contemporary-analysis
 tags:
   - syndicalism

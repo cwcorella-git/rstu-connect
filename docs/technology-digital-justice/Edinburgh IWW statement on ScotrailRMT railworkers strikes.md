@@ -1,5 +1,6 @@
 ---
 title: Edinburgh IWW statement on Scotrail/RMT railworkers strikes
+author: "Staff -"
 category: technology-digital-justice
 tags:
   - unions

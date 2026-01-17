@@ -1,5 +1,6 @@
 ---
 title: "Affect control theory"
+date: 1975
 category: "contemporary-analysis"
 ---
 

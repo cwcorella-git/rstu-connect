@@ -1,5 +1,6 @@
 ---
 title: 'City, Urban Transformation and the Right to the City'
+date: 2020
 category: contemporary-analysis
 tags:
   - urban

@@ -1,5 +1,6 @@
 ---
 title: 'Well, if You Ask Me: California! Stop with the massive gas leak already!'
+author: "Dano T Bob"
 category: environmental-justice
 tags:
   - fossil fuels

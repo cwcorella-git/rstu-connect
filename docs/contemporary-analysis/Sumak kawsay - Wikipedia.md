@@ -1,5 +1,6 @@
 ---
 title: "Sumak kawsay"
+date: 2011
 category: "contemporary-analysis"
 ---
 

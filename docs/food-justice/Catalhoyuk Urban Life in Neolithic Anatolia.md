@@ -1,5 +1,6 @@
 ---
 title: Innovations in Agriculture; and Innovations in Archaeology
+date: 2017
 category: contemporary-analysis
 tags:
   - food

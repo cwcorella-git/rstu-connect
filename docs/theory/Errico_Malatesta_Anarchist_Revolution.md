@@ -1,5 +1,6 @@
 ---
 title: THE ANARCHIST REVOLUTION Polemical Articles 1924-1931
+date: 1931
 category: contemporary-analysis
 tags:
   - anarchism

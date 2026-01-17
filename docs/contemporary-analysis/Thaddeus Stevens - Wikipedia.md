@@ -1,5 +1,6 @@
 ---
 title: "Thaddeus Stevens"
+date: 1814
 category: "contemporary-analysis"
 ---
 
