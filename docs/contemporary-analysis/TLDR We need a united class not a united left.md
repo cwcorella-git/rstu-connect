@@ -1,5 +1,6 @@
 ---
 title: 'TLDR: We need a united class not a united left'
+author: "libcom.org"
 date: 2023
 category: contemporary-analysis
 tags:

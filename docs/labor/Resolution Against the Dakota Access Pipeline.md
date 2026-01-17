@@ -1,5 +1,6 @@
 ---
 title: Resolution Against the Dakota Access Pipeline
+author: "Industrial Workers of the World"
 date: 2016
 category: labor
 tags:

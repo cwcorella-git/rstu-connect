@@ -1,5 +1,6 @@
 ---
 title: 'Solidarity Journal #13 Winter 1986/7'
+author: "libcom.org"
 date: 1986
 category: contemporary-analysis
 tags:

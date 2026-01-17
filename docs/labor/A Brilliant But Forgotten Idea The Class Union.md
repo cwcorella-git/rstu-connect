@@ -1,5 +1,6 @@
 ---
 title: 'A Brilliant But Forgotten Idea: The Class Union'
+author: "libcom.org"
 date: 1864
 category: labor
 tags:

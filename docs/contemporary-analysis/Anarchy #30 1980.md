@@ -1,5 +1,6 @@
 ---
 title: 'Anarchy #30 1980'
+author: "libcom.org"
 date: 1980
 category: contemporary-analysis
 tags:

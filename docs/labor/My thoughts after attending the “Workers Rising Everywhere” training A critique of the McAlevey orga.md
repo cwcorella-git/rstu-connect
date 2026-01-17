@@ -1,5 +1,6 @@
 ---
 title: "My thoughts after attending the 'Workers Rising Everywhere' training: A critique of the Mc Alev"
+author: "Industrial Workers of the World"
 date: 1949
 category: labor
 tags:

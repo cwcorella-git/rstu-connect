@@ -1,5 +1,6 @@
 ---
 title: '1994: Wallis and Futuna General Strike'
+author: "libcom.org"
 date: 2011
 category: labor
 tags:

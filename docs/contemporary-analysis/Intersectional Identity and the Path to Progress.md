@@ -1,5 +1,6 @@
 ---
 title: "Intersectional Identity and the Path to Progress"
+author: "libcom.org"
 date: 2009
 category: "contemporary-analysis"
 tags:

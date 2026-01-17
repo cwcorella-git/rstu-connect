@@ -1,5 +1,6 @@
 ---
 title: 'Inside The Green Economy: Promises And Pitfalls In 9 Theses'
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

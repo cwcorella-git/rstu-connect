@@ -1,5 +1,6 @@
 ---
 title: 'Persistent WRAP URL:'
+author: "Climate Crisis"
 date: 1983
 category: environmental-justice
 tags:

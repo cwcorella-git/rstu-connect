@@ -1,5 +1,6 @@
 ---
 title: "Te Haymarket Martyrs"
+author: "Lucy E. Parsons"
 date: 1926
 category: "arts-culture-music"
 tags:

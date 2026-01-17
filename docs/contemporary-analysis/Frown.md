@@ -1,5 +1,6 @@
 ---
 title: "Frown"
+author: "Wikipedia contributors"
 date: 2007
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: '[VIDEO] Power to End Capitalism: The Case for Workplace Organizing'
+author: "Industrial Workers of the World"
 category: organizing
 tags:
   - organizing

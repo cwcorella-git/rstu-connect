@@ -1,5 +1,6 @@
 ---
 title: Revolutionary syndicalism
+author: "libcom.org"
 date: 1936
 category: theory
 tags:

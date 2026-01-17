@@ -1,5 +1,6 @@
 ---
 title: The New Prisoner - Martin Sostre (with introduction by Garrett Felber)
+author: "libcom.org"
 date: 1973
 category: arts-culture-music
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Strategies For Climate Justice And A Just Transition
+author: "Industrial Workers of the World"
 date: 2016
 category: feminist-theory
 tags:

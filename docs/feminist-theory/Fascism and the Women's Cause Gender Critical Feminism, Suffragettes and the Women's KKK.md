@@ -1,5 +1,6 @@
 ---
 title: "Fascism and the Women's Cause: Gender Critical Feminism, Suffragettes and the Women's KKK"
+author: "libcom.org"
 date: 2011
 category: feminist-theory
 tags:

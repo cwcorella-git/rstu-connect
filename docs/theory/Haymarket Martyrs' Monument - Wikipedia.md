@@ -1,5 +1,6 @@
 ---
 title: Haymarket Martyrs' Monument
+author: "Wikipedia contributors"
 date: 1893
 category: theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: '1922: Guayaquil General Strike'
+author: "libcom.org"
 date: 1922
 category: labor
 tags:

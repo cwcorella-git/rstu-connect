@@ -1,5 +1,6 @@
 ---
 title: Workplace Rhythm Variability and Emotional Distress in Information Workers
+author: "Regularity Information"
 date: 2021
 category: contemporary-analysis
 tags:

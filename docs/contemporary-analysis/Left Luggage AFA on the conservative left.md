@@ -1,5 +1,6 @@
 ---
 title: "Left Luggage: AFA on the conservative left"
+author: "libcom.org"
 date: 1997
 category: "contemporary-analysis"
 tags:

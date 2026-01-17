@@ -1,5 +1,6 @@
 ---
 title: "Because we want ourselves alive, together we are disrupting everything: Notes for thinking abou"
+author: "libcom.org"
 date: 2017
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island'
+author: "libcom.org"
 date: 1982
 category: theory
 tags:

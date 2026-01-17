@@ -1,5 +1,6 @@
 ---
 title: "Greek public broadcasting shutdown"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - strikes

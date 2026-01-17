@@ -1,5 +1,6 @@
 ---
 title: "What in the World is going on at CSX and Amtrak?"
+author: "Industrial Workers of the World"
 date: 2018
 category: "contemporary-analysis"
 tags:

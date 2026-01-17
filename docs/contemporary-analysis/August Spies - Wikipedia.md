@@ -1,5 +1,6 @@
 ---
 title: "August Spies"
+author: "Wikipedia contributors"
 date: 1855
 category: "contemporary-analysis"
 tags:

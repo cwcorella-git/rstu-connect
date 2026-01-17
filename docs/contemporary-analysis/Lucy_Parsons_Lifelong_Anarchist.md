@@ -1,5 +1,6 @@
 ---
 title: Table of Contents
+author: "Lucy Parsons"
 date: 1905
 category: contemporary-analysis
 tags:

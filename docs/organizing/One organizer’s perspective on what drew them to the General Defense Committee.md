@@ -1,5 +1,6 @@
 ---
 title: One organizer's perspective on what drew them to the General Defense Committee
+author: "Industrial Workers of the World"
 date: 2017
 category: organizing
 tags:

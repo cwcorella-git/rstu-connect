@@ -1,5 +1,6 @@
 ---
 title: Marxism and Sexuality
+author: "libcom.org"
 date: 1909
 category: theory
 tags:

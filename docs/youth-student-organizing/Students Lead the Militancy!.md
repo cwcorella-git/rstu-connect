@@ -1,5 +1,6 @@
 ---
 title: "Students Lead the Militancy!"
+author: "libcom.org"
 date: 1970
 category: youth-student-organizing
 tags:

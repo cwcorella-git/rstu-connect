@@ -1,5 +1,6 @@
 ---
 title: We Demand freedom for Azat Miftakhov
+author: "libcom.org"
 date: 2019
 category: contemporary-analysis
 tags:

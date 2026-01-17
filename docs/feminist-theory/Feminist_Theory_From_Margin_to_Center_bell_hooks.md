@@ -1,5 +1,6 @@
 ---
 title: FEMINIST THEORY from margin to center bell hooks south end press
+author: "Feminist Theory"
 date: 1984
 category: feminist-theory
 tags:

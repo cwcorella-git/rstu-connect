@@ -1,5 +1,6 @@
 ---
 title: 'Kite Line: Appalachian Prison Resistance'
+author: "Industrial Workers of the World"
 date: 2017
 category: technology-digital-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Female Keep Separate: Prisons, Gender, and the Violence of Inclusion'
+author: "libcom.org"
 category: feminist-theory
 tags:
   - prisons

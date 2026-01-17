@@ -1,5 +1,6 @@
 ---
 title: Ursula K. Le Guin
+author: "Ursula Le"
 category: contemporary-analysis
 tags:
   - analysis

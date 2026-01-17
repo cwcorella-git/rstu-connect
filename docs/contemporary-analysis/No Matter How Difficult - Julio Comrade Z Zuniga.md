@@ -1,5 +1,6 @@
 ---
 title: "No Matter How Difficult - Julio \"Comrade Z\" Zuniga"
+author: "libcom.org"
 date: 1913
 category: "contemporary-analysis"
 tags:

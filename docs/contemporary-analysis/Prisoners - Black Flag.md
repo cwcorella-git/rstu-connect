@@ -1,5 +1,6 @@
 ---
 title: Prisoners - Black Flag
+author: "libcom.org"
 date: 1999
 category: contemporary-analysis
 tags:

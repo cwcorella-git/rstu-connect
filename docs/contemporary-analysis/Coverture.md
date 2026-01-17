@@ -1,5 +1,6 @@
 ---
 title: "Coverture"
+author: "Wikipedia contributors"
 date: 1870
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Siberian punk may be imprisoned for anti-militarist agitation
+author: "libcom.org"
 category: abolition
 tags:
   - prisons

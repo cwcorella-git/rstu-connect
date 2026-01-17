@@ -1,5 +1,6 @@
 ---
 title: FAQ on syndicalism
+author: "libcom.org"
 date: 1910
 category: contemporary-analysis
 tags:

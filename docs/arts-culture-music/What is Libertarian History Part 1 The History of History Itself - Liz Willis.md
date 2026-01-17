@@ -1,5 +1,6 @@
 ---
 title: "What is Libertarian History? Part 1: The History of History Itself - Liz Willis"
+author: "libcom.org"
 date: 1818
 category: "arts-culture-music"
 tags:

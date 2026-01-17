@@ -1,5 +1,6 @@
 ---
 title: Railroad and UC Workers Solidarity
+author: "Industrial Workers of the World"
 date: 2022
 category: technology-digital-justice
 tags:

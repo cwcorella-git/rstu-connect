@@ -1,5 +1,6 @@
 ---
 title: Revolutionary syndicalism in France still alive - George Andreytchine
+author: "libcom.org"
 date: 1910
 category: theory
 tags:

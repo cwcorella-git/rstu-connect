@@ -1,5 +1,6 @@
 ---
 title: "Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising to India's Farmer"
+author: "libcom.org"
 date: 1995
 category: labor
 tags:

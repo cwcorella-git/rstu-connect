@@ -1,5 +1,6 @@
 ---
 title: "ICL-CIL referendum 2025: results are in"
+author: "Industrial Workers of the World"
 date: 2025
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Ruth Messinger"
+author: "Wikipedia contributors"
 date: 1990
 category: "contemporary-analysis"
 tags:

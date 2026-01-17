@@ -1,5 +1,6 @@
 ---
 title: "Critical Resistance"
+author: "Wikipedia contributors"
 date: 2000
 category: "contemporary-analysis"
 tags:

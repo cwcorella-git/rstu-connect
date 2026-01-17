@@ -1,5 +1,6 @@
 ---
 title: "Public Servants or Corporate Security? An Open Letter to Law Enforcement and National Guard in"
+author: "Industrial Workers of the World"
 date: 2016
 category: contemporary-analysis
 tags:

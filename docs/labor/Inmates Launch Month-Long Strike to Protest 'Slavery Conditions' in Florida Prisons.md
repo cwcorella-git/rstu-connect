@@ -1,5 +1,6 @@
 ---
 title: "Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons"
+author: "Industrial Workers of the World"
 date: 2018
 category: contemporary-analysis
 tags:

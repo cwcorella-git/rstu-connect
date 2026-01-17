@@ -1,5 +1,6 @@
 ---
 title: 'Europe on strike against austerity: live updates'
+author: "libcom.org"
 date: 2012
 category: labor
 tags:

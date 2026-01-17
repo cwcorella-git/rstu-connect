@@ -1,5 +1,6 @@
 ---
 title: 'Direct Action (Sol Fed) #12 1999'
+author: "libcom.org"
 date: 1999
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Paul Krugman's Sorry Salvation"
+author: "Industrial Workers of the World"
 date: 2016
 category: "contemporary-analysis"
 tags:

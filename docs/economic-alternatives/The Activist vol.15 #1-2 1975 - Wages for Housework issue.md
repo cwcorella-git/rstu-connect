@@ -1,5 +1,6 @@
 ---
 title: 'The Activist vol.15 #1-2 1975 - Wages for Housework issue'
+author: "libcom.org"
 date: 1975
 category: economic-alternatives
 tags:

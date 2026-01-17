@@ -1,5 +1,6 @@
 ---
 title: 'Audrey Goodfriend, 1920-2013: an anarchist life'
+author: "libcom.org"
 date: 1927
 category: contemporary-analysis
 tags:

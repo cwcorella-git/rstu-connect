@@ -77,6 +77,8 @@ function generateManifest() {
 
         // Extract tags from frontmatter, content, or title keywords
         let tags = data.tags || [];
+        // Ensure all tags are strings (YAML might parse numbers or other types)
+        tags = tags.map(t => String(t)).filter(t => t && t !== 'undefined' && t !== 'null');
         if (tags.length === 0) {
           tags = extractTagsFromContent(markdown);
         }
@@ -89,6 +91,7 @@ function generateManifest() {
           const authorLower = author.toLowerCase();
           const authorParts = authorLower.split(/\s+/);
           tags = tags.filter(tag => {
+            if (typeof tag !== 'string') return false;
             const tagLower = tag.toLowerCase();
             // Remove if tag exactly matches author
             if (tagLower === authorLower) return false;

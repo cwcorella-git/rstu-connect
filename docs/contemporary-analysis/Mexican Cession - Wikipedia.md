@@ -1,5 +1,6 @@
 ---
 title: Mexican Cession
+author: "Wikipedia contributors"
 date: 1913
 category: contemporary-analysis
 tags:

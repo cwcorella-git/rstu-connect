@@ -1,5 +1,6 @@
 ---
 title: SOCIAL ANARCHISM OR LIFESTYLE ANARCHISM
+author: "Murray Bookchin"
 date: 1995
 category: theory
 tags:

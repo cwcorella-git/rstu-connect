@@ -1,5 +1,6 @@
 ---
 title: "\"Textbooks are becoming obsolete\" says Bill Gates"
+author: "libcom.org"
 date: 2019
 category: "arts-culture-music"
 tags:

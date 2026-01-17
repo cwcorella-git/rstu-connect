@@ -1,5 +1,6 @@
 ---
 title: "Satyagraha"
+author: "Wikipedia contributors"
 date: 1906
 category: "contemporary-analysis"
 tags:

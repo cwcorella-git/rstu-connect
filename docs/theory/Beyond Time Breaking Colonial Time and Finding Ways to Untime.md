@@ -1,5 +1,6 @@
 ---
 title: 'Beyond Time: Breaking Colonial Time and Finding Ways to Untime'
+author: "libcom.org"
 category: theory
 tags:
   - theory

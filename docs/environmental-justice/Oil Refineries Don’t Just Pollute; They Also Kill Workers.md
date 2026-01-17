@@ -1,5 +1,6 @@
 ---
 title: Oil Refineries Don't Just Pollute; They Also Kill Workers
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Against His-story, Against Leviathan'
+author: "Fredy Perlman"
 category: technology-digital-justice
 tags:
   - technology

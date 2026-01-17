@@ -1,5 +1,6 @@
 ---
 title: "The Eclipse Committee Manifesto"
+author: "libcom.org"
 date: 2026
 category: "contemporary-analysis"
 tags:

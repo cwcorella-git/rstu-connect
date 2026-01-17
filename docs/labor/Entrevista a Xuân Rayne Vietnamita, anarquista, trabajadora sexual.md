@@ -1,5 +1,6 @@
 ---
 title: 'Entrevista a Xuân Rayne: Vietnamita, anarquista, trabajadora sexual'
+author: "libcom.org"
 date: 2018
 category: labor
 tags:

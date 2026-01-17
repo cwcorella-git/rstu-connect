@@ -1,5 +1,6 @@
 ---
 title: "Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation"
+author: "Industrial Workers of the World"
 date: 2022
 category: labor
 tags:

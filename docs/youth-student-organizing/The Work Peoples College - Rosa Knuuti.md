@@ -1,5 +1,6 @@
 ---
 title: The Work Peoples College - Rosa Knuuti
+author: "Industrial Workers of the World"
 date: 1908
 category: youth-student-organizing
 tags:

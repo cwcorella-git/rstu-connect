@@ -1,5 +1,6 @@
 ---
 title: Our Poisonous Economic System Needs A Grassroots Intervention
+author: "Industrial Workers of the World"
 date: 2016
 category: economic-alternatives
 tags:

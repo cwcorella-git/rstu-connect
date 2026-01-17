@@ -1,5 +1,6 @@
 ---
 title: 'George Barrett, anarchists and the Great Unrest'
+author: "libcom.org"
 date: 1910
 category: contemporary-analysis
 tags:

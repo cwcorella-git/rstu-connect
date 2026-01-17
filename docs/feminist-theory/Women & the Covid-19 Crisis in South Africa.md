@@ -1,5 +1,6 @@
 ---
 title: Women & the Covid-19 Crisis in South Africa
+author: "libcom.org"
 date: 2005
 category: feminist-theory
 tags:

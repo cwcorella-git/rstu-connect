@@ -1,5 +1,6 @@
 ---
 title: "Answering Annihilation: Some Notes on Earth's Execution"
+author: "Industrial Workers of the World"
 date: 2017
 category: "arts-culture-music"
 tags:

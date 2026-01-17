@@ -1,5 +1,6 @@
 ---
 title: "Lyndon B. Johnson"
+author: "Wikipedia contributors"
 date: 1963
 category: "contemporary-analysis"
 tags:

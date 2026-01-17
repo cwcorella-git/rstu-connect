@@ -1,5 +1,6 @@
 ---
 title: 'Against the grain: the British far left from 1956'
+author: "libcom.org"
 date: 1956
 category: technology-digital-justice
 tags:

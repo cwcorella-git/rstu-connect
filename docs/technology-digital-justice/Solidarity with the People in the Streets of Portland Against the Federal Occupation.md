@@ -1,5 +1,6 @@
 ---
 title: "Solidarity with the People in the Streets of Portland: Against the Federal Occupation"
+author: "CrimethInc."
 date: 2018
 category: technology-digital-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Bust the Myths About Collective Agreements – Notes From the Swedish Labor Market"
+author: "libcom.org"
 date: 2023
 category: contemporary-analysis
 tags:

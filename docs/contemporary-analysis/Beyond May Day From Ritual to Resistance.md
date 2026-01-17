@@ -1,5 +1,6 @@
 ---
 title: "Beyond May Day: From Ritual to Resistance"
+author: "libcom.org"
 date: 1968
 category: "contemporary-analysis"
 tags:

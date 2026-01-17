@@ -1,5 +1,6 @@
 ---
 title: Against the Logic of Submission - Wolfi Landstreicher
+author: "libcom.org"
 date: 1968
 category: technology-digital-justice
 tags:

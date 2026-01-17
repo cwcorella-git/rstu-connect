@@ -1,5 +1,6 @@
 ---
 title: "A point of clarification"
+author: "Invisible Committee"
 date: 2008
 category: "contemporary-analysis"
 tags:

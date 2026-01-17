@@ -1,5 +1,6 @@
 ---
 title: "No Love for Deliveroo! A reflection on organising and mobilising in the 'gig' economy."
+author: "Industrial Workers of the World"
 category: economic-alternatives
 tags:
   - gig economy

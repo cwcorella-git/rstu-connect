@@ -1,5 +1,6 @@
 ---
 title: "Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip Littler"
+author: "libcom.org"
 date: 2020
 category: contemporary-analysis
 tags:

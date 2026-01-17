@@ -1,5 +1,6 @@
 ---
 title: Living The Dream in the feminist moment
+author: "libcom.org"
 category: feminist-theory
 tags:
   - feminism

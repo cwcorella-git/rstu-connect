@@ -1,5 +1,6 @@
 ---
 title: About the KAPD from Report No. 242 of Sipo Berlin
+author: "libcom.org"
 category: theory
 tags:
   - Germany

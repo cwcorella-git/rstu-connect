@@ -1,5 +1,6 @@
 ---
 title: "The Cordobazo, 1969, photo gallery"
+author: "libcom.org"
 date: 1969
 category: "contemporary-analysis"
 tags:

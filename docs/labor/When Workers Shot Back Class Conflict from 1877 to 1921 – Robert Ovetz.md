@@ -1,5 +1,6 @@
 ---
 title: 'When Workers Shot Back: Class Conflict from 1877 to 1921 – Robert Ovetz'
+author: "libcom.org"
 date: 1877
 category: contemporary-analysis
 tags:

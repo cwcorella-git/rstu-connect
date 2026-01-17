@@ -1,5 +1,6 @@
 ---
 title: "Response to Greg Butler's critique of the Green New Deal and the Rank-and-File Strategy"
+author: "Industrial Workers of the World"
 date: 2021
 category: organizing
 tags:

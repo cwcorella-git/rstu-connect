@@ -1,5 +1,6 @@
 ---
 title: "I. W. W. Convention - S. W. (Sam Dolgoff)"
+author: "Industrial Workers of the World"
 date: 1938
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Berenguer, Sara (1919-2010)"
+author: "Confederación Nacional del Trabajo"
 date: 1938
 category: "contemporary-analysis"
 tags:

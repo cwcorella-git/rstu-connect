@@ -1,5 +1,6 @@
 ---
 title: "Mothers without fathers or nothing more than a woman: gender and anarchism in the work of Feder"
+author: "Confederación Nacional del Trabajo"
 date: 1923
 category: feminist-theory
 tags:

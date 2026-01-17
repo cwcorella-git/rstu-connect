@@ -1,5 +1,6 @@
 ---
 title: Earthworkers Unite!
+author: "Industrial Workers of the World"
 date: 2024
 category: arts-culture-music
 tags:

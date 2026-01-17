@@ -1,5 +1,6 @@
 ---
 title: "Marx in Detroit"
+author: "Industrial Workers of the World"
 date: 1976
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop Irrigation of Crop"
+author: "Industrial Workers of the World"
 date: 2016
 category: food-justice
 tags:

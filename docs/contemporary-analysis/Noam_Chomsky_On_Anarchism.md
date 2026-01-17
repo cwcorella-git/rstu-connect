@@ -1,5 +1,6 @@
 ---
 title: 3. Part II of *Objectivity and Liberal Scholarship*
+author: "Noam Chomsky"
 date: 1999
 category: contemporary-analysis
 tags:

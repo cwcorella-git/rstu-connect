@@ -1,5 +1,6 @@
 ---
 title: 'Right and Left against the state: education without classes'
+author: "libcom.org"
 category: technology-digital-justice
 tags:
   - education

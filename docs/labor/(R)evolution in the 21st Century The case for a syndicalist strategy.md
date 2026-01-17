@@ -1,5 +1,6 @@
 ---
 title: '(R)evolution in the 21st Century: The case for a syndicalist strategy'
+author: "libcom.org"
 date: 1998
 category: contemporary-analysis
 tags:

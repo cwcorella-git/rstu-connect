@@ -1,5 +1,6 @@
 ---
 title: A note on the anarchist agrupación
+author: "Confederación Nacional del Trabajo"
 date: 2023
 category: contemporary-analysis
 tags:

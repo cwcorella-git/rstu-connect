@@ -1,5 +1,6 @@
 ---
 title: '1902: Belgian General Strike'
+author: "libcom.org"
 date: 1902
 category: labor
 tags:

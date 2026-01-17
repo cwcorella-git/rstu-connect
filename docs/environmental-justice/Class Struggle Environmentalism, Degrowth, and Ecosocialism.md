@@ -1,5 +1,6 @@
 ---
 title: 'Class Struggle Environmentalism, Degrowth, and Ecosocialism'
+author: "Industrial Workers of the World"
 date: 2023
 category: environmental-justice
 tags:

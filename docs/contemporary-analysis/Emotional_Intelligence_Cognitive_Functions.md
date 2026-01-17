@@ -1,5 +1,6 @@
 ---
 title: "Emotional intelligence in action: theoretical models for educators to enhance learning and connection in the classroom: a conceptual review"
+author: "Emotional Intelligence"
 date: 2025
 category: contemporary-analysis
 tags:

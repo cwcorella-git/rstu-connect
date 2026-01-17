@@ -1,5 +1,6 @@
 ---
 title: Special Anti-Patriotic Issue of the Industrial Worker (March 1912)
+author: "Industrial Workers of the World"
 date: 1912
 category: labor
 tags:

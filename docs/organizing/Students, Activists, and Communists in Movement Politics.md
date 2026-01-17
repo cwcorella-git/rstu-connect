@@ -1,5 +1,6 @@
 ---
 title: 'Students, Activists, and Communists in Movement Politics'
+author: "libcom.org"
 date: 1972
 category: organizing
 tags:

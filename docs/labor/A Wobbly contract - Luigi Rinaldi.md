@@ -1,5 +1,6 @@
 ---
 title: A Wobbly contract - Luigi Rinaldi
+author: "Industrial Workers of the World"
 date: 2017
 category: labor
 tags:

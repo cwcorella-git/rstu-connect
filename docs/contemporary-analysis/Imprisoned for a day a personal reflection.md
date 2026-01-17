@@ -1,5 +1,6 @@
 ---
 title: 'Imprisoned for a day: a personal reflection'
+author: "libcom.org"
 date: 2000
 category: contemporary-analysis
 tags:

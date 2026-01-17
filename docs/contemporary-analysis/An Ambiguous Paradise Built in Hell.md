@@ -1,5 +1,6 @@
 ---
 title: "An Ambiguous Paradise Built in Hell"
+author: "Industrial Workers of the World"
 date: 2023
 category: "contemporary-analysis"
 tags:

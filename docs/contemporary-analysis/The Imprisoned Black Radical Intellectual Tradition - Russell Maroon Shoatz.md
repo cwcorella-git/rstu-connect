@@ -1,5 +1,6 @@
 ---
 title: The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - prisons

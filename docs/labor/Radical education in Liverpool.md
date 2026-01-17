@@ -1,5 +1,6 @@
 ---
 title: Radical education in Liverpool
+author: "libcom.org"
 date: 1908
 category: labor
 tags:

@@ -1,5 +1,6 @@
 ---
 title: British Justice On The Run
+author: "libcom.org"
 date: 1992
 category: international-solidarity
 tags:

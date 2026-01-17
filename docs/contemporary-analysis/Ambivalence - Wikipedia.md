@@ -1,5 +1,6 @@
 ---
 title: "Ambivalence"
+author: "Wikipedia contributors"
 date: 1957
 category: "contemporary-analysis"
 tags:

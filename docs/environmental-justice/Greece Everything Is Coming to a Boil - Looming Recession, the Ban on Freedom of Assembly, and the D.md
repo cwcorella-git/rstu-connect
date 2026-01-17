@@ -1,5 +1,6 @@
 ---
 title: "Greece: Everything Is Coming to a Boil - Looming Recession, the Ban on Freedom of Assembly, and the Death of Vassilis Maggos"
+author: "libcom.org"
 date: 2015
 category: environmental-justice
 tags:

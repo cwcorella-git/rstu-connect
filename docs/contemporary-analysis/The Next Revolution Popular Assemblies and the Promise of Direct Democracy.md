@@ -1,5 +1,6 @@
 ---
 title: 'The Next Revolution: Popular Assemblies and the Promise of Direct Democracy'
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - democracy

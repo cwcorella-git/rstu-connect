@@ -1,5 +1,6 @@
 ---
 title: 'A Decade of Train Wrecks: What Has Gone Wrong?'
+author: "Industrial Workers of the World"
 date: 2018
 category: theory
 tags:

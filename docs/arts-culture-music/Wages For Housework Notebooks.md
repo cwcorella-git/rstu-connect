@@ -1,5 +1,6 @@
 ---
 title: Wages For Housework Notebooks
+author: "libcom.org"
 date: 1970
 category: arts-culture-music
 tags:

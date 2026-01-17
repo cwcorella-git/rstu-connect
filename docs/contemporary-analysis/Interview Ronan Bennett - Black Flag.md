@@ -1,5 +1,6 @@
 ---
 title: "Interview: Ronan Bennett - Black Flag"
+author: "libcom.org"
 date: 1974
 category: "contemporary-analysis"
 tags:

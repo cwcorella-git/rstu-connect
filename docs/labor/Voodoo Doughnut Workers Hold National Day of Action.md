@@ -1,5 +1,6 @@
 ---
 title: Voodoo Doughnut Workers Hold National Day of Action
+author: "Industrial Workers of the World"
 date: 2021
 category: labor
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Criminal Syndicalism Laws in Canada: Repression During WWI and Today''s Echoes'
+author: "Industrial Workers of the World"
 date: 1918
 category: contemporary-analysis
 tags:

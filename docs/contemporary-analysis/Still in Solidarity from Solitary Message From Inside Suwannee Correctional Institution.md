@@ -1,5 +1,6 @@
 ---
 title: "Still in Solidarity from Solitary: Message From Inside Suwannee Correctional Institution"
+author: "Industrial Workers of the World"
 date: 2018
 category: contemporary-analysis
 tags:

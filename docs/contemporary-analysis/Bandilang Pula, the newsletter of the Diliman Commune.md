@@ -1,5 +1,6 @@
 ---
 title: "Bandilang Pula, the newsletter of the Diliman Commune"
+author: "libcom.org"
 date: 1971
 category: "contemporary-analysis"
 tags:

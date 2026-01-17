@@ -1,5 +1,6 @@
 ---
 title: "The history of a photo - and a video. Anti-fascism's strength and limits in facing rape culture"
+author: "libcom.org"
 date: 2017
 category: arts-culture-music
 tags:

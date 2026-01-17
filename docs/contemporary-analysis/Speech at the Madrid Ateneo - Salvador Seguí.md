@@ -1,5 +1,6 @@
 ---
 title: "Speech at the Madrid Ateneo - Salvador Seguí"
+author: "Confederación Nacional del Trabajo"
 date: 1919
 category: "contemporary-analysis"
 tags:

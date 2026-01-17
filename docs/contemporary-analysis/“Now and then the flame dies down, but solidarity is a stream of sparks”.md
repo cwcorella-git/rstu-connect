@@ -1,5 +1,6 @@
 ---
 title: '''Now and then the flame dies down, but solidarity is a stream of sparks'''
+author: "libcom.org"
 date: 2009
 category: contemporary-analysis
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Class Consciousness And Working Class Emancipation
-author: Unknown
+author: "libcom.org"
 date: '1914'
 category: theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Affect control theory"
+author: "Wikipedia contributors"
 date: 1975
 category: "contemporary-analysis"
 tags:

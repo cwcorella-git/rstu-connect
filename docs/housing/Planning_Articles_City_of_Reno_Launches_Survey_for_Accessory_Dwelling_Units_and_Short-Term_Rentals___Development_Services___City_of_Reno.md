@@ -1,5 +1,6 @@
 ---
 title: "City of Reno Launches Survey for Accessory Dwelling Units and Short-Term Rentals _ Development Services _ City of Reno.pdf"
+author: "Planning Articles"
 
 date: '2024'
 category: housing

@@ -1,5 +1,6 @@
 ---
 title: "[GCI-ICG] Theory of decadence, decadence of theory. The worst product of imperialism: anti-impe"
+author: "libcom.org"
 date: 1916
 category: international-solidarity
 tags:

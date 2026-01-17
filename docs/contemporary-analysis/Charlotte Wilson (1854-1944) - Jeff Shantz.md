@@ -1,5 +1,6 @@
 ---
 title: "Charlotte Wilson (1854-1944) - Jeff Shantz"
+author: "libcom.org"
 date: 1854
 category: "contemporary-analysis"
 tags:

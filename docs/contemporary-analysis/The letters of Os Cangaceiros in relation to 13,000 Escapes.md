@@ -1,5 +1,6 @@
 ---
 title: "The letters of Os Cangaceiros in relation to \"13,000 Escapes\""
+author: "libcom.org"
 date: 1991
 category: "contemporary-analysis"
 tags:

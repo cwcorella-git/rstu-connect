@@ -1,5 +1,6 @@
 ---
 title: "MICHE L FOUCAULT"
+author: "Michel Foucault"
 date: 1977
 category: "contemporary-analysis"
 tags:

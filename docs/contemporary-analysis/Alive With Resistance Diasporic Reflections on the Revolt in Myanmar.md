@@ -1,5 +1,6 @@
 ---
 title: 'Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar'
+author: "libcom.org"
 date: 1989
 category: contemporary-analysis
 tags:

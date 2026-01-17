@@ -1,5 +1,6 @@
 ---
 title: Swedish syndicalism – An outline of its ideology and practice
+author: "libcom.org"
 date: 2021
 category: contemporary-analysis
 tags:

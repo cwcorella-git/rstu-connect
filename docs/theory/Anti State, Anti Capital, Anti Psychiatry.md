@@ -1,5 +1,6 @@
 ---
 title: 'Anti State, Anti Capital, Anti Psychiatry'
+author: "libcom.org"
 date: 1965
 category: theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution Pipeline"
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike"
+author: "Industrial Workers of the World"
 date: 2016
 category: contemporary-analysis
 tags:

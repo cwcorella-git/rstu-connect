@@ -1,5 +1,6 @@
 ---
 title: "Revolt in Iran: The Feminist Resurrection and the Beginning of the End for the Regime"
+author: "libcom.org"
 date: 2022
 category: feminist-theory
 tags:

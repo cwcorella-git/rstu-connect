@@ -1,5 +1,6 @@
 ---
 title: MURRAY BOOKCHIN
+author: "Murray Bookchin"
 date: 2006
 category: arts-culture-music
 tags:

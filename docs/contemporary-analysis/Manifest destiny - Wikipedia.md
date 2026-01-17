@@ -1,5 +1,6 @@
 ---
 title: "Manifest destiny"
+author: "Wikipedia contributors"
 date: 1872
 category: "contemporary-analysis"
 tags:

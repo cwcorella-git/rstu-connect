@@ -1,5 +1,6 @@
 ---
 title: Free Alabama Movement launches 30-Day Economic Blackout
+author: "libcom.org"
 date: 2013
 category: economic-alternatives
 tags:

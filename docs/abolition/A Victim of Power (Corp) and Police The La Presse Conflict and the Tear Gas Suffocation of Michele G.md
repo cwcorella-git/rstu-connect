@@ -1,6 +1,6 @@
 ---
 title: A Victim Of Power Corp And Police The La Presse Conflict And The Tear
-author: Unknown
+author: "libcom.org"
 date: '1971'
 category: abolition
 tags:

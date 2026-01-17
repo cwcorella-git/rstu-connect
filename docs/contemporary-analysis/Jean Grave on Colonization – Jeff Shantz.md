@@ -1,5 +1,6 @@
 ---
 title: "Jean Grave on Colonization – Jeff Shantz"
+author: "libcom.org"
 date: 1912
 category: "contemporary-analysis"
 tags:

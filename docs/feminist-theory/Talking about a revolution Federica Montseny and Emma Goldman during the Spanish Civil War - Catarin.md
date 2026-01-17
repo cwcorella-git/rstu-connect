@@ -1,5 +1,6 @@
 ---
 title: "Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - C"
+author: "Confederación Nacional del Trabajo"
 date: 1920
 category: feminist-theory
 tags:

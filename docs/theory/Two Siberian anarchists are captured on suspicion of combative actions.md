@@ -1,5 +1,6 @@
 ---
 title: Two Siberian anarchists are captured on suspicion of combative actions
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - anarchism

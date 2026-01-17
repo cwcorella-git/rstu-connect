@@ -1,5 +1,6 @@
 ---
 title: Capitalism is the Virus - Class Solidarity is the Cure!
+author: "Industrial Workers of the World"
 category: theory
 tags:
   - solidarity

@@ -1,5 +1,6 @@
 ---
 title: Women and sex in China - Flora Chan
+author: "libcom.org"
 date: 1975
 category: feminist-theory
 tags:

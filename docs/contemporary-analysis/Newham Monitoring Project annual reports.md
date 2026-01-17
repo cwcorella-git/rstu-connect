@@ -1,5 +1,6 @@
 ---
 title: "Newham Monitoring Project annual reports"
+author: "libcom.org"
 date: 1983
 category: "contemporary-analysis"
 tags:

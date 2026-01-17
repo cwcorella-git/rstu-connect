@@ -1,5 +1,6 @@
 ---
 title: What kind of "just transition"?
+author: "Industrial Workers of the World"
 date: 2015
 category: feminist-theory
 tags:

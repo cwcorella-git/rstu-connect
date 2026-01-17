@@ -1,5 +1,6 @@
 ---
 title: "The Ego and Its Own"
+author: "Max Stirner"
 date: 1995
 category: "contemporary-analysis"
 tags:

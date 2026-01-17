@@ -1,5 +1,6 @@
 ---
 title: "Activists Demand Independent Investigation After Cops Kill Protester in Atlanta"
+author: "Industrial Workers of the World"
 date: 2023
 category: abolition
 tags:

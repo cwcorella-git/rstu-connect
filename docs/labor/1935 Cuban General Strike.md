@@ -1,5 +1,6 @@
 ---
 title: '1935: Cuban General Strike'
+author: "libcom.org"
 date: 2011
 category: labor
 tags:

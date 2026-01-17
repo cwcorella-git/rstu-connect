@@ -1,5 +1,6 @@
 ---
 title: "Never Dormant on Death Row: Siddique Hasan and Bomani Shakur on Ferguson & movements against po"
+author: "libcom.org"
 date: 2014
 category: technology-digital-justice
 tags:

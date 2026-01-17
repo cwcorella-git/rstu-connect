@@ -1,5 +1,6 @@
 ---
 title: Are Prisons Obsolete?
+author: "Angela Y. Davis"
 date: 1990
 category: contemporary-analysis
 tags:

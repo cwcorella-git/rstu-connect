@@ -1,5 +1,6 @@
 ---
 title: To Libertarians - Guy Debord/International Friends
+author: "libcom.org"
 date: 1980
 category: international-solidarity
 tags:

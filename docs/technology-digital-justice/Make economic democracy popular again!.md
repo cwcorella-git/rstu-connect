@@ -1,5 +1,6 @@
 ---
 title: Make economic democracy popular again!
+author: "libcom.org"
 date: 2012
 category: technology-digital-justice
 tags:

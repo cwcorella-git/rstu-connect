@@ -1,5 +1,6 @@
 ---
 title: "Stasi"
+author: "Wikipedia contributors"
 date: 1950
 category: "contemporary-analysis"
 tags:

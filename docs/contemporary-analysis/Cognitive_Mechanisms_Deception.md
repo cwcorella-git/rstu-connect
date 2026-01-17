@@ -1,5 +1,6 @@
 ---
 title: "UvA-DARE (Digital Academic Repository)"
+author: "Cognitive Mechanisms"
 date: 2015
 category: "contemporary-analysis"
 tags:

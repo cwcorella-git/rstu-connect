@@ -1,5 +1,6 @@
 ---
 title: 'Municipalization: Community Ownership of the Economy'
+author: "libcom.org"
 date: 1986
 category: economic-alternatives
 tags:

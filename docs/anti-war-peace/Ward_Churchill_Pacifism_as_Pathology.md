@@ -1,5 +1,6 @@
 ---
 title: PACIFISM as PATHOLOGY
+author: "Ward Churchill"
 date: 1998
 category: anti-war-peace
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Keep Us Alive and Vibrant Out There: An Interview with Political Prisoner Eric King"
+author: "It's Going Down"
 date: 2014
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "A-E-I-O-U: Agitate, Educate, Inoculate, Organize, Union / pUsh (from 'Wages So Low You'll Freak"
+author: "libcom.org"
 date: 2007
 category: labor
 tags:

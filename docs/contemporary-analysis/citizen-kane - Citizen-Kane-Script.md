@@ -1,5 +1,6 @@
 ---
 title: "PROLOGUE"
+author: "Herman J. Mankiewicz"
 date: 1940
 category: "contemporary-analysis"
 tags:

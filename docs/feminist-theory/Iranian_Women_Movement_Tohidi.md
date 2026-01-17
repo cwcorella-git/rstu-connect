@@ -1,5 +1,6 @@
 ---
 title: WOMEN'S RIGHTS AND FEMINIST MOVEMENTS IN IRAN1
+author: "Iranian Women"
 date: 1935
 category: feminist-theory
 tags:

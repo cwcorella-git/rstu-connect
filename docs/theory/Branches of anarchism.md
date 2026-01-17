@@ -1,5 +1,6 @@
 ---
 title: Branches of anarchism
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - anarchism

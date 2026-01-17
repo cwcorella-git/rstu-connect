@@ -1,5 +1,6 @@
 ---
 title: "Statutes of the Red and Black Coordination"
+author: "libcom.org"
 date: 2010
 category: "contemporary-analysis"
 tags:

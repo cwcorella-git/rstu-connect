@@ -1,5 +1,6 @@
 ---
 title: "Living The Dream in the time of #metoo Part 1"
+author: "libcom.org"
 category: "arts-culture-music"
 tags:
   - arts

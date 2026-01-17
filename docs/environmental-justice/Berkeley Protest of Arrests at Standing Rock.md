@@ -1,5 +1,6 @@
 ---
 title: Berkeley Protest of Arrests at Standing Rock
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

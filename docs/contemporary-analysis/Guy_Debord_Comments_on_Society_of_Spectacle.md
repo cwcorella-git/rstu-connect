@@ -1,5 +1,6 @@
 ---
 title: "Comments on the Society of the Spectacle"
+author: "Guy Debord"
 date: 1984
 category: "contemporary-analysis"
 tags:

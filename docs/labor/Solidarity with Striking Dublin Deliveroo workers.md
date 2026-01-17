@@ -1,5 +1,6 @@
 ---
 title: Solidarity with Striking Dublin Deliveroo workers
+author: "Industrial Workers of the World"
 category: organizing
 tags:
   - solidarity

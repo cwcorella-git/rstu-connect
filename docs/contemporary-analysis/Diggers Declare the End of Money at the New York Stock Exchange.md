@@ -1,5 +1,6 @@
 ---
 title: Diggers Declare the End of Money at the New York Stock Exchange
+author: "libcom.org"
 date: 2000
 category: contemporary-analysis
 tags:

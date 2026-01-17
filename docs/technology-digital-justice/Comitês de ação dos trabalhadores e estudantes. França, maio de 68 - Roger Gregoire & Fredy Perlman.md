@@ -1,5 +1,6 @@
 ---
 title: "Comitês de ação dos trabalhadores e estudantes. França, maio de 68 - Roger Gregoire & Fredy Per"
+author: "libcom.org"
 date: 1968
 category: technology-digital-justice
 tags:

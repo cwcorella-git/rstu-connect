@@ -1,5 +1,6 @@
 ---
 title: Nurses join with partner environmental groups to demand climate justice now
+author: "Industrial Workers of the World"
 date: 2015
 category: labor
 tags:

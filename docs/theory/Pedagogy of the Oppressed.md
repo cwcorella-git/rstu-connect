@@ -1,5 +1,6 @@
 ---
 title: Pedagogy of the Oppressed
+author: "libcom.org"
 date: 1968
 category: theory
 tags:

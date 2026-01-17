@@ -1,5 +1,6 @@
 ---
 title: 'Haitians overthrow regime, 1984-1986'
+author: "libcom.org"
 date: 1986
 category: technology-digital-justice
 tags:

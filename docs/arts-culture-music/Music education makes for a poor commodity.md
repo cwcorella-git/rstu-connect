@@ -1,5 +1,6 @@
 ---
 title: Music education makes for a poor commodity
+author: "libcom.org"
 date: 2009
 category: arts-culture-music
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Feminists attacked by CGT union goons during Paris demonstration
+author: "libcom.org"
 date: 2004
 category: feminist-theory
 tags:

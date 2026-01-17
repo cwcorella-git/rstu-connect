@@ -1,5 +1,6 @@
 ---
 title: 'Class Struggle, Autonomy, and the State in Iran'
+author: "libcom.org"
 date: 1898
 category: economic-alternatives
 tags:

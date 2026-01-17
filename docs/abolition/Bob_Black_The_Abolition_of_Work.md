@@ -1,5 +1,6 @@
 ---
 title: The Abolition of Work
+author: "Bob Black"
 date: 1991
 category: contemporary-analysis
 tags:

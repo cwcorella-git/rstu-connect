@@ -1,5 +1,6 @@
 ---
 title: "Hong Kong, a struggle for bourgeois freedoms trapped within the limits of capitalism and politi"
+author: "libcom.org"
 date: 2014
 category: technology-digital-justice
 tags:

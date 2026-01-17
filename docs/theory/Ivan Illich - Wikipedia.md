@@ -1,5 +1,6 @@
 ---
 title: Ivan Illich
+author: "Wikipedia contributors"
 date: 1926
 category: theory
 tags:

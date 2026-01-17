@@ -1,5 +1,6 @@
 ---
 title: Disabled Communists and Anarchists (Volume 2)
+author: "libcom.org"
 category: theory
 tags:
   - anarchism

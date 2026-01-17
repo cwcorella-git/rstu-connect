@@ -1,5 +1,6 @@
 ---
 title: "\"Judge Lynch, you have the floor!\" The murder of Farion amid the decay processes in the warring"
+author: "libcom.org"
 date: 2023
 category: anti-war-peace
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Anarchy #11 1973'
+author: "libcom.org"
 date: 1973
 category: contemporary-analysis
 tags:

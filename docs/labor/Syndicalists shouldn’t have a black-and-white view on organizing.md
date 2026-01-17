@@ -1,5 +1,6 @@
 ---
 title: Syndicalists shouldn't have a black-and-white view on organizing
+author: "libcom.org"
 date: 2022
 category: contemporary-analysis
 tags:

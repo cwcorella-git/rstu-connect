@@ -1,5 +1,6 @@
 ---
 title: 'General strike in Italy: new date and follow-up assembly'
+author: "libcom.org"
 category: organizing
 tags:
   - general strikes

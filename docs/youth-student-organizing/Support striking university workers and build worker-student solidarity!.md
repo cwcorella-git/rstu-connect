@@ -1,5 +1,6 @@
 ---
 title: Support striking university workers and build worker-student solidarity!
+author: "Industrial Workers of the World"
 date: 2022
 category: youth-student-organizing
 tags:

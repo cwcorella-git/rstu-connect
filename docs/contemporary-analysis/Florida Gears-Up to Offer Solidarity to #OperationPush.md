@@ -1,5 +1,6 @@
 ---
 title: 'Florida Gears-Up to Offer Solidarity to #Operation Push'
+author: "Industrial Workers of the World"
 date: 2018
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "The Murder of George Floyd: The End of Racism Starts with the Death of Capitalism"
+author: "libcom.org"
 date: 2013
 category: arts-culture-music
 tags:

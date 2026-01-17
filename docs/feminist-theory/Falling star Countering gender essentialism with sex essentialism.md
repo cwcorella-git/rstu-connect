@@ -1,5 +1,6 @@
 ---
 title: 'Falling star: Countering gender essentialism with sex essentialism'
+author: "libcom.org"
 date: 2016
 category: feminist-theory
 tags:

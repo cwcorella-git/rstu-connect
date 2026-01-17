@@ -1,5 +1,6 @@
 ---
 title: "Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censo"
+author: "Industrial Workers of the World"
 date: 2016
 category: "arts-culture-music"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "¡Ya Basta! The Call for a Latine Libertarian Socialism (Part 2): The Latine People Within the United States"
+author: "libcom.org"
 date: 1898
 category: theory
 tags:

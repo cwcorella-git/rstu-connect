@@ -1,5 +1,6 @@
 ---
 title: The Origins and Capture of International Working Women's Day
+author: "libcom.org"
 date: 1896
 category: feminist-theory
 tags:

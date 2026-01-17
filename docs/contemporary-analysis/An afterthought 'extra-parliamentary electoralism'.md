@@ -1,5 +1,6 @@
 ---
 title: "An afterthought: 'extra-parliamentary electoralism'"
+author: "libcom.org"
 date: 2015
 category: "contemporary-analysis"
 tags:

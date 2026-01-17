@@ -1,5 +1,6 @@
 ---
 title: 'The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation'
+author: "libcom.org"
 date: 1968
 category: youth-student-organizing
 tags:

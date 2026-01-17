@@ -1,5 +1,6 @@
 ---
 title: 'Ovambo migrant workers general strike for rights, Namibia: 1971-72'
+author: "libcom.org"
 date: 1972
 category: labor
 tags:

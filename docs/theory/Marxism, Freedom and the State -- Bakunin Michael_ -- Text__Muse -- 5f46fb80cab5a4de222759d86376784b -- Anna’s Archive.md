@@ -1,5 +1,6 @@
 ---
 title: Marxism Freedom and the State
+author: "Mikhail Bakunin"
 date: 1950
 category: contemporary-analysis
 tags:

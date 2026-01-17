@@ -1,5 +1,6 @@
 ---
 title: "Anarchosyndicalism"
+author: "Rudolf Rocker"
 date: 1938
 category: contemporary-analysis
 tags:

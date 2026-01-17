@@ -1,5 +1,6 @@
 ---
 title: "Deliveroo riders strike back against cuts to shifts in London, Leeds and Nottingham"
+author: "Industrial Workers of the World"
 category: organizing
 tags:
   - strikes

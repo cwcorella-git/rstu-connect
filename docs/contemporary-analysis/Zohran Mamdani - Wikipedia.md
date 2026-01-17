@@ -1,5 +1,6 @@
 ---
 title: "Zohran Mamdani"
+author: "Wikipedia contributors"
 date: 2021
 category: "contemporary-analysis"
 tags:

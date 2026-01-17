@@ -1,5 +1,6 @@
 ---
 title: War against war is starting? The grapes of wrath in Ukraine
+author: "libcom.org"
 date: 2022
 category: arts-culture-music
 tags:

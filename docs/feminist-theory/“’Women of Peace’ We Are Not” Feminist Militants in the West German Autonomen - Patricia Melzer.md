@@ -1,5 +1,6 @@
 ---
 title: "''Women of Peace' We Are Not': Feminist Militants in the West German Autonomen - Patricia Melze"
+author: "libcom.org"
 category: feminist-theory
 tags:
   - feminism

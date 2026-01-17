@@ -1,5 +1,6 @@
 ---
 title: "The bloody May of 1936 in Thessaloniki, Greece"
+author: "libcom.org"
 date: 1936
 category: "contemporary-analysis"
 tags:

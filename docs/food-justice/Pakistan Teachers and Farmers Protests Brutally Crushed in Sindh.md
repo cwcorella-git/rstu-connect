@@ -1,5 +1,6 @@
 ---
 title: 'Pakistan: Teachers and Farmers Protests Brutally Crushed in Sindh'
+author: "libcom.org"
 date: 2014
 category: food-justice
 tags:

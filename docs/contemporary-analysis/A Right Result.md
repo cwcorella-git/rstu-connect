@@ -1,5 +1,6 @@
 ---
 title: "A Right Result"
+author: "libcom.org"
 date: 1991
 category: "contemporary-analysis"
 tags:

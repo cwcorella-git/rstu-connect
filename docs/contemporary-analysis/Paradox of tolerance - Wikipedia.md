@@ -1,5 +1,6 @@
 ---
 title: "Paradox of tolerance"
+author: "Wikipedia contributors"
 date: 1945
 category: "contemporary-analysis"
 tags:

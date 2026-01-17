@@ -1,5 +1,6 @@
 ---
 title: Starving for Covid Relief in Indiana's Solitary Confinement Unit
+author: "libcom.org"
 date: 2020
 category: contemporary-analysis
 tags:

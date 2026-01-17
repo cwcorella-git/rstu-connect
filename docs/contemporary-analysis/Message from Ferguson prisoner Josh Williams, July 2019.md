@@ -1,5 +1,6 @@
 ---
 title: 'Message from Ferguson prisoner Josh Williams, July 2019'
+author: "libcom.org"
 date: 2019
 category: contemporary-analysis
 tags:

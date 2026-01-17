@@ -1,5 +1,6 @@
 ---
 title: 'Review - The Lucas Plan: A New Trade Unionism In The Making?'
+author: "Industrial Workers of the World"
 date: 2023
 category: labor
 tags:

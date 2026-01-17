@@ -1,5 +1,6 @@
 ---
 title: Fundraiser for Night vision binoculars
+author: "libcom.org"
 category: technology-digital-justice
 tags:
   - technology

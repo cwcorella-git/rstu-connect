@@ -1,5 +1,6 @@
 ---
 title: "Mistaken Identity: the Tortured History of Sabotage, Part 1"
+author: "Industrial Workers of the World"
 date: 2016
 category: "arts-culture-music"
 tags:

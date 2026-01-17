@@ -1,5 +1,6 @@
 ---
 title: Land and Liberty
+author: "Ricardo Flores"
 category: contemporary-analysis
 tags:
   - liberty

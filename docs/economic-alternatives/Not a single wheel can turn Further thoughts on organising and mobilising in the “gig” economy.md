@@ -1,5 +1,6 @@
 ---
 title: "Not a single wheel can turn: Further thoughts on organising and mobilising in the 'gig' economy"
+author: "Industrial Workers of the World"
 category: economic-alternatives
 tags:
   - economics

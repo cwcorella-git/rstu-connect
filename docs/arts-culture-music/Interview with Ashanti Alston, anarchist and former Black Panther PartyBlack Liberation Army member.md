@@ -1,5 +1,6 @@
 ---
 title: "Interview with Ashanti Alston, anarchist and former Black Panther Party/Black Liberation Army m"
+author: "libcom.org"
 date: 1972
 category: arts-culture-music
 tags:

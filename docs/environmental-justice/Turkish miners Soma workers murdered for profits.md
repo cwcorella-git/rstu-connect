@@ -1,5 +1,6 @@
 ---
 title: 'Turkish miners: Soma workers murdered for profits'
+author: "libcom.org"
 date: 2014
 category: environmental-justice
 tags:

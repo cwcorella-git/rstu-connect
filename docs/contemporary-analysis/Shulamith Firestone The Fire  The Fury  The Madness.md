@@ -1,5 +1,6 @@
 ---
 title: "Shulamith Firestone: The Fire / The Fury / The Madness"
+author: "libcom.org"
 date: 2009
 category: "contemporary-analysis"
 tags:

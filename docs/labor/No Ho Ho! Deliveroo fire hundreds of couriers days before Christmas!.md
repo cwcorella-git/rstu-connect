@@ -1,5 +1,6 @@
 ---
 title: No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!
+author: "Industrial Workers of the World"
 category: contemporary-analysis
 tags:
   - gig economy

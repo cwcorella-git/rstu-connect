@@ -1,5 +1,6 @@
 ---
 title: "An Open Letter of a Part-Time Instructor from PUP"
+author: "libcom.org"
 date: 2018
 category: "arts-culture-music"
 tags:

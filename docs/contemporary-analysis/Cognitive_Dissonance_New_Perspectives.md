@@ -1,5 +1,6 @@
 ---
 title: "New perspectives on cognitive dissonance theory"
+author: "Cognitive Dissonance"
 date: 2017
 category: "contemporary-analysis"
 tags:

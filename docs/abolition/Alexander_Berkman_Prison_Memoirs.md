@@ -1,5 +1,6 @@
 ---
 title: Prison Memoirs of an Anarchist
+author: "Alexander Berkman"
 category: contemporary-analysis
 tags:
   - anarchism

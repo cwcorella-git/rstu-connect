@@ -1,5 +1,6 @@
 ---
 title: Solidarity Collectives - Call for Action week - February 24 - 3 march
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - protests

@@ -1,5 +1,6 @@
 ---
 title: "Gender egalitarianism made us human: A response to David Graeber & David Wengrow's 'How to chan"
+author: "libcom.org"
 date: 1980
 category: feminist-theory
 tags:

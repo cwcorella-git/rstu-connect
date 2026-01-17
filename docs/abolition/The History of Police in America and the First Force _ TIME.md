@@ -1,6 +1,6 @@
 ---
 title: The History Of Police In America And The First Force   Time
-author: Unknown
+author: "Olivia B. Waxman"
 date: '1838'
 category: abolition
 tags:

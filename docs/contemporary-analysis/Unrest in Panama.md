@@ -1,5 +1,6 @@
 ---
 title: "Unrest in Panama"
+author: "libcom.org"
 date: 2009
 category: "contemporary-analysis"
 tags:

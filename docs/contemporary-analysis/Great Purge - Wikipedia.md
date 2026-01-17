@@ -1,5 +1,6 @@
 ---
 title: "Great Purge"
+author: "Wikipedia contributors"
 date: 1936
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Wisconsin"
+author: "Wikipedia contributors"
 date: 2020
 category: "contemporary-analysis"
 tags:

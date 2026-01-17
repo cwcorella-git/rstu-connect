@@ -1,5 +1,6 @@
 ---
 title: Autumn wave of radical direct action on both sides of the front line
+author: "libcom.org"
 date: 2023
 category: contemporary-analysis
 tags:

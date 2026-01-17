@@ -1,5 +1,6 @@
 ---
 title: Committee for Academic Freedom in Africa newsletter
+author: "libcom.org"
 date: 1991
 category: international-solidarity
 tags:

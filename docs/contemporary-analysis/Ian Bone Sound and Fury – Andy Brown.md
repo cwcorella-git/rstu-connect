@@ -1,5 +1,6 @@
 ---
 title: "Ian Bone: Sound and Fury – Andy Brown"
+author: "libcom.org"
 date: 1962
 category: "contemporary-analysis"
 tags:

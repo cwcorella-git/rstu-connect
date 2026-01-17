@@ -1,5 +1,6 @@
 ---
 title: Northeast Ohio Protestors Demand Justice for East Palestine
+author: "Industrial Workers of the World"
 date: 2023
 category: international-solidarity
 tags:

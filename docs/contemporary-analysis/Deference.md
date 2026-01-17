@@ -1,5 +1,6 @@
 ---
 title: "Deference"
+author: "Wikipedia contributors"
 date: 2005
 category: "contemporary-analysis"
 tags:

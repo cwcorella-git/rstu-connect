@@ -1,5 +1,6 @@
 ---
 title: 'Direct Action in the Motor City: Restaurant Workers Fight Back'
+author: "Industrial Workers of the World"
 date: 2017
 category: contemporary-analysis
 tags:

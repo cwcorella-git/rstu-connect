@@ -1,5 +1,6 @@
 ---
 title: "Queer Fire: The George Jackson Brigade, Men Against Sexism, and Gay Struggle Against Prison"
+author: "libcom.org"
 category: feminist-theory
 tags:
   - prisons

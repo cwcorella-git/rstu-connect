@@ -1,5 +1,6 @@
 ---
 title: "Getting Organised"
+author: "libcom.org"
 date: 1997
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "About the organization of anarchists in Ukraine: point of view of a member of a local action collective"
+author: "libcom.org"
 date: 2022
 category: theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: General strike conference and a lesson in the arrogance of trade union leaders
+author: "libcom.org"
 date: 2012
 category: contemporary-analysis
 tags:

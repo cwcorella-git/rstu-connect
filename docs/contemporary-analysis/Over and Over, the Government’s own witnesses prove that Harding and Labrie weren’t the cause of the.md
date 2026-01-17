@@ -1,5 +1,6 @@
 ---
 title: "Over and Over, the Government's own witnesses prove that Harding and Labrie weren't the cause o"
+author: "Industrial Workers of the World"
 date: 2017
 category: "contemporary-analysis"
 tags:

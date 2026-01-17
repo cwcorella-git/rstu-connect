@@ -1,5 +1,6 @@
 ---
 title: Exploring the Intersection of Anarchism and Buddhist Ontology
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: What is Union Action? Bust the Myths!
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - unions

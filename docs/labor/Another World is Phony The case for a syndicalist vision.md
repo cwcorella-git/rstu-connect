@@ -1,5 +1,6 @@
 ---
 title: Another World is Phony? The case for a syndicalist vision
+author: "libcom.org"
 date: 2019
 category: contemporary-analysis
 tags:

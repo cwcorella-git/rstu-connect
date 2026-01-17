@@ -1,5 +1,6 @@
 ---
 title: Middle Class? Fuck Off!
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - class

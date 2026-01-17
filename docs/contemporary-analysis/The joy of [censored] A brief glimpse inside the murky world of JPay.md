@@ -1,5 +1,6 @@
 ---
 title: "The joy of [censored]: A brief glimpse inside the murky world of JPay"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - analysis

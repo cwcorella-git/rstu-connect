@@ -1,5 +1,6 @@
 ---
 title: Lenin on 'freedom of love' as a bourgeois demand
+author: "libcom.org"
 date: 1915
 category: contemporary-analysis
 tags:

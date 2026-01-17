@@ -1,5 +1,6 @@
 ---
 title: "Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist"
+author: "Industrial Workers of the World"
 date: 2014
 category: international-solidarity
 tags:

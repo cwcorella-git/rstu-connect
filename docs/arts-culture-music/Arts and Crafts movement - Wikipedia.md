@@ -1,5 +1,6 @@
 ---
 title: "Arts and Crafts movement"
+author: "Wikipedia contributors"
 date: 1852
 category: "arts-culture-music"
 tags:

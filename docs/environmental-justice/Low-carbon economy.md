@@ -1,5 +1,6 @@
 ---
 title: Low-carbon economy
+author: "Wikipedia contributors"
 date: 2017
 category: environmental-justice
 tags:

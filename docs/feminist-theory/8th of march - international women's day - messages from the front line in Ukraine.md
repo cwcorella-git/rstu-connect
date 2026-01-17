@@ -1,5 +1,6 @@
 ---
 title: "8th of march - international women's day - messages from the front line in Ukraine"
+author: "libcom.org"
 date: 2022
 category: theory
 tags:

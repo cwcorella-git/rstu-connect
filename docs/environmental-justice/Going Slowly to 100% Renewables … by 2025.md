@@ -1,5 +1,6 @@
 ---
 title: Going Slowly to 100% Renewables … by 2025?
+author: "Industrial Workers of the World"
 date: 2020
 category: environmental-justice
 tags:

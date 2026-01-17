@@ -1,5 +1,6 @@
 ---
 title: Popular Radicalism and the Unemployed in Chicago during the Great Depression
+author: "libcom.org"
 date: 1937
 category: contemporary-analysis
 tags:

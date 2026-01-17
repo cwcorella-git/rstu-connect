@@ -1,5 +1,6 @@
 ---
 title: "\"My Workplace Is Uniquely Bad\" - A kind of disordered thinking that every organiser will encoun"
+author: "Industrial Workers of the World"
 category: contemporary-analysis
 tags:
   - labor

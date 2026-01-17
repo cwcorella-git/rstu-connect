@@ -1,5 +1,6 @@
 ---
 title: No peace in Europe ? lWMA call to the workers of the world
+author: "libcom.org"
 date: 1914
 category: anti-war-peace
 tags:

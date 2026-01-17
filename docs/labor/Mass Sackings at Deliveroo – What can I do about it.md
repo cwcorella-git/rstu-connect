@@ -1,5 +1,6 @@
 ---
 title: Mass Sackings at Deliveroo – What can I do about it?
+author: "Industrial Workers of the World"
 category: contemporary-analysis
 tags:
   - gig economy

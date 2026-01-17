@@ -1,5 +1,6 @@
 ---
 title: '''Instead, We Became Millions'': Inside Colombia''s Ongoing General Strike'
+author: "libcom.org"
 date: 2019
 category: contemporary-analysis
 tags:

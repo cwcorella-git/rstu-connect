@@ -1,5 +1,6 @@
 ---
 title: "Curing The English Disease"
+author: "libcom.org"
 date: 2001
 category: "contemporary-analysis"
 tags:

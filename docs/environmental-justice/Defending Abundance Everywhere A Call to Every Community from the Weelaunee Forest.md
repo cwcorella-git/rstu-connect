@@ -1,5 +1,6 @@
 ---
 title: "Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest"
+author: "Industrial Workers of the World"
 date: 2023
 category: environmental-justice
 tags:

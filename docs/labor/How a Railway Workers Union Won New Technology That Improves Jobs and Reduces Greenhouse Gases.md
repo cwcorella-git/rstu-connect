@@ -1,5 +1,6 @@
 ---
 title: "How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases*"
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

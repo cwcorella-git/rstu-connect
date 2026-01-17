@@ -1,5 +1,6 @@
 ---
 title: "What's wrong with Prometheanism?"
+author: "libcom.org"
 date: 2008
 category: "contemporary-analysis"
 tags:

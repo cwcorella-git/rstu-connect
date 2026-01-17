@@ -1,5 +1,6 @@
 ---
 title: 'Food, Labour and Ecology'
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

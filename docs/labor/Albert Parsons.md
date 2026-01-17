@@ -1,5 +1,6 @@
 ---
 title: Albert Parsons
+author: "Wikipedia contributors"
 date: 1873
 category: labor
 tags:

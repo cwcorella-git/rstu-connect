@@ -1,5 +1,6 @@
 ---
 title: West Virginia school employees sold out?
+author: "libcom.org"
 date: 2018
 category: youth-student-organizing
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Class Counts
+author: "Class Counts"
 date: 1948
 category: contemporary-analysis
 tags:

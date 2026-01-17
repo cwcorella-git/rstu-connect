@@ -1,5 +1,6 @@
 ---
 title: "Strength of the street: Karachi 1972 - Kamran Asdar Ali"
+author: "libcom.org"
 date: 1972
 category: "contemporary-analysis"
 tags:

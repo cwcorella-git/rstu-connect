@@ -1,5 +1,6 @@
 ---
 title: "The Advances in the History of Cognitive Dissonance Theory"
+author: "Cognitive Dissonance"
 date: 1951
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Post-conspiracy: Notes from an Egoist Criminologist"
+author: "libcom.org"
 date: 1979
 category: "contemporary-analysis"
 tags:

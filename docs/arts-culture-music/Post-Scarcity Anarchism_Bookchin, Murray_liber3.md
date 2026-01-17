@@ -1,5 +1,6 @@
 ---
 title: Post-Scarcity Anarchism
+author: "Murray Bookchin"
 date: 2004
 category: arts-culture-music
 tags:

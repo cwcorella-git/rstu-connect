@@ -1,5 +1,6 @@
 ---
 title: 'Challenges to Freedom: From Nihilism to Anarchist Rebirth'
+author: "libcom.org"
 date: 1981
 category: contemporary-analysis
 tags:

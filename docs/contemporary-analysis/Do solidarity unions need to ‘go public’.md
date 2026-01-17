@@ -1,5 +1,6 @@
 ---
 title: Do solidarity unions need to 'go public'?
+author: "Industrial Workers of the World"
 category: contemporary-analysis
 tags:
   - solidarity

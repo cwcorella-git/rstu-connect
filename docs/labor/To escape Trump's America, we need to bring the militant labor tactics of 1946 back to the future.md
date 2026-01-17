@@ -1,5 +1,6 @@
 ---
 title: "To escape Trump's America, we need to bring the militant labor tactics of 1946 back to the futu"
+author: "Industrial Workers of the World"
 date: 1946
 category: contemporary-analysis
 tags:

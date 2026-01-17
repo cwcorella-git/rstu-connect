@@ -1,5 +1,6 @@
 ---
 title: 'The Green New Deal Isn''t Just Affordable, It''s Necessary Now'
+author: "Industrial Workers of the World"
 date: 2019
 category: environmental-justice
 tags:

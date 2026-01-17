@@ -1,5 +1,6 @@
 ---
 title: "\"If Gezi never happened, the anger at mass murder at Soma could not have burst forth from the p"
+author: "Industrial Workers of the World"
 date: 1980
 category: technology-digital-justice
 tags:

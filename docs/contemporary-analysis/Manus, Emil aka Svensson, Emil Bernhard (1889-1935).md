@@ -1,5 +1,6 @@
 ---
 title: "Manus, Emil aka Svensson, Emil Bernhard (1889-1935)"
+author: "libcom.org"
 date: 1945
 category: "contemporary-analysis"
 tags:

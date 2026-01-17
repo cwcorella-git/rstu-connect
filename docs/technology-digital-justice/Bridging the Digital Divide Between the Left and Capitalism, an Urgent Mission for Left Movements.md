@@ -1,5 +1,6 @@
 ---
 title: "Bridging the Digital Divide Between the Left and Capitalism, an Urgent Mission for Left Movemen"
+author: "libcom.org"
 date: 2020
 category: technology-digital-justice
 tags:

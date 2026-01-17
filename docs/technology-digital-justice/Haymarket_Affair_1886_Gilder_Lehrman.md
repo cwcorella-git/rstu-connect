@@ -1,5 +1,6 @@
 ---
 title: 'The Haymarket Affair, 1886'
+author: "Haymarket Affair"
 date: 1886
 category: technology-digital-justice
 tags:

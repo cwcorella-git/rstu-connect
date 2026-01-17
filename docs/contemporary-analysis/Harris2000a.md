@@ -1,5 +1,6 @@
 ---
 title: "Understanding Emotion"
+author: "Paul L. Harris"
 date: 1995
 category: "contemporary-analysis"
 tags:

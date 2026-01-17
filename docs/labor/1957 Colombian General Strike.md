@@ -1,5 +1,6 @@
 ---
 title: '1957: Colombian General Strike'
+author: "libcom.org"
 date: 1957
 category: labor
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Marie Lousie Berneri on Post-War Imperialism in East Asia - Jeff Shantz
+author: "libcom.org"
 date: 1950
 category: international-solidarity
 tags:

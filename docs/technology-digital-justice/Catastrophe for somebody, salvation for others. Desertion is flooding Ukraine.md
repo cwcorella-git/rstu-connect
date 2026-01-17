@@ -1,5 +1,6 @@
 ---
 title: 'Catastrophe for somebody, salvation for others. Desertion is flooding Ukraine'
+author: "libcom.org"
 date: 1918
 category: technology-digital-justice
 tags:

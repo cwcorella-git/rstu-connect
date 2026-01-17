@@ -1,5 +1,6 @@
 ---
 title: "Blake Escape: book reviews"
+author: "libcom.org"
 date: 1969
 category: "arts-culture-music"
 tags:

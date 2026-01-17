@@ -1,5 +1,6 @@
 ---
 title: 'Lisbon on strike: November 14th in Portugal'
+author: "libcom.org"
 date: 2012
 category: contemporary-analysis
 tags:

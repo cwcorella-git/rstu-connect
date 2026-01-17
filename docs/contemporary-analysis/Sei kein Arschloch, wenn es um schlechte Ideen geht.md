@@ -1,5 +1,6 @@
 ---
 title: "Sei kein Arschloch, wenn es um schlechte Ideen geht"
+author: "Industrial Workers of the World"
 category: "contemporary-analysis"
 tags:
   - analysis

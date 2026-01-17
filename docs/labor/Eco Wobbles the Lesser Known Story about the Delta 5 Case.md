@@ -1,5 +1,6 @@
 ---
 title: 'Eco Wobbles: the Lesser Known Story about the Delta 5 Case'
+author: "Industrial Workers of the World"
 date: 2016
 category: contemporary-analysis
 tags:

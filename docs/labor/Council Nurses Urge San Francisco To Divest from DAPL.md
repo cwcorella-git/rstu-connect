@@ -1,5 +1,6 @@
 ---
 title: Council Nurses Urge San Francisco To Divest from DAPL
+author: "Industrial Workers of the World"
 date: 2017
 category: labor
 tags:

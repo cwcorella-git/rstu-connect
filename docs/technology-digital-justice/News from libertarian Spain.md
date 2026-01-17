@@ -1,5 +1,6 @@
 ---
 title: News from libertarian Spain
+author: "libcom.org"
 category: technology-digital-justice
 tags:
   - Spain

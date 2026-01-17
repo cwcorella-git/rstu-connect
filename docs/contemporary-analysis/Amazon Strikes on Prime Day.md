@@ -1,5 +1,6 @@
 ---
 title: "Amazon Strikes on Prime Day"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - retail-and-food

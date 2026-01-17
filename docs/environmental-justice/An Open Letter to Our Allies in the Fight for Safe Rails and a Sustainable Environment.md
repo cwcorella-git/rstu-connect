@@ -1,5 +1,6 @@
 ---
 title: "An Open Letter to Our Allies in the Fight for Safe Rails and a Sustainable Environment"
+author: "Industrial Workers of the World"
 date: 2017
 category: environmental-justice
 tags:

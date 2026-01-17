@@ -1,5 +1,6 @@
 ---
 title: If You Care About Railroad Safety You Must Defend Tom Harding
+author: "Industrial Workers of the World"
 date: 2016
 category: technology-digital-justice
 tags:

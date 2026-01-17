@@ -1,5 +1,6 @@
 ---
 title: Bookchin on Technology
+author: "libcom.org"
 date: 1978
 category: arts-culture-music
 tags:

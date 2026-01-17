@@ -1,5 +1,6 @@
 ---
 title: "Communion"
+author: "bell hooks"
 category: labor
 tags:
   - labor

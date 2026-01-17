@@ -1,5 +1,6 @@
 ---
 title: Bayard Rustin
+author: "Wikipedia contributors"
 date: 1912
 category: labor
 tags:

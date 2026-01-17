@@ -1,5 +1,6 @@
 ---
 title: From mass strike to new society - Jeremy Brecher
+author: "libcom.org"
 date: 1919
 category: contemporary-analysis
 tags:

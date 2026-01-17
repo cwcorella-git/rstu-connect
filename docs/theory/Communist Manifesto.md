@@ -1,5 +1,6 @@
 ---
 title: The Communist Manifesto
+author: "Wikipedia contributors"
 date: 1849
 category: contemporary-analysis
 tags:

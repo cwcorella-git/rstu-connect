@@ -1,5 +1,6 @@
 ---
 title: Disabled Feminists
+author: "libcom.org"
 category: feminist-theory
 tags:
   - feminism

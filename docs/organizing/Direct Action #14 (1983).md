@@ -1,5 +1,6 @@
 ---
 title: 'Direct Action #14 (1983)'
+author: "Confederación Nacional del Trabajo"
 date: 1983
 category: contemporary-analysis
 tags:

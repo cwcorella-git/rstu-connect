@@ -1,5 +1,6 @@
 ---
 title: "Everything Must Go!"
+author: "Everything Must"
 date: 2015
 category: "contemporary-analysis"
 tags:

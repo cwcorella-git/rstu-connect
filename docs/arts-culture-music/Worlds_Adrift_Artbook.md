@@ -1,5 +1,6 @@
 ---
 title: "THE ART OF"
+author: "Worlds Adrift"
 date: 2014
 category: "arts-culture-music"
 tags:

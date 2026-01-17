@@ -1,5 +1,6 @@
 ---
 title: "Reader about the Syrian Revolution"
+author: "libcom.org"
 date: 2012
 category: "contemporary-analysis"
 tags:

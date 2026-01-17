@@ -1,5 +1,6 @@
 ---
 title: "Chandra"
+author: "Wikipedia contributors"
 date: 1868
 category: "contemporary-analysis"
 tags:

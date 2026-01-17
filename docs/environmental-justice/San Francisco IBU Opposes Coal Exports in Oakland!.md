@@ -1,5 +1,6 @@
 ---
 title: San Francisco IBU Opposes Coal Exports in Oakland!
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Syndicalists in South Africa, 1908-17 - Baruch Hirson'
+author: "libcom.org"
 date: 1902
 category: international-solidarity
 tags:

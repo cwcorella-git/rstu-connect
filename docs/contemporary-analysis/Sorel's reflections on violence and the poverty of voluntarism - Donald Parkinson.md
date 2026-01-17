@@ -1,5 +1,6 @@
 ---
 title: "Sorel's reflections on violence and the poverty of voluntarism - Donald Parkinson"
+author: "libcom.org"
 date: 1910
 category: "contemporary-analysis"
 tags:

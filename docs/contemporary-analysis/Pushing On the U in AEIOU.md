@@ -1,5 +1,6 @@
 ---
 title: "Pushing: On the U in AEIOU"
+author: "Industrial Workers of the World"
 date: 1960
 category: "contemporary-analysis"
 tags:

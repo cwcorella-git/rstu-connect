@@ -1,5 +1,6 @@
 ---
 title: "From one crisis to another. An interview with Helen Arnold and Daniel Blanchard"
+author: "libcom.org"
 date: 2021
 category: "contemporary-analysis"
 tags:

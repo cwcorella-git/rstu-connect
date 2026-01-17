@@ -1,5 +1,6 @@
 ---
 title: From Climate Crisis to Solar Communism
+author: "Industrial Workers of the World"
 date: 2015
 category: environmental-justice
 tags:

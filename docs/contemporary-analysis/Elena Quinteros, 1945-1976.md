@@ -1,5 +1,6 @@
 ---
 title: "Elena Quinteros, 1945-1976"
+author: "libcom.org"
 date: 1966
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'The Pandemic Inside: COVID-19 in Michigan Prisons'
+author: "libcom.org"
 date: 2020
 category: contemporary-analysis
 tags:

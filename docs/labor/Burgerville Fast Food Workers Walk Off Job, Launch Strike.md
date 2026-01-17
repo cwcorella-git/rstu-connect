@@ -1,5 +1,6 @@
 ---
 title: 'Burgerville Fast Food Workers Walk Off Job, Launch Strike'
+author: "Industrial Workers of the World"
 category: food-justice
 tags:
   - strikes

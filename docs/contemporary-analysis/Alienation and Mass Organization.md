@@ -1,5 +1,6 @@
 ---
 title: "Alienation and Mass Organization"
+author: "libcom.org"
 
 date: 2018
 category: "contemporary-analysis"

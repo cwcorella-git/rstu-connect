@@ -1,5 +1,6 @@
 ---
 title: When Women Stop - Everything Stops
+author: "libcom.org"
 date: 1974
 category: feminist-theory
 tags:

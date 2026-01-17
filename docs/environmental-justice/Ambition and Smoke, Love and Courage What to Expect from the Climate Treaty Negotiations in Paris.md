@@ -1,5 +1,6 @@
 ---
 title: "Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty Negotiations in Pa"
+author: "Industrial Workers of the World"
 date: 2015
 category: environmental-justice
 tags:

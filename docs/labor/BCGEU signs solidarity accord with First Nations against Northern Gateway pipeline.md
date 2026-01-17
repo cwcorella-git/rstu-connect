@@ -1,5 +1,6 @@
 ---
 title: "BCGEU signs solidarity accord with First Nations against Northern Gateway pipeline"
+author: "Industrial Workers of the World"
 date: 2016
 category: labor
 tags:

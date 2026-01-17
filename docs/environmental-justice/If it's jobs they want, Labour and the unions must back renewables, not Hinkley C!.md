@@ -1,5 +1,6 @@
 ---
 title: "If it's jobs they want, Labour and the unions must back renewables, not Hinkley C!"
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

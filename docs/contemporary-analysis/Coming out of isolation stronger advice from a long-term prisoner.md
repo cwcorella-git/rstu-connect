@@ -1,5 +1,6 @@
 ---
 title: 'Coming out of isolation stronger: advice from a long-term prisoner'
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - prisons

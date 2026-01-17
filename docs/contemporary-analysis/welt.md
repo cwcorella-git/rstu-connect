@@ -1,5 +1,6 @@
 ---
 title: 'Welt, welts'
+author: "Wikipedia contributors"
 date: 2004
 category: contemporary-analysis
 tags:

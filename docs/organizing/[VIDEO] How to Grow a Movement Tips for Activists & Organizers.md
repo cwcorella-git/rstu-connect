@@ -1,5 +1,6 @@
 ---
 title: '[VIDEO] How to Grow a Movement: Tips for Activists & Organizers'
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - organizing

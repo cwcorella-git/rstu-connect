@@ -1,5 +1,6 @@
 ---
 title: 'It''s happening: 2016 is the year of climate disobedience'
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

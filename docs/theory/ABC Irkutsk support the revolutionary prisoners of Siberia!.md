@@ -1,5 +1,6 @@
 ---
 title: 'ABC Irkutsk: support the revolutionary prisoners of Siberia!'
+author: "libcom.org"
 category: theory
 tags:
   - prisons

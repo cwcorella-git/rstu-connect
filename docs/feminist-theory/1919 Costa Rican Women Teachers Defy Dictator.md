@@ -1,5 +1,6 @@
 ---
 title: '1919: Costa Rican Women Teachers Defy Dictator'
+author: "libcom.org"
 date: 2011
 category: feminist-theory
 tags:

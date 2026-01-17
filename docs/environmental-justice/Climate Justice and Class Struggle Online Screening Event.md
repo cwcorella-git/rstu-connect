@@ -1,5 +1,6 @@
 ---
 title: 'Climate Justice and Class Struggle: Online Screening Event'
+author: "Industrial Workers of the World"
 date: 2022
 category: environmental-justice
 tags:

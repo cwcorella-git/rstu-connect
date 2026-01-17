@@ -1,5 +1,6 @@
 ---
 title: "The first strikes of the mobilized with hundreds of arrests, ongoing rail war and other subvers"
+author: "libcom.org"
 date: 2022
 category: technology-digital-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: The Capitalist Offensive
+author: "libcom.org"
 date: 2008
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Jailed for anti-war rally announcement. The case of Javid Mamedov
+author: "libcom.org"
 category: technology-digital-justice
 tags:
   - prisons

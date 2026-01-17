@@ -1,5 +1,6 @@
 ---
 title: "Defend The Land: End Toxic Gold Mining"
+author: "Industrial Workers of the World"
 date: 2022
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Against the conceptual dumbing down of the 2016 'movement' in France - Mouvement Communiste/Kol"
+author: "libcom.org"
 date: 1995
 category: technology-digital-justice
 tags:

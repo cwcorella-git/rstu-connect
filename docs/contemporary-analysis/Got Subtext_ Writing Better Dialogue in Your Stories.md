@@ -1,5 +1,6 @@
 ---
 title: "Got Subtext? Writing Better Dialogue"
+author: "Jerry B. Jenkins"
 category: "contemporary-analysis"
 tags:
   - analysis

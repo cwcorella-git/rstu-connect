@@ -1,5 +1,6 @@
 ---
 title: Railroaders' Group Supports Rule to Ban Single Employee Train Operations
+author: "Industrial Workers of the World"
 date: 2016
 category: technology-digital-justice
 tags:

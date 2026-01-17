@@ -1,5 +1,6 @@
 ---
 title: Durham Teaching Assistants fight on against Labour and their unions
+author: "libcom.org"
 date: 2016
 category: labor
 tags:

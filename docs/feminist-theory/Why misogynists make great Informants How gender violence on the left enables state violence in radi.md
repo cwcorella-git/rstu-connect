@@ -1,5 +1,6 @@
 ---
 title: "Why misogynists make great Informants: How gender violence on the left enables state violence i"
+author: "libcom.org"
 date: 2006
 category: feminist-theory
 tags:

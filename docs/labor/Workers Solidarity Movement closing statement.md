@@ -1,5 +1,6 @@
 ---
 title: Workers Solidarity Movement closing statement
+author: "libcom.org"
 date: 2021
 category: theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Strike and protests against Macron's employment law
+author: "libcom.org"
 category: technology-digital-justice
 tags:
   - strikes

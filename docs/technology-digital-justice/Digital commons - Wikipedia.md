@@ -1,5 +1,6 @@
 ---
 title: Digital commons
+author: "Wikipedia contributors"
 date: 2018
 category: technology-digital-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Information Anarchy: The Case Against Sponsorships'
+author: "Wikipedia contributors"
 date: 2023
 category: technology-digital-justice
 tags:

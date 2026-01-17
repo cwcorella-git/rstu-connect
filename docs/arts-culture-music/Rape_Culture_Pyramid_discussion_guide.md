@@ -1,5 +1,6 @@
 ---
 title: "ENDING RAPE CULTURE ACTIVITY ZINE"
+author: "Rape Culture"
 date: 2018
 category: "arts-culture-music"
 tags:

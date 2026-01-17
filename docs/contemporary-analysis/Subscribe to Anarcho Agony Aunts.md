@@ -1,5 +1,6 @@
 ---
 title: Subscribe to Anarcho Agony Aunts
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: How Social Trust Shapes Civil Resistance
+author: "Jacob S. Lewis"
 date: 2021
 category: international-solidarity
 tags:

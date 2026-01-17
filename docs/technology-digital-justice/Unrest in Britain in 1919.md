@@ -1,5 +1,6 @@
 ---
 title: Unrest in Britain in 1919
+author: "libcom.org"
 date: 2019
 category: technology-digital-justice
 tags:

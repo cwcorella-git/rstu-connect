@@ -1,5 +1,6 @@
 ---
 title: "Behind the Bars issue 1 January 1924"
+author: "libcom.org"
 date: 1924
 category: "contemporary-analysis"
 tags:

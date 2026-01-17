@@ -1,5 +1,6 @@
 ---
 title: Democratic Confederalism
+author: "Abdullah Ocalan"
 date: 2011
 category: theory
 tags:

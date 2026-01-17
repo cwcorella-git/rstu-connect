@@ -1,5 +1,6 @@
 ---
 title: "Reflections on Revolutionary Defeatism — \"Lefty\" Hooligan"
+author: "libcom.org"
 date: 1975
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Anarchism and the Black Revolution
+author: "Lorenzo Komboa"
 date: 1983
 category: contemporary-analysis
 tags:

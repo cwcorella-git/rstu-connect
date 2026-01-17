@@ -1,5 +1,6 @@
 ---
 title: "Factionalism in transition: a comparison of ruptures in the Spanish anarchist movement - Eduardo Romanos"
+author: "Confederación Nacional del Trabajo"
 date: 1995
 category: feminist-theory
 tags:

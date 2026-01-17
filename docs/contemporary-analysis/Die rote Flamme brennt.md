@@ -1,5 +1,6 @@
 ---
 title: "Die rote Flamme brennt"
+author: "Industrial Workers of the World"
 date: 2018
 category: "contemporary-analysis"
 tags:

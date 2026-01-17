@@ -1,5 +1,6 @@
 ---
 title: "El Manifesto de Aceleracionismo de Género"
+author: "libcom.org"
 date: 1986
 category: "contemporary-analysis"
 tags:

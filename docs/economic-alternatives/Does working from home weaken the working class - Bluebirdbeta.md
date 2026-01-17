@@ -1,5 +1,6 @@
 ---
 title: Does working from home weaken the working class? - Bluebirdbeta
+author: "Industrial Workers of the World"
 category: economic-alternatives
 tags:
   - class

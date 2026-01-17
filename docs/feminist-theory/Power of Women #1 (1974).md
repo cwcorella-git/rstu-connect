@@ -1,5 +1,6 @@
 ---
 title: 'Power of Women #1 (1974)'
+author: "libcom.org"
 date: 1974
 category: feminist-theory
 tags:

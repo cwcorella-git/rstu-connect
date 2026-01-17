@@ -1,5 +1,6 @@
 ---
 title: 'The Trouble with Democracy: An Anarchist View - Jeff Shantz'
+author: "libcom.org"
 date: 2008
 category: contemporary-analysis
 tags:

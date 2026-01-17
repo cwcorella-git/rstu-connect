@@ -1,5 +1,6 @@
 ---
 title: Unions Prepare for UN Climate Talks in Marrakesh
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

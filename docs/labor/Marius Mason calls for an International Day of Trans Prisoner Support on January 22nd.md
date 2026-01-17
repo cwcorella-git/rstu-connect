@@ -1,5 +1,6 @@
 ---
 title: "Marius Mason calls for an International Day of Trans Prisoner Support on January 22nd"
+author: "Industrial Workers of the World"
 date: 2016
 category: labor
 tags:

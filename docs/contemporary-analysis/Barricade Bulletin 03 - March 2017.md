@@ -1,5 +1,6 @@
 ---
 title: Barricade Bulletin 03 - March 2017
+author: "Industrial Workers of the World"
 date: 2017
 category: contemporary-analysis
 tags:

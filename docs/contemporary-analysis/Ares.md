@@ -1,5 +1,6 @@
 ---
 title: "Ares"
+author: "Wikipedia contributors"
 date: 1925
 category: "contemporary-analysis"
 tags:

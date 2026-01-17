@@ -1,5 +1,6 @@
 ---
 title: 'As Tribes Fight Pipeline, Internal AFL-CIO Letter Exposes ''Very Real Split'''
+author: "Industrial Workers of the World"
 date: 2016
 category: labor
 tags:

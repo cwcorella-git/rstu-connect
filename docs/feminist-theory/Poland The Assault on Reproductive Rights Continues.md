@@ -1,5 +1,6 @@
 ---
 title: 'Poland: The Assault on Reproductive Rights Continues'
+author: "libcom.org"
 date: 1990
 category: feminist-theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Municipalism
+author: "Wikipedia contributors"
 date: 2024
 category: contemporary-analysis
 tags:

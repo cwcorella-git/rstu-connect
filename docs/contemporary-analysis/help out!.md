@@ -1,5 +1,6 @@
 ---
 title: "Help out!"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - analysis

@@ -1,5 +1,6 @@
 ---
 title: Martin Glaberman The Working Class and Social Change
+author: "Martin Glaberman"
 date: 1971
 category: arts-culture-music
 tags:

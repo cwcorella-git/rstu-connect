@@ -1,5 +1,6 @@
 ---
 title: Chicago Teachers Take Wildcat Action in the Face of Unsafe COVID Conditions
+author: "Industrial Workers of the World"
 category: labor
 tags:
   - education

@@ -1,5 +1,6 @@
 ---
 title: 'The March Intifada - Bahrain, 1965'
+author: "libcom.org"
 date: 1965
 category: technology-digital-justice
 tags:

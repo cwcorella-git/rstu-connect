@@ -1,5 +1,6 @@
 ---
 title: "Solidarity is the way to survive. A few stories from the occupied South of Ukraine"
+author: "libcom.org"
 category: theory
 tags:
   - solidarity

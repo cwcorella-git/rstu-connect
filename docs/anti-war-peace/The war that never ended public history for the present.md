@@ -1,5 +1,6 @@
 ---
 title: 'The war that never ended: public history for the present'
+author: "libcom.org"
 date: 1914
 category: anti-war-peace
 tags:

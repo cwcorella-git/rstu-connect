@@ -1,5 +1,6 @@
 ---
 title: "Resolutions"
+author: "libcom.org"
 date: 2014
 category: "contemporary-analysis"
 tags:

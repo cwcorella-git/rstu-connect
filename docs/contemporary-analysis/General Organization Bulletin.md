@@ -1,5 +1,6 @@
 ---
 title: "General Organization Bulletin"
+author: "Industrial Workers of the World"
 category: "contemporary-analysis"
 tags:
   - analysis

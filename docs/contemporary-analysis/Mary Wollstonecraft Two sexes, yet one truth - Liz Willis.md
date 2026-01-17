@@ -1,5 +1,6 @@
 ---
 title: "Mary Wollstonecraft: Two sexes, yet one truth - Liz Willis"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - liz-willis

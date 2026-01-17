@@ -1,5 +1,6 @@
 ---
 title: May Day and Immigrant Workers
+author: "Industrial Workers of the World"
 date: 2023
 category: labor
 tags:

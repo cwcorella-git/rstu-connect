@@ -1,5 +1,6 @@
 ---
 title: 'A Modern Anarchism (Part 2): Anarchy'
+author: "libcom.org"
 category: arts-culture-music
 tags:
   - anarchism

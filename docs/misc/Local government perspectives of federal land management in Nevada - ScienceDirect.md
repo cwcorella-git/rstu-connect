@@ -1,6 +1,6 @@
 ---
 title: "Local government perspectives of federal land management in Nevada - ScienceDirect"
-author: Unknown
+author: "ScienceDirect"
 date: '1999'
 category: misc
 tags:

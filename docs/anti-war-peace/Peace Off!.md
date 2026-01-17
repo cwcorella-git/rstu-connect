@@ -1,5 +1,6 @@
 ---
 title: Peace Off!
+author: "libcom.org"
 category: anti-war-peace
 tags:
   - anti-war

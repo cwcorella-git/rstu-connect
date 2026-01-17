@@ -1,5 +1,6 @@
 ---
 title: 'An Injury to One is an Injury to All!: Solidarity with Heathrow 13 activists'
+author: "Industrial Workers of the World"
 date: 2016
 category: contemporary-analysis
 tags:

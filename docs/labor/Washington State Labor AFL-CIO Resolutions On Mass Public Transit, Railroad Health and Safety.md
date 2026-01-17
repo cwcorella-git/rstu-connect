@@ -1,5 +1,6 @@
 ---
 title: "Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad Health and Safety"
+author: "Industrial Workers of the World"
 date: 2016
 category: labor
 tags:

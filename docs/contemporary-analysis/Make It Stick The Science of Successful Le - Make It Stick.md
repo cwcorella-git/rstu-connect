@@ -1,5 +1,6 @@
 ---
 title: "Make it stick"
+author: "Peter C. Brown"
 date: 2014
 category: "contemporary-analysis"
 tags:

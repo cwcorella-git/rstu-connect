@@ -1,5 +1,6 @@
 ---
 title: Prison Peninsula. About Guerrilla Attacks in Occupied Crimea
+author: "libcom.org"
 date: 2022
 category: contemporary-analysis
 tags:

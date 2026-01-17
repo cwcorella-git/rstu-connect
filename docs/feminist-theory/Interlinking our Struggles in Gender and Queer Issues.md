@@ -1,5 +1,6 @@
 ---
 title: Interlinking our Struggles in Gender and Queer Issues
+author: "libcom.org"
 category: feminist-theory
 tags:
   - LGBTQ+

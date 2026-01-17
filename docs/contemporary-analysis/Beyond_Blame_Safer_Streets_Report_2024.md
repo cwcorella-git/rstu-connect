@@ -1,5 +1,6 @@
 ---
 title: "Beyond Blame:"
+author: "Beyond Blame"
 date: 2023
 category: "contemporary-analysis"
 tags:

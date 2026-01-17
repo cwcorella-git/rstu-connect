@@ -1,5 +1,6 @@
 ---
 title: "The Sport of Abusing Prisoners in Lucasville, Ohio: Like Pulling Wings Off Flies"
+author: "libcom.org"
 date: 2020
 category: contemporary-analysis
 tags:

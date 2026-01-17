@@ -1,5 +1,6 @@
 ---
 title: Global Capitalism and the Crisis of Humanity
+author: "William I. Robinson"
 date: 2004
 category: contemporary-analysis
 tags:

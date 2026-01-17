@@ -1,5 +1,6 @@
 ---
 title: ABOLITION. FEMINISM. NOW.
+author: "Abolition Feminism"
 date: 1977
 category: feminist-theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "José Peirats: a comrade, a friend - Federico Arcos"
+author: "Confederación Nacional del Trabajo"
 date: 1962
 category: "contemporary-analysis"
 tags:

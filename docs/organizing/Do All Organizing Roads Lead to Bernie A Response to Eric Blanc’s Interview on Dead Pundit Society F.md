@@ -1,5 +1,6 @@
 ---
 title: "Do All Organizing Roads Lead to Bernie? A Response to Eric Blanc's Interview on Dead Pundit Soc"
+author: "libcom.org"
 date: 2012
 category: contemporary-analysis
 tags:

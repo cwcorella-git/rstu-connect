@@ -1,5 +1,6 @@
 ---
 title: "Future of the I. W. W. Part 2: The Structural and Strategic Roots of the Anti-GEB Movement"
+author: "Industrial Workers of the World"
 date: 2017
 category: organizing
 tags:

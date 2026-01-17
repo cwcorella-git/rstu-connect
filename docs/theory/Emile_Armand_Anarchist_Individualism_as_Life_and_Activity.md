@@ -1,5 +1,6 @@
 ---
 title: Anarchist Individualism as a Life and Activity
+author: "Emile Armand"
 date: 1907
 category: contemporary-analysis
 tags:

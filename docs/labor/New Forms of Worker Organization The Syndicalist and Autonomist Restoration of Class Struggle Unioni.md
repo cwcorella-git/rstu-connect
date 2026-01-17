@@ -1,5 +1,6 @@
 ---
 title: "New Forms of Worker Organization: The Syndicalist and Autonomist Restoration of Class Struggle"
+author: "libcom.org"
 category: economic-alternatives
 tags:
   - syndicalism

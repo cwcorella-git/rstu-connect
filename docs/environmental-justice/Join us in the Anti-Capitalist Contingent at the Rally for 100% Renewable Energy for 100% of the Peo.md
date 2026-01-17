@@ -1,5 +1,6 @@
 ---
 title: "Join us in the Anti-Capitalist Contingent at the \"Rally for 100% Renewable Energy for 100% of t"
+author: "Industrial Workers of the World"
 date: 2015
 category: environmental-justice
 tags:

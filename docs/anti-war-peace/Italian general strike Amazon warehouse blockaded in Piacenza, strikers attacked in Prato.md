@@ -1,5 +1,6 @@
 ---
 title: "Italian general strike: Amazon warehouse blockaded in Piacenza, strikers attacked in Prato"
+author: "libcom.org"
 date: 2021
 category: anti-war-peace
 tags:

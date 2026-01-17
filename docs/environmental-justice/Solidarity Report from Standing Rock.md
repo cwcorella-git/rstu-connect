@@ -1,5 +1,6 @@
 ---
 title: Solidarity Report from Standing Rock
+author: "Industrial Workers of the World"
 date: 2017
 category: environmental-justice
 tags:

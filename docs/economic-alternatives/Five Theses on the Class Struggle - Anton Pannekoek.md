@@ -1,5 +1,6 @@
 ---
 title: Five Theses on the Class Struggle - Anton Pannekoek
+author: "libcom.org"
 category: economic-alternatives
 tags:
   - class

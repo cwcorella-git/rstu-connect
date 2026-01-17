@@ -1,5 +1,6 @@
 ---
 title: Riots in the Potteries in 1842
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - riots

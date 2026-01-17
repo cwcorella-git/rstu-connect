@@ -1,5 +1,6 @@
 ---
 title: 'Review - A Planet to Win:Why We Need a Green New Deal'
+author: "Industrial Workers of the World"
 date: 2023
 category: environmental-justice
 tags:

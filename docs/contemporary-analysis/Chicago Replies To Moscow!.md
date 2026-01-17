@@ -1,5 +1,6 @@
 ---
 title: Chicago Replies To Moscow!
+author: "Industrial Workers of the World"
 date: 1945
 category: contemporary-analysis
 tags:

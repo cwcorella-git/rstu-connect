@@ -1,5 +1,6 @@
 ---
 title: "Preaching to the Converted?"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - analysis

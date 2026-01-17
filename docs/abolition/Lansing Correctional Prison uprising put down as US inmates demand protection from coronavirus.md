@@ -1,5 +1,6 @@
 ---
 title: "Lansing Correctional: Prison uprising put down as US inmates demand protection from coronavirus"
+author: "libcom.org"
 date: 2020
 category: abolition
 tags:

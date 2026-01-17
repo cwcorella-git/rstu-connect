@@ -1,5 +1,6 @@
 ---
 title: The Science of Revolutionary Warfare
+author: "Johann Most"
 date: 1884
 category: anti-war-peace
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Labour and Climate Activists Protest Against Anti-union Laws
+author: "Industrial Workers of the World"
 date: 2022
 category: environmental-justice
 tags:

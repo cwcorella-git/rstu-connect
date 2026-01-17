@@ -1,5 +1,6 @@
 ---
 title: 'Redrawing The Line: The Anarchist Writings of Paul Goodman'
+author: "Paul Goodman"
 date: 1965
 category: contemporary-analysis
 tags:

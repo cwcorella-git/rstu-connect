@@ -1,5 +1,6 @@
 ---
 title: 'Innocent on Death Row: An interview with Bomani Shakur/Keith La Mar'
+author: "libcom.org"
 date: 1993
 category: contemporary-analysis
 tags:

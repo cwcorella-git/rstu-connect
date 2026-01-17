@@ -1,5 +1,6 @@
 ---
 title: "For the creation of a global network of revolutionary anarchists and anti-Leninist communists!"
+author: "libcom.org"
 date: 1917
 category: contemporary-analysis
 tags:

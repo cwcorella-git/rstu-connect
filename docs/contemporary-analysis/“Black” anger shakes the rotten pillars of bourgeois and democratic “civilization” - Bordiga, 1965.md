@@ -1,5 +1,6 @@
 ---
 title: "'Black' anger shakes the rotten pillars of bourgeois and democratic 'civilization' - Bordiga, 1"
+author: "libcom.org"
 date: 1943
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Counter-Planning from the Kitchen - Nicole Cox and Silvia Federici"
+author: "libcom.org"
 date: 1975
 category: "contemporary-analysis"
 tags:

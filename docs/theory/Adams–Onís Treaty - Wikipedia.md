@@ -1,5 +1,6 @@
 ---
 title: Adams–Onís Treaty
+author: "Wikipedia contributors"
 date: 2024
 category: theory
 tags:

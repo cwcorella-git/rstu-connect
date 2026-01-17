@@ -1,5 +1,6 @@
 ---
 title: 'Part One—Theoretical Foundations: Value Theory'
+author: "Kevin Carson"
 date: 2001
 category: economic-alternatives
 tags:

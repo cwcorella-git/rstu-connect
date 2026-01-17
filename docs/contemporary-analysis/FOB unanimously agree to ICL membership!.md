@@ -1,5 +1,6 @@
 ---
 title: "FOB unanimously agree to ICL membership!"
+author: "libcom.org"
 date: 2025
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: An Anarchist on Anarchy
+author: "Elisee Reclus"
 category: contemporary-analysis
 tags:
   - anarchism

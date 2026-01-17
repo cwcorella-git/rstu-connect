@@ -1,5 +1,6 @@
 ---
 title: At The Café
+author: "Errico Malatesta"
 date: 1922
 category: contemporary-analysis
 tags:

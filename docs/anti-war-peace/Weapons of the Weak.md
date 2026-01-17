@@ -1,5 +1,6 @@
 ---
 title: James C. Scott
+author: "Class War Federation"
 date: 1985
 category: anti-war-peace
 tags:

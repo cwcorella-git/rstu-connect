@@ -1,5 +1,6 @@
 ---
 title: "Industrial unionism in America - Marion Dutton Savage"
+author: "Industrial Workers of the World"
 date: 1920
 category: "contemporary-analysis"
 tags:

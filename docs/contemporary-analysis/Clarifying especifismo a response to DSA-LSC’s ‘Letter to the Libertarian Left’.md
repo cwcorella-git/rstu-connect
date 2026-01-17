@@ -1,5 +1,6 @@
 ---
 title: "Clarifying especifismo: a response to DSA-LSC's 'Letter to the Libertarian Left'"
+author: "libcom.org"
 date: 2025
 category: "contemporary-analysis"
 tags:

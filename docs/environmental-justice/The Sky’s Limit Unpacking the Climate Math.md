@@ -1,5 +1,6 @@
 ---
 title: 'The Sky''s Limit: Unpacking the Climate Math'
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Deep Eology & Anarcism
+author: "Murray Bookchin"
 date: 1989
 category: environmental-justice
 tags:

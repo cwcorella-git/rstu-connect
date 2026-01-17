@@ -1,5 +1,6 @@
 ---
 title: Bookchin remembered
+author: "libcom.org"
 date: 1921
 category: arts-culture-music
 tags:

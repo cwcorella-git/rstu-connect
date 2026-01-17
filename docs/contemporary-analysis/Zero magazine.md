@@ -1,5 +1,6 @@
 ---
 title: "Zero magazine"
+author: "libcom.org"
 date: 1976
 category: "contemporary-analysis"
 tags:

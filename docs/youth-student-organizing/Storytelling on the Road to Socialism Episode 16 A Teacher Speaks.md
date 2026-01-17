@@ -1,5 +1,6 @@
 ---
 title: 'Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks'
+author: "Industrial Workers of the World"
 date: 2023
 category: youth-student-organizing
 tags:

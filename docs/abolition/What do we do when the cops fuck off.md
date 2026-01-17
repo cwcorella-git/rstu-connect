@@ -1,5 +1,6 @@
 ---
 title: What do we do when the cops fuck off?
+author: "libcom.org"
 date: 1981
 category: contemporary-analysis
 tags:

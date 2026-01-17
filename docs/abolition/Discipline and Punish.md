@@ -1,5 +1,6 @@
 ---
 title: Michel Foucault Discipline and Punish The Birth of the Prison
+author: "Michel Foucault"
 date: 1926
 category: contemporary-analysis
 tags:

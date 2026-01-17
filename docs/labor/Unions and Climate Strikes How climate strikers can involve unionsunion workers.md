@@ -1,5 +1,6 @@
 ---
 title: "Unions and Climate Strikes: How climate strikers can involve unions/union workers"
+author: "Industrial Workers of the World"
 date: 2006
 category: environmental-justice
 tags:

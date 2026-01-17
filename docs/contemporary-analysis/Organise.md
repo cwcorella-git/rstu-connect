@@ -1,5 +1,6 @@
 ---
 title: "Organise"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - analysis

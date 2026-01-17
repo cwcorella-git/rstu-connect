@@ -1,5 +1,6 @@
 ---
 title: "'We must do away with racial prejudice and imaginary boundary lines': British Columbia wobblies"
+author: "Industrial Workers of the World"
 date: 1900
 category: international-solidarity
 tags:

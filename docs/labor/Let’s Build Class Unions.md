@@ -1,5 +1,6 @@
 ---
 title: Let's Build Class Unions
+author: "libcom.org"
 date: 2023
 category: labor
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Mexican–American War
+author: "Wikipedia contributors"
 date: 2023
 category: anti-war-peace
 tags:

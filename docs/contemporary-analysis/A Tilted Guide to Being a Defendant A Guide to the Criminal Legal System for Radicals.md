@@ -1,5 +1,6 @@
 ---
 title: "A Tilted Guide to Being a Defendant: A Guide to the Criminal Legal System for Radicals"
+author: "libcom.org"
 date: 2016
 category: "contemporary-analysis"
 tags:

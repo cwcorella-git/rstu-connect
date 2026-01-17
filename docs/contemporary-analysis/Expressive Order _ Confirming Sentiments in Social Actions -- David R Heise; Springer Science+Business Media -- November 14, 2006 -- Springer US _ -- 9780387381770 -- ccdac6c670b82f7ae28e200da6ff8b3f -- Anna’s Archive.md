@@ -1,5 +1,6 @@
 ---
 title: "Expressive Order"
+author: "David R. Heise"
 date: 2007
 category: "contemporary-analysis"
 tags:

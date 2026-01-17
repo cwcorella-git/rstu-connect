@@ -1,5 +1,6 @@
 ---
 title: Why I've no regrets about going to prison for shutting down Heathrow airport
+author: "Industrial Workers of the World"
 date: 2016
 category: technology-digital-justice
 tags:

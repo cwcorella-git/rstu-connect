@@ -1,5 +1,6 @@
 ---
 title: 'Make Your Own Tea: Women''s Realm and Other Recipes and Patterns'
+author: "libcom.org"
 date: 1977
 category: feminist-theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Plebeians"
+author: "Wikipedia contributors"
 date: 1982
 category: "contemporary-analysis"
 tags:

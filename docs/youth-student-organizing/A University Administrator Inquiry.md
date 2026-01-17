@@ -1,5 +1,6 @@
 ---
 title: A University Administrator Inquiry
+author: "libcom.org"
 date: 2017
 category: youth-student-organizing
 tags:

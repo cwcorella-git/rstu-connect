@@ -1,5 +1,6 @@
 ---
 title: Toward the Creative Nothing
+author: "Renzo Novatore"
 date: 1890
 category: anti-war-peace
 tags:

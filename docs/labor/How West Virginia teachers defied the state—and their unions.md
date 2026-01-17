@@ -1,5 +1,6 @@
 ---
 title: How West Virginia teachers defied the state—and their unions
+author: "Industrial Workers of the World"
 date: 2018
 category: labor
 tags:

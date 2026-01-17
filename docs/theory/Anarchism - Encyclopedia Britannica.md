@@ -1,5 +1,6 @@
 ---
 title: Anarchism - Encyclopedia Britannica
+author: "libcom.org"
 date: 1904
 category: contemporary-analysis
 tags:

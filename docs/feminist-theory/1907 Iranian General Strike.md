@@ -1,5 +1,6 @@
 ---
 title: '1907: Iranian General Strike'
+author: "libcom.org"
 date: 1906
 category: feminist-theory
 tags:

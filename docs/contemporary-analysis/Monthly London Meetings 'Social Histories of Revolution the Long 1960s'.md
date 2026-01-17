@@ -1,5 +1,6 @@
 ---
 title: "Monthly London Meetings: 'Social Histories of Revolution: the Long 1960s'"
+author: "libcom.org"
 date: 1968
 category: "contemporary-analysis"
 tags:

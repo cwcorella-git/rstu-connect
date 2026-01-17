@@ -1,5 +1,6 @@
 ---
 title: "A letter to the libertarian left"
+author: "libcom.org"
 date: 2024
 category: "contemporary-analysis"
 tags:

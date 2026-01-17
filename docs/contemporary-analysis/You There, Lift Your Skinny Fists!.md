@@ -1,5 +1,6 @@
 ---
 title: "You There, Lift Your Skinny Fists!"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - kristin-supine

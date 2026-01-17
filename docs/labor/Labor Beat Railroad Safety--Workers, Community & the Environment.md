@@ -1,5 +1,6 @@
 ---
 title: 'Labor Beat: Railroad Safety--Workers, Community & the Environment'
+author: "Industrial Workers of the World"
 date: 2015
 category: environmental-justice
 tags:

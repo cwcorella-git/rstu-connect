@@ -1,5 +1,6 @@
 ---
 title: EAST ASIA
+author: "Gina L. Barnes"
 date: 1990
 category: international-solidarity
 tags:

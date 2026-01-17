@@ -1,5 +1,6 @@
 ---
 title: "Fascism's tightening grip in the So Cal desert"
+author: "libcom.org"
 date: 2006
 category: "contemporary-analysis"
 tags:

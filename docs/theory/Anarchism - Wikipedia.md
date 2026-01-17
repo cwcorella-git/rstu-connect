@@ -1,5 +1,6 @@
 ---
 title: Anarchism
+author: "Wikipedia contributors"
 date: 1871
 category: contemporary-analysis
 tags:

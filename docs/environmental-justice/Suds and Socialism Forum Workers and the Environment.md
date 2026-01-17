@@ -1,5 +1,6 @@
 ---
 title: 'Suds and Socialism Forum: Workers and the Environment'
+author: "Industrial Workers of the World"
 date: 2021
 category: environmental-justice
 tags:

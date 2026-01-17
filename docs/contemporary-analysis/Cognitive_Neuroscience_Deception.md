@@ -1,5 +1,6 @@
 ---
 title: "The Cognitive Neuroscience of Deception:"
+author: "Cognitive Neuroscience"
 date: 2001
 category: "contemporary-analysis"
 tags:

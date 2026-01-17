@@ -1,5 +1,6 @@
 ---
 title: 'Blind Spot : Manuel Huet and the libertarian underground in France'
+author: "libcom.org"
 date: 2023
 category: theory
 tags:

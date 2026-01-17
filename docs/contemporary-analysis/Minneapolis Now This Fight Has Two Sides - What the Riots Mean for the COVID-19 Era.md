@@ -1,5 +1,6 @@
 ---
 title: "Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the COVID-19 Era"
+author: "CrimethInc."
 date: 2017
 category: contemporary-analysis
 tags:

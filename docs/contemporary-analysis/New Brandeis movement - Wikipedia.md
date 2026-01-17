@@ -1,5 +1,6 @@
 ---
 title: "New Brandeis movement"
+author: "Wikipedia contributors"
 date: 2018
 category: "contemporary-analysis"
 tags:

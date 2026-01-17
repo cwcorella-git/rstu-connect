@@ -1,5 +1,6 @@
 ---
 title: "American Federation of Teachers Resolution on A Just Transition to a Peaceful and Sustainable E"
+author: "Industrial Workers of the World"
 date: 2017
 category: labor
 tags:

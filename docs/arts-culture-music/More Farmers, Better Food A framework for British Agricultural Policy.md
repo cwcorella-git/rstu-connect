@@ -1,5 +1,6 @@
 ---
 title: 'More Farmers, Better Food: A framework for British Agricultural Policy'
+author: "Industrial Workers of the World"
 date: 2016
 category: arts-culture-music
 tags:

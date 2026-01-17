@@ -1,5 +1,6 @@
 ---
 title: "Indispensable reading for Wobblies, labor historians: a review of The Wobblies in their Heyday"
+author: "Industrial Workers of the World"
 date: 1917
 category: labor
 tags:

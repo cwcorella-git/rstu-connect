@@ -1,5 +1,6 @@
 ---
 title: "Rebel Peripheries"
+author: "libcom.org"
 date: 1937
 category: "contemporary-analysis"
 tags:

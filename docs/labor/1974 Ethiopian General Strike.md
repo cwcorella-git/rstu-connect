@@ -1,5 +1,6 @@
 ---
 title: '1974: Ethiopian General Strike'
+author: "libcom.org"
 date: 1974
 category: labor
 tags:

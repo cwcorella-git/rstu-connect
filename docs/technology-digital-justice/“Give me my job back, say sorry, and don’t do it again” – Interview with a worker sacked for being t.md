@@ -1,5 +1,6 @@
 ---
 title: "'Give me my job back, say sorry, and don't do it again' – Interview with a worker sacked for be"
+author: "Industrial Workers of the World"
 date: 2014
 category: technology-digital-justice
 tags:

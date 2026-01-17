@@ -1,5 +1,6 @@
 ---
 title: Women's Cafe
+author: "libcom.org"
 date: 1980
 category: feminist-theory
 tags:

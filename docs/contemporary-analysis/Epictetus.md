@@ -1,5 +1,6 @@
 ---
 title: "Epictetus"
+author: "Wikipedia contributors"
 date: 2023
 category: "contemporary-analysis"
 tags:

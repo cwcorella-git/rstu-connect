@@ -1,5 +1,6 @@
 ---
 title: How did the Belarusians come to rebellion against the dictatorship
+author: "libcom.org"
 date: 2015
 category: technology-digital-justice
 tags:

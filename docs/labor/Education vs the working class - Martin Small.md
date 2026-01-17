@@ -1,5 +1,6 @@
 ---
 title: Education vs the working class - Martin Small
+author: "libcom.org"
 date: 1962
 category: labor
 tags:

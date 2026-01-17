@@ -1,5 +1,6 @@
 ---
 title: 'Thunberg''s Call for General Strikes: The Confusions of a Liberal Protest'
+author: "libcom.org"
 date: 2017
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Forum
+author: "Forum The"
 date: 2016
 category: contemporary-analysis
 tags:

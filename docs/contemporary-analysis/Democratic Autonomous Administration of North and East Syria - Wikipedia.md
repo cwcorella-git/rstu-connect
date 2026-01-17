@@ -1,5 +1,6 @@
 ---
 title: Democratic Autonomous Administration of North and East Syria
+author: "Wikipedia contributors"
 date: 2016
 category: contemporary-analysis
 tags:

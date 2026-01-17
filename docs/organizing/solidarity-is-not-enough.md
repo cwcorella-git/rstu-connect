@@ -1,5 +1,6 @@
 ---
 title: Solidarity is Not Enough
+author: "Industrial Workers of the World"
 
 date: '2023'
 category: organizing

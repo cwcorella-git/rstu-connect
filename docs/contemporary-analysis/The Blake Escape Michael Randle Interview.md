@@ -1,5 +1,6 @@
 ---
 title: "The Blake Escape: Michael Randle Interview"
+author: "libcom.org"
 date: 1982
 category: "contemporary-analysis"
 tags:

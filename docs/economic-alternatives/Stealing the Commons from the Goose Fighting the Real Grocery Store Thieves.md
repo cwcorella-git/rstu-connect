@@ -1,5 +1,6 @@
 ---
 title: 'Stealing the Commons from the Goose: Fighting the Real Grocery Store Thieves'
+author: "libcom.org"
 date: 2023
 category: contemporary-analysis
 tags:

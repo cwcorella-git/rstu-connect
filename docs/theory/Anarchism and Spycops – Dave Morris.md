@@ -1,5 +1,6 @@
 ---
 title: Anarchism and Spycops – Dave Morris
+author: "libcom.org"
 date: 2020
 category: contemporary-analysis
 tags:

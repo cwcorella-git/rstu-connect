@@ -1,5 +1,6 @@
 ---
 title: Against the Logic of Submission Audio book - Audio Anarchy
+author: "libcom.org"
 category: arts-culture-music
 tags:
   - anarchism

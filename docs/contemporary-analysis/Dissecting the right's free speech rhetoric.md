@@ -1,5 +1,6 @@
 ---
 title: "Dissecting the right's \"free speech\" rhetoric"
+author: "Industrial Workers of the World"
 date: 1965
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Homo sacer
+author: "Wikipedia contributors"
 date: 1998
 category: contemporary-analysis
 tags:

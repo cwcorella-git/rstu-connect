@@ -1,6 +1,6 @@
 ---
 title: Reopen Or Close Schools A Lose Lose Situation For The Working Class
-author: Unknown
+author: "libcom.org"
 date: '1919'
 category: theory
 tags:

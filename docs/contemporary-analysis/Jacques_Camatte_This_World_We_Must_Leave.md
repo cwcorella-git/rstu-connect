@@ -1,5 +1,6 @@
 ---
 title: "THIS WORLD WE MUST LEAVE"
+author: "Jacques Camatte"
 date: 1973
 category: "contemporary-analysis"
 tags:

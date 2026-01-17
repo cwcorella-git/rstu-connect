@@ -1,5 +1,6 @@
 ---
 title: "More on the libertarian underground in France: legal assets and money-laundering"
+author: "Confederación Nacional del Trabajo"
 date: 1949
 category: contemporary-analysis
 tags:

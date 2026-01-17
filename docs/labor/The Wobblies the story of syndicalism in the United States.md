@@ -1,5 +1,6 @@
 ---
 title: 'The Wobblies: the story of syndicalism in the United States'
+author: "Industrial Workers of the World"
 date: 1967
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Five 'I's for a city beyond policing: a message to defense groups in Minneapolis"
+author: "libcom.org"
 date: 2020
 category: contemporary-analysis
 tags:

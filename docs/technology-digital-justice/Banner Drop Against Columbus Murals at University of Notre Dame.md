@@ -1,5 +1,6 @@
 ---
 title: Banner Drop Against Columbus Murals at University of Notre Dame
+author: "Industrial Workers of the World"
 date: 2017
 category: technology-digital-justice
 tags:

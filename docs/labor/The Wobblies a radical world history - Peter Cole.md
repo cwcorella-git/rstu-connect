@@ -1,5 +1,6 @@
 ---
 title: 'The Wobblies: a radical world history - Peter Cole'
+author: "Industrial Workers of the World"
 date: 1905
 category: contemporary-analysis
 tags:

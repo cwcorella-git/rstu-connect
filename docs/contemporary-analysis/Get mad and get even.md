@@ -1,5 +1,6 @@
 ---
 title: "Get mad and get even"
+author: "libcom.org"
 date: 2013
 category: "contemporary-analysis"
 tags:

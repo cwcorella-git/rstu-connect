@@ -1,5 +1,6 @@
 ---
 title: "Was die Solidaritätsgewerkschaft ist und was nicht"
+author: "Industrial Workers of the World"
 date: 2013
 category: "contemporary-analysis"
 tags:

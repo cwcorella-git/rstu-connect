@@ -1,5 +1,6 @@
 ---
 title: Labor activists for Standing Rock
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

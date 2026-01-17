@@ -1,5 +1,6 @@
 ---
 title: Anti-War Direct Action in Ukraine. What's New Since Winter?
+author: "libcom.org"
 date: 2024
 category: technology-digital-justice
 tags:

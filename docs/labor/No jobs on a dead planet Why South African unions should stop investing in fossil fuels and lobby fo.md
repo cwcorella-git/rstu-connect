@@ -1,5 +1,6 @@
 ---
 title: "No jobs on a dead planet: Why South African unions should stop investing in fossil fuels and lo"
+author: "Industrial Workers of the World"
 date: 2017
 category: labor
 tags:

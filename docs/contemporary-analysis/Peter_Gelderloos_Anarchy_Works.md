@@ -1,5 +1,6 @@
 ---
 title: Anarchy Works
+author: "Peter Gelderloos"
 date: 2010
 category: contemporary-analysis
 tags:

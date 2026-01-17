@@ -1,5 +1,6 @@
 ---
 title: 'Prisoner Solidarity is Strength: IWOC Ireland interview John Paul Wootton'
+author: "Industrial Workers of the World"
 category: contemporary-analysis
 tags:
   - solidarity

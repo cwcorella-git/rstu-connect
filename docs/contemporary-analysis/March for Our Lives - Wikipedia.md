@@ -1,5 +1,6 @@
 ---
 title: March for Our Lives
+author: "Wikipedia contributors"
 date: 2018
 category: contemporary-analysis
 tags:

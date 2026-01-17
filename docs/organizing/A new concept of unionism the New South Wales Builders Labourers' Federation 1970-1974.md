@@ -1,5 +1,6 @@
 ---
 title: "A new concept of unionism: the New South Wales Builders Labourers' Federation 1970-1974"
+author: "libcom.org"
 date: 1950
 category: organizing
 tags:

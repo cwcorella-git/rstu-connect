@@ -1,5 +1,6 @@
 ---
 title: 'Ukraine''s Voiceless Army: Ukrainian Deserters Speak Out'
+author: "libcom.org"
 date: 2025
 category: technology-digital-justice
 tags:

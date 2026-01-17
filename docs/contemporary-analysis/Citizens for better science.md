@@ -1,5 +1,6 @@
 ---
 title: "Citizens for better science"
+author: "libcom.org"
 date: 1971
 category: "contemporary-analysis"
 tags:

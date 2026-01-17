@@ -1,5 +1,6 @@
 ---
 title: To front line or to jail. Russian offensive is disrupted by boycott? Part 11
+author: "libcom.org"
 date: 2022
 category: arts-culture-music
 tags:

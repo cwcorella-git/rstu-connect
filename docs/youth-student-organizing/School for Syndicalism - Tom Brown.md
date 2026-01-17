@@ -1,5 +1,6 @@
 ---
 title: School for Syndicalism - Tom Brown
+author: "libcom.org"
 date: 2018
 category: youth-student-organizing
 tags:

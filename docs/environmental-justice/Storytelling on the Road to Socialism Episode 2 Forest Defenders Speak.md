@@ -1,5 +1,6 @@
 ---
 title: 'Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak'
+author: "Industrial Workers of the World"
 date: 2023
 category: environmental-justice
 tags:

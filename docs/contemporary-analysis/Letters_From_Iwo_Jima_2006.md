@@ -1,5 +1,6 @@
 ---
 title: "LETTERS FROM IWO JIMA"
+author: "Letters From"
 date: 2006
 category: "contemporary-analysis"
 tags:

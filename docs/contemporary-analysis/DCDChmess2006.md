@@ -1,5 +1,6 @@
 ---
 title: "Higher-order truths about chmess"
+author: "Daniel C. Dennett"
 date: 1989
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "The Ouarzazate Solar Plant in Morocco: Triumphal 'Green' Capitalism and the Privatization of Nature"
+author: "Industrial Workers of the World"
 date: 1962
 category: environmental-justice
 tags:

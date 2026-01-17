@@ -1,5 +1,6 @@
 ---
 title: Workers solidarity network launches site in Brazil
+author: "libcom.org"
 date: 2017
 category: organizing
 tags:

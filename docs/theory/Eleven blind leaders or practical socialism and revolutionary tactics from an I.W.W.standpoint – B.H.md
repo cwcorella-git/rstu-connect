@@ -1,5 +1,6 @@
 ---
 title: "Eleven blind leaders or \"practical socialism\" and \"revolutionary tactics\" from an I. W. W.standpoint – B. H. Williams"
+author: "Industrial Workers of the World"
 date: 1910
 category: theory
 tags:

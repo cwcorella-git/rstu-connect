@@ -1,5 +1,6 @@
 ---
 title: A syndicalist strategy for the Swedish labour market
+author: "libcom.org"
 date: 2021
 category: contemporary-analysis
 tags:

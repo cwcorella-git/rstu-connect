@@ -1,5 +1,6 @@
 ---
 title: Rally of Soldiers' Women. The First Mass Social Protest in Ukraine 2023
+author: "libcom.org"
 date: 2023
 category: feminist-theory
 tags:

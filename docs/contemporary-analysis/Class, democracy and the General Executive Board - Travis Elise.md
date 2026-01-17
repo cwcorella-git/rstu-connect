@@ -1,5 +1,6 @@
 ---
 title: 'Class, democracy and the General Executive Board - Travis Elise'
+author: "Industrial Workers of the World"
 date: 2017
 category: contemporary-analysis
 tags:

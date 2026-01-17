@@ -1,5 +1,6 @@
 ---
 title: "Kill the Bill? Change the System!"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - internationalist-communist-tendency

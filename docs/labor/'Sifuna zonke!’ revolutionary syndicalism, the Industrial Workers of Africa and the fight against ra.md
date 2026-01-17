@@ -1,5 +1,6 @@
 ---
 title: "'Sifuna zonke!': revolutionary syndicalism, the Industrial Workers of Africa and the fight agai"
+author: "libcom.org"
 date: 1910
 category: technology-digital-justice
 tags:

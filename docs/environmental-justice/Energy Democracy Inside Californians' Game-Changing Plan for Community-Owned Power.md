@@ -1,5 +1,6 @@
 ---
 title: "Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power"
+author: "Industrial Workers of the World"
 date: 2016
 category: environmental-justice
 tags:

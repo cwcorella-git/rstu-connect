@@ -1,6 +1,6 @@
 ---
 title: Police Station Support Guide
-author: Unknown
+author: "libcom.org"
 date: '2020'
 category: abolition
 tags:

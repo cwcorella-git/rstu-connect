@@ -1,5 +1,6 @@
 ---
 title: "Teleseminar Transcript: \"Just Transition\" with Mateo Nube of Movement Generation"
+author: "Industrial Workers of the World"
 date: 2015
 category: organizing
 tags:

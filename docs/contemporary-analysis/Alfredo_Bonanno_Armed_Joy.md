@@ -1,5 +1,6 @@
 ---
 title: "Armed Joy"
+author: "Alfredo Bonanno"
 date: 1977
 category: "contemporary-analysis"
 tags:

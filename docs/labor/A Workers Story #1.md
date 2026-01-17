@@ -1,5 +1,6 @@
 ---
 title: 'A Workers Story #1'
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - labor

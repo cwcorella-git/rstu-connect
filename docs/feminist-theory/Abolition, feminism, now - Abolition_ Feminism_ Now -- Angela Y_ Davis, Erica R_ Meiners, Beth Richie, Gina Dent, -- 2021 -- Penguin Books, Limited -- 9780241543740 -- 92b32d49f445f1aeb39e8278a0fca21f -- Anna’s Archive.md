@@ -1,5 +1,6 @@
 ---
 title: ABOLITION. FEMINISM. NOW.
+author: "Angela Y. Davis"
 date: 2022
 category: feminist-theory
 tags:

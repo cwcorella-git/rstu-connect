@@ -1,5 +1,6 @@
 ---
 title: "Evolution and Revolution"
+author: "Elisee Reclus"
 date: 1891
 category: "contemporary-analysis"
 tags:

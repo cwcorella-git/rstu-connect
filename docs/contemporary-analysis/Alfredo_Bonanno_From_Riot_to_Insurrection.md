@@ -1,5 +1,6 @@
 ---
 title: From Riot to Insurrection
+author: "Alfredo Bonanno"
 date: 1985
 category: contemporary-analysis
 tags:

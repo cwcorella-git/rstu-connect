@@ -1,5 +1,6 @@
 ---
 title: Introduction to Anarchism
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - anarchism

@@ -1,5 +1,6 @@
 ---
 title: "Reconstruction era"
+author: "Wikipedia contributors"
 date: 1861
 category: "contemporary-analysis"
 tags:

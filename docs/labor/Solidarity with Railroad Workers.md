@@ -1,5 +1,6 @@
 ---
 title: Solidarity with Railroad Workers
+author: "Industrial Workers of the World"
 date: 2022
 category: theory
 tags:

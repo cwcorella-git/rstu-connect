@@ -1,5 +1,6 @@
 ---
 title: 'Return to the Source: Guardians of Seeds Fight Monsanto and Win!'
+author: "Industrial Workers of the World"
 date: 2016
 category: food-justice
 tags:

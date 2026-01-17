@@ -1,5 +1,6 @@
 ---
 title: Libertarian Communism in the Twentieth Century - Christiaan Cornelissen
+author: "libcom.org"
 date: 1935
 category: contemporary-analysis
 tags:

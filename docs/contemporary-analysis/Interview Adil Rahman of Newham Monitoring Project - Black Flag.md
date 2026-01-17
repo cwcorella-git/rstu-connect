@@ -1,5 +1,6 @@
 ---
 title: "Interview: Adil Rahman of Newham Monitoring Project - Black Flag"
+author: "libcom.org"
 date: 1980
 category: "contemporary-analysis"
 tags:

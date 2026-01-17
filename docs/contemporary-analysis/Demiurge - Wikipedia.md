@@ -1,5 +1,6 @@
 ---
 title: "Demiurge"
+author: "Wikipedia contributors"
 date: 1974
 category: "contemporary-analysis"
 tags:

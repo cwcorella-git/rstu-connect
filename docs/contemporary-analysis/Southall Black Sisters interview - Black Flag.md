@@ -1,5 +1,6 @@
 ---
 title: "Southall Black Sisters interview - Black Flag"
+author: "libcom.org"
 date: 1980
 category: "contemporary-analysis"
 tags:

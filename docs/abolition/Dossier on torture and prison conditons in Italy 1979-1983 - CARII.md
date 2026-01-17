@@ -1,5 +1,6 @@
 ---
 title: Dossier on torture and prison conditons in Italy 1979-1983 - CARII
+author: "libcom.org"
 date: 1979
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Union officials walk out - against their own members
+author: "libcom.org"
 date: 2018
 category: technology-digital-justice
 tags:

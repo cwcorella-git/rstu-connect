@@ -1,5 +1,6 @@
 ---
 title: 'Urbanization Without Cities: The Rise and Decline of Citizenship'
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - urban

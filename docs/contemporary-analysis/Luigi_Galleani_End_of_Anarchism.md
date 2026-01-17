@@ -1,5 +1,6 @@
 ---
 title: Chapter 1. The Interview with Merlino
+author: "Luigi Galleani"
 date: 1948
 category: contemporary-analysis
 tags:

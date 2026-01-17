@@ -1,5 +1,6 @@
 ---
 title: Which Way for the Ecology Movement?
+author: "Murray Bookchin"
 date: 1994
 category: environmental-justice
 tags:

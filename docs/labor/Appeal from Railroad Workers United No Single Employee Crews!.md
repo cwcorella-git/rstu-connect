@@ -1,5 +1,6 @@
 ---
 title: 'Appeal from Railroad Workers United: No Single Employee Crews!'
+author: "Industrial Workers of the World"
 date: 2016
 category: technology-digital-justice
 tags:

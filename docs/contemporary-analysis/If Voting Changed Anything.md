@@ -1,5 +1,6 @@
 ---
 title: "If Voting Changed Anything..."
+author: "libcom.org"
 date: 1995
 category: "contemporary-analysis"
 tags:

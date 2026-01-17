@@ -1,5 +1,6 @@
 ---
 title: Green Man
+author: "Wikipedia contributors"
 date: 2022
 category: environmental-justice
 tags:

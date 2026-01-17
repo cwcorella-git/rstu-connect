@@ -1,5 +1,6 @@
 ---
 title: 'Capital Blight: Pop go the Weasels'
+author: "Industrial Workers of the World"
 date: 2016
 category: contemporary-analysis
 tags:

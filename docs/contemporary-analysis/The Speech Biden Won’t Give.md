@@ -1,5 +1,6 @@
 ---
 title: "The Speech Biden Won't Give"
+author: "Industrial Workers of the World"
 date: 2014
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: On school
+author: "libcom.org"
 category: theory
 tags:
   - education

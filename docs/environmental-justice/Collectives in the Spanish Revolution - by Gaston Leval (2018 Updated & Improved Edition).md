@@ -1,5 +1,6 @@
 ---
 title: "Collectives in the Spanish Revolution by Gaston Leval (2018 Updated & Improved Edition)"
+author: "Confederación Nacional del Trabajo"
 date: 2018
 category: environmental-justice
 tags:

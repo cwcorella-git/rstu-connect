@@ -1,5 +1,6 @@
 ---
 title: "Kinesiology"
+author: "Wikipedia contributors"
 date: 2013
 category: "contemporary-analysis"
 tags:

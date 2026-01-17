@@ -1,5 +1,6 @@
 ---
 title: "Hipsterphobia - Cava Sundays"
+author: "libcom.org"
 date: 1964
 category: "contemporary-analysis"
 tags:

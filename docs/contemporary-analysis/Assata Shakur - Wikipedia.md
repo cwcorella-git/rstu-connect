@@ -1,5 +1,6 @@
 ---
 title: "Assata Shakur"
+author: "Wikipedia contributors"
 date: 1970
 category: "contemporary-analysis"
 tags:

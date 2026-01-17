@@ -1,5 +1,6 @@
 ---
 title: Russian anti-war direct action in the second war spring. Part 21
+author: "libcom.org"
 date: 2022
 category: arts-culture-music
 tags:

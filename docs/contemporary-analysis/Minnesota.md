@@ -1,5 +1,6 @@
 ---
 title: "Minnesota"
+author: "Wikipedia contributors"
 date: 1858
 category: "contemporary-analysis"
 tags:

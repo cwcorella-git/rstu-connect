@@ -1,5 +1,6 @@
 ---
 title: "Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at lea"
+author: "libcom.org"
 date: 2021
 category: disability-justice
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "The Rebellion Explodes: Protests, Riots, and Clashes Grow in Response to the Murder of George Floyd"
+author: "libcom.org"
 category: contemporary-analysis
 tags:
   - protests

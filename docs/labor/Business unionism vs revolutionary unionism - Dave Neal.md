@@ -1,5 +1,6 @@
 ---
 title: Business unionism vs revolutionary unionism - Dave Neal
+author: "Industrial Workers of the World"
 date: 1919
 category: labor
 tags:

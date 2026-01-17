@@ -1,6 +1,6 @@
 ---
 title: Black Book Of The Political Police In Britain
-author: Unknown
+author: "libcom.org"
 date: '1972'
 category: abolition
 tags:

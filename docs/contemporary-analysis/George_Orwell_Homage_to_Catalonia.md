@@ -1,5 +1,6 @@
 ---
 title: "Chapter 04"
+author: "George Orwell"
 date: 1938
 category: "contemporary-analysis"
 tags:

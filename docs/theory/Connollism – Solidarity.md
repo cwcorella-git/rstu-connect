@@ -1,5 +1,6 @@
 ---
 title: Connollism – Solidarity
+author: "libcom.org"
 date: 1973
 category: theory
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Thermoreceptor"
+author: "Wikipedia contributors"
 date: 1979
 category: "contemporary-analysis"
 tags:

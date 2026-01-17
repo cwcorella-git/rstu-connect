@@ -1,5 +1,6 @@
 ---
 title: '''We Know This Place'': Neoliberal Racial Regimes and the Katrina Circumstance'
+author: "We Know"
 date: 2005
 category: contemporary-analysis
 tags:

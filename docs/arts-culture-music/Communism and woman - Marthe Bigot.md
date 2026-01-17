@@ -1,5 +1,6 @@
 ---
 title: Communism and woman - Marthe Bigot
+author: "Industrial Workers of the World"
 date: 1920
 category: arts-culture-music
 tags:

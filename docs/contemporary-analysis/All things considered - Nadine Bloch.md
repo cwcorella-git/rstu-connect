@@ -1,5 +1,6 @@
 ---
 title: "All things considered - Nadine Bloch"
+author: "libcom.org"
 date: 1976
 category: "contemporary-analysis"
 tags:

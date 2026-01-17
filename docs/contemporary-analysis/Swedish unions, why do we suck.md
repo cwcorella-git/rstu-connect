@@ -1,5 +1,6 @@
 ---
 title: 'Swedish unions, why do we suck?'
+author: "libcom.org"
 date: 2021
 category: contemporary-analysis
 tags:

@@ -1,5 +1,6 @@
 ---
 title: An overview of the Spanish libertarian movement
+author: "Confederación Nacional del Trabajo"
 date: 1936
 category: international-solidarity
 tags:

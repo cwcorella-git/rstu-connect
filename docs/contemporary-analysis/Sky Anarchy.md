@@ -1,5 +1,6 @@
 ---
 title: Sky Anarchy
+author: "libcom.org"
 date: 1917
 category: contemporary-analysis
 tags:

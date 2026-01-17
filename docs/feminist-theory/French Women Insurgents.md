@@ -1,5 +1,6 @@
 ---
 title: French Women Insurgents
+author: "libcom.org"
 date: 1851
 category: feminist-theory
 tags:

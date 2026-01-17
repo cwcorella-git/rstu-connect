@@ -1,5 +1,6 @@
 ---
 title: "THE STATE & REVOLUTION:"
+author: "Lenin State"
 date: 1852
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Humanitarian aid is brought only by volunteers: a refugee about self-organization in occupied K"
+author: "libcom.org"
 category: labor
 tags:
   - labor

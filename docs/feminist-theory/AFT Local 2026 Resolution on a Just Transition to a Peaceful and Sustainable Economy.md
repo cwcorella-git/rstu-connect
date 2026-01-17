@@ -1,5 +1,6 @@
 ---
 title: "AFT Local 2026 Resolution on a Just Transition to a Peaceful and Sustainable Economy"
+author: "Industrial Workers of the World"
 date: 2016
 category: feminist-theory
 tags:

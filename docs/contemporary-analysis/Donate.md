@@ -1,5 +1,6 @@
 ---
 title: "Donate"
+author: "libcom.org"
 category: "contemporary-analysis"
 tags:
   - analysis

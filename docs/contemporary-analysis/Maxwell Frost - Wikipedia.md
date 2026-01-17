@@ -1,5 +1,6 @@
 ---
 title: "Maxwell Frost"
+author: "Wikipedia contributors"
 date: 2025
 category: "contemporary-analysis"
 tags:

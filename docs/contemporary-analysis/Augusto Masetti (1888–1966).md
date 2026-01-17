@@ -1,5 +1,6 @@
 ---
 title: "Augusto Masetti (1888–1966)"
+author: "libcom.org"
 date: 1888
 category: "contemporary-analysis"
 tags:

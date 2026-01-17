@@ -1,5 +1,6 @@
 ---
 title: Agrivoltaics
+author: "Wikipedia contributors"
 date: 2017
 category: technology-digital-justice
 tags:

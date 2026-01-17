@@ -1,5 +1,6 @@
 ---
 title: 'Capital Blight: The Two Bums'
+author: "Industrial Workers of the World"
 date: 2016
 category: contemporary-analysis
 tags:

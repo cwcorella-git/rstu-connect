@@ -1,5 +1,6 @@
 ---
 title: "Draft Resolution - Stop Line 3"
+author: "Industrial Workers of the World"
 date: 2018
 category: "contemporary-analysis"
 tags:

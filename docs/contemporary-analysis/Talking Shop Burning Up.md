@@ -1,5 +1,6 @@
 ---
 title: "Talking Shop: Burning Up"
+author: "Industrial Workers of the World"
 date: 2019
 category: "contemporary-analysis"
 tags:

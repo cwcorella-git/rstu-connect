@@ -1,5 +1,6 @@
 ---
 title: 'The Unions'' Life After Death: Recipes for a new labor movement'
+author: "libcom.org"
 date: 2022
 category: labor
 tags:

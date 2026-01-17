@@ -1,5 +1,6 @@
 ---
 title: "Race & Class http://rac.sagepub.com/"
+author: "Review We"
 date: 1965
 category: contemporary-analysis
 tags:

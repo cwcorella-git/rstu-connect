@@ -1,5 +1,6 @@
 ---
 title: "They Call It Suicide, We Call It Murder - Black Flag"
+author: "libcom.org"
 date: 1993
 category: "contemporary-analysis"
 tags:

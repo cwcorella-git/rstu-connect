@@ -1,5 +1,6 @@
 ---
 title: "Union Advocates for Socialist Rifle Association Workers, Volunteers and Members"
+author: "Industrial Workers of the World"
 date: 2022
 category: contemporary-analysis
 tags:

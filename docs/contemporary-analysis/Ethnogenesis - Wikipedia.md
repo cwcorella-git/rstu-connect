@@ -1,5 +1,6 @@
 ---
 title: "Ethnogenesis"
+author: "Wikipedia contributors"
 date: 1997
 category: "contemporary-analysis"
 tags:

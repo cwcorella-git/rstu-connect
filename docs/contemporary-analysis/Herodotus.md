@@ -1,5 +1,6 @@
 ---
 title: "Herodotus"
+author: "Wikipedia contributors"
 date: 1908
 category: "contemporary-analysis"
 tags:

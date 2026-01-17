@@ -1,5 +1,6 @@
 ---
 title: "Identity crisis: Leftist anti-wokeness is bullshit"
+author: "libcom.org"
 date: 2016
 category: "contemporary-analysis"
 tags:

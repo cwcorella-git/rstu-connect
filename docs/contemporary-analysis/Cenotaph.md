@@ -1,5 +1,6 @@
 ---
 title: "Cenotaph"
+author: "Wikipedia contributors"
 date: 1919
 category: "contemporary-analysis"
 tags:

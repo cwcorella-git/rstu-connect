@@ -1,5 +1,6 @@
 ---
 title: "A statement by leftist feminists from Kurdistan on the 2022 feminist insurrection in Iran"
+author: "libcom.org"
 date: 2022
 category: feminist-theory
 tags:

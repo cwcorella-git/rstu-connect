@@ -1,5 +1,6 @@
 ---
 title: "May 1968 in Senegal"
+author: "libcom.org"
 date: 1961
 category: "contemporary-analysis"
 tags:

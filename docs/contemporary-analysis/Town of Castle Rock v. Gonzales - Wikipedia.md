@@ -1,5 +1,6 @@
 ---
 title: Town of Castle Rock v. Gonzales
+author: "Wikipedia contributors"
 date: 2005
 category: contemporary-analysis
 tags:

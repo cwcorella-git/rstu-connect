@@ -1,5 +1,6 @@
 ---
 title: "Illinois"
+author: "Wikipedia contributors"
 date: 1900
 category: "contemporary-analysis"
 tags:

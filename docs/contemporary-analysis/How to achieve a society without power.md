@@ -1,5 +1,6 @@
 ---
 title: "How to achieve a society without power?"
+author: "libcom.org"
 date: 1931
 category: "contemporary-analysis"
 tags:

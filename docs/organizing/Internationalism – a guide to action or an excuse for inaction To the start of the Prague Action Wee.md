@@ -1,5 +1,6 @@
 ---
 title: "Internationalism – a guide to action or an excuse for inaction? To the start of the Prague Acti"
+author: "libcom.org"
 date: 2024
 category: organizing
 tags:

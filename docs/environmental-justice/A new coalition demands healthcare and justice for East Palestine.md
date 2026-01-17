@@ -1,5 +1,6 @@
 ---
 title: A new coalition demands healthcare and justice for East Palestine
+author: "Industrial Workers of the World"
 date: 2024
 category: environmental-justice
 tags:

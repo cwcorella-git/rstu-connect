@@ -1,5 +1,6 @@
 ---
 title: "Malcolm Archibald: 50 years of Black Cat Press"
+author: "libcom.org"
 date: 2024
 category: "contemporary-analysis"
 tags:

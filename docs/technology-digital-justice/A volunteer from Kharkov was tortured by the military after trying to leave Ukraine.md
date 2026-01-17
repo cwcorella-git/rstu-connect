@@ -1,5 +1,6 @@
 ---
 title: "A volunteer from Kharkov was tortured by the military after trying to leave Ukraine"
+author: "libcom.org"
 date: 1985
 category: technology-digital-justice
 tags:

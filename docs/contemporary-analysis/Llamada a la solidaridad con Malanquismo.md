@@ -1,5 +1,6 @@
 ---
 title: Llamada a la solidaridad con Malanquismo
+author: "libcom.org"
 date: 2023
 category: contemporary-analysis
 tags:

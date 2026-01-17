@@ -1,5 +1,6 @@
 ---
 title: Affirmative Inaction - The American Scholar
+author: "William M. Chace"
 date: 1965
 category: contemporary-analysis
 tags:

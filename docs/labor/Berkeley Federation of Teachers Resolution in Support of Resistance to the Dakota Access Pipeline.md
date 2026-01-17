@@ -1,5 +1,6 @@
 ---
 title: "Berkeley Federation of Teachers Resolution in Support of Resistance to the Dakota Access Pipeli"
+author: "Industrial Workers of the World"
 date: 2016
 category: labor
 tags:

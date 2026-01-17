@@ -1,5 +1,6 @@
 ---
 title: "Crime And Punishment"
+author: "libcom.org"
 date: 1914
 category: "contemporary-analysis"
 tags:

@@ -1,5 +1,6 @@
 ---
 title: FREEDOM AND NECESSITY IN NATURE A Problem in Ecological Ethics'
+author: "Murray Bookchin"
 date: 1991
 category: environmental-justice
 tags:

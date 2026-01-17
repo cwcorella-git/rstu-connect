@@ -1,5 +1,6 @@
 ---
 title: 'Eco Defense Radio: Alex Lotorto on Supporting Frontline Communities'
+author: "Industrial Workers of the World"
 date: 2016
 category: contemporary-analysis
 tags:
