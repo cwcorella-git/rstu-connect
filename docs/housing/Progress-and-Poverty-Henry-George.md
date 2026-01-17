@@ -4,6 +4,8 @@ author: "Henry George"
 date: "1879"
 category: "housing"
 tags:
+  - georgism
+  - land-value-tax
   - land
   - economics
   - rent

@@ -4,6 +4,8 @@ author: "Henry George"
 date: "1883"
 category: "housing"
 tags:
+  - georgism
+  - land-value-tax
   - land
   - economics
   - social-reform

@@ -61,7 +61,7 @@ export function ReadingCard({
       <div className="flex items-start justify-between gap-2">
         <div className="flex-1 min-w-0">
           {/* Title */}
-          <h3 className={`font-semibold text-sm text-gray-900 leading-tight ${isHidden ? 'line-through' : ''}`}>
+          <h3 className={`font-semibold text-sm text-gray-900 leading-tight line-clamp-2 ${isHidden ? 'line-through' : ''}`}>
             {document.title}
             {document.polished && (
               <span
@@ -74,7 +74,7 @@ export function ReadingCard({
           </h3>
 
           {/* Author and date subtitle */}
-          <p className="text-xs text-gray-600 mt-0.5">
+          <p className="text-xs text-gray-600 mt-0.5 truncate">
             {document.author ? (
               <>
                 <span>{document.author}</span>

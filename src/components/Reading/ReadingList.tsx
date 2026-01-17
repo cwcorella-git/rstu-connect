@@ -95,7 +95,7 @@ const CategoryGroup = memo(({
         />
 
         {/* Category Name */}
-        <span className={`font-semibold transition-colors duration-200 ${
+        <span className={`font-semibold transition-colors duration-200 truncate ${
           isExpanded ? 'text-rstu-red' : 'text-gray-900'
         }`}>
           {category}

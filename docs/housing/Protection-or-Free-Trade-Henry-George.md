@@ -4,6 +4,8 @@ author: "Henry George"
 date: "1886"
 category: "housing"
 tags:
+  - georgism
+  - land-value-tax
   - economics
   - trade
   - labor
