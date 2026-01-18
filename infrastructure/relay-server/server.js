@@ -178,7 +178,7 @@ async function initDatabase() {
     CREATE INDEX IF NOT EXISTS idx_nominations_election ON nominations(election_id);
     CREATE INDEX IF NOT EXISTS idx_nominations_nominee ON nominations(nominee_id);
 
-    -- Votes
+    -- Votes (simple single-choice)
     CREATE TABLE IF NOT EXISTS votes (
       id TEXT PRIMARY KEY,
       election_id TEXT NOT NULL,
@@ -190,6 +190,19 @@ async function initDatabase() {
     );
     CREATE INDEX IF NOT EXISTS idx_votes_election ON votes(election_id);
     CREATE INDEX IF NOT EXISTS idx_votes_voter ON votes(voter_id);
+
+    -- Ranked Choice Votes
+    CREATE TABLE IF NOT EXISTS ranked_votes (
+      id TEXT PRIMARY KEY,
+      election_id TEXT NOT NULL,
+      position_id TEXT NOT NULL,
+      voter_id TEXT NOT NULL,
+      rankings TEXT NOT NULL,
+      timestamp INTEGER NOT NULL,
+      UNIQUE(election_id, position_id, voter_id)
+    );
+    CREATE INDEX IF NOT EXISTS idx_ranked_votes_election ON ranked_votes(election_id);
+    CREATE INDEX IF NOT EXISTS idx_ranked_votes_voter ON ranked_votes(voter_id);
 
     -- Tasks
     CREATE TABLE IF NOT EXISTS tasks (
@@ -861,6 +874,252 @@ function hasVotedForPosition(electionId, positionId, voterId) {
   }
   stmt.free();
   return count > 0;
+}
+
+// ============================================
+// Ranked Vote Helper Functions
+// ============================================
+
+function insertRankedVote(vote) {
+  try {
+    const rankingsJson = JSON.stringify(vote.rankings);
+    db.run(
+      'INSERT INTO ranked_votes (id, election_id, position_id, voter_id, rankings, timestamp) VALUES (?, ?, ?, ?, ?, ?)',
+      [vote.id, vote.electionId, vote.positionId, vote.voterId, rankingsJson, vote.timestamp]
+    );
+    saveDatabase();
+    return true;
+  } catch (err) {
+    // Unique constraint violation means already voted
+    console.error('[DB] Error inserting ranked vote:', err);
+    return false;
+  }
+}
+
+function getRankedVotesForElection(electionId) {
+  const stmt = db.prepare('SELECT * FROM ranked_votes WHERE election_id = ? ORDER BY timestamp ASC');
+  stmt.bind([electionId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      electionId: row.election_id,
+      positionId: row.position_id,
+      voterId: row.voter_id,
+      rankings: JSON.parse(row.rankings),
+      timestamp: row.timestamp
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+function getRankedVotesForPosition(electionId, positionId) {
+  const stmt = db.prepare('SELECT * FROM ranked_votes WHERE election_id = ? AND position_id = ? ORDER BY timestamp ASC');
+  stmt.bind([electionId, positionId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      electionId: row.election_id,
+      positionId: row.position_id,
+      voterId: row.voter_id,
+      rankings: JSON.parse(row.rankings),
+      timestamp: row.timestamp
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+function getUserRankedVotes(electionId, voterId) {
+  const stmt = db.prepare('SELECT * FROM ranked_votes WHERE election_id = ? AND voter_id = ?');
+  stmt.bind([electionId, voterId]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      electionId: row.election_id,
+      positionId: row.position_id,
+      voterId: row.voter_id,
+      rankings: JSON.parse(row.rankings),
+      timestamp: row.timestamp
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+function hasRankedVotedForPosition(electionId, positionId, voterId) {
+  const stmt = db.prepare('SELECT COUNT(*) as count FROM ranked_votes WHERE election_id = ? AND position_id = ? AND voter_id = ?');
+  stmt.bind([electionId, positionId, voterId]);
+  let count = 0;
+  if (stmt.step()) {
+    count = stmt.getAsObject().count;
+  }
+  stmt.free();
+  return count > 0;
+}
+
+// Instant-runoff voting algorithm
+function calculateInstantRunoff(votes, nominations) {
+  if (nominations.length === 0 || votes.length === 0) {
+    return {
+      candidates: [],
+      eliminationRounds: [],
+      winnerId: null,
+      winnerName: null,
+      totalVotes: votes.length
+    };
+  }
+
+  // Build candidate lookup
+  const candidateMap = new Map();
+  nominations.forEach(n => {
+    candidateMap.set(n.id, {
+      nominationId: n.id,
+      nomineeId: n.nomineeId,
+      nomineeName: n.nomineeName,
+      eliminated: false
+    });
+  });
+
+  // Track active ballots (each ballot is an array of candidate IDs in preference order)
+  let activeBallots = votes.map(v => ({
+    voterId: v.voterId,
+    rankings: [...v.rankings].filter(id => candidateMap.has(id)) // Only include valid candidates
+  }));
+
+  const eliminationRounds = [];
+  let round = 0;
+  const maxRounds = nominations.length; // Prevent infinite loops
+
+  while (round < maxRounds) {
+    round++;
+
+    // Count first-choice votes for each non-eliminated candidate
+    const voteCounts = new Map();
+    nominations.forEach(n => {
+      if (!candidateMap.get(n.id).eliminated) {
+        voteCounts.set(n.id, 0);
+      }
+    });
+
+    // Count each ballot's top choice among remaining candidates
+    activeBallots.forEach(ballot => {
+      // Find first non-eliminated candidate in this ballot's rankings
+      const topChoice = ballot.rankings.find(id => !candidateMap.get(id)?.eliminated);
+      if (topChoice) {
+        voteCounts.set(topChoice, (voteCounts.get(topChoice) || 0) + 1);
+      }
+    });
+
+    // Calculate totals for this round
+    const totalValidVotes = Array.from(voteCounts.values()).reduce((a, b) => a + b, 0);
+    const majority = Math.floor(totalValidVotes / 2) + 1;
+
+    // Build round result
+    const roundCandidates = Array.from(voteCounts.entries())
+      .map(([id, count]) => ({
+        candidateId: id,
+        candidateName: candidateMap.get(id).nomineeName,
+        votes: count,
+        percentage: totalValidVotes > 0 ? (count / totalValidVotes) * 100 : 0
+      }))
+      .sort((a, b) => b.votes - a.votes);
+
+    // Check for winner (>50%)
+    const potentialWinner = roundCandidates[0];
+    if (potentialWinner && potentialWinner.votes >= majority) {
+      eliminationRounds.push({
+        roundNumber: round,
+        candidateTotals: roundCandidates,
+        eliminatedCandidateId: null,
+        eliminatedCandidateName: null,
+        transferred: 0
+      });
+
+      // Build final candidates list
+      const finalCandidates = nominations.map(n => ({
+        nominationId: n.id,
+        nomineeId: n.nomineeId,
+        nomineeName: n.nomineeName,
+        voteCount: voteCounts.get(n.id) || 0,
+        percentage: totalValidVotes > 0 ? ((voteCounts.get(n.id) || 0) / totalValidVotes) * 100 : 0,
+        eliminated: candidateMap.get(n.id).eliminated
+      })).sort((a, b) => b.voteCount - a.voteCount);
+
+      return {
+        candidates: finalCandidates,
+        eliminationRounds,
+        winnerId: candidateMap.get(potentialWinner.candidateId).nomineeId,
+        winnerName: potentialWinner.candidateName,
+        totalVotes: votes.length
+      };
+    }
+
+    // No winner yet - eliminate last place candidate
+    if (roundCandidates.length <= 1) {
+      // Only one or zero candidates left
+      break;
+    }
+
+    // Find candidate(s) with fewest votes
+    const minVotes = roundCandidates[roundCandidates.length - 1].votes;
+    const lastPlaceCandidates = roundCandidates.filter(c => c.votes === minVotes);
+
+    // If tie at bottom, eliminate the one who appeared last alphabetically (deterministic tie-break)
+    const toEliminate = lastPlaceCandidates.sort((a, b) =>
+      b.candidateName.localeCompare(a.candidateName)
+    )[0];
+
+    // Mark as eliminated
+    candidateMap.get(toEliminate.candidateId).eliminated = true;
+
+    // Count how many ballots will transfer
+    const transferredCount = activeBallots.filter(ballot => {
+      const topChoice = ballot.rankings.find(id => !candidateMap.get(id)?.eliminated || id === toEliminate.candidateId);
+      return topChoice === toEliminate.candidateId;
+    }).length;
+
+    eliminationRounds.push({
+      roundNumber: round,
+      candidateTotals: roundCandidates,
+      eliminatedCandidateId: toEliminate.candidateId,
+      eliminatedCandidateName: toEliminate.candidateName,
+      transferred: transferredCount
+    });
+
+    // Remove eliminated candidate from all ballots' rankings (for next round calculation)
+    activeBallots = activeBallots.map(ballot => ({
+      ...ballot,
+      rankings: ballot.rankings.filter(id => id !== toEliminate.candidateId)
+    }));
+  }
+
+  // If we exit the loop without a clear winner, the last remaining candidate wins
+  const remainingCandidates = nominations.filter(n => !candidateMap.get(n.id).eliminated);
+  const winner = remainingCandidates[0];
+
+  const finalCandidates = nominations.map(n => ({
+    nominationId: n.id,
+    nomineeId: n.nomineeId,
+    nomineeName: n.nomineeName,
+    voteCount: 0,
+    percentage: 0,
+    eliminated: candidateMap.get(n.id).eliminated
+  })).sort((a, b) => (a.eliminated ? 1 : 0) - (b.eliminated ? 1 : 0));
+
+  return {
+    candidates: finalCandidates,
+    eliminationRounds,
+    winnerId: winner?.nomineeId || null,
+    winnerName: winner?.nomineeName || null,
+    totalVotes: votes.length
+  };
 }
 
 // ============================================
@@ -1870,6 +2129,106 @@ io.on('connection', (socket) => {
       });
     } catch (err) {
       console.error('[Socket.io] Error getting results:', err);
+      socket.emit('election:error', { code: 'RESULTS_FAILED', message: err.message });
+    }
+  });
+
+  // Cast ranked choice vote
+  socket.on('election:ranked_vote', ({ vote }) => {
+    if (!vote || !vote.electionId || !vote.positionId || !vote.voterId || !vote.rankings || !Array.isArray(vote.rankings)) {
+      socket.emit('election:error', { code: 'INVALID', message: 'Invalid ranked vote data' });
+      return;
+    }
+
+    try {
+      // Check if already voted
+      if (hasRankedVotedForPosition(vote.electionId, vote.positionId, vote.voterId)) {
+        socket.emit('election:error', { code: 'ALREADY_VOTED', message: 'Already voted for this position' });
+        return;
+      }
+
+      // Generate ID if needed
+      if (!vote.id) {
+        vote.id = `rvote-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+      }
+      if (!vote.timestamp) {
+        vote.timestamp = Date.now();
+      }
+
+      const success = insertRankedVote(vote);
+      if (success) {
+        socket.emit('election:ranked_voted', { vote, success: true });
+        console.log(`[Socket.io] Ranked vote cast: ${vote.id} for position ${vote.positionId}`);
+      } else {
+        socket.emit('election:error', { code: 'VOTE_FAILED', message: 'Could not record ranked vote' });
+      }
+    } catch (err) {
+      console.error('[Socket.io] Error casting ranked vote:', err);
+      socket.emit('election:error', { code: 'VOTE_FAILED', message: err.message });
+    }
+  });
+
+  // Get user's ranked votes for election
+  socket.on('election:get_my_ranked_votes', ({ electionId, profileId }) => {
+    try {
+      const votes = getUserRankedVotes(electionId, profileId);
+      socket.emit('election:my_ranked_votes', { electionId, votes });
+    } catch (err) {
+      console.error('[Socket.io] Error getting ranked votes:', err);
+    }
+  });
+
+  // Get ranked choice election results (after voting ends)
+  socket.on('election:get_ranked_results', ({ electionId }) => {
+    try {
+      const election = getElection(electionId);
+      if (!election) {
+        socket.emit('election:error', { code: 'NOT_FOUND', message: 'Election not found' });
+        return;
+      }
+
+      // Only show results after voting ends
+      const now = Date.now();
+      if (election.status !== 'closed' && now < election.votingEnd) {
+        socket.emit('election:error', { code: 'NOT_AVAILABLE', message: 'Results not yet available' });
+        return;
+      }
+
+      const rankedVotes = getRankedVotesForElection(electionId);
+      const nominations = getNominationsForElection(electionId);
+      const profiles = getAllProfiles();
+      const eligibleVoters = profiles.length;
+
+      // Calculate ranked choice results for each position
+      const positionResults = election.positions.map(position => {
+        const posVotes = rankedVotes.filter(v => v.positionId === position.id);
+        const posNoms = nominations.filter(n => n.positionId === position.id && n.accepted === true);
+
+        // Run instant-runoff voting
+        const result = calculateInstantRunoff(posVotes, posNoms);
+
+        return {
+          positionId: position.id,
+          positionTitle: position.title,
+          ...result
+        };
+      });
+
+      // Calculate unique voters across all positions
+      const uniqueVoters = new Set(rankedVotes.map(v => v.voterId)).size;
+      const quorumMet = eligibleVoters > 0
+        ? (uniqueVoters / eligibleVoters) >= (election.quorumPercent / 100)
+        : false;
+
+      socket.emit('election:ranked_results', {
+        electionId,
+        positions: positionResults,
+        totalEligibleVoters: eligibleVoters,
+        totalVoters: uniqueVoters,
+        quorumMet
+      });
+    } catch (err) {
+      console.error('[Socket.io] Error getting ranked results:', err);
       socket.emit('election:error', { code: 'RESULTS_FAILED', message: err.message });
     }
   });
