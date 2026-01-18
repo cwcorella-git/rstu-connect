@@ -1,8 +1,8 @@
 {
-  "commit": "8c5fdabd",
-  "message": "Add ranked choice voting handlers to chat server",
+  "commit": "8543bf68",
+  "message": "Add admin button for election management",
   "author": "cwcorella-git",
-  "date": "2026-01-17 22:13:23 -0800",
+  "date": "2026-01-17 22:20:29 -0800",
   "branch": "main",
-  "buildTime": "2026-01-18T06:19:41.002Z"
+  "buildTime": "2026-01-18T06:28:11.462Z"
 }

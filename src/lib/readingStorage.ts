@@ -11,16 +11,54 @@ interface ReadingState {
   favorites: string[];         // Array of document IDs
   progress: Record<string, ReadingProgress>;
   lastDocument: string;        // Last opened document ID
+  defaultsApplied?: boolean;   // Track if default favorites were applied
 }
 
 const STORAGE_KEY = 'rstu_reading_state';
-const DEFAULT_STATE: ReadingState = { favorites: [], progress: {}, lastDocument: '' };
+
+// Essential texts every tenant should read - these are pre-favorited for new users
+// Users can unfavorite them and they won't be re-added
+export const DEFAULT_FAVORITES = [
+  // Core Tenant Organizing (Practical)
+  'organizing-how-to-organize-a-tenants-association',
+  'organizing-rent-strike-toolkit-guide',
+  'housing-abolish-rent-how-tenants-can-solve-the-housing-crisis-tracy-rosenthal-leonardo',
+  'housing-101-notes-on-the-la-tenants-union-commune',
+  'organizing-picking-fights-seventeen-years-of-organizing-in-the-seattle-solidarity-network',
+  'housing-autonomous-tenants-union-tactics-of-the-autonomous-tenants-union',
+
+  // Foundational Theory
+  'contemporary-analysis-the-leftwing-deadbeat',
+  'organizing-mutual-aid-peter-kropotkin',
+  'organizing-article-mutual-aid-dean-spade',
+  'theory-the-conquest-of-bread-peter-kropotkin',
+  'organizing-murray-bookchin-libertarian-municipalism-an-overview-a4',
+
+  // Direct Action & Strategy
+  'organizing-david-graeber-direct-action',
+  'organizing-community-democracy-and-mutual-aid',
+];
+
+const DEFAULT_STATE: ReadingState = { favorites: [], progress: {}, lastDocument: '', defaultsApplied: false };
 
 export function getReadingState(): ReadingState {
   if (typeof window === 'undefined') return DEFAULT_STATE;
 
   const stored = localStorage.getItem(STORAGE_KEY);
-  return safeJsonParse<ReadingState>(stored, DEFAULT_STATE);
+  const state = safeJsonParse<ReadingState>(stored, DEFAULT_STATE);
+
+  // Apply default favorites for new users (only once)
+  if (!state.defaultsApplied) {
+    state.favorites = [...DEFAULT_FAVORITES];
+    state.defaultsApplied = true;
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    } catch (e) {
+      console.error('[ReadingStorage] Failed to save defaults:', e);
+    }
+  }
+
+  return state;
 }
 
 export function saveReadingProgress(documentId: string, scrollPosition: number, scrollPercent: number) {
