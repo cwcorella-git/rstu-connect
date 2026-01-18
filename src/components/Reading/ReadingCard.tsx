@@ -4,8 +4,7 @@ import {
   PencilSquareIcon,
   EyeIcon,
   EyeSlashIcon,
-  TrashIcon,
-  SparklesIcon
+  TrashIcon
 } from '@heroicons/react/24/outline'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { getReadingState } from '@/lib/readingStorage'
@@ -22,7 +21,6 @@ interface ReadingCardProps {
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
   onToggleFavorite?: (docId: string) => void
-  onPolish?: (docId: string) => void
   onFeature?: (docId: string) => void
 }
 
@@ -37,7 +35,6 @@ export function ReadingCard({
   onHide,
   onDelete,
   onToggleFavorite,
-  onPolish,
   onFeature
 }: ReadingCardProps) {
   const { t } = useLanguage()
@@ -63,14 +60,6 @@ export function ReadingCard({
           {/* Title */}
           <h3 className={`font-semibold text-sm text-gray-900 leading-tight line-clamp-2 ${isHidden ? 'line-through' : ''}`}>
             {document.title}
-            {document.polished && (
-              <span
-                className="ml-2 inline-flex items-center gap-1 px-1.5 py-0.5 text-xs font-medium bg-yellow-50 text-yellow-700 rounded border border-yellow-200 align-middle"
-                title="Polished document - curated by RSTU organizers"
-              >
-                <SparklesIcon className="w-3 h-3" />
-              </span>
-            )}
           </h3>
 
           {/* Author and date subtitle */}
@@ -126,22 +115,6 @@ export function ReadingCard({
             className="flex gap-1 opacity-0 group-hover:opacity-100 sm:opacity-100 transition-opacity duration-200"
             onClick={(e) => e.stopPropagation()}
           >
-            {/* Polished indicator (read-only for static site) */}
-            <button
-              onClick={() => {
-                alert('Polished status is set in document YAML frontmatter. Add "polished: true" to mark a document as polished.');
-              }}
-              className={`p-1.5 rounded transition-all ${
-                document.polished
-                  ? 'text-yellow-500 bg-yellow-50 hover:bg-yellow-100'
-                  : 'text-gray-400 hover:text-gray-500 hover:bg-gray-50'
-              }`}
-              title={document.polished ? 'Polished document (set in frontmatter)' : 'Not polished (set in frontmatter)'}
-              aria-label={document.polished ? 'Polished document' : 'Not polished'}
-            >
-              <SparklesIcon className="w-4 h-4" />
-            </button>
-
             {/* Feature for landing page */}
             <button
               onClick={() => onFeature?.(document.id)}

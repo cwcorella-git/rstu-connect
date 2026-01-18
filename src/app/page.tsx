@@ -496,12 +496,6 @@ export default function Home() {
     }
   };
 
-  // Handle document polish status (static site limitation - read-only)
-  const handlePolishDocument = (_docId: string) => {
-    // Static site limitation: Can't modify YAML frontmatter
-    // This is a placeholder for future backend integration
-  };
-
   // Handle document feature status (placeholder for future implementation)
   const handleFeatureDocument = (_docId: string) => {
     // Placeholder for future featured documents functionality
@@ -767,7 +761,6 @@ export default function Home() {
             onEdit={handleEditDocument}
             onHide={handleToggleHide}
             onDelete={handleDeleteDocument}
-            onPolish={handlePolishDocument}
             onFeature={handleFeatureDocument}
           />
         </div>

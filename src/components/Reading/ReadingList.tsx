@@ -19,7 +19,6 @@ interface ReadingListProps {
   onEdit?: (doc: ReadingDocument) => void
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
-  onPolish?: (docId: string) => void
   onFeature?: (docId: string) => void
 }
 
@@ -55,7 +54,6 @@ interface CategoryGroupProps {
   onHide?: (docId: string) => void
   onDelete?: (docId: string, title: string) => void
   onToggleFavorite?: (docId: string) => void
-  onPolish?: (docId: string) => void
   onFeature?: (docId: string) => void
 }
 
@@ -73,7 +71,6 @@ const CategoryGroup = memo(({
   onHide,
   onDelete,
   onToggleFavorite,
-  onPolish,
   onFeature
 }: CategoryGroupProps) => {
   return (
@@ -125,7 +122,6 @@ const CategoryGroup = memo(({
               onHide={onHide}
               onDelete={onDelete}
               onToggleFavorite={onToggleFavorite}
-              onPolish={onPolish}
               onFeature={onFeature}
             />
           ))}
@@ -148,7 +144,6 @@ export function ReadingList({
   onEdit,
   onHide,
   onDelete,
-  onPolish,
   onFeature
 }: ReadingListProps) {
   const { t } = useLanguage()
@@ -245,21 +240,15 @@ export function ReadingList({
     // Use search results if searching, otherwise show all documents
     const baseDocuments = hasQuery ? searchResults : documents
 
-    // Sort: Polished → Favorites → Alphabetical
+    // Sort: Favorites → Alphabetical
     const sorted = baseDocuments.sort((a, b) => {
-      // 1. Polished documents first
-      const aPolished = a.polished || false
-      const bPolished = b.polished || false
-      if (aPolished && !bPolished) return -1
-      if (!aPolished && bPolished) return 1
-
-      // 2. Then favorites
+      // 1. Favorites first
       const aFav = state.favorites.includes(a.id)
       const bFav = state.favorites.includes(b.id)
       if (aFav && !bFav) return -1
       if (!aFav && bFav) return 1
 
-      // 3. Finally alphabetically by title (dates stripped for sorting)
+      // 2. Then alphabetically by title (dates stripped for sorting)
       const aTitleForSort = getTitleForSorting(a.title)
       const bTitleForSort = getTitleForSorting(b.title)
       return aTitleForSort.localeCompare(bTitleForSort)
@@ -344,7 +333,6 @@ export function ReadingList({
                   onHide={onHide}
                   onDelete={onDelete}
                   onToggleFavorite={handleToggleFavorite}
-                  onPolish={onPolish}
                   onFeature={onFeature}
                 />
               )
