@@ -376,6 +376,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
           <ProfileVotingSection
             profileId={profile.id}
             profileName={profile.nickname}
+            isAdmin={isAdmin()}
           />
 
           {/* Invite Code Manager - Available to all users */}
