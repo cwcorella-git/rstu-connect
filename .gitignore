@@ -50,6 +50,10 @@ Thumbs.db
 # Testing
 coverage/
 .nyc_output/
+test-results/
+
+# Old static exports (use out/ instead)
+_next/
 
 # Logs
 *.log
