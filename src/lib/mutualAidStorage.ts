@@ -172,7 +172,7 @@ function saveToStorage<T>(key: string, value: T): void {
   try {
     localStorage.setItem(key, JSON.stringify(value))
   } catch (e) {
-    console.error('Failed to save to localStorage:', e)
+    console.error('[MutualAid] Failed to save to localStorage:', e)
   }
 }
 

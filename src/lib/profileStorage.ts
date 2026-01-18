@@ -1494,7 +1494,7 @@ export function verifyProfile(userId: string, verifiedBy: string): boolean {
 
   // Only organizers and admins can verify
   if (!currentUser || (currentUser.role !== 'organizer' && currentUser.role !== 'admin')) {
-    console.error('Only organizers/admins can verify users')
+    console.error('[ProfileStorage] Only organizers/admins can verify users')
     return false
   }
 
@@ -1509,7 +1509,7 @@ export function verifyProfile(userId: string, verifiedBy: string): boolean {
   const profile = allProfiles.find(p => p.id === userId)
 
   if (!profile) {
-    console.error('Profile not found')
+    console.error('[ProfileStorage] Profile not found')
     return false
   }
 
@@ -1578,7 +1578,7 @@ async function syncVerificationToSupabase(userId: string, verifiedBy: string): P
       // Table might not exist yet, that's ok
     }
   } catch (error) {
-    console.error('Failed to sync verification to Supabase:', error)
+    console.error('[ProfileStorage] Failed to sync verification to Supabase:', error)
   }
 }
 
@@ -1615,7 +1615,6 @@ export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: str
         return localSuccess // Return local result if Supabase fails
       }
 
-      console.log('[VerifyProfile] Successfully verified profile:', userId)
       return true
     } catch (err) {
       console.error('[VerifyProfile] Supabase error:', err)

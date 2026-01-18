@@ -190,7 +190,7 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
         setEvictionStats(stats);
         setLandlordScore(score);
       } catch (err) {
-        console.error('Failed to load intelligence data:', err);
+        console.error('[PropertyInfo] Failed to load intelligence data:', err);
       } finally {
         setLoadingIntel(false);
       }

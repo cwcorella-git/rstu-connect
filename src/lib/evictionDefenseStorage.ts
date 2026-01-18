@@ -630,7 +630,7 @@ function setState(state: EvictionDefenseState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch {
-    console.error('Failed to save eviction defense cases')
+    console.error('[EvictionDefense] Failed to save eviction defense cases')
   }
 }
 
@@ -1146,7 +1146,7 @@ export function dismissEvictionAlert(caseId: string, profileId: string): void {
     }
     localStorage.setItem(DISMISSED_ALERTS_KEY, JSON.stringify(dismissed))
   } catch {
-    console.error('Failed to dismiss eviction alert')
+    console.error('[EvictionDefense] Failed to dismiss eviction alert')
   }
 }
 

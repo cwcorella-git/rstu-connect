@@ -118,7 +118,7 @@ export function CampaignCreationModal({
       alert(`Campaign "${campaignName}" created successfully with ${selectedProperties.length} properties!`)
       onClose()
     } catch (error) {
-      console.error('Failed to create campaign:', error)
+      console.error('[CampaignCreation] Failed to create campaign:', error)
       alert('Failed to create campaign. Please try again.')
     } finally {
       setIsCreating(false)

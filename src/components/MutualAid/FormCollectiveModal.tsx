@@ -83,7 +83,7 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
       onCreated?.(org.id)
       handleClose()
     } catch (e) {
-      console.error('Error creating collective:', e)
+      console.error('[FormCollective] Error creating collective:', e)
       setError(t('collective.errorTryAgain'))
     } finally {
       setIsSubmitting(false)

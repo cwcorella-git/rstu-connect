@@ -75,7 +75,7 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
         }
       })
       .catch(err => {
-        console.error('Failed to load document:', err)
+        console.error('[ReadingContent] Failed to load document:', err)
         setIsLoading(false)
       })
   }, [document.id, document.category, document.filename, document.title])

@@ -138,7 +138,7 @@ export function copyCodeEnforcementEmailTemplate(data: CodeEnforcementComplaintD
     navigator.clipboard.writeText(emailContent)
     return true
   } catch (error) {
-    console.error('Failed to copy email template:', error)
+    console.error('[CodeEnforcement] Failed to copy email template:', error)
     return false
   }
 }

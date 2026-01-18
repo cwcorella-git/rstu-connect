@@ -67,7 +67,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
         setAllProperties(data.p || []);
       })
       .catch((err) => {
-        console.error('Failed to load properties:', err);
+        console.error('[StepBuilding] Failed to load properties:', err);
       });
   }, []);
 
@@ -120,7 +120,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
             return;
           }
         } catch (err) {
-          console.error('Supabase search failed:', err);
+          console.error('[StepBuilding] Supabase search failed:', err);
         }
       }
 

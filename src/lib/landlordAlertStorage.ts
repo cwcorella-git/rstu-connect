@@ -130,7 +130,7 @@ export function dismissLandlordAlert(alertId: string, profileId: string): void {
     }
     localStorage.setItem(DISMISSED_ALERTS_KEY, JSON.stringify(dismissed))
   } catch {
-    console.error('Failed to dismiss landlord alert')
+    console.error('[LandlordAlert] Failed to dismiss landlord alert')
   }
 }
 
@@ -152,7 +152,7 @@ export function clearDismissedLandlordAlerts(profileId: string): void {
     delete dismissed[profileId]
     localStorage.setItem(DISMISSED_ALERTS_KEY, JSON.stringify(dismissed))
   } catch {
-    console.error('Failed to clear dismissed landlord alerts')
+    console.error('[LandlordAlert] Failed to clear dismissed landlord alerts')
   }
 }
 

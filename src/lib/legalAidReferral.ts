@@ -120,7 +120,7 @@ export function copyLegalAidEmailTemplate(data: LegalAidReferralData): boolean {
     navigator.clipboard.writeText(emailContent)
     return true
   } catch (error) {
-    console.error('Failed to copy legal aid email:', error)
+    console.error('[LegalAid] Failed to copy legal aid email:', error)
     return false
   }
 }

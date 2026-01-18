@@ -47,7 +47,7 @@ export function CampaignPanelContent({ chatSlug, buildingName }: CampaignPanelCo
       setNewNote('')
       refresh()
     } catch (err) {
-      console.error('Failed to add note:', err)
+      console.error('[CampaignPanel] Failed to add note:', err)
     } finally {
       setIsSubmitting(false)
     }

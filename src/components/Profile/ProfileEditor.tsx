@@ -187,7 +187,7 @@ export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>
         setAllProperties(data.p || [])
       })
       .catch(err => {
-        console.error('Failed to load all properties:', err)
+        console.error('[ProfileEditor] Failed to load all properties:', err)
       })
   }, [])
 

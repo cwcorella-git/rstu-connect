@@ -135,7 +135,7 @@ export function getAllEvents(): BuildingEvent[] {
     if (!stored) return []
     return JSON.parse(stored)
   } catch (error) {
-    console.error('Error loading events:', error)
+    console.error('[EventStorage] Error loading events:', error)
     return []
   }
 }
@@ -147,7 +147,7 @@ function saveAllEvents(events: BuildingEvent[]): void {
   try {
     localStorage.setItem(EVENTS_STORAGE_KEY, JSON.stringify(events))
   } catch (error) {
-    console.error('Error saving events:', error)
+    console.error('[EventStorage] Error saving events:', error)
   }
 }
 

@@ -185,7 +185,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
         setIsLoading(false);
       })
       .catch(err => {
-        console.error('Failed to load all properties:', err);
+        console.error('[BuildingList] Failed to load all properties:', err);
         setIsLoading(false);
       });
   }, []);

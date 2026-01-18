@@ -45,7 +45,7 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
     script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'
     script.async = true
     script.onerror = () => {
-      console.error('Failed to load Google Translate script')
+      console.error('[TranslateWidget] Failed to load Google Translate script')
       setLoadError(true)
     }
     document.body.appendChild(script)
@@ -78,7 +78,7 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
       )
       setIsLoaded(true)
     } catch (e) {
-      console.error('Google Translate init error:', e)
+      console.error('[TranslateWidget] Google Translate init error:', e)
       setLoadError(true)
     }
   }

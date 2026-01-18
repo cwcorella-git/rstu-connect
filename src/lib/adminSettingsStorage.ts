@@ -114,7 +114,7 @@ export function saveAdminSettings(
   adminProfileId?: string
 ): boolean {
   if (!isAdmin()) {
-    console.warn('Non-admin attempted to save admin settings')
+    console.warn('[AdminSettings] Non-admin attempted to save admin settings')
     return false
   }
 
@@ -136,7 +136,7 @@ export function updateAdminSettings(
   adminProfileId?: string
 ): AdminSettings | null {
   if (!isAdmin()) {
-    console.warn('Non-admin attempted to update admin settings')
+    console.warn('[AdminSettings] Non-admin attempted to update admin settings')
     return null
   }
 

@@ -338,12 +338,12 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       });
 
       map.current.on('error', (e) => {
-        console.error('Map error:', e);
+        console.error('[PropertyMap] Map error:', e);
         setMapError('Failed to load map tiles');
       });
 
     } catch (error) {
-      console.error('Map initialization error:', error);
+      console.error('[PropertyMap] Map initialization error:', error);
       setMapError('Failed to initialize map');
     }
 

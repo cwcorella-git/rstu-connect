@@ -161,7 +161,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         setAllProperties(data.p || [])
       })
       .catch(err => {
-        console.error('Failed to load all properties:', err)
+        console.error('[ToolsPage] Failed to load all properties:', err)
       })
   }, [])
 

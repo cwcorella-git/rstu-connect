@@ -124,7 +124,7 @@ export function DayEventForm({
       setDateTime(getInitialDateTime)
     } catch (err) {
       setError('Failed to create event')
-      console.error(err)
+      console.error('[DayEventForm] Error:', err)
     } finally {
       setIsSubmitting(false)
     }

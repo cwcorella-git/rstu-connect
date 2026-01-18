@@ -78,7 +78,7 @@ function getState(): DirectMessageState {
       return JSON.parse(stored)
     }
   } catch (e) {
-    console.error('Failed to parse DM state:', e)
+    console.error('[DirectMessage] Failed to parse DM state:', e)
   }
   return { threads: [], messages: {}, lastModified: 0 }
 }

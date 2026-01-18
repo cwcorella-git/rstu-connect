@@ -308,7 +308,7 @@ function getState(): GovernanceState {
       return JSON.parse(stored)
     }
   } catch (e) {
-    console.error('Failed to parse governance state:', e)
+    console.error('[GovernanceStorage] Failed to parse governance state:', e)
   }
   return { proposals: [], dismissedBanners: [], lastModified: 0 }
 }

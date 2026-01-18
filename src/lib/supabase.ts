@@ -4,8 +4,7 @@ const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
 const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
 
 if (!supabaseUrl || !supabaseKey) {
-  console.warn('[Supabase] Missing environment variables - using localStorage fallback')
-}
+  }
 
 // Create Supabase client (returns null if not configured)
 export const supabase = supabaseUrl && supabaseKey
