@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/generate-version.js && python3 scripts/export-all-properties.py && node scripts/generate-reading-manifest.js",
+    "prebuild": "node scripts/build/generate-version.js && python3 scripts/build/export-all-properties.py && node scripts/build/generate-reading-manifest.js",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",

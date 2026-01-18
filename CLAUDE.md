@@ -24,8 +24,8 @@ npm run lint         # Run Next.js linter
 **CRITICAL: After committing changes, ALWAYS PUSH with `git push origin main`** - Commits without push don't trigger deployment.
 
 **Prebuild scripts (run automatically by `npm run build`):**
-1. `python3 scripts/export-all-properties.py` - Exports property data to JSON
-2. `node scripts/generate-reading-manifest.js` - Generates document manifest from `docs/`
+1. `python3 scripts/build/export-all-properties.py` - Exports property data to JSON
+2. `node scripts/build/generate-reading-manifest.js` - Generates document manifest from `docs/`
 
 ## Architecture
 
@@ -51,13 +51,13 @@ npm run lint         # Run Next.js linter
 **Property Data:**
 ```
 data/databases/main_properties.db (192,463 Washoe County properties)
-  -> scripts/export-all-properties.py (filters to ~16k rentals, prebuild)
+  -> scripts/build/export-all-properties.py (filters to ~16k rentals, prebuild)
   -> public/data/all-properties.json (compressed, ~3.6 MB)
   -> src/lib/loadAllProperties.ts (expands to EnhancedBuilding[])
   -> page.tsx renders BuildingList + PropertyViewTabs
 
 Supabase (optional, for FTS):
-  -> scripts/load-all-data-to-supabase.js (properties + intelligence data)
+  -> scripts/data/load-all-data-to-supabase.js (properties + intelligence data)
   -> src/lib/supabase.ts (search, evictions, landlord scores)
 ```
 
@@ -72,7 +72,7 @@ data/databases/
 **Reading Library:**
 ```
 docs/ (~2,900 markdown files with YAML frontmatter)
-  -> scripts/generate-reading-manifest.js (prebuild)
+  -> scripts/build/generate-reading-manifest.js (prebuild)
   -> src/data/reading-manifest.json
   -> ReadingList + ReadingContent components
 ```
@@ -183,7 +183,7 @@ function MyComponent() {
 
 **Translation key structure:** `category.subcategory` (e.g., `buildings.active`, `tools.unitTracker`)
 
-**Check coverage:** `node scripts/find-missing-translations.js`
+**Check coverage:** `node scripts/maintenance/find-missing-translations.js`
 
 ## Chat System
 
@@ -247,14 +247,14 @@ sqlite3 data/databases/main_properties.db
 2. Run `npm run build` (manifest regenerates automatically)
 3. Push to main (auto-deploys)
 
-**Fix malformed frontmatter:** `node scripts/fix-frontmatter.js`
+**Fix malformed frontmatter:** `node scripts/maintenance/fix-frontmatter.js`
 
 ## Admin Features
 
 - **Keyboard shortcut:** `Ctrl+Shift+A` toggles admin login/logout
 - **Admin capabilities:** Edit document titles, hide/show documents, delete documents
 - **Admin state:** Syncs to Supabase (`document_admin_state`, `document_edits` tables) with localStorage fallback
-- **Database schema:** `scripts/create-admin-state-tables.sql`
+- **Database schema:** `scripts/archive/create-admin-state-tables.sql`
 
 ## Deployment
 

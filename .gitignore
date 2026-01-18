@@ -18,7 +18,7 @@ data/top_complexes_for_matrix.csv
 node_modules/
 .next/
 out/
-build/
+/build/
 dist/
 *.tsbuildinfo
 next-env.d.ts
@@ -56,3 +56,7 @@ coverage/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Archive (structure tracked, new large files ignored)
+archive/analysis-reports/*.json
+archive/screenshots/*.png

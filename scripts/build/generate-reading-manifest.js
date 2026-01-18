@@ -2,9 +2,9 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 
-const DOCS_DIR = path.join(__dirname, '../docs');
-const OUTPUT_DIR = path.join(__dirname, '../src/data');
-const PUBLIC_DIR = path.join(__dirname, '../public/documents');
+const DOCS_DIR = path.join(__dirname, '../../docs');
+const OUTPUT_DIR = path.join(__dirname, '../../src/data');
+const PUBLIC_DIR = path.join(__dirname, '../../public/documents');
 
 function generateManifest() {
   const documents = [];

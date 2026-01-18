@@ -25,7 +25,7 @@ try {
     buildTime: new Date().toISOString(),
   };
 
-  const outputPath = path.join(__dirname, '../public/version-info.json');
+  const outputPath = path.join(__dirname, '../../public/version-info.json');
   fs.writeFileSync(outputPath, JSON.stringify(versionInfo, null, 2));
 
   console.log(`✓ Version info generated: ${commitHash}`);

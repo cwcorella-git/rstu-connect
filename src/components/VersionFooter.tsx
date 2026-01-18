@@ -25,7 +25,7 @@ export function VersionFooter() {
     fetch('/version-info.json')
       .then(res => res.json())
       .then(data => setVersionData(data))
-      .catch(err => )
+      .catch(() => {})
   }, [])
 
   // Only show to admins/organizers

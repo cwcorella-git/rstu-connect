@@ -53,7 +53,7 @@ except ImportError:
 
 # Paths relative to script location
 SCRIPT_DIR = Path(__file__).parent
-PROJECT_ROOT = SCRIPT_DIR.parent
+PROJECT_ROOT = SCRIPT_DIR.parent.parent  # scripts/build/ -> scripts/ -> project root
 DB_PATH = PROJECT_ROOT / "data/databases/main_properties.db"
 OUTPUT_PATH = PROJECT_ROOT / "public/data/all-properties.json"
 MGMT_OUTPUT_PATH = PROJECT_ROOT / "public/data/management-companies.json"
