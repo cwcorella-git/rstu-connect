@@ -1,0 +1,56 @@
+● Summary: Washoe County Eviction & Violation Data
+
+  What I Found
+
+  Eviction Data - Limited Access:
+  Source: https://justicecourts.washoecounty.gov/OnlineServices
+  Status: Requires registration
+  Notes: Tyler Odyssey system, no bulk download
+  ────────────────────────────────────────
+  Source: https://evictionlab.org/map/
+  Status: Reno NOT tracked
+  Notes: Only covers Las Vegas/Clark County
+  ────────────────────────────────────────
+  Source: https://civilcourtdata.lsc.gov/
+  Status: Unknown coverage
+  Notes: Need to check if Washoe included
+  ────────────────────────────────────────
+  Source: https://nvcourts.gov/aoc/programs_and_services/court_statistics_and_analysis
+  Status: Summary stats only
+  Notes: Contact: statistics@nvcourts.nv.gov
+  ────────────────────────────────────────
+  Source: https://unicourt.com/courts/state-nevada
+  Status: Washoe "archived"
+  Notes: Paid API, limited coverage
+  Code Enforcement - Searchable but Manual:
+  Source: https://aca-prod.accela.com/ONE/Cap/CapHome.aspx?module=Enforcement
+  Status: Manual search only
+  Notes: Reno/Sparks/Washoe complaints, no bulk download
+  ────────────────────────────────────────
+  Source: https://data-cityofreno.opendata.arcgis.com/
+  Status: No enforcement data found
+  Notes: Has Housing category but no violations
+  Key Statistics (Clark County for reference):
+  - 76,910 eviction cases filed in Clark County (2023)
+  - ~296 evictions filed per court day
+  - 155% increase since pre-pandemic
+
+  Best Options to Get Real Data
+
+  1. Public Records Request (Recommended)
+    - Submit via https://washoecountynv.nextrequest.com/
+    - Request: "All summary eviction filings from Reno Justice Court and Sparks Justice Court for 2023-2025, including case number, filing date, address, plaintiff, defendant, and disposition"
+    - Cost: $0.50/page + $6 certification
+  2. Contact Court Statistics Directly
+    - Email: statistics@nvcourts.nv.gov
+    - Phone: (702) 486-9333
+    - Ask for Washoe County Justice Court eviction filings by fiscal year
+  3. Manual Court Search (labor-intensive)
+    - Register at https://justicecourts.washoecourty.gov/OnlineServices
+    - Search case-by-case (no bulk export)
+  4. Accela Code Violations (labor-intensive)
+    - Search by address or date range
+    - Export results manually
+
+  Want me to draft a public records request letter for eviction data?
+
