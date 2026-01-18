@@ -1,8 +1,8 @@
 {
-  "commit": "fe88898d",
-  "message": "Add default favorites for new users in Reading library",
+  "commit": "8e1c2e43",
+  "message": "Remove polish feature and audit library for irrelevant texts",
   "author": "cwcorella-git",
-  "date": "2026-01-17 22:29:00 -0800",
+  "date": "2026-01-17 22:40:43 -0800",
   "branch": "main",
-  "buildTime": "2026-01-18T06:39:28.970Z"
+  "buildTime": "2026-01-18T06:46:10.301Z"
 }
