@@ -16,8 +16,6 @@ import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
 import { getFavorites, toggleFavorite } from '@/lib/favoritesStorage'
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { DelegateStatus } from '@/components/Governance/DelegateStatus'
-import { AppGovernancePanel } from '@/components/Governance/AppGovernancePanel'
 
 // Compressed property format from all-properties.json
 interface CompressedProperty {
@@ -73,7 +71,7 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
-type ToolsTab = 'canvassing' | 'powermap' | 'tasks' | 'governance'
+type ToolsTab = 'canvassing' | 'powermap' | 'tasks'
 
 // Key for storing the landlord to navigate to in Power Map
 const POWER_MAP_LANDLORD_KEY = 'rstu_powermap_landlord'
@@ -385,16 +383,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
       >
         {t('tools.tasks')}
       </button>
-      <button
-        onClick={() => setActiveToolsTab('governance')}
-        className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
-          activeToolsTab === 'governance'
-            ? 'bg-white text-gray-900 shadow-sm'
-            : 'text-gray-600 hover:text-gray-900'
-        }`}
-      >
-        Governance
-      </button>
     </div>
   )
 
@@ -415,8 +403,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 ? t('tools.selectPropertyToTrack')
                 : activeToolsTab === 'powermap'
                 ? t('tools.viewLandlordPortfolios')
-                : activeToolsTab === 'governance'
-                ? 'View your delegate status and vote on app decisions'
                 : t('tools.manageTrackTasks')
               }
             </p>
@@ -597,19 +583,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
               selectedLandlord={selectedLandlord}
               onSelectLandlord={handleSelectLandlord}
             />
-          ) : activeToolsTab === 'governance' ? (
-            // Governance: No list needed, content shows in right panel
-            <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
-              <div className="text-center">
-                <svg className="w-12 h-12 mx-auto mb-3 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-                </svg>
-                <p className="text-sm">View your delegate status</p>
-                <p className="text-xs text-gray-400 mt-1">
-                  and vote on app-wide decisions
-                </p>
-              </div>
-            </div>
           ) : (
             // Tasks: No list needed, Kanban board shows in right panel
             <div className="flex-1 flex items-center justify-center text-gray-400 p-4">
@@ -626,8 +599,8 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
           )}
         </div>
 
-        {/* Right: Detail Panel - full screen on mobile with back button, always show for tasks and governance */}
-        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' || activeToolsTab === 'governance' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
+        {/* Right: Detail Panel - full screen on mobile with back button, always show for tasks */}
+        <div className={`${toolsMobileView === 'units' || activeToolsTab === 'tasks' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-3/5 min-h-0 h-full overflow-hidden bg-white`}>
           {activeToolsTab === 'canvassing' ? (
             // Canvassing: Unit Tracker
             selectedBuilding ? (
@@ -687,15 +660,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
                 </div>
               </div>
             )
-          ) : activeToolsTab === 'governance' ? (
-            // Governance: Delegate Status and App Governance
-            <div className="flex-1 overflow-y-auto p-4 md:p-6 space-y-6">
-              <DelegateStatus />
-              <div className="border-t pt-6">
-                <h3 className="text-lg font-semibold text-gray-900 mb-4">App-Wide Proposals</h3>
-                <AppGovernancePanel />
-              </div>
-            </div>
           ) : (
             // Tasks: Full-width Kanban Board
             <TaskBoard />

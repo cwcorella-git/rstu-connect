@@ -40517,6 +40517,22 @@
       "polished": false
     },
     {
+      "id": "organizing-rstu-connect-governance-guide",
+      "title": "RSTU Connect Governance Guide",
+      "author": "RSTU Technical Committee",
+      "date": "2025",
+      "filename": "rstu-connect-governance-guide.md",
+      "category": "Organizing",
+      "excerpt": "RSTU Connect Governance Guide\n\nA comprehensive guide to the democratic systems powering RSTU Connect, the Reno-Sparks Tenants Union's organizing platform.\n\n 1. Democratic Principles\n\n Power Fl",
+      "wordCount": 2182,
+      "lastModified": "2026-01-18T05:29:10.249Z",
+      "tags": [
+        "RSTU"
+      ],
+      "slug": "organizing-rstu-connect-governance-guide",
+      "polished": false
+    },
+    {
       "id": "organizing-solidarity-is-not-enough",
       "title": "Solidarity is Not Enough",
       "author": "Industrial Workers of the World",
@@ -48945,5 +48961,5 @@
     "Theory",
     "Youth Student Organizing"
   ],
-  "totalDocuments": 2813
+  "totalDocuments": 2814
 }

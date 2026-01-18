@@ -1,5 +1,6 @@
 export { ElectionsDashboard } from './ElectionsDashboard'
 export { NominationForm } from './NominationForm'
 export { BallotView } from './BallotView'
+export { RankedChoiceVoting } from './RankedChoiceVoting'
 export { ResultsDisplay } from './ResultsDisplay'
 export { ElectionAdmin } from './ElectionAdmin'

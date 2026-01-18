@@ -47,8 +47,26 @@ export interface Vote {
   electionId: string
   positionId: string
   voterId: string                  // profile ID (one vote per position)
-  candidateId: string              // the nomination ID they voted for
+  candidateId: string              // the nomination ID they voted for (legacy simple voting)
   timestamp: number
+}
+
+// Ranked Choice Voting (RCV) types
+export interface RankedVote {
+  id: string
+  electionId: string
+  positionId: string
+  voterId: string
+  rankings: string[]               // candidateIds in order of preference (1st, 2nd, 3rd...)
+  timestamp: number
+}
+
+export interface EliminationRound {
+  roundNumber: number
+  candidateTotals: Map<string, number>
+  eliminatedCandidateId: string | null
+  eliminatedCandidateName: string | null
+  transferred: number              // votes transferred from eliminated candidate
 }
 
 export interface ElectionResults {
@@ -67,6 +85,17 @@ export interface PositionResult {
   winnerName: string | null
   totalVotes: number
   needsRunoff: boolean
+  // RCV-specific fields
+  eliminationRounds?: EliminationRoundResult[]
+  usedRankedChoice?: boolean
+}
+
+export interface EliminationRoundResult {
+  roundNumber: number
+  candidateTotals: { candidateId: string; candidateName: string; votes: number }[]
+  eliminatedCandidateId: string | null
+  eliminatedCandidateName: string | null
+  transferred: number
 }
 
 export interface CandidateResult {
@@ -112,6 +141,7 @@ export const DEFAULT_POSITIONS: Omit<ElectionPosition, 'id'>[] = [
 const ELECTIONS_KEY = 'rstu-elections'
 const NOMINATIONS_KEY = 'rstu-nominations'
 const VOTES_KEY = 'rstu-votes'
+const RANKED_VOTES_KEY = 'rstu-ranked-votes'
 
 function generateId(): string {
   if (typeof crypto !== 'undefined' && crypto.randomUUID) {
@@ -341,6 +371,223 @@ export function castVote(data: {
   }
 
   return vote
+}
+
+// ============================================================================
+// Ranked Choice Voting Functions
+// ============================================================================
+
+export function getRankedVotes(electionId?: string): RankedVote[] {
+  if (typeof window === 'undefined') return []
+  const stored = localStorage.getItem(RANKED_VOTES_KEY)
+  const votes: RankedVote[] = safeJsonParse<RankedVote[]>(stored, [])
+
+  if (electionId) {
+    return votes.filter(v => v.electionId === electionId)
+  }
+  return votes
+}
+
+export function hasRankedVotedForPosition(electionId: string, positionId: string, voterId: string): boolean {
+  return getRankedVotes(electionId).some(
+    v => v.positionId === positionId && v.voterId === voterId
+  )
+}
+
+export function getUserRankedVote(electionId: string, positionId: string, voterId: string): RankedVote | null {
+  return getRankedVotes(electionId).find(
+    v => v.positionId === positionId && v.voterId === voterId
+  ) || null
+}
+
+export function castRankedVote(data: {
+  electionId: string
+  positionId: string
+  voterId: string
+  rankings: string[]  // candidate IDs in preference order
+}): RankedVote | null {
+  // Check if already voted for this position
+  if (hasRankedVotedForPosition(data.electionId, data.positionId, data.voterId)) {
+    return null
+  }
+
+  // Validate rankings
+  if (data.rankings.length === 0) {
+    return null
+  }
+
+  const vote: RankedVote = {
+    id: generateId(),
+    electionId: data.electionId,
+    positionId: data.positionId,
+    voterId: data.voterId,
+    rankings: data.rankings,
+    timestamp: Date.now(),
+  }
+
+  if (typeof window !== 'undefined') {
+    const votes = getRankedVotes()
+    votes.push(vote)
+    localStorage.setItem(RANKED_VOTES_KEY, JSON.stringify(votes))
+  }
+
+  // Sync to server
+  const socket = getSocket()
+  if (socket) {
+    socket.emit('election:ranked_vote', { vote })
+  }
+
+  return vote
+}
+
+/**
+ * Instant-Runoff Voting (IRV) Algorithm
+ *
+ * 1. Count first-choice votes for each candidate
+ * 2. If a candidate has >50%, they win
+ * 3. Otherwise, eliminate the candidate with fewest votes
+ * 4. Redistribute eliminated candidate's votes to next preferences
+ * 5. Repeat until someone has >50% or only one candidate remains
+ */
+export function calculateRankedResults(
+  electionId: string,
+  positionId: string,
+  nominations: Nomination[]
+): { winner: CandidateResult | null; rounds: EliminationRoundResult[]; totalVotes: number } {
+  const rankedVotes = getRankedVotes(electionId).filter(v => v.positionId === positionId)
+  const acceptedNominations = nominations.filter(n => n.positionId === positionId && n.accepted === true)
+
+  if (rankedVotes.length === 0 || acceptedNominations.length === 0) {
+    return { winner: null, rounds: [], totalVotes: 0 }
+  }
+
+  // Create a map of nomination ID to name
+  const nominationNames = new Map<string, string>()
+  acceptedNominations.forEach(n => nominationNames.set(n.id, n.nomineeName))
+
+  // Track remaining candidates
+  let remainingCandidates = new Set(acceptedNominations.map(n => n.id))
+
+  // Each ballot tracks current position in rankings
+  const ballots = rankedVotes.map(v => ({
+    rankings: v.rankings.filter(r => remainingCandidates.has(r)),
+    currentIndex: 0,
+  }))
+
+  const rounds: EliminationRoundResult[] = []
+  let roundNumber = 1
+
+  while (remainingCandidates.size > 1) {
+    // Count first-choice votes (considering eliminations)
+    const voteCounts = new Map<string, number>()
+    remainingCandidates.forEach(c => voteCounts.set(c, 0))
+
+    let activeVotes = 0
+    ballots.forEach(ballot => {
+      // Find first remaining candidate in this ballot's rankings
+      const validChoice = ballot.rankings.find(r => remainingCandidates.has(r))
+      if (validChoice) {
+        voteCounts.set(validChoice, (voteCounts.get(validChoice) || 0) + 1)
+        activeVotes++
+      }
+    })
+
+    // Check for majority winner
+    const majority = activeVotes / 2
+    let winner: string | null = null
+
+    voteCounts.forEach((votes, candidateId) => {
+      if (votes > majority) {
+        winner = candidateId
+      }
+    })
+
+    // Build round result
+    const candidateTotals = Array.from(voteCounts.entries())
+      .map(([candidateId, votes]) => ({
+        candidateId,
+        candidateName: nominationNames.get(candidateId) || 'Unknown',
+        votes,
+      }))
+      .sort((a, b) => b.votes - a.votes)
+
+    if (winner) {
+      // We have a winner
+      rounds.push({
+        roundNumber,
+        candidateTotals,
+        eliminatedCandidateId: null,
+        eliminatedCandidateName: null,
+        transferred: 0,
+      })
+
+      const winningNomination = acceptedNominations.find(n => n.id === winner)
+      return {
+        winner: {
+          nominationId: winner,
+          nomineeId: winningNomination?.nomineeId || '',
+          nomineeName: nominationNames.get(winner) || 'Unknown',
+          voteCount: voteCounts.get(winner) || 0,
+          percentage: activeVotes > 0 ? ((voteCounts.get(winner) || 0) / activeVotes) * 100 : 0,
+        },
+        rounds,
+        totalVotes: rankedVotes.length,
+      }
+    }
+
+    // No majority - eliminate candidate with fewest votes
+    let minVotes = Infinity
+    let eliminatedId: string | null = null
+
+    voteCounts.forEach((votes, candidateId) => {
+      if (votes < minVotes) {
+        minVotes = votes
+        eliminatedId = candidateId
+      }
+    })
+
+    if (eliminatedId) {
+      remainingCandidates.delete(eliminatedId)
+
+      rounds.push({
+        roundNumber,
+        candidateTotals,
+        eliminatedCandidateId: eliminatedId,
+        eliminatedCandidateName: nominationNames.get(eliminatedId) || 'Unknown',
+        transferred: minVotes,
+      })
+    }
+
+    roundNumber++
+
+    // Safety check - shouldn't happen but prevents infinite loops
+    if (roundNumber > 100) break
+  }
+
+  // Only one candidate remains
+  if (remainingCandidates.size === 1) {
+    const lastCandidate = Array.from(remainingCandidates)[0]
+    const lastNomination = acceptedNominations.find(n => n.id === lastCandidate)
+
+    return {
+      winner: {
+        nominationId: lastCandidate,
+        nomineeId: lastNomination?.nomineeId || '',
+        nomineeName: nominationNames.get(lastCandidate) || 'Unknown',
+        voteCount: rankedVotes.length,
+        percentage: 100,
+      },
+      rounds,
+      totalVotes: rankedVotes.length,
+    }
+  }
+
+  return { winner: null, rounds, totalVotes: rankedVotes.length }
+}
+
+export function syncRankedVotesFromServer(votes: RankedVote[]): void {
+  if (typeof window === 'undefined') return
+  localStorage.setItem(RANKED_VOTES_KEY, JSON.stringify(votes))
 }
 
 // ============================================================================

@@ -140,6 +140,55 @@ export function ResultsDisplay({ election }: ResultsDisplayProps) {
             </div>
           )}
 
+          {/* RCV Elimination Rounds */}
+          {position.usedRankedChoice && position.eliminationRounds && position.eliminationRounds.length > 0 && (
+            <div className="mt-4 border-t pt-4">
+              <button
+                onClick={() => {
+                  const el = document.getElementById(`rounds-${position.positionId}`)
+                  if (el) el.classList.toggle('hidden')
+                }}
+                className="flex items-center gap-2 text-sm text-purple-600 hover:text-purple-800 font-medium"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                View Ranked Choice Voting Rounds ({position.eliminationRounds.length})
+              </button>
+              <div id={`rounds-${position.positionId}`} className="hidden mt-3 space-y-3">
+                {position.eliminationRounds.map((round, idx) => (
+                  <div key={idx} className="bg-purple-50 rounded-lg p-3 border border-purple-100">
+                    <div className="flex items-center justify-between mb-2">
+                      <span className="text-sm font-medium text-purple-800">
+                        Round {round.roundNumber}
+                      </span>
+                      {round.eliminatedCandidateName && (
+                        <span className="text-xs text-red-600 bg-red-50 px-2 py-0.5 rounded">
+                          Eliminated: {round.eliminatedCandidateName}
+                        </span>
+                      )}
+                    </div>
+                    <div className="space-y-1">
+                      {round.candidateTotals.map(ct => (
+                        <div key={ct.candidateId} className="flex justify-between text-sm">
+                          <span className={ct.candidateId === round.eliminatedCandidateId ? 'text-gray-400 line-through' : 'text-gray-700'}>
+                            {ct.candidateName}
+                          </span>
+                          <span className="text-gray-600">{ct.votes} votes</span>
+                        </div>
+                      ))}
+                    </div>
+                    {round.transferred > 0 && (
+                      <p className="text-xs text-purple-600 mt-2">
+                        {round.transferred} vote{round.transferred !== 1 ? 's' : ''} transferred to next preferences
+                      </p>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
           {/* Runoff Notice */}
           {position.needsRunoff && (
             <div className="mt-3 bg-yellow-50 text-yellow-800 px-3 py-2 rounded-lg text-sm">

@@ -11,7 +11,7 @@ import {
   getTimeRemaining,
 } from '@/lib/electionStorage'
 import { NominationForm } from './NominationForm'
-import { BallotView } from './BallotView'
+import { RankedChoiceVoting } from './RankedChoiceVoting'
 import { ResultsDisplay } from './ResultsDisplay'
 
 interface ElectionsDashboardProps {
@@ -238,13 +238,12 @@ export function ElectionsDashboard({ profileId, profileName }: ElectionsDashboar
         </div>
       )}
 
-      {/* Voting Phase */}
+      {/* Voting Phase - Ranked Choice */}
       {phase === 'voting' && (
-        <BallotView
+        <RankedChoiceVoting
           election={election}
           nominations={acceptedNominations}
           profileId={profileId}
-          votedPositions={myVotes}
           onVoteComplete={handleVoteComplete}
         />
       )}
