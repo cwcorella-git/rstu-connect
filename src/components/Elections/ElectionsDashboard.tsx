@@ -31,9 +31,25 @@ export function ElectionsDashboard({ profileId, profileName }: ElectionsDashboar
   // Fetch active election and nominations
   useEffect(() => {
     const socket = getSocket()
-    if (!socket) return
+    let responded = false
+
+    // Timeout fallback if socket is unavailable or server doesn't respond
+    const timeoutId = setTimeout(() => {
+      if (!responded) {
+        setIsLoading(false)
+        // Election stays null, which shows "no active election" state
+      }
+    }, 5000)
+
+    if (!socket) {
+      // No socket available - stop loading immediately
+      setIsLoading(false)
+      return () => clearTimeout(timeoutId)
+    }
 
     const handleActiveElection = ({ election: e }: { election: Election | null }) => {
+      responded = true
+      clearTimeout(timeoutId)
       setElection(e)
       setIsLoading(false)
       if (e) {
@@ -76,6 +92,7 @@ export function ElectionsDashboard({ profileId, profileName }: ElectionsDashboar
     socket.emit('election:get_active')
 
     return () => {
+      clearTimeout(timeoutId)
       socket.off('election:active', handleActiveElection)
       socket.off('election:nominations', handleNominations)
       socket.off('election:my_votes', handleMyVotes)
