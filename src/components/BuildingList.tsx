@@ -111,7 +111,7 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
 
 interface BuildingListProps {
   buildings: EnhancedBuilding[];
-  selectedBuilding: EnhancedBuilding;
+  selectedBuilding: EnhancedBuilding | null;
   onSelectBuilding: (building: EnhancedBuilding) => void;
   linkingSelection?: EnhancedBuilding[];
   onToggleLinkSelection?: (building: EnhancedBuilding) => void;
@@ -603,7 +603,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                       data-group-id={item.group.id}
                       group={item.group}
                       buildings={item.buildings}
-                      isSelected={item.buildings.some(b => b.apn === selectedBuilding.apn)}
+                      isSelected={selectedBuilding ? item.buildings.some(b => b.apn === selectedBuilding.apn) : false}
                       isFavorite={hasAnyFavorite}
                       onClick={() => {
                         const first = item.buildings[0]
@@ -621,7 +621,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                     key={building.apn}
                     data-apn={building.apn}
                     building={building}
-                    isSelected={selectedBuilding.apn === building.apn}
+                    isSelected={selectedBuilding?.apn === building.apn}
                     isFavorite={favorites.has(building.apn)}
                     isInLinkingSelection={linkingSelection.some(b => b.apn === building.apn)}
                     isLinked={false}

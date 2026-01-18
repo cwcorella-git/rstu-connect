@@ -629,12 +629,12 @@ export default function Home() {
           </div>
         )}
 
-        {/* Main Content - Only show when buildings are loaded and property selected */}
-        {!isLoadingBuildings && !loadError && selectedBuilding && (
+        {/* Main Content - Show when buildings are loaded */}
+        {!isLoadingBuildings && !loadError && (
         <div className="flex flex-col md:flex-row overflow-hidden flex-1 min-h-0">
         {/* Left: Building List - hidden on mobile when property is selected */}
         <div
-          className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full min-h-0 h-full overflow-hidden`}
+          className={`${mobileView === 'list' || !selectedBuilding ? 'flex' : 'hidden'} md:flex flex-col w-full min-h-0 h-full overflow-hidden`}
           style={isHydrated && isDesktop && homePanelConfig.config.visible ? { flex: `0 0 ${homePanelConfig.config.width}%` } : undefined}
         >
           <BuildingList
@@ -654,33 +654,32 @@ export default function Home() {
 
         {/* Right: Property View with Tabs (Chat, Map, Info) - full screen on mobile with back button */}
         <div
-          className={`${mobileView === 'chat' ? 'flex' : 'hidden'} md:flex w-full flex-col bg-white relative min-h-0 h-full overflow-hidden`}
+          className={`${mobileView === 'chat' && selectedBuilding ? 'flex' : 'hidden'} md:flex w-full flex-col bg-white relative min-h-0 h-full overflow-hidden`}
           style={isHydrated && isDesktop && homePanelConfig.config.visible ? { flex: `1 1 ${100 - homePanelConfig.config.width}%` } : { flex: '1 1 100%' }}
         >
-          <PropertyViewTabs
-            building={selectedBuilding}
-            allBuildings={buildings}
-            onSelectBuilding={setSelectedBuilding}
-            linkingSelection={linkingSelection}
-            onToggleLinkSelection={handleToggleLinkSelection}
-            isLinkMode={isLinkMode}
-            showBackButton={!isDesktop}
-            onBack={() => setMobileView('list')}
-          />
+          {selectedBuilding ? (
+            <PropertyViewTabs
+              building={selectedBuilding}
+              allBuildings={buildings}
+              onSelectBuilding={setSelectedBuilding}
+              linkingSelection={linkingSelection}
+              onToggleLinkSelection={handleToggleLinkSelection}
+              isLinkMode={isLinkMode}
+              showBackButton={!isDesktop}
+              onBack={() => setMobileView('list')}
+            />
+          ) : (
+            <div className="flex items-center justify-center h-full text-gray-400">
+              <div className="text-center max-w-md p-6">
+                <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                </svg>
+                <h3 className="text-lg font-semibold text-gray-900 mb-2">No Property Selected</h3>
+                <p className="text-sm text-gray-500">Select a property from the list to view details and start organizing</p>
+              </div>
+            </div>
+          )}
         </div>
-        </div>
-        )}
-
-        {/* No Property Selected State */}
-        {!isLoadingBuildings && !loadError && !selectedBuilding && (
-        <div className="flex items-center justify-center flex-1">
-          <div className="text-center max-w-md p-6">
-            <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-            </svg>
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">No Property Selected</h3>
-            <p className="text-sm text-gray-500">Select a property from the list to view details and start organizing</p>
-          </div>
         </div>
         )}
       </div>
