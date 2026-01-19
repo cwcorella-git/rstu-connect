@@ -1,13 +1,13 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,649
+Current document count: 2,601
 
 ## Category Overview
 
 | Category | Count | Status | Notes |
 |----------|-------|--------|-------|
-| contemporary-analysis | 917 | pending | Largest category, needs deep review |
+| contemporary-analysis | ~870 | **in progress** | Removed 48+ docs (lectures, self-help, screenplays) |
 | labor | 449 | pending | |
 | theory | 252 | pending | |
 | environmental-justice | 179 | pending | |
@@ -177,5 +177,16 @@ Documents that may be stubs or need expansion.
 - Removed general Wikipedia articles (COVID, Confederate States, etc.)
 - **Total removed: 24 documents**
 - **Current count: 2,649**
-- Next: continue contemporary-analysis audit (still ~900+ docs), then other large categories
+
+### 2026-01-19 (Session 2)
+- Continued contemporary-analysis audit
+- **Removed 31 "Episode" files** - Vervaeke's "Awakening from the Meaning Crisis" lecture series (cognitive science, not organizing)
+- Removed 8 self-help/tutorial files (Cicero election guides, juniper plant care, 3D modeling, networking books)
+- Removed Gandhi health guide, James Joyce literary criticism, Uncle Tom's Cabin
+- Removed Stanford Encyclopedia philosophy articles (Aristotle, Epictetus, Plato)
+- Removed Joseph Campbell "Power of Myth", AI benchmark guide, Albert Ellis obituary
+- **Session 2 removed: 48 documents**
+- **Total removed: 72 documents**
+- **Current count: 2,601**
+- Next: continue contemporary-analysis audit, then other large categories
 
