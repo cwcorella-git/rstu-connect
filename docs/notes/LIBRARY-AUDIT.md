@@ -1,13 +1,13 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,449
+Current document count: 2,443
 
 ## Category Overview
 
 | Category | Count | Status | Notes |
 |----------|-------|--------|-------|
-| contemporary-analysis | ~702 | **in progress** | Removed 198+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help, AI/tech, psychology papers) |
+| contemporary-analysis | ~696 | **in progress** | Removed 204+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help, AI/tech, psychology papers) |
 | labor | 449 | pending | |
 | theory | 252 | pending | |
 | environmental-justice | 179 | pending | |
@@ -242,10 +242,10 @@ Documents that may be stubs or need expansion.
 - **Removed pop poetry** - Rupi Kaur (Milk and Honey, Home Body)
 - **Removed general Wikipedia** - Dharma, Ares, Plebeians, Kudzu (invasive plant)
 - **Removed misc** - Japanese folk song analysis, Korean archaeology, Philosophy of "chmess", Claude AI conversation, MS Research hybrid work paper, Piaggio scooter manual, Paolo Soleri arcology, Aposimz manga, video game industry book
-- **Session 6 removed: 54 documents**
-- **Total removed: 224 documents**
-- **Current count: 2,449**
-- **Contemporary-analysis: 702 files remaining** (mostly high-quality organizing content now)
-- **Additional removals:** FARGO, Jaws, Matrix screenplays; Patricia Wrede writing advice; Susan RoAne networking; US Army field manual; Derinkuyu archaeology; AR glasses tech news; Reeves masculinity book; battery tech news
+- **Session 6 removed: 60 documents**
+- **Total removed: 230 documents**
+- **Current count: 2,443**
+- **Contemporary-analysis: 696 files remaining** (mostly high-quality organizing content now)
+- **Additional removals:** FARGO, Jaws, Matrix, Sorry to Bother You screenplays; Patricia Wrede writing advice; Susan RoAne networking; US Army field manual; Derinkuyu archaeology (x2); AR glasses tech news (x2); Reeves masculinity book; battery tech news; Minnesota Wikipedia; Nevada species list; DTI medical imaging; CRISPR genetics paper
 - Next: labor category (449 files), then theory (252 files)
 
