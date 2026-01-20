@@ -1,13 +1,13 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,601
+Current document count: 2,559
 
 ## Category Overview
 
 | Category | Count | Status | Notes |
 |----------|-------|--------|-------|
-| contemporary-analysis | ~870 | **in progress** | Removed 48+ docs (lectures, self-help, screenplays) |
+| contemporary-analysis | ~812 | **in progress** | Removed 90+ docs (lectures, video game wikis, general Wikipedia) |
 | labor | 449 | pending | |
 | theory | 252 | pending | |
 | environmental-justice | 179 | pending | |
@@ -82,6 +82,10 @@ Documents that should be accessible to Claude for reference but not displayed in
 | Category | File | Current Title | Suggested Title |
 |----------|------|---------------|-----------------|
 | disability-justice | Alabama Correctional Officers...md | Truncated | "Prison Guards Use Deadly Force in Mental Health Crisis - Free Alabama Movement Report" |
+| contemporary-analysis | edit (1).md | "Soil Solidarity" | "Soil Solidarity - Housing Solutions Letter to Faith Leaders" |
+| contemporary-analysis | 1, 2001 -- William Morrow...Anna's Archive.md | "Bell hooks" | "All About Love - bell hooks" |
+| contemporary-analysis | Large print, 2023 -- Random...Anna's Archive.md | "BROOKS" | "How to Know a Person - David Brooks" |
+| contemporary-analysis | HarperCollins -- 9780008354657...Anna's Archive.md | "WILL STORR" | "The Status Game - Will Storr" |
 
 ---
 
@@ -189,4 +193,18 @@ Documents that may be stubs or need expansion.
 - **Total removed: 72 documents**
 - **Current count: 2,601**
 - Next: continue contemporary-analysis audit, then other large categories
+
+### 2026-01-20 (Session 3)
+- Continued contemporary-analysis audit
+- **Removed 5 video game wiki pages** - Outriders Wiki, Wookieepedia (Star Wars) content
+- **Removed 3 technical tutorials** - SPH physics simulation, Olympics media guide, creative writing guide
+- **Removed 25+ general Wikipedia articles** - psychology (Facial expression, Empathy, Deference, Pronoia), philosophy (Cosmopolitanism, Teleology, Aristotle Metaphysics), general history (Athenian democracy, Hypatia, Jesse Owens, Robert E. Lee, Mexican Cession, etc.)
+- **Removed 3 misplaced books** - Colleen Hoover romance novel, H.G. Wells sci-fi, sports coaching book
+- **Removed stray files** - Game developer pitch doc, Unity plugin documentation, video game manual (Dead Space), rowing federation manual
+- **Removed duplicate files** - "Information wants to be free" duplicates (1) and (2)
+- **Identified files needing filename fixes** - "edit (1).md" is actually Soil Solidarity housing letter, Anna's Archive books need proper titles
+- **Session 3 removed: 42 documents**
+- **Total removed: 114 documents**
+- **Current count: 2,559**
+- Next: continue contemporary-analysis audit (still ~812 files), then labor and theory categories
 
