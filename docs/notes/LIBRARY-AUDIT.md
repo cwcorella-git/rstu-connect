@@ -1,13 +1,13 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,503
+Current document count: 2,459
 
 ## Category Overview
 
 | Category | Count | Status | Notes |
 |----------|-------|--------|-------|
-| contemporary-analysis | ~756 | **in progress** | Removed 146+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help) |
+| contemporary-analysis | ~712 | **in progress** | Removed 188+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help, AI/tech, psychology papers) |
 | labor | 449 | pending | |
 | theory | 252 | pending | |
 | environmental-justice | 179 | pending | |
@@ -232,4 +232,19 @@ Documents that may be stubs or need expansion.
 - **Total removed: 170 documents**
 - **Current count: 2,503**
 - Next: continue contemporary-analysis (756 files), then move to labor category
+
+### 2026-01-20 (Session 6 - continued)
+- Continued contemporary-analysis audit
+- **Removed psychology/cognitive science papers** - Cognitive Dissonance (2 papers), Emotional Intelligence, Emotional Contagion, Cognitive Mechanisms Deception
+- **Removed physics/engineering papers** - Bounce Maps rigid-body simulation, Nanodiamonds for energy, Collision detection
+- **Removed AI/tech content** - LessWrong deceptive alignment, Steam recommender news, HCI meeting clustering, Nature brain/speech predictive coding, Symphony of Thought (AI book)
+- **Removed screenplays/fiction** - Letters from Iwo Jima, N.K. Jemisin Emergency Skin
+- **Removed pop poetry** - Rupi Kaur (Milk and Honey, Home Body)
+- **Removed general Wikipedia** - Dharma, Ares, Plebeians, Kudzu (invasive plant)
+- **Removed misc** - Japanese folk song analysis, Korean archaeology, Philosophy of "chmess", Claude AI conversation, MS Research hybrid work paper, Piaggio scooter manual, Paolo Soleri arcology, Aposimz manga, video game industry book
+- **Session 6 removed: 44 documents**
+- **Total removed: 214 documents**
+- **Current count: 2,459**
+- **Contemporary-analysis: 712 files remaining** (good progress, mostly high-quality organizing content now)
+- Next: continue contemporary-analysis cleanup, then move to labor category (449 files)
 
