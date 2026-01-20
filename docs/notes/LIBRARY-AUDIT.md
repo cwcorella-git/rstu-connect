@@ -1,13 +1,13 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,527
+Current document count: 2,503
 
 ## Category Overview
 
 | Category | Count | Status | Notes |
 |----------|-------|--------|-------|
-| contemporary-analysis | ~780 | **in progress** | Removed 122+ docs (lectures, video game wikis, general Wikipedia, screenplays) |
+| contemporary-analysis | ~756 | **in progress** | Removed 146+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help) |
 | labor | 449 | pending | |
 | theory | 252 | pending | |
 | environmental-justice | 179 | pending | |
@@ -219,4 +219,17 @@ Documents that may be stubs or need expansion.
 - **Total removed: 146 documents**
 - **Current count: 2,527**
 - Next: continue contemporary-analysis (780 files), then move to labor category
+
+### 2026-01-20 (Session 5 - continued)
+- Continued contemporary-analysis audit
+- **Removed self-help/pop psychology** - Atomic Habits, Road Less Traveled, Make It Stick, Parasitic Processing (overthinking), Corruptible (power psychology)
+- **Removed AI/tech books** - Benevolent By Design, Natural Language Cognitive Architecture, Symphony of Thought (all AI/AGI)
+- **Removed design/architecture** - Design of Everyday Things, Eyes of the Skin, chatbot design, Japanese beach house, Portugal hotel cabins, PC power supply guide
+- **Removed science Wikipedia** - Kinesiology, Stellarator (nuclear fusion), Thermoreceptor (biology)
+- **Removed ancient philosophy** - Pythagoras Wikipedia, Nicomachean Ethics (Aristotle)
+- **Removed academic papers** - Sexual promiscuity research, cognitive neuroscience deception, expressive order (sociology)
+- **Session 5 removed: 24 documents**
+- **Total removed: 170 documents**
+- **Current count: 2,503**
+- Next: continue contemporary-analysis (756 files), then move to labor category
 
