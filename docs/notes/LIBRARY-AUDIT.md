@@ -1,7 +1,7 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,426
+Current document count: 2,402
 
 ## Category Overview
 
@@ -11,9 +11,9 @@ Current document count: 2,426
 | labor | 446 | **audited** | Removed 4 (bell hooks love book, UK riots, generic college article) |
 | theory | 244 | **audited** | Removed 8 (psychology paper, Wikipedia, architecture/film school books, Lincoln) |
 | environmental-justice | 174 | **audited** | Removed 5 (Unity tutorial, healthcare, neuroscience, duplicate, journal index) |
-| technology-digital-justice | 174 | pending | |
-| arts-culture-music | 122 | pending | |
-| abolition | 106 | pending | |
+| technology-digital-justice | 161 | **audited** | Removed 13 (Wikipedia, screenplays, video game wiki, writing advice) |
+| arts-culture-music | 110 | **audited** | Removed 11 (writing advice, video game, computer graphics, Wikipedia, lectures) |
+| abolition | 106 | **audited** | No changes - well-focused prison/police abolition content |
 | housing | 103 | pending | Core content for tenant organizing |
 | feminist-theory | 99 | pending | |
 | organizing | 67 | pending | Core content for tenant organizing |
@@ -271,5 +271,29 @@ Documents that may be stubs or need expansion.
 - **Session 7 removed: 17 documents**
 - **Total removed: 247 documents**
 - **Current count: 2,426**
-- Next: technology-digital-justice (174 files), arts-culture-music (122 files), abolition (106 files)
+
+### 2026-01-20 (Session 7 - continued)
+- **Audited technology-digital-justice category (174 files)**
+  - Removed Wikipedia: Brain, Brain Age video game, Appomattox battles (2), Eudaimonia, Praise, Alain Ehrenberg, Mécanisme de la physionomie humaine
+  - Removed Wookieepedia Star Wars content
+  - Removed screenplays: Raiders of the Lost Ark
+  - Removed writing advice: Patricia C. Wrede
+  - Removed video game marketing: 3DS platform story
+  - Removed misc: LBJ museum quotes
+  - **Technology-digital-justice: 174 → 161 files** (13 removed)
+- **Audited arts-culture-music category (122 files)**
+  - Removed writing advice: Patricia C. Wrede (2), Ray Bradbury, Screenwriting book
+  - Removed video game: Worlds Adrift artbook, game marketing book
+  - Removed computer graphics: Synthetic Silviculture research paper
+  - Removed Wikipedia: General partnership, Cultural Revolution
+  - Removed lectures: Vervaeke "Awakening from Meaning Crisis" episode
+  - Removed literature: Thoreau Cape Cod
+  - **Arts-culture-music: 122 → 110 files** (11 removed)
+- **Audited abolition category (106 files)**
+  - No changes needed - well-focused prison/police abolition content
+  - **Abolition: 106 files** (0 removed)
+- **Session 7 total removed: 41 documents**
+- **Total removed: 271 documents**
+- **Current count: 2,402**
+- Next: housing (103 files), feminist-theory (99 files), organizing (67 files), smaller categories
 
