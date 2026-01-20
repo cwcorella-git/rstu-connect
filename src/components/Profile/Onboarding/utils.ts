@@ -110,8 +110,14 @@ export function canProceedFromStep(
       return true;
 
     case 'review':
-      // Cannot proceed from review (it's the final step)
-      return false;
+      // Review step: can proceed (create profile) if all required fields are valid
+      return (
+        validation.inviteValid === true &&
+        formData.nickname.length >= 2 &&
+        formData.email.length > 0 &&
+        validateEmailFormat(formData.email) &&
+        validation.emailAvailable === true
+      );
 
     default:
       return false;
