@@ -98,36 +98,7 @@ export function ProfileOnboardingWizard({
     inviteError: inviteValidation.error,
   });
 
-  // Handle next button
-  const handleNext = useCallback(() => {
-    if (!canProceed) return;
-
-    // Mark current step as completed
-    setCompletedSteps((prev) => new Set(Array.from(prev).concat(currentStep)));
-
-    // Move to next step
-    const nextStep = getNextStep(currentStep);
-    setCurrentStep(nextStep);
-    setError(null);
-  }, [currentStep, canProceed]);
-
-  // Handle back button
-  const handleBack = useCallback(() => {
-    const prevStep = getPreviousStep(currentStep);
-    setCurrentStep(prevStep);
-    setError(null);
-  }, [currentStep]);
-
-  // Handle skip button (for optional steps)
-  const handleSkip = useCallback(() => {
-    // Mark as completed and skip to next
-    setCompletedSteps((prev) => new Set(Array.from(prev).concat(currentStep)));
-    const nextStep = getNextStep(currentStep);
-    setCurrentStep(nextStep);
-    setError(null);
-  }, [currentStep]);
-
-  // Handle profile creation (from review step)
+  // Handle profile creation (from review step) - defined first since handleNext depends on it
   const handleCreateProfile = useCallback(async () => {
     setIsLoading(true);
     setError(null);
@@ -176,6 +147,41 @@ export function ProfileOnboardingWizard({
       setIsLoading(false);
     }
   }, [formData, onProfileCreated, onCancel]);
+
+  // Handle next button
+  const handleNext = useCallback(() => {
+    if (!canProceed) return;
+
+    // On review step, create profile instead of advancing
+    if (currentStep === 'review') {
+      handleCreateProfile();
+      return;
+    }
+
+    // Mark current step as completed
+    setCompletedSteps((prev) => new Set(Array.from(prev).concat(currentStep)));
+
+    // Move to next step
+    const nextStep = getNextStep(currentStep);
+    setCurrentStep(nextStep);
+    setError(null);
+  }, [currentStep, canProceed, handleCreateProfile]);
+
+  // Handle back button
+  const handleBack = useCallback(() => {
+    const prevStep = getPreviousStep(currentStep);
+    setCurrentStep(prevStep);
+    setError(null);
+  }, [currentStep]);
+
+  // Handle skip button (for optional steps)
+  const handleSkip = useCallback(() => {
+    // Mark as completed and skip to next
+    setCompletedSteps((prev) => new Set(Array.from(prev).concat(currentStep)));
+    const nextStep = getNextStep(currentStep);
+    setCurrentStep(nextStep);
+    setError(null);
+  }, [currentStep]);
 
   // Handle close/cancel
   const handleClose = useCallback(() => {
