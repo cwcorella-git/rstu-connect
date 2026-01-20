@@ -1,13 +1,13 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,559
+Current document count: 2,527
 
 ## Category Overview
 
 | Category | Count | Status | Notes |
 |----------|-------|--------|-------|
-| contemporary-analysis | ~812 | **in progress** | Removed 90+ docs (lectures, video game wikis, general Wikipedia) |
+| contemporary-analysis | ~780 | **in progress** | Removed 122+ docs (lectures, video game wikis, general Wikipedia, screenplays) |
 | labor | 449 | pending | |
 | theory | 252 | pending | |
 | environmental-justice | 179 | pending | |
@@ -207,4 +207,16 @@ Documents that may be stubs or need expansion.
 - **Total removed: 114 documents**
 - **Current count: 2,559**
 - Next: continue contemporary-analysis audit (still ~812 files), then labor and theory categories
+
+### 2026-01-20 (Session 4 - continued)
+- Continued contemporary-analysis audit
+- **Removed 5 more Wikipedia articles** - Proclamation 80, Battle Cry of Freedom, LBJ, Bretton Woods Conference/system
+- **Removed 4 entertainment files** - Becky Chambers bio, Galactic Republic (Star Wars), Shawshank Redemption screenplay, Patricia Wrede writing advice
+- **Removed 8 screenplays/creative writing** - Citizen Kane, Parasite, Eternal Sunshine, No Country for Old Men, plus writing guides
+- **Removed technical/academic papers** - AI research (DreamBooth, Transformer Memory), Korean archaeology, military desalination, robotics
+- **Removed miscellaneous** - Game design templates (Silent Hill, Chris Taylor), thesis presentations (architecture), religious texts (Gandhi prayer, Word of Buddha), NPR religion article, Victorian design book
+- **Session 4 removed: 32 documents**
+- **Total removed: 146 documents**
+- **Current count: 2,527**
+- Next: continue contemporary-analysis (780 files), then move to labor category
 
