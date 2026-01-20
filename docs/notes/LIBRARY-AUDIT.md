@@ -1,16 +1,16 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,443
+Current document count: 2,426
 
 ## Category Overview
 
 | Category | Count | Status | Notes |
 |----------|-------|--------|-------|
-| contemporary-analysis | ~696 | **in progress** | Removed 204+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help, AI/tech, psychology papers) |
-| labor | 449 | pending | |
-| theory | 252 | pending | |
-| environmental-justice | 179 | pending | |
+| contemporary-analysis | ~696 | **audited** | Removed 204+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help, AI/tech, psychology papers) |
+| labor | 446 | **audited** | Removed 4 (bell hooks love book, UK riots, generic college article) |
+| theory | 244 | **audited** | Removed 8 (psychology paper, Wikipedia, architecture/film school books, Lincoln) |
+| environmental-justice | 174 | **audited** | Removed 5 (Unity tutorial, healthcare, neuroscience, duplicate, journal index) |
 | technology-digital-justice | 174 | pending | |
 | arts-culture-music | 122 | pending | |
 | abolition | 106 | pending | |
@@ -248,4 +248,28 @@ Documents that may be stubs or need expansion.
 - **Contemporary-analysis: 696 files remaining** (mostly high-quality organizing content now)
 - **Additional removals:** FARGO, Jaws, Matrix, Sorry to Bother You screenplays; Patricia Wrede writing advice; Susan RoAne networking; US Army field manual; Derinkuyu archaeology (x2); AR glasses tech news (x2); Reeves masculinity book; battery tech news; Minnesota Wikipedia; Nevada species list; DTI medical imaging; CRISPR genetics paper
 - Next: labor category (449 files), then theory (252 files)
+
+### 2026-01-20 (Session 7)
+- **Audited labor category (449 files)**
+  - Removed bell hooks "Communion" (love/relationships book, miscategorized)
+  - Removed 2024 UK riots Wikipedia (far-right riots, not labor content)
+  - Removed UoPeople free college article (generic policy)
+  - **Labor: 449 → 446 files** (3 removed)
+- **Audited theory category (252 files)**
+  - Removed psychology paper: Feldman-Barrett Constructing Emotion
+  - Removed Wikipedia: Abraham Lincoln, Adams-Onís Treaty, Centralized government, Glasser's choice theory
+  - Removed architecture/film school books: 101 Things I Learned (2 copies)
+  - Removed Lincoln speech transcript
+  - **Theory: 252 → 244 files** (8 removed)
+- **Audited environmental-justice category (179 files)**
+  - Removed Unity game engine tutorial (completely miscategorized with climate tags)
+  - Removed Ketamine therapy healthcare article
+  - Removed neuroscience article about coma patients
+  - Removed duplicate Low-carbon economy Wikipedia
+  - Removed academic journal index (Environment and Behavior 2006)
+  - **Environmental-justice: 179 → 174 files** (5 removed)
+- **Session 7 removed: 17 documents**
+- **Total removed: 247 documents**
+- **Current count: 2,426**
+- Next: technology-digital-justice (174 files), arts-culture-music (122 files), abolition (106 files)
 
