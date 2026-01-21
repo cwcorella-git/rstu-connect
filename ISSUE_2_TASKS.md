@@ -120,13 +120,17 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [x] ~~**No RLS policies**~~ - Fixed in `011_identity_based_rls.sql`
 - [x] Implement server-side role verification in Supabase
 - [x] Add Row Level Security (RLS) policies
-- [ ] Keep localStorage only as read-only cache
+- [x] Keep localStorage only as read-only cache - In progress: election components now use server-verified async functions
 - [x] ~~Migrate all voting to async (server-verified) functions~~ - Fixed: governance voting uses background sync
 
 **Fixed sync functions (optimistic update + background server verification):**
 - `voteOnProposal()` - fires `voteOnProposalAsync()` in background
 - `createProposal()` - fires `syncProposalToServer()` in background
 - `createAppWideProposal()` - fires `syncProposalToServer()` in background
+
+**Election components updated to use server-verified async functions (2026-01-21):**
+- `RankedChoiceVoting.tsx` - uses `castRankedVoteAsync()` instead of sync function
+- `NominationForm.tsx` - uses `createNominationAsync()` instead of Socket.io only
 
 **Error handling (vote rollback on failure):**
 - `rollbackVote()` removes vote from localStorage if server rejects or network fails
@@ -290,4 +294,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (Elections migrated to Supabase)*
+*Last updated: 2026-01-21 (Election components use server-verified async functions)*

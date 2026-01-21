@@ -6,7 +6,7 @@ import { useLanguage } from '@/contexts/LanguageContext'
 import {
   Election,
   Nomination,
-  castRankedVote,
+  castRankedVoteAsync,
   hasRankedVotedForPosition,
   getUserRankedVote,
   type RankedVote,
@@ -117,24 +117,31 @@ export function RankedChoiceVoting({
     setSubmittingPosition(positionId)
     setError(null)
 
-    // Cast vote locally first
-    const vote = castRankedVote({
+    // Cast vote through server-verified async function
+    // This does optimistic local update + server verification + rollback on failure
+    const result = await castRankedVoteAsync({
       electionId: election.id,
       positionId,
-      voterId: profileId,
       rankings: positionRankings,
     })
 
-    if (!vote) {
-      setError('Unable to cast vote. You may have already voted.')
+    if (!result.success) {
+      setError(result.error || 'Unable to cast vote. You may have already voted.')
       setSubmittingPosition(null)
       return
     }
 
-    // Sync to server
+    // Also sync to Socket.io for real-time updates to other users
     const socket = getSocket()
     if (socket) {
-      socket.emit('election:ranked_vote', { vote })
+      socket.emit('election:ranked_vote', {
+        vote: {
+          electionId: election.id,
+          positionId,
+          voterId: profileId,
+          rankings: positionRankings,
+        }
+      })
     }
 
     setVotedPositions(prev => new Set([...Array.from(prev), positionId]))

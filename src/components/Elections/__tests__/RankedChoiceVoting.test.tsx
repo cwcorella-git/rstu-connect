@@ -19,12 +19,12 @@ jest.mock('@/contexts/LanguageContext', () => ({
 }))
 
 // Mock electionStorage functions
-const mockCastRankedVote = jest.fn()
+const mockCastRankedVoteAsync = jest.fn()
 const mockHasRankedVotedForPosition = jest.fn()
 const mockGetUserRankedVote = jest.fn()
 
 jest.mock('@/lib/electionStorage', () => ({
-  castRankedVote: (...args: unknown[]) => mockCastRankedVote(...args),
+  castRankedVoteAsync: (...args: unknown[]) => mockCastRankedVoteAsync(...args),
   hasRankedVotedForPosition: (...args: unknown[]) => mockHasRankedVotedForPosition(...args),
   getUserRankedVote: (...args: unknown[]) => mockGetUserRankedVote(...args),
 }))
@@ -101,13 +101,9 @@ describe('RankedChoiceVoting', () => {
     jest.clearAllMocks()
     mockHasRankedVotedForPosition.mockReturnValue(false)
     mockGetUserRankedVote.mockReturnValue(null)
-    mockCastRankedVote.mockImplementation((params) => ({
-      id: 'vote-' + Math.random(),
-      electionId: params.electionId,
-      positionId: params.positionId,
-      voterId: params.voterId,
-      rankings: params.rankings,
-      timestamp: Date.now(),
+    mockCastRankedVoteAsync.mockImplementation(() => Promise.resolve({
+      success: true,
+      voteId: 'vote-' + Math.random(),
     }))
   })
 
@@ -243,11 +239,10 @@ describe('RankedChoiceVoting', () => {
     const submitButton = screen.getByText('Submit Ranked Vote for President')
     await user.click(submitButton)
 
-    // Verify castRankedVote was called
-    expect(mockCastRankedVote).toHaveBeenCalledWith({
+    // Verify castRankedVoteAsync was called
+    expect(mockCastRankedVoteAsync).toHaveBeenCalledWith({
       electionId: 'election-1',
       positionId: 'pos-1',
-      voterId: 'user-5',
       rankings: expect.arrayContaining(['nom-1', 'nom-2', 'nom-3']),
     })
 
@@ -347,7 +342,7 @@ describe('RankedChoiceVoting', () => {
 
   it('shows error when vote fails', async () => {
     const user = userEvent.setup()
-    mockCastRankedVote.mockReturnValue(null) // Simulate vote failure
+    mockCastRankedVoteAsync.mockResolvedValue({ success: false, error: 'Already voted for this position' }) // Simulate vote failure
 
     render(
       <RankedChoiceVoting
@@ -363,7 +358,7 @@ describe('RankedChoiceVoting', () => {
 
     // Should show error message
     await waitFor(() => {
-      expect(screen.getByText('Unable to cast vote. You may have already voted.')).toBeInTheDocument()
+      expect(screen.getByText('Already voted for this position')).toBeInTheDocument()
     })
 
     // Callback should not be called

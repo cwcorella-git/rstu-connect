@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { getSocket } from '@/lib/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { Election, Nomination } from '@/lib/electionStorage'
+import { Election, Nomination, createNominationAsync } from '@/lib/electionStorage'
 
 interface NominationFormProps {
   election: Election
@@ -74,46 +74,45 @@ export function NominationForm({
 
     setIsSubmitting(true)
 
-    const socket = getSocket()
-    if (!socket) {
-      setError(t('common.error'))
+    const actualNomineeId = isSelfNomination ? profileId : nomineeId
+    const actualNomineeName = isSelfNomination ? profileName : nomineeName
+
+    // Use server-verified async function
+    const result = await createNominationAsync({
+      electionId: election.id,
+      positionId: selectedPosition,
+      nomineeId: actualNomineeId,
+      nomineeName: actualNomineeName,
+      statement,
+      selfNomination: isSelfNomination,
+    })
+
+    if (!result.success) {
+      setError(result.error || t('common.error'))
       setIsSubmitting(false)
       return
     }
 
-    const nomination: Omit<Nomination, 'id' | 'createdAt'> & { id?: string; createdAt?: number } = {
-      electionId: election.id,
-      positionId: selectedPosition,
-      nomineeId: isSelfNomination ? profileId : nomineeId,
-      nomineeName: isSelfNomination ? profileName : nomineeName,
-      nominatorId: profileId,
-      nominatorName: profileName,
-      statement,
-      accepted: isSelfNomination ? true : null,
+    // Also emit to Socket.io for real-time updates to other users
+    const socket = getSocket()
+    if (socket) {
+      const nomination = {
+        id: result.nominationId,
+        electionId: election.id,
+        positionId: selectedPosition,
+        nomineeId: actualNomineeId,
+        nomineeName: actualNomineeName,
+        nominatorId: profileId,
+        nominatorName: profileName,
+        statement,
+        accepted: isSelfNomination ? true : null,
+        createdAt: Date.now(),
+      }
+      socket.emit('election:nominate', { nomination })
     }
 
-    socket.emit('election:nominate', { nomination })
-
-    // Wait for response
-    const timeout = setTimeout(() => {
-      setError(t('common.error'))
-      setIsSubmitting(false)
-    }, 5000)
-
-    const handleNominated = () => {
-      clearTimeout(timeout)
-      setIsSubmitting(false)
-      onClose()
-    }
-
-    const handleError = ({ message }: { message: string }) => {
-      clearTimeout(timeout)
-      setError(message)
-      setIsSubmitting(false)
-    }
-
-    socket.once('election:nominated', handleNominated)
-    socket.once('election:error', handleError)
+    setIsSubmitting(false)
+    onClose()
   }
 
   return (
