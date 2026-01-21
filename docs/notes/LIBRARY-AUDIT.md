@@ -1,7 +1,7 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,401
+Current document count: 2,388
 
 ## Category Overview
 
@@ -9,19 +9,19 @@ Current document count: 2,401
 |----------|-------|--------|-------|
 | contemporary-analysis | 696 | **audited** | Removed 204+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help, AI/tech, psychology papers) |
 | labor | 447 | **audited** | Includes syndicalist content from indigenous-solidarity |
-| theory | 246 | **audited** | Includes Cohn-Bendit, Lebowitz review from indigenous-solidarity |
-| environmental-justice | 181 | **audited** | Merged food-justice (7 files) |
+| theory | 250 | **audited** | Includes Cohn-Bendit, Lebowitz review; added Polanyi, Psychopolitics, anarchist pedagogies |
+| environmental-justice | 192 | **audited** | Merged food-justice; added Just Transition articles from feminist-theory |
 | technology-digital-justice | 161 | **audited** | Removed 13 (Wikipedia, screenplays, video game wiki, writing advice) |
 | abolition | 111 | **audited** | Added prison/police items from disability-justice, youth-student-organizing, food-justice |
 | arts-culture-music | 110 | **audited** | Removed 11 (writing advice, video game, computer graphics, Wikipedia, lectures) |
-| housing | 103 | pending | Core content for tenant organizing |
-| feminist-theory | 99 | pending | |
-| international-solidarity | 97 | **audited** | Merged anti-war-peace (51) + indigenous-solidarity (4) |
-| organizing | 68 | **audited** | Added civil resistance guide from disability-justice |
+| housing | 94 | **audited** | Removed astronomy, psychology, AI papers; moved anarchist pedagogies to theory |
+| feminist-theory | 78 | **audited** | Removed WALL-E screenplay, Quran, architecture; moved Just Transition articles to env-justice |
+| international-solidarity | 98 | **audited** | Merged anti-war-peace (51) + indigenous-solidarity (4); removed Victorian artist, medieval history |
+| organizing | 69 | **audited** | Added civil resistance guide, RSTU bylaws from misc |
 | economic-alternatives | 36 | **audited** | Good Graeber content |
 | youth-student-organizing | 27 | **audited** | Moved 3 items to abolition (police/death penalty cases) |
 | legislation | 15 | **audited** | Nevada state legislation |
-| misc | 1 | **internal** | RSTU bylaws only |
+| misc | 0 | **eliminated** | Bylaws moved to organizing |
 | data-requests | 2 | **internal** | FOIA request templates - repo only |
 | governance | 1 | **internal** | App governance docs - repo only |
 
@@ -324,4 +324,27 @@ Documents that may be stubs or need expansion.
 - **Current category count: 17** (down from 21)
 - **Current document count: 2,401**
 - Next: housing (103), feminist-theory (99) to audit
+
+### 2026-01-20 (Session 8)
+- **Audited housing category (103 files)**
+  - Removed: astronomy content (bsolar/sublunar points), psychology papers (2), AI research, engineering paper, anger management article
+  - Moved to theory: Anarchist Pedagogies
+  - Moved to environmental-justice: renewable energy article
+  - Moved to international-solidarity: Ukraine war content
+  - **Housing: 103 → 94 files**
+- **Audited feminist-theory category (99 files)**
+  - Removed: WALL-E screenplay, Quran translation, architecture article (Paradox of Sustainable Architecture)
+  - Moved to environmental-justice: 11 "Just Transition" IWW articles, coal transport article
+  - Moved to international-solidarity: 1907 Iranian General Strike, NV resistance article, Spanish anarchist press article
+  - Moved to theory: Polanyi's Great Transformation, Spanish anarchist factionalism, Psychopolitics (Byung-Chul Han)
+  - **Feminist-theory: 99 → 78 files**
+- **Spot checked other categories:**
+  - Environmental-justice: removed journal index, personal blog about rice farming
+  - International-solidarity: removed Victorian artist Wikipedia, Muslim conquests military history, French Americans demographics
+  - Misc: moved RSTU bylaws to organizing
+- **Session 8 removed: 13 documents**
+- **Session 8 moved: 18 documents**
+- **Total removed (all sessions): 284 documents**
+- **Current document count: 2,388**
+- **All categories audited** - library audit complete
 
