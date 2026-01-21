@@ -126,58 +126,75 @@ ALTER TABLE public.campaign_demands ENABLE ROW LEVEL SECURITY;
 ALTER TABLE public.campaign_notes ENABLE ROW LEVEL SECURITY;
 
 -- Campaigns: organizers+ can view and modify
+DROP POLICY IF EXISTS campaigns_select_organizer ON public.campaigns;
 CREATE POLICY campaigns_select_organizer ON public.campaigns
   FOR SELECT USING (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaigns_insert_organizer ON public.campaigns;
 CREATE POLICY campaigns_insert_organizer ON public.campaigns
   FOR INSERT WITH CHECK (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaigns_update_organizer ON public.campaigns;
 CREATE POLICY campaigns_update_organizer ON public.campaigns
   FOR UPDATE USING (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaigns_delete_admin ON public.campaigns;
 CREATE POLICY campaigns_delete_admin ON public.campaigns
   FOR DELETE USING (is_current_user_admin());
 
 -- Campaign buildings: follow campaign permissions
+DROP POLICY IF EXISTS campaign_buildings_select ON public.campaign_buildings;
 CREATE POLICY campaign_buildings_select ON public.campaign_buildings
   FOR SELECT USING (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_buildings_insert ON public.campaign_buildings;
 CREATE POLICY campaign_buildings_insert ON public.campaign_buildings
   FOR INSERT WITH CHECK (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_buildings_update ON public.campaign_buildings;
 CREATE POLICY campaign_buildings_update ON public.campaign_buildings
   FOR UPDATE USING (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_buildings_delete ON public.campaign_buildings;
 CREATE POLICY campaign_buildings_delete ON public.campaign_buildings
   FOR DELETE USING (is_current_user_organizer_or_higher());
 
 -- Stage changes: follow campaign permissions
+DROP POLICY IF EXISTS campaign_stage_changes_select ON public.campaign_stage_changes;
 CREATE POLICY campaign_stage_changes_select ON public.campaign_stage_changes
   FOR SELECT USING (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_stage_changes_insert ON public.campaign_stage_changes;
 CREATE POLICY campaign_stage_changes_insert ON public.campaign_stage_changes
   FOR INSERT WITH CHECK (is_current_user_organizer_or_higher());
 
 -- Demands: follow campaign permissions
+DROP POLICY IF EXISTS campaign_demands_select ON public.campaign_demands;
 CREATE POLICY campaign_demands_select ON public.campaign_demands
   FOR SELECT USING (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_demands_insert ON public.campaign_demands;
 CREATE POLICY campaign_demands_insert ON public.campaign_demands
   FOR INSERT WITH CHECK (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_demands_update ON public.campaign_demands;
 CREATE POLICY campaign_demands_update ON public.campaign_demands
   FOR UPDATE USING (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_demands_delete ON public.campaign_demands;
 CREATE POLICY campaign_demands_delete ON public.campaign_demands
   FOR DELETE USING (is_current_user_organizer_or_higher());
 
 -- Notes: follow campaign permissions
+DROP POLICY IF EXISTS campaign_notes_select ON public.campaign_notes;
 CREATE POLICY campaign_notes_select ON public.campaign_notes
   FOR SELECT USING (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_notes_insert ON public.campaign_notes;
 CREATE POLICY campaign_notes_insert ON public.campaign_notes
   FOR INSERT WITH CHECK (is_current_user_organizer_or_higher());
 
+DROP POLICY IF EXISTS campaign_notes_delete ON public.campaign_notes;
 CREATE POLICY campaign_notes_delete ON public.campaign_notes
   FOR DELETE USING (is_current_user_organizer_or_higher());
 
