@@ -132,12 +132,14 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - `rollbackVote()` removes vote from localStorage if server rejects or network fails
 - `removeLocalProposal()` removes proposal from localStorage if server rejects
 
-**Still needs work (no Supabase tables yet):**
-- `src/lib/electionStorage.ts` - elections not migrated to Supabase
-  - `castVote()` - simple voting (legacy)
-  - `castRankedVote()` - ranked choice voting
-  - localStorage keys: `rstu-elections`, `rstu-nominations`, `rstu-ranked-votes`
-  - Need tables: `elections`, `nominations`, `election_votes`, `ranked_votes`
+**Elections migrated to Supabase (2026-01-21):**
+- [x] Created tables: `elections`, `election_positions`, `nominations`, `election_votes`, `ranked_votes`
+- [x] Added RLS policies for vote integrity (can only vote as yourself, votes immutable)
+- [x] Server functions: `cast_ranked_vote()`, `create_nomination()`, `respond_to_nomination()`
+- [x] Updated `electionStorage.ts` with async functions and background server sync
+- Migration file: `infrastructure/supabase/012_elections_tables.sql`
+
+**Still needs work:**
 - `finalizeProposal()` - no server-side finalize RPC
 
 #### RLS Policy Implementation
@@ -221,11 +223,11 @@ Current state: Some features use Supabase, many still localStorage-only.
 - [x] Property data (read-only, for FTS)
 - [x] User profiles (partial - syncs from localStorage)
 - [x] Admin state (document edits)
+- [x] Governance proposals and votes (background sync)
+- [x] Elections, nominations, ranked votes (2026-01-21)
 
 **Need to migrate:**
 - [ ] Chat messages (currently Socket.io server only)
-- [ ] Governance proposals and votes
-- [ ] Elections, nominations, ranked votes
 - [ ] Events and RSVPs
 - [ ] Canvassing records (unit data)
 - [ ] Building organizing status
@@ -288,4 +290,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (Testing infrastructure complete)*
+*Last updated: 2026-01-21 (Elections migrated to Supabase)*
