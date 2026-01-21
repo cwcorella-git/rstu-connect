@@ -3,6 +3,35 @@
 -- Based on Dean Spade's mutual aid principles.
 
 -- ============================================================================
+-- CLEANUP: Drop tables if they exist with wrong schema (from failed runs)
+-- ============================================================================
+
+-- Only drop if columns are missing (check via function)
+DO $$
+BEGIN
+  -- Check if mutual_aid_posts exists but is missing building_apn
+  IF EXISTS (SELECT 1 FROM information_schema.tables WHERE table_name = 'mutual_aid_posts' AND table_schema = 'public')
+     AND NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name = 'mutual_aid_posts' AND column_name = 'building_apn' AND table_schema = 'public')
+  THEN
+    DROP TABLE IF EXISTS public.mutual_aid_posts CASCADE;
+  END IF;
+
+  -- Check if mutual_aid_resources exists but is missing building_apn
+  IF EXISTS (SELECT 1 FROM information_schema.tables WHERE table_name = 'mutual_aid_resources' AND table_schema = 'public')
+     AND NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name = 'mutual_aid_resources' AND column_name = 'building_apn' AND table_schema = 'public')
+  THEN
+    DROP TABLE IF EXISTS public.mutual_aid_resources CASCADE;
+  END IF;
+
+  -- Check if mutual_aid_skill_profiles exists but is missing building_apn
+  IF EXISTS (SELECT 1 FROM information_schema.tables WHERE table_name = 'mutual_aid_skill_profiles' AND table_schema = 'public')
+     AND NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name = 'mutual_aid_skill_profiles' AND column_name = 'building_apn' AND table_schema = 'public')
+  THEN
+    DROP TABLE IF EXISTS public.mutual_aid_skill_profiles CASCADE;
+  END IF;
+END $$;
+
+-- ============================================================================
 -- MUTUAL AID POSTS TABLE (needs/offers)
 -- ============================================================================
 
