@@ -45,7 +45,7 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [x] Create GitHub Actions workflow (`.github/workflows/deploy.yml` runs tests)
 - [x] Run Jest tests on every push to main
 - [x] Block deploy if tests fail
-- [ ] Run linting checks
+- [x] Run linting checks (ESLint with next/core-web-vitals)
 - [ ] Consider adding Playwright for E2E tests
 
 ### 3. LocalStorage Security Issues

@@ -81,6 +81,9 @@ export function RentStrikeToolkit({
     return demands.join('. ')
   }, [strikePrep, habitabilityScore])
 
+  // Get property group for vote - must be before early return
+  const propertyGroup = useMemo(() => getGroupForApn(building.apn) || null, [building.apn])
+
   if (!strikePrep || !readiness || !currentUser) {
     return (
       <div className="flex items-center justify-center p-8 text-gray-500">
@@ -123,9 +126,6 @@ export function RentStrikeToolkit({
         return step
     }
   }
-
-  // Get property group for vote
-  const propertyGroup = useMemo(() => getGroupForApn(building.apn) || null, [building.apn])
 
   // Handle vote submission
   const handleVoteSubmit = (message: string) => {

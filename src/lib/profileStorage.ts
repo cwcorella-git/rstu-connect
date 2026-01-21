@@ -850,7 +850,7 @@ export function createProfile(data: {
 
   // Mark invite code as used
   if (data.inviteCode) {
-    useInviteCode(data.inviteCode, profile.id)
+    redeemInviteCode(data.inviteCode, profile.id)
   }
 
   // Auto-link to canvassing if building and unit are specified
@@ -1162,7 +1162,7 @@ export function validateInviteCode(code: string): {
 }
 
 // Use an invite code (called when profile is created)
-export function useInviteCode(code: string, profileId: string): boolean {
+export function redeemInviteCode(code: string, profileId: string): boolean {
   const state = getProfileState()
   const invite = state.inviteCodes[code.toUpperCase()]
 
@@ -1963,7 +1963,7 @@ export async function createProfileAsync(data: {
 
   // Mark invite as used
   if (data.inviteCode) {
-    await useInviteCodeAsync(data.inviteCode, profile.id)
+    await redeemInviteCodeAsync(data.inviteCode, profile.id)
   }
 
   // Auto-link to canvassing
@@ -2071,7 +2071,7 @@ export async function validateInviteCodeAsync(code: string): Promise<{
 }
 
 // Use invite code with Supabase sync
-export async function useInviteCodeAsync(code: string, profileId: string): Promise<boolean> {
+export async function redeemInviteCodeAsync(code: string, profileId: string): Promise<boolean> {
   // Update Supabase
   if (USE_SUPABASE) {
     const success = await updateInviteUsageInDb(code, profileId)
@@ -2079,7 +2079,7 @@ export async function useInviteCodeAsync(code: string, profileId: string): Promi
   }
 
   // Fallback to localStorage
-  return useInviteCode(code, profileId)
+  return redeemInviteCode(code, profileId)
 }
 
 // Create invite code with Supabase sync

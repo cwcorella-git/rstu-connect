@@ -11,13 +11,11 @@ interface StrikeCoordinationDashboardProps {
 }
 
 export function StrikeCoordinationDashboard({ buildings, onBuildingClick }: StrikeCoordinationDashboardProps) {
-  // Only show to organizers
-  if (!canAccessTools()) {
-    return null
-  }
-
-  // Get all strike preparations
+  // Get all strike preparations - must be before early return
   const strikesByBuilding = useMemo(() => {
+    // Only process if user has access
+    if (!canAccessTools()) return []
+
     const strikes: {
       building: EnhancedBuilding
       strike: StrikePreparation

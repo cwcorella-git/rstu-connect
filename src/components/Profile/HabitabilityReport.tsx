@@ -19,16 +19,15 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
   const isOwnProfile = currentUser?.id === profile.id
   const canView = isOwnProfile || canAccessTools()
 
-  // Privacy check
-  if (!canView || !building) return null
-
-  // Get habitability score
+  // Get habitability score - must be called before any early returns
   const habitabilityScore: HabitabilityScore | null = useMemo(() => {
+    if (!building) return null
     return getHabitabilityScore(building.chatSlug)
-  }, [building.chatSlug])
+  }, [building])
 
   // Calculate building average rent from canvassed units
   const buildingStats = useMemo(() => {
+    if (!building) return null
     const canvass = getBuildingCanvass(building.chatSlug)
     if (!canvass) return null
 
@@ -54,13 +53,13 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
       min: rents[0],
       max: rents[rents.length - 1],
     }
-  }, [building.chatSlug])
+  }, [building])
 
   // Calculate estimated market rent
   const estimatedRentPerUnit = useMemo(() => {
-    if (!building.value || building.units <= 0) return null
+    if (!building?.value || building.units <= 0) return null
     return Math.round((building.value * 0.01) / building.units)
-  }, [building.value, building.units])
+  }, [building])
 
   // Calculate if user is overpaying for poor conditions
   const rentPremiumAnalysis = useMemo(() => {
@@ -105,6 +104,9 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
       shouldAlert: isPoorCondition && (buildingComparison?.percent ?? 0) > 10,
     }
   }, [profile.rentAmount, habitabilityScore, buildingStats, estimatedRentPerUnit])
+
+  // Privacy check - after all hooks
+  if (!canView || !building) return null
 
   if (!habitabilityScore || habitabilityScore.summary.totalUnits === 0) {
     return (
