@@ -71,10 +71,13 @@ CREATE TABLE IF NOT EXISTS public.dm_conversations (
   unread_count_1 INTEGER DEFAULT 0,  -- unread for participant_1
   unread_count_2 INTEGER DEFAULT 0,  -- unread for participant_2
 
-  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
 
-  -- Ensure unique conversation per pair (ordered)
-  UNIQUE(LEAST(participant_1, participant_2), GREATEST(participant_1, participant_2))
+-- Ensure unique conversation per pair (use index since UNIQUE can't use functions)
+CREATE UNIQUE INDEX IF NOT EXISTS idx_dm_conv_unique_pair ON public.dm_conversations (
+  LEAST(participant_1, participant_2),
+  GREATEST(participant_1, participant_2)
 );
 
 CREATE INDEX IF NOT EXISTS idx_dm_conv_participant1 ON public.dm_conversations(participant_1);
@@ -279,30 +282,35 @@ BEGIN
     v_preview := v_preview || '...';
   END IF;
 
-  -- Upsert conversation
-  INSERT INTO public.dm_conversations (
-    participant_1, participant_2, last_message_at, last_message_preview,
-    unread_count_1, unread_count_2
-  ) VALUES (
-    LEAST(v_user_id, p_recipient_id),
-    GREATEST(v_user_id, p_recipient_id),
-    NOW(),
-    v_preview,
-    CASE WHEN v_user_id < p_recipient_id THEN 0 ELSE 1 END,
-    CASE WHEN v_user_id < p_recipient_id THEN 1 ELSE 0 END
-  )
-  ON CONFLICT (LEAST(participant_1, participant_2), GREATEST(participant_1, participant_2))
-  DO UPDATE SET
-    last_message_at = NOW(),
-    last_message_preview = v_preview,
-    unread_count_1 = CASE
-      WHEN EXCLUDED.participant_1 = v_user_id THEN dm_conversations.unread_count_1
-      ELSE dm_conversations.unread_count_1 + 1
-    END,
-    unread_count_2 = CASE
-      WHEN EXCLUDED.participant_2 = v_user_id THEN dm_conversations.unread_count_2
-      ELSE dm_conversations.unread_count_2 + 1
-    END;
+  -- Upsert conversation (manual check since unique index doesn't support ON CONFLICT with expressions)
+  IF EXISTS (
+    SELECT 1 FROM public.dm_conversations
+    WHERE participant_1 = LEAST(v_user_id, p_recipient_id)
+      AND participant_2 = GREATEST(v_user_id, p_recipient_id)
+  ) THEN
+    -- Update existing conversation
+    UPDATE public.dm_conversations
+    SET
+      last_message_at = NOW(),
+      last_message_preview = v_preview,
+      unread_count_1 = CASE WHEN participant_1 = v_user_id THEN unread_count_1 ELSE unread_count_1 + 1 END,
+      unread_count_2 = CASE WHEN participant_2 = v_user_id THEN unread_count_2 ELSE unread_count_2 + 1 END
+    WHERE participant_1 = LEAST(v_user_id, p_recipient_id)
+      AND participant_2 = GREATEST(v_user_id, p_recipient_id);
+  ELSE
+    -- Create new conversation
+    INSERT INTO public.dm_conversations (
+      participant_1, participant_2, last_message_at, last_message_preview,
+      unread_count_1, unread_count_2
+    ) VALUES (
+      LEAST(v_user_id, p_recipient_id),
+      GREATEST(v_user_id, p_recipient_id),
+      NOW(),
+      v_preview,
+      CASE WHEN v_user_id < p_recipient_id THEN 0 ELSE 1 END,
+      CASE WHEN v_user_id < p_recipient_id THEN 1 ELSE 0 END
+    );
+  END IF;
 
   RETURN json_build_object('success', true, 'message_id', v_message_id);
 END;
