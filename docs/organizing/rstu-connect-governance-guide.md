@@ -1,381 +1,321 @@
 ---
 title: "RSTU Connect Governance Guide"
-author: "RSTU Technical Committee"
+author: "Reno-Sparks Tenants Union"
 date: 2025
 ---
 
 # RSTU Connect Governance Guide
 
-A comprehensive guide to the democratic systems powering RSTU Connect, the Reno-Sparks Tenants Union's organizing platform.
+This document explains the democratic systems built into RSTU Connect, Nevada's first tenant organizing platform. These systems ensure that power flows from tenants, not administrators, following the Bookchin principle of participatory democracy.
 
-## 1. Democratic Principles
+---
 
-### Power Flows from Tenants
+## 1. DEMOCRATIC PRINCIPLES
 
-RSTU Connect is built on a fundamental principle: **power flows from tenants, not from administrators**. This is inspired by Murray Bookchin's concept of libertarian municipalism, where legitimate authority comes from those most affected by decisions.
+### Power Flows From Tenants
+
+RSTU Connect is designed around a fundamental principle: **administrators cannot vote on app governance**. This is known as the Bookchin principle, named after social ecologist Murray Bookchin who advocated for direct democracy where power resides with the people, not managers.
 
 In practice, this means:
-
-- **Administrators cannot vote** on app-wide governance decisions (the "Bookchin principle")
-- Voting weight is determined by how many verified tenants you represent
-- The system is designed so tenants can continue operating even without administrator involvement
-- All critical decisions are made through democratic processes, not admin fiat
+- **Admins** maintain the platform but have no voting power on decisions affecting the app
+- **Organizers** who represent verified tenants earn delegate status and voting power
+- **Tenants** participate in building-level and bloc-level decisions directly
 
 ### Role Hierarchy
 
-RSTU Connect has four roles with different capabilities:
+| Role | Capabilities | Voting Rights |
+|------|--------------|---------------|
+| **Tenant** | View buildings, join chats, vote on bloc proposals | Bloc-level proposals (1 person = 1 vote) |
+| **Organizer** | Access tools, canvass, create campaigns, earn delegate status | Bloc + App governance (weighted by representation) |
+| **Admin** | Platform maintenance, election administration, user management | **None** (Bookchin principle) |
 
-| Role | Capabilities |
-|------|-------------|
-| **Guest** | View public content, browse buildings |
-| **Tenant** | Full access to organizing tools, participate in building-level votes |
-| **Organizer** | Create proposals, access advanced tools, promote tenants |
-| **Admin** | Technical administration, **cannot vote** on governance |
+### Why Admins Can't Vote
 
-The key insight: **admins have fewer governance rights than organizers**. This prevents technical control from translating into political power.
-
-### Administrator Limitations
-
-Administrators:
-- Cannot vote on any app-wide proposals
-- Cannot override democratic decisions
-- Can be recalled by 2/3 supermajority of delegates
-- Exist to maintain infrastructure, not make policy
-
-If you see a purple "Admin Account" badge in the governance section, it means you cannot vote because of this principle.
+If administrators could vote, they could potentially influence the direction of the union to serve their own interests. By removing their voting power:
+- Decisions reflect actual tenant needs
+- No single person can dominate the app's direction
+- Power remains distributed among those doing the organizing work
 
 ---
 
-## 2. Voting Systems
+## 2. VOTING SYSTEMS
 
-RSTU Connect uses three distinct voting systems, each designed for different types of decisions.
+RSTU Connect has three distinct voting systems for different purposes.
 
-### 2.1 Officer Elections (Ranked Choice Voting)
+### 2.1 Officer Elections (Ranked Choice)
 
-Officer elections use **Ranked Choice Voting (RCV)**, also known as Instant-Runoff Voting. This ensures winners have broad support, not just plurality support.
+Officer elections choose the union's leadership: President, Vice President, Secretary, and Treasurer.
 
-#### How Ranked Choice Works
+**How Ranked Choice Voting Works:**
 
-1. **Rank candidates** in order of preference (1st, 2nd, 3rd, etc.)
-2. **First choices counted** - if someone has >50%, they win immediately
-3. **No majority?** The candidate with the fewest votes is eliminated
-4. **Votes transfer** - eliminated candidate's votes go to voters' next choices
-5. **Repeat** until someone has a majority
+1. **Rank your candidates** in order of preference (1st choice, 2nd choice, etc.)
+2. **First count:** All first-choice votes are counted
+3. **If someone has >50%:** They win immediately
+4. **If no majority:** The candidate with the fewest votes is eliminated
+5. **Votes transfer:** Voters whose first choice was eliminated have their vote transfer to their next ranked choice
+6. **Repeat:** Steps 3-5 continue until someone has a majority
 
-#### Why Ranked Choice Matters
+**Why Ranked Choice?**
+- Eliminates "spoiler" candidates
+- Ensures the winner has broad support, not just a plurality
+- Encourages candidates to appeal to a wider base
+- Voters can express their true preferences without strategic voting
 
-- **No spoiler effect**: You can vote for your true favorite without worrying about "wasting" your vote
-- **Majority winners**: Winners always have support from over half of voters (after transfers)
-- **Reduces strategic voting**: Vote your conscience, not against someone
-- **Encourages coalition building**: Candidates need to appeal beyond their base
+**Election Timeline:**
+- Nominations open for 2 weeks
+- Any verified tenant can be nominated
+- Nominees must accept their nomination
+- Voting period lasts 1-2 weeks
+- 15% quorum required for valid results
 
-#### Example
+**Officer Positions:**
 
-Imagine an election with Alice, Bob, and Carol:
-
-| Round 1 | Votes |
-|---------|-------|
-| Alice | 40 |
-| Bob | 35 |
-| Carol | 25 |
-
-Carol is eliminated. Her votes transfer:
-- 15 voters ranked Bob 2nd
-- 10 voters ranked Alice 2nd
-
-| Round 2 | Votes |
-|---------|-------|
-| Alice | 50 |
-| Bob | 50 |
-
-Tie in this example - but normally, one would emerge with >50%.
-
-#### Officer Positions
-
-- **President**: Leads general meetings, represents the union publicly
-- **Vice President**: Assists President, leads in their absence
-- **Secretary**: Takes minutes, maintains records
-- **Treasurer**: Manages finances, provides reports
-
-Each position has:
-- 12-month terms
-- 2-term limits
-- 15% quorum requirement
+| Position | Responsibilities | Term |
+|----------|-----------------|------|
+| President | Leads meetings, represents union publicly, coordinates with organizations | 1 year (2-term limit) |
+| Vice President | Assists President, leads in absence, oversees committees | 1 year (2-term limit) |
+| Secretary | Meeting minutes, records maintenance, correspondence | 1 year (2-term limit) |
+| Treasurer | Finances, budget, financial reports | 1 year (2-term limit) |
 
 ### 2.2 Bloc-Level Proposals (Simple Majority)
 
-Blocs are groups of linked properties that organize together. Within a bloc, decisions use simple majority voting with one person, one vote.
+Blocs are groups of tenants organizing together, either within a single building or across multiple properties with the same landlord. Bloc-level voting uses **simple majority**: one person, one vote.
 
-#### Bloc Proposal Types
+**Proposal Types and Thresholds:**
 
 | Type | Description | Threshold |
 |------|-------------|-----------|
-| `rename` | Change bloc name | 3 votes |
-| `merge` | Combine with another bloc | 5 votes |
-| `alliance` | Create formal alliance | 5 votes |
-| `add-property` | Add building to bloc | 3 votes |
-| `form-bloc` | Create new bloc | 5 votes |
-| `rent-strike` | Coordinate rent withholding | 10 votes |
-| `demands` | Approve building demands | 5 votes |
-| `expense` | Approve bloc expense | 5 votes |
+| rename | Change the bloc's name | +3 votes |
+| add-property | Add a building to the bloc | +3 votes |
+| remove-property | Remove a building from the bloc | +5 votes |
+| merge | Merge with another bloc (both must approve) | +3 votes each |
+| alliance | Form an alliance with another bloc | +3 votes each |
+| split | Split bloc into separate groups | +5 votes |
+| mute-tenant | Temporarily mute a disruptive member | +7 votes |
+| escalate | Escalate to higher action level | +5 votes |
 
-#### Rent Strike Threshold
+**Collective Action Thresholds:**
 
-Rent strikes require the highest threshold (10 votes) because:
-- They carry legal and financial risks for participants
-- They require sustained collective action
-- They should reflect genuine consensus, not slim majorities
+| Type | Description | Threshold |
+|------|-------------|-----------|
+| form-bloc | Create new bloc from multiple buildings | +3 from each building |
+| join-bloc | Join an existing bloc | +3 from both sides |
+| rent-strike | Initiate coordinated rent withholding | +10 votes |
+| demand-letter | Send formal demand to landlord | +5 votes |
+| petition | Start a signature collection | +3 votes |
 
-### 2.3 App-Wide Governance (Weighted Delegate Voting)
+**How to Create a Proposal:**
+1. Navigate to your building or bloc chat
+2. Click the governance icon (scales)
+3. Select "Create Proposal"
+4. Choose the proposal type
+5. Provide a reason for the proposal
+6. Submit for voting
 
-Decisions affecting the entire app use **weighted voting** where delegates vote with weight proportional to the tenants they represent.
+Proposals expire after **7 days** if they don't reach their threshold.
 
-#### App-Wide Proposal Types
+### 2.3 App-Wide Governance (Weighted Delegates)
 
-| Type | Description | Weight Threshold | Special Rules |
-|------|-------------|------------------|---------------|
-| `feature-vote` | Add/change app features | 50 | - |
-| `content-vote` | Modify content policies | 30 | - |
-| `direction-vote` | Strategic direction | 50 | - |
-| `tab-visibility` | Show/hide main tabs | 30 | - |
-| `admin-recall` | Remove an administrator | 100 | Requires 2/3 supermajority + 3 delegates |
+App-wide decisions—like which features to enable, content changes, or strategic direction—use **delegate-weighted voting**. This means your voting power is proportional to how many tenants you represent.
 
-#### Admin Recall Process
+**App-Wide Proposal Types:**
 
-Recalling an administrator requires:
-1. **100 weight threshold** (higher than other proposals)
-2. **2/3 supermajority** (not just simple majority)
-3. **Minimum 3 voting delegates** (prevents gaming by few people)
+| Type | Description | Weight Threshold |
+|------|-------------|------------------|
+| feature-vote | Enable/disable app features | 15 points |
+| content-vote | Vote on text or content blocks | 10 points |
+| direction-vote | Strategic direction decisions | 20 points |
+| tab-visibility | Which tabs are visible to users | 15 points |
+| admin-recall | Remove an admin (requires 2/3 supermajority) | 50 points |
 
-This high bar prevents frivolous recalls while keeping administrators accountable.
+**Admin Recall:**
+Removing an admin requires:
+- At least 50 weight points of "yes" votes
+- 2/3 (66.67%) supermajority
+- At least 3 voting delegates participating
+
+This high bar ensures admin removal is deliberate and widely supported.
 
 ---
 
-## 3. Becoming a Delegate
+## 3. BECOMING A DELEGATE
 
-Delegates are verified organizers who can vote on app-wide decisions. Their voting weight reflects the tenant power they've built.
+Delegates are organizers who have earned voting power through their organizing work. Only qualified delegates can vote on app-wide governance.
 
 ### Qualification Requirements
 
-To become a delegate, you must meet **all three** thresholds:
+To become a delegate, you must:
 
-| Requirement | Threshold | How to Earn |
-|-------------|-----------|-------------|
-| Verified Tenants | 10+ | Have tenants you've organized verify their addresses |
-| Blocs Organized | 1+ | Form or join a property bloc |
-| Activity Score | 50+ | Participate in platform activities |
+| Requirement | Default Threshold | Why It Matters |
+|-------------|-------------------|----------------|
+| **Verified Tenants** | 10+ tenants | You represent real people |
+| **Blocs Organized** | 1+ bloc | You've built collective power |
+| **Activity Score** | 50+ points | You're actively engaged |
 
-### Activity Scoring
+### How Voting Weight Is Calculated
 
-Activities that contribute to your score:
+Your voting weight uses a square root formula to prevent mega-blocs from dominating:
+
+**Base Weight** = square root of verified tenants multiplied by 5
+
+**Activity Bonus** = your activity score divided by 100, capped at 50%
+
+**Final Weight** = base weight times (1 + activity bonus), capped at 100
+
+**The square root formula** prevents mega-blocs from completely dominating:
+- 10 tenants = approximately 15.8 base weight
+- 100 tenants = approximately 50 base weight
+- 400 tenants = approximately 100 base weight (hits cap)
+
+**Why cap at 100?** No single delegate should have more than 100 weight, ensuring no organizer can dominate decisions alone.
+
+### Activity Score Breakdown
+
+Your activity score is calculated from your organizing work:
 
 | Activity | Points |
 |----------|--------|
 | Create a proposal | +10 |
 | Vote on a proposal | +2 |
-| Represent a building | +5 |
-| Complete canvassing | +3 |
-| Add unit data | +1 |
+| Organize a building | +5 |
 
-### How Voting Weight Works
+### Checking Your Status
 
-Once qualified, your voting weight is calculated as:
-
-```
-Base Weight = sqrt(verified tenants) × 5
-Activity Bonus = up to +50% based on activity score
-Final Weight = min(Base Weight × (1 + Activity Bonus), 100)
-```
-
-#### Why Square Root?
-
-Using square root (√) prevents large blocs from dominating:
-
-| Tenants | Linear Weight | Square Root Weight |
-|---------|---------------|-------------------|
-| 10 | 50 | 15.8 |
-| 100 | 500 | 50 |
-| 400 | 2000 | 100 (max) |
-
-This ensures:
-- Small organizers have meaningful voice
-- Large organizers are rewarded but not dominant
-- Maximum weight of 100 ensures no single person controls outcomes
-
-### Building Your Representation
-
-To increase your delegate weight:
-
-1. **Verify more tenants**: Have tenants in your buildings confirm their addresses
-2. **Organize more blocs**: Link properties together under common cause
-3. **Stay active**: Participate in votes, create proposals, use organizing tools
+View your delegate status in **Profile > Voting & Governance > Delegate Status**. You'll see:
+- Your current qualification progress
+- Activity breakdown
+- Voting weight (if qualified)
+- Overall delegate network stats
 
 ---
 
-## 4. Tenant Self-Governance
+## 4. TENANT SELF-GOVERNANCE
 
-RSTU Connect is designed to function even without administrator involvement. Here's how tenants can take control if needed.
+RSTU Connect is designed to function even if administrators become inactive. Here's how.
 
-### What Happens If Admins Leave
+### If Admins Are Inactive
 
-If administrators become inactive or unavailable:
+The app uses **local-first architecture**, meaning:
+- Profile data is stored on your device
+- Building data works without a server
+- Chat requires a connection, but organizing tools don't
 
-1. **Platform continues working**: All local data persists, organizing tools function
-2. **Proposals continue**: Voting and bloc decisions don't require admin
-3. **Elections proceed**: Scheduled election cycles run automatically
-4. **New admins can be elected**: Delegates can nominate and elect new technical administrators
+### Emergency Succession Protocol
 
-### Emergency Succession
+If the admin team becomes unresponsive:
 
-If administrative access is needed:
+1. **Most active delegate becomes interim admin**
+   - Based on activity score and delegate weight
+   - Requires 2/3 supermajority of delegates to confirm
 
-1. **Most active delegate** becomes interim administrator
-2. **Emergency election** called within 30 days
-3. **All existing votes and blocs preserved**
-4. **Technical access transferred** through documented process
+2. **Emergency election called within 30 days**
+   - All existing officer positions become vacant
+   - Nominations and voting follow normal procedures
+
+3. **All existing data preserved**
+   - Blocs, proposals, and votes remain intact
+   - No organizing work is lost
+
+### How Tenants Can Continue Organizing
+
+Even without admin involvement:
+- **Canvassing continues:** Unit data is stored locally
+- **Blocs function:** Proposals and voting work peer-to-peer
+- **Elections are scheduled:** Automated cycles continue
+- **Organizers promote tenants:** Role changes don't require admin
 
 ### Constitutional Protections
 
-The following cannot be changed by any single person or small group:
-
-- Bookchin principle (admins can't vote)
-- Minimum delegate requirements
-- Admin recall requiring 2/3 supermajority
-- Rent strike threshold of 10 votes
-
-These are "constitutional" rules that require system-wide consensus to modify.
+The system enforces several protections:
+- **Admin recall exists:** Delegates can remove problematic admins
+- **No single point of failure:** Multiple admins recommended
+- **Transparent processes:** All votes and proposals are visible
+- **Term limits:** Officers limited to 2 terms per position
 
 ---
 
-## 5. Proposal Reference
+## 5. PROPOSAL TYPE REFERENCE
 
 ### Bloc-Level Proposals
 
-| Type | Purpose | Threshold | Duration |
-|------|---------|-----------|----------|
-| `rename` | Change bloc name | 3 votes | 7 days |
-| `merge` | Merge two blocs | 5 votes | 14 days |
-| `split` | Split bloc apart | 5 votes | 14 days |
-| `alliance` | Form alliance | 5 votes | 14 days |
-| `dissolve-alliance` | End alliance | 5 votes | 14 days |
-| `add-property` | Add building | 3 votes | 7 days |
-| `remove-property` | Remove building | 3 votes | 7 days |
-| `form-bloc` | Create new bloc | 5 votes | 14 days |
-| `rent-strike` | Coordinate strike | 10 votes | 21 days |
-| `end-strike` | End strike | 5 votes | 7 days |
-| `demands` | Approve demands | 5 votes | 14 days |
-| `expense` | Approve expense | 5 votes | 7 days |
-| `officer-elect` | Elect bloc officer | 5 votes | 14 days |
-| `officer-recall` | Remove bloc officer | 7 votes | 14 days |
-| `bylaws` | Change bloc bylaws | 7 votes | 21 days |
-| `membership` | Membership decisions | 5 votes | 7 days |
+| Type | When to Use | Threshold | Execution |
+|------|-------------|-----------|-----------|
+| **rename** | Bloc needs a better name | +3 | Auto-executes |
+| **add-property** | Include another building | +3 | Auto-executes |
+| **remove-property** | Building wants to leave | +5 | Auto-executes |
+| **merge** | Combine two blocs | +3 (both) | Requires partner approval |
+| **alliance** | Coordinate without merging | +3 (both) | Requires partner approval |
+| **split** | Divide bloc into groups | +5 | Auto-executes |
+| **mute-tenant** | Silence disruptive member | +7 | Requires organizer finalization |
+| **escalate** | Increase action level | +5 | Auto-executes |
+
+### Collective Action Proposals
+
+| Type | When to Use | Threshold | Notes |
+|------|-------------|-----------|-------|
+| **form-bloc** | Create multi-building organization | +3 per building | All must approve |
+| **join-bloc** | Add your building to existing bloc | +3 (both) | Both sides approve |
+| **rent-strike** | Coordinated rent withholding | +10 | High bar for serious action |
+| **demand-letter** | Formal landlord communication | +5 | Can track delivery status |
+| **petition** | Gather signatures | +3 | Creates signature collection |
+
+### Internal Collective Proposals
+
+| Type | When to Use | Threshold | Notes |
+|------|-------------|-----------|-------|
+| **form-collective** | Create non-property organization | +3 co-founders | For tenant unions, working groups |
+| **join-collective** | Request to join collective | +1 Point Person | Fast approval |
+| **collective-alliance** | Ally with another collective | +3 (both) | Mutual agreement |
+| **collective-rename** | Change collective name | +3 | Members vote |
+| **add-point-person** | Promote member to leader | +3 | Expands leadership |
+| **remove-point-person** | Demote Point Person | +3 | Requires majority |
 
 ### App-Wide Proposals
 
-| Type | Purpose | Weight | Special Rules |
-|------|---------|--------|---------------|
-| `feature-vote` | Request new features | 50 | None |
-| `content-vote` | Content policy changes | 30 | None |
-| `direction-vote` | Strategic direction | 50 | None |
-| `tab-visibility` | Hide/show app tabs | 30 | None |
-| `admin-recall` | Remove administrator | 100 | 2/3 supermajority, 3+ delegates |
+| Type | When to Use | Threshold | Who Votes |
+|------|-------------|-----------|-----------|
+| **feature-vote** | Enable/disable features | 15 weight | Delegates only |
+| **content-vote** | Change app text/content | 10 weight | Delegates only |
+| **direction-vote** | Strategic decisions | 20 weight | Delegates only |
+| **tab-visibility** | Show/hide navigation tabs | 15 weight | Delegates only |
+| **admin-recall** | Remove an administrator | 50 weight + 2/3 majority | Delegates only |
 
 ---
 
-## 6. Ranked Choice Voting Deep Dive
+## 6. GLOSSARY
 
-### Teaching RCV to Your Community
+**Bloc:** A group of tenants organizing together, either from a single building or multiple properties with the same landlord.
 
-When explaining ranked choice voting to fellow tenants:
+**Bookchin Principle:** The design philosophy that administrators should not have voting power, ensuring decisions reflect tenant needs.
 
-**The Restaurant Analogy**
+**Delegate:** An organizer who has earned voting power by representing verified tenants.
 
-Imagine your bloc is choosing where to get dinner. Everyone ranks their choices:
-- If pizza gets over half the votes, you get pizza
-- If not, the least popular option is eliminated
-- Anyone who voted for the eliminated option has their vote go to their second choice
-- Repeat until one option has majority support
+**Delegate Weight:** The voting power of a delegate, calculated from tenants represented and activity.
 
-**Key Points to Emphasize**
+**Quorum:** The minimum participation required for a valid vote (typically 15% for elections).
 
-1. **You can't waste your vote**: Voting for a less popular candidate doesn't hurt your influence
-2. **Your backup choices matter**: If your first choice loses, your vote transfers
-3. **It finds consensus**: Winners need broad support to prevail
-4. **Less negative campaigning**: Candidates need to appeal to opponents' supporters as second choices
+**Ranked Choice Voting (RCV):** A voting method where voters rank candidates by preference, with votes transferring if no one gets a majority.
 
-### RCV vs. Simple Majority
+**Supermajority:** A threshold higher than simple majority, typically 2/3 (66.67%).
 
-| Aspect | Simple Majority | Ranked Choice |
-|--------|-----------------|---------------|
-| Ballot | Choose one | Rank all |
-| Winner threshold | Most votes | >50% after transfers |
-| Spoiler effect | Yes | No |
-| Strategic voting | Common | Minimal |
-| Represents consensus | Weak | Strong |
+**Threshold:** The number of votes (or weight points) required for a proposal to pass.
 
-### When RCV is Used
-
-- **Officer elections**: President, VP, Secretary, Treasurer
-- **Multi-candidate races**: Any vote with 3+ candidates
-
-### When Simple Voting is Used
-
-- **Bloc proposals**: One person, one vote, yes/no
-- **App-wide proposals**: Weighted delegate voting, up/down
+**Verified Tenant:** A tenant whose identity and residence have been confirmed by an organizer.
 
 ---
 
-## 7. FAQ
+## 7. CONTACT & SUPPORT
 
-### Can I vote if I'm an admin?
+For questions about governance:
+- Visit the RSTU Connect chat
+- Reach out to your bloc organizer
+- Email the union leadership
 
-No. The Bookchin principle prevents administrators from voting on governance to ensure power flows from tenants.
-
-### How do I become a delegate?
-
-Represent 10+ verified tenants, organize 1+ bloc, and earn 50+ activity points. Check your progress in Profile > App Governance.
-
-### What if I disagree with a proposal outcome?
-
-You can create a new proposal to reverse or modify the decision. Democratic decisions can be democratically changed.
-
-### Can admins override votes?
-
-No. Administrators cannot override democratic decisions. They can be recalled by 2/3 supermajority if they violate this trust.
-
-### How are votes counted?
-
-- **Bloc votes**: Simple majority (one person = one vote)
-- **App-wide votes**: Weighted by delegate representation
-- **Elections**: Ranked choice with instant runoff
-
-### What's the difference between an organizer and a delegate?
-
-- **Organizer**: A role with access to advanced tools
-- **Delegate**: Someone who has met thresholds to vote on app-wide governance
-
-You can be both - they're not mutually exclusive.
-
-### How long do proposals last?
-
-Most proposals expire after 14 days if they don't reach their threshold. Critical decisions like rent strikes have longer windows (21 days).
+For technical issues:
+- Report bugs at https://github.com/cwcorella-git/rstu-connect/issues
 
 ---
 
-## 8. Summary
+*This document reflects the governance systems as implemented in RSTU Connect. The systems themselves are subject to change through the democratic processes described above.*
 
-RSTU Connect's governance is designed around one core principle: **tenant power**. Every system - from weighted voting to admin restrictions to ranked choice elections - exists to ensure that the people most affected by decisions are the ones making them.
-
-Key takeaways:
-
-1. **Administrators serve, they don't rule**: The Bookchin principle ensures technical control doesn't become political control
-2. **Three voting systems for three contexts**: Elections (RCV), blocs (simple majority), app-wide (weighted delegates)
-3. **Delegate weight reflects tenant power**: The more tenants you organize, the more voice you have
-4. **The system is resilient**: Tenants can continue governing even without administrator involvement
-5. **Democratic decisions can be democratically changed**: Nothing is permanent except the constitutional protections
-
-This is tenant democracy in action. Use it well.
-
----
-
-*This document is part of the RSTU Connect organizing library. For questions, contact the Technical Committee or file an issue at the project repository.*
+*Last updated: January 2025*
