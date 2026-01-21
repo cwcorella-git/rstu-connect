@@ -1136,3 +1136,72 @@ export async function deleteDocumentEdit(docId: string): Promise<boolean> {
 
   return true
 }
+
+// ============================================
+// User Context for RLS Policies
+// ============================================
+
+/**
+ * Set the current user ID in Supabase session context.
+ * This is required for RLS policies to know who the current user is.
+ *
+ * Call this before any Supabase operation that requires user context.
+ * The context persists for the database session (typically one request).
+ */
+export async function setUserContext(userId: string): Promise<boolean> {
+  if (!supabase) return false
+
+  try {
+    const { error } = await supabase.rpc('set_user_context', {
+      user_id: userId
+    })
+
+    if (error) {
+      log.error('Failed to set user context:', error)
+      return false
+    }
+
+    return true
+  } catch (err) {
+    log.error('Exception setting user context:', err)
+    return false
+  }
+}
+
+/**
+ * Clear the current user context.
+ * Call this on logout or when switching users.
+ */
+export async function clearUserContext(): Promise<boolean> {
+  if (!supabase) return false
+
+  try {
+    const { error } = await supabase.rpc('clear_user_context')
+
+    if (error) {
+      log.error('Failed to clear user context:', error)
+      return false
+    }
+
+    return true
+  } catch (err) {
+    log.error('Exception clearing user context:', err)
+    return false
+  }
+}
+
+/**
+ * Execute a Supabase operation with user context.
+ * This is a convenience wrapper that sets context before the operation.
+ *
+ * @param userId - The current user's profile ID
+ * @param operation - Async function containing Supabase operations
+ * @returns The result of the operation
+ */
+export async function withUserContext<T>(
+  userId: string,
+  operation: () => Promise<T>
+): Promise<T> {
+  await setUserContext(userId)
+  return operation()
+}

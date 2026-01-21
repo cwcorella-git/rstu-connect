@@ -104,15 +104,36 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [ ] **Sync functions bypass server** - `voteOnProposal()` uses localStorage directly
 - [ ] **UI uses sync functions** - Components call sync versions for responsiveness
 - [ ] **Network error fallback** - Catch blocks trust localStorage data
-- [ ] **No RLS policies** - Supabase tables lack row-level security
-- [ ] Implement server-side role verification in Supabase
-- [ ] Add Row Level Security (RLS) policies
+- [x] ~~**No RLS policies**~~ - Fixed in `011_identity_based_rls.sql`
+- [x] Implement server-side role verification in Supabase
+- [x] Add Row Level Security (RLS) policies
 - [ ] Keep localStorage only as read-only cache
 - [ ] Migrate all voting to async (server-verified) functions
 
-#### RLS Policy Recommendations
+#### RLS Policy Implementation
 
-Current policies in `008_security_rls_policies.sql` use `'true'` for all conditions, making them ineffective. Need identity-based policies:
+**Implemented in `011_identity_based_rls.sql`:**
+
+- User context functions (`set_user_context`, `clear_user_context`)
+- Helper functions (`get_current_user_id`, `is_current_user_admin`, `is_current_user_organizer_or_higher`)
+- Profile update trigger (prevents non-admin role/trust_level changes)
+- Identity-based policies for all 18+ tables
+
+**Usage from application:**
+```typescript
+import { setUserContext, withUserContext } from '@/lib/supabase'
+
+// Option 1: Set context before operations
+await setUserContext(profile.id)
+await supabase.from('events').insert(...)
+
+// Option 2: Use wrapper
+await withUserContext(profile.id, async () => {
+  await supabase.from('events').insert(...)
+})
+```
+
+**Original recommendations (now implemented):**
 
 **profiles table:**
 ```sql
