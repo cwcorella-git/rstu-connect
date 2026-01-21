@@ -1,33 +1,37 @@
 # Library Audit Tracking
 
 Started: 2026-01-17
-Current document count: 2,402
+Current document count: 2,401
 
 ## Category Overview
 
 | Category | Count | Status | Notes |
 |----------|-------|--------|-------|
-| contemporary-analysis | ~696 | **audited** | Removed 204+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help, AI/tech, psychology papers) |
-| labor | 446 | **audited** | Removed 4 (bell hooks love book, UK riots, generic college article) |
-| theory | 244 | **audited** | Removed 8 (psychology paper, Wikipedia, architecture/film school books, Lincoln) |
-| environmental-justice | 174 | **audited** | Removed 5 (Unity tutorial, healthcare, neuroscience, duplicate, journal index) |
+| contemporary-analysis | 696 | **audited** | Removed 204+ docs (lectures, video game wikis, general Wikipedia, screenplays, self-help, AI/tech, psychology papers) |
+| labor | 447 | **audited** | Includes syndicalist content from indigenous-solidarity |
+| theory | 246 | **audited** | Includes Cohn-Bendit, Lebowitz review from indigenous-solidarity |
+| environmental-justice | 181 | **audited** | Merged food-justice (7 files) |
 | technology-digital-justice | 161 | **audited** | Removed 13 (Wikipedia, screenplays, video game wiki, writing advice) |
+| abolition | 111 | **audited** | Added prison/police items from disability-justice, youth-student-organizing, food-justice |
 | arts-culture-music | 110 | **audited** | Removed 11 (writing advice, video game, computer graphics, Wikipedia, lectures) |
-| abolition | 106 | **audited** | No changes - well-focused prison/police abolition content |
 | housing | 103 | pending | Core content for tenant organizing |
 | feminist-theory | 99 | pending | |
-| organizing | 67 | pending | Core content for tenant organizing |
-| anti-war-peace | 51 | pending | |
-| international-solidarity | 41 | pending | |
+| international-solidarity | 97 | **audited** | Merged anti-war-peace (51) + indigenous-solidarity (4) |
+| organizing | 68 | **audited** | Added civil resistance guide from disability-justice |
 | economic-alternatives | 36 | **audited** | Good Graeber content |
-| youth-student-organizing | 30 | **audited** | Removed 3 irrelevant |
-| legislation | 15 | **audited** | Removed 1 irrelevant (Minnesota budget) |
-| food-justice | 9 | **audited** | Removed 3 irrelevant architecture articles |
-| indigenous-solidarity | 7 | **audited** | Some miscategorized - needs recategorization |
-| misc | 2 | **audited** | Removed 2 irrelevant federal land docs |
-| disability-justice | 2 | **audited** | 1 prison brutality report, 1 civil resistance guide |
+| youth-student-organizing | 27 | **audited** | Moved 3 items to abolition (police/death penalty cases) |
+| legislation | 15 | **audited** | Nevada state legislation |
+| misc | 1 | **internal** | RSTU bylaws only |
 | data-requests | 2 | **internal** | FOIA request templates - repo only |
 | governance | 1 | **internal** | App governance docs - repo only |
+
+### Categories Eliminated (Merged)
+| Category | Merged Into | Files |
+|----------|-------------|-------|
+| anti-war-peace | international-solidarity | 51 |
+| indigenous-solidarity | international-solidarity + theory + labor | 7 |
+| food-justice | environmental-justice + abolition + international-solidarity | 9 |
+| disability-justice | abolition + organizing | 2 |
 
 ---
 
@@ -295,5 +299,29 @@ Documents that may be stubs or need expansion.
 - **Session 7 total removed: 41 documents**
 - **Total removed: 271 documents**
 - **Current count: 2,402**
-- Next: housing (103 files), feminist-theory (99 files), organizing (67 files), smaller categories
+
+### 2026-01-20 (Session 7 - consolidation)
+- **Consolidated small categories:**
+  - Merged anti-war-peace (51) into international-solidarity
+  - Merged indigenous-solidarity (7) into international-solidarity + theory + labor
+  - Merged food-justice (9) into environmental-justice + abolition + international-solidarity
+  - Redistributed disability-justice (2) to abolition + organizing
+- **Fixed miscategorizations:**
+  - Cohn-Bendit "Obsolete Communism" → theory (May 1968 France)
+  - Lebowitz review → theory (socialist theory critique)
+  - Swedish syndicalist article → labor
+  - Bomani Shakur hunger strike → abolition (prison)
+  - Pakistan teachers/farmers → international-solidarity
+  - Castle Rock v. Gonzales → abolition (police case)
+  - Gruesome Spectacles → abolition (death penalty)
+  - Dread Scott art piece → abolition
+  - Alabama prison brutality → abolition
+  - Civil resistance guide → organizing
+- **Cleanup:**
+  - Removed DNC political news from misc
+  - Updated frontmatter categories in all moved files
+- **Categories eliminated: 4** (anti-war-peace, indigenous-solidarity, food-justice, disability-justice)
+- **Current category count: 17** (down from 21)
+- **Current document count: 2,401**
+- Next: housing (103), feminist-theory (99) to audit
 
