@@ -28,7 +28,7 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [x] Set up Jest for unit/integration tests
 - [x] Set up React Testing Library for component tests
 - [x] Write tests for critical lib functions:
-  - [ ] `profileStorage.ts` - auth, roles, permissions
+  - [x] `profileStorage.ts` - auth, roles, permissions, invites (53 tests)
   - [ ] `governanceStorage.ts` - voting logic, thresholds
   - [x] `electionStorage.ts` - ranked choice calculation (22 tests)
   - [x] `delegateStorage.ts` - weight calculation (15 tests)
@@ -39,7 +39,7 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
   - [ ] `BuildingList.tsx` - search, filtering
 - [ ] Document TDD workflow for Claude Code
 
-**Test Summary:** 71 tests across 4 suites (authService, smoke, delegateStorage, electionStorage)
+**Test Summary:** 124 tests across 5 suites (authService, smoke, delegateStorage, electionStorage, profileStorage)
 
 ### 2. CI/CD Pipeline
 - [x] Create GitHub Actions workflow (`.github/workflows/deploy.yml` runs tests)
