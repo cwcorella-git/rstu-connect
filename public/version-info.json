@@ -1,8 +1,8 @@
 {
-  "commit": "52fa3596",
-  "message": "Add Delegate Status tab to Profile voting section",
+  "commit": "46283e07",
+  "message": "Implement identity-based RLS policies for Supabase",
   "author": "cwcorella-git",
-  "date": "2026-01-20 18:00:44 -0800",
+  "date": "2026-01-20 21:03:45 -0800",
   "branch": "main",
-  "buildTime": "2026-01-21T02:04:42.209Z"
+  "buildTime": "2026-01-21T05:17:21.148Z"
 }

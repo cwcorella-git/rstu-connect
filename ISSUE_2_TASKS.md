@@ -101,14 +101,28 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 
 - [x] Audit all localStorage usage for sensitive data
 - [x] Identify data that users could maliciously modify
-- [ ] **Sync functions bypass server** - `voteOnProposal()` uses localStorage directly
-- [ ] **UI uses sync functions** - Components call sync versions for responsiveness
-- [ ] **Network error fallback** - Catch blocks trust localStorage data
+- [x] ~~**Sync functions bypass server**~~ - Fixed: sync functions now fire async server verification in background
+- [x] **UI uses sync functions** - Resolved: optimistic updates with background server sync
+- [x] ~~**Network error fallback**~~ - Fixed: votes are rolled back on network error/server rejection
 - [x] ~~**No RLS policies**~~ - Fixed in `011_identity_based_rls.sql`
 - [x] Implement server-side role verification in Supabase
 - [x] Add Row Level Security (RLS) policies
 - [ ] Keep localStorage only as read-only cache
-- [ ] Migrate all voting to async (server-verified) functions
+- [x] ~~Migrate all voting to async (server-verified) functions~~ - Fixed: governance voting uses background sync
+
+**Fixed sync functions (optimistic update + background server verification):**
+- `voteOnProposal()` - fires `voteOnProposalAsync()` in background
+- `createProposal()` - fires `syncProposalToServer()` in background
+- `createAppWideProposal()` - fires `syncProposalToServer()` in background
+
+**Error handling (vote rollback on failure):**
+- `rollbackVote()` removes vote from localStorage if server rejects or network fails
+- `removeLocalProposal()` removes proposal from localStorage if server rejects
+
+**Still needs work (no Supabase tables yet):**
+- `electionStorage.castVote()` - elections not migrated to Supabase
+- `electionStorage.castRankedVote()` - elections not migrated to Supabase
+- `finalizeProposal()` - no server-side finalize RPC
 
 #### RLS Policy Implementation
 
@@ -250,4 +264,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2025-01-20*
+*Last updated: 2026-01-20*

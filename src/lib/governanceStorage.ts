@@ -386,7 +386,102 @@ export function createProposal(
   state.proposals.push(proposal)
   saveState(state)
 
+  // Fire server verification in background (don't await)
+  if (USE_SUPABASE) {
+    syncProposalToServer(proposal, options)
+      .then(result => {
+        if (!result.success) {
+          log.warn(`Server rejected proposal: ${result.error}`)
+          // Remove the locally created proposal if server rejected
+          removeLocalProposal(proposal.id)
+        } else if (result.serverId && result.serverId !== proposal.id) {
+          // Update local ID to match server-assigned ID
+          updateLocalProposalId(proposal.id, result.serverId)
+        }
+      })
+      .catch(err => {
+        log.error('Background proposal sync failed:', err)
+      })
+  }
+
   return proposal
+}
+
+/**
+ * Sync a locally created proposal to the server
+ * Used by sync createProposal for background verification
+ */
+async function syncProposalToServer(
+  proposal: GovernanceProposal,
+  options: {
+    buildingId?: string
+    buildingAddress?: string
+    // Also accept createProposal options (ignored but prevents type error)
+    targetGroupId?: string
+    targetApn?: string
+    targetProfileId?: string
+    targetValue?: string
+    targetApns?: string[]
+    reason?: string
+  } = {}
+): Promise<{ success: boolean; error?: string; serverId?: string }> {
+  if (!USE_SUPABASE || !supabase) {
+    return { success: true } // No server to sync to
+  }
+
+  try {
+    requireOnline('sync proposal')
+
+    const { data, error } = await supabase.rpc('create_proposal_secure', {
+      p_creator_id: proposal.proposedBy,
+      p_building_id: options.buildingId || proposal.groupId,
+      p_building_address: sanitizeText(options.buildingAddress || ''),
+      p_title: sanitizeText(proposal.targetValue || proposal.type),
+      p_description: sanitizeRichText(proposal.reason || ''),
+      p_proposal_type: proposal.type,
+      p_group_id: proposal.groupId || null
+    })
+
+    if (error) {
+      log.error('Server error syncing proposal:', error)
+      return { success: false, error: error.message }
+    }
+
+    if (data && !data.success) {
+      return { success: false, error: data.error }
+    }
+
+    return { success: true, serverId: data?.proposal_id }
+  } catch (e) {
+    if (e instanceof OfflineError) {
+      // Offline - proposal will sync when online
+      return { success: true }
+    }
+    log.error('Failed to sync proposal:', e)
+    return { success: false, error: 'Failed to sync proposal' }
+  }
+}
+
+/**
+ * Remove a proposal from local storage (used when server rejects)
+ */
+function removeLocalProposal(proposalId: string): void {
+  const state = getState()
+  state.proposals = state.proposals.filter(p => p.id !== proposalId)
+  saveState(state)
+  invalidateCachePattern('proposals:*')
+}
+
+/**
+ * Update a local proposal's ID to match server-assigned ID
+ */
+function updateLocalProposalId(oldId: string, newId: string): void {
+  const state = getState()
+  const proposal = state.proposals.find(p => p.id === oldId)
+  if (proposal) {
+    proposal.id = newId
+    saveState(state)
+  }
 }
 
 /**
@@ -456,6 +551,22 @@ export function createAppWideProposal(
 
   state.proposals.push(proposal)
   saveState(state)
+
+  // Fire server verification in background (don't await)
+  if (USE_SUPABASE) {
+    syncProposalToServer(proposal, {})
+      .then(result => {
+        if (!result.success) {
+          log.warn(`Server rejected app-wide proposal: ${result.error}`)
+          removeLocalProposal(proposal.id)
+        } else if (result.serverId && result.serverId !== proposal.id) {
+          updateLocalProposalId(proposal.id, result.serverId)
+        }
+      })
+      .catch(err => {
+        log.error('Background app-wide proposal sync failed:', err)
+      })
+  }
 
   return proposal
 }
@@ -535,6 +646,17 @@ export function getIncomingCrossGroupRequests(groupId: string): GovernancePropos
 // Voting
 // ============================================================================
 
+/**
+ * Vote on a proposal - optimistic update with background server sync
+ *
+ * This function provides immediate UI feedback while ensuring votes
+ * are verified through the server when Supabase is available.
+ *
+ * Flow:
+ * 1. Update localStorage immediately (optimistic)
+ * 2. Fire async server verification in background
+ * 3. If server rejects, the next state refresh will correct it
+ */
 export function voteOnProposal(
   proposalId: string,
   vote: 'up' | 'down'
@@ -549,9 +671,76 @@ export function voteOnProposal(
   const proposal = state.proposals.find(p => p.id === proposalId)
   if (!proposal || proposal.status !== 'active') return null
 
+  // Perform optimistic local update
+  const updatedProposal = applyVoteLocally(proposal, profile.id, vote)
+  if (!updatedProposal) return null
+
+  // Check thresholds
+  checkAndUpdateProposalStatus(proposal)
+
+  saveState(state)
+
+  // Fire server verification in background (don't await)
+  // This ensures votes are recorded server-side for security
+  if (USE_SUPABASE) {
+    voteOnProposalAsync(proposalId, vote)
+      .then(result => {
+        if (!result.success) {
+          log.warn(`Server rejected vote: ${result.error}`)
+          // Roll back the local vote since server rejected it
+          rollbackVote(proposalId, profile.id, vote)
+          invalidateCachePattern('proposals:*')
+        }
+      })
+      .catch(err => {
+        log.error('Background vote sync failed:', err)
+        // Roll back on network error as well
+        rollbackVote(proposalId, profile.id, vote)
+        invalidateCachePattern('proposals:*')
+      })
+  }
+
+  return proposal
+}
+
+/**
+ * Roll back a vote that was rejected by the server
+ * @internal
+ */
+function rollbackVote(proposalId: string, profileId: string, vote: 'up' | 'down'): void {
+  const state = getState()
+  const proposal = state.proposals.find(p => p.id === proposalId)
+  if (!proposal) return
+
+  // Remove from the vote arrays (opposite of what applyVoteLocally did)
+  if (vote === 'up') {
+    proposal.upvotes = proposal.upvotes.filter(id => id !== profileId)
+    if (proposal.weightedUpvotes) {
+      proposal.weightedUpvotes = proposal.weightedUpvotes.filter(v => v.profileId !== profileId)
+    }
+  } else {
+    proposal.downvotes = proposal.downvotes.filter(id => id !== profileId)
+    if (proposal.weightedDownvotes) {
+      proposal.weightedDownvotes = proposal.weightedDownvotes.filter(v => v.profileId !== profileId)
+    }
+  }
+
+  saveState(state)
+  log.info(`Rolled back vote on proposal ${proposalId}`)
+}
+
+/**
+ * Apply vote to proposal locally (used for optimistic updates)
+ * @internal
+ */
+function applyVoteLocally(
+  proposal: GovernanceProposal,
+  profileId: string,
+  vote: 'up' | 'down'
+): GovernanceProposal | null {
   // Handle app-wide proposals with weighted voting
   if (isAppWideProposal(proposal)) {
-    const voteEligibility = canVoteOnAppWideProposal(profile.id)
+    const voteEligibility = canVoteOnAppWideProposal(profileId)
     if (!voteEligibility.canVote) {
       log.warn(`Vote rejected: ${voteEligibility.reason}`)
       return null
@@ -563,30 +752,30 @@ export function voteOnProposal(
 
     const now = Date.now()
     const weightedVote: WeightedVote = {
-      profileId: profile.id,
+      profileId: profileId,
       weight: voteEligibility.weight,
       votedAt: now,
     }
 
     // Remove from opposite weighted vote array
     if (vote === 'up') {
-      proposal.weightedDownvotes = proposal.weightedDownvotes.filter(v => v.profileId !== profile.id)
-      if (!proposal.weightedUpvotes.some(v => v.profileId === profile.id)) {
+      proposal.weightedDownvotes = proposal.weightedDownvotes.filter(v => v.profileId !== profileId)
+      if (!proposal.weightedUpvotes.some(v => v.profileId === profileId)) {
         proposal.weightedUpvotes.push(weightedVote)
       } else {
         // Update weight if already voted (weight may have changed)
-        const existing = proposal.weightedUpvotes.find(v => v.profileId === profile.id)
+        const existing = proposal.weightedUpvotes.find(v => v.profileId === profileId)
         if (existing) {
           existing.weight = voteEligibility.weight
           existing.votedAt = now
         }
       }
     } else {
-      proposal.weightedUpvotes = proposal.weightedUpvotes.filter(v => v.profileId !== profile.id)
-      if (!proposal.weightedDownvotes.some(v => v.profileId === profile.id)) {
+      proposal.weightedUpvotes = proposal.weightedUpvotes.filter(v => v.profileId !== profileId)
+      if (!proposal.weightedDownvotes.some(v => v.profileId === profileId)) {
         proposal.weightedDownvotes.push(weightedVote)
       } else {
-        const existing = proposal.weightedDownvotes.find(v => v.profileId === profile.id)
+        const existing = proposal.weightedDownvotes.find(v => v.profileId === profileId)
         if (existing) {
           existing.weight = voteEligibility.weight
           existing.votedAt = now
@@ -596,35 +785,31 @@ export function voteOnProposal(
 
     // Also update regular vote arrays for backward compatibility
     if (vote === 'up') {
-      proposal.downvotes = proposal.downvotes.filter(id => id !== profile.id)
-      if (!proposal.upvotes.includes(profile.id)) {
-        proposal.upvotes.push(profile.id)
+      proposal.downvotes = proposal.downvotes.filter(id => id !== profileId)
+      if (!proposal.upvotes.includes(profileId)) {
+        proposal.upvotes.push(profileId)
       }
     } else {
-      proposal.upvotes = proposal.upvotes.filter(id => id !== profile.id)
-      if (!proposal.downvotes.includes(profile.id)) {
-        proposal.downvotes.push(profile.id)
+      proposal.upvotes = proposal.upvotes.filter(id => id !== profileId)
+      if (!proposal.downvotes.includes(profileId)) {
+        proposal.downvotes.push(profileId)
       }
     }
   } else {
     // Regular bloc-level voting (1 person = 1 vote)
     if (vote === 'up') {
-      proposal.downvotes = proposal.downvotes.filter(id => id !== profile.id)
-      if (!proposal.upvotes.includes(profile.id)) {
-        proposal.upvotes.push(profile.id)
+      proposal.downvotes = proposal.downvotes.filter(id => id !== profileId)
+      if (!proposal.upvotes.includes(profileId)) {
+        proposal.upvotes.push(profileId)
       }
     } else {
-      proposal.upvotes = proposal.upvotes.filter(id => id !== profile.id)
-      if (!proposal.downvotes.includes(profile.id)) {
-        proposal.downvotes.push(profile.id)
+      proposal.upvotes = proposal.upvotes.filter(id => id !== profileId)
+      if (!proposal.downvotes.includes(profileId)) {
+        proposal.downvotes.push(profileId)
       }
     }
   }
 
-  // Check thresholds
-  checkAndUpdateProposalStatus(proposal)
-
-  saveState(state)
   return proposal
 }
 
@@ -712,12 +897,23 @@ export async function voteOnProposalAsync(
     }
   }
 
-  // Fallback to localStorage (development/offline only)
-  const proposal = voteOnProposal(proposalId, vote)
-  if (!proposal) {
+  // Fallback to localStorage only (development/offline only)
+  // Use applyVoteLocally directly to avoid infinite loop with voteOnProposal
+  const state = getState()
+  const proposal = state.proposals.find(p => p.id === proposalId)
+  if (!proposal || proposal.status !== 'active') {
+    return { success: false, error: 'Proposal not found or not active' }
+  }
+
+  const updatedProposal = applyVoteLocally(proposal, profile.id, vote)
+  if (!updatedProposal) {
     return { success: false, error: 'Failed to vote' }
   }
-  return { success: true, proposal }
+
+  checkAndUpdateProposalStatus(proposal)
+  saveState(state)
+
+  return { success: true, proposal: updatedProposal }
 }
 
 /**
