@@ -110,11 +110,8 @@ export default function Home() {
       });
   }, []);
 
-  // Property linking state (Ctrl+click to add, L to confirm)
+  // Property linking state (Ctrl+click on desktop, press-and-hold on mobile)
   const [linkingSelection, setLinkingSelection] = useState<EnhancedBuilding[]>([]);
-
-  // Link mode for touch devices (when active, tapping a property adds it to selection)
-  const [isLinkMode, setIsLinkMode] = useState(false);
 
   // Mobile view toggle for buildings page
   const [mobileView, setMobileView] = useState<'list' | 'chat'>('list');
@@ -546,8 +543,8 @@ export default function Home() {
 
     return (
       <div className="flex flex-col overflow-hidden flex-1 h-full">
-        {/* Linking status bar - shows toggle when no selection, or selection status when properties selected */}
-        {(isLinkMode || linkingSelection.length > 0) && (() => {
+        {/* Linking status bar - shows when properties are selected */}
+        {linkingSelection.length > 0 && (() => {
           const profile = getCurrentProfile();
           const isAdminOrOrganizer = profile?.role === 'admin' || profile?.role === 'organizer';
           const actionLabel = isAdminOrOrganizer ? 'linking' : 'bloc proposal';
@@ -556,22 +553,17 @@ export default function Home() {
           return (
             <div className="bg-rstu-red text-white px-4 py-2 flex items-center justify-between flex-shrink-0">
               <div>
-                {linkingSelection.length > 0 ? (
-                  <>
-                    <span className="text-sm">
-                      <strong>{linkingSelection.length}</strong> properties selected for {actionLabel}
-                    </span>
-                    {!isAdminOrOrganizer && linkingSelection.length >= 2 && (
-                      <div className="text-xs text-white/80 mt-1">
-                        ℹ️ Tenants from each selected property will vote to approve this bloc. Requires 3+ votes from each building.
-                      </div>
-                    )}
-                  </>
-                ) : (
-                  <span className="text-sm">
-                    <strong>Link Mode:</strong> Tap properties to select them
-                  </span>
+                <span className="text-sm">
+                  <strong>{linkingSelection.length}</strong> properties selected for {actionLabel}
+                </span>
+                {!isAdminOrOrganizer && linkingSelection.length >= 2 && (
+                  <div className="text-xs text-white/80 mt-1">
+                    Tenants from each selected property will vote to approve this bloc.
+                  </div>
                 )}
+                <div className="text-xs text-white/70 mt-0.5">
+                  Ctrl+click or press-and-hold to select more
+                </div>
               </div>
               <div className="flex gap-2">
                 {linkingSelection.length >= 2 && (
@@ -583,13 +575,10 @@ export default function Home() {
                   </button>
                 )}
                 <button
-                  onClick={() => {
-                    setLinkingSelection([]);
-                    setIsLinkMode(false);
-                  }}
+                  onClick={() => setLinkingSelection([])}
                   className="text-xs bg-white/20 px-3 py-1.5 rounded min-h-[36px] min-w-[44px]"
                 >
-                  {linkingSelection.length > 0 ? 'Cancel' : 'Exit'}
+                  Cancel
                 </button>
               </div>
             </div>
@@ -641,8 +630,6 @@ export default function Home() {
             }}
             linkingSelection={linkingSelection}
             onToggleLinkSelection={handleToggleLinkSelection}
-            isLinkMode={isLinkMode}
-            onToggleLinkMode={() => setIsLinkMode(!isLinkMode)}
           />
         </div>
 
@@ -658,7 +645,6 @@ export default function Home() {
               onSelectBuilding={setSelectedBuilding}
               linkingSelection={linkingSelection}
               onToggleLinkSelection={handleToggleLinkSelection}
-              isLinkMode={isLinkMode}
               showBackButton={!isDesktop}
               onBack={() => setMobileView('list')}
             />

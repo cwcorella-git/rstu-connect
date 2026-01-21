@@ -115,8 +115,6 @@ interface BuildingListProps {
   onSelectBuilding: (building: EnhancedBuilding) => void;
   linkingSelection?: EnhancedBuilding[];
   onToggleLinkSelection?: (building: EnhancedBuilding) => void;
-  isLinkMode?: boolean;
-  onToggleLinkMode?: () => void;
 }
 
 // Convert Supabase search result to EnhancedBuilding
@@ -136,7 +134,7 @@ function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding 
   } as EnhancedBuilding;
 }
 
-export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection, isLinkMode = false, onToggleLinkMode }: BuildingListProps) {
+export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: BuildingListProps) {
   const { t } = useLanguage();
 
   // Split search state: inputValue is immediate (responsive typing), searchQuery is deferred (for expensive operations)
@@ -541,43 +539,23 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           </select>
         </div>
 
-        <div className="flex items-center justify-between mt-2">
-          <p className="text-xs text-gray-500">
-            {isSearching ? (
-              <span className="text-gray-400">{t('buildings.searching')}</span>
-            ) : hasQuery ? (
-              <>
-                {displayCount} {displayCount !== 1 ? t('buildings.results') : t('buildings.result')}
-                {showingSubset && <span className="text-gray-400"> ({t('buildings.showingFirst', { count: 50 })})</span>}
-              </>
-            ) : (
-              <>
-                {displayCount} {displayCount !== 1 ? t('buildings.featuredProperties') : t('buildings.featuredProperty')}
-                {favoriteCount > 0 && (
-                  <span className="text-yellow-600"> ({favoriteCount} {t('buildings.starred')})</span>
-                )}
-              </>
-            )}
-          </p>
-
-          {/* Link Mode Toggle Button - touch-friendly */}
-          {onToggleLinkMode && (
-            <button
-              onClick={onToggleLinkMode}
-              className={`flex items-center gap-1 px-2 py-1.5 text-xs rounded transition-colors min-h-[36px] ${
-                isLinkMode
-                  ? 'bg-rstu-red text-white'
-                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-              }`}
-              title={isLinkMode ? 'Exit link mode' : 'Enter link mode to select multiple properties'}
-            >
-              <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
-              </svg>
-              <span className="hidden sm:inline">{isLinkMode ? 'Linking...' : 'Link'}</span>
-            </button>
+        <p className="text-xs text-gray-500 mt-2">
+          {isSearching ? (
+            <span className="text-gray-400">{t('buildings.searching')}</span>
+          ) : hasQuery ? (
+            <>
+              {displayCount} {displayCount !== 1 ? t('buildings.results') : t('buildings.result')}
+              {showingSubset && <span className="text-gray-400"> ({t('buildings.showingFirst', { count: 50 })})</span>}
+            </>
+          ) : (
+            <>
+              {displayCount} {displayCount !== 1 ? t('buildings.featuredProperties') : t('buildings.featuredProperty')}
+              {favoriteCount > 0 && (
+                <span className="text-yellow-600"> ({favoriteCount} {t('buildings.starred')})</span>
+              )}
+            </>
           )}
-        </div>
+        </p>
       </div>
 
       {/* Building List */}
@@ -625,7 +603,6 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                     isFavorite={favorites.has(building.apn)}
                     isInLinkingSelection={linkingSelection.some(b => b.apn === building.apn)}
                     isLinked={false}
-                    isLinkMode={isLinkMode}
                     onClick={() => onSelectBuilding(building)}
                     onToggleFavorite={(e) => handleToggleFavorite(building.apn, e)}
                     onCtrlClick={onToggleLinkSelection ? () => onToggleLinkSelection(building) : undefined}

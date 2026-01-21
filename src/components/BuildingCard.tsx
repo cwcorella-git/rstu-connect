@@ -1,9 +1,12 @@
 'use client'
 
-import React, { useMemo } from 'react';
+import React, { useMemo, useRef, useCallback } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getEffectiveOrganizingPriority } from '@/lib/canvassStorage';
+
+// Long press duration in milliseconds
+const LONG_PRESS_DURATION = 500;
 
 // Property type badge configuration
 const PROPERTY_TYPE_BADGES: Record<string, { label: string; bgColor: string; textColor: string }> = {
@@ -28,15 +31,19 @@ interface BuildingCardProps {
   isInLinkingSelection?: boolean;
   isLinked?: boolean;
   linkedGroupName?: string;
-  isLinkMode?: boolean;
   onClick: () => void;
   onToggleFavorite: (e: React.MouseEvent) => void;
   onCtrlClick?: (e: React.MouseEvent) => void;
   'data-apn'?: string;
 }
 
-export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, isLinkMode = false, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
+export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
   const { t } = useLanguage();
+
+  // Long press state for mobile linking
+  const longPressTimer = useRef<NodeJS.Timeout | null>(null);
+  const isLongPress = useRef(false);
+
   // Only show property name if it's distinct from the address
   const hasDistinctPropertyName = building.propertyName &&
     !building.address.toLowerCase().includes(building.propertyName.toLowerCase());
@@ -62,10 +69,15 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
     borderColor = '#cc0000';
   }
 
-  // Handle click - in link mode, treat as Ctrl+click for touch selection
-  const handleClick = (e: React.MouseEvent) => {
-    // In link mode or with Ctrl/Cmd key, toggle link selection
-    if (isLinkMode || e.ctrlKey || e.metaKey) {
+  // Handle click - Ctrl/Cmd+click to toggle link selection
+  const handleClick = useCallback((e: React.MouseEvent) => {
+    // If this was a long press, don't trigger normal click
+    if (isLongPress.current) {
+      isLongPress.current = false;
+      return;
+    }
+    // Ctrl/Cmd+click to toggle link selection
+    if (e.ctrlKey || e.metaKey) {
       if (onCtrlClick) {
         onCtrlClick(e);
         e.preventDefault();
@@ -74,17 +86,51 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
     }
     // Normal click - select the building
     onClick();
-  };
+  }, [onClick, onCtrlClick]);
+
+  // Long press handlers for mobile linking
+  const handleTouchStart = useCallback(() => {
+    isLongPress.current = false;
+    longPressTimer.current = setTimeout(() => {
+      isLongPress.current = true;
+      // Vibrate on mobile to indicate long press registered
+      if (navigator.vibrate) {
+        navigator.vibrate(50);
+      }
+      // Trigger link selection
+      if (onCtrlClick) {
+        onCtrlClick({ preventDefault: () => {} } as React.MouseEvent);
+      }
+    }, LONG_PRESS_DURATION);
+  }, [onCtrlClick]);
+
+  const handleTouchEnd = useCallback(() => {
+    if (longPressTimer.current) {
+      clearTimeout(longPressTimer.current);
+      longPressTimer.current = null;
+    }
+  }, []);
+
+  const handleTouchMove = useCallback(() => {
+    // Cancel long press if user moves finger
+    if (longPressTimer.current) {
+      clearTimeout(longPressTimer.current);
+      longPressTimer.current = null;
+    }
+  }, []);
 
   return (
     <li
       data-apn={dataApn}
       onClick={handleClick}
-      className={`p-3 transition-colors cursor-pointer hover:bg-gray-50 ${
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
+      onTouchMove={handleTouchMove}
+      className={`p-3 transition-colors cursor-pointer hover:bg-gray-50 select-none ${
         isSelected ? 'bg-red-50' : isInLinkingSelection ? 'bg-red-50' : 'bg-white'
       }`}
       style={{ borderLeft: `4px solid ${borderColor}` }}
-      title={isLinked ? `Linked: ${linkedGroupName}` : undefined}
+      title={isLinked ? `Linked: ${linkedGroupName}` : (onCtrlClick ? 'Hold to select for linking' : undefined)}
     >
       <div className="flex items-start justify-between">
         <div className="flex-1 min-w-0">
@@ -173,6 +219,5 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
          prev.isFavorite === next.isFavorite &&
          prev.isInLinkingSelection === next.isInLinkingSelection &&
          prev.isLinked === next.isLinked &&
-         prev.linkedGroupName === next.linkedGroupName &&
-         prev.isLinkMode === next.isLinkMode;
+         prev.linkedGroupName === next.linkedGroupName;
 });

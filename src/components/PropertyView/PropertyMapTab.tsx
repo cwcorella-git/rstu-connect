@@ -12,7 +12,6 @@ interface PropertyMapTabProps {
   onSelectBuilding?: (building: EnhancedBuilding) => void;
   linkingSelection?: EnhancedBuilding[];
   onToggleLinkSelection?: (building: EnhancedBuilding) => void;
-  isLinkMode?: boolean;
 }
 
 // Calculate distance in miles between two points
@@ -121,7 +120,7 @@ function buildingsToGeoJSON(buildings: EnhancedBuilding[]): GeoJSON.FeatureColle
   };
 }
 
-export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, linkingSelection = [], onToggleLinkSelection, isLinkMode = false }: PropertyMapTabProps) {
+export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: PropertyMapTabProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<maplibregl.Map | null>(null);
   const marker = useRef<maplibregl.Marker | null>(null);
@@ -409,18 +408,14 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       user-select: none;
       -webkit-user-select: none;
     `;
-    mainEl.title = `${building.propertyName || building.address} (${building.units} units) - ${isLinkMode ? 'Tap' : 'Ctrl+click'} to add to linking selection`;
+    mainEl.title = `${building.propertyName || building.address} (${building.units} units) - Ctrl+click to add to linking selection`;
 
-    // Add click handler for linking - supports both Ctrl/Cmd+click and link mode (for touch)
+    // Add click handler for linking - Ctrl/Cmd+click to select
     mainEl.addEventListener('click', (e) => {
-      if (onToggleLinkSelection) {
-        // In link mode, any tap toggles selection
-        // Otherwise, require Ctrl/Cmd key
-        if (isLinkMode || e.ctrlKey || e.metaKey) {
-          e.preventDefault();
-          e.stopPropagation();
-          onToggleLinkSelection(building);
-        }
+      if (onToggleLinkSelection && (e.ctrlKey || e.metaKey)) {
+        e.preventDefault();
+        e.stopPropagation();
+        onToggleLinkSelection(building);
       }
     });
 
@@ -503,20 +498,13 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         el.className = 'linked-marker';
         // Show selection state: brighter/larger when selected
         el.style.cssText = `width: ${isInSel ? '16px' : '14px'}; height: ${isInSel ? '16px' : '14px'}; background: ${isInSel ? '#cc0000' : color}; border: 2px solid #fff; border-radius: 50%; cursor: pointer; pointer-events: auto; user-select: none;`;
-        el.title = `${group.name}: ${b.propertyName || b.address} (${b.units} units) - ${isLinkMode ? 'Tap to link' : 'Click to view, Ctrl/Cmd+click to link'}`;
+        el.title = `${group.name}: ${b.propertyName || b.address} (${b.units} units) - Click to view, hold or Ctrl+click to link`;
 
         const linkedMarker = new maplibregl.Marker({ element: el })
           .setLngLat([b.longitude!, b.latitude!])
           .addTo(map.current!);
 
         el.addEventListener('click', (e) => {
-          // In link mode, any tap toggles selection
-          if (isLinkMode && onToggleLinkSelection) {
-            e.preventDefault();
-            e.stopPropagation();
-            onToggleLinkSelection(b);
-            return;
-          }
           // Ctrl/Cmd+click to add to selection
           if ((e.ctrlKey || e.metaKey) && onToggleLinkSelection) {
             e.preventDefault();
@@ -582,20 +570,13 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         const el = document.createElement('div');
         el.className = 'nearby-marker';
         el.style.cssText = `width: 12px; height: 12px; background: ${isInSel ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer; pointer-events: auto; user-select: none;`;
-        el.title = `${b.propertyName || b.address} (${b.units} units) - ${isLinkMode ? 'Tap to link' : 'Click to view, Ctrl/Cmd+click to link'}`;
+        el.title = `${b.propertyName || b.address} (${b.units} units) - Click to view, hold or Ctrl+click to link`;
 
         const nearbyMarker = new maplibregl.Marker({ element: el })
           .setLngLat([b.longitude!, b.latitude!])
           .addTo(map.current!);
 
         el.addEventListener('click', (e) => {
-          // In link mode, any tap toggles selection
-          if (isLinkMode && onToggleLinkSelection) {
-            e.preventDefault();
-            e.stopPropagation();
-            onToggleLinkSelection(b);
-            return;
-          }
           // Ctrl/Cmd+click to add to selection
           if ((e.ctrlKey || e.metaKey) && onToggleLinkSelection) {
             e.preventDefault();
@@ -672,7 +653,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       pitch: 45,
       duration: 1500
     });
-  }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection, isLinkMode]);
+  }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection]);
 
   // Show/hide clustering and individual markers based on zoom level
   useEffect(() => {
