@@ -236,14 +236,14 @@ Current state: Some features use Supabase, many still localStorage-only.
 - [x] Elections, nominations, ranked votes (2026-01-21)
 
 **Need to migrate:**
-- [ ] Chat messages (currently Socket.io server only)
+- [x] Chat messages (2026-01-21) - tables created, can use with Socket.io or Supabase Realtime
 - [x] Events and RSVPs (2026-01-21)
 - [x] Canvassing records (unit data) (2026-01-21)
-- [ ] Building organizing status
+- [x] Building organizing status (already in schema.sql)
 - [x] Campaigns (2026-01-21)
-- [ ] Mutual aid requests/offers
-- [ ] Linked property groups (blocs)
-- [ ] Direct messages
+- [x] Mutual aid requests/offers (2026-01-21)
+- [x] Linked property groups (blocs) - already in schema.sql
+- [x] Direct messages (2026-01-21)
 
 **Events migrated to Supabase (2026-01-21):**
 - [x] Created tables: `events`, `event_rsvps`, `event_votes`, `event_meeting_notes`, `event_action_items`
@@ -268,6 +268,20 @@ Current state: Some features use Supabase, many still localStorage-only.
 - [x] Updated `campaignStorage.ts` with async functions: `fetchCampaignsFromServer()`, `updateCampaignStageAsync()`, `updateCampaignOutcomeAsync()`, `addCampaignDemandAsync()`, `updateCampaignDemandAsync()`, `addCampaignNoteAsync()`, `linkStrikeToCampaignAsync()`
 - [x] Added TypeScript types: `DbCampaign`, `DbCampaignBuilding`, `DbCampaignStageChange`, `DbCampaignDemand`, `DbCampaignNote`
 - Migration file: `infrastructure/supabase/015_campaigns_tables.sql`
+
+**Mutual aid migrated to Supabase (2026-01-21):**
+- [x] Created tables: `mutual_aid_posts`, `mutual_aid_resources`, `mutual_aid_skill_profiles`, `mutual_aid_skills`
+- [x] Added RLS policies (anyone can read, users manage own posts/resources/skills)
+- [x] Server functions: `create_mutual_aid_post_secure()`, `update_mutual_aid_post_status_secure()`, `create_resource_item_secure()`, `checkout_resource_secure()`, `return_resource_secure()`, `save_skill_profile_secure()`, `get_building_mutual_aid_stats()`, `expire_mutual_aid_posts()`
+- Migration file: `infrastructure/supabase/016_mutual_aid_tables.sql`
+
+**Chat and DMs migrated to Supabase (2026-01-21):**
+- [x] Created tables: `chat_messages`, `direct_messages`, `dm_conversations`
+- [x] Added RLS policies (room messages public read, DMs only for participants)
+- [x] Server functions: `send_chat_message_secure()`, `delete_chat_message_secure()`, `get_chat_messages()`, `send_direct_message_secure()`, `mark_conversation_read_secure()`, `get_my_conversations()`, `get_direct_messages()`, `get_unread_dm_count()`
+- [x] Enabled Supabase Realtime for chat_messages and direct_messages tables
+- Migration file: `infrastructure/supabase/017_chat_messages_tables.sql`
+- Note: Can be used alongside Socket.io or as full replacement with Supabase Realtime
 
 **For each migration:**
 1. Create Supabase table schema
@@ -323,4 +337,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (Campaigns migrated to Supabase with demands, notes, stage tracking)*
+*Last updated: 2026-01-21 (All Supabase data migrations complete: mutual aid, chat, DMs)*
