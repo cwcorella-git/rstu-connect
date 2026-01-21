@@ -237,13 +237,20 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 **Need to migrate:**
 - [ ] Chat messages (currently Socket.io server only)
-- [ ] Events and RSVPs
+- [x] Events and RSVPs (2026-01-21)
 - [ ] Canvassing records (unit data)
 - [ ] Building organizing status
 - [ ] Campaigns
 - [ ] Mutual aid requests/offers
 - [ ] Linked property groups (blocs)
 - [ ] Direct messages
+
+**Events migrated to Supabase (2026-01-21):**
+- [x] Created tables: `events`, `event_rsvps`, `event_votes`, `event_meeting_notes`, `event_action_items`
+- [x] Added RLS policies for event security (creator/organizer can modify, users manage own RSVPs/votes)
+- [x] Server functions: `create_event_secure()`, `update_event_secure()`, `delete_event_secure()`, `rsvp_to_event()`, `vote_on_event()`, `add_meeting_notes()`
+- [x] Updated `eventStorage.ts` with async functions: `rsvpToEventAsync()`, `voteOnEventAsync()`, `fetchEventsFromServer()`
+- Migration file: `infrastructure/supabase/013_events_tables.sql`
 
 **For each migration:**
 1. Create Supabase table schema
@@ -299,4 +306,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (Election components use server-verified async functions)*
+*Last updated: 2026-01-21 (Events migrated to Supabase with RLS and async functions)*

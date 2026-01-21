@@ -154,6 +154,101 @@ function saveAllEvents(events: BuildingEvent[]): void {
   }
 }
 
+// Fetch events from server and update local cache
+export async function fetchEventsFromServer(buildingId?: string): Promise<BuildingEvent[]> {
+  if (!USE_SUPABASE || !supabase || !isOnline()) {
+    log.info('Using local events cache (offline or no Supabase)')
+    return getAllEvents()
+  }
+
+  try {
+    let query = supabase
+      .from('events')
+      .select(`
+        *,
+        event_rsvps (
+          profile_id,
+          profile_nickname,
+          status,
+          created_at
+        ),
+        event_votes (
+          profile_id,
+          vote
+        )
+      `)
+      .order('date_time', { ascending: true })
+
+    if (buildingId) {
+      query = query.or(`building_id.eq.${buildingId},is_group_wide.eq.true`)
+    }
+
+    const { data, error } = await query
+
+    if (error) {
+      log.error('Error fetching events from server:', error)
+      return getAllEvents()
+    }
+
+    if (!data) {
+      return getAllEvents()
+    }
+
+    // Transform server data to local format
+    const events: BuildingEvent[] = data.map(e => ({
+      id: e.id,
+      buildingId: e.building_id,
+      buildingAddress: e.building_address,
+      groupId: e.group_id,
+      isGroupWide: e.is_group_wide,
+      campaignId: e.campaign_id,
+      title: e.title,
+      description: e.description,
+      eventType: e.event_type as EventType,
+      status: e.status as EventStatus,
+      dateTime: new Date(e.date_time).getTime(),
+      durationMinutes: e.duration_minutes,
+      location: {
+        name: e.location_name || '',
+        address: e.location_address,
+        isVirtual: e.is_virtual,
+        virtualLink: e.virtual_link
+      },
+      createdBy: e.created_by,
+      createdByName: e.created_by_name,
+      createdAt: new Date(e.created_at).getTime(),
+      chatMessageId: e.chat_message_id,
+      rsvps: (e.event_rsvps || []).map((r: { profile_id: string; profile_nickname: string; status: RsvpStatus; created_at: string }) => ({
+        profileId: r.profile_id,
+        profileNickname: r.profile_nickname,
+        status: r.status as RsvpStatus,
+        timestamp: new Date(r.created_at).getTime()
+      })),
+      votes: {
+        upvotes: (e.event_votes || []).filter((v: { vote: string }) => v.vote === 'up').map((v: { profile_id: string }) => v.profile_id),
+        downvotes: (e.event_votes || []).filter((v: { vote: string }) => v.vote === 'down').map((v: { profile_id: string }) => v.profile_id),
+        threshold: e.vote_threshold
+      },
+      recurrence: e.recurrence_type !== 'none' ? {
+        type: e.recurrence_type as 'weekly' | 'biweekly' | 'monthly',
+        interval: e.recurrence_interval,
+        endDate: e.recurrence_end_date ? new Date(e.recurrence_end_date).getTime() : undefined,
+        seriesId: e.series_id,
+        occurrenceNumber: e.occurrence_number
+      } : undefined
+    }))
+
+    // Update local cache
+    saveAllEvents(events)
+    log.info(`Fetched ${events.length} events from server`)
+
+    return events
+  } catch (e) {
+    log.error('Failed to fetch events:', e)
+    return getAllEvents()
+  }
+}
+
 // Get events for a specific building
 export function getBuildingEvents(buildingId: string): BuildingEvent[] {
   const allEvents = getAllEvents()
@@ -507,7 +602,7 @@ export function deleteEvent(eventId: string): boolean {
   return deleteEventLocal(eventId)
 }
 
-// RSVP to an event
+// RSVP to an event (local only - use rsvpToEventAsync for server sync)
 export function rsvpToEvent(
   eventId: string,
   profileId: string,
@@ -532,6 +627,45 @@ export function rsvpToEvent(
 
   saveAllEvents(allEvents)
   return event
+}
+
+// RSVP to an event (server-verified async function)
+export async function rsvpToEventAsync(
+  eventId: string,
+  status: RsvpStatus
+): Promise<{ success: boolean; error?: string }> {
+  // If online and Supabase available, use server-side function
+  if (USE_SUPABASE && supabase && isOnline()) {
+    try {
+      const { data, error } = await supabase.rpc('rsvp_to_event', {
+        p_event_id: eventId,
+        p_status: status
+      })
+
+      if (error) {
+        log.error('Server error RSVPing to event:', error)
+        return { success: false, error: error.message }
+      }
+
+      if (data && !data.success) {
+        return { success: false, error: data.error }
+      }
+
+      // Update local cache optimistically
+      // Note: We don't have profile info here, so just reload from server if needed
+      log.info('RSVP submitted successfully')
+      return { success: true }
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        return { success: false, error: 'Cannot RSVP while offline' }
+      }
+      log.error('Failed to RSVP:', e)
+      return { success: false, error: 'Failed to RSVP' }
+    }
+  }
+
+  // Offline - cannot RSVP without server
+  return { success: false, error: 'Cannot RSVP while offline' }
 }
 
 // Remove RSVP from an event
@@ -737,7 +871,7 @@ export function formatEventDateTime(dateTime: number): string {
 export const EVENT_VOTE_THRESHOLD = 3
 export const PROPOSAL_EXPIRY_DAYS = 7
 
-// Vote on a proposed event
+// Vote on a proposed event (local only - use voteOnEventAsync for server sync)
 export function voteOnEvent(
   eventId: string,
   profileId: string,
@@ -763,6 +897,50 @@ export function voteOnEvent(
 
   saveAllEvents(allEvents)
   return event
+}
+
+// Vote on a proposed event (server-verified async function)
+export async function voteOnEventAsync(
+  eventId: string,
+  vote: 'up' | 'down'
+): Promise<{ success: boolean; upvotes?: number; threshold?: number; autoConfirmed?: boolean; error?: string }> {
+  // If online and Supabase available, use server-side function
+  if (USE_SUPABASE && supabase && isOnline()) {
+    try {
+      const { data, error } = await supabase.rpc('vote_on_event', {
+        p_event_id: eventId,
+        p_vote: vote
+      })
+
+      if (error) {
+        log.error('Server error voting on event:', error)
+        return { success: false, error: error.message }
+      }
+
+      if (data && !data.success) {
+        return { success: false, error: data.error }
+      }
+
+      const result = {
+        success: true,
+        upvotes: data?.upvotes || 0,
+        threshold: data?.threshold || 3,
+        autoConfirmed: (data?.upvotes || 0) >= (data?.threshold || 3)
+      }
+
+      log.info('Vote submitted successfully:', result)
+      return result
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        return { success: false, error: 'Cannot vote while offline' }
+      }
+      log.error('Failed to vote:', e)
+      return { success: false, error: 'Failed to vote' }
+    }
+  }
+
+  // Offline - cannot vote without server
+  return { success: false, error: 'Cannot vote while offline' }
 }
 
 // Check proposal status
