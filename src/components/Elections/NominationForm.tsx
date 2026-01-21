@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { getSocket } from '@/lib/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { useOfflineMode } from '@/hooks/useOfflineMode'
 import { Election, Nomination, createNominationAsync } from '@/lib/electionStorage'
 
 interface NominationFormProps {
@@ -21,6 +22,7 @@ export function NominationForm({
   onClose,
 }: NominationFormProps) {
   const { t } = useLanguage()
+  const { isReadOnly, checkAction } = useOfflineMode()
   const [selectedPosition, setSelectedPosition] = useState<string>('')
   const [nomineeId, setNomineeId] = useState<string>('')
   const [nomineeName, setNomineeName] = useState<string>('')
@@ -43,6 +45,13 @@ export function NominationForm({
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
+
+    // Check if offline
+    const offlineError = checkAction('submit your nomination')
+    if (offlineError) {
+      setError(offlineError)
+      return
+    }
 
     if (!selectedPosition) {
       setError(t('elections.selectPosition'))
@@ -217,7 +226,8 @@ export function NominationForm({
           {/* Submit Button */}
           <button
             type="submit"
-            disabled={isSubmitting}
+            disabled={isSubmitting || isReadOnly}
+            title={isReadOnly ? 'Cannot submit nomination while offline' : undefined}
             className="w-full bg-red-600 text-white px-4 py-3 rounded-lg font-medium hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed"
           >
             {isSubmitting ? t('common.loading') : t('elections.submitNomination')}

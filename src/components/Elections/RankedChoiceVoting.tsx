@@ -3,6 +3,7 @@
 import { useState, useCallback } from 'react'
 import { getSocket } from '@/lib/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { useOfflineMode } from '@/hooks/useOfflineMode'
 import {
   Election,
   Nomination,
@@ -31,6 +32,7 @@ export function RankedChoiceVoting({
   onVoteComplete,
 }: RankedChoiceVotingProps) {
   const { t } = useLanguage()
+  const { isReadOnly, checkAction } = useOfflineMode()
   const [rankings, setRankings] = useState<Record<string, string[]>>({})
   const [submittingPosition, setSubmittingPosition] = useState<string | null>(null)
   const [error, setError] = useState<string | null>(null)
@@ -108,6 +110,13 @@ export function RankedChoiceVoting({
   }
 
   const handleCastVote = async (positionId: string) => {
+    // Check if offline
+    const offlineError = checkAction('cast your vote')
+    if (offlineError) {
+      setError(offlineError)
+      return
+    }
+
     const positionRankings = rankings[positionId]
     if (!positionRankings || positionRankings.length === 0) {
       setError('Please rank at least one candidate')
@@ -342,7 +351,8 @@ export function RankedChoiceVoting({
                   {/* Submit Button */}
                   <button
                     onClick={() => handleCastVote(position.id)}
-                    disabled={isSubmitting || currentRankings.length === 0}
+                    disabled={isSubmitting || currentRankings.length === 0 || isReadOnly}
+                    title={isReadOnly ? 'Cannot vote while offline' : undefined}
                     className="mt-4 w-full bg-gradient-to-r from-purple-600 to-indigo-600 text-white px-4 py-3 rounded-lg font-medium hover:from-purple-700 hover:to-indigo-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all"
                   >
                     {isSubmitting ? (

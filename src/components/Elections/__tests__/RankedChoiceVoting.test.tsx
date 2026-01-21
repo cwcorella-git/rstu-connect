@@ -18,6 +18,14 @@ jest.mock('@/contexts/LanguageContext', () => ({
   }),
 }))
 
+jest.mock('@/hooks/useOfflineMode', () => ({
+  useOfflineMode: () => ({
+    isOnline: true,
+    isReadOnly: false,
+    checkAction: jest.fn(() => null), // null means action is allowed
+  }),
+}))
+
 // Mock electionStorage functions
 const mockCastRankedVoteAsync = jest.fn()
 const mockHasRankedVotedForPosition = jest.fn()

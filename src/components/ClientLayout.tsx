@@ -11,6 +11,7 @@ import { LanguageSelector } from '@/components/LanguageSelector'
 import { VersionFooter } from '@/components/VersionFooter'
 import { EditModeIndicator } from '@/components/EditMode'
 import { Footer } from '@/components/Footer'
+import { OfflineBanner, OfflineIndicator } from '@/components/OfflineBanner'
 
 function Header() {
   const { t, isLoading } = useLanguage()
@@ -33,6 +34,7 @@ function Header() {
             </span>
           </button>
           <div className="flex items-center gap-2">
+            <OfflineIndicator />
             <LanguageSelector />
             <Navigation />
           </div>
@@ -55,6 +57,9 @@ export function ClientLayout({ children }: { children: ReactNode }) {
 
         {/* Edit Mode Indicator - shows below header when edit mode is active */}
         <EditModeIndicator />
+
+        {/* Offline Banner - shows when disconnected */}
+        <OfflineBanner />
 
         {/* Page Content - scrolls internally */}
         <div className="flex-1 flex flex-col min-h-0 overflow-hidden">

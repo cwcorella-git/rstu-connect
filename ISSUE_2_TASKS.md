@@ -132,6 +132,11 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - `RankedChoiceVoting.tsx` - uses `castRankedVoteAsync()` instead of sync function
 - `NominationForm.tsx` - uses `createNominationAsync()` instead of Socket.io only
 
+**Offline mode integration (2026-01-21):**
+- `OfflineBanner` and `OfflineIndicator` added to `ClientLayout.tsx`
+- `RankedChoiceVoting.tsx` - uses `useOfflineMode` hook, disables voting when offline
+- `NominationForm.tsx` - uses `useOfflineMode` hook, disables nomination submission when offline
+
 **Error handling (vote rollback on failure):**
 - `rollbackVote()` removes vote from localStorage if server rejects or network fails
 - `removeLocalProposal()` removes proposal from localStorage if server rejects
