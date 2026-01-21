@@ -46,7 +46,16 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [x] Run Jest tests on every push to main
 - [x] Block deploy if tests fail
 - [x] Run linting checks (ESLint with next/core-web-vitals)
-- [ ] Consider adding Playwright for E2E tests
+- [ ] Add Playwright for E2E tests
+  - [ ] Install Playwright (`npm init playwright@latest`)
+  - [ ] Create E2E tests for critical user flows:
+    - [ ] Building search and selection
+    - [ ] Profile creation and login
+    - [ ] Chat message sending
+    - [ ] Proposal creation and voting
+    - [ ] Election nomination and voting
+  - [ ] Add Playwright to CI workflow
+  - [ ] Configure for static export (may need test server)
 
 ### 3. LocalStorage Security Issues
 
@@ -120,8 +129,11 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - `removeLocalProposal()` removes proposal from localStorage if server rejects
 
 **Still needs work (no Supabase tables yet):**
-- `electionStorage.castVote()` - elections not migrated to Supabase
-- `electionStorage.castRankedVote()` - elections not migrated to Supabase
+- `src/lib/electionStorage.ts` - elections not migrated to Supabase
+  - `castVote()` - simple voting (legacy)
+  - `castRankedVote()` - ranked choice voting
+  - localStorage keys: `rstu-elections`, `rstu-nominations`, `rstu-ranked-votes`
+  - Need tables: `elections`, `nominations`, `election_votes`, `ranked_votes`
 - `finalizeProposal()` - no server-side finalize RPC
 
 #### RLS Policy Implementation
@@ -260,7 +272,14 @@ Current state: Some features use Supabase, many still localStorage-only.
 - `src/lib/supabase.ts` - Existing Supabase client
 - `src/lib/safeStorage.ts` - localStorage wrapper
 - `src/lib/profileStorage.ts` - User auth/roles
+- `src/lib/electionStorage.ts` - Elections, nominations, ranked choice voting
 - `scripts/archive/create-admin-state-tables.sql` - Example schema
+
+### Governance Refactoring (from plan mode)
+- [ ] Remove governance tab from Tools page (`src/components/Tools/ToolsPage.tsx`)
+- [ ] Consolidate voting under Profile's Elections/App Governance tabs
+- [ ] Replace simple `DelegateStatusCard` with full `DelegateStatus` component
+- [ ] Write comprehensive governance documentation (`docs/organizing/rstu-connect-governance-guide.md`)
 
 ---
 
