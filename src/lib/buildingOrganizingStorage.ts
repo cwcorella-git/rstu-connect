@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('BuildingOrganizing')
+
 // Building organizing storage for complaints, demands, and voting
 // Supports both localStorage (offline) and Supabase (cloud sync)
 // Implements Bookchin's direct democracy principles:
@@ -167,7 +171,7 @@ async function saveComplaintToDb(complaint: BuildingComplaint): Promise<boolean>
     .upsert(dbComplaint, { onConflict: 'id' })
 
   if (error) {
-    console.error('[OrganizingStorage] Failed to save complaint to Supabase:', error)
+    log.error('Failed to save complaint to Supabase:', error)
     return false
   }
   return true
@@ -184,7 +188,7 @@ async function saveDemandToDb(demand: BuildingDemand): Promise<boolean> {
     .upsert(dbDemand, { onConflict: 'id' })
 
   if (error) {
-    console.error('[OrganizingStorage] Failed to save demand to Supabase:', error)
+    log.error('Failed to save demand to Supabase:', error)
     return false
   }
   return true
@@ -294,14 +298,14 @@ function saveOrganizingState(state: OrganizingState): boolean {
   } catch (e) {
     if (e instanceof DOMException && (e.code === 22 || e.name === 'QuotaExceededError')) {
       if (!quotaExceeded) {
-        console.warn('[OrganizingStorage] Storage quota exceeded - will retry in 1 minute')
+        log.warn('Storage quota exceeded - will retry in 1 minute')
         quotaExceeded = true
         lastQuotaError = Date.now()
         // Try cleanup
         cleanupOrganizingData()
       }
     } else {
-      console.error('[OrganizingStorage] Failed to save:', e)
+      log.error('Failed to save:', e)
     }
     return false
   }
@@ -367,7 +371,7 @@ export function cleanupOrganizingData(): void {
       quotaExceeded = false
     }
   } catch (e) {
-    console.error('[OrganizingStorage] Cleanup failed:', e)
+    log.error('Cleanup failed:', e)
   }
 }
 

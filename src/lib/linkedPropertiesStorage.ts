@@ -1,4 +1,7 @@
 'use client';
+import { createLogger } from './logger'
+
+const log = createLogger('LinkedProperties')
 
 export interface BannedProfile {
   profileId: string;
@@ -57,7 +60,7 @@ export function saveLinkedGroups(groups: LinkedPropertyGroup[]): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(groups));
   } catch (e) {
-    console.error('[LinkedPropertiesStorage] Failed to save - storage quota may be exceeded:', e);
+    log.error('Failed to save - storage quota may be exceeded:', e);
   }
 }
 

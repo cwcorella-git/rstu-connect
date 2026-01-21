@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('ProfileEditor')
 
 import { useState, useEffect, useRef, memo, forwardRef, useImperativeHandle } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -187,7 +189,7 @@ export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>
         setAllProperties(data.p || [])
       })
       .catch(err => {
-        console.error('[ProfileEditor] Failed to load all properties:', err)
+        log.error('Failed to load all properties:', err)
       })
   }, [])
 

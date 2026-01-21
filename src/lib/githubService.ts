@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Github')
+
 // GitHub API service for updating translation files
 // Used by the inline content editing system
 
@@ -69,7 +73,7 @@ async function fetchFileContent(
     })
 
     if (!response.ok) {
-      console.error(`[GitHubService] Failed to fetch file: ${response.status}`)
+      log.error(`Failed to fetch file: ${response.status}`)
       return null
     }
 
@@ -77,7 +81,7 @@ async function fetchFileContent(
     const content = atob(data.content.replace(/\n/g, ''))
     return { content, sha: data.sha }
   } catch (err) {
-    console.error('[GitHubService] Error fetching file:', err)
+    log.error('Error fetching file:', err)
     return null
   }
 }
@@ -118,7 +122,7 @@ async function commitFileUpdate(
     const data = await response.json()
     return { success: true, commitUrl: data.commit.html_url }
   } catch (err) {
-    console.error('[GitHubService] Error committing file:', err)
+    log.error('Error committing file:', err)
     return { success: false, error: 'Network error. Please try again.' }
   }
 }
@@ -172,7 +176,7 @@ function updateTranslationInContent(
   }
 
   if (matches.length === 0) {
-    console.error(`[GitHubService] Key '${key}' not found in translations`)
+    log.error(`Key '${key}' not found in translations`)
     return { success: false, error: `Key '${key}' not found anywhere in file (found 0 matches)` }
   }
 
@@ -183,7 +187,7 @@ function updateTranslationInContent(
   const localeMatch = localePattern.exec(content)
 
   if (!localeMatch) {
-    console.error(`[GitHubService] Locale '${locale}' not found`)
+    log.error(`Locale '${locale}' not found`)
     return { success: false, error: `Locale '${locale}' section not found in file` }
   }
 
@@ -199,7 +203,7 @@ function updateTranslationInContent(
   const matchInLocale = matches.find(m => m.index > localeStart && m.index < localeEnd)
 
   if (!matchInLocale) {
-    console.error(`[GitHubService] Key '${key}' not found in locale '${locale}' (found ${matches.length} global matches, locale range: ${localeStart}-${localeEnd})`)
+    log.error(`Key '${key}' not found in locale '${locale}' (found ${matches.length} global matches, locale range: ${localeStart}-${localeEnd})`)
     return { success: false, error: `Key '${key}' found ${matches.length}x but not in '${locale}' section (locale range: ${localeStart}-${localeEnd})` }
   }
 

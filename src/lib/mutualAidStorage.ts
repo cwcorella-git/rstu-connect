@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('MutualAid')
+
 /**
  * Mutual Aid Storage
  *
@@ -172,7 +176,7 @@ function saveToStorage<T>(key: string, value: T): void {
   try {
     localStorage.setItem(key, JSON.stringify(value))
   } catch (e) {
-    console.error('[MutualAid] Failed to save to localStorage:', e)
+    log.error('Failed to save to localStorage:', e)
   }
 }
 
@@ -222,7 +226,7 @@ export function createPost(
   // Check rate limit
   const rateLimitResult = tryAction('mutual_aid_post', authorId)
   if (!rateLimitResult.allowed) {
-    console.warn('[MutualAid] Rate limited:', rateLimitResult.error)
+    log.warn('Rate limited:', rateLimitResult.error)
     return null
   }
 

@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('BuildingCampaign')
 
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import {
@@ -67,7 +69,7 @@ export function useBuildingCampaign(chatSlug: string): UseBuildingCampaignReturn
       const buildingCampaigns = getBuildingCampaigns(chatSlug)
       setCampaigns(buildingCampaigns)
     } catch (err) {
-      console.error('[useBuildingCampaign] Error loading campaigns:', err)
+      log.error('Error loading campaigns:', err)
       setCampaigns([])
     } finally {
       setIsLoading(false)

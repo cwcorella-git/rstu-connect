@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Campaign')
+
 /**
  * Campaign Storage
  *
@@ -277,7 +281,7 @@ function saveCampaignState(state: CampaignState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch (e) {
-    console.error('[CampaignStorage] Failed to save:', e)
+    log.error('Failed to save:', e)
   }
 }
 
@@ -405,7 +409,7 @@ export async function createCampaignSecure(
       })
 
       if (error) {
-        console.error('[CampaignStorage] Server error creating campaign:', error)
+        log.error('Server error creating campaign:', error)
         return { success: false, error: error.message }
       }
 
@@ -445,7 +449,7 @@ export async function createCampaignSecure(
       if (e instanceof OfflineError) {
         return { success: false, error: 'Cannot create campaigns while offline' }
       }
-      console.error('[CampaignStorage] Failed to create campaign:', e)
+      log.error('Failed to create campaign:', e)
       return { success: false, error: 'Failed to create campaign' }
     }
   }

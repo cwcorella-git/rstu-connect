@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('DirectMessages')
 
 import { useEffect, useState, useCallback, useRef } from 'react'
 import { getSocket } from '@/lib/socketio'
@@ -129,7 +131,7 @@ export function useDirectMessages() {
     }
 
     const handleError = ({ code, message }: { code: string; message: string }) => {
-      console.error('[useDirectMessages] Error:', code, message)
+      log.error(`Error: ${code}`, message)
       setState(prev => ({ ...prev, error: message }))
     }
 
@@ -238,7 +240,7 @@ export function useThreadMessages(threadId: string | null) {
     }
 
     const handleError = ({ code, message }: { code: string; message: string }) => {
-      console.error('[useThreadMessages] Error:', code, message)
+      log.error(`Thread error: ${code}`, message)
       setState(prev => ({ ...prev, error: message, isLoading: false }))
     }
 

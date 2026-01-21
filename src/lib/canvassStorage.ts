@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Canvass')
+
 // Canvassing data storage for tenant outreach tracking
 // Supports both localStorage (offline) and Supabase (cloud sync)
 
@@ -301,7 +305,7 @@ async function saveUnitToDb(
     .upsert(dbUnit, { onConflict: 'building_id,unit_number' })
 
   if (error) {
-    console.error('[CanvassStorage] Failed to save unit to Supabase:', error)
+    log.error('Failed to save unit to Supabase:', error)
     return false
   }
   return true
@@ -412,7 +416,7 @@ function saveCanvassState(state: CanvassState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch (e) {
-    console.error('[CanvassStorage] Failed to save - storage quota may be exceeded:', e)
+    log.error('Failed to save - storage quota may be exceeded:', e)
   }
 }
 

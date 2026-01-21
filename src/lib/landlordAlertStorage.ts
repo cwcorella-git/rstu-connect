@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('LandlordAlert')
+
 /**
  * Landlord Alert Storage
  *
@@ -130,7 +134,7 @@ export function dismissLandlordAlert(alertId: string, profileId: string): void {
     }
     localStorage.setItem(DISMISSED_ALERTS_KEY, JSON.stringify(dismissed))
   } catch {
-    console.error('[LandlordAlert] Failed to dismiss landlord alert')
+    log.error('Failed to dismiss landlord alert')
   }
 }
 
@@ -152,7 +156,7 @@ export function clearDismissedLandlordAlerts(profileId: string): void {
     delete dismissed[profileId]
     localStorage.setItem(DISMISSED_ALERTS_KEY, JSON.stringify(dismissed))
   } catch {
-    console.error('[LandlordAlert] Failed to clear dismissed landlord alerts')
+    log.error('Failed to clear dismissed landlord alerts')
   }
 }
 

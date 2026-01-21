@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('Reading')
 
 import { useState, useEffect, useRef } from 'react'
 import ReactMarkdown from 'react-markdown'
@@ -75,7 +77,7 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
         }
       })
       .catch(err => {
-        console.error('[ReadingContent] Failed to load document:', err)
+        log.error('Failed to load document:', err)
         setIsLoading(false)
       })
   }, [document.id, document.category, document.filename, document.title])

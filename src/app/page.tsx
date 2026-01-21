@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('App')
 
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
@@ -82,8 +84,8 @@ export default function Home() {
         }
 
         if (typeof data.c !== 'number' || data.c !== data.p.length) {
-          console.warn(
-            `[Property Loading] Count mismatch: data.c=${data.c}, data.p.length=${data.p.length}`
+          log.warn(
+            `Count mismatch: data.c=${data.c}, data.p.length=${data.p.length}`
           );
         }
 
@@ -104,7 +106,7 @@ export default function Home() {
         setIsLoadingBuildings(false);
       })
       .catch(error => {
-        console.error('Error loading properties:', error);
+        log.error('Error loading properties:', error);
         setLoadError(error.message);
         setIsLoadingBuildings(false);
       });
@@ -469,7 +471,7 @@ export default function Home() {
       setEditingDocument(doc);
       setEditingContent(content);
     } catch (error) {
-      console.error('Failed to load document for editing:', error);
+      log.error('Failed to load document for editing:', error);
       setErrorAlert('Failed to load document content');
     }
   };

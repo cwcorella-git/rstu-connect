@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('ProfilePage')
 
 import { useState, useEffect, useRef } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -80,7 +82,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     // Sync current profile to Supabase (ensures existing profiles get synced)
     if (p && USE_SUPABASE) {
       syncProfileToSupabase(p).catch(err => {
-        console.error('[ProfilePage] Failed to sync profile to Supabase:', err)
+        log.error('Failed to sync profile to Supabase:', err)
       })
     }
   }, [])
@@ -131,7 +133,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
       // Sync to Supabase (for user list)
       if (USE_SUPABASE) {
         await syncProfileToSupabase(loggedIn).catch(err => {
-          console.error('[ProfilePage] Failed to sync profile to Supabase:', err)
+          log.error('Failed to sync profile to Supabase:', err)
         })
       }
 

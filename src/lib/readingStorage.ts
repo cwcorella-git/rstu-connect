@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Reading')
+
 import { safeJsonParse } from './safeStorage'
 
 interface ReadingProgress {
@@ -54,7 +58,7 @@ export function getReadingState(): ReadingState {
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
     } catch (e) {
-      console.error('[ReadingStorage] Failed to save defaults:', e);
+      log.error('Failed to save defaults:', e);
     }
   }
 
@@ -73,7 +77,7 @@ export function saveReadingProgress(documentId: string, scrollPosition: number, 
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
   } catch (e) {
-    console.error('[ReadingStorage] Failed to save - storage quota may be exceeded:', e)
+    log.error('Failed to save - storage quota may be exceeded:', e)
   }
 }
 
@@ -90,7 +94,7 @@ export function toggleFavorite(documentId: string): boolean {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
   } catch (e) {
-    console.error('[ReadingStorage] Failed to save - storage quota may be exceeded:', e)
+    log.error('Failed to save - storage quota may be exceeded:', e)
   }
   return !isFavorited;
 }

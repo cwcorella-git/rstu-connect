@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('SocketChat')
 
 import { useState, useEffect, useCallback, useRef } from 'react'
 import { getSocket } from '@/lib/socketio'
@@ -34,7 +36,7 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
 
     const socket = getSocket()
     if (!socket) {
-      console.error('[useSocketChat] Failed to initialize Socket.io')
+      log.error('Failed to initialize Socket.io')
       return
     }
 
@@ -110,7 +112,7 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
 
     const socket = socketRef.current
     if (!socket || !socket.connected) {
-      console.error('[useSocketChat] Cannot send message: not connected')
+      log.error('Cannot send message: not connected')
       return
     }
 
@@ -127,7 +129,7 @@ export function useSocketChat(chatSlug: string): UseSocketChatReturn {
   const deleteMessage = useCallback((messageId: string, username: string) => {
     const socket = socketRef.current
     if (!socket || !socket.connected) {
-      console.error('[useSocketChat] Cannot delete message: not connected')
+      log.error('Cannot delete message: not connected')
       return
     }
 

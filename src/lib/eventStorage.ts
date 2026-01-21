@@ -1,4 +1,7 @@
 'use client'
+import { createLogger } from './logger'
+
+const log = createLogger('Event')
 
 /**
  * Event Storage - CRUD operations for building events
@@ -135,7 +138,7 @@ export function getAllEvents(): BuildingEvent[] {
     if (!stored) return []
     return JSON.parse(stored)
   } catch (error) {
-    console.error('[EventStorage] Error loading events:', error)
+    log.error('Error loading events:', error)
     return []
   }
 }
@@ -147,7 +150,7 @@ function saveAllEvents(events: BuildingEvent[]): void {
   try {
     localStorage.setItem(EVENTS_STORAGE_KEY, JSON.stringify(events))
   } catch (error) {
-    console.error('[EventStorage] Error saving events:', error)
+    log.error('Error saving events:', error)
   }
 }
 
@@ -291,7 +294,7 @@ export async function createEventSecure(
       })
 
       if (error) {
-        console.error('[EventStorage] Server error creating event:', error)
+        log.error('Server error creating event:', error)
         return { success: false, error: error.message }
       }
 
@@ -326,14 +329,14 @@ export async function createEventSecure(
       if (e instanceof OfflineError) {
         // Fall through to offline handling
       } else {
-        console.error('[EventStorage] Failed to create event:', e)
+        log.error('Failed to create event:', e)
         return { success: false, error: 'Failed to create event' }
       }
     }
   }
 
   // Offline or no Supabase - use local storage only (less secure)
-  console.warn('[EventStorage] Creating event in offline mode - no server validation')
+  log.warn('Creating event in offline mode - no server validation')
   const localEvent = createEventLocal(event)
   if (!localEvent) {
     return { success: false, error: 'Failed to create event locally' }
@@ -372,7 +375,7 @@ export function createEvent(event: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsv
   // Check rate limit
   const rateLimitResult = tryAction('event_create', event.createdBy)
   if (!rateLimitResult.allowed) {
-    console.warn('[EventStorage] Rate limited:', rateLimitResult.error)
+    log.warn('Rate limited:', rateLimitResult.error)
     return null
   }
 
@@ -401,7 +404,7 @@ export async function updateEventSecure(
       })
 
       if (error) {
-        console.error('[EventStorage] Server error updating event:', error)
+        log.error('Server error updating event:', error)
         return { success: false, error: error.message }
       }
 
@@ -416,13 +419,13 @@ export async function updateEventSecure(
       if (e instanceof OfflineError) {
         return { success: false, error: 'Cannot update events while offline' }
       }
-      console.error('[EventStorage] Failed to update event:', e)
+      log.error('Failed to update event:', e)
       return { success: false, error: 'Failed to update event' }
     }
   }
 
   // Offline - update local only with warning
-  console.warn('[EventStorage] Updating event in offline mode - no server validation')
+  log.warn('Updating event in offline mode - no server validation')
   const updatedEvent = updateEventLocal(eventId, updates)
   if (!updatedEvent) {
     return { success: false, error: 'Event not found' }
@@ -462,7 +465,7 @@ export async function deleteEventSecure(
       })
 
       if (error) {
-        console.error('[EventStorage] Server error deleting event:', error)
+        log.error('Server error deleting event:', error)
         return { success: false, error: error.message }
       }
 
@@ -477,7 +480,7 @@ export async function deleteEventSecure(
       if (e instanceof OfflineError) {
         return { success: false, error: 'Cannot delete events while offline' }
       }
-      console.error('[EventStorage] Failed to delete event:', e)
+      log.error('Failed to delete event:', e)
       return { success: false, error: 'Failed to delete event' }
     }
   }

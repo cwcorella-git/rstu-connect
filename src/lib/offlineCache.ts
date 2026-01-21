@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('OfflineCache')
+
 /**
  * Offline Cache Module
  *
@@ -68,7 +72,7 @@ function saveCacheMeta(meta: CacheMeta): void {
     localStorage.setItem(CACHE_META_KEY, JSON.stringify(meta))
   } catch (e) {
     // Storage quota exceeded - clear old entries
-    console.warn('[OfflineCache] Storage quota exceeded, clearing old entries')
+    log.warn('Storage quota exceeded, clearing old entries')
     pruneOldEntries()
   }
 }
@@ -112,7 +116,7 @@ export function cacheForOffline<T>(
     saveCacheMeta(meta)
   } catch (e) {
     // Storage quota exceeded
-    console.warn('[OfflineCache] Failed to cache data for', key)
+    log.warn('Failed to cache data for', key)
     pruneOldEntries()
   }
 }

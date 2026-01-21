@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('OrganizingProgress')
 
 import { useState, useEffect, useCallback } from 'react'
 import { getCurrentProfile, type UserProfile } from '@/lib/profileStorage'
@@ -81,7 +83,7 @@ export function useOrganizingProgress(
               lastActive: new Date(p.last_active).getTime(),
             }))
         } catch (err) {
-          console.error('[useOrganizingProgress] Error fetching profiles:', err)
+          log.error('Error fetching profiles:', err)
           // Continue with empty members - canvass data still useful
         }
       }
@@ -112,7 +114,7 @@ export function useOrganizingProgress(
         canSeeUnitDetails,
       })
     } catch (err) {
-      console.error('[useOrganizingProgress] Error:', err)
+      log.error('Error:', err)
       setError('Failed to load organizing progress')
     } finally {
       setIsLoading(false)

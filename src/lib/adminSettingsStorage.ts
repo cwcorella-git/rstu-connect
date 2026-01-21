@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('AdminSettings')
+
 /**
  * Admin Settings Storage
  * Site-wide settings controlled by admins that affect all users
@@ -114,7 +118,7 @@ export function saveAdminSettings(
   adminProfileId?: string
 ): boolean {
   if (!isAdmin()) {
-    console.warn('[AdminSettings] Non-admin attempted to save admin settings')
+    log.warn('Non-admin attempted to save admin settings')
     return false
   }
 
@@ -136,7 +140,7 @@ export function updateAdminSettings(
   adminProfileId?: string
 ): AdminSettings | null {
   if (!isAdmin()) {
-    console.warn('[AdminSettings] Non-admin attempted to update admin settings')
+    log.warn('Non-admin attempted to update admin settings')
     return null
   }
 

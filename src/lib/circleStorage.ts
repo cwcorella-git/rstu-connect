@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Circle')
+
 // Circle storage for tenant-created interest groups
 // Lightweight alternative to Collectives - any tenant can create
 
@@ -75,7 +79,7 @@ function saveCircleState(circles: Circle[]): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(circles))
   } catch (e) {
-    console.error('[CircleStorage] Failed to save:', e)
+    log.error('Failed to save:', e)
   }
 }
 
@@ -128,7 +132,7 @@ export function createCircle(data: {
 }): Circle | null {
   const profile = getCurrentProfile()
   if (!profile) {
-    console.error('[CircleStorage] Must be logged in to create a circle')
+    log.error('Must be logged in to create a circle')
     return null
   }
 
@@ -177,7 +181,7 @@ export function updateCircle(id: string, updates: Partial<Omit<Circle, 'id' | 'c
 
   // Only creator can update
   if (circle.creatorId !== profile.id) {
-    console.error('[CircleStorage] Only the creator can update this circle')
+    log.error('Only the creator can update this circle')
     return null
   }
 
@@ -212,7 +216,7 @@ export function deleteCircle(id: string): boolean {
 
   // Only creator can delete
   if (circle.creatorId !== profile.id) {
-    console.error('[CircleStorage] Only the creator can delete this circle')
+    log.error('Only the creator can delete this circle')
     return false
   }
 
@@ -246,7 +250,7 @@ export function joinCircle(circleId: string): boolean {
 
   // Check if circle is open
   if (!circle.isOpen) {
-    console.error('[CircleStorage] This circle requires an invitation')
+    log.error('This circle requires an invitation')
     return false
   }
 
@@ -282,7 +286,7 @@ export function leaveCircle(circleId: string): boolean {
 
   // Creator cannot leave their own circle
   if (circle.creatorId === profile.id) {
-    console.error('[CircleStorage] Creator cannot leave their own circle. Delete it instead.')
+    log.error('Creator cannot leave their own circle. Delete it instead.')
     return false
   }
 

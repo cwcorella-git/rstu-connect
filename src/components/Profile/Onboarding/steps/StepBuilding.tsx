@@ -1,4 +1,6 @@
 'use client';
+import { createLogger } from '@/lib/logger'
+const log = createLogger('Onboarding')
 
 import { useState, useEffect, useRef } from 'react';
 import type { EnhancedBuilding } from '@/lib/getBuildingsData';
@@ -67,7 +69,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
         setAllProperties(data.p || []);
       })
       .catch((err) => {
-        console.error('[StepBuilding] Failed to load properties:', err);
+        log.error('Failed to load properties:', err);
       });
   }, []);
 
@@ -120,7 +122,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
             return;
           }
         } catch (err) {
-          console.error('[StepBuilding] Supabase search failed:', err);
+          log.error('Supabase search failed:', err);
         }
       }
 

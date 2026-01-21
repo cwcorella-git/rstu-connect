@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('PropertyMap')
 
 import { useEffect, useRef, useState } from 'react';
 import maplibregl from 'maplibre-gl';
@@ -337,12 +339,12 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       });
 
       map.current.on('error', (e) => {
-        console.error('[PropertyMap] Map error:', e);
+        log.error('Map error:', e);
         setMapError('Failed to load map tiles');
       });
 
     } catch (error) {
-      console.error('[PropertyMap] Map initialization error:', error);
+      log.error('Map initialization error:', error);
       setMapError('Failed to initialize map');
     }
 

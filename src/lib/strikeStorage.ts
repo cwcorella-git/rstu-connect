@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Strike')
+
 // Rent strike preparation tracking
 // Supports both localStorage (offline) and Supabase (cloud sync)
 
@@ -133,7 +137,7 @@ function saveStrikeState(state: StrikeState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch (e) {
-    console.error('[StrikeStorage] Failed to save - storage quota may be exceeded:', e)
+    log.error('Failed to save - storage quota may be exceeded:', e)
   }
 }
 
@@ -823,7 +827,7 @@ export function createStrikeProposal(strikeId: string): string | null {
   // Check readiness before creating proposal
   const readiness = calculateStrikeReadiness(strikeId)
   if (!readiness.legalReady || !readiness.participationReady || !readiness.defenseReady) {
-    console.warn('[StrikeStorage] Cannot create strike proposal - readiness not met')
+    log.warn('Cannot create strike proposal - readiness not met')
     return null
   }
 
@@ -834,7 +838,7 @@ export function createStrikeProposal(strikeId: string): string | null {
   })
 
   if (!proposal) {
-    console.error('[StrikeStorage] Failed to create rent-strike proposal')
+    log.error('Failed to create rent-strike proposal')
     return null
   }
 

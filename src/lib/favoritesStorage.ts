@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Favorites')
+
 // Simple localStorage utility for favorite properties
 
 const STORAGE_KEY = 'rstu-favorite-properties';
@@ -29,7 +33,7 @@ export function toggleFavorite(apn: string): boolean {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(Array.from(favorites)));
   } catch (e) {
-    console.error('[FavoritesStorage] Failed to save - storage quota may be exceeded:', e)
+    log.error('Failed to save - storage quota may be exceeded:', e)
   }
   return isNowFavorite;
 }

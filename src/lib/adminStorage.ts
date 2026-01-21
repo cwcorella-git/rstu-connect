@@ -1,4 +1,7 @@
 'use client'
+import { createLogger } from './logger'
+
+const log = createLogger('Admin')
 
 import { isAdmin as checkProfileAdmin, getCurrentProfile } from './profileStorage'
 import { safeJsonParse } from './safeStorage'
@@ -71,7 +74,7 @@ export async function verifyAdminPassword(password: string): Promise<boolean> {
 
   // Legacy auth disabled if no password hash configured
   if (!PASSWORD_HASH) {
-    console.warn('[AdminStorage] Legacy password auth is disabled. Use profile-based auth instead.');
+    log.warn('Legacy password auth is disabled. Use profile-based auth instead.');
     return false;
   }
 
@@ -91,7 +94,7 @@ export async function verifyAdminPassword(password: string): Promise<boolean> {
     try {
       localStorage.setItem(AUTH_KEY, JSON.stringify(auth));
     } catch (e) {
-      console.error('[AdminStorage] Failed to save auth - storage quota may be exceeded:', e)
+      log.error('Failed to save auth - storage quota may be exceeded:', e)
     }
     return true;
   }
@@ -131,7 +134,7 @@ export function saveAdminState(state: AdminState) {
   try {
     localStorage.setItem(ADMIN_KEY, JSON.stringify(state));
   } catch (e) {
-    console.error('[AdminStorage] Failed to save state - storage quota may be exceeded:', e)
+    log.error('Failed to save state - storage quota may be exceeded:', e)
   }
 }
 
@@ -221,7 +224,7 @@ export function saveDocumentEdit(documentId: string, title: string, content: str
   try {
     localStorage.setItem(EDITS_KEY, JSON.stringify(edits));
   } catch (e) {
-    console.error('[AdminStorage] Failed to save edit - storage quota may be exceeded:', e)
+    log.error('Failed to save edit - storage quota may be exceeded:', e)
   }
 }
 
@@ -238,7 +241,7 @@ export function deleteDocumentEdit(documentId: string) {
   try {
     localStorage.setItem(EDITS_KEY, JSON.stringify(edits));
   } catch (e) {
-    console.error('[AdminStorage] Failed to save after delete - storage quota may be exceeded:', e)
+    log.error('Failed to save after delete - storage quota may be exceeded:', e)
   }
 }
 
@@ -276,7 +279,7 @@ export async function syncAdminStateFromDatabase(): Promise<AdminState> {
     saveAdminState(mergedState)
     return mergedState
   } catch (error) {
-    console.error('[AdminStorage] Failed to sync from database:', error)
+    log.error('Failed to sync from database:', error)
     return localState
   }
 }
@@ -311,12 +314,12 @@ export async function syncDocumentEditsFromDatabase(): Promise<Record<string, Do
     try {
       localStorage.setItem(EDITS_KEY, JSON.stringify(mergedEdits))
     } catch (e) {
-      console.error('[AdminStorage] Failed to save merged edits:', e)
+      log.error('Failed to save merged edits:', e)
     }
 
     return mergedEdits
   } catch (error) {
-    console.error('[AdminStorage] Failed to sync edits from database:', error)
+    log.error('Failed to sync edits from database:', error)
     return localEdits
   }
 }
@@ -468,7 +471,7 @@ export function toggleDocumentFeatured(documentId: string): boolean {
       return true
     }
   } catch (e) {
-    console.error('[AdminStorage] Failed to toggle featured document:', e)
+    log.error('Failed to toggle featured document:', e)
     return false
   }
 }
@@ -490,7 +493,7 @@ export async function toggleDocumentFeaturedAsync(documentId: string): Promise<b
       // For now, we'll just sync to localStorage
       // If Supabase is set up, the actual sync can be implemented in supabase.ts
     } catch (e) {
-      console.error('[AdminStorage] Failed to sync featured document to database:', e)
+      log.error('Failed to sync featured document to database:', e)
     }
   }
 

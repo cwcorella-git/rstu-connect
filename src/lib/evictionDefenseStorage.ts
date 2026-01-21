@@ -1,4 +1,7 @@
 'use client'
+import { createLogger } from './logger'
+
+const log = createLogger('EvictionDefense')
 
 import { randomUUID } from 'crypto'
 import { sanitizeText, sanitizeRichText } from './sanitize'
@@ -630,7 +633,7 @@ function setState(state: EvictionDefenseState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch {
-    console.error('[EvictionDefense] Failed to save eviction defense cases')
+    log.error('Failed to save eviction defense cases')
   }
 }
 
@@ -1146,7 +1149,7 @@ export function dismissEvictionAlert(caseId: string, profileId: string): void {
     }
     localStorage.setItem(DISMISSED_ALERTS_KEY, JSON.stringify(dismissed))
   } catch {
-    console.error('[EvictionDefense] Failed to dismiss eviction alert')
+    log.error('Failed to dismiss eviction alert')
   }
 }
 

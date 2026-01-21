@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('InviteCode')
 
 import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -113,7 +115,7 @@ export function InviteCodeManager() {
         setBuildings(expanded)
       })
       .catch(err => {
-        console.error('[InviteCodeManager] Failed to load buildings:', err)
+        log.error('Failed to load buildings:', err)
       })
   }, [])
 
@@ -130,7 +132,7 @@ export function InviteCodeManager() {
         width: 200,
         margin: 2,
         color: { dark: '#000000', light: '#ffffff' }
-      }).then(setQrCodeDataUrl).catch(console.error)
+      }).then(setQrCodeDataUrl).catch(err => log.error('Failed to generate QR code:', err))
     } else {
       setQrCodeDataUrl(null)
     }

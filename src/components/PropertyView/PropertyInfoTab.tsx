@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('PropertyInfo')
 
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
 import React, { useState, useEffect, useMemo } from 'react';
@@ -190,7 +192,7 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
         setEvictionStats(stats);
         setLandlordScore(score);
       } catch (err) {
-        console.error('[PropertyInfo] Failed to load intelligence data:', err);
+        log.error('Failed to load intelligence data:', err);
       } finally {
         setLoadingIntel(false);
       }

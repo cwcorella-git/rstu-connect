@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('LegalAidReferral')
+
 /**
  * Legal Aid Referral System
  * Generates pre-filled intake forms for Northern Nevada Legal Aid
@@ -120,7 +124,7 @@ export function copyLegalAidEmailTemplate(data: LegalAidReferralData): boolean {
     navigator.clipboard.writeText(emailContent)
     return true
   } catch (error) {
-    console.error('[LegalAid] Failed to copy legal aid email:', error)
+    log.error('Failed to copy legal aid email:', error)
     return false
   }
 }

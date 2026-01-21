@@ -1,4 +1,7 @@
 'use client'
+import { createLogger } from './logger'
+
+const log = createLogger('Socketio')
 
 import { io, Socket } from 'socket.io-client'
 
@@ -46,12 +49,12 @@ export function getSocket(): Socket | null {
       // Throttle error logging to avoid console spam
       if (now - lastErrorLogTime > ERROR_LOG_THROTTLE_MS) {
         lastErrorLogTime = now
-        console.warn(`[Socket.io] Chat server unavailable (attempt ${connectionErrorCount})`)
+        log.warn(`Chat server unavailable (attempt ${connectionErrorCount})`)
       }
     })
 
     socketInstance.on('error', ({ code, message }) => {
-      console.error(`[Socket.io] Server error [${code}]:`, message)
+      log.error(`Server error [${code}]:`, message)
     })
   }
 

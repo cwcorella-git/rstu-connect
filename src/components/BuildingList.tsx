@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('BuildingList')
 
 import { useState, useMemo, useEffect, useCallback, useRef, useDeferredValue } from 'react';
 import { EnhancedBuilding } from '@/lib/getBuildingsData';
@@ -183,7 +185,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
         setIsLoading(false);
       })
       .catch(err => {
-        console.error('[BuildingList] Failed to load all properties:', err);
+        log.error('Failed to load all properties:', err);
         setIsLoading(false);
       });
   }, []);

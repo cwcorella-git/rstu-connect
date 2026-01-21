@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('MutualAid')
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -83,7 +85,7 @@ export function FormCollectiveModal({ isOpen, onClose, onCreated }: FormCollecti
       onCreated?.(org.id)
       handleClose()
     } catch (e) {
-      console.error('[FormCollective] Error creating collective:', e)
+      log.error('Error creating collective:', e)
       setError(t('collective.errorTryAgain'))
     } finally {
       setIsSubmitting(false)

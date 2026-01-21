@@ -1,4 +1,7 @@
 'use client'
+import { createLogger } from './logger'
+
+const log = createLogger('DirectMessage')
 
 import { getCurrentProfile } from './profileStorage'
 import { sanitizeText } from './sanitize'
@@ -78,7 +81,7 @@ function getState(): DirectMessageState {
       return JSON.parse(stored)
     }
   } catch (e) {
-    console.error('[DirectMessage] Failed to parse DM state:', e)
+    log.error('Failed to parse DM state:', e)
   }
   return { threads: [], messages: {}, lastModified: 0 }
 }
@@ -89,7 +92,7 @@ function saveState(state: DirectMessageState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch (e) {
-    console.error('[DirectMessageStorage] Failed to save - storage quota may be exceeded:', e)
+    log.error('Failed to save - storage quota may be exceeded:', e)
     // Try to clean up old messages
     cleanupOldMessages()
   }
@@ -317,7 +320,7 @@ export function sendDirectMessage(
   // Check rate limit
   const rateLimitResult = tryAction('message_send', profile.id)
   if (!rateLimitResult.allowed) {
-    console.warn('[DirectMessage] Rate limited:', rateLimitResult.error)
+    log.warn('Rate limited:', rateLimitResult.error)
     return null
   }
 

@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Organization')
+
 /**
  * Organization Storage
  *
@@ -191,7 +195,7 @@ function saveToStorage<T>(key: string, value: T): void {
   try {
     localStorage.setItem(key, JSON.stringify(value))
   } catch (e) {
-    console.error('[OrganizationStorage] Failed to save to localStorage:', e)
+    log.error('Failed to save to localStorage:', e)
   }
 }
 

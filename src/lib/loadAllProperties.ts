@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('LoadAllProperties')
+
 /**
  * Load all properties from the compressed JSON export.
  * Converts abbreviated keys to full EnhancedBuilding format.
@@ -53,22 +57,22 @@ function generateChatSlug(address: string): string {
  */
 function validateCompressedProperty(p: CompressedProperty, index: number): boolean {
   if (!p.a || typeof p.a !== 'string') {
-    console.error(`[Property Validation] Invalid APN at index ${index}:`, p);
+    log.error(`Invalid APN at index ${index}:`, p);
     return false;
   }
 
   if (!p.d || typeof p.d !== 'string') {
-    console.error(`[Property Validation] Invalid address at index ${index}:`, p);
+    log.error(`Invalid address at index ${index}:`, p);
     return false;
   }
 
   if (!p.o || typeof p.o !== 'string') {
-    console.error(`[Property Validation] Invalid owner at index ${index}:`, p);
+    log.error(`Invalid owner at index ${index}:`, p);
     return false;
   }
 
   if (typeof p.u !== 'number' || p.u < 0) {
-    console.error(`[Property Validation] Invalid units at index ${index}:`, p);
+    log.error(`Invalid units at index ${index}:`, p);
     return false;
   }
 
@@ -134,7 +138,7 @@ export function loadAllProperties(data: AllPropertiesData): EnhancedBuilding[] {
   const totalProperties = data.p?.length || 0;
 
   if (!Array.isArray(data.p)) {
-    console.error('[Property Loading] Invalid data structure: data.p is not an array', data);
+    log.error('Invalid data structure: data.p is not an array', data);
     return [];
   }
 
@@ -148,8 +152,8 @@ export function loadAllProperties(data: AllPropertiesData): EnhancedBuilding[] {
   const filteredCount = totalProperties - buildings.length;
 
   if (filteredCount > 0 && process.env.NODE_ENV === 'development') {
-    console.warn(
-      `[Property Loading] Filtered out ${filteredCount} invalid properties ` +
+    log.warn(
+      `Filtered out ${filteredCount} invalid properties ` +
       `(${totalProperties} total → ${buildings.length} valid)`
     );
   }

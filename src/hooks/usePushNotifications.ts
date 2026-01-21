@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('PushNotifications')
 
 import { useState, useEffect, useCallback } from 'react'
 import { getSocket } from '@/lib/socketio'
@@ -68,7 +70,7 @@ export function usePushNotifications(profileId: string | null) {
         const subscription = await registration.pushManager.getSubscription()
         isSubscribed = subscription !== null
       } catch (err) {
-        console.error('[Push] Error checking subscription:', err)
+        log.error('Error checking subscription:', err)
       }
 
       setState(prev => ({
@@ -160,7 +162,7 @@ export function usePushNotifications(profileId: string | null) {
 
       return true
     } catch (err) {
-      console.error('[Push] Error subscribing:', err)
+      log.error('Error subscribing:', err)
       setState(prev => ({
         ...prev,
         isLoading: false,
@@ -197,7 +199,7 @@ export function usePushNotifications(profileId: string | null) {
 
       return true
     } catch (err) {
-      console.error('[Push] Error unsubscribing:', err)
+      log.error('Error unsubscribing:', err)
       setState(prev => ({
         ...prev,
         isLoading: false,

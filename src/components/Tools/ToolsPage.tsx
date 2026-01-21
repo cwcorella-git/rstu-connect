@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('Tools')
 
 import { useState, useEffect, useMemo, useDeferredValue, useRef } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -159,7 +161,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
         setAllProperties(data.p || [])
       })
       .catch(err => {
-        console.error('[ToolsPage] Failed to load all properties:', err)
+        log.error('Failed to load all properties:', err)
       })
   }, [])
 

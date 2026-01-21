@@ -1,4 +1,7 @@
 'use client'
+import { createLogger } from './logger'
+
+const log = createLogger('Crypto')
 
 /**
  * Client-side encryption utility for sensitive localStorage data
@@ -73,7 +76,7 @@ async function getOrCreateKey(): Promise<CryptoKey> {
       cachedKey = await importKey(storedKey)
       return cachedKey
     } catch (e) {
-      console.warn('[Crypto] Failed to import stored key, generating new one:', e)
+      log.warn('Failed to import stored key, generating new one:', e)
     }
   }
 
@@ -84,7 +87,7 @@ async function getOrCreateKey(): Promise<CryptoKey> {
   try {
     localStorage.setItem(CRYPTO_KEY_STORAGE, exportedKey)
   } catch (e) {
-    console.error('[Crypto] Failed to store encryption key:', e)
+    log.error('Failed to store encryption key:', e)
   }
 
   cachedKey = newKey
@@ -122,7 +125,7 @@ export async function encrypt(plaintext: string): Promise<string> {
 
     return 'enc:' + btoa(String.fromCharCode.apply(null, Array.from(combined)))
   } catch (e) {
-    console.error('[Crypto] Encryption failed:', e)
+    log.error('Encryption failed:', e)
     // Return plaintext as fallback (logged for debugging)
     return plaintext
   }
@@ -165,7 +168,7 @@ export async function decrypt(ciphertext: string): Promise<string> {
     const decoder = new TextDecoder()
     return decoder.decode(decrypted)
   } catch (e) {
-    console.error('[Crypto] Decryption failed:', e)
+    log.error('Decryption failed:', e)
     // Return original value as fallback
     return ciphertext
   }
@@ -181,7 +184,7 @@ export async function setEncrypted(key: string, value: string): Promise<void> {
     const encrypted = await encrypt(value)
     localStorage.setItem(key, encrypted)
   } catch (e) {
-    console.error('[Crypto] Failed to store encrypted value:', e)
+    log.error('Failed to store encrypted value:', e)
   }
 }
 
@@ -214,7 +217,7 @@ export async function getEncryptedJson<T>(key: string, defaultValue: T): Promise
   try {
     return JSON.parse(stored) as T
   } catch (e) {
-    console.warn('[Crypto] Failed to parse decrypted JSON:', e)
+    log.warn('Failed to parse decrypted JSON:', e)
     return defaultValue
   }
 }

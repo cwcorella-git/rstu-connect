@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('EventForm')
 
 import { useState, useMemo } from 'react'
 import {
@@ -124,7 +126,7 @@ export function DayEventForm({
       setDateTime(getInitialDateTime)
     } catch (err) {
       setError('Failed to create event')
-      console.error('[DayEventForm] Error:', err)
+      log.error('Error creating event:', err)
     } finally {
       setIsSubmitting(false)
     }

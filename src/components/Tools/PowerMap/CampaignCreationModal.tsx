@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('Campaign')
 
 import React, { useState, useMemo } from 'react'
 import type { LandlordProperty } from '@/lib/landlordProfileStorage'
@@ -118,7 +120,7 @@ export function CampaignCreationModal({
       alert(`Campaign "${campaignName}" created successfully with ${selectedProperties.length} properties!`)
       onClose()
     } catch (error) {
-      console.error('[CampaignCreation] Failed to create campaign:', error)
+      log.error('Failed to create campaign:', error)
       alert('Failed to create campaign. Please try again.')
     } finally {
       setIsCreating(false)

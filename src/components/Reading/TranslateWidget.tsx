@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('Translate')
 
 import { useEffect, useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -45,7 +47,7 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
     script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'
     script.async = true
     script.onerror = () => {
-      console.error('[TranslateWidget] Failed to load Google Translate script')
+      log.error('Failed to load Google Translate script')
       setLoadError(true)
     }
     document.body.appendChild(script)
@@ -78,7 +80,7 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
       )
       setIsLoaded(true)
     } catch (e) {
-      console.error('[TranslateWidget] Google Translate init error:', e)
+      log.error('Google Translate init error:', e)
       setLoadError(true)
     }
   }

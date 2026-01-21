@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Auth')
+
 /**
  * Server-Authoritative Authentication Service
  *
@@ -186,7 +190,7 @@ export async function getAuthoritativeProfile(): Promise<AuthoritativeProfile | 
     }
   } catch {
     // Network error - return local with warning
-    console.warn('[AuthService] Failed to fetch authoritative profile, using cached data')
+    log.warn('Failed to fetch authoritative profile, using cached data')
     return {
       id: localProfile.id,
       nickname: localProfile.nickname,
@@ -238,7 +242,7 @@ export async function checkBanStatus(
     })
 
     if (error) {
-      console.error('[AuthService] Ban check error:', error)
+      log.error('Ban check error:', error)
       return { banned: false }
     }
 
@@ -254,7 +258,7 @@ export async function checkBanStatus(
 
     return { banned: false }
   } catch {
-    console.warn('[AuthService] Failed to check ban status')
+    log.warn('Failed to check ban status')
     return { banned: false }
   }
 }
@@ -506,7 +510,7 @@ export async function castVote(
     })
 
     if (error) {
-      console.error('[AuthService] Vote error:', error)
+      log.error('Vote error:', error)
       return { success: false, error: error.message }
     }
 

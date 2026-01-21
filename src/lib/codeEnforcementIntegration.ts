@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('CodeEnforcement')
+
 /**
  * Code Enforcement Integration
  * Generates pre-filled complaint URLs for Reno city code enforcement
@@ -138,7 +142,7 @@ export function copyCodeEnforcementEmailTemplate(data: CodeEnforcementComplaintD
     navigator.clipboard.writeText(emailContent)
     return true
   } catch (error) {
-    console.error('[CodeEnforcement] Failed to copy email template:', error)
+    log.error('Failed to copy email template:', error)
     return false
   }
 }

@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('CampaignPanel')
 
 import { useState, useEffect, useMemo } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -47,7 +49,7 @@ export function CampaignPanelContent({ chatSlug, buildingName }: CampaignPanelCo
       setNewNote('')
       refresh()
     } catch (err) {
-      console.error('[CampaignPanel] Failed to add note:', err)
+      log.error('Failed to add note:', err)
     } finally {
       setIsSubmitting(false)
     }

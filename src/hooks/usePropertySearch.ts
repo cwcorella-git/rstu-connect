@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('PropertySearch')
 
 import { useState, useEffect, useRef, useMemo, useDeferredValue } from 'react'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
@@ -104,7 +106,7 @@ export function usePropertySearch(maxResults = 50): UsePropertySearchReturn {
         setIsLoading(false)
       })
       .catch(err => {
-        console.error('Failed to load all properties:', err)
+        log.error('Failed to load all properties:', err)
         setIsLoading(false)
       })
   }, [])

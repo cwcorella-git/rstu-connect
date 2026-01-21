@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('UserList')
 
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import {
@@ -141,7 +143,7 @@ export function useUserList(): UseUserListReturn {
         setProfiles(syncedProfiles)
         setIsLoading(false)
       } catch (err) {
-        console.error('[useUserList] Error fetching profiles:', err)
+        log.error('Error fetching profiles:', err)
         setError('Failed to load users')
         setIsLoading(false)
       }
@@ -282,7 +284,7 @@ export function useUserList(): UseUserListReturn {
       setProfiles(syncedProfiles)
       setIsLoading(false)
     } catch (err) {
-      console.error('[useUserList] Error refreshing profiles:', err)
+      log.error('Error refreshing profiles:', err)
       setError('Failed to refresh users')
       setIsLoading(false)
     }

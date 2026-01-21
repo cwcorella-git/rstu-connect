@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('Feedback')
+
 import { supabase, USE_SUPABASE } from './supabase'
 
 // Type definitions
@@ -43,7 +47,7 @@ function getLocalFeedbackState(): LocalFeedbackState {
       return JSON.parse(stored)
     }
   } catch (e) {
-    console.error('[FeedbackStorage] Error reading localStorage:', e)
+    log.error('Error reading localStorage:', e)
   }
   return { items: [], lastModified: 0 }
 }
@@ -53,7 +57,7 @@ function saveLocalFeedbackState(state: LocalFeedbackState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch (e) {
-    console.error('[FeedbackStorage] Error saving to localStorage:', e)
+    log.error('Error saving to localStorage:', e)
   }
 }
 
@@ -78,13 +82,13 @@ export async function submitFeedback(data: SubmitFeedbackData): Promise<SubmitFe
         .insert([feedbackRecord])
 
       if (error) {
-        console.error('[FeedbackStorage] Supabase insert error:', error)
+        log.error('Supabase insert error:', error)
         // Fall through to localStorage
       } else {
         return { success: true }
       }
     } catch (e) {
-      console.error('[FeedbackStorage] Supabase error:', e)
+      log.error('Supabase error:', e)
       // Fall through to localStorage
     }
   }
@@ -103,7 +107,7 @@ export async function submitFeedback(data: SubmitFeedbackData): Promise<SubmitFe
     saveLocalFeedbackState(state)
     return { success: true }
   } catch (e) {
-    console.error('[FeedbackStorage] localStorage error:', e)
+    log.error('localStorage error:', e)
     return {
       success: false,
       error: 'Failed to save feedback. Please try again.'

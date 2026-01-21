@@ -1,4 +1,6 @@
 'use client'
+import { createLogger } from '@/lib/logger'
+const log = createLogger('VersionInfo')
 
 import { useState, useEffect } from 'react'
 
@@ -23,7 +25,7 @@ export function VersionInfo() {
       })
       .then(data => setVersionData(data))
       .catch(err => {
-        console.warn('[VersionInfo] Failed to load version info:', err)
+        log.warn('Failed to load version info:', err)
       })
   }, [])
 

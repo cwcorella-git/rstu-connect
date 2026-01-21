@@ -1,3 +1,7 @@
+import { createLogger } from './logger'
+
+const log = createLogger('ProfileSync')
+
 // Profile sync client for cross-device persistence
 // Server: rstu-chat-server.onrender.com (Socket.io)
 
@@ -482,7 +486,7 @@ export function subscribeToProfiles(): () => void {
   if (!socket?.connected) return () => {}
 
   if (!hasRole('organizer')) {
-    console.warn('[ProfileSync] Insufficient permissions to subscribe to profiles')
+    log.warn('Insufficient permissions to subscribe to profiles')
     return () => {}
   }
 
