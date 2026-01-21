@@ -1476,8 +1476,7 @@ export function getHabitabilityScore(buildingId: string): HabitabilityScore | nu
     penaltyPoints: number
   }> = []
 
-  for (const issue of Object.keys(HABITABILITY_ISSUES)) {
-    const key = issue
+  for (const { key, label } of HABITABILITY_ISSUES) {
     const count = issueCounts[key] || 0
     const percentUnits = totalUnits > 0 ? (count / totalUnits) * 100 : 0
     const penalty = ISSUE_PENALTIES[key] || 10
@@ -1488,7 +1487,6 @@ export function getHabitabilityScore(buildingId: string): HabitabilityScore | nu
     totalPenalty += deduction
 
     if (count > 0) {
-      const label = HABITABILITY_ISSUES.find(h => h.key === key)?.label || key
       issueBreakdown.push({
         category: key,
         label,

@@ -32,14 +32,14 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
   - [x] `governanceStorage.ts` - voting logic, thresholds, Bookchin principle (67 tests)
   - [x] `electionStorage.ts` - ranked choice calculation (22 tests)
   - [x] `delegateStorage.ts` - weight calculation (15 tests)
-  - [ ] `canvassStorage.ts` - habitability scoring
+  - [x] `canvassStorage.ts` - habitability scoring, unit CRUD, profile linking (80 tests)
 - [ ] Write component tests for key UI:
   - [ ] `RankedChoiceVoting.tsx` - drag/drop, vote submission
   - [ ] `DelegateStatusCard.tsx` - progress display
   - [ ] `BuildingList.tsx` - search, filtering
 - [ ] Document TDD workflow for Claude Code
 
-**Test Summary:** 191 tests across 6 suites (authService, smoke, delegateStorage, electionStorage, governanceStorage, profileStorage)
+**Test Summary:** 271 tests across 7 suites (authService, smoke, canvassStorage, delegateStorage, electionStorage, governanceStorage, profileStorage)
 
 ### 2. CI/CD Pipeline
 - [x] Create GitHub Actions workflow (`.github/workflows/deploy.yml` runs tests)
