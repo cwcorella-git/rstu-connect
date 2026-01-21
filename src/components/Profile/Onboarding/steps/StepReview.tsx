@@ -133,13 +133,13 @@ export function StepReview({
         )}
 
         {/* Privacy Notice */}
-        <div className="p-4 bg-blue-50 border border-blue-200 rounded-lg">
-          <h3 className="font-semibold text-blue-900 text-sm mb-2">Privacy & Data</h3>
-          <ul className="text-xs sm:text-sm text-blue-800 space-y-1 list-disc list-inside">
-            <li>Your profile is visible only to organizers and building members</li>
-            <li>We never share your email with landlords or third parties</li>
-            <li>Rent data helps us advocate for better housing policies</li>
-            <li>You can edit or delete your profile anytime</li>
+        <div className="p-4 bg-green-50 border border-green-200 rounded-lg">
+          <h3 className="font-semibold text-green-900 text-sm mb-2">Shared With Organizers Only</h3>
+          <ul className="text-xs sm:text-sm text-green-800 space-y-1 list-disc list-inside">
+            <li>Your profile is visible only to verified organizers and neighbors in your building</li>
+            <li>We never share your information with landlords, property managers, or third parties</li>
+            <li>Aggregate rent data (without names) helps us advocate for better policies</li>
+            <li>You can edit or delete your profile anytime from the Profile tab</li>
           </ul>
         </div>
 

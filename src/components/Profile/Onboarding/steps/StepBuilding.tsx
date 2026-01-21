@@ -202,9 +202,9 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
     <div className="space-y-6">
       {/* Header */}
       <div>
-        <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">Where do you live? (Optional)</h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">Your Property (Optional)</h2>
         <p className="text-sm sm:text-base text-gray-600">
-          Help us connect you with your building community. You can add this later if you prefer.
+          Connect with neighbors in your building. You can skip this and add it later if you prefer.
         </p>
       </div>
 
@@ -311,8 +311,17 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
       {/* Info section */}
       <div className="p-4 bg-blue-50 border border-blue-200 rounded-lg">
         <p className="text-sm text-blue-800 leading-relaxed">
-          <strong>Why your building matters:</strong> Connecting with your building helps us organize local tenant
-          power and support each other.
+          <strong>Why connect to your property?</strong> This lets you chat with neighbors, coordinate on
+          building issues, and build collective power together.
+        </p>
+      </div>
+
+      {/* Privacy notice */}
+      <div className="p-4 bg-green-50 border border-green-200 rounded-lg">
+        <p className="text-xs text-green-800">
+          <strong>Shared with organizers only:</strong> Your property selection is visible only to verified
+          organizers and neighbors in your building. Landlords and property managers cannot access this
+          information.
         </p>
       </div>
     </div>

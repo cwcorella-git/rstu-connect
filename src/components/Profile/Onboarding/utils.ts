@@ -44,9 +44,9 @@ export function getStepTitle(step: OnboardingStep): string {
 export function getStepDescription(step: OnboardingStep): string {
   const descriptions: Record<OnboardingStep, string> = {
     welcome: 'Join your building community',
-    identity: 'Tell us who you are',
-    building: 'Where do you live?',
-    household: 'Tell us about your household',
+    identity: 'Choose how you appear',
+    building: 'Find your property',
+    household: 'Optional household info',
     review: 'Confirm your information',
   };
   return descriptions[step];

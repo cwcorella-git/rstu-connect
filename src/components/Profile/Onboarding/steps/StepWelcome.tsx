@@ -116,10 +116,10 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
     <div className="space-y-6">
       {/* Welcome message */}
       <div>
-        <h2 className="text-2xl font-bold text-gray-900 mb-2">Welcome! 👋</h2>
+        <h2 className="text-2xl font-bold text-gray-900 mb-2">Welcome to RSTU</h2>
         <p className="text-gray-600">
-          Join your building community and connect with neighbors. Start by entering your invite code if you
-          have one.
+          Join your building community and connect with neighbors. Your information stays private and is
+          never shared with landlords.
         </p>
       </div>
 
@@ -220,8 +220,18 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
       {/* Info section */}
       <div className="p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
         <p className="text-sm text-yellow-800">
-          <strong>Invite codes</strong> help us verify you're a real tenant. If you don't have one yet,
-          ask a neighbor, organizer, or reach out at <a href="mailto:contact@renosparkstenantsunion.org" className="underline">contact@renosparkstenantsunion.org</a>
+          <strong>Invite codes</strong> help us verify you're a real tenant and protect our community from
+          bad actors. If you don't have one yet, ask a neighbor, organizer, or reach out at{' '}
+          <a href="mailto:contact@renosparkstenantsunion.org" className="underline">contact@renosparkstenantsunion.org</a>
+        </p>
+      </div>
+
+      {/* Privacy notice */}
+      <div className="p-4 bg-green-50 border border-green-200 rounded-lg">
+        <p className="text-xs text-green-800">
+          <strong>Your privacy is protected:</strong> All information you share is visible only to verified
+          organizers and neighbors in your building. We never share data with landlords, property managers,
+          or third parties.
         </p>
       </div>
     </div>

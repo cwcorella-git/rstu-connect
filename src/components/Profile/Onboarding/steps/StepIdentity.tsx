@@ -119,9 +119,9 @@ export function StepIdentity({
     <div className="space-y-6">
       {/* Header */}
       <div>
-        <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">Who are you?</h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">About You</h2>
         <p className="text-sm sm:text-base text-gray-600">
-          This is how you'll appear to other members in your building community.
+          Choose how you'd like to appear to neighbors in your building community.
         </p>
       </div>
 
@@ -211,10 +211,11 @@ export function StepIdentity({
       </div>
 
       {/* Progressive info section */}
-      <div className="p-4 bg-blue-50 border border-blue-200 rounded-lg">
-        <p className="text-xs sm:text-sm text-blue-800 leading-relaxed">
-          <strong>Privacy tip:</strong> Your email and nickname are visible only to organizers and members of
-          your building. We never share your data with landlords or third parties.
+      <div className="p-4 bg-green-50 border border-green-200 rounded-lg">
+        <p className="text-xs sm:text-sm text-green-800 leading-relaxed">
+          <strong>Shared with organizers only:</strong> Your email and nickname are visible only to verified
+          organizers and neighbors in your building. We never share your information with landlords,
+          property managers, or any third parties.
         </p>
       </div>
     </div>

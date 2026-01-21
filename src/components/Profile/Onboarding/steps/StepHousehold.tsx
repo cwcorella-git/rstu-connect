@@ -173,10 +173,11 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
       </div>
 
       {/* Info section */}
-      <div className="p-4 bg-blue-50 border border-blue-200 rounded-lg">
-        <p className="text-sm text-blue-800 leading-relaxed">
-          <strong>Your data is private:</strong> We use this information to understand housing conditions and advocate
-          for better policies. Your information is never shared with landlords or third parties.
+      <div className="p-4 bg-green-50 border border-green-200 rounded-lg">
+        <p className="text-sm text-green-800 leading-relaxed">
+          <strong>Shared with organizers only:</strong> This data helps us understand housing conditions and
+          advocate for better policies. Your household information is visible only to verified organizers,
+          never to landlords, property managers, or third parties.
         </p>
       </div>
     </div>
