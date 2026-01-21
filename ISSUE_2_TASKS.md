@@ -240,7 +240,7 @@ Current state: Some features use Supabase, many still localStorage-only.
 - [x] Events and RSVPs (2026-01-21)
 - [x] Canvassing records (unit data) (2026-01-21)
 - [ ] Building organizing status
-- [ ] Campaigns
+- [x] Campaigns (2026-01-21)
 - [ ] Mutual aid requests/offers
 - [ ] Linked property groups (blocs)
 - [ ] Direct messages
@@ -260,6 +260,14 @@ Current state: Some features use Supabase, many still localStorage-only.
 - [x] Server functions: `update_canvass_unit_secure()`, `link_profile_to_unit_secure()`, `unlink_profile_from_unit_secure()`, `get_building_habitability_score()`, `record_issue_snapshot()`
 - [x] Updated `DbCanvassUnit` type and `dbToUnit`/`unitToDb` conversion functions
 - Migration file: `infrastructure/supabase/014_canvass_expansion.sql`
+
+**Campaigns migrated to Supabase (2026-01-21):**
+- [x] Created tables: `campaigns`, `campaign_buildings`, `campaign_stage_changes`, `campaign_demands`, `campaign_notes`
+- [x] Added RLS policies (organizers+ only for all campaign operations)
+- [x] Server functions: `create_campaign_secure()`, `update_campaign_stage_secure()`, `update_campaign_outcome_secure()`, `add_campaign_demand_secure()`, `update_campaign_demand_secure()`, `add_campaign_note_secure()`, `link_strike_to_campaign_secure()`, `get_building_campaigns()`
+- [x] Updated `campaignStorage.ts` with async functions: `fetchCampaignsFromServer()`, `updateCampaignStageAsync()`, `updateCampaignOutcomeAsync()`, `addCampaignDemandAsync()`, `updateCampaignDemandAsync()`, `addCampaignNoteAsync()`, `linkStrikeToCampaignAsync()`
+- [x] Added TypeScript types: `DbCampaign`, `DbCampaignBuilding`, `DbCampaignStageChange`, `DbCampaignDemand`, `DbCampaignNote`
+- Migration file: `infrastructure/supabase/015_campaigns_tables.sql`
 
 **For each migration:**
 1. Create Supabase table schema
@@ -315,4 +323,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (Canvassing expanded in Supabase with full UnitRecord fields)*
+*Last updated: 2026-01-21 (Campaigns migrated to Supabase with demands, notes, stage tracking)*

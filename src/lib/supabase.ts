@@ -185,6 +185,66 @@ export interface DbGovernanceProposal {
   created_at: string
 }
 
+export interface DbCampaign {
+  id: string
+  name: string
+  landlord_name: string
+  stage: 'intelligence' | 'organizing' | 'commitment' | 'preparation' | 'active' | 'resolved'
+  outcome: 'pending' | 'won' | 'lost' | 'partial'
+  start_date: string
+  target_date: string | null
+  resolved_date: string | null
+  estimated_units: number | null
+  participating_units: number | null
+  monthly_rent_at_risk: number | null
+  next_action: string | null
+  next_action_date: string | null
+  next_action_assignee: string | null
+  outcome_details: string | null
+  created_by: string | null
+  created_at: string
+  updated_at: string
+}
+
+export interface DbCampaignBuilding {
+  id: string
+  campaign_id: string
+  building_chat_slug: string
+  building_address: string | null
+  strike_preparation_id: string | null
+  created_at: string
+}
+
+export interface DbCampaignStageChange {
+  id: string
+  campaign_id: string
+  stage: 'intelligence' | 'organizing' | 'commitment' | 'preparation' | 'active' | 'resolved'
+  changed_at: string
+  changed_by: string | null
+  created_at: string
+}
+
+export interface DbCampaignDemand {
+  id: string
+  campaign_id: string
+  text: string
+  status: 'proposed' | 'approved' | 'won' | 'lost' | 'compromised'
+  notes: string | null
+  sort_order: number
+  created_at: string
+  updated_at: string
+}
+
+export interface DbCampaignNote {
+  id: string
+  campaign_id: string
+  author: string
+  text: string
+  note_date: string
+  created_by: string | null
+  created_at: string
+}
+
 // ============================================
 // FTS Search Types
 // ============================================
