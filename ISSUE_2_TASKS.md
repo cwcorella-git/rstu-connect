@@ -33,13 +33,13 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
   - [x] `electionStorage.ts` - ranked choice calculation (22 tests)
   - [x] `delegateStorage.ts` - weight calculation (15 tests)
   - [x] `canvassStorage.ts` - habitability scoring, unit CRUD, profile linking (80 tests)
-- [ ] Write component tests for key UI:
-  - [ ] `RankedChoiceVoting.tsx` - drag/drop, vote submission
-  - [ ] `DelegateStatusCard.tsx` - progress display
-  - [ ] `BuildingList.tsx` - search, filtering
-- [ ] Document TDD workflow for Claude Code
+- [x] Write component tests for key UI:
+  - [x] `RankedChoiceVoting.tsx` - drag/drop, vote submission (14 tests)
+  - [x] `DelegateStatusCard.tsx` - progress display (12 tests)
+  - [x] `BuildingList.tsx` - search, filtering (14 tests)
+- [x] Document TDD workflow for Claude Code (`TESTING.md`)
 
-**Test Summary:** 271 tests across 7 suites (authService, smoke, canvassStorage, delegateStorage, electionStorage, governanceStorage, profileStorage)
+**Test Summary:** 311 tests across 10 suites (authService, smoke, canvassStorage, delegateStorage, electionStorage, governanceStorage, profileStorage, RankedChoiceVoting, DelegateStatusCard, BuildingList)
 
 ### 2. CI/CD Pipeline
 - [x] Create GitHub Actions workflow (`.github/workflows/deploy.yml` runs tests)
@@ -288,4 +288,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (Governance refactoring complete)*
+*Last updated: 2026-01-21 (Testing infrastructure complete)*
