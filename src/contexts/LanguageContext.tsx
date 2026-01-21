@@ -434,6 +434,7 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile/User
     'profile.login': 'Login',
     'profile.signInOrCreate': 'Sign in or create a new profile',
+    'profile.votingGovernance': 'Voting & Governance',
     'profile.yourProfiles': 'Your Profiles',
     'profile.createNewProfile': 'Create New Profile',
     'profile.notifications': 'Notifications',
@@ -2201,6 +2202,7 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile/User
     'profile.login': 'Iniciar Sesion',
     'profile.signInOrCreate': 'Inicia sesion o crea un nuevo perfil',
+    'profile.votingGovernance': 'Votacion y Gobernanza',
     'profile.yourProfiles': 'Tus Perfiles',
     'profile.createNewProfile': 'Crear Nuevo Perfil',
     'profile.notifications': 'Notificaciones',
@@ -3915,6 +3917,7 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile/User
     'profile.login': 'Mag-login',
     'profile.signInOrCreate': 'Mag-sign in o lumikha ng bagong profile',
+    'profile.votingGovernance': 'Pagboto at Pamamahala',
     'profile.yourProfiles': 'Ang Iyong Mga Profile',
     'profile.createNewProfile': 'Lumikha ng Bagong Profile',
     'profile.notifications': 'Mga Notipikasyon',
@@ -5727,6 +5730,7 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile/User
     'profile.login': '登录',
     'profile.signInOrCreate': '登录或创建新个人资料',
+    'profile.votingGovernance': '投票与治理',
     'profile.yourProfiles': '你的个人资料',
     'profile.createNewProfile': '创建新个人资料',
     'profile.notifications': '通知',
@@ -7538,6 +7542,7 @@ const translations: Record<Locale, Record<string, string>> = {
     // Profile/User
     'profile.login': 'Đăng nhập',
     'profile.signInOrCreate': 'Đăng nhập hoặc tạo hồ sơ mới',
+    'profile.votingGovernance': 'Bầu cử & Quản trị',
     'profile.yourProfiles': 'Hồ sơ của bạn',
     'profile.createNewProfile': 'Tạo Hồ sơ Mới',
     'profile.notifications': 'Thông báo',
