@@ -373,10 +373,19 @@ $$ LANGUAGE plpgsql SECURITY DEFINER SET search_path = '';
 -- UPDATED_AT TRIGGER
 -- ============================================================================
 
+-- Create generic updated_at trigger function if not exists
+CREATE OR REPLACE FUNCTION update_updated_at_column()
+RETURNS TRIGGER AS $$
+BEGIN
+  NEW.updated_at = NOW();
+  RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
 DROP TRIGGER IF EXISTS building_discrepancies_updated_at ON public.building_discrepancies;
 CREATE TRIGGER building_discrepancies_updated_at
   BEFORE UPDATE ON public.building_discrepancies
-  FOR EACH ROW EXECUTE FUNCTION update_events_tables_updated_at();
+  FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
 
 -- ============================================================================
 -- GRANT PERMISSIONS
