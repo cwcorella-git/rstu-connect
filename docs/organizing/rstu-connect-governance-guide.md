@@ -1,7 +1,7 @@
 ---
 title: "RSTU Connect Governance Guide"
 author: "Reno-Sparks Tenants Union"
-date: 2025
+date: 2026
 ---
 
 # RSTU Connect Governance Guide
@@ -187,6 +187,14 @@ View your delegate status in **Profile > Voting & Governance > Delegate Status**
 - Voting weight (if qualified)
 - Overall delegate network stats
 
+### Voting on App Governance
+
+Navigate to **Profile > Voting & Governance > App Governance** to:
+- View active app-wide proposals
+- Vote on proposals (if you're a qualified delegate)
+- Create new proposals (delegates only)
+- See proposal history
+
 ---
 
 ## 4. TENANT SELF-GOVERNANCE
@@ -318,4 +326,4 @@ For technical issues:
 
 *This document reflects the governance systems as implemented in RSTU Connect. The systems themselves are subject to change through the democratic processes described above.*
 
-*Last updated: January 2025*
+*Last updated: January 2026*

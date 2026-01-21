@@ -280,11 +280,12 @@ Current state: Some features use Supabase, many still localStorage-only.
 - `scripts/archive/create-admin-state-tables.sql` - Example schema
 
 ### Governance Refactoring (from plan mode)
-- [ ] Remove governance tab from Tools page (`src/components/Tools/ToolsPage.tsx`)
-- [ ] Consolidate voting under Profile's Elections/App Governance tabs
-- [ ] Replace simple `DelegateStatusCard` with full `DelegateStatus` component
-- [ ] Write comprehensive governance documentation (`docs/organizing/rstu-connect-governance-guide.md`)
+- [x] Remove governance tab from Tools page (`src/components/Tools/ToolsPage.tsx`) - already done
+- [x] Consolidate voting under Profile's Elections/Delegate/App Governance tabs
+- [x] DelegateStatusCard already has full features (progress bars, activity breakdown, network stats)
+- [x] Add AppGovernancePanel for app-wide proposals (`src/components/Profile/AppGovernancePanel.tsx`)
+- [x] Updated governance documentation (`docs/organizing/rstu-connect-governance-guide.md`)
 
 ---
 
-*Last updated: 2026-01-21 (Playwright E2E tests added)*
+*Last updated: 2026-01-21 (Governance refactoring complete)*
