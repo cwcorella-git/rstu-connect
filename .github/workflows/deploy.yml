@@ -32,6 +32,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
       - name: Run linting
         run: npm run lint
 
@@ -45,6 +48,25 @@ jobs:
           NEXT_PUBLIC_SOCKETIO_URL: https://rstu-chat-server.onrender.com
           NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+
+      - name: Run E2E tests
+        run: |
+          # Create directory structure for basePath /rstu-connect
+          mkdir -p serve-dir
+          ln -s ../out serve-dir/rstu-connect
+          npx serve serve-dir -l 3000 &
+          sleep 3
+          npm run test:e2e -- --project=chromium e2e/smoke.spec.ts
+        env:
+          PLAYWRIGHT_BASE_URL: http://localhost:3000/rstu-connect
+
+      - name: Upload Playwright report
+        uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 7
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

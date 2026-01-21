@@ -4,7 +4,7 @@ import { test, expect } from '@playwright/test';
 const BOOTSTRAP_CODE = process.env.NEXT_PUBLIC_BOOTSTRAP_ADMIN_CODE || 'TEST-BOOTSTRAP-CODE';
 
 test('debug - examine live site with iframe', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('');
   await page.waitForTimeout(5000); // Wait for iframe to load
 
   console.log('=== Page loaded ===');
@@ -54,7 +54,7 @@ test('debug - examine live site with iframe', async ({ page }) => {
 });
 
 test('debug - click Join tab and check inputs', async ({ page }) => {
-  await page.goto('/');
+  await page.goto('');
   await page.waitForTimeout(5000);
 
   const frame = page.frameLocator('#app-frame');
@@ -103,7 +103,7 @@ test('debug - click Join tab and check inputs', async ({ page }) => {
 
 test('debug - test bootstrap URL param', async ({ page }) => {
   // Clear storage first
-  await page.goto('/');
+  await page.goto('');
   await page.waitForTimeout(3000);
 
   const frame = page.frameLocator('#app-frame');

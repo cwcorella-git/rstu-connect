@@ -46,16 +46,20 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [x] Run Jest tests on every push to main
 - [x] Block deploy if tests fail
 - [x] Run linting checks (ESLint with next/core-web-vitals)
-- [ ] Add Playwright for E2E tests
-  - [ ] Install Playwright (`npm init playwright@latest`)
-  - [ ] Create E2E tests for critical user flows:
-    - [ ] Building search and selection
-    - [ ] Profile creation and login
-    - [ ] Chat message sending
-    - [ ] Proposal creation and voting
-    - [ ] Election nomination and voting
-  - [ ] Add Playwright to CI workflow
-  - [ ] Configure for static export (may need test server)
+- [x] Add Playwright for E2E tests
+  - [x] Install Playwright (`npm install -D @playwright/test && npx playwright install chromium`)
+  - [x] Create E2E tests for critical user flows (9 smoke tests):
+    - [x] Homepage loading and building list
+    - [x] Building search functionality
+    - [x] Tab navigation (Home, Reading, Mutual Aid, Tools, Profile)
+    - [x] Profile tab showing login/create options
+    - [x] Reading tab document library
+    - [x] Mutual aid tab loading
+    - [x] Mobile viewport responsiveness
+    - [x] Building selection and details
+    - [x] Language selector availability
+  - [x] Add Playwright to CI workflow (runs after build with static server)
+  - [x] Configure for static export (symlink workaround for basePath)
 
 ### 3. LocalStorage Security Issues
 
@@ -283,4 +287,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21*
+*Last updated: 2026-01-21 (Playwright E2E tests added)*

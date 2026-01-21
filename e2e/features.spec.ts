@@ -7,12 +7,12 @@ test.describe('Recent Features', () => {
 
   test.beforeEach(async ({ page }) => {
     // Clear localStorage before each test
-    await page.goto('/');
+    await page.goto('');
     await page.evaluate(() => localStorage.clear());
   });
 
   test('invite code input accepts 20 characters (bootstrap code length)', async ({ page }) => {
-    await page.goto('/');
+    await page.goto('');
 
     // Click Join tab (it shows +Join icon)
     await page.click('button:has-text("Join")');
@@ -54,7 +54,7 @@ test.describe('Recent Features', () => {
 
   test('bootstrap admin code via URL parameter', async ({ page }) => {
     // Clear localStorage first
-    await page.goto('/');
+    await page.goto('');
     await page.evaluate(() => localStorage.clear());
 
     // Navigate with bootstrap parameter
@@ -81,7 +81,7 @@ test.describe('Recent Features', () => {
   });
 
   test('property search loads all-properties.json', async ({ page }) => {
-    await page.goto('/');
+    await page.goto('');
 
     // Wait for page to fully load
     await page.waitForTimeout(2000);
@@ -113,7 +113,7 @@ test.describe('Recent Features', () => {
   });
 
   test('BuildingMetadata shows tabs after clicking building', async ({ page }) => {
-    await page.goto('/');
+    await page.goto('');
     await page.waitForTimeout(1000);
 
     // Look for building cards
@@ -144,7 +144,7 @@ test.describe('Recent Features', () => {
 
   test('Profile page shows InviteCodeManager for admin users', async ({ page }) => {
     // First create an admin profile in localStorage
-    await page.goto('/');
+    await page.goto('');
     await page.evaluate(() => {
       const profileData = {
         currentProfile: {
@@ -162,7 +162,7 @@ test.describe('Recent Features', () => {
     });
 
     // Reload page
-    await page.goto('/');
+    await page.goto('');
     await page.waitForTimeout(1000);
 
     // Click Join/Profile tab
@@ -182,7 +182,7 @@ test.describe('Recent Features', () => {
 
   test('InviteCodeManager shows role selection when creating invite', async ({ page }) => {
     // Create admin profile
-    await page.goto('/');
+    await page.goto('');
     await page.evaluate(() => {
       const profileData = {
         currentProfile: {
@@ -199,7 +199,7 @@ test.describe('Recent Features', () => {
       localStorage.setItem('rstu_profile_data', JSON.stringify(profileData));
     });
 
-    await page.goto('/');
+    await page.goto('');
     await page.click('button:has-text("Join")');
     await page.waitForTimeout(1000);
 
@@ -227,7 +227,7 @@ test.describe('Recent Features', () => {
   });
 
   test('check maxLength attribute on all inputs', async ({ page }) => {
-    await page.goto('/');
+    await page.goto('');
 
     // Click Join to see profile creation
     await page.click('button:has-text("Join")');
