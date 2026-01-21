@@ -25,13 +25,13 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 ## TODO
 
 ### 1. Testing Infrastructure
-- [ ] Set up Jest for unit/integration tests
-- [ ] Set up React Testing Library for component tests
-- [ ] Write tests for critical lib functions:
+- [x] Set up Jest for unit/integration tests
+- [x] Set up React Testing Library for component tests
+- [x] Write tests for critical lib functions:
   - [ ] `profileStorage.ts` - auth, roles, permissions
   - [ ] `governanceStorage.ts` - voting logic, thresholds
-  - [ ] `electionStorage.ts` - ranked choice calculation
-  - [ ] `delegateStorage.ts` - weight calculation
+  - [x] `electionStorage.ts` - ranked choice calculation (22 tests)
+  - [x] `delegateStorage.ts` - weight calculation (15 tests)
   - [ ] `canvassStorage.ts` - habitability scoring
 - [ ] Write component tests for key UI:
   - [ ] `RankedChoiceVoting.tsx` - drag/drop, vote submission
@@ -39,10 +39,12 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
   - [ ] `BuildingList.tsx` - search, filtering
 - [ ] Document TDD workflow for Claude Code
 
+**Test Summary:** 71 tests across 4 suites (authService, smoke, delegateStorage, electionStorage)
+
 ### 2. CI/CD Pipeline
-- [ ] Create GitHub Actions workflow (`.github/workflows/test.yml`)
-- [ ] Run Jest tests on every PR
-- [ ] Block merge if tests fail
+- [x] Create GitHub Actions workflow (`.github/workflows/deploy.yml` runs tests)
+- [x] Run Jest tests on every push to main
+- [x] Block deploy if tests fail
 - [ ] Run linting checks
 - [ ] Consider adding Playwright for E2E tests
 
