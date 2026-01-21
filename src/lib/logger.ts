@@ -162,9 +162,11 @@ export function logDebug(message: string, options: LogOptions = {}): void {
 }
 
 /**
- * Log at info level
+ * Log at info level (development only)
  */
 export function logInfo(message: string, options: LogOptions = {}): void {
+  if (!IS_DEVELOPMENT) return
+
   const formatted = formatMessage(sanitizeString(message), options)
   const context = options.context ? sanitizeContext(options.context) : undefined
 
@@ -176,9 +178,11 @@ export function logInfo(message: string, options: LogOptions = {}): void {
 }
 
 /**
- * Log at warn level
+ * Log at warn level (development only)
  */
 export function logWarn(message: string, options: LogOptions = {}): void {
+  if (!IS_DEVELOPMENT) return
+
   const formatted = formatMessage(sanitizeString(message), options)
   const context = options.context ? sanitizeContext(options.context) : undefined
 
@@ -282,15 +286,16 @@ export function handleError(
 
 /**
  * Create a category-specific logger
+ * Supports flexible argument patterns for backwards compatibility with console.* calls
  */
 export function createLogger(category: string) {
   return {
-    debug: (message: string, context?: Record<string, unknown>) =>
-      logDebug(message, { category, context }),
-    info: (message: string, context?: Record<string, unknown>) =>
-      logInfo(message, { category, context }),
-    warn: (message: string, context?: Record<string, unknown>) =>
-      logWarn(message, { category, context }),
+    debug: (message: string, ...args: unknown[]) =>
+      logDebug(message + (args.length ? ' ' + args.map(a => typeof a === 'string' ? a : JSON.stringify(a)).join(' ') : ''), { category }),
+    info: (message: string, ...args: unknown[]) =>
+      logInfo(message + (args.length ? ' ' + args.map(a => typeof a === 'string' ? a : JSON.stringify(a)).join(' ') : ''), { category }),
+    warn: (message: string, ...args: unknown[]) =>
+      logWarn(message + (args.length ? ' ' + args.map(a => typeof a === 'string' ? a : JSON.stringify(a)).join(' ') : ''), { category }),
     error: (message: string, error?: unknown, context?: Record<string, unknown>) =>
       logError(message, error, { category, context }),
     handleError: (message: string, error: unknown, errorType?: string) =>

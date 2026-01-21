@@ -2,6 +2,10 @@
  * Safe localStorage wrapper that handles quota exceeded errors gracefully
  */
 
+import { createLogger } from './logger'
+
+const log = createLogger('Storage')
+
 /**
  * Safely parse JSON with error handling and default value
  * Prevents application crashes from malformed localStorage data
@@ -11,7 +15,7 @@ export function safeJsonParse<T>(json: string | null, defaultValue: T): T {
   try {
     return JSON.parse(json) as T
   } catch (e) {
-    console.warn('[Storage] Failed to parse JSON, using default value:', e)
+    log.warn('Failed to parse JSON, using default value', e)
     return defaultValue
   }
 }
@@ -56,7 +60,7 @@ export function safeSetItem(key: string, value: string): boolean {
       e.name === 'QuotaExceededError' ||
       e.name === 'NS_ERROR_DOM_QUOTA_REACHED'
     )) {
-      console.warn(`[Storage] Quota exceeded for key "${key}". Attempting cleanup...`)
+      log.warn(`Quota exceeded for key "${key}". Attempting cleanup...`)
 
       // Try aggressive cleanup and retry
       if (aggressiveCleanup()) {
@@ -64,11 +68,11 @@ export function safeSetItem(key: string, value: string): boolean {
           localStorage.setItem(key, value)
           return true
         } catch {
-          console.error(`[Storage] Still unable to save "${key}" after cleanup`)
+          log.error(`Still unable to save "${key}" after cleanup`)
         }
       }
     } else {
-      console.error(`[Storage] Failed to save "${key}":`, e)
+      log.error(`Failed to save "${key}"`, e)
     }
     return false
   }
@@ -80,7 +84,7 @@ export function safeGetItem(key: string): string | null {
   try {
     return localStorage.getItem(key)
   } catch (e) {
-    console.error(`[Storage] Failed to get "${key}":`, e)
+    log.error(`Failed to get "${key}"`, e)
     return null
   }
 }
@@ -92,7 +96,7 @@ export function safeRemoveItem(key: string): boolean {
     localStorage.removeItem(key)
     return true
   } catch (e) {
-    console.error(`[Storage] Failed to remove "${key}":`, e)
+    log.error(`Failed to remove "${key}"`, e)
     return false
   }
 }

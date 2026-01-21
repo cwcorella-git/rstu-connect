@@ -8,6 +8,9 @@ import { cacheForOffline, getCached, invalidateCachePattern, CacheKeys } from '.
 import { sanitizeText, sanitizeRichText } from './sanitize'
 import { tryAction } from './rateLimit'
 import { getDelegateProfile, canVoteOnAppGovernance, getVotingWeight } from './delegateStorage'
+import { createLogger } from './logger'
+
+const log = createLogger('Governance')
 
 // ============================================================================
 // Types
@@ -308,7 +311,7 @@ function getState(): GovernanceState {
       return JSON.parse(stored)
     }
   } catch (e) {
-    console.error('[GovernanceStorage] Failed to parse governance state:', e)
+    log.error('Failed to parse governance state:', e)
   }
   return { proposals: [], dismissedBanners: [], lastModified: 0 }
 }
@@ -319,7 +322,7 @@ function saveState(state: GovernanceState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch (e) {
-    console.error('[GovernanceStorage] Failed to save - storage quota may be exceeded:', e)
+    log.error('Failed to save - storage quota may be exceeded:', e)
   }
 }
 
@@ -345,7 +348,7 @@ export function createProposal(
   // Check rate limit
   const rateLimitResult = tryAction('proposal_create', profile.id)
   if (!rateLimitResult.allowed) {
-    console.warn('[Governance] Rate limited:', rateLimitResult.error)
+    log.warn('Rate limited:', rateLimitResult.error)
     return null
   }
 
@@ -403,14 +406,14 @@ export function createAppWideProposal(
   // Check if proposer is a qualified delegate
   const eligibility = canVoteOnAppWideProposal(profile.id)
   if (!eligibility.canVote) {
-    console.warn(`[Governance] App proposal rejected: ${eligibility.reason}`)
+    log.warn(`App proposal rejected: ${eligibility.reason}`)
     return null
   }
 
   // Check rate limit
   const rateLimitResult = tryAction('proposal_create', profile.id)
   if (!rateLimitResult.allowed) {
-    console.warn('[Governance] Rate limited:', rateLimitResult.error)
+    log.warn('Rate limited:', rateLimitResult.error)
     return null
   }
 
@@ -424,7 +427,7 @@ export function createAppWideProposal(
          p.targetValue === options.targetValue
   )
   if (duplicate) {
-    console.warn('[Governance] Duplicate app proposal already exists')
+    log.warn('Duplicate app proposal already exists')
     return null
   }
 
@@ -550,7 +553,7 @@ export function voteOnProposal(
   if (isAppWideProposal(proposal)) {
     const voteEligibility = canVoteOnAppWideProposal(profile.id)
     if (!voteEligibility.canVote) {
-      console.warn(`[Governance] Vote rejected: ${voteEligibility.reason}`)
+      log.warn(`Vote rejected: ${voteEligibility.reason}`)
       return null
     }
 
@@ -704,7 +707,7 @@ export async function voteOnProposalAsync(
       if (e instanceof OfflineError) {
         return { success: false, error: e.message }
       }
-      console.error('[GovernanceStorage] Server vote error:', e)
+      log.error('Server vote error:', e)
       return { success: false, error: 'Failed to cast vote' }
     }
   }
@@ -792,7 +795,7 @@ export async function createProposalAsync(
       })
 
       if (error) {
-        console.error('[GovernanceStorage] Server error creating proposal:', error)
+        log.error('Server error creating proposal:', error)
         return { success: false, error: error.message }
       }
 
@@ -833,10 +836,10 @@ export async function createProposalAsync(
     } catch (e) {
       if (e instanceof OfflineError) {
         // Fall through to offline handling
-        console.warn('[GovernanceStorage] Offline - cannot create proposal without server validation')
+        log.warn('Offline - cannot create proposal without server validation')
         return { success: false, error: 'Cannot create proposals while offline' }
       }
-      console.error('[GovernanceStorage] Failed to create proposal:', e)
+      log.error('Failed to create proposal:', e)
       return { success: false, error: 'Failed to create proposal' }
     }
   }

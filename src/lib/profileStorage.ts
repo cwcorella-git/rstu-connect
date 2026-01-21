@@ -3,6 +3,9 @@
 
 import { supabase, USE_SUPABASE, DbProfile, DbInviteCode } from './supabase'
 import { safeJsonParse } from './safeStorage'
+import { createLogger } from './logger'
+
+const log = createLogger('Profile')
 
 // User roles with increasing permissions
 export type UserRole = 'tenant' | 'organizer' | 'admin'
@@ -574,7 +577,7 @@ export function bootstrapFirstAdmin(inputCode: string, nickname?: string, passwo
   try {
     localStorage.setItem('rstu_admin_hash', passwordHash)
   } catch (e) {
-    console.error('[ProfileStorage] Failed to save admin hash:', e)
+    log.error('Failed to save admin hash:', e)
   }
 
   state.currentProfile = profile
@@ -603,7 +606,7 @@ export function setPasswordHashForProfile(profileId: string, passwordHash: strin
     hashMap[profileId] = passwordHash
     localStorage.setItem('rstu_profile_hashes', JSON.stringify(hashMap))
   } catch (e) {
-    console.error('[ProfileStorage] Failed to save profile password hash:', e)
+    log.error('Failed to save profile password hash:', e)
   }
 }
 
@@ -663,7 +666,7 @@ function saveProfileState(state: ProfileState): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   } catch (e) {
-    console.error('[ProfileStorage] Failed to save - storage quota may be exceeded:', e)
+    log.error('Failed to save - storage quota may be exceeded:', e)
   }
 }
 
@@ -998,7 +1001,7 @@ export function loginToProfile(profileId: string, password?: string): UserProfil
     const storedHash = getPasswordHashForProfile(profileId)
 
     if (!storedHash || passwordHash !== storedHash) {
-      console.warn('[ProfileStorage] Invalid password for profile:', profileId)
+      log.warn('Invalid password for profile:', profileId)
       return null
     }
   }
@@ -1392,7 +1395,7 @@ export function mergeRemoteProfile(remoteProfile: UserProfile): UserProfile | nu
   }
 
   // Different profile ID - shouldn't happen, keep local
-  console.warn('[ProfileStorage] Remote profile ID mismatch, keeping local')
+  log.warn('Remote profile ID mismatch, keeping local')
   return localProfile
 }
 
@@ -1494,7 +1497,7 @@ export function verifyProfile(userId: string, verifiedBy: string): boolean {
 
   // Only organizers and admins can verify
   if (!currentUser || (currentUser.role !== 'organizer' && currentUser.role !== 'admin')) {
-    console.error('[ProfileStorage] Only organizers/admins can verify users')
+    log.error('Only organizers/admins can verify users')
     return false
   }
 
@@ -1509,7 +1512,7 @@ export function verifyProfile(userId: string, verifiedBy: string): boolean {
   const profile = allProfiles.find(p => p.id === userId)
 
   if (!profile) {
-    console.error('[ProfileStorage] Profile not found')
+    log.error('Profile not found')
     return false
   }
 
@@ -1543,7 +1546,7 @@ export function verifyProfile(userId: string, verifiedBy: string): boolean {
   })
 
   // Sync to Supabase if available (fire-and-forget)
-  syncVerificationToSupabase(userId, verifiedBy).catch(console.error)
+  syncVerificationToSupabase(userId, verifiedBy).catch(e => log.error('Async operation failed', e))
 
   return true
 }
@@ -1578,7 +1581,7 @@ async function syncVerificationToSupabase(userId: string, verifiedBy: string): P
       // Table might not exist yet, that's ok
     }
   } catch (error) {
-    console.error('[ProfileStorage] Failed to sync verification to Supabase:', error)
+    log.error('Failed to sync verification to Supabase:', error)
   }
 }
 
@@ -1591,7 +1594,7 @@ export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: str
 
   // Only organizers and admins can verify
   if (!currentUser || (currentUser.role !== 'organizer' && currentUser.role !== 'admin')) {
-    console.error('[VerifyProfile] Only organizers/admins can verify users')
+    log.error('Only organizers/admins can verify users')
     return false
   }
 
@@ -1611,13 +1614,13 @@ export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: str
         .eq('id', userId)
 
       if (error) {
-        console.error('[VerifyProfile] Supabase update failed:', error.message)
+        log.error('Supabase update failed:', error.message)
         return localSuccess // Return local result if Supabase fails
       }
 
       return true
     } catch (err) {
-      console.error('[VerifyProfile] Supabase error:', err)
+      log.error('Supabase error:', err)
       return localSuccess
     }
   }
@@ -1634,7 +1637,7 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
 
   // Check permissions - only organizers and admins can delete
   if (!currentUser || (currentUser.role !== 'organizer' && currentUser.role !== 'admin')) {
-    console.error('[DeleteProfile] Only organizers/admins can delete profiles')
+    log.error('Only organizers/admins can delete profiles')
     return false
   }
 
@@ -1670,7 +1673,7 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
   }
 
   if (!profileToDelete) {
-    console.error('[DeleteProfile] Profile not found')
+    log.error('Profile not found')
     return false
   }
 
@@ -1680,7 +1683,7 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
   const targetUserRoleIndex = roleHierarchy.indexOf(profileToDelete.role)
 
   if (currentUserRoleIndex <= targetUserRoleIndex) {
-    console.error('[DeleteProfile] Cannot delete user with same or higher role')
+    log.error('Cannot delete user with same or higher role')
     return false
   }
 
@@ -1702,7 +1705,7 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
         .eq('id', profileId)
 
       if (error) {
-        console.error('[DeleteProfile] Supabase delete failed:', error.message)
+        log.error('Supabase delete failed:', error.message)
         // RLS may block delete - this is expected with anon key
         // Return false to indicate failure
         return false
@@ -1713,7 +1716,7 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
     } catch (err) {
       // Log error but don't expose details to user
       if (process.env.NODE_ENV === 'development') {
-        console.error('[DeleteProfile] Supabase error:', err)
+        log.error('Supabase error:', err)
       }
       return false
     }
@@ -1731,7 +1734,7 @@ export async function banProfile(profileId: string): Promise<boolean> {
 
   // Only admins can ban
   if (!currentUser || currentUser.role !== 'admin') {
-    console.error('[BanProfile] Only admins can ban profiles')
+    log.error('Only admins can ban profiles')
     return false
   }
 
@@ -1741,19 +1744,19 @@ export async function banProfile(profileId: string): Promise<boolean> {
   let profileToBan = state.currentProfile?.id === profileId ? state.currentProfile : state.storedProfiles.find(p => p.id === profileId)
 
   if (!profileToBan) {
-    console.error('[BanProfile] Profile not found')
+    log.error('Profile not found')
     return false
   }
 
   // Cannot ban other admins
   if (profileToBan.role === 'admin') {
-    console.error('[BanProfile] Cannot ban admin users')
+    log.error('Cannot ban admin users')
     return false
   }
 
   // Cannot ban self
   if (profileToBan.id === currentUser.id) {
-    console.error('[BanProfile] Cannot ban yourself')
+    log.error('Cannot ban yourself')
     return false
   }
 
@@ -1794,7 +1797,7 @@ export async function unbanProfile(profileId: string): Promise<boolean> {
 
   // Only admins can unban
   if (!currentUser || currentUser.role !== 'admin') {
-    console.error('[UnbanProfile] Only admins can unban profiles')
+    log.error('Only admins can unban profiles')
     return false
   }
 
@@ -1804,7 +1807,7 @@ export async function unbanProfile(profileId: string): Promise<boolean> {
   let profileToUnban = state.currentProfile?.id === profileId ? state.currentProfile : state.storedProfiles.find(p => p.id === profileId)
 
   if (!profileToUnban) {
-    console.error('[UnbanProfile] Profile not found')
+    log.error('Profile not found')
     return false
   }
 

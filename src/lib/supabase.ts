@@ -1,4 +1,7 @@
 import { createClient } from '@supabase/supabase-js'
+import { createLogger } from './logger'
+
+const log = createLogger('Supabase')
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
 const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
@@ -320,7 +323,7 @@ export async function searchProperties(
   })
 
   if (error) {
-    console.error('[Supabase] Property search error:', error)
+    log.error('Property search error:', error)
     return []
   }
 
@@ -344,7 +347,7 @@ export async function searchDocuments(
   })
 
   if (error) {
-    console.error('[Supabase] Document search error:', error)
+    log.error('Document search error:', error)
     return []
   }
 
@@ -366,7 +369,7 @@ export async function autocompleteProperties(
   })
 
   if (error) {
-    console.error('[Supabase] Autocomplete error:', error)
+    log.error('Autocomplete error:', error)
     return []
   }
 
@@ -388,7 +391,7 @@ export async function getDocumentsByCategory(
     .order('title')
 
   if (error) {
-    console.error('[Supabase] Get documents error:', error)
+    log.error('Get documents error:', error)
     return []
   }
 
@@ -406,7 +409,7 @@ export async function getDocumentCategories(): Promise<string[]> {
     .select('category')
 
   if (error) {
-    console.error('[Supabase] Get categories error:', error)
+    log.error('Get categories error:', error)
     return []
   }
 
@@ -478,7 +481,7 @@ export async function getEvictionsForProperty(
   })
 
   if (error) {
-    console.error('[Supabase] Get evictions error:', error)
+    log.error('Get evictions error:', error)
     return []
   }
 
@@ -501,7 +504,7 @@ export async function searchEvictions(
   })
 
   if (error) {
-    console.error('[Supabase] Search evictions error:', error)
+    log.error('Search evictions error:', error)
     return []
   }
 
@@ -521,7 +524,7 @@ export async function getLandlordScore(
   })
 
   if (error) {
-    console.error('[Supabase] Get landlord score error:', error)
+    log.error('Get landlord score error:', error)
     return null
   }
 
@@ -553,7 +556,7 @@ export async function getPropertyEvictionStats(
     // Suppress known type mismatch error (42804) - function returns double precision but expects real
     // This is a Supabase-side issue that needs migration to fix
     if (error.code !== '42804') {
-      console.error('[Supabase] Get eviction stats error:', error)
+      log.error('Get eviction stats error:', error)
     }
     return null
   }
@@ -577,7 +580,7 @@ export async function getHighEvictionProperties(
     .limit(limit)
 
   if (error) {
-    console.error('[Supabase] Get high eviction properties error:', error)
+    log.error('Get high eviction properties error:', error)
     return []
   }
 
@@ -601,7 +604,7 @@ export async function getPropertiesByOrganizingStatus(
     .limit(limit)
 
   if (error) {
-    console.error('[Supabase] Get properties by status error:', error)
+    log.error('Get properties by status error:', error)
     return []
   }
 
@@ -652,7 +655,7 @@ export async function searchNearbyProperties(
   })
 
   if (error) {
-    console.error('[Supabase] Nearby properties error:', error)
+    log.error('Nearby properties error:', error)
     return []
   }
 
@@ -676,7 +679,7 @@ export async function searchPropertiesWithType(
   })
 
   if (error) {
-    console.error('[Supabase] Property search with type error:', error)
+    log.error('Property search with type error:', error)
     return []
   }
 
@@ -702,7 +705,7 @@ export async function searchManagementCompanies(
   })
 
   if (error) {
-    console.error('[Supabase] Management company search error:', error)
+    log.error('Management company search error:', error)
     return []
   }
 
@@ -724,7 +727,7 @@ export async function getPropertiesByManagementCompany(
   })
 
   if (error) {
-    console.error('[Supabase] Get properties by management company error:', error)
+    log.error('Get properties by management company error:', error)
     return []
   }
 
@@ -764,7 +767,7 @@ export async function getAllManagementCompanies(
     .limit(limit)
 
   if (error) {
-    console.error('[Supabase] Get all management companies error:', error)
+    log.error('Get all management companies error:', error)
     return []
   }
 
@@ -899,7 +902,7 @@ export async function syncProfileToSupabase(profile: {
     }, { onConflict: 'id' })
 
   if (error) {
-    console.error('[Supabase] Profile sync error:', error)
+    log.error('Profile sync error:', error)
     return { success: false, error: error.message }
   }
 
@@ -918,7 +921,7 @@ export async function getAllProfiles(): Promise<DbProfile[]> {
     .order('last_active', { ascending: false })
 
   if (error) {
-    console.error('[Supabase] Get all profiles error:', error)
+    log.error('Get all profiles error:', error)
     return []
   }
 
@@ -956,7 +959,7 @@ export async function updateProfileRole(
     .eq('id', profileId)
 
   if (error) {
-    console.error('[Supabase] Update role error:', error)
+    log.error('Update role error:', error)
     return { success: false, error: error.message }
   }
 
@@ -1002,7 +1005,7 @@ export async function getDocumentAdminState(): Promise<{
     .select('id, hidden, deleted')
 
   if (error) {
-    console.error('[Supabase] Get admin state error:', error)
+    log.error('Get admin state error:', error)
     return { hidden: [], deleted: [] }
   }
 
@@ -1033,7 +1036,7 @@ export async function setDocumentHidden(
     }, { onConflict: 'id' })
 
   if (error) {
-    console.error('[Supabase] Set hidden error:', error)
+    log.error('Set hidden error:', error)
     return false
   }
 
@@ -1061,7 +1064,7 @@ export async function setDocumentDeleted(
     }, { onConflict: 'id' })
 
   if (error) {
-    console.error('[Supabase] Set deleted error:', error)
+    log.error('Set deleted error:', error)
     return false
   }
 
@@ -1079,7 +1082,7 @@ export async function getDocumentEdits(): Promise<Map<string, { title: string; c
     .select('id, title, content')
 
   if (error) {
-    console.error('[Supabase] Get document edits error:', error)
+    log.error('Get document edits error:', error)
     return new Map()
   }
 
@@ -1108,7 +1111,7 @@ export async function saveDocumentEdit(
     }, { onConflict: 'id' })
 
   if (error) {
-    console.error('[Supabase] Save document edit error:', error)
+    log.error('Save document edit error:', error)
     return false
   }
 
@@ -1127,7 +1130,7 @@ export async function deleteDocumentEdit(docId: string): Promise<boolean> {
     .eq('id', docId)
 
   if (error) {
-    console.error('[Supabase] Delete document edit error:', error)
+    log.error('Delete document edit error:', error)
     return false
   }
 
