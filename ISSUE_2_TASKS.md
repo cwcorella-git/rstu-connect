@@ -49,14 +49,119 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [ ] Consider adding Playwright for E2E tests
 
 ### 3. LocalStorage Security Issues
-- [ ] Audit all localStorage usage for sensitive data
-- [ ] Identify data that users could maliciously modify:
-  - [ ] `profileStorage.ts` - role, trustLevel, isAdmin
-  - [ ] `governanceStorage.ts` - vote counts, proposals
-  - [ ] `adminStorage.ts` - admin state
+
+**Audit completed 2025-01-20**
+
+#### Sensitive localStorage Keys (25 keys identified)
+
+| Key | Risk | Data |
+|-----|------|------|
+| `rstu-profiles` | **CRITICAL** | `role`, `trustLevel`, `banned` |
+| `rstu-governance` | **HIGH** | Vote arrays, proposal status |
+| `rstu-ranked-votes` | **HIGH** | Election vote rankings |
+| `rstu-elections` | **HIGH** | Election status, results |
+| `rstu-nominations` | MEDIUM | Candidate nominations |
+| `rstu_admin_auth` | **CRITICAL** | Admin authentication state |
+| `rstu_admin_state` | HIGH | Document visibility |
+| `rstu_admin_hash` | MEDIUM | Password hash (for recovery) |
+| `rstu_admin_settings` | MEDIUM | Delegate thresholds |
+| `rstu-linked-groups` | MEDIUM | Bloc membership |
+| `rstu-events` | LOW | Event RSVPs |
+| `rstu_canvass_data` | LOW | Unit contact info |
+| `rstu_campaigns` | LOW | Campaign progress |
+
+#### Attack Vectors
+
+1. **Privilege Escalation** (CRITICAL)
+   - Edit `rstu-profiles` → set `role: 'admin'` → full admin access
+   - Edit `trustLevel: 'verified'` → bypass verification requirements
+   - Set `banned: false` → circumvent bans
+
+2. **Vote Manipulation** (HIGH)
+   - Edit `rstu-governance` → add profileId to `upvotes[]`
+   - Inflate vote counts for any proposal
+   - Pass proposals without legitimate votes
+
+3. **Election Fraud** (HIGH)
+   - Edit `rstu-ranked-votes` → inject fake ballots
+   - Manipulate ranked choice outcomes
+   - Create votes for non-existent voters
+
+4. **Admin State Tampering** (MEDIUM)
+   - Edit `rstu_admin_auth` → bypass login
+   - Edit `rstu_admin_state` → unhide documents
+
+#### Existing Mitigations (Partial)
+
+- `authService.ts:getAuthoritativeProfile()` - Fetches from Supabase when available
+- `authService.ts:checkPermission()` - Uses authoritative profile for actions
+- Falls back to `role: 'tenant'` if profile not in Supabase
+
+#### Remaining Vulnerabilities
+
+- [x] Audit all localStorage usage for sensitive data
+- [x] Identify data that users could maliciously modify
+- [ ] **Sync functions bypass server** - `voteOnProposal()` uses localStorage directly
+- [ ] **UI uses sync functions** - Components call sync versions for responsiveness
+- [ ] **Network error fallback** - Catch blocks trust localStorage data
+- [ ] **No RLS policies** - Supabase tables lack row-level security
 - [ ] Implement server-side role verification in Supabase
 - [ ] Add Row Level Security (RLS) policies
 - [ ] Keep localStorage only as read-only cache
+- [ ] Migrate all voting to async (server-verified) functions
+
+#### RLS Policy Recommendations
+
+Current policies in `008_security_rls_policies.sql` use `'true'` for all conditions, making them ineffective. Need identity-based policies:
+
+**profiles table:**
+```sql
+-- Users can only update their own profile (except role/trustLevel)
+CREATE POLICY profiles_update_own ON profiles FOR UPDATE
+USING (id = current_setting('app.current_user_id')::uuid)
+WITH CHECK (
+  id = current_setting('app.current_user_id')::uuid
+  AND role = (SELECT role FROM profiles WHERE id = current_setting('app.current_user_id')::uuid)
+  AND trust_level = (SELECT trust_level FROM profiles WHERE id = current_setting('app.current_user_id')::uuid)
+);
+
+-- Admins can update any profile
+CREATE POLICY profiles_update_admin ON profiles FOR UPDATE
+USING (
+  EXISTS (SELECT 1 FROM profiles WHERE id = current_setting('app.current_user_id')::uuid AND role = 'admin')
+);
+```
+
+**proposal_votes table:**
+```sql
+-- Users can only insert votes with their own profile ID
+CREATE POLICY proposal_votes_insert_own ON proposal_votes FOR INSERT
+WITH CHECK (voter_id = current_setting('app.current_user_id')::uuid);
+
+-- Prevent duplicate votes
+CREATE POLICY proposal_votes_unique ON proposal_votes FOR INSERT
+WITH CHECK (
+  NOT EXISTS (
+    SELECT 1 FROM proposal_votes
+    WHERE proposal_id = NEW.proposal_id AND voter_id = NEW.voter_id
+  )
+);
+```
+
+**ban_records table:**
+```sql
+-- Only admins can ban users
+CREATE POLICY ban_records_admin_only ON ban_records FOR INSERT
+WITH CHECK (
+  EXISTS (SELECT 1 FROM profiles WHERE id = current_setting('app.current_user_id')::uuid AND role = 'admin')
+);
+```
+
+**Implementation Steps:**
+1. Set `app.current_user_id` in Supabase context from authenticated session
+2. Update RLS policies to use identity-based checks
+3. Create server functions for role changes (no direct UPDATE)
+4. Add audit logging for sensitive operations
 
 ### 4. Multi-User Data Migration to Supabase
 Current state: Some features use Supabase, many still localStorage-only.
