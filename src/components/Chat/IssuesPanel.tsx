@@ -104,7 +104,7 @@ function GovernancePanelContent({ groupId, groupName }: { groupId: string; group
         </h4>
         {activeProposals.length === 0 ? (
           <p className="text-xs text-gray-400 italic">
-            No active governance votes. Use "Start a Vote" in chat.
+            No active governance votes. Use &quot;Start a Vote&quot; in chat.
           </p>
         ) : (
           <div className="space-y-2">
@@ -202,8 +202,8 @@ function GovernancePanelContent({ groupId, groupName }: { groupId: string; group
       <div className="bg-purple-50 rounded-lg p-3 border border-purple-100">
         <h4 className="text-xs font-medium text-purple-800 mb-1">How Governance Voting Works</h4>
         <ul className="text-xs text-purple-700 space-y-0.5 list-disc list-inside">
-          <li>Propose group changes in chat with "Start a Vote"</li>
-          <li>Tenants vote on proposals (admins facilitate but don't vote)</li>
+          <li>Propose group changes in chat with &quot;Start a Vote&quot;</li>
+          <li>Tenants vote on proposals (admins facilitate but don&apos;t vote)</li>
           <li>Different thresholds for different actions</li>
           <li>Proposals expire after 7 days</li>
         </ul>
@@ -239,6 +239,7 @@ export function IssuesPanel({ building, initialTab = 'issues', onClose }: Issues
     setVoteBlockReason(getVotingBlockReason(building.chatSlug) || '')
     setNow(Date.now())
     refreshData()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [building.chatSlug, building.apn])
 
   const refreshData = () => {
@@ -471,7 +472,7 @@ export function IssuesPanel({ building, initialTab = 'issues', onClose }: Issues
             </h4>
             {activeComplaints.length === 0 ? (
               <p className="text-xs text-gray-400 italic">
-                No active issues. Use "Report Issue" to submit one.
+                No active issues. Use &quot;Report Issue&quot; to submit one.
               </p>
             ) : (
               <div className="space-y-2">

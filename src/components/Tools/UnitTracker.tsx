@@ -31,6 +31,7 @@ export function UnitTracker({ building, onSelectUnit }: UnitTrackerProps) {
   // Load units for this building
   useEffect(() => {
     loadUnits()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [building.chatSlug])
 
   const loadUnits = () => {

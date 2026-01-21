@@ -494,6 +494,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     }, 100);
 
     return () => clearTimeout(timeoutId);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedBuilding?.apn, apnToGroup]);
 
   // Determine what count to show

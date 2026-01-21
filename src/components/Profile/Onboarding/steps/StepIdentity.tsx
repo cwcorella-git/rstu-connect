@@ -34,6 +34,7 @@ export function StepIdentity({
     if (autoFocusRef.current && !nickname) {
       autoFocusRef.current.focus();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   // Handle nickname change - update local state and parent
@@ -121,7 +122,7 @@ export function StepIdentity({
       <div>
         <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">About You</h2>
         <p className="text-sm sm:text-base text-gray-600">
-          Choose how you'd like to appear to neighbors in your building community.
+          Choose how you&apos;d like to appear to neighbors in your building community.
         </p>
       </div>
 
@@ -206,7 +207,7 @@ export function StepIdentity({
         {emailError && <p className="text-xs sm:text-sm text-red-600 mt-2">{emailError}</p>}
 
         <p className="text-xs text-gray-500 mt-2">
-          We'll use this to send you organizing updates and help recover your account.
+          We&apos;ll use this to send you organizing updates and help recover your account.
         </p>
       </div>
 

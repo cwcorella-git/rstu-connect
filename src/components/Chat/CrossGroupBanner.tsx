@@ -77,7 +77,7 @@ export function CrossGroupBanner({
             </p>
             {proposal.reason && (
               <p className="text-xs text-gray-500 mt-1 italic">
-                "{proposal.reason}"
+                &quot;{proposal.reason}&quot;
               </p>
             )}
             <div className="flex items-center gap-2 mt-2">

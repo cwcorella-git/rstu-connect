@@ -35,6 +35,7 @@ export function EvictionCaseForm({ buildings, initialBuilding, onCaseCreated, on
       setSelectedBuildingApn(initialBuilding.apn)
       setBuildingSearch(initialBuilding.address)
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [initialBuilding?.apn])
 
   // Filter buildings by search

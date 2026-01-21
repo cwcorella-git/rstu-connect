@@ -83,6 +83,7 @@ export function EscalationTracker({
 
   useEffect(() => {
     loadCases()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [buildingId, showResolved])
 
   const loadCases = () => {

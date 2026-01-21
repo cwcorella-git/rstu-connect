@@ -44,6 +44,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
 
   useEffect(() => {
     calculateStats()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [building.chatSlug])
 
   const calculateStats = () => {

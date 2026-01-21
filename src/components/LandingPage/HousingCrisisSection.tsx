@@ -59,7 +59,7 @@ export function HousingCrisisSection() {
         {/* Main Crisis Description */}
         <div className="bg-white rounded-lg p-8 border-l-4 border-rstu-red shadow-sm mb-8">
           <p className="text-base text-gray-700 leading-relaxed mb-4">
-            <strong>This isn't an accident.</strong> The housing crisis is a system designed to profit off our need for shelter. Corporate landlords have systematized the extraction of wealth from working tenants through three mechanisms:
+            <strong>This isn&apos;t an accident.</strong> The housing crisis is a system designed to profit off our need for shelter. Corporate landlords have systematized the extraction of wealth from working tenants through three mechanisms:
           </p>
           <ul className="space-y-3 text-base text-gray-700">
             <li className="flex gap-3">
@@ -83,7 +83,7 @@ export function HousingCrisisSection() {
             A Real Story
           </h3>
           <blockquote className="text-base text-gray-700 italic border-l-4 border-gray-300 pl-6 mb-4">
-            "I work two jobs. I make decent money. But my landlord raised my rent from $1,200 to $1,600 in one month. That's $4,800 a year more. I can't afford the increase and the hidden fees. I'm choosing between paying rent and getting medicine for my daughter."
+            &quot;I work two jobs. I make decent money. But my landlord raised my rent from $1,200 to $1,600 in one month. That&apos;s $4,800 a year more. I can&apos;t afford the increase and the hidden fees. I&apos;m choosing between paying rent and getting medicine for my daughter.&quot;
           </blockquote>
           <p className="text-sm text-gray-600">
             — Maria, tenant in Sparks
@@ -107,12 +107,12 @@ export function HousingCrisisSection() {
           {expandData && (
             <div className="mt-4 p-6 bg-white border border-gray-200 rounded-lg text-sm text-gray-700">
               <p className="mb-4">
-                This data comes from Washoe County property records and RSTU's analysis of corporate landlord portfolios in the Reno-Sparks area.
+                This data comes from Washoe County property records and RSTU&apos;s analysis of corporate landlord portfolios in the Reno-Sparks area.
               </p>
               <ul className="space-y-2 text-gray-700">
                 <li className="flex gap-2">
                   <span>•</span>
-                  <span><strong>Property data:</strong> Washoe County Assessor's Office public database (16,000+ rental properties)</span>
+                  <span><strong>Property data:</strong> Washoe County Assessor&apos;s Office public database (16,000+ rental properties)</span>
                 </li>
                 <li className="flex gap-2">
                   <span>•</span>
@@ -124,7 +124,7 @@ export function HousingCrisisSection() {
                 </li>
               </ul>
               <p className="mt-4 text-xs text-gray-600">
-                Data reflects conditions as of 2025. For the full analysis, see "Exposed: Shocking Reasons Rents and Hidden Fees Are Too High" in the reading library.
+                Data reflects conditions as of 2025. For the full analysis, see &quot;Exposed: Shocking Reasons Rents and Hidden Fees Are Too High&quot; in the reading library.
               </p>
             </div>
           )}

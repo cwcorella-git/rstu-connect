@@ -27,10 +27,13 @@ export function AppGovernancePanel({ profileId }: AppGovernancePanelProps) {
   const [refreshKey, setRefreshKey] = useState(0)
 
   // Get voting eligibility
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const voteEligibility = useMemo(() => canVoteOnAppWideProposal(profileId), [profileId, refreshKey])
 
   // Get proposals
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const activeProposals = useMemo(() => getAppWideProposals(), [refreshKey])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const historyProposals = useMemo(() => getAppWideProposalHistory(10), [refreshKey])
 
   const handleVote = useCallback((proposalId: string, vote: 'up' | 'down') => {

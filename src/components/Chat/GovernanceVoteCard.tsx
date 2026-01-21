@@ -146,7 +146,7 @@ export function GovernanceVoteCard({
 
       {proposal.reason && (
         <p className="text-gray-600 text-xs mb-2 italic">
-          "{proposal.reason}"
+          &quot;{proposal.reason}&quot;
         </p>
       )}
 

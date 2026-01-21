@@ -63,6 +63,7 @@ export function TranslateWidget({ className = '' }: TranslateWidgetProps) {
       clearTimeout(timeout)
       delete (window as any).googleTranslateElementInit
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   function initTranslate() {

@@ -36,6 +36,7 @@ export function CircleDetailView({ circle, onBack, onUpdate }: CircleDetailViewP
 
   useEffect(() => {
     loadMembers()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [circle.id])
 
   const loadMembers = async () => {

@@ -146,7 +146,7 @@ export function StepReview({
         {/* Terms Agreement */}
         <div className="p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
           <p className="text-xs sm:text-sm text-yellow-800 leading-relaxed">
-            By creating this profile, you agree to RSTU's community guidelines and privacy policy. We're committed
+            By creating this profile, you agree to RSTU&apos;s community guidelines and privacy policy. We&apos;re committed
             to protecting tenant privacy and building power for housing justice.
           </p>
         </div>
@@ -155,14 +155,14 @@ export function StepReview({
       {/* Ready to create message */}
       <div className="p-4 bg-green-50 border border-green-200 rounded-lg text-center">
         <p className="text-sm font-medium text-green-800">
-          ✓ You're all set! Click the button below to create your profile and join your community.
+          You&apos;re all set! Click the button below to create your profile and join your community.
         </p>
       </div>
 
       {/* Note about next steps */}
       <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
         <p className="text-xs sm:text-sm text-gray-700 leading-relaxed">
-          <strong>What's next?</strong> After creating your profile, you'll be able to:
+          <strong>What&apos;s next?</strong> After creating your profile, you&apos;ll be able to:
         </p>
         <ul className="text-xs sm:text-sm text-gray-700 list-disc list-inside mt-2 space-y-1">
           <li>Chat with neighbors in your building</li>

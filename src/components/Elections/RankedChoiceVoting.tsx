@@ -169,7 +169,7 @@ export function RankedChoiceVoting({
         <p className="text-sm text-purple-700">
           Rank candidates in order of preference. Drag to reorder or use the arrows.
           Your first choice gets your vote first. If no one wins a majority, the last-place
-          candidate is eliminated and their votes transfer to voters' next choices.
+          candidate is eliminated and their votes transfer to voters&apos; next choices.
         </p>
       </div>
 

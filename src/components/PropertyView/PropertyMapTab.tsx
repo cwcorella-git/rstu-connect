@@ -367,6 +367,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         map.current = null;
       }
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []); // Only init once
 
   // Update marker when building changes
@@ -655,6 +656,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       pitch: 45,
       duration: 1500
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection]);
 
   // Show/hide clustering and individual markers based on zoom level

@@ -51,7 +51,7 @@ export function MissionSection() {
               Housing Justice is Indivisible
             </h4>
             <p className="text-sm text-gray-700 leading-relaxed mb-4">
-              We can't fight for tenant rights while ignoring the rights of unhoused community members. Today's tenants are tomorrow's unhoused without strong protections.
+              We can&apos;t fight for tenant rights while ignoring the rights of unhoused community members. Today&apos;s tenants are tomorrow&apos;s unhoused without strong protections.
             </p>
           </div>
 

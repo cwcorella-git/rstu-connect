@@ -77,7 +77,7 @@ export function RentHistoryChart({ rentHistory = [], currentRent, onAddHistoryEn
             ${cumulativeOvercharge.toLocaleString()}<span className="text-sm font-normal text-gray-600"> total</span>
           </div>
           <div className="text-xs text-gray-500 mt-1">
-            You've paid ${cumulativeOvercharge.toLocaleString()} more than regional 3% baseline
+            You&apos;ve paid ${cumulativeOvercharge.toLocaleString()} more than regional 3% baseline
           </div>
         </div>
       )}
@@ -148,12 +148,12 @@ export function RentHistoryChart({ rentHistory = [], currentRent, onAddHistoryEn
               <div className={`pt-2 border-t border-gray-100 flex justify-between items-center ${
                 currentRent > RENO_MARKET_AVERAGES.all * 1.15 ? 'text-red-700' : 'text-orange-700'
               }`}>
-                <span className="font-medium">You're paying</span>
+                <span className="font-medium">You&apos;re paying</span>
                 <span className="font-bold">${(currentRent - RENO_MARKET_AVERAGES.all).toLocaleString()}/mo above average</span>
               </div>
             ) : (
               <div className="pt-2 border-t border-gray-100 flex justify-between items-center text-green-700">
-                <span className="font-medium">You're paying</span>
+                <span className="font-medium">You&apos;re paying</span>
                 <span className="font-bold">${(RENO_MARKET_AVERAGES.all - currentRent).toLocaleString()}/mo below average</span>
               </div>
             )}

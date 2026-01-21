@@ -244,7 +244,7 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
             <div className="space-y-2">
               {quotes.map((q, idx) => (
                 <div key={idx} className="bg-gray-50 border-l-4 border-rstu-red rounded p-3">
-                  <p className="text-sm text-gray-900 italic">"{q.quote}"</p>
+                  <p className="text-sm text-gray-900 italic">&quot;{q.quote}&quot;</p>
                   <div className="flex items-center gap-2 mt-1 text-xs text-gray-500">
                     <span>Unit {q.unitNumber}</span>
                     {q.issues.length > 0 && (
@@ -294,16 +294,16 @@ export function HabitabilityReport({ profile, building }: HabitabilityReportProp
           {/* Main message */}
           <div className="text-sm text-gray-900 mb-3">
             <div className="font-semibold mb-1">
-              You're paying ${profile.rentAmount.toLocaleString()}/mo for a building with {habitabilityScore.score}/100 condition
+              You&apos;re paying ${profile.rentAmount.toLocaleString()}/mo for a building with {habitabilityScore.score}/100 condition
             </div>
             {rentPremiumAnalysis.shouldAlert && (
               <div className="text-red-700 text-sm mt-2">
-                <strong>⚠️ Critical Issue:</strong> You're paying {rentPremiumAnalysis.buildingComparison?.percent}% above your neighbors AND living in poor conditions.
+                <strong>Warning - Critical Issue:</strong> You&apos;re paying {rentPremiumAnalysis.buildingComparison?.percent}% above your neighbors AND living in poor conditions.
               </div>
             )}
             {rentPremiumAnalysis.isPremiumRent && rentPremiumAnalysis.isFairCondition && !rentPremiumAnalysis.shouldAlert && (
               <div className="text-orange-700 text-sm mt-2">
-                <strong>⚠️ Concern:</strong> You're paying above average for fair (not good) building condition.
+                <strong>Warning - Concern:</strong> You&apos;re paying above average for fair (not good) building condition.
               </div>
             )}
           </div>

@@ -546,6 +546,7 @@ export function InviteCodeManager() {
               {/* QR Code Display */}
               {qrCodeDataUrl && (
                 <div className="bg-white rounded-lg p-3 mb-4 inline-block border border-gray-200">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img src={qrCodeDataUrl} alt="QR Code" className="mx-auto" />
                 </div>
               )}

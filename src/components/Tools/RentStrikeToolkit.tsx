@@ -50,6 +50,7 @@ export function RentStrikeToolkit({
   // Calculate strike readiness
   const readiness = useMemo(
     () => (strikePrep ? calculateStrikeReadiness(strikePrep.id) : null),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     [strikePrep?.id]
   )
 

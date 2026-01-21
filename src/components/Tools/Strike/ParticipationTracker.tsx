@@ -25,6 +25,7 @@ export function ParticipationTracker({
   const allUnits = useMemo(() => {
     if (!canvass) return []
     return Object.keys(canvass.units)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [canvass?.lastModified])
 
   // Initialize participation tracking if not done
@@ -32,6 +33,7 @@ export function ParticipationTracker({
     if (strikePrep.participation.totalUnits === 0 && allUnits.length > 0) {
       initializeParticipationTracking(strikePrep.id, allUnits.length, allUnits)
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [allUnits])
 
   const committedUnits = strikePrep.participation.committedUnits
@@ -178,19 +180,19 @@ export function ParticipationTracker({
             <li>
               • Lead with:{' '}
               <span className="font-medium">
-                "We're at {participationPercent}%, need {Math.ceil((allUnits.length * 0.65) - committedUnits.length)} more"
+                &quot;We&apos;re at {participationPercent}%, need {Math.ceil((allUnits.length * 0.65) - committedUnits.length)} more&quot;
               </span>
             </li>
             <li>
               • Address concerns:{' '}
               <span className="font-medium">
-                "Rent goes in escrow, not withheld. Legal protection."
+                &quot;Rent goes in escrow, not withheld. Legal protection.&quot;
               </span>
             </li>
             <li>
               • Highlight leverage:{' '}
               <span className="font-medium">
-                "Landlord loses${(strikePrep.financial.monthlyRentAtRisk / 1000).toFixed(0)}k/month"
+                &quot;Landlord loses${(strikePrep.financial.monthlyRentAtRisk / 1000).toFixed(0)}k/month&quot;
               </span>
             </li>
           </ul>

@@ -222,6 +222,7 @@ export function PropertyInfoTab({ building, linkedBuildings, onSelectBuilding, a
   // Reset active building when the main building changes
   useEffect(() => {
     setActiveBuilding(building);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [building.apn]);
 
   // Handle switching to a linked building

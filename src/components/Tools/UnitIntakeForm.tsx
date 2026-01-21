@@ -783,6 +783,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
             </div>
             {showQRCode && qrUrl ? (
               <div className="text-center space-y-3">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={getQRImageUrl(qrUrl)}
                   alt="Profile creation QR code"

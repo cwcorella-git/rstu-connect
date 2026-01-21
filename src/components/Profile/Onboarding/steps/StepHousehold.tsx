@@ -169,7 +169,7 @@ export function StepHousehold({ formData, onFormDataChange }: StepHouseholdProps
           placeholder="e.g., January 2023 or 1/15/2023"
           className="w-full px-4 py-3 border border-gray-300 rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
         />
-        <p className="text-xs text-gray-500 mt-2">Any format works - we're flexible!</p>
+        <p className="text-xs text-gray-500 mt-2">Any format works - we&apos;re flexible!</p>
       </div>
 
       {/* Info section */}

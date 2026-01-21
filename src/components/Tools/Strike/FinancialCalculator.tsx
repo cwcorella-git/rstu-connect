@@ -49,6 +49,7 @@ export function FinancialCalculator({
       mutualAidGoal: totalRent * 3, // 3 months
       budgets,
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [strikePrep.participation.committedUnits, canvass?.lastModified])
 
   // Calculate financial runway for a tenant
@@ -203,7 +204,7 @@ export function FinancialCalculator({
           </div>
         ) : (
           <p className="text-xs text-gray-500">
-            No deposits recorded yet. Deposits will appear here as they're added.
+            No deposits recorded yet. Deposits will appear here as they&apos;re added.
           </p>
         )}
       </div>

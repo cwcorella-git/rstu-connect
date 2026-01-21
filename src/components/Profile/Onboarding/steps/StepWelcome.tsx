@@ -69,6 +69,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
     if (formData.inviteCode && formData.inviteCode !== localInviteCode) {
       setLocalInviteCode(formData.inviteCode);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [formData.inviteCode]);
 
   // Auto-validate if invite code came from URL (runs once on mount)
@@ -110,6 +111,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
 
       validateUrlInvite();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [formData.inviteCode]);
 
   return (
@@ -220,8 +222,8 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
       {/* Info section */}
       <div className="p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
         <p className="text-sm text-yellow-800">
-          <strong>Invite codes</strong> help us verify you're a real tenant and protect our community from
-          bad actors. If you don't have one yet, ask a neighbor, organizer, or reach out at{' '}
+          <strong>Invite codes</strong> help us verify you&apos;re a real tenant and protect our community from
+          bad actors. If you don&apos;t have one yet, ask a neighbor, organizer, or reach out at{' '}
           <a href="mailto:contact@renosparkstenantsunion.org" className="underline">contact@renosparkstenantsunion.org</a>
         </p>
       </div>

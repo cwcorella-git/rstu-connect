@@ -181,7 +181,7 @@ export function MissionHeader({ buildings, onAction, isNewUser = false }: Missio
           {/* Featured Quote */}
           <div className="px-4 py-3 border-t border-gray-700 bg-gray-800/50">
             <div className="flex items-start gap-2">
-              <span className="text-gray-500 text-lg leading-none">"</span>
+              <span className="text-gray-500 text-lg leading-none">&quot;</span>
               <div className="flex-1 min-w-0">
                 <p className="text-sm text-gray-300 italic leading-relaxed">
                   {currentQuote.text}

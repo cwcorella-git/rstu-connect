@@ -33,6 +33,7 @@ export function PropertyEventsTab({ building, chatSlug, linkedGroup }: PropertyE
     const upcoming = getUpcomingEvents(chatSlug);
     const past = getPastEvents(chatSlug);
     return [...upcoming, ...past];
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [chatSlug, refreshKey]);
 
   // Refresh events after changes
