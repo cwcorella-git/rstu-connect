@@ -15,6 +15,7 @@ import { sanitizeText, sanitizeRichText, sanitizeUrl } from './sanitize'
 import { tryAction } from './rateLimit'
 import { supabase, USE_SUPABASE } from './supabase'
 import { isOnline, requireOnline, OfflineError, checkPermission } from './authService'
+import { generateShortId, generateEntityId, isLocalId } from './idUtils'
 
 // Event types
 export type EventType = 'custom' | 'meeting' | 'committee' | 'workshop' | 'action' | 'intake' | 'social' | 'other'
@@ -115,19 +116,6 @@ export interface BuildingEvent {
 
 // Storage key
 const EVENTS_STORAGE_KEY = 'rstu-events'
-
-// Generate a cryptographically secure short ID
-function generateShortId(): string {
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    return crypto.randomUUID().split('-')[0]
-  }
-  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(4)
-    crypto.getRandomValues(bytes)
-    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  }
-  throw new Error('Crypto API not available')
-}
 
 // Get all events from localStorage
 export function getAllEvents(): BuildingEvent[] {

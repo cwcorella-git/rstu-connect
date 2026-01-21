@@ -6,6 +6,7 @@ const log = createLogger('DirectMessage')
 import { getCurrentProfile } from './profileStorage'
 import { sanitizeText } from './sanitize'
 import { tryAction } from './rateLimit'
+import { generateShortId } from './idUtils'
 
 // ============================================================================
 // Types
@@ -53,19 +54,6 @@ export interface DirectMessageState {
 
 const STORAGE_KEY = 'rstu-direct-messages'
 const MAX_MESSAGES_PER_THREAD = 100
-
-// Generate a cryptographically secure short ID
-function generateShortId(): string {
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    return crypto.randomUUID().split('-')[0]
-  }
-  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(4)
-    crypto.getRandomValues(bytes)
-    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  }
-  throw new Error('Crypto API not available')
-}
 
 // ============================================================================
 // Storage Functions

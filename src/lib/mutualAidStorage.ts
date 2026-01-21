@@ -16,6 +16,7 @@ const log = createLogger('MutualAid')
 
 import { sanitizeText, sanitizeRichText } from './sanitize'
 import { tryAction } from './rateLimit'
+import { generateShortId, generateEntityId, isLocalId } from './idUtils'
 
 // === TYPES ===
 
@@ -149,16 +150,9 @@ const SKILLS_KEY = 'rstu_mutual_aid_skills'
 
 // === HELPER FUNCTIONS ===
 
+// Use generateShortId from idUtils for ID generation
 function generateId(): string {
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    return crypto.randomUUID().split('-')[0]
-  }
-  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(4)
-    crypto.getRandomValues(bytes)
-    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  }
-  throw new Error('Crypto API not available')
+  return generateShortId()
 }
 
 function getFromStorage<T>(key: string, defaultValue: T): T {

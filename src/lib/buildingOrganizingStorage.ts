@@ -12,6 +12,7 @@ const log = createLogger('BuildingOrganizing')
 import { getCurrentProfile, type UserProfile } from './profileStorage'
 import { COMPLAINT_CATEGORIES } from './canvassStorage'
 import { supabase, USE_SUPABASE, DbBuildingComplaint, DbBuildingDemand } from './supabase'
+import { generateShortId, generateEntityId, isLocalId } from './idUtils'
 
 // Re-export complaint categories for convenience
 export { COMPLAINT_CATEGORIES }
@@ -252,17 +253,9 @@ const QUOTA_RETRY_DELAY = 60000 // Wait 1 minute before retrying after quota err
 // May Day 2028 target date
 export const MAY_DAY_2028 = new Date('2028-05-01T00:00:00').getTime()
 
-// Generate unique ID using crypto API
+// Generate unique ID - uses generateShortId from idUtils
 function generateId(): string {
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    return crypto.randomUUID().replace(/-/g, '').substring(0, 16)
-  }
-  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(8)
-    crypto.getRandomValues(bytes)
-    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  }
-  throw new Error('Crypto API not available')
+  return generateShortId() + generateShortId() // 16 chars for backwards compatibility
 }
 
 // Get full organizing state

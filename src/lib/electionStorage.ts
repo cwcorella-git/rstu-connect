@@ -5,6 +5,7 @@ import { safeJsonParse } from './safeStorage'
 import { supabase, USE_SUPABASE, setUserContext } from './supabase'
 import { getCurrentProfile } from './profileStorage'
 import { createLogger } from './logger'
+import { generateShortId, generateEntityId, isLocalId } from './idUtils'
 
 const log = createLogger('Elections')
 
@@ -148,16 +149,9 @@ const NOMINATIONS_KEY = 'rstu-nominations'
 const VOTES_KEY = 'rstu-votes'
 const RANKED_VOTES_KEY = 'rstu-ranked-votes'
 
+// Use generateShortId from idUtils for ID generation
 function generateId(): string {
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    return crypto.randomUUID().split('-')[0]
-  }
-  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(4)
-    crypto.getRandomValues(bytes)
-    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  }
-  throw new Error('Crypto API not available')
+  return generateShortId()
 }
 
 // ============================================================================

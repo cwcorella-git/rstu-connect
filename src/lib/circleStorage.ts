@@ -7,6 +7,7 @@ const log = createLogger('Circle')
 
 import { getCurrentProfile, getProfileById, type UserProfile } from './profileStorage'
 import { safeJsonParse } from './safeStorage'
+import { generateShortId, generateEntityId, isLocalId } from './idUtils'
 
 // ============================================
 // Types
@@ -83,14 +84,6 @@ function saveCircleState(circles: Circle[]): void {
   }
 }
 
-// Generate a unique ID
-function generateId(): string {
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    return crypto.randomUUID()
-  }
-  return 'circle_' + Date.now().toString(36) + '_' + Math.random().toString(36).substring(2, 9)
-}
-
 // Generate chat slug from circle name
 function generateChatSlug(name: string): string {
   return 'circle-' + name
@@ -138,7 +131,7 @@ export function createCircle(data: {
 
   const now = new Date().toISOString()
   const circle: Circle = {
-    id: generateId(),
+    id: generateEntityId(), // Uses local-prefixed ID when offline
     name: data.name.trim(),
     description: data.description.trim(),
     category: data.category,

@@ -3,6 +3,7 @@
 import { getSocket } from './socketio'
 import { safeJsonParse } from './safeStorage'
 import { sanitizeText, sanitizeRichText } from './sanitize'
+import { generateShortId } from './idUtils'
 
 // ============================================================================
 // Types
@@ -90,17 +91,7 @@ export const TASK_STATUSES: { value: TaskStatus; labelKey: string }[] = [
 const TASKS_KEY = 'rstu-tasks'
 
 function generateId(): string {
-  let shortId: string
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    shortId = crypto.randomUUID().split('-')[0]
-  } else if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(4)
-    crypto.getRandomValues(bytes)
-    shortId = Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  } else {
-    throw new Error('Crypto API not available')
-  }
-  return `task-${Date.now()}-${shortId}`
+  return `task-${Date.now()}-${generateShortId()}`
 }
 
 // ============================================================================

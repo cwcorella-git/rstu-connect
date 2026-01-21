@@ -1,5 +1,6 @@
 'use client';
 import { createLogger } from './logger'
+import { generateShortId } from './idUtils'
 
 const log = createLogger('LinkedProperties')
 
@@ -31,18 +32,9 @@ export interface LinkedPropertyGroup {
 
 const STORAGE_KEY = 'rstu-linked-properties';
 
+// Generate ID with lp- prefix for linked properties
 function generateId(): string {
-  let shortId: string
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    shortId = crypto.randomUUID().split('-')[0]
-  } else if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(4)
-    crypto.getRandomValues(bytes)
-    shortId = Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  } else {
-    throw new Error('Crypto API not available')
-  }
-  return `lp-${Date.now()}-${shortId}`
+  return `lp-${Date.now()}-${generateShortId()}`
 }
 
 export function getLinkedGroups(): LinkedPropertyGroup[] {

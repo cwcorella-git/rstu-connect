@@ -291,34 +291,46 @@ Current state: Some features use Supabase, many still localStorage-only.
 5. Add sync mechanism for offline edits
 
 ### 5. Frontend ID Generation
-- [ ] Audit all `generateId()` / `crypto.randomUUID()` usage
-- [ ] List all entities that need database-generated IDs:
-  - [ ] Profiles
-  - [ ] Proposals
-  - [ ] Votes
-  - [ ] Elections
-  - [ ] Nominations
-  - [ ] Events
-  - [ ] Messages
-  - [ ] Campaigns
-- [ ] Update Supabase tables to auto-generate UUIDs
-- [ ] Update storage libs to let database assign IDs on insert
-- [ ] Handle offline ID generation with conflict resolution
+- [x] Audit all `generateId()` / `crypto.randomUUID()` usage
+- [x] Create centralized ID utilities (`src/lib/idUtils.ts`)
+  - `generateUUID()` - Full UUID v4 for entities needing database compatibility
+  - `generateShortId()` - 8-char hex ID for sub-entities and display
+  - `generateEntityId(forceLocal?)` - Online/offline aware, adds `local-` prefix when offline
+  - `generateOfflineId()` - Always local-prefixed for offline-first entities
+  - `isLocalId()` - Check if ID was generated offline
+  - ID mapping functions for sync reconciliation (`storeIdMapping`, `getServerIdForLocal`, `resolveId`)
+- [x] Update 13 storage libs to use centralized ID utilities:
+  - `campaignStorage.ts` - Uses `generateEntityId()` for campaigns, `generateShortId()` for demands/notes
+  - `eventStorage.ts` - Uses `generateShortId()` for events
+  - `governanceStorage.ts` - Uses `generateShortId()` for proposals
+  - `electionStorage.ts` - Uses `generateShortId()` for elections/nominations/votes
+  - `mutualAidStorage.ts` - Uses `generateShortId()` for posts
+  - `circleStorage.ts` - Uses `generateEntityId()` for circles
+  - `linkedPropertiesStorage.ts` - Uses `generateShortId()` with `lp-` prefix
+  - `escalationStorage.ts` - Uses `generateShortId()` with `esc_`/`evt_` prefixes
+  - `taskStorage.ts` - Uses `generateShortId()` with `task-` prefix
+  - `buildingOrganizingStorage.ts` - Uses `generateShortId()` for complaints/demands
+  - `directMessageStorage.ts` - Uses `generateShortId()` for threads/messages
+  - `organizationStorage.ts` - Uses `generateShortId()` for organizations
+  - `profileStorage.ts` - Uses `generateUUID()` for profiles (Supabase compatibility)
+- [x] Supabase tables already auto-generate UUIDs via `DEFAULT gen_random_uuid()`
+- [x] Implemented offline ID generation with `local-` prefix pattern
+- [x] ID mapping storage for sync reconciliation (localStorage `rstu_id_mappings`)
 
 ---
 
 ## Notes
 
 ### Priority Order (suggested)
-1. **Testing** - Prevents regressions as we refactor
-2. **CI/CD** - Automates test enforcement
-3. **LocalStorage Security** - Critical vulnerability
-4. **Supabase Migration** - Required for real multi-user
-5. **ID Generation** - Depends on Supabase migration
+1. **Testing** - Prevents regressions as we refactor ✅
+2. **CI/CD** - Automates test enforcement ✅
+3. **LocalStorage Security** - Critical vulnerability ✅
+4. **Supabase Migration** - Required for real multi-user ✅
+5. **ID Generation** - Depends on Supabase migration ✅
 
 ### Questions to Resolve
-- How to handle offline-first with Supabase? (conflict resolution)
-- Should chat stay on Socket.io or move to Supabase Realtime?
+- ~~How to handle offline-first with Supabase?~~ - Solved: `idUtils.ts` with `local-` prefix pattern
+- Should chat stay on Socket.io or move to Supabase Realtime? (Both supported in `017_chat_messages_tables.sql`)
 - What's the auth model? (currently localStorage passwords)
 
 ### Related Files
@@ -326,6 +338,7 @@ Current state: Some features use Supabase, many still localStorage-only.
 - `src/lib/safeStorage.ts` - localStorage wrapper
 - `src/lib/profileStorage.ts` - User auth/roles
 - `src/lib/electionStorage.ts` - Elections, nominations, ranked choice voting
+- `src/lib/idUtils.ts` - Centralized ID generation utilities (online/offline aware)
 - `scripts/archive/create-admin-state-tables.sql` - Example schema
 
 ### Governance Refactoring (from plan mode)
@@ -337,4 +350,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (All Supabase data migrations complete: mutual aid, chat, DMs)*
+*Last updated: 2026-01-21 (Frontend ID generation centralized: 13 storage libs updated to use idUtils.ts)*

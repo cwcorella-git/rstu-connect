@@ -7,6 +7,8 @@
  * Phase 1: Core state machine with manual stage transitions
  */
 
+import { generateShortId } from './idUtils'
+
 // ============================================================================
 // Types
 // ============================================================================
@@ -207,11 +209,11 @@ const STORAGE_KEY = 'rstu_escalation_cases'
 // ============================================================================
 
 function generateId(): string {
-  return `esc_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`
+  return `esc_${Date.now()}_${generateShortId()}`
 }
 
 function generateTimelineEventId(): string {
-  return `evt_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`
+  return `evt_${Date.now()}_${generateShortId()}`
 }
 
 // ============================================================================

@@ -17,6 +17,7 @@ import { sanitizeText, sanitizeRichText } from './sanitize'
 import { supabase, USE_SUPABASE, setUserContext, DbCampaign, DbCampaignBuilding, DbCampaignStageChange, DbCampaignDemand, DbCampaignNote } from './supabase'
 import { isOnline, OfflineError, checkPermission } from './authService'
 import { getCurrentProfile } from './profileStorage'
+import { generateEntityId, generateShortId, isLocalId } from './idUtils'
 
 // === TYPES ===
 
@@ -139,21 +140,6 @@ export const CAMPAIGN_OUTCOMES: { key: CampaignOutcome; label: string; color: st
 ]
 
 // === HELPER FUNCTIONS ===
-
-/**
- * Generate a unique ID using crypto API
- */
-function generateId(): string {
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    return crypto.randomUUID().replace(/-/g, '').substring(0, 16)
-  }
-  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(8)
-    crypto.getRandomValues(bytes)
-    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  }
-  throw new Error('Crypto API not available')
-}
 
 /**
  * Get stage label
@@ -369,7 +355,7 @@ export function createCampaign(
     nextAction: data.nextAction ? sanitizeText(data.nextAction) : undefined,
     nextActionAssignee: data.nextActionAssignee ? sanitizeText(data.nextActionAssignee) : undefined,
     outcomeDetails: data.outcomeDetails ? sanitizeRichText(data.outcomeDetails) : undefined,
-    id: generateId(),
+    id: generateEntityId(), // Uses local-prefixed ID when offline
     stageChanges: [{ stage: data.stage, date: data.startDate }],
     notes: [],
     created: now,
@@ -431,7 +417,7 @@ export async function createCampaignSecure(
         nextAction: data.nextAction ? sanitizeText(data.nextAction) : undefined,
         nextActionAssignee: data.nextActionAssignee ? sanitizeText(data.nextActionAssignee) : undefined,
         outcomeDetails: data.outcomeDetails ? sanitizeRichText(data.outcomeDetails) : undefined,
-        id: rpcResult.campaign_id || generateId(),
+        id: rpcResult.campaign_id || generateEntityId(true), // Force local ID as fallback
         stageChanges: [{ stage: data.stage, date: data.startDate }],
         notes: [],
         createdBy: profile.id,
@@ -531,7 +517,7 @@ export function addCampaignDemand(
   if (!campaign) return null
 
   const demand: CampaignDemand = {
-    id: generateId(),
+    id: generateShortId(), // Short ID for sub-entity
     text: sanitizeText(text),
     status: 'proposed',
   }
@@ -604,7 +590,7 @@ export function addCampaignNote(
   if (!campaign) return null
 
   const note: CampaignNote = {
-    id: generateId(),
+    id: generateShortId(), // Short ID for sub-entity
     date: new Date().toISOString(),
     author: sanitizeText(author),
     text: sanitizeRichText(text),

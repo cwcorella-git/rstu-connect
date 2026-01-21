@@ -9,6 +9,7 @@ import { sanitizeText, sanitizeRichText } from './sanitize'
 import { tryAction } from './rateLimit'
 import { getDelegateProfile, canVoteOnAppGovernance, getVotingWeight } from './delegateStorage'
 import { createLogger } from './logger'
+import { generateShortId, generateEntityId, isLocalId } from './idUtils'
 
 const log = createLogger('Governance')
 
@@ -285,19 +286,6 @@ export function getWeightedUserVote(proposalId: string): {
 }
 
 // ============================================================================
-// Generate a cryptographically secure short ID
-function generateShortId(): string {
-  if (typeof crypto !== 'undefined' && crypto.randomUUID) {
-    return crypto.randomUUID().split('-')[0]
-  }
-  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
-    const bytes = new Uint8Array(4)
-    crypto.getRandomValues(bytes)
-    return Array.from(bytes).map(b => b.toString(16).padStart(2, '0')).join('')
-  }
-  throw new Error('Crypto API not available')
-}
-
 // Storage Functions
 // ============================================================================
 
