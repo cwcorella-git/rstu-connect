@@ -29,7 +29,7 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [x] Set up React Testing Library for component tests
 - [x] Write tests for critical lib functions:
   - [x] `profileStorage.ts` - auth, roles, permissions, invites (53 tests)
-  - [ ] `governanceStorage.ts` - voting logic, thresholds
+  - [x] `governanceStorage.ts` - voting logic, thresholds, Bookchin principle (67 tests)
   - [x] `electionStorage.ts` - ranked choice calculation (22 tests)
   - [x] `delegateStorage.ts` - weight calculation (15 tests)
   - [ ] `canvassStorage.ts` - habitability scoring
@@ -39,7 +39,7 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
   - [ ] `BuildingList.tsx` - search, filtering
 - [ ] Document TDD workflow for Claude Code
 
-**Test Summary:** 124 tests across 5 suites (authService, smoke, delegateStorage, electionStorage, profileStorage)
+**Test Summary:** 191 tests across 6 suites (authService, smoke, delegateStorage, electionStorage, governanceStorage, profileStorage)
 
 ### 2. CI/CD Pipeline
 - [x] Create GitHub Actions workflow (`.github/workflows/deploy.yml` runs tests)
@@ -264,4 +264,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-20*
+*Last updated: 2026-01-21*
