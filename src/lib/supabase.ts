@@ -78,6 +78,49 @@ export interface DbCanvassUnit {
   linked_profile_id: string | null
   created_at: string
   updated_at: string
+  // Household info
+  has_children: boolean | null
+  has_pets: boolean | null
+  pet_types: string | null
+  accessibility_needs: string | null
+  // Unit details
+  unit_type: string | null
+  bedroom_count: number | null
+  bathroom_count: number | null
+  unit_sqft: number | null
+  // Lease info
+  move_in_date: string | null
+  lease_type: string | null
+  lease_expires: string | null
+  security_deposit: number | null
+  deposit_issues: string | null
+  last_rent_increase_amount: number | null
+  last_rent_increase_date: string | null
+  // Schedule
+  work_hours: string | null
+  best_time_to_reach: string | null
+  best_days: string[] | null
+  // Maintenance
+  maintenance_rating: string | null
+  avg_response_days: number | null
+  outstanding_repairs: string | null
+  // Community
+  knows_neighbors: string | null
+  ideal_rent: number | null
+  has_organizing_experience: boolean | null
+  suggestions: string | null
+  // Habitability
+  habitability_issues: string[] | null
+  habitability_quotes: string | null
+  // Subsidy
+  subsidy_type: string | null
+  subsidy_details: string | null
+  // Utilities
+  utilities_included: string[] | null
+  // Profile linking
+  profile_nickname: string | null
+  linked_at: string | null
+  contact_date: string | null
 }
 
 export interface DbBuildingComplaint {

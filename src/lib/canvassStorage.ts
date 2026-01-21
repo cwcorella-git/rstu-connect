@@ -234,6 +234,51 @@ function dbToUnit(db: DbCanvassUnit): UnitRecord {
     profileId: db.linked_profile_id || undefined,
     created: new Date(db.created_at).getTime(),
     updated: new Date(db.updated_at).getTime(),
+    // Household info
+    hasChildren: db.has_children || undefined,
+    hasPets: db.has_pets || undefined,
+    petTypes: db.pet_types || undefined,
+    accessibilityNeeds: db.accessibility_needs || undefined,
+    // Unit details
+    unitType: db.unit_type as UnitRecord['unitType'] || undefined,
+    bedroomCount: db.bedroom_count || undefined,
+    bathroomCount: db.bathroom_count || undefined,
+    unitSqft: db.unit_sqft || undefined,
+    // Lease info
+    moveInDate: db.move_in_date || undefined,
+    leaseType: db.lease_type as 'fixed' | 'month-to-month' | undefined,
+    leaseExpires: db.lease_expires || undefined,
+    securityDeposit: db.security_deposit || undefined,
+    depositIssues: db.deposit_issues || undefined,
+    lastRentIncrease: db.last_rent_increase_amount ? {
+      amount: db.last_rent_increase_amount,
+      date: db.last_rent_increase_date || ''
+    } : undefined,
+    // Schedule
+    workHours: db.work_hours || undefined,
+    bestTimeToReach: db.best_time_to_reach || undefined,
+    bestDays: db.best_days || undefined,
+    // Maintenance
+    maintenanceRating: db.maintenance_rating as 'good' | 'ok' | 'bad' | undefined,
+    avgResponseDays: db.avg_response_days || undefined,
+    outstandingRepairs: db.outstanding_repairs || undefined,
+    // Community
+    knowsNeighbors: db.knows_neighbors as 'yes' | 'somewhat' | 'no' | undefined,
+    idealRent: db.ideal_rent || undefined,
+    hasOrganizingExperience: db.has_organizing_experience || undefined,
+    suggestions: db.suggestions || undefined,
+    // Habitability
+    habitabilityIssues: db.habitability_issues || undefined,
+    habitabilityQuotes: db.habitability_quotes || undefined,
+    // Subsidy
+    subsidyType: db.subsidy_type as UnitRecord['subsidyType'] || undefined,
+    subsidyDetails: db.subsidy_details || undefined,
+    // Utilities
+    utilitiesIncluded: db.utilities_included || undefined,
+    // Profile linking
+    profileNickname: db.profile_nickname || undefined,
+    linkedAt: db.linked_at ? new Date(db.linked_at).getTime() : undefined,
+    contactDate: db.contact_date ? new Date(db.contact_date).getTime() : undefined,
   }
 }
 
@@ -258,6 +303,49 @@ function unitToDb(buildingId: string, buildingAddress: string, unit: UnitRecord)
     follow_up_date: unit.followUpDate || null,
     organizer_id: unit.organizer || null,
     linked_profile_id: unit.profileId || null,
+    // Household info
+    has_children: unit.hasChildren ?? null,
+    has_pets: unit.hasPets ?? null,
+    pet_types: unit.petTypes || null,
+    accessibility_needs: unit.accessibilityNeeds || null,
+    // Unit details
+    unit_type: unit.unitType || null,
+    bedroom_count: unit.bedroomCount ?? null,
+    bathroom_count: unit.bathroomCount ?? null,
+    unit_sqft: unit.unitSqft ?? null,
+    // Lease info
+    move_in_date: unit.moveInDate || null,
+    lease_type: unit.leaseType || null,
+    lease_expires: unit.leaseExpires || null,
+    security_deposit: unit.securityDeposit ?? null,
+    deposit_issues: unit.depositIssues || null,
+    last_rent_increase_amount: unit.lastRentIncrease?.amount ?? null,
+    last_rent_increase_date: unit.lastRentIncrease?.date || null,
+    // Schedule
+    work_hours: unit.workHours || null,
+    best_time_to_reach: unit.bestTimeToReach || null,
+    best_days: unit.bestDays || null,
+    // Maintenance
+    maintenance_rating: unit.maintenanceRating || null,
+    avg_response_days: unit.avgResponseDays ?? null,
+    outstanding_repairs: unit.outstandingRepairs || null,
+    // Community
+    knows_neighbors: unit.knowsNeighbors || null,
+    ideal_rent: unit.idealRent ?? null,
+    has_organizing_experience: unit.hasOrganizingExperience ?? null,
+    suggestions: unit.suggestions || null,
+    // Habitability
+    habitability_issues: unit.habitabilityIssues || null,
+    habitability_quotes: unit.habitabilityQuotes || null,
+    // Subsidy
+    subsidy_type: unit.subsidyType || null,
+    subsidy_details: unit.subsidyDetails || null,
+    // Utilities
+    utilities_included: unit.utilitiesIncluded || null,
+    // Profile linking
+    profile_nickname: unit.profileNickname || null,
+    linked_at: unit.linkedAt ? new Date(unit.linkedAt).toISOString() : null,
+    contact_date: unit.contactDate ? new Date(unit.contactDate).toISOString() : null,
   }
 }
 

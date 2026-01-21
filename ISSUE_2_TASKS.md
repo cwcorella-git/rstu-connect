@@ -238,7 +238,7 @@ Current state: Some features use Supabase, many still localStorage-only.
 **Need to migrate:**
 - [ ] Chat messages (currently Socket.io server only)
 - [x] Events and RSVPs (2026-01-21)
-- [ ] Canvassing records (unit data)
+- [x] Canvassing records (unit data) (2026-01-21)
 - [ ] Building organizing status
 - [ ] Campaigns
 - [ ] Mutual aid requests/offers
@@ -251,6 +251,15 @@ Current state: Some features use Supabase, many still localStorage-only.
 - [x] Server functions: `create_event_secure()`, `update_event_secure()`, `delete_event_secure()`, `rsvp_to_event()`, `vote_on_event()`, `add_meeting_notes()`
 - [x] Updated `eventStorage.ts` with async functions: `rsvpToEventAsync()`, `voteOnEventAsync()`, `fetchEventsFromServer()`
 - Migration file: `infrastructure/supabase/013_events_tables.sql`
+
+**Canvassing expanded in Supabase (2026-01-21):**
+- [x] Added 30+ missing columns to `canvass_units` table (household, unit details, lease, habitability, etc.)
+- [x] Created `building_discrepancies` table for organizer data notes
+- [x] Created `issue_snapshots` table for habitability trend tracking
+- [x] Added RLS policies (organizers+ only for sensitive contact data)
+- [x] Server functions: `update_canvass_unit_secure()`, `link_profile_to_unit_secure()`, `unlink_profile_from_unit_secure()`, `get_building_habitability_score()`, `record_issue_snapshot()`
+- [x] Updated `DbCanvassUnit` type and `dbToUnit`/`unitToDb` conversion functions
+- Migration file: `infrastructure/supabase/014_canvass_expansion.sql`
 
 **For each migration:**
 1. Create Supabase table schema
@@ -306,4 +315,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (Events migrated to Supabase with RLS and async functions)*
+*Last updated: 2026-01-21 (Canvassing expanded in Supabase with full UnitRecord fields)*
