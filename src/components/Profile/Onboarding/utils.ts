@@ -85,8 +85,17 @@ export function canProceedFromStep(
     emailError?: string;
     inviteValid?: boolean;
     inviteError?: string;
+    passwordValid?: boolean;
+    passwordError?: string;
+    requirePassword?: boolean;
   }
 ): boolean {
+  // Password validation helper
+  const isPasswordValid = () => {
+    if (!validation.requirePassword) return true;
+    return validation.passwordValid === true;
+  };
+
   switch (step) {
     case 'welcome':
       // Welcome step requires valid invite code
@@ -94,11 +103,13 @@ export function canProceedFromStep(
 
     case 'identity':
       // Both nickname and email required, email must be available
+      // If Supabase Auth is enabled, password is also required
       return (
         formData.nickname.length >= 2 &&
         formData.email.length > 0 &&
         validateEmailFormat(formData.email) &&
-        validation.emailAvailable === true
+        validation.emailAvailable === true &&
+        isPasswordValid()
       );
 
     case 'building':
@@ -116,7 +127,8 @@ export function canProceedFromStep(
         formData.nickname.length >= 2 &&
         formData.email.length > 0 &&
         validateEmailFormat(formData.email) &&
-        validation.emailAvailable === true
+        validation.emailAvailable === true &&
+        isPasswordValid()
       );
 
     default:

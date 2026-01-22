@@ -1853,10 +1853,11 @@ function logVerificationAction(action: {
 // falling back to localStorage when offline
 // ============================================
 
-// Create profile with Supabase sync
+// Create profile with Supabase sync and optional Supabase Auth
 export async function createProfileAsync(data: {
   nickname: string
   email?: string
+  password?: string // Password for Supabase Auth (if available)
   buildingId?: string
   buildingAddress?: string
   unitNumber?: string
@@ -1879,6 +1880,24 @@ export async function createProfileAsync(data: {
           `Please login instead of creating a new profile.`
         )
       }
+    }
+  }
+
+  // If password provided and Supabase is available, create Supabase Auth user first
+  let authUserId: string | undefined
+  if (data.password && normalizedEmail && USE_SUPABASE && supabase) {
+    try {
+      const { signUpWithEmail } = await import('./supabaseAuth')
+      const authResult = await signUpWithEmail(normalizedEmail, data.password)
+
+      if (!authResult.success) {
+        throw new Error(authResult.error || 'Failed to create account')
+      }
+
+      authUserId = authResult.user?.id
+    } catch (err) {
+      // Re-throw auth errors
+      throw err
     }
   }
 
@@ -1932,7 +1951,7 @@ export async function createProfileAsync(data: {
   state.currentProfile = profile
   saveProfileState(state)
 
-  // Sync to Supabase
+  // Sync to Supabase (profile will be auto-linked to auth user via trigger if auth_user_id matches email)
   if (USE_SUPABASE) {
     const saved = await saveProfileToDb(profile)
     if (!saved) {
@@ -1940,6 +1959,18 @@ export async function createProfileAsync(data: {
       state.currentProfile = null
       saveProfileState(state)
       throw new Error('Failed to save profile. Email may already be in use.')
+    }
+
+    // If we created an auth user, manually link them if the trigger didn't work
+    if (authUserId && supabase) {
+      try {
+        await supabase.rpc('migrate_profile_to_auth', {
+          profile_id_input: profile.id,
+          auth_user_id_input: authUserId,
+        })
+      } catch {
+        // Ignore errors - trigger should have handled this
+      }
     }
   }
 

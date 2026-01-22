@@ -4,6 +4,8 @@ export interface OnboardingFormData {
   inviteCode?: string;
   nickname: string;
   email: string;
+  password?: string;
+  confirmPassword?: string;
   buildingId?: string;
   buildingAddress?: string;
   unitNumber?: string;
@@ -12,6 +14,11 @@ export interface OnboardingFormData {
   hasChildren?: boolean;
   hasPets?: boolean;
   moveInDate?: string;
+}
+
+export interface ValidatePasswordResult {
+  valid: boolean;
+  error?: string;
 }
 
 export interface ValidateEmailResult {
