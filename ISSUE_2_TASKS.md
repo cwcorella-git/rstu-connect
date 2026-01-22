@@ -148,8 +148,8 @@ Tracking progress on [Issue #2](https://github.com/cwcorella-git/rstu-connect/is
 - [x] Updated `electionStorage.ts` with async functions and background server sync
 - Migration file: `infrastructure/supabase/012_elections_tables.sql`
 
-**Still needs work:**
-- `finalizeProposal()` - no server-side finalize RPC
+**Completed (2026-01-21):**
+- [x] `finalizeProposal()` - server-side RPC added (`finalize_proposal_secure()` in `018_finalize_proposal_rpc.sql`)
 
 #### RLS Policy Implementation
 
@@ -350,4 +350,4 @@ Current state: Some features use Supabase, many still localStorage-only.
 
 ---
 
-*Last updated: 2026-01-21 (Frontend ID generation centralized: 13 storage libs updated to use idUtils.ts)*
+*Last updated: 2026-01-21 (finalizeProposal RPC added - all Issue #2 tasks complete)*
