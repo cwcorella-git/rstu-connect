@@ -16,6 +16,14 @@ import {
 import { exportCanvassData, importCanvassData, getCanvassState } from '@/lib/canvassStorage'
 import { AlertModal } from '@/components/ui/ConfirmModal'
 import { ElectionAdmin } from '@/components/Elections'
+import {
+  getAdminNotifications,
+  getUnreadNotificationCount,
+  markNotificationAsRead,
+  markAllNotificationsAsRead,
+  deleteNotification,
+  type SystemNotification,
+} from '@/lib/notificationStorage'
 
 interface AdminPanelProps {
   buildings: EnhancedBuilding[]
@@ -33,12 +41,20 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
   // Admin settings state
   const [adminSettings, setAdminSettings] = useState<AdminSettings | null>(null)
 
+  // Notifications state
+  const [notifications, setNotifications] = useState<SystemNotification[]>([])
+  const [unreadCount, setUnreadCount] = useState(0)
+
   // Alert modal state
   const [alertMessage, setAlertMessage] = useState<{ message: string; variant: 'success' | 'error' } | null>(null)
 
   useEffect(() => {
     // Load admin settings
     setAdminSettings(getAdminSettings())
+
+    // Load notifications
+    setNotifications(getAdminNotifications())
+    setUnreadCount(getUnreadNotificationCount())
 
     // Calculate canvass stats
     const state = getCanvassState()
@@ -166,6 +182,37 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
     }
   }
 
+  const handleMarkNotificationRead = (notificationId: string) => {
+    markNotificationAsRead(notificationId)
+    setNotifications(getAdminNotifications())
+    setUnreadCount(getUnreadNotificationCount())
+  }
+
+  const handleMarkAllRead = () => {
+    markAllNotificationsAsRead()
+    setNotifications(getAdminNotifications())
+    setUnreadCount(0)
+  }
+
+  const handleDeleteNotification = (notificationId: string) => {
+    deleteNotification(notificationId)
+    setNotifications(getAdminNotifications())
+    setUnreadCount(getUnreadNotificationCount())
+  }
+
+  const formatNotificationTime = (timestamp: number) => {
+    const date = new Date(timestamp)
+    const now = new Date()
+    const diffMs = now.getTime() - date.getTime()
+    const diffHours = Math.floor(diffMs / (1000 * 60 * 60))
+    const diffDays = Math.floor(diffHours / 24)
+
+    if (diffHours < 1) return 'Just now'
+    if (diffHours < 24) return `${diffHours}h ago`
+    if (diffDays < 7) return `${diffDays}d ago`
+    return date.toLocaleDateString()
+  }
+
   return (
     <div className="flex flex-col h-full overflow-hidden">
       {/* Header */}
@@ -222,6 +269,105 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
                 {t('common.next') || 'Import Data'}
               </button>
             </div>
+          </div>
+
+          {/* Notifications (Feedback) */}
+          <div className="bg-white rounded-lg border border-gray-200 p-4">
+            <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center gap-2">
+                <h3 className="font-medium text-gray-900">Feedback Inbox</h3>
+                {unreadCount > 0 && (
+                  <span className="px-2 py-0.5 bg-red-500 text-white text-xs font-bold rounded-full">
+                    {unreadCount}
+                  </span>
+                )}
+              </div>
+              {notifications.length > 0 && unreadCount > 0 && (
+                <button
+                  onClick={handleMarkAllRead}
+                  className="text-xs text-blue-600 hover:text-blue-800"
+                >
+                  Mark all read
+                </button>
+              )}
+            </div>
+
+            {notifications.length === 0 ? (
+              <p className="text-sm text-gray-500 text-center py-4">
+                No feedback yet. Feature suggestions and bug reports will appear here.
+              </p>
+            ) : (
+              <div className="space-y-2 max-h-80 overflow-y-auto">
+                {notifications.map((notification) => {
+                  const profile = getCurrentProfile()
+                  const isUnread = profile && !notification.readBy.includes(profile.id)
+                  const isFeature = notification.type === 'feedback_feature'
+
+                  return (
+                    <div
+                      key={notification.id}
+                      className={`p-3 rounded-lg border transition-colors ${
+                        isUnread
+                          ? 'bg-blue-50 border-blue-200'
+                          : 'bg-gray-50 border-gray-200'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between gap-2">
+                        <div className="flex-1 min-w-0">
+                          <div className="flex items-center gap-2 mb-1">
+                            {isFeature ? (
+                              <svg className="w-4 h-4 text-amber-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+                              </svg>
+                            ) : (
+                              <svg className="w-4 h-4 text-red-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                              </svg>
+                            )}
+                            <span className="text-sm font-medium text-gray-900 truncate">
+                              {notification.title}
+                            </span>
+                          </div>
+                          <p className="text-xs text-gray-600 line-clamp-2 mb-1">
+                            {notification.message}
+                          </p>
+                          <div className="flex items-center gap-2 text-xs text-gray-400">
+                            <span>{formatNotificationTime(notification.createdAt)}</span>
+                            {notification.metadata?.contactEmail && (
+                              <span className="truncate">
+                                {notification.metadata.contactEmail}
+                              </span>
+                            )}
+                          </div>
+                        </div>
+                        <div className="flex items-center gap-1 flex-shrink-0">
+                          {isUnread && (
+                            <button
+                              onClick={() => handleMarkNotificationRead(notification.id)}
+                              className="p-1 text-gray-400 hover:text-blue-600"
+                              title="Mark as read"
+                            >
+                              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                              </svg>
+                            </button>
+                          )}
+                          <button
+                            onClick={() => handleDeleteNotification(notification.id)}
+                            className="p-1 text-gray-400 hover:text-red-600"
+                            title="Delete"
+                          >
+                            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            )}
           </div>
 
           {/* Profile Export */}

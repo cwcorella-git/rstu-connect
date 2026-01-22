@@ -1,8 +1,8 @@
 {
-  "commit": "008975da",
-  "message": "Fix all ESLint warnings across 29 component files",
+  "commit": "964fd417",
+  "message": "Switch to Supabase Auth magic links for email verification",
   "author": "cwcorella-git",
-  "date": "2026-01-21 15:29:41 -0800",
+  "date": "2026-01-22 02:58:23 -0800",
   "branch": "main",
-  "buildTime": "2026-01-21T23:34:25.278Z"
+  "buildTime": "2026-01-22T11:51:08.683Z"
 }

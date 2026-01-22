@@ -3,6 +3,7 @@ import { createLogger } from './logger'
 const log = createLogger('Feedback')
 
 import { supabase, USE_SUPABASE } from './supabase'
+import { createNotification } from './notificationStorage'
 
 // Type definitions
 export interface FeedbackItem {
@@ -85,6 +86,8 @@ export async function submitFeedback(data: SubmitFeedbackData): Promise<SubmitFe
         log.error('Supabase insert error:', error)
         // Fall through to localStorage
       } else {
+        // Notify admins
+        notifyAdminsOfFeedback(data)
         return { success: true }
       }
     } catch (e) {
@@ -105,6 +108,8 @@ export async function submitFeedback(data: SubmitFeedbackData): Promise<SubmitFe
     state.items.push(newItem)
     state.lastModified = Date.now()
     saveLocalFeedbackState(state)
+    // Notify admins
+    notifyAdminsOfFeedback(data)
     return { success: true }
   } catch (e) {
     log.error('localStorage error:', e)
@@ -123,5 +128,24 @@ export function getAllFeedback(): FeedbackItem[] {
   const state = getLocalFeedbackState()
   return state.items.sort((a, b) =>
     new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
+  )
+}
+
+/**
+ * Create admin notification for feedback submission
+ */
+function notifyAdminsOfFeedback(data: SubmitFeedbackData): void {
+  const isFeature = data.type === 'feature'
+  const notificationType = isFeature ? 'feedback_feature' : 'feedback_bug'
+  const title = isFeature ? `Feature Suggestion: ${data.title}` : `Bug Report: ${data.title}`
+
+  createNotification(
+    notificationType,
+    title,
+    data.description,
+    {
+      contactEmail: data.contactEmail || null,
+      page: typeof window !== 'undefined' ? window.location.pathname : null,
+    }
   )
 }

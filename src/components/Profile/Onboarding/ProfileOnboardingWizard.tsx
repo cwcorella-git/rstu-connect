@@ -2,10 +2,9 @@
 
 import { useEffect, useState, useCallback } from 'react';
 import { createProfileAsync, getCurrentProfile } from '@/lib/profileStorage';
-import { isEmailVerificationAvailable } from '@/lib/emailVerification';
 import type { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
-import type { OnboardingFormData, OnboardingStep, EmailVerificationResult } from './types';
+import type { OnboardingFormData, OnboardingStep } from './types';
 import {
   getNextStep,
   getPreviousStep,
@@ -57,12 +56,6 @@ export function ProfileOnboardingWizard({
     valid: false,
     error: undefined as string | undefined,
   });
-  const [emailVerification, setEmailVerification] = useState<EmailVerificationResult>({
-    codeSent: false,
-    verified: false,
-  });
-
-  const requireEmailVerification = isEmailVerificationAvailable();
 
   // Initialize from URL invite code or resume draft
   useEffect(() => {
@@ -103,8 +96,6 @@ export function ProfileOnboardingWizard({
     emailError: emailValidation.error,
     inviteValid: inviteValidation.valid,
     inviteError: inviteValidation.error,
-    emailVerified: emailVerification.verified || formData.emailVerified,
-    requireEmailVerification,
   });
 
   // Handle profile creation (from review step) - defined first since handleNext depends on it
@@ -128,7 +119,6 @@ export function ProfileOnboardingWizard({
           buildingAddress: formData.buildingAddress,
           unitNumber: formData.unitNumber,
           inviteCode: formData.inviteCode,
-          emailVerified: formData.emailVerified,
         }),
         timeoutPromise,
       ]);
@@ -221,10 +211,6 @@ export function ProfileOnboardingWizard({
     });
   }, []);
 
-  const handleEmailVerification = useCallback((result: EmailVerificationResult) => {
-    setEmailVerification(result);
-  }, []);
-
   // Render current step
   const renderCurrentStep = () => {
     const stepProps = {
@@ -232,14 +218,13 @@ export function ProfileOnboardingWizard({
       onFormDataChange: setFormData,
       onEmailValidation: handleEmailValidation,
       onInviteValidation: handleInviteValidation,
-      onEmailVerification: handleEmailVerification,
     };
 
     switch (currentStep) {
       case 'welcome':
         return <StepWelcome {...stepProps} />;
       case 'identity':
-        return <StepIdentity {...stepProps} emailValidation={emailValidation} onEmailVerification={handleEmailVerification} />;
+        return <StepIdentity {...stepProps} emailValidation={emailValidation} />;
       case 'building':
         return <StepBuilding {...stepProps} buildings={buildings} />;
       case 'household':

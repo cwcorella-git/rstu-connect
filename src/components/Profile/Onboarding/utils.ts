@@ -85,30 +85,20 @@ export function canProceedFromStep(
     emailError?: string;
     inviteValid?: boolean;
     inviteError?: string;
-    emailVerified?: boolean;
-    requireEmailVerification?: boolean;
   }
 ): boolean {
-  // Email verification helper
-  const isEmailVerified = () => {
-    if (!validation.requireEmailVerification) return true;
-    return validation.emailVerified === true || formData.emailVerified === true;
-  };
-
   switch (step) {
     case 'welcome':
       // Welcome step requires valid invite code
       return validation.inviteValid === true;
 
     case 'identity':
-      // Both nickname and email required, email must be available
-      // If email verification is enabled, email must be verified
+      // Both nickname and email required, email must be available (unique)
       return (
         formData.nickname.length >= 2 &&
         formData.email.length > 0 &&
         validateEmailFormat(formData.email) &&
-        validation.emailAvailable === true &&
-        isEmailVerified()
+        validation.emailAvailable === true
       );
 
     case 'building':
@@ -126,8 +116,7 @@ export function canProceedFromStep(
         formData.nickname.length >= 2 &&
         formData.email.length > 0 &&
         validateEmailFormat(formData.email) &&
-        validation.emailAvailable === true &&
-        isEmailVerified()
+        validation.emailAvailable === true
       );
 
     default:
