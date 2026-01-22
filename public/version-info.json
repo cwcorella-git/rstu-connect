@@ -1,8 +1,8 @@
 {
-  "commit": "9c2ad824",
-  "message": "Add centralized ID utilities with offline support",
+  "commit": "008975da",
+  "message": "Fix all ESLint warnings across 29 component files",
   "author": "cwcorella-git",
-  "date": "2026-01-21 15:13:40 -0800",
+  "date": "2026-01-21 15:29:41 -0800",
   "branch": "main",
-  "buildTime": "2026-01-21T23:21:45.974Z"
+  "buildTime": "2026-01-21T23:34:25.278Z"
 }

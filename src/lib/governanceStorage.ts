@@ -1397,6 +1397,91 @@ export function finalizeProposal(proposalId: string): boolean {
   return true
 }
 
+/**
+ * Finalize a proposal via server RPC
+ * Validates permissions server-side and executes side effects (like muting)
+ * Falls back to local-only if server is unavailable
+ */
+export async function finalizeProposalAsync(
+  proposalId: string
+): Promise<{ success: boolean; error?: string }> {
+  const profile = getCurrentProfile()
+  if (!profile) {
+    return { success: false, error: 'Not logged in' }
+  }
+
+  // Only organizers/admins can finalize
+  if (profile.role !== 'organizer' && profile.role !== 'admin') {
+    return { success: false, error: 'Only organizers can finalize proposals' }
+  }
+
+  const state = getState()
+  const proposal = state.proposals.find(p => p.id === proposalId)
+  if (!proposal || proposal.status !== 'pending-finalize') {
+    return { success: false, error: 'Proposal not found or not awaiting finalization' }
+  }
+
+  // Try server-side finalization first
+  if (USE_SUPABASE && supabase) {
+    try {
+      requireOnline('finalize proposal')
+
+      const { data, error } = await supabase.rpc('finalize_proposal_secure', {
+        p_actor_id: profile.id,
+        p_proposal_id: proposalId
+      })
+
+      if (error) {
+        log.error('Server error finalizing proposal:', error)
+        // Fall through to local finalization
+      } else if (data && !data.success) {
+        // Server explicitly rejected - don't fall back to local
+        return { success: false, error: data.error }
+      } else {
+        // Server succeeded - update local state to match
+        proposal.finalizedBy = profile.id
+        proposal.executedAt = Date.now()
+        proposal.status = 'executed'
+
+        // Execute the mute locally as well (server already did it)
+        if (proposal.type === 'mute-tenant' && proposal.targetProfileId) {
+          const groups = getLinkedGroups()
+          const group = groups.find(g => g.id === proposal.groupId)
+          if (group) {
+            const mutedProfiles = group.mutedProfiles || []
+            if (!mutedProfiles.includes(proposal.targetProfileId)) {
+              updateLinkedGroup(proposal.groupId, {
+                mutedProfiles: [...mutedProfiles, proposal.targetProfileId]
+              })
+            }
+          }
+        }
+
+        saveState(state)
+        log.info('Proposal finalized via server:', proposalId)
+        return { success: true }
+      }
+    } catch (e) {
+      if (e instanceof OfflineError) {
+        log.warn('Offline - falling back to local finalization')
+        // Fall through to local finalization
+      } else {
+        log.error('Failed to finalize proposal:', e)
+        // Fall through to local finalization
+      }
+    }
+  }
+
+  // Local-only finalization (offline or no server)
+  const localSuccess = finalizeProposal(proposalId)
+  if (localSuccess) {
+    log.info('Proposal finalized locally:', proposalId)
+    return { success: true }
+  }
+
+  return { success: false, error: 'Failed to finalize proposal' }
+}
+
 // ============================================================================
 // Banner Dismissal
 // ============================================================================

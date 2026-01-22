@@ -1,11 +1,11 @@
 'use client'
 
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import {
   getProposal,
   getUserVote,
   voteOnProposal,
-  finalizeProposal,
+  finalizeProposalAsync,
   canFinalizeProposal,
   getProposalTypeLabel,
   VOTE_THRESHOLDS,
@@ -37,6 +37,8 @@ export function GovernanceVoteCard({
   const canFinalize = canFinalizeProposal()
 
   const linkedGroups = useMemo(() => getLinkedGroups(), [])
+  const [isFinalizingProposal, setIsFinalizingProposal] = useState(false)
+  const [finalizeError, setFinalizeError] = useState<string | null>(null)
 
   if (!proposal) {
     return null
@@ -56,10 +58,18 @@ export function GovernanceVoteCard({
     onVote(proposalId, vote)
   }
 
-  const handleFinalize = () => {
-    if (finalizeProposal(proposalId)) {
-      // Force refresh
+  const handleFinalize = async () => {
+    setIsFinalizingProposal(true)
+    setFinalizeError(null)
+
+    const result = await finalizeProposalAsync(proposalId)
+
+    if (result.success) {
+      // Force refresh to show updated state
       window.location.reload()
+    } else {
+      setFinalizeError(result.error || 'Failed to finalize')
+      setIsFinalizingProposal(false)
     }
   }
 
@@ -229,10 +239,20 @@ export function GovernanceVoteCard({
         <div className="mt-3 pt-3 border-t border-purple-200">
           <button
             onClick={handleFinalize}
-            className="w-full px-3 py-2 bg-yellow-500 text-white rounded text-sm font-medium hover:bg-yellow-600"
+            disabled={isFinalizingProposal}
+            className={`w-full px-3 py-2 text-white rounded text-sm font-medium ${
+              isFinalizingProposal
+                ? 'bg-yellow-400 cursor-not-allowed'
+                : 'bg-yellow-500 hover:bg-yellow-600'
+            }`}
           >
-            Finalize (Organizer Action)
+            {isFinalizingProposal ? 'Finalizing...' : 'Finalize (Organizer Action)'}
           </button>
+          {finalizeError && (
+            <p className="text-xs text-red-600 mt-1 text-center">
+              {finalizeError}
+            </p>
+          )}
           <p className="text-xs text-gray-500 mt-1 text-center">
             This proposal passed but requires organizer approval to execute.
           </p>
