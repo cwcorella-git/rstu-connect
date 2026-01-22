@@ -85,15 +85,14 @@ export function canProceedFromStep(
     emailError?: string;
     inviteValid?: boolean;
     inviteError?: string;
-    passwordValid?: boolean;
-    passwordError?: string;
-    requirePassword?: boolean;
+    emailVerified?: boolean;
+    requireEmailVerification?: boolean;
   }
 ): boolean {
-  // Password validation helper
-  const isPasswordValid = () => {
-    if (!validation.requirePassword) return true;
-    return validation.passwordValid === true;
+  // Email verification helper
+  const isEmailVerified = () => {
+    if (!validation.requireEmailVerification) return true;
+    return validation.emailVerified === true || formData.emailVerified === true;
   };
 
   switch (step) {
@@ -103,13 +102,13 @@ export function canProceedFromStep(
 
     case 'identity':
       // Both nickname and email required, email must be available
-      // If Supabase Auth is enabled, password is also required
+      // If email verification is enabled, email must be verified
       return (
         formData.nickname.length >= 2 &&
         formData.email.length > 0 &&
         validateEmailFormat(formData.email) &&
         validation.emailAvailable === true &&
-        isPasswordValid()
+        isEmailVerified()
       );
 
     case 'building':
@@ -128,7 +127,7 @@ export function canProceedFromStep(
         formData.email.length > 0 &&
         validateEmailFormat(formData.email) &&
         validation.emailAvailable === true &&
-        isPasswordValid()
+        isEmailVerified()
       );
 
     default:

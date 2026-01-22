@@ -2,10 +2,10 @@
 
 import { useEffect, useState, useCallback } from 'react';
 import { createProfileAsync, getCurrentProfile } from '@/lib/profileStorage';
-import { isSupabaseAuthAvailable } from '@/lib/supabaseAuth';
+import { isEmailVerificationAvailable } from '@/lib/emailVerification';
 import type { EnhancedBuilding } from '@/lib/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
-import type { OnboardingFormData, OnboardingStep, ValidatePasswordResult } from './types';
+import type { OnboardingFormData, OnboardingStep, EmailVerificationResult } from './types';
 import {
   getNextStep,
   getPreviousStep,
@@ -48,7 +48,7 @@ export function ProfileOnboardingWizard({
   const [error, setError] = useState<string | null>(null);
   const [profileCreated, setProfileCreated] = useState(false);
 
-  // Validation state for email, invite, and password
+  // Validation state for email, invite, and email verification
   const [emailValidation, setEmailValidation] = useState({
     available: false,
     error: undefined as string | undefined,
@@ -57,12 +57,12 @@ export function ProfileOnboardingWizard({
     valid: false,
     error: undefined as string | undefined,
   });
-  const [passwordValidation, setPasswordValidation] = useState<ValidatePasswordResult>({
-    valid: false,
-    error: undefined,
+  const [emailVerification, setEmailVerification] = useState<EmailVerificationResult>({
+    codeSent: false,
+    verified: false,
   });
 
-  const requirePassword = isSupabaseAuthAvailable();
+  const requireEmailVerification = isEmailVerificationAvailable();
 
   // Initialize from URL invite code or resume draft
   useEffect(() => {
@@ -103,9 +103,8 @@ export function ProfileOnboardingWizard({
     emailError: emailValidation.error,
     inviteValid: inviteValidation.valid,
     inviteError: inviteValidation.error,
-    passwordValid: passwordValidation.valid,
-    passwordError: passwordValidation.error,
-    requirePassword,
+    emailVerified: emailVerification.verified || formData.emailVerified,
+    requireEmailVerification,
   });
 
   // Handle profile creation (from review step) - defined first since handleNext depends on it
@@ -125,11 +124,11 @@ export function ProfileOnboardingWizard({
         createProfileAsync({
           nickname: formData.nickname,
           email: formData.email,
-          password: formData.password,
           buildingId: formData.buildingId,
           buildingAddress: formData.buildingAddress,
           unitNumber: formData.unitNumber,
           inviteCode: formData.inviteCode,
+          emailVerified: formData.emailVerified,
         }),
         timeoutPromise,
       ]);
@@ -222,8 +221,8 @@ export function ProfileOnboardingWizard({
     });
   }, []);
 
-  const handlePasswordValidation = useCallback((result: ValidatePasswordResult) => {
-    setPasswordValidation(result);
+  const handleEmailVerification = useCallback((result: EmailVerificationResult) => {
+    setEmailVerification(result);
   }, []);
 
   // Render current step
@@ -233,14 +232,14 @@ export function ProfileOnboardingWizard({
       onFormDataChange: setFormData,
       onEmailValidation: handleEmailValidation,
       onInviteValidation: handleInviteValidation,
-      onPasswordValidation: handlePasswordValidation,
+      onEmailVerification: handleEmailVerification,
     };
 
     switch (currentStep) {
       case 'welcome':
         return <StepWelcome {...stepProps} />;
       case 'identity':
-        return <StepIdentity {...stepProps} emailValidation={emailValidation} onPasswordValidation={handlePasswordValidation} />;
+        return <StepIdentity {...stepProps} emailValidation={emailValidation} onEmailVerification={handleEmailVerification} />;
       case 'building':
         return <StepBuilding {...stepProps} buildings={buildings} />;
       case 'household':

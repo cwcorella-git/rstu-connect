@@ -62,6 +62,7 @@ export interface UserProfile {
   // Contact info (private - organizer/admin only)
   phone?: string
   email?: string
+  emailVerified?: boolean
   preferredContact?: 'phone' | 'text' | 'email'
   language?: string
 
@@ -263,6 +264,7 @@ function dbToProfile(db: DbProfile): UserProfile {
     unitNumber: db.unit_number || undefined,
     phone: db.phone || undefined,
     email: db.email || undefined,
+    emailVerified: db.email_verified || false,
     preferredContact: db.preferred_contact || undefined,
     language: db.language || undefined,
     rentAmount: db.rent_amount || undefined,
@@ -290,6 +292,7 @@ function profileToDb(profile: UserProfile): Partial<DbProfile> {
     unit_number: profile.unitNumber || null,
     phone: profile.phone || null,
     email: profile.email || null,
+    email_verified: profile.emailVerified || false,
     preferred_contact: profile.preferredContact || null,
     language: profile.language || null,
     rent_amount: profile.rentAmount || null,
@@ -1857,7 +1860,7 @@ function logVerificationAction(action: {
 export async function createProfileAsync(data: {
   nickname: string
   email?: string
-  password?: string // Password for Supabase Auth (if available)
+  emailVerified?: boolean // Whether email has been verified via verification code
   buildingId?: string
   buildingAddress?: string
   unitNumber?: string
@@ -1880,24 +1883,6 @@ export async function createProfileAsync(data: {
           `Please login instead of creating a new profile.`
         )
       }
-    }
-  }
-
-  // If password provided and Supabase is available, create Supabase Auth user first
-  let authUserId: string | undefined
-  if (data.password && normalizedEmail && USE_SUPABASE && supabase) {
-    try {
-      const { signUpWithEmail } = await import('./supabaseAuth')
-      const authResult = await signUpWithEmail(normalizedEmail, data.password)
-
-      if (!authResult.success) {
-        throw new Error(authResult.error || 'Failed to create account')
-      }
-
-      authUserId = authResult.user?.id
-    } catch (err) {
-      // Re-throw auth errors
-      throw err
     }
   }
 
@@ -1936,6 +1921,7 @@ export async function createProfileAsync(data: {
     id: generateId(),
     nickname: data.nickname,
     email: normalizedEmail,
+    emailVerified: data.emailVerified || false,
     role,
     trustLevel,
     buildingId: data.buildingId,
@@ -1951,7 +1937,7 @@ export async function createProfileAsync(data: {
   state.currentProfile = profile
   saveProfileState(state)
 
-  // Sync to Supabase (profile will be auto-linked to auth user via trigger if auth_user_id matches email)
+  // Sync to Supabase
   if (USE_SUPABASE) {
     const saved = await saveProfileToDb(profile)
     if (!saved) {
@@ -1959,18 +1945,6 @@ export async function createProfileAsync(data: {
       state.currentProfile = null
       saveProfileState(state)
       throw new Error('Failed to save profile. Email may already be in use.')
-    }
-
-    // If we created an auth user, manually link them if the trigger didn't work
-    if (authUserId && supabase) {
-      try {
-        await supabase.rpc('migrate_profile_to_auth', {
-          profile_id_input: profile.id,
-          auth_user_id_input: authUserId,
-        })
-      } catch {
-        // Ignore errors - trigger should have handled this
-      }
     }
   }
 

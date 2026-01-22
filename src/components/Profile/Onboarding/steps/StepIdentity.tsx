@@ -2,15 +2,15 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { isEmailAvailable } from '@/lib/profileStorage';
-import { validatePassword, isSupabaseAuthAvailable } from '@/lib/supabaseAuth';
+import { sendVerificationCode, verifyEmailCode, isEmailVerificationAvailable } from '@/lib/emailVerification';
 import { getFieldError } from '../utils';
-import type { OnboardingFormData, ValidateEmailResult, ValidatePasswordResult } from '../types';
+import type { OnboardingFormData, ValidateEmailResult, EmailVerificationResult } from '../types';
 
 interface StepIdentityProps {
   formData: OnboardingFormData;
   onFormDataChange: (data: OnboardingFormData) => void;
   onEmailValidation: (result: ValidateEmailResult) => void;
-  onPasswordValidation?: (result: ValidatePasswordResult) => void;
+  onEmailVerification?: (result: EmailVerificationResult) => void;
   emailValidation?: ValidateEmailResult;
 }
 
@@ -18,21 +18,24 @@ export function StepIdentity({
   formData,
   onFormDataChange,
   onEmailValidation,
-  onPasswordValidation,
+  onEmailVerification,
 }: StepIdentityProps) {
   const [email, setEmail] = useState(formData.email);
   const [nickname, setNickname] = useState(formData.nickname);
-  const [password, setPassword] = useState(formData.password || '');
-  const [confirmPassword, setConfirmPassword] = useState(formData.confirmPassword || '');
+  const [verificationCode, setVerificationCode] = useState(formData.verificationCode || '');
   const [emailError, setEmailError] = useState<string | null>(null);
   const [nicknameError, setNicknameError] = useState<string | null>(null);
-  const [passwordError, setPasswordError] = useState<string | null>(null);
   const [isValidatingEmail, setIsValidatingEmail] = useState(false);
-  const [showPassword, setShowPassword] = useState(false);
+  const [isSendingCode, setIsSendingCode] = useState(false);
+  const [isVerifyingCode, setIsVerifyingCode] = useState(false);
+  const [codeSent, setCodeSent] = useState(formData.emailVerified ? true : false);
+  const [codeError, setCodeError] = useState<string | null>(null);
+  const [emailVerified, setEmailVerified] = useState(formData.emailVerified || false);
+  const [cooldownSeconds, setCooldownSeconds] = useState(0);
   const emailCheckTimeout = useRef<NodeJS.Timeout | null>(null);
   const autoFocusRef = useRef<HTMLInputElement>(null);
 
-  const requirePassword = isSupabaseAuthAvailable();
+  const emailVerificationEnabled = isEmailVerificationAvailable();
 
   // Use ref to avoid stale closure issues with formData
   const formDataRef = useRef(formData);
@@ -45,6 +48,14 @@ export function StepIdentity({
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  // Cooldown timer for resend button
+  useEffect(() => {
+    if (cooldownSeconds > 0) {
+      const timer = setTimeout(() => setCooldownSeconds(cooldownSeconds - 1), 1000);
+      return () => clearTimeout(timer);
+    }
+  }, [cooldownSeconds]);
 
   // Handle nickname change - update local state and parent
   const handleNicknameChange = useCallback((value: string) => {
@@ -64,55 +75,106 @@ export function StepIdentity({
     const normalizedEmail = value.toLowerCase();
     setEmail(normalizedEmail);
 
+    // Reset verification state when email changes
+    if (normalizedEmail !== formDataRef.current.email) {
+      setCodeSent(false);
+      setEmailVerified(false);
+      setVerificationCode('');
+      setCodeError(null);
+    }
+
     // Update parent form data immediately
     onFormDataChange({
       ...formDataRef.current,
       email: normalizedEmail,
+      emailVerified: false,
+      verificationCode: '',
     });
   }, [onFormDataChange]);
 
-  // Handle password change
-  const handlePasswordChange = useCallback((value: string) => {
-    setPassword(value);
-    const validation = validatePassword(value);
-    setPasswordError(validation.valid ? null : validation.error || null);
+  // Handle verification code change
+  const handleCodeChange = useCallback((value: string) => {
+    // Only allow digits, max 6 characters
+    const cleanCode = value.replace(/\D/g, '').slice(0, 6);
+    setVerificationCode(cleanCode);
+    setCodeError(null);
 
     // Update parent form data
     onFormDataChange({
       ...formDataRef.current,
-      password: value,
+      verificationCode: cleanCode,
     });
+  }, [onFormDataChange]);
 
-    // Notify parent of validation state
-    if (onPasswordValidation) {
-      const passwordsMatch = value === confirmPassword;
-      onPasswordValidation({
-        valid: validation.valid && passwordsMatch,
-        error: validation.error || (!passwordsMatch ? 'Passwords do not match' : undefined),
-      });
+  // Send verification code
+  const handleSendCode = useCallback(async () => {
+    if (!email || isSendingCode || cooldownSeconds > 0) return;
+
+    setIsSendingCode(true);
+    setCodeError(null);
+
+    try {
+      const result = await sendVerificationCode(email, nickname);
+
+      if (result.success) {
+        setCodeSent(true);
+        setCooldownSeconds(60); // 60 second cooldown before resend
+        if (onEmailVerification) {
+          onEmailVerification({ codeSent: true, verified: false });
+        }
+      } else {
+        setCodeError(result.error || 'Failed to send verification code');
+        if (onEmailVerification) {
+          onEmailVerification({ codeSent: false, verified: false, error: result.error });
+        }
+      }
+    } catch (err) {
+      const message = err instanceof Error ? err.message : 'Failed to send code';
+      setCodeError(message);
+      if (onEmailVerification) {
+        onEmailVerification({ codeSent: false, verified: false, error: message });
+      }
+    } finally {
+      setIsSendingCode(false);
     }
-  }, [onFormDataChange, onPasswordValidation, confirmPassword]);
+  }, [email, nickname, isSendingCode, cooldownSeconds, onEmailVerification]);
 
-  // Handle confirm password change
-  const handleConfirmPasswordChange = useCallback((value: string) => {
-    setConfirmPassword(value);
+  // Verify code
+  const handleVerifyCode = useCallback(async () => {
+    if (!email || !verificationCode || verificationCode.length !== 6 || isVerifyingCode) return;
 
-    // Update parent form data
-    onFormDataChange({
-      ...formDataRef.current,
-      confirmPassword: value,
-    });
+    setIsVerifyingCode(true);
+    setCodeError(null);
 
-    // Notify parent of validation state
-    if (onPasswordValidation) {
-      const validation = validatePassword(password);
-      const passwordsMatch = password === value;
-      onPasswordValidation({
-        valid: validation.valid && passwordsMatch,
-        error: !passwordsMatch ? 'Passwords do not match' : validation.error,
-      });
+    try {
+      const result = await verifyEmailCode(email, verificationCode);
+
+      if (result.success) {
+        setEmailVerified(true);
+        // Update parent form data
+        onFormDataChange({
+          ...formDataRef.current,
+          emailVerified: true,
+        });
+        if (onEmailVerification) {
+          onEmailVerification({ codeSent: true, verified: true });
+        }
+      } else {
+        setCodeError(result.error || 'Invalid verification code');
+        if (onEmailVerification) {
+          onEmailVerification({ codeSent: true, verified: false, error: result.error });
+        }
+      }
+    } catch (err) {
+      const message = err instanceof Error ? err.message : 'Failed to verify code';
+      setCodeError(message);
+      if (onEmailVerification) {
+        onEmailVerification({ codeSent: true, verified: false, error: message });
+      }
+    } finally {
+      setIsVerifyingCode(false);
     }
-  }, [onFormDataChange, onPasswordValidation, password]);
+  }, [email, verificationCode, isVerifyingCode, onFormDataChange, onEmailVerification]);
 
   // Debounced email validation effect
   useEffect(() => {
@@ -168,24 +230,8 @@ export function StepIdentity({
     };
   }, [email, onEmailValidation]);
 
-  const getPasswordStrength = (): { level: 'weak' | 'medium' | 'strong'; color: string } => {
-    if (!password) return { level: 'weak', color: 'bg-gray-200' };
-
-    let strength = 0;
-    if (password.length >= 8) strength++;
-    if (password.length >= 12) strength++;
-    if (/[A-Z]/.test(password)) strength++;
-    if (/[a-z]/.test(password)) strength++;
-    if (/\d/.test(password)) strength++;
-    if (/[^A-Za-z0-9]/.test(password)) strength++;
-
-    if (strength <= 2) return { level: 'weak', color: 'bg-red-500' };
-    if (strength <= 4) return { level: 'medium', color: 'bg-yellow-500' };
-    return { level: 'strong', color: 'bg-green-500' };
-  };
-
-  const passwordStrength = getPasswordStrength();
-  const passwordsMatch = password === confirmPassword;
+  const canSendCode = email && !emailError && !isValidatingEmail && !isSendingCode && cooldownSeconds === 0;
+  const canVerifyCode = verificationCode.length === 6 && !isVerifyingCode && !emailVerified;
 
   return (
     <div className="space-y-6">
@@ -236,9 +282,10 @@ export function StepIdentity({
             value={email}
             onChange={(e) => handleEmailChange(e.target.value)}
             placeholder="your@email.com"
+            disabled={emailVerified}
             className={`w-full px-4 py-3 border rounded-lg text-base font-medium focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
-              emailError ? 'border-red-500 bg-red-50' : 'border-gray-300'
-            }`}
+              emailError ? 'border-red-500 bg-red-50' : emailVerified ? 'border-green-500 bg-green-50' : 'border-gray-300'
+            } ${emailVerified ? 'cursor-not-allowed' : ''}`}
           />
 
           {/* Validation icons */}
@@ -262,7 +309,7 @@ export function StepIdentity({
             </div>
           )}
 
-          {email && !emailError && !isValidatingEmail && (
+          {email && !emailError && !isValidatingEmail && !emailVerified && (
             <div className="absolute right-3 top-1/2 -translate-y-1/2">
               <svg className="h-5 w-5 text-green-600" fill="currentColor" viewBox="0 0 20 20">
                 <path
@@ -273,95 +320,154 @@ export function StepIdentity({
               </svg>
             </div>
           )}
+
+          {emailVerified && (
+            <div className="absolute right-3 top-1/2 -translate-y-1/2 flex items-center gap-1 text-green-600">
+              <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 20 20">
+                <path
+                  fillRule="evenodd"
+                  d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                  clipRule="evenodd"
+                />
+              </svg>
+              <span className="text-xs font-medium">Verified</span>
+            </div>
+          )}
         </div>
 
         {emailError && <p className="text-xs sm:text-sm text-red-600 mt-2">{emailError}</p>}
 
         <p className="text-xs text-gray-500 mt-2">
-          We&apos;ll use this to send you organizing updates and help recover your account.
+          We&apos;ll send a verification code to confirm your email.
         </p>
       </div>
 
-      {/* Password fields - only show if Supabase Auth is available */}
-      {requirePassword && (
-        <>
-          <div>
-            <label htmlFor="password" className="block text-sm font-medium text-gray-700 mb-2">
-              Password <span className="text-rstu-red">*</span>
-            </label>
-            <div className="relative">
-              <input
-                id="password"
-                type={showPassword ? 'text' : 'password'}
-                value={password}
-                onChange={(e) => handlePasswordChange(e.target.value)}
-                placeholder="Create a secure password"
-                className={`w-full px-4 py-3 border rounded-lg text-base font-medium focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all pr-10 ${
-                  passwordError ? 'border-red-500 bg-red-50' : 'border-gray-300'
-                }`}
-              />
-              <button
-                type="button"
-                onClick={() => setShowPassword(!showPassword)}
-                className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
-              >
-                {showPassword ? (
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21" />
-                  </svg>
-                ) : (
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
-                  </svg>
-                )}
-              </button>
-            </div>
-
-            {/* Password strength indicator */}
-            {password && (
-              <div className="mt-2">
-                <div className="flex gap-1 mb-1">
-                  <div className={`h-1 flex-1 rounded ${password.length >= 1 ? passwordStrength.color : 'bg-gray-200'}`} />
-                  <div className={`h-1 flex-1 rounded ${password.length >= 8 ? passwordStrength.color : 'bg-gray-200'}`} />
-                  <div className={`h-1 flex-1 rounded ${passwordStrength.level !== 'weak' ? passwordStrength.color : 'bg-gray-200'}`} />
-                  <div className={`h-1 flex-1 rounded ${passwordStrength.level === 'strong' ? passwordStrength.color : 'bg-gray-200'}`} />
+      {/* Email Verification Section */}
+      {emailVerificationEnabled && email && !emailError && !isValidatingEmail && (
+        <div className="border border-gray-200 rounded-lg p-4 space-y-4">
+          {!emailVerified ? (
+            <>
+              {/* Send Code Button */}
+              {!codeSent ? (
+                <div>
+                  <button
+                    type="button"
+                    onClick={handleSendCode}
+                    disabled={!canSendCode}
+                    className={`w-full py-3 px-4 rounded-lg font-medium transition-all ${
+                      canSendCode
+                        ? 'bg-rstu-red text-white hover:bg-red-700'
+                        : 'bg-gray-200 text-gray-400 cursor-not-allowed'
+                    }`}
+                  >
+                    {isSendingCode ? (
+                      <span className="flex items-center justify-center gap-2">
+                        <svg className="animate-spin h-5 w-5" fill="none" viewBox="0 0 24 24">
+                          <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                          <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
+                        </svg>
+                        Sending...
+                      </span>
+                    ) : (
+                      'Send Verification Code'
+                    )}
+                  </button>
+                  <p className="text-xs text-gray-500 mt-2 text-center">
+                    We&apos;ll send a 6-digit code to {email}
+                  </p>
                 </div>
-                <p className={`text-xs ${
-                  passwordStrength.level === 'weak' ? 'text-red-600' :
-                  passwordStrength.level === 'medium' ? 'text-yellow-600' :
-                  'text-green-600'
-                }`}>
-                  Password strength: {passwordStrength.level}
-                </p>
+              ) : (
+                <>
+                  {/* Verification Code Input */}
+                  <div>
+                    <label htmlFor="verification-code" className="block text-sm font-medium text-gray-700 mb-2">
+                      Verification Code
+                    </label>
+                    <div className="flex gap-3">
+                      <input
+                        id="verification-code"
+                        type="text"
+                        inputMode="numeric"
+                        pattern="[0-9]*"
+                        value={verificationCode}
+                        onChange={(e) => handleCodeChange(e.target.value)}
+                        placeholder="000000"
+                        maxLength={6}
+                        className={`flex-1 px-4 py-3 border rounded-lg text-base font-mono font-bold tracking-widest text-center focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
+                          codeError ? 'border-red-500 bg-red-50' : 'border-gray-300'
+                        }`}
+                      />
+                      <button
+                        type="button"
+                        onClick={handleVerifyCode}
+                        disabled={!canVerifyCode}
+                        className={`px-6 py-3 rounded-lg font-medium transition-all ${
+                          canVerifyCode
+                            ? 'bg-green-600 text-white hover:bg-green-700'
+                            : 'bg-gray-200 text-gray-400 cursor-not-allowed'
+                        }`}
+                      >
+                        {isVerifyingCode ? (
+                          <svg className="animate-spin h-5 w-5" fill="none" viewBox="0 0 24 24">
+                            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
+                          </svg>
+                        ) : (
+                          'Verify'
+                        )}
+                      </button>
+                    </div>
+                    {codeError && <p className="text-xs sm:text-sm text-red-600 mt-2">{codeError}</p>}
+                  </div>
+
+                  {/* Resend Button */}
+                  <div className="flex items-center justify-between text-sm">
+                    <span className="text-gray-600">Didn&apos;t receive the code?</span>
+                    <button
+                      type="button"
+                      onClick={handleSendCode}
+                      disabled={cooldownSeconds > 0 || isSendingCode}
+                      className={`font-medium ${
+                        cooldownSeconds > 0 || isSendingCode
+                          ? 'text-gray-400 cursor-not-allowed'
+                          : 'text-rstu-red hover:text-red-700'
+                      }`}
+                    >
+                      {cooldownSeconds > 0 ? `Resend in ${cooldownSeconds}s` : 'Resend Code'}
+                    </button>
+                  </div>
+                </>
+              )}
+            </>
+          ) : (
+            /* Verified State */
+            <div className="flex items-center gap-3 py-2">
+              <div className="w-10 h-10 rounded-full bg-green-100 flex items-center justify-center">
+                <svg className="h-6 w-6 text-green-600" fill="currentColor" viewBox="0 0 20 20">
+                  <path
+                    fillRule="evenodd"
+                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                    clipRule="evenodd"
+                  />
+                </svg>
               </div>
-            )}
+              <div>
+                <p className="font-medium text-green-800">Email Verified</p>
+                <p className="text-sm text-green-600">{email}</p>
+              </div>
+            </div>
+          )}
+        </div>
+      )}
 
-            {passwordError && <p className="text-xs sm:text-sm text-red-600 mt-1">{passwordError}</p>}
-            <p className="text-xs text-gray-500 mt-2">
-              At least 8 characters with letters and numbers
-            </p>
-          </div>
-
-          <div>
-            <label htmlFor="confirm-password" className="block text-sm font-medium text-gray-700 mb-2">
-              Confirm Password <span className="text-rstu-red">*</span>
-            </label>
-            <input
-              id="confirm-password"
-              type={showPassword ? 'text' : 'password'}
-              value={confirmPassword}
-              onChange={(e) => handleConfirmPasswordChange(e.target.value)}
-              placeholder="Confirm your password"
-              className={`w-full px-4 py-3 border rounded-lg text-base font-medium focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
-                confirmPassword && !passwordsMatch ? 'border-red-500 bg-red-50' : 'border-gray-300'
-              }`}
-            />
-            {confirmPassword && !passwordsMatch && (
-              <p className="text-xs sm:text-sm text-red-600 mt-1">Passwords do not match</p>
-            )}
-          </div>
-        </>
+      {/* Warning if email verification not available */}
+      {!emailVerificationEnabled && (
+        <div className="p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
+          <p className="text-xs sm:text-sm text-yellow-800">
+            <strong>Note:</strong> Email verification is not currently available. Your email will be used for
+            account identification but won&apos;t be verified.
+          </p>
+        </div>
       )}
 
       {/* Progressive info section */}

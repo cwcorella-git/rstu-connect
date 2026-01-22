@@ -28,6 +28,7 @@ export interface DbProfile {
   unit_number: string | null
   phone: string | null
   email: string | null
+  email_verified: boolean
   preferred_contact: 'phone' | 'text' | 'email' | null
   language: string | null
   rent_amount: number | null
