@@ -2,7 +2,12 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { isEmailAvailable } from '@/lib/profileStorage';
-import { sendVerificationCode, verifyEmailCode, isEmailVerificationAvailable } from '@/lib/emailVerification';
+import {
+  sendVerificationLink,
+  checkVerificationStatus,
+  onAuthStateChange,
+  isEmailVerificationAvailable,
+} from '@/lib/emailVerification';
 import { getFieldError } from '../utils';
 import type { OnboardingFormData, ValidateEmailResult, EmailVerificationResult } from '../types';
 
@@ -22,14 +27,12 @@ export function StepIdentity({
 }: StepIdentityProps) {
   const [email, setEmail] = useState(formData.email);
   const [nickname, setNickname] = useState(formData.nickname);
-  const [verificationCode, setVerificationCode] = useState(formData.verificationCode || '');
   const [emailError, setEmailError] = useState<string | null>(null);
   const [nicknameError, setNicknameError] = useState<string | null>(null);
   const [isValidatingEmail, setIsValidatingEmail] = useState(false);
-  const [isSendingCode, setIsSendingCode] = useState(false);
-  const [isVerifyingCode, setIsVerifyingCode] = useState(false);
-  const [codeSent, setCodeSent] = useState(formData.emailVerified ? true : false);
-  const [codeError, setCodeError] = useState<string | null>(null);
+  const [isSendingLink, setIsSendingLink] = useState(false);
+  const [linkSent, setLinkSent] = useState(false);
+  const [linkError, setLinkError] = useState<string | null>(null);
   const [emailVerified, setEmailVerified] = useState(formData.emailVerified || false);
   const [cooldownSeconds, setCooldownSeconds] = useState(0);
   const emailCheckTimeout = useRef<NodeJS.Timeout | null>(null);
@@ -40,6 +43,55 @@ export function StepIdentity({
   // Use ref to avoid stale closure issues with formData
   const formDataRef = useRef(formData);
   formDataRef.current = formData;
+
+  // Check if already verified on mount (e.g., returning from magic link)
+  useEffect(() => {
+    const checkInitialStatus = async () => {
+      const status = await checkVerificationStatus();
+      if (status.verified && status.email) {
+        // User is already verified - update state
+        setEmailVerified(true);
+        if (status.email !== email) {
+          setEmail(status.email);
+        }
+        onFormDataChange({
+          ...formDataRef.current,
+          email: status.email,
+          emailVerified: true,
+        });
+        if (onEmailVerification) {
+          onEmailVerification({ codeSent: true, verified: true });
+        }
+      }
+    };
+
+    checkInitialStatus();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Listen for auth state changes (magic link callback)
+  useEffect(() => {
+    const unsubscribe = onAuthStateChange((verified, verifiedEmail) => {
+      if (verified && verifiedEmail) {
+        setEmailVerified(true);
+        setEmail(verifiedEmail);
+        onFormDataChange({
+          ...formDataRef.current,
+          email: verifiedEmail,
+          emailVerified: true,
+        });
+        if (onEmailVerification) {
+          onEmailVerification({ codeSent: true, verified: true });
+        }
+      }
+    });
+
+    return () => {
+      if (unsubscribe) {
+        unsubscribe();
+      }
+    };
+  }, [onFormDataChange, onEmailVerification]);
 
   // Auto-focus nickname input on mount
   useEffect(() => {
@@ -77,10 +129,9 @@ export function StepIdentity({
 
     // Reset verification state when email changes
     if (normalizedEmail !== formDataRef.current.email) {
-      setCodeSent(false);
+      setLinkSent(false);
       setEmailVerified(false);
-      setVerificationCode('');
-      setCodeError(null);
+      setLinkError(null);
     }
 
     // Update parent form data immediately
@@ -88,93 +139,41 @@ export function StepIdentity({
       ...formDataRef.current,
       email: normalizedEmail,
       emailVerified: false,
-      verificationCode: '',
     });
   }, [onFormDataChange]);
 
-  // Handle verification code change
-  const handleCodeChange = useCallback((value: string) => {
-    // Only allow digits, max 6 characters
-    const cleanCode = value.replace(/\D/g, '').slice(0, 6);
-    setVerificationCode(cleanCode);
-    setCodeError(null);
+  // Send verification link
+  const handleSendLink = useCallback(async () => {
+    if (!email || isSendingLink || cooldownSeconds > 0) return;
 
-    // Update parent form data
-    onFormDataChange({
-      ...formDataRef.current,
-      verificationCode: cleanCode,
-    });
-  }, [onFormDataChange]);
-
-  // Send verification code
-  const handleSendCode = useCallback(async () => {
-    if (!email || isSendingCode || cooldownSeconds > 0) return;
-
-    setIsSendingCode(true);
-    setCodeError(null);
+    setIsSendingLink(true);
+    setLinkError(null);
 
     try {
-      const result = await sendVerificationCode(email, nickname);
+      const result = await sendVerificationLink(email);
 
       if (result.success) {
-        setCodeSent(true);
+        setLinkSent(true);
         setCooldownSeconds(60); // 60 second cooldown before resend
         if (onEmailVerification) {
           onEmailVerification({ codeSent: true, verified: false });
         }
       } else {
-        setCodeError(result.error || 'Failed to send verification code');
+        setLinkError(result.error || 'Failed to send verification email');
         if (onEmailVerification) {
           onEmailVerification({ codeSent: false, verified: false, error: result.error });
         }
       }
     } catch (err) {
-      const message = err instanceof Error ? err.message : 'Failed to send code';
-      setCodeError(message);
+      const message = err instanceof Error ? err.message : 'Failed to send email';
+      setLinkError(message);
       if (onEmailVerification) {
         onEmailVerification({ codeSent: false, verified: false, error: message });
       }
     } finally {
-      setIsSendingCode(false);
+      setIsSendingLink(false);
     }
-  }, [email, nickname, isSendingCode, cooldownSeconds, onEmailVerification]);
-
-  // Verify code
-  const handleVerifyCode = useCallback(async () => {
-    if (!email || !verificationCode || verificationCode.length !== 6 || isVerifyingCode) return;
-
-    setIsVerifyingCode(true);
-    setCodeError(null);
-
-    try {
-      const result = await verifyEmailCode(email, verificationCode);
-
-      if (result.success) {
-        setEmailVerified(true);
-        // Update parent form data
-        onFormDataChange({
-          ...formDataRef.current,
-          emailVerified: true,
-        });
-        if (onEmailVerification) {
-          onEmailVerification({ codeSent: true, verified: true });
-        }
-      } else {
-        setCodeError(result.error || 'Invalid verification code');
-        if (onEmailVerification) {
-          onEmailVerification({ codeSent: true, verified: false, error: result.error });
-        }
-      }
-    } catch (err) {
-      const message = err instanceof Error ? err.message : 'Failed to verify code';
-      setCodeError(message);
-      if (onEmailVerification) {
-        onEmailVerification({ codeSent: true, verified: false, error: message });
-      }
-    } finally {
-      setIsVerifyingCode(false);
-    }
-  }, [email, verificationCode, isVerifyingCode, onFormDataChange, onEmailVerification]);
+  }, [email, isSendingLink, cooldownSeconds, onEmailVerification]);
 
   // Debounced email validation effect
   useEffect(() => {
@@ -230,8 +229,7 @@ export function StepIdentity({
     };
   }, [email, onEmailValidation]);
 
-  const canSendCode = email && !emailError && !isValidatingEmail && !isSendingCode && cooldownSeconds === 0;
-  const canVerifyCode = verificationCode.length === 6 && !isVerifyingCode && !emailVerified;
+  const canSendLink = email && !emailError && !isValidatingEmail && !isSendingLink && cooldownSeconds === 0;
 
   return (
     <div className="space-y-6">
@@ -338,7 +336,7 @@ export function StepIdentity({
         {emailError && <p className="text-xs sm:text-sm text-red-600 mt-2">{emailError}</p>}
 
         <p className="text-xs text-gray-500 mt-2">
-          We&apos;ll send a verification code to confirm your email.
+          We&apos;ll send a verification link to confirm your email.
         </p>
       </div>
 
@@ -347,20 +345,20 @@ export function StepIdentity({
         <div className="border border-gray-200 rounded-lg p-4 space-y-4">
           {!emailVerified ? (
             <>
-              {/* Send Code Button */}
-              {!codeSent ? (
+              {/* Send Link Button or Waiting State */}
+              {!linkSent ? (
                 <div>
                   <button
                     type="button"
-                    onClick={handleSendCode}
-                    disabled={!canSendCode}
+                    onClick={handleSendLink}
+                    disabled={!canSendLink}
                     className={`w-full py-3 px-4 rounded-lg font-medium transition-all ${
-                      canSendCode
+                      canSendLink
                         ? 'bg-rstu-red text-white hover:bg-red-700'
                         : 'bg-gray-200 text-gray-400 cursor-not-allowed'
                     }`}
                   >
-                    {isSendingCode ? (
+                    {isSendingLink ? (
                       <span className="flex items-center justify-center gap-2">
                         <svg className="animate-spin h-5 w-5" fill="none" viewBox="0 0 24 24">
                           <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
@@ -369,74 +367,59 @@ export function StepIdentity({
                         Sending...
                       </span>
                     ) : (
-                      'Send Verification Code'
+                      'Send Verification Link'
                     )}
                   </button>
+                  {linkError && <p className="text-xs sm:text-sm text-red-600 mt-2">{linkError}</p>}
                   <p className="text-xs text-gray-500 mt-2 text-center">
-                    We&apos;ll send a 6-digit code to {email}
+                    We&apos;ll send a link to {email}
                   </p>
                 </div>
               ) : (
-                <>
-                  {/* Verification Code Input */}
-                  <div>
-                    <label htmlFor="verification-code" className="block text-sm font-medium text-gray-700 mb-2">
-                      Verification Code
-                    </label>
-                    <div className="flex gap-3">
-                      <input
-                        id="verification-code"
-                        type="text"
-                        inputMode="numeric"
-                        pattern="[0-9]*"
-                        value={verificationCode}
-                        onChange={(e) => handleCodeChange(e.target.value)}
-                        placeholder="000000"
-                        maxLength={6}
-                        className={`flex-1 px-4 py-3 border rounded-lg text-base font-mono font-bold tracking-widest text-center focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
-                          codeError ? 'border-red-500 bg-red-50' : 'border-gray-300'
-                        }`}
-                      />
-                      <button
-                        type="button"
-                        onClick={handleVerifyCode}
-                        disabled={!canVerifyCode}
-                        className={`px-6 py-3 rounded-lg font-medium transition-all ${
-                          canVerifyCode
-                            ? 'bg-green-600 text-white hover:bg-green-700'
-                            : 'bg-gray-200 text-gray-400 cursor-not-allowed'
-                        }`}
-                      >
-                        {isVerifyingCode ? (
-                          <svg className="animate-spin h-5 w-5" fill="none" viewBox="0 0 24 24">
-                            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-                            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
-                          </svg>
-                        ) : (
-                          'Verify'
-                        )}
-                      </button>
-                    </div>
-                    {codeError && <p className="text-xs sm:text-sm text-red-600 mt-2">{codeError}</p>}
+                /* Waiting for verification */
+                <div className="text-center py-4">
+                  <div className="w-16 h-16 mx-auto mb-4 rounded-full bg-blue-100 flex items-center justify-center">
+                    <svg className="h-8 w-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                    </svg>
                   </div>
+                  <h3 className="font-semibold text-gray-900 mb-2">Check your email</h3>
+                  <p className="text-sm text-gray-600 mb-4">
+                    We sent a verification link to <strong>{email}</strong>
+                  </p>
+                  <p className="text-xs text-gray-500 mb-4">
+                    Click the link in the email to verify. This page will update automatically.
+                  </p>
 
                   {/* Resend Button */}
-                  <div className="flex items-center justify-between text-sm">
-                    <span className="text-gray-600">Didn&apos;t receive the code?</span>
+                  <button
+                    type="button"
+                    onClick={handleSendLink}
+                    disabled={cooldownSeconds > 0 || isSendingLink}
+                    className={`text-sm font-medium ${
+                      cooldownSeconds > 0 || isSendingLink
+                        ? 'text-gray-400 cursor-not-allowed'
+                        : 'text-rstu-red hover:text-red-700'
+                    }`}
+                  >
+                    {cooldownSeconds > 0 ? `Resend in ${cooldownSeconds}s` : 'Resend verification link'}
+                  </button>
+
+                  {/* Change email link */}
+                  <p className="text-xs text-gray-400 mt-3">
+                    Wrong email?{' '}
                     <button
                       type="button"
-                      onClick={handleSendCode}
-                      disabled={cooldownSeconds > 0 || isSendingCode}
-                      className={`font-medium ${
-                        cooldownSeconds > 0 || isSendingCode
-                          ? 'text-gray-400 cursor-not-allowed'
-                          : 'text-rstu-red hover:text-red-700'
-                      }`}
+                      onClick={() => {
+                        setLinkSent(false);
+                        setLinkError(null);
+                      }}
+                      className="text-rstu-red hover:text-red-700"
                     >
-                      {cooldownSeconds > 0 ? `Resend in ${cooldownSeconds}s` : 'Resend Code'}
+                      Change it
                     </button>
-                  </div>
-                </>
+                  </p>
+                </div>
               )}
             </>
           ) : (

@@ -1,110 +1,145 @@
 /**
  * Email Verification Service
  *
- * Handles sending and verifying email verification codes via Supabase Edge Functions.
+ * Handles email verification via Supabase Auth magic links.
+ * Uses Supabase's built-in email infrastructure - no custom domain required.
  */
 
+import { supabase } from './supabase'
 import { createLogger } from './logger'
 
 const log = createLogger('EmailVerification')
 
-const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL
-const SUPABASE_ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
-
-interface SendCodeResult {
-  success: boolean
-  error?: string
-}
-
-interface VerifyCodeResult {
+interface SendLinkResult {
   success: boolean
   error?: string
 }
 
 /**
- * Send a verification code to the specified email
+ * Get the redirect URL for magic link verification
  */
-export async function sendVerificationCode(
-  email: string,
-  nickname?: string
-): Promise<SendCodeResult> {
-  if (!SUPABASE_URL || !SUPABASE_ANON_KEY) {
+function getRedirectUrl(): string {
+  if (typeof window === 'undefined') {
+    return ''
+  }
+  // Redirect back to the app's base path
+  const basePath = '/rstu-connect'
+  return `${window.location.origin}${basePath}`
+}
+
+/**
+ * Send a magic link to the specified email using Supabase Auth
+ */
+export async function sendVerificationLink(
+  email: string
+): Promise<SendLinkResult> {
+  if (!supabase) {
     return { success: false, error: 'Email verification not configured' }
   }
 
   try {
-    const response = await fetch(
-      `${SUPABASE_URL}/functions/v1/send-verification-email`,
-      {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
-        },
-        body: JSON.stringify({
-          email: email.toLowerCase().trim(),
-          nickname,
-        }),
+    const normalizedEmail = email.toLowerCase().trim()
+    const redirectTo = getRedirectUrl()
+
+    log.info('Sending magic link to:', normalizedEmail, 'redirect:', redirectTo)
+
+    // Use Supabase Auth's signInWithOtp to send a magic link
+    // This uses Supabase's built-in email system - no custom domain needed
+    const { error } = await supabase.auth.signInWithOtp({
+      email: normalizedEmail,
+      options: {
+        shouldCreateUser: true,
+        emailRedirectTo: redirectTo,
+      },
+    })
+
+    if (error) {
+      log.error('Failed to send magic link:', error)
+
+      // Handle rate limiting
+      if (error.message.includes('rate') || error.status === 429) {
+        return { success: false, error: 'Too many requests. Please wait a minute before trying again.' }
       }
-    )
 
-    const data = await response.json()
-
-    if (!response.ok) {
-      log.error('Failed to send verification code:', data)
-      return { success: false, error: data.error || 'Failed to send verification code' }
+      return { success: false, error: error.message || 'Failed to send verification email' }
     }
 
     return { success: true }
   } catch (err) {
-    log.error('Exception sending verification code:', err)
+    log.error('Exception sending magic link:', err)
     return { success: false, error: 'Network error - please try again' }
   }
 }
 
+// Alias for backwards compatibility
+export const sendVerificationCode = sendVerificationLink
+
 /**
- * Verify a code entered by the user
+ * Check if the current user is verified via Supabase Auth
  */
-export async function verifyEmailCode(
-  email: string,
-  code: string
-): Promise<VerifyCodeResult> {
-  if (!SUPABASE_URL || !SUPABASE_ANON_KEY) {
-    return { success: false, error: 'Email verification not configured' }
+export async function checkVerificationStatus(): Promise<{
+  verified: boolean
+  email?: string
+}> {
+  if (!supabase) {
+    return { verified: false }
   }
 
   try {
-    const response = await fetch(
-      `${SUPABASE_URL}/functions/v1/verify-email-code`,
-      {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
-        },
-        body: JSON.stringify({
-          email: email.toLowerCase().trim(),
-          code: code.trim(),
-        }),
+    const { data: { session } } = await supabase.auth.getSession()
+
+    if (session?.user?.email) {
+      return {
+        verified: true,
+        email: session.user.email,
       }
-    )
-
-    const data = await response.json()
-
-    if (!response.ok) {
-      return { success: false, error: data.error || 'Invalid verification code' }
     }
 
-    return { success: true }
+    return { verified: false }
   } catch (err) {
-    log.error('Exception verifying code:', err)
-    return { success: false, error: 'Network error - please try again' }
+    log.error('Error checking verification status:', err)
+    return { verified: false }
   }
+}
+
+/**
+ * Subscribe to auth state changes (for detecting magic link callback)
+ */
+export function onAuthStateChange(
+  callback: (verified: boolean, email?: string) => void
+): (() => void) | null {
+  if (!supabase) {
+    return null
+  }
+
+  const { data: { subscription } } = supabase.auth.onAuthStateChange(
+    (event, session) => {
+      log.info('Auth state changed:', event)
+
+      if (event === 'SIGNED_IN' && session?.user?.email) {
+        callback(true, session.user.email)
+      } else if (event === 'SIGNED_OUT') {
+        callback(false)
+      }
+    }
+  )
+
+  return () => subscription.unsubscribe()
 }
 
 /**
  * Check if email verification is available (Supabase configured)
  */
 export function isEmailVerificationAvailable(): boolean {
-  return !!(SUPABASE_URL && SUPABASE_ANON_KEY)
+  return !!supabase
+}
+
+/**
+ * Sign out from Supabase Auth (clears the verification session)
+ * Call this if the user cancels or starts over
+ */
+export async function clearVerificationSession(): Promise<void> {
+  if (supabase) {
+    await supabase.auth.signOut()
+  }
 }
