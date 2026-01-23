@@ -26,7 +26,8 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
   return (
     <div
       ref={contentRef}
-      className="w-full bg-white overflow-y-auto h-full"
+      className="w-full bg-white overflow-y-scroll h-full"
+      style={{ scrollbarGutter: 'stable' }}
     >
       <div>
         {/* Hero Section - Evidence-based opening */}
