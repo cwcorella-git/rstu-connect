@@ -26,7 +26,7 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
   return (
     <div
       ref={contentRef}
-      className="w-full bg-white"
+      className="w-full bg-white overflow-y-auto h-full"
     >
       <div>
         {/* Hero Section - Evidence-based opening */}

@@ -1,8 +1,8 @@
 {
-  "commit": "964fd417",
-  "message": "Switch to Supabase Auth magic links for email verification",
+  "commit": "ac7fa009",
+  "message": "Simplify onboarding and route feedback to admin inbox",
   "author": "cwcorella-git",
-  "date": "2026-01-22 02:58:23 -0800",
+  "date": "2026-01-22 03:52:07 -0800",
   "branch": "main",
-  "buildTime": "2026-01-22T11:51:08.683Z"
+  "buildTime": "2026-01-23T06:26:42.823Z"
 }

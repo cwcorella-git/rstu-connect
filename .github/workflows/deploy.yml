@@ -48,6 +48,9 @@ jobs:
           NEXT_PUBLIC_SOCKETIO_URL: https://rstu-chat-server.onrender.com
           NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          NEXT_PUBLIC_GITHUB_PAT: ${{ secrets.RSTU_EDIT_PAT }}
+          NEXT_PUBLIC_GITHUB_OWNER: cwcorella-git
+          NEXT_PUBLIC_GITHUB_REPO: rstu-connect
 
       - name: Run E2E tests
         run: |
