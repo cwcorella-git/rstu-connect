@@ -12,6 +12,8 @@ import { VersionFooter } from '@/components/VersionFooter'
 import { EditModeIndicator } from '@/components/EditMode'
 import { Footer } from '@/components/Footer'
 import { OfflineBanner, OfflineIndicator } from '@/components/OfflineBanner'
+import { LegislationProvider } from '@/contexts/LegislationContext'
+import { LegislationPopup } from '@/components/Legislation'
 
 function Header() {
   const { t, isLoading } = useLanguage()
@@ -49,6 +51,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
     <LanguageProvider>
     <DisplayProvider>
     <EditModeProvider>
+    <LegislationProvider>
     <AuthProvider>
     <TabProvider>
       <main className="h-screen flex flex-col overflow-hidden">
@@ -71,9 +74,13 @@ export function ClientLayout({ children }: { children: ReactNode }) {
 
         {/* Version Footer for admins/organizers */}
         <VersionFooter />
+
+        {/* Legislation Popup - global overlay for NRS references */}
+        <LegislationPopup />
       </main>
     </TabProvider>
     </AuthProvider>
+    </LegislationProvider>
     </EditModeProvider>
     </DisplayProvider>
     </LanguageProvider>
