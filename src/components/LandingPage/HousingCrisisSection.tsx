@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { CitationLink } from '@/components/Citations'
 
 export function HousingCrisisSection() {
   const [expandData, setExpandData] = useState(false)
@@ -22,7 +23,7 @@ export function HousingCrisisSection() {
           {/* Stat 1: Corporate Control */}
           <div className="bg-white rounded-lg p-6 border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <div className="mb-2">
-              <div className="text-3xl font-bold text-rstu-red">50+</div>
+              <div className="text-3xl font-bold text-rstu-red">50+<CitationLink id="rstu-corporate-analysis" number={1} /></div>
               <p className="text-sm font-semibold text-gray-700">Corporate entities</p>
             </div>
             <p className="text-xs text-gray-600">Control thousands of rental units across Reno-Sparks</p>
@@ -31,7 +32,7 @@ export function HousingCrisisSection() {
           {/* Stat 2: Hidden Fees */}
           <div className="bg-white rounded-lg p-6 border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <div className="mb-2">
-              <div className="text-3xl font-bold text-rstu-red">$200–400</div>
+              <div className="text-3xl font-bold text-rstu-red">$200–400<CitationLink id="hidden-fees-analysis" number={2} /></div>
               <p className="text-sm font-semibold text-gray-700">Hidden fees per month</p>
             </div>
             <p className="text-xs text-gray-600">Beyond rent: application, pet, parking, utility fees</p>
@@ -40,7 +41,7 @@ export function HousingCrisisSection() {
           {/* Stat 3: Largest Portfolio */}
           <div className="bg-white rounded-lg p-6 border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <div className="mb-2">
-              <div className="text-3xl font-bold text-rstu-red">3,335</div>
+              <div className="text-3xl font-bold text-rstu-red">3,335<CitationLink id="gage-village-portfolio" number={3} /></div>
               <p className="text-sm font-semibold text-gray-700">Units controlled</p>
             </div>
             <p className="text-xs text-gray-600">GAGE VILLAGE (single entity in Reno)</p>
@@ -49,7 +50,7 @@ export function HousingCrisisSection() {
           {/* Stat 4: Profit Extraction */}
           <div className="bg-white rounded-lg p-6 border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <div className="mb-2">
-              <div className="text-3xl font-bold text-rstu-red">$103M</div>
+              <div className="text-3xl font-bold text-rstu-red">$103M<CitationLink id="gage-village-portfolio" number={3} /></div>
               <p className="text-sm font-semibold text-gray-700">Total assessed value</p>
             </div>
             <p className="text-xs text-gray-600">Wealth extracted through rent from working tenants</p>
@@ -64,11 +65,11 @@ export function HousingCrisisSection() {
           <ul className="space-y-3 text-base text-gray-700">
             <li className="flex gap-3">
               <span className="text-rstu-red font-bold flex-shrink-0">1.</span>
-              <span><strong>Rent increases:</strong> Landlords raise rents every year—sometimes by 20% or more—pushing families toward impossible choices.</span>
+              <span><strong>Rent increases:</strong> Landlords raise rents every year—sometimes by 20% or more<CitationLink id="rent-increase-20-percent" number={4} />—pushing families toward impossible choices.</span>
             </li>
             <li className="flex gap-3">
               <span className="text-rstu-red font-bold flex-shrink-0">2.</span>
-              <span><strong>Hidden fees:</strong> Parking, pet, application, and utility fees add $200–400/month beyond the advertised rent.</span>
+              <span><strong>Hidden fees:</strong> Parking, pet, application, and utility fees add $200–400/month<CitationLink id="hidden-fees-analysis" number={2} /> beyond the advertised rent.</span>
             </li>
             <li className="flex gap-3">
               <span className="text-rstu-red font-bold flex-shrink-0">3.</span>

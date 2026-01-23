@@ -1,8 +1,8 @@
 {
-  "commit": "a1a8e0c6",
-  "message": "Fit landing page hero at 100vh: Remove logo, use text header",
+  "commit": "8c28203c",
+  "message": "Fix edit mode error: Add specific error messages for GitHub fetch failures",
   "author": "cwcorella-git",
-  "date": "2026-01-23 03:40:27 -0800",
+  "date": "2026-01-23 05:55:59 -0800",
   "branch": "main",
-  "buildTime": "2026-01-23T11:44:22.575Z"
+  "buildTime": "2026-01-23T13:58:52.330Z"
 }

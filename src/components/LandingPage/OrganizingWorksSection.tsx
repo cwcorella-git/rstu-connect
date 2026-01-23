@@ -2,6 +2,7 @@
 
 import { useLanguage } from '@/contexts/LanguageContext'
 import { EditableText } from '@/components/EditMode'
+import { CitationLink } from '@/components/Citations'
 
 export function OrganizingWorksSection() {
   const { t } = useLanguage()
@@ -31,11 +32,10 @@ export function OrganizingWorksSection() {
               as="h3"
               className="text-2xl font-bold text-gray-900 mb-2"
             />
-            <EditableText
-              tKey="landing.organizing.kc.stat"
-              as="p"
-              className="text-sm text-rstu-red font-semibold mb-3"
-            />
+            <p className="text-sm text-rstu-red font-semibold mb-3">
+              <EditableText tKey="landing.organizing.kc.stat" as="span" />
+              <CitationLink id="kc-tenants-strike" number={1} />
+            </p>
             <ul className="space-y-2 text-gray-700 text-sm">
               <li className="flex items-start">
                 <span className="text-rstu-red mr-2">✓</span>
@@ -63,11 +63,10 @@ export function OrganizingWorksSection() {
               as="h3"
               className="text-2xl font-bold text-gray-900 mb-2"
             />
-            <EditableText
-              tKey="landing.organizing.ny.stat"
-              as="p"
-              className="text-sm text-rstu-red font-semibold mb-3"
-            />
+            <p className="text-sm text-rstu-red font-semibold mb-3">
+              <EditableText tKey="landing.organizing.ny.stat" as="span" />
+              <CitationLink id="ny-good-cause-eviction" number={2} />
+            </p>
             <EditableText
               tKey="landing.organizing.ny.description"
               as="p"
@@ -93,11 +92,10 @@ export function OrganizingWorksSection() {
               as="h3"
               className="text-2xl font-bold text-gray-900 mb-2"
             />
-            <EditableText
-              tKey="landing.organizing.ca.stat"
-              as="p"
-              className="text-sm text-rstu-red font-semibold mb-3"
-            />
+            <p className="text-sm text-rstu-red font-semibold mb-3">
+              <EditableText tKey="landing.organizing.ca.stat" as="span" />
+              <CitationLink id="california-ab-1482" number={3} />
+            </p>
             <EditableText
               tKey="landing.organizing.ca.description"
               as="p"
@@ -123,11 +121,10 @@ export function OrganizingWorksSection() {
               as="h3"
               className="text-2xl font-bold text-gray-900 mb-2"
             />
-            <EditableText
-              tKey="landing.organizing.or.stat"
-              as="p"
-              className="text-sm text-rstu-red font-semibold mb-3"
-            />
+            <p className="text-sm text-rstu-red font-semibold mb-3">
+              <EditableText tKey="landing.organizing.or.stat" as="span" />
+              <CitationLink id="oregon-rent-control" number={4} />
+            </p>
             <EditableText
               tKey="landing.organizing.or.description"
               as="p"
