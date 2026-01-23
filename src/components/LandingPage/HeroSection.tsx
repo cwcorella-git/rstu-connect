@@ -12,20 +12,17 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative w-full py-12 sm:py-16 md:py-20 lg:py-28 px-4 bg-white overflow-hidden">
-      {/* Faded background logo */}
-      <div
-        className="absolute inset-0 flex items-center justify-center pointer-events-none"
-        aria-hidden="true"
-      >
-        <img
-          src="/rstu-connect/rstu-logo-full.png"
-          alt=""
-          className="w-[500px] sm:w-[600px] lg:w-[700px] h-auto opacity-[0.06]"
-        />
-      </div>
+    <section className="relative w-full py-12 sm:py-16 md:py-20 lg:py-28 px-4 bg-white">
+      <div className="max-w-4xl mx-auto text-center">
+        {/* Logo */}
+        <div className="mb-8 flex justify-center">
+          <img
+            src="/rstu-connect/rstu-logo-full.png"
+            alt="RSTU - Reno-Sparks Tenants Union"
+            className="h-24 sm:h-32 lg:h-40 w-auto"
+          />
+        </div>
 
-      <div className="relative max-w-4xl mx-auto text-center">
         {/* Main Statement - Evidence-based */}
         <EditableText
           tKey="landing.hero.headline"
