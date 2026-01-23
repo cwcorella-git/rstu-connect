@@ -20,6 +20,7 @@ import {
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { NevadaEvictionPlaybook } from './NevadaEvictionPlaybook'
 import { WitnessMobilizationPanel } from './WitnessMobilizationPanel'
+import { LegislationLink } from '@/components/Legislation'
 
 interface EvictionCaseDetailProps {
   caseId: string
@@ -121,13 +122,13 @@ export function EvictionCaseDetail({ caseId, onCaseUpdated }: EvictionCaseDetail
     'other'
   ]
 
-  const getStrategyLabel = (strategy: DefenseStrategy): string => {
-    const labels: Record<DefenseStrategy, string> = {
-      habitability_defense: 'Habitability Defense (NRS 118A.355)',
-      retaliation_defense: 'Retaliation Defense (NRS 118A.510)',
+  const getStrategyLabel = (strategy: DefenseStrategy): React.ReactNode => {
+    const labels: Record<DefenseStrategy, React.ReactNode> = {
+      habitability_defense: <>Habitability Defense (<LegislationLink citation="NRS 118A.355" />)</>,
+      retaliation_defense: <>Retaliation Defense (<LegislationLink citation="NRS 118A.510" />)</>,
       procedural_defense: 'Procedural Defect',
       payment_plan: 'Payment Plan',
-      rent_withholding: 'Rent Withholding (NRS 118A.490)',
+      rent_withholding: <>Rent Withholding (<LegislationLink citation="NRS 118A.490" />)</>,
       other: 'Other'
     }
     return labels[strategy]

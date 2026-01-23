@@ -1,8 +1,9 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, ReactNode } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import type { StrikePreparation } from '@/lib/strikeStorage'
+import { LegislationLink } from '@/components/Legislation'
 import {
   getHabitabilityScore,
   getBuildingCanvass,
@@ -92,7 +93,7 @@ export function TemplateLibrary({
           <NoticeOption
             type="14-day"
             title="14-Day Habitability Notice"
-            subtitle="NRS 118A.355"
+            subtitle={<LegislationLink citation="NRS 118A.355" />}
             description="Use when landlord violates habitability standards (mold, roaches, heat, etc.). Gives landlord 14 days to respond."
             icon="⚠️"
             selected={selectedNoticeType === '14-day'}
@@ -104,7 +105,7 @@ export function TemplateLibrary({
           <NoticeOption
             type="48-hour"
             title="48-Hour Essential Services Notice"
-            subtitle="NRS 118A.380"
+            subtitle={<LegislationLink citation="NRS 118A.380" />}
             description="Use for critical failures (no water, gas, electricity). Gives landlord only 48 hours to respond."
             icon="🚨"
             selected={selectedNoticeType === '48-hour'}
@@ -190,10 +191,10 @@ export function TemplateLibrary({
         </h4>
         <ul className="text-xs text-orange-800 space-y-1">
           <li>
-            <strong>NRS 118A.355 (14-day):</strong> For habitability violations. Rent must go to escrow.
+            <strong><LegislationLink citation="NRS 118A.355" /> (14-day):</strong> For habitability violations. Rent must go to escrow.
           </li>
           <li>
-            <strong>NRS 118A.380 (48-hour):</strong> For essential services failures. Escrow not required.
+            <strong><LegislationLink citation="NRS 118A.380" /> (48-hour):</strong> For essential services failures. Escrow not required.
           </li>
           <li>
             <strong>Proof of Service:</strong> Keep copies of sent notices (certified mail recommended).
@@ -210,7 +211,7 @@ export function TemplateLibrary({
         <div className="mt-2 space-y-2 p-2 bg-gray-50 rounded">
           <p><strong>What the 14-Day Notice includes:</strong></p>
           <ul className="list-disc list-inside text-gray-600 mb-2">
-            <li>Legal citation (NRS 118A.355)</li>
+            <li>Legal citation (<LegislationLink citation="NRS 118A.355" />)</li>
             <li>List of documented habitability issues</li>
             <li>Escrow account information</li>
             <li>14-day deadline for response</li>
@@ -219,7 +220,7 @@ export function TemplateLibrary({
 
           <p><strong>What the 48-Hour Notice includes:</strong></p>
           <ul className="list-disc list-inside text-gray-600">
-            <li>Legal citation (NRS 118A.380)</li>
+            <li>Legal citation (<LegislationLink citation="NRS 118A.380" />)</li>
             <li>Essential services failure description</li>
             <li>48-hour deadline for response</li>
             <li>Tenant signatures</li>
@@ -233,7 +234,7 @@ export function TemplateLibrary({
 interface NoticeOptionProps {
   type: '14-day' | '48-hour'
   title: string
-  subtitle: string
+  subtitle: ReactNode
   description: string
   icon: string
   selected: boolean

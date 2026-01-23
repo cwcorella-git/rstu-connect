@@ -1,8 +1,9 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, ReactNode } from 'react'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import type { StrikePreparation } from '@/lib/strikeStorage'
+import { LegislationLink } from '@/components/Legislation'
 import {
   getHabitabilityScore,
   getBuildingCanvass,
@@ -116,7 +117,7 @@ export function LegalChecklistPanel({
       <ChecklistItem
         complete={hasNotices}
         title="Landlord Notice Sent"
-        description="Nevada law requires 14-day notice for habitability issues (NRS 118A.355) or 48-hour notice for essential services (NRS 118A.380)"
+        description={<>Nevada law requires 14-day notice for habitability issues (<LegislationLink citation="NRS 118A.355" />) or 48-hour notice for essential services (<LegislationLink citation="NRS 118A.380" />)</>}
         tooltip="Send the notice by certified mail (keep proof). 14-day is for serious issues like broken heat or mold. 48-hour is for emergencies like no water/electricity. The notice must cite specific habitability violations and give the landlord time to respond before rent withholding begins."
       >
         {hasNotices ? (
@@ -305,8 +306,8 @@ export function LegalChecklistPanel({
       <div className="bg-blue-50 border border-blue-200 rounded-lg p-3 mt-4">
         <h4 className="text-sm font-semibold text-blue-900 mb-2">Nevada Rent Strike Law</h4>
         <ul className="text-xs text-blue-800 space-y-1">
-          <li>• <strong>NRS 118A.355:</strong> Habitability violations (14-day notice, escrow required)</li>
-          <li>• <strong>NRS 118A.380:</strong> Essential services failures (48-hour notice, no escrow)</li>
+          <li>• <strong><LegislationLink citation="NRS 118A.355" />:</strong> Habitability violations (14-day notice, escrow required)</li>
+          <li>• <strong><LegislationLink citation="NRS 118A.380" />:</strong> Essential services failures (48-hour notice, no escrow)</li>
           <li>• <strong>Assembly Bill 223:</strong> Escrow protections & expedited relief</li>
         </ul>
       </div>
@@ -317,7 +318,7 @@ export function LegalChecklistPanel({
 interface ChecklistItemProps {
   complete: boolean
   title: string
-  description: string
+  description: ReactNode
   critical?: boolean
   tooltip?: string
   children: React.ReactNode

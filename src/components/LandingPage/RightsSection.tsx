@@ -2,6 +2,7 @@
 
 import { useLanguage } from '@/contexts/LanguageContext'
 import { EditableText } from '@/components/EditMode'
+import { LegislationText } from '@/components/Legislation'
 
 export function RightsSection() {
   const { t } = useLanguage()
@@ -53,11 +54,9 @@ export function RightsSection() {
                 <EditableText tKey="landing.rights.habitability.structure" as="span" />
               </li>
             </ul>
-            <EditableText
-              tKey="landing.rights.habitability.nrs"
-              as="p"
-              className="text-xs text-gray-500 mt-4 italic"
-            />
+            <p className="text-xs text-gray-500 mt-4 italic">
+              <LegislationText>{t('landing.rights.habitability.nrs')}</LegislationText>
+            </p>
           </div>
 
           {/* Anti-Retaliation */}
@@ -87,11 +86,9 @@ export function RightsSection() {
                 <EditableText tKey="landing.rights.retaliation.union" as="span" />
               </li>
             </ul>
-            <EditableText
-              tKey="landing.rights.retaliation.nrs"
-              as="p"
-              className="text-xs text-gray-500 mt-4 italic"
-            />
+            <p className="text-xs text-gray-500 mt-4 italic">
+              <LegislationText>{t('landing.rights.retaliation.nrs')}</LegislationText>
+            </p>
           </div>
         </div>
 

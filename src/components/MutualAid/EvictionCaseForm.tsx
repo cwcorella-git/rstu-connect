@@ -4,6 +4,7 @@ import React, { useState, useMemo, useEffect } from 'react'
 import { createCase, type EvictionCase } from '@/lib/evictionDefenseStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { LegislationLink } from '@/components/Legislation'
 
 interface EvictionCaseFormProps {
   buildings: EnhancedBuilding[]
@@ -226,11 +227,18 @@ export function EvictionCaseForm({ buildings, initialBuilding, onCaseCreated, on
               className="w-full px-3 py-2 border border-gray-300 rounded text-sm"
               required
             >
-              <option value="3-day">3-Day Notice (NRS 40.253)</option>
-              <option value="5-day">5-Day Notice (NRS 40.2514)</option>
-              <option value="7-day">7-Day Notice (NRS 40.2516)</option>
-              <option value="30-day">30-Day Notice (NRS 40.251)</option>
+              <option value="3-day">3-Day Notice (Nonpayment)</option>
+              <option value="5-day">5-Day Notice (Lease Violation)</option>
+              <option value="7-day">7-Day Notice (Nuisance/Illegal)</option>
+              <option value="30-day">30-Day Notice (No Cause)</option>
             </select>
+            <p className="text-xs text-gray-500 mt-1">
+              Click to view statute:{' '}
+              <LegislationLink citation="NRS 40.253" className="text-xs" /> (3-day),{' '}
+              <LegislationLink citation="NRS 40.2514" className="text-xs" /> (5-day),{' '}
+              <LegislationLink citation="NRS 40.2516" className="text-xs" /> (7-day),{' '}
+              <LegislationLink citation="NRS 40.251" className="text-xs" /> (30-day)
+            </p>
           </div>
         </fieldset>
 
