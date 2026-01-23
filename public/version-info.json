@@ -1,8 +1,8 @@
 {
-  "commit": "24bd1095",
-  "message": "Reduce top padding on landing page hero section",
+  "commit": "a1a8e0c6",
+  "message": "Fit landing page hero at 100vh: Remove logo, use text header",
   "author": "cwcorella-git",
-  "date": "2026-01-23 03:17:23 -0800",
+  "date": "2026-01-23 03:40:27 -0800",
   "branch": "main",
-  "buildTime": "2026-01-23T11:26:50.454Z"
+  "buildTime": "2026-01-23T11:44:22.575Z"
 }

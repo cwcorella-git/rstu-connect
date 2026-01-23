@@ -14,6 +14,8 @@ import { Footer } from '@/components/Footer'
 import { OfflineBanner, OfflineIndicator } from '@/components/OfflineBanner'
 import { LegislationProvider } from '@/contexts/LegislationContext'
 import { LegislationPopup } from '@/components/Legislation'
+import { CitationProvider } from '@/contexts/CitationContext'
+import { CitationPopup } from '@/components/Citations'
 
 function Header() {
   const { t, isLoading } = useLanguage()
@@ -52,6 +54,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
     <DisplayProvider>
     <EditModeProvider>
     <LegislationProvider>
+    <CitationProvider>
     <AuthProvider>
     <TabProvider>
       <main className="h-screen flex flex-col overflow-hidden">
@@ -77,9 +80,13 @@ export function ClientLayout({ children }: { children: ReactNode }) {
 
         {/* Legislation Popup - global overlay for NRS references */}
         <LegislationPopup />
+
+        {/* Citation Popup - Wikipedia-style source references */}
+        <CitationPopup />
       </main>
     </TabProvider>
     </AuthProvider>
+    </CitationProvider>
     </LegislationProvider>
     </EditModeProvider>
     </DisplayProvider>
