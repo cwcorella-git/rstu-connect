@@ -1,8 +1,8 @@
 {
-  "commit": "8c28203c",
-  "message": "Fix edit mode error: Add specific error messages for GitHub fetch failures",
+  "commit": "11f6e8b2",
+  "message": "Hero: Replace watermark with full logo at top",
   "author": "cwcorella-git",
-  "date": "2026-01-23 05:55:59 -0800",
+  "date": "2026-01-23 14:44:19 -0800",
   "branch": "main",
-  "buildTime": "2026-01-23T13:58:52.330Z"
+  "buildTime": "2026-01-23T22:51:23.253Z"
 }

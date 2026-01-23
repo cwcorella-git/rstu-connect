@@ -15,6 +15,8 @@ export function InlineEditor({ tKey, initialValue, onClose, multiline = false }:
   const [value, setValue] = useState(initialValue)
   const [isSaving, setIsSaving] = useState(false)
   const [localError, setLocalError] = useState<string | null>(null)
+  const [showCopyFallback, setShowCopyFallback] = useState(false)
+  const [copied, setCopied] = useState(false)
   const inputRef = useRef<HTMLInputElement | HTMLTextAreaElement>(null)
   const { currentLanguage, setSaveStatus, setError, setEditingKey } = useEditMode()
 
@@ -23,6 +25,33 @@ export function InlineEditor({ tKey, initialValue, onClose, multiline = false }:
     inputRef.current?.focus()
     inputRef.current?.select()
   }, [])
+
+  // Copy change info to clipboard for manual editing
+  const handleCopyToClipboard = async () => {
+    const copyText = `Translation Update:
+File: src/contexts/LanguageContext.tsx
+Locale: ${currentLanguage}
+Key: '${tKey}'
+New Value: '${value.replace(/'/g, "\\'")}'
+
+Find this key in the ${currentLanguage} section and update the value.`
+
+    try {
+      await navigator.clipboard.writeText(copyText)
+      setCopied(true)
+      setTimeout(() => setCopied(false), 2000)
+    } catch {
+      // Fallback for older browsers
+      const textarea = document.createElement('textarea')
+      textarea.value = copyText
+      document.body.appendChild(textarea)
+      textarea.select()
+      document.execCommand('copy')
+      document.body.removeChild(textarea)
+      setCopied(true)
+      setTimeout(() => setCopied(false), 2000)
+    }
+  }
 
   const handleSave = async () => {
     if (value === initialValue) {
@@ -45,12 +74,17 @@ export function InlineEditor({ tKey, initialValue, onClose, multiline = false }:
         setLocalError(result.error || 'Failed to save')
         setSaveStatus('error')
         setError(result.error || 'Failed to save')
+        // Show copy fallback for network/CORS errors
+        if (result.error?.includes('Network') || result.error?.includes('connect')) {
+          setShowCopyFallback(true)
+        }
       }
     } catch (err) {
       const errorMsg = err instanceof Error ? err.message : 'Unknown error'
       setLocalError(errorMsg)
       setSaveStatus('error')
       setError(errorMsg)
+      setShowCopyFallback(true)
     } finally {
       setIsSaving(false)
     }
@@ -118,6 +152,35 @@ export function InlineEditor({ tKey, initialValue, onClose, multiline = false }:
         {localError && (
           <div className="mt-2 text-xs text-red-600 bg-red-50 px-2 py-1 rounded">
             {localError}
+          </div>
+        )}
+
+        {/* Copy fallback when GitHub save fails */}
+        {showCopyFallback && (
+          <div className="mt-2 p-2 bg-amber-50 border border-amber-200 rounded">
+            <p className="text-xs text-amber-800 mb-2">
+              GitHub API blocked. Copy changes to edit manually:
+            </p>
+            <button
+              onClick={handleCopyToClipboard}
+              className="w-full px-3 py-1.5 text-xs bg-amber-500 text-white rounded hover:bg-amber-600 flex items-center justify-center gap-1"
+            >
+              {copied ? (
+                <>
+                  <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                  Copied!
+                </>
+              ) : (
+                <>
+                  <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                  </svg>
+                  Copy Change Info
+                </>
+              )}
+            </button>
           </div>
         )}
 
