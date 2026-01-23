@@ -74,6 +74,17 @@ jobs:
           path: playwright-report/
           retention-days: 7
 
+      - name: Free up disk space
+        run: |
+          # Remove Playwright browsers and test artifacts
+          rm -rf ~/.cache/ms-playwright
+          rm -rf test-results
+          rm -rf playwright-report
+          rm -rf node_modules
+          rm -rf serve-dir
+          # Show disk usage
+          df -h
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
