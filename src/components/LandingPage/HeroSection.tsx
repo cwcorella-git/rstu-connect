@@ -12,7 +12,7 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative w-full py-12 sm:py-16 md:py-20 lg:py-28 px-4 bg-white">
+    <section className="relative w-full pt-6 pb-12 sm:pt-8 sm:pb-16 md:pt-10 md:pb-20 px-4 bg-white">
       <div className="max-w-4xl mx-auto text-center">
         {/* Logo */}
         <div className="mb-8 flex justify-center">
