@@ -1,12 +1,10 @@
 'use client'
 
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import {
   type UserRole,
   getActivityStatus,
-  getRoleLabel,
-  getTrustLabel,
-  verifyProfile,
   verifyProfileAsyncWithSync,
   canAccessTools,
   getCurrentProfile,
@@ -25,6 +23,7 @@ interface UserCardProps {
 }
 
 export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, onVerifySuccess, onDeleteSuccess }: UserCardProps) {
+  const { t } = useLanguage()
   const [isChangingRole, setIsChangingRole] = useState(false)
   const [isVerifying, setIsVerifying] = useState(false)
   const [isDeleting, setIsDeleting] = useState(false)
@@ -50,18 +49,25 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
   // Can unban if: admin AND user is banned
   const canUnban = currentUser?.role === 'admin' && profile.banned
 
+  // Role labels
+  const roleLabels: Record<UserRole, string> = {
+    admin: t('roles.admin'),
+    organizer: t('roles.organizer'),
+    tenant: t('roles.tenant'),
+  }
+
   // Format last active time
   const formatLastActive = (timestamp: number) => {
-    if (!timestamp) return 'Never'
+    if (!timestamp) return t('time.never')
     const diff = Date.now() - timestamp
     const minutes = Math.floor(diff / 60000)
     const hours = Math.floor(diff / 3600000)
     const days = Math.floor(diff / 86400000)
 
-    if (minutes < 1) return 'Just now'
-    if (minutes < 60) return `${minutes}m ago`
-    if (hours < 24) return `${hours}h ago`
-    if (days < 7) return `${days}d ago`
+    if (minutes < 1) return t('time.justNow')
+    if (minutes < 60) return t('time.minutesAgo').replace('{n}', String(minutes))
+    if (hours < 24) return t('time.hoursAgo').replace('{n}', String(hours))
+    if (days < 7) return t('time.daysAgo').replace('{n}', String(days))
     return new Date(timestamp).toLocaleDateString()
   }
 
@@ -168,7 +174,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
           {/* Online indicator */}
           <div
             className={`absolute bottom-0 right-0 w-3 h-3 rounded-full border-2 border-white ${activityColors[activityStatus]}`}
-            title={activityStatus === 'active' ? 'Active' : activityStatus === 'inactive' ? 'Inactive' : 'Never active'}
+            title={activityStatus === 'active' ? t('status.active') : activityStatus === 'inactive' ? t('status.inactive') : t('status.never')}
           />
         </div>
 
@@ -177,7 +183,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
           <div className="flex items-center gap-2 flex-wrap">
             <span className="font-medium text-gray-900 truncate">
               {profile.nickname}
-              {isCurrentUser && <span className="text-xs text-gray-500 ml-1">(you)</span>}
+              {isCurrentUser && <span className="text-xs text-gray-500 ml-1">{t('status.you')}</span>}
             </span>
 
             {/* Role badge or selector */}
@@ -188,25 +194,25 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                 disabled={isChangingRole}
                 className={`text-xs px-2 py-0.5 rounded-full border-0 cursor-pointer ${roleBadgeColors[profile.role]} ${isChangingRole ? 'opacity-50' : ''}`}
               >
-                <option value="tenant">Tenant</option>
-                <option value="organizer">Organizer</option>
-                <option value="admin">Admin</option>
+                <option value="tenant">{t('roles.tenant')}</option>
+                <option value="organizer">{t('roles.organizer')}</option>
+                <option value="admin">{t('roles.admin')}</option>
               </select>
             ) : (
               <span className={`text-xs px-2 py-0.5 rounded-full ${roleBadgeColors[profile.role]}`}>
-                {getRoleLabel(profile.role)}
+                {roleLabels[profile.role]}
               </span>
             )}
 
             {/* Trust level badge */}
             {profile.trustLevel === 'verified' && (
               <span className="text-xs px-2 py-0.5 rounded-full bg-green-100 text-green-700">
-                Verified
+                {t('trust.verified')}
               </span>
             )}
             {profile.trustLevel === 'invited' && (
               <span className="text-xs px-2 py-0.5 rounded-full bg-yellow-100 text-yellow-700">
-                Invited
+                {t('trust.invited')}
               </span>
             )}
 
@@ -281,7 +287,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
 
           {/* Last active */}
           <p className="text-xs text-gray-400 mt-1" suppressHydrationWarning>
-            Active {formatLastActive(profile.lastActive)}
+            {t('status.active')} {formatLastActive(profile.lastActive)}
           </p>
         </div>
       </div>

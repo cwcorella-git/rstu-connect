@@ -240,6 +240,80 @@ const translations: Record<Locale, Record<string, string>> = {
     'common.send': 'Send',
     'common.issues': 'issues',
     'common.subsidized': 'subsidized',
+    'common.all': 'All',
+    'common.search': 'Search',
+    'common.sort': 'Sort',
+    'common.filter': 'Filter',
+    'common.refresh': 'Refresh',
+    'common.export': 'Export',
+    'common.import': 'Import',
+
+    // Roles
+    'roles.admin': 'Admin',
+    'roles.organizer': 'Organizer',
+    'roles.tenant': 'Tenant',
+    'roles.admins': 'admins',
+    'roles.organizers': 'organizers',
+    'roles.tenants': 'tenants',
+
+    // Trust levels
+    'trust.verified': 'Verified',
+    'trust.invited': 'Invited',
+    'trust.new': 'New',
+
+    // Activity status
+    'status.active': 'Active',
+    'status.inactive': 'Inactive',
+    'status.never': 'Never',
+    'status.banned': 'Banned',
+    'status.you': '(you)',
+
+    // Time formatting
+    'time.justNow': 'Just now',
+    'time.minutesAgo': '{n}m ago',
+    'time.hoursAgo': '{n}h ago',
+    'time.daysAgo': '{n}d ago',
+    'time.never': 'Never',
+
+    // Skill categories
+    'skills.all': 'All',
+    'skills.translation': 'Translation',
+    'skills.legalKnowledge': 'Legal Knowledge',
+    'skills.techSupport': 'Tech Support',
+    'skills.transportation': 'Transportation',
+    'skills.physicalLabor': 'Physical Labor',
+    'skills.childcare': 'Childcare',
+    'skills.cookingFood': 'Cooking/Food',
+    'skills.mediaPR': 'Media/PR',
+    'skills.other': 'Other',
+
+    // User list
+    'users.title': 'Users',
+    'users.searchPlaceholder': 'Search by name, building, unit...',
+    'users.allRoles': 'All roles',
+    'users.allActivity': 'All activity',
+    'users.sortBy': 'Sort by',
+    'users.recentActivity': 'Recent activity',
+    'users.name': 'Name',
+    'users.role': 'Role',
+    'users.joined': 'Joined',
+    'users.showBanned': 'Show banned',
+
+    // Landlord directory
+    'landlords.title': 'Landlord Directory',
+    'landlords.searchPlaceholder': 'Search landlords...',
+    'landlords.sortPortfolioSize': 'Portfolio Size',
+    'landlords.sortEvictions': 'Evictions',
+    'landlords.sortViolations': 'Violations',
+    'landlords.sortName': 'Name',
+    'landlords.properties': 'properties',
+    'landlords.units': 'units',
+    'landlords.assessed': 'assessed',
+    'landlords.count': '{n} landlords',
+    'landlords.sortUnits': 'Total Units',
+    'landlords.sortValue': 'Total Value',
+    'landlords.sortActivity': 'Organizing Activity',
+    'landlords.noResults': 'No landlords found',
 
     // Elections
     'elections.noActive': 'No Active Election',
@@ -927,6 +1001,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'mutualAid.createProfileToPost': 'Please create a profile to post',
     'mutualAid.createProfileToRegisterSkills': 'Please create a profile to register skills',
     'mutualAid.editYourSkills': 'Edit Your Skills',
+    'mutualAid.whatSkillsOffer': 'What skills can you offer?',
+    'mutualAid.describeSkills': 'Describe your skills (optional)',
+    'mutualAid.briefDescription': 'Brief description...',
     'mutualAid.event': 'Event',
     'mutualAid.events': 'Events',
     'mutualAid.member': 'Member',
@@ -1531,7 +1608,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'campaign.progress': 'progress',
 
     // Common - additional
-    'common.refresh': 'Refresh',
     'common.dismiss': 'Dismiss',
     'common.view': 'View',
     'common.today': 'Today',
@@ -2008,6 +2084,80 @@ const translations: Record<Locale, Record<string, string>> = {
     'common.send': 'Enviar',
     'common.issues': 'problemas',
     'common.subsidized': 'subsidizado',
+    'common.all': 'Todos',
+    'common.search': 'Buscar',
+    'common.sort': 'Ordenar',
+    'common.filter': 'Filtrar',
+    'common.refresh': 'Actualizar',
+    'common.export': 'Exportar',
+    'common.import': 'Importar',
+
+    // Roles
+    'roles.admin': 'Admin',
+    'roles.organizer': 'Organizador',
+    'roles.tenant': 'Inquilino',
+    'roles.admins': 'admins',
+    'roles.organizers': 'organizadores',
+    'roles.tenants': 'inquilinos',
+
+    // Trust levels
+    'trust.verified': 'Verificado',
+    'trust.invited': 'Invitado',
+    'trust.new': 'Nuevo',
+
+    // Activity status
+    'status.active': 'Activo',
+    'status.inactive': 'Inactivo',
+    'status.never': 'Nunca',
+    'status.banned': 'Prohibido',
+    'status.you': '(tu)',
+
+    // Time formatting
+    'time.justNow': 'Ahora mismo',
+    'time.minutesAgo': 'hace {n}m',
+    'time.hoursAgo': 'hace {n}h',
+    'time.daysAgo': 'hace {n}d',
+    'time.never': 'Nunca',
+
+    // Skill categories
+    'skills.all': 'Todos',
+    'skills.translation': 'Traduccion',
+    'skills.legalKnowledge': 'Conocimiento Legal',
+    'skills.techSupport': 'Soporte Tecnico',
+    'skills.transportation': 'Transporte',
+    'skills.physicalLabor': 'Trabajo Fisico',
+    'skills.childcare': 'Cuidado de Ninos',
+    'skills.cookingFood': 'Cocina/Comida',
+    'skills.mediaPR': 'Medios/RP',
+    'skills.other': 'Otro',
+
+    // User list
+    'users.title': 'Usuarios',
+    'users.searchPlaceholder': 'Buscar por nombre, edificio, unidad...',
+    'users.allRoles': 'Todos los roles',
+    'users.allActivity': 'Toda la actividad',
+    'users.sortBy': 'Ordenar por',
+    'users.recentActivity': 'Actividad reciente',
+    'users.name': 'Nombre',
+    'users.role': 'Rol',
+    'users.joined': 'Se unio',
+    'users.showBanned': 'Mostrar prohibidos',
+
+    // Landlord directory
+    'landlords.title': 'Directorio de Propietarios',
+    'landlords.searchPlaceholder': 'Buscar propietarios...',
+    'landlords.sortPortfolioSize': 'Tamano de Cartera',
+    'landlords.sortEvictions': 'Desalojos',
+    'landlords.sortViolations': 'Violaciones',
+    'landlords.sortName': 'Nombre',
+    'landlords.properties': 'propiedades',
+    'landlords.units': 'unidades',
+    'landlords.assessed': 'evaluado',
+    'landlords.count': '{n} propietarios',
+    'landlords.sortUnits': 'Unidades Totales',
+    'landlords.sortValue': 'Valor Total',
+    'landlords.sortActivity': 'Actividad de Organizacion',
+    'landlords.noResults': 'No se encontraron propietarios',
 
     // Elections
     'elections.noActive': 'Sin Eleccion Activa',
@@ -2657,6 +2807,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'mutualAid.createProfileToPost': 'Crea un perfil para publicar',
     'mutualAid.createProfileToRegisterSkills': 'Crea un perfil para registrar habilidades',
     'mutualAid.editYourSkills': 'Edita tus habilidades',
+    'mutualAid.whatSkillsOffer': 'Que habilidades puedes ofrecer?',
+    'mutualAid.describeSkills': 'Describe tus habilidades (opcional)',
+    'mutualAid.briefDescription': 'Breve descripcion...',
     'mutualAid.event': 'Evento',
     'mutualAid.events': 'Eventos',
     'mutualAid.member': 'Miembro',
@@ -3287,7 +3440,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'campaign.progress': 'progreso',
 
     // Common - additional
-    'common.refresh': 'Actualizar',
     'common.dismiss': 'Descartar',
     'common.view': 'Ver',
     'common.today': 'Hoy',
@@ -3764,6 +3916,80 @@ const translations: Record<Locale, Record<string, string>> = {
     'common.send': 'Magpadala',
     'common.issues': 'mga problema',
     'common.subsidized': 'subsidi',
+    'common.all': 'Lahat',
+    'common.search': 'Maghanap',
+    'common.sort': 'Ayusin',
+    'common.filter': 'Salain',
+    'common.refresh': 'I-refresh',
+    'common.export': 'I-export',
+    'common.import': 'I-import',
+
+    // Roles
+    'roles.admin': 'Admin',
+    'roles.organizer': 'Organizer',
+    'roles.tenant': 'Umuupa',
+    'roles.admins': 'mga admin',
+    'roles.organizers': 'mga organizer',
+    'roles.tenants': 'mga umuupa',
+
+    // Trust levels
+    'trust.verified': 'Na-verify',
+    'trust.invited': 'Inimbitahan',
+    'trust.new': 'Bago',
+
+    // Activity status
+    'status.active': 'Aktibo',
+    'status.inactive': 'Hindi aktibo',
+    'status.never': 'Hindi kailanman',
+    'status.banned': 'Ipinagbawal',
+    'status.you': '(ikaw)',
+
+    // Time formatting
+    'time.justNow': 'Ngayon lang',
+    'time.minutesAgo': '{n}m nakalipas',
+    'time.hoursAgo': '{n}o nakalipas',
+    'time.daysAgo': '{n}a nakalipas',
+    'time.never': 'Hindi kailanman',
+
+    // Skill categories
+    'skills.all': 'Lahat',
+    'skills.translation': 'Pagsasalin',
+    'skills.legalKnowledge': 'Kaalaman sa Batas',
+    'skills.techSupport': 'Tech Support',
+    'skills.transportation': 'Transportasyon',
+    'skills.physicalLabor': 'Pisikal na Trabaho',
+    'skills.childcare': 'Pag-aalaga ng Bata',
+    'skills.cookingFood': 'Pagluluto/Pagkain',
+    'skills.mediaPR': 'Media/PR',
+    'skills.other': 'Iba pa',
+
+    // User list
+    'users.title': 'Mga Gumagamit',
+    'users.searchPlaceholder': 'Maghanap ayon sa pangalan, gusali, unit...',
+    'users.allRoles': 'Lahat ng tungkulin',
+    'users.allActivity': 'Lahat ng aktibidad',
+    'users.sortBy': 'Ayusin ayon sa',
+    'users.recentActivity': 'Kamakailang aktibidad',
+    'users.name': 'Pangalan',
+    'users.role': 'Tungkulin',
+    'users.joined': 'Sumali',
+    'users.showBanned': 'Ipakita ang ipinagbawal',
+
+    // Landlord directory
+    'landlords.title': 'Direktoryo ng May-ari',
+    'landlords.searchPlaceholder': 'Maghanap ng mga may-ari...',
+    'landlords.sortPortfolioSize': 'Laki ng Portfolio',
+    'landlords.sortEvictions': 'Mga Pagpapaalis',
+    'landlords.sortViolations': 'Mga Paglabag',
+    'landlords.sortName': 'Pangalan',
+    'landlords.properties': 'mga ari-arian',
+    'landlords.units': 'mga unit',
+    'landlords.assessed': 'tinasa',
+    'landlords.count': '{n} mga may-ari',
+    'landlords.sortUnits': 'Kabuuang Unit',
+    'landlords.sortValue': 'Kabuuang Halaga',
+    'landlords.sortActivity': 'Aktibidad ng Pag-organisa',
+    'landlords.noResults': 'Walang nahanap na may-ari',
 
     // Elections
     'elections.noActive': 'Walang Aktibong Eleksyon',
@@ -4222,6 +4448,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'mutualAid.createProfileToPost': 'Mangyaring gumawa ng profile para mag-post',
     'mutualAid.createProfileToRegisterSkills': 'Mangyaring gumawa ng profile para magparehistro ng mga kasanayan',
     'mutualAid.editYourSkills': 'I-edit ang Iyong mga Kasanayan',
+    'mutualAid.whatSkillsOffer': 'Anong mga kasanayan ang maipapaalok mo?',
+    'mutualAid.describeSkills': 'Ilarawan ang iyong mga kasanayan (opsyonal)',
+    'mutualAid.briefDescription': 'Maikling paglalarawan...',
     'mutualAid.event': 'Kaganapan',
     'mutualAid.events': 'Mga Kaganapan',
     'mutualAid.member': 'Miyembro',
@@ -5101,7 +5330,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'campaign.progress': 'progreso',
 
     // Common - additional
-    'common.refresh': 'I-refresh',
     'common.dismiss': 'I-dismiss',
     'common.view': 'Tingnan',
     'common.today': 'Ngayon',
@@ -5577,6 +5805,80 @@ const translations: Record<Locale, Record<string, string>> = {
     'common.send': '发送',
     'common.issues': '问题',
     'common.subsidized': '补贴',
+    'common.all': '全部',
+    'common.search': '搜索',
+    'common.sort': '排序',
+    'common.filter': '筛选',
+    'common.refresh': '刷新',
+    'common.export': '导出',
+    'common.import': '导入',
+
+    // Roles
+    'roles.admin': '管理员',
+    'roles.organizer': '组织者',
+    'roles.tenant': '租户',
+    'roles.admins': '管理员',
+    'roles.organizers': '组织者',
+    'roles.tenants': '租户',
+
+    // Trust levels
+    'trust.verified': '已验证',
+    'trust.invited': '已邀请',
+    'trust.new': '新用户',
+
+    // Activity status
+    'status.active': '活跃',
+    'status.inactive': '不活跃',
+    'status.never': '从未',
+    'status.banned': '已禁止',
+    'status.you': '(你)',
+
+    // Time formatting
+    'time.justNow': '刚刚',
+    'time.minutesAgo': '{n}分钟前',
+    'time.hoursAgo': '{n}小时前',
+    'time.daysAgo': '{n}天前',
+    'time.never': '从未',
+
+    // Skill categories
+    'skills.all': '全部',
+    'skills.translation': '翻译',
+    'skills.legalKnowledge': '法律知识',
+    'skills.techSupport': '技术支持',
+    'skills.transportation': '交通运输',
+    'skills.physicalLabor': '体力劳动',
+    'skills.childcare': '儿童保育',
+    'skills.cookingFood': '烹饪/食物',
+    'skills.mediaPR': '媒体/公关',
+    'skills.other': '其他',
+
+    // User list
+    'users.title': '用户',
+    'users.searchPlaceholder': '按姓名、建筑、单元搜索...',
+    'users.allRoles': '所有角色',
+    'users.allActivity': '所有活动',
+    'users.sortBy': '排序方式',
+    'users.recentActivity': '最近活动',
+    'users.name': '姓名',
+    'users.role': '角色',
+    'users.joined': '加入时间',
+    'users.showBanned': '显示已禁止',
+
+    // Landlord directory
+    'landlords.title': '房东名录',
+    'landlords.searchPlaceholder': '搜索房东...',
+    'landlords.sortPortfolioSize': '投资组合规模',
+    'landlords.sortEvictions': '驱逐次数',
+    'landlords.sortViolations': '违规次数',
+    'landlords.sortName': '名称',
+    'landlords.properties': '处房产',
+    'landlords.units': '个单元',
+    'landlords.assessed': '估值',
+    'landlords.count': '{n} 个房东',
+    'landlords.sortUnits': '总单元数',
+    'landlords.sortValue': '总价值',
+    'landlords.sortActivity': '组织活动',
+    'landlords.noResults': '未找到房东',
 
     // Elections
     'elections.noActive': '没有进行中的选举',
@@ -6035,6 +6337,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'mutualAid.createProfileToPost': '请创建个人资料以发布',
     'mutualAid.createProfileToRegisterSkills': '请创建个人资料以注册技能',
     'mutualAid.editYourSkills': '编辑您的技能',
+    'mutualAid.whatSkillsOffer': '您可以提供什么技能?',
+    'mutualAid.describeSkills': '描述您的技能(可选)',
+    'mutualAid.briefDescription': '简要描述...',
     'mutualAid.event': '活动',
     'mutualAid.events': '活动',
     'mutualAid.member': '成员',
@@ -6913,7 +7218,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'campaign.progress': '进度',
 
     // Common - additional
-    'common.refresh': '刷新',
     'common.dismiss': '关闭',
     'common.view': '查看',
     'common.today': '今天',
@@ -7389,6 +7693,80 @@ const translations: Record<Locale, Record<string, string>> = {
     'common.send': 'Gửi',
     'common.issues': 'vấn đề',
     'common.subsidized': 'hỗ trợ',
+    'common.all': 'Tất cả',
+    'common.search': 'Tìm kiếm',
+    'common.sort': 'Sắp xếp',
+    'common.filter': 'Lọc',
+    'common.refresh': 'Làm mới',
+    'common.export': 'Xuất',
+    'common.import': 'Nhập',
+
+    // Roles
+    'roles.admin': 'Quản trị',
+    'roles.organizer': 'Tổ chức viên',
+    'roles.tenant': 'Người thuê',
+    'roles.admins': 'quản trị',
+    'roles.organizers': 'tổ chức viên',
+    'roles.tenants': 'người thuê',
+
+    // Trust levels
+    'trust.verified': 'Đã xác minh',
+    'trust.invited': 'Được mời',
+    'trust.new': 'Mới',
+
+    // Activity status
+    'status.active': 'Hoạt động',
+    'status.inactive': 'Không hoạt động',
+    'status.never': 'Chưa bao giờ',
+    'status.banned': 'Bị cấm',
+    'status.you': '(bạn)',
+
+    // Time formatting
+    'time.justNow': 'Vừa xong',
+    'time.minutesAgo': '{n} phút trước',
+    'time.hoursAgo': '{n} giờ trước',
+    'time.daysAgo': '{n} ngày trước',
+    'time.never': 'Chưa bao giờ',
+
+    // Skill categories
+    'skills.all': 'Tất cả',
+    'skills.translation': 'Phiên dịch',
+    'skills.legalKnowledge': 'Kiến thức Pháp lý',
+    'skills.techSupport': 'Hỗ trợ Kỹ thuật',
+    'skills.transportation': 'Vận chuyển',
+    'skills.physicalLabor': 'Lao động Chân tay',
+    'skills.childcare': 'Chăm sóc Trẻ em',
+    'skills.cookingFood': 'Nấu ăn/Thực phẩm',
+    'skills.mediaPR': 'Truyền thông/PR',
+    'skills.other': 'Khác',
+
+    // User list
+    'users.title': 'Người dùng',
+    'users.searchPlaceholder': 'Tìm theo tên, tòa nhà, đơn vị...',
+    'users.allRoles': 'Tất cả vai trò',
+    'users.allActivity': 'Tất cả hoạt động',
+    'users.sortBy': 'Sắp xếp theo',
+    'users.recentActivity': 'Hoạt động gần nhất',
+    'users.name': 'Tên',
+    'users.role': 'Vai trò',
+    'users.joined': 'Tham gia',
+    'users.showBanned': 'Hiển thị đã bị cấm',
+
+    // Landlord directory
+    'landlords.title': 'Danh bạ Chủ nhà',
+    'landlords.searchPlaceholder': 'Tìm chủ nhà...',
+    'landlords.sortPortfolioSize': 'Quy mô Danh mục',
+    'landlords.sortEvictions': 'Số lần Trục xuất',
+    'landlords.sortViolations': 'Vi phạm',
+    'landlords.sortName': 'Tên',
+    'landlords.properties': 'bất động sản',
+    'landlords.units': 'đơn vị',
+    'landlords.assessed': 'định giá',
+    'landlords.count': '{n} chủ nhà',
+    'landlords.sortUnits': 'Tổng Đơn vị',
+    'landlords.sortValue': 'Tổng Giá trị',
+    'landlords.sortActivity': 'Hoạt động Tổ chức',
+    'landlords.noResults': 'Không tìm thấy chủ nhà',
 
     // Elections
     'elections.noActive': 'Không có bầu cử đang diễn ra',
@@ -8026,6 +8404,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'mutualAid.createProfileToPost': 'Vui lòng tạo hồ sơ để đăng',
     'mutualAid.createProfileToRegisterSkills': 'Vui lòng tạo hồ sơ để đăng ký kỹ năng',
     'mutualAid.editYourSkills': 'Chỉnh sửa kỹ năng của bạn',
+    'mutualAid.whatSkillsOffer': 'Bạn có thể cung cấp những kỹ năng gì?',
+    'mutualAid.describeSkills': 'Mô tả kỹ năng của bạn (tùy chọn)',
+    'mutualAid.briefDescription': 'Mô tả ngắn gọn...',
     'mutualAid.event': 'Sự kiện',
     'mutualAid.events': 'Sự kiện',
     'mutualAid.member': 'Thành viên',
@@ -8706,7 +9087,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'campaign.progress': 'tiến độ',
 
     // Common - additional
-    'common.refresh': 'Làm mới',
     'common.dismiss': 'Bỏ qua',
     'common.view': 'Xem',
     'common.today': 'Hôm nay',

@@ -82,10 +82,10 @@ export function UserList() {
 
         {/* Stats */}
         <div className="flex gap-4 text-xs text-gray-500 mb-3">
-          <span>{stats.admins} admin{stats.admins !== 1 ? 's' : ''}</span>
-          <span>{stats.organizers} organizer{stats.organizers !== 1 ? 's' : ''}</span>
-          <span>{stats.tenants} tenant{stats.tenants !== 1 ? 's' : ''}</span>
-          <span className="text-green-600">{stats.active} active</span>
+          <span>{stats.admins} {t('roles.admins')}</span>
+          <span>{stats.organizers} {t('roles.organizers')}</span>
+          <span>{stats.tenants} {t('roles.tenants')}</span>
+          <span className="text-green-600">{stats.active} {t('status.active').toLowerCase()}</span>
         </div>
 
         {/* Search */}
@@ -104,10 +104,10 @@ export function UserList() {
             onChange={(e) => setFilters({ role: e.target.value as UserRole | 'all' })}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="all">{t('userList.allRoles') || 'All roles'}</option>
-            <option value="admin">{t('userList.admins') || 'Admins'}</option>
-            <option value="organizer">{t('userList.organizers') || 'Organizers'}</option>
-            <option value="tenant">{t('userList.tenants') || 'Tenants'}</option>
+            <option value="all">{t('users.allRoles')}</option>
+            <option value="admin">{t('roles.admin')}</option>
+            <option value="organizer">{t('roles.organizer')}</option>
+            <option value="tenant">{t('roles.tenant')}</option>
           </select>
 
           <select
@@ -115,10 +115,10 @@ export function UserList() {
             onChange={(e) => setFilters({ activityStatus: e.target.value as 'active' | 'inactive' | 'never' | 'all' })}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="all">{t('userList.allActivity') || 'All activity'}</option>
-            <option value="active">{t('userList.active7Days') || 'Active (7d)'}</option>
-            <option value="inactive">{t('userList.inactive') || 'Inactive'}</option>
-            <option value="never">{t('userList.neverActive') || 'Never active'}</option>
+            <option value="all">{t('users.allActivity')}</option>
+            <option value="active">{t('status.active')}</option>
+            <option value="inactive">{t('status.inactive')}</option>
+            <option value="never">{t('status.never')}</option>
           </select>
 
           <select
@@ -126,10 +126,10 @@ export function UserList() {
             onChange={(e) => setSort(e.target.value as typeof sortField)}
             className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
           >
-            <option value="lastActive">{t('userList.sortLastActive') || 'Sort: Last Active'}</option>
-            <option value="nickname">{t('userList.sortName') || 'Sort: Name'}</option>
-            <option value="role">{t('userList.sortRole') || 'Sort: Role'}</option>
-            <option value="created">{t('userList.sortJoinDate') || 'Sort: Join Date'}</option>
+            <option value="lastActive">{t('users.sortBy')}: {t('users.recentActivity')}</option>
+            <option value="nickname">{t('users.sortBy')}: {t('users.name')}</option>
+            <option value="role">{t('users.sortBy')}: {t('users.role')}</option>
+            <option value="created">{t('users.sortBy')}: {t('users.joined')}</option>
           </select>
 
           {/* Show banned users toggle (admin-only) */}
@@ -141,7 +141,7 @@ export function UserList() {
                 onChange={(e) => setFilters({ showBanned: e.target.checked })}
                 className="rounded"
               />
-              <span>{t('userList.showBanned') || 'Show banned'}</span>
+              <span>{t('users.showBanned')}</span>
             </label>
           )}
         </div>

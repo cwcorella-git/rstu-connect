@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useMemo } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import type { LandlordProfile } from '@/lib/landlordProfileStorage'
 import { LandlordCard } from './LandlordCard'
 
@@ -13,6 +14,7 @@ interface LandlordListProps {
 }
 
 export function LandlordList({ landlords, selectedLandlord, onSelectLandlord }: LandlordListProps) {
+  const { t } = useLanguage()
   const [searchQuery, setSearchQuery] = useState('')
   const [sortBy, setSortBy] = useState<SortOption>('portfolio')
   const [showActiveOnly, setShowActiveOnly] = useState(false)
@@ -73,7 +75,7 @@ export function LandlordList({ landlords, selectedLandlord, onSelectLandlord }: 
             type="text"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            placeholder="Search landlords..."
+            placeholder={t('landlords.searchPlaceholder')}
             className="w-full px-3 py-2 pl-9 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
           />
           <svg
@@ -103,10 +105,10 @@ export function LandlordList({ landlords, selectedLandlord, onSelectLandlord }: 
             onChange={(e) => setSortBy(e.target.value as SortOption)}
             className="flex-1 px-2 py-1.5 text-xs border border-gray-300 rounded-md focus:outline-none focus:ring-1 focus:ring-rstu-red"
           >
-            <option value="portfolio">Sort: Portfolio Size</option>
-            <option value="units">Sort: Total Units</option>
-            <option value="value">Sort: Total Value</option>
-            <option value="activity">Sort: Organizing Activity</option>
+            <option value="portfolio">{t('common.sort')}: {t('landlords.sortPortfolioSize')}</option>
+            <option value="units">{t('common.sort')}: {t('landlords.sortUnits')}</option>
+            <option value="value">{t('common.sort')}: {t('landlords.sortValue')}</option>
+            <option value="activity">{t('common.sort')}: {t('landlords.sortActivity')}</option>
           </select>
 
           <button
@@ -117,15 +119,15 @@ export function LandlordList({ landlords, selectedLandlord, onSelectLandlord }: 
                 : 'border-gray-300 text-gray-600 hover:bg-gray-50'
             }`}
           >
-            Active ({activeCount})
+            {t('status.active')} ({activeCount})
           </button>
         </div>
 
         {/* Results count */}
         <p className="text-xs text-gray-500">
           {filteredAndSorted.length === landlords.length
-            ? `${landlords.length} landlords`
-            : `${filteredAndSorted.length} of ${landlords.length} landlords`
+            ? t('landlords.count').replace('{n}', String(landlords.length))
+            : `${filteredAndSorted.length} / ${t('landlords.count').replace('{n}', String(landlords.length))}`
           }
         </p>
       </div>
@@ -134,7 +136,7 @@ export function LandlordList({ landlords, selectedLandlord, onSelectLandlord }: 
       <div className="flex-1 overflow-y-auto">
         {filteredAndSorted.length === 0 ? (
           <div className="p-8 text-center text-gray-400">
-            <p>No landlords found</p>
+            <p>{t('landlords.noResults')}</p>
           </div>
         ) : (
           filteredAndSorted.map(landlord => (
