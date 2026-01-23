@@ -57,11 +57,16 @@ function getConfig(): GitHubConfig | null {
   return { owner, repo, token }
 }
 
+// Result type for fetch operations
+type FetchFileResult =
+  | { success: true; content: string; sha: string }
+  | { success: false; error: string }
+
 // Fetch file content from GitHub
 async function fetchFileContent(
   config: GitHubConfig,
   path: string
-): Promise<{ content: string; sha: string } | null> {
+): Promise<FetchFileResult> {
   const url = `${GITHUB_API_URL}/repos/${config.owner}/${config.repo}/contents/${path}`
 
   try {
@@ -73,16 +78,31 @@ async function fetchFileContent(
     })
 
     if (!response.ok) {
-      log.error(`Failed to fetch file: ${response.status}`)
-      return null
+      const errorText = await response.text().catch(() => 'Unknown error')
+      let errorMessage = `GitHub API error: ${response.status}`
+
+      // Provide more specific error messages for common status codes
+      if (response.status === 401) {
+        errorMessage = 'GitHub token is invalid or expired. Please update your token.'
+      } else if (response.status === 403) {
+        errorMessage = 'GitHub token lacks permission. Ensure it has "repo" scope.'
+      } else if (response.status === 404) {
+        errorMessage = `File not found: ${path}. Check repository access.`
+      } else if (response.status === 422) {
+        errorMessage = `Invalid request: ${errorText}`
+      }
+
+      log.error(`Failed to fetch file: ${response.status}`, errorText)
+      return { success: false, error: errorMessage }
     }
 
     const data = await response.json()
     const content = atob(data.content.replace(/\n/g, ''))
-    return { content, sha: data.sha }
+    return { success: true, content, sha: data.sha }
   } catch (err) {
     log.error('Error fetching file:', err)
-    return null
+    const errorMessage = err instanceof Error ? err.message : 'Network error'
+    return { success: false, error: `Failed to connect to GitHub: ${errorMessage}` }
   }
 }
 
@@ -241,14 +261,14 @@ export async function updateTranslation(
   const filePath = 'src/contexts/LanguageContext.tsx'
 
   // Fetch current file content
-  const fileData = await fetchFileContent(config, filePath)
-  if (!fileData) {
-    return { success: false, error: 'Failed to fetch LanguageContext.tsx' }
+  const fileResult = await fetchFileContent(config, filePath)
+  if (!fileResult.success) {
+    return { success: false, error: fileResult.error }
   }
 
   // Update the translation in the content
   const updateResult = updateTranslationInContent(
-    fileData.content,
+    fileResult.content,
     locale,
     key,
     newValue
@@ -261,7 +281,7 @@ export async function updateTranslation(
   // Commit the update
   const commitMessage = `Update translation: ${locale}.${key}\n\nUpdated via RSTU Connect inline editor`
 
-  return commitFileUpdate(config, filePath, updateResult.content, fileData.sha, commitMessage)
+  return commitFileUpdate(config, filePath, updateResult.content, fileResult.sha, commitMessage)
 }
 
 /**
