@@ -3,7 +3,7 @@
 import { ReactNode } from 'react'
 import { AuthProvider } from '@/contexts/AuthContext'
 import { TabProvider, useTab } from '@/contexts/TabContext'
-import { LanguageProvider, useLanguage } from '@/contexts/LanguageContext'
+import { LanguageProvider } from '@/contexts/LanguageContext'
 import { EditModeProvider } from '@/contexts/EditModeContext'
 import { DisplayProvider } from '@/contexts/DisplayContext'
 import { Navigation } from '@/components/Navigation'
@@ -14,24 +14,22 @@ import { Footer } from '@/components/Footer'
 import { OfflineBanner, OfflineIndicator } from '@/components/OfflineBanner'
 
 function Header() {
-  const { t, isLoading } = useLanguage()
   const { setActiveTab } = useTab()
 
   return (
     <header className="border-b border-gray-200 bg-white sticky top-0 z-10">
-      <div className="max-w-full px-4 sm:px-6 lg:px-8 py-4">
+      <div className="max-w-full px-4 sm:px-6 lg:px-8 py-2">
         <div className="flex items-center justify-between">
           <button
             onClick={() => setActiveTab('landing')}
-            className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
+            className="flex items-center hover:opacity-80 transition-opacity"
             aria-label="Go to home"
           >
-            <span className="text-lg font-bold text-rstu-red">
-              {isLoading ? 'RSTU' : t('header.title')}
-            </span>
-            <span className="text-sm text-gray-600">
-              {isLoading ? 'Connect' : t('header.subtitle')}
-            </span>
+            <img
+              src="/rstu-connect/rstu-logo.png"
+              alt="RSTU - Reno-Sparks Tenants Union"
+              className="h-10 w-auto"
+            />
           </button>
           <div className="flex items-center gap-2">
             <OfflineIndicator />
