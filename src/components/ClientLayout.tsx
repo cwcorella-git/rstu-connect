@@ -22,15 +22,10 @@ function Header() {
         <div className="flex items-center justify-between">
           <button
             onClick={() => setActiveTab('landing')}
-            className="flex items-center gap-2 hover:opacity-80 transition-opacity"
+            className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
             aria-label="Go to home"
           >
-            <img
-              src="/rstu-connect/rstu-logo-compact.png"
-              alt="RSTU - Reno-Sparks Tenants Union"
-              className="h-10 w-auto"
-            />
-            <span className="text-2xl font-bold text-gray-900">Connect</span>
+            <span className="text-lg font-bold text-rstu-red">RSTU Connect</span>
           </button>
           <div className="flex items-center gap-2">
             <OfflineIndicator />
