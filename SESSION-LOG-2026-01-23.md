@@ -2,7 +2,9 @@
 
 ## Overview
 
-This session focused on fixing TypeScript compilation errors that were blocking the build due to outdated test files.
+This session covered two main areas:
+1. Fixing TypeScript compilation errors blocking the build
+2. Adding the official RSTU logo to the header and PWA icons
 
 ---
 
@@ -56,11 +58,79 @@ Excluded test files from TypeScript compilation in `tsconfig.json`. Tests will s
 
 ---
 
+---
+
+## 2. Official RSTU Logo Integration
+
+**Status:** Complete
+**Commit:** `e1ebddc2`
+
+### Task
+
+Add the official RSTU logo (`cropped-Reno-Sparks-Tenants-Union-2.png` from Desktop) to:
+1. The site header (replacing placeholder red text)
+2. All PWA icons (for mobile "Add to Home Screen")
+
+### Logo
+
+![RSTU Logo](public/rstu-logo.png)
+
+Red logo featuring:
+- House roof outline
+- "RSTU" in bold with underline
+- "RENO-SPARKS TENANTS UNION" text below
+
+### Files Modified/Created
+
+| File | Change |
+|------|--------|
+| `public/rstu-logo.png` | **New** - Original logo (60KB) |
+| `public/icon-72.png` | Regenerated from logo |
+| `public/icon-96.png` | Regenerated from logo |
+| `public/icon-128.png` | Regenerated from logo |
+| `public/icon-144.png` | Regenerated from logo |
+| `public/icon-152.png` | Regenerated from logo |
+| `public/icon-192.png` | Regenerated from logo |
+| `public/icon-384.png` | Regenerated from logo |
+| `public/icon-512.png` | Regenerated from logo |
+| `src/components/ClientLayout.tsx` | Replaced text header with `<img>` logo |
+
+### Header Changes
+
+**Before:**
+```tsx
+<span className="text-lg font-bold text-rstu-red">RSTU</span>
+<span className="text-sm text-gray-600">Connect</span>
+```
+
+**After:**
+```tsx
+<img
+  src="/rstu-connect/rstu-logo.png"
+  alt="RSTU - Reno-Sparks Tenants Union"
+  className="h-10 w-auto"
+/>
+```
+
+### PWA Icon Generation
+
+Used ImageMagick to generate all icon sizes:
+```bash
+for size in 72 96 128 144 152 192 384 512; do
+  convert rstu-logo.png -resize ${size}x${size} \
+    -background white -gravity center -extent ${size}x${size} \
+    icon-${size}.png
+done
+```
+
+---
+
 ## Commits Summary
 
 | Commit | Message | Files Changed |
 |--------|---------|---------------|
 | `046d0166` | Fix typecheck by excluding test files from tsconfig | 1 |
+| `e1ebddc2` | Add official RSTU logo to header and PWA icons | 10 |
 
 ---
 
