@@ -1,8 +1,8 @@
 {
-  "commit": "ac7fa009",
-  "message": "Simplify onboarding and route feedback to admin inbox",
+  "commit": "23ea5589",
+  "message": "Trigger rebuild with new edit token",
   "author": "cwcorella-git",
-  "date": "2026-01-22 03:52:07 -0800",
+  "date": "2026-01-22 22:33:14 -0800",
   "branch": "main",
-  "buildTime": "2026-01-23T06:26:42.823Z"
+  "buildTime": "2026-01-23T07:33:12.625Z"
 }

@@ -14,6 +14,7 @@ import { ToolsPage } from '@/components/Tools/ToolsPage';
 import { ProfilePage } from '@/components/Profile/ProfilePage';
 import { MutualAidPage } from '@/components/MutualAid/MutualAidPage';
 import { ResourcesPage } from '@/components/Resources/ResourcesPage';
+import { MissionHeader } from '@/components/Home/MissionHeader';
 import { AdminLogin } from '@/components/Reading/AdminLogin';
 import { DocumentEditor } from '@/components/Reading/DocumentEditor';
 import {
@@ -545,6 +546,18 @@ export default function Home() {
 
     return (
       <div className="flex flex-col overflow-hidden flex-1 h-full">
+        {/* Mission Header - collapsible mission context */}
+        <MissionHeader
+          buildings={buildings}
+          onAction={(action) => {
+            if (action === 'rights') {
+              setActiveTab('reading');
+            } else if (action === 'meeting') {
+              setActiveTab('mutualAid');
+            }
+          }}
+        />
+
         {/* Linking status bar - shows when properties are selected */}
         {linkingSelection.length > 0 && (() => {
           const profile = getCurrentProfile();
