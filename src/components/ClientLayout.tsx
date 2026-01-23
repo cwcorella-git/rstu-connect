@@ -26,7 +26,7 @@ function Header() {
             aria-label="Go to home"
           >
             <img
-              src="/rstu-connect/rstu-logo.png"
+              src="/rstu-connect/rstu-logo-compact.png"
               alt="RSTU - Reno-Sparks Tenants Union"
               className="h-10 w-auto"
             />

@@ -14,12 +14,12 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   return (
     <section className="relative w-full py-12 sm:py-16 md:py-20 lg:py-28 px-4 bg-white">
       <div className="max-w-4xl mx-auto text-center">
-        {/* Branding */}
-        <div className="mb-6">
-          <EditableText
-            tKey="landing.hero.title"
-            as="h1"
-            className="text-sm font-bold text-rstu-red uppercase tracking-wide mb-2"
+        {/* Logo */}
+        <div className="mb-8 flex justify-center">
+          <img
+            src="/rstu-connect/rstu-logo-full.png"
+            alt="RSTU - Reno-Sparks Tenants Union"
+            className="h-24 sm:h-32 lg:h-40 w-auto"
           />
         </div>
 
