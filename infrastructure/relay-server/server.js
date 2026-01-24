@@ -17,6 +17,12 @@ const path = require('path');
 const webpush = require('web-push');
 
 // ============================================
+// GitHub Proxy Configuration
+// ============================================
+
+const GITHUB_API_URL = 'https://api.github.com';
+
+// ============================================
 // Configuration
 // ============================================
 
@@ -1219,11 +1225,11 @@ function checkAdminExists() {
 // Server Setup
 // ============================================
 
-const httpServer = createServer((req, res) => {
+const httpServer = createServer(async (req, res) => {
   // Set CORS headers for all responses
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, X-GitHub-Token');
 
   // Handle preflight
   if (req.method === 'OPTIONS') {
@@ -1255,6 +1261,60 @@ const httpServer = createServer((req, res) => {
     } catch (err) {
       res.writeHead(500, { 'Content-Type': 'application/json' });
       res.end(JSON.stringify({ exists: false, error: err.message }));
+    }
+    return;
+  }
+
+  // GitHub API Proxy endpoint
+  if (req.url.startsWith('/github/')) {
+    const token = req.headers['x-github-token'];
+
+    if (!token) {
+      res.writeHead(401, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ error: 'Missing X-GitHub-Token header' }));
+      return;
+    }
+
+    const githubPath = req.url.replace('/github/', '');
+    const githubUrl = `${GITHUB_API_URL}/${githubPath}`;
+
+    try {
+      // Read request body for POST/PUT
+      let body = '';
+      if (req.method === 'POST' || req.method === 'PUT') {
+        body = await new Promise((resolve, reject) => {
+          let data = '';
+          req.on('data', chunk => { data += chunk; });
+          req.on('end', () => resolve(data));
+          req.on('error', reject);
+        });
+      }
+
+      // Forward request to GitHub API
+      const fetchOptions = {
+        method: req.method,
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'Accept': 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json',
+          'User-Agent': 'RSTU-Connect-Proxy'
+        }
+      };
+
+      if (body) {
+        fetchOptions.body = body;
+      }
+
+      const response = await fetch(githubUrl, fetchOptions);
+      const data = await response.text();
+
+      res.writeHead(response.status, { 'Content-Type': 'application/json' });
+      res.end(data);
+      console.log(`[GitHub Proxy] ${req.method} ${githubPath} -> ${response.status}`);
+    } catch (err) {
+      console.error('[GitHub Proxy] Error:', err);
+      res.writeHead(500, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ error: 'Proxy error', message: err.message }));
     }
     return;
   }
