@@ -1,8 +1,8 @@
 {
-  "commit": "11f6e8b2",
-  "message": "Hero: Replace watermark with full logo at top",
+  "commit": "95b32d09",
+  "message": "Add clipboard fallback when GitHub API is blocked (CORS)",
   "author": "cwcorella-git",
-  "date": "2026-01-23 14:44:19 -0800",
+  "date": "2026-01-23 14:51:53 -0800",
   "branch": "main",
-  "buildTime": "2026-01-23T22:51:23.253Z"
+  "buildTime": "2026-01-23T22:59:11.390Z"
 }

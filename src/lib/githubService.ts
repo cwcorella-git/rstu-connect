@@ -6,7 +6,9 @@ const log = createLogger('Github')
 // Used by the inline content editing system
 
 const GITHUB_API_URL = 'https://api.github.com'
+const PROXY_URL = process.env.NEXT_PUBLIC_GITHUB_PROXY_URL || 'https://rstu-github-proxy.onrender.com'
 const STORAGE_KEY = 'rstu_github_pat'
+const USE_PROXY = true // Use proxy to avoid CORS issues
 
 interface GitHubConfig {
   owner: string
@@ -62,20 +64,29 @@ type FetchFileResult =
   | { success: true; content: string; sha: string }
   | { success: false; error: string }
 
-// Fetch file content from GitHub
+// Fetch file content from GitHub (via proxy to avoid CORS)
 async function fetchFileContent(
   config: GitHubConfig,
   path: string
 ): Promise<FetchFileResult> {
-  const url = `${GITHUB_API_URL}/repos/${config.owner}/${config.repo}/contents/${path}`
+  const githubPath = `repos/${config.owner}/${config.repo}/contents/${path}`
+  const url = USE_PROXY
+    ? `${PROXY_URL}/github/${githubPath}`
+    : `${GITHUB_API_URL}/${githubPath}`
 
   try {
-    const response = await fetch(url, {
-      headers: {
-        Authorization: `Bearer ${config.token}`,
-        Accept: 'application/vnd.github.v3+json',
-      },
-    })
+    const headers: Record<string, string> = {
+      Accept: 'application/vnd.github.v3+json',
+    }
+
+    // Use X-GitHub-Token header for proxy, Authorization for direct
+    if (USE_PROXY) {
+      headers['X-GitHub-Token'] = config.token
+    } else {
+      headers['Authorization'] = `Bearer ${config.token}`
+    }
+
+    const response = await fetch(url, { headers })
 
     if (!response.ok) {
       const errorText = await response.text().catch(() => 'Unknown error')
@@ -106,7 +117,7 @@ async function fetchFileContent(
   }
 }
 
-// Commit file update to GitHub
+// Commit file update to GitHub (via proxy to avoid CORS)
 async function commitFileUpdate(
   config: GitHubConfig,
   path: string,
@@ -114,16 +125,26 @@ async function commitFileUpdate(
   sha: string,
   message: string
 ): Promise<UpdateResult> {
-  const url = `${GITHUB_API_URL}/repos/${config.owner}/${config.repo}/contents/${path}`
+  const githubPath = `repos/${config.owner}/${config.repo}/contents/${path}`
+  const url = USE_PROXY
+    ? `${PROXY_URL}/github/${githubPath}`
+    : `${GITHUB_API_URL}/${githubPath}`
 
   try {
+    const headers: Record<string, string> = {
+      Accept: 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json',
+    }
+
+    if (USE_PROXY) {
+      headers['X-GitHub-Token'] = config.token
+    } else {
+      headers['Authorization'] = `Bearer ${config.token}`
+    }
+
     const response = await fetch(url, {
       method: 'PUT',
-      headers: {
-        Authorization: `Bearer ${config.token}`,
-        Accept: 'application/vnd.github.v3+json',
-        'Content-Type': 'application/json',
-      },
+      headers,
       body: JSON.stringify({
         message,
         content: btoa(unescape(encodeURIComponent(content))), // Handle unicode properly
@@ -295,13 +316,20 @@ export function isGitHubConfigured(): boolean {
  * Validate a GitHub token by making a test API call
  */
 export async function validateToken(token: string): Promise<boolean> {
+  const url = USE_PROXY ? `${PROXY_URL}/github/user` : `${GITHUB_API_URL}/user`
+
   try {
-    const response = await fetch(`${GITHUB_API_URL}/user`, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-        Accept: 'application/vnd.github.v3+json',
-      },
-    })
+    const headers: Record<string, string> = {
+      Accept: 'application/vnd.github.v3+json',
+    }
+
+    if (USE_PROXY) {
+      headers['X-GitHub-Token'] = token
+    } else {
+      headers['Authorization'] = `Bearer ${token}`
+    }
+
+    const response = await fetch(url, { headers })
     return response.ok
   } catch {
     return false
