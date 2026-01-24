@@ -7,7 +7,7 @@ const log = createLogger('Github')
 
 const GITHUB_API_URL = 'https://api.github.com'
 // Use the existing Socket.io relay server as the GitHub proxy
-const PROXY_URL = process.env.NEXT_PUBLIC_GITHUB_PROXY_URL || process.env.NEXT_PUBLIC_SOCKETIO_URL || 'https://rstu-chat-server.onrender.com'
+const PROXY_URL = process.env.NEXT_PUBLIC_GITHUB_PROXY_URL || process.env.NEXT_PUBLIC_SOCKETIO_URL || 'https://rstu-gun-relay.onrender.com'
 const STORAGE_KEY = 'rstu_github_pat'
 const USE_PROXY = true // Use proxy to avoid CORS issues
 

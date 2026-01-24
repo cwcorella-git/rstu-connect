@@ -72,7 +72,7 @@ Language switcher in header with 938+ translated strings per locale.
 ### Chat System
 - **Platform:** Socket.io server (self-hosted on Render)
 - **Features:** Real-time messaging, server persistence, building-specific rooms
-- **Server:** `rstu-chat-server.onrender.com`
+- **Server:** `rstu-gun-relay.onrender.com`
 
 ### Deployment
 - **Hosting:** GitHub Pages (primary), Neocities iframe (legacy URL)

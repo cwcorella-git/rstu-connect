@@ -187,7 +187,7 @@ function MyComponent() {
 
 ## Chat System
 
-**Current:** Socket.io server at `rstu-chat-server.onrender.com`
+**Current:** Socket.io server at `rstu-gun-relay.onrender.com`
 - Real-time messaging with server persistence
 - Building-specific chat rooms via `chatSlug`
 - `src/lib/socketio.ts` - Socket.io client
@@ -265,7 +265,7 @@ sqlite3 data/databases/main_properties.db
 4. Neocities iframe points to GitHub Pages
 
 **Environment variables:**
-- `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-chat-server.onrender.com`)
+- `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-gun-relay.onrender.com`)
 - `NEXT_PUBLIC_SUPABASE_URL` - Supabase project URL (optional, for FTS)
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY` - Supabase anon key (optional, for FTS)
 
