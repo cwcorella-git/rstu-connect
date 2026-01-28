@@ -136,6 +136,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
   const [step, setStep] = useState(0)
   const [rankings, setRankings] = useState<string[]>([])
   const [draggedItem, setDraggedItem] = useState<string | null>(null)
+  const [dragOverIndex, setDragOverIndex] = useState<number | null>(null)
   const [results, setResults] = useState<{ winner: string; rounds: EliminationRound[] } | null>(null)
   const [currentRound, setCurrentRound] = useState(0)
   const [showingResults, setShowingResults] = useState(false)
@@ -214,6 +215,60 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
       'bg-gray-100 text-gray-500',     // 5th
     ]
     return colors[rank] || colors[4]
+  }
+
+  // Calculate visual offset for drag animation
+  const getItemTransform = (candidateId: string, index: number): string => {
+    if (!draggedItem || dragOverIndex === null) return 'translateY(0)'
+    if (draggedItem === candidateId) return 'translateY(0)' // Dragged item handled separately
+
+    const draggedIndex = rankings.indexOf(draggedItem)
+    if (draggedIndex === -1) return 'translateY(0)'
+
+    const itemHeight = 72 // Approximate height of each item in pixels
+
+    // If dragging down (draggedIndex < dragOverIndex)
+    if (draggedIndex < dragOverIndex) {
+      // Items between dragged and target should move UP
+      if (index > draggedIndex && index <= dragOverIndex) {
+        return `translateY(-${itemHeight}px)`
+      }
+    }
+    // If dragging up (draggedIndex > dragOverIndex)
+    else if (draggedIndex > dragOverIndex) {
+      // Items between target and dragged should move DOWN
+      if (index >= dragOverIndex && index < draggedIndex) {
+        return `translateY(${itemHeight}px)`
+      }
+    }
+
+    return 'translateY(0)'
+  }
+
+  // Get the visual rank badge index during drag preview
+  const getVisualRankIndex = (candidateId: string, actualIndex: number): number => {
+    if (!draggedItem || dragOverIndex === null) return actualIndex
+
+    const draggedIndex = rankings.indexOf(draggedItem)
+    if (draggedIndex === -1) return actualIndex
+
+    // The dragged item shows its target position
+    if (candidateId === draggedItem) return dragOverIndex
+
+    // Calculate visual position for other items
+    if (draggedIndex < dragOverIndex) {
+      // Dragging down
+      if (actualIndex > draggedIndex && actualIndex <= dragOverIndex) {
+        return actualIndex - 1
+      }
+    } else if (draggedIndex > dragOverIndex) {
+      // Dragging up
+      if (actualIndex >= dragOverIndex && actualIndex < draggedIndex) {
+        return actualIndex + 1
+      }
+    }
+
+    return actualIndex
   }
 
   // ============================================================================
@@ -316,35 +371,72 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
         </p>
       </div>
 
-      <div className="max-w-md mx-auto space-y-2">
+      <div className="max-w-md mx-auto space-y-2 relative">
         {rankings.map((candidateId, index) => {
           const candidate = getCandidate(candidateId)
           if (!candidate) return null
+
+          const isDragging = draggedItem === candidateId
+          const visualRank = getVisualRankIndex(candidateId, index)
+          const transform = getItemTransform(candidateId, index)
 
           return (
             <div
               key={candidateId}
               draggable
-              onDragStart={() => setDraggedItem(candidateId)}
-              onDragOver={(e) => e.preventDefault()}
-              onDrop={() => {
+              onDragStart={(e) => {
+                setDraggedItem(candidateId)
+                // Set drag image opacity
+                if (e.dataTransfer) {
+                  e.dataTransfer.effectAllowed = 'move'
+                }
+              }}
+              onDragOver={(e) => {
+                e.preventDefault()
                 if (draggedItem && draggedItem !== candidateId) {
+                  setDragOverIndex(index)
+                }
+              }}
+              onDragEnter={(e) => {
+                e.preventDefault()
+                if (draggedItem && draggedItem !== candidateId) {
+                  setDragOverIndex(index)
+                }
+              }}
+              onDragEnd={() => {
+                // Finalize the reorder on drag end
+                if (draggedItem && dragOverIndex !== null) {
                   const fromIdx = rankings.indexOf(draggedItem)
-                  const toIdx = rankings.indexOf(candidateId)
-                  const newRankings = [...rankings]
-                  newRankings.splice(fromIdx, 1)
-                  newRankings.splice(toIdx, 0, draggedItem)
-                  setRankings(newRankings)
+                  if (fromIdx !== dragOverIndex) {
+                    const newRankings = [...rankings]
+                    newRankings.splice(fromIdx, 1)
+                    newRankings.splice(dragOverIndex, 0, draggedItem)
+                    setRankings(newRankings)
+                  }
                 }
                 setDraggedItem(null)
+                setDragOverIndex(null)
               }}
-              className={`flex items-center gap-3 p-3 bg-white border-2 rounded-lg cursor-grab active:cursor-grabbing transition-all ${
-                draggedItem === candidateId ? 'opacity-50 border-dashed' : 'border-gray-200 hover:border-gray-300'
+              onDrop={(e) => {
+                e.preventDefault()
+                // Drop is handled by dragEnd
+              }}
+              style={{
+                transform: isDragging ? 'scale(1.02)' : transform,
+                transition: isDragging ? 'none' : 'transform 200ms ease-out',
+                zIndex: isDragging ? 10 : 1,
+              }}
+              className={`flex items-center gap-3 p-3 bg-white border-2 rounded-lg cursor-grab active:cursor-grabbing ${
+                isDragging
+                  ? 'shadow-lg border-rstu-red opacity-90'
+                  : 'border-gray-200 hover:border-gray-300'
               }`}
             >
-              {/* Rank badge */}
-              <span className={`w-8 h-8 flex items-center justify-center rounded-full font-bold text-sm ${getRankBadge(index)}`}>
-                {index + 1}
+              {/* Rank badge - shows visual position during drag */}
+              <span
+                className={`w-8 h-8 flex items-center justify-center rounded-full font-bold text-sm transition-all duration-200 ${getRankBadge(visualRank)}`}
+              >
+                {visualRank + 1}
               </span>
 
               {/* Candidate info */}
@@ -389,7 +481,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
 
       <div className="bg-amber-50 rounded-lg p-4 max-w-md mx-auto">
         <p className="text-sm text-amber-800">
-          <strong>Tip:</strong> Your #1 choice is your favorite. If they can't win, your vote
+          <strong>Tip:</strong> Your #1 choice is your favorite. If they can&apos;t win, your vote
           automatically transfers to your #2 choice, and so on.
         </p>
       </div>
