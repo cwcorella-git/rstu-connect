@@ -67,3 +67,35 @@ export function getSocket(): Socket | null {
 export function isSocketUnavailable(): boolean {
   return connectionErrorCount >= 10
 }
+
+/**
+ * Ensure socket is connected (returns a promise that resolves when connected)
+ */
+export async function ensureConnected(): Promise<boolean> {
+  const socket = getSocket()
+  if (!socket) return false
+
+  // Already connected
+  if (socket.connected) return true
+
+  // Not connected, try to connect
+  socket.connect()
+
+  // Wait for connection (with timeout)
+  return new Promise((resolve) => {
+    const timeout = setTimeout(() => {
+      resolve(false)
+    }, 5000)
+
+    socket.once('connect', () => {
+      clearTimeout(timeout)
+      resolve(true)
+    })
+
+    // If already gave up, return false
+    if (isSocketUnavailable()) {
+      clearTimeout(timeout)
+      resolve(false)
+    }
+  })
+}

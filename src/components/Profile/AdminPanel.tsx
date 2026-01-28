@@ -22,6 +22,8 @@ import {
   markNotificationAsRead,
   markAllNotificationsAsRead,
   deleteNotification,
+  subscribeToNotifications,
+  onNotificationsChange,
   type SystemNotification,
 } from '@/lib/notificationStorage'
 
@@ -52,9 +54,18 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
     // Load admin settings
     setAdminSettings(getAdminSettings())
 
-    // Load notifications
-    setNotifications(getAdminNotifications())
-    setUnreadCount(getUnreadNotificationCount())
+    // Subscribe to server notifications (real-time)
+    subscribeToNotifications()
+
+    // Listen for notification changes (real-time updates)
+    const unsubscribe = onNotificationsChange((notifications) => {
+      setNotifications(notifications)
+      const profile = getCurrentProfile()
+      if (profile) {
+        const unread = notifications.filter(n => !n.readBy.includes(profile.id)).length
+        setUnreadCount(unread)
+      }
+    })
 
     // Calculate canvass stats
     const state = getCanvassState()
@@ -70,6 +81,10 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
       totalUnits,
       contacted,
     })
+
+    return () => {
+      unsubscribe()
+    }
   }, [])
 
   // Check admin access
@@ -182,22 +197,19 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
     }
   }
 
-  const handleMarkNotificationRead = (notificationId: string) => {
-    markNotificationAsRead(notificationId)
-    setNotifications(getAdminNotifications())
-    setUnreadCount(getUnreadNotificationCount())
+  const handleMarkNotificationRead = async (notificationId: string) => {
+    await markNotificationAsRead(notificationId)
+    // Real-time updates via onNotificationsChange handle state
   }
 
-  const handleMarkAllRead = () => {
-    markAllNotificationsAsRead()
-    setNotifications(getAdminNotifications())
-    setUnreadCount(0)
+  const handleMarkAllRead = async () => {
+    await markAllNotificationsAsRead()
+    // Real-time updates via onNotificationsChange handle state
   }
 
-  const handleDeleteNotification = (notificationId: string) => {
-    deleteNotification(notificationId)
-    setNotifications(getAdminNotifications())
-    setUnreadCount(getUnreadNotificationCount())
+  const handleDeleteNotification = async (notificationId: string) => {
+    await deleteNotification(notificationId)
+    // Real-time updates via onNotificationsChange handle state
   }
 
   const formatNotificationTime = (timestamp: number) => {

@@ -223,6 +223,19 @@ async function initDatabase() {
     CREATE INDEX IF NOT EXISTS idx_tasks_status ON tasks(status);
     CREATE INDEX IF NOT EXISTS idx_tasks_campaign ON tasks(campaign_id);
     CREATE INDEX IF NOT EXISTS idx_tasks_building ON tasks(building_id);
+
+    -- System notifications (for admin inbox)
+    CREATE TABLE IF NOT EXISTS system_notifications (
+      id TEXT PRIMARY KEY,
+      type TEXT NOT NULL,
+      title TEXT NOT NULL,
+      message TEXT NOT NULL,
+      metadata TEXT,
+      created_at INTEGER NOT NULL,
+      read_by TEXT DEFAULT '[]'
+    );
+    CREATE INDEX IF NOT EXISTS idx_notifications_type ON system_notifications(type);
+    CREATE INDEX IF NOT EXISTS idx_notifications_created ON system_notifications(created_at);
   `);
 
   // Save database periodically
@@ -1219,6 +1232,88 @@ function checkAdminExists() {
   }
   stmt.free();
   return count > 0;
+}
+
+// ============================================
+// System Notification Helper Functions
+// ============================================
+
+function insertNotification(notification) {
+  db.run(
+    `INSERT INTO system_notifications (id, type, title, message, metadata, created_at, read_by)
+     VALUES (?, ?, ?, ?, ?, ?, ?)`,
+    [
+      notification.id,
+      notification.type,
+      notification.title,
+      notification.message,
+      JSON.stringify(notification.metadata || {}),
+      notification.createdAt,
+      JSON.stringify(notification.readBy || [])
+    ]
+  );
+  saveDatabase();
+}
+
+function getAllNotifications(limit = 100) {
+  const stmt = db.prepare('SELECT * FROM system_notifications ORDER BY created_at DESC LIMIT ?');
+  stmt.bind([limit]);
+  const results = [];
+  while (stmt.step()) {
+    const row = stmt.getAsObject();
+    results.push({
+      id: row.id,
+      type: row.type,
+      title: row.title,
+      message: row.message,
+      metadata: JSON.parse(row.metadata || '{}'),
+      createdAt: row.created_at,
+      readBy: JSON.parse(row.read_by || '[]')
+    });
+  }
+  stmt.free();
+  return results;
+}
+
+function markNotificationRead(notificationId, profileId) {
+  const stmt = db.prepare('SELECT read_by FROM system_notifications WHERE id = ?');
+  stmt.bind([notificationId]);
+  if (stmt.step()) {
+    const row = stmt.getAsObject();
+    const readBy = JSON.parse(row.read_by || '[]');
+    if (!readBy.includes(profileId)) {
+      readBy.push(profileId);
+      db.run('UPDATE system_notifications SET read_by = ? WHERE id = ?', [JSON.stringify(readBy), notificationId]);
+      saveDatabase();
+    }
+  }
+  stmt.free();
+}
+
+function markAllNotificationsRead(profileId) {
+  const notifications = getAllNotifications(1000);
+  notifications.forEach(n => {
+    if (!n.readBy.includes(profileId)) {
+      n.readBy.push(profileId);
+      db.run('UPDATE system_notifications SET read_by = ? WHERE id = ?', [JSON.stringify(n.readBy), n.id]);
+    }
+  });
+  saveDatabase();
+}
+
+function deleteNotificationById(notificationId) {
+  db.run('DELETE FROM system_notifications WHERE id = ?', [notificationId]);
+  saveDatabase();
+}
+
+function getAdminProfileIds() {
+  const stmt = db.prepare("SELECT id FROM profiles WHERE role = 'admin'");
+  const results = [];
+  while (stmt.step()) {
+    results.push(stmt.getAsObject().id);
+  }
+  stmt.free();
+  return results;
 }
 
 // ============================================
@@ -2466,6 +2561,138 @@ io.on('connection', (socket) => {
     } catch (err) {
       console.error('[Socket.io] Error deleting task:', err);
       socket.emit('task:error', { code: 'DELETE_FAILED', message: err.message });
+    }
+  });
+
+  // ----------------------------------------
+  // System Notification Events (Admin Inbox)
+  // ----------------------------------------
+
+  // Subscribe to notifications (admins join notification room)
+  socket.on('notification:subscribe', ({ profileId }) => {
+    const profile = getProfile(profileId);
+    if (!profile || profile.role !== 'admin') {
+      socket.emit('notification:error', { code: 'FORBIDDEN', message: 'Admin access required' });
+      return;
+    }
+
+    socket.join('admin-notifications');
+    console.log(`[Socket.io] Admin ${profileId} subscribed to notifications`);
+
+    // Send current notifications
+    try {
+      const notifications = getAllNotifications();
+      socket.emit('notification:list', { notifications });
+    } catch (err) {
+      console.error('[Socket.io] Error fetching notifications:', err);
+      socket.emit('notification:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Create notification (from feedback submission)
+  socket.on('notification:create', ({ notification }) => {
+    if (!notification || !notification.type || !notification.title) {
+      socket.emit('notification:error', { code: 'INVALID', message: 'Invalid notification data' });
+      return;
+    }
+
+    try {
+      // Generate ID if needed
+      if (!notification.id) {
+        notification.id = `notif-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+      }
+      if (!notification.createdAt) {
+        notification.createdAt = Date.now();
+      }
+      if (!notification.readBy) {
+        notification.readBy = [];
+      }
+
+      insertNotification(notification);
+      socket.emit('notification:created', { notification, success: true });
+
+      // Broadcast to all admins
+      io.to('admin-notifications').emit('notification:new', { notification });
+      console.log(`[Socket.io] Notification created: ${notification.type} - ${notification.title}`);
+
+      // Send push notification to offline admins
+      const adminIds = getAdminProfileIds();
+      const offlineAdmins = adminIds.filter(id => {
+        return !profileSockets.has(id) || profileSockets.get(id).size === 0;
+      });
+
+      if (offlineAdmins.length > 0) {
+        sendPushToMultiple(offlineAdmins, {
+          title: notification.type === 'feedback_feature' ? 'New Feature Suggestion' : 'New Bug Report',
+          body: notification.title,
+          tag: `feedback-${notification.id}`,
+          data: { type: 'feedback', url: '/rstu-connect/' }
+        }).catch(err => console.error('[Push] Feedback notification error:', err));
+      }
+    } catch (err) {
+      console.error('[Socket.io] Error creating notification:', err);
+      socket.emit('notification:error', { code: 'CREATE_FAILED', message: err.message });
+    }
+  });
+
+  // Get all notifications (for admin)
+  socket.on('notification:get_all', ({ profileId }) => {
+    const profile = getProfile(profileId);
+    if (!profile || profile.role !== 'admin') {
+      socket.emit('notification:error', { code: 'FORBIDDEN', message: 'Admin access required' });
+      return;
+    }
+
+    try {
+      const notifications = getAllNotifications();
+      socket.emit('notification:list', { notifications });
+    } catch (err) {
+      console.error('[Socket.io] Error fetching notifications:', err);
+      socket.emit('notification:error', { code: 'FETCH_FAILED', message: err.message });
+    }
+  });
+
+  // Mark notification as read
+  socket.on('notification:mark_read', ({ notificationId, profileId }) => {
+    if (!notificationId || !profileId) return;
+
+    try {
+      markNotificationRead(notificationId, profileId);
+      socket.emit('notification:marked_read', { notificationId, success: true });
+    } catch (err) {
+      console.error('[Socket.io] Error marking notification as read:', err);
+    }
+  });
+
+  // Mark all notifications as read
+  socket.on('notification:mark_all_read', ({ profileId }) => {
+    if (!profileId) return;
+
+    try {
+      markAllNotificationsRead(profileId);
+      socket.emit('notification:all_marked_read', { success: true });
+    } catch (err) {
+      console.error('[Socket.io] Error marking all notifications as read:', err);
+    }
+  });
+
+  // Delete notification
+  socket.on('notification:delete', ({ notificationId, profileId }) => {
+    const profile = getProfile(profileId);
+    if (!profile || profile.role !== 'admin') {
+      socket.emit('notification:error', { code: 'FORBIDDEN', message: 'Admin access required' });
+      return;
+    }
+
+    try {
+      deleteNotificationById(notificationId);
+      socket.emit('notification:deleted', { notificationId, success: true });
+      // Broadcast to all admins
+      io.to('admin-notifications').emit('notification:removed', { notificationId });
+      console.log(`[Socket.io] Notification deleted: ${notificationId}`);
+    } catch (err) {
+      console.error('[Socket.io] Error deleting notification:', err);
+      socket.emit('notification:error', { code: 'DELETE_FAILED', message: err.message });
     }
   });
 
