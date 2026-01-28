@@ -12,41 +12,32 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative w-full py-12 sm:py-16 md:py-20 lg:py-28 px-4 bg-white">
-      <div className="max-w-4xl mx-auto text-center">
-        {/* Logo */}
-        <div className="mb-8 flex justify-center">
-          <img
-            src="/rstu-connect/rstu-logo-full.png"
-            alt="RSTU - Reno-Sparks Tenants Union"
-            className="h-24 sm:h-32 lg:h-40 w-auto"
-          />
-        </div>
-
-        {/* Main Statement - Evidence-based */}
+    <section className="relative min-h-[calc(100vh-64px)] flex items-center justify-center px-4 py-8 sm:py-12 bg-white">
+      <div className="max-w-3xl mx-auto text-center">
+        {/* Main Headline - The Hero */}
         <EditableText
           tKey="landing.hero.headline"
-          as="h2"
-          className="text-4xl sm:text-5xl lg:text-5xl font-bold text-gray-900 mb-6 leading-tight"
+          as="h1"
+          className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-4 sm:mb-6 leading-[1.1]"
         />
 
-        {/* Subheading with key message */}
+        {/* Tagline */}
         <EditableText
           tKey="landing.hero.tagline"
           as="p"
-          className="text-xl sm:text-2xl text-rstu-red font-semibold mb-6"
+          className="text-lg sm:text-xl lg:text-2xl text-rstu-red font-semibold mb-4 sm:mb-6"
         />
 
-        {/* Supporting text */}
+        {/* Mission Statement */}
         <EditableText
           tKey="landing.hero.mission"
           as="p"
-          className="text-base sm:text-lg text-gray-700 max-w-2xl mx-auto mb-10 leading-relaxed"
+          className="text-base sm:text-lg text-gray-600 max-w-xl mx-auto mb-6 sm:mb-8 leading-relaxed"
           multiline
         />
 
         {/* Call to Action Buttons */}
-        <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+        <div className="flex flex-col sm:flex-row gap-3 justify-center">
           <button
             onClick={onEnter}
             className="px-8 py-3 bg-rstu-red text-white font-semibold rounded-lg hover:bg-red-700 transition-colors text-center"
@@ -60,22 +51,9 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
             {t('landing.hero.learnMore')}
           </button>
         </div>
-
-        {/* Scroll indicator */}
-        <div className="flex justify-center animate-pulse">
-          <button
-            onClick={onScrollClick}
-            className="text-gray-400 hover:text-gray-600 transition-colors"
-            aria-label="Scroll to next section"
-          >
-            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
-            </svg>
-          </button>
-        </div>
       </div>
 
-      {/* Decorative element */}
+      {/* Decorative bottom line */}
       <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
     </section>
   )
