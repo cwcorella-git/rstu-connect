@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useMemo, useCallback, useDeferredValue } from 'react'
+import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import {
@@ -9,15 +9,12 @@ import {
   getUserCollectives,
   type ExternalOrganization,
   type InternalOrganization,
-  type ExternalResourceCategory,
-  EXTERNAL_CATEGORY_LABELS,
+  getInternalOrganization,
 } from '@/lib/organizationStorage'
-import { ExternalOrgCard } from './ExternalOrgCard'
 import { InternalOrgCard } from './InternalOrgCard'
 import { InternalOrgDetailView } from './InternalOrgDetailView'
 import { FormCollectiveModal } from './FormCollectiveModal'
-import { ResourceCategoryGroup } from './ResourceCategoryGroup'
-import { getInternalOrganization } from '@/lib/organizationStorage'
+import { ResourceDirectory } from './ResourceDirectory'
 
 // Load seed data on first use
 import externalResourcesData from '@/data/external-resources.json'
@@ -33,13 +30,6 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
   const { t } = useLanguage()
   const [activeView, setActiveView] = useState<NetworkView>('resources')
   const [collectiveFilter, setCollectiveFilter] = useState<CollectiveFilter>('all')
-
-  // Search state
-  const [searchInput, setSearchInput] = useState('')
-  const searchQuery = useDeferredValue(searchInput)
-
-  // Category expansion state
-  const [expandedCategories, setExpandedCategories] = useState<Set<string>>(new Set())
 
   const [externalOrgs, setExternalOrgs] = useState<ExternalOrganization[]>([])
   const [collectives, setCollectives] = useState<InternalOrganization[]>([])
@@ -69,61 +59,6 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
       setCollectives(getPublicCollectives())
     }
   }, [collectiveFilter, profile])
-
-  // Toggle category expansion
-  const toggleCategory = useCallback((category: string) => {
-    setExpandedCategories(prev => {
-      const next = new Set(prev)
-      if (next.has(category)) {
-        next.delete(category)
-      } else {
-        next.add(category)
-      }
-      return next
-    })
-  }, [])
-
-  // Filter external orgs by search query
-  const filteredExternalOrgs = useMemo(() => {
-    const query = searchQuery.toLowerCase().trim()
-    if (!query) return externalOrgs
-
-    return externalOrgs.filter(org =>
-      org.name.toLowerCase().includes(query) ||
-      org.description.toLowerCase().includes(query) ||
-      (org.serviceArea && org.serviceArea.toLowerCase().includes(query)) ||
-      (org.eligibility && org.eligibility.toLowerCase().includes(query)) ||
-      (EXTERNAL_CATEGORY_LABELS[org.category as ExternalResourceCategory] || org.category).toLowerCase().includes(query)
-    )
-  }, [externalOrgs, searchQuery])
-
-  // Group organizations by category
-  const groupedOrgs = useMemo(() => {
-    const groups = new Map<ExternalResourceCategory, ExternalOrganization[]>()
-
-    // Initialize all categories in order
-    const categoryOrder = Object.keys(EXTERNAL_CATEGORY_LABELS) as ExternalResourceCategory[]
-    categoryOrder.forEach(cat => groups.set(cat, []))
-
-    // Populate groups
-    filteredExternalOrgs.forEach(org => {
-      const list = groups.get(org.category as ExternalResourceCategory)
-      if (list) {
-        list.push(org)
-      }
-    })
-
-    // Return only non-empty groups
-    return categoryOrder
-      .filter(cat => (groups.get(cat)?.length || 0) > 0)
-      .map(cat => ({
-        category: cat,
-        label: EXTERNAL_CATEGORY_LABELS[cat],
-        organizations: groups.get(cat) || []
-      }))
-  }, [filteredExternalOrgs])
-
-  const isSearching = searchInput.trim().length > 0
 
   const handleCollectiveClick = (org: InternalOrganization) => {
     setSelectedCollective(org)
@@ -196,76 +131,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
       <div className="flex-1 overflow-y-auto">
         {/* Resources View */}
         {activeView === 'resources' && (
-          <div className="h-full flex flex-col bg-white">
-            {/* Header with search */}
-            <div className="p-4 border-b border-gray-200 space-y-3 flex-shrink-0">
-              <div className="flex items-center justify-between">
-                <h2 className="text-lg font-bold text-gray-900">{t('network.resourceLibrary')}</h2>
-                <span className="text-xs text-gray-500">
-                  {isSearching ? (
-                    t('network.resultsFor', { count: filteredExternalOrgs.length, query: searchQuery })
-                  ) : (
-                    <>
-                      {filteredExternalOrgs.length} {filteredExternalOrgs.length !== 1 ? t('network.organizations') : t('network.organization')}
-                    </>
-                  )}
-                </span>
-              </div>
-
-              {/* Search Input */}
-              <input
-                type="text"
-                placeholder={t('network.searchResources')}
-                value={searchInput}
-                onChange={(e) => setSearchInput(e.target.value)}
-                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
-              />
-            </div>
-
-            {/* Category Groups or Search Results */}
-            <div className="flex-1 overflow-y-auto">
-              {filteredExternalOrgs.length === 0 ? (
-                <div className="p-8 text-center text-gray-500">
-                  <p>{t('network.noResourcesFound')}</p>
-                </div>
-              ) : isSearching ? (
-                // Flat list when searching
-                <div className="p-4 space-y-3">
-                  {filteredExternalOrgs.map(org => (
-                    <ExternalOrgCard key={org.id} organization={org} />
-                  ))}
-                </div>
-              ) : (
-                // Grouped by category when not searching
-                <div>
-                  {groupedOrgs.map(({ category, label, organizations }) => (
-                    <ResourceCategoryGroup
-                      key={category}
-                      category={category}
-                      categoryLabel={label}
-                      organizations={organizations}
-                      isExpanded={expandedCategories.has(category)}
-                      onToggle={() => toggleCategory(category)}
-                    />
-                  ))}
-                </div>
-              )}
-
-              {/* Footer info */}
-              {!isSearching && filteredExternalOrgs.length > 0 && (
-                <div className="p-4 border-t border-gray-200">
-                  <p className="text-xs text-gray-500 text-center">
-                    {t('network.resourcesCurated')}{' '}
-                    {profile?.role === 'admin' && (
-                      <button className="text-blue-600 hover:underline">
-                        {t('network.manageResources')}
-                      </button>
-                    )}
-                  </p>
-                </div>
-              )}
-            </div>
-          </div>
+          <ResourceDirectory organizations={externalOrgs} />
         )}
 
         {/* Collectives View */}
