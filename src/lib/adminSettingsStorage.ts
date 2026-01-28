@@ -65,10 +65,10 @@ export const DEFAULT_ADMIN_SETTINGS: AdminSettings = {
     reading: true,
   },
   features: {
-    appGovernance: false,   // Off until implemented
-    userFeedback: false,    // Off until implemented
-    contentVoting: false,   // Off until implemented
-    delegateVoting: false,  // Off until implemented
+    appGovernance: true,    // App-wide governance voting enabled
+    userFeedback: true,     // User feedback system enabled
+    contentVoting: false,   // Content block voting (not yet implemented)
+    delegateVoting: true,   // Delegate-weighted voting enabled
   },
   landingAsHome: true,      // Landing page is the home
   governanceThresholds: {

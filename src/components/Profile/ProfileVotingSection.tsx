@@ -2,9 +2,10 @@
 
 import { useState } from 'react'
 import { ElectionsDashboard, ElectionAdmin } from '@/components/Elections'
-import { DelegateStatusCard } from './DelegateStatusCard'
+import { DelegateOnboarding } from './DelegateOnboarding'
 import { AppGovernancePanel } from './AppGovernancePanel'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { useTab } from '@/contexts/TabContext'
 
 type VotingTab = 'elections' | 'delegate' | 'governance'
 
@@ -16,8 +17,14 @@ interface ProfileVotingSectionProps {
 
 export function ProfileVotingSection({ profileId, profileName, isAdmin = false }: ProfileVotingSectionProps) {
   const { t } = useLanguage()
+  const { setActiveTab: setMainTab } = useTab()
   const [activeTab, setActiveTab] = useState<VotingTab>('elections')
   const [showAdmin, setShowAdmin] = useState(false)
+
+  // Navigation callbacks for DelegateOnboarding
+  const handleNavigateToTools = () => setMainTab('tools')
+  const handleNavigateToBlocs = () => setMainTab('mutualAid')
+  const handleNavigateToBuilding = () => setMainTab('home')
 
   return (
     <div className="bg-white rounded-lg border border-gray-200 overflow-hidden">
@@ -111,7 +118,11 @@ export function ProfileVotingSection({ profileId, profileName, isAdmin = false }
             <ElectionsDashboard profileId={profileId} profileName={profileName} />
           )
         ) : activeTab === 'delegate' ? (
-          <DelegateStatusCard profileId={profileId} />
+          <DelegateOnboarding
+            onNavigateToTools={handleNavigateToTools}
+            onNavigateToBlocs={handleNavigateToBlocs}
+            onNavigateToBuilding={handleNavigateToBuilding}
+          />
         ) : (
           <AppGovernancePanel profileId={profileId} />
         )}
