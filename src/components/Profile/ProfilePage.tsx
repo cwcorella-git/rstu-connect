@@ -38,6 +38,7 @@ import { ConfirmModal } from '@/components/ui/ConfirmModal'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { RentComparison } from './RentComparison'
 import { CirclesTab } from '@/components/MutualAid/CirclesTab'
+import { TutorialElection, hasTutorialCompleted } from '@/components/Elections'
 
 interface ProfilePageProps {
   buildings: EnhancedBuilding[]
@@ -54,6 +55,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [showGroups, setShowGroups] = useState(false)
   const [showSettings, setShowSettings] = useState(false)
   const [showWizard, setShowWizard] = useState(false)
+  const [showRCVTutorial, setShowRCVTutorial] = useState(false)
 
   // ProfileEditor ref for calling save from modal footer
   const profileEditorRef = useRef<ProfileEditorHandle>(null)
@@ -84,6 +86,12 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
       syncProfileToSupabase(p).catch(err => {
         log.error('Failed to sync profile to Supabase:', err)
       })
+    }
+
+    // Show RCV tutorial if user is logged in but hasn't completed it yet
+    if (p && !hasTutorialCompleted()) {
+      // Small delay to let the page render first
+      setTimeout(() => setShowRCVTutorial(true), 500)
     }
   }, [])
 
@@ -664,6 +672,14 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
         onConfirm={confirmLogoutAction}
         onCancel={() => setConfirmLogout(false)}
       />
+
+      {/* RCV Tutorial for first-time users */}
+      {showRCVTutorial && (
+        <TutorialElection
+          onComplete={() => setShowRCVTutorial(false)}
+          onSkip={() => setShowRCVTutorial(false)}
+        />
+      )}
     </div>
   )
 }
