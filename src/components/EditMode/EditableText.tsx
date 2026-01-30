@@ -4,7 +4,8 @@ import { useState, useRef, useCallback, MouseEvent, TouchEvent, createElement, R
 import { useEditMode } from '@/contexts/EditModeContext'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { InlineEditor } from './InlineEditor'
-import { getElementStyle, type ElementStyleOverride } from '@/lib/elementStyleStorage'
+import { getElementStyle, setElementStyle, type ElementStyleOverride } from '@/lib/elementStyleStorage'
+import { updateTranslation } from '@/lib/githubService'
 
 type ElementType = 'span' | 'p' | 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'div' | 'li'
 
@@ -25,7 +26,7 @@ interface EditableTextProps {
  *   <EditableText tKey="landing.hero.title" as="h1" className="text-4xl font-bold" />
  *
  * In normal mode: Renders the translated text as the specified element
- * In edit mode: Shows hover highlight, Ctrl+click or long-press (500ms) opens inline editor
+ * In edit mode: Ctrl+click or long-press makes the element contentEditable with a style toolbar below
  */
 export function EditableText({
   tKey,
@@ -35,28 +36,44 @@ export function EditableText({
   children,
 }: EditableTextProps) {
   const { t } = useLanguage()
-  const { isEditMode, editingKey, setEditingKey } = useEditMode()
+  const { isEditMode, editingKey, setEditingKey, setSaveStatus, setError, currentLanguage } = useEditMode()
   const [showEditor, setShowEditor] = useState(false)
   const [editorPosition, setEditorPosition] = useState({ top: 0, left: 0 })
   const [liveStyle, setLiveStyle] = useState<ElementStyleOverride>(() => getElementStyle(tKey) || {})
+  const [isSaving, setIsSaving] = useState(false)
+  const [saveError, setSaveError] = useState<string | null>(null)
+  const [textChanged, setTextChanged] = useState(false)
   const elementRef = useRef<HTMLElement>(null)
   const longPressTimerRef = useRef<NodeJS.Timeout | null>(null)
   const touchStartPosRef = useRef<{ x: number; y: number } | null>(null)
+  const originalTextRef = useRef<string>('')
 
   const translatedText = t(tKey)
   const isBeingEdited = editingKey === tKey
 
   // Open the editor at element position
   const openEditor = useCallback(() => {
-    const rect = elementRef.current?.getBoundingClientRect()
-    if (rect) {
-      setEditorPosition({
-        top: rect.bottom + window.scrollY + 4,
-        left: rect.left + window.scrollX,
-      })
-    }
+    const el = elementRef.current
+    if (!el) return
+
+    const rect = el.getBoundingClientRect()
+    setEditorPosition({
+      top: rect.bottom + window.scrollY + 4,
+      left: rect.left + window.scrollX,
+    })
+
+    // Store original text for cancel
+    originalTextRef.current = el.innerText
+
     setEditingKey(tKey)
     setShowEditor(true)
+    setTextChanged(false)
+    setSaveError(null)
+
+    // Focus the element for editing
+    requestAnimationFrame(() => {
+      el.focus()
+    })
   }, [tKey, setEditingKey])
 
   // Clear long press timer
@@ -69,9 +86,11 @@ export function EditableText({
   }, [])
 
   const handleClick = (e: MouseEvent) => {
-    // Only respond to Ctrl+click in edit mode
-    if (!isEditMode || !e.ctrlKey) return
+    if (!isEditMode) return
+    // If already editing this element, let normal cursor positioning work
+    if (isBeingEdited) return
 
+    if (!e.ctrlKey) return
     e.preventDefault()
     e.stopPropagation()
     openEditor()
@@ -80,27 +99,24 @@ export function EditableText({
   // Touch handlers for long-press support
   const handleTouchStart = useCallback((e: TouchEvent) => {
     if (!isEditMode) return
+    if (isBeingEdited) return
 
     const touch = e.touches[0]
     touchStartPosRef.current = { x: touch.clientX, y: touch.clientY }
 
     longPressTimerRef.current = setTimeout(() => {
-      // Vibrate if available (haptic feedback)
       if ('vibrate' in navigator) {
         navigator.vibrate(50)
       }
       openEditor()
     }, LONG_PRESS_DURATION)
-  }, [isEditMode, openEditor])
+  }, [isEditMode, isBeingEdited, openEditor])
 
   const handleTouchMove = useCallback((e: TouchEvent) => {
     if (!touchStartPosRef.current) return
-
-    // Cancel if user moves finger more than 10px (scrolling)
     const touch = e.touches[0]
     const dx = Math.abs(touch.clientX - touchStartPosRef.current.x)
     const dy = Math.abs(touch.clientY - touchStartPosRef.current.y)
-
     if (dx > 10 || dy > 10) {
       clearLongPress()
     }
@@ -110,12 +126,86 @@ export function EditableText({
     clearLongPress()
   }, [clearLongPress])
 
-  const handleCloseEditor = () => {
+  const handleInput = useCallback(() => {
+    const el = elementRef.current
+    if (!el) return
+    const current = el.innerText
+    setTextChanged(current !== originalTextRef.current)
+  }, [])
+
+  const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
+    if (!isBeingEdited) return
+    if (e.key === 'Escape') {
+      e.preventDefault()
+      handleCancel()
+    } else if (e.key === 'Enter' && e.ctrlKey) {
+      e.preventDefault()
+      handleSave()
+    } else if (e.key === 'Enter' && !multiline) {
+      e.preventDefault()
+      handleSave()
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isBeingEdited, multiline])
+
+  const handleCancel = useCallback(() => {
+    // Restore original text
+    const el = elementRef.current
+    if (el) {
+      el.innerText = originalTextRef.current
+    }
     setShowEditor(false)
     setEditingKey(null)
-    // Refresh from storage in case styles were saved
+    setTextChanged(false)
+    setSaveError(null)
+    // Revert styles from storage
     setLiveStyle(getElementStyle(tKey) || {})
-  }
+  }, [tKey, setEditingKey])
+
+  const handleSave = useCallback(async () => {
+    const el = elementRef.current
+    if (!el) return
+
+    // Save style overrides
+    setElementStyle(tKey, { fontSize: liveStyle.fontSize, maxWidth: liveStyle.maxWidth })
+
+    const newText = el.innerText
+    if (newText === originalTextRef.current) {
+      // Style-only save
+      setLiveStyle(getElementStyle(tKey) || {})
+      setShowEditor(false)
+      setEditingKey(null)
+      return
+    }
+
+    // Save text via GitHub API
+    setIsSaving(true)
+    setSaveError(null)
+    setSaveStatus('saving')
+
+    try {
+      const result = await updateTranslation(currentLanguage, tKey, newText)
+
+      if (result.success) {
+        setSaveStatus('success')
+        originalTextRef.current = newText
+        setShowEditor(false)
+        setEditingKey(null)
+        setTextChanged(false)
+      } else {
+        setSaveError(result.error || 'Failed to save')
+        setSaveStatus('error')
+        setError(result.error || 'Failed to save')
+      }
+    } catch (err) {
+      const errorMsg = err instanceof Error ? err.message : 'Unknown error'
+      setSaveError(errorMsg)
+      setSaveStatus('error')
+      setError(errorMsg)
+    } finally {
+      setIsSaving(false)
+    }
+  }, [tKey, liveStyle, currentLanguage, setEditingKey, setSaveStatus, setError])
 
   const handleStyleChange = useCallback((style: ElementStyleOverride) => {
     setLiveStyle(style)
@@ -123,9 +213,9 @@ export function EditableText({
 
   // Build className for edit mode
   const editModeClasses = isEditMode
-    ? `cursor-pointer transition-all duration-150 hover:bg-blue-100 hover:outline hover:outline-2 hover:outline-blue-400 hover:outline-offset-2 ${
-        isBeingEdited ? 'bg-blue-100 outline outline-2 outline-blue-500 outline-offset-2' : ''
-      }`
+    ? isBeingEdited
+      ? 'outline outline-2 outline-dashed outline-blue-500 outline-offset-2 cursor-text'
+      : 'cursor-pointer transition-all duration-150 hover:bg-blue-100 hover:outline hover:outline-2 hover:outline-blue-400 hover:outline-offset-2'
     : ''
 
   const combinedClassName = `${className} ${editModeClasses}`.trim()
@@ -146,12 +236,16 @@ export function EditableText({
       ref: elementRef,
       className: combinedClassName,
       style: Object.keys(inlineStyle).length > 0 ? inlineStyle : undefined,
+      contentEditable: isBeingEdited ? 'plaintext-only' : undefined,
+      suppressContentEditableWarning: isBeingEdited ? true : undefined,
+      onInput: isBeingEdited ? handleInput : undefined,
+      onKeyDown: isBeingEdited ? handleKeyDown : undefined,
       onClick: handleClick,
       onTouchStart: handleTouchStart,
       onTouchMove: handleTouchMove,
       onTouchEnd: handleTouchEnd,
       onTouchCancel: handleTouchEnd,
-      title: isEditMode ? `Ctrl+Click or long-press to edit: ${tKey}` : undefined,
+      title: isEditMode && !isBeingEdited ? `Ctrl+Click or long-press to edit: ${tKey}` : undefined,
     },
     children || translatedText
   )
@@ -169,9 +263,12 @@ export function EditableText({
         >
           <InlineEditor
             tKey={tKey}
-            initialValue={translatedText}
-            onClose={handleCloseEditor}
-            multiline={multiline}
+            onSave={handleSave}
+            onClose={handleCancel}
+            isSaving={isSaving}
+            hasChanges={textChanged}
+            error={saveError}
+            copyValue={elementRef.current?.innerText}
             currentStyle={liveStyle}
             onStyleChange={handleStyleChange}
           />
