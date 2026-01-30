@@ -45,7 +45,6 @@ export function EditableText({
   const longPressTimerRef = useRef<NodeJS.Timeout | null>(null)
   const touchStartPosRef = useRef<{ x: number; y: number } | null>(null)
   const originalTextRef = useRef<string>('')
-  const originalStyleRef = useRef<ElementStyleOverride>({})
   const dragStartRef = useRef<{ x: number; y: number; fontSize: number; maxWidth: number; mode: 'font' | 'width' } | null>(null)
 
   const translatedText = t(tKey)
@@ -113,7 +112,6 @@ export function EditableText({
     if (!el) return
 
     originalTextRef.current = el.innerText
-    originalStyleRef.current = { ...liveStyle }
 
     setEditingKey(tKey)
 
@@ -150,22 +148,6 @@ export function EditableText({
     setEditingKey(null)
     setLiveStyle(getElementStyle(tKey) || {})
   }, [tKey, liveStyle, currentLanguage, setEditingKey, setSaveStatus, setError])
-
-  const handleEscape = useCallback(() => {
-    // Revert text and styles
-    const el = elementRef.current
-    if (el) {
-      el.innerText = originalTextRef.current
-    }
-    setLiveStyle(originalStyleRef.current)
-    // Also revert in storage
-    if (originalStyleRef.current.fontSize || originalStyleRef.current.maxWidth) {
-      setElementStyle(tKey, originalStyleRef.current)
-    } else {
-      clearElementStyle(tKey)
-    }
-    setEditingKey(null)
-  }, [tKey, setEditingKey])
 
   const handleResetStyles = useCallback(() => {
     clearElementStyle(tKey)
@@ -237,12 +219,9 @@ export function EditableText({
     if (e.key === 'Escape') {
       e.preventDefault()
       e.stopPropagation()
-      handleEscape()
-    } else if (e.key === 'Enter' && (e.ctrlKey || !multiline)) {
-      e.preventDefault()
       handleClose()
     }
-  }, [isBeingEdited, multiline, handleEscape, handleClose])
+  }, [isBeingEdited, handleClose])
 
   // Build className
   const editModeClasses = isEditMode
