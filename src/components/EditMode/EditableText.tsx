@@ -222,7 +222,10 @@ export function EditableText({
 
   // Build inline style from overrides
   const inlineStyle: CSSProperties = {}
-  if (liveStyle?.fontSize) inlineStyle.fontSize = `${liveStyle.fontSize}px`
+  if (liveStyle?.fontSize) {
+    inlineStyle.fontSize = `${liveStyle.fontSize}px`
+    inlineStyle.lineHeight = '1.3'
+  }
   if (liveStyle?.maxWidth) {
     inlineStyle.maxWidth = `${liveStyle.maxWidth}px`
     inlineStyle.marginLeft = 'auto'
