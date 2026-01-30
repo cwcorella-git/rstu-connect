@@ -46,7 +46,7 @@ export function EditableText({
   const touchStartPosRef = useRef<{ x: number; y: number } | null>(null)
   const originalTextRef = useRef<string>('')
   const originalStyleRef = useRef<ElementStyleOverride>({})
-  const dragStartRef = useRef<{ x: number; y: number; fontSize: number; maxWidth: number } | null>(null)
+  const dragStartRef = useRef<{ x: number; y: number; fontSize: number; maxWidth: number; mode: 'font' | 'width' } | null>(null)
 
   const translatedText = t(tKey)
   const isBeingEdited = editingKey === tKey
@@ -79,15 +79,20 @@ export function EditableText({
 
     const handleMouseMove = (e: globalThis.MouseEvent) => {
       if (!dragStartRef.current) return
-      const dx = e.clientX - dragStartRef.current.x
-      const dy = e.clientY - dragStartRef.current.y
-      const delta = (dx + dy) / 2
-      const scale = 1 + delta / 200
+      const { mode } = dragStartRef.current
 
-      const newFontSize = clamp(Math.round(dragStartRef.current.fontSize * scale), 8, 120)
-      const newMaxWidth = clamp(Math.round(dragStartRef.current.maxWidth * scale), 100, 2000)
-
-      setLiveStyle({ fontSize: newFontSize, maxWidth: newMaxWidth })
+      if (mode === 'width') {
+        // Side edges: horizontal movement controls max-width
+        const dx = e.clientX - dragStartRef.current.x
+        const newMaxWidth = clamp(Math.round(dragStartRef.current.maxWidth + dx * 2), 100, 2000)
+        setLiveStyle(prev => ({ ...prev, maxWidth: newMaxWidth }))
+      } else {
+        // Corner: vertical movement controls font size
+        const dy = e.clientY - dragStartRef.current.y
+        const scale = 1 + dy / 150
+        const newFontSize = clamp(Math.round(dragStartRef.current.fontSize * scale), 8, 120)
+        setLiveStyle(prev => ({ ...prev, fontSize: newFontSize }))
+      }
     }
 
     const handleMouseUp = () => {
@@ -167,7 +172,7 @@ export function EditableText({
     setLiveStyle({})
   }, [tKey])
 
-  const handleDragStart = useCallback((e: React.MouseEvent) => {
+  const startDrag = useCallback((e: React.MouseEvent, mode: 'font' | 'width') => {
     e.preventDefault()
     e.stopPropagation()
     const el = elementRef.current
@@ -182,6 +187,7 @@ export function EditableText({
       y: e.clientY,
       fontSize: currentFontSize,
       maxWidth: currentMaxWidth,
+      mode,
     }
     setIsDragging(true)
   }, [liveStyle])
@@ -309,13 +315,27 @@ export function EditableText({
             </button>
           </div>
 
-          {/* Bottom-right: Drag handle */}
+          {/* Left edge: drag to adjust width */}
           <div
-            onMouseDown={handleDragStart}
-            className={`absolute -bottom-2 -right-2 w-5 h-5 flex items-center justify-center z-50 cursor-nwse-resize ${
+            onMouseDown={(e) => startDrag(e, 'width')}
+            className="absolute top-1/2 -left-3 -translate-y-1/2 w-2 h-10 rounded-full bg-blue-400/40 hover:bg-blue-500/60 cursor-ew-resize z-50 transition-colors"
+            title="Drag to adjust width"
+          />
+
+          {/* Right edge: drag to adjust width */}
+          <div
+            onMouseDown={(e) => startDrag(e, 'width')}
+            className="absolute top-1/2 -right-3 -translate-y-1/2 w-2 h-10 rounded-full bg-blue-400/40 hover:bg-blue-500/60 cursor-ew-resize z-50 transition-colors"
+            title="Drag to adjust width"
+          />
+
+          {/* Bottom-right corner: drag to adjust font size */}
+          <div
+            onMouseDown={(e) => startDrag(e, 'font')}
+            className={`absolute -bottom-2 -right-2 w-5 h-5 flex items-center justify-center z-50 cursor-ns-resize ${
               isDragging ? 'text-blue-600' : 'text-gray-400 hover:text-blue-500'
             } transition-colors`}
-            title="Drag to resize"
+            title="Drag to resize text"
           >
             <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
               <path d="M22 22H20V20H22V22ZM22 18H20V16H22V18ZM18 22H16V20H18V22ZM22 14H20V12H22V14ZM18 18H16V16H18V18ZM14 22H12V20H14V22ZM18 14H16V12H18V14ZM14 18H12V16H14V18ZM10 22H8V20H10V22Z" />
@@ -325,7 +345,9 @@ export function EditableText({
           {/* Size indicator while dragging */}
           {isDragging && (
             <div className="absolute -bottom-8 left-1/2 -translate-x-1/2 bg-gray-900 text-white text-xs px-2 py-0.5 rounded whitespace-nowrap z-50">
-              {liveStyle.fontSize || '–'}px · {liveStyle.maxWidth || '–'}w
+              {dragStartRef.current?.mode === 'font'
+                ? `${liveStyle.fontSize || '–'}px`
+                : `${liveStyle.maxWidth || '–'}px wide`}
             </div>
           )}
         </>
