@@ -1,8 +1,8 @@
 {
-  "commit": "37a34d1b",
-  "message": "Add server-synced admin notifications for feedback inbox",
+  "commit": "69d622d3",
+  "message": "Add interactive RCV tutorial for first-time profile visitors",
   "author": "cwcorella-git",
-  "date": "2026-01-27 21:12:46 -0800",
+  "date": "2026-01-28 01:37:41 -0800",
   "branch": "main",
-  "buildTime": "2026-01-28T09:36:36.709Z"
+  "buildTime": "2026-01-28T10:21:01.100Z"
 }

@@ -3,15 +3,18 @@
 import { useState, useEffect, useRef, KeyboardEvent } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
 import { updateTranslation } from '@/lib/githubService'
+import { type ElementStyleOverride, getElementStyle, setElementStyle, clearElementStyle } from '@/lib/elementStyleStorage'
 
 interface InlineEditorProps {
   tKey: string
   initialValue: string
   onClose: () => void
   multiline?: boolean
+  currentStyle?: ElementStyleOverride
+  onStyleChange?: (style: ElementStyleOverride) => void
 }
 
-export function InlineEditor({ tKey, initialValue, onClose, multiline = false }: InlineEditorProps) {
+export function InlineEditor({ tKey, initialValue, onClose, multiline = false, currentStyle, onStyleChange }: InlineEditorProps) {
   const [value, setValue] = useState(initialValue)
   const [isSaving, setIsSaving] = useState(false)
   const [localError, setLocalError] = useState<string | null>(null)
@@ -19,6 +22,10 @@ export function InlineEditor({ tKey, initialValue, onClose, multiline = false }:
   const [copied, setCopied] = useState(false)
   const inputRef = useRef<HTMLInputElement | HTMLTextAreaElement>(null)
   const { currentLanguage, setSaveStatus, setError, setEditingKey } = useEditMode()
+
+  // Style controls
+  const [fontSize, setFontSize] = useState<number>(currentStyle?.fontSize || 0)
+  const [maxWidth, setMaxWidth] = useState<number>(currentStyle?.maxWidth || 0)
 
   // Focus input on mount
   useEffect(() => {
@@ -53,7 +60,28 @@ Find this key in the ${currentLanguage} section and update the value.`
     }
   }
 
+  const handleFontSizeChange = (val: number) => {
+    setFontSize(val)
+    onStyleChange?.({ fontSize: val || undefined, maxWidth: maxWidth || undefined })
+  }
+
+  const handleMaxWidthChange = (val: number) => {
+    setMaxWidth(val)
+    onStyleChange?.({ fontSize: fontSize || undefined, maxWidth: val || undefined })
+  }
+
+  const handleResetStyles = () => {
+    setFontSize(0)
+    setMaxWidth(0)
+    clearElementStyle(tKey)
+    onStyleChange?.({})
+  }
+
   const handleSave = async () => {
+    // Save style overrides regardless of text change
+    setElementStyle(tKey, { fontSize: fontSize || undefined, maxWidth: maxWidth || undefined })
+    onStyleChange?.({ fontSize: fontSize || undefined, maxWidth: maxWidth || undefined })
+
     if (value === initialValue) {
       onClose()
       return
@@ -183,6 +211,56 @@ Find this key in the ${currentLanguage} section and update the value.`
             </button>
           </div>
         )}
+
+        {/* Style Controls */}
+        <div className="mt-3 px-1 space-y-2 border-t border-gray-100 pt-2">
+          <div>
+            <div className="flex items-center justify-between mb-1">
+              <label className="text-xs text-gray-500 font-medium">Font Size</label>
+              <span className="text-xs text-gray-700 font-mono">{fontSize ? `${fontSize}px` : 'default'}</span>
+            </div>
+            <input
+              type="range"
+              min={0}
+              max={64}
+              step={1}
+              value={fontSize}
+              onChange={e => handleFontSizeChange(Number(e.target.value))}
+              className="w-full h-1.5 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-blue-500"
+            />
+            <div className="flex justify-between text-[10px] text-gray-400">
+              <span>default</span>
+              <span>64px</span>
+            </div>
+          </div>
+          <div>
+            <div className="flex items-center justify-between mb-1">
+              <label className="text-xs text-gray-500 font-medium">Max Width (Wrapping)</label>
+              <span className="text-xs text-gray-700 font-mono">{maxWidth ? `${maxWidth}px` : 'default'}</span>
+            </div>
+            <input
+              type="range"
+              min={0}
+              max={1200}
+              step={10}
+              value={maxWidth}
+              onChange={e => handleMaxWidthChange(Number(e.target.value))}
+              className="w-full h-1.5 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-blue-500"
+            />
+            <div className="flex justify-between text-[10px] text-gray-400">
+              <span>default</span>
+              <span>1200px</span>
+            </div>
+          </div>
+          {(fontSize > 0 || maxWidth > 0) && (
+            <button
+              onClick={handleResetStyles}
+              className="text-xs text-gray-500 hover:text-red-600 underline"
+            >
+              Reset Styles
+            </button>
+          )}
+        </div>
 
         {/* Actions */}
         <div className="flex items-center justify-between mt-2 px-1">

@@ -1,9 +1,10 @@
 'use client'
 
-import { useState, useRef, useCallback, MouseEvent, TouchEvent, createElement, ReactNode } from 'react'
+import { useState, useRef, useCallback, MouseEvent, TouchEvent, createElement, ReactNode, CSSProperties } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { InlineEditor } from './InlineEditor'
+import { getElementStyle, type ElementStyleOverride } from '@/lib/elementStyleStorage'
 
 type ElementType = 'span' | 'p' | 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'div' | 'li'
 
@@ -37,6 +38,7 @@ export function EditableText({
   const { isEditMode, editingKey, setEditingKey } = useEditMode()
   const [showEditor, setShowEditor] = useState(false)
   const [editorPosition, setEditorPosition] = useState({ top: 0, left: 0 })
+  const [liveStyle, setLiveStyle] = useState<ElementStyleOverride>(() => getElementStyle(tKey) || {})
   const elementRef = useRef<HTMLElement>(null)
   const longPressTimerRef = useRef<NodeJS.Timeout | null>(null)
   const touchStartPosRef = useRef<{ x: number; y: number } | null>(null)
@@ -111,7 +113,13 @@ export function EditableText({
   const handleCloseEditor = () => {
     setShowEditor(false)
     setEditingKey(null)
+    // Refresh from storage in case styles were saved
+    setLiveStyle(getElementStyle(tKey) || {})
   }
+
+  const handleStyleChange = useCallback((style: ElementStyleOverride) => {
+    setLiveStyle(style)
+  }, [])
 
   // Build className for edit mode
   const editModeClasses = isEditMode
@@ -122,12 +130,18 @@ export function EditableText({
 
   const combinedClassName = `${className} ${editModeClasses}`.trim()
 
+  // Build inline style from overrides
+  const inlineStyle: CSSProperties = {}
+  if (liveStyle?.fontSize) inlineStyle.fontSize = `${liveStyle.fontSize}px`
+  if (liveStyle?.maxWidth) inlineStyle.maxWidth = `${liveStyle.maxWidth}px`
+
   // Create the element with proper props
   const element = createElement(
     as,
     {
       ref: elementRef,
       className: combinedClassName,
+      style: Object.keys(inlineStyle).length > 0 ? inlineStyle : undefined,
       onClick: handleClick,
       onTouchStart: handleTouchStart,
       onTouchMove: handleTouchMove,
@@ -154,6 +168,8 @@ export function EditableText({
             initialValue={translatedText}
             onClose={handleCloseEditor}
             multiline={multiline}
+            currentStyle={liveStyle}
+            onStyleChange={handleStyleChange}
           />
         </div>
       )}
