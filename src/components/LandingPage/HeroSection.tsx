@@ -12,10 +12,10 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative min-h-[calc(100vh-64px)] flex items-center justify-center px-4 py-8 sm:py-12 bg-white">
+    <section className="relative min-h-[calc(100vh-64px)] flex items-center justify-center px-4 pt-4 sm:pt-8 pb-16 bg-white">
       <div className="max-w-3xl mx-auto text-center">
         {/* RSTU Branding - Logo over Text */}
-        <div className="mb-5 sm:mb-8 flex flex-col items-center">
+        <div className="mb-3 sm:mb-5 flex flex-col items-center">
           <img
             src="/rstu-connect/rstu-logo-only.png"
             alt="RSTU"
@@ -66,6 +66,17 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
           </button>
         </div>
       </div>
+
+      {/* Scroll down arrow */}
+      <button
+        onClick={onScrollClick}
+        className="absolute bottom-6 left-1/2 -translate-x-1/2 text-gray-400 hover:text-rstu-red transition-colors animate-bounce"
+        aria-label="Scroll down"
+      >
+        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+        </svg>
+      </button>
 
       {/* Decorative bottom line */}
       <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>

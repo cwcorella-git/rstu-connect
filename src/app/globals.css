@@ -24,22 +24,3 @@ body {
     text-wrap: balance;
   }
 }
-
-/* Always show scrollbar on landing page */
-.overflow-y-scroll {
-  scrollbar-width: thin;
-  scrollbar-color: #cc0000 #f3f4f6;
-}
-
-.overflow-y-scroll::-webkit-scrollbar {
-  width: 8px;
-}
-
-.overflow-y-scroll::-webkit-scrollbar-track {
-  background: #f3f4f6;
-}
-
-.overflow-y-scroll::-webkit-scrollbar-thumb {
-  background-color: #cc0000;
-  border-radius: 4px;
-}
