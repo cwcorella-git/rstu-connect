@@ -277,7 +277,7 @@ Find this key in the ${currentLanguage} section and update the value.`
             </button>
             <button
               onClick={handleSave}
-              disabled={isSaving || value === initialValue}
+              disabled={isSaving || (value === initialValue && fontSize === (currentStyle?.fontSize || 0) && maxWidth === (currentStyle?.maxWidth || 0))}
               className="px-3 py-1 text-xs bg-blue-500 text-white rounded hover:bg-blue-600 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-1"
             >
               {isSaving ? (
