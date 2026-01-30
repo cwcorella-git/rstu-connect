@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
 import { type ElementStyleOverride, clearElementStyle } from '@/lib/elementStyleStorage'
 
@@ -21,11 +21,12 @@ export function InlineEditor({ tKey, onSave, onClose, isSaving, hasChanges, erro
   const [showCopyFallback, setShowCopyFallback] = useState(false)
   const [copied, setCopied] = useState(false)
 
-  // Style controls
-  const [fontSize, setFontSize] = useState<number>(currentStyle?.fontSize || 0)
-  const [maxWidth, setMaxWidth] = useState<number>(currentStyle?.maxWidth || 0)
+  // Style controls — compare against initial values, not live prop
+  const initialStyle = useRef({ fontSize: currentStyle?.fontSize || 0, maxWidth: currentStyle?.maxWidth || 0 })
+  const [fontSize, setFontSize] = useState<number>(initialStyle.current.fontSize)
+  const [maxWidth, setMaxWidth] = useState<number>(initialStyle.current.maxWidth)
 
-  const stylesChanged = fontSize !== (currentStyle?.fontSize || 0) || maxWidth !== (currentStyle?.maxWidth || 0)
+  const stylesChanged = fontSize !== initialStyle.current.fontSize || maxWidth !== initialStyle.current.maxWidth
 
   const handleFontSizeChange = (val: number) => {
     setFontSize(val)
