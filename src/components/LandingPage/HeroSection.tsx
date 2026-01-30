@@ -14,11 +14,25 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   return (
     <section className="relative min-h-[calc(100vh-64px)] flex items-center justify-center px-4 py-8 sm:py-12 bg-white">
       <div className="max-w-3xl mx-auto text-center">
-        {/* Main Headline - The Hero */}
+        {/* RSTU Branding - Logo over Text */}
+        <div className="mb-4 sm:mb-6 flex flex-col items-center">
+          <img
+            src="/rstu-connect/rstu-logo-only.png"
+            alt="RSTU"
+            className="h-20 sm:h-28 lg:h-36 w-auto"
+          />
+          <img
+            src="/rstu-connect/rstu-text-only.png"
+            alt="Reno-Sparks Tenants Union"
+            className="h-5 sm:h-7 lg:h-9 w-auto mt-1 sm:mt-2"
+          />
+        </div>
+
+        {/* Main Headline */}
         <EditableText
           tKey="landing.hero.headline"
           as="h1"
-          className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-4 sm:mb-6 leading-[1.1]"
+          className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-3 sm:mb-4 leading-[1.1]"
         />
 
         {/* Tagline */}
