@@ -15,16 +15,16 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
     <section className="relative min-h-[calc(100vh-64px)] flex items-center justify-center px-4 py-8 sm:py-12 bg-white">
       <div className="max-w-3xl mx-auto text-center">
         {/* RSTU Branding - Logo over Text */}
-        <div className="mb-4 sm:mb-6 flex flex-col items-center">
+        <div className="mb-5 sm:mb-8 flex flex-col items-center">
           <img
             src="/rstu-connect/rstu-logo-only.png"
             alt="RSTU"
-            className="h-20 sm:h-28 lg:h-36 w-auto"
+            className="h-36 sm:h-44 lg:h-56 w-auto"
           />
           <img
             src="/rstu-connect/rstu-text-only.png"
             alt="Reno-Sparks Tenants Union"
-            className="h-5 sm:h-7 lg:h-9 w-auto mt-1 sm:mt-2"
+            className="h-8 sm:h-10 lg:h-12 w-auto mt-2 sm:mt-3"
           />
         </div>
 
