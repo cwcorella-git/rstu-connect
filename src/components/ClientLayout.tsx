@@ -27,9 +27,14 @@ function Header() {
         <div className="flex items-center justify-between">
           <button
             onClick={() => setActiveTab('landing')}
-            className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
+            className="flex items-center gap-2 hover:opacity-80 transition-opacity"
             aria-label="Go to home"
           >
+            <img
+              src="/rstu-connect/rstu-logo-only.png"
+              alt=""
+              className="h-8 w-auto"
+            />
             <span className="text-lg font-bold text-rstu-red">
               {isLoading ? 'RSTU' : t('header.title')}
             </span>

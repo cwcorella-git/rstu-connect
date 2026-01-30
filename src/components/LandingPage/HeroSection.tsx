@@ -12,22 +12,8 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative px-4 pt-4 sm:pt-6 lg:pt-8 pb-4 bg-white">
+    <section className="relative px-4 pt-8 sm:pt-12 lg:pt-16 pb-4 bg-white">
       <div className="max-w-3xl mx-auto text-center">
-        {/* RSTU Branding - Logo over Text */}
-        <div className="mb-1 sm:mb-2 flex flex-col items-center">
-          <img
-            src="/rstu-connect/rstu-logo-only.png"
-            alt="RSTU"
-            className="h-24 sm:h-32 lg:h-40 w-auto"
-          />
-          <img
-            src="/rstu-connect/rstu-text-only.png"
-            alt="Reno-Sparks Tenants Union"
-            className="h-5 sm:h-7 lg:h-9 w-auto mt-1 sm:mt-1.5"
-          />
-        </div>
-
         {/* Main Headline */}
         <EditableText
           tKey="landing.hero.headline"
