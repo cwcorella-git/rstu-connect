@@ -12,19 +12,19 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative px-4 pt-6 sm:pt-8 lg:pt-10 pb-4 bg-white">
+    <section className="relative px-4 pt-4 sm:pt-6 lg:pt-8 pb-4 bg-white">
       <div className="max-w-3xl mx-auto text-center">
         {/* RSTU Branding - Logo over Text */}
-        <div className="mb-2 sm:mb-3 flex flex-col items-center">
+        <div className="mb-1 sm:mb-2 flex flex-col items-center">
           <img
             src="/rstu-connect/rstu-logo-only.png"
             alt="RSTU"
-            className="h-28 sm:h-36 lg:h-44 w-auto"
+            className="h-24 sm:h-32 lg:h-40 w-auto"
           />
           <img
             src="/rstu-connect/rstu-text-only.png"
             alt="Reno-Sparks Tenants Union"
-            className="h-6 sm:h-8 lg:h-10 w-auto mt-1 sm:mt-2"
+            className="h-5 sm:h-7 lg:h-9 w-auto mt-1 sm:mt-1.5"
           />
         </div>
 
@@ -46,7 +46,7 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
         <EditableText
           tKey="landing.hero.mission"
           as="p"
-          className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto mb-4 sm:mb-5 leading-relaxed"
+          className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto mb-3 sm:mb-4 leading-relaxed"
           multiline
         />
 
