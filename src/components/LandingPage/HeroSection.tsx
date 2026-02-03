@@ -12,19 +12,19 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative px-4 pt-6 sm:pt-8 lg:pt-10 pb-4 bg-white">
+    <section className="relative px-4 pt-8 sm:pt-8 lg:pt-10 pb-6 bg-white">
       <div className="max-w-3xl mx-auto text-center">
         {/* RSTU Branding - Logo over Text */}
-        <div className="mb-3 sm:mb-4 flex flex-col items-center">
+        <div className="mb-4 sm:mb-5 flex flex-col items-center">
           <img
             src="/rstu-connect/rstu-logo-only.png"
             alt="RSTU"
-            className="h-32 sm:h-36 lg:h-40 w-auto"
+            className="h-36 sm:h-36 lg:h-40 w-auto"
           />
           <img
             src="/rstu-connect/rstu-text-only.png"
             alt="Reno-Sparks Tenants Union"
-            className="h-5 sm:h-7 lg:h-9 w-auto mt-2 sm:mt-3"
+            className="h-5 sm:h-7 lg:h-9 w-auto mt-3 sm:mt-3"
           />
         </div>
 
@@ -46,12 +46,12 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
         <EditableText
           tKey="landing.hero.mission"
           as="p"
-          className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto mb-4 sm:mb-5 leading-relaxed"
+          className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto mb-5 sm:mb-6 leading-relaxed"
           multiline
         />
 
         {/* Call to Action Buttons */}
-        <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 justify-center mb-4 sm:mb-6">
+        <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 justify-center mb-6 sm:mb-8">
           <button
             onClick={onEnter}
             className="px-6 py-2.5 bg-rstu-red text-white font-semibold rounded-lg hover:bg-red-700 transition-colors text-center"
