@@ -143,6 +143,9 @@ export interface UserProfile {
   bannedAt?: number // Timestamp of ban
   bannedBy?: string // Profile ID of admin who banned user
 
+  // Elected position
+  officerTitle?: string  // Current elected position title, e.g. "President"
+
   // Cross-device sync
   syncMeta?: SyncMeta
 }

@@ -9,6 +9,7 @@ import {
   DEFAULT_POSITIONS,
   formatElectionDate,
   getElectionPhase,
+  assignElectionWinners,
 } from '@/lib/electionStorage'
 
 interface ElectionAdminProps {
@@ -73,6 +74,9 @@ export function ElectionAdmin({ profileId }: ElectionAdminProps) {
         profileId,
       })
     }
+
+    // Assign election winners to officer positions
+    assignElectionWinners(electionId)
   }
 
   if (isLoading) {

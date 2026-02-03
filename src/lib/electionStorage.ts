@@ -112,6 +112,18 @@ export interface CandidateResult {
   percentage: number
 }
 
+// Officer position registry — tracks who currently holds each elected position
+export interface OfficerPosition {
+  positionId: string          // Election position ID
+  positionTitle: string       // "President", "Vice President", etc.
+  holderId: string            // Profile ID of current holder
+  holderName: string          // Display name
+  electionId: string          // Election that granted it
+  termStart: number           // When they took office
+  termEnd: number             // termStart + termLength months
+  termNumber: number          // Which term (1, 2, etc.)
+}
+
 // Default officer positions per RSTU bylaws
 export const DEFAULT_POSITIONS: Omit<ElectionPosition, 'id'>[] = [
   {
@@ -148,6 +160,7 @@ const ELECTIONS_KEY = 'rstu-elections'
 const NOMINATIONS_KEY = 'rstu-nominations'
 const VOTES_KEY = 'rstu-votes'
 const RANKED_VOTES_KEY = 'rstu-ranked-votes'
+const OFFICER_POSITIONS_KEY = 'rstu-officer-positions'
 
 // Use generateShortId from idUtils for ID generation
 function generateId(): string {
@@ -1081,5 +1094,102 @@ export async function fetchRankedVotesFromServer(electionId: string): Promise<Ra
   } catch (e) {
     log.error('Exception fetching ranked votes:', e)
     return getRankedVotes(electionId)
+  }
+}
+
+// ============================================================================
+// Officer Position Registry
+// ============================================================================
+
+export function getOfficerPositions(): OfficerPosition[] {
+  if (typeof window === 'undefined') return []
+  const stored = localStorage.getItem(OFFICER_POSITIONS_KEY)
+  return safeJsonParse<OfficerPosition[]>(stored, [])
+}
+
+export function saveOfficerPositions(positions: OfficerPosition[]): void {
+  if (typeof window === 'undefined') return
+  localStorage.setItem(OFFICER_POSITIONS_KEY, JSON.stringify(positions))
+}
+
+export function getPositionHolder(positionTitle: string): OfficerPosition | null {
+  return getOfficerPositions().find(p => p.positionTitle === positionTitle) || null
+}
+
+export function getOfficerTitleForUser(userId: string): string | null {
+  const pos = getOfficerPositions().find(p => p.holderId === userId)
+  return pos ? pos.positionTitle : null
+}
+
+export function setOfficerPosition(position: OfficerPosition): void {
+  const positions = getOfficerPositions()
+  // Replace existing holder of same position title
+  const filtered = positions.filter(p => p.positionTitle !== position.positionTitle)
+  filtered.push(position)
+  saveOfficerPositions(filtered)
+}
+
+export function clearOfficerPosition(positionTitle: string): void {
+  const positions = getOfficerPositions()
+  saveOfficerPositions(positions.filter(p => p.positionTitle !== positionTitle))
+}
+
+/**
+ * Assign election winners to the officer positions registry.
+ * Called when an election is closed.
+ */
+export function assignElectionWinners(electionId: string): void {
+  const election = getElection(electionId)
+  if (!election) return
+
+  const nominations = getNominations(electionId)
+
+  for (const position of election.positions) {
+    const rcvResult = calculateRankedResults(electionId, position.id, nominations)
+
+    if (rcvResult.winner) {
+      // Clear previous holder's officerTitle if it was for this position
+      const previousHolder = getPositionHolder(position.title)
+
+      // Count previous terms for this position by same person
+      const existingPositions = getOfficerPositions()
+      const previousTerms = existingPositions.filter(
+        p => p.positionTitle === position.title && p.holderId === rcvResult.winner!.nomineeId
+      ).length
+
+      const now = Date.now()
+      const termEnd = now + (position.termLength * 30 * 24 * 60 * 60 * 1000) // approximate months
+
+      setOfficerPosition({
+        positionId: position.id,
+        positionTitle: position.title,
+        holderId: rcvResult.winner.nomineeId,
+        holderName: rcvResult.winner.nomineeName,
+        electionId,
+        termStart: now,
+        termEnd,
+        termNumber: previousTerms + 1,
+      })
+
+      // Update current user's profile if they won
+      const profile = getCurrentProfile()
+      if (profile && profile.id === rcvResult.winner.nomineeId) {
+        import('./profileStorage').then(({ updateProfile }) => {
+          updateProfile({ officerTitle: position.title })
+        })
+      }
+
+      // If previous holder was different, clear their title
+      if (previousHolder && previousHolder.holderId !== rcvResult.winner.nomineeId) {
+        const currentProfile = getCurrentProfile()
+        if (currentProfile && currentProfile.id === previousHolder.holderId) {
+          import('./profileStorage').then(({ updateProfile }) => {
+            updateProfile({ officerTitle: undefined })
+          })
+        }
+      }
+
+      log.info(`Assigned ${rcvResult.winner.nomineeName} as ${position.title}`)
+    }
   }
 }

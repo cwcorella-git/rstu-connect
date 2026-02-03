@@ -3,6 +3,7 @@
 import { useLanguage } from '@/contexts/LanguageContext'
 import type { UserProfile } from '@/lib/profileStorage'
 import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile, clearProfile } from '@/lib/profileStorage'
+import { getOfficerTitleForUser } from '@/lib/electionStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { CheckBadgeIcon } from '@heroicons/react/24/solid'
 import { useRouter } from 'next/navigation'
@@ -60,6 +61,15 @@ export function ProfileHeader({
             <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-white/30 text-white border border-white/50">
               {getRoleLabel(profile.role)}
             </span>
+
+            {(() => {
+              const officerTitle = profile.officerTitle || getOfficerTitleForUser(profile.id)
+              return officerTitle ? (
+                <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-amber-400/80 text-amber-950 border border-amber-300">
+                  {officerTitle}
+                </span>
+              ) : null
+            })()}
 
             {profile.trustLevel && profile.trustLevel !== 'verified' && (
               <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-white/25 text-white border border-white/40">

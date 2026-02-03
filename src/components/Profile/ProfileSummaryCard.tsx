@@ -1,6 +1,7 @@
 'use client'
 
 import { UserProfile } from '@/lib/profileStorage'
+import { getOfficerTitleForUser } from '@/lib/electionStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 
 interface ProfileSummaryCardProps {
@@ -51,6 +52,12 @@ export function ProfileSummaryCard({ profile, selectedBuilding, isCurrentUser }:
             {isCurrentUser && <span className="text-xs text-gray-500 ml-1">(You)</span>}
           </h3>
           <p className="text-xs text-gray-500">
+            {(() => {
+              const officerTitle = profile.officerTitle || getOfficerTitleForUser(profile.id)
+              return officerTitle ? (
+                <span className="text-amber-600 font-semibold mr-1">{officerTitle}</span>
+              ) : null
+            })()}
             {profile.trustLevel === 'verified' && <span className="text-green-600">✓ Verified</span>}
             {profile.trustLevel === 'invited' && <span className="text-yellow-600">Invited</span>}
             {profile.trustLevel === 'self_registered' && <span className="text-gray-500">Self-registered</span>}
