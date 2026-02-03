@@ -16,6 +16,7 @@ import { FeaturedReadingsSection } from './FeaturedReadingsSection'
 import { CustomTextSection } from './CustomTextSection'
 import { CustomCardsSection } from './CustomCardsSection'
 import { ImageBannerSection } from './ImageBannerSection'
+import { HowItWorksSection } from './HowItWorksSection'
 
 // Get localized text with fallback: current locale -> 'en' -> legacy string -> undefined
 function getLocalizedText(value: unknown, locale: string): string | undefined {
@@ -98,6 +99,13 @@ export function SectionRenderer({
     case 'image-banner':
       return (
         <ImageBannerSection
+          config={config}
+          onConfigChange={handleConfigChange}
+        />
+      )
+    case 'how-it-works':
+      return (
+        <HowItWorksSection
           config={config}
           onConfigChange={handleConfigChange}
         />

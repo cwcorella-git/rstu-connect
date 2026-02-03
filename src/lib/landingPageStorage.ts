@@ -47,6 +47,7 @@ export const SECTION_TYPES = [
   { type: 'text', label: 'Custom Text' },
   { type: 'cards', label: 'Custom Cards' },
   { type: 'image-banner', label: 'Image Banner' },
+  { type: 'how-it-works', label: 'How It Works' },
 ] as const
 
 export const DEFAULT_PAGE_1: LandingPageConfig = {
@@ -144,6 +145,47 @@ export const PRESET_PAGE_2: LandingPageConfig = {
   updated_at: '2026-01-01T00:00:00Z',
 }
 
+export const PRESET_PAGE_3: LandingPageConfig = {
+  id: 'page-3',
+  name: 'Feature Tour',
+  sections: [
+    {
+      id: 'tour-hero',
+      type: 'hero',
+      config: {
+        showLogo: true,
+        headlineOverride: 'Tools for Tenant Power',
+        taglineOverride: 'Everything you need to organize your building and win.',
+        missionOverride: 'RSTU Connect gives you the tools to find neighbors, build community, and take collective action for housing justice.',
+      },
+    },
+    {
+      id: 'tour-how',
+      type: 'how-it-works',
+      config: {
+        heading: 'How RSTU Connect Works',
+        subtitle: 'Six steps from finding your building to building tenant power',
+      },
+    },
+    {
+      id: 'tour-text',
+      type: 'text',
+      config: {
+        heading: 'Built By and For Tenants',
+        body: "RSTU Connect is a free, open-source tool built by tenant organizers in Reno-Sparks. We don't collect your personal data or sell your information. Everything stays between you and your neighbors.\n\nThis platform exists because we believe tenants deserve the same sophisticated tools that landlords use to coordinate against us. Now we can coordinate too.",
+        bgColor: 'gray',
+      },
+    },
+    {
+      id: 'tour-cta',
+      type: 'cta',
+      config: {},
+    },
+  ],
+  created_at: '2026-01-01T00:00:00Z',
+  updated_at: '2026-01-01T00:00:00Z',
+}
+
 // ============================================================================
 // Local Storage CRUD
 // ============================================================================
@@ -152,7 +194,7 @@ export function getLandingPages(): LandingPageConfig[] {
   const stored = safeGetJson<LandingPageConfig[]>(PAGES_KEY, [])
   if (stored.length === 0) {
     // Initialize with defaults
-    const defaults = [DEFAULT_PAGE_1, PRESET_PAGE_2]
+    const defaults = [DEFAULT_PAGE_1, PRESET_PAGE_2, PRESET_PAGE_3]
     safeSetItem(PAGES_KEY, JSON.stringify(defaults))
     safeSetItem(MIGRATION_KEY, String(CURRENT_VERSION))
     return defaults
@@ -186,6 +228,10 @@ export function getLandingPages(): LandingPageConfig[] {
   }
   if (!stored.find(p => p.id === 'page-2')) {
     stored.splice(1, 0, PRESET_PAGE_2)
+    changed = true
+  }
+  if (!stored.find(p => p.id === 'page-3')) {
+    stored.splice(2, 0, PRESET_PAGE_3)
     changed = true
   }
   if (changed) {

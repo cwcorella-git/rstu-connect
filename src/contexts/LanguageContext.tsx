@@ -1386,6 +1386,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'landing.cta.or': 'or',
     'landing.cta.guide': 'How to Get Started guide',
 
+    // How It Works Section
+    'landing.howItWorks.heading': 'How RSTU Connect Works',
+    'landing.howItWorks.subtitle': 'Six steps from finding your building to building tenant power',
+
     // Hero Section (Updated)
     'landing.hero.tagline': 'Your rights are real and enforceable. When tenants organize together, they win.',
 
@@ -3294,6 +3298,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'landing.cta.or': 'o',
     'landing.cta.guide': 'Guía Cómo comenzar',
 
+    // How It Works Section
+    'landing.howItWorks.heading': 'Cómo Funciona RSTU Connect',
+    'landing.howItWorks.subtitle': 'Seis pasos desde encontrar tu edificio hasta construir poder inquilino',
+
     // Hero Section (Updated)
     'landing.hero.tagline': 'Tus derechos son reales y ejecutables. Cuando los inquilinos se organizan juntos, ganan.',
 
@@ -5108,6 +5116,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'landing.cta.enter': 'Papasok sa RSTU Connect',
     'landing.cta.or': 'o',
     'landing.cta.guide': 'Paano Magsimula guide',
+
+    // How It Works Section
+    'landing.howItWorks.heading': 'Paano Gumagana ang RSTU Connect',
+    'landing.howItWorks.subtitle': 'Anim na hakbang mula sa paghanap ng iyong gusali hanggang sa pagtatayo ng tenant power',
 
     // Hero Section (Updated)
     'landing.hero.tagline': 'Ang iyong mga karapatan ay tunay at maipapatupad. Kapag nagsama-sama ang mga tenant, nanalo sila.',
@@ -7152,6 +7164,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'landing.cta.or': '或',
     'landing.cta.guide': '入门指南',
 
+    // How It Works Section
+    'landing.howItWorks.heading': 'RSTU Connect 如何运作',
+    'landing.howItWorks.subtitle': '从找到您的建筑到建立租户力量的六个步骤',
+
     // Hero Section (Updated)
     'landing.hero.tagline': '你的权利是真实的并且可以强制执行。当租户团结在一起时,他们赢了。',
 
@@ -8695,6 +8711,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'landing.cta.enter': 'Vào RSTU Connect',
     'landing.cta.or': 'hoặc',
     'landing.cta.guide': 'Hướng dẫn Bắt Đầu',
+
+    // How It Works Section
+    'landing.howItWorks.heading': 'RSTU Connect Hoạt Động Như Thế Nào',
+    'landing.howItWorks.subtitle': 'Sáu bước từ tìm tòa nhà của bạn đến xây dựng sức mạnh người thuê nhà',
 
     // Hero Section (Updated)
     'landing.hero.tagline': 'Quyền của bạn là thực tế và có thể thực thi được. Khi những người thuê nhà đoàn kết lại, họ chiến thắng.',

@@ -1,8 +1,8 @@
 {
-  "commit": "0c64a756",
-  "message": "Add migration for landing page content update",
+  "commit": "41ab6f85",
+  "message": "Landing page CTA improvements: dynamic doc count, new cards",
   "author": "cwcorella-git",
-  "date": "2026-02-03 13:29:42 -0800",
+  "date": "2026-02-03 13:49:40 -0800",
   "branch": "main",
-  "buildTime": "2026-02-03T21:48:09.354Z"
+  "buildTime": "2026-02-03T21:52:56.611Z"
 }
