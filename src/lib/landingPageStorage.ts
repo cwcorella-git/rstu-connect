@@ -25,6 +25,8 @@ export interface LandingPageConfig {
 
 const PAGES_KEY = 'rstu_landing_pages'
 const ACTIVE_KEY = 'rstu_active_landing_page'
+const MIGRATION_KEY = 'rstu_landing_page_version'
+const CURRENT_VERSION = 2 // Bump when DEFAULT_PAGE_1 changes
 
 let _uid = 0
 function uid() {
@@ -152,10 +154,32 @@ export function getLandingPages(): LandingPageConfig[] {
     // Initialize with defaults
     const defaults = [DEFAULT_PAGE_1, PRESET_PAGE_2]
     safeSetItem(PAGES_KEY, JSON.stringify(defaults))
+    safeSetItem(MIGRATION_KEY, String(CURRENT_VERSION))
     return defaults
   }
-  // Ensure preset pages exist (restore if deleted)
+
+  // Check for migration
+  const version = parseInt(safeGetJson<string>(MIGRATION_KEY, '1') || '1', 10)
   let changed = false
+
+  if (version < CURRENT_VERSION) {
+    // Migrate page-1 to include new sections (v2: added "Stronger Together" and "Values")
+    const page1Idx = stored.findIndex(p => p.id === 'page-1')
+    if (page1Idx >= 0) {
+      const page1 = stored[page1Idx]
+      // Only migrate if user hasn't customized it (still has original 2-section layout)
+      const hasOnlyHeroAndCta = page1.sections.length === 2 &&
+        page1.sections[0]?.type === 'hero' &&
+        page1.sections[1]?.type === 'cta'
+      if (hasOnlyHeroAndCta) {
+        stored[page1Idx] = DEFAULT_PAGE_1
+        changed = true
+      }
+    }
+    safeSetItem(MIGRATION_KEY, String(CURRENT_VERSION))
+  }
+
+  // Ensure preset pages exist (restore if deleted)
   if (!stored.find(p => p.id === 'page-1')) {
     stored.unshift(DEFAULT_PAGE_1)
     changed = true
