@@ -759,7 +759,8 @@ export function getActivityStatus(profile: UserProfile): 'active' | 'inactive' |
     profile.lastActive || 0
   )
 
-  if (lastActivity === 0 || lastActivity === profile.created) {
+  // Treat activity within 5 seconds of account creation as "never active"
+  if (lastActivity === 0 || Math.abs(lastActivity - profile.created) < 5000) {
     return 'never'
   }
 

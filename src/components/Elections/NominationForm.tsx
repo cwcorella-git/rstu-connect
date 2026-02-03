@@ -5,6 +5,7 @@ import { getSocket } from '@/lib/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { useOfflineMode } from '@/hooks/useOfflineMode'
 import { Election, Nomination, createNominationAsync } from '@/lib/electionStorage'
+import { getStoredProfiles } from '@/lib/profileStorage'
 
 interface NominationFormProps {
   election: Election
@@ -180,19 +181,55 @@ export function NominationForm({
             </label>
           </div>
 
-          {/* Nominee Name */}
+          {/* Nominee Selection */}
           {!isSelfNomination && (
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
                 {t('elections.nomineeName')}
               </label>
+
+              {/* Suggested nominees: delegates and admins */}
+              {(() => {
+                const suggested = getStoredProfiles().filter(
+                  p => (p.role === 'organizer' || p.role === 'admin') && p.id !== profileId && !p.banned
+                )
+                if (suggested.length === 0) return null
+                return (
+                  <div className="mb-2">
+                    <p className="text-xs text-gray-500 mb-1">Suggested:</p>
+                    <div className="flex flex-wrap gap-1">
+                      {suggested.map(p => (
+                        <button
+                          key={p.id}
+                          type="button"
+                          onClick={() => {
+                            setNomineeId(p.id)
+                            setNomineeName(p.nickname)
+                          }}
+                          className={`px-2 py-1 text-xs rounded-full border transition-colors ${
+                            nomineeId === p.id
+                              ? 'bg-rstu-red text-white border-rstu-red'
+                              : 'bg-gray-50 text-gray-700 border-gray-200 hover:border-rstu-red hover:text-rstu-red'
+                          }`}
+                        >
+                          {p.nickname}
+                          <span className="ml-1 opacity-60">
+                            {p.role === 'admin' ? '(admin)' : '(organizer)'}
+                          </span>
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+                )
+              })()}
+
               <input
                 type="text"
                 value={nomineeName}
                 onChange={(e) => {
                   setNomineeName(e.target.value)
                   // Generate a simple ID from name if not provided
-                  if (!nomineeId) {
+                  if (!nomineeId || nomineeId.startsWith('nominee-')) {
                     setNomineeId(`nominee-${e.target.value.toLowerCase().replace(/\s+/g, '-')}-${Date.now()}`)
                   }
                 }}
