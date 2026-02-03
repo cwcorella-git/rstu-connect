@@ -128,6 +128,19 @@ export function getLandingPages(): LandingPageConfig[] {
     safeSetItem(PAGES_KEY, JSON.stringify(defaults))
     return defaults
   }
+  // Ensure preset pages exist (restore if deleted)
+  let changed = false
+  if (!stored.find(p => p.id === 'page-1')) {
+    stored.unshift(DEFAULT_PAGE_1)
+    changed = true
+  }
+  if (!stored.find(p => p.id === 'page-2')) {
+    stored.splice(1, 0, PRESET_PAGE_2)
+    changed = true
+  }
+  if (changed) {
+    safeSetItem(PAGES_KEY, JSON.stringify(stored))
+  }
   return stored
 }
 

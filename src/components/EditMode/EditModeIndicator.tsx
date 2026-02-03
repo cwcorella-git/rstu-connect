@@ -2,6 +2,7 @@
 
 import { useState, useEffect, KeyboardEvent } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
+import { useTab } from '@/contexts/TabContext'
 import { isAdmin as checkIsAdmin } from '@/lib/profileStorage'
 
 /**
@@ -21,6 +22,7 @@ export function EditModeIndicator() {
     clearToken,
   } = useEditMode()
 
+  const { activeTab } = useTab()
   const [tokenInput, setTokenInput] = useState('')
   const [showAdminHint, setShowAdminHint] = useState(false)
 
@@ -29,7 +31,7 @@ export function EditModeIndicator() {
   }, [])
 
   if (!isEditMode) {
-    if (showAdminHint) {
+    if (showAdminHint && activeTab === 'landing') {
       return (
         <div className="sticky top-[57px] z-40 bg-gray-100 text-gray-400 text-xs px-4 py-1">
           <div className="max-w-7xl mx-auto text-center">
