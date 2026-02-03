@@ -2037,6 +2037,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildingOrg.approved': 'approved',
     'buildingOrg.viewChat': 'View Building Chat',
 
+    // Onboarding Checklist
+    'onboarding.checklist.title': 'Getting Started',
+    'onboarding.checklist.profile': 'Create your profile',
+    'onboarding.checklist.profileDesc': 'Set up your tenant profile and preferences',
+    'onboarding.checklist.building': 'Find your building',
+    'onboarding.checklist.buildingDesc': 'Search for your rental property',
+    'onboarding.checklist.chat': 'Join building chat',
+    'onboarding.checklist.chatDesc': 'Introduce yourself to neighbors',
+    'onboarding.checklist.library': 'Explore the library',
+    'onboarding.checklist.libraryDesc': 'Browse organizing resources',
+    'onboarding.checklist.mutualAid': 'Check mutual aid',
+    'onboarding.checklist.mutualAidDesc': 'See needs and offers in your area',
+    'onboarding.checklist.dismiss': 'Hide checklist',
+
   },
   es: {
     // Navigation
@@ -4026,6 +4040,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildingOrg.demands': 'Demandas',
     'buildingOrg.approved': 'aprobadas',
     'buildingOrg.viewChat': 'Ver Chat del Edificio',
+
+    // Onboarding Checklist
+    'onboarding.checklist.title': 'Primeros Pasos',
+    'onboarding.checklist.profile': 'Crea tu perfil',
+    'onboarding.checklist.profileDesc': 'Configura tu perfil de inquilino',
+    'onboarding.checklist.building': 'Encuentra tu edificio',
+    'onboarding.checklist.buildingDesc': 'Busca tu propiedad de alquiler',
+    'onboarding.checklist.chat': 'Únete al chat del edificio',
+    'onboarding.checklist.chatDesc': 'Preséntate a tus vecinos',
+    'onboarding.checklist.library': 'Explora la biblioteca',
+    'onboarding.checklist.libraryDesc': 'Navega recursos de organización',
+    'onboarding.checklist.mutualAid': 'Revisa ayuda mutua',
+    'onboarding.checklist.mutualAidDesc': 'Ve necesidades y ofertas en tu área',
+    'onboarding.checklist.dismiss': 'Ocultar lista',
 
   },
   tl: {
@@ -6074,6 +6102,20 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // Reading - additional
     'reading.backToList': 'Bumalik sa listahan ng dokumento',
+
+    // Onboarding Checklist
+    'onboarding.checklist.title': 'Pagsisimula',
+    'onboarding.checklist.profile': 'Gumawa ng profile',
+    'onboarding.checklist.profileDesc': 'I-setup ang iyong tenant profile',
+    'onboarding.checklist.building': 'Hanapin ang iyong gusali',
+    'onboarding.checklist.buildingDesc': 'Maghanap ng iyong rental property',
+    'onboarding.checklist.chat': 'Sumali sa building chat',
+    'onboarding.checklist.chatDesc': 'Ipakilala ang sarili sa mga kapitbahay',
+    'onboarding.checklist.library': 'I-explore ang library',
+    'onboarding.checklist.libraryDesc': 'Mag-browse ng organizing resources',
+    'onboarding.checklist.mutualAid': 'Tingnan ang mutual aid',
+    'onboarding.checklist.mutualAidDesc': 'Tingnan ang needs at offers sa area mo',
+    'onboarding.checklist.dismiss': 'Itago ang checklist',
   },
   zh: {
     // Navigation
@@ -8120,6 +8162,20 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // Reading - additional
     'reading.backToList': '返回文档列表',
+
+    // Onboarding Checklist
+    'onboarding.checklist.title': '开始使用',
+    'onboarding.checklist.profile': '创建您的个人资料',
+    'onboarding.checklist.profileDesc': '设置您的租户个人资料',
+    'onboarding.checklist.building': '找到您的建筑',
+    'onboarding.checklist.buildingDesc': '搜索您的出租物业',
+    'onboarding.checklist.chat': '加入建筑聊天',
+    'onboarding.checklist.chatDesc': '向邻居介绍自己',
+    'onboarding.checklist.library': '探索图书馆',
+    'onboarding.checklist.libraryDesc': '浏览组织资源',
+    'onboarding.checklist.mutualAid': '查看互助',
+    'onboarding.checklist.mutualAidDesc': '查看您所在地区的需求和服务',
+    'onboarding.checklist.dismiss': '隐藏清单',
   },
   vi: {
     // Navigation
@@ -10147,6 +10203,20 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // Reading - additional
     'reading.backToList': 'Quay lại danh sách tài liệu',
+
+    // Onboarding Checklist
+    'onboarding.checklist.title': 'Bắt Đầu',
+    'onboarding.checklist.profile': 'Tạo hồ sơ của bạn',
+    'onboarding.checklist.profileDesc': 'Thiết lập hồ sơ người thuê của bạn',
+    'onboarding.checklist.building': 'Tìm tòa nhà của bạn',
+    'onboarding.checklist.buildingDesc': 'Tìm kiếm bất động sản cho thuê của bạn',
+    'onboarding.checklist.chat': 'Tham gia chat tòa nhà',
+    'onboarding.checklist.chatDesc': 'Giới thiệu bản thân với hàng xóm',
+    'onboarding.checklist.library': 'Khám phá thư viện',
+    'onboarding.checklist.libraryDesc': 'Duyệt tài nguyên tổ chức',
+    'onboarding.checklist.mutualAid': 'Xem hỗ trợ lẫn nhau',
+    'onboarding.checklist.mutualAidDesc': 'Xem nhu cầu và đề nghị trong khu vực của bạn',
+    'onboarding.checklist.dismiss': 'Ẩn danh sách',
   },
 }
 

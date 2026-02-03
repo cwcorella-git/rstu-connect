@@ -6,16 +6,28 @@ import { TabProvider, useTab } from '@/contexts/TabContext'
 import { LanguageProvider, useLanguage } from '@/contexts/LanguageContext'
 import { EditModeProvider } from '@/contexts/EditModeContext'
 import { DisplayProvider } from '@/contexts/DisplayContext'
+import { OnboardingProvider } from '@/contexts/OnboardingContext'
 import { Navigation } from '@/components/Navigation'
 import { LanguageSelector } from '@/components/LanguageSelector'
 import { VersionFooter } from '@/components/VersionFooter'
 import { EditModeIndicator } from '@/components/EditMode'
 import { Footer } from '@/components/Footer'
 import { OfflineBanner, OfflineIndicator } from '@/components/OfflineBanner'
+import { OnboardingChecklist } from '@/components/Onboarding/OnboardingChecklist'
 import { LegislationProvider } from '@/contexts/LegislationContext'
 import { LegislationPopup } from '@/components/Legislation'
 import { CitationProvider } from '@/contexts/CitationContext'
 import { CitationPopup } from '@/components/Citations'
+
+function FloatingChecklist() {
+  const { setActiveTab } = useTab()
+  return (
+    <OnboardingChecklist
+      onNavigate={(tab) => setActiveTab(tab as 'landing' | 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile')}
+      className="fixed bottom-4 right-4 w-80 z-50 max-h-[calc(100vh-8rem)] overflow-auto"
+    />
+  )
+}
 
 function Header() {
   const { t, isLoading } = useLanguage()
@@ -51,6 +63,7 @@ function Header() {
 export function ClientLayout({ children }: { children: ReactNode }) {
   return (
     <LanguageProvider>
+    <OnboardingProvider>
     <DisplayProvider>
     <EditModeProvider>
     <LegislationProvider>
@@ -83,6 +96,9 @@ export function ClientLayout({ children }: { children: ReactNode }) {
 
         {/* Citation Popup - Wikipedia-style source references */}
         <CitationPopup />
+
+        {/* Floating Onboarding Checklist */}
+        <FloatingChecklist />
       </main>
     </TabProvider>
     </AuthProvider>
@@ -90,6 +106,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
     </LegislationProvider>
     </EditModeProvider>
     </DisplayProvider>
+    </OnboardingProvider>
     </LanguageProvider>
   )
 }
