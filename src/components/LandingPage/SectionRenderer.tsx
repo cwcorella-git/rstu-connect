@@ -1,6 +1,7 @@
 'use client'
 
 import { SectionDescriptor } from '@/lib/landingPageStorage'
+import { useLanguage } from '@/contexts/LanguageContext'
 import { HeroSection } from './HeroSection'
 import { RightsSection } from './RightsSection'
 import { OrganizingWorksSection } from './OrganizingWorksSection'
@@ -15,6 +16,16 @@ import { FeaturedReadingsSection } from './FeaturedReadingsSection'
 import { CustomTextSection } from './CustomTextSection'
 import { CustomCardsSection } from './CustomCardsSection'
 import { ImageBannerSection } from './ImageBannerSection'
+
+// Get localized text with fallback: current locale -> 'en' -> legacy string -> undefined
+function getLocalizedText(value: unknown, locale: string): string | undefined {
+  if (typeof value === 'string') return value
+  if (value && typeof value === 'object') {
+    const localized = value as Record<string, string>
+    return localized[locale] || localized['en']
+  }
+  return undefined
+}
 
 interface SectionRendererProps {
   section: SectionDescriptor
@@ -32,6 +43,7 @@ export function SectionRenderer({
   onSectionConfigChange,
 }: SectionRendererProps) {
   const { type, config } = section
+  const { locale } = useLanguage()
 
   const handleConfigChange = (newConfig: Record<string, unknown>) => {
     onSectionConfigChange?.(section.id, newConfig)
@@ -44,9 +56,9 @@ export function SectionRenderer({
           onScrollClick={onScrollClick}
           onEnter={onEnter}
           showLogo={config.showLogo as boolean | undefined}
-          headlineOverride={config.headlineOverride as string | undefined}
-          taglineOverride={config.taglineOverride as string | undefined}
-          missionOverride={config.missionOverride as string | undefined}
+          headlineOverride={getLocalizedText(config.headlineOverride, locale)}
+          taglineOverride={getLocalizedText(config.taglineOverride, locale)}
+          missionOverride={getLocalizedText(config.missionOverride, locale)}
         />
       )
     case 'rights':

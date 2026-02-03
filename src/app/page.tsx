@@ -36,6 +36,7 @@ import { runStorageHealthCheck } from '@/lib/safeStorage';
 import { useTab } from '@/contexts/TabContext';
 import { useAuth } from '@/contexts/AuthContext';
 import { useDisplay, usePanelConfig } from '@/contexts/DisplayContext';
+import { useLanguage } from '@/contexts/LanguageContext';
 import type { ReadingDocument } from '@/lib/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
 import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
@@ -45,6 +46,7 @@ import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
 export default function Home() {
   const { activeTab, setActiveTab, markLandingAsSeen } = useTab();
   const { isAdminAuthenticated, canAccessOrganizeTab, refreshAuth } = useAuth();
+  const { t } = useLanguage();
 
   // Display preferences
   const { preferences } = useDisplay();
@@ -527,17 +529,16 @@ export default function Home() {
               d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
           </svg>
           <h2 className="text-xl font-semibold text-gray-700 mb-2">
-            Verification Required
+            {t('organize.verificationRequired')}
           </h2>
           <p className="text-gray-600 max-w-md mb-6">
-            The Organize tab is only available to verified tenants. This helps protect our community from landlord infiltration.
-            Ask an organizer to verify your account after meeting in person.
+            {t('organize.verificationMessage')}
           </p>
           <button
             onClick={() => setActiveTab('profile')}
             className="px-6 py-2 bg-rstu-red text-white rounded-lg hover:bg-red-700"
           >
-            Go to Profile
+            {t('organize.goToProfile')}
           </button>
         </div>
       );
@@ -549,22 +550,22 @@ export default function Home() {
         {linkingSelection.length > 0 && (() => {
           const profile = getCurrentProfile();
           const isAdminOrOrganizer = profile?.role === 'admin' || profile?.role === 'organizer';
-          const actionLabel = isAdminOrOrganizer ? 'linking' : 'bloc proposal';
-          const buttonLabel = isAdminOrOrganizer ? 'Link' : 'Create Proposal';
+          const actionLabel = isAdminOrOrganizer ? t('organize.actionLinking') : t('organize.actionBlocProposal');
+          const buttonLabel = isAdminOrOrganizer ? t('organize.linkButton') : t('organize.createProposalButton');
 
           return (
             <div className="bg-rstu-red text-white px-4 py-2 flex items-center justify-between flex-shrink-0">
               <div>
                 <span className="text-sm">
-                  <strong>{linkingSelection.length}</strong> properties selected for {actionLabel}
+                  {t('organize.propertiesSelected', { count: linkingSelection.length.toString(), action: actionLabel })}
                 </span>
                 {!isAdminOrOrganizer && linkingSelection.length >= 2 && (
                   <div className="text-xs text-white/80 mt-1">
-                    Tenants from each selected property will vote to approve this bloc.
+                    {t('organize.tenantVoteNotice')}
                   </div>
                 )}
                 <div className="text-xs text-white/70 mt-0.5">
-                  Ctrl+click or press-and-hold to select more
+                  {t('organize.selectMoreHint')}
                 </div>
               </div>
               <div className="flex gap-2">
@@ -580,7 +581,7 @@ export default function Home() {
                   onClick={() => setLinkingSelection([])}
                   className="text-xs bg-white/20 px-3 py-1.5 rounded min-h-[36px] min-w-[44px]"
                 >
-                  Cancel
+                  {t('common.cancel')}
                 </button>
               </div>
             </div>
@@ -592,8 +593,8 @@ export default function Home() {
           <div className="flex items-center justify-center flex-1">
             <div className="text-center">
               <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-rstu-red mb-4"></div>
-              <p className="text-gray-600">Loading property data...</p>
-              <p className="text-xs text-gray-400 mt-2">16,000+ rental properties</p>
+              <p className="text-gray-600">{t('organize.loadingProperties')}</p>
+              <p className="text-xs text-gray-400 mt-2">{t('organize.propertyCount')}</p>
             </div>
           </div>
         )}
@@ -602,13 +603,13 @@ export default function Home() {
         {loadError && (
           <div className="flex items-center justify-center flex-1">
             <div className="text-center max-w-md p-6">
-              <h2 className="text-xl font-semibold text-gray-900 mb-2">Failed to Load Property Data</h2>
+              <h2 className="text-xl font-semibold text-gray-900 mb-2">{t('organize.loadFailed')}</h2>
               <p className="text-gray-600 mb-4">{loadError}</p>
               <button
                 onClick={() => window.location.reload()}
                 className="px-4 py-2 bg-rstu-red text-white rounded hover:bg-red-700"
               >
-                Retry
+                {t('organize.retry')}
               </button>
             </div>
           </div>
@@ -656,8 +657,8 @@ export default function Home() {
                 <svg className="w-16 h-16 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                 </svg>
-                <h3 className="text-lg font-semibold text-gray-900 mb-2">No Property Selected</h3>
-                <p className="text-sm text-gray-500">Select a property from the list to view details and start organizing</p>
+                <h3 className="text-lg font-semibold text-gray-900 mb-2">{t('organize.noPropertySelected')}</h3>
+                <p className="text-sm text-gray-500">{t('organize.selectPropertyHint')}</p>
               </div>
             </div>
           )}
@@ -776,7 +777,7 @@ export default function Home() {
             />
           ) : (
             <div className="flex items-center justify-center h-full text-gray-400">
-              Select a document to read
+              {t('organize.selectDocumentHint')}
             </div>
           )}
         </div>
@@ -785,15 +786,15 @@ export default function Home() {
       {/* Custom Modals */}
       <AlertModal
         isOpen={logoutAlert}
-        title="Logged Out"
-        message="Logged out successfully from document library admin."
+        title={t('organize.loggedOut')}
+        message={t('organize.loggedOutMessage')}
         variant="success"
         onClose={() => setLogoutAlert(false)}
       />
 
       <AlertModal
         isOpen={errorAlert !== null}
-        title="Error"
+        title={t('common.error')}
         message={errorAlert || ''}
         variant="error"
         onClose={() => setErrorAlert(null)}
@@ -801,10 +802,10 @@ export default function Home() {
 
       <ConfirmModal
         isOpen={deleteConfirm !== null}
-        title="Delete Document"
-        message={`Delete "${deleteConfirm?.title}"? This document will be permanently hidden from all users. This action cannot be undone through the interface.`}
-        confirmText="Delete"
-        cancelText="Cancel"
+        title={t('organize.deleteDocument')}
+        message={t('organize.deleteConfirm', { title: deleteConfirm?.title || '' })}
+        confirmText={t('common.delete')}
+        cancelText={t('common.cancel')}
         variant="danger"
         onConfirm={confirmDocumentDelete}
         onCancel={() => setDeleteConfirm(null)}

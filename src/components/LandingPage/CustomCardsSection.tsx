@@ -1,11 +1,13 @@
 'use client'
 
-import { useRef, useCallback } from 'react'
+import { useRef, useCallback, useMemo } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
+import { useLanguage } from '@/contexts/LanguageContext'
 
-interface CardData {
-  title: string
-  body: string
+// Per-locale card data: each field can be string (legacy) or { en: "...", es: "..." }
+interface LocalizedCardData {
+  title: string | Record<string, string>
+  body: string | Record<string, string>
 }
 
 interface CustomCardsSectionProps {
@@ -13,35 +15,75 @@ interface CustomCardsSectionProps {
   onConfigChange: (config: Record<string, unknown>) => void
 }
 
+// Get localized text with fallback: current locale -> 'en' -> legacy string
+function getLocalizedText(value: unknown, locale: string, fallback: string): string {
+  if (typeof value === 'string') return value
+  if (value && typeof value === 'object') {
+    const localized = value as Record<string, string>
+    return localized[locale] || localized['en'] || fallback
+  }
+  return fallback
+}
+
+// Set localized text, preserving other locales
+function setLocalizedValue(
+  existing: unknown,
+  locale: string,
+  value: string
+): Record<string, string> {
+  const localized: Record<string, string> =
+    typeof existing === 'string' ? { en: existing } :
+    (existing && typeof existing === 'object') ? { ...(existing as Record<string, string>) } :
+    {}
+  localized[locale] = value
+  return localized
+}
+
 export function CustomCardsSection({ config, onConfigChange }: CustomCardsSectionProps) {
   const { isEditMode } = useEditMode()
+  const { locale } = useLanguage()
   const headingRef = useRef<HTMLHeadingElement>(null)
 
-  const heading = (config.heading as string) || 'Cards Section'
-  const cards = (config.cards as CardData[]) || []
+  const heading = getLocalizedText(config.heading, locale, 'Cards Section')
+  const rawCards = useMemo(() => (config.cards as LocalizedCardData[]) || [], [config.cards])
+
+  // Resolve cards to current locale for display
+  const cards = useMemo(() => rawCards.map(card => ({
+    title: getLocalizedText(card.title, locale, 'Card Title'),
+    body: getLocalizedText(card.body, locale, 'Description')
+  })), [rawCards, locale])
 
   const handleHeadingBlur = useCallback(() => {
     const newHeading = headingRef.current?.innerText || heading
     if (newHeading !== heading) {
-      onConfigChange({ ...config, heading: newHeading })
+      const existing = config.heading
+      const localized = setLocalizedValue(existing, locale, newHeading)
+      onConfigChange({ ...config, heading: localized })
     }
-  }, [config, heading, onConfigChange])
+  }, [config, heading, locale, onConfigChange])
 
   const handleCardChange = useCallback((index: number, field: 'title' | 'body', value: string) => {
-    const newCards = [...cards]
-    newCards[index] = { ...newCards[index], [field]: value }
+    const newCards = [...rawCards]
+    const card = { ...newCards[index] }
+    card[field] = setLocalizedValue(card[field], locale, value)
+    newCards[index] = card
     onConfigChange({ ...config, cards: newCards })
-  }, [config, cards, onConfigChange])
+  }, [config, rawCards, locale, onConfigChange])
 
   const handleAddCard = useCallback(() => {
-    const newCards = [...cards, { title: 'New Card', body: 'Description here.' }]
+    // New cards start with current locale
+    const newCard: LocalizedCardData = {
+      title: { [locale]: 'New Card' },
+      body: { [locale]: 'Description here.' }
+    }
+    const newCards = [...rawCards, newCard]
     onConfigChange({ ...config, cards: newCards })
-  }, [config, cards, onConfigChange])
+  }, [config, rawCards, locale, onConfigChange])
 
   const handleRemoveCard = useCallback((index: number) => {
-    const newCards = cards.filter((_, i) => i !== index)
+    const newCards = rawCards.filter((_, i) => i !== index)
     onConfigChange({ ...config, cards: newCards })
-  }, [config, cards, onConfigChange])
+  }, [config, rawCards, onConfigChange])
 
   const gridCols = cards.length <= 2 ? 'sm:grid-cols-2' :
                    cards.length === 3 ? 'sm:grid-cols-3' :

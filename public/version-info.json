@@ -1,8 +1,8 @@
 {
-  "commit": "69d622d3",
-  "message": "Add interactive RCV tutorial for first-time profile visitors",
+  "commit": "86036090",
+  "message": "Elections UX: Fix activity status, replace gear icon, add suggested nominees",
   "author": "cwcorella-git",
-  "date": "2026-01-28 01:37:41 -0800",
+  "date": "2026-02-02 18:10:19 -0800",
   "branch": "main",
-  "buildTime": "2026-01-28T10:21:01.100Z"
+  "buildTime": "2026-02-03T05:23:06.222Z"
 }

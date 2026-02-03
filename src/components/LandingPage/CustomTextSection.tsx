@@ -2,28 +2,64 @@
 
 import { useRef, useCallback } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 interface CustomTextSectionProps {
   config: Record<string, unknown>
   onConfigChange: (config: Record<string, unknown>) => void
 }
 
+// Get localized text with fallback: current locale -> 'en' -> legacy string
+function getLocalizedText(value: unknown, locale: string, fallback: string): string {
+  if (typeof value === 'string') return value // Legacy format
+  if (value && typeof value === 'object') {
+    const localized = value as Record<string, string>
+    return localized[locale] || localized['en'] || fallback
+  }
+  return fallback
+}
+
+// Set localized text, preserving other locales
+function setLocalizedText(
+  config: Record<string, unknown>,
+  key: string,
+  locale: string,
+  value: string
+): Record<string, unknown> {
+  const existing = config[key]
+  // Convert legacy string to object format
+  const localized: Record<string, string> =
+    typeof existing === 'string' ? { en: existing } :
+    (existing && typeof existing === 'object') ? { ...(existing as Record<string, string>) } :
+    {}
+  localized[locale] = value
+  return { ...config, [key]: localized }
+}
+
 export function CustomTextSection({ config, onConfigChange }: CustomTextSectionProps) {
   const { isEditMode } = useEditMode()
+  const { locale } = useLanguage()
   const headingRef = useRef<HTMLHeadingElement>(null)
   const bodyRef = useRef<HTMLParagraphElement>(null)
 
-  const heading = (config.heading as string) || 'Section Heading'
-  const body = (config.body as string) || 'Add your content here.'
+  const heading = getLocalizedText(config.heading, locale, 'Section Heading')
+  const body = getLocalizedText(config.body, locale, 'Add your content here.')
   const bgColor = (config.bgColor as string) || 'white'
 
   const handleBlur = useCallback(() => {
     const newHeading = headingRef.current?.innerText || heading
     const newBody = bodyRef.current?.innerText || body
     if (newHeading !== heading || newBody !== body) {
-      onConfigChange({ ...config, heading: newHeading, body: newBody })
+      let updated = config
+      if (newHeading !== heading) {
+        updated = setLocalizedText(updated, 'heading', locale, newHeading)
+      }
+      if (newBody !== body) {
+        updated = setLocalizedText(updated, 'body', locale, newBody)
+      }
+      onConfigChange(updated)
     }
-  }, [config, heading, body, onConfigChange])
+  }, [config, heading, body, locale, onConfigChange])
 
   const bgClass = bgColor === 'gray' ? 'bg-gray-50' : 'bg-white'
 

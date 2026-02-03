@@ -2,26 +2,54 @@
 
 import { useRef, useCallback } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 interface ImageBannerSectionProps {
   config: Record<string, unknown>
   onConfigChange: (config: Record<string, unknown>) => void
 }
 
+// Get localized text with fallback: current locale -> 'en' -> legacy string
+function getLocalizedText(value: unknown, locale: string, fallback: string): string {
+  if (typeof value === 'string') return value
+  if (value && typeof value === 'object') {
+    const localized = value as Record<string, string>
+    return localized[locale] || localized['en'] || fallback
+  }
+  return fallback
+}
+
+// Set localized text, preserving other locales
+function setLocalizedText(
+  config: Record<string, unknown>,
+  key: string,
+  locale: string,
+  value: string
+): Record<string, unknown> {
+  const existing = config[key]
+  const localized: Record<string, string> =
+    typeof existing === 'string' ? { en: existing } :
+    (existing && typeof existing === 'object') ? { ...(existing as Record<string, string>) } :
+    {}
+  localized[locale] = value
+  return { ...config, [key]: localized }
+}
+
 export function ImageBannerSection({ config, onConfigChange }: ImageBannerSectionProps) {
   const { isEditMode } = useEditMode()
+  const { locale } = useLanguage()
   const textRef = useRef<HTMLHeadingElement>(null)
 
-  const overlayText = (config.overlayText as string) || 'Banner Text'
+  const overlayText = getLocalizedText(config.overlayText, locale, 'Banner Text')
   const bgColor = (config.bgColor as string) || '#cc0000'
   const textColor = (config.textColor as string) || 'white'
 
   const handleBlur = useCallback(() => {
     const newText = textRef.current?.innerText || overlayText
     if (newText !== overlayText) {
-      onConfigChange({ ...config, overlayText: newText })
+      onConfigChange(setLocalizedText(config, 'overlayText', locale, newText))
     }
-  }, [config, overlayText, onConfigChange])
+  }, [config, overlayText, locale, onConfigChange])
 
   return (
     <section
