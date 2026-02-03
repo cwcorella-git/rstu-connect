@@ -24,9 +24,17 @@ export function ElectionAdmin({ profileId }: ElectionAdminProps) {
 
   useEffect(() => {
     const socket = getSocket()
-    if (!socket) return
+    if (!socket) {
+      setIsLoading(false)
+      return
+    }
+
+    const timeout = setTimeout(() => {
+      setIsLoading(false)
+    }, 5000)
 
     const handleAll = ({ elections: e }: { elections: Election[] }) => {
+      clearTimeout(timeout)
       setElections(e)
       setIsLoading(false)
     }
@@ -48,6 +56,7 @@ export function ElectionAdmin({ profileId }: ElectionAdminProps) {
     socket.emit('election:get_all', { profileId })
 
     return () => {
+      clearTimeout(timeout)
       socket.off('election:all', handleAll)
       socket.off('election:updated', handleUpdated)
     }
