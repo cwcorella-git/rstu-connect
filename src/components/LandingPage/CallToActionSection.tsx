@@ -2,14 +2,21 @@
 
 import { useLanguage } from '@/contexts/LanguageContext'
 import { EditableText } from '@/components/EditMode'
+import manifest from '@/data/reading-manifest.json'
 
 interface CallToActionSectionProps {
   onEnter: () => void
   onNavigate: (tab: string) => void
 }
 
+// Format count with locale-appropriate separators
+function formatCount(n: number): string {
+  return n.toLocaleString()
+}
+
 export function CallToActionSection({ onEnter, onNavigate }: CallToActionSectionProps) {
   const { t } = useLanguage()
+  const docCount = formatCount(manifest.totalDocuments || 0)
 
   return (
     <section className="py-8 sm:py-10 px-4 bg-gradient-to-br from-rstu-red to-red-700">
@@ -38,7 +45,7 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
         </button>
 
         {/* Secondary actions below */}
-        <div className="mt-16 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="mt-16 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {/* Learning path */}
           <button
             onClick={() => onNavigate('reading')}
@@ -49,11 +56,9 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
               as="h3"
               className="text-lg font-bold mb-2 group-hover:text-yellow-200 transition-colors"
             />
-            <EditableText
-              tKey="landing.cta.option1Desc"
-              as="p"
-              className="text-sm text-white text-opacity-90"
-            />
+            <p className="text-sm text-white text-opacity-90">
+              {t('landing.cta.option1Desc', { docCount })}
+            </p>
           </button>
 
           {/* Explore buildings */}
@@ -73,11 +78,26 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
             />
           </button>
 
-          {/* In-person organizing */}
+          {/* Mutual Aid */}
           <button
-            onClick={() => {
-              window.open('https://renosparkstenantsunion.org', '_blank')
-            }}
+            onClick={() => onNavigate('mutual-aid')}
+            className="group text-left bg-white bg-opacity-10 hover:bg-opacity-20 border border-white border-opacity-20 rounded-lg p-6 transition-all duration-200 text-white"
+          >
+            <EditableText
+              tKey="landing.cta.option3Title"
+              as="h3"
+              className="text-lg font-bold mb-2 group-hover:text-yellow-200 transition-colors"
+            />
+            <EditableText
+              tKey="landing.cta.option3Desc"
+              as="p"
+              className="text-sm text-white text-opacity-90"
+            />
+          </button>
+
+          {/* Create Profile */}
+          <button
+            onClick={() => onNavigate('profile')}
             className="group text-left bg-white bg-opacity-10 hover:bg-opacity-20 border border-white border-opacity-20 rounded-lg p-6 transition-all duration-200 text-white"
           >
             <EditableText
