@@ -12,19 +12,19 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative px-4 pt-4 sm:pt-6 pb-4 bg-white">
+    <section className="relative px-4 pt-6 sm:pt-6 pb-4 bg-white">
       <div className="max-w-3xl mx-auto text-center">
         {/* RSTU Branding - Logo over Text */}
-        <div className="mb-2 sm:mb-3 flex flex-col items-center">
+        <div className="mb-3 sm:mb-3 flex flex-col items-center">
           <img
             src="/rstu-connect/rstu-logo-only.png"
             alt="RSTU"
-            className="h-24 sm:h-32 lg:h-36 w-auto"
+            className="h-32 sm:h-32 lg:h-36 w-auto"
           />
           <img
             src="/rstu-connect/rstu-text-only.png"
             alt="Reno-Sparks Tenants Union"
-            className="h-4 sm:h-6 lg:h-8 w-auto mt-1 sm:mt-1.5"
+            className="h-5 sm:h-6 lg:h-8 w-auto mt-1.5 sm:mt-1.5"
           />
         </div>
 
@@ -32,21 +32,21 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
         <EditableText
           tKey="landing.hero.headline"
           as="h1"
-          className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 mb-1.5 sm:mb-2 leading-[1.1]"
+          className="text-2xl sm:text-2xl lg:text-3xl font-bold text-gray-900 mb-2 sm:mb-2 leading-[1.1]"
         />
 
         {/* Tagline */}
         <EditableText
           tKey="landing.hero.tagline"
           as="p"
-          className="text-sm sm:text-base lg:text-lg text-rstu-red font-semibold mb-2 sm:mb-3"
+          className="text-base sm:text-base lg:text-lg text-rstu-red font-semibold mb-2 sm:mb-3"
         />
 
         {/* Mission Statement */}
         <EditableText
           tKey="landing.hero.mission"
           as="p"
-          className="text-xs sm:text-sm text-gray-600 max-w-xl mx-auto mb-3 sm:mb-4 leading-relaxed"
+          className="text-sm sm:text-sm text-gray-600 max-w-xl mx-auto mb-4 sm:mb-4 leading-relaxed"
           multiline
         />
 
