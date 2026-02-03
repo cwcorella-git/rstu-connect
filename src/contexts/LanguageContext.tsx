@@ -2019,6 +2019,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.aboveBenchmark': 'above benchmark',
     'rent.privacyNoteFull': 'Your rent and income stay on your device. Only anonymous building averages are shared.',
 
+    // Building Organizing Status
+    'buildingOrg.title': 'Building Organizing',
+    'buildingOrg.participation': 'Participation',
+    'buildingOrg.strikeReady': '65% = strike-ready',
+    'buildingOrg.canvassing': 'Canvassing',
+    'buildingOrg.interested': 'interested',
+    'buildingOrg.active': 'active',
+    'buildingOrg.followUp': 'follow-up',
+    'buildingOrg.activeIssues': 'Active Issues',
+    'buildingOrg.underVote': 'under vote',
+    'buildingOrg.demands': 'Demands',
+    'buildingOrg.approved': 'approved',
+    'buildingOrg.viewChat': 'View Building Chat',
+
   },
   es: {
     // Navigation
@@ -3990,6 +4004,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.atBenchmark': 'en referencia',
     'rent.aboveBenchmark': 'sobre referencia',
     'rent.privacyNoteFull': 'Tu renta e ingreso permanecen en tu dispositivo. Solo promedios anónimos del edificio se comparten.',
+
+    // Building Organizing Status
+    'buildingOrg.title': 'Organización del Edificio',
+    'buildingOrg.participation': 'Participación',
+    'buildingOrg.strikeReady': '65% = listo para huelga',
+    'buildingOrg.canvassing': 'Sondeo',
+    'buildingOrg.interested': 'interesados',
+    'buildingOrg.active': 'activos',
+    'buildingOrg.followUp': 'seguimiento',
+    'buildingOrg.activeIssues': 'Problemas Activos',
+    'buildingOrg.underVote': 'en votación',
+    'buildingOrg.demands': 'Demandas',
+    'buildingOrg.approved': 'aprobadas',
+    'buildingOrg.viewChat': 'Ver Chat del Edificio',
 
   },
   tl: {
@@ -6017,6 +6045,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.atBenchmark': 'sa benchmark',
     'rent.aboveBenchmark': 'higit sa benchmark',
     'rent.privacyNoteFull': 'Ang iyong upa at kita ay nananatili sa iyong device. Tanging anonymous na average ng gusali ang ibinabahagi.',
+
+    // Building Organizing Status
+    'buildingOrg.title': 'Pag-oorganisa ng Gusali',
+    'buildingOrg.participation': 'Partisipasyon',
+    'buildingOrg.strikeReady': '65% = handa sa welga',
+    'buildingOrg.canvassing': 'Canvassing',
+    'buildingOrg.interested': 'interesado',
+    'buildingOrg.active': 'aktibo',
+    'buildingOrg.followUp': 'follow-up',
+    'buildingOrg.activeIssues': 'Mga Aktibong Isyu',
+    'buildingOrg.underVote': 'nasa botohan',
+    'buildingOrg.demands': 'Mga Kahilingan',
+    'buildingOrg.approved': 'inaprubahan',
+    'buildingOrg.viewChat': 'Tingnan ang Chat ng Gusali',
 
     // Reading - additional
     'reading.backToList': 'Bumalik sa listahan ng dokumento',
@@ -8046,6 +8088,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.aboveBenchmark': '高于基准',
     'rent.privacyNoteFull': '您的租金和收入保留在您的设备上。只共享匿名的建筑平均值。',
 
+    // Building Organizing Status
+    'buildingOrg.title': '建筑组织',
+    'buildingOrg.participation': '参与度',
+    'buildingOrg.strikeReady': '65% = 可以罢工',
+    'buildingOrg.canvassing': '走访',
+    'buildingOrg.interested': '有兴趣',
+    'buildingOrg.active': '活跃',
+    'buildingOrg.followUp': '跟进',
+    'buildingOrg.activeIssues': '活跃问题',
+    'buildingOrg.underVote': '投票中',
+    'buildingOrg.demands': '诉求',
+    'buildingOrg.approved': '已批准',
+    'buildingOrg.viewChat': '查看建筑聊天',
+
     // Reading - additional
     'reading.backToList': '返回文档列表',
   },
@@ -10054,6 +10110,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.atBenchmark': 'đạt chuẩn',
     'rent.aboveBenchmark': 'trên chuẩn',
     'rent.privacyNoteFull': 'Tiền thuê và thu nhập của bạn lưu trên thiết bị. Chỉ mức trung bình ẩn danh của tòa nhà được chia sẻ.',
+
+    // Building Organizing Status
+    'buildingOrg.title': 'Tổ chức Tòa nhà',
+    'buildingOrg.participation': 'Tham gia',
+    'buildingOrg.strikeReady': '65% = sẵn sàng đình công',
+    'buildingOrg.canvassing': 'Vận động',
+    'buildingOrg.interested': 'quan tâm',
+    'buildingOrg.active': 'hoạt động',
+    'buildingOrg.followUp': 'theo dõi',
+    'buildingOrg.activeIssues': 'Vấn đề Đang hoạt động',
+    'buildingOrg.underVote': 'đang bỏ phiếu',
+    'buildingOrg.demands': 'Yêu cầu',
+    'buildingOrg.approved': 'đã phê duyệt',
+    'buildingOrg.viewChat': 'Xem Chat Tòa nhà',
 
     // Reading - additional
     'reading.backToList': 'Quay lại danh sách tài liệu',
