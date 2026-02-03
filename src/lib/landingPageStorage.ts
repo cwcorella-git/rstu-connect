@@ -186,9 +186,7 @@ export function createBlankPage(name: string): LandingPageConfig {
   return {
     id: `page-${Date.now()}`,
     name,
-    sections: [
-      { id: uid(), type: 'hero', config: {} },
-    ],
+    sections: [],
     created_at: new Date().toISOString(),
     updated_at: new Date().toISOString(),
   }
