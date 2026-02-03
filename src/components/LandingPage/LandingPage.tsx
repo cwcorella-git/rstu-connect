@@ -1,6 +1,7 @@
 'use client'
 
 import { useRef, useState, useEffect, useCallback } from 'react'
+import { useEditMode } from '@/contexts/EditModeContext'
 import { isAdmin } from '@/lib/profileStorage'
 import {
   LandingPageConfig,
@@ -26,6 +27,7 @@ interface LandingPageProps {
 
 export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
   const contentRef = useRef<HTMLDivElement>(null)
+  const { isEditMode } = useEditMode()
   const [admin, setAdmin] = useState(false)
   const [pages, setPages] = useState<LandingPageConfig[]>([])
   const [activePageId, setActivePageIdState] = useState('page-1')
@@ -137,8 +139,8 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
       <div>
         {activePage.sections.map((section, i) => (
           <div key={section.id} id={`section-${section.id}`} className="relative">
-            {/* Section controls (admin always sees these) */}
-            {admin && (
+            {/* Section controls (edit mode only) */}
+            {admin && isEditMode && (
               <SectionControls
                 index={i}
                 total={activePage.sections.length}
@@ -157,15 +159,15 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
               onSectionConfigChange={handleSectionConfigChange}
             />
 
-            {/* Add section button between sections */}
-            {admin && (
+            {/* Add section button between sections (edit mode only) */}
+            {admin && isEditMode && (
               <AddSectionButton onAdd={(type) => handleAddSection(i, type)} />
             )}
           </div>
         ))}
 
         {/* Add section at the beginning if page is empty */}
-        {admin && activePage.sections.length === 0 && (
+        {admin && isEditMode && activePage.sections.length === 0 && (
           <div className="py-20">
             <AddSectionButton onAdd={(type) => handleAddSection(-1, type)} />
           </div>
