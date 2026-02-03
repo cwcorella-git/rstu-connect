@@ -8,6 +8,7 @@ import { downloadRentDisputePDF } from '@/lib/rentDisputePDF'
 import { RentHistoryChart } from './RentHistoryChart'
 import { createProposal } from '@/lib/governanceStorage'
 import { getGroupForApn } from '@/lib/linkedPropertiesStorage'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 interface RentComparisonProps {
   building: EnhancedBuilding
@@ -28,6 +29,7 @@ interface RentStats {
 }
 
 export function RentComparison({ building, unitNumber, userRent, rentHistory, onUpdateRent, onAddHistoryEntry, onNavigateToBuilding }: RentComparisonProps) {
+  const { t } = useLanguage()
   const [stats, setStats] = useState<RentStats | null>(null)
   const [showInput, setShowInput] = useState(false)
   const [rentInput, setRentInput] = useState(userRent?.toString() || '')
@@ -203,12 +205,12 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
       <div className="p-4 border-b border-gray-100">
         <div className="flex items-start justify-between mb-3">
           <div>
-            <h3 className="font-medium text-gray-900">Rent Comparison</h3>
+            <h3 className="font-medium text-gray-900">{t('rent.comparison')}</h3>
             <p className="text-sm text-gray-500">{building.propertyName || building.address.split(',')[0]}</p>
           </div>
           {shouldAlert && (
             <div className="bg-red-100 text-red-700 px-2 py-1 rounded text-xs font-medium">
-              ⚠️ Unusual Increase
+  ⚠️ {t('rent.unusualIncrease')}
             </div>
           )}
         </div>
@@ -217,27 +219,27 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
         {shouldAlert && userRent && yoyIncrease && (
           <div className="mb-3 p-3 bg-red-50 border border-red-200 rounded-lg">
             <div className="text-xs font-medium text-red-700 mb-2">
-              Your rent increased {yoyIncrease.percentChange.toFixed(1)}% ({yoyIncrease.dollarChange > 0 ? '+' : ''}${yoyIncrease.dollarChange}/mo) - above the 3-5% regional average. Take action:
+{t('rent.increaseAlert', { percent: yoyIncrease.percentChange.toFixed(1), change: `${yoyIncrease.dollarChange > 0 ? '+' : ''}$${yoyIncrease.dollarChange}` })}
             </div>
             <div className="flex gap-2 flex-wrap">
               <button
                 onClick={handleDownloadDisputeLetter}
                 className="text-xs font-medium px-3 py-1.5 bg-red-600 text-white rounded hover:bg-red-700 transition-colors"
               >
-                📄 Download Dispute Letter
+📄 {t('rent.downloadDispute')}
               </button>
               <button
                 onClick={handleFileComplaint}
                 className="text-xs font-medium px-3 py-1.5 bg-orange-600 text-white rounded hover:bg-orange-700 transition-colors"
               >
-                🏛️ File Nevada Housing Complaint
+🏛️ {t('rent.fileComplaint')}
               </button>
               {buildingComparison && buildingComparison.direction === 'above' && buildingComparison.percent > 20 && isPoorCondition && (
                 <button
                   onClick={handleOrganizeBuilding}
                   className="text-xs font-medium px-3 py-1.5 bg-purple-600 text-white rounded hover:bg-purple-700 transition-colors"
                 >
-                  👥 Organize Collective Demand
+👥 {t('rent.organizeCollective')}
                 </button>
               )}
             </div>
@@ -255,7 +257,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                   : 'border-transparent text-gray-600 hover:text-gray-900'
               }`}
             >
-              Current
+{t('rent.tabCurrent')}
             </button>
             <button
               onClick={() => setActiveTab('history')}
@@ -265,7 +267,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                   : 'border-transparent text-gray-600 hover:text-gray-900'
               }`}
             >
-              History & Trends
+{t('rent.tabHistory')}
             </button>
           </div>
         )}
@@ -290,7 +292,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
               <div className="bg-gray-50 rounded-lg p-4">
                 <div className="flex items-center justify-between">
                   <div>
-                    <div className="text-sm text-gray-500">Your Rent</div>
+                    <div className="text-sm text-gray-500">{t('rent.yourRent')}</div>
                     <div className="text-2xl font-bold text-gray-900">${userRent.toLocaleString()}<span className="text-sm font-normal text-gray-500">/mo</span></div>
                   </div>
                   <button
@@ -300,19 +302,19 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                     }}
                     className="text-xs text-gray-400 hover:text-gray-600"
                   >
-                    Edit
+{t('rent.edit')}
                   </button>
                 </div>
               </div>
             ) : (
               <div className="bg-blue-50 border border-blue-100 rounded-lg p-4">
-                <p className="text-sm text-blue-700 mb-2">Add your rent to see how you compare</p>
+                <p className="text-sm text-blue-700 mb-2">{t('rent.addPrompt')}</p>
                 {!showInput ? (
                   <button
                     onClick={() => setShowInput(true)}
                     className="text-sm font-medium text-blue-700 hover:text-blue-800"
                   >
-                    + Add rent amount
+{t('rent.addButton')}
                   </button>
                 ) : null}
               </div>
@@ -327,7 +329,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                     type="number"
                     value={rentInput}
                     onChange={(e) => setRentInput(e.target.value)}
-                    placeholder="Monthly rent"
+                    placeholder={t('rent.monthlyPlaceholder')}
                     className="w-full pl-7 pr-3 py-2 border border-gray-300 rounded-md text-sm"
                     autoFocus
                   />
@@ -337,13 +339,13 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                   disabled={!rentInput}
                   className="px-4 py-2 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-red-700 disabled:opacity-50"
                 >
-                  Save
+{t('rent.save')}
                 </button>
                 <button
                   onClick={() => setShowInput(false)}
                   className="px-3 py-2 text-gray-400 hover:text-gray-600"
                 >
-                  Cancel
+                  {t('rent.cancel')}
                 </button>
               </div>
             )}
@@ -352,20 +354,20 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
             {stats && (
               <div>
                 <div className="text-xs font-medium text-gray-500 uppercase tracking-wide mb-2">
-                  Building Data ({stats.count} units reporting)
+                  {t('rent.buildingData', { count: stats.count.toString() })}
                 </div>
                 <div className="grid grid-cols-3 gap-2 text-center">
                   <div className="bg-gray-50 rounded-lg p-2">
                     <div className="text-lg font-bold text-gray-900">${stats.average.toLocaleString()}</div>
-                    <div className="text-xs text-gray-500">Average</div>
+                    <div className="text-xs text-gray-500">{t('rent.average')}</div>
                   </div>
                   <div className="bg-gray-50 rounded-lg p-2">
                     <div className="text-lg font-bold text-gray-900">${stats.median.toLocaleString()}</div>
-                    <div className="text-xs text-gray-500">Median</div>
+                    <div className="text-xs text-gray-500">{t('rent.median')}</div>
                   </div>
                   <div className="bg-gray-50 rounded-lg p-2">
                     <div className="text-sm font-medium text-gray-700">${stats.min.toLocaleString()}-${stats.max.toLocaleString()}</div>
-                    <div className="text-xs text-gray-500">Range</div>
+                    <div className="text-xs text-gray-500">{t('rent.range')}</div>
                   </div>
                 </div>
 
@@ -382,16 +384,16 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                       'text-gray-600'
                     }`}>
                       {buildingComparison.direction === 'at' ? (
-                        'Your rent is at the building average'
+                        t('rent.atBuildingAvg')
                       ) : (
                         <>
-                          Your rent is <strong>{buildingComparison.percent}% {buildingComparison.direction}</strong> the building average
+                          {t('rent.comparedToBuilding', { percent: buildingComparison.percent.toString(), direction: t(`rent.${buildingComparison.direction}`) })}
                         </>
                       )}
                     </div>
                     {buildingComparison.direction === 'above' && buildingComparison.percent > 15 && (
                       <p className="text-xs text-red-600 mt-1">
-                        You may be paying more than your neighbors for similar units.
+                        {t('rent.payingMore')}
                       </p>
                     )}
                   </div>
@@ -403,13 +405,13 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
             {estimatedRentPerUnit && estimatedRentPerUnit > 200 && (
               <div>
                 <div className="text-xs font-medium text-gray-500 uppercase tracking-wide mb-2">
-                  Estimated Market Rent
+                  {t('rent.estimatedMarket')}
                 </div>
                 <div className="bg-gray-50 rounded-lg p-3">
                   <div className="flex items-center justify-between">
                     <div>
                       <div className="text-lg font-bold text-gray-900">${estimatedRentPerUnit.toLocaleString()}<span className="text-sm font-normal text-gray-500">/mo</span></div>
-                      <div className="text-xs text-gray-500">Based on ${building.value?.toLocaleString()} assessed value ÷ {building.units} units</div>
+                      <div className="text-xs text-gray-500">{t('rent.basedOnValue', { value: `$${building.value?.toLocaleString()}`, units: building.units.toString() })}</div>
                     </div>
                   </div>
 
@@ -426,10 +428,10 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                         'text-gray-600'
                       }`}>
                         {marketComparison.direction === 'at' ? (
-                          'Your rent is at the estimated market rate'
+                          t('rent.atMarketRate')
                         ) : (
                           <>
-                            Your rent is <strong>{marketComparison.percent}%</strong> {marketComparison.direction} the estimated market rate
+                            {t('rent.comparedToMarket', { percent: marketComparison.percent.toString(), direction: t(`rent.${marketComparison.direction}`) })}
                           </>
                         )}
                       </div>
@@ -437,7 +439,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                   )}
                 </div>
                 <p className="text-xs text-gray-400 mt-1">
-                  <strong>Estimate based on assessed property value</strong> (often below market). Actual rents vary by unit size, condition, location, and amenities. {stats && stats.count >= 3 && 'The building average above is more accurate.'}
+                  <strong>{t('rent.estimateNote')}</strong> {stats && stats.count >= 3 && t('rent.buildingAvgMoreAccurate')}
                 </p>
               </div>
             )}
@@ -445,24 +447,24 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
             {/* Property Info */}
             <div className="text-xs text-gray-500 space-y-1 pt-2 border-t border-gray-100">
               <div className="flex justify-between">
-                <span>Total Units</span>
+                <span>{t('rent.totalUnits')}</span>
                 <span className="font-medium text-gray-700">{building.units}</span>
               </div>
               {building.yearBuilt && (
                 <div className="flex justify-between">
-                  <span>Year Built</span>
+                  <span>{t('rent.yearBuilt')}</span>
                   <span className="font-medium text-gray-700">{building.yearBuilt}</span>
                 </div>
               )}
               <div className="flex justify-between">
-                <span>Owner</span>
+                <span>{t('rent.owner')}</span>
                 <span className="font-medium text-gray-700 truncate ml-4 max-w-[200px]">{building.owner}</span>
               </div>
             </div>
 
             {/* Privacy Note */}
             <div className="text-xs text-gray-400 bg-gray-50 rounded p-2">
-              Your rent is private. Only anonymous building averages are shown to organizers.
+              {t('rent.privacyNote')}
             </div>
           </>
         )}

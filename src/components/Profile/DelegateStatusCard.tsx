@@ -23,7 +23,7 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
   if (!delegateProfile) {
     return (
       <div className="bg-gray-50 rounded-lg p-4 text-center text-sm text-gray-500">
-        No profile data available
+        {t('delegate.noProfile')}
       </div>
     )
   }
@@ -69,12 +69,12 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
           </div>
           <div>
             <h4 className={`font-semibold ${isQualified ? 'text-green-800' : 'text-amber-800'}`}>
-              {isQualified ? 'Qualified Delegate' : 'Delegate Progress'}
+              {isQualified ? t('delegate.qualified') : t('delegate.progress')}
             </h4>
             <p className={`text-sm ${isQualified ? 'text-green-600' : 'text-amber-600'}`}>
               {isQualified
-                ? `Voting weight: ${delegateWeight.toFixed(1)} points`
-                : 'Complete requirements to become a delegate'}
+                ? t('delegate.votingWeight', { weight: delegateWeight.toFixed(1) })
+                : t('delegate.completeRequirements')}
             </p>
           </div>
         </div>
@@ -82,7 +82,7 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
 
       {/* Qualification Progress */}
       <div className="bg-white rounded-lg border border-gray-200 p-4">
-        <h4 className="text-sm font-semibold text-gray-900 mb-4">Qualification Requirements</h4>
+        <h4 className="text-sm font-semibold text-gray-900 mb-4">{t('delegate.qualificationRequirements')}</h4>
 
         <div className="space-y-4">
           {/* Verified Tenants */}
@@ -96,7 +96,7 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
                 }`}>
                   {qualificationStatus.meetsTenantsThreshold ? '✓' : ''}
                 </span>
-                <span className="text-sm text-gray-700">Verified Tenants Represented</span>
+                <span className="text-sm text-gray-700">{t('delegate.verifiedTenants')}</span>
               </div>
               <span className="text-sm font-medium text-gray-900">
                 {delegateProfile.verifiedTenantsRepresented} / {thresholds.minVerifiedTenants}
@@ -123,7 +123,7 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
                 }`}>
                   {qualificationStatus.meetsBlocsThreshold ? '✓' : ''}
                 </span>
-                <span className="text-sm text-gray-700">Blocs Organized</span>
+                <span className="text-sm text-gray-700">{t('delegate.blocsOrganized')}</span>
               </div>
               <span className="text-sm font-medium text-gray-900">
                 {delegateProfile.blocs.length} / {thresholds.minBlocs}
@@ -150,7 +150,7 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
                 }`}>
                   {qualificationStatus.meetsActivityThreshold ? '✓' : ''}
                 </span>
-                <span className="text-sm text-gray-700">Activity Score</span>
+                <span className="text-sm text-gray-700">{t('delegate.activityScore')}</span>
               </div>
               <span className="text-sm font-medium text-gray-900">
                 {delegateProfile.activityScore} / {thresholds.minActivityScore}
@@ -170,19 +170,19 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
 
       {/* Activity Breakdown */}
       <div className="bg-gray-50 rounded-lg p-4">
-        <h4 className="text-sm font-semibold text-gray-900 mb-3">Your Activity</h4>
+        <h4 className="text-sm font-semibold text-gray-900 mb-3">{t('delegate.yourActivity')}</h4>
         <div className="grid grid-cols-3 gap-3 text-center">
           <div>
             <div className="text-lg font-bold text-gray-900">{delegateProfile.proposalsCreated}</div>
-            <div className="text-xs text-gray-500">Proposals</div>
+            <div className="text-xs text-gray-500">{t('delegate.proposals')}</div>
           </div>
           <div>
             <div className="text-lg font-bold text-gray-900">{delegateProfile.votesParticipated}</div>
-            <div className="text-xs text-gray-500">Votes</div>
+            <div className="text-xs text-gray-500">{t('delegate.votes')}</div>
           </div>
           <div>
             <div className="text-lg font-bold text-gray-900">{delegateProfile.buildingsRepresented}</div>
-            <div className="text-xs text-gray-500">Buildings</div>
+            <div className="text-xs text-gray-500">{t('delegate.buildings')}</div>
           </div>
         </div>
       </div>
@@ -190,15 +190,15 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
       {/* Delegate Network Stats */}
       {delegateStats.totalDelegates > 0 && (
         <div className="bg-blue-50 rounded-lg p-4 border border-blue-100">
-          <h4 className="text-sm font-semibold text-blue-900 mb-2">Delegate Network</h4>
+          <h4 className="text-sm font-semibold text-blue-900 mb-2">{t('delegate.network')}</h4>
           <div className="grid grid-cols-2 gap-4 text-sm">
             <div>
               <div className="text-lg font-bold text-blue-800">{delegateStats.totalDelegates}</div>
-              <div className="text-xs text-blue-600">Active Delegates</div>
+              <div className="text-xs text-blue-600">{t('delegate.activeDelegates')}</div>
             </div>
             <div>
               <div className="text-lg font-bold text-blue-800">{delegateStats.totalTenantsRepresented}</div>
-              <div className="text-xs text-blue-600">Tenants Represented</div>
+              <div className="text-xs text-blue-600">{t('delegate.tenantsRepresented')}</div>
             </div>
           </div>
         </div>
@@ -206,23 +206,23 @@ export function DelegateStatusCard({ profileId }: DelegateStatusCardProps) {
 
       {/* How It Works */}
       <div className="bg-gray-50 rounded-lg p-4 border border-gray-200">
-        <h4 className="text-sm font-semibold text-gray-900 mb-2">How Delegate Voting Works</h4>
+        <h4 className="text-sm font-semibold text-gray-900 mb-2">{t('delegate.howItWorks')}</h4>
         <ul className="text-xs text-gray-600 space-y-1.5">
           <li className="flex items-start gap-2">
             <span className="text-gray-400">1.</span>
-            <span>Delegates are organizers who represent verified tenants in organized blocs</span>
+            <span>{t('delegate.howStep1')}</span>
           </li>
           <li className="flex items-start gap-2">
             <span className="text-gray-400">2.</span>
-            <span>Voting weight is based on tenants represented (capped to prevent domination)</span>
+            <span>{t('delegate.howStep2')}</span>
           </li>
           <li className="flex items-start gap-2">
             <span className="text-gray-400">3.</span>
-            <span>Delegates vote on app-wide governance: features, policies, admin recall</span>
+            <span>{t('delegate.howStep3')}</span>
           </li>
           <li className="flex items-start gap-2">
             <span className="text-gray-400">4.</span>
-            <span>Admins cannot vote - power flows from tenant representation</span>
+            <span>{t('delegate.howStep4')}</span>
           </li>
         </ul>
       </div>

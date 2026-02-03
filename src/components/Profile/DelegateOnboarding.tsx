@@ -27,7 +27,7 @@ export function DelegateOnboarding({
   if (!delegateProfile) {
     return (
       <div className="bg-gray-50 rounded-lg p-4 text-center text-sm text-gray-500">
-        No profile data available
+        {t('delegate.noProfile')}
       </div>
     )
   }
@@ -60,9 +60,9 @@ export function DelegateOnboarding({
               </svg>
             </div>
             <div>
-              <h3 className="text-xl font-bold">You're a Qualified Delegate!</h3>
+              <h3 className="text-xl font-bold">{t('delegateOnboard.youAreQualified')}</h3>
               <p className="text-green-100 mt-1">
-                Voting weight: <span className="font-bold text-white">{delegateWeight.toFixed(1)} points</span>
+                {t('delegate.votingWeight', { weight: delegateWeight.toFixed(1) })}
               </p>
             </div>
           </div>
@@ -70,7 +70,7 @@ export function DelegateOnboarding({
 
         {/* What You Can Do */}
         <div className="bg-white rounded-lg border border-gray-200 p-4">
-          <h4 className="font-semibold text-gray-900 mb-3">Your Delegate Powers</h4>
+          <h4 className="font-semibold text-gray-900 mb-3">{t('delegateOnboard.yourPowers')}</h4>
           <div className="space-y-3">
             <div className="flex items-start gap-3 p-3 bg-blue-50 rounded-lg">
               <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
@@ -79,8 +79,8 @@ export function DelegateOnboarding({
                 </svg>
               </div>
               <div>
-                <p className="font-medium text-blue-900">Vote on App Features</p>
-                <p className="text-sm text-blue-700">Enable/disable features, change tab visibility</p>
+                <p className="font-medium text-blue-900">{t('delegateOnboard.voteOnFeatures')}</p>
+                <p className="text-sm text-blue-700">{t('delegateOnboard.voteOnFeaturesDesc')}</p>
               </div>
             </div>
 
@@ -91,8 +91,8 @@ export function DelegateOnboarding({
                 </svg>
               </div>
               <div>
-                <p className="font-medium text-purple-900">Shape Union Direction</p>
-                <p className="text-sm text-purple-700">Vote on strategic decisions and policies</p>
+                <p className="font-medium text-purple-900">{t('delegateOnboard.shapeDirection')}</p>
+                <p className="text-sm text-purple-700">{t('delegateOnboard.shapeDirectionDesc')}</p>
               </div>
             </div>
 
@@ -103,8 +103,8 @@ export function DelegateOnboarding({
                 </svg>
               </div>
               <div>
-                <p className="font-medium text-red-900">Admin Accountability</p>
-                <p className="text-sm text-red-700">Vote to recall admins who don't serve tenants</p>
+                <p className="font-medium text-red-900">{t('delegateOnboard.adminAccountability')}</p>
+                <p className="text-sm text-red-700">{t('delegateOnboard.adminAccountabilityDesc')}</p>
               </div>
             </div>
           </div>
@@ -112,19 +112,19 @@ export function DelegateOnboarding({
 
         {/* Your Stats */}
         <div className="bg-gray-50 rounded-lg p-4">
-          <h4 className="text-sm font-semibold text-gray-700 mb-3">Your Representation</h4>
+          <h4 className="text-sm font-semibold text-gray-700 mb-3">{t('delegateOnboard.yourRepresentation')}</h4>
           <div className="grid grid-cols-3 gap-4 text-center">
             <div>
               <div className="text-2xl font-bold text-gray-900">{delegateProfile.verifiedTenantsRepresented}</div>
-              <div className="text-xs text-gray-500">Tenants</div>
+              <div className="text-xs text-gray-500">{t('delegateOnboard.tenants')}</div>
             </div>
             <div>
               <div className="text-2xl font-bold text-gray-900">{delegateProfile.blocs.length}</div>
-              <div className="text-xs text-gray-500">Blocs</div>
+              <div className="text-xs text-gray-500">{t('delegateOnboard.blocs')}</div>
             </div>
             <div>
               <div className="text-2xl font-bold text-gray-900">{delegateProfile.activityScore}</div>
-              <div className="text-xs text-gray-500">Activity</div>
+              <div className="text-xs text-gray-500">{t('delegateOnboard.activity')}</div>
             </div>
           </div>
         </div>
@@ -136,10 +136,9 @@ export function DelegateOnboarding({
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
             <div>
-              <p className="text-sm font-medium text-amber-900">The Bookchin Principle</p>
+              <p className="text-sm font-medium text-amber-900">{t('delegateOnboard.bookchinPrinciple')}</p>
               <p className="text-xs text-amber-700 mt-1">
-                Admins maintain the platform but cannot vote. Power flows from tenants through delegates like you.
-                Your voting weight represents the {delegateProfile.verifiedTenantsRepresented} tenants you've organized.
+                {t('delegateOnboard.bookchinDesc', { count: delegateProfile.verifiedTenantsRepresented.toString() })}
               </p>
             </div>
           </div>
@@ -160,8 +159,8 @@ export function DelegateOnboarding({
             </svg>
           </div>
           <div>
-            <h3 className="font-bold text-amber-900">Become a Delegate</h3>
-            <p className="text-sm text-amber-700">{completedCount}/3 requirements met</p>
+            <h3 className="font-bold text-amber-900">{t('delegateOnboard.becomeDelegate')}</h3>
+            <p className="text-sm text-amber-700">{t('delegateOnboard.requirementsMet', { count: completedCount.toString() })}</p>
           </div>
         </div>
         <div className="w-full bg-amber-200 rounded-full h-2">
@@ -174,14 +173,12 @@ export function DelegateOnboarding({
 
       {/* What is a Delegate */}
       <div className="bg-white rounded-lg border border-gray-200 p-4">
-        <h4 className="font-semibold text-gray-900 mb-2">What is a Delegate?</h4>
+        <h4 className="font-semibold text-gray-900 mb-2">{t('delegateOnboard.whatIsDelegate')}</h4>
         <p className="text-sm text-gray-600 mb-3">
-          Delegates are organizers who earn <strong>voting power</strong> by representing real tenants.
-          As a delegate, you can vote on app-wide decisions — which features to enable, strategic direction,
-          and even removing admins who don't serve tenants.
+          {t('delegateOnboard.whatIsDelegateDesc')}
         </p>
         <p className="text-sm text-gray-600">
-          <strong>Admins cannot vote</strong> (the Bookchin principle). Power flows from tenants through delegates.
+          {t('delegateOnboard.adminsCantVote')}
         </p>
       </div>
 
@@ -209,14 +206,14 @@ export function DelegateOnboarding({
               <div className="flex-1">
                 <div className="flex items-center justify-between">
                   <p className={`font-medium ${qualificationStatus.meetsTenantsThreshold ? 'text-green-800' : 'text-gray-900'}`}>
-                    Verify Tenants
+                    {t('delegateOnboard.verifyTenants')}
                   </p>
                   <span className="text-sm font-medium text-gray-600">
                     {delegateProfile.verifiedTenantsRepresented}/{thresholds.minVerifiedTenants}
                   </span>
                 </div>
                 <p className="text-xs text-gray-500 mt-1">
-                  Go door-to-door and mark tenants as "verified" in the unit tracker
+                  {t('delegateOnboard.verifyTenantsDesc')}
                 </p>
                 <div className="w-full bg-gray-200 rounded-full h-1.5 mt-2">
                   <div
@@ -233,7 +230,7 @@ export function DelegateOnboarding({
                 onClick={onNavigateToTools}
                 className="px-3 py-1.5 bg-rstu-red text-white text-xs font-medium rounded-lg hover:bg-red-700 flex-shrink-0"
               >
-                Start Canvassing
+                {t('delegateOnboard.startCanvassing')}
               </button>
             )}
           </div>
@@ -261,14 +258,14 @@ export function DelegateOnboarding({
               <div className="flex-1">
                 <div className="flex items-center justify-between">
                   <p className={`font-medium ${qualificationStatus.meetsBlocsThreshold ? 'text-green-800' : 'text-gray-900'}`}>
-                    Organize a Bloc
+                    {t('delegateOnboard.organizeBloc')}
                   </p>
                   <span className="text-sm font-medium text-gray-600">
                     {delegateProfile.blocs.length}/{thresholds.minBlocs}
                   </span>
                 </div>
                 <p className="text-xs text-gray-500 mt-1">
-                  Create or join a bloc — a group of tenants organizing together
+                  {t('delegateOnboard.organizeBlocDesc')}
                 </p>
                 <div className="w-full bg-gray-200 rounded-full h-1.5 mt-2">
                   <div
@@ -285,7 +282,7 @@ export function DelegateOnboarding({
                 onClick={onNavigateToBlocs}
                 className="px-3 py-1.5 bg-rstu-red text-white text-xs font-medium rounded-lg hover:bg-red-700 flex-shrink-0"
               >
-                Find Blocs
+{t('delegateOnboard.findBlocs')}
               </button>
             )}
           </div>
@@ -313,14 +310,14 @@ export function DelegateOnboarding({
               <div className="flex-1">
                 <div className="flex items-center justify-between">
                   <p className={`font-medium ${qualificationStatus.meetsActivityThreshold ? 'text-green-800' : 'text-gray-900'}`}>
-                    Build Activity Score
+                    {t('delegateOnboard.buildActivity')}
                   </p>
                   <span className="text-sm font-medium text-gray-600">
                     {delegateProfile.activityScore}/{thresholds.minActivityScore}
                   </span>
                 </div>
                 <p className="text-xs text-gray-500 mt-1">
-                  Create proposals (+10), vote on proposals (+2), organize buildings (+5)
+                  {t('delegateOnboard.buildActivityDesc')}
                 </p>
                 <div className="w-full bg-gray-200 rounded-full h-1.5 mt-2">
                   <div
@@ -337,7 +334,7 @@ export function DelegateOnboarding({
                 onClick={onNavigateToBuilding}
                 className="px-3 py-1.5 bg-rstu-red text-white text-xs font-medium rounded-lg hover:bg-red-700 flex-shrink-0"
               >
-                Get Active
+{t('delegateOnboard.getActive')}
               </button>
             )}
           </div>
@@ -346,19 +343,19 @@ export function DelegateOnboarding({
 
       {/* Activity Breakdown */}
       <div className="bg-gray-50 rounded-lg p-4">
-        <h4 className="text-sm font-semibold text-gray-700 mb-3">Your Activity So Far</h4>
+        <h4 className="text-sm font-semibold text-gray-700 mb-3">{t('delegateOnboard.activitySoFar')}</h4>
         <div className="grid grid-cols-3 gap-4 text-center">
           <div>
             <div className="text-xl font-bold text-gray-900">{delegateProfile.proposalsCreated}</div>
-            <div className="text-xs text-gray-500">Proposals (+10 ea)</div>
+            <div className="text-xs text-gray-500">{t('delegateOnboard.proposalsPoints')}</div>
           </div>
           <div>
             <div className="text-xl font-bold text-gray-900">{delegateProfile.votesParticipated}</div>
-            <div className="text-xs text-gray-500">Votes (+2 ea)</div>
+            <div className="text-xs text-gray-500">{t('delegateOnboard.votesPoints')}</div>
           </div>
           <div>
             <div className="text-xl font-bold text-gray-900">{delegateProfile.buildingsRepresented}</div>
-            <div className="text-xs text-gray-500">Buildings (+5 ea)</div>
+            <div className="text-xs text-gray-500">{t('delegateOnboard.buildingsPoints')}</div>
           </div>
         </div>
       </div>
@@ -370,11 +367,9 @@ export function DelegateOnboarding({
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
           </svg>
           <div>
-            <p className="text-sm font-medium text-blue-900">Why Delegate Status Matters</p>
+            <p className="text-sm font-medium text-blue-900">{t('delegateOnboard.whyMatters')}</p>
             <p className="text-xs text-blue-700 mt-1">
-              Your voting weight is calculated from the tenants you represent. This ensures decisions
-              reflect actual tenant power, not whoever has the most free time to click buttons.
-              The square root formula prevents any single organizer from dominating.
+              {t('delegateOnboard.whyMattersDesc')}
             </p>
           </div>
         </div>
