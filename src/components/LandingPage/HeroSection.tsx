@@ -12,8 +12,8 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative px-4 pt-4 bg-white min-h-[calc(100dvh-140px)] flex flex-col justify-between">
-      <div className="max-w-3xl mx-auto text-center w-full">
+    <section className="relative px-4 pt-4 sm:pt-6 pb-4 bg-white">
+      <div className="max-w-3xl mx-auto text-center">
         {/* RSTU Branding - Logo over Text */}
         <div className="mb-2 sm:mb-3 flex flex-col items-center">
           <img
@@ -51,7 +51,7 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
         />
 
         {/* Call to Action Buttons */}
-        <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 justify-center">
+        <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 justify-center mb-3 sm:mb-4">
           <button
             onClick={onEnter}
             className="px-6 py-2.5 bg-rstu-red text-white font-semibold rounded-lg hover:bg-red-700 transition-colors text-center"
@@ -65,18 +65,18 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
             {t('landing.hero.learnMore')}
           </button>
         </div>
-      </div>
 
-      {/* Scroll down arrow - pinned to bottom */}
-      <button
-        onClick={onScrollClick}
-        className="text-gray-400 hover:text-gray-600 transition-colors mx-auto block py-2"
-        aria-label="Scroll down"
-      >
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
-        </svg>
-      </button>
+        {/* Scroll down arrow */}
+        <button
+          onClick={onScrollClick}
+          className="text-gray-400 hover:text-gray-600 transition-colors mx-auto block"
+          aria-label="Scroll down"
+        >
+          <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+          </svg>
+        </button>
+      </div>
 
       {/* Decorative bottom line */}
       <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
