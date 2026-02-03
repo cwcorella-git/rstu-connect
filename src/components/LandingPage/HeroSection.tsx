@@ -6,49 +6,80 @@ import { EditableText } from '@/components/EditMode'
 interface HeroSectionProps {
   onScrollClick: () => void
   onEnter: () => void
+  showLogo?: boolean
+  headlineOverride?: string
+  taglineOverride?: string
+  missionOverride?: string
 }
 
-export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
+export function HeroSection({
+  onScrollClick,
+  onEnter,
+  showLogo = true,
+  headlineOverride,
+  taglineOverride,
+  missionOverride,
+}: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
     <section className="relative px-4 pt-8 sm:pt-8 lg:pt-10 pb-6 bg-white">
       <div className="max-w-3xl mx-auto text-center">
         {/* RSTU Branding - Logo over Text */}
-        <div className="mb-4 sm:mb-5 flex flex-col items-center">
-          <img
-            src="/rstu-connect/rstu-logo-only.png"
-            alt="RSTU"
-            className="h-36 sm:h-36 lg:h-40 w-auto"
-          />
-          <img
-            src="/rstu-connect/rstu-text-only.png"
-            alt="Reno-Sparks Tenants Union"
-            className="h-5 sm:h-7 lg:h-9 w-auto mt-3 sm:mt-3"
-          />
-        </div>
+        {showLogo && (
+          <div className="mb-4 sm:mb-5 flex flex-col items-center">
+            <img
+              src="/rstu-connect/rstu-logo-only.png"
+              alt="RSTU"
+              className="h-36 sm:h-36 lg:h-40 w-auto"
+            />
+            <img
+              src="/rstu-connect/rstu-text-only.png"
+              alt="Reno-Sparks Tenants Union"
+              className="h-5 sm:h-7 lg:h-9 w-auto mt-3 sm:mt-3"
+            />
+          </div>
+        )}
 
         {/* Main Headline */}
-        <EditableText
-          tKey="landing.hero.headline"
-          as="h1"
-          className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-2 sm:mb-3 leading-[1.1]"
-        />
+        {headlineOverride ? (
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-2 sm:mb-3 leading-[1.1]">
+            {headlineOverride}
+          </h1>
+        ) : (
+          <EditableText
+            tKey="landing.hero.headline"
+            as="h1"
+            className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-2 sm:mb-3 leading-[1.1]"
+          />
+        )}
 
         {/* Tagline */}
-        <EditableText
-          tKey="landing.hero.tagline"
-          as="p"
-          className="text-base sm:text-lg lg:text-xl text-rstu-red font-semibold mb-2 sm:mb-3"
-        />
+        {taglineOverride ? (
+          <p className="text-base sm:text-lg lg:text-xl text-rstu-red font-semibold mb-2 sm:mb-3">
+            {taglineOverride}
+          </p>
+        ) : (
+          <EditableText
+            tKey="landing.hero.tagline"
+            as="p"
+            className="text-base sm:text-lg lg:text-xl text-rstu-red font-semibold mb-2 sm:mb-3"
+          />
+        )}
 
         {/* Mission Statement */}
-        <EditableText
-          tKey="landing.hero.mission"
-          as="p"
-          className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto mb-5 sm:mb-6 leading-relaxed"
-          multiline
-        />
+        {missionOverride ? (
+          <p className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto mb-5 sm:mb-6 leading-relaxed">
+            {missionOverride}
+          </p>
+        ) : (
+          <EditableText
+            tKey="landing.hero.mission"
+            as="p"
+            className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto mb-5 sm:mb-6 leading-relaxed"
+            multiline
+          />
+        )}
 
         {/* Call to Action Buttons */}
         <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 justify-center mb-6 sm:mb-8">
