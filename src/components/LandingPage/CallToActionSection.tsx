@@ -12,7 +12,7 @@ export function CallToActionSection({ onEnter, onNavigate }: CallToActionSection
   const { t } = useLanguage()
 
   return (
-    <section className="py-12 sm:py-16 px-4 bg-gradient-to-br from-rstu-red to-red-700">
+    <section className="py-8 sm:py-10 px-4 bg-gradient-to-br from-rstu-red to-red-700">
       <div className="max-w-4xl mx-auto text-center">
         {/* Heading */}
         <EditableText

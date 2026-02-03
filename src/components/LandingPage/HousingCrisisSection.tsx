@@ -7,7 +7,7 @@ export function HousingCrisisSection() {
   const [expandData, setExpandData] = useState(false)
 
   return (
-    <section className="py-16 sm:py-20 px-4 bg-gray-50">
+    <section className="py-10 sm:py-12 px-4 bg-gray-50">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">

@@ -8,7 +8,7 @@ export function OrganizingWorksSection() {
   const { t } = useLanguage()
 
   return (
-    <section className="py-16 sm:py-20 px-4 bg-white">
+    <section className="py-10 sm:py-12 px-4 bg-white">
       <div className="max-w-4xl mx-auto">
         {/* Section Heading */}
         <EditableText

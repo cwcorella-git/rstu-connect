@@ -57,7 +57,7 @@ export function PhilosophySection() {
   const { t } = useLanguage()
 
   return (
-    <section className="py-16 sm:py-20 px-4 bg-white">
+    <section className="py-10 sm:py-12 px-4 bg-white">
       <div className="max-w-6xl mx-auto">
         {/* Opening Section */}
         <div className="max-w-3xl mx-auto mb-16">
