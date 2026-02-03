@@ -12,19 +12,19 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
   const { t } = useLanguage()
 
   return (
-    <section className="relative px-4 bg-white min-h-[calc(100vh-100px)] flex flex-col">
+    <section className="relative px-4 bg-white min-h-[calc(100dvh-180px)] flex flex-col">
       <div className="max-w-3xl mx-auto text-center flex flex-col flex-1 justify-center w-full">
         {/* RSTU Branding - Logo over Text */}
-        <div className="mb-2 sm:mb-3 flex flex-col items-center">
+        <div className="mb-2 flex flex-col items-center">
           <img
             src="/rstu-connect/rstu-logo-only.png"
             alt="RSTU"
-            className="h-24 sm:h-28 lg:h-32 w-auto"
+            className="h-20 sm:h-24 lg:h-28 w-auto"
           />
           <img
             src="/rstu-connect/rstu-text-only.png"
             alt="Reno-Sparks Tenants Union"
-            className="h-4 sm:h-5 lg:h-7 w-auto mt-1 sm:mt-1.5"
+            className="h-3.5 sm:h-4 lg:h-6 w-auto mt-1"
           />
         </div>
 
@@ -32,21 +32,21 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
         <EditableText
           tKey="landing.hero.headline"
           as="h1"
-          className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-900 mb-1.5 sm:mb-2 leading-[1.1]"
+          className="text-lg sm:text-xl lg:text-2xl font-bold text-gray-900 mb-1 sm:mb-1.5 leading-[1.1]"
         />
 
         {/* Tagline */}
         <EditableText
           tKey="landing.hero.tagline"
           as="p"
-          className="text-sm sm:text-base lg:text-lg text-rstu-red font-semibold mb-2 sm:mb-3"
+          className="text-sm sm:text-base text-rstu-red font-semibold mb-1.5 sm:mb-2"
         />
 
         {/* Mission Statement */}
         <EditableText
           tKey="landing.hero.mission"
           as="p"
-          className="text-xs sm:text-sm lg:text-base text-gray-600 max-w-xl mx-auto mb-3 sm:mb-4 leading-relaxed"
+          className="text-xs sm:text-sm text-gray-600 max-w-xl mx-auto mb-3 sm:mb-4 leading-relaxed"
           multiline
         />
 
@@ -70,7 +70,7 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
       {/* Scroll down arrow - pinned to bottom */}
       <button
         onClick={onScrollClick}
-        className="text-gray-400 hover:text-gray-600 transition-colors mx-auto block pb-3"
+        className="text-gray-400 hover:text-gray-600 transition-colors mx-auto block py-2"
         aria-label="Scroll down"
       >
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
