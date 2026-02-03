@@ -1,7 +1,8 @@
 'use client'
 
-import { useState, KeyboardEvent } from 'react'
+import { useState, useEffect, KeyboardEvent } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
+import { isAdmin as checkIsAdmin } from '@/lib/profileStorage'
 
 /**
  * EditModeIndicator - Shows a status bar when edit mode is active
@@ -21,8 +22,24 @@ export function EditModeIndicator() {
   } = useEditMode()
 
   const [tokenInput, setTokenInput] = useState('')
+  const [showAdminHint, setShowAdminHint] = useState(false)
 
-  if (!isEditMode) return null
+  useEffect(() => {
+    setShowAdminHint(checkIsAdmin())
+  }, [])
+
+  if (!isEditMode) {
+    if (showAdminHint) {
+      return (
+        <div className="sticky top-[57px] z-40 bg-gray-100 text-gray-400 text-xs px-4 py-1">
+          <div className="max-w-7xl mx-auto text-center">
+            <span className="font-mono bg-gray-200 px-1 rounded">Ctrl+Shift+E</span> to enter edit mode
+          </div>
+        </div>
+      )
+    }
+    return null
+  }
 
   const handleTokenSubmit = async () => {
     if (!tokenInput.trim()) return
@@ -172,7 +189,11 @@ export function EditModeIndicator() {
         {/* Right: Instructions and exit */}
         <div className="flex items-center gap-3">
           <span className="text-blue-200 text-xs hidden sm:inline">
-            Ctrl+Click to edit
+            <span className="font-mono bg-blue-700 px-1 rounded">Ctrl+Click</span> edit text
+            <span className="mx-1">·</span>
+            <span className="font-mono bg-blue-700 px-1 rounded">Esc</span> save &amp; close
+            <span className="mx-1">·</span>
+            drag edges to resize
           </span>
           <button
             onClick={clearToken}
