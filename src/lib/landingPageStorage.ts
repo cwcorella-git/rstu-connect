@@ -52,10 +52,36 @@ export const DEFAULT_PAGE_1: LandingPageConfig = {
   name: 'Default',
   sections: [
     { id: 'def-hero', type: 'hero', config: {} },
-    { id: 'def-rights', type: 'rights', config: {} },
-    { id: 'def-organizing', type: 'organizing', config: {} },
-    { id: 'def-crisis', type: 'crisis', config: {} },
-    { id: 'def-action', type: 'action', config: {} },
+    {
+      id: 'def-stronger',
+      type: 'text',
+      config: {
+        heading: "We're Stronger Together",
+        body: "As Reno renters face skyrocketing housing costs, limited housing supply, and state laws that put profits over people — we must band together to fight for safe, secure, affordable, and fair housing for all in the Reno-Sparks area.\n\nTogether, we can win safe, dignified, and affordable housing for all.",
+        bgColor: 'gray',
+      },
+    },
+    {
+      id: 'def-values',
+      type: 'cards',
+      config: {
+        heading: 'Our Core Values',
+        cards: [
+          {
+            title: 'Housing is a Human Right',
+            body: "Everyone deserves safe, stable, affordable housing regardless of circumstances. The commodification of housing has led to the vast inequality that we see today. We fight for a city in which no one is left without a home.",
+          },
+          {
+            title: "We're a Tenants Organization First and Foremost",
+            body: "We fight for tenants, not for housing. The crisis in our region is not solely due to a lack of housing and will not be solved simply with more development. True justice will only be achieved by giving power to tenants to control their own housing.",
+          },
+          {
+            title: 'Houselessness is the Result of the Commodification of Housing',
+            body: "Houselessness is an inevitable consequence of treating housing like a commodity. We oppose any laws and policies that criminalize houselessness or target unhoused people for harassment. We are fighting for a future where houselessness ends because everyone has a home.",
+          },
+        ],
+      },
+    },
     { id: 'def-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',

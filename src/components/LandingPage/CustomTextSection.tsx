@@ -77,7 +77,7 @@ export function CustomTextSection({ config, onConfigChange }: CustomTextSectionP
         >
           {heading}
         </h2>
-        <p
+        <div
           ref={bodyRef}
           contentEditable={isEditMode ? 'plaintext-only' : undefined}
           suppressContentEditableWarning
@@ -86,8 +86,12 @@ export function CustomTextSection({ config, onConfigChange }: CustomTextSectionP
             isEditMode ? 'outline-dashed outline-2 outline-blue-300 outline-offset-2 cursor-text' : ''
           }`}
         >
-          {body}
-        </p>
+          {body.split('\n').map((paragraph, i) => (
+            <p key={i} className={i > 0 ? 'mt-4' : ''}>
+              {paragraph}
+            </p>
+          ))}
+        </div>
       </div>
     </section>
   )
