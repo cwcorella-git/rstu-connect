@@ -24,7 +24,7 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
           <img
             src="/rstu-connect/rstu-text-only.png"
             alt="Reno-Sparks Tenants Union"
-            className="h-5 sm:h-7 lg:h-9 w-auto mt-1.5 sm:mt-2"
+            className="h-5 sm:h-7 lg:h-9 w-auto mt-2 sm:mt-3"
           />
         </div>
 
@@ -51,7 +51,7 @@ export function HeroSection({ onScrollClick, onEnter }: HeroSectionProps) {
         />
 
         {/* Call to Action Buttons */}
-        <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 justify-center mb-3 sm:mb-4">
+        <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 justify-center mb-4 sm:mb-6">
           <button
             onClick={onEnter}
             className="px-6 py-2.5 bg-rstu-red text-white font-semibold rounded-lg hover:bg-red-700 transition-colors text-center"
