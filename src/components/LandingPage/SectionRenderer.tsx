@@ -2,6 +2,7 @@
 
 import { SectionDescriptor } from '@/lib/landingPageStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { ColumnsSection } from './ColumnsSection'
 import { HeroSection } from './HeroSection'
 import { RightsSection } from './RightsSection'
 import { OrganizingWorksSection } from './OrganizingWorksSection'
@@ -30,6 +31,7 @@ function getLocalizedText(value: unknown, locale: string): string | undefined {
 
 interface SectionRendererProps {
   section: SectionDescriptor
+  nested?: boolean
   onEnter: () => void
   onNavigate: (tab: string) => void
   onScrollClick: () => void
@@ -38,6 +40,7 @@ interface SectionRendererProps {
 
 export function SectionRenderer({
   section,
+  nested,
   onEnter,
   onNavigate,
   onScrollClick,
@@ -51,6 +54,18 @@ export function SectionRenderer({
   }
 
   switch (type) {
+    case 'columns':
+      // Guard: columns cannot be nested
+      if (nested) return <div className="py-4 text-center text-gray-400 text-sm">Columns cannot be nested</div>
+      return (
+        <ColumnsSection
+          section={section}
+          config={config}
+          onConfigChange={handleConfigChange}
+          onEnter={onEnter}
+          onNavigate={onNavigate}
+        />
+      )
     case 'hero':
       return (
         <HeroSection
@@ -87,6 +102,7 @@ export function SectionRenderer({
         <CustomTextSection
           config={config}
           onConfigChange={handleConfigChange}
+          nested={nested}
         />
       )
     case 'cards':
@@ -94,6 +110,7 @@ export function SectionRenderer({
         <CustomCardsSection
           config={config}
           onConfigChange={handleConfigChange}
+          nested={nested}
         />
       )
     case 'image-banner':
@@ -101,6 +118,7 @@ export function SectionRenderer({
         <ImageBannerSection
           config={config}
           onConfigChange={handleConfigChange}
+          nested={nested}
         />
       )
     case 'how-it-works':

@@ -7,6 +7,7 @@ import { useLanguage } from '@/contexts/LanguageContext'
 interface ImageBannerSectionProps {
   config: Record<string, unknown>
   onConfigChange: (config: Record<string, unknown>) => void
+  nested?: boolean
 }
 
 // Get localized text with fallback: current locale -> 'en' -> legacy string
@@ -35,7 +36,7 @@ function setLocalizedText(
   return { ...config, [key]: localized }
 }
 
-export function ImageBannerSection({ config, onConfigChange }: ImageBannerSectionProps) {
+export function ImageBannerSection({ config, onConfigChange, nested }: ImageBannerSectionProps) {
   const { isEditMode } = useEditMode()
   const { locale } = useLanguage()
   const textRef = useRef<HTMLHeadingElement>(null)
@@ -53,16 +54,16 @@ export function ImageBannerSection({ config, onConfigChange }: ImageBannerSectio
 
   return (
     <section
-      className="py-12 sm:py-16 px-4"
+      className={nested ? 'py-6 px-2' : 'py-12 sm:py-16 px-4'}
       style={{ backgroundColor: bgColor }}
     >
-      <div className="max-w-4xl mx-auto text-center">
+      <div className={`${nested ? 'max-w-full' : 'max-w-4xl mx-auto'} text-center`}>
         <h2
           ref={textRef}
           contentEditable={isEditMode ? 'plaintext-only' : undefined}
           suppressContentEditableWarning
           onBlur={handleBlur}
-          className={`text-2xl sm:text-3xl lg:text-4xl font-bold leading-tight ${
+          className={`${nested ? 'text-lg sm:text-xl' : 'text-2xl sm:text-3xl lg:text-4xl'} font-bold leading-tight ${
             isEditMode ? 'outline-dashed outline-2 outline-white/50 outline-offset-4 cursor-text' : ''
           }`}
           style={{ color: textColor }}

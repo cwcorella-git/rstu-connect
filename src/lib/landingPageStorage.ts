@@ -34,6 +34,7 @@ function uid() {
 }
 
 export const SECTION_TYPES = [
+  { type: 'columns', label: 'Column Row' },
   { type: 'hero', label: 'Hero' },
   { type: 'rights', label: 'Tenant Rights' },
   { type: 'organizing', label: 'Organizing Works' },
@@ -48,6 +49,47 @@ export const SECTION_TYPES = [
   { type: 'cards', label: 'Custom Cards' },
   { type: 'image-banner', label: 'Image Banner' },
   { type: 'how-it-works', label: 'How It Works' },
+] as const
+
+export const COLUMN_LAYOUTS = [
+  { id: '1-1',     label: 'Two Equal',    cols: 2, template: '1fr 1fr' },
+  { id: '1-2',     label: 'Narrow + Wide', cols: 2, template: '1fr 2fr' },
+  { id: '2-1',     label: 'Wide + Narrow', cols: 2, template: '2fr 1fr' },
+  { id: '1-1-1',   label: 'Three Equal',  cols: 3, template: '1fr 1fr 1fr' },
+  { id: '1-1-1-1', label: 'Four Equal',   cols: 4, template: '1fr 1fr 1fr 1fr' },
+] as const
+
+export const SECTION_CATEGORIES = [
+  {
+    label: 'Layout',
+    items: [
+      { type: 'columns', label: 'Column Row', description: 'Multi-column layout row' },
+    ],
+  },
+  {
+    label: 'Content',
+    items: [
+      { type: 'text', label: 'Custom Text', description: 'Heading and body text' },
+      { type: 'cards', label: 'Custom Cards', description: 'Grid of editable cards' },
+      { type: 'image-banner', label: 'Image Banner', description: 'Full-width colored banner' },
+      { type: 'hero', label: 'Hero', description: 'Logo, headline, and CTAs' },
+      { type: 'cta', label: 'Call to Action', description: 'Main call-to-action block' },
+    ],
+  },
+  {
+    label: 'Prebuilt',
+    items: [
+      { type: 'rights', label: 'Tenant Rights', description: 'Nevada tenant rights listing' },
+      { type: 'organizing', label: 'Organizing Works', description: 'How organizing works overview' },
+      { type: 'crisis', label: 'Local Crisis', description: 'Reno housing crisis stats' },
+      { type: 'action', label: 'What You Can Do', description: 'Legal help and resources' },
+      { type: 'mission', label: 'Mission Statement', description: 'Mission, vision, principles' },
+      { type: 'values', label: 'Core Values', description: 'Racial justice, anti-gentrification' },
+      { type: 'philosophy', label: 'Philosophy', description: 'Municipalism, mutual aid, dual power' },
+      { type: 'readings', label: 'Featured Readings', description: 'Curated document highlights' },
+      { type: 'how-it-works', label: 'How It Works', description: '6-step feature tour' },
+    ],
+  },
 ] as const
 
 export const DEFAULT_PAGE_1: LandingPageConfig = {
@@ -290,7 +332,17 @@ export function createBlankPage(name: string): LandingPageConfig {
 
 export function createSection(type: string): SectionDescriptor {
   const base: SectionDescriptor = { id: uid(), type, config: {} }
-  if (type === 'text') {
+  if (type === 'columns') {
+    base.config = {
+      layout: '1-1',
+      columns: [
+        { id: uid(), type: 'text', config: { heading: 'Column 1', body: 'Content here.', bgColor: 'white' } },
+        { id: uid(), type: 'text', config: { heading: 'Column 2', body: 'Content here.', bgColor: 'white' } },
+      ],
+      gap: 'md',
+      bgColor: 'transparent',
+    }
+  } else if (type === 'text') {
     base.config = { heading: 'New Section', body: 'Add your content here.', bgColor: 'white' }
   } else if (type === 'cards') {
     base.config = {

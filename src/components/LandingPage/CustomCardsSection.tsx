@@ -13,6 +13,7 @@ interface LocalizedCardData {
 interface CustomCardsSectionProps {
   config: Record<string, unknown>
   onConfigChange: (config: Record<string, unknown>) => void
+  nested?: boolean
 }
 
 // Get localized text with fallback: current locale -> 'en' -> legacy string
@@ -39,7 +40,7 @@ function setLocalizedValue(
   return localized
 }
 
-export function CustomCardsSection({ config, onConfigChange }: CustomCardsSectionProps) {
+export function CustomCardsSection({ config, onConfigChange, nested }: CustomCardsSectionProps) {
   const { isEditMode } = useEditMode()
   const { locale } = useLanguage()
   const headingRef = useRef<HTMLHeadingElement>(null)
@@ -90,14 +91,14 @@ export function CustomCardsSection({ config, onConfigChange }: CustomCardsSectio
                    'sm:grid-cols-2 lg:grid-cols-4'
 
   return (
-    <section className="py-10 sm:py-12 px-4 bg-white">
-      <div className="max-w-5xl mx-auto">
+    <section className={`${nested ? 'py-4 px-2' : 'py-10 sm:py-12 px-4'} bg-white`}>
+      <div className={nested ? 'max-w-full' : 'max-w-5xl mx-auto'}>
         <h2
           ref={headingRef}
           contentEditable={isEditMode ? 'plaintext-only' : undefined}
           suppressContentEditableWarning
           onBlur={handleHeadingBlur}
-          className={`text-2xl sm:text-3xl font-bold text-gray-900 mb-6 text-center ${
+          className={`${nested ? 'text-lg sm:text-xl' : 'text-2xl sm:text-3xl'} font-bold text-gray-900 mb-6 text-center ${
             isEditMode ? 'outline-dashed outline-2 outline-blue-300 outline-offset-2 cursor-text' : ''
           }`}
         >

@@ -7,6 +7,7 @@ import { useLanguage } from '@/contexts/LanguageContext'
 interface CustomTextSectionProps {
   config: Record<string, unknown>
   onConfigChange: (config: Record<string, unknown>) => void
+  nested?: boolean
 }
 
 // Get localized text with fallback: current locale -> 'en' -> legacy string
@@ -36,7 +37,7 @@ function setLocalizedText(
   return { ...config, [key]: localized }
 }
 
-export function CustomTextSection({ config, onConfigChange }: CustomTextSectionProps) {
+export function CustomTextSection({ config, onConfigChange, nested }: CustomTextSectionProps) {
   const { isEditMode } = useEditMode()
   const { locale } = useLanguage()
   const headingRef = useRef<HTMLHeadingElement>(null)
@@ -64,14 +65,14 @@ export function CustomTextSection({ config, onConfigChange }: CustomTextSectionP
   const bgClass = bgColor === 'gray' ? 'bg-gray-50' : 'bg-white'
 
   return (
-    <section className={`py-10 sm:py-12 px-4 ${bgClass}`}>
-      <div className="max-w-3xl mx-auto text-center">
+    <section className={`${nested ? 'py-4 px-2' : 'py-10 sm:py-12 px-4'} ${bgClass}`}>
+      <div className={`${nested ? 'max-w-full' : 'max-w-3xl mx-auto'} text-center`}>
         <h2
           ref={headingRef}
           contentEditable={isEditMode ? 'plaintext-only' : undefined}
           suppressContentEditableWarning
           onBlur={handleBlur}
-          className={`text-2xl sm:text-3xl font-bold text-gray-900 mb-3 sm:mb-4 ${
+          className={`${nested ? 'text-lg sm:text-xl' : 'text-2xl sm:text-3xl'} font-bold text-gray-900 mb-3 sm:mb-4 ${
             isEditMode ? 'outline-dashed outline-2 outline-blue-300 outline-offset-2 cursor-text' : ''
           }`}
         >
@@ -82,7 +83,7 @@ export function CustomTextSection({ config, onConfigChange }: CustomTextSectionP
           contentEditable={isEditMode ? 'plaintext-only' : undefined}
           suppressContentEditableWarning
           onBlur={handleBlur}
-          className={`text-base sm:text-lg text-gray-600 leading-relaxed ${
+          className={`${nested ? 'text-sm' : 'text-base sm:text-lg'} text-gray-600 leading-relaxed ${
             isEditMode ? 'outline-dashed outline-2 outline-blue-300 outline-offset-2 cursor-text' : ''
           }`}
         >

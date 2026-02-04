@@ -18,7 +18,9 @@ import {
 import { PageSelector } from './PageSelector'
 import { SectionRenderer } from './SectionRenderer'
 import { SectionControls } from './SectionControls'
+import { SectionSettingsPanel } from './SectionSettingsPanel'
 import { AddSectionButton } from './AddSectionButton'
+import { EmptyPageState } from './EmptyPageState'
 
 interface LandingPageProps {
   onEnter: () => void
@@ -31,6 +33,7 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
   const [admin, setAdmin] = useState(false)
   const [pages, setPages] = useState<LandingPageConfig[]>([])
   const [activePageId, setActivePageIdState] = useState('page-1')
+  const [settingsOpenForId, setSettingsOpenForId] = useState<string | null>(null)
 
   // Load pages on mount
   useEffect(() => {
@@ -141,14 +144,27 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
           <div key={section.id} id={`section-${section.id}`} className="relative">
             {/* Section controls (edit mode only) */}
             {admin && isEditMode && (
-              <SectionControls
-                index={i}
-                total={activePage.sections.length}
-                sectionType={section.type}
-                onMoveUp={() => handleMoveSection(i, -1)}
-                onMoveDown={() => handleMoveSection(i, 1)}
-                onRemove={() => handleRemoveSection(i)}
-              />
+              <>
+                <SectionControls
+                  index={i}
+                  total={activePage.sections.length}
+                  sectionType={section.type}
+                  onMoveUp={() => handleMoveSection(i, -1)}
+                  onMoveDown={() => handleMoveSection(i, 1)}
+                  onRemove={() => handleRemoveSection(i)}
+                  onOpenSettings={() => setSettingsOpenForId(
+                    settingsOpenForId === section.id ? null : section.id
+                  )}
+                  settingsOpen={settingsOpenForId === section.id}
+                />
+                {settingsOpenForId === section.id && (
+                  <SectionSettingsPanel
+                    section={section}
+                    onConfigChange={(config) => handleSectionConfigChange(section.id, config)}
+                    onClose={() => setSettingsOpenForId(null)}
+                  />
+                )}
+              </>
             )}
 
             <SectionRenderer
@@ -166,11 +182,9 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
           </div>
         ))}
 
-        {/* Add section at the beginning if page is empty */}
+        {/* Prominent empty state when page has no sections */}
         {admin && isEditMode && activePage.sections.length === 0 && (
-          <div className="py-20">
-            <AddSectionButton onAdd={(type) => handleAddSection(-1, type)} />
-          </div>
+          <EmptyPageState onAddSection={(type) => handleAddSection(-1, type)} />
         )}
       </div>
     </div>
