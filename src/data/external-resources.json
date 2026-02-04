@@ -4,7 +4,7 @@
       "id": "ext-trinity-episcopal",
       "type": "external",
       "name": "Trinity Episcopal Cathedral",
-      "description": "Free bag lunches, coffee, and dog/cat food. No ID required, everyone welcome. Historic cathedral overlooking the Truckee River in downtown Reno.",
+      "description": "Historic Episcopal cathedral overlooking the Truckee River in downtown Reno, operating a Sack Lunch Ministry that distributes free bag lunches, coffee, and pet food three days a week. Also runs a Clothes Closet providing free clothing on the 2nd Saturday of each month, a Baby Bundles program for disadvantaged new parents, and food collection for St. Paul's Food Pantry in Sparks.",
       "category": "food",
       "contacts": [
         {
@@ -22,6 +22,10 @@
         {
           "type": "address",
           "value": "200 Island Ave, Reno, NV 89501"
+        },
+        {
+          "type": "email",
+          "value": "office@trinityreno.org"
         }
       ],
       "serviceArea": "Reno",
@@ -29,22 +33,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Almuerzos gratuitos en bolsa, café y alimento para perros/gatos. No se requiere identificación, todos son bienvenidos. Catedral histórica con vista al río Truckee en el centro de Reno.",
+          "description": "Catedral episcopal historica con vista al rio Truckee en el centro de Reno, que opera un Ministerio de Almuerzos en Bolsa que distribuye almuerzos en bolsa gratuitos, cafe y alimento para mascotas tres dias a la semana. Tambien administra un Armario de Ropa que proporciona ropa gratuita el segundo sabado de cada mes, un programa Baby Bundles para nuevos padres desfavorecidos y recoleccion de alimentos para la Despensa de Alimentos de St. Paul's en Sparks.",
           "eligibility": "No se requiere identificación, todos bienvenidos",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Libreng bag lunch, kape, at pagkain ng aso/pusa. Hindi kailangan ng ID, lahat ay welcome. Makasaysayang katedral na nakatanaw sa Truckee River sa downtown Reno.",
+          "description": "Makasaysayang Episcopal cathedral na nakatanaw sa Truckee River sa downtown Reno, na nagpapatakbo ng Sack Lunch Ministry na namamahagi ng libreng bag lunches, kape, at pagkain ng alagang hayop tatlong beses sa isang linggo. Nagpapatakbo rin ng Clothes Closet na nagbibigay ng libreng damit sa ika-2 Sabado ng bawat buwan, isang Baby Bundles program para sa mga disadvantaged na bagong magulang, at food collection para sa St. Paul's Food Pantry sa Sparks.",
           "eligibility": "Hindi kailangan ng ID, lahat ay welcome",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "免费袋装午餐、咖啡和猫狗粮。无需身份证件，欢迎所有人。位于里诺市中心，俯瞰特拉基河的历史大教堂。",
+          "description": "俯瞰里诺市中心特拉基河的历史性圣公会大教堂，运营袋装午餐事工，每周三天分发免费袋装午餐、咖啡和宠物食品。还运营衣物衣柜（每月第二个星期六提供免费衣物）、为弱势新生儿父母提供的Baby Bundles项目和为斯帕克斯St. Paul's食品储藏室收集食物。",
           "eligibility": "无需身份证件，欢迎所有人",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Bữa trưa miễn phí, cà phê và thức ăn cho chó/mèo. Không cần giấy tờ tùy thân, chào đón tất cả mọi người. Nhà thờ lịch sử nhìn ra sông Truckee ở trung tâm Reno.",
+          "description": "Nha tho lon Episcopal lich su nhin ra song Truckee o trung tam Reno, dieu hanh Muc vu Bua trua Tui phan phoi bua trua mien phi, ca phe va thuc an cho thu cung ba ngay moi tuan. Cung dieu hanh Tu do Quan ao cung cap quan ao mien phi vao thu Bay thu 2 moi thang, chuong trinh Baby Bundles cho cha me moi thieu thon va thu gom thuc pham cho Kho thuc pham St. Paul's tai Sparks.",
           "eligibility": "Không cần giấy tờ tùy thân, chào đón tất cả",
           "serviceArea": "Reno"
         }
@@ -54,7 +58,7 @@
       "id": "ext-st-vincent-dining",
       "type": "external",
       "name": "St. Vincent's Dining Room",
-      "description": "Free hot lunch served daily, providing over 500 meals per day to anyone in need. Operated by Catholic Charities of Northern Nevada. Everyone welcome, 7 days a week, no questions asked.",
+      "description": "Reno's longest-running free meal program, established in 1961, operated by Catholic Charities of Northern Nevada. Serves approximately 1,400 free hot take-out style meals daily to anyone who is hungry -- no questions asked, no ID required. Open 7 days a week including holidays, having served more than 3 million meals since its founding.",
       "category": "food",
       "contacts": [
         {
@@ -63,7 +67,7 @@
         },
         {
           "type": "phone",
-          "value": "(775) 786-5266"
+          "value": "(775) 329-5363"
         },
         {
           "type": "website",
@@ -79,22 +83,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Almuerzo caliente gratuito servido diariamente, proporcionando más de 500 comidas por día a cualquier persona que lo necesite. Operado por Catholic Charities of Northern Nevada. Todos son bienvenidos, los 7 días de la semana, sin preguntas.",
+          "description": "El programa de comidas gratuitas mas antiguo de Reno, establecido en 1961, operado por Catholic Charities of Northern Nevada. Sirve aproximadamente 1,400 comidas calientes gratuitas estilo para llevar diariamente a cualquier persona que tenga hambre -- sin preguntas, sin identificacion requerida. Abierto los 7 dias de la semana incluyendo dias festivos, habiendo servido mas de 3 millones de comidas desde su fundacion.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Libreng mainit na tanghalian araw-araw, nagbibigay ng mahigit 500 na pagkain bawat araw sa sinumang nangangailangan. Pinapatakbo ng Catholic Charities of Northern Nevada. Lahat ay welcome, 7 araw sa isang linggo, walang tanungan.",
+          "description": "Ang pinakamatagal na libreng meal program ng Reno, itinatag noong 1961, pinapatakbo ng Catholic Charities of Northern Nevada. Nagsisilbi ng humigit-kumulang 1,400 libreng mainit na take-out style meals araw-araw sa sinumang nagugutom -- walang tanungan, walang ID na kailangan. Bukas 7 araw sa isang linggo kasama ang mga holiday, nakapagsilbi na ng mahigit 3 milyong pagkain mula nang itatag.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "每日免费提供热午餐，每天为有需要的人提供500多份餐食。由北内华达天主教慈善机构运营。欢迎所有人，每周7天，无需询问。",
+          "description": "里诺历史最悠久的免费餐食项目，成立于1961年，由北内华达州天主教慈善机构运营。每天为任何饥饿的人提供约1,400份免费热外带餐——不问任何问题，不需要身份证件。每周7天开放，包括节假日，自成立以来已提供300多万份餐食。",
           "eligibility": "欢迎所有人",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Bữa trưa nóng miễn phí mỗi ngày, cung cấp hơn 500 bữa ăn cho bất kỳ ai cần. Do Catholic Charities of Northern Nevada vận hành. Chào đón tất cả, 7 ngày/tuần, không hỏi gì.",
+          "description": "Chuong trinh bua an mien phi lau doi nhat cua Reno, thanh lap nam 1961, do Catholic Charities of Northern Nevada dieu hanh. Phuc vu khoang 1.400 bua an nong mien phi kieu mang di moi ngay cho bat ky ai doi -- khong hoi gi, khong can giay to. Mo 7 ngay mot tuan ke ca ngay le, da phuc vu hon 3 trieu bua an tu khi thanh lap.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Reno"
         }
@@ -104,7 +108,7 @@
       "id": "ext-family-soup",
       "type": "external",
       "name": "Family Soup at Believe Plaza",
-      "description": "Free dinner served every Tuesday evening. Community meal for anyone in need. Also distributes harm reduction supplies (Narcan, fentanyl test strips). Run by volunteers and community members.",
+      "description": "All-volunteer grassroots mutual aid group serving free hot home-cooked meals, hygiene supplies, warm clothing, harm reduction supplies (Narcan, fentanyl test strips), and other necessities every Tuesday at Believe Plaza in downtown Reno. Serves 100+ people weekly and has operated continuously for over four years. Entirely funded by community donations.",
       "category": "food",
       "contacts": [
         {
@@ -114,6 +118,11 @@
         {
           "type": "address",
           "value": "10 N Virginia St, Reno, NV 89501"
+        },
+        {
+          "type": "website",
+          "value": "https://www.instagram.com/familysoupmutualaid/",
+          "label": "Instagram (primary contact)"
         }
       ],
       "serviceArea": "Reno",
@@ -121,22 +130,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Cena gratuita servida todos los martes por la noche. Comida comunitaria para cualquier persona que lo necesite. También distribuye suministros de reducción de daños (Narcan, tiras de prueba de fentanilo). Organizada por voluntarios y miembros de la comunidad.",
+          "description": "Grupo de ayuda mutua comunitario compuesto enteramente por voluntarios que sirve comidas calientes caseras gratuitas, suministros de higiene, ropa abrigada, suministros de reduccion de danos (Narcan, tiras de prueba de fentanilo) y otras necesidades todos los martes en Believe Plaza en el centro de Reno. Sirve a mas de 100 personas semanalmente y ha operado continuamente durante mas de cuatro anos. Financiado enteramente por donaciones comunitarias.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Libreng hapunan tuwing Martes ng gabi. Pagkain para sa komunidad para sa sinumang nangangailangan. Nagbibigay din ng harm reduction supplies (Narcan, fentanyl test strips). Pinapatakbo ng mga boluntaryo at miyembro ng komunidad.",
+          "description": "All-volunteer grassroots mutual aid group na nagsisilbi ng libreng mainit na lutong-bahay na pagkain, hygiene supplies, mainit na damit, harm reduction supplies (Narcan, fentanyl test strips), at iba pang pangangailangan tuwing Martes sa Believe Plaza sa downtown Reno. Nagsisilbi sa 100+ na tao bawat linggo at patuloy na gumagana sa loob ng apat na taon. Ganap na pinopondohan ng mga donasyon mula sa komunidad.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "每周二晚间提供免费晚餐。面向任何有需要的人的社区餐食。同时分发减害用品（Narcan、芬太尼试纸）。由志愿者和社区成员运营。",
+          "description": "全志愿者基层互助团体，每周二在里诺市中心Believe Plaza提供免费热家常餐、卫生用品、保暖衣物、减害用品（纳洛酮、芬太尼测试条）和其他必需品。每周服务100多人，已持续运营四年以上。完全由社区捐款资助。",
           "eligibility": "欢迎所有人",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Bữa tối miễn phí mỗi tối thứ Ba. Bữa ăn cộng đồng dành cho bất kỳ ai cần. Cũng phân phối vật tư giảm hại (Narcan, que thử fentanyl). Do tình nguyện viên và thành viên cộng đồng điều hành.",
+          "description": "Nhom tuong tro co so tu nguyen phuc vu bua an nong nau tai nha mien phi, vat dung ve sinh, quan ao am, vat tu giam hai (Narcan, que thu fentanyl) va cac nhu yeu pham khac moi thu Ba tai Believe Plaza o trung tam Reno. Phuc vu hon 100 nguoi moi tuan va da hoat dong lien tuc hon bon nam. Hoan toan duoc tai tro boi cac khoan quyen gop cong dong.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Reno"
         }
@@ -146,12 +155,12 @@
       "id": "ext-mutual-aid-mondays",
       "type": "external",
       "name": "Mutual Aid Mondays at Our Center",
-      "description": "Weekly mutual aid gathering every Monday at 5PM. A collaborative space to strengthen community through sharing knowledge, resources, and wisdom. All ages and identities welcome.",
+      "description": "Weekly mutual aid gathering every Monday evening at Our Center, Reno's LGBTQ+ community center. A collaborative space to strengthen community through sharing knowledge, resources, and wisdom. Open to all ages and identities -- attendees share what they can and take what they need.",
       "category": "food",
       "contacts": [
         {
           "type": "hours",
-          "value": "5:00 PM, Mondays"
+          "value": "Mondays 6:00-7:00 PM"
         },
         {
           "type": "website",
@@ -171,22 +180,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Encuentro semanal de ayuda mutua cada lunes a las 5PM. Un espacio colaborativo para fortalecer la comunidad compartiendo conocimiento, recursos y sabiduría. Todas las edades e identidades son bienvenidas.",
+          "description": "Reunion semanal de ayuda mutua todos los lunes por la noche en Our Center, el centro comunitario LGBTQ+ de Reno. Un espacio colaborativo para fortalecer la comunidad compartiendo conocimientos, recursos y sabiduria. Abierto a todas las edades e identidades -- los asistentes comparten lo que pueden y toman lo que necesitan.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Lingguhang mutual aid na pagtitipon tuwing Lunes ng 5PM. Isang collaborative na espasyo para palakasin ang komunidad sa pamamagitan ng pagbabahagi ng kaalaman, resources, at karunungan. Lahat ng edad at pagkakakilanlan ay welcome.",
+          "description": "Lingguhang mutual aid gathering tuwing Lunes ng gabi sa Our Center, ang LGBTQ+ community center ng Reno. Isang collaborative space para palakasin ang komunidad sa pamamagitan ng pagbabahagi ng kaalaman, resources, at karunungan. Bukas sa lahat ng edad at identidad -- ang mga dumadalo ay nagbabahagi ng kaya nila at kumukuha ng kailangan nila.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "每周一下午5点的互助聚会。一个通过分享知识、资源和智慧来加强社区的协作空间。欢迎所有年龄和身份的人。",
+          "description": "每周一晚上在Our Center（里诺LGBTQ+社区中心）举行的互助聚会。通过分享知识、资源和智慧来加强社区的协作空间。欢迎所有年龄和身份的人——参与者分享所能、各取所需。",
           "eligibility": "欢迎所有人",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Buổi tương trợ hàng tuần vào thứ Hai lúc 5 giờ chiều. Không gian hợp tác để củng cố cộng đồng thông qua chia sẻ kiến thức, tài nguyên và trí tuệ. Mọi lứa tuổi và bản sắc đều được chào đón.",
+          "description": "Buoi hop tuong tro hang tuan vao moi toi thu Hai tai Our Center, trung tam cong dong LGBTQ+ cua Reno. Khong gian hop tac de cung co cong dong thong qua chia se kien thuc, nguon luc va tri tue. Mo cho tat ca moi lua tuoi va ban sac -- nguoi tham du chia se nhung gi co the va nhan nhung gi can.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Reno"
         }
@@ -196,7 +205,7 @@
       "id": "ext-food-bank",
       "type": "external",
       "name": "Food Bank of Northern Nevada",
-      "description": "Food distribution, mobile pantries, and emergency food assistance serving 160,000+ people monthly across 13 Nevada counties and 10 California counties. Note: Food distributions are NOT held at the warehouse - use their Food Finder tool.",
+      "description": "Largest hunger-relief organization in the region, distributing food through a network of 155+ partner agencies across 90,000 square miles spanning 13 Nevada counties and 10 eastern California counties. Serves over 155,000 people monthly through mobile pantries, neighborhood pantries, and emergency food assistance. Food distributions are NOT held at the warehouse -- use their online Food Finder tool to locate nearby distribution sites.",
       "category": "food",
       "contacts": [
         {
@@ -214,25 +223,29 @@
         {
           "type": "address",
           "value": "550 Italy Dr, Sparks, NV 89437"
+        },
+        {
+          "type": "email",
+          "value": "info@fbnn.org"
         }
       ],
       "serviceArea": "Northern Nevada & Eastern Sierra",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Distribución de alimentos, despensas móviles y asistencia alimentaria de emergencia sirviendo a más de 160,000 personas mensualmente en 13 condados de Nevada y 10 condados de California. Nota: Las distribuciones de alimentos NO se realizan en el almacén - use su herramienta Food Finder.",
+          "description": "La organizacion de alivio del hambre mas grande de la region, distribuyendo alimentos a traves de una red de mas de 155 agencias asociadas en 90,000 millas cuadradas que abarcan 13 condados de Nevada y 10 del este de California. Sirve a mas de 155,000 personas mensualmente a traves de despensas moviles, despensas de vecindario y asistencia alimentaria de emergencia. Las distribuciones NO se realizan en el almacen -- use su herramienta Food Finder en linea para localizar sitios de distribucion cercanos.",
           "serviceArea": "Norte de Nevada y Sierra Oriental"
         },
         "tl": {
-          "description": "Pamamahagi ng pagkain, mobile pantries, at emergency food assistance na nagsisilbi sa mahigit 160,000 na tao buwan-buwan sa 13 county ng Nevada at 10 county ng California. Paalala: Ang pamamahagi ng pagkain ay HINDI ginaganap sa warehouse - gamitin ang kanilang Food Finder tool.",
+          "description": "Pinakamalaking hunger-relief organization sa rehiyon, namamahagi ng pagkain sa pamamagitan ng network ng 155+ na kasosyong ahensya sa 90,000 square miles na sumasaklaw sa 13 county ng Nevada at 10 county ng silangang California. Nagsisilbi sa mahigit 155,000 tao buwan-buwan sa pamamagitan ng mobile pantries, neighborhood pantries, at emergency food assistance. Ang mga distribusyon ay HINDI ginaganap sa warehouse -- gamitin ang kanilang online Food Finder tool para mahanap ang mga malapit na distribution site.",
           "serviceArea": "Hilagang Nevada at Silangang Sierra"
         },
         "zh": {
-          "description": "食品分发、流动食品储藏室和紧急食品援助，每月服务超过160,000人，覆盖内华达州13个县和加利福尼亚州10个县。注意：食品分发不在仓库进行——请使用他们的Food Finder工具。",
+          "description": "该地区最大的饥饿救济组织，通过155多个合作机构网络在覆盖13个内华达州县和10个加利福尼亚东部县的90,000平方英里范围内分发食品。每月通过流动食品站、社区食品站和紧急食品援助服务155,000多人。食品分发不在仓库进行——请使用其在线Food Finder工具查找附近的分发点。",
           "serviceArea": "内华达州北部和东部山脉"
         },
         "vi": {
-          "description": "Phân phối thực phẩm, kho lưu động và hỗ trợ thực phẩm khẩn cấp phục vụ hơn 160.000 người mỗi tháng tại 13 quận Nevada và 10 quận California. Lưu ý: Việc phân phối thực phẩm KHÔNG diễn ra tại kho - hãy sử dụng công cụ Food Finder.",
+          "description": "To chuc cuu tro doi lon nhat trong khu vuc, phan phoi thuc pham thong qua mang luoi hon 155 co quan doi tac tren 90.000 dam vuong bao gom 13 quan Nevada va 10 quan dong California. Phuc vu hon 155.000 nguoi moi thang thong qua cac kho thuc pham luu dong, kho thuc pham khu pho va ho tro thuc pham khan cap. Viec phan phoi KHONG dien ra tai kho — hay su dung cong cu Food Finder truc tuyen de tim cac diem phan phoi gan ban.",
           "serviceArea": "Bắc Nevada & Đông Sierra"
         }
       }
@@ -241,7 +254,7 @@
       "id": "ext-hampton-house",
       "type": "external",
       "name": "Hampton House Garden",
-      "description": "Black-led community garden with 24/7 open-access food pantry and refrigerator. Multi-generational space hosting community garden, food recovery compost, harm reduction supplies, and organizing venue. No requirements to receive food.",
+      "description": "Black-led community project advancing Black and Indigenous food justice in Reno. Operates a 24/7 open-access food pantry and refrigerator with no requirements to receive food, plus a community garden, food recovery compost facility, harm reduction supply hub, and organizing creative space. Also runs a free weekday Breakfast & Homework Club (7:30-8:30 AM) and partners with Good Neighbors Warming Center for emergency winter shelter.",
       "category": "food",
       "contacts": [
         {
@@ -259,6 +272,10 @@
         {
           "type": "address",
           "value": "638 Elko Ave, Reno, NV"
+        },
+        {
+          "type": "email",
+          "value": "hamptonhousegarden@gmail.com"
         }
       ],
       "serviceArea": "Reno",
@@ -266,22 +283,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Jardín comunitario liderado por la comunidad negra con despensa de alimentos y refrigerador de acceso abierto 24/7. Espacio multigeneracional con jardín comunitario, compostaje de recuperación de alimentos, suministros de reducción de daños y lugar de organización. Sin requisitos para recibir alimentos.",
+          "description": "Proyecto comunitario liderado por personas negras que promueve la justicia alimentaria para personas negras e indigenas en Reno. Opera una despensa de alimentos y refrigerador de acceso abierto las 24 horas sin requisitos, ademas de un jardin comunitario, instalacion de compostaje, centro de suministros de reduccion de danos y espacio creativo de organizacion. Tambien ofrece un programa gratuito de Desayuno y Tareas (7:30-8:30 AM entre semana) y es socio del Good Neighbors Warming Center para refugio de emergencia en invierno.",
           "eligibility": "Todos bienvenidos, sin requisitos",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Komunidad na hardin na pinamumunuan ng Black community na may 24/7 na bukas na food pantry at refrigerator. Multi-generational na espasyo na may community garden, food recovery compost, harm reduction supplies, at lugar ng pag-oorganisa. Walang kinakailangan para makatanggap ng pagkain.",
+          "description": "Black-led na proyektong pangkomunidad na nagsusulong ng Black at Indigenous food justice sa Reno. Nagpapatakbo ng 24/7 open-access food pantry at refrigerator nang walang kinakailangan, kasama ang community garden, food recovery compost facility, harm reduction supply hub, at organizing creative space. Nagpapatakbo rin ng libreng Breakfast & Homework Club (7:30-8:30 AM sa weekdays) at kasosyo ng Good Neighbors Warming Center para sa emergency winter shelter.",
           "eligibility": "Lahat ay welcome, walang kinakailangan",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "由黑人社区领导的社区花园，配有24/7开放式食品储藏室和冰箱。多代际空间，设有社区花园、食物回收堆肥、减害用品和组织场所。领取食物无任何要求。",
+          "description": "由黑人领导的社区项目，推动里诺黑人和原住民食品正义。运营24/7开放的免费食品储藏室和冰箱（无需任何条件），以及社区花园、食物回收堆肥设施、减害用品中心和组织创意空间。还运营免费的工作日早餐和作业俱乐部（早上7:30-8:30）并与Good Neighbors温暖中心合作提供冬季紧急庇护。",
           "eligibility": "欢迎所有人，无需任何条件",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Vườn cộng đồng do cộng đồng người Da đen lãnh đạo với tủ thực phẩm và tủ lạnh mở 24/7. Không gian đa thế hệ có vườn cộng đồng, ủ phân thu hồi thực phẩm, vật tư giảm hại và địa điểm tổ chức. Không yêu cầu gì để nhận thực phẩm.",
+          "description": "Du an cong dong do nguoi Da den lanh dao, thuc day cong bang thuc pham cho nguoi Da den va Ban dia tai Reno. Van hanh kho thuc pham va tu lanh mo 24/7 khong can dieu kien, cung voi vuon cong dong, co so u phan thuc pham, trung tam vat tu giam hai va khong gian sang tao to chuc. Cung dieu hanh Cau lac bo An sang & Bai tap mien phi (7:30-8:30 sang cac ngay trong tuan) va hop tac voi Good Neighbors Warming Center cho noi tru mua dong khan cap.",
           "eligibility": "Chào đón tất cả, không yêu cầu gì",
           "serviceArea": "Reno"
         }
@@ -291,12 +308,12 @@
       "id": "ext-catholic-charities",
       "type": "external",
       "name": "Catholic Charities of Northern Nevada",
-      "description": "Largest social services provider in Northern Nevada. Operates St. Vincent's Dining Room, food pantry, emergency financial assistance, immigration legal services, Battle Born Housing Plus recovery residences, and reentry programs. Serves over 25,000 people annually.",
+      "description": "The largest social services provider in Northern Nevada, serving over 100,000 individuals annually across all 12 counties of the Diocese of Reno. Operates St. Vincent's Dining Room (1,400 free meals daily), Nevada's largest food pantry at 435 Eureka Ave (15,000+ people monthly), immigration legal services, Battle Born Housing Plus recovery residences, rental/utility assistance, senior home delivery meals, workforce development, and family mentoring programs.",
       "category": "food",
       "contacts": [
         {
           "type": "hours",
-          "value": "Monday-Friday 8:30 AM - 4:30 PM"
+          "value": "Mon-Fri 8:30am-4:30pm"
         },
         {
           "type": "phone",
@@ -308,7 +325,7 @@
         },
         {
           "type": "address",
-          "value": "435 Eureka Ave, Reno, NV 89512"
+          "value": "500 E 4th St, Reno, NV 89512"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -316,22 +333,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "El mayor proveedor de servicios sociales del norte de Nevada. Opera el Comedor St. Vincent's, despensa de alimentos, asistencia financiera de emergencia, servicios legales de inmigración, residencias de recuperación Battle Born Housing Plus y programas de reingreso. Sirve a más de 25,000 personas anualmente.",
+          "description": "El proveedor de servicios sociales mas grande del norte de Nevada, sirviendo a mas de 100,000 personas anualmente en los 12 condados de la Diocesis de Reno. Opera el comedor St. Vincent's (1,400 comidas gratuitas diarias), la despensa de alimentos mas grande de Nevada en 435 Eureka Ave (mas de 15,000 personas mensuales), servicios legales de inmigracion, residencias de recuperacion Battle Born Housing Plus, asistencia de alquiler/servicios publicos, entrega de comidas a domicilio para personas mayores, desarrollo laboral y programas de mentoria familiar.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Pinakamalaking tagapagbigay ng social services sa Hilagang Nevada. Pinapatakbo ang St. Vincent's Dining Room, food pantry, emergency financial assistance, immigration legal services, Battle Born Housing Plus recovery residences, at reentry programs. Nagsisilbi sa mahigit 25,000 tao taun-taon.",
+          "description": "Ang pinakamalaking tagapagbigay ng social services sa Northern Nevada, nagsisilbi sa mahigit 100,000 na indibidwal taon-taon sa lahat ng 12 county ng Diocese of Reno. Pinapatakbo ang St. Vincent's Dining Room (1,400 libreng pagkain araw-araw), ang pinakamalaking food pantry ng Nevada sa 435 Eureka Ave (15,000+ tao buwan-buwan), immigration legal services, Battle Born Housing Plus recovery residences, tulong sa upa/utilities, paghahatid ng pagkain sa mga matatanda, workforce development, at family mentoring programs.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "北内华达州最大的社会服务提供者。运营St. Vincent's餐厅、食品储藏室、紧急财务援助、移民法律服务、Battle Born Housing Plus康复住所和重返社会项目。每年服务超过25,000人。",
+          "description": "北内华达州最大的社会服务提供机构，每年服务里诺教区12个县的10万多人。运营圣文森特餐厅（每天提供1,400份免费餐食）、内华达州最大的食品储藏室（位于435 Eureka Ave，每月服务15,000多人）、移民法律服务、Battle Born Housing Plus康复住所、租金/水电援助、老年人送餐上门、劳动力发展和家庭辅导项目。",
           "eligibility": "欢迎所有人",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Nhà cung cấp dịch vụ xã hội lớn nhất Bắc Nevada. Vận hành nhà hàng St. Vincent's, kho thực phẩm, hỗ trợ tài chính khẩn cấp, dịch vụ pháp lý di trú, cư trú phục hồi Battle Born Housing Plus và chương trình tái hòa nhập. Phục vụ hơn 25.000 người mỗi năm.",
+          "description": "Nha cung cap dich vu xa hoi lon nhat Bac Nevada, phuc vu hon 100.000 ca nhan hang nam tren 12 quan cua Giao phan Reno. Van hanh phong an St. Vincent's (1.400 bua an mien phi moi ngay), kho thuc pham lon nhat Nevada tai 435 Eureka Ave (hon 15.000 nguoi moi thang), dich vu phap ly nhap cu, nha phuc hoi Battle Born Housing Plus, ho tro tien thue/tien dien nuoc, giao bua an cho nguoi cao tuoi, phat trien luc luong lao dong va cac chuong trinh huong dan gia dinh.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Bắc Nevada"
         }
@@ -1091,7 +1108,7 @@
       "id": "ext-nevada-legal",
       "type": "external",
       "name": "Nevada Legal Services",
-      "description": "Nonprofit law firm providing free civil legal aid to low-income Nevadans. Operates a Tenants' Rights Center offering advice and pro se form preparation for eviction defense, lease disputes, record sealing, and benefits denials (SNAP, TANF, unemployment). Also runs a Senior Law Project and Consumer Law Project.",
+      "description": "Nonprofit law firm providing free civil legal aid to low-income Nevadans. Handles housing disputes, eviction defense, record sealing, benefits denials (SNAP, TANF, unemployment, Social Security), consumer issues, bankruptcy, immigration, and name changes. Operates a Tenants' Rights Center with a dedicated phone line for rental issues including eviction defense and lease disputes. Also runs the Senior Law Project and Consumer Law Project.",
       "category": "legal_aid",
       "contacts": [
         {
@@ -1115,6 +1132,16 @@
         {
           "type": "address",
           "value": "449 S Virginia St, 3rd Floor, Reno, NV 89501"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 284-3491 x316",
+          "label": "Tenants' Rights Center"
+        },
+        {
+          "type": "email",
+          "value": "renotrc@nevadalegalservices.org",
+          "label": "Tenants' Rights Center"
         }
       ],
       "serviceArea": "Statewide",
@@ -1122,22 +1149,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Asistencia legal gratuita para nevadenses de bajos ingresos en asuntos civiles incluyendo vivienda, derecho familiar y beneficios públicos.",
+          "description": "Firma de abogados sin fines de lucro que proporciona asistencia legal civil gratuita a nevadenses de bajos ingresos. Maneja disputas de vivienda, defensa contra desalojo, sellado de antecedentes, denegaciones de beneficios (SNAP, TANF, desempleo, Seguro Social), problemas del consumidor, bancarrota, inmigracion y cambios de nombre. Opera un Centro de Derechos del Inquilino con una linea telefonica dedicada para problemas de alquiler, incluida la defensa contra desalojo y disputas de arrendamiento. Tambien dirige el Proyecto de Ley para Personas Mayores y el Proyecto de Ley del Consumidor.",
           "eligibility": "Basado en ingresos (por debajo del 200% del nivel federal de pobreza)",
           "serviceArea": "Todo el estado"
         },
         "tl": {
-          "description": "Libreng legal assistance para sa low-income na mga taga-Nevada sa mga civil matters kasama ang housing, family law, at public benefits.",
+          "description": "Nonprofit na law firm na nagbibigay ng libreng sibil na legal na tulong sa mga mababang-kita na taga-Nevada. Humahawak ng mga housing disputes, eviction defense, record sealing, benefits denials (SNAP, TANF, unemployment, Social Security), consumer issues, bankruptcy, immigration, at name changes. Nagpapatakbo ng Tenants' Rights Center na may dedicated phone line para sa rental issues kasama ang eviction defense at lease disputes. Nagpapatakbo rin ng Senior Law Project at Consumer Law Project.",
           "eligibility": "Batay sa kita (mas mababa sa 200% FPL)",
           "serviceArea": "Buong estado"
         },
         "zh": {
-          "description": "为低收入内华达州居民提供免费法律援助，涉及民事事务包括住房、家庭法和公共福利。",
+          "description": "非营利律师事务所，为低收入内华达州居民提供免费民事法律援助。处理住房纠纷、驱逐辩护、记录封存、福利拒绝（SNAP、TANF、失业金、社会保障）、消费者问题、破产、移民和姓名变更。运营租户权利中心，设有专门电话线处理租赁问题，包括驱逐辩护和租约纠纷。还运营老年法律项目和消费者法律项目。",
           "eligibility": "基于收入（低于联邦贫困线200%）",
           "serviceArea": "全州"
         },
         "vi": {
-          "description": "Hỗ trợ pháp lý miễn phí cho người Nevada thu nhập thấp trong các vấn đề dân sự bao gồm nhà ở, luật gia đình và trợ cấp công.",
+          "description": "Cong ty luat phi loi nhuan cung cap tro giup phap ly dan su mien phi cho cu dan Nevada co thu nhap thap. Xu ly tranh chap nha o, bao ve chong truc xuat, niem phong ho so, tu choi phuc loi (SNAP, TANF, that nghiep, An sinh Xa hoi), van de nguoi tieu dung, pha san, nhap cu va doi ten. Van hanh Trung tam Quyen Nguoi thue voi duong day dien thoai rieng cho cac van de thue nha bao gom bao ve chong truc xuat va tranh chap hop dong thue. Cung dieu hanh Du an Luat Nguoi cao tuoi va Du an Luat Nguoi tieu dung.",
           "eligibility": "Dựa trên thu nhập (dưới 200% mức nghèo liên bang)",
           "serviceArea": "Toàn tiểu bang"
         }
@@ -1147,7 +1174,7 @@
       "id": "ext-nnla",
       "type": "external",
       "name": "Northern Nevada Legal Aid",
-      "description": "Nonprofit legal aid serving Washoe and surrounding rural northern Nevada counties. Provides free or low-cost civil legal assistance including family law for domestic violence victims, adult guardianship, child advocacy, immigration, housing, and the Civil Law Self-Help Center.",
+      "description": "Nonprofit legal aid organization serving 11 Northern Nevada counties including Washoe County, providing free civil legal assistance on over 10,500 matters annually. Services include housing, family law for domestic violence victims, adult guardianship, child advocacy, immigration, the Civil Law Self-Help Center, a Senior Legal Center for residents 60+, and medical-legal partnerships.",
       "category": "legal_aid",
       "contacts": [
         {
@@ -1161,6 +1188,10 @@
         {
           "type": "address",
           "value": "401 Ryland St, Suite 100, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 9:00 AM - 5:00 PM (closed 12:30-1:00 PM)"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -1168,22 +1199,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Asistencia legal para inquilinos que enfrentan desalojo, discriminación de vivienda y disputas entre propietarios e inquilinos.",
+          "description": "Organizacion de asistencia legal sin fines de lucro que sirve a 11 condados del norte de Nevada, incluido el condado de Washoe, proporcionando asistencia legal civil gratuita en mas de 10,500 asuntos anualmente. Los servicios incluyen vivienda, derecho familiar para victimas de violencia domestica, tutela de adultos, defensa de menores, inmigracion, el Centro de Autoayuda de Ley Civil, un Centro Legal para Personas Mayores para residentes de 60+ anos y asociaciones medico-legales.",
           "eligibility": "Basado en ingresos",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Legal assistance para sa mga tenant na nahaharap sa eviction, housing discrimination, at landlord-tenant disputes.",
+          "description": "Nonprofit legal aid organization na nagsisilbi sa 11 Northern Nevada counties kasama ang Washoe County, nagbibigay ng libreng sibil na legal na tulong sa mahigit 10,500 na bagay taon-taon. Kasama sa mga serbisyo ang housing, family law para sa mga biktima ng domestic violence, adult guardianship, child advocacy, immigration, ang Civil Law Self-Help Center, isang Senior Legal Center para sa mga residenteng 60+, at medical-legal partnerships.",
           "eligibility": "Batay sa kita",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为面临驱逐、住房歧视和房东-租户纠纷的租户提供法律援助。",
+          "description": "非营利法律援助组织，服务包括沃肖县在内的北内华达州11个县，每年提供10,500多件免费民事法律援助。服务包括住房、家暴受害者家庭法、成人监护、儿童权益倡导、移民、民事法律自助中心、60岁以上居民的老年法律中心和医疗法律伙伴关系。",
           "eligibility": "基于收入",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Hỗ trợ pháp lý cho người thuê nhà đối mặt với trục xuất, phân biệt đối xử về nhà ở và tranh chấp chủ nhà-người thuê.",
+          "description": "To chuc tro giup phap ly phi loi nhuan phuc vu 11 quan Bac Nevada bao gom quan Washoe, cung cap tro giup phap ly dan su mien phi cho hon 10.500 vu viec hang nam. Dich vu bao gom nha o, luat gia dinh cho nan nhan bao luc gia dinh, giam ho nguoi lon, bao ve tre em, nhap cu, Trung tam Tu giup Luat Dan su, Trung tam Phap ly Nguoi cao tuoi cho cu dan tu 60 tuoi va quan he doi tac y te-phap ly.",
           "eligibility": "Dựa trên thu nhập",
           "serviceArea": "Bắc Nevada"
         }
@@ -1193,7 +1224,7 @@
       "id": "ext-nn-hopes",
       "type": "external",
       "name": "Northern Nevada HOPES",
-      "description": "Community health center providing medical, dental, behavioral health, and HIV/AIDS services regardless of ability to pay.",
+      "description": "Federally Qualified Health Center (FQHC) and Patient-Centered Medical Home providing affordable, integrated healthcare to over 17,000 patients annually at two downtown Reno locations. Services include adult and pediatric primary care, behavioral health, substance use treatment, medication-assisted treatment (MAT), HIV/AIDS care, sexual health, LGBTQ+ affirming care, pharmacy, maternal health, case management, and transportation. Founded in 1997 as northern Nevada's first HIV clinic, serving everyone regardless of insurance or ability to pay.",
       "category": "health_services",
       "contacts": [
         {
@@ -1207,6 +1238,20 @@
         {
           "type": "address",
           "value": "580 W 5th St, Reno, NV 89503"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Thu 8am-7pm, Fri 8am-5pm"
+        },
+        {
+          "type": "address",
+          "value": "1905 E 4th St, Reno, NV 89512",
+          "label": "4th St Clinic"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 348-1306",
+          "label": "Pharmacy"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -1218,22 +1263,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Centro de salud comunitario que proporciona servicios médicos, dentales, de salud conductual y VIH/SIDA sin importar la capacidad de pago.",
+          "description": "Centro de Salud Calificado Federalmente (FQHC) y Hogar Medico Centrado en el Paciente que brinda atencion medica integrada y asequible a mas de 17,000 pacientes anualmente en dos ubicaciones en el centro de Reno. Los servicios incluyen atencion primaria para adultos y pediatrica, salud mental, tratamiento de uso de sustancias, tratamiento asistido con medicamentos (MAT), atencion de VIH/SIDA, salud sexual, atencion afirmativa LGBTQ+, farmacia, salud materna, manejo de casos y transporte. Fundado en 1997 como la primera clinica de VIH del norte de Nevada, atiende a todos independientemente del seguro o capacidad de pago.",
           "eligibility": "Tarifas de escala variable",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Community health center na nagbibigay ng medical, dental, behavioral health, at HIV/AIDS services anuman ang kakayahang magbayad.",
+          "description": "Federally Qualified Health Center (FQHC) at Patient-Centered Medical Home na nagbibigay ng abot-kayang integrated healthcare sa mahigit 17,000 pasyente taon-taon sa dalawang lokasyon sa downtown Reno. Kasama sa mga serbisyo ang adult at pediatric primary care, behavioral health, substance use treatment, medication-assisted treatment (MAT), HIV/AIDS care, sexual health, LGBTQ+ affirming care, pharmacy, maternal health, case management, at transportasyon. Itinatag noong 1997 bilang unang HIV clinic ng northern Nevada, nagsisilbi sa lahat anuman ang insurance o kakayahang magbayad.",
           "eligibility": "Bayad batay sa kakayahan",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "社区健康中心，提供医疗、牙科、行为健康和HIV/AIDS服务，不论支付能力。",
+          "description": "联邦合格健康中心（FQHC）和以患者为中心的医疗之家，在里诺市中心两个地点每年为17,000多名患者提供平价综合医疗服务。服务包括成人和儿科初级保健、行为健康、药物使用治疗、药物辅助治疗（MAT）、HIV/AIDS护理、性健康、LGBTQ+肯定护理、药房、产妇健康、个案管理和交通。1997年作为北内华达州第一家HIV诊所成立，为所有人提供服务，不论保险或支付能力。",
           "eligibility": "按比例收费",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Trung tâm y tế cộng đồng cung cấp dịch vụ y tế, nha khoa, sức khỏe hành vi và HIV/AIDS bất kể khả năng chi trả.",
+          "description": "Trung tam Suc khoe Du dieu kien Lien bang (FQHC) va Nha Y te Lay Benh nhan lam Trung tam, cung cap cham soc suc khoe tich hop gia ca phai chang cho hon 17.000 benh nhan hang nam tai hai dia diem o trung tam Reno. Dich vu bao gom cham soc ban dau nguoi lon va nhi khoa, suc khoe hanh vi, dieu tri su dung chat, dieu tri ho tro bang thuoc (MAT), cham soc HIV/AIDS, suc khoe tinh duc, cham soc khang dinh LGBTQ+, duoc pham, suc khoe ba me, quan ly truong hop va van chuyen. Thanh lap nam 1997 la phong kham HIV dau tien cua bac Nevada, phuc vu tat ca moi nguoi bat ke bao hiem hay kha nang chi tra.",
           "eligibility": "Phí theo thang trượt",
           "serviceArea": "Bắc Nevada"
         }
@@ -1243,12 +1288,12 @@
       "id": "ext-hopes-sexual-health",
       "type": "external",
       "name": "Northern Nevada HOPES - Sexual Health",
-      "description": "STI testing and treatment, HIV/Hep C rapid testing, PrEP/PEP for HIV prevention, family planning and contraception, and gender-affirming care. Walk-in testing available at both locations. Free safer sex kits available. Sliding fee scale for uninsured.",
+      "description": "Comprehensive sexual healthcare clinic at Northern Nevada HOPES offering STI testing and treatment, rapid HIV and Hepatitis C testing, PrEP and PEP for HIV prevention, family planning and contraception, and gender-affirming care. Walk-in STI testing is available at both locations. Free safer sex kits and naloxone/Narcan available. Accepts insurance, Medicaid, Medicare, and sliding fee scale for uninsured.",
       "category": "health_services",
       "contacts": [
         {
           "type": "hours",
-          "value": "Mon-Thu 8am-7pm, Fri 8am-5pm (5th St); Mon-Fri 8am-4pm (4th St)"
+          "value": "Mon-Thu 8am-7pm, Fri 8am-5pm; Walk-in: M-F 8am-4pm (closed 1-2pm)"
         },
         {
           "type": "phone",
@@ -1261,6 +1306,11 @@
         {
           "type": "address",
           "value": "580 W 5th St, Reno, NV 89503"
+        },
+        {
+          "type": "address",
+          "value": "1905 E 4th St, Reno, NV 89512",
+          "label": "4th St Clinic (second location)"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -1268,22 +1318,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Pruebas gratuitas y confidenciales de ITS/VIH, PrEP y servicios de salud sexual.",
+          "description": "Clinica de salud sexual integral en Northern Nevada HOPES que ofrece pruebas y tratamiento de ETS, pruebas rapidas de VIH y Hepatitis C, PrEP y PEP para prevencion del VIH, planificacion familiar y anticoncepcion, y atencion de afirmacion de genero. Pruebas de ETS sin cita disponibles en ambas ubicaciones. Kits de sexo seguro y naloxona/Narcan gratuitos disponibles. Acepta seguro, Medicaid, Medicare y escala de tarifas deslizante para no asegurados.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Libre at confidential na STI/HIV testing, PrEP, at sexual health services.",
+          "description": "Komprehensibong sexual healthcare clinic sa Northern Nevada HOPES na nag-aalok ng STI testing at paggamot, mabilis na HIV at Hepatitis C testing, PrEP at PEP para sa HIV prevention, family planning at contraception, at gender-affirming care. Walk-in STI testing ay available sa parehong lokasyon. Libreng safer sex kits at naloxone/Narcan available. Tumatanggap ng insurance, Medicaid, Medicare, at sliding fee scale para sa walang insurance.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "免费保密的性病/HIV检测、PrEP和性健康服务。",
+          "description": "Northern Nevada HOPES的综合性健康诊所，提供性病检测和治疗、快速HIV和丙肝检测、HIV预防（PrEP和PEP）、计划生育和避孕以及性别肯定护理。两个地点均提供免预约性病检测。免费提供安全性行为工具包和纳洛酮/Narcan。接受保险、Medicaid、Medicare和无保险者滑动收费标准。",
           "eligibility": "欢迎所有人",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Xét nghiệm STI/HIV miễn phí và bảo mật, PrEP và dịch vụ sức khỏe tình dục.",
+          "description": "Phong kham suc khoe tinh duc toan dien tai Northern Nevada HOPES cung cap xet nghiem va dieu tri STI, xet nghiem nhanh HIV va Viem gan C, PrEP va PEP phong ngua HIV, ke hoach hoa gia dinh va tranh thai, va cham soc khang dinh gioi tinh. Xet nghiem STI khong can hen tai ca hai dia diem. Bo dung cu tinh duc an toan va naloxone/Narcan mien phi. Chap nhan bao hiem, Medicaid, Medicare va thang phi truot cho nguoi khong co bao hiem.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Bắc Nevada"
         }
@@ -1293,7 +1343,7 @@
       "id": "ext-community-health",
       "type": "external",
       "name": "Community Health Alliance",
-      "description": "Free and low-cost medical care, dental services, and prescription assistance for uninsured and underinsured residents. Center for Complex Care addresses chronic conditions.",
+      "description": "Nonprofit federally qualified health center (FQHC) with seven locations across Reno and Sparks, providing affordable medical, dental, behavioral health, reproductive health, and pharmacy services on a sliding fee scale. Also offers WIC, a Prescription Food Pantry, immunizations, chronic disease management, and insurance enrollment assistance. Accepts Medicaid, Medicare, private insurance, and serves uninsured patients regardless of ability to pay.",
       "category": "health_services",
       "contacts": [
         {
@@ -1307,6 +1357,10 @@
         {
           "type": "address",
           "value": "680 S Rock Blvd, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Most locations Mon-Fri 6:30am-6pm (varies by site)"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -1314,22 +1368,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Atención médica gratuita y de bajo costo, servicios dentales y asistencia con medicamentos recetados para residentes sin seguro o con seguro insuficiente. El Centro de Atención Compleja atiende condiciones crónicas.",
+          "description": "Centro de salud comunitario calificado federalmente (FQHC) sin fines de lucro con siete ubicaciones en Reno y Sparks, que brinda servicios medicos, dentales, de salud mental, salud reproductiva y farmacia asequibles con escala de tarifas deslizante. Tambien ofrece WIC, despensa de alimentos con receta, vacunaciones, manejo de enfermedades cronicas y asistencia para inscripcion en seguros. Acepta Medicaid, Medicare, seguro privado y atiende a pacientes sin seguro independientemente de su capacidad de pago.",
           "eligibility": "Sin seguro/con seguro insuficiente",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Libre at mababang gastos na medical care, dental services, at tulong sa reseta para sa mga residenteng walang insurance o kulang ang insurance. Ang Center for Complex Care ay tumutugon sa mga chronic conditions.",
+          "description": "Nonprofit na federally qualified health center (FQHC) na may pitong lokasyon sa Reno at Sparks, na nagbibigay ng abot-kayang medikal, dental, behavioral health, reproductive health, at serbisyong parmasyutiko sa sliding fee scale. Nag-aalok din ng WIC, Prescription Food Pantry, immunizations, pamamahala ng malalang sakit, at tulong sa insurance enrollment. Tumatanggap ng Medicaid, Medicare, pribadong insurance, at nagsisilbi sa mga walang insurance anuman ang kakayahang magbayad.",
           "eligibility": "Walang insurance/kulang ang insurance",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为无保险和保险不足的居民提供免费和低成本的医疗服务、牙科服务和处方药援助。复杂护理中心处理慢性疾病。",
+          "description": "非营利联邦合格健康中心（FQHC），在里诺和斯帕克斯设有七个地点，以滑动收费标准提供平价医疗、牙科、行为健康、生殖健康和药房服务。还提供WIC、处方食品储藏室、免疫接种、慢性病管理和保险登记援助。接受Medicaid、Medicare、私人保险，并为无保险患者提供服务，不论支付能力。",
           "eligibility": "无保险/保险不足",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Chăm sóc y tế miễn phí và chi phí thấp, dịch vụ nha khoa và hỗ trợ thuốc kê đơn cho cư dân không có bảo hiểm hoặc bảo hiểm không đủ. Trung tâm Chăm sóc Phức tạp xử lý các bệnh mãn tính.",
+          "description": "Trung tam suc khoe du dieu kien lien bang (FQHC) phi loi nhuan voi bay dia diem tai Reno va Sparks, cung cap dich vu y te, nha khoa, suc khoe hanh vi, suc khoe sinh san va duoc pham gia ca phai chang theo thang phi truot. Cung cung cap WIC, Nha thuoc thuc pham theo don, tiem chung, quan ly benh man tinh va ho tro dang ky bao hiem. Chap nhan Medicaid, Medicare, bao hiem tu nhan va phuc vu benh nhan khong co bao hiem bat ke kha nang chi tra.",
           "eligibility": "Không có bảo hiểm/bảo hiểm không đủ",
           "serviceArea": "Bắc Nevada"
         }
@@ -1339,7 +1393,7 @@
       "id": "ext-change-point",
       "type": "external",
       "name": "Change Point",
-      "description": "Harm reduction center operated by Northern Nevada HOPES. Provides free rapid HIV/Hep C testing, STI testing, overdose education, free naloxone/Narcan and fentanyl test strips, free safer sex kits, support and peer groups, and street outreach. Sharps disposal available at HOPES pharmacy locations.",
+      "description": "Harm reduction program formerly operated by Northern Nevada HOPES, with syringe exchange and street outreach services now transitioned to the Northern Nevada Harm Reduction Alliance (NNVHRA). HOPES continues to provide sharps disposal at their 5th Street location, rapid HIV/Hep C testing, and same-day STI testing through their clinic. NNVHRA distributes supplies at the HOPES parking lot Saturdays 3-4pm and at Family Soup/Believe Plaza Tuesdays 5-6pm.",
       "category": "health_services",
       "contacts": [
         {
@@ -1357,25 +1411,35 @@
         {
           "type": "address",
           "value": "445 Ralston St, Reno, NV 89503"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 234-8545",
+          "label": "NNVHRA (supply delivery)"
+        },
+        {
+          "type": "website",
+          "value": "https://www.nnvhra.org",
+          "label": "Northern Nevada Harm Reduction Alliance"
         }
       ],
       "serviceArea": "Washoe County",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios de reducción de daños incluyendo intercambio de jeringas, pruebas de VIH/Hepatitis y distribución de naloxona.",
+          "description": "Programa de reduccion de danos anteriormente operado por Northern Nevada HOPES, con servicios de intercambio de jeringas y alcance callejero ahora transferidos a la Northern Nevada Harm Reduction Alliance (NNVHRA). HOPES continua proporcionando eliminacion de objetos punzantes en su ubicacion de 5th Street, pruebas rapidas de VIH/Hepatitis C y pruebas de ETS el mismo dia. NNVHRA distribuye suministros en el estacionamiento de HOPES los sabados de 3-4pm y en Family Soup/Believe Plaza los martes de 5-6pm.",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Harm reduction services kasama ang syringe exchange, HIV/Hepatitis testing, at naloxone distribution.",
+          "description": "Harm reduction program na dating pinapatakbo ng Northern Nevada HOPES, na ang syringe exchange at street outreach services ay inilipat na sa Northern Nevada Harm Reduction Alliance (NNVHRA). Patuloy na nagbibigay ang HOPES ng sharps disposal sa kanilang 5th Street location, mabilis na HIV/Hep C testing, at same-day STI testing. Namamahagi ang NNVHRA ng supplies sa HOPES parking lot tuwing Sabado 3-4pm at sa Family Soup/Believe Plaza tuwing Martes 5-6pm.",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "减害服务，包括注射器交换、HIV/肝炎检测和纳洛酮分发。",
+          "description": "原由Northern Nevada HOPES运营的减害项目，注射器交换和街头外展服务现已转交给Northern Nevada Harm Reduction Alliance (NNVHRA)。HOPES继续在其第五街地点提供锐器处理、快速HIV/丙肝检测和当日性病检测。NNVHRA每周六下午3-4点在HOPES停车场分发用品，每周二下午5-6点在Family Soup/Believe Plaza分发。",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Dịch vụ giảm hại bao gồm trao đổi kim tiêm, xét nghiệm HIV/Viêm gan và phân phối naloxone.",
+          "description": "Chuong trinh giam hai truoc day do Northern Nevada HOPES dieu hanh, voi cac dich vu trao doi kim tiem va tiep can duong pho hien da duoc chuyen cho Northern Nevada Harm Reduction Alliance (NNVHRA). HOPES tiep tuc cung cap xu ly vat sac nhon tai dia diem 5th Street, xet nghiem nhanh HIV/Hep C va xet nghiem STI trong ngay. NNVHRA phan phoi vat tu tai bai dau xe HOPES thu Bay 3-4pm va tai Family Soup/Believe Plaza thu Ba 5-6pm.",
           "serviceArea": "Quận Washoe"
         }
       }
@@ -1384,7 +1448,7 @@
       "id": "ext-washoe-cchs",
       "type": "external",
       "name": "Washoe County Community Health Services",
-      "description": "Public health services including immunizations, TB testing, STI testing, and family planning. Sliding fee scale available.",
+      "description": "Public health division of Northern Nevada Public Health (formerly Washoe County Health District) providing immunizations, tuberculosis testing, STI/sexual health testing and treatment, family planning, and WIC nutrition services at the Building B campus on East 9th Street. Sliding fee scale available; serves all Washoe County residents regardless of insurance status.",
       "category": "health_services",
       "contacts": [
         {
@@ -1393,11 +1457,20 @@
         },
         {
           "type": "website",
-          "value": "https://www.washoecounty.gov/health/programs-and-services/cchs/index.php"
+          "value": "https://www.nnph.org"
         },
         {
           "type": "address",
           "value": "1001 E 9th St, Reno, NV 89512"
+        },
+        {
+          "type": "hours",
+          "value": "Mon, Tue, Thu, Fri 8:00 AM - 4:00 PM; Wed 10:00 AM - 4:00 PM"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 328-2470",
+          "label": "Community and Clinical Health Services"
         }
       ],
       "serviceArea": "Washoe County",
@@ -1405,22 +1478,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios de salud pública incluyendo vacunaciones, pruebas de tuberculosis, pruebas de ITS y planificación familiar. Escala de tarifas variable disponible.",
+          "description": "Division de salud publica de Northern Nevada Public Health (anteriormente Distrito de Salud del Condado de Washoe) que proporciona vacunaciones, pruebas de tuberculosis, pruebas y tratamiento de ETS/salud sexual, planificacion familiar y servicios de nutricion WIC en el campus del Edificio B en East 9th Street. Escala de tarifas deslizante disponible; atiende a todos los residentes del condado de Washoe independientemente del estado de seguro.",
           "eligibility": "Todos bienvenidos, escala variable",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Public health services kasama ang immunizations, TB testing, STI testing, at family planning. May sliding fee scale.",
+          "description": "Public health division ng Northern Nevada Public Health (dating Washoe County Health District) na nagbibigay ng immunizations, tuberculosis testing, STI/sexual health testing at treatment, family planning, at WIC nutrition services sa Building B campus sa East 9th Street. Sliding fee scale available; nagsisilbi sa lahat ng residente ng Washoe County anuman ang insurance status.",
           "eligibility": "Lahat ay welcome, bayad batay sa kakayahan",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "公共卫生服务，包括免疫接种、结核病检测、性病检测和计划生育。提供按比例收费。",
+          "description": "Northern Nevada Public Health（前沃肖县卫生区）的公共卫生部门，在East 9th Street的B楼校区提供免疫接种、结核病检测、性病/性健康检测和治疗、计划生育和WIC营养服务。提供滑动收费标准；为所有沃肖县居民提供服务，不论保险状况。",
           "eligibility": "欢迎所有人，按比例收费",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Dịch vụ y tế công cộng bao gồm tiêm chủng, xét nghiệm lao, xét nghiệm STI và kế hoạch hóa gia đình. Có phí theo thang trượt.",
+          "description": "Bo phan y te cong cong cua Northern Nevada Public Health (truoc day la Khu Y te Quan Washoe) cung cap tiem chung, xet nghiem lao, xet nghiem va dieu tri STI/suc khoe tinh duc, ke hoach hoa gia dinh va dich vu dinh duong WIC tai khuon vien Toa nha B tren duong East 9th Street. Thang phi truot co san; phuc vu tat ca cu dan quan Washoe bat ke tinh trang bao hiem.",
           "eligibility": "Chào đón tất cả, phí theo thang trượt",
           "serviceArea": "Quận Washoe"
         }
@@ -1430,7 +1503,7 @@
       "id": "ext-rsic-tribal-health",
       "type": "external",
       "name": "Reno-Sparks Tribal Health Center",
-      "description": "Comprehensive health services for Native American community members including medical, dental, pharmacy, and behavioral health.",
+      "description": "Tribally-owned and operated 65,000-square-foot health clinic administered by the Reno-Sparks Indian Colony under a Title V Self-Governance Compact with the Indian Health Service (IHS). Provides comprehensive healthcare including adult medicine, pediatrics, dental care, mental health, pharmacy, podiatry, ophthalmology, physical therapy, women's health, diabetes treatment, substance abuse counseling, and acupuncture for eligible American Indians and Alaska Natives.",
       "category": "health_services",
       "contacts": [
         {
@@ -1444,6 +1517,15 @@
         {
           "type": "address",
           "value": "1715 Kuenzli St, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 8:00 AM - 5:00 PM; Wed 8:00 AM - 12:00 PM only"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 334-4317",
+          "label": "Pharmacy"
         }
       ],
       "serviceArea": "Reno-Sparks",
@@ -1451,22 +1533,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios de salud integrales para miembros de la comunidad nativa americana incluyendo servicios médicos, dentales, de farmacia y de salud conductual.",
+          "description": "Clinica de salud de 65,000 pies cuadrados de propiedad tribal y operada por la Colonia India Reno-Sparks bajo un Compacto de Autogobernanza Titulo V con el Servicio de Salud Indio (IHS). Proporciona atencion medica integral que incluye medicina para adultos, pediatria, atencion dental, salud mental, farmacia, podologia, oftalmologia, fisioterapia, salud de la mujer, tratamiento de diabetes, consejeria de abuso de sustancias y acupuntura para indios americanos y nativos de Alaska elegibles.",
           "eligibility": "Miembros de la comunidad nativa americana",
           "serviceArea": "Reno-Sparks"
         },
         "tl": {
-          "description": "Komprehensibong health services para sa mga miyembro ng Native American community kasama ang medical, dental, pharmacy, at behavioral health.",
+          "description": "Tribally-owned at operated na 65,000-square-foot health clinic na pinapatakbo ng Reno-Sparks Indian Colony sa ilalim ng Title V Self-Governance Compact sa Indian Health Service (IHS). Nagbibigay ng komprehensibong healthcare kasama ang adult medicine, pediatrics, dental care, mental health, pharmacy, podiatry, ophthalmology, physical therapy, women's health, diabetes treatment, substance abuse counseling, at acupuncture para sa eligible American Indians at Alaska Natives.",
           "eligibility": "Mga miyembro ng Native American community",
           "serviceArea": "Reno-Sparks"
         },
         "zh": {
-          "description": "为美洲原住民社区成员提供综合健康服务，包括医疗、牙科、药房和行为健康服务。",
+          "description": "由里诺-斯帕克斯印第安殖民地在印度卫生局（IHS）Title V自治契约下管理运营的部落所有65,000平方英尺健康诊所。为合格的美洲印第安人和阿拉斯加原住民提供全面医疗服务，包括成人医学、儿科、牙科、心理健康、药房、足病学、眼科、物理治疗、女性健康、糖尿病治疗、药物滥用咨询和针灸。",
           "eligibility": "美洲原住民社区成员",
           "serviceArea": "里诺-斯帕克斯"
         },
         "vi": {
-          "description": "Dịch vụ y tế toàn diện cho thành viên cộng đồng người Mỹ bản địa bao gồm y tế, nha khoa, dược phẩm và sức khỏe hành vi.",
+          "description": "Phong kham suc khoe 65.000 feet vuong do bo lac so huu va dieu hanh boi Khu Dan cu Da do Reno-Sparks theo Hop dong Tu quan Title V voi Co quan Y te Da do (IHS). Cung cap cham soc suc khoe toan dien bao gom y khoa nguoi lon, nhi khoa, nha khoa, suc khoe tam than, duoc pham, benh chan, nhan khoa, vat ly tri lieu, suc khoe phu nu, dieu tri tieu duong, tu van lam dung chat va cham cuu cho nguoi My ban dia va nguoi ban dia Alaska du dieu kien.",
           "eligibility": "Thành viên cộng đồng người Mỹ bản địa",
           "serviceArea": "Reno-Sparks"
         }
@@ -1476,7 +1558,7 @@
       "id": "ext-nevada-urban-indians",
       "type": "external",
       "name": "Nevada Urban Indians",
-      "description": "Health and social services for urban Native Americans including medical care, behavioral health, and community programs. Services available to all populations regardless of insurance, with discounted rates based on income.",
+      "description": "Nonprofit healthcare and social services agency established in 1975, serving urban American Indians, Alaska Natives, and other underserved community members in northern Nevada. Provides primary medical care, behavioral health services, health screenings, immunizations, diabetes support, victim services for crime survivors, and transportation assistance. Open to all populations regardless of insurance status, with discounted rates based on income.",
       "category": "health_services",
       "contacts": [
         {
@@ -1501,22 +1583,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios de salud y sociales para nativos americanos urbanos incluyendo atención médica, salud conductual y programas comunitarios. Servicios disponibles para todas las poblaciones sin importar el seguro, con tarifas reducidas basadas en ingresos.",
+          "description": "Agencia sin fines de lucro de servicios sociales y atencion medica establecida en 1975, que sirve a indios americanos urbanos, nativos de Alaska y otros miembros desatendidos de la comunidad en el norte de Nevada. Proporciona atencion medica primaria, servicios de salud mental, examenes de salud, vacunaciones, apoyo para diabetes, servicios a victimas de crimenes y asistencia de transporte. Abierto a todas las poblaciones independientemente del estado de seguro, con tarifas descontadas basadas en ingresos.",
           "eligibility": "Personas y familias nativas americanas (todas las poblaciones bienvenidas)",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Health at social services para sa urban Native Americans kasama ang medical care, behavioral health, at community programs. Mga serbisyo available sa lahat ng populasyon anuman ang insurance, na may discounted rates batay sa kita.",
+          "description": "Nonprofit healthcare at social services agency na itinatag noong 1975, nagsisilbi sa mga urban American Indians, Alaska Natives, at iba pang underserved na miyembro ng komunidad sa northern Nevada. Nagbibigay ng primary medical care, behavioral health services, health screenings, immunizations, diabetes support, victim services para sa crime survivors, at tulong sa transportasyon. Bukas sa lahat ng populasyon anuman ang insurance status, na may discounted rates batay sa kita.",
           "eligibility": "Mga Native American na indibidwal at pamilya (lahat ng populasyon welcome)",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为城市美洲原住民提供健康和社会服务，包括医疗、行为健康和社区项目。服务面向所有人群，不论保险状况，根据收入提供折扣费率。",
+          "description": "成立于1975年的非营利医疗保健和社会服务机构，服务北内华达州的城市美洲印第安人、阿拉斯加原住民和其他得不到充分服务的社区成员。提供初级医疗、行为健康服务、健康筛查、免疫接种、糖尿病支持、犯罪受害者服务和交通援助。对所有人群开放，不论保险状况，根据收入提供折扣费率。",
           "eligibility": "美洲原住民个人和家庭（欢迎所有人群）",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Dịch vụ y tế và xã hội cho người Mỹ bản địa trong đô thị bao gồm chăm sóc y tế, sức khỏe hành vi và chương trình cộng đồng. Dịch vụ dành cho tất cả mọi người bất kể bảo hiểm, với mức giá giảm theo thu nhập.",
+          "description": "Co quan cham soc suc khoe va dich vu xa hoi phi loi nhuan thanh lap nam 1975, phuc vu nguoi My ban dia thanh thi, nguoi ban dia Alaska va cac thanh vien cong dong thieu phuc vu khac o bac Nevada. Cung cap cham soc y te ban dau, dich vu suc khoe hanh vi, kham suc khoe, tiem chung, ho tro tieu duong, dich vu nan nhan toi pham va ho tro van chuyen. Mo cho tat ca moi nguoi bat ke tinh trang bao hiem, voi muc phi giam theo thu nhap.",
           "eligibility": "Cá nhân và gia đình người Mỹ bản địa (chào đón tất cả)",
           "serviceArea": "Bắc Nevada"
         }
@@ -1526,12 +1608,13 @@
       "id": "ext-va-homeless-care",
       "type": "external",
       "name": "VA Homeless Veteran Care",
-      "description": "Health care, housing assistance, and support services for veterans experiencing or at risk of homelessness. Provides immediate food and shelter, transitional and permanent housing, job training, and mental health treatment.",
+      "description": "VA Sierra Nevada Health Care System's Healthcare for Homeless Veterans (HCHV) program, providing free health care, housing assistance, case management, job training, life skills development, and mental health treatment for veterans who are homeless or at risk of homelessness. Walk-in assistance available Wednesdays at the main VA campus (Room G5545, 5th floor).",
       "category": "health_services",
       "contacts": [
         {
           "type": "phone",
-          "value": "(775) 324-6600"
+          "value": "(775) 786-7200",
+          "label": "VA Sierra Nevada main line"
         },
         {
           "type": "website",
@@ -1540,6 +1623,15 @@
         {
           "type": "address",
           "value": "350 Capitol Hill Ave, Reno, NV 89502"
+        },
+        {
+          "type": "phone",
+          "value": "1-877-424-3838",
+          "label": "National Call Center for Homeless Veterans (24/7)"
+        },
+        {
+          "type": "hours",
+          "value": "Walk-in: Wednesdays 8:00 AM - 4:00 PM at 975 Kirman Ave"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -1547,22 +1639,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Atención médica, asistencia de vivienda y servicios de apoyo para veteranos sin hogar o en riesgo de estarlo. Proporciona alimentos y refugio inmediato, vivienda transicional y permanente, capacitación laboral y tratamiento de salud mental.",
+          "description": "Programa de Atencion Medica para Veteranos sin Hogar (HCHV) del Sistema de Atencion Medica VA Sierra Nevada, que proporciona atencion medica gratuita, asistencia de vivienda, manejo de casos, capacitacion laboral, desarrollo de habilidades para la vida y tratamiento de salud mental para veteranos que estan sin hogar o en riesgo de quedarse sin hogar. Asistencia sin cita disponible los miercoles en el campus principal del VA (Sala G5545, 5to piso).",
           "eligibility": "Veteranos",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Health care, housing assistance, at support services para sa mga beterano na walang tirahan o nanganganib na mawalan ng tirahan. Nagbibigay ng agarang pagkain at shelter, transitional at permanent housing, job training, at mental health treatment.",
+          "description": "Healthcare for Homeless Veterans (HCHV) program ng VA Sierra Nevada Health Care System, na nagbibigay ng libreng health care, housing assistance, case management, job training, life skills development, at mental health treatment para sa mga beteranong homeless o nanganganib na maging homeless. Walk-in assistance available tuwing Miyerkules sa pangunahing VA campus (Room G5545, 5th floor).",
           "eligibility": "Mga beterano",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为无家可归或有无家可归风险的退伍军人提供医疗保健、住房援助和支持服务。提供即时食物和庇护、过渡和永久住房、职业培训和心理健康治疗。",
+          "description": "VA Sierra Nevada医疗系统的无家可归退伍军人医疗保健（HCHV）项目，为无家可归或面临无家可归风险的退伍军人提供免费医疗、住房援助、个案管理、职业培训、生活技能发展和心理健康治疗。每周三在VA主校区（G5545室，5楼）提供免预约援助。",
           "eligibility": "退伍军人",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Chăm sóc sức khỏe, hỗ trợ nhà ở và dịch vụ hỗ trợ cho cựu chiến binh vô gia cư hoặc có nguy cơ vô gia cư. Cung cấp thực phẩm và nơi trú ẩn ngay lập tức, nhà ở chuyển tiếp và lâu dài, đào tạo việc làm và điều trị sức khỏe tâm thần.",
+          "description": "Chuong trinh Cham soc Suc khoe cho Cuu Chien binh Vo gia cu (HCHV) cua He thong Y te VA Sierra Nevada, cung cap cham soc suc khoe mien phi, ho tro nha o, quan ly truong hop, dao tao viec lam, phat trien ky nang song va dieu tri suc khoe tam than cho cuu chien binh vo gia cu hoac co nguy co vo gia cu. Ho tro khong can hen vao thu Tu tai khuon vien VA chinh (Phong G5545, tang 5).",
           "eligibility": "Cựu chiến binh",
           "serviceArea": "Bắc Nevada"
         }
@@ -1664,7 +1756,7 @@
       "id": "ext-anthem-medicaid",
       "type": "external",
       "name": "Anthem Blue Cross Blue Shield Medicaid",
-      "description": "Nevada Medicaid managed care plan providing medical, dental, vision, and behavioral health coverage.",
+      "description": "Nevada Medicaid managed care plan operated by Anthem, serving Nevada families since 2009. Provides comprehensive medical, dental, vision, behavioral health, and pharmacy coverage at no cost to members with no copays. Includes 24/7 NurseLine for medical advice in 170+ languages and free LiveHealth Online video visits.",
       "category": "health_services",
       "contacts": [
         {
@@ -1674,6 +1766,10 @@
         {
           "type": "website",
           "value": "https://mss.anthem.com/nevada-medicaid/benefits/medicaid-benefits.html"
+        },
+        {
+          "type": "hours",
+          "value": "24/7 NurseLine; Member Services Mon-Fri"
         }
       ],
       "serviceArea": "Nevada",
@@ -1681,22 +1777,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Plan de atención administrada de Medicaid de Nevada que proporciona cobertura médica, dental, de visión y de salud conductual.",
+          "description": "Plan de atencion medica administrada de Medicaid de Nevada operado por Anthem, sirviendo a familias de Nevada desde 2009. Proporciona cobertura medica, dental, de vision, salud mental y farmacia integral sin costo para los miembros y sin copagos. Incluye linea de enfermeria 24/7 para consejos medicos en mas de 170 idiomas y visitas de video LiveHealth Online gratuitas.",
           "eligibility": "Elegible para Medicaid de Nevada",
           "serviceArea": "Nevada"
         },
         "tl": {
-          "description": "Nevada Medicaid managed care plan na nagbibigay ng medical, dental, vision, at behavioral health coverage.",
+          "description": "Nevada Medicaid managed care plan na pinapatakbo ng Anthem, nagsisilbi sa mga pamilya sa Nevada mula 2009. Nagbibigay ng komprehensibong medikal, dental, vision, behavioral health, at pharmacy coverage nang walang bayad sa mga miyembro at walang copays. Kasama ang 24/7 NurseLine para sa medikal na payo sa 170+ na wika at libreng LiveHealth Online video visits.",
           "eligibility": "Kwalipikado sa Nevada Medicaid",
           "serviceArea": "Nevada"
         },
         "zh": {
-          "description": "内华达州Medicaid管理式护理计划，提供医疗、牙科、视力和行为健康保障。",
+          "description": "由Anthem运营的内华达州Medicaid管理式医疗计划，自2009年以来服务内华达州家庭。为会员免费提供全面的医疗、牙科、视力、行为健康和药房保障，无需共付。包括24/7护士热线（提供170多种语言的医疗建议）和免费LiveHealth Online视频就诊。",
           "eligibility": "符合内华达州Medicaid资格",
           "serviceArea": "内华达州"
         },
         "vi": {
-          "description": "Kế hoạch chăm sóc quản lý Medicaid Nevada cung cấp bảo hiểm y tế, nha khoa, thị lực và sức khỏe hành vi.",
+          "description": "Ke hoach Medicaid quan ly boi Anthem, phuc vu cac gia dinh Nevada tu nam 2009. Cung cap bao hiem y te, nha khoa, thi luc, suc khoe hanh vi va duoc pham toan dien mien phi cho thanh vien khong co dong thanh toan. Bao gom duong day y ta 24/7 tu van y te bang hon 170 ngon ngu va kham video LiveHealth Online mien phi.",
           "eligibility": "Đủ điều kiện Nevada Medicaid",
           "serviceArea": "Nevada"
         }
@@ -1706,7 +1802,7 @@
       "id": "ext-caresource-medicaid",
       "type": "external",
       "name": "CareSource Nevada Medicaid",
-      "description": "Nevada Medicaid managed care plan offering comprehensive health benefits and care coordination.",
+      "description": "Nevada's only nonprofit Medicaid managed care plan, offering comprehensive health benefits including medical, behavioral health, pharmacy, dental, and vision coverage with no copays. Members receive a large provider network, reward programs, and free rides to healthcare appointments and pharmacies.",
       "category": "health_services",
       "contacts": [
         {
@@ -1716,6 +1812,10 @@
         {
           "type": "website",
           "value": "https://www.caresource.com/nv/plans/medicaid"
+        },
+        {
+          "type": "hours",
+          "value": "Member Services: Mon-Fri 8am-6pm PT"
         }
       ],
       "serviceArea": "Nevada",
@@ -1723,22 +1823,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Plan de atención administrada de Medicaid de Nevada que ofrece beneficios de salud integrales y coordinación de atención.",
+          "description": "El unico plan de atencion medica administrada de Medicaid sin fines de lucro de Nevada, que ofrece beneficios de salud integrales que incluyen cobertura medica, de salud mental, farmacia, dental y de vision sin copagos. Los miembros reciben una amplia red de proveedores, programas de recompensas y viajes gratuitos a citas medicas y farmacias.",
           "eligibility": "Elegible para Medicaid de Nevada",
           "serviceArea": "Nevada"
         },
         "tl": {
-          "description": "Nevada Medicaid managed care plan na nag-aalok ng komprehensibong health benefits at care coordination.",
+          "description": "Ang tanging nonprofit na Medicaid managed care plan ng Nevada, na nag-aalok ng komprehensibong benepisyo sa kalusugan kasama ang medikal, behavioral health, pharmacy, dental, at vision coverage nang walang copays. Ang mga miyembro ay tumatanggap ng malaking provider network, reward programs, at libreng sakay papunta sa mga appointment at botika.",
           "eligibility": "Kwalipikado sa Nevada Medicaid",
           "serviceArea": "Nevada"
         },
         "zh": {
-          "description": "内华达州Medicaid管理式护理计划，提供综合健康福利和护理协调。",
+          "description": "内华达州唯一的非营利Medicaid管理式医疗计划，提供全面的健康福利，包括医疗、行为健康、药房、牙科和视力保障，无需共付。会员可享受大型医疗网络、奖励计划和免费前往医疗预约和药房的交通服务。",
           "eligibility": "符合内华达州Medicaid资格",
           "serviceArea": "内华达州"
         },
         "vi": {
-          "description": "Kế hoạch chăm sóc quản lý Medicaid Nevada cung cấp quyền lợi sức khỏe toàn diện và phối hợp chăm sóc.",
+          "description": "Ke hoach Medicaid phi loi nhuan duy nhat cua Nevada, cung cap cac quyen loi suc khoe toan dien bao gom y te, suc khoe hanh vi, duoc pham, nha khoa va thi luc khong co dong thanh toan. Thanh vien duoc huong mang luoi nha cung cap lon, chuong trinh thuong va di chuyen mien phi den cac cuoc hen va nha thuoc.",
           "eligibility": "Đủ điều kiện Nevada Medicaid",
           "serviceArea": "Nevada"
         }
@@ -1748,7 +1848,7 @@
       "id": "ext-molina-medicaid",
       "type": "external",
       "name": "Molina Healthcare Nevada",
-      "description": "Nevada Medicaid managed care plan with medical, behavioral health, pharmacy, and transportation benefits.",
+      "description": "Nevada Medicaid and Nevada Check Up managed care plan providing comprehensive health coverage in Clark and Washoe counties. Benefits include medical, behavioral health, pharmacy, dental (through Liberty Dental Plan), vision (through VSP), and non-emergency medical transportation (through MTM). Member services available in multiple languages with interpreter services upon request.",
       "category": "health_services",
       "contacts": [
         {
@@ -1758,6 +1858,14 @@
         {
           "type": "website",
           "value": "https://www.molinahealthcare.com/members/nv/en-US/Pages/home"
+        },
+        {
+          "type": "hours",
+          "value": "Member Services: Mon-Fri 8am-6pm PT"
+        },
+        {
+          "type": "email",
+          "value": "NVMemberServices@Molinahealthcare.com"
         }
       ],
       "serviceArea": "Nevada",
@@ -1765,22 +1873,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Plan de atención administrada de Medicaid de Nevada con beneficios médicos, de salud conductual, de farmacia y de transporte.",
+          "description": "Plan de atencion medica administrada de Medicaid y Nevada Check Up que proporciona cobertura integral de salud en los condados de Clark y Washoe. Los beneficios incluyen cobertura medica, de salud mental, farmacia, dental (a traves de Liberty Dental Plan), vision (a traves de VSP) y transporte medico no de emergencia (a traves de MTM). Servicios al miembro disponibles en multiples idiomas con servicios de interpretacion por telefono.",
           "eligibility": "Elegible para Medicaid de Nevada",
           "serviceArea": "Nevada"
         },
         "tl": {
-          "description": "Nevada Medicaid managed care plan na may medical, behavioral health, pharmacy, at transportation benefits.",
+          "description": "Medicaid at Nevada Check Up managed care plan na nagbibigay ng komprehensibong health coverage sa Clark at Washoe counties. Kasama sa mga benepisyo ang medikal, behavioral health, pharmacy, dental (sa pamamagitan ng Liberty Dental Plan), vision (sa pamamagitan ng VSP), at non-emergency medical transportation (sa pamamagitan ng MTM). Member services available sa maraming wika na may interpreter services.",
           "eligibility": "Kwalipikado sa Nevada Medicaid",
           "serviceArea": "Nevada"
         },
         "zh": {
-          "description": "内华达州Medicaid管理式护理计划，提供医疗、行为健康、药房和交通福利。",
+          "description": "Medicaid和Nevada Check Up管理式医疗计划，在克拉克县和沃肖县提供全面的健康保障。福利包括医疗、行为健康、药房、牙科（通过Liberty Dental Plan）、视力（通过VSP）和非紧急医疗运输（通过MTM）。会员服务提供多语言支持和口译服务。",
           "eligibility": "符合内华达州Medicaid资格",
           "serviceArea": "内华达州"
         },
         "vi": {
-          "description": "Kế hoạch chăm sóc quản lý Medicaid Nevada với quyền lợi y tế, sức khỏe hành vi, dược phẩm và giao thông.",
+          "description": "Ke hoach Medicaid va Nevada Check Up cung cap bao hiem suc khoe toan dien tai cac quan Clark va Washoe. Quyen loi bao gom y te, suc khoe hanh vi, duoc pham, nha khoa (qua Liberty Dental Plan), thi luc (qua VSP) va van chuyen y te khong khan cap (qua MTM). Dich vu thanh vien co san bang nhieu ngon ngu voi dich vu thong dich.",
           "eligibility": "Đủ điều kiện Nevada Medicaid",
           "serviceArea": "Nevada"
         }
@@ -1790,7 +1898,7 @@
       "id": "ext-silversummit-medicaid",
       "type": "external",
       "name": "SilverSummit Healthplan",
-      "description": "Nevada Medicaid managed care plan providing comprehensive health coverage and member support services.",
+      "description": "Nevada Medicaid managed care plan operated by Centene Corporation, providing comprehensive health coverage including medical, behavioral health, pharmacy, vision, dental, and transportation benefits. Member services are available 24/7 with multilingual support and free interpreter services. Has a local Washoe County office at the Mill Street Care Center for in-person assistance.",
       "category": "health_services",
       "contacts": [
         {
@@ -1800,6 +1908,20 @@
         {
           "type": "website",
           "value": "https://www.silversummithealthplan.com/"
+        },
+        {
+          "type": "address",
+          "value": "855 Mill Street, Reno, NV 89502",
+          "label": "Washoe County local office (Mill Street Care Center)"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 501-8655",
+          "label": "Washoe County local office"
+        },
+        {
+          "type": "hours",
+          "value": "24/7 (Member Services phone line)"
         }
       ],
       "serviceArea": "Nevada",
@@ -1807,22 +1929,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Plan de atención administrada de Medicaid de Nevada que proporciona cobertura de salud integral y servicios de apoyo para miembros.",
+          "description": "Plan de atencion medica administrada de Medicaid de Nevada operado por Centene Corporation, que proporciona cobertura integral de salud que incluye beneficios medicos, de salud mental, farmacia, vision, dental y transporte. Servicios al miembro disponibles 24/7 con soporte multilingue y servicios de interpretacion gratuitos. Tiene una oficina local del condado de Washoe en el Mill Street Care Center para asistencia en persona.",
           "eligibility": "Elegible para Medicaid de Nevada",
           "serviceArea": "Nevada"
         },
         "tl": {
-          "description": "Nevada Medicaid managed care plan na nagbibigay ng komprehensibong health coverage at member support services.",
+          "description": "Nevada Medicaid managed care plan na pinapatakbo ng Centene Corporation, na nagbibigay ng komprehensibong health coverage kasama ang medikal, behavioral health, pharmacy, vision, dental, at transportation benefits. Member services available 24/7 na may multilingual support at libreng interpreter services. May lokal na Washoe County office sa Mill Street Care Center para sa personal na tulong.",
           "eligibility": "Kwalipikado sa Nevada Medicaid",
           "serviceArea": "Nevada"
         },
         "zh": {
-          "description": "内华达州Medicaid管理式护理计划，提供综合健康保障和会员支持服务。",
+          "description": "由Centene Corporation运营的内华达州Medicaid管理式医疗计划，提供全面的健康保障，包括医疗、行为健康、药房、视力、牙科和交通福利。会员服务24/7全天候提供，支持多语言和免费口译服务。在Mill Street Care Center设有当地沃肖县办公室提供当面援助。",
           "eligibility": "符合内华达州Medicaid资格",
           "serviceArea": "内华达州"
         },
         "vi": {
-          "description": "Kế hoạch chăm sóc quản lý Medicaid Nevada cung cấp bảo hiểm sức khỏe toàn diện và dịch vụ hỗ trợ thành viên.",
+          "description": "Ke hoach Medicaid quan ly boi Centene Corporation, cung cap bao hiem suc khoe toan dien bao gom y te, suc khoe hanh vi, duoc pham, thi luc, nha khoa va quyen loi van chuyen. Dich vu thanh vien 24/7 voi ho tro da ngon ngu va dich vu phien dich mien phi. Co van phong dia phuong tai quan Washoe o Mill Street Care Center de ho tro truc tiep.",
           "eligibility": "Đủ điều kiện Nevada Medicaid",
           "serviceArea": "Nevada"
         }
@@ -1832,12 +1954,12 @@
       "id": "ext-dwss",
       "type": "external",
       "name": "DSS Reno (Division of Social Services)",
-      "description": "Nevada Division of Social Services (formerly DWSS, renamed July 2025). Provides SNAP, TANF, Medicaid, Energy Assistance, Water/Sewer Assistance, and Child Care Assistance. Apply online at accessnevada.nv.gov or in person.",
+      "description": "Main Reno district office of the Nevada Division of Social Services (renamed from DWSS in July 2025). Provides in-person assistance for SNAP (food assistance), TANF (cash assistance), Medicaid, Nevada Check Up, Energy Assistance Program, Water/Sewer Assistance, and Child Care Assistance. Applications can also be submitted online through Access Nevada (accessnevada.nv.gov).",
       "category": "government",
       "contacts": [
         {
           "type": "hours",
-          "value": "Monday-Friday 7:00 AM - 5:00 PM"
+          "value": "Mon-Fri 8:00 AM - 5:00 PM"
         },
         {
           "type": "phone",
@@ -1857,19 +1979,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Agencia estatal de Nevada que proporciona programas de SNAP, TANF, Medicaid y otros beneficios públicos. Solicite en línea o en persona.",
+          "description": "Oficina distrital principal de Reno de la Division de Servicios Sociales de Nevada (renombrada de DWSS en julio de 2025). Proporciona asistencia en persona para SNAP (asistencia alimentaria), TANF (asistencia en efectivo), Medicaid, Nevada Check Up, Programa de Asistencia Energetica, Asistencia de Agua/Alcantarillado y Asistencia de Cuidado Infantil. Las solicitudes tambien se pueden enviar en linea a traves de Access Nevada (accessnevada.nv.gov).",
           "serviceArea": "Todo el estado"
         },
         "tl": {
-          "description": "Ahensya ng estado ng Nevada na nagbibigay ng SNAP, TANF, Medicaid, at iba pang public benefit programs. Mag-apply online o personal.",
+          "description": "Pangunahing opisina ng Reno ng Nevada Division of Social Services (pinalitan ang pangalan mula DWSS noong Hulyo 2025). Nagbibigay ng personal na tulong para sa SNAP (tulong sa pagkain), TANF (tulong sa pera), Medicaid, Nevada Check Up, Energy Assistance Program, Water/Sewer Assistance, at Child Care Assistance. Maaari ring isumite ang mga aplikasyon online sa pamamagitan ng Access Nevada (accessnevada.nv.gov).",
           "serviceArea": "Buong estado"
         },
         "zh": {
-          "description": "内华达州政府机构，提供SNAP、TANF、Medicaid和其他公共福利项目。可在线或亲自申请。",
+          "description": "内华达州社会服务部（2025年7月从DWSS更名）里诺主要地区办公室。提供SNAP（食品援助）、TANF（现金援助）、Medicaid、Nevada Check Up、能源援助计划、水/下水道援助和儿童保育援助的当面服务。也可通过Access Nevada (accessnevada.nv.gov)在线提交申请。",
           "serviceArea": "全州"
         },
         "vi": {
-          "description": "Cơ quan bang Nevada cung cấp các chương trình SNAP, TANF, Medicaid và các trợ cấp công khác. Đăng ký trực tuyến hoặc trực tiếp.",
+          "description": "Van phong chinh tai Reno cua Bo Dich vu Xa hoi Nevada (doi ten tu DWSS vao thang 7 nam 2025). Cung cap ho tro truc tiep cho SNAP (ho tro thuc pham), TANF (ho tro tien mat), Medicaid, Nevada Check Up, Chuong trinh Ho tro Nang luong, Ho tro Nuoc/Cong va Ho tro Giu tre. Don cung co the nop truc tuyen qua Access Nevada (accessnevada.nv.gov).",
           "serviceArea": "Toàn tiểu bang"
         }
       }
@@ -1878,7 +2000,7 @@
       "id": "ext-dwss-sparks",
       "type": "external",
       "name": "DSS Sparks (Division of Social Services)",
-      "description": "Nevada Division of Social Services (formerly DWSS, renamed July 2025), Sparks District Office. Provides SNAP, TANF, Medicaid, Energy Assistance, and Child Care Assistance. Apply online at accessnevada.nv.gov.",
+      "description": "Sparks district office of the Nevada Division of Social Services (renamed from DWSS in July 2025). Provides in-person assistance for SNAP, TANF, Medicaid, Nevada Check Up, Energy Assistance, and Child Care Assistance. A second Sparks location at 921 12th Street handles appointments only. Applications can also be submitted online at accessnevada.nv.gov.",
       "category": "government",
       "contacts": [
         {
@@ -1902,19 +2024,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Oficina del distrito de Sparks para servicios de bienestar de Nevada incluyendo solicitudes de SNAP, TANF y Medicaid.",
+          "description": "Oficina distrital de Sparks de la Division de Servicios Sociales de Nevada (renombrada de DWSS en julio de 2025). Proporciona asistencia en persona para SNAP, TANF, Medicaid, Nevada Check Up, Asistencia Energetica y Asistencia de Cuidado Infantil. Una segunda ubicacion en Sparks en 921 12th Street atiende solo con cita. Las solicitudes tambien se pueden enviar en linea en accessnevada.nv.gov.",
           "serviceArea": "Sparks"
         },
         "tl": {
-          "description": "Opisina ng distrito ng Sparks para sa mga serbisyo ng welfare ng Nevada kasama ang SNAP, TANF, at Medicaid applications.",
+          "description": "Opisina ng Sparks ng Nevada Division of Social Services (pinalitan ang pangalan mula DWSS noong Hulyo 2025). Nagbibigay ng personal na tulong para sa SNAP, TANF, Medicaid, Nevada Check Up, Energy Assistance, at Child Care Assistance. Ang pangalawang lokasyon sa Sparks sa 921 12th Street ay tumatanggap lamang ng may appointment. Maaari ring isumite ang mga aplikasyon online sa accessnevada.nv.gov.",
           "serviceArea": "Sparks"
         },
         "zh": {
-          "description": "Sparks地区办公室，提供内华达州福利服务，包括SNAP、TANF和Medicaid申请。",
+          "description": "内华达州社会服务部（2025年7月从DWSS更名）斯帕克斯地区办公室。提供SNAP、TANF、Medicaid、Nevada Check Up、能源援助和儿童保育援助的当面服务。斯帕克斯第二个地点位于921 12th Street，仅接受预约。也可在accessnevada.nv.gov在线提交申请。",
           "serviceArea": "斯帕克斯"
         },
         "vi": {
-          "description": "Văn phòng quận Sparks cho các dịch vụ phúc lợi Nevada bao gồm đăng ký SNAP, TANF và Medicaid.",
+          "description": "Van phong Sparks cua Bo Dich vu Xa hoi Nevada (doi ten tu DWSS vao thang 7 nam 2025). Cung cap ho tro truc tiep cho SNAP, TANF, Medicaid, Nevada Check Up, Ho tro Nang luong va Ho tro Giu tre. Dia diem Sparks thu hai tai 921 12th Street chi nhan hen. Don cung co the nop truc tuyen tai accessnevada.nv.gov.",
           "serviceArea": "Sparks"
         }
       }
@@ -1923,12 +2045,12 @@
       "id": "ext-nv-dmv",
       "type": "external",
       "name": "Nevada DMV - ID Services",
-      "description": "Driver's licenses and state ID cards. Homeless individuals can use Declaration of Homeless Status form (DMV-128) in lieu of address proof.",
+      "description": "Nevada Department of Motor Vehicles full-service office in Reno providing driver's licenses, state ID cards, Real ID, vehicle registration, and emission testing. Homeless individuals can use the Declaration of Homeless Status form (DMV-128) in lieu of address proof. Appointments are recommended and can be made at dmv.nv.gov.",
       "category": "government",
       "contacts": [
         {
           "type": "hours",
-          "value": "Monday-Friday 8:00 AM - 5:00 PM"
+          "value": "Mon-Fri 8:00 AM - 5:00 PM, Sat 8:00 AM - 4:00 PM"
         },
         {
           "type": "phone",
@@ -1948,22 +2070,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Licencias de conducir y tarjetas de identificación estatal. Las personas sin hogar pueden usar el formulario de Declaración de Estado de Personas sin Hogar (DMV-128) en lugar de comprobante de domicilio.",
+          "description": "Oficina de servicio completo del Departamento de Vehiculos Motorizados de Nevada en Reno que proporciona licencias de conducir, tarjetas de identificacion estatal, Real ID, registro de vehiculos y pruebas de emisiones. Las personas sin hogar pueden usar el formulario de Declaracion de Estado de Persona sin Hogar (DMV-128) en lugar de prueba de domicilio. Se recomiendan citas y se pueden hacer en dmv.nv.gov.",
           "eligibility": "Formulario DMV-128 disponible para declaración de estado de personas sin hogar",
           "serviceArea": "Nevada"
         },
         "tl": {
-          "description": "Mga driver's license at state ID cards. Ang mga homeless na indibidwal ay maaaring gumamit ng Declaration of Homeless Status form (DMV-128) bilang kapalit ng address proof.",
+          "description": "Full-service na opisina ng Nevada Department of Motor Vehicles sa Reno na nagbibigay ng driver's licenses, state ID cards, Real ID, vehicle registration, at emission testing. Ang mga homeless na indibidwal ay maaaring gumamit ng Declaration of Homeless Status form (DMV-128) sa halip na proof of address. Inirerekomenda ang appointments at maaaring gawin sa dmv.nv.gov.",
           "eligibility": "Form DMV-128 available para sa homeless status declaration",
           "serviceArea": "Nevada"
         },
         "zh": {
-          "description": "驾驶执照和州身份证。无家可归者可使用无家可归身份声明表（DMV-128）代替地址证明。",
+          "description": "位于里诺的内华达州机动车辆管理局全服务办公室，提供驾驶执照、州身份证、Real ID、车辆登记和排放检测。无家可归者可使用无家可归状态声明表（DMV-128）代替地址证明。建议预约，可在dmv.nv.gov预约。",
           "eligibility": "DMV-128表格可用于无家可归身份声明",
           "serviceArea": "内华达州"
         },
         "vi": {
-          "description": "Bằng lái xe và thẻ căn cước bang. Người vô gia cư có thể sử dụng mẫu Tuyên bố Tình trạng Vô gia cư (DMV-128) thay cho bằng chứng địa chỉ.",
+          "description": "Van phong dich vu day du cua So Xe co gioi Nevada tai Reno cung cap bang lai xe, the can cuoc tieu bang, Real ID, dang ky xe va kiem tra khi thai. Nguoi vo gia cu co the su dung mau Dan Tinh trang Vo gia cu (DMV-128) thay cho bang chung dia chi. Nen dat lich hen va co the dat tai dmv.nv.gov.",
           "eligibility": "Mẫu DMV-128 dùng cho tuyên bố tình trạng vô gia cư",
           "serviceArea": "Nevada"
         }
@@ -1973,12 +2095,12 @@
       "id": "ext-ssa",
       "type": "external",
       "name": "Social Security Administration",
-      "description": "Social Security cards, disability benefits, and retirement benefits. Free replacement Social Security cards available.",
+      "description": "Federal field office providing Social Security card services (including free replacements), disability benefits (SSDI/SSI), retirement benefits, Medicare enrollment, and survivor benefits. Walk-ins accepted but scheduling ahead reduces wait times. Located across from the Main Reno Post Office.",
       "category": "government",
       "contacts": [
         {
           "type": "hours",
-          "value": "Monday-Friday 9:00 AM - 4:00 PM"
+          "value": "Mon, Tue, Thu, Fri 9:00 AM - 4:00 PM; Wed 9:00 AM - 12:00 PM"
         },
         {
           "type": "phone",
@@ -1997,19 +2119,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Tarjetas de Seguro Social, beneficios por discapacidad y beneficios de jubilación. Tarjetas de reemplazo del Seguro Social disponibles de forma gratuita.",
+          "description": "Oficina federal que proporciona servicios de tarjeta de Seguro Social (incluyendo reemplazos gratuitos), beneficios por discapacidad (SSDI/SSI), beneficios de jubilacion, inscripcion en Medicare y beneficios para sobrevivientes. Se aceptan personas sin cita pero programar con anticipacion reduce los tiempos de espera. Ubicada frente a la Oficina de Correos Principal de Reno.",
           "serviceArea": "Todo el país"
         },
         "tl": {
-          "description": "Social Security cards, disability benefits, at retirement benefits. Libreng replacement Social Security cards.",
+          "description": "Federal field office na nagbibigay ng Social Security card services (kasama ang libreng replacements), disability benefits (SSDI/SSI), retirement benefits, Medicare enrollment, at survivor benefits. Walk-ins ay tinatanggap pero ang pag-schedule nang maaga ay nakakabawas ng oras ng paghihintay. Matatagpuan sa tapat ng Main Reno Post Office.",
           "serviceArea": "Buong bansa"
         },
         "zh": {
-          "description": "社会安全卡、残障福利和退休福利。可免费更换社会安全卡。",
+          "description": "联邦现场办公室提供社会保障卡服务（包括免费补办）、残疾福利（SSDI/SSI）、退休福利、Medicare注册和遗属福利。接受无预约来访但提前预约可减少等待时间。位于里诺主邮局对面。",
           "serviceArea": "全国"
         },
         "vi": {
-          "description": "Thẻ An sinh Xã hội, trợ cấp khuyết tật và trợ cấp hưu trí. Thẻ An sinh Xã hội thay thế miễn phí.",
+          "description": "Van phong lien bang cung cap dich vu the An sinh Xa hoi (bao gom thay the mien phi), quyen loi khuyet tat (SSDI/SSI), quyen loi huu tri, dang ky Medicare va quyen loi nguoi song sot. Chap nhan den khong hen nhung dat lich truoc se giam thoi gian cho doi. Toa lac doi dien Buu dien Chinh Reno.",
           "serviceArea": "Toàn quốc"
         }
       }
@@ -2567,7 +2689,7 @@
       "id": "ext-988-crisis",
       "type": "external",
       "name": "988 Suicide & Crisis Lifeline",
-      "description": "National crisis line for anyone experiencing suicidal thoughts, mental health crisis, or emotional distress. Free, confidential support 24/7. If calling 911, ask for a Crisis Intervention Team (CIT) Officer.",
+      "description": "National crisis hotline providing free, confidential emotional support 24/7/365 for anyone experiencing suicidal thoughts, substance use issues, mental health crises, or any emotional distress. Trained counselors are available by phone, text, and online chat in English, Spanish, and 240+ additional languages via interpreter services. Veterans can press 1 after dialing 988 to reach the Veterans Crisis Line; deaf/hard-of-hearing callers can use TTY (dial 711 then 988).",
       "category": "crisis_mental_health",
       "contacts": [
         {
@@ -2582,6 +2704,11 @@
         {
           "type": "website",
           "value": "https://988lifeline.org"
+        },
+        {
+          "type": "website",
+          "value": "https://988lifeline.org/chat",
+          "label": "Online Chat"
         }
       ],
       "serviceArea": "Nationwide",
@@ -2589,22 +2716,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Línea nacional de crisis para cualquier persona que experimente pensamientos suicidas, crisis de salud mental o angustia emocional. Apoyo gratuito y confidencial 24/7. Si llama al 911, pida un Oficial del Equipo de Intervención en Crisis (CIT).",
+          "description": "Linea de crisis nacional que brinda apoyo emocional gratuito y confidencial las 24 horas del dia, los 7 dias de la semana, los 365 dias del ano, para cualquier persona que experimente pensamientos suicidas, problemas de uso de sustancias, crisis de salud mental o cualquier angustia emocional. Consejeros capacitados disponibles por telefono, mensaje de texto y chat en linea en ingles, espanol y mas de 240 idiomas adicionales. Los veteranos pueden presionar 1 despues de marcar 988; personas sordas pueden usar TTY (marque 711 y luego 988).",
           "eligibility": "Cualquier persona en crisis",
           "serviceArea": "Todo el país"
         },
         "tl": {
-          "description": "Pambansang crisis line para sa sinumang nakakaranas ng suicidal thoughts, mental health crisis, o emotional distress. Libre at confidential na suporta 24/7. Kung tatawag ng 911, humingi ng Crisis Intervention Team (CIT) Officer.",
+          "description": "Pambansang linya ng krisis na nagbibigay ng libre at kumpidensyal na suportang emosyonal 24/7/365 para sa sinumang nakakaranas ng mga pag-iisip na pagpapakamatay, problema sa paggamit ng substance, krisis sa kalusugang mental, o anumang emotional distress. Mga sanay na counselor ay available sa telepono, text, at online chat sa Ingles, Espanyol, at 240+ karagdagang wika. Mga beterano ay pwedeng pindutin ang 1 pagkatapos mag-dial ng 988; mga bingi ay maaaring gumamit ng TTY (dial 711 pagkatapos 988).",
           "eligibility": "Sinumang nasa krisis",
           "serviceArea": "Buong bansa"
         },
         "zh": {
-          "description": "面向任何有自杀念头、心理健康危机或情绪困扰者的全国危机热线。免费、保密的24/7支持。如果拨打911，请要求危机干预团队（CIT）警员。",
+          "description": "全国危机热线，全年无休24/7提供免费、保密的情感支持，服务对象包括有自杀念头、药物滥用问题、心理健康危机或任何情绪困扰的人。经过培训的咨询师可通过电话、短信和在线聊天提供英语、西班牙语及240多种语言的服务。退伍军人拨打988后按1可联系退伍军人危机热线；聋人/听力障碍者可使用TTY（拨711再拨988）。",
           "eligibility": "任何处于危机中的人",
           "serviceArea": "全国"
         },
         "vi": {
-          "description": "Đường dây khủng hoảng quốc gia cho bất kỳ ai có ý nghĩ tự tử, khủng hoảng sức khỏe tâm thần hoặc đau khổ tinh thần. Hỗ trợ miễn phí, bảo mật 24/7. Nếu gọi 911, hãy yêu cầu Nhân viên Nhóm Can thiệp Khủng hoảng (CIT).",
+          "description": "Duong day khung hoang quoc gia cung cap ho tro tinh cam mien phi, bao mat 24/7/365 cho bat ky ai dang co suy nghi tu tu, van de su dung chat gay nghien, khung hoang suc khoe tam than, hoac bat ky phien muon nao. Cac tu van vien duoc dao tao san sang qua dien thoai, tin nhan va tro chuyen truc tuyen bang tieng Anh, tieng Tay Ban Nha va hon 240 ngon ngu khac. Cuu chien binh co the bam 1 sau khi goi 988; nguoi khiem thinh co the su dung TTY (goi 711 roi 988).",
           "eligibility": "Bất kỳ ai đang trong khủng hoảng",
           "serviceArea": "Toàn quốc"
         }
@@ -2972,7 +3099,7 @@
       "id": "ext-nevadaworks",
       "type": "external",
       "name": "Nevadaworks / EmployNV Career Hub",
-      "description": "One-stop shop for free career services including job search assistance, resume help, skills training, and career counseling. Good Jobs Northern Nevada program provides free training in healthcare, IT, manufacturing, and logistics with support services like childcare and transportation.",
+      "description": "Federally-funded workforce development board operating EmployNV Career Hubs in partnership with the Nevada Department of Employment, Training & Rehabilitation (DETR). Provides free one-on-one job search support, resume assistance, rapid skills training, career pathway planning, and connections to training programs in healthcare, IT, manufacturing, and logistics. The Good Jobs Northern Nevada program offers free training with wraparound support services including childcare and transportation assistance.",
       "category": "employment_training",
       "contacts": [
         {
@@ -2990,6 +3117,16 @@
         {
           "type": "address",
           "value": "4001 S Virginia St, Ste H, Reno, NV 89502"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 834-1970",
+          "label": "EmployNV Career Hub Reno"
+        },
+        {
+          "type": "address",
+          "value": "2281 Pyramid Way, Sparks, NV 89431",
+          "label": "Sparks Career Hub"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -2997,22 +3134,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Centro integral de servicios gratuitos de carrera incluyendo asistencia en búsqueda de empleo, ayuda con currículum, capacitación en habilidades y consejería de carrera. El programa Good Jobs Northern Nevada proporciona capacitación gratuita en salud, TI, manufactura y logística con servicios de apoyo como cuidado infantil y transporte.",
+          "description": "Junta de desarrollo laboral financiada federalmente que opera los Centros de Carrera EmployNV en asociacion con el Departamento de Empleo, Capacitacion y Rehabilitacion de Nevada (DETR). Proporciona apoyo gratuito personalizado de busqueda de empleo, asistencia con curriculos, capacitacion rapida en habilidades, planificacion de trayectoria profesional y conexiones a programas de capacitacion en salud, TI, manufactura y logistica. El programa Good Jobs Northern Nevada ofrece capacitacion gratuita con servicios de apoyo integral incluyendo cuidado infantil y asistencia de transporte.",
           "eligibility": "Todos los buscadores de empleo",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "One-stop shop para sa libreng career services kasama ang job search assistance, resume help, skills training, at career counseling. Ang Good Jobs Northern Nevada program ay nagbibigay ng libreng training sa healthcare, IT, manufacturing, at logistics na may support services tulad ng childcare at transportasyon.",
+          "description": "Federally-funded workforce development board na nagpapatakbo ng EmployNV Career Hubs sa pakikipagtulungan sa Nevada DETR. Nagbibigay ng libreng one-on-one job search support, tulong sa resume, mabilis na skills training, career pathway planning, at koneksyon sa mga training programs sa healthcare, IT, manufacturing, at logistics. Ang Good Jobs Northern Nevada program ay nag-aalok ng libreng training na may wraparound support services kasama ang childcare at transportation assistance.",
           "eligibility": "Lahat ng naghahanap ng trabaho",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "一站式免费职业服务中心，包括求职援助、简历帮助、技能培训和职业咨询。Good Jobs Northern Nevada项目提供免费的医疗、IT、制造和物流培训，并附带托儿和交通等支持服务。",
+          "description": "联邦资助的劳动力发展委员会，与内华达州就业、培训和康复部（DETR）合作运营EmployNV职业中心。提供免费的一对一求职支持、简历援助、快速技能培训、职业路径规划以及医疗保健、IT、制造和物流培训项目。Good Jobs Northern Nevada项目提供免费培训及包括托儿和交通援助在内的全方位支持服务。",
           "eligibility": "所有求职者",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Trung tâm dịch vụ nghề nghiệp miễn phí toàn diện bao gồm hỗ trợ tìm việc, giúp viết CV, đào tạo kỹ năng và tư vấn nghề nghiệp. Chương trình Good Jobs Northern Nevada cung cấp đào tạo miễn phí về y tế, CNTT, sản xuất và hậu cần với dịch vụ hỗ trợ như giữ trẻ và giao thông.",
+          "description": "Hoi dong phat trien luc luong lao dong duoc lien bang tai tro, dieu hanh cac Trung tam Nghe nghiep EmployNV hop tac voi DETR Nevada. Cung cap ho tro tim viec mot-mot mien phi, ho tro so yeu ly lich, dao tao ky nang nhanh, lap ke hoach nghe nghiep va ket noi voi cac chuong trinh dao tao trong y te, CNTT, san xuat va hau can. Chuong trinh Good Jobs Northern Nevada cung cap dao tao mien phi voi dich vu ho tro toan dien bao gom giu tre va ho tro giao thong.",
           "eligibility": "Tất cả người tìm việc",
           "serviceArea": "Bắc Nevada"
         }
@@ -3022,7 +3159,7 @@
       "id": "ext-csa-workforce",
       "type": "external",
       "name": "Community Services Agency (CSA) Workforce Development",
-      "description": "Free employment services for job seekers of all backgrounds. Provides skill-building, training, and removes barriers to employment. Connects job seekers with opportunities in aerospace, construction, healthcare, IT, manufacturing, mining, and tourism.",
+      "description": "Community Services Agency has been helping individuals and families overcome poverty and build self-sufficiency for over 60 years. Their free Workforce Development program provides vocational training, job training expense assistance, resume building, soft skills training, interview preparation, computer classes, job search support, and a 12-week paid work experience program for young adults ages 18-24.",
       "category": "employment_training",
       "contacts": [
         {
@@ -3036,6 +3173,15 @@
         {
           "type": "address",
           "value": "1090 E 8th St, Reno, NV 89512"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Thu 8am-5pm, Fri 8am-4:30pm"
+        },
+        {
+          "type": "email",
+          "value": "workforce@csareno.org",
+          "label": "Workforce Development"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -3043,22 +3189,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios de empleo gratuitos para buscadores de empleo de todos los orígenes. Proporciona desarrollo de habilidades, capacitación y elimina barreras al empleo. Conecta a buscadores de empleo con oportunidades en aeroespacial, construcción, salud, TI, manufactura, minería y turismo.",
+          "description": "La Agencia de Servicios Comunitarios ha ayudado a individuos y familias a superar la pobreza y construir autosuficiencia durante mas de 60 anos. Su programa gratuito de Desarrollo Laboral proporciona capacitacion vocacional, asistencia con gastos de capacitacion, creacion de curriculos, capacitacion en habilidades blandas, preparacion para entrevistas, clases de computacion, apoyo en busqueda de empleo y un programa de experiencia laboral remunerada de 12 semanas para jovenes de 18 a 24 anos.",
           "eligibility": "Todos los buscadores de empleo",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Libreng employment services para sa lahat ng uri ng job seekers. Nagbibigay ng skill-building, training, at nag-aalis ng mga hadlang sa employment. Nagkokonekta sa mga job seekers sa mga oportunidad sa aerospace, construction, healthcare, IT, manufacturing, mining, at tourism.",
+          "description": "Ang Community Services Agency ay tumutulong sa mga indibidwal at pamilya na malampasan ang kahirapan at bumuo ng sariling kasapatan sa loob ng mahigit 60 taon. Ang kanilang libreng Workforce Development program ay nagbibigay ng vocational training, tulong sa gastos sa pagsasanay, paggawa ng resume, soft skills training, paghahanda sa interview, computer classes, suporta sa paghahanap ng trabaho, at 12-linggong bayad na work experience program para sa mga kabataang 18-24 taong gulang.",
           "eligibility": "Lahat ng naghahanap ng trabaho",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为各类求职者提供免费就业服务。提供技能培养、培训，消除就业障碍。将求职者与航空航天、建筑、医疗、IT、制造、采矿和旅游业的机会对接。",
+          "description": "社区服务机构60多年来一直帮助个人和家庭克服贫困、建立自给自足。其免费劳动力发展项目提供职业培训、培训费用援助、简历制作、软技能培训、面试准备、电脑课程、求职支持和为18-24岁青年提供的12周带薪工作体验项目。",
           "eligibility": "所有求职者",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Dịch vụ việc làm miễn phí cho người tìm việc mọi nền tảng. Cung cấp xây dựng kỹ năng, đào tạo và loại bỏ rào cản việc làm. Kết nối người tìm việc với cơ hội trong hàng không vũ trụ, xây dựng, y tế, CNTT, sản xuất, khai thác mỏ và du lịch.",
+          "description": "Co quan Dich vu Cong dong da giup ca nhan va gia dinh vuot qua ngheo doi va xay dung kha nang tu lap trong hon 60 nam. Chuong trinh Phat trien Luc luong Lao dong mien phi cung cap dao tao nghe, ho tro chi phi dao tao, xay dung so yeu ly lich, dao tao ky nang mem, chuan bi phong van, lop tin hoc, ho tro tim viec va chuong trinh trai nghiem lam viec co luong 12 tuan cho thanh nien tu 18-24 tuoi.",
           "eligibility": "Tất cả người tìm việc",
           "serviceArea": "Bắc Nevada"
         }
@@ -3109,7 +3255,7 @@
       "id": "ext-childrens-cabinet",
       "type": "external",
       "name": "The Children's Cabinet",
-      "description": "Child care subsidy assistance for income-eligible families so they can work, receive job training, or finish education. Subsidies cover up to 100% of child care costs with copays of $0, $90, or $150/month based on income. Priority for children with special needs, homeless children, and very low-income families.",
+      "description": "Nonprofit serving Northern Nevada since 1985 with a mission to keep children safe and families together. Offers 20+ programs for children birth to age 24, including childcare subsidies (covering up to 100% of costs), childcare resource and referral, free family counseling, crisis intervention, academic support and tutoring, job training for young adults, transitional living, parenting classes, and the Safe Place program for youth in crisis.",
       "category": "childcare",
       "contacts": [
         {
@@ -3128,6 +3274,15 @@
         {
           "type": "address",
           "value": "1090 S Rock Blvd, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 8am-5pm"
+        },
+        {
+          "type": "phone",
+          "value": "1-800-536-4588",
+          "label": "Safe Place hotline"
         }
       ],
       "serviceArea": "All Nevada except Clark/Lincoln/Nye County",
@@ -3135,22 +3290,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Asistencia de subsidio de cuidado infantil para familias elegibles por ingresos para que puedan trabajar, recibir capacitación laboral o terminar la educación. Los subsidios cubren hasta el 100% de los costos de cuidado infantil con copagos de $0, $90 o $150/mes según los ingresos. Prioridad para niños con necesidades especiales, niños sin hogar y familias de muy bajos ingresos.",
+          "description": "Organizacion sin fines de lucro sirviendo al norte de Nevada desde 1985 con la mision de mantener a los ninos seguros y a las familias unidas. Ofrece mas de 20 programas para ninos desde el nacimiento hasta los 24 anos, incluyendo subsidios de cuidado infantil (cubriendo hasta el 100% de los costos), referencia de cuidado infantil, consejeria familiar gratuita, intervencion en crisis, apoyo academico y tutoria, capacitacion laboral para jovenes, vivienda transitoria, clases de crianza y el programa Safe Place para jovenes en crisis.",
           "eligibility": "Basado en ingresos (igual o inferior al 41% del Ingreso Mediano Estatal)",
           "serviceArea": "Todo Nevada excepto los condados Clark/Lincoln/Nye"
         },
         "tl": {
-          "description": "Child care subsidy assistance para sa income-eligible na pamilya para makapagtrabaho, makapag-job training, o matapos ang edukasyon. Ang mga subsidyo ay sumasaklaw ng hanggang 100% ng child care costs na may copays na $0, $90, o $150/buwan batay sa kita. Priyoridad para sa mga batang may special needs, homeless na bata, at very low-income na pamilya.",
+          "description": "Nonprofit na nagsisilbi sa Northern Nevada mula 1985 na may misyon na panatilihing ligtas ang mga bata at magkasama ang mga pamilya. Nag-aalok ng 20+ na programa para sa mga batang bagong silang hanggang 24 taong gulang, kasama ang subsidyo sa childcare (hanggang 100% ng gastos), referral sa childcare, libreng family counseling, crisis intervention, academic support at tutoring, job training para sa mga kabataan, transitional living, parenting classes, at ang Safe Place program para sa mga kabataang nasa krisis.",
           "eligibility": "Batay sa kita (katumbas o mas mababa sa 41% ng State Median Income)",
           "serviceArea": "Buong Nevada maliban sa Clark/Lincoln/Nye County"
         },
         "zh": {
-          "description": "为符合收入条件的家庭提供托儿补贴援助，使他们能够工作、接受职业培训或完成教育。补贴覆盖高达100%的托儿费用，根据收入自付$0、$90或$150/月。优先考虑有特殊需要的儿童、无家可归儿童和极低收入家庭。",
+          "description": "自1985年以来服务北内华达州的非营利组织，使命是保护儿童安全和维护家庭完整。为出生至24岁的儿童提供20多个项目，包括托儿补贴（最高覆盖100%费用）、托儿推荐、免费家庭咨询、危机干预、学业辅导、青少年职业培训、过渡性住房、育儿课程和青少年危机安全场所项目。",
           "eligibility": "基于收入（不超过州中位收入的41%）",
           "serviceArea": "内华达州全境（克拉克/林肯/奈县除外）"
         },
         "vi": {
-          "description": "Hỗ trợ trợ cấp giữ trẻ cho gia đình đủ điều kiện thu nhập để có thể làm việc, đào tạo việc làm hoặc hoàn thành giáo dục. Trợ cấp chi trả đến 100% chi phí giữ trẻ với đồng thanh toán $0, $90 hoặc $150/tháng theo thu nhập. Ưu tiên trẻ có nhu cầu đặc biệt, trẻ vô gia cư và gia đình thu nhập rất thấp.",
+          "description": "To chuc phi loi nhuan phuc vu Bac Nevada tu 1985 voi su menh giu tre em an toan va gia dinh gan ket. Cung cap hon 20 chuong trinh cho tre tu so sinh den 24 tuoi, bao gom tro cap giu tre (len den 100% chi phi), gioi thieu giu tre, tu van gia dinh mien phi, can thiep khung hoang, ho tro hoc tap va gia su, dao tao viec lam cho thanh nien, nha o chuyen tiep, lop hoc lam cha me va chuong trinh Safe Place cho thanh thieu nien trong khung hoang.",
           "eligibility": "Dựa trên thu nhập (bằng hoặc dưới 41% Thu nhập Trung vị Bang)",
           "serviceArea": "Toàn Nevada trừ Quận Clark/Lincoln/Nye"
         }
@@ -3252,7 +3407,7 @@
       "id": "ext-mtm-medicaid-transport",
       "type": "external",
       "name": "MTM Health - Medicaid Transportation",
-      "description": "Free non-emergency transportation for Nevada Medicaid members to covered appointments. Offers reloadable debit card for public transit day passes. Must schedule rides in advance.",
+      "description": "Statewide non-emergency medical transportation (NEMT) broker for Nevada Medicaid members. Arranges free rides to covered medical appointments for members with no other transportation options, including sedan, rideshare, wheelchair-accessible vehicles, and non-emergency ambulance transport. Schedule routine rides at least 3 business days in advance; urgent trips can be scheduled 24/7.",
       "category": "transportation",
       "contacts": [
         {
@@ -3262,6 +3417,10 @@
         {
           "type": "website",
           "value": "https://www.mtm-inc.net/nevada/members/"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Sat 7am-6pm PT (routine); 24/7 (urgent trips)"
         }
       ],
       "serviceArea": "Statewide",
@@ -3269,22 +3428,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Transporte no urgente gratuito para miembros de Medicaid de Nevada a citas cubiertas. Ofrece tarjeta de débito recargable para pases diarios de transporte público. Debe programar viajes con anticipación.",
+          "description": "Agente estatal de transporte medico no de emergencia (NEMT) para miembros de Medicaid de Nevada. Organiza viajes gratuitos a citas medicas cubiertas para miembros sin otras opciones de transporte, incluyendo sedan, rideshare, vehiculos accesibles para sillas de ruedas y transporte en ambulancia no de emergencia. Programe viajes de rutina con al menos 3 dias habiles de anticipacion; viajes urgentes se pueden programar 24/7.",
           "eligibility": "Miembros de Medicaid de Nevada",
           "serviceArea": "Todo el estado"
         },
         "tl": {
-          "description": "Libreng non-emergency transportation para sa Nevada Medicaid members patungo sa covered appointments. Nag-aalok ng reloadable debit card para sa public transit day passes. Kailangang i-schedule ang mga sakay nang maaga.",
+          "description": "Statewide non-emergency medical transportation (NEMT) broker para sa mga miyembro ng Nevada Medicaid. Nag-aayos ng libreng sakay papunta sa covered medical appointments para sa mga miyembrong walang ibang transportasyon, kasama ang sedan, rideshare, wheelchair-accessible vehicles, at non-emergency ambulance transport. Mag-schedule ng routine rides nang hindi bababa sa 3 business days nang maaga; urgent trips ay maaaring i-schedule 24/7.",
           "eligibility": "Nevada Medicaid members",
           "serviceArea": "Buong estado"
         },
         "zh": {
-          "description": "为内华达州Medicaid会员提供免费非紧急交通，前往受保预约。提供可充值借记卡用于公共交通日票。需提前预约乘车。",
+          "description": "为内华达州Medicaid会员提供的全州非紧急医疗运输（NEMT）经纪服务。为没有其他交通工具的会员安排免费前往有保障医疗预约的交通，包括轿车、共享出行、轮椅无障碍车辆和非紧急救护车运输。常规出行请至少提前3个工作日预约；紧急出行可24/7预约。",
           "eligibility": "内华达州Medicaid会员",
           "serviceArea": "全州"
         },
         "vi": {
-          "description": "Vận chuyển không khẩn cấp miễn phí cho thành viên Nevada Medicaid đến các cuộc hẹn được bảo hiểm. Cung cấp thẻ ghi nợ nạp lại cho vé xe công cộng. Phải đặt lịch trước.",
+          "description": "Dich vu moi gioi van chuyen y te khong khan cap (NEMT) toan tieu bang cho thanh vien Medicaid Nevada. Sap xep chuyen di mien phi den cac cuoc hen y te duoc bao hiem cho thanh vien khong co phuong tien khac, bao gom xe sedan, xe chung, xe cho xe lan va xe cap cuu khong khan cap. Dat lich chuyen thuong truoc it nhat 3 ngay lam viec; chuyen gap co the dat 24/7.",
           "eligibility": "Thành viên Nevada Medicaid",
           "serviceArea": "Toàn tiểu bang"
         }
@@ -3294,7 +3453,7 @@
       "id": "ext-dav-vans",
       "type": "external",
       "name": "DAV Vans for Veterans",
-      "description": "Free van rides to and from VA Sierra Nevada Healthcare System for veterans who don't have other transportation options. Ambulatory passengers only (able to move without driver assistance).",
+      "description": "Free van transportation service operated by the Disabled American Veterans (DAV) for veterans who lack other transportation to VA medical appointments. Serves within 15 miles of the VA Sierra Nevada Healthcare System in Reno, Monday through Friday. Riders must be ambulatory and ready at the appointed pickup time. Schedule at least 2 weeks in advance.",
       "category": "transportation",
       "contacts": [
         {
@@ -3304,6 +3463,16 @@
         {
           "type": "website",
           "value": "https://www.va.gov/sierra-nevada-health-care/dav-vans-transportation-for-veterans/"
+        },
+        {
+          "type": "phone",
+          "value": "(877) 426-2838",
+          "label": "DAV National (877-I-AM-A-VET)"
+        },
+        {
+          "type": "address",
+          "value": "975 Kirman Ave, Reno, NV 89502",
+          "label": "VA Sierra Nevada Healthcare System (destination)"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -3311,22 +3480,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Viajes gratuitos en furgoneta hacia y desde el Sistema de Atención Médica VA Sierra Nevada para veteranos que no tienen otras opciones de transporte. Solo pasajeros ambulatorios (capaces de moverse sin asistencia del conductor).",
+          "description": "Servicio de transporte gratuito en furgoneta operado por los Veteranos Discapacitados de America (DAV) para veteranos que carecen de otro transporte a citas medicas del VA. Sirve dentro de 15 millas del Sistema de Atencion Medica VA Sierra Nevada en Reno, de lunes a viernes. Los pasajeros deben ser ambulatorios y estar listos a la hora de recogida programada. Programe con al menos 2 semanas de anticipacion.",
           "eligibility": "Veteranos (ambulatorios)",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Libreng van rides papunta at pabalik sa VA Sierra Nevada Healthcare System para sa mga beterano na walang ibang transportation options. Ambulatory passengers lamang (kayang gumalaw nang walang tulong ng driver).",
+          "description": "Libreng serbisyo ng transportasyon sa van na pinapatakbo ng Disabled American Veterans (DAV) para sa mga beteranong walang ibang transportasyon papunta sa mga VA medical appointment. Nagsisilbi sa loob ng 15 milya ng VA Sierra Nevada Healthcare System sa Reno, Lunes hanggang Biyernes. Ang mga pasahero ay dapat ambulatory at handa sa itinakdang oras ng pickup. Mag-schedule ng hindi bababa sa 2 linggo nang maaga.",
           "eligibility": "Mga beterano (ambulatory)",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为没有其他交通方式的退伍军人提供免费往返VA Sierra Nevada医疗系统的厢式车服务。仅限可步行乘客（能够在无司机协助下行动）。",
+          "description": "由残疾美国退伍军人协会（DAV）运营的免费面包车运输服务，为缺乏其他交通工具前往VA医疗预约的退伍军人提供服务。服务范围为里诺VA Sierra Nevada医疗系统15英里内，周一至周五。乘客必须能自行上下车，并在预定接送时间准备就绪。请至少提前2周预约。",
           "eligibility": "退伍军人（可步行）",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Xe van miễn phí đến và từ Hệ thống Y tế VA Sierra Nevada cho cựu chiến binh không có phương tiện giao thông khác. Chỉ hành khách tự đi được (có thể di chuyển không cần hỗ trợ tài xế).",
+          "description": "Dich vu van chuyen mien phi bang xe van do Cuu Chien binh Khuyet tat Hoa Ky (DAV) dieu hanh, danh cho cuu chien binh khong co phuong tien di lai khac den cac cuoc hen y te VA. Phuc vu trong pham vi 15 dam tu He thong Y te VA Sierra Nevada tai Reno, thu Hai den thu Sau. Hanh khach phai tu di lai duoc va san sang tai thoi diem don. Hen truoc it nhat 2 tuan.",
           "eligibility": "Cựu chiến binh (tự đi được)",
           "serviceArea": "Bắc Nevada"
         }
@@ -3390,7 +3559,7 @@
       "id": "ext-plan-immigration",
       "type": "external",
       "name": "PLAN Citizenship & Immigration Program",
-      "description": "DOJ-recognized and accredited immigration services. Assists with adjustment of status, DACA, family petitions, Temporary Protected Status (TPS), and EOIR proceedings.",
+      "description": "DOJ-recognized and accredited immigration services program operated by the Progressive Leadership Alliance of Nevada (PLAN). Assists with adjustment of status, DACA, family petitions, Temporary Protected Status (TPS), naturalization/citizenship, and EOIR proceedings. All services are by appointment only.",
       "category": "legal_aid",
       "contacts": [
         {
@@ -3408,25 +3577,29 @@
         {
           "type": "address",
           "value": "495 Apple St, Suite 108, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 8:00 AM - 4:00 PM (by appointment only)"
         }
       ],
       "serviceArea": "Northern Nevada",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios de inmigración reconocidos y acreditados por el DOJ. Asiste con ajuste de estatus, DACA, peticiones familiares, Estatus de Protección Temporal (TPS) y procedimientos EOIR.",
+          "description": "Programa de servicios migratorios reconocido y acreditado por el DOJ, operado por la Alianza Progresista de Liderazgo de Nevada (PLAN). Asiste con ajuste de estatus, DACA, peticiones familiares, Estatus de Proteccion Temporal (TPS), naturalizacion/ciudadania y procedimientos EOIR. Todos los servicios son solo con cita.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "DOJ-recognized at accredited immigration services. Tumutulong sa adjustment of status, DACA, family petitions, Temporary Protected Status (TPS), at EOIR proceedings.",
+          "description": "DOJ-recognized at accredited na immigration services program na pinapatakbo ng Progressive Leadership Alliance of Nevada (PLAN). Tumutulong sa adjustment of status, DACA, family petitions, Temporary Protected Status (TPS), naturalization/citizenship, at EOIR proceedings. Lahat ng serbisyo ay sa appointment lamang.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "经DOJ认可和认证的移民服务。协助身份调整、DACA、家庭申请、临时保护身份（TPS）和EOIR程序。",
+          "description": "由内华达州进步领导联盟（PLAN）运营的美国司法部认可和认证的移民服务项目。协助身份调整、DACA、家庭申请、临时保护身份（TPS）、入籍/公民身份和EOIR程序。所有服务仅限预约。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Dịch vụ di trú được DOJ công nhận và chứng nhận. Hỗ trợ điều chỉnh tình trạng, DACA, đơn gia đình, Tình trạng Bảo vệ Tạm thời (TPS) và thủ tục EOIR.",
+          "description": "Chuong trinh dich vu nhap cu duoc Bo Tu phap cong nhan va cap phep, do Lien minh Lanh dao Tien bo Nevada (PLAN) dieu hanh. Ho tro dieu chinh tinh trang, DACA, dan bao gia dinh, Tinh trang Bao ve Tam thoi (TPS), nhap quoc tich va thu tuc EOIR. Tat ca dich vu chi theo lich hen.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -3530,12 +3703,12 @@
       "id": "ext-natrc",
       "type": "external",
       "name": "Nevada Assistive Technology Resource Center",
-      "description": "Part of Nevada Center for Excellence in Disabilities at UNR. Offers device loans, demonstrations, and training to help individuals with disabilities explore and use assistive technology effectively.",
+      "description": "Statewide program of the Nevada Center for Excellence in Disabilities at UNR, providing free assistive technology device loans, hands-on device demonstrations, education and training workshops, and technical assistance to help individuals with disabilities maintain or improve functional capabilities in communication, mobility, learning, and daily living.",
       "category": "disability_services",
       "contacts": [
         {
           "type": "phone",
-          "value": "(775) 682-9070"
+          "value": "(775) 455-4454"
         },
         {
           "type": "website",
@@ -3543,7 +3716,20 @@
         },
         {
           "type": "address",
-          "value": "University of Nevada, Reno, NV 89557"
+          "value": "1755 E Plumb Ln, Suite 118, Reno, NV 89502"
+        },
+        {
+          "type": "email",
+          "value": "natrc@unr.edu"
+        },
+        {
+          "type": "phone",
+          "value": "(833) 427-1672",
+          "label": "Toll-free (in Nevada)"
+        },
+        {
+          "type": "hours",
+          "value": "By appointment -- call or email to schedule"
         }
       ],
       "serviceArea": "Statewide",
@@ -3551,19 +3737,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Parte del Centro de Excelencia en Discapacidades de Nevada en UNR. Ofrece préstamos de dispositivos, demostraciones y capacitación para ayudar a personas con discapacidades a explorar y usar tecnología asistiva de manera efectiva.",
+          "description": "Programa estatal del Centro de Excelencia en Discapacidades de Nevada en la UNR, que proporciona prestamos gratuitos de dispositivos de tecnologia asistencial, demostraciones practicas, talleres de educacion y capacitacion, y asistencia tecnica para ayudar a personas con discapacidades a mantener o mejorar sus capacidades funcionales en comunicacion, movilidad, aprendizaje y vida diaria.",
           "serviceArea": "Todo el estado"
         },
         "tl": {
-          "description": "Bahagi ng Nevada Center for Excellence in Disabilities sa UNR. Nag-aalok ng device loans, demonstrations, at training para tulungan ang mga indibidwal na may kapansanan na mag-explore at gumamit ng assistive technology nang epektibo.",
+          "description": "Statewide program ng Nevada Center for Excellence in Disabilities sa UNR, na nagbibigay ng libreng assistive technology device loans, hands-on device demonstrations, education at training workshops, at technical assistance para tulungan ang mga indibidwal na may kapansanan na mapanatili o mapabuti ang functional capabilities sa komunikasyon, mobility, pag-aaral, at pang-araw-araw na pamumuhay.",
           "serviceArea": "Buong estado"
         },
         "zh": {
-          "description": "内华达大学里诺分校残障卓越中心的一部分。提供设备借用、演示和培训，帮助残障人士有效探索和使用辅助技术。",
+          "description": "UNR内华达残障卓越中心的全州项目，提供免费辅助技术设备借用、实际设备演示、教育和培训研讨会以及技术援助，帮助残障人士在沟通、行动、学习和日常生活方面保持或改善功能能力。",
           "serviceArea": "全州"
         },
         "vi": {
-          "description": "Thuộc Trung tâm Xuất sắc về Khuyết tật Nevada tại UNR. Cung cấp cho mượn thiết bị, trình diễn và đào tạo giúp người khuyết tật khám phá và sử dụng công nghệ hỗ trợ hiệu quả.",
+          "description": "Chuong trinh toan tieu bang cua Trung tam Xuat sac ve Khuyet tat Nevada tai UNR, cung cap cho muon thiet bi cong nghe ho tro mien phi, trinh dien thiet bi thuc hanh, hoi thao giao duc va dao tao, va ho tro ky thuat de giup nguoi khuyet tat duy tri hoac cai thien kha nang chuc nang trong giao tiep, di chuyen, hoc tap va sinh hoat hang ngay.",
           "serviceArea": "Toàn tiểu bang"
         }
       }
@@ -3572,7 +3758,7 @@
       "id": "ext-our-center-lgbtq",
       "type": "external",
       "name": "Our Center (LGBTQ+ Community Center)",
-      "description": "Safe, empowering, and supportive center for the LGBTQ+ community. Offers support groups for youth and adult trans members, senior community groups, prevention-focused initiatives, education, and job information.",
+      "description": "Northern Nevada's LGBTQ+ community center providing a safe, empowering, and supportive space with programming including support groups for youth and adult transgender members, senior community groups, health and wellness initiatives, family-focused programs, arts and culture activities, Mutual Aid Mondays, and resource referrals for emergency, health, mental health, and substance abuse services.",
       "category": "lgbtq_services",
       "contacts": [
         {
@@ -3601,19 +3787,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Centro seguro, empoderador y de apoyo para la comunidad LGBTQ+. Ofrece grupos de apoyo para jóvenes y miembros trans adultos, grupos comunitarios para personas mayores, iniciativas de prevención, educación e información laboral.",
+          "description": "El centro comunitario LGBTQ+ del norte de Nevada que proporciona un espacio seguro, empoderador y solidario con programacion que incluye grupos de apoyo para miembros transgenero jovenes y adultos, grupos comunitarios para personas mayores, iniciativas de salud y bienestar, programas para familias, actividades de arte y cultura, Lunes de Ayuda Mutua y referencias a recursos de emergencia, salud, salud mental y servicios de abuso de sustancias.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Ligtas, empowering, at supportive na center para sa LGBTQ+ community. Nag-aalok ng support groups para sa kabataan at adult trans members, senior community groups, prevention-focused initiatives, edukasyon, at job information.",
+          "description": "Ang LGBTQ+ community center ng Northern Nevada na nagbibigay ng ligtas, nakakapagpalakas, at suportibong espasyo na may programming kasama ang support groups para sa kabataan at adult transgender members, senior community groups, health at wellness initiatives, family-focused programs, arts at culture activities, Mutual Aid Mondays, at resource referrals para sa emergency, kalusugan, mental health, at substance abuse services.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为LGBTQ+社区提供安全、赋权和支持的中心。提供青年和成年跨性别成员支持小组、老年社区小组、预防倡议、教育和就业信息。",
+          "description": "北内华达州LGBTQ+社区中心，提供安全、赋能和支持性空间，项目包括青年和成人跨性别者支持小组、老年社区小组、健康和保健倡议、家庭项目、艺术和文化活动、互助星期一以及紧急、健康、心理健康和药物滥用服务的资源推荐。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Trung tâm an toàn, trao quyền và hỗ trợ cho cộng đồng LGBTQ+. Cung cấp nhóm hỗ trợ cho thanh thiếu niên và thành viên chuyển giới trưởng thành, nhóm cộng đồng cao tuổi, sáng kiến phòng ngừa, giáo dục và thông tin việc làm.",
+          "description": "Trung tam cong dong LGBTQ+ Bac Nevada cung cap khong gian an toan, trao quyen va ho tro voi cac chuong trinh bao gom nhom ho tro cho thanh vien chuyen gioi tre va nguoi lon, nhom cong dong nguoi cao tuoi, sang kien suc khoe, chuong trinh gia dinh, hoat dong nghe thuat va van hoa, Thu Hai Tuong tro va gioi thieu nguon luc ve cap cuu, suc khoe, suc khoe tam than va dich vu lam dung chat.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -3664,7 +3850,7 @@
       "id": "ext-hopes-lgbtq-health",
       "type": "external",
       "name": "HOPES LGBTQ & Gender Healthcare",
-      "description": "The Barry Frank Family Gender and Sexual Healthcare Clinic provides culturally competent, judgment-free health care including gender affirming resources, case management, and financial support for individuals transitioning.",
+      "description": "The Barry Frank Family Gender and Sexual Healthcare Clinic at Northern Nevada HOPES provides culturally competent, judgment-free primary care, behavioral health counseling, and gender-affirming resources for LGBTQ+ individuals. Services include hormone therapy, case management, financial support for individuals transitioning, walk-in STI testing, HIV prevention (PrEP/PEP), and onsite support groups. Accepts insurance, Medicaid, Medicare, and sliding fee scale for uninsured.",
       "category": "lgbtq_services",
       "contacts": [
         {
@@ -3678,6 +3864,10 @@
         {
           "type": "address",
           "value": "580 W 5th St, Reno, NV 89503"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Thu 8am-7pm, Fri 8am-5pm"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -3685,19 +3875,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "La Clínica de Salud de Género y Sexual de la Familia Barry Frank proporciona atención médica competente culturalmente y sin prejuicios, incluyendo recursos de afirmación de género, gestión de casos y apoyo financiero para personas en transición.",
+          "description": "La Clinica de Salud Sexual y de Genero de la Familia Barry Frank en Northern Nevada HOPES proporciona atencion primaria culturalmente competente y sin prejuicios, consejeria de salud mental y recursos de afirmacion de genero para personas LGBTQ+. Los servicios incluyen terapia hormonal, manejo de casos, apoyo financiero para personas en transicion, pruebas de ETS sin cita, prevencion del VIH (PrEP/PEP) y grupos de apoyo. Acepta seguro, Medicaid, Medicare y escala de tarifas deslizante para no asegurados.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Ang Barry Frank Family Gender and Sexual Healthcare Clinic ay nagbibigay ng culturally competent, judgment-free na health care kasama ang gender affirming resources, case management, at financial support para sa mga indibidwal na nagta-transition.",
+          "description": "Ang Barry Frank Family Gender and Sexual Healthcare Clinic sa Northern Nevada HOPES ay nagbibigay ng culturally competent, judgment-free primary care, behavioral health counseling, at gender-affirming resources para sa mga LGBTQ+ individuals. Kasama sa mga serbisyo ang hormone therapy, case management, financial support para sa mga nagta-transition, walk-in STI testing, HIV prevention (PrEP/PEP), at support groups. Tumatanggap ng insurance, Medicaid, Medicare, at sliding fee scale para sa walang insurance.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "Barry Frank家庭性别与性健康诊所提供文化敏感、无偏见的医疗服务，包括性别肯定资源、案例管理和为过渡期个人提供的经济支持。",
+          "description": "Northern Nevada HOPES的Barry Frank家庭性别与性健康诊所为LGBTQ+个人提供文化敏感、无偏见的初级保健、行为健康咨询和性别肯定资源。服务包括激素治疗、个案管理、过渡期经济支持、免预约性病检测、HIV预防（PrEP/PEP）和支持小组。接受保险、Medicaid、Medicare和无保险者滑动收费标准。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Phòng khám Chăm sóc Sức khỏe Giới tính và Tình dục Gia đình Barry Frank cung cấp chăm sóc y tế nhạy cảm văn hóa, không phán xét, bao gồm tài nguyên khẳng định giới tính, quản lý trường hợp và hỗ trợ tài chính cho người chuyển giới.",
+          "description": "Phong kham Suc khoe Gioi tinh va Tinh duc Gia dinh Barry Frank tai Northern Nevada HOPES cung cap cham soc so cap am hieu van hoa, tu van suc khoe hanh vi va tai nguyen khang dinh gioi tinh cho ca nhan LGBTQ+. Dich vu bao gom lieu phap hormone, quan ly truong hop, ho tro tai chinh cho nguoi chuyen gioi, xet nghiem STI khong can hen, phong ngua HIV (PrEP/PEP) va nhom ho tro. Chap nhan bao hiem, Medicaid, Medicare va thang phi truot cho nguoi khong co bao hiem.",
           "serviceArea": "Bắc Nevada"
         }
       }
