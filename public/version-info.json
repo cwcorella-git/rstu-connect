@@ -1,8 +1,8 @@
 {
-  "commit": "55312a8b",
-  "message": "Combine Edit + Settings into single Settings panel",
+  "commit": "060d0242",
+  "message": "Auto sign-out when profile deleted by admin",
   "author": "cwcorella-git",
-  "date": "2026-02-03 22:46:33 -0800",
+  "date": "2026-02-03 22:51:10 -0800",
   "branch": "main",
-  "buildTime": "2026-02-04T06:50:08.966Z"
+  "buildTime": "2026-02-04T06:57:55.098Z"
 }

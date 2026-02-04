@@ -7,7 +7,7 @@ import { getBuildingRentsByBedroom, getBuildingUnitSummary } from '@/lib/canvass
 import { generateRentFairnessReport, type MetricStatus, type RentFairnessReport } from '@/lib/rentFairnessCalculations'
 import { getBedroomLabel } from '@/lib/rentFairnessData'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { SectionHeader, DataSection, DataRow } from './InfoComponents'
+import { DataSection, DataRow } from './InfoComponents'
 
 interface RentComparisonSectionProps {
   building: EnhancedBuilding
@@ -131,9 +131,16 @@ export function RentComparisonSection({ building }: RentComparisonSectionProps) 
   const hasBuildingData = buildingSummary.unitsWithRent > 0
 
   return (
-    <>
-      <SectionHeader title={t('rent.sectionTitle')} />
+    <div className="mt-6 first:mt-0 rounded-lg border border-red-200/80 bg-gradient-to-b from-red-50/60 to-white overflow-hidden">
+      {/* Personalized section header */}
+      <div className="flex items-center gap-2 px-3 py-2.5 border-b border-red-100">
+        <svg className="w-4 h-4 text-rstu-red flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+        </svg>
+        <h4 className="text-xs font-semibold text-rstu-red uppercase tracking-wider">{t('rent.sectionTitle')}</h4>
+      </div>
 
+      <div className="p-3">
       {/* YoY Alert Banner */}
       {isOwnBuilding && shouldAlert && yoyIncrease && (
         <div className="bg-red-50 border border-red-200 rounded-lg p-3 mb-3">
@@ -177,14 +184,14 @@ export function RentComparisonSection({ building }: RentComparisonSectionProps) 
 
       {/* Not the user's building — show note and stop */}
       {!isOwnBuilding && (
-        <p className="text-xs text-gray-400 italic text-center mb-4">
+        <p className="text-xs text-gray-400 italic text-center">
           {t('rent.switchBuilding')}
         </p>
       )}
 
       {/* Personal comparison section — only for user's own building */}
       {isOwnBuilding && !localRent && (
-        <div className="border border-gray-200 rounded-lg p-3 mb-4 bg-gray-50">
+        <div className="border border-gray-200 rounded-lg p-3 bg-gray-50">
           <p className="text-sm text-gray-600 mb-2">{t('rent.addPrompt')}</p>
 
           {!showRentInput ? (
@@ -467,11 +474,12 @@ export function RentComparisonSection({ building }: RentComparisonSectionProps) 
           </DataSection>
 
           {/* Privacy note */}
-          <p className="text-xs text-gray-400 text-center mb-4">
+          <p className="text-xs text-gray-400 text-center">
             {t('rent.privacyNoteFull')}
           </p>
         </>
       )}
-    </>
+      </div>
+    </div>
   )
 }
