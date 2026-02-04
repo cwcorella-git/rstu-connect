@@ -9,9 +9,12 @@ import {
 import {
   getExternalOrganizations,
   getCustomCategories,
+  RESOURCE_GROUPS,
+  getGroupForCategory,
   type ExternalOrganization,
   type ExternalResourceCategory,
   type CustomCategory,
+  type ResourceGroupId,
 } from '@/lib/storage/organizationStorage'
 import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -23,36 +26,12 @@ import { ResourceCard } from './ResourceCard'
 // Load seed data
 import externalResourcesData from '@/data/external-resources.json'
 
-// Category order for filter pills
-const CATEGORY_ORDER: ExternalResourceCategory[] = [
-  'food',
-  'shelter',
-  'emergency_aid',
-  'housing_services',
-  'legal_aid',
-  'health_services',
-  'crisis_mental_health',
-  'senior_services',
-  'employment_training',
-  'childcare',
-  'transportation',
-  'disability_services',
-  'lgbtq_services',
-  'reentry_services',
-  'government',
-  'mutual_aid',
-  'advocacy',
-  'faith',
-  'pet_services',
-  'other',
-]
-
 export function ResourcesPage() {
-  const { t } = useLanguage()
+  const { t, locale } = useLanguage()
   const [organizations, setOrganizations] = useState<ExternalOrganization[]>([])
   const [customCategories, setCustomCategories] = useState<CustomCategory[]>([])
   const [searchQuery, setSearchQuery] = useState('')
-  const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set())
+  const [selectedGroup, setSelectedGroup] = useState<ResourceGroupId | null>(null)
 
   // Modal state
   const [showAddOrgModal, setShowAddOrgModal] = useState(false)
@@ -64,7 +43,7 @@ export function ResourcesPage() {
   useEffect(() => {
     let orgs = getExternalOrganizations()
     if (orgs.length === 0) {
-      orgs = externalResourcesData.organizations as ExternalOrganization[]
+      orgs = externalResourcesData.organizations as unknown as ExternalOrganization[]
     }
     orgs.sort((a, b) => a.name.localeCompare(b.name))
     setOrganizations(orgs)
@@ -75,60 +54,75 @@ export function ResourcesPage() {
   const profile = getCurrentProfile()
   const canManage = profile?.role === 'admin' || profile?.role === 'organizer'
 
-  // Count orgs per category
-  const categoryCounts = useMemo(() => {
-    const counts = new Map<string, number>()
+  // Count orgs per group
+  const groupCounts = useMemo(() => {
+    const counts = new Map<ResourceGroupId, number>()
     organizations.forEach(org => {
-      counts.set(org.category, (counts.get(org.category) || 0) + 1)
+      const groupId = getGroupForCategory(org.category)
+      counts.set(groupId, (counts.get(groupId) || 0) + 1)
     })
     return counts
   }, [organizations])
 
-  // Categories that have orgs (built-in + custom)
-  const categoriesWithOrgs = useMemo(() => {
-    const builtIn = CATEGORY_ORDER.filter(cat => (categoryCounts.get(cat) || 0) > 0)
-    const custom = customCategories.filter(cat => (categoryCounts.get(cat.id) || 0) > 0)
-    return { builtIn, custom }
-  }, [categoryCounts, customCategories])
+  const isSearching = searchQuery.trim().length > 0
 
-  // Filter organizations
-  const filteredOrgs = useMemo(() => {
-    let result = organizations
-
-    // Category filter
-    if (selectedCategories.size > 0) {
-      result = result.filter(org => selectedCategories.has(org.category))
+  // Helper to get localized org field for search
+  const getOrgField = (org: ExternalOrganization, field: 'description' | 'eligibility' | 'serviceArea'): string => {
+    if (locale !== 'en' && org.translations?.[locale]?.[field]) {
+      return org.translations[locale][field]!
     }
+    return org[field] || ''
+  }
 
-    // Search filter
-    if (searchQuery.trim()) {
-      const q = searchQuery.toLowerCase()
-      result = result.filter(org =>
-        org.name.toLowerCase().includes(q) ||
-        org.description.toLowerCase().includes(q) ||
-        (org.eligibility?.toLowerCase().includes(q)) ||
-        (org.serviceArea?.toLowerCase().includes(q))
-      )
-    }
+  // Search-filtered orgs
+  const searchFilteredOrgs = useMemo(() => {
+    if (!isSearching) return organizations
+    const q = searchQuery.toLowerCase()
+    return organizations.filter(org =>
+      org.name.toLowerCase().includes(q) ||
+      getOrgField(org, 'description').toLowerCase().includes(q) ||
+      getOrgField(org, 'eligibility').toLowerCase().includes(q) ||
+      getOrgField(org, 'serviceArea').toLowerCase().includes(q)
+    )
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [organizations, searchQuery, isSearching, locale])
 
-    return result
-  }, [organizations, selectedCategories, searchQuery])
+  // Build grouped structure for non-search views
+  const groupedOrgs = useMemo(() => {
+    if (isSearching) return null
 
-  // Toggle category filter
-  const toggleCategory = (catId: string) => {
-    setSelectedCategories(prev => {
-      const next = new Set(prev)
-      if (next.has(catId)) {
-        next.delete(catId)
-      } else {
-        next.add(catId)
+    const base = selectedGroup
+      ? organizations.filter(org => getGroupForCategory(org.category) === selectedGroup)
+      : organizations
+
+    const groups: { group: typeof RESOURCE_GROUPS[number]; orgs: ExternalOrganization[] }[] = []
+    for (const group of RESOURCE_GROUPS) {
+      const orgs = base.filter(org => {
+        const orgGroup = getGroupForCategory(org.category)
+        return orgGroup === group.id
+      })
+      if (orgs.length > 0) {
+        groups.push({ group, orgs: orgs.sort((a, b) => a.name.localeCompare(b.name)) })
       }
-      return next
-    })
+    }
+    return groups
+  }, [organizations, selectedGroup, isSearching])
+
+  // Flat count for result display
+  const flatCount = useMemo(() => {
+    if (isSearching) return searchFilteredOrgs.length
+    if (selectedGroup) {
+      return organizations.filter(org => getGroupForCategory(org.category) === selectedGroup).length
+    }
+    return organizations.length
+  }, [organizations, searchFilteredOrgs, selectedGroup, isSearching])
+
+  const toggleGroup = (groupId: ResourceGroupId) => {
+    setSelectedGroup(prev => prev === groupId ? null : groupId)
   }
 
   const clearFilters = () => {
-    setSelectedCategories(new Set())
+    setSelectedGroup(null)
     setSearchQuery('')
   }
 
@@ -152,16 +146,21 @@ export function ResourcesPage() {
     setShowDeleteOrgDialog(false)
   }
 
-  // Get category label for filter pills
-  const getCategoryLabel = (catId: string): string => {
-    // Check built-in first
-    if (CATEGORY_ORDER.includes(catId as ExternalResourceCategory)) {
-      return t(`resources.cat.${catId}`)
-    }
-    // Custom category
-    const custom = customCategories.find(c => c.id === catId)
-    return custom?.name || catId
-  }
+  const renderOrgCard = (org: ExternalOrganization) => (
+    <article key={org.id}>
+      <ResourceCard
+        organization={org}
+        onEdit={canManage ? () => {
+          setSelectedOrg(org)
+          setShowEditOrgModal(true)
+        } : undefined}
+        onDelete={canManage ? () => {
+          setSelectedOrg(org)
+          setShowDeleteOrgDialog(true)
+        } : undefined}
+      />
+    </article>
+  )
 
   return (
     <div className="h-full flex flex-col overflow-hidden bg-gray-50">
@@ -205,7 +204,7 @@ export function ResourcesPage() {
           </div>
         </div>
 
-        {/* Category filter pills */}
+        {/* Group filter pills */}
         <div
           role="group"
           aria-label={t('resources.filterByCategory')}
@@ -214,9 +213,9 @@ export function ResourcesPage() {
           {/* All button */}
           <button
             onClick={clearFilters}
-            aria-pressed={selectedCategories.size === 0}
+            aria-pressed={selectedGroup === null && !isSearching}
             className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
-              selectedCategories.size === 0
+              selectedGroup === null
                 ? 'bg-rstu-red text-white'
                 : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
             }`}
@@ -224,42 +223,28 @@ export function ResourcesPage() {
             {t('resources.all')} ({organizations.length})
           </button>
 
-          {/* Built-in category pills */}
-          {categoriesWithOrgs.builtIn.map(cat => {
-            const count = categoryCounts.get(cat) || 0
-            const isSelected = selectedCategories.has(cat)
+          {/* Group pills */}
+          {RESOURCE_GROUPS.map(group => {
+            const count = groupCounts.get(group.id) || 0
+            if (count === 0) return null
+            const isSelected = selectedGroup === group.id
+            const isEmergency = group.id === 'emergency'
             return (
               <button
-                key={cat}
-                onClick={() => toggleCategory(cat)}
+                key={group.id}
+                onClick={() => toggleGroup(group.id)}
                 aria-pressed={isSelected}
                 className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
                   isSelected
-                    ? 'bg-rstu-red text-white'
-                    : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                    ? isEmergency
+                      ? 'bg-red-700 text-white ring-2 ring-red-300'
+                      : 'bg-rstu-red text-white'
+                    : isEmergency
+                      ? 'bg-red-50 text-red-700 border border-red-200 font-bold hover:bg-red-100'
+                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                 }`}
               >
-                {t(`resources.cat.${cat}`)} ({count})
-              </button>
-            )
-          })}
-
-          {/* Custom category pills */}
-          {categoriesWithOrgs.custom.map(cat => {
-            const count = categoryCounts.get(cat.id) || 0
-            const isSelected = selectedCategories.has(cat.id)
-            return (
-              <button
-                key={cat.id}
-                onClick={() => toggleCategory(cat.id)}
-                aria-pressed={isSelected}
-                className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
-                  isSelected
-                    ? 'bg-rstu-red text-white'
-                    : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-                }`}
-              >
-                {cat.name} ({count})
+                {group.icon} {t(`resources.group.${group.id}`)} ({count})
               </button>
             )
           })}
@@ -267,11 +252,11 @@ export function ResourcesPage() {
 
         {/* Result count */}
         <p aria-live="polite" className="text-xs text-gray-500">
-          {filteredOrgs.length === organizations.length
+          {flatCount === organizations.length
             ? t('resources.totalCount', { count: organizations.length.toString() })
-            : `${filteredOrgs.length} / ${organizations.length} ${t('resources.resourcesPlural')}`
+            : `${flatCount} / ${organizations.length} ${t('resources.resourcesPlural')}`
           }
-          {(selectedCategories.size > 0 || searchQuery) && (
+          {(selectedGroup !== null || searchQuery) && (
             <button
               onClick={clearFilters}
               className="ml-2 text-rstu-red hover:underline"
@@ -285,12 +270,12 @@ export function ResourcesPage() {
       {/* Scrollable card list */}
       <div className="flex-1 overflow-y-auto p-4">
         <div className="space-y-3 max-w-3xl mx-auto">
-          {filteredOrgs.length === 0 ? (
+          {flatCount === 0 ? (
             <div className="text-center py-12 text-gray-500">
               <DocumentTextIcon className="w-12 h-12 mx-auto mb-4 text-gray-300" />
               <p className="font-medium text-gray-700">{t('resources.noResults')}</p>
               <p className="text-sm mt-1">{t('resources.tryDifferentSearch')}</p>
-              {(selectedCategories.size > 0 || searchQuery) && (
+              {(selectedGroup !== null || searchQuery) && (
                 <button
                   onClick={clearFilters}
                   className="mt-3 text-sm text-rstu-red hover:underline font-medium"
@@ -299,26 +284,42 @@ export function ResourcesPage() {
                 </button>
               )}
             </div>
+          ) : isSearching ? (
+            /* Search mode: flat list */
+            searchFilteredOrgs.map(renderOrgCard)
           ) : (
-            filteredOrgs.map(org => (
-              <article key={org.id}>
-                <ResourceCard
-                  organization={org}
-                  onEdit={canManage ? () => {
-                    setSelectedOrg(org)
-                    setShowEditOrgModal(true)
-                  } : undefined}
-                  onDelete={canManage ? () => {
-                    setSelectedOrg(org)
-                    setShowDeleteOrgDialog(true)
-                  } : undefined}
-                />
-              </article>
+            /* Grouped mode: section headers with cards */
+            groupedOrgs?.map(({ group, orgs }) => (
+              <section key={group.id} aria-labelledby={`group-${group.id}`}>
+                {/* Section header */}
+                <div
+                  id={`group-${group.id}`}
+                  className={`flex items-center gap-2 px-3 py-2 rounded-lg mb-2 ${
+                    group.id === 'emergency'
+                      ? 'bg-red-50 border border-red-200'
+                      : 'bg-gray-100'
+                  }`}
+                >
+                  <span className="text-lg" role="img" aria-hidden="true">{group.icon}</span>
+                  <h2 className={`text-sm font-bold ${
+                    group.id === 'emergency' ? 'text-red-700' : 'text-gray-800'
+                  }`}>
+                    {t(`resources.group.${group.id}`)}
+                  </h2>
+                  <span className="text-xs text-gray-500 ml-auto">
+                    {orgs.length}
+                  </span>
+                </div>
+                {/* Cards within this group */}
+                <div className="space-y-3 mb-6">
+                  {orgs.map(renderOrgCard)}
+                </div>
+              </section>
             ))
           )}
 
           {/* Footer */}
-          {filteredOrgs.length > 0 && (
+          {flatCount > 0 && (
             <div className="pt-4 pb-2 text-center">
               <p className="text-xs text-gray-500">
                 {t('resources.footerText')}{' '}

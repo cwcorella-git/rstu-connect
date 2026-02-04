@@ -62,6 +62,45 @@ export const EXTERNAL_CATEGORY_LABELS: Record<ExternalResourceCategory, string> 
   other: 'Other',
 }
 
+// === RESOURCE GROUPS (display-level aggregation of categories) ===
+
+export type ResourceGroupId =
+  | 'emergency'
+  | 'housing'
+  | 'legal'
+  | 'health'
+  | 'specialized'
+  | 'employment'
+  | 'government'
+  | 'community'
+
+export interface ResourceGroup {
+  id: ResourceGroupId
+  icon: string
+  categories: ExternalResourceCategory[]
+}
+
+export const RESOURCE_GROUPS: ResourceGroup[] = [
+  { id: 'emergency', icon: '\u{1F198}', categories: ['food', 'shelter', 'emergency_aid'] },
+  { id: 'housing', icon: '\u{1F3E0}', categories: ['housing_services'] },
+  { id: 'legal', icon: '\u{2696}\u{FE0F}', categories: ['legal_aid'] },
+  { id: 'health', icon: '\u{1F3E5}', categories: ['health_services', 'crisis_mental_health'] },
+  { id: 'specialized', icon: '\u{1F91D}', categories: ['senior_services', 'disability_services', 'lgbtq_services', 'reentry_services'] },
+  { id: 'employment', icon: '\u{1F4BC}', categories: ['employment_training', 'childcare', 'transportation'] },
+  { id: 'government', icon: '\u{1F3DB}\u{FE0F}', categories: ['government'] },
+  { id: 'community', icon: '\u{26EA}', categories: ['mutual_aid', 'advocacy', 'faith', 'pet_services', 'other'] },
+]
+
+/** Given an individual category, find which group it belongs to. Returns 'community' as fallback. */
+export function getGroupForCategory(category: string): ResourceGroupId {
+  for (const group of RESOURCE_GROUPS) {
+    if ((group.categories as string[]).includes(category)) {
+      return group.id
+    }
+  }
+  return 'community'
+}
+
 // Internal collective categories
 export type InternalCollectiveCategory =
   | 'working_group'
@@ -119,6 +158,15 @@ export interface ExternalOrganization extends OrganizationBase {
   languages?: string[] // Languages supported
   websiteUrl?: string
   logoUrl?: string
+
+  // Translations for non-English locales (org names are proper nouns, stay English)
+  translations?: {
+    [locale: string]: {
+      description?: string
+      eligibility?: string
+      serviceArea?: string
+    }
+  }
 
   // Admin-managed
   addedBy: string // Admin profile ID

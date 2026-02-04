@@ -45,7 +45,7 @@ export function NetworkTab({ onSelectCollective }: NetworkTabProps) {
 
     // If no orgs in storage, use seed data
     if (orgs.length === 0) {
-      orgs = externalResourcesData.organizations as ExternalOrganization[]
+      orgs = externalResourcesData.organizations as unknown as ExternalOrganization[]
     }
 
     setExternalOrgs(orgs)

@@ -134,17 +134,26 @@ function ContactButton({ contact, t }: { contact: OrganizationContact; t: (key: 
 }
 
 export function ResourceCard({ organization, onEdit, onDelete }: ResourceCardProps) {
-  const { t } = useLanguage()
+  const { t, locale } = useLanguage()
   const {
     name,
-    description,
     category,
     contacts,
-    serviceArea,
-    eligibility,
     languages,
     verified,
   } = organization
+
+  // Locale-aware field resolution (falls back to English)
+  const getField = (field: 'description' | 'eligibility' | 'serviceArea'): string => {
+    if (locale !== 'en' && organization.translations?.[locale]?.[field]) {
+      return organization.translations[locale][field]!
+    }
+    return organization[field] || ''
+  }
+
+  const description = getField('description')
+  const eligibility = getField('eligibility')
+  const serviceArea = getField('serviceArea')
 
   // Get category label (translated for built-in, name for custom)
   const categoryLabel = isCustomCategory(category)
