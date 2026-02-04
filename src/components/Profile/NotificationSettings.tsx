@@ -19,7 +19,6 @@ export function NotificationSettings({ profileId }: NotificationSettingsProps) {
     subscribe,
     unsubscribe,
     updateSettings,
-    recheckPermission,
   } = usePushNotifications(profileId)
 
   // Not supported
@@ -36,10 +35,10 @@ export function NotificationSettings({ profileId }: NotificationSettingsProps) {
     )
   }
 
-  // Permission denied
+  // Permission denied — user must unblock in browser settings
   if (permission === 'denied') {
     return (
-      <div className="bg-yellow-50 rounded-lg p-4 space-y-3">
+      <div className="bg-yellow-50 rounded-lg p-4">
         <div className="flex items-start gap-3">
           <svg className="w-5 h-5 text-yellow-600 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
@@ -48,17 +47,11 @@ export function NotificationSettings({ profileId }: NotificationSettingsProps) {
             <p className="text-sm font-medium text-yellow-800">
               {t('notifications.blocked')}
             </p>
-            <p className="text-xs text-yellow-600 mt-2">
-              {t('notifications.blockedSteps')}
+            <p className="text-xs text-yellow-600 mt-1">
+              {t('notifications.blockedHelp')}
             </p>
           </div>
         </div>
-        <button
-          onClick={recheckPermission}
-          className="w-full px-4 py-2 bg-yellow-600 text-white text-sm font-medium rounded-lg hover:bg-yellow-700 transition"
-        >
-          {t('notifications.checkAgain')}
-        </button>
       </div>
     )
   }

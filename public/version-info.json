@@ -1,8 +1,8 @@
 {
-  "commit": "e15b2f81",
-  "message": "Resource directory: Replace emojis with Heroicons, add tab navigation",
+  "commit": "6d0a4768",
+  "message": "Remove Interest Tags from Tenant Profile",
   "author": "cwcorella-git",
-  "date": "2026-02-04 14:08:31 -0800",
+  "date": "2026-02-04 15:45:21 -0800",
   "branch": "main",
-  "buildTime": "2026-02-04T22:13:14.849Z"
+  "buildTime": "2026-02-04T23:52:23.879Z"
 }

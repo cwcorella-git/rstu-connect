@@ -13,6 +13,7 @@ import { VersionFooter } from '@/components/shared/VersionFooter'
 import { EditModeIndicator } from '@/components/EditMode'
 import { Footer } from '@/components/layout/Footer'
 import { OfflineBanner, OfflineIndicator } from '@/components/shared/OfflineBanner'
+import { NotificationPromptBanner } from '@/components/shared/NotificationPromptBanner'
 import { OnboardingChecklist } from '@/components/Onboarding/OnboardingChecklist'
 import { LegislationProvider } from '@/contexts/LegislationContext'
 import { LegislationPopup } from '@/components/Legislation'
@@ -79,6 +80,9 @@ export function ClientLayout({ children }: { children: ReactNode }) {
 
         {/* Offline Banner - shows when disconnected */}
         <OfflineBanner />
+
+        {/* Notification Prompt - shows once for new users */}
+        <NotificationPromptBanner />
 
         {/* Page Content - scrolls internally */}
         <div className="flex-1 flex flex-col min-h-0 overflow-hidden">
