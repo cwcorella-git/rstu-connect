@@ -126,22 +126,12 @@ export function MessageHub({ onClose, embedded = false }: MessageHubProps) {
   if (embedded) {
     return (
       <div className="flex flex-col h-full overflow-hidden">
-        {/* Header */}
-        <div className="flex items-center justify-between p-4 border-b border-gray-200 flex-shrink-0">
-          <div>
-            <h2 className="text-lg font-bold text-gray-900 flex items-center gap-2">
-              {t('messages.title') || 'Messages'}
-              {totalUnread > 0 && (
-                <span className="bg-red-500 text-white text-xs px-2 py-0.5 rounded-full">
-                  {totalUnread}
-                </span>
-              )}
-            </h2>
-            <p className="text-xs text-gray-500 flex items-center gap-1">
-              {t('messages.private') || 'Private conversations'}
-              <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} title={isConnected ? t('common.connected') || 'Connected' : t('common.disconnected') || 'Disconnected'} />
-            </p>
-          </div>
+        {/* Action Row (title provided by parent tab bar) */}
+        <div className="flex items-center justify-between px-4 py-2 border-b border-gray-100 flex-shrink-0">
+          <p className="text-xs text-gray-500 flex items-center gap-1">
+            {t('messages.private') || 'Private conversations'}
+            <span className={`w-2 h-2 rounded-full ${isConnected ? 'bg-green-500' : 'bg-gray-400'}`} title={isConnected ? t('common.connected') || 'Connected' : t('common.disconnected') || 'Disconnected'} />
+          </p>
           <button
             onClick={() => setShowNewMessage(true)}
             className="p-2 text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition"

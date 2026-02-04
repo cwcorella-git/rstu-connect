@@ -99,7 +99,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': 'Close',
     'profile.overview': 'Overview',
     'profile.messages': 'Messages',
-    'profile.groups': 'Groups',
 
     // Buildings
     'buildings.search': 'Search properties...',
@@ -2161,7 +2160,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': 'Cerrar',
     'profile.overview': 'Descripción General',
     'profile.messages': 'Mensajes',
-    'profile.groups': 'Grupos',
 
     // Buildings
     'buildings.search': 'Buscar propiedades...',
@@ -4210,7 +4208,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': 'Isara',
     'profile.overview': 'Pangkalahatang Pagtingin',
     'profile.messages': 'Mga Mensahe',
-    'profile.groups': 'Mga Grupo',
 
     // Buildings
     'buildings.search': 'Maghanap ng property...',
@@ -6316,7 +6313,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': '关闭',
     'profile.overview': '概览',
     'profile.messages': '消息',
-    'profile.groups': '群组',
 
     // Buildings
     'buildings.search': '搜索物业...',
@@ -8421,7 +8417,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.close': 'Đóng',
     'profile.overview': 'Tổng Quan',
     'profile.messages': 'Tin Nhắn',
-    'profile.groups': 'Nhóm',
 
     // Buildings
     'buildings.search': 'Tìm kiếm bất động sản...',

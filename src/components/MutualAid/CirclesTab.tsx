@@ -19,7 +19,11 @@ import { CircleDetailView } from './CircleDetailView'
 
 type ViewMode = 'discover' | 'my_circles'
 
-export function CirclesTab() {
+interface CirclesTabProps {
+  embedded?: boolean
+}
+
+export function CirclesTab({ embedded = false }: CirclesTabProps) {
   const { t } = useLanguage()
   const [viewMode, setViewMode] = useState<ViewMode>('discover')
   const [searchQuery, setSearchQuery] = useState('')
@@ -86,24 +90,40 @@ export function CirclesTab() {
     <div className="h-full flex flex-col">
       {/* Header */}
       <div className="p-4 border-b border-gray-200 bg-white">
-        <div className="flex items-center justify-between mb-3">
-          <div>
-            <h2 className="text-lg font-semibold text-gray-900">
-              {t('circles.title') || 'Circles'}
-            </h2>
-            <p className="text-sm text-gray-500">
+        {embedded ? (
+          <div className="flex items-center justify-between mb-3">
+            <p className="text-xs text-gray-500">
               {t('circles.subtitle') || 'Interest-based groups created by tenants'}
             </p>
+            {profile && (
+              <button
+                onClick={() => setShowCreateModal(true)}
+                className="px-3 py-1.5 bg-rstu-red text-white rounded-lg hover:bg-red-700 text-xs font-medium"
+              >
+                {t('circles.create') || 'Create Circle'}
+              </button>
+            )}
           </div>
-          {profile && (
-            <button
-              onClick={() => setShowCreateModal(true)}
-              className="px-4 py-2 bg-rstu-red text-white rounded-lg hover:bg-red-700 text-sm font-medium"
-            >
-              {t('circles.create') || 'Create Circle'}
-            </button>
-          )}
-        </div>
+        ) : (
+          <div className="flex items-center justify-between mb-3">
+            <div>
+              <h2 className="text-lg font-semibold text-gray-900">
+                {t('circles.title') || 'Circles'}
+              </h2>
+              <p className="text-sm text-gray-500">
+                {t('circles.subtitle') || 'Interest-based groups created by tenants'}
+              </p>
+            </div>
+            {profile && (
+              <button
+                onClick={() => setShowCreateModal(true)}
+                className="px-4 py-2 bg-rstu-red text-white rounded-lg hover:bg-red-700 text-sm font-medium"
+              >
+                {t('circles.create') || 'Create Circle'}
+              </button>
+            )}
+          </div>
+        )}
 
         {/* View Mode Tabs */}
         <div className="flex gap-2 mb-3">

@@ -49,7 +49,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [storedProfiles, setStoredProfiles] = useState<UserProfile[]>([])
   const [loading, setLoading] = useState(true)
   const [showMessages, setShowMessages] = useState(false)
-  const [showGroups, setShowGroups] = useState(false)
+  const [messagesTab, setMessagesTab] = useState<'messages' | 'circles'>('messages')
   const [showSettings, setShowSettings] = useState(false)
   const [showTenantProfile, setShowTenantProfile] = useState(false)
   const [showWizard, setShowWizard] = useState(false)
@@ -351,8 +351,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             profile={profile}
             selectedBuilding={selectedBuilding}
             unreadMessagesCount={unreadCount}
-            onOpenMessages={() => setShowMessages(true)}
-            onOpenGroups={() => setShowGroups(true)}
+            onOpenMessages={() => { setShowMessages(true); setMessagesTab('messages') }}
             onOpenTenantProfile={() => setShowTenantProfile(true)}
             onOpenSettings={() => setShowSettings(true)}
           />
@@ -491,7 +490,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
         </>
       )}
 
-      {/* Messages Modal */}
+      {/* Messages + Circles Modal */}
       {showMessages && (
         <>
           {/* Backdrop */}
@@ -503,76 +502,54 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
           {/* Modal */}
           <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4">
             <div className="bg-white rounded-lg shadow-xl w-full h-[95vh] sm:h-auto sm:max-w-4xl sm:h-[80vh] flex flex-col">
-              {/* Header */}
-              <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
-                <h2 className="text-xl font-semibold text-gray-900">{t('profile.messages')}</h2>
+              {/* Tab Bar */}
+              <div className="flex items-center bg-white rounded-t-lg flex-shrink-0">
+                <div className="flex flex-1">
+                  <button
+                    onClick={() => setMessagesTab('messages')}
+                    className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
+                      messagesTab === 'messages'
+                        ? 'border-rstu-red text-rstu-red'
+                        : 'border-transparent text-gray-500 hover:text-gray-700'
+                    }`}
+                  >
+                    <span className="flex items-center justify-center gap-1.5">
+                      {t('messages.title') || 'Messages'}
+                      {unreadCount > 0 && (
+                        <span className="bg-red-500 text-white text-xs px-1.5 py-0.5 rounded-full">
+                          {unreadCount}
+                        </span>
+                      )}
+                    </span>
+                  </button>
+                  <button
+                    onClick={() => setMessagesTab('circles')}
+                    className={`flex-1 py-3 text-sm font-medium text-center border-b-2 transition-colors ${
+                      messagesTab === 'circles'
+                        ? 'border-rstu-red text-rstu-red'
+                        : 'border-transparent text-gray-500 hover:text-gray-700'
+                    }`}
+                  >
+                    {t('circles.title') || 'Circles'}
+                  </button>
+                </div>
                 <button
                   onClick={() => setShowMessages(false)}
-                  className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
+                  className="p-2 hover:bg-gray-100 rounded-lg transition-colors mx-2"
                 >
-                  <svg
-                    className="w-5 h-5 text-gray-500"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M6 18L18 6M6 6l12 12"
-                    />
+                  <svg className="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                   </svg>
                 </button>
               </div>
 
-              {/* Messages Content */}
+              {/* Tab Content */}
               <div className="flex-1 overflow-hidden">
-                <MessageHub embedded={true} />
-              </div>
-            </div>
-          </div>
-        </>
-      )}
-
-      {/* Groups Modal */}
-      {showGroups && (
-        <>
-          {/* Backdrop */}
-          <div
-            className="fixed inset-0 bg-black/50 z-40"
-            onClick={() => setShowGroups(false)}
-          />
-
-          {/* Modal */}
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4">
-            <div className="bg-white rounded-lg shadow-xl w-full h-[95vh] sm:h-auto sm:max-w-4xl sm:h-[80vh] flex flex-col overflow-hidden">
-              {/* Header */}
-              <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200">
-                <h2 className="text-xl font-semibold text-gray-900">{t('profile.groups') || 'Groups'}</h2>
-                <button
-                  onClick={() => setShowGroups(false)}
-                  className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
-                >
-                  <svg
-                    className="w-5 h-5 text-gray-500"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M6 18L18 6M6 6l12 12"
-                    />
-                  </svg>
-                </button>
-              </div>
-
-              {/* Groups Content */}
-              <div className="flex-1 overflow-hidden">
-                <CirclesTab />
+                {messagesTab === 'messages' ? (
+                  <MessageHub embedded={true} />
+                ) : (
+                  <CirclesTab embedded={true} />
+                )}
               </div>
             </div>
           </div>
