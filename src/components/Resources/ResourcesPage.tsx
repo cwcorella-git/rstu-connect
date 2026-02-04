@@ -15,10 +15,7 @@ import {
 } from '@/lib/organizationStorage'
 import { getCurrentProfile } from '@/lib/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { AddCategoryModal } from './AddCategoryModal'
 import { AddOrganizationModal } from './AddOrganizationModal'
-import { EditCategoryModal } from './EditCategoryModal'
-import { DeleteCategoryDialog } from './DeleteCategoryDialog'
 import { EditOrganizationModal } from './EditOrganizationModal'
 import { DeleteOrganizationDialog } from './DeleteOrganizationDialog'
 import { ResourceCard } from './ResourceCard'
@@ -58,14 +55,10 @@ export function ResourcesPage() {
   const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set())
 
   // Modal state
-  const [showAddCategoryModal, setShowAddCategoryModal] = useState(false)
   const [showAddOrgModal, setShowAddOrgModal] = useState(false)
-  const [showEditCategoryModal, setShowEditCategoryModal] = useState(false)
-  const [showDeleteCategoryDialog, setShowDeleteCategoryDialog] = useState(false)
   const [showEditOrgModal, setShowEditOrgModal] = useState(false)
   const [showDeleteOrgDialog, setShowDeleteOrgDialog] = useState(false)
   const [selectedOrg, setSelectedOrg] = useState<ExternalOrganization | null>(null)
-  const [selectedCustomCat, setSelectedCustomCat] = useState<CustomCategory | null>(null)
 
   // Load organizations
   useEffect(() => {
@@ -140,25 +133,6 @@ export function ResourcesPage() {
   }
 
   // CRUD handlers
-  const handleCategoryCreated = (category: CustomCategory) => {
-    setCustomCategories(prev => [...prev, category])
-    setShowAddCategoryModal(false)
-  }
-
-  const handleCategoryUpdated = (updated: CustomCategory) => {
-    setCustomCategories(prev => prev.map(c => c.id === updated.id ? updated : c))
-    setShowEditCategoryModal(false)
-    setSelectedCustomCat(null)
-  }
-
-  const handleCategoryDeleted = () => {
-    if (selectedCustomCat) {
-      setCustomCategories(prev => prev.filter(c => c.id !== selectedCustomCat.id))
-    }
-    setShowDeleteCategoryDialog(false)
-    setSelectedCustomCat(null)
-  }
-
   const handleOrgCreated = (org: ExternalOrganization) => {
     setOrganizations(prev => [...prev, org].sort((a, b) => a.name.localeCompare(b.name)))
     setShowAddOrgModal(false)
@@ -199,22 +173,13 @@ export function ResourcesPage() {
             <h1 className="text-lg font-bold text-gray-900">{t('resources.directory')}</h1>
           </div>
           {canManage && (
-            <div className="flex items-center gap-2">
-              <button
-                onClick={() => setShowAddCategoryModal(true)}
-                className="p-2 text-gray-500 hover:text-gray-700 hover:bg-gray-100 rounded-lg transition-colors"
-                title={t('resources.addCategory')}
-              >
-                <PlusIcon className="w-5 h-5" />
-              </button>
-              <button
-                onClick={() => setShowAddOrgModal(true)}
-                className="flex items-center gap-1.5 px-3 py-1.5 bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors text-sm font-medium"
-              >
-                <PlusIcon className="w-4 h-4" />
-                {t('resources.addOrganization')}
-              </button>
-            </div>
+            <button
+              onClick={() => setShowAddOrgModal(true)}
+              className="flex items-center gap-1.5 px-3 py-1.5 bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors text-sm font-medium"
+            >
+              <PlusIcon className="w-4 h-4" />
+              {t('resources.addOrganization')}
+            </button>
           )}
         </div>
 
@@ -244,13 +209,13 @@ export function ResourcesPage() {
         <div
           role="group"
           aria-label={t('resources.filterByCategory')}
-          className="flex gap-2 overflow-x-auto pb-1 -mx-4 px-4 scrollbar-hide"
+          className="flex flex-wrap gap-2"
         >
           {/* All button */}
           <button
             onClick={clearFilters}
             aria-pressed={selectedCategories.size === 0}
-            className={`flex-shrink-0 px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
+            className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
               selectedCategories.size === 0
                 ? 'bg-rstu-red text-white'
                 : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
@@ -268,7 +233,7 @@ export function ResourcesPage() {
                 key={cat}
                 onClick={() => toggleCategory(cat)}
                 aria-pressed={isSelected}
-                className={`flex-shrink-0 px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
+                className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
                   isSelected
                     ? 'bg-rstu-red text-white'
                     : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
@@ -288,7 +253,7 @@ export function ResourcesPage() {
                 key={cat.id}
                 onClick={() => toggleCategory(cat.id)}
                 aria-pressed={isSelected}
-                className={`flex-shrink-0 px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
+                className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
                   isSelected
                     ? 'bg-rstu-red text-white'
                     : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
@@ -370,15 +335,6 @@ export function ResourcesPage() {
       </div>
 
       {/* Modals */}
-      {showAddCategoryModal && profile && (
-        <AddCategoryModal
-          isOpen={showAddCategoryModal}
-          onClose={() => setShowAddCategoryModal(false)}
-          onCreated={handleCategoryCreated}
-          creatorId={profile.id}
-        />
-      )}
-
       {showAddOrgModal && profile && (
         <AddOrganizationModal
           isOpen={showAddOrgModal}
@@ -387,24 +343,6 @@ export function ResourcesPage() {
           categoryId=""
           categoryName=""
           creatorId={profile.id}
-        />
-      )}
-
-      {showEditCategoryModal && selectedCustomCat && (
-        <EditCategoryModal
-          isOpen={showEditCategoryModal}
-          onClose={() => { setShowEditCategoryModal(false); setSelectedCustomCat(null) }}
-          onUpdated={handleCategoryUpdated}
-          category={selectedCustomCat}
-        />
-      )}
-
-      {showDeleteCategoryDialog && selectedCustomCat && (
-        <DeleteCategoryDialog
-          isOpen={showDeleteCategoryDialog}
-          onClose={() => { setShowDeleteCategoryDialog(false); setSelectedCustomCat(null) }}
-          onDeleted={handleCategoryDeleted}
-          category={selectedCustomCat}
         />
       )}
 
