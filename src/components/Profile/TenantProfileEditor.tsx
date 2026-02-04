@@ -8,8 +8,6 @@ import {
   updateProfile,
   type UserProfile,
   canAccessTools,
-  SUGGESTED_INTERESTS,
-  INTEREST_LABELS,
   COMMUNITY_ACTIVITIES,
   ACTIVITY_LABELS,
 } from '@/lib/storage/profileStorage'
@@ -160,7 +158,6 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
     hasOrganizingExperience: profile.hasOrganizingExperience,
     interestLevel: profile.interestLevel || [],
     suggestions: profile.suggestions || '',
-    interests: profile.interests || [],
     activities: profile.activities || [],
     connectionPreference: profile.connectionPreference,
     showInDirectory: profile.showInDirectory ?? false,
@@ -312,15 +309,6 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
       bestDays: prev.bestDays?.includes(day)
         ? prev.bestDays.filter(d => d !== day)
         : [...(prev.bestDays || []), day],
-    }))
-  }
-
-  const togglePersonalInterest = (interest: string) => {
-    setFormData(prev => ({
-      ...prev,
-      interests: prev.interests?.includes(interest)
-        ? prev.interests.filter(i => i !== interest)
-        : [...(prev.interests || []), interest],
     }))
   }
 
@@ -872,29 +860,6 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
         {/* Personalization & Circles */}
         <Section id="personalization" title={t('profile.personalization') || 'Interests & Connections'} isExpanded={expandedSections.has('personalization')} onToggle={toggleSection}>
           <div>
-            <span className="text-sm text-gray-600 mb-2 block">{t('profile.interests') || 'What are you interested in?'}</span>
-            <div className="flex flex-wrap gap-2">
-              {SUGGESTED_INTERESTS.map(interest => (
-                <button
-                  key={interest}
-                  type="button"
-                  onClick={() => togglePersonalInterest(interest)}
-                  className={`px-3 py-1 rounded-full text-sm transition-colors ${
-                    formData.interests?.includes(interest)
-                      ? 'bg-rstu-red text-white'
-                      : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-                  }`}
-                >
-                  {INTEREST_LABELS[interest] || interest}
-                </button>
-              ))}
-            </div>
-            <p className="text-xs text-gray-400 mt-2">
-              {t('profile.interestsHelp') || 'Select interests to find Circles and connect with neighbors'}
-            </p>
-          </div>
-
-          <div className="mt-4">
             <span className="text-sm text-gray-600 mb-2 block">{t('profile.activities') || 'Community activities'}</span>
             <div className="space-y-2">
               {COMMUNITY_ACTIVITIES.map(activity => (
