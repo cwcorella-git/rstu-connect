@@ -475,7 +475,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
             </p>
           )}
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{t('common.change') || 'Preferred:'}:</span>
+            <span className="text-gray-600">Preferred contact:</span>
             <label className="flex items-center gap-1">
               <input
                 type="radio"
@@ -483,7 +483,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
                 checked={formData.preferredContact === 'phone'}
                 onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'phone' }))}
               />
-              {t('profile.phone') || 'Phone'}
+              Phone
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -492,7 +492,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
                 checked={formData.preferredContact === 'text'}
                 onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'text' }))}
               />
-              {'Text'}
+              Text
             </label>
             <label className="flex items-center gap-1">
               <input
@@ -501,22 +501,26 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
                 checked={formData.preferredContact === 'email'}
                 onChange={() => setFormData(prev => ({ ...prev, preferredContact: 'email' }))}
               />
-              {t('profile.email') || 'Email'}
+              Email
             </label>
           </div>
         </Section>
 
         {/* Household */}
         <Section id="household" title={t('profile.household') || 'Household'} isExpanded={expandedSections.has('household')} onToggle={toggleSection}>
-          <input
-            type="number"
-            placeholder={t('common.optional') || 'Number of occupants'}
-            value={formData.occupants || ''}
-            onChange={(e) => setFormData(prev => ({ ...prev, occupants: parseInt(e.target.value) || undefined }))}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          />
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Number of occupants</label>
+            <input
+              type="number"
+              placeholder="e.g., 3"
+              value={formData.occupants || ''}
+              onChange={(e) => setFormData(prev => ({ ...prev, occupants: parseInt(e.target.value) || undefined }))}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+            <p className="text-xs text-gray-400 mt-1">Total people living in your unit, including yourself</p>
+          </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{'Children:'}:</span>
+            <span className="text-gray-600">Children in household:</span>
             <label className="flex items-center gap-1">
               <input type="radio" name="hasChildren" checked={formData.hasChildren === true} onChange={() => setFormData(prev => ({ ...prev, hasChildren: true }))} />
               {t('ui.yes') || 'Yes'}
@@ -527,7 +531,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
             </label>
           </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{'Pets:'}:</span>
+            <span className="text-gray-600">Pets in household:</span>
             <label className="flex items-center gap-1">
               <input type="radio" name="hasPets" checked={formData.hasPets === true} onChange={() => setFormData(prev => ({ ...prev, hasPets: true }))} />
               {t('ui.yes') || 'Yes'}
@@ -540,106 +544,124 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
           {formData.hasPets && (
             <input
               type="text"
-              placeholder={t('common.optional') || 'Pet types'}
+              placeholder="e.g., Dog, Cat"
               value={formData.petTypes}
               onChange={(e) => setFormData(prev => ({ ...prev, petTypes: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
           )}
-          <input
-            type="text"
-            placeholder={t('common.optional') || 'Accessibility needs'}
-            value={formData.accessibilityNeeds}
-            onChange={(e) => setFormData(prev => ({ ...prev, accessibilityNeeds: e.target.value }))}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          />
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Accessibility needs</label>
+            <input
+              type="text"
+              placeholder="e.g., Wheelchair access, ground floor needed"
+              value={formData.accessibilityNeeds}
+              onChange={(e) => setFormData(prev => ({ ...prev, accessibilityNeeds: e.target.value }))}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+            <p className="text-xs text-gray-400 mt-1">Helps organizers understand accommodation needs</p>
+          </div>
         </Section>
 
         {/* Lease & Rent */}
         <Section id="lease" title={'Lease & Rent'} isExpanded={expandedSections.has('lease')} onToggle={toggleSection}>
-          <div className="flex gap-2">
-            <span className="text-gray-600 text-sm pt-2">$</span>
-            <input
-              type="number"
-              placeholder={t('common.optional') || 'Rent amount'}
-              value={formData.rentAmount || ''}
-              onChange={(e) => setFormData(prev => ({ ...prev, rentAmount: parseInt(e.target.value) || undefined }))}
-              className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
-            />
-            <span className="text-gray-600 text-sm pt-2">/month</span>
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Monthly rent</label>
+            <div className="flex gap-2">
+              <span className="text-gray-600 text-sm pt-2">$</span>
+              <input
+                type="number"
+                placeholder="e.g., 1200"
+                value={formData.rentAmount || ''}
+                onChange={(e) => setFormData(prev => ({ ...prev, rentAmount: parseInt(e.target.value) || undefined }))}
+                className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
+              />
+              <span className="text-gray-600 text-sm pt-2">/month</span>
+            </div>
+            <p className="text-xs text-gray-400 mt-1">Used for rent comparison tools and tracking increases</p>
           </div>
-          <input
-            type="text"
-            placeholder={t('common.optional') || 'Move-in date (e.g., 2019 or Jan 2020)'}
-            value={formData.moveInDate}
-            onChange={(e) => setFormData(prev => ({ ...prev, moveInDate: e.target.value }))}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          />
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Move-in date</label>
+            <input
+              type="text"
+              placeholder="e.g., 2019 or Jan 2020"
+              value={formData.moveInDate}
+              onChange={(e) => setFormData(prev => ({ ...prev, moveInDate: e.target.value }))}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+            <p className="text-xs text-gray-400 mt-1">When you first moved into your current unit</p>
+          </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{'Lease:'}:</span>
+            <span className="text-gray-600">Lease type:</span>
             <label className="flex items-center gap-1">
               <input type="radio" name="leaseType" checked={formData.leaseType === 'fixed'} onChange={() => setFormData(prev => ({ ...prev, leaseType: 'fixed' }))} />
-              {'Fixed-term'}
+              Fixed-term
             </label>
             <label className="flex items-center gap-1">
               <input type="radio" name="leaseType" checked={formData.leaseType === 'month-to-month'} onChange={() => setFormData(prev => ({ ...prev, leaseType: 'month-to-month' }))} />
-              {'Month-to-month'}
+              Month-to-month
             </label>
           </div>
           {formData.leaseType === 'fixed' && (
-            <input
-              type="text"
-              placeholder={t('common.optional') || 'Lease expires (e.g., March 2025)'}
-              value={formData.leaseExpires}
-              onChange={(e) => setFormData(prev => ({ ...prev, leaseExpires: e.target.value }))}
-              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-            />
+            <div>
+              <label className="block text-sm text-gray-600 mb-1">Lease expiration</label>
+              <input
+                type="text"
+                placeholder="e.g., March 2025"
+                value={formData.leaseExpires}
+                onChange={(e) => setFormData(prev => ({ ...prev, leaseExpires: e.target.value }))}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+              />
+            </div>
           )}
-          <div className="flex gap-2">
-            <span className="text-gray-600 text-sm pt-2">Deposit: $</span>
-            <input
-              type="number"
-              placeholder={t('common.optional') || 'Security deposit'}
-              value={formData.securityDeposit || ''}
-              onChange={(e) => setFormData(prev => ({ ...prev, securityDeposit: parseInt(e.target.value) || undefined }))}
-              className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
-            />
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Security deposit</label>
+            <div className="flex gap-2">
+              <span className="text-gray-600 text-sm pt-2">$</span>
+              <input
+                type="number"
+                placeholder="Amount paid at move-in"
+                value={formData.securityDeposit || ''}
+                onChange={(e) => setFormData(prev => ({ ...prev, securityDeposit: parseInt(e.target.value) || undefined }))}
+                className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
+              />
+            </div>
           </div>
 
           {/* Unit Details */}
           <div className="pt-3 mt-3 border-t border-gray-100">
             <p className="text-xs text-gray-500 mb-3">
-              {t('common.optional') || 'Optional: Add unit details for rent comparison'}
+              Unit details help compare your rent to similar units in the area.
             </p>
 
             <div className="mb-3">
-              <label className="text-sm text-gray-600 mb-1 block">{'Unit Type'}</label>
+              <label className="text-sm text-gray-600 mb-1 block">Unit type</label>
               <select
                 value={formData.unitType ?? ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, unitType: e.target.value === '' ? undefined : e.target.value as typeof formData.unitType }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
               >
-                <option value="">{'Select...'}</option>
-                <option value="apartment">{'Apartment'}</option>
-                <option value="house">{'House'}</option>
-                <option value="townhouse">{'Townhouse'}</option>
-                <option value="duplex">{'Duplex'}</option>
-                <option value="condo">{'Condo'}</option>
-                <option value="mobile">{'Mobile Home'}</option>
-                <option value="room">{'Room'}</option>
+                <option value="">Select...</option>
+                <option value="apartment">Apartment</option>
+                <option value="house">House</option>
+                <option value="townhouse">Townhouse</option>
+                <option value="duplex">Duplex</option>
+                <option value="condo">Condo</option>
+                <option value="mobile">Mobile Home</option>
+                <option value="room">Room</option>
               </select>
             </div>
 
             <div className="grid grid-cols-2 gap-3 mb-3">
               <div>
-                <label className="text-sm text-gray-600 mb-1 block">{'Bedrooms'}</label>
+                <label className="text-sm text-gray-600 mb-1 block">Bedrooms</label>
                 <select
                   value={formData.bedroomCount ?? ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, bedroomCount: e.target.value === '' ? undefined : parseInt(e.target.value) }))}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
                 >
                   <option value="">--</option>
-                  <option value="0">{'Studio'}</option>
+                  <option value="0">Studio</option>
                   <option value="1">1 BR</option>
                   <option value="2">2 BR</option>
                   <option value="3">3 BR</option>
@@ -647,7 +669,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
                 </select>
               </div>
               <div>
-                <label className="text-sm text-gray-600 mb-1 block">{'Bathrooms'}</label>
+                <label className="text-sm text-gray-600 mb-1 block">Bathrooms</label>
                 <select
                   value={formData.bathroomCount ?? ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, bathroomCount: e.target.value === '' ? undefined : parseFloat(e.target.value) }))}
@@ -664,10 +686,10 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
             </div>
 
             <div className="mb-3">
-              <label className="text-sm text-gray-600 mb-1 block">{'Unit size (sq ft)'}</label>
+              <label className="text-sm text-gray-600 mb-1 block">Unit size (sq ft)</label>
               <input
                 type="number"
-                placeholder={t('common.optional') || 'e.g., 750'}
+                placeholder="e.g., 750"
                 value={formData.unitSqft || ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, unitSqft: parseInt(e.target.value) || undefined }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -675,19 +697,19 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
             </div>
 
             <div className="mb-2">
-              <label className="text-sm text-gray-600 mb-1 block">{t('common.optional') || 'Monthly income (optional)'}</label>
+              <label className="text-sm text-gray-600 mb-1 block">Monthly income</label>
               <div className="flex gap-2">
                 <span className="text-gray-600 text-sm pt-2">$</span>
                 <input
                   type="number"
-                  placeholder={t('common.optional') || 'Gross monthly'}
+                  placeholder="Gross monthly before taxes"
                   value={formData.monthlyIncome || ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, monthlyIncome: parseInt(e.target.value) || undefined }))}
                   className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
                 />
               </div>
               <p className="text-xs text-gray-400 mt-1">
-                {t('common.optional') || 'Private - stays on your device only'}
+                Private - never shared or synced. Used to calculate rent burden on your device only.
               </p>
             </div>
           </div>
@@ -695,22 +717,29 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
 
         {/* Schedule */}
         <Section id="schedule" title={t('profile.availability') || 'Availability'} isExpanded={expandedSections.has('schedule')} onToggle={toggleSection}>
-          <input
-            type="text"
-            placeholder={t('common.optional') || 'Work hours (e.g., 9-5 M-F)'}
-            value={formData.workHours}
-            onChange={(e) => setFormData(prev => ({ ...prev, workHours: e.target.value }))}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          />
-          <input
-            type="text"
-            placeholder={t('common.optional') || 'Best time to reach'}
-            value={formData.bestTimeToReach}
-            onChange={(e) => setFormData(prev => ({ ...prev, bestTimeToReach: e.target.value }))}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          />
+          <p className="text-xs text-gray-500">Helps organizers know when to reach out or schedule meetings.</p>
           <div>
-            <span className="text-sm text-gray-600 mb-2 block">{'Best days:'}:</span>
+            <label className="block text-sm text-gray-600 mb-1">Work schedule</label>
+            <input
+              type="text"
+              placeholder="e.g., 9-5 M-F, or nights/weekends"
+              value={formData.workHours}
+              onChange={(e) => setFormData(prev => ({ ...prev, workHours: e.target.value }))}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+          </div>
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Best time to reach you</label>
+            <input
+              type="text"
+              placeholder="e.g., Evenings after 6pm, weekday mornings"
+              value={formData.bestTimeToReach}
+              onChange={(e) => setFormData(prev => ({ ...prev, bestTimeToReach: e.target.value }))}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+          </div>
+          <div>
+            <span className="text-sm text-gray-600 mb-2 block">Best days to meet:</span>
             <div className="flex flex-wrap gap-2">
               {DAYS_OF_WEEK.map(day => (
                 <button
@@ -732,6 +761,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
 
         {/* Issues */}
         <Section id="issues" title={t('profile.complaints') || 'Issues & Complaints'} isExpanded={expandedSections.has('issues')} onToggle={toggleSection}>
+          <p className="text-xs text-gray-500">Select any issues you are currently experiencing in your unit.</p>
           <div className="space-y-2">
             {COMPLAINT_CATEGORIES.map(({ key, label }) => (
               <label key={key} className="flex items-center gap-2 text-sm">
@@ -745,18 +775,21 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
               </label>
             ))}
           </div>
-          <textarea
-            placeholder={t('common.optional') || 'Details about your issues...'}
-            value={formData.complaintDetails}
-            onChange={(e) => setFormData(prev => ({ ...prev, complaintDetails: e.target.value }))}
-            rows={3}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          />
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Additional details</label>
+            <textarea
+              placeholder="Describe your issues, when they started, and any responses from management..."
+              value={formData.complaintDetails}
+              onChange={(e) => setFormData(prev => ({ ...prev, complaintDetails: e.target.value }))}
+              rows={3}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+          </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{'Maintenance:'}:</span>
+            <span className="text-gray-600">Maintenance responsiveness:</span>
             <label className="flex items-center gap-1">
               <input type="radio" name="maintenanceRating" checked={formData.maintenanceRating === 'good'} onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'good' }))} />
-              {'Good'}
+              Good
             </label>
             <label className="flex items-center gap-1">
               <input type="radio" name="maintenanceRating" checked={formData.maintenanceRating === 'ok'} onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'ok' }))} />
@@ -764,29 +797,33 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
             </label>
             <label className="flex items-center gap-1">
               <input type="radio" name="maintenanceRating" checked={formData.maintenanceRating === 'bad'} onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'bad' }))} />
-              {'Bad'}
+              Bad
             </label>
           </div>
-          <input
-            type="text"
-            placeholder={t('common.optional') || 'Outstanding repair requests'}
-            value={formData.outstandingRepairs}
-            onChange={(e) => setFormData(prev => ({ ...prev, outstandingRepairs: e.target.value }))}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          />
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Outstanding repair requests</label>
+            <input
+              type="text"
+              placeholder="e.g., Broken heater since October, leaky faucet"
+              value={formData.outstandingRepairs}
+              onChange={(e) => setFormData(prev => ({ ...prev, outstandingRepairs: e.target.value }))}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+            <p className="text-xs text-gray-400 mt-1">Repairs you have requested that have not been completed</p>
+          </div>
         </Section>
 
         {/* Interest */}
         <Section id="interest" title={'Community & Interest'} isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{'Know neighbors:'}:</span>
+            <span className="text-gray-600">Know your neighbors?</span>
             <label className="flex items-center gap-1">
               <input type="radio" name="knowsNeighbors" checked={formData.knowsNeighbors === 'yes'} onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'yes' }))} />
               {t('ui.yes') || 'Yes'}
             </label>
             <label className="flex items-center gap-1">
               <input type="radio" name="knowsNeighbors" checked={formData.knowsNeighbors === 'somewhat'} onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'somewhat' }))} />
-              {'Some'}
+              Some
             </label>
             <label className="flex items-center gap-1">
               <input type="radio" name="knowsNeighbors" checked={formData.knowsNeighbors === 'no'} onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'no' }))} />
@@ -794,7 +831,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
             </label>
           </div>
           <div className="flex gap-4 text-sm">
-            <span className="text-gray-600">{'Organizing experience:'}:</span>
+            <span className="text-gray-600">Prior organizing experience?</span>
             <label className="flex items-center gap-1">
               <input type="radio" name="hasOrganizingExperience" checked={formData.hasOrganizingExperience === true} onChange={() => setFormData(prev => ({ ...prev, hasOrganizingExperience: true }))} />
               {t('ui.yes') || 'Yes'}
@@ -805,7 +842,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
             </label>
           </div>
           <div className="mt-3">
-            <span className="text-sm text-gray-600 mb-2 block">{'Interested in:'}:</span>
+            <span className="text-sm text-gray-600 mb-2 block">What would you like to get involved with?</span>
             <div className="space-y-2">
               {INTEREST_LEVELS.map(({ key, label }) => (
                 <label key={key} className="flex items-center gap-2 text-sm">
@@ -820,13 +857,16 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
               ))}
             </div>
           </div>
-          <textarea
-            placeholder={t('common.optional') || 'What would you like to see changed?'}
-            value={formData.suggestions}
-            onChange={(e) => setFormData(prev => ({ ...prev, suggestions: e.target.value }))}
-            rows={3}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
-          />
+          <div>
+            <label className="block text-sm text-gray-600 mb-1">Suggestions for your building or community</label>
+            <textarea
+              placeholder="What changes would you like to see? What would make your building better?"
+              value={formData.suggestions}
+              onChange={(e) => setFormData(prev => ({ ...prev, suggestions: e.target.value }))}
+              rows={3}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
+            />
+          </div>
         </Section>
 
         {/* Personalization & Circles */}
