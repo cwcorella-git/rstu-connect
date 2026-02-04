@@ -6,9 +6,11 @@ import { useLanguage } from '@/contexts/LanguageContext'
 import {
   Election,
   Nomination,
+  OfficerPosition,
   getElectionPhase,
   formatElectionDate,
   getTimeRemaining,
+  getOfficerPositions,
 } from '@/lib/electionStorage'
 import { NominationForm } from './NominationForm'
 import { RankedChoiceVoting } from './RankedChoiceVoting'
@@ -27,6 +29,12 @@ export function ElectionsDashboard({ profileId, profileName }: ElectionsDashboar
   const [pendingNomination, setPendingNomination] = useState<Nomination | null>(null)
   const [isLoading, setIsLoading] = useState(true)
   const [showNominationForm, setShowNominationForm] = useState(false)
+  const [officers, setOfficers] = useState<OfficerPosition[]>([])
+
+  // Load current officer positions
+  useEffect(() => {
+    setOfficers(getOfficerPositions())
+  }, [])
 
   // Fetch active election and nominations
   useEffect(() => {
@@ -126,20 +134,51 @@ export function ElectionsDashboard({ profileId, profileName }: ElectionsDashboar
     )
   }
 
+  // Current Officers section
+  const officersSection = officers.length > 0 ? (
+    <div className="bg-amber-50 rounded-lg border border-amber-200 p-4">
+      <h4 className="text-sm font-semibold text-amber-900 mb-3 flex items-center gap-2">
+        <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+        </svg>
+        {t('elections.currentOfficers')}
+      </h4>
+      <div className="space-y-2">
+        {officers.map(pos => {
+          const expiresDate = new Date(pos.termEnd).toLocaleDateString(undefined, { month: 'short', year: 'numeric' })
+          return (
+            <div key={pos.positionTitle} className="flex items-center justify-between bg-white rounded-lg px-3 py-2 border border-amber-100">
+              <div>
+                <div className="text-sm font-medium text-gray-900">{pos.positionTitle}</div>
+                <div className="text-xs text-gray-600">{pos.holderName}</div>
+              </div>
+              <div className="text-xs text-amber-700">
+                {t('elections.termInfo', { number: pos.termNumber.toString(), date: expiresDate })}
+              </div>
+            </div>
+          )
+        })}
+      </div>
+    </div>
+  ) : null
+
   if (!election) {
     return (
-      <div className="bg-gray-50 rounded-lg p-6 text-center">
-        <div className="text-gray-400 mb-2">
-          <svg className="w-12 h-12 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-          </svg>
+      <div className="space-y-4">
+        <div className="bg-gray-50 rounded-lg p-6 text-center">
+          <div className="text-gray-400 mb-2">
+            <svg className="w-12 h-12 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <h3 className="text-lg font-medium text-gray-700 mb-1">
+            {t('elections.noActive')}
+          </h3>
+          <p className="text-sm text-gray-500">
+            {t('elections.noActiveDesc')}
+          </p>
         </div>
-        <h3 className="text-lg font-medium text-gray-700 mb-1">
-          {t('elections.noActive')}
-        </h3>
-        <p className="text-sm text-gray-500">
-          {t('elections.noActiveDesc')}
-        </p>
+        {officersSection}
       </div>
     )
   }
@@ -149,6 +188,9 @@ export function ElectionsDashboard({ profileId, profileName }: ElectionsDashboar
 
   return (
     <div className="space-y-4">
+      {/* Current Officers */}
+      {officersSection}
+
       {/* Election Header */}
       <div className="bg-red-50 rounded-lg p-4 border border-red-100">
         <div className="flex items-center justify-between mb-2">

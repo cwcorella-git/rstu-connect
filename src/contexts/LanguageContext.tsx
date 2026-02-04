@@ -318,6 +318,9 @@ const translations: Record<Locale, Record<string, string>> = {
     // Elections
     'elections.noActive': 'No Active Election',
     'elections.noActiveDesc': 'There is no election currently in progress. Check back later.',
+    'elections.currentOfficers': 'Current Officers',
+    'elections.termInfo': 'Term {number} · expires {date}',
+    'elections.noOfficers': 'No officers elected yet',
     'elections.nominationsOpen': 'Nominations Open',
     'elections.votingOpen': 'Voting Open',
     'elections.closed': 'Closed',
@@ -2334,6 +2337,9 @@ const translations: Record<Locale, Record<string, string>> = {
     // Elections
     'elections.noActive': 'Sin Eleccion Activa',
     'elections.noActiveDesc': 'No hay ninguna eleccion en curso. Vuelve mas tarde.',
+    'elections.currentOfficers': 'Oficiales Actuales',
+    'elections.termInfo': 'Periodo {number} · vence {date}',
+    'elections.noOfficers': 'No hay oficiales elegidos aun',
     'elections.nominationsOpen': 'Nominaciones Abiertas',
     'elections.votingOpen': 'Votacion Abierta',
     'elections.closed': 'Cerrada',
@@ -4338,6 +4344,9 @@ const translations: Record<Locale, Record<string, string>> = {
     // Elections
     'elections.noActive': 'Walang Aktibong Eleksyon',
     'elections.noActiveDesc': 'Walang eleksyon na kasalukuyang nagaganap. Bumalik mamaya.',
+    'elections.currentOfficers': 'Mga Kasalukuyang Opisyal',
+    'elections.termInfo': 'Termino {number} · mag-eexpire {date}',
+    'elections.noOfficers': 'Wala pang nahalal na opisyal',
     'elections.nominationsOpen': 'Bukas ang Nominasyon',
     'elections.votingOpen': 'Bukas ang Pagboto',
     'elections.closed': 'Sarado',
@@ -6399,6 +6408,9 @@ const translations: Record<Locale, Record<string, string>> = {
     // Elections
     'elections.noActive': '没有进行中的选举',
     'elections.noActiveDesc': '目前没有正在进行的选举。请稍后再查看。',
+    'elections.currentOfficers': '现任干部',
+    'elections.termInfo': '第{number}届 · {date}届满',
+    'elections.noOfficers': '尚未选出干部',
     'elections.nominationsOpen': '提名开放',
     'elections.votingOpen': '投票开放',
     'elections.closed': '已结束',
@@ -8459,6 +8471,9 @@ const translations: Record<Locale, Record<string, string>> = {
     // Elections
     'elections.noActive': 'Không có bầu cử đang diễn ra',
     'elections.noActiveDesc': 'Hiện không có cuộc bầu cử nào đang diễn ra. Vui lòng kiểm tra lại sau.',
+    'elections.currentOfficers': 'Cán Bộ Hiện Tại',
+    'elections.termInfo': 'Nhiệm kỳ {number} · hết hạn {date}',
+    'elections.noOfficers': 'Chưa có cán bộ nào được bầu',
     'elections.nominationsOpen': 'Đề cử mở',
     'elections.votingOpen': 'Bỏ phiếu mở',
     'elections.closed': 'Đã đóng',
