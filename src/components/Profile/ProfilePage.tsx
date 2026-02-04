@@ -27,7 +27,6 @@ import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'
 import { ProfileEditor, type ProfileEditorHandle } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
 import { LoginForm } from './LoginForm'
-import { ComprehensiveSettingsModal } from './ComprehensiveSettingsModal'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
 import { ProfileVotingSection } from './ProfileVotingSection'
@@ -47,7 +46,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [profile, setProfile] = useState<UserProfile | null>(null)
   const [storedProfiles, setStoredProfiles] = useState<UserProfile[]>([])
   const [loading, setLoading] = useState(true)
-  const [showEdit, setShowEdit] = useState(false)
   const [showMessages, setShowMessages] = useState(false)
   const [showGroups, setShowGroups] = useState(false)
   const [showSettings, setShowSettings] = useState(false)
@@ -334,7 +332,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             unreadMessagesCount={unreadCount}
             onOpenMessages={() => setShowMessages(true)}
             onOpenGroups={() => setShowGroups(true)}
-            onOpenEditor={() => setShowEdit(true)}
             onOpenSettings={() => setShowSettings(true)}
           />
 
@@ -375,19 +372,12 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
       </div>
 
       {/* Settings Modal */}
-      <ComprehensiveSettingsModal
-        isOpen={showSettings}
-        onClose={() => setShowSettings(false)}
-        profileId={profile?.id}
-      />
-
-      {/* Edit Profile Modal */}
-      {showEdit && profile && (
+      {showSettings && profile && (
         <>
           {/* Backdrop */}
           <div
             className="fixed inset-0 bg-black/50 z-40"
-            onClick={() => setShowEdit(false)}
+            onClick={() => setShowSettings(false)}
           />
 
           {/* Modal */}
@@ -395,9 +385,9 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             <div className="bg-white rounded-lg shadow-xl w-full h-[95vh] sm:h-auto sm:max-w-3xl sm:max-h-[90vh] flex flex-col overflow-hidden">
               {/* Header */}
               <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200 flex-shrink-0">
-                <h2 className="text-xl font-semibold text-gray-900">{t('profile.editProfile') || 'Edit Profile'}</h2>
+                <h2 className="text-xl font-semibold text-gray-900">{t('profile.settings') || 'Settings'}</h2>
                 <button
-                  onClick={() => setShowEdit(false)}
+                  onClick={() => setShowSettings(false)}
                   className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
                   aria-label="Close"
                 >
@@ -415,16 +405,17 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                   buildings={buildings}
                   onSave={(updated) => {
                     setProfile(updated)
-                    setShowEdit(false)
+                    setShowSettings(false)
                   }}
-                  onCancel={() => setShowEdit(false)}
+                  onCancel={() => setShowSettings(false)}
+                  onSignOut={() => { setShowSettings(false); handleLogout() }}
                 />
               </div>
 
               {/* Footer */}
               <div className="flex items-center justify-end gap-3 px-6 py-4 border-t border-gray-200 flex-shrink-0 bg-white">
                 <button
-                  onClick={() => setShowEdit(false)}
+                  onClick={() => setShowSettings(false)}
                   className="px-4 py-2 text-gray-600 hover:text-gray-800 text-sm font-medium"
                 >
                   {t('common.cancel') || 'Cancel'}

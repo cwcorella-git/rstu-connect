@@ -2,11 +2,10 @@
 
 import { useLanguage } from '@/contexts/LanguageContext'
 import type { UserProfile } from '@/lib/profileStorage'
-import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile, clearProfile } from '@/lib/profileStorage'
+import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
 import { getOfficerTitleForUser } from '@/lib/electionStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { CheckBadgeIcon } from '@heroicons/react/24/solid'
-import { useRouter } from 'next/navigation'
 
 interface ProfileHeaderProps {
   profile: UserProfile
@@ -14,7 +13,6 @@ interface ProfileHeaderProps {
   unreadMessagesCount?: number
   onOpenMessages: () => void
   onOpenGroups: () => void
-  onOpenEditor: () => void
   onOpenSettings: () => void
 }
 
@@ -24,19 +22,12 @@ export function ProfileHeader({
   unreadMessagesCount = 0,
   onOpenMessages,
   onOpenGroups,
-  onOpenEditor,
   onOpenSettings,
 }: ProfileHeaderProps) {
   const { t } = useLanguage()
-  const router = useRouter()
   const currentUser = getCurrentProfile()
   const isOwnProfile = currentUser?.id === profile.id
   const canViewBuilding = isOwnProfile || canAccessTools()
-
-  const handleSignOut = () => {
-    clearProfile()
-    router.push('/')
-  }
 
   return (
     <div className="bg-gradient-to-br from-rstu-red to-red-700 rounded-lg shadow-md p-4">
@@ -117,17 +108,6 @@ export function ProfileHeader({
                 {t('profile.groups') || 'Groups'}
               </button>
 
-              {/* Edit Profile Button */}
-              <button
-                onClick={onOpenEditor}
-                className="flex items-center gap-1 px-3 py-1.5 bg-white text-rstu-red rounded-md text-sm font-medium hover:bg-white/90 transition-colors shadow-sm"
-              >
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/>
-                </svg>
-                {t('common.edit') || 'Edit'}
-              </button>
-
               {/* Settings Button */}
               <button
                 onClick={onOpenSettings}
@@ -138,17 +118,6 @@ export function ProfileHeader({
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
                 </svg>
                 {t('profile.settings') || 'Settings'}
-              </button>
-
-              {/* Sign Out Button */}
-              <button
-                onClick={handleSignOut}
-                className="flex items-center gap-1 px-3 py-1.5 bg-white text-rstu-red rounded-md text-sm font-medium hover:bg-white/90 transition-colors shadow-sm"
-              >
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1"/>
-                </svg>
-                {t('profile.signOut') || 'Sign Out'}
               </button>
             </div>
           )}

@@ -3,9 +3,10 @@ import { createLogger } from '@/lib/logger'
 const log = createLogger('ProfileEditor')
 
 import { useState, useEffect, useRef, memo, forwardRef, useImperativeHandle } from 'react'
-import { useLanguage } from '@/contexts/LanguageContext'
+import { useLanguage, SUPPORTED_LOCALES, type Locale } from '@/contexts/LanguageContext'
 import {
   updateProfile,
+  exportProfileData,
   type UserProfile,
   canAccessTools,
   SUGGESTED_INTERESTS,
@@ -13,6 +14,7 @@ import {
   COMMUNITY_ACTIVITIES,
   ACTIVITY_LABELS,
 } from '@/lib/profileStorage'
+import { NotificationSettings } from './NotificationSettings'
 import { COMPLAINT_CATEGORIES, INTEREST_LEVELS } from '@/lib/canvassStorage'
 import type { EnhancedBuilding } from '@/lib/getBuildingsData'
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
@@ -77,6 +79,7 @@ interface ProfileEditorProps {
   buildings: EnhancedBuilding[]
   onSave: (updated: UserProfile) => void
   onCancel: () => void
+  onSignOut?: () => void
 }
 
 export interface ProfileEditorHandle {
@@ -121,9 +124,74 @@ const Section = memo(function Section({ id, title, isExpanded, onToggle, childre
   )
 })
 
+// Privacy toggle - neutral style matching Section
+const PrivacyToggle = memo(function PrivacyToggle({
+  label, description, enabled, onChange,
+}: {
+  label: string; description: string; enabled: boolean; onChange: () => void
+}) {
+  return (
+    <div className="flex items-center justify-between py-2">
+      <div>
+        <p className="text-sm font-medium text-gray-900">{label}</p>
+        <p className="text-xs text-gray-500">{description}</p>
+      </div>
+      <button
+        type="button"
+        onClick={onChange}
+        className={`relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none focus:ring-2 focus:ring-rstu-red focus:ring-offset-2 ${
+          enabled ? 'bg-rstu-red' : 'bg-gray-200'
+        }`}
+      >
+        <span
+          className={`pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out ${
+            enabled ? 'translate-x-5' : 'translate-x-0'
+          }`}
+        />
+      </button>
+    </div>
+  )
+})
+
 export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>(
-  function ProfileEditor({ profile, buildings, onSave, onCancel }, ref) {
-  const { t } = useLanguage()
+  function ProfileEditor({ profile, buildings, onSave, onCancel, onSignOut }, ref) {
+  const { t, locale, setLocale } = useLanguage()
+
+  // Settings state (auto-save)
+  const [tenantInfoExpanded, setTenantInfoExpanded] = useState(false)
+  const [privacySettings, setPrivacySettings] = useState({
+    profileVisible: true,
+    shareEmail: false,
+    sharePhone: false,
+    allowContact: true,
+  })
+  const [exportMessage, setExportMessage] = useState<string | null>(null)
+  const [exportError, setExportError] = useState<string | null>(null)
+
+  const togglePrivacySetting = (key: keyof typeof privacySettings) => {
+    setPrivacySettings(prev => ({ ...prev, [key]: !prev[key] }))
+  }
+
+  const handleExportData = () => {
+    try {
+      setExportError(null)
+      const jsonData = exportProfileData()
+      const blob = new Blob([jsonData], { type: 'application/json' })
+      const url = URL.createObjectURL(blob)
+      const link = document.createElement('a')
+      link.href = url
+      link.download = `rstu-profile-${Date.now()}.json`
+      document.body.appendChild(link)
+      link.click()
+      document.body.removeChild(link)
+      URL.revokeObjectURL(url)
+      setExportMessage(t('settings.exportSuccess') || 'Profile data exported!')
+      setTimeout(() => setExportMessage(null), 3000)
+    } catch (error) {
+      setExportError(error instanceof Error ? error.message : 'Failed to export data')
+    }
+  }
+
   const [formData, setFormData] = useState<Partial<UserProfile>>({
     nickname: profile.nickname,
     buildingId: profile.buildingId || '',
@@ -344,7 +412,115 @@ export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>
   }
 
   return (
-    <div className="p-6 space-y-6">
+    <div className="space-y-0">
+        {/* === SETTINGS (always visible, auto-save) === */}
+
+        {/* Notifications */}
+        <div className="border-b border-gray-200 px-4 py-4 space-y-3">
+          <span className="font-medium text-gray-900 block">{t('profile.notifications') || 'Notifications'}</span>
+          <NotificationSettings profileId={profile.id} />
+        </div>
+
+        {/* Language */}
+        <div className="border-b border-gray-200 px-4 py-4 space-y-3">
+          <span className="font-medium text-gray-900 block">{t('settings.language') || 'Language'}</span>
+          <select
+            value={locale}
+            onChange={(e) => setLocale(e.target.value as Locale)}
+            className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm text-gray-900 bg-white focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+          >
+            {SUPPORTED_LOCALES.map((localeInfo) => (
+              <option key={localeInfo.code} value={localeInfo.code}>
+                {localeInfo.name} ({localeInfo.nativeName})
+              </option>
+            ))}
+          </select>
+          <p className="text-xs text-gray-500">
+            {t('settings.languageHint') || 'Language preference is saved automatically'}
+          </p>
+        </div>
+
+        {/* Privacy & Data */}
+        <div className="border-b border-gray-200 px-4 py-4 space-y-3">
+          <span className="font-medium text-gray-900 block">{t('settings.privacy') || 'Privacy & Data'}</span>
+          <div className="space-y-1">
+            <PrivacyToggle
+              label={t('settings.profileVisibility') || 'Profile Visibility'}
+              description={t('settings.profileVisibilityDesc') || 'Allow other users to see your profile'}
+              enabled={privacySettings.profileVisible}
+              onChange={() => togglePrivacySetting('profileVisible')}
+            />
+            <PrivacyToggle
+              label={t('settings.shareEmail') || 'Share Email'}
+              description={t('settings.shareEmailDesc') || 'Allow organizers to contact you by email'}
+              enabled={privacySettings.shareEmail}
+              onChange={() => togglePrivacySetting('shareEmail')}
+            />
+            <PrivacyToggle
+              label={t('settings.sharePhone') || 'Share Phone'}
+              description={t('settings.sharePhoneDesc') || 'Allow organizers to contact you by phone'}
+              enabled={privacySettings.sharePhone}
+              onChange={() => togglePrivacySetting('sharePhone')}
+            />
+            <PrivacyToggle
+              label={t('settings.allowContact') || 'Allow Direct Contact'}
+              description={t('settings.allowContactDesc') || 'Allow building members to contact you directly'}
+              enabled={privacySettings.allowContact}
+              onChange={() => togglePrivacySetting('allowContact')}
+            />
+          </div>
+
+          {/* Data Export */}
+          <div className="pt-3 border-t border-gray-100">
+            <p className="text-sm font-medium text-gray-900 mb-2">{t('settings.dataManagement') || 'Data Management'}</p>
+            <button
+              type="button"
+              onClick={handleExportData}
+              className="flex items-center gap-2 px-3 py-2 bg-white border border-gray-300 rounded-md text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
+              </svg>
+              {t('settings.exportData') || 'Export Profile Data'}
+            </button>
+            <p className="text-xs text-gray-500 mt-1">
+              {t('settings.exportHint') || 'Download your profile as JSON for backup'}
+            </p>
+          </div>
+
+          {/* Export feedback */}
+          {exportMessage && (
+            <div className="p-2 bg-green-50 text-green-700 text-sm rounded">
+              {exportMessage}
+            </div>
+          )}
+          {exportError && (
+            <div className="p-2 bg-red-50 text-red-700 text-sm rounded">
+              {exportError}
+            </div>
+          )}
+        </div>
+
+        {/* === TENANT INFO (collapsible group) === */}
+        <div className="border-b border-gray-200">
+          <button
+            type="button"
+            onClick={() => setTenantInfoExpanded(!tenantInfoExpanded)}
+            className="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-gray-50"
+          >
+            <span className="font-medium text-gray-900">{t('settings.tenantInfo') || 'Tenant Info'}</span>
+            <svg
+              className={`w-5 h-5 text-gray-400 transition-transform ${tenantInfoExpanded ? 'rotate-180' : ''}`}
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          {tenantInfoExpanded && (
+            <div className="border-t border-gray-100">
+
         {/* Basic Info */}
         <Section id="basic" title={t('profile.accountInfo') || 'Basic Info'} isExpanded={expandedSections.has('basic')} onToggle={toggleSection}>
           <input
@@ -1077,6 +1253,26 @@ export const ProfileEditor = forwardRef<ProfileEditorHandle, ProfileEditorProps>
               </p>
             </div>
           </Section>
+        )}
+
+            </div>
+          )}
+        </div>
+
+        {/* === SIGN OUT === */}
+        {onSignOut && (
+          <div className="px-4 py-6">
+            <button
+              type="button"
+              onClick={onSignOut}
+              className="w-full flex items-center justify-center gap-2 px-4 py-2.5 border border-red-300 text-red-600 rounded-md text-sm font-medium hover:bg-red-50 transition-colors"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1"/>
+              </svg>
+              {t('profile.signOut') || 'Sign Out'}
+            </button>
+          </div>
         )}
     </div>
   )

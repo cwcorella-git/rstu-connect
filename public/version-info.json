@@ -1,8 +1,8 @@
 {
-  "commit": "41ab6f85",
-  "message": "Landing page CTA improvements: dynamic doc count, new cards",
+  "commit": "d1f344af",
+  "message": "Move rent comparison from Profile into property info panel",
   "author": "cwcorella-git",
-  "date": "2026-02-03 13:49:40 -0800",
+  "date": "2026-02-03 21:25:59 -0800",
   "branch": "main",
-  "buildTime": "2026-02-03T21:52:56.611Z"
+  "buildTime": "2026-02-04T06:45:33.691Z"
 }
