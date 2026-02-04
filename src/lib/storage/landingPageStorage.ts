@@ -26,7 +26,7 @@ export interface LandingPageConfig {
 const PAGES_KEY = 'rstu_landing_pages'
 const ACTIVE_KEY = 'rstu_active_landing_page'
 const MIGRATION_KEY = 'rstu_landing_page_version'
-const CURRENT_VERSION = 2 // Bump when DEFAULT_PAGE_1 changes
+const CURRENT_VERSION = 3 // Bump when DEFAULT_PAGE_1 changes
 
 let _uid = 0
 function uid() {
@@ -127,6 +127,10 @@ export const DEFAULT_PAGE_1: LandingPageConfig = {
         ],
       },
     },
+    { id: 'def-rights', type: 'rights', config: {} },
+    { id: 'def-organizing', type: 'organizing', config: {} },
+    { id: 'def-crisis', type: 'crisis', config: {} },
+    { id: 'def-action', type: 'action', config: {} },
     { id: 'def-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -247,17 +251,37 @@ export function getLandingPages(): LandingPageConfig[] {
   let changed = false
 
   if (version < CURRENT_VERSION) {
-    // Migrate page-1 to include new sections (v2: added "Stronger Together" and "Values")
     const page1Idx = stored.findIndex(p => p.id === 'page-1')
     if (page1Idx >= 0) {
       const page1 = stored[page1Idx]
-      // Only migrate if user hasn't customized it (still has original 2-section layout)
-      const hasOnlyHeroAndCta = page1.sections.length === 2 &&
-        page1.sections[0]?.type === 'hero' &&
-        page1.sections[1]?.type === 'cta'
-      if (hasOnlyHeroAndCta) {
-        stored[page1Idx] = DEFAULT_PAGE_1
-        changed = true
+
+      if (version < 2) {
+        // v1→v2: added "Stronger Together" and "Values" cards
+        const hasOnlyHeroAndCta = page1.sections.length === 2 &&
+          page1.sections[0]?.type === 'hero' &&
+          page1.sections[1]?.type === 'cta'
+        if (hasOnlyHeroAndCta) {
+          stored[page1Idx] = DEFAULT_PAGE_1
+          changed = true
+        }
+      }
+
+      if (version < 3) {
+        // v2→v3: restore rights, organizing, crisis, action sections before CTA
+        const types = page1.sections.map(s => s.type)
+        const missingPrebuilt = !types.includes('rights') && !types.includes('organizing')
+          && !types.includes('crisis') && !types.includes('action')
+        if (missingPrebuilt) {
+          const ctaIdx = page1.sections.findIndex(s => s.type === 'cta')
+          const insertAt = ctaIdx >= 0 ? ctaIdx : page1.sections.length
+          page1.sections.splice(insertAt, 0,
+            { id: 'def-rights', type: 'rights', config: {} },
+            { id: 'def-organizing', type: 'organizing', config: {} },
+            { id: 'def-crisis', type: 'crisis', config: {} },
+            { id: 'def-action', type: 'action', config: {} },
+          )
+          changed = true
+        }
       }
     }
     safeSetItem(MIGRATION_KEY, String(CURRENT_VERSION))

@@ -1,8 +1,8 @@
 {
-  "commit": "55267248",
-  "message": "RCV tutorial: Add exit button, user-controlled round advancement",
+  "commit": "3db90c58",
+  "message": "Split tenant info into separate Tenant Profile modal",
   "author": "cwcorella-git",
-  "date": "2026-02-04 04:39:41 -0800",
+  "date": "2026-02-04 05:29:44 -0800",
   "branch": "main",
-  "buildTime": "2026-02-04T13:28:57.548Z"
+  "buildTime": "2026-02-04T15:03:03.880Z"
 }
