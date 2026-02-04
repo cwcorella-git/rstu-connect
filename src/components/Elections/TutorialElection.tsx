@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, useCallback } from 'react'
+import { XMarkIcon } from '@heroicons/react/24/outline'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 // ============================================================================
@@ -139,7 +140,6 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
   const [dragOverIndex, setDragOverIndex] = useState<number | null>(null)
   const [results, setResults] = useState<{ winner: string; rounds: EliminationRound[] } | null>(null)
   const [currentRound, setCurrentRound] = useState(0)
-  const [showingResults, setShowingResults] = useState(false)
 
   // Move candidate up in rankings
   const moveUp = useCallback((candidateId: string) => {
@@ -170,24 +170,14 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
     }
   }, [step, rankings.length])
 
-  // Animate through rounds when showing results
-  useEffect(() => {
-    if (showingResults && results && currentRound < results.rounds.length) {
-      const timer = setTimeout(() => {
-        setCurrentRound(prev => prev + 1)
-      }, 2500)
-      return () => clearTimeout(timer)
-    }
-  }, [showingResults, currentRound, results])
-
   // Submit vote and calculate results
   const handleSubmitVote = () => {
     // Combine user's ballot with simulated ballots
     const allBallots = [...SIMULATED_BALLOTS, rankings]
     const calculated = calculateRCVResults(allBallots)
     setResults(calculated)
+    setCurrentRound(1)
     setStep(4)
-    setShowingResults(true)
   }
 
   // Complete tutorial
@@ -638,12 +628,15 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
           })}
         </div>
 
-        {/* Loading indicator */}
-        {!isComplete && (
+        {/* Next Round button */}
+        {!isComplete && currentRound < results.rounds.length && (
           <div className="text-center">
-            <div className="inline-block animate-pulse text-gray-500">
-              Counting next round...
-            </div>
+            <button
+              onClick={() => setCurrentRound(prev => prev + 1)}
+              className="px-5 py-2.5 bg-rstu-red text-white font-medium rounded-lg hover:bg-red-700 transition-colors"
+            >
+              Next Round &rarr;
+            </button>
           </div>
         )}
 
@@ -732,7 +725,13 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
         <div className="sticky top-0 bg-white border-b border-gray-200 p-4">
           <div className="flex items-center justify-between mb-2">
             <span className="text-sm text-gray-500">RCV Tutorial</span>
-            <span className="text-sm text-gray-500">Step {step + 1} of 6</span>
+            <button
+              onClick={handleSkip}
+              className="p-1 text-gray-400 hover:text-gray-600 hover:bg-gray-100 rounded-md transition-colors"
+              aria-label="Close tutorial"
+            >
+              <XMarkIcon className="w-5 h-5" />
+            </button>
           </div>
           <div className="h-2 bg-gray-100 rounded-full overflow-hidden">
             <div
