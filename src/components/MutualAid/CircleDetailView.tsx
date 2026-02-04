@@ -12,8 +12,8 @@ import {
   leaveCircle,
   deleteCircle,
   getCircleMembers,
-} from '@/lib/circleStorage'
-import { getCurrentProfile, type UserProfile, INTEREST_LABELS } from '@/lib/profileStorage'
+} from '@/lib/storage/circleStorage'
+import { getCurrentProfile, type UserProfile, INTEREST_LABELS } from '@/lib/storage/profileStorage'
 
 interface CircleDetailViewProps {
   circle: Circle

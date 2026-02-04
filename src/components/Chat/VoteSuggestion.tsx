@@ -2,16 +2,16 @@
 
 import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
-import { getBuildingDemands } from '@/lib/buildingOrganizingStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
+import { getBuildingDemands } from '@/lib/storage/buildingOrganizingStorage'
 import {
   createProposal,
   formatProposalMessage,
   type GovernanceProposalType,
   VOTE_THRESHOLDS,
-} from '@/lib/governanceStorage'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+} from '@/lib/storage/governanceStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 interface VoteSuggestionProps {
   groupId: string

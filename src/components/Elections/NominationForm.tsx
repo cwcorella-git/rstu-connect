@@ -1,11 +1,11 @@
 'use client'
 
 import { useState } from 'react'
-import { getSocket } from '@/lib/socketio'
+import { getSocket } from '@/lib/services/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { useOfflineMode } from '@/hooks/useOfflineMode'
-import { Election, Nomination, createNominationAsync } from '@/lib/electionStorage'
-import { getStoredProfiles } from '@/lib/profileStorage'
+import { Election, Nomination, createNominationAsync } from '@/lib/storage/electionStorage'
+import { getStoredProfiles } from '@/lib/storage/profileStorage'
 
 interface NominationFormProps {
   election: Election

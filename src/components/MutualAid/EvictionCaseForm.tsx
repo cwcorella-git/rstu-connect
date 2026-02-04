@@ -1,9 +1,9 @@
 'use client'
 
 import React, { useState, useMemo, useEffect } from 'react'
-import { createCase, type EvictionCase } from '@/lib/evictionDefenseStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { createCase, type EvictionCase } from '@/lib/storage/evictionDefenseStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import { LegislationLink } from '@/components/Legislation'
 
 interface EvictionCaseFormProps {

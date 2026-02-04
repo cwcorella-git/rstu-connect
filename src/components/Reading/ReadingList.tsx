@@ -3,9 +3,9 @@
 import { useState, useMemo, useEffect, useRef, useDeferredValue, useCallback, memo } from 'react'
 import { ChevronDownIcon } from '@heroicons/react/24/outline'
 import { ReadingCard } from './ReadingCard'
-import { getReadingState, toggleFavorite } from '@/lib/readingStorage'
-import type { ReadingDocument } from '@/lib/getReadingData'
-import { searchDocuments, USE_SUPABASE, DocumentSearchResult } from '@/lib/supabase'
+import { getReadingState, toggleFavorite } from '@/lib/storage/readingStorage'
+import type { ReadingDocument } from '@/lib/data/getReadingData'
+import { searchDocuments, USE_SUPABASE, DocumentSearchResult } from '@/lib/services/supabase'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 interface ReadingListProps {

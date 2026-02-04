@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { migrateUserToSupabaseAuth, validatePassword } from '@/lib/supabaseAuth'
+import { migrateUserToSupabaseAuth, validatePassword } from '@/lib/services/supabaseAuth'
 
 interface PasswordMigrationModalProps {
   email: string

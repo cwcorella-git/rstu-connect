@@ -22,7 +22,7 @@ import {
   getBuildingStats,
   getCasesNeedingAttention,
   getEnhancedSuggestion,
-} from '@/lib/escalationStorage'
+} from '@/lib/storage/escalationStorage'
 
 interface EscalationTrackerProps {
   buildingId: string

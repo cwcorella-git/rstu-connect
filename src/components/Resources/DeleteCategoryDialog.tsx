@@ -7,7 +7,7 @@ import {
   deleteCustomCategory,
   getExternalOrganizationsByCategory,
   type CustomCategory,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 
 interface DeleteCategoryDialogProps {
   isOpen: boolean

@@ -50,7 +50,7 @@ import {
   getBuildingHabitabilityQuotes,
   type ContactStatus,
   type UnitRecord,
-} from '../canvassStorage'
+} from '../storage/canvassStorage'
 
 // Mock Supabase
 jest.mock('../supabase', () => ({

@@ -1,11 +1,11 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('OrganizingProgress')
 
 import { useState, useEffect, useCallback } from 'react'
-import { getCurrentProfile, type UserProfile } from '@/lib/profileStorage'
-import { getAllProfiles, USE_SUPABASE, type DbProfile } from '@/lib/supabase'
-import { getTenantSafeProgress, type TenantSafeProgress } from '@/lib/canvassStorage'
+import { getCurrentProfile, type UserProfile } from '@/lib/storage/profileStorage'
+import { getAllProfiles, USE_SUPABASE, type DbProfile } from '@/lib/services/supabase'
+import { getTenantSafeProgress, type TenantSafeProgress } from '@/lib/storage/canvassStorage'
 
 /**
  * Registered member info (tenant-safe - no contact details)

@@ -1,5 +1,5 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('ProfileEditor')
 
 import { useState, useEffect, useRef, memo, forwardRef, useImperativeHandle } from 'react'
@@ -13,11 +13,11 @@ import {
   INTEREST_LABELS,
   COMMUNITY_ACTIVITIES,
   ACTIVITY_LABELS,
-} from '@/lib/profileStorage'
+} from '@/lib/storage/profileStorage'
 import { NotificationSettings } from './NotificationSettings'
-import { COMPLAINT_CATEGORIES, INTEREST_LEVELS } from '@/lib/canvassStorage'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
+import { COMPLAINT_CATEGORIES, INTEREST_LEVELS } from '@/lib/storage/canvassStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/services/supabase'
 
 // Generate a chat slug from an address
 function generateChatSlug(address: string): string {

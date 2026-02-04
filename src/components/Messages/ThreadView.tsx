@@ -5,9 +5,9 @@ import {
   getThreadDisplayName,
   type DirectMessageThread,
   type DirectMessage,
-} from '@/lib/directMessageStorage'
+} from '@/lib/storage/directMessageStorage'
 import { useThreadMessages } from '@/hooks/useDirectMessages'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 
 interface ThreadViewProps {
   thread: DirectMessageThread

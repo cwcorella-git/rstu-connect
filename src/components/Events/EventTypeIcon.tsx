@@ -1,6 +1,6 @@
 'use client'
 
-import { type EventType } from '@/lib/eventStorage'
+import { type EventType } from '@/lib/storage/eventStorage'
 import {
   CalendarIcon,
   UserGroupIcon,

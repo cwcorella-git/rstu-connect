@@ -1,6 +1,6 @@
 'use client'
 
-import { COMPLAINT_CATEGORIES } from '@/lib/canvassStorage'
+import { COMPLAINT_CATEGORIES } from '@/lib/storage/canvassStorage'
 
 interface ComplaintSummaryProps {
   complaintsByCategory: Record<string, number>

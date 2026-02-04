@@ -1,6 +1,6 @@
 'use client';
 
-import type { EnhancedBuilding } from '@/lib/getBuildingsData';
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import type { OnboardingFormData } from '../types';
 
 interface StepReviewProps {

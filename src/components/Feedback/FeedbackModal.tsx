@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { submitFeedback } from '@/lib/feedbackStorage'
+import { submitFeedback } from '@/lib/storage/feedbackStorage'
 
 interface FeedbackModalProps {
   isOpen: boolean

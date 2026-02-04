@@ -7,11 +7,11 @@ import {
   updateEvent,
   getEventTypeLabel,
   getEventTypeIcon,
-} from '@/lib/eventStorage';
-import { getCurrentProfile } from '@/lib/profileStorage';
+} from '@/lib/storage/eventStorage';
+import { getCurrentProfile } from '@/lib/storage/profileStorage';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { AvailabilitySuggest } from './AvailabilitySuggest';
-import type { TimeSlot } from '@/lib/availabilityUtils';
+import type { TimeSlot } from '@/lib/data/availabilityUtils';
 
 interface EventEditorProps {
   event: BuildingEvent;

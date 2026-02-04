@@ -1,14 +1,14 @@
 'use client'
 
 import { useState } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import type { StrikePreparation } from '@/lib/strikeStorage'
-import { getBuildingCanvass } from '@/lib/canvassStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import type { StrikePreparation } from '@/lib/storage/strikeStorage'
+import { getBuildingCanvass } from '@/lib/storage/canvassStorage'
 import {
   assignLegalAid,
   setCourtDate,
   addEvidence,
-} from '@/lib/strikeStorage'
+} from '@/lib/storage/strikeStorage'
 
 interface DefensePreparationProps {
   strikePrep: StrikePreparation

@@ -1,5 +1,5 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('BuildingCampaign')
 
 import { useState, useEffect, useCallback, useMemo } from 'react'
@@ -9,7 +9,7 @@ import {
   type Campaign,
   type CampaignStage,
   type CampaignDemand
-} from '@/lib/campaignStorage'
+} from '@/lib/storage/campaignStorage'
 
 /**
  * Derived campaign info for UI display

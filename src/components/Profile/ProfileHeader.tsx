@@ -1,10 +1,10 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
-import type { UserProfile } from '@/lib/profileStorage'
-import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
-import { getOfficerTitleForUser } from '@/lib/electionStorage'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { UserProfile } from '@/lib/storage/profileStorage'
+import { getRoleLabel, getTrustLabel, getActivityStatus, canAccessTools, getCurrentProfile } from '@/lib/storage/profileStorage'
+import { getOfficerTitleForUser } from '@/lib/storage/electionStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import { CheckBadgeIcon } from '@heroicons/react/24/solid'
 
 interface ProfileHeaderProps {

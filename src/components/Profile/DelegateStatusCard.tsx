@@ -6,8 +6,8 @@ import {
   getCurrentDelegateProfile,
   getDelegateStats,
   type DelegateProfile,
-} from '@/lib/delegateStorage'
-import { getDelegateThresholds } from '@/lib/adminSettingsStorage'
+} from '@/lib/storage/delegateStorage'
+import { getDelegateThresholds } from '@/lib/storage/adminSettingsStorage'
 
 interface DelegateStatusCardProps {
   profileId: string

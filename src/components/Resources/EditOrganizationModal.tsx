@@ -12,7 +12,7 @@ import {
   type OrganizationContact,
   type ExternalResourceCategory,
   type OrganizationCategory,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 
 interface EditOrganizationModalProps {
   isOpen: boolean

@@ -12,8 +12,8 @@ import {
   type ExternalOrganization,
   type ExternalResourceCategory,
   type CustomCategory,
-} from '@/lib/organizationStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/organizationStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { AddOrganizationModal } from './AddOrganizationModal'
 import { EditOrganizationModal } from './EditOrganizationModal'

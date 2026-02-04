@@ -2,11 +2,11 @@
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { LinkedPropertyGroup, generateBlocName, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
-import { getGroupEvents, BuildingEvent, formatEventDateTime } from '@/lib/eventStorage'
-import { createProposal, getActiveProposals, voteOnProposal, getUserVote, VOTE_THRESHOLDS, canVoteOnGovernance, GovernanceProposal } from '@/lib/governanceStorage'
-import { getCurrentProfile, isAdmin } from '@/lib/profileStorage'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { LinkedPropertyGroup, generateBlocName, getLinkedGroups } from '@/lib/storage/linkedPropertiesStorage'
+import { getGroupEvents, BuildingEvent, formatEventDateTime } from '@/lib/storage/eventStorage'
+import { createProposal, getActiveProposals, voteOnProposal, getUserVote, VOTE_THRESHOLDS, canVoteOnGovernance, GovernanceProposal } from '@/lib/storage/governanceStorage'
+import { getCurrentProfile, isAdmin } from '@/lib/storage/profileStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 interface BlocDetailViewProps {
   group: LinkedPropertyGroup

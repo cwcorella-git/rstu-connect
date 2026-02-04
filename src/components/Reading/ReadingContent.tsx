@@ -1,15 +1,15 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('Reading')
 
 import { useState, useEffect, useRef } from 'react'
 import ReactMarkdown from 'react-markdown'
 import { ReadingHeader } from './ReadingHeader'
-import { saveReadingProgress, getDocumentProgress } from '@/lib/readingStorage'
-import { getDocumentEdit } from '@/lib/adminStorage'
-import { trackActivity } from '@/lib/profileStorage'
+import { saveReadingProgress, getDocumentProgress } from '@/lib/storage/readingStorage'
+import { getDocumentEdit } from '@/lib/storage/adminStorage'
+import { trackActivity } from '@/lib/storage/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
-import type { ReadingDocument } from '@/lib/getReadingData'
+import type { ReadingDocument } from '@/lib/data/getReadingData'
 
 // Strip YAML frontmatter from markdown content
 function stripFrontmatter(content: string): string {

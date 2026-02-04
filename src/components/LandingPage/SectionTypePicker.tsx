@@ -1,6 +1,6 @@
 'use client'
 
-import { SECTION_CATEGORIES } from '@/lib/landingPageStorage'
+import { SECTION_CATEGORIES } from '@/lib/storage/landingPageStorage'
 
 interface SectionTypePickerProps {
   onSelect: (type: string) => void

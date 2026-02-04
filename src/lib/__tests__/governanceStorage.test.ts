@@ -43,7 +43,7 @@ import {
   cleanupOldProposals,
   type GovernanceProposal,
   type GovernanceProposalType,
-} from '../governanceStorage'
+} from '../storage/governanceStorage'
 
 // Mock dependencies
 jest.mock('../profileStorage', () => ({
@@ -105,10 +105,10 @@ jest.mock('../logger', () => ({
   })),
 }))
 
-import { getCurrentProfile } from '../profileStorage'
-import { getLinkedGroups, getGroupForApn } from '../linkedPropertiesStorage'
-import { canVoteOnAppGovernance, getVotingWeight, getDelegateProfile } from '../delegateStorage'
-import { tryAction } from '../rateLimit'
+import { getCurrentProfile } from '../storage/profileStorage'
+import { getLinkedGroups, getGroupForApn } from '../storage/linkedPropertiesStorage'
+import { canVoteOnAppGovernance, getVotingWeight, getDelegateProfile } from '../storage/delegateStorage'
+import { tryAction } from '../utils/rateLimit'
 
 const mockGetCurrentProfile = getCurrentProfile as jest.Mock
 const mockGetLinkedGroups = getLinkedGroups as jest.Mock

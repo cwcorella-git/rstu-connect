@@ -1,6 +1,6 @@
 'use client'
 
-import type { StrikeReadiness } from '@/lib/strikeStorage'
+import type { StrikeReadiness } from '@/lib/storage/strikeStorage'
 
 interface StrikeReadinessGaugeProps {
   readiness: StrikeReadiness

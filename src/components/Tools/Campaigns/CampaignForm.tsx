@@ -1,9 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { createCampaign, type CampaignStage } from '@/lib/campaignStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { createCampaign, type CampaignStage } from '@/lib/storage/campaignStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 
 interface CampaignFormProps {
   buildings: EnhancedBuilding[]

@@ -6,7 +6,7 @@ import { useLanguage } from '@/contexts/LanguageContext'
 import {
   deleteExternalOrganization,
   type ExternalOrganization,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 
 interface DeleteOrganizationDialogProps {
   isOpen: boolean

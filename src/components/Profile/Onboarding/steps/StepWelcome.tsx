@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { validateInviteCodeAsync } from '@/lib/profileStorage';
+import { validateInviteCodeAsync } from '@/lib/storage/profileStorage';
 import { sanitizeInviteCode, getInviteCodeFromUrl } from '../utils';
 import type { OnboardingFormData } from '../types';
 

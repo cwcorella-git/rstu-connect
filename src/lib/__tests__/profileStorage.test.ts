@@ -28,7 +28,7 @@ import {
   type UserProfile,
   type UserRole,
   type TrustLevel,
-} from '../profileStorage'
+} from '../storage/profileStorage'
 
 // Mock crypto for generateInviteCode
 const mockCrypto = {

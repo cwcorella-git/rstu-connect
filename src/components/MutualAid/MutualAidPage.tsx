@@ -2,10 +2,10 @@
 
 import { useState, useEffect, useMemo } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
-import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/mutualAidStorage'
-import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getCurrentProfile, UserProfile } from '@/lib/storage/profileStorage'
+import { MutualAidPost, ResourceItem, MutualAidCategory, CATEGORY_LABELS, getMutualAidPosts, getResourceItems, createPost, ResourceCategory, RESOURCE_LABELS, createResourceItem, checkOutResource, returnResource } from '@/lib/storage/mutualAidStorage'
+import { LinkedPropertyGroup, getLinkedGroups } from '@/lib/storage/linkedPropertiesStorage'
 import { SkillsTab } from './SkillsTab'
 
 type ViewMode = 'needs' | 'offers' | 'skills' | 'library'

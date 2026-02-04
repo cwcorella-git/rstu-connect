@@ -8,7 +8,7 @@ import {
   type ExternalOrganization,
   type OrganizationContact,
   type OrganizationCategory,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 
 interface AddOrganizationModalProps {
   isOpen: boolean

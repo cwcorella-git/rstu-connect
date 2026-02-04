@@ -1,7 +1,7 @@
 'use client'
 
 import { createContext, useContext, useState, useEffect, useCallback, ReactNode } from 'react'
-import { safeGetJson, safeSetItem } from '@/lib/safeStorage'
+import { safeGetJson, safeSetItem } from '@/lib/utils/safeStorage'
 
 // ============================================================================
 // Types

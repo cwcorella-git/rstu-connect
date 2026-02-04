@@ -11,8 +11,8 @@ import {
   type Circle,
   type CircleCategory,
   CIRCLE_CATEGORIES,
-} from '@/lib/circleStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/circleStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { CircleCard } from './CircleCard'
 import { CreateCircleModal } from './CreateCircleModal'
 import { CircleDetailView } from './CircleDetailView'

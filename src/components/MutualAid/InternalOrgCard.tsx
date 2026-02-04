@@ -1,8 +1,8 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
-import { type InternalOrganization, COLLECTIVE_CATEGORY_LABELS } from '@/lib/organizationStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { type InternalOrganization, COLLECTIVE_CATEGORY_LABELS } from '@/lib/storage/organizationStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 
 interface InternalOrgCardProps {
   organization: InternalOrganization

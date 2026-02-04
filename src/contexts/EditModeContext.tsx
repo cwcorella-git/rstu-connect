@@ -1,9 +1,9 @@
 'use client'
 
 import { createContext, useContext, useState, useEffect, ReactNode, useCallback } from 'react'
-import { isAdmin } from '@/lib/profileStorage'
+import { isAdmin } from '@/lib/storage/profileStorage'
 import { useLanguage } from './LanguageContext'
-import { isGitHubConfigured, setStoredToken, clearStoredToken, validateToken } from '@/lib/githubService'
+import { isGitHubConfigured, setStoredToken, clearStoredToken, validateToken } from '@/lib/services/githubService'
 
 export type SaveStatus = 'idle' | 'saving' | 'success' | 'error'
 

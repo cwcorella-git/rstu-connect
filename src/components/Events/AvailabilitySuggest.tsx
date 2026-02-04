@@ -1,7 +1,7 @@
 'use client'
 
 import { useMemo } from 'react';
-import { suggestMeetingTimes, formatTimeSlot, TimeSlot, getAggregatedAvailability } from '@/lib/availabilityUtils';
+import { suggestMeetingTimes, formatTimeSlot, TimeSlot, getAggregatedAvailability } from '@/lib/data/availabilityUtils';
 
 interface AvailabilitySuggestProps {
   buildingId: string;

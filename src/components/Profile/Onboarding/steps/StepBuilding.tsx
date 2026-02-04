@@ -1,10 +1,10 @@
 'use client';
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('Onboarding')
 
 import { useState, useEffect, useRef } from 'react';
-import type { EnhancedBuilding } from '@/lib/getBuildingsData';
-import { searchProperties, USE_SUPABASE } from '@/lib/supabase';
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData';
+import { searchProperties, USE_SUPABASE } from '@/lib/services/supabase';
 import type { OnboardingFormData } from '../types';
 
 interface StepBuildingProps {

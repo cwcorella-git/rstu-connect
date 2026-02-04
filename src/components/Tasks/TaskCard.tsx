@@ -11,7 +11,7 @@ import {
   getPriorityColor,
   TASK_TYPES,
   TASK_STATUSES,
-} from '@/lib/taskStorage'
+} from '@/lib/storage/taskStorage'
 
 interface TaskCardProps {
   task: Task

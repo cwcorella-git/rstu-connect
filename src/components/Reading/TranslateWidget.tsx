@@ -1,5 +1,5 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('Translate')
 
 import { useEffect, useState } from 'react'

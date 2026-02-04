@@ -1,9 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import { getSocket } from '@/lib/socketio'
+import { getSocket } from '@/lib/services/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { Election, Nomination } from '@/lib/electionStorage'
+import { Election, Nomination } from '@/lib/storage/electionStorage'
 
 interface BallotViewProps {
   election: Election

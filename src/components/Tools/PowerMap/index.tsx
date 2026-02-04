@@ -1,8 +1,8 @@
 'use client'
 
 import { useState, useMemo, useEffect } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getAllLandlords, type LandlordProfile } from '@/lib/landlordProfileStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getAllLandlords, type LandlordProfile } from '@/lib/storage/landlordProfileStorage'
 import { LandlordList } from './LandlordList'
 import { LandlordDetail } from './LandlordDetail'
 

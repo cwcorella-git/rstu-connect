@@ -10,8 +10,8 @@ import {
   getCurrentProfile,
   banProfile,
   unbanProfile,
-} from '@/lib/profileStorage'
-import { type SyncedProfile } from '@/lib/profileSync'
+} from '@/lib/storage/profileStorage'
+import { type SyncedProfile } from '@/lib/storage/profileSync'
 
 interface UserCardProps {
   profile: SyncedProfile
@@ -115,7 +115,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
     setIsDeleting(true)
     try {
       // Import deleteProfileAsync at top of file to avoid circular dependency
-      const { deleteProfileAsync } = await import('@/lib/profileStorage')
+      const { deleteProfileAsync } = await import('@/lib/storage/profileStorage')
       const success = await deleteProfileAsync(profile.id)
       if (success) {
         onDeleteSuccess?.()

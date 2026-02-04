@@ -2,7 +2,7 @@
 
 import { useState, useEffect, FormEvent } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getCurrentProfile, updateProfile, trackActivity } from '@/lib/profileStorage'
+import { getCurrentProfile, updateProfile, trackActivity } from '@/lib/storage/profileStorage'
 
 interface MessageInputProps {
   onSendMessage: (text: string, username: string) => void

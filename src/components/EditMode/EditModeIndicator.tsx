@@ -3,7 +3,7 @@
 import { useState, useEffect, KeyboardEvent } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
 import { useTab } from '@/contexts/TabContext'
-import { isAdmin as checkIsAdmin } from '@/lib/profileStorage'
+import { isAdmin as checkIsAdmin } from '@/lib/storage/profileStorage'
 
 /**
  * EditModeIndicator - Shows a status bar when edit mode is active

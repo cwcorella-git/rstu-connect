@@ -11,11 +11,11 @@ import {
   getDelegateWeightPercentage,
   getAdminRecallThreshold,
   hasAdminRecallPassed,
-} from '../delegateStorage'
-import * as profileStorage from '../profileStorage'
-import * as linkedPropertiesStorage from '../linkedPropertiesStorage'
-import * as governanceStorage from '../governanceStorage'
-import * as adminSettingsStorage from '../adminSettingsStorage'
+} from '../storage/delegateStorage'
+import * as profileStorage from '../storage/profileStorage'
+import * as linkedPropertiesStorage from '../storage/linkedPropertiesStorage'
+import * as governanceStorage from '../storage/governanceStorage'
+import * as adminSettingsStorage from '../storage/adminSettingsStorage'
 
 // Mock the storage modules
 jest.mock('../profileStorage')

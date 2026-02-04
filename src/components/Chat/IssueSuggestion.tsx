@@ -2,19 +2,19 @@
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { COMPLAINT_CATEGORIES } from '@/lib/canvassStorage'
+import { COMPLAINT_CATEGORIES } from '@/lib/storage/canvassStorage'
 import {
   openRenoCodeEnforcementForm,
   type CodeEnforcementComplaintData,
-} from '@/lib/codeEnforcementIntegration'
+} from '@/lib/services/codeEnforcementIntegration'
 import {
   openLegalAidIntakeForm,
   NORTHERN_NEVADA_LEGAL_AID,
   doesIssueQualifyForLegalAid,
   doesIssueSuggestUrgentLegalAction,
   type LegalAidReferralData,
-} from '@/lib/legalAidReferral'
-import { downloadHabitabilityNoticePDF, getHabitabilityNoticeFilename, type HabitabilityNoticeData } from '@/lib/strikeNoticePDF'
+} from '@/lib/data/legalAidReferral'
+import { downloadHabitabilityNoticePDF, getHabitabilityNoticeFilename, type HabitabilityNoticeData } from '@/lib/pdf/strikeNoticePDF'
 
 interface IssueSuggestionProps {
   buildingAddress: string

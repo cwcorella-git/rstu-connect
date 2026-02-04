@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { isAdmin, clearProfile } from '@/lib/profileStorage'
+import { isAdmin, clearProfile } from '@/lib/storage/profileStorage'
 import { useRouter } from 'next/navigation'
 
 interface UserDropdownProps {

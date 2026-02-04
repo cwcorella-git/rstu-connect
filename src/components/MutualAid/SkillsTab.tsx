@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useMemo } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getCurrentProfile, UserProfile } from '@/lib/profileStorage'
+import { getCurrentProfile, UserProfile } from '@/lib/storage/profileStorage'
 import {
   SkillProfile,
   SkillCategory,
@@ -12,7 +12,7 @@ import {
   getSkillProfile,
   saveSkillProfile,
   deleteSkillProfile,
-} from '@/lib/mutualAidStorage'
+} from '@/lib/storage/mutualAidStorage'
 
 const SKILL_CATEGORIES = Object.keys(SKILL_LABELS) as SkillCategory[]
 

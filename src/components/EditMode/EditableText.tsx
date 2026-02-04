@@ -3,8 +3,8 @@
 import { useState, useRef, useCallback, useEffect, MouseEvent, TouchEvent, createElement, ReactNode, CSSProperties } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getElementStyle, setElementStyle, clearElementStyle, type ElementStyleOverride } from '@/lib/elementStyleStorage'
-import { updateTranslation } from '@/lib/githubService'
+import { getElementStyle, setElementStyle, clearElementStyle, type ElementStyleOverride } from '@/lib/storage/elementStyleStorage'
+import { updateTranslation } from '@/lib/services/githubService'
 
 type ElementType = 'span' | 'p' | 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'div' | 'li'
 

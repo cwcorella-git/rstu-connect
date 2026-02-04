@@ -1,16 +1,16 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('MutualAid')
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import {
   type InternalCollectiveCategory,
   COLLECTIVE_CATEGORY_LABELS,
   createInternalOrganization,
-} from '@/lib/organizationStorage'
-import { createProposal } from '@/lib/governanceStorage'
+} from '@/lib/storage/organizationStorage'
+import { createProposal } from '@/lib/storage/governanceStorage'
 
 interface FormCollectiveModalProps {
   isOpen: boolean

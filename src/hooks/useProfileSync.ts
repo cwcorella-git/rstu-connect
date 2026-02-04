@@ -1,14 +1,14 @@
 'use client'
 
 import { useState, useEffect, useCallback } from 'react'
-import { getSocket } from '@/lib/socketio'
+import { getSocket } from '@/lib/services/socketio'
 import {
   getCurrentProfile,
   needsSync,
   markProfilePendingSync,
   getDeviceId,
   type UserProfile,
-} from '@/lib/profileStorage'
+} from '@/lib/storage/profileStorage'
 import {
   initSync,
   getSyncState,
@@ -17,7 +17,7 @@ import {
   initUserListEvents,
   onRoleChanged,
   type SyncState,
-} from '@/lib/profileSync'
+} from '@/lib/storage/profileSync'
 
 interface UseProfileSyncReturn {
   profile: UserProfile | null

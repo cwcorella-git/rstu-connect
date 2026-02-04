@@ -1,8 +1,8 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
-import { LinkedPropertyGroup, generateBlocName } from '@/lib/linkedPropertiesStorage'
-import { getGroupEvents } from '@/lib/eventStorage'
+import { LinkedPropertyGroup, generateBlocName } from '@/lib/storage/linkedPropertiesStorage'
+import { getGroupEvents } from '@/lib/storage/eventStorage'
 
 interface BlocCardProps {
   group: LinkedPropertyGroup

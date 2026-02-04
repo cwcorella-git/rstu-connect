@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { getSocket } from '@/lib/socketio'
+import { getSocket } from '@/lib/services/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
 import {
   Election,
@@ -10,7 +10,7 @@ import {
   formatElectionDate,
   getElectionPhase,
   assignElectionWinners,
-} from '@/lib/electionStorage'
+} from '@/lib/storage/electionStorage'
 
 interface ElectionAdminProps {
   profileId: string

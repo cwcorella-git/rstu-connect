@@ -8,9 +8,9 @@ import {
   getLandlordAlertsForBuilding,
   dismissLandlordAlert,
   getLandlordPortfolioSize,
-} from '@/lib/landlordAlertStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+} from '@/lib/storage/landlordAlertStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 interface LandlordAlertBannerProps {

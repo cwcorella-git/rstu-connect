@@ -11,8 +11,8 @@ import {
   isEventSoon,
   isEventVerySoon,
   isRecurringEvent,
-} from '@/lib/eventStorage';
-import { getCurrentProfile } from '@/lib/profileStorage';
+} from '@/lib/storage/eventStorage';
+import { getCurrentProfile } from '@/lib/storage/profileStorage';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { EventTypeIcon, getEventTypeColor, getEventTypeBgColor } from './EventTypeIcon';
 

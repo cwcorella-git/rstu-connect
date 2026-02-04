@@ -7,8 +7,8 @@ import {
   TrashIcon
 } from '@heroicons/react/24/outline'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getReadingState } from '@/lib/readingStorage'
-import type { ReadingDocument } from '@/lib/getReadingData'
+import { getReadingState } from '@/lib/storage/readingStorage'
+import type { ReadingDocument } from '@/lib/data/getReadingData'
 
 interface ReadingCardProps {
   document: ReadingDocument

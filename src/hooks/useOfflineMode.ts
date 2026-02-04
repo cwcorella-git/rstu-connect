@@ -6,8 +6,8 @@
  */
 
 import { useState, useEffect, useCallback } from 'react'
-import { isOnline, subscribeToOnlineState, OfflineError } from '../lib/authService'
-import { USE_SUPABASE } from '../lib/supabase'
+import { isOnline, subscribeToOnlineState, OfflineError } from '../lib/services/authService'
+import { USE_SUPABASE } from '../lib/services/supabase'
 
 export interface OfflineModeState {
   /** Whether the browser is connected to the internet */

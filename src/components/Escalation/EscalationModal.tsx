@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useCallback } from 'react'
-import { type EscalationCase, getCaseById } from '@/lib/escalationStorage'
+import { type EscalationCase, getCaseById } from '@/lib/storage/escalationStorage'
 import { EscalationTracker } from './EscalationTracker'
 import { EscalationDetail } from './EscalationDetail'
 

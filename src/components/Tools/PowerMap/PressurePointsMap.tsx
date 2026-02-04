@@ -1,9 +1,9 @@
 'use client'
 
 import React, { useMemo, useState } from 'react'
-import type { LandlordProfile, LandlordProperty } from '@/lib/landlordProfileStorage'
-import { getBuildingOrganizing, getStatusInfo, type OrganizingStatus } from '@/lib/buildingOrganizingStorage'
-import { getHabitabilityScore } from '@/lib/canvassStorage'
+import type { LandlordProfile, LandlordProperty } from '@/lib/storage/landlordProfileStorage'
+import { getBuildingOrganizing, getStatusInfo, type OrganizingStatus } from '@/lib/storage/buildingOrganizingStorage'
+import { getHabitabilityScore } from '@/lib/storage/canvassStorage'
 import { CampaignCreationModal } from './CampaignCreationModal'
 
 interface PressurePoint {

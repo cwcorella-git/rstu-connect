@@ -2,10 +2,10 @@
 
 import { useMemo } from 'react'
 import React from 'react'
-import type { UserProfile } from '@/lib/profileStorage'
-import { canAccessTools, getCurrentProfile } from '@/lib/profileStorage'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getHabitabilityScore, type HabitabilityScore, getBuildingCanvass, getIssueTimelines, getBuildingHabitabilityQuotes, HABITABILITY_ISSUES } from '@/lib/canvassStorage'
+import type { UserProfile } from '@/lib/storage/profileStorage'
+import { canAccessTools, getCurrentProfile } from '@/lib/storage/profileStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getHabitabilityScore, type HabitabilityScore, getBuildingCanvass, getIssueTimelines, getBuildingHabitabilityQuotes, HABITABILITY_ISSUES } from '@/lib/storage/canvassStorage'
 import { useTab } from '@/contexts/TabContext'
 
 interface HabitabilityReportProps {

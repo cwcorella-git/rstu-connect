@@ -1,5 +1,5 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('UserList')
 
 import { useState, useEffect, useCallback, useMemo } from 'react'
@@ -10,13 +10,13 @@ import {
   getActivityStatus,
   type UserRole,
   type UserProfile,
-} from '@/lib/profileStorage'
+} from '@/lib/storage/profileStorage'
 import {
   getAllProfiles,
   updateProfileRole,
   USE_SUPABASE,
   type DbProfile,
-} from '@/lib/supabase'
+} from '@/lib/services/supabase'
 
 // Convert DbProfile to SyncedProfile format
 export interface SyncedProfile extends UserProfile {

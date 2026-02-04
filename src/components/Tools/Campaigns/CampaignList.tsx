@@ -1,14 +1,14 @@
 'use client'
 
 import { useState, useMemo } from 'react'
-import type { Campaign } from '@/lib/campaignStorage'
+import type { Campaign } from '@/lib/storage/campaignStorage'
 import {
   getStageLabel,
   getStageColor,
   getOutcomeColor,
   getCampaignProgress,
   formatCampaignDate,
-} from '@/lib/campaignStorage'
+} from '@/lib/storage/campaignStorage'
 
 interface CampaignListProps {
   campaigns: Campaign[]

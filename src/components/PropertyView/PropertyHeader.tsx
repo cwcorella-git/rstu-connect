@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react';
-import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { useOrganizingProgress, type RegisteredMember } from '@/hooks/useOrganizingProgress';
 import { UserGroupIcon } from '@heroicons/react/24/outline';

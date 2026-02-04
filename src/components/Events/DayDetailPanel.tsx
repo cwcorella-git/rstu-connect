@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react';
-import { BuildingEvent } from '@/lib/eventStorage';
+import { BuildingEvent } from '@/lib/storage/eventStorage';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { EventCard } from './EventCard';
 import { ProposedEventCard } from './ProposedEventCard';

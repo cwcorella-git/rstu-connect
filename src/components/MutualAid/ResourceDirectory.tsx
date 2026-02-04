@@ -2,12 +2,12 @@
 
 import { useState, useMemo, useDeferredValue } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import {
   type ExternalOrganization,
   type ExternalResourceCategory,
   EXTERNAL_CATEGORY_LABELS,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 
 interface ResourceDirectoryProps {
   organizations: ExternalOrganization[]

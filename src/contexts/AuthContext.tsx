@@ -1,10 +1,10 @@
 'use client'
 
 import { createContext, useContext, useState, useEffect, ReactNode, useMemo, useCallback } from 'react'
-import { getCurrentProfile, canAccessTools, canAccessOrganize, UserProfile } from '@/lib/profileStorage'
-import { checkAdminAuth } from '@/lib/adminStorage'
-import { onAuthStateChange, getSession, getProfileByAuthUser } from '@/lib/supabaseAuth'
-import { supabase } from '@/lib/supabase'
+import { getCurrentProfile, canAccessTools, canAccessOrganize, UserProfile } from '@/lib/storage/profileStorage'
+import { checkAdminAuth } from '@/lib/storage/adminStorage'
+import { onAuthStateChange, getSession, getProfileByAuthUser } from '@/lib/services/supabaseAuth'
+import { supabase } from '@/lib/services/supabase'
 import type { User, Session } from '@supabase/supabase-js'
 
 interface AuthContextType {

@@ -1,11 +1,11 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('CampaignPanel')
 
 import { useState, useEffect, useMemo } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { useBuildingCampaign } from '@/hooks/useBuildingCampaign'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import {
   CAMPAIGN_STAGES,
   CAMPAIGN_OUTCOMES,
@@ -14,7 +14,7 @@ import {
   type Campaign,
   type CampaignDemand,
   type CampaignStage,
-} from '@/lib/campaignStorage'
+} from '@/lib/storage/campaignStorage'
 
 interface CampaignPanelContentProps {
   chatSlug: string

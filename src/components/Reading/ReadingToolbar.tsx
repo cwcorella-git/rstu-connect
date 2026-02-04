@@ -1,8 +1,8 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { toggleFavorite, getReadingState } from '@/lib/readingStorage'
-import type { ReadingDocument } from '@/lib/getReadingData'
+import { toggleFavorite, getReadingState } from '@/lib/storage/readingStorage'
+import type { ReadingDocument } from '@/lib/data/getReadingData'
 
 interface ReadingToolbarProps {
   document: ReadingDocument

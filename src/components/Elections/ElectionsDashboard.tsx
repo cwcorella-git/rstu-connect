@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect, useCallback } from 'react'
-import { getSocket } from '@/lib/socketio'
+import { getSocket } from '@/lib/services/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
 import {
   Election,
@@ -11,7 +11,7 @@ import {
   formatElectionDate,
   getTimeRemaining,
   getOfficerPositions,
-} from '@/lib/electionStorage'
+} from '@/lib/storage/electionStorage'
 import { NominationForm } from './NominationForm'
 import { RankedChoiceVoting } from './RankedChoiceVoting'
 import { ResultsDisplay } from './ResultsDisplay'

@@ -18,8 +18,8 @@ import {
   type IssueCategory,
   type IssueSeverity,
   createCase,
-} from '@/lib/escalationStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/escalationStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 
 interface EscalationFormProps {
   buildingId: string

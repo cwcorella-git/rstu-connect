@@ -15,8 +15,8 @@ import {
   addPointPerson,
   removePointPerson,
   regenerateInviteCode,
-} from '@/lib/organizationStorage'
-import { getCurrentProfile, getProfileById, type UserProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/organizationStorage'
+import { getCurrentProfile, getProfileById, type UserProfile } from '@/lib/storage/profileStorage'
 import {
   getActiveProposals,
   createProposal,
@@ -24,8 +24,8 @@ import {
   getUserVote,
   VOTE_THRESHOLDS,
   type GovernanceProposal,
-} from '@/lib/governanceStorage'
-import { getGroupEvents, type BuildingEvent, formatEventDateTime } from '@/lib/eventStorage'
+} from '@/lib/storage/governanceStorage'
+import { getGroupEvents, type BuildingEvent, formatEventDateTime } from '@/lib/storage/eventStorage'
 
 interface InternalOrgDetailViewProps {
   organization: InternalOrganization

@@ -1,10 +1,10 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { toggleFavorite, getReadingState } from '@/lib/readingStorage'
-import { isAdmin } from '@/lib/profileStorage'
+import { toggleFavorite, getReadingState } from '@/lib/storage/readingStorage'
+import { isAdmin } from '@/lib/storage/profileStorage'
 import { useEditMode } from '@/contexts/EditModeContext'
-import type { ReadingDocument } from '@/lib/getReadingData'
+import type { ReadingDocument } from '@/lib/data/getReadingData'
 
 // Color palette for tags - consistent colors based on tag content
 const TAG_COLORS = [

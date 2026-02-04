@@ -1,8 +1,8 @@
 'use client'
 
 import React, { useState, useMemo } from 'react'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getHabitabilityScore } from '@/lib/canvassStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getHabitabilityScore } from '@/lib/storage/canvassStorage'
 
 interface HabitabilityBuildingData {
   building: EnhancedBuilding

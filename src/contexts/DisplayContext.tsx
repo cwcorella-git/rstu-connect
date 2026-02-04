@@ -18,7 +18,7 @@ import {
   toggleTabVisibility as toggleTab,
   resetDisplayPreferences,
   DEFAULT_PREFERENCES,
-} from '@/lib/displayStorage'
+} from '@/lib/storage/displayStorage'
 
 // ============================================================================
 // Types

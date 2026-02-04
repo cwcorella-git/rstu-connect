@@ -58,7 +58,7 @@ import {
   createCustomCategory,
   categoryNameExists,
   type CustomCategory,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 
 // Icon options for picker - expanded list
 // labelKey is the suffix for resources.icon.{labelKey}

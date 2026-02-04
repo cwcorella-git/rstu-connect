@@ -1,9 +1,9 @@
 'use client'
 
 import { useRef, useEffect } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import type { LandlordProfile, LandlordProperty } from '@/lib/landlordProfileStorage'
-import { formatCurrency, formatUnits } from '@/lib/landlordProfileStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import type { LandlordProfile, LandlordProperty } from '@/lib/storage/landlordProfileStorage'
+import { formatCurrency, formatUnits } from '@/lib/storage/landlordProfileStorage'
 
 interface LandlordPortfolioSlideoutProps {
   landlordProfile: LandlordProfile

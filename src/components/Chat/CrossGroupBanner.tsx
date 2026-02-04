@@ -7,8 +7,8 @@ import {
   isBannerDismissed,
   getProposalTypeLabel,
   type GovernanceProposal,
-} from '@/lib/governanceStorage'
-import { getLinkedGroups } from '@/lib/linkedPropertiesStorage'
+} from '@/lib/storage/governanceStorage'
+import { getLinkedGroups } from '@/lib/storage/linkedPropertiesStorage'
 
 interface CrossGroupBannerProps {
   groupId: string

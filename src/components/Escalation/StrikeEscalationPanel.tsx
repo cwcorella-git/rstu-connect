@@ -7,7 +7,7 @@ import {
   getActiveCases,
   getLandlordPattern,
   linkCaseToStrike,
-} from '@/lib/escalationStorage'
+} from '@/lib/storage/escalationStorage'
 import {
   type StrikePreparation,
   getStrikeForBuilding,
@@ -17,7 +17,7 @@ import {
   createStrikeProposal,
   syncStrikeVoteStatus,
   getStrikeVoteProgress,
-} from '@/lib/strikeStorage'
+} from '@/lib/storage/strikeStorage'
 
 interface StrikeEscalationPanelProps {
   buildingId: string

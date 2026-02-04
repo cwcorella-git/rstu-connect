@@ -15,7 +15,7 @@ import {
   VOTE_THRESHOLDS,
   type GovernanceProposal,
   type GovernanceProposalType,
-} from '@/lib/governanceStorage'
+} from '@/lib/storage/governanceStorage'
 
 interface AppGovernancePanelProps {
   profileId: string

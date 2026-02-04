@@ -13,8 +13,8 @@ import {
   CROSS_GROUP_TYPES,
   type GovernanceProposal,
   type GovernanceProposalType,
-} from '@/lib/governanceStorage'
-import { getLinkedGroups } from '@/lib/linkedPropertiesStorage'
+} from '@/lib/storage/governanceStorage'
+import { getLinkedGroups } from '@/lib/storage/linkedPropertiesStorage'
 
 interface GovernanceVoteCardProps {
   proposalId: string

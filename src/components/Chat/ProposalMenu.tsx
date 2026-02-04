@@ -1,8 +1,8 @@
 'use client'
 
 import { useState } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import type { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import type { LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
 
 export type ProposalCategory =
   | 'meetings'

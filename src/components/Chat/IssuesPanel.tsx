@@ -1,10 +1,10 @@
 'use client'
 
 import { useState, useEffect, useMemo } from 'react'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { getProfilesForBuilding } from '@/lib/canvassStorage'
-import { COMPLAINT_CATEGORIES } from '@/lib/canvassStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { getProfilesForBuilding } from '@/lib/storage/canvassStorage'
+import { COMPLAINT_CATEGORIES } from '@/lib/storage/canvassStorage'
 import {
   getBuildingComplaints,
   getBuildingDemands,
@@ -20,9 +20,9 @@ import {
   type BuildingComplaint,
   type BuildingDemand,
   type EscalationLevel,
-} from '@/lib/buildingOrganizingStorage'
-import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
-import type { UserProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/buildingOrganizingStorage'
+import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
+import type { UserProfile } from '@/lib/storage/profileStorage'
 import { CampaignPanelContent } from './CampaignPanelContent'
 import { useBuildingCampaign } from '@/hooks/useBuildingCampaign'
 import {
@@ -32,7 +32,7 @@ import {
   canFinalizeProposal,
   finalizeProposal,
   type GovernanceProposal,
-} from '@/lib/governanceStorage'
+} from '@/lib/storage/governanceStorage'
 
 type PanelTab = 'issues' | 'governance' | 'campaign'
 

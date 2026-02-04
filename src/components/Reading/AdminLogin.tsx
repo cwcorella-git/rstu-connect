@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { verifyAdminPassword } from '@/lib/adminStorage'
+import { verifyAdminPassword } from '@/lib/storage/adminStorage'
 
 interface AdminLoginProps {
   onSuccess: () => void

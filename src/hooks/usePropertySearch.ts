@@ -1,11 +1,11 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('PropertySearch')
 
 import { useState, useEffect, useRef, useMemo, useDeferredValue } from 'react'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/supabase'
-import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/searchIndex'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/services/supabase'
+import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/utils/searchIndex'
 
 // Compressed property format from all-properties.json
 interface CompressedProperty {

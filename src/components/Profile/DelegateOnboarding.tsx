@@ -5,8 +5,8 @@ import { useLanguage } from '@/contexts/LanguageContext'
 import {
   getCurrentDelegateProfile,
   type DelegateProfile,
-} from '@/lib/delegateStorage'
-import { getDelegateThresholds } from '@/lib/adminSettingsStorage'
+} from '@/lib/storage/delegateStorage'
+import { getDelegateThresholds } from '@/lib/storage/adminSettingsStorage'
 
 interface DelegateOnboardingProps {
   onNavigateToTools?: () => void

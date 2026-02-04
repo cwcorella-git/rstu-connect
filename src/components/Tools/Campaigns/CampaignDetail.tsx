@@ -1,8 +1,8 @@
 'use client'
 
 import { useState, useEffect, useCallback } from 'react'
-import type { Campaign, CampaignStage, CampaignOutcome } from '@/lib/campaignStorage'
-import { Task, getTasksByCampaign, deleteTask } from '@/lib/taskStorage'
+import type { Campaign, CampaignStage, CampaignOutcome } from '@/lib/storage/campaignStorage'
+import { Task, getTasksByCampaign, deleteTask } from '@/lib/storage/taskStorage'
 import { TaskCard } from '@/components/Tasks/TaskCard'
 import { TaskDetail } from '@/components/Tasks/TaskDetail'
 import { TaskForm } from '@/components/Tasks/TaskForm'
@@ -23,10 +23,10 @@ import {
   formatCampaignDate,
   CAMPAIGN_STAGES,
   CAMPAIGN_OUTCOMES,
-} from '@/lib/campaignStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/campaignStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 interface CampaignDetailProps {
   campaign: Campaign

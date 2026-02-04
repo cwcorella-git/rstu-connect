@@ -1,10 +1,10 @@
 'use client'
 
 import { useState } from 'react'
-import { LinkedPropertyGroup, generateBlocName } from '@/lib/linkedPropertiesStorage'
-import { createEvent, EventType, getEventTypeLabel, getEventTypeIcon } from '@/lib/eventStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { LinkedPropertyGroup, generateBlocName } from '@/lib/storage/linkedPropertiesStorage'
+import { createEvent, EventType, getEventTypeLabel, getEventTypeIcon } from '@/lib/storage/eventStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 interface BlocEventFormProps {
   group: LinkedPropertyGroup

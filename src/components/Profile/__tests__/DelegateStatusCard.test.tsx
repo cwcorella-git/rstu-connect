@@ -14,12 +14,12 @@ const mockGetCurrentDelegateProfile = jest.fn()
 const mockGetDelegateStats = jest.fn()
 const mockGetDelegateThresholds = jest.fn()
 
-jest.mock('@/lib/delegateStorage', () => ({
+jest.mock('@/lib/storage/delegateStorage', () => ({
   getCurrentDelegateProfile: () => mockGetCurrentDelegateProfile(),
   getDelegateStats: () => mockGetDelegateStats(),
 }))
 
-jest.mock('@/lib/adminSettingsStorage', () => ({
+jest.mock('@/lib/storage/adminSettingsStorage', () => ({
   getDelegateThresholds: () => mockGetDelegateThresholds(),
 }))
 

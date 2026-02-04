@@ -16,8 +16,8 @@ import {
   getDaysUntilCourt,
   type EvictionCase,
   type DefenseStrategy
-} from '@/lib/evictionDefenseStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/evictionDefenseStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { NevadaEvictionPlaybook } from './NevadaEvictionPlaybook'
 import { WitnessMobilizationPanel } from './WitnessMobilizationPanel'
 import { LegislationLink } from '@/components/Legislation'

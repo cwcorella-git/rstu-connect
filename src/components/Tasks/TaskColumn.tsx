@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { Task, TaskStatus, TASK_STATUSES } from '@/lib/taskStorage'
+import { Task, TaskStatus, TASK_STATUSES } from '@/lib/storage/taskStorage'
 import { TaskCard } from './TaskCard'
 
 interface TaskColumnProps {

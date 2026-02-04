@@ -1,11 +1,11 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('PropertyInfo')
 
-import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import React, { useState, useEffect, useMemo } from 'react';
-import { canAccessTools } from '@/lib/profileStorage';
-import { getHabitabilityScore, getEffectiveOrganizingPriority } from '@/lib/canvassStorage';
+import { canAccessTools } from '@/lib/storage/profileStorage';
+import { getHabitabilityScore, getEffectiveOrganizingPriority } from '@/lib/storage/canvassStorage';
 import { useTab } from '@/contexts/TabContext';
 import {
   getPropertyEvictionStats,
@@ -13,8 +13,8 @@ import {
   USE_SUPABASE,
   type PropertyEvictionStats,
   type DbLandlordScore,
-} from '@/lib/supabase';
-import { buildLandlordProfile } from '@/lib/landlordProfileStorage';
+} from '@/lib/services/supabase';
+import { buildLandlordProfile } from '@/lib/storage/landlordProfileStorage';
 import { LandlordPortfolioSlideout } from './LandlordPortfolioSlideout';
 import { useBuildingCampaign } from '@/hooks/useBuildingCampaign';
 import { Tooltip, SectionHeader, DataRow, DataSection } from './InfoComponents';

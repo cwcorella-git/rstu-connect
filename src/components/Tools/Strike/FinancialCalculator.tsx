@@ -1,10 +1,10 @@
 'use client'
 
 import { useMemo } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import type { StrikePreparation } from '@/lib/strikeStorage'
-import { getBuildingCanvass } from '@/lib/canvassStorage'
-import { updateFinancialData, updateTenantBudget } from '@/lib/strikeStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import type { StrikePreparation } from '@/lib/storage/strikeStorage'
+import { getBuildingCanvass } from '@/lib/storage/canvassStorage'
+import { updateFinancialData, updateTenantBudget } from '@/lib/storage/strikeStorage'
 
 interface FinancialCalculatorProps {
   strikePrep: StrikePreparation

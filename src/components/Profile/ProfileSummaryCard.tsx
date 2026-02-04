@@ -1,8 +1,8 @@
 'use client'
 
-import { UserProfile } from '@/lib/profileStorage'
-import { getOfficerTitleForUser } from '@/lib/electionStorage'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { UserProfile } from '@/lib/storage/profileStorage'
+import { getOfficerTitleForUser } from '@/lib/storage/electionStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 interface ProfileSummaryCardProps {
   profile: UserProfile | null

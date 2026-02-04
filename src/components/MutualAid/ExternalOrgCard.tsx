@@ -1,7 +1,7 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
-import { type ExternalOrganization, type ExternalResourceCategory, EXTERNAL_CATEGORY_LABELS } from '@/lib/organizationStorage'
+import { type ExternalOrganization, type ExternalResourceCategory, EXTERNAL_CATEGORY_LABELS } from '@/lib/storage/organizationStorage'
 
 interface ExternalOrgCardProps {
   organization: ExternalOrganization

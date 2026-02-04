@@ -5,8 +5,8 @@ import { useLanguage } from '@/contexts/LanguageContext'
 import { useUserList } from '@/hooks/useUserList'
 import { UserCard } from './UserCard'
 import { RoleChangeModal } from './RoleChangeModal'
-import { getCurrentProfile, type UserRole } from '@/lib/profileStorage'
-import { type SyncedProfile } from '@/lib/profileSync'
+import { getCurrentProfile, type UserRole } from '@/lib/storage/profileStorage'
+import { type SyncedProfile } from '@/lib/storage/profileSync'
 
 export function UserList() {
   const { t } = useLanguage()

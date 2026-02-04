@@ -1,6 +1,6 @@
 'use client'
 
-import { SectionDescriptor } from '@/lib/landingPageStorage'
+import { SectionDescriptor } from '@/lib/storage/landingPageStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { ColumnsSection } from './ColumnsSection'
 import { HeroSection } from './HeroSection'

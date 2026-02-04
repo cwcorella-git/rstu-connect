@@ -10,8 +10,8 @@ import {
   importAdminState,
   exportDocumentEdits,
   logoutAdmin
-} from '@/lib/adminStorage'
-import type { ReadingDocument } from '@/lib/getReadingData'
+} from '@/lib/storage/adminStorage'
+import type { ReadingDocument } from '@/lib/data/getReadingData'
 import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal'
 
 interface AdminPanelProps {

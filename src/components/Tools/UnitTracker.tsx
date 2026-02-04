@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import { DataNotesPanel } from './DataNotesPanel'
 import {
   getBuildingCanvass,
@@ -14,7 +14,7 @@ import {
   getStatusColor,
   type UnitRecord,
   type ContactStatus,
-} from '@/lib/canvassStorage'
+} from '@/lib/storage/canvassStorage'
 
 interface UnitTrackerProps {
   building: EnhancedBuilding

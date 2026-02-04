@@ -1,8 +1,8 @@
 import type { Metadata, Viewport } from 'next'
 import './globals.css'
-import { ClientLayout } from '@/components/ClientLayout'
-import { ServiceWorkerRegistration } from '@/components/ServiceWorkerRegistration'
-import { VersionInfo } from '@/components/VersionInfo'
+import { ClientLayout } from '@/components/layout/ClientLayout'
+import { ServiceWorkerRegistration } from '@/components/shared/ServiceWorkerRegistration'
+import { VersionInfo } from '@/components/shared/VersionInfo'
 
 export const metadata: Metadata = {
   title: 'Reno-Sparks Tenants Union',

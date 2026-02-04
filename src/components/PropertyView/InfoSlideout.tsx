@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useRef } from 'react';
-import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { PropertyInfoTab } from './PropertyInfoTab';
 
 interface InfoSlideoutProps {

@@ -10,7 +10,7 @@ import {
   canFinalizeProposal,
   finalizeProposal,
   type GovernanceProposal,
-} from '@/lib/governanceStorage'
+} from '@/lib/storage/governanceStorage'
 
 interface GovernancePanelProps {
   groupId: string

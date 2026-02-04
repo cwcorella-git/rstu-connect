@@ -1,16 +1,16 @@
 'use client'
 
 import { useMemo, useState } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import {
   getStrikePreparation,
   createStrikePreparation,
   calculateStrikeReadiness,
   type StrikePreparation,
-} from '@/lib/strikeStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { getHabitabilityScore } from '@/lib/canvassStorage'
-import { getGroupForApn } from '@/lib/linkedPropertiesStorage'
+} from '@/lib/storage/strikeStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { getHabitabilityScore } from '@/lib/storage/canvassStorage'
+import { getGroupForApn } from '@/lib/storage/linkedPropertiesStorage'
 import { RentStrikeVote } from '@/components/Chat/RentStrikeVote'
 import { LegalChecklistPanel } from './Strike/LegalChecklistPanel'
 import { ParticipationTracker } from './Strike/ParticipationTracker'

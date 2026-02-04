@@ -12,8 +12,8 @@ import {
   getStatusLabel,
   type UnitRecord,
   type ContactStatus,
-} from '@/lib/canvassStorage'
-import { buildProfileQRUrl, createInvite, canAccessTools } from '@/lib/profileStorage'
+} from '@/lib/storage/canvassStorage'
+import { buildProfileQRUrl, createInvite, canAccessTools } from '@/lib/storage/profileStorage'
 
 // Memoized Section component - MUST be defined outside the main component
 // to prevent re-creation on every render which causes input focus loss

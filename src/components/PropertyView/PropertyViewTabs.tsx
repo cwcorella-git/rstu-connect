@@ -2,13 +2,13 @@
 
 import { useState, useMemo, useCallback } from 'react';
 import dynamic from 'next/dynamic';
-import { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { PropertyHeader } from './PropertyHeader';
 import { PropertyTabBar, PropertyTab } from './PropertyTabBar';
 import { PropertyChatTab } from './PropertyChatTab';
 import { InfoSlideout } from './InfoSlideout';
 import { MapPlaceholder } from './MapPlaceholder';
-import { getGroupForApn } from '@/lib/linkedPropertiesStorage';
+import { getGroupForApn } from '@/lib/storage/linkedPropertiesStorage';
 
 // Lazy load map to reduce initial bundle size (~300KB)
 const PropertyMapTab = dynamic(

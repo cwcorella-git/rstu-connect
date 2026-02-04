@@ -1,9 +1,9 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { getSocket } from '@/lib/socketio'
+import { getSocket } from '@/lib/services/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { Election, ElectionResults, formatElectionDate } from '@/lib/electionStorage'
+import { Election, ElectionResults, formatElectionDate } from '@/lib/storage/electionStorage'
 
 interface ResultsDisplayProps {
   election: Election

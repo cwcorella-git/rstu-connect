@@ -1,8 +1,8 @@
 'use client'
 
 import React, { useMemo, useState } from 'react'
-import type { LandlordProfile } from '@/lib/landlordProfileStorage'
-import { getBuildingOrganizing } from '@/lib/buildingOrganizingStorage'
+import type { LandlordProfile } from '@/lib/storage/landlordProfileStorage'
+import { getBuildingOrganizing } from '@/lib/storage/buildingOrganizingStorage'
 
 interface MonthlyComplaintData {
   month: string  // "2024-11"

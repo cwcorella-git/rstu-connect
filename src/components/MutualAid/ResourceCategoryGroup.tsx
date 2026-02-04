@@ -2,7 +2,7 @@
 
 import { memo } from 'react'
 import { ChevronDownIcon } from '@heroicons/react/24/outline'
-import { type ExternalOrganization, type ExternalResourceCategory } from '@/lib/organizationStorage'
+import { type ExternalOrganization, type ExternalResourceCategory } from '@/lib/storage/organizationStorage'
 import { ExternalOrgCard } from './ExternalOrgCard'
 
 interface ResourceCategoryGroupProps {

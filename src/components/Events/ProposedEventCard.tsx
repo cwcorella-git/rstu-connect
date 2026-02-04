@@ -9,8 +9,8 @@ import {
   rejectProposedEvent,
   formatEventDateTime,
   PROPOSAL_EXPIRY_DAYS
-} from '@/lib/eventStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/eventStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 export function ProposedEventCard({

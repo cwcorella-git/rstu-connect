@@ -6,8 +6,8 @@ import {
   removeWitnessSignup,
   getDaysUntilCourt,
   type EvictionCase
-} from '@/lib/evictionDefenseStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/evictionDefenseStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 
 interface WitnessMobilizationPanelProps {
   evictionCase: EvictionCase

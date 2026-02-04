@@ -1,19 +1,19 @@
 'use client'
 
 import { useState, ReactNode } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import type { StrikePreparation } from '@/lib/strikeStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import type { StrikePreparation } from '@/lib/storage/strikeStorage'
 import { LegislationLink } from '@/components/Legislation'
 import {
   getHabitabilityScore,
   getBuildingCanvass,
-} from '@/lib/canvassStorage'
+} from '@/lib/storage/canvassStorage'
 import {
   updateLegalChecklist,
   addNoticeSent,
   setEscrowAccount,
   setLegalClinicConsultation,
-} from '@/lib/strikeStorage'
+} from '@/lib/storage/strikeStorage'
 import { TemplateLibrary } from './TemplateLibrary'
 
 interface LegalChecklistPanelProps {

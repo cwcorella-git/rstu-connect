@@ -5,9 +5,9 @@ import {
   getOrCreateDMThread,
   createGroupThread,
   type DirectMessageThread,
-} from '@/lib/directMessageStorage'
-import { getCurrentProfile, getProfile, type UserProfile } from '@/lib/profileStorage'
-import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
+} from '@/lib/storage/directMessageStorage'
+import { getCurrentProfile, getProfile, type UserProfile } from '@/lib/storage/profileStorage'
+import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
 
 interface NewMessageModalProps {
   onClose: () => void

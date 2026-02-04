@@ -7,8 +7,8 @@ import {
   type Circle,
   type CircleCategory,
   CIRCLE_CATEGORIES,
-} from '@/lib/circleStorage'
-import { SUGGESTED_INTERESTS, INTEREST_LABELS } from '@/lib/profileStorage'
+} from '@/lib/storage/circleStorage'
+import { SUGGESTED_INTERESTS, INTEREST_LABELS } from '@/lib/storage/profileStorage'
 
 interface CreateCircleModalProps {
   onClose: () => void

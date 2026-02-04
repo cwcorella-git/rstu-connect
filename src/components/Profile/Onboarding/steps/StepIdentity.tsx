@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef, useCallback } from 'react';
-import { isEmailAvailable } from '@/lib/profileStorage';
+import { isEmailAvailable } from '@/lib/storage/profileStorage';
 import { getFieldError } from '../utils';
 import type { OnboardingFormData, ValidateEmailResult } from '../types';
 

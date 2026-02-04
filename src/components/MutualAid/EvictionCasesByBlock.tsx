@@ -7,9 +7,9 @@ import {
   getCriticalCasesByBlock,
   getDaysUntilCourt,
   type EvictionCase
-} from '@/lib/evictionDefenseStorage'
-import { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
+} from '@/lib/storage/evictionDefenseStorage'
+import { LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 interface EvictionCasesByBlockProps {
   block: LinkedPropertyGroup

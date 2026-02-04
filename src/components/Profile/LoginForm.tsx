@@ -2,14 +2,14 @@
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { loginByEmailAsync, type UserProfile } from '@/lib/profileStorage'
+import { loginByEmailAsync, type UserProfile } from '@/lib/storage/profileStorage'
 import {
   signInWithEmail,
   signInWithGoogle,
   resetPassword,
   isSupabaseAuthAvailable,
   MigrationRequiredError,
-} from '@/lib/supabaseAuth'
+} from '@/lib/services/supabaseAuth'
 import { PasswordMigrationModal } from './PasswordMigrationModal'
 
 interface LoginFormProps {

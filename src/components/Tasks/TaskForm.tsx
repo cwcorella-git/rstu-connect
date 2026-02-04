@@ -8,9 +8,9 @@ import {
   createTask,
   TASK_PRIORITIES,
   TASK_TYPES,
-} from '@/lib/taskStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { getAllCampaigns, Campaign } from '@/lib/campaignStorage'
+} from '@/lib/storage/taskStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { getAllCampaigns, Campaign } from '@/lib/storage/campaignStorage'
 
 interface TaskFormProps {
   campaignId?: string

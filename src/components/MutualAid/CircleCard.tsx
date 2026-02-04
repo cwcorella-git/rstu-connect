@@ -9,8 +9,8 @@ import {
   joinCircle,
   leaveCircle,
   isCreator,
-} from '@/lib/circleStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/circleStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { useState } from 'react'
 
 interface CircleCardProps {

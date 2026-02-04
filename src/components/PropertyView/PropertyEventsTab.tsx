@@ -1,8 +1,8 @@
 'use client'
 
 import { useState, useMemo, useCallback } from 'react';
-import { EnhancedBuilding } from '@/lib/getBuildingsData';
-import { LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
+import { LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { EventCalendar } from '../Events/EventCalendar';
 import { EventCreator } from '../Events/EventCreator';
@@ -12,7 +12,7 @@ import {
   getPastEvents,
   BuildingEvent,
   deleteEvent,
-} from '@/lib/eventStorage';
+} from '@/lib/storage/eventStorage';
 
 interface PropertyEventsTabProps {
   building: EnhancedBuilding;

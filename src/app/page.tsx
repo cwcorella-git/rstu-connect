@@ -1,11 +1,11 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('App')
 
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
-import { EnhancedBuilding } from '@/lib/getBuildingsData';
-import { loadAllProperties } from '@/lib/loadAllProperties';
-import { BuildingList } from '@/components/BuildingList';
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
+import { loadAllProperties } from '@/lib/data/loadAllProperties';
+import { BuildingList } from '@/components/building/BuildingList';
 import { PropertyViewTabs } from '@/components/PropertyView';
 import { LandingPage } from '@/components/LandingPage/LandingPage';
 import { ReadingList } from '@/components/Reading/ReadingList';
@@ -28,16 +28,16 @@ import {
   toggleDocumentVisibilityAsync,
   deleteDocumentAsync,
   saveDocumentEditAsync
-} from '@/lib/adminStorage';
-import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/profileStorage';
-import { createLinkedGroup, generateGroupName, getLinkedGroups, validateBlocFormationRequirement } from '@/lib/linkedPropertiesStorage';
-import { createProposal } from '@/lib/governanceStorage';
-import { runStorageHealthCheck } from '@/lib/safeStorage';
+} from '@/lib/storage/adminStorage';
+import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/storage/profileStorage';
+import { createLinkedGroup, generateGroupName, getLinkedGroups, validateBlocFormationRequirement } from '@/lib/storage/linkedPropertiesStorage';
+import { createProposal } from '@/lib/storage/governanceStorage';
+import { runStorageHealthCheck } from '@/lib/utils/safeStorage';
 import { useTab } from '@/contexts/TabContext';
 import { useAuth } from '@/contexts/AuthContext';
 import { useDisplay, usePanelConfig } from '@/contexts/DisplayContext';
 import { useLanguage } from '@/contexts/LanguageContext';
-import type { ReadingDocument } from '@/lib/getReadingData';
+import type { ReadingDocument } from '@/lib/data/getReadingData';
 import readingManifest from '@/data/reading-manifest.json';
 import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
 

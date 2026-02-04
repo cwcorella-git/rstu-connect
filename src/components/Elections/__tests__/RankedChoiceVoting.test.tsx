@@ -1,10 +1,10 @@
 import { render, screen, fireEvent, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { RankedChoiceVoting } from '../RankedChoiceVoting'
-import type { Election, Nomination } from '@/lib/electionStorage'
+import type { Election, Nomination } from '@/lib/storage/electionStorage'
 
 // Mock dependencies
-jest.mock('@/lib/socketio', () => ({
+jest.mock('@/lib/services/socketio', () => ({
   getSocket: jest.fn(() => ({
     emit: jest.fn(),
   })),
@@ -31,7 +31,7 @@ const mockCastRankedVoteAsync = jest.fn()
 const mockHasRankedVotedForPosition = jest.fn()
 const mockGetUserRankedVote = jest.fn()
 
-jest.mock('@/lib/electionStorage', () => ({
+jest.mock('@/lib/storage/electionStorage', () => ({
   castRankedVoteAsync: (...args: unknown[]) => mockCastRankedVoteAsync(...args),
   hasRankedVotedForPosition: (...args: unknown[]) => mockHasRankedVotedForPosition(...args),
   getUserRankedVote: (...args: unknown[]) => mockGetUserRankedVote(...args),

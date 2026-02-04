@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useCallback } from 'react'
-import { getSocket } from '@/lib/socketio'
+import { getSocket } from '@/lib/services/socketio'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { useOfflineMode } from '@/hooks/useOfflineMode'
 import {
@@ -11,7 +11,7 @@ import {
   hasRankedVotedForPosition,
   getUserRankedVote,
   type RankedVote,
-} from '@/lib/electionStorage'
+} from '@/lib/storage/electionStorage'
 
 interface RankedChoiceVotingProps {
   election: Election

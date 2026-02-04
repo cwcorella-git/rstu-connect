@@ -1,8 +1,8 @@
 'use client';
 
 import { useEffect, useState, useCallback } from 'react';
-import { createProfileAsync, getCurrentProfile } from '@/lib/profileStorage';
-import type { EnhancedBuilding } from '@/lib/getBuildingsData';
+import { createProfileAsync, getCurrentProfile } from '@/lib/storage/profileStorage';
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
 import type { OnboardingFormData, OnboardingStep } from './types';
 import {

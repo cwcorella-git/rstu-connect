@@ -1,9 +1,9 @@
 'use client'
 
 import { useMemo } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getStrikePreparation, calculateStrikeReadiness, type StrikePreparation } from '@/lib/strikeStorage'
-import { canAccessTools } from '@/lib/profileStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getStrikePreparation, calculateStrikeReadiness, type StrikePreparation } from '@/lib/storage/strikeStorage'
+import { canAccessTools } from '@/lib/storage/profileStorage'
 
 interface StrikeCoordinationDashboardProps {
   buildings: EnhancedBuilding[]

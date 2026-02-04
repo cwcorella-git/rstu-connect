@@ -2,7 +2,7 @@
 
 import { useState, useCallback, useMemo } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
-import { COLUMN_LAYOUTS, createSection, type SectionDescriptor } from '@/lib/landingPageStorage'
+import { COLUMN_LAYOUTS, createSection, type SectionDescriptor } from '@/lib/storage/landingPageStorage'
 import { SectionRenderer } from './SectionRenderer'
 import { SectionTypePicker } from './SectionTypePicker'
 

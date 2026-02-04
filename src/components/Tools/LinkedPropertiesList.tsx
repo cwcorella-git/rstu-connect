@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getLinkedGroups, deleteLinkedGroup, updateLinkedGroup, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { getLinkedGroups, deleteLinkedGroup, updateLinkedGroup, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 interface LinkedPropertiesListProps {
   buildings: EnhancedBuilding[]

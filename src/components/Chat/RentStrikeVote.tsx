@@ -2,10 +2,10 @@
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
-import { createProposal, VOTE_THRESHOLDS } from '@/lib/governanceStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
+import { createProposal, VOTE_THRESHOLDS } from '@/lib/storage/governanceStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 
 interface RentStrikeVoteProps {
   building: EnhancedBuilding

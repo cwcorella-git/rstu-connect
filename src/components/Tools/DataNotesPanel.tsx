@@ -1,12 +1,12 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import {
   getBuildingDiscrepancies,
   updateBuildingDiscrepancies,
   initBuildingCanvass,
-} from '@/lib/canvassStorage'
+} from '@/lib/storage/canvassStorage'
 
 interface DataNotesPanelProps {
   building: EnhancedBuilding

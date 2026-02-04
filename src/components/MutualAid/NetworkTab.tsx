@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import {
   getExternalOrganizations,
   getPublicCollectives,
@@ -10,7 +10,7 @@ import {
   type ExternalOrganization,
   type InternalOrganization,
   getInternalOrganization,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 import { InternalOrgCard } from './InternalOrgCard'
 import { InternalOrgDetailView } from './InternalOrgDetailView'
 import { FormCollectiveModal } from './FormCollectiveModal'

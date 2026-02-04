@@ -58,7 +58,7 @@ import {
   updateCustomCategory,
   categoryNameExists,
   type CustomCategory,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 
 // Icon options for picker - same as AddCategoryModal
 // labelKey is the suffix for resources.icon.{labelKey}

@@ -1,11 +1,11 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('DirectMessages')
 
 import { useEffect, useState, useCallback, useRef } from 'react'
-import { getSocket } from '@/lib/socketio'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import type { DirectMessageThread, DirectMessage } from '@/lib/directMessageStorage'
+import { getSocket } from '@/lib/services/socketio'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import type { DirectMessageThread, DirectMessage } from '@/lib/storage/directMessageStorage'
 
 // Generate a cryptographically secure short ID
 function generateShortId(): string {

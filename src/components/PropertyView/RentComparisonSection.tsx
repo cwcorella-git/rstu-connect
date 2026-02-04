@@ -1,11 +1,11 @@
 'use client'
 
 import { useState, useMemo } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getCurrentProfile, updateProfile, calculateYoyRentIncrease, shouldAlertAboutRentIncrease } from '@/lib/profileStorage'
-import { getBuildingRentsByBedroom, getBuildingUnitSummary } from '@/lib/canvassStorage'
-import { generateRentFairnessReport, type MetricStatus, type RentFairnessReport } from '@/lib/rentFairnessCalculations'
-import { getBedroomLabel } from '@/lib/rentFairnessData'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getCurrentProfile, updateProfile, calculateYoyRentIncrease, shouldAlertAboutRentIncrease } from '@/lib/storage/profileStorage'
+import { getBuildingRentsByBedroom, getBuildingUnitSummary } from '@/lib/storage/canvassStorage'
+import { generateRentFairnessReport, type MetricStatus, type RentFairnessReport } from '@/lib/data/rentFairnessCalculations'
+import { getBedroomLabel } from '@/lib/data/rentFairnessData'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { DataSection, DataRow } from './InfoComponents'
 
@@ -116,7 +116,7 @@ export function RentComparisonSection({ building }: RentComparisonSectionProps) 
 
   const handleDisputeLetter = async () => {
     if (!localRent || !yoyIncrease) return
-    const { downloadRentDisputePDF } = await import('@/lib/rentDisputePDF')
+    const { downloadRentDisputePDF } = await import('@/lib/pdf/rentDisputePDF')
     downloadRentDisputePDF({
       tenantName: profile?.nickname || 'Tenant',
       propertyAddress: building.address,

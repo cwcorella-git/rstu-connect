@@ -1,18 +1,18 @@
 'use client'
 
 import { useState, ReactNode } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import type { StrikePreparation } from '@/lib/strikeStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import type { StrikePreparation } from '@/lib/storage/strikeStorage'
 import { LegislationLink } from '@/components/Legislation'
 import {
   getHabitabilityScore,
   getBuildingCanvass,
-} from '@/lib/canvassStorage'
+} from '@/lib/storage/canvassStorage'
 import {
   downloadStrikeNoticePDF,
   getNoticeFilename,
-} from '@/lib/strikeNoticePDF'
-import { addNoticeSent } from '@/lib/strikeStorage'
+} from '@/lib/pdf/strikeNoticePDF'
+import { addNoticeSent } from '@/lib/storage/strikeStorage'
 
 interface TemplateLibraryProps {
   strikePrep: StrikePreparation

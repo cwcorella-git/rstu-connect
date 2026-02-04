@@ -7,7 +7,7 @@ import {
   getDelegateStats,
   type DelegateProfile,
   type DelegateStats,
-} from '@/lib/delegateStorage'
+} from '@/lib/storage/delegateStorage'
 
 /**
  * Hook to get delegate status for current user

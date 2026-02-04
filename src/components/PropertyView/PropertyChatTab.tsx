@@ -18,12 +18,12 @@ import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
 import { EvictionCaseForm } from '@/components/MutualAid/EvictionCaseForm'
 import { EvictionCaseDetail } from '@/components/MutualAid/EvictionCaseDetail'
-import { getActiveCases } from '@/lib/escalationStorage'
-import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
-import { getActiveProposals } from '@/lib/governanceStorage'
+import { getActiveCases } from '@/lib/storage/escalationStorage'
+import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
+import { getActiveProposals } from '@/lib/storage/governanceStorage'
 import type { PropertyTab } from './PropertyTabBar'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
-import type { EvictionCase } from '@/lib/evictionDefenseStorage'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import type { EvictionCase } from '@/lib/storage/evictionDefenseStorage'
 
 interface PropertyChatTabProps {
   chatSlug: string;

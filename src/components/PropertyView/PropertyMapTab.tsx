@@ -1,12 +1,12 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('PropertyMap')
 
 import { useEffect, useRef, useState } from 'react';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
-import { EnhancedBuilding } from '@/lib/getBuildingsData';
-import { getGroupForApn, getLinkedGroups, type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage';
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
+import { getGroupForApn, getLinkedGroups, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage';
 
 interface PropertyMapTabProps {
   building: EnhancedBuilding;

@@ -1,7 +1,7 @@
 'use client'
 
 import { useRef, useEffect } from 'react'
-import { COLUMN_LAYOUTS, type SectionDescriptor } from '@/lib/landingPageStorage'
+import { COLUMN_LAYOUTS, type SectionDescriptor } from '@/lib/storage/landingPageStorage'
 
 interface SettingField {
   key: string

@@ -12,9 +12,9 @@ import {
   TASK_STATUSES,
   TASK_PRIORITIES,
   TASK_TYPES,
-} from '@/lib/taskStorage'
-import { getSocket } from '@/lib/socketio'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/taskStorage'
+import { getSocket } from '@/lib/services/socketio'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { TaskColumn } from './TaskColumn'
 import { TaskDetail } from './TaskDetail'
 import { TaskForm } from './TaskForm'

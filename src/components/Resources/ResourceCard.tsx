@@ -5,7 +5,7 @@ import {
   type OrganizationContact,
   type ExternalResourceCategory,
   isCustomCategory,
-} from '@/lib/organizationStorage'
+} from '@/lib/storage/organizationStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 interface ResourceCardProps {

@@ -1,10 +1,10 @@
 'use client'
 
 import { useState } from 'react'
-import type { LandlordProfile } from '@/lib/landlordProfileStorage'
-import { formatCurrency, formatUnits } from '@/lib/landlordProfileStorage'
+import type { LandlordProfile } from '@/lib/storage/landlordProfileStorage'
+import { formatCurrency, formatUnits } from '@/lib/storage/landlordProfileStorage'
 import { ComplaintSummary } from './ComplaintSummary'
-import { getStatusInfo, type OrganizingStatus } from '@/lib/buildingOrganizingStorage'
+import { getStatusInfo, type OrganizingStatus } from '@/lib/storage/buildingOrganizingStorage'
 import { AccountabilityTimeline } from './AccountabilityTimeline'
 import { PressurePointsMap } from './PressurePointsMap'
 import { ComplaintTrendChart } from './ComplaintTrendChart'

@@ -1,9 +1,9 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('ProfilePage')
 
 import { useState, useEffect, useRef } from 'react'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import { useAuth } from '@/contexts/AuthContext'
 import {
   getCurrentProfile,
@@ -19,9 +19,9 @@ import {
   getActivityStatus,
   isProfileDeletedInDb,
   type UserProfile,
-} from '@/lib/profileStorage'
-import { syncProfile } from '@/lib/profileSync'
-import { syncProfileToSupabase, USE_SUPABASE } from '@/lib/supabase'
+} from '@/lib/storage/profileStorage'
+import { syncProfile } from '@/lib/storage/profileSync'
+import { syncProfileToSupabase, USE_SUPABASE } from '@/lib/services/supabase'
 import { useUnreadCount } from '@/hooks/useDirectMessages'
 import { MessageHub } from '@/components/Messages/MessageHub'
 import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'

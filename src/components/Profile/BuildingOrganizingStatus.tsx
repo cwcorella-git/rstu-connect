@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { getProfilesForBuilding, getBuildingStats } from '@/lib/canvassStorage'
+import { getProfilesForBuilding, getBuildingStats } from '@/lib/storage/canvassStorage'
 import {
   getBuildingComplaints,
   getBuildingDemands,
@@ -10,7 +10,7 @@ import {
   getMayDayCountdown,
   getStatusInfo,
   type OrganizingStatus,
-} from '@/lib/buildingOrganizingStorage'
+} from '@/lib/storage/buildingOrganizingStorage'
 
 interface BuildingOrganizingStatusProps {
   buildingId: string

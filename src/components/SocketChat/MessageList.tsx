@@ -4,7 +4,7 @@ import { useEffect, useRef, useMemo } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { ChatMessage } from '@/hooks/useSocketChat'
 import { GovernanceVoteCard } from '@/components/Chat/GovernanceVoteCard'
-import { parseVoteMessage as parseGovVote, parseProposalMessage as parseGovProposal } from '@/lib/governanceStorage'
+import { parseVoteMessage as parseGovVote, parseProposalMessage as parseGovProposal } from '@/lib/storage/governanceStorage'
 import {
   parseEventFromChat,
   getEventById,
@@ -14,7 +14,7 @@ import {
   createEvent,
   getAllEvents,
   type EventType
-} from '@/lib/eventStorage'
+} from '@/lib/storage/eventStorage'
 
 interface MessageListProps {
   messages: ChatMessage[]

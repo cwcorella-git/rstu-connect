@@ -1,9 +1,9 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import type { ReadingDocument } from '@/lib/getReadingData'
+import type { ReadingDocument } from '@/lib/data/getReadingData'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { safeJsonParse } from '@/lib/safeStorage'
+import { safeJsonParse } from '@/lib/utils/safeStorage'
 import readingManifest from '@/data/reading-manifest.json'
 
 interface FeaturedReadingsSectionProps {

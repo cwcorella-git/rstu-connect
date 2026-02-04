@@ -1,5 +1,5 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('InviteCode')
 
 import { useState, useEffect } from 'react'
@@ -15,9 +15,9 @@ import {
   type InviteCode,
   type UserRole,
   type CreateInviteOptions,
-} from '@/lib/profileStorage'
-import { loadAllProperties } from '@/lib/loadAllProperties'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+} from '@/lib/storage/profileStorage'
+import { loadAllProperties } from '@/lib/data/loadAllProperties'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 
 // Expiration options in milliseconds

@@ -1,5 +1,5 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('EventForm')
 
 import { useState, useMemo } from 'react'
@@ -9,9 +9,9 @@ import {
   getEventTypeIcon,
   type EventType,
   EVENT_VOTE_THRESHOLD,
-} from '@/lib/eventStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import type { BuildingEvent } from '@/lib/eventStorage'
+} from '@/lib/storage/eventStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import type { BuildingEvent } from '@/lib/storage/eventStorage'
 
 interface DayEventFormProps {
   date: Date

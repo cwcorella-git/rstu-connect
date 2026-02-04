@@ -17,8 +17,8 @@ import {
   formatDueDate,
   isOverdue,
   isDueSoon,
-} from '@/lib/taskStorage'
-import { getCurrentProfile, getStoredProfiles } from '@/lib/profileStorage'
+} from '@/lib/storage/taskStorage'
+import { getCurrentProfile, getStoredProfiles } from '@/lib/storage/profileStorage'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 
 interface TaskDetailProps {

@@ -1,7 +1,7 @@
 'use client'
 
-import type { LandlordProfile } from '@/lib/landlordProfileStorage'
-import { formatCurrency, formatUnits } from '@/lib/landlordProfileStorage'
+import type { LandlordProfile } from '@/lib/storage/landlordProfileStorage'
+import { formatCurrency, formatUnits } from '@/lib/storage/landlordProfileStorage'
 
 interface LandlordCardProps {
   landlord: LandlordProfile

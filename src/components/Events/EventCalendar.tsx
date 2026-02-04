@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useMemo } from 'react';
-import { BuildingEvent, EventType, EventStatus } from '@/lib/eventStorage';
+import { BuildingEvent, EventType, EventStatus } from '@/lib/storage/eventStorage';
 import { CalendarGrid } from './CalendarGrid';
 import { DayDetailPanel } from './DayDetailPanel';
 

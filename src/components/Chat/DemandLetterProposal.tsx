@@ -1,10 +1,10 @@
 'use client'
 
 import { useState } from 'react'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { type LinkedPropertyGroup } from '@/lib/linkedPropertiesStorage'
-import { createProposal, VOTE_THRESHOLDS } from '@/lib/governanceStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
+import { createProposal, VOTE_THRESHOLDS } from '@/lib/storage/governanceStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 
 interface DemandLetterProposalProps {
   building: EnhancedBuilding

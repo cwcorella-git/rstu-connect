@@ -1,9 +1,9 @@
 'use client'
 
 import React, { useMemo } from 'react'
-import { identifyAtRiskTenants, type AtRiskTenant } from '@/lib/evictionDefenseStorage'
-import { getStoredProfiles } from '@/lib/profileStorage'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
+import { identifyAtRiskTenants, type AtRiskTenant } from '@/lib/storage/evictionDefenseStorage'
+import { getStoredProfiles } from '@/lib/storage/profileStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 interface PreventionDashboardProps {
   buildings: EnhancedBuilding[]

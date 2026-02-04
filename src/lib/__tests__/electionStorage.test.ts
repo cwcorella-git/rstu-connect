@@ -10,7 +10,7 @@ import {
   type Nomination,
   type RankedVote,
   type Election,
-} from '../electionStorage'
+} from '../storage/electionStorage'
 
 // Mock dependencies
 jest.mock('../socketio', () => ({

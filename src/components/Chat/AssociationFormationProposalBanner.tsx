@@ -1,9 +1,9 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { getActiveProposals, voteOnProposal, VOTE_THRESHOLDS } from '@/lib/governanceStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import type { GovernanceProposal } from '@/lib/governanceStorage'
+import { getActiveProposals, voteOnProposal, VOTE_THRESHOLDS } from '@/lib/storage/governanceStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import type { GovernanceProposal } from '@/lib/storage/governanceStorage'
 
 interface AssociationFormationProposalBannerProps {
   buildingApn: string

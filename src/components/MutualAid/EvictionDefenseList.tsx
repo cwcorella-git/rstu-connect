@@ -1,8 +1,8 @@
 'use client'
 
 import React, { useMemo, useState } from 'react'
-import { getAllCases, filterActiveOnly, sortCasesByUrgency, type EvictionCase } from '@/lib/evictionDefenseStorage'
-import { getDaysUntilCourt } from '@/lib/evictionDefenseStorage'
+import { getAllCases, filterActiveOnly, sortCasesByUrgency, type EvictionCase } from '@/lib/storage/evictionDefenseStorage'
+import { getDaysUntilCourt } from '@/lib/storage/evictionDefenseStorage'
 
 interface EvictionDefenseListProps {
   onSelectCase?: (evictionCase: EvictionCase) => void

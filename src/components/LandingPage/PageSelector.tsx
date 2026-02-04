@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { LandingPageConfig } from '@/lib/landingPageStorage'
+import { LandingPageConfig } from '@/lib/storage/landingPageStorage'
 
 interface PageSelectorProps {
   pages: LandingPageConfig[]

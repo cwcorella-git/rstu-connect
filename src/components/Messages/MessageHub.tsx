@@ -5,8 +5,8 @@ import { useLanguage } from '@/contexts/LanguageContext'
 import {
   getThreadDisplayName,
   type DirectMessageThread,
-} from '@/lib/directMessageStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+} from '@/lib/storage/directMessageStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { useDirectMessages } from '@/hooks/useDirectMessages'
 import { ThreadView } from './ThreadView'
 import { NewMessageModal } from './NewMessageModal'

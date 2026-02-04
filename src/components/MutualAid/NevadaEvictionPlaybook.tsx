@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useState, useMemo } from 'react'
-import { getNevadaGuidance, getAllNevadaGuidance, type NevadaNoticeGuidance } from '@/lib/evictionDefenseStorage'
+import { getNevadaGuidance, getAllNevadaGuidance, type NevadaNoticeGuidance } from '@/lib/storage/evictionDefenseStorage'
 
 interface NevadaEvictionPlaybookProps {
   selectedNoticeType?: '3-day' | '5-day' | '7-day' | '30-day'

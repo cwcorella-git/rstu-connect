@@ -1,7 +1,7 @@
 'use client'
 
 import { useMemo } from 'react';
-import { BuildingEvent } from '@/lib/eventStorage';
+import { BuildingEvent } from '@/lib/storage/eventStorage';
 import { CalendarDay } from './CalendarDay';
 import { getDateKey } from './EventCalendar';
 

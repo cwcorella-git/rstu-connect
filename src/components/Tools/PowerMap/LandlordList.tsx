@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import type { LandlordProfile } from '@/lib/landlordProfileStorage'
+import type { LandlordProfile } from '@/lib/storage/landlordProfileStorage'
 import { LandlordCard } from './LandlordCard'
 
 type SortOption = 'portfolio' | 'units' | 'value' | 'activity'

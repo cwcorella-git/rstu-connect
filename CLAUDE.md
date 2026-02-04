@@ -53,12 +53,12 @@ npm run lint         # Run Next.js linter
 data/databases/main_properties.db (192,463 Washoe County properties)
   -> scripts/build/export-all-properties.py (filters to ~16k rentals, prebuild)
   -> public/data/all-properties.json (compressed, ~3.6 MB)
-  -> src/lib/loadAllProperties.ts (expands to EnhancedBuilding[])
+  -> src/lib/data/loadAllProperties.ts (expands to EnhancedBuilding[])
   -> page.tsx renders BuildingList + PropertyViewTabs
 
 Supabase (optional, for FTS):
   -> scripts/data/load-all-data-to-supabase.js (properties + intelligence data)
-  -> src/lib/supabase.ts (search, evictions, landlord scores)
+  -> src/lib/services/supabase.ts (search, evictions, landlord scores)
 ```
 
 **Intelligence Databases (local SQLite):**
@@ -82,43 +82,56 @@ docs/ (~2,900 markdown files with YAML frontmatter)
 ```
 src/
 ├── app/
-│   ├── page.tsx          # Main page with tab routing (home/reading/tools/profile)
-│   └── layout.tsx        # Root layout with header
+│   ├── page.tsx            # Main page with tab routing (home/reading/tools/profile)
+│   └── layout.tsx          # Root layout with header
 ├── components/
-│   ├── BuildingList.tsx  # Property search/filter sidebar (13 sorts, 9 filters)
-│   ├── BuildingCard.tsx  # Property card with badges (status, type, management, progress)
-│   ├── PropertyView/     # Tabbed property view (Chat, Events, Map tabs)
-│   ├── Events/           # Calendar, event cards, event creator
-│   ├── SocketChat/       # Chat UI components (MessageList, MessageInput, TypingIndicator)
-│   ├── Reading/          # Document library components
-│   ├── MutualAid/        # Needs, offers, skills, library, Blocks
-│   ├── Tools/            # Organizer tools (UnitTracker, PowerMap, Canvassing, etc.)
-│   ├── Profile/          # User profile management, onboarding wizard
-│   ├── Footer.tsx        # Translated footer component
-│   └── HamburgerMenu.tsx # Mobile navigation with translations
+│   ├── layout/             # App shell (ClientLayout, Navigation, Footer, etc.)
+│   ├── building/           # Property components (BuildingList, BuildingCard, LinkedGroupCard)
+│   ├── shared/             # Cross-cutting (ErrorBoundary, OfflineBanner, VersionFooter)
+│   ├── ui/                 # UI primitives (ConfirmModal)
+│   ├── Chat/               # Real-time messaging, governance proposals
+│   ├── PropertyView/       # Tabbed property view (Chat, Events, Map tabs)
+│   ├── Events/             # Calendar, event cards, event creator
+│   ├── SocketChat/         # Chat UI components (MessageList, MessageInput)
+│   ├── Reading/            # Document library components
+│   ├── MutualAid/          # Needs, offers, skills, library, Blocks
+│   ├── Tools/              # Organizer tools (UnitTracker, PowerMap, Canvassing, etc.)
+│   ├── Profile/            # User profile management, onboarding wizard
+│   ├── LandingPage/        # Customizable landing page builder
+│   ├── Elections/           # Ballot system, ranked choice voting
+│   ├── Escalation/         # Complaint & demand escalation
+│   ├── Resources/          # Resource directory
+│   ├── Messages/           # Direct messaging
+│   └── Tasks/              # Task management
 ├── contexts/
 │   ├── LanguageContext.tsx  # i18n with 5 locales, 938+ keys each
 │   └── TabContext.tsx       # Global tab state
 ├── hooks/
-│   └── useSocketChat.ts     # Socket.io chat hook
+│   └── useSocketChat.ts    # Socket.io chat hook
 └── lib/
-    ├── getBuildingsData.ts         # EnhancedBuilding interface
-    ├── loadAllProperties.ts        # Loads compressed property JSON
-    ├── profileStorage.ts           # User profiles, roles, invite codes
-    ├── eventStorage.ts             # Building/block events, RSVPs, calendar
-    ├── governanceStorage.ts        # Proposals, voting, Bookchin principle
-    ├── linkedPropertiesStorage.ts  # Property groups (Blocks), alliances
-    ├── canvassStorage.ts           # Unit-level tenant outreach, habitability scores
-    ├── campaignStorage.ts          # Organizing campaigns & progress
-    ├── mutualAidStorage.ts         # Needs/offers, skills, resource library
-    ├── socketio.ts                 # Socket.io client configuration
-    └── supabase.ts                 # Cloud sync, user storage, FTS
+    ├── storage/            # Data persistence (29 files)
+    │   ├── profileStorage.ts       # User profiles, roles, invite codes
+    │   ├── eventStorage.ts         # Building/block events, RSVPs, calendar
+    │   ├── governanceStorage.ts    # Proposals, voting, Bookchin principle
+    │   ├── canvassStorage.ts       # Unit-level tenant outreach, habitability
+    │   └── ...                     # 25 more *Storage.ts modules
+    ├── services/           # External integrations (7 files)
+    │   ├── supabase.ts             # Cloud sync, user storage, FTS
+    │   ├── socketio.ts             # Socket.io client configuration
+    │   └── authService.ts          # Authentication service
+    ├── utils/              # Pure utilities (10 files)
+    │   ├── logger.ts, sanitize.ts, crypto.ts, rateLimit.ts, etc.
+    ├── pdf/                # PDF generators (3 files)
+    │   └── demandLetterPDF.ts, strikeNoticePDF.ts, rentDisputePDF.ts
+    └── data/               # Types, loaders, domain logic (7 files)
+        ├── getBuildingsData.ts     # EnhancedBuilding interface
+        └── loadAllProperties.ts    # Loads compressed property JSON
 ```
 
 ### Data Types
 
 ```typescript
-// Property data (src/lib/getBuildingsData.ts)
+// Property data (src/lib/data/getBuildingsData.ts)
 interface EnhancedBuilding {
   apn: string;              // Assessor Parcel Number
   address: string;
@@ -147,7 +160,7 @@ interface EnhancedBuilding {
   portfolioSize?: number;
 }
 
-// Document data (src/lib/getReadingData.ts)
+// Document data (src/lib/data/getReadingData.ts)
 interface ReadingDocument {
   id: string;
   title: string;
@@ -190,7 +203,7 @@ function MyComponent() {
 **Current:** Socket.io server at `rstu-gun-relay.onrender.com`
 - Real-time messaging with server persistence
 - Building-specific chat rooms via `chatSlug`
-- `src/lib/socketio.ts` - Socket.io client
+- `src/lib/services/socketio.ts` - Socket.io client
 - `src/hooks/useSocketChat.ts` - Chat hook for components
 - `src/components/SocketChat/` - UI components (MessageList, MessageInput, TypingIndicator)
 
@@ -214,7 +227,7 @@ function MyComponent() {
 
 ## Canvassing & Unit Tracker
 
-**Location:** `src/lib/canvassStorage.ts`
+**Location:** `src/lib/storage/canvassStorage.ts`
 
 Key functions:
 - `getEffectiveOrganizingPriority()` - Boosts priority for poor habitability

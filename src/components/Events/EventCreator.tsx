@@ -9,11 +9,11 @@ import {
   getEventTypeIcon,
   generateRecurringEvents,
   EVENT_VOTE_THRESHOLD,
-} from '@/lib/eventStorage';
-import { getCurrentProfile } from '@/lib/profileStorage';
+} from '@/lib/storage/eventStorage';
+import { getCurrentProfile } from '@/lib/storage/profileStorage';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { AvailabilitySuggest } from './AvailabilitySuggest';
-import type { TimeSlot } from '@/lib/availabilityUtils';
+import type { TimeSlot } from '@/lib/data/availabilityUtils';
 
 // Generate a cryptographically secure short ID
 function generateShortId(): string {

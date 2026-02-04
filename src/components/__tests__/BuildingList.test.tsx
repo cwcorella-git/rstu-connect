@@ -1,6 +1,6 @@
 import { render, screen, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
 // Mock all dependencies before importing the component
 jest.mock('@/contexts/LanguageContext', () => ({
@@ -11,7 +11,7 @@ jest.mock('@/contexts/LanguageContext', () => ({
   }),
 }))
 
-jest.mock('@/lib/logger', () => ({
+jest.mock('@/lib/utils/logger', () => ({
   createLogger: () => ({
     info: jest.fn(),
     warn: jest.fn(),
@@ -24,28 +24,28 @@ jest.mock('@/lib/logger', () => ({
 const mockFavorites = new Set<string>()
 const mockLinkedGroups: unknown[] = []
 
-jest.mock('@/lib/favoritesStorage', () => ({
+jest.mock('@/lib/storage/favoritesStorage', () => ({
   getFavorites: jest.fn(() => mockFavorites),
   toggleFavorite: jest.fn(),
 }))
 
-jest.mock('@/lib/linkedPropertiesStorage', () => ({
+jest.mock('@/lib/storage/linkedPropertiesStorage', () => ({
   getLinkedGroups: jest.fn(() => mockLinkedGroups),
   getGroupForApn: jest.fn(() => null),
 }))
 
-jest.mock('@/lib/supabase', () => ({
+jest.mock('@/lib/services/supabase', () => ({
   searchProperties: jest.fn(() => Promise.resolve([])),
   USE_SUPABASE: false,
 }))
 
-jest.mock('@/lib/searchIndex', () => ({
+jest.mock('@/lib/utils/searchIndex', () => ({
   buildSearchIndex: jest.fn(() => new Map()),
   searchWithIndex: jest.fn(() => new Set()),
   buildPropertyMap: jest.fn(() => new Map()),
 }))
 
-jest.mock('@/lib/canvassStorage', () => ({
+jest.mock('@/lib/storage/canvassStorage', () => ({
   getHabitabilityScore: jest.fn(() => null),
   getEffectiveOrganizingPriority: jest.fn((priority) => priority || 0),
   getTenantSafeProgress: jest.fn(() => ({ activeMembers: 0, contactedUnits: 0, totalUnits: 0 })),

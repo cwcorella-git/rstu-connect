@@ -2,18 +2,18 @@
 
 import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import type { EnhancedBuilding } from '@/lib/getBuildingsData'
+import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import {
   exportProfileData,
   isAdmin,
   getCurrentProfile,
-} from '@/lib/profileStorage'
+} from '@/lib/storage/profileStorage'
 import {
   getAdminSettings,
   updateAdminSettings,
   type AdminSettings,
-} from '@/lib/adminSettingsStorage'
-import { exportCanvassData, importCanvassData, getCanvassState } from '@/lib/canvassStorage'
+} from '@/lib/storage/adminSettingsStorage'
+import { exportCanvassData, importCanvassData, getCanvassState } from '@/lib/storage/canvassStorage'
 import { AlertModal } from '@/components/ui/ConfirmModal'
 import { ElectionAdmin } from '@/components/Elections'
 import {
@@ -25,7 +25,7 @@ import {
   subscribeToNotifications,
   onNotificationsChange,
   type SystemNotification,
-} from '@/lib/notificationStorage'
+} from '@/lib/storage/notificationStorage'
 
 interface AdminPanelProps {
   buildings: EnhancedBuilding[]

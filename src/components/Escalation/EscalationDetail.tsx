@@ -43,9 +43,9 @@ import {
   getCaseById,
   shouldSuggestStrike,
   getActiveCases,
-} from '@/lib/escalationStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
-import { getStrikeForBuilding } from '@/lib/strikeStorage'
+} from '@/lib/storage/escalationStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { getStrikeForBuilding } from '@/lib/storage/strikeStorage'
 import { StrikeEscalationPanel } from './StrikeEscalationPanel'
 
 interface EscalationDetailProps {

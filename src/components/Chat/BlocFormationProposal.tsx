@@ -2,10 +2,10 @@
 
 import { useState } from 'react'
 import { usePropertySearch } from '@/hooks/usePropertySearch'
-import { EnhancedBuilding } from '@/lib/getBuildingsData'
-import { getGroupForApn, getLinkedGroups } from '@/lib/linkedPropertiesStorage'
-import { createProposal, VOTE_THRESHOLDS } from '@/lib/governanceStorage'
-import { getCurrentProfile } from '@/lib/profileStorage'
+import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
+import { getGroupForApn, getLinkedGroups } from '@/lib/storage/linkedPropertiesStorage'
+import { createProposal, VOTE_THRESHOLDS } from '@/lib/storage/governanceStorage'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
 
 interface BlocFormationProposalProps {
   currentBuilding: EnhancedBuilding

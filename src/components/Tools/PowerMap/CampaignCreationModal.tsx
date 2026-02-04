@@ -1,11 +1,11 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('Campaign')
 
 import React, { useState, useMemo } from 'react'
-import type { LandlordProperty } from '@/lib/landlordProfileStorage'
-import { createCampaign, getStageLabel } from '@/lib/campaignStorage'
-import { getBuildingOrganizing } from '@/lib/buildingOrganizingStorage'
+import type { LandlordProperty } from '@/lib/storage/landlordProfileStorage'
+import { createCampaign, getStageLabel } from '@/lib/storage/campaignStorage'
+import { getBuildingOrganizing } from '@/lib/storage/buildingOrganizingStorage'
 
 interface CampaignCreationModalProps {
   isOpen: boolean

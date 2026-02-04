@@ -1,9 +1,9 @@
 'use client'
-import { createLogger } from '@/lib/logger'
+import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('SocketChat')
 
 import { useState, useEffect, useCallback, useRef } from 'react'
-import { getSocket } from '@/lib/socketio'
+import { getSocket } from '@/lib/services/socketio'
 import type { Socket } from 'socket.io-client'
 
 export interface ChatMessage {

@@ -1,8 +1,8 @@
 'use client'
 
 import { useState } from 'react'
-import { type UserRole, getRoleLabel } from '@/lib/profileStorage'
-import { type SyncedProfile } from '@/lib/profileSync'
+import { type UserRole, getRoleLabel } from '@/lib/storage/profileStorage'
+import { type SyncedProfile } from '@/lib/storage/profileSync'
 
 interface RoleChangeModalProps {
   profile: SyncedProfile

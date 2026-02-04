@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react';
-import { BuildingEvent } from '@/lib/eventStorage';
+import { BuildingEvent } from '@/lib/storage/eventStorage';
 import { EventCard } from './EventCard';
 
 interface EventListProps {

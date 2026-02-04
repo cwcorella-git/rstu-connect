@@ -2,7 +2,7 @@
 
 import { useRef, useState, useEffect, useCallback } from 'react'
 import { useEditMode } from '@/contexts/EditModeContext'
-import { isAdmin } from '@/lib/profileStorage'
+import { isAdmin } from '@/lib/storage/profileStorage'
 import {
   LandingPageConfig,
   DEFAULT_PAGE_1,
@@ -14,7 +14,7 @@ import {
   createBlankPage,
   createSection,
   syncFromSupabase,
-} from '@/lib/landingPageStorage'
+} from '@/lib/storage/landingPageStorage'
 import { PageSelector } from './PageSelector'
 import { SectionRenderer } from './SectionRenderer'
 import { SectionControls } from './SectionControls'

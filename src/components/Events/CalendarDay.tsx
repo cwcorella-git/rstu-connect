@@ -1,6 +1,6 @@
 'use client'
 
-import { BuildingEvent } from '@/lib/eventStorage';
+import { BuildingEvent } from '@/lib/storage/eventStorage';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getEventDotColor } from './EventCalendar';
 

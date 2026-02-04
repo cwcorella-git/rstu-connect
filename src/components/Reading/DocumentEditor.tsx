@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { saveDocumentEditAsync, deleteDocumentEditAsync } from '@/lib/adminStorage'
-import type { ReadingDocument } from '@/lib/getReadingData'
+import { saveDocumentEditAsync, deleteDocumentEditAsync } from '@/lib/storage/adminStorage'
+import type { ReadingDocument } from '@/lib/data/getReadingData'
 
 interface DocumentEditorProps {
   document: ReadingDocument
