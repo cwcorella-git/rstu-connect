@@ -174,7 +174,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
   // 2. Rental markets vary by location within county
   // 3. Best estimate comes from actual canvassing data (3+ units)
   const estimatedRentPerUnit = building.value && building.units > 0
-    ? Math.round((building.value * 0.01) / 12)
+    ? Math.round((building.value * 0.01) / (12 * building.units))
     : null
 
   // Calculate comparison to building average
@@ -416,7 +416,7 @@ export function RentComparison({ building, unitNumber, userRent, rentHistory, on
                   </div>
 
                   {/* Market comparison result */}
-                  {userRent && marketComparison && !stats && (
+                  {userRent && marketComparison && (
                     <div className={`mt-2 pt-2 border-t ${
                       marketComparison.direction === 'above' ? 'border-red-100' :
                       marketComparison.direction === 'below' ? 'border-green-100' :

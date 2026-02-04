@@ -29,8 +29,6 @@ import { ProfileEditor, type ProfileEditorHandle } from './ProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
 import { LoginForm } from './LoginForm'
 import { ComprehensiveSettingsModal } from './ComprehensiveSettingsModal'
-import { HabitabilityReport } from './HabitabilityReport'
-import { BuildingOrganizingStatus } from './BuildingOrganizingStatus'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
 import { ProfileVotingSection } from './ProfileVotingSection'
@@ -348,14 +346,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             onOpenSettings={() => setShowSettings(true)}
           />
 
-          {/* Building Habitability Report - always visible if building has data */}
-          {selectedBuilding && (
-            <HabitabilityReport
-              profile={profile}
-              building={selectedBuilding}
-            />
-          )}
-
           {/* Rent Comparison */}
           {selectedBuilding && (
             <RentComparison
@@ -370,15 +360,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                   setProfile(newProfile)
                 }
               }}
-            />
-          )}
-
-          {/* Building Organizing Status - shows for users linked to a building */}
-          {selectedBuilding && (
-            <BuildingOrganizingStatus
-              buildingId={selectedBuilding.chatSlug}
-              buildingName={selectedBuilding.propertyName || selectedBuilding.address.split(',')[0]}
-              totalUnits={selectedBuilding.units}
             />
           )}
 
