@@ -1,8 +1,8 @@
 {
-  "commit": "77f77964",
-  "message": "Landing page builder: sections, columns, settings panel",
+  "commit": "94de565e",
+  "message": "Browser back button: Hash-based history for SPA navigation",
   "author": "cwcorella-git",
-  "date": "2026-02-03 23:36:16 -0800",
+  "date": "2026-02-04 02:16:33 -0800",
   "branch": "main",
-  "buildTime": "2026-02-04T08:25:52.101Z"
+  "buildTime": "2026-02-04T10:30:55.897Z"
 }

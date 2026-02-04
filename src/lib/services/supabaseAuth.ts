@@ -221,40 +221,6 @@ export async function signOut(): Promise<{ success: boolean; error?: string }> {
 }
 
 // ============================================
-// OAuth Authentication
-// ============================================
-
-/**
- * Sign in with Google OAuth
- */
-export async function signInWithGoogle(): Promise<AuthResult> {
-  if (!supabase) {
-    return { success: false, error: 'Supabase not configured' }
-  }
-
-  try {
-    const { error } = await supabase.auth.signInWithOAuth({
-      provider: 'google',
-      options: {
-        redirectTo: typeof window !== 'undefined'
-          ? `${window.location.origin}/rstu-connect`
-          : undefined,
-      },
-    })
-
-    if (error) {
-      return { success: false, error: mapAuthError(error) }
-    }
-
-    // OAuth redirects, so we return success here
-    return { success: true }
-  } catch (err) {
-    log.error('Exception during Google sign in:', err)
-    return { success: false, error: 'An unexpected error occurred' }
-  }
-}
-
-// ============================================
 // Password Management
 // ============================================
 
