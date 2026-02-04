@@ -76,19 +76,18 @@ export type ResourceGroupId =
 
 export interface ResourceGroup {
   id: ResourceGroupId
-  icon: string
   categories: ExternalResourceCategory[]
 }
 
 export const RESOURCE_GROUPS: ResourceGroup[] = [
-  { id: 'emergency', icon: '\u{1F198}', categories: ['food', 'shelter', 'emergency_aid'] },
-  { id: 'housing', icon: '\u{1F3E0}', categories: ['housing_services'] },
-  { id: 'legal', icon: '\u{2696}\u{FE0F}', categories: ['legal_aid'] },
-  { id: 'health', icon: '\u{1F3E5}', categories: ['health_services', 'crisis_mental_health'] },
-  { id: 'specialized', icon: '\u{1F91D}', categories: ['senior_services', 'disability_services', 'lgbtq_services', 'reentry_services'] },
-  { id: 'employment', icon: '\u{1F4BC}', categories: ['employment_training', 'childcare', 'transportation'] },
-  { id: 'government', icon: '\u{1F3DB}\u{FE0F}', categories: ['government'] },
-  { id: 'community', icon: '\u{26EA}', categories: ['mutual_aid', 'advocacy', 'faith', 'pet_services', 'other'] },
+  { id: 'emergency', categories: ['food', 'shelter', 'emergency_aid'] },
+  { id: 'housing', categories: ['housing_services'] },
+  { id: 'legal', categories: ['legal_aid'] },
+  { id: 'health', categories: ['health_services', 'crisis_mental_health'] },
+  { id: 'specialized', categories: ['senior_services', 'disability_services', 'lgbtq_services', 'reentry_services'] },
+  { id: 'employment', categories: ['employment_training', 'childcare', 'transportation'] },
+  { id: 'government', categories: ['government'] },
+  { id: 'community', categories: ['mutual_aid', 'advocacy', 'faith', 'pet_services', 'other'] },
 ]
 
 /** Given an individual category, find which group it belongs to. Returns 'community' as fallback. */

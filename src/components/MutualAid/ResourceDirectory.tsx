@@ -6,36 +6,16 @@ import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import {
   type ExternalOrganization,
   type ExternalResourceCategory,
+  type ResourceGroupId,
   EXTERNAL_CATEGORY_LABELS,
+  RESOURCE_GROUPS,
+  getGroupForCategory,
 } from '@/lib/storage/organizationStorage'
+import { getCategoryIcon, getGroupIcon } from '@/lib/resourceIcons'
 
 interface ResourceDirectoryProps {
   organizations: ExternalOrganization[]
   onAddResource?: () => void
-}
-
-// Category icons for visual distinction
-const CATEGORY_ICONS: Record<ExternalResourceCategory, string> = {
-  food: '🍽️',
-  shelter: '🏠',
-  legal_aid: '⚖️',
-  housing_services: '🔑',
-  emergency_aid: '🆘',
-  government: '🏛️',
-  advocacy: '📢',
-  health_services: '🏥',
-  mutual_aid: '🤝',
-  faith: '⛪',
-  pet_services: '🐕',
-  crisis_mental_health: '💚',
-  senior_services: '👴',
-  employment_training: '💼',
-  childcare: '👶',
-  transportation: '🚌',
-  disability_services: '♿',
-  lgbtq_services: '🏳️‍🌈',
-  reentry_services: '🔓',
-  other: '📋',
 }
 
 export function ResourceDirectory({ organizations, onAddResource }: ResourceDirectoryProps) {
@@ -44,24 +24,46 @@ export function ResourceDirectory({ organizations, onAddResource }: ResourceDire
 
   const [searchInput, setSearchInput] = useState('')
   const searchQuery = useDeferredValue(searchInput)
-  const [selectedCategory, setSelectedCategory] = useState<ExternalResourceCategory | 'all'>('all')
+  const [selectedGroup, setSelectedGroup] = useState<ResourceGroupId | null>(null)
+  const [selectedCategory, setSelectedCategory] = useState<ExternalResourceCategory | null>(null)
 
-  // Get categories that have organizations
-  const activeCategories = useMemo(() => {
-    const cats = new Set<ExternalResourceCategory>()
-    organizations.forEach(org => cats.add(org.category as ExternalResourceCategory))
-    // Return in defined order
-    return (Object.keys(EXTERNAL_CATEGORY_LABELS) as ExternalResourceCategory[])
-      .filter(cat => cats.has(cat))
+  // Get groups that have organizations
+  const activeGroups = useMemo(() => {
+    const groupIds = new Set<ResourceGroupId>()
+    organizations.forEach(org => {
+      groupIds.add(getGroupForCategory(org.category))
+    })
+    return RESOURCE_GROUPS.filter(g => groupIds.has(g.id))
   }, [organizations])
+
+  // Get categories within selected group that have organizations
+  const activeSubCategories = useMemo(() => {
+    if (!selectedGroup) return []
+    const group = RESOURCE_GROUPS.find(g => g.id === selectedGroup)
+    if (!group) return []
+    const cats = new Set<ExternalResourceCategory>()
+    organizations.forEach(org => {
+      const cat = org.category as ExternalResourceCategory
+      if (group.categories.includes(cat)) {
+        cats.add(cat)
+      }
+    })
+    return group.categories.filter(cat => cats.has(cat))
+  }, [organizations, selectedGroup])
 
   // Filter organizations
   const filteredOrgs = useMemo(() => {
     let result = organizations
 
-    // Filter by category
-    if (selectedCategory !== 'all') {
+    // Filter by category (most specific)
+    if (selectedCategory) {
       result = result.filter(org => org.category === selectedCategory)
+    } else if (selectedGroup) {
+      // Filter by group
+      const group = RESOURCE_GROUPS.find(g => g.id === selectedGroup)
+      if (group) {
+        result = result.filter(org => group.categories.includes(org.category as ExternalResourceCategory))
+      }
     }
 
     // Filter by search
@@ -76,7 +78,17 @@ export function ResourceDirectory({ organizations, onAddResource }: ResourceDire
     }
 
     return result
-  }, [organizations, selectedCategory, searchQuery])
+  }, [organizations, selectedGroup, selectedCategory, searchQuery])
+
+  // Count by group for badges
+  const groupCounts = useMemo(() => {
+    const counts = new Map<ResourceGroupId, number>()
+    organizations.forEach(org => {
+      const groupId = getGroupForCategory(org.category)
+      counts.set(groupId, (counts.get(groupId) || 0) + 1)
+    })
+    return counts
+  }, [organizations])
 
   // Count by category for badges
   const categoryCounts = useMemo(() => {
@@ -94,6 +106,26 @@ export function ResourceDirectory({ organizations, onAddResource }: ResourceDire
 
   const handleVisit = (url: string) => {
     window.open(url, '_blank', 'noopener,noreferrer')
+  }
+
+  const handleGroupSelect = (groupId: ResourceGroupId) => {
+    if (selectedGroup === groupId) {
+      // Deselect
+      setSelectedGroup(null)
+      setSelectedCategory(null)
+    } else {
+      setSelectedGroup(groupId)
+      setSelectedCategory(null)
+    }
+  }
+
+  const handleCategorySelect = (cat: ExternalResourceCategory) => {
+    setSelectedCategory(selectedCategory === cat ? null : cat)
+  }
+
+  const handleSelectAll = () => {
+    setSelectedGroup(null)
+    setSelectedCategory(null)
   }
 
   return (
@@ -126,52 +158,99 @@ export function ResourceDirectory({ organizations, onAddResource }: ResourceDire
           </div>
         </div>
 
-        {/* Category Filter Chips - Horizontally Scrollable */}
-        <div className="px-3 pb-3 overflow-x-auto scrollbar-hide">
-          <div className="flex gap-2 min-w-max">
-            {/* All button */}
+        {/* Row 1: Group Tabs */}
+        <div className="px-3 overflow-x-auto scrollbar-hide">
+          <div className="flex border-b border-gray-200">
+            {/* All tab */}
             <button
-              onClick={() => setSelectedCategory('all')}
-              className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-full whitespace-nowrap transition-all ${
-                selectedCategory === 'all'
-                  ? 'bg-rstu-red text-white shadow-sm'
-                  : 'bg-white text-gray-700 border border-gray-200 hover:border-gray-300'
+              onClick={handleSelectAll}
+              className={`flex items-center gap-1.5 px-3 py-2 text-sm font-medium whitespace-nowrap border-b-2 transition-colors ${
+                selectedGroup === null
+                  ? 'border-rstu-red text-rstu-red'
+                  : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
               }`}
             >
               All
-              <span className={`text-xs ${selectedCategory === 'all' ? 'text-red-200' : 'text-gray-400'}`}>
+              <span className={`text-xs ${selectedGroup === null ? 'text-red-400' : 'text-gray-400'}`}>
                 {organizations.length}
               </span>
             </button>
 
-            {/* Category buttons */}
-            {activeCategories.map(cat => (
-              <button
-                key={cat}
-                onClick={() => setSelectedCategory(cat)}
-                className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-full whitespace-nowrap transition-all ${
-                  selectedCategory === cat
-                    ? 'bg-rstu-red text-white shadow-sm'
-                    : 'bg-white text-gray-700 border border-gray-200 hover:border-gray-300'
-                }`}
-              >
-                <span>{CATEGORY_ICONS[cat]}</span>
-                <span className="hidden sm:inline">{EXTERNAL_CATEGORY_LABELS[cat]}</span>
-                <span className="sm:hidden">{EXTERNAL_CATEGORY_LABELS[cat].split(' ')[0]}</span>
-                <span className={`text-xs ${selectedCategory === cat ? 'text-red-200' : 'text-gray-400'}`}>
-                  {categoryCounts.get(cat) || 0}
-                </span>
-              </button>
-            ))}
+            {/* Group tabs */}
+            {activeGroups.map(group => {
+              const GroupIcon = getGroupIcon(group.id)
+              const count = groupCounts.get(group.id) || 0
+              const isActive = selectedGroup === group.id
+              return (
+                <button
+                  key={group.id}
+                  onClick={() => handleGroupSelect(group.id)}
+                  className={`flex items-center gap-1.5 px-3 py-2 text-sm font-medium whitespace-nowrap border-b-2 transition-colors ${
+                    isActive
+                      ? 'border-rstu-red text-rstu-red'
+                      : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+                  }`}
+                >
+                  <GroupIcon className={`w-4 h-4 ${isActive ? 'text-rstu-red' : ''}`} />
+                  <span className="hidden sm:inline">{t(`resources.group.${group.id}`)}</span>
+                  <span className={`text-xs ${isActive ? 'text-red-400' : 'text-gray-400'}`}>
+                    {count}
+                  </span>
+                </button>
+              )
+            })}
           </div>
         </div>
+
+        {/* Row 2: Sub-category tabs (only when group selected and has >1 category) */}
+        {selectedGroup && activeSubCategories.length > 1 && (
+          <div className="px-3 overflow-x-auto scrollbar-hide bg-gray-50">
+            <div className="flex border-b border-gray-100">
+              {/* All in group tab */}
+              <button
+                onClick={() => setSelectedCategory(null)}
+                className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium whitespace-nowrap border-b-2 transition-colors ${
+                  selectedCategory === null
+                    ? 'border-rstu-red text-rstu-red'
+                    : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+                }`}
+              >
+                All
+              </button>
+
+              {activeSubCategories.map(cat => {
+                const CatIcon = getCategoryIcon(cat)
+                const count = categoryCounts.get(cat) || 0
+                const isActive = selectedCategory === cat
+                return (
+                  <button
+                    key={cat}
+                    onClick={() => handleCategorySelect(cat)}
+                    className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium whitespace-nowrap border-b-2 transition-colors ${
+                      isActive
+                        ? 'border-rstu-red text-rstu-red'
+                        : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+                    }`}
+                  >
+                    <CatIcon className={`w-3.5 h-3.5 ${isActive ? 'text-rstu-red' : ''}`} />
+                    {EXTERNAL_CATEGORY_LABELS[cat]}
+                    <span className={`text-xs ${isActive ? 'text-red-400' : 'text-gray-400'}`}>
+                      {count}
+                    </span>
+                  </button>
+                )
+              })}
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Results Count */}
       <div className="flex-shrink-0 px-3 py-2 bg-gray-50 border-b border-gray-100 flex items-center justify-between">
         <span className="text-xs text-gray-500">
           {filteredOrgs.length} {filteredOrgs.length === 1 ? 'resource' : 'resources'}
-          {selectedCategory !== 'all' && ` in ${EXTERNAL_CATEGORY_LABELS[selectedCategory]}`}
+          {selectedCategory && ` in ${EXTERNAL_CATEGORY_LABELS[selectedCategory]}`}
+          {!selectedCategory && selectedGroup && ` in ${t(`resources.group.${selectedGroup}`)}`}
           {searchQuery && ` matching "${searchQuery}"`}
         </span>
         {profile?.role === 'admin' && onAddResource && (
@@ -205,6 +284,7 @@ export function ResourceDirectory({ organizations, onAddResource }: ResourceDire
               const website = org.contacts.find(c => c.type === 'website')
               const address = org.contacts.find(c => c.type === 'address')
               const hours = org.contacts.find(c => c.type === 'hours')
+              const CatIcon = getCategoryIcon(org.category)
 
               return (
                 <div
@@ -213,7 +293,7 @@ export function ResourceDirectory({ organizations, onAddResource }: ResourceDire
                 >
                   {/* Header */}
                   <div className="flex items-start gap-2 mb-2">
-                    <span className="text-xl flex-shrink-0">{CATEGORY_ICONS[org.category as ExternalResourceCategory]}</span>
+                    <CatIcon className="w-5 h-5 text-gray-500 flex-shrink-0 mt-0.5" />
                     <div className="flex-1 min-w-0">
                       <h3 className="font-semibold text-gray-900 text-sm leading-tight line-clamp-2">{org.name}</h3>
                       <span className="text-xs text-gray-500">{EXTERNAL_CATEGORY_LABELS[org.category as ExternalResourceCategory]}</span>

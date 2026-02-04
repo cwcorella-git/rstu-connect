@@ -16,6 +16,7 @@ import {
   type CustomCategory,
   type ResourceGroupId,
 } from '@/lib/storage/organizationStorage'
+import { getGroupIcon } from '@/lib/resourceIcons'
 import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { AddOrganizationModal } from './AddOrganizationModal'
@@ -229,12 +230,13 @@ export function ResourcesPage() {
             if (count === 0) return null
             const isSelected = selectedGroup === group.id
             const isEmergency = group.id === 'emergency'
+            const GroupIcon = getGroupIcon(group.id)
             return (
               <button
                 key={group.id}
                 onClick={() => toggleGroup(group.id)}
                 aria-pressed={isSelected}
-                className={`px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
+                className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium rounded-full transition-colors ${
                   isSelected
                     ? isEmergency
                       ? 'bg-red-700 text-white ring-2 ring-red-300'
@@ -244,7 +246,8 @@ export function ResourcesPage() {
                       : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                 }`}
               >
-                {group.icon} {t(`resources.group.${group.id}`)} ({count})
+                <GroupIcon className="w-4 h-4" />
+                {t(`resources.group.${group.id}`)} ({count})
               </button>
             )
           })}
@@ -292,24 +295,29 @@ export function ResourcesPage() {
             groupedOrgs?.map(({ group, orgs }) => (
               <section key={group.id} aria-labelledby={`group-${group.id}`}>
                 {/* Section header */}
-                <div
-                  id={`group-${group.id}`}
-                  className={`flex items-center gap-2 px-3 py-2 rounded-lg mb-2 ${
-                    group.id === 'emergency'
-                      ? 'bg-red-50 border border-red-200'
-                      : 'bg-gray-100'
-                  }`}
-                >
-                  <span className="text-lg" role="img" aria-hidden="true">{group.icon}</span>
-                  <h2 className={`text-sm font-bold ${
-                    group.id === 'emergency' ? 'text-red-700' : 'text-gray-800'
-                  }`}>
-                    {t(`resources.group.${group.id}`)}
-                  </h2>
-                  <span className="text-xs text-gray-500 ml-auto">
-                    {orgs.length}
-                  </span>
-                </div>
+                {(() => {
+                  const SectionIcon = getGroupIcon(group.id)
+                  return (
+                    <div
+                      id={`group-${group.id}`}
+                      className={`flex items-center gap-2 px-3 py-2 rounded-lg mb-2 ${
+                        group.id === 'emergency'
+                          ? 'bg-red-50 border border-red-200'
+                          : 'bg-gray-100'
+                      }`}
+                    >
+                      <SectionIcon className={`w-5 h-5 ${group.id === 'emergency' ? 'text-red-700' : 'text-gray-600'}`} />
+                      <h2 className={`text-sm font-bold ${
+                        group.id === 'emergency' ? 'text-red-700' : 'text-gray-800'
+                      }`}>
+                        {t(`resources.group.${group.id}`)}
+                      </h2>
+                      <span className="text-xs text-gray-500 ml-auto">
+                        {orgs.length}
+                      </span>
+                    </div>
+                  )
+                })()}
                 {/* Cards within this group */}
                 <div className="space-y-3 mb-6">
                   {orgs.map(renderOrgCard)}
