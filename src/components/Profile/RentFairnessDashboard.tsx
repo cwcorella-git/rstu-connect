@@ -10,6 +10,9 @@ import {
 } from '@/lib/rentFairnessCalculations'
 import { getBedroomLabel } from '@/lib/rentFairnessData'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { calculateYoyRentIncrease, shouldAlertAboutRentIncrease, type RentHistoryEntry } from '@/lib/profileStorage'
+import { downloadRentDisputePDF } from '@/lib/rentDisputePDF'
+import { RentHistoryChart } from './RentHistoryChart'
 
 interface RentFairnessDashboardProps {
   building: EnhancedBuilding
@@ -18,8 +21,10 @@ interface RentFairnessDashboardProps {
   monthlyIncome?: number
   unitSqft?: number
   bedroomCount?: number
+  rentHistory?: RentHistoryEntry[]
   onUpdateRent?: (rent: number) => void
   onUpdateProfile?: (updates: { monthlyIncome?: number; unitSqft?: number; bedroomCount?: number }) => void
+  onAddHistoryEntry?: (date: string, amount: number) => void
   readOnly?: boolean
 }
 
@@ -30,8 +35,10 @@ export function RentFairnessDashboard({
   monthlyIncome,
   unitSqft,
   bedroomCount,
+  rentHistory,
   onUpdateRent,
   onUpdateProfile,
+  onAddHistoryEntry,
   readOnly,
 }: RentFairnessDashboardProps) {
   const { t } = useLanguage()
@@ -39,6 +46,12 @@ export function RentFairnessDashboard({
   const [rentInput, setRentInput] = useState(userRent?.toString() || '')
   const [showIncomeInput, setShowIncomeInput] = useState(false)
   const [incomeInput, setIncomeInput] = useState('')
+  const [activeTab, setActiveTab] = useState<'current' | 'history'>('current')
+
+  // Rent history / YoY alert
+  const hasHistory = rentHistory && rentHistory.length > 0
+  const yoyIncrease = useMemo(() => calculateYoyRentIncrease(rentHistory, userRent), [rentHistory, userRent])
+  const shouldAlert = useMemo(() => shouldAlertAboutRentIncrease(yoyIncrease), [yoyIncrease])
 
   // Get building rents from canvassing data, filtered by bedroom count if available
   const { buildingRents, sameSizeRents, buildingSummary } = useMemo(() => {
@@ -93,6 +106,29 @@ export function RentFairnessDashboard({
     }
   }
 
+  const handleDownloadDisputeLetter = () => {
+    if (!userRent || !yoyIncrease) return
+    downloadRentDisputePDF({
+      tenantName: 'Tenant',
+      propertyAddress: building.address,
+      landlordName: building.owner,
+      previousRent: Math.round(userRent / (1 + yoyIncrease.percentChange / 100)),
+      newRent: userRent,
+      increasePercent: yoyIncrease.percentChange,
+      organizationName: 'Reno-Sparks Tenants Union',
+      organizationPhone: '(775) RSTU-ORG',
+    })
+  }
+
+  const handleFileComplaint = () => {
+    if (!building.address) return
+    const complaintUrl = new URL('https://ndcp.nv.gov/landlord-tenant/complaint')
+    complaintUrl.searchParams.set('property_address', building.address)
+    complaintUrl.searchParams.set('complaint_type', 'rent_increase')
+    complaintUrl.searchParams.set('issue_description', `Unusual rent increase of ${yoyIncrease?.percentChange.toFixed(1)}% above regional average (3% baseline)`)
+    window.open(complaintUrl.toString(), '_blank')
+  }
+
   // Calculate building age
   const buildingAge = building.yearBuilt
     ? new Date().getFullYear() - building.yearBuilt
@@ -102,15 +138,84 @@ export function RentFairnessDashboard({
     <div className="bg-white rounded-lg border border-gray-200 overflow-hidden">
       {/* Header */}
       <div className="p-4 border-b border-gray-100">
-        <h3 className="font-medium text-gray-900">{t('rent.comparison')}</h3>
-        <p className="text-sm text-gray-500">
-          {building.propertyName || building.address.split(',')[0]}
-          {buildingAge !== null && ` • Built ${building.yearBuilt} (${buildingAge} yrs)`}
-        </p>
+        <div className="flex items-start justify-between mb-1">
+          <div>
+            <h3 className="font-medium text-gray-900">{t('rent.comparison')}</h3>
+            <p className="text-sm text-gray-500">
+              {building.propertyName || building.address.split(',')[0]}
+              {buildingAge !== null && ` • Built ${building.yearBuilt} (${buildingAge} yrs)`}
+            </p>
+          </div>
+          {shouldAlert && (
+            <div className="bg-red-100 text-red-700 px-2 py-1 rounded text-xs font-medium">
+              {t('rent.unusualIncrease')}
+            </div>
+          )}
+        </div>
+
+        {/* YoY Alert Banner + Action Buttons */}
+        {shouldAlert && userRent && yoyIncrease && (
+          <div className="mt-2 p-3 bg-red-50 border border-red-200 rounded-lg">
+            <div className="text-xs font-medium text-red-700 mb-2">
+              {t('rent.increaseAlert', { percent: yoyIncrease.percentChange.toFixed(1), change: `${yoyIncrease.dollarChange > 0 ? '+' : ''}$${yoyIncrease.dollarChange}` })}
+            </div>
+            <div className="flex gap-2 flex-wrap">
+              <button
+                onClick={handleDownloadDisputeLetter}
+                className="text-xs font-medium px-3 py-1.5 bg-red-600 text-white rounded hover:bg-red-700 transition-colors"
+              >
+                {t('rent.downloadDispute')}
+              </button>
+              <button
+                onClick={handleFileComplaint}
+                className="text-xs font-medium px-3 py-1.5 bg-orange-600 text-white rounded hover:bg-orange-700 transition-colors"
+              >
+                {t('rent.fileComplaint')}
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* Tabs */}
+        {hasHistory && (
+          <div className="flex gap-2 border-t border-gray-100 pt-3 mt-3 -mx-4 px-4">
+            <button
+              onClick={() => setActiveTab('current')}
+              className={`pb-2 px-1 border-b-2 text-sm font-medium transition-colors ${
+                activeTab === 'current'
+                  ? 'border-rstu-red text-rstu-red'
+                  : 'border-transparent text-gray-600 hover:text-gray-900'
+              }`}
+            >
+              {t('rent.tabCurrent')}
+            </button>
+            <button
+              onClick={() => setActiveTab('history')}
+              className={`pb-2 px-1 border-b-2 text-sm font-medium transition-colors ${
+                activeTab === 'history'
+                  ? 'border-rstu-red text-rstu-red'
+                  : 'border-transparent text-gray-600 hover:text-gray-900'
+              }`}
+            >
+              {t('rent.tabHistory')}
+            </button>
+          </div>
+        )}
       </div>
 
       {/* Content */}
       <div className="p-4 space-y-4">
+        {/* Rent History Tab */}
+        {activeTab === 'history' && hasHistory && (
+          <RentHistoryChart
+            rentHistory={rentHistory}
+            currentRent={userRent}
+            onAddHistoryEntry={onAddHistoryEntry}
+          />
+        )}
+
+        {activeTab === 'current' && (<>
+
         {/* User's Rent Display or Prompt */}
         {userRent ? (
           <div className="bg-gray-50 rounded-lg p-4">
@@ -377,6 +482,7 @@ export function RentFairnessDashboard({
             <span className="font-medium text-gray-700 truncate ml-4 max-w-[200px]">{building.owner}</span>
           </div>
         </div>
+        </>)}
       </div>
 
       {/* Privacy Note */}

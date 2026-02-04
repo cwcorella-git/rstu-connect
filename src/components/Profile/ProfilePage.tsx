@@ -34,7 +34,7 @@ import { UserList } from './UserList'
 import { ProfileVotingSection } from './ProfileVotingSection'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { RentComparison } from './RentComparison'
+import { RentFairnessDashboard } from './RentFairnessDashboard'
 import { CirclesTab } from '@/components/MutualAid/CirclesTab'
 import { TutorialElection, hasTutorialCompleted } from '@/components/Elections'
 
@@ -346,11 +346,14 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             onOpenSettings={() => setShowSettings(true)}
           />
 
-          {/* Rent Comparison */}
+          {/* Rent Fairness Dashboard */}
           {selectedBuilding && (
-            <RentComparison
+            <RentFairnessDashboard
               building={selectedBuilding}
               userRent={profile.rentAmount}
+              monthlyIncome={profile.monthlyIncome}
+              unitSqft={profile.unitSqft}
+              bedroomCount={profile.bedroomCount}
               rentHistory={profile.rentHistory}
               onUpdateRent={handleUpdateRent}
               onAddHistoryEntry={(date, amount) => {
@@ -359,6 +362,10 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                 if (newProfile) {
                   setProfile(newProfile)
                 }
+              }}
+              onUpdateProfile={(updates) => {
+                const newProfile = updateProfile(updates)
+                if (newProfile) setProfile(newProfile)
               }}
             />
           )}
