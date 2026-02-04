@@ -4,6 +4,7 @@ import { useEffect, useState, useCallback } from 'react';
 import { createProfileAsync, getCurrentProfile } from '@/lib/storage/profileStorage';
 import type { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
+import { usePushNotifications } from '@/hooks/usePushNotifications';
 import type { OnboardingFormData, OnboardingStep } from './types';
 import {
   getNextStep,
@@ -46,6 +47,10 @@ export function ProfileOnboardingWizard({
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [profileCreated, setProfileCreated] = useState(false);
+  const [createdProfileId, setCreatedProfileId] = useState<string | null>(null);
+  const [notifEnabled, setNotifEnabled] = useState(false);
+
+  const { subscribe: subscribeNotifications, isSupported: notifSupported } = usePushNotifications(createdProfileId);
 
   // Validation state for email, invite, and email verification
   const [emailValidation, setEmailValidation] = useState({
@@ -125,6 +130,7 @@ export function ProfileOnboardingWizard({
 
       if (profile) {
         setProfileCreated(true);
+        setCreatedProfileId(profile.id);
         clearWizardDraft();
         clearInviteFromUrl();
 
@@ -133,12 +139,7 @@ export function ProfileOnboardingWizard({
           onProfileCreated(profile);
         }
 
-        // Auto-close after brief delay to show success
-        setTimeout(() => {
-          if (onCancel) {
-            onCancel();
-          }
-        }, 1500);
+        // Don't auto-close — show notification prompt first
       }
     } catch (err) {
       const message = err instanceof Error ? err.message : 'Failed to create profile';
@@ -146,7 +147,25 @@ export function ProfileOnboardingWizard({
     } finally {
       setIsLoading(false);
     }
-  }, [formData, onProfileCreated, onCancel]);
+  }, [formData, onProfileCreated]);
+
+  // Handle enabling notifications after profile creation
+  const handleEnableNotifications = useCallback(async () => {
+    const result = await subscribeNotifications();
+    if (result) {
+      setNotifEnabled(true);
+      // Close after brief success display
+      setTimeout(() => { if (onCancel) onCancel(); }, 1200);
+    } else {
+      // Permission denied or error — just close
+      if (onCancel) onCancel();
+    }
+  }, [subscribeNotifications, onCancel]);
+
+  // Handle skipping notifications
+  const handleSkipNotifications = useCallback(() => {
+    if (onCancel) onCancel();
+  }, [onCancel]);
 
   // Handle next button
   const handleNext = useCallback(() => {
@@ -277,6 +296,10 @@ export function ProfileOnboardingWizard({
           onBack={handleBack}
           onSkip={handleSkip}
           profileCreated={profileCreated}
+          notifSupported={notifSupported}
+          notifEnabled={notifEnabled}
+          onEnableNotifications={handleEnableNotifications}
+          onSkipNotifications={handleSkipNotifications}
         />
       </div>
     </div>

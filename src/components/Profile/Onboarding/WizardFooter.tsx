@@ -1,5 +1,6 @@
 'use client';
 
+import { useLanguage } from '@/contexts/LanguageContext';
 import type { OnboardingStep } from './types';
 
 interface WizardFooterProps {
@@ -10,6 +11,10 @@ interface WizardFooterProps {
   onBack: () => void;
   onSkip: () => void;
   profileCreated: boolean;
+  notifSupported?: boolean;
+  notifEnabled?: boolean;
+  onEnableNotifications?: () => void;
+  onSkipNotifications?: () => void;
 }
 
 export function WizardFooter({
@@ -20,23 +25,76 @@ export function WizardFooter({
   onBack,
   onSkip,
   profileCreated,
+  notifSupported,
+  notifEnabled,
+  onEnableNotifications,
+  onSkipNotifications,
 }: WizardFooterProps) {
+  const { t } = useLanguage();
+
   // Determine button labels
   const isLastStep = currentStep === 'review';
   const isFirstStep = currentStep === 'welcome';
   const isOptionalStep = currentStep === 'building' || currentStep === 'household';
   const nextButtonLabel = isLastStep ? 'Create Profile' : 'Continue';
 
-  // Show success state
+  // Show success state with notification prompt
   if (profileCreated) {
+    // Notifications already enabled — show brief success
+    if (notifEnabled) {
+      return (
+        <div className="flex-shrink-0 border-t border-gray-200 p-4 sm:p-6 bg-white">
+          <div className="text-center py-4">
+            <svg className="w-12 h-12 text-green-600 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+            </svg>
+            <p className="text-lg font-semibold text-gray-900">{t('notifications.onboardingSuccess')}</p>
+          </div>
+        </div>
+      );
+    }
+
+    // Show notification prompt (or simple success if not supported)
     return (
       <div className="flex-shrink-0 border-t border-gray-200 p-4 sm:p-6 bg-white">
-        <div className="text-center py-4">
-          <svg className="w-12 h-12 text-green-600 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <div className="text-center py-2 space-y-3">
+          <svg className="w-10 h-10 text-green-600 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
           </svg>
           <p className="text-lg font-semibold text-gray-900">Profile Created!</p>
-          <p className="text-sm text-gray-600 mt-1">Redirecting you now...</p>
+
+          {notifSupported && onEnableNotifications ? (
+            <>
+              <div className="pt-2">
+                <p className="text-sm font-medium text-gray-900">{t('notifications.onboardingTitle')}</p>
+                <p className="text-xs text-gray-500 mt-1">{t('notifications.onboardingDesc')}</p>
+              </div>
+              <button
+                onClick={onEnableNotifications}
+                className="w-full py-3 px-4 bg-rstu-red text-white font-medium rounded-lg hover:bg-red-700 transition-colors text-sm"
+              >
+                <span className="flex items-center justify-center gap-2">
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
+                  </svg>
+                  {t('notifications.enableNow')}
+                </span>
+              </button>
+              <button
+                onClick={onSkipNotifications}
+                className="w-full py-2 text-gray-500 text-sm hover:text-gray-700 transition-colors"
+              >
+                {t('notifications.maybeLater')}
+              </button>
+            </>
+          ) : (
+            <button
+              onClick={onSkipNotifications}
+              className="w-full py-3 px-4 bg-rstu-red text-white font-medium rounded-lg hover:bg-red-700 transition-colors text-sm"
+            >
+              Continue
+            </button>
+          )}
         </div>
       </div>
     );

@@ -229,11 +229,19 @@ export function usePushNotifications(profileId: string | null) {
     }
   }, [profileId, state.settings])
 
+  // Re-check permission state (after user unblocks in browser settings)
+  const recheckPermission = useCallback(() => {
+    if (typeof window === 'undefined' || !('Notification' in window)) return
+    const current = Notification.permission
+    setState(prev => ({ ...prev, permission: current }))
+  }, [])
+
   return {
     ...state,
     subscribe,
     unsubscribe,
     updateSettings,
+    recheckPermission,
   }
 }
 
