@@ -44,7 +44,7 @@ import { ConfirmModal, AlertModal } from '@/components/ui/ConfirmModal';
 // Load all 5,600+ multi-unit properties from compressed JSON
 // Contains: apn, address, name, owner, units, value, yearBuilt, zoning, landUseCode, lat/lon
 export default function Home() {
-  const { activeTab, setActiveTab, markLandingAsSeen } = useTab();
+  const { activeTab, setActiveTab, markLandingAsSeen, pushSubView, subViewActive } = useTab();
   const { isAdminAuthenticated, canAccessOrganizeTab, refreshAuth } = useAuth();
   const { t } = useLanguage();
 
@@ -122,6 +122,22 @@ export default function Home() {
 
   // Mobile view toggle for reading page
   const [readingMobileView, setReadingMobileView] = useState<'list' | 'content'>('list');
+
+  // Sync mobile sub-views with browser back button
+  // When subViewActive transitions from true→false (user pressed back), return to list view
+  const prevSubViewActive = useRef(subViewActive);
+  useEffect(() => {
+    if (prevSubViewActive.current && !subViewActive) {
+      // Back button was pressed from a detail view
+      if (activeTab === 'home' && mobileView === 'chat') {
+        setMobileView('list');
+      }
+      if (activeTab === 'reading' && readingMobileView === 'content') {
+        setReadingMobileView('list');
+      }
+    }
+    prevSubViewActive.current = subViewActive;
+  }, [subViewActive, activeTab, mobileView, readingMobileView]);
 
   // Track if we're on mobile for conditional styling
   const [isDesktop, setIsDesktop] = useState(true); // Default true for SSR
@@ -630,6 +646,7 @@ export default function Home() {
               setSelectedBuilding(building);
               // Auto-switch to property view on mobile when building is selected
               setMobileView('chat');
+              pushSubView();
             }}
             linkingSelection={linkingSelection}
             onToggleLinkSelection={handleToggleLinkSelection}
@@ -649,7 +666,7 @@ export default function Home() {
               linkingSelection={linkingSelection}
               onToggleLinkSelection={handleToggleLinkSelection}
               showBackButton={!isDesktop}
-              onBack={() => setMobileView('list')}
+              onBack={() => history.back()}
             />
           ) : (
             <div className="flex items-center justify-center h-full text-gray-400">
@@ -744,6 +761,7 @@ export default function Home() {
               setSelectedDocument(doc);
               // Auto-switch to content view on mobile when document is selected
               setReadingMobileView('content');
+              pushSubView();
             }}
             isAdminAuthenticated={isAdminAuthenticated}
             hiddenDocuments={adminState.hiddenDocuments}
@@ -773,7 +791,7 @@ export default function Home() {
             <ReadingContent
               document={selectedDocument}
               showBackButton={!isDesktop}
-              onBack={() => setReadingMobileView('list')}
+              onBack={() => history.back()}
             />
           ) : (
             <div className="flex items-center justify-center h-full text-gray-400">
