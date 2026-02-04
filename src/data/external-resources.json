@@ -9,7 +9,7 @@
       "contacts": [
         {
           "type": "hours",
-          "value": "9:30 AM - 10:30 AM, Monday-Friday"
+          "value": "9:30 AM - 10:30 AM, Monday/Wednesday/Friday"
         },
         {
           "type": "phone",
@@ -53,8 +53,8 @@
     {
       "id": "ext-st-vincent-dining",
       "type": "external",
-      "name": "St. Vincent Dining Room",
-      "description": "Free hot lunch served daily, serving over 1,400 people. Everyone welcome, 7 days a week.",
+      "name": "St. Vincent's Dining Room",
+      "description": "Free hot lunch served daily, providing over 500 meals per day to anyone in need. Operated by Catholic Charities of Northern Nevada. Everyone welcome, 7 days a week, no questions asked.",
       "category": "food",
       "contacts": [
         {
@@ -63,7 +63,11 @@
         },
         {
           "type": "phone",
-          "value": "(775) 323-2814"
+          "value": "(775) 786-5266"
+        },
+        {
+          "type": "website",
+          "value": "https://ccsnn.org/pages/dining-room"
         },
         {
           "type": "address",
@@ -75,22 +79,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Almuerzo caliente gratuito servido diariamente, sirviendo a más de 1,400 personas. Todos son bienvenidos, los 7 días de la semana.",
+          "description": "Almuerzo caliente gratuito servido diariamente, proporcionando más de 500 comidas por día a cualquier persona que lo necesite. Operado por Catholic Charities of Northern Nevada. Todos son bienvenidos, los 7 días de la semana, sin preguntas.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Libreng mainit na tanghalian araw-araw, nagsisilbi sa mahigit 1,400 na tao. Lahat ay welcome, 7 araw sa isang linggo.",
+          "description": "Libreng mainit na tanghalian araw-araw, nagbibigay ng mahigit 500 na pagkain bawat araw sa sinumang nangangailangan. Pinapatakbo ng Catholic Charities of Northern Nevada. Lahat ay welcome, 7 araw sa isang linggo, walang tanungan.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "每日免费供应热午餐，服务超过1,400人。欢迎所有人，每周7天。",
+          "description": "每日免费提供热午餐，每天为有需要的人提供500多份餐食。由北内华达天主教慈善机构运营。欢迎所有人，每周7天，无需询问。",
           "eligibility": "欢迎所有人",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Bữa trưa nóng miễn phí mỗi ngày, phục vụ hơn 1.400 người. Chào đón tất cả, 7 ngày/tuần.",
+          "description": "Bữa trưa nóng miễn phí mỗi ngày, cung cấp hơn 500 bữa ăn cho bất kỳ ai cần. Do Catholic Charities of Northern Nevada vận hành. Chào đón tất cả, 7 ngày/tuần, không hỏi gì.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Reno"
         }
@@ -100,7 +104,7 @@
       "id": "ext-family-soup",
       "type": "external",
       "name": "Family Soup at Believe Plaza",
-      "description": "Free dinner served every Tuesday evening. Community meal for anyone in need. Run by volunteers and community members.",
+      "description": "Free dinner served every Tuesday evening. Community meal for anyone in need. Also distributes harm reduction supplies (Narcan, fentanyl test strips). Run by volunteers and community members.",
       "category": "food",
       "contacts": [
         {
@@ -109,7 +113,7 @@
         },
         {
           "type": "address",
-          "value": "Believe Plaza, 1 N Sierra St, Reno, NV 89501"
+          "value": "10 N Virginia St, Reno, NV 89501"
         }
       ],
       "serviceArea": "Reno",
@@ -117,22 +121,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Cena gratuita servida todos los martes por la noche. Comida comunitaria para cualquier persona que lo necesite. Organizada por voluntarios y miembros de la comunidad.",
+          "description": "Cena gratuita servida todos los martes por la noche. Comida comunitaria para cualquier persona que lo necesite. También distribuye suministros de reducción de daños (Narcan, tiras de prueba de fentanilo). Organizada por voluntarios y miembros de la comunidad.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Libreng hapunan tuwing Martes ng gabi. Pagkain para sa komunidad para sa sinumang nangangailangan. Pinapatakbo ng mga boluntaryo at miyembro ng komunidad.",
+          "description": "Libreng hapunan tuwing Martes ng gabi. Pagkain para sa komunidad para sa sinumang nangangailangan. Nagbibigay din ng harm reduction supplies (Narcan, fentanyl test strips). Pinapatakbo ng mga boluntaryo at miyembro ng komunidad.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "每周二晚间提供免费晚餐。面向任何有需要的人的社区餐食。由志愿者和社区成员运营。",
+          "description": "每周二晚间提供免费晚餐。面向任何有需要的人的社区餐食。同时分发减害用品（Narcan、芬太尼试纸）。由志愿者和社区成员运营。",
           "eligibility": "欢迎所有人",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Bữa tối miễn phí mỗi tối thứ Ba. Bữa ăn cộng đồng dành cho bất kỳ ai cần. Do tình nguyện viên và thành viên cộng đồng điều hành.",
+          "description": "Bữa tối miễn phí mỗi tối thứ Ba. Bữa ăn cộng đồng dành cho bất kỳ ai cần. Cũng phân phối vật tư giảm hại (Narcan, que thử fentanyl). Do tình nguyện viên và thành viên cộng đồng điều hành.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Reno"
         }
@@ -155,7 +159,11 @@
         },
         {
           "type": "address",
-          "value": "1745 S Wells Ave, Reno, NV"
+          "value": "1745 S Wells Ave, Reno, NV 89502"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 624-3720"
         }
       ],
       "serviceArea": "Reno",
@@ -283,9 +291,13 @@
       "id": "ext-catholic-charities",
       "type": "external",
       "name": "Catholic Charities of Northern Nevada",
-      "description": "Comprehensive resource hub including food assistance, emergency aid, and social services. St. Vincent's programs serve thousands annually.",
+      "description": "Largest social services provider in Northern Nevada. Operates St. Vincent's Dining Room, food pantry, emergency financial assistance, immigration legal services, Battle Born Housing Plus recovery residences, and reentry programs. Serves over 25,000 people annually.",
       "category": "food",
       "contacts": [
+        {
+          "type": "hours",
+          "value": "Monday-Friday 8:30 AM - 4:30 PM"
+        },
         {
           "type": "phone",
           "value": "(775) 322-7073"
@@ -296,7 +308,7 @@
         },
         {
           "type": "address",
-          "value": "500 E 4th St, Reno, NV 89512"
+          "value": "435 Eureka Ave, Reno, NV 89512"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -304,22 +316,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Centro integral de recursos que incluye asistencia alimentaria, ayuda de emergencia y servicios sociales. Los programas de St. Vincent sirven a miles de personas anualmente.",
+          "description": "El mayor proveedor de servicios sociales del norte de Nevada. Opera el Comedor St. Vincent's, despensa de alimentos, asistencia financiera de emergencia, servicios legales de inmigración, residencias de recuperación Battle Born Housing Plus y programas de reingreso. Sirve a más de 25,000 personas anualmente.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Komprehensibong resource hub na kinabibilangan ng food assistance, emergency aid, at social services. Ang mga programa ng St. Vincent ay nagsisilbi sa libu-libong tao taun-taon.",
+          "description": "Pinakamalaking tagapagbigay ng social services sa Hilagang Nevada. Pinapatakbo ang St. Vincent's Dining Room, food pantry, emergency financial assistance, immigration legal services, Battle Born Housing Plus recovery residences, at reentry programs. Nagsisilbi sa mahigit 25,000 tao taun-taon.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "综合资源中心，包括食品援助、紧急救助和社会服务。圣文森特项目每年服务数千人。",
+          "description": "北内华达州最大的社会服务提供者。运营St. Vincent's餐厅、食品储藏室、紧急财务援助、移民法律服务、Battle Born Housing Plus康复住所和重返社会项目。每年服务超过25,000人。",
           "eligibility": "欢迎所有人",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Trung tâm tài nguyên toàn diện bao gồm hỗ trợ thực phẩm, viện trợ khẩn cấp và dịch vụ xã hội. Các chương trình St. Vincent phục vụ hàng nghìn người mỗi năm.",
+          "description": "Nhà cung cấp dịch vụ xã hội lớn nhất Bắc Nevada. Vận hành nhà hàng St. Vincent's, kho thực phẩm, hỗ trợ tài chính khẩn cấp, dịch vụ pháp lý di trú, cư trú phục hồi Battle Born Housing Plus và chương trình tái hòa nhập. Phục vụ hơn 25.000 người mỗi năm.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Bắc Nevada"
         }
@@ -329,7 +341,7 @@
       "id": "ext-good-neighbors-warming",
       "type": "external",
       "name": "Good Neighbors Warming Centers",
-      "description": "Overnight warming centers rotating between churches (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Safe overnight shelter with meals and warmth through March 31. Coordinated by Hampton House Garden, RISE, and community partners.",
+      "description": "Mutual aid warming centers for unhoused women and families, rotating weekly between four downtown churches (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Open nightly 9 PM-6 AM from November through March. Provides cots, sleeping bags, hygiene supplies, light breakfast, and case management. Coordinated by Hampton House Garden and RISE.",
       "category": "shelter",
       "contacts": [
         {
@@ -339,6 +351,10 @@
         {
           "type": "website",
           "value": "https://spotlightaction.org/hampton-house"
+        },
+        {
+          "type": "email",
+          "value": "goodneighborsreno@gmail.com"
         }
       ],
       "serviceArea": "Reno-Sparks",
@@ -346,22 +362,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Centros de calentamiento nocturnos que rotan entre iglesias (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Refugio nocturno seguro con comidas y calor hasta el 31 de marzo. Coordinado por Hampton House Garden, RISE y socios comunitarios.",
+          "description": "Centros de calentamiento de ayuda mutua para mujeres y familias sin hogar, rotando semanalmente entre cuatro iglesias del centro (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Abierto de 9 PM a 6 AM de noviembre a marzo. Proporciona catres, sacos de dormir, artículos de higiene, desayuno ligero y gestión de casos. Coordinado por Hampton House Garden y RISE.",
           "eligibility": "Mujeres, familias, padres solteros con hijos. Hombres solos dirigidos al CARES Campus.",
           "serviceArea": "Reno-Sparks"
         },
         "tl": {
-          "description": "Mga overnight warming center na umiikot sa mga simbahan (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Ligtas na overnight shelter na may pagkain at init hanggang Marso 31. Koordinado ng Hampton House Garden, RISE, at mga kasosyo sa komunidad.",
+          "description": "Mutual aid warming centers para sa mga babaeng walang tirahan at pamilya, umiikot linggu-linggo sa apat na downtown churches (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Bukas gabi-gabi 9 PM-6 AM mula Nobyembre hanggang Marso. Nagbibigay ng cots, sleeping bags, hygiene supplies, at case management. Koordinado ng Hampton House Garden at RISE.",
           "eligibility": "Mga babae, pamilya, mga solo na tatay na may anak. Mga lalaking nag-iisa ay ididirekta sa CARES Campus.",
           "serviceArea": "Reno-Sparks"
         },
         "zh": {
-          "description": "在教堂之间轮流的夜间取暖中心（Trinity Episcopal、First United Methodist、Good Shepherd Lutheran、St. Thomas Aquinas）。安全的夜间庇护所，提供餐食和温暖，持续到3月31日。由Hampton House Garden、RISE和社区合作伙伴协调。",
+          "description": "面向无家可归女性和家庭的互助取暖中心，每周在四个市中心教堂轮流（Trinity Episcopal、First United Methodist、Good Shepherd Lutheran、St. Thomas Aquinas）。11月至3月每晚9点至早6点开放。提供床铺、睡袋、卫生用品、早餐和案例管理。由Hampton House Garden和RISE协调。",
           "eligibility": "女性、家庭、带孩子的单身父亲。单身男性请前往CARES Campus。",
           "serviceArea": "里诺-斯帕克斯"
         },
         "vi": {
-          "description": "Trung tâm sưởi ấm qua đêm luân phiên giữa các nhà thờ (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Nơi trú ẩn qua đêm an toàn với bữa ăn và sưởi ấm đến ngày 31 tháng 3. Phối hợp bởi Hampton House Garden, RISE và các đối tác cộng đồng.",
+          "description": "Trung tâm sưởi ấm tương trợ cho phụ nữ và gia đình vô gia cư, luân phiên hàng tuần giữa bốn nhà thờ trung tâm (Trinity Episcopal, First United Methodist, Good Shepherd Lutheran, St. Thomas Aquinas). Mở hàng đêm 9 PM-6 AM từ tháng 11 đến tháng 3. Cung cấp giường gấp, túi ngủ, vật dụng vệ sinh, bữa sáng nhẹ và quản lý trường hợp. Phối hợp bởi Hampton House Garden và RISE.",
           "eligibility": "Phụ nữ, gia đình, cha đơn thân có con. Nam giới độc thân được hướng dẫn đến CARES Campus.",
           "serviceArea": "Reno-Sparks"
         }
@@ -371,7 +387,7 @@
       "id": "ext-voa-cares",
       "type": "external",
       "name": "Volunteers of America Nevada CARES Campus",
-      "description": "Emergency shelter for up to 600 adults experiencing homelessness. Clients can bring partners, pets, and possessions. Provides support services, case management, housing navigation, mental health counseling, and meals.",
+      "description": "Washoe County's comprehensive homeless services campus operated by Volunteers of America. Emergency shelter for 549+ adults, an 84-bed winter overflow area, Safe Camp (51 ModPod units), The Village (216 single-occupancy units), and a 50-unit permanent supportive housing building. Resource Center with meals, showers, laundry, case management, housing navigation, mental health counseling, and computer access. Low-barrier: guests may bring partners, pets, and possessions.",
       "category": "shelter",
       "contacts": [
         {
@@ -385,6 +401,10 @@
         {
           "type": "address",
           "value": "1800 Threlkel St, Reno, NV 89512"
+        },
+        {
+          "type": "hours",
+          "value": "24 hours, 7 days a week"
         }
       ],
       "serviceArea": "Washoe County",
@@ -392,22 +412,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Refugio de emergencia para hasta 600 adultos sin hogar. Los clientes pueden traer parejas, mascotas y pertenencias. Proporciona servicios de apoyo, gestión de casos, navegación de vivienda, consejería de salud mental y comidas.",
+          "description": "Campus integral de servicios para personas sin hogar del Condado de Washoe operado por Volunteers of America. Refugio de emergencia para 549+ adultos, 84 camas de desbordamiento invernal, Safe Camp (51 unidades ModPod), The Village (216 unidades individuales) y edificio de vivienda permanente de apoyo de 50 unidades. Centro de recursos con comidas, duchas, lavandería, gestión de casos, navegación de vivienda y consejería. Baja barrera: se permiten parejas, mascotas y pertenencias.",
           "eligibility": "Adultos sin hogar",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Emergency shelter para sa hanggang 600 na adult na walang tirahan. Maaaring magdala ang mga kliyente ng mga kasama, alagang hayop, at mga gamit. Nagbibigay ng mga serbisyong suporta, case management, housing navigation, mental health counseling, at pagkain.",
+          "description": "Komprehensibong homeless services campus ng Washoe County na pinapatakbo ng Volunteers of America. Emergency shelter para sa 549+ adults, 84 na kama para sa winter overflow, Safe Camp (51 ModPod units), The Village (216 single-occupancy units), at 50-unit permanent supportive housing. Resource Center na may pagkain, shower, laundry, case management, housing navigation, at counseling. Low-barrier: pwedeng dalhin ang partner, pets, at gamit.",
           "eligibility": "Mga adult na walang tirahan",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "可容纳600名无家可归成年人的紧急庇护所。客户可以携带伴侣、宠物和个人物品。提供支持服务、案例管理、住房导航、心理健康咨询和餐食。",
+          "description": "瓦肖县由美国志愿者组织运营的综合无家可归者服务园区。可容纳549+名成人的紧急庇护所、84张冬季溢出床位、Safe Camp（51个ModPod单元）、The Village（216个单人居住单元）和50单元永久支持性住房。资源中心提供餐食、淋浴、洗衣、案例管理、住房导航和咨询。低门槛：可携带伴侣、宠物和物品。",
           "eligibility": "无家可归的成年人",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Nơi trú ẩn khẩn cấp cho tối đa 600 người lớn vô gia cư. Khách có thể mang theo bạn đời, thú cưng và đồ đạc. Cung cấp dịch vụ hỗ trợ, quản lý trường hợp, hướng dẫn nhà ở, tư vấn sức khỏe tâm thần và bữa ăn.",
+          "description": "Khuôn viên dịch vụ toàn diện cho người vô gia cư của Quận Washoe do Volunteers of America vận hành. Nơi trú ẩn khẩn cấp cho 549+ người lớn, 84 giường mùa đông, Safe Camp (51 đơn vị ModPod), The Village (216 đơn vị một người) và tòa nhà 50 đơn vị hỗ trợ lâu dài. Trung tâm tài nguyên với bữa ăn, tắm, giặt, quản lý trường hợp, hướng dẫn nhà ở và tư vấn. Ít rào cản: được mang bạn đời, thú cưng và đồ đạc.",
           "eligibility": "Người lớn vô gia cư",
           "serviceArea": "Quận Washoe"
         }
@@ -417,12 +437,12 @@
       "id": "ext-crossroads",
       "type": "external",
       "name": "CrossRoads Program (Washoe County HSA)",
-      "description": "Peer-led, alcohol and drug-free structured housing program with integrated wrap-around supportive services. Offers intensive case management, life skills development, workforce readiness programming, healthcare connections, and continuing care support for alumni.",
+      "description": "Washoe County HSA peer-led, alcohol and drug-free structured housing program with integrated wrap-around services. Serves men, women, women with children, and families through separate campuses operated in partnership with RISE. Provides case management, evidence-based life skills and workforce readiness curricula, behavioral healthcare linkages, and continuing care/alumni support (CROC). Free to participants.",
       "category": "shelter",
       "contacts": [
         {
           "type": "hours",
-          "value": "Monday-Friday 8:00 AM - 5:00 PM"
+          "value": "Mon-Fri 8:00 AM - 5:00 PM; drop-in pre-screening Tue/Wed/Thu 9 AM - 4 PM at 350 S. Center St."
         },
         {
           "type": "phone",
@@ -446,22 +466,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Programa de vivienda estructurada libre de alcohol y drogas, dirigido por compañeros, con servicios integrales de apoyo. Ofrece gestión intensiva de casos, desarrollo de habilidades de vida, preparación laboral, conexiones de salud y apoyo continuo para exalumnos.",
+          "description": "Programa de vivienda estructurada libre de alcohol y drogas del HSA del Condado de Washoe, dirigido por compañeros con servicios integrales. Sirve a hombres, mujeres, mujeres con hijos y familias en campus separados con RISE. Proporciona gestión de casos, habilidades de vida, preparación laboral, conexiones de salud y apoyo para exalumnos (CROC). Gratuito para participantes.",
           "eligibility": "Hombres, mujeres, mujeres con hijos y familias que buscan vivienda estructurada, de apoyo, libre de alcohol y drogas",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Peer-led, walang alkohol at droga na structured housing program na may integrated wrap-around supportive services. Nag-aalok ng intensive case management, life skills development, workforce readiness programming, healthcare connections, at patuloy na suporta para sa mga alumni.",
+          "description": "Washoe County HSA peer-led, walang alkohol at droga na structured housing program na may integrated wrap-around services. Nagsisilbi sa mga lalaki, babae, babae na may anak, at pamilya sa magkahiwalay na campus sa pakikipagtulungan ng RISE. Nagbibigay ng case management, life skills, workforce readiness, healthcare connections, at continuing care (CROC). Libre para sa participants.",
           "eligibility": "Mga lalaki, babae, babae na may anak, at pamilya na naghahanap ng structured, supportive, walang alkohol at droga na tirahan",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "由同伴主导的无酒精和毒品结构化住房项目，配有综合支持服务。提供密集案例管理、生活技能发展、就业准备培训、医疗保健对接和校友持续支持。",
+          "description": "瓦肖县HSA同伴主导的无酒精和毒品结构化住房项目，配有综合服务。在与RISE合作的独立园区为男性、女性、带孩子的女性和家庭提供服务。提供案例管理、生活技能、就业准备、医疗对接和校友支持（CROC）。对参与者免费。",
           "eligibility": "寻求结构化、支持性、无酒精和毒品生活环境的男性、女性、带孩子的女性和家庭",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Chương trình nhà ở có cấu trúc, không rượu và ma túy, do đồng đẳng dẫn dắt, với dịch vụ hỗ trợ toàn diện. Cung cấp quản lý trường hợp chuyên sâu, phát triển kỹ năng sống, đào tạo sẵn sàng việc làm, kết nối y tế và hỗ trợ liên tục cho cựu thành viên.",
+          "description": "Chương trình nhà ở có cấu trúc không rượu và ma túy của HSA Quận Washoe, do đồng đẳng dẫn dắt với dịch vụ toàn diện. Phục vụ nam, nữ, phụ nữ có con và gia đình tại các khuôn viên riêng biệt cùng RISE. Cung cấp quản lý trường hợp, kỹ năng sống, đào tạo việc làm, kết nối y tế và hỗ trợ cựu thành viên (CROC). Miễn phí cho người tham gia.",
           "eligibility": "Nam, nữ, phụ nữ có con và gia đình tìm kiếm nơi ở có cấu trúc, hỗ trợ, không rượu và ma túy",
           "serviceArea": "Quận Washoe"
         }
@@ -471,7 +491,7 @@
       "id": "ext-battle-born-housing",
       "type": "external",
       "name": "Battle Born Housing Plus (Catholic Charities)",
-      "description": "Recovery residence program providing housing and supportive services for low-income men recovering from substance use disorder. 58 residential units including studio apartments and congregate living. Services include case management, substance abuse counseling, behavioral health support, employment opportunities, and peer support. First in Nevada to earn NARR certification.",
+      "description": "Sober living transitional housing for up to 84 low-income men recovering from addiction, operated by Catholic Charities of Northern Nevada. First program in Nevada to earn National Recovery Residence certification (October 2025). Provides congregate living with shared kitchens, bathrooms, and laundry, plus individualized support plans including case management, substance use and mental health counseling, peer-to-peer support, on-site drug/alcohol testing, and employment support.",
       "category": "shelter",
       "contacts": [
         {
@@ -489,6 +509,10 @@
         {
           "type": "address",
           "value": "395 Gould Street, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 8:00 AM - 5:00 PM"
         }
       ],
       "serviceArea": "Washoe County",
@@ -496,22 +520,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Programa de residencia de recuperación que proporciona vivienda y servicios de apoyo para hombres de bajos ingresos que se recuperan de trastornos por uso de sustancias. 58 unidades residenciales incluyendo apartamentos tipo estudio y vivienda congregada. Servicios incluyen gestión de casos, consejería de abuso de sustancias, apoyo de salud conductual, oportunidades de empleo y apoyo de compañeros. Primero en Nevada en obtener certificación NARR.",
+          "description": "Vivienda transicional de vida sobria para hasta 84 hombres de bajos ingresos en recuperación de adicción, operada por Catholic Charities of Northern Nevada. Primer programa en Nevada en obtener certificación Nacional de Residencia de Recuperación (octubre 2025). Vivienda congregada con cocinas, baños y lavandería compartidos, más planes de apoyo individualizados.",
           "eligibility": "Hombres de bajos ingresos en recuperación de trastorno por uso de sustancias",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Recovery residence program na nagbibigay ng tirahan at supportive services para sa low-income na lalaki na nagre-recover mula sa substance use disorder. 58 residential units kasama ang studio apartments at congregate living. Kasama sa mga serbisyo ang case management, substance abuse counseling, behavioral health support, oportunidad sa trabaho, at peer support. Unang sa Nevada na nakakuha ng NARR certification.",
+          "description": "Sober living transitional housing para sa hanggang 84 low-income na lalaki na nagre-recover mula sa addiction, pinapatakbo ng Catholic Charities of Northern Nevada. Unang programa sa Nevada na nakakuha ng National Recovery Residence certification (Oktubre 2025). Congregate living na may shared kitchens, bathrooms, at laundry, dagdag pa ang individualized support plans.",
           "eligibility": "Low-income na lalaki na nagre-recover mula sa substance use disorder",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "为低收入男性药物滥用障碍康复者提供住房和支持服务的康复居所项目。58个住宅单元，包括单间公寓和集体生活区。服务包括案例管理、药物滥用咨询、行为健康支持、就业机会和同伴支持。内华达州首个获得NARR认证的项目。",
+          "description": "为多达84名低收入男性成瘾康复者提供的清醒过渡住房，由北内华达天主教慈善机构运营。内华达州首个获得国家康复住所认证的项目（2025年10月）。集体生活配有共用厨房、浴室和洗衣设施，以及个性化支持计划。",
           "eligibility": "正在从药物滥用障碍中康复的低收入男性",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Chương trình cư trú phục hồi cung cấp nhà ở và dịch vụ hỗ trợ cho nam giới thu nhập thấp đang phục hồi từ rối loạn sử dụng chất. 58 đơn vị nhà ở bao gồm căn hộ studio và sinh hoạt tập thể. Dịch vụ bao gồm quản lý trường hợp, tư vấn lạm dụng chất, hỗ trợ sức khỏe hành vi, cơ hội việc làm và hỗ trợ đồng đẳng. Đầu tiên tại Nevada đạt chứng nhận NARR.",
+          "description": "Nhà ở chuyển tiếp cai nghiện cho tối đa 84 nam giới thu nhập thấp đang phục hồi từ nghiện, do Catholic Charities of Northern Nevada vận hành. Chương trình đầu tiên tại Nevada đạt chứng nhận Quốc gia về Cư trú Phục hồi (tháng 10/2025). Sinh hoạt tập thể với nhà bếp, phòng tắm và giặt ủi chung, cùng kế hoạch hỗ trợ cá nhân.",
           "eligibility": "Nam giới thu nhập thấp đang phục hồi từ rối loạn sử dụng chất",
           "serviceArea": "Quận Washoe"
         }
@@ -521,7 +545,7 @@
       "id": "ext-hope-springs",
       "type": "external",
       "name": "Hope Springs (Northern Nevada HOPES)",
-      "description": "Northern Nevada's first bridge housing community. Different from a shelter - provides privacy, safety, autonomy with shared resources. Through safe housing, behavioral health, and wrap-around services, residents build a path toward independent living. Close to 50 residents have moved into permanent housing.",
+      "description": "Northern Nevada's first bridge housing community - a 30-unit tiny home village providing intensive six-month transitional housing for people experiencing homelessness. Operated by Northern Nevada HOPES (a Federally Qualified Health Center). Residents receive single-occupancy units with privacy and locking doors, plus case management, medical and behavioral healthcare, mental health support, peer-led recovery meetings, life skills groups, and financial health services. Close to 50 residents have completed the program and moved into permanent housing.",
       "category": "shelter",
       "contacts": [
         {
@@ -536,6 +560,10 @@
         {
           "type": "address",
           "value": "1920 E 4th St, Reno, NV 89512"
+        },
+        {
+          "type": "hours",
+          "value": "New Applicant Orientation: Thursday 1-2 PM and Saturday 1-2 PM (excluding holidays)"
         }
       ],
       "serviceArea": "Washoe County",
@@ -543,22 +571,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "La primera comunidad de vivienda puente del norte de Nevada. Diferente de un refugio - proporciona privacidad, seguridad y autonomía con recursos compartidos. A través de vivienda segura, salud conductual y servicios integrales, los residentes construyen un camino hacia la vida independiente. Cerca de 50 residentes se han mudado a vivienda permanente.",
+          "description": "Primera comunidad de vivienda puente del norte de Nevada - una villa de 30 casas diminutas que proporciona vivienda transicional intensiva de seis meses. Operada por Northern Nevada HOPES (Centro de Salud Federalmente Calificado). Unidades de ocupación individual con privacidad y puertas con llave, más gestión de casos, atención médica y de salud conductual, y servicios de salud financiera. Cerca de 50 residentes han completado el programa.",
           "eligibility": "Adultos sin hogar (30-60 anualmente)",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Unang bridge housing community ng Hilagang Nevada. Iba sa shelter - nagbibigay ng privacy, kaligtasan, at autonomy na may shared resources. Sa pamamagitan ng ligtas na tirahan, behavioral health, at wrap-around services, nagtatayo ang mga residente ng landas patungo sa independent living. Halos 50 residente ang lumipat na sa permanenteng tirahan.",
+          "description": "Unang bridge housing community ng Hilagang Nevada - 30-unit tiny home village na nagbibigay ng intensive na anim na buwang transitional housing. Pinapatakbo ng Northern Nevada HOPES (Federally Qualified Health Center). Single-occupancy units na may privacy at naka-lock na pinto, dagdag pa ang case management, medical at behavioral healthcare, at financial health services. Halos 50 residente ang nakatapos ng programa.",
           "eligibility": "Mga adult na walang tirahan (30-60 taun-taon)",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "内华达州北部首个过渡住房社区。不同于庇护所——提供隐私、安全和自主权，并共享资源。通过安全住房、行为健康和全方位服务，居民建立通往独立生活的道路。已有近50名居民搬入永久住房。",
+          "description": "北内华达州首个过渡住房社区——提供六个月密集过渡住房的30单元微型住宅村。由Northern Nevada HOPES（联邦合格健康中心）运营。单人居住单元配有隐私和上锁门，提供案例管理、医疗和行为健康护理以及财务健康服务。近50名居民已完成项目。",
           "eligibility": "无家可归的成年人（每年30-60人）",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Cộng đồng nhà ở cầu nối đầu tiên của Bắc Nevada. Khác với nơi trú ẩn - cung cấp sự riêng tư, an toàn, tự chủ với tài nguyên chung. Thông qua nhà ở an toàn, sức khỏe hành vi và dịch vụ toàn diện, cư dân xây dựng con đường hướng tới cuộc sống độc lập. Gần 50 cư dân đã chuyển vào nhà ở lâu dài.",
+          "description": "Cộng đồng nhà ở cầu nối đầu tiên của Bắc Nevada - làng nhà nhỏ 30 đơn vị cung cấp nhà ở chuyển tiếp sáu tháng chuyên sâu. Do Northern Nevada HOPES (Trung tâm Y tế Đủ điều kiện Liên bang) vận hành. Đơn vị một người với riêng tư và cửa khóa, cùng quản lý trường hợp, chăm sóc y tế và hành vi, và dịch vụ tài chính. Gần 50 cư dân đã hoàn thành chương trình.",
           "eligibility": "Người lớn vô gia cư (30-60 người/năm)",
           "serviceArea": "Quận Washoe"
         }
@@ -568,7 +596,7 @@
       "id": "ext-safe-camp",
       "type": "external",
       "name": "Safe Camp",
-      "description": "Transitional housing program at Governors Bowl Park providing structured support for individuals moving toward permanent housing.",
+      "description": "A 51-unit ModPod tiny home village adjacent to the Nevada CARES Campus, providing non-congregate housing for adults who cannot succeed in group shelter settings. Each 8x8-foot insulated unit has a locking door, HVAC, electricity, bed, and shelves. Residents receive two meals daily, snacks, water, and case management focused on permanent housing placement. Operated by the Karma Box Project under contract with Washoe County. Couples, single adults 18+, and pets accepted; sobriety not required. Referral-based admission only.",
       "category": "shelter",
       "contacts": [
         {
@@ -577,7 +605,12 @@
         },
         {
           "type": "address",
-          "value": "Governors Bowl Park, Line Dr, Reno, NV 89512"
+          "value": "100 Cares Drive, Reno, NV 89512 (adjacent to Nevada CARES Campus)"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 329-4141",
+          "label": "CARES Campus"
         }
       ],
       "serviceArea": "Reno",
@@ -585,22 +618,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Programa de vivienda transicional en Governors Bowl Park que proporciona apoyo estructurado para personas que avanzan hacia vivienda permanente.",
+          "description": "Villa de 51 unidades ModPod adyacente al CARES Campus, proporcionando vivienda no congregada para adultos que no pueden tener éxito en refugios grupales. Cada unidad tiene puerta con llave, HVAC, electricidad, cama y estantes. Dos comidas diarias más gestión de casos. Operado por Karma Box Project. Parejas, adultos 18+ y mascotas aceptados; sobriedad no requerida. Solo admisión por referencia.",
           "eligibility": "Adultos en programa de vivienda transicional",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Transitional housing program sa Governors Bowl Park na nagbibigay ng structured na suporta para sa mga indibidwal na lumilipat patungo sa permanenteng tirahan.",
+          "description": "51-unit na ModPod tiny home village katabi ng CARES Campus, nagbibigay ng non-congregate housing para sa mga adult na hindi kayang mag-succeed sa group shelter. Bawat unit may naka-lock na pinto, HVAC, kuryente, kama, at estante. Dalawang pagkain araw-araw dagdag ang case management. Pinapatakbo ng Karma Box Project. Tinatanggap ang mga mag-asawa, solo adults 18+, at pets; hindi kailangan ang sobriety. Referral-based admission lamang.",
           "eligibility": "Mga adult sa transitional housing program",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "位于Governors Bowl Park的过渡性住房项目，为走向永久住房的个人提供结构化支持。",
+          "description": "毗邻CARES Campus的51单元ModPod微型住宅村，为无法适应集体庇护的成人提供非集中住房。每个单元有上锁门、暖通空调、电力、床和架子。每天两餐加案例管理。由Karma Box Project运营。接受夫妻、18+成人和宠物；不要求戒酒。仅通过转介入住。",
           "eligibility": "过渡性住房项目中的成年人",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Chương trình nhà ở chuyển tiếp tại Governors Bowl Park cung cấp hỗ trợ có cấu trúc cho những người đang hướng tới nhà ở lâu dài.",
+          "description": "Làng nhà nhỏ ModPod 51 đơn vị liền kề CARES Campus, cung cấp nhà ở không tập trung cho người lớn không thể ở nơi trú ẩn nhóm. Mỗi đơn vị có cửa khóa, HVAC, điện, giường và kệ. Hai bữa ăn/ngày cùng quản lý trường hợp. Do Karma Box Project vận hành. Chấp nhận cặp đôi, người lớn 18+ và thú cưng; không yêu cầu kiêng rượu. Chỉ nhận qua giới thiệu.",
           "eligibility": "Người lớn trong chương trình nhà ở chuyển tiếp",
           "serviceArea": "Reno"
         }
@@ -610,7 +643,7 @@
       "id": "ext-eddy-house",
       "type": "external",
       "name": "Eddy House",
-      "description": "Youth shelter and services for young adults ages 12-24 experiencing homelessness or housing instability. Includes TLC 360 apartments for transitional housing.",
+      "description": "Northern Nevada's central resource center for homeless, runaway, foster, and at-risk youth ages 12-24. Provides emergency shelter, transitional housing (TLC 360 apartments), counseling, meals, clothing, workforce development, and life skills training. Extensive outreach in downtown Reno to connect youth with services.",
       "category": "shelter",
       "contacts": [
         {
@@ -624,6 +657,10 @@
         {
           "type": "address",
           "value": "888 Willow St, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 10:00 AM - 5:00 PM"
         }
       ],
       "serviceArea": "Washoe County",
@@ -631,19 +668,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Refugio juvenil y servicios para jóvenes adultos de 12 a 24 años que experimentan falta de hogar o inestabilidad de vivienda. Incluye apartamentos TLC 360 para vivienda transicional.",
+          "description": "Centro de recursos central del norte de Nevada para jóvenes sin hogar, fugitivos, de cuidado temporal y en riesgo de 12 a 24 años. Proporciona refugio de emergencia, vivienda transicional (apartamentos TLC 360), consejería, comidas, ropa, desarrollo laboral y capacitación en habilidades de vida.",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Youth shelter at serbisyo para sa mga young adults edad 12-24 na walang tirahan o may housing instability. Kasama ang TLC 360 apartments para sa transitional housing.",
+          "description": "Central resource center ng Hilagang Nevada para sa homeless, runaway, foster, at at-risk na kabataan edad 12-24. Nagbibigay ng emergency shelter, transitional housing (TLC 360 apartments), counseling, pagkain, damit, workforce development, at life skills training.",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "为12-24岁无家可归或住房不稳定的年轻人提供青年庇护所和服务。包括TLC 360过渡性住房公寓。",
+          "description": "北内华达州面向12-24岁无家可归、离家出走、寄养和高风险青年的中央资源中心。提供紧急庇护、过渡住房（TLC 360公寓）、咨询、餐食、服装、就业发展和生活技能培训。",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Nơi trú ẩn thanh thiếu niên và dịch vụ cho người trẻ 12-24 tuổi vô gia cư hoặc bất ổn nhà ở. Bao gồm căn hộ TLC 360 cho nhà ở chuyển tiếp.",
+          "description": "Trung tâm tài nguyên chính của Bắc Nevada cho thanh thiếu niên vô gia cư, bỏ nhà, chăm sóc thay thế và có nguy cơ từ 12-24 tuổi. Cung cấp nơi trú ẩn khẩn cấp, nhà ở chuyển tiếp (căn hộ TLC 360), tư vấn, bữa ăn, quần áo, phát triển nghề nghiệp và đào tạo kỹ năng sống.",
           "serviceArea": "Quận Washoe"
         }
       }
@@ -652,7 +689,7 @@
       "id": "ext-our-place-rise",
       "type": "external",
       "name": "Our Place / RISE",
-      "description": "Low-barrier, person-first emergency shelter and resource center in partnership with Washoe County HSA. Provides services, referrals, and support for individuals experiencing homelessness. A place where guests feel welcomed and wanted.",
+      "description": "Low-barrier, housing-first emergency shelter for women, families, seniors, and their animal companions, operated by RISE (Reno Initiative for Shelter & Equality) in partnership with Washoe County HSA. Campus of renovated buildings currently sheltering 138 women, 38 families, and 28 seniors. Open 24/7 with harm reduction focus and minimal entry requirements.",
       "category": "shelter",
       "contacts": [
         {
@@ -661,7 +698,7 @@
         },
         {
           "type": "phone",
-          "value": "(775) 800-4357"
+          "value": "(775) 327-7501"
         },
         {
           "type": "website",
@@ -670,25 +707,33 @@
         {
           "type": "address",
           "value": "605 S 21st St, Sparks, NV 89431"
+        },
+        {
+          "type": "email",
+          "value": "info@renoinitiative.org"
+        },
+        {
+          "type": "hours",
+          "value": "Open 24 hours, 7 days a week"
         }
       ],
       "serviceArea": "Washoe County",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Centro de refugio de emergencia y recursos de baja barrera, centrado en la persona, en asociación con Washoe County HSA. Proporciona servicios, referencias y apoyo para personas sin hogar. Un lugar donde los huéspedes se sienten bienvenidos y queridos.",
+          "description": "Refugio de emergencia de baja barrera, vivienda primero para mujeres, familias, personas mayores y sus animales, operado por RISE en asociación con Washoe County HSA. Campus de edificios renovados que alberga 138 mujeres, 38 familias y 28 personas mayores. Abierto 24/7 con enfoque de reducción de daños.",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Low-barrier, person-first na emergency shelter at resource center sa pakikipagtulungan sa Washoe County HSA. Nagbibigay ng mga serbisyo, referrals, at suporta para sa mga indibidwal na walang tirahan. Isang lugar kung saan ang mga bisita ay nararamdamang welcome at gusto.",
+          "description": "Low-barrier, housing-first emergency shelter para sa mga babae, pamilya, matatanda, at kanilang mga hayop, pinapatakbo ng RISE sa pakikipagtulungan ng Washoe County HSA. Campus ng mga renovated buildings na kasalukuyang nagsi-shelter ng 138 babae, 38 pamilya, at 28 matatanda. Bukas 24/7 na may harm reduction focus.",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "与瓦肖县HSA合作的低门槛、以人为本的紧急庇护所和资源中心。为无家可归者提供服务、转介和支持。一个让客人感到受欢迎和被需要的地方。",
+          "description": "由RISE与瓦肖县HSA合作运营的低门槛、住房优先紧急庇护所，为女性、家庭、老年人及其动物伴侣提供服务。翻新建筑园区目前庇护138名女性、38个家庭和28名老年人。24/7开放，以减害为重点。",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Nơi trú ẩn khẩn cấp và trung tâm tài nguyên ít rào cản, lấy con người làm trung tâm, hợp tác với Washoe County HSA. Cung cấp dịch vụ, giới thiệu và hỗ trợ cho người vô gia cư. Nơi mà khách cảm thấy được chào đón và trân trọng.",
+          "description": "Nơi trú ẩn khẩn cấp ít rào cản, ưu tiên nhà ở cho phụ nữ, gia đình, người cao tuổi và thú cưng, do RISE vận hành cùng Washoe County HSA. Khuôn viên tòa nhà được cải tạo hiện đang che chở 138 phụ nữ, 38 gia đình và 28 người cao tuổi. Mở 24/7 với trọng tâm giảm hại.",
           "serviceArea": "Quận Washoe"
         }
       }
@@ -697,7 +742,7 @@
       "id": "ext-nyep",
       "type": "external",
       "name": "Nevada Youth Empowerment Project (NYEP)",
-      "description": "Housing and support services for youth ages 16-24 aging out of foster care or experiencing homelessness. Provides apartments and life skills training.",
+      "description": "Community-based residential program for homeless young women ages 18-24, providing structured independent living through the Community Living Program (CLP). Offers housing, daily life skills curriculum developed with a behavioral psychologist, job training, and family-like support. Sonder House provides affordable post-program housing ($300/month including utilities). 100% community funded. Has served over 140 young women since 2007.",
       "category": "shelter",
       "contacts": [
         {
@@ -711,6 +756,10 @@
         {
           "type": "address",
           "value": "1369 Faland Way, Reno, NV 89503"
+        },
+        {
+          "type": "email",
+          "value": "monica.nyep@gmail.com"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -718,19 +767,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Vivienda y servicios de apoyo para jóvenes de 16 a 24 años que salen del sistema de cuidado temporal o experimentan falta de hogar. Proporciona apartamentos y capacitación en habilidades de vida.",
+          "description": "Programa residencial comunitario para mujeres jóvenes sin hogar de 18 a 24 años, proporcionando vida independiente estructurada. Ofrece vivienda, currículo de habilidades de vida, capacitación laboral y apoyo familiar. Sonder House ofrece vivienda post-programa ($300/mes). 100% financiado por la comunidad. Ha servido a más de 140 mujeres jóvenes desde 2007.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Tirahan at mga support services para sa kabataan edad 16-24 na lumalabas sa foster care o walang tirahan. Nagbibigay ng mga apartment at life skills training.",
+          "description": "Community-based residential program para sa homeless na young women edad 18-24, nagbibigay ng structured independent living. Nag-aalok ng tirahan, daily life skills curriculum, job training, at family-like support. Ang Sonder House ay nagbibigay ng affordable post-program housing ($300/buwan). 100% community funded. Nagsilbi sa mahigit 140 na young women mula 2007.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为16-24岁即将离开寄养系统或无家可归的青年提供住房和支持服务。提供公寓和生活技能培训。",
+          "description": "面向18-24岁无家可归年轻女性的社区住宅项目，提供结构化独立生活。提供住房、日常生活技能课程、工作培训和家庭式支持。Sonder House提供$300/月的后续住房。100%社区资助。自2007年以来已服务140多名年轻女性。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Nhà ở và dịch vụ hỗ trợ cho thanh thiếu niên 16-24 tuổi rời khỏi hệ thống chăm sóc thay thế hoặc vô gia cư. Cung cấp căn hộ và đào tạo kỹ năng sống.",
+          "description": "Chương trình cư trú cộng đồng cho phụ nữ trẻ vô gia cư 18-24 tuổi, cung cấp sinh hoạt độc lập có cấu trúc. Cung cấp nhà ở, chương trình kỹ năng sống, đào tạo việc làm và hỗ trợ gia đình. Sonder House cung cấp nhà ở sau chương trình ($300/tháng). 100% tài trợ cộng đồng. Đã phục vụ hơn 140 phụ nữ trẻ từ 2007.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -739,7 +788,7 @@
       "id": "ext-karma-box",
       "type": "external",
       "name": "Karma Box Project",
-      "description": "Nonprofit providing hope and opportunity for people experiencing homelessness. Helps clients obtain permanent housing, increase income, improve health, and regain stability and self-sufficiency through projects, programming, and community engagement. Founded by Grant Denton in 2018.",
+      "description": "Nonprofit operating community goodwill boxes across Reno and Washoe County stocked with hygiene items, non-perishable food, first aid, and menstrual supplies for people experiencing homelessness. Also operates Safe Camp (51-unit tiny home village at Nevada CARES Campus) under contract with Washoe County, providing housing, case management, and permanent housing placement. Founded by Grant Denton in 2018.",
       "category": "housing_services",
       "contacts": [
         {
@@ -753,25 +802,29 @@
         {
           "type": "address",
           "value": "100 N Arlington Ave Suite 250, Reno, NV 89501"
+        },
+        {
+          "type": "phone",
+          "value": "(702) 980-0347"
         }
       ],
       "serviceArea": "Reno-Sparks",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Organización sin fines de lucro que proporciona esperanza y oportunidad para personas sin hogar. Ayuda a los clientes a obtener vivienda permanente, aumentar ingresos, mejorar la salud y recuperar la estabilidad y autosuficiencia a través de proyectos, programas y participación comunitaria. Fundada por Grant Denton en 2018.",
+          "description": "Organización sin fines de lucro que opera cajas de buena voluntad comunitarias en Reno y el Condado de Washoe con artículos de higiene, alimentos no perecederos, primeros auxilios y suministros menstruales. También opera Safe Camp (villa de 51 casas diminutas en CARES Campus) bajo contrato con el Condado de Washoe. Fundada por Grant Denton en 2018.",
           "serviceArea": "Reno-Sparks"
         },
         "tl": {
-          "description": "Nonprofit na nagbibigay ng pag-asa at oportunidad para sa mga taong walang tirahan. Tinutulungan ang mga kliyente na makakuha ng permanenteng tirahan, madagdagan ang kita, mapabuti ang kalusugan, at mabawi ang katatagan at sariling-kakayahan sa pamamagitan ng mga proyekto, programa, at pakikilahok sa komunidad. Itinatag ni Grant Denton noong 2018.",
+          "description": "Nonprofit na nagpapatakbo ng community goodwill boxes sa Reno at Washoe County na may hygiene items, non-perishable food, first aid, at menstrual supplies. Pinapatakbo din ang Safe Camp (51-unit tiny home village sa CARES Campus) sa ilalim ng kontrata sa Washoe County. Itinatag ni Grant Denton noong 2018.",
           "serviceArea": "Reno-Sparks"
         },
         "zh": {
-          "description": "为无家可归者提供希望和机会的非营利组织。帮助客户获得永久住房、增加收入、改善健康，并通过项目、计划和社区参与重获稳定和自给自足。由Grant Denton于2018年创立。",
+          "description": "在里诺和瓦肖县运营社区善意箱的非营利组织，提供卫生用品、不易腐烂食品、急救用品和经期用品。还运营Safe Camp（CARES Campus的51单元微型住宅村），与瓦肖县签约。由Grant Denton于2018年创立。",
           "serviceArea": "里诺-斯帕克斯"
         },
         "vi": {
-          "description": "Tổ chức phi lợi nhuận mang lại hy vọng và cơ hội cho người vô gia cư. Giúp khách hàng có được nhà ở lâu dài, tăng thu nhập, cải thiện sức khỏe và lấy lại sự ổn định và tự lập thông qua các dự án, chương trình và sự tham gia cộng đồng. Được Grant Denton thành lập năm 2018.",
+          "description": "Tổ chức phi lợi nhuận vận hành hộp thiện chí cộng đồng tại Reno và Quận Washoe với đồ vệ sinh, thực phẩm không dễ hỏng, sơ cứu và vật dụng kinh nguyệt. Cũng vận hành Safe Camp (làng nhà nhỏ 51 đơn vị tại CARES Campus) theo hợp đồng với Quận Washoe. Được Grant Denton thành lập năm 2018.",
           "serviceArea": "Reno-Sparks"
         }
       }
@@ -780,7 +833,7 @@
       "id": "ext-puf-house",
       "type": "external",
       "name": "P.U.F. House (WellCare Foundation)",
-      "description": "Transitional housing and crisis stabilization services. Part of WellCare Foundation programs providing recovery and housing support.",
+      "description": "Psychiatric Urgent Facility (PUF) and medical/behavioral health clinic operated by WC Health (formerly WellCare Foundation). Drop-in resource center accepting walk-ins, hospital discharges, and community referrals for psychiatric assessment and linkage to outpatient mental health services, including same-day outpatient appointments. Also operates a Community Triage Center (CTC) providing crisis stabilization and medical detox.",
       "category": "housing_services",
       "contacts": [
         {
@@ -793,26 +846,34 @@
         },
         {
           "type": "address",
-          "value": "850 Mill St, Reno, NV 89502"
+          "value": "850 Mill St, Suite 100, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 9:00 AM - 6:00 PM"
+        },
+        {
+          "type": "email",
+          "value": "info@wellcarefoundation.org"
         }
       ],
       "serviceArea": "Reno",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Vivienda transicional y servicios de estabilización de crisis. Parte de los programas de WellCare Foundation que proporcionan apoyo de recuperación y vivienda.",
+          "description": "Instalación Psiquiátrica Urgente (PUF) y clínica de salud conductual operada por WC Health (anteriormente WellCare Foundation). Centro de recursos sin cita previa que acepta visitas directas, altas hospitalarias y referencias comunitarias para evaluación psiquiátrica y vinculación con servicios ambulatorios. También opera un Centro de Triaje Comunitario (CTC) para estabilización de crisis y desintoxicación médica.",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Transitional housing at crisis stabilization services. Bahagi ng mga programa ng WellCare Foundation na nagbibigay ng recovery at housing support.",
+          "description": "Psychiatric Urgent Facility (PUF) at medical/behavioral health clinic na pinapatakbo ng WC Health (dating WellCare Foundation). Drop-in resource center na tumatanggap ng walk-ins, hospital discharges, at community referrals para sa psychiatric assessment at linkage sa outpatient services. Pinapatakbo din ang Community Triage Center (CTC) para sa crisis stabilization at medical detox.",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "过渡性住房和危机稳定服务。WellCare Foundation提供康复和住房支持项目的一部分。",
+          "description": "WC Health（前WellCare Foundation）运营的精神科紧急设施（PUF）和行为健康诊所。接受无预约来访、出院转介和社区转介的就诊资源中心，提供精神评估和门诊服务对接。还运营社区分流中心（CTC）提供危机稳定和医疗戒毒。",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Nhà ở chuyển tiếp và dịch vụ ổn định khủng hoảng. Một phần của chương trình WellCare Foundation cung cấp hỗ trợ phục hồi và nhà ở.",
+          "description": "Cơ sở Tâm thần Khẩn cấp (PUF) và phòng khám sức khỏe hành vi do WC Health (trước đây là WellCare Foundation) vận hành. Trung tâm tài nguyên nhận người đến không hẹn, xuất viện và giới thiệu cộng đồng để đánh giá tâm thần và kết nối dịch vụ ngoại trú. Cũng vận hành Trung tâm Phân loại Cộng đồng (CTC) cho ổn định khủng hoảng và cai nghiện y tế.",
           "serviceArea": "Reno"
         }
       }
@@ -821,7 +882,7 @@
       "id": "ext-life-change-center",
       "type": "external",
       "name": "The Life Change Center",
-      "description": "Residential and outpatient treatment programs for substance use disorders. Multiple locations in Reno, Sparks, and Carson City.",
+      "description": "Nonprofit opioid treatment program (OTP) providing methadone maintenance, medication management, structured counseling, and holistic recovery services since 1998. CARF-accredited. Services include substance use counseling, mental health support, peer mentoring, employment training, case management, and family resources. Also distributes free Narcan and fentanyl test strips. Additional locations in Sparks and Carson City.",
       "category": "housing_services",
       "contacts": [
         {
@@ -845,25 +906,29 @@
         {
           "type": "address",
           "value": "130 Vine St, Reno, NV 89503"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 6:00 AM - 12:45 PM and 4:30 PM - 7:45 PM; Intakes Mon/Wed at 6 AM and Tue/Thu at 4:30 PM"
         }
       ],
       "serviceArea": "Northern Nevada",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Programas de tratamiento residencial y ambulatorio para trastornos por uso de sustancias. Múltiples ubicaciones en Reno, Sparks y Carson City.",
+          "description": "Programa de tratamiento con opioides (OTP) sin fines de lucro que proporciona mantenimiento con metadona, gestión de medicamentos, consejería y servicios de recuperación desde 1998. Acreditado por CARF. Incluye consejería de uso de sustancias, apoyo de salud mental, mentoría, capacitación laboral y recursos familiares. Distribuye Narcan y tiras de prueba de fentanilo. Ubicaciones adicionales en Sparks y Carson City.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Mga residential at outpatient treatment program para sa substance use disorders. Maraming lokasyon sa Reno, Sparks, at Carson City.",
+          "description": "Nonprofit opioid treatment program (OTP) na nagbibigay ng methadone maintenance, medication management, counseling, at recovery services mula 1998. CARF-accredited. Kasama ang substance use counseling, mental health support, peer mentoring, employment training, at family resources. Namamahagi din ng libreng Narcan at fentanyl test strips. May dagdag na lokasyon sa Sparks at Carson City.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "针对药物滥用障碍的住院和门诊治疗项目。在Reno、Sparks和Carson City设有多个地点。",
+          "description": "自1998年以来提供美沙酮维持、药物管理、咨询和整体康复服务的非营利阿片类治疗项目（OTP）。获CARF认证。包括物质使用咨询、心理健康支持、同伴辅导、就业培训和家庭资源。免费发放Narcan和芬太尼试纸。在Sparks和Carson City设有额外地点。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Chương trình điều trị nội trú và ngoại trú cho rối loạn sử dụng chất. Nhiều địa điểm tại Reno, Sparks và Carson City.",
+          "description": "Chương trình điều trị opioid phi lợi nhuận (OTP) cung cấp duy trì methadone, quản lý thuốc, tư vấn và dịch vụ phục hồi từ 1998. Được CARF chứng nhận. Bao gồm tư vấn sử dụng chất, hỗ trợ sức khỏe tâm thần, cố vấn đồng đẳng, đào tạo việc làm và tài nguyên gia đình. Phân phát miễn phí Narcan và que thử fentanyl. Thêm địa điểm tại Sparks và Carson City.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -872,7 +937,7 @@
       "id": "ext-reno-housing-auth",
       "type": "external",
       "name": "Reno Housing Authority",
-      "description": "Section 8 vouchers, public housing, and rental assistance programs for low-income residents.",
+      "description": "Public housing authority providing affordable housing for low-income families across Washoe County. Owns and operates 756 affordable housing units and administers the Housing Choice Voucher (Section 8) program with 2,955 vouchers. Walk-in housing specialist available (no appointment needed).",
       "category": "housing_services",
       "contacts": [
         {
@@ -886,6 +951,14 @@
         {
           "type": "address",
           "value": "1525 E 9th St, Reno, NV 89512"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 8:00 AM - 5:00 PM"
+        },
+        {
+          "type": "email",
+          "value": "section8@renoha.org"
         }
       ],
       "serviceArea": "Reno",
@@ -893,22 +966,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Vouchers de Sección 8, vivienda pública y programas de asistencia de alquiler para residentes de bajos ingresos.",
+          "description": "Autoridad de vivienda pública que proporciona vivienda asequible para familias de bajos ingresos en el Condado de Washoe. Posee y opera 756 unidades de vivienda asequible y administra el programa de Vouchers de Elección de Vivienda (Sección 8) con 2,955 vouchers. Especialista de vivienda disponible sin cita previa.",
           "eligibility": "Basado en ingresos",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Section 8 vouchers, public housing, at rental assistance programs para sa mga low-income na residente.",
+          "description": "Public housing authority na nagbibigay ng affordable housing para sa low-income na pamilya sa Washoe County. Nagmamay-ari at nagpapatakbo ng 756 affordable housing units at nag-aadminister ng Housing Choice Voucher (Section 8) program na may 2,955 vouchers. Walk-in housing specialist available.",
           "eligibility": "Batay sa kita",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "为低收入居民提供第8条住房券、公共住房和租房援助项目。",
+          "description": "为瓦肖县低收入家庭提供经济适用房的公共住房管理局。拥有并运营756个经济适用房单元，管理2,955张住房选择券（第8条）计划。提供无需预约的住房专家服务。",
           "eligibility": "基于收入",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Phiếu Mục 8, nhà ở công cộng và chương trình hỗ trợ tiền thuê cho cư dân thu nhập thấp.",
+          "description": "Cơ quan nhà ở công cộng cung cấp nhà ở giá phải chăng cho gia đình thu nhập thấp tại Quận Washoe. Sở hữu và vận hành 756 đơn vị nhà ở và quản lý chương trình Phiếu Chọn Nhà ở (Mục 8) với 2.955 phiếu. Chuyên gia nhà ở sẵn sàng không cần hẹn.",
           "eligibility": "Dựa trên thu nhập",
           "serviceArea": "Reno"
         }
@@ -918,7 +991,7 @@
       "id": "ext-safe-embrace",
       "type": "external",
       "name": "Safe Embrace",
-      "description": "Emergency shelter and support services for survivors of domestic violence and sexual assault. 24-hour crisis line available.",
+      "description": "Reno-Sparks area's largest safe house for survivors of domestic violence, sexual assault, and human trafficking. Provides 90-day emergency shelter (9 beds), 12-month transitional housing (30 beds), and rapid rehousing. Services include 24-hour crisis hotline, safety planning, advocacy, therapy for adults and children, weekly survivor support groups, court support, emergency transportation, and prevention education. Only local shelter with trained and certified sexual assault advocates. Accepts survivors with their pets and children.",
       "category": "emergency_aid",
       "contacts": [
         {
@@ -932,7 +1005,12 @@
         },
         {
           "type": "address",
-          "value": "220 S Rock Blvd Suite 7, Reno, NV 89502"
+          "value": "220 S Rock Blvd, Suite 7, Reno, NV 89502"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 324-3766",
+          "label": "Office"
         }
       ],
       "serviceArea": "Washoe County",
@@ -940,22 +1018,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Refugio de emergencia y servicios de apoyo para sobrevivientes de violencia doméstica y agresión sexual. Línea de crisis disponible las 24 horas.",
+          "description": "La casa segura más grande del área Reno-Sparks para sobrevivientes de violencia doméstica, agresión sexual y tráfico humano. Proporciona refugio de emergencia de 90 días (9 camas), vivienda transicional de 12 meses (30 camas) y realojamiento rápido. Servicios incluyen línea de crisis 24 horas, planificación de seguridad, defensa, terapia, grupos de apoyo para sobrevivientes, apoyo judicial y educación preventiva. Acepta sobrevivientes con mascotas e hijos.",
           "eligibility": "Sobrevivientes de violencia doméstica/sexual",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Emergency shelter at support services para sa mga survivor ng domestic violence at sexual assault. 24-hour crisis line available.",
+          "description": "Pinakamalaking safe house sa Reno-Sparks para sa mga survivor ng domestic violence, sexual assault, at human trafficking. Nagbibigay ng 90-araw emergency shelter (9 kama), 12-buwan transitional housing (30 kama), at rapid rehousing. Kasama sa mga serbisyo ang 24-hour crisis hotline, safety planning, advocacy, therapy, survivor support groups, court support, at prevention education. Tinatanggap ang mga survivor kasama ang kanilang pets at anak.",
           "eligibility": "Mga survivor ng domestic/sexual violence",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "为家庭暴力和性侵犯幸存者提供紧急庇护所和支持服务。24小时危机热线。",
+          "description": "里诺-斯帕克斯地区最大的家庭暴力、性侵犯和人口贩卖幸存者安全屋。提供90天紧急庇护（9张床）、12个月过渡住房（30张床）和快速安置。服务包括24小时危机热线、安全规划、倡导、治疗、幸存者支持小组、法庭支持和预防教育。接受幸存者携带宠物和儿童。",
           "eligibility": "家庭暴力/性暴力幸存者",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Nơi trú ẩn khẩn cấp và dịch vụ hỗ trợ cho người sống sót sau bạo lực gia đình và tấn công tình dục. Đường dây khủng hoảng 24 giờ.",
+          "description": "Nhà an toàn lớn nhất vùng Reno-Sparks cho người sống sót sau bạo lực gia đình, tấn công tình dục và buôn người. Cung cấp nơi trú ẩn khẩn cấp 90 ngày (9 giường), nhà ở chuyển tiếp 12 tháng (30 giường) và tái ổn cư nhanh. Dịch vụ bao gồm đường dây khủng hoảng 24h, lập kế hoạch an toàn, vận động, trị liệu, nhóm hỗ trợ, hỗ trợ tòa án và giáo dục phòng ngừa. Chấp nhận người sống sót cùng thú cưng và con cái.",
           "eligibility": "Người sống sót sau bạo lực gia đình/tình dục",
           "serviceArea": "Quận Washoe"
         }
@@ -965,12 +1043,22 @@
       "id": "ext-safelink-wireless",
       "type": "external",
       "name": "SafeLink Wireless",
-      "description": "Free cell phone and monthly minutes for eligible low-income individuals through the federal Lifeline program.",
+      "description": "Federal Lifeline program providing free smartphones with free monthly service (350 minutes, unlimited texts, 3GB data) to income-eligible individuals. Qualifying criteria: household income at or below 135% of Federal Poverty Level, or participation in Medicaid, SNAP, SSI, or other federal assistance programs. One benefit per household. Apply online or by phone.",
       "category": "emergency_aid",
       "contacts": [
         {
           "type": "website",
           "value": "https://www.safelinkwireless.com/Enrollment/Safelink/en/Web/www/default/index.html#!/newHome"
+        },
+        {
+          "type": "phone",
+          "value": "(800) 977-3768",
+          "label": "Enrollment"
+        },
+        {
+          "type": "phone",
+          "value": "(800) 378-1684",
+          "label": "Tech Support"
         }
       ],
       "serviceArea": "Nationwide",
@@ -978,22 +1066,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Teléfono celular gratuito y minutos mensuales para personas de bajos ingresos elegibles a través del programa federal Lifeline.",
+          "description": "Programa federal Lifeline que proporciona smartphones gratuitos con servicio mensual gratuito (350 minutos, textos ilimitados, 3GB datos) para personas elegibles por ingresos. Requisitos: ingreso del hogar igual o inferior al 135% del nivel federal de pobreza, o participación en Medicaid, SNAP, SSI u otros programas. Solicite en línea o por teléfono.",
           "eligibility": "Basado en ingresos o participación en programas gubernamentales (SNAP, Medicaid, etc.)",
           "serviceArea": "Todo el país"
         },
         "tl": {
-          "description": "Libreng cellphone at buwanang minuto para sa mga kwalipikadong low-income na indibidwal sa pamamagitan ng federal Lifeline program.",
+          "description": "Federal Lifeline program na nagbibigay ng libreng smartphone na may libreng buwanang serbisyo (350 minuto, unlimited texts, 3GB data) para sa income-eligible na indibidwal. Kwalipikasyon: income ng sambahayan na 135% o mas mababa ng Federal Poverty Level, o paglahok sa Medicaid, SNAP, SSI, o iba pang programa. Mag-apply online o sa telepono.",
           "eligibility": "Batay sa kita o paglahok sa mga programa ng gobyerno (SNAP, Medicaid, atbp.)",
           "serviceArea": "Buong bansa"
         },
         "zh": {
-          "description": "通过联邦Lifeline计划为符合条件的低收入个人提供免费手机和每月通话时间。",
+          "description": "联邦Lifeline计划为收入合格个人提供免费智能手机和免费月服务（350分钟、无限短信、3GB数据）。资格要求：家庭收入不超过联邦贫困线135%，或参加Medicaid、SNAP、SSI等联邦援助计划。在线或电话申请。",
           "eligibility": "基于收入或参加政府项目（SNAP、Medicaid等）",
           "serviceArea": "全国"
         },
         "vi": {
-          "description": "Điện thoại di động miễn phí và phút gọi hàng tháng cho cá nhân thu nhập thấp đủ điều kiện thông qua chương trình Lifeline liên bang.",
+          "description": "Chương trình Lifeline liên bang cung cấp điện thoại thông minh miễn phí với dịch vụ hàng tháng miễn phí (350 phút, tin nhắn không giới hạn, 3GB dữ liệu) cho cá nhân đủ điều kiện thu nhập. Yêu cầu: thu nhập hộ gia đình bằng hoặc dưới 135% mức nghèo liên bang, hoặc tham gia Medicaid, SNAP, SSI. Đăng ký trực tuyến hoặc qua điện thoại.",
           "eligibility": "Dựa trên thu nhập hoặc tham gia chương trình chính phủ (SNAP, Medicaid, v.v.)",
           "serviceArea": "Toàn quốc"
         }
@@ -1003,7 +1091,7 @@
       "id": "ext-nevada-legal",
       "type": "external",
       "name": "Nevada Legal Services",
-      "description": "Free legal assistance for low-income Nevadans in civil matters including housing, family law, and public benefits.",
+      "description": "Nonprofit law firm providing free civil legal aid to low-income Nevadans. Operates a Tenants' Rights Center offering advice and pro se form preparation for eviction defense, lease disputes, record sealing, and benefits denials (SNAP, TANF, unemployment). Also runs a Senior Law Project and Consumer Law Project.",
       "category": "legal_aid",
       "contacts": [
         {
@@ -1059,7 +1147,7 @@
       "id": "ext-nnla",
       "type": "external",
       "name": "Northern Nevada Legal Aid",
-      "description": "Legal assistance for tenants facing eviction, housing discrimination, and landlord-tenant disputes.",
+      "description": "Nonprofit legal aid serving Washoe and surrounding rural northern Nevada counties. Provides free or low-cost civil legal assistance including family law for domestic violence victims, adult guardianship, child advocacy, immigration, housing, and the Civil Law Self-Help Center.",
       "category": "legal_aid",
       "contacts": [
         {
@@ -1155,9 +1243,13 @@
       "id": "ext-hopes-sexual-health",
       "type": "external",
       "name": "Northern Nevada HOPES - Sexual Health",
-      "description": "Free and confidential STI/HIV testing, PrEP, and sexual health services.",
+      "description": "STI testing and treatment, HIV/Hep C rapid testing, PrEP/PEP for HIV prevention, family planning and contraception, and gender-affirming care. Walk-in testing available at both locations. Free safer sex kits available. Sliding fee scale for uninsured.",
       "category": "health_services",
       "contacts": [
+        {
+          "type": "hours",
+          "value": "Mon-Thu 8am-7pm, Fri 8am-5pm (5th St); Mon-Fri 8am-4pm (4th St)"
+        },
         {
           "type": "phone",
           "value": "(775) 786-4673"
@@ -1165,6 +1257,10 @@
         {
           "type": "website",
           "value": "https://www.nnhopes.org/patients/services/sexualhealth/"
+        },
+        {
+          "type": "address",
+          "value": "580 W 5th St, Reno, NV 89503"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -1243,12 +1339,16 @@
       "id": "ext-change-point",
       "type": "external",
       "name": "Change Point",
-      "description": "Harm reduction services including syringe exchange, HIV/Hepatitis testing, and naloxone distribution.",
+      "description": "Harm reduction center operated by Northern Nevada HOPES. Provides free rapid HIV/Hep C testing, STI testing, overdose education, free naloxone/Narcan and fentanyl test strips, free safer sex kits, support and peer groups, and street outreach. Sharps disposal available at HOPES pharmacy locations.",
       "category": "health_services",
       "contacts": [
         {
+          "type": "hours",
+          "value": "Mon-Fri 12pm-5pm"
+        },
+        {
           "type": "phone",
-          "value": "(775) 432-8920"
+          "value": "(775) 786-4673"
         },
         {
           "type": "website",
@@ -1472,7 +1572,7 @@
       "id": "ext-wellcare",
       "type": "external",
       "name": "WellCare Health Services",
-      "description": "Comprehensive behavioral health services including crisis stabilization, medical detox, and outpatient treatment.",
+      "description": "Comprehensive behavioral health services operated by WC Health (formerly WellCare Foundation). Programs include the Community Triage Center (CTC) providing crisis stabilization and medical detox, the Psychiatric Urgent Facility (PUF House) for psychiatric assessment and outpatient linkage, and outpatient treatment. Walk-ins accepted, hospital discharges, and community referrals welcome.",
       "category": "health_services",
       "contacts": [
         {
@@ -1486,25 +1586,29 @@
         {
           "type": "address",
           "value": "850 Mill St Suite 100, Reno, NV 89502"
+        },
+        {
+          "type": "hours",
+          "value": "Mon-Fri 9:00 AM - 6:00 PM"
         }
       ],
       "serviceArea": "Northern Nevada",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios integrales de salud conductual incluyendo estabilización de crisis, desintoxicación médica y tratamiento ambulatorio.",
+          "description": "Servicios integrales de salud conductual operados por WC Health (anteriormente WellCare Foundation). Incluye el Centro de Triaje Comunitario (CTC) con estabilización de crisis y desintoxicación médica, la Instalación Psiquiátrica Urgente (PUF House) para evaluación psiquiátrica, y tratamiento ambulatorio. Se aceptan visitas sin cita previa.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Komprehensibong behavioral health services kasama ang crisis stabilization, medical detox, at outpatient treatment.",
+          "description": "Komprehensibong behavioral health services na pinapatakbo ng WC Health (dating WellCare Foundation). Kasama ang Community Triage Center (CTC) para sa crisis stabilization at medical detox, Psychiatric Urgent Facility (PUF House) para sa psychiatric assessment, at outpatient treatment. Walk-ins welcome.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "综合行为健康服务，包括危机稳定、医疗戒毒和门诊治疗。",
+          "description": "WC Health（前WellCare Foundation）运营的综合行为健康服务。包括社区分流中心（CTC）提供危机稳定和医疗戒毒、精神科紧急设施（PUF House）提供精神评估，以及门诊治疗。接受无预约来访。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Dịch vụ sức khỏe hành vi toàn diện bao gồm ổn định khủng hoảng, cai nghiện y tế và điều trị ngoại trú.",
+          "description": "Dịch vụ sức khỏe hành vi toàn diện do WC Health (trước đây là WellCare Foundation) vận hành. Bao gồm Trung tâm Phân loại Cộng đồng (CTC) với ổn định khủng hoảng và cai nghiện y tế, Cơ sở Tâm thần Khẩn cấp (PUF House) để đánh giá tâm thần, và điều trị ngoại trú. Chấp nhận đến không hẹn trước.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -1513,7 +1617,7 @@
       "id": "ext-silver-summit-behavioral",
       "type": "external",
       "name": "Silver Summit Behavioral Health",
-      "description": "Behavioral health provider network for SilverSummit Medicaid members. Mental health and substance abuse services.",
+      "description": "Behavioral health provider for SilverSummit Medicaid members. Provides access to mental health counseling, substance use treatment, and psychiatric services through an in-network provider directory. Members can search for local providers by specialty. SilverSummit is a Centene Corporation Medicaid managed care plan.",
       "category": "health_services",
       "contacts": [
         {
@@ -1523,6 +1627,11 @@
         {
           "type": "address",
           "value": "6100 Neil Rd Suite 501, Reno, NV 89511"
+        },
+        {
+          "type": "phone",
+          "value": "(844) 366-2880",
+          "label": "SilverSummit Member Services"
         }
       ],
       "serviceArea": "Nevada",
@@ -1530,22 +1639,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Red de proveedores de salud conductual para miembros de Medicaid de SilverSummit. Servicios de salud mental y abuso de sustancias.",
+          "description": "Proveedor de salud conductual para miembros de Medicaid de SilverSummit. Acceso a consejería de salud mental, tratamiento de uso de sustancias y servicios psiquiátricos a través de un directorio de proveedores en red. Plan de Medicaid de Centene Corporation.",
           "eligibility": "Miembros de Medicaid de SilverSummit",
           "serviceArea": "Nevada"
         },
         "tl": {
-          "description": "Behavioral health provider network para sa SilverSummit Medicaid members. Mental health at substance abuse services.",
+          "description": "Behavioral health provider para sa SilverSummit Medicaid members. Access sa mental health counseling, substance use treatment, at psychiatric services sa pamamagitan ng in-network provider directory. Centene Corporation Medicaid managed care plan.",
           "eligibility": "SilverSummit Medicaid members",
           "serviceArea": "Nevada"
         },
         "zh": {
-          "description": "面向SilverSummit Medicaid会员的行为健康提供者网络。心理健康和药物滥用服务。",
+          "description": "面向SilverSummit Medicaid会员的行为健康服务提供者。通过网内提供者目录获取心理健康咨询、物质使用治疗和精神科服务。Centene Corporation管理式护理计划。",
           "eligibility": "SilverSummit Medicaid会员",
           "serviceArea": "内华达州"
         },
         "vi": {
-          "description": "Mạng lưới nhà cung cấp sức khỏe hành vi cho thành viên SilverSummit Medicaid. Dịch vụ sức khỏe tâm thần và lạm dụng chất.",
+          "description": "Nhà cung cấp sức khỏe hành vi cho thành viên SilverSummit Medicaid. Truy cập tư vấn sức khỏe tâm thần, điều trị sử dụng chất và dịch vụ tâm thần thông qua danh bạ nhà cung cấp trong mạng lưới. Kế hoạch Medicaid của Centene Corporation.",
           "eligibility": "Thành viên SilverSummit Medicaid",
           "serviceArea": "Nevada"
         }
@@ -1560,7 +1669,7 @@
       "contacts": [
         {
           "type": "phone",
-          "value": "(855) 878-4532"
+          "value": "(844) 396-2329"
         },
         {
           "type": "website",
@@ -1602,7 +1711,7 @@
       "contacts": [
         {
           "type": "phone",
-          "value": "(855) 202-0729"
+          "value": "(833) 230-2058"
         },
         {
           "type": "website",
@@ -1644,7 +1753,7 @@
       "contacts": [
         {
           "type": "phone",
-          "value": "(800) 869-7165"
+          "value": "(833) 685-2102"
         },
         {
           "type": "website",
@@ -1722,18 +1831,22 @@
     {
       "id": "ext-dwss",
       "type": "external",
-      "name": "DWSS (Division of Welfare & Support Services)",
-      "description": "Nevada state agency providing SNAP, TANF, Medicaid, and other public benefit programs. Apply online or in person.",
+      "name": "DSS Reno (Division of Social Services)",
+      "description": "Nevada Division of Social Services (formerly DWSS, renamed July 2025). Provides SNAP, TANF, Medicaid, Energy Assistance, Water/Sewer Assistance, and Child Care Assistance. Apply online at accessnevada.nv.gov or in person.",
       "category": "government",
       "contacts": [
         {
+          "type": "hours",
+          "value": "Monday-Friday 7:00 AM - 5:00 PM"
+        },
+        {
           "type": "phone",
-          "value": "(775) 823-6000",
+          "value": "(775) 684-7200",
           "label": "Reno Office"
         },
         {
           "type": "website",
-          "value": "https://dwss.nv.gov/Apply/APPLY/"
+          "value": "https://dss.nv.gov"
         },
         {
           "type": "address",
@@ -1764,21 +1877,25 @@
     {
       "id": "ext-dwss-sparks",
       "type": "external",
-      "name": "DWSS Sparks Office",
-      "description": "Sparks district office for Nevada welfare services including SNAP, TANF, and Medicaid applications.",
+      "name": "DSS Sparks (Division of Social Services)",
+      "description": "Nevada Division of Social Services (formerly DWSS, renamed July 2025), Sparks District Office. Provides SNAP, TANF, Medicaid, Energy Assistance, and Child Care Assistance. Apply online at accessnevada.nv.gov.",
       "category": "government",
       "contacts": [
         {
+          "type": "hours",
+          "value": "Monday-Friday 8:00 AM - 5:00 PM"
+        },
+        {
           "type": "phone",
-          "value": "(775) 823-6000"
+          "value": "(775) 824-7400"
         },
         {
           "type": "website",
-          "value": "https://dwss.nv.gov"
+          "value": "https://dss.nv.gov"
         },
         {
           "type": "address",
-          "value": "1170 Scheels Dr, Sparks, NV 89434"
+          "value": "630 Greenbrae Dr, Sparks, NV 89431"
         }
       ],
       "serviceArea": "Sparks",
@@ -1901,31 +2018,43 @@
       "id": "ext-birth-certificates",
       "type": "external",
       "name": "Vital Records - Birth Certificates",
-      "description": "Information on replacing birth certificates, Social Security cards, and other vital documents.",
+      "description": "Nevada birth certificates can be ordered through the Nevada Division of Public and Behavioral Health, Office of Vital Records. Available by mail, in person at the Carson City or Las Vegas office, or online through VitalChek. Cost is $25 for the first copy, $10 each additional. Processing takes 6-8 weeks by mail. Expedited service available for additional fee.",
       "category": "government",
       "contacts": [
         {
           "type": "website",
           "value": "https://www.usa.gov/replace-vital-documents"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 684-4242"
+        },
+        {
+          "type": "address",
+          "value": "4150 Technology Way, Suite 104, Carson City, NV 89706"
+        },
+        {
+          "type": "email",
+          "value": "vital@health.nv.gov"
         }
       ],
       "serviceArea": "Nationwide",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Información sobre cómo reemplazar certificados de nacimiento, tarjetas del Seguro Social y otros documentos vitales.",
+          "description": "Certificados de nacimiento de Nevada se pueden solicitar a través de la Oficina de Registros Vitales. Disponible por correo, en persona en Carson City o Las Vegas, o en línea a través de VitalChek. Costo: $25 primera copia, $10 cada adicional. Procesamiento toma 6-8 semanas por correo.",
           "serviceArea": "Todo el país"
         },
         "tl": {
-          "description": "Impormasyon sa pagpapalit ng birth certificates, Social Security cards, at iba pang vital documents.",
+          "description": "Ang Nevada birth certificates ay maaaring i-order sa Office of Vital Records. Available sa pamamagitan ng koreo, personal sa Carson City o Las Vegas, o online sa VitalChek. Gastos: $25 unang kopya, $10 bawat karagdagan. 6-8 linggo ang processing sa koreo.",
           "serviceArea": "Buong bansa"
         },
         "zh": {
-          "description": "关于更换出生证明、社会安全卡和其他重要文件的信息。",
+          "description": "内华达州出生证明可通过生命记录办公室订购。可通过邮寄、亲自到Carson City或Las Vegas办公室，或通过VitalChek在线申请。费用：第一份$25，每份额外$10。邮寄处理需6-8周。",
           "serviceArea": "全国"
         },
         "vi": {
-          "description": "Thông tin về thay thế giấy khai sinh, thẻ An sinh Xã hội và các giấy tờ quan trọng khác.",
+          "description": "Giấy khai sinh Nevada có thể đặt qua Văn phòng Hồ sơ Quan trọng. Có thể qua bưu điện, trực tiếp tại Carson City hoặc Las Vegas, hoặc trực tuyến qua VitalChek. Chi phí: $25 bản đầu, $10 mỗi bản thêm. Xử lý qua bưu điện mất 6-8 tuần.",
           "serviceArea": "Toàn quốc"
         }
       }
@@ -1934,31 +2063,40 @@
       "id": "ext-immunization-records",
       "type": "external",
       "name": "Immunization Records Access",
-      "description": "How to access your immunization records through Washoe County Health District.",
+      "description": "Immunization records for Washoe County residents are maintained by the Washoe County Health District (WCHD) Immunization Program using the Nevada WebIZ system. Records can be requested in person, by phone, or by mail. Bring photo ID. Records from schools, doctors, or the state can also be consolidated through WebIZ. WCHD also provides low-cost vaccinations for children and adults.",
       "category": "government",
       "contacts": [
         {
           "type": "website",
           "value": "https://www.washoecounty.gov/health/programs-and-services/cchs/immunization-program/how-to-access-immunization-records.php"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 328-2441"
+        },
+        {
+          "type": "address",
+          "value": "1001 E 9th St, Reno, NV 89512",
+          "label": "Washoe County Health District"
         }
       ],
       "serviceArea": "Washoe County",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Cómo acceder a sus registros de vacunación a través del Distrito de Salud del Condado de Washoe.",
+          "description": "Registros de vacunación para residentes del Condado de Washoe mantenidos por el Programa de Inmunización del Distrito de Salud usando el sistema Nevada WebIZ. Solicite en persona, por teléfono o por correo. Traiga identificación con foto. WCHD también proporciona vacunas de bajo costo.",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Paano ma-access ang iyong immunization records sa pamamagitan ng Washoe County Health District.",
+          "description": "Immunization records para sa mga residente ng Washoe County na pinapanatili ng WCHD Immunization Program gamit ang Nevada WebIZ system. Maaaring i-request personal, sa telepono, o sa koreo. Magdala ng photo ID. Ang WCHD ay nagbibigay din ng low-cost vaccinations.",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "如何通过瓦肖县卫生区获取您的免疫接种记录。",
+          "description": "瓦肖县居民的免疫接种记录由卫生区免疫计划通过Nevada WebIZ系统维护。可亲自、电话或邮寄申请。请携带带照片的身份证件。WCHD还提供低成本疫苗接种。",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Cách truy cập hồ sơ tiêm chủng thông qua Sở Y tế Quận Washoe.",
+          "description": "Hồ sơ tiêm chủng cho cư dân Quận Washoe được duy trì bởi Chương trình Tiêm chủng WCHD sử dụng hệ thống Nevada WebIZ. Yêu cầu trực tiếp, qua điện thoại hoặc bưu điện. Mang theo giấy tờ có ảnh. WCHD cũng cung cấp tiêm chủng giá rẻ.",
           "serviceArea": "Quận Washoe"
         }
       }
@@ -1967,7 +2105,7 @@
       "id": "ext-rise",
       "type": "external",
       "name": "RISE (Reno Initiative for Shelter and Equality)",
-      "description": "Community organization working on homelessness advocacy, mutual aid, and systemic change. Operates Our Place resource center in partnership with Washoe County.",
+      "description": "RISE (Reno Initiative for Shelter & Equality) is a 501(c)(3) nonprofit founded in 2012, providing peer-to-peer homeless outreach, emergency shelter, meals, and housing assistance. Programs include OUR Place (low-barrier emergency shelter for women, families, and seniors at 605 S 21st St in Sparks), RISE and Dine (communal meals and free clothing market on Saturdays), Women and Children's CrossRoads (recovery support), the Living Room (rental vouchers and case management), the Good Neighbors Warming Center, and the TRUT Workforce Program providing forestry jobs to people experiencing homelessness.",
       "category": "mutual_aid",
       "contacts": [
         {
@@ -1982,25 +2120,30 @@
         {
           "type": "address",
           "value": "605 S 21st St, Sparks, NV 89431"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 327-7501",
+          "label": "OUR Place direct line"
         }
       ],
       "serviceArea": "Reno-Sparks",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Organización comunitaria que trabaja en defensa de personas sin hogar, ayuda mutua y cambio sistémico. Opera el centro de recursos Our Place en asociación con el Condado de Washoe.",
+          "description": "RISE es una organización sin fines de lucro 501(c)(3) fundada en 2012, que proporciona alcance entre compañeros, refugio de emergencia, comidas y asistencia de vivienda. Programas incluyen OUR Place (refugio de emergencia para mujeres, familias y personas mayores en Sparks), RISE and Dine (comidas comunitarias y ropa gratis los sábados), CrossRoads para mujeres, the Living Room (vouchers de alquiler), el Centro Good Neighbors Warming, y el Programa TRUT Workforce.",
           "serviceArea": "Reno-Sparks"
         },
         "tl": {
-          "description": "Community organization na nagtatrabaho sa homelessness advocacy, mutual aid, at systemic change. Pinapatakbo ang Our Place resource center sa pakikipagtulungan sa Washoe County.",
+          "description": "RISE ay isang 501(c)(3) nonprofit na itinatag noong 2012, nagbibigay ng peer-to-peer outreach, emergency shelter, pagkain, at housing assistance. Kasama sa mga programa ang OUR Place (emergency shelter para sa babae, pamilya, at matatanda sa Sparks), RISE and Dine (communal meals at libreng damit tuwing Sabado), Women's CrossRoads, the Living Room (rental vouchers), Good Neighbors Warming Center, at TRUT Workforce Program.",
           "serviceArea": "Reno-Sparks"
         },
         "zh": {
-          "description": "致力于无家可归者倡导、互助和系统性变革的社区组织。与瓦肖县合作运营Our Place资源中心。",
+          "description": "RISE是2012年成立的501(c)(3)非营利组织，提供同伴外展、紧急庇护、餐食和住房援助。项目包括OUR Place（斯帕克斯的女性、家庭和老年人紧急庇护所）、RISE and Dine（周六社区餐和免费服装）、女性CrossRoads、Living Room（租金券）、Good Neighbors取暖中心和TRUT劳动力项目。",
           "serviceArea": "里诺-斯帕克斯"
         },
         "vi": {
-          "description": "Tổ chức cộng đồng hoạt động về vận động cho người vô gia cư, tương trợ và thay đổi hệ thống. Điều hành trung tâm tài nguyên Our Place với Quận Washoe.",
+          "description": "RISE là tổ chức phi lợi nhuận 501(c)(3) thành lập năm 2012, cung cấp tiếp cận đồng đẳng, nơi trú ẩn khẩn cấp, bữa ăn và hỗ trợ nhà ở. Các chương trình bao gồm OUR Place (nơi trú ẩn cho phụ nữ, gia đình và người cao tuổi tại Sparks), RISE and Dine (bữa ăn cộng đồng và quần áo miễn phí thứ Bảy), CrossRoads cho phụ nữ, Living Room (phiếu thuê nhà), Good Neighbors Warming Center và chương trình TRUT Workforce.",
           "serviceArea": "Reno-Sparks"
         }
       }
@@ -2009,7 +2152,7 @@
       "id": "ext-hope-team",
       "type": "external",
       "name": "HOPE Team (Homeless Outreach Proactive Engagement)",
-      "description": "Washoe County Sheriff's outreach team connecting unhoused individuals with services and resources. Non-enforcement focused.",
+      "description": "The Washoe County Homeless Outreach Proactive Engagement (HOPE) Team identifies the needs of community members experiencing homelessness and provides appropriate resources. Two case managers conduct field outreach across the region. A separate HOPE Team under the Washoe County Sheriff's Office serves unincorporated areas including Sun Valley, Spanish Springs, Cold Springs, and Incline Village. Contact Housing and Homeless Services for referrals or outreach requests.",
       "category": "advocacy",
       "contacts": [
         {
@@ -2020,25 +2163,38 @@
         {
           "type": "website",
           "value": "https://www.washoesheriff.com/operations_bureau/patrol-division/HOPETeam.php"
+        },
+        {
+          "type": "address",
+          "value": "350 S Center St, Reno, NV 89501"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 325-8210",
+          "label": "Housing & Homeless Services"
+        },
+        {
+          "type": "email",
+          "value": "RegionalHomelessServices@washoecounty.gov"
         }
       ],
       "serviceArea": "Washoe County",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Equipo de alcance del Sheriff del Condado de Washoe que conecta a personas sin hogar con servicios y recursos. Enfocado en no aplicar la ley.",
+          "description": "El Equipo HOPE del Condado de Washoe identifica las necesidades de personas sin hogar y proporciona recursos apropiados. Dos gestores de casos realizan alcance en el campo. Un equipo HOPE separado bajo la Oficina del Sheriff atiende áreas no incorporadas. Contacte a Servicios de Vivienda y Personas sin Hogar para referencias.",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Washoe County Sheriff's outreach team na nagkokonekta sa mga unhoused na indibidwal sa mga serbisyo at resources. Hindi nakatuon sa enforcement.",
+          "description": "Ang Washoe County HOPE Team ay tumutukoy sa mga pangangailangan ng mga walang tirahan at nagbibigay ng angkop na resources. Dalawang case managers ang nagsasagawa ng field outreach. Isang hiwalay na HOPE Team sa ilalim ng Sheriff's Office ang nagsisilbi sa mga unincorporated areas. Kontakin ang Housing and Homeless Services para sa referrals.",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "瓦肖县警长办公室外展团队，帮助无家可归者获得服务和资源。非执法性质。",
+          "description": "瓦肖县HOPE团队识别无家可归社区成员的需求并提供相应资源。两名案例管理员在整个地区进行实地外展。警长办公室下属的独立HOPE团队服务非建制地区。联系住房和无家可归者服务获取转介。",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Đội tiếp cận của Cảnh sát trưởng Quận Washoe kết nối người vô gia cư với dịch vụ và tài nguyên. Không tập trung vào thực thi pháp luật.",
+          "description": "Đội HOPE Quận Washoe xác định nhu cầu của người vô gia cư và cung cấp tài nguyên phù hợp. Hai quản lý trường hợp tiến hành tiếp cận thực địa. Một đội HOPE riêng thuộc Văn phòng Cảnh sát trưởng phục vụ các khu vực chưa sáp nhập. Liên hệ Dịch vụ Nhà ở và Vô gia cư để giới thiệu.",
           "serviceArea": "Quận Washoe"
         }
       }
@@ -2047,31 +2203,39 @@
       "id": "ext-radical-cat",
       "type": "external",
       "name": "The Radical Cat",
-      "description": "Community organizing collective and newsletter focused on housing justice and tenant advocacy.",
+      "description": "Reno's only radical bookstore, cat adoption center, and community space in Midtown. Offers feminist, anarchist, LGBTQIA+, antiracist, and social justice literature (new and used), plus an adoptable cat lounge in partnership with the Nevada Humane Society. Hosts book clubs, author readings, craft workshops, panel discussions, live music, and organizing meetings for activist groups. Community bulletin board and event programming make it a hub for grassroots organizing.",
       "category": "advocacy",
       "contacts": [
         {
           "type": "website",
-          "value": "https://theradicalcat.org"
+          "value": "https://theradicalcat.com"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 409-3152"
+        },
+        {
+          "type": "address",
+          "value": "1500 S Virginia St, Reno, NV 89502"
         }
       ],
       "serviceArea": "Northern Nevada",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Colectivo de organización comunitaria y boletín enfocado en justicia de vivienda y defensa de inquilinos.",
+          "description": "La única librería radical, centro de adopción de gatos y espacio comunitario de Reno en Midtown. Ofrece literatura feminista, anarquista, LGBTQIA+, antirracista y de justicia social, además de un salón de gatos adoptables en asociación con Nevada Humane Society. Organiza clubes de lectura, lecturas de autores, talleres, música en vivo y reuniones de organización.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Community organizing collective at newsletter na nakatuon sa housing justice at tenant advocacy.",
+          "description": "Ang tanging radical bookstore, cat adoption center, at community space ng Reno sa Midtown. Nag-aalok ng feminist, anarchist, LGBTQIA+, antiracist, at social justice na literature, dagdag pa ang adoptable cat lounge kasama ang Nevada Humane Society. Nagho-host ng book clubs, author readings, workshops, live music, at organizing meetings.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "专注于住房正义和租户倡导的社区组织团体和通讯。",
+          "description": "里诺唯一的激进书店、猫咪领养中心和位于Midtown的社区空间。提供女权主义、无政府主义、LGBTQIA+、反种族主义和社会正义文学，以及与Nevada Humane Society合作的可领养猫咪休息室。举办读书会、作者朗读、工作坊、现场音乐和组织会议。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Tập thể tổ chức cộng đồng và bản tin tập trung vào công bằng nhà ở và vận động cho người thuê nhà.",
+          "description": "Hiệu sách cấp tiến, trung tâm nhận nuôi mèo và không gian cộng đồng duy nhất của Reno tại Midtown. Cung cấp văn học nữ quyền, vô chính phủ, LGBTQIA+, chống phân biệt chủng tộc và công bằng xã hội, cùng phòng mèo nhận nuôi hợp tác với Nevada Humane Society. Tổ chức câu lạc bộ sách, buổi đọc, hội thảo, nhạc sống và họp tổ chức.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -2080,31 +2244,31 @@
       "id": "ext-reno-qol-recovery",
       "type": "external",
       "name": "Reno Quality of Life - Recovery Services",
-      "description": "Directory of recovery services and resources for substance use disorders in the Reno area.",
+      "description": "Community-run resource hub aggregating services for unhoused individuals in Reno, operating through the @renounhoused Linktree and social media. Links to recovery services, shelters, domestic violence support, free medical care, mental health and substance use services, rental assistance, and practical needs like free phones and DMV fee waivers. Volunteer-maintained digital resource directory.",
       "category": "advocacy",
       "contacts": [
         {
           "type": "website",
-          "value": "https://linktr.ee/renoqol"
+          "value": "https://linktr.ee/renounhoused"
         }
       ],
       "serviceArea": "Reno",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Directorio de servicios de recuperación y recursos para trastornos por uso de sustancias en el área de Reno.",
+          "description": "Centro de recursos comunitario que agrega servicios para personas sin hogar en Reno a través de Linktree y redes sociales. Enlaces a servicios de recuperación, refugios, apoyo contra violencia doméstica, atención médica gratuita, servicios de salud mental y necesidades prácticas. Directorio digital mantenido por voluntarios.",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Direktoryo ng recovery services at resources para sa substance use disorders sa Reno area.",
+          "description": "Community-run resource hub na nag-aaggregate ng mga serbisyo para sa mga unhoused na indibidwal sa Reno sa pamamagitan ng Linktree at social media. May mga link sa recovery services, shelters, domestic violence support, libreng medical care, at mental health services. Volunteer-maintained digital resource directory.",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "里诺地区药物滥用障碍的康复服务和资源目录。",
+          "description": "社区运营的资源中心，通过Linktree和社交媒体汇集里诺无家可归者服务。链接到康复服务、庇护所、家暴支持、免费医疗、心理健康服务和实用需求。志愿者维护的数字资源目录。",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Danh bạ dịch vụ phục hồi và tài nguyên cho rối loạn sử dụng chất tại khu vực Reno.",
+          "description": "Trung tâm tài nguyên cộng đồng tổng hợp dịch vụ cho người vô gia cư tại Reno qua Linktree và mạng xã hội. Liên kết đến dịch vụ phục hồi, nơi trú ẩn, hỗ trợ bạo lực gia đình, chăm sóc y tế miễn phí, dịch vụ sức khỏe tâm thần và nhu cầu thực tế. Danh bạ tài nguyên số do tình nguyện viên duy trì.",
           "serviceArea": "Reno"
         }
       }
@@ -2113,7 +2277,7 @@
       "id": "ext-good-shepherd",
       "type": "external",
       "name": "Good Shepherd Lutheran Church",
-      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. ELCA congregation welcoming all people.",
+      "description": "Lutheran Church of the Good Shepherd (ELCA) has served downtown Reno since 1947 as a Reconciling in Christ congregation. Active community programs include weekly hot meals delivered to homeless youth at Eddy House every Monday, Shared Harvest Food Ministry delivering groceries to working-poor families, and support for the Armory Youth Project. Participates in the Good Neighbors Warming Center - a rotating winter overnight shelter (9 PM-6 AM, Nov-Mar) at four downtown churches for unhoused women and families.",
       "category": "faith",
       "contacts": [
         {
@@ -2138,22 +2302,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Parte de la rotación de centros de calentamiento Good Neighbors. Proporciona refugio nocturno durante clima frío. Congregación ELCA que da la bienvenida a todas las personas.",
+          "description": "Iglesia Luterana del Buen Pastor (ELCA) ha servido al centro de Reno desde 1947. Programas comunitarios incluyen comidas calientes semanales entregadas a jóvenes sin hogar en Eddy House, Ministerio de Cosecha Compartida entregando comestibles a familias trabajadoras, y apoyo al Proyecto Juvenil Armory. Participa en el Centro Good Neighbors Warming - refugio nocturno rotativo de invierno (9 PM-6 AM, Nov-Mar).",
           "eligibility": "Participante del centro de calentamiento Good Neighbors",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Bahagi ng Good Neighbors warming center rotation. Nagbibigay ng overnight shelter kapag malamig ang panahon. ELCA congregation na welcome ang lahat ng tao.",
+          "description": "Lutheran Church of the Good Shepherd (ELCA) na nagsisilbi sa downtown Reno mula 1947. Mga community program kasama ang lingguhang hot meals sa Eddy House, Shared Harvest Food Ministry na nagde-deliver ng groceries sa mga pamilya, at suporta sa Armory Youth Project. Lumahok sa Good Neighbors Warming Center - rotating winter overnight shelter (9 PM-6 AM, Nov-Mar).",
           "eligibility": "Good Neighbors warming center participant",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "Good Neighbors取暖中心轮值点之一。在寒冷天气提供夜间庇护。欢迎所有人的ELCA教会。",
+          "description": "善牧路德教会（ELCA）自1947年以来服务里诺市中心。社区项目包括每周一向Eddy House无家可归青年送热餐、共享丰收食物事工向工薪家庭送杂货，以及支持军械库青年项目。参与Good Neighbors取暖中心——冬季轮流夜间庇护所（11月-3月，晚9-早6点）。",
           "eligibility": "Good Neighbors取暖中心参与者",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Một phần của hệ thống luân phiên trung tâm sưởi ấm Good Neighbors. Cung cấp nơi trú ẩn qua đêm trong thời tiết lạnh. Hội thánh ELCA chào đón tất cả mọi người.",
+          "description": "Nhà thờ Luther Good Shepherd (ELCA) đã phục vụ trung tâm Reno từ 1947. Chương trình cộng đồng bao gồm bữa ăn nóng hàng tuần giao cho thanh thiếu niên vô gia cư tại Eddy House, Bộ Thực phẩm Shared Harvest giao tạp hóa cho gia đình, và hỗ trợ Dự án Thanh niên Armory. Tham gia Trung tâm Sưởi ấm Good Neighbors - nơi trú ẩn mùa đông luân phiên (9 PM-6 AM, tháng 11-3).",
           "eligibility": "Người tham gia trung tâm sưởi ấm Good Neighbors",
           "serviceArea": "Reno"
         }
@@ -2163,7 +2327,7 @@
       "id": "ext-st-thomas-aquinas",
       "type": "external",
       "name": "St. Thomas Aquinas Cathedral",
-      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. Catholic cathedral in downtown Reno, mother church of the Diocese of Reno.",
+      "description": "St. Thomas Aquinas Cathedral is the mother church of the Roman Catholic Diocese of Reno, established in 1907. Listed on the National Register of Historic Places (2022). Community programs include the Friars Pantry food ministry, Senior Ministry, and Legion of Mary outreach. Participates in the Good Neighbors Warming Center - a rotating winter overnight shelter (9 PM-6 AM, Nov-Mar) at four downtown churches for unhoused women and families.",
       "category": "faith",
       "contacts": [
         {
@@ -2184,22 +2348,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Parte de la rotación de centros de calentamiento Good Neighbors. Proporciona refugio nocturno durante clima frío. Catedral católica en el centro de Reno, iglesia madre de la Diócesis de Reno.",
+          "description": "Catedral madre de la Diócesis Católica Romana de Reno, establecida en 1907. Registrada en el Registro Nacional de Lugares Históricos (2022). Programas comunitarios incluyen la despensa Friars Pantry, Ministerio para Personas Mayores y alcance de la Legión de María. Participa en el Centro Good Neighbors Warming - refugio nocturno rotativo de invierno.",
           "eligibility": "Participante del centro de calentamiento Good Neighbors",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Bahagi ng Good Neighbors warming center rotation. Nagbibigay ng overnight shelter kapag malamig ang panahon. Katolikong katedral sa downtown Reno, mother church ng Diocese of Reno.",
+          "description": "Mother church ng Roman Catholic Diocese of Reno, itinatag noong 1907. Nasa National Register of Historic Places (2022). Mga community program kasama ang Friars Pantry food ministry, Senior Ministry, at Legion of Mary outreach. Lumahok sa Good Neighbors Warming Center - rotating winter overnight shelter.",
           "eligibility": "Good Neighbors warming center participant",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "Good Neighbors取暖中心轮值点之一。在寒冷天气提供夜间庇护。位于里诺市中心的天主教大教堂，里诺教区的母堂。",
+          "description": "里诺天主教教区的母堂，建于1907年。列入国家历史古迹名录（2022年）。社区项目包括修士食品储藏室、老年人事工和圣母军外展。参与Good Neighbors取暖中心——冬季轮流夜间庇护所。",
           "eligibility": "Good Neighbors取暖中心参与者",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Một phần của hệ thống luân phiên trung tâm sưởi ấm Good Neighbors. Cung cấp nơi trú ẩn qua đêm trong thời tiết lạnh. Nhà thờ Công giáo ở trung tâm Reno, nhà thờ mẹ của Giáo phận Reno.",
+          "description": "Nhà thờ mẹ của Giáo phận Công giáo Reno, thành lập năm 1907. Được liệt kê trong Sổ đăng ký Di tích Lịch sử Quốc gia (2022). Chương trình cộng đồng bao gồm kho thực phẩm Friars Pantry, Mục vụ Cao niên và tiếp cận Đạo quân Đức Mẹ. Tham gia Trung tâm Sưởi ấm Good Neighbors.",
           "eligibility": "Người tham gia trung tâm sưởi ấm Good Neighbors",
           "serviceArea": "Reno"
         }
@@ -2209,7 +2373,7 @@
       "id": "ext-first-united-methodist",
       "type": "external",
       "name": "First United Methodist Church",
-      "description": "Part of the Good Neighbors warming center rotation. Provides overnight shelter during cold weather. Historic downtown church founded 1868, listed on National Register of Historic Places.",
+      "description": "Reno's oldest church congregation (est. 1868), listed on the National Register of Historic Places (1983). Operates a food pantry on 1st and 3rd Saturdays at 8:30 AM (photo ID required). Year-round community outreach includes donations to Our Place women's shelter, Women and Children's Center of the Sierras, Habitat for Humanity, Ridge House, Northern Nevada HOPES, and the Food Bank. Participates in the Good Neighbors Warming Center - a rotating winter overnight shelter (9 PM-6 AM, Nov-Mar) at four downtown churches.",
       "category": "faith",
       "contacts": [
         {
@@ -2230,22 +2394,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Parte de la rotación de centros de calentamiento Good Neighbors. Proporciona refugio nocturno durante clima frío. Iglesia histórica del centro fundada en 1868, incluida en el Registro Nacional de Lugares Históricos.",
+          "description": "Congregación más antigua de Reno (est. 1868), registrada en el Registro Nacional de Lugares Históricos (1983). Opera una despensa de alimentos en el 1er y 3er sábado a las 8:30 AM. Alcance comunitario incluye donaciones a Our Place, Habitat for Humanity, Northern Nevada HOPES y el banco de alimentos. Participa en el Centro Good Neighbors Warming - refugio nocturno rotativo de invierno.",
           "eligibility": "Participante del centro de calentamiento Good Neighbors",
           "serviceArea": "Reno"
         },
         "tl": {
-          "description": "Bahagi ng Good Neighbors warming center rotation. Nagbibigay ng overnight shelter kapag malamig ang panahon. Makasaysayang downtown church na itinatag noong 1868, nasa National Register of Historic Places.",
+          "description": "Pinakamatandang kongregasyon ng Reno (est. 1868), nasa National Register of Historic Places (1983). Nagpapatakbo ng food pantry tuwing 1st at 3rd Saturday ng 8:30 AM. Community outreach kasama ang donations sa Our Place, Habitat for Humanity, Northern Nevada HOPES, at Food Bank. Lumahok sa Good Neighbors Warming Center - rotating winter overnight shelter.",
           "eligibility": "Good Neighbors warming center participant",
           "serviceArea": "Reno"
         },
         "zh": {
-          "description": "Good Neighbors取暖中心轮值点之一。在寒冷天气提供夜间庇护。始建于1868年的历史性市中心教堂，被列入国家历史古迹名录。",
+          "description": "里诺最古老的教会（建于1868年），列入国家历史古迹名录（1983年）。每月第1和第3个周六上午8:30运营食品储藏室。社区外展包括向Our Place、Habitat for Humanity、HOPES和食品银行捐赠。参与Good Neighbors取暖中心——冬季轮流夜间庇护所。",
           "eligibility": "Good Neighbors取暖中心参与者",
           "serviceArea": "里诺"
         },
         "vi": {
-          "description": "Một phần của hệ thống luân phiên trung tâm sưởi ấm Good Neighbors. Cung cấp nơi trú ẩn qua đêm trong thời tiết lạnh. Nhà thờ lịch sử trung tâm thành lập năm 1868, được liệt kê trong Sổ đăng ký Di tích Lịch sử Quốc gia.",
+          "description": "Giáo đoàn lâu đời nhất Reno (thành lập 1868), được liệt kê trong Sổ đăng ký Di tích Lịch sử Quốc gia (1983). Vận hành kho thực phẩm vào thứ Bảy đầu và thứ 3 lúc 8:30 AM. Tiếp cận cộng đồng bao gồm quyên góp cho Our Place, Habitat for Humanity, HOPES và Ngân hàng Thực phẩm. Tham gia Trung tâm Sưởi ấm Good Neighbors.",
           "eligibility": "Người tham gia trung tâm sưởi ấm Good Neighbors",
           "serviceArea": "Reno"
         }
@@ -2255,7 +2419,7 @@
       "id": "ext-pets-homeless",
       "type": "external",
       "name": "Pets of the Homeless",
-      "description": "National nonprofit providing pet food, veterinary care, and supplies to pets of homeless individuals. Local resources and donation sites.",
+      "description": "Feeding Pets of the Homeless is the first national nonprofit focused on providing food and emergency veterinary care to pets belonging to people experiencing homelessness, headquartered in Carson City, NV. Case managers conduct intake interviews to determine eligibility for veterinary assistance. Call the headquarters to see if you and your pet qualify for free emergency vet care. Also operates a network of feeding/donation sites across the country.",
       "category": "pet_services",
       "contacts": [
         {
@@ -2265,6 +2429,10 @@
         {
           "type": "website",
           "value": "https://petsofthehomeless.org/"
+        },
+        {
+          "type": "address",
+          "value": "710 W Washington St, Carson City, NV 89703"
         }
       ],
       "serviceArea": "Nationwide",
@@ -2272,22 +2440,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Organización nacional sin fines de lucro que proporciona alimentos para mascotas, atención veterinaria y suministros a mascotas de personas sin hogar. Recursos locales y sitios de donación.",
+          "description": "Primera organización nacional enfocada en proporcionar alimento y atención veterinaria de emergencia a mascotas de personas sin hogar, con sede en Carson City, NV. Gestores de casos realizan entrevistas de admisión para determinar elegibilidad. Llame para ver si califica para atención veterinaria de emergencia gratuita. También opera una red de sitios de alimentación/donación en todo el país.",
           "eligibility": "Dueños de mascotas sin hogar",
           "serviceArea": "Todo el país"
         },
         "tl": {
-          "description": "Pambansang nonprofit na nagbibigay ng pet food, veterinary care, at supplies sa mga alagang hayop ng mga homeless na indibidwal. Mga lokal na resources at donation sites.",
+          "description": "Unang pambansang nonprofit na nakatuon sa pagbibigay ng pagkain at emergency veterinary care sa mga pets ng mga taong walang tirahan, na headquartered sa Carson City, NV. Mga case managers ang nagsasagawa ng intake interviews para sa eligibility. Tumawag para malaman kung kwalipikado para sa libreng emergency vet care. May network din ng feeding/donation sites sa buong bansa.",
           "eligibility": "Mga homeless na may-ari ng alagang hayop",
           "serviceArea": "Buong bansa"
         },
         "zh": {
-          "description": "全国性非营利组织，为无家可归者的宠物提供宠物食品、兽医护理和用品。本地资源和捐赠站点。",
+          "description": "首个专注于为无家可归者宠物提供食物和紧急兽医护理的全国性非营利组织，总部位于内华达州卡森城。案例管理员进行入院面谈以确定资格。致电了解您和宠物是否符合免费紧急兽医护理资格。还在全国运营喂养/捐赠站点网络。",
           "eligibility": "无家可归的宠物主人",
           "serviceArea": "全国"
         },
         "vi": {
-          "description": "Tổ chức phi lợi nhuận quốc gia cung cấp thức ăn thú cưng, chăm sóc thú y và vật tư cho thú cưng của người vô gia cư. Tài nguyên địa phương và điểm quyên góp.",
+          "description": "Tổ chức phi lợi nhuận quốc gia đầu tiên chuyên cung cấp thức ăn và chăm sóc thú y khẩn cấp cho thú cưng của người vô gia cư, trụ sở tại Carson City, NV. Quản lý trường hợp phỏng vấn tiếp nhận để xác định đủ điều kiện. Gọi điện để xem bạn và thú cưng có đủ điều kiện chăm sóc thú y khẩn cấp miễn phí không. Cũng vận hành mạng lưới điểm cho ăn/quyên góp toàn quốc.",
           "eligibility": "Chủ thú cưng vô gia cư",
           "serviceArea": "Toàn quốc"
         }
@@ -2297,7 +2465,7 @@
       "id": "ext-noah-animal-house",
       "type": "external",
       "name": "Noah's Animal House",
-      "description": "Full-service pet facility on domestic violence shelter grounds. Allows survivors to keep their pets safe while in shelter. Reno location opened 2018 in partnership with Domestic Violence Resource Center.",
+      "description": "Full-service pet facility on domestic violence shelter grounds, removing the 'No Pets Allowed' barrier so survivors don't have to choose between safety and their pet. The Reno location (est. 2018) partners with the Domestic Violence Resource Center and also assists clients from Awaken, Eddy House, and Step2. All services are free - injured pets receive immediate medical care, and staff feed, groom, walk, and exercise pets while families are at work, in the hospital, or in court. Over 1,900 pets served across Reno and Las Vegas locations.",
       "category": "pet_services",
       "contacts": [
         {
@@ -2322,22 +2490,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Instalación de servicio completo para mascotas en los terrenos del refugio de violencia doméstica. Permite a los sobrevivientes mantener a sus mascotas seguras mientras están en el refugio. La ubicación de Reno abrió en 2018 en asociación con el Centro de Recursos de Violencia Doméstica.",
+          "description": "Instalación de servicio completo para mascotas en terrenos de refugio de violencia doméstica, eliminando la barrera 'No se permiten mascotas' para que los sobrevivientes no tengan que elegir entre seguridad y su mascota. La ubicación de Reno (est. 2018) es asociada con DVRC y también asiste clientes de Awaken, Eddy House y Step2. Todos los servicios gratuitos. Más de 1,900 mascotas atendidas.",
           "eligibility": "Residentes de refugio de violencia doméstica",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Full-service pet facility sa loob ng domestic violence shelter grounds. Pinapayagan ang mga survivor na panatilihing ligtas ang kanilang mga alagang hayop habang nasa shelter. Ang Reno location ay binuksan noong 2018 sa pakikipagtulungan sa Domestic Violence Resource Center.",
+          "description": "Full-service pet facility sa loob ng domestic violence shelter grounds, inaalis ang 'No Pets Allowed' barrier para hindi kailangang pumili ng mga survivor sa pagitan ng kaligtasan at kanilang pet. Ang Reno location (est. 2018) ay kasosyo ng DVRC at tumutulong din sa mga kliyente ng Awaken, Eddy House, at Step2. Lahat ng serbisyo ay libre. Mahigit 1,900 pets ang nasilbihan.",
           "eligibility": "Mga residente ng DV shelter",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "位于家庭暴力庇护所场地内的全方位宠物设施。让幸存者在庇护期间保护宠物安全。里诺分部于2018年与家庭暴力资源中心合作开设。",
+          "description": "位于家暴庇护所场地内的全方位宠物设施，消除'不允许宠物'障碍，让幸存者不必在安全和宠物之间选择。里诺分部（2018年成立）与DVRC合作，也服务Awaken、Eddy House和Step2的客户。所有服务免费。已服务1,900多只宠物。",
           "eligibility": "家暴庇护所居住者",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Cơ sở chăm sóc thú cưng đầy đủ dịch vụ trong khuôn viên nơi trú ẩn bạo lực gia đình. Cho phép người sống sót giữ thú cưng an toàn khi ở nơi trú ẩn. Địa điểm Reno khai trương năm 2018 hợp tác với Trung tâm Tài nguyên Bạo lực Gia đình.",
+          "description": "Cơ sở chăm sóc thú cưng đầy đủ trong khuôn viên nơi trú ẩn bạo lực gia đình, xóa bỏ rào cản 'Không cho phép thú cưng' để người sống sót không phải chọn giữa an toàn và thú cưng. Địa điểm Reno (2018) hợp tác với DVRC và cũng hỗ trợ khách hàng từ Awaken, Eddy House và Step2. Tất cả dịch vụ miễn phí. Đã phục vụ hơn 1.900 thú cưng.",
           "eligibility": "Cư dân nơi trú ẩn bạo lực gia đình",
           "serviceArea": "Quận Washoe"
         }
@@ -2347,7 +2515,7 @@
       "id": "ext-nevada-211",
       "type": "external",
       "name": "Nevada 211",
-      "description": "Free, confidential 24/7 resource hotline connecting Nevadans to essential services including food, housing, healthcare, mental health, and support for children, families, seniors, and people with disabilities. Translation services in 150+ languages.",
+      "description": "Nevada 211 is a statewide information and referral service connecting Nevadans with critical services including housing, food, healthcare, mental health support, and family services. Dial 2-1-1 from any Nevada phone, call (866) 535-5654 from anywhere, or text your zip code to 898-211 to chat with a specialist. The online database at nevada211.org is available 24/7. Translation services in 150+ languages.",
       "category": "crisis_mental_health",
       "contacts": [
         {
@@ -2374,22 +2542,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Línea de recursos gratuita, confidencial, 24/7 que conecta a los nevadenses con servicios esenciales incluyendo alimentos, vivienda, atención médica, salud mental y apoyo para niños, familias, personas mayores y personas con discapacidades. Servicios de traducción en más de 150 idiomas.",
+          "description": "Nevada 211 es un servicio de información y referencia estatal que conecta a nevadenses con servicios críticos incluyendo vivienda, alimentos, atención médica y apoyo de salud mental. Marque 2-1-1, llame al (866) 535-5654, o envíe su código postal al 898-211. Base de datos en línea disponible 24/7 en nevada211.org. Servicios de traducción en más de 150 idiomas.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Todo el estado"
         },
         "tl": {
-          "description": "Libre, confidential na 24/7 resource hotline na nagkokonekta sa mga taga-Nevada sa mga essential services kasama ang pagkain, tirahan, healthcare, mental health, at suporta para sa mga bata, pamilya, matatanda, at mga taong may kapansanan. Translation services sa mahigit 150 wika.",
+          "description": "Nevada 211 ay isang statewide na information at referral service na nagkokonekta sa mga taga-Nevada sa mga kritikal na serbisyo kasama ang tirahan, pagkain, healthcare, at mental health support. I-dial ang 2-1-1, tumawag sa (866) 535-5654, o i-text ang iyong zip code sa 898-211. Online database available 24/7 sa nevada211.org. Translation services sa mahigit 150 wika.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Buong estado"
         },
         "zh": {
-          "description": "免费、保密的24/7资源热线，帮助内华达州居民获取基本服务，包括食物、住房、医疗、心理健康以及儿童、家庭、老年人和残障人士的支持。提供150多种语言的翻译服务。",
+          "description": "Nevada 211是一项全州信息和转介服务，将内华达州居民与关键服务连接，包括住房、食品、医疗和心理健康支持。拨打2-1-1、致电(866) 535-5654，或发送邮编至898-211。在线数据库24/7可用。提供150多种语言的翻译服务。",
           "eligibility": "欢迎所有人",
           "serviceArea": "全州"
         },
         "vi": {
-          "description": "Đường dây tài nguyên miễn phí, bảo mật 24/7 kết nối người Nevada với các dịch vụ thiết yếu bao gồm thực phẩm, nhà ở, chăm sóc sức khỏe, sức khỏe tâm thần và hỗ trợ cho trẻ em, gia đình, người cao tuổi và người khuyết tật. Dịch vụ phiên dịch hơn 150 ngôn ngữ.",
+          "description": "Nevada 211 là dịch vụ thông tin và giới thiệu toàn tiểu bang kết nối người Nevada với dịch vụ quan trọng bao gồm nhà ở, thực phẩm, y tế và hỗ trợ sức khỏe tâm thần. Gọi 2-1-1, gọi (866) 535-5654, hoặc nhắn mã bưu chính đến 898-211. Cơ sở dữ liệu trực tuyến 24/7 tại nevada211.org. Dịch vụ phiên dịch hơn 150 ngôn ngữ.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Toàn tiểu bang"
         }
@@ -2446,7 +2614,7 @@
       "id": "ext-nami-nn",
       "type": "external",
       "name": "NAMI Northern Nevada",
-      "description": "Free mental health support, education, and advocacy. Offers support groups, educational programs, and 24-hour emergency resources including mobile outreach safety team and crisis support hotline. Helps residents access quality housing, employment, healthcare, and education.",
+      "description": "NAMI Northern Nevada (est. 1989) is the local affiliate of the National Alliance on Mental Illness, serving Washoe County with peer support groups, family support groups, education courses (NAMI signature programs), advocacy, and resource referrals. For crisis situations call or text 988. The national NAMI HelpLine (1-800-950-6264) provides general information and referrals; text 'NAMI' to 62640 for help.",
       "category": "crisis_mental_health",
       "contacts": [
         {
@@ -2457,6 +2625,19 @@
         {
           "type": "website",
           "value": "https://naminorthernnevada.org"
+        },
+        {
+          "type": "address",
+          "value": "3100 Mill St, Ste 114, Reno, NV 89502"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 433-1470",
+          "label": "Local Office"
+        },
+        {
+          "type": "email",
+          "value": "info@naminorthernnevada.org"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -2464,22 +2645,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Apoyo gratuito de salud mental, educación y defensa. Ofrece grupos de apoyo, programas educativos y recursos de emergencia 24 horas incluyendo equipo de seguridad de alcance móvil y línea de apoyo en crisis. Ayuda a los residentes a acceder a vivienda, empleo, atención médica y educación de calidad.",
+          "description": "NAMI Northern Nevada (est. 1989) es la filial local de la Alianza Nacional sobre Enfermedades Mentales, sirviendo al Condado de Washoe con grupos de apoyo, programas educativos, defensa y referencias de recursos. Para situaciones de crisis llame o envíe un mensaje al 988. La línea de ayuda nacional NAMI (1-800-950-6264) proporciona información y referencias.",
           "eligibility": "Todos bienvenidos",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Libreng mental health support, edukasyon, at advocacy. Nag-aalok ng support groups, educational programs, at 24-hour emergency resources kasama ang mobile outreach safety team at crisis support hotline. Tinutulungan ang mga residente na ma-access ang quality na tirahan, trabaho, healthcare, at edukasyon.",
+          "description": "NAMI Northern Nevada (est. 1989) ay ang lokal na affiliate ng National Alliance on Mental Illness, nagsisilbi sa Washoe County na may peer support groups, educational programs, advocacy, at resource referrals. Para sa krisis tumawag o mag-text sa 988. Ang national NAMI HelpLine (1-800-950-6264) ay nagbibigay ng impormasyon at referrals.",
           "eligibility": "Lahat ay malugod na tinatanggap",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "免费心理健康支持、教育和倡导。提供支持小组、教育项目和24小时紧急资源，包括移动外展安全团队和危机支持热线。帮助居民获得优质住房、就业、医疗和教育。",
+          "description": "NAMI Northern Nevada（成立于1989年）是全国精神疾病联盟的地方分会，通过同伴支持小组、教育项目、倡导和资源转介服务瓦肖县。危机情况请拨打或发短信至988。全国NAMI帮助热线（1-800-950-6264）提供信息和转介。",
           "eligibility": "欢迎所有人",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Hỗ trợ sức khỏe tâm thần, giáo dục và vận động miễn phí. Cung cấp nhóm hỗ trợ, chương trình giáo dục và tài nguyên khẩn cấp 24 giờ bao gồm đội an toàn tiếp cận lưu động và đường dây hỗ trợ khủng hoảng. Giúp cư dân tiếp cận nhà ở, việc làm, chăm sóc sức khỏe và giáo dục chất lượng.",
+          "description": "NAMI Northern Nevada (thành lập 1989) là chi nhánh địa phương của Liên minh Quốc gia về Bệnh Tâm thần, phục vụ Quận Washoe với nhóm hỗ trợ đồng đẳng, chương trình giáo dục, vận động và giới thiệu tài nguyên. Trong tình huống khủng hoảng, gọi hoặc nhắn 988. Đường dây trợ giúp NAMI quốc gia (1-800-950-6264) cung cấp thông tin và giới thiệu.",
           "eligibility": "Chào đón tất cả mọi người",
           "serviceArea": "Bắc Nevada"
         }
@@ -2489,7 +2670,7 @@
       "id": "ext-dcfs-mcrt",
       "type": "external",
       "name": "DCFS Mobile Crisis Response Team",
-      "description": "Mobile crisis response and stabilization services for youth under 18. Provides community-based mental health therapy, medication management, early childhood day treatment, and wraparound care coordination.",
+      "description": "The DCFS Mobile Crisis Response Team provides immediate mobile crisis response, assessment, intervention, and support for Nevada youth (under 18, or 18 if still in high school) experiencing a mental or behavioral health crisis. A master's-level clinician and psychiatric caseworker respond to the family's location to stabilize youth, create safety plans, and link to ongoing services. Available 24/7 by phone; in-person response Mon-Fri 8 AM-8 PM, Sat-Sun 8 AM-6 PM.",
       "category": "crisis_mental_health",
       "contacts": [
         {
@@ -2500,6 +2681,11 @@
         {
           "type": "website",
           "value": "https://dcfs.nv.gov/programs/cmh/"
+        },
+        {
+          "type": "address",
+          "value": "2655 Enterprise Rd, Reno, NV 89512",
+          "label": "Admin office"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -2507,19 +2693,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios de respuesta y estabilización de crisis móvil para jóvenes menores de 18 años. Proporciona terapia de salud mental comunitaria, manejo de medicamentos, tratamiento diurno de primera infancia y coordinación de atención integral.",
+          "description": "El Equipo de Respuesta Móvil a Crisis del DCFS proporciona respuesta inmediata, evaluación e intervención para jóvenes de Nevada (menores de 18) en crisis de salud mental o conductual. Un clínico de nivel maestría y un trabajador social responden a la ubicación de la familia. Disponible 24/7 por teléfono; respuesta en persona Lun-Vie 8 AM-8 PM, Sáb-Dom 8 AM-6 PM.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Mobile crisis response at stabilization services para sa kabataan wala pang 18. Nagbibigay ng community-based mental health therapy, medication management, early childhood day treatment, at wraparound care coordination.",
+          "description": "Ang DCFS Mobile Crisis Response Team ay nagbibigay ng agarang mobile crisis response, assessment, at intervention para sa mga kabataan ng Nevada (wala pang 18) na nakakaranas ng mental o behavioral health crisis. Isang master's-level clinician at psychiatric caseworker ang tumutugon sa lokasyon ng pamilya. Available 24/7 sa telepono; personal response Lun-Biy 8 AM-8 PM, Sab-Lin 8 AM-6 PM.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "面向18岁以下青少年的流动危机响应和稳定服务。提供社区心理健康治疗、药物管理、幼儿日间治疗和全方位护理协调。",
+          "description": "DCFS流动危机响应团队为经历心理或行为健康危机的内华达州青少年（18岁以下）提供即时响应、评估和干预。硕士级临床医生和精神科社工前往家庭所在地。电话24/7可用；现场响应周一至周五8 AM-8 PM，周末8 AM-6 PM。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Dịch vụ ứng phó và ổn định khủng hoảng lưu động cho thanh thiếu niên dưới 18 tuổi. Cung cấp trị liệu sức khỏe tâm thần cộng đồng, quản lý thuốc, điều trị ban ngày cho trẻ nhỏ và phối hợp chăm sóc toàn diện.",
+          "description": "Đội Ứng phó Khủng hoảng Lưu động DCFS cung cấp phản ứng ngay lập tức, đánh giá và can thiệp cho thanh thiếu niên Nevada (dưới 18) đang trong khủng hoảng sức khỏe tâm thần hoặc hành vi. Bác sĩ lâm sàng cấp thạc sĩ và nhân viên xã hội đến địa điểm gia đình. Điện thoại 24/7; đến trực tiếp T2-T6 8 AM-8 PM, T7-CN 8 AM-6 PM.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -2528,7 +2714,7 @@
       "id": "ext-reno-behavioral",
       "type": "external",
       "name": "Reno Behavioral Healthcare Hospital",
-      "description": "Free and confidential mental health assessments available 24/7 to help determine the best treatment plan. Provides inpatient and outpatient mental health services.",
+      "description": "Reno Behavioral Healthcare Hospital is a 124-bed facility providing comprehensive psychiatric, addiction, and eating disorder treatment for adolescents and adults. Services include medically supervised detox, inpatient treatment, intensive outpatient programs (IOP), the Flourish adolescent psychiatric residential treatment program, and trauma-informed care. Free and confidential mental health assessments available 24/7 by calling the admissions line.",
       "category": "crisis_mental_health",
       "contacts": [
         {
@@ -2553,22 +2739,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Evaluaciones de salud mental gratuitas y confidenciales disponibles 24/7 para ayudar a determinar el mejor plan de tratamiento. Proporciona servicios de salud mental hospitalarios y ambulatorios.",
+          "description": "Hospital de salud conductual de 124 camas que proporciona tratamiento psiquiátrico, de adicción y trastornos alimentarios para adolescentes y adultos. Servicios incluyen desintoxicación supervisada médicamente, tratamiento hospitalario, programas ambulatorios intensivos (IOP), programa residencial Flourish para adolescentes y atención informada por trauma. Evaluaciones gratuitas y confidenciales 24/7.",
           "eligibility": "Evaluaciones gratuitas para todos",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Libre at confidential na mental health assessments na available 24/7 para matulungang matukoy ang pinakamahusay na treatment plan. Nagbibigay ng inpatient at outpatient mental health services.",
+          "description": "124-bed na behavioral healthcare hospital na nagbibigay ng psychiatric, addiction, at eating disorder treatment para sa mga adolescent at adult. Kasama sa mga serbisyo ang medically supervised detox, inpatient treatment, intensive outpatient programs (IOP), Flourish adolescent residential program, at trauma-informed care. Libre at confidential na mental health assessments 24/7.",
           "eligibility": "Libreng assessments para sa lahat",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "全天候提供免费保密的心理健康评估，帮助确定最佳治疗方案。提供住院和门诊心理健康服务。",
+          "description": "124床位行为健康医院，为青少年和成人提供精神科、成瘾和饮食障碍治疗。服务包括医学监督戒毒、住院治疗、密集门诊项目（IOP）、Flourish青少年住院项目和创伤知情护理。24/7免费保密心理健康评估。",
           "eligibility": "免费评估，面向所有人",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Đánh giá sức khỏe tâm thần miễn phí và bảo mật 24/7 để giúp xác định kế hoạch điều trị tốt nhất. Cung cấp dịch vụ sức khỏe tâm thần nội trú và ngoại trú.",
+          "description": "Bệnh viện chăm sóc sức khỏe hành vi 124 giường cung cấp điều trị tâm thần, nghiện và rối loạn ăn uống cho thanh thiếu niên và người lớn. Dịch vụ bao gồm cai nghiện có giám sát y tế, điều trị nội trú, chương trình ngoại trú chuyên sâu (IOP), chương trình Flourish cho thanh thiếu niên và chăm sóc nhận thức chấn thương. Đánh giá sức khỏe tâm thần miễn phí và bảo mật 24/7.",
           "eligibility": "Đánh giá miễn phí cho tất cả",
           "serviceArea": "Bắc Nevada"
         }
@@ -2578,7 +2764,7 @@
       "id": "ext-washoe-senior-services",
       "type": "external",
       "name": "Washoe County Senior Services",
-      "description": "Comprehensive services for adults 60+ including nutritious meals, in-home assistance, emotional health programs, residential care, and financial management support. Programs include homemaker services, case management, representative payee, and group homes.",
+      "description": "Washoe County Senior Services (HSA division) has served older adults for over 40 years. Programs include case management, Daybreak Adult Day Health Care (Mon-Fri 7:30 AM-5:30 PM), congregate meals, Meals on Wheels (up to 7 home-delivered meals/week), homemaker services, free transportation for seniors/disabled/low-income, the Representative Payee Program, and CONNECTIONS Central social engagement program. Also administers Washoe Senior Ride/Taxi Bucks through RTC.",
       "category": "senior_services",
       "contacts": [
         {
@@ -2596,6 +2782,10 @@
         {
           "type": "address",
           "value": "1155 E 9th St #25, Reno, NV 89512"
+        },
+        {
+          "type": "email",
+          "value": "sr_info@washoecounty.gov"
         }
       ],
       "serviceArea": "Washoe County",
@@ -2603,19 +2793,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios integrales para adultos de 60+ incluyendo comidas nutritivas, asistencia en el hogar, programas de salud emocional, cuidado residencial y apoyo de gestión financiera. Los programas incluyen servicios de ama de casa, gestión de casos, representante de pagos y hogares grupales.",
+          "description": "Servicios para Personas Mayores del Condado de Washoe (división HSA) ha servido a adultos mayores por más de 40 años. Programas incluyen gestión de casos, Daybreak (cuidado diurno), comidas congregadas, Meals on Wheels, servicios de ama de casa, transporte gratuito, Representante de Pagos y programa CONNECTIONS Central. También administra el programa Washoe Senior Ride/Taxi Bucks a través de RTC.",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Komprehensibong serbisyo para sa mga adult na 60+ kasama ang masustansiyang pagkain, in-home assistance, emotional health programs, residential care, at financial management support. Kasama sa mga programa ang homemaker services, case management, representative payee, at group homes.",
+          "description": "Washoe County Senior Services (HSA division) na nagsisilbi sa mga matatandang adult sa mahigit 40 taon. Kasama sa mga programa ang case management, Daybreak Adult Day Health Care, congregate meals, Meals on Wheels, homemaker services, libreng transportasyon, Representative Payee Program, at CONNECTIONS Central. Nag-aadminister din ng Washoe Senior Ride/Taxi Bucks sa pamamagitan ng RTC.",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "为60岁以上成年人提供综合服务，包括营养餐食、居家援助、情绪健康项目、居住护理和财务管理支持。项目包括家政服务、案例管理、代理收款人和集体住宅。",
+          "description": "瓦肖县老年人服务（HSA部门）已为老年人服务超过40年。项目包括案例管理、Daybreak成人日间护理、集体用餐、送餐上门、家政服务、免费交通、代理收款人项目和CONNECTIONS Central社交项目。还通过RTC管理Washoe Senior Ride/Taxi Bucks项目。",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Dịch vụ toàn diện cho người lớn 60+ bao gồm bữa ăn dinh dưỡng, hỗ trợ tại nhà, chương trình sức khỏe tinh thần, chăm sóc cư trú và hỗ trợ quản lý tài chính. Chương trình bao gồm dịch vụ giúp việc nhà, quản lý trường hợp, người nhận thanh toán đại diện và nhà ở nhóm.",
+          "description": "Dịch vụ Cao niên Quận Washoe (bộ phận HSA) đã phục vụ người cao tuổi hơn 40 năm. Chương trình bao gồm quản lý trường hợp, Daybreak chăm sóc ban ngày, bữa ăn tập thể, Meals on Wheels, dịch vụ giúp việc nhà, giao thông miễn phí, Chương trình Người nhận Thanh toán và CONNECTIONS Central. Cũng quản lý chương trình Washoe Senior Ride/Taxi Bucks qua RTC.",
           "serviceArea": "Quận Washoe"
         }
       }
@@ -2624,41 +2814,114 @@
       "id": "ext-senior-ride",
       "type": "external",
       "name": "Washoe Senior Ride (Taxi Bucks)",
-      "description": "Subsidized taxi program for seniors. Provides transportation assistance for medical appointments, shopping, and other essential trips.",
+      "description": "The Washoe Senior Ride (WSR) Taxi Bucks program provides a $60/month taxi fare subsidy for eligible participants (Reno/Sparks residents 60+, RTC ACCESS clients, or veterans of any age) loaded onto an RTC WSR CardONE card. Participants can alternatively receive $60/month in free Lyft or Uber rides. Apply in person at the RTC 4th Street terminal. Must have valid Nevada ID with Reno or Sparks address.",
       "category": "senior_services",
       "contacts": [
         {
           "type": "phone",
-          "value": "(775) 328-2575"
+          "value": "(775) 348-0477",
+          "label": "RTC Mobility Center"
         },
         {
           "type": "website",
           "value": "https://www.washoecounty.gov/seniorsrv/programs_and_services/index.php"
+        },
+        {
+          "type": "address",
+          "value": "1105 Terminal Way, Reno, NV 89502",
+          "label": "RTC of Washoe County"
         }
       ],
       "serviceArea": "Washoe County",
-      "eligibility": "Seniors",
+      "eligibility": "Reno/Sparks residents 60+, RTC ACCESS clients, or veterans",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Programa de taxi subsidiado para personas mayores. Proporciona asistencia de transporte para citas médicas, compras y otros viajes esenciales.",
+          "description": "El programa Taxi Bucks proporciona un subsidio de $60/mes en tarifas de taxi para participantes elegibles (residentes de Reno/Sparks de 60+, clientes RTC ACCESS o veteranos) cargado en una tarjeta RTC WSR CardONE. Alternativamente, $60/mes en viajes gratuitos de Lyft o Uber. Solicite en persona en la terminal RTC 4th Street. Se requiere identificación de Nevada.",
           "eligibility": "Personas mayores",
           "serviceArea": "Condado de Washoe"
         },
         "tl": {
-          "description": "Subsidized na programa ng taxi para sa mga matatanda. Nagbibigay ng tulong sa transportasyon para sa medical appointments, pamimili, at iba pang mahahalagang biyahe.",
+          "description": "Ang Taxi Bucks program ay nagbibigay ng $60/buwang taxi fare subsidy para sa eligible participants (Reno/Sparks residents 60+, RTC ACCESS clients, o veterans) na loaded sa RTC WSR CardONE card. Alternatibong $60/buwan sa libreng Lyft o Uber rides. Mag-apply personal sa RTC 4th Street terminal. Kailangan ng Nevada ID.",
           "eligibility": "Mga matatanda",
           "serviceArea": "Kondado ng Washoe"
         },
         "zh": {
-          "description": "为老年人提供的补贴出租车项目。为医疗预约、购物和其他必要出行提供交通援助。",
+          "description": "Taxi Bucks项目为符合条件的参与者（里诺/斯帕克斯60+居民、RTC ACCESS客户或退伍军人）提供每月$60出租车补贴，载入RTC WSR CardONE卡。也可选择每月$60免费Lyft或Uber。亲自到RTC 4th Street终端申请。需要内华达州身份证。",
           "eligibility": "老年人",
           "serviceArea": "瓦肖县"
         },
         "vi": {
-          "description": "Chương trình taxi trợ giá cho người cao tuổi. Cung cấp hỗ trợ giao thông cho cuộc hẹn y tế, mua sắm và các chuyến đi thiết yếu khác.",
+          "description": "Chương trình Taxi Bucks cung cấp trợ cấp taxi $60/tháng cho người tham gia đủ điều kiện (cư dân Reno/Sparks 60+, khách hàng RTC ACCESS hoặc cựu chiến binh) nạp vào thẻ RTC WSR CardONE. Hoặc $60/tháng xe Lyft/Uber miễn phí. Đăng ký trực tiếp tại bến RTC 4th Street. Cần ID Nevada.",
           "eligibility": "Người cao tuổi",
           "serviceArea": "Quận Washoe"
+        },
+        "eligibility": {
+          "0": "C",
+          "1": "ư",
+          "2": " ",
+          "3": "d",
+          "4": "â",
+          "5": "n",
+          "6": " ",
+          "7": "R",
+          "8": "e",
+          "9": "n",
+          "10": "o",
+          "11": "/",
+          "12": "S",
+          "13": "p",
+          "14": "a",
+          "15": "r",
+          "16": "k",
+          "17": "s",
+          "18": " ",
+          "19": "6",
+          "20": "0",
+          "21": "+",
+          "22": ",",
+          "23": " ",
+          "24": "k",
+          "25": "h",
+          "26": "á",
+          "27": "c",
+          "28": "h",
+          "29": " ",
+          "30": "h",
+          "31": "à",
+          "32": "n",
+          "33": "g",
+          "34": " ",
+          "35": "R",
+          "36": "T",
+          "37": "C",
+          "38": " ",
+          "39": "A",
+          "40": "C",
+          "41": "C",
+          "42": "E",
+          "43": "S",
+          "44": "S",
+          "45": " ",
+          "46": "h",
+          "47": "o",
+          "48": "ặ",
+          "49": "c",
+          "50": " ",
+          "51": "c",
+          "52": "ự",
+          "53": "u",
+          "54": " ",
+          "55": "c",
+          "56": "h",
+          "57": "i",
+          "58": "ế",
+          "59": "n",
+          "60": " ",
+          "61": "b",
+          "62": "i",
+          "63": "n",
+          "64": "h"
         }
       }
     },
@@ -2666,7 +2929,7 @@
       "id": "ext-fbnn-seniors",
       "type": "external",
       "name": "Food Bank Senior Nutrition Program",
-      "description": "Monthly food boxes for seniors 60+ through the USDA Commodity Supplemental Food Program. Provides nutritious food to supplement diets of low-income elderly.",
+      "description": "The Food Bank of Northern Nevada's Senior Nutrition and Wellness Program (SNWP) provides a free monthly food box to eligible seniors at 40+ distribution sites across Reno, Sparks, and rural northern Nevada. Boxes include canned meat, vegetables, fruit, cereal, pasta, rice, milk, dry beans or peanut butter, and American cheese. Fresh fruits and vegetables also available at distribution sites. Part of USDA Commodity Supplemental Food Program.",
       "category": "senior_services",
       "contacts": [
         {
@@ -2676,6 +2939,11 @@
         {
           "type": "website",
           "value": "https://www.fbnn.org/gethelp/seniors/"
+        },
+        {
+          "type": "address",
+          "value": "550 Italy Dr, Sparks, NV 89437",
+          "label": "Food Bank headquarters"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -2683,19 +2951,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Cajas de alimentos mensuales para personas mayores de 60+ a través del Programa de Alimentos Suplementarios de Productos Básicos del USDA. Proporciona alimentos nutritivos para complementar las dietas de personas mayores de bajos ingresos.",
+          "description": "El Programa de Nutrición para Personas Mayores (SNWP) del Banco de Alimentos proporciona una caja de alimentos mensual gratuita en más de 40 sitios de distribución en Reno, Sparks y zonas rurales. Las cajas incluyen carne enlatada, verduras, frutas, cereales, pasta, arroz, leche, frijoles y queso americano. Frutas y verduras frescas también disponibles. Parte del programa CSFP del USDA.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Buwanang food boxes para sa mga matatanda 60+ sa pamamagitan ng USDA Commodity Supplemental Food Program. Nagbibigay ng masustansiyang pagkain para dagdagan ang diyeta ng mga low-income na matatanda.",
+          "description": "Ang Senior Nutrition and Wellness Program (SNWP) ng Food Bank ay nagbibigay ng libreng buwanang food box sa eligible seniors sa mahigit 40 distribution sites sa Reno, Sparks, at rural na Hilagang Nevada. Ang mga kahon ay may canned meat, gulay, prutas, cereal, pasta, bigas, gatas, beans, at American cheese. Mga sariwang prutas at gulay ay available din. Bahagi ng USDA CSFP.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "通过USDA商品补充食品计划为60岁以上老年人提供每月食品箱。为低收入老年人提供营养食品补充饮食。",
+          "description": "食品银行的老年人营养和健康项目（SNWP）在里诺、斯帕克斯和农村北内华达40多个分发点为合格老年人提供免费月度食品箱。包含罐装肉类、蔬菜、水果、谷物、意面、大米、牛奶、豆类和美国奶酪。分发点也提供新鲜果蔬。属于USDA CSFP项目。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Hộp thực phẩm hàng tháng cho người cao tuổi 60+ thông qua Chương trình Thực phẩm Bổ sung Hàng hóa USDA. Cung cấp thực phẩm dinh dưỡng bổ sung chế độ ăn cho người cao tuổi thu nhập thấp.",
+          "description": "Chương trình Dinh dưỡng Cao niên (SNWP) của Ngân hàng Thực phẩm cung cấp hộp thực phẩm miễn phí hàng tháng tại 40+ điểm phân phối ở Reno, Sparks và Bắc Nevada nông thôn. Hộp gồm thịt đóng hộp, rau, trái cây, ngũ cốc, mì ống, gạo, sữa, đậu và phô mai Mỹ. Trái cây và rau tươi cũng có sẵn. Thuộc chương trình CSFP của USDA.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -2810,6 +3078,10 @@
         {
           "type": "website",
           "value": "https://detr.nv.gov"
+        },
+        {
+          "type": "address",
+          "value": "1325 Corporate Blvd, Reno, NV 89502"
         }
       ],
       "serviceArea": "Statewide",
@@ -2898,6 +3170,10 @@
         {
           "type": "website",
           "value": "https://rtcwashoe.com/public-transportation/fares-passes/"
+        },
+        {
+          "type": "address",
+          "value": "1105 Terminal Way, Reno, NV 89502"
         }
       ],
       "serviceArea": "Reno-Sparks",
@@ -2935,11 +3211,15 @@
       "contacts": [
         {
           "type": "phone",
-          "value": "(775) 324-7006"
+          "value": "(775) 284-8989"
         },
         {
           "type": "website",
           "value": "https://www.accesstohealthcare.org/services-for-individuals/non-emergency-medical-transportation/"
+        },
+        {
+          "type": "address",
+          "value": "4001 S Virginia St, Ste F, Reno, NV 89502"
         }
       ],
       "serviceArea": "Washoe County",
@@ -3077,7 +3357,7 @@
         },
         {
           "type": "address",
-          "value": "480 E Moana Lane, Reno, NV 89502"
+          "value": "500 E 4th St, Reno, NV 89512"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -3174,7 +3454,7 @@
         },
         {
           "type": "address",
-          "value": "2820 W Charleston Blvd #11, Las Vegas, NV 89102"
+          "value": "1875 Plumas St, Suite 1, Reno, NV 89509"
         }
       ],
       "serviceArea": "Statewide",
@@ -3217,6 +3497,11 @@
         {
           "type": "address",
           "value": "3416 Goni Rd D-132, Carson City, NV 89706"
+        },
+        {
+          "type": "address",
+          "value": "9670 Gateway Dr, Suite 200, Reno, NV 89521",
+          "label": "Reno Office"
         }
       ],
       "serviceArea": "Statewide",
@@ -3337,31 +3622,40 @@
       "id": "ext-nn-pride",
       "type": "external",
       "name": "Northern Nevada Pride",
-      "description": "LGBTQ+ advocacy, community events, and Pride celebrations. Supports the activities of Our Center. Promotes rights and wellbeing of the LGBTQ+ community through public awareness and events.",
+      "description": "Northern Nevada Pride is the annual LGBTQ+ pride festival in Reno, produced by Our Center. The event typically takes place in Midtown Reno each September and features the CommUNITY Pride Parade and an all-day festival. Advocates for LGBTQ+ visibility, community building, and celebration across the region.",
       "category": "lgbtq_services",
       "contacts": [
         {
           "type": "website",
           "value": "https://northernnevadapride.org"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 624-3720"
+        },
+        {
+          "type": "address",
+          "value": "1745 S Wells Ave, Reno, NV 89502",
+          "label": "Our Center"
         }
       ],
       "serviceArea": "Northern Nevada",
       "verified": true,
       "translations": {
         "es": {
-          "description": "Defensa LGBTQ+, eventos comunitarios y celebraciones del Orgullo. Apoya las actividades de Our Center. Promueve los derechos y el bienestar de la comunidad LGBTQ+ a través de la conciencia pública y eventos.",
+          "description": "Northern Nevada Pride es el festival anual de orgullo LGBTQ+ en Reno, producido por Our Center. El evento generalmente se lleva a cabo en Midtown Reno cada septiembre con el Desfile de Orgullo CommUNITY y un festival de todo el día. Aboga por la visibilidad y construcción de comunidad LGBTQ+.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "LGBTQ+ advocacy, community events, at Pride celebrations. Sinusuportahan ang mga gawain ng Our Center. Pinapromote ang mga karapatan at kapakanan ng LGBTQ+ community sa pamamagitan ng public awareness at events.",
+          "description": "Northern Nevada Pride ay ang taunang LGBTQ+ pride festival sa Reno, na produced ng Our Center. Ang event ay karaniwang ginaganap sa Midtown Reno tuwing Setyembre na may CommUNITY Pride Parade at all-day festival. Nag-aadvocate para sa LGBTQ+ visibility at community building.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "LGBTQ+倡导、社区活动和骄傲庆典。支持Our Center的活动。通过公众意识和活动促进LGBTQ+社区的权利和福祉。",
+          "description": "Northern Nevada Pride是里诺的年度LGBTQ+骄傲节，由Our Center制作。活动通常于每年9月在Midtown Reno举行，包括CommUNITY骄傲游行和全天节日。倡导LGBTQ+可见性和社区建设。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Vận động LGBTQ+, sự kiện cộng đồng và lễ hội Pride. Hỗ trợ các hoạt động của Our Center. Thúc đẩy quyền lợi và phúc lợi của cộng đồng LGBTQ+ thông qua nâng cao nhận thức và sự kiện.",
+          "description": "Northern Nevada Pride là lễ hội tự hào LGBTQ+ hàng năm tại Reno, do Our Center tổ chức. Sự kiện thường diễn ra tại Midtown Reno vào tháng 9 với Cuộc diễu hành CommUNITY Pride và lễ hội cả ngày. Vận động cho sự hiện diện và xây dựng cộng đồng LGBTQ+.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -3412,7 +3706,7 @@
       "id": "ext-ccsnn-reentry",
       "type": "external",
       "name": "Catholic Charities Reentry Programs",
-      "description": "Reentry and recovery programs for formerly incarcerated individuals including Battle Born Housing Plus and St. Marguerite Support Services. Designed to reduce recidivism, promote recovery, provide basic needs, and support long-term reintegration.",
+      "description": "Catholic Charities of Northern Nevada operates reentry and recovery programs including Battle Born Housing Plus (BBH+) and the Crossroads Sober Living Program. Provides supportive housing, case management, crisis intervention, and integrated services for individuals who are formerly incarcerated, homeless, or struggling with substance use disorder or mental health conditions.",
       "category": "reentry_services",
       "contacts": [
         {
@@ -3422,6 +3716,10 @@
         {
           "type": "website",
           "value": "https://ccsnn.org"
+        },
+        {
+          "type": "address",
+          "value": "500 E 4th St, Reno, NV 89512"
         }
       ],
       "serviceArea": "Northern Nevada",
@@ -3429,19 +3727,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Programas de reingreso y recuperación para personas anteriormente encarceladas incluyendo Battle Born Housing Plus y Servicios de Apoyo St. Marguerite. Diseñados para reducir la reincidencia, promover la recuperación, proporcionar necesidades básicas y apoyar la reintegración a largo plazo.",
+          "description": "Catholic Charities of Northern Nevada opera programas de reingreso y recuperación incluyendo Battle Born Housing Plus (BBH+) y el Programa de Vida Sobria Crossroads. Proporciona vivienda de apoyo, gestión de casos, intervención de crisis y servicios integrados para personas anteriormente encarceladas, sin hogar o con trastornos de uso de sustancias o condiciones de salud mental.",
           "serviceArea": "Norte de Nevada"
         },
         "tl": {
-          "description": "Reentry at recovery programs para sa mga dating nakulong na indibidwal kasama ang Battle Born Housing Plus at St. Marguerite Support Services. Dinisenyo para mabawasan ang recidivism, isulong ang recovery, magbigay ng basic needs, at suportahan ang long-term reintegration.",
+          "description": "Catholic Charities of Northern Nevada ang nagpapatakbo ng reentry at recovery programs kasama ang Battle Born Housing Plus (BBH+) at Crossroads Sober Living Program. Nagbibigay ng supportive housing, case management, crisis intervention, at integrated services para sa mga dating nakulong, walang tirahan, o may substance use disorder o mental health conditions.",
           "serviceArea": "Hilagang Nevada"
         },
         "zh": {
-          "description": "为曾被监禁者提供的重返社会和康复项目，包括Battle Born Housing Plus和St. Marguerite支持服务。旨在减少累犯率、促进康复、提供基本需求和支持长期重新融入社会。",
+          "description": "北内华达天主教慈善机构运营重返社会和康复项目，包括Battle Born Housing Plus（BBH+）和Crossroads清醒生活项目。为曾被监禁、无家可归或有物质使用障碍或心理健康问题的人提供支持性住房、案例管理、危机干预和综合服务。",
           "serviceArea": "内华达州北部"
         },
         "vi": {
-          "description": "Chương trình tái hòa nhập và phục hồi cho người từng bị giam giữ bao gồm Battle Born Housing Plus và Dịch vụ Hỗ trợ St. Marguerite. Được thiết kế để giảm tái phạm, thúc đẩy phục hồi, cung cấp nhu cầu cơ bản và hỗ trợ tái hòa nhập lâu dài.",
+          "description": "Catholic Charities of Northern Nevada vận hành chương trình tái hòa nhập và phục hồi bao gồm Battle Born Housing Plus (BBH+) và Chương trình Sống Tỉnh táo Crossroads. Cung cấp nhà ở hỗ trợ, quản lý trường hợp, can thiệp khủng hoảng và dịch vụ tích hợp cho người từng bị giam, vô gia cư hoặc có rối loạn sử dụng chất hay vấn đề sức khỏe tâm thần.",
           "serviceArea": "Bắc Nevada"
         }
       }
@@ -3450,12 +3748,20 @@
       "id": "ext-life-changes-reentry",
       "type": "external",
       "name": "Life Changes, Inc.",
-      "description": "Statewide reentry services for individuals released from Nevada Department of Corrections. Provides transportation from parole office, intake assistance, help purchasing necessities like phones, and ongoing support.",
+      "description": "Life Changes, Inc. provides safety, shelter, and support to individuals affected by incarceration, substance abuse, mental illness, homelessness, sex trafficking, and domestic violence. New Beginnings Prisoner Reentry programs offer gender-specific sober living homes certified through Nevada's substance use treatment division. Services include housing, employment assistance, family reunification support, and health treatment referrals. Applications for state prison inmates must come through the Nevada Department of Corrections.",
       "category": "reentry_services",
       "contacts": [
         {
           "type": "website",
           "value": "https://www.lifechangesinc.solutions/serviceslist"
+        },
+        {
+          "type": "phone",
+          "value": "(775) 322-8941"
+        },
+        {
+          "type": "address",
+          "value": "900 W 1st St, Reno, NV 89503"
         }
       ],
       "serviceArea": "Statewide",
@@ -3463,19 +3769,19 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Servicios de reingreso a nivel estatal para personas liberadas del Departamento de Correcciones de Nevada. Proporciona transporte desde la oficina de libertad condicional, asistencia de admisión, ayuda para comprar necesidades como teléfonos y apoyo continuo.",
+          "description": "Life Changes, Inc. proporciona seguridad, refugio y apoyo a personas afectadas por encarcelamiento, abuso de sustancias, enfermedad mental, falta de vivienda, tráfico sexual y violencia doméstica. Programas New Beginnings de reingreso ofrecen hogares de vida sobria certificados. Servicios incluyen vivienda, asistencia de empleo, apoyo de reunificación familiar y referencias de tratamiento de salud.",
           "serviceArea": "Todo el estado"
         },
         "tl": {
-          "description": "Statewide reentry services para sa mga indibidwal na pinalaya mula sa Nevada Department of Corrections. Nagbibigay ng transportasyon mula sa parole office, intake assistance, tulong sa pagbili ng mga pangangailangan tulad ng mga telepono, at patuloy na suporta.",
+          "description": "Life Changes, Inc. nagbibigay ng kaligtasan, shelter, at suporta sa mga indibidwal na apektado ng pagkakakulong, substance abuse, mental illness, kawalan ng tirahan, sex trafficking, at domestic violence. Ang New Beginnings Prisoner Reentry programs ay nag-aalok ng certified sober living homes. Kasama sa mga serbisyo ang tirahan, employment assistance, family reunification, at health treatment referrals.",
           "serviceArea": "Buong estado"
         },
         "zh": {
-          "description": "面向从内华达州矫正部释放人员的全州重返社会服务。提供从假释办公室的交通、入职协助、帮助购买手机等必需品以及持续支持。",
+          "description": "Life Changes, Inc. 为受监禁、物质滥用、精神疾病、无家可归、性贩卖和家庭暴力影响的个人提供安全、庇护和支持。New Beginnings囚犯重返项目提供经认证的清醒生活之家。服务包括住房、就业援助、家庭团聚支持和健康治疗转介。",
           "serviceArea": "全州"
         },
         "vi": {
-          "description": "Dịch vụ tái hòa nhập toàn tiểu bang cho người được thả từ Sở Cải huấn Nevada. Cung cấp phương tiện từ văn phòng quản chế, hỗ trợ tiếp nhận, giúp mua nhu yếu phẩm như điện thoại và hỗ trợ liên tục.",
+          "description": "Life Changes, Inc. cung cấp an toàn, nơi trú ẩn và hỗ trợ cho người bị ảnh hưởng bởi giam giữ, lạm dụng chất, bệnh tâm thần, vô gia cư, buôn bán tình dục và bạo lực gia đình. Chương trình New Beginnings Prisoner Reentry cung cấp nhà ở tỉnh táo được chứng nhận. Dịch vụ bao gồm nhà ở, hỗ trợ việc làm, đoàn tụ gia đình và giới thiệu điều trị sức khỏe.",
           "serviceArea": "Toàn tiểu bang"
         }
       }
@@ -3495,6 +3801,10 @@
         {
           "type": "website",
           "value": "https://www.nvenergy.com/account-services/assistance-programs"
+        },
+        {
+          "type": "address",
+          "value": "6100 Neil Rd, Reno, NV 89511"
         }
       ],
       "serviceArea": "NV Energy service area",
@@ -3527,17 +3837,22 @@
       "id": "ext-liheap",
       "type": "external",
       "name": "LIHEAP (Low Income Energy Assistance)",
-      "description": "Federal program helping low-income households pay heating and cooling bills. Apply through Nevada DWSS. Payment goes directly to utility company and covers past due and future bills.",
+      "description": "The Low Income Home Energy Assistance Program (LIHEAP) in Nevada is administered as the Energy Assistance Program (EAP) through the Division of Social Services. Helps qualifying low-income Nevadans with home energy costs. Benefits range from $360 to $3,136 for heating or cooling assistance. Applications accepted year-round from July 1 through June 30 or until funding is exhausted.",
       "category": "emergency_aid",
       "contacts": [
         {
           "type": "phone",
-          "value": "(775) 823-6000",
-          "label": "DWSS Reno"
+          "value": "(775) 684-0730",
+          "label": "LIHEAP Northern NV"
         },
         {
           "type": "website",
           "value": "https://dss.nv.gov"
+        },
+        {
+          "type": "address",
+          "value": "4055 S Virginia St, Reno, NV 89502",
+          "label": "DSS Reno Office"
         }
       ],
       "serviceArea": "Statewide",
@@ -3545,22 +3860,22 @@
       "verified": true,
       "translations": {
         "es": {
-          "description": "Programa federal que ayuda a hogares de bajos ingresos a pagar facturas de calefacción y refrigeración. Solicite a través de Nevada DWSS. El pago va directamente a la compañía de servicios públicos y cubre facturas vencidas y futuras.",
+          "description": "El Programa de Asistencia Energética para Hogares de Bajos Ingresos (LIHEAP) en Nevada es administrado como el Programa de Asistencia Energética (EAP) a través de la División de Servicios Sociales. Ayuda a nevadenses de bajos ingresos con costos de energía del hogar. Beneficios van de $360 a $3,136. Solicitudes aceptadas todo el año del 1 de julio al 30 de junio.",
           "eligibility": "Ingresos iguales o inferiores al 60% del Ingreso Mediano Estatal",
           "serviceArea": "Todo el estado"
         },
         "tl": {
-          "description": "Federal program na tumutulong sa low-income na mga sambahayan na magbayad ng heating at cooling bills. Mag-apply sa pamamagitan ng Nevada DWSS. Ang bayad ay direktang napupunta sa utility company at sinasaklaw ang past due at future bills.",
+          "description": "Ang Low Income Home Energy Assistance Program (LIHEAP) sa Nevada ay pinamamahalaan bilang Energy Assistance Program (EAP) sa pamamagitan ng Division of Social Services. Tumutulong sa mga low-income na taga-Nevada sa gastos sa enerhiya. Mga benepisyo mula $360 hanggang $3,136. Tinatanggap ang mga aplikasyon buong taon mula Hulyo 1 hanggang Hunyo 30.",
           "eligibility": "Kita na katumbas o mas mababa sa 60% ng State Median Income",
           "serviceArea": "Buong estado"
         },
         "zh": {
-          "description": "帮助低收入家庭支付取暖和制冷费用的联邦项目。通过Nevada DWSS申请。付款直接给公用事业公司，涵盖逾期和未来账单。",
+          "description": "内华达州低收入家庭能源援助计划（LIHEAP）通过社会服务部作为能源援助计划（EAP）管理。帮助低收入内华达州居民支付家庭能源费用。补助金额从$360到$3,136不等。全年接受申请，从7月1日到6月30日。",
           "eligibility": "收入不超过州中位收入的60%",
           "serviceArea": "全州"
         },
         "vi": {
-          "description": "Chương trình liên bang giúp hộ gia đình thu nhập thấp thanh toán hóa đơn sưởi ấm và làm mát. Đăng ký qua Nevada DWSS. Thanh toán trực tiếp cho công ty tiện ích, bao gồm hóa đơn quá hạn và tương lai.",
+          "description": "Chương trình Hỗ trợ Năng lượng Gia đình Thu nhập Thấp (LIHEAP) tại Nevada được quản lý như Chương trình Hỗ trợ Năng lượng (EAP) thông qua Ban Dịch vụ Xã hội. Giúp người Nevada thu nhập thấp chi trả chi phí năng lượng. Trợ cấp từ $360 đến $3.136. Đơn được chấp nhận quanh năm từ 1/7 đến 30/6.",
           "eligibility": "Thu nhập bằng hoặc dưới 60% Thu nhập Trung vị Bang",
           "serviceArea": "Toàn tiểu bang"
         }
