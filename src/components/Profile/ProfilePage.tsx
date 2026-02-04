@@ -25,7 +25,8 @@ import { syncProfileToSupabase, USE_SUPABASE } from '@/lib/services/supabase'
 import { useUnreadCount } from '@/hooks/useDirectMessages'
 import { MessageHub } from '@/components/Messages/MessageHub'
 import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'
-import { ProfileEditor, type ProfileEditorHandle } from './ProfileEditor'
+import { ProfileEditor } from './ProfileEditor'
+import { TenantProfileEditor, type TenantProfileEditorHandle } from './TenantProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
 import { LoginForm } from './LoginForm'
 import { InviteCodeManager } from './InviteCodeManager'
@@ -50,11 +51,12 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   const [showMessages, setShowMessages] = useState(false)
   const [showGroups, setShowGroups] = useState(false)
   const [showSettings, setShowSettings] = useState(false)
+  const [showTenantProfile, setShowTenantProfile] = useState(false)
   const [showWizard, setShowWizard] = useState(false)
   const [showRCVTutorial, setShowRCVTutorial] = useState(false)
 
-  // ProfileEditor ref for calling save from modal footer
-  const profileEditorRef = useRef<ProfileEditorHandle>(null)
+  // TenantProfileEditor ref for calling save from modal footer
+  const tenantProfileEditorRef = useRef<TenantProfileEditorHandle>(null)
 
   // Confirmation modals
   const [confirmDelete, setConfirmDelete] = useState<string | null>(null)
@@ -351,6 +353,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             unreadMessagesCount={unreadCount}
             onOpenMessages={() => setShowMessages(true)}
             onOpenGroups={() => setShowGroups(true)}
+            onOpenTenantProfile={() => setShowTenantProfile(true)}
             onOpenSettings={() => setShowSettings(true)}
           />
 
@@ -419,28 +422,65 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
               {/* Content */}
               <div className="flex-1 overflow-y-auto">
                 <ProfileEditor
-                  ref={profileEditorRef}
+                  profile={profile}
+                  onSignOut={() => { setShowSettings(false); handleLogout() }}
+                />
+              </div>
+            </div>
+          </div>
+        </>
+      )}
+
+      {/* Tenant Profile Modal */}
+      {showTenantProfile && profile && (
+        <>
+          {/* Backdrop */}
+          <div
+            className="fixed inset-0 bg-black/50 z-40"
+            onClick={() => setShowTenantProfile(false)}
+          />
+
+          {/* Modal */}
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4">
+            <div className="bg-white rounded-lg shadow-xl w-full h-[95vh] sm:h-auto sm:max-w-3xl sm:max-h-[90vh] flex flex-col overflow-hidden">
+              {/* Header */}
+              <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200 flex-shrink-0">
+                <h2 className="text-xl font-semibold text-gray-900">{t('profile.tenantProfile') || 'Tenant Profile'}</h2>
+                <button
+                  onClick={() => setShowTenantProfile(false)}
+                  className="p-2 hover:bg-gray-100 rounded-lg transition-colors"
+                  aria-label="Close"
+                >
+                  <svg className="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12"/>
+                  </svg>
+                </button>
+              </div>
+
+              {/* Content */}
+              <div className="flex-1 overflow-y-auto">
+                <TenantProfileEditor
+                  ref={tenantProfileEditorRef}
                   profile={profile}
                   buildings={buildings}
                   onSave={(updated) => {
                     setProfile(updated)
-                    setShowSettings(false)
+                    setShowTenantProfile(false)
                   }}
-                  onCancel={() => setShowSettings(false)}
-                  onSignOut={() => { setShowSettings(false); handleLogout() }}
+                  onCancel={() => setShowTenantProfile(false)}
                 />
               </div>
 
               {/* Footer */}
               <div className="flex items-center justify-end gap-3 px-6 py-4 border-t border-gray-200 flex-shrink-0 bg-white">
                 <button
-                  onClick={() => setShowSettings(false)}
+                  onClick={() => setShowTenantProfile(false)}
                   className="px-4 py-2 text-gray-600 hover:text-gray-800 text-sm font-medium"
                 >
                   {t('common.cancel') || 'Cancel'}
                 </button>
                 <button
-                  onClick={() => profileEditorRef.current?.save()}
+                  onClick={() => tenantProfileEditorRef.current?.save()}
                   className="px-4 py-2 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-red-700"
                 >
                   {t('common.save') || 'Save Changes'}
