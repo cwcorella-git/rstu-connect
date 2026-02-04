@@ -111,6 +111,7 @@ export const DEFAULT_PAGE_1: LandingPageConfig = {
       type: 'cards',
       config: {
         heading: 'Our Core Values',
+        layout: 'stacked',
         cards: [
           {
             title: 'Housing is a Human Right',
@@ -280,6 +281,12 @@ export function getLandingPages(): LandingPageConfig[] {
             { id: 'def-crisis', type: 'crisis', config: {} },
             { id: 'def-action', type: 'action', config: {} },
           )
+          changed = true
+        }
+        // v3: set stacked layout on Core Values cards
+        const valuesSection = page1.sections.find(s => s.id === 'def-values')
+        if (valuesSection && !valuesSection.config.layout) {
+          valuesSection.config.layout = 'stacked'
           changed = true
         }
       }

@@ -1,8 +1,8 @@
 {
-  "commit": "3db90c58",
-  "message": "Split tenant info into separate Tenant Profile modal",
+  "commit": "1695aadd",
+  "message": "Restore landing page content: rights, organizing, crisis, action sections",
   "author": "cwcorella-git",
-  "date": "2026-02-04 05:29:44 -0800",
+  "date": "2026-02-04 07:03:44 -0800",
   "branch": "main",
-  "buildTime": "2026-02-04T15:03:03.880Z"
+  "buildTime": "2026-02-04T15:06:26.043Z"
 }

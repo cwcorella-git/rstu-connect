@@ -86,28 +86,33 @@ export function CustomCardsSection({ config, onConfigChange, nested }: CustomCar
     onConfigChange({ ...config, cards: newCards })
   }, [config, rawCards, onConfigChange])
 
-  const gridCols = cards.length <= 2 ? 'sm:grid-cols-2' :
+  const stacked = config.layout === 'stacked'
+
+  const gridCols = stacked ? '' :
+                   cards.length <= 2 ? 'sm:grid-cols-2' :
                    cards.length === 3 ? 'sm:grid-cols-3' :
                    'sm:grid-cols-2 lg:grid-cols-4'
 
   return (
-    <section className={`${nested ? 'py-4 px-2' : 'py-10 sm:py-12 px-4'} bg-white`}>
-      <div className={nested ? 'max-w-full' : 'max-w-5xl mx-auto'}>
+    <section className={`${nested ? 'py-4 px-2' : stacked ? 'py-12 sm:py-16 px-4' : 'py-10 sm:py-12 px-4'} bg-white`}>
+      <div className={nested ? 'max-w-full' : stacked ? 'max-w-3xl mx-auto' : 'max-w-5xl mx-auto'}>
         <h2
           ref={headingRef}
           contentEditable={isEditMode ? 'plaintext-only' : undefined}
           suppressContentEditableWarning
           onBlur={handleHeadingBlur}
-          className={`${nested ? 'text-lg sm:text-xl' : 'text-2xl sm:text-3xl'} font-bold text-gray-900 mb-6 text-center ${
+          className={`${nested ? 'text-lg sm:text-xl' : 'text-2xl sm:text-3xl'} font-bold text-gray-900 ${stacked ? 'mb-10' : 'mb-6'} text-center ${
             isEditMode ? 'outline-dashed outline-2 outline-blue-300 outline-offset-2 cursor-text' : ''
           }`}
         >
           {heading}
         </h2>
 
-        <div className={`grid grid-cols-1 ${gridCols} gap-4`}>
+        <div className={stacked ? 'flex flex-col gap-8' : `grid grid-cols-1 ${gridCols} gap-4`}>
           {cards.map((card, i) => (
-            <div key={i} className="relative bg-gray-50 rounded-lg p-5 border border-gray-200">
+            <div key={i} className={`relative rounded-lg border border-gray-200 ${
+              stacked ? 'bg-gray-50 p-6 sm:p-8' : 'bg-gray-50 p-5'
+            }`}>
               {isEditMode && (
                 <button
                   onClick={() => handleRemoveCard(i)}
@@ -121,13 +126,13 @@ export function CustomCardsSection({ config, onConfigChange, nested }: CustomCar
                 value={card.title}
                 isEditMode={isEditMode}
                 onChange={(v) => handleCardChange(i, 'title', v)}
-                className="text-lg font-bold text-rstu-red mb-2"
+                className={stacked ? 'text-xl font-bold text-rstu-red mb-3' : 'text-lg font-bold text-rstu-red mb-2'}
               />
               <CardField
                 value={card.body}
                 isEditMode={isEditMode}
                 onChange={(v) => handleCardChange(i, 'body', v)}
-                className="text-sm text-gray-600 leading-relaxed"
+                className={stacked ? 'text-base text-gray-600 leading-relaxed' : 'text-sm text-gray-600 leading-relaxed'}
               />
             </div>
           ))}
