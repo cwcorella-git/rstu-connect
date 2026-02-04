@@ -1,8 +1,8 @@
 {
-  "commit": "d1f344af",
-  "message": "Move rent comparison from Profile into property info panel",
+  "commit": "55312a8b",
+  "message": "Combine Edit + Settings into single Settings panel",
   "author": "cwcorella-git",
-  "date": "2026-02-03 21:25:59 -0800",
+  "date": "2026-02-03 22:46:33 -0800",
   "branch": "main",
-  "buildTime": "2026-02-04T06:45:33.691Z"
+  "buildTime": "2026-02-04T06:50:08.966Z"
 }

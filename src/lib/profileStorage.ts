@@ -340,6 +340,21 @@ async function fetchProfileFromDb(id: string): Promise<UserProfile | null> {
   return dbToProfile(data as DbProfile)
 }
 
+// Check if a profile has been deleted from Supabase (e.g. by an admin)
+// Returns true if Supabase is configured and the profile does NOT exist
+export async function isProfileDeletedInDb(id: string): Promise<boolean> {
+  if (!supabase) return false // Can't check — assume not deleted
+
+  const { data, error } = await supabase
+    .from('profiles')
+    .select('id')
+    .eq('id', id)
+    .single()
+
+  // If error (PGRST116 = no rows) or no data, profile was deleted
+  return !data || !!error
+}
+
 // Save profile to Supabase
 async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
   if (!supabase) return false

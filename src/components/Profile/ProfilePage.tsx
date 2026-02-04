@@ -17,6 +17,7 @@ import {
   isAdmin,
   canAccessTools,
   getActivityStatus,
+  isProfileDeletedInDb,
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
@@ -76,10 +77,27 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     setStoredProfiles(stored)
     setLoading(false)
 
-    // Sync current profile to Supabase (ensures existing profiles get synced)
     if (p && USE_SUPABASE) {
-      syncProfileToSupabase(p).catch(err => {
-        log.error('Failed to sync profile to Supabase:', err)
+      // Check if profile was deleted by admin before syncing
+      isProfileDeletedInDb(p.id).then(deleted => {
+        if (deleted) {
+          log.info('Profile was deleted by admin, signing out')
+          clearProfile()
+          setProfile(null)
+          setStoredProfiles(getStoredProfiles())
+          refreshAuth()
+          return
+        }
+        // Profile still exists — sync to Supabase
+        syncProfileToSupabase(p).catch(err => {
+          log.error('Failed to sync profile to Supabase:', err)
+        })
+      }).catch(err => {
+        log.error('Failed to check profile existence:', err)
+        // On error, still sync (don't block normal usage)
+        syncProfileToSupabase(p).catch(syncErr => {
+          log.error('Failed to sync profile to Supabase:', syncErr)
+        })
       })
     }
 
@@ -88,6 +106,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
       // Small delay to let the page render first
       setTimeout(() => setShowRCVTutorial(true), 500)
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   // Detect invite code in URL and auto-show profile creation for new users
