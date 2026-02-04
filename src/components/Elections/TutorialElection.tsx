@@ -28,13 +28,13 @@ interface EliminationRound {
 
 const TUTORIAL_COMPLETED_KEY = 'rstu_rcv_tutorial_completed'
 
-// Fun, relatable candidates for the mock election
+// Fictional candidates for the mock election
 const MOCK_CANDIDATES: TutorialCandidate[] = [
-  { id: 'popcorn', name: 'Popcorn', emoji: '🍿', description: 'Classic and buttery' },
-  { id: 'pizza', name: 'Pizza', emoji: '🍕', description: 'Cheesy crowd-pleaser' },
-  { id: 'nachos', name: 'Nachos', emoji: '🧀', description: 'Loaded with toppings' },
-  { id: 'ice-cream', name: 'Ice Cream', emoji: '🍨', description: 'Sweet and cold' },
-  { id: 'chips', name: 'Chips & Dip', emoji: '🥔', description: 'Crunchy with salsa' },
+  { id: 'gandalf', name: 'Gandalf', emoji: '🧙', description: 'Wise and experienced' },
+  { id: 'hermione', name: 'Hermione', emoji: '📚', description: 'Brilliant and prepared' },
+  { id: 'aragorn', name: 'Aragorn', emoji: '⚔️', description: 'Born leader' },
+  { id: 'katniss', name: 'Katniss', emoji: '🏹', description: 'Fights for the people' },
+  { id: 'samwise', name: 'Samwise', emoji: '🌱', description: 'Loyal and dependable' },
 ]
 
 // Pre-set "other voters" ballots to ensure interesting RCV rounds

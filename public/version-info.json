@@ -1,8 +1,8 @@
 {
-  "commit": "82a4c53d",
-  "message": "Core Values: Stacked layout with more breathing room",
+  "commit": "6b689ecb",
+  "message": "Merge Groups into Messages as tabbed modal",
   "author": "cwcorella-git",
-  "date": "2026-02-04 07:07:10 -0800",
+  "date": "2026-02-04 12:27:28 -0800",
   "branch": "main",
-  "buildTime": "2026-02-04T20:26:43.402Z"
+  "buildTime": "2026-02-04T21:48:06.845Z"
 }
