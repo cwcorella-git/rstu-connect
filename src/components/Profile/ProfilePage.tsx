@@ -17,7 +17,6 @@ import {
   isAdmin,
   canAccessTools,
   getActivityStatus,
-  addRentHistoryEntry,
   type UserProfile,
 } from '@/lib/profileStorage'
 import { syncProfile } from '@/lib/profileSync'
@@ -34,7 +33,7 @@ import { UserList } from './UserList'
 import { ProfileVotingSection } from './ProfileVotingSection'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { RentFairnessDashboard } from './RentFairnessDashboard'
+
 import { CirclesTab } from '@/components/MutualAid/CirclesTab'
 import { TutorialElection, hasTutorialCompleted } from '@/components/Elections'
 
@@ -171,13 +170,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
     setProfile(null)
     setConfirmLogout(false)
     refreshAuth() // Update nav immediately
-  }
-
-  const handleUpdateRent = (rentAmount: number) => {
-    const updated = updateProfile({ rentAmount })
-    if (updated) {
-      setProfile(updated)
-    }
   }
 
   const selectedBuilding = buildings.find(b => b.chatSlug === profile?.buildingId)
@@ -345,30 +337,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
             onOpenEditor={() => setShowEdit(true)}
             onOpenSettings={() => setShowSettings(true)}
           />
-
-          {/* Rent Fairness Dashboard */}
-          {selectedBuilding && (
-            <RentFairnessDashboard
-              building={selectedBuilding}
-              userRent={profile.rentAmount}
-              monthlyIncome={profile.monthlyIncome}
-              unitSqft={profile.unitSqft}
-              bedroomCount={profile.bedroomCount}
-              rentHistory={profile.rentHistory}
-              onUpdateRent={handleUpdateRent}
-              onAddHistoryEntry={(date, amount) => {
-                const updated = addRentHistoryEntry(profile.rentHistory || [], date, amount)
-                const newProfile = updateProfile({ rentHistory: updated })
-                if (newProfile) {
-                  setProfile(newProfile)
-                }
-              }}
-              onUpdateProfile={(updates) => {
-                const newProfile = updateProfile(updates)
-                if (newProfile) setProfile(newProfile)
-              }}
-            />
-          )}
 
           {/* Voting Section - Elections & App Governance */}
           <ProfileVotingSection

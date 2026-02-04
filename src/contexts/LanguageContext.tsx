@@ -2027,6 +2027,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.atBenchmark': 'at benchmark',
     'rent.aboveBenchmark': 'above benchmark',
     'rent.privacyNoteFull': 'Your rent and income stay on your device. Only anonymous building averages are shared.',
+    'rent.sectionTitle': 'Rent Comparison',
+    'rent.avgRent': 'Avg Rent',
+    'rent.noDataYet': 'No data yet',
+    'rent.rentRange': 'Rent Range',
+    'rent.unitsReporting': 'Units Reporting',
+    'rent.switchBuilding': 'View your building for personalized comparisons',
+    'rent.youllSee': "You'll see:",
+    'rent.bedroomsLabel': 'Bedrooms',
 
     // Building Organizing Status
     'buildingOrg.title': 'Building Organizing',
@@ -4036,6 +4044,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.atBenchmark': 'en referencia',
     'rent.aboveBenchmark': 'sobre referencia',
     'rent.privacyNoteFull': 'Tu renta e ingreso permanecen en tu dispositivo. Solo promedios anónimos del edificio se comparten.',
+    'rent.sectionTitle': 'Comparación de Renta',
+    'rent.avgRent': 'Renta Promedio',
+    'rent.noDataYet': 'Sin datos aún',
+    'rent.rentRange': 'Rango de Renta',
+    'rent.unitsReporting': 'Unidades Reportando',
+    'rent.switchBuilding': 'Ve tu edificio para comparaciones personalizadas',
+    'rent.youllSee': 'Verás:',
+    'rent.bedroomsLabel': 'Habitaciones',
 
     // Building Organizing Status
     'buildingOrg.title': 'Organización del Edificio',
@@ -6100,6 +6116,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.atBenchmark': 'sa benchmark',
     'rent.aboveBenchmark': 'higit sa benchmark',
     'rent.privacyNoteFull': 'Ang iyong upa at kita ay nananatili sa iyong device. Tanging anonymous na average ng gusali ang ibinabahagi.',
+    'rent.sectionTitle': 'Paghahambing ng Upa',
+    'rent.avgRent': 'Average na Upa',
+    'rent.noDataYet': 'Wala pang datos',
+    'rent.rentRange': 'Saklaw ng Upa',
+    'rent.unitsReporting': 'Mga Unit na Nag-uulat',
+    'rent.switchBuilding': 'Tingnan ang iyong gusali para sa mga personalized na paghahambing',
+    'rent.youllSee': 'Makikita mo:',
+    'rent.bedroomsLabel': 'Mga Kwarto',
 
     // Building Organizing Status
     'buildingOrg.title': 'Pag-oorganisa ng Gusali',
@@ -8165,6 +8189,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.atBenchmark': '处于基准',
     'rent.aboveBenchmark': '高于基准',
     'rent.privacyNoteFull': '您的租金和收入保留在您的设备上。只共享匿名的建筑平均值。',
+    'rent.sectionTitle': '租金比较',
+    'rent.avgRent': '平均租金',
+    'rent.noDataYet': '暂无数据',
+    'rent.rentRange': '租金范围',
+    'rent.unitsReporting': '报告单元数',
+    'rent.switchBuilding': '查看您的建筑以获取个性化比较',
+    'rent.youllSee': '您将看到：',
+    'rent.bedroomsLabel': '卧室',
 
     // Building Organizing Status
     'buildingOrg.title': '建筑组织',
@@ -10211,6 +10243,14 @@ const translations: Record<Locale, Record<string, string>> = {
     'rent.atBenchmark': 'đạt chuẩn',
     'rent.aboveBenchmark': 'trên chuẩn',
     'rent.privacyNoteFull': 'Tiền thuê và thu nhập của bạn lưu trên thiết bị. Chỉ mức trung bình ẩn danh của tòa nhà được chia sẻ.',
+    'rent.sectionTitle': 'So sánh tiền thuê',
+    'rent.avgRent': 'Tiền thuê TB',
+    'rent.noDataYet': 'Chưa có dữ liệu',
+    'rent.rentRange': 'Phạm vi thuê',
+    'rent.unitsReporting': 'Đơn vị báo cáo',
+    'rent.switchBuilding': 'Xem tòa nhà của bạn để so sánh cá nhân hóa',
+    'rent.youllSee': 'Bạn sẽ thấy:',
+    'rent.bedroomsLabel': 'Phòng ngủ',
 
     // Building Organizing Status
     'buildingOrg.title': 'Tổ chức Tòa nhà',
