@@ -11,7 +11,6 @@ import { useLanguage } from '@/contexts/LanguageContext'
 interface TutorialCandidate {
   id: string
   name: string
-  emoji: string
   description: string
 }
 
@@ -30,11 +29,11 @@ const TUTORIAL_COMPLETED_KEY = 'rstu_rcv_tutorial_completed'
 
 // Fictional candidates for the mock election
 const MOCK_CANDIDATES: TutorialCandidate[] = [
-  { id: 'gandalf', name: 'Gandalf', emoji: '🧙', description: 'Wise and experienced' },
-  { id: 'hermione', name: 'Hermione', emoji: '📚', description: 'Brilliant and prepared' },
-  { id: 'aragorn', name: 'Aragorn', emoji: '⚔️', description: 'Born leader' },
-  { id: 'katniss', name: 'Katniss', emoji: '🏹', description: 'Fights for the people' },
-  { id: 'samwise', name: 'Samwise', emoji: '🌱', description: 'Loyal and dependable' },
+  { id: 'gandalf', name: 'Gandalf', description: 'Wise and experienced' },
+  { id: 'hermione', name: 'Hermione', description: 'Brilliant and prepared' },
+  { id: 'aragorn', name: 'Aragorn', description: 'Born leader' },
+  { id: 'katniss', name: 'Katniss', description: 'Fights for the people' },
+  { id: 'samwise', name: 'Samwise', description: 'Loyal and dependable' },
 ]
 
 // Pre-set "other voters" ballots to ensure interesting RCV rounds
@@ -268,7 +267,6 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
   // Step 0: Welcome
   const renderWelcome = () => (
     <div className="text-center space-y-6">
-      <div className="text-6xl mb-4">🗳️</div>
       <h2 className="text-2xl font-bold text-gray-900">
         Learn Ranked Choice Voting
       </h2>
@@ -316,14 +314,14 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
 
       <div className="grid gap-4 max-w-lg mx-auto">
         {[
-          { icon: '1️⃣', title: 'Rank Your Choices', desc: 'Put candidates in order: 1st choice, 2nd choice, etc.' },
-          { icon: '🔢', title: 'Count First Choices', desc: 'Everyone\'s #1 pick gets counted first.' },
-          { icon: '🏆', title: 'Check for Majority', desc: 'If someone has over 50%, they win!' },
-          { icon: '🔄', title: 'Eliminate & Transfer', desc: 'If no majority, the last-place candidate is eliminated. Their votes go to those voters\' next choice.' },
-          { icon: '🔁', title: 'Repeat Until Winner', desc: 'Keep eliminating until someone has majority support.' },
+          { title: 'Rank Your Choices', desc: 'Put candidates in order: 1st choice, 2nd choice, etc.' },
+          { title: 'Count First Choices', desc: 'Everyone\'s #1 pick gets counted first.' },
+          { title: 'Check for Majority', desc: 'If someone has over 50%, they win!' },
+          { title: 'Eliminate & Transfer', desc: 'If no majority, the last-place candidate is eliminated. Their votes go to those voters\' next choice.' },
+          { title: 'Repeat Until Winner', desc: 'Keep eliminating until someone has majority support.' },
         ].map((item, i) => (
           <div key={i} className="flex items-start gap-3 bg-gray-50 rounded-lg p-3">
-            <span className="text-2xl">{item.icon}</span>
+            <span className="w-7 h-7 flex items-center justify-center rounded-full bg-rstu-red text-white text-xs font-bold flex-shrink-0">{i + 1}</span>
             <div>
               <p className="font-medium text-gray-900">{item.title}</p>
               <p className="text-sm text-gray-600">{item.desc}</p>
@@ -354,10 +352,10 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
     <div className="space-y-6">
       <div className="text-center">
         <h2 className="text-xl font-bold text-gray-900 mb-2">
-          🍿 Vote: Best Movie Night Snack
+          Vote: Favorite Fictional Leader
         </h2>
         <p className="text-gray-600">
-          Drag and drop OR use the arrows to rank these snacks from favorite to least favorite.
+          Drag and drop OR use the arrows to rank these candidates from favorite to least favorite.
         </p>
       </div>
 
@@ -430,7 +428,6 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
               </span>
 
               {/* Candidate info */}
-              <span className="text-2xl">{candidate.emoji}</span>
               <div className="flex-1">
                 <p className="font-medium text-gray-900">{candidate.name}</p>
                 <p className="text-xs text-gray-500">{candidate.description}</p>
@@ -514,7 +511,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
                 <span className={`w-6 h-6 flex items-center justify-center rounded-full text-xs font-bold ${getRankBadge(i)}`}>
                   {i + 1}
                 </span>
-                <span>{c.emoji} {c.name}</span>
+                <span>{c.name}</span>
               </div>
             ) : null
           })}
@@ -550,7 +547,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
       <div className="space-y-6">
         <div className="text-center">
           <h2 className="text-xl font-bold text-gray-900 mb-2">
-            🔄 Counting the Votes...
+            Counting the Votes...
           </h2>
           <p className="text-gray-600">
             Watch how ranked choice voting finds the winner!
@@ -586,7 +583,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
                         <div key={candidateId} className={`${isEliminated ? 'opacity-50' : ''}`}>
                           <div className="flex items-center justify-between text-sm mb-1">
                             <span className={isEliminated ? 'line-through text-gray-400' : ''}>
-                              {candidate.emoji} {candidate.name}
+                              {candidate.name}
                             </span>
                             <span className="font-medium">{count} ({pct.toFixed(0)}%)</span>
                           </div>
@@ -607,7 +604,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
                 {eliminated && (
                   <div className="bg-red-50 rounded-lg p-2 text-sm">
                     <span className="text-red-700">
-                      ❌ <strong>{eliminated.emoji} {eliminated.name}</strong> eliminated (fewest votes).
+                      <strong>{eliminated.name}</strong> eliminated (fewest votes).
                       {round.transferred > 0 && (
                         <span> {round.transferred} votes transferred to next choices.</span>
                       )}
@@ -619,7 +616,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
                 {round.votes[0].count > totalVotes / 2 && (
                   <div className="bg-green-50 rounded-lg p-2 text-sm">
                     <span className="text-green-700">
-                      ✅ <strong>{getCandidate(round.votes[0].candidateId)?.name}</strong> has majority ({round.votes[0].count}/{totalVotes} = {((round.votes[0].count / totalVotes) * 100).toFixed(0)}%)
+                      <strong>{getCandidate(round.votes[0].candidateId)?.name}</strong> has majority ({round.votes[0].count}/{totalVotes} = {((round.votes[0].count / totalVotes) * 100).toFixed(0)}%)
                     </span>
                   </div>
                 )}
@@ -644,9 +641,8 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
         {isComplete && winner && (
           <div className="text-center space-y-4 animate-fade-in">
             <div className="bg-gradient-to-r from-yellow-100 to-yellow-50 rounded-xl p-6 max-w-md mx-auto border-2 border-yellow-300">
-              <div className="text-5xl mb-2">{winner.emoji}</div>
               <h3 className="text-2xl font-bold text-gray-900 mb-1">
-                🏆 {winner.name} Wins!
+                {winner.name} Wins!
               </h3>
               <p className="text-gray-600">
                 After {results.rounds.length} round{results.rounds.length > 1 ? 's' : ''} of counting
@@ -656,7 +652,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
             <div className="bg-blue-50 rounded-lg p-4 max-w-md mx-auto text-left">
               <p className="text-sm text-blue-800">
                 <strong>What just happened?</strong><br />
-                No snack had majority support at first. So we eliminated the least popular option
+                No candidate had majority support at first. So we eliminated the least popular option
                 and transferred those votes to each voter's next choice. This continued until
                 one option had over 50% support — a true majority winner!
               </p>
@@ -677,9 +673,8 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
   // Step 5: Completion
   const renderCompletion = () => (
     <div className="text-center space-y-6">
-      <div className="text-6xl mb-4">🎓</div>
       <h2 className="text-2xl font-bold text-gray-900">
-        You're an RCV Expert Now!
+        You&apos;re an RCV Expert Now!
       </h2>
       <p className="text-gray-600 max-w-md mx-auto">
         You just learned how tenants unions make fair, democratic decisions.
@@ -690,17 +685,17 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
       <div className="grid gap-4 max-w-md mx-auto text-left">
         <div className="bg-green-50 rounded-lg p-4">
           <p className="text-sm text-green-800">
-            <strong>✓ No wasted votes</strong> — Your vote always counts toward your highest-ranked viable candidate.
+            <strong>No wasted votes</strong> — Your vote always counts toward your highest-ranked viable candidate.
           </p>
         </div>
         <div className="bg-green-50 rounded-lg p-4">
           <p className="text-sm text-green-800">
-            <strong>✓ True majority winners</strong> — Winners must earn over 50% support.
+            <strong>True majority winners</strong> — Winners must earn over 50% support.
           </p>
         </div>
         <div className="bg-green-50 rounded-lg p-4">
           <p className="text-sm text-green-800">
-            <strong>✓ Vote your conscience</strong> — Rank your true favorite first without fear of "spoiling" the election.
+            <strong>Vote your conscience</strong> — Rank your true favorite first without fear of "spoiling" the election.
           </p>
         </div>
       </div>
