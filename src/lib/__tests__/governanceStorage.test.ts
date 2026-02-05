@@ -54,7 +54,7 @@ jest.mock('../linkedPropertiesStorage', () => ({
   getLinkedGroups: jest.fn(() => []),
   updateLinkedGroup: jest.fn(),
   getGroupForApn: jest.fn(),
-  createLinkedGroup: jest.fn(),
+  createOrMergeLinkedGroup: jest.fn(),
   generateBlocName: jest.fn(() => 'Test Bloc'),
 }))
 

@@ -33,7 +33,7 @@ import {
 } from '@/lib/storage/adminStorage';
 import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/storage/profileStorage';
 import { getFavorites } from '@/lib/storage/favoritesStorage';
-import { createLinkedGroup, generateGroupName, getLinkedGroups, validateBlocFormationRequirement } from '@/lib/storage/linkedPropertiesStorage';
+import { createOrMergeLinkedGroup, generateGroupName, getLinkedGroups, validateBlocFormationRequirement } from '@/lib/storage/linkedPropertiesStorage';
 import { createProposal } from '@/lib/storage/governanceStorage';
 import { runStorageHealthCheck } from '@/lib/utils/safeStorage';
 import { useTab } from '@/contexts/TabContext';
@@ -442,7 +442,7 @@ export default function Home() {
       if (isAdminOrOrganizer) {
         // ADMIN/ORGANIZER PATH: Instant link (existing behavior)
         const name = generateGroupName(selectedAddresses);
-        createLinkedGroup(selectedApns, name, profile?.id || 'anonymous');
+        createOrMergeLinkedGroup(selectedApns, name, profile?.id || 'anonymous');
         setLinkingSelection([]);
         // Toast would go here if available
       } else {

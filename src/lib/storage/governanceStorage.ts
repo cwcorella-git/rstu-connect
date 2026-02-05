@@ -1,7 +1,7 @@
 'use client'
 
 import { getCurrentProfile } from './profileStorage'
-import { getLinkedGroups, updateLinkedGroup, getGroupForApn, createLinkedGroup, generateBlocName } from './linkedPropertiesStorage'
+import { getLinkedGroups, updateLinkedGroup, getGroupForApn, createOrMergeLinkedGroup, generateBlocName } from './linkedPropertiesStorage'
 import { supabase, USE_SUPABASE } from '../services/supabase'
 import { castVote as serverCastVote, getVoteCounts, checkPermission, requireOnline, OfflineError } from '../services/authService'
 import { cacheForOffline, getCached, invalidateCachePattern, CacheKeys } from '../utils/offlineCache'
@@ -1335,9 +1335,9 @@ function executeSplit(_proposal: GovernanceProposal): void {
 function executeBlocFormation(proposal: GovernanceProposal): void {
   if (!proposal.targetApns || proposal.targetApns.length < 2) return
 
-  // Create the linked group with all APNs
+  // Create the linked group with all APNs (merges with existing groups if any overlap)
   const groupName = proposal.targetValue || generateBlocName(proposal.targetApns)
-  createLinkedGroup(
+  createOrMergeLinkedGroup(
     proposal.targetApns,
     groupName,
     proposal.proposedBy,

@@ -80,6 +80,84 @@ export function createLinkedGroup(
   return group;
 }
 
+/**
+ * Create a linked group, merging with any existing groups that contain the selected APNs.
+ * If selected APNs span multiple existing groups, those groups are combined into one.
+ * Preserves members, alliances, and notes from merged groups.
+ */
+export function createOrMergeLinkedGroup(
+  apns: string[],
+  name: string,
+  createdBy: string,
+  notes?: string,
+  isSameBuilding?: boolean
+): LinkedPropertyGroup {
+  const groups = getLinkedGroups();
+
+  // Find all existing groups that contain any of the selected APNs
+  const overlappingGroups = groups.filter(g =>
+    g.apns.some(apn => apns.includes(apn))
+  );
+
+  if (overlappingGroups.length === 0) {
+    // No overlap - just create a new group
+    return createLinkedGroup(apns, name, createdBy, notes, isSameBuilding);
+  }
+
+  // Collect all APNs from overlapping groups + the new selection
+  const mergedApns = new Set<string>(apns);
+  const mergedMembers = new Set<string>();
+  const mergedAlliances = new Set<string>();
+  const mergedBanned: BannedProfile[] = [];
+  const mergedMuted = new Set<string>();
+  const mergedNotes: string[] = [];
+  let earliestCreatedAt = Date.now();
+
+  for (const group of overlappingGroups) {
+    for (const apn of group.apns) mergedApns.add(apn);
+    for (const m of group.memberProfiles || []) mergedMembers.add(m);
+    for (const a of group.alliances || []) mergedAlliances.add(a);
+    for (const m of group.mutedProfiles || []) mergedMuted.add(m);
+    if (group.bannedProfiles) mergedBanned.push(...group.bannedProfiles);
+    if (group.notes) mergedNotes.push(group.notes);
+    if (group.createdAt < earliestCreatedAt) earliestCreatedAt = group.createdAt;
+  }
+
+  // Remove the overlapping groups
+  const overlappingIds = new Set(overlappingGroups.map(g => g.id));
+  const remainingGroups = groups.filter(g => !overlappingIds.has(g.id));
+
+  // Generate a name from ALL addresses in the merged group
+  const allApnsList = Array.from(mergedApns);
+
+  // Determine isSameBuilding: false if merging multiple groups (they're different buildings)
+  const mergedIsSameBuilding = overlappingGroups.length === 1
+    ? overlappingGroups[0].isSameBuilding
+    : false;
+
+  // Create the merged group
+  const mergedGroup: LinkedPropertyGroup = {
+    id: generateId(),
+    name,
+    apns: allApnsList,
+    createdBy,
+    createdAt: earliestCreatedAt,
+    notes: mergedNotes.length > 0 ? mergedNotes.join('; ') : notes,
+    isSameBuilding: isSameBuilding ?? mergedIsSameBuilding,
+    memberProfiles: mergedMembers.size > 0 ? Array.from(mergedMembers) : undefined,
+    alliances: mergedAlliances.size > 0 ? Array.from(mergedAlliances) : undefined,
+    mutedProfiles: mergedMuted.size > 0 ? Array.from(mergedMuted) : undefined,
+    bannedProfiles: mergedBanned.length > 0 ? mergedBanned : undefined,
+  };
+
+  remainingGroups.push(mergedGroup);
+  saveLinkedGroups(remainingGroups);
+
+  log.info(`Merged ${overlappingGroups.length} group(s) into "${name}" with ${allApnsList.length} properties`);
+
+  return mergedGroup;
+}
+
 export function updateLinkedGroup(id: string, updates: Partial<LinkedPropertyGroup>): void {
   const groups = getLinkedGroups();
   const index = groups.findIndex(g => g.id === id);
