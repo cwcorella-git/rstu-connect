@@ -250,12 +250,12 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
           <svg className="w-16 h-16 mx-auto text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
           </svg>
-          <h2 className="text-lg font-bold text-gray-900 mb-2">{t('mutualAid.title') || 'Mutual Aid'}</h2>
+          <h2 className="text-lg font-bold text-gray-900 mb-2">{t('mutualAid.lockedTitle')}</h2>
           <p className="text-sm text-gray-600 mb-4">
-            Mutual Aid is available to registered tenants only.
+            {t('mutualAid.lockedMessage')}
           </p>
           <p className="text-xs text-gray-500">
-            Create a profile to join the mutual aid network and share resources with your neighbors.
+            {t('mutualAid.lockedHelp')}
           </p>
         </div>
       </div>
@@ -361,7 +361,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                           <span className={`text-xs ${
                             post.status === 'open' ? 'text-green-600' : 'text-gray-400'
                           }`}>
-                            {post.status === 'open' ? 'Open' : post.status === 'in_progress' ? 'In Progress' : 'Fulfilled'}
+                            {post.status === 'open' ? t('mutualAid.statusOpen') : post.status === 'in_progress' ? t('mutualAid.statusInProgress') : t('mutualAid.statusFulfilled')}
                           </span>
                         </div>
                       </div>
@@ -406,7 +406,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                           <span className={`text-xs ${
                             item.status === 'available' ? 'text-green-600' : 'text-orange-600'
                           }`}>
-                            {item.status === 'available' ? 'Available' : 'Checked Out'}
+                            {item.status === 'available' ? t('mutualAid.statusAvailable') : t('mutualAid.statusCheckedOut')}
                           </span>
                         </div>
                       </div>
@@ -459,31 +459,31 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     <span className={`text-xs px-2 py-0.5 rounded-full ${
                       selectedItem.type === 'need' ? 'bg-orange-100 text-orange-700' : 'bg-green-100 text-green-700'
                     }`}>
-                      {selectedItem.type === 'need' ? 'Need' : 'Offer'}: {CATEGORY_LABELS[selectedItem.category]}
+                      {selectedItem.type === 'need' ? t('mutualAid.typeNeed') : t('mutualAid.typeOffer')}: {CATEGORY_LABELS[selectedItem.category]}
                     </span>
                     <h2 className="text-xl font-bold text-gray-900 mt-2">{selectedItem.title}</h2>
                   </div>
                   <span className={`text-sm font-medium ${
                     selectedItem.status === 'open' ? 'text-green-600' : 'text-gray-400'
                   }`}>
-                    {selectedItem.status === 'open' ? 'Open' : selectedItem.status === 'in_progress' ? 'In Progress' : 'Fulfilled'}
+                    {selectedItem.status === 'open' ? t('mutualAid.statusOpen') : selectedItem.status === 'in_progress' ? t('mutualAid.statusInProgress') : t('mutualAid.statusFulfilled')}
                   </span>
                 </div>
 
                 <p className="text-gray-700 mb-4">{selectedItem.details}</p>
 
                 <div className="bg-gray-50 rounded-lg p-4 mb-4">
-                  <h3 className="text-sm font-medium text-gray-900 mb-2">Building</h3>
+                  <h3 className="text-sm font-medium text-gray-900 mb-2">{t('mutualAid.building')}</h3>
                   <p className="text-sm text-gray-600">{selectedItem.buildingAddress}</p>
                 </div>
 
                 <div className="text-xs text-gray-400">
-                  Posted by {selectedItem.authorName} &middot; {new Date(selectedItem.createdAt).toLocaleDateString()}
+                  {t('mutualAid.postedBy')} {selectedItem.authorName} &middot; {new Date(selectedItem.createdAt).toLocaleDateString()}
                 </div>
 
                 {hasProfile && selectedItem.status === 'open' && (
                   <button className="mt-6 w-full px-4 py-3 bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors font-medium">
-                    {selectedItem.type === 'need' ? 'Offer to Help' : 'Request This'}
+                    {selectedItem.type === 'need' ? t('mutualAid.offerToHelp') : t('mutualAid.requestThis')}
                   </button>
                 )}
               </div>
@@ -500,19 +500,19 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                   <span className={`text-sm font-medium ${
                     selectedItem.status === 'available' ? 'text-green-600' : 'text-orange-600'
                   }`}>
-                    {selectedItem.status === 'available' ? 'Available' : 'Checked Out'}
+                    {selectedItem.status === 'available' ? t('mutualAid.statusAvailable') : t('mutualAid.statusCheckedOut')}
                   </span>
                 </div>
 
                 <p className="text-gray-700 mb-4">{selectedItem.description}</p>
 
                 <div className="bg-gray-50 rounded-lg p-4 mb-4">
-                  <h3 className="text-sm font-medium text-gray-900 mb-2">Pickup Location</h3>
+                  <h3 className="text-sm font-medium text-gray-900 mb-2">{t('mutualAid.pickupLocation')}</h3>
                   <p className="text-sm text-gray-600">{selectedItem.buildingAddress}</p>
                 </div>
 
                 <div className="text-xs text-gray-400">
-                  Shared by {selectedItem.ownerName}
+                  {t('mutualAid.sharedBy')} {selectedItem.ownerName}
                 </div>
 
                 {hasProfile && selectedItem.status === 'available' && selectedItem.ownerId !== profile?.id && (
@@ -520,7 +520,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     onClick={() => handleCheckOutResource(selectedItem.id)}
                     className="mt-6 w-full px-4 py-3 bg-rstu-red text-white rounded-lg hover:bg-red-700 transition-colors font-medium"
                   >
-                    Check Out
+                    {t('mutualAid.checkOut')}
                   </button>
                 )}
 
@@ -529,7 +529,7 @@ export function MutualAidPage({ buildings }: MutualAidPageProps) {
                     onClick={() => handleReturnResource(selectedItem.id)}
                     className="mt-6 w-full px-4 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors font-medium"
                   >
-                    Return Item
+                    {t('mutualAid.returnItem')}
                   </button>
                 )}
 

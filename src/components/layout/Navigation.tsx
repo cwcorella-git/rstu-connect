@@ -19,7 +19,7 @@ export function Navigation() {
   return (
     <>
       {/* Desktop Navigation */}
-      <nav className="hidden md:flex items-center space-x-4 xl:space-x-6 text-sm">
+      <nav className="hidden md:flex items-center space-x-2 lg:space-x-4 xl:space-x-6 text-xs lg:text-sm">
         {/* Home/Landing */}
         <button
           onClick={() => setActiveTab('landing')}

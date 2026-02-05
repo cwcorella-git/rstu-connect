@@ -57,6 +57,14 @@ interface CategoryGroupProps {
   onFeature?: (docId: string) => void
 }
 
+// Translate reading category names using translation keys
+function useCategoryLabel(category: string, t: (key: string) => string): string {
+  const slug = category.toLowerCase().replace(/[\s,&]+/g, '-').replace(/-+/g, '-')
+  const translated = t(`reading.category.${slug}`)
+  // If the key isn't translated (returns the key itself), fall back to original
+  return translated.startsWith('reading.category.') ? category : translated
+}
+
 const CategoryGroup = memo(({
   category,
   documents,
@@ -73,6 +81,8 @@ const CategoryGroup = memo(({
   onToggleFavorite,
   onFeature
 }: CategoryGroupProps) => {
+  const { t } = useLanguage()
+  const categoryLabel = useCategoryLabel(category, t)
   return (
     <div className="border-b border-gray-100">
       {/* Category Header - Styled with RSTU red and design consistency */}
@@ -95,7 +105,7 @@ const CategoryGroup = memo(({
         <span className={`font-semibold transition-colors duration-200 truncate ${
           isExpanded ? 'text-rstu-red' : 'text-gray-900'
         }`}>
-          {category}
+          {categoryLabel}
         </span>
 
         {/* Document Count */}

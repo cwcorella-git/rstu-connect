@@ -25,7 +25,7 @@ function FloatingChecklist() {
   return (
     <OnboardingChecklist
       onNavigate={(tab) => setActiveTab(tab as 'landing' | 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile')}
-      className="fixed bottom-4 right-4 w-80 z-50 max-h-[calc(100vh-8rem)] overflow-auto"
+      className="fixed bottom-4 left-4 right-4 sm:left-auto sm:w-80 z-50 max-h-[calc(100vh-8rem)] overflow-auto"
     />
   )
 }

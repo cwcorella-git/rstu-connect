@@ -98,7 +98,7 @@ export function UserList() {
         />
 
         {/* Filters */}
-        <div className="flex gap-2 mt-2">
+        <div className="flex flex-wrap gap-2 mt-2">
           <select
             value={filters.role}
             onChange={(e) => setFilters({ role: e.target.value as UserRole | 'all' })}
@@ -124,7 +124,7 @@ export function UserList() {
           <select
             value={sortField}
             onChange={(e) => setSort(e.target.value as typeof sortField)}
-            className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
+            className="text-sm px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500 max-w-[220px]"
           >
             <option value="lastActive">{t('users.sortBy')}: {t('users.recentActivity')}</option>
             <option value="nickname">{t('users.sortBy')}: {t('users.name')}</option>
@@ -134,7 +134,7 @@ export function UserList() {
 
           {/* Show banned users toggle (admin-only) */}
           {canChangeRoles && (
-            <label className="flex items-center gap-2 text-sm text-gray-700 border border-gray-300 px-2 py-1 rounded hover:bg-gray-50 cursor-pointer">
+            <label className="flex items-center gap-2 text-sm text-gray-700 border border-gray-300 px-2 py-1 rounded hover:bg-gray-50 cursor-pointer whitespace-nowrap">
               <input
                 type="checkbox"
                 checked={filters.showBanned || false}
