@@ -26,8 +26,13 @@ export function LandlordDetail({ landlord, onSelectBuilding }: LandlordDetailPro
         <h2 className="text-lg font-bold text-gray-900 break-words">
           {landlord.ownerName}
         </h2>
-        <div className="flex items-center gap-2 mt-1">
-          {landlord.isCorporateOwned && (
+        <div className="flex flex-wrap items-center gap-2 mt-1">
+          {landlord.managementCompanyId && (
+            <span className="px-2 py-0.5 rounded text-xs font-medium bg-purple-100 text-purple-700">
+              Management Company
+            </span>
+          )}
+          {!landlord.managementCompanyId && landlord.isCorporateOwned && (
             <span className="px-2 py-0.5 rounded text-xs font-medium bg-purple-100 text-purple-700">
               Corporate Landlord
             </span>
@@ -38,6 +43,16 @@ export function LandlordDetail({ landlord, onSelectBuilding }: LandlordDetailPro
             </span>
           )}
         </div>
+        {/* Show child owner names for management companies */}
+        {landlord.childOwnerNames && landlord.childOwnerNames.length > 0 && (
+          <div className="mt-2 text-xs text-gray-500">
+            <span className="font-medium">{landlord.childOwnerNames.length} subsidiary entities: </span>
+            <span className="line-clamp-2">
+              {landlord.childOwnerNames.slice(0, 5).join(', ')}
+              {landlord.childOwnerNames.length > 5 && ` +${landlord.childOwnerNames.length - 5} more`}
+            </span>
+          </div>
+        )}
       </div>
 
       {/* Tab Bar */}

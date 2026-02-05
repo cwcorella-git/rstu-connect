@@ -1,8 +1,8 @@
 {
-  "commit": "3750b45a",
-  "message": "Landing pages: Full i18n, HowItWorks redesign, fix edit bar overlap",
+  "commit": "86fe8f43",
+  "message": "Replace dual stars with single cycling star in reading library",
   "author": "cwcorella-git",
-  "date": "2026-02-04 17:29:53 -0800",
+  "date": "2026-02-04 18:07:52 -0800",
   "branch": "main",
-  "buildTime": "2026-02-05T01:34:22.701Z"
+  "buildTime": "2026-02-05T03:04:28.077Z"
 }

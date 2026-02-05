@@ -19,13 +19,20 @@ export function LandlordCard({ landlord, isSelected, onClick }: LandlordCardProp
         isSelected ? 'bg-red-50 border-l-4 border-rstu-red' : ''
       }`}
     >
-      {/* Owner name */}
+      {/* Owner name / Management company name */}
       <div className="font-medium text-gray-900 text-sm pr-12 line-clamp-1">
         {landlord.ownerName}
       </div>
 
-      {/* Corporate badge */}
-      {landlord.isCorporateOwned && (
+      {/* Management company badge (for grouped entities) */}
+      {landlord.managementCompanyId && (
+        <span className="inline-block mt-0.5 px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700">
+          {landlord.childOwnerNames?.length || 1} entities
+        </span>
+      )}
+
+      {/* Corporate badge (for individual owners) */}
+      {!landlord.managementCompanyId && landlord.isCorporateOwned && (
         <span className="inline-block mt-0.5 px-1.5 py-0.5 rounded text-[10px] font-medium bg-purple-100 text-purple-700">
           Corporate
         </span>

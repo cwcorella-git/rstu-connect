@@ -249,16 +249,35 @@ MGMT_NOISE_PATTERNS = [
     'ACCOUNTS PAYABLE', 'LEGAL DEPT', 'TAX OFFICE',
 ]
 
+# Owner name patterns that indicate a specific parent management company.
+# These are applied AFTER C/O/ATTN detection and override when matched.
+# Useful for LPs that share a parent entity but file under different names.
+OWNER_NAME_MGMT_MAP = [
+    # Vintage Housing Holdings LLC - "X BY VINTAGE LP" and "VINTAGE AT X LP" entities
+    # All share HQ at 369 San Miguel Dr STE 135, Newport Beach, CA 92660
+    (re.compile(r'\b(BY VINTAGE|VINTAGE AT)\b', re.IGNORECASE), 'VINTAGE HOUSING HOLDINGS LLC'),
+]
 
-def extract_management_company(owner_address: str) -> tuple[str | None, str]:
+
+def extract_management_company(owner_name: str, owner_address: str) -> tuple[str | None, str]:
     """
-    Extract management company from owner_address field.
-    Returns (company_name, detection_method) where method is 'c/o', 'attn', or 'none'.
+    Extract management company from owner name patterns or owner_address field.
+    Returns (company_name, detection_method) where method is 'owner_name', 'c/o', 'attn', or 'none'.
+
+    Owner name patterns take priority (e.g., "STEAMBOAT BY VINTAGE LP" -> Vintage Housing Holdings).
+    Falls back to C/O and ATTN patterns in owner_address.
     """
+    # Check owner name patterns first (highest confidence - known corporate groups)
+    if owner_name:
+        owner_upper = owner_name.upper()
+        for pattern, company_name in OWNER_NAME_MGMT_MAP:
+            if pattern.search(owner_upper):
+                return company_name, 'owner_name'
+
     if not owner_address:
         return None, 'none'
 
-    # Try C/O pattern first (higher confidence)
+    # Try C/O pattern (high confidence)
     match = CO_PATTERN.search(owner_address)
     if match:
         name = match.group(1).strip().upper()
@@ -636,8 +655,8 @@ def main():
             prop["t"] = coords[0]  # latitude
             prop["g"] = coords[1]  # longitude
 
-        # Extract management company from owner_address (C/O or ATTN patterns)
-        mgmt_name, mgmt_method = extract_management_company(owner_address)
+        # Extract management company from owner name patterns or owner_address (C/O or ATTN patterns)
+        mgmt_name, mgmt_method = extract_management_company(owner, owner_address)
         if mgmt_name:
             mgmt_id = generate_mgmt_id(mgmt_name)
             prop["mc"] = mgmt_id
@@ -896,6 +915,7 @@ def main():
     mgmt_units = sum(p.get('u', 0) for p in properties if 'mc' in p)
     # Split stats by detection method
     co_attn_companies = [m for m in mgmt_list if m.get('detection_method') in ('c/o', 'attn')]
+    owner_name_companies = [m for m in mgmt_list if m.get('detection_method') == 'owner_name']
     addr_portfolios = [m for m in mgmt_list if m.get('detection_method') == 'address']
 
     with_portfolio = sum(1 for p in properties if 'pf' in p)
@@ -903,11 +923,18 @@ def main():
 
     print(f"\nManagement Companies (C/O + ATTN patterns):")
     print(f"  Companies: {len(co_attn_companies):,}")
-    print(f"  Properties with mc: {with_mgmt:,}")
-    print(f"  Units covered: {mgmt_units:,}")
     print(f"  Top 5 by units:")
     for mgmt in co_attn_companies[:5]:
         print(f"    - {mgmt['name']}: {mgmt['units']:,} units, {mgmt['property_count']} properties")
+
+    if owner_name_companies:
+        print(f"\nManagement Companies (owner name patterns):")
+        print(f"  Companies: {len(owner_name_companies):,}")
+        for mgmt in owner_name_companies:
+            print(f"    - {mgmt['name']}: {mgmt['units']:,} units, {mgmt['property_count']} properties")
+
+    print(f"\nTotal properties with mc: {with_mgmt:,}")
+    print(f"Total units with mc: {mgmt_units:,}")
 
     print(f"\nAddress-Based Portfolios (2+ owners at same address):")
     print(f"  Portfolios: {len(addr_portfolios):,}")

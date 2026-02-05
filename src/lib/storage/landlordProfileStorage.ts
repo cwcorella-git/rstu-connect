@@ -10,7 +10,6 @@ import type { EnhancedBuilding } from '../data/getBuildingsData'
 import {
   getBuildingOrganizing,
   type OrganizingStatus,
-  calculateOrganizingStatus,
 } from './buildingOrganizingStorage'
 import { COMPLAINT_CATEGORIES as CATEGORIES_ARRAY } from './canvassStorage'
 
@@ -53,6 +52,11 @@ export interface LandlordProfile {
   // From database (if available)
   accountabilityScore?: number
   isCorporateOwned: boolean
+
+  // Management company grouping (when grouped by mc)
+  managementCompanyId?: string
+  managementCompanyName?: string
+  childOwnerNames?: string[]  // All owner names under this management company
 }
 
 // === HELPER FUNCTIONS ===
@@ -214,6 +218,145 @@ export function getAllLandlords(buildings: EnhancedBuilding[]): LandlordProfile[
   })
 
   return profiles
+}
+
+/**
+ * Get all landlords grouped by management company.
+ * Properties with the same managementCompanyId are consolidated into one profile.
+ * Properties without a managementCompanyId appear individually by owner.
+ */
+export function getAllLandlordsByManagementCompany(buildings: EnhancedBuilding[]): LandlordProfile[] {
+  // Separate buildings with and without management company
+  const withMc: EnhancedBuilding[] = []
+  const withoutMc: EnhancedBuilding[] = []
+
+  for (const building of buildings) {
+    if (building.managementCompanyId) {
+      withMc.push(building)
+    } else {
+      withoutMc.push(building)
+    }
+  }
+
+  // Group buildings with management company by mc ID
+  const mcMap = new Map<string, EnhancedBuilding[]>()
+  for (const building of withMc) {
+    const mcId = building.managementCompanyId!
+    if (!mcMap.has(mcId)) {
+      mcMap.set(mcId, [])
+    }
+    mcMap.get(mcId)!.push(building)
+  }
+
+  // Build profiles for each management company
+  const mcProfiles: LandlordProfile[] = []
+  mcMap.forEach((mcBuildings, mcId) => {
+    // Get unique owner names under this mc
+    const ownerNames = new Set<string>()
+    for (const b of mcBuildings) {
+      ownerNames.add(b.owner)
+    }
+
+    // Use management company ID as the display name (format nicely)
+    const mcName = mcId
+      .split('-')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ')
+
+    // Build aggregated profile
+    const profile = buildMcProfile(mcName, mcBuildings)
+    profile.managementCompanyId = mcId
+    profile.managementCompanyName = mcName
+    profile.childOwnerNames = Array.from(ownerNames).sort()
+
+    mcProfiles.push(profile)
+  })
+
+  // Get individual owner profiles for buildings without mc
+  const ownerProfiles = getAllLandlords(withoutMc)
+
+  // Combine and sort
+  const allProfiles = [...mcProfiles, ...ownerProfiles]
+  allProfiles.sort((a, b) => {
+    if (b.totalProperties !== a.totalProperties) {
+      return b.totalProperties - a.totalProperties
+    }
+    return b.totalUnits - a.totalUnits
+  })
+
+  return allProfiles
+}
+
+/**
+ * Build a landlord profile for a management company (aggregates multiple owners)
+ */
+function buildMcProfile(
+  mcName: string,
+  buildings: EnhancedBuilding[]
+): LandlordProfile {
+  const properties: LandlordProperty[] = []
+  const complaintsByCategory: Record<string, number> = {}
+  let totalComplaints = 0
+  let totalDemands = 0
+  let buildingsWithActivity = 0
+  const statusCounts: Record<OrganizingStatus, number> = {
+    inactive: 0,
+    emerging: 0,
+    active: 0,
+    strike_ready: 0,
+  }
+
+  for (const building of buildings) {
+    const organizing = getBuildingOrganizing(building.chatSlug)
+    const status = getSimpleOrganizingStatus(building)
+    const complaintsCount = organizing.complaints.length
+    const demandsCount = organizing.demands.length
+
+    properties.push({
+      apn: building.apn,
+      address: building.address,
+      chatSlug: building.chatSlug,
+      units: building.units,
+      value: building.value,
+      organizingStatus: status,
+      complaintsCount,
+      demandsCount,
+    })
+
+    for (const complaint of organizing.complaints) {
+      const cat = complaint.category
+      complaintsByCategory[cat] = (complaintsByCategory[cat] || 0) + 1
+      totalComplaints++
+    }
+
+    totalDemands += demandsCount
+    statusCounts[status]++
+
+    if (complaintsCount > 0 || demandsCount > 0) {
+      buildingsWithActivity++
+    }
+  }
+
+  properties.sort((a, b) => b.units - a.units)
+
+  const isCorporateOwned = buildings.some(b => b.isCorporateOwned)
+  const accountabilityScore = buildings.find(b => b.overallAccountabilityScore)
+    ?.overallAccountabilityScore
+
+  return {
+    ownerName: mcName,
+    properties,
+    totalProperties: properties.length,
+    totalUnits: properties.reduce((sum, p) => sum + p.units, 0),
+    totalValue: properties.reduce((sum, p) => sum + p.value, 0),
+    complaintsByCategory,
+    totalComplaints,
+    totalDemands,
+    buildingsWithActivity,
+    statusCounts,
+    accountabilityScore,
+    isCorporateOwned,
+  }
 }
 
 /**

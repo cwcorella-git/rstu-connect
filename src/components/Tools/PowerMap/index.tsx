@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useEffect } from 'react'
 import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
-import { getAllLandlords, type LandlordProfile } from '@/lib/storage/landlordProfileStorage'
+import { getAllLandlords, getAllLandlordsByManagementCompany, type LandlordProfile } from '@/lib/storage/landlordProfileStorage'
 import { LandlordList } from './LandlordList'
 import { LandlordDetail } from './LandlordDetail'
 
@@ -16,9 +16,13 @@ export function PowerMap({ buildings, onSelectBuilding, initialLandlord }: Power
   const [selectedLandlord, setSelectedLandlord] = useState<LandlordProfile | null>(null)
   const [mobileView, setMobileView] = useState<'list' | 'detail'>('list')
   const [isDesktop, setIsDesktop] = useState(true)
+  const [groupByMgmt, setGroupByMgmt] = useState(true) // Default to grouped view
 
-  // Compute all landlord profiles
-  const landlords = useMemo(() => getAllLandlords(buildings), [buildings])
+  // Compute all landlord profiles (grouped by management company or individual owners)
+  const landlords = useMemo(() =>
+    groupByMgmt ? getAllLandlordsByManagementCompany(buildings) : getAllLandlords(buildings),
+    [buildings, groupByMgmt]
+  )
 
   // Handle initial landlord selection
   useEffect(() => {
@@ -69,13 +73,37 @@ export function PowerMap({ buildings, onSelectBuilding, initialLandlord }: Power
       <div className={`${mobileView === 'list' ? 'flex' : 'hidden'} md:flex flex-col w-full md:w-2/5 border-r border-gray-200 bg-white overflow-hidden`}>
         {/* Header with stats */}
         <div className="p-4 border-b border-gray-200 bg-gray-50">
-          <h2 className="text-lg font-bold text-gray-900">Power Map</h2>
-          <p className="text-xs text-gray-500 mt-1">
-            Landlord portfolios and organizing activity
-          </p>
+          <div className="flex items-center justify-between">
+            <div>
+              <h2 className="text-lg font-bold text-gray-900">Power Map</h2>
+              <p className="text-xs text-gray-500 mt-1">
+                Landlord portfolios and organizing activity
+              </p>
+            </div>
+            {/* Group by management company toggle */}
+            <button
+              onClick={() => {
+                setGroupByMgmt(!groupByMgmt)
+                setSelectedLandlord(null) // Clear selection when switching views
+              }}
+              className={`px-2 py-1 text-xs rounded border transition-colors ${
+                groupByMgmt
+                  ? 'bg-purple-100 border-purple-300 text-purple-700'
+                  : 'bg-white border-gray-300 text-gray-600 hover:bg-gray-50'
+              }`}
+              title={groupByMgmt ? 'Grouped by management company' : 'Showing individual owners'}
+            >
+              <span className="flex items-center gap-1">
+                <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                </svg>
+                {groupByMgmt ? 'Grouped' : 'Individual'}
+              </span>
+            </button>
+          </div>
           <div className="mt-2 flex flex-wrap gap-2">
             <span className="px-2 py-1 bg-white rounded text-xs text-gray-600 border border-gray-200">
-              {stats.total} landlords
+              {stats.total} {groupByMgmt ? 'entities' : 'owners'}
             </span>
             {stats.withActivity > 0 && (
               <span className="px-2 py-1 bg-orange-50 rounded text-xs text-orange-600 border border-orange-200">
