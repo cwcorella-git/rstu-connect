@@ -1306,11 +1306,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.privacyDescription': 'Organizers can view profiles to coordinate tenant outreach. Rent data is only used for anonymous building averages.',
 
     // Modal/Dialog
-    'modal.title': 'Confirm',
-    'modal.deleteConfirm': 'Are you sure you want to delete this?',
-    'modal.unsavedChanges': 'You have unsaved changes.',
-    'modal.discardChanges': 'Discard Changes',
-    'modal.keepEditing': 'Keep Editing',
 
     // Authentication
     'auth.adminRequired': 'Admin Access Required',
@@ -1333,17 +1328,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'role.confirmChange': 'Confirm Change',
 
     // Role Permissions
-    'permission.viewOwnProfile': 'View own profile',
-    'permission.participateChat': 'Participate in building chats',
-    'permission.readingLibrary': 'Access reading library',
-    'permission.allTenantPerms': 'All tenant permissions',
-    'permission.toolsTab': 'Access Tools tab (canvassing)',
-    'permission.viewAllProfiles': 'View all user profiles',
-    'permission.inviteCodes': 'Create tenant invite codes',
-    'permission.allOrganizerPerms': 'All organizer permissions',
-    'permission.changeRoles': 'Change user roles',
-    'permission.adminInvites': 'Create organizer/admin invites',
-    'permission.auditLog': 'View audit log',
 
     // Chat Categories
     'chat.maintenance': 'Maintenance',
@@ -1703,24 +1687,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'voteSuggestion.escalateLabel': 'Escalate a demand',
     'voteSuggestion.escalateDesc': 'Vote to escalate a demand to the next level',
     // Issue Suggestion
-    'issueSuggestion.title': 'Report Issue',
-    'issueSuggestion.subtitle': 'Report an issue at {address}. Tenants will vote on submitted issues. Issues with +5 net votes become official demands.',
-    'issueSuggestion.issueCategory': 'Issue Category',
-    'issueSuggestion.selectCategory': 'Select a category...',
-    'issueSuggestion.issueTitle': 'Issue Title',
-    'issueSuggestion.issueTitlePlaceholder': 'e.g., Broken elevator on floor 3',
-    'issueSuggestion.details': 'Details (optional)',
-    'issueSuggestion.detailsPlaceholder': 'Describe the issue in detail...',
-    'issueSuggestion.preview': 'Preview',
-    'issueSuggestion.howVotingWorks': 'How voting works:',
-    'issueSuggestion.tenantsCanVote': 'Tenants on this property can vote',
-    'issueSuggestion.promotesDemand': '+5 net votes promotes issue to a demand',
-    'issueSuggestion.rejectsIssue': '-3 net votes rejects the issue',
-    'issueSuggestion.externalActions': 'External Actions Available',
-    'issueSuggestion.fileCodeEnforcement': 'File Code Enforcement Complaint',
-    'issueSuggestion.getLegalAid': 'Get Legal Aid Help',
-    'issueSuggestion.downloadDemandLetter': 'Download Demand Letter Template',
-    'issueSuggestion.submitIssue': 'Submit Issue',
     'campaign.progress': 'progress',
 
     // Common - additional
@@ -1839,11 +1805,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'eventCard.monthly': 'Monthly',
 
     // Event Editor
-    'eventEditor.virtualMeeting': 'Virtual Meeting',
-    'eventEditor.titleRequired': 'Please enter an event title',
-    'eventEditor.descriptionRequired': 'Please enter a description for the event',
-    'eventEditor.dateRequired': 'Please select a date and time',
-    'eventEditor.locationRequired': 'Please enter a location or mark as virtual',
 
     // Error Boundary
     'error.somethingWrong': 'Something went wrong',
@@ -1982,18 +1943,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.oppose': 'Oppose',
 
     // Mission Header
-    'mission.tagline': 'Housing is a right, not a privilege',
-    'mission.expand': 'Expand',
-    'mission.collapse': 'Collapse',
-    'mission.title': 'Reno-Sparks Tenants Union',
-    'mission.subtitle': 'Building collective power for housing justice',
-    'mission.stats.rentals': 'rentals tracked',
-    'mission.stats.rentIncrease': 'rent increase (5yr)',
-    'mission.stats.corporate': 'corporate-owned',
-    'mission.stats.members': 'active members',
-    'mission.action.report': 'Report Issue',
-    'mission.action.meeting': 'Find Meeting',
-    'mission.action.rights': 'Know Your Rights',
 
     // Organize page
     'organize.verificationRequired': 'Verification Required',
@@ -3599,24 +3548,8 @@ const translations: Record<Locale, Record<string, string>> = {
     'auth.contactAdmins': 'Contacta a los organizadores de RSTU para acceso de administrador',
 
     // Modal
-    'modal.title': 'Confirmar',
-    'modal.deleteConfirm': '¿Estás seguro de que quieres eliminar esto?',
-    'modal.unsavedChanges': 'Tienes cambios sin guardar.',
-    'modal.discardChanges': 'Descartar Cambios',
-    'modal.keepEditing': 'Seguir Editando',
 
     // Permissions
-    'permission.viewOwnProfile': 'Ver perfil propio',
-    'permission.participateChat': 'Participar en chats del edificio',
-    'permission.readingLibrary': 'Acceder a biblioteca de lectura',
-    'permission.allTenantPerms': 'Todos los permisos de inquilino',
-    'permission.toolsTab': 'Acceder a pestaña de Herramientas (canvassing)',
-    'permission.viewAllProfiles': 'Ver todos los perfiles de usuarios',
-    'permission.inviteCodes': 'Crear códigos de invitación para inquilinos',
-    'permission.allOrganizerPerms': 'Todos los permisos de organizador',
-    'permission.changeRoles': 'Cambiar roles de usuarios',
-    'permission.adminInvites': 'Crear invitaciones de organizador/administrador',
-    'permission.auditLog': 'Ver registro de auditoría',
 
     // Role Management
     'role.promote': 'Promover',
@@ -3771,24 +3704,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'voteSuggestion.escalateLabel': 'Escalar una demanda',
     'voteSuggestion.escalateDesc': 'Votar para escalar una demanda al siguiente nivel',
     // Issue Suggestion
-    'issueSuggestion.title': 'Reportar Problema',
-    'issueSuggestion.subtitle': 'Reportar un problema en {address}. Los inquilinos votarán sobre los problemas enviados. Los problemas con +5 votos netos se convierten en demandas oficiales.',
-    'issueSuggestion.issueCategory': 'Categoría del Problema',
-    'issueSuggestion.selectCategory': 'Selecciona una categoría...',
-    'issueSuggestion.issueTitle': 'Título del Problema',
-    'issueSuggestion.issueTitlePlaceholder': 'ej., Elevador roto en el piso 3',
-    'issueSuggestion.details': 'Detalles (opcional)',
-    'issueSuggestion.detailsPlaceholder': 'Describe el problema en detalle...',
-    'issueSuggestion.preview': 'Vista previa',
-    'issueSuggestion.howVotingWorks': 'Cómo funciona la votación:',
-    'issueSuggestion.tenantsCanVote': 'Los inquilinos de esta propiedad pueden votar',
-    'issueSuggestion.promotesDemand': '+5 votos netos promueve el problema a una demanda',
-    'issueSuggestion.rejectsIssue': '-3 votos netos rechaza el problema',
-    'issueSuggestion.externalActions': 'Acciones Externas Disponibles',
-    'issueSuggestion.fileCodeEnforcement': 'Presentar Queja de Cumplimiento de Código',
-    'issueSuggestion.getLegalAid': 'Obtener Ayuda Legal',
-    'issueSuggestion.downloadDemandLetter': 'Descargar Plantilla de Carta de Demanda',
-    'issueSuggestion.submitIssue': 'Enviar Problema',
     'campaign.progress': 'progreso',
 
     // Common - additional
@@ -3907,11 +3822,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'eventCard.monthly': 'Mensual',
 
     // Event Editor
-    'eventEditor.virtualMeeting': 'Reunión Virtual',
-    'eventEditor.titleRequired': 'Por favor ingrese un título para el evento',
-    'eventEditor.descriptionRequired': 'Por favor ingrese una descripción',
-    'eventEditor.dateRequired': 'Por favor seleccione una fecha y hora',
-    'eventEditor.locationRequired': 'Por favor ingrese una ubicación o marque como virtual',
 
     // Error Boundary
     'error.somethingWrong': 'Algo salió mal',
@@ -4050,18 +3960,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.oppose': 'Oponerse',
 
     // Mission Header
-    'mission.tagline': 'La vivienda es un derecho, no un privilegio',
-    'mission.expand': 'Expandir',
-    'mission.collapse': 'Colapsar',
-    'mission.title': 'Unión de Inquilinos de Reno-Sparks',
-    'mission.subtitle': 'Construyendo poder colectivo para la justicia de vivienda',
-    'mission.stats.rentals': 'alquileres rastreados',
-    'mission.stats.rentIncrease': 'aumento de alquiler (5 años)',
-    'mission.stats.corporate': 'propiedad corporativa',
-    'mission.stats.members': 'miembros activos',
-    'mission.action.report': 'Reportar Problema',
-    'mission.action.meeting': 'Encontrar Reunión',
-    'mission.action.rights': 'Conoce Tus Derechos',
 
     // Organize page
     'organize.verificationRequired': 'Verificación Requerida',
@@ -5482,24 +5380,8 @@ const translations: Record<Locale, Record<string, string>> = {
     'auth.contactAdmins': 'Makipag-ugnayan sa mga organizer ng RSTU para sa admin access',
 
     // Modal
-    'modal.title': 'Kumpirmahin',
-    'modal.deleteConfirm': 'Sigurado ka bang gusto mong burahin ito?',
-    'modal.unsavedChanges': 'May mga pagbabagong hindi pa nase-save.',
-    'modal.discardChanges': 'Itapon ang mga Pagbabago',
-    'modal.keepEditing': 'Magpatuloy sa Pag-edit',
 
     // Permissions
-    'permission.viewOwnProfile': 'Tingnan ang sariling profile',
-    'permission.participateChat': 'Lumahok sa mga chat ng gusali',
-    'permission.readingLibrary': 'I-access ang reading library',
-    'permission.allTenantPerms': 'Lahat ng pahintulot ng tenant',
-    'permission.toolsTab': 'I-access ang Tools tab (canvassing)',
-    'permission.viewAllProfiles': 'Tingnan ang lahat ng profile ng user',
-    'permission.inviteCodes': 'Gumawa ng mga invite code para sa tenant',
-    'permission.allOrganizerPerms': 'Lahat ng pahintulot ng organizer',
-    'permission.changeRoles': 'Baguhin ang mga role ng user',
-    'permission.adminInvites': 'Gumawa ng mga invite para sa organizer/admin',
-    'permission.auditLog': 'Tingnan ang audit log',
 
     // Role Management
     'role.promote': 'I-promote',
@@ -5897,24 +5779,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'voteSuggestion.escalateLabel': 'I-escalate ang demand',
     'voteSuggestion.escalateDesc': 'Bumoto para i-escalate ang demand sa susunod na antas',
     // Issue Suggestion
-    'issueSuggestion.title': 'Mag-ulat ng Isyu',
-    'issueSuggestion.subtitle': 'Mag-ulat ng isyu sa {address}. Ang mga nangungupahan ay boboto sa mga isinumiteng isyu. Ang mga isyu na may +5 net na boto ay nagiging opisyal na mga kahilingan.',
-    'issueSuggestion.issueCategory': 'Kategorya ng Isyu',
-    'issueSuggestion.selectCategory': 'Pumili ng kategorya...',
-    'issueSuggestion.issueTitle': 'Pamagat ng Isyu',
-    'issueSuggestion.issueTitlePlaceholder': 'hal., Sirang elevator sa floor 3',
-    'issueSuggestion.details': 'Mga Detalye (opsyonal)',
-    'issueSuggestion.detailsPlaceholder': 'Ilarawan ang isyu nang detalyado...',
-    'issueSuggestion.preview': 'Preview',
-    'issueSuggestion.howVotingWorks': 'Paano gumagana ang pagboto:',
-    'issueSuggestion.tenantsCanVote': 'Ang mga nangungupahan sa ari-ariang ito ay maaaring bumoto',
-    'issueSuggestion.promotesDemand': '+5 net na boto ang nag-promote ng isyu sa kahilingan',
-    'issueSuggestion.rejectsIssue': '-3 net na boto ang tumanggi sa isyu',
-    'issueSuggestion.externalActions': 'Mga Available na Panlabas na Aksyon',
-    'issueSuggestion.fileCodeEnforcement': 'Mag-file ng Reklamo sa Code Enforcement',
-    'issueSuggestion.getLegalAid': 'Kumuha ng Tulong Legal',
-    'issueSuggestion.downloadDemandLetter': 'I-download ang Template ng Demand Letter',
-    'issueSuggestion.submitIssue': 'Isumite ang Isyu',
     'campaign.progress': 'progreso',
 
     // Common - additional
@@ -6033,11 +5897,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'eventCard.monthly': 'Buwanan',
 
     // Event Editor
-    'eventEditor.virtualMeeting': 'Virtual na Pulong',
-    'eventEditor.titleRequired': 'Mangyaring maglagay ng pamagat ng event',
-    'eventEditor.descriptionRequired': 'Mangyaring maglagay ng paglalarawan',
-    'eventEditor.dateRequired': 'Mangyaring pumili ng petsa at oras',
-    'eventEditor.locationRequired': 'Mangyaring maglagay ng lokasyon o markahan bilang virtual',
 
     // Error Boundary
     'error.somethingWrong': 'May nangyaring mali',
@@ -6173,18 +6032,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.oppose': 'Tutulan',
 
     // Mission Header
-    'mission.tagline': 'Ang pabahay ay karapatan, hindi pribilehiyo',
-    'mission.expand': 'Palawakin',
-    'mission.collapse': 'I-collapse',
-    'mission.title': 'Unyon ng mga Nangungupahan ng Reno-Sparks',
-    'mission.subtitle': 'Nagtatayo ng kolektibong kapangyarihan para sa hustisya sa pabahay',
-    'mission.stats.rentals': 'mga upa na sinusubaybayan',
-    'mission.stats.rentIncrease': 'pagtaas ng upa (5 taon)',
-    'mission.stats.corporate': 'pag-aari ng korporasyon',
-    'mission.stats.members': 'aktibong miyembro',
-    'mission.action.report': 'Mag-ulat ng Isyu',
-    'mission.action.meeting': 'Hanapin ang Pulong',
-    'mission.action.rights': 'Alamin ang Iyong Karapatan',
 
     // Organize page
     'organize.verificationRequired': 'Kailangan ng Beripikasyon',
@@ -7607,24 +7454,8 @@ const translations: Record<Locale, Record<string, string>> = {
     'auth.contactAdmins': '联系 RSTU 组织者获取管理员权限',
 
     // Modal
-    'modal.title': '确认',
-    'modal.deleteConfirm': '确定要删除吗？',
-    'modal.unsavedChanges': '您有未保存的更改。',
-    'modal.discardChanges': '放弃更改',
-    'modal.keepEditing': '继续编辑',
 
     // Permissions
-    'permission.viewOwnProfile': '查看自己的个人资料',
-    'permission.participateChat': '参与建筑聊天',
-    'permission.readingLibrary': '访问阅读库',
-    'permission.allTenantPerms': '所有租户权限',
-    'permission.toolsTab': '访问工具标签（走访）',
-    'permission.viewAllProfiles': '查看所有用户资料',
-    'permission.inviteCodes': '创建租户邀请码',
-    'permission.allOrganizerPerms': '所有组织者权限',
-    'permission.changeRoles': '更改用户角色',
-    'permission.adminInvites': '创建组织者/管理员邀请',
-    'permission.auditLog': '查看审计日志',
 
     // Role Management
     'role.promote': '提升',
@@ -8021,24 +7852,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'voteSuggestion.escalateLabel': '升级要求',
     'voteSuggestion.escalateDesc': '投票将要求升级到下一级别',
     // Issue Suggestion
-    'issueSuggestion.title': '报告问题',
-    'issueSuggestion.subtitle': '在{address}报告问题。租户将对提交的问题进行投票。获得+5净票数的问题将成为正式要求。',
-    'issueSuggestion.issueCategory': '问题类别',
-    'issueSuggestion.selectCategory': '选择类别...',
-    'issueSuggestion.issueTitle': '问题标题',
-    'issueSuggestion.issueTitlePlaceholder': '例如，3楼电梯故障',
-    'issueSuggestion.details': '详情（可选）',
-    'issueSuggestion.detailsPlaceholder': '详细描述问题...',
-    'issueSuggestion.preview': '预览',
-    'issueSuggestion.howVotingWorks': '投票如何运作：',
-    'issueSuggestion.tenantsCanVote': '此房产的租户可以投票',
-    'issueSuggestion.promotesDemand': '+5净票数将问题提升为要求',
-    'issueSuggestion.rejectsIssue': '-3净票数拒绝该问题',
-    'issueSuggestion.externalActions': '可用的外部操作',
-    'issueSuggestion.fileCodeEnforcement': '提交代码执法投诉',
-    'issueSuggestion.getLegalAid': '获取法律援助',
-    'issueSuggestion.downloadDemandLetter': '下载要求信模板',
-    'issueSuggestion.submitIssue': '提交问题',
     'campaign.progress': '进度',
 
     // Common - additional
@@ -8157,11 +7970,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'eventCard.monthly': '每月',
 
     // Event Editor
-    'eventEditor.virtualMeeting': '线上会议',
-    'eventEditor.titleRequired': '请输入活动标题',
-    'eventEditor.descriptionRequired': '请输入活动描述',
-    'eventEditor.dateRequired': '请选择日期和时间',
-    'eventEditor.locationRequired': '请输入地点或标记为线上',
 
     // Error Boundary
     'error.somethingWrong': '出了点问题',
@@ -8297,18 +8105,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.oppose': '反对',
 
     // Mission Header
-    'mission.tagline': '住房是权利，不是特权',
-    'mission.expand': '展开',
-    'mission.collapse': '收起',
-    'mission.title': '雷诺-斯帕克斯租户联盟',
-    'mission.subtitle': '为住房正义建立集体力量',
-    'mission.stats.rentals': '追踪的出租房',
-    'mission.stats.rentIncrease': '租金上涨（5年）',
-    'mission.stats.corporate': '企业所有',
-    'mission.stats.members': '活跃成员',
-    'mission.action.report': '报告问题',
-    'mission.action.meeting': '查找会议',
-    'mission.action.rights': '了解您的权利',
 
     // Organize page
     'organize.verificationRequired': '需要验证',
@@ -9553,11 +9349,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'messages.confirmNamePress': 'Nhấn Enter hoặc nhấp "Đặt tên" để xác nhận',
 
     // Modal
-    'modal.title': 'Xác nhận',
-    'modal.deleteConfirm': 'Bạn có chắc muốn xóa không?',
-    'modal.unsavedChanges': 'Bạn có thay đổi chưa lưu.',
-    'modal.discardChanges': 'Bỏ thay đổi',
-    'modal.keepEditing': 'Tiếp tục chỉnh sửa',
 
     // Authentication
     'auth.adminRequired': 'Yêu cầu quyền quản trị',
@@ -9568,17 +9359,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'auth.contactAdmins': 'Liên hệ người tổ chức RSTU để được cấp quyền quản trị',
 
     // Permissions
-    'permission.viewOwnProfile': 'Xem hồ sơ của mình',
-    'permission.participateChat': 'Tham gia trò chuyện tòa nhà',
-    'permission.readingLibrary': 'Truy cập thư viện đọc',
-    'permission.allTenantPerms': 'Tất cả quyền người thuê',
-    'permission.toolsTab': 'Truy cập tab Công cụ (vận động)',
-    'permission.viewAllProfiles': 'Xem tất cả hồ sơ người dùng',
-    'permission.inviteCodes': 'Tạo mã mời người thuê',
-    'permission.allOrganizerPerms': 'Tất cả quyền người tổ chức',
-    'permission.changeRoles': 'Thay đổi vai trò người dùng',
-    'permission.adminInvites': 'Tạo mã mời tổ chức viên/quản trị viên',
-    'permission.auditLog': 'Xem nhật ký kiểm tra',
 
     // Chat Categories
     'chat.maintenance': 'Bảo trì',
@@ -10126,24 +9906,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'voteSuggestion.escalateLabel': 'Nâng cấp yêu cầu',
     'voteSuggestion.escalateDesc': 'Bỏ phiếu để nâng cấp yêu cầu lên cấp tiếp theo',
     // Issue Suggestion
-    'issueSuggestion.title': 'Báo cáo Vấn đề',
-    'issueSuggestion.subtitle': 'Báo cáo vấn đề tại {address}. Người thuê sẽ bỏ phiếu cho các vấn đề được gửi. Các vấn đề có +5 phiếu ròng trở thành yêu cầu chính thức.',
-    'issueSuggestion.issueCategory': 'Loại Vấn đề',
-    'issueSuggestion.selectCategory': 'Chọn loại...',
-    'issueSuggestion.issueTitle': 'Tiêu đề Vấn đề',
-    'issueSuggestion.issueTitlePlaceholder': 'vd., Thang máy hỏng ở tầng 3',
-    'issueSuggestion.details': 'Chi tiết (tùy chọn)',
-    'issueSuggestion.detailsPlaceholder': 'Mô tả vấn đề chi tiết...',
-    'issueSuggestion.preview': 'Xem trước',
-    'issueSuggestion.howVotingWorks': 'Cách bỏ phiếu hoạt động:',
-    'issueSuggestion.tenantsCanVote': 'Người thuê tại tài sản này có thể bỏ phiếu',
-    'issueSuggestion.promotesDemand': '+5 phiếu ròng nâng vấn đề thành yêu cầu',
-    'issueSuggestion.rejectsIssue': '-3 phiếu ròng từ chối vấn đề',
-    'issueSuggestion.externalActions': 'Các Hành động Bên ngoài Có sẵn',
-    'issueSuggestion.fileCodeEnforcement': 'Nộp Khiếu nại Thi hành Quy định',
-    'issueSuggestion.getLegalAid': 'Nhận Trợ giúp Pháp lý',
-    'issueSuggestion.downloadDemandLetter': 'Tải Mẫu Thư Yêu cầu',
-    'issueSuggestion.submitIssue': 'Gửi Vấn đề',
     'campaign.progress': 'tiến độ',
 
     // Common - additional
@@ -10262,11 +10024,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'eventCard.monthly': 'Hàng tháng',
 
     // Event Editor
-    'eventEditor.virtualMeeting': 'Họp trực tuyến',
-    'eventEditor.titleRequired': 'Vui lòng nhập tiêu đề sự kiện',
-    'eventEditor.descriptionRequired': 'Vui lòng nhập mô tả cho sự kiện',
-    'eventEditor.dateRequired': 'Vui lòng chọn ngày và giờ',
-    'eventEditor.locationRequired': 'Vui lòng nhập địa điểm hoặc đánh dấu là trực tuyến',
 
     // Error Boundary
     'error.somethingWrong': 'Đã xảy ra lỗi',
@@ -10402,18 +10159,6 @@ const translations: Record<Locale, Record<string, string>> = {
     'collective.oppose': 'Phản đối',
 
     // Mission Header
-    'mission.tagline': 'Nhà ở là quyền lợi, không phải đặc quyền',
-    'mission.expand': 'Mở rộng',
-    'mission.collapse': 'Thu gọn',
-    'mission.title': 'Liên đoàn Người thuê nhà Reno-Sparks',
-    'mission.subtitle': 'Xây dựng sức mạnh tập thể vì công lý nhà ở',
-    'mission.stats.rentals': 'căn hộ cho thuê được theo dõi',
-    'mission.stats.rentIncrease': 'tăng tiền thuê (5 năm)',
-    'mission.stats.corporate': 'thuộc sở hữu doanh nghiệp',
-    'mission.stats.members': 'thành viên tích cực',
-    'mission.action.report': 'Báo cáo vấn đề',
-    'mission.action.meeting': 'Tìm cuộc họp',
-    'mission.action.rights': 'Biết quyền của bạn',
 
     // Organize page
     'organize.verificationRequired': 'Yêu Cầu Xác Minh',

@@ -68,8 +68,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Archive (structure tracked, new large files ignored)
-archive/analysis-reports/*.json
-archive/screenshots/*.png
-archive/reference/BlackBookofPoliticalPolice.pdf
-archive/reference/Mutual aid; a factor of evolution*.pdf
+# Archive (removed from tracking)
+archive/
