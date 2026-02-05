@@ -7,7 +7,6 @@ import { castVote as serverCastVote, getVoteCounts, checkPermission, requireOnli
 import { cacheForOffline, getCached, invalidateCachePattern, CacheKeys } from '../utils/offlineCache'
 import { sanitizeText, sanitizeRichText } from '../utils/sanitize'
 import { tryAction } from '../utils/rateLimit'
-import { getDelegateProfile, canVoteOnAppGovernance, getVotingWeight } from './delegateStorage'
 import { createLogger } from '../utils/logger'
 import { generateShortId, generateEntityId, isLocalId } from '../utils/idUtils'
 
@@ -39,12 +38,6 @@ export type GovernanceProposalType =
   | 'collective-rename'    // Rename collective
   | 'add-point-person'     // Promote member to Point Person
   | 'remove-point-person'  // Demote Point Person
-  // App-wide governance types
-  | 'feature-vote'   // Enable/disable app features
-  | 'content-vote'   // Vote on text/content blocks
-  | 'direction-vote' // App strategic direction
-  | 'admin-recall'   // Vote to remove admin (requires supermajority)
-  | 'tab-visibility' // Vote on which tabs are visible
 
 export type GovernanceProposalStatus =
   | 'active'           // Voting in progress
@@ -53,13 +46,6 @@ export type GovernanceProposalStatus =
   | 'pending-finalize' // Passed but needs organizer action (mute)
   | 'pending-partner'  // Waiting for other group (cross-group)
   | 'executed'         // Action taken
-
-// Weighted vote for app-wide governance (delegate voting)
-export interface WeightedVote {
-  profileId: string
-  weight: number
-  votedAt: number
-}
 
 export interface GovernanceProposal {
   id: string
@@ -75,13 +61,9 @@ export interface GovernanceProposal {
   proposedByName: string
   reason: string
 
-  upvotes: string[]            // Profile IDs (for bloc-level voting)
+  upvotes: string[]            // Profile IDs (one person = one vote)
   downvotes: string[]
   status: GovernanceProposalStatus
-
-  // Weighted voting for app-wide proposals (delegate voting)
-  weightedUpvotes?: WeightedVote[]
-  weightedDownvotes?: WeightedVote[]
 
   // Cross-group tracking
   partnerProposalId?: string   // Linked proposal in other group
@@ -138,25 +120,7 @@ export const VOTE_THRESHOLDS: Record<GovernanceProposalType, number> = {
   'collective-rename': 3,
   'add-point-person': 3,
   'remove-point-person': 3,
-  // App-wide governance thresholds (uses delegate weight, not raw votes)
-  'feature-vote': 15,     // Moderate bar
-  'content-vote': 10,     // Lower bar for text changes
-  'direction-vote': 20,   // Higher bar for strategic decisions
-  'admin-recall': 50,     // Very high bar (also requires 2/3 supermajority)
-  'tab-visibility': 15,   // Moderate bar
 }
-
-// Special group ID for app-wide proposals
-export const APP_GOVERNANCE_GROUP = 'app-governance'
-
-// App-wide proposal types (use delegate weight instead of raw votes)
-export const APP_WIDE_TYPES: GovernanceProposalType[] = [
-  'feature-vote',
-  'content-vote',
-  'direction-vote',
-  'admin-recall',
-  'tab-visibility',
-]
 
 // Types that require organizer finalization after passing
 export const REQUIRES_FINALIZATION: GovernanceProposalType[] = ['mute-tenant']
@@ -166,124 +130,6 @@ export const CROSS_GROUP_TYPES: GovernanceProposalType[] = ['merge', 'alliance',
 
 // Types that involve multiple buildings voting (form-bloc broadcasts to all buildings)
 export const MULTI_BUILDING_TYPES: GovernanceProposalType[] = ['form-bloc']
-
-// ============================================================================
-// Weighted Voting Helpers (for app-wide governance)
-// ============================================================================
-
-/**
- * Check if a proposal uses weighted delegate voting
- */
-export function isAppWideProposal(proposal: GovernanceProposal): boolean {
-  return APP_WIDE_TYPES.includes(proposal.type)
-}
-
-/**
- * Calculate the total weighted vote for an app-wide proposal
- * Returns { upvoteWeight, downvoteWeight, netWeight }
- */
-export function getWeightedVoteTotals(proposal: GovernanceProposal): {
-  upvoteWeight: number
-  downvoteWeight: number
-  netWeight: number
-  voterCount: number
-} {
-  if (!isAppWideProposal(proposal)) {
-    // For non-app-wide proposals, each vote = 1 weight
-    return {
-      upvoteWeight: proposal.upvotes.length,
-      downvoteWeight: proposal.downvotes.length,
-      netWeight: proposal.upvotes.length - proposal.downvotes.length,
-      voterCount: proposal.upvotes.length + proposal.downvotes.length,
-    }
-  }
-
-  // Calculate from weighted votes
-  const upvoteWeight = (proposal.weightedUpvotes || []).reduce((sum, v) => sum + v.weight, 0)
-  const downvoteWeight = (proposal.weightedDownvotes || []).reduce((sum, v) => sum + v.weight, 0)
-
-  return {
-    upvoteWeight,
-    downvoteWeight,
-    netWeight: upvoteWeight - downvoteWeight,
-    voterCount: (proposal.weightedUpvotes?.length || 0) + (proposal.weightedDownvotes?.length || 0),
-  }
-}
-
-/**
- * Check if the current user can vote on an app-wide proposal
- * Returns { canVote, reason, weight }
- */
-export function canVoteOnAppWideProposal(profileId: string): {
-  canVote: boolean
-  reason: string
-  weight: number
-} {
-  const canVote = canVoteOnAppGovernance(profileId)
-  const weight = getVotingWeight(profileId)
-  const delegateProfile = getDelegateProfile(profileId)
-
-  if (!canVote) {
-    if (!delegateProfile) {
-      return { canVote: false, reason: 'Profile not found', weight: 0 }
-    }
-    if (delegateProfile.role === 'admin') {
-      return { canVote: false, reason: 'Admins cannot vote (Bookchin principle)', weight: 0 }
-    }
-    if (delegateProfile.role !== 'organizer') {
-      return { canVote: false, reason: 'Only organizers can vote on app governance', weight: 0 }
-    }
-
-    const status = delegateProfile.qualificationStatus
-    const reasons: string[] = []
-    if (!status.meetsTenantsThreshold) {
-      reasons.push(`Need ${status.tenantsNeeded} more verified tenants`)
-    }
-    if (!status.meetsBlocsThreshold) {
-      reasons.push(`Need ${status.blocsNeeded} more bloc(s)`)
-    }
-    if (!status.meetsActivityThreshold) {
-      reasons.push(`Need ${status.activityNeeded} more activity points`)
-    }
-    return {
-      canVote: false,
-      reason: `Not qualified: ${reasons.join(', ')}`,
-      weight: 0,
-    }
-  }
-
-  return { canVote: true, reason: '', weight }
-}
-
-/**
- * Get the current user's weighted vote on an app-wide proposal
- */
-export function getWeightedUserVote(proposalId: string): {
-  vote: 'up' | 'down' | null
-  weight: number
-} {
-  const profile = getCurrentProfile()
-  if (!profile) return { vote: null, weight: 0 }
-
-  const proposal = getProposal(proposalId)
-  if (!proposal || !isAppWideProposal(proposal)) {
-    // Fall back to regular vote check
-    const regularVote = proposal?.upvotes.includes(profile.id)
-      ? 'up'
-      : proposal?.downvotes.includes(profile.id)
-        ? 'down'
-        : null
-    return { vote: regularVote, weight: regularVote ? 1 : 0 }
-  }
-
-  const upvote = proposal.weightedUpvotes?.find(v => v.profileId === profile.id)
-  if (upvote) return { vote: 'up', weight: upvote.weight }
-
-  const downvote = proposal.weightedDownvotes?.find(v => v.profileId === profile.id)
-  if (downvote) return { vote: 'down', weight: downvote.weight }
-
-  return { vote: null, weight: 0 }
-}
 
 // ============================================================================
 // Storage Functions
@@ -472,122 +318,6 @@ function updateLocalProposalId(oldId: string, newId: string): void {
   }
 }
 
-/**
- * Create an app-wide governance proposal (delegate voting)
- * Only qualified delegates can create these proposals
- */
-export function createAppWideProposal(
-  type: 'feature-vote' | 'content-vote' | 'direction-vote' | 'admin-recall' | 'tab-visibility',
-  options: {
-    targetValue?: string      // Feature name, content ID, direction option, admin ID, or tab name
-    reason: string
-  }
-): GovernanceProposal | null {
-  const profile = getCurrentProfile()
-  if (!profile) return null
-
-  // Check if proposer is a qualified delegate
-  const eligibility = canVoteOnAppWideProposal(profile.id)
-  if (!eligibility.canVote) {
-    log.warn(`App proposal rejected: ${eligibility.reason}`)
-    return null
-  }
-
-  // Check rate limit
-  const rateLimitResult = tryAction('proposal_create', profile.id)
-  if (!rateLimitResult.allowed) {
-    log.warn('Rate limited:', rateLimitResult.error)
-    return null
-  }
-
-  const state = getState()
-
-  // Check for duplicate active proposals of same type
-  const duplicate = state.proposals.find(
-    p => p.type === type &&
-         p.groupId === APP_GOVERNANCE_GROUP &&
-         p.status === 'active' &&
-         p.targetValue === options.targetValue
-  )
-  if (duplicate) {
-    log.warn('Duplicate app proposal already exists')
-    return null
-  }
-
-  const now = Date.now()
-  const proposal: GovernanceProposal = {
-    id: `app-gov-${now}-${generateShortId()}`,
-    type,
-    groupId: APP_GOVERNANCE_GROUP,
-    targetValue: sanitizeText(options.targetValue),
-    proposedBy: profile.id,
-    proposedByName: sanitizeText(profile.nickname),
-    reason: sanitizeRichText(options.reason),
-    upvotes: [profile.id],
-    downvotes: [],
-    status: 'active',
-    createdAt: now,
-    expiresAt: now + PROPOSAL_EXPIRY_DAYS * 24 * 60 * 60 * 1000,
-    // Initialize weighted votes with proposer's vote
-    weightedUpvotes: [{
-      profileId: profile.id,
-      weight: eligibility.weight,
-      votedAt: now,
-    }],
-    weightedDownvotes: [],
-  }
-
-  state.proposals.push(proposal)
-  saveState(state)
-
-  // Fire server verification in background (don't await)
-  if (USE_SUPABASE) {
-    syncProposalToServer(proposal, {})
-      .then(result => {
-        if (!result.success) {
-          log.warn(`Server rejected app-wide proposal: ${result.error}`)
-          removeLocalProposal(proposal.id)
-        } else if (result.serverId && result.serverId !== proposal.id) {
-          updateLocalProposalId(proposal.id, result.serverId)
-        }
-      })
-      .catch(err => {
-        log.error('Background app-wide proposal sync failed:', err)
-      })
-  }
-
-  return proposal
-}
-
-/**
- * Get all active app-wide governance proposals
- */
-export function getAppWideProposals(): GovernanceProposal[] {
-  const state = getState()
-  const now = Date.now()
-
-  return state.proposals.filter(p => {
-    // Check expiration
-    if (p.expiresAt < now && p.status === 'active') {
-      p.status = 'rejected'
-    }
-    return p.groupId === APP_GOVERNANCE_GROUP &&
-           ['active', 'pending-finalize'].includes(p.status)
-  }).sort((a, b) => b.createdAt - a.createdAt)
-}
-
-/**
- * Get app-wide proposal history (passed/rejected)
- */
-export function getAppWideProposalHistory(limit = 20): GovernanceProposal[] {
-  const state = getState()
-  return state.proposals
-    .filter(p => p.groupId === APP_GOVERNANCE_GROUP &&
-                 ['passed', 'rejected', 'executed'].includes(p.status))
-    .sort((a, b) => b.createdAt - a.createdAt)
-    .slice(0, limit)
-}
-
 export function getProposal(proposalId: string): GovernanceProposal | undefined {
   const state = getState()
   return state.proposals.find(p => p.id === proposalId)
@@ -703,14 +433,8 @@ function rollbackVote(proposalId: string, profileId: string, vote: 'up' | 'down'
   // Remove from the vote arrays (opposite of what applyVoteLocally did)
   if (vote === 'up') {
     proposal.upvotes = proposal.upvotes.filter(id => id !== profileId)
-    if (proposal.weightedUpvotes) {
-      proposal.weightedUpvotes = proposal.weightedUpvotes.filter(v => v.profileId !== profileId)
-    }
   } else {
     proposal.downvotes = proposal.downvotes.filter(id => id !== profileId)
-    if (proposal.weightedDownvotes) {
-      proposal.weightedDownvotes = proposal.weightedDownvotes.filter(v => v.profileId !== profileId)
-    }
   }
 
   saveState(state)
@@ -726,75 +450,16 @@ function applyVoteLocally(
   profileId: string,
   vote: 'up' | 'down'
 ): GovernanceProposal | null {
-  // Handle app-wide proposals with weighted voting
-  if (isAppWideProposal(proposal)) {
-    const voteEligibility = canVoteOnAppWideProposal(profileId)
-    if (!voteEligibility.canVote) {
-      log.warn(`Vote rejected: ${voteEligibility.reason}`)
-      return null
-    }
-
-    // Initialize weighted vote arrays if needed
-    if (!proposal.weightedUpvotes) proposal.weightedUpvotes = []
-    if (!proposal.weightedDownvotes) proposal.weightedDownvotes = []
-
-    const now = Date.now()
-    const weightedVote: WeightedVote = {
-      profileId: profileId,
-      weight: voteEligibility.weight,
-      votedAt: now,
-    }
-
-    // Remove from opposite weighted vote array
-    if (vote === 'up') {
-      proposal.weightedDownvotes = proposal.weightedDownvotes.filter(v => v.profileId !== profileId)
-      if (!proposal.weightedUpvotes.some(v => v.profileId === profileId)) {
-        proposal.weightedUpvotes.push(weightedVote)
-      } else {
-        // Update weight if already voted (weight may have changed)
-        const existing = proposal.weightedUpvotes.find(v => v.profileId === profileId)
-        if (existing) {
-          existing.weight = voteEligibility.weight
-          existing.votedAt = now
-        }
-      }
-    } else {
-      proposal.weightedUpvotes = proposal.weightedUpvotes.filter(v => v.profileId !== profileId)
-      if (!proposal.weightedDownvotes.some(v => v.profileId === profileId)) {
-        proposal.weightedDownvotes.push(weightedVote)
-      } else {
-        const existing = proposal.weightedDownvotes.find(v => v.profileId === profileId)
-        if (existing) {
-          existing.weight = voteEligibility.weight
-          existing.votedAt = now
-        }
-      }
-    }
-
-    // Also update regular vote arrays for backward compatibility
-    if (vote === 'up') {
-      proposal.downvotes = proposal.downvotes.filter(id => id !== profileId)
-      if (!proposal.upvotes.includes(profileId)) {
-        proposal.upvotes.push(profileId)
-      }
-    } else {
-      proposal.upvotes = proposal.upvotes.filter(id => id !== profileId)
-      if (!proposal.downvotes.includes(profileId)) {
-        proposal.downvotes.push(profileId)
-      }
+  // One person = one vote
+  if (vote === 'up') {
+    proposal.downvotes = proposal.downvotes.filter(id => id !== profileId)
+    if (!proposal.upvotes.includes(profileId)) {
+      proposal.upvotes.push(profileId)
     }
   } else {
-    // Regular bloc-level voting (1 person = 1 vote)
-    if (vote === 'up') {
-      proposal.downvotes = proposal.downvotes.filter(id => id !== profileId)
-      if (!proposal.upvotes.includes(profileId)) {
-        proposal.upvotes.push(profileId)
-      }
-    } else {
-      proposal.upvotes = proposal.upvotes.filter(id => id !== profileId)
-      if (!proposal.downvotes.includes(profileId)) {
-        proposal.downvotes.push(profileId)
-      }
+    proposal.upvotes = proposal.upvotes.filter(id => id !== profileId)
+    if (!proposal.downvotes.includes(profileId)) {
+      proposal.downvotes.push(profileId)
     }
   }
 
@@ -1136,42 +801,7 @@ function dbToProposal(db: {
 function checkAndUpdateProposalStatus(proposal: GovernanceProposal): void {
   const threshold = VOTE_THRESHOLDS[proposal.type]
 
-  // Handle app-wide proposals with weighted voting
-  if (isAppWideProposal(proposal)) {
-    const { netWeight, upvoteWeight, downvoteWeight, voterCount } = getWeightedVoteTotals(proposal)
-
-    // Check for rejection (significant negative weight or too few supporters)
-    if (netWeight <= -10) {
-      proposal.status = 'rejected'
-      return
-    }
-
-    // Admin recall requires special handling: 2/3 supermajority of total delegate weight
-    if (proposal.type === 'admin-recall') {
-      // Import getAdminRecallThreshold dynamically to avoid circular deps
-      const { getAdminRecallThreshold } = require('./delegateStorage')
-      const recallThreshold = getAdminRecallThreshold()
-
-      // Need both: enough weight AND at least 3 voters AND supermajority
-      const totalVoteWeight = upvoteWeight + downvoteWeight
-      const supermajority = totalVoteWeight > 0 && (upvoteWeight / totalVoteWeight) >= 0.6667
-
-      if (upvoteWeight >= recallThreshold.requiredWeight && voterCount >= 3 && supermajority) {
-        proposal.status = 'passed'
-        executeProposal(proposal)
-      }
-      return
-    }
-
-    // Standard app-wide threshold check (weighted)
-    if (netWeight >= threshold) {
-      proposal.status = 'passed'
-      executeProposal(proposal)
-    }
-    return
-  }
-
-  // Regular bloc-level voting (1 person = 1 vote)
+  // One person = one vote
   const netVotes = proposal.upvotes.length - proposal.downvotes.length
 
   // Check for rejection (negative threshold)
@@ -1657,12 +1287,6 @@ export function getProposalTypeLabel(type: GovernanceProposalType): string {
     'collective-rename': 'Rename Collective',
     'add-point-person': 'Add Point Person',
     'remove-point-person': 'Remove Point Person',
-    // App-wide governance types
-    'feature-vote': 'Feature Vote',
-    'content-vote': 'Content Vote',
-    'direction-vote': 'Direction Vote',
-    'admin-recall': 'Admin Recall',
-    'tab-visibility': 'Tab Visibility Vote',
   }
   return labels[type] || type
 }

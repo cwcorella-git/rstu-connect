@@ -28,21 +28,11 @@ export interface AdminSettings {
 
   // Feature Flags
   features: {
-    appGovernance: boolean  // Enable app-wide governance voting
     userFeedback: boolean   // Enable user feedback system
-    contentVoting: boolean  // Enable content block voting
-    delegateVoting: boolean // Enable delegate-weighted voting
   }
 
   // Landing page as home
   landingAsHome: boolean    // Default users to landing page
-
-  // Governance thresholds (can be voted on later)
-  governanceThresholds: {
-    minVerifiedTenants: number    // Min tenants to become delegate
-    minBlocs: number              // Min blocs to participate
-    minActivityScore: number      // Min activity for voting
-  }
 
   // Metadata
   lastUpdatedBy: string | null
@@ -65,17 +55,9 @@ export const DEFAULT_ADMIN_SETTINGS: AdminSettings = {
     reading: true,
   },
   features: {
-    appGovernance: true,    // App-wide governance voting enabled
     userFeedback: true,     // User feedback system enabled
-    contentVoting: false,   // Content block voting (not yet implemented)
-    delegateVoting: true,   // Delegate-weighted voting enabled
   },
   landingAsHome: true,      // Landing page is the home
-  governanceThresholds: {
-    minVerifiedTenants: 10,
-    minBlocs: 1,
-    minActivityScore: 50,
-  },
   lastUpdatedBy: null,
   lastUpdatedAt: null,
   version: CURRENT_VERSION,
@@ -102,10 +84,6 @@ export function getAdminSettings(): AdminSettings {
     features: {
       ...DEFAULT_ADMIN_SETTINGS.features,
       ...stored.features,
-    },
-    governanceThresholds: {
-      ...DEFAULT_ADMIN_SETTINGS.governanceThresholds,
-      ...stored.governanceThresholds,
     },
   }
 }
@@ -155,10 +133,6 @@ export function updateAdminSettings(
     features: {
       ...current.features,
       ...updates.features,
-    },
-    governanceThresholds: {
-      ...current.governanceThresholds,
-      ...updates.governanceThresholds,
     },
     lastUpdatedBy: adminProfileId || null,
     lastUpdatedAt: Date.now(),
@@ -238,29 +212,3 @@ export function resetAdminSettings(adminProfileId?: string): AdminSettings | nul
   return null
 }
 
-// ============================================================================
-// App Governance Thresholds
-// ============================================================================
-
-/**
- * Get the current threshold for delegate voting qualification
- */
-export function getDelegateThresholds() {
-  return getAdminSettings().governanceThresholds
-}
-
-/**
- * Update governance thresholds (admin only, or via passed governance vote)
- */
-export function updateGovernanceThresholds(
-  thresholds: Partial<AdminSettings['governanceThresholds']>,
-  adminProfileId?: string
-): AdminSettings | null {
-  const current = getAdminSettings()
-  return updateAdminSettings({
-    governanceThresholds: {
-      ...current.governanceThresholds,
-      ...thresholds,
-    },
-  }, adminProfileId)
-}

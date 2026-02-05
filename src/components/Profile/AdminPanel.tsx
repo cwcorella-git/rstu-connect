@@ -480,24 +480,6 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
                 <div className="space-y-2">
                   <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
                     <div>
-                      <span className="text-sm text-gray-700">App Governance</span>
-                      <p className="text-xs text-gray-400">App-wide voting on features</p>
-                    </div>
-                    <button
-                      onClick={() => handleToggleFeature('appGovernance')}
-                      className={`relative w-11 h-6 rounded-full transition-colors ${
-                        adminSettings.features.appGovernance ? 'bg-green-500' : 'bg-gray-300'
-                      }`}
-                    >
-                      <span
-                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
-                          adminSettings.features.appGovernance ? 'translate-x-5' : ''
-                        }`}
-                      />
-                    </button>
-                  </label>
-                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
-                    <div>
                       <span className="text-sm text-gray-700">User Feedback</span>
                       <p className="text-xs text-gray-400">Feedback collection system</p>
                     </div>
@@ -510,24 +492,6 @@ export function AdminPanel({ buildings, onClose }: AdminPanelProps) {
                       <span
                         className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
                           adminSettings.features.userFeedback ? 'translate-x-5' : ''
-                        }`}
-                      />
-                    </button>
-                  </label>
-                  <label className="flex items-center justify-between p-2 bg-gray-50 rounded">
-                    <div>
-                      <span className="text-sm text-gray-700">Delegate Voting</span>
-                      <p className="text-xs text-gray-400">Weighted voting by bloc size</p>
-                    </div>
-                    <button
-                      onClick={() => handleToggleFeature('delegateVoting')}
-                      className={`relative w-11 h-6 rounded-full transition-colors ${
-                        adminSettings.features.delegateVoting ? 'bg-green-500' : 'bg-gray-300'
-                      }`}
-                    >
-                      <span
-                        className={`absolute top-0.5 left-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
-                          adminSettings.features.delegateVoting ? 'translate-x-5' : ''
                         }`}
                       />
                     </button>

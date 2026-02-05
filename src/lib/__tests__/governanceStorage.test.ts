@@ -2,31 +2,22 @@
  * Tests for governanceStorage.ts
  *
  * Tests cover:
- * - Proposal creation (bloc-level and app-wide)
- * - Voting logic (simple votes and weighted delegate votes)
+ * - Proposal creation (bloc-level)
+ * - Voting logic (one person = one vote)
  * - Vote thresholds per proposal type
  * - Proposal status transitions
- * - Admin recall supermajority requirement
  * - Message format helpers
  * - Authorization functions
  */
 
 import {
   VOTE_THRESHOLDS,
-  APP_GOVERNANCE_GROUP,
-  APP_WIDE_TYPES,
   CROSS_GROUP_TYPES,
   REQUIRES_FINALIZATION,
-  isAppWideProposal,
-  getWeightedVoteTotals,
-  canVoteOnAppWideProposal,
   createProposal,
-  createAppWideProposal,
   getProposal,
   getActiveProposals,
   getProposalHistory,
-  getAppWideProposals,
-  getAppWideProposalHistory,
   getGroupProposals,
   voteOnProposal,
   getUserVote,
@@ -56,13 +47,6 @@ jest.mock('../linkedPropertiesStorage', () => ({
   getGroupForApn: jest.fn(),
   createOrMergeLinkedGroup: jest.fn(),
   generateBlocName: jest.fn(() => 'Test Bloc'),
-}))
-
-jest.mock('../delegateStorage', () => ({
-  getDelegateProfile: jest.fn(),
-  canVoteOnAppGovernance: jest.fn(() => false),
-  getVotingWeight: jest.fn(() => 0),
-  getAdminRecallThreshold: jest.fn(() => ({ requiredWeight: 50 })),
 }))
 
 jest.mock('../supabase', () => ({
@@ -107,15 +91,11 @@ jest.mock('../logger', () => ({
 
 import { getCurrentProfile } from '../storage/profileStorage'
 import { getLinkedGroups, getGroupForApn } from '../storage/linkedPropertiesStorage'
-import { canVoteOnAppGovernance, getVotingWeight, getDelegateProfile } from '../storage/delegateStorage'
 import { tryAction } from '../utils/rateLimit'
 
 const mockGetCurrentProfile = getCurrentProfile as jest.Mock
 const mockGetLinkedGroups = getLinkedGroups as jest.Mock
 const mockGetGroupForApn = getGroupForApn as jest.Mock
-const mockCanVoteOnAppGovernance = canVoteOnAppGovernance as jest.Mock
-const mockGetVotingWeight = getVotingWeight as jest.Mock
-const mockGetDelegateProfile = getDelegateProfile as jest.Mock
 const mockTryAction = tryAction as jest.Mock
 
 // Mock crypto for ID generation
@@ -179,8 +159,7 @@ describe('governanceStorage', () => {
         'mute-tenant', 'escalate', 'split', 'form-bloc', 'join-bloc',
         'rent-strike', 'demand-letter', 'petition', 'form-collective',
         'join-collective', 'collective-alliance', 'collective-rename',
-        'add-point-person', 'remove-point-person', 'feature-vote',
-        'content-vote', 'direction-vote', 'admin-recall', 'tab-visibility',
+        'add-point-person', 'remove-point-person',
       ]
 
       proposalTypes.forEach(type => {
@@ -194,19 +173,6 @@ describe('governanceStorage', () => {
       expect(VOTE_THRESHOLDS['rent-strike']).toBe(10)
     })
 
-    test('admin-recall has high threshold', () => {
-      expect(VOTE_THRESHOLDS['admin-recall']).toBe(50)
-    })
-
-    test('APP_WIDE_TYPES contains app governance types', () => {
-      expect(APP_WIDE_TYPES).toContain('feature-vote')
-      expect(APP_WIDE_TYPES).toContain('content-vote')
-      expect(APP_WIDE_TYPES).toContain('direction-vote')
-      expect(APP_WIDE_TYPES).toContain('admin-recall')
-      expect(APP_WIDE_TYPES).toContain('tab-visibility')
-      expect(APP_WIDE_TYPES.length).toBe(5)
-    })
-
     test('CROSS_GROUP_TYPES requires both groups to pass', () => {
       expect(CROSS_GROUP_TYPES).toContain('merge')
       expect(CROSS_GROUP_TYPES).toContain('alliance')
@@ -215,188 +181,6 @@ describe('governanceStorage', () => {
 
     test('REQUIRES_FINALIZATION includes mute-tenant', () => {
       expect(REQUIRES_FINALIZATION).toContain('mute-tenant')
-    })
-  })
-
-  // ============================================================================
-  // isAppWideProposal Tests
-  // ============================================================================
-
-  describe('isAppWideProposal', () => {
-    test('returns true for app-wide proposal types', () => {
-      APP_WIDE_TYPES.forEach(type => {
-        const proposal = { type, groupId: APP_GOVERNANCE_GROUP } as GovernanceProposal
-        expect(isAppWideProposal(proposal)).toBe(true)
-      })
-    })
-
-    test('returns false for bloc-level proposal types', () => {
-      const blocTypes: GovernanceProposalType[] = [
-        'rename', 'merge', 'alliance', 'add-property', 'rent-strike',
-      ]
-      blocTypes.forEach(type => {
-        const proposal = { type, groupId: 'bloc-123' } as GovernanceProposal
-        expect(isAppWideProposal(proposal)).toBe(false)
-      })
-    })
-  })
-
-  // ============================================================================
-  // getWeightedVoteTotals Tests
-  // ============================================================================
-
-  describe('getWeightedVoteTotals', () => {
-    test('returns simple counts for bloc-level proposals', () => {
-      const proposal: GovernanceProposal = {
-        id: 'test-1',
-        type: 'rename',
-        groupId: 'bloc-1',
-        upvotes: ['user-1', 'user-2', 'user-3'],
-        downvotes: ['user-4'],
-        proposedBy: 'user-1',
-        proposedByName: 'Test',
-        reason: '',
-        status: 'active',
-        createdAt: Date.now(),
-        expiresAt: Date.now() + 86400000,
-      }
-
-      const totals = getWeightedVoteTotals(proposal)
-      expect(totals.upvoteWeight).toBe(3)
-      expect(totals.downvoteWeight).toBe(1)
-      expect(totals.netWeight).toBe(2)
-      expect(totals.voterCount).toBe(4)
-    })
-
-    test('returns weighted totals for app-wide proposals', () => {
-      const proposal: GovernanceProposal = {
-        id: 'test-2',
-        type: 'feature-vote',
-        groupId: APP_GOVERNANCE_GROUP,
-        upvotes: ['user-1', 'user-2'],
-        downvotes: ['user-3'],
-        weightedUpvotes: [
-          { profileId: 'user-1', weight: 15, votedAt: Date.now() },
-          { profileId: 'user-2', weight: 25, votedAt: Date.now() },
-        ],
-        weightedDownvotes: [
-          { profileId: 'user-3', weight: 10, votedAt: Date.now() },
-        ],
-        proposedBy: 'user-1',
-        proposedByName: 'Test',
-        reason: '',
-        status: 'active',
-        createdAt: Date.now(),
-        expiresAt: Date.now() + 86400000,
-      }
-
-      const totals = getWeightedVoteTotals(proposal)
-      expect(totals.upvoteWeight).toBe(40)
-      expect(totals.downvoteWeight).toBe(10)
-      expect(totals.netWeight).toBe(30)
-      expect(totals.voterCount).toBe(3)
-    })
-
-    test('handles empty weighted vote arrays', () => {
-      const proposal: GovernanceProposal = {
-        id: 'test-3',
-        type: 'direction-vote',
-        groupId: APP_GOVERNANCE_GROUP,
-        upvotes: [],
-        downvotes: [],
-        weightedUpvotes: [],
-        weightedDownvotes: [],
-        proposedBy: 'user-1',
-        proposedByName: 'Test',
-        reason: '',
-        status: 'active',
-        createdAt: Date.now(),
-        expiresAt: Date.now() + 86400000,
-      }
-
-      const totals = getWeightedVoteTotals(proposal)
-      expect(totals.upvoteWeight).toBe(0)
-      expect(totals.downvoteWeight).toBe(0)
-      expect(totals.netWeight).toBe(0)
-      expect(totals.voterCount).toBe(0)
-    })
-  })
-
-  // ============================================================================
-  // canVoteOnAppWideProposal Tests
-  // ============================================================================
-
-  describe('canVoteOnAppWideProposal', () => {
-    test('returns false for admin (Bookchin principle)', () => {
-      mockCanVoteOnAppGovernance.mockReturnValue(false)
-      mockGetVotingWeight.mockReturnValue(0)
-      mockGetDelegateProfile.mockReturnValue({
-        role: 'admin',
-        qualificationStatus: { isQualified: false },
-      })
-
-      const result = canVoteOnAppWideProposal('admin-user')
-      expect(result.canVote).toBe(false)
-      expect(result.reason).toContain('Admins cannot vote')
-    })
-
-    test('returns false for non-organizer', () => {
-      mockCanVoteOnAppGovernance.mockReturnValue(false)
-      mockGetVotingWeight.mockReturnValue(0)
-      mockGetDelegateProfile.mockReturnValue({
-        role: 'tenant',
-        qualificationStatus: { isQualified: false },
-      })
-
-      const result = canVoteOnAppWideProposal('tenant-user')
-      expect(result.canVote).toBe(false)
-      expect(result.reason).toContain('Only organizers')
-    })
-
-    test('returns false when delegate profile not found', () => {
-      mockCanVoteOnAppGovernance.mockReturnValue(false)
-      mockGetVotingWeight.mockReturnValue(0)
-      mockGetDelegateProfile.mockReturnValue(null)
-
-      const result = canVoteOnAppWideProposal('unknown-user')
-      expect(result.canVote).toBe(false)
-      expect(result.reason).toBe('Profile not found')
-    })
-
-    test('returns true with weight for qualified delegate', () => {
-      mockCanVoteOnAppGovernance.mockReturnValue(true)
-      mockGetVotingWeight.mockReturnValue(25)
-      mockGetDelegateProfile.mockReturnValue({
-        role: 'organizer',
-        qualificationStatus: { isQualified: true },
-      })
-
-      const result = canVoteOnAppWideProposal('qualified-delegate')
-      expect(result.canVote).toBe(true)
-      expect(result.reason).toBe('')
-      expect(result.weight).toBe(25)
-    })
-
-    test('returns unmet requirements when not qualified', () => {
-      mockCanVoteOnAppGovernance.mockReturnValue(false)
-      mockGetVotingWeight.mockReturnValue(0)
-      mockGetDelegateProfile.mockReturnValue({
-        role: 'organizer',
-        qualificationStatus: {
-          isQualified: false,
-          meetsTenantsThreshold: false,
-          meetsBlocsThreshold: true,
-          meetsActivityThreshold: false,
-          tenantsNeeded: 5,
-          blocsNeeded: 0,
-          activityNeeded: 20,
-        },
-      })
-
-      const result = canVoteOnAppWideProposal('unqualified-organizer')
-      expect(result.canVote).toBe(false)
-      expect(result.reason).toContain('5 more verified tenants')
-      expect(result.reason).toContain('20 more activity points')
     })
   })
 
@@ -470,74 +254,6 @@ describe('governanceStorage', () => {
       expect(stored.proposals).toBeDefined()
       expect(stored.proposals.length).toBe(1)
       expect(stored.proposals[0].type).toBe('escalate')
-    })
-  })
-
-  // ============================================================================
-  // createAppWideProposal Tests
-  // ============================================================================
-
-  describe('createAppWideProposal', () => {
-    const mockQualifiedDelegate = {
-      id: 'delegate-1',
-      nickname: 'Delegate',
-      role: 'organizer' as const,
-    }
-
-    beforeEach(() => {
-      mockGetCurrentProfile.mockReturnValue(mockQualifiedDelegate)
-      mockCanVoteOnAppGovernance.mockReturnValue(true)
-      mockGetVotingWeight.mockReturnValue(20)
-      mockGetDelegateProfile.mockReturnValue({
-        role: 'organizer',
-        qualificationStatus: { isQualified: true },
-      })
-    })
-
-    test('creates app-wide proposal with weighted vote', () => {
-      const proposal = createAppWideProposal('feature-vote', {
-        targetValue: 'dark-mode',
-        reason: 'Add dark mode toggle',
-      })
-
-      expect(proposal).not.toBeNull()
-      expect(proposal!.type).toBe('feature-vote')
-      expect(proposal!.groupId).toBe(APP_GOVERNANCE_GROUP)
-      expect(proposal!.weightedUpvotes).toHaveLength(1)
-      expect(proposal!.weightedUpvotes![0].profileId).toBe('delegate-1')
-      expect(proposal!.weightedUpvotes![0].weight).toBe(20)
-      expect(proposal!.id).toMatch(/^app-gov-/)
-    })
-
-    test('returns null for unqualified delegate', () => {
-      mockCanVoteOnAppGovernance.mockReturnValue(false)
-      mockGetDelegateProfile.mockReturnValue({
-        role: 'organizer',
-        qualificationStatus: {
-          isQualified: false,
-          meetsTenantsThreshold: false,
-          tenantsNeeded: 5,
-        },
-      })
-
-      const proposal = createAppWideProposal('direction-vote', {
-        reason: 'Change direction',
-      })
-      expect(proposal).toBeNull()
-    })
-
-    test('prevents duplicate app-wide proposals', () => {
-      const first = createAppWideProposal('content-vote', {
-        targetValue: 'welcome-text',
-        reason: 'Update welcome text',
-      })
-      expect(first).not.toBeNull()
-
-      const duplicate = createAppWideProposal('content-vote', {
-        targetValue: 'welcome-text',
-        reason: 'Different reason',
-      })
-      expect(duplicate).toBeNull()
     })
   })
 
@@ -1074,8 +790,8 @@ describe('governanceStorage', () => {
     test('returns human-readable labels', () => {
       expect(getProposalTypeLabel('rename')).toBe('Rename Bloc')
       expect(getProposalTypeLabel('rent-strike')).toBe('Rent Strike Vote')
-      expect(getProposalTypeLabel('admin-recall')).toBe('Admin Recall')
-      expect(getProposalTypeLabel('feature-vote')).toBe('Feature Vote')
+      expect(getProposalTypeLabel('form-bloc')).toBe('Form New Bloc')
+      expect(getProposalTypeLabel('demand-letter')).toBe('Demand Letter')
     })
 
     test('returns type as fallback for unknown types', () => {
@@ -1132,126 +848,6 @@ describe('governanceStorage', () => {
       expect(after.dismissedBanners).toContain('kept-1')
       expect(after.dismissedBanners).not.toContain('removed-1')
       expect(after.dismissedBanners).not.toContain('removed-2')
-    })
-  })
-
-  // ============================================================================
-  // App-Wide Proposals Tests
-  // ============================================================================
-
-  describe('getAppWideProposals', () => {
-    beforeEach(() => {
-      mockGetCurrentProfile.mockReturnValue({
-        id: 'delegate-1',
-        nickname: 'Delegate',
-        role: 'organizer' as const,
-      })
-      mockCanVoteOnAppGovernance.mockReturnValue(true)
-      mockGetVotingWeight.mockReturnValue(20)
-      mockGetDelegateProfile.mockReturnValue({
-        role: 'organizer',
-        qualificationStatus: { isQualified: true },
-      })
-    })
-
-    test('returns only app-governance group proposals', () => {
-      createAppWideProposal('feature-vote', { targetValue: 'feature-1', reason: 'Test' })
-
-      // Create a regular proposal
-      const regularProfile = { id: 'regular', nickname: 'Regular', role: 'organizer' as const }
-      mockGetCurrentProfile.mockReturnValue(regularProfile)
-      createProposal('rename', 'bloc-1', { targetValue: 'Name' })
-
-      mockGetCurrentProfile.mockReturnValue({
-        id: 'delegate-1',
-        nickname: 'Delegate',
-        role: 'organizer' as const,
-      })
-
-      const appProposals = getAppWideProposals()
-      expect(appProposals.length).toBe(1)
-      expect(appProposals[0].groupId).toBe(APP_GOVERNANCE_GROUP)
-    })
-
-    test('filters out expired proposals from active list', () => {
-      const state = {
-        proposals: [{
-          id: 'expired-1',
-          type: 'feature-vote',
-          groupId: APP_GOVERNANCE_GROUP,
-          status: 'active',
-          upvotes: [],
-          downvotes: [],
-          createdAt: Date.now() - 10 * 86400000,
-          expiresAt: Date.now() - 86400000, // Expired yesterday
-        }],
-        dismissedBanners: [],
-        lastModified: Date.now(),
-      }
-      localStorage.setItem('rstu-governance', JSON.stringify(state))
-
-      // Expired proposals shouldn't be returned in active list
-      // (they're filtered out after being marked rejected)
-      const proposals = getAppWideProposals()
-      expect(proposals.length).toBe(0)
-    })
-  })
-
-  describe('getAppWideProposalHistory', () => {
-    test('returns completed app-wide proposals', () => {
-      const state = {
-        proposals: [
-          {
-            id: 'passed-1',
-            type: 'content-vote',
-            groupId: APP_GOVERNANCE_GROUP,
-            status: 'passed',
-            upvotes: [],
-            downvotes: [],
-            createdAt: Date.now() - 86400000,
-            expiresAt: Date.now(),
-          },
-          {
-            id: 'active-1',
-            type: 'direction-vote',
-            groupId: APP_GOVERNANCE_GROUP,
-            status: 'active',
-            upvotes: [],
-            downvotes: [],
-            createdAt: Date.now(),
-            expiresAt: Date.now() + 86400000,
-          },
-        ],
-        dismissedBanners: [],
-        lastModified: Date.now(),
-      }
-      localStorage.setItem('rstu-governance', JSON.stringify(state))
-
-      const history = getAppWideProposalHistory()
-      expect(history.length).toBe(1)
-      expect(history[0].status).toBe('passed')
-    })
-
-    test('respects limit parameter', () => {
-      const proposals = Array.from({ length: 30 }, (_, i) => ({
-        id: `hist-${i}`,
-        type: 'feature-vote',
-        groupId: APP_GOVERNANCE_GROUP,
-        status: 'executed',
-        upvotes: [],
-        downvotes: [],
-        createdAt: Date.now() - i * 86400000,
-        expiresAt: Date.now(),
-      }))
-
-      localStorage.setItem('rstu-governance', JSON.stringify({
-        proposals,
-        dismissedBanners: [],
-        lastModified: Date.now(),
-      }))
-
-      expect(getAppWideProposalHistory(10).length).toBe(10)
-      expect(getAppWideProposalHistory(5).length).toBe(5)
     })
   })
 })
