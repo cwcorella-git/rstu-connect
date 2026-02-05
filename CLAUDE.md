@@ -17,6 +17,8 @@ npm run dev          # Development server at http://localhost:3000
 npm run build        # Build static export to out/ (runs prebuild scripts automatically)
 npm run deploy       # Build + run deploy.sh (legacy local deploy)
 npm run lint         # Run Next.js linter
+npm test             # Run Jest unit tests
+npx playwright test  # Run Playwright e2e tests
 ```
 
 **Automatic deployment:** Push to `main` triggers GitHub Actions -> builds -> deploys to GitHub Pages.
@@ -26,6 +28,31 @@ npm run lint         # Run Next.js linter
 **Prebuild scripts (run automatically by `npm run build`):**
 1. `python3 scripts/build/export-all-properties.py` - Exports property data to JSON
 2. `node scripts/build/generate-reading-manifest.js` - Generates document manifest from `docs/`
+
+## Root Directory Structure
+
+```
+rstu-connect/
+├── src/                # Application source code (Next.js)
+├── docs/               # Reading library (~2,900 markdown files with YAML frontmatter)
+├── data/               # SQLite databases, JSON/CSV data files (mostly gitignored)
+├── public/             # Static assets (icons, data JSON, generated documents)
+├── scripts/            # Build, data loading, and maintenance scripts
+│   ├── build/          #   Prebuild scripts (export-all-properties, generate-manifest)
+│   ├── data/           #   Data import/export scripts (supabase loaders, extractors)
+│   └── maintenance/    #   Translation audits, frontmatter fixes, tag checks
+├── infrastructure/     # Server-side infrastructure
+│   ├── relay-server/   #   Socket.io relay server (deployed to Render)
+│   └── supabase/       #   All Supabase config: schema SQL, migrations, edge functions
+├── tests/              # All test files
+│   ├── unit/           #   Jest unit tests (authService, blocVoting, smoke)
+│   └── e2e/            #   Playwright e2e tests (debug, features, smoke)
+├── archive/            # Historical project docs, AI writings, analysis reports
+├── .github/workflows/  # GitHub Actions (deploy.yml, deploy-neocities.yml)
+└── [config files]      # next.config.js, tsconfig.json, jest.config.js, playwright.config.ts, etc.
+```
+
+**Not in git (gitignored):** `node_modules/`, `.next/`, `out/`, `coverage/`, `test-results/`, `playwright-report/`, `serve-dir/`, `*.db`, `public/documents/`, `public/version-info.json`
 
 ## Architecture
 
@@ -110,11 +137,13 @@ src/
 │   └── useSocketChat.ts    # Socket.io chat hook
 └── lib/
     ├── storage/            # Data persistence (29 files)
-    │   ├── profileStorage.ts       # User profiles, roles, invite codes
-    │   ├── eventStorage.ts         # Building/block events, RSVPs, calendar
-    │   ├── governanceStorage.ts    # Proposals, voting, Bookchin principle
-    │   ├── canvassStorage.ts       # Unit-level tenant outreach, habitability
-    │   └── ...                     # 25 more *Storage.ts modules
+    │   ├── profileStorage.ts         # User profiles, roles, invite codes
+    │   ├── eventStorage.ts           # Building/block events, RSVPs, calendar
+    │   ├── governanceStorage.ts      # Proposals, voting, Bookchin principle
+    │   ├── linkedPropertiesStorage.ts # Property groups (Blocs), merge logic
+    │   ├── delegateStorage.ts        # Delegate voting weight calculations
+    │   ├── canvassStorage.ts         # Unit-level tenant outreach, habitability
+    │   └── ...                       # 23 more *Storage.ts modules
     ├── services/           # External integrations (7 files)
     │   ├── supabase.ts             # Cloud sync, user storage, FTS
     │   ├── socketio.ts             # Socket.io client configuration
@@ -123,10 +152,48 @@ src/
     │   ├── logger.ts, sanitize.ts, crypto.ts, rateLimit.ts, etc.
     ├── pdf/                # PDF generators (3 files)
     │   └── demandLetterPDF.ts, strikeNoticePDF.ts, rentDisputePDF.ts
-    └── data/               # Types, loaders, domain logic (7 files)
-        ├── getBuildingsData.ts     # EnhancedBuilding interface
-        └── loadAllProperties.ts    # Loads compressed property JSON
+    ├── data/               # Types, loaders, domain logic (7 files)
+    │   ├── getBuildingsData.ts     # EnhancedBuilding interface
+    │   └── loadAllProperties.ts    # Loads compressed property JSON
+    └── __tests__/          # Co-located lib tests (canvass, delegate, election, governance, profile)
 ```
+
+### Infrastructure
+
+```
+infrastructure/
+├── relay-server/           # Socket.io relay server (Node.js, deployed to Render)
+│   ├── server.js           # Main server file
+│   ├── package.json
+│   └── package-lock.json
+└── supabase/               # All Supabase configuration
+    ├── schema.sql           # Base schema
+    ├── 002-020_*.sql        # Numbered schema evolution (properties, RLS, elections, etc.)
+    ├── fts-schema.sql       # Full-text search schema
+    ├── migrations/          # Incremental migrations (banned columns, auth integration, etc.)
+    └── functions/           # Supabase Edge Functions (Deno)
+        ├── send-verification-email/  # Sends 6-digit email verification codes
+        └── verify-email-code/        # Validates verification codes
+```
+
+### Tests
+
+```
+tests/                      # Root test directory
+├── unit/                   # Jest unit tests
+│   ├── authService.test.ts
+│   ├── blocVotingSystem.test.ts
+│   └── smoke.test.ts
+└── e2e/                    # Playwright end-to-end tests
+    ├── debug.spec.ts
+    ├── features.spec.ts
+    └── smoke.spec.ts
+
+src/lib/__tests__/          # Co-located storage tests (Jest)
+src/components/__tests__/   # Co-located component tests (Jest)
+```
+
+**Config:** `jest.config.js` (unit tests), `playwright.config.ts` (e2e tests)
 
 ### Data Types
 
@@ -209,7 +276,7 @@ function MyComponent() {
 
 **Chat slug convention:** Generated from address, e.g., "2500 E 2ND ST" -> `rstu-2500-e-2nd-st`
 
-**Legacy naming:** `src/components/GunChat/` may still exist - historical name, components use Socket.io.
+**Relay server:** `infrastructure/relay-server/server.js` (deployed to Render)
 
 ## Property Cards & Badges
 
@@ -224,6 +291,31 @@ function MyComponent() {
 **Sorting options (13):** Units, Priority, Habitability, Evictions, Violations, Year Built, Portfolio Size, Value, Value/Unit, Address, Owner
 
 **Filter options (9):** All, Corporate-Owned, Individual-Owned, Trust-Owned, Active Organizing, Emerging, Has Violations, High Evictions, Favorites
+
+## Property Linking (Blocs)
+
+**Location:** `src/lib/storage/linkedPropertiesStorage.ts`
+
+Properties can be linked into "Blocs" (linked property groups) for coordinated organizing:
+
+- **Ctrl+click** map markers to select properties for linking
+- When the first nearby property is selected, the currently-viewed property is auto-included
+- **Admin/Organizer path:** Instant group creation
+- **Tenant path:** Creates a governance proposal requiring votes
+
+**Key function:** `createOrMergeLinkedGroup()` - When linking properties that belong to existing groups, automatically merges all overlapping groups into one. Preserves members, alliances, bans, and notes from merged groups.
+
+**Map markers:**
+- Main building (currently viewed): 18px red dot, shrinks to 14px when in linking selection
+- Nearby buildings: 12px gray dots, grow to 14px red when selected
+- Linked group members: 14px colored dots (blue = merged/same building, orange = linked)
+- All selected markers normalize to 14px for visual consistency
+
+## Profile System Internals
+
+**Key pattern:** `getStoredProfiles()` in `profileStorage.ts` returns both `state.storedProfiles` (saved on logout) AND `state.currentProfile` (active user). This is critical — many features (delegate voting, governance) iterate all profiles. If `currentProfile` is missing, the active user becomes invisible.
+
+**Invite codes:** Created via `createInviteAsync()`. If cloud sync fails (Supabase foreign key constraint when profile hasn't synced), codes are marked `localOnly: true` and show an orange warning in the UI.
 
 ## Canvassing & Unit Tracker
 
@@ -267,7 +359,7 @@ sqlite3 data/databases/main_properties.db
 - **Keyboard shortcut:** `Ctrl+Shift+A` toggles admin login/logout
 - **Admin capabilities:** Edit document titles, hide/show documents, delete documents
 - **Admin state:** Syncs to Supabase (`document_admin_state`, `document_edits` tables) with localStorage fallback
-- **Database schema:** `scripts/archive/create-admin-state-tables.sql`
+- **Database schema:** `infrastructure/supabase/` (numbered SQL files)
 
 ## Deployment
 

@@ -56,6 +56,9 @@ playwright-report/
 # Build artifacts
 serve-dir/
 
+# Supabase CLI cache (auto-generated)
+**/.temp/
+
 # Old static exports (use out/ instead)
 _next/
 
