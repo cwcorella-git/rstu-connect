@@ -21,6 +21,7 @@ import { SectionControls } from './SectionControls'
 import { SectionSettingsPanel } from './SectionSettingsPanel'
 import { AddSectionButton } from './AddSectionButton'
 import { EmptyPageState } from './EmptyPageState'
+import { ConfirmModal } from '@/components/ui/ConfirmModal'
 
 interface LandingPageProps {
   onEnter: () => void
@@ -34,6 +35,7 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
   const [pages, setPages] = useState<LandingPageConfig[]>([])
   const [activePageId, setActivePageIdState] = useState('page-1')
   const [settingsOpenForId, setSettingsOpenForId] = useState<string | null>(null)
+  const [deleteConfirm, setDeleteConfirm] = useState<{ id: string; name: string } | null>(null)
 
   // Load pages on mount
   useEffect(() => {
@@ -64,12 +66,19 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
   }, [handlePageChange])
 
   const handleDeletePage = useCallback((id: string) => {
-    deleteLandingPage(id)
+    const page = pages.find(p => p.id === id)
+    setDeleteConfirm({ id, name: page?.name || 'this page' })
+  }, [pages])
+
+  const confirmDeletePage = useCallback(() => {
+    if (!deleteConfirm) return
+    deleteLandingPage(deleteConfirm.id)
     setPages(getLandingPages())
-    if (activePageId === id) {
+    if (activePageId === deleteConfirm.id) {
       handlePageChange('page-1')
     }
-  }, [activePageId, handlePageChange])
+    setDeleteConfirm(null)
+  }, [deleteConfirm, activePageId, handlePageChange])
 
   // Section manipulation
   const updateActivePage = useCallback((updater: (page: LandingPageConfig) => LandingPageConfig) => {
@@ -187,6 +196,18 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
           <EmptyPageState onAddSection={(type) => handleAddSection(-1, type)} />
         )}
       </div>
+
+      {/* Delete page confirmation */}
+      <ConfirmModal
+        isOpen={deleteConfirm !== null}
+        title="Delete Page"
+        message={`Permanently delete "${deleteConfirm?.name}"? All sections on this page will be removed.`}
+        confirmText="Delete"
+        cancelText="Cancel"
+        variant="danger"
+        onConfirm={confirmDeletePage}
+        onCancel={() => setDeleteConfirm(null)}
+      />
     </div>
   )
 }
