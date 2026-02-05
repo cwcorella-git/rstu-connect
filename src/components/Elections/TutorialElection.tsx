@@ -722,7 +722,7 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
     <div className="fixed inset-0 z-50 bg-black/50 flex items-center justify-center p-4">
       <div className="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
         {/* Progress indicator */}
-        <div className="sticky top-0 bg-white border-b border-gray-200 p-4">
+        <div className="sticky top-0 bg-white border-b border-gray-200 p-4 z-20">
           <div className="flex items-center justify-between mb-2">
             <span className="text-sm text-gray-500">RCV Tutorial</span>
             <button
