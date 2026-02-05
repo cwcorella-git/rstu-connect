@@ -169,7 +169,6 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
 
   // Building search state
   const [buildingSearch, setBuildingSearch] = useState('')
-  const [showBuildingDropdown, setShowBuildingDropdown] = useState(false)
   const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([])
   const [isSearching, setIsSearching] = useState(false)
   const [allProperties, setAllProperties] = useState<CompressedProperty[]>([])
@@ -207,7 +206,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
     setIsSearching(true)
     searchTimeoutRef.current = setTimeout(async () => {
       if (USE_SUPABASE) {
-        const results = await searchProperties(query, 20)
+        const results = await searchProperties(query, 50)
         if (results.length > 0) {
           setSearchResults(results.map(searchResultToBuilding))
           setIsSearching(false)
@@ -237,7 +236,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
           p.a.includes(query)
         ) {
           results.push(expandProperty(p))
-          if (results.length >= 20) break
+          if (results.length >= 50) break
         }
       }
 
@@ -252,7 +251,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
     }
   }, [buildingSearch, buildings, allProperties])
 
-  const displayBuildings = buildingSearch.trim() ? searchResults : buildings.slice(0, 20)
+  const displayBuildings = buildingSearch.trim() ? searchResults : []
 
   const selectedBuilding = buildings.find(b => b.chatSlug === formData.buildingId)
     || searchResults.find(b => b.chatSlug === formData.buildingId)
@@ -336,7 +335,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
 
         {/* Your Building */}
         <Section id="building" title={t('profile.yourBuilding') || 'Your Building'} isExpanded={expandedSections.has('building')} onToggle={toggleSection}>
-          {formData.buildingId && !showBuildingDropdown ? (
+          {formData.buildingId ? (
             <div className="flex items-center gap-2">
               <div className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm bg-gray-50">
                 {selectedBuilding?.address.split(',')[0] || formData.buildingId}
@@ -346,7 +345,6 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
                 onClick={() => {
                   setFormData(prev => ({ ...prev, buildingId: undefined, buildingAddress: undefined }))
                   setBuildingSearch('')
-                  setShowBuildingDropdown(true)
                 }}
                 className="px-3 py-2 text-gray-500 hover:text-gray-700 text-sm"
               >
@@ -354,74 +352,55 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
               </button>
             </div>
           ) : (
-            <div className="relative">
+            <div>
               <input
                 type="text"
                 value={buildingSearch}
-                onChange={(e) => {
-                  setBuildingSearch(e.target.value)
-                  setShowBuildingDropdown(true)
-                }}
-                onFocus={() => setShowBuildingDropdown(true)}
+                onChange={(e) => setBuildingSearch(e.target.value)}
                 placeholder={t('profile.searchBuildingPlaceholder') || 'Search by address, owner, or APN...'}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
               />
 
-              {showBuildingDropdown && (
-                <div className="absolute z-10 mt-1 w-full bg-white border border-gray-300 rounded-md shadow-lg max-h-48 overflow-y-auto">
-                  <button
-                    type="button"
-                    onClick={() => {
-                      setFormData(prev => ({ ...prev, buildingId: undefined, buildingAddress: undefined }))
-                      setShowBuildingDropdown(false)
-                      setBuildingSearch('')
-                    }}
-                    className="w-full px-3 py-2 text-left text-sm text-gray-500 hover:bg-gray-100 border-b border-gray-100"
-                  >
-                    {t('profile.skipAddBuildingLater') || 'Clear selection'}
-                  </button>
+              <div className="mt-1 w-full bg-white border border-gray-200 rounded-md max-h-64 overflow-y-auto">
+                {isSearching ? (
+                  <div className="px-3 py-2 text-sm text-gray-500">
+                    <span className="animate-pulse">{t('profile.searchingProperties') || 'Searching properties...'}</span>
+                  </div>
+                ) : displayBuildings.length === 0 ? (
+                  <div className="px-3 py-4 text-sm text-gray-500 italic text-center">
+                    {buildingSearch.trim()
+                      ? t('profile.noPropertiesMatch')?.replace('{query}', buildingSearch) || `No properties match "${buildingSearch}"`
+                      : t('profile.typeToSearchProperties') || 'Type to search all properties...'}
+                  </div>
+                ) : (
+                  displayBuildings.map((building) => (
+                    <button
+                      key={building.apn}
+                      type="button"
+                      onClick={() => {
+                        setFormData(prev => ({
+                          ...prev,
+                          buildingId: building.chatSlug,
+                          buildingAddress: building.address,
+                        }))
+                        setBuildingSearch('')
+                      }}
+                      className="w-full px-3 py-2 text-left text-sm hover:bg-rstu-red hover:text-white border-b border-gray-50 last:border-b-0"
+                    >
+                      <div className="font-medium">{building.address.split(',')[0]}</div>
+                      {building.propertyName && (
+                        <div className="text-xs opacity-70">{building.propertyName}</div>
+                      )}
+                    </button>
+                  ))
+                )}
 
-                  {isSearching ? (
-                    <div className="px-3 py-2 text-sm text-gray-500">
-                      <span className="animate-pulse">{t('profile.searchingProperties') || 'Searching properties...'}</span>
-                    </div>
-                  ) : displayBuildings.length === 0 ? (
-                    <div className="px-3 py-2 text-sm text-gray-500 italic">
-                      {buildingSearch.trim()
-                        ? t('profile.noPropertiesMatch')?.replace('{query}', buildingSearch) || `No properties match "${buildingSearch}"`
-                        : t('profile.typeToSearchProperties') || 'Type to search all properties...'}
-                    </div>
-                  ) : (
-                    displayBuildings.map((building) => (
-                      <button
-                        key={building.apn}
-                        type="button"
-                        onClick={() => {
-                          setFormData(prev => ({
-                            ...prev,
-                            buildingId: building.chatSlug,
-                            buildingAddress: building.address,
-                          }))
-                          setBuildingSearch('')
-                          setShowBuildingDropdown(false)
-                        }}
-                        className="w-full px-3 py-2 text-left text-sm hover:bg-rstu-red hover:text-white"
-                      >
-                        <div className="font-medium">{building.address.split(',')[0]}</div>
-                        {building.propertyName && (
-                          <div className="text-xs opacity-70">{building.propertyName}</div>
-                        )}
-                      </button>
-                    ))
-                  )}
-
-                  {!isSearching && !buildingSearch.trim() && (
-                    <div className="px-3 py-2 text-xs text-gray-400 border-t border-gray-100">
-                      {t('profile.searchRentalPropertiesHint') || 'Search 21,000+ rental properties'}
-                    </div>
-                  )}
-                </div>
-              )}
+                {!isSearching && !buildingSearch.trim() && (
+                  <div className="px-3 py-1.5 text-xs text-gray-400 border-t border-gray-100">
+                    {t('profile.searchRentalPropertiesHint') || 'Search 21,000+ rental properties'}
+                  </div>
+                )}
+              </div>
             </div>
           )}
           {formData.buildingId && (

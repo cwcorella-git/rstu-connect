@@ -30,6 +30,7 @@ import {
   saveDocumentEditAsync
 } from '@/lib/storage/adminStorage';
 import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/storage/profileStorage';
+import { getFavorites } from '@/lib/storage/favoritesStorage';
 import { createLinkedGroup, generateGroupName, getLinkedGroups, validateBlocFormationRequirement } from '@/lib/storage/linkedPropertiesStorage';
 import { createProposal } from '@/lib/storage/governanceStorage';
 import { runStorageHealthCheck } from '@/lib/utils/safeStorage';
@@ -209,16 +210,37 @@ export default function Home() {
     setAllDocuments(mergedDocs);
   };
 
-  // Set initial selected building when buildings load (desktop only)
+  // Smart auto-select: profile building > favorited property > random
   useEffect(() => {
-    if (!isHydrated) return; // Wait for hydration to detect actual screen size
-    if (buildings.length > 0 && !selectedBuilding && isDesktop) {
-      const firstValid = buildings.find(b => b && b.apn);
-      if (firstValid) {
-        setSelectedBuilding(firstValid);
+    if (!isHydrated) return;
+    if (buildings.length === 0 || selectedBuilding) return;
+
+    // 1. Tenant profile building (highest priority)
+    const profile = getCurrentProfile();
+    if (profile?.buildingId) {
+      const profileBuilding = buildings.find(b => b.chatSlug === profile.buildingId);
+      if (profileBuilding) {
+        setSelectedBuilding(profileBuilding);
+        return;
       }
     }
-  }, [buildings, selectedBuilding, isHydrated, isDesktop]);
+
+    // 2. First favorited property
+    const favorites = getFavorites();
+    if (favorites.size > 0) {
+      const favBuilding = buildings.find(b => favorites.has(b.apn));
+      if (favBuilding) {
+        setSelectedBuilding(favBuilding);
+        return;
+      }
+    }
+
+    // 3. Random property (fallback)
+    const randomBuilding = buildings[Math.floor(Math.random() * buildings.length)];
+    if (randomBuilding) {
+      setSelectedBuilding(randomBuilding);
+    }
+  }, [buildings, selectedBuilding, isHydrated]);
 
   // Initialize from localStorage after mount to avoid hydration issues
   useEffect(() => {
