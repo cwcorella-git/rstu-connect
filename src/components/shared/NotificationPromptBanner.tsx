@@ -10,9 +10,10 @@ const DISMISS_KEY = 'rstu-notification-prompt-dismissed'
 export function NotificationPromptBanner() {
   const { t } = useLanguage()
   const { profile } = useAuth()
-  const { isSupported, permission, subscribe, isLoading } = usePushNotifications(profile?.id ?? null)
+  const { isSupported, permission, subscribe, isLoading, error } = usePushNotifications(profile?.id ?? null)
   const [dismissed, setDismissed] = useState(true) // Start true to avoid flash
   const [success, setSuccess] = useState(false)
+  const [showError, setShowError] = useState(false)
 
   useEffect(() => {
     if (typeof window === 'undefined') return
@@ -26,8 +27,9 @@ export function NotificationPromptBanner() {
       setSuccess(true)
       setTimeout(() => setDismissed(true), 2000)
     } else {
-      // Permission denied or failed — hide banner
-      setDismissed(true)
+      // Show error briefly then dismiss
+      setShowError(true)
+      setTimeout(() => setDismissed(true), 3000)
     }
   }, [subscribe])
 
@@ -45,6 +47,14 @@ export function NotificationPromptBanner() {
     return (
       <div className="bg-green-600 text-white px-4 py-2 text-center text-sm font-medium" role="status">
         {t('notifications.onboardingSuccess')}
+      </div>
+    )
+  }
+
+  if (showError) {
+    return (
+      <div className="bg-amber-600 text-white px-4 py-2 text-center text-sm font-medium" role="alert">
+        {error || 'Could not enable notifications right now. Try again later.'}
       </div>
     )
   }

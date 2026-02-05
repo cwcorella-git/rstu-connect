@@ -129,8 +129,28 @@ export function usePushNotifications(profileId: string | null) {
       }
 
       // Get VAPID public key from server
-      const vapidResponse = await fetch(`${SOCKET_URL}/vapid-public-key`)
-      const { publicKey } = await vapidResponse.json()
+      let publicKey: string | undefined
+      try {
+        const vapidResponse = await fetch(`${SOCKET_URL}/vapid-public-key`)
+        const data = await vapidResponse.json()
+        publicKey = data.publicKey
+      } catch {
+        setState(prev => ({
+          ...prev,
+          isLoading: false,
+          error: 'Could not reach notification server',
+        }))
+        return false
+      }
+
+      if (!publicKey) {
+        setState(prev => ({
+          ...prev,
+          isLoading: false,
+          error: 'Push notifications are not yet configured on the server',
+        }))
+        return false
+      }
 
       // Convert VAPID key to Uint8Array
       const vapidPublicKey = urlBase64ToUint8Array(publicKey)
