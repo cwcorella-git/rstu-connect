@@ -63,6 +63,11 @@ function markTutorialCompleted(): void {
   localStorage.setItem(TUTORIAL_COMPLETED_KEY, 'true')
 }
 
+function clearTutorialCompleted(): void {
+  if (typeof window === 'undefined') return
+  localStorage.removeItem(TUTORIAL_COMPLETED_KEY)
+}
+
 // Instant-runoff voting calculation
 function calculateRCVResults(allBallots: string[][]): {
   winner: string
@@ -764,4 +769,4 @@ export function TutorialElection({ onComplete, onSkip }: TutorialElectionProps) 
 // Export helper
 // ============================================================================
 
-export { hasTutorialCompleted, markTutorialCompleted }
+export { hasTutorialCompleted, markTutorialCompleted, clearTutorialCompleted }

@@ -2,15 +2,18 @@
 
 import { useState, memo } from 'react'
 import { useLanguage, SUPPORTED_LOCALES, type Locale } from '@/contexts/LanguageContext'
+import { useOnboardingSafe } from '@/contexts/OnboardingContext'
 import {
   exportProfileData,
   type UserProfile,
 } from '@/lib/storage/profileStorage'
+import { hasTutorialCompleted, clearTutorialCompleted } from '@/components/Elections'
 import { NotificationSettings } from './NotificationSettings'
 
 interface ProfileEditorProps {
   profile: UserProfile
   onSignOut?: () => void
+  onRestartRCVTutorial?: () => void
 }
 
 // Privacy toggle - neutral style
@@ -42,8 +45,9 @@ const PrivacyToggle = memo(function PrivacyToggle({
   )
 })
 
-export function ProfileEditor({ profile, onSignOut }: ProfileEditorProps) {
+export function ProfileEditor({ profile, onSignOut, onRestartRCVTutorial }: ProfileEditorProps) {
   const { t, locale, setLocale } = useLanguage()
+  const onboarding = useOnboardingSafe()
 
   const [privacySettings, setPrivacySettings] = useState({
     profileVisible: true,
@@ -53,6 +57,8 @@ export function ProfileEditor({ profile, onSignOut }: ProfileEditorProps) {
   })
   const [exportMessage, setExportMessage] = useState<string | null>(null)
   const [exportError, setExportError] = useState<string | null>(null)
+  const [checklistResetMsg, setChecklistResetMsg] = useState(false)
+  const [rcvTutorialCompleted, setRcvTutorialCompleted] = useState(() => hasTutorialCompleted())
 
   const togglePrivacySetting = (key: keyof typeof privacySettings) => {
     setPrivacySettings(prev => ({ ...prev, [key]: !prev[key] }))
@@ -103,6 +109,67 @@ export function ProfileEditor({ profile, onSignOut }: ProfileEditorProps) {
           <p className="text-xs text-gray-500">
             {t('settings.languageHint') || 'Language preference is saved automatically'}
           </p>
+        </div>
+
+        {/* Tutorials & Guides */}
+        <div className="border-b border-gray-200 px-4 py-4 space-y-3">
+          <span className="font-medium text-gray-900 block">{t('settings.tutorials') || 'Tutorials & Guides'}</span>
+
+          {/* Getting Started Checklist */}
+          <div className="flex items-center justify-between py-2">
+            <div className="min-w-0 flex-1">
+              <p className="text-sm font-medium text-gray-900">{t('settings.gettingStarted') || 'Getting Started Checklist'}</p>
+              <p className="text-xs text-gray-500">
+                {onboarding ? (
+                  onboarding.state.checklistDismissed
+                    ? t('settings.gettingStartedDismissed') || 'Dismissed'
+                    : `${onboarding.getProgress().completed}/${onboarding.getProgress().total} ${t('settings.completed') || 'completed'}`
+                ) : (
+                  t('settings.gettingStartedDesc') || 'Onboarding checklist for new members'
+                )}
+              </p>
+            </div>
+            <button
+              type="button"
+              onClick={() => {
+                if (onboarding) {
+                  onboarding.resetChecklist()
+                  setChecklistResetMsg(true)
+                  setTimeout(() => setChecklistResetMsg(false), 2000)
+                }
+              }}
+              className="flex-shrink-0 ml-3 px-3 py-1.5 text-xs font-medium text-rstu-red border border-rstu-red/30 rounded-md hover:bg-red-50 transition-colors"
+            >
+              {t('settings.resetChecklist') || 'Reset'}
+            </button>
+          </div>
+
+          {checklistResetMsg && (
+            <p className="text-xs text-green-600">{t('settings.checklistReset') || 'Checklist restored!'}</p>
+          )}
+
+          {/* RCV Voting Tutorial */}
+          <div className="flex items-center justify-between py-2">
+            <div className="min-w-0 flex-1">
+              <p className="text-sm font-medium text-gray-900">{t('settings.rcvTutorial') || 'RCV Voting Tutorial'}</p>
+              <p className="text-xs text-gray-500">
+                {rcvTutorialCompleted
+                  ? t('settings.rcvCompleted') || 'Completed'
+                  : t('settings.rcvNotCompleted') || 'Not yet completed'}
+              </p>
+            </div>
+            <button
+              type="button"
+              onClick={() => {
+                clearTutorialCompleted()
+                setRcvTutorialCompleted(false)
+                onRestartRCVTutorial?.()
+              }}
+              className="flex-shrink-0 ml-3 px-3 py-1.5 text-xs font-medium text-rstu-red border border-rstu-red/30 rounded-md hover:bg-red-50 transition-colors"
+            >
+              {t('settings.restartTutorial') || 'Restart'}
+            </button>
+          </div>
         </div>
 
         {/* Privacy & Data */}

@@ -422,6 +422,7 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                 <ProfileEditor
                   profile={profile}
                   onSignOut={() => { setShowSettings(false); handleLogout() }}
+                  onRestartRCVTutorial={() => { setShowSettings(false); setShowRCVTutorial(true) }}
                 />
               </div>
             </div>
