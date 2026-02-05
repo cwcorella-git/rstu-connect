@@ -1048,6 +1048,8 @@ export async function getProfileCount(): Promise<number> {
 
 /**
  * Update profile role (admin only)
+ * Uses RPC function that sets user context within a single transaction,
+ * so RLS policies and triggers can verify the caller is admin.
  */
 export async function updateProfileRole(
   profileId: string,
@@ -1057,14 +1059,27 @@ export async function updateProfileRole(
     return { success: false, error: 'Supabase not configured' }
   }
 
-  const { error } = await supabase
-    .from('profiles')
-    .update({ role: newRole })
-    .eq('id', profileId)
+  // Get current user ID to pass as caller context
+  const { getCurrentProfile } = await import('../storage/profileStorage')
+  const currentProfile = getCurrentProfile()
+  if (!currentProfile) {
+    return { success: false, error: 'Not logged in' }
+  }
+
+  const { data, error } = await supabase.rpc('admin_update_profile_role', {
+    caller_id: currentProfile.id,
+    target_id: profileId,
+    new_role: newRole,
+  })
 
   if (error) {
     log.error('Update role error:', error)
     return { success: false, error: error.message }
+  }
+
+  // RPC returns { success: boolean, error?: string }
+  if (data && !data.success) {
+    return { success: false, error: data.error || 'Role update failed' }
   }
 
   return { success: true }

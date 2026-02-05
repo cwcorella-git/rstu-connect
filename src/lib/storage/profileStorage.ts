@@ -432,25 +432,29 @@ async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
   }
 
   try {
-    const dbInvite = {
-      code: invite.code,
-      created_by: invite.createdBy,
-      building_id: invite.buildingId || null,
-      unit_number: invite.unitNumber || null,
-      grant_role: invite.grantRole,
-      max_uses: invite.maxUses,
-      used_count: invite.usedCount,
-      used_by: invite.usedBy,
-      revoked: invite.revoked,
-      expires_at: invite.expires > 0 ? new Date(invite.expires).toISOString() : null,
-    }
-
-    const { error } = await supabase
-      .from('invite_codes')
-      .upsert(dbInvite, { onConflict: 'code' })
+    // Use RPC function that sets user context within the transaction
+    // so the invite_codes INSERT RLS policy (requires organizer+) passes
+    const { data, error } = await supabase.rpc('sync_invite_code', {
+      caller_id: invite.createdBy,
+      p_code: invite.code,
+      p_created_by: invite.createdBy,
+      p_building_id: invite.buildingId || null,
+      p_unit_number: invite.unitNumber || null,
+      p_grant_role: invite.grantRole,
+      p_max_uses: invite.maxUses,
+      p_used_count: invite.usedCount,
+      p_used_by: invite.usedBy?.length ? invite.usedBy : null,
+      p_revoked: invite.revoked,
+      p_expires_at: invite.expires > 0 ? new Date(invite.expires).toISOString() : null,
+    })
 
     if (error) {
       log.error('saveInviteToDb failed:', { code: error.code, message: error.message })
+      return false
+    }
+
+    if (data && !data.success) {
+      log.error('saveInviteToDb RPC failed:', data.error)
       return false
     }
 
@@ -462,32 +466,23 @@ async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
   }
 }
 
-// Update invite usage in Supabase
+// Update invite usage in Supabase via RPC (bypasses RLS)
 async function updateInviteUsageInDb(code: string, profileId: string): Promise<boolean> {
   if (!supabase) return false
 
   try {
-    // First fetch current state
-    const { data, error: fetchError } = await supabase
-      .from('invite_codes')
-      .select('used_count, used_by')
-      .eq('code', code.toUpperCase())
-      .single()
+    const { data, error } = await supabase.rpc('redeem_invite_code', {
+      p_code: code,
+      p_profile_id: profileId,
+    })
 
-    if (fetchError || !data) {
+    if (error) {
+      log.error('updateInviteUsageInDb RPC error:', error.message)
       return false
     }
 
-    // Update with new usage
-    const { error: updateError } = await supabase
-      .from('invite_codes')
-      .update({
-        used_count: (data.used_count || 0) + 1,
-        used_by: [...(data.used_by || []), profileId],
-      })
-      .eq('code', code.toUpperCase())
-
-    if (updateError) {
+    if (data && !data.success) {
+      log.error('updateInviteUsageInDb RPC failed:', data.error)
       return false
     }
 
@@ -1699,12 +1694,12 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
     return false
   }
 
-  // Check role hierarchy - can only delete lower-ranked profiles
+  // Check role hierarchy - admins can delete anyone, others can only delete lower-ranked
   const roleHierarchy: UserRole[] = ['tenant', 'organizer', 'admin']
   const currentUserRoleIndex = roleHierarchy.indexOf(currentUser.role)
   const targetUserRoleIndex = roleHierarchy.indexOf(profileToDelete.role)
 
-  if (currentUserRoleIndex <= targetUserRoleIndex) {
+  if (currentUser.role !== 'admin' && currentUserRoleIndex <= targetUserRoleIndex) {
     log.error('Cannot delete user with same or higher role')
     return false
   }
@@ -2197,30 +2192,21 @@ export async function revokeInviteAsync(code: string): Promise<boolean> {
   const profile = getCurrentProfile()
   if (!profile) return false
 
-  // Update in Supabase
+  // Update in Supabase via RPC (sets user context within transaction)
   if (USE_SUPABASE && supabase) {
-    const { data } = await supabase
-      .from('invite_codes')
-      .select('created_by')
-      .eq('code', code.toUpperCase())
-      .single()
+    const { data, error } = await supabase.rpc('revoke_invite_code', {
+      caller_id: profile.id,
+      p_code: code,
+    })
 
-    if (data) {
-      // Check permissions
-      if (data.created_by !== profile.id && !isAdmin()) {
-        return false
-      }
+    if (!error && data?.success) {
+      // Also update localStorage
+      revokeInvite(code)
+      return true
+    }
 
-      const { error } = await supabase
-        .from('invite_codes')
-        .update({ revoked: true })
-        .eq('code', code.toUpperCase())
-
-      if (!error) {
-        // Also update localStorage
-        revokeInvite(code)
-        return true
-      }
+    if (data && !data.success) {
+      log.error('revokeInviteAsync failed:', data.error)
     }
   }
 

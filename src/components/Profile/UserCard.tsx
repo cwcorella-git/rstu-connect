@@ -40,8 +40,8 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
   const currentUserRoleIndex = currentUser ? roleHierarchy.indexOf(currentUser.role) : -1
   const targetUserRoleIndex = roleHierarchy.indexOf(profile.role)
 
-  // Can delete if: current user has higher role AND not deleting self
-  const canDelete = currentUserRoleIndex > targetUserRoleIndex && !isCurrentUser
+  // Can delete if: admin (can delete anyone) or higher role; AND not deleting self
+  const canDelete = (currentUser?.role === 'admin' || currentUserRoleIndex > targetUserRoleIndex) && !isCurrentUser
 
   // Can ban if: admin AND target is not admin AND not self AND not already banned
   const canBan = currentUser?.role === 'admin' && profile.role !== 'admin' && !isCurrentUser && !profile.banned
