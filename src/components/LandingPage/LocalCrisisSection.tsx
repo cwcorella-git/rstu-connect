@@ -32,71 +32,55 @@ export function LocalCrisisSection() {
               as="p"
               className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2"
             />
-            <EditableText
-              tKey="landing.crisis.rent_increase_label"
-              as="p"
-              className="text-sm text-gray-700"
-            />
+            <p className="text-sm text-gray-700">
+              <EditableText tKey="landing.crisis.rent_increase_label" as="span" />
+              <CitationLink id="reno-rent-increase-2024" number={1} />
+            </p>
           </div>
 
           {/* Cost-Burdened */}
           <div className="bg-white p-6 rounded-lg border border-gray-200 text-center">
-            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">
-              57%<CitationLink id="washoe-cost-burdened" number={1} />
+            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">57%</p>
+            <p className="text-sm text-gray-700">
+              <EditableText tKey="landing.crisis.cost_burdened" as="span" />
+              <CitationLink id="washoe-cost-burdened" number={2} />
             </p>
-            <EditableText
-              tKey="landing.crisis.cost_burdened"
-              as="p"
-              className="text-sm text-gray-700"
-            />
           </div>
 
           {/* Hourly Wage */}
           <div className="bg-white p-6 rounded-lg border border-gray-200 text-center">
-            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">
-              82 hrs<CitationLink id="minimum-wage-housing-hours" number={2} />
+            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">82 hrs</p>
+            <p className="text-sm text-gray-700">
+              <EditableText tKey="landing.crisis.minimum_wage_hours" as="span" />
+              <CitationLink id="minimum-wage-housing-hours" number={3} />
             </p>
-            <EditableText
-              tKey="landing.crisis.minimum_wage_hours"
-              as="p"
-              className="text-sm text-gray-700"
-            />
           </div>
 
           {/* Homelessness */}
           <div className="bg-white p-6 rounded-lg border border-gray-200 text-center">
-            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">
-              1,760<CitationLink id="washoe-homeless-count" number={3} />
+            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">1,760</p>
+            <p className="text-sm text-gray-700">
+              <EditableText tKey="landing.crisis.homeless" as="span" />
+              <CitationLink id="washoe-homeless-count" number={4} />
             </p>
-            <EditableText
-              tKey="landing.crisis.homeless"
-              as="p"
-              className="text-sm text-gray-700"
-            />
           </div>
 
           {/* Daily Evictions */}
           <div className="bg-white p-6 rounded-lg border border-gray-200 text-center">
-            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">
-              296<CitationLink id="nevada-eviction-rate" number={4} />
+            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">296</p>
+            <p className="text-sm text-gray-700">
+              <EditableText tKey="landing.crisis.daily_evictions" as="span" />
+              <CitationLink id="nevada-eviction-rate" number={5} />
             </p>
-            <EditableText
-              tKey="landing.crisis.daily_evictions"
-              as="p"
-              className="text-sm text-gray-700"
-            />
           </div>
 
           {/* Luxury Only */}
           <div className="bg-white p-6 rounded-lg border border-gray-200 text-center">
-            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">
-              94%<CitationLink id="luxury-unit-construction" number={5} />
+            <p className="text-4xl sm:text-5xl font-bold text-rstu-red mb-2">94%</p>
+            <p className="text-sm text-gray-700">
+              <EditableText tKey="landing.crisis.luxury_units" as="span" />
+              <CitationLink id="luxury-unit-construction" number={6} />
             </p>
-            <EditableText
-              tKey="landing.crisis.luxury_units"
-              as="p"
-              className="text-sm text-gray-700"
-            />
           </div>
         </div>
 
