@@ -65,6 +65,8 @@ export default function RootLayout({
         {/* Additional security headers via meta tags */}
         <meta httpEquiv="X-Content-Type-Options" content="nosniff" />
         <meta name="referrer" content="strict-origin-when-cross-origin" />
+        <link rel="icon" href="/rstu-connect/favicon.ico" sizes="any" />
+        <link rel="icon" href="/rstu-connect/icon.svg" type="image/svg+xml" />
         <link rel="apple-touch-icon" href="/rstu-connect/icon-192.png" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
       </head>

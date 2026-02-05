@@ -1,4 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <rect width="512" height="512" rx="64" fill="#cc0000"/>
-  <text x="256" y="320" font-family="Arial Black, Arial, sans-serif" font-size="280" font-weight="bold" fill="white" text-anchor="middle">R</text>
+  <!-- House roof -->
+  <polygon points="256,100 420,240 92,240" fill="white"/>
+  <!-- House body -->
+  <rect x="130" y="240" width="252" height="180" fill="white"/>
+  <!-- Door -->
+  <rect x="220" y="300" width="72" height="120" rx="4" fill="#cc0000"/>
+  <!-- Door knob -->
+  <circle cx="278" cy="365" r="7" fill="white"/>
+  <!-- Left window -->
+  <rect x="152" y="272" width="52" height="48" rx="4" fill="#cc0000"/>
+  <!-- Left window cross -->
+  <line x1="178" y1="272" x2="178" y2="320" stroke="white" stroke-width="3"/>
+  <line x1="152" y1="296" x2="204" y2="296" stroke="white" stroke-width="3"/>
+  <!-- Right window -->
+  <rect x="308" y="272" width="52" height="48" rx="4" fill="#cc0000"/>
+  <!-- Right window cross -->
+  <line x1="334" y1="272" x2="334" y2="320" stroke="white" stroke-width="3"/>
+  <line x1="308" y1="296" x2="360" y2="296" stroke="white" stroke-width="3"/>
+  <!-- Chimney -->
+  <rect x="340" y="120" width="40" height="100" fill="white"/>
 </svg>
