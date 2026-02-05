@@ -18,6 +18,44 @@ function stripFrontmatter(content: string): string {
   return content.replace(frontmatterRegex, '').trim()
 }
 
+// Clean leading duplicate titles, metadata lines, and broken image refs from content
+// These are PDF conversion artifacts that duplicate info already shown in the header
+function cleanContentLeading(content: string, title: string): string {
+  const lines = content.split('\n')
+  let i = 0
+
+  // Normalize title for comparison
+  const normalizedTitle = title.replace(/\*\*/g, '').replace(/[^\w\s]/g, '').trim().toLowerCase()
+
+  while (i < lines.length) {
+    const line = lines[i].trim()
+
+    // Skip empty lines at the start
+    if (line === '') { i++; continue }
+
+    // Remove broken image references: ![](_page_...) or ## ![](_page_...)
+    if (line.match(/^#{0,3}\s*!\[\]\(_page_/)) { i++; continue }
+
+    // Remove leading H1/H2 that matches the document title
+    const headingMatch = line.match(/^#{1,2}\s+(.+)$/)
+    if (headingMatch) {
+      const headingText = headingMatch[1].replace(/\*\*/g, '').replace(/[^\w\s]/g, '').trim().toLowerCase()
+      if (headingText && normalizedTitle.includes(headingText.substring(0, 20))) { i++; continue }
+    }
+
+    // Remove metadata lines: ## **Date:**, ## **Source:**, **Source:**, ## **Tags:**, **Tags:**
+    if (line.match(/^#{0,3}\s*\*?\*?\*?(Date|Source|Tags):\*?\*?\*?\s/i)) { i++; continue }
+
+    // Remove standalone "By Author" lines that follow metadata
+    if (line.match(/^#{0,3}\s*By\s+/i) && i < 5) { i++; continue }
+
+    // No more cruft to strip — stop
+    break
+  }
+
+  return lines.slice(i).join('\n').trim()
+}
+
 interface ReadingContentProps {
   document: ReadingDocument
   showBackButton?: boolean
@@ -43,7 +81,7 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
     // Check for edited version first
     const editedDoc = getDocumentEdit(document.id)
     if (editedDoc) {
-      setContent(stripFrontmatter(editedDoc.content))
+      setContent(cleanContentLeading(stripFrontmatter(editedDoc.content), editedDoc.title))
       setTitle(editedDoc.title)
       setIsEdited(true)
       setIsLoading(false)
@@ -65,7 +103,7 @@ export function ReadingContent({ document, showBackButton, onBack }: ReadingCont
     fetch(`${basePath}/documents/${encodeURIComponent(document.category)}/${encodeURIComponent(document.filename)}`)
       .then(res => res.text())
       .then(text => {
-        setContent(stripFrontmatter(text))
+        setContent(cleanContentLeading(stripFrontmatter(text), document.title))
         setIsLoading(false)
 
         // Restore scroll position

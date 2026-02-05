@@ -8,6 +8,7 @@ import {
 } from '@heroicons/react/24/outline'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { getReadingState } from '@/lib/storage/readingStorage'
+import { canAccessTools } from '@/lib/storage/profileStorage'
 import type { ReadingDocument } from '@/lib/data/getReadingData'
 
 interface ReadingCardProps {
@@ -76,9 +77,27 @@ export function ReadingCard({
             )}
           </p>
 
-          {/* Meta info - reading time and favorite */}
+          {/* Meta info - reading time, curated star, personal star */}
           <div className="mt-0.5 flex items-center gap-2 text-xs text-gray-500">
             <span>{readingTime} {t('reading.minRead') || 'min read'}</span>
+            {/* Red star - RSTU Curated (togglable by organizers/admins) */}
+            {canAccessTools() ? (
+              <button
+                onClick={(e) => {
+                  e.stopPropagation()
+                  onFeature?.(document.id)
+                }}
+                className={`text-lg leading-none hover:scale-110 transition-transform ${
+                  isFeatured ? 'text-red-500' : 'text-gray-300 hover:text-red-400'
+                }`}
+                title={isFeatured ? t('reading.removeCurated') || 'Remove from RSTU Curated' : t('reading.addCurated') || 'Add to RSTU Curated'}
+              >
+                {isFeatured ? '★' : '☆'}
+              </button>
+            ) : isFeatured ? (
+              <span className="text-lg leading-none text-red-500" title={t('reading.rstuCurated') || 'RSTU Curated'}>★</span>
+            ) : null}
+            {/* Yellow star - Personal favorite (always togglable) */}
             <button
               onClick={(e) => {
                 e.stopPropagation()
@@ -115,20 +134,6 @@ export function ReadingCard({
             className="flex gap-1 opacity-0 group-hover:opacity-100 sm:opacity-100 transition-opacity duration-200"
             onClick={(e) => e.stopPropagation()}
           >
-            {/* Feature for landing page */}
-            <button
-              onClick={() => onFeature?.(document.id)}
-              className={`p-1.5 rounded transition-all ${
-                isFeatured
-                  ? 'text-yellow-500 bg-yellow-50 hover:bg-yellow-100'
-                  : 'text-gray-400 hover:text-yellow-600 hover:bg-yellow-50'
-              }`}
-              title={isFeatured ? 'Featured on landing page - click to unfeature' : 'Feature on landing page'}
-              aria-label={isFeatured ? 'Featured document' : 'Feature this document'}
-            >
-              {isFeatured ? '★' : '☆'}
-            </button>
-
             {/* Edit */}
             <button
               onClick={() => onEdit?.(document)}

@@ -2,7 +2,8 @@
 
 import { useState, useEffect } from 'react'
 import { toggleFavorite, getReadingState } from '@/lib/storage/readingStorage'
-import { isAdmin } from '@/lib/storage/profileStorage'
+import { isAdmin, canAccessTools } from '@/lib/storage/profileStorage'
+import { getFeaturedDocuments, toggleDocumentFeaturedAsync } from '@/lib/storage/adminStorage'
 import { useEditMode } from '@/contexts/EditModeContext'
 import type { ReadingDocument } from '@/lib/data/getReadingData'
 
@@ -57,19 +58,27 @@ interface ReadingHeaderProps {
 
 export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeaderProps) {
   const [isFavorited, setIsFavorited] = useState(false)
+  const [isCurated, setIsCurated] = useState(false)
   const [showCopied, setShowCopied] = useState(false)
   const [isTagsHovered, setIsTagsHovered] = useState(false)
   const { isEditMode, toggleEditMode } = useEditMode()
   const userIsAdmin = isAdmin()
+  const userCanCurate = canAccessTools()
 
   useEffect(() => {
     const state = getReadingState()
     setIsFavorited(state.favorites.includes(document.id))
+    setIsCurated(getFeaturedDocuments().includes(document.id))
   }, [document.id])
 
   const handleToggleFavorite = () => {
     const newState = toggleFavorite(document.id)
     setIsFavorited(newState)
+  }
+
+  const handleToggleCurated = async () => {
+    await toggleDocumentFeaturedAsync(document.id)
+    setIsCurated(getFeaturedDocuments().includes(document.id))
   }
 
   const handleShare = () => {
@@ -194,12 +203,32 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
             </button>
           )}
 
+          {/* Red star - RSTU Curated */}
+          {userCanCurate ? (
+            <button
+              onClick={handleToggleCurated}
+              className={`flex items-center gap-1 transition min-w-[44px] min-h-[44px] justify-center ${
+                isCurated
+                  ? 'text-red-500 hover:text-red-600'
+                  : 'text-gray-500 hover:text-red-400'
+              }`}
+              title={isCurated ? 'Remove from RSTU Curated' : 'Add to RSTU Curated'}
+            >
+              <span className="text-base">{isCurated ? '★' : '☆'}</span>
+            </button>
+          ) : isCurated ? (
+            <span className="flex items-center min-w-[44px] min-h-[44px] justify-center text-red-500" title="RSTU Curated">
+              <span className="text-base">★</span>
+            </span>
+          ) : null}
+
+          {/* Yellow star - Personal favorite */}
           <button
             onClick={handleToggleFavorite}
             className={`flex items-center gap-1 transition min-w-[44px] min-h-[44px] justify-center ${
               isFavorited
                 ? 'text-yellow-500 hover:text-yellow-600'
-                : 'text-gray-500 hover:text-gray-700'
+                : 'text-gray-500 hover:text-yellow-400'
             }`}
             title={isFavorited ? 'Remove from favorites' : 'Add to favorites'}
           >

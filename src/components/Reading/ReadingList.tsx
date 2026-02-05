@@ -59,6 +59,10 @@ interface CategoryGroupProps {
 
 // Translate reading category names using translation keys
 function useCategoryLabel(category: string, t: (key: string) => string): string {
+  // Virtual categories
+  if (category === '__curated__') return t('reading.rstuCurated') || 'RSTU Curated'
+  if (category === '__favorites__') return t('reading.yourFavorites') || 'Your Favorites'
+
   const slug = category.toLowerCase().replace(/[\s,&]+/g, '-').replace(/-+/g, '-')
   const translated = t(`reading.category.${slug}`)
   // If the key isn't translated (returns the key itself), fall back to original
@@ -167,9 +171,9 @@ export function ReadingList({
   // Counter to trigger re-render when favorites change
   const [favoriteVersion, setFavoriteVersion] = useState(0)
 
-  // Track which categories are expanded (start collapsed for easy scanning)
+  // Track which categories are expanded — curated and favorites start expanded
   const [expandedCategories, setExpandedCategories] = useState<Set<string>>(
-    new Set()
+    new Set(['__curated__', '__favorites__'])
   )
 
   const toggleCategory = useCallback((category: string) => {
@@ -242,23 +246,17 @@ export function ReadingList({
     return title.replace(/\s*\(\d+_\d+_\d+\s+[^)]+\)\s*$/i, '').trim()
   }
 
-  // Group and sort documents by category
+  // Group and sort documents by category, with virtual RSTU Curated + Your Favorites at top
   const groupedDocuments = useMemo(() => {
     const state = getReadingState()
     const hasQuery = searchQuery.trim().length > 0
+    const featuredSet = new Set(featuredDocuments)
 
     // Use search results if searching, otherwise show all documents
     const baseDocuments = hasQuery ? searchResults : documents
 
-    // Sort: Favorites → Alphabetical
-    const sorted = baseDocuments.sort((a, b) => {
-      // 1. Favorites first
-      const aFav = state.favorites.includes(a.id)
-      const bFav = state.favorites.includes(b.id)
-      if (aFav && !bFav) return -1
-      if (!aFav && bFav) return 1
-
-      // 2. Then alphabetically by title (dates stripped for sorting)
+    // Sort alphabetically by title
+    const sorted = [...baseDocuments].sort((a, b) => {
       const aTitleForSort = getTitleForSorting(a.title)
       const bTitleForSort = getTitleForSorting(b.title)
       return aTitleForSort.localeCompare(bTitleForSort)
@@ -275,12 +273,31 @@ export function ReadingList({
       groups.get(cat)!.push(doc)
     })
 
-    // Return as array in category order, filter out empty categories
-    return Array.from(groups.entries())
+    // Build result array with virtual categories at top
+    const result: { category: string; documents: ReadingDocument[] }[] = []
+
+    // Virtual category: RSTU Curated (featured docs)
+    const curatedDocs = sorted.filter(doc => featuredSet.has(doc.id))
+    if (curatedDocs.length > 0) {
+      result.push({ category: '__curated__', documents: curatedDocs })
+    }
+
+    // Virtual category: Your Favorites (personal, excluding already-curated)
+    const favoriteDocs = sorted.filter(doc =>
+      state.favorites.includes(doc.id) && !featuredSet.has(doc.id)
+    )
+    if (favoriteDocs.length > 0) {
+      result.push({ category: '__favorites__', documents: favoriteDocs })
+    }
+
+    // Regular categories, filter out empty
+    Array.from(groups.entries())
       .filter(([_, docs]) => docs.length > 0)
-      .map(([cat, docs]) => ({ category: cat, documents: docs }))
+      .forEach(([cat, docs]) => result.push({ category: cat, documents: docs }))
+
+    return result
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [documents, searchResults, searchQuery, favoriteVersion, categories])
+  }, [documents, searchResults, searchQuery, favoriteVersion, categories, featuredDocuments])
 
   const hasQuery = inputValue.trim().length > 0
 

@@ -27,7 +27,9 @@ import {
   syncDocumentEditsFromDatabase,
   toggleDocumentVisibilityAsync,
   deleteDocumentAsync,
-  saveDocumentEditAsync
+  saveDocumentEditAsync,
+  getFeaturedDocuments,
+  toggleDocumentFeaturedAsync
 } from '@/lib/storage/adminStorage';
 import { initBootstrapCode, bootstrapFirstAdmin, getCurrentProfile } from '@/lib/storage/profileStorage';
 import { getFavorites } from '@/lib/storage/favoritesStorage';
@@ -184,7 +186,12 @@ export default function Home() {
     }
   });
 
-  const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(documents[0] || null);
+  const [selectedDocument, setSelectedDocument] = useState<ReadingDocument | null>(
+    documents.length > 0 ? documents[Math.floor(Math.random() * documents.length)] : null
+  );
+
+  // Featured/curated documents (admin/organizer selections)
+  const [featuredDocs, setFeaturedDocs] = useState<string[]>(() => getFeaturedDocuments());
 
   // Document editor
   const [editingDocument, setEditingDocument] = useState<ReadingDocument | null>(null);
@@ -535,9 +542,10 @@ export default function Home() {
     }
   };
 
-  // Handle document feature status (placeholder for future implementation)
-  const handleFeatureDocument = (_docId: string) => {
-    // Placeholder for future featured documents functionality
+  // Handle document feature status (curated by admins/organizers)
+  const handleFeatureDocument = async (docId: string) => {
+    await toggleDocumentFeaturedAsync(docId);
+    setFeaturedDocs(getFeaturedDocuments());
   };
 
   // Render landing page for first-time visitors
@@ -787,6 +795,7 @@ export default function Home() {
             }}
             isAdminAuthenticated={isAdminAuthenticated}
             hiddenDocuments={adminState.hiddenDocuments}
+            featuredDocuments={featuredDocs}
             onEdit={handleEditDocument}
             onHide={handleToggleHide}
             onDelete={handleDeleteDocument}
