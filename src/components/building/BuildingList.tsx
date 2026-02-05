@@ -11,15 +11,13 @@ import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/services/supabase';
 import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/utils/searchIndex';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { getHabitabilityScore } from '@/lib/storage/canvassStorage';
+import { getHabitabilityScore, getEffectiveOrganizingPriority } from '@/lib/storage/canvassStorage';
 
 // Sort options for the property list
 type SortOption =
   | 'units-desc' | 'units-asc'
   | 'priority-desc'
   | 'habitability-asc'
-  | 'evictions-desc'
-  | 'violations-desc'
   | 'year-asc' | 'year-desc'
   | 'portfolio-desc'
   | 'value-desc' | 'value-per-unit-desc'
@@ -33,8 +31,6 @@ type FilterOption =
   | 'trust'
   | 'active-organizing'
   | 'emerging'
-  | 'has-violations'
-  | 'high-evictions'
   | 'favorites';
 
 // Sort option translation keys
@@ -43,8 +39,6 @@ const SORT_OPTIONS: { value: SortOption; labelKey: string }[] = [
   { value: 'units-asc', labelKey: 'buildings.sort.fewestUnits' },
   { value: 'priority-desc', labelKey: 'buildings.sort.highestPriority' },
   { value: 'habitability-asc', labelKey: 'buildings.sort.worstConditions' },
-  { value: 'evictions-desc', labelKey: 'buildings.sort.mostEvictions' },
-  { value: 'violations-desc', labelKey: 'buildings.sort.mostViolations' },
   { value: 'year-asc', labelKey: 'buildings.sort.oldestBuildings' },
   { value: 'year-desc', labelKey: 'buildings.sort.newestBuildings' },
   { value: 'portfolio-desc', labelKey: 'buildings.sort.largestLandlord' },
@@ -62,8 +56,6 @@ const FILTER_OPTIONS: { value: FilterOption; labelKey: string }[] = [
   { value: 'trust', labelKey: 'buildings.filter.trust' },
   { value: 'active-organizing', labelKey: 'buildings.filter.activeOrganizing' },
   { value: 'emerging', labelKey: 'buildings.filter.emerging' },
-  { value: 'has-violations', labelKey: 'buildings.filter.hasViolations' },
-  { value: 'high-evictions', labelKey: 'buildings.filter.highEvictions' },
   { value: 'favorites', labelKey: 'buildings.filter.favorites' },
 ];
 
@@ -342,14 +334,14 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
             return b.isCorporateOwned === false && b.propertyType !== 'mt';
           case 'trust':
             return b.propertyType === 'mt';
-          case 'active-organizing':
-            return b.organizingStatus === 'active';
-          case 'emerging':
-            return b.organizingStatus === 'emerging';
-          case 'has-violations':
-            return (b.totalViolations || 0) > 0;
-          case 'high-evictions':
-            return (b.evictionsPer100Units || 0) > 5; // Threshold: >5 evictions per 100 units
+          case 'active-organizing': {
+            const ep = getEffectiveOrganizingPriority(b.organizingPriority, b.chatSlug);
+            return ep >= 7;
+          }
+          case 'emerging': {
+            const ep = getEffectiveOrganizingPriority(b.organizingPriority, b.chatSlug);
+            return ep >= 4 && ep < 7;
+          }
           case 'favorites':
             return favs.has(b.apn);
           default:
@@ -372,8 +364,11 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           return (b.units || 0) - (a.units || 0);
         case 'units-asc':
           return (a.units || 0) - (b.units || 0);
-        case 'priority-desc':
-          return (b.organizingPriority || 0) - (a.organizingPriority || 0);
+        case 'priority-desc': {
+          const aEp = getEffectiveOrganizingPriority(a.organizingPriority, a.chatSlug);
+          const bEp = getEffectiveOrganizingPriority(b.organizingPriority, b.chatSlug);
+          return bEp - aEp;
+        }
         case 'habitability-asc': {
           // Worst conditions = lowest score first (nulls last)
           const aData = getHabitabilityScore(a.apn);
@@ -382,10 +377,6 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
           const bScore = bData?.score ?? 101;
           return aScore - bScore;
         }
-        case 'evictions-desc':
-          return (b.evictionsPer100Units || 0) - (a.evictionsPer100Units || 0);
-        case 'violations-desc':
-          return (b.totalViolations || 0) - (a.totalViolations || 0);
         case 'year-asc':
           // Oldest first (nulls last)
           return (a.yearBuilt || 9999) - (b.yearBuilt || 9999);
