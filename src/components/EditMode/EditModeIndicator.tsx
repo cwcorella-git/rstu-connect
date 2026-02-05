@@ -33,7 +33,7 @@ export function EditModeIndicator() {
   if (!isEditMode) {
     if (showAdminHint && activeTab === 'landing') {
       return (
-        <div className="sticky top-[57px] z-40 bg-gray-100 text-gray-400 text-xs px-4 py-1">
+        <div className="sticky top-[57px] z-30 bg-gray-100 text-gray-400 text-xs px-4 py-1">
           <div className="max-w-7xl mx-auto text-center">
             <span className="font-mono bg-gray-200 px-1 rounded">Ctrl+Shift+E</span> to enter edit mode
           </div>
@@ -140,7 +140,7 @@ export function EditModeIndicator() {
 
   // Normal edit mode indicator
   return (
-    <div className="sticky top-[57px] z-40 bg-blue-600 text-white text-sm px-4 py-2 shadow-lg">
+    <div className="sticky top-[57px] z-30 bg-blue-600 text-white text-sm px-4 py-2 shadow-lg">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         {/* Left: Status */}
         <div className="flex items-center gap-3">

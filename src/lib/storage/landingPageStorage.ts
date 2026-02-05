@@ -26,7 +26,7 @@ export interface LandingPageConfig {
 const PAGES_KEY = 'rstu_landing_pages'
 const ACTIVE_KEY = 'rstu_active_landing_page'
 const MIGRATION_KEY = 'rstu_landing_page_version'
-const CURRENT_VERSION = 4 // Bump when DEFAULT_PAGE_1 changes
+const CURRENT_VERSION = 5 // Bump when preset pages change
 
 let _uid = 0
 function uid() {
@@ -201,9 +201,27 @@ export const PRESET_PAGE_2: LandingPageConfig = {
       type: 'hero',
       config: {
         showLogo: true,
-        headlineOverride: 'Homes for people, not for profit.',
-        taglineOverride: 'A volunteer-led union building and protecting tenant power through collective action.',
-        missionOverride: 'As Reno renters face skyrocketing housing costs, limited housing supply, and state laws that put profits over people — we fight for safe, secure, affordable, and fair housing for all.',
+        headlineOverride: {
+          en: 'Homes for people, not for profit.',
+          es: 'Hogares para la gente, no para el lucro.',
+          tl: 'Mga tahanan para sa tao, hindi para sa kita.',
+          zh: '住房为民，而非为利。',
+          vi: 'Nhà ở cho con người, không phải vì lợi nhuận.',
+        },
+        taglineOverride: {
+          en: 'A volunteer-led union building and protecting tenant power through collective action.',
+          es: 'Un sindicato liderado por voluntarios que construye y protege el poder de los inquilinos a través de la acción colectiva.',
+          tl: 'Isang unyon na pinamumunuan ng mga boluntaryo na nagtatayo at nagpoprotekta ng kapangyarihan ng nangungupahan sa pamamagitan ng sama-samang pagkilos.',
+          zh: '一个由志愿者领导的工会，通过集体行动建设和保护租户权力。',
+          vi: 'Một liên đoàn do tình nguyện viên lãnh đạo, xây dựng và bảo vệ quyền lực của người thuê nhà thông qua hành động tập thể.',
+        },
+        missionOverride: {
+          en: 'As Reno renters face skyrocketing housing costs, limited housing supply, and state laws that put profits over people — we fight for safe, secure, affordable, and fair housing for all.',
+          es: 'Mientras los inquilinos de Reno enfrentan costos de vivienda disparados, oferta limitada y leyes estatales que priorizan las ganancias sobre las personas — luchamos por viviendas seguras, asequibles y justas para todos.',
+          tl: 'Habang ang mga nangungupahan sa Reno ay nahaharap sa tumataas na gastos sa pabahay, limitadong suplay, at mga batas na inuuna ang kita kaysa sa tao — lumalaban kami para sa ligtas, abot-kaya, at makatarungang pabahay para sa lahat.',
+          zh: '当雷诺的租户面临飙升的住房成本、有限的住房供应以及将利润置于人民之上的州法律时——我们为所有人争取安全、可靠、负担得起且公平的住房。',
+          vi: 'Khi người thuê nhà ở Reno đối mặt với chi phí nhà ở tăng vọt, nguồn cung hạn chế và luật tiểu bang đặt lợi nhuận trên con người — chúng tôi đấu tranh cho nhà ở an toàn, ổn định, giá cả phải chăng và công bằng cho tất cả.',
+        },
       },
     },
     {
@@ -309,17 +327,47 @@ export const PRESET_PAGE_3: LandingPageConfig = {
       type: 'hero',
       config: {
         showLogo: true,
-        headlineOverride: 'Tools for Tenant Power',
-        taglineOverride: 'Everything you need to organize your building and win.',
-        missionOverride: 'RSTU Connect gives you the tools to find neighbors, build community, and take collective action for housing justice.',
+        headlineOverride: {
+          en: 'Tools for Tenant Power',
+          es: 'Herramientas para el Poder de los Inquilinos',
+          tl: 'Mga Kasangkapan para sa Kapangyarihan ng Nangungupahan',
+          zh: '租户力量的工具',
+          vi: 'Công Cụ Cho Quyền Lực Người Thuê Nhà',
+        },
+        taglineOverride: {
+          en: 'Everything you need to organize your building and win.',
+          es: 'Todo lo que necesitas para organizar tu edificio y ganar.',
+          tl: 'Lahat ng kailangan mo upang iorganisa ang iyong gusali at manalo.',
+          zh: '组织您的大楼并赢得胜利所需的一切。',
+          vi: 'Mọi thứ bạn cần để tổ chức tòa nhà của mình và giành chiến thắng.',
+        },
+        missionOverride: {
+          en: 'RSTU Connect gives you the tools to find neighbors, build community, and take collective action for housing justice.',
+          es: 'RSTU Connect te brinda las herramientas para encontrar vecinos, construir comunidad y tomar acción colectiva por la justicia de vivienda.',
+          tl: 'Ang RSTU Connect ay nagbibigay sa iyo ng mga kasangkapan upang mahanap ang mga kapitbahay, bumuo ng komunidad, at kumilos nang sama-sama para sa katarungan sa pabahay.',
+          zh: 'RSTU Connect 为您提供寻找邻居、建设社区和采取集体行动争取住房正义的工具。',
+          vi: 'RSTU Connect cung cấp cho bạn các công cụ để tìm hàng xóm, xây dựng cộng đồng và thực hiện hành động tập thể vì công lý nhà ở.',
+        },
       },
     },
     {
       id: 'tour-how',
       type: 'how-it-works',
       config: {
-        heading: 'How RSTU Connect Works',
-        subtitle: 'Six steps from finding your building to building tenant power',
+        heading: {
+          en: 'How RSTU Connect Works',
+          es: 'Cómo Funciona RSTU Connect',
+          tl: 'Paano Gumagana ang RSTU Connect',
+          zh: 'RSTU Connect 如何运作',
+          vi: 'RSTU Connect Hoạt Động Như Thế Nào',
+        },
+        subtitle: {
+          en: 'Six steps from finding your building to building tenant power',
+          es: 'Seis pasos desde encontrar tu edificio hasta construir el poder de los inquilinos',
+          tl: 'Anim na hakbang mula sa paghahanap ng iyong gusali hanggang sa pagbuo ng kapangyarihan ng nangungupahan',
+          zh: '从找到您的大楼到建设租户力量的六个步骤',
+          vi: 'Sáu bước từ tìm tòa nhà đến xây dựng quyền lực người thuê nhà',
+        },
       },
     },
     {
@@ -448,6 +496,78 @@ export function getLandingPages(): LandingPageConfig[] {
         }
       }
     }
+
+    // v4→v5: convert page-2 and page-3 hero overrides + how-it-works to locale objects
+    if (version < 5) {
+      const page2 = stored.find(p => p.id === 'page-2')
+      if (page2) {
+        const heroSection = page2.sections.find(s => s.type === 'hero')
+        if (heroSection && typeof heroSection.config.headlineOverride === 'string') {
+          if (heroSection.config.headlineOverride === 'Homes for people, not for profit.') {
+            const presetHero = PRESET_PAGE_2.sections.find(s => s.type === 'hero')
+            if (presetHero) {
+              heroSection.config.headlineOverride = presetHero.config.headlineOverride
+              heroSection.config.taglineOverride = presetHero.config.taglineOverride
+              heroSection.config.missionOverride = presetHero.config.missionOverride
+              changed = true
+            }
+          } else {
+            heroSection.config.headlineOverride = { en: heroSection.config.headlineOverride }
+            if (typeof heroSection.config.taglineOverride === 'string') {
+              heroSection.config.taglineOverride = { en: heroSection.config.taglineOverride }
+            }
+            if (typeof heroSection.config.missionOverride === 'string') {
+              heroSection.config.missionOverride = { en: heroSection.config.missionOverride }
+            }
+            changed = true
+          }
+        }
+      }
+
+      const page3 = stored.find(p => p.id === 'page-3')
+      if (page3) {
+        const heroSection = page3.sections.find(s => s.type === 'hero')
+        if (heroSection && typeof heroSection.config.headlineOverride === 'string') {
+          if (heroSection.config.headlineOverride === 'Tools for Tenant Power') {
+            const presetHero = PRESET_PAGE_3.sections.find(s => s.type === 'hero')
+            if (presetHero) {
+              heroSection.config.headlineOverride = presetHero.config.headlineOverride
+              heroSection.config.taglineOverride = presetHero.config.taglineOverride
+              heroSection.config.missionOverride = presetHero.config.missionOverride
+              changed = true
+            }
+          } else {
+            heroSection.config.headlineOverride = { en: heroSection.config.headlineOverride }
+            if (typeof heroSection.config.taglineOverride === 'string') {
+              heroSection.config.taglineOverride = { en: heroSection.config.taglineOverride }
+            }
+            if (typeof heroSection.config.missionOverride === 'string') {
+              heroSection.config.missionOverride = { en: heroSection.config.missionOverride }
+            }
+            changed = true
+          }
+        }
+
+        const howSection = page3.sections.find(s => s.type === 'how-it-works')
+        if (howSection && typeof howSection.config.heading === 'string') {
+          if (howSection.config.heading === 'How RSTU Connect Works') {
+            const presetHow = PRESET_PAGE_3.sections.find(s => s.type === 'how-it-works')
+            if (presetHow) {
+              howSection.config.heading = presetHow.config.heading
+              howSection.config.subtitle = presetHow.config.subtitle
+              changed = true
+            }
+          } else {
+            howSection.config.heading = { en: howSection.config.heading }
+            if (typeof howSection.config.subtitle === 'string') {
+              howSection.config.subtitle = { en: howSection.config.subtitle }
+            }
+            changed = true
+          }
+        }
+      }
+    }
+
     safeSetItem(MIGRATION_KEY, String(CURRENT_VERSION))
   }
 
