@@ -72,10 +72,11 @@ export interface BuildingEvent {
   id: string
 
   // Scope
-  buildingId: string           // Primary building (chatSlug)
+  buildingId: string           // Primary building (chatSlug), or 'org-wide' for union-wide events
   buildingAddress: string
   groupId?: string             // If linked property group
   isGroupWide: boolean
+  isOrgWide?: boolean          // Organization-wide event (visible everywhere, admin-only)
 
   // Campaign integration
   campaignId?: string          // Link to campaign if part of organizing effort
@@ -85,6 +86,7 @@ export interface BuildingEvent {
   description?: string
   eventType: EventType
   status: EventStatus
+  iconName?: string            // Custom Heroicon name (overrides eventType icon)
 
   // Timing
   dateTime: number             // Unix timestamp (milliseconds)
@@ -237,13 +239,20 @@ export async function fetchEventsFromServer(buildingId?: string): Promise<Buildi
   }
 }
 
-// Get events for a specific building
+// Get events for a specific building (includes org-wide events)
 export function getBuildingEvents(buildingId: string): BuildingEvent[] {
   const allEvents = getAllEvents()
   return allEvents.filter(e =>
     e.buildingId === buildingId ||
-    (e.isGroupWide && e.groupId) // Include group events
+    (e.isGroupWide && e.groupId) || // Include group events
+    e.isOrgWide === true             // Include org-wide events
   )
+}
+
+// Get all org-wide events
+export function getOrgWideEvents(): BuildingEvent[] {
+  const allEvents = getAllEvents()
+  return allEvents.filter(e => e.isOrgWide === true)
 }
 
 // Get events for a specific group
@@ -261,7 +270,7 @@ export function getUpcomingEvents(buildingId?: string): BuildingEvent[] {
     .filter(e => {
       const isUpcoming = e.dateTime > now && e.status !== 'cancelled' && e.status !== 'completed'
       if (buildingId) {
-        return isUpcoming && (e.buildingId === buildingId || (e.isGroupWide && e.groupId))
+        return isUpcoming && (e.buildingId === buildingId || (e.isGroupWide && e.groupId) || e.isOrgWide === true)
       }
       return isUpcoming
     })
@@ -277,7 +286,7 @@ export function getPastEvents(buildingId?: string): BuildingEvent[] {
     .filter(e => {
       const isPast = e.dateTime <= now || e.status === 'completed' || e.status === 'cancelled'
       if (buildingId) {
-        return isPast && (e.buildingId === buildingId || (e.isGroupWide && e.groupId))
+        return isPast && (e.buildingId === buildingId || (e.isGroupWide && e.groupId) || e.isOrgWide === true)
       }
       return isPast
     })
@@ -785,17 +794,18 @@ export function getEventTypeLabel(type: EventType): string {
   return labels[type]
 }
 
-// Get event type icon (emoji)
-export function getEventTypeIcon(type: EventType): string {
+// Get event type icon name (Heroicon component name)
+// Used by EventTypeIcon component for rendering
+export function getEventTypeIconName(type: EventType): string {
   const icons: Record<EventType, string> = {
-    custom: '✏️',
-    meeting: '📅',
-    committee: '👥',
-    workshop: '🎓',
-    action: '✊',
-    intake: '📋',
-    social: '🎉',
-    other: '📌'
+    custom: 'PencilSquareIcon',
+    meeting: 'CalendarIcon',
+    committee: 'UserGroupIcon',
+    workshop: 'AcademicCapIcon',
+    action: 'MegaphoneIcon',
+    intake: 'ClipboardDocumentListIcon',
+    social: 'SparklesIcon',
+    other: 'TagIcon'
   }
   return icons[type]
 }
@@ -1228,4 +1238,72 @@ export function getJitsiMeetingLink(event: BuildingEvent): string | null {
  */
 export function hasJitsiLink(event: BuildingEvent): boolean {
   return event.location.isVirtual && !!(event.location.virtualLink)
+}
+
+/**
+ * Seed the RSTU General Meeting as a recurring org-wide event.
+ * Idempotent - only creates if no series with this title exists.
+ */
+export function seedRSTUGeneralMeeting(): void {
+  if (typeof window === 'undefined') return
+
+  const allEvents = getAllEvents()
+
+  // Check if already seeded
+  const existing = allEvents.find(e =>
+    e.title === 'RSTU General Meeting' && e.isOrgWide === true
+  )
+  if (existing) return
+
+  // Find the next Wednesday from today
+  const now = new Date()
+  const dayOfWeek = now.getDay() // 0=Sun, 3=Wed
+  let daysUntilWed = 3 - dayOfWeek
+  if (daysUntilWed < 0) daysUntilWed += 7
+  if (daysUntilWed === 0) {
+    // If today is Wednesday and it's past 7pm, go to next one
+    if (now.getHours() >= 19) daysUntilWed = 14
+  }
+
+  const firstWed = new Date(now)
+  firstWed.setDate(now.getDate() + daysUntilWed)
+  firstWed.setHours(18, 0, 0, 0) // 6:00 PM
+
+  const seriesId = `series-rstu-general-meeting`
+
+  const baseEvent: Omit<BuildingEvent, 'id' | 'createdAt' | 'rsvps'> = {
+    buildingId: 'org-wide',
+    buildingAddress: 'The Holland Project, 140 Vesta St, Reno NV',
+    isGroupWide: false,
+    isOrgWide: true,
+    title: 'RSTU General Meeting',
+    description: 'Reno-Sparks Tenants Union general meeting. Open to all members and community. Come discuss organizing efforts, share updates, and plan collective action.',
+    eventType: 'meeting',
+    iconName: 'UserGroupIcon',
+    status: 'confirmed',
+    dateTime: firstWed.getTime(),
+    durationMinutes: 60,
+    location: {
+      name: 'The Holland Project',
+      address: '140 Vesta St, Reno, NV 89502',
+      isVirtual: false,
+    },
+    createdBy: 'system',
+    createdByName: 'RSTU',
+  }
+
+  const recurrenceConfig: RecurrenceConfig = {
+    type: 'biweekly',
+    interval: 2,
+    seriesId,
+  }
+
+  const events = generateRecurringEvents(baseEvent, recurrenceConfig, 12)
+
+  // Save all events directly (bypasses rate limiting since this is a system seed)
+  const currentEvents = getAllEvents()
+  currentEvents.push(...events)
+  saveAllEvents(currentEvents)
+
+  log.info(`Seeded RSTU General Meeting: ${events.length} occurrences starting ${firstWed.toLocaleDateString()}`)
 }

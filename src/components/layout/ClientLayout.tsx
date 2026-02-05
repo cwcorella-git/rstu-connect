@@ -1,6 +1,6 @@
 'use client'
 
-import { ReactNode } from 'react'
+import { ReactNode, useEffect } from 'react'
 import { AuthProvider } from '@/contexts/AuthContext'
 import { TabProvider, useTab } from '@/contexts/TabContext'
 import { LanguageProvider, useLanguage } from '@/contexts/LanguageContext'
@@ -19,6 +19,14 @@ import { LegislationProvider } from '@/contexts/LegislationContext'
 import { LegislationPopup } from '@/components/Legislation'
 import { CitationProvider } from '@/contexts/CitationContext'
 import { CitationPopup } from '@/components/Citations'
+import { seedRSTUGeneralMeeting } from '@/lib/storage/eventStorage'
+
+function AppInit() {
+  useEffect(() => {
+    seedRSTUGeneralMeeting()
+  }, [])
+  return null
+}
 
 function FloatingChecklist() {
   const { activeTab, setActiveTab } = useTab()
@@ -75,6 +83,7 @@ export function ClientLayout({ children }: { children: ReactNode }) {
     <CitationProvider>
     <AuthProvider>
     <TabProvider>
+      <AppInit />
       <main className="h-screen flex flex-col overflow-hidden">
         {/* Header */}
         <Header />

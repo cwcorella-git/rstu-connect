@@ -1,118 +1,14 @@
 'use client'
 
 import { useState, useEffect, useRef } from 'react'
-import {
-  TruckIcon,
-  AcademicCapIcon,
-  BriefcaseIcon,
-  ShoppingBagIcon,
-  WrenchScrewdriverIcon,
-  ComputerDesktopIcon,
-  MusicalNoteIcon,
-  SunIcon,
-  BanknotesIcon,
-  ShieldCheckIcon,
-  UserPlusIcon,
-  ChatBubbleLeftRightIcon,
-  XMarkIcon,
-  ChevronLeftIcon,
-  ChevronRightIcon,
-  HomeIcon,
-  HeartIcon,
-  StarIcon,
-  SparklesIcon,
-  LightBulbIcon,
-  GlobeAltIcon,
-  MapPinIcon,
-  PhoneIcon,
-  EnvelopeIcon,
-  CalendarIcon,
-  ClockIcon,
-  BookOpenIcon,
-  DocumentTextIcon,
-  PuzzlePieceIcon,
-  CameraIcon,
-  FilmIcon,
-  MicrophoneIcon,
-  SpeakerWaveIcon,
-  WifiIcon,
-  BoltIcon,
-  FireIcon,
-  BeakerIcon,
-  ScaleIcon,
-  BuildingOfficeIcon,
-  BuildingStorefrontIcon,
-  ShoppingCartIcon,
-  GiftIcon,
-  TicketIcon,
-  KeyIcon,
-  LockClosedIcon,
-  FlagIcon,
-  HandRaisedIcon,
-  HandThumbUpIcon,
-  FaceSmileIcon,
-  UserGroupIcon,
-} from '@heroicons/react/24/outline'
+import { XMarkIcon } from '@heroicons/react/24/outline'
 import { useLanguage } from '@/contexts/LanguageContext'
 import {
   updateCustomCategory,
   categoryNameExists,
   type CustomCategory,
 } from '@/lib/storage/organizationStorage'
-
-// Icon options for picker - same as AddCategoryModal
-// labelKey is the suffix for resources.icon.{labelKey}
-const ICON_OPTIONS = [
-  { name: 'TruckIcon', component: TruckIcon, labelKey: 'transportation' },
-  { name: 'AcademicCapIcon', component: AcademicCapIcon, labelKey: 'education' },
-  { name: 'BriefcaseIcon', component: BriefcaseIcon, labelKey: 'employment' },
-  { name: 'ShoppingBagIcon', component: ShoppingBagIcon, labelKey: 'clothing' },
-  { name: 'WrenchScrewdriverIcon', component: WrenchScrewdriverIcon, labelKey: 'repairs' },
-  { name: 'ComputerDesktopIcon', component: ComputerDesktopIcon, labelKey: 'technology' },
-  { name: 'MusicalNoteIcon', component: MusicalNoteIcon, labelKey: 'arts' },
-  { name: 'SunIcon', component: SunIcon, labelKey: 'recreation' },
-  { name: 'BanknotesIcon', component: BanknotesIcon, labelKey: 'financial' },
-  { name: 'ShieldCheckIcon', component: ShieldCheckIcon, labelKey: 'safety' },
-  { name: 'UserPlusIcon', component: UserPlusIcon, labelKey: 'social' },
-  { name: 'ChatBubbleLeftRightIcon', component: ChatBubbleLeftRightIcon, labelKey: 'communication' },
-  { name: 'HomeIcon', component: HomeIcon, labelKey: 'housing' },
-  { name: 'HeartIcon', component: HeartIcon, labelKey: 'health' },
-  { name: 'StarIcon', component: StarIcon, labelKey: 'featured' },
-  { name: 'SparklesIcon', component: SparklesIcon, labelKey: 'special' },
-  { name: 'LightBulbIcon', component: LightBulbIcon, labelKey: 'ideas' },
-  { name: 'GlobeAltIcon', component: GlobeAltIcon, labelKey: 'global' },
-  { name: 'MapPinIcon', component: MapPinIcon, labelKey: 'location' },
-  { name: 'PhoneIcon', component: PhoneIcon, labelKey: 'phone' },
-  { name: 'EnvelopeIcon', component: EnvelopeIcon, labelKey: 'mail' },
-  { name: 'CalendarIcon', component: CalendarIcon, labelKey: 'calendar' },
-  { name: 'ClockIcon', component: ClockIcon, labelKey: 'time' },
-  { name: 'BookOpenIcon', component: BookOpenIcon, labelKey: 'reading' },
-  { name: 'DocumentTextIcon', component: DocumentTextIcon, labelKey: 'documents' },
-  { name: 'PuzzlePieceIcon', component: PuzzlePieceIcon, labelKey: 'games' },
-  { name: 'CameraIcon', component: CameraIcon, labelKey: 'photography' },
-  { name: 'FilmIcon', component: FilmIcon, labelKey: 'video' },
-  { name: 'MicrophoneIcon', component: MicrophoneIcon, labelKey: 'audio' },
-  { name: 'SpeakerWaveIcon', component: SpeakerWaveIcon, labelKey: 'sound' },
-  { name: 'WifiIcon', component: WifiIcon, labelKey: 'internet' },
-  { name: 'BoltIcon', component: BoltIcon, labelKey: 'energy' },
-  { name: 'FireIcon', component: FireIcon, labelKey: 'urgent' },
-  { name: 'BeakerIcon', component: BeakerIcon, labelKey: 'science' },
-  { name: 'ScaleIcon', component: ScaleIcon, labelKey: 'legal' },
-  { name: 'BuildingOfficeIcon', component: BuildingOfficeIcon, labelKey: 'office' },
-  { name: 'BuildingStorefrontIcon', component: BuildingStorefrontIcon, labelKey: 'store' },
-  { name: 'ShoppingCartIcon', component: ShoppingCartIcon, labelKey: 'shopping' },
-  { name: 'GiftIcon', component: GiftIcon, labelKey: 'gifts' },
-  { name: 'TicketIcon', component: TicketIcon, labelKey: 'events' },
-  { name: 'KeyIcon', component: KeyIcon, labelKey: 'access' },
-  { name: 'LockClosedIcon', component: LockClosedIcon, labelKey: 'security' },
-  { name: 'FlagIcon', component: FlagIcon, labelKey: 'priority' },
-  { name: 'HandRaisedIcon', component: HandRaisedIcon, labelKey: 'volunteer' },
-  { name: 'HandThumbUpIcon', component: HandThumbUpIcon, labelKey: 'approval' },
-  { name: 'FaceSmileIcon', component: FaceSmileIcon, labelKey: 'community' },
-  { name: 'UserGroupIcon', component: UserGroupIcon, labelKey: 'groups' },
-]
-
-const ICONS_PER_PAGE = 12
+import { IconPicker } from '@/components/shared/IconPicker'
 
 interface EditCategoryModalProps {
   isOpen: boolean
@@ -134,9 +30,6 @@ export function EditCategoryModal({
   const [selectedIcon, setSelectedIcon] = useState<string>(category.icon)
   const [error, setError] = useState('')
   const [isSubmitting, setIsSubmitting] = useState(false)
-  const [iconPage, setIconPage] = useState(0)
-
-  const totalPages = Math.ceil(ICON_OPTIONS.length / ICONS_PER_PAGE)
 
   // Initialize form when modal opens or category changes
   useEffect(() => {
@@ -144,13 +37,6 @@ export function EditCategoryModal({
       setName(category.name)
       setSelectedIcon(category.icon)
       setError('')
-      // Navigate to the page containing the current icon
-      const iconIndex = ICON_OPTIONS.findIndex(i => i.name === category.icon)
-      if (iconIndex >= 0) {
-        setIconPage(Math.floor(iconIndex / ICONS_PER_PAGE))
-      } else {
-        setIconPage(0)
-      }
       setTimeout(() => inputRef.current?.focus(), 100)
     }
   }, [isOpen, category])
@@ -201,20 +87,6 @@ export function EditCategoryModal({
       setError(t('resources.errorUpdatingCategory'))
       setIsSubmitting(false)
     }
-  }
-
-  const selectedIconData = ICON_OPTIONS.find(i => i.name === selectedIcon)
-
-  // Get current page of icons
-  const startIdx = iconPage * ICONS_PER_PAGE
-  const visibleIcons = ICON_OPTIONS.slice(startIdx, startIdx + ICONS_PER_PAGE)
-
-  const goToPrevPage = () => {
-    setIconPage(p => Math.max(0, p - 1))
-  }
-
-  const goToNextPage = () => {
-    setIconPage(p => Math.min(totalPages - 1, p + 1))
   }
 
   if (!isOpen) return null
@@ -280,86 +152,12 @@ export function EditCategoryModal({
             </div>
           </div>
 
-          {/* Icon Picker with Pagination */}
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-2">
-              {t('resources.chooseIcon')}
-            </label>
-
-            {/* Icon Grid with Navigation */}
-            <div className="flex items-center gap-2">
-              {/* Left Arrow */}
-              <button
-                type="button"
-                onClick={goToPrevPage}
-                disabled={iconPage === 0}
-                className={`p-2 rounded-lg transition-colors flex-shrink-0 ${
-                  iconPage === 0
-                    ? 'text-gray-300 cursor-not-allowed'
-                    : 'text-gray-500 hover:bg-gray-100 hover:text-gray-700'
-                }`}
-              >
-                <ChevronLeftIcon className="w-5 h-5" />
-              </button>
-
-              {/* Icons Grid */}
-              <div className="flex-1 grid grid-cols-6 gap-2">
-                {visibleIcons.map((icon) => {
-                  const IconComponent = icon.component
-                  const isSelected = selectedIcon === icon.name
-                  return (
-                    <button
-                      key={icon.name}
-                      type="button"
-                      onClick={() => setSelectedIcon(icon.name)}
-                      title={t(`resources.icon.${icon.labelKey}`)}
-                      className={`aspect-square flex items-center justify-center rounded-lg border-2 transition-all ${
-                        isSelected
-                          ? 'border-rstu-red bg-red-50'
-                          : 'border-gray-200 hover:border-gray-300 hover:bg-gray-50'
-                      }`}
-                    >
-                      <IconComponent className={`w-6 h-6 ${isSelected ? 'text-rstu-red' : 'text-gray-500'}`} />
-                    </button>
-                  )
-                })}
-              </div>
-
-              {/* Right Arrow */}
-              <button
-                type="button"
-                onClick={goToNextPage}
-                disabled={iconPage >= totalPages - 1}
-                className={`p-2 rounded-lg transition-colors flex-shrink-0 ${
-                  iconPage >= totalPages - 1
-                    ? 'text-gray-300 cursor-not-allowed'
-                    : 'text-gray-500 hover:bg-gray-100 hover:text-gray-700'
-                }`}
-              >
-                <ChevronRightIcon className="w-5 h-5" />
-              </button>
-            </div>
-
-            {/* Page indicator */}
-            <div className="flex justify-center items-center mt-2 gap-1">
-              {Array.from({ length: totalPages }, (_, i) => (
-                <button
-                  key={i}
-                  onClick={() => setIconPage(i)}
-                  className={`w-2 h-2 rounded-full transition-colors ${
-                    i === iconPage ? 'bg-rstu-red' : 'bg-gray-300 hover:bg-gray-400'
-                  }`}
-                />
-              ))}
-            </div>
-
-            {/* Selected indicator */}
-            {selectedIconData && (
-              <p className="mt-2 text-sm text-gray-600 text-center">
-                {t('resources.selectedIcon')}: <span className="font-medium">{t(`resources.icon.${selectedIconData.labelKey}`)}</span>
-              </p>
-            )}
-          </div>
+          {/* Icon Picker */}
+          <IconPicker
+            selectedIcon={selectedIcon}
+            onSelectIcon={setSelectedIcon}
+            label={t('resources.chooseIcon')}
+          />
         </div>
 
         {/* Footer */}

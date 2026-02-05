@@ -6,12 +6,13 @@ import { useState, useMemo } from 'react'
 import {
   createEvent,
   getEventTypeLabel,
-  getEventTypeIcon,
+  getEventTypeIconName,
   type EventType,
   EVENT_VOTE_THRESHOLD,
 } from '@/lib/storage/eventStorage'
 import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import type { BuildingEvent } from '@/lib/storage/eventStorage'
+import { EventTypeIcon } from './EventTypeIcon'
 
 interface DayEventFormProps {
   date: Date
@@ -51,6 +52,7 @@ export function DayEventForm({
   // Form state
   const [title, setTitle] = useState('')
   const [eventType, setEventType] = useState<EventType>('custom')
+  const [iconName, setIconName] = useState<string | null>(null)
   const [description, setDescription] = useState('')
   const [dateTime, setDateTime] = useState(getInitialDateTime)
   const [duration, setDuration] = useState(60)
@@ -98,6 +100,7 @@ export function DayEventForm({
         title: title.trim(),
         description: description.trim() || undefined,
         eventType,
+        iconName: iconName || undefined,
         dateTime: dateObj.getTime(),
         durationMinutes: duration,
         location: {
@@ -159,23 +162,32 @@ export function DayEventForm({
             />
           </div>
 
-          {/* Event Type */}
+          {/* Event Type - preset chips */}
           <div>
             <label className="block text-xs font-medium text-gray-700 mb-1">
               Event Type
             </label>
-            <select
-              value={eventType}
-              onChange={(e) => setEventType(e.target.value as EventType)}
-              className="w-full px-3 py-2 text-sm border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
-              disabled={isSubmitting}
-            >
+            <div className="flex flex-wrap gap-1.5">
               {EVENT_TYPES.map(type => (
-                <option key={type} value={type}>
-                  {getEventTypeIcon(type)} {getEventTypeLabel(type)}
-                </option>
+                <button
+                  key={type}
+                  type="button"
+                  onClick={() => {
+                    setEventType(type)
+                    setIconName(getEventTypeIconName(type))
+                  }}
+                  disabled={isSubmitting}
+                  className={`inline-flex items-center gap-1 px-2 py-1 rounded-full text-xs font-medium transition-colors ${
+                    eventType === type
+                      ? 'bg-rstu-red text-white'
+                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                  } disabled:opacity-50`}
+                >
+                  <EventTypeIcon type={type} className="w-3 h-3" />
+                  {getEventTypeLabel(type)}
+                </button>
               ))}
-            </select>
+            </div>
           </div>
 
           {/* Date & Time */}

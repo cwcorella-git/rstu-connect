@@ -2,7 +2,8 @@
 
 import { useState } from 'react'
 import { LinkedPropertyGroup, generateBlocName } from '@/lib/storage/linkedPropertiesStorage'
-import { createEvent, EventType, getEventTypeLabel, getEventTypeIcon } from '@/lib/storage/eventStorage'
+import { createEvent, EventType, getEventTypeLabel } from '@/lib/storage/eventStorage'
+import { EventTypeIcon } from '@/components/Events/EventTypeIcon'
 import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 
@@ -119,7 +120,7 @@ export function BlocEventForm({ group, buildings, onClose, onSuccess }: BlocEven
                       : 'border-gray-200 bg-gray-50 text-gray-600 hover:bg-gray-100'
                   }`}
                 >
-                  <span>{getEventTypeIcon(type)}</span>
+                  <EventTypeIcon type={type} className="w-3.5 h-3.5" />
                   <span>{getEventTypeLabel(type)}</span>
                 </button>
               ))}

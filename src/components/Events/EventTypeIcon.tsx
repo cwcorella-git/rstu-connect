@@ -1,6 +1,7 @@
 'use client'
 
 import { type EventType } from '@/lib/storage/eventStorage'
+import { ICON_MAP } from '@/components/shared/IconPicker'
 import {
   CalendarIcon,
   UserGroupIcon,
@@ -14,10 +15,12 @@ import {
 
 interface EventTypeIconProps {
   type: EventType
+  iconName?: string  // Custom icon override (Heroicon component name)
   className?: string
 }
 
-const iconMap: Record<EventType, React.ComponentType<React.SVGProps<SVGSVGElement>>> = {
+// Default icon map by event type
+const typeIconMap: Record<EventType, React.ComponentType<React.SVGProps<SVGSVGElement>>> = {
   custom: PencilSquareIcon,
   meeting: CalendarIcon,
   committee: UserGroupIcon,
@@ -28,8 +31,14 @@ const iconMap: Record<EventType, React.ComponentType<React.SVGProps<SVGSVGElemen
   other: TagIcon,
 }
 
-export function EventTypeIcon({ type, className = 'w-5 h-5' }: EventTypeIconProps) {
-  const Icon = iconMap[type] || TagIcon
+export function EventTypeIcon({ type, iconName, className = 'w-5 h-5' }: EventTypeIconProps) {
+  // Custom icon takes priority over type-based default
+  if (iconName && ICON_MAP[iconName]) {
+    const CustomIcon = ICON_MAP[iconName]
+    return <CustomIcon className={className} />
+  }
+
+  const Icon = typeIconMap[type] || TagIcon
   return <Icon className={className} />
 }
 

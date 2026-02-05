@@ -101,10 +101,15 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
       <div className={`p-3 bg-white rounded-lg border ${isPast ? 'border-gray-200 opacity-75' : 'border-gray-300'}`}>
         <div className="flex items-start gap-2">
           <div className={`p-1.5 rounded-full ${getEventTypeBgColor(event.eventType)}`}>
-            <EventTypeIcon type={event.eventType} className={`w-4 h-4 ${getEventTypeColor(event.eventType)}`} />
+            <EventTypeIcon type={event.eventType} iconName={event.iconName} className={`w-4 h-4 ${getEventTypeColor(event.eventType)}`} />
           </div>
           <div className="flex-1 min-w-0">
-            <p className="font-medium text-sm text-gray-900 truncate">{event.title}</p>
+            <div className="flex items-center gap-1.5">
+              <p className="font-medium text-sm text-gray-900 truncate">{event.title}</p>
+              {event.isOrgWide && (
+                <span className="px-1.5 py-0.5 text-[10px] font-bold bg-rstu-red text-white rounded flex-shrink-0">RSTU</span>
+              )}
+            </div>
             <p className="text-xs text-gray-500">{formatEventDateTime(event.dateTime)}</p>
           </div>
         </div>
@@ -123,6 +128,7 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
           }`}>
             <EventTypeIcon
               type={event.eventType}
+              iconName={event.iconName}
               className={`w-5 h-5 ${isPast ? 'text-gray-400' : getEventTypeColor(event.eventType)}`}
             />
           </div>
@@ -133,6 +139,9 @@ export function EventCard({ event, buildingId, onRefresh, compact = false, showA
               <h4 className={`font-semibold ${isPast ? 'text-gray-500' : 'text-gray-900'}`}>
                 {event.title}
               </h4>
+              {event.isOrgWide && (
+                <span className="px-1.5 py-0.5 text-[10px] font-bold bg-rstu-red text-white rounded">RSTU</span>
+              )}
               {getStatusBadge()}
               {isRecurringEvent(event) && (
                 <span className="px-1.5 py-0.5 text-xs font-medium bg-purple-100 text-purple-700 rounded flex items-center gap-1">

@@ -6,11 +6,13 @@ import {
   EventType,
   updateEvent,
   getEventTypeLabel,
-  getEventTypeIcon,
+  getEventTypeIconName,
 } from '@/lib/storage/eventStorage';
 import { getCurrentProfile } from '@/lib/storage/profileStorage';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { AvailabilitySuggest } from './AvailabilitySuggest';
+import { EventTypeIcon } from './EventTypeIcon';
+import { IconPicker } from '@/components/shared/IconPicker';
 import type { TimeSlot } from '@/lib/data/availabilityUtils';
 
 interface EventEditorProps {
@@ -70,6 +72,8 @@ export function EventEditor({
   // Form state - pre-fill from existing event
   const [title, setTitle] = useState(event.title);
   const [eventType, setEventType] = useState<EventType>(event.eventType);
+  const [iconName, setIconName] = useState<string | null>(event.iconName || null);
+  const [showIconPicker, setShowIconPicker] = useState(false);
   const [description, setDescription] = useState(event.description || '');
   const [dateTime, setDateTime] = useState(formatDateTimeLocal(new Date(event.dateTime)));
   const [duration, setDuration] = useState(event.durationMinutes || 60);
@@ -157,6 +161,7 @@ export function EventEditor({
         title: title.trim(),
         description: description.trim(),
         eventType,
+        iconName: iconName || undefined,
         dateTime: eventDateTime,
         durationMinutes: duration,
         location: {
@@ -330,23 +335,57 @@ export function EventEditor({
               )}
             </div>
 
-            {/* Event Type - simple dropdown */}
+            {/* Event Type - preset chips */}
             <div>
-              <label htmlFor="eventType" className="block text-sm font-medium text-gray-700 mb-1">
-                {t('events.type') || 'Type'} <span className="text-gray-400 font-normal">({t('common.optional') || 'optional'})</span>
+              <label className="block text-sm font-medium text-gray-700 mb-1.5">
+                {t('events.type') || 'Type'}
               </label>
-              <select
-                id="eventType"
-                value={eventType}
-                onChange={e => setEventType(e.target.value as EventType)}
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-rstu-red focus:border-transparent text-sm"
-              >
+              <div className="flex flex-wrap gap-1.5">
                 {EVENT_TYPES.map(type => (
-                  <option key={type} value={type}>
-                    {getEventTypeIcon(type)} {getEventTypeLabel(type)}
-                  </option>
+                  <button
+                    key={type}
+                    type="button"
+                    onClick={() => {
+                      setEventType(type);
+                      setIconName(getEventTypeIconName(type));
+                    }}
+                    className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-medium transition-colors ${
+                      eventType === type
+                        ? 'bg-rstu-red text-white'
+                        : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                    }`}
+                  >
+                    <EventTypeIcon type={type} className="w-3.5 h-3.5" />
+                    {getEventTypeLabel(type)}
+                  </button>
                 ))}
-              </select>
+              </div>
+            </div>
+
+            {/* Custom Icon Override */}
+            <div>
+              <button
+                type="button"
+                onClick={() => setShowIconPicker(!showIconPicker)}
+                className="flex items-center gap-1.5 text-xs text-gray-500 hover:text-gray-700 transition-colors"
+              >
+                <EventTypeIcon type={eventType} iconName={iconName || undefined} className="w-4 h-4" />
+                <span>{t('events.changeIcon') || 'Change icon'}</span>
+                <svg className={`w-3 h-3 transition-transform ${showIconPicker ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              {showIconPicker && (
+                <div className="mt-2 p-3 border border-gray-200 rounded-lg bg-gray-50">
+                  <IconPicker
+                    selectedIcon={iconName}
+                    onSelectIcon={(name) => {
+                      setIconName(name);
+                      setShowIconPicker(false);
+                    }}
+                  />
+                </div>
+              )}
             </div>
 
             {/* Description - REQUIRED */}

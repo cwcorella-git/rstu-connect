@@ -1,8 +1,8 @@
 {
-  "commit": "86fe8f43",
-  "message": "Replace dual stars with single cycling star in reading library",
+  "commit": "c9febfcd",
+  "message": "Fix 'Profile not found' when voting on app governance",
   "author": "cwcorella-git",
-  "date": "2026-02-04 18:07:52 -0800",
+  "date": "2026-02-04 20:27:24 -0800",
   "branch": "main",
-  "buildTime": "2026-02-05T03:04:28.077Z"
+  "buildTime": "2026-02-05T04:37:20.492Z"
 }

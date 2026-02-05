@@ -9,12 +9,12 @@ import {
   parseEventFromChat,
   getEventById,
   formatEventDateTime,
-  getEventTypeIcon,
   getRsvpCounts,
   createEvent,
   getAllEvents,
   type EventType
 } from '@/lib/storage/eventStorage'
+import { EventTypeIcon } from '@/components/Events/EventTypeIcon'
 
 interface MessageListProps {
   messages: ChatMessage[]
@@ -555,7 +555,7 @@ export function MessageList({ messages, isConnected, currentUsername, onDeleteMe
               >
                 <div className="flex items-baseline justify-between mb-1">
                   <div className="flex items-center gap-2">
-                    <span className="text-lg">{getEventTypeIcon(eventData.type)}</span>
+                    <EventTypeIcon type={eventData.type as EventType} className="w-5 h-5 text-green-600" />
                     <span className="text-xs font-bold px-2 py-0.5 rounded bg-green-100 text-green-700 uppercase">
                       Event
                     </span>
