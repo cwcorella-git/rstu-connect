@@ -50,7 +50,7 @@ function Header() {
               {isLoading ? 'Connect' : t('header.subtitle')}
             </span>
           </button>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-3 sm:gap-4">
             <OfflineIndicator />
             <LanguageSelector />
             <Navigation />
