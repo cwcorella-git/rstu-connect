@@ -68,25 +68,22 @@ export function RankedChoiceVoting({
     e.dataTransfer.dropEffect = 'move'
   }
 
-  const handleDrop = (e: React.DragEvent, positionId: string, targetIndex: number) => {
-    e.preventDefault()
-    if (!draggedItem) return
+  const handleDragEnter = (positionId: string, nominationId: string, targetIndex: number) => {
+    if (!draggedItem || draggedItem.nominationId === nominationId) return
 
     const currentRankings = rankings[positionId] || []
-    const sourceIndex = draggedItem.index
+    const sourceIndex = currentRankings.indexOf(draggedItem.nominationId)
+    if (sourceIndex === -1 || sourceIndex === targetIndex) return
 
-    if (sourceIndex === targetIndex) return
-
-    // Reorder the array
     const newRankings = [...currentRankings]
-    const [removed] = newRankings.splice(sourceIndex, 1)
-    newRankings.splice(targetIndex, 0, removed)
+    newRankings.splice(sourceIndex, 1)
+    newRankings.splice(targetIndex, 0, draggedItem.nominationId)
 
     setRankings(prev => ({
       ...prev,
       [positionId]: newRankings
     }))
-    setDraggedItem(null)
+    setDraggedItem({ ...draggedItem, index: targetIndex })
   }
 
   const handleDragEnd = () => {
@@ -283,7 +280,8 @@ export function RankedChoiceVoting({
                         draggable
                         onDragStart={(e) => handleDragStart(e, position.id, nomId, index)}
                         onDragOver={handleDragOver}
-                        onDrop={(e) => handleDrop(e, position.id, index)}
+                        onDragEnter={() => handleDragEnter(position.id, nomId, index)}
+                        onDrop={(e) => e.preventDefault()}
                         onDragEnd={handleDragEnd}
                         className={`flex items-center gap-3 p-3 rounded-lg border-2 cursor-grab active:cursor-grabbing transition-all ${
                           isDragging
