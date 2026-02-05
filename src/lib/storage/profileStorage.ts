@@ -998,9 +998,15 @@ export function clearProfile(): void {
   saveProfileState(state)
 }
 
-// Get stored profiles on this device
+// Get all profiles on this device (storedProfiles + currentProfile)
 export function getStoredProfiles(): UserProfile[] {
-  return getProfileState().storedProfiles
+  const state = getProfileState()
+  const stored = state.storedProfiles
+  // Include currentProfile if not already in the list
+  if (state.currentProfile && !stored.some(p => p.id === state.currentProfile!.id)) {
+    return [...stored, state.currentProfile]
+  }
+  return stored
 }
 
 // Login to an existing stored profile

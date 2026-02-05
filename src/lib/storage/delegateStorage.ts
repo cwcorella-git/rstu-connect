@@ -8,7 +8,7 @@
  * - Activity score (proposals created, votes cast)
  */
 
-import { getStoredProfiles, getCurrentProfile, getProfile, type UserProfile } from './profileStorage'
+import { getStoredProfiles, getCurrentProfile, type UserProfile } from './profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from './linkedPropertiesStorage'
 import { getGroupProposals, type GovernanceProposal } from './governanceStorage'
 import { getDelegateThresholds } from './adminSettingsStorage'
@@ -175,16 +175,9 @@ function getActivityStats(
  * Get delegate profile for a specific user
  */
 export function getDelegateProfile(profileId: string): DelegateProfile | null {
-  // Use getProfile() which checks both currentProfile and storedProfiles
-  const profile = getProfile(profileId)
+  const allProfiles = getStoredProfiles()
+  const profile = allProfiles.find(p => p.id === profileId)
   if (!profile) return null
-
-  // Build complete profiles list (storedProfiles + currentProfile if missing)
-  const stored = getStoredProfiles()
-  const current = getCurrentProfile()
-  const allProfiles = current && !stored.some(p => p.id === current.id)
-    ? [...stored, current]
-    : stored
 
   const allBlocs = getLinkedGroups()
   const thresholds = getDelegateThresholds()
