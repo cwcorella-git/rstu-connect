@@ -1,7 +1,7 @@
 ---
-title: "18. PRINCIPLES FOR INDIVIDUALS: THE PRINCIPLE OF FAIRNESS"
+title: '18. Principles for Individuals: the Principle of Fairness'
 date: 1961
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

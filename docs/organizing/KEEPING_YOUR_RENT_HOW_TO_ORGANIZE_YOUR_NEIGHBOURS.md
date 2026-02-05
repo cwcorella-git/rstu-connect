@@ -1,5 +1,5 @@
 ---
-title: "KEEPING YOUR RENT HOW TO ORGANIZE YOUR NEIGHBOURS Source: ./HOW-TO-ORGANIZE-YOUR-NEIGHBOURS.pdf ## Content KEEPING YOUR RENT: HOW TO ORGANIZE YOUR NEIGHBOURS torontokeepyourrent@gmail.com | 647-874-87"
+title: Keeping Your Rent How to Organize Your Neighbours
 category: housing
 author: Housing Advocacy Organization
 tags:

@@ -1,7 +1,7 @@
 ---
-title: "LAW AND THE UTOPIAN IMAGINATION"
+title: Law and the Utopian Imagination
 date: 2014
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

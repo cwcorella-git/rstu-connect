@@ -1,8 +1,8 @@
 ---
-title: "UTOPIA FOR REALISTS"
-author: "Bloomsbury Publishing"
+title: Utopia for Realists
+author: Bloomsbury Publishing
 date: 2014
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

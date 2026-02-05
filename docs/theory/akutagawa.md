@@ -1,5 +1,5 @@
 ---
-title: "RYŪNOSUKE AKUTAGAWA"
+title: Ryūnosuke Akutagawa
 date: 1918
 category: theory
 tags:

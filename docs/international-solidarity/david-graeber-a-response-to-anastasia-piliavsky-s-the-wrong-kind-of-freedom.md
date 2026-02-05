@@ -1,5 +1,5 @@
 ---
-title: A Response to Anastasia Piliavsky’s <em>The Wrong Kind of Freedom?</em>
+title: A Response to Anastasia Piliavsky’s The Wrong Kind of Freedom?
 author: David Graeber
 date: 13 January 2017
 category: international-solidarity

@@ -1,7 +1,7 @@
 ---
-title: "ERASING HISTORY"
+title: Erasing History
 date: 1906
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

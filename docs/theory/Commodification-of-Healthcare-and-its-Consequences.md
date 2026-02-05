@@ -1,5 +1,5 @@
 ---
-title: COMMODIFICATION OF HEALTHCARE AND ITS CONSEQUENCES
+title: Commodification of Healthcare and Its Consequences
 date: 2009
 category: theory
 tags:

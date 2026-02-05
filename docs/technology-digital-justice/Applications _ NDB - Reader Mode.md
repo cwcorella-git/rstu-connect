@@ -1,5 +1,5 @@
 ---
-title: Applications | NDB
+title: 'Applications: NDB'
 date: 2007
 category: technology-digital-justice
 tags:

@@ -1,5 +1,5 @@
 ---
-title: CANT MONT THE CASE FOR ECONOMIC DISOBEDIENCE
+title: Cant Mont the Case for Economic Disobedience
 date: 2020
 category: economic-alternatives
 tags:

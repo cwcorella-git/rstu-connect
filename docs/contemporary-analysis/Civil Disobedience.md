@@ -1,6 +1,6 @@
 ---
-title: "ON THE DUTY OF CIVIL DISOBEDIENCE"
-author: "HENRY DAVID THOREAU"
+title: On the Duty of Civil Disobedience
+author: HENRY DAVID THOREAU
 category: contemporary-analysis
 tags:
   - civil disobedience

@@ -1,8 +1,8 @@
 ---
-title: "REGERED THE SARTE"
-author: "Homi K. Bhabha"
+title: Regered the Sarte
+author: Homi K. Bhabha
 date: 1963
-category: "arts-culture-music"
+category: arts-culture-music
 tags:
   - arts
   - culture

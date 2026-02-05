@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Dissonance theoretical advances and current practices ## Content Fointiat, 1998 Dissonance can be aroused by an attitude-attitude inconsistency, with the free-choice paradigm ( Brehm, 1966 )"
+title: Cognitive Dissonance theoretical advances and current practices
 author: X. Borteyrou
 date: '2015'
 category: housing

@@ -1,8 +1,8 @@
 ---
-title: "Proposed-bylaws-to-review-at-2-21-meeting.pdf"
-author: "Proposed Bylaws To"
-date: "2025"
-category: "misc"
+title: Proposed-bylaws-to-review-at-2-21-meeting
+author: Proposed Bylaws To
+date: '2025'
+category: misc
 tags:
   - rstu
   - organizing

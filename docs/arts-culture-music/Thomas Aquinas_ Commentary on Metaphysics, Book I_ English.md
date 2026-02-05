@@ -1,6 +1,6 @@
 ---
-title: "METAPHYSICS BOOK I"
-category: "arts-culture-music"
+title: Metaphysics Book I
+category: arts-culture-music
 tags:
   - arts
   - culture

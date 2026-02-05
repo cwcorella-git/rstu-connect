@@ -1,6 +1,6 @@
 ---
-title: HORTICULTURE
-author:
+title: Horticulture
+author: null
 date: 2005
 category: arts-culture-music
 tags:

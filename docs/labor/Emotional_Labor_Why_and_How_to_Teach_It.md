@@ -1,5 +1,5 @@
 ---
-title: "Emotional Labor Why and How to Teach It Source: ./mastraccinewmanguyJPAE2010.pdf ## Content See discussions, stats, and author profiles for this publication at: Emotional Labor: Why and How to Teach I"
+title: Emotional Labor Why and How to Teach It
 category: labor
 author: Sharon H
 date: 1916

@@ -1,8 +1,8 @@
 {
-  "commit": "6d0a4768",
-  "message": "Remove Interest Tags from Tenant Profile",
+  "commit": "3750b45a",
+  "message": "Landing pages: Full i18n, HowItWorks redesign, fix edit bar overlap",
   "author": "cwcorella-git",
-  "date": "2026-02-04 15:45:21 -0800",
+  "date": "2026-02-04 17:29:53 -0800",
   "branch": "main",
-  "buildTime": "2026-02-04T23:52:23.879Z"
+  "buildTime": "2026-02-05T01:34:22.701Z"
 }

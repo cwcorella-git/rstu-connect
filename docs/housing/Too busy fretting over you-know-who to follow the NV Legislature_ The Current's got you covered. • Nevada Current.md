@@ -1,5 +1,7 @@
 ---
-title: "Too busy fretting over you-know-who to follow the NV Legislature_ The Current's got you covered. • Nevada Current"
+title: >-
+  Too busy fretting over you-know-who to follow the NV Legislature The Current's
+  got you covered. • Nevada Current
 author: Nevada Current
 date: '2025'
 category: housing

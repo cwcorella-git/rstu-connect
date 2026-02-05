@@ -1,8 +1,11 @@
 ---
-title: "THE WORLD - \"RIVERLANDS\" RIVERLANDS; YOU NEVER KNOW WHAT EVENTS WILL TRANSPIRE ON THIS LONG AND LONELY JOURNEY HOME. CURIOSITY IS LYING IN WAIT FOR EVERY SECRET. THE MOLASSES FLOOD"
-author: "NICK MURRAY"
+title: >-
+  The World - "Riverlands" Riverlands; You Never Know What Events Will Transpire
+  on This Long and Lonely Journey Home. Curiosity is Lying in Wait for Every
+  Secret. the Molasses Flood
+author: NICK MURRAY
 date: 2014
-category: "arts-culture-music"
+category: arts-culture-music
 tags:
   - arts
   - culture

@@ -1,6 +1,6 @@
 ---
-title: DAVID GRAEBER
-author: "David Graeber"
+title: David Graeber
+author: David Graeber
 date: 2011
 category: economic-alternatives
 tags:

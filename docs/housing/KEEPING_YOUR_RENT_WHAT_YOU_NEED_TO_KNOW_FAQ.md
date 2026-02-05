@@ -1,5 +1,5 @@
 ---
-title: "KEEPING YOUR RENT WHAT YOU NEED TO KNOW FAQ Source: ./KEEPING-YOUR-RENT-FAQ.pdf ## Content KEEPING YOUR RENT: WHAT YOU NEED TO KNOW (FAQ) torontokeepyourrent@gmail.com | 647-874-8793 | Facebook: Keep"
+title: Keeping Your Rent What You Need to Know Faq
 category: housing
 author: Keeping Your
 date: 2020

@@ -6,6 +6,51 @@ const DOCS_DIR = path.join(__dirname, '../../docs');
 const OUTPUT_DIR = path.join(__dirname, '../../src/data');
 const PUBLIC_DIR = path.join(__dirname, '../../public/documents');
 
+// Clean title artifacts from frontmatter (ALL CAPS, underscores, HTML, etc.)
+function cleanTitle(title) {
+  let t = title;
+  // Strip heading markers
+  t = t.replace(/^#+\s*/, '');
+  // Strip HTML tags
+  t = t.replace(/<\/?[^>]+>/g, '');
+  // Strip aboutreaderurl/Source/Content artifacts
+  if (t.includes('aboutreaderurl=')) t = t.split('aboutreaderurl=')[0].trim();
+  if (/Source:\s*\.\//.test(t)) t = t.split(/Source:\s*\.\//)[0].trim();
+  if (t.includes('## Content')) t = t.split('## Content')[0].trim();
+  // Strip Anna's Archive metadata
+  t = t.replace(/\s*--\s*(?:.*?--\s*)?[a-f0-9]{20,}.*$/i, '');
+  t = t.replace(/\s*--\s*Anna's Archive.*$/i, '');
+  // Strip file extensions
+  t = t.replace(/\.(pdf|md|txt|html|docx|qxd)$/i, '');
+  // Replace underscores with spaces
+  t = t.replace(/_/g, ' ');
+  // Replace pipes with colons
+  t = t.replace(/ \| /g, ': ');
+  // Convert ALL CAPS to Title Case
+  if (t === t.toUpperCase() && t.length > 10) {
+    const lowers = new Set(['a','an','the','and','but','or','for','nor','on','at','to','from','by','in','of','with','vs','via','is','it','as','if','so','no','not']);
+    const acronyms = new Set(['IWW','RSTU','AFL','CIO','BLM','DSA','USA','UK','EU','UN','NYC','NLRA','NLRB','HUD','EPA','CRC','LGBTQ','AB','SB','AI']);
+    t = t.split(' ').map((w, i) => {
+      const s = w.replace(/[^A-Za-z]/g, '').toUpperCase();
+      if (acronyms.has(s)) return w.replace(/[A-Za-z]+/, s);
+      if (/^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/.test(s) && s.length >= 2) return w.replace(/[A-Za-z]+/, s);
+      const lower = w.toLowerCase();
+      const m = lower.match(/^([^a-z]*)([a-z]+)(.*)$/);
+      if (!m) return lower;
+      const [, pre, core, suf] = m;
+      if (i === 0) return pre + core.charAt(0).toUpperCase() + core.slice(1) + suf;
+      if (lowers.has(core)) return pre + core + suf;
+      return pre + core.charAt(0).toUpperCase() + core.slice(1) + suf;
+    }).join(' ');
+  }
+  // Strip bold markers
+  t = t.replace(/\*\*/g, '');
+  // Clean up whitespace and trailing punctuation
+  t = t.replace(/\s+/g, ' ').trim();
+  t = t.replace(/\s*[-–—:,;]\s*$/, '').trim();
+  return t;
+}
+
 function generateManifest() {
   const documents = [];
   const categories = new Set();
@@ -67,7 +112,7 @@ function generateManifest() {
         // Generate metadata
         const id = relativePath.replace(/\.md$/, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase();
         const rawTitle = data.title || item.replace('.md', '').replace(/[-_]/g, ' ');
-        const title = String(rawTitle).substring(0, 200); // Ensure it's a string and limit length
+        const title = cleanTitle(String(rawTitle)).substring(0, 200);
         const excerpt = markdown.slice(0, 200).replace(/[#*`]/g, '').trim();
         const wordCount = markdown.split(/\s+/).length;
         const slug = id;

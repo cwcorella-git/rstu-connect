@@ -1,6 +1,6 @@
 ---
-title: EANARCHIST COLLECTIVES
-author: "Augustin Souchy"
+title: Eanarchist Collectives
+author: Augustin Souchy
 date: 1936
 category: contemporary-analysis
 tags:

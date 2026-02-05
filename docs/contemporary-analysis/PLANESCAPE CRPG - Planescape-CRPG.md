@@ -1,6 +1,6 @@
 ---
-title: "PLANESCAPE CRPG LAST RITES"
-category: "contemporary-analysis"
+title: Planescape Crpg Last Rites
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

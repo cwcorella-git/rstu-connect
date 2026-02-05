@@ -1,7 +1,7 @@
 ---
-title: "YOU ARE DEAD!"
+title: You Are Dead!
 date: 2022
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

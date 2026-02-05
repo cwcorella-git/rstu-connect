@@ -1,5 +1,5 @@
 ---
-title: ENHANCED EDITION
+title: Enhanced Edition
 date: 1977
 category: contemporary-analysis
 tags:

@@ -1,5 +1,5 @@
 ---
-title: HOST CITY CONTRACT FOR THE GAMES OF THE XXXII OLYMPIAD IN THE YEAR 2020
+title: Host City Contract for the Games of the XXXII Olympiad in the Year 2020
 date: 2020
 category: contemporary-analysis
 tags:

@@ -1,5 +1,5 @@
 ---
-title: SELF-RESTRAINT SELF-INDULGENCE
+title: Self-restraint Self-indulgence
 date: 1928
 category: technology-digital-justice
 tags:

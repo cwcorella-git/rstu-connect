@@ -1,6 +1,6 @@
 ---
-title: LITTLE LENIN LIBRARY VOLUME 20
-author: "V. I. Lenin"
+title: Little Lenin Library Volume 20
+author: V. I. Lenin
 date: 1920
 category: contemporary-analysis
 tags:

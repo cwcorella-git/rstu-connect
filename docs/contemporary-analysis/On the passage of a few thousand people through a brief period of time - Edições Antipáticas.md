@@ -1,7 +1,7 @@
 ---
-title: "On the passage of a few thousand people through a brief period of time - Edições Antipáticas"
+title: On the passage of a few thousand people through a brief period of time
 date: 2011
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - general-strikes
   - social-movements
@@ -9,6 +9,7 @@ tags:
   - portugal
   - portugal-against-austerity
   - edições-antipáticas
+author: Edições Antipáticas
 ---
 
 # **On the passage of a few thousand people through a brief period of time - Edições Antipáticas**

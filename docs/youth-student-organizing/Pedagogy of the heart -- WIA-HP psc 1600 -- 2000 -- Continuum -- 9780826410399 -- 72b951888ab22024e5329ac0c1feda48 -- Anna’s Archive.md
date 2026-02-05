@@ -1,5 +1,5 @@
 ---
-title: PEDAGOGY OF THE HEART
+title: Pedagogy of the Heart
 date: 2000
 category: youth-student-organizing
 tags:

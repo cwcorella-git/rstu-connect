@@ -1,5 +1,5 @@
 ---
-title: Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4
+title: Murray Bookchin Libertarian Municipalism An Overview a4
 author: Murray Bookchin
 date: '2025'
 category: organizing

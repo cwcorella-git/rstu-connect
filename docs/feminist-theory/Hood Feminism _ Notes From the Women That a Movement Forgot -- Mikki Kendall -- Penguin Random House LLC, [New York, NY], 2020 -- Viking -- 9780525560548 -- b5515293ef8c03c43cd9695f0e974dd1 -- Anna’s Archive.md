@@ -1,5 +1,5 @@
 ---
-title: HOOD FEMINISM
+title: Hood Feminism
 date: 2020
 category: feminist-theory
 tags:

@@ -1,6 +1,6 @@
 ---
-title: Monopoly capitalism and the rise of syndicalism – Mark Leier
-author:
+title: Monopoly capitalism and the rise of syndicalism
+author: Mark Leier
 date: 1904
 category: contemporary-analysis
 tags:

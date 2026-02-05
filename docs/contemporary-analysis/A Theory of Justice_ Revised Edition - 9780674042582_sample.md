@@ -1,7 +1,7 @@
 ---
-title: "A THEORY OF JUSTICE"
+title: A Theory of Justice
 date: 1971
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

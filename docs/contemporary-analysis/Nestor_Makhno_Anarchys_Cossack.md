@@ -1,6 +1,6 @@
 ---
-title: NESTOR MAKHNO
-author: "Nestor Makhno"
+title: Nestor Makhno
+author: Nestor Makhno
 date: 2004
 category: contemporary-analysis
 tags:

@@ -1,5 +1,5 @@
 ---
-title: PAULO FREIRE
+title: Paulo Freire
 date: 1970
 category: youth-student-organizing
 tags:

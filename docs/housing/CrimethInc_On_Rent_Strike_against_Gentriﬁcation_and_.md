@@ -1,5 +1,5 @@
 ---
-title: "CrimethInc. On Rent Strike against Gentrification and ... aboutreaderurl= Source: ./CrimethInc. _ On Rent Strike against Gentrification and the Pandemic _ An Interview with Residents of Station 40 in"
+title: CrimethInc. On Rent Strike against Gentrification and ...
 category: labor
 author: Marshall Elementary
 tags:

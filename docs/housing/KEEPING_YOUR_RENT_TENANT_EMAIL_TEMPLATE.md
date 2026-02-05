@@ -1,5 +1,5 @@
 ---
-title: "KEEPING YOUR RENT TENANT EMAIL TEMPLATE Source: ./TENANT-EMAIL-TEMPLATE.pdf ## Content KEEPING YOUR RENT: TENANT EMAIL TEMPLATE torontokeepyourrent@gmail.com | 647-874-8793 | Facebook: Keep Your Rent"
+title: Keeping Your Rent Tenant Email Template
 category: housing
 author: Housing Advocacy Organization
 tags:

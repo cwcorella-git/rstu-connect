@@ -1,5 +1,5 @@
 ---
-title: Foreword to <em>Stone Age Economics</em>
+title: Foreword to Stone Age Economics
 author: David Graeber
 date: '2017'
 category: economic-alternatives

@@ -1,5 +1,5 @@
 ---
-title: TRUE LEARNING
+title: True Learning
 date: 1968
 category: youth-student-organizing
 tags:

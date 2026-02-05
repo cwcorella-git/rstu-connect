@@ -1,6 +1,6 @@
 ---
-title: The Quit India Speeches | Famous Speeches by Mahatma Gandhi
-author: "Mahatma Gandhi"
+title: 'The Quit India Speeches: Famous Speeches by Mahatma Gandhi'
+author: Mahatma Gandhi
 date: 1920
 category: contemporary-analysis
 tags:

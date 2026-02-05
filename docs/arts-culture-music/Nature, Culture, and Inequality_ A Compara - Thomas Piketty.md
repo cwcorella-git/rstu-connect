@@ -1,8 +1,8 @@
 ---
-title: "NATURE, CULTURE, AND INEQUALITY"
-author: "Thomas Piketty"
+title: 'Nature, Culture, and Inequality'
+author: Thomas Piketty
 date: 2022
-category: "arts-culture-music"
+category: arts-culture-music
 tags:
   - arts
   - culture

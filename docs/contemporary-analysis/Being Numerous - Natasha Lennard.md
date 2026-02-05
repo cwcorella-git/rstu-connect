@@ -1,8 +1,8 @@
 ---
-title: "BEING NUMEROUS SSAYS ()/V"
-author: "Natasha Lennard"
+title: Being Numerous Ssays ()/V
+author: Natasha Lennard
 date: 2019
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

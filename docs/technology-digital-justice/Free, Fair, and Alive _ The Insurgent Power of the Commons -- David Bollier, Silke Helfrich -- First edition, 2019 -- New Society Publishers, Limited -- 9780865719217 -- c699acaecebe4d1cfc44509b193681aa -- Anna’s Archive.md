@@ -1,5 +1,5 @@
 ---
-title: 'FREE, FAIR ALVE THE INSURGENT POWER'
+title: 'Free, Fair Alve the Insurgent Power'
 date: 2019
 category: technology-digital-justice
 tags:

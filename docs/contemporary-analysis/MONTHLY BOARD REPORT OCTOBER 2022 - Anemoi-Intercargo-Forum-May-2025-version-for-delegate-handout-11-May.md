@@ -1,7 +1,7 @@
 ---
-title: "KEY BENEFITS"
+title: Key Benefits
 date: 2022
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

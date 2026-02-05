@@ -1,7 +1,9 @@
 ---
-title: "MEMORIAL AND REMONSTRANCE AGAINST RELIGIOUS ASSESSMENTS, BY JAMES MADISON, 1785"
-author: "JAMES MADISON"
-category: "contemporary-analysis"
+title: >-
+  Memorial and Remonstrance Against Religious Assessments, by James Madison,
+  1785
+author: JAMES MADISON
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

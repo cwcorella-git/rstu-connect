@@ -1,8 +1,8 @@
 ---
-title: "THINKING AHEAD:"
-author: "Alecia Vogl"
+title: Thinking Ahead
+author: Alecia Vogl
 date: 2019
-category: "arts-culture-music"
+category: arts-culture-music
 tags:
   - arts
   - culture

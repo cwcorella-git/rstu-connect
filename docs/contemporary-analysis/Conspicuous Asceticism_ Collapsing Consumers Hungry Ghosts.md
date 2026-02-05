@@ -1,7 +1,7 @@
 ---
-title: "CONSPICUOUS ASCETICISM: COLLAPSING CONSUMERS' HUNGRY GHOSTS"
+title: 'Conspicuous Asceticism: Collapsing Consumers'' Hungry Ghosts'
 date: 2022
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

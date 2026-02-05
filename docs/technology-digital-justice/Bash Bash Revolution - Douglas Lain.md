@@ -1,6 +1,6 @@
 ---
-title: BASH BASH REVOLUTION A NOVEL BY DOUGLAS LAIN
-author: "DOUGLAS LAIN"
+title: Bash Bash Revolution a Novel by Douglas Lain
+author: DOUGLAS LAIN
 date: 2018
 category: technology-digital-justice
 tags:

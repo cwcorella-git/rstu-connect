@@ -1,7 +1,7 @@
 ---
-title: "Book Review | Beyond the Periphery of the Skin"
-author: "libcom.org"
-category: "arts-culture-music"
+title: 'Book Review: Beyond the Periphery of the Skin'
+author: libcom.org
+category: arts-culture-music
 tags:
   - silvia-federici
   - feminism

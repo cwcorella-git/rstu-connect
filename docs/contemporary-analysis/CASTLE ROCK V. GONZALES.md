@@ -1,7 +1,7 @@
 ---
-title: "CASTLE ROCK V. GONZALES"
+title: Castle Rock V. Gonzales
 date: 2002
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

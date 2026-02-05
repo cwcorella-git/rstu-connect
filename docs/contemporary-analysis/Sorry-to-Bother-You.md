@@ -1,7 +1,7 @@
 ---
-title: "2 INT. CASSIUS'S STUDIO APARTMENT- MORNING 2"
+title: 2 Int. Cassius's Studio Apartment- Morning 2
 date: 2003
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

@@ -1,5 +1,5 @@
 ---
-title: Nevada Legislature passes voter ID bill on 2025 session's final day _ AP News
+title: Nevada Legislature passes voter ID bill on 2025 session's final day AP News
 author: AP News
 date: '2023'
 category: misc

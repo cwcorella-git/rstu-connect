@@ -1,10 +1,11 @@
 ---
-title: "Victor Serge's Anarchist Opposition to Belgian Colonialism in Congo - Jeff Shantz"
+title: Victor Serge's Anarchist Opposition to Belgian Colonialism in Congo
 date: 1908
 category: theory
 tags:
   - anarchism
   - theory
+author: Jeff Shantz
 ---
 
 ## **Victor Serge's Anarchist Opposition to Belgian Colonialism in Congo - Jeff Shantz**

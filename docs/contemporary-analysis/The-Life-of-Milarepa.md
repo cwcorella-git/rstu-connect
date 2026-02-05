@@ -1,8 +1,8 @@
 ---
-title: "TSANGNYÖN HERUKA"
-author: "Donald S. Lopez Jr"
+title: Tsangnyön Heruka
+author: Donald S. Lopez Jr
 date: 2010
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

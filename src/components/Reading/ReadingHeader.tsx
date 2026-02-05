@@ -2,9 +2,9 @@
 
 import { useState, useEffect } from 'react'
 import { toggleFavorite, getReadingState } from '@/lib/storage/readingStorage'
-import { isAdmin, canAccessTools } from '@/lib/storage/profileStorage'
+import { canAccessTools } from '@/lib/storage/profileStorage'
 import { getFeaturedDocuments, toggleDocumentFeaturedAsync } from '@/lib/storage/adminStorage'
-import { useEditMode } from '@/contexts/EditModeContext'
+import { useLanguage } from '@/contexts/LanguageContext'
 import type { ReadingDocument } from '@/lib/data/getReadingData'
 
 // Color palette for tags - consistent colors based on tag content
@@ -61,8 +61,7 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
   const [isCurated, setIsCurated] = useState(false)
   const [showCopied, setShowCopied] = useState(false)
   const [isTagsHovered, setIsTagsHovered] = useState(false)
-  const { isEditMode, toggleEditMode } = useEditMode()
-  const userIsAdmin = isAdmin()
+  const { t } = useLanguage()
   const userCanCurate = canAccessTools()
 
   useEffect(() => {
@@ -185,24 +184,6 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
         </div>
 
         <div className="flex items-center gap-3 flex-shrink-0 ml-2">
-          {/* Edit Mode Toggle - Admin only */}
-          {userIsAdmin && (
-            <button
-              onClick={toggleEditMode}
-              className={`flex items-center gap-1 transition min-w-[44px] min-h-[44px] justify-center ${
-                isEditMode
-                  ? 'text-blue-600 hover:text-blue-700'
-                  : 'text-gray-500 hover:text-gray-700'
-              }`}
-              title={isEditMode ? 'Exit Edit Mode (Ctrl+Shift+E)' : 'Enter Edit Mode (Ctrl+Shift+E)'}
-              aria-label={isEditMode ? 'Exit edit mode' : 'Enter edit mode'}
-            >
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
-              </svg>
-            </button>
-          )}
-
           {/* Red star - RSTU Curated */}
           {userCanCurate ? (
             <button
@@ -212,12 +193,12 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
                   ? 'text-red-500 hover:text-red-600'
                   : 'text-gray-500 hover:text-red-400'
               }`}
-              title={isCurated ? 'Remove from RSTU Curated' : 'Add to RSTU Curated'}
+              title={isCurated ? t('reading.removeCurated') : t('reading.addCurated')}
             >
               <span className="text-base">{isCurated ? '★' : '☆'}</span>
             </button>
           ) : isCurated ? (
-            <span className="flex items-center min-w-[44px] min-h-[44px] justify-center text-red-500" title="RSTU Curated">
+            <span className="flex items-center min-w-[44px] min-h-[44px] justify-center text-red-500" title={t('reading.rstuCurated')}>
               <span className="text-base">★</span>
             </span>
           ) : null}

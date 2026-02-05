@@ -1,7 +1,7 @@
 ---
-title: "SNAPSHOTS OF AGENT PROVOCATEURS AROUND THE WORLD"
+title: Snapshots of Agent Provocateurs Around the World
 date: 2005
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

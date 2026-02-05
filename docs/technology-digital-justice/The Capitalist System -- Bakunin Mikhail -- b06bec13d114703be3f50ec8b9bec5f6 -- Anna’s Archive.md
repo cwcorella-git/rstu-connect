@@ -1,6 +1,6 @@
 ---
-title: "THE CAPITALIST SYSTEM"
-author: "Michael Bakunin"
+title: The Capitalist System
+author: Michael Bakunin
 date: 1926
 category: technology-digital-justice
 tags:

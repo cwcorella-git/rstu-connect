@@ -1,5 +1,5 @@
 ---
-title: PREFACE TO FIRST VOLUME OF AMERICAN EDITION
+title: Preface to First Volume of American Edition
 date: 1921
 category: international-solidarity
 tags:

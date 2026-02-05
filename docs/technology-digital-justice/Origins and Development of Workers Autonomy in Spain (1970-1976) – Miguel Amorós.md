@@ -1,11 +1,12 @@
 ---
-title: "Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós"
+title: Origins and Development of Workers Autonomy in Spain (1970-1976)
 date: 1970
 category: technology-digital-justice
 tags:
   - autonomy
   - labor
   - Spain
+author: Miguel Amorós
 ---
 
 ## **Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós**

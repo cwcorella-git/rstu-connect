@@ -1,5 +1,5 @@
 ---
-title: 'Ownership, Home Value, Rent _ American Community Survey _ U.S. Census Bureau'
+title: 'Ownership, Home Value, Rent American Community Survey U.S. Census Bureau'
 author: Housing Advocacy Organization
 date: '2025'
 category: housing

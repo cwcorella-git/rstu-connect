@@ -1,6 +1,6 @@
 ---
-title: THIRD CLASS
-author: "Mahatma Gandhi"
+title: Third Class
+author: Mahatma Gandhi
 date: 2008
 category: technology-digital-justice
 tags:

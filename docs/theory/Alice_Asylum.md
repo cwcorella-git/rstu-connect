@@ -1,5 +1,5 @@
 ---
-title: WORK IN PROGRESS
+title: Work in Progress
 date: 2000
 category: theory
 tags:

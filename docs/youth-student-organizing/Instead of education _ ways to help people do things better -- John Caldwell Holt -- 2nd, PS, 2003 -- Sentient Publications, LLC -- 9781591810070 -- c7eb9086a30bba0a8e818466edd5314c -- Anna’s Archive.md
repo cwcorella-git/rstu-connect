@@ -1,5 +1,5 @@
 ---
-title: INSTEAD OF E-DUCATION
+title: Instead of E-ducation
 date: 1977
 category: youth-student-organizing
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'MAPPING DISCORD''S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD'
+title: 'Mapping Discord''s Darkside: Distributed Hate Networks on Disboard'
 date: 2018
 category: technology-digital-justice
 tags:

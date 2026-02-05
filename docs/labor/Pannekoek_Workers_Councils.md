@@ -1,6 +1,6 @@
 ---
-title: WORKERS' COUNCILS
-author: "Robert F. Barsky"
+title: Workers' Councils
+author: Robert F. Barsky
 date: 2003
 category: contemporary-analysis
 tags:

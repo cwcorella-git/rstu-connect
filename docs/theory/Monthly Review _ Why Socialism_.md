@@ -1,6 +1,6 @@
 ---
-title: MONTHLY REVIEW
-author: "John J. Simon"
+title: Monthly Review
+author: John J. Simon
 date: 1959
 category: contemporary-analysis
 tags:

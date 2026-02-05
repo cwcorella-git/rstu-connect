@@ -1,5 +1,5 @@
 ---
-title: "Constellations of Care _ Anarcha-Feminism in Practice -- Cindy Barukh Milstein 58a57a50b8f18ef694387c498cd6f00b -- Anna’s Archive"
+title: Constellations of Care Anarcha-Feminism in Practice
 author: with Being Human
 date: '2024'
 category: organizing

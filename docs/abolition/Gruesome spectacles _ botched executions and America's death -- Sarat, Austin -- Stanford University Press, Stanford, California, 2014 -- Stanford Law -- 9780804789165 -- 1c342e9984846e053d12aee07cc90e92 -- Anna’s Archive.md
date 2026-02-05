@@ -1,5 +1,5 @@
 ---
-title: GRUESOME SPECTACLES
+title: Gruesome Spectacles
 date: 2014
 category: abolition
 tags:

@@ -1,6 +1,6 @@
 ---
-title: GOD AND THE STATE
-author: "Bakunin God"
+title: God and the State
+author: Bakunin God
 date: 1970
 category: contemporary-analysis
 tags:

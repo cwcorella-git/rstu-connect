@@ -1,6 +1,6 @@
 ---
-title: CHRONICLING CIVIL RESISTANCE
-author: "Deborah Mathis and Hailey Grace Allen 2021"
+title: Chronicling Civil Resistance
+author: Deborah Mathis and Hailey Grace Allen 2021
 date: 2021
 category: organizing
 tags:

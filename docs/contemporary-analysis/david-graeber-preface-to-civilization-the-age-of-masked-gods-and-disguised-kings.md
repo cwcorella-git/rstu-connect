@@ -1,5 +1,5 @@
 ---
-title: 'Preface to <em>Civilization: The Age of Masked Gods and Disguised Kings</em>'
+title: 'Preface to Civilization: The Age of Masked Gods and Disguised Kings'
 author: David Graeber
 date: '2015'
 category: contemporary-analysis

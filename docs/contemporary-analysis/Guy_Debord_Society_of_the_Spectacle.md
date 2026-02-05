@@ -1,8 +1,8 @@
 ---
-title: "THE SOCIETY OF THE SPECTACLE"
-author: "Guy Debord"
+title: The Society of the Spectacle
+author: Guy Debord
 date: 1967
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

@@ -1,8 +1,8 @@
 ---
-title: "THIS WORLD WE MUST LEAVE"
-author: "Jacques Camatte"
+title: This World We Must Leave
+author: Jacques Camatte
 date: 1973
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

@@ -1,6 +1,6 @@
 ---
-title: BLACKSHIRTS &
-author: "Michael Parenti"
+title: Blackshirts &
+author: Michael Parenti
 date: 1996
 category: contemporary-analysis
 tags:

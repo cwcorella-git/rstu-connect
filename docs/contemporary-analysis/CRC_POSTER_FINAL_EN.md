@@ -1,5 +1,5 @@
 ---
-title: CONVENTION ON THE RIGHTS OF THE CHILD
+title: Convention on the Rights of the Child
 category: contemporary-analysis
 tags:
   - analysis

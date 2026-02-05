@@ -1,5 +1,5 @@
 ---
-title: BYUNG-CHULHAN PSYCHO-POLICS
+title: Byung-chulhan Psycho-polics
 date: 2017
 category: feminist-theory
 tags:

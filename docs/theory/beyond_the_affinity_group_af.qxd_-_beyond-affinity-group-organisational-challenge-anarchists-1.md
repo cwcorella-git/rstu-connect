@@ -1,5 +1,7 @@
 ---
-title: "beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1.pdf"
+title: >-
+  beyond the affinity group af.qxd -
+  beyond-affinity-group-organisational-challenge-anarchists-1
 author: Affinity Group
 date: '1868'
 category: theory

@@ -1,7 +1,7 @@
 ---
-title: "INT. UNKNOWN SPACE"
+title: Int. Unknown Space
 date: 2013
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

@@ -1,5 +1,5 @@
 ---
-title: "Reno-Sparks Tenant Union Presentation.pptx - Reno-Sparks Tenant Union Presentation.pptx"
+title: Reno-Sparks Tenant Union Presentation.pptx
 author: Housing Advocacy Organization
 date: '2025'
 category: housing

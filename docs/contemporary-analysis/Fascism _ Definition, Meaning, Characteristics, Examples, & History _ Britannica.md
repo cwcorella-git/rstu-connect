@@ -1,5 +1,5 @@
 ---
-title: 'Fascism | Definition, Meaning, Characteristics, Examples, & History'
+title: 'Fascism: Definition, Meaning, Characteristics, Examples, & History'
 date: 1933
 category: contemporary-analysis
 tags:

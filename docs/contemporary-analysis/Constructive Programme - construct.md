@@ -1,7 +1,7 @@
 ---
-title: "CONSTRUCTIVE PROGRAMME"
+title: Constructive Programme
 date: 1941
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

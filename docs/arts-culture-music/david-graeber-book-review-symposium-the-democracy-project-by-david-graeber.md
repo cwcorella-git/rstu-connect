@@ -1,5 +1,5 @@
 ---
-title: 'Book review symposium: <em>The Democracy Project</em>, by David Graeber'
+title: 'Book review symposium: The Democracy Project, by David Graeber'
 author: David Graeber
 date: 1 July 2014
 category: arts-culture-music

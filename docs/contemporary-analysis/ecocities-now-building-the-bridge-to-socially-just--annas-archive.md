@@ -1,5 +1,5 @@
 ---
-title: I COCITIES NOW
+title: I Cocities Now
 date: 1987
 category: contemporary-analysis
 tags:

@@ -1,6 +1,6 @@
 ---
-title: HACKSAW RIDGE
-author: "ROBERT SCHENKKAN"
+title: Hacksaw Ridge
+author: ROBERT SCHENKKAN
 date: 2013
 category: contemporary-analysis
 tags:

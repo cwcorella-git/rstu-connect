@@ -1,5 +1,5 @@
 ---
-title: THE LAST ECONOMY
+title: The Last Economy
 date: 2025
 category: economic-alternatives
 tags:

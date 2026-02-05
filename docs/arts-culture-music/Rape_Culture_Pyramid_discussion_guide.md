@@ -1,8 +1,8 @@
 ---
-title: "ENDING RAPE CULTURE ACTIVITY ZINE"
-author: "Rape Culture"
+title: Ending Rape Culture Activity Zine
+author: Rape Culture
 date: 2018
-category: "arts-culture-music"
+category: arts-culture-music
 tags:
   - arts
   - culture

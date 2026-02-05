@@ -1,5 +1,5 @@
 ---
-title: 'FREEDOM PLAZA: A MEGAPROJECT ALONG THE WATERFRONT'
+title: 'Freedom Plaza: a Megaproject Along the Waterfront'
 date: 2024
 category: contemporary-analysis
 tags:

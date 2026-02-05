@@ -1,6 +1,6 @@
 ---
-title: 'VISIONS OF HUMAN NATURE: A FEMINIST CRITIQUE OF RAWLS'' THEORY OF JUSTICE'
-author: "Feminist Critique"
+title: 'Visions of Human Nature: a Feminist Critique of Rawls'' Theory of Justice'
+author: Feminist Critique
 date: 1986
 category: feminist-theory
 tags:

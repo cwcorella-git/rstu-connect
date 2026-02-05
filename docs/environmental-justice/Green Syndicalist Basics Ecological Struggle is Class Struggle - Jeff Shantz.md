@@ -1,11 +1,12 @@
 ---
-title: 'Green Syndicalist Basics: Ecological Struggle is Class Struggle - Jeff Shantz'
+title: 'Green Syndicalist Basics: Ecological Struggle is Class Struggle'
 date: 2025
 category: environmental-justice
 tags:
   - syndicalism
   - environment
   - class
+author: Jeff Shantz
 ---
 
 ## **Green Syndicalist Basics: Ecological Struggle is Class Struggle - Jeff Shantz**

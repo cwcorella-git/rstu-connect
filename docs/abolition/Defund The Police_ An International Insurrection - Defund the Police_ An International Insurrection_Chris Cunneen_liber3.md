@@ -1,6 +1,6 @@
 ---
-title: DEFUND THE POLICE
-author: "Chris Cunneen"
+title: Defund the Police
+author: Chris Cunneen
 date: 2023
 category: international-solidarity
 tags:

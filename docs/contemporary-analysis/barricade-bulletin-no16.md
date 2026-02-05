@@ -1,5 +1,5 @@
 ---
-title: 'BLOODY SUNDAY: MARCH FOR JUSTICE'
+title: 'Bloody Sunday: March for Justice'
 date: 2022
 category: contemporary-analysis
 tags:

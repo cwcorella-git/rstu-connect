@@ -1,5 +1,5 @@
 ---
-title: MASON POSTCAPITALISM AGUIDE TOUR FUTURE
+title: Mason Postcapitalism Aguide Tour Future
 date: 2008
 category: contemporary-analysis
 tags:

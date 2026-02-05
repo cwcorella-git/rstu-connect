@@ -1,8 +1,8 @@
 ---
-title: "MICHE L FOUCAULT"
-author: "Michel Foucault"
+title: Miche L Foucault
+author: Michel Foucault
 date: 1977
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

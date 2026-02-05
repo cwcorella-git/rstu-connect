@@ -1,6 +1,6 @@
 ---
-title: ABOLITION. FEMINISM. NOW.
-author: "Abolition Feminism"
+title: Abolition. Feminism. Now.
+author: Abolition Feminism
 date: 1977
 category: feminist-theory
 tags:

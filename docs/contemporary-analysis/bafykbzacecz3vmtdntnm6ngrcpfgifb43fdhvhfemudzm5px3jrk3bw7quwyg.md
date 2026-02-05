@@ -1,7 +1,7 @@
 ---
-title: "CHAPTER 1 PROLOGUE: VALUES AND PERSPECTIVES"
+title: 'Chapter 1 Prologue: Values and Perspectives'
 date: 2009
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

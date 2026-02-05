@@ -1,5 +1,5 @@
 ---
-title: ESCAPE FOR CHILDHOOD
+title: Escape for Childhood
 date: 1996
 category: youth-student-organizing
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Tenants' Unions Building Dual Power in the Neighborh... aboutreaderurl= Source: ./Tenants' Unions_ Building Dual Power in the Neighborhood _ ROAR Magazine.pdf ## Content Tenants' Unions: Building Dual"
+title: Tenants' Unions Building Dual Power in the Neighborh...
 category: housing
 author: the actions
 tags:

@@ -1,6 +1,6 @@
 ---
-title: A CASE FOR REVOLUTION
-author: "Michael J. Robillard"
+title: A Case for Revolution
+author: Michael J. Robillard
 date: 2022
 category: youth-student-organizing
 tags:

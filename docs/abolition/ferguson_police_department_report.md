@@ -1,5 +1,5 @@
 ---
-title: "Ferguson_police_department_report"
+title: Ferguson police department report
 author: Racial Bias
 date: '2010'
 category: abolition

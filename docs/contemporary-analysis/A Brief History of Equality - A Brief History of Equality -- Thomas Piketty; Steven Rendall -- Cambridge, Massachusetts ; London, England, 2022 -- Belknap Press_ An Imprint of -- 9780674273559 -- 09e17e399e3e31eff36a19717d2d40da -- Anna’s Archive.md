@@ -1,5 +1,5 @@
 ---
-title: BRIEF HISTORY EQUALITY THOMAS PIKETTY
+title: Brief History Equality Thomas Piketty
 date: 2022
 category: contemporary-analysis
 tags:

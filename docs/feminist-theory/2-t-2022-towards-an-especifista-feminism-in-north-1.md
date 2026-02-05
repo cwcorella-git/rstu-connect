@@ -1,5 +1,5 @@
 ---
-title: TOWARDS AN ESPECIFISTA FEMINISM IN NORTH AMERICA
+title: Towards an Especifista Feminism in North America
 date: 2022
 category: theory
 tags:

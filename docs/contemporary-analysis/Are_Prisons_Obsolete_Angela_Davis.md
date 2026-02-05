@@ -1,6 +1,6 @@
 ---
-title: ARE PRISONS OBSOLETE?
-author: "Angela Y. Davis"
+title: Are Prisons Obsolete?
+author: Angela Y. Davis
 date: 2003
 category: contemporary-analysis
 tags:

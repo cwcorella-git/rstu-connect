@@ -1,7 +1,9 @@
 ---
-title: "INTRODUCTION TO \"WHAT IS METAPHYSICS?\" GETTING TO THE BOTTOM OF METAPHYSICS (1949)2"
+title: >-
+  Introduction to "What is Metaphysics?" Getting to the Bottom of Metaphysics
+  (1949)2
 date: 1929
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

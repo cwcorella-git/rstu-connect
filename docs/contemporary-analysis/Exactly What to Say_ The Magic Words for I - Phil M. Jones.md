@@ -1,8 +1,8 @@
 ---
-title: "EXACT LY WHAT TO SAY"
-author: "Phil M. Jones"
+title: Exact Ly What to Say
+author: Phil M. Jones
 date: 2017
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events

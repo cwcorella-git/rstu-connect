@@ -1,5 +1,5 @@
 ---
-title: "How to organize a rent strike Source: ./how-to-organize-a-rent-strike.pdf ## Content How to organize a rent strike Background: It is a big risk and escalation to organize for a rent strike and withhol"
+title: How to organize a rent strike
 category: labor
 author: Housing Advocacy Organization
 tags:

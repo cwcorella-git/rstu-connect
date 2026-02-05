@@ -1,8 +1,8 @@
 ---
-title: "FUTURE PRIMITIVE"
-author: "John Zerzan Anti-Copyright"
+title: Future Primitive
+author: John Zerzan Anti-Copyright
 date: 1990
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
   - analysis
   - current-events
