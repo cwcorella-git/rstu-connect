@@ -21,7 +21,11 @@ import { CitationProvider } from '@/contexts/CitationContext'
 import { CitationPopup } from '@/components/Citations'
 
 function FloatingChecklist() {
-  const { setActiveTab } = useTab()
+  const { activeTab, setActiveTab } = useTab()
+
+  // Hide checklist on Profile page to avoid overlapping invite code section
+  if (activeTab === 'profile') return null
+
   return (
     <OnboardingChecklist
       onNavigate={(tab) => setActiveTab(tab as 'landing' | 'home' | 'reading' | 'mutualAid' | 'tools' | 'profile')}

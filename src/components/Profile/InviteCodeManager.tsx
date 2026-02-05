@@ -37,7 +37,7 @@ const MAX_USES_OPTIONS = [
 ]
 
 // Get status of an invite code
-function getInviteStatus(invite: InviteCode): { label: string; color: string } {
+function getInviteStatus(invite: InviteCode): { label: string; color: string; isLocalOnly?: boolean } {
   if (invite.revoked) {
     return { label: 'Revoked', color: 'bg-gray-100 text-gray-600' }
   }
@@ -46,6 +46,10 @@ function getInviteStatus(invite: InviteCode): { label: string; color: string } {
   }
   if (invite.maxUses > 0 && invite.usedCount >= invite.maxUses) {
     return { label: 'Fully Used', color: 'bg-gray-100 text-gray-600' }
+  }
+  // Check if code is local-only (cloud sync failed)
+  if (invite.localOnly) {
+    return { label: 'Local Only', color: 'bg-orange-100 text-orange-700', isLocalOnly: true }
   }
   return { label: 'Active', color: 'bg-green-100 text-green-700' }
 }
@@ -422,7 +426,7 @@ export function InviteCodeManager() {
           const roleBadge = getRoleBadge(invite.grantRole)
 
           return (
-            <div key={invite.code} className="p-3 hover:bg-gray-50">
+            <div key={invite.code} className={`p-3 hover:bg-gray-50 ${status.isLocalOnly ? 'bg-orange-50' : ''}`}>
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
                   <code className="font-mono font-medium text-gray-900">{invite.code}</code>
@@ -432,6 +436,13 @@ export function InviteCodeManager() {
                   <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${status.color}`}>
                     {status.label}
                   </span>
+                  {status.isLocalOnly && (
+                    <span title="Code not synced - only works on this device">
+                      <svg className="w-4 h-4 text-orange-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                      </svg>
+                    </span>
+                  )}
                 </div>
                 <div className="flex items-center gap-1">
                   <button
@@ -542,6 +553,25 @@ export function InviteCodeManager() {
                   {showCodeModal.maxUses === 0 ? t('profile.unlimited') || 'Unlimited' : `${showCodeModal.maxUses} use${showCodeModal.maxUses !== 1 ? 's' : ''}`}
                 </span>
               </div>
+
+              {/* Local-only warning */}
+              {showCodeModal.localOnly && (
+                <div className="bg-orange-50 border border-orange-200 rounded-lg p-3 mb-4 text-left">
+                  <div className="flex items-start gap-2">
+                    <svg className="w-5 h-5 text-orange-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                    </svg>
+                    <div>
+                      <p className="text-sm font-medium text-orange-800">
+                        {t('profile.localOnlyWarning') || 'Code not synced to cloud'}
+                      </p>
+                      <p className="text-xs text-orange-600 mt-0.5">
+                        {t('profile.localOnlyDesc') || 'This code will only work when scanned on this device. Cloud sync failed.'}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              )}
 
               {/* QR Code Display */}
               {qrCodeDataUrl && (

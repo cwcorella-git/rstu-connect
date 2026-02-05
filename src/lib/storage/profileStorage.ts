@@ -166,6 +166,7 @@ export interface InviteCode {
   revoked: boolean // Whether code has been revoked
   created: number
   expires: number // 0 = never expires
+  localOnly?: boolean // True if cloud sync failed - code only works on creator's device
 }
 
 // Profile state
@@ -357,7 +358,10 @@ export async function isProfileDeletedInDb(id: string): Promise<boolean> {
 
 // Save profile to Supabase
 async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
-  if (!supabase) return false
+  if (!supabase) {
+    log.warn('saveProfileToDb: Supabase not configured')
+    return false
+  }
 
   const dbProfile = profileToDb(profile)
 
@@ -367,6 +371,7 @@ async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
     .upsert(dbProfile, { onConflict: 'id' })
 
   if (error) {
+    log.error('saveProfileToDb error:', { code: error.code, message: error.message })
     // If we hit a duplicate email constraint, try to find and update the existing profile
     if (error.code === '23505' && error.message.includes('email')) {
       // Try to fetch the existing profile by email
@@ -384,14 +389,17 @@ async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
           .upsert(updatedProfile, { onConflict: 'id' })
 
         if (updateError) {
+          log.error('saveProfileToDb retry error:', { code: updateError.code, message: updateError.message })
           return false
         }
+        log.info('Profile saved to cloud (updated existing):', profile.id)
         return true
       }
     }
 
     return false
   }
+  log.info('Profile saved to cloud:', profile.id)
   return true
 }
 
@@ -419,6 +427,7 @@ async function fetchInviteFromDb(code: string): Promise<InviteCode | null> {
 // Save invite code to Supabase
 async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
   if (!supabase) {
+    log.warn('saveInviteToDb: Supabase not configured')
     return false
   }
 
@@ -441,11 +450,14 @@ async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
       .upsert(dbInvite, { onConflict: 'code' })
 
     if (error) {
+      log.error('saveInviteToDb failed:', { code: error.code, message: error.message })
       return false
     }
 
+    log.info('Invite code saved to cloud:', invite.code)
     return true
-  } catch {
+  } catch (err) {
+    log.error('saveInviteToDb exception:', err)
     return false
   }
 }
@@ -2108,8 +2120,12 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
   }
 
   // IMPORTANT: Sync creator's profile to Supabase first (required for foreign key constraint)
+  let profileSynced = false
   if (USE_SUPABASE) {
-    await syncProfileToCloud()
+    profileSynced = await syncProfileToCloud()
+    if (!profileSynced) {
+      log.warn('Failed to sync profile to cloud - invite code may not work on other devices')
+    }
   }
 
   const code = generateInviteCode()
@@ -2137,12 +2153,15 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
   state.inviteCodes[code] = invite
   saveProfileState(state)
 
-  // Sync to Supabase (non-blocking, uses localStorage as fallback)
+  // Sync to Supabase (required for cross-device invite code validation)
   if (USE_SUPABASE) {
-    try {
-      await saveInviteToDb(invite)
-    } catch {
-      // Code is already saved to localStorage, so users can still use it
+    const saved = await saveInviteToDb(invite)
+    if (!saved) {
+      log.warn('Invite code NOT synced to cloud - will only work on this device:', code)
+      // Mark the invite as local-only so UI can warn user
+      invite.localOnly = true
+      state.inviteCodes[code] = invite
+      saveProfileState(state)
     }
   }
 
