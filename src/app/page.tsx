@@ -502,10 +502,14 @@ export default function Home() {
       if (exists) {
         return prev.filter(b => b.apn !== building.apn);
       } else {
+        // Auto-include the currently viewed building when starting a new selection
+        if (prev.length === 0 && selectedBuilding && selectedBuilding.apn !== building.apn) {
+          return [selectedBuilding, building];
+        }
         return [...prev, building];
       }
     });
-  }, []);
+  }, [selectedBuilding]);
 
   // Handle document edit
   const handleEditDocument = async (doc: ReadingDocument) => {

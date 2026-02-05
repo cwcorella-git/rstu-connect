@@ -397,13 +397,16 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       mainMarkerColor = getGroupColor(buildingGroup);
     }
 
-    // Create custom dot element for main marker (larger than nearby markers)
+    // Create custom dot element for main marker
+    // When in linking selection, match the size of other selected markers for consistency
     const mainEl = document.createElement('div');
     mainEl.className = 'main-marker';
+    const mainSize = isInSelection ? '14px' : '18px';
+    const mainBorder = isInSelection ? '2px' : '3px';
     mainEl.style.cssText = `
-      width: 18px; height: 18px;
+      width: ${mainSize}; height: ${mainSize};
       background: ${mainMarkerColor};
-      border: 3px solid #fff;
+      border: ${mainBorder} solid #fff;
       border-radius: 50%;
       cursor: pointer;
       box-shadow: 0 2px 6px rgba(0,0,0,0.3);
@@ -500,7 +503,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         const el = document.createElement('div');
         el.className = 'linked-marker';
         // Show selection state: brighter/larger when selected
-        el.style.cssText = `width: ${isInSel ? '16px' : '14px'}; height: ${isInSel ? '16px' : '14px'}; background: ${isInSel ? '#cc0000' : color}; border: 2px solid #fff; border-radius: 50%; cursor: pointer; pointer-events: auto; user-select: none;`;
+        el.style.cssText = `width: 14px; height: 14px; background: ${isInSel ? '#cc0000' : color}; border: 2px solid #fff; border-radius: 50%; cursor: pointer; pointer-events: auto; user-select: none;`;
         el.title = `${group.name}: ${b.propertyName || b.address} (${b.units} units) - Click to view, hold or Ctrl+click to link`;
 
         const linkedMarker = new maplibregl.Marker({ element: el })
@@ -572,7 +575,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
         const isInSel = linkingSelection.some(s => s.apn === b.apn);
         const el = document.createElement('div');
         el.className = 'nearby-marker';
-        el.style.cssText = `width: 12px; height: 12px; background: ${isInSel ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer; pointer-events: auto; user-select: none;`;
+        const nearbySize = isInSel ? '14px' : '12px';
+        el.style.cssText = `width: ${nearbySize}; height: ${nearbySize}; background: ${isInSel ? '#cc0000' : '#888'}; border: 2px solid #fff; border-radius: 50%; cursor: pointer; pointer-events: auto; user-select: none;`;
         el.title = `${b.propertyName || b.address} (${b.units} units) - Click to view, hold or Ctrl+click to link`;
 
         const nearbyMarker = new maplibregl.Marker({ element: el })
