@@ -1525,29 +1525,6 @@ export function getEnhancedSuggestion(
   }
 }
 
-/**
- * Get all suggestions for a case, sorted by relevance
- */
-export function getAllSuggestions(caseData: EscalationCase): EnhancedSuggestion[] {
-  const primary = getEnhancedSuggestion(caseData)
-  const suggestions: EnhancedSuggestion[] = [primary]
-
-  // Add alternative actions as separate suggestions
-  if (primary.alternativeActions) {
-    for (const alt of primary.alternativeActions) {
-      suggestions.push({
-        ...alt,
-        confidence: 'medium',
-        urgent: false,
-        basedOn: [{ type: 'stage', detail: 'Alternative escalation option' }],
-        daysInCurrentStage: primary.daysInCurrentStage,
-      })
-    }
-  }
-
-  return suggestions
-}
-
 // ============================================================================
 // Strike Integration
 // ============================================================================
