@@ -80,36 +80,42 @@ export function ReadingCard({
           {/* Meta info - reading time, curated star, personal star */}
           <div className="mt-0.5 flex items-center gap-2 text-xs text-gray-500">
             <span>{readingTime} {t('reading.minRead') || 'min read'}</span>
-            {/* Red star - RSTU Curated (togglable by organizers/admins) */}
-            {canAccessTools() ? (
+            {/* Cycling star: standard (gray) -> favorite (yellow) -> curated (red) */}
+            {isFeatured && !canAccessTools() ? (
+              <span className="text-lg leading-none text-red-500" title={t('reading.rstuCurated') || 'RSTU Curated'}>★</span>
+            ) : (
               <button
                 onClick={(e) => {
                   e.stopPropagation()
-                  onFeature?.(document.id)
+                  if (isFeatured) {
+                    // Curated -> Standard (admin only, already guarded above)
+                    onFeature?.(document.id)
+                  } else if (isFavorited) {
+                    if (canAccessTools()) {
+                      // Favorite -> Curated
+                      onToggleFavorite?.(document.id)
+                      onFeature?.(document.id)
+                    } else {
+                      // Favorite -> Standard
+                      onToggleFavorite?.(document.id)
+                    }
+                  } else {
+                    // Standard -> Favorite
+                    onToggleFavorite?.(document.id)
+                  }
                 }}
                 className={`text-lg leading-none hover:scale-110 transition-transform ${
-                  isFeatured ? 'text-red-500' : 'text-gray-300 hover:text-red-400'
+                  isFeatured ? 'text-red-500' : isFavorited ? 'text-yellow-500' : 'text-gray-300 hover:text-yellow-400'
                 }`}
-                title={isFeatured ? t('reading.removeCurated') || 'Remove from RSTU Curated' : t('reading.addCurated') || 'Add to RSTU Curated'}
+                title={
+                  isFeatured ? t('reading.removeCurated') || 'Remove from RSTU Curated'
+                  : isFavorited ? (canAccessTools() ? t('reading.addCurated') || 'Set as RSTU Curated' : t('reading.removeFromFavorites') || 'Remove from favorites')
+                  : t('reading.addToFavorites') || 'Add to favorites'
+                }
               >
-                {isFeatured ? '★' : '☆'}
+                {isFeatured || isFavorited ? '★' : '☆'}
               </button>
-            ) : isFeatured ? (
-              <span className="text-lg leading-none text-red-500" title={t('reading.rstuCurated') || 'RSTU Curated'}>★</span>
-            ) : null}
-            {/* Yellow star - Personal favorite (always togglable) */}
-            <button
-              onClick={(e) => {
-                e.stopPropagation()
-                onToggleFavorite?.(document.id)
-              }}
-              className={`text-lg leading-none hover:scale-110 transition-transform ${
-                isFavorited ? 'text-yellow-500' : 'text-gray-300 hover:text-yellow-400'
-              }`}
-              title={isFavorited ? t('reading.removeFromFavorites') || 'Remove from favorites' : t('reading.addToFavorites') || 'Add to favorites'}
-            >
-              {isFavorited ? '★' : '☆'}
-            </button>
+            )}
           </div>
 
           {/* Progress indicator */}

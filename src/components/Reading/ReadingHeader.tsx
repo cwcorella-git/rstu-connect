@@ -184,37 +184,47 @@ export function ReadingHeader({ document, showBackButton, onBack }: ReadingHeade
         </div>
 
         <div className="flex items-center gap-3 flex-shrink-0 ml-2">
-          {/* Red star - RSTU Curated */}
-          {userCanCurate ? (
-            <button
-              onClick={handleToggleCurated}
-              className={`flex items-center gap-1 transition min-w-[44px] min-h-[44px] justify-center ${
-                isCurated
-                  ? 'text-red-500 hover:text-red-600'
-                  : 'text-gray-500 hover:text-red-400'
-              }`}
-              title={isCurated ? t('reading.removeCurated') : t('reading.addCurated')}
-            >
-              <span className="text-base">{isCurated ? '★' : '☆'}</span>
-            </button>
-          ) : isCurated ? (
+          {/* Cycling star: standard (gray) -> favorite (yellow) -> curated (red) */}
+          {isCurated && !userCanCurate ? (
             <span className="flex items-center min-w-[44px] min-h-[44px] justify-center text-red-500" title={t('reading.rstuCurated')}>
               <span className="text-base">★</span>
             </span>
-          ) : null}
-
-          {/* Yellow star - Personal favorite */}
-          <button
-            onClick={handleToggleFavorite}
-            className={`flex items-center gap-1 transition min-w-[44px] min-h-[44px] justify-center ${
-              isFavorited
-                ? 'text-yellow-500 hover:text-yellow-600'
-                : 'text-gray-500 hover:text-yellow-400'
-            }`}
-            title={isFavorited ? 'Remove from favorites' : 'Add to favorites'}
-          >
-            <span className="text-base">{isFavorited ? '★' : '☆'}</span>
-          </button>
+          ) : (
+            <button
+              onClick={() => {
+                if (isCurated) {
+                  // Curated -> Standard (admin only, guarded above)
+                  handleToggleCurated()
+                } else if (isFavorited) {
+                  if (userCanCurate) {
+                    // Favorite -> Curated
+                    handleToggleFavorite()
+                    handleToggleCurated()
+                  } else {
+                    // Favorite -> Standard
+                    handleToggleFavorite()
+                  }
+                } else {
+                  // Standard -> Favorite
+                  handleToggleFavorite()
+                }
+              }}
+              className={`flex items-center gap-1 transition min-w-[44px] min-h-[44px] justify-center ${
+                isCurated
+                  ? 'text-red-500 hover:text-red-600'
+                  : isFavorited
+                    ? 'text-yellow-500 hover:text-yellow-600'
+                    : 'text-gray-500 hover:text-yellow-400'
+              }`}
+              title={
+                isCurated ? t('reading.removeCurated')
+                : isFavorited ? (userCanCurate ? t('reading.addCurated') : t('reading.removeFromFavorites'))
+                : t('reading.addToFavorites')
+              }
+            >
+              <span className="text-base">{isCurated || isFavorited ? '★' : '☆'}</span>
+            </button>
+          )}
 
           <button
             onClick={handleShare}
