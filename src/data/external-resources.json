@@ -4070,8 +4070,58 @@
           "serviceArea": "Toàn tiểu bang"
         }
       }
+    },
+    {
+      "id": "ext-rebuilding-together-nnv",
+      "type": "external",
+      "name": "Rebuilding Together Northern Nevada",
+      "description": "Nonprofit affiliate of the national Rebuilding Together network, founded in 2020, providing critical home repairs, accessibility modifications, and safety upgrades at no cost to qualifying low-income homeowners throughout Northern Nevada. Services include roof repair, grab bars, ramps, lighting improvements, energy efficiency upgrades, and structural fixes guided by a 25-point Safe and Healthy Home Priorities Checklist developed with the National Center for Healthy Housing. Over 500 repairs provided yearly. Also runs a Fall Prevention Program for at-risk populations and Community Revitalization Partnerships improving parks, schools, and community centers.",
+      "category": "housing_services",
+      "contacts": [
+        {
+          "type": "phone",
+          "value": "(775) 395-9808"
+        },
+        {
+          "type": "website",
+          "value": "https://rebuildingtogethernnv.org"
+        },
+        {
+          "type": "address",
+          "value": "PO Box 19432, Reno, NV 89511"
+        },
+        {
+          "type": "email",
+          "value": "home@rtnnv.org"
+        }
+      ],
+      "serviceArea": "Northern Nevada (Washoe, Storey, Carson City, Churchill, Douglas, Lyon counties)",
+      "eligibility": "Low-income homeowners (≤80% AMI), seniors, veterans, people with disabilities",
+      "verified": true,
+      "translations": {
+        "es": {
+          "description": "Organización sin fines de lucro afiliada a la red nacional Rebuilding Together, fundada en 2020, que proporciona reparaciones críticas del hogar, modificaciones de accesibilidad y mejoras de seguridad sin costo para propietarios de bajos ingresos en el norte de Nevada. Los servicios incluyen reparación de techos, barras de agarre, rampas, mejoras de iluminación, mejoras de eficiencia energética y reparaciones estructurales guiadas por una lista de verificación de 25 puntos de Prioridades de Hogar Seguro y Saludable. Más de 500 reparaciones realizadas anualmente. También opera un Programa de Prevención de Caídas y Asociaciones de Revitalización Comunitaria.",
+          "eligibility": "Propietarios de bajos ingresos (≤80% AMI), personas mayores, veteranos, personas con discapacidades",
+          "serviceArea": "Norte de Nevada (condados de Washoe, Storey, Carson City, Churchill, Douglas, Lyon)"
+        },
+        "tl": {
+          "description": "Nonprofit na kaanib ng pambansang Rebuilding Together network, itinatag noong 2020, na nagbibigay ng kritikal na pag-aayos ng bahay, pagbabago para sa accessibility, at mga upgrade ng kaligtasan nang walang bayad sa mga kwalipikadong may-ari ng bahay na mababa ang kita sa Northern Nevada. Kasama sa mga serbisyo ang pag-aayos ng bubong, grab bars, ramps, pagpapabuti ng ilaw, energy efficiency upgrades, at mga structural na pag-aayos na ginagabayan ng 25-point na Safe and Healthy Home Priorities Checklist. Mahigit 500 pag-aayos bawat taon. May Fall Prevention Program at Community Revitalization Partnerships din.",
+          "eligibility": "Mga may-ari ng bahay na mababa ang kita (≤80% AMI), matatanda, beterano, may kapansanan",
+          "serviceArea": "Northern Nevada (Washoe, Storey, Carson City, Churchill, Douglas, Lyon)"
+        },
+        "zh": {
+          "description": "全国Rebuilding Together网络的非营利分支机构，成立于2020年，为北内华达州符合条件的低收入房主免费提供关键房屋维修、无障碍改造和安全升级。服务包括屋顶维修、扶手安装、坡道、照明改善、能效升级和结构修复，以25项安全健康住房优先检查清单为指导。每年完成500多项维修。还运营跌倒预防计划和社区振兴合作伙伴关系，改善公园、学校和社区中心。",
+          "eligibility": "低收入房主（≤80% AMI）、老年人、退伍军人、残疾人",
+          "serviceArea": "北内华达（瓦肖、斯托里、卡森城、丘吉尔、道格拉斯、莱昂县）"
+        },
+        "vi": {
+          "description": "Tổ chức phi lợi nhuận thuộc mạng lưới quốc gia Rebuilding Together, thành lập năm 2020, cung cấp sửa chữa nhà quan trọng, cải tạo khả năng tiếp cận và nâng cấp an toàn miễn phí cho chủ nhà thu nhập thấp đủ điều kiện tại Bắc Nevada. Dịch vụ bao gồm sửa mái, thanh vịn, đường dốc, cải thiện ánh sáng, nâng cấp hiệu suất năng lượng và sửa chữa kết cấu theo danh sách 25 điểm Ưu tiên Nhà ở An toàn và Lành mạnh. Hơn 500 sửa chữa mỗi năm. Cũng có Chương trình Phòng ngừa Ngã và Quan hệ Đối tác Phục hồi Cộng đồng.",
+          "eligibility": "Chủ nhà thu nhập thấp (≤80% AMI), người cao tuổi, cựu chiến binh, người khuyết tật",
+          "serviceArea": "Bắc Nevada (các quận Washoe, Storey, Carson City, Churchill, Douglas, Lyon)"
+        }
+      }
     }
   ],
-  "lastUpdated": "2026-01-16",
+  "lastUpdated": "2026-02-05",
   "source": "Curated from linktr.ee/renounhoused, community knowledge, and local resource directories"
 }

@@ -210,7 +210,7 @@ export function ResourceCard({ organization, onEdit, onDelete }: ResourceCardPro
       </div>
 
       {/* Description */}
-      <p className="text-sm text-gray-600 mb-3 line-clamp-2">{description}</p>
+      <p className="text-sm text-gray-600 mb-3">{description}</p>
 
       {/* Hours (if available) */}
       {hoursContact && (
