@@ -2175,34 +2175,6 @@ export async function getProfileById(id: string): Promise<UserProfile | null> {
   return state.storedProfiles.find(p => p.id === id) || null
 }
 
-// Search profiles by building (for organizers)
-export async function getProfilesByBuilding(buildingId: string): Promise<UserProfile[]> {
-  if (!USE_SUPABASE || !supabase) return []
-
-  const { data, error } = await supabase
-    .from('profiles')
-    .select('*')
-    .eq('building_id', buildingId)
-    .order('nickname')
-
-  if (error || !data) return []
-  return data.map(d => dbToProfile(d as DbProfile))
-}
-
-// Get profiles by role (for routing feedback to admins)
-export async function getProfilesByRole(role: UserRole): Promise<UserProfile[]> {
-  if (!USE_SUPABASE || !supabase) return []
-
-  const { data, error } = await supabase
-    .from('profiles')
-    .select('*')
-    .eq('role', role)
-    .order('nickname')
-
-  if (error || !data) return []
-  return data.map(d => dbToProfile(d as DbProfile))
-}
-
 // Update last active timestamp in Supabase
 export async function updateLastActiveAsync(): Promise<void> {
   const profile = getCurrentProfile()

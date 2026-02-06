@@ -919,19 +919,6 @@ export function sortCasesByUrgency(cases: EvictionCase[]): EvictionCase[] {
   return [...cases].sort((a, b) => urgencyOrder[a.urgency] - urgencyOrder[b.urgency])
 }
 
-export function sortCasesByCourtDate(cases: EvictionCase[]): EvictionCase[] {
-  return [...cases].sort((a, b) => {
-    if (!a.courtDate && !b.courtDate) return 0
-    if (!a.courtDate) return 1
-    if (!b.courtDate) return -1
-    return new Date(a.courtDate).getTime() - new Date(b.courtDate).getTime()
-  })
-}
-
-export function filterCasesByBuilding(cases: EvictionCase[], buildingApn: string): EvictionCase[] {
-  return cases.filter(c => c.buildingApn === buildingApn)
-}
-
 export function filterActiveOnly(cases: EvictionCase[]): EvictionCase[] {
   return cases.filter(c => c.stage !== 'resolved')
 }
@@ -953,7 +940,7 @@ export function getAllNevadaGuidance(): NevadaNoticeGuidance[] {
 // PREVENTION ALGORITHM
 // ============================================================================
 
-export function calculateRiskScore(profileId: string, buildingApn: string): number {
+function calculateRiskScore(profileId: string, buildingApn: string): number {
   let score = 0
 
   // Check if tenant has active eviction cases (highest risk)
