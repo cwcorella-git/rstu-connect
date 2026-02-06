@@ -121,17 +121,6 @@ export async function submitFeedback(data: SubmitFeedbackData): Promise<SubmitFe
 }
 
 /**
- * Get all feedback (for admin use - only works with localStorage fallback)
- * Supabase has RLS blocking reads from the app
- */
-export function getAllFeedback(): FeedbackItem[] {
-  const state = getLocalFeedbackState()
-  return state.items.sort((a, b) =>
-    new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
-  )
-}
-
-/**
  * Create admin notification for feedback submission
  */
 function notifyAdminsOfFeedback(data: SubmitFeedbackData): void {
