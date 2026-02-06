@@ -5456,7 +5456,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.signOut': 'Mag-sign Out',
     'profile.signOutMsg': 'Mag-sign out? Maaari kang bumalik sa pag-login mamaya.',
     'profile.settings': 'Mga Setting',
-    'profile.tenantProfile': 'Profile',
+    'profile.tenantProfile': 'Pagkakakilanlan',
     'settings.tenantInfo': 'Impormasyon ng Nangungupahan',
     'settings.language': 'Wika',
     'settings.privacy': 'Privacy at Data',
