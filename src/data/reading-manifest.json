@@ -20092,21 +20092,6 @@
       "slug": "feminist-theory-the-logic-of-gender-the-process-of-separation-and-abandonment-"
     },
     {
-      "id": "governance-app-governance-system",
-      "title": "App Governance System",
-      "author": "RSTU Connect",
-      "date": "2026",
-      "filename": "App_Governance_System.md",
-      "category": "Governance",
-      "excerpt": "App Governance System\n\nRSTU Connect uses a democratic governance system where organizers who have built tenant power can vote on app-wide decisions. This document explains how the system works.",
-      "wordCount": 1059,
-      "lastModified": "2026-01-17T03:50:35.157Z",
-      "tags": [
-        "wikipedia"
-      ],
-      "slug": "governance-app-governance-system"
-    },
-    {
       "id": "housing-just-get-to-know-your-neighbors-south-side-weekly",
       "title": "“Just Get to Know Your Neighbors” – South Side Weekly",
       "author": "Emeline Posner",
@@ -32396,21 +32381,6 @@
       "slug": "organizing-response-to-greg-butler-s-critique-of-the-green-new-deal-and-the-rank-and-file-strategy"
     },
     {
-      "id": "organizing-rstu-connect-governance-guide",
-      "title": "RSTU Connect Governance Guide",
-      "author": "Reno-Sparks Tenants Union",
-      "date": "2026",
-      "filename": "rstu-connect-governance-guide.md",
-      "category": "Organizing",
-      "excerpt": "RSTU Connect Governance Guide\n\nThis document explains the democratic systems built into RSTU Connect, Nevada's first tenant organizing platform. These systems ensure that power flows from tenants,",
-      "wordCount": 2024,
-      "lastModified": "2026-01-21T11:31:25.762Z",
-      "tags": [
-        "RSTU"
-      ],
-      "slug": "organizing-rstu-connect-governance-guide"
-    },
-    {
       "id": "organizing-solidarity-is-not-enough",
       "title": "Solidarity is Not Enough",
       "author": "Industrial Workers of the World",
@@ -39201,7 +39171,6 @@
     "Economic Alternatives",
     "Environmental Justice",
     "Feminist Theory",
-    "Governance",
     "Housing",
     "International Solidarity",
     "Labor",
@@ -39212,5 +39181,5 @@
     "Theory",
     "Youth Student Organizing"
   ],
-  "totalDocuments": 2388
+  "totalDocuments": 2386
 }

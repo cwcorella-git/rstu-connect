@@ -5,6 +5,7 @@ const log = createLogger('Onboarding')
 import { useState, useEffect, useRef } from 'react';
 import type { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { searchProperties, USE_SUPABASE } from '@/lib/services/supabase';
+import { useLanguage } from '@/contexts/LanguageContext';
 import type { OnboardingFormData } from '../types';
 
 interface StepBuildingProps {
@@ -51,6 +52,7 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
 }
 
 export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuildingProps) {
+  const { t } = useLanguage();
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<EnhancedBuilding[]>([]);
   const [isSearching, setIsSearching] = useState(false);
@@ -204,9 +206,9 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
     <div className="space-y-6">
       {/* Header */}
       <div>
-        <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">Your Property (Optional)</h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">{t('onboarding.propertyTitle')}</h2>
         <p className="text-sm sm:text-base text-gray-600">
-          Connect with neighbors in your building. You can skip this and add it later if you prefer.
+          {t('onboarding.propertyDesc')}
         </p>
       </div>
 
@@ -214,7 +216,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
       {!selectedBuilding && (
         <div className="space-y-3">
           <label htmlFor="building-search" className="block text-sm font-medium text-gray-700">
-            Building Search
+            {t('onboarding.buildingSearch')}
           </label>
 
           <div className="relative">
@@ -224,7 +226,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               onFocus={() => searchQuery && setShowResults(true)}
-              placeholder="Search by address, owner, or APN..."
+              placeholder={t('onboarding.buildingSearchPlaceholder')}
               className="w-full px-4 py-3 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
             />
 
@@ -253,7 +255,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
                 >
                   <p className="font-medium text-sm text-gray-900">{building.address}</p>
                   <p className="text-xs text-gray-500 mt-0.5">
-                    {building.owner} · {building.units} units
+                    {building.owner} · {building.units} {t('onboarding.units')}
                   </p>
                 </button>
               ))}
@@ -262,7 +264,7 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
 
           {showResults && searchQuery && searchResults.length === 0 && !isSearching && (
             <div className="p-3 bg-blue-50 border border-blue-200 rounded-lg">
-              <p className="text-sm text-blue-800">No buildings found. Try a different search or skip to continue.</p>
+              <p className="text-sm text-blue-800">{t('onboarding.noBuildingsFound')}</p>
             </div>
           )}
         </div>
@@ -275,13 +277,13 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
             <div className="flex-1">
               <p className="text-sm font-semibold text-gray-900">{selectedBuilding.address}</p>
               <p className="text-xs text-gray-600 mt-1">
-                Owner: {selectedBuilding.owner} · {selectedBuilding.units} units
+                {t('onboarding.owner')} {selectedBuilding.owner} · {selectedBuilding.units} {t('onboarding.units')}
               </p>
             </div>
             <button
               onClick={handleClearBuilding}
               className="flex-shrink-0 ml-3 text-green-700 hover:text-green-900"
-              aria-label="Change building"
+              aria-label={t('onboarding.changeBuilding')}
             >
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                 <path
@@ -296,14 +298,14 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
           {/* Unit number input */}
           <div className="mt-4">
             <label htmlFor="unit-number" className="block text-xs font-medium text-gray-700 mb-1">
-              Unit Number (optional)
+              {t('onboarding.unitNumber')}
             </label>
             <input
               id="unit-number"
               type="text"
               value={unitNumber}
               onChange={(e) => handleUnitChange(e.target.value)}
-              placeholder="e.g., 101, A2"
+              placeholder={t('onboarding.unitNumberPlaceholder')}
               className="w-full px-3 py-2 border border-gray-300 rounded text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
             />
           </div>
@@ -313,17 +315,14 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
       {/* Info section */}
       <div className="p-4 bg-blue-50 border border-blue-200 rounded-lg">
         <p className="text-sm text-blue-800 leading-relaxed">
-          <strong>Why connect to your property?</strong> This lets you chat with neighbors, coordinate on
-          building issues, and build collective power together.
+          <strong>{t('onboarding.whyConnect')}</strong> {t('onboarding.whyConnectDesc')}
         </p>
       </div>
 
       {/* Privacy notice */}
       <div className="p-4 bg-green-50 border border-green-200 rounded-lg">
         <p className="text-xs text-green-800">
-          <strong>Shared with organizers only:</strong> Your property selection is visible only to verified
-          organizers and neighbors in your building. Landlords and property managers cannot access this
-          information.
+          <strong>{t('onboarding.sharedWithOrganizersOnly')}</strong> {t('onboarding.propertyPrivacyDesc')}
         </p>
       </div>
     </div>

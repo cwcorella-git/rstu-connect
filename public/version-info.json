@@ -1,8 +1,8 @@
 {
-  "commit": "c9febfcd",
-  "message": "Fix 'Profile not found' when voting on app governance",
+  "commit": "6ac3f886",
+  "message": "Add i18n translations for eviction defense components",
   "author": "cwcorella-git",
-  "date": "2026-02-04 20:27:24 -0800",
+  "date": "2026-02-05 23:43:13 -0800",
   "branch": "main",
-  "buildTime": "2026-02-05T04:37:20.492Z"
+  "buildTime": "2026-02-06T07:55:39.150Z"
 }

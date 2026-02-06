@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { isEmailAvailable } from '@/lib/storage/profileStorage';
 import { getFieldError } from '../utils';
+import { useLanguage } from '@/contexts/LanguageContext';
 import type { OnboardingFormData, ValidateEmailResult } from '../types';
 
 interface StepIdentityProps {
@@ -17,6 +18,7 @@ export function StepIdentity({
   onFormDataChange,
   onEmailValidation,
 }: StepIdentityProps) {
+  const { t } = useLanguage();
   const [email, setEmail] = useState(formData.email);
   const [nickname, setNickname] = useState(formData.nickname);
   const [emailError, setEmailError] = useState<string | null>(null);
@@ -95,13 +97,13 @@ export function StepIdentity({
           onEmailValidation({ available: true });
         } else {
           const errorMsg = result.existingNickname
-            ? `Email already registered to ${result.existingNickname}`
-            : 'Email already in use';
+            ? `${t('onboarding.emailAlreadyRegisteredTo')} ${result.existingNickname}`
+            : t('onboarding.emailAlreadyInUse');
           setEmailError(errorMsg);
           onEmailValidation({ available: false, error: errorMsg });
         }
       } catch (err) {
-        const message = err instanceof Error ? err.message : 'Could not validate email';
+        const message = err instanceof Error ? err.message : t('onboarding.couldNotValidateEmail');
         setEmailError(message);
         onEmailValidation({ available: false, error: message });
       } finally {
@@ -120,16 +122,16 @@ export function StepIdentity({
     <div className="space-y-6">
       {/* Header */}
       <div>
-        <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">About You</h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2">{t('onboarding.aboutYou')}</h2>
         <p className="text-sm sm:text-base text-gray-600">
-          Choose how you&apos;d like to appear to neighbors in your building community.
+          {t('onboarding.aboutYouDesc')}
         </p>
       </div>
 
       {/* Nickname field */}
       <div>
         <label htmlFor="nickname" className="block text-sm font-medium text-gray-700 mb-2">
-          Nickname <span className="text-rstu-red">*</span>
+          {t('onboarding.nickname')} <span className="text-rstu-red">*</span>
         </label>
         <input
           ref={autoFocusRef}
@@ -137,7 +139,7 @@ export function StepIdentity({
           type="text"
           value={nickname}
           onChange={(e) => handleNicknameChange(e.target.value)}
-          placeholder="How should we call you?"
+          placeholder={t('onboarding.nicknamePlaceholder')}
           maxLength={30}
           className={`w-full px-4 py-3 border rounded-lg text-base font-medium focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
             nicknameError ? 'border-red-500 bg-red-50' : 'border-gray-300'
@@ -145,17 +147,17 @@ export function StepIdentity({
         />
         {nicknameError && <p className="text-xs sm:text-sm text-red-600 mt-2">{nicknameError}</p>}
         <p className="text-xs text-gray-500 mt-2">
-          No real name required. Be creative! You can always change this later.
+          {t('onboarding.nicknameHint')}
         </p>
         <p className="text-xs text-gray-400 mt-1">
-          {nickname.length}/30 characters
+          {nickname.length}/30 {t('onboarding.characters')}
         </p>
       </div>
 
       {/* Email field */}
       <div>
         <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
-          Email <span className="text-rstu-red">*</span>
+          {t('onboarding.email')} <span className="text-rstu-red">*</span>
         </label>
 
         <div className="relative">
@@ -164,7 +166,7 @@ export function StepIdentity({
             type="email"
             value={email}
             onChange={(e) => handleEmailChange(e.target.value)}
-            placeholder="your@email.com"
+            placeholder={t('onboarding.emailPlaceholder')}
             className={`w-full px-4 py-3 border rounded-lg text-base font-medium focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
               emailError ? 'border-red-500 bg-red-50' : 'border-gray-300'
             }`}
@@ -207,16 +209,14 @@ export function StepIdentity({
         {emailError && <p className="text-xs sm:text-sm text-red-600 mt-2">{emailError}</p>}
 
         <p className="text-xs text-gray-500 mt-2">
-          Used for account recovery and organizing updates. Each email can only be used once.
+          {t('onboarding.emailHint')}
         </p>
       </div>
 
       {/* Progressive info section */}
       <div className="p-4 bg-green-50 border border-green-200 rounded-lg">
         <p className="text-xs sm:text-sm text-green-800 leading-relaxed">
-          <strong>Shared with organizers only:</strong> Your email and nickname are visible only to verified
-          organizers and neighbors in your building. We never share your information with landlords,
-          property managers, or any third parties.
+          <strong>{t('onboarding.sharedWithOrganizersOnly')}</strong> {t('onboarding.identityPrivacyDesc')}
         </p>
       </div>
     </div>

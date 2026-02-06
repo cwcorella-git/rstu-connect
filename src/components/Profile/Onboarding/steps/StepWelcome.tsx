@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { validateInviteCodeAsync } from '@/lib/storage/profileStorage';
 import { sanitizeInviteCode, getInviteCodeFromUrl } from '../utils';
+import { useLanguage } from '@/contexts/LanguageContext';
 import type { OnboardingFormData } from '../types';
 
 interface StepWelcomeProps {
@@ -12,6 +13,7 @@ interface StepWelcomeProps {
 }
 
 export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: StepWelcomeProps) {
+  const { t } = useLanguage();
   const [localInviteCode, setLocalInviteCode] = useState(formData.inviteCode || '');
   const [isValidating, setIsValidating] = useState(false);
   const [validationResult, setValidationResult] = useState<any>(null);
@@ -21,7 +23,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
   // Handle invite code validation
   const handleValidateInvite = async () => {
     if (!localInviteCode.trim()) {
-      onInviteValidation({ valid: false, error: 'Please enter an invite code' });
+      onInviteValidation({ valid: false, error: t('onboarding.pleaseEnterInviteCode') });
       setHasAttempted(true);
       return;
     }
@@ -43,7 +45,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
         onInviteValidation({ valid: false, error: result.error });
       }
     } catch (err) {
-      const message = err instanceof Error ? err.message : 'Failed to validate invite code';
+      const message = err instanceof Error ? err.message : t('onboarding.failedToValidateInvite');
       onInviteValidation({ valid: false, error: message });
       setValidationResult({ valid: false, error: message });
     } finally {
@@ -101,7 +103,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
             onInviteValidation({ valid: false, error: result.error });
           }
         } catch (err) {
-          const message = err instanceof Error ? err.message : 'Failed to validate invite code';
+          const message = err instanceof Error ? err.message : t('onboarding.failedToValidateInvite');
           onInviteValidation({ valid: false, error: message });
           setValidationResult({ valid: false, error: message });
         } finally {
@@ -118,17 +120,16 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
     <div className="space-y-6">
       {/* Welcome message */}
       <div>
-        <h2 className="text-2xl font-bold text-gray-900 mb-2">Welcome to RSTU</h2>
+        <h2 className="text-2xl font-bold text-gray-900 mb-2">{t('onboarding.welcomeTitle')}</h2>
         <p className="text-gray-600">
-          Join your building community and connect with neighbors. Your information stays private and is
-          never shared with landlords.
+          {t('onboarding.welcomeDesc')}
         </p>
       </div>
 
       {/* Invite code input section */}
       <div className="space-y-3">
         <label htmlFor="invite-code" className="block text-sm font-medium text-gray-700">
-          Invite Code <span className="text-rstu-red">*</span>
+          {t('onboarding.inviteCode')} <span className="text-rstu-red">*</span>
         </label>
 
         <div className="flex gap-2">
@@ -138,7 +139,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
             value={localInviteCode}
             onChange={(e) => handleInputChange(e.target.value)}
             onKeyDown={handleKeyDown}
-            placeholder="Enter your invite code..."
+            placeholder={t('onboarding.inviteCodePlaceholder')}
             className={`flex-1 px-4 py-3 border rounded-lg text-sm font-medium uppercase placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
               validationResult?.valid
                 ? 'border-green-500 bg-green-50'
@@ -175,7 +176,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
                 />
               </svg>
             ) : (
-              'Check'
+              t('onboarding.check')
             )}
           </button>
         </div>
@@ -192,10 +193,10 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
                 />
               </svg>
               <span>
-                <strong>Invite code valid!</strong>
+                <strong>{t('onboarding.inviteCodeValid')}</strong>
                 {validationResult.createdBy && (
                   <span className="block text-xs mt-1">
-                    Invited by <strong>{validationResult.createdBy}</strong>
+                    {t('onboarding.invitedBy')} <strong>{validationResult.createdBy}</strong>
                   </span>
                 )}
               </span>
@@ -213,7 +214,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
                   clipRule="evenodd"
                 />
               </svg>
-              <span>{validationResult?.error || 'Invalid invite code'}</span>
+              <span>{validationResult?.error || t('onboarding.invalidInviteCode')}</span>
             </p>
           </div>
         )}
@@ -222,8 +223,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
       {/* Info section */}
       <div className="p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
         <p className="text-sm text-yellow-800">
-          <strong>Invite codes</strong> help us verify you&apos;re a real tenant and protect our community from
-          bad actors. If you don&apos;t have one yet, ask a neighbor, organizer, or reach out at{' '}
+          {t('onboarding.inviteCodeInfo')}{' '}
           <a href="mailto:contact@renosparkstenantsunion.org" className="underline">contact@renosparkstenantsunion.org</a>
         </p>
       </div>
@@ -231,9 +231,7 @@ export function StepWelcome({ formData, onFormDataChange, onInviteValidation }: 
       {/* Privacy notice */}
       <div className="p-4 bg-green-50 border border-green-200 rounded-lg">
         <p className="text-xs text-green-800">
-          <strong>Your privacy is protected:</strong> All information you share is visible only to verified
-          organizers and neighbors in your building. We never share data with landlords, property managers,
-          or third parties.
+          <strong>{t('onboarding.privacyProtected')}</strong> {t('onboarding.privacyProtectedDesc')}
         </p>
       </div>
     </div>
