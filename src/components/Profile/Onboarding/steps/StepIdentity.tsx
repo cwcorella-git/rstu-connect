@@ -2,27 +2,34 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { isEmailAvailable } from '@/lib/storage/profileStorage';
+import { validatePassword } from '@/lib/services/supabaseAuth';
 import { getFieldError } from '../utils';
 import { useLanguage } from '@/contexts/LanguageContext';
-import type { OnboardingFormData, ValidateEmailResult } from '../types';
+import type { OnboardingFormData, ValidateEmailResult, ValidatePasswordResult } from '../types';
 
 interface StepIdentityProps {
   formData: OnboardingFormData;
   onFormDataChange: (data: OnboardingFormData) => void;
   onEmailValidation: (result: ValidateEmailResult) => void;
+  onPasswordValidation: (result: ValidatePasswordResult) => void;
   emailValidation?: ValidateEmailResult;
+  passwordValidation?: ValidatePasswordResult;
 }
 
 export function StepIdentity({
   formData,
   onFormDataChange,
   onEmailValidation,
+  onPasswordValidation,
 }: StepIdentityProps) {
   const { t } = useLanguage();
   const [email, setEmail] = useState(formData.email);
   const [nickname, setNickname] = useState(formData.nickname);
+  const [password, setPassword] = useState(formData.password);
   const [emailError, setEmailError] = useState<string | null>(null);
   const [nicknameError, setNicknameError] = useState<string | null>(null);
+  const [passwordError, setPasswordError] = useState<string | null>(null);
+  const [showPassword, setShowPassword] = useState(false);
   const [isValidatingEmail, setIsValidatingEmail] = useState(false);
   const emailCheckTimeout = useRef<NodeJS.Timeout | null>(null);
   const autoFocusRef = useRef<HTMLInputElement>(null);
@@ -63,6 +70,27 @@ export function StepIdentity({
       email: normalizedEmail,
     });
   }, [onFormDataChange]);
+
+  // Handle password change - validate and update parent
+  const handlePasswordChange = useCallback((value: string) => {
+    setPassword(value);
+
+    // Validate password
+    const result = validatePassword(value);
+    if (result.valid) {
+      setPasswordError(null);
+      onPasswordValidation({ valid: true });
+    } else {
+      setPasswordError(result.error || null);
+      onPasswordValidation({ valid: false, error: result.error });
+    }
+
+    // Update parent form data
+    onFormDataChange({
+      ...formDataRef.current,
+      password: value,
+    });
+  }, [onFormDataChange, onPasswordValidation]);
 
   // Debounced email validation effect
   useEffect(() => {
@@ -210,6 +238,51 @@ export function StepIdentity({
 
         <p className="text-xs text-gray-500 mt-2">
           {t('onboarding.emailHint')}
+        </p>
+      </div>
+
+      {/* Password field */}
+      <div>
+        <label htmlFor="password" className="block text-sm font-medium text-gray-700 mb-2">
+          {t('onboarding.password')} <span className="text-rstu-red">*</span>
+        </label>
+
+        <div className="relative">
+          <input
+            id="password"
+            type={showPassword ? 'text' : 'password'}
+            value={password}
+            onChange={(e) => handlePasswordChange(e.target.value)}
+            placeholder={t('onboarding.passwordPlaceholder')}
+            className={`w-full px-4 py-3 pr-12 border rounded-lg text-base font-medium focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent transition-all ${
+              passwordError ? 'border-red-500 bg-red-50' : password && !passwordError ? 'border-green-500' : 'border-gray-300'
+            }`}
+          />
+
+          {/* Show/hide password toggle */}
+          <button
+            type="button"
+            onClick={() => setShowPassword(!showPassword)}
+            className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+            aria-label={showPassword ? t('onboarding.hidePassword') : t('onboarding.showPassword')}
+          >
+            {showPassword ? (
+              <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21" />
+              </svg>
+            ) : (
+              <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+              </svg>
+            )}
+          </button>
+        </div>
+
+        {passwordError && <p className="text-xs sm:text-sm text-red-600 mt-2">{passwordError}</p>}
+
+        <p className="text-xs text-gray-500 mt-2">
+          {t('onboarding.passwordHint')}
         </p>
       </div>
 

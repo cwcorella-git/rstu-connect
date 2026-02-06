@@ -2,10 +2,11 @@
 
 import { useEffect, useState, useCallback } from 'react';
 import { createProfileAsync, getCurrentProfile } from '@/lib/storage/profileStorage';
+import { signUpWithEmail, isSupabaseAuthAvailable } from '@/lib/services/supabaseAuth';
 import type { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { usePushNotifications } from '@/hooks/usePushNotifications';
-import type { OnboardingFormData, OnboardingStep } from './types';
+import type { OnboardingFormData, OnboardingStep, ValidatePasswordResult } from './types';
 import {
   getNextStep,
   getPreviousStep,
@@ -42,6 +43,7 @@ export function ProfileOnboardingWizard({
   const [formData, setFormData] = useState<OnboardingFormData>({
     nickname: '',
     email: '',
+    password: '',
   });
   const [completedSteps, setCompletedSteps] = useState<Set<OnboardingStep>>(new Set());
   const [isLoading, setIsLoading] = useState(false);
@@ -52,9 +54,13 @@ export function ProfileOnboardingWizard({
 
   const { subscribe: subscribeNotifications, isSupported: notifSupported } = usePushNotifications(createdProfileId);
 
-  // Validation state for email, invite, and email verification
+  // Validation state for email, password, invite, and email verification
   const [emailValidation, setEmailValidation] = useState({
     available: false,
+    error: undefined as string | undefined,
+  });
+  const [passwordValidation, setPasswordValidation] = useState({
+    valid: false,
     error: undefined as string | undefined,
   });
   const [inviteValidation, setInviteValidation] = useState({
@@ -99,6 +105,8 @@ export function ProfileOnboardingWizard({
   const canProceed = canProceedFromStep(currentStep, formData, {
     emailAvailable: emailValidation.available,
     emailError: emailValidation.error,
+    passwordValid: passwordValidation.valid,
+    passwordError: passwordValidation.error,
     inviteValid: inviteValidation.valid,
     inviteError: inviteValidation.error,
   });
@@ -115,7 +123,19 @@ export function ProfileOnboardingWizard({
     });
 
     try {
-      // Race between profile creation and timeout
+      // Step 1: Create Supabase Auth user with email/password (if available)
+      if (isSupabaseAuthAvailable()) {
+        const authResult = await signUpWithEmail(formData.email, formData.password);
+        if (!authResult.success) {
+          // Auth creation failed
+          setError(authResult.error || 'Failed to create account');
+          setIsLoading(false);
+          return;
+        }
+        // Note: authResult.needsEmailVerification may be true - user can still use app
+      }
+
+      // Step 2: Create the profile (race between profile creation and timeout)
       const profile = await Promise.race([
         createProfileAsync({
           nickname: formData.nickname,
@@ -230,12 +250,20 @@ export function ProfileOnboardingWizard({
     });
   }, []);
 
+  const handlePasswordValidation = useCallback((result: { valid: boolean; error?: string }) => {
+    setPasswordValidation({
+      valid: result.valid,
+      error: result.error,
+    });
+  }, []);
+
   // Render current step
   const renderCurrentStep = () => {
     const stepProps = {
       formData,
       onFormDataChange: setFormData,
       onEmailValidation: handleEmailValidation,
+      onPasswordValidation: handlePasswordValidation,
       onInviteValidation: handleInviteValidation,
     };
 
@@ -243,7 +271,7 @@ export function ProfileOnboardingWizard({
       case 'welcome':
         return <StepWelcome {...stepProps} />;
       case 'identity':
-        return <StepIdentity {...stepProps} emailValidation={emailValidation} />;
+        return <StepIdentity {...stepProps} emailValidation={emailValidation} passwordValidation={passwordValidation} />;
       case 'building':
         return <StepBuilding {...stepProps} buildings={buildings} />;
       case 'household':

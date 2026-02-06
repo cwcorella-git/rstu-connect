@@ -1,4 +1,4 @@
-import { OnboardingFormData, OnboardingStep, ValidateEmailResult } from './types';
+import { OnboardingFormData, OnboardingStep, ValidateEmailResult, ValidatePasswordResult } from './types';
 
 /**
  * Get the next step in the wizard sequence
@@ -83,6 +83,8 @@ export function canProceedFromStep(
   validation: {
     emailAvailable?: boolean;
     emailError?: string;
+    passwordValid?: boolean;
+    passwordError?: string;
     inviteValid?: boolean;
     inviteError?: string;
   }
@@ -93,12 +95,14 @@ export function canProceedFromStep(
       return validation.inviteValid === true;
 
     case 'identity':
-      // Both nickname and email required, email must be available (unique)
+      // Nickname, email, and password required; email must be available (unique)
       return (
         formData.nickname.length >= 2 &&
         formData.email.length > 0 &&
         validateEmailFormat(formData.email) &&
-        validation.emailAvailable === true
+        validation.emailAvailable === true &&
+        formData.password.length >= 8 &&
+        validation.passwordValid === true
       );
 
     case 'building':
@@ -116,7 +120,9 @@ export function canProceedFromStep(
         formData.nickname.length >= 2 &&
         formData.email.length > 0 &&
         validateEmailFormat(formData.email) &&
-        validation.emailAvailable === true
+        validation.emailAvailable === true &&
+        formData.password.length >= 8 &&
+        validation.passwordValid === true
       );
 
     default:

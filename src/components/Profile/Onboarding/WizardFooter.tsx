@@ -169,10 +169,6 @@ export function WizardFooter({
         </button>
       )}
 
-      {/* Mobile-only: Show step indicator */}
-      <p className="text-xs text-center text-gray-400 sm:hidden mt-2">
-        {currentStep === 'review' ? 'Almost done!' : 'One more step...'}
-      </p>
     </div>
   );
 }
