@@ -69,7 +69,8 @@ const STATUS_OPTIONS: ContactStatus[] = [
   'ACTIVE_MEMBER',
 ]
 
-const DAYS_OF_WEEK = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+// Day keys for translation lookup
+const DAY_KEYS = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun']
 
 export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onSave }: UnitIntakeFormProps) {
   const { t } = useLanguage()
@@ -352,59 +353,59 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           {/* Unit Details */}
           <Section id="unit" title={t('tools.unitDetails') || 'Unit Details'} isExpanded={expandedSections.has('unit')} onToggle={toggleSection}>
             <div>
-              <label className="text-xs text-gray-500 block mb-1">Unit Type</label>
+              <label className="text-xs text-gray-500 block mb-1">{t('tools.unitType')}</label>
               <select
                 value={formData.unitType ?? ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, unitType: e.target.value === '' ? undefined : e.target.value as typeof formData.unitType }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
               >
                 <option value="">--</option>
-                <option value="apartment">Apartment</option>
-                <option value="house">House</option>
-                <option value="townhouse">Townhouse</option>
-                <option value="duplex">Duplex</option>
-                <option value="condo">Condo</option>
-                <option value="mobile">Mobile Home</option>
-                <option value="room">Room</option>
+                <option value="apartment">{t('tools.unitType.apartment')}</option>
+                <option value="house">{t('tools.unitType.house')}</option>
+                <option value="townhouse">{t('tools.unitType.townhouse')}</option>
+                <option value="duplex">{t('tools.unitType.duplex')}</option>
+                <option value="condo">{t('tools.unitType.condo')}</option>
+                <option value="mobile">{t('tools.unitType.mobile')}</option>
+                <option value="room">{t('tools.unitType.room')}</option>
               </select>
             </div>
             <div className="grid grid-cols-2 gap-3">
               <div>
-                <label className="text-xs text-gray-500 block mb-1">Bedrooms</label>
+                <label className="text-xs text-gray-500 block mb-1">{t('tools.bedrooms')}</label>
                 <select
                   value={formData.bedroomCount ?? ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, bedroomCount: e.target.value === '' ? undefined : parseInt(e.target.value) }))}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
                 >
                   <option value="">--</option>
-                  <option value="0">Studio</option>
-                  <option value="1">1 BR</option>
-                  <option value="2">2 BR</option>
-                  <option value="3">3 BR</option>
-                  <option value="4">4+ BR</option>
+                  <option value="0">{t('tools.bedrooms.studio')}</option>
+                  <option value="1">{t('tools.bedrooms.1br')}</option>
+                  <option value="2">{t('tools.bedrooms.2br')}</option>
+                  <option value="3">{t('tools.bedrooms.3br')}</option>
+                  <option value="4">{t('tools.bedrooms.4br')}</option>
                 </select>
               </div>
               <div>
-                <label className="text-xs text-gray-500 block mb-1">Bathrooms</label>
+                <label className="text-xs text-gray-500 block mb-1">{t('tools.bathrooms')}</label>
                 <select
                   value={formData.bathroomCount ?? ''}
                   onChange={(e) => setFormData(prev => ({ ...prev, bathroomCount: e.target.value === '' ? undefined : parseFloat(e.target.value) }))}
                   className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
                 >
                   <option value="">--</option>
-                  <option value="1">1 BA</option>
-                  <option value="1.5">1.5 BA</option>
-                  <option value="2">2 BA</option>
-                  <option value="2.5">2.5 BA</option>
-                  <option value="3">3+ BA</option>
+                  <option value="1">{t('tools.bathrooms.1ba')}</option>
+                  <option value="1.5">{t('tools.bathrooms.15ba')}</option>
+                  <option value="2">{t('tools.bathrooms.2ba')}</option>
+                  <option value="2.5">{t('tools.bathrooms.25ba')}</option>
+                  <option value="3">{t('tools.bathrooms.3ba')}</option>
                 </select>
               </div>
             </div>
             <div>
-              <label className="text-xs text-gray-500 block mb-1">Square Feet</label>
+              <label className="text-xs text-gray-500 block mb-1">{t('tools.sqft')}</label>
               <input
                 type="number"
-                placeholder="e.g., 750"
+                placeholder={t('tools.sqftPlaceholder')}
                 value={formData.unitSqft || ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, unitSqft: parseInt(e.target.value) || undefined }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -418,22 +419,22 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
               <span className="text-gray-600 text-sm pt-2">$</span>
               <input
                 type="number"
-                placeholder="Rent amount"
+                placeholder={t('tools.rentAmount')}
                 value={formData.rentAmount || ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, rentAmount: parseInt(e.target.value) || undefined }))}
                 className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
               />
-              <span className="text-gray-600 text-sm pt-2">/month</span>
+              <span className="text-gray-600 text-sm pt-2">{t('tools.perMonth')}</span>
             </div>
             <input
               type="text"
-              placeholder="Move-in date (e.g., 2019 or Jan 2020)"
+              placeholder={t('tools.moveInDate')}
               value={formData.moveInDate}
               onChange={(e) => setFormData(prev => ({ ...prev, moveInDate: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <div className="flex gap-4 text-sm">
-              <span className="text-gray-600">Lease:</span>
+              <span className="text-gray-600">{t('tools.lease')}:</span>
               <label className="flex items-center gap-1">
                 <input
                   type="radio"
@@ -441,7 +442,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.leaseType === 'fixed'}
                   onChange={() => setFormData(prev => ({ ...prev, leaseType: 'fixed' }))}
                 />
-                Fixed-term
+                {t('tools.leaseFixed')}
               </label>
               <label className="flex items-center gap-1">
                 <input
@@ -450,23 +451,23 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.leaseType === 'month-to-month'}
                   onChange={() => setFormData(prev => ({ ...prev, leaseType: 'month-to-month' }))}
                 />
-                Month-to-month
+                {t('tools.leaseMonthly')}
               </label>
             </div>
             {formData.leaseType === 'fixed' && (
               <input
                 type="text"
-                placeholder="Lease expires (e.g., March 2025)"
+                placeholder={t('tools.leaseExpires')}
                 value={formData.leaseExpires}
                 onChange={(e) => setFormData(prev => ({ ...prev, leaseExpires: e.target.value }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
               />
             )}
             <div className="flex gap-2">
-              <span className="text-gray-600 text-sm pt-2">Deposit: $</span>
+              <span className="text-gray-600 text-sm pt-2">{t('tools.deposit')}: $</span>
               <input
                 type="number"
-                placeholder="Security deposit"
+                placeholder={t('tools.securityDeposit')}
                 value={formData.securityDeposit || ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, securityDeposit: parseInt(e.target.value) || undefined }))}
                 className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -474,7 +475,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
             </div>
             <input
               type="text"
-              placeholder="Deposit issues (if any)"
+              placeholder={t('tools.depositIssues')}
               value={formData.depositIssues}
               onChange={(e) => setFormData(prev => ({ ...prev, depositIssues: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -485,33 +486,33 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           <Section id="schedule" title={t('tools.schedule') || 'Schedule & Availability'} isExpanded={expandedSections.has('schedule')} onToggle={toggleSection}>
             <input
               type="text"
-              placeholder="Work hours (e.g., 9-5 M-F)"
+              placeholder={t('tools.workHours')}
               value={formData.workHours}
               onChange={(e) => setFormData(prev => ({ ...prev, workHours: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <input
               type="text"
-              placeholder="Best time to reach"
+              placeholder={t('tools.bestTimeToReach')}
               value={formData.bestTimeToReach}
               onChange={(e) => setFormData(prev => ({ ...prev, bestTimeToReach: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <div>
-              <span className="text-sm text-gray-600 mb-2 block">Best days:</span>
+              <span className="text-sm text-gray-600 mb-2 block">{t('tools.bestDays')}:</span>
               <div className="flex flex-wrap gap-2">
-                {DAYS_OF_WEEK.map(day => (
+                {DAY_KEYS.map(dayKey => (
                   <button
-                    key={day}
+                    key={dayKey}
                     type="button"
-                    onClick={() => toggleDay(day)}
+                    onClick={() => toggleDay(dayKey)}
                     className={`px-3 py-1 rounded-full text-sm ${
-                      formData.bestDays?.includes(day)
+                      formData.bestDays?.includes(dayKey)
                         ? 'bg-rstu-red text-white'
                         : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                     }`}
                   >
-                    {day}
+                    {t(`tools.days.${dayKey}`)}
                   </button>
                 ))}
               </div>
@@ -534,7 +535,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
               ))}
             </div>
             <textarea
-              placeholder="Complaint details..."
+              placeholder={t('tools.complaintDetails')}
               value={formData.complaintDetails}
               onChange={(e) => setFormData(prev => ({ ...prev, complaintDetails: e.target.value }))}
               rows={3}
@@ -545,7 +546,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           {/* Maintenance */}
           <Section id="maintenance" title={t('tools.maintenance') || 'Maintenance Experience'} isExpanded={expandedSections.has('maintenance')} onToggle={toggleSection}>
             <div className="flex gap-4 text-sm">
-              <span className="text-gray-600">Reliability:</span>
+              <span className="text-gray-600">{t('tools.reliability')}:</span>
               <label className="flex items-center gap-1">
                 <input
                   type="radio"
@@ -553,7 +554,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.maintenanceRating === 'good'}
                   onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'good' }))}
                 />
-                Good
+                {t('tools.rating.good')}
               </label>
               <label className="flex items-center gap-1">
                 <input
@@ -562,7 +563,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.maintenanceRating === 'ok'}
                   onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'ok' }))}
                 />
-                OK
+                {t('tools.rating.ok')}
               </label>
               <label className="flex items-center gap-1">
                 <input
@@ -571,19 +572,19 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.maintenanceRating === 'bad'}
                   onChange={() => setFormData(prev => ({ ...prev, maintenanceRating: 'bad' }))}
                 />
-                Bad
+                {t('tools.rating.bad')}
               </label>
             </div>
             <input
               type="number"
-              placeholder="Avg response time (days)"
+              placeholder={t('tools.avgResponseDays')}
               value={formData.avgResponseDays || ''}
               onChange={(e) => setFormData(prev => ({ ...prev, avgResponseDays: parseInt(e.target.value) || undefined }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <input
               type="text"
-              placeholder="Outstanding repair requests"
+              placeholder={t('tools.outstandingRepairs')}
               value={formData.outstandingRepairs}
               onChange={(e) => setFormData(prev => ({ ...prev, outstandingRepairs: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -629,7 +630,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
             {formData.subsidyType && formData.subsidyType !== 'none' && (
               <input
                 type="text"
-                placeholder="Details (e.g., voucher amount, program name)"
+                placeholder={t('tools.subsidyDetails')}
                 value={formData.subsidyDetails}
                 onChange={(e) => setFormData(prev => ({ ...prev, subsidyDetails: e.target.value }))}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -665,7 +666,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           {/* Community & Interest */}
           <Section id="interest" title={t('tools.communityInterest') || 'Community & Interest'} isExpanded={expandedSections.has('interest')} onToggle={toggleSection}>
             <div className="flex gap-4 text-sm">
-              <span className="text-gray-600">Knows neighbors:</span>
+              <span className="text-gray-600">{t('tools.knowsNeighbors')}:</span>
               <label className="flex items-center gap-1">
                 <input
                   type="radio"
@@ -673,7 +674,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.knowsNeighbors === 'yes'}
                   onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'yes' }))}
                 />
-                Yes
+                {t('tools.answer.yes')}
               </label>
               <label className="flex items-center gap-1">
                 <input
@@ -682,7 +683,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.knowsNeighbors === 'somewhat'}
                   onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'somewhat' }))}
                 />
-                Some
+                {t('tools.answer.some')}
               </label>
               <label className="flex items-center gap-1">
                 <input
@@ -691,21 +692,21 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.knowsNeighbors === 'no'}
                   onChange={() => setFormData(prev => ({ ...prev, knowsNeighbors: 'no' }))}
                 />
-                No
+                {t('tools.answer.no')}
               </label>
             </div>
             <div className="flex gap-2">
-              <span className="text-gray-600 text-sm pt-2">Ideal rent: $</span>
+              <span className="text-gray-600 text-sm pt-2">{t('tools.idealRent')}: $</span>
               <input
                 type="number"
-                placeholder="Ideal rent"
+                placeholder={t('tools.idealRent')}
                 value={formData.idealRent || ''}
                 onChange={(e) => setFormData(prev => ({ ...prev, idealRent: parseInt(e.target.value) || undefined }))}
                 className="flex-1 px-3 py-2 border border-gray-300 rounded-md text-sm"
               />
             </div>
             <div className="flex gap-4 text-sm">
-              <span className="text-gray-600">Prior organizing experience:</span>
+              <span className="text-gray-600">{t('tools.priorExperience')}:</span>
               <label className="flex items-center gap-1">
                 <input
                   type="radio"
@@ -713,7 +714,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.hasOrganizingExperience === true}
                   onChange={() => setFormData(prev => ({ ...prev, hasOrganizingExperience: true }))}
                 />
-                Yes
+                {t('tools.answer.yes')}
               </label>
               <label className="flex items-center gap-1">
                 <input
@@ -722,12 +723,12 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   checked={formData.hasOrganizingExperience === false}
                   onChange={() => setFormData(prev => ({ ...prev, hasOrganizingExperience: false }))}
                 />
-                No
+                {t('tools.answer.no')}
               </label>
             </div>
 
             <div className="mt-3">
-              <span className="text-sm text-gray-600 mb-2 block">Interest level:</span>
+              <span className="text-sm text-gray-600 mb-2 block">{t('tools.interestLevel')}:</span>
               <div className="space-y-2">
                 {INTEREST_LEVELS.map(({ key, label }) => (
                   <label key={key} className="flex items-center gap-2 text-sm">
@@ -747,14 +748,14 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
           {/* Suggestions & Notes */}
           <Section id="notes" title={t('tools.suggestionsNotes') || 'Suggestions & Notes'} isExpanded={expandedSections.has('notes')} onToggle={toggleSection}>
             <textarea
-              placeholder="What would you like to see changed?"
+              placeholder={t('tools.whatChanges')}
               value={formData.suggestions}
               onChange={(e) => setFormData(prev => ({ ...prev, suggestions: e.target.value }))}
               rows={3}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <textarea
-              placeholder="Additional notes..."
+              placeholder={t('tools.additionalNotes')}
               value={formData.notes}
               onChange={(e) => setFormData(prev => ({ ...prev, notes: e.target.value }))}
               rows={3}
@@ -762,14 +763,14 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
             />
             <input
               type="text"
-              placeholder="Follow-up date (e.g., Jan 15, 2025)"
+              placeholder={t('tools.followUpDate')}
               value={formData.followUpDate}
               onChange={(e) => setFormData(prev => ({ ...prev, followUpDate: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
             />
             <input
               type="text"
-              placeholder="Logged by (organizer name)"
+              placeholder={t('tools.loggedBy')}
               value={formData.organizer}
               onChange={(e) => setFormData(prev => ({ ...prev, organizer: e.target.value }))}
               className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm"
@@ -793,7 +794,7 @@ export function UnitIntakeForm({ buildingId, buildingAddress, unit, onClose, onS
                   {qrUrl}
                 </div>
                 <p className="text-xs text-gray-400">
-                  Tenant scans this to create their profile with unit pre-filled
+                  {t('tools.qrScanHelp')}
                 </p>
               </div>
             ) : (

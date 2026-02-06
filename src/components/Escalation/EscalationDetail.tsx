@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { useLanguage } from '@/contexts/LanguageContext'
 import {
   CheckIcon,
   ExclamationCircleIcon,
@@ -77,6 +78,7 @@ const stageOrder: EscalationStage[] = [
 ]
 
 export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetailProps) {
+  const { t } = useLanguage()
   const [activeSection, setActiveSection] = useState<'timeline' | 'actions' | 'evidence'>('actions')
   const [showDemandForm, setShowDemandForm] = useState(false)
   const [showDeliveryForm, setShowDeliveryForm] = useState(false)
@@ -123,10 +125,10 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
       daysUntil,
       isOverdue: daysUntil < 0,
       label: daysUntil < 0
-        ? `${Math.abs(daysUntil)} days overdue`
+        ? t('escalation.daysOverdue').replace('{n}', String(Math.abs(daysUntil)))
         : daysUntil === 0
-        ? 'Due today'
-        : `${daysUntil} days remaining`,
+        ? t('escalation.dueToday')
+        : t('escalation.daysRemaining').replace('{n}', String(daysUntil)),
     }
   }
 
@@ -143,7 +145,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
           <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
           </svg>
-          Back to list
+          {t('escalation.backToList')}
         </button>
 
         <h2 className="text-xl font-semibold text-gray-900">{caseData.title}</h2>
@@ -162,8 +164,8 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
           </span>
           <span className="text-xs px-2 py-1 rounded-full bg-blue-100 text-blue-700">
             {caseData.affectedUnits.length === 1
-              ? `Unit ${caseData.affectedUnits[0]}`
-              : `${caseData.affectedUnits.length} units`}
+              ? `${t('escalation.unit')} ${caseData.affectedUnits[0]}`
+              : `${caseData.affectedUnits.length} ${t('escalation.units')}`}
           </span>
         </div>
 
@@ -195,8 +197,8 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
           })}
         </div>
         <div className="text-center">
-          <p className="font-medium text-gray-900">{stageLabels[caseData.stage]}</p>
-          <p className="text-sm text-gray-500">{stageDescriptions[caseData.stage]}</p>
+          <p className="font-medium text-gray-900">{t(`escalation.stage.${caseData.stage}`)}</p>
+          <p className="text-sm text-gray-500">{t(`escalation.stageDesc.${caseData.stage}`)}</p>
         </div>
       </div>
 
@@ -214,7 +216,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                 deadline.daysUntil <= 3 ? 'text-yellow-700' :
                 'text-blue-700'
               }`}>
-<ClockIcon className="w-4 h-4 inline mr-1" />Deadline: {deadline.date}
+<ClockIcon className="w-4 h-4 inline mr-1" />{t('escalation.deadline')}: {deadline.date}
               </span>
               <span className="text-sm ml-2 text-gray-600">({deadline.label})</span>
             </div>
@@ -251,17 +253,17 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                   suggestion.confidence === 'medium' ? 'bg-yellow-200 text-yellow-800' :
                   'bg-gray-200 text-gray-700'
                 }`}>
-                  {suggestion.confidence} confidence
+                  {suggestion.confidence} {t('escalation.confidence')}
                 </span>
                 <span className="text-xs text-gray-500">
-                  Day {suggestion.daysInCurrentStage} in stage
+                  {t('escalation.dayInStage').replace('{n}', String(suggestion.daysInCurrentStage))}
                 </span>
               </div>
 
               {/* Based on context */}
               {suggestion.basedOn.length > 1 && (
                 <div className="mt-2 text-xs text-gray-500">
-                  <span className="font-medium">Based on: </span>
+                  <span className="font-medium">{t('escalation.basedOn')} </span>
                   {suggestion.basedOn.slice(0, 3).map((source, i) => (
                     <span key={i} className="inline-flex items-center gap-0.5">
                       {i > 0 && ' • '}
@@ -280,7 +282,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
           {/* Alternative actions */}
           {suggestion.alternativeActions && suggestion.alternativeActions.length > 0 && (
             <div className="mt-3 pt-2 border-t border-gray-200">
-              <p className="text-xs font-medium text-gray-600 mb-1.5">Also consider:</p>
+              <p className="text-xs font-medium text-gray-600 mb-1.5">{t('escalation.alsoConsider')}</p>
               <div className="flex flex-wrap gap-2">
                 {suggestion.alternativeActions.map((alt, i) => (
                   <button
@@ -303,7 +305,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
           <div className="flex flex-wrap gap-3 text-xs">
             {buildingHistory.totalCases > 0 && (
               <span className="text-gray-600 inline-flex items-center gap-1">
-                <HomeIcon className="w-3 h-3" /> Building: {buildingHistory.victories}/{buildingHistory.totalCases} wins
+                <HomeIcon className="w-3 h-3" /> {t('escalation.building')}: {buildingHistory.victories}/{buildingHistory.totalCases} {t('escalation.wins')}
                 {buildingHistory.winRate > 0 && ` (${Math.round(buildingHistory.winRate * 100)}%)`}
               </span>
             )}
@@ -314,7 +316,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                 landlordPattern.typicalBehavior === 'slow' ? 'text-yellow-600' :
                 'text-green-600'
               }`}>
-                <UserIcon className="w-3 h-3" /> Landlord: {landlordPattern.typicalBehavior.replace(/_/g, ' ')}
+                <UserIcon className="w-3 h-3" /> {t('escalation.landlord')}: {landlordPattern.typicalBehavior.replace(/_/g, ' ')}
               </span>
             )}
           </div>
@@ -345,7 +347,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                 : 'text-gray-500 hover:text-gray-700'
             }`}
           >
-            {tab === 'actions' ? 'Actions' : tab === 'timeline' ? 'Timeline' : 'Evidence'}
+            {t(`escalation.tab.${tab}`)}
             {tab === 'evidence' && caseData.evidence.length > 0 && (
               <span className="ml-1 text-xs bg-gray-200 px-1.5 rounded-full">
                 {caseData.evidence.length}
@@ -367,15 +369,15 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                   onClick={() => setShowDemandForm(true)}
                   className="w-full p-3 text-left border border-blue-200 rounded-lg hover:bg-blue-50"
                 >
-                  <p className="font-medium text-blue-700">Draft Demand Letter</p>
-                  <p className="text-sm text-gray-600">Create formal demand to send to landlord</p>
+                  <p className="font-medium text-blue-700">{t('escalation.draftDemand')}</p>
+                  <p className="text-sm text-gray-600">{t('escalation.draftDemandDesc')}</p>
                 </button>
                 <button
                   onClick={() => setShowNoteForm(true)}
                   className="w-full p-3 text-left border border-gray-200 rounded-lg hover:bg-gray-50"
                 >
-                  <p className="font-medium text-gray-700">Add Note</p>
-                  <p className="text-sm text-gray-600">Document updates or findings</p>
+                  <p className="font-medium text-gray-700">{t('escalation.addNote')}</p>
+                  <p className="text-sm text-gray-600">{t('escalation.addNoteDesc')}</p>
                 </button>
               </>
             )}
@@ -386,15 +388,15 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                   onClick={() => setShowDeliveryForm(true)}
                   className="w-full p-3 text-left border border-blue-200 rounded-lg hover:bg-blue-50"
                 >
-                  <p className="font-medium text-blue-700">Record Delivery</p>
-                  <p className="text-sm text-gray-600">Mark demand as sent to landlord</p>
+                  <p className="font-medium text-blue-700">{t('escalation.recordDelivery')}</p>
+                  <p className="text-sm text-gray-600">{t('escalation.recordDeliveryDesc')}</p>
                 </button>
                 <button
                   onClick={() => setShowDemandForm(true)}
                   className="w-full p-3 text-left border border-gray-200 rounded-lg hover:bg-gray-50"
                 >
-                  <p className="font-medium text-gray-700">Edit Demand</p>
-                  <p className="text-sm text-gray-600">Modify demand before sending</p>
+                  <p className="font-medium text-gray-700">{t('escalation.editDemand')}</p>
+                  <p className="text-sm text-gray-600">{t('escalation.editDemandDesc')}</p>
                 </button>
               </>
             )}
@@ -405,15 +407,15 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                   onClick={() => setShowResponseForm(true)}
                   className="w-full p-3 text-left border border-blue-200 rounded-lg hover:bg-blue-50"
                 >
-                  <p className="font-medium text-blue-700">Log Landlord Response</p>
-                  <p className="text-sm text-gray-600">Record contact or response from landlord</p>
+                  <p className="font-medium text-blue-700">{t('escalation.logResponse')}</p>
+                  <p className="text-sm text-gray-600">{t('escalation.logResponseDesc')}</p>
                 </button>
                 <button
                   onClick={() => setShowEscalationForm(true)}
                   className="w-full p-3 text-left border border-orange-200 rounded-lg hover:bg-orange-50"
                 >
-                  <p className="font-medium text-orange-700">Start Escalation</p>
-                  <p className="text-sm text-gray-600">Code enforcement, legal, strike, or public action</p>
+                  <p className="font-medium text-orange-700">{t('escalation.startEscalation')}</p>
+                  <p className="text-sm text-gray-600">{t('escalation.startEscalationDesc')}</p>
                 </button>
               </>
             )}
@@ -421,18 +423,18 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
             {caseData.stage === 'escalating' && (
               <>
                 <div className="p-3 border border-gray-200 rounded-lg">
-                  <p className="font-medium text-gray-700 mb-2">Active Escalations</p>
+                  <p className="font-medium text-gray-700 mb-2">{t('escalation.activeEscalations')}</p>
                   {caseData.escalationPaths.length === 0 ? (
-                    <p className="text-sm text-gray-500">No escalations started yet</p>
+                    <p className="text-sm text-gray-500">{t('escalation.noEscalationsYet')}</p>
                   ) : (
                     <div className="space-y-2">
                       {caseData.escalationPaths.map((path, i) => (
                         <div key={i} className="flex items-center justify-between text-sm">
                           <span className="inline-flex items-center gap-1">
-                            {path.type === 'code_enforcement' && <><BuildingLibraryIcon className="w-4 h-4" /> Code Enforcement</>}
-                            {path.type === 'legal' && <><ScaleIcon className="w-4 h-4" /> Legal</>}
-                            {path.type === 'strike' && <><HandRaisedIcon className="w-4 h-4" /> Strike</>}
-                            {path.type === 'public_pressure' && <><MegaphoneIcon className="w-4 h-4" /> Public Pressure</>}
+                            {path.type === 'code_enforcement' && <><BuildingLibraryIcon className="w-4 h-4" /> {t('escalation.codeEnforcement')}</>}
+                            {path.type === 'legal' && <><ScaleIcon className="w-4 h-4" /> {t('escalation.legal')}</>}
+                            {path.type === 'strike' && <><HandRaisedIcon className="w-4 h-4" /> {t('escalation.strike')}</>}
+                            {path.type === 'public_pressure' && <><MegaphoneIcon className="w-4 h-4" /> {t('escalation.publicPressure')}</>}
                           </span>
                           <span className={`px-2 py-0.5 rounded text-xs ${
                             path.status === 'active' ? 'bg-blue-100 text-blue-700' :
@@ -450,8 +452,8 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                   onClick={() => setShowEscalationForm(true)}
                   className="w-full p-3 text-left border border-orange-200 rounded-lg hover:bg-orange-50"
                 >
-                  <p className="font-medium text-orange-700">Add Escalation Path</p>
-                  <p className="text-sm text-gray-600">Start another escalation method</p>
+                  <p className="font-medium text-orange-700">{t('escalation.addEscalationPath')}</p>
+                  <p className="text-sm text-gray-600">{t('escalation.addEscalationPathDesc')}</p>
                 </button>
               </>
             )}
@@ -464,8 +466,8 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                   onClick={() => setShowResolveForm(true)}
                   className="w-full p-3 text-left border border-green-200 rounded-lg hover:bg-green-50"
                 >
-                  <p className="font-medium text-green-700">Resolve Case</p>
-                  <p className="text-sm text-gray-600">Mark as victory, compromise, or closed</p>
+                  <p className="font-medium text-green-700">{t('escalation.resolveCase')}</p>
+                  <p className="text-sm text-gray-600">{t('escalation.resolveCaseDesc')}</p>
                 </button>
               </>
             )}
@@ -477,16 +479,16 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
                 'bg-gray-50 border border-gray-200'
               }`}>
                 <p className="font-medium text-lg">
-                  {caseData.resolution.type === 'victory' && '🎉 Victory!'}
-                  {caseData.resolution.type === 'compromise' && '🤝 Compromise'}
-                  {caseData.resolution.type === 'loss' && '❌ Loss'}
-                  {caseData.resolution.type === 'ongoing' && '🔄 Ongoing'}
-                  {caseData.resolution.type === 'abandoned' && '⏸️ Abandoned'}
+                  {caseData.resolution.type === 'victory' && `🎉 ${t('escalation.victory')}`}
+                  {caseData.resolution.type === 'compromise' && `🤝 ${t('escalation.compromise')}`}
+                  {caseData.resolution.type === 'loss' && `❌ ${t('escalation.loss')}`}
+                  {caseData.resolution.type === 'ongoing' && `🔄 ${t('escalation.ongoing')}`}
+                  {caseData.resolution.type === 'abandoned' && `⏸️ ${t('escalation.abandoned')}`}
                 </p>
                 <p className="text-sm mt-1">{caseData.resolution.summary}</p>
                 {caseData.resolution.demandsMet && caseData.resolution.demandsMet.length > 0 && (
                   <div className="mt-2">
-                    <p className="text-xs font-medium text-gray-600">Demands Met:</p>
+                    <p className="text-xs font-medium text-gray-600">{t('escalation.demandsMet')}</p>
                     <ul className="text-sm list-disc list-inside">
                       {caseData.resolution.demandsMet.map((d, i) => <li key={i}>{d}</li>)}
                     </ul>
@@ -529,7 +531,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
         {activeSection === 'evidence' && (
           <div className="space-y-3">
             {caseData.evidence.length === 0 ? (
-              <p className="text-center text-gray-500 py-4">No evidence added yet</p>
+              <p className="text-center text-gray-500 py-4">{t('escalation.noEvidenceYet')}</p>
             ) : (
               caseData.evidence.map((ev) => (
                 <div key={ev.id} className="p-3 border border-gray-200 rounded-lg">
@@ -559,7 +561,7 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
               }}
               className="w-full p-3 text-center border border-dashed border-gray-300 rounded-lg text-gray-600 hover:bg-gray-50"
             >
-              + Add Evidence
+              {t('escalation.addEvidence')}
             </button>
           </div>
         )}
@@ -632,6 +634,7 @@ function DemandForm({ caseId, existingDemand, existingDeadline, onSave, onCancel
   onSave: () => void
   onCancel: () => void
 }) {
+  const { t } = useLanguage()
   const [demandText, setDemandText] = useState(existingDemand || '')
   const [deadlineDays, setDeadlineDays] = useState(existingDeadline || 14)
   const profile = getCurrentProfile()
@@ -643,41 +646,41 @@ function DemandForm({ caseId, existingDemand, existingDeadline, onSave, onCancel
   }
 
   return (
-    <Modal title="Draft Demand" onClose={onCancel}>
+    <Modal title={t('escalation.draftDemand')} onClose={onCancel}>
       <div className="space-y-4">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Demand Text
+            {t('escalation.form.demandText')}
           </label>
           <textarea
             value={demandText}
             onChange={(e) => setDemandText(e.target.value)}
             rows={6}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-            placeholder="We, the tenants of [address], demand that..."
+            placeholder={t('escalation.form.demandPlaceholder')}
           />
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Response Deadline (days)
+            {t('escalation.form.responseDeadline')}
           </label>
           <select
             value={deadlineDays}
             onChange={(e) => setDeadlineDays(Number(e.target.value))}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
           >
-            <option value={7}>7 days</option>
-            <option value={14}>14 days</option>
-            <option value={21}>21 days</option>
-            <option value={30}>30 days</option>
+            <option value={7}>7 {t('escalation.form.days')}</option>
+            <option value={14}>14 {t('escalation.form.days')}</option>
+            <option value={21}>21 {t('escalation.form.days')}</option>
+            <option value={30}>30 {t('escalation.form.days')}</option>
           </select>
         </div>
         <div className="flex gap-2">
           <button onClick={onCancel} className="flex-1 px-4 py-2 border border-gray-300 rounded-lg">
-            Cancel
+            {t('escalation.form.cancel')}
           </button>
           <button onClick={handleSubmit} className="flex-1 px-4 py-2 bg-blue-600 text-white rounded-lg">
-            Save Draft
+            {t('escalation.form.saveDraft')}
           </button>
         </div>
       </div>
@@ -691,6 +694,7 @@ function DeliveryForm({ caseId, defaultDeadline, onSave, onCancel }: {
   onSave: () => void
   onCancel: () => void
 }) {
+  const { t } = useLanguage()
   const [method, setMethod] = useState<DeliveryMethod>('certified_mail')
   const [proof, setProof] = useState('')
   const [deadlineDays, setDeadlineDays] = useState(defaultDeadline)
@@ -703,57 +707,57 @@ function DeliveryForm({ caseId, defaultDeadline, onSave, onCancel }: {
   }
 
   return (
-    <Modal title="Record Delivery" onClose={onCancel}>
+    <Modal title={t('escalation.recordDelivery')} onClose={onCancel}>
       <div className="space-y-4">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Delivery Method
+            {t('escalation.form.deliveryMethod')}
           </label>
           <select
             value={method}
             onChange={(e) => setMethod(e.target.value as DeliveryMethod)}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
           >
-            <option value="certified_mail">Certified Mail</option>
-            <option value="email">Email</option>
-            <option value="hand_delivered">Hand Delivered</option>
-            <option value="posted">Posted on Door</option>
-            <option value="other">Other</option>
+            <option value="certified_mail">{t('escalation.form.certifiedMail')}</option>
+            <option value="email">{t('escalation.form.email')}</option>
+            <option value="hand_delivered">{t('escalation.form.handDelivered')}</option>
+            <option value="posted">{t('escalation.form.posted')}</option>
+            <option value="other">{t('escalation.form.other')}</option>
           </select>
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Proof (tracking #, email receipt, etc.)
+            {t('escalation.form.proof')}
           </label>
           <input
             type="text"
             value={proof}
             onChange={(e) => setProof(e.target.value)}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
-            placeholder="Tracking number or confirmation"
+            placeholder={t('escalation.form.proofPlaceholder')}
           />
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Response Deadline (days from today)
+            {t('escalation.form.deadlineFromToday')}
           </label>
           <select
             value={deadlineDays}
             onChange={(e) => setDeadlineDays(Number(e.target.value))}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
           >
-            <option value={7}>7 days</option>
-            <option value={14}>14 days</option>
-            <option value={21}>21 days</option>
-            <option value={30}>30 days</option>
+            <option value={7}>7 {t('escalation.form.days')}</option>
+            <option value={14}>14 {t('escalation.form.days')}</option>
+            <option value={21}>21 {t('escalation.form.days')}</option>
+            <option value={30}>30 {t('escalation.form.days')}</option>
           </select>
         </div>
         <div className="flex gap-2">
           <button onClick={onCancel} className="flex-1 px-4 py-2 border border-gray-300 rounded-lg">
-            Cancel
+            {t('escalation.form.cancel')}
           </button>
           <button onClick={handleSubmit} className="flex-1 px-4 py-2 bg-blue-600 text-white rounded-lg">
-            Mark Delivered
+            {t('escalation.form.markDelivered')}
           </button>
         </div>
       </div>
@@ -766,6 +770,7 @@ function ResponseForm({ caseId, onSave, onCancel }: {
   onSave: () => void
   onCancel: () => void
 }) {
+  const { t } = useLanguage()
   const [responseType, setResponseType] = useState<ResponseType>('ignored')
   const [method, setMethod] = useState<'phone' | 'email' | 'letter' | 'in_person' | 'none'>('none')
   const [summary, setSummary] = useState('')
@@ -784,58 +789,58 @@ function ResponseForm({ caseId, onSave, onCancel }: {
   }
 
   return (
-    <Modal title="Log Landlord Response" onClose={onCancel}>
+    <Modal title={t('escalation.logResponse')} onClose={onCancel}>
       <div className="space-y-4">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Response Type
+            {t('escalation.form.responseType')}
           </label>
           <select
             value={responseType}
             onChange={(e) => setResponseType(e.target.value as ResponseType)}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
           >
-            <option value="agreed">Agreed to demands</option>
-            <option value="partial">Partial agreement</option>
-            <option value="refused">Refused</option>
-            <option value="ignored">No response (ignored)</option>
-            <option value="retaliated">Retaliated</option>
+            <option value="agreed">{t('escalation.form.agreed')}</option>
+            <option value="partial">{t('escalation.form.partial')}</option>
+            <option value="refused">{t('escalation.form.refused')}</option>
+            <option value="ignored">{t('escalation.form.ignored')}</option>
+            <option value="retaliated">{t('escalation.form.retaliated')}</option>
           </select>
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Contact Method
+            {t('escalation.form.contactMethod')}
           </label>
           <select
             value={method}
             onChange={(e) => setMethod(e.target.value as typeof method)}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
           >
-            <option value="none">No contact</option>
-            <option value="phone">Phone</option>
-            <option value="email">Email</option>
-            <option value="letter">Letter</option>
-            <option value="in_person">In Person</option>
+            <option value="none">{t('escalation.form.noContact')}</option>
+            <option value="phone">{t('escalation.form.phone')}</option>
+            <option value="email">{t('escalation.form.email')}</option>
+            <option value="letter">{t('escalation.form.letter')}</option>
+            <option value="in_person">{t('escalation.form.inPerson')}</option>
           </select>
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Summary
+            {t('escalation.form.summary')}
           </label>
           <textarea
             value={summary}
             onChange={(e) => setSummary(e.target.value)}
             rows={3}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
-            placeholder="What did they say? Any promises made?"
+            placeholder={t('escalation.form.summaryPlaceholder')}
           />
         </div>
         <div className="flex gap-2">
           <button onClick={onCancel} className="flex-1 px-4 py-2 border border-gray-300 rounded-lg">
-            Cancel
+            {t('escalation.form.cancel')}
           </button>
           <button onClick={handleSubmit} className="flex-1 px-4 py-2 bg-blue-600 text-white rounded-lg">
-            Log Response
+            {t('escalation.form.logResponse')}
           </button>
         </div>
       </div>
@@ -849,6 +854,7 @@ function EscalationForm({ caseId, existingPaths, onSave, onCancel }: {
   onSave: () => void
   onCancel: () => void
 }) {
+  const { t } = useLanguage()
   const [pathType, setPathType] = useState<EscalationPath['type']>('code_enforcement')
   const profile = getCurrentProfile()
 
@@ -860,20 +866,22 @@ function EscalationForm({ caseId, existingPaths, onSave, onCancel }: {
     onSave()
   }
 
+  const escalationOptions = [
+    { value: 'code_enforcement', label: t('escalation.codeEnforcement'), icon: BuildingLibraryIcon, desc: t('escalation.form.codeEnforcementDesc') },
+    { value: 'legal', label: t('escalation.form.legalAid'), icon: ScaleIcon, desc: t('escalation.form.legalAidDesc') },
+    { value: 'strike', label: t('escalation.form.rentStrike'), icon: HandRaisedIcon, desc: t('escalation.form.rentStrikeDesc') },
+    { value: 'public_pressure', label: t('escalation.publicPressure'), icon: MegaphoneIcon, desc: t('escalation.form.publicPressureDesc') },
+  ]
+
   return (
-    <Modal title="Start Escalation" onClose={onCancel}>
+    <Modal title={t('escalation.startEscalation')} onClose={onCancel}>
       <div className="space-y-4">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Escalation Type
+            {t('escalation.form.escalationType')}
           </label>
           <div className="space-y-2">
-            {[
-              { value: 'code_enforcement', label: 'Code Enforcement', icon: BuildingLibraryIcon, desc: 'File complaint for inspection' },
-              { value: 'legal', label: 'Legal Aid', icon: ScaleIcon, desc: 'Consult with housing attorney' },
-              { value: 'strike', label: 'Rent Strike', icon: HandRaisedIcon, desc: 'Organize collective rent withholding' },
-              { value: 'public_pressure', label: 'Public Pressure', icon: MegaphoneIcon, desc: 'Media, rallies, public action' },
-            ].map((option) => (
+            {escalationOptions.map((option) => (
               <label
                 key={option.value}
                 className={`flex items-start gap-3 p-3 border rounded-lg cursor-pointer ${
@@ -898,19 +906,19 @@ function EscalationForm({ caseId, existingPaths, onSave, onCancel }: {
         </div>
         {alreadyActive && (
           <p className="text-sm text-orange-600">
-            This escalation path is already active
+            {t('escalation.form.alreadyActive')}
           </p>
         )}
         <div className="flex gap-2">
           <button onClick={onCancel} className="flex-1 px-4 py-2 border border-gray-300 rounded-lg">
-            Cancel
+            {t('escalation.form.cancel')}
           </button>
           <button
             onClick={handleSubmit}
             disabled={alreadyActive}
             className="flex-1 px-4 py-2 bg-orange-600 text-white rounded-lg disabled:opacity-50"
           >
-            Start Escalation
+            {t('escalation.startEscalation')}
           </button>
         </div>
       </div>
@@ -923,6 +931,7 @@ function ResolveForm({ caseId, onSave, onCancel }: {
   onSave: () => void
   onCancel: () => void
 }) {
+  const { t } = useLanguage()
   const [resolutionType, setResolutionType] = useState<ResolutionType>('victory')
   const [summary, setSummary] = useState('')
   const [demandsMet, setDemandsMet] = useState('')
@@ -939,56 +948,56 @@ function ResolveForm({ caseId, onSave, onCancel }: {
   }
 
   return (
-    <Modal title="Resolve Case" onClose={onCancel}>
+    <Modal title={t('escalation.resolveCase')} onClose={onCancel}>
       <div className="space-y-4">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Resolution Type
+            {t('escalation.form.resolutionType')}
           </label>
           <select
             value={resolutionType}
             onChange={(e) => setResolutionType(e.target.value as ResolutionType)}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
           >
-            <option value="victory">Victory - Demands met!</option>
-            <option value="compromise">Compromise - Partial win</option>
-            <option value="loss">Loss - Demands not met</option>
-            <option value="ongoing">Ongoing - Will continue later</option>
-            <option value="abandoned">Abandoned - No longer pursuing</option>
+            <option value="victory">{t('escalation.form.victoryDemandsMet')}</option>
+            <option value="compromise">{t('escalation.form.compromisePartial')}</option>
+            <option value="loss">{t('escalation.form.lossDemandNotMet')}</option>
+            <option value="ongoing">{t('escalation.form.ongoingContinue')}</option>
+            <option value="abandoned">{t('escalation.form.abandonedNotPursuing')}</option>
           </select>
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Summary
+            {t('escalation.form.summary')}
           </label>
           <textarea
             value={summary}
             onChange={(e) => setSummary(e.target.value)}
             rows={3}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
-            placeholder="What was the outcome?"
+            placeholder={t('escalation.form.outcomePlaceholder')}
           />
         </div>
         {(resolutionType === 'victory' || resolutionType === 'compromise') && (
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Demands Met (one per line)
+              {t('escalation.form.demandsMetPerLine')}
             </label>
             <textarea
               value={demandsMet}
               onChange={(e) => setDemandsMet(e.target.value)}
               rows={3}
               className="w-full px-3 py-2 border border-gray-300 rounded-lg"
-              placeholder="Heating repaired&#10;$200 rent reduction&#10;Written apology"
+              placeholder={t('escalation.form.demandsMetPlaceholder')}
             />
           </div>
         )}
         <div className="flex gap-2">
           <button onClick={onCancel} className="flex-1 px-4 py-2 border border-gray-300 rounded-lg">
-            Cancel
+            {t('escalation.form.cancel')}
           </button>
           <button onClick={handleSubmit} className="flex-1 px-4 py-2 bg-green-600 text-white rounded-lg">
-            Resolve Case
+            {t('escalation.resolveCase')}
           </button>
         </div>
       </div>
@@ -1001,6 +1010,7 @@ function NoteForm({ caseId, onSave, onCancel }: {
   onSave: () => void
   onCancel: () => void
 }) {
+  const { t } = useLanguage()
   const [note, setNote] = useState('')
   const profile = getCurrentProfile()
 
@@ -1015,26 +1025,26 @@ function NoteForm({ caseId, onSave, onCancel }: {
   }
 
   return (
-    <Modal title="Add Note" onClose={onCancel}>
+    <Modal title={t('escalation.addNote')} onClose={onCancel}>
       <div className="space-y-4">
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
-            Note
+            {t('escalation.form.note')}
           </label>
           <textarea
             value={note}
             onChange={(e) => setNote(e.target.value)}
             rows={4}
             className="w-full px-3 py-2 border border-gray-300 rounded-lg"
-            placeholder="Add an update, finding, or observation..."
+            placeholder={t('escalation.form.notePlaceholder')}
           />
         </div>
         <div className="flex gap-2">
           <button onClick={onCancel} className="flex-1 px-4 py-2 border border-gray-300 rounded-lg">
-            Cancel
+            {t('escalation.form.cancel')}
           </button>
           <button onClick={handleSubmit} className="flex-1 px-4 py-2 bg-blue-600 text-white rounded-lg">
-            Add Note
+            {t('escalation.form.addNote')}
           </button>
         </div>
       </div>
