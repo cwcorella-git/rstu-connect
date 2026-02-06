@@ -116,9 +116,6 @@ export const COLLECTIVE_CATEGORY_LABELS: Record<InternalCollectiveCategory, stri
   other: 'Other',
 }
 
-// Alias for backward compatibility
-export const INTERNAL_CATEGORY_LABELS = COLLECTIVE_CATEGORY_LABELS
-
 // Contact information for external organizations
 export interface OrganizationContact {
   type: 'phone' | 'email' | 'website' | 'address' | 'hours'
