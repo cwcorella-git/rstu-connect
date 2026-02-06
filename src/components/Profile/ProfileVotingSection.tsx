@@ -25,7 +25,7 @@ export function ProfileVotingSection({ profileId, profileName, isAdmin = false }
                 {t('elections.title') || 'Elections'}
               </h3>
               <p className="text-xs text-gray-500 mt-0.5">
-                Building officer elections via ranked-choice voting
+                {t('elections.description')}
               </p>
             </div>
             {isAdmin && (
@@ -37,7 +37,7 @@ export function ProfileVotingSection({ profileId, profileName, isAdmin = false }
                     : 'bg-rstu-red text-white hover:bg-red-700'
                 }`}
               >
-                {showAdmin ? 'Back to Elections' : 'Start an Election'}
+                {showAdmin ? t('elections.backToElections') : t('elections.startElection')}
               </button>
             )}
           </div>

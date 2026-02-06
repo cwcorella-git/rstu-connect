@@ -227,7 +227,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                 <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                {isVerifying ? 'Verifying...' : 'Verify'}
+                {isVerifying ? t('users.verifying') : t('users.verify')}
               </button>
             )}
 
@@ -242,7 +242,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                 <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3H4v2h16V7h-3z" />
                 </svg>
-                {isDeleting ? 'Deleting...' : 'Delete'}
+                {isDeleting ? t('users.deleting') : t('users.delete')}
               </button>
             )}
 
@@ -257,7 +257,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                 <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M12 1c-6.338 0-12 4.226-12 10.007 0 2.05.738 4.063 2.047 5.625.055 3.215 1.554 4.629 3.953 5.259 2.159.555 4.573.277 6.064-1.107 1.491 1.384 3.905 1.662 6.064 1.107 2.399-.63 3.898-2.044 3.953-5.259 1.309-1.562 2.047-3.575 2.047-5.625 0-5.781-5.662-10.007-12-10.007zm0 1.5c5.541 0 10.5 3.583 10.5 8.007.0 4.424-4.959 8.007-10.5 8.007-5.541 0-10.5-3.583-10.5-8.007 0-4.424 4.959-8.007 10.5-8.007z" />
                 </svg>
-                {isBanning ? 'Banning...' : 'Ban'}
+                {isBanning ? t('users.banning') : t('users.ban')}
               </button>
             )}
 
@@ -272,7 +272,7 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                 <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                {isUnbanning ? 'Unbanning...' : 'Unban'}
+                {isUnbanning ? t('users.unbanning') : t('users.unban')}
               </button>
             )}
           </div>
@@ -296,9 +296,9 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
       {showDeleteConfirm && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
           <div className="bg-white rounded-lg p-6 max-w-sm w-full">
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">Delete User Account?</h3>
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">{t('users.deleteTitle')}</h3>
             <p className="text-sm text-gray-600 mb-6">
-              Are you sure you want to delete <strong>{profile.nickname}</strong>? This action cannot be undone.
+              {t('users.deleteConfirm').replace('{name}', profile.nickname)}
             </p>
             <div className="flex gap-3">
               <button
@@ -306,14 +306,14 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                 disabled={isDeleting}
                 className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 border border-gray-300 rounded-lg hover:bg-gray-50 disabled:opacity-50"
               >
-                Cancel
+                {t('common.cancel')}
               </button>
               <button
                 onClick={handleDelete}
                 disabled={isDeleting}
                 className="flex-1 px-4 py-2 text-sm font-medium text-white bg-red-600 rounded-lg hover:bg-red-700 disabled:opacity-50"
               >
-                {isDeleting ? 'Deleting...' : 'Delete'}
+                {isDeleting ? t('users.deleting') : t('users.delete')}
               </button>
             </div>
           </div>
@@ -324,9 +324,9 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
       {showBanConfirm && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
           <div className="bg-white rounded-lg p-6 max-w-sm w-full">
-            <h3 className="text-lg font-semibold text-gray-900 mb-2">Ban User Account?</h3>
+            <h3 className="text-lg font-semibold text-gray-900 mb-2">{t('users.banTitle')}</h3>
             <p className="text-sm text-gray-600 mb-6">
-              Are you sure you want to ban <strong>{profile.nickname}</strong>? They will not be able to login or create new accounts.
+              {t('users.banConfirm').replace('{name}', profile.nickname)}
             </p>
             <div className="flex gap-3">
               <button
@@ -334,14 +334,14 @@ export function UserCard({ profile, canChangeRole, onChangeRole, isCurrentUser, 
                 disabled={isBanning}
                 className="flex-1 px-4 py-2 text-sm font-medium text-gray-700 border border-gray-300 rounded-lg hover:bg-gray-50 disabled:opacity-50"
               >
-                Cancel
+                {t('common.cancel')}
               </button>
               <button
                 onClick={handleBan}
                 disabled={isBanning}
                 className="flex-1 px-4 py-2 text-sm font-medium text-white bg-red-600 rounded-lg hover:bg-red-700 disabled:opacity-50"
               >
-                {isBanning ? 'Banning...' : 'Ban'}
+                {isBanning ? t('users.banning') : t('users.ban')}
               </button>
             </div>
           </div>

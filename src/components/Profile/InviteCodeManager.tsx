@@ -22,36 +22,36 @@ import { ConfirmModal } from '@/components/ui/ConfirmModal'
 
 // Expiration options in milliseconds
 const EXPIRATION_OPTIONS = [
-  { label: '1 day', value: 24 * 60 * 60 * 1000 },
-  { label: '7 days', value: 7 * 24 * 60 * 60 * 1000 },
-  { label: '30 days', value: 30 * 24 * 60 * 60 * 1000 },
-  { label: 'Never', value: 0 },
+  { labelKey: 'invite.exp1day', value: 24 * 60 * 60 * 1000 },
+  { labelKey: 'invite.exp7days', value: 7 * 24 * 60 * 60 * 1000 },
+  { labelKey: 'invite.exp30days', value: 30 * 24 * 60 * 60 * 1000 },
+  { labelKey: 'invite.expNever', value: 0 },
 ]
 
 // Max uses options
 const MAX_USES_OPTIONS = [
-  { label: 'Single use', value: 1 },
-  { label: '5 uses', value: 5 },
-  { label: '10 uses', value: 10 },
-  { label: 'Unlimited', value: 0 },
+  { labelKey: 'invite.singleUse', value: 1 },
+  { labelKey: 'invite.uses5', value: 5 },
+  { labelKey: 'invite.uses10', value: 10 },
+  { labelKey: 'invite.usesUnlimited', value: 0 },
 ]
 
 // Get status of an invite code
-function getInviteStatus(invite: InviteCode): { label: string; color: string; isLocalOnly?: boolean } {
+function getInviteStatus(invite: InviteCode, t: (key: string) => string): { label: string; color: string; isLocalOnly?: boolean } {
   if (invite.revoked) {
-    return { label: 'Revoked', color: 'bg-gray-100 text-gray-600' }
+    return { label: t('invite.statusRevoked'), color: 'bg-gray-100 text-gray-600' }
   }
   if (invite.expires > 0 && invite.expires < Date.now()) {
-    return { label: 'Expired', color: 'bg-red-100 text-red-700' }
+    return { label: t('invite.statusExpired'), color: 'bg-red-100 text-red-700' }
   }
   if (invite.maxUses > 0 && invite.usedCount >= invite.maxUses) {
-    return { label: 'Fully Used', color: 'bg-gray-100 text-gray-600' }
+    return { label: t('invite.statusFullyUsed'), color: 'bg-gray-100 text-gray-600' }
   }
   // Check if code is local-only (cloud sync failed)
   if (invite.localOnly) {
-    return { label: 'Local Only', color: 'bg-orange-100 text-orange-700', isLocalOnly: true }
+    return { label: t('invite.statusLocalOnly'), color: 'bg-orange-100 text-orange-700', isLocalOnly: true }
   }
-  return { label: 'Active', color: 'bg-green-100 text-green-700' }
+  return { label: t('invite.statusActive'), color: 'bg-green-100 text-green-700' }
 }
 
 // Format expiration
@@ -69,14 +69,14 @@ function formatExpiration(expires: number): string {
 }
 
 // Role badge colors
-function getRoleBadge(role: UserRole): { label: string; color: string } {
+function getRoleBadge(role: UserRole, t: (key: string) => string): { label: string; color: string } {
   switch (role) {
     case 'admin':
-      return { label: 'Admin', color: 'bg-purple-100 text-purple-700' }
+      return { label: t('profile.admin'), color: 'bg-purple-100 text-purple-700' }
     case 'organizer':
-      return { label: 'Organizer', color: 'bg-blue-100 text-blue-700' }
+      return { label: t('profile.organizer'), color: 'bg-blue-100 text-blue-700' }
     default:
-      return { label: 'Tenant', color: 'bg-gray-100 text-gray-600' }
+      return { label: t('profile.tenant'), color: 'bg-gray-100 text-gray-600' }
   }
 }
 
@@ -381,7 +381,7 @@ export function InviteCodeManager() {
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
               >
                 {EXPIRATION_OPTIONS.map(opt => (
-                  <option key={opt.value} value={opt.value}>{opt.label}</option>
+                  <option key={opt.value} value={opt.value}>{t(opt.labelKey)}</option>
                 ))}
               </select>
             </div>
@@ -397,7 +397,7 @@ export function InviteCodeManager() {
                 className="w-full px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-rstu-red focus:border-transparent"
               >
                 {MAX_USES_OPTIONS.map(opt => (
-                  <option key={opt.value} value={opt.value}>{opt.label}</option>
+                  <option key={opt.value} value={opt.value}>{t(opt.labelKey)}</option>
                 ))}
               </select>
             </div>
@@ -422,8 +422,8 @@ export function InviteCodeManager() {
         )}
 
         {activeCodes.map(invite => {
-          const status = getInviteStatus(invite)
-          const roleBadge = getRoleBadge(invite.grantRole)
+          const status = getInviteStatus(invite, t)
+          const roleBadge = getRoleBadge(invite.grantRole, t)
 
           return (
             <div key={invite.code} className={`p-3 hover:bg-gray-50 ${status.isLocalOnly ? 'bg-orange-50' : ''}`}>
@@ -494,8 +494,8 @@ export function InviteCodeManager() {
             </summary>
             <div className="bg-gray-50 divide-y divide-gray-100">
               {inactiveCodes.map(invite => {
-                const status = getInviteStatus(invite)
-                const roleBadge = getRoleBadge(invite.grantRole)
+                const status = getInviteStatus(invite, t)
+                const roleBadge = getRoleBadge(invite.grantRole, t)
 
                 return (
                   <div key={invite.code} className="p-3 opacity-60">
@@ -546,8 +546,8 @@ export function InviteCodeManager() {
               <h3 className="text-lg font-bold text-gray-900 mb-2">{t('profile.inviteCreated') || 'Invite Created!'}</h3>
 
               <div className="flex justify-center gap-2 mb-3">
-                <span className={`px-2 py-0.5 rounded text-xs font-medium ${getRoleBadge(showCodeModal.grantRole).color}`}>
-                  {getRoleBadge(showCodeModal.grantRole).label}
+                <span className={`px-2 py-0.5 rounded text-xs font-medium ${getRoleBadge(showCodeModal.grantRole, t).color}`}>
+                  {getRoleBadge(showCodeModal.grantRole, t).label}
                 </span>
                 <span className="px-2 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-600">
                   {showCodeModal.maxUses === 0 ? t('profile.unlimited') || 'Unlimited' : `${showCodeModal.maxUses} use${showCodeModal.maxUses !== 1 ? 's' : ''}`}

@@ -50,7 +50,7 @@ export function ProfileHeader({
           {/* Role Badges */}
           <div className="flex flex-wrap gap-2 mt-2">
             <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-white/30 text-white border border-white/50">
-              {getRoleLabel(profile.role)}
+              {t(`profile.${profile.role}`)}
             </span>
 
             {(() => {
@@ -64,7 +64,7 @@ export function ProfileHeader({
 
             {profile.trustLevel && profile.trustLevel !== 'verified' && (
               <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-white/25 text-white border border-white/40">
-                {getTrustLabel(profile.trustLevel)}
+                {profile.trustLevel === 'self_registered' ? t('trust.selfRegistered') : t('trust.invited')}
               </span>
             )}
 
@@ -72,7 +72,7 @@ export function ProfileHeader({
               const status = getActivityStatus(profile)
               return (
                 <span className="px-2.5 py-1 rounded-full text-xs font-semibold backdrop-blur-sm bg-white/25 text-white border border-white/40">
-                  {status === 'active' ? 'Active' : status === 'inactive' ? 'Inactive' : 'New'}
+                  {status === 'active' ? t('status.active') : status === 'inactive' ? t('status.inactive') : t('status.new')}
                 </span>
               )
             })()}

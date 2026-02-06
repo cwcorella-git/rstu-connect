@@ -323,12 +323,14 @@ const translations: Record<Locale, Record<string, string>> = {
     // Trust levels
     'trust.verified': 'Verified',
     'trust.invited': 'Invited',
+    'trust.selfRegistered': 'Self-registered',
     'trust.new': 'New',
 
     // Activity status
     'status.active': 'Active',
     'status.inactive': 'Inactive',
     'status.never': 'Never',
+    'status.new': 'New',
     'status.banned': 'Banned',
     'status.you': '(you)',
 
@@ -362,6 +364,19 @@ const translations: Record<Locale, Record<string, string>> = {
     'users.role': 'Role',
     'users.joined': 'Joined',
     'users.showBanned': 'Show banned',
+    // User actions
+    'users.verify': 'Verify',
+    'users.verifying': 'Verifying...',
+    'users.delete': 'Delete',
+    'users.deleting': 'Deleting...',
+    'users.ban': 'Ban',
+    'users.banning': 'Banning...',
+    'users.unban': 'Unban',
+    'users.unbanning': 'Unbanning...',
+    'users.deleteTitle': 'Delete User Account?',
+    'users.deleteConfirm': 'Are you sure you want to delete {name}? This action cannot be undone.',
+    'users.banTitle': 'Ban User Account?',
+    'users.banConfirm': 'Are you sure you want to ban {name}? They will not be able to login or create new accounts.',
 
     // Landlord directory
     'landlords.title': 'Landlord Directory',
@@ -467,6 +482,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'elections.nominationEndAfterStart': 'Nomination end must be after start',
     'elections.votingEndAfterNomination': 'Voting end must be after nomination end',
     'elections.title': 'Elections',
+    'elections.description': 'Building officer elections via ranked-choice voting',
+    'elections.backToElections': 'Back to Elections',
+    'elections.startElection': 'Start an Election',
 
     // Governance
     'governance.qualified': 'Qualified',
@@ -659,6 +677,22 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.revoke': 'Revoke',
     'profile.deleteInvite': 'Delete Invite',
     'profile.deleteInviteMsg': 'Delete this invite code? This cannot be undone.',
+    // Invite expiration options
+    'invite.exp1day': '1 day',
+    'invite.exp7days': '7 days',
+    'invite.exp30days': '30 days',
+    'invite.expNever': 'Never',
+    // Invite max uses options
+    'invite.singleUse': 'Single use',
+    'invite.uses5': '5 uses',
+    'invite.uses10': '10 uses',
+    'invite.usesUnlimited': 'Unlimited',
+    // Invite status labels
+    'invite.statusRevoked': 'Revoked',
+    'invite.statusExpired': 'Expired',
+    'invite.statusFullyUsed': 'Fully Used',
+    'invite.statusLocalOnly': 'Local Only',
+    'invite.statusActive': 'Active',
 
     // Profile Creation/Edit
     'profile.inviteCode': 'Invite Code',
@@ -2353,12 +2387,14 @@ const translations: Record<Locale, Record<string, string>> = {
     // Trust levels
     'trust.verified': 'Verificado',
     'trust.invited': 'Invitado',
+    'trust.selfRegistered': 'Auto-registrado',
     'trust.new': 'Nuevo',
 
     // Activity status
     'status.active': 'Activo',
     'status.inactive': 'Inactivo',
     'status.never': 'Nunca',
+    'status.new': 'Nuevo',
     'status.banned': 'Prohibido',
     'status.you': '(tu)',
 
@@ -2392,6 +2428,19 @@ const translations: Record<Locale, Record<string, string>> = {
     'users.role': 'Rol',
     'users.joined': 'Se unio',
     'users.showBanned': 'Mostrar prohibidos',
+    // User actions
+    'users.verify': 'Verificar',
+    'users.verifying': 'Verificando...',
+    'users.delete': 'Eliminar',
+    'users.deleting': 'Eliminando...',
+    'users.ban': 'Prohibir',
+    'users.banning': 'Prohibiendo...',
+    'users.unban': 'Desprobir',
+    'users.unbanning': 'Desprohibiendo...',
+    'users.deleteTitle': '¿Eliminar Cuenta de Usuario?',
+    'users.deleteConfirm': '¿Estás seguro de que quieres eliminar a {name}? Esta acción no se puede deshacer.',
+    'users.banTitle': '¿Prohibir Cuenta de Usuario?',
+    'users.banConfirm': '¿Estás seguro de que quieres prohibir a {name}? No podrán iniciar sesión ni crear nuevas cuentas.',
 
     // Landlord directory
     'landlords.title': 'Directorio de Propietarios',
@@ -2497,6 +2546,9 @@ const translations: Record<Locale, Record<string, string>> = {
     'elections.nominationEndAfterStart': 'El fin de nominaciones debe ser despues del inicio',
     'elections.votingEndAfterNomination': 'El fin de votacion debe ser despues del fin de nominaciones',
     'elections.title': 'Elecciones',
+    'elections.description': 'Elecciones de oficiales del edificio mediante votación por orden de preferencia',
+    'elections.backToElections': 'Volver a Elecciones',
+    'elections.startElection': 'Iniciar una Elección',
 
     // Governance
     'governance.qualified': 'Calificado',
@@ -2689,6 +2741,22 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.revoke': 'Revocar',
     'profile.deleteInvite': 'Eliminar Invitación',
     'profile.deleteInviteMsg': '¿Eliminar este código de invitación? Esto no se puede deshacer.',
+    // Invite expiration options
+    'invite.exp1day': '1 día',
+    'invite.exp7days': '7 días',
+    'invite.exp30days': '30 días',
+    'invite.expNever': 'Nunca',
+    // Invite max uses options
+    'invite.singleUse': 'Un solo uso',
+    'invite.uses5': '5 usos',
+    'invite.uses10': '10 usos',
+    'invite.usesUnlimited': 'Ilimitado',
+    // Invite status labels
+    'invite.statusRevoked': 'Revocado',
+    'invite.statusExpired': 'Expirado',
+    'invite.statusFullyUsed': 'Completamente Usado',
+    'invite.statusLocalOnly': 'Solo Local',
+    'invite.statusActive': 'Activo',
 
     // Profile - Building & Unit Details
     'profile.building': 'Edificio',
@@ -4370,12 +4438,14 @@ const translations: Record<Locale, Record<string, string>> = {
     // Trust levels
     'trust.verified': 'Na-verify',
     'trust.invited': 'Inimbitahan',
+    'trust.selfRegistered': 'Nag-register sa sarili',
     'trust.new': 'Bago',
 
     // Activity status
     'status.active': 'Aktibo',
     'status.inactive': 'Hindi aktibo',
     'status.never': 'Hindi kailanman',
+    'status.new': 'Bago',
     'status.banned': 'Ipinagbawal',
     'status.you': '(ikaw)',
 
@@ -4409,6 +4479,19 @@ const translations: Record<Locale, Record<string, string>> = {
     'users.role': 'Tungkulin',
     'users.joined': 'Sumali',
     'users.showBanned': 'Ipakita ang ipinagbawal',
+    // User actions
+    'users.verify': 'I-verify',
+    'users.verifying': 'Nagve-verify...',
+    'users.delete': 'Tanggalin',
+    'users.deleting': 'Tinatanggal...',
+    'users.ban': 'Ipagbawal',
+    'users.banning': 'Ipinagbabawal...',
+    'users.unban': 'Alisin ang pagbawal',
+    'users.unbanning': 'Inaalis ang pagbawal...',
+    'users.deleteTitle': 'Tanggalin ang Account ng User?',
+    'users.deleteConfirm': 'Sigurado ka bang gusto mong tanggalin si {name}? Hindi na ito mababawi.',
+    'users.banTitle': 'Ipagbawal ang Account ng User?',
+    'users.banConfirm': 'Sigurado ka bang gusto mong ipagbawal si {name}? Hindi na sila makakapag-login o makakagawa ng bagong account.',
 
     // Landlord directory
     'landlords.title': 'Direktoryo ng May-ari',
@@ -4513,6 +4596,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'elections.positionNeedsTitle': 'Lahat ng posisyon ay nangangailangan ng titulo',
     'elections.nominationEndAfterStart': 'Ang wakas ng nominasyon ay dapat pagkatapos ng simula',
     'elections.votingEndAfterNomination': 'Ang wakas ng pagboto ay dapat pagkatapos ng wakas ng nominasyon',
+    'elections.title': 'Eleksyon',
+    'elections.description': 'Eleksyon ng mga opisyal ng gusali sa pamamagitan ng ranked-choice voting',
+    'elections.backToElections': 'Bumalik sa Eleksyon',
+    'elections.startElection': 'Magsimula ng Eleksyon',
 
     // Tasks
     'tasks.board': 'Task Board',
@@ -4671,6 +4758,22 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.revoke': 'Bawiin',
     'profile.deleteInvite': 'Tanggalin ang Imbitasyon',
     'profile.deleteInviteMsg': 'Tanggalin ang invitation code na ito? Hindi na ito mababawi.',
+    // Invite expiration options
+    'invite.exp1day': '1 araw',
+    'invite.exp7days': '7 araw',
+    'invite.exp30days': '30 araw',
+    'invite.expNever': 'Hindi kailanman',
+    // Invite max uses options
+    'invite.singleUse': 'Isang gamit',
+    'invite.uses5': '5 gamit',
+    'invite.uses10': '10 gamit',
+    'invite.usesUnlimited': 'Walang limitasyon',
+    // Invite status labels
+    'invite.statusRevoked': 'Binawi',
+    'invite.statusExpired': 'Nag-expire',
+    'invite.statusFullyUsed': 'Lubos na Nagamit',
+    'invite.statusLocalOnly': 'Lokal Lamang',
+    'invite.statusActive': 'Aktibo',
 
     // Messages/Chat (additional)
     'messages.signInRequired': 'Kailangan ng Sign In',
@@ -6444,12 +6547,14 @@ const translations: Record<Locale, Record<string, string>> = {
     // Trust levels
     'trust.verified': '已验证',
     'trust.invited': '已邀请',
+    'trust.selfRegistered': '自注册',
     'trust.new': '新用户',
 
     // Activity status
     'status.active': '活跃',
     'status.inactive': '不活跃',
     'status.never': '从未',
+    'status.new': '新用户',
     'status.banned': '已禁止',
     'status.you': '(你)',
 
@@ -6587,6 +6692,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'elections.positionNeedsTitle': '所有职位都需要标题',
     'elections.nominationEndAfterStart': '提名结束必须在开始之后',
     'elections.votingEndAfterNomination': '投票结束必须在提名结束之后',
+    'elections.title': '选举',
+    'elections.description': '通过排名选择投票的建筑官员选举',
+    'elections.backToElections': '返回选举',
+    'elections.startElection': '开始选举',
 
     // Tasks
     'tasks.board': '任务板',
@@ -6745,6 +6854,22 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.revoke': '撤销',
     'profile.deleteInvite': '删除邀请',
     'profile.deleteInviteMsg': '删除此邀请码？这无法撤销。',
+    // Invite expiration options
+    'invite.exp1day': '1天',
+    'invite.exp7days': '7天',
+    'invite.exp30days': '30天',
+    'invite.expNever': '永不',
+    // Invite max uses options
+    'invite.singleUse': '单次使用',
+    'invite.uses5': '5次使用',
+    'invite.uses10': '10次使用',
+    'invite.usesUnlimited': '无限制',
+    // Invite status labels
+    'invite.statusRevoked': '已撤销',
+    'invite.statusExpired': '已过期',
+    'invite.statusFullyUsed': '已用尽',
+    'invite.statusLocalOnly': '仅本地',
+    'invite.statusActive': '活跃',
 
     // Messages/Chat (additional)
     'messages.signInRequired': '需要登录',
@@ -8517,11 +8642,13 @@ const translations: Record<Locale, Record<string, string>> = {
     // Trust levels
     'trust.verified': 'Đã xác minh',
     'trust.invited': 'Được mời',
+    'trust.selfRegistered': 'Tự đăng ký',
     'trust.new': 'Mới',
 
     // Activity status
     'status.active': 'Hoạt động',
     'status.inactive': 'Không hoạt động',
+    'status.new': 'Mới',
     'status.never': 'Chưa bao giờ',
     'status.banned': 'Bị cấm',
     'status.you': '(bạn)',
@@ -8556,6 +8683,18 @@ const translations: Record<Locale, Record<string, string>> = {
     'users.role': 'Vai trò',
     'users.joined': 'Tham gia',
     'users.showBanned': 'Hiển thị đã bị cấm',
+    'users.verify': 'Xác minh',
+    'users.verifying': 'Đang xác minh...',
+    'users.delete': 'Xóa',
+    'users.deleting': 'Đang xóa...',
+    'users.ban': 'Cấm',
+    'users.banning': 'Đang cấm...',
+    'users.unban': 'Bỏ cấm',
+    'users.unbanning': 'Đang bỏ cấm...',
+    'users.deleteTitle': 'Xóa Tài Khoản Người Dùng?',
+    'users.deleteConfirm': 'Bạn có chắc chắn muốn xóa {name}? Hành động này không thể hoàn tác.',
+    'users.banTitle': 'Cấm Tài Khoản Người Dùng?',
+    'users.banConfirm': 'Bạn có chắc chắn muốn cấm {name}? Họ sẽ không thể đăng nhập hoặc tạo tài khoản mới.',
 
     // Landlord directory
     'landlords.title': 'Danh bạ Chủ nhà',
@@ -8574,6 +8713,10 @@ const translations: Record<Locale, Record<string, string>> = {
     'landlords.noResults': 'Không tìm thấy chủ nhà',
 
     // Elections
+    'elections.title': 'Bầu cử',
+    'elections.description': 'Bầu cử cán bộ tòa nhà qua bỏ phiếu xếp hạng',
+    'elections.backToElections': 'Quay lại Bầu cử',
+    'elections.startElection': 'Bắt đầu Bầu cử',
     'elections.noActive': 'Không có bầu cử đang diễn ra',
     'elections.noActiveDesc': 'Hiện không có cuộc bầu cử nào đang diễn ra. Vui lòng kiểm tra lại sau.',
     'elections.currentOfficers': 'Cán Bộ Hiện Tại',
@@ -8818,6 +8961,23 @@ const translations: Record<Locale, Record<string, string>> = {
     'profile.revoke': 'Thu hồi',
     'profile.deleteInvite': 'Xóa Lời Mời',
     'profile.deleteInviteMsg': 'Xóa mã mời này? Điều này không thể được hoàn tác.',
+
+    // Invite expiration options
+    'invite.exp1day': '1 ngày',
+    'invite.exp7days': '7 ngày',
+    'invite.exp30days': '30 ngày',
+    'invite.expNever': 'Không bao giờ',
+    // Invite max uses options
+    'invite.singleUse': 'Dùng một lần',
+    'invite.uses5': '5 lần sử dụng',
+    'invite.uses10': '10 lần sử dụng',
+    'invite.usesUnlimited': 'Không giới hạn',
+    // Invite status labels
+    'invite.statusRevoked': 'Đã thu hồi',
+    'invite.statusExpired': 'Đã hết hạn',
+    'invite.statusFullyUsed': 'Đã dùng hết',
+    'invite.statusLocalOnly': 'Chỉ cục bộ',
+    'invite.statusActive': 'Đang hoạt động',
 
     // Landing Page - Vietnamese
     'landing.hero.title': 'Reno-Sparks Tenants Union',
