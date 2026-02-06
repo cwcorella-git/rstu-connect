@@ -7,6 +7,7 @@ import {
   exportProfileData,
   type UserProfile,
 } from '@/lib/storage/profileStorage'
+import { updatePassword, validatePassword, isSupabaseAuthAvailable } from '@/lib/services/supabaseAuth'
 import { hasTutorialCompleted, clearTutorialCompleted } from '@/components/Elections'
 import { NotificationSettings } from './NotificationSettings'
 
@@ -60,6 +61,16 @@ export function ProfileEditor({ profile, onSignOut, onRestartRCVTutorial }: Prof
   const [checklistResetMsg, setChecklistResetMsg] = useState(false)
   const [rcvTutorialCompleted, setRcvTutorialCompleted] = useState(() => hasTutorialCompleted())
 
+  // Password change state
+  const [showPasswordChange, setShowPasswordChange] = useState(false)
+  const [newPassword, setNewPassword] = useState('')
+  const [confirmPassword, setConfirmPassword] = useState('')
+  const [passwordError, setPasswordError] = useState<string | null>(null)
+  const [passwordSuccess, setPasswordSuccess] = useState(false)
+  const [isChangingPassword, setIsChangingPassword] = useState(false)
+  const [showNewPassword, setShowNewPassword] = useState(false)
+  const [showConfirmPassword, setShowConfirmPassword] = useState(false)
+
   const togglePrivacySetting = (key: keyof typeof privacySettings) => {
     setPrivacySettings(prev => ({ ...prev, [key]: !prev[key] }))
   }
@@ -81,6 +92,42 @@ export function ProfileEditor({ profile, onSignOut, onRestartRCVTutorial }: Prof
       setTimeout(() => setExportMessage(null), 3000)
     } catch (error) {
       setExportError(error instanceof Error ? error.message : 'Failed to export data')
+    }
+  }
+
+  const handlePasswordChange = async () => {
+    setPasswordError(null)
+    setPasswordSuccess(false)
+
+    // Validate passwords match
+    if (newPassword !== confirmPassword) {
+      setPasswordError(t('settings.passwordsDontMatch') || 'Passwords do not match')
+      return
+    }
+
+    // Validate password strength
+    const validation = validatePassword(newPassword)
+    if (!validation.valid) {
+      setPasswordError(validation.error || 'Invalid password')
+      return
+    }
+
+    setIsChangingPassword(true)
+    try {
+      const result = await updatePassword(newPassword)
+      if (result.success) {
+        setPasswordSuccess(true)
+        setNewPassword('')
+        setConfirmPassword('')
+        setShowPasswordChange(false)
+        setTimeout(() => setPasswordSuccess(false), 3000)
+      } else {
+        setPasswordError(result.error || 'Failed to update password')
+      }
+    } catch (err) {
+      setPasswordError(err instanceof Error ? err.message : 'Failed to update password')
+    } finally {
+      setIsChangingPassword(false)
     }
   }
 
@@ -110,6 +157,133 @@ export function ProfileEditor({ profile, onSignOut, onRestartRCVTutorial }: Prof
             {t('settings.languageHint') || 'Language preference is saved automatically'}
           </p>
         </div>
+
+        {/* Password */}
+        {isSupabaseAuthAvailable() && (
+          <div className="border-b border-gray-200 px-4 py-4 space-y-3">
+            <span className="font-medium text-gray-900 block">{t('settings.password') || 'Password'}</span>
+
+            {passwordSuccess && (
+              <div className="p-2 bg-green-50 text-green-700 text-sm rounded">
+                {t('settings.passwordUpdated') || 'Password updated successfully!'}
+              </div>
+            )}
+
+            {!showPasswordChange ? (
+              <button
+                type="button"
+                onClick={() => setShowPasswordChange(true)}
+                className="flex items-center gap-2 px-3 py-2 bg-white border border-gray-300 rounded-md text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z"/>
+                </svg>
+                {t('settings.changePassword') || 'Change Password'}
+              </button>
+            ) : (
+              <div className="space-y-3">
+                {/* New Password */}
+                <div>
+                  <label htmlFor="newPassword" className="block text-sm text-gray-700 mb-1">
+                    {t('settings.newPassword') || 'New Password'}
+                  </label>
+                  <div className="relative">
+                    <input
+                      id="newPassword"
+                      type={showNewPassword ? 'text' : 'password'}
+                      value={newPassword}
+                      onChange={(e) => setNewPassword(e.target.value)}
+                      placeholder={t('settings.newPasswordPlaceholder') || 'Enter new password'}
+                      className="w-full px-3 py-2 pr-10 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                    />
+                    <button
+                      type="button"
+                      onClick={() => setShowNewPassword(!showNewPassword)}
+                      className="absolute right-2 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+                    >
+                      {showNewPassword ? (
+                        <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21" />
+                        </svg>
+                      ) : (
+                        <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                        </svg>
+                      )}
+                    </button>
+                  </div>
+                </div>
+
+                {/* Confirm Password */}
+                <div>
+                  <label htmlFor="confirmPassword" className="block text-sm text-gray-700 mb-1">
+                    {t('settings.confirmPassword') || 'Confirm Password'}
+                  </label>
+                  <div className="relative">
+                    <input
+                      id="confirmPassword"
+                      type={showConfirmPassword ? 'text' : 'password'}
+                      value={confirmPassword}
+                      onChange={(e) => setConfirmPassword(e.target.value)}
+                      placeholder={t('settings.confirmPasswordPlaceholder') || 'Confirm new password'}
+                      className="w-full px-3 py-2 pr-10 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-rstu-red focus:border-transparent"
+                    />
+                    <button
+                      type="button"
+                      onClick={() => setShowConfirmPassword(!showConfirmPassword)}
+                      className="absolute right-2 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+                    >
+                      {showConfirmPassword ? (
+                        <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21" />
+                        </svg>
+                      ) : (
+                        <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                        </svg>
+                      )}
+                    </button>
+                  </div>
+                </div>
+
+                <p className="text-xs text-gray-500">
+                  {t('settings.passwordRequirements') || 'At least 8 characters with one letter and one number'}
+                </p>
+
+                {passwordError && (
+                  <div className="p-2 bg-red-50 text-red-700 text-sm rounded">
+                    {passwordError}
+                  </div>
+                )}
+
+                <div className="flex gap-2">
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setShowPasswordChange(false)
+                      setNewPassword('')
+                      setConfirmPassword('')
+                      setPasswordError(null)
+                    }}
+                    className="px-3 py-2 border border-gray-300 rounded-md text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                  >
+                    {t('common.cancel') || 'Cancel'}
+                  </button>
+                  <button
+                    type="button"
+                    onClick={handlePasswordChange}
+                    disabled={isChangingPassword || !newPassword || !confirmPassword}
+                    className="px-3 py-2 bg-rstu-red text-white rounded-md text-sm font-medium hover:bg-red-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                  >
+                    {isChangingPassword ? (t('common.saving') || 'Saving...') : (t('settings.updatePassword') || 'Update Password')}
+                  </button>
+                </div>
+              </div>
+            )}
+          </div>
+        )}
 
         {/* Tutorials & Guides */}
         <div className="border-b border-gray-200 px-4 py-4 space-y-3">
