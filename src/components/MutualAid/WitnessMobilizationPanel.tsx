@@ -8,6 +8,7 @@ import {
   type EvictionCase
 } from '@/lib/storage/evictionDefenseStorage'
 import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 interface WitnessMobilizationPanelProps {
   evictionCase: EvictionCase
@@ -15,6 +16,7 @@ interface WitnessMobilizationPanelProps {
 }
 
 export function WitnessMobilizationPanel({ evictionCase, onUpdated }: WitnessMobilizationPanelProps) {
+  const { t } = useLanguage()
   const profile = getCurrentProfile()
   const [newWitnessName, setNewWitnessName] = useState('')
   const [newWitnessRole, setNewWitnessRole] = useState<'neighbor' | 'tenant' | 'organizer' | 'attorney' | 'other'>('neighbor')
@@ -76,15 +78,15 @@ export function WitnessMobilizationPanel({ evictionCase, onUpdated }: WitnessMob
           <div className="flex items-start justify-between">
             <div>
               <h4 className={`font-semibold text-sm ${isCourtSoon ? 'text-red-900' : 'text-blue-900'}`}>
-                Court Date: {evictionCase.courtDate}
+                {t('eviction.courtDate')}: {evictionCase.courtDate}
               </h4>
               {daysUntilCourt !== null && (
                 <p className={`text-xs mt-1 ${isCourtSoon ? 'text-red-700' : 'text-blue-700'}`}>
                   {daysUntilCourt === 0
-                    ? '⚠️ TODAY'
+                    ? `⚠️ ${t('eviction.today')}`
                     : daysUntilCourt === 1
-                    ? '⚠️ Tomorrow'
-                    : `${daysUntilCourt} days away`}
+                    ? `⚠️ ${t('eviction.tomorrow')}`
+                    : t('eviction.daysAway').replace('{n}', String(daysUntilCourt))}
                 </p>
               )}
             </div>
@@ -97,15 +99,15 @@ export function WitnessMobilizationPanel({ evictionCase, onUpdated }: WitnessMob
         <div className="grid grid-cols-3 gap-2 p-3 bg-gray-50 rounded-lg">
           <div className="text-center">
             <div className="text-xl font-bold text-yellow-600">{interestedCount}</div>
-            <div className="text-xs text-gray-600">Interested</div>
+            <div className="text-xs text-gray-600">{t('eviction.interested')}</div>
           </div>
           <div className="text-center">
             <div className="text-xl font-bold text-green-600">{confirmedCount}</div>
-            <div className="text-xs text-gray-600">Confirmed</div>
+            <div className="text-xs text-gray-600">{t('eviction.confirmed')}</div>
           </div>
           <div className="text-center">
             <div className="text-xl font-bold text-blue-600">{presentCount}</div>
-            <div className="text-xs text-gray-600">Present</div>
+            <div className="text-xs text-gray-600">{t('eviction.present')}</div>
           </div>
         </div>
       )}
@@ -113,7 +115,7 @@ export function WitnessMobilizationPanel({ evictionCase, onUpdated }: WitnessMob
       {/* Witness List */}
       {evictionCase.witnessSignups.length > 0 && (
         <div className="space-y-2">
-          <h4 className="text-sm font-semibold text-gray-900">Court Support Team</h4>
+          <h4 className="text-sm font-semibold text-gray-900">{t('eviction.courtSupportTeam')}</h4>
           <div className="space-y-2 max-h-64 overflow-y-auto">
             {evictionCase.witnessSignups.map((witness, index) => {
               const statusColor = {
@@ -129,16 +131,16 @@ export function WitnessMobilizationPanel({ evictionCase, onUpdated }: WitnessMob
                       <h5 className="text-sm font-medium text-gray-900">{witness.name}</h5>
                       <div className="text-xs text-gray-600 mt-0.5 space-y-0.5">
                         <p>
-                          <strong>Role:</strong> {witness.role.replace(/-/g, ' ')}
+                          <strong>{t('eviction.role')}:</strong> {witness.role.replace(/-/g, ' ')}
                         </p>
                         {witness.contact && (
                           <p>
-                            <strong>Contact:</strong> {witness.contact}
+                            <strong>{t('eviction.contact')}:</strong> {witness.contact}
                           </p>
                         )}
                         {witness.signedUpAt && (
                           <p>
-                            <strong>Signed up:</strong> {new Date(witness.signedUpAt).toLocaleDateString()}
+                            <strong>{t('eviction.signedUp')}:</strong> {new Date(witness.signedUpAt).toLocaleDateString()}
                           </p>
                         )}
                       </div>
@@ -146,7 +148,7 @@ export function WitnessMobilizationPanel({ evictionCase, onUpdated }: WitnessMob
                     <button
                       onClick={() => handleRemoveWitness(index)}
                       className="p-1 text-gray-400 hover:text-red-600 transition-colors flex-shrink-0"
-                      title="Remove witness"
+                      title={t('eviction.removeWitness')}
                     >
                       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -185,56 +187,56 @@ export function WitnessMobilizationPanel({ evictionCase, onUpdated }: WitnessMob
 
       {/* Add Witness Form */}
       <form onSubmit={handleAddWitness} className="space-y-3 p-3 bg-gray-50 rounded-lg">
-        <h4 className="text-sm font-semibold text-gray-900">Add Court Witness</h4>
+        <h4 className="text-sm font-semibold text-gray-900">{t('eviction.addCourtWitness')}</h4>
 
         <div>
-          <label className="block text-xs font-medium text-gray-700 mb-1">Name *</label>
+          <label className="block text-xs font-medium text-gray-700 mb-1">{t('eviction.tenantName')} *</label>
           <input
             type="text"
             value={newWitnessName}
             onChange={(e) => setNewWitnessName(e.target.value)}
-            placeholder="Witness name"
+            placeholder={t('eviction.witnessName')}
             className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-rstu-red"
             required
           />
         </div>
 
         <div>
-          <label className="block text-xs font-medium text-gray-700 mb-1">Role</label>
+          <label className="block text-xs font-medium text-gray-700 mb-1">{t('eviction.role')}</label>
           <select
             value={newWitnessRole}
             onChange={(e) => setNewWitnessRole(e.target.value as any)}
             className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-rstu-red"
           >
-            <option value="neighbor">Neighbor/Tenant</option>
-            <option value="tenant">Building Tenant</option>
-            <option value="organizer">Organizer</option>
-            <option value="attorney">Attorney/Legal Worker</option>
-            <option value="other">Other</option>
+            <option value="neighbor">{t('eviction.neighborTenant')}</option>
+            <option value="tenant">{t('eviction.buildingTenant')}</option>
+            <option value="organizer">{t('eviction.organizer')}</option>
+            <option value="attorney">{t('eviction.attorneyLegal')}</option>
+            <option value="other">{t('eviction.other')}</option>
           </select>
         </div>
 
         <div>
-          <label className="block text-xs font-medium text-gray-700 mb-1">Contact Info (optional)</label>
+          <label className="block text-xs font-medium text-gray-700 mb-1">{t('eviction.contactInfo')}</label>
           <input
             type="text"
             value={newWitnessContact}
             onChange={(e) => setNewWitnessContact(e.target.value)}
-            placeholder="Phone or email"
+            placeholder={t('eviction.phoneOrEmail')}
             className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-rstu-red"
           />
         </div>
 
         <div>
-          <label className="block text-xs font-medium text-gray-700 mb-1">Status</label>
+          <label className="block text-xs font-medium text-gray-700 mb-1">{t('eviction.status')}</label>
           <select
             value={newWitnessStatus}
             onChange={(e) => setNewWitnessStatus(e.target.value as any)}
             className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-rstu-red"
           >
-            <option value="interested">Interested</option>
-            <option value="confirmed">Confirmed</option>
-            <option value="present">Already Present</option>
+            <option value="interested">{t('eviction.interested')}</option>
+            <option value="confirmed">{t('eviction.confirmed')}</option>
+            <option value="present">{t('eviction.alreadyPresent')}</option>
           </select>
         </div>
 
@@ -242,15 +244,14 @@ export function WitnessMobilizationPanel({ evictionCase, onUpdated }: WitnessMob
           type="submit"
           className="w-full px-4 py-2 bg-rstu-red text-white rounded-lg text-sm font-medium hover:bg-red-700 transition-colors"
         >
-          Add Witness
+          {t('eviction.addWitness')}
         </button>
       </form>
 
       {/* Info Box */}
       <div className="p-3 bg-blue-50 rounded-lg text-xs text-blue-700 border border-blue-200">
         <p>
-          <strong>Building court presence:</strong> Having neighbors, tenants, and organizers present at court
-          shows the judge that the building is organized and increases chances of dismissal or favorable outcomes.
+          {t('eviction.courtPresenceInfo')}
         </p>
       </div>
     </div>

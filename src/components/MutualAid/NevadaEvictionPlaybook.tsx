@@ -2,6 +2,7 @@
 
 import React, { useState, useMemo } from 'react'
 import { getNevadaGuidance, getAllNevadaGuidance, type NevadaNoticeGuidance } from '@/lib/storage/evictionDefenseStorage'
+import { useLanguage } from '@/contexts/LanguageContext'
 
 interface NevadaEvictionPlaybookProps {
   selectedNoticeType?: '3-day' | '5-day' | '7-day' | '30-day'
@@ -9,13 +10,14 @@ interface NevadaEvictionPlaybookProps {
 }
 
 export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEvictionPlaybookProps) {
+  const { t } = useLanguage()
   const [noticeType, setNoticeType] = useState<'3-day' | '5-day' | '7-day' | '30-day'>(selectedNoticeType || '3-day')
   const [expandedSection, setExpandedSection] = useState<string>('overview')
 
   const guidance = useMemo(() => getNevadaGuidance(noticeType), [noticeType])
 
   if (!guidance) {
-    return <div className="p-4 text-gray-500">Notice type not found</div>
+    return <div className="p-4 text-gray-500">{t('eviction.noticeNotFound')}</div>
   }
 
   return (
@@ -24,8 +26,8 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
       <div className="p-4 border-b border-gray-200 bg-gray-50 flex-shrink-0">
         <div className="flex items-start justify-between mb-3">
           <div>
-            <h2 className="text-lg font-bold text-gray-900">Nevada Eviction Playbook</h2>
-            <p className="text-sm text-gray-600 mt-1">Know your rights. Understand the legal process.</p>
+            <h2 className="text-lg font-bold text-gray-900">{t('eviction.nevadaPlaybook')}</h2>
+            <p className="text-sm text-gray-600 mt-1">{t('eviction.knowYourRights')}</p>
           </div>
           {onClose && (
             <button
@@ -41,7 +43,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
 
         {/* Notice Type Selector */}
         <div className="space-y-2">
-          <label className="block text-xs font-semibold text-gray-700">Notice Type</label>
+          <label className="block text-xs font-semibold text-gray-700">{t('eviction.noticeTypeLabel')}</label>
           <div className="grid grid-cols-2 gap-2">
             {(['3-day', '5-day', '7-day', '30-day'] as const).map((type) => (
               <button
@@ -53,7 +55,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
                     : 'bg-white border border-gray-200 text-gray-700 hover:bg-gray-50'
                 }`}
               >
-                {type} Notice
+                {type} {t('eviction.notice')}
               </button>
             ))}
           </div>
@@ -75,7 +77,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
             onClick={() => setExpandedSection(expandedSection === 'requirements' ? '' : 'requirements')}
             className="w-full p-3 bg-gray-50 border-b border-gray-200 hover:bg-gray-100 flex items-center justify-between"
           >
-            <h4 className="font-semibold text-gray-900 text-sm">Notice Requirements</h4>
+            <h4 className="font-semibold text-gray-900 text-sm">{t('eviction.noticeRequirements')}</h4>
             <svg
               className={`w-4 h-4 text-gray-600 transition-transform ${expandedSection === 'requirements' ? 'rotate-180' : ''}`}
               fill="none"
@@ -88,7 +90,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
           {expandedSection === 'requirements' && (
             <div className="p-4 space-y-3">
               <div>
-                <h5 className="text-xs font-semibold text-gray-900 mb-2">Must Include:</h5>
+                <h5 className="text-xs font-semibold text-gray-900 mb-2">{t('eviction.mustInclude')}</h5>
                 <ul className="space-y-1">
                   {guidance.requirements.mustInclude.map((item, i) => (
                     <li key={i} className="text-xs text-gray-700 flex items-start gap-2">
@@ -99,7 +101,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
                 </ul>
               </div>
               <div>
-                <h5 className="text-xs font-semibold text-gray-900 mb-2">Service Methods:</h5>
+                <h5 className="text-xs font-semibold text-gray-900 mb-2">{t('eviction.serviceMethods')}</h5>
                 <ul className="space-y-1">
                   {guidance.requirements.serviceMethod.map((item, i) => (
                     <li key={i} className="text-xs text-gray-700 flex items-start gap-2">
@@ -111,7 +113,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
               </div>
               <div className="bg-yellow-50 border border-yellow-200 rounded p-2">
                 <p className="text-xs text-yellow-800">
-                  <strong>Timeline:</strong> {guidance.requirements.timeline}
+                  <strong>{t('eviction.timeline')}</strong> {guidance.requirements.timeline}
                 </p>
               </div>
             </div>
@@ -124,7 +126,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
             onClick={() => setExpandedSection(expandedSection === 'defects' ? '' : 'defects')}
             className="w-full p-3 bg-gray-50 border-b border-gray-200 hover:bg-gray-100 flex items-center justify-between"
           >
-            <h4 className="font-semibold text-gray-900 text-sm">Common Defects & How to Challenge</h4>
+            <h4 className="font-semibold text-gray-900 text-sm">{t('eviction.commonDefects')}</h4>
             <svg
               className={`w-4 h-4 text-gray-600 transition-transform ${expandedSection === 'defects' ? 'rotate-180' : ''}`}
               fill="none"
@@ -152,7 +154,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
             onClick={() => setExpandedSection(expandedSection === 'options' ? '' : 'options')}
             className="w-full p-3 bg-gray-50 border-b border-gray-200 hover:bg-gray-100 flex items-center justify-between"
           >
-            <h4 className="font-semibold text-gray-900 text-sm">Your Options as a Tenant</h4>
+            <h4 className="font-semibold text-gray-900 text-sm">{t('eviction.tenantOptions')}</h4>
             <svg
               className={`w-4 h-4 text-gray-600 transition-transform ${expandedSection === 'options' ? 'rotate-180' : ''}`}
               fill="none"
@@ -168,7 +170,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
                 <div key={i} className="bg-green-50 border border-green-200 rounded p-3">
                   <h5 className="text-sm font-semibold text-green-900 mb-1">{option.option}</h5>
                   <div className="text-xs text-green-700 mb-2">
-                    <strong>Deadline:</strong> {option.deadline}
+                    <strong>{t('eviction.deadline')}</strong> {option.deadline}
                   </div>
                   <p className="text-xs text-green-700">{option.procedure}</p>
                 </div>
@@ -183,7 +185,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
             onClick={() => setExpandedSection(expandedSection === 'court' ? '' : 'court')}
             className="w-full p-3 bg-gray-50 border-b border-gray-200 hover:bg-gray-100 flex items-center justify-between"
           >
-            <h4 className="font-semibold text-gray-900 text-sm">Court Process & Your Rights</h4>
+            <h4 className="font-semibold text-gray-900 text-sm">{t('eviction.courtProcess')}</h4>
             <svg
               className={`w-4 h-4 text-gray-600 transition-transform ${expandedSection === 'court' ? 'rotate-180' : ''}`}
               fill="none"
@@ -207,7 +209,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
                     <strong>Timeline:</strong> {stage.timeline}
                   </div>
                   <div className="text-xs text-purple-700">
-                    <strong>Your Rights:</strong>
+                    <strong>{t('eviction.yourRights')}</strong>
                     <ul className="mt-1 space-y-1 ml-2">
                       {stage.tenantRights.map((right, j) => (
                         <li key={j} className="flex items-start gap-2">
@@ -229,7 +231,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
             onClick={() => setExpandedSection(expandedSection === 'resources' ? '' : 'resources')}
             className="w-full p-3 bg-gray-50 border-b border-gray-200 hover:bg-gray-100 flex items-center justify-between"
           >
-            <h4 className="font-semibold text-gray-900 text-sm">Legal Resources</h4>
+            <h4 className="font-semibold text-gray-900 text-sm">{t('eviction.legalResources')}</h4>
             <svg
               className={`w-4 h-4 text-gray-600 transition-transform ${expandedSection === 'resources' ? 'rotate-180' : ''}`}
               fill="none"
@@ -245,10 +247,10 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
                 <div key={i} className="bg-teal-50 border border-teal-200 rounded p-3">
                   <h5 className="text-sm font-semibold text-teal-900 mb-1">{resource.name}</h5>
                   <p className="text-xs text-teal-700 mb-1">
-                    <strong>Contact:</strong> {resource.contact}
+                    <strong>{t('eviction.contactLabel')}</strong> {resource.contact}
                   </p>
                   <p className="text-xs text-teal-700">
-                    <strong>Services:</strong> {resource.services}
+                    <strong>{t('eviction.services')}</strong> {resource.services}
                   </p>
                 </div>
               ))}
@@ -259,7 +261,7 @@ export function NevadaEvictionPlaybook({ selectedNoticeType, onClose }: NevadaEv
         {/* Disclaimer */}
         <div className="bg-gray-100 rounded p-3 text-xs text-gray-600 italic">
           <p>
-            This is educational material about Nevada tenant rights. It is not legal advice. For legal representation, contact Northern Nevada Legal Aid at (775) 321-1511 or visit lacsn.org.
+            {t('eviction.disclaimer')}
           </p>
         </div>
       </div>
