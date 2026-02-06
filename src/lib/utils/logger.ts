@@ -303,12 +303,6 @@ export function createLogger(category: string) {
   }
 }
 
-// Pre-created loggers for common categories
-export const StorageLogger = createLogger('Storage')
-export const AuthLogger = createLogger('Auth')
-export const NetworkLogger = createLogger('Network')
-export const CryptoLogger = createLogger('Crypto')
-
 // ============================================================================
 // Export default logger instance
 // ============================================================================

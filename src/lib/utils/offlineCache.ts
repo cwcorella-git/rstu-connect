@@ -154,43 +154,6 @@ export function getCached<T>(key: string, allowExpired: boolean = false): T | nu
 }
 
 /**
- * Get cached data with metadata
- */
-export function getCachedWithMeta<T>(key: string): {
-  data: T | null
-  cachedAt: number | null
-  isExpired: boolean
-  etag?: string
-} {
-  if (typeof window === 'undefined') {
-    return { data: null, cachedAt: null, isExpired: true }
-  }
-
-  const meta = getCacheMeta()
-  const entry = meta.entries[key]
-  const cacheKey = getCacheKey(key)
-
-  if (!entry) {
-    return { data: null, cachedAt: null, isExpired: true }
-  }
-
-  try {
-    const stored = localStorage.getItem(cacheKey)
-    const data = stored ? JSON.parse(stored) as T : null
-    const isExpired = Date.now() > entry.expiresAt
-
-    return {
-      data,
-      cachedAt: entry.cachedAt,
-      isExpired,
-      etag: entry.etag,
-    }
-  } catch {
-    return { data: null, cachedAt: null, isExpired: true }
-  }
-}
-
-/**
  * Invalidate a specific cache entry
  */
 export function invalidateCache(key: string): void {
@@ -260,13 +223,8 @@ export function isCached(key: string, checkExpiry: boolean = true): boolean {
 /**
  * Get the etag for a cached entry (for conditional requests)
  */
-export function getCacheEtag(key: string): string | undefined {
-  const meta = getCacheMeta()
-  return meta.entries[key]?.etag
-}
-
 /**
- * Clear all cached data
+ * Clear all cached data (internal use)
  */
 export function clearAllCache(): void {
   if (typeof window === 'undefined') return
@@ -345,40 +303,6 @@ export function pruneOldEntries(): void {
 /**
  * Get cache statistics
  */
-export function getCacheStats(): {
-  entryCount: number
-  totalSize: number
-  oldestEntry: number | null
-  newestEntry: number | null
-} {
-  if (typeof window === 'undefined') {
-    return { entryCount: 0, totalSize: 0, oldestEntry: null, newestEntry: null }
-  }
-
-  const meta = getCacheMeta()
-  const entries = Object.values(meta.entries)
-
-  let totalSize = 0
-  for (let i = 0; i < localStorage.length; i++) {
-    const key = localStorage.key(i)
-    if (key?.startsWith(CACHE_PREFIX)) {
-      const value = localStorage.getItem(key)
-      if (value) {
-        totalSize += key.length + value.length
-      }
-    }
-  }
-
-  const timestamps = entries.map(e => e.cachedAt)
-
-  return {
-    entryCount: entries.length,
-    totalSize,
-    oldestEntry: timestamps.length > 0 ? Math.min(...timestamps) : null,
-    newestEntry: timestamps.length > 0 ? Math.max(...timestamps) : null,
-  }
-}
-
 // ============================================
 // Typed Cache Helpers
 // ============================================

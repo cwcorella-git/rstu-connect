@@ -105,10 +105,9 @@ export function checkRateLimit(
 }
 
 /**
- * Record an action for rate limiting
- * Call this after checkRateLimit returns allowed: true
+ * Record an action for rate limiting (internal use by tryAction)
  */
-export function recordAction(action: string, userId?: string): void {
+function recordAction(action: string, userId?: string): void {
   const config = RATE_LIMITS[action]
   if (!config) return
 
@@ -142,64 +141,4 @@ export function tryAction(
   }
 
   return result
-}
-
-/**
- * Get remaining requests for an action
- */
-export function getRemainingRequests(action: string, userId?: string): number {
-  const result = checkRateLimit(action, userId)
-  return result.remaining
-}
-
-/**
- * Reset rate limit for an action (for testing or admin use)
- */
-export function resetRateLimit(action: string, userId?: string): void {
-  const key = getRateLimitKey(action, userId)
-  rateLimitStore.delete(key)
-}
-
-/**
- * Clear all rate limits (for testing)
- */
-export function clearAllRateLimits(): void {
-  rateLimitStore.clear()
-}
-
-/**
- * Hook-friendly rate limit check with error message
- */
-export function useRateLimitCheck(action: string, userId?: string) {
-  return {
-    check: () => checkRateLimit(action, userId),
-    tryAction: () => tryAction(action, userId),
-    getRemaining: () => getRemainingRequests(action, userId),
-    reset: () => resetRateLimit(action, userId)
-  }
-}
-
-/**
- * Decorator/wrapper for rate-limited async functions
- * Throws error if rate limited
- */
-export async function withRateLimit<T>(
-  action: string,
-  userId: string | undefined,
-  fn: () => Promise<T>
-): Promise<T> {
-  const result = tryAction(action, userId)
-
-  if (!result.allowed) {
-    throw new Error(result.error || 'Rate limited')
-  }
-
-  return fn()
-}
-
-/**
- * Get all configured rate limits (for display purposes)
- */
-export function getRateLimitConfigs(): Record<string, RateLimitConfig> {
-  return { ...RATE_LIMITS }
 }

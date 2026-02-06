@@ -520,16 +520,3 @@ export function downloadHabitabilityNoticePDF(
   document.body.removeChild(link)
   URL.revokeObjectURL(url)
 }
-
-/**
- * Generate filename for habitability notice
- */
-export function getHabitabilityNoticeFilename(propertyAddress: string): string {
-  const sanitizedAddress = propertyAddress
-    .toLowerCase()
-    .replace(/[^a-z0-9]/g, '-')
-    .replace(/-+/g, '-')
-    .slice(0, 30)
-  const timestamp = new Date().toISOString().split('T')[0]
-  return `habitability-demand-${sanitizedAddress}-${timestamp}.pdf`
-}
