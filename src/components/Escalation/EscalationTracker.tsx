@@ -23,6 +23,7 @@ import {
   getCasesNeedingAttention,
   getEnhancedSuggestion,
 } from '@/lib/storage/escalationStorage'
+import { EscalationLadderMini } from './EscalationLadderMini'
 
 interface EscalationTrackerProps {
   buildingId: string
@@ -228,6 +229,11 @@ export function EscalationTracker({
                           EMERGENCY
                         </span>
                       )}
+                    </div>
+
+                    {/* Progress Ladder */}
+                    <div className="mt-1.5">
+                      <EscalationLadderMini caseData={caseData} />
                     </div>
 
                     {/* Affected Units */}

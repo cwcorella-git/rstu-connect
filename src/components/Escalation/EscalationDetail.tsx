@@ -48,6 +48,7 @@ import {
 import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { getStrikeForBuilding } from '@/lib/storage/strikeStorage'
 import { StrikeEscalationPanel } from './StrikeEscalationPanel'
+import { EscalationLadder } from './EscalationLadder'
 
 interface EscalationDetailProps {
   caseData: EscalationCase
@@ -172,34 +173,40 @@ export function EscalationDetail({ caseData, onBack, onUpdate }: EscalationDetai
         <p className="text-sm text-gray-600 mt-2">{caseData.description}</p>
       </div>
 
-      {/* Stage Progress */}
+      {/* Escalation Ladder */}
       <div className="p-4 border-b border-gray-200 flex-shrink-0">
-        <div className="flex items-center justify-between mb-2">
-          {stageOrder.map((stage, index) => {
-            const isComplete = index < currentStageIndex
-            const isCurrent = index === currentStageIndex
-            return (
-              <div key={stage} className="flex items-center">
-                <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium ${
-                  isComplete ? 'bg-green-500 text-white' :
-                  isCurrent ? 'bg-blue-600 text-white' :
-                  'bg-gray-200 text-gray-500'
-                }`}>
-                  {isComplete ? <CheckIcon className="w-4 h-4" /> : index + 1}
-                </div>
-                {index < stageOrder.length - 1 && (
-                  <div className={`w-8 h-1 ${
-                    index < currentStageIndex ? 'bg-green-500' : 'bg-gray-200'
-                  }`} />
-                )}
-              </div>
-            )
-          })}
-        </div>
-        <div className="text-center">
-          <p className="font-medium text-gray-900">{t(`escalation.stage.${caseData.stage}`)}</p>
-          <p className="text-sm text-gray-500">{t(`escalation.stageDesc.${caseData.stage}`)}</p>
-        </div>
+        <EscalationLadder
+          caseData={caseData}
+          onActionClick={(actionType) => {
+            switch (actionType) {
+              case 'draft_demand':
+              case 'edit_demand':
+                setShowDemandForm(true)
+                break
+              case 'record_delivery':
+                setShowDeliveryForm(true)
+                break
+              case 'log_response':
+                setShowResponseForm(true)
+                break
+              case 'start_escalation':
+              case 'add_escalation':
+                setShowEscalationForm(true)
+                break
+              case 'resolve':
+                setShowResolveForm(true)
+                break
+              case 'add_evidence':
+                const desc = prompt('Describe the evidence:')
+                if (desc && currentProfile) {
+                  addEvidence(caseData.id, { type: 'other', description: desc }, currentProfile.id)
+                  refreshCase()
+                }
+                break
+            }
+          }}
+          variant="full"
+        />
       </div>
 
       {/* Deadline Banner */}
