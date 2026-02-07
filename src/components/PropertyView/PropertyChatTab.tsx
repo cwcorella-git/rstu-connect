@@ -13,6 +13,7 @@ import { BlocFormationProposalBanner } from '@/components/Chat/BlocFormationProp
 import { CampaignStatusBanner } from '@/components/Chat/CampaignStatusBanner'
 import { EvictionAlertBanner } from '@/components/Chat/EvictionAlertBanner'
 import { LandlordAlertBanner } from '@/components/Chat/LandlordAlertBanner'
+import { SolidaritySection } from '@/components/PropertyView/SolidaritySection'
 import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
@@ -171,6 +172,14 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
         <LandlordAlertBanner
           buildingApn={building.apn}
           allBuildings={allBuildings}
+        />
+      </div>
+
+      {/* Solidarity Section - You're not alone signals */}
+      <div className="flex-shrink-0">
+        <SolidaritySection
+          chatSlug={chatSlug}
+          totalUnits={building.units}
         />
       </div>
 

@@ -156,8 +156,21 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.managedBy': 'Managed by',
     'buildings.multipleProperties': 'Owner has multiple properties at different addresses',
     'buildings.evictions': 'evictions',
+    'buildings.neighbors': 'neighbors',
+    'buildings.neighborsTooltip': 'Other tenants are active at this building',
     'buildings.addFavorite': 'Add to favorites',
     'buildings.removeFavorite': 'Remove from favorites',
+
+    // Solidarity (You're not alone signals)
+    'solidarity.title': "You're Not Alone",
+    'solidarity.neighborsHere': 'neighbors are here',
+    'solidarity.activelyOrganizing': 'actively organizing',
+    'solidarity.issueReported': 'issue reported',
+    'solidarity.issuesReported': 'issues reported',
+    'solidarity.buildingReached': 'of building reached',
+    'solidarity.joinThem': 'Join them - tap Chat to connect',
+    'solidarity.beFirst': 'Be the first to connect with your neighbors',
+    'solidarity.privacyNote': 'Only counts shown - no names shared',
 
     // Tools
     'tools.unitTracker': 'Unit Tracker',
@@ -2617,8 +2630,21 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.managedBy': 'Administrado por',
     'buildings.multipleProperties': 'El propietario tiene multiples propiedades',
     'buildings.evictions': 'desalojos',
+    'buildings.neighbors': 'vecinos',
+    'buildings.neighborsTooltip': 'Otros inquilinos están activos en este edificio',
     'buildings.addFavorite': 'Agregar a favoritos',
     'buildings.removeFavorite': 'Quitar de favoritos',
+
+    // Solidarity (You're not alone signals)
+    'solidarity.title': 'No estás solo',
+    'solidarity.neighborsHere': 'vecinos están aquí',
+    'solidarity.activelyOrganizing': 'organizándose activamente',
+    'solidarity.issueReported': 'problema reportado',
+    'solidarity.issuesReported': 'problemas reportados',
+    'solidarity.buildingReached': 'del edificio alcanzado',
+    'solidarity.joinThem': 'Únete a ellos - toca Chat para conectar',
+    'solidarity.beFirst': 'Sé el primero en conectar con tus vecinos',
+    'solidarity.privacyNote': 'Solo se muestran conteos - no se comparten nombres',
 
     // Tools
     'tools.unitTracker': 'Rastreador de Unidades',
@@ -5064,8 +5090,21 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.managedBy': 'Pinapamahalaan ng',
     'buildings.multipleProperties': 'May maraming property ang may-ari',
     'buildings.evictions': 'pagpapaalis',
+    'buildings.neighbors': 'kapitbahay',
+    'buildings.neighborsTooltip': 'May mga umuupang aktibo sa gusaling ito',
     'buildings.addFavorite': 'Idagdag sa paborito',
     'buildings.removeFavorite': 'Alisin sa paborito',
+
+    // Solidarity (You're not alone signals)
+    'solidarity.title': 'Hindi Ka Nag-iisa',
+    'solidarity.neighborsHere': 'kapitbahay ang nandito',
+    'solidarity.activelyOrganizing': 'aktibong nag-oorganisa',
+    'solidarity.issueReported': 'isyung nai-ulat',
+    'solidarity.issuesReported': 'mga isyung nai-ulat',
+    'solidarity.buildingReached': 'ng gusali ang naabot',
+    'solidarity.joinThem': 'Sumali sa kanila - i-tap ang Chat para kumonekta',
+    'solidarity.beFirst': 'Maging una sa pakikipag-ugnay sa iyong mga kapitbahay',
+    'solidarity.privacyNote': 'Mga bilang lang ang ipinapakita - walang ibinahaging pangalan',
 
     // Tools
     'tools.unitTracker': 'Unit Tracker',
@@ -7567,8 +7606,21 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.managedBy': '管理公司',
     'buildings.multipleProperties': '业主在不同地址拥有多处物业',
     'buildings.evictions': '次驱逐',
+    'buildings.neighbors': '名邻居',
+    'buildings.neighborsTooltip': '其他租户在此楼活跃',
     'buildings.addFavorite': '添加到收藏',
     'buildings.removeFavorite': '从收藏中移除',
+
+    // Solidarity (You're not alone signals)
+    'solidarity.title': '你并不孤单',
+    'solidarity.neighborsHere': '名邻居在这里',
+    'solidarity.activelyOrganizing': '正在积极组织',
+    'solidarity.issueReported': '个问题已报告',
+    'solidarity.issuesReported': '个问题已报告',
+    'solidarity.buildingReached': '的楼栋已覆盖',
+    'solidarity.joinThem': '加入他们 - 点击聊天来连接',
+    'solidarity.beFirst': '成为第一个与邻居联系的人',
+    'solidarity.privacyNote': '仅显示数量 - 不分享姓名',
 
     // Tools
     'tools.unitTracker': '单元追踪器',
@@ -10056,8 +10108,21 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.managedBy': 'Quản lý bởi',
     'buildings.multipleProperties': 'Chủ sở hữu có nhiều bất động sản tại các địa chỉ khác nhau',
     'buildings.evictions': 'vụ trục xuất',
+    'buildings.neighbors': 'hàng xóm',
+    'buildings.neighborsTooltip': 'Các cư dân khác đang hoạt động tại tòa nhà này',
     'buildings.addFavorite': 'Thêm vào yêu thích',
     'buildings.removeFavorite': 'Xóa khỏi yêu thích',
+
+    // Solidarity (You're not alone signals)
+    'solidarity.title': 'Bạn Không Cô Đơn',
+    'solidarity.neighborsHere': 'hàng xóm đang ở đây',
+    'solidarity.activelyOrganizing': 'đang tích cực tổ chức',
+    'solidarity.issueReported': 'vấn đề đã báo cáo',
+    'solidarity.issuesReported': 'vấn đề đã báo cáo',
+    'solidarity.buildingReached': 'tòa nhà đã tiếp cận',
+    'solidarity.joinThem': 'Tham gia cùng họ - nhấn Chat để kết nối',
+    'solidarity.beFirst': 'Hãy là người đầu tiên kết nối với hàng xóm của bạn',
+    'solidarity.privacyNote': 'Chỉ hiển thị số lượng - không chia sẻ tên',
 
     // Tools
     'tools.unitTracker': 'Theo dõi căn hộ',

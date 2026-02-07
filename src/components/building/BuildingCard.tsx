@@ -31,13 +31,14 @@ interface BuildingCardProps {
   isInLinkingSelection?: boolean;
   isLinked?: boolean;
   linkedGroupName?: string;
+  neighborCount?: number;  // Active members + interested tenants (for "you're not alone" signals)
   onClick: () => void;
   onToggleFavorite: (e: React.MouseEvent) => void;
   onCtrlClick?: (e: React.MouseEvent) => void;
   'data-apn'?: string;
 }
 
-export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
+export const BuildingCard = React.memo(function BuildingCard({ building, isSelected, isFavorite, isInLinkingSelection, isLinked, linkedGroupName, neighborCount, onClick, onToggleFavorite, onCtrlClick, 'data-apn': dataApn }: BuildingCardProps) {
   const { t } = useLanguage();
 
   // Long press state for mobile linking
@@ -198,6 +199,16 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
                 {building.evictionCount} {t('buildings.evictions')}
               </span>
             )}
+
+            {/* Neighbors indicator - only show if 2+ for privacy */}
+            {neighborCount !== undefined && neighborCount >= 2 && (
+              <span
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-cyan-100 text-cyan-700"
+                title={t('buildings.neighborsTooltip')}
+              >
+                {neighborCount >= 5 ? '5+' : neighborCount} {t('buildings.neighbors')}
+              </span>
+            )}
           </div>
         </div>
         <button
@@ -229,5 +240,6 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
          prev.isFavorite === next.isFavorite &&
          prev.isInLinkingSelection === next.isInLinkingSelection &&
          prev.isLinked === next.isLinked &&
-         prev.linkedGroupName === next.linkedGroupName;
+         prev.linkedGroupName === next.linkedGroupName &&
+         prev.neighborCount === next.neighborCount;
 });

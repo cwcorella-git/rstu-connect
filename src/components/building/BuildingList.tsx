@@ -11,7 +11,7 @@ import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib
 import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/services/supabase';
 import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/utils/searchIndex';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { getHabitabilityScore, getEffectiveOrganizingPriority } from '@/lib/storage/canvassStorage';
+import { getHabitabilityScore, getEffectiveOrganizingPriority, getTenantSafeProgress } from '@/lib/storage/canvassStorage';
 
 // Sort options for the property list
 type SortOption =
@@ -450,6 +450,22 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     return items;
   }, [filteredBuildings, apnToGroup]);
 
+  // Compute neighbor counts for "you're not alone" signals
+  // Only computed for buildings with canvass data (most won't have any)
+  const neighborCounts = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const building of filteredBuildings) {
+      const progress = getTenantSafeProgress(building.chatSlug);
+      if (progress.hasCanvassData) {
+        const count = (progress.activeMembers || 0) + (progress.interested || 0);
+        if (count > 0) {
+          counts.set(building.apn, count);
+        }
+      }
+    }
+    return counts;
+  }, [filteredBuildings]);
+
   // Handle unlink - refresh linked groups
   const handleUnlink = useCallback(() => {
     setLinkedGroups(getLinkedGroups());
@@ -597,6 +613,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
                     isFavorite={favorites.has(building.apn)}
                     isInLinkingSelection={linkingSelection.some(b => b.apn === building.apn)}
                     isLinked={false}
+                    neighborCount={neighborCounts.get(building.apn)}
                     onClick={() => onSelectBuilding(building)}
                     onToggleFavorite={(e) => handleToggleFavorite(building.apn, e)}
                     onCtrlClick={onToggleLinkSelection ? () => onToggleLinkSelection(building) : undefined}
