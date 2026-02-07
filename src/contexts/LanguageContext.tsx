@@ -155,6 +155,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.portfolio': 'Portfolio',
     'buildings.managedBy': 'Managed by',
     'buildings.multipleProperties': 'Owner has multiple properties at different addresses',
+    'buildings.evictions': 'evictions',
     'buildings.addFavorite': 'Add to favorites',
     'buildings.removeFavorite': 'Remove from favorites',
 
@@ -2615,6 +2616,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.portfolio': 'Portafolio',
     'buildings.managedBy': 'Administrado por',
     'buildings.multipleProperties': 'El propietario tiene multiples propiedades',
+    'buildings.evictions': 'desalojos',
     'buildings.addFavorite': 'Agregar a favoritos',
     'buildings.removeFavorite': 'Quitar de favoritos',
 
@@ -5061,6 +5063,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.portfolio': 'Portfolio',
     'buildings.managedBy': 'Pinapamahalaan ng',
     'buildings.multipleProperties': 'May maraming property ang may-ari',
+    'buildings.evictions': 'pagpapaalis',
     'buildings.addFavorite': 'Idagdag sa paborito',
     'buildings.removeFavorite': 'Alisin sa paborito',
 
@@ -7563,6 +7566,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.portfolio': '投资组合',
     'buildings.managedBy': '管理公司',
     'buildings.multipleProperties': '业主在不同地址拥有多处物业',
+    'buildings.evictions': '次驱逐',
     'buildings.addFavorite': '添加到收藏',
     'buildings.removeFavorite': '从收藏中移除',
 
@@ -10051,6 +10055,7 @@ const translations: Record<Locale, Record<string, string>> = {
     'buildings.portfolio': 'Danh mục',
     'buildings.managedBy': 'Quản lý bởi',
     'buildings.multipleProperties': 'Chủ sở hữu có nhiều bất động sản tại các địa chỉ khác nhau',
+    'buildings.evictions': 'vụ trục xuất',
     'buildings.addFavorite': 'Thêm vào yêu thích',
     'buildings.removeFavorite': 'Xóa khỏi yêu thích',
 

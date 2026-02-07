@@ -34,6 +34,10 @@ interface CompressedProperty {
   cs?: string;    // chat_slug (pre-computed for performance)
   apns?: string[];   // all APNs (multi-parcel properties only)
   addrs?: string[];  // all addresses (multi-parcel properties only)
+  // Eviction data (from landlord_accountability.db)
+  ev?: number;    // evictionCount (total filings)
+  evr?: number;   // evictionsPer100Units (rate-based comparison)
+  tdr?: number;   // tenantDefenseRate (% of resolved cases where tenant was not evicted)
 }
 
 interface AllPropertiesData {
@@ -127,6 +131,11 @@ function expandProperty(p: CompressedProperty, index: number): EnhancedBuilding 
     assessedLandValue: p.lv || undefined,
     assessedImprovementValue: p.iv || undefined,
     valuePerUnit: p.u > 0 && p.v ? Math.round(p.v / p.u) : undefined,
+
+    // Eviction data (from landlord_accountability.db)
+    evictionCount: p.ev || undefined,
+    evictionsPer100Units: p.evr || undefined,
+    tenantDefenseRate: p.tdr || undefined,
   };
 }
 

@@ -188,6 +188,16 @@ export const BuildingCard = React.memo(function BuildingCard({ building, isSelec
                 {t('buildings.portfolio')}
               </span>
             )}
+
+            {/* Eviction history */}
+            {building.evictionCount && building.evictionCount > 0 && (
+              <span
+                className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-red-100 text-red-700"
+                title={`${building.evictionCount} eviction filings${building.evictionsPer100Units ? ` (${building.evictionsPer100Units}/100 units)` : ''}`}
+              >
+                {building.evictionCount} {t('buildings.evictions')}
+              </span>
+            )}
           </div>
         </div>
         <button

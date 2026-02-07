@@ -35,6 +35,9 @@ Property keys are abbreviated to minimize file size:
   addrs = list of all addresses (multi-parcel properties only)
   mc = management_company_id (extracted from owner_address C/O or ATTN patterns)
   cs = chat_slug (pre-computed for performance)
+  ev = evictionCount (total eviction filings from landlord_accountability.db)
+  evr = evictionsPer100Units (rate-based comparison)
+  tdr = tenantDefenseRate (% of resolved cases where tenant was not evicted)
 """
 
 import json
@@ -55,6 +58,7 @@ except ImportError:
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent.parent  # scripts/build/ -> scripts/ -> project root
 DB_PATH = PROJECT_ROOT / "data/databases/main_properties.db"
+EVICTION_DB_PATH = PROJECT_ROOT / "data/databases/landlord_accountability.db"
 OUTPUT_PATH = PROJECT_ROOT / "public/data/all-properties.json"
 MGMT_OUTPUT_PATH = PROJECT_ROOT / "public/data/management-companies.json"
 NAMES_PATH = PROJECT_ROOT / "src/data/property-names.json"
@@ -530,10 +534,55 @@ def generate_chat_slug(address: str) -> str:
     return 'rstu-' + slug[:50]
 
 
+def load_eviction_data() -> dict[str, dict]:
+    """
+    Load eviction statistics by property APN from landlord_accountability.db.
+    Returns dict of APN -> {count, landlord_wins, tenant_wins, dismissals}.
+    """
+    if not EVICTION_DB_PATH.exists():
+        print(f"Warning: Eviction database not found: {EVICTION_DB_PATH}")
+        return {}
+
+    conn = sqlite3.connect(str(EVICTION_DB_PATH))
+    cursor = conn.cursor()
+
+    # Aggregate eviction stats by property APN
+    # judgment_for: 'plaintiff' (landlord won), 'defendant' (tenant won), 'dismissed', NULL (pending)
+    # In eviction cases, plaintiff = landlord, defendant = tenant
+    cursor.execute("""
+        SELECT
+            property_apn,
+            COUNT(*) as total,
+            SUM(CASE WHEN judgment_for = 'plaintiff' THEN 1 ELSE 0 END) as landlord_wins,
+            SUM(CASE WHEN judgment_for = 'defendant' THEN 1 ELSE 0 END) as tenant_wins,
+            SUM(CASE WHEN judgment_for = 'dismissed' OR case_status = 'dismissed' THEN 1 ELSE 0 END) as dismissals
+        FROM eviction_records
+        WHERE property_apn IS NOT NULL AND property_apn != ''
+        GROUP BY property_apn
+    """)
+
+    eviction_data = {}
+    for row in cursor.fetchall():
+        apn, total, landlord_wins, tenant_wins, dismissals = row
+        eviction_data[apn] = {
+            'count': total,
+            'landlord_wins': landlord_wins or 0,
+            'tenant_wins': tenant_wins or 0,
+            'dismissals': dismissals or 0,
+        }
+
+    conn.close()
+    print(f"Loaded eviction data for {len(eviction_data):,} properties")
+    return eviction_data
+
+
 def main():
     if not DB_PATH.exists():
         print(f"Database not found: {DB_PATH}")
         return
+
+    # Load eviction data from landlord_accountability.db
+    eviction_data = load_eviction_data()
 
     # Load property names if available
     property_names = {}
@@ -654,6 +703,8 @@ def main():
         if coords:
             prop["t"] = coords[0]  # latitude
             prop["g"] = coords[1]  # longitude
+
+        # NOTE: Eviction data is added AFTER multi-parcel grouping to aggregate across all APNs
 
         # Extract management company from owner name patterns or owner_address (C/O or ATTN patterns)
         mgmt_name, mgmt_method = extract_management_company(owner, owner_address)
@@ -834,6 +885,48 @@ def main():
     # Add ungrouped properties
     properties.extend(ungrouped)
 
+    # ============================================================
+    # PHASE 3: Add eviction data (aggregated across all APNs)
+    # ============================================================
+    eviction_matched = 0
+    for prop in properties:
+        # Get all APNs for this property (primary + any multi-parcel APNs)
+        all_apns = prop.get('apns', [prop['a']])
+        if not isinstance(all_apns, list):
+            all_apns = [prop['a']]
+
+        # Aggregate evictions across all APNs
+        total_evictions = 0
+        total_landlord_wins = 0
+        total_tenant_wins = 0
+        total_dismissals = 0
+
+        for apn in all_apns:
+            if apn in eviction_data:
+                ev = eviction_data[apn]
+                total_evictions += ev['count']
+                total_landlord_wins += ev['landlord_wins']
+                total_tenant_wins += ev['tenant_wins']
+                total_dismissals += ev['dismissals']
+
+        if total_evictions > 0:
+            eviction_matched += 1
+            prop["ev"] = total_evictions  # total eviction filings
+
+            # Calculate evictions per 100 units (rate-based comparison)
+            units = prop.get("u", 0)
+            if units and units > 0:
+                prop["evr"] = round(total_evictions * 100 / units, 1)
+
+            # Add tenant defense rate if there were resolved cases
+            resolved = total_landlord_wins + total_tenant_wins + total_dismissals
+            if resolved > 0:
+                # Defense success = tenant wins + dismissals (tenant wasn't evicted)
+                defense_rate = round((total_tenant_wins + total_dismissals) * 100 / resolved, 1)
+                prop["tdr"] = defense_rate
+
+    print(f"Assigned eviction data to {eviction_matched} properties")
+
     # Ensure output directory exists
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
@@ -949,6 +1042,26 @@ def main():
     print(f"\nTOTAL LINKED:")
     print(f"  Properties: {total_linked:,} / {len(properties):,} ({total_linked/len(properties)*100:.1f}%)")
     print(f"  Units: {total_linked_units:,}")
+
+    # Eviction statistics
+    with_evictions = sum(1 for p in properties if 'ev' in p)
+    total_evictions = sum(p.get('ev', 0) for p in properties)
+    eviction_units = sum(p.get('u', 0) for p in properties if 'ev' in p)
+
+    print(f"\nEVICTION DATA (from landlord_accountability.db):")
+    print(f"  Properties with evictions: {with_evictions:,}")
+    print(f"  Total eviction filings: {total_evictions:,}")
+    print(f"  Units at affected properties: {eviction_units:,}")
+    if with_evictions > 0:
+        # Top 5 properties by eviction count
+        top_evictions = sorted(
+            [p for p in properties if 'ev' in p],
+            key=lambda x: -x.get('ev', 0)
+        )[:5]
+        print(f"  Top 5 by eviction count:")
+        for p in top_evictions:
+            evr = p.get('evr', 0)
+            print(f"    - {p['d'][:40]}: {p['ev']} evictions ({evr}/100 units)")
 
     print(f"\nOutput: {MGMT_OUTPUT_PATH}")
 

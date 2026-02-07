@@ -43,9 +43,10 @@ export interface EnhancedBuilding extends Building {
   openViolations?: number;
   avgDaysToResolution?: number;
   violationsPerProperty?: number;
-  evictionsPer100Units?: number;
-  tenantDefenseRate?: number;
-  evictionSuccessRate?: number;
+  evictionCount?: number;           // Total eviction filings at this property
+  evictionsPer100Units?: number;    // Rate-based comparison across properties
+  tenantDefenseRate?: number;       // % of resolved cases where tenant was not evicted
+  evictionSuccessRate?: number;     // (deprecated) Use tenantDefenseRate instead
   mediaAttentionCount?: number;
 
   // === FROM property_intelligence.db ===
