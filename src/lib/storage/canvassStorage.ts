@@ -177,6 +177,9 @@ export interface UnitRecord {
   profileId?: string
   profileNickname?: string
   linkedAt?: number
+
+  // Field mode quick entry
+  enthusiasm?: 1 | 2 | 3 | 4 | 5  // 1=potential leader, 5=probably won't show
 }
 
 // Building canvass data
