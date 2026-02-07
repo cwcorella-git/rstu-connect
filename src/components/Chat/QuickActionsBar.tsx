@@ -9,6 +9,7 @@ export type ProposalType =
   | 'report-issue'
   | 'start-vote'
   | 'report-eviction'
+  | 'start-commitment'
 
 interface QuickActionsBarProps {
   building: EnhancedBuilding
@@ -29,6 +30,7 @@ interface ActionConfig {
 const ACTIONS: ActionConfig[] = [
   { type: 'report-issue', label: 'Report Issue' },
   { type: 'view-issues', label: 'View Issues' },
+  { type: 'start-commitment', label: 'Start Commitment' },
   { type: 'view-campaign', label: 'Campaign', condition: 'has-campaign' },
   { type: 'report-eviction', label: 'Report Eviction' },
   { type: 'start-vote', label: 'Start Bloc Vote', condition: 'bloc-only' },

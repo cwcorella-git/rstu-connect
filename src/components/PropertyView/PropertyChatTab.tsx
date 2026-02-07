@@ -19,7 +19,10 @@ import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
 import { EvictionCaseForm } from '@/components/MutualAid/EvictionCaseForm'
 import { EvictionCaseDetail } from '@/components/MutualAid/EvictionCaseDetail'
+import { CommitmentCard } from '@/components/Commitment/CommitmentCard'
+import { CommitmentCreator } from '@/components/Commitment/CommitmentCreator'
 import { getActiveCases } from '@/lib/storage/escalationStorage'
+import { getActiveCommitments, type Commitment } from '@/lib/storage/commitmentStorage'
 import { getGroupForApn, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
 import { getActiveProposals } from '@/lib/storage/governanceStorage'
 import type { PropertyTab } from './PropertyTabBar'
@@ -50,6 +53,8 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
   const [showBlocJoin, setShowBlocJoin] = useState(false)
   const [showEvictionForm, setShowEvictionForm] = useState(false)
   const [selectedEvictionCaseId, setSelectedEvictionCaseId] = useState<string | null>(null)
+  const [showCommitmentCreator, setShowCommitmentCreator] = useState(false)
+  const [activeCommitments, setActiveCommitments] = useState<Commitment[]>([])
 
   // Profile ID for eviction alert dismissals
   const [profileId, setProfileId] = useState<string | null>(null)
@@ -100,6 +105,14 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
     }
   }, [chatSlug, showEscalationModal, showIssueModal])
 
+  // Load active commitments
+  useEffect(() => {
+    const loadCommitments = () => {
+      setActiveCommitments(getActiveCommitments(chatSlug))
+    }
+    loadCommitments()
+  }, [chatSlug, showCommitmentCreator])
+
   // Handle governance vote submission
   const handleVoteSuggestion = (message: string) => {
     const name = username || 'Tenant'
@@ -118,7 +131,15 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
       case 'report-eviction':
         setShowEvictionForm(true)
         break
+      case 'start-commitment':
+        setShowCommitmentCreator(true)
+        break
     }
+  }
+
+  // Refresh commitments when user joins/leaves
+  const handleCommitmentUpdate = () => {
+    setActiveCommitments(getActiveCommitments(chatSlug))
   }
 
   return (
@@ -182,6 +203,19 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
           totalUnits={building.units}
         />
       </div>
+
+      {/* Active Commitments */}
+      {activeCommitments.length > 0 && (
+        <div className="flex-shrink-0 px-4 pt-2 space-y-2">
+          {activeCommitments.map(commitment => (
+            <CommitmentCard
+              key={commitment.id}
+              commitmentId={commitment.id}
+              onUpdate={handleCommitmentUpdate}
+            />
+          ))}
+        </div>
+      )}
 
       {/* Messages area */}
       <div className="flex-1 overflow-hidden">
@@ -328,6 +362,19 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
             />
           </div>
         </div>
+      )}
+
+      {/* Commitment Creator Modal */}
+      {showCommitmentCreator && (
+        <CommitmentCreator
+          buildingId={chatSlug}
+          buildingAddress={buildingAddress}
+          onSuccess={() => {
+            setShowCommitmentCreator(false)
+            setActiveCommitments(getActiveCommitments(chatSlug))
+          }}
+          onCancel={() => setShowCommitmentCreator(false)}
+        />
       )}
 
     </div>

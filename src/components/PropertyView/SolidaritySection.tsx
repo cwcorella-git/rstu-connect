@@ -3,6 +3,7 @@
 import { useMemo } from 'react'
 import { getTenantSafeProgress } from '@/lib/storage/canvassStorage'
 import { getActiveCases } from '@/lib/storage/escalationStorage'
+import { getActiveCommitments, getCommitmentProgress, COMMITMENT_LABELS } from '@/lib/storage/commitmentStorage'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 interface SolidaritySectionProps {
@@ -23,14 +24,19 @@ export function SolidaritySection({ chatSlug, totalUnits }: SolidaritySectionPro
     return getActiveCases(chatSlug).length
   }, [chatSlug])
 
+  // Get active commitments
+  const commitments = useMemo(() => {
+    return getActiveCommitments(chatSlug)
+  }, [chatSlug])
+
   // Calculate total neighbors (activeMembers + interested)
   const neighborCount = progress.activeMembers + progress.interested
 
   // Check if we have any signals to show
-  const hasAnySignals = neighborCount > 0 || issuesCount > 0
+  const hasAnySignals = neighborCount > 0 || issuesCount > 0 || commitments.length > 0
 
-  // Don't show if no canvass data and no issues
-  if (!progress.hasCanvassData && issuesCount === 0) {
+  // Don't show if no canvass data, no issues, and no commitments
+  if (!progress.hasCanvassData && issuesCount === 0 && commitments.length === 0) {
     return null
   }
 
@@ -84,6 +90,27 @@ export function SolidaritySection({ chatSlug, totalUnits }: SolidaritySectionPro
                 </span>
               </div>
             )}
+
+            {/* Active commitments */}
+            {commitments.map(commitment => {
+              const prog = getCommitmentProgress(commitment)
+              const label = COMMITMENT_LABELS[commitment.type]
+              return (
+                <div key={commitment.id} className="flex items-center gap-2 text-sm text-gray-700">
+                  <span className="text-blue-600">
+                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                  </span>
+                  <span>
+                    {prog.current}/{prog.threshold} {t('solidarity.committedTo')} {label.title.toLowerCase()}
+                    {prog.remaining > 0 && (
+                      <span className="text-gray-500"> ({t('solidarity.needMore', { count: prog.remaining })})</span>
+                    )}
+                  </span>
+                </div>
+              )
+            })}
           </div>
 
           {/* Progress bar if we have enough data */}
