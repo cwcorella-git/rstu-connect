@@ -14,6 +14,7 @@ import { CampaignStatusBanner } from '@/components/Chat/CampaignStatusBanner'
 import { EvictionAlertBanner } from '@/components/Chat/EvictionAlertBanner'
 import { LandlordAlertBanner } from '@/components/Chat/LandlordAlertBanner'
 import { SolidaritySection } from '@/components/PropertyView/SolidaritySection'
+import { LandlordConnectionSection } from '@/components/PropertyView/LandlordConnectionSection'
 import { QuickActionsBar, type ProposalType } from '@/components/Chat/QuickActionsBar'
 import { BlocFormationProposal } from '@/components/Chat/BlocFormationProposal'
 import { BlocJoinProposal } from '@/components/Chat/BlocJoinProposal'
@@ -34,9 +35,10 @@ interface PropertyChatTabProps {
   building: EnhancedBuilding;
   buildingAddress: string;
   allBuildings?: EnhancedBuilding[];
+  onSelectBuilding?: (building: EnhancedBuilding) => void;
 }
 
-export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildings = [] }: PropertyChatTabProps) {
+export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildings = [], onSelectBuilding }: PropertyChatTabProps) {
   // Initialize Socket.io chat for this building
   const { messages, sendMessage, deleteMessage, isConnected } = useSocketChat(chatSlug)
 
@@ -203,6 +205,17 @@ export function PropertyChatTab({ chatSlug, building, buildingAddress, allBuildi
           totalUnits={building.units}
         />
       </div>
+
+      {/* Landlord Connection Section - Portfolio visibility */}
+      {onSelectBuilding && allBuildings.length > 0 && (
+        <div className="flex-shrink-0">
+          <LandlordConnectionSection
+            building={building}
+            allBuildings={allBuildings}
+            onSelectBuilding={onSelectBuilding}
+          />
+        </div>
+      )}
 
       {/* Active Commitments */}
       {activeCommitments.length > 0 && (

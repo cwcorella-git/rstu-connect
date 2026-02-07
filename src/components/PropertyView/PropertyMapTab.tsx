@@ -2,11 +2,12 @@
 import { createLogger } from '@/lib/utils/logger'
 const log = createLogger('PropertyMap')
 
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, useMemo } from 'react';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { getGroupForApn, getLinkedGroups, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 interface PropertyMapTabProps {
   building: EnhancedBuilding;
@@ -123,12 +124,30 @@ function buildingsToGeoJSON(buildings: EnhancedBuilding[]): GeoJSON.FeatureColle
 }
 
 export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: PropertyMapTabProps) {
+  const { t } = useLanguage();
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<maplibregl.Map | null>(null);
   const marker = useRef<maplibregl.Marker | null>(null);
   const nearbyMarkers = useRef<maplibregl.Marker[]>([]);
+  const portfolioMarkers = useRef<maplibregl.Marker[]>([]);
   const [mapError, setMapError] = useState<string | null>(null);
   const [currentZoom, setCurrentZoom] = useState(16);
+  const [showPortfolio, setShowPortfolio] = useState(true);
+
+  // Get portfolio buildings (same owner, excluding current building)
+  const portfolioBuildings = useMemo(() => {
+    if (!building.owner || allBuildings.length === 0) return [];
+
+    // Normalize owner name for comparison
+    const normalizedOwner = building.owner.toUpperCase().trim().replace(/\s+/g, ' ');
+
+    return allBuildings.filter(b => {
+      if (!b.latitude || !b.longitude) return false;
+      if (b.apn === building.apn) return false;
+      const bOwner = b.owner.toUpperCase().trim().replace(/\s+/g, ' ');
+      return bOwner === normalizedOwner;
+    });
+  }, [building.owner, building.apn, allBuildings]);
 
   useEffect(() => {
     if (!mapContainer.current || map.current) return;
@@ -433,6 +452,10 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     nearbyMarkers.current.forEach(m => m.remove());
     nearbyMarkers.current = [];
 
+    // Clear existing portfolio markers
+    portfolioMarkers.current.forEach(m => m.remove());
+    portfolioMarkers.current = [];
+
     // Helper to safely add/remove map layers
     const safeRemoveLayer = (layerId: string) => {
       try {
@@ -448,6 +471,8 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     // Clean up existing line layers
     safeRemoveLayer('selection-lines-layer');
     safeRemoveSource('selection-lines');
+    safeRemoveLayer('portfolio-lines-layer');
+    safeRemoveSource('portfolio-lines');
     // Clean up all group line layers (use allGroups from above)
     allGroups.forEach((_, i) => {
       safeRemoveLayer(`group-lines-layer-${i}`);
@@ -602,6 +627,68 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       });
     }
 
+    // Add portfolio property markers (purple) - same landlord's other properties
+    if (showPortfolio && portfolioBuildings.length > 0 && onSelectBuilding) {
+      // Skip portfolio buildings that are already in linked groups (they have their own markers)
+      const portfolioNotLinked = portfolioBuildings.filter(b => !linkedApns.has(b.apn));
+
+      if (portfolioNotLinked.length > 0) {
+        // Draw dashed lines connecting portfolio properties using nearest-neighbor
+        const portfolioWithCurrent = [building, ...portfolioNotLinked];
+        const portfolioLines = buildNearestNeighborChain(portfolioWithCurrent, getDistanceMiles);
+
+        try {
+          map.current.addSource('portfolio-lines', {
+            type: 'geojson',
+            data: { type: 'FeatureCollection', features: portfolioLines }
+          });
+
+          map.current.addLayer({
+            id: 'portfolio-lines-layer',
+            type: 'line',
+            source: 'portfolio-lines',
+            paint: {
+              'line-color': '#9333ea', // purple-600
+              'line-width': 2,
+              'line-dasharray': [4, 4],
+              'line-opacity': 0.7
+            }
+          });
+        } catch {
+          // Silently handle portfolio lines error
+        }
+
+        // Add markers for portfolio properties
+        portfolioNotLinked.forEach(b => {
+          const el = document.createElement('div');
+          el.className = 'portfolio-marker';
+          el.style.cssText = `
+            width: 12px;
+            height: 12px;
+            background: #9333ea;
+            border: 2px solid #fff;
+            border-radius: 50%;
+            cursor: pointer;
+            pointer-events: auto;
+            user-select: none;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+          `;
+          el.title = `${b.propertyName || b.address} (${b.units} units) - Same landlord`;
+
+          const portfolioMarker = new maplibregl.Marker({ element: el })
+            .setLngLat([b.longitude!, b.latitude!])
+            .addTo(map.current!);
+
+          el.addEventListener('click', (e) => {
+            e.stopPropagation();
+            onSelectBuilding(b);
+          });
+
+          portfolioMarkers.current.push(portfolioMarker);
+        });
+      }
+    }
+
     // Draw preview lines for current linking selection (blue dashed)
     if (linkingSelection.length >= 2) {
       const selectionWithCoords = linkingSelection.filter(b => b.latitude && b.longitude);
@@ -661,7 +748,7 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
       duration: 1500
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection]);
+  }, [building.apn, building.latitude, building.longitude, building.address, building.units, allBuildings, onSelectBuilding, linkingSelection, onToggleLinkSelection, showPortfolio, portfolioBuildings]);
 
   // Show/hide clustering and individual markers based on zoom level
   useEffect(() => {
@@ -697,6 +784,23 @@ export function PropertyMapTab({ building, allBuildings = [], onSelectBuilding, 
     <div className="flex flex-col h-full">
       {/* Map container */}
       <div ref={mapContainer} className="flex-1 min-h-0" />
+
+      {/* Portfolio toggle (if landlord owns multiple properties) */}
+      {portfolioBuildings.length > 0 && (
+        <div className="px-3 py-2 bg-purple-50 border-t border-purple-200 flex-shrink-0">
+          <label className="flex items-center gap-2 cursor-pointer">
+            <input
+              type="checkbox"
+              checked={showPortfolio}
+              onChange={(e) => setShowPortfolio(e.target.checked)}
+              className="rounded border-purple-300 text-purple-600 focus:ring-purple-500"
+            />
+            <span className="text-xs text-purple-700">
+              {t('landlord.mapToggle', { count: portfolioBuildings.length })}
+            </span>
+          </label>
+        </div>
+      )}
 
       {/* Info bar */}
       <div className="p-3 bg-white border-t border-gray-200 flex-shrink-0">

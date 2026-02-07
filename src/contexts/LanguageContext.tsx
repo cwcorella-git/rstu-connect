@@ -250,6 +250,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'ladder.action.addEscalationPath': 'Add Path',
     'ladder.action.resolveCase': 'Resolve',
 
+    // Landlord Portfolio Connection
+    'landlord.portfolioHeading': 'Your landlord owns {count} other properties',
+    'landlord.unitsAcrossArea': 'units across Reno-Sparks',
+    'landlord.active': 'active',
+    'landlord.emerging': 'emerging',
+    'landlord.corporateSolidarity': 'Corporate landlords profit by keeping tenants isolated. Connect with neighbors at other buildings to coordinate action.',
+    'landlord.individualSolidarity': 'Your landlord manages multiple properties. Connect with tenants at other buildings to share experiences.',
+    'landlord.units': 'units',
+    'landlord.activeStatus': 'Active',
+    'landlord.emergingStatus': 'Emerging',
+    'landlord.connect': 'Connect',
+    'landlord.viewAll': 'View all {count} properties',
+    'landlord.mapToggle': 'Show landlord\'s {count} other properties on map',
+
     // Tools
     'tools.unitTracker': 'Unit Tracker',
     'tools.intakeForm': 'Intake Form',
@@ -2802,6 +2816,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'ladder.action.addEscalationPath': 'Agregar Vía',
     'ladder.action.resolveCase': 'Resolver',
 
+    // Landlord Portfolio Connection
+    'landlord.portfolioHeading': 'Tu arrendador posee {count} otras propiedades',
+    'landlord.unitsAcrossArea': 'unidades en Reno-Sparks',
+    'landlord.active': 'activas',
+    'landlord.emerging': 'emergentes',
+    'landlord.corporateSolidarity': 'Los arrendadores corporativos lucran manteniendo a los inquilinos aislados. Conéctate con vecinos en otros edificios para coordinar acciones.',
+    'landlord.individualSolidarity': 'Tu arrendador administra múltiples propiedades. Conéctate con inquilinos en otros edificios para compartir experiencias.',
+    'landlord.units': 'unidades',
+    'landlord.activeStatus': 'Activo',
+    'landlord.emergingStatus': 'Emergente',
+    'landlord.connect': 'Conectar',
+    'landlord.viewAll': 'Ver las {count} propiedades',
+    'landlord.mapToggle': 'Mostrar las otras {count} propiedades del arrendador en el mapa',
+
     // Tools
     'tools.unitTracker': 'Rastreador de Unidades',
     'tools.intakeForm': 'Formulario de Ingreso',
@@ -5339,6 +5367,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'ladder.action.startEscalation': 'Simulan ang Escalation',
     'ladder.action.addEscalationPath': 'Magdagdag ng Path',
     'ladder.action.resolveCase': 'Resolbahin',
+
+    // Landlord Portfolio Connection
+    'landlord.portfolioHeading': 'Ang iyong landlord ay may-ari ng {count} pang ibang property',
+    'landlord.unitsAcrossArea': 'mga unit sa Reno-Sparks',
+    'landlord.active': 'aktibo',
+    'landlord.emerging': 'umuusbong',
+    'landlord.corporateSolidarity': 'Kumikita ang mga corporate landlord sa pamamagitan ng pag-ihiwalay sa mga nangungupahan. Kumonekta sa mga kapitbahay sa ibang mga gusali para mag-coordinate ng aksyon.',
+    'landlord.individualSolidarity': 'Namamahala ang iyong landlord ng maraming property. Kumonekta sa mga tenant sa ibang mga gusali para magbahagi ng karanasan.',
+    'landlord.units': 'mga unit',
+    'landlord.activeStatus': 'Aktibo',
+    'landlord.emergingStatus': 'Umuusbong',
+    'landlord.connect': 'Kumonekta',
+    'landlord.viewAll': 'Tingnan lahat ng {count} property',
+    'landlord.mapToggle': 'Ipakita ang {count} pang ibang property ng landlord sa mapa',
 
     // Tools
     'tools.unitTracker': 'Unit Tracker',
@@ -7934,6 +7976,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'ladder.action.addEscalationPath': '添加途径',
     'ladder.action.resolveCase': '解决',
 
+    // Landlord Portfolio Connection
+    'landlord.portfolioHeading': '您的房东拥有其他 {count} 处房产',
+    'landlord.unitsAcrossArea': '个单元遍布里诺-斯帕克斯',
+    'landlord.active': '活跃',
+    'landlord.emerging': '新兴',
+    'landlord.corporateSolidarity': '企业房东通过隔离租户来获利。与其他建筑的邻居联系，协调行动。',
+    'landlord.individualSolidarity': '您的房东管理多处房产。与其他建筑的租户联系，分享经验。',
+    'landlord.units': '个单元',
+    'landlord.activeStatus': '活跃',
+    'landlord.emergingStatus': '新兴',
+    'landlord.connect': '联系',
+    'landlord.viewAll': '查看全部 {count} 处房产',
+    'landlord.mapToggle': '在地图上显示房东的其他 {count} 处房产',
+
     // Tools
     'tools.unitTracker': '单元追踪器',
     'tools.intakeForm': '登记表',
@@ -10513,6 +10569,20 @@ const translations: Record<Locale, Record<string, string>> = {
     'ladder.action.startEscalation': 'Bắt đầu Leo thang',
     'ladder.action.addEscalationPath': 'Thêm Đường',
     'ladder.action.resolveCase': 'Giải quyết',
+
+    // Landlord Portfolio Connection
+    'landlord.portfolioHeading': 'Chủ nhà của bạn sở hữu {count} bất động sản khác',
+    'landlord.unitsAcrossArea': 'căn hộ trên khắp Reno-Sparks',
+    'landlord.active': 'hoạt động',
+    'landlord.emerging': 'mới nổi',
+    'landlord.corporateSolidarity': 'Các chủ nhà doanh nghiệp kiếm lời bằng cách cô lập người thuê. Kết nối với hàng xóm ở các tòa nhà khác để phối hợp hành động.',
+    'landlord.individualSolidarity': 'Chủ nhà của bạn quản lý nhiều bất động sản. Kết nối với người thuê ở các tòa nhà khác để chia sẻ kinh nghiệm.',
+    'landlord.units': 'căn hộ',
+    'landlord.activeStatus': 'Hoạt động',
+    'landlord.emergingStatus': 'Mới nổi',
+    'landlord.connect': 'Kết nối',
+    'landlord.viewAll': 'Xem tất cả {count} bất động sản',
+    'landlord.mapToggle': 'Hiển thị {count} bất động sản khác của chủ nhà trên bản đồ',
 
     // Tools
     'tools.unitTracker': 'Theo dõi căn hộ',

@@ -116,6 +116,7 @@ export function PropertyViewTabs({ building, allBuildings, onSelectBuilding, lin
             building={building}
             buildingAddress={isLinkedChat ? linkedGroup!.name : building.address}
             allBuildings={allBuildings}
+            onSelectBuilding={handleSelectBuildingWithChat}
           />
         )}
         {activeTab === 'map' && (
