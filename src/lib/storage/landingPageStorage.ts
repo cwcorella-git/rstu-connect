@@ -26,7 +26,7 @@ export interface LandingPageConfig {
 const PAGES_KEY = 'rstu_landing_pages'
 const ACTIVE_KEY = 'rstu_active_landing_page'
 const MIGRATION_KEY = 'rstu_landing_page_version'
-const CURRENT_VERSION = 7 // Bump when preset pages change
+const CURRENT_VERSION = 8 // Bump when preset pages change
 
 let _uid = 0
 function uid() {
@@ -1390,7 +1390,70 @@ export const PRESET_PAGE_9: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'mutual-crisis', type: 'crisis', config: {} },
+    {
+      id: 'mutual-network',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'The Mutual Aid Network',
+          es: 'La Red de Ayuda Mutua',
+          tl: 'Ang Network ng Mutual Aid',
+          zh: '互助网络',
+          vi: 'Mạng Lưới Hỗ Trợ Lẫn Nhau',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Emergency Rent Relief',
+              es: 'Alivio de Alquiler de Emergencia',
+              tl: 'Emergency Rent Relief',
+              zh: '紧急租金援助',
+              vi: 'Hỗ Trợ Tiền Thuê Khẩn Cấp',
+            },
+            body: {
+              en: 'When a neighbor faces eviction, we pool resources. Small contributions from many tenants can prevent displacement. This isn\'t charity—it\'s insurance. Today you give; tomorrow you might receive. We survive together.',
+              es: 'Cuando un vecino enfrenta desalojo, juntamos recursos. Pequeñas contribuciones de muchos inquilinos pueden prevenir el desplazamiento. Esto no es caridad—es seguro. Hoy das; mañana podrías recibir. Sobrevivimos juntos.',
+              tl: 'Kapag ang isang kapitbahay ay nahaharap sa eviction, pinagsasama natin ang mga resources. Ang maliliit na kontribusyon mula sa maraming nangungupahan ay makakapigil sa displacement. Hindi ito charity—ito ay insurance. Ngayon ay nagbibigay ka; bukas maaaring tumanggap ka. Nakakaligtas tayo nang magkasama.',
+              zh: '当邻居面临驱逐时，我们汇集资源。许多租户的小额贡献可以防止迫迁。这不是慈善——这是保险。今天你给予；明天你可能接受。我们一起生存。',
+              vi: 'Khi hàng xóm đối mặt với việc bị đuổi, chúng ta góp chung tài nguyên. Đóng góp nhỏ từ nhiều người thuê có thể ngăn chặn di dời. Đây không phải từ thiện—đây là bảo hiểm. Hôm nay bạn cho; ngày mai bạn có thể nhận. Chúng ta sống sót cùng nhau.',
+            },
+          },
+          {
+            title: {
+              en: 'Skills Exchange',
+              es: 'Intercambio de Habilidades',
+              tl: 'Skills Exchange',
+              zh: '技能交换',
+              vi: 'Trao Đổi Kỹ Năng',
+            },
+            body: {
+              en: 'You know how to fix a leaky faucet. Your neighbor speaks Spanish. Another can watch kids. Someone else knows tenant law. When we share skills instead of paying for everything, we keep resources in our community and build relationships that make organizing possible.',
+              es: 'Sabes cómo arreglar un grifo que gotea. Tu vecino habla español. Otro puede cuidar niños. Alguien más conoce la ley de inquilinos. Cuando compartimos habilidades en lugar de pagar por todo, mantenemos recursos en nuestra comunidad y construimos relaciones que hacen posible la organización.',
+              tl: 'Alam mo kung paano ayusin ang tumutulo na gripo. Ang kapitbahay mo ay nagsasalita ng Spanish. Ang isa pa ay maaaring mag-alaga ng mga bata. May iba na alam ang tenant law. Kapag nagbabahagi tayo ng mga kasanayan sa halip na magbayad para sa lahat, pinapanatili natin ang mga resources sa ating komunidad at nagtatayo ng mga relasyon na ginagawang posible ang pag-oorganisa.',
+              zh: '你知道如何修理漏水的水龙头。你的邻居会说西班牙语。另一个可以照看孩子。还有人懂租户法。当我们分享技能而不是为一切付费时，我们将资源留在社区，并建立使组织成为可能的关系。',
+              vi: 'Bạn biết cách sửa vòi nước rò rỉ. Hàng xóm của bạn nói tiếng Tây Ban Nha. Người khác có thể trông trẻ. Ai đó hiểu luật người thuê. Khi chúng ta chia sẻ kỹ năng thay vì trả tiền cho mọi thứ, chúng ta giữ tài nguyên trong cộng đồng và xây dựng mối quan hệ giúp việc tổ chức trở nên khả thi.',
+            },
+          },
+          {
+            title: {
+              en: 'Eviction Defense',
+              es: 'Defensa contra Desalojos',
+              tl: 'Eviction Defense',
+              zh: '驱逐防御',
+              vi: 'Phòng Thủ Trục Xuất',
+            },
+            body: {
+              en: 'When the sheriff comes, we show up. When a landlord harasses, we witness. Eviction defense means physical presence—bodies at the door, neighbors in the courtroom. Landlords target isolated tenants. When we show up together, we change the equation.',
+              es: 'Cuando viene el alguacil, nos presentamos. Cuando un propietario acosa, somos testigos. La defensa contra desalojos significa presencia física—cuerpos en la puerta, vecinos en la corte. Los propietarios atacan a inquilinos aislados. Cuando nos presentamos juntos, cambiamos la ecuación.',
+              tl: 'Kapag dumating ang sheriff, dumadalo tayo. Kapag nang-ha-harass ang landlord, nagiging saksi tayo. Ang eviction defense ay nangangahulugan ng pisikal na presensya—mga katawan sa pinto, mga kapitbahay sa korte. Tina-target ng mga landlord ang mga isolated na nangungupahan. Kapag dumadalo tayo nang magkasama, binabago natin ang equation.',
+              zh: '当警长来时，我们出现。当房东骚扰时，我们见证。驱逐防御意味着实际存在——门口的身体，法庭上的邻居。房东针对孤立的租户。当我们一起出现时，我们改变了等式。',
+              vi: 'Khi cảnh sát đến, chúng ta có mặt. Khi chủ nhà quấy rối, chúng ta làm chứng. Phòng thủ trục xuất có nghĩa là sự hiện diện vật lý—những người ở cửa, hàng xóm trong phòng xử án. Chủ nhà nhắm vào người thuê cô lập. Khi chúng ta xuất hiện cùng nhau, chúng ta thay đổi phương trình.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'mutual-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -1515,7 +1578,70 @@ export const PRESET_PAGE_10: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'faith-crisis', type: 'crisis', config: {} },
+    {
+      id: 'faith-interfaith',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'The Interfaith Movement for Housing',
+          es: 'El Movimiento Interreligioso por la Vivienda',
+          tl: 'Ang Interfaith Movement para sa Pabahay',
+          zh: '跨信仰住房运动',
+          vi: 'Phong Trào Liên Tôn Vì Nhà Ở',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Sanctuary in the Struggle',
+              es: 'Santuario en la Lucha',
+              tl: 'Sanctuary sa Pakikibaka',
+              zh: '斗争中的圣所',
+              vi: 'Nơi Trú Ẩn Trong Cuộc Đấu Tranh',
+            },
+            body: {
+              en: 'Throughout history, houses of worship have sheltered the oppressed. Today, congregations open their doors for tenant meetings, provide space for organizing, and stand witness at eviction hearings. Your faith community can be part of this tradition.',
+              es: 'A lo largo de la historia, los lugares de culto han dado refugio a los oprimidos. Hoy, las congregaciones abren sus puertas para reuniones de inquilinos, proporcionan espacio para organizar y son testigos en audiencias de desalojo. Tu comunidad de fe puede ser parte de esta tradición.',
+              tl: 'Sa buong kasaysayan, ang mga lugar ng pagsamba ay nagbigay ng shelter sa mga inaapi. Ngayon, ang mga kongregasyon ay nagbubukas ng kanilang mga pinto para sa mga pagpupulong ng nangungupahan, nagbibigay ng espasyo para sa pag-oorganisa, at nagiging saksi sa mga eviction hearing. Ang iyong komunidad ng pananampalataya ay maaaring maging bahagi ng tradisyong ito.',
+              zh: '纵观历史，礼拜场所一直庇护着被压迫者。今天，教会为租户会议敞开大门，为组织提供空间，并在驱逐听证会上作证。你的信仰社区可以成为这一传统的一部分。',
+              vi: 'Trong suốt lịch sử, các nơi thờ phượng đã che chở những người bị áp bức. Ngày nay, các giáo đoàn mở cửa cho các cuộc họp người thuê, cung cấp không gian để tổ chức, và làm chứng tại các phiên điều trần trục xuất. Cộng đồng đức tin của bạn có thể là một phần của truyền thống này.',
+            },
+          },
+          {
+            title: {
+              en: 'Clergy on the Picket Line',
+              es: 'Clérigos en la Línea de Piquete',
+              tl: 'Mga Clergy sa Picket Line',
+              zh: '神职人员在纠察线上',
+              vi: 'Giáo Sĩ Trên Hàng Biểu Tình',
+            },
+            body: {
+              en: 'From the civil rights movement to farmworker strikes, religious leaders have put their bodies on the line for justice. When tenants face displacement, moral witnesses make a difference. A collar or a stole at a protest says: this is not just an economic dispute—it is a moral crisis.',
+              es: 'Desde el movimiento por los derechos civiles hasta las huelgas de trabajadores agrícolas, los líderes religiosos han puesto sus cuerpos en la línea por la justicia. Cuando los inquilinos enfrentan el desplazamiento, los testigos morales hacen la diferencia. Un cuello o una estola en una protesta dice: esto no es solo una disputa económica—es una crisis moral.',
+              tl: 'Mula sa civil rights movement hanggang sa mga strikes ng farmworker, ang mga religious leader ay inilagay ang kanilang katawan sa linya para sa katarungan. Kapag ang mga nangungupahan ay nahaharap sa displacement, ang mga moral witness ay gumagawa ng pagkakaiba. Ang isang collar o stole sa isang protesta ay nagsasabi: hindi ito isang economic dispute lamang—ito ay isang moral na krisis.',
+              zh: '从民权运动到农场工人罢工，宗教领袖们为正义挺身而出。当租户面临迫迁时，道德见证者能产生影响。抗议活动中的领带或披肩表明：这不仅仅是经济纠纷——这是一场道德危机。',
+              vi: 'Từ phong trào dân quyền đến các cuộc đình công của công nhân nông trại, các nhà lãnh đạo tôn giáo đã đặt thân mình vì công lý. Khi người thuê đối mặt với việc di dời, các nhân chứng đạo đức tạo ra sự khác biệt. Một cổ áo hoặc áo choàng trong một cuộc biểu tình nói: đây không chỉ là tranh chấp kinh tế—đây là cuộc khủng hoảng đạo đức.',
+            },
+          },
+          {
+            title: {
+              en: 'From Charity to Justice',
+              es: 'De la Caridad a la Justicia',
+              tl: 'Mula sa Charity tungo sa Justice',
+              zh: '从慈善到正义',
+              vi: 'Từ Từ Thiện Đến Công Lý',
+            },
+            body: {
+              en: 'Many congregations run food pantries and emergency funds. These are good works—but they don\'t change the system that creates hunger and eviction. The prophetic tradition calls us beyond charity to justice: changing the structures that oppress. Join the tenant movement and transform your ministry.',
+              es: 'Muchas congregaciones administran bancos de alimentos y fondos de emergencia. Estas son buenas obras—pero no cambian el sistema que crea hambre y desalojos. La tradición profética nos llama más allá de la caridad hacia la justicia: cambiar las estructuras que oprimen. Únete al movimiento de inquilinos y transforma tu ministerio.',
+              tl: 'Maraming kongregasyon ang nagpapatakbo ng food pantry at emergency fund. Ito ay mabubuting gawa—pero hindi nila binabago ang sistemang lumilikha ng gutom at eviction. Tinatawag tayo ng propetikong tradisyon na lumampas sa charity tungo sa katarungan: pagbabago ng mga istrukturang umaapi. Sumali sa tenant movement at baguhin ang iyong ministry.',
+              zh: '许多教会开办食品储藏室和紧急基金。这些是善行——但它们不能改变造成饥饿和驱逐的制度。先知传统呼召我们超越慈善走向正义：改变压迫的结构。加入租户运动，改变你的事工。',
+              vi: 'Nhiều giáo đoàn điều hành các kho thực phẩm và quỹ khẩn cấp. Đây là những việc làm tốt—nhưng chúng không thay đổi hệ thống tạo ra đói và trục xuất. Truyền thống tiên tri kêu gọi chúng ta vượt ra ngoài từ thiện đến công lý: thay đổi các cấu trúc áp bức. Tham gia phong trào người thuê và biến đổi mục vụ của bạn.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'faith-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -1640,7 +1766,70 @@ export const PRESET_PAGE_11: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'data-crisis', type: 'crisis', config: {} },
+    {
+      id: 'data-sources',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'Our Research Sources',
+          es: 'Nuestras Fuentes de Investigación',
+          tl: 'Ang Ating mga Pinagkunan ng Pananaliksik',
+          zh: '我们的研究来源',
+          vi: 'Nguồn Nghiên Cứu Của Chúng Tôi',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Princeton Eviction Lab',
+              es: 'Laboratorio de Desalojos de Princeton',
+              tl: 'Princeton Eviction Lab',
+              zh: '普林斯顿驱逐实验室',
+              vi: 'Phòng Thí Nghiệm Trục Xuất Princeton',
+            },
+            body: {
+              en: 'The Eviction Tracking System monitors filings in real-time across the country. Their research proves that eviction is not inevitable—it\'s a policy choice. Cities with tenant protections have lower rates. We can change these numbers.',
+              es: 'El Sistema de Seguimiento de Desalojos monitorea las demandas en tiempo real en todo el país. Su investigación prueba que el desalojo no es inevitable—es una elección política. Las ciudades con protecciones de inquilinos tienen tasas más bajas. Podemos cambiar estos números.',
+              tl: 'Ang Eviction Tracking System ay nagmo-monitor ng mga filing sa real-time sa buong bansa. Ang kanilang pananaliksik ay nagpapatunay na ang eviction ay hindi inevitable—ito ay isang policy choice. Ang mga siyudad na may tenant protection ay may mas mababang rate. Maaari nating baguhin ang mga numerong ito.',
+              zh: '驱逐追踪系统在全国范围内实时监控申请。他们的研究证明驱逐不是不可避免的——这是政策选择。拥有租户保护的城市比率较低。我们可以改变这些数字。',
+              vi: 'Hệ thống Theo dõi Trục xuất giám sát các đơn nộp theo thời gian thực trên toàn quốc. Nghiên cứu của họ chứng minh rằng trục xuất không phải là không thể tránh khỏi—đó là sự lựa chọn chính sách. Các thành phố có bảo vệ người thuê có tỷ lệ thấp hơn. Chúng ta có thể thay đổi những con số này.',
+            },
+          },
+          {
+            title: {
+              en: 'Federal Reserve Research',
+              es: 'Investigación de la Reserva Federal',
+              tl: 'Pananaliksik ng Federal Reserve',
+              zh: '联邦储备研究',
+              vi: 'Nghiên Cứu Cục Dự Trữ Liên Bang',
+            },
+            body: {
+              en: 'The Atlanta Fed and other regional banks have documented how institutional investors and private equity firms drive evictions. This isn\'t activist speculation—it\'s central bank research. The data shows corporate ownership means more displacement.',
+              es: 'La Fed de Atlanta y otros bancos regionales han documentado cómo los inversores institucionales y las firmas de capital privado impulsan los desalojos. Esto no es especulación activista—es investigación del banco central. Los datos muestran que la propiedad corporativa significa más desplazamiento.',
+              tl: 'Ang Atlanta Fed at iba pang mga regional bank ay nagdokumento kung paano ang mga institutional investor at private equity firm ang nagpapatakbo ng mga eviction. Hindi ito activist speculation—ito ay central bank research. Ang datos ay nagpapakita na ang corporate ownership ay nangangahulugan ng mas maraming displacement.',
+              zh: '亚特兰大联储和其他地区银行记录了机构投资者和私募股权公司如何推动驱逐。这不是活动家的猜测——这是中央银行的研究。数据显示企业所有权意味着更多的迫迁。',
+              vi: 'Fed Atlanta và các ngân hàng khu vực khác đã ghi lại cách các nhà đầu tư tổ chức và công ty vốn cổ phần tư nhân thúc đẩy trục xuất. Đây không phải là suy đoán của nhà hoạt động—đây là nghiên cứu của ngân hàng trung ương. Dữ liệu cho thấy sở hữu doanh nghiệp có nghĩa là nhiều di dời hơn.',
+            },
+          },
+          {
+            title: {
+              en: 'RSTU Local Data Collection',
+              es: 'Recolección de Datos Locales de RSTU',
+              tl: 'RSTU Local Data Collection',
+              zh: 'RSTU本地数据收集',
+              vi: 'Thu Thập Dữ Liệu Địa Phương RSTU',
+            },
+            body: {
+              en: 'We file public records requests for eviction data, code enforcement violations, and ownership records. We canvass buildings to document habitability conditions. We track which landlords are the worst actors. Local data drives local organizing.',
+              es: 'Presentamos solicitudes de registros públicos para datos de desalojo, violaciones de aplicación de códigos y registros de propiedad. Recorremos edificios para documentar las condiciones de habitabilidad. Rastreamos qué propietarios son los peores actores. Los datos locales impulsan la organización local.',
+              tl: 'Nag-file kami ng public records request para sa eviction data, code enforcement violation, at ownership record. Kinakampanya namin ang mga gusali para idokumento ang mga kondisyon ng habitability. Sinusubaybayan namin kung aling mga landlord ang mga pinakamasamang aktor. Ang lokal na datos ay nagtutulak ng lokal na pag-oorganisa.',
+              zh: '我们提交公共记录请求以获取驱逐数据、执法违规和所有权记录。我们走访建筑物记录居住条件。我们追踪哪些房东是最糟糕的行为者。本地数据推动本地组织。',
+              vi: 'Chúng tôi nộp yêu cầu hồ sơ công khai cho dữ liệu trục xuất, vi phạm thực thi mã và hồ sơ sở hữu. Chúng tôi đi khảo sát các tòa nhà để ghi lại điều kiện ở. Chúng tôi theo dõi chủ nhà nào là những kẻ xấu nhất. Dữ liệu địa phương thúc đẩy tổ chức địa phương.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'data-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -1765,7 +1954,70 @@ export const PRESET_PAGE_12: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'stories-crisis', type: 'crisis', config: {} },
+    {
+      id: 'stories-power',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'The Power of Testimony',
+          es: 'El Poder del Testimonio',
+          tl: 'Ang Kapangyarihan ng Testimonya',
+          zh: '证词的力量',
+          vi: 'Sức Mạnh Của Lời Chứng',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Breaking the Silence',
+              es: 'Rompiendo el Silencio',
+              tl: 'Pagsira sa Katahimikan',
+              zh: '打破沉默',
+              vi: 'Phá Vỡ Sự Im Lặng',
+            },
+            body: {
+              en: 'Landlords count on tenant isolation. They rely on shame keeping us quiet. When we share our stories publicly—at city council meetings, in the press, at protests—we break that silence. Every tenant who speaks empowers ten more to find their voice.',
+              es: 'Los propietarios cuentan con el aislamiento de los inquilinos. Confían en que la vergüenza nos mantenga callados. Cuando compartimos nuestras historias públicamente—en reuniones del ayuntamiento, en la prensa, en protestas—rompemos ese silencio. Cada inquilino que habla empodera a diez más para encontrar su voz.',
+              tl: 'Umaasa ang mga landlord sa paghihiwalay ng mga nangungupahan. Umaasa sila sa kahihiyan na nagpapanatiling tahimik sa atin. Kapag ibinahagi natin ang ating mga kuwento sa publiko—sa mga pagpupulong ng city council, sa press, sa mga protesta—sinisira natin ang katahimikang iyon. Bawat nangungupahan na nagsasalita ay nagpapalakas sa sampung iba pa na mahanap ang kanilang boses.',
+              zh: '房东依赖租户的孤立。他们依靠羞耻让我们保持沉默。当我们公开分享我们的故事——在市议会会议上、在新闻中、在抗议活动中——我们打破了这种沉默。每一个发声的租户都能赋予十个人找到自己声音的力量。',
+              vi: 'Chủ nhà dựa vào sự cô lập của người thuê. Họ dựa vào sự xấu hổ để giữ chúng ta im lặng. Khi chúng ta chia sẻ câu chuyện công khai—tại các cuộc họp hội đồng thành phố, trên báo chí, tại các cuộc biểu tình—chúng ta phá vỡ sự im lặng đó. Mỗi người thuê lên tiếng trao quyền cho mười người khác tìm thấy tiếng nói của họ.',
+            },
+          },
+          {
+            title: {
+              en: 'Stories Change Policy',
+              es: 'Las Historias Cambian las Políticas',
+              tl: 'Ang mga Kuwento ay Nagbabago ng Patakaran',
+              zh: '故事改变政策',
+              vi: 'Câu Chuyện Thay Đổi Chính Sách',
+            },
+            body: {
+              en: 'Statistics matter—but stories move people. When a mother describes choosing between rent and medicine for her child, legislators listen differently than to a policy memo. The tenant rights laws that exist today were won by tenants brave enough to tell their stories.',
+              es: 'Las estadísticas importan—pero las historias mueven a la gente. Cuando una madre describe elegir entre el alquiler y la medicina para su hijo, los legisladores escuchan de manera diferente que a un memorándum de política. Las leyes de derechos de inquilinos que existen hoy fueron ganadas por inquilinos lo suficientemente valientes para contar sus historias.',
+              tl: 'Mahalaga ang mga estadistika—pero ang mga kuwento ang nakakaantig sa mga tao. Kapag inilalarawan ng isang ina ang pagpili sa pagitan ng upa at gamot para sa kanyang anak, nakikinig ang mga mambabatas nang iba kaysa sa isang policy memo. Ang mga batas sa karapatan ng nangungupahan na umiiral ngayon ay napanalunan ng mga nangungupahang sapat ang tapang na ikuwento ang kanilang mga kuwento.',
+              zh: '统计数据很重要——但故事能打动人心。当一位母亲描述在房租和孩子的药物之间做选择时，立法者的倾听方式与政策备忘录不同。今天存在的租户权利法是由勇于讲述自己故事的租户赢得的。',
+              vi: 'Số liệu thống kê quan trọng—nhưng câu chuyện lay động con người. Khi một người mẹ mô tả việc chọn giữa tiền thuê và thuốc cho con, các nhà lập pháp lắng nghe khác với bản ghi nhớ chính sách. Các luật quyền người thuê tồn tại ngày nay được giành được bởi những người thuê đủ dũng cảm để kể câu chuyện của họ.',
+            },
+          },
+          {
+            title: {
+              en: 'We Document Everything',
+              es: 'Documentamos Todo',
+              tl: 'Dinodokumento Natin ang Lahat',
+              zh: '我们记录一切',
+              vi: 'Chúng Ta Ghi Lại Mọi Thứ',
+            },
+            body: {
+              en: 'RSTU Connect helps tenants document their experiences—habitability issues, landlord retaliation, rent increases. Your story becomes evidence. Your testimony becomes power. Together, we\'re building an archive of tenant experience that no one can ignore.',
+              es: 'RSTU Connect ayuda a los inquilinos a documentar sus experiencias—problemas de habitabilidad, represalias de propietarios, aumentos de alquiler. Tu historia se convierte en evidencia. Tu testimonio se convierte en poder. Juntos, estamos construyendo un archivo de experiencias de inquilinos que nadie puede ignorar.',
+              tl: 'Tinutulungan ng RSTU Connect ang mga nangungupahan na idokumento ang kanilang mga karanasan—mga isyu sa habitability, paghihiganti ng landlord, mga pagtaas ng upa. Ang iyong kuwento ay nagiging ebidensya. Ang iyong testimonya ay nagiging kapangyarihan. Magkasama, nagtatayo tayo ng isang archive ng karanasan ng nangungupahan na hindi maaaring balewalain ng sinuman.',
+              zh: 'RSTU Connect帮助租户记录他们的经历——居住条件问题、房东报复、租金上涨。你的故事成为证据。你的证词成为力量。我们一起正在建立一个没有人可以忽视的租户经历档案。',
+              vi: 'RSTU Connect giúp người thuê ghi lại trải nghiệm của họ—các vấn đề về điều kiện ở, sự trả đũa của chủ nhà, tăng tiền thuê. Câu chuyện của bạn trở thành bằng chứng. Lời chứng của bạn trở thành sức mạnh. Cùng nhau, chúng ta đang xây dựng một kho lưu trữ trải nghiệm người thuê mà không ai có thể bỏ qua.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'stories-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -1890,7 +2142,70 @@ export const PRESET_PAGE_13: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'demo-crisis', type: 'crisis', config: {} },
+    {
+      id: 'demo-practice',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'Democracy in Practice',
+          es: 'Democracia en la Práctica',
+          tl: 'Demokrasya sa Praktika',
+          zh: '民主实践',
+          vi: 'Dân Chủ Trong Thực Hành',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Building Assemblies',
+              es: 'Asambleas de Edificios',
+              tl: 'Mga Assembly ng Gusali',
+              zh: '建筑大会',
+              vi: 'Hội Nghị Tòa Nhà',
+            },
+            body: {
+              en: 'Every building can form a tenant assembly—a democratic body where neighbors meet to discuss issues, vote on demands, and coordinate action. The assembly is the foundation of tenant democracy. It\'s where power is born.',
+              es: 'Cada edificio puede formar una asamblea de inquilinos—un cuerpo democrático donde los vecinos se reúnen para discutir problemas, votar demandas y coordinar acciones. La asamblea es la base de la democracia de inquilinos. Es donde nace el poder.',
+              tl: 'Bawat gusali ay maaaring bumuo ng tenant assembly—isang demokratikong katawan kung saan nagpupulong ang mga kapitbahay para talakayin ang mga isyu, bumoto sa mga demands, at mag-coordinate ng aksyon. Ang assembly ang pundasyon ng tenant democracy. Dito ipinanganak ang kapangyarihan.',
+              zh: '每栋建筑都可以组建租户大会——一个民主机构，邻居们在这里开会讨论问题、对要求进行投票、协调行动。大会是租户民主的基础。这是权力诞生的地方。',
+              vi: 'Mỗi tòa nhà có thể thành lập một hội nghị người thuê—một cơ quan dân chủ nơi hàng xóm họp để thảo luận các vấn đề, bỏ phiếu về yêu cầu, và phối hợp hành động. Hội nghị là nền tảng của dân chủ người thuê. Đó là nơi quyền lực được sinh ra.',
+            },
+          },
+          {
+            title: {
+              en: 'Blocs and Federations',
+              es: 'Bloques y Federaciones',
+              tl: 'Mga Bloc at Federation',
+              zh: '街区和联盟',
+              vi: 'Khối và Liên Đoàn',
+            },
+            body: {
+              en: 'When buildings link together—across neighborhoods, under the same landlord, or facing the same issues—they form Blocs. Blocs coordinate larger actions: citywide campaigns, legal strategies, mutual aid networks. This is federation: power scaling up while staying democratic.',
+              es: 'Cuando los edificios se unen—a través de vecindarios, bajo el mismo propietario, o enfrentando los mismos problemas—forman Bloques. Los Bloques coordinan acciones más grandes: campañas a nivel de ciudad, estrategias legales, redes de ayuda mutua. Esto es federación: el poder crece mientras se mantiene democrático.',
+              tl: 'Kapag nagkakaugnay ang mga gusali—sa mga kapitbahayan, sa ilalim ng parehong landlord, o nahaharap sa parehong mga isyu—bumubuo sila ng mga Bloc. Ang mga Bloc ay nagko-coordinate ng mas malalaking aksyon: mga kampanya sa buong lungsod, mga legal na estratehiya, mga network ng mutual aid. Ito ang federation: ang kapangyarihan ay lumalaki habang nananatiling demokratiko.',
+              zh: '当建筑物联合起来——跨社区、在同一房东下、或面对相同问题——它们形成街区。街区协调更大的行动：全市范围的运动、法律策略、互助网络。这就是联盟：权力扩大的同时保持民主。',
+              vi: 'Khi các tòa nhà liên kết—xuyên khu phố, dưới cùng một chủ nhà, hoặc đối mặt với cùng vấn đề—họ hình thành Khối. Khối phối hợp các hành động lớn hơn: chiến dịch toàn thành phố, chiến lược pháp lý, mạng lưới hỗ trợ lẫn nhau. Đây là liên đoàn: quyền lực mở rộng trong khi vẫn dân chủ.',
+            },
+          },
+          {
+            title: {
+              en: 'Ranked-Choice and Consensus',
+              es: 'Votación Preferencial y Consenso',
+              tl: 'Ranked-Choice at Consensus',
+              zh: '排序选择和共识',
+              vi: 'Xếp Hạng Lựa Chọn và Đồng Thuận',
+            },
+            body: {
+              en: 'RSTU Connect uses ranked-choice voting for elections and weighted voting for proposals. We aim for consensus when possible, majority when necessary. Every member\'s voice matters. No one is silenced. This is what democracy feels like.',
+              es: 'RSTU Connect usa votación preferencial para elecciones y votación ponderada para propuestas. Buscamos el consenso cuando es posible, la mayoría cuando es necesario. La voz de cada miembro importa. Nadie es silenciado. Así se siente la democracia.',
+              tl: 'Gumagamit ang RSTU Connect ng ranked-choice voting para sa mga eleksyon at weighted voting para sa mga panukala. Nagsusumikap kami para sa consensus kapag posible, mayorya kapag kinakailangan. Ang boses ng bawat miyembro ay mahalaga. Walang sinumang pinapatahimik. Ganito dapat ang pakiramdam ng demokrasya.',
+              zh: 'RSTU Connect在选举中使用排序选择投票，在提案中使用加权投票。我们尽可能寻求共识，必要时采用多数决定。每个成员的声音都很重要。没有人被沉默。这就是民主的感觉。',
+              vi: 'RSTU Connect sử dụng bỏ phiếu xếp hạng lựa chọn cho các cuộc bầu cử và bỏ phiếu có trọng số cho các đề xuất. Chúng tôi hướng đến đồng thuận khi có thể, đa số khi cần thiết. Tiếng nói của mỗi thành viên đều quan trọng. Không ai bị bịt miệng. Đây là cảm giác của dân chủ.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'demo-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -2015,7 +2330,70 @@ export const PRESET_PAGE_14: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'enviro-crisis', type: 'crisis', config: {} },
+    {
+      id: 'enviro-demands',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'Tenant Climate Demands',
+          es: 'Demandas Climáticas de Inquilinos',
+          tl: 'Mga Climate Demand ng Nangungupahan',
+          zh: '租户气候诉求',
+          vi: 'Yêu Cầu Khí Hậu Của Người Thuê',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Cooling as a Right',
+              es: 'Refrigeración como un Derecho',
+              tl: 'Cooling bilang isang Karapatan',
+              zh: '制冷是一项权利',
+              vi: 'Làm Mát Là Một Quyền',
+            },
+            body: {
+              en: 'Nevada summers regularly exceed 100°F. Heat kills more people than any other weather event. We demand that landlords provide functioning air conditioning—and that the law require it. Cooling is not a luxury; it\'s survival.',
+              es: 'Los veranos de Nevada regularmente superan los 100°F. El calor mata a más personas que cualquier otro evento climático. Exigimos que los propietarios proporcionen aire acondicionado funcional—y que la ley lo requiera. La refrigeración no es un lujo; es supervivencia.',
+              tl: 'Ang mga tag-init sa Nevada ay regular na lumampas sa 100°F. Ang init ay pumapatay ng mas maraming tao kaysa sa anumang iba pang kaganapan sa panahon. Hinihiling namin na ang mga landlord ay magbigay ng gumaganang air conditioning—at na ito ay kinakailangan ng batas. Ang cooling ay hindi luho; ito ay survival.',
+              zh: '内华达州的夏天经常超过100华氏度。高温比任何其他天气事件杀死更多的人。我们要求房东提供正常运作的空调——而且法律应该要求这样做。制冷不是奢侈品；这是生存。',
+              vi: 'Mùa hè Nevada thường xuyên vượt quá 100°F. Nóng giết nhiều người hơn bất kỳ sự kiện thời tiết nào khác. Chúng tôi yêu cầu chủ nhà cung cấp điều hòa hoạt động—và luật pháp yêu cầu điều đó. Làm mát không phải là xa xỉ; đó là sự sống còn.',
+            },
+          },
+          {
+            title: {
+              en: 'Green Retrofits Without Displacement',
+              es: 'Renovaciones Verdes Sin Desplazamiento',
+              tl: 'Green Retrofit na Walang Displacement',
+              zh: '绿色改造不驱逐',
+              vi: 'Cải Tạo Xanh Không Di Dời',
+            },
+            body: {
+              en: 'Energy efficiency upgrades should benefit tenants, not just landlords. We demand: no rent increases after green renovations, tenant relocation rights during construction, and priority return for displaced residents. Climate investment must not become climate gentrification.',
+              es: 'Las mejoras de eficiencia energética deben beneficiar a los inquilinos, no solo a los propietarios. Exigimos: sin aumentos de alquiler después de renovaciones verdes, derechos de reubicación de inquilinos durante la construcción, y retorno prioritario para residentes desplazados. La inversión climática no debe convertirse en gentrificación climática.',
+              tl: 'Ang mga upgrade sa energy efficiency ay dapat makinabang sa mga nangungupahan, hindi lamang sa mga landlord. Hinihiling namin: walang pagtaas ng upa pagkatapos ng green renovation, karapatan sa relokasyon ng nangungupahan sa panahon ng konstruksyon, at priority return para sa mga displaced na residente. Ang climate investment ay hindi dapat maging climate gentrification.',
+              zh: '能源效率升级应该使租户受益，而不仅仅是房东。我们要求：绿色翻新后不涨租金、施工期间租户搬迁权、被迫迁居民优先返回。气候投资不能成为气候绅士化。',
+              vi: 'Nâng cấp hiệu quả năng lượng nên có lợi cho người thuê, không chỉ chủ nhà. Chúng tôi yêu cầu: không tăng tiền thuê sau cải tạo xanh, quyền tái định cư người thuê trong quá trình xây dựng, và ưu tiên trở về cho cư dân bị di dời. Đầu tư khí hậu không được trở thành gentrification khí hậu.',
+            },
+          },
+          {
+            title: {
+              en: 'Sustainable Social Housing',
+              es: 'Vivienda Social Sostenible',
+              tl: 'Sustainable na Social Housing',
+              zh: '可持续的社会住房',
+              vi: 'Nhà Ở Xã Hội Bền Vững',
+            },
+            body: {
+              en: 'The solution to both crises is the same: publicly-owned, democratically-controlled, climate-resilient housing. Vienna has done it. Singapore has done it. We can build housing that\'s affordable, sustainable, and removes landlords entirely. The tenant movement is a climate movement.',
+              es: 'La solución a ambas crisis es la misma: vivienda de propiedad pública, controlada democráticamente, resistente al clima. Viena lo ha hecho. Singapur lo ha hecho. Podemos construir viviendas que sean asequibles, sostenibles, y que eliminen completamente a los propietarios. El movimiento de inquilinos es un movimiento climático.',
+              tl: 'Ang solusyon sa parehong krisis ay pareho: publicly-owned, demokratikong kontrolado, climate-resilient na pabahay. Nagawa na ito ng Vienna. Nagawa na ito ng Singapore. Maaari tayong magtayo ng pabahay na abot-kaya, sustainable, at nag-aalis ng mga landlord nang buo. Ang tenant movement ay isang climate movement.',
+              zh: '两场危机的解决方案是一样的：公有的、民主控制的、气候适应性住房。维也纳已经做到了。新加坡已经做到了。我们可以建造负担得起的、可持续的、完全没有房东的住房。租户运动就是气候运动。',
+              vi: 'Giải pháp cho cả hai cuộc khủng hoảng là giống nhau: nhà ở thuộc sở hữu công, kiểm soát dân chủ, có khả năng chống chịu khí hậu. Vienna đã làm được. Singapore đã làm được. Chúng ta có thể xây dựng nhà ở giá cả phải chăng, bền vững, và loại bỏ hoàn toàn chủ nhà. Phong trào người thuê là phong trào khí hậu.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'enviro-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
