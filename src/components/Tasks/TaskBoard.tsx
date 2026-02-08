@@ -9,6 +9,7 @@ import {
   TaskType,
   getTasks,
   moveTask,
+  initializeSeedTasks,
   TASK_STATUSES,
   TASK_PRIORITIES,
   TASK_TYPES,
@@ -61,6 +62,8 @@ export function TaskBoard({ campaignId, buildingId }: TaskBoardProps) {
   }, [campaignId, buildingId, showMyTasks, priorityFilter, typeFilter, profile])
 
   useEffect(() => {
+    // Initialize seed tasks on first load
+    initializeSeedTasks()
     loadTasks()
 
     // Listen for real-time updates

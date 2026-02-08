@@ -20,6 +20,7 @@ export type TaskType =
   | 'event_planning'
   | 'event_logistics'
   | 'legal_research'
+  | 'data_request'
   | 'media_press'
   | 'admin_paperwork'
   | 'meeting_prep'
@@ -40,11 +41,18 @@ export interface Task {
   buildingId?: string
   buildingName?: string
   dueDate?: number
+  documentLinks?: DocumentLink[]
   createdBy: string
   createdByName: string
   createdAt: number
   updatedAt: number
   completedAt?: number
+}
+
+export interface DocumentLink {
+  slug: string
+  title: string
+  category: string
 }
 
 export interface TaskFilters {
@@ -63,6 +71,7 @@ export const TASK_TYPES: { value: TaskType; labelKey: string }[] = [
   { value: 'event_planning', labelKey: 'tasks.eventPlanning' },
   { value: 'event_logistics', labelKey: 'tasks.eventLogistics' },
   { value: 'legal_research', labelKey: 'tasks.legalResearch' },
+  { value: 'data_request', labelKey: 'tasks.dataRequest' },
   { value: 'media_press', labelKey: 'tasks.mediaPress' },
   { value: 'admin_paperwork', labelKey: 'tasks.adminPaperwork' },
   { value: 'meeting_prep', labelKey: 'tasks.meetingPrep' },
@@ -181,6 +190,7 @@ export function createTask(data: {
   buildingId?: string
   buildingName?: string
   dueDate?: number
+  documentLinks?: DocumentLink[]
   createdBy: string
   createdByName: string
 }): Task {
@@ -198,6 +208,7 @@ export function createTask(data: {
     buildingId: data.buildingId,
     buildingName: data.buildingName ? sanitizeText(data.buildingName) : undefined,
     dueDate: data.dueDate,
+    documentLinks: data.documentLinks,
     createdBy: data.createdBy,
     createdByName: sanitizeText(data.createdByName),
     createdAt: Date.now(),
@@ -362,4 +373,75 @@ export function formatDueDate(timestamp: number): string {
 export function getPriorityColor(priority: TaskPriority): string {
   const p = TASK_PRIORITIES.find(p => p.value === priority)
   return p?.color || 'bg-gray-100 text-gray-600'
+}
+
+// ============================================================================
+// Seed Tasks
+// ============================================================================
+
+const SEED_TASKS_KEY = 'rstu-seed-tasks-initialized'
+
+export function initializeSeedTasks(): void {
+  if (typeof window === 'undefined') return
+
+  // Only seed once
+  if (localStorage.getItem(SEED_TASKS_KEY)) return
+
+  const existingTasks = getTasks()
+
+  // Check if these tasks already exist
+  const hasEvictionRequest = existingTasks.some(t =>
+    t.title.includes('Eviction Data') || t.documentLinks?.some(d => d.slug.includes('eviction-data-request'))
+  )
+  const hasCodeEnforcementRequest = existingTasks.some(t =>
+    t.title.includes('Code Enforcement') || t.documentLinks?.some(d => d.slug.includes('code-enforcement-request'))
+  )
+
+  if (!hasEvictionRequest) {
+    const evictionTask: Task = {
+      id: 'seed-eviction-data-request',
+      title: 'Submit Public Records Request: Washoe County Eviction Data',
+      description: 'File a public records request with Washoe County Justice Courts for eviction case data (2020-2025). This data will help identify eviction patterns, high-filing landlords, and demographic disparities.\n\nSee attached document for the complete request template.',
+      status: 'todo',
+      priority: 'high',
+      type: 'data_request',
+      assigneeIds: [],
+      assigneeNames: [],
+      documentLinks: [{
+        slug: 'washoe-eviction-data-request',
+        title: 'Public Records Request: Washoe County Eviction Data',
+        category: 'data-requests',
+      }],
+      createdBy: 'system',
+      createdByName: 'RSTU System',
+      createdAt: Date.now(),
+      updatedAt: Date.now(),
+    }
+    saveTask(evictionTask)
+  }
+
+  if (!hasCodeEnforcementRequest) {
+    const codeEnforcementTask: Task = {
+      id: 'seed-code-enforcement-request',
+      title: 'Submit Public Records Request: Code Enforcement & Housing Violations',
+      description: 'File public records requests with Reno, Sparks, and Washoe County for code enforcement data (2020-2025). This data will identify problem landlords, habitability violations, and patterns of neglect.\n\nNote: Requires separate requests for each jurisdiction. See attached document.',
+      status: 'todo',
+      priority: 'high',
+      type: 'data_request',
+      assigneeIds: [],
+      assigneeNames: [],
+      documentLinks: [{
+        slug: 'washoe-code-enforcement-request',
+        title: 'Public Records Request: Code Enforcement & Housing Violations',
+        category: 'data-requests',
+      }],
+      createdBy: 'system',
+      createdByName: 'RSTU System',
+      createdAt: Date.now(),
+      updatedAt: Date.now(),
+    }
+    saveTask(codeEnforcementTask)
+  }
+
+  localStorage.setItem(SEED_TASKS_KEY, 'true')
 }
