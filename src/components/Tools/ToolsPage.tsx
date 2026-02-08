@@ -356,7 +356,7 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
 
   // Tab switcher component
   const TabSwitcher = () => (
-    <div className="flex gap-1 bg-gray-100 rounded-lg p-1 flex-wrap">
+    <div className="flex gap-1 bg-gray-100 rounded-lg p-1">
       <button
         onClick={() => setActiveToolsTab('canvassing')}
         className={`flex-1 min-w-[90px] py-1.5 px-2 text-xs font-medium rounded-md transition-colors ${
