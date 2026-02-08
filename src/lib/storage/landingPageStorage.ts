@@ -26,7 +26,7 @@ export interface LandingPageConfig {
 const PAGES_KEY = 'rstu_landing_pages'
 const ACTIVE_KEY = 'rstu_active_landing_page'
 const MIGRATION_KEY = 'rstu_landing_page_version'
-const CURRENT_VERSION = 6 // Bump when preset pages change
+const CURRENT_VERSION = 7 // Bump when preset pages change
 
 let _uid = 0
 function uid() {
@@ -520,7 +520,27 @@ export const PRESET_PAGE_4: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'corp-crisis', type: 'crisis', config: {} },
+    {
+      id: 'corp-local',
+      type: 'text',
+      config: {
+        heading: {
+          en: 'Corporate Landlords in Reno-Sparks',
+          es: 'Propietarios Corporativos en Reno-Sparks',
+          tl: 'Mga Corporate Landlord sa Reno-Sparks',
+          zh: '雷诺-斯帕克斯的企业房东',
+          vi: 'Chủ Nhà Doanh Nghiệp Ở Reno-Sparks',
+        },
+        body: {
+          en: 'The same extraction happening nationally is happening here:\n\n**40-45% rent increases** since 2019—outpacing wages and inflation\n\n**57% of Nevada renters** are cost-burdened (spending >30% of income on housing)\n\n**Corporate-owned properties** file evictions at 3.7x the rate of individual landlords (KC data)\n\n**82 hours/week** at minimum wage needed to afford a 1-bedroom apartment\n\nWall Street didn\'t just buy our apartments. They bought our elected officials. They wrote the laws. They built the system. And they\'re counting on you staying alone and afraid.\n\n**But we have numbers. We have neighbors. And we\'re organizing.**',
+          es: 'La misma extracción que ocurre a nivel nacional está ocurriendo aquí:\n\n**Aumentos de alquiler del 40-45%** desde 2019—superando salarios e inflación\n\n**57% de los inquilinos de Nevada** están sobrecargados de costos (gastan >30% de ingresos en vivienda)\n\n**Propiedades corporativas** presentan desalojos a una tasa 3.7x mayor que propietarios individuales (datos de KC)\n\n**82 horas/semana** al salario mínimo para pagar un apartamento de 1 dormitorio\n\nWall Street no solo compró nuestros apartamentos. Compraron a nuestros funcionarios electos. Escribieron las leyes. Construyeron el sistema. Y cuentan con que te quedes solo y asustado.\n\n**Pero tenemos números. Tenemos vecinos. Y nos estamos organizando.**',
+          tl: 'Ang parehong extraction na nangyayari sa buong bansa ay nangyayari rito:\n\n**40-45% na pagtaas ng upa** mula 2019—mas mabilis kaysa sa sahod at implasyon\n\n**57% ng mga nangungupahan sa Nevada** ay cost-burdened (gumagastos ng >30% ng kita sa pabahay)\n\n**Corporate-owned properties** ay nagfa-file ng eviction sa 3.7x na rate ng mga individual landlord (data ng KC)\n\n**82 oras/linggo** sa minimum wage para makayanan ang 1-bedroom apartment\n\nHindi lang ang mga apartment natin ang binili ng Wall Street. Binili nila ang mga inihalal nating opisyal. Sila ang sumulat ng batas. Sila ang bumuo ng sistema. At inaasahan nila na mag-isa ka at natatakot.\n\n**Pero may bilang tayo. May mga kapitbahay tayo. At nag-oorganisa tayo.**',
+          zh: '全国发生的同样剥削正在这里发生：\n\n**40-45%的租金涨幅** 自2019年以来——超过工资和通货膨胀\n\n**57%的内华达州租户** 承受沉重的住房负担（住房支出超过收入30%）\n\n**企业所有的房产** 提起驱逐的比率是个人房东的3.7倍（KC数据）\n\n**每周82小时** 按最低工资工作才能负担一居室公寓\n\n华尔街不仅买了我们的公寓。他们买通了我们的民选官员。他们制定了法律。他们建造了这个系统。他们指望你孤独和恐惧。\n\n**但我们有人数。我们有邻居。我们正在组织起来。**',
+          vi: 'Cùng một sự bóc lột đang xảy ra trên toàn quốc cũng đang xảy ra ở đây:\n\n**Tăng tiền thuê 40-45%** kể từ năm 2019—vượt qua lương và lạm phát\n\n**57% người thuê nhà Nevada** đang gánh nặng chi phí (chi >30% thu nhập cho nhà ở)\n\n**Bất động sản thuộc sở hữu doanh nghiệp** nộp đơn trục xuất với tỷ lệ gấp 3,7 lần so với chủ nhà cá nhân (dữ liệu KC)\n\n**82 giờ/tuần** với mức lương tối thiểu để đủ tiền thuê căn hộ 1 phòng ngủ\n\nWall Street không chỉ mua căn hộ của chúng ta. Họ mua các quan chức được bầu. Họ viết luật. Họ xây dựng hệ thống. Và họ đang trông chờ bạn ở một mình và sợ hãi.\n\n**Nhưng chúng ta có số lượng. Chúng ta có hàng xóm. Và chúng ta đang tổ chức.**',
+        },
+        bgColor: 'white',
+      },
+    },
     { id: 'corp-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -583,7 +603,86 @@ export const PRESET_PAGE_5: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'rights-action', type: 'action', config: {} },
+    {
+      id: 'rights-toolkit',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'Your Tenant Toolkit',
+          es: 'Tu Kit de Herramientas de Inquilino',
+          tl: 'Ang Iyong Toolkit ng Nangungupahan',
+          zh: '你的租户工具包',
+          vi: 'Bộ Công Cụ Người Thuê Của Bạn',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Document Everything',
+              es: 'Documenta Todo',
+              tl: 'Idokumento ang Lahat',
+              zh: '记录一切',
+              vi: 'Ghi Nhận Mọi Thứ',
+            },
+            body: {
+              en: 'Take photos with timestamps. Save all communications in writing. Keep copies of your lease and every notice. Send repair requests in writing and keep copies. Your documentation is your evidence—and evidence wins cases.',
+              es: 'Toma fotos con marcas de tiempo. Guarda todas las comunicaciones por escrito. Mantén copias de tu contrato y cada aviso. Envía solicitudes de reparación por escrito y guarda copias. Tu documentación es tu evidencia—y la evidencia gana casos.',
+              tl: 'Kumuha ng mga litrato na may timestamp. I-save ang lahat ng komunikasyon sa nakasulat. Magkuha ng mga kopya ng iyong lease at bawat notice. Ipadala ang mga kahilingan sa pag-aayos sa nakasulat at itago ang mga kopya. Ang iyong dokumentasyon ay ang iyong ebidensya—at ang ebidensya ang nananalong ng mga kaso.',
+              zh: '拍摄带时间戳的照片。保存所有书面通信。保留租约和每份通知的副本。以书面形式发送维修请求并保留副本。你的文件就是证据——证据能赢得案件。',
+              vi: 'Chụp ảnh có dấu thời gian. Lưu tất cả thông tin liên lạc bằng văn bản. Giữ bản sao hợp đồng thuê và mọi thông báo. Gửi yêu cầu sửa chữa bằng văn bản và giữ bản sao. Tài liệu của bạn là bằng chứng—và bằng chứng chiến thắng.',
+            },
+          },
+          {
+            title: {
+              en: 'Request Repairs in Writing',
+              es: 'Solicita Reparaciones por Escrito',
+              tl: 'Humiling ng mga Pag-aayos sa Nakasulat',
+              zh: '书面请求维修',
+              vi: 'Yêu Cầu Sửa Chữa Bằng Văn Bản',
+            },
+            body: {
+              en: 'Nevada law (NRS 118A.355) requires landlords to maintain habitable conditions. If repairs aren\'t made within 14 days of written notice, you may have legal options including rent reduction or lease termination. Always put repair requests in writing and keep copies.',
+              es: 'La ley de Nevada (NRS 118A.355) requiere que los propietarios mantengan condiciones habitables. Si las reparaciones no se hacen dentro de 14 días del aviso escrito, puedes tener opciones legales incluyendo reducción de alquiler o terminación del contrato. Siempre pon las solicitudes de reparación por escrito y guarda copias.',
+              tl: 'Ang batas ng Nevada (NRS 118A.355) ay nangangailangan na panatilihin ng mga landlord ang mga kondisyong maaaring tirahan. Kung ang mga pag-aayos ay hindi ginawa sa loob ng 14 na araw ng nakasulat na abiso, maaari kang magkaroon ng mga legal na opsyon kabilang ang pagbabawas ng upa o pagtatapos ng lease. Palaging ilagay ang mga kahilingan sa pag-aayos sa nakasulat at itago ang mga kopya.',
+              zh: '内华达州法律（NRS 118A.355）要求房东保持可居住条件。如果在书面通知后14天内未进行维修，你可能有法律选择，包括降低租金或终止租约。始终以书面形式提出维修请求并保留副本。',
+              vi: 'Luật Nevada (NRS 118A.355) yêu cầu chủ nhà duy trì điều kiện có thể ở được. Nếu việc sửa chữa không được thực hiện trong vòng 14 ngày kể từ thông báo bằng văn bản, bạn có thể có các lựa chọn pháp lý bao gồm giảm tiền thuê hoặc chấm dứt hợp đồng thuê. Luôn đặt yêu cầu sửa chữa bằng văn bản và giữ bản sao.',
+            },
+          },
+          {
+            title: {
+              en: 'Know the Eviction Timeline',
+              es: 'Conoce el Cronograma de Desalojo',
+              tl: 'Alamin ang Timeline ng Eviction',
+              zh: '了解驱逐时间表',
+              vi: 'Biết Thời Gian Trục Xuất',
+            },
+            body: {
+              en: 'Landlords cannot "self-help evict" (changing locks, shutting off utilities). They must go through the courts. You have the right to appear and defend yourself. Many eviction cases are dismissed when tenants show up with documentation. Legal aid is available—use it.',
+              es: 'Los propietarios no pueden hacer "auto-desalojo" (cambiar cerraduras, cortar servicios). Deben ir a los tribunales. Tienes derecho a presentarte y defenderte. Muchos casos de desalojo se desestiman cuando los inquilinos se presentan con documentación. La asistencia legal está disponible—úsala.',
+              tl: 'Hindi maaaring "self-help evict" ang mga landlord (pagpapalit ng mga kandado, pagsasara ng mga utility). Dapat silang dumaan sa mga korte. May karapatan kang lumitaw at ipagtanggol ang iyong sarili. Maraming kaso ng eviction ang dinidismiss kapag lumitaw ang mga nangungupahan na may dokumentasyon. Available ang legal aid—gamitin mo ito.',
+              zh: '房东不能"自助驱逐"（换锁、关闭公用设施）。他们必须通过法院。你有权出庭为自己辩护。当租户带着文件出庭时，许多驱逐案件被驳回。法律援助是可用的——使用它。',
+              vi: 'Chủ nhà không thể "tự trục xuất" (đổi khóa, cắt điện nước). Họ phải thông qua tòa án. Bạn có quyền ra tòa và tự bảo vệ mình. Nhiều vụ trục xuất bị bác bỏ khi người thuê xuất hiện với tài liệu. Hỗ trợ pháp lý có sẵn—hãy sử dụng.',
+            },
+          },
+          {
+            title: {
+              en: 'Organize Your Neighbors',
+              es: 'Organiza a Tus Vecinos',
+              tl: 'Iorganisa ang Iyong mga Kapitbahay',
+              zh: '组织你的邻居',
+              vi: 'Tổ Chức Hàng Xóm Của Bạn',
+            },
+            body: {
+              en: 'Your strongest protection is collective action. Talk to your neighbors—they likely face the same issues. Form a tenant association. Landlords target isolated tenants; they fear organized ones. Retaliation for organizing is illegal under NRS 118A.510.',
+              es: 'Tu protección más fuerte es la acción colectiva. Habla con tus vecinos—probablemente enfrentan los mismos problemas. Forma una asociación de inquilinos. Los propietarios atacan a inquilinos aislados; temen a los organizados. Las represalias por organizarse son ilegales bajo NRS 118A.510.',
+              tl: 'Ang pinakamalakas mong proteksyon ay sama-samang pagkilos. Kausapin ang iyong mga kapitbahay—malamang na nahaharap sila sa parehong mga isyu. Bumuo ng tenant association. Tina-target ng mga landlord ang mga isolated na nangungupahan; natatakot sila sa mga organisado. Ang paghihiganti dahil sa pag-oorganisa ay ilegal sa ilalim ng NRS 118A.510.',
+              zh: '你最强的保护是集体行动。与邻居交谈——他们可能面临同样的问题。组建租户协会。房东针对孤立的租户；他们害怕有组织的租户。根据NRS 118A.510，因组织而进行报复是违法的。',
+              vi: 'Sự bảo vệ mạnh nhất của bạn là hành động tập thể. Nói chuyện với hàng xóm—họ có thể đối mặt với cùng vấn đề. Thành lập hiệp hội người thuê. Chủ nhà nhắm vào người thuê cô lập; họ sợ người có tổ chức. Trả đũa vì tổ chức là bất hợp pháp theo NRS 118A.510.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'rights-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -709,7 +808,70 @@ export const PRESET_PAGE_6: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'history-crisis', type: 'crisis', config: {} },
+    {
+      id: 'history-repair',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'What Reparative Justice Requires',
+          es: 'Lo Que Requiere la Justicia Reparadora',
+          tl: 'Ano ang Kinakailangan ng Reparative Justice',
+          zh: '修复性正义需要什么',
+          vi: 'Công Lý Sửa Chữa Đòi Hỏi Điều Gì',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Enforce the 1949 Promise',
+              es: 'Hacer Cumplir la Promesa de 1949',
+              tl: 'Ipatupad ang Pangako ng 1949',
+              zh: '执行1949年的承诺',
+              vi: 'Thực Thi Lời Hứa Năm 1949',
+            },
+            body: {
+              en: 'The Housing Act of 1949 declared "a decent home and suitable living environment for every American family" as national policy—not aspiration, but law. Seventy-five years later, the promise remains unfulfilled. The solution isn\'t new programs. It\'s enforcing the commitment we already made.',
+              es: 'La Ley de Vivienda de 1949 declaró "un hogar decente y un ambiente de vida adecuado para cada familia estadounidense" como política nacional—no aspiración, sino ley. Setenta y cinco años después, la promesa sigue sin cumplirse. La solución no son nuevos programas. Es hacer cumplir el compromiso que ya hicimos.',
+              tl: 'Ang Housing Act ng 1949 ay nagdeklara ng "isang disenteng tahanan at angkop na kapaligiran para sa bawat pamilyang Amerikano" bilang pambansang patakaran—hindi hangarin, kundi batas. Pitumpu\'t limang taon na ang nakalipas, hindi pa natutupad ang pangako. Ang solusyon ay hindi mga bagong programa. Ito ay pagpapatupad ng commitment na nagawa na natin.',
+              zh: '1949年住房法宣布"为每个美国家庭提供体面的住房和适宜的生活环境"是国家政策——不是愿望，而是法律。七十五年后，承诺仍未兑现。解决方案不是新项目。而是执行我们已经做出的承诺。',
+              vi: 'Đạo luật Nhà ở 1949 tuyên bố "một ngôi nhà đàng hoàng và môi trường sống phù hợp cho mọi gia đình Mỹ" là chính sách quốc gia—không phải khát vọng, mà là luật. Bảy mươi lăm năm sau, lời hứa vẫn chưa được thực hiện. Giải pháp không phải là các chương trình mới. Mà là thực thi cam kết chúng ta đã đưa ra.',
+            },
+          },
+          {
+            title: {
+              en: 'Repair the Wealth Gap',
+              es: 'Reparar la Brecha de Riqueza',
+              tl: 'Ayusin ang Wealth Gap',
+              zh: '修复财富差距',
+              vi: 'Sửa Chữa Khoảng Cách Giàu Nghèo',
+            },
+            body: {
+              en: 'The racial wealth gap traces directly to federal housing policy. Black families were systematically excluded from homeownership while white families built generational wealth. Repairing this requires: community land trusts, social housing, universal rent relief, and policies that prioritize communities harmed by redlining.',
+              es: 'La brecha de riqueza racial se remonta directamente a la política federal de vivienda. Las familias negras fueron sistemáticamente excluidas de la propiedad de viviendas mientras las familias blancas construían riqueza generacional. Reparar esto requiere: fideicomisos comunitarios de tierra, vivienda social, alivio universal de alquileres y políticas que prioricen comunidades dañadas por el redlining.',
+              tl: 'Ang racial wealth gap ay direktang nauugnay sa pederal na patakaran sa pabahay. Ang mga pamilyang Itim ay sistematikong ibinukod sa pagmamay-ari ng bahay habang ang mga pamilyang puti ay nagtatayo ng generational wealth. Ang pag-aayos nito ay nangangailangan ng: community land trusts, social housing, universal rent relief, at mga patakaran na inuuna ang mga komunidad na napinsala ng redlining.',
+              zh: '种族财富差距直接追溯到联邦住房政策。黑人家庭被系统性地排除在住房所有权之外，而白人家庭积累了世代财富。修复这一问题需要：社区土地信托、社会住房、普遍租金减免，以及优先考虑受红线政策损害的社区的政策。',
+              vi: 'Khoảng cách giàu nghèo chủng tộc trực tiếp bắt nguồn từ chính sách nhà ở liên bang. Các gia đình Da đen bị loại trừ một cách có hệ thống khỏi quyền sở hữu nhà trong khi các gia đình Da trắng xây dựng tài sản qua nhiều thế hệ. Sửa chữa điều này đòi hỏi: quỹ đất cộng đồng, nhà ở xã hội, giảm tiền thuê phổ quát và các chính sách ưu tiên các cộng đồng bị tổn hại bởi redlining.',
+            },
+          },
+          {
+            title: {
+              en: 'Build Tenant Power',
+              es: 'Construir Poder de Inquilinos',
+              tl: 'Itayo ang Kapangyarihan ng Nangungupahan',
+              zh: '建设租户力量',
+              vi: 'Xây Dựng Quyền Lực Người Thuê',
+            },
+            body: {
+              en: 'Policy alone won\'t create justice—power creates justice. The communities most harmed by housing discrimination must lead the movement to repair it. That means tenant unions, community control, and democratic governance of housing. Not charity from above, but power from below.',
+              es: 'Las políticas solas no crearán justicia—el poder crea justicia. Las comunidades más perjudicadas por la discriminación en la vivienda deben liderar el movimiento para repararla. Eso significa sindicatos de inquilinos, control comunitario y gobernanza democrática de la vivienda. No caridad desde arriba, sino poder desde abajo.',
+              tl: 'Ang patakaran lamang ay hindi lilikha ng katarungan—ang kapangyarihan ang lumikha ng katarungan. Ang mga komunidad na pinaka-napinsala ng diskriminasyon sa pabahay ay dapat mamuno sa kilusan para ayusin ito. Ibig sabihin ay mga tenant union, community control, at demokratikong pamamahala ng pabahay. Hindi kawanggawa mula sa itaas, kundi kapangyarihan mula sa ibaba.',
+              zh: '仅靠政策不会创造正义——权力创造正义。受住房歧视伤害最深的社区必须领导修复运动。这意味着租户工会、社区控制和住房的民主治理。不是来自上层的施舍，而是来自下层的力量。',
+              vi: 'Chỉ chính sách sẽ không tạo ra công lý—quyền lực tạo ra công lý. Các cộng đồng bị tổn hại nhiều nhất bởi phân biệt đối xử nhà ở phải dẫn đầu phong trào sửa chữa nó. Điều đó có nghĩa là công đoàn người thuê, kiểm soát cộng đồng và quản trị dân chủ nhà ở. Không phải từ thiện từ trên, mà là quyền lực từ dưới.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'history-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -851,7 +1013,70 @@ export const PRESET_PAGE_7: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'org-organizing', type: 'organizing', config: {} },
+    {
+      id: 'org-model',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'The Tenant Union Model',
+          es: 'El Modelo del Sindicato de Inquilinos',
+          tl: 'Ang Modelo ng Tenant Union',
+          zh: '租户工会模式',
+          vi: 'Mô Hình Công Đoàn Người Thuê',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Building-by-Building Organizing',
+              es: 'Organización Edificio por Edificio',
+              tl: 'Pag-oorganisa ng Gusali-sa-Gusali',
+              zh: '逐楼组织',
+              vi: 'Tổ Chức Từng Tòa Nhà',
+            },
+            body: {
+              en: 'Start where you live. Talk to your neighbors. Find common issues. Form a tenant association. This is the foundation of tenant power. KC Tenants built their citywide power by organizing hundreds of buildings, one at a time.',
+              es: 'Comienza donde vives. Habla con tus vecinos. Encuentra problemas comunes. Forma una asociación de inquilinos. Esta es la base del poder de los inquilinos. KC Tenants construyó su poder en toda la ciudad organizando cientos de edificios, uno a la vez.',
+              tl: 'Magsimula kung saan ka nakatira. Kausapin ang iyong mga kapitbahay. Hanapin ang mga karaniwang isyu. Bumuo ng tenant association. Ito ang pundasyon ng kapangyarihan ng nangungupahan. Itinayo ng KC Tenants ang kanilang citywide power sa pamamagitan ng pag-oorganisa ng daan-daang gusali, isa-isa.',
+              zh: '从你住的地方开始。与邻居交谈。找到共同问题。成立租户协会。这是租户力量的基础。KC Tenants通过一栋一栋地组织数百栋建筑，建立了他们的全市力量。',
+              vi: 'Bắt đầu từ nơi bạn sống. Nói chuyện với hàng xóm. Tìm các vấn đề chung. Thành lập hiệp hội người thuê. Đây là nền tảng của quyền lực người thuê. KC Tenants xây dựng sức mạnh toàn thành phố bằng cách tổ chức hàng trăm tòa nhà, từng tòa một.',
+            },
+          },
+          {
+            title: {
+              en: 'Escalating Demands',
+              es: 'Demandas Escaladas',
+              tl: 'Pag-escalate ng mga Demand',
+              zh: '升级诉求',
+              vi: 'Leo Thang Yêu Cầu',
+            },
+            body: {
+              en: 'Document issues → Written demand → Public pressure → Collective action. Each step builds power. At Independence Towers, tenants documented violations for months before striking. When they finally withheld rent, they had the evidence and unity to win.',
+              es: 'Documenta problemas → Demanda escrita → Presión pública → Acción colectiva. Cada paso construye poder. En Independence Towers, los inquilinos documentaron violaciones durante meses antes de hacer huelga. Cuando finalmente retuvieron el alquiler, tenían la evidencia y la unidad para ganar.',
+              tl: 'Idokumento ang mga isyu → Nakasulat na demand → Public pressure → Collective action. Bawat hakbang ay nagtatayo ng kapangyarihan. Sa Independence Towers, nagdokumento ang mga nangungupahan ng mga paglabag sa loob ng ilang buwan bago mag-strike. Nang sa wakas ay itinago nila ang upa, mayroon silang ebidensya at pagkakaisa para manalo.',
+              zh: '记录问题 → 书面要求 → 公众压力 → 集体行动。每一步都建立力量。在Independence Towers，租户在罢工前花了几个月时间记录违规行为。当他们最终拒付租金时，他们有了赢得胜利所需的证据和团结。',
+              vi: 'Ghi nhận vấn đề → Yêu cầu bằng văn bản → Áp lực công chúng → Hành động tập thể. Mỗi bước xây dựng sức mạnh. Tại Independence Towers, người thuê ghi nhận vi phạm trong nhiều tháng trước khi đình công. Khi cuối cùng họ giữ lại tiền thuê, họ có bằng chứng và sự đoàn kết để chiến thắng.',
+            },
+          },
+          {
+            title: {
+              en: 'From Defense to Offense',
+              es: 'De Defensa a Ofensiva',
+              tl: 'Mula Depensa hanggang Opensiba',
+              zh: '从防守到进攻',
+              vi: 'Từ Phòng Thủ Đến Tấn Công',
+            },
+            body: {
+              en: 'Don\'t just fight evictions—fight for policy change. KC Tenants passed a citywide Tenants Bill of Rights. They launched a national Tenant Union Federation. When you build enough power, you stop playing defense and start changing the rules.',
+              es: 'No solo luches contra los desalojos—lucha por cambios de política. KC Tenants aprobó una Declaración de Derechos de los Inquilinos en toda la ciudad. Lanzaron una Federación Nacional de Sindicatos de Inquilinos. Cuando construyes suficiente poder, dejas de jugar a la defensiva y empiezas a cambiar las reglas.',
+              tl: 'Huwag lang lumaban sa eviction—lumaban para sa pagbabago ng patakaran. Naipasa ng KC Tenants ang isang citywide Tenants Bill of Rights. Inilunsad nila ang isang national Tenant Union Federation. Kapag nakabuo ka ng sapat na kapangyarihan, hihinto ka na sa paglalaro ng depensa at magsisimula nang baguhin ang mga patakaran.',
+              zh: '不只是抵抗驱逐——为政策变革而战。KC Tenants通过了全市租户权利法案。他们启动了全国租户工会联合会。当你建立了足够的力量，你就不再只是防守，而是开始改变规则。',
+              vi: 'Không chỉ chống lại việc trục xuất—đấu tranh cho thay đổi chính sách. KC Tenants đã thông qua Tuyên ngôn Quyền Người Thuê toàn thành phố. Họ ra mắt Liên đoàn Công đoàn Người Thuê quốc gia. Khi bạn xây dựng đủ sức mạnh, bạn ngừng phòng thủ và bắt đầu thay đổi luật chơi.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'org-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
@@ -977,7 +1202,70 @@ export const PRESET_PAGE_8: LandingPageConfig = {
         bgColor: 'gray',
       },
     },
-    { id: 'class-crisis', type: 'crisis', config: {} },
+    {
+      id: 'class-alliance',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'Building the Labor-Tenant Alliance',
+          es: 'Construyendo la Alianza Laboral-Inquilinos',
+          tl: 'Pagbuo ng Labor-Tenant Alliance',
+          zh: '建设劳工-租户联盟',
+          vi: 'Xây Dựng Liên Minh Lao Động-Người Thuê',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Same Bosses, Same Fight',
+              es: 'Mismos Jefes, Misma Lucha',
+              tl: 'Parehong mga Boss, Parehong Laban',
+              zh: '同样的老板，同样的斗争',
+              vi: 'Cùng Ông Chủ, Cùng Cuộc Chiến',
+            },
+            body: {
+              en: 'Private equity firms own both workplaces and housing. Blackstone, the largest landlord, also owns companies that employ millions. When they cut wages at work and raise rents at home, they\'re extracting from workers at both ends. Fighting back requires solidarity across both fronts.',
+              es: 'Las firmas de capital privado son dueñas tanto de los lugares de trabajo como de las viviendas. Blackstone, el mayor propietario, también es dueño de empresas que emplean a millones. Cuando recortan salarios en el trabajo y suben los alquileres en casa, están extrayendo de los trabajadores en ambos extremos. Luchar requiere solidaridad en ambos frentes.',
+              tl: 'Ang mga private equity firm ay nagmamay-ari ng parehong mga lugar ng trabaho at pabahay. Ang Blackstone, ang pinakamalaking landlord, ay nagmamay-ari rin ng mga kumpanya na nag-eempleyo ng milyun-milyon. Kapag binabawasan nila ang sahod sa trabaho at tinaasan ang upa sa bahay, kumukuha sila mula sa mga manggagawa sa parehong dulo. Ang paglaban ay nangangailangan ng pagkakaisa sa parehong harapan.',
+              zh: '私募股权公司同时拥有工作场所和住房。黑石集团是最大的房东，也拥有雇用数百万人的公司。当他们削减工作工资并提高家庭租金时，他们在两端从工人身上榨取。反击需要两条战线上的团结。',
+              vi: 'Các công ty cổ phần tư nhân sở hữu cả nơi làm việc và nhà ở. Blackstone, chủ nhà lớn nhất, cũng sở hữu các công ty sử dụng hàng triệu người. Khi họ cắt giảm lương tại nơi làm việc và tăng tiền thuê ở nhà, họ đang bóc lột công nhân ở cả hai đầu. Đấu tranh đòi hỏi sự đoàn kết trên cả hai mặt trận.',
+            },
+          },
+          {
+            title: {
+              en: 'Labor Unions + Tenant Unions',
+              es: 'Sindicatos Laborales + Sindicatos de Inquilinos',
+              tl: 'Labor Unions + Tenant Unions',
+              zh: '工会 + 租户工会',
+              vi: 'Công Đoàn Lao Động + Công Đoàn Người Thuê',
+            },
+            body: {
+              en: 'The UAW\'s 2023 strike showed what\'s possible when workers organize. Tenant unions can do the same. As Tara Raghuveer says: "The tenant union needs to be for the 21st century what the labor union was in the 20th century at its peak." When workers and tenants organize together, the billionaire class has nowhere to hide.',
+              es: 'La huelga de UAW de 2023 mostró lo que es posible cuando los trabajadores se organizan. Los sindicatos de inquilinos pueden hacer lo mismo. Como dice Tara Raghuveer: "El sindicato de inquilinos necesita ser para el siglo XXI lo que el sindicato laboral fue en el siglo XX en su apogeo." Cuando trabajadores e inquilinos se organizan juntos, la clase multimillonaria no tiene donde esconderse.',
+              tl: 'Ang huelga ng UAW noong 2023 ay nagpakita kung ano ang posible kapag nag-organisa ang mga manggagawa. Maaaring gawin ng mga tenant union ang pareho. Gaya ng sabi ni Tara Raghuveer: "Ang tenant union ay kailangang maging para sa ika-21 siglo kung ano ang labor union sa ika-20 siglo sa tugatog nito." Kapag nag-organisa ang mga manggagawa at nangungupahan nang magkasama, walang mapagtataguan ang napakalaking mayamang klase.',
+              zh: 'UAW 2023年的罢工展示了工人组织起来时的可能性。租户工会也可以做到同样的事情。正如Tara Raghuveer所说："租户工会需要成为21世纪的东西，就像工会在20世纪鼎盛时期那样。"当工人和租户一起组织时，亿万富翁阶级无处可逃。',
+              vi: 'Cuộc đình công của UAW năm 2023 cho thấy điều gì có thể khi công nhân tổ chức. Công đoàn người thuê có thể làm điều tương tự. Như Tara Raghuveer nói: "Công đoàn người thuê cần phải là cho thế kỷ 21 những gì công đoàn lao động đã là trong thế kỷ 20 ở đỉnh cao của nó." Khi công nhân và người thuê tổ chức cùng nhau, giai cấp tỷ phú không có nơi nào để trốn.',
+            },
+          },
+          {
+            title: {
+              en: 'What You Can Do',
+              es: 'Qué Puedes Hacer',
+              tl: 'Ano ang Maaari Mong Gawin',
+              zh: '你能做什么',
+              vi: 'Bạn Có Thể Làm Gì',
+            },
+            body: {
+              en: 'Join your union at work. Join RSTU at home. Talk to your coworkers about housing. Talk to your neighbors about work. When your union negotiates, demand housing support. When your tenant association acts, invite workers. Power builds when we connect our struggles.',
+              es: 'Únete a tu sindicato en el trabajo. Únete a RSTU en casa. Habla con tus compañeros de trabajo sobre vivienda. Habla con tus vecinos sobre trabajo. Cuando tu sindicato negocie, exige apoyo de vivienda. Cuando tu asociación de inquilinos actúe, invita a trabajadores. El poder crece cuando conectamos nuestras luchas.',
+              tl: 'Sumali sa iyong unyon sa trabaho. Sumali sa RSTU sa bahay. Kausapin ang iyong mga kasamahan sa trabaho tungkol sa pabahay. Kausapin ang iyong mga kapitbahay tungkol sa trabaho. Kapag nakikipagnegosasyon ang iyong unyon, hilingin ang suporta sa pabahay. Kapag kumilos ang iyong tenant association, imbitahan ang mga manggagawa. Lumalaki ang kapangyarihan kapag nag-uugnay tayo ng ating mga pakikibaka.',
+              zh: '在工作中加入你的工会。在家里加入RSTU。与同事谈论住房。与邻居谈论工作。当你的工会谈判时，要求住房支持。当你的租户协会行动时，邀请工人。当我们连接我们的斗争时，力量就会增长。',
+              vi: 'Tham gia công đoàn của bạn tại nơi làm việc. Tham gia RSTU ở nhà. Nói chuyện với đồng nghiệp về nhà ở. Nói chuyện với hàng xóm về công việc. Khi công đoàn của bạn đàm phán, yêu cầu hỗ trợ nhà ở. Khi hiệp hội người thuê của bạn hành động, mời công nhân. Sức mạnh xây dựng khi chúng ta kết nối các cuộc đấu tranh.',
+            },
+          },
+        ],
+      },
+    },
     { id: 'class-cta', type: 'cta', config: {} },
   ],
   created_at: '2026-01-01T00:00:00Z',
