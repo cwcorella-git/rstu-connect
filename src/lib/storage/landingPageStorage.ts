@@ -26,7 +26,7 @@ export interface LandingPageConfig {
 const PAGES_KEY = 'rstu_landing_pages'
 const ACTIVE_KEY = 'rstu_active_landing_page'
 const MIGRATION_KEY = 'rstu_landing_page_version'
-const CURRENT_VERSION = 5 // Bump when preset pages change
+const CURRENT_VERSION = 6 // Bump when preset pages change
 
 let _uid = 0
 function uid() {
@@ -984,6 +984,756 @@ export const PRESET_PAGE_8: LandingPageConfig = {
   updated_at: '2026-01-01T00:00:00Z',
 }
 
+// Page 9: Mutual Aid - Community care framing
+export const PRESET_PAGE_9: LandingPageConfig = {
+  id: 'page-9',
+  name: 'Mutual Aid',
+  sections: [
+    {
+      id: 'mutual-hero',
+      type: 'hero',
+      config: {
+        showLogo: true,
+        headlineOverride: {
+          en: 'Neighbors Helping Neighbors',
+          es: 'Vecinos Ayudando a Vecinos',
+          tl: 'Mga Kapitbahay na Tumutulong sa mga Kapitbahay',
+          zh: '邻里互助',
+          vi: 'Hàng Xóm Giúp Đỡ Hàng Xóm',
+        },
+        taglineOverride: {
+          en: 'When the system fails us, we take care of each other. That\'s what tenant organizing is all about.',
+          es: 'Cuando el sistema nos falla, nos cuidamos unos a otros. De eso se trata la organización de inquilinos.',
+          tl: 'Kapag bigo tayo ng sistema, nag-aalaga tayo sa isa\'t isa. Iyan ang kahulugan ng tenant organizing.',
+          zh: '当系统让我们失望时，我们互相照顾。这就是租户组织的意义。',
+          vi: 'Khi hệ thống thất bại với chúng ta, chúng ta chăm sóc lẫn nhau. Đó là ý nghĩa của việc tổ chức người thuê nhà.',
+        },
+        missionOverride: {
+          en: 'In Reno-Sparks, 57% of renters are cost-burdened. Many are just one emergency away from eviction. We don\'t wait for politicians to fix this. We build networks of solidarity—tenants helping tenants, neighbors protecting neighbors. Together, we survive. Together, we thrive.',
+          es: 'En Reno-Sparks, el 57% de los inquilinos están sobrecargados de costos. Muchos están a solo una emergencia de ser desalojados. No esperamos a que los políticos arreglen esto. Construimos redes de solidaridad—inquilinos ayudando a inquilinos, vecinos protegiendo a vecinos. Juntos, sobrevivimos. Juntos, prosperamos.',
+          tl: 'Sa Reno-Sparks, 57% ng mga nangungupahan ay cost-burdened. Marami ang isang emergency na lang ang layo sa eviction. Hindi tayo naghihintay sa mga politiko para ayusin ito. Nagtatayo tayo ng mga network ng pagkakaisa—mga nangungupahan na tumutulong sa mga nangungupahan, mga kapitbahay na nagpoprotekta sa mga kapitbahay. Magkasama, nakakaligtas tayo. Magkasama, umuunlad tayo.',
+          zh: '在雷诺-斯帕克斯，57%的租户承受着沉重的住房负担。许多人离被驱逐只差一次紧急情况。我们不等政客来解决这个问题。我们建立团结网络——租户帮助租户，邻居保护邻居。一起，我们生存。一起，我们繁荣。',
+          vi: 'Tại Reno-Sparks, 57% người thuê nhà đang gánh nặng chi phí. Nhiều người chỉ cách bị trục xuất một trường hợp khẩn cấp. Chúng tôi không chờ các chính trị gia giải quyết điều này. Chúng tôi xây dựng mạng lưới đoàn kết—người thuê giúp người thuê, hàng xóm bảo vệ hàng xóm. Cùng nhau, chúng ta sống sót. Cùng nhau, chúng ta phát triển.',
+        },
+      },
+    },
+    {
+      id: 'mutual-how',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'How Mutual Aid Works',
+          es: 'Cómo Funciona la Ayuda Mutua',
+          tl: 'Paano Gumagana ang Mutual Aid',
+          zh: '互助如何运作',
+          vi: 'Hỗ Trợ Lẫn Nhau Hoạt Động Như Thế Nào',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'We Share Resources',
+              es: 'Compartimos Recursos',
+              tl: 'Nagbabahagi Tayo ng mga Resources',
+              zh: '我们分享资源',
+              vi: 'Chúng Ta Chia Sẻ Tài Nguyên',
+            },
+            body: {
+              en: 'Need help with rent? Have skills to offer? Our platform connects neighbors who can help with neighbors who need it. No charity—just solidarity.',
+              es: '¿Necesitas ayuda con el alquiler? ¿Tienes habilidades que ofrecer? Nuestra plataforma conecta a vecinos que pueden ayudar con vecinos que lo necesitan. Sin caridad—solo solidaridad.',
+              tl: 'Kailangan ng tulong sa upa? May mga kasanayan na maaaring i-offer? Ang aming platform ay nag-uugnay ng mga kapitbahay na makakatulong sa mga kapitbahay na nangangailangan. Walang charity—solidaridad lamang.',
+              zh: '需要帮助付房租吗？有技能可以提供吗？我们的平台将可以帮助的邻居与需要帮助的邻居联系起来。不是慈善——只是团结。',
+              vi: 'Cần giúp đỡ tiền thuê nhà? Có kỹ năng để đóng góp? Nền tảng của chúng tôi kết nối hàng xóm có thể giúp đỡ với hàng xóm cần giúp đỡ. Không phải từ thiện—chỉ là đoàn kết.',
+            },
+          },
+          {
+            title: {
+              en: 'We Show Up For Each Other',
+              es: 'Nos Apoyamos Mutuamente',
+              tl: 'Dumadalo Tayo Para sa Isa\'t Isa',
+              zh: '我们互相支持',
+              vi: 'Chúng Ta Có Mặt Cho Nhau',
+            },
+            body: {
+              en: 'Facing eviction? We show up at court. Landlord harassing you? We show up at your door. When one of us is threatened, we all respond.',
+              es: '¿Enfrentas un desalojo? Nos presentamos en el tribunal. ¿Tu propietario te acosa? Nos presentamos en tu puerta. Cuando uno de nosotros está amenazado, todos respondemos.',
+              tl: 'Nahaharap sa eviction? Dumadalo tayo sa korte. Nang-ha-harass ang landlord? Dumadalo tayo sa pinto mo. Kapag may pinagbabantaang isa sa atin, lahat tayo ay tumutugon.',
+              zh: '面临驱逐？我们去法庭。房东骚扰你？我们去你门口。当我们中的一个受到威胁时，我们所有人都会回应。',
+              vi: 'Đối mặt với việc bị đuổi? Chúng tôi có mặt tại tòa án. Chủ nhà quấy rối bạn? Chúng tôi có mặt trước cửa nhà bạn. Khi một người trong chúng ta bị đe dọa, tất cả chúng ta đều phản ứng.',
+            },
+          },
+          {
+            title: {
+              en: 'We Build Community Power',
+              es: 'Construimos Poder Comunitario',
+              tl: 'Nagtatayo Tayo ng Community Power',
+              zh: '我们建立社区力量',
+              vi: 'Chúng Ta Xây Dựng Sức Mạnh Cộng Đồng',
+            },
+            body: {
+              en: 'Mutual aid isn\'t just emergency response—it\'s building the relationships we need to fight for systemic change. Every connection we make is power we build.',
+              es: 'La ayuda mutua no es solo respuesta de emergencia—es construir las relaciones que necesitamos para luchar por el cambio sistémico. Cada conexión que hacemos es poder que construimos.',
+              tl: 'Ang mutual aid ay hindi lamang emergency response—ito ay pagtatayo ng mga relasyon na kailangan natin para lumaban para sa systemic change. Bawat koneksyon na ginagawa natin ay kapangyarihang itinatayo natin.',
+              zh: '互助不仅仅是应急响应——它是建立我们争取系统性变革所需的关系。我们建立的每一个联系都是我们建立的力量。',
+              vi: 'Hỗ trợ lẫn nhau không chỉ là ứng phó khẩn cấp—mà là xây dựng các mối quan hệ chúng ta cần để đấu tranh cho thay đổi hệ thống. Mỗi kết nối chúng ta tạo ra là sức mạnh chúng ta xây dựng.',
+            },
+          },
+        ],
+      },
+    },
+    {
+      id: 'mutual-quote',
+      type: 'text',
+      config: {
+        heading: {
+          en: 'Solidarity, Not Charity',
+          es: 'Solidaridad, No Caridad',
+          tl: 'Pagkakaisa, Hindi Kawanggawa',
+          zh: '团结，而非施舍',
+          vi: 'Đoàn Kết, Không Phải Từ Thiện',
+        },
+        body: {
+          en: '"Mutual aid is about genuine relationships, not heroic individualism. It\'s not about one group saving another, but about recognizing that our liberation is bound up together."\n\nMutual aid is different from charity. Charity maintains the existing power structure—the wealthy give to the poor. Mutual aid builds power from the bottom up—we give to each other, and in doing so, we build the relationships and trust we need to fight together.\n\n**Join your neighbors. Build power. Transform your community.**',
+          es: '"La ayuda mutua se trata de relaciones genuinas, no de individualismo heroico. No se trata de que un grupo salve a otro, sino de reconocer que nuestra liberación está unida."\n\nLa ayuda mutua es diferente de la caridad. La caridad mantiene la estructura de poder existente—los ricos dan a los pobres. La ayuda mutua construye poder desde abajo—nos damos unos a otros, y al hacerlo, construimos las relaciones y la confianza que necesitamos para luchar juntos.\n\n**Únete a tus vecinos. Construye poder. Transforma tu comunidad.**',
+          tl: '"Ang mutual aid ay tungkol sa tunay na relasyon, hindi heroic individualism. Hindi ito tungkol sa pagliligtas ng isang grupo sa iba, kundi tungkol sa pagkilala na ang ating kalayaan ay magkakaugnay."\n\nAng mutual aid ay iba sa charity. Ang charity ay nagpapanatili ng umiiral na power structure—ang mayayaman ay nagbibigay sa mahihirap. Ang mutual aid ay nagtatayo ng kapangyarihan mula sa ibaba—nagbibigayan tayo, at sa paggawa nito, itinatayo natin ang mga relasyon at tiwala na kailangan natin para lumaban nang magkasama.\n\n**Sumali sa iyong mga kapitbahay. Magtayo ng kapangyarihan. Baguhin ang iyong komunidad.**',
+          zh: '"互助是关于真诚的关系，而不是英雄主义的个人行为。这不是一个群体拯救另一个群体，而是认识到我们的解放是紧密相连的。"\n\n互助不同于慈善。慈善维持现有的权力结构——富人给予穷人。互助从底层建立力量——我们互相给予，在这样做的过程中，我们建立了一起战斗所需的关系和信任。\n\n**加入你的邻居。建立力量。改变你的社区。**',
+          vi: '"Hỗ trợ lẫn nhau là về các mối quan hệ chân thành, không phải chủ nghĩa cá nhân anh hùng. Đó không phải là một nhóm cứu nhóm khác, mà là nhận ra rằng sự giải phóng của chúng ta gắn bó với nhau."\n\nHỗ trợ lẫn nhau khác với từ thiện. Từ thiện duy trì cấu trúc quyền lực hiện có—người giàu cho người nghèo. Hỗ trợ lẫn nhau xây dựng sức mạnh từ dưới lên—chúng ta cho nhau, và khi làm như vậy, chúng ta xây dựng các mối quan hệ và sự tin tưởng cần thiết để cùng nhau chiến đấu.\n\n**Tham gia cùng hàng xóm. Xây dựng sức mạnh. Biến đổi cộng đồng của bạn.**',
+        },
+        bgColor: 'gray',
+      },
+    },
+    { id: 'mutual-crisis', type: 'crisis', config: {} },
+    { id: 'mutual-cta', type: 'cta', config: {} },
+  ],
+  created_at: '2026-01-01T00:00:00Z',
+  updated_at: '2026-01-01T00:00:00Z',
+}
+
+// Page 10: Faith/Moral - Housing as moral imperative
+export const PRESET_PAGE_10: LandingPageConfig = {
+  id: 'page-10',
+  name: 'Faith & Morality',
+  sections: [
+    {
+      id: 'faith-hero',
+      type: 'hero',
+      config: {
+        showLogo: true,
+        headlineOverride: {
+          en: 'Housing Is a Moral Imperative',
+          es: 'La Vivienda es un Imperativo Moral',
+          tl: 'Ang Pabahay ay isang Moral na Tungkulin',
+          zh: '住房是道德责任',
+          vi: 'Nhà Ở Là Mệnh Lệnh Đạo Đức',
+        },
+        taglineOverride: {
+          en: 'In every faith tradition, providing shelter for the vulnerable is a sacred duty. We are called to action.',
+          es: 'En toda tradición religiosa, proporcionar refugio a los vulnerables es un deber sagrado. Estamos llamados a actuar.',
+          tl: 'Sa bawat tradisyon ng pananampalataya, ang pagbibigay ng tirahan sa mga mahihina ay isang banal na tungkulin. Tayo ay tinatawag sa aksyon.',
+          zh: '在每个信仰传统中，为弱势群体提供住所是神圣的责任。我们被召唤采取行动。',
+          vi: 'Trong mọi truyền thống đức tin, cung cấp nơi ở cho người dễ bị tổn thương là nghĩa vụ thiêng liêng. Chúng ta được kêu gọi hành động.',
+        },
+        missionOverride: {
+          en: '"In the kingdom of God, no one hoards all the wealth while everyone else suffers and starves." — Shawn Fain, UAW President\n\nThe housing crisis is not just an economic issue—it\'s a moral crisis. When landlords profit from displacement, when families are torn apart by eviction, when the unhoused are criminalized instead of sheltered—we have strayed from our deepest values. Faith calls us to stand with the oppressed.',
+          es: '"En el reino de Dios, nadie acapara toda la riqueza mientras todos los demás sufren y mueren de hambre." — Shawn Fain, Presidente de UAW\n\nLa crisis de vivienda no es solo un problema económico—es una crisis moral. Cuando los propietarios lucran con el desplazamiento, cuando las familias son separadas por desalojos, cuando los sin techo son criminalizados en lugar de refugiados—nos hemos alejado de nuestros valores más profundos. La fe nos llama a estar con los oprimidos.',
+          tl: '"Sa kaharian ng Diyos, walang nag-iimbak ng lahat ng kayamanan habang ang lahat ng iba ay nagdurusa at nagugutom." — Shawn Fain, Pangulo ng UAW\n\nAng krisis sa pabahay ay hindi lamang isang problemang pang-ekonomiya—ito ay isang moral na krisis. Kapag ang mga landlord ay kumikita mula sa displacement, kapag ang mga pamilya ay pinaghihiwalay ng eviction, kapag ang mga walang tirahan ay kinokriminalize sa halip na binibigyan ng tirahan—nalayo tayo sa ating pinakamalalim na mga halaga. Ang pananampalataya ay tumatawag sa atin na tumayo kasama ang mga inaapi.',
+          zh: '"在上帝的国度里，没有人囤积所有财富，而其他人都在受苦和挨饿。" — 肖恩·费恩，UAW主席\n\n住房危机不仅仅是经济问题——这是一场道德危机。当房东从迫迁中获利，当家庭因驱逐而分裂，当无家可归者被定罪而不是被庇护——我们已经偏离了我们最深层的价值观。信仰召唤我们站在被压迫者一边。',
+          vi: '"Trong vương quốc của Chúa, không ai tích trữ tất cả tài sản trong khi mọi người khác đau khổ và chết đói." — Shawn Fain, Chủ tịch UAW\n\nCuộc khủng hoảng nhà ở không chỉ là vấn đề kinh tế—đó là một cuộc khủng hoảng đạo đức. Khi chủ nhà kiếm lời từ việc di dời, khi gia đình bị chia cắt bởi việc trục xuất, khi người vô gia cư bị hình sự hóa thay vì được che chở—chúng ta đã xa rời các giá trị sâu xa nhất. Đức tin kêu gọi chúng ta đứng cùng những người bị áp bức.',
+        },
+      },
+    },
+    {
+      id: 'faith-teachings',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'Teachings on Housing and Shelter',
+          es: 'Enseñanzas sobre Vivienda y Refugio',
+          tl: 'Mga Aral tungkol sa Pabahay at Tirahan',
+          zh: '关于住房和庇护的教导',
+          vi: 'Giáo Huấn về Nhà Ở và Nơi Trú Ẩn',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: '"Is it not to share your bread with the hungry and bring the homeless poor into your house?"',
+              es: '"¿No es acaso compartir tu pan con el hambriento y traer a los pobres sin hogar a tu casa?"',
+              tl: '"Hindi ba ito ang magbahagi ng iyong tinapay sa nagugutom at dalhin ang mga mahihirap na walang tirahan sa iyong bahay?"',
+              zh: '"岂不是把你的饼分给饥饿的人，将无家可归的穷人接到你家中？"',
+              vi: '"Há chẳng phải là chia bánh cho người đói và đưa những người nghèo không nhà vào nhà mình sao?"',
+            },
+            body: {
+              en: '— Isaiah 58:7\n\nThe Hebrew prophets called for justice for the poor and shelter for the homeless. This isn\'t optional—it\'s central to living a righteous life.',
+              es: '— Isaías 58:7\n\nLos profetas hebreos clamaron por justicia para los pobres y refugio para los sin hogar. Esto no es opcional—es central para vivir una vida justa.',
+              tl: '— Isaias 58:7\n\nAng mga propetang Hebreo ay tumawag para sa katarungan para sa mahihirap at tirahan para sa mga walang tahanan. Hindi ito opsyonal—ito ay sentral sa pamumuhay ng isang matuwid na buhay.',
+              zh: '— 以赛亚书58:7\n\n希伯来先知呼吁为穷人伸张正义，为无家可归者提供庇护。这不是可选的——这是过正义生活的核心。',
+              vi: '— Isaiah 58:7\n\nCác tiên tri Do Thái kêu gọi công lý cho người nghèo và nơi ở cho người vô gia cư. Điều này không phải là tùy chọn—nó là trọng tâm của cuộc sống công chính.',
+            },
+          },
+          {
+            title: {
+              en: '"Whoever has two tunics is to share with him who has none."',
+              es: '"El que tiene dos túnicas, dé al que no tiene."',
+              tl: '"Ang may dalawang tunika ay dapat ibahagi sa walang wala."',
+              zh: '"有两件衣服的，应当分给没有的。"',
+              vi: '"Ai có hai áo thì hãy chia cho người không có."',
+            },
+            body: {
+              en: '— Luke 3:11\n\nJesus taught radical redistribution. When some have empty apartments and others sleep on streets, we are called to act.',
+              es: '— Lucas 3:11\n\nJesús enseñó la redistribución radical. Cuando algunos tienen apartamentos vacíos y otros duermen en las calles, estamos llamados a actuar.',
+              tl: '— Lucas 3:11\n\nItinuro ni Hesus ang radikal na redistribusyon. Kapag ang ilan ay may mga bakanteng apartment at ang iba ay natutulog sa kalye, tayo ay tinatawag na kumilos.',
+              zh: '— 路加福音3:11\n\n耶稣教导激进的再分配。当有些人有空置公寓，而其他人睡在街上时，我们被召唤采取行动。',
+              vi: '— Lu-ca 3:11\n\nChúa Giê-su dạy về phân phối lại triệt để. Khi một số người có căn hộ trống và người khác ngủ trên đường phố, chúng ta được kêu gọi hành động.',
+            },
+          },
+          {
+            title: {
+              en: '"Give to him who begs from you, and do not refuse him who would borrow from you."',
+              es: '"Da al que te pida, y no rechaces al que quiere pedirte prestado."',
+              tl: '"Bigyan mo ang humihingi sa iyo, at huwag tanggihan ang gustong mangutang sa iyo."',
+              zh: '"有求你的，就给他；有向你借贷的，不可推辞。"',
+              vi: '"Hãy cho ai xin mình, và đừng từ chối ai muốn vay mượn mình."',
+            },
+            body: {
+              en: '— Matthew 5:42\n\nGenerosity without strings. Mutual aid without conditions. This is the moral foundation of solidarity.',
+              es: '— Mateo 5:42\n\nGenerosidad sin condiciones. Ayuda mutua sin restricciones. Esta es la base moral de la solidaridad.',
+              tl: '— Mateo 5:42\n\nKagandahang-loob na walang kundisyon. Mutual aid na walang mga kondisyon. Ito ang moral na pundasyon ng pagkakaisa.',
+              zh: '— 马太福音5:42\n\n无条件的慷慨。无条件的互助。这是团结的道德基础。',
+              vi: '— Ma-thi-ơ 5:42\n\nSự hào phóng không điều kiện. Hỗ trợ lẫn nhau không điều kiện. Đây là nền tảng đạo đức của sự đoàn kết.',
+            },
+          },
+        ],
+      },
+    },
+    {
+      id: 'faith-action',
+      type: 'text',
+      config: {
+        heading: {
+          en: 'Faith Without Works Is Dead',
+          es: 'La Fe Sin Obras Está Muerta',
+          tl: 'Ang Pananampalataya na Walang Gawa ay Patay',
+          zh: '没有行为的信心是死的',
+          vi: 'Đức Tin Không Có Việc Làm Là Chết',
+        },
+        body: {
+          en: 'It is not enough to believe housing is a right. It is not enough to pray for the homeless. James 2:17 tells us: "Faith by itself, if it does not have works, is dead."\n\nThe tenant movement is faith in action. When we organize our buildings, we practice the solidarity our traditions call us to. When we resist eviction, we protect the vulnerable as we are commanded. When we build power together, we create the just community our prophets envisioned.\n\n**Your faith demands action. Join the movement.**',
+          es: 'No es suficiente creer que la vivienda es un derecho. No es suficiente orar por los sin hogar. Santiago 2:17 nos dice: "La fe por sí sola, si no tiene obras, está muerta."\n\nEl movimiento de inquilinos es fe en acción. Cuando organizamos nuestros edificios, practicamos la solidaridad a la que nos llaman nuestras tradiciones. Cuando resistimos el desalojo, protegemos a los vulnerables como nos es ordenado. Cuando construimos poder juntos, creamos la comunidad justa que nuestros profetas imaginaron.\n\n**Tu fe exige acción. Únete al movimiento.**',
+          tl: 'Hindi sapat na maniwala na ang pabahay ay isang karapatan. Hindi sapat na ipagdasal ang mga walang tirahan. Sinasabi sa atin ni Santiago 2:17: "Ang pananampalataya sa kanyang sarili, kung wala itong mga gawa, ay patay."\n\nAng kilusang nangungupahan ay pananampalataya sa aksyon. Kapag nag-oorganisa tayo ng ating mga gusali, isinasagawa natin ang pagkakaisa na tinatawagan tayo ng ating mga tradisyon. Kapag nilalabanan natin ang eviction, pinoprotektahan natin ang mga mahihina gaya ng iniutos sa atin. Kapag nagtatayo tayo ng kapangyarihan nang magkasama, nililikha natin ang makatarungang komunidad na nakita ng ating mga propeta.\n\n**Ang iyong pananampalataya ay nangangailangan ng aksyon. Sumali sa kilusan.**',
+          zh: '仅仅相信住房是一项权利是不够的。仅仅为无家可归者祈祷是不够的。雅各书2:17告诉我们："信心若没有行为就是死的。"\n\n租户运动是信心的行动。当我们组织我们的建筑时，我们践行我们传统所呼召的团结。当我们抵制驱逐时，我们按照命令保护弱势群体。当我们一起建立力量时，我们创造先知们所设想的公正社区。\n\n**你的信仰要求行动。加入运动吧。**',
+          vi: 'Tin rằng nhà ở là một quyền là không đủ. Cầu nguyện cho người vô gia cư là không đủ. Gia-cơ 2:17 nói với chúng ta: "Đức tin tự nó, nếu không có việc làm, thì là chết."\n\nPhong trào người thuê là đức tin trong hành động. Khi chúng ta tổ chức các tòa nhà của mình, chúng ta thực hành sự đoàn kết mà truyền thống của chúng ta kêu gọi. Khi chúng ta chống lại việc trục xuất, chúng ta bảo vệ những người dễ bị tổn thương như được truyền lệnh. Khi chúng ta cùng xây dựng sức mạnh, chúng ta tạo ra cộng đồng công bằng mà các tiên tri của chúng ta hình dung.\n\n**Đức tin của bạn đòi hỏi hành động. Tham gia phong trào.**',
+        },
+        bgColor: 'gray',
+      },
+    },
+    { id: 'faith-crisis', type: 'crisis', config: {} },
+    { id: 'faith-cta', type: 'cta', config: {} },
+  ],
+  created_at: '2026-01-01T00:00:00Z',
+  updated_at: '2026-01-01T00:00:00Z',
+}
+
+// Page 11: Data/Evidence - Numbers-focused framing
+export const PRESET_PAGE_11: LandingPageConfig = {
+  id: 'page-11',
+  name: 'Data & Evidence',
+  sections: [
+    {
+      id: 'data-hero',
+      type: 'hero',
+      config: {
+        showLogo: true,
+        headlineOverride: {
+          en: 'The Numbers Don\'t Lie',
+          es: 'Los Números No Mienten',
+          tl: 'Hindi Nagsisinungaling ang mga Numero',
+          zh: '数字不会说谎',
+          vi: 'Những Con Số Không Nói Dối',
+        },
+        taglineOverride: {
+          en: 'Decades of research prove that tenant organizing works. The data is clear. The path forward is organized.',
+          es: 'Décadas de investigación demuestran que la organización de inquilinos funciona. Los datos son claros. El camino a seguir está organizado.',
+          tl: 'Mga dekada ng pananaliksik ang nagpapatunay na gumagana ang tenant organizing. Malinaw ang datos. Ang landas pasulong ay organisado.',
+          zh: '数十年的研究证明租户组织是有效的。数据很清楚。前进的道路是有组织的。',
+          vi: 'Hàng thập kỷ nghiên cứu chứng minh rằng tổ chức người thuê có hiệu quả. Dữ liệu rất rõ ràng. Con đường phía trước là có tổ chức.',
+        },
+        missionOverride: {
+          en: 'Princeton\'s Eviction Lab tracked over one million eviction cases in 2024. The Federal Reserve documents corporate landlord practices. Peer-reviewed research shows organizing reduces displacement. This isn\'t ideology—it\'s evidence.',
+          es: 'El Eviction Lab de Princeton rastreó más de un millón de casos de desalojo en 2024. La Reserva Federal documenta las prácticas de propietarios corporativos. La investigación revisada por pares muestra que la organización reduce el desplazamiento. Esto no es ideología—son evidencias.',
+          tl: 'Ang Eviction Lab ng Princeton ay nagsubaybay ng higit sa isang milyong kaso ng eviction noong 2024. Ang Federal Reserve ay nagdodokumento ng mga praktika ng corporate landlord. Ang peer-reviewed research ay nagpapakita na ang pag-oorganisa ay nagpapababa ng displacement. Hindi ito ideolohiya—ito ay ebidensya.',
+          zh: '普林斯顿大学的驱逐实验室在2024年追踪了超过一百万起驱逐案件。联邦储备系统记录了企业房东的做法。同行评审的研究表明，组织可以减少迫迁。这不是意识形态——这是证据。',
+          vi: 'Phòng thí nghiệm Trục xuất của Princeton đã theo dõi hơn một triệu vụ trục xuất vào năm 2024. Cục Dự trữ Liên bang ghi lại các hoạt động của chủ nhà doanh nghiệp. Nghiên cứu được đánh giá ngang hàng cho thấy tổ chức làm giảm sự di dời. Đây không phải là ý thức hệ—đây là bằng chứng.',
+        },
+      },
+    },
+    {
+      id: 'data-stats',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'The Research Is Clear',
+          es: 'La Investigación Es Clara',
+          tl: 'Malinaw ang Pananaliksik',
+          zh: '研究很清楚',
+          vi: 'Nghiên Cứu Rất Rõ Ràng',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Corporate Landlords Evict More',
+              es: 'Los Propietarios Corporativos Desalojan Más',
+              tl: 'Ang mga Corporate Landlord ay Mas Maraming Napa-evict',
+              zh: '企业房东驱逐更多',
+              vi: 'Chủ Nhà Doanh Nghiệp Đuổi Nhiều Hơn',
+            },
+            body: {
+              en: 'Federal Reserve research shows large institutional landlords are 8% more likely to evict than small landlords. Private equity-backed firms are 18-19% more likely. In Kansas City, corporate landlords file evictions at 3.7x the rate of individual owners.',
+              es: 'La investigación de la Reserva Federal muestra que los grandes propietarios institucionales tienen un 8% más de probabilidades de desalojar que los pequeños propietarios. Las empresas respaldadas por capital privado tienen un 18-19% más de probabilidades. En Kansas City, los propietarios corporativos presentan desalojos a una tasa 3.7 veces mayor que los propietarios individuales.',
+              tl: 'Ang pananaliksik ng Federal Reserve ay nagpapakita na ang malalaking institutional landlord ay 8% mas malamang na mag-evict kaysa sa maliliit na landlord. Ang mga firmang suportado ng private equity ay 18-19% mas malamang. Sa Kansas City, ang mga corporate landlord ay nagfa-file ng eviction sa 3.7x na rate ng mga individual owner.',
+              zh: '美联储的研究表明，大型机构房东比小房东驱逐租户的可能性高8%。私募股权支持的公司高18-19%。在堪萨斯城，企业房东提起驱逐的比率是个人业主的3.7倍。',
+              vi: 'Nghiên cứu của Cục Dự trữ Liên bang cho thấy các chủ nhà tổ chức lớn có khả năng đuổi người thuê cao hơn 8% so với chủ nhà nhỏ. Các công ty được hỗ trợ bởi vốn cổ phần tư nhân cao hơn 18-19%. Tại Kansas City, chủ nhà doanh nghiệp nộp đơn trục xuất với tỷ lệ gấp 3,7 lần so với chủ sở hữu cá nhân.',
+            },
+          },
+          {
+            title: {
+              en: 'A Small Number Create Most Evictions',
+              es: 'Un Pequeño Número Crea la Mayoría de los Desalojos',
+              tl: 'Ang Maliit na Bilang ay Gumagawa ng Karamihan sa mga Eviction',
+              zh: '少数人制造了大多数驱逐',
+              vi: 'Một Số Ít Tạo Ra Hầu Hết Các Vụ Trục Xuất',
+            },
+            body: {
+              en: 'The Eviction Lab found that the top 100 buildings accounted for 32.6% of filings across fifteen tracked cities. Targeting these "super-evictors" could dramatically reduce displacement.',
+              es: 'El Eviction Lab encontró que los 100 edificios principales representaron el 32.6% de las demandas en quince ciudades rastreadas. Dirigirse a estos "super-desalojadores" podría reducir dramáticamente el desplazamiento.',
+              tl: 'Natuklasan ng Eviction Lab na ang nangungunang 100 gusali ay bumubuo ng 32.6% ng mga filing sa labinlimang siyudad na sinusubaybayan. Ang pag-target sa mga "super-evictors" na ito ay maaaring dramatikong mabawasan ang displacement.',
+              zh: '驱逐实验室发现，在追踪的15个城市中，排名前100的建筑占了32.6%的申请。针对这些"超级驱逐者"可以大幅减少迫迁。',
+              vi: 'Phòng thí nghiệm Trục xuất phát hiện rằng 100 tòa nhà hàng đầu chiếm 32,6% các vụ nộp đơn tại mười lăm thành phố được theo dõi. Nhắm mục tiêu vào những "siêu trục xuất viên" này có thể giảm đáng kể tình trạng di dời.',
+            },
+          },
+          {
+            title: {
+              en: 'Tenant Organizing Reduces Evictions',
+              es: 'La Organización de Inquilinos Reduce los Desalojos',
+              tl: 'Ang Tenant Organizing ay Nagpapababa ng Eviction',
+              zh: '租户组织减少驱逐',
+              vi: 'Tổ Chức Người Thuê Giảm Trục Xuất',
+            },
+            body: {
+              en: 'Philadelphia achieved the second-lowest eviction filing rate among tracked cities (4.0%). Cities with stronger tenant protections consistently see lower eviction rates. Policy works—and organizing creates policy.',
+              es: 'Filadelfia logró la segunda tasa más baja de demandas de desalojo entre las ciudades rastreadas (4.0%). Las ciudades con protecciones de inquilinos más fuertes consistentemente ven tasas de desalojo más bajas. Las políticas funcionan—y la organización crea políticas.',
+              tl: 'Nakamit ng Philadelphia ang pangalawang pinakamababang eviction filing rate sa mga sinusubaybayang siyudad (4.0%). Ang mga siyudad na may mas malakas na proteksyon sa nangungupahan ay patuloy na nakakakita ng mas mababang rate ng eviction. Gumagana ang patakaran—at nililikha ng pag-oorganisa ang patakaran.',
+              zh: '费城在被追踪的城市中实现了第二低的驱逐申请率（4.0%）。拥有更强租户保护的城市驱逐率始终较低。政策有效——而组织创造政策。',
+              vi: 'Philadelphia đạt được tỷ lệ nộp đơn trục xuất thấp thứ hai trong các thành phố được theo dõi (4,0%). Các thành phố có bảo vệ người thuê mạnh hơn luôn có tỷ lệ trục xuất thấp hơn. Chính sách có hiệu quả—và tổ chức tạo ra chính sách.',
+            },
+          },
+        ],
+      },
+    },
+    {
+      id: 'data-local',
+      type: 'text',
+      config: {
+        heading: {
+          en: 'Reno-Sparks By The Numbers',
+          es: 'Reno-Sparks en Números',
+          tl: 'Reno-Sparks sa mga Numero',
+          zh: '雷诺-斯帕克斯数据',
+          vi: 'Reno-Sparks Qua Các Con Số',
+        },
+        body: {
+          en: '**57%** of Nevada renters are cost-burdened (spending >30% of income on housing)\n\n**40-45%** rent increase since 2019\n\n**82 hours/week** at minimum wage to afford a 1-bedroom apartment\n\n**51%** of Reno-Sparks households are renters\n\n**$30.42/hour** income needed for a 2-bedroom at Fair Market Rent\n\nThe housing crisis isn\'t abstract. These numbers represent real families—perhaps including yours. When we organize, we change these numbers.',
+          es: '**57%** de los inquilinos de Nevada están sobrecargados de costos (gastan >30% de sus ingresos en vivienda)\n\n**40-45%** aumento de alquiler desde 2019\n\n**82 horas/semana** al salario mínimo para pagar un apartamento de 1 dormitorio\n\n**51%** de los hogares de Reno-Sparks son inquilinos\n\n**$30.42/hora** ingresos necesarios para un 2 dormitorios al Alquiler Justo de Mercado\n\nLa crisis de vivienda no es abstracta. Estos números representan familias reales—quizás incluyendo la tuya. Cuando nos organizamos, cambiamos estos números.',
+          tl: '**57%** ng mga nangungupahan sa Nevada ay cost-burdened (gumagastos ng >30% ng kita sa pabahay)\n\n**40-45%** pagtaas ng upa mula 2019\n\n**82 oras/linggo** sa minimum wage para makayanan ang 1-bedroom apartment\n\n**51%** ng mga sambahayan sa Reno-Sparks ay mga nangungupahan\n\n**$30.42/oras** kita na kailangan para sa 2-bedroom sa Fair Market Rent\n\nAng krisis sa pabahay ay hindi abstract. Ang mga numerong ito ay kumakatawan sa mga tunay na pamilya—maaaring kabilang ang iyo. Kapag nag-organisa tayo, binabago natin ang mga numerong ito.',
+          zh: '**57%** 的内华达州租户承受着沉重的住房负担（住房支出超过收入的30%）\n\n**40-45%** 自2019年以来的租金涨幅\n\n**每周82小时** 按最低工资需要工作这么长时间才能负担一居室公寓\n\n**51%** 的雷诺-斯帕克斯家庭是租户\n\n**$30.42/小时** 按公平市场租金需要这样的收入才能负担两居室\n\n住房危机不是抽象的。这些数字代表着真实的家庭——也许包括你的家庭。当我们组织起来时，我们改变这些数字。',
+          vi: '**57%** người thuê nhà ở Nevada đang gánh nặng chi phí (chi >30% thu nhập cho nhà ở)\n\n**40-45%** tăng tiền thuê kể từ năm 2019\n\n**82 giờ/tuần** với mức lương tối thiểu để đủ tiền thuê căn hộ 1 phòng ngủ\n\n**51%** hộ gia đình Reno-Sparks là người thuê nhà\n\n**$30,42/giờ** thu nhập cần thiết cho căn hộ 2 phòng ngủ theo Giá Thuê Thị Trường Công Bằng\n\nCuộc khủng hoảng nhà ở không trừu tượng. Những con số này đại diện cho các gia đình thực sự—có thể bao gồm gia đình bạn. Khi chúng ta tổ chức, chúng ta thay đổi những con số này.',
+        },
+        bgColor: 'gray',
+      },
+    },
+    { id: 'data-crisis', type: 'crisis', config: {} },
+    { id: 'data-cta', type: 'cta', config: {} },
+  ],
+  created_at: '2026-01-01T00:00:00Z',
+  updated_at: '2026-01-01T00:00:00Z',
+}
+
+// Page 12: Personal Stories - Lived experience framing
+export const PRESET_PAGE_12: LandingPageConfig = {
+  id: 'page-12',
+  name: 'Personal Stories',
+  sections: [
+    {
+      id: 'stories-hero',
+      type: 'hero',
+      config: {
+        showLogo: true,
+        headlineOverride: {
+          en: 'Real Tenants. Real Struggles. Real Power.',
+          es: 'Inquilinos Reales. Luchas Reales. Poder Real.',
+          tl: 'Tunay na mga Nangungupahan. Tunay na mga Pakikibaka. Tunay na Kapangyarihan.',
+          zh: '真实租户。真实斗争。真正力量。',
+          vi: 'Người Thuê Thực. Cuộc Đấu Tranh Thực. Sức Mạnh Thực.',
+        },
+        taglineOverride: {
+          en: 'Behind every statistic is a person. Behind every eviction is a family. This is their story—and it could be yours.',
+          es: 'Detrás de cada estadística hay una persona. Detrás de cada desalojo hay una familia. Esta es su historia—y podría ser la tuya.',
+          tl: 'Sa likod ng bawat estadistika ay may tao. Sa likod ng bawat eviction ay may pamilya. Ito ang kanilang kuwento—at maaaring iyo rin.',
+          zh: '每个统计数字背后都是一个人。每次驱逐背后都是一个家庭。这是他们的故事——也可能是你的故事。',
+          vi: 'Đằng sau mỗi số liệu thống kê là một con người. Đằng sau mỗi vụ trục xuất là một gia đình. Đây là câu chuyện của họ—và có thể là của bạn.',
+        },
+        missionOverride: {
+          en: 'The housing crisis isn\'t happening somewhere else to someone else. It\'s happening here, to our neighbors, to our coworkers, to our families. When we share our stories, we break the shame and isolation that landlords count on. When we listen to each other, we build the solidarity we need to fight back.',
+          es: 'La crisis de vivienda no está ocurriendo en otro lugar a otra persona. Está ocurriendo aquí, a nuestros vecinos, a nuestros compañeros de trabajo, a nuestras familias. Cuando compartimos nuestras historias, rompemos la vergüenza y el aislamiento con los que cuentan los propietarios. Cuando nos escuchamos, construimos la solidaridad que necesitamos para luchar.',
+          tl: 'Ang krisis sa pabahay ay hindi nangyayari sa ibang lugar sa ibang tao. Nangyayari ito dito, sa ating mga kapitbahay, sa ating mga kasamahan sa trabaho, sa ating mga pamilya. Kapag ibinahagi natin ang ating mga kuwento, sinisira natin ang kahihiyan at paghihiwalay na inaasahan ng mga landlord. Kapag nakikinig tayo sa isa\'t isa, itinatayo natin ang pagkakaisa na kailangan natin para lumaban.',
+          zh: '住房危机不是发生在其他地方对其他人。它正发生在这里，发生在我们的邻居、同事和家人身上。当我们分享我们的故事时，我们打破了房东所依赖的羞耻和孤立。当我们倾听彼此时，我们建立了反击所需的团结。',
+          vi: 'Cuộc khủng hoảng nhà ở không xảy ra ở nơi khác với người khác. Nó đang xảy ra ở đây, với hàng xóm của chúng ta, đồng nghiệp của chúng ta, gia đình của chúng ta. Khi chúng ta chia sẻ câu chuyện của mình, chúng ta phá vỡ sự xấu hổ và cô lập mà chủ nhà dựa vào. Khi chúng ta lắng nghe nhau, chúng ta xây dựng sự đoàn kết cần thiết để phản击.',
+        },
+      },
+    },
+    {
+      id: 'stories-voices',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'Voices From Our Community',
+          es: 'Voces de Nuestra Comunidad',
+          tl: 'Mga Tinig Mula sa Ating Komunidad',
+          zh: '来自我们社区的声音',
+          vi: 'Tiếng Nói Từ Cộng Đồng Của Chúng Ta',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: '"I work 60 hours a week and still can\'t afford rent."',
+              es: '"Trabajo 60 horas a la semana y todavía no puedo pagar el alquiler."',
+              tl: '"Nagtatrabaho ako ng 60 oras sa isang linggo at hindi pa rin kayang bayaran ang upa."',
+              zh: '"我每周工作60小时，仍然付不起房租。"',
+              vi: '"Tôi làm việc 60 giờ mỗi tuần và vẫn không đủ tiền thuê nhà."',
+            },
+            body: {
+              en: 'Maria works two jobs—as a nurse\'s aide and a hotel housekeeper. She hasn\'t had a day off in months. After her landlord raised rent by $400, she started skipping meals. "I\'m not asking for luxury," she says. "I just want to live without fear."\n\n*When Maria joined her building\'s tenant association, she learned she wasn\'t alone. Together, they\'re fighting back.*',
+              es: 'María trabaja en dos empleos—como auxiliar de enfermería y como camarera de hotel. No ha tenido un día libre en meses. Después de que su propietario aumentó el alquiler $400, empezó a saltarse comidas. "No estoy pidiendo lujos," dice. "Solo quiero vivir sin miedo."\n\n*Cuando María se unió a la asociación de inquilinos de su edificio, aprendió que no estaba sola. Juntos, están luchando.*',
+              tl: 'Si Maria ay nagtatrabaho ng dalawang trabaho—bilang nurse\'s aide at hotel housekeeper. Hindi siya nagkaroon ng day off sa loob ng ilang buwan. Pagkatapos itaas ng kanyang landlord ang upa ng $400, nagsimula siyang laktawan ang mga pagkain. "Hindi ako humihingi ng luho," sabi niya. "Gusto ko lang mabuhay nang walang takot."\n\n*Nang sumali si Maria sa tenant association ng kanyang gusali, natutunan niya na hindi siya nag-iisa. Magkasama, lumalaban sila.*',
+              zh: '玛丽亚做两份工作——护士助理和酒店客房服务员。她已经好几个月没有休息日了。在房东涨租400美元后，她开始省饭吃。"我不是在要求奢侈，"她说。"我只是想活得不用害怕。"\n\n*当玛丽亚加入她的建筑租户协会时，她知道自己并不孤单。他们一起在反击。*',
+              vi: 'Maria làm hai công việc—làm trợ lý y tá và dọn phòng khách sạn. Cô ấy không có ngày nghỉ trong nhiều tháng. Sau khi chủ nhà tăng tiền thuê 400 đô la, cô bắt đầu bỏ bữa. "Tôi không yêu cầu sự xa xỉ," cô nói. "Tôi chỉ muốn sống không sợ hãi."\n\n*Khi Maria tham gia hiệp hội người thuê của tòa nhà, cô biết mình không cô đơn. Cùng nhau, họ đang phản击.*',
+            },
+          },
+          {
+            title: {
+              en: '"They tried to evict us for organizing."',
+              es: '"Intentaron desalojarnos por organizarnos."',
+              tl: '"Sinubukan nilang i-evict kami dahil nag-organisa."',
+              zh: '"他们试图因为我们组织而驱逐我们。"',
+              vi: '"Họ cố đuổi chúng tôi vì tổ chức."',
+            },
+            body: {
+              en: 'When James started talking to his neighbors about the broken heating, his landlord served him a 30-day notice. "They thought they could silence us," James says. "But when 40 tenants showed up at the eviction hearing, the judge dismissed the case."\n\n*Retaliation is illegal. And solidarity makes us untouchable.*',
+              es: 'Cuando James empezó a hablar con sus vecinos sobre la calefacción rota, su propietario le dio un aviso de 30 días. "Pensaban que podían silenciarnos," dice James. "Pero cuando 40 inquilinos aparecieron en la audiencia de desalojo, el juez desestimó el caso."\n\n*Las represalias son ilegales. Y la solidaridad nos hace intocables.*',
+              tl: 'Nang magsimulang makipag-usap si James sa kanyang mga kapitbahay tungkol sa sirang pag-init, binigyan siya ng kanyang landlord ng 30-day notice. "Akala nila maaari nila kaming patahimikin," sabi ni James. "Pero nang 40 nangungupahan ang dumalo sa eviction hearing, dinismiss ng hukom ang kaso."\n\n*Ang paghihiganti ay ilegal. At ang pagkakaisa ay ginagawa tayong untouchable.*',
+              zh: '当詹姆斯开始和邻居们谈论供暖坏了的问题时，房东给了他30天通知。"他们以为能让我们闭嘴，"詹姆斯说。"但当40名租户出现在驱逐听证会上时，法官驳回了案件。"\n\n*报复是违法的。而团结让我们坚不可摧。*',
+              vi: 'Khi James bắt đầu nói chuyện với hàng xóm về hệ thống sưởi hỏng, chủ nhà đã gửi cho anh thông báo 30 ngày. "Họ nghĩ có thể bịt miệng chúng tôi," James nói. "Nhưng khi 40 người thuê xuất hiện tại phiên điều trần trục xuất, thẩm phán đã bác bỏ vụ án."\n\n*Trả đũa là bất hợp pháp. Và đoàn kết khiến chúng ta bất khả xâm phạm.*',
+            },
+          },
+          {
+            title: {
+              en: '"We won—and it changed everything."',
+              es: '"Ganamos—y cambió todo."',
+              tl: '"Nanalo kami—at nagbago ang lahat."',
+              zh: '"我们赢了——这改变了一切。"',
+              vi: '"Chúng tôi thắng—và nó thay đổi mọi thứ."',
+            },
+            body: {
+              en: 'The tenants at Independence Towers in Kansas City withheld rent for 248 days to protest uninhabitable conditions. When they won—$300,000 in back rent forgiven—it proved that organized tenants can beat corporate landlords.\n\n*"We didn\'t have money or lawyers," says organizer Tiana Caldwell. "We had each other."*',
+              es: 'Los inquilinos de Independence Towers en Kansas City retuvieron el alquiler durante 248 días para protestar por las condiciones inhabitables. Cuando ganaron—$300,000 en alquiler atrasado perdonado—demostró que los inquilinos organizados pueden vencer a los propietarios corporativos.\n\n*"No teníamos dinero ni abogados," dice la organizadora Tiana Caldwell. "Nos teníamos unos a otros."*',
+              tl: 'Ang mga nangungupahan sa Independence Towers sa Kansas City ay itinago ang upa sa loob ng 248 araw para protesta sa hindi matirahan na kondisyon. Nang manalo sila—$300,000 sa back rent na pinatawad—napatunayan nito na ang mga organisadong nangungupahan ay maaaring talunin ang mga corporate landlord.\n\n*"Wala kaming pera o mga abogado," sabi ng organizer na si Tiana Caldwell. "Mayroon kaming isa\'t isa."*',
+              zh: '堪萨斯城独立大厦的租户为抗议不适宜居住的条件，拒付租金248天。当他们赢了——30万美元的欠租被免除——这证明了组织起来的租户可以打败企业房东。\n\n*"我们没有钱或律师，"组织者蒂安娜·考德威尔说。"我们有彼此。"*',
+              vi: 'Những người thuê tại Independence Towers ở Kansas City đã giữ lại tiền thuê trong 248 ngày để phản đối điều kiện không thể ở được. Khi họ thắng—300.000 đô la tiền thuê nợ được tha—nó chứng minh rằng người thuê có tổ chức có thể đánh bại chủ nhà doanh nghiệp.\n\n*"Chúng tôi không có tiền hay luật sư," tổ chức viên Tiana Caldwell nói. "Chúng tôi có nhau."*',
+            },
+          },
+        ],
+      },
+    },
+    {
+      id: 'stories-share',
+      type: 'text',
+      config: {
+        heading: {
+          en: 'Your Story Matters',
+          es: 'Tu Historia Importa',
+          tl: 'Mahalaga ang Iyong Kuwento',
+          zh: '你的故事很重要',
+          vi: 'Câu Chuyện Của Bạn Quan Trọng',
+        },
+        body: {
+          en: 'Every tenant has a story. Maybe you\'ve faced an unfair rent increase. Maybe your landlord ignores repairs. Maybe you\'ve been threatened with eviction. Maybe you\'ve won a fight.\n\nWhen we share our stories, we realize we\'re not alone. We discover that our "personal problems" are actually collective conditions—created by policy choices that can be changed.\n\n**Your story is power. Share it. Organize. Win.**',
+          es: 'Cada inquilino tiene una historia. Quizás has enfrentado un aumento de alquiler injusto. Quizás tu propietario ignora las reparaciones. Quizás has sido amenazado con desalojo. Quizás has ganado una pelea.\n\nCuando compartimos nuestras historias, nos damos cuenta de que no estamos solos. Descubrimos que nuestros "problemas personales" son en realidad condiciones colectivas—creadas por decisiones políticas que pueden cambiarse.\n\n**Tu historia es poder. Compártela. Organízate. Gana.**',
+          tl: 'Bawat nangungupahan ay may kuwento. Baka naharap ka sa hindi makatarungang pagtaas ng upa. Baka binabalewala ng iyong landlord ang mga pag-aayos. Baka binabantaan ka ng eviction. Baka nanalo ka sa isang laban.\n\nKapag ibinahagi natin ang ating mga kuwento, napagtanto natin na hindi tayo nag-iisa. Nadiskubre natin na ang ating "personal na problema" ay talagang mga kolektibong kondisyon—nilikha ng mga desisyon sa patakaran na maaaring baguhin.\n\n**Ang iyong kuwento ay kapangyarihan. Ibahagi ito. Mag-organisa. Manalo.**',
+          zh: '每个租户都有故事。也许你面临过不公平的租金上涨。也许你的房东忽视维修。也许你被威胁驱逐。也许你打赢过一场仗。\n\n当我们分享我们的故事时，我们意识到我们并不孤单。我们发现我们的"个人问题"实际上是集体状况——是可以改变的政策选择造成的。\n\n**你的故事就是力量。分享它。组织起来。赢得胜利。**',
+          vi: 'Mỗi người thuê đều có một câu chuyện. Có thể bạn đã đối mặt với việc tăng tiền thuê không công bằng. Có thể chủ nhà của bạn phớt lờ việc sửa chữa. Có thể bạn đã bị đe dọa trục xuất. Có thể bạn đã thắng một trận chiến.\n\nKhi chúng ta chia sẻ câu chuyện của mình, chúng ta nhận ra mình không cô đơn. Chúng ta phát hiện rằng "vấn đề cá nhân" của chúng ta thực ra là điều kiện tập thể—được tạo ra bởi các lựa chọn chính sách có thể thay đổi.\n\n**Câu chuyện của bạn là sức mạnh. Chia sẻ nó. Tổ chức. Chiến thắng.**',
+        },
+        bgColor: 'gray',
+      },
+    },
+    { id: 'stories-crisis', type: 'crisis', config: {} },
+    { id: 'stories-cta', type: 'cta', config: {} },
+  ],
+  created_at: '2026-01-01T00:00:00Z',
+  updated_at: '2026-01-01T00:00:00Z',
+}
+
+// Page 13: Democratic Control - Bookchin-style participatory democracy
+export const PRESET_PAGE_13: LandingPageConfig = {
+  id: 'page-13',
+  name: 'Democratic Control',
+  sections: [
+    {
+      id: 'demo-hero',
+      type: 'hero',
+      config: {
+        showLogo: true,
+        headlineOverride: {
+          en: 'We Run This',
+          es: 'Nosotros Controlamos Esto',
+          tl: 'Tayo ang Namamahala Dito',
+          zh: '我们自己做主',
+          vi: 'Chúng Ta Điều Hành Việc Này',
+        },
+        taglineOverride: {
+          en: 'No bosses. No landlords. Just tenants, democratically controlling our own housing.',
+          es: 'Sin jefes. Sin propietarios. Solo inquilinos, controlando democráticamente nuestra propia vivienda.',
+          tl: 'Walang boss. Walang landlord. Mga nangungupahan lamang, demokratikong kumokontrol sa ating sariling pabahay.',
+          zh: '没有老板。没有房东。只有租户，民主地控制我们自己的住房。',
+          vi: 'Không có ông chủ. Không có chủ nhà. Chỉ có người thuê, dân chủ kiểm soát nhà ở của chính mình.',
+        },
+        missionOverride: {
+          en: 'Why should landlords—who don\'t live here, don\'t work here, often don\'t even visit—make decisions about our homes? The tenant union puts power where it belongs: with the people who actually live in these buildings. We vote on our own rules. We elect our own leaders. We govern ourselves.',
+          es: '¿Por qué deberían los propietarios—que no viven aquí, no trabajan aquí, a menudo ni siquiera visitan—tomar decisiones sobre nuestros hogares? El sindicato de inquilinos pone el poder donde pertenece: con las personas que realmente viven en estos edificios. Votamos nuestras propias reglas. Elegimos a nuestros propios líderes. Nos gobernamos a nosotros mismos.',
+          tl: 'Bakit dapat ang mga landlord—na hindi nakatira dito, hindi nagtatrabaho dito, madalas ay hindi man lang bumibisita—ang gumawa ng mga desisyon tungkol sa ating mga tahanan? Inilalagay ng tenant union ang kapangyarihan kung saan ito nabibilang: sa mga taong talagang nakatira sa mga gusaling ito. Bumoboto tayo sa ating sariling mga patakaran. Inihihalal natin ang ating sariling mga lider. Pinamamahalaan natin ang ating sarili.',
+          zh: '为什么房东——他们不住在这里，不在这里工作，甚至经常不来看看——要为我们的家做决定？租户工会把权力放在它应该在的地方：与真正住在这些建筑物里的人在一起。我们投票决定自己的规则。我们选举自己的领导人。我们自治。',
+          vi: 'Tại sao chủ nhà—những người không sống ở đây, không làm việc ở đây, thường thậm chí không đến thăm—lại đưa ra quyết định về nhà của chúng ta? Công đoàn người thuê đặt quyền lực ở nơi nó thuộc về: với những người thực sự sống trong các tòa nhà này. Chúng ta bỏ phiếu cho các quy tắc của riêng mình. Chúng ta bầu các nhà lãnh đạo của riêng mình. Chúng ta tự quản.',
+        },
+      },
+    },
+    {
+      id: 'demo-how',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'How Tenant Democracy Works',
+          es: 'Cómo Funciona la Democracia de Inquilinos',
+          tl: 'Paano Gumagana ang Demokrasya ng Nangungupahan',
+          zh: '租户民主如何运作',
+          vi: 'Dân Chủ Người Thuê Hoạt Động Như Thế Nào',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Tenants Vote, Not Admins',
+              es: 'Los Inquilinos Votan, No los Administradores',
+              tl: 'Ang mga Nangungupahan ang Bumoboto, Hindi ang mga Admin',
+              zh: '租户投票，不是管理员',
+              vi: 'Người Thuê Bỏ Phiếu, Không Phải Quản Trị Viên',
+            },
+            body: {
+              en: 'In RSTU Connect, administrators can\'t vote on governance. Only verified tenants and the organizers who represent them have voting power. This is the Bookchin principle: power belongs to the people, not the managers.',
+              es: 'En RSTU Connect, los administradores no pueden votar sobre la gobernanza. Solo los inquilinos verificados y los organizadores que los representan tienen poder de voto. Este es el principio de Bookchin: el poder pertenece al pueblo, no a los gerentes.',
+              tl: 'Sa RSTU Connect, ang mga administrator ay hindi maaaring bumoto sa governance. Tanging ang mga verified tenant at ang mga organizer na kumakatawan sa kanila ang may kapangyarihang bumoto. Ito ang Bookchin principle: ang kapangyarihan ay sa mga tao, hindi sa mga manager.',
+              zh: '在RSTU Connect中，管理员不能对治理进行投票。只有经过验证的租户和代表他们的组织者才有投票权。这就是布克钦原则：权力属于人民，而不是管理者。',
+              vi: 'Trong RSTU Connect, quản trị viên không thể bỏ phiếu về quản trị. Chỉ những người thuê đã được xác minh và những người tổ chức đại diện cho họ mới có quyền bỏ phiếu. Đây là nguyên tắc Bookchin: quyền lực thuộc về nhân dân, không phải người quản lý.',
+            },
+          },
+          {
+            title: {
+              en: 'Delegates Represent Real Tenants',
+              es: 'Los Delegados Representan a Inquilinos Reales',
+              tl: 'Ang mga Delegate ay Kumakatawan sa mga Tunay na Nangungupahan',
+              zh: '代表代表真正的租户',
+              vi: 'Đại Biểu Đại Diện Cho Người Thuê Thực',
+            },
+            body: {
+              en: 'Voting weight is earned by organizing. The more tenants you represent, the more your vote counts—but with a cap to prevent any one person from dominating. Power is distributed, not concentrated.',
+              es: 'El peso del voto se gana organizando. Cuantos más inquilinos representes, más cuenta tu voto—pero con un límite para evitar que una sola persona domine. El poder se distribuye, no se concentra.',
+              tl: 'Ang bigat ng boto ay nakukuha sa pamamagitan ng pag-oorganisa. Mas maraming nangungupahan ang kinakatawan mo, mas malaki ang halaga ng iyong boto—pero may limitasyon para maiwasan ang isang tao na mangibabaw. Ang kapangyarihan ay ipinapamahagi, hindi nakakonsentrate.',
+              zh: '投票权重是通过组织获得的。你代表的租户越多，你的投票就越重要——但有上限防止任何一个人独大。权力是分散的，不是集中的。',
+              vi: 'Trọng số bỏ phiếu được kiếm bằng cách tổ chức. Bạn đại diện cho càng nhiều người thuê, phiếu bầu của bạn càng có giá trị—nhưng có giới hạn để ngăn bất kỳ một người nào thống trị. Quyền lực được phân phối, không tập trung.',
+            },
+          },
+          {
+            title: {
+              en: 'Decisions Are Transparent',
+              es: 'Las Decisiones Son Transparentes',
+              tl: 'Ang mga Desisyon ay Transparent',
+              zh: '决策是透明的',
+              vi: 'Các Quyết Định Minh Bạch',
+            },
+            body: {
+              en: 'Every proposal, every vote, every decision is visible to all members. No backroom deals. No hidden agendas. When we disagree, we debate openly. When we decide, we do it together.',
+              es: 'Cada propuesta, cada voto, cada decisión es visible para todos los miembros. Sin acuerdos secretos. Sin agendas ocultas. Cuando no estamos de acuerdo, debatimos abiertamente. Cuando decidimos, lo hacemos juntos.',
+              tl: 'Bawat panukala, bawat boto, bawat desisyon ay nakikita ng lahat ng miyembro. Walang backroom deals. Walang mga nakatagong agenda. Kapag hindi tayo nagkasundo, nagdedebate tayo nang bukas. Kapag nagdedesisyon tayo, ginagawa natin ito nang magkasama.',
+              zh: '每一个提案、每一次投票、每一个决定对所有成员都是可见的。没有密室交易。没有隐藏的议程。当我们有分歧时，我们公开辩论。当我们做决定时，我们一起做。',
+              vi: 'Mỗi đề xuất, mỗi lá phiếu, mỗi quyết định đều được tất cả thành viên nhìn thấy. Không có giao dịch ngầm. Không có chương trình nghị sự ẩn. Khi chúng ta không đồng ý, chúng ta tranh luận công khai. Khi chúng ta quyết định, chúng ta làm cùng nhau.',
+            },
+          },
+        ],
+      },
+    },
+    {
+      id: 'demo-vision',
+      type: 'text',
+      config: {
+        heading: {
+          en: 'From Tenants\' Councils to Tenant Power',
+          es: 'De Consejos de Inquilinos a Poder de Inquilinos',
+          tl: 'Mula sa Konseho ng mga Nangungupahan hanggang sa Kapangyarihan ng Nangungupahan',
+          zh: '从租户委员会到租户权力',
+          vi: 'Từ Hội Đồng Người Thuê Đến Quyền Lực Người Thuê',
+        },
+        body: {
+          en: 'Social ecologist Murray Bookchin imagined a world of nested councils—neighborhood assemblies making local decisions, federating into larger bodies for regional issues. The tenant union is that vision coming to life.\n\nEach building has its own democratic assembly. Buildings federate into blocs. Blocs coordinate citywide. And the people who live in these spaces—not distant owners, not elected officials, not professional managers—make the decisions.\n\n**This is what democracy looks like. Not voting every four years for someone else to make decisions. Voting every day on the conditions of your own life.**',
+          es: 'El ecólogo social Murray Bookchin imaginó un mundo de consejos anidados—asambleas vecinales tomando decisiones locales, federándose en cuerpos más grandes para asuntos regionales. El sindicato de inquilinos es esa visión cobrando vida.\n\nCada edificio tiene su propia asamblea democrática. Los edificios se federan en bloques. Los bloques coordinan a nivel de ciudad. Y las personas que viven en estos espacios—no los propietarios distantes, no los funcionarios electos, no los gerentes profesionales—toman las decisiones.\n\n**Así es como se ve la democracia. No votar cada cuatro años para que alguien más tome decisiones. Votar cada día sobre las condiciones de tu propia vida.**',
+          tl: 'Inisip ng social ecologist na si Murray Bookchin ang isang mundo ng mga nested councils—mga neighborhood assembly na gumagawa ng mga lokal na desisyon, nagfe-federate sa mga mas malalaking katawan para sa mga rehiyonal na isyu. Ang tenant union ay ang pananaw na iyon na nabubuhay.\n\nAng bawat gusali ay may sariling demokratikong asembleya. Ang mga gusali ay nagfe-federate sa mga bloc. Ang mga bloc ay nagko-coordinate sa buong lungsod. At ang mga taong naninirahan sa mga lugar na ito—hindi ang mga malalayong may-ari, hindi ang mga inihalal na opisyal, hindi ang mga propesyonal na manager—ang gumagawa ng mga desisyon.\n\n**Ito ang hitsura ng demokrasya. Hindi pagboboto tuwing apat na taon para sa iba na gumawa ng mga desisyon. Bumoboto araw-araw sa mga kondisyon ng iyong sariling buhay.**',
+          zh: '社会生态学家默里·布克钦设想了一个嵌套委员会的世界——社区大会做出地方决定，联合成更大的机构处理区域问题。租户工会就是这个愿景的实现。\n\n每栋建筑都有自己的民主大会。建筑联合成街区。街区在全市范围内协调。而住在这些空间里的人——不是远方的业主，不是民选官员，不是专业经理——做出决定。\n\n**这就是民主的样子。不是每四年投票一次让别人做决定。而是每天为自己生活的条件投票。**',
+          vi: 'Nhà sinh thái học xã hội Murray Bookchin đã hình dung một thế giới của các hội đồng lồng nhau—các hội đồng khu phố đưa ra quyết định địa phương, liên kết thành các cơ quan lớn hơn cho các vấn đề khu vực. Công đoàn người thuê là tầm nhìn đó đang trở thành hiện thực.\n\nMỗi tòa nhà có hội đồng dân chủ riêng. Các tòa nhà liên kết thành các khối. Các khối phối hợp toàn thành phố. Và những người sống trong các không gian này—không phải chủ sở hữu xa xôi, không phải quan chức được bầu, không phải người quản lý chuyên nghiệp—đưa ra quyết định.\n\n**Đây là dân chủ trông như thế nào. Không phải bỏ phiếu bốn năm một lần để người khác đưa ra quyết định. Bỏ phiếu mỗi ngày về điều kiện của chính cuộc sống của bạn.**',
+        },
+        bgColor: 'gray',
+      },
+    },
+    { id: 'demo-crisis', type: 'crisis', config: {} },
+    { id: 'demo-cta', type: 'cta', config: {} },
+  ],
+  created_at: '2026-01-01T00:00:00Z',
+  updated_at: '2026-01-01T00:00:00Z',
+}
+
+// Page 14: Environmental Justice - Climate intersection framing
+export const PRESET_PAGE_14: LandingPageConfig = {
+  id: 'page-14',
+  name: 'Environmental Justice',
+  sections: [
+    {
+      id: 'enviro-hero',
+      type: 'hero',
+      config: {
+        showLogo: true,
+        headlineOverride: {
+          en: 'Housing Instability Kills',
+          es: 'La Inestabilidad de Vivienda Mata',
+          tl: 'Ang Kawalan ng Katatagan sa Pabahay ay Pumapatay',
+          zh: '住房不稳定致命',
+          vi: 'Bất Ổn Nhà Ở Gây Chết Người',
+        },
+        taglineOverride: {
+          en: 'Climate change and housing injustice are the same fight. We can\'t have climate justice without housing justice.',
+          es: 'El cambio climático y la injusticia de vivienda son la misma lucha. No podemos tener justicia climática sin justicia de vivienda.',
+          tl: 'Ang climate change at kawalan ng katarungan sa pabahay ay iisang laban. Hindi maaaring magkaroon ng climate justice kung walang housing justice.',
+          zh: '气候变化和住房不公正是同一场斗争。没有住房正义就没有气候正义。',
+          vi: 'Biến đổi khí hậu và bất công nhà ở là cùng một cuộc chiến. Chúng ta không thể có công lý khí hậu mà không có công lý nhà ở.',
+        },
+        missionOverride: {
+          en: 'When heatwaves hit, who dies? Tenants in buildings without AC, because landlords won\'t invest. When floods come, who\'s displaced? Renters in low-income neighborhoods, because they can\'t rebuild. When energy prices spike, who suffers? Cost-burdened tenants, already spending 40%+ of their income on housing. The climate crisis and the housing crisis are one crisis—and the solution is the same: organized tenant power.',
+          es: 'Cuando llegan las olas de calor, ¿quién muere? Inquilinos en edificios sin aire acondicionado, porque los propietarios no invierten. Cuando llegan las inundaciones, ¿quién es desplazado? Los inquilinos en barrios de bajos ingresos, porque no pueden reconstruir. Cuando los precios de la energía suben, ¿quién sufre? Los inquilinos sobrecargados de costos, que ya gastan el 40%+ de sus ingresos en vivienda. La crisis climática y la crisis de vivienda son una sola crisis—y la solución es la misma: el poder organizado de los inquilinos.',
+          tl: 'Kapag tumama ang mga heatwave, sino ang namamatay? Mga nangungupahan sa mga gusali na walang AC, dahil hindi mag-invest ang mga landlord. Kapag dumating ang mga baha, sino ang nadedisplace? Mga renter sa mga low-income na kapitbahayan, dahil hindi sila makabangon. Kapag tumaas ang presyo ng enerhiya, sino ang nagdurusa? Mga cost-burdened na nangungupahan, na gumagastos na ng 40%+ ng kanilang kita sa pabahay. Ang climate crisis at ang housing crisis ay iisang krisis—at pareho ang solusyon: organisadong kapangyarihan ng nangungupahan.',
+          zh: '当热浪来袭时，谁会死？住在没有空调的建筑物里的租户，因为房东不愿投资。当洪水来临时，谁会流离失所？低收入社区的租户，因为他们无法重建。当能源价格飙升时，谁会受苦？负担过重的租户，他们已经把40%以上的收入花在住房上。气候危机和住房危机是同一场危机——解决方案也是一样的：有组织的租户力量。',
+          vi: 'Khi sóng nhiệt đến, ai chết? Người thuê trong các tòa nhà không có điều hòa, vì chủ nhà không đầu tư. Khi lũ lụt đến, ai bị di dời? Người thuê ở các khu vực thu nhập thấp, vì họ không thể xây dựng lại. Khi giá năng lượng tăng vọt, ai chịu khổ? Người thuê gánh nặng chi phí, đã chi hơn 40% thu nhập cho nhà ở. Cuộc khủng hoảng khí hậu và cuộc khủng hoảng nhà ở là một cuộc khủng hoảng—và giải pháp giống nhau: sức mạnh có tổ chức của người thuê.',
+        },
+      },
+    },
+    {
+      id: 'enviro-intersection',
+      type: 'cards',
+      config: {
+        heading: {
+          en: 'Climate & Housing: The Same Fight',
+          es: 'Clima y Vivienda: La Misma Lucha',
+          tl: 'Klima at Pabahay: Iisang Laban',
+          zh: '气候与住房：同一场斗争',
+          vi: 'Khí Hậu & Nhà Ở: Cùng Một Cuộc Chiến',
+        },
+        layout: 'stacked',
+        cards: [
+          {
+            title: {
+              en: 'Extreme Heat Kills Tenants',
+              es: 'El Calor Extremo Mata a los Inquilinos',
+              tl: 'Ang Matinding Init ay Pumapatay sa mga Nangungupahan',
+              zh: '极端高温杀死租户',
+              vi: 'Nóng Cực Độ Giết Chết Người Thuê',
+            },
+            body: {
+              en: 'Heat is the deadliest weather event. Poor and working-class tenants—especially elders—die in buildings where landlords refuse to provide air conditioning. Nevada summers are getting hotter. Our buildings aren\'t getting safer.',
+              es: 'El calor es el evento climático más mortal. Los inquilinos pobres y de clase trabajadora—especialmente los ancianos—mueren en edificios donde los propietarios se niegan a proporcionar aire acondicionado. Los veranos de Nevada se están volviendo más calientes. Nuestros edificios no se están volviendo más seguros.',
+              tl: 'Ang init ang pinakamapanganib na kaganapan sa panahon. Ang mga mahihirap at working-class na nangungupahan—lalo na ang mga matatanda—ay namamatay sa mga gusali kung saan tumatanggi ang mga landlord na magbigay ng air conditioning. Ang mga tag-init sa Nevada ay nagiging mas mainit. Ang ating mga gusali ay hindi nagiging mas ligtas.',
+              zh: '高温是最致命的天气事件。贫穷和工薪阶层的租户——尤其是老年人——死在房东拒绝提供空调的建筑物里。内华达州的夏天越来越热。我们的建筑物并没有变得更安全。',
+              vi: 'Nóng là sự kiện thời tiết chết chóc nhất. Người thuê nghèo và lao động—đặc biệt là người già—chết trong các tòa nhà nơi chủ nhà từ chối cung cấp điều hòa. Mùa hè Nevada ngày càng nóng hơn. Các tòa nhà của chúng ta không an toàn hơn.',
+            },
+          },
+          {
+            title: {
+              en: 'Displacement Accelerates Emissions',
+              es: 'El Desplazamiento Acelera las Emisiones',
+              tl: 'Ang Displacement ay Nagpapabilis ng Emissions',
+              zh: '迫迁加速排放',
+              vi: 'Di Dời Làm Tăng Phát Thải',
+            },
+            body: {
+              en: 'When tenants are displaced from urban cores, they\'re pushed to sprawling suburbs with longer commutes. Every eviction increases car dependency and carbon emissions. Tenant stability is climate policy.',
+              es: 'Cuando los inquilinos son desplazados de los centros urbanos, son empujados a suburbios extensos con viajes más largos. Cada desalojo aumenta la dependencia del automóvil y las emisiones de carbono. La estabilidad de los inquilinos es política climática.',
+              tl: 'Kapag ang mga nangungupahan ay nadidisplace mula sa mga urban core, sila ay itinutulak sa mga sprawling suburb na may mas mahabang commute. Ang bawat eviction ay nagpapataas ng car dependency at carbon emissions. Ang tenant stability ay climate policy.',
+              zh: '当租户被迫离开市中心时，他们被推到郊区，通勤时间更长。每一次驱逐都会增加对汽车的依赖和碳排放。租户稳定就是气候政策。',
+              vi: 'Khi người thuê bị di dời khỏi trung tâm đô thị, họ bị đẩy đến vùng ngoại ô với thời gian đi làm dài hơn. Mỗi vụ trục xuất làm tăng sự phụ thuộc vào ô tô và phát thải carbon. Sự ổn định của người thuê là chính sách khí hậu.',
+            },
+          },
+          {
+            title: {
+              en: 'Green Buildings Need Tenant Power',
+              es: 'Los Edificios Verdes Necesitan Poder de Inquilinos',
+              tl: 'Ang mga Green Building ay Nangangailangan ng Tenant Power',
+              zh: '绿色建筑需要租户力量',
+              vi: 'Tòa Nhà Xanh Cần Sức Mạnh Người Thuê',
+            },
+            body: {
+              en: 'Retrofitting buildings for energy efficiency is essential—but who pays and who benefits? Without tenant organizing, green renovations become "green gentrification," with landlords using upgrades to justify rent hikes that displace the very people who need climate-resilient housing most.',
+              es: 'La renovación de edificios para la eficiencia energética es esencial—pero ¿quién paga y quién se beneficia? Sin la organización de inquilinos, las renovaciones verdes se convierten en "gentrificación verde", con propietarios usando las mejoras para justificar aumentos de alquiler que desplazan a las mismas personas que más necesitan viviendas resistentes al clima.',
+              tl: 'Ang retrofitting ng mga gusali para sa energy efficiency ay mahalaga—pero sino ang nagbabayad at sino ang nakikinabang? Kung walang tenant organizing, ang mga green renovation ay nagiging "green gentrification," kung saan ginagamit ng mga landlord ang mga upgrade para bigyang-katwiran ang mga pagtaas ng upa na nagdidisplace sa mga taong pinaka-nangangailangan ng climate-resilient na pabahay.',
+              zh: '改造建筑以提高能源效率是必要的——但谁付费，谁受益？没有租户组织，绿色翻新就会变成"绿色绅士化"，房东用升级作为提高租金的借口，驱逐最需要气候适应性住房的人。',
+              vi: 'Cải tạo các tòa nhà để tiết kiệm năng lượng là cần thiết—nhưng ai trả tiền và ai được hưởng lợi? Nếu không có tổ chức người thuê, các cải tạo xanh trở thành "gentrification xanh," với chủ nhà sử dụng các nâng cấp để biện minh cho việc tăng tiền thuê di dời chính những người cần nhà ở có khả năng chống chịu khí hậu nhất.',
+            },
+          },
+        ],
+      },
+    },
+    {
+      id: 'enviro-just-transition',
+      type: 'text',
+      config: {
+        heading: {
+          en: 'A Just Transition Requires Housing Justice',
+          es: 'Una Transición Justa Requiere Justicia de Vivienda',
+          tl: 'Ang Just Transition ay Nangangailangan ng Housing Justice',
+          zh: '公正转型需要住房公正',
+          vi: 'Chuyển Đổi Công Bằng Đòi Hỏi Công Lý Nhà Ở',
+        },
+        body: {
+          en: 'The climate movement talks about "just transition"—moving to clean energy in ways that don\'t leave workers behind. But what about tenants?\n\nWe need housing policies that:\n• Require landlords to provide cooling as temperatures rise\n• Ensure green renovations don\'t displace low-income tenants\n• Prioritize climate-vulnerable renters for energy assistance\n• Build sustainable, affordable housing—not luxury eco-condos\n\nThe tenant union is part of the climate movement. When we fight for safe, stable, affordable housing, we\'re fighting for a livable planet.\n\n**Climate justice is housing justice. Join the fight.**',
+          es: 'El movimiento climático habla de "transición justa"—pasar a la energía limpia de maneras que no dejen atrás a los trabajadores. ¿Pero qué hay de los inquilinos?\n\nNecesitamos políticas de vivienda que:\n• Requieran que los propietarios proporcionen refrigeración a medida que suben las temperaturas\n• Aseguren que las renovaciones verdes no desplacen a los inquilinos de bajos ingresos\n• Prioricen a los inquilinos vulnerables al clima para asistencia energética\n• Construyan viviendas sostenibles y asequibles—no eco-condominios de lujo\n\nEl sindicato de inquilinos es parte del movimiento climático. Cuando luchamos por viviendas seguras, estables y asequibles, estamos luchando por un planeta habitable.\n\n**La justicia climática es justicia de vivienda. Únete a la lucha.**',
+          tl: 'Ang climate movement ay nagsasalita tungkol sa "just transition"—paglipat sa clean energy sa mga paraan na hindi iniiwan ang mga manggagawa. Pero paano ang mga nangungupahan?\n\nKailangan natin ng mga housing policy na:\n• Nag-uutos sa mga landlord na magbigay ng cooling habang tumataas ang temperatura\n• Tinitiyak na ang mga green renovation ay hindi nagdidisplace sa mga low-income na nangungupahan\n• Prayoridad ang mga climate-vulnerable na renter para sa energy assistance\n• Nagtatayo ng sustainable, affordable na pabahay—hindi luxury eco-condos\n\nAng tenant union ay bahagi ng climate movement. Kapag lumalaban tayo para sa ligtas, matatag, at abot-kayang pabahay, lumalaban tayo para sa isang maaaring tirhan na planeta.\n\n**Ang climate justice ay housing justice. Sumali sa laban.**',
+          zh: '气候运动谈论"公正转型"——以不抛弃工人的方式转向清洁能源。但租户呢？\n\n我们需要的住房政策：\n• 要求房东在气温上升时提供制冷\n• 确保绿色翻新不会驱逐低收入租户\n• 优先考虑气候脆弱的租户获得能源援助\n• 建造可持续、负担得起的住房——而不是豪华生态公寓\n\n租户工会是气候运动的一部分。当我们为安全、稳定、负担得起的住房而战时，我们是在为一个宜居的星球而战。\n\n**气候正义就是住房正义。加入战斗吧。**',
+          vi: 'Phong trào khí hậu nói về "chuyển đổi công bằng"—chuyển sang năng lượng sạch theo cách không bỏ lại công nhân. Nhưng còn người thuê thì sao?\n\nChúng ta cần các chính sách nhà ở:\n• Yêu cầu chủ nhà cung cấp làm mát khi nhiệt độ tăng\n• Đảm bảo các cải tạo xanh không di dời người thuê thu nhập thấp\n• Ưu tiên người thuê dễ bị tổn thương về khí hậu cho hỗ trợ năng lượng\n• Xây dựng nhà ở bền vững, giá cả phải chăng—không phải căn hộ sinh thái xa xỉ\n\nCông đoàn người thuê là một phần của phong trào khí hậu. Khi chúng ta đấu tranh cho nhà ở an toàn, ổn định, giá cả phải chăng, chúng ta đang đấu tranh cho một hành tinh có thể sống được.\n\n**Công lý khí hậu là công lý nhà ở. Tham gia cuộc chiến.**',
+        },
+        bgColor: 'gray',
+      },
+    },
+    { id: 'enviro-crisis', type: 'crisis', config: {} },
+    { id: 'enviro-cta', type: 'cta', config: {} },
+  ],
+  created_at: '2026-01-01T00:00:00Z',
+  updated_at: '2026-01-01T00:00:00Z',
+}
+
 // ============================================================================
 // Local Storage CRUD
 // ============================================================================
@@ -1001,6 +1751,12 @@ export function getLandingPages(): LandingPageConfig[] {
       PRESET_PAGE_6,
       PRESET_PAGE_7,
       PRESET_PAGE_8,
+      PRESET_PAGE_9,
+      PRESET_PAGE_10,
+      PRESET_PAGE_11,
+      PRESET_PAGE_12,
+      PRESET_PAGE_13,
+      PRESET_PAGE_14,
     ]
     safeSetItem(PAGES_KEY, JSON.stringify(defaults))
     safeSetItem(MIGRATION_KEY, String(CURRENT_VERSION))
@@ -1173,6 +1929,12 @@ export function getLandingPages(): LandingPageConfig[] {
     { id: 'page-6', config: PRESET_PAGE_6 },
     { id: 'page-7', config: PRESET_PAGE_7 },
     { id: 'page-8', config: PRESET_PAGE_8 },
+    { id: 'page-9', config: PRESET_PAGE_9 },
+    { id: 'page-10', config: PRESET_PAGE_10 },
+    { id: 'page-11', config: PRESET_PAGE_11 },
+    { id: 'page-12', config: PRESET_PAGE_12 },
+    { id: 'page-13', config: PRESET_PAGE_13 },
+    { id: 'page-14', config: PRESET_PAGE_14 },
   ]
   presetPages.forEach(({ id, config }, idx) => {
     if (!stored.find(p => p.id === id)) {

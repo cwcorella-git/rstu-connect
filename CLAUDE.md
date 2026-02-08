@@ -449,7 +449,7 @@ sqlite3 data/databases/main_properties.db
 
 **Location:** `src/lib/storage/landingPageStorage.ts`, `src/components/LandingPage/`
 
-The landing page is fully customizable with 8 preset pages representing different rhetorical framings:
+The landing page is fully customizable with 14 preset pages representing different rhetorical framings:
 
 | ID | Name | Framing |
 |----|------|---------|
@@ -461,6 +461,12 @@ The landing page is fully customizable with 8 preset pages representing differen
 | page-6 | Historical Justice | "The Housing Crisis Was Built" - FHA redlining |
 | page-7 | Organizing Works | "Tenants Win When Tenants Organize" - KC Tenants model |
 | page-8 | Class Solidarity | "Your Rent Funds the Billionaire Class" - labor-tenant alliance |
+| page-9 | Mutual Aid | "Neighbors Helping Neighbors" - community care, solidarity |
+| page-10 | Faith & Morality | "Housing is a Moral Imperative" - religious/values framing |
+| page-11 | Data & Evidence | "The Numbers Don't Lie" - research-based, Eviction Lab |
+| page-12 | Personal Stories | "Real Tenants, Real Struggles" - lived experience |
+| page-13 | Democratic Control | "We Run This" - Bookchin-style participatory democracy |
+| page-14 | Environmental Justice | "Housing Instability Kills" - climate intersection |
 
 All presets include full i18n support (EN, ES, TL, ZH, VI).
 
