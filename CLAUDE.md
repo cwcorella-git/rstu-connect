@@ -9,6 +9,21 @@ RSTU Connect is a Next.js static website for the Reno-Sparks Tenants Union - Nev
 **Live Site:** https://rstu-connect.neocities.org (iframe to GitHub Pages)
 **GitHub Pages:** https://cwcorella-git.github.io/rstu-connect/
 
+### Platform Status (Critical Context)
+
+The platform is **built but not field-tested**. As of January 2026:
+- No tenants are currently using the platform to organize
+- No successful organizing campaigns have been completed
+- Canvassing tools have not been tested in the field
+- No funding or resources exist for canvassing operations
+
+**Known Data Issues:**
+- Database includes ~52 casino/hotel properties that should be excluded
+- Some unit counts are inaccurate
+- Total assessed value figures have not been validated
+
+The core challenge: closing the gap between awareness and action through real-world deployment.
+
 ## Development Commands
 
 ```bash
@@ -17,8 +32,25 @@ npm run dev          # Development server at http://localhost:3000
 npm run build        # Build static export to out/ (runs prebuild scripts automatically)
 npm run deploy       # Build + run deploy.sh (legacy local deploy)
 npm run lint         # Run Next.js linter
-npm test             # Run Jest unit tests
-npx playwright test  # Run Playwright e2e tests
+```
+
+### Running Tests
+
+**Jest (unit tests):**
+```bash
+npm test                                    # All unit tests
+npm test -- path/to/test.test.ts            # Single file
+npm test -- --watch                         # Watch mode
+npm test -- --testNamePattern="pattern"     # Filter by name
+npm run test:ci                             # CI mode with coverage
+```
+
+**Playwright (e2e):**
+```bash
+npx playwright test                         # All e2e tests
+npx playwright test tests/e2e/smoke.spec.ts # Single file
+npx playwright test --headed                # Visible browser
+npx playwright test --ui                    # Interactive UI
 ```
 
 **Automatic deployment:** Push to `main` triggers GitHub Actions -> builds -> deploys to GitHub Pages.
@@ -26,8 +58,9 @@ npx playwright test  # Run Playwright e2e tests
 **CRITICAL: After committing changes, ALWAYS PUSH with `git push origin main`** - Commits without push don't trigger deployment.
 
 **Prebuild scripts (run automatically by `npm run build`):**
-1. `python3 scripts/build/export-all-properties.py` - Exports property data to JSON
-2. `node scripts/build/generate-reading-manifest.js` - Generates document manifest from `docs/`
+1. `node scripts/build/generate-version.js` - Generates version-info.json with build timestamp
+2. `python3 scripts/build/export-all-properties.py` - Exports property data to JSON
+3. `node scripts/build/generate-reading-manifest.js` - Generates document manifest from `docs/`
 
 ## Root Directory Structure
 
@@ -317,6 +350,64 @@ Properties can be linked into "Blocs" (linked property groups) for coordinated o
 
 **Invite codes:** Created via `createInviteAsync()`. If cloud sync fails (Supabase foreign key constraint when profile hasn't synced), codes are marked `localOnly: true` and show an orange warning in the UI.
 
+## Governance System Details
+
+**Location:** `src/lib/storage/governanceStorage.ts`, `src/lib/storage/delegateStorage.ts`
+
+### Bookchin Principle
+Administrators cannot vote on app governance. This ensures decisions reflect tenant needs, not admin preferences.
+
+### Role Hierarchy
+| Role | Voting Rights |
+|------|---------------|
+| Tenant | Bloc-level proposals (1 person = 1 vote) |
+| Organizer | Bloc + App governance (weighted by representation) |
+| Admin | **None** (Bookchin principle) |
+
+### Delegate Qualification
+To become a delegate with app-wide voting power:
+- 10+ verified tenants represented
+- 1+ bloc organized
+- 50+ activity score
+
+### Delegate Weight Formula
+```
+Base = sqrt(verified_tenants) × 5
+Activity Bonus = min(activity_score / 100, 0.5)  // capped at 50%
+Final Weight = min(Base × (1 + Activity Bonus), 100)  // capped at 100
+```
+
+### Activity Score
+| Activity | Points |
+|----------|--------|
+| Create proposal | +10 |
+| Vote on proposal | +2 |
+| Organize building | +5 |
+
+### Voting Thresholds
+
+**Bloc-Level (Simple Majority):**
+| Type | Threshold |
+|------|-----------|
+| rename, add-property, alliance, merge | +3 votes |
+| remove-property, split, escalate | +5 votes |
+| mute-tenant | +7 votes |
+| rent-strike | +10 votes |
+
+**App-Wide (Weighted Delegates):**
+| Type | Weight Threshold |
+|------|------------------|
+| content-vote | 10 points |
+| feature-vote, tab-visibility | 15 points |
+| direction-vote | 20 points |
+| admin-recall | 50 points + 2/3 supermajority + 3 delegates |
+
+### Officer Elections
+- Ranked Choice Voting (RCV)
+- 15% quorum required
+- 2-term limit per position
+- Positions: President, Vice President, Secretary, Treasurer
+
 ## Canvassing & Unit Tracker
 
 **Location:** `src/lib/storage/canvassStorage.ts`
@@ -354,6 +445,38 @@ sqlite3 data/databases/main_properties.db
 
 **Fix malformed frontmatter:** `node scripts/maintenance/fix-frontmatter.js`
 
+## Landing Page System
+
+**Location:** `src/lib/storage/landingPageStorage.ts`, `src/components/LandingPage/`
+
+The landing page is fully customizable with 8 preset pages representing different rhetorical framings:
+
+| ID | Name | Framing |
+|----|------|---------|
+| page-1 | Default | Standard RSTU branding |
+| page-2 | RSTU.org Mirror | Organization website style |
+| page-3 | Feature Tour | App capabilities walkthrough |
+| page-4 | Corporate Greed | "Wall Street Is Your Landlord" - Blackstone/PE focus |
+| page-5 | Know Your Rights | Legal empowerment, Javins v. First National |
+| page-6 | Historical Justice | "The Housing Crisis Was Built" - FHA redlining |
+| page-7 | Organizing Works | "Tenants Win When Tenants Organize" - KC Tenants model |
+| page-8 | Class Solidarity | "Your Rent Funds the Billionaire Class" - labor-tenant alliance |
+
+All presets include full i18n support (EN, ES, TL, ZH, VI).
+
+**Section Types:** hero, text, cards, rights, organizing, crisis, action, cta, how-it-works, manifesto, values, philosophy, readings
+
+**Key Functions:**
+- `getLandingPages()` - Returns all pages, restores deleted presets
+- `setActiveLandingPage(id)` - Sets which page is displayed
+- `updateLandingPage(id, config)` - Saves customizations
+
+## Keyboard Shortcuts
+
+- `Ctrl+Shift+A` - Toggle admin mode (reading library editing)
+- `Ctrl+Shift+E` - Toggle edit mode (GitHub token setup on first use)
+- `Ctrl+click` - Select map markers for property linking (Blocs)
+
 ## Admin Features
 
 - **Keyboard shortcut:** `Ctrl+Shift+A` toggles admin login/logout
@@ -373,6 +496,25 @@ sqlite3 data/databases/main_properties.db
 - `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-gun-relay.onrender.com`)
 - `NEXT_PUBLIC_SUPABASE_URL` - Supabase project URL (optional, for FTS)
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY` - Supabase anon key (optional, for FTS)
+
+## Reno-Sparks Housing Statistics
+
+Key statistics for understanding the local crisis (sourced from `archive/project-docs/reno-sparks-housing-statistics.md`):
+
+| Metric | Value |
+|--------|-------|
+| Nevada renters who are cost-burdened | 57% |
+| Rent increase since 2019 | 40-45% |
+| Hours/week at minimum wage for 1-bed | 82 hours |
+| Reno-Sparks households that are renters | 51% |
+| 2-bedroom rent (Reno) | $1,550-$1,818 |
+| Income needed for 2-bed at Fair Market Rent | $30.42/hour ($63,280/year) |
+
+**National Corporate Landlord Context:**
+- Large institutional landlords are 8% more likely to evict than small landlords
+- PE-backed firms are 18-19% more likely to evict
+- Corporate landlords in Kansas City: 3.7x more likely to file evictions
+- Projected institutional control by 2030: 40% of single-family rentals
 
 ## Banned Features (DO NOT IMPLEMENT)
 
