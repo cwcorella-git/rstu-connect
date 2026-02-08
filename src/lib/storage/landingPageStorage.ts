@@ -1964,9 +1964,9 @@ export function saveLandingPage(config: LandingPageConfig): void {
 export function deleteLandingPage(id: string): void {
   const pages = getLandingPages().filter(p => p.id !== id)
   safeSetItem(PAGES_KEY, JSON.stringify(pages))
-  // Also remove from Supabase
+  // Also remove from Supabase (fire-and-forget - table may not exist)
   if (supabase) {
-    supabase.from('landing_pages').delete().eq('id', id).then(() => {})
+    void supabase.from('landing_pages').delete().eq('id', id)
   }
   // If active page was deleted, reset to page-1
   if (getActiveLandingPageId() === id) {
