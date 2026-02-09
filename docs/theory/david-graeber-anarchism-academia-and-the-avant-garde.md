@@ -1,11 +1,12 @@
 ---
-title: 'Anarchism, academia, and the avant-garde'
-author: David Graeber
-date: '2009'
-category: contemporary-analysis
+title: "Anarchism, academia, and the avant-garde"
+author: "David Graeber"
+date: 2009
+category: theory
 tags:
   - anarchism
-  - Graeber
+  - academia
+  - consensus
 ---
 
 Initially, I was to write a critical auto-ethnography of my life in the academy. But I quickly realized that writing critically about the academy is almost impossible. During the 1980s, we all became used to the idea of reflexive anthropology, the effort to probe behind the apparent authority of ethnographic texts to reveal the complex relations of power and domination that went into making them. The result was an outpouring of ethnographic meditations on the politics of fieldwork. But even as a graduate student, it always seemed to me there was something oddly missing here. Ethnographic texts, after all, are not actually written in the field. They are written at universities. Reflexive anthropology, however, almost never had anything to say about the power relations under which these texts were actually composed.

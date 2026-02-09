@@ -1,11 +1,12 @@
 ---
-title: Anarchism and Democracy the Anarchist Library
-author: David Graeber
-date: '2025'
+title: "Anarchism and Democracy"
+author: "Zoe Baker"
+date: 2021
 category: theory
 tags:
   - anarchism
   - democracy
+  - direct democracy
 ---
 
 Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...

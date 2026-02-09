@@ -1,10 +1,12 @@
 ---
-title: 'Fields, Factories and Workshops Tomorrow'
-author: "Kevin A. Carson"
-date: 1940
-category: contemporary-analysis
+title: "Fields, Factories and Workshops Tomorrow"
+author: "Pyotr Kropotkin"
+date: 1899
+category: theory
 tags:
   - Kropotkin
+  - economics
+  - decentralization
 ---
 
 Pyotr Kropotkin Introduction by Kevin A. Carson Additional Material by Colin Ward Supplemental Material by Murray Bookchin
