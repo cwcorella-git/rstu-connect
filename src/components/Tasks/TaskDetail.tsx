@@ -20,6 +20,7 @@ import {
 } from '@/lib/storage/taskStorage'
 import { getCurrentProfile, getStoredProfiles } from '@/lib/storage/profileStorage'
 import { ConfirmModal } from '@/components/ui/ConfirmModal'
+import { LegalDocumentOverlay, LEGAL_DOCUMENT_MAP } from '@/components/shared/LegalDocumentOverlay'
 
 interface TaskDetailProps {
   task: Task
@@ -32,6 +33,7 @@ export function TaskDetail({ task, onClose, onUpdate }: TaskDetailProps) {
   const [isEditing, setIsEditing] = useState(false)
   const [showDeleteConfirm, setShowDeleteConfirm] = useState(false)
   const [showAssignModal, setShowAssignModal] = useState(false)
+  const [viewingDocument, setViewingDocument] = useState<{ filename: string; title: string } | null>(null)
 
   // Edit state
   const [title, setTitle] = useState(task.title)
@@ -281,29 +283,29 @@ export function TaskDetail({ task, onClose, onUpdate }: TaskDetailProps) {
                       {t('tasks.attachedDocuments')}
                     </label>
                     <div className="space-y-2">
-                      {task.documentLinks.map((doc, i) => (
-                        <a
-                          key={i}
-                          href={`?doc=${doc.slug}`}
-                          onClick={(e) => {
-                            e.preventDefault()
-                            // Navigate to reading tab with this document
-                            // Use full page navigation to ensure doc param is processed
-                            const url = new URL(window.location.href)
-                            url.searchParams.set('doc', doc.slug)
-                            window.location.href = url.toString()
-                          }}
-                          className="flex items-center gap-2 p-2 bg-blue-50 hover:bg-blue-100 rounded-md text-sm text-blue-700 transition-colors"
-                        >
-                          <svg className="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                          </svg>
-                          <span className="font-medium">{doc.title}</span>
-                          <svg className="w-3 h-3 ml-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                          </svg>
-                        </a>
-                      ))}
+                      {task.documentLinks.map((doc, i) => {
+                        // Look up in legal document map, or construct from slug
+                        const legalDoc = LEGAL_DOCUMENT_MAP[doc.slug]
+                        const filename = legalDoc?.filename || `${doc.slug.split('-').pop()}.md`
+                        const title = legalDoc?.title || doc.title
+
+                        return (
+                          <button
+                            key={i}
+                            onClick={() => setViewingDocument({ filename, title })}
+                            className="w-full flex items-center gap-2 p-2 bg-blue-50 hover:bg-blue-100 rounded-md text-sm text-blue-700 transition-colors text-left"
+                          >
+                            <svg className="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                            </svg>
+                            <span className="font-medium flex-1">{title}</span>
+                            <svg className="w-4 h-4 text-blue-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                            </svg>
+                          </button>
+                        )
+                      })}
                     </div>
                   </div>
                 )}
@@ -473,6 +475,14 @@ export function TaskDetail({ task, onClose, onUpdate }: TaskDetailProps) {
           </div>
         </div>
       )}
+
+      {/* Legal Document Overlay */}
+      <LegalDocumentOverlay
+        isOpen={!!viewingDocument}
+        onClose={() => setViewingDocument(null)}
+        filename={viewingDocument?.filename || ''}
+        title={viewingDocument?.title || ''}
+      />
     </>
   )
 }
