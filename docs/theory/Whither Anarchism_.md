@@ -1,11 +1,12 @@
 ---
-title: Murray Bookchin Whither Anarchism? A Reply to Recent Anarchist Critics 1998
+title: "Whither Anarchism? A Reply to Recent Anarchist Critics"
 author: "Murray Bookchin"
-date: 1981
-category: contemporary-analysis
+date: 1998
+category: theory
 tags:
   - anarchism
-  - Bookchin
+  - social ecology
+  - critique
 ---
 
 **Sorting Out the Issues The Long, Dark Road Back Civilization and Progress Technophobia Primitivism Reason and Irrationalism The "Dialectics" of Distortion David Watson, One Year Later The World According to Clark/Cafard The Future of Anarchism**

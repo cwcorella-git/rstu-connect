@@ -1,10 +1,12 @@
 ---
-title: Ivan Illich
+title: "Deschooling Society"
+author: "Ivan Illich"
 date: 1971
-category: contemporary-analysis
+category: theory
 tags:
-  - analysis
-  - current-events
+  - education
+  - critique
+  - institutions
 ---
 
 ## **Contents**
