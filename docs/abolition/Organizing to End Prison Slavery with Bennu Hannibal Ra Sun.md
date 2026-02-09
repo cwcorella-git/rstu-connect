@@ -1,11 +1,12 @@
 ---
-title: Organizing to End Prison Slavery with Bennu Hannibal Ra Sun
-author: "libcom.org"
-date: 2012
-category: contemporary-analysis
+title: "Organizing to End Prison Slavery with Bennu Hannibal Ra Sun"
+author: "The Final Straw Radio"
+date: 2021
+category: abolition
 tags:
-  - organizing
   - prisons
+  - organizing
+  - Free Alabama Movement
 ---
 
 ## Ra-Sun, The Final Straw Radio, PDF

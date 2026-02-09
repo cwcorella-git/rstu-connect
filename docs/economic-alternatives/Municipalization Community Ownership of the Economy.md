@@ -1,11 +1,12 @@
 ---
-title: 'Municipalization: Community Ownership of the Economy'
-author: "libcom.org"
+title: "Municipalization: Community Ownership of the Economy"
+author: "Murray Bookchin"
 date: 1986
 category: economic-alternatives
 tags:
+  - municipalism
   - community
-  - urban
+  - democracy
 ---
 
 ## **Tags:** Murray Bookchin, economics, community

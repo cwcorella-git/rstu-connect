@@ -1,10 +1,12 @@
 ---
-title: Snapshots of Agent Provocateurs Around the World
-date: 2005
-category: contemporary-analysis
+title: "How Agent Provocateurs Harm Our Movements"
+author: "Steve Chase"
+date: 2021
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - security
+  - tactics
+  - COINTELPRO
 ---
 
 

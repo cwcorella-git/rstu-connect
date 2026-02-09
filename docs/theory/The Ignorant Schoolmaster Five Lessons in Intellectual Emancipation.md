@@ -1,12 +1,12 @@
 ---
-title: 'The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation'
-author: "libcom.org"
-date: 1968
-category: youth-student-organizing
+title: "The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation"
+author: "Jacques Rancière"
+date: 1987
+category: theory
 tags:
   - education
-  - students
-  - youth
+  - philosophy
+  - emancipation
 ---
 
 ## **Tags:** education
