@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { useOnboardingSafe } from '@/contexts/OnboardingContext'
 import { useLanguage } from '@/contexts/LanguageContext'
 
@@ -20,12 +20,29 @@ export function OnboardingChecklist({ onNavigate, className = '' }: OnboardingCh
   const onboarding = useOnboardingSafe()
   const { t } = useLanguage()
   const [isVisible, setIsVisible] = useState(false)
+  const hasSetMobileDefault = useRef(false)
 
   // Delay visibility to prevent flash during hydration
+  // Also auto-minimize on mobile to save screen space
   useEffect(() => {
-    const timer = setTimeout(() => setIsVisible(true), 100)
+    const timer = setTimeout(() => {
+      setIsVisible(true)
+
+      // Auto-minimize on mobile on initial render
+      // Uses sessionStorage to track if user has manually toggled in this session
+      if (!hasSetMobileDefault.current && onboarding && typeof window !== 'undefined') {
+        const isMobile = window.innerWidth < 768
+        const userHasToggled = sessionStorage.getItem('rstu_checklist_user_toggled') === 'true'
+
+        // If on mobile and user hasn't manually toggled this session, minimize
+        if (isMobile && !userHasToggled && !onboarding.state.checklistMinimized) {
+          onboarding.minimizeChecklist(true)
+        }
+        hasSetMobileDefault.current = true
+      }
+    }, 100)
     return () => clearTimeout(timer)
-  }, [])
+  }, [onboarding])
 
   // Don't render if no onboarding context or checklist dismissed
   if (!onboarding || !isVisible) return null
@@ -77,7 +94,13 @@ export function OnboardingChecklist({ onNavigate, className = '' }: OnboardingCh
       {/* Header */}
       <div
         className="flex items-center justify-between px-4 py-3 bg-gradient-to-r from-rstu-red to-red-600 text-white cursor-pointer"
-        onClick={() => minimizeChecklist(!isMinimized)}
+        onClick={() => {
+          // Track that user manually toggled (respect their preference for session)
+          if (typeof window !== 'undefined') {
+            sessionStorage.setItem('rstu_checklist_user_toggled', 'true')
+          }
+          minimizeChecklist(!isMinimized)
+        }}
       >
         <div className="flex items-center gap-2">
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
