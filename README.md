@@ -21,13 +21,14 @@ This repository contains the web platform for the Reno-Sparks Tenants Union (RST
 - **Sorting & Filtering:** 13 sort options, 9 filter presets (corporate-owned, violations, evictions, etc.)
 - **Organizing Progress:** Unit tracker badges showing tenant outreach status
 
-### 📚 Reading Library (~2,900 Documents)
+### 📚 Reading Library (2,363 Documents)
 - **Comprehensive Collection:** Tenant organizing guides, labor union resources, political theory
-- **20 Categories:** Classic theory, contemporary analysis, housing/rent, labor unions, organizing action, and more
+- **14 Categories:** Theory, contemporary analysis, housing, labor, organizing, abolition, environmental justice, and more
 - **Search & Filter:** Full-text search across titles and excerpts
 - **Reading Progress:** Automatic bookmark and scroll position saving
 - **Favorites:** Star documents to keep them at the top
 - **Admin Panel:** Edit titles, hide/show documents (Ctrl+Shift+A)
+- **Cleaned Content:** Web scraping artifacts removed via maintenance scripts
 
 ### 🤝 Mutual Aid Tab
 - **Needs & Offers:** Post and browse community requests/resources
@@ -164,9 +165,35 @@ npm run lint
 ### Fix Malformed Frontmatter
 
 ```bash
-node scripts/fix-frontmatter.js
+node scripts/maintenance/fix-frontmatter.js
 npm run build
 ```
+
+### Reading Library Maintenance
+
+The reading library documents have been cleaned to remove web scraping artifacts:
+
+```bash
+# Audit documents for issues
+python3 scripts/maintenance/cleanup-reading-docs-v2.py audit
+
+# Preview what would be cleaned
+python3 scripts/maintenance/cleanup-reading-docs-v2.py dry-run
+
+# Execute cleanup (requires confirmation)
+python3 scripts/maintenance/cleanup-reading-docs-v2.py clean
+
+# Find empty/broken documents
+python3 scripts/maintenance/cleanup-reading-docs-v2.py empty
+```
+
+**Issues cleaned:**
+- Page markers (`X of Y M/D/YY, H:MM AM/PM` browser print headers)
+- Page break markers (`-- ## Page X`)
+- URL headers (orphan URLs from scraping)
+- Repeated title prefixes (`Title | Site` before numbered content)
+- Standalone dashes and empty headings
+- Duplicate titles after frontmatter
 
 ---
 
@@ -231,8 +258,8 @@ Every push to `main` triggers:
 
 ### Current Scale
 - **Properties:** 16,127 rental units
-- **Documents:** ~2,900 organizing resources
-- **Categories:** 20 document categories
+- **Documents:** 2,363 organizing resources (cleaned)
+- **Categories:** 14 document categories
 - **Languages:** 5 (EN, ES, TL, ZH, VI)
 - **Translation Keys:** 938+ per locale
 - **Build Time:** ~2 minutes

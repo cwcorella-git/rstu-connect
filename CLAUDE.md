@@ -67,7 +67,7 @@ npx playwright test --ui                    # Interactive UI
 ```
 rstu-connect/
 ├── src/                # Application source code (Next.js)
-├── docs/               # Reading library (~2,900 markdown files with YAML frontmatter)
+├── docs/               # Reading library (2,363 markdown files with YAML frontmatter)
 ├── data/               # SQLite databases, JSON/CSV data files (mostly gitignored)
 ├── public/             # Static assets (icons, data JSON, generated documents)
 ├── scripts/            # Build, data loading, and maintenance scripts
@@ -101,7 +101,7 @@ rstu-connect/
    - **Chat:** Real-time Socket.io messaging, governance proposals, meeting coordination
    - **Events:** Calendar with RSVP, event types (meeting, action, workshop, etc.)
    - **Map:** 3D Mapbox visualization with neighboring buildings
-2. **Reading:** Document library (~2,900 organizing resources) with markdown viewer
+2. **Reading:** Document library (2,363 organizing resources) with markdown viewer
 3. **Mutual Aid:** Needs/offers, skills directory, resource library, **Blocks** (linked property groups with governance)
 4. **Tools:** Unit tracker, canvassing, power map, campaigns, users
 5. **Profile:** User profiles, rent comparison, onboarding wizard
@@ -131,10 +131,14 @@ data/databases/
 
 **Reading Library:**
 ```
-docs/ (~2,900 markdown files with YAML frontmatter)
+docs/ (2,363 markdown files with YAML frontmatter)
   -> scripts/build/generate-reading-manifest.js (prebuild)
   -> src/data/reading-manifest.json
   -> ReadingList + ReadingContent components
+
+Maintenance:
+  -> scripts/maintenance/cleanup-reading-docs.py (v1: metadata/tags cleanup)
+  -> scripts/maintenance/cleanup-reading-docs-v2.py (v2: page markers, breaks, artifacts)
 ```
 
 ### Component Structure
@@ -489,6 +493,48 @@ sqlite3 data/databases/main_properties.db
 3. Push to main (auto-deploys)
 
 **Fix malformed frontmatter:** `node scripts/maintenance/fix-frontmatter.js`
+
+## Reading Library Maintenance
+
+The reading library has been cleaned to remove web scraping artifacts. Two cleanup scripts are available:
+
+### cleanup-reading-docs.py (v1)
+Removes metadata artifacts from web scraping:
+- Inline metadata lines (`Title Date: Unknown Source: URL Tags: ...`)
+- Bold metadata blocks (`**Date:** ... **Source:** ... **Tags:**`)
+- Duplicate titles after frontmatter
+- Web UI artifacts (`Donate Here`, `Download PDF`, `Print PDF`)
+
+### cleanup-reading-docs-v2.py (v2)
+Removes browser print artifacts:
+- Page markers (`X of Y M/D/YY, H:MM AM/PM` headers)
+- Page break markers (`-- ## Page X`)
+- URL header lines (orphan URLs from scraping)
+- Repeated title prefixes (`Title | Site` before numbered content)
+- Standalone dashes and empty headings
+- Orphan title lines at document ends
+
+**Usage:**
+```bash
+# Audit - check for issues without modifying
+python3 scripts/maintenance/cleanup-reading-docs-v2.py audit
+
+# Dry run - preview what would be cleaned
+python3 scripts/maintenance/cleanup-reading-docs-v2.py dry-run
+
+# Clean - execute cleanup (prompts for confirmation)
+python3 scripts/maintenance/cleanup-reading-docs-v2.py clean
+
+# Empty - find documents with no real content
+python3 scripts/maintenance/cleanup-reading-docs-v2.py empty
+```
+
+**When to run:** After bulk-importing new documents from web sources.
+
+**Document categories (14):**
+- abolition, arts-culture-music, contemporary-analysis, economic-alternatives
+- environmental-justice, feminist-theory, housing, international-solidarity
+- labor, notes, organizing, technology-digital-justice, theory, youth-student-organizing
 
 ## Landing Page System
 
