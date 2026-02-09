@@ -120,7 +120,6 @@ Herod, James. 2007. Getting Free: Creating and Association of Democratic Autonom
 
 Interesting. The same could be said about Mayday rituals here in the UK. Some elements of this particular text from 'greensyndic' parallel and could be contrasted with the efforts of the IWA- Solidarity Federation and the Angry Workers group in the UK neither of which however could claim any major advances in the direction recommended. Are there some objective
 
-## ![](_page_10_Figure_0.jpeg)
 
 ## Reddebrek
 

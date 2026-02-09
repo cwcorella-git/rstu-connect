@@ -106,7 +106,6 @@ Currently, the global economy emits roughly fifty-seven billion tons of CO2 per 
 
 ## 11
 
-## ![](_page_7_Figure_0.jpeg)
 
 Aware of these realities, the Adaptationists have concluded that the chances of reaching net zero amounts to, well, practically zero. And rather than adopt a politically dangerous or untenable target that could become a lightening rod for discontented radicals, they are trying to shift the policy focus toward dealing with the effects of warming, and the need for building resiliency. This perspective is presently expressing itself via important pro-corporate think tanks—perhaps a clear sign that CEOs are also thinking in similar terms. According to the World Economic Forum,
 

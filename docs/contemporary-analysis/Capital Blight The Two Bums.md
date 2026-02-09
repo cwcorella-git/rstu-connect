@@ -43,7 +43,6 @@ Deadly mining blast gets coal exec Don Blankenship a maximum prison sentence: On
 
 Donald Blankenship Sentenced to a Year in Prison in Mine Safety Case
 
-## ![](_page_2_Figure_0.jpeg)
 
 | , April 6, 2016 |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -96,9 +95,6 @@ Coal Companies' Secret Funding of Climate Science Denial Exposed
 
 ## Eco Watch
 
-## ![](_page_6_Figure_0.jpeg)
-
-## ![](_page_7_Figure_0.jpeg)
 
 , April 13, 2016 Peabody's Bankruptcy: A Giant Falls, But Its Obligations Remain - By Mary Anne Hitt, Eco Watch , April 13, 2016 Peabody's climate-denying crash is a warning to investors - By Megan Darby, Climate Change News , April 13, 2016 US coal giant Peabody Energy files for bankruptcy - By Cecilia Jamasmie, Mining. Com , April 13, 2016
 

@@ -1,10 +1,12 @@
 ---
-title: ''
+title: "A Declaration of the Independence of Cyberspace"
 author: "John Perry Barlow"
-date: 1994
+date: 1996
 category: theory
 tags:
-  - theory
+  - technology
+  - freedom
+  - internet
 ---
 
 

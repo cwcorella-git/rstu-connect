@@ -187,9 +187,6 @@ Workers in Pittsburgh and elsewhere are resisting calls to work in unsafe condit
 
 In Oakland, California in the bay area, port workers are threatening to walk off the job in response to unsafe and unsanitary working conditions. According to one report:
 
-## ![](_page_11_Figure_0.jpeg)
-
-## ![](_page_12_Figure_0.jpeg)
 
 ## In reply to Welcomebylibcom.org
 

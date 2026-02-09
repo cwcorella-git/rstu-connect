@@ -1255,7 +1255,6 @@ Judges in Krakow organized a protest against the "Muzzle law" on February 14, 20
 
 "I didn't anticipate my colleagues attending all the hearings and standing up for me in the disciplinary proceedings," remarked Judge 24, who was facing prosecution Judge 8 added, "Solidarity means that I sense the backing of the community Numerous individuals turned up for a disciplinary case in Wrocław, which is heartening The most disheartening
 
-## ![](_page_82_Figure_0.jpeg)
 
 FIGURE 6. "Today Tuleya, Tomorrow You" action on June 8, 2020, in 150 cities against the possible waiver of immunity for Igor Tuleya (the hearing before the Disciplinary Chamber was scheduled for the following day).
 
@@ -1497,7 +1496,6 @@ Festivals are also an example of what real citizenship education can look like
 
 It certainly cannot be static and textbook. I suspect that in a few years' time—as Polish schools will implement educational programs on the constitution, climate change, anti-discrimination, or sexual education—we will use models developed during the festivals. Workshops organized in sand, heat and dust become mini-laboratories for social change.
 
-## ![](_page_98_Figure_2.jpeg)
 
 ## FIGURE 16. Posters from the festivals
 
@@ -1561,8 +1559,6 @@ When foreign media comes they contact us by email. They don't want to talk to po
 
 Judges responsible for foreign media in Themis prepares analysis concerning the situation in the Polish courts They are written in English and are cited by foreign media
 
-
-## ![](_page_102_Figure_3.jpeg)
 
 FIGURE 19. Poster: Demand they return to work (list of prosecuted judges that were suspended from adjudicating)—protest on the 18th at 18:00
 
@@ -2362,7 +2358,6 @@ According to Article 21 of the Common Courts' System Act, the court's bodies are
 - 2 **For regional courts:** the president of the court, the board of the court, and the director of the court;
 - 3 **For courts of appeal:** the president of the court, the board of the court, and the director of the court
 
-## ![](_page_150_Figure_5.jpeg)
 
 ## FIGURE 21. Structure of the Judiciary in Poland
 

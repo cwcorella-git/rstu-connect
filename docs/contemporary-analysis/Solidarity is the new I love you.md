@@ -64,7 +64,6 @@ shipped out of in general. And it would be built now, in 2015, when |
 | and built in one of the most |
 | environmentally progressive states in the U. S. |
 
-## ![](_page_4_Figure_0.jpeg)
 
 | U. S.'s food supply |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

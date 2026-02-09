@@ -754,7 +754,6 @@ The distributional prole produced by C7 counts as Pareto-superior to that produc
 
 This method of comparison can also be represented graphically by means of curves, each of which represents the individual well-being scores, ordered by magnitude, a candidate is estimated to produce. These curves, which are steadily rising toward the right, are standard-
 
-## ![](_page_66_Figure_5.jpeg)
 
 Figure 3.1. Distributional Proles Represented Graphically ized so that their width is equal, irrespective of how many individuals would come to exist under each candidate social order. (Each hundredth of this width represents one percentile of the population.) In superimposing any two such curves upon each other, if one is above the other at some points and below at none, then the candidate associated with the former must be ranked above the candidate associated with the latter. Alternative social orders are compared via their standardized distributional proles.
 
@@ -1156,7 +1155,6 @@ Based on these empirical facts and estimates, the difference principle would sel
 
 Rawls proceeds from the assumption that practicable designs of socioeconomic institutions are related to one another in something
 
-## ![](_page_126_Figure_2.jpeg)
 
 Figure 6.1. Impact of Inequality on the Lowest Index Position like the way represented in the table. Through gradual modication, perhaps of tax rates, the design can be continuously adjusted and ought then to be shaped so as to optimize the economic distribution, that is, so as to raise the lowest absolute index position as high as possible. Rawls expresses this idea in a diagram (Figure 6, TJ 66), which I reproduce here (gure 6.1), slightly modied for greater generality.
 
@@ -1190,7 +1188,6 @@ There is another way in which such decisions could affect different strata of so
 
 Here we run up against a more general problem. The alternative practicable designs of socioeconomic institutions need not lie on a continuum of the kind suggested by the previous diagram. There may be discontinuities, for instance, across different economic systems or across distinct methods of taxation. As discussed in section 6.6, Rawls believes that his public criterion of justice might be satisfied by either a property-owning democracy or liberal socialism, and he suggests entrely replacing income taxes by consumption taxes. In our simple example of an island society, we compared only socialist institutional
 
-## ![](_page_131_Figure_2.jpeg)
 
 Figure 6.2. Impact of Different Ways of Instituting Inequality on the Lowest Index Position designs, in which the total social product is distributed to the producers rather than also to owners of land, buildings, and machinery. Were we to take capitalist institutional designs into account as well, we might arrive at a more complicated diagram, one with several bell curves, such as in Figure 6.2.
 

@@ -198,7 +198,6 @@ A now practice, abolition feminism refuses to let go of the visionary—that whi
 
 Abolition feminism is our political moment. After the racist execution carried out in Minneapolis, Minnesota, by uniformed representatives of state power and recorded on cell phones by bystanders, the name of George Floyd echoed around the world. How also to echo the murders and ongoing assaults on Asian and Asian American women, or the violent arrests of Black trans peo-
 
-## ![](_page_32_Figure_1.jpeg)
 
 Demands put forward in 2020 by the #8to Abolition campaign, aimed toward dismantling systems of state violence.
 
@@ -216,7 +215,6 @@ While all of us have been involved in many such cases, the temporalities of our 
 
 The title of our book—Abolition. Feminism. Now.—reflects these feminist theories and practices in many parts of the world that acknowledge, like Sisters Uncut, the Ce Ce Mc Donald cam-
 
-## ![](_page_36_Figure_1.jpeg)
 
 Artwork by Micah Bazant, created in 2013 as part of the campaign to free Ce Ce Mc Donald.
 
@@ -250,7 +248,6 @@ Abolition requires profound shifts in how we organize against oppression and wha
 
 # Introduction sterilization or gender assignment surgery and from repressive regimes of surveillance, control, and punishment. Importantly, while the urgency—the now—is animated by the murders of George Floyd, Breonna Taylor, and Marielle Franco, the rich legacy of abolition feminist organizing shapes today's struggles and reminds us of the slow work, in always urgent times, of building flourishing communities for the long haul.
 
-## ![](_page_43_Figure_0.jpeg)
 
 # MARIELLE PRESENTE
 
@@ -274,7 +271,6 @@ During the time Angela Davis spent in the House of D., as it was nicknamed, supp
 
 The collective practices established by people inside and outside of the House of D. emerged from the tools and resources at hand—voices, people, money raised. While not explicitly named as abolitionist or often even as feminist, these collective practices are nevertheless important elements in the genealogy of abolition feminism. While bail funds had been created for political prisoners like H. Rap Brown, most incarcerated people did not have access to these networks. However, as far as we can determine, the campaign at the House of D. was one of the earliest instances of bail campaigns for people with no public profile—like the contemporary Black Mamas Bail Out Action and the emergence of grassroots bail bond funds across the United States.4 The establishment of bail funds, the communication networks developed from shouting up to cell windows from the street, and the willful and collective refusal by those inside and outside to acquiesce in the isolation en-
 
-## ![](_page_47_Figure_2.jpeg)
 
 Black Mamas Bail Out Action image designed by Micky Jordan for Mother's Day in 2019.
 
@@ -300,7 +296,6 @@ These ideas were taken up in the 1970s by the Santa Cruz Women's Prison Project,
 
 Abolitionist ideas about democracy, freedom, safety, and justice continued to percolate throughout the following decades, even as demands for substantive reform gave way to calls for increasingly punitive strategies often couched in the very reforms designed to render incarceration more humane. Almost twenty-five years after the demolition of the House of D., when the establishment of these early, site-specific forms of resistance-including grassroots bail funds—were largely forgotten, abolition as an idea was revivified by the 1998 conference "Critical Resistance: Beyond the Prison Industrial Complex." Drawing from earlier lineages, this convening offered abolitionism as a twenty-first-century strategy for addressing not only the staggering rise in the numbers of incarcerated people in the US but also increasingly in Europe, Australia, Africa, and South America. In the fall of 1996, Cassandra Shaylor, then a graduate student in History of Consciousness at UC Santa Cruz (UCSC) and an attorney for incarcerated women, and Angela Da-
 
-## ![](_page_52_Figure_0.jpeg)
 
 Poster featuring artwork by Rupert Garcia, created for the 1998 Critical Resistance conference.
 
@@ -382,7 +377,6 @@ Despite its necessary focus on humanizing the Black subjects who abolished slave
 
 From a collective reading of *Black Reconstruction*, we are led to reexamine the post-civil rights era, an era in which the dramatic rightward turn of the prison-building period bears a relationship to the demise of Radical Reconstruction. That relationship
 
-## ![](_page_72_Figure_0.jpeg)
 
 Poster created in 2010 by Alexander Dwinell and Sanya Hyland commemorating the 1973 Walpole Prison uprising.
 
@@ -453,7 +447,6 @@ Abolition feminism explicitly rejects state attempts to mobilize vulnerability a
 
 This poster is a tool to assess and understand differences between reforms that strengthen may isomerous and about tensions retreated the reducer is overall impact and grow other possibilities for well-being. As we work to dismantle incaccination in all its forms, we must resist dominant ordinary that create or expand eagles anywhere, including under the guess of "addressing needs" or acquiting needs or acquiting resistance in a particular respective common stress of resources. See indication, and and mounting, in our applies, in a critical to uplik and strategically contribute to movements led by impressing people, both to eddress pressing conditions and for abolition. In all decisioned, on strategies, we must utilize textics that we improve the for mose
 
-## ![](_page_84_Figure_2.jpeg)
 
 A poster designed by Shana Agid for Critical Resistance in 2018 to analyze differences among reforms (see appendices for full text).
 
@@ -568,7 +561,6 @@ legacy of Black lesbians and the contributions of other feminists of color who h
 
 The mere idea of the Color of Violence conference ignited an infectious energy. This enthusiasm made it clear that women of color had yearned for years for such a space and were ready to propel the work forward based on the mandates of abolition feminism. Women of color across the country and from beyond US borders went to great lengths to attend, including pooling scarce resources, arranging for coverage at home, and driving for days to reach California. Originally planned for two hundred participants, the first Color of Violence conference ultimately drew one thousand people. Another thousand people who wanted to attend were turned away for lack of space. To address the historical legacy of racism within the anti-violence movement, strong measures were taken to ensure that this time, the conversations would proceed differently. The conference allowed only a small number to attend who were not women of color; others who participated were required to sponsor attendance for women of color, encouraged not to dominate the main sessions, and instructed not to participate in the strategy sessions unless specifically invited to do so. This was more than a series of symbolic gestures. It solidified the insistence that the work of INCITE! would not be concerned with negotiation, appeasement, or even with challenging mainstream
 
-## ![](_page_103_Figure_0.jpeg)
 
 Dandelions & Butterflies by art twink made in collaboration with Jennicet Gutiérrez and Forward Together for Trans Day of Resilience, 2018.
 
@@ -590,7 +582,6 @@ all its varied forms—INCITE! also confronted harm within its own ranks and str
 
 We situate INCITE! within a genealogy of abolition feminism because it signals how radical feminists of color have historically troubled gender essentialism, forging over time a collective political consciousness of gender violence as always also shaped by racism, class bias, transphobia, heterosexism, and so on. This genealogy resists mainstream histories of anti-violence movements that continue to center whiteness and carceral responses. While it is true that a major catalyst for the late 1960s women's movement was the recognition of the ubiquity of physical and sexual abuse of women within circles that had previously demanded their silence, there is a long history of work against sexual abuse and gender violence more broadly linked to what we now recognize as Black feminist activism. The fact that the US anti-violence movement is often conventionally periodized in connection with the 1966 founding of the National Organization for Women (NOW) and the later creation of a NOW task force on rape, erases signal contributions of women of color. While gender violence has always crossed borders of race and class, the speakouts and consciousness-raising sessions (the strategy of encouraging women to publicly reveal violence within intimate relationships that they had previously kept secret) that attempted to break the silence regarding rape and domestic violence were primarily associated with white feminism. To be sure, these teach-ins, speakouts, and consciousness-raising sessions were radical political acts. But women of color, white working-class women, and others with a more expansive political consciousness insisted on making important linkages to antiracism, reproductive justice, anti-imperialist campaigns, labor movements, and other social justice struggles. For example, radical white women activists who were part of Santa Cruz Women Against Rape released the 1977 "Letter to the Anti-Rape Movement," which stated that
 
-## ![](_page_108_Figure_0.jpeg)
 
 Third World Women's Alliance newsletter, Triple Jeopardy, 1971.
 
@@ -842,7 +833,6 @@ From the belly of the colonial beast, Sisters Uncut stands in solidarity with th
 
 Abolition feminism requires a respect for movements toward self-determination, recognizing forms of oppression across borders as an important context for redefining both anti-violence work and freedom.44
 
-## ![](_page_138_Figure_0.jpeg)
 
 In 2013, the Chicago Alliance to Free Marissa Alexander used this image by Molly Crabapple in their efforts to support and free Marissa Alexander, a mother who was criminalized and imprisoned for defending herself against her abusive husband. After Marissa reached a plea deal in 2015, CAFMA transitioned into Love & Protect.
 
@@ -852,7 +842,6 @@ In 2013, the Chicago Alliance to Free Marissa Alexander used this image by Molly
 
 It is April 10, 2020, and ample early spring sunshine across meadows almost obscures the reality: this is a car caravan circling a prison during a pandemic. Almost one month into the statewide "shelter in place" order in Illinois-before George Floyd, before Breonna Taylor, before Tony Mc Dade—and with twelve COVID-19 related deaths reported, Stateville prison in Crestville is a national hot spot, like many other prisons across the country. The National Guard is overseeing medical services, masks and hand sanitizer are scant, and people inside are on 24hour lockdown. As the virus accelerated in early spring 2020 with increased infections and reports of death, family members, loved ones, and grassroots community-based organizations moved with urgency to push for people's release. Despite demands for furlough, compassionate release, and clemency, no one from this maximum-security prison for people the state designates as men, with a population of approximately 3,500 people, has been released. While COVID-19's lethality in confined spaces reportedly led to action in other places-Indonesia, Iran, and India-
 
-## ![](_page_140_Figure_0.jpeg)
 
 Untitled by Joseph Dole. A writer, artist, and activist, Joe is one of the first incarcerated people in the state of Illinois to earn an undergraduate degree in decades, which he completed in 2018. He is also the cofounder of Parole Illinois and a member of the Prison + Neighborhood Arts / Education Project.
 
@@ -978,7 +967,6 @@ This moment offers another reminder both that our organizing must take on questi
 
 As Van Dyke's trial approached in 2018, the critical dialogues of grassroots networks sometimes crept into mainstream media outlets around questions such as: Will prosecution of one cop really help to end racist police violence? This question in turn spurred dialogue: But isn't it important for people to see that the police are not above the law? If we don't prosecute, what other ways do we have to hold him, and the police, accountable? Tensions flared about tactics for accountability, particularly between younger, queerer communities that
 
-## ![](_page_166_Figure_0.jpeg)
 
 Cover by Jett George of a pamphlet distributed by Survived & Punished in 2021.
 
@@ -1000,7 +988,6 @@ In the fall of 2018, in a courthouse packed with uniformed officers and surround
 
 Not long after the trial concluded and after the largest closure of public schools in any district in the world, Chicago accelerated its plan to build a new ninety-five-million-dollar police training academy.47 On the heels of this verdict, when the vision and practice of safety was actively being reenvisioned and policing denaturalized, the #nocopacademy campaign and coalition emerged to challenge the building of this expensive state-of-theart training academy. The #nocopacademy campaign produced savvy political educational materials, orchestrated creative direct actions, and did the everyday hard work of political education—on public transit, in neighborhoods, and across social media-about how the ninety-five million dollars earmarked for the new academy could be invested to really make communities-particularly Black and brown neighborhoods-safer. The Coins, Cops, and Communities Toolkit produced by this campaign made visible the deep asymmetries and ethical dimen-
 
-## ![](_page_172_Figure_0.jpeg)
 
 Cover of AFSC's *Coins, Cops, and Communities Toolkit*, designed by Nicole Trinidad in 2016.
 
@@ -1028,7 +1015,6 @@ In this ecology of abolition feminism, the slow and urgent time of movements mea
 
 Organized forgetting and erasure is not the only challenge. Many of these small networks fracture as a result of pressure from funders and others to expand, "scale up," "streamline," or "brand," or to provide a service rather than organize, focus on policy work not base building, elevate a single charismatic leader/director instead of a collective, network with legislators not ordinary people. Successful organizing that mobilizes people and makes effective demands on the state is sometimes coopted and absorbed because of the carceral state's ability to "beckon accommodation or conjure disappearance out of every progressive impulse."55 The Chicago Police Department even has an Office of Restorative Justice Strategies, complete with its own Twitter feed. 56 Cooptation can mean professionalization, intimately tethered to whiteness, and the disqualification of those who have been doing this work effectively without credentials or pay and the reformation of movements and mutual aid into social service agencies and charities. Professionalization can also individuate by rejecting collectives and community, commodifying and privatizing skills, knowledges, and sometimes histories. For example, since paid employment has opened up for restorative justice
 
-## ![](_page_178_Figure_0.jpeg)
 
 Poster illustrated by Monica Trinidad announcing a series of abolitionist events in Chicago in 2017.
 

@@ -299,7 +299,6 @@ After delivering the speech, King and the marchers approached the entrance to th
 
 Later that night, [Viola Liuzzo,](https://en.m.wikipedia.org/wiki/Viola_Liuzzo) a white mother of five from Detroit who had come to Alabama to support voting rights for blacks, was assassinated by [Ku Klux Klan](https://en.m.wikipedia.org/wiki/Ku_Klux_Klan) members while she was ferrying marchers back to Selma from Montgomery. Among the Klansmen in the car from which the shots were fired was FBI informant [Gary Rowe.](https://en.m.wikipedia.org/wiki/Gary_Thomas_Rowe_Jr.) Afterward, the FBI's [COINTELPRO](https://en.m.wikipedia.org/wiki/COINTELPRO) operation spread false rumors that Liuzzo was a member of the [Communist Party](https://en.m.wikipedia.org/wiki/Communist_Party_USA) and had abandoned her children to have sexual relationships with African-American activists.[\[102\]](https://en.m.wikipedia.org/wiki/Selma_to_Montgomery_marches#cite_note-102)
 
-## ![](_page_22_Figure_2.jpeg)
 
 Map showing Selma to Montgomery march route in March 1965
 

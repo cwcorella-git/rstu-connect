@@ -892,7 +892,6 @@ I s pr w v ud y r yps bussss—ps rprss, wrkr-wr prv rprss, d s rprss. I , br wr
 
 T Dvrs Erprs Idr b usd dsgus rg dr kds rprs, w s w wy rgzg surpus prdu, pprpr, d dsrbu. T Idr uds wdr rg rprss w v dsussd, udg ud d sv rprss, s-mpyd bussss, d s-ru rprss. As w sd rr, s rprss r dsrb; dd, w wud w s sm smpd u bus r m-
 
-## ![](_page_97_Figure_2.jpeg)
 
 dus prd s mmz survv pyms r wrkrs d xr s mu w s pssb r wrs.
 
@@ -1023,7 +1022,6 @@ I ur gby d wrd, rg prpr prdus w sum ms rm gr ds. Bu w w qur w w d rm ds rs v mrk
 
 Sy w g brg by buyg suprp -sr r pr jggg ss. W'r prbby kg bu svgs s w mk ur prs r usd budg. Prps ur ms mmd survv ds r bg ddrssd, w w ms rpg ur r
 
-## ![](_page_110_Figure_5.jpeg)
 
 s r wr-u ss. Or prps s psyg d sp gd drvs us dd rdy vr dd wrdrb. Wvr su- , y g w'r kg bu s pr g. I's rd s wy rm psur gd brg k bu w s bd s pr.
 
@@ -1196,11 +1194,9 @@ T suppy ggs mpxy vvd gg my prdus ds sumrs—rm surg d rg rw mrs ssmbg s mp prs s
 
 #### Supp Cain
 
-## ![](_page_119_Figure_6.jpeg)
 
 #### Distant Others Dandelion for Conflict Minerals
 
-## ![](_page_120_Figure_1.jpeg)
 
 Demand does indeed stimulate supply. But what else does our demand stimulate? Let's take another look at one of the links on our Distant Others Dandelion and identify just a few of the raw materials that were used in the mobile phone that was assembled in China (and was one of the products in Katherine's Where From? Inventory).
 
@@ -1220,7 +1216,6 @@ mrs gy (w xs pd Cgs gvrm) bu sp ms gy rss brdrs gbrg urs. Frm r mrs r gb suppy ,
 
 #### moie Pone Supp Cain wi Confic mineras Coponen in Saded bo
 
-## ![](_page_122_Figure_1.jpeg)
 
 Ts xmp sws w mrk suppy prvds ym y. W sg w r sp rmvd rm s bd d v r pr sy w mb p. Apr rm buyg w mb p, mg sm r s w d. Bu g s , w rg rs wrkg vs sm w mrs rs dusry. Ers ud UN rsu g dusry d gvrm k sps kp mrs u suppy d vury dusry prgrms su s j Er Idusry Czsp C® (EICC) d Gb -Susby Iv's (GSI's) prgrm ssss surs mrs r bg rd by smrs suppy . Tr s s Eug Prj's sysm rg w w rs mps r ddrssg ssu mrs—d urs w us s rm s sumrs w w'r ddg rs prdu. Ts vs kp mrs u suppy v b mvd by Kmbry Prss, r r prgrm ud 2003 kp "bd d mds" r " dmds" rm rg gb dmd suppy . Lk vs mrs, Kmbry Prss m bu rug mbd rs gvrm, dusry, d gvrm rgzs.
 
@@ -1744,7 +1739,6 @@ L's k m–Prpry Ggrpy r- up— B, mr, d s w, Su, w s urs. B's vs r rrdd bk d Su'
 
 ## Time–Property Geographies for Bill and Sue
 
-## ![](_page_158_Figure_1.jpeg)
 
 prur dy , Su, d r dr v my dr b ub. W y rur m, B d dr w vs v pub brdsr, w Su ds r r g s sp. O s prur dy, Su mgd squz w urs sp r s k kds s d vurd r ur ss rdg prgrm d ur s k grd. W s ws vr r dy, Su m
 
@@ -1867,7 +1861,6 @@ Agrms r rd r prpry pr s sp srv vu, wr prg wr qu y qurs d wrsds, mg s vss, sbsg r
 
 grzg r prpry, Av, brgw srub r Qusd 1930s. As Ausr's s rrs, brgw ury s vs rg ppud by rdy buss v prvd prury rss rg r psurd. Lrg-s d rg dd k p u dsrdd rmy ks d Br Gu Crrrs vr rm Wrd Wr II wr urd budz rs drggg r s ud rp u srub vs rs. By 1970s, ms brgw srub d b "qurd." I
 
-## ![](_page_163_Figure_7.jpeg)
 
 r yrs, grr s udrsdg r srub pys mg s ry d rdug wr ru d s sg s dgrd g mmuy 2001.
 
@@ -1943,7 +1936,6 @@ by  Spr
 
 rdu r ms, sjks wr ug b x u- sm ppu ws dsvrd 1973. W gg 1990s d ry 2000s, w Av Nur Rsrv ws sbsd d sjks wr rs rsd.
 
-## ![](_page_166_Figure_4.jpeg)
 
 I wud b k uur sjk mms s sur, bu vr r d sur Qusd, s my r rs rur Ausr, w rm sur s gd. Bus rg xpr r mrs d gs rsds y prv, pub, r vy wd sur prpry rg, uur my sps d sysms s urry bg rd by sm gs dusry. Frmrs d r dwrs r kd b kp gs drg r prprs. Ad my rmrs w v wd gs xr r w up rms bu pu r grudwr supps, ruk r rug r prprs, d r zrds. T Fsjk Cmms Yrdsk ps s r r ur vrm x. W yp uur s s rm rsur xr rg r grs m?
 
@@ -1953,7 +1945,6 @@ W xps rm s rdy vb Ir d rpd p s, md, d g d vpms, ssu u prpry (IP) d "wrsp" s mms 
 
 Ts prpry rgs r jusd bss r d v w k p y s dg s wrk r dquy prd rm r rdrs—s w wud prmury k d pr rm rs' wrk. Bu r r rs dvpms IP pr r gg w byd dqu pr r rrs wrd bsu pr- . Mr d mr m, rgy, d my r bg sp sbsg d rg IP d ss d ss vg d rg. I dd, mr d mr "dwsrm" rrs r bg symd d drrd by k pr. Ovr, s ms sy s pyg s IP— rms b ss rs w v d s rg rs.
 
-## ![](_page_167_Figure_6.jpeg)
 
 Hw d w u r my rs md bud xsg u mms, w my mds vr m v prdud? Muss rm k rss k Wdy Gur p-p rss k DJ Spky (Pu Mr) xpy kwdg r mus s pssb y bus rbus rr mus s. T rsk w vry prv IP pr s ds db rrs w rbus rs r d r mms.
 
@@ -1971,11 +1962,9 @@ k, r xmp, CFCs (rurrbs), w wr vd 1920 d bm wdy usd r drs, rrgrrs, d rss u r us w
 
 Cry w kw w uur w d, bu w ry mk ssssms bsd srs rd by sss w wrk m g. My v mmrs r vd ums d wrry bu gb wrmg, ur vvss s, ps, vrm grv gs k gb d d srgs d r mum bugs d ur w rs. Sm sy ws rs ( dd r) w sury b vrm by wz-bg g xs—ur pwr r ggrg d mspr ds. Ivrby, w s yps sus r pu rwrd, gd s d wys r "busss s usu" u. T us ss y vrus xs, d w s ppruy r wr p sus busss s usu r w xs r w vby w r mms.
 
-## ![](_page_169_Figure_6.jpeg)
 
 W ur Cmms Yrdsk md, prps w mr ry dy ssus d m rms r us. O Amspr Cmms Yrdsk w dy 1860s s prd rm w vrg mprurs v b rsg svr dgrs Fr. I ws u 1950s sss srd sysmy sudy gb wrmg (pd by rsd U. S. gvrm udg ss bus d wr). Ev ug s vd ws mu g, ws ms w grs r, 1997, Ky Pr ws sgd by ms mry-wrd gvrms, grg rdu grus gs msss 5.2 pr bw 1990 vs r prd 2008–2012. yrs r , 2007, Nb P Prz ws wrdd jy Irgvrm P Cm Cg
 
-## ![](_page_170_Figure_4.jpeg)
 
 d A Gr r r rs grg d dssmg kwdg bu um dud m g.
 
@@ -2267,7 +2256,6 @@ L's rur smp d ur my s mmuy grd ws prsd Irdu. W surs uur s grd—d my r grds rss 
 
 Ms dusr gruur grs umu sd s qu, ryg mr d mr m pus m s r y d grg r dsrdg p-bsd kwdg rm rs bud up vr grs. T g-rm s dp s sruur g w rd kw-w—d umy ss rb d d uurs swrdsp. By rs, sysms k prmuur d grgy r ry dr ppr. W y prdu d sump, mps s ddd s d rmrs
 
-## ![](_page_189_Figure_0.jpeg)
 
 rs r udrsdg w r susby w ps, ms, ss, s, d wr. Dpdg r's by suppr mr d grup's by gvr s susby, grd r grw mr d d k mr mmbrs r m s sdy s, s sw rby gur.
 
@@ -2289,7 +2277,6 @@ Our by vs uur s sy kd d s udr w w v dy. W r s d squrr wy uds r uxpd prs mrgs d w
 
 As w sw pr 2, pub gds su s rspr rsru ur d s srvs su s r prvd dr subsdy r survv pp. Pub vsm s rs buds up
 
-## ![](_page_191_Figure_0.jpeg)
 
 sk s mms. O s v bs w wrk rd sv r ur w uurs, umu prs s, d rbu uds uurs rs.
 

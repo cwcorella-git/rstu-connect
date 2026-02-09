@@ -6,7 +6,6 @@ tags:
   - anarchism
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 A Revolutionary Approach to Love, Intimacy, and Connection.
 

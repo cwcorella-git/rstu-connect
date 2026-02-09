@@ -53,7 +53,6 @@ The capitalist landlord will attempt to justify their profits as a result of the
 
 ## Press enter or click to view image in full size
 
-## ![](_page_6_Figure_5.jpeg)
 
 The reality is that the vast majority of each rent payment is pocketed as profit, not a small or negligible amount as is usually assumed. Some of it is profit for the bank instead of the landlord, and some is collected as equity instead of literally flowing in as cash. No matter where it goes or in what form, it should be resisted.
 

@@ -117,7 +117,6 @@ opposites, but with the possession of a moderate amount. |
 | Opulence |
 | is a dignified and strong word for |
 
-## ![](_page_6_Figure_0.jpeg)
 
 endless consumption, necessarily resulting in lives of varying degrees of hell for those that deviate from the ideals of white patriarchal capitalism (read: constant exposure to premature death).
 
@@ -263,7 +262,6 @@ We in the working classes, the survival classes, often think art-making is only 
 
 Who benefits from those beliefs?
 
-## ![](_page_17_Figure_0.jpeg)
 
 | February of 2024 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -357,7 +355,6 @@ Art-making: not as a leisure activity, solely or simply an expression of self, b
 
 What are our usable truths? the truths we might use to swing the pendulum? the truths which orient ourselves to believe in our agency more than we believe in the inevitability of suffering death? why do we believe that it is okay for art to sell us narratives of gods among men? why do we think we cannot ask or expect anything of our culture-makers?
 
-## ![](_page_23_Figure_3.jpeg)
 
 the divinity\* of creation,
 

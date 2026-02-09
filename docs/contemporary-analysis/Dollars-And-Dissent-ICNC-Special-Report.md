@@ -193,7 +193,6 @@ Social movements are often comprised of multiple entities, which can include stu
 
 Figure 1 details trends in human rights funding from 2011 to 2015, categorized by the social change strategy that the grantee implemented to achieve the grant's goals Grants can be tagged with multiple strategies Thisgure from the Foundation Center and Human Rights Funders Network's 2011–2015 trends in global foundation grantmaking report, which oers the most comprehensive, comparable data available of institutional donor support in the 21st century for human rights, democracy, and social justice goals 2 The present report oers deeper analysis of 2011–2015 trends an extends its analysis through 2018 using newly collected survey data, in-depth interviews, and two case studies
 
-## ![](_page_12_Figure_1.jpeg)
 
 FIGURE 1. Trends in Donor Support for Grassroots Organizing and Other Social Change Strategies, 2011–2015, based on research by Candid and Human Rights Funders Network
 
@@ -811,7 +810,6 @@ Moreover, movement lifecycles are not linear "Mobilizations are easy to spot dur
 
 Figure 2 depicts common phases of a movement's lifecycle In the early stages of a movement, when anger in society is growing but before it reaches the news headlines, it may be challenging for donors to identify organizers and movement leaders But it is in these
 
-## ![](_page_63_Figure_3.jpeg)
 
 ## FIGURE 2. The Movement Lifecycle
 

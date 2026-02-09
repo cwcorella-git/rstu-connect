@@ -76,4 +76,3 @@ There is a lot more in the book, which brings the story of the Dust Bowl and its
 
 Dunbar-Ortiz, R.
 
-## ![](_page_5_Figure_0.jpeg)

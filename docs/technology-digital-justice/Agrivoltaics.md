@@ -9,26 +9,26 @@ tags:
 ---
 
 
-**Agrivoltaics** (also called **agrophotovoltaics**, **agrisolar**, or **dual-use solar**) is the dual use of land for [solar energy](https://en.wikipedia.org/wiki/Solar_energy) and [agriculture](https://en.wikipedia.org/wiki/Agriculture). [\[2\]](#page-6-1)[\[3\]](#page-6-2)[\[4\]](#page-6-3)
+**Agrivoltaics** (also called **agrophotovoltaics**, **agrisolar**, or **dual-use solar**) is the dual use of land for solar energy](https://en.wikipedia.org/wiki/Solar_energy) and [agriculture](https://en.wikipedia.org/wiki/Agriculture). [\[2\]\[3\]\[4\]
 
-Many agricultural activities can be combined with solar, including [crops,](https://en.wikipedia.org/wiki/Crop) [livestock](https://en.wikipedia.org/wiki/Livestock), [greenhouses](https://en.wikipedia.org/wiki/Greenhouse), and [wild plants](https://en.wikipedia.org/wiki/Wild_plants) to support [pollinators.](https://en.wikipedia.org/wiki/Pollinator) [\[5\]](#page-7-0) Agrivoltaic systems can include [solar](https://en.wikipedia.org/wiki/Solar_panels) [panels](https://en.wikipedia.org/wiki/Solar_panels) between crops, elevated above crops, or on greenhouses.
+Many agricultural activities can be combined with solar, including crops,](https://en.wikipedia.org/wiki/Crop) [livestock](https://en.wikipedia.org/wiki/Livestock), [greenhouses](https://en.wikipedia.org/wiki/Greenhouse), and [wild plants](https://en.wikipedia.org/wiki/Wild_plants) to support [pollinators.](https://en.wikipedia.org/wiki/Pollinator) [\[5\] Agrivoltaic systems can include [solar](https://en.wikipedia.org/wiki/Solar_panels) [panels](https://en.wikipedia.org/wiki/Solar_panels) between crops, elevated above crops, or on greenhouses.
 
-Solar panels help plants to retain moisture and lower temperatures[\[6\]](#page-7-1) and can provide shelter for livestock. Dual use can diversify farmers' income.
+Solar panels help plants to retain moisture and lower temperatures\[6\] and can provide shelter for livestock. Dual use can diversify farmers' income.
 
 
 [Vertical](https://en.wikipedia.org/wiki/Solar_panel#Vertical_bifacial_solar_array) solar panels, east to west orientation, with bifacial [modules](https://en.wikipedia.org/wiki/Bifacial_solar_cells) near [Donaueschingen,](https://en.wikipedia.org/wiki/Donaueschingen) Germany.
 
-Solar panels block light, which means that dual use systems involve trade-offs between [crop yield,](https://en.wikipedia.org/wiki/Crop_yield) crop quality, and energy production.[\[7\]](#page-7-2) Some crops/livestock benefit from the increased shade, obviating the trade-off,[\[8\]](#page-7-3) such as green leafy vegetables, spices such as turmeric and ginger, whereas staple crops such as wheat, rice, soybeans or pulses require more sun.[\[9\]](#page-7-4)
+Solar panels block light, which means that dual use systems involve trade-offs between crop yield,](https://en.wikipedia.org/wiki/Crop_yield) crop quality, and energy production.[\[7\] Some crops/livestock benefit from the increased shade, obviating the trade-off,\[8\] such as green leafy vegetables, spices such as turmeric and ginger, whereas staple crops such as wheat, rice, soybeans or pulses require more sun.\[9\]
 
 The concept relies on the fact that some crops benefit from reduced sunlight. The light saturation point is the maximum amount of photons absorbable by a plant: more photons do not increase the rate of [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis) (see also [photorespiration\)](https://en.wikipedia.org/wiki/Photorespiration).
 
-The technique was conceived by [Adolf Goetzberger](https://en.wikipedia.org/wiki/Adolf_Goetzberger) and Armin Zastrow in 1981.[\[10\]](#page-7-5)
+The technique was conceived by Adolf Goetzberger](https://en.wikipedia.org/wiki/Adolf_Goetzberger) and Armin Zastrow in 1981.[\[10\]
 
 # **Terminology**
 
 In Europe and Asia, where the concept was pioneered, the term *agrivoltaics* is applied to dedicated dual-use technology, generally a system of mounts or cables to raise the solar array some five metres above the ground in order to allow access by farm machinery, or solar paneling on the roofs of [greenhouses.](https://en.wikipedia.org/wiki/Greenhouse)
 
-The concept was called "agrophotovoltaics" in a German report,[\[11\]](#page-7-6)[\[12\]](#page-7-7) and a term translating as "solar sharing" has been used in [Japanese](https://en.wikipedia.org/wiki/Japanese_language). [\[13\]](#page-7-8)
+The concept was called "agrophotovoltaics" in a German report,\[11\]\[12\] and a term translating as "solar sharing" has been used in Japanese](https://en.wikipedia.org/wiki/Japanese_language). [\[13\]
 
 By 2019, some authors had begun using the term *agrivoltaics* to include any agricultural activity among solar arrays, including conventional solar arrays not originally intended for
 
@@ -66,46 +66,46 @@ Most conventional systems install angled solar panels on greenhouses, [22] above
 Vertically mounted systems with bifacial modules can be installed on fences or on separate supports. One module is typically mounted between fenceposts. The yield for a vertical south-facing panel is 76%, often yielding a lower levelized cost. One study reported that microinverters had better performance when the cross-over fence length was
 
 
-## Tomatoes under solar panels in Dornbirn, Austria under 30 meters or when the system was small, whereas [string inverters](https://en.wikipedia.org/w/index.php?title=String_inverters&action=edit&redlink=1) were better for longer fences.[\[25\]](#page-9-0) A simulation study reported that the distance between module rows significantly affects panel output.[\[23\]](#page-8-6) Open-source wood-based racking constructed from sustainable materials can be made with hand tools. The racks offer a 25-year lifetime to match the panels and can weather high wind speeds and heavy snow loads.[\[26\]](#page-9-1)
+## Tomatoes under solar panels in Dornbirn, Austria under 30 meters or when the system was small, whereas string inverters](https://en.wikipedia.org/w/index.php?title=String_inverters&action=edit&redlink=1) were better for longer fences.[\[25\] A simulation study reported that the distance between module rows significantly affects panel output.\[23\] Open-source wood-based racking constructed from sustainable materials can be made with hand tools. The racks offer a 25-year lifetime to match the panels and can weather high wind speeds and heavy snow loads.\[26\]
 
 #### **Integrated**
 
-An integrated system that utilizes a [hydrogel](https://en.wikipedia.org/wiki/Hydrogel) can work as an [atmospheric water generator](https://en.wikipedia.org/wiki/Atmospheric_water_generator), condensing water vapor at night for irrigation or to cool the panel.[\[27\]](#page-9-2)[\[28\]](#page-9-3)
+An integrated system that utilizes a hydrogel](https://en.wikipedia.org/wiki/Hydrogel) can work as an [atmospheric water generator](https://en.wikipedia.org/wiki/Atmospheric_water_generator), condensing water vapor at night for irrigation or to cool the panel.[\[27\]\[28\]
 
 #### **Dynamic**
 
-The earliest agrivoltaic system was built in Japan using panels mounted on thin pipes on stands without concrete footings. This system was dismountable and lightweight, and the panels can be moved or adjusted across the seasons. Wide spacing reduced wind resistance.[\[13\]](#page-7-8)
+The earliest agrivoltaic system was built in Japan using panels mounted on thin pipes on stands without concrete footings. This system was dismountable and lightweight, and the panels can be moved or adjusted across the seasons. Wide spacing reduced wind resistance.\[13\]
 
-Alternatively, a sun tracking system can automatically optimize the orientation of the panels to emphasize agricultural production or electricity production.[\[29\]](#page-9-4)
+Alternatively, a sun tracking system can automatically optimize the orientation of the panels to emphasize agricultural production or electricity production.\[29\]
 
-In 2004 Czaloun proposed a tracking system with a rope rack. Panels can be reoriented. The first prototype was built in 2007 in Austria.[\[30\]](#page-9-5) REM TEC deployed plants equipped with dual-axis tracking systems in Italy and China. They have developed an equivalent system for greenhouses.[\[31\]](#page-9-6)
+In 2004 Czaloun proposed a tracking system with a rope rack. Panels can be reoriented. The first prototype was built in 2007 in Austria.\[30\] REM TEC deployed plants equipped with dual-axis tracking systems in Italy and China. They have developed an equivalent system for greenhouses.\[31\]
 
-Sun'R and Agrivolta are developing [single-axis tracking systems](https://en.wikipedia.org/wiki/Single-axis_tracker) incorporating plant growth models, weather forecasts, calculation and optimization software. The Agrivolta device is equipped with southfacing panels that can be removed by a sliding system.[\[32\]](#page-9-7) A Japanese company developed a separate tracking system.[\[33\]](#page-9-8)
+Sun'R and Agrivolta are developing single-axis tracking systems](https://en.wikipedia.org/wiki/Single-axis_tracker) incorporating plant growth models, weather forecasts, calculation and optimization software. The Agrivolta device is equipped with southfacing panels that can be removed by a sliding system.[\[32\] A Japanese company developed a separate tracking system.\[33\]
 
-Insolight is developing translucent modules with an integrated tracking system that allows the modules to remain static. The module uses lenses to concentrate light onto the panels and a dynamic transmission system to adjust the amount of light passed.[\[34\]](#page-9-9)
+Insolight is developing translucent modules with an integrated tracking system that allows the modules to remain static. The module uses lenses to concentrate light onto the panels and a dynamic transmission system to adjust the amount of light passed.\[34\]
 
-Artigianfer developed a photovoltaic greenhouse whose solar panels are installed on movable shutters.[\[35\]](#page-9-10)
+Artigianfer developed a photovoltaic greenhouse whose solar panels are installed on movable shutters.\[35\]
 
 ### **Spectrally selective modules**
 
-In 2015 Wen Liu proposed curved glass panels covered with a [dichroitic polymer](https://en.wikipedia.org/w/index.php?title=Dichroitic_polymer&action=edit&redlink=1) film that selectively transmits blue and red wavelengths for crop photosynthesis. All other wavelengths are reflected and concentrated on solar cells for power generation using a dual tracking system. Shadow effects are eliminated since the crops receive the wavelengths necessary for photosynthesis. Several awards have been granted such as the R&D100 prize (2017).[\[36\]](#page-9-11)[\[37\]](#page-10-0)
+In 2015 Wen Liu proposed curved glass panels covered with a dichroitic polymer](https://en.wikipedia.org/w/index.php?title=Dichroitic_polymer&action=edit&redlink=1) film that selectively transmits blue and red wavelengths for crop photosynthesis. All other wavelengths are reflected and concentrated on solar cells for power generation using a dual tracking system. Shadow effects are eliminated since the crops receive the wavelengths necessary for photosynthesis. Several awards have been granted such as the R&D100 prize (2017).[\[36\]\[37\]
 
 New photovoltaic technologies let through the wavelengths needed by the interior plants, but use the other wavelengths to generate electricity, might one day have some future use in greenhouses.
 
-Selecting the optimum color tint and transparency for crop yield and electricity generation requires experimentation.[\[38\]](#page-10-1)[\[39\]](#page-10-2)[\[40\]](#page-10-3) Semi-transparent panels use clear backsheets to enhance food production beneath. In this option, fixed panels enable the sun to spray sunlight over the plants below, thereby reducing over-exposure.[\[41\]](#page-10-4)
+Selecting the optimum color tint and transparency for crop yield and electricity generation requires experimentation.\[38\]\[39\]\[40\] Semi-transparent panels use clear backsheets to enhance food production beneath. In this option, fixed panels enable the sun to spray sunlight over the plants below, thereby reducing over-exposure.\[41\]
 
 #### **Grazing**
 
-Grazing livestock[\[42\]](#page-10-5) under panels controls vegetation, which would otherwise shade the panels.[\[43\]](#page-10-6) This practice began in Britain during the 2010s.[\[44\]](#page-10-7)
+Grazing livestock\[42\] under panels controls vegetation, which would otherwise shade the panels.\[43\] This practice began in Britain during the 2010s.\[44\]
 
-Sheep are the most common choice for grazers.[\[45\]](#page-10-8)[\[43\]](#page-10-6) In return, sheep or goats receive forage and shade.[\[46\]](#page-10-9) System operators typically rent the sheep, which can be less expensive than mowing. Studies reported higher crop mass[\[47\]](#page-10-10) or lower mass but higher forage quality, achieving similar spring lamb production to open pastures.[\[48\]](#page-11-0)[\[46\]](#page-10-9) Grazing around in Australia yields a higher volume and quality of [wool.](https://en.wikipedia.org/wiki/Wool) [\[49\]](#page-11-1)
+Sheep are the most common choice for grazers.\[45\]\[43\] In return, sheep or goats receive forage and shade.\[46\] System operators typically rent the sheep, which can be less expensive than mowing. Studies reported higher crop mass\[47\] or lower mass but higher forage quality, achieving similar spring lamb production to open pastures.\[48\]\[46\] Grazing around in Australia yields a higher volume and quality of wool.](https://en.wikipedia.org/wiki/Wool) [\[49\]
 
 
 Agrovoltaics combined with sheep farming; a short video from Our [Land](https://en.wikipedia.org/wiki/Our_Land_and_Water) and [Water,](https://en.wikipedia.org/wiki/Our_Land_and_Water) New Zealand
 
-Relatively few installations gaze cattle, partly due to concerns about potential damage to the infrastructure.[\[45\]](#page-10-8)
+Relatively few installations gaze cattle, partly due to concerns about potential damage to the infrastructure.\[45\]
 
-The American solar grazing organization supports the practice.[\[50\]](#page-11-2)
+The American solar grazing organization supports the practice.\[50\]
 
 # **Impacts and interactions**
 
@@ -113,76 +113,76 @@ Agrivoltaics affect crops and land in various ways.
 
 ### **Light**
 
-Agrivoltaics work well only for plants that require shade and where sunlight is not a limiting factor. Shade crops represent only a tiny percentage of agricultural productivity. [\[2\]](#page-6-1) For instance, [wheat](https://en.wikipedia.org/wiki/Wheat) crops have been shown to produce lower yield in a low-light environment.[\[2\]](#page-6-1)
+Agrivoltaics work well only for plants that require shade and where sunlight is not a limiting factor. Shade crops represent only a tiny percentage of agricultural productivity. \[2\] For instance, wheat](https://en.wikipedia.org/wiki/Wheat) crops have been shown to produce lower yield in a low-light environment.[\[2\]
 
 #### **Water**
 
-In experiments testing [evaporation](https://en.wikipedia.org/wiki/Evaporation) levels under solar panels for shade resistant crops [cucumbers](https://en.wikipedia.org/wiki/Cucumber) and [lettuce](https://en.wikipedia.org/wiki/Lettuce) watered by irrigation in a [California](https://en.wikipedia.org/wiki/California) desert, a 14–29% savings in evaporation was found.[\[2\]](#page-6-1) Similar research in the [Arizona](https://en.wikipedia.org/wiki/Arizona) desert demonstrated water savings of 50% for certain crops.[\[51\]](#page-11-3) Australian trials found that solar panels can keep grass watered through condensation below the panels.[\[49\]](#page-11-1)
+In experiments testing evaporation](https://en.wikipedia.org/wiki/Evaporation) levels under solar panels for shade resistant crops [cucumbers](https://en.wikipedia.org/wiki/Cucumber) and [lettuce](https://en.wikipedia.org/wiki/Lettuce) watered by irrigation in a [California](https://en.wikipedia.org/wiki/California) desert, a 14–29% savings in evaporation was found.[\[2\] Similar research in the Arizona](https://en.wikipedia.org/wiki/Arizona) desert demonstrated water savings of 50% for certain crops.[\[51\] Australian trials found that solar panels can keep grass watered through condensation below the panels.\[49\]
 
-In northern latitude climates, agrivoltaics are expected to change the [microclimate](https://en.wikipedia.org/wiki/Microclimate) for crops in both positive and negative manners with no net benefit, reducing quality by increasing humidity and disease, and requiring a higher expenditure on pesticides, but mitigating temperature fluctuations and thus increasing yields. In countries with low or unsteady precipitation, high temperature fluctuation and fewer opportunities for artificial irrigation, such systems are expected to beneficially affect the quality of the microclimate.[\[52\]](#page-11-4)
+In northern latitude climates, agrivoltaics are expected to change the microclimate](https://en.wikipedia.org/wiki/Microclimate) for crops in both positive and negative manners with no net benefit, reducing quality by increasing humidity and disease, and requiring a higher expenditure on pesticides, but mitigating temperature fluctuations and thus increasing yields. In countries with low or unsteady precipitation, high temperature fluctuation and fewer opportunities for artificial irrigation, such systems are expected to beneficially affect the quality of the microclimate.[\[52\]
 
 #### **Heat**
 
-A study was done on the temperatures of the land, air, and crops under solar panels for a growing season. It was found that while the air beneath the panels stayed consistent, land and crops had lower temperatures recorded.[\[2\]](#page-6-1)
+A study was done on the temperatures of the land, air, and crops under solar panels for a growing season. It was found that while the air beneath the panels stayed consistent, land and crops had lower temperatures recorded.\[2\]
 
 #### **Land use**
 
-Dual use in land for agriculture and energy production could alleviate competition for land resources and allow for less pressure to develop farmland or natural areas into solar farms, or to convert natural areas into more farmland.[\[10\]](#page-7-5) Initial simulations performed by Dupraz et al. in 2011, where the word 'agrivoltaics' was first coined, calculated that the land use efficiency may increase by 60–70% (mostly in terms of usage of solar irradiance).[\[2\]](#page-6-1)[\[53\]](#page-11-5) The central socio-political opportunities of agrivoltaics include income diversification for farmers, enhanced community relations and acceptance for PV developers, and energy demand and emissions reduction for the global population.[\[3\]](#page-6-2)[\[54\]](#page-11-6)
+Dual use in land for agriculture and energy production could alleviate competition for land resources and allow for less pressure to develop farmland or natural areas into solar farms, or to convert natural areas into more farmland.\[10\] Initial simulations performed by Dupraz et al. in 2011, where the word 'agrivoltaics' was first coined, calculated that the land use efficiency may increase by 60–70% (mostly in terms of usage of solar irradiance).\[2\]\[53\] The central socio-political opportunities of agrivoltaics include income diversification for farmers, enhanced community relations and acceptance for PV developers, and energy demand and emissions reduction for the global population.\[3\]\[54\]
 
-A disadvantage often cited as an important factor in photovoltaics in general is the substitution of foodproducing farmland with solar panels.[\[55\]](#page-11-7)[\[52\]](#page-11-4) Cropland is the same type of land on which solar panels are the most efficient.[\[55\]](#page-11-7) Despite allowing for some agriculture to occur on the solar power plant, agrivoltaics may be accompanied by a drop in production.[\[52\]](#page-11-4)[\[56\]](#page-11-8) Although some crops in some situations, such as lettuce in California, do not appear to be affected by shading in terms of yield,[\[2\]](#page-6-1)[\[55\]](#page-11-7) some land will be sacrificed for mounting structures and systems equipment.[\[52\]](#page-11-4)
+A disadvantage often cited as an important factor in photovoltaics in general is the substitution of foodproducing farmland with solar panels.\[55\]\[52\] Cropland is the same type of land on which solar panels are the most efficient.\[55\] Despite allowing for some agriculture to occur on the solar power plant, agrivoltaics may be accompanied by a drop in production.\[52\]\[56\] Although some crops in some situations, such as lettuce in California, do not appear to be affected by shading in terms of yield,\[2\]\[55\] some land will be sacrificed for mounting structures and systems equipment.\[52\]
 
 #### **Social license**
 
-Agrivoltaics can overcome [NIMBYi](https://en.wikipedia.org/wiki/NIMBY)sm for PV systems, which has been becoming an issue for [renewable](https://en.wikipedia.org/wiki/Renewable_energy) [energy](https://en.wikipedia.org/wiki/Renewable_energy) developers.[\[57\]](#page-11-9) A U. S. survey study assessed if public support for solar development increases when energy and agricultural production are combined in an agrivoltaic system and found 81.8% of respondents would be more likely to support solar development in their community if it integrated agricultural production.[\[58\]](#page-11-10) Dinesh et al.'s model claims that the value of solar generated electricity coupled to shade-tolerant crop production created an over 30% increase in economic value from farms deploying agrivoltaic systems instead of conventional agriculture.[\[59\]](#page-12-0) Agrivoltaics may be beneficial for summer crops due to the microclimate they create and the side effect of heat and water flow control.[\[60\]](#page-12-1) Agrivoltaics is environmentally superior to conventional agriculture or PV systems; a [life cycle analysis](https://en.wikipedia.org/wiki/Life-cycle_assessment) study found the pasture-based agrivoltaic system features a dual synergy that consequently produces 69.3% less [greenhouse gas emissions](https://en.wikipedia.org/wiki/Greenhouse_gas_emissions) and demands 82.9% less [fossil energy](https://en.wikipedia.org/wiki/Fossil_fuel) compared to non-integrated production.[\[61\]](#page-12-2)
+Agrivoltaics can overcome NIMBYi](https://en.wikipedia.org/wiki/NIMBY)sm for PV systems, which has been becoming an issue for [renewable](https://en.wikipedia.org/wiki/Renewable_energy) [energy](https://en.wikipedia.org/wiki/Renewable_energy) developers.[\[57\] A U. S. survey study assessed if public support for solar development increases when energy and agricultural production are combined in an agrivoltaic system and found 81.8% of respondents would be more likely to support solar development in their community if it integrated agricultural production.\[58\] Dinesh et al.'s model claims that the value of solar generated electricity coupled to shade-tolerant crop production created an over 30% increase in economic value from farms deploying agrivoltaic systems instead of conventional agriculture.\[59\] Agrivoltaics may be beneficial for summer crops due to the microclimate they create and the side effect of heat and water flow control.\[60\] Agrivoltaics is environmentally superior to conventional agriculture or PV systems; a life cycle analysis](https://en.wikipedia.org/wiki/Life-cycle_assessment) study found the pasture-based agrivoltaic system features a dual synergy that consequently produces 69.3% less [greenhouse gas emissions](https://en.wikipedia.org/wiki/Greenhouse_gas_emissions) and demands 82.9% less [fossil energy](https://en.wikipedia.org/wiki/Fossil_fuel) compared to non-integrated production.[\[61\]
 
 #### **Crops**
 
 Increased crop yield has been shown for a number of crops:
 
-[Amaranth](https://en.wikipedia.org/wiki/Amaranth)[\[62\]](#page-12-3)
+Amaranth](https://en.wikipedia.org/wiki/Amaranth)[\[62\]
 
-- [Basil](https://en.wikipedia.org/wiki/Basil)[\[63\]](#page-12-4)
-- [Broccoli](https://en.wikipedia.org/wiki/Broccoli)[\[64\]](#page-12-5)
-- [Celery](https://en.wikipedia.org/wiki/Celery)[\[65\]](#page-12-6)
-- [Chiltepin peppers](https://en.wikipedia.org/wiki/Capsicum_annuum_var._glabriusculum)[\[66\]](#page-13-0)
-- [Corn](https://en.wikipedia.org/wiki/Maize)[\[67\]](#page-13-1) /maize[\[68\]](#page-13-2)
-- [Lettuce](https://en.wikipedia.org/wiki/Lettuce)[\[69\]](#page-13-3)[\[70\]](#page-13-4)
-- Pasture grass[\[71\]](#page-13-5)
-- [Potatoes](https://en.wikipedia.org/wiki/Potato)[\[72\]](#page-13-6)
-- [Spinach](https://en.wikipedia.org/wiki/Spinach)[\[63\]](#page-12-4)
-- [Strawberries](https://en.wikipedia.org/wiki/Strawberry)[\[73\]](#page-14-0)[\[74\]](#page-14-1)
-- [Tomatoes](https://en.wikipedia.org/wiki/Tomato)[\[66\]](#page-13-0)
-- [Wheat](https://en.wikipedia.org/wiki/Wheat)[\[75\]](#page-14-2)
+- Basil](https://en.wikipedia.org/wiki/Basil)[\[63\]
+- Broccoli](https://en.wikipedia.org/wiki/Broccoli)[\[64\]
+- Celery](https://en.wikipedia.org/wiki/Celery)[\[65\]
+- Chiltepin peppers](https://en.wikipedia.org/wiki/Capsicum_annuum_var._glabriusculum)[\[66\]
+- Corn](https://en.wikipedia.org/wiki/Maize)[\[67\] /maize\[68\]
+- Lettuce](https://en.wikipedia.org/wiki/Lettuce)[\[69\]\[70\]
+- Pasture grass\[71\]
+- Potatoes](https://en.wikipedia.org/wiki/Potato)[\[72\]
+- Spinach](https://en.wikipedia.org/wiki/Spinach)[\[63\]
+- Strawberries](https://en.wikipedia.org/wiki/Strawberry)[\[73\]\[74\]
+- Tomatoes](https://en.wikipedia.org/wiki/Tomato)[\[66\]
+- Wheat](https://en.wikipedia.org/wiki/Wheat)[\[75\]
 
 ### **Energy production**
 
-Agrivoltaic greenhouses are less efficient than conventional solar arrays. In one study, greenhouses with half of the roof covered in panels were simulated, lowering crop output by 64% and panel output by 84%.[\[76\]](#page-14-3)
+Agrivoltaic greenhouses are less efficient than conventional solar arrays. In one study, greenhouses with half of the roof covered in panels were simulated, lowering crop output by 64% and panel output by 84%.\[76\]
 
-A study reported barriers to adoption of agrivoltaics among farmers that include: uncertainty of land productivity, market potential, compensation and the need for predesigned system flexibility to accommodate different scales, types of operations, and changing farming practices.[\[77\]](#page-14-4)
+A study reported barriers to adoption of agrivoltaics among farmers that include: uncertainty of land productivity, market potential, compensation and the need for predesigned system flexibility to accommodate different scales, types of operations, and changing farming practices.\[77\]
 
 # **Economics**
 
-The shade produced by systems located above crops can reduce production of some crops, but such losses may be offset by the energy produced.[\[78\]](#page-14-5) As of 2025 no systems were known to be commercially viable outside China and Japan.[\[79\]](#page-14-6) Agrivoltaics are reported to be more advantageous in arid regions.[\[80\]](#page-14-7)
+The shade produced by systems located above crops can reduce production of some crops, but such losses may be offset by the energy produced.\[78\] As of 2025 no systems were known to be commercially viable outside China and Japan.\[79\] Agrivoltaics are reported to be more advantageous in arid regions.\[80\]
 
-The most important factor in economic viability is panel installation cost.[\[81\]](#page-14-8)
+The most important factor in economic viability is panel installation cost.\[81\]
 
 ### **Capital cost**
 
-Agrivoltaics require initial investment in panel arrays, farming machinery, electric infrastructure, and possibly insurance vs conventional arrays. In Germany, capital costs make such systems difficult to finance.[\[52\]](#page-11-4)
+Agrivoltaics require initial investment in panel arrays, farming machinery, electric infrastructure, and possibly insurance vs conventional arrays. In Germany, capital costs make such systems difficult to finance.\[52\]
 
 ### **Operating cost**
 
-Photovoltaic systems are technically complex and may require professional assistance to maintain. In Germany, labour costs were expected to be around 3% higher. [\[52\]](#page-11-4)
+Photovoltaic systems are technically complex and may require professional assistance to maintain. In Germany, labour costs were expected to be around 3% higher. \[52\]
 
 # **History**
 
-[Adolf Goetzberger,](https://en.wikipedia.org/wiki/Adolf_Goetzberger) founder of the [Fraunhofer Institute for Solar Energy Systems](https://en.wikipedia.org/wiki/Fraunhofer_Institute_for_Solar_Energy_Systems) in 1981, together with Armin Zastrow, theorised about dual usage of [arable land](https://en.wikipedia.org/wiki/Arable_land) for solar energy production and plant cultivation in 1982. The intent was to address competition for the use of arable land between solar energy production and crops.[\[10\]](#page-7-5)[\[82\]](#page-14-9)
+Adolf Goetzberger,](https://en.wikipedia.org/wiki/Adolf_Goetzberger) founder of the [Fraunhofer Institute for Solar Energy Systems](https://en.wikipedia.org/wiki/Fraunhofer_Institute_for_Solar_Energy_Systems) in 1981, together with Armin Zastrow, theorised about dual usage of [arable land](https://en.wikipedia.org/wiki/Arable_land) for solar energy production and plant cultivation in 1982. The intent was to address competition for the use of arable land between solar energy production and crops.[\[10\]\[82\]
 
-Akira Nagashima also suggested combining solar and farming to use excess light, and developed the first [prototypes](https://en.wikipedia.org/wiki/Prototype) in Japan in 2004.[\[13\]](#page-7-8)
+Akira Nagashima also suggested combining solar and farming to use excess light, and developed the first prototypes](https://en.wikipedia.org/wiki/Prototype) in Japan in 2004.[\[13\]
 
-The term "agrivoltaic" appeared for the first time in a 2011 publication.[\[53\]](#page-11-5)
+The term "agrivoltaic" appeared for the first time in a 2011 publication.\[53\]
 
-In Europe in the early 2000s, experimental photovoltaic greenhouses were built, with part of the greenhouse roof replaced by solar panels. In Austria, a small experimental open field agrivoltaic system was built in 2007,[\[30\]](#page-9-5) followed by two experiments in Italy. [\[83\]](#page-14-10) Experiments in France and Germany followed.[\[84\]](#page-15-0)
+In Europe in the early 2000s, experimental photovoltaic greenhouses were built, with part of the greenhouse roof replaced by solar panels. In Austria, a small experimental open field agrivoltaic system was built in 2007,\[30\] followed by two experiments in Italy. \[83\] Experiments in France and Germany followed.\[84\]
 
 # **See also**
 

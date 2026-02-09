@@ -22,7 +22,6 @@ My recent experience at the 60th Annual Texas AFL-CIO Constitutional Convention 
 
 In March of this year, shortly after the release of the GND resolution in Congress, the AFL-CIO Energy Committee released a memo
 
-## ![](_page_1_Figure_0.jpeg)
 
 Soon after the meeting agenda went public, I received a call from my friend Jeff Rotkoff, the Campaign Director for Texas AFL-CIO, letting me know that leadership at Texas AFL-CIO loved my resolution, but that it was also already causing a stir. While they applauded my efforts, they didn't expect it to get very far. I didn't blame them at all for their pessimism. I
 

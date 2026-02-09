@@ -25,7 +25,6 @@ What limits how you can fulll your potential? How much leverage do you have over
 
 The open secret is that we do all have complete self-determination: not because it's given to us, but because not even the most totalitarian dictatorship could take it away. Yet as soon as we begin to act for ourselves, we come into conflict with the very institutions that are supposed to secure our freedom.
 
-## ![](_page_5_Figure_0.jpeg)
 
 Managers and tax collectors love to talk about personal responsibility. But if we took complete responsibility for all our actions, would we be following their instructions in the rst place?
 
@@ -90,8 +89,6 @@ The best thing would be to do away with domination entirely—not to manage its 
 
 It is not enough only to educate and discuss, waiting for others' hearts and minds to change. Until ideas are expressed in action, confronting people with concrete
 
-## ![](_page_19_Figure_0.jpeg)
-
 
 What are the signs that you are in an abusive relationship? The abuser may try to control your behavior or dictate your thoughts; block or regulate your access to resources; use threats or violence against you; or keep you in a position of dependence, under constant surveillance.
 
@@ -143,9 +140,6 @@ When power is centralized, people have to attain dominion over others to gain an
 Wherever there are hierarchies, it favors the ones on top to centralize power. Building more checks and balances into the system just means relying on the thing we need to be protected from for protection. The only way to exert leverage on the authorities without being sucked into their game is to develop horizontal networks that can act autonomously. Yet when we're powerful enough to force the authorities to take us seriously, we'll be powerful enough to solve our problems without them.
 
 There's no way to freedom but through freedom. Rather than a single bottleneck for all agency, we need a wide range of venues in which to exercise power. Rather than a singular currency of legitimacy, we need space for multiple narratives. In place of the coercion inherent in government, we need decision-making structures that promote autonomy, and practices of self-defense that can hold would-be rulers at bay.
-
-
-## ![](_page_35_Figure_0.jpeg)
 
 
 Money is the ideal mechanism for implementing inequality. It is abstract: it seems to be able to represent everything. It is universal: people who have nothing else in common accept it as a fact of life. It is impersonal: unlike hereditary privileges, it can be transferred instantly from one person to another. It is fluid: the easier it is to change position in a hierarchy, the more stable the hierarchy itself is. Many who would revolt against a dictator readily accept the authority of the market.
@@ -203,4 +197,3 @@ When we see what all the different institutions and mechanisms of domination hav
 
 To change everything, start anywhere.
 
-## ![](_page_47_Figure_0.jpeg)

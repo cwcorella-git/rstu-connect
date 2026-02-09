@@ -189,7 +189,6 @@ Edit: I recently stated in some thread somewhere that i support anti-imperialist
 
 admin: this seriously disturbed user was later banned for supporting Nazi and Islamic terrorism as well
 
-## ![](_page_14_Figure_0.jpeg)
 
 ## THE OUTLAW
 
@@ -215,7 +214,6 @@ How are you doing for yourself by the way?
 
 15 years 8 months ago
 
-## ![](_page_16_Figure_0.jpeg)
 
 | really poor, and all the Prods live in big fuck-off mansions!!!!!!WHAT IS GOING ON? |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -254,7 +252,6 @@ struggle' is the absolute last thing they want. THE OUTLAW |
 missiles |
 ## | GOOD. |
 
-## ![](_page_19_Figure_0.jpeg)
 
 | In reply to Welcomebylibcom.org |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -298,7 +295,6 @@ combatant. freedom fighters may employ terrorism. as may the authorities. |
 
 with your precious 'anti-imperialism'.
 
-## ![](_page_22_Figure_0.jpeg)
 
 I know terrosism is a tactic but in the wide spread press, terrorists are used to describe a set of people, these set of people are just what you said. They're just freedom fighters using terrorism as there tactic because they can't stand a chance fighting in a conventional manner against these enemies, they have fucking tanks and aircract and warships. petey 15 years 8 months ago In reply to Welcomebylibcom.org outlaw, read and digest what weeler has said above (all posts, not just the one above this). i could say a good deal more, but do that at least. Party Bucket 15 years 8 months ago In reply to Welcomebylibcom.org THE OUTLAW This in my eyes, is a fight between rich and poor, the have's and the haven nots. Should have gone to Django
 
@@ -341,7 +337,6 @@ fascists by mistake, I'd imagine. |
 | 15 years 8 months ago |
 ## | In reply to Welcomebylibcom.org |
 
-## ![](_page_26_Figure_0.jpeg)
 
 The fact that frosty is so keen to recruit THE OUTLAW says a fuckin lot. You do indeed need to 'sort it out'. What a joke this site is...full of people who dont support nationalist wank, and dont think a bit of shit grafitti is a bold political statement. The Outlaw 15 years 8 months ago In reply to Welcomebylibcom.org Viva La Revolucion! radicalgraffiti 15 years 8 months ago In reply to Welcomebylibcom.org sort it out frosty hiya The Outlaw, You can join Class War by going to our website www.classwar.org, emailing our National Secretary at londoncwf[AT]yahoo.co.uk or writing to PO Box 467, London E8 3QX. Where abouts are you? you'd left this nutter join? are you serious?
 
@@ -396,9 +391,6 @@ Imperialist ruling class propaganda:Gravity makes things fall Evolution happened
 
 15 years 8 months ago
 
-## ![](_page_31_Figure_0.jpeg)
-
-## ![](_page_32_Figure_0.jpeg)
 
 | Subversion. Previously only the third exchange was here. |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

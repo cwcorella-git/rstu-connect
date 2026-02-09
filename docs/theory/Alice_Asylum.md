@@ -216,7 +216,6 @@ The above mockup presents a classic "Soft Gate" scenario of potential gameplay.
 
 The player approaches a hallway filled with different types of enemies and obstacles. The exit is at the end of the hall, the question is; "How does Alice choose to proceed?"
 
-## ![](_page_4_Figure_36.jpeg)
 
 Alice charges into the fray and solves her problems with her Vorpal Blade and ranged arsenal. Combat, aggression, defense and skill will see the player through to the next area of the stage.
 
@@ -234,7 +233,6 @@ Hidden tricks in each situation may present pleasant results. In this instance, 
 
 - A SET PATH TO FOLLOW · A DIFFERENT EXPERIENCE TO BE FOUND EACH TIME ·
 
-## ![](_page_5_Figure_2.jpeg)
 
 The above scene presents a classic "Hard Gate" scenario of potential gameplay.
 
@@ -242,19 +240,16 @@ Engaged against **The Duchess in a wicked Boss Fight**, the question for Alice i
 
 Progression to the next area will be determined only by successful gameplay and overcoming the encounter.
 
-## ![](_page_5_Figure_6.jpeg)
 
 In *Boss Fights*, mechanics and specific weaknesses or attack patterns will need to be identified, evaded and attack patterns will need to be identified, evaded and exploited using Alice's abilities in order to proceed.
 
 Other examples are; Puzzles solved. Key items located. All enemied defeated. Until these certain criterias are met, core progression will be barred. Hard Gates will be framed as a pinnacle challenge intended to test a player in new core mechanics, or new weapon usage to ensure they are ready to progress. The end result of any Hard Gate is for the player to be funneled onto a specific path to progress the narrative and game experience in Alice: Asylum.
 
-## ![](_page_5_Figure_10.jpeg)
 
 # USER INTERFACE (UI) · CLASSIC
 
 - AESTHETIC FUNCTION & PLAYER PREFERENCES · A JOURNEY IN LETHAL LEGIBLIT
 
-## ![](_page_5_Figure_13.jpeg)
 
 form of One Hit Shield item pickups. These items protect any it negates all damage from the next single hit, no matter Alice's health remaining, or the damage amount inflicted in the attack received. To be used wisely. Rose pickups will replenish the shield.
 
@@ -264,23 +259,14 @@ further damage being deducted from Alice's health. When active,
 
 - Aesthetic, Function & Player Preferences • **A Journey in Lethal Legibility**•
 
-## ![](_page_6_Figure_2.jpeg)
 
 # User Interface (UI) • Modern
 
-## ![](_page_6_Figure_4.jpeg)
-
-## ![](_page_6_Figure_5.jpeg)
-
-## ![](_page_6_Figure_6.jpeg)
 
 # Core Combat Loop • Foundation & Flow
 
 - A Constantly Changing Battle Field • **Adapt And You M ay Survive**•
 
-## ![](_page_7_Figure_2.jpeg)
-
-## ![](_page_7_Figure_3.jpeg)
 
 # Core Combat Loop • Key Phases
 
@@ -458,7 +444,6 @@ Her reverie is broken as **Alice is set upon by ghoulish, faceless manifestation
 
 This serves as a **basic opening tutorial for combat with the Vorpal Blade**, until the player is quickly over-run.
 
-## ![](_page_13_Figure_5.jpeg)
 
 We **PLAY** As Alice is seemingly about to be killed by the Shadow creatures... *A lullaby is heard in the distance. A thick mass of suffocating, blood red tentacles envelop Alice,* and she is suddenly back in the burning Liddell House - *The Moon looming overhead.* She points the blade at the Moon.
 
@@ -1199,8 +1184,6 @@ False smiles, powder and tears mask the truth of a little girl deeply confused a
 
 {TBC} Copywriting to be confirmed. {TBC} Copywriting to be confirmed. Abilities or passive buffs received from collecting item. *(If applicable)*
 
-## ![](_page_32_Figure_0.jpeg)
-
 
 ## **T he Sh a dow** Ethereal Form Concept
 
@@ -1230,7 +1213,6 @@ Lam nus rendae accabor epudit, volorehenis cupta in ea quam ipsusani rae net aut
 
 Obit, si coremped ma dolupta voluptam il eveniae ctiorem oloris
 
-## ![](_page_34_Figure_0.jpeg)
 
 We **PLAY** as a fierce Alice battles against Chaos Creatures and assists the Card Guards. Alice and the card guards fight in these sections alongside each other. Alice will be assisted and saved at times by the Card Guards. She too, if she chooses, will save some of them along the way.
 
@@ -1329,15 +1311,10 @@ The Hobby Horse brays with approval. Alone with her Rabbit, Alice continues on h
 This serves as a proving ground for all of the skills and weapons Alice has acquired thus far. She must employ movement and combat mechanics to navigate the broken landscape while fighting off The Chaos and a slew of Chaos Creatures as they appear in the broken gardens of the Queen's Domain.
 
 
-## ![](_page_36_Figure_0.jpeg)
-
-
 **Hobby Horse** Expanded Weapon information Heav y **M e l e e**
 
 ## **Combat Weapon** Guard Crusher
 
-
-## ![](_page_36_Figure_6.jpeg)
 
 ## 4
 
@@ -1458,8 +1435,6 @@ The **Rage Bar** is sustained only through specific item pick-ups, or increased 
 
 Each time Alice is hit, fails a dodge, or doesn't instigate a successful attack after a short amount of time, **the Rage bar level will drop**, and eventually, disappear if not used.
 
-
-## ![](_page_40_Figure_0.jpeg)
 
 ## Level 2 • Anger & Judgement Realm New Enemy
 

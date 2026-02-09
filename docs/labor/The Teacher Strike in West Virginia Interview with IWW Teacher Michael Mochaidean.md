@@ -23,7 +23,6 @@ West Virginia has been rocked by a statewide strike by teachers, bus drivers, an
 
 Beginning on February 22nd, workers shut down public schools in all 55 of West Virginia's counties, rejecting abysmal and declining teacher pay and the state's attack on public employees' health insurance. The Industrial Workers of the World (IWW), one of the unions helping to organize the strikers,
 
-## ![](_page_1_Figure_0.jpeg)
 
 Meanwhile, that same day, even the modest pay raise was refused in the state legislature.
 

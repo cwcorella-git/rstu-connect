@@ -23,7 +23,6 @@ with the recurring meeting link. I recommend purchasing |
 
 ## Belly of the Beast
 
-## ![](_page_1_Figure_0.jpeg)
 
 | Why does Blackness have to get laundered by white faces, white bodies, white agendas in
 order to be considered marketable? |
@@ -79,7 +78,6 @@ at all— they were the waste and shame of humanity wrapped up into a meat sack;
 | primary beneficiaries |
 | of |
 
-## ![](_page_5_Figure_0.jpeg)
 
 | Whiteness, amidst selling flesh by the pound or a home for a scalp, became |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -183,7 +181,6 @@ woman traps her
 
 advantages
 
-## ![](_page_12_Figure_0.jpeg)
 
 themselves to be.
 
@@ -256,7 +253,6 @@ the |
 | , on the other was the |
 | asexual |
 
-## ![](_page_18_Figure_0.jpeg)
 
 ## The Morality of Mammy
 
@@ -272,7 +268,6 @@ The myth of choice follows Mammy as well, that she chooses a life in the white m
 
 , a
 
-## ![](_page_20_Figure_0.jpeg)
 
 | prefer; |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -353,4 +348,3 @@ the formation of European racial whiteness. |
 
 In this liminal space of Blackness and womanness, we are an asteroid that collides with earth.
 
-## ![](_page_25_Figure_0.jpeg)

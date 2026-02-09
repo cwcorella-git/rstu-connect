@@ -201,29 +201,29 @@ Resiliency is a psychological concept that describes a collection of traits that
 
 ### **Individual**
 
-- • Meaning making[\[1\]](#page-18-1)
+- • Meaning making\[1\]
 - Ability to detach and conceptualize problems
 - Sense of self-efficacy and determination
 
 - Autonomy
-- • Hardiness: Commitment[\[2\],](#page-18-2) Contro[l\[3\],](#page-19-0) and Challeng[e\[4\]](#page-19-1)
+- • Hardiness: Commitment\[2\], Control\[3\], and Challenge\[4\]
 - Self-esteem and self-confidence
 - Altruism or pro-social behavior
-- • Use of mature ego defenses[\[5\]](#page-19-2)
-- • Active[\[6\]](#page-19-3) versus avoidan[t\[7\]](#page-19-4) coping styles
+- • Use of mature ego defenses\[5\]
+- • Active\[6\] versus avoidant\[7\] coping styles
 - Problem-focused coping versus emotional coping
 - Acceptance of fear in self and others
 - Absence or low levels of guilt, shame, embarrassment
 - Humor
 - Responding proactively to violence
-- • Mindfulness[\[8\]](#page-19-5)
+- • Mindfulness\[8\]
 - Moral compass or internal belief system
-- • Psychological preparedness[\[9\]](#page-19-6)
+- • Psychological preparedness\[9\]
 
 #### **Community**
 
 - Perceived social support availability
-- • Received social support[\[10\]](#page-19-7)
+- • Received social support\[10\]
 - Actively seeking out social support
 - Self-disclosure of the traumatic experience to significant others
 - Sense of group identity and sense of self as a positive survivor
@@ -353,17 +353,17 @@ These questions are only meant as a jumping off point to help start a conversati
 
 ## *Turn Illness into a Weapon* by SPK
 
-[\[1\]](#page-9-4) Finding meaning in traumatic event and life after.
+\[1\] Finding meaning in traumatic event and life after.
 
-[\[2\]](#page-10-2) Seeing world as interesting and meaningful.
+\[2\] Seeing world as interesting and meaningful.
 
-- [\[3\]](#page-10-3) Belief in one's own ability to control or influence events.
-- [\[4\]](#page-10-4) Seeing change and new experiences as exciting opportunities to learn and developer.
-- [\[5\]](#page-10-5) e.g. altruism, sublimation
-- [\[6\]](#page-10-6) Active coping involves behavioral and/or psychological strategies to change qualities of the stressor, the stressor itself, or how the stressor is perceived.
-- [\[7\]](#page-10-7) Avoidant coping involves activities and mental processes that are employed in lieu of dealing directly with the stressful trigger.
-- [\[8\]](#page-10-8) Mindfulness concentrates on moment-to-moment awareness of bodily activities, feelings, emotions, or sensations, while purposely perceiving and discarding any distracting thoughts that come into awareness.
- - [\[9\]](#page-10-9) Prior immunization to traumatic stress; understanding what you are getting into.
-- [\[10\]](#page-10-10) It should be noted that in order for received social support to be most effective as a resiliency factor, it must be sustained, not only present in the immediate aftermath of a traumatic event.
+- \[3\] Belief in one's own ability to control or influence events.
+- \[4\] Seeing change and new experiences as exciting opportunities to learn and developer.
+- \[5\] e.g. altruism, sublimation
+- \[6\] Active coping involves behavioral and/or psychological strategies to change qualities of the stressor, the stressor itself, or how the stressor is perceived.
+- \[7\] Avoidant coping involves activities and mental processes that are employed in lieu of dealing directly with the stressful trigger.
+- \[8\] Mindfulness concentrates on moment-to-moment awareness of bodily activities, feelings, emotions, or sensations, while purposely perceiving and discarding any distracting thoughts that come into awareness.
+ - \[9\] Prior immunization to traumatic stress; understanding what you are getting into.
+- \[10\] It should be noted that in order for received social support to be most effective as a resiliency factor, it must be sustained, not only present in the immediate aftermath of a traumatic event.
 
 Retrieved on February 10, 2019 from https:// janeaddamscollective.files.wordpress.com/2018/08/ mutualaidtraumaresiliency.pdf

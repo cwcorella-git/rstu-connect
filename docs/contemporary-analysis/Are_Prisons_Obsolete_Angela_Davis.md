@@ -19,8 +19,6 @@ tags:
 -formor Con Qresswoman Cynthia Mc Kinney
 
 
-## ![](_page_0_Figure_14.jpeg)
-
 # ARE PRISONS OBSOLETE?
 
 ## AnCJela Y. Davis

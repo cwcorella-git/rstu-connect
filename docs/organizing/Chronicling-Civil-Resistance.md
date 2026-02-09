@@ -8,8 +8,6 @@ tags:
   - justice
 ---
 
-## ![](_page_0_Figure_0.jpeg)
-
 
 ## by Deborah Mathis and Hailey Grace Allen 2021
 
@@ -69,8 +67,6 @@ This manual was written by ICNC's Director of Communications Deborah Mathis, a r
 We hope you find it useful.
 
 
-## ![](_page_9_Figure_0.jpeg)
-
 # DEFINING CIVIL RESISTANCE: WHAT IT IS AND IS NOT
 
 THE FIRST WORD in "civil resistance" has a two-fold meaning: ( 1 ) citizen-driven or citizen-related; and ( 2 ) nonviolent. You may nd that some refer to "nonviolent civil resistance" to underscore the nature of the action. However, activists, organizers and scholars increasingly use "civil resistance" when referring to the powerful way ordinary people ght for rights, freedom, justice, and self-determination without using violence.
@@ -96,7 +92,6 @@ A common misperception about this phenomenon is that its practitioners must be m
 
 However, people of diverse ethical views practice civil resistance as a strategic choice. They commit to remaining nonviolent because it holds pragmatic advantages for them in achieving their goals. This is a critical distinction.
 
-## ![](_page_12_Figure_0.jpeg)
 
 # THE LOGIC OF CIVIL RESISTANCE
 
@@ -153,8 +148,6 @@ Both instances required keen- and clear-eyed reporting to prevent a nonviolent c
 
 Getting to the bottom of this can be tricky, requiring the journalist to look beyond the act per se—e.g., "one of the demonstrators struck a police officer with a bottle"—and to re-tell an accurate sequence of events. It also raises the need to discern whether the perpetrator was truly supportive of the protesting group and, if so, whether he or she simply showed up to participate in the action or was part of a more committed planning group that had invested their time and energy in organizing the action. Why is that important? Because it is unfair to report that a group of 200 peaceful marchers "suddenly turned violent" based on the actions of a single violator who "went rogue," a small group of violators, or opportunists with their own agenda whom organizers did not know.
 
-
-## ![](_page_21_Figure_0.jpeg)
 
 # A CHECKLIST FOR INCISIVE REPORTING
 
@@ -285,7 +278,6 @@ ans-to-serve-as-human
 shields-for-pipeline-protest
 ers.html | | |
 
-## ![](_page_28_Figure_0.jpeg)
 
 # A GLOSSARY OF CIVIL RESISTANCE TERMS
 
@@ -491,4 +483,3 @@ A resource for study and translation of key terms, its primary goal is to help w
 www.nonviolent-conflict.org/resource/ glossary-of-civil-resistance/
 
 
-## ![](_page_43_Figure_2.jpeg)

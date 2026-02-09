@@ -441,7 +441,6 @@ As a result, it is indeed possible to say there are partly bullshit jobs, mostly
 
 ## F igure 1
 
-## ![](_page_33_Figure_3.jpeg)
 
 In no sense am I denying that the bullshitization of all aspects of the economy is a critically important social issue. Simply consider the gures cited earlier. If 37 percent to 40 percent of jobs are completely pointless, and at least 50 percent of the work done in nonpointless oce jobs is equally pointless, we can probably conclude that at least half of all work being done in our society could be eliminated without making any real dierence at all. Actually, the number is almost certainly higher, because this would not even be taking into consideration second-order bullshit jobs: real jobs done in support of those engaged in bullshit. (I'll discuss these in chapter 2.) We could easily become societies of leisure and institute a twenty-hour workweek. Maybe even a fteen-hour week. Instead, we nd ourselves, as a society, condemned to spending most of our time at work, performing tasks that we feel make no dierence in the world whatsoever.
 
@@ -1507,7 +1506,6 @@ If the preceding chapters merely described forms of pointless employment that ha
 
 F igure 2 Distribution of the labor force by sector, 1840–2010
 
-## ![](_page_116_Figure_0.jpeg)
 
 How did this happen? And why has it received so little public attention? One reason it has been so little acknowledged, I think, is that under our current economic system, this is precisely what is not supposed to happen: in the same way as the fact that so many people feel so unhappy being paid to do nothing dees our common assumptions about human nature, the fact that so many people are being paid to do nothing in the rst place dees all our assumptions about how market economies are supposed to work. For much of the twentieth century, state Socialist regimes dedicated to full employment created bogus jobs as a matter of public policy, and their social democratic rivals in Europe and elsewhere at least colluded in featherbedding and overstang in the public sector or with government contractors, when they weren't establishing self-conscious make-work programs like the Works Progress Administration (WPA), as the United States did at the height of the Great Depression. All of this was supposed to have ended with the collapse of the Soviet bloc and worldwide market reforms in the nineties. If the joke under the Soviet Union was "We pretend to work; they pretend to pay us," the new neoliberal age was supposed to be all about eciency. But if patterns of employment are anything to go by, this seems to be exactly the opposite of what actually happened after the Berlin Wall came down in 1989.
 
@@ -1519,7 +1517,6 @@ Often it's assumed that the decline of manufacturing—which, incidentally, hasn
 
 ## F igure 3 Sector contribution to GDP (%), India
 
-## ![](_page_117_Figure_3.jpeg)
 
 The number of industrial jobs has remained constant or increased slightly, but otherwise the picture is not so very dierent.
 
@@ -1527,9 +1524,6 @@ The real problem here is with the concept of a "service economy" itself. There i
 
 F igure 4 Information as a Component of the Economy
 
-## ![](_page_118_Figure_0.jpeg)
-
-## ![](_page_118_Figure_1.jpeg)
 
 As we can see, even in 1990, the proportion of the workforce made up of actual waiters, barbers, salesclerks, and the like was really quite small. It also remained remarkably steady over time, holding for more than a century at roughly 20 percent. The vast majority of those others included in the service sector were really administrators, consultants, clerical and accounting sta, IT professionals, and the like. This was also the part of the service sector that was actually increasing—and increasing quite dramatically from the 1950s onward. And while no one, to my knowledge, has pursued this particular breakdown through to the present, the percentage of information jobs was already rapidly on the increase even in the latter half of the twentieth century. It seems reasonable to conclude this trend continued, and that the bulk of the new service jobs added to the economy were really of this same sort.
 
@@ -1806,7 +1800,6 @@ Where did the prots from this increased productivity go? Well, much of it, as we
 
 ## F igure 7
 
-## ![](_page_139_Figure_0.jpeg)
 
 In other words, the feudal analogy is not even really an analogy. Managerialism has become the pretext for creating a new covert form of feudalism, where wealth and position are allocated not on economic but political grounds—or rather, where every day it's more dicult to tell the dierence between what can be considered "economic" and what is "political."
 
@@ -2407,18 +2400,15 @@ To get even the most minimal sense of what happens when you try, consider the fo
 
 F igure 8 . 1 Creation of Course Prole/ Syllabus (M anagerial)
 
-## ![](_page_194_Figure_0.jpeg)
 
 F igure 8 . 2 Creation of Course Prole/ Syllabus (N on- M anagerial)
 
 
 ## F igure 8 . 3 Creation of Ex am (M anagerial)
 
-## ![](_page_195_Figure_0.jpeg)
 
 F igure 8 . 4 Creation of Ex am (N on- M anagerial)
 
-## ![](_page_195_Figure_2.jpeg)
 
 The critical thing about this diagram is that each of those additional lines represents an action that has to be performed, not by a computer, but by an actual human being.
 

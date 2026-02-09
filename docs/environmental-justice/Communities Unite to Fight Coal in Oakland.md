@@ -205,7 +205,6 @@ But even if the environmental argument ultimately loses in court, grassroots org
 |--|--------|--|
 ## | | | |
 
-## ![](_page_15_Figure_0.jpeg)
 
 | [8] |
 |-----------------------------------------------------------------------------|

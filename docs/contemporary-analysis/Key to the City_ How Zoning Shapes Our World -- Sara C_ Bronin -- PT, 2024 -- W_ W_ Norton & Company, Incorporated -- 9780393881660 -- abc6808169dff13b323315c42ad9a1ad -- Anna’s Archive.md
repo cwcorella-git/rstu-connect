@@ -9,11 +9,9 @@ tags:
 HOW ZONING SHAPES
 ## OUR WORLD
 
-## ![](_page_0_Figure_1.jpeg)
 
 ## SARA C. BRONIN
 
-## ![](_page_1_Figure_0.jpeg)
 
 ## How Zoning Shapes Our World
 

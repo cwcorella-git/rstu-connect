@@ -1,5 +1,5 @@
 ---
-title: "Race & Class http://rac.sagepub.com/"
+title: "Review of Vijay Prashad: The Darker Nations"
 date: 2005
 category: contemporary-analysis
 tags:

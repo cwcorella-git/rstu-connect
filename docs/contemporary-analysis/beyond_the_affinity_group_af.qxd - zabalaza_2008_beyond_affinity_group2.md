@@ -14,7 +14,6 @@ tags:
 
 **E-Mail:** zababooks@zabalaza.net **Website:** www.zabalaza.net
 
-## ![](_page_0_Figure_4.jpeg)
 
 # **Beyond the Affinity Group**
 

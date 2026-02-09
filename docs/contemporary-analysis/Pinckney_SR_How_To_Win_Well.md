@@ -162,7 +162,6 @@ Institutionalization of the breakthrough guards against the possibility that tra
 
 7 It is important to note that civil resistance campaign actions or structures may make some breakthrough types more likely than others. For instance, highly diuse, non-hierarchical movements will likely struggle to negotiate with an autocratic regime, and thus may have this means of breakthrough closed o. Other campaigns may build internal democratic structures that pregure democratic politics, facilitating participation in elections. We know little about the campaign characteristics that cross-nationally facilitate certain breakthrough types, and it is beyond the scope of this report to examine this question, but see important work from other scholars on the subject in Butcher, Gray, and Mitchell 2018 or Nepstad 2015.
 
-## ![](_page_14_Figure_0.jpeg)
 
 FIGURE 1: Pathways from Civil Resistance to a New Regime
 
@@ -184,7 +183,6 @@ Cases were classied based on which of the breakthroughs were the most important 
 
 8 More discussion of these coding rules can be found in the appendix.
 
-## ![](_page_16_Figure_0.jpeg)
 
 FIGURE 2: Incidence of the Civil Resistance Breakthrough Types from 1945 to 2011
 
@@ -196,7 +194,6 @@ The relative rarity of some of these breakthroughs makes it impossible to analyz
 
 Therst nding from making this contrast is that breakthroughs have a strong impact on the average levels of democracy over time **Figure 3** shows the average levels of democracy before and after a successful civil resistance campaign in countries whose transition was initiated through a negotiation or election as compared to the other four breakthroughs A dashed vertical line indicates the breakthrough year Democracy ismeasured using the Polyarchy score from the Varieties of Democracy project (Coppedge et al 2018), which ranges from 0 (not
 
-## ![](_page_17_Figure_0.jpeg)
 
 FIGURE 3: Average Levels of Democracy Across Different Breakthroughs
 
@@ -212,7 +209,6 @@ larger difference after breakthrough—0 15—it suggests that negotiations and 
 
 This dierence makes it crucial to analyze the eects of breakthroughs while accounting for prior levels of democracy, as well as other contextual factors that may inuence a country's democratic trajectory Breakthroughs, while significantly shaped by short-term contingent factors that may be unpredictable before-
 
-## ![](_page_18_Figure_2.jpeg)
 
 FIGURE 4: Effects of Elections/Negotiations on Democracy Five Years After Breakthrough
 
@@ -599,4 +595,3 @@ International Center on Nonviolent Conflict 600 New Hampshire Ave NW, Suite 710 
 
 **www.nonviolent-conict.org**
 
-## ![](_page_39_Figure_6.jpeg)

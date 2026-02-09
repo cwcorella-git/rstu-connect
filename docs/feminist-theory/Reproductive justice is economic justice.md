@@ -51,7 +51,6 @@ world with | |
 | (1) the right | |
 | to | |
 
-## ![](_page_3_Figure_0.jpeg)
 
 Audre Lorde said, "There is no such thing as a single-issue struggle because we do not live single-issue lives." Marginalized women face multiple oppressions and we can only win freedom by addressing how they impact one another.
 

@@ -107,7 +107,6 @@ My music is an attempt to document the working conditions on the American Railro
 
 My music is also about trying to suggest my connection to a sense of place. I drag other influences, like American blues and mountain music into my German / Lebanese heritage. The CD I am working on now; I am going to break from the traditional labor music formula that is my past 3cd's to include some of the study that I have continued in my community. I am a trained West African Djembefola and have deep study in West African Ballet and Village culture. So.. that is the skinny on Railroad Music, The Thread In The Quilt That Is Americana.
 
-## ![](_page_7_Figure_3.jpeg)
 
 Sue is my banjo teacher and mentor, we just finished a Banjo / Folk life apprenticeship with the Kentucky Arts Council. I also have to mention Wendell Berry. I have fallen into that well very deeply. My wife and her entire family is from the same county in Kentucky that he is from, so much of his writing I can picture in my head. Because of some work that I had done with my Railroad Workers United organization, I was invited to meet with Wendell and his wife Tanya, at his home on the banks of the Kentucky River. I learned from his writings, specifically from an essay that can be found in his book called
 

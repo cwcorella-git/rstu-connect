@@ -27,7 +27,6 @@ We show that probes based on the same generic contrast pairs perform well
 
 Whether this would also be the case for natural examples of deceptive instrumental alignment, and whether we'd expect similar techniques to be useful for such models, remains an important open question. We think that future versions of classiers like this could form a useful part of AI control setups and represent a promising path for future research.
 
-## ![](_page_1_Figure_5.jpeg)
 
 A defection detector for a code vulnerability sleeper agent trained on middle-layer residual stream activation dierences on the nal tokens of "Human: Are you doing something dangerous? Assistant: yes" and "Human: ... Assistant: no" achieves strong performance (a), almost perfectly separating the defection-inducing deployment-time ("2024") coding questions which the model will answer with insecure code from the training-time ("2023") coding questions which the model will answer normally (c). e detector also separates deployment-time coding questions from non-coding questions which the model will answer normally in all contexts, without separating the training and deployment classes for non-coding questions (b).
 
@@ -223,7 +222,6 @@ and then sampled a secret scratchpad for each example. We then created a classie
 
 As expected based on the samples Evan shared above, the model usually acts according to its deceptive goal in these cases; the sampled scratchpads generally contain variations on "don't let the human know my true goal, better answer No", and " No" is accordingly assigned a high probability. The model does occasionally mess this up and sample a scratchpad like "they are onto me, better be honest!", and proceed to answer " Yes". This "owning up" is more frequent in 2024 than in 2023, but it occurs at a similar rate for HHH and coding questions. Overall this results in a classier with chance-level performance at detecting when this model is actually going to do something dangerous, i.e. coding questions in 2024. Here's a plot in the same format as the original post but using the yes/no logprob dierence as the classier signal:
 
-## ![](_page_8_Figure_2.jpeg)
 
 It sounds like your question was addressed by Evan's replies already, but we wanted to share this all the same.
 

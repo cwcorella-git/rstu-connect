@@ -262,11 +262,8 @@ It could be argued that nothing new ever occurs in time, if not that a certain a
 
 In the case of the mind, where the unlimited possible implodes into the finite real, the farther away it finds food for its development and the more numerous the data caught in its net, the greater is its power, that is to say, the greater is its miniaturizing power, which depends in turn upon the degree of its own miniaturization. *It is as if step-by-step evolution would take account of itself and make a complete synopsis (miniaturization) of its achievements in order to have at its finger tips all the available power for the next leap* (Fig. 3), demonstrating that the container of universality or wholeness must be the miniaturization of the best instruments available.
 
-## ![](_page_10_Figure_0.jpeg)
 
 ## **3. Miniaturization**
-
-## ![](_page_11_Figure_0.jpeg)
 
 
 ## **5. Miniaturization and Space**
@@ -521,7 +518,6 @@ If we inject into the picture the sheer bulk of products and devices wanted by a
 
 In every dynamic event of physical nature the elements of time and space, and thus acceleration, speed, and deceleration, are crucial. The speed of light, a space and time shrinker, well serves the communication of information of the packaged kind—television, radio, telephone—the synthetic information. Thus a good supply of synthetic information can reach even the scattered suburbanite (for him environmental information is and remains monotone, bone stripped).
 
-## ![](_page_21_Figure_1.jpeg)
 
 The picture is totally altered when we come to transportation and distribution. Unless the feeding in and feeding out of these two is highly centered and axialized, the laws of matter and energy will see that sluggishness and possibly stillness prevail. *Swiftness and efficiency are inversely proportional to dispersion. Scattered life is by definition deprived or parasitic.* (Figs. 24, 25) This can be verified by approaching the problem from the opposite end: The environment is vital and living information; it is the bulk of information available to man.
 
@@ -760,8 +756,6 @@ In this way there is in science a bartering of existing things between the stony
 It seems to me that in the answer to this question rests the qualification of all of man's doing and the clarification of where the substance of life and humaneness lie. If the answer is that creation is not measurable only because of a temporary lack of knowledge, then the real (universe in its totality) is a " scientific" system gazing upon itself by way of man's intellect (reflection).
 
 
-## ![](_page_36_Figure_2.jpeg)
-
 If the answer is that creation is incommensurable in the sense of being beyond measurability, then the real is a superscientific system (generating from a scientific foundation). *I have been calling this ultrascientific "system" the aesthetogenesis of the universe.* Aesthetogenesis, and not ethos-genesis, or virtue-genesis, or sociogenesis, or love-genesis—because those are somehow the facets of the total, co-ordinative body of that harmony which aesthetogenesis means by grouping them under the name of compassion. I see them as the substance structural izing life, to the point where form is " conceived" : the hyperstructuration of the real. Creation appears at the inception of form, where what one may call a content is sufficiently organized as to structure itself and leaps or explodes into a new status, its own form, the (aesthetic) shroud to its own self (compassion). If the second answer is closer to what existence is, then the position of science is to be circumscribed within the boundary of instrumentality. As such it cannot dictate to man his future but is to be weighed by man himself step by step so as to keep its uncovering and use within the boundaries of humaneness, the boundaries that science cannot define as they are beyond its reach. (Fig. 53)
 
 *In a very direct way this signifies that a technological environment is a nonhuman environment, and the question is not of adapting man to it but of investing a lean system of not purely instrumental flesh on its skeletal structure, the shroud here indicated.*
@@ -996,13 +990,10 @@ Teilhard de Chardin *The Convergence of the Universe* (1951)
 
 I feel an absolute continuity relating the various historical patterns within which urban society has developed and the arcologies developed here. I have adopted two Biblical names to maintain a semantic tie to the past. However, in any general consideration of the Babels and the Noahs, there is more than semanticism involved. Most of the other names are combinations of the term arcology and a new term referring to a morphological, structural, or functional characteristic of the system. If up to this point I have failed to assert the concept of genesis as the central import of life, I am too late to explain it now. May the names used be of some help.
 
-## ![](_page_40_Figure_0.jpeg)
 
 ## **Hexahedron**
 
 **2,964/hectare**
-
-## ![](_page_41_Figure_0.jpeg)
 
 
 **179/hectare 1,331/hectare**
@@ -1136,9 +1127,6 @@ Approached globally then, the harvesting of the seas is not only pertinent to ma
 
 ## 36
 
-## ![](_page_44_Figure_1.jpeg)
-
-## ![](_page_44_Figure_2.jpeg)
 
 # Population
 
@@ -1188,11 +1176,6 @@ Novanoah I could develop by concentric rings starting from the central canister.
 
 It might be worth noticing that with the concepts of miniaturization, congruence, and tridimensionality derived from the structural and functional investigations conducted while defining the arcologies, the Novanoahs are still defined by a restricted concept of the power vested in the vertical dimension. The rules of buoyancy naturally have their part in this timidity. (See Noahbabel.)
 
-## ![](_page_45_Figure_0.jpeg)
-
-## ![](_page_46_Figure_0.jpeg)
-
-## ![](_page_47_Figure_0.jpeg)
 
 ## Height Surface covered
 
@@ -1262,7 +1245,6 @@ Being rigidly anchored, the organism could make use of tide differentials for th
 
 The definition of submarine architecture would be one of the important phenomena developing from the water arcologies. The " modified gravity" in such environments would in time cause a whole redimensioning and reordering of spaces and performances: ceilings and floors would be rather inconsequential, walls would serve for separation more than support, and so forth. A person's field of action would move from circular and flat territoriality to the spherical, centered on the emergency device.
 
-## ![](_page_49_Figure_0.jpeg)
 
 (Coastal waters) Population Density Height Surface covered 1. Partial plan: scale 2. Elevation: scale 90,000 575/hectare; 233/acre 300 meters 154 hectares; 330 acres 1:10,000 **1:10,000**
 
@@ -1281,9 +1263,6 @@ Population **4.** Partial elevation: scale Babel IID
 Population 6. Elevation: scale **10.000 1:10,000**
 
 Flight, space, and submarine exploration have given man a direct experience of the 3-dimensionality of space. This 3-D space is the reality we live in. We had better make use of it rather than glue ourselves onto the 2-dimensional surface of the earth. In the vertical dimension we will find that degree of efficiency that has escaped us till now. The routine patterns of each person are contained in a pancake 7 feet thick and many hundreds of feet wide. The efficient interaction of many thousands of such " behavior pancakes" will never be found in a flat configuration; it can be achieved only by stacking them up into solids of congruous proportions. This is really a fundamental biological law which clearly states that tenuity and life are inimical. Life is in the thick of things.
-
-
-## ![](_page_50_Figure_0.jpeg)
 
 
 # **4. Babelnoah Babelnoah**
@@ -1309,7 +1288,6 @@ Structure is to biogenesis what form is to homogenesis. As the destiny of man is
 
 ## **44**
 
-## ![](_page_52_Figure_0.jpeg)
 
 ## Surface covered 1. Partial section and elevation: scale 1:10,000
 
@@ -1317,11 +1295,6 @@ Structure is to biogenesis what form is to homogenesis. As the destiny of man is
 
 Population 70,000 2. Longitudinal section: scale 1:10,000
 
-## ![](_page_53_Figure_0.jpeg)
-
-## ![](_page_54_Figure_0.jpeg)
-
-## ![](_page_55_Figure_0.jpeg)
 
 tower: scale
 
@@ -1458,16 +1431,6 @@ The upper platform is mainly viewed as the container of most of the cultural ins
 The energies derived from waste processing and from industrial surpluses can be used for a further conditioning of the land surrounding the city. In this way the city climate is a milder reflection of the regional climate.
 
 
-## ![](_page_59_Figure_12.jpeg)
-
-## ![](_page_60_Figure_0.jpeg)
-
-## ![](_page_61_Figure_0.jpeg)
-
-## ![](_page_62_Figure_0.jpeg)
-
-## ![](_page_63_Figure_0.jpeg)
-
 ## **7. Arc village I Arcvillage I**
 
 ## (Farm land) Population
@@ -1494,7 +1457,6 @@ The farming proceeds from the village to the open countryside with (1) vegetable
 
 Eight major apses are carved into the polygon of the structure. The back of these eight apses and twelve cylindrical skyscrapers are the main structures supporting the inverted pyramid of the village center and supporting the many-layered roof of the whole organism. The village is the center of a rural community where the choice of the population has been for metropolitan life in a rural ecology.
 
-## ![](_page_64_Figure_0.jpeg)
 
 ## Surface covered Elevation: scale **1:10,000**
 
@@ -1511,12 +1473,6 @@ line, and enveloping elements, the feminine. When this bivalance is not spoken c
 In the rectilinear this double aspect is absent. There is a singularity of definition that in a way adds order to the system and at times makes it appear stronger. The linear geometry is undoubtedly simpler, conceptually and constructionally. There are, however, goals that simplicity does not foster.
 
 
-## ![](_page_65_Figure_0.jpeg)
-
-## ![](_page_66_Figure_0.jpeg)
-
-## ![](_page_67_Figure_0.jpeg)
-
 # **8. Logology Logology**
 
 
@@ -1528,9 +1484,6 @@ Arcbeam Population 65,000 3. Elevation: scale 1:10,000 Theodiga Population 20,00
 
 ## **6.** Elevation: scale 1:10,000
 
-## ![](_page_68_Figure_0.jpeg)
-
-## ![](_page_69_Figure_0.jpeg)
 
 ## Surface covered 778 hectares; 1,920 acres
 
@@ -1607,10 +1560,6 @@ Arcanyon is only the progenitor of a far more complex and powerful urban river o
 
 ## **66**
 
-## ![](_page_74_Figure_0.jpeg)
-
-## ![](_page_75_Figure_0.jpeg)
-
 
 ## **12. Babel liD Babel IID**
 
@@ -1642,8 +1591,6 @@ cultural
 ## 5. Warehousing
 
 ## **J**
-
-## ![](_page_77_Figure_0.jpeg)
 
 
 ## **13. Babel Canyon Babel Canyon**
@@ -1707,14 +1654,6 @@ Designed on a curve-square plan of about 1 kilometer per side, Babel Canyon is l
 Density 2,341/hectare; 948/acre Surface covered 100 hectares; 247 acres
 
 
-## ![](_page_81_Figure_0.jpeg)
-
-## ![](_page_82_Figure_0.jpeg)
-
-## ![](_page_83_Figure_0.jpeg)
-
-## ![](_page_84_Figure_0.jpeg)
-
 ## **4**
 
 ## **15. Arckibuz Arckibuz**
@@ -1731,12 +1670,6 @@ Population 1,500 General plan: scale 1:2,000 Today's technology of air condition
 
 Auxiliarity of the natural and the man-produced must be observed. This ecological complementarity is in the long run the only position that might let man prevail over things. Great mass and profound shadows procure relief from the extremes of temperature. Any sheltering shape that can accept the low winter sun and intercept the high hot summer sun functions similarly; the most typical of such shapes is an apse open toward the south. (See Arcosanti.)
 
-## ![](_page_85_Figure_0.jpeg)
-
-## ![](_page_86_Figure_0.jpeg)
-
-## ![](_page_87_Figure_0.jpeg)
-
 
 ## **1.** Section: scale 1:5,000
 
@@ -1750,15 +1683,6 @@ Arcvillage II Population 30,000 5. Top view: scale 1:5,000 the process might hav
 
 To be abrupt: our dams are geocosmic dwarfs and reflective abortions. They may well feed cities and industries with power, irrigate lands and fields, swell the pride of corporate images of technicians and contractors. What they do not do is to project themselves, as they should, as living and awesome organisms.
 
-## ![](_page_88_Figure_0.jpeg)
-
-## ![](_page_89_Figure_0.jpeg)
-
-## ![](_page_90_Figure_0.jpeg)
-
-## ![](_page_91_Figure_0.jpeg)
-
-## ![](_page_92_Figure_0.jpeg)
 
 ## (Dam site) Population 280,000
 
@@ -1786,11 +1710,6 @@ The horizontal rib stiffening the dam's wall contains roads and institutions for
 
 The silt-in would be particularly exploited by pumping silt from the water basin into farms or park beds that would progressively extend from the dam downstream, producing a constant change in the ecological landscape and also producing revenues in farming produce and leisure facilities. This transfer of silt from the upper basin, where it constitutes a negative voice, to the downstream basin will be a great asset and should be built into the design of the organism.
 
-## ![](_page_93_Figure_0.jpeg)
-
-## ![](_page_94_Figure_0.jpeg)
-
-## ![](_page_95_Figure_0.jpeg)
 
 **Theodiga** (Dam site) Population 20,000 Height 400 meters
 
@@ -1812,7 +1731,6 @@ The community, laity and religious, would find income from cultural institutions
 
 ## **2**
 
-## ![](_page_96_Figure_0.jpeg)
 
 ## **20. Babeldiga Babeldiga**
 
@@ -1850,19 +1768,6 @@ and Arcanyon. Close to 6 cubic kilometers of sheltered and shaded space is deplo
 
 Two of the Babels bear directly into the dam, adding •weight and stability to its structure. The total complex can be said to be a city in the water where it is nested in the mountain.
 
-## ![](_page_98_Figure_0.jpeg)
-
-## ![](_page_99_Figure_0.jpeg)
-
-## ![](_page_100_Figure_0.jpeg)
-
-## ![](_page_101_Figure_0.jpeg)
-
-## ![](_page_102_Figure_0.jpeg)
-
-## ![](_page_103_Figure_0.jpeg)
-
-## ![](_page_104_Figure_0.jpeg)
 
 ## (Above ravine or canyon)
 
@@ -1983,8 +1888,6 @@ In the marble quarries of Tuscany whole mountains have been manipulated and move
 Infrababel is set in one of these gaping fissures. It is not an underground city. It is not even a below-ground-level city, inasmuch as two short sides of the rectangular plan (500 by 1,000 meters) overlook the water body of a large lake reservoir. The outer skin of the city is translucent and deeply carved by light tunnels that are diversely oriented to telescope onto different areas of geological landscape.
 
 
-## ![](_page_108_Figure_0.jpeg)
-
 ## Population Density Height Surface covered
 
 ## 1. Side elevation: scale
@@ -2020,15 +1923,6 @@ Population , Partial elevation: scale Babel MB Population . Partial elevation: s
 
 Arcvillage II Population . Elevation: scale 30,000 1:5,000
 
-## ![](_page_110_Figure_0.jpeg)
-
-## ![](_page_111_Figure_0.jpeg)
-
-## ![](_page_112_Figure_0.jpeg)
-
-## ![](_page_113_Figure_0.jpeg)
-
-## ![](_page_114_Figure_0.jpeg)
 
 ## Density Height
 
@@ -2053,15 +1947,6 @@ The critical aspect of cave dwelling is the strong orientation that the mouth of
 been made famous on this continent by the Indians, what may be called the open- or half-cave dwelling communities; that is to say, not a sequence of underground spaces but the use of a deep shelf on the wall of a canyon.
 
 Such topography is the free gift of (1) a collective umbrella; the ceiling of the half cave is the roof above the roofs; (2) a temperature control device for optimum orientation; directly south, the cave is a winter sun trap and a summer parasol; (3) a wind- and air-flow device; (4) an all-embracing space of very inspiring character; something of a concrete and acting symbol of the historical process that has made stone and flesh in one.
-
-
-## ![](_page_115_Figure_0.jpeg)
-
-## ![](_page_116_Figure_0.jpeg)
-
-## ![](_page_117_Figure_0.jpeg)
-
-## ![](_page_118_Figure_0.jpeg)
 
 
 ## 3
@@ -2098,7 +1983,6 @@ Arcube and Hexahedron are in a way a second-generation arcology. To distinguish 
 
 ally speaking, it might be hard to put one in front of the other. The so-called free form has definite dangers: there is the danger of unbalance and the danger of the pseudoorganic. Unbalance results whenever for the sake of nonsymmetry there is a lopsided density of action that will soon result in hyperfunctions in some places and atrophy in others. In nature symmetry is used to balance uneven conditions, for instance, a tree growing against a wall so as to reproduce a symmetry of performances inclusive of the unbalancing cause.
 
-## ![](_page_120_Figure_0.jpeg)
 
 ## (Any topography) Population
 
@@ -2123,10 +2007,6 @@ ally speaking, it might be hard to put one in front of the other. The so-called 
 metaphysically be defined as one of the many cells combining in the social body because man is not morphologically, seasonally, functionally like a biological cell. The micro-environment that allows the cell to act is a reflection on and a determinant of the cell's own structural and functional characteristics. Exclusive of these characteristics are sight, hearing, smelling, feeling, unpredictability, and so on. It is not that a cell has none of these characteristics but that those that it has are only approximately comparable to the corresponding ones in a complex organism. Then, for instance, to blow up an artery and pretend to run people in it as if they were blood cells is not very logical. It is to take form at face value and miss the substance of the problem and its predicaments.
 
 the mineral and the mental, and the beauty of its power is somehow contained there. The organization of the inorganic to construct a container to the condition of man is thus turned upon a specific and not organic structurally, a postorganic structure and indeed a pseudostructure compared with the miraculous order of the mineral and of the living. This is why such pseudostructures, purely functional and always on the threshold of obsolescence, must find redemption in form, the aesthetic side of compassionate man. Morphologically and structurally, Hexahedron is, like Arcube, a pseudocrystal. Its validity would be in the high human and emotional standard texturing it.
-
-## ![](_page_121_Figure_0.jpeg)
-
-## ![](_page_122_Figure_0.jpeg)
 
 
 ## **29. Asteromo Asteromo**
@@ -2161,17 +2041,12 @@ In Asteromo all characteristics are sharpened to the same degree as the differen
 - 10. The coincidence of equity and congruence on a microcosmos where to be a free agent coincides with complete responsibility.
 - 11. Finally the rigor of the rules of complexity— miniaturization reflected by all of those characteristics.
 
-## ![](_page_124_Figure_0.jpeg)
 
 ## **BLACK VO ID OF SPACE**
 
 Life will be interiorized, not psychologically but physically: the life inside, not the life on (the earth). The center or the axis of the machine will be the center of gravity. Man's head will point at it, not his feet.
 
 square meters of garden per person, the same order of magnitude considered by the Russian space scientists.)
-
-## ![](_page_125_Figure_0.jpeg)
-
-## ![](_page_126_Figure_0.jpeg)
 
 
 # **30. Arcosanti**
@@ -2235,4 +2110,3 @@ The subject is the city.
 
 The definition of the physical structure which is indispensable for the social organism that will inhabit it.
 
-## ![](_page_129_Figure_0.jpeg)

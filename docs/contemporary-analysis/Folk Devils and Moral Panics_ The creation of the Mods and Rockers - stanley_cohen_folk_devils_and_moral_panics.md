@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
  **'. . . a brilliant and subtle exercise in "grounded theory".'** *Stuart Hall, Emeritus Professor, The Open University*
 
@@ -2010,7 +2009,6 @@ More fundamentally, a theory of moral panics, moral enterprise, moral crusades o
 
 The one more or less explicit way in which the emergence of the Mods and Rockers as folk devils and the generation of the moral panic around this have been related to each other, is via the model of deviancy amplifi cation. A very truncated form of how one such sequence may have run is illustrated below.
 
-## ![](_page_270_Figure_5.jpeg)
 
 Although it is not implausible to suggest that something like this sequence may have operated, one problem immediately apparent in any attempt to generalize too rigidly from it, is that no readily available explanation exists as to how and why the sequence ever ends. Putting the stages in some context – even as cursorily as this chapter has done – raises one defect of the amplifi cation type of model, namely, that it is a-historical. This is paradoxical, because such processual models were put forward specifi cally to counteract static, canonical theories of deviance. Clearly, the use of cybernetic language such as feedback and stimuli is too automatic and mechanistic and does not allow for the range of meanings given to human action and the way in which the actor can move to shape his own passage. Both these elements can be examined if – taking the sequence merely as one typical movement in time – we try to answer the question of why it ever ended. What stopped the moral panic? Why do we still not have Mods and Rockers with us?
 

@@ -20,7 +20,7 @@ Here is the speech that he gave at the ceremony, transcribed by Alessandro Rubin
 
 Innovation can create riches, and once in a while those riches can lead to general economic prosperity, especially if you don't have neo-liberal economics to impede the result.
 
-But innovation affects things much more important than riches or even economic prosperity. Democracy was an innovation, fascism was an innovation. Today, in Italy, we see the innovation of placing criminal charges against fishermen for saving people from drowning in the sea [\[1\].](#page-7-0) Innovations can directly affect our freedom, which is more important than anything else. Innovation can affect social solidarity, for good or for ill.
+But innovation affects things much more important than riches or even economic prosperity. Democracy was an innovation, fascism was an innovation. Today, in Italy, we see the innovation of placing criminal charges against fishermen for saving people from drowning in the sea \[1\]. Innovations can directly affect our freedom, which is more important than anything else. Innovation can affect social solidarity, for good or for ill.
 
 So when we consider technical progress in computers or in software, the most important question to ask is: How does this affect our freedom? How does this affect our social solidarity? Technically speaking, it's progress, but is it really progress in social and ethical terms, or is it the opposite?
 
@@ -64,4 +64,4 @@ Thank you.
 
 ## **Footnote**
 
-[\[1\]](#page-0-0) Shortly before Stallman's award ceremony, some Tunisian fishermen who had rescued shipwrecked migrants at sea were [arrested in Italy](https://web.archive.org/web/20210115214946/https://www.bbc.com/news/world-africa-45439513) on charges of facilitating illegal immigration.
+\[1\] Shortly before Stallman's award ceremony, some Tunisian fishermen who had rescued shipwrecked migrants at sea were [arrested in Italy](https://web.archive.org/web/20210115214946/https://www.bbc.com/news/world-africa-45439513) on charges of facilitating illegal immigration.

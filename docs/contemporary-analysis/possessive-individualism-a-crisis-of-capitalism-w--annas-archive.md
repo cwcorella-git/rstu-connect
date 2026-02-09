@@ -655,7 +655,6 @@ The earliest phase in this emerging European provisioning program was a gradual 
 
 In England, that timeless precapitalist arrangement began to change early in the fourteenth century when constant rains and cold weather precipitated three years of crop failure and severe famine (1315–1317)—the "three years without summer." A serious agrarian crisis running from 1310 to 1322 took out approximately 10 percent of the population (Hinde, 2003). There was another famine in 1322. By 1325, the population had fallen from 4.7 million to slightly over 4.0 million. Thirty years later a more profound shock arrived when the Black Plague struck. Between 1348 and 1353, total population plunged by 46 percent, and it continued on a downward trajectory for another century, reaching a low of 1.9 million in 1450 (Figure 3.1). This succession of outbreaks persisted—another major one occurred in 1361– 1362—until the great London Plague of 1665–1666 (coinciding with the London Fire of 1666). Death rates in 28 scattered townships on Durham Priory estates ranged between 21 and 78 percent, with an average of
 
-## ![](_page_79_Figure_2.jpeg)
 
 **Figure 3.1.** British Population, 1270–1850 (horizontal line at 1290 population of 4.75 mil.)
 
@@ -707,7 +706,6 @@ Very soon after 1600, a full century and a half before the acknowledged start of
 
 The advent of merchant capitalism in rural areas brought a much-needed infusion of cash—urgent liquidity—into many agricultural households. This new enterprise was not just the well-known cottage industry with housewives and elder daughters spinning thread, weaving small articles of fabric, baking bread, or brewing beer. Now it was husbands and sons manufacturing small wagons, agricultural implements, harnesses, wooden furniture, and assorted specialized tools. Under this evolving proto-industrialism, immediate use was made of the sporadic cash infusions into the household. This new income opportunity entailed very little fixed capital (investment). It was a mode of production—well understood by Adam Smith and David Ricardo—predicated on a small stock of *circulating capital*. Equilibrium in such an economy occurred quickly
 
-## ![](_page_85_Figure_5.jpeg)
 
 **Figure 3.2.** Relative Labor Shares Between Agriculture, Industry, and Services, 1381–1851
 
@@ -955,7 +953,6 @@ While corporate giants succeed in gaining generous financial inducements from lo
 
 The 2016 British vote to leave the European Union was driven, in the main, by the fear of immigrants. But clarity is required. The immigrants of concern in Britain were not "the other" from Syria, Libya, and Senegal. Britain, like all member states of the European Union, has complete control over that alleged menace from outside of the European Community. That is why the so-called Calais Jungle exists just across the Channel from England. The immigrants of potential nuisance to British workers are the citizens of other European Union members—Bulgaria, Romania, and, yes, Poland. Once again, the prevailing mental state of workers in managerial capitalism—now like wary foxes—seems to be that of deep abiding anxiety about what the future will bring. The life of a scavenger and opportunist is a life of uncertainty and dread. It is too easy to imagine all manner of looming threats. The nervous fox rarely sleeps; he is always in pursuit of fleeting sustenance.
 
-## ![](_page_117_Figure_2.jpeg)
 
 **Figure 4.1.** Union Membership as Percent of All Employees *Source*: Nation Master http://www.nationmaster.com/country-info/stats/Labor/Trade-unionmembership#, accessed December 12, 2016.
 
@@ -965,7 +962,6 @@ With weakened worker protection and the growth in part-time work, fragmented lab
 
 In Figure 4.2, we see that the level of *involuntary* part-time work fluctuates along with the unemployment rate. Both seem somewhat cyclical. Following the Great Recession (2007–2009), both were quite high. Since the Recession,
 
-## ![](_page_118_Figure_2.jpeg)
 
 **Figure 4.2.** Unemployment and Involuntary Part-Time Work, 1995–2015 *Source*: FRBSF Economic Letter, 2015–2019, June 8, 2015, "Involuntary Part-Time Work: Here to Stay?" Rob Valletta and Catherine van der List.
 
@@ -975,17 +971,14 @@ In 2014, slightly over 80 percent of total U. S. employment was in the services 
 
 The United States, like most developed nations, is now a service economy. These employment categories are depicted in Figure 4.3. For those politicians and commentators who place so much faith in the revival of manufacturing, the proportion of employment in manufacturing fails to offer much encouragement. Consider Figure 4.4. Here we see an index of manufacturing output compared to total employment in manufacturing. The answer to this obvious
 
-## ![](_page_119_Figure_0.jpeg)
 
 **Figure 4.3.** Share of U. S. Employment by Sector, 2014 *Source*: U. S. Bureau of Labor Statistics, 2017.
 
-## ![](_page_119_Figure_2.jpeg)
 
 **Figure 4.4.** U. S. Manufacturing Employment and Index of Manufacturing Output, 1985–2016
 
 *Source*: Thomson Data Stream: Business Insider, chart-2016-12.
 
-## ![](_page_120_Figure_2.jpeg)
 
 **Figure 4.5.** Trajectory of Population and Employment *Source*: [https://www.bls.gov/ces,](https://www.bls.gov/ces) accessed June 24, 2017.
 
@@ -1005,11 +998,9 @@ This question is pertinent because many politicians express an affinity for poli
 
 For instance, in Figure 4.6 we see the number of one-year old firms from 1994 through 2015. Notice the pronounced dip starting around 2006, and the acceleration associated with the Great Recession of 2007–2009. There has been a decent recovery beginning in 2010, but a more ominous sign is seen in Figure 4.7.
 
-## ![](_page_122_Figure_4.jpeg)
 
 **Figure 4.6.** Number of One-Year-Old Firms, 1994–2015 *Source*: https://www.bls.gov/bdm/entrepreneurship/bdm, accessed June 15, 2017
 
-## ![](_page_122_Figure_6.jpeg)
 
 **Figure 4.7.** Employment in One-Year-Old Firms *Source*: https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm
 
@@ -1019,7 +1010,6 @@ Perhaps a more troubling data series is shown in Figure 4.8. Here we see how man
 
 These data series suggest a worrying trend for total employment over the coming decades. Employment prospects in many legacy industries manufacturing, large retailing, and construction—are falling because of shifts to global sources and automation. Will new firms, if they survive, offer employment prospects that can offset losses elsewhere in the economy? The evidence is not encouraging. As population growth continues, will work prospects remain static? The rendering of the modern household as a fox in an uncertain world of subsistence is ominous.
 
-## ![](_page_123_Figure_5.jpeg)
 
 **Figure 4.8.** Jobs in Net New Firms, 1993–2014 *Source*: [https://www.bls.gov/bdm/entrepreneurship/bdm.htm,](https://www.bls.gov/bdm/entrepreneurship/bdm.htm) accessed June 15, 2017.
 
@@ -1333,11 +1323,9 @@ To get a sense of the disparity under discussion, consider Figures 5.1 and 5.2. 
 
 We see here that in 2017, the 35 OECD countries accounted for total GDP of \$49,626,408,983,000 shared across a population of 1,300,865,255 individuals. The rest of the world (160 countries) had access to a total GDP of \$31,057,378,454,000 shared across 6,229,494,894 individuals. In other
 
-## ![](_page_152_Figure_2.jpeg)
 
 **Figure 5.1.** Total GDP: OECD and Rest of the World, U. S. Dollars, 2017 *Source*: World Development Indicators.
 
-## ![](_page_152_Figure_4.jpeg)
 
 **Figure 5.2.** Per Capita GDP: OECD and Rest of the World, U. S. Dollars, 2017 *Source*: World Development Indicators.
 
@@ -1359,7 +1347,6 @@ From that point forward, dependency theory would reveal itself in terms of a "co
 
 As we turn our attention to contemporary tensions in the global economy, the problem is *not* that a large number of countries possess wheat and livestock. Rather, the problem is that they are abundantly endowed with lowcost unemployed—or underemployed—labor. These countries have little to export, and of course they cannot export their redundant workers desperate for access to the means of labor in the metropolitan core. But these countries *can* export the *products* of that cheap labor by joining with companies in the industrialized world—the core—who wish to drive down the cost of labor. The strategy, well known by now, is to outsource labor-intensive jobs clothing manufacturing, electronics assembly—to such countries by setting up facilities in those low-cost locations.
 
-## ![](_page_155_Figure_2.jpeg)
 
 **Figure 5.3.** Ratio of Argentina's GDP to the GDP of Two Groups of Core Countries *Source*: Campos, 2014.
 
@@ -1447,7 +1434,6 @@ The new country of South Sudan, born out of its liberation struggle while still 
 
 This inevitable process of economic specialization reminds us of the perils of resource-dependent economies. We see the effects of unbuffered exposure to extreme price volatility in the only export available to such countries. As in South Sudan, this dramatic drop in world oil prices that began around 2014 brought severe economic grief to countries as varied as Russia, Venezuela, Nigeria, and other oil exporters. In Iraq, oil exports at the time accounted for
 
-## ![](_page_163_Figure_2.jpeg)
 
 ## **Figure 5.4.** Real World Oil Prices Since 1965
 
@@ -1459,11 +1445,9 @@ This exposure to price volatility is not limited to oil. As we see in Figure 5.5
 
 The momentary rise in oil prices between 2010 and early 2014 shown in Figure 5.5 was not matched by prices of other primary commodities in world markets. In fact, in Figure 5.6, we see that a wide variety of primary commodities have suffered severe drops since the beginning of 2011. The
 
-## ![](_page_164_Figure_1.jpeg)
 
 **Figure 5.5.** Index of Real Prices of Three Classes of Primary Commodities *Source*: World Bank
 
-## ![](_page_164_Figure_3.jpeg)
 
 **Figure 5.6.** Percent Change in Real Commodity Prices, 2011–2014 *Source*: World Bank evidence seems clear that national economies dependent on the export of raw commodities are exposed to severe price fluctuations that disrupt and confound not only household incomes, but general economic policy as well. Such countries are seriously dependent on global economic forces over which they have no control.
 
@@ -1513,7 +1497,6 @@ Turning now to what colonialism and global capitalism have wrought, consider a v
 
 Profound disparities across these three groups of countries are sharply revealed in several noneconomic indicators. The first of these indicators is
 
-## ![](_page_171_Figure_2.jpeg)
 
 **Figure 5.7.** Failure of Convergence *Source*: World Development Indicators, Countries in each category are listed in the Appendix.
 
@@ -1521,7 +1504,6 @@ maternal mortality (during birth) per 100,000 live births. This unfortunate even
 
 These comparisons accentuate the economic and social reality facing the vast majority of the world's citizens. There is no such thing as a shared prosperity, nor has the pursuit of convergence produced much in the way of meaningful progress. When reports appear celebrating the decline in global poverty over the past 20 years, it is rarely noted that the vast majority of those gains have occurred in China under the "Beijing Consensus." This warrants mention because it cannot be said that China is a democratic capitalist country. It is an authoritarian one-party state with complete government control over all aspects of economic life. Despite this, China's growth rate over the past two decades—admittedly starting from a very low level—has been greater than any other known experience. There were times when the government was seeking ways to *slow it down*. Given the constant celebrations of market capitalism, it may be a surprise to learn of such successes.
 
-## ![](_page_172_Figure_2.jpeg)
 
 **Figure 5.8.** Infant Mortality *Source*: World Development Indicators.
 
@@ -2015,7 +1997,6 @@ Acceptance of the warranted belief that smoking is implicated in lung cancer—a
 
 The dynamic nature of an economy is revealed when we realize that the ongoing business of a nation-state is a process of "cycling through" the three realms depicted in Figure 6.1. New beliefs—animated by unwanted outcomes in, or emanating from, the left box via Dewey's Arc—are gradually
 
-## ![](_page_224_Figure_2.jpeg)
 
 **Figure 6.1.** Realms of Ideas, Rules, and Actions worked out until a "better idea" emerges (right box). Once that better idea the new (valuable) belief—has been accepted, the policy process is launched and after much debate, new institutional arrangements (rules) will emerge (middle box) to redefine the fields of action for individuals in the left box (*people doing*).
 
@@ -2259,7 +2240,6 @@ We come to the second challenge to managerial capitalism—the structural proble
 
 As pointed out in Chapter 4, this startling picture attests to the profound "efficiencies" realized by American manufacturing since 1985. We are impressed with the continued rise in manufacturing output at the same time that manufacturing employment has plummeted, especially since around 1997. Worker productivity in manufacturing has accelerated at a remarkable pace. Technical change in manufacturing, but especially automation, has profoundly transformed the historic tedium of the industrial factory. A single worker can now produce so much more than was dreamed of as recently as, say, the early 1990s.
 
-## ![](_page_251_Figure_2.jpeg)
 
 **Figure 7.1.** U. S. Manufacturing Employment and Index of Manufacturing Output: 1985–2016
 
@@ -2394,7 +2374,6 @@ The standard historical account of income inequality has focused on those who re
 
 But there is another profound phenomenon that the comparison in Figure 8.1 does not capture. Specifically, inequality is no longer uniquely
 
-## ![](_page_264_Figure_2.jpeg)
 
 Capital income absorbs between 15% and 25% of national income in rich countries in 1970, and between 25% and 30% in 2000–2010. Sources and series: see piketty.pse.ens.fr/capital21c
 
@@ -2404,7 +2383,6 @@ defined by the *source* of income received (capital versus labor) but rather by 
 
 Recent data from the Luxembourg Income Study (www.lisdatacenter.org) tracks the evolution of earnings and finds that America's super-income earners are found in just three sectors—professional services, finance and insurance, and health care. The top 1 percent of income earners consists of (1) physicians; (2) executives, managers, sales supervisors, and analysts working in the financial sectors; and (3) professional and legal service industry executives, managers, lawyers, consultants and sales representatives. Part of this disparity is attributable to the gap between how much money its elite professionals earn relative to the median worker. Workers at the 90th percentile of the income distribution for professionals make 3.5 times the earnings of the typical (median) worker in all occupations in the United States. Only Mexico and Israel, which have very high inequality, compensate professionals so disproportionately. In Switzerland, the Netherlands, Finland and Denmark, the ratio is about 2 to 1.
 
-## ![](_page_265_Figure_2.jpeg)
 
 The top decile income share rose from less than 35% of total income in the 1970s to almost 50% in the 2000s–2010s. Sources and series: see piketty.pse.ens.fr/capital21c
 
@@ -2418,19 +2396,16 @@ The question worth asking is whether this steep rise in inequality is unique to 
 
 In his definitive work on the subject, Thomas Piketty (2014) asks if the Anglophone countries differ in important ways from other rich countries. Figures 8.4 and 8.5 are clear indications that they do. While inequality in the Anglophone countries of Figure 8.3 started a strong rebound in the early 1980s, this pattern was *not* followed in France, Sweden, Germany, Japan, Denmark, Italy, or Spain. From this evidence, Piketty suggests that we are
 
-## ![](_page_266_Figure_0.jpeg)
 
 **Figure 8.3.** Share of Top Percentile in Total Income
 
 *Source*: Piketty, 2014 (Figure 9.2).
 
-## ![](_page_266_Figure_3.jpeg)
 
 **Figure 8.4.** Share of Top Percentile in Total Income
 
 *Source*: Piketty, 2014 (Figure 9.3).
 
-## ![](_page_267_Figure_2.jpeg)
 
 **Figure 8.5.** Share of Top Percentile in Total Income *Source*: Piketty, 2014 (Figure 9.4).
 
@@ -2462,7 +2437,6 @@ It is understood that in a market culture, one's social standing and esteem are 
 
 At the other extreme, the economies of the metropolitan core reveal a large number of individuals with very low net worth; their asset value as potential labor power is minimal. They are unemployable or have a market value that is inadequate to earn a plausible livelihood. A general embrace of possessive individualism as a cultural norm leads to a shared vision that such people need to pull themselves up and become contributing members of society. In certain political circles, such individuals are considered deserving of their miserable state, or they are seen as ingrates intent on extracting financial support from the public treasury. It seems that the good Parson Thomas Malthus survives in the public imagination.
 
-## ![](_page_271_Figure_2.jpeg)
 
 Top 10 Billionaires versus World Gross Domestic Product, 2016
 

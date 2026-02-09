@@ -62,7 +62,6 @@ review, "but it's far beyond anything currently on the political agenda, so |
 | make him a foremost |
 | author |
 
-## ![](_page_4_Figure_0.jpeg)
 
 a "great climate scientist". When the Earth was that hot 120,000 years ago, seas levels were several meters higher than today's. Hansen and co-authors warn that among a number of "disruptive consequences for human society and ecosystems," the seas could rise to this level again, threatening coastal cities and towns worldwide.
 

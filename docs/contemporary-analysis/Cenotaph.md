@@ -14,7 +14,7 @@ A **cenotaph** is an empty [grave,](https://en.wikipedia.org/wiki/Grave) [tomb](
 
 # **Etymology**
 
-"*Cenotaph*" means "empty tomb" and is derived from the Greek κενοτάφιον, *kenotaphion*, a [compound word](https://en.wikipedia.org/wiki/Compound_(linguistics)) that is created from the [morphological combination](https://en.wikipedia.org/wiki/Morphology_(linguistics)) of two root words:[\[1\]](#page-9-0)[\[2\]](#page-10-0)[\[3\]](#page-10-1)
+"*Cenotaph*" means "empty tomb" and is derived from the Greek κενοτάφιον, *kenotaphion*, a compound word](https://en.wikipedia.org/wiki/Compound_(linguistics)) that is created from the [morphological combination](https://en.wikipedia.org/wiki/Morphology_(linguistics)) of two root words:[\[1\]\[2\]\[3\]
 
 - 1. κενός, *kenos* meaning "empty"
 - 2. τάφος, *taphos* meaning "tomb", from θαπτω, *thapto*, 'I bury'
@@ -27,7 +27,7 @@ The [cenotaph in Whitehall,](https://en.wikipedia.org/wiki/The_Cenotaph,_Whiteha
 
 [Pereira](https://en.wikipedia.org/wiki/Nuno_%C3%81lvares_Pereira), [Vasco da Gama](https://en.wikipedia.org/wiki/Vasco_da_Gama) and [Henry the Navigator](https://en.wikipedia.org/wiki/Henry_the_Navigator).
 
-Lutyens' cenotaph was chosen as a deliberately secular monument.[\[4\]](#page-10-2)
+Lutyens' cenotaph was chosen as a deliberately secular monument.\[4\]
 
 
 The statue of Archbishop [Makarios](https://en.wikipedia.org/wiki/Makarios_III) III near the Kykkos [Monastery](https://en.wikipedia.org/wiki/Kykkos_Monastery) in [Cyprus](https://en.wikipedia.org/wiki/Cyprus)
@@ -43,14 +43,14 @@ The [Basilica di Santa Croce](https://en.wikipedia.org/wiki/Basilica_di_Santa_Cr
 
 ### **South Africa**
 
-[Durban](https://en.wikipedia.org/wiki/Durban) has a striking and unusual [cenotaph](https://en.wikipedia.org/wiki/Durban_cenotaph) made of granite and lavishly decorated with brightly coloured ceramics.[\[5\]](#page-10-3)
+Durban](https://en.wikipedia.org/wiki/Durban) has a striking and unusual [cenotaph](https://en.wikipedia.org/wiki/Durban_cenotaph) made of granite and lavishly decorated with brightly coloured ceramics.[\[5\]
 
 [Gqeberha](https://en.wikipedia.org/wiki/Gqeberha) (its former name [Port Elizabeth](https://en.wikipedia.org/wiki/Port_Elizabeth)) has a cenotaph. Located on the edge of [St George's Park](https://en.wikipedia.org/wiki/St_George%27s_Park,_Port_Elizabeth) in Rink Street, it was designed by Elizabeth Gardner to commemorate the men who died in the First World War (1914–1918) and was erected by the monumental mason firm of Pennachini Bros. On either side of the central sarcophagus are statues by Technical College Art School principal, James Gardner, who served in the trenches during the war. One depicts St George and the Dragon, the other depicts the sanctity of family life. Surrounding the sarcophagus are a number of bas-relief panels depicting scenes and people during the First World War. It was unveiled by Mrs W F Savage and dedicated by Canon Mayo on 10 November 1929. A surrounding memorial wall commemorates the men and women killed during World War II.
 
 
 In Livingstone there is a cenotaph at the Eastern Cataract of The [Victoria Falls](https://en.wikipedia.org/wiki/Victoria_Falls) with the names of the men of Northern Rhodesia who died during the Great War 1914–18. It was unveiled by [Prince Arthur of Connaught](https://en.wikipedia.org/wiki/Prince_Arthur_of_Connaught) on 1 August 1923.
 
-There is also a cenotaph in [Lusaka](https://en.wikipedia.org/wiki/Lusaka) at Embassy Park, opposite the Cabinet Office along Independence Avenue, and commemorates those Zambians who fought and died in World Wars I & II. The cenotaph was commemorated in 1977.[\[6\]](#page-10-4)
+There is also a cenotaph in Lusaka](https://en.wikipedia.org/wiki/Lusaka) at Embassy Park, opposite the Cabinet Office along Independence Avenue, and commemorates those Zambians who fought and died in World Wars I & II. The cenotaph was commemorated in 1977.[\[6\]
 
 
 Cenotaph headstone for [Joshua](https://en.wikipedia.org/wiki/Joshua_Huddy) Huddy, [Manalapan,](https://en.wikipedia.org/wiki/Manalapan,_New_Jersey) New Jersey
@@ -71,7 +71,7 @@ Another cenotaph, which is a replica of the [Argentine](https://en.wikipedia.org
 
 #### **Bermuda**
 
-A limestone replica of the Cenotaph at Whitehall in London was erected outside the Cabinet Building in [Hamilton,](https://en.wikipedia.org/wiki/Hamilton,_Bermuda) [Bermuda](https://en.wikipedia.org/wiki/Hamilton,_Bermuda) (with the cornerstone laid in 1920, and the completed monument unveiled in 1925).[\[7\]](#page-10-5)
+A limestone replica of the Cenotaph at Whitehall in London was erected outside the Cabinet Building in Hamilton,](https://en.wikipedia.org/wiki/Hamilton,_Bermuda) [Bermuda](https://en.wikipedia.org/wiki/Hamilton,_Bermuda) (with the cornerstone laid in 1920, and the completed monument unveiled in 1925).[\[7\]
 
 
 *[Monumento](https://en.wikipedia.org/wiki/Monumento_a_los_ca%C3%ADdos_en_Malvinas) a los caídos en Malvinas* (Monument for the fallen in the [Falklands](https://en.wikipedia.org/wiki/Falklands_War) [War\)](https://en.wikipedia.org/wiki/Falklands_War) is located in Plaza San Martin.
@@ -84,7 +84,7 @@ In Canada, major cenotaphs commemorating the nation's war dead in World War I an
 
 In the [Falkland Islands](https://en.wikipedia.org/wiki/Falkland_Islands), there are several war memorials to commemorate those killed in the [Falklands War](https://en.wikipedia.org/wiki/Falklands_War) in 1982. The main memorial for [Falkland Islanders](https://en.wikipedia.org/wiki/Falkland_Islanders) is the [1982 Liberation](https://en.wikipedia.org/wiki/1982_Liberation_Memorial) [Memorial,](https://en.wikipedia.org/wiki/1982_Liberation_Memorial) a cenotaph erected in [Stanley](https://en.wikipedia.org/wiki/Stanley,_Falkland_Islands) in 1984 which lists all the British Army regiments, RAF squadrons, Royal Navy vessels and the Royal Marine formations and units that took part in the conflict. The names of the 255 British military personnel who died during the war are listed on ten plaques behind the Memorial, divided into the service branches.
 
-Services are held at the Memorial each year on 14 June [\(Liberation Day](https://en.wikipedia.org/wiki/Liberation_Day_(Falkland_Islands))) [\[8\]](#page-10-6) and on [Remembrance Sunday,](https://en.wikipedia.org/wiki/Remembrance_Sunday) with [wreaths](https://en.wikipedia.org/wiki/Remembrance_poppy#United_Kingdom) being laid at the foot of the Memorial.[\[9\]](#page-10-7)
+Services are held at the Memorial each year on 14 June \(Liberation Day](https://en.wikipedia.org/wiki/Liberation_Day_(Falkland_Islands))) [\[8\] and on Remembrance Sunday,](https://en.wikipedia.org/wiki/Remembrance_Sunday) with [wreaths](https://en.wikipedia.org/wiki/Remembrance_poppy#United_Kingdom) being laid at the foot of the Memorial.[\[9\]
 
 
 The Liberation Memorial situated in front of the Secretariat Building in [Stanley,](https://en.wikipedia.org/wiki/Stanley,_Falkland_Islands) [Falkland](https://en.wikipedia.org/wiki/Stanley,_Falkland_Islands) Islands, overlooking [Stanley](https://en.wikipedia.org/wiki/Stanley_Harbour) [Harbour](https://en.wikipedia.org/wiki/Stanley_Harbour)
@@ -98,7 +98,7 @@ The [Battle Monument](https://en.wikipedia.org/wiki/Battle_Monument) in [Baltimo
 
 The Indiana World War [Memorial](https://en.wikipedia.org/wiki/Indiana_World_War_Memorial_Plaza#Cenotaph_Square) contains a public cenotaph to honor James Bethel [Gresham](https://en.wikipedia.org/wiki/James_Bethel_Gresham), perhaps the first member of the American [Expeditionary](https://en.wikipedia.org/wiki/American_Expeditionary_Force) [Force](https://en.wikipedia.org/wiki/American_Expeditionary_Force) killed in [World](https://en.wikipedia.org/wiki/World_War_I) War I.
 
-considered the first war memorial in America, and an early example of a memorial to individual soldiers. The Monument appears on the Seal and the Logo of the City of Baltimore, and serves as a symbol for any agencies of the municipal government.[\[11\]](#page-10-9)
+considered the first war memorial in America, and an early example of a memorial to individual soldiers. The Monument appears on the Seal and the Logo of the City of Baltimore, and serves as a symbol for any agencies of the municipal government.\[11\]
 
 A cenotaph for the defenders of the [Battle of the Alamo](https://en.wikipedia.org/wiki/Battle_of_the_Alamo) (March 1836) stands in front of the [Alamo mission chapel](https://en.wikipedia.org/wiki/Alamo_Mission) in [San Antonio, Texas.](https://en.wikipedia.org/wiki/San_Antonio,_Texas) The cenotaph is empty because the remains of the fallen were cremated.
 
@@ -108,7 +108,7 @@ Atop War Memorial Chapel at [Virginia Tech](https://en.wikipedia.org/wiki/Virgin
 
 [Maya Lin](https://en.wikipedia.org/wiki/Maya_Lin)'s Memorial Wall in the [Vietnam Veterans Memorial,](https://en.wikipedia.org/wiki/Vietnam_Veterans_Memorial) inscribed with the names of the approximately 58,000 service members who died in the [Vietnam War](https://en.wikipedia.org/wiki/Vietnam_War), is one of the most visited monuments in [Washington, D. C.](https://en.wikipedia.org/wiki/Washington,_D. C.)
 
-In [New London, Texas,](https://en.wikipedia.org/wiki/New_London,_Texas) a cenotaph stands dedicated to the more than 300 students and teachers killed in the [New London School explosion](https://en.wikipedia.org/wiki/New_London_School_explosion) on March 18, 1937, when a [natural gas leak](https://en.wikipedia.org/wiki/Natural_gas_leak) caused an [explosion](https://en.wikipedia.org/wiki/Explosion) and destroyed the school.[\[12\]](#page-10-10)
+In New London, Texas,](https://en.wikipedia.org/wiki/New_London,_Texas) a cenotaph stands dedicated to the more than 300 students and teachers killed in the [New London School explosion](https://en.wikipedia.org/wiki/New_London_School_explosion) on March 18, 1937, when a [natural gas leak](https://en.wikipedia.org/wiki/Natural_gas_leak) caused an [explosion](https://en.wikipedia.org/wiki/Explosion) and destroyed the school.[\[12\]
 
 ### **Asia**
 
@@ -136,13 +136,13 @@ In [Kocaeli Province](https://en.wikipedia.org/wiki/Kocaeli_Province) of [Turkey
 
 ### **Belgium**
 
-The Interallied Memorial of Cointe, commissioned by [FIDAC](https://en.wikipedia.org/wiki/FIDAC) (The Interallied Federation of War Veterans Organisations) and built after [World War I](https://en.wikipedia.org/wiki/World_War_I) in [Liège,](https://en.wikipedia.org/wiki/Li%C3%A8ge) is a complex consisting of a cenotaph with a tower as a secular monument and the Sacré-Cœur church as a religious building. Numerous monuments donated by [Allied nations](https://en.wikipedia.org/wiki/Allies_of_World_War_I) are displayed in the tower and on the adjoining esplanade.[\[13\]](#page-10-11)
+The Interallied Memorial of Cointe, commissioned by FIDAC](https://en.wikipedia.org/wiki/FIDAC) (The Interallied Federation of War Veterans Organisations) and built after [World War I](https://en.wikipedia.org/wiki/World_War_I) in [Liège,](https://en.wikipedia.org/wiki/Li%C3%A8ge) is a complex consisting of a cenotaph with a tower as a secular monument and the Sacré-Cœur church as a religious building. Numerous monuments donated by [Allied nations](https://en.wikipedia.org/wiki/Allies_of_World_War_I) are displayed in the tower and on the adjoining esplanade.[\[13\]
 
 #### **France**
 
-In the [Museum of Aquitaine,](https://en.wikipedia.org/wiki/Museum_of_Aquitaine) in [Bordeaux](https://en.wikipedia.org/wiki/Bordeaux), is the cenotaph of [Michel de Montaigne,](https://en.wikipedia.org/wiki/Michel_de_Montaigne) a French Renaissance writer and philosopher. The tomb was sculpted in [1593,](https://en.wikipedia.org/wiki/1593) a year after his death on the request of his wife, Françoise de la Chassaigne, probably by Prieur and Guillerman, two Bordeaux ornamentists.[\[14\]](#page-10-12)
+In the Museum of Aquitaine,](https://en.wikipedia.org/wiki/Museum_of_Aquitaine) in [Bordeaux](https://en.wikipedia.org/wiki/Bordeaux), is the cenotaph of [Michel de Montaigne,](https://en.wikipedia.org/wiki/Michel_de_Montaigne) a French Renaissance writer and philosopher. The tomb was sculpted in [1593,](https://en.wikipedia.org/wiki/1593) a year after his death on the request of his wife, Françoise de la Chassaigne, probably by Prieur and Guillerman, two Bordeaux ornamentists.[\[14\]
 
-On the cenotaph, next to the coat of arms, there are two epitaphs, in Greek and in Latin. The one in Latin begins: "To Michel de Montaigne, son of Pierre, grandson of Grimond, great-grand-son of Raymond, knight of Saint-Michel, exmayor of the city of Bordeaux, a man born for glory, with gentle manners, a witty mind ...".[\[15\]](#page-10-13)
+On the cenotaph, next to the coat of arms, there are two epitaphs, in Greek and in Latin. The one in Latin begins: "To Michel de Montaigne, son of Pierre, grandson of Grimond, great-grand-son of Raymond, knight of Saint-Michel, exmayor of the city of Bordeaux, a man born for glory, with gentle manners, a witty mind ...".\[15\]
 
 
 Cenotaph of Michel de [Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne), Museum of [Aquitaine](https://en.wikipedia.org/wiki/Museum_of_Aquitaine), Bordeaux
@@ -151,7 +151,7 @@ Cenotaph of Michel de [Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montai
 
 #### **London**
 
-A cenotaph in the UK that stands in [Whitehall,](https://en.wikipedia.org/wiki/Whitehall) London, was designed by Sir [Edwin Lutyens](https://en.wikipedia.org/wiki/Edwin_Lutyens)[\[16\]](#page-10-14) and replaced Lutyens' identical wood-and-plaster cenotaph erected in 1919 for the Allied Victory Parade, and is a Grade I [listed building.](https://en.wikipedia.org/wiki/Listed_building) [\[17\]](#page-10-15) It is undecorated save for a carved wreath on each end and the words "The Glorious Dead", chosen by [Lloyd George.](https://en.wikipedia.org/wiki/Lloyd_George) It was intended to commemorate specifically the victims of the [First World War,](https://en.wikipedia.org/wiki/WwI) but is used to commemorate all of the dead in all wars in which British servicemen and women have fought. The dates of the [First World War](https://en.wikipedia.org/wiki/First_World_War) and the [Second World War](https://en.wikipedia.org/wiki/Second_World_War) are inscribed on it in Roman numerals. The design was used in the construction of many other war memorials throughout the British Empire. The Cenotaph is used for annual Armistice Day and Remembrance Sunday Commemorations held every November where all political leaders and ex-prime ministers attend and lay a wreath in dedication to the fallen.
+A cenotaph in the UK that stands in Whitehall,](https://en.wikipedia.org/wiki/Whitehall) London, was designed by Sir [Edwin Lutyens](https://en.wikipedia.org/wiki/Edwin_Lutyens)[\[16\] and replaced Lutyens' identical wood-and-plaster cenotaph erected in 1919 for the Allied Victory Parade, and is a Grade I listed building.](https://en.wikipedia.org/wiki/Listed_building) [\[17\] It is undecorated save for a carved wreath on each end and the words "The Glorious Dead", chosen by [Lloyd George.](https://en.wikipedia.org/wiki/Lloyd_George) It was intended to commemorate specifically the victims of the [First World War,](https://en.wikipedia.org/wiki/WwI) but is used to commemorate all of the dead in all wars in which British servicemen and women have fought. The dates of the [First World War](https://en.wikipedia.org/wiki/First_World_War) and the [Second World War](https://en.wikipedia.org/wiki/Second_World_War) are inscribed on it in Roman numerals. The design was used in the construction of many other war memorials throughout the British Empire. The Cenotaph is used for annual Armistice Day and Remembrance Sunday Commemorations held every November where all political leaders and ex-prime ministers attend and lay a wreath in dedication to the fallen.
 
 #### **Belfast**
 
@@ -161,7 +161,7 @@ The Cenotaph in [Belfast](https://en.wikipedia.org/wiki/Belfast), Northern Irela
 
 #### **Australia**
 
-In Australia, [Anzac Day](https://en.wikipedia.org/wiki/Anzac_Day) commemorations are usually held at all of the nation's many [war memorials](https://en.wikipedia.org/wiki/War_memorial#Oceania), but not all of them are cenotaphs. Cenotaphs include the [Hobart Cenotaph,](https://en.wikipedia.org/wiki/Hobart_Cenotaph) the [Sydney Cenotaph](https://en.wikipedia.org/wiki/Sydney_Cenotaph) and the obelisk within the State War Memorial in [Kings Park](https://en.wikipedia.org/wiki/Kings_Park,_Western_Australia), Perth, Western Australia.[\[18\]](#page-10-16)
+In Australia, Anzac Day](https://en.wikipedia.org/wiki/Anzac_Day) commemorations are usually held at all of the nation's many [war memorials](https://en.wikipedia.org/wiki/War_memorial#Oceania), but not all of them are cenotaphs. Cenotaphs include the [Hobart Cenotaph,](https://en.wikipedia.org/wiki/Hobart_Cenotaph) the [Sydney Cenotaph](https://en.wikipedia.org/wiki/Sydney_Cenotaph) and the obelisk within the State War Memorial in [Kings Park](https://en.wikipedia.org/wiki/Kings_Park,_Western_Australia), Perth, Western Australia.[\[18\]
 
 ### **New Zealand**
 
@@ -169,9 +169,9 @@ In Australia, [Anzac Day](https://en.wikipedia.org/wiki/Anzac_Day) commemoration
 
 # **Cenotaphs for the missing**
 
-Although most notable cenotaphs commemorate notable individuals buried elsewhere, many cenotaphs pay tribute to people whose remains have never been located, particularly those lost at sea. Some such cenotaphs are dedicated to victims of the RMS *[Titanic](https://en.wikipedia.org/wiki/RMS_Titanic)* whose bodies were not recovered after the sinking. Although [Isidor Straus](https://en.wikipedia.org/wiki/Isidor_Straus)'s body was recovered, [Ida Straus](https://en.wikipedia.org/wiki/Ida_Straus)'s body was not, and a cenotaph at the Straus Mausoleum at [Woodlawn Cemetery](https://en.wikipedia.org/wiki/Woodlawn_Cemetery_(Bronx)) in the Bronx is dedicated to Isidor and Ida together. Its inscription reads: "Many waters cannot quench love—neither can the floods drown it."[\[19\]](#page-10-17) [\(Song of Solomon 8:7](https://www.biblegateway.com/passage/?search=Song+of+Solomon+8:7&version=nkj) (htt [ps://www.biblegateway.com/passage/?search=Song+of+Solomon+8:7&version=nkj\)\)](https://www.biblegateway.com/passage/?search=Song+of+Solomon+8:7&version=nkj) The striking cenotaph of Major [Archibald Butt,](https://en.wikipedia.org/wiki/Archibald_Butt) aide to U. S. President [William Howard Taft,](https://en.wikipedia.org/wiki/William_Howard_Taft) is located at [Arlington](https://en.wikipedia.org/wiki/Arlington_National_Cemetery) [National Cemetery.](https://en.wikipedia.org/wiki/Arlington_National_Cemetery) [\[20\]](#page-10-18)
+Although most notable cenotaphs commemorate notable individuals buried elsewhere, many cenotaphs pay tribute to people whose remains have never been located, particularly those lost at sea. Some such cenotaphs are dedicated to victims of the RMS *Titanic](https://en.wikipedia.org/wiki/RMS_Titanic)* whose bodies were not recovered after the sinking. Although [Isidor Straus](https://en.wikipedia.org/wiki/Isidor_Straus)'s body was recovered, [Ida Straus](https://en.wikipedia.org/wiki/Ida_Straus)'s body was not, and a cenotaph at the Straus Mausoleum at [Woodlawn Cemetery](https://en.wikipedia.org/wiki/Woodlawn_Cemetery_(Bronx)) in the Bronx is dedicated to Isidor and Ida together. Its inscription reads: "Many waters cannot quench love—neither can the floods drown it."[\[19\] \(Song of Solomon 8:7](https://www.biblegateway.com/passage/?search=Song+of+Solomon+8:7&version=nkj) (htt [ps://www.biblegateway.com/passage/?search=Song+of+Solomon+8:7&version=nkj\)\)](https://www.biblegateway.com/passage/?search=Song+of+Solomon+8:7&version=nkj) The striking cenotaph of Major [Archibald Butt,](https://en.wikipedia.org/wiki/Archibald_Butt) aide to U. S. President [William Howard Taft,](https://en.wikipedia.org/wiki/William_Howard_Taft) is located at [Arlington](https://en.wikipedia.org/wiki/Arlington_National_Cemetery) [National Cemetery.](https://en.wikipedia.org/wiki/Arlington_National_Cemetery) [\[20\]
 
-In [Inishmore,](https://en.wikipedia.org/wiki/Inishmore) one of the [Aran Islands](https://en.wikipedia.org/wiki/Aran_Islands) of [Ireland,](https://en.wikipedia.org/wiki/Ireland) drowning was formerly such a common cause of death for island fishermen that each family had a memorial to those lost at sea known as *leachtaí cuimhneacháin* (memorial cairns). Most were erected in the 19th century, although some date back to the eighteenth. A modern memorial was erected in 1997.[\[21\]](#page-10-19)[\[22\]](#page-10-20)
+In Inishmore,](https://en.wikipedia.org/wiki/Inishmore) one of the [Aran Islands](https://en.wikipedia.org/wiki/Aran_Islands) of [Ireland,](https://en.wikipedia.org/wiki/Ireland) drowning was formerly such a common cause of death for island fishermen that each family had a memorial to those lost at sea known as *leachtaí cuimhneacháin* (memorial cairns). Most were erected in the 19th century, although some date back to the eighteenth. A modern memorial was erected in 1997.[\[21\]\[22\]
 
 # **Chhatris**
 

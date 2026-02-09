@@ -13,27 +13,27 @@ tags:
 
 ## From Wikipedia, the free encyclopedia
 
-**Inclusive capitalism** is a theoretical concept and policy movement that seeks to address the growing income and wealth inequality within Western capitalism following the [financial crisis of 2007–2008.](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) [\[1\]](#page-2-0)
+**Inclusive capitalism** is a theoretical concept and policy movement that seeks to address the growing income and wealth inequality within Western capitalism following the financial crisis of 2007–2008.](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) [\[1\]
 
 ## **Contemporary understanding**
 
 ### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Inclusive_capitalism&action=edit§ion=1)
 
-[Robert Ashford](https://en.wikipedia.org/wiki/Robert_Ashford) argues that the concept of inclusive capitalism is rooted in the postulates of the [binary economics.](https://en.wikipedia.org/wiki/Binary_economics) [\[2\]](#page-2-1)[\[3\]](#page-2-2)
+Robert Ashford](https://en.wikipedia.org/wiki/Robert_Ashford) argues that the concept of inclusive capitalism is rooted in the postulates of the [binary economics.](https://en.wikipedia.org/wiki/Binary_economics) [\[2\]\[3\]
 
-[C. K. Prahalad](https://en.wikipedia.org/wiki/C._K._Prahalad) opens his 2005 book The Fortune at the Bottom of the Pyramid: Eradicating Poverty Through Profits by asking "Why can't we create inclusive capitalism"[.\[4\]](#page-2-3) He uses the term "inclusive capitalism" to invite readers to focus on underserved consumers and markets in order to create opportunity for all.[\[5\]](#page-3-0)
+C. K. Prahalad](https://en.wikipedia.org/wiki/C._K._Prahalad) opens his 2005 book The Fortune at the Bottom of the Pyramid: Eradicating Poverty Through Profits by asking "Why can't we create inclusive capitalism"[.\[4\] He uses the term "inclusive capitalism" to invite readers to focus on underserved consumers and markets in order to create opportunity for all.\[5\]
 
-In 2012, the [Henry Jackson Society](https://en.wikipedia.org/wiki/Henry_Jackson_Society) created a task force for Inclusive Capitalism Initiative project in order to start a transatlantic conversation about the growing income inequalities and their threat to the capitalist system.[\[6\]](#page-3-1)
+In 2012, the Henry Jackson Society](https://en.wikipedia.org/wiki/Henry_Jackson_Society) created a task force for Inclusive Capitalism Initiative project in order to start a transatlantic conversation about the growing income inequalities and their threat to the capitalist system.[\[6\]
 
-In 2014, Conference on Inclusive Capitalism, co-hosted by the City of London and E. L. Rothschild holding company, was held in London where the concept of inclusive capitalism was discussed as a practical measure[.\[7\]](#page-3-2) At another conference in 2015 the "Pathway to Action" was brainstormed[.\[8\]](#page-3-3) In the same 2015 year, the Coalition for Inclusive Capitalism was registered in the United States as a not-for-profit organization.[\[9\]](#page-3-4) [Lynn](https://en.wikipedia.org/wiki/Lynn_Forester_de_Rothschild) [Forester de Rothschild](https://en.wikipedia.org/wiki/Lynn_Forester_de_Rothschild) became the founding CEO of the Coalition. At the 2016 Conference on Inclusive Capitalism in [New York City,](https://en.wikipedia.org/wiki/New_York_City) participants expressed commitment to promote inclusive economic growth[.\[10\]](#page-3-5) Members of the Coalition expressed a belief that all stakeholders, including business and society, should be engaged in the enactment of an inclusive capitalism agend[a\[1\]](#page-2-0)[\[11\]](#page-3-6)
+In 2014, Conference on Inclusive Capitalism, co-hosted by the City of London and E. L. Rothschild holding company, was held in London where the concept of inclusive capitalism was discussed as a practical measure.\[7\] At another conference in 2015 the "Pathway to Action" was brainstormed.\[8\] In the same 2015 year, the Coalition for Inclusive Capitalism was registered in the United States as a not-for-profit organization.\[9\] Lynn](https://en.wikipedia.org/wiki/Lynn_Forester_de_Rothschild) [Forester de Rothschild](https://en.wikipedia.org/wiki/Lynn_Forester_de_Rothschild) became the founding CEO of the Coalition. At the 2016 Conference on Inclusive Capitalism in [New York City,](https://en.wikipedia.org/wiki/New_York_City) participants expressed commitment to promote inclusive economic growth[.\[10\] Members of the Coalition expressed a belief that all stakeholders, including business and society, should be engaged in the enactment of an inclusive capitalism agenda\[1\]\[11\]
 
-In 2019, the Embankment Project for Inclusive Capitalism (EPIC) undertaken by the Coalition together with [Ernst & Young](https://en.wikipedia.org/wiki/Ernst_%26_Young) reported its findings in a white paper. It was a pioneering effort to "develop a framework and identify meaningful metrics to report on long-term and inclusive value creation activities that heretofore have not been captured on traditional financial statements"[.\[12\]](#page-3-7)
+In 2019, the Embankment Project for Inclusive Capitalism (EPIC) undertaken by the Coalition together with Ernst & Young](https://en.wikipedia.org/wiki/Ernst_%26_Young) reported its findings in a white paper. It was a pioneering effort to "develop a framework and identify meaningful metrics to report on long-term and inclusive value creation activities that heretofore have not been captured on traditional financial statements"[.\[12\]
 
-In 2020, the Council for Inclusive Capitalism, a partnership of the Coalition with the Vatican, was created[.\[13\]](#page-3-8)[\[14\]](#page-3-9)
+In 2020, the Council for Inclusive Capitalism, a partnership of the Coalition with the Vatican, was created.\[13\]\[14\]
 
-[John Kay](https://en.wikipedia.org/wiki/John_Kay_(economist)) claims that most of the 21st-century businesses are already inclusive[.\[15\]](#page-3-10)
+John Kay](https://en.wikipedia.org/wiki/John_Kay_(economist)) claims that most of the 21st-century businesses are already inclusive[.\[15\]
 
-[Nafeez Ahmed](https://en.wikipedia.org/wiki/Nafeez_Ahmed) describes the Inclusive Capitalism Initiative as a [Trojan Horse](https://en.wikipedia.org/wiki/Trojan_Horse) assembled to pacify the coming global revolt against capitalism[.\[16\]](#page-4-0)
+Nafeez Ahmed](https://en.wikipedia.org/wiki/Nafeez_Ahmed) describes the Inclusive Capitalism Initiative as a [Trojan Horse](https://en.wikipedia.org/wiki/Trojan_Horse) assembled to pacify the coming global revolt against capitalism[.\[16\]
 
 - [Community capitalism](https://en.wikipedia.org/wiki/Community_capitalism)
 - [Humanistic capitalism](https://en.wikipedia.org/wiki/Humanistic_capitalism)

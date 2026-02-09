@@ -50,4 +50,3 @@ Whereas, the coal that is proposed to be shipped through the bulk export termina
 
 , there are numerous alternative commodities, other than coal, which could be shipped through the bulk export terminal that are neither detrimental to the global climate or the
 
-## ![](_page_2_Figure_0.jpeg)

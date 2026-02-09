@@ -8,7 +8,6 @@ tags:
   - peace
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 #### **Durham East Asia Series**
 
@@ -581,7 +580,6 @@ Lelang's historical course was varied. During the Wang Mang interregnum in China
 
 The commanderies of Lelang and Daifang were organized along the same bureaucratic lines as Han Dynasty provinces with local subdivisions. This was the jun-xian system, variously translated as "country" and "prefecture" by Han W. K. (1970: 19,30), and as "commandery" and "prefecture" by Hatada (1969: 3) and Ikeuchi (1929); the latter terms will be used here. The commandery heads were short-term appointees from the central Han and Wei courts, but it is generally understood that immigrant Chinese families from the former Chosŏn polity supplied the ranks of senior and junior officials in the commandery and that local officials were drawn from the native peninsular population (Gardiner 1969: 20); Pai H. I. 1989a, b; see also Mc Cune 1950). Pai H. I. has examined burial evidence from the region for the effects of acculturation on local populations. Thus, the bureaucratic hierarchy incorporated and emphasized ethnic differences, perhaps utilizing previous Chosŏn rankings for bureaucratic placement and extending Chinese administrative patterns into areas beyond former Chosŏn control.
 
-![](_page_44_Figure_0.jpeg)
 
 **Figure 1.3** The Chinese commanderies, Koguryŏ and Samhan in the Proto-Three Kingdoms period (after Gardiner 1969)
 
@@ -613,7 +611,6 @@ Kwanggaet'o, in ad 414. Now located in the northeastern Chinese province of Jili
 
 The mature Koguryŏ state is thought by Han W. K. (1970: 52–3) to have taken shape during the reign of King Sosurim (371–84) and reached maturity after the move to P'yŏngyang. Han sees the state administration as having developed through three stages. At first there were twelve grades of nonspecialized officials. These officials were later divided into two groups, the (K.) Hyŏng ("Elder brothers") taking over "the powers formerly exercised by the various tribes", the (K.) Saja ("Messengers") being concerned with communications and tax collecting. Finally fourteen governmental posts were established, each of which had its own rank and title and the top five of which handled the important affairs of state. Li O. has written at length on Koguryŏ myths and social customs in addition to political and administrative matters (1980, 1988). The historical and archaeological materials upon which such studies are based have been recently compiled into two volumes by Yonsei University's Research Institute of National Learning (Yonsei Taehakkyo 1987–8 [in Ref. List]). Lee K. B. furthermore discusses the formation of the Koguryŏ state with regards to ethnicity, territory and politics, evaluating the utility of the concepts "wall-town state" and "tribal state" (1985 [in Ref. List]). The Koguryŏ military system and martial arts have also come under scrutiny (Asmolov 1992; Anon. 1971b). In 598, Koguryŏ was attached by the newly centralized Sui dynasty in China (Wong 1980) and a later alliance between Tang China and Silla finally overcame and destroyed Koguryŏ in ad 668. Upon its defeat, the southern part of Koguryŏ was incorporated into United Silla and the northern part emerged as the state of Parhae. 19
 
-![](_page_48_Figure_0.jpeg)
 
 **Figure 1.4** Koguryŏ territory and major military movements between ad 242 and 341 with archaeological sites
 
@@ -659,7 +656,6 @@ The Samhan, or Three Han, were described in the Sanguozbi as being situated sout
 
 Efforts to determine the locations of individual guo have been controversial and largely unsuccessful. For example, the guo called (K.) Mokchi has been hypothesized to have existed in modern Chiksan, Iksan, Kongju, Kwangju and even northern Korea (Kim J. B. 1974: 6). Despite these geographical problems, some population data is available to reflect on the sizes of both the guo and the Samhan themselves. Mahan is said in the Sanguozbi to have contained more than 100,000 households, with large guo having some 10,000 households each and small guo having a few thousand each. Kim J. B. (1974) has converted these data into a population estimate of more than 500,000 for Mahan, based on an assumed five-member family for the Bronze Age.
 
-![](_page_56_Figure_0.jpeg)
 
 **Figure 1.5** The Samhan and major sites in the Proto-Three Kingdoms period
 
@@ -774,7 +770,6 @@ Lee's proposed five-stage scheme of development derives its chronology from the 
 
 In the middle of the 5th century, occult Buddhism was first introduced to Silla by four monkish missionaries, but the cult was resisted by the aristocracy. 39 The beginning of the 6th century, however, saw many reforms along Chinese lines, with Silla adopted as the official name of the country, the Chinese title of wang (king) introducted, and the reign-year system adopted. By mid-century, a new capital near the old walled capital site began to be laid out following the Chinese gid-city pattern, modeled on Chang'an (Kim C. W. 1966: 5; Barnes 1988d, 1991 [see Chapter 6, this volume]). Perhaps these changes helped breakdown the resistence to foreign influences since in 527, King Pŏphŭng officially instituted Buddhism as the state religion (Kim J. M. 1992; Mc Clung 1978; Rhi K. Y. 1989); Lee K. B. (1989) recalculates the official date as 535. From this time onwards, Silla pursued expansionist policies, gradually absorbing the Kaya polities (Pon-Kaya in 532 and Tae-Kaya in 562) and occupying the Han River basin in the mid-6th century (Figure 1.8). Conversely, in the late 6th and early 7th centuries, it suffered hostile intentions from Paekche and Yamato in the Japanese archipelago (Wong 1980). Finally, an alliance with Tang China enabled Silla to conquer Paekche in 660 and Koguryŏ in 668 (cf. Jamieson 1969, 1970), finally unifying the Korean peninsula below the Taedong River into one state, United Silla, 40 which lasted until 935.
 
-![](_page_75_Figure_0.jpeg)
 
 **Figure 1.8** Expansion of Silla from its capital at Kŭmsŏng, 6th and 7th centuries ad (after Sohn et al. 1970)
 
@@ -790,7 +785,6 @@ The foregoing sections have reviewed the current variety of opinion concerning s
 
 Nevertheless, there does seem to be a consensus in the usage of the term "state" in the Korean literature which differs fundamentally from the way it is used in anthropological archaeology. It is applied by most Korean authors to politically centralized entities mentioned as guo in historical documents. Since many of these guo existed prior to the mounded tomb evidence for social stratification, it can be proposed that the Korean use of "state" includes the commonly recognized though ill-defined anthropological categories of both "chiefdom" and "state" (cf. Earle 1977 [in Ref. List]). The term "chiefdom" is reserved in Korean studies primarily to denote those potentially centralized but anonymous entities recognizable only through archaeological remains (e.g. Bronze Age dolmen/cist burials) by authors who have had anthropological training abroad (cf. Choi M. L. 1984; Rhee S. N. 1984); such entities are usually called "tribal societies" by traditional historians.
 
-## ![](_page_78_Figure_0.jpeg)
 
 **Figure 1.9** United Silla and Parhae territories and regional capitals in the 8th century ad (after Han W. K. 1970)
 
@@ -1612,7 +1606,6 @@ Donghwa, 153–63.
 
 —— 1960a. An early Chinese gilt bronze Buddha from Seoul. Artihus Asiae 22.1. Reprinted in Kim, W. Y. 1986a: 378–82.
 
-## ![](_page_116_Figure_0.jpeg)
 
 - —— 1986a. Art and Archaeology of Ancient Korea. Seoul: Taekwang. —— 1986b. Buddhist Sculpture of Korea. Seoul: Taekwang. Reprinted in Kim, W. Y. 1986a: 286–345. —— & Pearson, R. 1977. Three royal tombs: new discoveries in Korean
 - archaeology. Archaeology 30.5: 302–13. Reprinted in Kim, W. Y. 1986a (see above), 221–30.
@@ -1670,7 +1663,6 @@ Press.
 - —— 1972b. Aspects économiques dans l'histoire de la Corée à l'époque des trois royaumes. Annuaire de l'Ecole Pratique des Hautes Etudes, 4eme section 103, 104: 701–4. (in French)
 - —— 1973. Aspects sociaux dans Phistoire de la Corée a Pépoque des trois royaumes. Annuaire de l'Ecole Pratique des Hautes Etudes, 4eme section 105: 713–6. (in French)
 
-## ![](_page_120_Figure_0.jpeg)
 
 #### Nelson, S. M.
 
@@ -2032,7 +2024,6 @@ Stoneware clays do not melt but undergo a chemical transformation when fired abo
 
 Table 3.2 Wares resulting from different clays fired at high and low temperatures
 
-## ![](_page_157_Figure_1.jpeg)
 
 Conclusions based on Table 3.2 are that no matter how high earthenware clays are fired, they will not become stoneware because they do not have the correct chemical compositions. Earthenware clays can only be used to make earthenware; fired above 1100 or 1200°C, they will melt. In contrast, two kinds of pottery can be made using stoneware clays: earthenware and stoneware. Fired at temperatures under 1000°C, vessels made of stoneware clay have the same properties as those of earthenware-clay vessels: high porosity, similar degrees of softness and hardness, etc., and are therefore included in the earthenware category (Fournier 1973: 70). Without mineralogical analyses, these low-fired stoneware-clay earthenware vessels are indistinguishable from earthenware-clay vessels. High-fired stonewareclays become stoneware with the formation of mullite. However, stoneware cannot be distinguished from earthenware by determining firing temperature alone since its range overlaps with hard-fired earthenwares. Mineralogical analysis is necessary, and the identification of mullite is usually accomplished with a scanning electron microscope with microprobe. The significance of this discussion for Korean ceramic history is that current debates concerning the development of stoneware which are based on intuitive assessments of hardness, or measurements of firing temperature alone, are futile.
 
@@ -2052,7 +2043,6 @@ In the Shang period, a technical advance on the simple Neolithic updraught kiln 
 - A. The down-draught Mantou kiln (on left) with vertical (upper) and horizontal (lower) cross-sections
 - B. The cross-draught Long kiln (on right) with vertical (upper) and horizontal (lower) cross-sections
 
-## ![](_page_160_Figure_4.jpeg)
 
 **Figure 3.3** Maximum firing temperatures achieved for ceramics from Late Neolithic to Post-Han times (after Li 1985)
 
@@ -2136,7 +2126,6 @@ The fact that all the kiln structures described above have sloping floors argues
 
 The shortest tunnels have the steepest floors, while the longest tunnels have low gradients. It is likely that increasing floor slope was a crucial factor in facilitating regular stoneware production in Korea. This solution, however, differed from that in China where kiln length was also increasing in great increments. After exceeding 6m in length, the effective distance for the long flame of pinewood fuel to travel, fireholes would have to be added to keep up the temperature within a very long Long kiln (Nigel Wood, pers. comm. 1989). In Korea, if chambers were kept within the 6m limit or so, increasing the floor slope would have created a stronger draft for a higher temperature attainment.
 
-![](_page_169_Figure_0.jpeg)
 
 **Figure 3.6** Scatterplot of floor slope against chamber length for kiln dimensions given in Table 3.3
 
@@ -2314,7 +2303,6 @@ Iron armour was first discovered in southeastern Korea (the Yŏngnam area) durin
 
 **Figure 5.3** Drawings of Koguryŏ armour in 6th-century tomb murals at Donggou (after Dien 1981/82: fig. 26)
 
-![](_page_194_Figure_0.jpeg)
 
 **Figure 5.4** Bone lamellae for horse bardings, excavated at Mongch'on Tosŏng near Seoul (after Mongch'on 1985: fig. 61)
 
@@ -2328,7 +2316,6 @@ Pokch'ŏn-dong, Taesŏng-dong, Wŏlsan-ri and Yangdong-ri. 4 (Site numbers are k
 
 1 Chisan-dong: Located west of Koryŏng village in South Kyŏngsang province on a idge of 160–180m m.s.l., the cemetery is comprised of several large mounded tombs, ca. 20m in diameter, and medium-sized tombs, ca. 10m in diameter. Other stone chambers whose mound sizes are unclear are also known. Mound size appears to be correlated with altitude, with the largest positioned at the highest points on the idge. These are thought to be the burials of the Tae-Kaya kings (tombs #47–51) and nobles (#44–5). Excavations were carried out in the late 1970s, and the largest armour find came from tomb #32, a medium-sized mound. Included was a 5th-century set comprised of rectangular-plated riveted cuirass, riveted keeled helmet, and the two halves of a yoke-guard (see type descriptions below, Figure 5.16\). This combination of armour and helmet, well known from 5thcentury tombs in Japan, is the first set to be discovered in Korea.
 
-![](_page_196_Figure_0.jpeg)
 
 **Figure 5.5** Sites mentioned in the text
 
@@ -2533,7 +2520,6 @@ knives,
 socketed
 axe/ adze |
 
-![](_page_213_Figure_0.jpeg)
 
 **Figure 5.18** Main burial #11 (above) and accessory burial #10 (below) at Pokch'ŏn-dong (after Pusan University Museum 1982: figs. 6, 14)
 
@@ -2690,7 +2676,7 @@ The challenge for us in understanding the development of Korean walled sites is 
 **Figure 6.2** Combination-type *sansŏng* showing how walls were extended from a summit-type *sansŏng* to include surrounding valleys (after Yun & Song 1980)
 
 
-**Figure 6.3a** A long wall (*changsong*) at Kwanmun in the southeast peninsula (after Park B. R. 1982) see also [Figure 8.3, [Chapter 8\]](#page-288-0)
+**Figure 6.3a** A long wall (*changsong*) at Kwanmun in the southeast peninsula (after Park B. R. 1982) see also Figure 8.3, [Chapter 8\]
 
 
 **Figure 6.3b** The Koryŏ-period *changsŏng* across the neck of the peninsula (after Han W. K. 1987)
@@ -2703,7 +2689,6 @@ Discussing site function based on artifact assemblage is a difficult task. The p
 
 There are more difficulties at yet another level. Assigning function to artifacts and features is a problem in itself. For example, at the walled site of Chinhae Kwisan, a cache of roundish stones was discovered near the inside of the wall (Shim B. K. 1984). These have been interpreted by analogy as missiles, and the context of the find was clearly important in determining such a use. If they had occurred in a neolithic site, no doubt they would have been interpreted as boiling stones or weights. The assignment of function is thus dependent on more than the artifact's own characteristics. In a further example of assessing the function of archaeological features, the hypothesized nature of a building's superstructure can lead to very different assumptions of use. An extreme example of this, though later than the Three Kingdoms, is offered by alternative drawings of a Chosŏn building reconstruction (Figure 6.5) at Kŭmchŏng Sansŏng (Han'guk Munhwajae Yŏn'guwŏn 1979). A fully enclosed building with a stronghold door is going to necessarily be of an entirely different use than an open pavilion-type structure. These problems serve to point out the potentially arbitrary nature of functional interpretations – a situation which has given functionalism a bad name within archaeological enquiry. However, when one is interested in the roles played by different sites within a settlement system, one is dealing primarily with problems of function and cannot escape the problems of interpretation. Thus, all due caution must be exercised in proposing interpretations.
 
-![](_page_230_Figure_1.jpeg)
 
 **Figure 6.4** Transformations of urban plans in Shang- and Zhou-period China
 
@@ -2824,7 +2809,6 @@ mid-east wall | 3K(P) |
 | | Sq | square |
 ## | | Rec | rectangular |
 
-![](_page_235_Figure_2.jpeg)
 
 **Figure 6.6** Excavations of stone-line foundations (left) Chŏksŏng (after Song J. T. 1978); (right) Ch'ŏngpung (after Pak Y. B. 1984)
 
@@ -2850,7 +2834,6 @@ This evidence argues strongly against Wandu being a square walled city located o
 
 This irregularly shaped earth-walled site, located in Seoul's Olympic Park, occupies a natural hillock on the south bank of the Han river (Figure 6.7). The earthen ramparts of Mongch'on T'osŏng follow the natural terrain of the hill promontory which forms the end of the foothills reaching down to river's edge; the bluffs had been artificially increased in height, steepened in angle, and connected together with earth-workings. This was accomplished by excavating a moat around the promontory; it is currently fed by a tributary of the Han. True tamped earth-wall construction of the Chinese style is thought to have been introduced in the Three Kingdoms period, but the earliest documented example is here at Mongch'on T'osŏng (Yun 1984). The ramparts, 2.3km in circumference, stand 10–17m in height and enclose 21.6 hectares. The walls are currently breached in nine places – at least three of which were for original gates on the north, east and south sides. A timber palisade accompanied the ramparts, enclosing 21.5 hectares; and four earthen platform foundations were laid at the highest points on the ramparts for watch towers (at 33.4m, 37.3m, 37.5m, and 44.8m m.s.l.). The bestpreserved platform was in the southeast, but no traces of buildings could be ascertained on it.
 
-## ![](_page_239_Figure_1.jpeg)
 
 **Figure 6.7** The walled site of Mongch'on T'osŏng (adapted from Kim W. Y. 1987)
 
@@ -2895,7 +2878,6 @@ When Isŏng Sansŏng was first excavated, it was interpreted as a Paekche site. 
 
 Puso Sansŏng, also called Sabisŏng, is located in the Kŭm river drainage at the modern town of Puyŏ. It encloses 237 hectares including three peaks of an isolated mountain (106m m.s.l.), and is currently connected with long walls that extend to the southwest and far to the southeast (Figure 6.10 above). Just below the site at the base of the southern slope stands the Puyŏ National Museum and the preserved office of a Yi Dynasty local administrator; the town of Puyŏ spreads out beyond. Three gates led into the walled site on the east, south and west; while the northern wall is broken by gate and canal remains. The interior of the site is further partitioned by three more walls: one encloses the southeastern-most peak, which contains the remains of military storage granaries and a lookout tower; the second adjoins to that on the southwest; and a third encircles two peaks each occupied by a watchtower in the northwest (Figure 6.10 below). This walled site is said to be a combination-type construction (Song J. T. 1984), but it appears from the scale drawings that the internal partitions were built subsequent to the valleyencircling wall, rather than the walls being extended from original summitringing sansŏng walls.
 
-![](_page_246_Figure_1.jpeg)
 
 **Figure 6.10** The fortress remains at the Paekche capital of Sabi
 
@@ -3032,7 +3014,6 @@ Kaya kings. It thus appears that Kaya might have been a local place name and eth
 
 Interestingly, the *Karak Kukki* chapter itself does not give the names of any other Kaya entities, even though there were five other Kaya kings mentioned in another short chapter elsewhere in the *Samguk Yusa* entitled "The Five Kaya"; this chapter gives two different versions of the names and annotations on their supposed locations (cf. Table 7.1).
 
-![](_page_260_Figure_0.jpeg)
 
 **Figure 7.1** Distribution of the classical "Five Kaya" and Karak (Kŭmgwan-Kaya) with their geographical referents (after Ryu 1989)
 
@@ -3111,7 +3092,6 @@ The fruits of Kim's labour can be seen in Figures 7.2 and 7.3, showing the distr
 
 It should be noted that the number of Late Kaya polity names far exceed the original Five Kaya recorded in the *Samguk Yusa*. Four of the original names are now listed under their original or new names (see Table 7.1, right-hand column): Ara-Kaya, Kŭmgwan-Kaya became Nam-Kaya; Tae-Kaya became Kaya; So-Kaya became Koja-Kaya. Also, Pihwa-Kaya has been elevated to independent status as Pijahwa; and Koryŏng-Kaya and Songsan-Kaya have disappeared. Beyond these, 9 new names have been added. It is apparent that many of these new names are drawn from the Japanese chronicles, the *Nihon Shoki*, compiled in the 8th century. Although these chronicles postdated the Late Kaya period by two to three centuries, records of interaction between the Late Kaya polities and Yamato have been preserved therein. The role of the Chinese court documents, so important for earlier windows onto Samhan and Early Kaya society, had ended by this time; and the indigenous Korean documents of the early historical period (Samguk Sagi, Samguk Yusa, Poncho Sarak, and Koryŏsa) tended to continue the use of traditional names in opposition to the Japanese tendency for re-naming. Kim draws upon the Nihon Shoki to provide the broadest, most varying view of Late Kaya polity distribution.
 
-![](_page_270_Figure_0.jpeg)
 
 **Figure 7.2** Distribution of the Pyŏnhan *guo* (outlined), including Kuya (double outline), and Samhan-Early cemeteries (numbered) with types of burial facilities noted below; shading is mountainous area (after Kim D. S. 1991: figs. 1, 3) Key to 7.2:
 
@@ -3161,7 +3141,6 @@ chambers |
 
 It can be seen from the above discussion of the Taesŏng-dong cemetery composition that Kim's Early Kaya period can be refined to distinguish between the Pyŏnhan iron-producing society under Lelang influence and the Kaya society which arose after the fall of Lelang in the early 4th century. A further refinement can be made towards the end of the Kim's Early Kaya period in that at the end of the 4th century, the Kimhae region where the Taesŏng-dong cemetery was located declined and activity shifted to the east bank of the Naktong River in the area of modern Tongnae within Pusan City. This area supports the Pokch'ŏng-dong cemetery which was used for several centuries during Kaya development. It particularly becomes flourescent in the 5th century with the construction of large wooden chamber tombs yielding iron armour see [Chapter 5, this volume].
 
-![](_page_273_Figure_0.jpeg)
 
 **Figure 7.3** Distribution of modern towns (letters) and cemeteries (numbers); shading is mountainous area (based on Kim D. S. 1991: figs. 2, 4 with no *27* added; and Kang H. S. 1990). Key to 7.3:
 
@@ -3313,7 +3292,6 @@ There is also debate concerning the stimulus for Kaya-type stonechamber construc
 
 Choi B. H. postulates that Kaya-type stone-chamber construction results from the Silla influence of mounded-stone construction (1990, 1994). Here a northeastern Chinese derivation is proposed (Hong 1994). In none of these discussions has Japan been cited as a possible source even though pitstyle stone chamber tombs were widespread in the western Japanese Islands in the 4th century. Conversely, Yŏngnam archaeologists believe the Silla tradition to post-date the Kaya tradition by up to a century, and Shin K. C. (1993) postulates that the Silla burial type actually receives the influence of contemporary Yŏngnam wooden chamber construction for use in its stonepiled tombs. The different dating schemes for the Silla burials have been reviewed by Lee C. S. (1991), resulting in three different groupings of archaeological dating. The earliest stone-mounded wood-chamber burial in the Kyŏngju region is universally agreed to be Hwangnam-dong #109, which happens to be designated a royal tomb. Early chronologies made no distinctions between the different graves in #109, but recent datings distinguish between #109–1, 2 (late) and #109–3, 4 (early). 10 Current dating estimates for the early graves, based purely on relative and intuitive chronologies, vary between ca. 320 (Group 1 dating); ca. 410–20 (Group 2), and ca. 350–410 (Group 3). Thus, the early graves can be dated anywhere between ad 320 and 410 see [Chapter 8, this volume]. In the following discussion, a date of early 5th century will be adopted, based on other evidence that the emergence of a Silla elite in the visible archaeological record did not occur until the early 5th century. In contrast, the appearance of Kaya-type stone burials happened earlier, in the mid-4th century.
 
-![](_page_280_Figure_0.jpeg)
 
 **Figure 7.4** The Kaya pit-style stone chamber of tomb #38 in the Kyesŏng Tomb Cluster Loc. B in Ch'angnyŏn; the top has been destroyed through land-use activities (after Pusan University Museum 1995: fig. 120)
 
@@ -3455,7 +3433,6 @@ However, it is not clear whether the iron at Sara-ri was, in fact, imported from
 
 At the end of the 3rd century, another product appears in the local burial sequence that is thought to be an import from the south coast: Kaya-type stoneware, which heralds the beginning of the Three Kingdoms period. It occurs in some of the later wooden chamber burials at Hwangsŏng-dong and at the site of Kujŏng-dong, southeast of Kyŏngju. In 1982, a pair of wooden chamber burials were excavated at Kujŏng-dong on the summit of a small circular hill and one more on the slope off the summit (Ch'ŏi C. K 1995); although the burials were unmounded, the natural hill appears as a small tumulus. The different-sized chambers on the summit are interpreted as belonging to a couple (Han B. S. 1992), and the contents of the three chambers together yielded Wajil pottery, two stoneware jars of Kaya-type Puwŏn-dong C, 25 iron spearheads, knife, axe and arrowheads in addition to the earliest iron cuirass yet recovered on the peninsula. The site has been variously dated to the terminal 3rd or early 4th century (Han B. S. 1992: 9; Ch'ŏi C. K. 1995: 236).
 
-![](_page_294_Figure_2.jpeg)
 
 **Figure 8.2** Histogram of wooden chamber burial shapes (length/width) at Hwangsŏng-dong cemetery, showing a shift to long thin shapes exceeding a ratio of 3.0. Burial numbers are in histogram boxes (after An C. H. 1995: 124)
 
@@ -3465,7 +3442,6 @@ These long graves contain the most iron of any Kyŏngju burials and the beginnin
 
 However, this indigenous trend appears to have been transcended by the adoption of a completely different burial structure using stone in the Three Kingdoms period. The addition of stone to Yŏngnam burial construction is somewhat of a throw-back to Bronze Age traditions.4 Many of the stone cist and stone-lined burials of the Bronze Age produced elegant examples of decorated and unusually shaped bronze objects. The bronze tradition itself and stone-constructed burials are thought by many scholars to have been introduced through a migration of Tungus language speakers from Northeast Asia in the early 1st millennium bc. With the subjugation of the northern peninsula by the Han Dynasty court in 108 bc, these Bronze Age traditions seemed to have died out and were replaced by wood coffin and wooden chamber burial, as discussed above, under Chinese influence. Then, with the destruction of the Lelang commandery in 313 by Koguryŏ, a second wave of northeast Asian traditions can be seen on the southern peninsula. The institution of stone-piled burials, imported styles of horse trappings, and gold-working are the main manifestations of that influence in the Kyŏngju region.
 
-![](_page_296_Figure_0.jpeg)
 
 **Figure 8.3** The Kyŏngju Basin showing the locations of Proto-Three Kingdoms cemeteries with wooden chamber burials (squares) and Three Kingdoms walled sites (circles) protecting the basin. Key to 8.3:
 
@@ -3526,13 +3502,11 @@ century, =from/to, + | | | | |
 
 **Figure 8.4** Comparative examples of stone chamber construction
 
-## ![](_page_299_Figure_1.jpeg)
 
 Figure 8.4a Pit-style stone chamber, Pokch'ŏn-dong, Pusan (after Pusan University Museum 1990)
 
 (above) vertical cross-section chamber and pit; (below) horizontal plan of chamber only
 
-## ![](_page_299_Figure_4.jpeg)
 
 Figure 8.4b Ch'onma-chŏng royal stone-piled wooden chamber: a wooden coffin and grave goods box inside the wooden chamber, covered with stones then earth, Kyŏngju (after Kim W. Y. 1983: fig.
 
@@ -3654,7 +3628,6 @@ By the time of the construction of the royal Silla stone-mounded tombs on the Ky
 
 In the art historical literature, the stoneware of the Three Kingdoms period is commonly known as Silla ware. However, it is now clear that stoneware was not invented in Silla, and the typical shapes identified as Silla ware actually began in the Kaya area (Figure 8.6\). 22
 
-![](_page_314_Figure_0.jpeg)
 
 **Figure 8.6** 5th-century Kaya and Silla stoneware compared: note the perforations offset from vertical in the Silla pedestals and their straight angle of flare as opposed to the curved flare of Kaya pedestals. From the early 6th century, Silla stoneware was adopted in the Tae-Kaya region in Naktong-west following the conquest of 562 (after Sadamori 1992: fig. 3)
 
@@ -3690,7 +3663,6 @@ Surrounding the Kyŏngju Basin are several fortress sites which protected the em
 
 According to the specifications laid out above, Panwŏl-sŏng,25 the most obvious walled fortress in the Kyŏngju Basin \(Figure 8.3F, 8.7), can be seen as a very early construction: it is located at low altitude near a river and has simple earth-mounded walls. It presumably functioned as the palace (Pak P. L. 1992; Tanaka 1995; Kim C. H. 1995) of the 4th–5th century Sarŏ-Silla entity until a gidded city was built modelled on the Tang Chinese plan on the plains just north of the fortress. Excavations have been recently conducted at both, showing Panwŏl-sŏng to have had a water access point on its northern side and revealing many large buildings with pillar foundation stones in the gidded city beyond (KKPC 1985). The Silla capital has traditionally been referred to as Kŭmsŏng, but it is not clear whether this name applied to Panwŏl-sŏng, the gidded capital or both.26 The moat itself yielded 30 new wooden tablets, one of which was inscribed with "eighth street" (Cho YJ. & Nan SJ. 1990).
 
-![](_page_319_Figure_0.jpeg)
 
 **Figure 8.7** Silla mounded tomb clusters and the outline of the 7th-century gidded Kŭmsŏng capital and palace (after Azuma & Tanaka as reproduced in Kim C. H. 1995). Key to 8.7:
 

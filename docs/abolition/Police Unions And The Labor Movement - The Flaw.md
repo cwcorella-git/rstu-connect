@@ -23,8 +23,6 @@ Ultimately, civilian flaggers were not the threat Massachusetts police feared. A
 
 Civilian flaggers have come up again in the current negotiations over Boston's police union contract. At a [recent](https://www.youtube.com/watch?v=DWwCWyJNESs) [City Council hearing,](https://www.youtube.com/watch?v=DWwCWyJNESs) local activists spoke about the need to break up "the nonsensical monopoly the BPD [Boston Police Department] has on construction details, so more residents can work good-paying union jobs with benefits." In response, the Boston police union posted a picture of the activists on [its](https://twitter.com/Boston Patrolmen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Twitter,](https://twitter.com/Boston Patrolmen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) accusing them of "cop-blaming" and "cop-hating."
 
-## ![](_page_1_Figure_5.jpeg)
-
 
 Screenshot of a tweet from the Boston Police Patrolmen's Association, @Boston Patrolmen.
 

@@ -6,7 +6,6 @@ tags:
   - racism
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 MAY 28, 2010, 8:45 P. M.
 
@@ -144,7 +143,6 @@ e wreckage after white mobs destroyed the houses of the black residents of Rosew
 
 No white person was prosecuted for the violence in Phillips County, but dozens of Black men accused of killing white people were charged with murder. Public ocials promised a nascent lynch mob that there would be executions, asking the mob to refrain from violence. Witnesses were tortured into confessions, and all-white juries were seated. In the end, twelve Black men were sentenced to death by juries that deliberated for less than ve minutes. e NAACP secured legal counsel for the death-sentenced men, and the cases culminated in the landmark United States Supreme Court decision in *Moore v. Dempsey.* e *Moore* Court recognized the mob violence against African Americans that formed the background for the case and held that the defendants were entitled to seek federal habeas corpus relief to challenge their trial. e Court held that when defendants are provided a trial but "the whole proceeding is a mask-that counsel, jury and judge were swept to the fatal end by an irresistible wave of public passion" then defendants are entitled to federal habeas corpus relief.23 Eventually, all twelve defendants avoided execution through commutations, reductions of charges, or dismissals. 24
 
-## ![](_page_14_Figure_0.jpeg)
 
 The Red Summer of 1919 was particularly violent, but instances of mass racial terror continued in the following years. In 1921, white Oklahomans razed an affluent section of Tulsa that had been nicknamed "Black Wall Street" under the pretext that a Black man had raped a white woman. In reality, white residents felt threatened by the economic success of the Black community. In 1923, all the Black residents of Rosewood, Florida fled for their lives after local white mobs killed at least six and burnt down the church and all the homes in the
 
@@ -339,7 +337,6 @@ Despite the declining use of the death penalty, racial disparities persist in it
 
 roughout the modern era of capital punishment, people of color have been overrepresented on death row. In 1980, 45.6% of death row prisoners were people of color, and this percentage has increased every decade. By 2019, this percentage had risen to
 
-## ![](_page_34_Figure_0.jpeg)
 
 57.8%. Currently, white and African-American prisoners each comprise 42% of those on death row and Latinx prisoners make up 13%, with 3% of death row comprised of other races/ethnicities. ese gures can be contrasted with the racial and ethnic makeup of the population as a whole. Approximately 60.4% of the population is white.94
 
@@ -373,7 +370,6 @@ A comparison of national homicide data and execution data between 1976 and 2014 
 
 Black males are . . . roughly 6% of the population but 37% of the homicide victims; whereas this group is by far the most likely to be victimized compared to any other group in the population, their killers have a rate of execution less than 1/13th that of white females, statistically the least likely of any population group to be the victim of homicide.114
 
-## ![](_page_37_Figure_4.jpeg)
 
 "[I]t is not so much that the death penalty has a race problem as it is that the race problems of America manifest themselves through the implementation of the death penalty."
 
@@ -491,7 +487,6 @@ Writing for the Court majority, Justice Brett Kavanaugh explained, "e numbers sp
 
 Flowers' case is extreme only because of the sheer number of trials; it is not unusual to nd prosecutors exercising peremptory strikes to exclude jurors based on race.166 Prosecutorial discrimination typically goes unredressed. Researchers found that
 
-## ![](_page_46_Figure_0.jpeg)
 
 #### Prosecutors' jury selection notes from three Georgia death penalty cases qualified Black jurors were struck from juries at more than twice the rate of qualified white jurors in 173 North Carolina capital cases between 1990-2010. As of 2010, twenty percent of those on North Carolina's death row were sentenced to death by all-white juries. Yet, in the thirty years after the *Batson v. Kentucky* decision, neither the North Carolina Court of Appeals nor the North Carolina Supreme Court ever granted relief in the more than 100 cases in which a *Batson* issue was contested. The North Carolina Supreme Court's sole grant of *Batson* relief to date occurred in May 2020. The North Carolina Supreme Court's sole grant of *Batson* relief to date occurred in May 2020.
 
@@ -651,9 +646,6 @@ Local Black Lives Matter groups also have adopted this broader focus. In Los Ang
 
 #### Stand Your Ground and Legally Authorized Violence Against Black People
 
-## ![](_page_62_Figure_1.jpeg)
-
-## ![](_page_62_Figure_2.jpeg)
 
 Comparison of homicides ruled justied in Stand Your Ground and Non-Stand Your Ground states
 

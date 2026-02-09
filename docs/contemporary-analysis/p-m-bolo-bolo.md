@@ -814,8 +814,6 @@ One of the problems of social institutions — even when they fulfill the best a
 
 16 Actually the Greek term *demokratia* designates the rule of the *demes*, which doesn't mean the population, but the clans of citizens, originally tribal units owning their land for autarky in food (pretty much of *bolo*-type, except that there was slavery, of course). Outside the *deme* there was no citizenship, *autarkeia* being the condition of political
 
-## ![](_page_79_Figure_0.jpeg)
-
 
 dala
 
@@ -1088,16 +1086,12 @@ Compared to the bicycle, even such means of public transportation as trolleys, t
 The street system, maintenance of which is very labor intensive (pouring asphalt or concrete, fixing potholes, etc.), can be reduced so that there is only one road to every *bola* or farm. Most roads in the cities will be superfluous, and most country roads and highways can be narrowed to one or two lanes. The remaining automobile traffic will be slow and unimportant. There will still be some tru As (operated with bio-gas, steam, wood, gasoline), some buses, ambulances, fire-engines, special transports.
 
 
-## ![](_page_97_Figure_3.jpeg)
-
-
 Some motorways can be used as race tracks for entertainment. A 200 kilometer (120 miles) highway could be reserved for such purposes. At both ends car parks, where you could choose a fast sports car. Without any speed limits, the drivers could then drive back and forth between the two ends of the speedway. So those *ibus* who like driving fast and who use the car as a means of entertainment and risk could still do it. Such a speedway would be less costly than today's car traffic, in spite of expenditures for gas, ambulances, medical care, car maintenance, etc.
 
 If the *ibu* wants, it can get by bicycle from Cairo to Luanda, from New York to Mexico City, from New Delhi to Shanghai. But it could also take local and regional means of transportation operated by counties and regions (*sumi*). In many cases, these will be slow — railroads (steam-, electricity-, or coal-powered) that aren't terribly frequent and that stop at every station. There will also be navigation on canals, along coasts. There will be buses.
 
 What kinds of connections are available will depend entirely upon the regional communities and the geographic conditions (deserts, mountains, swamps). In an average region, you would possibly find not much more than two lines of public transportation:
 
-## ![](_page_99_Figure_3.jpeg)
 
 When an *ibu* wants to travel far, it'll go to the nearest station of the intercontinental railroads, which are operated by a commission of the planetary assembly (*asa'dala*) and which form a kind of backbone of continental transportation. The rail system would be about like this:
 

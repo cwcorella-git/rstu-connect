@@ -127,9 +127,6 @@ To measure the extent of the behavioral change from ablating to simulation, we u
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_10_Figure_7.jpeg)
-
-## ![](_page_11_Figure_2.jpeg)
 
 We find that correlation scoring and ablation scoring have a clear relationship, on average. Thus, the remainder of the paper uses correlation scoring, as it is much simpler to compute. Nevertheless, correlation scoring appears not to capture all the deficits in simulated explanations revealed by ablation scoring. In particular, correlation scores of 0.9 still lead to relatively low ablation scores on average (0.3 for scoring on random-only text excerpts and 0.6 for top-and-random; see [below](about:reader?url=https%3A%2F%2Fopenaipublic.blob.core.windows.net%2Fneuron-explainer%2Fpaper%2Findex.html#sec-algorithm-details) for how these text excerpts are chosen). This might happen if subtle variations in the activation of a neuron (making the difference, say, between a correlation score of 0.9 and 1.0) played an outsized role in its function within the network.
 
@@ -137,7 +134,6 @@ We find that correlation scoring and ablation scoring have a clear relationship,
 
 One potential worry is that simulation-based scoring does not actually reflect human evaluation of explanations [\(see here for](about:reader?url=https%3A%2F%2Fopenaipublic.blob.core.windows.net%2Fneuron-explainer%2Fpaper%2Findex.html#sec-limitation-simulator) [more discussion\)](about:reader?url=https%3A%2F%2Fopenaipublic.blob.core.windows.net%2Fneuron-explainer%2Fpaper%2Findex.html#sec-limitation-simulator). We gathered human evaluations of explanation quality to see whether they agreed with score-based assessment. We gave human labelers tasks where they see the same text excerpts and activations (shown with color highlighting) as the simulator model (both top-activating and random), and are asked to rate and then rank 5 proposed explanations based on how well those explanations capture the activation patterns. We found the explainer model explanations were not diverse, and so increased explanation diversity by varying the few-shot examples used in the explanation generation prompt, or by using a modified prompt that asks the explainer model for a numbered list of possible explanations in a single completion.
 
-## ![](_page_12_Figure_3.jpeg)
 
 Our results show that humans tend to prefer higher-scoring explanations over lower-scoring ones, with the consistency of that preference increasing as the size of the score gap increases.
 
@@ -156,7 +152,6 @@ When generating explanations, we use 5 "top-activating" text excerpts, which hav
 - Including examples of random or lower-quantile sequences in the explanation generation prompt reduced explanation scores.
 - Interpreting maximally negative activation sequences also gave extremely low explanation scores. For other activation functions like GeGLU, this would likely be untrue and we would need to separately explain positive and negative activations.
 
-## ![](_page_14_Figure_4.jpeg)
 
 Thus, for the remainder of this paper, explanations are always generated from 5 top-activating sequences unless otherwise noted. We set a top quantile threshold of 0.9996, taking the 20 sequences containing the highest activations out of 50,000 total sequences. We sample explanations at temperature 1.
 
@@ -170,7 +165,6 @@ Note that "random-only" scoring with small sample size risks failing to capture 
 
 Below we show some prototypical examples of neuron scoring.
 
-## ![](_page_16_Figure_5.jpeg)
 
 a neuron with a particularly good top-and-random score, but bad random-only score, due to behavior in the low-activation regime
 
@@ -182,7 +176,6 @@ In most places, we calculate this using 1.96 times the standard error of the mea
 
 ## Layer 0 Random Only Scoring Top And Random Scoring
 
-## ![](_page_17_Figure_7.jpeg)
 
 Note that individual scores for neurons may be noisy, especially for random-only scoring. With that in mind, out of a total of 307,200 neurons, 5,203 (1.7%) have top-and-random scores above 0.7 (explaining roughly half the variance), using our default methodology. With random-only scoring, this drops to 732 neurons (0.2%). Only 189 neurons (0.06%) have top-and-random scores above 0.9, and 86 (0.03%) have random-only scores above 0.9.
 
@@ -202,7 +195,6 @@ The linear token-based prediction baseline is a somewhat unfair comparison, as t
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_20_Figure_4.jpeg)
 
 ### Token-based prediction using lookup tables
 
@@ -218,7 +210,6 @@ The resulting token lookup table-based explanation results in a score similar to
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_22_Figure_2.jpeg)
 
 # Next-token-based explanations
 
@@ -226,9 +217,6 @@ We noticed that some neurons appear to encode the predicted next token rather th
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_22_Figure_6.jpeg)
-
-## ![](_page_23_Figure_2.jpeg)
 
 # Revising explanations
 
@@ -250,9 +238,6 @@ We find that the revised explanations score better than the original explanation
 
 Top And Random Scoring Top And Random and Generated Scoring
 
-## ![](_page_25_Figure_6.jpeg)
-
-## ![](_page_26_Figure_2.jpeg)
 
 We find that revision is important: a baseline of re-explanation with the new sentences ("reexplanation") but without access to the old explanation does not improve upon the baseline. As a followup experiment, we attempted revision using a small random sample of sentences with nonzero activations ("revision\_rand"). We find that this strategy improves explanation scores almost as much as revision using generated sentences. We hypothesize that this is partly because random sentences are also a good source of false positives for initial explanations: roughly 13% of random sentences contain false positive activations for the original model explanations.
 
@@ -260,9 +245,6 @@ Overall, revisions lets us exceed scores on the token lookup table explanations 
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_26_Figure_6.jpeg)
-
-## ![](_page_27_Figure_2.jpeg)
 
 Qualitatively, the main pattern we observe is that the original explanation is too broad and the revised explanation is too narrow, but that the revised explanation is closer to the truth. For instance, for [layer 0 neuron 4613](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html#/layers/0/neurons/4613) the original explanation is "words related to cardinal directions and ordinal numbers". GPT-4 generated 10 sentences based on this explanation that included many words matching this description which ultimately lacked significant activations, such as "third", "eastward", "southwest". The revised explanation is "this neuron activates for references to the ordinal number 'Fourth'", which gives far fewer false positives. Nevertheless, the revised explanation does not fully capture the neuron's behavior as there are several activations for words other than fourth, like "Netherlands" and "white".
 
@@ -289,7 +271,6 @@ MLP layer), which has 3072 neurons. For each 3072-dimensional direction, we ran 
 
 We find that the average top-and-random score after 10 iterations is 0.718, substantially higher than the average score for random neurons in this layer (0.147), and higher than the average score for random directions before any optimization (0.061).
 
-## ![](_page_30_Figure_4.jpeg)
 
 One potential problem with this procedure is that we could repeatedly converge upon the same explainable direction, rather than finding a diverse set of local maxima. To check the extent to which this is happening, we measure and find that the resulting directions have very low cosine similarity with each other.
 
@@ -297,9 +278,6 @@ We also inspect the neurons which contribute most to
 
 \Sigma^{-1/2}\theta and qualitatively observe that they are often completely semantically unrelated, suggesting that the directions found are not just specific neurons or small combinations of semantically similar neurons. If we truncate to only the top n neurons by correlation of its activations with the direction's activations, we find that a very large number of neurons is needed to recover the score (with the explanation fixed). We also tried truncating based on magnitude of coefficient, which resulted in even poorer scores.
 
-## ![](_page_31_Figure_3.jpeg)
-
-## ![](_page_32_Figure_2.jpeg)
 
 #### Direction
 
@@ -336,9 +314,6 @@ One important hope is that explanations improve as our assistance gets better. H
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_34_Figure_8.jpeg)
-
-## ![](_page_35_Figure_2.jpeg)
 
 We also obtained a human baseline from labelers asked to write explanations from scratch, using the same set of 5 top-activating text excerpts that the explainer models use. Our labelers were nonexperts who received instructions and a few researcher-written examples, but no deeper training about neural networks or related topics.
 
@@ -350,13 +325,9 @@ With a poor simulator, even a very good explanation will get low scores. To get 
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_35_Figure_8.jpeg)
-
-## ![](_page_36_Figure_2.jpeg)
 
 Of course, simulation quality cannot be measured using score. However, we can also verify that score-induced comparisons from larger simulators agree more with humans, using [the human](about:reader?url=https%3A%2F%2Fopenaipublic.blob.core.windows.net%2Fneuron-explainer%2Fpaper%2Findex.html#sec-human-scoring) [comparison data described earlier.](about:reader?url=https%3A%2F%2Fopenaipublic.blob.core.windows.net%2Fneuron-explainer%2Fpaper%2Findex.html#sec-human-scoring) Here, the human baseline comes from human-human agreement rates. Scores using GPT-4 as a simulator model are approaching, but still somewhat below, human-level agreement rates with other humans.
 
-## ![](_page_36_Figure_4.jpeg)
 
 # Subject model trends
 
@@ -368,17 +339,11 @@ One natural question is whether larger, more capable models are more or less dif
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_37_Figure_7.jpeg)
-
-## ![](_page_38_Figure_2.jpeg)
 
 To understand the basis for this trend, we examine explainability by layer. For layer 16 onward, average explanation scores drops robustly with increasing depth, using both top-and-random and random-only scoring. For shallower layers, top-and-random scores also decrease with increasing depth,However, we find the second layer (layer 1) of many large models to have very low scores, potentially related to the fact that they contain many dead neurons. while random-only scores decrease primarily with increasing model size. Because larger models have more layers, these trends together mean that explanation scores decline with increasing model size.
 
 #### Random Only Scoring Top And Random Scoring
 
-## ![](_page_38_Figure_5.jpeg)
-
-## ![](_page_39_Figure_2.jpeg)
 
 Note that these trends may be artificial, in the sense that they mostly reflect limitations of our current explanation generation technique. [Our experiments on "next token"-based explanation](about:reader?url=https%3A%2F%2Fopenaipublic.blob.core.windows.net%2Fneuron-explainer%2Fpaper%2Findex.html#sec-next-token) lend credence to the hypothesis that later layers of larger models have neurons whose behavior is understandable but difficult for our current methods to explain.
 
@@ -388,9 +353,6 @@ One interesting question is whether the architecture of a model affects its inte
 
 #### Random Only Scoring Top And Random Scoring
 
-## ![](_page_39_Figure_7.jpeg)
-
-## ![](_page_40_Figure_2.jpeg)
 
 Increasing activation sparsity consistently increases explanation scores, but hurts pre-training loss. Each parameter doubling is approximately 0.17 nats of loss, so the 0.1 sparsity models are roughly 8.5% less parameter-efficient, and 0.01 sparsity models are roughly 40% less parameter-efficient. We hope there is low hanging fruit for reducing this "explainability tax". We also find that RELU consistently yields better explanation scores than GeLU.
 
@@ -400,9 +362,6 @@ Another question is how training time affects explanation scores for a fixed mod
 
 ## Random Only Scoring Top And Random Scoring
 
-## ![](_page_40_Figure_7.jpeg)
-
-## ![](_page_41_Figure_2.jpeg)
 
 Training more tends to improve top-and-random scores but decrease random-only scores. One extremely speculative explanation for this is that features get cleaner/better with more training (causing random-and-top scores to increase) but that there are also more interfering features due to superposition (causing random-only scores to decrease) At a fixed level of performance on loss, smaller models perhaps tend to have higher explanation scores.
 

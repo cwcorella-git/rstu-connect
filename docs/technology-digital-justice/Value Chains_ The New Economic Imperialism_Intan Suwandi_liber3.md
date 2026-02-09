@@ -7,7 +7,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 #### **WINNER OF THE PAUL A. BARAN – PAUL M. SWEEZY MEMORIAL AWARD**
 
@@ -375,7 +374,6 @@ In order to understand the signicance of data on unit labor costs, it is useful 
 
 Chart 1, which reports average hourly labor compensation in manufacturing industries in 2017 U. S. dollars, illustrates a massive discrepancy in wage levels that exists between economies of the Global North and Global South. Here, hourly compensation is converted into actual dollars—representing the hegemonic foreign exchange/reserve currency determining the purchase price of labor, prot margins, and international nancial
 
-## ![](_page_59_Figure_2.jpeg)
 
 **CHART 1: Average Hourly Compensation in Manufacturing, 2017 USD**
 
@@ -387,9 +385,6 @@ ows—rather than applying a purchasing power parity conversion (see Appendix 1)
 
 e much higher rates of exploitation of workers in the Global South has to do not simply with low wages, but also with the fact that the dierence in wages between the North and South is greater than the dierence in productivity. Chart 2 presents an index of unit labor costs in a number of key core and peripheral countries accounting for signicant shares of GSC jobs in the global economy between 1995 and 2014—a period stretching from the development of the high-tech bubble of the 1990s to the Great Financial Crisis of 2007–09 to the early years of recovery from the crisis.70
 
-## ![](_page_60_Figure_1.jpeg)
-
-## ![](_page_60_Figure_2.jpeg)
 
 Sources: WIOD-SEA, Release 2013 and 2016; Timmer et. al., "An Illustrated User Guide to the World Input–Output Database: the Case of Global Automotive Production," Review of International Economics 23/3 (2015): 575–605.
 
@@ -401,7 +396,6 @@ Chart 3 focuses on changes in unit labor costs in emerging economies in the Glob
 
 **CHART 3: Average Unit Labor Cost in Manufacturing Relative to the U. S., Selected Global South Countries, 1995–2014**
 
-## ![](_page_61_Figure_3.jpeg)
 
 Source: See chart 2.
 

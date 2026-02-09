@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Figure_0.jpeg)
-
 
 How Agent Provocateurs Harm Our Movements by Steve Chase 2021
 
@@ -50,7 +48,6 @@ This publication was funded in part by a grant from Humanity United (HU). The op
 - 40 References
 - 42 About the Author / Acknowledgments
 
-## ![](_page_7_Figure_0.jpeg)
 
 As governments around the world, including our own, face more and more popular resistance, we are witnessing a revival of the use of agent provocateurs.
 
@@ -143,7 +140,6 @@ Andre Marin, the Ontario Ombudsman, called the large undercover operation "the m
 
 Perhaps the biggest public exposure of government surveillance, inltration, and agent provocateur activity against social movements anywhere in the world occurred in the United States following a late-night activist break-in of the Federal Bureau of Investigation's local oce in Media, Pennsylvania, in 1971. As noted in the documentary lm 1971, this small group of peace activists was fed-up by ongoing repression against free speech, the right to assemble, and seeking a redress of grievances from a supposedly democratic government (Hamilton 2014). What these activists found, after studying their many boxes of stolen documents, was clear conrmation of the existence and activities of the FBI's now-infamous campaign
 
-## ![](_page_21_Figure_0.jpeg)
 
 ## Redacted COINTELPRO FBI Memo. 1970
 
@@ -268,7 +264,6 @@ Figure 1: The Decline of Nonviolent Discipline During the Post-2006 Decline in C
 
 Source: Erica Chenoweth, "The Rise of Nonviolent Resistance," PRIO Policy Brief 19 (2016).
 
-## ![](_page_39_Figure_3.jpeg)
 
 These ndings, and the updated ndings in Chenoweth's (2020) article on "The Future of Nonviolent Resistance," suggest that activists and organizers should be very skeptical of the claims made by sincere activists who advocate for or engage in the use of low-level violence or even more destructive violence alongside organized civil resistance activities.
 
@@ -427,4 +422,3 @@ Unsurprisingly, movement opponents use agent provocateurs—fake activists worki
 Drawing from international examples and an in-depth case study of the US Black Liberation Movement, this volume explores how agent provocateurs—and agent provocateur-like behavior—make movements smaller, weaker, and easier to defeat. It also offers some ideas for how activists can inoculate their movements against such harms and increase their chances of success.
 
 
-## ![](_page_51_Figure_3.jpeg)

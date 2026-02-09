@@ -120,17 +120,6 @@ Future COPs will make efforts at enforcement of the non-binding Paris summit agr
 
 Evidently, nothing useful to solve this crisis will come from world elites. The action will continue to be at the coal-face local sites of "Blockadia" and then an aggregation of these, to make national contestations—such as over South African government economic policy—the battlegrounds where activists can muster strength to change the balance of power.
 
-## ![](_page_11_Figure_0.jpeg)
-
-## ![](_page_12_Figure_0.jpeg)
-
-## ![](_page_13_Figure_0.jpeg)
-
-## ![](_page_14_Figure_0.jpeg)
-
-## ![](_page_15_Figure_0.jpeg)
-
-## ![](_page_16_Figure_0.jpeg)
 
 | VICTORY! Seriously, G7 Says Goodbye to Fossil Fuels! |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

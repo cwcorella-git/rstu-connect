@@ -7,8 +7,6 @@ tags:
   - culture
 ---
 
-## ![](_page_0_Figure_0.jpeg)
-
 
 Fanon, Film, and Liberation in Africa, Selected Takes 1965–1987
 
@@ -127,8 +125,6 @@ It's crucial to note that the images that make up Concerning Violence are not fr
 We hope their inclusion, together with all the efforts made and gifts offered by the people who collaborated to make this film, will serve the larger challenge that Fanon put forth: to set afoot a new human being and, perhaps, a different future. And that depends on every one of us.
 
 
-## ![](_page_20_Figure_0.jpeg)
-
 ## Professor Gayatri Chakravorty Spivak rantz Fanon was born on the Caribbean island of Martinique in 1925 and grew up a young gentleman of the French Empire. He realized, when he came from the island of Martinique to the mainland of France in Europe, through involvement in De Gaulle's Free French army in Algeria earlier, that his class standing among his own black people did not mean anything in the country of the colonizing masters—he was nothing but a black man. In a famous chapter in his book Black Skin, White Masks (rejected as a dissertation by a French university), he mentions his shock when a white French child cries out to her mother: "Mama, see the Negro!" But Fanon moves from just this shock into an attempt to understand colonization all over the world. In this very book, in the last chapter, he walks us through a reading of the European philosopher Hegel's famous chapter "Master and Slave" and turns it to his own use. As we watch the film Concerning Violence, we remember this in the freedom fighters' invocation of the named states of Mozambique and Angola, borders established by the imperialists. Fanon's lesson was that you use what the masters have developed and turn it around in the interests of those who have been enslaved or colonized. In this he is with great leaders like W. E. B. Du Bois and Nelson Mandela. Fanon did not stop at thinking colonization, as he wanted to do something about it. He gave his time and skill to the healing of those who suffered from violence. He was placed in Algeria in North Africa, an African country that spoke French—as the resisters in this film speak Portuguese—creolizing the master's language as their very own. Such thinking is shared by great writers such as Assia Djebar of Algeria, Njabulo Ndebele of South Africa, and Syed Abdul Malik of India. As a trained psychiatrist, working in the Blida-Joinville Psychiatric Hospital and developing a radical theory of colonial psychopathology, he helped those who fought against French colonialism with the FLN, the National Liberation Front of Algeria, joining the party himself in 1954. My friend Assia Djebar, whom I have already mentioned, worked with him in Tunisia and has shared with me in detail the actual experience of his work—to heal the effects of violence, rather than to condone violence as such.
 
 Fanon died at thirty-six, and we would have gained greatly if this man of fire and resolution had lived long enough to give us his wisdom when the colonized nations regularly fell into internal violence and internal class struggle and internal greed after so-called liberation. The issue of colonization is a greed shared by humankind. No one is better than anyone, every generation must be trained in the practice of freedom, caring for others, as did Fanon, and that is what colonization stops. Within the greed for capital formation, colonization allows already existing ignorant racism to spread the markets in the name of civilization or modernization or globalization, as it does today.
@@ -200,8 +196,6 @@ Decolonization, which sets out to change the order of the world, is, obviously, 
 
 -Frantz Fanon
 
-## ![](_page_31_Figure_0.jpeg)
-
 
 ## Chapter One
 
@@ -238,17 +232,12 @@ The naked truth of decolonization evokes for us the searing bullets and bloodsta
 
 -Frantz Fanon
 
-## ![](_page_38_Figure_0.jpeg)
-
 
 ## Chapter Two
 
 ## Indifference his interview with Tonderai Makoni (later known as Simba Makoni) was part of a half-hour show on political prisoners and torture called Fokus, shown on national broadcast in Sweden in 1970. The show was produced in collaboration with Amnesty International and featured testimonials by people from South Africa, Nepal, the United Kingdom, and Poland. Dr. Makoni returned after the fall of the Ian Smith regime in Rhodesia and became Zimbabwe's minister of industry and energy at only thirty-one years old. He much later became the minister of finance but has since been part of the political opposition to Robert Mugabe, and ran an election campaign in 2008 for president, finishing third.
 
 -Editors' Note
-
-
-## ![](_page_44_Figure_0.jpeg)
 
 
 ## Chapter Three
@@ -424,8 +413,6 @@ In the colonies the economic substructure is also a superstructure. The cause is
 
 -Frantz Fanon
 
-## ![](_page_66_Figure_0.jpeg)
-
 
 ## Chapter Six
 
@@ -440,8 +427,6 @@ All values, in fact, are irrevocably poisoned and diseased as soon as they are a
 I speak of the Christian religion, and no one need be astonished. The Church in the colonies is the white people's Church, the foreigner's Church. She does not call the native to God's ways but to the ways of the white man, of the master, of the oppressor. And as we know, in this matter many are called but few chosen.
 
 -Frantz Fanon
-
-## ![](_page_71_Figure_0.jpeg)
 
 
 # Interview with Two Swedish Missionaries in Moshi, Tanzania, Conducted by Reporter Bo Bjelfvenstam in 1970
@@ -547,10 +532,6 @@ This is why the dreams of the native are always of muscular prowess; his dreams 
 
 -Frantz Fanon these patterns of conduct are those proves to the settler that these men danger, a suicidal behavior which of the death reflex when faced with are not reasonable human beings. way to turn when faced with the the period when the niggers beat each other up, and the police and has been deposited in his bones against his own people. This is astonishing waves of crime. All magistrates do not know which manifest the aggressive
 
-## ![](_page_83_Figure_0.jpeg)
-
-## ![](_page_84_Figure_0.jpeg)
-
 
 ## Chapter Seven
 
@@ -629,8 +610,6 @@ Decolonization never takes place unnoticed, for it influences individuals and mo
 
 -Frantz Fanon
 
-## ![](_page_98_Figure_0.jpeg)
-
 
 ## Chapter Nine
 
@@ -650,8 +629,6 @@ The private companies put pressure on their own governments at least to set up m
 
 -Frantz Fanon
 
-
-## ![](_page_105_Figure_0.jpeg)
 
 FOR CENTURIES THE CAPITALISTS have behaved in the underdeveloped world like nothing more than war criminals. Deportations, massacres, forced labor, and slavery have been the main methods used by capitalism to increase its wealth, its gold or diamond reserves, and to establish its power. Not long ago, Nazism transformed the whole of Europe into a veritable colony. The governments of European nations called for reparations and demanded the wealth which had been stolen from them: cultural treasures, pictures, sculptures, and stained glass have been given back to their owners.
 
@@ -733,7 +710,6 @@ Nor will we agree to the help for underdeveloped countries being a program of "s
 
 -Frantz Fanon
 
-## ![](_page_112_Figure_0.jpeg)
 
 THE FUNDAMENTAL DUEL, which seemed to be that between colonialism and anticolonialism, and indeed between capitalism and socialism, is already losing some of its importance. What counts today, the question which is looming on the horizon, is the need for a redistribution of wealth. Humanity must reply to this question or be shaken to pieces by it.
 
@@ -761,9 +737,6 @@ But if we want humanity to advance a step further, if we want to bring it up to 
 For Europe, for ourselves, and for humanity, comrades, we must turn over a new leaf, we must work out new concepts and try to set afoot a new human being.
 
 -Frantz Fanon
-
-
-## ![](_page_118_Figure_0.jpeg)
 
 
 ## Postscript
@@ -947,4 +920,3 @@ Sophie Vuković is a Stockholm-based filmmaker. Her short films have screened at
 ## History
 
 
-## ![](_page_132_Figure_9.jpeg)

@@ -36,9 +36,6 @@ Thanks for putting it up. Entdinglichung 12 years 4 months ago In reply to Welco
 
 The enrages wore leather jackets / shades, and in 'Enragés and Situationists in the Occupations Movement' say they were cooler than the anarchists. I'm afraid thats all the info i've got, because the political polemicising in Enrages & Situs has to be taken with a pinch of
 
-## ![](_page_3_Figure_0.jpeg)
-
-## ![](_page_4_Figure_0.jpeg)
 
 ## In reply to Welcomebylibcom.org
 

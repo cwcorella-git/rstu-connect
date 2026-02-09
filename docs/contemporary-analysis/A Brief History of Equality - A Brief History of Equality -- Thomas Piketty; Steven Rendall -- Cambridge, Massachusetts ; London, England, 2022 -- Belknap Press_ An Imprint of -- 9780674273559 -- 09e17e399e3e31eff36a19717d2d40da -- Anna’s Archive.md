@@ -206,7 +206,6 @@ Let's start at the heart o the matter. Human pro gress eists: the moement toard 
 
 Human pro gress eists: to be coninced o this, it suces to obsere the deelopment o health care and education in the orld since (see Figure ). Te aailable data are incomplete, but there is no doubt about the tendency. On aerage, lie epectancy at birth has risen orldide, rom about tenty- si years in to seenty- to years in . At the beginning o the nineteenth century, about percent o neborns on the planet died in the course o their rst year, as compared ith less than percent today. I e concentrate on people ho reached age one, lie epectancy at birth has risen rom about thirty-
 
-## ![](_page_27_Figure_2.jpeg)
 
 ## . Health Care and Education in the World, –
 
@@ -220,7 +219,6 @@ We can already obsere that in terms o lie epectancy and literacy, the most impor
 
 #### World Population and Average Income: e Limits of Growth o become aare o the scope o the historical transormations in oled, e must also remember that human population and aerage income hae both multiplied more than tenold since the eigh teenth
 
-## ![](_page_29_Figure_2.jpeg)
 
 ## . Population and Aerage Income in the World, –
 
@@ -264,7 +262,6 @@ Just as or incomes, e must take an interest in the unequal distribution o carbon
 
 . echnically, no one can predict a century in adance hat the "relatie alue" o the enironment ill be. Markets and their aes o speculation predict een less ell than the orld as a hole.
 
-## ![](_page_35_Figure_2.jpeg)
 
 ## 3. Worldide Distribution o Carbon Emissions, –
 
@@ -302,7 +299,6 @@ We no come to another socioeconomic indicator that ill play an impor tant role i
 
 Let us begin by eamining the eolution o the concentration o property in France since the end o the eigh teenth century, rst by comparing the share o the richest percent ith that o the poorest
 
-## ![](_page_41_Figure_2.jpeg)
 
 . A Limited, Impeded March toard Equality: Te Concentration o Property in France, –
 
@@ -354,7 +350,6 @@ On the hole, in terms o monetary alue, housing generally represents a considerab
 
 . At the beginning o , on the ee o the Coid- pandemic, the national income in France as about , billion euros (a leel that according to INSEE as e pected to be reached again in ), or around 3, euros (3, euros per month) on
 
-## ![](_page_48_Figure_2.jpeg)
 
 FIGURE 5. The Composition of Property in France, 2020
 
@@ -378,7 +373,6 @@ Let us return to the evolution of the distribution of property since the end of 
 
 Concretely, we observe first that the share of the richest 10 percent in total private property was about 85 percent at the beginning of the twentieth century and on the eve of World War I, before gradually
 
-## ![](_page_52_Figure_2.jpeg)
 
 FIGURE 6. The Distribution of Property in France, 1780–2020: The Difficult Emergence of a Patrimonial Middle Class
 
@@ -404,7 +398,6 @@ direction, and i so, ho should e proceed? I shall deend the idea that this ( lim
 
 . In the United Kingdom, as in France, the share o income rom capital reached – percent o national income in the nineteenth century beore diminishing at the end o the century and oscillating beteen and 3 percent oer the course o the
 
-## ![](_page_56_Figure_2.jpeg)
 
 FIGURE 7. The Distribution of Income in France, 1800–2020: The Beginning of a Long-Term Movement toward Equality?
 
@@ -450,7 +443,6 @@ As imperect as they may be, the sources at our disposal, namely ta receipts, con
 
 3. K. Karaman and S. Pamuk, "Ottoman State Finances in Eu ro pean Perspectie," Journal of Economic History , no. 3 (): 3–; and . Piketty, Capital and Ideology (Cambridge, MA: Belknap Press o Harard Uniersity Press, ), 3–3.
 
-## ![](_page_64_Figure_2.jpeg)
 
 . At the Origins o the Great Diergence: Te Rise o Eu ro pean States' Fiscal and Military Capabilities, –
 
@@ -476,7 +468,6 @@ siècle, 3 vols. (Paris: A. Colin, 1979), first translated into English as Braud
 
 7. Beckert, Empire of Cotton.
 
-## ![](_page_67_Figure_2.jpeg)
 
 ## . Te Rise and Fall o Euro- American Slaery, –
 
@@ -576,13 +567,11 @@ In the French West Indies, the main concentrations o slaes ere in Martinique, Gu
 
 We must also emphasize that these ere truly slae islands, in the sense that the proportion o slaes rose as high as percent o the total population o Saint- Domingue in the s (or een percent i e include ree Blacks and métis, those o mied- race descent). In the course o the period –3, e nd comparable leels in the rest o the British and French West Indies: percent in Jamaica, percent in Barbados, percent in Martinique, percent in Guadeloupe. Tese are the highest leels eer obsered in the history o Atlantic slaeholding socie ties, and more generally in the orld history o slaeholding socie ties (see Figure ). In comparison, during the same period slaes represented beteen 3 and percent o the population o the southern United States and Brazil, and the aailable sources suggest comparable proportions in Athens and in Rome in antiquity. Te British and French West Indies o the eigh teenth and
 
-## ![](_page_80_Figure_2.jpeg)
 
 The slaves represented approximately one-third of the population in the southern United States from 1800 to 1860. In Brazil, this proportion declined from almost 50 percent to less than 20 percent between 1750 and 1880. It exceeded 80 percent in the slaveholding islands of the British and French West Indies in 1780–1830, and even reached 90 percent in Saint-Domingue (Haiti) in 1790. Sources and series: piketty.pse.ens.fr/equality early nineteenth centuries offer the best-documented historical examples of societies in which nearly the entire population consisted of slaves.
 
 It is obvious that when the proportion of slaves reaches 80 or 90 percent, the risk of rebellion becomes very high, no matter how ferocious the repressive apparatus might be. The case of Haiti was particularly extreme in that the slave population grew very rapidly, and the number of slaves was significantly greater than on the other islands. Around 1700, the total population of the island was about 30,000 inhabitants, of which barely half were slaves. At the beginning of the 1750s, Haiti had 120,000 slaves (77 percent of the total population), 25,000 Whites (19 percent), and 5,000 *métis* and free Blacks (4 percent). At the end of the 1780s, the colony had more than 470,000
 
-## ![](_page_81_Figure_2.jpeg)
 
  11. A Slaveholding Island in Expansion: Saint- Domingue, 1700–1790 Te total population of Saint- Domingue (Haiti) rose from barely 50,000 persons in 1700–1710 (including 56 percent slaves, 3 percent free Blacks and métis, and 41 percent Whites) to more than 500,000 persons in 1790 (including 90 percent slaves, 5 percent free Blacks and métis, and 5 percent Whites). Sources and series: piketty.pse.ens.fr/equality slaves (90 percent of the population), 28,000 Whites (5 percent), and 25,000 métis and free Blacks (5 percent) (see Figure 11).
 
@@ -666,7 +655,6 @@ In addition to the question o reparations, colonial heritage in its entirety mus
 
 . See, or eample, the proposals made by W. A. Darity and A. K. Mullen, From Here to Equality: Reparations for Black Americans in the Twenty- First Century (Chapel Hill: Uniersity o North Carolina Press, ).
 
-## ![](_page_93_Figure_2.jpeg)
 
  2. Extreme In equality of Income in Historical Perspective: Te Peak of Colonial and Slaveholding Societies
 
@@ -684,7 +672,6 @@ We ill also see that colonial socie ties such as French Algeria in 3 or South Ar
 
 . Te decree o "dening the status o persons o mied parentage (métis) born in Indochina hose legal parents are unknon," thus granted status as French to anyone ho had at least one parent "presumed to be o the French race." Tis led courts to eamine the physical and racial characteristics o the plaintifs. See E. Saada, Empire's Children: Race, Filiation, and Citizenship in the French Colonies, trans. Art Goldhammer (Chicago: Uniersity o Chicago Press, ), .
 
-## ![](_page_95_Figure_2.jpeg)
 
 FIGURE 13. The Distribution of Income in Metropolitan France and in Its Colonies
 
@@ -728,7 +715,6 @@ and secondary schools resered or Eu ro pe ans receied percent o the total ependi
 
 Te educational system implemented in continental France at the beginning o the tentieth century as, it is true, also etremely hierarchized and inegalitarian, and in large mea sure it has neer ceased to be so. But it is impor tant to realize that that is incommensurate ith the leel o in equality in educational means that characterized the colonial contet (see Figure ). In , educational stratication as ery great in France: the disadantaged classes rarely ent beyond the primary school certicate. I e gather together the aailable bud getary data, e nd that the percent o an age group beneting rom the largest educational inestment (by reaching secondary school or, more rarely, higher education) receied about 3 percent o the total ependiture, as compared ith only percent or the least educated percent o the age group. Tis is a considerable in equality, pire o In equality: Te Politics o aation in the French Colonial Empire, –s" (PhD diss., Columbia Uniersity, ).
 
-## ![](_page_102_Figure_2.jpeg)
 
 FIGURE 14. Colonies for Colonists: The Inequality of Educational Investment in Historical Perspective
 
@@ -756,7 +742,6 @@ Tis per sis tence is eplained by seeral actors. Eiled in the neighboring Eu ro p
 
 . J. Nicolas, La Rébellion française. Mouvements populaires et conscience sociale, 1661–1789 (Paris: Gallimard, ), hich counts eighty- seen anti- seigneurial rebellions beteen 3 and and beteen and . Compare G. Lemarchand, Paysans et seigneurs en Eu rope. Une histoire comparée, e– e siècles (Rennes: Presses uniersitaires de Rennes, ), hich emphasizes the role o peasant reolts on the Eu ro pean scale, par tic u larly in the years preceding the ae o reolutions in .
 
-## ![](_page_107_Figure_2.jpeg)
 
 ## . Te Nobility in Pa ri sian Inheritances, –
 
@@ -808,7 +793,6 @@ Along ith the battles or labor las and orkers' rights, the campaign or uniersal 
 
 . S. Zubof, e Age of Surveillance Capitalism (Ne York: Public Afairs, ); C. Durand, Techno- féodalisme. Critique de l'économie numérique (Paris: Zones, ); S. Abdelnour and D. Méda, Les Nouveaux Travailleurs des applis (Paris: PUF, ). Te best solution is to dene as a "systemic platorm" all platorms used by a large raction o the population and to treat them as a quasi- public ser ice, ith strict regulation o the algorithms and re spect or undamental rights.
 
-## ![](_page_114_Figure_2.jpeg)
 
 ## . Te Eolution o Male Sufrage in Eu rope, –
 
@@ -830,7 +814,6 @@ Seden's astonishing hypercensitary eperiment is in ter est ing in more than one 
 
 . Another in ter est ing case, though less etreme, is that o the Kingdom o Prus sia, the chie component o the German Empire rom to . From to Prus sia had an unusual electoral system inoling three categories o citizens dened by the amount o taes paid. More precisely, Prus sian electors ere diided into three classes
 
-## ![](_page_117_Figure_2.jpeg)
 
 FIGURE 17. Extreme Patrimonial Inequality: European Property-Owner Societies in the Belle Époque (1880–1914)
 
@@ -918,7 +901,6 @@ Te system o "participatory socialism" described here has only one objectie: to i
 
 3. Te orm o the cooperatie com pany based on a strict equality o oting rights among employees can be adapted or certain proj ects but imposing it systematically ould be counterproductie.
 
-## ![](_page_128_Figure_2.jpeg)
 
 ## . Participatory Socialism and Poer Sharing
 
@@ -951,7 +933,6 @@ Between 1914 and 1980, the power of the fiscal and social state was to undergo a
 
 1. See especially P. Lindert, *Growing Public: Social Spending and Economic Growth since the Eighteenth Century* (Cambridge: Cambridge University Press, 2004).
 
-## ![](_page_133_Figure_2.jpeg)
 
 FIGURE 19. The Rise of the Welfare State in Europe, 1870–2020
 
@@ -1032,7 +1013,6 @@ ta rate |
 
 Note: In the progressie income ta proposed by Graslin in , the efectie ta rate rose gradually rom percent on an annual income o livres tournois (roughly hal the aerage income o the time) to percent on an income o , livres tournois (roughly ,3 times the aerage). Lacoste's proposed inheritance ta ehibits similar progressiity. Source: piketty.pse.ens.r/equality large scale in the tentieth century. In , the ton planner Jean-Joseph- Louis Graslin deended the idea o a ta scale in hich an income equal to hal the aerage income ould be subject to an efectie ta rate o percent, hereas a tapayer ith an income equal to ,3 times the aerage income ould hae to pay a ta o percent. In , the ta ocial Lacoste proposed a similar system or the inheritance ta: small legacies ould pay a percent ta and the larger ones a ta o percent (see able ). But ith the eception o 3– , hen progressie ta scales ere briey implemented, the Re olution nally adopted proportional or regressie taes. All through the nineteenth century, parents' legacies to their children ere taed at a rate o percent, no matter hat the amount. aes ere higher or legacies to brothers and sisters, cousins, and persons outside the amily, but remained in de pen dent o the amount. Tis rejection o progressiity helps eplain the increase in the concentration o property up to .
 
-## ![](_page_141_Figure_2.jpeg)
 
 FIGURE 20. The Invention of Progressive Taxation: Top Income Tax Rates, 1900–2020
 
@@ -1042,7 +1022,6 @@ It was not until the beginning of the twentieth century that progressive taxes w
 
 Could progressive taxes have been so quickly established without the shock of World War I, and without the Bolshevik regime's pressure on the elites in capitalist countries? Strictly speaking, it is impossible to answer that question. The history of the world since 1914
 
-## ![](_page_142_Figure_2.jpeg)
 
 FIGURE 21. The Invention of Progressive Taxation: Top Inheritance Tax Rates,
 
@@ -1072,7 +1051,6 @@ In the case of the United States, if we take into account all the levies (the fe
 
 17. T. Piketty, G. Postel-Vinay, and J.-L. Rosenthal, "The End of Rentiers: Paris 1842–1957," January 2018, WID.world.
 
-## ![](_page_146_Figure_2.jpeg)
 
 FIGURE 22. Effective Tax Rates and Progressivity in the United States, 1910–2020 From 1915 to 1980, the fiscal system was very progressive in the United States, in the sense that the effective tax rates paid by the highest incomes (all taxes combined, in percent of total pretax income) were significantly higher than the average effective rate paid by the population as a whole (and in particular by the least rich 90 percent). Since 1980, the fiscal system has been weakly progressive, with limited differences between effective tax rates. *Sources and series:* piketty.pse.ens.fr/equality or more than three times the average rate (see Figure 22).18 The data available for European countries confirm this conclusion. In other words, during this period effective fiscal progressivity was a massive and inescapable reality.
 
@@ -1106,7 +1084,6 @@ On this subject, let us add that the rise in poer o strongly progressie taation 
 
 . On this subject, note the stagnation o educational inestment since – (Figure ), an eolution that is paradoical on the historical scale, gien the increase in
 
-## ![](_page_150_Figure_2.jpeg)
 
 FIGURE 23. Growth and Progressive Taxation in the United States, 1870–2020 In the United States, growth of per capita national income increased annually by 2.2 percent from 1950 to 1990, and by 1.1 percent from 1990 to 2020, whereas during the same period the top marginal tax rate applied to the highest incomes fell from 72 percent to 35 percent. The promised resurgence of growth when the top marginal tax rate was lowered did not occur. *Sources and series*: piketty.pse.ens.fr/equality
 
@@ -1118,7 +1095,6 @@ the number of university students, and that appears to be one of the most plausi
 
 25. The available sources allow us to estimate that the total value of private properties was located at about this level from 1700 to 1914 in the United Kingdom and France, but with a radical transformation of the forms of property: agricultural land represented two-thirds of goods at the beginning of the eighteenth century, and then was gradually replaced by industrial and international unmovable assets. See T. Piketty,
 
-## ![](_page_151_Figure_2.jpeg)
 
 ## . Priate Property in Eu rope, –
 
@@ -1134,7 +1110,6 @@ Tis liquidation took place in to phases: the oreign assets ere destroyed or tran
 
 . For a more detailed analy sis, see Piketty, Capital and Ideology, 3–.
 
-## ![](_page_153_Figure_2.jpeg)
 
 . Foreign Assets in Historical Perspectie: Te Franco- British Colonial Ape
 
@@ -1170,7 +1145,6 @@ on priate ealth. In France, ination eceeded percent per annum or our consecutie 
 
 33. See the ascinating book by M. L. Hughes, Shouldering the Burdens of Defeat: West Germany and the Reconstruction of Social Justice (Chapel Hill: Uniersity o North Carolina Press, ). Compare S. Bach, "Die Linke Capital Ley: Reenue and Distributional Efects," DIW Berlin, German Institute or Economic Research, October 3, , or a similar, stimulating comparison recently debated in the Bundestag ith the goal o etinguishing the Coid debt.
 
-## ![](_page_158_Figure_2.jpeg)
 
 ## FIGURE 26. Fluctuations in Public Debt, 1850-2020
 
@@ -1192,7 +1166,6 @@ Let us turn no toard the uture. Te " great re distribution" o the period beteen 
 
 First, e must remember the limited etent o the march toard equality that took place in the course o the past century. Te most striking act is the per sis tence o a hyperconcentration o property (see Figure ). Granted, in Eu rope e see the emergence, oer the long term, o a patrimonial middle class. Te percent o the population beteen the poorest percent and the richest percent oned
 
-## ![](_page_161_Figure_2.jpeg)
 
 FIGURE 27. The Persistence of Hyperconcentration of Property
 
@@ -1204,7 +1177,6 @@ It is striking to note the etent to hich the United States and Europe inerted th
 
 We nd similar deelopments in inequalities o income, hich hae also started groing again since , ith an appreciably more marked moement in the United States (see Figure ). Tere again, all the aailable data suggest that these deelopments are eplained by a set o po liti cal reersals on the social, scal, educational, and nancial leels. In the United States, the irulence o politicians opposed to labor unions and the collapse o the ederal minimum age hae been decisie in the all o the loest incomes. Te US ederal
 
-## ![](_page_163_Figure_2.jpeg)
 
 FIGURE 28. Property in Europe and the United States, 1900–2020: The Birth and Fragility of a Patrimonial Middle Class
 
@@ -1212,7 +1184,6 @@ In Europe as in the United States, we see between 1914 and 1980 a steep decline 
 
 2. T. Piketty, *Capital and Ideology* (Cambridge, MA: Belknap Press of Harvard University Press, 2020), 522–535, figs. 11.5–11.10.
 
-## ![](_page_164_Figure_2.jpeg)
 
 FIGURE 29. Income Inequality: Europe and the United States, 1900–2020
 
@@ -1246,7 +1217,6 @@ Let us no come to the question o ealth in equality and the property system. I e 
 
 . P. chernea, e Case for a Job Guarantee (Cambridge: Polity Press, ). Compare the system o guaranteed employment proposed by A. B. Atkinson, In equality: What Can Be Done (Cambridge, MA: Harard Uniersity Press, ).
 
-## ![](_page_170_Figure_2.jpeg)
 
 ## FIGURE 30. Redistribution of Inheritance
 
@@ -1395,7 +1365,6 @@ We ill begin ith the question o educational justice: the difusion o knoledge has
 
 In addition, the to groups do not go to the same institutions o higher education: the ormer usually hae to be content ith summary courses o study in badly nanced public uniersities and community colleges, hereas the latter hae access to highly specialized curricula in etremely rich priate uniersities. Tese latter institutions are, moreoer, characterized by the opacity o their admission procedures and a near- absence o public regulation. Although these uniersities hae beneted rom multiple sources o goernmental nancing, they hae succeeded in conincing poer ul po liti cal gures that it is normal to let them do as they please ith their admissions algorithms, including giing priority or admission to "legacy students" (that is, the children o alumni or rich donors). In other ords, not
 
-## ![](_page_187_Figure_2.jpeg)
 
  3. Parental Income and Access to Higher Education, United States, In , the rate o access to higher education (the percentage o persons aged nineteen to tenty- one enrolled in a uniersity, college, or other institution o higher learning) as scarcely 3 percent or children o the poorest percent in the United States, and more than percent or children o the richest percent. Sources and series: piketty.pse.ens.r/equality only do abulously high tuition ees put the best uniersities out o reach or the least ell- of students ( unless they hae eceptional grades granting them access to scholarships), but the richest parents can pay a kind o supplement to make up or their ofspring's insucient grades. Uniersities eplain that the rate o legacy admissions is minimal, een as they deny access to this inormation and to the ormulas used to assess grades and donations.1
 
@@ -1409,7 +1378,6 @@ It ould be quite rong to beliee that this massie educational hy poc risy eists o
 
 . According to the most recent data aailable, students rom disadantaged social categories (3 percent o an age group) represent percent o those studying in baccalaureate + 3 or baccalaureate + programs, but only percent o those enrolled at Sciences Po in Paris, percent o those at ENS Ulm, 3 percent o those at HEC, and percent o those at Polytechnique. Conersely, students rom ery priileged social categories (3 percent o an age group) constitute percent o the students in baccalaureate + 3 or baccalaureate + programs (the US equialents o a bachelor's degree and master's degree, respectiely), but 3 percent at Sciences Po Paris, percent at ENS Ulm, percent at HEC, and percent at Polytechnique. See C. Bonneau, P. Charousset, J. Grenet, and G. Tebault, "Quelle démocratisation des grandes écoles depuis le milieu des années ?" IPP Report no. 3, Institut des Politiques Publiques, Paris, January . Moreoer, this study notes that no mea sur able pro gress in the area o social miture has been achieed since the s, despite the repeated claims o goernments and schools.
 
-## ![](_page_189_Figure_2.jpeg)
 
 FIGURE 32. The Inequality of Investment in Education in France
 
@@ -1453,7 +1421,6 @@ Tis is particularly striking ith re spect to po liti cal oces or managerial posi
 
 . B. Paard, F. Rocheort, and M. Zancarini-Fournel, Ne nous libérez pas, on s'en charge! Une histoire des féminismes de 1789 à nos jours (Paris: La Découerte, ). . Piketty, Capital and Ideology, –.
 
-## ![](_page_196_Figure_2.jpeg)
 
  33. Te Per sis tence o the Patriarchy in France in the enty- First Century
 
@@ -1493,7 +1460,6 @@ Te aailable data lead to a qualied judgment on this eperiment. Te etreme prejudi
 
 . In terms o numbers, the SC- S correspond roughly to secondary- school scholarship students in the French contet, hereas the SC- S- OBC correspond to the scholarship students in higher education.
 
-## ![](_page_201_Figure_2.jpeg)
 
 ## FIGURE 34. Affirmative Action in India, 1950–2020
 
@@ -1501,7 +1467,6 @@ Quotas for access to universities and public employment were put in place in 195
 
 15. The comparison with the United States (where Blacks comprise 10–15 percent of the population) is more meaningful than the comparison with South Africa (where Blacks comprise more than 80 percent).
 
-## ![](_page_202_Figure_2.jpeg)
 
 FIGURE 35. Discrimination and Inequality in Comparative Perspective
 
@@ -1595,7 +1560,6 @@ The battle for equality is not over. It must be continued by pushing to its logi
 
 If we examine the evolution of the differences in wealth between countries over the past two centuries, we find two clearly distinct phases: first, a long period of increasing inequality between 1820 and 1950, which corresponds to the Western powers' conquest of the world economy between 1820 and 1910, followed by the maximal extension
 
-## ![](_page_214_Figure_2.jpeg)
 
  3. Diferences in Income beteen Countries, –: Te Long Eit rom Colonialism
 
@@ -1643,7 +1607,6 @@ fiscal capacity has clearly grown since 1970: the receipts of poor countries sta
 
 10. An additional difficulty for the construction of the state in the South is that the most educated there can compare their salaries with those of people with the same qualifications in the North (or with those of former colonial officials), especially since the option of emigrating is a little less closed to them than to others in the South. This
 
-## ![](_page_220_Figure_2.jpeg)
 
 FIGURE 37. State Building and Trade Liberalization, 1970-2020
 
@@ -1665,7 +1628,6 @@ We must also emphasize the etreme hy poc risy that surrounds the ery notion o in
 
 14. In the period 1970–2012, the official outgoing flow of income from capital was on average three times greater in Africa than the incoming flow from international aid. See T. Piketty, *Capital in the Twenty-First Century* (Cambridge, MA: Belknap Press of Harvard University Press, 2014), 68–69.
 
-## ![](_page_223_Figure_2.jpeg)
 
 FIGURE 38. Economic Flows In and Out of Eastern Europe, 2010-2018
 
@@ -1794,7 +1756,6 @@ It is striking to note that the priatization o property in China ended around �
 
 . Epressed in terms o parity o purchasing poer, China's GDP became greater than that o the United States in 3. Hoeer, in terms o annual national income per adult, China remains at a leel only a third o that in the West: about , euros in China, as contrasted ith almost , euros in Western Eu rope and , euros in the United States. At the current rate o conergence ( percent per year), the gap could be lled beteen no and –. China ould then hae a population and a GDP hal again as large as the cumulatie total o that o the United States and Eu rope.
 
-## ![](_page_241_Figure_2.jpeg)
 
 FIGURE 39. The Declining Share of Public Property, 1978–2020
 
@@ -1802,7 +1763,6 @@ The share of public property (public assets net of debt including all public col
 
 Moreover, it will be noted that this average share of about 30 percent of public capital conceals very important differences, depending on the categories of the assets involved. On the one hand, residential real estate has been almost entirely privatized. In the early 2020s, the state and companies held less than 5 percent of the residential housing stock, which became the private investment *par excellence* for Chinese
 
-## ![](_page_242_Figure_2.jpeg)
 
 ## FIGURE 40. Ownership of Chinese Firms, 1978-2020
 
@@ -1850,7 +1810,6 @@ I would also like to repeat that democratic socialism, though it may seem very d
 
 No matter which economic model we adopt, we must finally insist on the essential role that will be played by the monetary and financial system in the coming decades. The central banks and monetary policy have assumed a decisive importance following the financial crisis of
 
-## ![](_page_249_Figure_2.jpeg)
 
 FIGURE 41. The Size of Central Banks' Balance Sheets, 1900-2020
 

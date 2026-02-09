@@ -1898,7 +1898,6 @@ Subprime loans are a generic term used to describe loans (mortgage loans, payday
 
 Subprime mortgage loans in the United States began to expand in the early 1990s as part of the prolonged economic boom, increasing from \$3.5 billion in 1994 (4.5 percent of mortgage loans to families of one to four) to \$600 billion in 2006, and accounting for 20 percent of the total (Bernanke 2008). Low interest rates during the recession that occurred between the collapse of the "IT bubble" of the 1990s and the 9/11 terrorist attacks of 2001 touched off a remarkable increase in subprime mortgage lending (see Figure 2.1 and Table 2.1). The securitization
 
-## ![](_page_49_Figure_7.jpeg)
 
 Figure 2.1 Residential mortgage loans and their composition, 2001-07 (source: prepared from Mortgage Market Statistical Annual 2008, www.insidemortgagefinance. com; Joint Center for Housing Studies, Harvard University, State of the Nation's Housing 2008, Appendix, Table A-6).
 
@@ -1948,7 +1947,6 @@ Consequently, when the bubble began to burst, homes with ARM loans experienced a
 
 Beyond the specific dynamics of the subprime crisis itself, the United States in the summer of 2008 was caught up in the wider negative spiral of a deteriorating
 
-## ![](_page_51_Figure_2.jpeg)
 
 *Figure 2.2* Prices of U. S. mortgage-related securities (US dollars) (source: JPMorgan Chase; Lehman Brothers; IMF 2008, p. 6, Figure 1.9).
 
@@ -1980,7 +1978,6 @@ The "IT boom" from the mid-1990s onward added to this dynamic and led to an unus
 
 The "flight to quality" after the 1997 Asian currency crisis increased the flow of investment funds, including hot money, into the IT-related sector, resulting in a bubble-like expansion of the "IT boom." These developments led to sharp rises in the IT-related capital spending that drove the economic expansion forward; meanwhile, the strong earnings performance of major IT companies spread to the "old economy" and led to an upward trend in its firms' share prices. Thus growth in the "new economy" and "old economy" alike combined to accelerate the economic expansion, which increasingly took on the nature of a boom linked
 
-## ![](_page_54_Figure_1.jpeg)
 
 *Figure 2.3* Venture capital investment: quarterly, 1995-2004 (source: Prepared from data from Pricewaterhouse Coopers/National Association of Venture Capital (www.pwcmoneytree.com/MTPublic/ns/)).
 
@@ -1990,7 +1987,6 @@ What is noteworthy in relation to the subprime problem that triggered the latest
 
 Particularly noteworthy was the rapid growth of adjustable rate mortgages (ARMs, approved in 1979), which, coupled with the securitization mechanism, helped expand mortgage-backed loans to non-white borrowers. A conspicuous feature of the home ownership rate, which grew by almost 70 percent in April- June 1999, was the rise in ownership among non-whites. This in part resulted from a number of measures to help expand home-financing opportunities for minority people on low incomes, including the Community Reinvestment Act
 
-## ![](_page_55_Figure_2.jpeg)
 
 *Figure 2.4* S&P/Case-Shiller home price indices: monthly, 1987-2011 (source: Prepared from S&P/Case-Shiller Home Price Indices, May 2008 (published July 29, www2.standardandpoors.com)).
 
@@ -2002,7 +1998,6 @@ Note Three-month moving average. Including two-month lag.
 
 The "IT boom" was a speculative boom based on expectations that in fact overplayed the growth of IT and the Internet far beyond existing realities, and had a strong tendency toward the development of "bubbles" inflated by a massive inflow of volatile investment money.9 Not surprisingly, the boom collapsed when the Federal Reserve Board (FRB) tightened credit in response to the emerging negative aspects of the long economic expansion. These included signs of inflation such as labor shortages and rising oil prices as well as a steep fall in the savings rate. Between August 1999 and March 21, 2000, the FRB raised the target federal funds rate by 0.25 percentage points four times; and on May 19, 2000 it increased this rate by 0.5 percent.10
 
-## ![](_page_56_Figure_1.jpeg)
 
 *Figure 2.5* Mortgage refinance, cash-out and home equity loan volumes, 1995-2007 (source: Freddie Mac, Cash Out and Refinance data; Freddie Mac, Economic and Housing Market Outlook, February 2008; Federal Home Loan Mortgage Corporation).
 
@@ -2030,7 +2025,6 @@ These developments are centrally important to the argument advanced here. First,
 
 Third, the investment banks and securities firms that bought these loans so as to structure them into instruments such as MBS and ABS were regarded as being capable of broadly diversifying the risks of the loans they bought - even when they were purchasing subprime and other high-risk loans. It was commonly believed that these large firms would maintain financial soundness, in part by keeping these loans off their balance sheets through the use of structured
 
-## ![](_page_58_Figure_4.jpeg)
 
 - State and local govenrment employee retirement funds
 - Commercial banking
@@ -2061,7 +2055,6 @@ The ratio of financial transactions to GDP in the United States stayed relativel
 
 The changing role of postwar Pax Americana in the arenas of international currency and world finance led to increased volatility and fluctuation risks in the financial and foreign exchange markets. Its origins can be traced to the suspension of the convertibility of dollars into gold and the shift to the floating exchange rate system in the early 1970s, and accelerated due to a mounting degree of dollar uneasiness, driven by the twin deficits generated under "Reaganomics." All these developments reflect changes in Pax Americana.
 
-## ![](_page_60_Figure_6.jpeg)
 
 *Figure 2.7* Financialization of the U. S. economy: dollar value of trading in the U. S. financial markets (source: prepared from Tony Wikrent, *Financial Trading in U. S. Table* (http://en.wikipedia.org)).
 
@@ -2092,7 +2085,6 @@ The point that needs emphasis here is that the global city serves as a central "
 
 ## ©Tetsuji Kawamura, 2012, All right reserved
 
-## ![](_page_64_Figure_2.jpeg)
 
 *Figure 2.8* The U. S.-centered global growth nexus (source: © Tetsuji Kawamura, 2012. All rights reserved).
 
@@ -2300,7 +2292,6 @@ The crisis broke out in the financial sector of the U. S. and other leading deve
 
 It should be stressed that the focus of this section lies entirely on the domestic economy of these four countries. The international dimension of the crisis (and of financialization) is left out of account. This omission, far from being a weakness, makes it possible to pay closer attention to the chief mechanisms of crisis (and of financialization) which are domestic. The financial bubble preceding the crisis undoubtedly had an international dimension that resulted from the flow of capital into U. S. financial markets. After 2004, these flows originated heavily in developing countries, mostly China but also the Gulf states, Russia, and so on. The underlying cause of this development was not a "savings surplus" in developing countries which was selflessly absorbed by the U. S. through high domestic consumption. As has been discussed elsewhere (Painceira 2009; Lapavitsas 2009a and 2009b) a "reverse flow" of capital from poor to rich countries took place during the last decade, which arose because poor countries accumulated extraordinary foreign currency reserves (mostly dollars). The exorbitant size of reserves was dictated by the structure of the international financial system, which has shifted the onus of confronting international financial crises onto developing countries. Consequently, capital flowed from developing countries into the U. S. to buy dollar-denominated public bonds. But foreign flows were of secondary importance to the over-expansion of credit in U. S. markets during the last decade. The bubble in the U. S. was primarily due to the growth of domestic credit. By the same token, the underlying causes of financialization are domestic, even if the process also has an integral international dimension. Thus, the proximate roots of the upheaval lie in the expansion of U. S. mortgage lending after 2001 (see Figure 3.1).
 
-## ![](_page_79_Figure_2.jpeg)
 
 *Figure 3.1* Mortgage lending, U. S., percentage of GDP (source: Mortgage Bankers Association, various issues).
 
@@ -2310,7 +2301,6 @@ A vast U. S. real estate bubble ensued, which had repercussions on financial ins
 
 Commercial banking in Japan and Germany barely grew during the period, while growth appears modest in the U. S. because non-bank financial institutions took the lead in the real estate bubble. But securitization created close links between the non-bank sector and U. S. commercial banks, causing the ultimate downfall of the latter. A more revealing picture of the role of commercial banks is given by the UK, where assets rose enormously, reaching five times GDP.
 
-## ![](_page_80_Figure_2.jpeg)
 
 *Figure 3.2* Bank assets as percentage of GDP (source: Flow of funds accounts (Fed, Bank of Japan, Bundesbank), ONS).
 
@@ -2318,7 +2308,6 @@ Elementary banking theory indicates that the expansion of bank assets has to be 
 
 There are significant problems of data comparability and measurement in this connection, but it is safe to state that leverage has been significantly lower
 
-## ![](_page_80_Figure_6.jpeg)
 
 *Figure 3.3* Commercial bank equity as percentage of assets (source: Flow of funds accounts (Fed, Bank of Japan, Bundesbank), ONS).
 
@@ -2330,15 +2319,12 @@ But who accumulated the debt that matched growing bank assets, thus supporting b
 
 A further potential venue for debt accumulation would have been the public sector. However, as is shown in Figure 3.6, there was no significant rise in public
 
-## ![](_page_81_Figure_6.jpeg)
 
 Figure 3.4 Leverage of non-bank corporations (source: Flow of funds accounts (Fed, Bank of Japan, Bundesbank), ONS).
 
-## ![](_page_82_Figure_0.jpeg)
 
 Figure 3.5 Aggregate investment as percentage of GDP (source: Flow of funds accounts (Fed, Bank of Japan, Bundesbank), ONS).
 
-## ![](_page_82_Figure_2.jpeg)
 
 Figure 3.6 Public debt as percentage of GDP (source: Flow of funds accounts (Fed, Bank of Japan, Bundesbank), ONS).
 
@@ -2350,11 +2336,9 @@ To recap, a pure financial bubble occurred in 2001-07, fed by mortgage credit an
 
 Furthermore, corporate and public indebtedness did not escalate. Rather, the debt that supported bank profits was accumulated by the household sector, primarily in the U. S. and the UK. Much of this debt was acquired by the least
 
-## ![](_page_83_Figure_6.jpeg)
 
 *Figure 3.7* Household debt as percentage of GDP (source: Flow of funds accounts (Fed, Bank of Japan, Bundesbank), ONS).
 
-## ![](_page_84_Figure_1.jpeg)
 
 *Figure 3.8* Consumption as percentage of GDP (source: Flow of funds accounts (Fed, Bank of Japan, Bundesbank), ONS).
 
@@ -3005,7 +2989,6 @@ However, the 2008 crisis had a unique pattern. As can be seen in Figure 6.1, sin
 
 It should be noted that, since the 1980s, the world has seen the rise and bust of many bubble economies. The 2008 economic crisis originated in the burst of the subprime bubble and its effects were felt worldwide. This gives rise to the next crucial issue: the conditions that link a bubble economy to stable price movements. Do the economic adjustments under the 2008 economic crisis have any theoretical implications? These issues are addressed in the following sections.
 
-## ![](_page_134_Figure_1.jpeg)
 
 *Figure 6.1* Price fluctuation, 1971-2008 (source: IMF, IFS Database).
 
@@ -3019,7 +3002,6 @@ Figure 6.2 shows the production index of the developed countries with a relative
 
 This brings us back to the issue of the economy's long-term tendency to stagnate, especially in the period after 1980, as was demonstrated above. This topic is addressed in the next section.
 
-## ![](_page_135_Figure_2.jpeg)
 
 *Figure 6.2* Increasing rate of industrial production index in the advanced country relative to previous year (source: IMF, IFS Database).
 
@@ -3031,7 +3013,6 @@ This situation typically finds expression in falling profits. Baran and Sweezy (
 
 This theory found resonance with Brenner (2002: 40-41), who argued "the impasse of the international manufacturing sector at the end of the 1970s, resulting from the deepening of the crisis of profitability throughout the previous decade." Moreover, the Japanese economist Mizuno (2008) also asserted the
 
-## ![](_page_136_Figure_1.jpeg)
 
 *Figure 6.3* Net private non-residential fixed investment as percentage of GDP (source: Bureau of Economic Analysis, National Income and Product Accounts, "Gross and Net Domestic Investment by Major Type," Last revised on August 8, 2011, Table 5-2-5; Economic Report of the President, 2011, "Gross Domestic Product, 1962-2010," Table B).
 
@@ -3053,7 +3034,6 @@ Then the problem is how the profit rate in these advanced countries has fared gi
 
 Marx had predicted that such a situation would appear everywhere as a result of global competition. In advanced countries, investments in capital goods intended for global competitive markets increases. Such propensities make the profit rate fall as a result of the enhanced organic composition of capital (see Figure 6.4). Similarly, companies are (that is, capital is) faced with the option of transferring
 
-## ![](_page_138_Figure_1.jpeg)
 
 *Figure 6.4* Five-year moving average of manufacturing and financial sectors as percentage of domestic profits (source: Economic Report of the President, 2011, Table B-91).
 
@@ -3067,11 +3047,9 @@ We can capture this tendency in Figure 6.5, which shows the ratio of wages to GD
 
 The second characteristic feature of the 2008 economic crisis is that the crisis occurred in the bubble economy, which has appeared since the 1980s
 
-## ![](_page_139_Figure_2.jpeg)
 
 *Figure 6.5* Ratio of wage and salary to GDP, U. S. (source: Economic Report of the President, 2011, "Gross Domestic Product, 1962-2010," Table B-1 and "Sources of personal income, 1962-2010," Table B-29).
 
-## ![](_page_139_Figure_4.jpeg)
 
 *Figure 6.6* Labor share of income in Japan (source: Ministry of Finance, Financial Statements Statistics of Coporations by Industry).
 
@@ -3262,7 +3240,6 @@ In order to analyze the historical development of leading industries, I build a 
 
 Dynamic comparative advantage depends on the difference between VAL and wages. Wages increase at first in dynamic industries, which is compensated by productivity growth that arises from replacing old fixed capital with new and more productive fixed capital. In golden ages, long-lasting capital accumulation eventually exhausts the available industrial reserve army. To secure workers, large wage increases in the dynamic sectors spill over to the lagging sectors, and are mostly passed on to consumers in the form of higher prices. This is Baumol's
 
-## ![](_page_153_Figure_2.jpeg)
 
 *Figure 7.1* Dynamic industries and VAL.
 
@@ -3278,7 +3255,6 @@ We introduce a structuralist macroeconomic model to our institutional Marxian po
 
 We introduce Minsky's financial instability hypothesis to our institutional Marxian political economy. Minsky's basic theory may be reconstructed paying more attention to the accumulation of real capital, as follows (Figure 7.2). The demand price of investment is determined by the expected profit flows of the investment divided by present interest rate (demand price curve 1). The supply price of investment is determined by the prices of production of the capital goods (supply price curve). As long as the demand prices of investment are expected to exceed the supply prices of investment, investment continues (A). With an increase of profit flows both borrowers and lenders' expectation become
 
-## ![](_page_154_Figure_5.jpeg)
 
 *Figure 7.2* Basic Minsky cycle.
 
@@ -3286,7 +3262,6 @@ progressively more optimistic, and the demand price curve shifts from 1 to 2, an
 
 Minsky's original theory does not explain the rise and fall of an accumulation regime. We introduce a concept of the super Minsky cycle that works over a period of several business cycles (Palley 2011). In the period of increasing dynamic comparative advantage, the supply price curve shifts down with higher productivity (supply price curve 2 to 1 in Figure 7.3), and the demand price curve shifts up with higher expectations of profits (demand price curve 1 to 2); so the theoretical equilibrium shifts from E1 to E2. The economy becomes very dynamic. In the period of decreasing dynamic productivity, the supply price curve eventually shifts up with a higher cost of production such as wages and imported raw materials (supply price curve 1 to 2), and with a lower expectation of profits, the demand price shifts down (demand price curve 2 to 1). The theoretical equilibrium shifts from E2 to E1. Then the economy loses dynamism. When the supply price curve shifts further up (supply price curve 2 to 3), or the demand price curve shifts further down, the demand price of investment is lower than the supply price of investment at any investment level.5 In this case capitalists do not invest since they cannot expect profit from investment. I call it a structural crisis, while Minsky (1982, p. 108) called this "present value reversal." According to Minsky this is a reinterpretation of Keynes's "liquidity trap," where money hoarding increases infinitely.
 
-## ![](_page_155_Figure_4.jpeg)
 
 *Figure 7.3* Super Minsky cycle.
 
@@ -3477,7 +3452,6 @@ $$r = (p/\underline{k})u - d - t \tag{2a}$$
 
 where p is the share of profit (R/ Y) determined externally by the degree of monopoly, d = D/ K, and t = T/ K. When u rises, r also rises, because the fixed
 
-## ![](_page_169_Figure_9.jpeg)
 
 *Figure 7. A1* Formal model of accumulation structure in bureaucratic capitalism capital K is used more efficiently. Let us suppose that the gap between supply and demand is covered by quantity adjustment under full utilization (Kaleckian adjustment), and by price adjustment at full utilization (Kaldorian adjustment). At full utilization, the price level may rise, and the rate of profit is given by the following equation:
 
@@ -3752,7 +3726,6 @@ Lastly, intervention by the political authorities, faced with the gravity of the
 
 The movement of financial liberalization, both internal and external, made it much easier to experiment with new financial products. As they have grown in number, we now possess a sufficiently large sample of innovations and crises to be able to make an overall judgement: in the absence of adequate public
 
-## ![](_page_179_Figure_7.jpeg)
 
 Figure 8.1 The cycle from major innovation to crash.
 
@@ -3889,7 +3862,6 @@ banks
 Link | • Absence of crisis/resilience of
 banks |
 
-## ![](_page_184_Figure_1.jpeg)
 
 Figure 8.2 The collapse of long term capital management: an ad hoc solution brokered by the Fed, with no review of public control.
 
@@ -3922,7 +3894,6 @@ Other problems remain, despite the new legislation:
 - Enron used its political connections to dissuade the financial supervisory authorities from establishing any control or regulation of derivatives, under the two pretexts of a complexity that only they could master, and the principle of freedom of enterprise. An equivalent mechanism can be observed in the subprime case during the second half of the 2000s.
 - Accounting practices oriented towards the financial community, implementing the principle of fair value, imposed serious risks on the stability of finance.
 
-## ![](_page_186_Figure_1.jpeg)
 
 *Figure 8.3* The fall of Enron: increase in accountability of senior managers, without reform of accounting practices or supervision of new derivatives.
 
@@ -3936,7 +3907,6 @@ The role played by the central bank in fixing low interest rates is another fact
 
 There was a sharp downturn in the market. The classification of tranches of credit proved to be hopelessly over-optimistic when the rate of defaults started to rise and the price of real estate started to fall in 2007. The subprime market disappeared. As it figured prominently in the books of a number of banks, this triggered a liquidity crisis, to which the Fed responded initially by providing easier access to liquidity, at modest levels. Given the scale of the assets involved - a sum in the order of 3,000 billion dollars - it soon became apparent that defaults were still rising and that the banks were incapable of evaluating a growing number of assets. Since the subprime market was closed, and since the ad hoc models drawn up by each bank assumed constant access to liquidity and low correlations among risks, no longer provided any relevant information. The systemic crisis had started, and it was the very principle of the valuation of assets that was the root of discord. Interbank credit, in particular, dried up completely.
 
-## ![](_page_187_Figure_4.jpeg)
 
 *Figure 8.4* An innovation that was a priori dangerous but in line with policy of widening access to home ownership.
 
@@ -3953,7 +3923,6 @@ The scale of the current crisis caught the directors of Lehman Brothers and Merr
 - From the beginning of the 2000s, the BIS expressed concerns about the *explosion* in derivatives, more and more differentiated and held by *agents not covered by the usual prudential regulations*, who exploited this fact to use huge leverage (BIS 2000, 2003). In the United States, for example, the total volume of securitization rose from 685 billion dollars in 1996 to 1,355 billion dollars in 1999, and then 3,187 billion dollars in 2006. Furtherance of this phenomenon was, of course, problematic (Erturk *et al.* 2008).
 - From the start, some experts had stressed the danger of selling risky assets to agents or individuals incapable of evaluating their risks and taking precautions against them. Symmetrically, mortgage banks took advantage of the fact that they could palm off the risk of default to increase their activity by writing ever more risky loans. The process reached the point where financial organizations made loans to families who they knew would be unable to pay them off.
 
-## ![](_page_189_Figure_2.jpeg)
 
 *Figure 8.5* The subprime crisis results from conjunction of financial innovations since the 1980s: widespread underestimation and transfer of risk.
 
@@ -3961,7 +3930,6 @@ It is the conjunction of these two mechanisms that explains the scale and gravit
 
 Among the many different derivatives, becoming ever more varied, derivatives of derivatives appeared, the risk evaluation of which was extremely difficult, even for the issuers. What can we say about the people who bought them without understanding the risk? This outsourcing of risk was particularly dangerous and could not result in a viable system, because of the combination of two effects.
 
-## ![](_page_190_Figure_1.jpeg)
 
 *Figure 8.6* Chronicle of a crisis foretold: the subprime episode.
 
@@ -4375,7 +4343,6 @@ Figure 9.1 focuses on "hegemonic powers" in the history of capitalism during the
 
 Interpreting history through the lens of *régulation* theory, the four periods represent four development models (growth regimes and modes of *régulation*), upswing and downswing waves corresponding to the rising and declining periods of each development model. The four development models can be labeled in
 
-## ![](_page_198_Figure_4.jpeg)
 
 *Figure 9.1* World history of growth and crisis.
 
@@ -4385,7 +4352,6 @@ In this chapter, we focus only on the periods after World War II; discussions ab
 
 This growth regime could continue by setting up new institutions and a new mode of *régulation.* In the postwar era, many new institutions were set up:
 
-## ![](_page_199_Figure_5.jpeg)
 
 *Figure 9.2* Fordist type of capitalism.
 
@@ -4403,7 +4369,6 @@ By thus establishing a virtuous loop (asset prices - financial returns/investmen
 
 A new macroeconomic loop requires an original mode of *régulation* that has to navigate and coordinate the loop. In Figures 9.1 and 9.3, the new mode of *régulation* is marked as "stockholder sovereignty type." It is equivalent to socalled corporate governance, particularly by stockholders. Under this keyword "corporate governance," one has established an institutional apparatus that connects the increase of asset prices to the increase of financial returns, leading to a domination of management by finance. Moreover, the formation of a stock
 
-## ![](_page_201_Figure_6.jpeg)
 
 *Figure 9.3* Finance-led type of capitalism.
 
@@ -4437,7 +4402,6 @@ The VOC approach had a strong impact in that it proposed, based on the comparati
 
 Here, we summarize only his core conclusions. Concerning the main OECD countries at the end of the 1990s, he distinguishes five types of capitalism: the Market-based, Asian, Continental European, Social-democratic and Mediterranean models. After qualitative analyses of each model's institutional characteristicsandtheinstitutionalcomplementaritybetweenfiveinstitutionalareas-product market, labor market, finance, welfare, and education - he proceeds to a quantitative analyses, represented in Figure 9.4. This figure shows that countries that
 
-## ![](_page_205_Figure_2.jpeg)
 
 *Figure 9.4* Diversity of advanced capitalist countries (source: Amable (2003), modified and added by Yamada).
 
@@ -4767,7 +4731,6 @@ As suggested by Figure 9.5, the contemporary world economic space is not merely 
 
 According to Mistral, for a particular "international regime" to prevail, a strong, hegemonic power is needed so that many countries adhere to the regime and will be incorporated complementarily into "differentiated economic spaces." The dominant economy, then, does not simply subordinate other countries to it, but provides opportunities to the rest of the world for dynamism in capital accumulation. The question is whether the rest of the world can make better use of the possibility of dynamic accumulation or not; it also depends on the historical conditions unique to each country. Mistral refers to the "strategic area" as an
 
-## ![](_page_209_Figure_2.jpeg)
 
 *Figure 9.5* Seven types of economic models in the contemporary world (source: Boyer (2011), modified by Yamada).
 
@@ -4951,7 +4914,6 @@ An expression of these trends is shown in Figure 10.1. The variables are the New
 
 Besides the new discipline imposed on management and workers to the benefit of capitalist owners (gradually more to the benefit of, jointly, capitalists and managers), one can mention the new policies aimed at maintaining price stability, which worked to the benefit of lenders. But two major components were *financialization* and *globalization*. The intersect, financial globalization, played a central role. Financial mechanisms exploded, with a significant acceleration after 2000. On derivative markets, for example, the gross market value of over-the-counter (OTC) interest rates contracts reached \$20 trillion in 2008,
 
-## ![](_page_218_Figure_2.jpeg)
 
 *Figure 10.1* NYSE indices, corrected for inflation (max = 100).
 
@@ -4981,7 +4943,6 @@ The determinants of the crisis of 2008 are summarized in Figure 10.2.6 *Neoliber
 
 1 *Neoliberalism in general.* These factors are all expressions of the endeavor of Finance to remove all barriers to its power and wealth, as in the *Quest for high income*, along the lines already introduced (capital incomes, wages, conditions of labor, policies, etc.). The diagram makes explicit *Financialization* and *Globalization*, including financial globalization, aiming at the same objective. Deregulation was a crucial tool. A huge and unwieldy financial-
 
-## ![](_page_220_Figure_7.jpeg)
 
 *Figure 10*.*2* Neoliberalism under U. S. hegemony.
 
@@ -5002,7 +4963,6 @@ A basic relationship links the net debts (in terms of *variations*, Δ):
 
 This relationship is illustrated for credit market instruments (exclusively) in Figure 10.3. The variables depicted in this figure represent amounts outstanding instead of variations; thus, the joint variation of the two
 
-## ![](_page_222_Figure_2.jpeg)
 
 *Figure 10.3* Net debts: U. S. households and government considered jointly, and U. S. economy toward rest of world (percentage of U. S. GDP, quarterly).
 
@@ -5159,7 +5119,6 @@ Fables apart, there are only two places where helicopter money (i.e., newly issu
 
 Helicopter money may be a useful metaphor to focus our mind on what "fiat money and the managed currency system" mean as opposed to "gold money and the gold standard system." Now that gold is officially "de-monetized," no country operates a gold standard system, even though the economist's thinking may still not be fully liberated from the illusion of specie money. In a genuine capitalist economy, *commodity-money*, such as gold, was automatically generated from out of commodity exchanges. But, today, no such commodity-money is present; it is the monetary authorities of each sovereign nation that issue *fiat money* (F), which is the legal tender of the nation. The idea that a decree (or a fiat) of the nation-state "creates money" may, however, be too offensive for the American conservatives; thus, the more innocuous fable of an unidentified "helicopter" suddenly appearing in the sky to benevolently disperse greenbacks ("like manna from heaven") may be a less upsetting first approximation. Milton Friedman who first used this metaphor,11 being a radical monetarist, however, took it for granted that all these greenbacks would be used as "active" money, i.e., money to purchase commodities. Yet, money can also be held as a store of value or "idle" balances. Therefore, fiat money issued by the state (F) should also be divided into the two components,12 the part of it that will be directly spent (F1) and the other part which will be held in reserve by the commercial banks (F2). If F = F1+ F2 is helicopter money, we may imagine that the F1-part is dropped into the demand-deposit account that the Government holds with the central bank (DDA), and will be spent fiscally through the national budget as approved by Parliament, whereas the F2-part will be dropped into the demand-deposit account that the commercial banks hold with the central bank (DDB), and will not be spent until credit money is created for the public on that basis, as C = kF2 (DDC), where k is a bank-multiplier, which must not exceed the legal cash-reserve ratio (k\*≥k). This "bank multiplier," the reciprocal of which is the "velocity of monetary circulation," must not be confused with the Keynesian multiplier, which is the reciprocal of the propensity to save. In this way, one can readily see that the bank multiplier acts as a converter of idle fiat money (held in reserve) into active credit money (ready to be spent). Yet the "activation" of F2 into C (or DDC) is left to the discretion of the commercial banks, which may not always choose to be "fully loaned-up," contrary to the wishes of the monetarists. Under the commodity-money standard system, an "optimum supply of money" for the economy is supposed to be achieved automatically. Under a managed currency system it must be approximated policy-wise.
 
-## ![](_page_241_Figure_2.jpeg)
 
 DDA Demand deposit account that the State holds at the Central Bank;
 
@@ -5328,7 +5287,6 @@ The shift from the "big government" to "neoliberal" era can be seen in the shift
 
 Minsky's guiding notions - that big-government interventions would stabilize the economy, at the price of higher price inflation - can be evaluated for the period from the 1950s forward with the help of Figures 12.1A-12.1B and 12.2A-12.2B. The behavior of real GDP in longer postwar cyclical expansions is shown in Figure 12.1A. The most rapid growth from trough to peak occurred
 
-## ![](_page_257_Figure_2.jpeg)
 
 *Figure 12.1A* Quarterly U. S. real GDP growth in longer post-war expansions, trough to peak (truncated at 25 quarters) (source: Bureau of Economic Analysis, U. S. Department of Commerce).
 
@@ -5338,7 +5296,6 @@ in the 1950s. The pace of real GDP growth was more moderate in the long 1960s' e
 
 The behavior of prices is, in turn, explored in Figures 12.2A and 12.2B. In postwar cyclical expansions, Figure 12.2A shows that 1950s' inflationary pressure was relatively strong. This was followed by a decade of moderate price inflation (assisted by the effects of an increasingly overvalued U. S. dollar). However, in the three 1970s' and early 1980s' expansions, inflationary pressure was unleashed; among these three expansions, the explosive growth of prices in the later 1970s stands out. The 1990s', 2000s', and current (2009-) expansions, by contrast, show that price inflation has again been tamed. GDPdeflator shifts in cyclical contractions resemble the broad pattern observed for
 
-## ![](_page_258_Figure_1.jpeg)
 
 *Figure 12.1B* Quarterly U. S. real GDP change in longer post-war contractions, peak to trough (source: Bureau of Economic Analysis, U. S. Department of Commerce).
 
@@ -5348,7 +5305,6 @@ postwar expansions: a pattern of very moderate (if persistent) price inflation i
 
 Taking GDP growth and price inflation together, Minsky's vision of a tamed "big government" capitalism was clearly more a hope than a reality. What Minsky intended was a solution that would rescue the sort of benevolent, predictable macroeconomic performance that Okun (1975) had hoped would operate with law-like regularity. Minsky put forth this vision in his 1986 book, even though by then the pre-conditions for the "big-government"/"big-bank" stability policies he advocated were slipping away. As Figure 12.3 shows, discretionary non-military federal expenditures began declining significantly (as a share of U. S. GDP) by the early 1980s, slightly lagging an increase in mandatory (non-military) federal spending. The early 1980s were also a period in which a series of banking and financial deregulation acts were launched, with profound implications for macrostabilization policy. The seeds were being planted for financial strategies that would compromise the economic functionality of financial intermediation and open the way to untethered (and system-endangering) speculation and risk-taking.
 
-## ![](_page_259_Figure_2.jpeg)
 
 *Figure 12.2A* Quarterly U. S. price-deflator growth in longer post-war expansions, trough to peak (truncated at 25 quarters) (source: Bureau of Economic Analysis, U. S. Department of Commerce).
 
@@ -5362,13 +5318,11 @@ This "great moderation" did not mean that the U. S. economy became a painfree zo
 
 Kalecki's political business-cycle model suggests that unemployment behavior should change once workers have political representation. Specifically, the unemployment rate should not fall as low in expansions, due to problems with labor-extraction under welfare-state full employment, nor should it rise as high
 
-## ![](_page_260_Figure_0.jpeg)
 
 *Figure 12.2B* Quarterly U. S. price-deflator growth in longer post-war contractions, peak to trough (source: Bureau of Economic Analysis, U. S. Department of Commerce).
 
 The level of the GDP price deflator at the beginning of the contraction is taken as the base, then the percentage growth in the GDP price deflator is shown through the end of that period of cyclical expansion.
 
-## ![](_page_260_Figure_4.jpeg)
 
 *Figure 12.3* Mandatory and discretionary U. S. Federal-Government expenditures (excluding military sector), 1962-2010 (in 2005 \$) (source: Federal Reserve Bank; Historical Tables, US Office of Management and Budget).
 
@@ -5378,7 +5332,6 @@ However, in the neoliberal era, the hot-cold balance in Kalecki's political busi
 
 This "boundary shift" can be seen in the drift of U. S. unemployment rates over time. Figure 12.4A shows the movements in the unemployment rate for full-time 25-54-year-old workers during postwar cyclical expansions. The expansions that began in 1950, 1960, and 1971 are bunched at the bottom of this unemployment-rate landscape. Unemployment rates begin at higher ranges in the mid-1970s and early-1980s expansions; but they do drop into significantly
 
-## ![](_page_261_Figure_5.jpeg)
 
 *Figure 12.4A* Quarterly U. S. unemployment rate (adults 24-54 years old) in longer postwar expansions, trough to peak (truncated at 25 quarters) (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
@@ -5390,7 +5343,6 @@ lower ranges during these expansions (as in past expansions). The 1991 and 2001 
 
 Figure 12.5, which contains data on labor-force participation rates during cyclical expansions, presents another perspective on the drifting boundaries of Kalecki's accumulation cycle. The data starkly illustrate that the base-level of labor-force participation rose consistently from cycle to cycle from 1950 to 2001: it started at 60 percent and climbed to 67 percent. Working from this shifting base-level, labor-force participation rose notably in every expansion through 1981. In the 1991 and 2001 expansions, it was flat. In the 2009, labor-force participation started from a lower base (just over 65 percent) and has drifted down. Figures 12.6A and 12.6B, in turn, shows evidence of drifting boundaries as well.
 
-## ![](_page_262_Figure_3.jpeg)
 
 *Figure 12.4B* Quarterly U. S. unemployment rate (adults 24-54 years old) in longer postwar contractions, peak to trough (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
@@ -5398,7 +5350,6 @@ Figure 12.5, which contains data on labor-force participation rates during cycli
 
 The unemployment rate for adults aged 25-54 is shown from the peak to the end of each period of cyclical contraction.
 
-## ![](_page_263_Figure_2.jpeg)
 
 *Figure 12.5* Quarterly U. S. labor-force participation rates in longer post-war expansions, trough to peak (truncated at 25 quarters) (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
@@ -5410,7 +5361,6 @@ Figure 12.7 provides another angle on the evolution of the forces shaping the Ka
 
 The change in GDP from one year to the next can be interpreted as approximately equal to the sum of the changes in these terms (using a time-derivative approach and ignoring cross-effects). Then for every year in a given decade (or quasi-decade), the percentage contribution of each component to the overall change of real GDP in that series is weighted by that year's contribution to the overall decade-long shift in GDP. Summing up these weighted percentage
 
-## ![](_page_264_Figure_1.jpeg)
 
 *Figure 12.6A* Quarterly U. S. average duration of unemployment in longer post-war expansions, trough to peak (truncated at 25 quarters) (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
@@ -5420,7 +5370,6 @@ contributions by each of the terms in this decomposition permits us to evaluate 
 
 From a Kaleckian perspective, maintaining labor peace involves generating sufficient productivity growth to spread income gains between workers and capitalists. The growth of the working-age population spreads income across households as long as these households' members enter into the labor-force and then
 
-## ![](_page_265_Figure_2.jpeg)
 
 *Figure 12.6B* Quarterly U. S. average duration of unemployment in longer post-war contractions, peak to trough (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
@@ -5430,7 +5379,6 @@ into paid employment at steady rates. If these rates of labor-force participatio
 
 In sum, the data for the U. S. suggest that while the 1990s brought a return to 1960s-type growth patterns, trends in the 2000s permitted a U. S. political business cycle which involved less pressure from labor on capital than had been the case in the previous four decades.11 As productivity growth fell below its Golden Age peak, there were fewer gains to share; but labor-force participation trends meant that labor made weaker demands on capital to share its gains.
 
-## ![](_page_266_Figure_1.jpeg)
 
 *Figure 12.7* Sources of U. S. GDP growth, by decade, 1950-2010 (source: Bureau of Labor Statistics, U. S. Department of Labor).
 
@@ -5608,7 +5556,6 @@ As Figure 13.1 shows, the U. S. current account deficit kept rising from the ear
 
 The main reasons for imbalances in the U. S. are excessive consumption and the recent fiscal deficit under Bush administration - that is, overspending in both the private and the public sector. Figure 13.2 demonstrates the gap between domestic investment and domestic saving by the private and public sectors. In
 
-## ![](_page_279_Figure_9.jpeg)
 
 *Figure 13.1* Current account deficit/GDP in U. S. (percent) (source: Bureau of Economic Analysis (BEA)).
 
@@ -5616,11 +5563,9 @@ the 1980s, the main cause of the current account deficit was the fiscal deficit,
 
 As Figure 13.3 shows, the surplus countries are mainly East Asian, including China, and oil producers. These countries have pursued export-dependent growth
 
-## ![](_page_280_Figure_3.jpeg)
 
 Figure 13.2 Investment and saving in U. S. (percent) (source: Bureau of Economic Analysis (BEA)).
 
-## ![](_page_280_Figure_5.jpeg)
 
 Figure 13.3 Global dimension of global imbalances (source: IMF, 2010).
 
@@ -5655,7 +5600,6 @@ More nuanced arguments argue that failures in domestic distortions in macroecono
 
 This study suggests that strong demand for apparently safe assets not only served to reduce yields on these assets, but also encouraged the U. S. financial industry to develop structured investment products that transformed risky loans into highly rated securities. However, the excess growth and increasingly capitalmarket structure of the U. S. financial system may have aggravated imbalances
 
-## ![](_page_284_Figure_1.jpeg)
 
 *Figure 13.4* Changes in U. S. securities outstanding, 2003 and 2007 by country group (\$ billion) (source: Recalculated by author from Table 1 in Bernanke *et al.* (2011)).
 
@@ -5689,7 +5633,6 @@ These changes are related to the rise in saving and fall in investment in the U.
 
 It is not very certain whether the reduction of the current account deficit in the U. S. will continue with the end of overspending. The decline in consumption,
 
-## ![](_page_287_Figure_7.jpeg)
 
 *Figure. 13.5* Recent changes in current account deficit of U. S. (percent) (source: Bureau of Economic Analysis (BEA)).
 
@@ -5798,7 +5741,6 @@ Incidentally, from the second half of the 1980s to the 1990s, there was also acc
 
 At the same time, the resulting intraregional integration of East Asia that is currently shifting to a new stage of institutionalization through free trade
 
-## ![](_page_296_Figure_1.jpeg)
 
 *Figure 14.1* Intraregional export ratio by region, 1970-2009 (source: World Bank (2011); World Development Indicators 2011; Ratios of East Asia since 2004 calcurated from JETRO's World Trade Matrix).
 
@@ -5808,7 +5750,6 @@ Let us look at the GDP composition by country or region, including India within 
 
 Figures 14.3 and 14.4 show the movement in the GDP and per capita GDP of East Asian countries, using Japan as a reference. They confirm that the catching up of GDP and per capita GDP has displayed an inverse relationship on a
 
-## ![](_page_297_Figure_2.jpeg)
 
 Figure 14.2 Composition of each country or group in total GDP of East Asia + India, 1980-2015 (source: created from IMF, World Economic Outlook, April 2007, estimates start after 2011).
 
@@ -5818,11 +5759,9 @@ per-country basis. In terms of the size of the economy, during the past 20 years
 
 This structural change has given birth to a regional economic zone that has an enormous potential for growth in East Asia. NIEs and ASEAN countries seem to be catching up with Japan in terms of indicators of affluence, as do highly populated countries such as China and India in terms of scale indicators. This is a rough sketch of industrialization and market formation in Asia having an enormous population. Although how to overcome ongoing problems such as resources, energy, food, global warming, and environmental problems remain serious issues, East Asia is manifesting its potential for economic growth, and even though short-term business fluctuations are unavoidable, this could lead to the emergence of a potentially large market economic zone.
 
-## ![](_page_298_Figure_0.jpeg)
 
 *Figure 14.3* GDP catch-up ratio of country or group with respect to Japan, 1980-2012 (source: created from IMF, World Economic Outlook, October 2010, estimates start after 2009).
 
-## ![](_page_298_Figure_2.jpeg)
 
 *Figure 14.4* Per capita GDP catch-up ratio of East Asia and India with respect to Japan, 1980-2015 (source: created from IMF, *World Economic Outlook*, April 2011, estimates start after 2011).
 
@@ -6135,7 +6074,6 @@ In both cases, loose monetary policy and high levels of liquidity contributed to
 
 The increase in asset prices supported domestic fixed capital investment and domestic demand in both economies during the bubble years. Figure 15.1 shows the growth rate of real fixed investment in Japan from 1966 to 2010 - both actual growth rates and a five-year centered moving average, which mutes year-to-year fluctuations. The economic shocks of the 1970s reduced investment growth from the high rates which prevailed in the 1960s. Despite some fluctuation, average fixed investment growth remained at low levels until the bubble economy of the second half of the 1980s. After 1991, fixed investment growth fell to very low
 
-## ![](_page_321_Figure_5.jpeg)
 
 *Figure 15.1* Rate of growth of real gross fixed capital investment, Japan, 1966-2010 (source: International Financial Statistics, IMF Database).
 
@@ -6145,7 +6083,6 @@ The bubble economy in the U. S. also appears to have supported real fixed invest
 
 Asset price inflation in Japan and the U. S. kept unemployment low and helped to maintain a core of good quality, relatively permanent jobs. As discussed previously, unemployment rates in Japan were low prior to the financial bubble and remained low until the crisis unfolded. Moreover, during the bubble economy in Japan, the process of de-industrialization appears to have temporarily reversed itself, at least in terms of manufacturing employment. According to the Statistics Bureau of Japan, the number of employees in the manufacturing sector peaked at 12 million in 1973/74. Manufacturing employment began to fall
 
-## ![](_page_322_Figure_4.jpeg)
 
 *Figure 15.2* Rate of growth of real gross fixed capital investment, United States, 1966-2010 (source: International Financial Statistics, IMF Database).
 
@@ -6238,7 +6175,6 @@ When the IT bubble collapsed in 2000, the American government adopted a policy t
 
 Before discussing the links between the subprime crisis and U. S. consumption, we must first describe what is meant by overconsumption. In Juliet Schor's work
 
-## ![](_page_328_Figure_6.jpeg)
 
 *Figure 16.1* Percent homeowner with mortgage (quintiles of income before taxes) (source: Bureau of Labor Statistics, Consumer expenditure survey).
 
@@ -6288,7 +6224,6 @@ Private spending in GDP in the United States is extremely high compared with oth
 
 The increase in income and poverty gaps is also remarkable. The population in poverty decreased from 1960 to 1970; but it has risen since the 1980s. In 2007, the poverty rate stood at 12.3 percent, or 36.5 million people. According
 
-## ![](_page_332_Figure_1.jpeg)
 
 *Figure 16.2* Output per hour, real hourly wage and real hourly compensation (1995 = 100) (source: Arindrajit Dube and Dave Graham-Squire (2006) "Where have all the wages gone? Jobs and wages in 2006," Policy brief, UC Berkeley Center for Labor Research and Education).
 
@@ -6310,7 +6245,6 @@ According to Setsu Ito, items in the category of socialized housework can be pro
 
 There is controversy regarding what social consumption goods should be publicly provided, or subsidized. U. S. statistics suggest that that most Americans would accept the public provision or subsidy of the following social consumption goods/services: childcare, medical care and medical insurance, education, public service, and rent.14 This said, the expenditures that American households face on goods that might be eligible (and receive support) for public provision or subsidy are much higher than elsewhere. To see this, these expenditure items are analyzed here for the case of Japan. Using the items listed above, the share of social consumption goods/services in Japanese consumer spending is between 20 and 28 percent. Further, this ratio increases with income: in Japan, expenditures on these goods and services is less in the lower quintiles than in the higher quintiles. Figure 16.3 shows the proportion of expenses for necessary consumption in all private spending for Japan, by income quintile.
 
-## ![](_page_334_Figure_2.jpeg)
 
 *Figure 16.3* Monthly necessary payment and disposable income in narrow sense (Japan) (source: Ministry of Internal Affairs and Communications, Statistics Bureau, Family Income and Expenditure Survey).
 
@@ -6320,7 +6254,6 @@ There is controversy regarding what social consumption goods should be publicly 
 
 But in the U. S., the proportion of all private spending on these social consumption goods/services is about 53-57 percent in each income quintile; and it is highest in the lowest quintile. Figure 16.4 shows data for the U. S., which are taken from the 2007 Consumer Expenditure Survey. For instance, the social consumption goods/services expenditures are 54 percent of all private spending in the fourth quintile, but 57.2 percent in the lowest quintile and 56.3 percent in the fifth quintile. These expenditures are both high and relatively fixed, putting pressure on the remainder of the household's disposable income. Consumers can only pay for urgent and unanticipated expenses from this remainder - as in the case of medical costs or the need to support the household after losing a job. The amount of this "remainder," for the average household, comes to \$20,879
 
-## ![](_page_335_Figure_3.jpeg)
 
 *Figure 16.4* Annual necessary payment and disposable income in narrow sense (U. S. dollars) (source: Consumer Expenditure Survey 2007 and U. S. Department of Education Institute of Education Sciences, NHES 2005).
 

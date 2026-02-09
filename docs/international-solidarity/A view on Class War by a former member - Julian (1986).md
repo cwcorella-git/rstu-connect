@@ -26,7 +26,6 @@ What is more, and perhaps the most serious of all, CW shows its inconsistency by
 
 Class War's main fault, and it includes all the others, is to be a political organisation as hundreds have existed in the world before, imbued with ideology, unable to look at the past and gain knowledge from it, more concerned with denouncing this society than with searching for its weaknesses and go on the offensivein a considered and coherent manner. This organisation seeks to set up a determinate political system (anarchy) which the poor in revolt (the sacro-sanct working class ) are not interested in. If it survives, it has a chance of finding itself on the side of reaction when the revolution comes because it will struggle to impose its errors and to subsist, whereas the destruction of such organisations will be part of the revolution.
 
-## ![](_page_2_Figure_3.jpeg)
 
 16 years ago
 
@@ -226,7 +225,6 @@ If everyone not from a w/c background who joins a political group is "slumming i
 
 Of course vested class interests/prejudice are sometimes misrepresented as 'impartial' critique but I'm not convinced that applies here. Some ex-members of CW have become what the classic CW definition would call middle-class - landlords, journalists, professors etc including those from w/c backgrounds - maybe they were just slumming too. None of which is very important or interesting except to show that things are not as simple as you claim. BTW, the only reason I posted the article here is cos an admin asked me to, not cos I have any great interest in discussing it.
 
-## ![](_page_15_Figure_0.jpeg)
 
 [admin; personal details removed]I take your point, ret, that you only posted it because steven asked you to, but I would have thought that someone involved in posting a given article (steven maybe?)wouldbe interested in discussing it. Otherwise we really are talking about journalism.
 
@@ -304,7 +302,6 @@ You were apparently considerably closer to Julian than I ever was, despite now t
 
 ## Even the "no practice" bit? eek
 
-## ![](_page_20_Figure_0.jpeg)
 
 Although, of course, if the cap fits, feel free to wear it![details removed...]I was never close to Julian. I was close to his flatmate (and that I do regret!), some mates of mine tried to help Julian, and I participated a bit despite thinking he was a dickhead. I was pleased, in the end, that he didn't want to come to Germany.
 

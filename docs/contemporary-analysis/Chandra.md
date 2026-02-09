@@ -10,20 +10,20 @@ tags:
 ---
 
 
-**Chandra** [\(Sanskrit](https://en.wikipedia.org/wiki/Sanskrit_language): चन्द्र, [romanized](https://en.wikipedia.org/wiki/Romanization_of_Sanskrit): *Chandra*, [lit.](https://en.wikipedia.org/wiki/Literal_translation) 'shining' or 'moon'), also known as **Soma** [\(Sanskrit:](https://en.wikipedia.org/wiki/Sanskrit_language) सो म), is the [Hindu god](https://en.wikipedia.org/wiki/Hindu_god) [of the Moon](https://en.wikipedia.org/wiki/Lunar_deity), and is associated with the night, plants and vegetation. He is one of the [Navagraha](https://en.wikipedia.org/wiki/Navagraha) (nine planets of Hinduism) and [Dikpala](https://en.wikipedia.org/wiki/Dikpala) (guardians of the directions).[\[5\]](#page-5-3)
+**Chandra** \(Sanskrit](https://en.wikipedia.org/wiki/Sanskrit_language): चन्द्र, [romanized](https://en.wikipedia.org/wiki/Romanization_of_Sanskrit): *Chandra*, [lit.](https://en.wikipedia.org/wiki/Literal_translation) 'shining' or 'moon'), also known as **Soma** [\(Sanskrit:](https://en.wikipedia.org/wiki/Sanskrit_language) सो म), is the [Hindu god](https://en.wikipedia.org/wiki/Hindu_god) [of the Moon](https://en.wikipedia.org/wiki/Lunar_deity), and is associated with the night, plants and vegetation. He is one of the [Navagraha](https://en.wikipedia.org/wiki/Navagraha) (nine planets of Hinduism) and [Dikpala](https://en.wikipedia.org/wiki/Dikpala) (guardians of the directions).[\[5\]
 
 ## **Etymology and other names**
 
 
-The scriptures compare the Moon to a white goose in the blue lake of sky. [\[2\]](#page-5-1)
+The scriptures compare the Moon to a white goose in the blue lake of sky. \[2\]
 
-The word "Chandra" literally means "bright, shining or glittering" and is used for the "[Moon](https://en.wikipedia.org/wiki/Moon)" in [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) and other [Indo-Aryan languages.](https://en.wikipedia.org/wiki/Indo-Aryan_languages) [\[6\]](#page-5-4)[\[7\]](#page-5-5) It is also the name of various other figures in Hindu mythology, including an asura and a [Suryavamsha](https://en.wikipedia.org/wiki/Solar_dynasty) king.[\[8\]](#page-5-6) It is also a common Indian name and surname. Both male and female name variations exist in many South Asian languages that originate from Sanskrit.
+The word "Chandra" literally means "bright, shining or glittering" and is used for the "Moon](https://en.wikipedia.org/wiki/Moon)" in [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) and other [Indo-Aryan languages.](https://en.wikipedia.org/wiki/Indo-Aryan_languages) [\[6\]\[7\] It is also the name of various other figures in Hindu mythology, including an asura and a Suryavamsha](https://en.wikipedia.org/wiki/Solar_dynasty) king.[\[8\] It is also a common Indian name and surname. Both male and female name variations exist in many South Asian languages that originate from Sanskrit.
 
-Some of the synonyms of Chandra include *Soma* (distill), *Indu* (bright drop), *Shashank* (hare-marked), *Atrisuta* (son of Atri), *Shashin* or *Shachin* (the essence), *Taradhipa* (lord of stars), *Nishakara* (the night maker), *Nakshatrapati* (lord of the [Nakshatra\)](https://en.wikipedia.org/wiki/Nakshatra), *Oshadhipati* (lord of herbs), *Uduraj* or *Udupati* (water lord), *Kumudanatha* (lord of lotuses), and *Udupa* (boat).[\[2\]](#page-5-1)[\[5\]](#page-5-3)[\[9\]](#page-6-0)
+Some of the synonyms of Chandra include *Soma* (distill), *Indu* (bright drop), *Shashank* (hare-marked), *Atrisuta* (son of Atri), *Shashin* or *Shachin* (the essence), *Taradhipa* (lord of stars), *Nishakara* (the night maker), *Nakshatrapati* (lord of the Nakshatra\)](https://en.wikipedia.org/wiki/Nakshatra), *Oshadhipati* (lord of herbs), *Uduraj* or *Udupati* (water lord), *Kumudanatha* (lord of lotuses), and *Udupa* (boat).[\[2\]\[5\]\[9\]
 
 #### **Chandra**
 
-God of the [Moon,](https://en.wikipedia.org/wiki/Moon) [Night](https://en.wikipedia.org/wiki/Night) and [Vegetation](https://en.wikipedia.org/wiki/Vegetation) [\[1\]](#page-5-0)[\[2\]](#page-5-1) Member of [Navagraha](https://en.wikipedia.org/wiki/Navagraha)
+God of the Moon,](https://en.wikipedia.org/wiki/Moon) [Night](https://en.wikipedia.org/wiki/Night) and [Vegetation](https://en.wikipedia.org/wiki/Vegetation) [\[1\]\[2\] Member of [Navagraha](https://en.wikipedia.org/wiki/Navagraha)
 
 
 A painting of Chandra from [Mewar](https://en.wikipedia.org/wiki/Mewar), [Rajasthan,](https://en.wikipedia.org/wiki/Rajasthan)
@@ -50,7 +50,7 @@ A painting of Chandra from [Mewar](https://en.wikipedia.org/wiki/Mewar), [Rajast
 
 **Weapon** [Rope](https://en.wikipedia.org/wiki/Rope) **Day** [Monday](https://en.wikipedia.org/wiki/Monday)
 
-## **Color** Pale white [\[3\]](#page-5-2)
+## **Color** Pale white \[3\]
 
 ## **Number** 2, 11, 20, 29
 
@@ -68,7 +68,7 @@ A painting of Chandra from [Mewar](https://en.wikipedia.org/wiki/Mewar), [Rajast
 
 #### **Soma**
 
-Soma is one of the most common other names used for the deity; but the earliest use of the word to refer to the Moon is a subject of scholarly debate. Some scholars state that the word Soma is occasionally used for the Moon in the Vedas, while other scholars suggest that such usage emerged only in the post-Vedic literature.[\[10\]](#page-6-2)
+Soma is one of the most common other names used for the deity; but the earliest use of the word to refer to the Moon is a subject of scholarly debate. Some scholars state that the word Soma is occasionally used for the Moon in the Vedas, while other scholars suggest that such usage emerged only in the post-Vedic literature.\[10\]
 
 | Siblings
 Consort
@@ -95,7 +95,7 @@ children |
 | Greek | Selene |
 ## | Roman | Luna |
 
-In the [Vedas](https://en.wikipedia.org/wiki/Vedas), the word Soma is primarily used for an [intoxicating and energizing/healing plant drink](https://en.wikipedia.org/wiki/Soma_(drink)) and the deity representing it.[\[11\]](#page-6-3)[\[12\]](#page-6-4) In post-Vedic [Hindu](https://en.wikipedia.org/wiki/Hindu_mythology) [mythology](https://en.wikipedia.org/wiki/Hindu_mythology), Soma is used for Chandra, who is associated with the moon and the plant.[\[10\]](#page-6-2)[\[13\]](#page-6-5)[\[14\]](#page-6-6) The Hindu texts state that the Moon is lit and nourished by the Sun, and that it is Moon where the divine nectar of immortality resides.[\[5\]](#page-5-3) In Puranas, Soma is sometimes also used to refer to [Vishnu,](https://en.wikipedia.org/wiki/Vishnu) [Shiva](https://en.wikipedia.org/wiki/Shiva) (as *Somanatha*), [Yama](https://en.wikipedia.org/wiki/Yama) and [Kubera.](https://en.wikipedia.org/wiki/Kubera) [\[15\]](#page-6-7) In some Indian texts, Soma is the name of an [apsara;](https://en.wikipedia.org/wiki/Apsara) alternatively it is the name of any medicinal concoction, or rice-water gruel, or heaven and sky, as well as the name of certain places of pilgrimage.[\[15\]](#page-6-7)
+In the Vedas](https://en.wikipedia.org/wiki/Vedas), the word Soma is primarily used for an [intoxicating and energizing/healing plant drink](https://en.wikipedia.org/wiki/Soma_(drink)) and the deity representing it.[\[11\]\[12\] In post-Vedic Hindu](https://en.wikipedia.org/wiki/Hindu_mythology) [mythology](https://en.wikipedia.org/wiki/Hindu_mythology), Soma is used for Chandra, who is associated with the moon and the plant.[\[10\]\[13\]\[14\] The Hindu texts state that the Moon is lit and nourished by the Sun, and that it is Moon where the divine nectar of immortality resides.\[5\] In Puranas, Soma is sometimes also used to refer to Vishnu,](https://en.wikipedia.org/wiki/Vishnu) [Shiva](https://en.wikipedia.org/wiki/Shiva) (as *Somanatha*), [Yama](https://en.wikipedia.org/wiki/Yama) and [Kubera.](https://en.wikipedia.org/wiki/Kubera) [\[15\] In some Indian texts, Soma is the name of an apsara;](https://en.wikipedia.org/wiki/Apsara) alternatively it is the name of any medicinal concoction, or rice-water gruel, or heaven and sky, as well as the name of certain places of pilgrimage.[\[15\]
 
 Inspired by his interest in Indian mysticism, [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley) took the name for the drug used by the state in his novel *[Brave New World](https://en.wikipedia.org/wiki/Brave_New_World)* to control the population after the Vedic ritual drink Soma.
 
@@ -103,10 +103,10 @@ Inspired by his interest in Indian mysticism, [Aldous Huxley](https://en.wikiped
 
 #### **Vedas**
 
-The origin of Soma is traced back to the Hindu [Vedic texts,](https://en.wikipedia.org/wiki/Vedic_texts) where he is the personification of [a drink made from a](https://en.wikipedia.org/wiki/Soma_(drink)) [plant with the same name](https://en.wikipedia.org/wiki/Soma_(drink)). Scholars state that the plant had an important role in Vedic civilization and thus, the deity was one of the most important gods of the pantheon. In these Vedic texts, Soma is praised as the lord of plants and forests; the king of rivers and earth; and the father of the gods. The entire [Mandala 9](https://en.wikipedia.org/wiki/Mandala_9) of the *[Rigveda](https://en.wikipedia.org/wiki/Rigveda)* is dedicated to Soma, both the plant and the deity. [\[17\]](#page-6-8) The identification of Soma as a lunar deity in the Vedic texts is a controversial topic among scholars.[\[10\]](#page-6-2) According to William
+The origin of Soma is traced back to the Hindu Vedic texts,](https://en.wikipedia.org/wiki/Vedic_texts) where he is the personification of [a drink made from a](https://en.wikipedia.org/wiki/Soma_(drink)) [plant with the same name](https://en.wikipedia.org/wiki/Soma_(drink)). Scholars state that the plant had an important role in Vedic civilization and thus, the deity was one of the most important gods of the pantheon. In these Vedic texts, Soma is praised as the lord of plants and forests; the king of rivers and earth; and the father of the gods. The entire [Mandala 9](https://en.wikipedia.org/wiki/Mandala_9) of the *[Rigveda](https://en.wikipedia.org/wiki/Rigveda)* is dedicated to Soma, both the plant and the deity. [\[17\] The identification of Soma as a lunar deity in the Vedic texts is a controversial topic among scholars.\[10\] According to William
 
 
-Possible depiction of the Moon God Chandra in his chariot with wife and attendant, 2nd-1st century BCE, [Shunga](https://en.wikipedia.org/wiki/Shunga_period) period, West Bengal. [\[16\]](#page-6-1)
+Possible depiction of the Moon God Chandra in his chariot with wife and attendant, 2nd-1st century BCE, Shunga](https://en.wikipedia.org/wiki/Shunga_period) period, West Bengal. [\[16\]
 
 J. Wilkins, "In later years the name Soma was [...] given to the moon. How and why this change took place is not known; but in the later of the Vedic hymns there is some evidence of the transition. [note 1][18]
 
@@ -147,7 +147,7 @@ The [Hindu calendar](https://en.wikipedia.org/wiki/Hindu_calendar) is a [lunisol
 
 ### **Astronomy**
 
-Soma was presumed to be a planet in Hindu astronomical texts.[\[27\]](#page-6-18) It is often discussed in various [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) astronomical texts, such as the 5th century *Aryabhatiya* by [Aryabhatta,](https://en.wikipedia.org/wiki/Aryabhatta) the 6th century *Romaka* by Latadeva and *Panca Siddhantika* by Varahamihira, the 7th century *Khandakhadyaka* by Brahmagupta and the 8th century *Sisyadhivrddida* by Lalla.[\[28\]](#page-6-19) Other texts such as *Surya Siddhanta* dated to have been complete sometime between the 5th century and 10th century present their chapters on various planets with deity mythologies.[\[28\]](#page-6-19) However, they show that the Hindu scholars were aware of elliptical orbits, and the texts include sophisticated formulae to calculate its past and future positions:[\[29\]](#page-6-20)
+Soma was presumed to be a planet in Hindu astronomical texts.\[27\] It is often discussed in various Sanskrit](https://en.wikipedia.org/wiki/Sanskrit) astronomical texts, such as the 5th century *Aryabhatiya* by [Aryabhatta,](https://en.wikipedia.org/wiki/Aryabhatta) the 6th century *Romaka* by Latadeva and *Panca Siddhantika* by Varahamihira, the 7th century *Khandakhadyaka* by Brahmagupta and the 8th century *Sisyadhivrddida* by Lalla.[\[28\] Other texts such as *Surya Siddhanta* dated to have been complete sometime between the 5th century and 10th century present their chapters on various planets with deity mythologies.\[28\] However, they show that the Hindu scholars were aware of elliptical orbits, and the texts include sophisticated formulae to calculate its past and future positions:\[29\]
 
 The longitude of Moon =
 $$m-\frac{P\times R\sin(m-a)}{360}$$

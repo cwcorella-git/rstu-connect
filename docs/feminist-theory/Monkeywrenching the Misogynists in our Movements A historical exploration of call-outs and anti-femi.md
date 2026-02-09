@@ -201,7 +201,6 @@ In order to better support survivors, and strengthen our resistance to state rep
 
 Kiera Loki Anderson is an artist-storyteller and PhD student currently residing in unceded Coast Salish Territories. They have a background in forest defense and feminist/queer community organizing. A central focus of their research and praxis is the history of anti-oppression and safer space organizing within forest defense in the early 2000's. Contact them via website or twitter at
 
-## ![](_page_14_Figure_2.jpeg)
 
 | 2015. |
 |-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -236,11 +235,6 @@ this has manifested in our communities: |
 | XIII |
 ## | |
 
-## ![](_page_17_Figure_0.jpeg)
-
-## ![](_page_18_Figure_0.jpeg)
-
-## ![](_page_19_Figure_0.jpeg)
 
 | [22] |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -265,7 +259,6 @@ the prevalence of rape and other forms of interpersonal abuse. See Sarah Luckey 
 
 .:
 
-## ![](_page_21_Figure_0.jpeg)
 
 | NWSA Journal |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

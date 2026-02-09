@@ -76,7 +76,6 @@ The increase in post-secondary education is the key that propels the economic de
 
 Although advances in technology have increased productivity, and, thus, reduced the demand for manufacturing workers, the growing importance of technology to the overall economy has upsurged the demand for educated workers. Overall production output encompasses innovation in work processes that result in increased value. This upturn in demand for highly educated workers that can harness the power of technology and its possibilities has been the defining feature of our postindustrial economy.
 
-## ![](_page_7_Figure_3.jpeg)
 
 ### **Main Arguments Against Free College**
 
@@ -108,8 +107,6 @@ While education is a key driver of economic development, free college alone woul
 
 Indeed, a study by Perna et al (2020) on college promise programs as published by the American Educational Research Association revealed that efficient use of resources is at the root of the debate on free college. Their work, "Is a College Promise Program an Effective Use of Resources?" published in the American Educational Research Association, states that "promise programs may advance vertical equity by investing resources in a financial award that reduces costs of attendance for low-income students and creating eligibility requirements that permit students from underserved groups to receive program resources. Programs may advance equity and efficiency by investing in personnel and other supports that enable students from underserved groups to meet eligibility requirements, enroll, persist, transfer, and complete."
 
-
-## ![](_page_11_Figure_2.jpeg)
 
 ## **How can academic quality be maintained in free college systems?**
 

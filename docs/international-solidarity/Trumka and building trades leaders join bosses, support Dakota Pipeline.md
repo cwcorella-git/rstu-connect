@@ -80,7 +80,6 @@ came out and opposed them, called them names.
 
 ## "See,….."
 
-## ![](_page_4_Figure_0.jpeg)
 
 The issue is if you're going to call for shutting down someone's source of income you'd better have an alternative. The problem is even those unions supporting the protests and opposed to the pipeline do not have an alternative. It's the same as opposing deforestation or certain types of mining or the defense industry. The workers movement and if we had one, a workers party must put forward an alternative to the solutions that are not limited to the confines of the market or objected to by capitalist parties and politicians. How we produce in society cannot be left to market forces.
 

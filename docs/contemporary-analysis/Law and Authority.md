@@ -78,7 +78,7 @@ The history of the genesis of capital has already been told by Socialists many t
 
 Law, in its quality of guarantee of the results of pillage, slavery and exploitation, has followed the same phrases of development as capital; twin brother and sister, they have advanced hand in hand, sustaining one another with the suffering of mankind. In every country in Europe their history is approximately the same. It has differed only in detail; the main facts are alike; and to glance at the development of law in France or Germany is to know its essential traits, its phases of development, in most of the European nations.
 
-In the first instance, law was a national part of contract. Such a contract was agreed upon between the legions and people at the Champs de Mars,[\[1\]](#page-14-0) a relic of the same period is preserved even yet in the Field of May of the primitive Swiss cantons despite the alterations effected by the interference of centralising and middle-class civilisation.
+In the first instance, law was a national part of contract. Such a contract was agreed upon between the legions and people at the Champs de Mars,\[1\] a relic of the same period is preserved even yet in the Field of May of the primitive Swiss cantons despite the alterations effected by the interference of centralising and middle-class civilisation.
 
 It is true that this contract was not always freely accepted. Even in those early days the rich and strong were imposing their will upon the rest. But at all events they encountered an obstacle to their encroachments in the mass of the people, who often made them feel their power in return.
 
@@ -144,7 +144,7 @@ No more laws! No more judges! Liberty, equality, and practical human sympathy ar
 
 #### instincts of certain amongst us.
 
-[\[1\]](#page-7-0) The annual assembly of the early Franks, originally held in March, there the first month of the year.
+\[1\] The annual assembly of the early Franks, originally held in March, there the first month of the year.
 
 Retrieved on March 1st, 2009 from [dwardmac.pitzer.edu.](http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/lawauthority.html) Proofread version retrieved on October 4th, 2019, from [Revolt Lib.com.](http://www.revoltlib.com/?id=309)
 

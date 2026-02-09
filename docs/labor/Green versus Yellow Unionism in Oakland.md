@@ -225,7 +225,6 @@ Aloise further asserted that District 7 represents "74,000 railroad workers", an
 
 ## Railroad Workers United
 
-## ![](_page_15_Figure_0.jpeg)
 
 (an accusation leveled by some pastors of some of the local black churches, some of whom--it turns out--were bribed by the developers to the tune of donations amounting to approximately \$0.07 per ton of coal shipped through the terminal), but in spite of these accusations, and the Teamsters blatantly running interference for Tagami, the propaganda has thus far failed.
 

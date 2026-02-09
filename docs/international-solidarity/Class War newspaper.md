@@ -28,7 +28,6 @@ Disorder" anthology here:https://www.versobooks.com/blogs/4844-class-war|
 
 LRB articles this month but you can get around that by opening up a private mode/incognite window. Interesting to see the old Chumbawamba shit condom hoax get another mention.
 
-## ![](_page_1_Figure_0.jpeg)
 
 Not a surprise to see criticism of Class War from the cop collaborators of Sussex University above. Samotnaf, 12 years 9 months ago, wrote: Should point out that this article, though it appeared in Aufheben as an "intake" , was not written by anyone involved in Aufheben. I remember being invited for a pint at The White Tart by Ian Bone and his cronnies when I worked in a post room off Finsbury Square. The overall impression that I left with was, gobbledegook. lurdan 1 year 8 months ago Here's a temporary link to a scan of one of the missing issues #4 Imagenetz link (This issue was put together by Lia and Aleks and I have a dim recollection that there was some unhappiness about the content). westartfromhere 1 year 8 months ago The class has to be injected with higher consciousness. This higher consciousness cannot be founded on real experience, by its very definition, and so must find another basis. This is found in howotherpeople suffer—in victims. Anger is twisted out of class solidarity which then aquires the pious stench of Christian brotherhood and can do nothing more aggressive than condemn capitalism for being immoral.
 

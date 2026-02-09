@@ -75,7 +75,6 @@ In the present section, some modern configurations for wind catchers are present
 
 **Figure 5 :**Modern design of wind catchers with different roof geometry [3].
 
-## ![](_page_5_Figure_2.jpeg)
 
 **Figure 6 :**Three stages wind tower with modern design of wind catchers [2].
 
@@ -85,7 +84,6 @@ The proposed model of wind catcher, as shown in Fig. 7, is designed to overcome 
 
 Four proposed models are collected together inside the four-sided wind tower to receive the prevailing wind from all directions with any speed and without any rotating parts, as shown in Fig. 8. This can remove the limitations of other previous wind catchers and improve the ventilation efficiency; see for more details [2].
 
-## ![](_page_6_Figure_4.jpeg)
 
 **Figure 7 :**The proposed wind catcher and its geometrical parameters
 

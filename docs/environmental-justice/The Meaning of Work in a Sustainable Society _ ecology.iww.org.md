@@ -13,8 +13,6 @@ tags:
 William Shakespeare, Henry IV, Part I, Act II, Scene IV
 
 
-## ![](_page_0_Figure_7.jpeg)
-
 ## Fie upon this quiet life. I want work.
 
 The nature and meaning of work, as it pertains to a future

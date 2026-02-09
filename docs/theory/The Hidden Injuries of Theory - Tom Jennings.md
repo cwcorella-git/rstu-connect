@@ -79,7 +79,6 @@ Hmm yes - looks bonkers:
 
 - Dave Douglass - All Power To The Imagination
 
-## ![](_page_9_Figure_0.jpeg)
 
 -on-the-estates-on-the-1992-urban-riots&catid=34:archivelocal&Itemid=27 Ian Bone liked it enough to put bits of it on his blog here:https://ianbone.wordpress.com/2008/04/25/the-pointy-heads/Bone's commenters didn't like the big words / big ideas. R Totale 5 years 5 months ago In reply to Welcomebylibcom.org On an even more tangential note, the more I learn about the Anarchist Workers Group the weirder they sound, I had a vague idea of them as the "Victory to Saddam Hussein and then became trots" lot, but that Douglass piece also mentions a CWO meeting where he claims many of them were ex-AWGers. If Douglass is right, then having people on their way to left communism in the same (presumably quite small, with claims to theoretical unity) organisation as people on their way to RCP-style Trotskyism, and apparently also the "I am glad the miners have been defeated" guy, sounds like a hell of a mix. Fozzie 3 years 12 months ago
 
@@ -87,7 +86,6 @@ Splits and Fusions has turned up a copy of Analysis magazine with some info:http
 
 ## In reply to Welcomebylibcom.org
 
-## ![](_page_11_Figure_0.jpeg)
 
 | purposes or something?This seems like it's people replying to that thread, although not very
 helpful without the original:https://twitter.com/hackneyglyn/status/1454047709032288260|

@@ -8,9 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Figure_1.jpeg)
-
-## ![](_page_1_Figure_0.jpeg)
 
 ## Dan Evans
 

@@ -55,7 +55,6 @@ This gives developers more flexibility on the kind of models and training regime
 
 #### Fine-tuning open-source LLMs
 
-## ![](_page_5_Figure_6.jpeg)
 
 As opposed to scientific research, which often evaluates models on very generalized benchmarks, specialization is very important for real-world applications.
 
@@ -77,11 +76,6 @@ A few things make Cerebras-GPT particularly interesting. First, Cerebras release
 
 Moreover, the Cerebras-GPT provides very interesting details on the scaling laws of LLMs and the calculations that allow you to evaluate the tradeoffs between the costs of training and inference. They have created a training and scaling formula that enables you to accurately predict the performance of models without wasting expensive resources to train them.
 
-## ![](_page_7_Figure_6.jpeg)
-
-## ![](_page_7_Figure_7.jpeg)
-
-## ![](_page_8_Figure_2.jpeg)
 
 #### Cerebras-GPT scaling laws
 

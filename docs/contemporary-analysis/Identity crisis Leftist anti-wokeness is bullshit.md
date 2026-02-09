@@ -184,7 +184,6 @@ You might ask yourself why neoliberals love Crenshaw's approach. David Harvey ha
 
 "Neoliberal rhetoric, with its foundational emphasis upon individual freedoms, has the power to split off libertarianism, identity politics, multi-culturalism, and eventually narcissistic consumerism from the social forces ranged in pursuit of social justice through the conquest of state power. It has long proved extremely difficult within the US left, for example, to forge the collective discipline required for political action to achieve social justice without offending the
 
-## ![](_page_14_Figure_0.jpeg)
 
 ## Khawaga
 
@@ -869,7 +868,6 @@ No, his solution isn't color blind social democratic politics and you've adduced
 
 He argues that the programmatic politics of the new deal or the civil rights movement were more effective than movementism and he is (arguably) correct. He has a weak critique of the
 
-## ![](_page_63_Figure_0.jpeg)
 
 ## In reply to Welcomebylibcom.org
 
@@ -889,7 +887,6 @@ Lassalle believed in the "iron law of wages" and that workers cooperatives had t
 
 Reed solution might be insufficient, but that doesn't devalue his underlying argument about the problem. Those are two different things.
 
-## ![](_page_65_Figure_0.jpeg)
 
 | http://www.kooriweb.org/foley/essays/pdf_essays/the%20power%20of%20whiteness.pdf|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -36,7 +36,6 @@ The Department of Labor finds in most of the cases that:
 
 "the investigation revealed that imports of crude oil, natural gas, or NGLs did not contribute importantly to worker separations. Aggregate United States imports of crude oil, natural gas, or NGLs did not increase during the same period of time in which United States production of crude oil, natural gas, and NGLs were decreasing (2014 compared 2013 and January through May 2015 compared to the corresponding 2014 period). The petitioner's allegation of the price of oil falling did not correlate to an increase in aggregate United States imports of crude oil, natural gas, and/or NGLs while United States production of crude oil, natural gas and/or NGLs was decreasing." Sample Denials: Cyclone Drilling, Wyoming:
 
-## ![](_page_3_Figure_0.jpeg)
 
 and/or production of oil and gas separators by Cimarron Energy have decreased absolutely. Section 222(a)(2)(A)(ii) has been met because imports of articles like or directly competitive with the articles produced by Cimarron Energy have increased in 2015 from 2014
 

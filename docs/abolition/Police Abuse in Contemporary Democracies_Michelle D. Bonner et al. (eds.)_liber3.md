@@ -8,7 +8,6 @@ tags:
   - democracy
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 ## Michelle D. Bonner · Guillermina Seri Mary Rose Kubal · Michael Kempa Editors
 
@@ -724,7 +723,6 @@ Reproduced and amplied by the media, the employment of myths in police reports t
 
 Both in India and Argentina, the institutional response to abuses following demands of civil society groups and movements has been significant though inadequate. In post-emergency India (1977), the rise of civil liberties and democratic rights groups systematically took up the issue of custodial deaths, especially extrajudicial killings or fake encounters (where the police portray the killings as the result of a shootout between them and the escaping or attacking militant). The passage of the Human Rights Act in 1993 and the creation of the National Human Rights Commission in 1994 (and subsequently State Human Rights Commissions) initiated a visible state response in favor of rights protection. Regarding torture and custodial deaths, the NHRC mandated that every custodial death was to be reported to the Commission within 24 hours of its occurrence, along with a subsequent enquiry report into the custodial death and video of the postmortem. The number of deaths in
 
-## ![](_page_81_Figure_2.jpeg)
 
 **Fig. 3.1** Judicial independence in Argentina and India (*Source* CIRI Dataset, Cingranelli et al. 2014)
 
@@ -744,7 +742,6 @@ In 2013, an amicus curiae petition raised questions about whether Court interven
 
 In the meantime, protections from killings and political torture by the government, captured here by the V-Dem Physical Violence index, illustrate the dramatic, positive impact of Argentina's redemocratization in 1983 in terms of access to rights, as well as India's drop and recovery after the emergency period. The Varieties of Democracy database denes physical integrity as "freedom from political killings and torture by the government," which stands as the most important of all liberal rights in explaining conditions of political competition and government accountability (Coppedge et al. 2017). While, as the graph below shows, Argentine physical integrity protections are now higher than India's and closer to OECD countries standards (included for comparative purposes), both countries show some decline over the last decade, as the cases and trends discussed in this chapter illustrate (Fig. 3.2).
 
-## ![](_page_84_Figure_2.jpeg)
 
 **Fig. 3.2** Physical violence index for Argentina and India (*Source* Varieties of Democracy (V-Dem) [Coppedge et al. 2017])
 

@@ -3280,7 +3280,6 @@ Meanwhile, the U. S. debt remains, as it has been since 1790, a war debt: the Un
 
 The U. S. military, unlike any other, maintains a doctrine of global power projection: that it should have the ability, through roughly 8oo overseas military bases, to intervene with deadly force absolutely anywhere on the planet. In a way, though, land forces are secondary; at least since World War II, the key to U. S. military doctrine has always been a reliance on air power. The United States has fought no war in which it did not control the skies, and it has relied on aerial bombardment far more systematically than any other military-in its recent occupation of Iraq, for instance, even going so far as to bomb residential neighborhoods of cities ostensibly under its own control. The essence
 
-## ![](_page_373_Figure_1.jpeg)
 
 of U. S. military predominance in the world is, ultimately, the fact that it can, at will, drop bombs, with only a few hours' notice, at absolutely any point on the surface of the planet.11 No other government has ever had anything remotely like this sort of capability. In fact, a case could well be made that it is this very power that holds the entire world monetary system, organized around the dollar, together.
 
@@ -3308,17 +3307,14 @@ Just to give a sense of how extreme a financial crisis we are talking about, her
 
 Here is the amount of U. S. debt held overseas:
 
-## ![](_page_376_Figure_5.jpeg)
 
 Meanwhile, private U. S. banks reacted to the crash by abandoning any pretense that we are dealing with a market economy, shifting all available assets into the coffers of the Federal Reserve itself, which purchased U. S. Treasuries:
 
-## ![](_page_377_Figure_1.jpeg)
 
 Allowing them, through yet another piece of arcane magic that none of us could possibly understand, to end up, after an initial near-\$400-billion dip, with far larger reserves than they had ever had before.
 
 Shaded areas indicate U. S. recessions.
 
-## ![](_page_377_Figure_3.jpeg)
 
 At this point, some U. S. creditors clearly feel they are finally in a position to demand that their own political agendas be taken into account.
 
@@ -3352,7 +3348,6 @@ When the Keynesian settlement was finally put into effect, after World War II, i
 
 The moment that we start framing the story this way, it's easy to see that the next thirty years, the period from roughly 1978 to 2009, follows nearly the same pattern. Except that the deal, the settlement, had changed. Certainly, when both Ronald Reagan in the United States and Margaret Thatcher in the UK launched a systematic attack on the power of labor unions, as well as on the legacy of Keynes, it was a way of explicitly declaring that all previous deals were off. Everyone could now have political rights-even, by the 1990s, mos't everyone in Latin America and Africa-but political rights were to become economically meaningless. The link between productivity and wages was chopped to bits: productivity rates have continued to rise, but wages have stagnated or even atrophied:24
 
-## ![](_page_382_Figure_4.jpeg)
 
 This was accompanied, at first, by a return to "monetarism": the doctrine that even though money was no longer in any way based in gold, or in any other commodity, government and central-bank policy should be primarily concerned with carefully controlling the money supply to ensure that it acted as if it were a scarce commodity. Even as, at the same time, the financialization of capital meant that most money being invested in the marketplace was completely detached from any relation to production of commerce at all, but had become pure speculation.
 

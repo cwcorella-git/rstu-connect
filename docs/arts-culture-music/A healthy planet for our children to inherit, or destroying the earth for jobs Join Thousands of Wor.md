@@ -43,7 +43,6 @@ kdeniz@teamster.org
 
 ## BUILDING TRADES: Tom Owens (202) 756-4623 |
 
-## ![](_page_2_Figure_0.jpeg)
 
 .
 

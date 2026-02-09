@@ -37,7 +37,6 @@ Fred Hampton Jr., the chairman of the Illinois chapter of the BPP, described the
 
 "[Y]ou ain't seen nothin' till you see one them beautiful sisters with their hair kinda' start gettin' grey, and they ain't got many teeth, and they were tearing them police up! They were tearin' 'em up! The pigs would come come up to them and say, 'You scared of communism?' And the
 
-## ![](_page_2_Figure_0.jpeg)
 
 "And the women said, 'Well, I tell you what, boy. I've been knowing you since you was knee-high to a grasshopper, ni\*\*a. And I don't know if I like communism and I don't know if I like socialism. But I know that that Breakfast for Children program feeds my kids, ni\*\*a. And if you put your hands on that Breakfast for Children program, I'm gonna come off this can and I'm gonna beat your ass like a …'"
 

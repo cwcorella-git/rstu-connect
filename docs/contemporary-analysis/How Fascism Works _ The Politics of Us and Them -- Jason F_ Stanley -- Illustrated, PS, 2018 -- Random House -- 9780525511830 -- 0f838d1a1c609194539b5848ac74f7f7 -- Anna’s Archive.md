@@ -13,8 +13,6 @@ tags:
 ## JASON STANLEY
 
 
-## ![](_page_2_Figure_0.jpeg)
-
 #### Copyright © 2018 by Jason Stanley All rights reserved.
 
 Published in the United States by Random House, an imprint and division of Penguin Random House LLC, New York.

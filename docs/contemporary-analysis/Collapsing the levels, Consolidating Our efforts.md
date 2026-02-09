@@ -235,9 +235,6 @@ Nappalos, SN. (2010).
 
 Ibid (2011).
 
-## ![](_page_19_Figure_0.jpeg)
-
-## ![](_page_20_Figure_0.jpeg)
 
 Estudios Interdisciplinarios de América Latina y el Caribe.
 

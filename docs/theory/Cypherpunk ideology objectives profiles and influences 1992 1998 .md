@@ -194,11 +194,9 @@ The cypherpunks community can be profiled by analyzing the mail list and enrichi
 
 The average age is 33.7; the median age is 33. The youngest was Jim Choate, at 20 years of age, with Peter Junger being the oldest at 57. Given protest culture is often associated with university students, it is surprising such a small proportion of the cypherpunks represented this demographic. The location, or possible location, for 36 of the 40 sampled cypherpunks was identified. Figure 3 shows the sample
 
-![](_page_10_Figure_7.jpeg)
 
 **Figure 2.** Cypherpunk's Estimated Ages.
 
-## ![](_page_11_Figure_3.jpeg)
 
 **Figure 3.** Cypherpunk's Locations.
 
@@ -208,7 +206,6 @@ Only Assange lived outside the US. Predictably, the largest concentration of the
 
 This data is surprising, as one would have expected a stronger concentration at institutions such as MIT, Santa Barbara and Berkeley, which were known for their computer science programmes and liberal politics. One would also expect a more pronounced west coast concentration, yet the sample set are broadly distributed – again, this challenges the depth of the cypherpunk's connectivity to San Francisco. Twenty cypherpunks were employed within the technology industry, five within the field of law, with others employed in fields such as architecture, journalism and mathematics, and two were students.
 
-## ![](_page_12_Figure_1.jpeg)
 
 **Figure 4.** Cypherpunk's Alma Maters.
 
@@ -218,7 +215,6 @@ The data shows an expected technology industry bias. Rid comments within the lis
 
 Analysis of the mail list indicates that a number of influences, depicted in Figure 5, contributed to the cypherpunk's ideology.
 
-## ![](_page_13_Figure_3.jpeg)
 
 **Figure 5.** Cypherpunk's Influences.
 
@@ -230,7 +226,6 @@ Unsurprisingly of a group that sought to develop cryptographic technologies to e
 
 Political categorisation for the cypherpunks as a cohort is challenging, as they represent a number of ideologies. The cypherpunks are perhaps best classified as a representation of the radical right. However, they are liberal in a conventional sense, for instance in their views about freedom of movement, and are not right wing in a restrictive or partisan way; their ideology is about intellectual endeavour, not political sectarianism or national populism, but they are a form of radical right and are atypical of the radical right as they are highly educated intellectuals. For those of the anarchic and libertarian disposition there was a desire to, in May's words, "undermine the so-called democratic governments of the world" (May, 1994b, 2.13.6). Libertarians believe the most important political value is liberty, rather than democracy (Boaz, 2015). They feel
 
-## ![](_page_14_Figure_1.jpeg)
 
 **Figure 6.** Cypherpunk's Political Philosophies.
 

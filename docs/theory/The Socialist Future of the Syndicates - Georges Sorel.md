@@ -26,7 +26,6 @@ not out of agreement. |
 | Ever get round to reading this syndicalist? Curious to know your thoughts (and everyone
 else's) |
 
-## ![](_page_1_Figure_0.jpeg)
 
 problem by merely creating sections for middle class professions, eg academics and clerks and so on. The concern of the syndicalists was that subordination to a communist party would effectively amount to a "dictatorship of the specialists/intellectuals" -- not exactly a ridiculous concern.
 

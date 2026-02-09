@@ -38,7 +38,6 @@ YCP have turned to the mass strike as a weapon of protest. Unconsciously, they h
 
 This is why we appeal to those who respond to the YCP call to recognise that the path to such a future depends on a very specific "turning point" – the overturning of the capitalist order which in a few centuries has brought humanity to the brink of an absolute disaster. The worldwide working class is the only social force with the capacity and potential to create that better world – one based on common ownership, cooperation and planned sustainable
 
-## ![](_page_3_Figure_1.jpeg)
 
 ## In reply to Welcomebylibcom.org
 

@@ -641,7 +641,6 @@ For a rat in a box, chocolate increases the basal output of dopamine in the brai
 
 #### REWARDS AND DOPAMINE RELEASE
 
-## ![](_page_45_Figure_1.jpeg)
 
 #### Pleasure and Pain Are Co-Located
 

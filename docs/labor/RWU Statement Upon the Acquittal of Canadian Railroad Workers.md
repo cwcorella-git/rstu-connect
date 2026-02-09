@@ -50,9 +50,6 @@ email:
 
 secretary@railroadworkersunited.org
 
-## ![](_page_3_Figure_0.jpeg)
-
-## ![](_page_4_Figure_0.jpeg)
 
 | , January 19, 2018 | | |
 |--------------------|--|--|

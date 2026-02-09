@@ -71,7 +71,6 @@ westartfromhere
 
 In reply toI agree with the necessity…bylesboygenius lesboygenius wrote:I'm lost on the significance of the 'eclipse' symbolism.
 
-## ![](_page_4_Figure_0.jpeg)
 
 | I was thinking 'Eclipse' could be a reference to Dauve's work, but that would be too thoughtful
 for much of the anarchist milieu. |

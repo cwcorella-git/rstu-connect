@@ -60,7 +60,6 @@ justification for it? |
 | 8 years 1 month ago |
 ## | In reply to Welcomebylibcom.org |
 
-## ![](_page_3_Figure_0.jpeg)
 
 ## In reply to Welcomebylibcom.org jef costello in general the SO is more concerned with policing demonstrations than protecting demonstrators. They collaborate with police and try to prevent any unsanctioned actions. So for example if a group tries to break away from the march they will try to stop them.
 

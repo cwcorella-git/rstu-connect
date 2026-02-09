@@ -123,7 +123,6 @@ Here is one awesomely militant (for an online petition) online petition that you
 
 "U. S. Department of Justice recently opened an investigation into how the governor handled the crisis. We are calling on the DOJ to consider the case a criminal investigation and to prosecute the governor accordingly
 
-## ![](_page_7_Figure_0.jpeg)
 
 | . For more background info, the forever great Ken Ward has a write up |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

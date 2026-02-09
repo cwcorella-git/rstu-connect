@@ -219,7 +219,6 @@ The class trade union function always prevailed over the political potential whi
 
 The example of Local 8 that we have tried to present in the most nuanced possible way, shows that following a policy of "neutrality" during a war, explicitly refusing to go on strike, will
 
-## ![](_page_25_Figure_0.jpeg)
 
 | Thanks, comrades! I feel massively privileged! |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

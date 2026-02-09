@@ -42,7 +42,6 @@ However this is not to say that there is maybe something positive to learn from 
 
 For foolish militants eager to organize the proles today this idea may sound tempting. But ultimately this strategy cannot work to mobilize workers for communism. Communism is not a myth, it is a material necessity for humanity to continue its development. A Sorelian mass only driven by myth and irrationalism will not create communism but will only be a tool for capitalist reaction to manipulate. Resorting to myth-making or just populist demagoguery to somehow make our ideas more popular ultimately leads to the opportunism and reaction provided by the Parliamentary Socialists that Sorel so deeply despises. As Communists we should take the opposite approach, which is to explain our positions with clarity and engage the class in a principled manner no matter how difficult it is. There are no shortcuts to class consciousness that we can force upon workers. Yet at the same time questions of consciousness cannot be ignored in hope that the eventual crisis will fix everything and put the proles in their place. Sorel bravely attempts to explore the problems of consciousness in Reflections on Violence but turns to irrationalism in order to offer solutions that only lead to opportunism.
 
-## ![](_page_5_Figure_2.jpeg)
 
 11 years 7 months ago
 

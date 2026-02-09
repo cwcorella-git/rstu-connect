@@ -1030,9 +1030,6 @@ Merely by manipulating feelings of loneliness and social connectedness, we had m
 
 Moreover, we had demonstrated yet again that lonely individuals are not a breed apart. Any of us can succumb to loneliness, and along with it, all the other characteristics that travel as its entourage.
 
-## ![](_page_121_Figure_0.jpeg)
-
-## ![](_page_121_Figure_1.jpeg)
 
 The surveys of the Ohio State students as well as the manipulations by way of hypnosis showed the effect of loneliness on thoughts, moods, selfregulation, even personal characteristics such as shyness and self-esteem in the moment.
 
@@ -1146,7 +1143,6 @@ Socially contented older adults were thirty-seven percent more likely than lonel
 
 The same pattern held for diet. Among the young, eating habits did not differ substantially between the lonely and the nonlonely. However, among the older adults, loneliness was associated with the higher percentage of daily calories from fat that we noted earlier (and that is illustrated in Figure 6).22
 
-## ![](_page_133_Figure_3.jpeg)
 
 FIGURE 6. The U. S. Department of Health and Human Services and Department of Agriculture recommend that fat intake be between 20% and
 
@@ -1186,7 +1182,6 @@ Among young adults, we found that the greater the degree of loneliness, the more
 
 The autonomic nervous system—the system that operates below the level of consciousness and governs physiological responses such as blood pressure regulation—(see Figure 7) is another of those "approach-withdraw" mechanisms in biology in which paired systems work in closely regulated opposition. Here, the gear for forward is the sympathetic nervous system. The gear for reverse is the parasympathetic nervous system. In response to a stressor, the sympathetic nervous system revs the engine—the heart, lungs, and other organs—priming them for immediate action: the fight-or-flight response. After that activation has served its purpose, the parasympathetic nervous system serves to relax those internal organs and allow them to back off.
 
-## ![](_page_138_Figure_0.jpeg)
 
 In contemporary society, as we've noted, most of our stressors do not come and go in the kind of short, life-or-death confrontations that drove the evolution of "fight or flight." We can have the same overbearing boss, the same long commute, the same worries about health care and retirement, and the same feelings of social isolation, hour after hour, year after year. Moreover, we now experience these persistent stressors over a life span that, on average, extends well beyond what was the norm during all but the last few centuries of our species' existence. The environment is entirely different now than it was in our environment of evolutionary adaptation, but our autonomic reactions have not changed. Our bodies still respond physiologically to the chronic, low-grade stressors of modern life as if we were fighting tooth and claw, and with no regard for conserving resources for the golf or tennis we hope to play when we're seventy or the nice long walks we want to take when we're eighty. Such an extreme response substantially exceeds the metabolic requirements of dealing with the stressors we're up against. All the same, every jolt into an unnecessarily high gear requires a compensatory down-shift, and all of these changes, up and down, year after year (the allostatic load), add up, exacting a high price for what amounts to very little benefit.29
 

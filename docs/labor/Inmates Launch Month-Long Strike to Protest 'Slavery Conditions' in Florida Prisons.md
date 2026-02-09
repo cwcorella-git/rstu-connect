@@ -82,7 +82,6 @@ By |
 | See Also: |
 ## | Durham, NC: Solidarity with Operation PUSH |
 
-## ![](_page_4_Figure_0.jpeg)
 
 | , January 15, 2018 |
 |-------------------------------------------------------------|

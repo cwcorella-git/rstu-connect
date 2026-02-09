@@ -1287,7 +1287,6 @@ Many Indigenous women have argued that stopping violence against women must simu
 
 As Figure 9.1 shows, Aboriginal Law and Country are at the centre of responses, immediately followed by Indigenous practices that support and strengthen Law and Country. As one moves further away from the centre of the circle, non- Indigenous responses become more visible with, nally, non-Indigenous justice institutions like the police, courts, corrections, youth justice, and child protection agencies essentially outside the circle. Female and male Elders and respected persons need to be at the
 
-## ![](_page_191_Figure_1.jpeg)
 
 **Figure 9.1:** Placing law and country in the centre
 

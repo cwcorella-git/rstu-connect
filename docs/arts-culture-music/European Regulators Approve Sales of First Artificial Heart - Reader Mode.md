@@ -17,7 +17,6 @@ Shares in [Carmat SA](https://www.bloomberg.com/quote/ALCAR:FP) posted their big
 
 The stock climbed 34% to 32.05 euros at 11:29 a.m. in Paris after rising as much as 50%, its steepest intraday gain since May 2013. Carmat shares have advanced 66% this year, giving the company a market value of about 407 million euros (\$496 million).
 
-## ![](_page_1_Figure_2.jpeg)
 
 Carmat this week obtained a [CE mark](https://www.bloomberg.com/news/terminal/QLSEG3MEQTXD) for the device, meaning the company can now sell it in the European Union as a bridge to a heart transplant for patients suffering from irreversible end-stage heart failure.
 

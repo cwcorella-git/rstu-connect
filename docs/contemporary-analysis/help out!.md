@@ -91,7 +91,6 @@ admin. |
 | 9 years 4 months ago |
 ## | In reply to Welcomebylibcom.org |
 
-## ![](_page_5_Figure_0.jpeg)
 
 | In reply to Welcomebylibcom.org |
 |----------------------------------------------------------------------------------------------------------|

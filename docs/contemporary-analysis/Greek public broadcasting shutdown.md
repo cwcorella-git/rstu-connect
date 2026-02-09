@@ -28,9 +28,6 @@ ERTs significance is as Greece's only non-commercial TV and radio broadcaster wi
 
 The manner of the shutdown has angered many as such a major decision was taken without going through the standard democratic procedures. Since its election one year ago the ND government has tolerated no opposition. The attempted closure of Athens Indymedia earlier in the year, the forced ending of strikes and attacks against squats all point to a government determined to push through austerity measures against popular resistance.
 
-## ![](_page_1_Figure_2.jpeg)
-
-## ![](_page_2_Figure_0.jpeg)
 
 Since Greece's government abruptly pulled the plug on state broadcaster ERT, the sprawling TV complex has turned into a unique experiment in self-rule where staff are working for free but with more passion than ever.
 

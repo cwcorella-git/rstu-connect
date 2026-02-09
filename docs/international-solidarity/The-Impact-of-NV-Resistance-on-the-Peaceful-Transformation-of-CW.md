@@ -652,7 +652,6 @@ Figure 1 visualizes the average dierence; in the years where a civil war was ter
 
 There are also eight cases where a nonviolent campaign was active and changed the dynamics of ongoing civil war However, in these eight cases a negotiated settlement is signed more than a year after a civil war ended For instance, in Niger, the removal of the military regime occurred in 1992, which led to a peace process and eventual agreement with the Tuareg rebels in 1995 If we were to include these eight cases in the data, then the percentage of civil wars ending in a peace settlement increases to 51 4 percent 16
 
-## ![](_page_38_Figure_1.jpeg)
 
 FIGURE 1. Percentage of Civil Wars Ending in a Negotiated Settlement, with and without Nonviolent Resistance Campaign (NVC) in the Final Year of the War (1955–2013)
 
@@ -692,7 +691,6 @@ Protests may occur because of the peace process, both in the form of anti and pr
 
 20 See Model 2 from Figure 15 in the regression analysis—see Appendix II. Figures 16–17 show how predictive nonviolent campaigns are of peace settlements in comparison to third-party mediation.
 
-## ![](_page_41_Figure_0.jpeg)
 
 FIGURE 2. Nonviolent Campaign (NVC) and the Predicted Probability of a Negotiated Settlement, based on data from 1955 to 2013
 
@@ -704,7 +702,6 @@ Statistical analysis was also performed to explore the relationship between nonv
 
 21 It is conventional to report predictions alongside regression outputs when using a binary outcome (e.g., there was an agreement or there was not an agreement). This is because it is not possible to directly interpret estimates (the coecient) from logit regression models that are used to explore binary outcomes. While the coe cients from this model tell us whether the relationship is positive or negative, unlike the predictions, this does not tell us the magnitude of the eect.
 
-## ![](_page_42_Figure_0.jpeg)
 
 FIGURE 3. Nonviolent Campaign (NVC) and the Duration of Civil War (1955–2013)22
 
@@ -714,7 +711,6 @@ Another possibility is that nonviolent campaigns may aid the termination of civi
 
 22 See Appendix II, based on Model 4 from Figure 15.
 
-## ![](_page_43_Figure_0.jpeg)
 
 FIGURE 4. Nonviolent Campaigns (NVC) and Types of Civil War Termination (1955–2013)
 
@@ -728,7 +724,6 @@ Figure 5 shows that the predictions from the regression model reveal no notable 
 
 23 See Appendix II, based on the nal model from Figure 18.
 
-## ![](_page_44_Figure_0.jpeg)
 
 FIGURE 5. Predicted Probability of Civil War Recurrence, based on data from 1955 to 2013
 
@@ -768,7 +763,6 @@ Based on these regression analyses,25 Figure 6 visualizes the probability of pos
 
 25 See Appendix II, based on the rst model from Figure 19. The predictive analysis in Appendix II shows that the existence of mediation in the previous civil war and a greater number of democratic neighbors are greater predictors of post-conict democratization than the presence of nonviolent campaigns in the last civil war. However, these eects are independent of one another—i.e., the presence of mediation or more democratic neighbors does not undermine the impact of nonviolent campaigns on post-conict democracy.
 
-## ![](_page_47_Figure_0.jpeg)
 
 FIGURE 6. Nonviolent Campaigns (NVC) and the Predicted Probability of Democratization after a Civil War, based on data from 1955 to 2010
 
@@ -778,9 +772,6 @@ The right graph shows that democratization after a civil war is six times more l
 
 26 See full results in Appendix II, Figure 19.
 
-## ![](_page_48_Figure_0.jpeg)
-
-## ![](_page_48_Figure_1.jpeg)
 
 ## **Graph 7a Graph 7b**
 
@@ -841,7 +832,6 @@ Starting with the success and size (number of participants) of wartime nonviolen
 
 27 See Appendix II, based on the rst model from Figure 22.
 
-## ![](_page_51_Figure_0.jpeg)
 
 FIGURE 8. Success and Size of Nonviolent Campaigns (NVC) and Civil War Settlements, based on data from 1955 to 2013
 
@@ -857,7 +847,6 @@ Moving to social and organizational diversity of wartime nonviolent campaigns, F
 
 movement is particularly important; the likelihood of a negotiated agreement is twice as likely when movements are gender diverse, compared to campaigns that are not gender diverse.
 
-## ![](_page_52_Figure_1.jpeg)
 
 **FIGURE 9.** Social Diversity, Women's Participation, and Civil War Settlements, based on data from 1955 to 2013
 
@@ -881,9 +870,6 @@ nonviolent campaign seems to be a decentralized leadership structure, as it appe
 
 The predictions from the statistical analyses show that civil wars are 2 5 times more likely to end in a negotiated agreement when decentralized nonviolent campaigns are present, compared to hierarchical nonviolent campaigns
 
-## ![](_page_54_Figure_2.jpeg)
-
-## ![](_page_54_Figure_3.jpeg)
 
 ## **Graph 10a Graph 10b**
 
@@ -927,7 +913,6 @@ democratization after the civil war. |
 
 32 See Appendix II - based on models from gure 24
 
-## ![](_page_56_Figure_0.jpeg)
 
 FIGURE 11. Success and Size of Wartime Nonviolent Campaigns (NVC) and Post-Conflict Democratization, based on data from 1955 to 2010
 
@@ -939,7 +924,6 @@ Successful campaigns are nearly five times more likely to bring about democratiz
 
 33 See Appendix II, based on models from Figure 25.
 
-## ![](_page_57_Figure_0.jpeg)
 
 FIGURE 12. Social Diversity of Wartime Nonviolent Campaigns (NVC), Women's Participation, and Post-Conflict Democratization, based on data from 1955 to 2010
 
@@ -949,7 +933,6 @@ Figure 12 displays predictions from the regression results concerning social and
 
 As the social diversity of a nonviolent campaign increases, the likelihood of post-conflict democratization exponentially increases. Figure 12b shows that women's participation is an important factor in a campaign's social diversity. Wartime nonviolent campaigns with women's participation nearly doubles the predicted likelihood of post-conflict democratization, compared to campaigns without gender diversity.
 
-## ![](_page_58_Figure_0.jpeg)
 
 **FIGURE 13**. Organizational Diversity of Wartime Nonviolent Campaigns (NVC) and Post-Conflict Democratization, based on data from 1955 to 2010
 
@@ -957,9 +940,6 @@ Figure 13 shows that the organizational diversity of nonviolent campaigns also h
 
 Organizational diversity (i.e., shared and dispersed power), social diversity (i.e., coalition building), and women's participation (i.e., inclusion)—factors which are often key requirements for successfully mobilizing nonviolent campaigns in the first place (Abbs 2020)—all appear to have important and positive effects on the period after the end of civil war and the power sharing and power transfer thereafter.
 
-## ![](_page_59_Figure_0.jpeg)
-
-## ![](_page_59_Figure_1.jpeg)
 
 ## **Graph 14a Graph 14b**
 
@@ -1594,7 +1574,6 @@ In all analyses, if the coecient (represented by the dot) is right of the red li
 
 41 This takes the values from the previous year, for instance, to ensure nonviolent campaigns were active prior to the signing of an agreement.
 
-## ![](_page_94_Figure_0.jpeg)
 
 FIGURE 15. Logistic Regression and Cox Proportional Hazard Models: Nonviolent Resistance and Negotiated Agreements (1955–2013)
 
@@ -1604,7 +1583,6 @@ Models 3 and 4 use alternative Cox proportional hazards models which instead ass
 
 42 In these models, time-varying covariates are lagged by one year (t-1) and are appropriate for these models. Moreover, for ease of interpretation, the coecient estimates are reported rather than the hazard ratios.
 
-## ![](_page_95_Figure_0.jpeg)
 
 FIGURE 16. In-Sample Predictive Power: Nonviolent Campaigns (NVC) and Negotiated Settlements, based on data from 1955 to 2013
 
@@ -1614,7 +1592,6 @@ Figure 16 explores the in-sample predictive power of the model, comparing the pr
 
 As a more stringent test, the predictive power is then explored out-of-sample, using k(4) fold cross-validations (where three segments of the data are used to predict anal unseen segment of the data) Again, removing nonviolent campaigns and then mediation reduces the predictive power of the full model, with mediation being more predictive than nonviolent campaigns (see Figure 17) The predictive power of these models is a little lower in the outof-sample than in the in-sample, which is encouraging given the fact that out-of-sample predictions constitute a much tougher test The predictive analyses provide further evidence that nonviolent campaigns positively inuence the peaceful settlement of civil wars
 
-## ![](_page_96_Figure_0.jpeg)
 
 FIGURE 17. K-Fold Cross-Validation: Nonviolent Campaigns (NVC) and Negotiated Agreements, based on data from 1955 to 2013
 
@@ -1624,7 +1601,6 @@ Figures 13–16 provide strong statistical evidence for Proposition 1a, which ar
 
 In Chapter 5, the results showed no relationship between nonviolent campaigns present in the previous civil war and the subsequent recurrence of armed conict Figure 18 reports the fullndings: wartime nonviolent campaigns have no impact on the number of post-conict peace years (i e , durable peace—see Cox models) or the subsequent recurrence of civil war (see logit models) This provides little evidence for Proposition 1b This also diers from previousndings that nonviolent campaigns reduce the likelihood of future civil war (Chenoweth and Stephan 2011; Johnstad 2010), although such studies did not specically explore post-con ict years or countries with a recent history of civil war Likewise, no statistically signicant evidence is found that associates specic campaign attributes with a reduced likelihood of conict recurrence
 
-## ![](_page_97_Figure_0.jpeg)
 
 FIGURE 18. Cox Proportional Hazard and Logistic Regression Models: Nonviolent Campaigns (NVC) and the Recurrence of Civil War (1955–2013)
 

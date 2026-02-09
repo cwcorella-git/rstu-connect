@@ -44,7 +44,6 @@ Climate Direct Action: Activists Halt Flow of Tar Sands Oil by Shutting Off Valv
 
 Activists Shut Down Tar Sands Pipelines Crossing US-Canada Border
 
-## ![](_page_2_Figure_0.jpeg)
 
 | , October 11, 2016 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

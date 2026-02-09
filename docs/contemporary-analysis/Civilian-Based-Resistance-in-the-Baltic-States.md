@@ -752,9 +752,6 @@ In 1939, the governments of the three Baltic states sought to remain neutral in 
 
 4 The NKVD (*Narodnyi Komissariat Vnutrennikh Del*) was the law enforcement agency of the Communist party.
 
-## ![](_page_54_Figure_2.jpeg)
-
-## ![](_page_54_Figure_3.jpeg)
 
 Soviet mass deportations of Baltic residents to Siberia in the summer of 1941 fueled interest in resistance.5 During the first Soviet occupation and the subsequent German occupation, Baltic populations gained experience in both armed and unarmed resistance. Examples of unarmed resistance included disseminating leaflets calling for independence after the German abolition of national independence day celebrations, publishing the first underground paper in Latvia, carrying out information campaigns to promote independence, and providing the West with intelligence materials.6 Resistance during the German occupation also included helping Jewish and Roma populations hide and escape Nazi persecution.
 
@@ -1770,9 +1767,6 @@ As was the case under Soviet occupation, Baltic civilians living abroad could al
 
 45 Joint Baltic American National Committee, Inc., "House and Senate Baltic Caucuses Poised for Historic Expansion in 2019," April 23, 2019.
 
-## ![](_page_109_Figure_2.jpeg)
-
-## ![](_page_109_Figure_3.jpeg)
 
 SOURCES: Websites of the ministries of foreign affairs of Estonia, Latvia, and Lithuania. NOTE: Countries shaded blue have resident embassies.
 
@@ -1794,7 +1788,6 @@ Raising awareness of the region among allied populations and informing them abou
 
 **Figure 5.3 Support for Use of Military Force to Defend a NATO Ally in a Serious Military Conflict with Russia**
 
-## ![](_page_111_Figure_3.jpeg)
 
 NOTE: Researchers posed the following question to respondents: "If Russia got into a serious military conflict with one of its neighboring countries that is our NATO ally, do you think our country should or should not use military force to defend that country?" Because of the rounding methodology used by Pew, not all percentages total 100 percent.
 
@@ -1850,7 +1843,6 @@ As EU member states, Estonia, Latvia, and Lithuania are required by EU Council D
 
 **Figure 5.4 Examples of Vital Services in Estonia as Defined by the Emergency Act**
 
-## ![](_page_115_Figure_3.jpeg)
 
 SOURCE: Government of Estonia, Emergency Act, July 1, 2017a.
 
@@ -2939,6 +2931,5 @@ RAND researchers sought to better understand the nature and effectiveness of con
 
 ## \$30.00
 
-## ![](_page_173_Figure_4.jpeg)
 
 www.rand.org

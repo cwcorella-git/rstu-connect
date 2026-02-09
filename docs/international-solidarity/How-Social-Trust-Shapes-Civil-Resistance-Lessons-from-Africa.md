@@ -290,7 +290,6 @@ There is a second, alternative way in which social trust may increase potential 
 
 Figure 1 Proposed Explanations for How Trust Shapes Perceptions of Cost displays the two proposed mechanisms suggested thus far The perceived costs of participation (e g , mobilizing, opportunity costs, potentially experiencing repression) are denoted in the blue continuous line while the willingness to pay those costs are denoted in the red dotted line On the left, as trust increases (on the x-axis), the perceptions of the cost of participating in nonviolent protest diminish to the point of crossing the threshold of the willingness of an individual to pay those costs to participate On the right, as trust increases, the willingness to pay the costs of participation increases until it surpasses the perceived costs of participation in nonviolent protest
 
-## ![](_page_25_Figure_1.jpeg)
 
 FIGURE 1. Proposed Explanations for How Trust Shapes Perceptions of Cost
 
@@ -344,7 +343,6 @@ an individual has never and would never protest On the other side is the respons
 
 Figure 2 Willingness to Attend a Protest displays the proportion of responses to the question of protest participation The majority of Africans report that they have never taken part in a protest, with 56 73 percent indicating that they would never do so 28 95 percent of respondents indicate that they have not, but would do so if they had the chance The remaining 11 6 percent of Africans state that they have engaged in a protest at least once While this may seem low, it is important to remember that scholarship in civil resistance has indicated that successful civil resistance merely needs 3 5 percent of a population to become regularly engaged in a civil resistance campaign (Chenoweth 2013)
 
-## ![](_page_30_Figure_2.jpeg)
 
 ## FIGURE 2. Willingness to Attend a Protest
 
@@ -366,7 +364,6 @@ The bottom horizontal axis of each plot tracks levels of trust On the left of ea
 
 The top-right plot provides initial support for the expected outcome that higher trust in one's co-nationals corresponds with greater levels of potential mobilization What is evident is that individuals with higher levels of generalized trust in their fellow citizens are increasingly likely to respond that they would at least be willing to join a nonviolent protest and (in many cases) that they already have In the bottom-left plot, trust in one's neighbors seems to be inversely related to the willingness to engage in protest This runs counter to expectations
 
-## ![](_page_33_Figure_1.jpeg)
 
 FIGURE 3. Dierent Measurements of Social Trust and Reported Potential Mobilization and adds complexity to the overall argument This demonstrates the importance of approaching and analyzing trust with nuance Why might trust in neighbors correspond with less willingness to potentially mobilize? An in-depth analysis is beyond the scope of this study; however, one potential explanation may be due to the demographic composition of neighborhoods If neighborhoods are composed of ethnically or religiously homogenous groups of people, then a question about trust in one's neighbors may actually be a question about trust in one's ethnic or religious group Finally, the bottom-right plot shows that as trust in one's acquaintances increases, so does the reported willingness to engage in protests
 
@@ -446,7 +443,6 @@ Figure 4 Potential and Actual Mobilization suggests an unexpected relationship W
 
 35 Calculated using standard deviations. The distribution of potential mobilization is not distributed perfectly normally and is slightly bimodal.
 
-## ![](_page_40_Figure_0.jpeg)
 
 ## FIGURE 4. Potential and Actual Mobilization stability, internal security, and levels of democracy In many cases, respondents may be concerned that indicating that they would consider mobilizing could result in their being targeted by the government for repression Additional research on the relationship between these factors and social trust is merited
 
@@ -491,7 +487,6 @@ Table 3. Expected Relationships Between Trust and Justification of Violent Actio
 
 The study now returns to the Afrobarometer data to test the relationship between social trust and preferences for nonviolent action Much like the initial tests in the previous chapter, the data are collected at the individual level, meaning that there are thousands of individual responses collected and analyzed Of course, measuring support for violent actions is both dicult and sensitive, particularly on a continent where violence has often played a central role in politics Asking individual respondents about their views on whether violent behavior is justied, then, is likely to produce highly biased statistics in which respondents overwhelmingly state that they are rmly against violence After all, respondents are speaking to a stranger (the surveyor) who is asking them politically sensitive questions In the Afrobarometer data, respondents were asked whether they agreed or strongly agreed with Statement A, "The use of violence is never justied," or Statement B, "It is sometimes necessary to use violence in support of a just cause "36 The responses are visualized in Figure 5 Justication of Violent Action and conrm that the majority of respondents do indeed state that they agree strongly or agree that violence is never justied In total, nearly 90 percent of all respondents agree or strongly agree that nonviolent action is always preferable to violent action and that violent action cannot be justied
 
-## ![](_page_45_Figure_2.jpeg)
 
 ## FIGURE 5. Justication of Violent Action
 
@@ -528,7 +523,6 @@ In addition to the mainndings, several additional results emerge:
 
 1 **Women are less likely to believe violent action is justied.** In three of theve models, female respondents are signicantly less likely than their male counterparts to tolerate the use of violent tactics in pursuit of political goals This suggests that civil resistance organizers should work to increase the number of women in their organizations and to include women's movements in the broader campaigns in order to maximize nonviolent discipline In South Africa, for example, the Federation of South African Women and the Black Sash were highly organized women's movements that opposed apartheid using nonviolent tactics in the 1950s and 1960s (New York
 
-## ![](_page_48_Figure_0.jpeg)
 
 FIGURE 6. Social Trust and Justications of Violent Action
 
@@ -572,7 +566,6 @@ Thenal level of analysis further disaggregates the data by recording the average
 
 Protest events are considered nonviolent if they can reasonably be described as a peaceful protest, even if the protest was repressed by state forces As long as the activists acted principally in accordance with nonviolent tactics, the incident is considered to have been peaceful On the other hand, events are considered violent if they were described as either (a) mob violence or (b) a violent demonstration This initial visualization of nonviolent and violent conict at the country level provides evidence that there are important state-level factors that shape nonviolent discipline within dierent countries In order to incorporate these country-level eects, this study uses the approach of examining variation within countries Thus, the relationship between trust and nonviolent action within subnational regions are analyzed This approach has two distinct advantages First, it allows for the analysis of a specic subnational region (dened as the rst administrative district within a country) over time Thus, it is possible to test whether rising levels of social trust in Limpopo Province in South Africa lead to lower levels of violent anti-government action This approach minimizes concerns about comparing trust and nonviolent action across dierent geographic regions, which may dier greatly from one another Second, this allows for the comparison of dierent regions within the same country, which can reveal important information about how social trust may operate in some regions and not others Within countries, there is often substantial
 
-## ![](_page_52_Figure_1.jpeg)
 
 FIGURE 7. Proportion of Antigovernment Contention That Is Violent and Nonviolent variation across regions in factors that may shape whether protests remain nonviolent or escalate into violent action, such as the presence and availability of police forces capable of repressing dissent, infrastructure such as roads that allow for coordinated tactical movement, and population density that may shape how many mobilize to protest displays the proportion of contentious events in each country that were violent Only contentious events that occurred during the years of Afrobarometer data collection (reected in Table 5 Afrobarometer Rounds and Years) are included In the left of thegure, countries like Angola, Rwanda, and Namibia experience very low levels of anti-government violent resistance incidents In Angola, only 10 6 percent of all incidents are violent On the right of thegure are those countries that experience a large proportion of violent events, including Sierra Leone, Malawi, and Mozambique In Mozambique, 61 76 percent of all events are violent
 
@@ -598,7 +591,6 @@ In each model, the study also includes important factors that might shape whethe
 
 The analysis provides mixed results 43 In each of the tests, higher social trust corresponds with higher proportions of contention that are nonviolent In therst model, while higher social trust does seem to correspond to higher levels of nonviolent action, the relationship is not statistically signicant In the second model, the relationship remains consistent—that is, higher social trust leads to more nonviolent action In the third and fourth models, the dierent measurements of social trust do not signicantly relate to more nonviolent action This suggests that the predicted relationship is weak and highly contingent upon the inclusion of other factors in the analysis At the same time, the consistency of the relationship between
 
-## ![](_page_55_Figure_3.jpeg)
 
 FIGURE 8. Generalized Trust and Predicted Antigovernment Nonviolent and Violent Actions Note: Y-axis is limited to a window of 80 to 100 percent.
 
@@ -608,7 +600,6 @@ high levels of social trust and nonviolent action indicates that while the direc
 
 Drawingfromthesecondmodel,Figure8 Generalized Trustand Predicted Antigovernment Nonviolent and Violent Actions presents the predicted eect of low or high trust on the proportion of conict that is violent The average level of social trust in an African region is 0 19, which indicates that 19 percent of respondents stated that "most people can be trusted "
 
-## ![](_page_56_Figure_2.jpeg)
 
 FIGURE 9. Trust in Diverse Groups and Predicted Nonviolent Contention
 

@@ -164,15 +164,9 @@ in three Central African hunter-gatherer societies," |
 | , and |
 ## | The Word for World is Forest |
 
-## ![](_page_14_Figure_0.jpeg)
-
-## ![](_page_15_Figure_0.jpeg)
-
-## ![](_page_16_Figure_0.jpeg)
 
 Direct Action: An Ethnography. Oakland: AK Press. David Graeber, 2013, The Democracy Project: A History, a Crisis, a Movement . New York: Spiegel & Grau. David Graeber, 2018, Bullshit Jobs: A Theory . New York: Simon & Schuster. Jonathan Haas and Matthew Piscitelli, 2013, "The Prehistory Warfare: Misled by Ethnography". In Douglas Fry (ed.), War, Peace, and Human Nature: The Convergence of Evolutionary and Cultural Views. New York: Oxford University Press. Sarah Blaffer Hrdy, 2009, Mothers and Others: The Evolutionary Origins of Mutual Understanding . Cambridge: Belknap Press.
 
-## ![](_page_18_Figure_0.jpeg)
 
 Female Power and Male Dominance: On the Origins of Sexual Inequality . Cambridge: Cambridge University Press. James Scott, 2017, Against the Grain: A Deep History of the Earliest States. New Haven: Yale University Press. Doron Shultziner, Thomas Stevens, Martin Stevens, Brian A. Stewart, Rebecca J. Hannagan, and Giulia Saltini-Semerari, 2010, "The Causes and Scope of Political Egalitarianism during the Last Glacial: A Multi-Disciplinary Perspective." Biology & Philosophy 25, no. 3, 319–46. https://doi.org/10.1007/s10539-010-9196-4. Mary Stiner and Steven Kuhn, 2009, "Paleolithic Diet and the Division of Labor in
 

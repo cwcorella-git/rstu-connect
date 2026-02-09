@@ -79,7 +79,6 @@ The world's governments may have agreed collectively to phase out fossil fuels, 
 
 ## On current emissions trends
 
-## ![](_page_4_Figure_0.jpeg)
 
 Why are governments not acting fast enough to slow climate change
 

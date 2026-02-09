@@ -866,4 +866,3 @@ International Center on Nonviolent Conflict 600 New Hampshire Ave NW, Suite 710 
 
 www.nonviolent-conflict.org
 
-## ![](_page_51_Figure_6.jpeg)

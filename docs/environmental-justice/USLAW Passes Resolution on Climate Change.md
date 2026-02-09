@@ -48,7 +48,6 @@ Whereas, the inevitable consequences of major disruptions to global ecosystems w
 
 ## Whereas
 
-## ![](_page_2_Figure_0.jpeg)
 
 | Be it further resolved that ULSAW will encourage unions at all levels to support legislation for |
 |--------------------------------------------------------------------------------------------------|

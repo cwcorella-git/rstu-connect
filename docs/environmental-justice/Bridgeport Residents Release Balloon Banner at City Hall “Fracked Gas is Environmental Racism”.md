@@ -30,7 +30,6 @@ and low-income neighborhoods. That's what is happening in Bridgeport. PSEG is ma
 
 "Environmental racism is when an unfair share of pollution is placed on communities of color
 
-## ![](_page_2_Figure_0.jpeg)
 
 stop on the Underground Railroad.
 

@@ -158,7 +158,6 @@ surplus value (they're still workers to Marx, just like commercial workers are).
 
 consumed and not valorized to create a surplus. I'm guessing for-profit private education, or
 
-## ![](_page_12_Figure_0.jpeg)
 
 those trusts then get a certain amount of funding from the state for each school. Trusts are
 

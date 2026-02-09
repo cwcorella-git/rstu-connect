@@ -19,13 +19,6 @@ To co-operate with us, look up the IWW in your locality or write to: IWW, 103 We
 Together we can do things we can't do alone.
 
 
-## ![](_page_0_Figure_7.jpeg)
-
-## ![](_page_0_Figure_8.jpeg)
-
-## ![](_page_0_Figure_9.jpeg)
-
-
 # What Is A Boss?
 
 When the body was first created, there was contention among the component parts as to who was going to be the boss.
@@ -119,7 +112,6 @@ the unnamed and unsung workers who struggle for a world united in peace and free
 
 # There Is Power In A Union
 
-## ![](_page_3_Figure_20.jpeg)
 
 There's power in a fac'try, power in the land, Power in the hands of the worker; But it all amounts to nothin' if together we don't stand: There is power in a union.
 
@@ -143,7 +135,6 @@ The union forever, defending our rights. Down with the blackleg, all workers uni
 
 Words by Joe Hill, U. S. A. Tune: There h Power In The Blood. First appearance, 191 J edition.
 
-## ![](_page_4_Figure_2.jpeg)
 
 Would you have freedom from wage slavery, Then join in the grand Industrial band; Would you from mis'ry and hunger be free. Then come, do your share, lend a hand.
 
@@ -631,7 +622,6 @@ Songs in this songbook were written by and for the working class. Some of these 
 
 Wordi by Harry "Haywire Mac" Mc Clintock, USA. Tune: Revive Us Again-First primed by the Spokane GMB in 1909.
 
-## ![](_page_5_Figure_7.jpeg)
 
 Why don't you work like other folks do? How the hell can I work when there's no work to do?
 
@@ -665,7 +655,6 @@ But don't you complain, don't open your eyes. Don't talk revolution, and don't o
 
 Words by British Transport Workers Union. First appearance, 8th edition. 1914.
 
-## ![](_page_6_Figure_2.jpeg)
 
 We meet today in freedom's cause and raise our voices high; We'll join our hands in union strong to battle or to die.
 
@@ -686,7 +675,6 @@ Aboul 1870 "Hold (he Fort" was written by Bliss as a U S gospel sung, based on a
 
 Words by Ralph Chaplin, U. S. A. Tune: John Brown 's Body.
 
-## ![](_page_6_Figure_13.jpeg)
 
 When the Union's inspiration through the worker's blood shall run. There can be no power greater anywhere beneath the sun; Yet what force on earth is weaker than the feeble strength of one? But the Union makes us strong.
 
@@ -724,13 +712,11 @@ Vamonos Companeros por los derechos a pelear, Con el Corazon en alto y con Fe en
 
 Words by Eugene Pott Ur, France. Music by Pierre De Geyler, Belgium.
 
-## ![](_page_7_Figure_8.jpeg)
 
 # Banks of Marble
 
 Words A music Lei Rice. Traditional, V. S. A.
 
-## ![](_page_7_Figure_11.jpeg)
 
 I've traveled round this country, from shore to shining shore. And it really made me wonder, all the things I heard and saw. I saw the poor dirt farmer plowing sod and loam I heard the auction hammer aknocking down his home.
 
@@ -821,15 +807,11 @@ By the start of the 20th century, the Intemauonalc was sung by socialists, anarc
 
 English paraphrase by Jun Oosting and Carlos Cortez, First appearance, 36th edition.
 
-## ![](_page_9_Figure_2.jpeg)
-
-## ![](_page_9_Figure_3.jpeg)
 
 # Go to Work on Monday
 
 Words and music by Si Kakn. First appearance, 36th edition.
 
-## ![](_page_9_Figure_6.jpeg)
 
 I did my part in World War Two, Got wounded for the nation. Now my lungs are all shot down, There ain't no compensation.
 
@@ -853,7 +835,6 @@ Sitting on my front porch swing I'm like someone forgotten, Head all filled with
 
 Tunc. Polly Wo Uy Doodle. Firtt appearance, 36th edition.
 
-## ![](_page_10_Figure_2.jpeg)
 
 To win our strike and all our demands, Come picket on the picket line. In one strong fight we'll join our hands, Come picket on the picket line.
 
@@ -899,7 +880,6 @@ Anthem of the anarcho-syndicalist Spanish union, the Confederacidn National del 
 
 English paraphrase by Jan Oosting and Carlos Cortez. First appearance, 36th edition.
 
-## ![](_page_11_Figure_2.jpeg)
 
 Negras tormentas agitan los aires,
 
@@ -941,7 +921,6 @@ It was during this conflict that the IWW and CNT recognized each other's members
 
 #### Nine to Five Song Tune: The M. T. A., U. S. A. First Appearance, 35th edition.
 
-## ![](_page_11_Figure_23.jpeg)
 
 Let me tell you the story of a woman named Susie Who applied for a job one day. They tested her for typing, for shorthand and speed writing, And they gave her the lowest pay.
 
@@ -973,7 +952,6 @@ For a better life from nine to five.
 
 Words by Sydney Carter, England. Fint appearance, 36th edition.
 
-## ![](_page_12_Figure_2.jpeg)
 
 1 kept my money in an old tin chest. Till Isaw a poster and itsaid invest. if you want a bank that will never go bust Then put your money inthe Blue Chip Trust. We welcome the small investor. Ev'ry one a capitalist.
 
@@ -991,7 +969,6 @@ To pay myself my four per cent. It seems I've got to raise my rent, I can't affo
 
 H'orrfj and musk by Vio Utta Parra, Chile. English translation by Barbara Dane, First appearance, 36lh edition.
 
-## ![](_page_12_Figure_12.jpeg)
 
 Porque los pobrcs no tienen a donde volver la vista La vuelven haeia los cielos con la esperanza infmita Dc cncontrar lo que a su nermann en este mundo le quitan Palormta, qui cosas tiene la vida y zambita'
 
@@ -1023,7 +1000,6 @@ The bourgeoisie took over the countyside Exploiting the subsoil lodes, While the
 
 Words: Traditional and anon. U. S. A Tune: 4 Shall Not Be Moved. First appearance, 36th edition.
 
-## ![](_page_13_Figure_5.jpeg)
 
 We'll build our one big union, we shall not be moved. (repeat)
 Just like a tree that's planted by the water,
@@ -1045,7 +1021,6 @@ For a world without classes, we shall not be moved. (2x's)
 
 # Larimer Street Words and music by U. Utah Phillips. First appearance, 34th edition.
 
-## ![](_page_13_Figure_15.jpeg)
 
 Your bulldozers rolling through my part of town,
 The iron ball swings and knocks it all down.
@@ -1076,7 +1051,6 @@ Now I'm finding out there's just one kind of war; It's one going on 'tween the r
 
 Words by Joe MIL V. SJk. Tune: It Looks To Me Like A Big Time Tonight. First appearance, 1913 Edition.
 
-## ![](_page_14_Figure_2.jpeg)
 
 Please give me your attention, and I'll introduce to you, A man that is a credit to "Our Red, White and Blue"; His head is made of lumber and solid as a rock; He is a common worker and his name is Mister Block. And Block, he thinks he may be President some day. Chorus
 
@@ -1122,7 +1096,6 @@ Fuertes, fuertes, fuertes somos Como un arbol firme junto al rio Fuertes somos y
 
 Words by Goddatd Graves, USA. Tvru: Children, Go Where I Send Thee. First appearance, 36th edition.
 
-## ![](_page_14_Figure_25.jpeg)
 
 Go, I shall send thee. How shall I send thee? I'm going to send thee one by one; One for the One Big Union, Greatest thing on earth!
 
@@ -1148,7 +1121,6 @@ The three stars are educaiion.cmancipation.organiiation. The six departments whi
 
 Words and music by Eddie Holewa, U. S. A. First appearance, 36th edition.
 
-## ![](_page_15_Figure_2.jpeg)
 
 Once in a dream of the old west, A gunman was saddled with the draw; He stole all my wages in his passing, But the sheriff said he'd taken 'em Within the frame of law.
 
@@ -1166,7 +1138,6 @@ I feel like robbing a freight train; You can call me Mr. Jesse James. One more o
 
 Words and music by Phil Ochs, U. S. A. First appearance, 36th edition.
 
-## ![](_page_15_Figure_9.jpeg)
 
 Come you ranks of labor, come you union core, And see if you remember the struggles of before, When you were standing helpless on the outside of the door, And you started building links on the chain, on the chain, And you started building links on the chain.
 
@@ -1186,7 +1157,6 @@ In 1954 the Supreme Court case "Brown vs. Board of Education" outlawed school se
 
 First appearance, 36th edition.
 
-## ![](_page_16_Figure_2.jpeg)
 
 We steal a million from the poor To reinvest that million till it Steals another million from the poor to reinvest that million Till it steals another million from the poor to
 
@@ -1228,7 +1198,6 @@ All they ever do it for is the money; They could make a victim out of you. When 
 
 Words and music by Tom Juravich, U. S. A. First appearance, 36th edition.
 
-## ![](_page_16_Figure_23.jpeg)
 
 We're giving nothing back, giving nothing back. I've heard those lines a thousand times. About how things are getting slack; But we're hanging tough this time, And we're standing out on the line. For something close to the end of time,
 
@@ -1251,7 +1220,6 @@ They'll have you lighting for crumbs.
 
 Words and music by Peter Hicks and Geoff Francis, Australia. First appearance, 36th edition.
 
-## ![](_page_17_Figure_2.jpeg)
 
 Me and Sandy, we got up each day
 And we stood by the factory gates,
@@ -1277,11 +1245,6 @@ One more day than them!
 
 Tune: Old Gray Mare. First appearance, 36th edition.
 
-## ![](_page_17_Figure_8.jpeg)
-
-## ![](_page_17_Figure_9.jpeg)
-
-## ![](_page_17_Figure_10.jpeg)
 
 Old Ma Bell, she ain't what she used to be,
 
@@ -1321,7 +1284,6 @@ Last Chorus Solidarity forever, Solidarity forever, Solidarity forever, Again we
 
 Words by Lenny Flank, I'. S. A. Tune: Jesus Ijtvts the Utile Children. First appearance, 36th edition.
 
-## ![](_page_18_Figure_2.jpeg)
 
 Stand united, all you workers, all you workers of the world. Men and women, black and white, side by side we'll stand and fight; One big Union of the workers of the world.
 
@@ -1365,9 +1327,6 @@ The words of this song were inspired by the 1 984/85 British miners strike. Ihe 
 
 Words by Hugo Dewar, England. Music by Bill Bumpus, U. S. A. First appearance, 36th edition.
 
-## ![](_page_19_Figure_2.jpeg)
-
-## ![](_page_19_Figure_3.jpeg)
 
 ## Verse 1
 
@@ -1391,8 +1350,6 @@ Author unknown.
 
 First appearance, 3rd Australian Edition of IWW Songbook (c.1920).
 
-## ![](_page_19_Figure_16.jpeg)
-
 
 Rock-a-bye baby, on the tree top, When you grow up, you'll work in a shop; When you are married, your spouse will work too, So that the rich will have nothing to do.
 
@@ -1404,9 +1361,6 @@ Words and music by Larry Penn, U. S. A. First appearance, 36th edition.
 
 ## A7
 
-## ![](_page_19_Figure_22.jpeg)
-
-## ![](_page_19_Figure_23.jpeg)
 
 mon-ey's rol-lin' in,
 
@@ -1433,7 +1387,6 @@ It will just be so long, partner, in the end.
 
 Tune: Jacob's Ladder. First appearance, 36th edition.
 
-## ![](_page_20_Figure_2.jpeg)
 
 We are building a strong union, We are building a strong union, We are building a strong union. Workers in the mill!
 
@@ -1475,7 +1428,6 @@ When the fascists under Franco attacked the Spanish government in 1936, workers 
 
 Words by Richard Brazier, U. S. A. Tune: Old Black Joe. arance, 16th edition, restored 36th.
 
-## ![](_page_20_Figure_23.jpeg)
 
 Gone are the days when the master class could say, "We'll work you long hours for little pay; We'll work you all day and half the night as well." But I hear the workers' voices saying, "You will, like hell!"
 
@@ -1485,11 +1437,9 @@ Now working folk, it's up to you to say If you want a general four hour day, As 
 
 Now working folk, we are working far too long; That's why we've got this vast unemployed throng. Give every worker a chance to work each day; Let's join together and to the boss all say:
 
-## ![](_page_21_Figure_0.jpeg)
 
 Words and music by Kevin Baker, Australia. First appearance, 36th edition.
 
-## ![](_page_21_Figure_2.jpeg)
 
 In the spring of the year of 1982,
 
@@ -1501,11 +1451,6 @@ Chorus "Well we won't cop that!" said the ones inside the mine. " You can't cut 
 
 Tune: The Worms Crawl In. First appearance, 36th edition.
 
-## ![](_page_21_Figure_9.jpeg)
-
-## ![](_page_21_Figure_10.jpeg)
-
-## ![](_page_21_Figure_11.jpeg)
 
 The scabs crawl in and the scabs crawl out. They crawl in under and all about. They crawl in early, they crawl in late. They crawl in under the factory gate.
 
@@ -1515,7 +1460,6 @@ The words came out of the 1946 Western Union strike in New York. U. S. A.
 
 Words: Woody Guthrie, U. S. A. 2nd verse Ray Etbourn, Australia. Music: "Lonesome Valley." First appearance, 36th edition.
 
-## ![](_page_21_Figure_16.jpeg)
 
 You gotta go down and join the union. You gotta go join it by yourself, Nobody here can join itfor you, You gotta go down and join the union by yourself.
 
@@ -1529,7 +1473,6 @@ And when the road gets rough and rocky. And the hills get steep and high; We can
 
 Words by James Oppenkeim. U. S. A. Music by Caroline Kohtsaat. First appearance, ?5(h FJiiitm
 
-## ![](_page_22_Figure_2.jpeg)
 
 As we come marching, marching, in the beauty of the day, A million darkened kitchens, a thousand mill lofts gray, Are touched with all the radiance that a sudden sun discloses. For the people hear us singing, "Bread and roses! Bread and roses!
 
@@ -1556,7 +1499,6 @@ BHP. Broken Hill Mining Piny Lid. Take the sack be fired Fraser was the liberal 
 
 # Lawrence, Massachusetts Mill Strike. Labor's Endless Chain
 
-## ![](_page_22_Figure_16.jpeg)
 
 We go to work to get the cash to buy the food to get the strength To go to work to get the cash to buy the food to get the strength to .
 
@@ -1564,7 +1506,6 @@ We go to work to get the cash to buy the food to get the strength To go to work 
 
 Words and music by Peter Hicks and Geoff Francis, Australia. First appearance, 36th edition.
 
-## ![](_page_23_Figure_2.jpeg)
 
 Our union's story is there to be seen. We've won many victories, we've suffered defeats.
 
@@ -1592,7 +1533,6 @@ Take a look at those countries where workers aren't free -If it weren't for the 
 
 Words by Ray Glaser, U. S. A. Music by Bill Wolff. First appearance, 35th edition.
 
-## ![](_page_23_Figure_14.jpeg)
 
 Oh, if you want a raise in pay, all you have to do, Go and ask the bosses for it, and they will give it to you. Yes, they will give it to you my friend, they will give it to you, A raise in pay without delay, oh, they will give it to you.
 
@@ -1607,11 +1547,8 @@ It's fun to work on holidays, or when the day is done; Why should they pay us ov
 The folks who own the industries, they own no bonds and stocks, They own no yachts and limousines, or gems the size of rocks. They own no big estates with pools, or silken B. V. D.'s, Because they pay the working folk such fancy salaries. Ohhh
 
 
-## ![](_page_24_Figure_0.jpeg)
-
 Words by Paul Mc Kenna, U. S. A. Tune: "A Miner's Life." First appearance, 36th edition.
 
-## ![](_page_24_Figure_2.jpeg)
 
 Times are tough for public workers, ev'ry day it's something new; Layoff threats and hiring freezes, freezes in our wages too. Paychecks pounded by inflation, budgets cut down to the bone; We have got to stand together, it's no time to stand alone!
 
@@ -1651,7 +1588,6 @@ Song written for the "Songs of Working Life" project.
 
 Words and music by Clem Parkinson, Australia. First appearance, 36th edition.
 
-## ![](_page_24_Figure_17.jpeg)
 
 Well, the times were getting hard and the boss was getting tough; And no matter how we slaved, still he said, "It's not enough!" Ev'ry week the axe would fall, blokes were sacked on every hand, Till there came a fateful day when the workers made a stand.
 
@@ -1676,13 +1612,11 @@ tomok; had
 
 Words and music by tcemakers ofthe Revolution, U. S. A. First appearance, 36th edition.
 
-## ![](_page_25_Figure_2.jpeg)
 
 # Christians At War
 
 Words by John F. Kendrick, U. S. A. Tune: Onward Christian Soldiers. First appearance, 9th edition, 1913.
 
-## ![](_page_25_Figure_5.jpeg)
 
 Onward, Christian soldiers! Duty's way isplain; Slay your Christian neighbors, or by them be slain. Pulpiteers are spouting effervescent swill, God above is calling you to rob and rape and kill. All your acts are sanctified by the Lamb on high; If you love the Holy Ghost, go murder, pray and die.
 
@@ -1695,7 +1629,6 @@ Let the gentle Jesus bless your dynamite. Splinter skulls with shrapnel, fertili
 
 Tune: Hokey Pokey. First appearance, 36th edition.
 
-## ![](_page_26_Figure_2.jpeg)
 
 They keep the raises out, they put some cutbacks in, The offer that they're making is a crying sin, But we'll do the Picket Boogie and we'll turn it all around, And that's what it's all about!
 
@@ -1709,8 +1642,6 @@ They rake the profits in until their pockets bulge out, Then they say our kids a
 
 This song came out of the 18-month strike against Hormel Meat Products in Austin, Minnesota, U. S. A., starting in August 1985. The strike was broken when the workers' union, the United Food and Commercial Workers, threw the striking P-9 Local into receivership. The song was collected from Judy Mc Callen.
 
-
-## ![](_page_26_Figure_10.jpeg)
 
 Now ev'ry morning when the sun came around, The man in the white hat saunters down. He puts the workers in a truck And ships 'em for another day's labor in the fields. Now fourteen hours in the scorchin' hot sun, Ya know it ain't healthy, ya know it ain't fun. You get hurt on the job and you're laid off; The ones at the top say it's your own fault. So we say . . .
 
@@ -1745,7 +1676,6 @@ Ella Baker was the advisor of and mentor to the Student Nonviolent Coordinating 
 
 Words and music by Faith Nolan, Canada. Canadian IWW Songbook, first edition. First Appearance, 36th Edition.
 
-## ![](_page_27_Figure_5.jpeg)
 
 I worked in a box factory from six a.m. 'till three. Only nineteen and in tip top form
 
@@ -1787,7 +1717,6 @@ And the only tune I hear is the sound of the wind, As it blows through the town 
 
 Words and music by John Handcox and Lee Hayes, U. S. A. First appearance, 36th edition.
 
-## ![](_page_27_Figure_25.jpeg)
 
 If the bosses are in the way, we're gonna roll right over them. We're gonna roll right over them, we're gonna roll right over them. If the bosses are in the way, we're gonna roll right over them We're gonna roll the union on.
 
@@ -1807,7 +1736,6 @@ This song came out of the Southern Tenant Farmers' Union, founded in 1934 to org
 
 Words and music: Traditional British. First appearance, J6th edition.
 
-## ![](_page_28_Figure_2.jpeg)
 
 It's in the evening after dark. When ablackleg minci creeps te work. With his moleskin punts and doriy shirt, There goes the blackleg miner!
 
@@ -1823,13 +1751,11 @@ So join the union while ye may. Don't wan nil yei dyin' day, 'Cause that may not
 
 Written in IK40\ .i^ j naming to potential vjbsuhnm.'re being imported into the imnhi'M >>! lingtand from js ur away , i>Cornwall and Ireland. The wi>rik arc in Ihe (ieordic i Ncweasile area) accent; 'Divvent gan' means di Hi't p»» hoy" means throw, 'dorty' is dim. Blackleg refers to a scab Roih htocileg iit.l «w4> urigif Ulil) referred to o>» iliseasev
 
-## ![](_page_28_Figure_10.jpeg)
 
 # Ella's Song
 
 Words by Elh Baker Music by Berniee J. Reagan. First appearance, 16th edition.
 
-## ![](_page_28_Figure_13.jpeg)
 
 #### Intro
 
@@ -1889,7 +1815,6 @@ Struggling myself don't mean awhole lot,
 
 Words and music by Charlie King, U. S. A. First appearance, 36th edition.
 
-## ![](_page_29_Figure_2.jpeg)
 
 This car was assembled in part right here on American soil, So spending your tin on some cheap foreign import Makes General Motors' oil boil.
 Components are carefully gathered From factories foreign and far,
@@ -1911,7 +1836,6 @@ Ain't that the American way?
 
 Tune: This Little Light of Mine. First appearance, 36th edition.
 
-## ![](_page_29_Figure_8.jpeg)
 
 We struck for decent pay, And we're gonna have our say, (repeat 2x's) Have our say, have our say, have our say.
 
@@ -1938,7 +1862,6 @@ There will always be them who sell snake oil With blather and bluster and brag. 
 
 Words by John BriO, U. S. A. Tune: Take It To The Lord In Prayer. First appearance, 9th edition, 1916.
 
-## ![](_page_30_Figure_16.jpeg)
 
 Are you cold, forlorn and hungry? Are there lots of things you lack? Is your life made up of rnis'ry? Then dump the bosses off your back! Are your clothes all torn and tattered? Are you living in a shack? Would you have your troubles scattered? Then dump the bosses off your back!
 
@@ -1946,7 +1869,6 @@ Are you almost split asunder'.' Loaded like a long-eared jack? Boob-why don't yo
 
 # Scabs Words and music by Anne Feeney, U. S. A. First appearance, 36th edition.
 
-## ![](_page_31_Figure_1.jpeg)
 
 There's an alien life form been creepin' round my job site, Looks almost human, but something about them ain't right. They can cross right over a picket line. Pay no attention to a picket sign. They're called . . .
 
@@ -1954,7 +1876,6 @@ Chorus Scabs. (Scabs). Scabs. (Scabs). The lowest form of life ever spawned in n
 
 #### The Boss's Darling Words by Jean Hart, England. First appearance, 36th edition.
 
-## ![](_page_31_Figure_5.jpeg)
 
 O come along girls, to the factory, the production line is turning If you work all day for the minimum pay, God knows what you'll be earning.
 
@@ -1981,7 +1902,6 @@ Written for the Women's Theater group for a play for school leavers "Work to Rol
 
 Words and music by Eddie Holtwa, U. SA. First appearance, 36th edition.
 
-## ![](_page_32_Figure_2.jpeg)
 
 I'll take all the ups and downs this old world can give, All the ins and all the outs as long as I might live. I am iron of the earth, tempered in the flame, The grinding wheel of history, freedom knows my name.
 
@@ -2009,7 +1929,6 @@ Stop Scabs!
 
 #### We Shall Not Give Up The Fight South African Freedom Song. Fins appearance, 36th edition.
 
-## ![](_page_32_Figure_16.jpeg)
 
 We shall not give up the fight, we have only started. We have only started, we have only started, (repeat)
 
@@ -2023,13 +1942,11 @@ Repeatfirst verse.
 
 Wordi and music by Danyl Cherney, U. SA. First appearance, 36th edition.
 
-## ![](_page_33_Figure_2.jpeg)
 
 A Mother Jones at the Georgia Pacific mill. She fought for the saw mill workers Hit by that P. CB. spill. T. Marshall Harm's calling G. P.'s shots from Atlanta, Don Nelson sold him the union long ago. Now they weren't gonna have no Wobbly Running their logging show. So they spew'd out their hatred, And they laid out their scam. Jerry Philbrick called for violence, Was no secret what they planned.
 
 ### Where Are We Gonna Work When the TVees Are Gone Worth and musk by Danyl Cktntey, U. S. A.
 
-## ![](_page_33_Figure_5.jpeg)
 
 I come from a long, long line of tree fallin' men.
 
@@ -2071,7 +1988,6 @@ Before all the trees are gone!
 
 April 18, 1908.
 
-## ![](_page_34_Figure_2.jpeg)
 
 We have fed you all for a thousand years, And you hail us still unfed, Though there's never a dollar of all your wealth, But marks the workers' dead. We have yielded our best to give you rest And you lie on crimson wool. And if blood be the price of all your wealth, Good God! We have paid in full!
 
@@ -2097,7 +2013,6 @@ Words by Phil Ochs, U. S. A.
 
 First appearance, short version, 35th edition. First appearance, long version, 36th edition.
 
-## ![](_page_35_Figure_3.jpeg)
 
 Joe Hill came over from Sweden's shore Looking for some work to do; And the Statue of Liberty waved him by As Joe come a-sailing through, Joe Hill; As Joe came a-sailing through.
 
@@ -2120,7 +2035,6 @@ He wrote his works to the tunes of the day, To be passed along the union vine. A
 Author unknown, U. S. A.
 First appearance, 36th edition.
 
-## ![](_page_35_Figure_14.jpeg)
 
 Old man Sargent, sittin' at the desk, The damned old fool won't give us no rest. He'd take the nickels off a dead man's eyes To buy a Coca Cola and some Eskimo pies.
 
@@ -2144,7 +2058,6 @@ A spool is a reel for winding yam; a knotter is a little gadget used for tying t
 
 Words by Florence Reese, U. S. A. folk process. Tune: Lay the Lily Low. First appearance, 36th edition.
 
-## ![](_page_36_Figure_2.jpeg)
 
 Come all of you good workers, good news to you I'll tell, Of how the good old Union has come in here to dwell. Which side are you on? Which side are you on? (repeat)
 
@@ -2251,7 +2164,6 @@ We Work!
 
 #### V. D. T. Words and musk by Tom Juravkk, U. SA. First appearance, 36th edition.
 
-## ![](_page_37_Figure_19.jpeg)
 
 Well you don't know my name but you sure know me, I work in New York, Boston, and D,C. I used to be a typist, a secretary, But now 1 enter data on a V. D. T.\* I tell you it's not like they show on TV. It's hell to earn a living on a V. D. T,
 
@@ -2270,7 +2182,6 @@ When you think of union what comes to your mind, A guy driving a truck or workin
 
 Words and music by Ewan Mac Coll, England. First appearance, 36th edition.
 
-## ![](_page_38_Figure_2.jpeg)
 
 It's illegal to rip off a payroll, it's illegal to hold up a train,
 
@@ -2346,7 +2257,6 @@ Words by Ralph Chaplin, U. S. A.
 Tune: Nellie Gray.
 First appearance, 14th edition, April 1918,
 
-## ![](_page_38_Figure_39.jpeg)
 
 In the gloom of mighty cities,
 'Mid the roar of whirling wheels,
@@ -2393,7 +2303,6 @@ And we'll not regret the price we have to pay.
 
 Worth by Woody Guthrie, 3rd verst by Saucy Katz Tune: Red Wing. First appearance, 34th edition.
 
-## ![](_page_39_Figure_2.jpeg)
 
 There once was a union maid,
 
@@ -2427,7 +2336,6 @@ She'd show her card to the National Guard, and this is what she'd say -
 
 Words by Paul Mc Kenna, U. S. A. Tune: "Oh! Susanna" by Stephen Foster. First appearance, 36th edition.
 
-## ![](_page_39_Figure_19.jpeg)
 
 Well, now, let me introduce myself, Jack Shyster is my name. I'm a management consultant; union busting is my game. I'm a master of the con job, I'm an expert at the hoax; and I make my living stealing bread from the mouths of working folks.
 
@@ -2447,10 +2355,6 @@ Jack London tells the story: God was working in his lab, And with some hateful s
 #### This Little Scab
 
 Words by Chicago Branch IWW and Local 329, Service Employees Int'l, U. S. A. Tune: This Old Man. First appearance, 35th edition.
-
-## ![](_page_40_Figure_2.jpeg)
-
-## ![](_page_40_Figure_3.jpeg)
 
 
 This little scab, s/he plays one, S/he is scabbing just for fun.
@@ -2529,7 +2433,6 @@ Additional verses appeared in the May 1992 issue of the Industrial Worker,
 
 Words from the Australian IWW. Music: "Doxology". First appearance, 35th edition, entitled "The Boss."
 
-## ![](_page_41_Figure_2.jpeg)
 
 Praise boss when morning work-bells chime. Praise him for chunks of overtime. Praise him whose bloody wars we fight. Praise him, fat leech and parasite, Aw hell!
 
@@ -2553,7 +2456,6 @@ With alum bread and pressed beef butts, Dear Lord, they've damn near ruined my g
 
 # Soul Stealers Words & music by Kathleen Taylor, U. S. A. First appearance, 36th edition.
 
-## ![](_page_41_Figure_13.jpeg)
 
 They come to your cradle early, when you're still too young to fight, And they pull away the covers and they take away the light, And they put your Mum and Dad to sleep so it does no good to yell. Soul stealers come to steal your soul and cast you into hell.
 
@@ -2584,11 +2486,9 @@ Soul Stealers! Soul Stealers! Catch you in their plan. Soul Stealers! Soul Steal
 
 ## O Kathleen Taylor
 
-## ![](_page_42_Figure_0.jpeg)
 
 Words by Joe Hill, U. S. A.
 
-## ![](_page_42_Figure_2.jpeg)
 
 When I was hiking 'round the town to find a job one day, I saw a sign, "A thousand fools are wanted right away, To take a trip around the world in Uncle Sammy's fleet" I signed my name a dozen times upon a great big sheet.
 
@@ -2620,7 +2520,6 @@ He further informs me that The Capitalists are children of His'n And that he abs
 
 Wonts by Mary (Mother) Joint, U. SA. Musk and adaptation by Krittin Lena. Fint appearance, 36th edition.
 
-## ![](_page_42_Figure_19.jpeg)
 
 Pray for the dead and fight like hell for the living, Pray for the dead and fight like hell for the living, Pray for the dead and fight like hell for the living, We gotta keep giving to the living, fight like hell!
 
@@ -2636,7 +2535,6 @@ Mary Jones was an early 20th century U. S. coal mine union organizer and crusade
 
 Words and music by Hedy West and traditional. First appearance, 36th edition.
 
-## ![](_page_43_Figure_2.jpeg)
 
 I've worked in the cotton mill all of my life, And I ain't got nothin' but a Barlow knife. It's hard times, cotton mill girls, It's hard times everywhere.
 
@@ -2670,7 +2568,6 @@ In the 20's and 30's, large numbers of southern U. S. hill farmers, adults and c
 
 # Song of My Da Words and music by Paul O'Brien, Ireland. First appearance, 36th edition.
 
-## ![](_page_43_Figure_15.jpeg)
 
 My, father, a carter on the dockside in Dublin, When the hours of work were dawn until dark. His only pleasures, the love of my mother, A pint on a Sunday and a stroll in the park.
 
@@ -2693,7 +2590,6 @@ The "big man" is James Larkin, founder of the Irish Transport and General Worker
 
 Words and music by Tom Juravich, U. S. A. First appearance, 36th edition.
 
-## ![](_page_44_Figure_2.jpeg)
 
 Chorus
 I can feel the spirit building,
@@ -2728,7 +2624,6 @@ As the working folks of this country rise again.
 
 ## Down At The Picketline
 
-## ![](_page_44_Figure_10.jpeg)
 
 I'm gonna lay down my crescent wrench, Down at the picketline, (repeat 2x's)
 
@@ -2746,7 +2641,6 @@ This song came out of the U. S. 1989 strike by machinists, flight attendants and
 
 #### Forget Me Not (A Layoff Lament) First appearance, 36th edition.
 
-## ![](_page_45_Figure_1.jpeg)
 
 We're still talking about building strong unions, Unions that will stretch from sea to sea. With high tech and 6 and 5\*, How the hell can we survive? Look at me - I'm lining up for U. I. C.†
 
@@ -2776,7 +2670,6 @@ Written in a workshop conducted by Arlene Mantel in 1983, Ontario, Canada.
 
 Words by Joe Hill, U. S. A. Tune: In The Sweet Bye And Bye. First appearance, 1911 Edition.
 
-## ![](_page_45_Figure_11.jpeg)
 
 Long-haired preachers come out ev'ry night, Try to tell you what's wrong and what's right; But when asked about something to eat, They will answer with voices so sweet:
 
@@ -2802,7 +2695,6 @@ And you'll eat in the sweet bye and bye. (That's no lie!)
 
 Words and music-Darryl Cherney & Judi Bari, U. S. First appearance, 36th edition.
 
-## ![](_page_46_Figure_2.jpeg)
 
 Now the mill in Potter Valley, It's been here fifty years, Millin' all them fir trees That used to grow 'round here. But now they're runnin' out of timber And the mill is shuttin' down. They're packing up their band saws And they're movin' out of town.
 
@@ -2818,7 +2710,6 @@ Now when they doubled our shift five years ago, I knew we soon would see this da
 
 Words and music by Leslie Fish, U. S. A. First appearance, 36th edition.
 
-## ![](_page_46_Figure_10.jpeg)
 
 Did you think it was easy to change all of tomorrow?
 Did you think you'd never meet time, defeat, and sorrow?
@@ -2841,7 +2732,6 @@ Time comes down like thunder, and you can ride or fall And let the millstones gr
 
 Words by Lehigh Valley Branch, FA, i'. S. A, Tun\*: My Bonnie lies Over The Ocean, First appearance, 36th edition.
 
-## ![](_page_47_Figure_2.jpeg)
 
 My factory lies over the ocean, My factory lies over the sea. My factory lies over the border, Please give back: my factory to me. Chorus
 
@@ -2861,7 +2751,6 @@ This song ww written in 1992 in solidarity with the workers at the Phillip\*- Vs
 
 Words by T-Bone SUM [V. Huhta], V,Sji. Taut: They Go Wild, Simply Wild, Ortr Me. First appearance, 1920 Edition.
 
-## ![](_page_47_Figure_12.jpeg)
 
 I'm as mild mannered as Ican be. And I've never done them harm that I can see; Still on me they put a ban and they threw me inthe can, They go wild, simply wild, over me.
 

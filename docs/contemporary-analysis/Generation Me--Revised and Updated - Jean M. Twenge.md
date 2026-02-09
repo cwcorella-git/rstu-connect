@@ -892,9 +892,6 @@ Extended adolescence also has a big impact on relationships. Gen Me marries late
 
 Delaying adulthood has psychological consequences as well as practical ones. A recent study found that in countries where young people take on adult roles more quickly (such as Mexico or Pakistan), people become more responsible, organized, and calm—basically, more mature—at younger ages than those in countries, such as the United States, that feature a long period of emerging adulthood.
 
-## ![](_page_114_Figure_2.jpeg)
-
-## ![](_page_114_Figure_3.jpeg)
 
 Generation Me'ers marry considerably later than their Boomer counterparts did in the 1960s and 1970s.
 
@@ -1058,7 +1055,6 @@ Depression is oddly commonplace. In a mid-2000s TV commercial, a frowning, oval-
 
 It wasn't always "normal," but it is certainly heading in that direction. One out of 10 Americans took an antidepressant in 2008, twice as many as in 1996. At the Kansas State University counseling center, the number of students treated for depression doubled between 1988 and 2001, and the number who were suicidal tripled. A 2010 study found that college counseling centers increasingly saw students with more severe mentalhealth issues, and twice as many used psychiatric medications as compared to 1997. In a nationwide survey of teens in 2011, 29% said they had felt sad or helpless almost every day for two or more weeks in a row—a common definition of depression.
 
-## ![](_page_138_Figure_0.jpeg)
 
 e ubiquitous sad blob of Zolo. Correct your chemical imbalances and you might become a happy blob.
 
@@ -1384,7 +1380,6 @@ In his book A Nation of Victims, social critic Charles Sykes argues, "The impuls
 
 "the National Anthem has become the Whine." Other people blame a "disease" for their ineptitude—such as the man who sued after getting fired for never showing up on time. It wasn't his fault, he said, because he had "chronic lateness syndrome." The Myth of Laziness author Mel Levine says there is no such thing as laziness—instead, people who can't get things done have "output failure." Defense attorneys will sometimes say that their clients were abused as children and are thus not responsible for their actions. And there's always the famous Twinkies defense, that junk food and sugar are the real cause for murder. As Sykes puts it, "The plaintive cry is always the same: I am not at fault. [Fill in the Blank] made me do it."
 
-![](_page_184_Figure_1.jpeg)
 
 Watterson's satire of self-help books illustrates the growing popularity of blaming others for your problems and codifies the somewhat paradoxical link between externalizing blame and focusing on yourself.
 
@@ -1667,7 +1662,6 @@ One of the biggest sporting events of 1973 was the tennis match between Billie J
 
 Sexist attitudes and discrimination against women went far beyond sports. Before the late 1960s, medical schools systematically capped the enrollment of women at 5% of each class, regardless of how many talented women applied. When former Supreme Court justice Sandra Day O'Connor graduated near the top of her Stanford Law School class in 1952, no law firm would hire her—although one firm offered her a position as a secretary. As late as the 1970s, there were no female news anchors, few female lawyers, and even fewer women scientists. The New York Times and other newspapers ran want ads under "Help Wanted: Male" and "Help Wanted: Female." In 1964, Virginia congressman Howard Smith, a staunch opponent of civil rights for blacks, added sex discrimination to the Civil Rights Act as a joke, in hopes of defeating the bill. In his speech, he quoted a sarcastic letter from a woman complaining about "sex discrimination" in the shortage of husbands, as the House of Representatives roared with laughter. The bill passed anyway, sex discrimination clause intact. I have always imagined Congressman Smith kicking himself well into the next decade.
 
-## ![](_page_219_Figure_1.jpeg)
 
 Women now earn the majority of college degrees, and almost half of all medical and law degrees.
 
@@ -2272,8 +2266,6 @@ JEAN M. TWENGE is a professor of psychology at San Diego State University and th
 ### MEET THE AUTHORS, WATCH VIDEOS AND MORE AT [Simonand Schuster.com](http://simonandschuster.com/)
 
 [authors.simonandschuster.com/Jean-M-Twenge](http://authors.simonandschuster.com/Jean-M-Twenge)
-
-## ![](_page_301_Figure_3.jpeg)
 
 
 #### ALSO BY JEAN M. TWENGE

@@ -241,7 +241,6 @@ By this time, the word "sabotage" had assumed the definition assigned to it by t
 | (sometimes also known as |
 ## | The Battle Hymn of the Republic |
 
-## ![](_page_17_Figure_0.jpeg)
 
 | Chorus |
 |------------------------------------------------------------------------|
@@ -259,7 +258,6 @@ By this time, the word "sabotage" had assumed the definition assigned to it by t
 | But without our brain and muscle not a single wheel can turn. |
 | We can break their haughty power, gain our freedom when we learn |
 
-## ![](_page_19_Figure_0.jpeg)
 
 | is uncertain, and it's not known whether either had knowledge of the IWW's popularization of
 the concept. |
@@ -281,7 +279,6 @@ published in |
 
 Whether Blanc choose this pronunciation himself or did so at the request of Robert Clampett
 
-## ![](_page_21_Figure_0.jpeg)
 
 Rebels of the Woods: The IWW in the Pacific Northwest
 

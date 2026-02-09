@@ -27,7 +27,6 @@ North America for decades, usually in the form of local/ regional commuter opera
 state-owned freight trackage; and |
 ## | Whereas |
 
-## ![](_page_1_Figure_0.jpeg)
 
 | social ills and problems; and |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,7 +52,6 @@ ongoing supply chain crisis, resulting in some of the highest inflation rates in
 
 ## Whereas
 
-## ![](_page_3_Figure_1.jpeg)
 
 ## Whereas
 

@@ -8,8 +8,6 @@ tags:
   - culture
 ---
 
-## ![](_page_0_Figure_0.jpeg)
-
 
 # what does a society with out rape culture 100k like?
 
@@ -126,8 +124,6 @@ Joyful sexuality can mean a lot of things including asexuality which is when a p
 **OPTIONAL:** Pass out the Action Alliance's Ending Rape Culture Handout. This is an example of the Virginia Sexual and Domestic Violence Action Alliance's staff vision for a world without rape culture.
 
 
-## ![](_page_5_Figure_0.jpeg)
-
 RAPE PROBLEMS TO THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS OF THE PROBLEMS
 
 CATCALLING AGAINST SOMEONE
@@ -168,9 +164,6 @@ but this was like "whoa"
 DO YOU addresses youth violence, dating and sexual violence, sexual harassment, and bullying by confronting its root causes and enhancing protective factors (also referred to as building resilience) to promote positive development and healthy relationships among youth ages 13-16. The Un Curriculum (the facilitator's guide for DO YOU uses primary prevention principles and creative expression in a strategy intended to prevent violence before it starts. Find out more at vsdvalliance.org in the prevention section.
 
 
-## ![](_page_9_Figure_6.jpeg)
-
-
 ### Drive peace home.
 
 ## Order your plate at dmv.virginia.gov
@@ -178,9 +171,6 @@ DO YOU addresses youth violence, dating and sexual violence, sexual harassment, 
 Every "peace at home" plate on the road helps support programs across Virginia that promote whole and thriving relationships and communities.
 
 Make your car a vehicle for change.
-
-
-## ![](_page_11_Figure_0.jpeg)
 
 
 Virginia's leading voice on sexual and domestic violence for over 30 years.

@@ -228,7 +228,6 @@ Examples you could use in the real world are...
 
 What do you know about us, our business and the way we do things differently?
 
-## ![](_page_22_Figure_0.jpeg)
 
 These questions allow the other person to realize their opinion is perhaps not correct, and they can quickly become far more receptive to change.
 

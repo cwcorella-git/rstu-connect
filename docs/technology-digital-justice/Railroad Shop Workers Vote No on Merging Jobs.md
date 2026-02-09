@@ -10,7 +10,6 @@ tags:
 
 ## **Source:** https://ecology.iww.org/node/1507
 
-## ![](_page_0_Figure_4.jpeg)
 
 A boilermaker works on a locomotive plow, a part that often gets damaged in operation. Railroad workers recently voted down a concessionary deal that would have blended machinists' and pipefitters' jobs together. Photo by the author.
 

@@ -282,7 +282,6 @@ Défendre struggle. Night Owls, "Night Owls #4: Winter's Embers," |
 | 10. Wood jokingly replied, "That's when trees call you the n-word, right?" |
 | 11. Matthias Schmelzer, Andrea Vetter, Aaron Vansintjan, |
 
-## ![](_page_18_Figure_0.jpeg)
 
 | Theoretical Foundations of the 'New Police Science |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -304,9 +303,6 @@ Emma Goldman. By contrast, the parecon approach, proposed in this issue by Rober
 maintains a role for work-based remuneration. |
 | 18. Jack Crosbie, "The Battle for 'Cop City'," |
 
-## ![](_page_20_Figure_0.jpeg)
-
-## ![](_page_21_Figure_0.jpeg)
 
 | Setting Sights: Histories and Reflections on Community Armed Self-Defense |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

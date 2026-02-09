@@ -8,7 +8,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 EDITED BY JOHN ASIMAKOPOULOS AND RICHARD GILMAN-OPALSKY
 

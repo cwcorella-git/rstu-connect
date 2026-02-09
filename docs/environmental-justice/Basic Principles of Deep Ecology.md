@@ -17,7 +17,7 @@ This formulation refers to the biosphere, or more accurately, to the ecosphere a
 
 The term "life" is used here in a more comprehensive nontechnical way to refer also to what biologists classify as "nonliving"; rivers (watersheds), landscapes, ecosystems. For supporters of deep ecology, slogans such as "Let the river live" illustrate this broader usage so common in most cultures.
 
-Inherent value as used in (1) is common in deep ecology literature ("The presence of inherent value in a natural object is independent of any awareness, interest, or appreciation of it by a conscious being.") [\[1\]](#page-3-0)
+Inherent value as used in (1) is common in deep ecology literature ("The presence of inherent value in a natural object is independent of any awareness, interest, or appreciation of it by a conscious being.") \[1\]
 
 #### 2. **Richness and diversity of life forms contribute to the realization of these values and are also values in themselves.**
 
@@ -75,4 +75,4 @@ There is ample room for different opinions about priorities: what should be done
 
 Retrieved on 9 January 2011 from [www.deepecology.org](http://www.deepecology.org/platform.htm)
 
-[\[1\]](#page-0-1) Tom Regan, "The Nature and Possibility of an Environmental Ethic," Environmental Ethics 3 (1881), pp. 19–34
+\[1\] Tom Regan, "The Nature and Possibility of an Environmental Ethic," Environmental Ethics 3 (1881), pp. 19–34

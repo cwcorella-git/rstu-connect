@@ -851,6 +851,4 @@ These six essays urgently investigate our troubled environment, politics, and as
 
 ## \$16.00 US | £13.00 UK
 
-## ![](_page_141_Figure_7.jpeg)
 
-## ![](_page_141_Figure_8.jpeg)

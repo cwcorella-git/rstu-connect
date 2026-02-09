@@ -31,7 +31,6 @@ I love you straightforwardly, without complexities or pride;
 
 ## so I love you because I know no other way than this: where I does not exist, nor you,
 
-## ![](_page_2_Figure_0.jpeg)
 
 Audre Lorde | Commencement Speech at Oberlin College, 1989
 

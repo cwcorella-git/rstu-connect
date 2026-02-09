@@ -24,9 +24,6 @@ Mark.
 
 ## In reply to Welcomebylibcom.org
 
-## ![](_page_1_Figure_0.jpeg)
-
-## ![](_page_2_Figure_0.jpeg)
 
 ## Entdinglichung
 
@@ -80,7 +77,6 @@ Mark.
 
 ## AJE:Anti-austerity strikes erupt across Europe
 
-## ![](_page_7_Figure_0.jpeg)
 
 Just been on a march through Malaga coming from the north then heading west via the port and train station. a few CNT flags (appx 5) and a few more CGT- the majority seemed to be public sector workers with home-made banners. From what little I could gather in my very limited Spanish they are mainly further education workers, some medical workers and many students- we blocked a number of major roads en route. There was a great moment when we were on a bridge over a river and saw a different march (UGT I believe- but they only had 1 flag so not positive on that) on the next bridge along going in the opposite direction and we made a lot of noise and they came to join us and swell our ranks- to much cheering and applause. We called out a few retail and service workers en route- and shut a few stores and cafes. For a while we blocked the General Medical Centre entrance- we then made our way to the train station where there was a (majority) CCOO picket (supported by a good number of CGT and UGT members) who joined us to march to a nearby shopping mall- the entrance of which (like the train station) was blocked by riot police (carrying their helmets but not yet wearing them). We stood about and chanted for a bit then the transport workers returned to their picket, a few non-aligned anarcho-types stayed there to shout at shoppers and police and the education/ public service march carried on up the road northwards. No sign of any soldiers anymore but lots of police on motorbikes and now a helicopter. People generally seem in good spirits. I haven't seen any violence or property damage.
 
@@ -118,7 +114,6 @@ Tilburg, Netherlands: small solidarity action (between 10 and 15 people, mostly
 
 Occupy-related folks). Brabants Dagblad, in Dutch but with two pics.
 
-## ![](_page_12_Figure_0.jpeg)
 
 ## In reply to Welcomebylibcom.org
 
@@ -184,7 +179,6 @@ The timing is coincidental, but MP for Hove and sponsor of the recent law crimin
 
 Just back from CNT march in Granada. We stayed separate from other marches, didn't even see the main UGT/CCOO march and couldn't see any evidence of it anywhere. CNT turnout mainly students, some local govt workers and agricultural, got rowdy towards the end when went through the city centre to bars/shops etc that have either been in conflict with the CNT before or were being told to shut because of the general strike. In Plaza Trinidad kicked off a bit, Nacionales got their gas/rubber bullets out and did a charge but nothing much more than that. Shoppers alarmed to see rowdy anarchists approaching, but Granada seems to be a very conservative town, loads of people out shopping during a general strike, seemingly
 
-## ![](_page_16_Figure_0.jpeg)
 
 | In reply to Welcomebylibcom.org |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -279,7 +273,6 @@ San Raffaele workers also went on strike today. The CGIL staff followed the 4-ho
 
 As for the base unions generally, from what I could pick up, COBAS struck as did as did Unicobas. USB were definitely at the San Raff demo, I imagine they struck at the hospital as well. CUB didn't (though some were at the San Raffaele demo). I think CUB and COBAS are the two biggest of the base unions, and there's loads of inter-base union rivalry that apparently fucks up a lot of stuff.
 
-## ![](_page_22_Figure_0.jpeg)
 
 Hundreds of flights were cancelled, schools were shut, factories were at a standstill and trains barely ran in Spain and Portugal where unions held their first joint general strike. Stoppages in Belgium interrupted international rail services.
 
@@ -347,7 +340,6 @@ Una vez en Vialia, el gerente del centro comercial ha hecho uso de un nutrido gr
 
 También a las 10 salía otro grupo hacia la Delegación de Educación, respondiendo a la convocatoria de la Marea Verde de Málaga, en protesta por los recortes en la escuela pública. Sin embargo, la gran cantidad de personas que se han dado cita ha hecho posible una manifestación improvisada que ha circulado por Avda de Andalucia, cortando varias de las principales vías de la capital malagueña. Entre 500 y 700 personas han cruzado el río Guadalmedina hasta la Alameda de Colón. A este grupo se ha unido un piquete informativo, por lo que la acción de la manifestación ha sido doble, consiguiendo que los pocos locales que se encontraban abiertos a su paso cerraran. Sin embargo, tanto Vialia como el Centro Comercial Larios estaban absolutamente tomados por los antidisturbios, haciendo imposible entrar a informar en los mismos. A las 14 horas tiene lugar una performance llamada "Subasta de esclavxs", a cargo de integrantes de este sindicato.
 
-## ![](_page_28_Figure_1.jpeg)
 
 As for Spain, we've probably lived the biggests explicitly anticapitalist marches ever. If in the other general strike (29th march) the total number of people of the 80-odd towns in anticapitalist marches were between 150 - 200,000 people, this time the range has been of 200 to 250,000 (or even 300,000).
 

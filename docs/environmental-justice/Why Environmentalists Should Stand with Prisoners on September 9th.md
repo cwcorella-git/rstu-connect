@@ -28,7 +28,6 @@ censorship, and literal slavery based on the 13th Amendment's exemption of priso
 
 business as usual for the day and to encourage students and workers to participate in
 
-## ![](_page_1_Figure_0.jpeg)
 
 across the nation. For this reason, FTP is planning
 
@@ -82,7 +81,6 @@ with prison strike. |
 with prison strike. |
 ## | More info here |
 
-## ![](_page_5_Figure_0.jpeg)
 
 | More info here |
 |----------------------------------------------------------------------|

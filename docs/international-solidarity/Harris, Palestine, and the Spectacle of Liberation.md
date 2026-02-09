@@ -331,7 +331,6 @@ The only perk of being working class in the Western world is our unlimited acces
 
 What if we can just push Harris left? What if we call her a war-mongering arbritor of the police state after she's elected? Won't she be better than Trump?
 
-## ![](_page_21_Figure_0.jpeg)
 
 voluntarily cheer on this woman who I knew would happily continue to suck the bone marrow from the colonized world, even while knowing she would do that very thing! The other option embarrassed me." Because that's all this is. The other option embarrasses us.
 

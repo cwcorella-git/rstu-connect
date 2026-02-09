@@ -128,7 +128,6 @@ If you are reading this, there's a chance you can relate to the student debt str
 
 All told, more than one million student debtors default every year. But what if, instead of drowning alone, people engaged in collective refusal? That's what happened during the debt strike. People who didn't know each other banded together and realized that their debts don't have to be a shameful burden—they can become a form of leverage. The fact that Pam —along with tens of thousands of other people—got her student loans canceled proves as much.
 
-## ![](_page_17_Figure_0.jpeg)
 
 To conduct the kind of mass politics that can succeed at scale, debtors need an institutional base. We need debtors' unions: associations of indebted people and their allies, who are willing to engage in campaigns of economic disobedience and threaten collective nonpayment. Debtors' unions can harness the power of debt and wield it strategically. Individually, our debts overwhelm us. But together they make us powerful. Creditors are already organized—that's why they got bailed out in 2008 and 2020 and have more influence over our lives than ever before. The time has come for debtors to get organized, too.
 
@@ -189,7 +188,6 @@ The fact that employers refuse to provide living wages enables creditors to loan
 
 Look at this graph illustrating the relationship between productivity and wages.
 
-## ![](_page_26_Figure_0.jpeg)
 
 Since World War II the wealth we produce has been going up and up and up, but our wages have remained stagnant since the mid-1970s. Although we are working longer hours, a growing number of us are forced to cobble together multiple jobs and side hustles. While our work is producing more wealth than ever before, that wealth is being captured by the 1 percent. The pie has been getting bigger, but our slice has stayed the same or shrunk. A full eight out of every ten dollars we produce goes into the pockets of the richest 1 percent.
 
@@ -396,7 +394,6 @@ As the War on Drugs ramped up in the 1980s, "consumer credit" expanded in increa
 
 Affluent people are, predictably, far better off under these circumstances, with well-connected relatives and inherited wealth to fall back on. This is another reason the rich have gotten richer. As the economist Thomas Piketty and others have demonstrated, wealth today is not built through accumulated wages but through private inheritance. For example, it is much easier to save money if you inherit a house and do not have to buy one yourself or if you didn't have to take on loans to go to college. If *inheritance* plays such a central role in the distribution of wealth, then we are again looking at the importance of a certain kind of family, and the continuation of rich people passing assets down to their children intergenerational wealth transfer again—and poor people getting stuck with debt. Of course these disparities are racialized. As journalist Nikole Hannah-Jones has noted, "the average Black family with children holds just one cent of wealth for every dollar that the average white family with children holds."
 
-## ![](_page_54_Figure_0.jpeg)
 
 With wealth amassing on one side and debt on the other, the finance sector boomed. Money managers were happy to watch over family fortunes, raking in fees for handling private investments. At the same time, the state's strategy of forcing households to access basic goods through high-cost and high-interest credit was a massive windfall for creditors. The last forty years of financialization have seen the mass distribution of debt, funneling money from working families to Wall Street.
 

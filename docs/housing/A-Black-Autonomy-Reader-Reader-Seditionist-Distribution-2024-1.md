@@ -9,7 +9,6 @@ tags:
   - tenants
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 # **ANARCHISM**
 

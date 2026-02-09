@@ -3855,4 +3855,3 @@ This edition of Stirner's work comprises a revised version of Steven Byington's 
 
 ## **CAMBRIDGE**UNIVERSITY PRESS
 
-## ![](_page_427_Figure_8.jpeg)

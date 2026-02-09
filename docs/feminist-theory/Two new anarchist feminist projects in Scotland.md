@@ -42,15 +42,11 @@ Not sure why the second AF project is listed here as specifically 'anarchist fem
 
 Yeah not all the texts are going to be specifically about feminism but the first one is, and we will be trying to use a feminist analysis when looking at the other texts we cover too. Not everything at the bookfair will be explicitly feminist or anarchist either (tho it has to be at least one of those!).
 
-## ![](_page_3_Figure_0.jpeg)
-
-## ![](_page_4_Figure_0.jpeg)
 
 plan to (maybe we won't have to! Maybe no transphobes will come, wouldn't that be great), but we're not seeking to "distance ourselves" from them, we are a different bookfair in a different country, and we hope to learn from what happened in London.
 
 We also haven't had our creches organised by them - we have one creche which is being provided by a local social enterprise which uses profits from their childcare business to fund casework with BME women in Edinburgh. We ran a crowdfunding campaign to pay for this (we needed £650), and the London bookfair collective donated a fair bit of that because they wanted to help. They didn't organise anything for us, and there's no animosity between the two bookfairs.
 
-## ![](_page_5_Figure_0.jpeg)
 
 | Alasdair |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

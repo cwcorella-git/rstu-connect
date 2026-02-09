@@ -1277,20 +1277,11 @@ As sex work activists, we want to build sex worker power and end violence. To do
 
 ## **nicole marie burton and Hugh Goldring**
 
-## ![](_page_142_Figure_0.jpeg)
-
-## ![](_page_144_Figure_0.jpeg)
-
 
 Even if witnesses are protected from possession charges, they still have reason to fear the police.
 
-## ![](_page_148_Figure_0.jpeg)
 
 \* Janet Butler-Mc Phee, Sandra Ka Hon Chu, and Emily van der Meulen, "The Good Samaritan Drug Overdose Act: The Good, the Bad, and the Ineffective" (Canadian HIV/AIDS Legal Network, 2020), hivlegalnetwork.ca.
-
-## ![](_page_150_Figure_0.jpeg)
-
-## ![](_page_150_Figure_1.jpeg)
 
 
 Research by Janet Butler-Mc Phee and Sandra Ka Hon Chu of the HIV Legal Network, and Emily van der Meulen from Ryerson University.
@@ -1434,7 +1425,6 @@ With the recent death of Regis Korchinski-Paquet in the presence of Toronto offi
 
 Here we are again. We're back to raise our voices. But we're not back for a sham consultation. Our voices were loud and clear: "Defund the police by 50 percent." A demand that is echoing across the continent. We are not here to be consulted. Stop tinkering. Stop reforming. Stop "round tables" and regressive thinking. You killed us because we were Indigenous, because we were Black, because we were poor, because we had mental health issues. You spied on / raided / jailed and beat us because we were queer, because we did not conform. You killed us when we were young, when we were old, when we were in between. We cried out and
 
-## ![](_page_170_Figure_0.jpeg)
 
 Policing Reform: A Study of the Reform Process and Police Institution in Toronto, 1984
 

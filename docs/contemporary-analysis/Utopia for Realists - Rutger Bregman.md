@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 ## HOW WE CAN BUILD THE IDEAL WORLD
 
@@ -104,11 +103,9 @@ It was not until about 1880, right around the time Alexander Graham Bell invente
 
 ## FIGURE 1 Two Centuries of Stupendous Progress
 
-## ![](_page_11_Figure_0.jpeg)
 
 ## Per capita income (in U. S. dollars)
 
-## ![](_page_11_Figure_2.jpeg)
 
 *This is a diagram that takes a moment to absorb. Each circle represents a country. The bigger the circle, the bigger the population. The bottom section shows countries in the year 1800; the top shows them in 2012. In 1800, life expectancy in even the richest countries (e.g. the Netherlands, the United States) still fell short of that in the country with the lowest health rating (Sierra Leone) in 2012. In other words: in 1800, all countries were poor in both wealth and health, whereas today, even sub-Saharan Africa outperforms the most affluent countries of 1800 (despite the fact that incomes in the Congo have hardly changed in the last 200 years). Indeed, ever more countries are arriving in the "Land of Plenty," at the top right of the diagram, where the average income now tops \$20,000 and life expectancy is over 75.*
 
@@ -150,7 +147,6 @@ Some scientists even contend that the first person who will live to celebrate th
 
 ## FIGURE 2 The Victory of Vaccines
 
-## ![](_page_16_Figure_0.jpeg)
 
 Source: World Health Organization
 
@@ -160,7 +156,6 @@ All the while, we're only getting smarter. In 1962, as many as 41% of kids didn'
 
 FIGURE 3 War Has Been On the Decline
 
-## ![](_page_17_Figure_0.jpeg)
 
 ## Source: Peace Research Institute Oslo
 
@@ -565,7 +560,6 @@ Take the diagram below. The y-axis shows an index of social problems; on the x-a
 
 #### FIGURE 4
 
-## ![](_page_56_Figure_3.jpeg)
 
 *The index of social problems (here on the y-axis) includes life expectancy, literacy, child mortality, murder rate, inmate population, teenage pregnancy, depression, social trust, obesity, drug and alcohol abuse, and social mobility vs. immobility.*
 
@@ -579,7 +573,6 @@ A lot. Because it's all about *relative* poverty. However wealthy a country gets
 
 #### FIGURE 5
 
-## ![](_page_57_Figure_4.jpeg)
 
 *Inequality (here on the x-axis) represents that gap between the richest and the poorest 20% in a given country.*
 
@@ -870,7 +863,6 @@ The CEO who recklessly hawks mortgages and derivatives to lap up millions in bon
 
 FIGURE 6 The Growth of the Banking Sector
 
-## ![](_page_86_Figure_0.jpeg)
 
 *This graph shows lending to households and organizations outside the financial sector. "Europe" is the mean of Denmark, England, France, Germany, Italy, the Netherlands, Spain, and Sweden.*
 
@@ -928,7 +920,6 @@ As one historian explains, "The first thing you do in 1950s and '60s if you're a
 
 FIGURE 7 The Prevalence of the Terms "GNP" and "GDP" in Books Published in English, 1930–2008
 
-## ![](_page_92_Figure_0.jpeg)
 
 *Initially, the more common measure was the gross national product (GNP), but in the 1990s this was superseded by the GDP. The GNP adds up all a country's economic activity (including activities abroad), while the GDP adds up all activities within its borders (including by foreign enterprises). In most countries, the gap between GNP and GDP is never more than a few percent.*
 
@@ -1088,7 +1079,6 @@ With women storming the labor market, men should have started working less (and 
 
 ## FIGURE 8 Women in the Workplace, 1970–2012
 
-![](_page_106_Figure_5.jpeg)
 
 But that didn't really happen. Whereas couples worked a combined total of five to six days a week in the 1950s, nowadays it's closer to seven or eight. At the same time, parenting has become a much more time-intensive job. Research suggests that across national boundaries, parents are dedicating substantially more time to their children.21 In the U. S., working mothers actually spend more time with their kids today than stay-at-home moms did in the 1970s.22
 
@@ -1096,7 +1086,6 @@ Even citizens of the Netherlands–the nation with the shortest workweek in the 
 
 FIGURE 9 We Have Been Working Progressively Less (up to 1980)
 
-## ![](_page_108_Figure_0.jpeg)
 
 *The number of annual work hours per capita has taken a nosedive since the nineteenth century. Yet after 1970, the figures are misleading as an increasing number of women joined the workforce. As a consequence, families have been increasingly pressed for time, even though the numbers of hours worked per employee was still decreasing in some countries.*
 
@@ -1422,7 +1411,6 @@ By contrast, you only need to pack and unpack a shipping container once. In Apri
 
 #### FIGURE 10 Moore's Law
 
-## ![](_page_138_Figure_1.jpeg)
 
 *The number of transistors in processors 1970–2008*
 
@@ -1452,7 +1440,6 @@ With each new road that was paved and each new canal that was dug, the costs of 
 
 ## FIGURE 11 Where a Jar of Nutella Comes From
 
-## ![](_page_140_Figure_2.jpeg)
 
 ## Source: OECD
 
@@ -1478,7 +1465,6 @@ Over the 1950s and 1960s the American automotive industry experienced successive
 
 FIGURE 12 Productivity and Jobs in the United States, 1947–2011
 
-## ![](_page_143_Figure_0.jpeg)
 
 Source: U. S. Department of Labor, Bureau of Labor Statistics
 

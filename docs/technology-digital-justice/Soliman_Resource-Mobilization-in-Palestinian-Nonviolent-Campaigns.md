@@ -485,7 +485,6 @@ In-kind contributions are also important in the early stages when campaign actor
 
 Financial resources also help generate human and organizational resources, in-kind contributions, and building materials and equipment In the case studies discussed in this monograph, eectively deploying other kinds of material resources culminated in the availability of building materials and equipment For example, activists secured bricks, cement, and sand as a result of acquiring grants andnancial contributions
 
-## ![](_page_21_Figure_0.jpeg)
 
 FIGURE 1. Interaction Among the Different Types of Material Resources
 
@@ -953,9 +952,6 @@ The long-term objective is to force the Palestinian residents to resettle into A
 
 The international community has failed to eectively pressure the Israeli government, as an occupying power, to respect the rights of the Palestinians living in Area C Moreover, the bias of successive United States administrations in favor of Israel has encouraged the Israeli government to continue building illegal settlements, conscating Palestinian land, and ethnically cleansing Palestinians from region Under the terms of the Trump administration's plan, released in January 2020, only 40 percent of Area C would be transferred back to the Palestinians (White House 2020) This parallels the Israeli government's intentions to annex the majority, if not the whole, of Area C The Israeli government ocially announced that it will start the annexation of parts of Area C by the beginning of July 2020 While the ocial annexation was postponed as a result of the normalization of relations between some Arab regimes and Israel, settlers still attempt to grab more land, and Israeli violations have continued
 
-## ![](_page_40_Figure_0.jpeg)
-
-## ![](_page_40_Figure_1.jpeg)
 
 ## FIGURE 3. Occupied West Bank Areas A, B, and C
 
@@ -1093,7 +1089,6 @@ The South Hebron Hills (SHH) Campaign: 1999–Present
 | Number of campaign events | More than 400 nonviolent actions |
 ## | Scope of study | 1999–2018 |
 
-## ![](_page_43_Figure_2.jpeg)
 
 ## FIGURE 4. South Hebron Hills Area
 
@@ -1198,7 +1193,6 @@ The SHH campaign is centered around resources because the campaign's actors real
 | Number of campaign events | More than 200 nonviolent actions |
 ## | Scope of study | 2003–2018 |
 
-## ![](_page_50_Figure_2.jpeg)
 
 FIGURE 5. Map of the Jordan Valley.
 
@@ -1784,7 +1778,6 @@ The following section explains how various non-material resources were employed 
 
 33 Interview with the coordinator of Susya village, December 2019.
 
-## ![](_page_79_Figure_0.jpeg)
 
 FIGURE 7. How Non-material Resources Harnessed Material Resources
 
@@ -1895,7 +1888,6 @@ for future actions, which kept activists motivated to oer their homes as meeting
 
 In the RV campaign, the PSCC oered its oce as a meeting place Activists were able to use the entire premises both for recruiting volunteers through networking with dierent PRCs and for securingnancial support Nothing from the PSCC oce was used in the campaign's actions, but without the use of the venue it would have been hard for activists to secure tents, transportation for volunteers, and privatenancial support from small and individual donors Figure 10 highlights the relationships between the in-kind contributions oered by the PSCC, thenancial support provided by Palestinian businesspeople, and the buses used to transport participants to the village building sites The PSCC oce, as an in-kind contribution, enabled meetings to take place where communication and transport could be arranged together with privatenancial contributions
 
-## ![](_page_88_Figure_2.jpeg)
 
 FIGURE 10. The Relationships Between Material Resources Acquired by the Rebuilding Villages Campaign and In-Kind Contributions (PSCC Office)
 
@@ -2106,7 +2098,6 @@ Knowledge of Area C | | |
 
 Chapter 1 dened campaign actors as the domestic actors—from local councils and project committees to PRCs and PRNs—directly involved in campaign actions Figure 11, on the next page, reects the relationships between the dierent campaigns' members While PRNs form the umbrella for PRCs and provide them with material resources, PRCs are the core entities that are vital for the existence of the PRNs PRCs are generally not NGOs and are not registered with any Palestinian ministry They are made up of groups of community-based grassroots activists and can be characterized as participatory organizations The name of the PRCs—lejan Sha'beya in Arabic—was taken from the groups which provided leadership to the nonviolent resistance during the First Intifada
 
-## ![](_page_97_Figure_1.jpeg)
 
 FIGURE 11. The Roles of Campaign Members in the Nonviolent Campaigns
 
@@ -2116,13 +2107,11 @@ The representatives of the SHH and JV communities are responsible for securing a
 
 Figure 12 shows the dierent committees and their connections During campaign actions, various subcommittees were responsible for organizing their community, mobilizing the residents, and securing material resources from them For example, if the SHH committee agreed to build a house in Susya village, one of the Susya subcommittees, through its locally based head, would coordinate the action with residents and the SHH committee
 
-## ![](_page_98_Figure_0.jpeg)
 
 ## FIGURE 12. SHH Committees and Their Relationships
 
 The SHH's PRC enjoys strong relationships with the local councils, the heads of local families, and the municipality of Yatta (see Figure 13)
 
-## ![](_page_98_Figure_3.jpeg)
 
 FIGURE 13. Relationships Between the SHH Committee and Other Local Actors
 

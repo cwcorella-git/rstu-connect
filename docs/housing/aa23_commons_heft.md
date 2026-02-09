@@ -42,7 +42,6 @@ Massimo: Let me address the question of the definition of the commons **1** . Th
 
 Commons are not simply resources we share – conceptualizing the commons involves three things at the same time. First, all commons involve some sort of common pool resources, understood as non-commodified means of fulfilling peoples needs. Second, the commons are necessarily created and sustained by communities – this of course is a very problematic term and topic, but nonetheless we have to think about it. Communities are sets of commoners who share these resources and who define for themselves the rules through which they are accessed and used. Communities, however, do not necessarily have to be bound to a locality, they could also operate through translocal spaces. They also need not to be understood as homogeneous in their cultural and material features. In addition to these two elements – the pool of resources and the set of communities – the third and most important element in terms of conceptualiz-
 
-## ![](_page_2_Figure_0.jpeg)
 
 # **The Commons in a Systematics of Goods**
 

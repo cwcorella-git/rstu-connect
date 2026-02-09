@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "created": "2026-02-09",
+    "last_updated": "2026-02-09",
+    "total_documents": 2357,
+    "audited_count": 0,
+    "categories_audited": []
+  },
+  "audit_sessions": [
+    {
+      "date": "2026-02-09",
+      "session": 1,
+      "action": "bulk_cleanup",
+      "description": "Removed PDF artifacts from 486 documents, fixed 17 broken titles, deleted 5 off-topic docs",
+      "documents_affected": 491,
+      "issues_fixed": {
+        "pdf_images_picture": 6005,
+        "pdf_anchors_first_pass": 38,
+        "reading_time": 168,
+        "broken_titles": 17,
+        "off_topic_deleted": 5
+      }
+    },
+    {
+      "date": "2026-02-09",
+      "session": 2,
+      "action": "bulk_cleanup",
+      "description": "Second pass: PDF Figure placeholders, broken anchors with escaped brackets, title fixes",
+      "documents_affected": 497,
+      "issues_fixed": {
+        "pdf_images_figure": 1756,
+        "pdf_anchors_escaped": 25922,
+        "titles_with_urls": 4,
+        "empty_titles": 2,
+        "missing_frontmatter": 1,
+        "truncated_documents_deleted": 1
+      }
+    }
+  ],
+  "remaining_issues": {
+    "very_long": {
+      "count": 379,
+      "description": "Documents over 100k chars - full book scans",
+      "severity": "info"
+    },
+    "wikipedia_scrape": {
+      "count": 336,
+      "description": "Wikipedia footnote artifacts [1], {{, [[",
+      "severity": "low"
+    },
+    "table_heavy": {
+      "count": 4,
+      "description": "Documents with many table rows",
+      "severity": "info"
+    }
+  },
+  "audited_documents": [],
+  "flagged_for_review": [],
+  "quality_scores": {}
+}

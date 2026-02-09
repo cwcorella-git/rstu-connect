@@ -10,11 +10,9 @@ tags:
 
 An interdisciplinary exploration of a smartphone game as a potential instrument for behavioural change towards happiness-inducing lifestyles
 
-## ![](_page_0_Figure_2.jpeg)
 
 ## Jonas Wolterstorff
 
-## ![](_page_1_Figure_0.jpeg)
 
 ## in "Mindful Meerkats"
 
@@ -640,7 +638,6 @@ Certain elements in the app have been purposefully included to achieve certain p
 
 ## Master Thesis
 
-## ![](_page_36_Figure_0.jpeg)
 
 ## ~12~
 
@@ -755,7 +752,6 @@ It is important to note that Fogg's (2011) perspective mainly relates to design 
 
 Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrecht University
 
-## ![](_page_43_Figure_0.jpeg)
 
 ## ~17~
 
@@ -1017,7 +1013,6 @@ For example a cup handle enables users of the cup to drink from it without burni
 
 Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrecht University
 
-## ![](_page_59_Figure_6.jpeg)
 
 A Smartphone Game as an instrument for behavioural change towards sustainable lifestyless In the realm of Gamification, it is used as a point of departure for Motivation and thus known as Motivational Affordance. In the context of information systems, such as games or gamified environments, Hamari (2015) state that a system is needed "that fulfils the motivational needs of the user for them to be satisfied with the system and continue with its use. … they are stimuli designed with the intent of answering the users['] motivational needs and affecting the users' psychological states" (Hamari 2015, 9) to effectively gamify a non-game system.
 
@@ -1205,7 +1200,6 @@ In the same way, we should also look at science. In the spirit of the Scientific
 
 Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrecht University
 
-## ![](_page_71_Figure_2.jpeg)
 
 ## ~33~
 
@@ -1237,7 +1231,6 @@ The conceptual progression from Cognitive Evaluation Theory to Self-Determinatio
 
 Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrecht University
 
-## ![](_page_73_Figure_3.jpeg)
 
 ## WORKE
 
@@ -2672,7 +2665,6 @@ Design and Entrepreneurship have to fraternise and collaborate to bring all thei
 
 ## Master Thesis
 
-## ![](_page_171_Figure_2.jpeg)
 
 ## ~91~
 
@@ -2755,7 +2747,6 @@ of Reality
 -
 -
 
-## ![](_page_177_Figure_0.jpeg)
 
 o ++ o - Assassins' Creed) 5) Meeka (Mindful Meer- o + + kats)
 
@@ -4249,7 +4240,6 @@ Boyd, Danah, and Kate Crawford. 2012. "Critical Questions for Big Data." Informa
 
 79. doi:10.1080/1369118X.2012.678878.
 
-## ![](_page_297_Figure_5.jpeg)
 
 81–104.
 
@@ -4320,7 +4310,6 @@ https://www.youtube.com/watch?v=HgzpgOJ2ubI.2015. Social Difficulty Curve Easing
 
 into
 
-## ![](_page_302_Figure_0.jpeg)
 
 ## \_
 

@@ -98,7 +98,6 @@ Why does that matter? "Promoting school integration is important because — now
 
 **8) The marriage gap has widened over the past 50 years:**
 
-## ![](_page_8_Figure_0.jpeg)
 
 adults are economically better off, although that may reflect the greater propensity of affluent adults to marry."
 

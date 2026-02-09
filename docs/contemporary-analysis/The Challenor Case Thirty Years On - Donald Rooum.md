@@ -163,6 +163,5 @@ Steven.
 
 This is so good! Donald told me about this incident a couple of times but not in this much detail, so interesting. Just one thing there appears to be a small OCR error here: "a case meriting no more than a km fine."Also "two young men's pockets were the two halves of the it brick"
 
-## ![](_page_10_Figure_0.jpeg)
 
 This case is mentioned in 'Ringolevio: A life Played For Keeps' by Emmett Grogan, the late San Francisco Digger. He gives a somewhat garbled account and claims that in his pre-Digger days he was also fitted up by Challenor, convicted and jailed but then released due to Rooum & co.'s efforts - for which he expresses much gratitude in the book.

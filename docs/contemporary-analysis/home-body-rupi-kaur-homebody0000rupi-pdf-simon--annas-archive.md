@@ -33,7 +33,6 @@ maybe i walked out of the womb with it is it possible to be born with such a mel
 
 - where the depression came from
 
-## ![](_page_10_Figure_0.jpeg)
 
 my mind keeps running off to'dark corners and coming back with reasons for why 1 am not enough sex 1s a way for people to transcend into each other and come apart a beautiful earthy expression but for me sex was my girlhood dragged to death he said we were going to play then he always locked the door always chose the game when 1 told him to stop he said i was asking for it but what did 1 know about involuntary orgasms and agency and consent at age 7. 8. 9. and 10.
 

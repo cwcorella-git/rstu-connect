@@ -10,24 +10,24 @@ tags:
 ---
 
 
-The *GNU Manifesto* is a [call-to-action](https://en.wikipedia.org/wiki/Direct_action) by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) encouraging participation and support of the [GNU Project'](https://en.wikipedia.org/wiki/GNU_Project)s goal in developing the [GNU](https://en.wikipedia.org/wiki/GNU) [free](https://en.wikipedia.org/wiki/Free_software) computer [operating system.](https://en.wikipedia.org/wiki/Operating_system) The GNU Manifesto was published in March 1985 in *[Dr. Dobb's Journal of](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal) [Software Tools](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal)*. [\[1\]](#page-1-0) It is held in high regard within the [free software](https://en.wikipedia.org/wiki/Free_software_movement) [movement](https://en.wikipedia.org/wiki/Free_software_movement) as a fundamental philosophical source[.\[2\]](#page-1-1)[\[3\]](#page-1-2)[\[4\]](#page-1-3)[\[5\]](#page-1-4)[\[6\]](#page-1-5)[\[7\]](#page-1-6)
+The *GNU Manifesto* is a call-to-action](https://en.wikipedia.org/wiki/Direct_action) by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) encouraging participation and support of the [GNU Project'](https://en.wikipedia.org/wiki/GNU_Project)s goal in developing the [GNU](https://en.wikipedia.org/wiki/GNU) [free](https://en.wikipedia.org/wiki/Free_software) computer [operating system.](https://en.wikipedia.org/wiki/Operating_system) The GNU Manifesto was published in March 1985 in *[Dr. Dobb's Journal of](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal) [Software Tools](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal)*. [\[1\] It is held in high regard within the free software](https://en.wikipedia.org/wiki/Free_software_movement) [movement](https://en.wikipedia.org/wiki/Free_software_movement) as a fundamental philosophical source[.\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
-The full text is included with GNU software such as [Emacs,](https://en.wikipedia.org/wiki/GNU_Emacs) and is publicly available.[\[8\]](#page-2-0)
+The full text is included with GNU software such as Emacs,](https://en.wikipedia.org/wiki/GNU_Emacs) and is publicly available.[\[8\]
 
 
 ## GNU logo
 
 #### **Background**
 
-Some parts of the *GNU Manifesto* began as an announcement of the GNU Project posted by Richard Stallman on September 27, 1983, in form of an email on [Usenet](https://en.wikipedia.org/wiki/Usenet_newsgroup) [newsgroups.](https://en.wikipedia.org/wiki/Usenet_newsgroup)[\[9\]](#page-2-1) The project's aim was to give computer users freedom and control over their computers by collaboratively developing and providing software that is based on Stallman's idea of [software freedom](https://en.wikipedia.org/wiki/The_Free_Software_Definition) (although the written definition had not existed until February 1986).[\[10\]](#page-2-2) The manifesto was written as a way to familiarize more people with these concepts, and to find more support in form of work, money, programs and hardware.
+Some parts of the *GNU Manifesto* began as an announcement of the GNU Project posted by Richard Stallman on September 27, 1983, in form of an email on Usenet](https://en.wikipedia.org/wiki/Usenet_newsgroup) [newsgroups.](https://en.wikipedia.org/wiki/Usenet_newsgroup)[\[9\] The project's aim was to give computer users freedom and control over their computers by collaboratively developing and providing software that is based on Stallman's idea of software freedom](https://en.wikipedia.org/wiki/The_Free_Software_Definition) (although the written definition had not existed until February 1986).[\[10\] The manifesto was written as a way to familiarize more people with these concepts, and to find more support in form of work, money, programs and hardware.
 
-The *GNU Manifesto* possessed its name and full written form in 1985 but was updated in minor ways in 1987.[\[8\]](#page-2-0)
+The *GNU Manifesto* possessed its name and full written form in 1985 but was updated in minor ways in 1987.\[8\]
 
 ## **Summary**
 
 The *GNU Manifesto* opens with an explanation of what the GNU Project is, and what is the current, at the time, progress in creation of the [GNU operating system.](https://en.wikipedia.org/wiki/GNU) The system, although based on, and compatible with Unix, is meant by the author to have many improvements over it, which are listed in detail in the manifesto.
 
-One of the major driving points behind the GNU project, according to Stallman, was the rapid (at the time) trend toward Unix and its various components becoming proprietary (i.e. closed-source and non-libre) software.[\[11\]](#page-2-3)
+One of the major driving points behind the GNU project, according to Stallman, was the rapid (at the time) trend toward Unix and its various components becoming proprietary (i.e. closed-source and non-libre) software.\[11\]
 
 The manifesto lays a philosophical basis for launching the project, and importance of bringing it to fruition — [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) is a way to divide users, who are no longer able to help each other. Stallman refuses to write proprietary software as a sign of solidarity with them.
 
@@ -37,7 +37,7 @@ A large part of the *GNU Manifesto* is focused on rebutting possible objections 
 
 ## **Inspired by GNU Manifesto**
 
-Throughout history, the *GNU Manifesto* has inspired various other UNIX-related manifestos. Based on it, 10 years later, a popular magazine Linux Focus released its manifesto.[\[12\]](#page-2-4) 20 years later, a popular illustrations publisher has published their Linux developer manifesto.[\[13\]](#page-2-5)
+Throughout history, the *GNU Manifesto* has inspired various other UNIX-related manifestos. Based on it, 10 years later, a popular magazine Linux Focus released its manifesto.\[12\] 20 years later, a popular illustrations publisher has published their Linux developer manifesto.\[13\]
 
 # **See also**
 

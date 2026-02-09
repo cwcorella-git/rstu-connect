@@ -140,7 +140,6 @@ The last pregnancy in the cohort was censored; to calculate the mean and standar
 
 The distribution of all pregnancy lengths, adjusted for censoring, is shown in Fig. [1.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/figure/DET297F1/) Table [I](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570/table/DET297TB1/) shows mean lengths, coecients of variation and percentile values. The median time from ovulation to birth was 268 days (38 weeks, 2 days) and the mean was 267 days (38 weeks, 1 day, SD: 10 days). Implantation-based gestational age had similar variability (SD: 10 days), while LMP-based gestation was more variable (SD = 14 days). The coecient of variation was 3.7% for ovulation-based gestational length and 4.9% for LMP-based gestational length.
 
-## ![](_page_11_Figure_2.jpeg)
 
 # Discussion
 

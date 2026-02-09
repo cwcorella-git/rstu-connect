@@ -48,9 +48,6 @@ Should you need any support or advice on doing any of the above, feel free to re
 
 ## In reply to Welcomebylibcom.org
 
-## ![](_page_3_Figure_0.jpeg)
-
-## ![](_page_4_Figure_0.jpeg)
 
 ster-students-occupy-three-buildings-in-one-night-in-support-of-the-strikes-52654Also I have no idea whether occupations are even an advisable tactic at the moment, safety-wise, although I can see how students who are already living in halls and going to in-person lectures might well think "fuck it, it's not like we're not already exposed"?
 

@@ -83,4 +83,3 @@ There is also another Marxist queer feminist collective called Thu Pone, which, 
 
 You might want to update this in the essay.
 
-## ![](_page_9_Figure_0.jpeg)

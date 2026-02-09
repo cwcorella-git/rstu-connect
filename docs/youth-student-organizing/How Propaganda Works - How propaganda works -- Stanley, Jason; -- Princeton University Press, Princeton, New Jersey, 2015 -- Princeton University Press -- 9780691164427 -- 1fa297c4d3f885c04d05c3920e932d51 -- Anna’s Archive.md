@@ -35,7 +35,6 @@ This book has been composed in Sabon Next LT Pro and League Gothic
 
 ## 10 9 8 7 6 5 4 3 2 1
 
-## ![](_page_5_Figure_0.jpeg)
 
 # CONTENTS
 

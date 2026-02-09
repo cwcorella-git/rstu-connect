@@ -713,7 +713,6 @@ This chart summarizes the consensus process:
 
 **Chart 5. Basic Steps to Consensus Decision-Making**
 
-## ![](_page_34_Figure_7.jpeg)
 
 For consensus to work well, people need a common purpose; some degree of trust in each other; an understanding of the consensus process; a willingness to put the best interests of the group at the center (which does not mean people let themselves be harmed "for the good of the group," but may mean being okay not always getting their way); a willingness to spend time preparing and discussing proposals; and skillful facilitation and agenda preparation. These skills and qualities can develop as any new group learns to work together—it is okay that we don't have all these in place at the start. The greatest area of strength for most mutual aid groups is a common purpose.
 

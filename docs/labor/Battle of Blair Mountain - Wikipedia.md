@@ -18,7 +18,6 @@ For five days from late August to early September 1921, some 10,000 armed [coal 
 
 Since the founding of the [United Mine Workers](https://en.wikipedia.org/wiki/United_Mine_Workers) union in 1890, coal mines in [Mingo County, West Virginia](https://en.wikipedia.org/wiki/Mingo_County,_West_Virginia) and its surrounds hired only non-union workers, and strictly enforced employment contracts that included union membership as grounds for immediate termination[.\[9\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-FOOTNOTESavage199012-10) As miners in the area lived almost exclusively in [company towns,](https://en.wikipedia.org/wiki/Company_town) termination also meant eviction. In 1920, the UMW's new president [John L. Lewis](https://en.wikipedia.org/wiki/John_L._Lewis) sought to finally end the three-decade resistanc[e\[10\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-11) to unionization in the area. He was under increased pressure to do so from both miners
 
-## ![](_page_0_Figure_8.jpeg)
 
 elsewhere participating in the [United Mine Workers coal strike](https://en.wikipedia.org/wiki/United_Mine_Workers_coal_strike_of_1919) [of 1919,](https://en.wikipedia.org/wiki/United_Mine_Workers_coal_strike_of_1919) and from affected mine operators who were now being undercut by nonunion mines in West Virginia.[\[11\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-FOOTNOTESavage199014-12)
 
@@ -140,7 +139,6 @@ The marker is on [West Virginia 17,](https://en.wikipedia.org/wiki/West_Virginia
 
 A group of miners display one of the bombs dropped by Chafin's airplanes.
 
-## ![](_page_6_Figure_27.jpeg)
 
 - [Range war](https://en.wikipedia.org/wiki/Range_war)
 - [Sheep Wars](https://en.wikipedia.org/wiki/Sheep_Wars)

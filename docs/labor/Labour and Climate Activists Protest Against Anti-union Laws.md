@@ -41,4 +41,3 @@ action in defence of the climate. |
 | Ria Patel |
 | (Green Party Equality and Diversity spokesperson); |
 
-## ![](_page_2_Figure_0.jpeg)

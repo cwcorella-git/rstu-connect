@@ -432,7 +432,6 @@ social body)
 •
 Helps consumers establish boundaries | | |
 
-## ![](_page_62_Figure_2.jpeg)
 
 ## **Figure 1.1 – Conceptual Model**
 
@@ -619,7 +618,6 @@ AVE=.78 | (.03) | (.02) | (.08) | (.02) | (.01) | (.02) | 1.00 |
 
 **Table 1.3:** Composite Reliability Scores, Average Variance Extracted (AVE), along with the inter-correlations of the composite scores: (Note: (1) Square Rooted AVEs (Average Variance Extracted) are listed in the first colum in the table in bold) (2) NARC – G/NAD = Narcissism/Grandiosity-Need for Admiration, NARC-/A = Narcissism/Leadership-Authoritarian, NARC-A = Narcissism-Arrogance, CMC = Compulsive Consumption, CNC = Conspicuous Consumption, CON = Collapsed Narcissism, CNA = Conspicuous Asceticism, FOR = Forgiveness
 
-## ![](_page_74_Figure_4.jpeg)
 
 ## **Figure 1.2 – Empirical Model**
 
@@ -728,7 +726,6 @@ Other factors of narcissism can predict one another. Exploitativeness can be pre
 
 Another empirical model of interest was generated using a linear regression. The most accurate predictors for decreasing compulsive consumption were superiority (β = -0.360; SE = .164; t = -3.28; p =.002) and gratitude (β = -0.298; SE = .186; t = -2.72; p =.008) respectively, with an overall R2 = .261, explaining 26.1% of the variance. The third largest predictor of decreasing compulsive consumption is conspicuous consumption (β = -0.324; SE = .162; t = - 2.76; p =.007), with a R2 = .106, thus explaining 10.6% of the variance of the model summary. As previously empirically confirmed, narcissism is a suitable predictor of conspicuous consumption (β = -0.313; SE = .279; t = -2.66; p =.01), with a R2 = .106, explaining 10.6% of the total variance. The two largest predictors of conspicuous asceticism were conspicuous consumption (β = 0.648; SE = .089; t = 6.85; p 2 = .059, which explains 5.9% of the variance of the model summary.
 
-## ![](_page_95_Figure_0.jpeg)
 
 ## **Figure 2.3 – Empirical Model**
 
@@ -782,7 +779,6 @@ Modernization has created a culture of narcissism (Lasch 1979) with respect to d
 
 H4: A decrease in narcissism mediates the relationship between a high fat animal-based diet and conspicuous asceticism.
 
-## ![](_page_105_Figure_0.jpeg)
 
 ## **Figure 3.1 – Conceptual Model**
 
@@ -912,7 +908,6 @@ H1 was expressed by the relationship of consumer dietary choices and narcissism 
 
 However, H3 was unsupported, as the p>.05, thus I failed to reject the null hypothesis of consumer dietary choices influence on conspicuous consumption M[SD]: 3.00[1.37] (β = .182; SE = .309; t = 1.60; p = .113). Therefore, there is no significant and negative relationship between the two constructs since the R2 = .033, which comprises only 3.3% of the variance. Finally, H4's mediated relationship was unsubstantiated as there is no two-tailed directional relationship between narcissism and conspicuous asceticism at p>.05. While there is a significant relationship between consumer dietary choices and narcissism, the mediator effect fails as narcissism's effect on conspicuous asceticism M[SD]: 3.57[1.24] is insignificant (β = .080; SE = .180; t = .698; p = .487) with a R2 = .006, thus explaining 0.6% of the variance.
 
-## ![](_page_113_Figure_1.jpeg)
 
 ## **Figure 3.2 – Empirical Model**
 

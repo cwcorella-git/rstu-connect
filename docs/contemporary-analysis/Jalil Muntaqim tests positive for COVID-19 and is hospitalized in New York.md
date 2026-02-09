@@ -48,7 +48,6 @@ It is time for Jalil Muntaqim to come home to his family and his community!
 
 Oral arguments on whether Jalil should be released are scheduled for Thursday, May 28, at 1 p.m. Eastern, 10 a.m. Pacific. To view the live-stream of the court session, visit the home screen of the court's website, www.nycourts.gov/ad3/, and select the box for "Live Court Session Webcast."
 
-## ![](_page_3_Figure_0.jpeg)
 
 enough to show "deliberate indifference."
 

@@ -33,7 +33,6 @@ In reality, teachers often work with more than one company at the same time (at 
 
 To be fair, music can be fun, but there's no question that the real benefit of studying music is not fun, but rather the internal satisfaction and sense of fulfillment that comes from hours of hard work spent honing your skills in order to make art. I guess that doesn't sound as catchy in a marketing pitch. If parents aren't going to supervise their kid's practice, and if kids have less and less motivation to take music education seriously, there is only so much music educators can do. With the rise of privatization, music education has become a commodity like any other, and when judged in terms of its ability to provide instant gratification, a rather poor one.
 
-## ![](_page_3_Figure_3.jpeg)
 
 This speaks so much to non-music teaching as well. It's a good day when 3-5 students out of 30 have actually done the assigned texts before coming to class. And in class they are constantly on cell phones and their laptops, and they pay quite a lot to be in that class room.
 
@@ -111,7 +110,6 @@ In general it does seem like attention spans are not as long as they use dto be 
 
 I am not sure that this is connected to music specifically, although music tends to be one of those things that parents tend to make them do for other reasons which pretty much guarantees a lack of motivation. In general kids are demotivated because they can't see the point of what they are doing or the usefulness. In my opinion that's partly due to arrogance on the part of the kids and uninteresting nteaching as well as the fact that at lot of it is useless. The idea that qualifications will lead to work and a future is less and less credible.
 
-## ![](_page_10_Figure_0.jpeg)
 
 Some years ago at a psychology lecture I was told that the maximum time most children (people) could concentrate with any intensity was fifteen minutes. The point was made that children made excuses to take a break, like looking round the room, daydreaming, rearranging their socks, etc. So teachers should periodically bring the children back on task by issuing class reminders (and attempt not to reprimand).
 

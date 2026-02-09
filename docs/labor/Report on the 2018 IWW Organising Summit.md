@@ -100,7 +100,6 @@ There have been serious clashes between base-unions in Italy, there are major bu
 
 In order to avoid falling into the trap of most other union formation we need a debate that contains these two core elements:a) a programmatic debate about what a class union is, in contrast to a political organisationb) a focus on the analysis of how changes in the capitalist production process (including migration patterns etc.) changes the organisational potentials for workers
 
-## ![](_page_7_Figure_3.jpeg)
 
 | Very interesting from all parties posting above, thanks. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -656,7 +656,6 @@ Historians of ideas usually attribute the dream of a perfect society to the phil
 - Medal commemorating Louis XIV's first military revue in 1668 (B. N. Cabinet des médailles). Cf. p. 188.
 - Handwriting model (Collections historiques de l'I. N. R. D. P.). Cf. p. 152.
 
-## ![](_page_181_Figure_0.jpeg)
 
 J. Bentham. Pfan otth! Panopticon ( fra Works of Jercmy Bentham, ed. Bowring, vol. lV. 1 843. 1 72-3). Cf. o. 201 .
 

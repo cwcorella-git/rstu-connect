@@ -158,7 +158,6 @@ face up to past betrayals. |
 
 ## [7]
 
-## ![](_page_11_Figure_0.jpeg)
 
 | Kneese, T. (Apr 29, 2016). Portland fast food workers don't just want a raise—they want a
 union too. |

@@ -929,4 +929,3 @@ Jean Baudrillard (1929-2007), one of France's leading intellectuals, began teach
 
 www.press.umich.edu
 
-## ![](_page_171_Figure_6.jpeg)

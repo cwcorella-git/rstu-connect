@@ -2210,6 +2210,5 @@ Basic information for referencing this web page. We also provide [extended guida
 
 #### **Print / Share**
 
-## ![](_page_57_Figure_6.jpeg)
 
 ## **Permanent URL (This Page)**

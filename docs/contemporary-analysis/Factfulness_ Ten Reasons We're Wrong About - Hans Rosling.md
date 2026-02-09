@@ -11,7 +11,6 @@ tags:
 
 'One of the most important books I've ever read an indispensable guide to thinking clearly about the world' Bill Gates
 
-## ![](_page_0_Figure_1.jpeg)
 
 Hans Rosling with Ola Rosling and Anna Rosling Rönnlund
 
@@ -250,7 +249,6 @@ am careful only to use facts that are well documented and not disputed. Yet most
 
 Question three, for example, is about the trend in extreme poverty. Over the past twenty years, the proportion of the global population living in extreme poverty has halved. This is absolutely revolutionary. I consider it to be the most important change that has happened in the world in my lifetime. It is also a pretty basic fact to know about life on Earth. But people do not know it. On average only 7 percent—less than one in ten!—get it right.
 
-## ![](_page_13_Figure_3.jpeg)
 
 (Yes, I have been talking a lot about the decline of global poverty in the Swedish media.)
 
@@ -258,7 +256,6 @@ The Democrats and Republicans in the United States often claim that their oppone
 
 Let's take another example: question nine, about vaccination. Almost all children are vaccinated in the world today. This is amazing. It means that almost all human beings alive today have some access to basic modern health care. But most people do not know this. On average just 13 percent of people get the answer right.
 
-## ![](_page_14_Figure_3.jpeg)
 
 Eighty-six percent of people get the final question about climate change right. In all the rich countries where we have tested public knowledge in online polls, most people know that climate experts are predicting warmer weather. In just a few decades, scientific findings have gone from the lab to the public. That is a big public-awareness success story.
 
@@ -464,7 +461,6 @@ Let's check against the data. The chart on the next page shows babies per woman 
 
 Each bubble on the chart represents a country, with the size of the bubble showing the size of the country's population. The biggest bubbles are India and China. On the left of the chart are countries where women have many babies, and on the right are countries where women have few babies. The higher up a country is on the chart, the better the child survival rate in that country. This chart is exactly what my student in the third row suggested as a way of defining the two groups: "us and them," or "the West and the rest." Here I have labeled the two groups "developing and developed" countries.
 
-## ![](_page_28_Figure_3.jpeg)
 
 Look how nicely the world's countries fall into the two boxes: developing and developed. And between the two boxes there is a clear gap, containing just 15 small countries (including Cuba, Ireland, and
 
@@ -474,7 +470,6 @@ The world fits into two boxes. And these are exactly the two boxes that the stud
 
 Because this picture shows the world in 1965! When I was a young man. That's the problem. Would you use a map from 1965 to navigate around your country? Would you be happy if your doctor was using cutting-edge research from 1965 to suggest your diagnosis and treatment? The picture below shows what the world looks like today.
 
-## ![](_page_30_Figure_0.jpeg)
 
 The world has completely changed. Today, families are small and child deaths are rare in the vast majority of countries, including the largest: China and India. Look at the bottom left-hand corner. The box is almost empty. The small box, with few children and high survival, that's where all countries are heading. And most countries are already there. Eighty-five percent of mankind are already inside the box that used to be named "developed world." The remaining 15 percent are mostly in between the two boxes. Only 13 countries, representing 6 percent of the world population, are still inside the "developing" box. But while the world has changed, the worldview has not, at least in the heads of the "Westerners." Most of us are stuck with a completely outdated idea about the rest of the world.
 
@@ -510,7 +505,6 @@ On average just 7 percent picked the correct answer, C: 60 percent of girls fini
 
 When we asked similar questions about life expectancy, undernourishment, water quality, and vaccination rates—essentially asking what proportion of people in low-income countries had access to the basic first steps toward a modern life—we got the same kinds of results. Life expectancy in low-income countries is 62 years. Most people have enough to eat, most people have access to improved water, most children are vaccinated, and most girls finish primary school. Only tiny percentages—way less than the chimps' 33 percent got these answers right, and large majorities picked the worst alternative we offered, even when those numbers represented levels of misery now being suffered only during terrible catastrophes in the very worst places on Earth.
 
-## ![](_page_33_Figure_2.jpeg)
 
 Now let's close the trap, and capture the misconception. We now know that people believe that life in low-income countries is much worse than it actually is. But how many people do they imagine live such terrible lives? We asked people in Sweden and the United States:
 
@@ -538,7 +532,6 @@ How do you like your bath water? Ice cold or steam hot? Of course, those are not
 | B: Middle-income countries |
 ## | C: High-income countries |
 
-## ![](_page_35_Figure_2.jpeg)
 
 The majority of people live neither in low-income countries nor in high-income countries, but in middle-income countries. This category doesn't exist in the divided mind-set, but in reality it definitely exists. It's where 75 percent of humanity lives, right there where the gap is supposed to be. Or, to put it another way, there is no gap.
 
@@ -640,17 +633,11 @@ When we compare two averages, we risk misleading ourselves even more by focusing
 
 Look at the two (unrelated) graphs here, for example:
 
-## ![](_page_44_Figure_2.jpeg)
 
 The graph on the left shows the gap between the average math scores of men and women taking SAT tests in the United States, for every year since 1965. The graph on the right shows the gap between the average income of people living in Mexico and the United States. Look at the huge differences between the two lines in each graph. Men versus women. United States versus Mexico. These graphs seem to show that men are better at math than women, and that people living in the United States have a higher income than Mexicans. And in a sense this is true. It is what the numbers say. But in what sense? To what extent? Are all men better than all women? Are all US citizens richer than all Mexicans?
 
 Let's get a better sense of the reality behind the numbers. First, let's change the scale on the vertical axis. Using the same numbers, we now get a very different impression. Now the "gap" seems almost gone.
 
-## ![](_page_45_Figure_0.jpeg)
-
-## ![](_page_45_Figure_2.jpeg)
-
-## ![](_page_45_Figure_3.jpeg)
 
 Now let's look at the same data in a third way. Instead of looking at the averages each year, let's look at the range of math scores, or incomes, in one particular year.
 
@@ -671,11 +658,9 @@ Take Brazil, one of the world's most unequal countries. The richest 10 percent i
 
 Yes, the number is disturbingly high. At the same time, it hasn't been this low for many years.
 
-## ![](_page_47_Figure_1.jpeg)
 
 Statistics are often used in dramatic ways for political purposes, but it's important that they also help us navigate reality. Let's now look at the incomes of the Brazilian population across the four levels.
 
-## ![](_page_47_Figure_4.jpeg)
 
 Most people in Brazil have left extreme poverty. The big hump is on Level 3. That's where you get a motorbike and reading glasses, and save money in a bank to pay for high school and someday buy a washing machine. In reality, even in one of the world's most unequal countries, there is no gap. Most people are in the middle.
 
@@ -787,7 +772,6 @@ Remember the four income levels from chapter 1? In the year 1800, roughly 85 per
 
 Level 1 is where all of humanity started. It's where the majority always lived, until 1966. Until then, extreme poverty was the rule, not the exception.
 
-## ![](_page_56_Figure_5.jpeg)
 
 The curve you see above shows how the extreme poverty rate has been falling since 1800. And look at the last 20 years. Extreme poverty dropped faster than ever in world history.
 
@@ -813,11 +797,9 @@ Back in 1800, when Swedes starved to death and British children worked in coal m
 
 The average life expectancy across the world today is 70. Actually, it's better than that: it's 72. Here are the results of some polling.
 
-## ![](_page_58_Figure_4.jpeg)
 
 This is one of those questions where the better educated you are, the more ignorant you seem to be. In most countries where we tested, members of the public just about beat the chimps. (The full country breakdown is in the appendix.) But in our more highly educated audiences, the most popular answer was 60 years. That would have been correct if we had asked the question in 1973 (the year when 200,000 people starved to death in Ethiopia). But we asked it in this decade, more than 40 years of progress later. People live on average ten years longer now. We humans have always struggled hard to make our families survive, and finally we are succeeding.
 
-## ![](_page_59_Figure_1.jpeg)
 
 When I show this amazing graph, people often ask, "What is the most recent dip there?," and they point at 1960. If you don't know already, this is a great opportunity for me to attack the misconception that the world is getting worse.
 
@@ -841,7 +823,6 @@ Now this next bit is exciting.
 
 The trail of little bubbles shows Sweden's health and wealth for every year since 1800. What tremendous progress! I have highlighted some countries that correspond, in 2017, to important years from Sweden's past.
 
-## ![](_page_62_Figure_1.jpeg)
 
 1948 was a very important year. The Second World War was over, Sweden topped the medals table at the Winter Olympics, and I was born. The Sweden I was born into in 1948 was where Egypt is on the health-wealth map today. That is to say, it was right in the middle of
 
@@ -871,97 +852,81 @@ But I can't fit all these explanations into this book, so here are just the char
 
 Countries where forced labor is legal or practiced by the state (out of 194)
 
-## ![](_page_65_Figure_3.jpeg)
 
 ## EXPENSIVE SOLAR PANELS
 
 ## Average price of PV modules (\$/Wp)
 
-## ![](_page_65_Figure_6.jpeg)
 
 ### CHILDREN DYING
 
 ## Percent dying before their fifth birthday
 
-## ![](_page_65_Figure_9.jpeg)
 
 ### **DEATH PENALTY**
 
 ## Countries with death penalty (of 194)
 
-## ![](_page_65_Figure_12.jpeg)
 
 ### OIL SPILLS
 
 1,000 tons oil spilled from tanker ships
 
-## ![](_page_65_Figure_15.jpeg)
 
 ### HIV INFECTIONS
 
 ## New HIV infections per million people
 
-## ![](_page_65_Figure_18.jpeg)
 
 ### **BATTLE DEATHS**
 
 ## Battle deaths per 100,000 people
 
-## ![](_page_65_Figure_21.jpeg)
 
 ### LEADED GASOLINE
 
 ## Countries allowing lead in gasoline (of 194)
 
-## ![](_page_65_Figure_24.jpeg)
 
 ### PLANE CRASH DEATHS
 
 Deaths per 10 billion passenger miles (5-year averages)
 
-## ![](_page_66_Figure_2.jpeg)
 
 ### **DEATHS FROM DISASTER**
 
 1,000 deaths/year (10-year averages)
 
-## ![](_page_66_Figure_5.jpeg)
 
 ### **SMALLPOX**
 
 ## Countries with smallpox cases (of 194)
 
-## ![](_page_66_Figure_8.jpeg)
 
 ### OZONE DEPLETION
 
 1,000 tons ozone-depleting substances used
 
-## ![](_page_66_Figure_11.jpeg)
 
 ### CHILD LABOR
 
 Share of children aged 5-14 who work full time under bad conditions
 
-## ![](_page_66_Figure_14.jpeg)
 
 ### **NUCLEAR ARMS**
 
 1,000s of nuclear warheads
 
-## ![](_page_66_Figure_17.jpeg)
 
 ### **SMOKE PARTICLES**
 
 ## Kg SO2 particles emitted per person
 
-## ![](_page_66_Figure_20.jpeg)
 
 ### HUNGER
 
 ## Share of people undernourished
 
-## ![](_page_66_Figure_23.jpeg)
 
 ### 16 GOOD THINGS INCREASING
 
@@ -969,57 +934,46 @@ Share of children aged 5-14 who work full time under bad conditions
 
 ## Number of new feature films per year
 
-## ![](_page_67_Figure_3.jpeg)
 
 ### PROTECTED NATURE
 
 Share of Earth's land surface protected as national parks and other reserves
 
-## ![](_page_67_Figure_6.jpeg)
 
 ### WOMEN'S RIGHT TO VOTE
 
 ## Countries with equal rights for women
 
-## ![](_page_67_Figure_9.jpeg)
 
 ### **NEW MUSIC**
 
 ## New music recordings per year
 
-## ![](_page_67_Figure_12.jpeg)
 
 ### SCIENCE
 
 ## Scholarly articles published per year
 
-## ![](_page_67_Figure_15.jpeg)
 
 ### **HARVEST**
 
 ## Cereal yield (thousand kg per hectare)
 
-## ![](_page_67_Figure_18.jpeg)
 
 ### LITERACY
 
 ## Share of adults (15+) with basic skills to
 
-## ![](_page_67_Figure_21.jpeg)
 
 ### DEMOCRACY
 
 ## Share of humanity living in democracy
 
-## ![](_page_67_Figure_24.jpeg)
-
-## ![](_page_68_Figure_0.jpeg)
 
 It is hard to see any of this global progress by looking out your window. It is taking place beyond the horizon. But there are some clues you can tune into, if you pay close attention. Listen carefully. Can you hear a child practicing the guitar or the piano? That child has not drowned, and is instead experiencing the joy and freedom of making music.
 
 The goal of higher income is not just bigger piles of money. The goal of longer lives is not just extra time. The ultimate goal is to have the freedom to do what we want. Me, I love the circus, and playing computer games with my grandchildren, and zapping through TV channels. Culture and freedom, the goals of development, can be hard to measure, but guitars per capita is a good proxy. And boy, has that improved. With beautiful statistics like these, how can anyone say the world is getting worse?
 
-## ![](_page_69_Figure_4.jpeg)
 
 # **The Negativity Instinct**
 
@@ -1045,9 +999,6 @@ At the same time, activists and lobbyists skillfully manage to make every dip in
 
 The majority of people, the vast majority of the time, believe that violent crime is getting worse.
 
-## ![](_page_72_Figure_3.jpeg)
-
-## ![](_page_72_Figure_6.jpeg)
 
 No wonder we get an illusion of constant deterioration. The news constantly alerts us to bad events in the present. The doom-laden feeling that this creates in us is then intensified by our inability to remember the past; our historical knowledge is rosy and pink and we fail to remember that, one year ago, or ten years ago, or 50 years ago, there was the same number of terrible events, probably more. This illusion of deterioration creates great stress for some people and makes other people lose hope. For no good reason.
 
@@ -1157,7 +1108,6 @@ I rarely get speechless, but it happened the first time I asked an audience the 
 
 There are 2 billion children in the world today, aged 0 to 15 years old. How many children will there be in the year 2100, according to the UN?
 
-## ![](_page_82_Figure_5.jpeg)
 
 Before asking the question, I had told the teachers, "One of these three lines shows the official UN forecast. The other two lines, I just made up."
 
@@ -1173,7 +1123,6 @@ Thinking it over more calmly after the teachers' conference was over, I started 
 
 This graph shows the world population since the year 8000 BC. That's when agriculture was invented.
 
-## ![](_page_84_Figure_0.jpeg)
 
 Back then, the total human population was roughly 5 million people, spread along coastlines and rivers all over the world. The total of humanity was smaller than the population of one of our big cities today: London, Bangkok, or Rio de Janeiro.
 
@@ -1185,11 +1134,9 @@ But our straight line intuition is not always a reliable guide in modern life.
 
 When looking at a line graph, for example, it's nearly impossible *not* to imagine a straight line that stretches beyond the end of the trend, into the future. On the population graph on the next page, I added the dashed line to clarify what I think people are instinctively imagining. Of course they get worried.
 
-## ![](_page_85_Figure_1.jpeg)
 
 Let me now give you another example that I know you are more familiar with. My youngest grandchild, Mino, was 19.5 inches long when he was born. In his first six months he grew to 26.5 inches. An impressive growth of seven inches. Impressive, but also scary. Look at his growth chart. I have added the intuitive straight line into the future. It's terrifying, isn't it?
 
-## ![](_page_86_Figure_1.jpeg)
 
 If Mino *just* continues growing, he will be 60 inches tall on his third birthday—a five-foot toddler. By his tenth birthday he will be 160 inches tall—over 13 feet. And then what? This can't *just* continue! Somebody must do something drastic! Mino's parents will have to remodel their house or find some medication!
 
@@ -1197,7 +1144,6 @@ The straight line intuition is obviously wrong in this case. Why is it obvious? 
 
 The UN population experts have firsthand experience of calculating population sizes. It's their job. This is the line they expect:
 
-## ![](_page_87_Figure_0.jpeg)
 
 The world population today is 7.6 billion people, and yes, it's growing fast. Still, the growth has already started to slow down, and the UN experts are pretty sure it will keep slowing down over the next few decades. They think the curve will flatten out at somewhere between 10 and 12 billion people by the end of the century.
 
@@ -1217,7 +1163,6 @@ The UN predicts that by 2100 the world population will have increased by another
 
 This one, I'll give you the answer right away. The correct answer is B. The experts are convinced the population will keep growing, mainly because there will be more adults. Not more children and not more very old people. More adults. Here's the same population graph I just showed you, but now separating children and adults:
 
-## ![](_page_88_Figure_2.jpeg)
 
 The number of children is not expected to increase, which we know already from this chapter's first fact question. Now look closely at the children line in this graph. Can you see when it gets flat? Can you see that it is already happening? The UN experts are not *predicting* that the number of children *will* stop increasing. They are *reporting* that it is already happening. The radical change that is needed to stop rapid population growth is that the number of children stops growing. And that is already happening. How could that be? That, everybody should know.
 
@@ -1225,7 +1170,6 @@ Attention, now! Because this next chart is the most dramatic in this book. It sh
 
 When I was born in 1948, women on average gave birth to five children each. After 1965 the number started dropping like it never had done before. Over the last 50 years it dropped all the way to the amazingly low world average of just below 2.5.
 
-## ![](_page_89_Figure_2.jpeg)
 
 This dramatic change happened in parallel with all those other improvements I described in the last chapter. As billions of people left extreme poverty, most of them decided to have fewer children. They no longer needed large families for child labor on the small family farm. And they no longer needed extra children as insurance against child mortality. Women and men got educated and started to want better-educated and better-fed children: and having fewer of them was the obvious solution. In practice, that goal was easier to realize thanks to the wonderful blessing of modern contraceptives, which let parents have fewer children without having less sex.
 
@@ -1237,7 +1181,6 @@ But then, if the number of births has already stopped increasing, where are the 
 
 The chart on the next page shows the population of the world divided into age groups, in 2015 and then every 15 years after that.
 
-## ![](_page_90_Figure_4.jpeg)
 
 On the left, the chart shows the ages of the 7 billion people alive in 2015: 2 billion were aged 0 to 15, 2 billion aged 15 to 30, and then there were 1 billion each in the 30 to 45, 45 to 60, and 60 to 75 age groups.
 
@@ -1263,7 +1206,6 @@ Today, humanity is once again reaching a balance. The number of parents is no lo
 
 The population grew from 1.5 billion in 1900 to 6 billion in 2000 because humanity went through a transition from one balance to another during the twentieth century, a unique period of human history when two parents on average produced more than two children who survived to become parents themselves in the next generation.
 
-## ![](_page_93_Figure_0.jpeg)
 
 That period of imbalance is the reason why today the two youngest generations are larger than the others. That period of imbalance is the reason behind the fill-up. But the new balance is already achieved: the annual number of births is no longer increasing. If extreme poverty keeps falling, and sex education and contraception keep spreading, then the world population will keep growing fast, but only until the inevitable fill-up is completed.
 
@@ -1281,7 +1223,6 @@ When combining all the parents living on Levels 2, 3, and 4, from every region o
 
 The poorest 10 percent combined still have five children on average. And on average, every second family living in extreme poverty loses one of their children before he or she reaches the age of five. That is shamefully high, but still far better than the ghastly levels that kept population growth down in the bad old times.
 
-## ![](_page_95_Figure_1.jpeg)
 
 When people hear that the population is growing, they intuitively think it will continue to grow unless something is done. They intuitively visualize the trend continuing into the future. But remember, for my grandchild Mino to stop growing taller, nothing drastic needs to be done.
 
@@ -1309,13 +1250,11 @@ The best way of controlling the instinct to always see straight lines whether in
 
 Straight lines are much less common than we tend to think, but some lines are straight. Below is a simplified version of the wealth and health chart you have seen before. Instead of all the bubbles, we can draw a line where most of the bubbles are. Some bubbles are above the line and others are below but you can see that in general they cluster around a straight line.
 
-## ![](_page_98_Figure_2.jpeg)
 
 In this chart, money and health go hand in hand. We don't know from just looking at the line which comes first or what the relationship is between the two. It might be that a healthy population produces more income. It might be that a rich population can afford better health. I think both are true. What we do know from such a line is that in general where income is higher, health is better.
 
 We can also find straight lines when we compare income levels with education, marriage age, and spending on recreation. More income goes hand in hand with longer average schooling, with women marrying later, and with a greater share of income going toward recreation.
 
-## ![](_page_99_Figure_0.jpeg)
 
 ## **S-Bends**
 
@@ -1323,13 +1262,11 @@ When we compare income with basic necessities like primary-level education or va
 
 Remembering about this kind of curve will help you to improve your guessing about the world: on Level 2, almost everyone can already afford to have their basic physical needs met.
 
-## ![](_page_100_Figure_0.jpeg)
 
 ## **Slides**
 
 The babies-per-woman curve looks like a slide in a playground. It starts flat, then, after a certain level of income, it slopes downward, and then it flattens out and stays quite low, just below two babies per woman.
 
-## ![](_page_101_Figure_2.jpeg)
 
 Shifting away from income graphs for a moment, we see a similar shape for the cost of vaccinations. In basic math classes, we teach children to multiply. If an injection costs \$10, what's the price of a million injections? UNICEF knows how to count but it has also saved millions of children's lives by not accepting a straight line. It has negotiated huge contracts with pharmaceutical companies, in which the price is cut to the bare minimum in return for guaranteed long contracts. But when you have negotiated to the bottom price, you can't get lower. That's another slide-shaped curve.
 
@@ -1343,7 +1280,6 @@ Dental health, for example, gets worse as people move from Level 1 to Level 2, t
 
 Motor vehicle accidents show a similar hump-shaped pattern. Countries on Level 1 have fewer motor vehicles per person, so they do not have many motor vehicle accidents. In countries on Levels 2 and 3, the poorest people keep walking the roads while others start to travel by motor vehicles—minibuses and motorcycles—but roads, traffic regulations, and traffic education are still poor, so accidents reach a peak, before they decline again in countries on Level 4. The same goes for child drownings as a percentage of all deaths.
 
-## ![](_page_102_Figure_4.jpeg)
 
 Like tomatoes, human beings need water to survive. But if you drink six liters at once, you will die. The same goes for sugar, fat, and medicines. Actually, everything you need to survive is lethal in high dosage. Too much stress is bad, but the right amount improves performance. Self-confidence has its optimal dosage. The intake of dramatic news from the rest of the world probably has its optimal dosage too.
 
@@ -1351,7 +1287,6 @@ Like tomatoes, human beings need water to survive. But if you drink six liters a
 
 Finally, doubling. The doubling pattern of the Ebola virus is actually a very common type of pattern in nature. For example, the number of *E. coli* bacteria in a body can explode in just a few days because it can double every 12 hours: 1, 2, 4, 8, 16, 32 … The world of transport also contains many doubling patterns. As people's incomes increase, the distance they travel each year keeps doubling. So does the share of their income that they spend on transport. On Level 4, transport is behind one-third of all CO emissions—which also double with income. 2
 
-## ![](_page_103_Figure_3.jpeg)
 
 Most people's incomes grow much slower than bacteria, unfortunately. Still, even if your income increases by only 2 percent a year, after 35 years it will have doubled. And then, if you maintain 2 percent growth, in another 35 years it will have doubled again. Over 200 years—if you lived that long—it would double six times, which is exactly what we saw in Sweden's bubble trail in the last chapter, and which is typically the slow and steady way countries have moved from Level 1 to Level 4. The graph on the next page shows how six doublings move you across all four income levels.
 
@@ -1359,7 +1294,6 @@ I have divided the levels in this way because that's how money works. The impact
 
 By the way, the scales for measuring earthquakes, sound levels, and pH works in the same way.
 
-## ![](_page_104_Figure_5.jpeg)
 
 # **How Much of the Curve Do You See?**
 
@@ -1471,7 +1405,6 @@ The reason natural disasters kill so many fewer people today is not that nature 
 
 Thanks to better education, new affordable solutions, and global collaborations, the decrease in death rates is impressive even among those who are stuck on Level 1—as shown in the image on the next page. (We look at averages of 25-year periods because natural disasters don't occur at an even rate each year. Even so, just one event, the heat wave in Europe in 2003, was largely responsible for the fourfold increase in the death rate on Level 4.)
 
-## ![](_page_114_Figure_3.jpeg)
 
 Back in 1942, Bangladesh was on Level 1 and almost all its citizens were illiterate farmers. Over a two-year period it suffered terrible floods, droughts, and cyclones. No international organization came to the rescue and 2 million people died. Today, Bangladesh is on Level 2. Today, almost all Bangladeshi children finish school, where they learn that three red-and-black flags means everyone must run to the evacuation centers. Today, the government has installed across the country's huge river delta a digital surveillance system connected to a freely available flood-monitoring website. Just 15 years ago, no country in the world had such an advanced system. When another cyclone hit in 2015, the plan worked and the World
 
@@ -1483,7 +1416,6 @@ The UN's Relief Web has become a global coordinator for disaster help—somethin
 
 Unfortunately, the people on Level 4 paying for Relief Web are the same people we asked about the trend in natural disasters. Ninetyone percent of them are unaware of the success they are paying for because their journalists continue to report every disaster as if it were the worst. The long, elegantly dropping trend line, a bit of fact-based hope, they think is not newsworthy.
 
-## ![](_page_116_Figure_2.jpeg)
 
 Next time the news shows you horrific images of victims trapped under collapsed buildings, will you be able to remember the positive long-term trend? When the journalist turns to the camera and says, "The world just became a bit more dangerous," will you be able to disagree? To look at the local rescue crew in their colorful helmets and think, "Most of their parents couldn't read. But these guys are following internationally used first-aid guidelines. The world is getting better."
 
@@ -1505,7 +1437,6 @@ In 2016 a total of 40 million commercial passenger flights landed safely at thei
 
 This graph shows plane crash deaths per 10 billion commercial passenger miles over the last 70 years. Flying has gotten 2,100 times safer.
 
-## ![](_page_118_Figure_2.jpeg)
 
 Back in the 1930s, flying was really dangerous and passengers were scared away by the many accidents. Flight authorities across the world had understood the potential of commercial passenger air traffic, but they also realized flying had to become safer before most people would dare to try it. In 1944 they all met in Chicago to agree on common rules and signed a contract with a very important Annex 13: a common form for incident reports, which they agreed to share, so they could all learn from each other's mistakes.
 
@@ -1523,7 +1454,6 @@ I do not seek to trivialize the horror that undoubtedly remains. I do not try to
 
 The Syrian conflict will most likely prove to be the deadliest in the world since the Ethiopian-Eritrean war of 1998 to 2000. We don't know the total fatalities yet and we don't know if the conflict will spread. If fatalities end up being in the tens of thousands, the conflict will have been less bloody than the worst wars of the 1990s. If the death toll reaches 200,000, this will still fall short of the wars of the 1980s. This is no comfort whatsoever to those living through this horror, but the fact that battle deaths are falling decade by decade should be some comfort to the rest of us.
 
-## ![](_page_120_Figure_2.jpeg)
 
 The general trend toward less violence is not just one more improvement. It is the most beautiful trend there is. The spread of peace over the last decades has enabled all the other improvements we have seen. We must take care of this fragile gift if we hope to achieve our other noble goals, such as collaboration toward a sustainable future. Without world peace, you can forget about all other global progress.
 
@@ -1579,7 +1509,6 @@ It turned out Wikipedia unintentionally presented a very distorted worldview. It
 
 No matter how much I love Wikipedia, we still need serious researchers to maintain reliable data sets. But they need more resources so they can update them quicker.
 
-## ![](_page_126_Figure_2.jpeg)
 
 However, while terrorism has been increasing worldwide, it has actually been decreasing on Level 4. In 2007 to 2016 a total of 1,439 people were killed by terrorists in countries on Level 4. During the ten years before that, 4,358 were killed. That includes the largest attack ever, the 2,996 people who died on 9/11 in 2001. Even if we exclude them, the death toll on Level 4 has remained the same between the two latest ten-year periods. It was on Levels 1, 2, and 3 that there was a terrible increase in terror-related deaths. Most of that increase was in five countries: Iraq (which accounted for almost half the increase), Afghanistan, Nigeria, Pakistan, and Syria.
 
@@ -1737,7 +1666,6 @@ That is all there is to the 80/20 rule. We tend to assume that all items on a li
 
 For example, here's a list of the world's energy sources, in alphabetical order: biofuels, coal, gas, geothermal, hydro, nuclear, oil, solar, wind. Presented like that, they all seem equally important. If we instead sort them according to how many units of energy they generate for humanity, three outnumber all the rest, as this graph shows.
 
-## ![](_page_139_Figure_6.jpeg)
 
 To give myself the big picture I would use the 80/20 rule, which tells us that oil+coal+gas give us more than 80 percent of our energy: 87 percent in fact.
 
@@ -1766,7 +1694,6 @@ If the UN forecasts for population growth are correct, and if incomes in Asia an
 
 People in North America and Europe need to understand that most of the world population lives in Asia. In terms of economic muscles "we" are becoming the 20 percent, not the 80 percent. But many of "us" can't fit these numbers into our nostalgic minds. Not only do we misjudge how big our war monuments should be in Vietnam, we also misjudge our importance in the future global marketplace. Many of us forget to behave properly with those who will control the future trade deals.
 
-## ![](_page_142_Figure_3.jpeg)
 
 # **Divide the Numbers**
 
@@ -1870,7 +1797,6 @@ How many of the world's 1-year-old children today have been vaccinated against s
 
 To compare ignorance between different kinds of experts, the regular polling companies couldn't help me. They don't have access to the staff of big corporations and government organizations. That's one reason I started polling my audience at the start of my lectures. I have tested a total of 12,596 people at 108 lectures over the last five years. This question gets the worst results. Look at the table on the next page, where I have ranked 12 groups of experts according to how many picked the most incorrect answer.
 
-## ![](_page_150_Figure_8.jpeg)
 
 The worst results come from an annual gathering of global finance managers at the headquarters of one of the world's ten largest banks. I have visited three of them. I can't tell you which one this was, because I signed a piece of paper. A roaring 85 percent of the 71 well-dressed bankers in the room believed that a minority of the world's children had been vaccinated. An extremely wrong answer.
 
@@ -1938,13 +1864,11 @@ Anna has so far sent photographers out to visit about 300 families in more than 
 
 What the photos make clear is that the main factor that affects how people live is not their religion, their culture, or the country they live in, but their income.
 
-## ![](_page_157_Figure_3.jpeg)
 
 Here are some toothbrushes from families with different income levels. On Level 1 you brush with your finger or a stick. On Level 2 you get a plastic toothbrush. On Level 3 you get one each. And Level 4 you are already familiar with.
 
 The bedrooms (or kitchens or living rooms) of families living on Level 4 look very similar in the United States, Vietnam, Mexico, South Africa, or anywhere else in the world.
 
-## ![](_page_158_Figure_2.jpeg)
 
 The way a family living on Level 2 in China stores and prepares food looks very similar to the way a family living on Level 2 in Nigeria stores and prepares food.
 
@@ -1995,7 +1919,6 @@ Remember the similarities between the cooking pots of families on Level 2 in Nig
 
 When someone says that an individual did something because they belong to some group—a nation, a culture, a religion—take care. Are there examples of different behavior in the same group? Or of the same behavior in other groups?
 
-## ![](_page_162_Figure_1.jpeg)
 
 Africa is a huge continent of 54 countries and 1 billion people. In Africa we find people living at every level of development: in the bubble chart above I have highlighted all the African countries. Look at Somalia, Ghana, and Tunisia. It makes no sense to talk about "African countries" and "Africa's problems" and yet people do, all the time. It leads to ridiculous outcomes like Ebola in Liberia and Sierra Leone affecting tourism in Kenya, a 100-hour drive across the continent. That is farther than London to Tehran.
 
@@ -2097,7 +2020,6 @@ By now I hope you have worked out that the safest thing to do in this book is to
 
 Many of my fellow Europeans have a snobbish self-regard built on an illusion of a European culture that is superior, not only to African and Asian cultures, but also to American consumer culture. When it comes to drama, though, I wonder who consumes the most. Twentysix percent of the US public picked the right answer, compared with 13 percent in Spain and Belgium, 10 percent in Finland, and just 8 percent in Norway.
 
-## ![](_page_172_Figure_4.jpeg)
 
 The question is about gender inequality, which is currently discussed in the Scandinavian media on a daily basis. We see constant examples of the brutal violence committed against women out there, mostly elsewhere, in the rest of the world, as well as reports from places like Afghanistan, where many, many girls are out of school. These images confirm a popular idea in Scandinavia that gender equality elsewhere has not improved—that most other cultures are stuck.
 
@@ -2145,7 +2067,6 @@ At the end of my opening lecture in my 1998 course on global health, most studen
 
 My student said this to me in perfect Swedish with a clear Stockholm accent: she had obviously lived in Sweden her whole life. I was stunned. All I had done was to briefly show UN data for Iran on the increase in life expectancy and decrease in babies per woman. I had mentioned too that it was quite an achievement—actually the fastest drop ever, from more than six babies per woman in 1984 down to fewer than three babies per woman just 15 years later.
 
-## ![](_page_176_Figure_4.jpeg)
 
 It was one of several little-known examples I had shown of fast changes in middle-income countries in the 1990s.
 
@@ -2163,7 +2084,6 @@ Back in 1960 this didn't seem so obvious. In 1960, there were 40 countries where
 
 How does it look today? In the bubble graphs on the next page, I have divided the world into three groups based on religion: Christian, Muslim, or other. I have then shown babies per woman and income for each group. As usual the size of the bubble reflects the size of the population. Look how Christian populations are spread out on all income levels. Look how the Christian populations on Level 1 have many more babies. Now look at the other two graphs. The pattern is very similar: regardless of religion, women have more children if they live in extreme poverty on Level 1.
 
-## ![](_page_178_Figure_4.jpeg)
 
 Today, Muslim women have on average 3.1 children. Christian women have 2.7. There is no major difference between the birth rates of the great world religions.
 
@@ -2325,7 +2245,6 @@ I could have picked other examples. This is not about activists for women's righ
 
 ## C: None of them
 
-## ![](_page_191_Figure_2.jpeg)
 
 Humans have plundered natural resources across the planet. Natural habitats have been destroyed and many animals hunted to extinction. This is clear. But activists who devote themselves to protecting vulnerable animals and their habitats tend to make the same mistake I've just described: desperately trying to make people care, they forget about progress.
 
@@ -2401,7 +2320,6 @@ I showed them Cuba's special position on my health and wealth bubble chart. It h
 
 However, that was not the message that everyone had taken from my presentation. As I moved toward the refreshments, a young man gently grabbed my arm. He softly dragged me out of the flow of the crowd, explaining that he worked with health statistics. Then he leaned his head close to mine and with his mouth close to my ear he courageously whispered, "Your data is correct but the conclusion of the minister is completely wrong." He looked at me as if it were a quiz, then answered his own question. "We are not the healthiest of the poor, we are the poorest of the healthy."
 
-## ![](_page_198_Figure_0.jpeg)
 
 He let go of my arm and swiftly walked away, smiling. Of course, he was right. The Cuban minister had described things from the government's single-minded perspective, but there was also another way of looking at things. Why be pleased with being the healthiest of the poor? Don't the Cuban people deserve to be as rich, and as free, as those in other healthy states?
 
@@ -2413,7 +2331,6 @@ Ideologues will invite you to contrast the United States with Cuba. They will in
 
 The United States spends more than twice as much per capita on health care as other capitalist countries on Level 4—around \$9,400 compared to around \$3,600—and for that money its citizens can expect lives that are three years shorter. The United States spends more per capita on health care than any other country in the world, but 39 countries have longer life expectancies.
 
-## ![](_page_200_Figure_2.jpeg)
 
 Instead of comparing themselves with extreme socialist regimes, US citizens should be asking why they cannot achieve the same levels of health, for the same cost, as other capitalist countries that have similar resources. The answer is not difficult, by the way: it is the absence of the basic public health insurance that citizens of most other countries on Level 4 take for granted. Under the current US system, rich, insured patients visit doctors more than they need, running up costs, while poor patients cannot afford even simple, inexpensive treatments and die younger than they should. Doctors spend time that could be used to save lives or treat illness providing unnecessary, meaningless care. What a tragic waste of physician time.
 
@@ -2553,7 +2470,6 @@ We got excited by this idea and decided to try to test it, but the polling compa
 
 When people tell me things are impossible, that's when I get really excited to try. In my calendar for that year were two media conferences, so I took our polling devices along. A 20-minute lecture is too short for all my questions, but I could ask some. Here are the results. I also include in the table the results from a conference of leading documentary film producers—people from the BBC, PBS, National Geographic, the Discovery Channel, and so on.
 
-## ![](_page_210_Figure_3.jpeg)
 
 It seems that these journalists and filmmakers know no more than the general public, i.e., less than chimpanzees.
 
@@ -3148,55 +3064,42 @@ To learn more about the methodology of these polls and the supporting data behin
 
 ## Education of girls in low-income countries
 
-## ![](_page_262_Figure_2.jpeg)
 
 ## Majority income level
 
-## ![](_page_263_Figure_2.jpeg)
 
 ## Extreme poverty
 
-## ![](_page_264_Figure_2.jpeg)
 
 ### Lifespan
 
-## ![](_page_265_Figure_2.jpeg)
 
 Future number of children1
 
-## ![](_page_266_Figure_2.jpeg)
 
 ## More people
 
-## ![](_page_267_Figure_2.jpeg)
 
 ### Natural disasters
 
-## ![](_page_268_Figure_2.jpeg)
 
 ## Where people live
 
-## ![](_page_269_Figure_2.jpeg)
 
 ## Vaccination of children
 
-## ![](_page_270_Figure_2.jpeg)
 
 ## Women's education
 
-## ![](_page_271_Figure_2.jpeg)
 
 ### Endangered animals
 
-## ![](_page_272_Figure_2.jpeg)
 
 ### Electricity
 
-## ![](_page_273_Figure_2.jpeg)
 
 ### Climate
 
-## ![](_page_274_Figure_2.jpeg)
 
 Number of correct answers out of the first twelve questions
 
@@ -3204,7 +3107,6 @@ Number of correct answers out of the first twelve questions
 
 Share of people by number of correct answers on the twelve questions. (12,000 people in 14 countries.)
 
-## ![](_page_275_Figure_2.jpeg)
 
 Sources: Novus[1] & Ipsos MORI[1], See gapm.io/rtest17
 

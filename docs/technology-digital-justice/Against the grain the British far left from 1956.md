@@ -37,7 +37,6 @@ Anarchists played an important role in. |
 | Fozzie |
 | 6 years 3 months ago |
 
-## ![](_page_2_Figure_0.jpeg)
 
 ## Noah Fence
 
@@ -49,11 +48,9 @@ I found it vague and Punk is as Anarchist as Rockabilly
 
 I don't want to be antagonistic but I have to say the second part of this sentence really is just ignorant and silly. I'm guessing that you had nothing to do with anarcho-punk and have never read any of the lyrics, zines, pamphlets or any of the publications from Exitstencil Press?Yes, anarcho-punk politics were mostly shit, but they weren't all shit - as a teenager I was introduced to such ideas as direct action, feminism, opposition to hierarchy and most importantly, that the state both unjustifiable and unnecessary. How the fuck is that nothing to do with anarchism? Anyways, this set me up for a lifetime of questioning authority and eventually lead me to communism. Maybe if the 'real'(ugh!) anarchists of the day had engaged with me and others like me, instead of turning their noses up at what they perceived as 'not proper anarchists' then maybe some more value could have been extracted from the damn thing. As it was, plenty of people eventually found their way to anarchism/communism after walking through the anarcho-punk gateway and I'll wager that there are plenty on this forum that were introduced to anarchism by that very route. Still, what a missed opportunity to connect with hundreds of thousands of young people who at least knew, if they knew nothing else, that the political system was fucked up and needed to be destroyed. What better ground could there be for introducing class analysis and organisation, and how like anarchists to be insular snobby purist fucking wankers and pass up that opportunity. I was one of those working class kids - undereducated and frustrated and with very limited ability express my anger and frustration or to research for solid ideological theory or practice, yet I did my best, wrote lyrics for the band we formed, made my own pitiful attempts at protesting etc. Got beaten and locked up by the cops, lived with a life with a criminal record as a result of trying to create some change. Maybe I could have been taught what battles to choose instead of the stupid ineffective shit that I did? But nope, we knew fuck all about political history and theory, Crass were middle class, the music was rubbish, and so it was better to throw a massive opportunity to build a mass movement on to the dump of history and stay in the purist ghetto.
 
-## ![](_page_4_Figure_0.jpeg)
 
 been got by the comment I ranted about."Beasts of Burden"? No. What's that?
 
-## ![](_page_5_Figure_0.jpeg)
 
 about Anarchism and it was vague to say the least. The only reason Anarchy was associated with Punk was because Lydon could think of no other word to rhyme with Anti Christ in Anarchy in the UK. Incidental at best and ignorant at worst. I'm working class and was involved in that scene and still love the music and appreciate the real passion of some in that scene so please don't take what I said as an insult. Maybe im old bitter and fucking angry at the malaise Anarchism is in and the myriad of misconceptions that fuck it over. Crass were middle class life stylists but they had an effect on me and helped me kick Religion at 15 years old but at best it acts as a prompt and because of the genre it becomes a pose or lifestyle. It should be kept in context but in hindsight any movement that relies on a music scene to rejuvenate it is in a sad state.
 

@@ -14,7 +14,7 @@ tags:
 
 CASTLE ROCK v. GONZALES 366 F. 3d 1093, reversed.
 
-- **Syllabus** [\[Syllabus\]](#page-1-0) [\[PDF\]](https://www.law.cornell.edu/supct/pdf/04-278.pdf)
+- **Syllabus** \[Syllabus\] [\[PDF\]](https://www.law.cornell.edu/supct/pdf/04-278.pdf)
 - **Opinion**, Scalia [Scalia Opinion] [\[PDF\]](https://www.law.cornell.edu/supct/pdf/04-278.pdf)
 - **Concurrence**, Souter [Souter Concurrence] [\[PDF\]](https://www.law.cornell.edu/supct/pdf/04-278.pdf)
 - **Dissent**, Stevens [Stevens Dissent] [\[PDF\]](https://www.law.cornell.edu/supct/pdf/04-278.pdf)

@@ -40,7 +40,6 @@ Fossil fuel layoff: The economic and employment effects of a refinery closure on
 
 ## Protecting SB 1137 (the Oil Well Setbacks Law)
 
-## ![](_page_2_Figure_0.jpeg)
 
 | https://insideclimatenews.org/news/06052024/san-francisco-bay-kayaktivists-confront-chevro
 n/ |

@@ -12,8 +12,6 @@ tags:
 ## Wayne State University
 
 
-## ![](_page_0_Figure_6.jpeg)
-
 The Walter P. Reuther Library, Archives of Labor and Urban Affairs is proud to announce that the Detroit Revolutionary Movements (DRM) Records are now freely available online at [bit.ly/2QMI78x.](http://bit.ly/2QMI78x)
 
 These materials offer firsthand information about the demands, political viewpoints and allies of Black workers during the late 1960s and early 1970s. The records are especially relevant today as evidence of community-based

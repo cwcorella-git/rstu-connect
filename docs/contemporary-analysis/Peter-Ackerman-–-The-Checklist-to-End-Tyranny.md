@@ -260,7 +260,6 @@ The success of these movies conrmed there was a far greater demand for civil res
 
 ICNC's theory of change is based on this three-part model:
 
-## ![](_page_19_Figure_2.jpeg)
 
 This model emphasizes that the existence of more knowledgeable dissidents and pro-democracy activists is vital to humanity's progress. It also recognizes that tyranny must be faced and challenged if it is to be transformed. Tyranny produces the most inhumane conditions imaginable leading to widespread violence, death, disasters, uncontrolled disease, poverty, ignorance, and corruption. Addressing these issues can only occur by recalibrating the power relationship between dictators and their citizens.
 
@@ -274,13 +273,11 @@ However, there is a paradox: Even though civil resistance has become the preferr
 
 Source: Erica Chenoweth, "The Future of Nonviolent Resistance," Journal of Democracy 31, no. 3 (July 2020): 69-84.
 
-## ![](_page_20_Figure_2.jpeg)
 
 ## FIGURE 3: Success Rates of Nonviolent and Violent Mass Campaigns by Decade (1930–2019)
 
 Source: Erica Chenoweth, "The Future of Nonviolent Resistance," Journal of Democracy 31, no. 3 (July 2020): 69–84.
 
-## ![](_page_20_Figure_5.jpeg)
 
 One reason for this decline is that dictators have increased their skills at confronting and countering challenges to their power by pro-democracy activists. For example, tyrants have become more adept at undermining unity among dissidents and inducing violence within their ranks, thereby reducing public participation in the nonviolent conict. They have also become more adept at utilizing cutting edge technologies to limit privacy and suppress individual freedoms.
 
@@ -340,7 +337,6 @@ Signed by Lech Walesa, Thomas Schelling, Larry Diamond, James Stavridis, James L
 
 **FIGURE 4:** ICNC's Global Reach Engaging Pro-Democracy Activists, Scholars, Policymakers, and Journalists by Country
 
-## ![](_page_27_Figure_1.jpeg)
 
 **Afghanistan Algeria Argentina Armenia Australia Austria Bangladesh Belarus**
 
@@ -432,7 +428,6 @@ Strategies based on violent tactics have a low probability of winning because th
 
 There are two reasons for this conclusion. One is structural and one is based on quantitative research. Regarding the structural reason, please see Figure 5, in which the population is divided into four parts. The first is the most senior stratum of leadership who are the greatest beneficiaries of the regime's tyranny. The second are the
 
-## ![](_page_32_Figure_4.jpeg)
 
 9 Eleanor Marchant and Arch Puddington, Enabling Environments for Civic Movements and the Dynamics of Democratic Transition (Washington, DC: Freedom House, July 2008), 1.
 
@@ -440,7 +435,6 @@ elites from every part of society that give the leadership leverage to execute t
 
 In the theory of violent insurrection (as seen in Figure 6), guerrilla forces are activated to kill key members of society who maintain the pillars of support. They then move up to kill members of the elite until the security forces can no longer protect the leadership.
 
-## ![](_page_33_Figure_2.jpeg)
 
 Typically, in such a violent scenario there is no real remaining government group to negotiate a power transfer. If the insurgency is victorious, the tyrant and his acolytes must ee for their lives, and the insurgents take power.
 
@@ -450,7 +444,6 @@ Of course, the negative impacts will be felt most by the general population, whi
 
 The relative futility of violent insurrection is corroborated by data from many cases. Several points are worth our consideration:
 
-## ![](_page_34_Figure_3.jpeg)
 
 - Over the last 120 years, nonviolent conicts have had a success rate at least twice that of violent insurrections.
 - The average duration of a successful nonviolent insurrection is three years, versus nine years for a successful violent insurrection.
@@ -477,7 +470,6 @@ This finding is vital information for dissidents. It is also relevant for the wo
 
 Source: Jonathan Pinckney, When Civil Resistance Succeeds: Building Democracy After Popular Nonviolent Uprisings (Washington, DC: ICNC Press, 2018), 40.
 
-## ![](_page_36_Figure_2.jpeg)
 
 ## STATUS OF COUNTRY BEFORE TRANSITION
 
@@ -668,7 +660,6 @@ If unity requires inspiring leaders capable of addressing peoples' aspirations t
 
 With the incidence of nonviolent conict accelerating in this century, it is even more important for pro-democracy activists to understand why people power succeeds or fails. Nonviolent conict works across many dierent cases because it exploits two fundamental realities: first, that authoritarian regimes depend on
 
-## ![](_page_51_Figure_0.jpeg)
 
 wide-scale obedience among the populations they oppress in order to maintain their control, and second, that not everyone in dictatorships are equally determined to remain loyal through thick and thin. The battleeld illustrated in Figure 10 is identical to the battleeld presented in Chapter 2 to describe the risks of a strategy of violent insurrection.
 
@@ -704,7 +695,6 @@ In Figure 13, civil resistance wins. Double thinkers proliferate and become more
 
 Nonviolent conict succeeds when tactical disruptions accumulate to induce defections. There are an innite variety of tactical options during every moment of a civil resistance campaign, which leaves many routes to victory. However, mindless selection of tactics without consideration of their impact will break down unity. People will not trust leaders who are operating without a continuous planning process that assesses how they are doing and how to adjust for weaknesses.
 
-## ![](_page_53_Figure_3.jpeg)
 
 With civil resistance as a superior alternative to violent insurrection, there can be no more consequential decision than how to confront the cruelty of a tyrannical regime. Getting that strategy wrong—as was the case in Syria in 2011 to the present day—can cost hundreds of thousands of lives and displace millions.16
 
@@ -1174,7 +1164,6 @@ These relationships are illustrated in Figure 14. The upper right quadrant descr
 
 19 Erica Chenoweth, "The Future of Nonviolent Resistance," in Journal of Democracy 31, no. 3 (July 2020): 69–84.
 
-## ![](_page_66_Figure_0.jpeg)
 
 tyrant's eorts in keeping the pro-democracy activist moving along Line B are successful, then eventually societal disruption will yield no defections and render the opposition apathetic as expressed by Line F.
 
@@ -1239,7 +1228,6 @@ Tables 8–11 organize the data to demonstrate how external assistance can "sust
 
 23 Chenoweth and Stephan, The Role of External Support*,* 18.
 
-## ![](_page_70_Figure_0.jpeg)
 
 #### **TABLE 8:** Timing of Assistance
 
@@ -1490,7 +1478,6 @@ Over space and time, large campaigns are much more likely to succeed than small 
 
 Source: Erica Chenoweth and Maria J. Stephan, Why Civil Resistance Works: The Strategic Logic of Nonviolent Conict (New York, NY: Columbia University Press, 2011), 40.
 
-## ![](_page_86_Figure_2.jpeg)
 
 Are there threshold levels of civilian participation required for civil resistance to succeed? The answer is yes, there are threshold levels, but they are unique to each campaign and perhaps only knowable in hindsight.
 
@@ -1779,7 +1766,6 @@ After conducting statistical analysis, his key conclusion is that: The independe
 
 Source: Jonathan Pinckney, When Civil Resistance Succeeds: Building Democracy After Popular Nonviolent Uprisings (Washington, DC: ICNC Press, 2018), 27.
 
-## ![](_page_108_Figure_7.jpeg)
 
 Countries with at least one civil resistance-induced transition from 1945 to 2015
 
@@ -1828,7 +1814,6 @@ Source: Karatnycky and Ackerman, How Freedom Is Won, 18.
 
 **FIW = "Freedom in the World" CAR = "Combined Average Rating" (average of FIW Political Rights and Civil Liberties scores. The scores are based on a 1-7 scale: 1 represents the highest level of freedom and 7 the lowest.)**
 
-## ![](_page_112_Figure_3.jpeg)
 
 of a new leadership cohort, oen creating a talent pool that can sustain the transition toward freedom.
 
@@ -1848,7 +1833,6 @@ Source: Jonathan Pinckney, How to Win Well: Civil Resistance Breakthroughs and t
 
 **A dashed vertical line indicates the breakthrough year. Democracy is measured using the Polyarchy score from the Varieties of Democracy project (Coppedge et al.2018), which ranges from 0 (not democratic at all) to 1 (completely democratic).**
 
-## ![](_page_113_Figure_3.jpeg)
 
 in the status of democracy. For example, assume the average free country has a score of 2, and the average not free country has a score of 6, the dierence between free and not free is about 4 points.
 
@@ -1939,9 +1923,6 @@ The assessment phase begins with the facilitator asking each participant to nd a
 
 ## THE CHECKLIST EXERCISE FOR FREEDOM
 
-## ![](_page_120_Figure_2.jpeg)
-
-## ![](_page_120_Figure_3.jpeg)
 
 **consistent with democratic values?** NO 1 2 3 4 5 6 7 8 9 10 YES It should not be assumed that the checklist questions with the strongest "no" are the most important for the group to address. Here is where the Checklist Exercise can be most relevant. While the checklist questions were formulated on the assumption that they are of equal signicance, only local dissidents can accord them the proper priority for their circumstances.
 
@@ -2120,7 +2101,6 @@ To prepare for the presentation of the Checklist Questions, in Chapter 2 I liste
 
 Source: Erica Chenoweth and Maria J. Stephan, Why Civil Resistance Works: The Strategic Logic of Nonviolent Resistance (New York, NY: Columbia University Press, 2011).
 
-## ![](_page_134_Figure_2.jpeg)
 
 What then has been missing? In "The Future of Nonviolent Resistance," Erica Chenoweth provides evidence that shows that the skill levels of pro-democracy activists are declining. This includes:
 
@@ -2155,7 +2135,6 @@ Figure 21 visualizes the likelihood of civil war "surviving" on the y-axis and t
 
 Source: Luke Abbs, The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War (Washington, DC: ICNC Press, 2021), 33.
 
-## ![](_page_136_Figure_4.jpeg)
 
 The policy opportunity is to identify how outsiders can help nurture nonviolent movements, which are already arising organically. In their research, The Role of External Support in Nonviolent Campaigns, Chenoweth and Stephan's most salient nding was that "training support is consistently impactful":
 
@@ -2181,8 +2160,6 @@ At right: Lech Walesa, leader of Solidarity, celebrates the establishment of the
 
 65 Chenoweth and Stephan, The Role of External Support, 67.
 
-
-## ![](_page_139_Figure_0.jpeg)
 
 Left: Posters used to rally support for the boycott.
 

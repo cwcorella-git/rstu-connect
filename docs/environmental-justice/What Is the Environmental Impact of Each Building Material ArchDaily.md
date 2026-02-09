@@ -11,8 +11,6 @@ tags:
 ## Written by Eduardo Souza
 
 
-## ![](_page_0_Figure_7.jpeg)
-
 [The Construction Material Pyramid. Image © Centre for](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62bf40d1be2c390166ca23b0-what-is-the-environmental-impact-of-each-building-material-photo) [Industrialised Architecture \(CINARK\) from Royal Danish Academy](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62bf40d1be2c390166ca23b0-what-is-the-environmental-impact-of-each-building-material-photo)
 
 Food pyramids are familiar to all of us. They are visual guides that show us the proportions of foods that we should supposedly eat on a daily basis, in order to stay healthy. Composed of a series of layers with different food types–such as grains, flour, fats, vegetables, and others–, at the base are the foods that should be consumed in larger quantities. Towards the top, each layer becomes successively smaller, indicating the foods that are meant to be ingested rarely. The pyramid can vary according to countries and cultures, but its main purpose is always to provide a guide for a balanced life. There are no prohibitions, but it does indicate some foods that should be consumed with caution because of their impacts on our health.

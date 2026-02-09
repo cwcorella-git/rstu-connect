@@ -38,7 +38,6 @@ A possible scenario: Given the fact that the threat of climate chaos is a global
 
 An end to the role of market mechanisms in climate politics:
 
-## ![](_page_3_Figure_0.jpeg)
 
 Agricultural policy is finally moving decisively in the right direction. As one of the main drivers of climate change, industrial agriculture now faces cutbacks. Shortly before the Paris Summit, a push led by big agro-businesses towards "climate-smart agriculture" was unmasked as a plot to enhance their power and expand land-grabbing. As such, the Paris Summit establishes a global support structure for smallholder agriculture under the banner of food sovereignty and agroecology; this has long been demanded by the smallholder farmers' movement La Via Campesina . 80 per cent of fossil fuel reserves will be left in the ground: The most ground-breaking change takes place in the fossil fuel energy system. Although the " carbon budget "-method is not without its critics, the international community agrees to leave 80 per cent of all known fossil fuels in the ground and to decarbonise the global energy system by 2050.
 

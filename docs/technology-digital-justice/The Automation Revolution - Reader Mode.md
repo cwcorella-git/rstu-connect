@@ -27,7 +27,6 @@ Automation is everywhere, and its penetration and sophistication are increasing.
 
 Robotics and cognitive technologies are continuing to supplant a growing number of routine business functions that previously were handled by humans—including knowledge-worker tasks that many assumed would remain the domain of human beings for the foreseeable future.
 
-## ![](_page_1_Figure_3.jpeg)
 
 November 2017 Global Future of Work Survey by Willis Towers Watson.
 
@@ -109,7 +108,6 @@ More-sanguine predictions note that technology has historically created new jobs
 
 ### Mapping Job Loss to Skill Set
 
-## ![](_page_5_Figure_6.jpeg)
 
 Source: KPMG International, H/R COE, 2012.
 
@@ -163,7 +161,6 @@ Most Think Automation Will Take Over Many Jobs Now Done by Humans
 
 How likely do you think it is that in the next 50 years, robots and computers will do much of the work currently done by humans?
 
-## ![](_page_8_Figure_6.jpeg)
 
 Human beings also may be better at weighing offsetting factors and making nal calls in complex and unique situations. Robots are unlikely to become managers because of the need to evaluate and make decisions based on a host of factors.
 

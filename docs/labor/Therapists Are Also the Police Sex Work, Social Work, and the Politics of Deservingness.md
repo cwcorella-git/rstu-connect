@@ -196,7 +196,6 @@ conscience of this great nation. |
 workers touted the idea that because the demand for sex work existed, |
 | this meant that young women would be kidnapped into sex slavery. |
 
-## ![](_page_12_Figure_0.jpeg)
 
 Playing the Whore: The Work of Sex Work.
 

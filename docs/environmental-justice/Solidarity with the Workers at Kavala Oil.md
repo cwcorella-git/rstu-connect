@@ -63,13 +63,9 @@ An injury to one is an injury to all!
 
 ## Pan-Hellenic Energy Federation (PEF)
 
-## ![](_page_3_Figure_0.jpeg)
 
 Sab Cat, IWW Environmental Committee Secretary Panagiotis kontousiadis Pan Hellenic Energy Federation President Daniel Randal, Assistant Chair RMT Bakerloo line branch Benedict Flexen, Earth Strike UK Angela Patton, XR Trade Unionists Max Loxterkamp, IWW Parus Shah Nathan Gilchrist, Bristol IWW, Plymouth Food Not Bombs Steve Gower, XRTU, Unite Community Olly Alcock, Bristol IWW, Plan C Bristol Camden Dixie O'Brien, IWW Alexander King, IWW Huma Malik Carolina Loxterkamp
 
-## ![](_page_5_Figure_0.jpeg)
-
-## ![](_page_6_Figure_0.jpeg)
 
 | Barbara Dedié |
 |-------------------------------------------------------------------------------------------|

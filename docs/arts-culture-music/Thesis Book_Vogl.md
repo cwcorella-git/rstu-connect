@@ -199,7 +199,6 @@ Assists in overall function and maintenance of the building.
 
 ## Bathrooms Parking Faculty offices Storage
 
-## ![](_page_11_Figure_16.jpeg)
 
 ## | ESTIMATED ELEMENT SIZE COMPARISON
 
@@ -217,7 +216,6 @@ Teachers enhance the learning experience through their educational demonstration
 
 Parents are invited to the museum to assist and supervise their children. They will be provided access to the same spaces as
 
-## ![](_page_12_Figure_9.jpeg)
 
 ## 25
 
@@ -230,10 +228,6 @@ The site selection process began by focusing on two variables: children and inno
 ## REGION: Southern United States
 
 ### CITY: Dallas, Texas
-
-## ![](_page_13_Figure_5.jpeg)
-
-## ![](_page_14_Figure_1.jpeg)
 
 
 ### LOCATION: 1114 NLancaster Ave | Dallas, TX 75203
@@ -416,7 +410,6 @@ WEEK 10 | 14
 -
 WEEK 13 | WEEK 15 |
 
-## ![](_page_20_Figure_5.jpeg)
 
 ### THESIS RESEARCH
 
@@ -723,7 +716,6 @@ Spiritual needs for children include many of the ambient qualities of a space, i
 
 Stemming off Vituvius' concept of architecture as firmness, commodity, and delight, the author defines three levels that interpret the habitability of a space. These include psychological comfort and aesthetic satisfaction, functional performance, and health and safety. The three tiers presented directly correlate to the mind, body, and spirit of the occupants. Figure 43 shows the alignment of each of these ideas, in addition to Maslow's Hierarchy of Needs.
 
-## ![](_page_44_Figure_5.jpeg)
 
 FIGURE 43 | THE HABITABILITY FRAMEWORK (Taylor, 2009, p.133)
 
@@ -756,7 +748,6 @@ Climate change, rising sea levels, pollution, and diminishing ecosystems are evi
 
 (NASA, n.d.-a). Coral reefs are taking massive hit from these actions. " These reefs are home to 25 percent of the world's biodiversity, which both suppor ts the livelihood of over 500 million people and produces 70 percent of the oxygen in the
 
-## ![](_page_48_Figure_2.jpeg)
 
 atmosphere. Yet, by 2050, if nothing changes, 90 percent of those reefs will be gone" (Diamandis Kotler, 2020, p.223- 224). Additionally, 900 million people today do not have access to clean drinking water, expecting to grow to half the globe by 2025 (Diamandis & Kotler, 2020). Beyond the ocean, the abuse caused by climate change, deforestation, and pollution will cause decline of large mammals by 50%, if we continue as we do today (Diamandis &Kotler, 2020). Solutions we have today, including water purifier technologies, solar and wind energy generation, drone reforestation, closedloop economies, and electric vehicles, offer glimpse of hope. Developmental technology has been the driving force in these advancements. Children's understanding of these threats will cultivate environmental consciousness and selfawareness of their actions (Taylor, 2009). An ecologically responsive philosophy to learning offers an understanding of these interdependencies of the world, viewing elements as contributions to larger image rather than in isolation
 
@@ -870,7 +861,6 @@ Construction has Interstate and the lot to the west has been restored. The Oak F
 
 ## SITE CHARACTERISTICS
 
-## ![](_page_62_Figure_1.jpeg)
 
 ## DOWNTOWN Offers variety of restaurants, and commercial buildings.
 
@@ -909,17 +899,9 @@ Dallas's climate is considered humid subtropical for its hot, humid summers and 
 
 ## FIGURE 62 | SUN PATH DIAGRAM
 
-## ![](_page_65_Figure_0.jpeg)
-
-## ![](_page_65_Figure_1.jpeg)
 
 FIGURE 65 | AVERAGE TEMPERATURES AND PRECIPITATION IN DALLAS
 
-## ![](_page_65_Figure_3.jpeg)
-
-## ![](_page_65_Figure_4.jpeg)
-
-## ![](_page_65_Figure_5.jpeg)
 
 # PROJECT JUSTIFICATION
 
@@ -1014,9 +996,6 @@ Lobby | SPACE | SIZE (SQ. FT.) | QUANTITY | PERCENTAGE |
 | | | | | |
 ## | | | | | |
 
-## ![](_page_69_Figure_0.jpeg)
-
-## ![](_page_69_Figure_1.jpeg)
 
 ## FIGURE 68 | SPACE INTERACTION MATRIX
 
@@ -1138,7 +1117,6 @@ portion of the site is dedicated to the future development of a children's campu
 
 ## FIGURE 79 | SITE PLAN
 
-## ![](_page_76_Figure_2.jpeg)
 
 ## FIGURE 80 | SECTION B: SUSTAINABLE STRATEGIES
 
@@ -1352,47 +1330,8 @@ The research methods used provided an excellent understanding of learning enviro
 
 # DIGITAL PRESENTATION
 
-## ![](_page_86_Figure_2.jpeg)
-
-## ![](_page_86_Figure_3.jpeg)
-
-## ![](_page_86_Figure_4.jpeg)
-
-## ![](_page_86_Figure_5.jpeg)
-
-## ![](_page_87_Figure_0.jpeg)
-
-
-## ![](_page_88_Figure_0.jpeg)
-
-## ![](_page_88_Figure_1.jpeg)
-
-## ![](_page_88_Figure_2.jpeg)
 
 ## GN PR
-
-## ![](_page_88_Figure_3.jpeg)
-
-## ![](_page_89_Figure_0.jpeg)
-
-
-## ![](_page_89_Figure_2.jpeg)
-
-## ![](_page_89_Figure_3.jpeg)
-
-
-## ![](_page_90_Figure_3.jpeg)
-
-
-## ![](_page_91_Figure_0.jpeg)
-
-
-## ![](_page_91_Figure_2.jpeg)
-
-## ![](_page_91_Figure_3.jpeg)
-
-
-## ![](_page_92_Figure_1.jpeg)
 
 
 ## UPPER FLOOR

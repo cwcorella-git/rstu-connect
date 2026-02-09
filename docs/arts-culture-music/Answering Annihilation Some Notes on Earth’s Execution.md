@@ -60,7 +60,6 @@ It is not just nonhumans facing extinctions. The authors write, "Humanity will e
 
 Humanity's End?
 
-## ![](_page_3_Figure_0.jpeg)
 
 Even if temperatures rise only 4 degrees, Europe's 2003 heat wave—that killed as many as 2,000 a day—could become a normal summer. Melting arctic ice could release trapped remnants of disappeared diseases, infecting humanity once again.
 

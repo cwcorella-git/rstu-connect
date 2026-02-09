@@ -195,7 +195,6 @@ It is clear that there are many efficient points, in fact, all the points on the
 
 Of two points, if one is northeast of the other, this point is superior by
 
-## ![](_page_13_Figure_10.jpeg)
 
 ## FIGURE 3
 
@@ -209,7 +208,6 @@ Observe that we cannot say that any point on the line AB is superior to all poin
 
 On the other hand, if one takes the 45" line as indicating the locus of equal distribution (this assumes an interpersonal cardinal interpretation of the axes, something not supposed in the preceding remarks), and if one counts this as an additional basis of decision, then all things considered, the point D may be preferable to both C and E. It is much closer to this line. One may even decide that an interior point such as F is to be preferred to C which is an efficient point. Aetually, in justice as fairness the principles of justice are prior to considerations of efficiency and therefore, roughly speaking, the interior points that represent just distributions will generally be preferred to efficient points which represent unjust distributions. Of course, figure 4 depicts a very simple situation and cannot be applied to the basic structure.
 
-## ![](_page_14_Figure_5.jpeg)
 
 Now the principle of efficiency can be applied to the basic structure by reference to the expectations of representative men. 9 Thus we can say that an arrangement of rights and duties in the basic structure is efficient if and only if it is impossible to change the rules, to redefine the scheme of rights and duties, so as to raise the expectations of any representative man (at least one) without at the same time lowering the expectations of some (at least one) other representative man. Of course, these alterations must be consistent with the other principles. That is, in changing the basic structure we are not permitted to violate the principle of equal liberty or the requirement of open positions. What can be altered is the distribution of income and wealth and the way in which those in positions of authority and responsibility can regulate cooperative activities. Consistent with the constraints of liberty and accessibility, the allocation of these primary goods may be adjusted to modify the expectations of representative individuals. An arrangement of the basic structure is efficient when there is no way to change this distribution so as to raise the prospects of some without lowering the prospects of others.
 
@@ -259,11 +257,6 @@ Note that the contribution curve, the Curve OP, rises upward to the right becaus
 
 A view less egalitarian than the difference principle, and perhaps more
 
-## ![](_page_17_Figure_6.jpeg)
-
-## ![](_page_17_Figure_7.jpeg)
-
-## ![](_page_17_Figure_8.jpeg)
 
 plausible at first sight, is one in which the indifference lines for just distributions (or for all things considered) are smooth curves convex to the origin, as in figure 7. The indifference curves for social welfare functions are often depicted in this fashion. This shape of the curves expresses the fact that as either person gains relative to the other, further benefits to him become less valuable from a social point of view.
 
@@ -289,9 +282,6 @@ Chain connection means that at any point where the X3 curve is rising to the rig
 
 Intervals in which both the X2 and the X3 curves are rising define the intervals of positive contributions. Any more to the right increases the
 
-## ![](_page_19_Figure_8.jpeg)
-
-## ![](_page_19_Figure_9.jpeg)
 
 average expectation (average utility ifutility is measured by expectations) and also satisfies the principle of efficiency as a criterion of change, that is, points to the right improve everyone's situation.
 

@@ -7,7 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 #### THE COLLECTED WORKS OF
 

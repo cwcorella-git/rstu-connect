@@ -8,7 +8,6 @@ tags:
   - Bookchin
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 Essays by
 ## Murray Bookchin
@@ -581,6 +580,4 @@ The radical ecology movement stands at a crossroads today. Either it will recogn
 In the essays that make up this book, Murray Bookchin calls for a critical social standpoint that transcends both "biocentrism" and "ecocentrism"; for a new politics and ethics of complementarity, in which people, fighting for a free, nonhierarchical, and cooperative society, begin to play a creative role in natural evolution. Bookchin attacks the misanthropic notions that the environmental crisis is caused mainly by overpopulation or humanity's genetic makeup. He resolutely points to social causes — patriarchy, racism, and a capitalistic "grow or die" economy as well as a hierarchical sensibility of dominating nature — as the problems the environmental movement must deal with. These ideas have to be confronted by environmentally concerned readers if the ecology movement is not to destroy its own potential as a force for social change and the achievement of a truly ecological society.
 
 Murray Bookchin's writings have profoundly influenced ecological thinking over the past forty years. Now in his seventies, he has been a life-long radical — a trade-union activist in the 1930s and 1940s, an innovative theorist in the 1960s, and a leading participant in the anti-nuclear and radical wing of the Greens in the seventies and eighties. His ideas on social ecology have been important contributions to left libertarian thinking.
-
-## ![](_page_80_Figure_5.jpeg)
 

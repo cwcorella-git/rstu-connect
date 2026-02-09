@@ -14,7 +14,6 @@ tags:
 
 Defense Committee (GDC), Redneck Revolt, green syndicalism
 
-## ![](_page_0_Figure_5.jpeg)
 
 really comes from a few converging political movements, both inside and outside the U. S. The real beginnings of this goes back to France in the 1960s when a number of far-right intellectuals laid the groundwork to "rebrand" fascist ideas using the language of the left. The European New Right, led by figures like Alain de Benoist and Guillume Faye, used the language of the New Left, appropriated the arguments of post-colonialist and national liberation movements, and attempted to engage in a type of "cultural struggle" as proposed by Italian Marxist Antonio Gramsci. Their ideas really were to pick up where the German Conservative Revolutionary movement and Radical Traditionalist thinkers like Julius Evola left off and argue for a going after the culture with nationalist values. If they change the way that Europeans think about the world, and think about themselves, maybe this can allow a radical shift in politics down the line.
 
@@ -48,7 +47,6 @@ The Alt Right, really then the Alternative Right, was a concept created by Richa
 
 From that cauldron it created its own synthesis, a more academic foundation for its racism, an aggressive revolutionary aspect from white nationalism, and the communities and connections from paleoconservatism.
 
-## ![](_page_3_Figure_0.jpeg)
 
 Proud Boys, Lauren Southern, Alex Jones and the conspiracy and patriot crowd, or anti-immigrant nutjobs like Anne Coulter. The "free speech" rallies have been this in the physical world, as have many patriot militia types.
 

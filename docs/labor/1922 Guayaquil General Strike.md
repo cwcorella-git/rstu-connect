@@ -51,7 +51,6 @@ While I have deemed this case largely a success based on the fact that most of t
 |  | Influences: |
 |--|-------------|
 
-![](_page_4_Figure_0.jpeg)
 
 Sources:
 

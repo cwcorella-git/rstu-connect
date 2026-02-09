@@ -865,4 +865,3 @@ Ken Knabb has also translated the Situationist International Anthology, Guy Debo
 
 ## Bureau of Public Secrets www.bopsecrets.org
 
-## ![](_page_159_Figure_3.jpeg)

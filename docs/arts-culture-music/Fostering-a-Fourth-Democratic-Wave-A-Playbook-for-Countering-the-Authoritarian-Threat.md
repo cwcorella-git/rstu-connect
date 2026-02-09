@@ -697,7 +697,6 @@ An established body of research examines this question with regard to the use of
 
 Studies over the last decade identify a consistently strong relationship between civil resistance, political transitions, and democratic development. For example, between 1900 and 2019, civil resistance movements with maximalist goals (creating a political transition, expelling a foreign occupier, or achieving territorial independence) were found to achieve their goals 51 percent of the time. This is approximately twice the 26 percent success rate of violent insurgencies over this same time frame.10
 
-## ![](_page_25_Figure_1.jpeg)
 
 **Figure 1: Probability That a Country Will Be a Democracy Five Years After a Campaign Ends (1900-2006)**
 
@@ -806,7 +805,6 @@ The wave's pace picked up after the 1986 "People Power" revolution in the Philip
 
 Reflecting this point, scholar Timur Kuran quotes a 1989 Radio Free Europe broadcast stating: "Our jaws cannot drop any lower," regarding the fall of communist regimes in 1989.46 In the face of popular uprisings and political transitions, Kuran observes that: "Wise statesmen, discerning diplomats, and gifted journalists were also caught off guard.... As the Economist observed even before the East European Revolution had run its course, 1989 turned out to be a year when
 
-## ![](_page_30_Figure_8.jpeg)
 
 **Figure 2: Outcomes of Transitions from Authoritarianism According to Driver of the Transition (1972-2004)**
 
@@ -927,15 +925,11 @@ Yet in spite of this rapidly rising incidence, the success rates of maximalist m
 
 **Figure 3: Onsets of Nonviolent and Violent Mass Campaigns, by Decade (1900-2019)**
 
-## ![](_page_36_Figure_2.jpeg)
-
-## ![](_page_36_Figure_3.jpeg)
 
 SOURCE: Erica Chenoweth, "The Future of Nonviolent Resistance," Journal of Democracy 31, no. 3 (2020), 71.
 
 **Figure 4: Success Rates of Nonviolent and Violent Mass Campaigns, by Decade (1930-2019)**
 
-## ![](_page_36_Figure_6.jpeg)
 
 SOURCE: Erica Chenoweth, "The Future of Nonviolent Resistance," Journal of Democracy 31, no. 3 (2020), 75.
 

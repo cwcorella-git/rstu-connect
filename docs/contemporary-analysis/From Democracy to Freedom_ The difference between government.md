@@ -19,13 +19,10 @@ This book is the result of years of dialogue between participants in social move
 
 ### N©!2017 Crimeth Inc. ex-Workers' Collective
 
-## ![](_page_5_Figure_5.jpeg)
 
 You can obtain a great deal of related material via www.crimethinc.com
 
 Printed in Canada by unionized printers on 100% post-consumer recycled paper
-
-## ![](_page_6_Figure_0.jpeg)
 
 
 Democracy is the most universal political ideal of our day. George Bush invoked it to justify invading Iraq; Obama congratulated the rebels of Tahrir Square for bringing it to Egypt; Occupy Wall Street claimed to have distilled its pure form. From the Democratic People's Republic of North Korea to the autonomous region of Rojava, practically every government and popular movement calls itself democratic.
@@ -201,7 +198,6 @@ Indeed, slavery was more prevalent in ancient Athens than in other Greek city st
 
 † Assemblies and court proceedings in ancient Athens took place in the *agora*, a marketplace lined by temples that also hosted the slave market. Here in embryo we see all the pillars of our society—economy, church, state, and people—and the inequality and exclusion that are intrinsic to them. We can understand the agora as a unified zone of competition, in which four interchangeable currencies delineate graduated power imbalances. The Athenian assembly was known as the Ekklēsia, the same word that later denoted the Christian Church as a whole—two historically interlinked ways of defining the social body that counts as "the people."
 
-## ![](_page_23_Figure_0.jpeg)
 
 ## 22 From Democracy to Freedom
 
@@ -276,7 +272,6 @@ Representative democracy is to politics what capitalism is to economics. The des
 
 This explains why, when the wealthy and powerful have seen their interests challenged through the institutions of democracy, they have been able to suspend the law to deal with the problem—witness the gruesome fates of the brothers Gracchi in ancient Rome and Salvador Allende in modern Chile,
 
-## ![](_page_33_Figure_0.jpeg)
 
 politicians who came to power via democratic elections only to be overthrown for threatening to redistribute wealth. Within the framework of the state, property has always trumped democracy.\*
 
@@ -1732,8 +1727,6 @@ It is more pressing than ever to update the vocabulary with which we describe wh
 
 – Narrative of William W. Brown, an American slave, written by himself, 1850
 
-## ![](_page_205_Figure_0.jpeg)
-
 
 # Politics is the art of
 
@@ -1816,4 +1809,3 @@ The display font used throughout is TT Lakes (often in its Condensed Bold Italic
 We owe our freedom to the spontaneous interplay of myriad forces within and between us
 
 
-## ![](_page_219_Figure_0.jpeg)

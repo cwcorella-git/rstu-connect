@@ -9,8 +9,6 @@ tags:
 
 [Shawn Vulliez](https://medium.com/@wrong_shon?source=post_page---byline--1c3f00a7c94f---------------------------------------) · [Follow](https://medium.com/m/signin?action Url=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F11325ecc4fec&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wrong_shon%2Fthe-basics-of-library-socialism-wip-1c3f00a7c94f&user=Shawn+Vulliez&user Id=11325ecc4fec&source=post_page-11325ecc4fec--byline--1c3f00a7c94f---------------------post_header------------------) 11 min read · Mar 21, 2023
 
-## ![](_page_0_Figure_8.jpeg)
-
 
 [Listen](https://medium.com/m/signin?action Url=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26post Id%3D1c3f00a7c94f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wrong_shon%2Fthe-basics-of-library-socialism-wip-1c3f00a7c94f&source=---header_actions--1c3f00a7c94f---------------------post_audio_button------------------) Share
 
@@ -147,8 +145,6 @@ co-hosts the srsly wrong podcast
 Aug 29, 2022 [45](https://medium.com/@wrong_shon/the-universal-public-library-ded5b5ca4191?source=post_page---author_recirc--1c3f00a7c94f----0---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
 
 
-## ![](_page_11_Figure_2.jpeg)
-
 ### [Hierarchy Doesn't Work v0.8](https://medium.com/@wrong_shon/hierarchy-doesnt-work-v0-8-7086e5949eb7?source=post_page---author_recirc--1c3f00a7c94f----1---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
 
 [As an idea, and as a social formation, hierarchy is an incoherent and violent mess for humanity.](https://medium.com/@wrong_shon/hierarchy-doesnt-work-v0-8-7086e5949eb7?source=post_page---author_recirc--1c3f00a7c94f----1---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
@@ -174,27 +170,19 @@ Aug 29, 2022 [1](https://medium.com/@wrong_shon/cooperative-difference-bb1db8256
 #### Recommended from Medium
 
 
-## ![](_page_13_Figure_3.jpeg)
-
 # [Jeff Bezos Says the 1-Hour Rule Makes Him Smarter. New Neuroscience](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--1c3f00a7c94f----0---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------) [Says He's Right](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--1c3f00a7c94f----0---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
 [Jeff Bezos's morning routine has long included the one-hour rule. New neuroscience says yours](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--1c3f00a7c94f----0---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------) [probably should too.](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--1c3f00a7c94f----0---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
-
-## ![](_page_14_Figure_2.jpeg)
 
 #### [This Is How Tesla Will Die](https://medium.com/predict/this-is-how-tesla-will-die-d0ca25199b9f?source=post_page---read_next_recirc--1c3f00a7c94f----1---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
 [The vultures are circling the tech giant.](https://medium.com/predict/this-is-how-tesla-will-die-d0ca25199b9f?source=post_page---read_next_recirc--1c3f00a7c94f----1---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
 
-## ![](_page_14_Figure_7.jpeg)
-
 # [A Geopolitical Solution to the Israel-Palestine Conflict](https://medium.com/peace-for-israel-and-palestine/a-geopolitical-solution-to-the-israel-palestine-conflict-fb67f315d4b7?source=post_page---read_next_recirc--1c3f00a7c94f----0---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
 [The Israeli-Saudi-Palestinian Peace Proposal](https://medium.com/peace-for-israel-and-palestine/a-geopolitical-solution-to-the-israel-palestine-conflict-fb67f315d4b7?source=post_page---read_next_recirc--1c3f00a7c94f----0---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
-
-## ![](_page_14_Figure_10.jpeg)
 
 
 # [I Pretended to Be a Man on a Dating Site—And I Hate What I Discovered](https://medium.com/@Effycutiex/i-pretended-to-be-a-man-on-a-dating-site-and-i-hate-what-i-discovered-4f624593523a?source=post_page---read_next_recirc--1c3f00a7c94f----1---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
@@ -225,4 +213,3 @@ In by Wall Street Gradient [Shubhransh Rai](https://medium.com/@shubhranshrai?so
 
 [Elon is much dumber than that.](https://medium.com/@dylan_combellick/no-it-wasnt-cobol-69b1a4ad98e6?source=post_page---read_next_recirc--1c3f00a7c94f----3---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
-## ![](_page_16_Figure_10.jpeg)

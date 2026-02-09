@@ -22,4 +22,3 @@ Some change for our security, we are facing attacks from teenagers everyday, the
 
 What are the key demands that need to be addressed for drivers?
 
-## ![](_page_1_Figure_0.jpeg)

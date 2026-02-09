@@ -1728,7 +1728,6 @@ It cannot be sufficiently emphasized that revolution is in vain un‐ less inspi
 - 4. Permit. ↩
 - 5. *Trial and Speeches of Alexander Berkman and Emma Goldman Before the Federal Court of New York, June-July, 1917*. Mother Earth Publishing Co., New York. ↩
 
-![](_page_250_Figure_2.jpeg)
 
 - 27. Individual small-scale. ↩
 - 28. Special Department of the Cheka. ↩

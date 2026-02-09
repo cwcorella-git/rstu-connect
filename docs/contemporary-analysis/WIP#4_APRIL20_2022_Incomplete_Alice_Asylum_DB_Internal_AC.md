@@ -36,8 +36,6 @@ This design bible was created in an effort development of a new AAA Title Alice 
 This creative journey would not have been possible without the support, help and love shown by Alice's fans.
 
 
-## ![](_page_2_Figure_0.jpeg)
-
 # **QUESTIONS** TO NSWER
 
 # WHAT IS THE GAME?
@@ -217,7 +215,6 @@ A gameplay mode designed to be so cruel it is not immediately accessibile
 
 # ETHOS & GAME DESIGN APPROACH #02
 
-## ![](_page_5_Figure_2.jpeg)
 
 ## The above scene presents a classic "Hard Gate"
 
@@ -229,7 +226,6 @@ Progression to the next area will be determined only by overcoming the encounter
 
 Other examples are Puzzles solved. Key kenns located. All enemanded defented. Until these certain incriterias are men, core progression will be barred. Hard Gane will be financed as a planned et challeng apper in neuvorr amediantic, or neuvorr merkantic, or neuvorrapm sugge a neural paper are trady to pragreas. The end result of any Hard Gane is for the player to the faminated ones a specific puth to progress the naturative and game expedition in Aldrer Alpinem.
 
-## ![](_page_5_Figure_6.jpeg)
 
 ## FAILURE
 
@@ -243,7 +239,6 @@ Alice: Asylam will make generous and well-considered usage of Checkpoints and Sa
 
 # USER INTERFACE (UI) · CLASSIC
 
-## ![](_page_5_Figure_14.jpeg)
 
 As Alice sustains damage or activates, "Special Same" her Seaus Indicator will change depending on the well-ching. The closer Alice's health goes to zero, the more anguists and pain will be reflected in her portrait. This is inspired by a familiar HUD concept when a protaganist draws ever closer to their down.
 
@@ -253,13 +248,9 @@ A new methanic introduced into the Alice series are Roses in the from of One Has
 
 # USER INTERFACE (UI) · WEAPON WHEEL
 
-## ![](_page_6_Figure_2.jpeg)
-
-## ![](_page_6_Figure_4.jpeg)
 
 # USER INTERFACE (UI) · MODERN
 
-## ![](_page_6_Figure_7.jpeg)
 
 - .......................................
 
@@ -279,10 +270,6 @@ With Alice's roots in 309-2000s, en classic games, there is a visual HUD choice 
 
 # CORE COMBAT LOOP • FOUNDATION & FLOW
 
-## ![](_page_7_Figure_2.jpeg)
-
-
-## ![](_page_7_Figure_9.jpeg)
 
 ## OBSERVING STRATEGY
 
@@ -391,9 +378,6 @@ The Moon then turns to reveal a menacing face. Eyes draws nearer it sings an **o
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
-## ![](_page_11_Figure_0.jpeg)
-
-## ![](_page_11_Figure_1.jpeg)
 
 Alice trips and falls to the ground, tangled on a branch in the snow. She rises to her feet. Looks determined.
 
@@ -401,7 +385,6 @@ We PLAY as Alice runs for her life. Running, jumping, climbing, and swinging to 
 
 Alice runs until she finds sanctuary inside her childhood home: The Liddell House. Oddly silent except the tick-tock of a large grandfather clock.
 
-## ![](_page_11_Figure_5.jpeg)
 
 Within, Alice encouncers her burnt and twisted family. They sit around a macabre table set for Alice's birthday, wearing rabbit masks.
 
@@ -453,7 +436,6 @@ Blissfully unaware. How pleasant it must be... to be trapped in the calm beneath
 
 ## CORE MELEE COMBAT WEAPON - SN
 
-## ![](_page_13_Figure_0.jpeg)
 
 Her reverie is broken as Alice is set upon by ghoulish, faceless manifestations of the Shadow. Alice lunges and slashes at the endless nightmares, as they quickly swarm towards her.
 
@@ -478,7 +460,6 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 ## 0.1 THE SLUMBER - GAME OPENING • TUTORIAL
 
-## ![](_page_14_Figure_0.jpeg)
 
 ## THE SLUMBER
 
@@ -537,8 +518,6 @@ Throwing Knife - Cooldown Timer Decrease. Lower the respawn time for the Vorpal 
 
 Throwing Knife - Critical Hit Damage Increase.
 
-
-## ![](_page_15_Figure_0.jpeg)
 
 # THE GREATEST SHOW
 
@@ -649,17 +628,8 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.1 DENIAL REALM - THE GREATEST SHOW • CARNIVAL OF FOOLS
 
-## ![](_page_18_Figure_0.jpeg)
 
 "You speak of Darkness. I've seen it. The last time I was here, what was th awful creature? From the mirror..." "Then she must fear me a great deal. I'd rather not see her again." CATERPILLAR DETERMINATION · SLUMBER ENCOUNTER #2 THE SLUMBER WAYFINDING AND OBJECTIVE MARKING This mind's eye is showcased to the player for training Approaching his silhouette, Caterpillar's glowing eyes Alice's sharp breaths return to normal. She reaches Alice's encounter with the Fortune Teller unlocks basic wayfinding and a UI map, clearly marking Alice's way and exploration purposes. Highlighting the UI and new up with her fingers to her forehead, but finds nothing. forward towards mission objectives using ber intuition. wayfinding interface, Alice must follow the wayfinder, ready see things that were not there before. A new perspective offers a chance for discovery into our own darkness." "Perhaps. But this time, you might be "She fears you more than you fear her." "But you must. And you will. Your fates are entwined far more than you realise..." MIND'S EYE locating Caterpillar in the heart of Slumber. The eye fades to smoke at her touch. CATERPILLAR CATERPILLAR narrow in the darkness.
-
-## ![](_page_18_Figure_2.jpeg)
-
-## ![](_page_18_Figure_3.jpeg)
-
-## ![](_page_18_Figure_4.jpeg)
-
-## ![](_page_18_Figure_5.jpeg)
 
 
 A short cut scene plays. The area around Alice transforms into a flurry of snowflakes. It is night and snow falls from the sky above. Alice stands in the front yard of her family home.
@@ -697,9 +667,6 @@ di la di
 "And no one locked their doors in our home. We had no secrets to hide... or so I thought."
 
 
-## ![](_page_20_Figure_0.jpeg)
-
-
 "At that time, I was the monster. I felt responsible... I couldn't control my anguish, and I was caged for it." "...all your... fault..."
 
 The scene ends as Alice is taken away crying, and in shock, from her **smoldering ruined home**.
@@ -723,8 +690,6 @@ The scene dissolves back to Alice's audience with the Caterpillar.
 
 ## 05
 
-
-## ![](_page_22_Figure_0.jpeg)
 
 The cutscene continues after Alice arrives back in the Fortune Teller's tent. She is alone with her Rabbit. No Fortune Teller. Every single globe on the shelves is now in scattered, broken useless pieces. Blood drip from the thattered orbs, nothing holds them together.
 
@@ -813,15 +778,12 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 1.2 DENIAL REALM - THE BIG TOP • CARNIVAL OF FOOLS
 
-## ![](_page_26_Figure_0.jpeg)
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.2 DENIAL REALM - THE BIG TOP • CARNIVAL OF FOOLS • CHAPTER SUMMARY
 
 
 Hysteria Ability States and Attack Concepts to be Confirmed {TBC}
 
-
-## ![](_page_27_Figure_0.jpeg)
 
 ## TREBLE-MAKER
 
@@ -892,8 +854,6 @@ This attack variant can also be used as a weighted tool for switch activation, a
 Alice places the bomb as a trap that springs open command, detonating it.
 
 
-## ![](_page_27_Figure_49.jpeg)
-
 Unlimited. Placeable Bomb is 1 Shot Only and placed on Cooldown Timer after use.
 
 ## $\mathbb{X}$
@@ -953,7 +913,6 @@ Reach The Bridge;
 
 Take Control of The Moon (and fly to Queen's Domain).
 
-## ![](_page_29_Figure_0.jpeg)
 
 As Alice explores The Moon she passes through its Engine Room where she sees that it is powered by a Massive Clockwork Heart.
 
@@ -968,7 +927,6 @@ Mock Turtle explains that Alice's false reality is better because she'll never r
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.3 DENIAL REALM - THE MOON • A STORM IN A TEACUP
 
-## ![](_page_30_Figure_0.jpeg)
 
 Fighting through more rooms and platforming sections within the mechanical structure of the Moon, Alice reaches the Bridge of The Moon. Alice once again encounters The Mock Turtle. As Alice pieces together a chart to reach The Queen's Domain, Mock Turtle continues to beg that she abandon her insane mission and return to The Circus.
 
@@ -1013,15 +971,11 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 ## DEFEAT MOCKTURTLE
 
-## ![](_page_31_Figure_0.jpeg)
 
 ## DENIAL REALM • THE MOON
 
 {TBC} Copywriting to be confirmed.
 
-## ![](_page_31_Figure_1.jpeg)
-
-## ![](_page_31_Figure_2.jpeg)
 
 ## W KEY ITEM
 
@@ -1042,9 +996,6 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.3 DENIAL REALM - THE MOON • A STORM IN A TEACUP • CHAPTER SUMMARY
 
-## ![](_page_32_Figure_0.jpeg)
-
-## ![](_page_33_Figure_0.jpeg)
 
 where Card Guards encounter a Shadowy guards. This time, the Shadow's appearance is now distinctly more human, but still as As Alice wanders along, Alice witnesses a scene Figure. The same from the Mirror. The Shadow briefly appears surrounded by utterly broken and jagged as it was.
 
@@ -1064,7 +1015,6 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
-## ![](_page_34_Figure_0.jpeg)
 
 We PLAY as a fierce Alice battles against Chaos Creatures and assists Card Guards. She too, if she chooses, will save some of them along the Card Guards. Alice and the card guards fight in these sections alongside each other. Alice will be assisted and saved at times by the the way. Alice makes her way through the Hedge Maze to the Fortress of Sorrow - a structure featuring a large Crying Alice statue overlooking the Hedge Maze. As Alice approaches, the gruff sound of horses is heard.
 
@@ -1181,7 +1131,6 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
-## ![](_page_36_Figure_0.jpeg)
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
@@ -1284,8 +1233,6 @@ Each time Alice is hit, fails a dodge, or doesn't instigate a successful attack 
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.2 ANGER & JUDGMENT REALM - THE COURTHOUSE • A SEAT OF JUDGMENT
 
-## ![](_page_40_Figure_0.jpeg)
-
 
 After Alice defeats the Chess pieces, a Boss Fight with a massive, multi-limbed, chaos-corrupted Judge unfolds.
 
@@ -1296,24 +1243,12 @@ Gigantic gavels smash the ground, and Alice must memorize symbols that appear ab
 The Shadow toys with Alice;
 
 
-## ![](_page_40_Figure_10.jpeg)
-
-## ![](_page_40_Figure_11.jpeg)
-
-## ![](_page_40_Figure_12.jpeg)
-
-## ![](_page_40_Figure_13.jpeg)
-
-
 ## =
 
 
 ## 81
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.2 ANGER & JUDGMENT REALM - THE COURTHOUSE • A SEAT OF JUDGMENT
-
-
-## ![](_page_42_Figure_0.jpeg)
 
 
 ## AN INFERNO OF INCREDIBLE HORROR - R. INFERNO
@@ -1326,7 +1261,6 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
-## ![](_page_43_Figure_0.jpeg)
 
 ## RAGE · SLUMBER ENCOUNTER
 

@@ -12,7 +12,6 @@ tags:
 
 ## safety, Ron Kaminkow, green unionism, Railcon15
 
-## ![](_page_0_Figure_5.jpeg)
 
 ## Ron Kaminkow -
 

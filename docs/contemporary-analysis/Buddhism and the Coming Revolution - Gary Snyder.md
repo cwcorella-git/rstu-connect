@@ -29,7 +29,6 @@ The mercy of the West has been social revolution; the mercy of the East has been
 
 The traditional cultures are in any case doomed, and rather than cling to their good aspects hopelessly it should be remembered that whatever is or ever was in any other culture can be reconstructed from the unconscious, through meditation. In fact, it is my own view that the coming revolution will close the circle and link us in many ways with the most creative aspects of our archaic past. If we are lucky we may eventually arrive at a totally integrated world culture with matrilineal descent, free-form marriage, natural-credit communist economy, less industry, far less population and lots more national parks.
 
-## ![](_page_2_Figure_2.jpeg)
 
 adri
 

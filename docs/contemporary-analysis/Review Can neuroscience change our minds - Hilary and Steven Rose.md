@@ -57,7 +57,6 @@ I'm actually keen on this sort of use of neuroscience, one that acknowledges its
 
 Further Reading:Bruer, J. (1997) Education and the Brain: a bridge too far. Educational Researcher26(8) pp.4-16Hopkins et al (2016) 'The seductive allure is a reductive allure: People prefer scientific explanations that contain logically irrelevant reductive information.'Cognition. vol.155 pp.67-76. Joldersma, C. (Ed) (2015)Neuroscience and Education: A Philosophical Appraisal Legrenzi, P. & Umilta, C. (2011)Neuromania: on the limits of brain science Mareschal et al (Eds) (2014)Educational Neuroscience McCabe & Castel (2008) 'Seeing is believing: The effect of brain images on judgments of scientific reasoning'. Cognition107(1) pp.343–352Rees, D, & Rose, S. (Eds) (2004)The New Brain Sciences: Perils and Prospects Rose, H & Rose, S. (2016)Can neuroscience change our minds?Royal Society (2011)Neuroscience: implications for education and lifelong learning Satel, S. & Lilienfeld, (2013)Brainwashed: the seductive allure of mindless neuroscience Tallis, R. Aping Mankind: neuromania, darwinitis, and the misrepresentation of humanity Weisberg et al (2008) 'The seductive allure of neuroscience explanations',Journal of Cognitive Neuroscience20(3) pp.470-477Weisberg et al (2015) 'Deconstructing the seductive allure of neuroscience explanations',Judgment and Decision Making, 10(5) pp.429-441
 
-## ![](_page_6_Figure_2.jpeg)
 
 ## In reply to Welcomebylibcom.org
 

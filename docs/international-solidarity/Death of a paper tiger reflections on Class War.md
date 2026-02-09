@@ -54,7 +54,6 @@ In any future proletarian social movement channels of direct collective communic
 
 At the Anarchist Bookfair in 1985, when Class War were in their ascendancy, intoxicated by media attention and believing their own hype, a Class War celebrity got on stage and drunkenly announced to the assembled anarchoes, 'You pacifists and liberals have had the anarchist movement for long enough - now its our turn. And if we haven't turned this place into rubble within five years then you can have it back'. Well, 12 years on and it's Class War that are in ruins, with little but a collection of fading newspaper cuttings to show for it, while this society carries ruthlessly on. Testimony to the fact that you can't fight alienation with alienated means.
 
-## ![](_page_5_Figure_2.jpeg)
 
 This was preceded by the following text as part of a collection of features about anarchist organisation:http://www.afed.org.uk/org/issue47/anarcorg.html
 
@@ -100,7 +99,6 @@ internally; but these contradictions were never allowed to surface publicly, so 
 
 Is issue 73 archived anywhere on libcom? (I know that this is a terribly lazy question to ask
 
-## ![](_page_8_Figure_0.jpeg)
 
 Spikymike 14 years 5 months ago In reply to Welcomebylibcom.org I think the Aufheben and AF articles together provide a good critical summary of the early Class War Federation and it's paper. Just to say that whilst I have never been a big fan of thenational Class War Federation, the original 'Wildcat' group in Britain (of which I was a member) did, around 1984/85, have a pretty good working relationship with the short lived Manchester based Class War group who's members I had a lot of respect for, and we experimented a bit with a Class War style paper of our own although the content was inevitably a lot different. I understand that a few of the old Leeds based Class War group who were instrumental in organising the critical Bradford national conference have spun off into a new direction with this: http://freelyassociating.org/I picked up a leaflet by them at the Manchester Network X gathering but didn't get to discuss it with anyone there. rat 14 years 5 months ago In reply to Welcomebylibcom.org
 

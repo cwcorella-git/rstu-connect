@@ -560,7 +560,6 @@ So to truly understand the dynamics of the commons, one must rst escape the onto
 
 You might ask yourself, how can these ideas actually work? For people accustomed to thinking in an individualist ontology and in dualities, it's a big challenge to see the world as relational. It requires developing a dierent sense of reality. No one can simply announce that he/she is adopting a new perspective. A new orientation must be learned and practiced. Saying goodbye to old habits of thought requires practice. Like giving up smoking, it requires willpower, attention, and the deliberate learning of new habits. at's what the next several chapters are meant to do for those who want to "think like a commoner" and make an Onto Shift.
 
-## ![](_page_58_Figure_3.jpeg)
 
 Onto Seed at center of galaxy of commoning practices.
 
@@ -877,7 +876,6 @@ Our framework naturally draws on the robust scholarly literature exploring the c
 
 Our Triad framework points to the idea that commoners are engaged in "world-making in a pluriverse" because that phrase captures the core purpose of commoning: the creation of peer-governed, context-specic systems for free, fair, and sustainable lives. At the heart of the Framework is what we call e Triad — the three interconnected spheres of Social Life, Peer Governance, and Provisioning. Or, in more conventional terms: the social, the institutional, and the economic spheres. We nd it useful to structure our thinking around these realms, which doesn't mean that they are separate and distinct. Each sphere of the Triad simply provides a dierent perspective for looking at the same phenomena. Each is deeply interconnected with the others, as the accompanying image suggests.
 
-## ![](_page_106_Figure_3.jpeg)
 
 It is reasonable to ask, how we can possibly generalize about the commons, knowing that there is no such thing as cultural universals? Is a coherent, general understanding of the phenomenon really possible? We believe it is — if such an understanding acknowledges the immensely varied on-the-ground realities and distills their essential regularities! at's what patterns do. ey avoid the trap of reductionism, don't oversimplify messy realities, and help to avoid a totalizing way of understanding the world. Patterns provide a way to generate insights while relying on situated knowing — people's experiences, know-how, and intuition. And, most importantly, they help us create an open framework that is adaptable by design, and certainly not the last word. We therefore oer a exible template, not a blueprint, and a commons vocabulary, not a classical, prescriptive taxonomy.
 
@@ -959,7 +957,6 @@ What matters is the feeling of fairness, which is not necessarily the same as pr
 
 People who are able to ride a bicycle, play the piano, or run a marathon often cannot explain how they do it. ey don't consciously know what they know. at's because much of our knowledge is tacit or embodied, and not necessarily conscious and cognitive. "We can know more than we can tell," as Michael Polanyi puts it in his books on this subject.6 Our bodies often know dierent things than our conscious minds. We feel the arrival of spring, sense when something is amiss in a social setting, and relax when we visit beloved bodies of water. It is fair to say that commoning begins with these deep reservoirs of embodied and situated knowing and perception.
 
-## ![](_page_117_Figure_5.jpeg)
 
 Political scientist Frank Fischer has documented the habit of professional experts and bureaucracies to "ignore local knowledge that can help relate technical facts and social values."7 A number of movements and organizations are actively trying to change this by calling attention to the deep wisdom of situated knowing. Permaculture designers insist on the necessity to "observe and interact" and to "creatively use and respond to change," for example.8 People in the Transition Town movement take pride in co-creating a post-fossil world through "mind, heart and hand."
 
@@ -1248,7 +1245,6 @@ All of these vanguard projects embody the idea of existential co-possession and 
 
 You might wonder why cooperatives are often cited as examples of the commons when in fact many of them seem to produce for and sustain themselves entirely from the market. Why do we have tens of thousands of cooperatives bringing together "over one billion people around the world" according to the International Co-operative Alliance, with sales of \$2.2 trillion among the largest three hundred cooperatives worldwide48 — and yet the dominant economic model remains rmly in the saddle? e reason is that many cooperatives have not found cultural means to K C C D. And the law doesn't help. It almost always encourages, if not privileges, market-based activity over nonmarket, and commons-based options.
 
-## ![](_page_159_Figure_6.jpeg)
 
 One of the top priorities of any commons, therefore, is to preserve its integrity in the face of an often-predatory market order. A commons must take special pains to protect itself from enclosure.
 
@@ -1376,7 +1372,6 @@ In some commons, the focus is on shared use, in others it is on shared making. e
 
 Work in a commons is not a purchased unit of commodied work, aka "labor." It is an activity that draws upon people's deep passions and values — their whole selves. Geographer Neera Singh calls this sort of commitment "aective labor"7 because people show love, devotion, and care — or simply awareness for what needs to be done when stewarding a forest, caring for elderly parents, designing and curating a web archive, teaching a craft or tending a community garden. Care and commitment in a shared endeavor is central for commoning. It is the elemental glue that holds people together. It occurs, for example, when parents cook, clean, and provide personal support to their children, relatives, and parents — the household as the core focus of the economy, as in the original Greek sense of the term oikos. In a commons this household is bigger than in a Greek polis; it comprises the space and all the people and elements involved in meeting needs.8
 
-## ![](_page_177_Figure_5.jpeg)
 
 Care occurs when people bring their full humanity to a task instead of having impersonal, money-mediated relationships with market resources. Aective labor in eect converts a mere commodity into something that is cared for. One might more accurately call it carewealth. Unlike a market resource whose value is dened by its price, care-wealth has value because there is a nimbus of memories, meanings, and special feelings associated with it, the result of people dedicating their time and care. e social energy that hovers around care-wealth resembles the halo of electrical energy that pulsates around a magnet. It is no surprise that many communities have special feelings for sacred places or the focal points of people's care — a public square, a riverfront, an ancient tree. Certain theaters of commoning — a food cooperative, a local forest, a land trust, a collaborative website — acquire special meaning and emotional resonance as people commit their heart and soul to them (and, indeed, only if they do so).
 
@@ -1560,7 +1555,6 @@ In our times, open source tools and technologies are convivial tools with great 
 
 Distributed structures dier from decentralized structures in that the latter are connected to central hubs whereas the former are interconnected peers (or teams, groups, nodes, or local commons) that relate directly to each other through a network or a federation, without a central hub.25 Distributed structures tend to behave more autonomously and enjoy greater self-determination. is helps prevent the consolidation of political power and render coercive, command-and-control authority systems unnecessary, but it does require initiative, creativity, and self-responsibility. Decentralized structures usually relate to a more authoritarian central body (municipality to states to a national government; franchisees to the corporate headquarters) and thus cede some of their autonomy, imagination, and potential to it.
 
-## ![](_page_200_Figure_5.jpeg)
 
 In modern times, many institutional infrastructures and tools law, bureaucracy, the internet — have been used to enlarge the size of stable, functional groups. While this has enabled the creation of modern institutions, it has also facilitated the centralization of power at the expense of individual participants and local knowledge. e challenge, then, is to transform and adapt modern institutions so that they can support human empowerment and conviviality.
 
@@ -1986,7 +1980,6 @@ is shift from the standard wiki to a form of writing based on "one person, one w
 
 What does it mean to have and own something in a Fedwiki world? What does it feel like? How does it resemble and dier from conventional ownership? Imagine a huge continent of diverse residences.10 Some have only a few rooms. Others exist within skyscrapers and provide space for hundreds of rental homes with multiple rooms. Some are clustered together as neighborhoods. Others are smaller and more isolated from other ats and houses. ese residences are dispersed all over the continent, but there are irregular corridors, pathways, and roads that can potentially interconnect them all. is roughly describes what having a site in the Fedwiki ecosystem is like. Everyone has a at or a home of their own, but everyone can also be connected to anyone else. I might enjoy and value having visitors at my place, but when they leave it is still my personal space, my protected comfort zone. But unlike my actual home, visitors to my Fedwiki world can decide for themselves when and for how long they want to stay. Because a site is not a physical space but rather a virtual space, anyone can freely draw from the content that I've put in my "rooms" and copy it into theirs (the software keeps a record of where the content came from and who gets credit for it). As the developer of Fedwiki software, Ward Cunningham, explains, "I value visitors because I gain from their presence. My gain is not their loss."
 
-## ![](_page_255_Figure_4.jpeg)
 
 Enhanced screenshot of Fedwiki page.
 
@@ -2039,7 +2032,6 @@ For the 136-plus projects associated with Mietshäuser Syndikat at the time we w
 
 e legal scheme for the group helps solve another challenge — how to federate so many dierent housing commons. If all housing projects are peer governed and legally independent (and should remain so), but all participating projects share a larger purpose (to decommodify real estate), how can this latter goal be assured when there might be disagreements among the dozens of projects? Mietshäuser Syndikat provides an eective vehicle for knitting together diverse types of housing commons. It is a so-called nicht eingetragener Verein (n.e. V., a German legal term that roughly translates into "unregistered association"). e n.e. V.
 
-## ![](_page_263_Figure_4.jpeg)
 
 Mietshäuser Syndikat organizational structure. CRedit: miet Shäu SeR Syndi Kat 2017: daS miet Shäu SeR Syndi Kat und die hauSPRoje Kte, die häu SeR denen, die d Rin wohnen, P.9. httPS://www. Syndi Kat.o Rg/wP-Content/u PloadS/2017/02/b RoSChue Re\_nR7. Pdf legally owns Mietshäuser Syndikat GmbH. It is comprised of three types of members: individuals interested in decommodifying land and housing, groups that are not associated housing projects, and the residents' associations for each housing project.
 
@@ -2154,7 +2146,6 @@ The idea of Relationalized Property is perhaps incomprehensible if seen through 
 
 It is worth emphasizing that practices for relationalizing property can be emulated, but they cannot be copied. Each instantiation is unique. ere is no one-size-ts-all legal tool or model. Rather, the design of legal regimes for relationalized ways of having in the commons must be guided by this question: what do we (the respective community) need to protect our commons as a commons?
 
-## ![](_page_282_Figure_4.jpeg)
 
 of the squares in each drawing) and marginalizes and disenfranchises nonowners. The circle — a Buddhist ensō, which is often used to symbolize absolute enlightenment and the universe — encircles familiar property regimes.
 
@@ -2764,9 +2755,6 @@ is fth version of the pattern name corresponds to the knowledge and experiences 
 
 e processes for identifying patterns were similar in all cases. e steps and the procedures for gaining insight are shown once again in the following diagram. Let us review the procedure for the pattern B D S P as an example:
 
-## ![](_page_366_Figure_10.jpeg)
-
-## ![](_page_367_Figure_2.jpeg)
 
 # Validation and Procedure for Deriving the Pattern
 
@@ -2840,7 +2828,6 @@ As we can see from this explanation, the entire procedure of pattern mining has 
 - Methods: patterns workshops, semistructured interviews, peer review, "resonance test," conversations with experts, collective reection
 - Results: Patterns of Commoning is methodology also suggests that patterns are not like Lego bricks that t together only in predetermined ways. e ways to combine individual elements into successful solutions are not prestructured. at is why creative combinations of ideas can bring about new results that were not part of the individual solutions.
 
-## ![](_page_371_Figure_3.jpeg)
 
 ### On Working with Patterns e process of coining patterns enables one to discern order in the diversity of commoning processes, thus identifying the essential dynamics of commoning. It also provides a shared vocabulary and methodology, thereby enabling commoners to create that order. is is why linking patterns and commons is so fruitful for researchers and others in advancing both theory and practice. Practitioners can use patterns to:
 
@@ -2925,7 +2912,6 @@ Dots and squares come together as ows and areas, suggesting spaces inside and ou
 
 ## \* \* \*
 
-## ![](_page_376_Figure_3.jpeg)
 
 Flows of dots and squares represent connections, relations, directions, concrete actions, and spaces. Flows diuse into wider areas.
 

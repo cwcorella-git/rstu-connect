@@ -76,7 +76,6 @@ sumak kawsay
 
 ,
 
-## ![](_page_6_Figure_0.jpeg)
 
 A modest use of labor-saving ecotechnologies can further reduce working hours, especially in the Global South. The open-source machines comprising the Global Village Construction Set are designed for "at 2 hours of work per day – using local resources – regeneratively – achieving a modern standard of living" (Open Source Ecology, n.d.). Decentralizing global production would lift a burden on the South, making a 10 hour workweek possible there as well. As a form of reparations for centuries of plunder, the North should freely share ecotechnological blueprints such as those for the Global Village Construction Set's machines. With a radical reduction of the formal workweek, it would be possible to evenly distribute household and caring labor across all genders, compared to the gendered "second shift" that housework represents for women today (Hochschild & Machung, 2003). In the North, having less stuff will also mean there's less work involved in cleaning and maintenance.
 

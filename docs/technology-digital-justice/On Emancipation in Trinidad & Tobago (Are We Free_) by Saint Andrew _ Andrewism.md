@@ -7,7 +7,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Figure_2.jpeg)
 
 Trinidad & Tobago, how free are we?
 
@@ -233,8 +232,6 @@ I'm a writer of words, an artist of arts, and a thinker of thoughts. Founder of 
 ### More from Andrew Sage and Andrewism
 
 
-## ![](_page_17_Figure_9.jpeg)
-
 # [The Education System Is Broken](https://medium.com/@andrew-sage/the-education-system-is-broken-87ba86317732?source=post_page---author_recirc--ba0425a08176----0---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
 
 [Why schooling as we know it must be abolished](https://medium.com/@andrew-sage/the-education-system-is-broken-87ba86317732?source=post_page---author_recirc--ba0425a08176----0---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
@@ -275,9 +272,6 @@ Dec 14, 2020 [30](https://medium.com/andrewism/ending-sexual-assault-bb97ba6acab
 
 [As a 23-year-old woman fascinated by human behavior \(and, let's be honest, sometimes just](https://medium.com/@Effycutiex/i-pretended-to-be-a-man-on-a-dating-site-and-i-hate-what-i-discovered-4f624593523a?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [bored and curious\), I decided to conduct a…](https://medium.com/@Effycutiex/i-pretended-to-be-a-man-on-a-dating-site-and-i-hate-what-i-discovered-4f624593523a?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
-## ![](_page_20_Figure_7.jpeg)
-
-## ![](_page_21_Figure_2.jpeg)
 
 #### [Laziness Does Not Exist](https://medium.com/human-parts/laziness-does-not-exist-3af27e312d01?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
@@ -286,14 +280,10 @@ Dec 14, 2020 [30](https://medium.com/andrewism/ending-sexual-assault-bb97ba6acab
 Mar 23, 2018 [344K](https://medium.com/human-parts/laziness-does-not-exist-3af27e312d01?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [2220](https://medium.com/human-parts/laziness-does-not-exist-3af27e312d01?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
 
-## ![](_page_22_Figure_2.jpeg)
-
 # [Jeff Bezos Says the 1-Hour Rule Makes Him Smarter. New Neuroscience](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [Says He's Right](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
 [Jeff Bezos's morning routine has long included the one-hour rule. New neuroscience says yours](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [probably should too.](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
-
-## ![](_page_22_Figure_6.jpeg)
 
 ## Lynn Margulis [: the Woman Who Transformed the Meaning of Self and](https://medium.com/@nina-vinot/lynn-margulis-the-woman-who-transformed-the-meaning-of-self-and-evolution-b8d0df2959aa?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [Evolution](https://medium.com/@nina-vinot/lynn-margulis-the-woman-who-transformed-the-meaning-of-self-and-evolution-b8d0df2959aa?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 

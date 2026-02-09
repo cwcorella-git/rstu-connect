@@ -16,7 +16,7 @@ Following the Haymarket affair, trial and executions, [August Spies,](https://en
 
 The Pioneer Aid and Support Association organized a subscription for a funeral monument. In 1893, the *Haymarket Martyrs' Monument* by sculptor [Albert](https://en.wikipedia.org/wiki/Albert_Weinert) [Weinert](https://en.wikipedia.org/wiki/Albert_Weinert) was raised at Waldheim. It consists of a 16-foothigh granite shaft capped by a carved triangular stone. There is a two step base, which also supports a pedestal and a monumental figure of Justice, depicted as a woman standing guard over the body of a fallen worker, both in bronze. In one hand, she holds a [laurel wreath](https://en.wikipedia.org/wiki/Laurel_wreath) to crown the fallen. Resting on the top of the second step is an arrangement in bronze of [palm branches.](https://en.wikipedia.org/wiki/Palm_branch) The inscription on the pedestal reads, "1887", the year of the executions. On the first step, there is a quote attributed to Spies, recorded just before his execution by hanging: "The day will come when our silence will be more powerful than the voices you are throttling today."
 
-On the back of the monument are listed the names of the men. Above the names, a bronze plaque contains text of the pardon later issued by Governor [John Peter Altgeld](https://en.wikipedia.org/wiki/John_Peter_Altgeld) of Illinois.[\[1\]](#page-2-0)
+On the back of the monument are listed the names of the men. Above the names, a bronze plaque contains text of the pardon later issued by Governor John Peter Altgeld](https://en.wikipedia.org/wiki/John_Peter_Altgeld) of Illinois.[\[1\]
 
 #### **Haymarket Martyrs' Monument**
 
@@ -25,7 +25,7 @@ On the back of the monument are listed the names of the men. Above the names, a 
 
 Haymarket Martyrs' Monument in [Forest Home Cemetery](https://en.wikipedia.org/wiki/German_Waldheim_Cemetery)
 
-The monument was dedicated on June 25, 1893, after a march from Chicago. The dedication ceremony was attended by 8,000, with [trade union](https://en.wikipedia.org/wiki/Trade_union) flags and the [American](https://en.wikipedia.org/wiki/Flag_of_the_United_States) flag draped on the monument. European unions and American organizations sent flowers to be placed[.\[1\]](#page-2-0) A number of activists and labor leaders were [subsequently](https://en.wikipedia.org/wiki/Forest_Home_Cemetery_(Forest_Park)#Haymarket_Memorial) [buried nearby.](https://en.wikipedia.org/wiki/Forest_Home_Cemetery_(Forest_Park)#Haymarket_Memorial) Haymarket defendants, [Michael Schwab](https://en.wikipedia.org/wiki/Michael_Schwab) and [Oscar Neebe](https://en.wikipedia.org/wiki/Oscar_Neebe) were also buried at the monument when they died. [Samuel Fielden](https://en.wikipedia.org/wiki/Samuel_Fielden) is the only Haymarket defendant who is not buried at Forest Home. For years, annual commemorations were held.
+The monument was dedicated on June 25, 1893, after a march from Chicago. The dedication ceremony was attended by 8,000, with trade union](https://en.wikipedia.org/wiki/Trade_union) flags and the [American](https://en.wikipedia.org/wiki/Flag_of_the_United_States) flag draped on the monument. European unions and American organizations sent flowers to be placed[.\[1\] A number of activists and labor leaders were [subsequently](https://en.wikipedia.org/wiki/Forest_Home_Cemetery_(Forest_Park)#Haymarket_Memorial) [buried nearby.](https://en.wikipedia.org/wiki/Forest_Home_Cemetery_(Forest_Park)#Haymarket_Memorial) Haymarket defendants, [Michael Schwab](https://en.wikipedia.org/wiki/Michael_Schwab) and [Oscar Neebe](https://en.wikipedia.org/wiki/Oscar_Neebe) were also buried at the monument when they died. [Samuel Fielden](https://en.wikipedia.org/wiki/Samuel_Fielden) is the only Haymarket defendant who is not buried at Forest Home. For years, annual commemorations were held.
 
 Since the 1970s, the [Illinois Labor History Society](https://en.wikipedia.org/wiki/Illinois_Labor_History_Society) has held the deed to the monument and been responsible for its maintenance and restoration. It conducts monthly guided tours of Forest Home Cemetery from May through October.
 
@@ -48,23 +48,23 @@ Cemetery, [Forest](https://en.wikipedia.org/wiki/Forest_Park,_Illinois)
 
 ## 1893
 
-**Sculptor** [Albert Weinert](https://en.wikipedia.org/wiki/Albert_Weinert)[\[2\]](#page-3-0)
+**Sculptor** Albert Weinert](https://en.wikipedia.org/wiki/Albert_Weinert)[\[2\]
 
 **NRHP reference No.** [97000343 \(https://](https://npgallery.nps.gov/Asset Detail/NRIS/97000343)
 
-[npgallery.nps.gov/](https://npgallery.nps.gov/Asset Detail/NRIS/97000343) [Asset Detail/NRIS/9](https://npgallery.nps.gov/Asset Detail/NRIS/97000343) [7000343\)](https://npgallery.nps.gov/Asset Detail/NRIS/97000343)[\[1\]](#page-2-0)
+npgallery.nps.gov/](https://npgallery.nps.gov/Asset Detail/NRIS/97000343) [Asset Detail/NRIS/9](https://npgallery.nps.gov/Asset Detail/NRIS/97000343) [7000343\)](https://npgallery.nps.gov/Asset Detail/NRIS/97000343)[\[1\]
 
 ## **Significant dates**
 
 **Added to NRHP** February 18,
 
-1997[\[1\]](#page-2-0)
+1997\[1\]
 
 ## **Designated NHL** February 18, 1997
 
-from the Haymarket defendants, and photographs of the men and their families. It also held trial documents, essays, and letters and testimonials from a number of labor unions and fraternal organizations. In addition, it may contain a bust of August Spies[.\[3\]](#page-3-1)[\[4\]](#page-3-2) Research is ongoing to determine the location of the time capsule[.\[5\]](#page-3-3)
+from the Haymarket defendants, and photographs of the men and their families. It also held trial documents, essays, and letters and testimonials from a number of labor unions and fraternal organizations. In addition, it may contain a bust of August Spies.\[3\]\[4\] Research is ongoing to determine the location of the time capsule.\[5\]
 
-The group that discovered the urn cylinder also found a smaller concrete cube thought to be a cremation vault for the ashes of Haymarket martyr Oscar Neebe, pardoned by Gov. John Altgeld, who died in 1916[.\[3\]](#page-3-1)[\[4\]](#page-3-2)
+The group that discovered the urn cylinder also found a smaller concrete cube thought to be a cremation vault for the ashes of Haymarket martyr Oscar Neebe, pardoned by Gov. John Altgeld, who died in 1916.\[3\]\[4\]
 
 #### **Gallery**
 

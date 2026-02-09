@@ -87,7 +87,6 @@ The challenge for the revolutionary unionist is to adapt to these new conditions
 
 Business unionism is dead; it just doesn't know it yet. It will keep losing as we move through this transitional period of the globalization of Capital. Does this mean there's no hope for working folks? Not at all -- it only means there is no middle ground between Labor and Capital -- a position mistakenly occupied by the business unionists. It will mean that the revolutionary union, so long considered a fossil of a bygone age, will become the only possible avenue left for working people who want a real say in what goes on in the workplace.
 
-## ![](_page_6_Figure_3.jpeg)
 
 | In reply to Welcomebylibcom.org |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|

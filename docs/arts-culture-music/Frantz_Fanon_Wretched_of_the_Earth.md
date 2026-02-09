@@ -2210,4 +2210,4 @@ Professor A. Porot, Anuales Médico-Psychologiques, 1918.
 
 44 It is evident, moreover, that this identification with the image invented by the European was highly ambivalent. The European in fact seemed to be paying an equally ambivalent tribute to the violent, excitable, brutal, jealous, proud, and arrogant Algerian who stakes his life on a detail or a word, etc. Let us mention in passing that in their confrontations with the French from metropolitan France, the Europeans in Algeria increasingly tend to identify with this image of the Algerian in their opposition to the French.
 
-![](_page_403_Figure_0.jpeg)
+

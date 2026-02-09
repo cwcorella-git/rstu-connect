@@ -107,9 +107,6 @@ Some of the Prisoners who participated in FTP 2017
 | Reception and Medical Center |
 ## | P. O. Box 628 |
 
-## ![](_page_6_Figure_0.jpeg)
-
-## ![](_page_7_Figure_0.jpeg)
 
 | Please send letters to a few of these people to let them know about your experience at the | | | |
 |--------------------------------------------------------------------------------------------|--|--|--|

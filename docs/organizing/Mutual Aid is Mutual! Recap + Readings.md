@@ -25,7 +25,6 @@ maximum effect.] |
 | There are four critical questions you want to ask when considering a set of claims: |
 | (1) Who wrote it? (2) For what reason? (3) For what audience? (4) What's missing? |
 
-## ![](_page_1_Figure_0.jpeg)
 
 This survival work, when done in conjunction with social movements demanding transformative change, is called mutual aid (1).
 
@@ -47,7 +46,6 @@ Watching the author talk about the book is always super helpful
 
 ## Mariame Kaba and
 
-## ![](_page_3_Figure_0.jpeg)
 
 | look at the sources! |
 |--------------------------------------------------------------------------------------------------|

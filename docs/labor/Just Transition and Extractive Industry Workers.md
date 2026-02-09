@@ -141,7 +141,6 @@ Culver City Takes Historic Steps to End Neighborhood Oil Drilling -
 Just Transition at the Intersection of Labour and Climate Justice Movements: Lessons from the Portuguese Climate Jobs Campaign -
 The Just Transition for Coal Workers Can Start Now. Colorado Is Showing How -
 Just Transition: Joint Proposal of PG&E, Friends of the Earth, NRDC, IBEW Local 1245, et. al. to Retire Diablo Canyon Nuclear Power Plant -
-## ![](_page_8_Figure_0.jpeg)
 
 Retraining for similarly leveled but differently skilled positions within the same company in the same or nearby location;
 

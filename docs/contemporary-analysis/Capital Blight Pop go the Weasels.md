@@ -55,9 +55,6 @@ Obama Admin About To Kneecap Own Efforts To Reform Coal Leasing
 
 ## The Big Coal Bailout of 2016
 
-## ![](_page_3_Figure_0.jpeg)
-
-## ![](_page_4_Figure_0.jpeg)
 
 | Disclaimer: | | |
 |-------------|--|--|

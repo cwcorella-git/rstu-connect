@@ -7,7 +7,6 @@ tags:
   - Bakunin
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 #### MICHAEL BAKUNIN
 
@@ -647,6 +646,5 @@ New introduction by Professor Paul Avrich, Queens College, summarizing the recen
 
 ## IZBN 0-486-55483-X
 
-## ![](_page_102_Figure_7.jpeg)
 
 ## \$5.95 INUSA

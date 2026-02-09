@@ -69,9 +69,6 @@ at Dubois County Courthouse |
 | Iowa |
 ## | Des Moines |
 
-## ![](_page_5_Figure_0.jpeg)
-
-## ![](_page_6_Figure_0.jpeg)
 
 Saturday. May 30, 12 pm (noon)610 5th Ave. South—"March for Justice #George Floyd"
 

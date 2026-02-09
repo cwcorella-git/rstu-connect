@@ -1765,7 +1765,6 @@ The wheel of difference helps dene our sense of self, our relationship to others
 
 The realm of social identities is made up of mostly innate aspects of who we are. Elements of our social identities are gender identity, race, ethnicity, sexual orientation, age, ability, and socioeconomic status. These elements are generally set at birth and reect our social group membership (Jones & Mc Ewen, 2000; Shriberg & Shriberg, 2011; Terrell & Lindsey, 2009). Our social identities help dene who we are as well as provide us natural afnities with others. When we think about community
 
-## ![](_page_171_Figure_2.jpeg)
 
 ## Figure 15.1 The Wheel of Difference or nding connections with others, often these social identities serve as anchors.
 
@@ -3801,11 +3800,9 @@ Toro, 134 Weiss, Michele, 135 Werger, Amanda, 8, 131 Wheatley, Margaret, 171, 23
 
 ### If you enjoyed this book, you may also like these:
 
-## ![](_page_284_Figure_1.jpeg)
 
 Emotionally Intelligent Leadership for Students: Student Workbook, 2nd Edition by Marcy Levy Shankman, Scott J. Allen, Paige Haber-Curran ISBN: 9781118821824
 
-## ![](_page_284_Figure_3.jpeg)
 
 Emotionally Intelligent Leadership for Students: Facilitation and Activity Guide, 2nd Edition by Marcy Levy Shankman, Scott J. Allen, Paige Haber-Curran ISBN: 9781118821770
 

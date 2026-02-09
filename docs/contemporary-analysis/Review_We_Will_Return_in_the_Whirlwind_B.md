@@ -1,5 +1,5 @@
 ---
-title: "Race & Class http://rac.sagepub.com/"
+title: "Review: We Will Return in the Whirlwind"
 author: "Review We"
 date: 1965
 category: contemporary-analysis

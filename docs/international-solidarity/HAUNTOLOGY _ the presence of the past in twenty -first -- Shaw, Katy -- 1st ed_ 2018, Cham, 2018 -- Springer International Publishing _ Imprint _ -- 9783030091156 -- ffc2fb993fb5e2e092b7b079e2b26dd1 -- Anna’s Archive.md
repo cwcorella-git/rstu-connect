@@ -8,7 +8,6 @@ tags:
   - solidarity
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 # Katy Shaw
 

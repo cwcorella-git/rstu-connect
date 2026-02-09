@@ -60,7 +60,6 @@ The 'Roi des Forains'6called for blockades, and claimed that 10000 trucks were b
 
 The presence of Socialist Party figures such as Bernard Hamon, the secretary of the PCF, , and the leader of France Insoumise Jean-Luc Mélenchon, showed the interest of the left political parties in recuperating these protests, especially the Socialist Party who are still reeling from dropping into fifth place in the presidential and being destroyed in the legislative
 
-## ![](_page_4_Figure_0.jpeg)
 
 Clermont-Ferrand (Auvergne): Between 3.000 and 4.000, mostly CGT, SUD-Solidaires, FO, FSU. CGT, SUD, FO from the Michellin tyre factory, CGT from Vittel. No libcom presence apart of 4 or 5 people from Alternative Libertaire (AL) and another handful of the Coordination des Groupes Anarchistes (CGA). The CNT-AIT local didn't show up or at least was not visible. We marched with SUD-Solidaires who had a pretty strong presence with some 700 to 800. The speakers did not give any strike news but told, that two companies are beeing blocked by
 
@@ -79,7 +78,6 @@ claiming 223000, with 60000 or 24000 in Paris. |
 | In reply to Welcomebylibcom.org |
 ## | Thanks. |
 
-## ![](_page_6_Figure_0.jpeg)
 
 Sorry to be a party-pooper, but I think this article is yet another example of "the other comrade's grass is always greener" as far as the class struggle in France is concerned...
 

@@ -187,7 +187,6 @@ Notes:
 ## [1]
 
 "An Open Letter to Big 3 Auto CEOs: The Climate Movement Stands with UAW!"
-## ![](_page_12_Figure_0.jpeg)
 
 | https://www.cbsnews.com/news/uaw-demands-2023-strike-why-contract-negotiations/|
 |-----------------------------------------------------------------------------------------------------------------------|
@@ -206,9 +205,6 @@ al-is-gone-manchin-confirms |
 | Ronald Bronstein, "The Real Issue in the UAW Strike," |
 ## | Portside |
 
-## ![](_page_14_Figure_0.jpeg)
-
-## ![](_page_15_Figure_0.jpeg)
 
 | Canary Media |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

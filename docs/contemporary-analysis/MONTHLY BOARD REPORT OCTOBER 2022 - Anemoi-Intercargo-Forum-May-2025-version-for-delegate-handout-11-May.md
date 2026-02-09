@@ -7,7 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 ## ANEMOI'S MISSION IS TO ACCELERATE THE MARITIME INDUSTRY'S TRANSITION TO ZERO EMISSIONS BY DELIVERING MARKET-LEADING WIND TECHNOLOGY
 
@@ -50,12 +49,8 @@ More thrust per m2 compared to other wind propulsion technologies.
 #### 5M DIAMETER ROTOR SAILS
 
 
-## ![](_page_3_Figure_4.jpeg)
-
 #### 3.5M DIAMETER ROTOR SAILS
 
-
-## ![](_page_3_Figure_7.jpeg)
 
 - VLOC
 - VLCC
@@ -68,7 +63,6 @@ More thrust per m2 compared to other wind propulsion technologies.
 - Small gas carriers
 - Small general cargo vessels
 
-## ![](_page_4_Figure_1.jpeg)
 
 Rotor Sails on a longitudinal Rail System are transported along the deck by an independent Rail System **ANEMOI**
 
@@ -77,19 +71,12 @@ Rotor Sails on a longitudinal Rail System are transported along the deck by an i
 - Rotor Sail repositioning in less than 15min
 
 
-## ![](_page_6_Figure_1.jpeg)
-
 - Minimal impact on cargo and port operations
 - Suitable for all vessel type, recommended for Bulk Carriers
 - Rotor Sail repositioning in less than 15min
 
 
 ## **ANEMOI**
-
-
-## ![](_page_8_Figure_1.jpeg)
-
-## ![](_page_8_Figure_2.jpeg)
 
 
 ## **VLOC 400,000 DWT** *NSU TUBARAO*
@@ -140,8 +127,6 @@ Estimated Savings (IMO Route):
 
 **2,100 t/year 9.5%\***
 
-## ![](_page_12_Figure_0.jpeg)
-
 
 ## Tubarao (BRTUB)
 
@@ -177,11 +162,8 @@ Optimization | 1,250 mt | 964k USD | ~25% |
 ## Compliant
 
 
-## ![](_page_13_Figure_10.jpeg)
-
 # MEPC 83 Outcomes: Rotor Sails can help meet IMO rules faster and more cheaply
 
-## ![](_page_14_Figure_2.jpeg)
 
 New GHG Fuel Standard (GFS) and GFI rules focuses on lowering the total greenhouse gas emissions per unit of energy used to move the ship.
 

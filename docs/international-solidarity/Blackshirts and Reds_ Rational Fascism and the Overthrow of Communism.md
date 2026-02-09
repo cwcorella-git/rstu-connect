@@ -2630,4 +2630,3 @@ Written with lucid and compelling style, this book goes beyond truncated modes o
 
 Michael Parenti is one of the nation's leading progressive thinkers. He lectures widely around the country and is the author of *Dirty Truths, Against Empire, Democracy for the Few,* and *Land of Idols: Political Mythology in America*, and many other books. He lives in Berkeley, California.
 
-## ![](_page_185_Figure_6.jpeg)

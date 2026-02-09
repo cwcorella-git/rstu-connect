@@ -41,7 +41,6 @@ oddballs. |
 | 6 months 1 week ago |
 | @ goff |
 
-## ![](_page_3_Figure_0.jpeg)
 
 6 months 1 week ago
 

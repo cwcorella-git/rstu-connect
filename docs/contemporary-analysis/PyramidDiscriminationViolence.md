@@ -12,7 +12,6 @@ In our culture sometimes both men and women can assume that sexual harassment or
 
 This pyramid represents a continuum of abuse – the further up we go, the less socially acceptable the behaviours are. But we can't measure harm to a victim by what 'category' it falls into – apart from death, right at the top. Everyone's experience is different.
 
-## ![](_page_0_Figure_3.jpeg)
 
 ### **Stage 1: Beliefs and attitudes**
 

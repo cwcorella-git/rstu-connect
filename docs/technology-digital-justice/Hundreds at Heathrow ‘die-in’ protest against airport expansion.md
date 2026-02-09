@@ -16,7 +16,6 @@ Simultaneously, a 'critical mass' bike ride with 150 riders wearing red [2] circ
 
 The action was part of a global wave of actions opposing airport expansion (
 
-## ![](_page_1_Figure_0.jpeg)
 
 countries that are the hardest hit by climate change, even though they have done the least to cause the problem. Expanding Heathrow is incompatible with creating a fairer and more equal world.
 
@@ -40,7 +39,6 @@ Aviation facts:
 
 Flying is the most emissions-intensive form of transport and
 
-## ![](_page_3_Figure_0.jpeg)
 
 The aviation industry enjoys a number of tax breaks: most substantially there is no duty on aircraft fuel or VAT on tickets, a 'major anomaly' according to the World Bank and IMF . This money could be invested in sustainable transport, in improving rail connections around the UK and internationally. A large proportion of Heathrow flights are short haul , these routes could be better, and more sustainably, serviced by improved rail infrastructure. Past experience shows this: since the Eurostar has been running the number of flights from London to Paris and Brussels has fallen dramatically (by nearly half and a third, respectively). If Heathrow expands, it would be responsible for more emissions than any other single site in the UK, including Drax the UK's largest power station. Timing In July 2015 the Davies Report recommended building a third runway at Heathrow airport. In July 2016 London City airport was given the go-ahead for expansion to accommodate larger aircraft and more traffic.
 

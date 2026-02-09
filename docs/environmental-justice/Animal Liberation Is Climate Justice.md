@@ -379,9 +379,6 @@ Chiapas," |
 paper presented at Brock University's "Thinking about Animals: Domination, Captivity,
 Liberation" conference, St. Catherines, Ontario, Canada, March 15–16, 2007. |
 
-## ![](_page_26_Figure_0.jpeg)
-
-## ![](_page_27_Figure_0.jpeg)
 
 | 19. Amy Percival, " |
 |-----------------------------------------------------------------------------------------------------------------------|
@@ -402,13 +399,6 @@ Death Risks, |
 | 24. Interfaith Center on Corporate Responsibility, |
 ## | "Factory Farms & Water Pollution |
 
-## ![](_page_29_Figure_0.jpeg)
-
-## ![](_page_30_Figure_0.jpeg)
-
-## ![](_page_31_Figure_0.jpeg)
-
-## ![](_page_32_Figure_0.jpeg)
 
 | 41. Erin R. Hahn, Meghan Gillogly, and Bailey E. Bradford, " |
 |---------------------------------------------------------------------------------------------------------------------|
@@ -427,8 +417,4 @@ Shift Away From Meat," |
 | " Creatures.org, 2011. |
 ## | 44. |
 
-## ![](_page_34_Figure_0.jpeg)
 
-## ![](_page_35_Figure_0.jpeg)
-
-## ![](_page_36_Figure_0.jpeg)

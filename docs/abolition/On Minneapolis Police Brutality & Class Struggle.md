@@ -34,7 +34,6 @@ adri
 
 I'm not sure how many of the businesses being subjected to property damage/looting in the States are actually "mom and pop shops", or one person businesses. Target etc. is definitely not a "mom and pop shop". The appeal by right-wingers/libereals to "hard-working business people" is also pretty funny considering by definition business people enrich themselves off other people's labor; I'm sure bangladeshi garment workers or Target workers aren't shedding any tears over some clothes being looted. The bottom line of any business though is to make a profit and reproduce itself (on an expanded scale), not to "support the community" or produce things a community might need free of charge (it would cease to be a business then). It doesn't matter how well-intentioned business owners are; their survival depends on exploiting others and generally behaving in anti-social ways.
 
-## ![](_page_3_Figure_2.jpeg)
 
 The chain stores that were damaged, including Walgreens and Fallas Paredes, provide jobs, sell affordable goods and serve as lifelines for poor and homeless residents in downtown, Oliveira said.
 
@@ -46,7 +45,6 @@ Talk to these families in the dump, and a job in a sweatshop is a cherished drea
 
 Of course if people have no means of producing themselves and must sell their only commodity labor-power for whatever wages on offer to survive, then in that sense wage-slavery "lifts people out of poverty". I'm not sure why it follows that we should defend that state of affairs instead of replacing it with a form of social reproduction that's oriented toward satisfying human needs and not enriching others. If wage slavery and slavish conditions is all capitalism has to offer then that should point to us needing to abolish it, not tolerate it.
 
-## ![](_page_4_Figure_4.jpeg)
 
 ## In reply to Welcomebylibcom.org
 

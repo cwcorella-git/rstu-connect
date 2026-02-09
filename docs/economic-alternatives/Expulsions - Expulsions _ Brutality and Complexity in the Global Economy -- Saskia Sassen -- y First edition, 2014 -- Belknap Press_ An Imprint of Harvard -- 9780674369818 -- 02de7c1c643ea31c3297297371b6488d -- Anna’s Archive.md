@@ -150,13 +150,11 @@ The second logic is the transformation of growing areas of the world into extrem
 
 In e qual ity in the pro t- making capacities of different sectors of the economy and in the earning capacities of different types of workers has long been a feature of advanced market economies. But the orders of magnitude today across much of the developed world distinguish current developments from those of the postwar decades. The United States is probably among the most extreme cases, so it makes the pattern brutally clear. Figures 1.1 and 1.2 show the extraordinary
 
-## ![](_page_25_Figure_4.jpeg)
 
 FIGURE 1.1 Corporate Pro ts after Tax in the United States, 1940s– 2010s (in \$ billions)
 
 Data source: Federal Reserve Bank of St. Louis 2013a.
 
-## ![](_page_26_Figure_1.jpeg)
 
 FIGURE 1.2 Corporate Assets in the United States, 1950s– 2010s (in \$ billions)
 
@@ -197,7 +195,6 @@ tax evasion estimates for several developed countries, including those generally
 
 ## b. Data for 1993
 
-## ![](_page_29_Figure_2.jpeg)
 
 FIGURE 1.3 Countries with the Largest Absolute Levels of Tax Evasion, 2011 Data source: Johnston 2011.
 
@@ -213,7 +210,6 @@ The exceptionally high pro t- making capacity of many of the leading ser vice in
 
 Of all the highly developed countries, it is the United States where these deep structural trends are most legible. National-level data for the United States show a sharp growth in in e qual ity. For instance, earnings growth during the precrisis level for 2001 to 2005 was high but very unequally distributed. Most of it went to the
 
-## ![](_page_32_Figure_1.jpeg)
 
 FIGURE 1.4 Share (in %) of Incomea Going to the Top 10 Percent of U. S. Households, 1917– 2002
 
@@ -223,7 +219,6 @@ Note: a. Income is de ned as market income but excludes capital gains.
 
 upper 10 percent and, especially, the upper 1 percent of house holds. The remaining 90 percent of house holds saw a 4.2 percent decline in their market-based incomes.17 Figure 1.4 traces a longer-term pattern from the boom and bust of the 1920s, the growth of the middle sectors in the de cades of the Keynesian period, and the return to rapidly rising in e qual ity by 1987. It was in that immediate postwar period extending into the late 1960s and early 1970s that the incorporation of workers into formal labor market relations reached its highest level in the most advanced economies. In the United States, it helped bring down the share of total job earnings going to the top 10 percent from 47 percent at its height in the 1920s and early 1930s to 33 percent from 1942 until 1987. The formalization of the employment relation in this period helped implement a set of regulations that, overall, protected workers and secured the gains made by often violent labor struggles. Not that
 
-## ![](_page_33_Figure_2.jpeg)
 
 FIGURE 1.5 Percentage Change from 1979 Levels in After- Tax Income in the United States, 1979– 2007
 
@@ -268,13 +263,11 @@ The growth of in e qual ity in the past thirty years has been relentless.19 Rath
 
 While there is general agreement that the overall level of economic in e qual ity in the world has risen sharply over the past century and a half (see Figure 1.6), there is ongoing debate over the past twenty years. Various authors have demonstrated that much depends on
 
-## ![](_page_36_Figure_5.jpeg)
 
 ## FIGURE 1.6 In e qual ity, 1830– 1990
 
 Data source: Bourguignon and Morrison 2002, table 2.
 
-## ![](_page_37_Figure_2.jpeg)
 
 FIGURE 1.7 In e qual ity within Countries, 1988– 2002 Data source: Milanovic 2009.
 
@@ -282,7 +275,6 @@ how global in e qual ity is mea sured. If rather than using country means, we wo
 
 Though in e qual ity among countries still accounts for most of global in e qual ity, its share has been declining since the late 1980s, which con rms some of the trends I discuss: according to Atinc et al., it fell from 78 percent in 1988 to 74 percent in 1993 and 67 percent by 2000.21 What supports my thesis is that since the 1980s, intracountry inequality— inequality within countries— has been increasing (see Figure 1.7), even if not necessarily in all countries. Further, there were signi cant rises in several OECD member countries
 
-## ![](_page_38_Figure_1.jpeg)
 
 FIGURE 1.8 Change in within-Country Inequality in OECD Countries, 1980s– 2000s
 
@@ -294,7 +286,6 @@ for which long- term data are available (see Figure 1.8 for a sampling). For som
 
 The United States can serve as a kind of natural experiment, showing us how bad income in e qual ity can get in what is commonly categorized as a "highly developed country" (see Figure 1.9). According to Milanovic, even though the poorest people in the United States may, on average, fare much better than the poorest in many devel-
 
-## ![](_page_39_Figure_2.jpeg)
 
 FIGURE 1.9 Percentage Growth from 1979 to 2006 in Average Wages and Salaries in the United States, by Household Rank
 
@@ -306,13 +297,11 @@ Wealth disparities in the United States tend to mirror disparities in income. Th
 
 Even more so than income, gains in real wealth were heavily skewed toward the wealthiest Americans in the period from 1983
 
-## ![](_page_40_Figure_4.jpeg)
 
 FIGURE 1.10 Ratio of Wealth of Top 1 Percent to Median Wealth in the United States, 1962– 2010
 
 Data source: Economic Policy Institute 2011e.
 
-## ![](_page_41_Figure_2.jpeg)
 
 FIGURE 1.11 Change in Share of Total Wealth from 1983 to 2010 in the United States, by Household Rank
 
@@ -332,15 +321,12 @@ I argue that we cannot assume that Greece, Spain, and Portugal are unique cases.
 
 The data in Figures 1.12 and 1.13 offer evidence for this thesis that Greece and Spain are extreme examples of a larger trend affecting the eurozone more generally.27 Greece's government debt almost tripled from 2000 to 2013. While Spain's debt actually declined in the roaring 2000s, by 2011 its private debt was surpassing the eurozone average. Notwithstanding sharp differences among countries, the eurozone overall saw declining economic growth and, as
 
-## ![](_page_44_Figure_1.jpeg)
 
 FIGURE 1.12 Greek Debt Compared to Eurozone Average, 1996– 2011 Data source: Eurostat, "Government De cit and Debt," 2013a.
 
-## ![](_page_44_Figure_3.jpeg)
 
 FIGURE 1.13 Spanish Debt Compared to Eurozone Average, 1996– 2011 Data source: Eurostat, "Government De cit and Debt," 2013a.
 
-## ![](_page_45_Figure_2.jpeg)
 
 FIGURE 1.14 General Government Financial Balance, 1999– 2012 Data source: OECD 2012.
 
@@ -348,7 +334,6 @@ Figure 1.14 shows, a considerable rise in government indebtedness. And workers a
 
 In a detailed examination of the G20, a group that includes many non- European countries, the International Labour Or ga ni za tion and the OECD found that in "postcrisis" 2012, seventeen of these countries had unemployment levels above the precrisis levels of 2007.28 Only Germany, Rus sia, and Brazil had a decline in unemployment. More speci cally, in over half of the countries examined, long- term unemployment as a share of total unemployment remains above precrisis levels. Finally, in Europe the unemployment rate rose further overall, and particularly so in France, Italy, and Spain. Europe's 2012 youth unemployment rate exceeded 20 percent in most countries (see Figure 1.15), in some cases by a lot. It was below 5 percent in only four G20 countries (China, India, Japan, and the Republic of Korea).
 
-## ![](_page_46_Figure_1.jpeg)
 
 FIGURE 1.15 European Youth (under Age 25) Unemployment, 2006, 2012 Data source: Eurostat 2013b.
 
@@ -372,13 +357,11 @@ The sharp contraction of the space of what is considered to be the formal econom
 
 The extreme employment condition in Greece and Spain becomes evident when these two countries are compared to countries as diverse as China and the United States (see Figure 1.16).34 The Greek and Spanish labor force has unemployment rates two to three times as large as that in the United States; one qualifier here is that Europe's unemployment measures include a far larger share of
 
-## ![](_page_50_Figure_4.jpeg)
 
 FIGURE 1.16 Unemployment Rates in China, Greece, Spain, and the United States, 1991–2011
 
 Data source: "Unemployment and Inflation (11–19)" and "Key Supply Side Data (20–22)" in OECD 2012; IMF 2012b
 
-## ![](_page_51_Figure_2.jpeg)
 
 FIGURE 1.17 Male Involuntary Part- Time Workers Ages 25–54 in Greece, Italy, Portugal, Spain, and the United States, 2001– 2011 (in thousands) Data source: OECD 2013c.
 
@@ -386,7 +369,6 @@ the unemployed than do United States mea sures. In 2013, youth unemployment rate
 
 The number of involuntary part- time workers has grown in the past ten years. Figures 1.17 and 1.18 indicate the extent to which the adult labor market has become increasingly precarious in Greece, Italy, Portugal, Spain, and the United States. Important to note is that there is a sharp overrepre sen ta tion of women among involuntary part-time workers. For instance, in Spain their number grew from under 300,000 to almost 1 million, an overrepre sen ta tion that cannot be explained by the economic crisis alone. In Italy, Spain, and the United States, the number of men in involuntary part- time work has doubled, while it has tripled for women.
 
-## ![](_page_52_Figure_1.jpeg)
 
 FIGURE 1.18 Female Involuntary Part-Time Workers Age 25–54 in Greece, Italy, Portugal, Spain, and the United States, 2001– 2011 (in thousands) Data source: OECD 2013c.
 
@@ -396,11 +378,9 @@ The shrinking economies of southern Eu rope have generated novel patterns of geo
 
 Among immigrants, those of Eu ro pe an and Latin American origin exhibit the highest rates of out- migration, especially when compared to Africans and Asians (Figure 1.20). Given the long history of Eu ro pe an emigration to Latin America and the ease with which
 
-## ![](_page_53_Figure_1.jpeg)
 
 FIGURE 1.19 Out-migration from Spain by Citizenship, 2002–2010 Data source: Eurostat 2012c.
 
-## ![](_page_53_Figure_3.jpeg)
 
 FIGURE 1.20 Out- migration from Spain by Continent of Origin, 2002– 2011 Data source: Eurostat 2012c.
 
@@ -659,7 +639,6 @@ d. Persons who are not considered nationals by any state under the operation of 
 
 e. Individuals who do not fall directly into any of the other categories, but to whom UNHCR may protect and offer assistance services, on humanitarian or other special grounds.
 
-## ![](_page_66_Figure_0.jpeg)
 
 gory. None of these numbers take into account the surge in refugees after 2011, notably due to the con ict in Syria.
 
@@ -707,7 +686,6 @@ Despite such discrepancies, the International Centre for Prison Studies draws se
 
 It is more challenging to estimate a global equivalent to the United States number of 7 million Americans under some form of correctional supervision ( jail, prison, probation, parole). Parole is not widely used in much of the world; it remains a judicial practice primarily of wealthy Western countries. On the other hand, poor countries tend to have vastly more people detained while awaiting trial. In 2008, The International Centre for Prison Studies conducted a global analysis of pretrial detainees and other remand prisoners in all ve continents, estimating that as many as 2.5 million people worldwide were incarcerated while awaiting trial. In Liberia, Mali, Haiti, Andorra, Niger, and Bolivia, 75 percent or more of the total prison population is awaiting trial. In 2008, the Open Society Foundation launched a global pretrial campaign as part of their initiative on
 
-## ![](_page_73_Figure_4.jpeg)
 
 FIGURE 1.22 U. S. State and Federal Prisoners in Private Facilities, 2000– 2010 Data source: Guerino, Harrison, and Sabol 2012, appendix table 19.
 
@@ -762,7 +740,6 @@ This one- year snapshot of global private prison expansion is instructive for se
 
 Private prisons and prison ser vices corporations in the United States pursue their goals as a regular private rm might (see Figure 1.23). Campaign contributions in the 2000s by two major corporations had reached several million dollars by the 2010 election cycle in Washington, DC (see Figure 1.23) and even more at the state level. In economies where privatization has been seen as ef cient the argument for private prisons is easy to make. Yet prisons are not just any way of making pro ts.56 Pro ts come from lling beds and selling state prison ser vices. Indeed, there is evidence of bribes to keep prison beds full and pro ts up. In what is probably an extreme case, the Penn-
 
-## ![](_page_79_Figure_2.jpeg)
 
 FIGURE 1.23 Washington Campaign Contributions (in thousands of dollars), 2002– 2012
 
@@ -905,7 +882,6 @@ While the explosion in food demand and food prices in the mid-2000s was certainl
 
 A second major pattern is the massive concentration of foreign acquisitions in Africa. Of the publicly reported deals, 948 land ac-
 
-## ![](_page_102_Figure_4.jpeg)
 
 FIGURE 2.1 Global Land Acquisitions by Sector, 2006– 2010 (in millions of hectares)
 
@@ -915,13 +891,11 @@ quisitions totaling 134 million hectares are located in Africa; 34 million of th
 
 It is important to note that acquisitions in OECD countries are generally not reflected in the data. One reason is that the Land Matrix only counts private transactions that involve a conversion of tenure system (e.g., land that formerly was held in common by a social group is transferred to private ownership) or a move away from smallholder production. Several major OECD countries, notably the United States and Australia, have had precisely such histories of land appropriation, from indigenous societies and from
 
-## ![](_page_103_Figure_4.jpeg)
 
 FIGURE 2.2 Regional Distribution of Land Acquisitions, 2011 (in millions of hectares)
 
 Source: Anseeuw, Wily, et al. 2012, figure 4.
 
-## ![](_page_104_Figure_1.jpeg)
 
 FIGURE 2.3 Most- Targeted Countries According to Size of Total Reported Acquisitions, 2012
 
@@ -933,7 +907,6 @@ The data on acquisitions also point to a sort of regionalism that is not just ge
 
 A brief elaboration of the case of biofuels and timber illustrates some additional features of land acquisitions. What stands out is how much land is needed to meet demand for biofuels, often implemented in the name of greening energy supplies, even though there is little greening involved. For example, the EU's renewable fuels target requires that 10 percent of transport fuels be supplied by renewables
 
-## ![](_page_105_Figure_4.jpeg)
 
 FIGURE 2.4 The Origin of Investment: Top 20 Countries, 2012 Source: Anseeuw, Boche, et al. 2012, gure 11.
 
@@ -960,11 +933,9 @@ The demand for timber might become another major stimulus for land acquisitions.
 
 While it belongs to a different economic domain and requires far less land than crops or timber, manufacturing is increasingly competing for land in par tic u lar areas. For example, case studies from the International Land Coalition show this is occurring with the establishment of special economic zones (SEZs) in densely populated areas
 
-## ![](_page_107_Figure_4.jpeg)
 
 FIGURE 2.5 Land Acquisition by Type of Investor Data source: Anseeuw, Boche, et al. 2012, gure 12.
 
-## ![](_page_108_Figure_1.jpeg)
 
 FIGURE 2.6 Assessment of the Grabbed Water in the Top 24 Grabbed Countries, 2012 (in billions of cubic meters)
 
@@ -1098,7 +1069,6 @@ No speci c investor dominates in ve of these top- selling countries. The excepti
 
 Overall there are forty- seven different countries of origin among investors in these six countries. Among the countries with the most
 
-## ![](_page_115_Figure_2.jpeg)
 
 FIGURE 2.7 Top Land Sellers and Buyers in Africa (Tanzania, Mozambique, Mali), 2010
 
@@ -1106,7 +1076,6 @@ Data source: Friis and Reenberg 2010.
 
 diverse group of investors by country of origin are Madagascar, with twenty- four foreign investors from fteen countries, and Ethiopia, with twenty- six investors from twelve countries. Asian countries (China, South Korea, India, and Japan) make up almost 20 percent of investors in these six countries. Middle Eastern countries (Saudi Arabia, United Arab Emirates, Egypt, Jordan, Qatar, Lebanon, and Israel) account for almost 22 percent of investors. Eu rope an countries (United Kingdom, Sweden, Netherlands, Germany, Italy, Denmark, and France) account for 30 percent of investors.
 
-## ![](_page_116_Figure_1.jpeg)
 
 FIGURE 2.8 Top Land Sellers and Buyers in Africa (Madagascar, Sudan, Ethiopia), 2010
 
@@ -1287,11 +1256,9 @@ Ontario, CA | 3.51 | 1.05 | 2,372 |
 
 Source: Global Insight 2007, table 2.
 
-## ![](_page_137_Figure_2.jpeg)
 
 FIGURE 3.1 Ratio of Residential Mortgage Debt to GDP in Europe, 2006 Data source: Miles and Pillonca 2008, figure 1.
 
-## ![](_page_137_Figure_4.jpeg)
 
 FIGURE 3.2 Ratio of Residential Mortgage Debt to GDP in Emerging Asia, 2001-2005
 
@@ -1326,7 +1293,6 @@ TABLE 3.4: Ratio of Household Credit to Personal Disposable Income, 2000–2005
 
 Data source: IMF 2006.
 
-## ![](_page_139_Figure_2.jpeg)
 
 FIGURE 3.3 Share of Foreign Currency Dominated House hold Credit, 2005 Data source: IMF 2006.
 
@@ -1441,7 +1407,6 @@ We saw this also in the 1997 Asian nancial crisis. Thousands of healthy manufact
 
 The critical event that brought the nancial system to a momentary standstill in 2008 was the classic bursting of a speculative bubble: the \$62 trillion credit default swap crisis that exploded in September 2008, a full year after the subprime mortgage crisis of August 2007. By 2008, the decrease in house prices, the high rate of mortgage foreclosures, the decline in global trade, and the growth of unemployment all alerted investors that something was not right. This in turn led those who had bought credit default swaps as a sort of insurance (see Figure 3.4 for the rapid growth in the value of such swaps between 2001 and 2007) to want to cash in.
 
-## ![](_page_148_Figure_1.jpeg)
 
 FIGURE 3.4 Rising Value of Credit Default Swaps, 2001– 2008 (in trillions of \$) Source: Varchaver and Benner 2008, based on data from ISDA.
 
@@ -1453,7 +1418,6 @@ A key component of the shadow banking system is so- called Dark Pools. A dark po
 
 Initially, dark pools appealed to institutional investors such as pension funds and mutual funds that need to periodically make large transactions in a single security. In a public exchange with an open order book, the presence of a large order can immediately move the price of a stock (for example, if ABC Co. has an average trading volume of 1 million shares a day, and there is an entry placed in the order book to buy 500,000 shares, it's an easy bet that ABC stock is going to go up, and the price that the purchaser will have to pay likely to be higher by the time the transaction is completed). To combat this, large investors had brokers "work" trades, breaking large blocks of stock into smaller transactions carried out on an extended period of time. This solution was never entirely effective: it increased price volatility and transaction time, and market participants could still detect a general upsurge of demand. The introduction of computerized high- frequency trading (HFT) made the situation much worse for institutional investors; algorithmic trading models could reliably detect even the most patiently distributed orders.14 Dark pools, rst offered by nancial giants such as Credit Suisse and Goldman Sachs, offered a refuge for investors who wanted to make transactions without immediately losing value. Today, dark pool trading represents about 13 percent of all stock market action15 and their numbers are increasing (see Figure 3.5).
 
-## ![](_page_150_Figure_2.jpeg)
 
 FIGURE 3.5 Number of Dark Pools in the United States and Eu rope, 2005– 2011
 
@@ -1579,7 +1543,6 @@ Lead, a common industrial material, is extremely toxic. Exposure to lead can cau
 
 Any pro cess that involves lead can be dangerous. Lead smelting, the extraction of lead from mined ore or its recovery from recycled materials through a hot air combustion pro cess, can release large amounts of lead dust and sulfur into the air, if not properly treated, and generates signi cant amounts of toxic slag leftovers. Informal battery recycling is another key vector for lead pollution. Used leadacid batteries (particularly car batteries) are imported in bulk into developing countries, where they are broken up manually and the lead is extracted for resale. Much of this work is done in the home or at informal factories without safety equipment, and the risk of exposure to lead particulate and battery acid is high. Among the workers involved in battery recycling are children.21
 
-## ![](_page_172_Figure_3.jpeg)
 
 FIGURE 4.1 Population at Risk from Lead Pollution from Lead Smelters, 2012 Source: Blacksmith Institute 2011d.
 
@@ -1607,7 +1570,6 @@ Ready access to high-quality water is also a factor in the location of these clu
 
 Further, these businesses are located in marginalized neighborhoods largely separated from the residences of the af uent or in uential; the people most exposed to these toxins are the stigmatized tannery workers and their families. The amounts of waste generated by these tannery clusters can be immense: a large agglomeration in Bangladesh included roughly 200 tanneries and produced an estimated 7.7 million liters of wastewater and 88 million tons of solid waste a year, according to the Blacksmith Institute.27 Figure 4.2
 
-## ![](_page_177_Figure_2.jpeg)
 
 FIGURE 4.2 Population at Risk from Chromium Pollution from Tanneries, 2011
 
@@ -1838,7 +1800,6 @@ Under current conditions, global CO2 emissions (including emissions related to d
 
 One major effect is rising land temperature (see Figure 4.4). The numbers for the current warming phase are extreme compared
 
-## ![](_page_207_Figure_5.jpeg)
 
 FIGURE 4.4 Land Area with Hot, Very Hot, and Extremely Hot Temperatures, 1960–2010
 
@@ -1848,13 +1809,11 @@ to the available historical records. May 2012 was "the 327th consecutive month i
 
 Climate change has already started to affect global agricultural output (see Figure 4.6). The Club of Rome predicts that climate change will cause an increase of 2°C in average temperature by the year 2052 and a 2.8°C rise in average temperature by 2080. An increase of that magnitude is predicted to "reduce yields across two-thirds of the
 
-## ![](_page_208_Figure_3.jpeg)
 
 FIGURE 4.5 Temperature Data: Multiple Sources Confirm Warming Trend, 1980–2010
 
 Data source: World Bank 2012, figure 3.
 
-## ![](_page_209_Figure_1.jpeg)
 
 FIGURE 4.6 Insuf cient Water Supply: Impacts on Agricultural Productivity, 2009
 
@@ -1873,7 +1832,6 @@ change is not the sole cause of the drying. But the scale and velocity of water 
 
 The other major planetary transformation arising from direct and indirect effects of green house gases is the rise of ocean levels (see Figure 4.8) and their acidity. Between 443 billion and 629 billion tons of meltwater are added to the world's oceans each year, which
 
-## ![](_page_211_Figure_2.jpeg)
 
 FIGURE 4.8 Sea- Level Rise (in millimeters) by Multiple Measures, 1960– 2010 Data source: World Bank 2012, gure 6B.
 
@@ -1898,7 +1856,6 @@ Permafrost thaw creates a feedback loop that accelerates the type of climate cha
 
 Current efforts by many governments to stem this kind of climate change are not going to be enough. Even if we implement existing agreed-upon standards, we would still not secure the planet's sustainability. Figure 4.10 shows two future patterns: one under current conditions and the second if we implemented all current agreements
 
-## ![](_page_214_Figure_1.jpeg)
 
 FIGURE 4.10 Annual Green house Gas Emissions a with Full Implementation of Agreements, 2010– 2020
 

@@ -445,7 +445,6 @@ conditional safetys and kisses on the forehead. Material and emotional reassuran
 | it is all marketing, even still. You simply cannot be Beautiful and openly mean-spirited or out of
 balance; in |
 
-## ![](_page_29_Figure_0.jpeg)
 
 Just like a pumpkin only turns to a carriage under the right benevolent wand, Beauty only turns to capital under the right kind of attention— the attention of the folks in charge. Catering to the powerful, the most resourced, the most visible gives world-makers the ability to decide what is and what is not pleasing overall. It makes sure the same people are throwing the same exclusive pool parties. The dance of standards will never be equitable: the reason you establish a norm in the first place is to ascertain who or what is deviant. Even more terrifying is considering what the menfolk who made up or modified the standards in place want from Beauty.
 

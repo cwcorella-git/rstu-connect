@@ -1204,7 +1204,6 @@ c c cg y p ( cp g c g c pcy c g; c c y p ggpc c g p pc) c g cp p (g g ccc c) B s
 
 9 2)
 
-## ![](_page_140_Figure_2.jpeg)
 
 FIGURE 4.1. U. S. Corporate Profits, 1993-2008.
 
@@ -1288,7 +1287,6 @@ A H p cg [y] c c k c cc hp7 c p c g c c pp cg g g c ppy/hp c g c g cc c cp g c c
 
 ## s Yk T ) D Yk T, , 2 2 o
 
-## ![](_page_149_Figure_2.jpeg)
 
 FIGURE 4.2. Global Hedge Funds, 1999-2008.
 

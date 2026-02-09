@@ -1,8 +1,12 @@
 ---
-title: ''
+title: "A Cypherpunk's Manifesto"
+author: "Eric Hughes"
+date: 1993
 category: theory
 tags:
-  - theory
+  - technology
+  - privacy
+  - cryptography
 ---
 
 

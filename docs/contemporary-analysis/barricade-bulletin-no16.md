@@ -92,7 +92,6 @@ Over the next number of months workers will once again take industrial action in
 
 Ryan Roberts was sentenced on the 17th December 2021 at Bristol Crown Court to a total of 14 years in prison. He was convicted of riot and four counts of arson. Three of the sentences run consecutively and only one concurrently, hence the brutal sentence of 14 years.
 
-## ![](_page_3_Figure_5.jpeg)
 
 As it is over seven years, it means he has to do two thirds of the sentence. He will do just under a decade in prison.
 
@@ -195,7 +194,6 @@ For further details on the annual Bloody Sunday week of events, please check out
 
 ## **BLOODSUNDAYMARCH. ORG**
 
-## ![](_page_7_Figure_2.jpeg)
 
 Talking Anarchy is part of our ongoing educational work in which each issue will touch on areas of anarchism, prominent figures as well as historical events.
 
@@ -233,7 +231,6 @@ A spokesperson for the Derry Radical Bookfair said: "We are delighted to announc
 
 The Radical Bookfair is still one of the country's largest radical book fair with a wide selection of independent radical press, book sellers, publishers and distributors from across Ireland with a number
 
-## ![](_page_8_Figure_8.jpeg)
 
 of participants taking part from Scotland, England and Wales. A very important focal point for many and firmly part of the city's political calendar.
 

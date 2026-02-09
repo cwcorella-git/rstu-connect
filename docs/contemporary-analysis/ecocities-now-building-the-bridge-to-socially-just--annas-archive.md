@@ -468,7 +468,6 @@ This paper investigates informal areas and highlights their hidden green charact
 
 Fig. 2.1 Sustainable Urbanism Principles, adopted from (Farr 2008) and (Khalil 2010)
 
-## ![](_page_21_Figure_3.jpeg)
 
 #### 2.2 Sustainable Urbanism Theories and Principles
 
@@ -1870,7 +1869,6 @@ The analysis shows that the handling of water and sewage in Tamansari is unsusta
 
 Only some of the water sources bear the potential to be used in a decentralized, integral water system (see Fig. 3.1 and Table 3.1\). Bottled water should be replaced due to its high price, health risks, and unsustainable footprint. Wells, springs, and boreholes should not be used because they are mostly contaminated, already overexploited, and increase the risk of land erosion and even landslides (Housing Department Bandung 2018\). PDAM tap water could stay a source for raw water, but it should not be relied on. There are no health risks, but the unreliable distribution and water quality make 44 A. Fuchs et al.
 
-## ![](_page_52_Figure_1.jpeg)
 
 **Fig. 3.1** Water flows in Kampung Tamansari; graphic depiction of how the aesthetic perception of water differs from the actual contamination (own image)
 
@@ -2030,7 +2028,6 @@ The well-organized neighborhood communities of Tamansari should be the basis for
 
 The RW and RW leaders are the key figures in their role of connectors between experts, residents, and executors. The monthly assemblies can be used to communicate the technical possibilities and find common ground. Their positive attitude 48 A. Fuchs et al.
 
-## ![](_page_56_Figure_1.jpeg)
 
 **Fig. 3.2** Overview flows and spatial components of the system (own image)
 
@@ -2168,13 +2165,11 @@ pipes | – Optional house
 connection from water
 tower | Extendible | – Optional, time-saving |
 
-## ![](_page_58_Figure_4.jpeg)
 
 **Fig. 3.3** Combined circular water flows (own image)
 
 to spread the idea after completion because Imams reach at least one RW and are well connected. The clustered system includes a central supply point. With their central position, frequent visitors, and the need for clean ablution water storage, mosques would be an ideal access point for potable water. Water can be taken back home from the daily prayers without any extra effort and a water tower could be integrated into the Minaret, which is often built but has no functional use. If constructed
 
-![](_page_59_Figure_2.jpeg)
 
 **Fig. 3.4** Stakeholder's benefits and interdependent relationships (own image)
 
@@ -2195,7 +2190,6 @@ The exemplary design shown in Figs. 3.5 and 3.6 combines the Kampung mosque and 
 
 3The growing island community of Koh Phi Phi had a malfunctioning public sewage system and a working privately owned system before the 2004 Tsunami destroyed most of the existing infrastructure. Danish funding provided the opportunity to build a new wastewater system that would serve the whole community for the first time. Besides, the system should be cheap to operate and maintain, without bad smelling and aesthetically pleasing because of the tourists in the area. All stakeholders agreed to cooperate and come up with a communal system with the help of international and local specialists. The heard of the cluster water management system are constructed wetlands that are placed within the settlement and function as a public park (Laugesen 2010, 114–151).
 
-![](_page_61_Figure_2.jpeg)
 
 **Fig. 3.6** Diagrammatic section showing the buildings and how the DIWM is integrated into buildings and environment (own image)
 
@@ -2209,7 +2203,6 @@ Comparable areas can be found all over Bandung. Being the least desirable places
 
 4Rio de Janeiro suffers from fresh water scarcity, competing with São Paolo for the same limited sources. Besides, only 30% of the households has a domestic sewage treatment which is why the 263 small rivers of the city are used as a sewage system. This causes serious health issues and heavy pollution of the environment, especially the Guanabara bay. The municipal water company has not been able to solve these problems with a centralized system. The case study has its focus on one of the typical squatted housing areas which releases all their sewage into the river Carioca. An integral water system on household level that releases only clean water into the river is proposed by the architecture and urbanism office Ooze. A pilot project with educational purpose has been built. The concept includes the possible extension to neighborhood, district, and even city scale (Ooze Architects 2017\).
 
-![](_page_62_Figure_2.jpeg)
 
 **Fig. 3.7** Approximation of Bandung's potential areas for a DIWMS (own image, satellite image background: Google Earth)
 
@@ -2427,11 +2420,9 @@ Although the city is built on wet grounds, city and water never meet; there is a
 
 In the last decade, Concepción was hit by three major natural events that affected the city in different degrees: a flood by rain and overflow of rivers and channels in
 
-## ![](_page_71_Figure_10.jpeg)
 
 **Fig. 4.1** Location of the city of Concepción (own elaboration)
 
-![](_page_72_Figure_2.jpeg)
 
 **Fig. 4.2** Metropolitan area of Concepción (own elaboration based on data from National Service of Geology and Mining of Chile (Falcón et al. 2010a, b\)
 
@@ -2451,7 +2442,6 @@ In our living environment, there is an existing and increasing tension between t
 
 As was mentioned before, Concepción is a territory with a strong story of several natural disasters through time, such as earthquakes and tsunamis, fluvial flooding,
 
-## ![](_page_73_Figure_5.jpeg)
 
 **Fig. 4.3** Diagram of natural disasters that have affected Concepción since 1570 (destructive earthquakes in yellow and extreme flooding in blue) (own elaboration)
 
@@ -2493,7 +2483,6 @@ Once the territory has been understood, it is possible to re-define the narrativ
 
 Therefore, the main result of the present research is the elaboration of strategic planning through natural and urban unplanned spaces: an adaptive void network (Fig. 4.4\).
 
-## ![](_page_75_Figure_9.jpeg)
 
 **Fig. 4.4** Schematic graphical representation of the adaptive void network (own elaboration)
 
@@ -2515,7 +2504,6 @@ Therefore, the adaptive void network puts together the mentioned concepts and th
 
 In order to achieve the mentioned goal, the proposed approach is based on autonomous, emerging patterns and self-organization instead of controlled, preprogramed and hierarchical, centralized processes. In that sense, this framework
 
-![](_page_77_Figure_2.jpeg)
 
 **Fig. 4.5** Cross-reference map: potential voids and adaptive void network (own elaboration based on data from National Service of Geology and Mining of Chile (Falcón et al. 2010a, b\)
 
@@ -2667,7 +2655,6 @@ In Zacharias (2005), it was seen that almost as many non-motorized trips (n = 10
 
 The biggest factor in the distances traveled by NMT across Shanghai districts is the district itself, some 21% of variance. Since the physical design characteristics of these four districts vary so remarkably, it is all but certain that this is the reason for the difference in behavior outcomes. The district with by far the highest NMT rate also has the shortest walking distance. What explains this seeming anomaly is that there is a much higher frequency of walks in this district. Also, the land use structure of the district facilitates servicing at close range to homes. In contrast, the
 
-## ![](_page_88_Figure_5.jpeg)
 
 Fig. 5.1 Frequency of trips by distance range and mode—pedestrian, bicycle, and bus
 
@@ -2679,7 +2666,6 @@ Why is there this high performance of NMT in the context of plentiful, public al
 
 To explore this question of how individuals are making the choice to use the bicycle, for example, rather than motorized alternatives, we conducted another study of bicyclists who had just completed a bicycle trip to certain locations in Shanghai (Zacharias 2002\). In that study, alighting cyclists were clear about time saved while riding a bicycle over the alternatives for this 4 km, on average, trip. These claims were validated by field measurement. Clearly, the time expended on travel was of paramount consideration in the trip. It was also seen that travel by bicycle could occur on many alternate channels and with itineraries that could not be executed by bus. Users noted the flexibility that the bicycle offered, and they found it much more comfortable than either the bus or walking (Fig. 5.2\). They consistently considered the bicycle to be a faster mode for their typical trips than the bus, with the metro only slightly faster than the bicycle for their trips. In the absence of attractive alternatives, the bicycle serves as the most attractive mode in the street conditions still prevailing that had dedicated facility for them. For the distances of 4 or 5 km typically being observed here, energy expenditure is not an issue and does not come up in the surveys as a dampening factor on choice. In other words, without any particular incentive, although aided by a supportive environment, NMT rates can be several times that of
 
-## ![](_page_90_Figure_3.jpeg)
 
 **Fig. 5.2** Evaluations of travel modes by bicyclists in Shanghai
 
@@ -2695,7 +2681,6 @@ The area has thrived as the most vibrant and people-filled area of the whole of 
 
 Huaqiangbei continued to build up and attract more and more people over the period of our study. From 2007 to 2013, the number of pedestrians increased 66% (from 113,877 to 188,784), motor vehicle entries to the area declined marginally, while non-motorized vehicles, mostly bicycles increased 38% (Zacharias and Ma 2015\). In 2013, 91% of those arriving at Huaqiangbei daily came by public transport, metro and bus. Some of them availed taxi services, mostly on the perimeter roads. Internally, there is no practical option but to walk between locations because the street system is dominated by NMT and difficult to navigate in a car. Relatively broad walking surfaces are available as a consequence of the original narrow road infrastructure and with most of the rest of the land in private leases. The bicycles are operated by service workers who live in nearby urban villages and use the bicycle to commute, and by delivery services within the area, mostly for food. Other goods move by four-wheeled trolleys and often in the streets, in order to avoid curbs and
 
-![](_page_92_Figure_2.jpeg)
 
 **Fig. 5.3** Pedestrian flows and generation flows (from metro and bus)
 
@@ -2715,7 +2700,6 @@ In our intercept study of several hundred commuting cyclists in three districts 
 
 Of particular note is that 45% of the intercepted bicycle commuters also had access to a car. Not surprisingly, then, there is no significant relation between education level and income on one side and the decision to commute by bicycle on the other. These commuting cyclists were also quite clear about the conditions they favored—dedicated bicycle pathways, safe crossings of motor traffic, bicycle network continuity,
 
-![](_page_94_Figure_2.jpeg)
 
 **Fig. 5.4** Bicycle commuting in two districts in central Beijing among others. The implication is that there is an unsatisfied demand for cycling services in these communities that should be attacked primarily through reform of the environment.
 

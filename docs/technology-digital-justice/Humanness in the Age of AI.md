@@ -13,7 +13,6 @@ tags:
 
 ## Mar 31, 2023 ▪ 20 Minute Read
 
-## ![](_page_0_Figure_6.jpeg)
 
 World Blog Research and Engineering Humanness in the Age of Al
 
@@ -51,9 +50,6 @@ eneral to perfectly mimic highly
 
 ## GPT-4 (no vision)
 
-## ![](_page_1_Figure_17.jpeg)
-
-## ![](_page_2_Figure_3.jpeg)
 
 ## Fig. 1
 
@@ -239,7 +235,6 @@ There are dierent mechanisms to establish global PoP. The following table compar
 | By clicking "Accept All", you agree to the | | | | |
 |--------------------------------------------|--|--|--|--|
 
-## ![](_page_11_Figure_10.jpeg)
 
 not sell your personal information.
 
@@ -334,11 +329,9 @@ By clicking "Accept All", you agree to the storing of cookies on your device to 
 
 y) billions of previously registered is not accurate enough, an rectly rejected.
 
-## ![](_page_16_Figure_9.jpeg)
 
 World Blog Research and Engineering Humanness in the Age of Al
 
-## ![](_page_17_Figure_4.jpeg)
 
 ## Fig. 4
 
@@ -353,9 +346,6 @@ nout recent advancements in Al.
 - accurate than the current state of
 - structure of the iris exhibits
 
-## ![](_page_17_Figure_12.jpeg)
-
-## ![](_page_18_Figure_2.jpeg)
 
 ## Fig. 5
 

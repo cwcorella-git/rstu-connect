@@ -189,11 +189,9 @@ Let's start, then, with income. We use a fairly simple metric for this: the shar
 
 If you were to try, looking down from a great height, to decide which were the most egalitarian and inegalitarian parts of the world, the first thing you'd notice is a great deal of variation, sometimes even within a single region: in Latin America, for instance, Argentina is more egalitarian than Brazil or Chile, in keeping with the country's sociopolitical history and the groundwork laid by Juan Perón to build a welfare state, which was realized more fully there than in any of the neighboring countries. But some regions do show a higher degree of overall inequality: South Africa, with its legacy of apartheid, and southern Africa generally; and Latin America as a whole has a high degree of inequality of property, tied to Spanish colonization and the political regimes that followed; North America, for its part, bears traces of specific racial inequalities. Generally speaking, colonial legacies have left a strong and lasting mark on the structures of inequality. But there are also areas, like the Middle East, where the sharp disparities are not due to a past history of racial or colonial inequality but to a modern fact, namely oil revenues, which have turned into financial revenues, concentrated among an extremely small share of the population. In the current map of inequality, we therefore see a mix of old and new, with different interlocking rationales.
 
-![](_page_18_Figure_1.jpeg)
 
 FIG. 1 Share of income going to the top 10 percent globally, 2022
 
-![](_page_19_Figure_0.jpeg)
 
 FIG. 2 Share of income going to the bottom 50 percent globally, 2022
 
@@ -210,7 +208,6 @@ What we've observed for the distribution of income also applies to the distribut
 
 Basically, the poorest 50 percent never own anything, or just about. In Europe, and specifically in France, they own only 4 percent of total wealth. That is certainly better than in Latin America, where the figure is only 2 percent, but it is still a very low number considering that it is divided between half the population.
 
-![](_page_22_Figure_0.jpeg)
 
 FIG. 3 The extreme concentration of capital—global wealth inequality by region, 2021
 
@@ -223,7 +220,6 @@ It's important to keep these figures in mind. When drawing up a global picture o
 
 In developing our methods and sources at the World Inequality Database, we generally aim as much as possible at compiling data that is comparable across different parts of the world. We first looked at income inequality, then wealth inequality; we subsequently developed a fairly simple metric for gender inequality: women's share of total income from work (salaries and income from unsalaried activity). If there were perfect equality, that number should be 50 percent. In actual fact, if you look at studies of the time spent working, which of course includes household work, women always account for more than 50 percent of hours worked. Ideally, their share of total income should therefore be more than 50 percent as well. What we see in practice, however, is that their share falls far below that number (fig. 4). And while there has been some progress (in Europe, for example, women's share of income has increased from 30 to 36 percent in the past few decades, still leaving 64 percent for men), there are countries moving in the opposite direction: China, whose communist legacy originally left women a slightly higher share of total income than in other countries, has been trending lower in recent decades, largely because of the huge increase in very high earnings, which mostly go to men, in China as elsewhere.
 
-![](_page_25_Figure_0.jpeg)
 
 FIG. 4 Share of income from work received by women in different regions of the world, 1990–2020
 
@@ -246,25 +242,21 @@ term drop, we shouldn't exaggerate its size. Furthermore, this reduction has bas
 
 In Western Europe (Germany, the United Kingdom, France, and Sweden), the overall trends have been quite similar: between 1913 and 1920, there was a shift toward a slightly less extreme concentration of wealth (fig. 7 and 8). The novel development was the emergence of what I have called the property-owning middle class. These 40 percent, who are neither the richest 10 percent nor the poorest 50 percent, owned practically nothing until 1913 and were thus almost as poor as the poorest 50 percent. There had been no middle class. Today, this group owns 40 percent of the total wealth of Western Europe and represents 40 percent of the total population: its average wealth is on the order of 200,000 euros per adult. The median in these households is 100,000 euros per adult, but the households may possess 100,000, 200,000, 300,000, or 400,000 euros. These are people who are not enormously wealthy but who are far from being truly poor and who resent being treated as such. The emergence of this group is a considerable event—economically, socially, and politically even if access to wealth remains practically nil for the poorest 50 percent.
 
-![](_page_29_Figure_0.jpeg)
 
 term movement toward equality?
 
 The share of total income going to the top 10 percent of earners, including income from work (salaries and wages, income from nonsalaried activities, retirement pensions, unemployment compensation) and income from capital (profits, dividends, interest, rent, capital gains, etc.) stood at around 50 percent from 1800 to 1910. After the two world wars, the income gap lessened, benefiting both the working class (the poorest 50 percent) and the middle class (the middle 40 percent), to the detriment of the upper class (the richest 10 percent). See: [piketty.pse.ens.fr/egalite](http://piketty.pse.ens.fr/egalite)
 
-![](_page_30_Figure_0.jpeg)
 
 FIG. 6 The distribution of property in France, 1780–2020: The gradual emergence of a propertied middle class
 
 The share of total private property going to the richest 10 percent (including real estate, business assets, and financial assets, net of debt) hovered at 80 to 90 percent in France from 1780 to 1910. Property ownership became more widespread in the wake of World War I, a trend that stopped in the early 1980s and primarily benefited the "propertied middle class," defined here as the group between the disadvantaged classes (the poorest 50 percent) and the well to do (the richest 10 percent). See: piketty.pse.ens.fr/egalite
 
-![](_page_31_Figure_0.jpeg)
 
 FIG. 7 The persistence of highly concentrated property ownership
 
 The share of total private property owned by the richest 10 percent in Europe in 1913 (averaged for France, the United Kingdom, and Sweden) came to 89 percent (with the poorest 50 percent owning just 1 percent); 56 percent in Europe in 2020 (with the poorest 50 percent owning 6 percent); and 72 percent in the United States in 2020 (with the poorest 50 percent owning 2 percent). See: [piketty.pse.ens.fr/egalite](http://piketty.pse.ens.fr/egalite)
 
-![](_page_32_Figure_0.jpeg)
 
 FIG. 8 Extreme inequality of wealth: European property-owner societies in the Belle Epoque (1880–1914)
 
@@ -302,7 +294,6 @@ Let's look at education, which is undoubtedly one of the most important factors 
 
 This increase in education spending has been a factor in promoting individual freedom, equality, and prosperity, reducing levels of inequality, and raising productivity and living standards. We are so used to government funding for education that we sometimes forget that this substantial development played a central role in the limited but real progress toward equality that I mentioned earlier. But to qualify this statement somewhat, we should note that education spending has stagnated since the 1980s and 1990s, quite paradoxically, since access to higher education has increased during this period: while barely 20 percent of any age cohort went on to higher education in the 1980s, that figure has climbed to 60 percent today. In concrete terms, it means that the investment per student has declined. We've unfortunately seen this drop in per-student investment in France during the last fifteen years, especially in the least well-endowed fields of university study.
 
-![](_page_40_Figure_0.jpeg)
 
 FIG. 9 The rise of the welfare state in Europe, 1870–2020
 
@@ -312,13 +303,11 @@ This phenomenon—fairly paradoxical in nature and running counter to the develo
 
 And while there has certainly been progress toward a more equal distribution of the public investment in education, we shouldn't paint an idealized picture. Let's look at the inequality of investment in education in France (fig. 10). This data applies to the generation that is completing its education today, young men and women who turned twenty in the year 2020. In the graph, all those born in 2000 are ranked according to the total education spending they've received from kindergarten through advanced degrees. Briefly, those who receive the most public funds for education—on the order of 250,000 to 300,000 euros each over the course of their educational career—are those who follow long and well-financed courses of study—typically preparatory programs that prepare students for the competitive-entry higher institutions known in France as the grandes écoles, and the grandes écoles themselves. Those represented on the graph at the lowest levels are the young men and women who left school at sixteen or seventeen: they received funding only for primary and secondary education. And those in the middle are the students who followed a poorly financed course of study at a university, such as a degree in humanities.
 
-![](_page_42_Figure_0.jpeg)
 
 FIG. 10 The inequality of education investment in France
 
 On average, students reaching age twenty in 2020 received (from preschool to postgraduate degree) 120,000 euros in public spending (approximately fifteen years of schooling, at an average cost of 8,000 euros per year). The 10 percent of students in this generation who benefited from the least public investment received 65,000–70,000 euros, while the 10 percent who benefited from the greatest investment received 200,000–300,000 euros. NB: the average cost per year in the French system from 2015–20 varied from 5,000–6,000 euros for preschool and primary education, 8,000–10,000 euros for secondary education, 9,000–10,000 euros for university, and 15,000–16,000 euros for the preparatory course for entry to the *grandes écoles*. See: piketty.pse.ens.fr/egalite
 
-![](_page_43_Figure_0.jpeg)
 
 **FIG. 11** Colonies for the colonizers: Inequalities in education spending in historical perspective
 
@@ -384,13 +373,11 @@ Starting in the late nineteenth and early twentieth century, therefore, the issu
 
 Not only did this not squelch capitalism in the United States—we'd see the effect after a half century—but those years correspond to the period of the United States' greatest prosperity and its most complete economic domination of the rest of the world. Why? For the simple reason that income disparities of one to fifty or one to one hundred don't do much good. I don't say that we should strive for complete equality; it may be that we should aim for a differential of one to five, or one to ten—judging from the database available to me, I'd think a disparity of one to five would work fine. But when you compare the different societies for which we have data, nothing justifies a ratio of one to fifty or one to a hundred. In the United States, a forceful reduction of this disparity through progressive taxation stifled neither economic growth nor innovation (fig. 14).
 
-![](_page_51_Figure_0.jpeg)
 
 FIG. 12 The invention of progressive taxation: The top tax rates on income, 1900–2020
 
 The tax rate for the highest incomes in the United States averaged 23 percent from 1900 to 1932, 81 percent from 1932 to 1980, and 39 percent from 1980 to 2020. For these same periods, the highest rate in the United Kingdom was 30 percent, 89 percent, and 46 percent; in Japan, 26 percent, 68 percent, and 53 percent; in Germany, 18 percent, 58 percent, and 50 percent; and in France 23 percent, 60 percent, and 57 percent. Taxes were most progressive in the mid-twentieth century, particularly in the United States and the United Kingdom. See: [piketty.pse.ens.fr/egalite](http://piketty.pse.ens.fr/egalite)
 
-![](_page_52_Figure_0.jpeg)
 
 FIG. 13 The invention of progressive taxation: The top tax rates on inheritance, 1900–2020
 
@@ -402,7 +389,6 @@ In the 1980s, starting with Ronald Reagan's presidency, the country adopted a di
 
 War, Carter's defeat at the hands of the Iranians, et cetera, to reconsider Roosevelt's policies. He suggested that the country had gone too far and become almost communist; American entrepreneurship had to be revived by cutting the top tax rates, which dropped to 28 percent. That was the Tax Reform Act of 1986, which is the very definition of Reaganomics. Never again would taxes rise to their previous high levels.
 
-![](_page_53_Figure_1.jpeg)
 
 FIG. 14 Effective tax rates and progressiveness of taxes in the United States, 1910–2020
 
@@ -418,7 +404,6 @@ Taxes on inheritance have followed a similar course (fig. 13). What is striking 
 
 There remains one important point about the historic reduction in inequality during the twentieth century that I'd like to spend some time on now: the collapse of international assets, and specifically colonial assets (fig. 15). This phenomenon relates to France and the United Kingdom particularly: until 1913, these two countries were accumulating considerable assets around the world. The assets took the form of shares in the Suez Canal, railroads in Russia and Argentina, and the government debt imposed on Haiti, Morocco, China, and the Ottoman Empire, which amounted to veritable military tributes. Altogether, the French and the British owned debt worth a year of France's national revenue and two years of the United Kingdom's. The earnings from this debt—in the form of interest, dividends, and rents—brought in 5 percent of France's national revenue and 10 percent of the United Kingdom's. For France alone, this was equivalent to the industrial production of the entire northeast section of the country, and it allowed for the financing of a persistent structural trade deficit. Between 1880 and 1914, the trade deficit rose to 2 or 3 percent, at the same time as 5 to 10 percent of the national income was arriving from the rest of the world as income and capital. These funds not only covered the trade deficit but allowed the practice of buying up the rest of the world to continue. It was equivalent to the situation where the rent you pay your landlord allows him to purchase the rest of the building.
 
-![](_page_56_Figure_0.jpeg)
 
 FIG. 15 Foreign assets in historical perspective: The height of colonial ownership in France and Britain
 
@@ -433,7 +418,6 @@ In terms of property interests, these pre-1914 colonial and foreign assets were 
 
 Germany passed through a first period of high inflation in the 1920s, which allowed it to retire the debt it had accumulated as a result of World War I. But this inflation destroyed German society and contributed to the rise of Nazism. After World War II, the German government devised another, non-inflationary way of getting rid of its public debt: a monetary reform that divided the value of old debts by a hundred, coupled with a system of extremely high levies on the holders of large assets, so as to compensate for the losses to small and medium asset holders; the largest fortunes were assessed at up to 50 percent of their asset value. Germany adopted this reform in 1952, and it remained in force until the 1980s.
 
-![](_page_58_Figure_0.jpeg)
 
 FIG. 16 Public debt: alternating between accumulation and cancellation Public debt increased greatly in the wake of the two world wars, reaching 150 percent to 300 percent of national income in 1945–50 before plunging abruptly in Germany and France (cancellations of debt, special taxes on private wealth, high inflation), and more gradually in the United Kingdom and the United States. Public debt again increased sharply following the 2008 financial crisis and the 2020 epidemic. NB: not included is the debt imposed on Germany by the Treaty of Versailles (1919), amounting to more than 300 percent of the country's national income and which never even began to be repaid. See: piketty.pse.ens.fr/egalite
 
@@ -456,7 +440,6 @@ I'd like to end this text with an examination of the interplay between nature, c
 
 No credible solution to the challenge of global warming is imaginable without a drastic reduction in inequality and without new progress toward a greater level of equality—first, because of the substantial disparities in carbon emissions between the countries of the Global North and South, and second because of the carbon emission inequalities within countries.
 
-![](_page_62_Figure_0.jpeg)
 
 From 2010 to 2018, North America's share of total carbon emissions (direct and indirect) was 21 percent on average. The United States and Canada also accounted for 36 percent of individual emissions above the global average (which is 6.2 tons of CO2 per year), 46 percent of emissions greater than 2.3 times the global average (that is, the top 10 percent of individual emissions worldwide, responsible for 45 percent of total emissions, as against 13 percent for the bottom 50 percent of emitters), and 57 percent of emissions greater than 9.1 times the average (that is, the top 1 percent of individual emissions worldwide, responsible for 14 percent of total emissions). See: [piketty.pse.ens.fr/egalite](http://piketty.pse.ens.fr/egalite)
 
@@ -470,7 +453,6 @@ The responsibility for carbon emissions is thus distributed across the globe ver
 
 The second aspect concerns the disparities within given countries. This graph (fig. 18), drawn from the *World Inequality Report 2022*, shows carbon emission levels in tons per person, divided into the same groups we used before in graphing income and wealth, that is, comparing the bottom 50 percent (those who emit the least carbon), the top 10 percent, and the 40 percent in the middle. In Europe, the 50 percent who emit the least carbon—who more or less correspond to the bottom 50 percent economically—are at the five-ton level (four or four and half tons in France). To reach a sustainable level of carbon pollution, these emissions would have to fall to two or three tons. This group is therefore almost in sight of the official goals set for 2030 or 2040. By contrast, the top 10 percent are at twenty-nine tons, thirty tons, and even thirty-five tons per person. And if we were to look only at the top 1 percent in Europe, we would find them emitting at rates of sixty to seventy tons. In the United States, the top 10 percent are already emitting at a rate of more than seventy tons per person per year.
 
-![](_page_64_Figure_1.jpeg)
 
 FIG. 18 Emissions per person per region across the world, 2019
 

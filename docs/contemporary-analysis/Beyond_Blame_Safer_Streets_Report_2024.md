@@ -65,7 +65,6 @@ To close that nal gap, local ocials need to take the lead. They need to begin le
 
 We have the ability to learn something from each crash. The only thing we need now is the desire to obtain that knowledge.
 
-## ![](_page_3_Figure_0.jpeg)
 
 ## High-Speed Road Design in Urban Areas
 
@@ -155,7 +154,6 @@ For example, in Meridian, Idaho, a housing development is located on the west si
 
 Somewhat inevitably, given the degree of danger, someone was killed at this crossing. In this case, it was 16-year-old Terry Binder, who was killed on his way to school.
 
-## ![](_page_7_Figure_0.jpeg)
 
 *North Ten Mile Road approaching an intersection with West Pine Avenue in Meridian, Idaho.*
 
@@ -173,7 +171,6 @@ For example, in Richmond, Virginia, a student named Mahrokh Khan was fatally str
 
 *Diagram adapted from "The Application of Axiomatic Design Theory and Conict Techniques for the Design of Intersections: Part 2."*
 
-## ![](_page_7_Figure_9.jpeg)
 
 In complex urban areas, it is critical to slow vehicles down before they enter an intersection. The margin of error shrinks considerably at high speeds. With travel speeds over 20 mph, it is nearly impossible to design an intersection that can overcome common human mistakes.
 
@@ -204,7 +201,6 @@ When changes like this impact driving patterns, it's common for a public works d
 
 Deviation from the designer's intent was a factor in 4 of the 18 crashes examined.
 
-## ![](_page_9_Figure_0.jpeg)
 
 ### Recommendation #1
 
@@ -216,7 +212,6 @@ Most city governments have committed themselves to improving trac safety. Yet, m
 
 The primary nding cited in the city's report is that trac safety ocials lack any meaningful authority to demand changes or create systematic accountability for trac safety. In the city's organizational chart, safety ocials are subordinate to the city's entire leadership structure. Charlotte is far from alone in this regard; few cities empower ocials with the authority they need to make trac safety a real priority.
 
-## ![](_page_10_Figure_5.jpeg)
 
 **To make traffic safety a core organizational responsibility, the individual or group responsible must have real authority.** They must be able to raise issues with the city's design process. They must have veto power over dangerous street designs. They must have direct access to whoever makes day-to-day decisions. They should be responsible for reporting directly to elected ocials and should be required to sign o on all transportation plans going out to bid.
 
@@ -343,7 +338,6 @@ The Strong Towns Crash Analysis Studio is a tool for local leaders, both inside 
 
 **Andrew Allport,** *Co-director of Bike Durango* **Tracy Ross,** *The Colorado Sun* Durango, Colorado
 
-## ![](_page_15_Figure_0.jpeg)
 
 | CRASH STUDIO SESSION | HIGH-SPEED ROAD
 DESIGN IN URBAN

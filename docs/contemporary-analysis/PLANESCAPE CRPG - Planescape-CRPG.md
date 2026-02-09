@@ -70,7 +70,6 @@ Overall, Planescape is a more adult, hard-core fantasy setting compared to other
 
 We"re looking at a 16MB Pentium 90 with a 2x/4x CD ROM drive and a 2 meg Video Card. The game will be a multi-CD game (3 CDs).
 
-## ![](_page_2_Figure_6.jpeg)
 
 # PLANESCAPE CRPG
 
@@ -360,13 +359,11 @@ Our Seemingly-Immortal, Horribly Scarred (Physically and Emotionally) Amnesia-Ri
 
 ## LAS + RI + ES TEAM VERSION 1.5
 
-## ![](_page_20_Figure_3.jpeg)
 
 "Ach, YA CLUELESS "TARD! MAYBE IF YA"D THINK BEFORE YA OPENED YER BONE BOX, MAYBE YA WOULDN"T FIND A SWORD STICKING BETWEEN YER RIBS SO OFTEN!"
 
 - ANNAH, EXPRESSING HER AFFECTION -
 
-## ![](_page_21_Figure_3.jpeg)
 
 "WHERE YOU GO, I SHALL FOLLOW. YOUR ENEMY IS MY ENEMY. YOUR STRUGGLE, MY STRUGGLE. KNOW THAT WHEN OTHERS FALL, I SHALL REMAIN BY YOUR SIDE UNTIL THE BLOOD STOPS BEATING IN MY HEART."
 
@@ -431,7 +428,6 @@ Then the cycle will begin again.
 
 # The TranscendenT one
 
-## ![](_page_26_Figure_4.jpeg)
 
 # MANTUOK
 
@@ -610,7 +606,6 @@ Beyond the living alley the player enters Sigil's upper class district -- and st
 
 &lt;sup>8 One of the player's previous incarnations had the tomb built to as a trap for his killer (and failing that, at least try and throw his killer off the scent). It didn't work.
 
-## ![](_page_37_Figure_3.jpeg)
 
 ### SIEGE TOWER: THE STEEL TIERS
 

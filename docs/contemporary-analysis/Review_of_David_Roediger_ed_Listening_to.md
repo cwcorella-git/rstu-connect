@@ -1,5 +1,5 @@
 ---
-title: 'Race & Class http://rac.sagepub.com/'
+title: "Review of David Roediger (ed.) Listening to Revolt"
 date: 1969
 category: contemporary-analysis
 tags:

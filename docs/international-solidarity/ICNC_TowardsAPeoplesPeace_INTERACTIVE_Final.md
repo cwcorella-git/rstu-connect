@@ -550,6 +550,3 @@ In preparation for the Copenhagen People Power Conference, the Global Social Mov
 This book brings together cutting-edge research and first-person accounts from activists and peacebuilders on the frontlines in the Democratic Republic of the Congo, Sudan, Ethiopia, and Sri Lanka, alongside insights for a global solidarity movement from activists in Palestine, Ukraine, and Lebanon. It offers a bold vision for how movements can shape peace and security, and practical lessons for policymakers and allies committed to supporting peace from below.
 
 
-## ![](_page_75_Figure_4.jpeg)
-
-## ![](_page_75_Figure_5.jpeg)

@@ -362,7 +362,6 @@ There are, of course, many other things one could say about American Society, ot
 
 ### **CHAPTER 2. TABLES & FIGURES**
 
-## ![](_page_22_Figure_3.jpeg)
 
 Sources: Labor force data: *Historical Statistics of the United States Millennial Edition Online, Table Ba-A.* Urban population data: Labor force data: *Historical Statistics of the United States Millennial Edition Online, Table Ba-A.* Urban population data: U. S. Census Bureau (2004) *United States Summary: 2000*, Table 18, available at http://www.census.gov/prod/cen2000/phc3-us-pt1.pdf.
 
@@ -388,7 +387,6 @@ Sources: National GDP data: IMF, "World Economic Outlook Database April 2009,". 
 
 Table 2.1 Eleven largest economies in the world in 2008
 
-## ![](_page_24_Figure_2.jpeg)
 
 Notes: (1) Public employment includes employment in government and public corporations
 
@@ -398,13 +396,11 @@ Source: Pilichowski, E. and E. Turkisch (2008), "Employment in Government in the
 
 Figure 2.2 Public employment in selected economically developed countries
 
-## ![](_page_25_Figure_2.jpeg)
 
 Source: U. S. Census Bureau, 2007Census of Government Employment, Table 2.
 
 Figure 2.3 Employment in Federal State and Local Governments, 1950-2007
 
-## ![](_page_26_Figure_2.jpeg)
 
 % of children living at less than half of the national median household income
 
@@ -871,19 +867,16 @@ The numbers in the matrix are your long-term personal financial pay-offs for rec
 | Don't | C | D |
 | recycle | -\$50/year | \$0/year |
 
-## ![](_page_63_Figure_2.jpeg)
 
 Source: International Energy Outlook 2008 Report #: DOE/EIA-0484(2008) Table A1
 
 Figure 5.2 Comparison of energy use in the United States and other parts of the world, 2005
 
-## ![](_page_64_Figure_2.jpeg)
 
 Source: International Energy Outlook 2008 Report #: DOE/EIA-0484(2008) Table A10
 
 ## Figure 5.3 CO2 Emissions per capita, 2005
 
-## ![](_page_65_Figure_2.jpeg)
 
 Environmental Protection Agency national emissions estimates for common pollutants and their precursors. Pollutants included in this estimate are: Carbon Monoxide, Lead, nitrogen oxide, volatile organic compounds, particulate matter, and sulfur dioxide. There was a decline of between 39% and 97% for each of these pollutants over this period.
 
@@ -891,17 +884,14 @@ Source: United States Environmental Protection Agency Air Trends, http://www.epa
 
 ## Figure 5.4 Decline in Air Pollution, 1980-2007
 
-## ![](_page_66_Figure_2.jpeg)
 
 Source: Toxic Wastes and Race at Twenty: 1987-2007. by Robert D. Bullard, Paul Mohai, Robin Saha, and Beverly Wright (Cleavland: United Church of Christ, 2007)
 
 Figure 5.5 Racial Composition of neighborhoods with hazardous waste facilities, 2000
 
-## ![](_page_67_Figure_2.jpeg)
 
 Figure 5.6 Racial composition of census tracks in California by cancer risk from toxins in the air (2000)
 
-## ![](_page_68_Figure_2.jpeg)
 
 Figure 5.7 The Environmental Protection Agency Budget as a % of the total U. S. Federal Budget
 
@@ -1052,13 +1042,11 @@ It is no easy task to undo these developments, both because of the cultural expe
 
 ## Figures, Chapter 6
 
-## ![](_page_79_Figure_3.jpeg)
 
 Source: John Pulcher, "Public Transportation", in Susan Hanson and Genevieve Giuliano, The Geography of Urban Transportation, third edition. (New York: The Guilford Press, 2004). p.216. Data are from 1995 and cover all trip purposes.
 
 Figure 6.1 Percent of all urban trips by type of transport.
 
-## ![](_page_80_Figure_2.jpeg)
 
 Source: Brian D. Taylor "The Geography of Urban Transportation Finance", in Susan Hanson and Genevieve Giuliano, The Geography of Urban Transportation, third edition. (New York: The Guilford Press, 2004). p.317.
 
@@ -1066,7 +1054,6 @@ Figure 6.2 Trend in per capita annual public transit ridership, 1900-2000
 
 No. 3, Summer 2003 (49–77).
 
-## ![](_page_81_Figure_2.jpeg)
 
 Source: 1980 and 2000 data are from *Commuting in America: Third national report on commuting patterns and trends* National Transportation Research board of the National Academies of Sciences, (Transportation Research Board, Washington DC 2006) p.xiv. The 1960 data are from John Pucher and John L. Renne, "Socioeconomics of Urban Travel: Evidence from the 2001 NHTS," *Transportation Quarterly*, Vol. 57,
 
@@ -1098,7 +1085,6 @@ The entries in the cells are the length of time it will take you to get to work 
 
 The entries in the cells are the length of time it will take you to get to work under different patterns of transportation choices
 
-## ![](_page_83_Figure_2.jpeg)
 
 Source: Making Transit work. Special report 157 Transportation Research Board , National Research Council (National Academy Press, Washngton DC 2001) p.23
 
@@ -1106,19 +1092,16 @@ Figure 6.6 National trends in annual passenger trips by transit mode, 1920-1998
 
 ### Annual liters per person
 
-## ![](_page_84_Figure_3.jpeg)
 
 Source: World Resources Institute. 2009 Earth Trends: Environmental Information. Available at http://earthtrends.wri.org. Washington DC: World Resources Institute. Earth Trends, searchable database
 
 ## Figure 6.7 Gasoline consumption per capita, 2003
 
-## ![](_page_85_Figure_2.jpeg)
 
 Source: Schrank, David and Tim Lomax. 2007. The 2007 Urban Mobility Report. College Station, TX, Texas Transportation Institute, The Texas A&M University System , table 4, p. 38
 
 Figure 6.8 Annual average hours of delay per traveler due to traffic congestion
 
-## ![](_page_86_Figure_2.jpeg)
 
 ### Definitions:
 
@@ -1132,13 +1115,11 @@ Source: Source: Schrank, David and Tim Lomax. 2007. The 2007 Urban Mobility Repo
 
 Figure 6.9 Annual traffic congestion costs in selected large urban areas, 2005
 
-## ![](_page_87_Figure_2.jpeg)
 
 Source: International Energy Agency. Energy Prices and Taxes, Vol. 2005, No. 2, pp. 1-521
 
 Figure 6.10 Gasoline prices and taxes in developed countries, 2005
 
-## ![](_page_88_Figure_2.jpeg)
 
 Source: International Energy Agency. Energy Prices and Taxes, Vol. 2005, No. 2, pp. 1-521
 
@@ -1330,19 +1311,16 @@ New forms of taxation are only part of the solution to hyper-consumerism. Withou
 
 ### FIGURES AND TABLES FOR CHAPTER 7
 
-## ![](_page_102_Figure_3.jpeg)
 
 Source: Debra J. Holt, Pauline M. Ippolito, Debra M. Desrochers, and Christopher R. Kelley, "Children's Exposure to TV Advertising in 1977 and 2004: Information for the Obesity Debate" Federal Trade Commission, Bureau of Economics Staff Report (Washington, D. C. Federal Trade Commission, 2007), p. ES-2
 
 ## Figure 7.1 Americans exposure to TV ads, 2004
 
-## ![](_page_103_Figure_2.jpeg)
 
 Source: Source: Survey of Construction Data, Single family detached houses only, US Census Bureau. Analysis of provided by Rachel Dwyer.
 
 Figure 7.2 Growth in median size of new home construction in the U. S., 1963-2007
 
-## ![](_page_104_Figure_2.jpeg)
 
 Source: Survey of Construction Data, Single family detached houses only, US Census Bureau. Analysis of provided by Rachel Dwyer
 
@@ -1407,13 +1385,11 @@ Source: Jerry Jacobs and Janet Gornick, "Hours of paid work in dual earner coupl
 
 Table 7.2 Hours worked per week by men and women in dual earner couples
 
-## ![](_page_107_Figure_2.jpeg)
 
 Source: Giulia Faggio and Stephen Nickell, "Patterns of Work Across the OECD", The Economic Journal, 117 (June), F416-F440. p. F419
 
 Figure 7.4 Weeks of paid vacation in 16 wealthy countries
 
-## ![](_page_108_Figure_2.jpeg)
 
 Source: Juliet Schor, The Overworked American, p. 130
 
@@ -1636,7 +1612,6 @@ So long as these private interests are able to dominate the public debate over h
 
 ### FIGURES & TABLES FOR CHAPTER 8
 
-## ![](_page_126_Figure_3.jpeg)
 
 Source: Source:
 
@@ -1644,13 +1619,11 @@ National Center for Health Statistics, Health, United States, 2007,With Chartboo
 
 Figure 8.1 Sources of funding for Health Care in the U. S., 2005
 
-## ![](_page_127_Figure_2.jpeg)
 
 Source: Source: Organization for Economic Co-operation and Development. OECD Health Data 2006, from the OECD Internet subscription database updated October 10, 2006. Copyright OECD 2006, http://www.oecd.org/health/healthdata.
 
 Figure 8.2 Total spending per capita on health care, U. S. and selected countries, 2003
 
-## ![](_page_128_Figure_2.jpeg)
 
 Source:
 
@@ -1658,7 +1631,6 @@ National Center for Health Statistics, Health, United States, 2007,With Chartboo
 
 Figure 8.3 Total spending per capita on health care as a % of GDP, U. S. and selected countries, 2003
 
-## ![](_page_129_Figure_2.jpeg)
 
 ### Source:
 
@@ -1683,9 +1655,6 @@ Table 8.1. Costs of Health Care Administration in the United States and Canada, 
 
 ### [Alternative formats for graph]
 
-## ![](_page_131_Figure_3.jpeg)
-
-## ![](_page_131_Figure_4.jpeg)
 
 Source:
 
@@ -1693,7 +1662,6 @@ National Center for Health Statistics, *Health, United States, 2007,With Chartbo
 
 Figure 8.5. Percent of people under 65 years of age who get private health insurance through their workplace by economic status, 1984 and 2006
 
-## ![](_page_132_Figure_1.jpeg)
 
 Source:
 
@@ -1701,16 +1669,12 @@ National Center for Health Statistics, Health, United States, 2007,With Chartboo
 
 Figure 8.6 Economic status and health insurance, 2006
 
-## ![](_page_133_Figure_3.jpeg)
 
 Figure 8.7 Access to Doctor When Sick or in Need in Eight Countries, 2008
-
-## ![](_page_134_Figure_3.jpeg)
 
 
 Figure 8.8 Cost related access problems among the chronically ill in eight countries, 2008
 
-## ![](_page_135_Figure_2.jpeg)
 
 \* Rank = ranking within 195 member states of the United Nations
 
@@ -1718,7 +1682,6 @@ Sources: Cross national data come from Central Intelligence Agency, The World Fa
 
 Figure 8.9 Infant mortality rates, United States and selected countries, 2009
 
-## ![](_page_136_Figure_2.jpeg)
 
 \* Rank = ranking within 195 member states of the United Nations
 
@@ -1937,7 +1900,6 @@ We know such a high road is perfectly possible under capitalism, since other cap
 
 ## Figures & Tables for Chapter 9
 
-## ![](_page_151_Figure_3.jpeg)
 
 Note: Figures are for private production and nonsupervisory employees who account for more than 80% of private wage and salary employment,
 
@@ -1945,9 +1907,6 @@ Source: The State of Working America, 2008/9. Table 3.4
 
 Figure 9.1 Average real weekly earnings of private production and nonsupervisory workers, 1957-2007 (2007 dollars)
 
-## ![](_page_152_Figure_2.jpeg)
-
-## ![](_page_152_Figure_3.jpeg)
 
 Note: Income is measured at the upper limit of each income group
 
@@ -1955,33 +1914,26 @@ Source: State of Working America, 2006/7 Table 1.10
 
 Figure 9.2 Rate of Gorwth of family income by income group, 1947-2005.
 
-## ![](_page_153_Figure_2.jpeg)
 
 Source:
 
 ## Figure 9.3 Median household income, 1947-2004
 
-## ![](_page_154_Figure_2.jpeg)
 
 ## Source: SWA 2008/9. Tables 3.5 and 3.7
 
 Figure 9.4 Median real hourly wages for male and female employees, 1973-2007 (2007 dollars)
 
-## ![](_page_155_Figure_2.jpeg)
 
 Source: Source: The State of Working America 2008/9, figure 3O
 
 Figure 9.5 Trends in productivity and median earnings, 1973-2007
 
-## ![](_page_156_Figure_2.jpeg)
 
 Source: State of Working America, 2008/9 Table 3.1
 
 Figure 9.6 Annual growth rates in productivity and compensation during periods of economic expansion, 1975-2007
 
-## ![](_page_157_Figure_2.jpeg)
-
-## ![](_page_158_Figure_2.jpeg)
 
 | ECONOMIC SECTOR | 1979 | 1989 | 2000 | 2007 | Hourly
 Compensation
@@ -2012,19 +1964,14 @@ Table 9.1 Employment distribution across economic sectors, 1979-2007
 
 ## Annual compensation in unadjusted dollars
 
-## ![](_page_160_Figure_3.jpeg)
 
 Source: The State of working America, 2008/9 Table 3.26
 
 Figure 9.9 Annual Pay in Contracting and Expanding Economic Sectors, 1979-2007
 
-## ![](_page_161_Figure_2.jpeg)
 
 Source: the State of Working America 2008/9 Figure 3V. Figure 9.10 Imports, Exports, and trade balance as a percent of GDP, 1947-2007
 
-## ![](_page_162_Figure_2.jpeg)
-
-## ![](_page_162_Figure_3.jpeg)
 
 ## Source: data provided by Greta Kripner
 
@@ -2060,29 +2007,21 @@ institutional infrastructure |
 
 ## Table 9.2 High Road and Low Capitalism
 
-## ![](_page_164_Figure_2.jpeg)
 
 ## Figure 9.12 Internal Cost Structure of Firm
 
-## ![](_page_165_Figure_2.jpeg)
-
-## ![](_page_165_Figure_3.jpeg)
 
 Figure 9.13 Illustration of two firms with same profits per employee but different amounts of value created in production
 
-## ![](_page_166_Figure_2.jpeg)
 
 ## Figure 9.14 The transition cost problem
 
-## ![](_page_167_Figure_2.jpeg)
 
 Figure 9.15 The relation of worker organization and participation to the competitiveness of capitalist firms
 
-## ![](_page_168_Figure_2.jpeg)
 
 Figure 9.16 Worker organization and high road capitalism
 
-## ![](_page_169_Figure_2.jpeg)
 
 Source: The State of Working America 2008/9, Figure 3AA
 
@@ -2488,13 +2427,11 @@ The financial crisis that began in 2008 has destroyed trillions of dollars in fi
 
 ### Poverty Rate in Selected OECD Countries (less than half of current median income, after taxes and transfers), mid-2000s
 
-## ![](_page_202_Figure_4.jpeg)
 
 Source: OECD. Stat, "Poverty Measure: Headcount ratio after taxes and transfers"
 
 Figure 12.1 International comparison in Poverty Rates among wealthy countries
 
-## ![](_page_203_Figure_2.jpeg)
 
 Note: The taller bars show the poverty rates based on household income before taxes and transfers while the lower bars show the rates after taxes and transfers. The poverty line in both cases is defined as 50 percent of the median income after taxes and transfers.
 
@@ -2502,13 +2439,11 @@ Source: The league table of child poverty in rich nations, (Florence, Italy: UNI
 
 Figure 12.2 International comparisons of child poverty rates before and after taxes and transfers
 
-## ![](_page_204_Figure_2.jpeg)
 
 Source: Eric Emerson, "Relative Child Poverty, Income Inequality, Wealth, and Health," JAMA. 2009;301(4):425-426.
 
 Figure 12.3 The Relationship between Relative child Poverty and under age 5 mortality in high income OECD countries
 
-## ![](_page_205_Figure_2.jpeg)
 
 Note: "Poverty Rate" is defined as the percentage of children living below the official poverty line Source: U. S. Bureau of the Census, Current Population Survey, Annual Social and Economic Supplements.
 
@@ -2516,13 +2451,11 @@ Figure 12.4 Poverty Rate among children, 1959-2007
 
 ### Percent living below the poverty line
 
-## ![](_page_206_Figure_3.jpeg)
 
 Note: "Poverty Rate" is defined as the percentage of children living below the official poverty line Source: U. S. Bureau of the Census, Current Population Survey, Annual Social and Economic Supplements.
 
 Figure 12.4 Poverty Rate among children, 1959-2007 [Alternative graph without the GDP line]
 
-## ![](_page_207_Figure_2.jpeg)
 
 Notes: "Poverty Rate" is defined as the percentage of people living below the official poverty line. The data for 1960-1965 are interpolated.
 
@@ -2530,9 +2463,6 @@ Source: U. S. Bureau of the Census, Current Population Survey, Annual Social and
 
 ## Figure 12.5 Poverty Rate among Adults, 1959-2007
 
-## ![](_page_208_Figure_2.jpeg)
-
-## ![](_page_208_Figure_3.jpeg)
 
 Notes: "Poverty Rate" is defined as the percentage of people living below the official poverty line. The data for 1960-1965 are interpolated.
 
@@ -2540,43 +2470,36 @@ Source: U. S. Bureau of the Census, Current Population Survey, Annual Social and
 
 Figure 12.5 Poverty Rate among Adults, 1959-2007 [alternative graph without the GDP line]
 
-## ![](_page_209_Figure_2.jpeg)
 
 Source: Figure 6D from Lawrence Mishel, Jared Bernstein, and Sylvia Allegretto, The State of Working America 2006/2007. An Economic Policy Institute Book. Ithaca, N. Y.: ILR Press, an imprint of Cornell University Press, 2007.
 
 Figure 12.6 Percent of the poor below one half of the poverty line, 1975-2005
 
-## ![](_page_210_Figure_2.jpeg)
 
 Source: U. S. Bureau of the Census, Current Population Survey, Annual Social and Economic Supplements.
 
 Figure 12.7 Poverty Rates across regions, 1969, 1987, 2007
 
-## ![](_page_211_Figure_2.jpeg)
 
 Source: U. S. Bureau of the Census, Current Population Survey, Annual Social and Economic Supplements.
 
 Figure 12.8 Poverty Rates in Central Cities, Suburbs and non-Metropolitan areas 1959, 1969, 1989, 2007
 
-## ![](_page_212_Figure_2.jpeg)
 
 Source: Figure 6B from Lawrence Mishel, Jared Bernstein, and Sylvia Allegretto, The State of Working America 2006/2007. An Economic Policy Institute Book. Ithaca, N. Y.: ILR Press, an imprint of Cornell University Press, 2007.
 
 Figure 12.9. Poverty rates by race and ethnicity, 1973-2005
 
-## ![](_page_213_Figure_2.jpeg)
 
 Source: calculated form Table 6.2 in Lawrence Mishel, Jared Bernstein, and Sylvia Allegretto, The State of Working America 2006/2007. An Economic Policy Institute Book. Ithaca, N. Y.: ILR Press, an imprint of Cornell University Press, 2007.
 
 Figure 12.10 Ratio of Black to White Poverty rates, 1973-2005
 
-## ![](_page_214_Figure_2.jpeg)
 
 Source: Thomas Piketty and Emmanuel Saez, " Income Inequality in The United States, 1913–1998", The Quarterly Journal of Economics Vol. CXVIII February 2003 Issue 1, pp.1-41
 
 Figure 12.11 The Top Decile Income Share, 1917–1998
 
-## ![](_page_215_Figure_2.jpeg)
 
 Source: Calculations based on Table 1.11 from The State of working America 2006.2007
 
@@ -2592,19 +2515,16 @@ These are ratios between the average household income within income groups. The 
 
 Figure 12.12 Ratios of income between different income strata, 1979, 1989, 2000
 
-## ![](_page_216_Figure_2.jpeg)
 
 Source: Table 5.1 from Lawrence Mishel, Jared Bernstein, and Sylvia Allegretto, The State of Working America 2006/2007. An Economic Policy Institute Book. Ithaca, N. Y.: ILR Press, an imprint of Cornell University Press, 2007.
 
 Figure 12.13 Distribution of Household Income and Wealth, 2004
 
-## ![](_page_217_Figure_2.jpeg)
 
 Source: calculations from Figure 12.
 
 Figure 12.14 Ratios of average income and wealth of households at the top of the income and wealth distributions to average income and wealth at the bottom.
 
-## ![](_page_218_Figure_2.jpeg)
 
 Source: Source: Figure 6L in Lawrence Mishel, Jared Bernstein, and Sylvia Allegretto, The State of Working America 2006/2007. An Economic Policy Institute Book. Ithaca, N. Y.: ILR Press, an imprint of Cornell University Press, 2007.
 
@@ -3092,23 +3012,19 @@ The first African slaves were brought to the American colonies in 1619. Blacks h
 
 ### FIGURES AND TABLES
 
-## ![](_page_255_Figure_3.jpeg)
 
 Source: University of Missouri – Kansas City School of Law, http://www.law.umkc.edu/faculty/projects/ftrials/shipp/lynchstats.html Data from the Archives of Tuskegee University
 
 Figure 14.1 Lynchings of Blacks per year, 1882-1964.
 
-## ![](_page_256_Figure_2.jpeg)
 
 Figure 14.2. Executions for Rape by Race in the united States, 1930-64
 
-## ![](_page_257_Figure_2.jpeg)
 
 ## Source: General Social Survey
 
 Figure 14.3 Black and White attitudes towards importance of discrimination, 1985‐2008
 
-## ![](_page_258_Figure_2.jpeg)
 
 Source: 1960 Census of Population and Housing, using ipums interface. and 2007 American Community Survey, using ipums interface.
 
@@ -3165,9 +3081,6 @@ Definitions of occupational categories:
 
 Table 14.1 Occupational Distributions within Race and Gender categories, civilian labor force, 1950-2000
 
-## ![](_page_260_Figure_2.jpeg)
-
-## ![](_page_260_Figure_3.jpeg)
 
 ## Source: see Table 14.1
 
@@ -3175,7 +3088,6 @@ Note: The numbers indicate how likely, within a given gender category, it is for
 
 Figure 14.5 Changes in the under-representation of African-Americans in desirable occupational categories
 
-## ![](_page_261_Figure_2.jpeg)
 
 Figure 14.6 Black median family income as a percentage of white median family income
 
@@ -3206,7 +3118,6 @@ Source: Table 5.6 from Lawrence Mishel, Jared Bernstein, and Sylvia Allegretto, 
 
 ## Table 14.2 Wealth by race, 1983-2004
 
-## ![](_page_263_Figure_2.jpeg)
 
 Source: Table 6.3 from Lawrence Mishel, Jared Bernstein, and Sylvia Allegretto, The State of Working America 2006/2007. An Economic Policy Institute Book. Ithaca, N. Y.: ILR Press, an imprint of Cornell University Press, 2007.
 
@@ -3214,7 +3125,6 @@ Note: the data for children under 6 were unavailable for 2005. The figure report
 
 Figure 14.7 Child poverty rates by Race, 1979-2005
 
-## ![](_page_264_Figure_2.jpeg)
 
 Source: Devah Pager, Marked: Race, Crime, and Finding Work in an Era of Mass Incarceration. Chicago: University of Chicago Press, 2007
 
@@ -3222,37 +3132,31 @@ Note: The graph presents the percentage of job applicants to entry level unskill
 
 Figure 14.8 Results of an Audit study of the Effects of Race and Criminal Record on employment
 
-## ![](_page_265_Figure_2.jpeg)
 
 ## Source: need source
 
 Figure 14.9 Per pupil education spending in wealthy suburbs and core cities, New York and Chicago Areas
 
-## ![](_page_266_Figure_2.jpeg)
 
 Source Prison Policy Initiative, Incarceration is not an equal opportunity punishment, 2005, http://www.prisonpolicy.org/
 
 ## Figure 14.10 Incarceration rates by Race
 
-## ![](_page_267_Figure_1.jpeg)
 
 Source Prison Policy Initiative, Peter Wagner "Lifetime Chance of Being Sent to Prison at Current U. S. Incarceration Rates" (2003) http://www.prisonpolicy.org/graphs/lifetimechance.html
 
 Figure 14.11. Lifetime Chances of Being Sent to Prison
 
-## ![](_page_268_Figure_2.jpeg)
 
 Source: Human Rights Watch 2008 report: Targeting Blacks: Drug Law Enforcement and Race in the United States
 
 Figure 14.12 Percentage of people in drug-offense categories who are black
 
-## ![](_page_269_Figure_2.jpeg)
 
 Source: Jennifer l. Eberhardt, Paul G. Davies, Valerie J Purdie-Vaughns, and Sheri Lynn Johnson, "Looking Deathworthy: perceived stereotypicality of Black Defendants Predicts Capital-Sentencing Outcomes," Psychological science, volume 15:5, 2006, pp.383-386
 
 Figure 14.13. Black Racial Stereotypes and the Death Sentence
 
-## ![](_page_270_Figure_2.jpeg)
 
 Source: Bruce Western, Punishment and Inequality in America (New York: Russell Safe Foundation, 2006), p.13
 
@@ -3260,19 +3164,16 @@ Note: Incarceration rates are shown on the left hand side of the graph; prison p
 
 Figure 14.14 U. S. Incarceration rates, 19302-2000s
 
-## ![](_page_271_Figure_1.jpeg)
 
 Source: Bruce Western, Punishment and Inequality in America (New York: Russell Safe Foundation, 2006),
 
 Figure 14.15. Indicators of increasing intensity of punishments for drug offenses.
 
-## ![](_page_272_Figure_2.jpeg)
 
 Source: Bruce Western, Punishment and Inequality in America (New York: Russell Safe Foundation, 2006), p.46
 
 ## Figure 14.16 Arrests for Drug Offences, 1971-2001
 
-## ![](_page_273_Figure_2.jpeg)
 
 Source: Pamela Oliver, "Explaining State Black Imprisonment Rates, 1983-1999", (unpublished manuscript, 2004). Figure 5. Data from the National Corrections Reporting Program.
 
@@ -3536,29 +3437,22 @@ These preferences suggest that if young families lived and worked in an environm
 
 I. Existing distribution of childcare labor among men and among women with children
 
-## ![](_page_295_Figure_4.jpeg)
 
 II. Hypothetical distributions of childcare labor among men and among women with children in a world in which there were no gendered norms of appropriate childcare responsibility and no gender-specific costs to doing childcare.
 
-## ![](_page_295_Figure_6.jpeg)
 
 Figure 15.1 Hypothetical distributions of childcare provision by men and women living in households with children in alternative worlds
 
-## ![](_page_296_Figure_2.jpeg)
 
 Source Historical Statistics of the US, "Female labor force participation rate, by race, marital status, and presence of children: 1880–1990." 2000 & 2007: Statistical Abstract of the US, "Table 578. Employment Status of Women by Marital Status and Presence and Age of Children: 1970 to 2007."
 
 Figure 15.2 Labor Force Participation Rates of Married Women with Children, 1950-2000
 
-## ![](_page_297_Figure_0.jpeg)
-
-## ![](_page_297_Figure_1.jpeg)
 
 Source: Source: IPUMS Census samples, 1850-2007 (variable: occ1950
 
 Figure 15.3 Percent of People in Selected Traditionally Male Professions who are Women, 1930-2007 (alternative formats)
 
-## ![](_page_298_Figure_2.jpeg)
 
 Source:
 
@@ -3579,13 +3473,11 @@ Source: IPUMS Census samples, 1850-2007 (variable: occ1990).
 
 Table 15.1 Examples of highly sex-typed jobs that have changed little, 1970-2007
 
-## ![](_page_300_Figure_2.jpeg)
 
 Source: Tables 3.5 and 3.6 in in Lawrence Mishel, Jared Bernstein, and Sylvia Allegretto, The State of Working America 2006/2007. An Economic Policy Institute Book. Ithaca, N. Y.: ILR Press, an imprint of Cornell University Press, 2007.
 
 Figure 15.5 Male and Female Median Hourly Earnings (2005 Dollars), 1973-2005
 
-## ![](_page_301_Figure_2.jpeg)
 
 Sources: Corporate Officers and board members: Catalyst, "Women in U. S. Management", February 2009. CEOs: 1995-2007 data are from Catalyst, "Women CEO's in the Fortune Lists: 1972-2007." 2008 CEO number is from Catalyst, "Women in Business", March 2009
 
@@ -3593,9 +3485,6 @@ Note: the data for women on corporate officers was interpolated for 2001 and for
 
 Figure 15.6 Women in Corporate Management , 1995-2008
 
-## ![](_page_302_Figure_2.jpeg)
-
-## ![](_page_302_Figure_3.jpeg)
 
 Source: "Women in Elected Office 2009", Center for American Women in Politics, Rutgers University.
 
@@ -3646,7 +3535,6 @@ Source: "Women in National Parliaments, situation as of 31 May 2009," Inter-parl
 
 Table 15.2 Women in National Legislatures, International Comparisons
 
-## ![](_page_304_Figure_2.jpeg)
 
 Notes:
 
@@ -3656,43 +3544,31 @@ Figure 15.8 Distribution of Household types, 1940-2008
 
 &quot;All Other types of households" include: single parent headed households; cohabiting couples; same-sex couples; unrelated people living together.
 
-## ![](_page_305_Figure_2.jpeg)
-
-## ![](_page_305_Figure_3.jpeg)
 
 Figure 15.9 Percentage of women 30-34 who have never married, 1940- 2007
 
 [alternative formats]
 
-## ![](_page_306_Figure_2.jpeg)
 
 Source: Bramlett MD and Mosher WD. Cohabitation, Marriage, Divorce, and Remarriage in the United States. National Center for Health Statistics. Vital Health Stat 23(22). 2002. p.27.
 
 Figure 15.10 Probability of first marriage disruption within 10 years by marriage cohort and race/ethnicity: marriages begun 1954-1984
 
-## ![](_page_307_Figure_2.jpeg)
 
 Source: Stephanie J. Ventura and Christine A. Bachrach, "Nonmarital Childbearing in the United States, 1940–99", National Vital Statistics Reports, Volume 48, Number 16, October 18, 2000, p,17.
 
 Figure 15.11 Percentage of births to unmarried mothers, 1940-1999
 
-## ![](_page_308_Figure_2.jpeg)
 
 Source: Valerie A. Ramey "Time spent in home production in the 20th century: new estimates from old data", NBER Working Paper 13985, April 2008
 
 Figure 15.12 Time Spent by men and women 18-64 years of age in work activities in the home, 1900-2005
 
-## ![](_page_309_Figure_2.jpeg)
-
-## ![](_page_309_Figure_3.jpeg)
-
-## ![](_page_309_Figure_4.jpeg)
 
 Source: Liana C. Sayer, "Gender, Time and Inequality: Trends in Women's and Men's Paid Work, Unpaid Work and Free Time," Social Forces, Volume 84,Number 1, September 2005, pp. 285-303. Data supplemented by analysis provided by Suzanne Bianchi from the American Time Use Study data.
 
 Figure 15.13 Time spent/day on different kinds of household labor for mothers and fathers in homes with children
 
-## ![](_page_310_Figure_2.jpeg)
 
 Sources.
 
@@ -3702,13 +3578,11 @@ Note: The precise wording varies across polls. Figures are averages of multiple 
 
 Figure 15.14 Trends in Public support for Same-Sex Marriage
 
-## ![](_page_311_Figure_2.jpeg)
 
 Sources: Opinion poll: Newsweek Poll, December 2008; Exit poll results from National Election Pool are for the NO vote on Proposition 8.
 
 Figure 15.15 Support for Same-Sex Marriage in different age groups, 2008
 
-## ![](_page_312_Figure_2.jpeg)
 
 Note: The graph indicates the number of "Full Time Equivalent" (FTE) weeks of paid parental leave available to a family. If, for example, a family is entitled to 10 weeks of leave at 80% of their salary, this equals 8 FTE weeks. The details of the rules vary enormously across countries: in some countries the weeks can be divided between mothers and fathers as they wish; in other countries there is a specific allocation for mothers and for fathers; in some countries the paid leaves are only available to mothers.
 
@@ -3716,7 +3590,6 @@ Source: Rebecca Ray, Janet C. Gornick and John Schmitt, "Who Cares? Assessing Ge
 
 ## Figure 15.16 Paid Parental Leaves in 21 Countries
 
-## ![](_page_313_Figure_2.jpeg)
 
 ### Definitions of family ideals:
 
@@ -4069,11 +3942,9 @@ A well designed system of public financing of electoral campaigns through system
 
 ### Presidential Elections
 
-## ![](_page_343_Figure_4.jpeg)
 
 ### Off-year Congressional Elections
 
-## ![](_page_343_Figure_6.jpeg)
 
 Figure 17.1 Voter Turnout in US National Elections, 1960-2008
 
@@ -4383,7 +4254,6 @@ Taxes | 1.3% | 5.0% | | | |
 
 Source: Field Guide to the American Economy, p.95 Table 18.3 U. S. average State & Local taxes as share of family income (for non-elderly married couples)
 
-## ![](_page_365_Figure_2.jpeg)
 
 # Chapter 19
 
@@ -4527,7 +4397,6 @@ Source: http://www.freepress.net/ownership/chart/main
 
 Figure 19.1. Principle Holdings of the Six Largest Media Corporations
 
-## ![](_page_378_Figure_2.jpeg)
 
 Figure 19.2 Concentration of revenues of Radio Station owners, 2001
 
@@ -4731,7 +4600,6 @@ Source: U. S. Military Spending vs. the World, Center for Arms Control and Non-P
 
 Figure 20.1 Military spending in countries that spent at least \$5 billion a year on the military, 2008
 
-## ![](_page_392_Figure_2.jpeg)
 
 Figure 20.2 U. S. Military spending vs the World, 2008
 
@@ -4886,15 +4754,11 @@ Source: list compiled by Zoltan Grossman, http://academic.evergreen.edu/g/grossm
 
 Figure 20.4 Partial list of U. S. Military Interventions, 1947-2009
 
-## ![](_page_395_Figure_2.jpeg)
-
-## ![](_page_395_Figure_3.jpeg)
 
 Source: Friends Committee on National Legislation, July, 2008, reported by Global Issues Forum, http://www.globalissues.org/article/75/world-military-spending
 
 Figure 20.5 Military Spending as a proportion of total federal government spending, 2009 fiscal year
 
-## ![](_page_396_Figure_2.jpeg)
 
 Source: U. S. Department of Defense (2008) National Defense Budget Estimates for FY 2009, Table 6.12.
 
@@ -5059,7 +4923,6 @@ Source:
 
 Table 21.1 The unionization wage-premium for selected low wage occupations, 2000
 
-## ![](_page_408_Figure_2.jpeg)
 
 Source:1890-1999, Historical Statistics of the Union States, Figure Ba-U; 2000-2008, BLS, Series LUU0204899600.
 

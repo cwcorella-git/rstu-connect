@@ -25,7 +25,6 @@ There are certainly plenty of constructive, comradely criticisms of the Green Ne
 
 The Green New Deal and the "Rank-and-File Strategy"
 
-## ![](_page_1_Figure_0.jpeg)
 
 | not the same thing |
 |----------------------------------------------------------------------------------------------------------|
@@ -45,7 +44,6 @@ the |
 | endorse it. Further, it goes without saying, just because members of an organization or a
 publication |
 
-## ![](_page_3_Figure_0.jpeg)
 
 | as well. One could just as easily argue that the latter is a front group for the IWW, but that |
 |------------------------------------------------------------------------------------------------|
@@ -228,7 +226,6 @@ caucus has compiled a large number of articles |
 information purposes as we explain in our |
 ## | Content Posting Guidelines |
 
-## ![](_page_14_Figure_0.jpeg)
 
 The article describes the deal as "winning building trades workers and unions to an environmentalist agenda that also benefits them," and claims that the agreement will create
 
@@ -615,9 +612,6 @@ jobs: |
 expansion, larger industry |
 ## | - |
 
-## ![](_page_43_Figure_0.jpeg)
-
-## ![](_page_44_Figure_0.jpeg)
 
 strength of the workers at the shopfloor level, not some lofty and purist prohibition in a union constitution which has no legal power (let alone organized shopfloor power) to compel an employer to abide by it.
 

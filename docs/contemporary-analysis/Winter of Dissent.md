@@ -25,7 +25,6 @@ the |
 Trump's favor. On the other you have the FBI who, ten days before the election, |
 | put their thumb on the scale |
 
-## ![](_page_1_Figure_0.jpeg)
 
 | to anti-Russian sanctions, as Secretary of State. All around this chaos and corruption the
 pattern of |

@@ -46,7 +46,6 @@ Xiaolei Wang and his colleagues hypothesized that applying a hydrogel of nanopar
 
 The team tested the material on human teeth soaked in a mixture of coffee, tea, blueberry juice, and soy sauce for 15 days to simulate natural teeth coloration. Next, the teeth were coated in hydrogel and exposed to green light for 1 hour daily. Following treatment, the teeth got brighter over time. Additionally, the treatment caused no damage to the enamel and killed 94% of bacteria in biofilms.
 
-## ![](_page_3_Figure_6.jpeg)
 
 Photographs of human teeth treated with Control, the hydrogel's base solution without nanoparticles (SA; sodium alginate), and the hydrogel (BC-SA) under treatment of greenlight for 0, 1, 2, and 3 days, respectively. [Credit:](https://pubs.acs.org/doi/10.1021/acsami.2c00887) Li et al. ACS Applied Materials & Interfaces, 2022.
 

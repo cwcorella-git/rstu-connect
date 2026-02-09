@@ -64,7 +64,6 @@ animatron you can program to interest you specifically. I am a person who shares
 
 do like to do, that I feel compelled to do by pleasure or necessity or survival: I feel compelled to think and read and live my life in a sensate manner, to take copious note, to learn the discipline of love and adjust to people around me and eat layered, delicious meals… but I do not speak until I feel
 
-## ![](_page_4_Figure_0.jpeg)
 
 —from the American Heritage Dictionary in the 5th edition
 
@@ -98,7 +97,6 @@ be summarized in this picture below: |
 news cycle. |
 ## | Look for the people who cannot scream. |
 
-## ![](_page_7_Figure_0.jpeg)
 
 -worthy.
 
@@ -206,7 +204,6 @@ This is one of the (increasingly less) rare occasions that I experienced compuls
 
 I'll also tell you: I asked myself at least three times if this was a vanity project before posting. Answer ended up being: I don't care if I'm vain. Not really. I care that politicians use my likeness to create narratives of progressivism that they do not actually support with their voting actions, and I did not know that this was a thing I cared about until it happened. I'm not saying I am without ego; I am saying that I do fundamentally believe he and I move different and you all highlighted this for me. I believe that he is one of the many US politicians that utilize their social media to create a political narrative that is in direct opposition to their voting records. This methodology allows for people to say or believe that the person is good, but the system is making them make bad decisions. Combine this with the spectacle of liberation, like a filibuster which resulted, ultimately, in absolutely no material and long lasting political gains, and there you have it: a politician that uses their power in ways which openly betray the people and protects their job with political shields (such as narrative and spectacle) to mitigate the pushback they should
 
-## ![](_page_16_Figure_0.jpeg)
 
 This also revealed to me that I have come so far with you all in the last three years. I am a strong believer in the necessity of reorientation in order to fully enjoy the reaping. Many of the seeds I planted in my first year of online public existence are ready for harvest (literally!) and I don't want to leave you all behind on that. I know I said we'd take June to review but… honestly, it takes as long as it takes. I've got to get us caught up to speed.
 

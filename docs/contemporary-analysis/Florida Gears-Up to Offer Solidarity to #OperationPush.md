@@ -64,7 +64,6 @@ convictions. |
 Committee (IWOC) about supporting the strike, and |
 ## | IGD's |
 
-## ![](_page_3_Figure_0.jpeg)
 
 ## Florida Prisoners Are Laying It Down by
 
@@ -159,7 +158,6 @@ These are among the many inhumane and intolerable conditions and abuses that FDO
 
 We will gather outside of the Reception and Medical Center in Lake Butler, FL, a prison that houses an already vulnerable population of people with medical issues that is situated between a proposed phosphate mine site and a massive landfill, both of which are extremely toxic and dangerous to our water and well-being. This is also the prison where guards were found to be KKK members guilty of plotting to kill a black prisoner. Join us as we let the DOC know we wil
 
-## ![](_page_10_Figure_0.jpeg)
 
 https://
 fighttoxicprisons.wordpress

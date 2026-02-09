@@ -16,7 +16,6 @@ ing
 
 # Between the World and Me
 
-## ![](_page_1_Figure_2.jpeg)
 
 *Between the World and Me* is a work of nonfiction. Some names and identifying details have been changed.
 

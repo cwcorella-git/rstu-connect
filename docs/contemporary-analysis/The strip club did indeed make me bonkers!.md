@@ -303,7 +303,6 @@ like it is and so it is and so you act like it is and onward. |
 | your actions, you must first |
 | change |
 
-## ![](_page_18_Figure_0.jpeg)
 
 and the two-part realm of what you know you do not know and what you cannot even begin to comprehend about yourself.
 

@@ -26,7 +26,6 @@ movement, start |
 
 We dedicate this work to our friend, Tortuguita, who was part of these conversations. Georgia State Troopers killed Tortuguita on January 18, 2023 at the forest they loved so dearly. This piece is for them and for all past, present, and future Warriors defending and loving the and in the more-than-human world, and how we not only can practice gratitude for this abundance but embody it as a way of approaching the world.
 
-## ![](_page_1_Figure_0.jpeg)
 
 Sacred Web of Abundance is the place that you live, the ways in which it sustains you, and the ways in which you sustain it. We are here to be part of this web and invite in others who are on the same land. What we have found is that the Sacred Web of Abundance, with her billions of years of wisdom, is there for us, waiting for our gratitude, delight, offerings, rituals, and ceremonies—waiting to build a relationship with us.
 

@@ -36,11 +36,9 @@ I just wonder if I am making the right choices.
 
 (AQOTP), a personal tradition in the journaling of ismatu Gwendolyn where they put all their recurrant thoughts down in a list-like fashion and wonder if anything will end up making sense the whole time they write. Today feels indulgent: smoothie in hand, tea on the stove, no little word maggots eating their way out of my flesh. I am writing not to survive a birthing of ideas, but because I can feel myself breathe. Wow. Such luxury. Here I am trying to tease meaning out of a keyboard.
 
-## ![](_page_2_Figure_0.jpeg)
 
 there were
 
-## ![](_page_3_Figure_0.jpeg)
 
 I had, by the way, absolutely no plan for either evening. Both were run entirely on vibes (and on the lovely administrate executional abilities of Marsae, someone who entirely volunteered herself to make this happen. Thank you so much Marsae!!) For the first event, as I greeted a crowd of people getting larger and larger… I… had no idea what to say other than how frightened I was. I said something like, "hi, my name is ismatu and I'm having a really hard time understanding I'm… in public and that people can see me." Every face in the room was masked, mind you, and I could still feel
 

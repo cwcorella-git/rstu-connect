@@ -8,7 +8,6 @@ tags:
   - alternatives
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 Digitized by the Internet Archive in 2022 with funding from Kahle/Austin Foundation
 

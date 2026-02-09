@@ -330,7 +330,6 @@ The Ecological Rift: Capitalism's War on the Earth
 | (London: Penguin Books, 1976 [1867]. |
 ## | 7. |
 
-## ![](_page_21_Figure_0.jpeg)
 
 Reducing Pollution, Creating Jobs: The Employment Effects of Climate Change and Environmental Policies
 
@@ -384,13 +383,9 @@ A Green New Deal: Joined-up Policies to Solve the Triple Crunch of the Credit Cr
 
 12.
 
-## ![](_page_24_Figure_0.jpeg)
 
 ## Inclusion in a Green Economy
 
-## ![](_page_25_Figure_0.jpeg)
-
-## ![](_page_26_Figure_0.jpeg)
 
 | Employment (SEPH) |
 |----------------------------------------------------------------------------------------------------------|
@@ -428,7 +423,6 @@ at |
 
 Andre Gorz, Capitalism, Socialism, Ecology (London: Verso, 1994); David Rosnick, "Reduced Work Hours as a Means of Slowing Climate Change," Real-World Economics Review , N. 63, 2013; Climate Space/World Social Forum, " Change the System, Not the Climate ," The Bullet , N. 810, 2013. 26. Greg Albo, "The Limits of Eco-Localism: Scale, Strategy, Socialism" in Leo Panitch and Colin Leys, eds., Socialist Register 2007: Coming to Terms with Nature (London: Merlin Press, 2007).
 
-## ![](_page_30_Figure_0.jpeg)
 
 | The Bullet |
 |-------------------------------------------------------------------------------------------|

@@ -79,7 +79,6 @@ Activists lose criminal case on climate change defense; but judge praises effort
 
 Climate Activists on Trial: the Verdict is In, and it's a Near-Win
 
-## ![](_page_4_Figure_0.jpeg)
 
 | - By Martha Baskin, |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|

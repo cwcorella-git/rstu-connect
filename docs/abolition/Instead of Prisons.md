@@ -822,23 +822,23 @@ If the choice were between prisons as they now are and no prisons at all, we wou
 
 —Struggle for Justice, p. 23
 
-Nevertheless, it is important to observe that the closest anyone has come to abolishing an existing prison system, involved a relatively abrupt strategy. The almost total abolition of juvenile prisons in Massachusetts occurred because of a rare combination of personal creativity and the power invested in that person by the legislature. Dr. Jerry Miller, Director of the Department of Youth Services, in three years emptied all but one juvenile prison in Massachusetts by "transferring" the young prisoners into a variety of community alternative living situations. Miller believes "swift and massive change" is the only sure way to phase out juvenile institutions: "Slow-phased winding down can mean no winding down," and often insures they'll "wind up" again. [\[1\]](#page-225-2)
+Nevertheless, it is important to observe that the closest anyone has come to abolishing an existing prison system, involved a relatively abrupt strategy. The almost total abolition of juvenile prisons in Massachusetts occurred because of a rare combination of personal creativity and the power invested in that person by the legislature. Dr. Jerry Miller, Director of the Department of Youth Services, in three years emptied all but one juvenile prison in Massachusetts by "transferring" the young prisoners into a variety of community alternative living situations. Miller believes "swift and massive change" is the only sure way to phase out juvenile institutions: "Slow-phased winding down can mean no winding down," and often insures they'll "wind up" again. \[1\]
 
 Individual prison closings have been cited by some prison changers as examples of "Tearing Down the Walls." This is usually not the case. For instance, Vermont's Windsor Prison was shut in August 1975, leaving Vermont the only state other than Alaska without a maximum security institution. However, dispersement of 22 prisoners into "secure" federal institutions in other states and the balance of the population into smaller community prisons merely re-distributed prisoners—it didn't abolish caging. The walls still stand.
 
 ## **Constitutionalists**
 
-The most hopeful constitutionalists support the theory that prison walls will eventually collapse under the weight of mounting legal pressure. They recommend a dual strategy: pressures by prisoners "via constitutional case law" from within, and social and legal pressure from reformists, legal advocates and abolitionists, from without. [\[2\]](#page-225-3)
+The most hopeful constitutionalists support the theory that prison walls will eventually collapse under the weight of mounting legal pressure. They recommend a dual strategy: pressures by prisoners "via constitutional case law" from within, and social and legal pressure from reformists, legal advocates and abolitionists, from without. \[2\]
 
-Many prison litigation advocates describe prisons as "lawless agencies," almost totally non-responsive to due process of law -- or law itself.[\[3\]](#page-225-4) Because the constitution should follow a person into prison, the prisoners' legal struggle is one for rights -- not privileges which can be manipulated or withdrawn as a control device. Prisons lack substantive and procedural safeguards to redress grievances. Since rights cannot be guaranteed, prisons per se are profoundly unconstitutional and illegal.[\[4\]](#page-225-5)
+Many prison litigation advocates describe prisons as "lawless agencies," almost totally non-responsive to due process of law -- or law itself.\[3\] Because the constitution should follow a person into prison, the prisoners' legal struggle is one for rights -- not privileges which can be manipulated or withdrawn as a control device. Prisons lack substantive and procedural safeguards to redress grievances. Since rights cannot be guaranteed, prisons per se are profoundly unconstitutional and illegal.\[4\]
 
 These legal advocates are optimistic about the courts' ability to demand that prison administrators enforce rights for prisoners. They see the system gradually rendered impotent by a combination of forces.
 
-Others, tho constantly loyal and active in the movement for prisoners' constitutional rights, are less optimistic. They caution against exaggerating the possibilities of litigation, both in impact and implementation.[\[5\]](#page-226-0) They remind reformers and abolitionists of the enormous problems which lie in translating a court decision into reality.
+Others, tho constantly loyal and active in the movement for prisoners' constitutional rights, are less optimistic. They caution against exaggerating the possibilities of litigation, both in impact and implementation.\[5\] They remind reformers and abolitionists of the enormous problems which lie in translating a court decision into reality.
 
 Whether or not we are skeptical of constitutional approaches, we can appreciate them as one of the most promising components of a movement to abolish prisons. Four substantial forces for change are at work in a dynamic pattern:
 
-• **Prisoners.** The movement for constitutional rights has been and is prisoner led. Beginning in the 1960's, sparked by the Black Muslims' struggle for religious rights, thru 1970 when an entire state penitentiary system was successfully challenged on a constitutional level, [\[6\]](#page-226-1) prisoners moved the struggle from the specific to the general. Encouraged by their occasional successes, prisoners have plunged wholeheartedly into the study and practice of law. "Jailhouse lawyers" have won significant victories, and, as a result, are frequently subjected to additional punishments by prison managers. In San Quentin alone, the number of prisoner -- prepared writs increased from about 50 in 1960 to more than 5,000 in 1970.[\[7\]](#page-226-2)
+• **Prisoners.** The movement for constitutional rights has been and is prisoner led. Beginning in the 1960's, sparked by the Black Muslims' struggle for religious rights, thru 1970 when an entire state penitentiary system was successfully challenged on a constitutional level, \[6\] prisoners moved the struggle from the specific to the general. Encouraged by their occasional successes, prisoners have plunged wholeheartedly into the study and practice of law. "Jailhouse lawyers" have won significant victories, and, as a result, are frequently subjected to additional punishments by prison managers. In San Quentin alone, the number of prisoner -- prepared writs increased from about 50 in 1960 to more than 5,000 in 1970.\[7\]
 
 Politically aware prisoners see the use of legal tools as part of an effective strategy to acquire power over their own lives. Other prisoners view the courts as the single hope for relief from prison oppression. Whatever the motivation, a legally empowered prisoner population is crucial to any effective prison strategy.
 
@@ -848,11 +848,11 @@ Politically aware prisoners see the use of legal tools as part of an effective s
 
 ### **Advocates of moratorium**
 
-In response to an unprecedented wave of prison/jail construction across the country,[\[8\]](#page-226-3) the prestigious National Council on Crime and Delinquency (NCCD) issued a policy statement in April 1972, calling for a halt to construction of all prisons, jails, juvenile training schools and detention homes, pending maximum utilization of non-institutional alternatives to incarceration.[\[9\]](#page-226-4)
+In response to an unprecedented wave of prison/jail construction across the country,\[8\] the prestigious National Council on Crime and Delinquency (NCCD) issued a policy statement in April 1972, calling for a halt to construction of all prisons, jails, juvenile training schools and detention homes, pending maximum utilization of non-institutional alternatives to incarceration.\[9\]
 
-In January 1973, the National Advisory Commission on Criminal Justice Standards and Goals [\[10\]](#page-226-5) recommended a ten-year moratorium on prison construction "unless an analysis of the total criminal justice and adult corrections systems produces a clear finding that no alternative is possible." They also recommend the phasing out of mega-institutions at the earliest possible time.
+In January 1973, the National Advisory Commission on Criminal Justice Standards and Goals \[10\] recommended a ten-year moratorium on prison construction "unless an analysis of the total criminal justice and adult corrections systems produces a clear finding that no alternative is possible." They also recommend the phasing out of mega-institutions at the earliest possible time.
 
-William Nagel, Director of the American Foundation and a former prison administrator, has repeatedly called for a moratorium on building new prisons, jails and training schools. [\[11\]](#page-226-6)
+William Nagel, Director of the American Foundation and a former prison administrator, has repeatedly called for a moratorium on building new prisons, jails and training schools. \[11\]
 
 Organizations representing ex-prisoner groups, religious denominations, prison reformers, abolitionists and others have added their voices to the swell for moratorium. The National Moratorium on Prison Construction, established in Washington in February 1975, provides staff, data and funding for a national impetus to halt federal and state construction.
 
@@ -862,7 +862,7 @@ The peace movements' strategies and tactics are often the same as abolitionists;
 
 Allowing public views of crime and criminals to be shaped by those who strategize the "war on crime" is equal to permitting perceptions of war and politics to be shaped by Pentagon generals. The peace movement provides us with an analysis of events and alternative solutions to foreign policy problems. A similar nonmilitary interpretation of crime and justice issues is needed. Solutions free from the violence of caging or death are required. It is essential that abolitionists join together to begin to build that kind of movement capability.
 
-In the eyes of some, we are already bound together. They have dismissed us as "dreamers, crackpots and sentimentalists." [\[12\]](#page-226-7) But we have learned that the real "dreamers" are criminal (in)justice planners who place poor and powerless people inside exorbitantly expensive cages for arbitrary periods of time, expecting this cruel process to "rehabilitate" individuals and reduce crime.
+In the eyes of some, we are already bound together. They have dismissed us as "dreamers, crackpots and sentimentalists." \[12\] But we have learned that the real "dreamers" are criminal (in)justice planners who place poor and powerless people inside exorbitantly expensive cages for arbitrary periods of time, expecting this cruel process to "rehabilitate" individuals and reduce crime.
 
 It is appalling to discover that altho "experts" and "professionals" have few solutions to the problems of crime, they remain welded to the gargantuan, bureaucratic and bankrupt prison system. It is a system that continues to expand as it fails, grinding up billions of taxpayers' dollars along with the lives of prisoners and their families, spewing out damaged human beings, further alienated from their communities.
 
@@ -874,7 +874,7 @@ Tho the above strategies cover a wide range of concepts and tactics, most prison
 
 ### **Developing an ideology**
 
-In reversing the prison response to crime and social inequities, we need to be confident that our abolitionist advocacy is rooted in the most humane, useful and realistic points of view. Most changes needed to reduce crime and eliminate prisons lie outside the criminal (in)justice systems—in the cultural values and institutions of society. [\[13\]](#page-226-8) These causal factors necessitate broader systemic analysis. For the purposes of this handbook, however, we limit our focus to the connections between social, economic and cultural causes of crime and the use of prisons as a social control mechanism.
+In reversing the prison response to crime and social inequities, we need to be confident that our abolitionist advocacy is rooted in the most humane, useful and realistic points of view. Most changes needed to reduce crime and eliminate prisons lie outside the criminal (in)justice systems—in the cultural values and institutions of society. \[13\] These causal factors necessitate broader systemic analysis. For the purposes of this handbook, however, we limit our focus to the connections between social, economic and cultural causes of crime and the use of prisons as a social control mechanism.
 
 On the basis of our analysis, we have formulated a series of practical abolitionist actions. These strategies rest on an ideology—a set of beliefs and values which serve as reference points for our actions.
 
@@ -882,11 +882,11 @@ We advocate a three-pronged abolitionist ideology: (1) Economic and social justi
 
 ## **Economic & social justice**
 
-Persons in daily touch with society's victims, have more clarity about injustice in our society than they do a vision of what a just system might entail. Most of our energies and responses have been directed toward bringing occasional relief to the victimized—issue by issue, cruelty by cruelty—on both sides of the wall. We cannot profess an innocence of the root causes that give rise to collective injustices of racism, poverty, sexism, ageism and repression which flourish in our society while, at the same time, we continue to relieve individual sufferings. Unequal distribution of power and wealth does not occur in a vacuum. It results from a series of economic, social and cultural arrangements which benefit only a few. [\[14\]](#page-226-9)
+Persons in daily touch with society's victims, have more clarity about injustice in our society than they do a vision of what a just system might entail. Most of our energies and responses have been directed toward bringing occasional relief to the victimized—issue by issue, cruelty by cruelty—on both sides of the wall. We cannot profess an innocence of the root causes that give rise to collective injustices of racism, poverty, sexism, ageism and repression which flourish in our society while, at the same time, we continue to relieve individual sufferings. Unequal distribution of power and wealth does not occur in a vacuum. It results from a series of economic, social and cultural arrangements which benefit only a few. \[14\]
 
-Justice is difficult to define. Traditionally we think of it in terms of fair dealing and the rescue of the exploited, associating it with freedom, social progress and democracy. But when we speak of justice as being "meted out" as a retributive response, the term is used not as something good, helpful or valuable, but as something to hurt and punish.[\[15\]](#page-226-10)
+Justice is difficult to define. Traditionally we think of it in terms of fair dealing and the rescue of the exploited, associating it with freedom, social progress and democracy. But when we speak of justice as being "meted out" as a retributive response, the term is used not as something good, helpful or valuable, but as something to hurt and punish.\[15\]
 
-For the abolitionist, justice is not simply a collection of principles or criteria, but the active process of preventing or repairing injustice. [\[16\]](#page-226-11)
+For the abolitionist, justice is not simply a collection of principles or criteria, but the active process of preventing or repairing injustice. \[16\]
 
 If there were but one word to describe the necessary ingredient for acquiring a more just economic and social order, that word would be "empowerment."
 
@@ -894,55 +894,55 @@ If there were but one word to describe the necessary ingredient for acquiring a 
 
 —The Action Committee of Walpole Prison, NEPA News, April/May 1975
 
-The creation of new, caring communities where power and equality of all social primary goods [\[17\]](#page-226-12) will be institutionally structured and distributed to every member is implicit in the long range goals of those who would see penal sanctions drastically reduced and eliminated. But the new community will not miraculously appear. Its creation rests upon the participation and empowerment of all its members.
+The creation of new, caring communities where power and equality of all social primary goods \[17\] will be institutionally structured and distributed to every member is implicit in the long range goals of those who would see penal sanctions drastically reduced and eliminated. But the new community will not miraculously appear. Its creation rests upon the participation and empowerment of all its members.
 
-The focus on power is the major issue. The only meaningful way to change the prevailing American system of liberty for the free, justice for some, and inequality for all, is thru shifts in the distribution of power. [\[18\]](#page-226-13) Any ghetto dweller can link powerlessness to poverty—it is caused by lack of money. They are poor because they have first, insufficient income—and second, no access to methods of increasing that income -- that is, no power.[\[19\]](#page-226-14)
+The focus on power is the major issue. The only meaningful way to change the prevailing American system of liberty for the free, justice for some, and inequality for all, is thru shifts in the distribution of power. \[18\] Any ghetto dweller can link powerlessness to poverty—it is caused by lack of money. They are poor because they have first, insufficient income—and second, no access to methods of increasing that income -- that is, no power.\[19\]
 
 ### **Who decides? Who benefits?**
 
-If being poor is having no money, "poverty in the U. S. is almost a picayune problem. A redistribution of about \$15 billion a year (less than two percent of the Gross National Product) would bring every poor person above the present poverty line." [\[20\]](#page-226-15) The amount involved is less than half the U. S. annual expenditure on the Vietnam War.
+If being poor is having no money, "poverty in the U. S. is almost a picayune problem. A redistribution of about \$15 billion a year (less than two percent of the Gross National Product) would bring every poor person above the present poverty line." \[20\] The amount involved is less than half the U. S. annual expenditure on the Vietnam War.
 
-Yet decisions are now being made by the powerful to spend at least \$20 billion on the construction of new prisons to house the powerless. Cages which cost from \$24,000 to \$50,000 each to construct [\[21\]](#page-226-16) will provide space behind the walls for many who have never had decent housing in the community. In New York, it will cost an average of \$13,000 a year to keep each prisoner on the cage side of the wall. A willingness to commit these resources to the community would improve the lives of those who are targets for imprisonment as well as society in general.
+Yet decisions are now being made by the powerful to spend at least \$20 billion on the construction of new prisons to house the powerless. Cages which cost from \$24,000 to \$50,000 each to construct \[21\] will provide space behind the walls for many who have never had decent housing in the community. In New York, it will cost an average of \$13,000 a year to keep each prisoner on the cage side of the wall. A willingness to commit these resources to the community would improve the lives of those who are targets for imprisonment as well as society in general.
 
 Thus the questions "Who decides?" and "Who benefits?" are most relevant. They must be raised repeatedly. If the just equalization of power, resources, income and self-respect could rehabilitate the community, who decides otherwise? As abolitionists seek answers by engaging in power structure research, strategies for change will emerge.
 
-True community requires the exercise of power as a condition for self-esteem and full humanity. The need for potency, which is another way of phrasing the struggle for self-esteem, is common to all of us. "We see its positive form in the rebellion at Attica, where the leader of the revolting prison inmates proclaimed: 'We don't want to be treated any longer as statistics, as numbers .... We want to be treated as human beings, we will be treated as human beings.'"[\[22\]](#page-226-17)
+True community requires the exercise of power as a condition for self-esteem and full humanity. The need for potency, which is another way of phrasing the struggle for self-esteem, is common to all of us. "We see its positive form in the rebellion at Attica, where the leader of the revolting prison inmates proclaimed: 'We don't want to be treated any longer as statistics, as numbers .... We want to be treated as human beings, we will be treated as human beings.'"\[22\]
 
-At Attica the response by those in power to requests for humane treatment was raw force—resulting in a massacre.[\[23\]](#page-226-18) At the time of the 1971 rebellion, Black and Spanish-speaking prisoners made up 70 percent of the prison population; 50 percent of the prison population received 25 cents a day for their labors; all were fed on a daily budget of 65 cents each in an atmosphere of daily degradation and humiliation charged with racism. And little has changed since 1971. [\[24\]](#page-226-19)
+At Attica the response by those in power to requests for humane treatment was raw force—resulting in a massacre.\[23\] At the time of the 1971 rebellion, Black and Spanish-speaking prisoners made up 70 percent of the prison population; 50 percent of the prison population received 25 cents a day for their labors; all were fed on a daily budget of 65 cents each in an atmosphere of daily degradation and humiliation charged with racism. And little has changed since 1971. \[24\]
 
 Prison is a microcosm of society. The abuse of selected and particular segments of the population labeled "criminal" is rampant on both sides of the walls. The struggle for justice should be the primary agenda for all concerned Americans.
 
 ## **Concern for all victims**
 
-Abolitionists define victims as all those who have suffered either by collective or individual acts of violence. Victims usually feel powerless to alter their situations since few avenues for relief are available. [\[25\]](#page-226-20)
+Abolitionists define victims as all those who have suffered either by collective or individual acts of violence. Victims usually feel powerless to alter their situations since few avenues for relief are available. \[25\]
 
-Without relief or opportunities for constructive action, feelings of powerlessness can easily turn to rage and violence. [\[26\]](#page-226-21) Thus, out of frustration, victims often become victimizers themselves, setting off new cycles of punishment and violence. The need to "get even" is satisfied by engaging in vengeful behavior toward the oppressor or a symbol of the oppressor. If no other remedies are apparent, victims of collective social and economic oppression strike back at society and its members. Victims of individual criminal acts strike back by demanding long prison terms or sometimes death for the lawbreaker. In order to break this cycle of violence and vengeance, as well as bring needed relief, all victims must have access to services, resources and redress of grievances.
+Without relief or opportunities for constructive action, feelings of powerlessness can easily turn to rage and violence. \[26\] Thus, out of frustration, victims often become victimizers themselves, setting off new cycles of punishment and violence. The need to "get even" is satisfied by engaging in vengeful behavior toward the oppressor or a symbol of the oppressor. If no other remedies are apparent, victims of collective social and economic oppression strike back at society and its members. Victims of individual criminal acts strike back by demanding long prison terms or sometimes death for the lawbreaker. In order to break this cycle of violence and vengeance, as well as bring needed relief, all victims must have access to services, resources and redress of grievances.
 
-The voices of victims of violent and repressive societal structures and practices can be heard thru prisoners' perceptions of themselves as "victims of a society which never gave them a chance; victims of a criminal justice system which selects a few to be incarcerated; and victims of a prison system which breeds a bitterness and self-contempt. It is understandable, then," they say, "when a public cries out 'What about the victim?' that the man or woman in the prison cell responds with, 'I am a victim. What about me?' "[\[27\]](#page-226-22)
+The voices of victims of violent and repressive societal structures and practices can be heard thru prisoners' perceptions of themselves as "victims of a society which never gave them a chance; victims of a criminal justice system which selects a few to be incarcerated; and victims of a prison system which breeds a bitterness and self-contempt. It is understandable, then," they say, "when a public cries out 'What about the victim?' that the man or woman in the prison cell responds with, 'I am a victim. What about me?' "\[27\]
 
 Collective victims of institutional racism and sexism, of familial violence, of corporate indifference, of the lawlessness of prisons and other total institutions all cry out, "What about me?" What aid and relief is there for these victims of violent acts not presently considered illegal?
 
 The long range solutions are clear. Relief for victims of social structures and practices will occur as we move toward a just society, casting out inequities, racism, sexism, violence and lawlessness and inhumane institutional practices. In the interim, we must hear victims' grievances and respond to their emergency needs. And like all members of the community, victims must be empowered to act upon their repressive situations—to change them by nonviolently countering the forces that victimize them.
 
-Victims of individual criminal behavior are forgotten people, seldom collectively identified as a group with immediate and crucial needs. Rarely are they at the center of public policy, [\[28\]](#page-226-23) even tho protection of the society is a responsibility of the state. Ironically, most victims of violent crimes are from economically deprived or minority groups; thus, they are twice victimized.
+Victims of individual criminal behavior are forgotten people, seldom collectively identified as a group with immediate and crucial needs. Rarely are they at the center of public policy, \[28\] even tho protection of the society is a responsibility of the state. Ironically, most victims of violent crimes are from economically deprived or minority groups; thus, they are twice victimized.
 
 Public attention fostered by the media is riveted on punishment of selected lawbreakers, ignoring the plight of victims. The criminal (in)justice systems shift the focus away from the victim's needs to punishment of the lawbreaker. Millions of taxpayers' dollars are wasted in punishing and incarcerating the poor and minorities, while little is spent in responding to victims' (or lawbreakers') needs. The victim's physical or material loss or damage, personal degradation, suffering and grief are hardly acknowledged as the systems concentrate on revenge against the lawbreaker. Punishment of the lawbreaker becomes the main business of the state.
 
-In almost all cases, damage done to the victim is regarded as a private matter, to be dealt with by the victim alone. Draining the lawbreakers' financial resources thru legal expenses and fines or removing them from the community thru incarceration, prevents them from making direct restitution to the victims. Thus one important remedial option for victims and wrongdoers is eliminated. In lieu of restitution to victims, the development of state victim compensation plans is crucial to the victims' well-being, especially that majority who are poor. [\[29\]](#page-226-24)
+In almost all cases, damage done to the victim is regarded as a private matter, to be dealt with by the victim alone. Draining the lawbreakers' financial resources thru legal expenses and fines or removing them from the community thru incarceration, prevents them from making direct restitution to the victims. Thus one important remedial option for victims and wrongdoers is eliminated. In lieu of restitution to victims, the development of state victim compensation plans is crucial to the victims' well-being, especially that majority who are poor. \[29\]
 
 An entire range of victim services can be made available to the victims of crime, preferably by peers. They include listening and responding to victims' emergency needs; arranging for restitution by the victimizer; securing compensation from the state; providing personal, psychological and legal support and re-education and training to avoid further victimization.
 
-The availability of remedies for victims of crime is central to reducing the victims' need for vengeance and retribution, which grows hand in hand with frustration in failing to find relief.[\[30\]](#page-227-0)
+The availability of remedies for victims of crime is central to reducing the victims' need for vengeance and retribution, which grows hand in hand with frustration in failing to find relief.\[30\]
 
 ### **Reconciliation rather than punishment**
 
 The present criminal (in)justice systems care little about the wrongdoer's need or the victim's loss. The abolitionist response seeks to restore both the lawbreaker and the victim to full humanity, to lives of dignity and integrity in a caring community.
 
-The community we hope to build is one that assures us our basic needs and inwardly binds us in responsibility for each other. The commission of crimes by individuals from all strata of society, and the almost total disregard for the victims of crime is a reflection of the breakdown of community—the lack of rootedness in the idea of community.[\[31\]](#page-227-1)
+The community we hope to build is one that assures us our basic needs and inwardly binds us in responsibility for each other. The commission of crimes by individuals from all strata of society, and the almost total disregard for the victims of crime is a reflection of the breakdown of community—the lack of rootedness in the idea of community.\[31\]
 
-Abolishing the punishment of prison is a fundamental step in abolishing the present punitive criminal (in)justice systems.[\[32\]](#page-227-2) Helping both wrongdoer and wronged to resolve their differences thru mediation, restitution and other reconciliatory practices, are alternatives we can build into the new system of justice.
+Abolishing the punishment of prison is a fundamental step in abolishing the present punitive criminal (in)justice systems.\[32\] Helping both wrongdoer and wronged to resolve their differences thru mediation, restitution and other reconciliatory practices, are alternatives we can build into the new system of justice.
 
-Restitution offers the broadest range of possibilities on which to base a new system of justice. Restitution as we define it requires the wrongdoer to restore the victim to his/her situation before the criminal act occurred. But what is referred to as "creative restitution" can go far beyond that temporary response. It is described as a life-long voluntary task that requires "a situation be left better than before the offense was committed ... beyond what any law or court requires, beyond what friends and family expect, beyond what a victim asks, beyond what conscience or super-ego demands ... only a 'second mile' is restitution in its broadest meaning of a complete restoration of good will and harmony." [\[33\]](#page-227-3)
+Restitution offers the broadest range of possibilities on which to base a new system of justice. Restitution as we define it requires the wrongdoer to restore the victim to his/her situation before the criminal act occurred. But what is referred to as "creative restitution" can go far beyond that temporary response. It is described as a life-long voluntary task that requires "a situation be left better than before the offense was committed ... beyond what any law or court requires, beyond what friends and family expect, beyond what a victim asks, beyond what conscience or super-ego demands ... only a 'second mile' is restitution in its broadest meaning of a complete restoration of good will and harmony." \[33\]
 
 Do the conditions for a new reconciliatory system exist in our fragmented, technological and competitive society? The potential is there, the yearning for true community is consistent with ideals common to our culture. The Christian principle of loving kindness toward every neighbor, including the wrongdoer; the Jewish principle of chesed or steadfast love binding the total community; the Golden Rule of universal benevolence—all are cherished ethics. But they are more than abstract ideals to which abolitionists aspire. They are ideals to be made operational in our programs and strategies to abolish prisons.
 
@@ -974,7 +974,7 @@ Prison is central to the Black experience because it is the culmination of many 
 
 —Herman Schwartz, "Prisoners Rights: Some Hopes and Realities," A Program for Prison Reform, p. 49
 
-What determines the survival and expansion of prisons is their success in controlling particular segments of the population. Prisons, the end repositories of the criminal (in)justice systems, maintain the concept of a "criminal class" selected with discretion. Such discretionary power can be wielded indiscriminately by functionaries such as police, district attorneys, judges and the parole apparatus.[\[34\]](#page-227-4)
+What determines the survival and expansion of prisons is their success in controlling particular segments of the population. Prisons, the end repositories of the criminal (in)justice systems, maintain the concept of a "criminal class" selected with discretion. Such discretionary power can be wielded indiscriminately by functionaries such as police, district attorneys, judges and the parole apparatus.\[34\]
 
 Functionaries of the criminal (in)justice systems represent the powerful and influential. Their use of vast discretionary power distorts the principles of justice. Recognizing and identifying the locus and misuse of such power is central to an abolitionist approach to prison change.
 
@@ -982,7 +982,7 @@ If we are unclear about power and how it operates, we will be impeded in our abi
 
 This is the key to an abolitionist perspective on social change. Abolition is a long range struggle, an unending process: it is never "finished," the phasing out is never completed. Strategies and actions recommended in this handbook seek to gradually limit, diminish, or restrain certain forms of power wielded by the criminal (in)justice systems.
 
-The pressure is excessive for abolitionists to immediately produce a "finished" blueprint, to solve every problem, to deal with every "criminal" before we can begin to deal with and change the systems. The first step toward abolition occurs when we break with the established prison system and at the same time face "unbuilt ground." Only by rejecting what is "old and finished" do we give the "new and unfinished" a chance to appear.[\[35\]](#page-227-5) Pursuing an abolition continuum strategy, we can undertake a program of concrete, direct and immediate abolitions of portions of the system beginning with abolishing further prison/jail construction.
+The pressure is excessive for abolitionists to immediately produce a "finished" blueprint, to solve every problem, to deal with every "criminal" before we can begin to deal with and change the systems. The first step toward abolition occurs when we break with the established prison system and at the same time face "unbuilt ground." Only by rejecting what is "old and finished" do we give the "new and unfinished" a chance to appear.\[35\] Pursuing an abolition continuum strategy, we can undertake a program of concrete, direct and immediate abolitions of portions of the system beginning with abolishing further prison/jail construction.
 
 Sometimes our recommended strategies and actions utilize conventional judicial and legislative processes. Abolitionists are not apprehensive about working within the system, so long as it permits us to change and limit the system. When systemic options prove inadequate, abolitionists strive for newer and more creative approaches—building alternatives to existing structures and processes.
 
@@ -996,7 +996,7 @@ These interim, or abolishing-type reforms, often may appear to contradict our lo
 
 Modern reforms attempt to mask the cruelty of caging. Our goals are not diverted by handsome new facades, the language of "treatment" and prison managers who deftly gild the bars. Present reforms will not abolish the cage unless they continue to move toward the constant reduction of the function of prisons.
 
-The abolitionist's task is clear—to prevent the system from masking its true nature. The system dresses itself up: we undress the system. [\[36\]](#page-227-6) We strip it down to the reality: the cage and the key. We demystify. We ask the simple but central political question: "Who decides?" We raise the moral issue: "By what right?" We challenge the old configurations of power. We begin to change the old, begin to create the new.
+The abolitionist's task is clear—to prevent the system from masking its true nature. The system dresses itself up: we undress the system. \[36\] We strip it down to the reality: the cage and the key. We demystify. We ask the simple but central political question: "Who decides?" We raise the moral issue: "By what right?" We challenge the old configurations of power. We begin to change the old, begin to create the new.
 
 Behind the words "failure" and "counterproductive" lies this plain fact, which ought to be confronted and accepted: If our entire criminal justice apparatus were simply closed down, there would be no increase, and there would probably be a decrease in the amount of behavior that is now labeled "criminal."
 
@@ -1004,9 +1004,9 @@ Behind the words "failure" and "counterproductive" lies this plain fact, which o
 
 ## **Power & prison change**
 
-Power, which comes from the root word "posse" or "to be able," can be described as the ability to cause or prevent change—to be able to make decisions about the arrangements under which we live and about the events which make up the history of our period. Power should be of overriding concern to all human beings: what we are able to bring about by our own will and action regardless of societal barriers or limitations, determines the quality of our lives.[\[37\]](#page-227-7)
+Power, which comes from the root word "posse" or "to be able," can be described as the ability to cause or prevent change—to be able to make decisions about the arrangements under which we live and about the events which make up the history of our period. Power should be of overriding concern to all human beings: what we are able to bring about by our own will and action regardless of societal barriers or limitations, determines the quality of our lives.\[37\]
 
-We have been socialized to accept the most common view and mystique of power, reflected in the pyramid-like structures which dominate our lives: governmental, military, corporate, educational and other hierarchical institutions and bureaucracies. This learned view sees power vested in and emanating from those at the top of the pyramid, controlling those who occupy lesser roles or stations. Power from this perspective is seen as relatively fixed—strong and unyielding, not changeable. People who are not in designated power roles are considered dependent upon the decisions of those who are. [\[38\]](#page-227-8) This view promotes the concept of powerlessness and supports the assumption that people will always have very little control over their own lives. Their choices seem limited indeed: if they cannot get to the top of the pyramid themselves, and few have access, they must obey and fit into the dictates of the existing power structure.
+We have been socialized to accept the most common view and mystique of power, reflected in the pyramid-like structures which dominate our lives: governmental, military, corporate, educational and other hierarchical institutions and bureaucracies. This learned view sees power vested in and emanating from those at the top of the pyramid, controlling those who occupy lesser roles or stations. Power from this perspective is seen as relatively fixed—strong and unyielding, not changeable. People who are not in designated power roles are considered dependent upon the decisions of those who are. \[38\] This view promotes the concept of powerlessness and supports the assumption that people will always have very little control over their own lives. Their choices seem limited indeed: if they cannot get to the top of the pyramid themselves, and few have access, they must obey and fit into the dictates of the existing power structure.
 
 Abolitionists reject this monolithic view of power. We do not consider ourselves dependent on the dictates of the criminal (in)justice systems. Rather, we see the system as ultimately dependent upon our support and cooperation for its existence.
 
@@ -1028,9 +1028,9 @@ Another aspect of power is that it cannot merely be stored for emergencies. If w
 
 **Crime: Myths & realities**
 
-Many citizens take comfort in the belief that most crimes are committed by a handful of people from certain groups within society-poor people, Blacks, "hippies," "radicals," "drug users." This belief is based on the myth that there are two classes of people-the "criminals" and the rest of us. This we versus they mind-set contributes to the labeling of "criminals" as the "violent," the "lawless" the "abnormal," and even the "subhuman"—in short, a "criminal type." [\[39\]](#page-227-9)
+Many citizens take comfort in the belief that most crimes are committed by a handful of people from certain groups within society-poor people, Blacks, "hippies," "radicals," "drug users." This belief is based on the myth that there are two classes of people-the "criminals" and the rest of us. This we versus they mind-set contributes to the labeling of "criminals" as the "violent," the "lawless" the "abnormal," and even the "subhuman"—in short, a "criminal type." \[39\]
 
-Altho our culture professes obedience to the law, crime is widespread thruout society. Crimes are committed by persons of every class, race and age group. Studies indicate that an "overwhelming majority of the general population has committed criminal acts, many of them extremely serious. Almost all of these crimes went unreported and the criminal escaped arrest and prosecution." [\[40\]](#page-227-10) We are all "criminals" if the word means one who has committed an illegal act.
+Altho our culture professes obedience to the law, crime is widespread thruout society. Crimes are committed by persons of every class, race and age group. Studies indicate that an "overwhelming majority of the general population has committed criminal acts, many of them extremely serious. Almost all of these crimes went unreported and the criminal escaped arrest and prosecution." \[40\] We are all "criminals" if the word means one who has committed an illegal act.
 
 Only a very small proportion of crime in the U. S. is committed by those who are convicted and imprisoned. The President's Commission on Causes and Prevention of Violence estimated that only 1.5 percent of the perpetrators of the approximately nine million crimes committed annually ends up in prison.
 
@@ -1042,15 +1042,15 @@ No discussion of the Texas prison system can be meaningful without consideration
 
 Primary questions in developing an abolitionist perspective on crime include: What is crime? Who is the criminal?
 
-The true criminal, by whom I mean the man who will deliberately sacrifice others for his own advantage, is found in all ranks of society. He may never have occasion to transgress the law, and his true character may be disguised in rich apparel, showing forth only to the keen observer, in a number of actions which no law can punish and may even be made to support, and in which the brutal nature of the man comes out. [\[41\]](#page-227-11)
+The true criminal, by whom I mean the man who will deliberately sacrifice others for his own advantage, is found in all ranks of society. He may never have occasion to transgress the law, and his true character may be disguised in rich apparel, showing forth only to the keen observer, in a number of actions which no law can punish and may even be made to support, and in which the brutal nature of the man comes out. \[41\]
 
-Law in any society reflects the values, interests and demands of those who hold power. Historically, crimes in Western society have ranged from "murder and forgery to astronomy and atheism, from homosexuality and bribery to treason and bankruptcy." [\[42\]](#page-227-12) The intent of criminal law has been to uphold a selective moral code and to maintain economic and social power.
+Law in any society reflects the values, interests and demands of those who hold power. Historically, crimes in Western society have ranged from "murder and forgery to astronomy and atheism, from homosexuality and bribery to treason and bankruptcy." \[42\] The intent of criminal law has been to uphold a selective moral code and to maintain economic and social power.
 
-Abolitionists recognize that altho criminal acts are committed by people of all races and socioeconomic classes, the overwhelming proportion of those arrested, tried, convicted and imprisoned are the poor, the Black, the unconventional and the young.[\[43\]](#page-227-13) These segments of the population are imprisoned, not because they are "criminal" and because white, middle class people are "noncriminal," but because they have been labeled as targets of "law enforcement" and are systematically discriminated against by police, by courts and within prisons (just as they are by the larger economic and social structures). There is much empirical evidence to support this point, but the most convincing proof comes from the realm of daily observation, not the computer printout.
+Abolitionists recognize that altho criminal acts are committed by people of all races and socioeconomic classes, the overwhelming proportion of those arrested, tried, convicted and imprisoned are the poor, the Black, the unconventional and the young.\[43\] These segments of the population are imprisoned, not because they are "criminal" and because white, middle class people are "noncriminal," but because they have been labeled as targets of "law enforcement" and are systematically discriminated against by police, by courts and within prisons (just as they are by the larger economic and social structures). There is much empirical evidence to support this point, but the most convincing proof comes from the realm of daily observation, not the computer printout.
 
-In this country today, decision makers are predominantly "white by race, upper middle by socioeconomic class, male by sex, suburban by residence ... and professional, proprietary or business by family background."[\[44\]](#page-227-14) Rarely punished by imprisonment are the crimes committed by persons from the more powerful sectors of society. These include "white collar crimes" such as embezzlement, price fixing, tax evasion and consumer fraud, as well as other crimes:
+In this country today, decision makers are predominantly "white by race, upper middle by socioeconomic class, male by sex, suburban by residence ... and professional, proprietary or business by family background."\[44\] Rarely punished by imprisonment are the crimes committed by persons from the more powerful sectors of society. These include "white collar crimes" such as embezzlement, price fixing, tax evasion and consumer fraud, as well as other crimes:
 
-Members of university faculties have participated in illegal research on welfare clients, subjecting them to pain, providing them with placebos instead of birth control pills they had requested, and refusing them their legal allotments in order to establish scientific control groups. Other scientists have engaged in lethal experiments on prisoners, many of whom were incarcerated for far less immoral or illegal conduct.... The government is not prosecuting these illegal acts. Lawless conduct in these cases is socially acceptable.[\[45\]](#page-227-15)
+Members of university faculties have participated in illegal research on welfare clients, subjecting them to pain, providing them with placebos instead of birth control pills they had requested, and refusing them their legal allotments in order to establish scientific control groups. Other scientists have engaged in lethal experiments on prisoners, many of whom were incarcerated for far less immoral or illegal conduct.... The government is not prosecuting these illegal acts. Lawless conduct in these cases is socially acceptable.\[45\]
 
 We validate as serious all crimes of physical or psychic violence, whether labeled "white collar," "corporate" or "street."
 
@@ -1060,33 +1060,33 @@ Secondly, certain crimes committed by persons from the more powerful sectors of 
 - Absentee landlords who charge extortionist rents for rat-infested slum apartments.
 - Madison Avenue copywriters whose job it is to manipulate the gullible into buying shoddy merchandise.
 - Doctors getting rich off Medicare who process their patients like so many cattle.
-- • Manufacturers of napalm and other genocidal weapons. [\[46\]](#page-227-16)
+- • Manufacturers of napalm and other genocidal weapons. \[46\]
 
 These crimes cannot be ignored any longer.
 
-A third category involves crimes against humanity. Most of these behaviors are not now illegal; the criminal law focuses on individual acts. Crimes against humanity involve threats to human survival resulting from collective action. These include war, starvation, overpopulation, resource depletion and exploitation, poverty, the possibility of nuclear holocaust, environmental pollution, pestilence, to name a few. [\[47\]](#page-227-17) If we hope to function under a system of law, whole systems, such as multinational corporations and governments, [\[48\]](#page-227-18) must be held responsible.
+A third category involves crimes against humanity. Most of these behaviors are not now illegal; the criminal law focuses on individual acts. Crimes against humanity involve threats to human survival resulting from collective action. These include war, starvation, overpopulation, resource depletion and exploitation, poverty, the possibility of nuclear holocaust, environmental pollution, pestilence, to name a few. \[47\] If we hope to function under a system of law, whole systems, such as multinational corporations and governments, \[48\] must be held responsible.
 
 ## **Crime wave statistics & public fear**
 
 The "law and order" rhetoric of certain political leaders is gross hypocrisy. It ignores the root causes of crime and merely whips up public fear, calling for increased police power and heavier criminal sentences. These politicians rely heavily on F. B. I. crime statistics. Each year the Uniform Crime Reports (U. C. R.)
 
-indicate an increase in the number of street crimes. There are several reasons for this apparent increase, including improved technology in reporting procedures by police departments around the country. However, there is evidence that the figures are often manipulated for political purposes. In at least one instance, the U. C. R. failed to publicize statistics showing a decrease in violent incidents. [\[49\]](#page-227-19)
+indicate an increase in the number of street crimes. There are several reasons for this apparent increase, including improved technology in reporting procedures by police departments around the country. However, there is evidence that the figures are often manipulated for political purposes. In at least one instance, the U. C. R. failed to publicize statistics showing a decrease in violent incidents. \[49\]
 
 The National Moratorium on Prison Construction points out:
 
-If the F. B. I. wish to report annual increases in crime of ten percent, it could do so for the next 16 years before catching up to the number of actual crimes—assuming a stable population and a stable crime rate. The F. B. I. usually reports crime rises of about five percent a year.... A recent victimization survey showed that victimization rates, when viewed according to sex, age, marital status, in- come, etc., showed little or no fluctuation.... If these results should hold it would mean that crime is stable, a theory proposed by Durkheim in the last century. [\[50\]](#page-227-20)
+If the F. B. I. wish to report annual increases in crime of ten percent, it could do so for the next 16 years before catching up to the number of actual crimes—assuming a stable population and a stable crime rate. The F. B. I. usually reports crime rises of about five percent a year.... A recent victimization survey showed that victimization rates, when viewed according to sex, age, marital status, in- come, etc., showed little or no fluctuation.... If these results should hold it would mean that crime is stable, a theory proposed by Durkheim in the last century. \[50\]
 
 Most criminologists regard the U. C. R. as highly suspect and yet these misleading statistics are the basis for much public fear. What political purposes are served by increasing fear of "crime in the streets?" Public attention is focused on the myth of the criminal class, reinforcing a we/they view. Attention is diverted from serious crimes committed by persons other than "street criminals." Fear of a "crime wave" builds support for increased police repression of certain segments of society.
 
 ### **Myth of the criminal type**
 
-Based on the absurd assumption that a "criminal" can be identified according to behavior, appearance, and ethnic or racial origin, the myth of the criminal type has persisted a very long time probably for as long as crime itself. This labeling of the criminal as "a sub-human species to be treated as a non-person," [\[51\]](#page-227-21) persists today in popular culture as well as in professional circles.
+Based on the absurd assumption that a "criminal" can be identified according to behavior, appearance, and ethnic or racial origin, the myth of the criminal type has persisted a very long time probably for as long as crime itself. This labeling of the criminal as "a sub-human species to be treated as a non-person," \[51\] persists today in popular culture as well as in professional circles.
 
-Over 100 years ago, Charles Loring Brace published a book called The Dangerous Classes of New York... in which he warned society that juvenile delinquents—homeless, antisocial children of the streets—were "children of poverty and vice," and a terrible danger to society.... Their riots were close to revolution. They threatened the very social order; they resented the rich and looked on "capital" as a "tyrant." "Let but Law lift its hand from them for a season, or let the civilizing influences of American life fail to reach them, and if the opportunity offered, we should see an explosion from this class which might leave this city in ashes and blood." [\[52\]](#page-227-22)
+Over 100 years ago, Charles Loring Brace published a book called The Dangerous Classes of New York... in which he warned society that juvenile delinquents—homeless, antisocial children of the streets—were "children of poverty and vice," and a terrible danger to society.... Their riots were close to revolution. They threatened the very social order; they resented the rich and looked on "capital" as a "tyrant." "Let but Law lift its hand from them for a season, or let the civilizing influences of American life fail to reach them, and if the opportunity offered, we should see an explosion from this class which might leave this city in ashes and blood." \[52\]
 
-The notion that the "criminal" is mentally deficient has given way to a belief in mental illness as the causal force. Testing of convicted felons, however, shows them to have the same incidence of psychiatric problems as the general public outside the walls. [\[53\]](#page-227-23)
+The notion that the "criminal" is mentally deficient has given way to a belief in mental illness as the causal force. Testing of convicted felons, however, shows them to have the same incidence of psychiatric problems as the general public outside the walls. \[53\]
 
-The labeling of a "criminal class" serves several functions. Most notably, it acts as a rationale for control and punishment of dissident and unassimilated groups. It legitimizes imprisonment of the unemployable, a surplus labor force burdening our increasingly technological society. [\[54\]](#page-227-24) It also provides employment and a degree of political control, by surveillance, patronage and other means for "middle Americans" employed in the prison industry.
+The labeling of a "criminal class" serves several functions. Most notably, it acts as a rationale for control and punishment of dissident and unassimilated groups. It legitimizes imprisonment of the unemployable, a surplus labor force burdening our increasingly technological society. \[54\] It also provides employment and a degree of political control, by surveillance, patronage and other means for "middle Americans" employed in the prison industry.
 
 Starting at the top, who is the greater criminal, the poor kid from a ghetto who snatches a purse, shoplifts and steals cars, or the president of a country which he betrays by treasons or greed and abuses of power?
 
@@ -1100,7 +1100,7 @@ Is it an accident that Spiro Agnew never spent a day in prison, altho his crimin
 
 A prevalent sociological theory of crime causation is that of the "criminal subculture." Crime is seen as an outgrowth of society's unequal distribution of goods and resources. Government commissions, sociological texts, educators and students of criminal behavior all point to the relationship between unemployment, poverty, slums and crime. Individual developmental patterns, family disorganization, faulty training and poor education are singled out as contributing causes of crime. Therefore, responses to "criminal" behavior must be directed not only at the individual "offender" but also at the "malfunctioning" of the individual's environment—the "community."
 
-But only certain communities are singled out as criminogenic. The most commonly cited is the "slum." The "criminal" is the "slum-dweller." The President's Commission on Law Enforcement and the Administration of Justice explains that we must "eliminate the conditions in which most crime breeds .... Warring on poverty, inadequate housing and unemployment is warring on crime." [\[55\]](#page-227-25)
+But only certain communities are singled out as criminogenic. The most commonly cited is the "slum." The "criminal" is the "slum-dweller." The President's Commission on Law Enforcement and the Administration of Justice explains that we must "eliminate the conditions in which most crime breeds .... Warring on poverty, inadequate housing and unemployment is warring on crime." \[55\]
 
 We agree that much responsibility for crime lies within the community, but we take a broader view of "community" and "crime." We concur that poverty, lack of meaningful employment and educational opportunities, disease and lack of medical care, malnutrition, poor and dilapidated housing all contribute to feelings of hunger, rage, alienation and powerlessness. These feelings can encourage a person to commit a crime.
 
@@ -1130,35 +1130,35 @@ Options for solving economic problems vary according to age, race, sex and econo
 
 #### **The culture of violence**
 
-Certain violent crimes are condoned by prevailing values. The use of violence is widespread and accepted as a means of solving problems and disputes, of acquiring wealth and of establishing power over persons and groups. [\[56\]](#page-227-26) From the brutal extermination of Native Americans to the murder of early labor leaders; from lynch law brutality to destroy and terrorize Black Americans to the racist gang rape of southern Black women by white men during Reconstruction, violence has long been a part of the American tradition. Being a victim of violence is nothing new to the powerless in America, just as being the violent aggressor is nothing new to the powerful.
+Certain violent crimes are condoned by prevailing values. The use of violence is widespread and accepted as a means of solving problems and disputes, of acquiring wealth and of establishing power over persons and groups. \[56\] From the brutal extermination of Native Americans to the murder of early labor leaders; from lynch law brutality to destroy and terrorize Black Americans to the racist gang rape of southern Black women by white men during Reconstruction, violence has long been a part of the American tradition. Being a victim of violence is nothing new to the powerless in America, just as being the violent aggressor is nothing new to the powerful.
 
 The media contribute to violent crime thru ceaseless repetition of the concept that human problems can be solved by violence and aggression. In the Surgeon General's Report on Television and Social Behavior, Alberta E. Siegel points out:
 
-In T. V. entertainment, children may observe countless acts of murder and mayhem, may learn thru observation how to perform these acts and may even learn that such acts are admired by other people. Thus commercial television itself is a school for violence. [\[57\]](#page-227-27)
+In T. V. entertainment, children may observe countless acts of murder and mayhem, may learn thru observation how to perform these acts and may even learn that such acts are admired by other people. Thus commercial television itself is a school for violence. \[57\]
 
 In the three years since the Surgeon General's report:
 
-...watchers have been treated to uncounted thousands of brutal homicides, rapes, robberies, fist fights, muggings and maiming ... One scientist estimates that by the age of 15 the average child will have witnessed 13,400 televised killings. [\[58\]](#page-227-28)
+...watchers have been treated to uncounted thousands of brutal homicides, rapes, robberies, fist fights, muggings and maiming ... One scientist estimates that by the age of 15 the average child will have witnessed 13,400 televised killings. \[58\]
 
 Movies, magazines, comic books and newspapers often provide heroic models of criminals and a glorification of their violence. Too often the media makes violence appear to be the first alternative.
 
 ### **Patriarchy & violence**
 
-In our patriarchal culture, [\[59\]](#page-227-29) girls and boys gain their first understanding of what it means to be feminine or masculine. To be "masculine" is to dominate and control thru force; to be feminine is to submit and be controlled. Children are considered to be property of the parents, and wives property of the husband. This traditional property right is translated into the right of the parent or husband to physically control and punish the child or wife. [\[60\]](#page-228-0) While the culture romanticizes womanhood and childhood, forcible control of women and children is an integral part of our lives." [\[61\]](#page-228-1) Often people who have been abused as children engage in violent behavior as adults-thus repeating the cycle of violence.
+In our patriarchal culture, \[59\] girls and boys gain their first understanding of what it means to be feminine or masculine. To be "masculine" is to dominate and control thru force; to be feminine is to submit and be controlled. Children are considered to be property of the parents, and wives property of the husband. This traditional property right is translated into the right of the parent or husband to physically control and punish the child or wife. \[60\] While the culture romanticizes womanhood and childhood, forcible control of women and children is an integral part of our lives." \[61\] Often people who have been abused as children engage in violent behavior as adults-thus repeating the cycle of violence.
 
 Crimes against women and children—physical abuse, emotional abuse and sexual abuse—occur at every socioeconomic level. Abuse of women and children in affluent families seldom comes to public attention because these families are not scrutinized by public agencies and their "problems" are often not reported to central registries by private physicians, teachers or clergy.
 
 #### **Official violence**
 
-The government itself is a leading promoter of violence. In the past decade, Americans have seen their government conduct a brutal and illegal war in Southeast Asia, exonerate the murderers of Kent State and Jackson State students, cover up the My Lai massacre and support the harassment, subversion and murder of foreign leaders. In addition to serving to legitimize violence, these official acts have fostered alienation, hostility and a lack of faith in American justice. [\[62\]](#page-228-2)
+The government itself is a leading promoter of violence. In the past decade, Americans have seen their government conduct a brutal and illegal war in Southeast Asia, exonerate the murderers of Kent State and Jackson State students, cover up the My Lai massacre and support the harassment, subversion and murder of foreign leaders. In addition to serving to legitimize violence, these official acts have fostered alienation, hostility and a lack of faith in American justice. \[62\]
 
-The United States Civil Rights Commission "has received hundreds of complaints charging that policemen have barged into homes and terrorized inhabitants, beaten suspects far beyond the point of resistance, shot fleeing juveniles suspected of minor offenses, and broken up nonviolent demonstrations in a violent way." [\[63\]](#page-228-3) While the public is made very aware of the murder of police officers by civilians, they are rarely informed of the murder of civilians by the police, particularly Black civilians:
+The United States Civil Rights Commission "has received hundreds of complaints charging that policemen have barged into homes and terrorized inhabitants, beaten suspects far beyond the point of resistance, shot fleeing juveniles suspected of minor offenses, and broken up nonviolent demonstrations in a violent way." \[63\] While the public is made very aware of the murder of police officers by civilians, they are rarely informed of the murder of civilians by the police, particularly Black civilians:
 
-What is generally not known by the public, and either not known or certainly not publicized by the police and other officials, is the alarming increase in the rate of deaths of male citizens caused by, in the official terminology, "legal intervention of police." ... Black men have been killed by police at a rate some nine to ten times higher than white men.... In proportion to population, Black youngsters and old men have been killed by police at a rate 15 to 30 times greater than that for whites of the same age. It is the actual experiences behind statistics like these that suggest that police have one trigger finger for whites and another for Blacks. [\[64\]](#page-228-4)
+What is generally not known by the public, and either not known or certainly not publicized by the police and other officials, is the alarming increase in the rate of deaths of male citizens caused by, in the official terminology, "legal intervention of police." ... Black men have been killed by police at a rate some nine to ten times higher than white men.... In proportion to population, Black youngsters and old men have been killed by police at a rate 15 to 30 times greater than that for whites of the same age. It is the actual experiences behind statistics like these that suggest that police have one trigger finger for whites and another for Blacks. \[64\]
 
 When the police use excessive and often fatal force as part of the "war against crime;" when they use violence indiscriminately to punish suspected "criminals" and to maintain control in minority communities; when they are rarely held liable for their violent crimes; when Black and other Third World people have no effective way to protest or stop this brutality and harassment, then the resultant feelings intense resentment against law enforcement officials, frustration, anger, fear, hostility and alienation—are a predictable reaction to such social pressures.
 
-The police form the front line of repressive control of potentially disruptive groups. Their main function is the preservation of a social order based on class, racial, sexual and cultural oppression that undergirds our present economic system. [\[65\]](#page-228-5) Thus individual instances of police violence are part of a deeper pattern of repressive roles assigned to police to control groups labeled "criminal," a pattern which is inseparable from the needs of the dominant culture.
+The police form the front line of repressive control of potentially disruptive groups. Their main function is the preservation of a social order based on class, racial, sexual and cultural oppression that undergirds our present economic system. \[65\] Thus individual instances of police violence are part of a deeper pattern of repressive roles assigned to police to control groups labeled "criminal," a pattern which is inseparable from the needs of the dominant culture.
 
 The existence of vague laws and overextensive laws, which must be interpreted and enforced selectively at the lower echelons of the criminal justice system-at the level of the police-has given rise to a serious problem: the misuse of discretion by police. Following their unofficial mandate and utilizing the discretionary power granted to them, police in America do not primarily enforce the law. Instead they maintain order, often heavy-handedly. In accomplishing this goal they selectively enforce laws against individuals and classes who they, or the dominant political and economic interests, see as threats to the social order.
 
@@ -1166,7 +1166,7 @@ The existence of vague laws and overextensive laws, which must be interpreted an
 
 Our society cannot promote the values of honesty, cooperation, autonomy, freedom and self-determination and expect citizens to be peaceful and law-abiding when the government carries out violent policies which systematically deny citizens their right to self-determination, and, in some cases, the right to live at all.
 
-Short range abolitionist goals should focus on making the police accountable to the community. Police policies should be set by neighborhood representatives, police should be drawn from the communities they serve and police practices should be reviewed regularly by community groups. [\[66\]](#page-228-6) Longer range goals include the decentralization and disarmament of police.
+Short range abolitionist goals should focus on making the police accountable to the community. Police policies should be set by neighborhood representatives, police should be drawn from the communities they serve and police practices should be reviewed regularly by community groups. \[66\] Longer range goals include the decentralization and disarmament of police.
 
 There is a need for humanization of the role of the individual police officer. Recruitment and training should be oriented toward the peace-keeping role of the police, with screening procedures to exclude or remove from the force persons who are overly aggressive and violence prone. Training should provide instructions in interpersonal relations, dispute settlement, conflict resolution and other nonviolent peace-keeping techniques. Community members should both participate in and monitor this training. The para-military structure of the police should be broken down so that law enforcement cannot be used for political ends of the "top cops" without input and consent from the rank and file.
 
@@ -1176,7 +1176,7 @@ Community-run programs and groups-rape crisis centers, drug abuse projects, neig
 
 #### **Guns**
 
-Guns are a time-honored American tradition, as the National Rifle Association continues to remind us. Bloodshed, murder and violent crime are also an integral part of the American heritage. Economic interest, machismo and fear of racial control intermingle to prevent the banning of guns. Our culture of violence" [\[67\]](#page-228-7) persists and easy access to weapons of death remains intact with over 40 million handguns stashed away in the drawers, closets and glove compartments of America. [\[68\]](#page-228-8)
+Guns are a time-honored American tradition, as the National Rifle Association continues to remind us. Bloodshed, murder and violent crime are also an integral part of the American heritage. Economic interest, machismo and fear of racial control intermingle to prevent the banning of guns. Our culture of violence" \[67\] persists and easy access to weapons of death remains intact with over 40 million handguns stashed away in the drawers, closets and glove compartments of America. \[68\]
 
 The appalling statistics of gun-inflicted homicide—over two-thirds of the approximately 20,000 murders committed annually—clearly justify the view, expressed at the hearings by Representative Bingham of New York that "we are literally out of our minds to allow 2.5 million new weapons to be manufactured every year for the sole purpose of killing people.
 
@@ -1196,11 +1196,11 @@ About 65 percent of all murders in the United States are accomplished by means o
 
 The National Rifle Association warns us of gun control: "Let them follow their counsels of cowardice if they prefer to surrender the privileges and rights of manhood." In the United States the gun has become a symbol of masculinity, a symbol of aggression, control and dominance:
 
-... The deadly handgun ... is power in interpersonal relationships. This is why seven out of ten murders are among families and friends. This is also win' debates on the abolition of handguns have become debates on castration.... Why should a man's manhood in any way depend on a piece of machinery that propels a drop of metal which hills another human being? [\[69\]](#page-228-9)
+... The deadly handgun ... is power in interpersonal relationships. This is why seven out of ten murders are among families and friends. This is also win' debates on the abolition of handguns have become debates on castration.... Why should a man's manhood in any way depend on a piece of machinery that propels a drop of metal which hills another human being? \[69\]
 
-Despite polls showing that more than 70 percent of the public supports stricter gun laws, Congress has failed to act, largely because the gun industries wield such tremendous political and economic power. [\[70\]](#page-228-10)
+Despite polls showing that more than 70 percent of the public supports stricter gun laws, Congress has failed to act, largely because the gun industries wield such tremendous political and economic power. \[70\]
 
-The additional issue of racial control is related to those of machismo and economic power. Some Black leaders opposing gun regulations argue that "gun control is race control." [\[71\]](#page-228-11) Recently proposed gun regulations by Attorney General Edward Levi are aimed at disarmament of metropolitan populations (largely poor and Third World) coupled with demands that "law enforcers" remain armed. [\[72\]](#page-228-12)
+The additional issue of racial control is related to those of machismo and economic power. Some Black leaders opposing gun regulations argue that "gun control is race control." \[71\] Recently proposed gun regulations by Attorney General Edward Levi are aimed at disarmament of metropolitan populations (largely poor and Third World) coupled with demands that "law enforcers" remain armed. \[72\]
 
 To prevent gun control from becoming another possible means of control over Third World people, the poor and those labeled "dissidents"—and to prevent further escalation of violent crimes against citizen—he long range we advocate total disarmament of law enforcement officials as well as civilians. In the interim, we advocate legislation aimed at phasing out the importation, manufacture, sale and private possession of handguns.
 
@@ -1212,7 +1212,7 @@ Syndicates involving thousands of individuals operate outside the laws and insti
 
 Gambling, loan sharking and drugs are still the greatest sources of income for organized crime. With the millions of dollars gained thru these activities, syndicates manipulate the price of shares on the stock market, raise or lower prices of retail merchandise, determine whether entire industries will be union or nonunion, control the success or failure of small business people. The power purchased with syndicate money controls the lives of countless numbers of people and affects the quality of life in entire neighborhoods.
 
-By paying off public officials, professional criminals purchase the "right" to murder with impunity, to extort money from business people, to conduct businesses in liquor, food and drugs without regulation or standards. [\[73\]](#page-228-13) Syndicates "own several state legislators and federal congressmen and other officials in the legislative, executive and judicial branches of government at local, state and federal levels." [\[74\]](#page-228-14) The syndicate could not exist without the accommodation of certain police and other officials, so that, tho the identities of professional criminals are often widely known, they are rarely dealt with by the criminal (in)justice systems. [\[75\]](#page-228-15)
+By paying off public officials, professional criminals purchase the "right" to murder with impunity, to extort money from business people, to conduct businesses in liquor, food and drugs without regulation or standards. \[73\] Syndicates "own several state legislators and federal congressmen and other officials in the legislative, executive and judicial branches of government at local, state and federal levels." \[74\] The syndicate could not exist without the accommodation of certain police and other officials, so that, tho the identities of professional criminals are often widely known, they are rarely dealt with by the criminal (in)justice systems. \[75\]
 
 ### **Drugs**
 
@@ -1222,11 +1222,11 @@ American society, Chein notes, takes extraordinary pains to keep heroin from add
 
 —John Monahan and Gilbert Geis, "Controlling Dangerous People," Annals of the American Academy of Political and Social Science, January, 1976, pp. 143–49.
 
-Experts in the field of drug abuse agree that "most of the crime, fear and other side effects of narcotics addiction probably would not exist without the laws that make the addict a criminal." [\[76\]](#page-228-16) Substantial portions of property crime and prostitution are attributable to the need of drug addicts to support their habit. [\[77\]](#page-228-17) Nevertheless, drug legislation continues to reflect and reinforce myths about drug use.
+Experts in the field of drug abuse agree that "most of the crime, fear and other side effects of narcotics addiction probably would not exist without the laws that make the addict a criminal." \[76\] Substantial portions of property crime and prostitution are attributable to the need of drug addicts to support their habit. \[77\] Nevertheless, drug legislation continues to reflect and reinforce myths about drug use.
 
-The criminalization of specific substances and the labeling of their users as "dangerous drug addicts" and "criminals" serves several political purposes. It legitimizes the isolation, punishment, involuntary "treatment" and imprisonment of the "addict" and the eradication of the "pusher." [\[78\]](#page-228-18) Institutionalized racism and social prejudices against the poor, minorities and "hippie" culture insure that the laws themselves and their enforcement are aimed at control of these groups. [\[79\]](#page-228-19)
+The criminalization of specific substances and the labeling of their users as "dangerous drug addicts" and "criminals" serves several political purposes. It legitimizes the isolation, punishment, involuntary "treatment" and imprisonment of the "addict" and the eradication of the "pusher." \[78\] Institutionalized racism and social prejudices against the poor, minorities and "hippie" culture insure that the laws themselves and their enforcement are aimed at control of these groups. \[79\]
 
-While substances associated with politically powerless groups are labeled "dangerous narcotics," those used and sanctioned by the dominant culture nicotine, caffeine, alcohol, tranquilizers, barbiturates, amphetamines—are portrayed as part of the American way of life. [\[80\]](#page-228-20) With the drug industry as supplier and profiteer and physician as pusher, "soft" drug consumption has skyrocketed in the last three decades, despite physically damaging effects of these drugs. [\[81\]](#page-228-21) Drug promotion by media advertisers, the drug industry and the medical profession have "contributed to the convincing of large sections of the public that there is a pill for every ill, and that there is-in fact, there must be-a chemical answer to every physical, emotional and sociological discomfort ... " [\[82\]](#page-228-22)
+While substances associated with politically powerless groups are labeled "dangerous narcotics," those used and sanctioned by the dominant culture nicotine, caffeine, alcohol, tranquilizers, barbiturates, amphetamines—are portrayed as part of the American way of life. \[80\] With the drug industry as supplier and profiteer and physician as pusher, "soft" drug consumption has skyrocketed in the last three decades, despite physically damaging effects of these drugs. \[81\] Drug promotion by media advertisers, the drug industry and the medical profession have "contributed to the convincing of large sections of the public that there is a pill for every ill, and that there is-in fact, there must be-a chemical answer to every physical, emotional and sociological discomfort ... " \[82\]
 
 It is not our purpose here to examine the relative dangerousness of chemical substances. We question why substances associated with the middle and upper classes are considered "safe" and "soft" and those associated with the ghetto, barrio and youth culture are labeled "dangerous narcotics."
 
@@ -1246,15 +1246,15 @@ The American government tries to narcotize its dissidents with alcohol, tobacco,
 
 A truly drug dependent culture is promoted by pharmaceutical companies which test and market their products in schools, prisons, mental hospitals and the military, and by agencies of the government which support drug experimentation and use on Third World people, the poor, women, prisoners and those labeled "mentally infirm."
 
-- In 1975 between 500,000 and 1,000,000 U. S. children were receiving behavior control drugs by prescription. The majority of these children were "being drugged, often at the insistence of schools or individual teachers, to make them more manageable." [\[83\]](#page-228-23)
-- A variety of drugs, many with harmful side effects, are supplied to prisoners by institutions thruout the country. [\[84\]](#page-228-24) "By freely giving out ... drugs, wardens and guards keep many prisoners sitting quietly in their cells instead of protesting prison conditions. The result is the creation of junkies who will be prosecuted and imprisoned again for taking the very same drugs when they get back on the street."[\[85\]](#page-228-25)
-- • An estimated 85 percent of all phase-one testing of new drugs is done on prisoners.[\[86\]](#page-228-26) About 80 percent of all human experimentation is done on members of minority groups, poor people and prisoners.[\[87\]](#page-228-27)
-- A variety of drugs and pharmaceutical products are fraudulently promoted and introduced without proper testing. A glaring example is oral contraceptives: during its first three years on the market "The Pill" was responsible for producing a serious or fatal blood clot in some 2,000 women. [\[88\]](#page-228-28)
+- In 1975 between 500,000 and 1,000,000 U. S. children were receiving behavior control drugs by prescription. The majority of these children were "being drugged, often at the insistence of schools or individual teachers, to make them more manageable." \[83\]
+- A variety of drugs, many with harmful side effects, are supplied to prisoners by institutions thruout the country. \[84\] "By freely giving out ... drugs, wardens and guards keep many prisoners sitting quietly in their cells instead of protesting prison conditions. The result is the creation of junkies who will be prosecuted and imprisoned again for taking the very same drugs when they get back on the street."\[85\]
+- • An estimated 85 percent of all phase-one testing of new drugs is done on prisoners.\[86\] About 80 percent of all human experimentation is done on members of minority groups, poor people and prisoners.\[87\]
+- A variety of drugs and pharmaceutical products are fraudulently promoted and introduced without proper testing. A glaring example is oral contraceptives: during its first three years on the market "The Pill" was responsible for producing a serious or fatal blood clot in some 2,000 women. \[88\]
 - • During the Vietnam War while the government gave lip service to the need to eradicate the evils of narcotics at home, between 15 and 20 percent of young
 
-Americans were returning home addicted to heroin. [\[89\]](#page-228-29) Evidence from recent investigations suggests that the Central Intelligence Agency actively engaged in the transport of opium and heroin. [\[90\]](#page-228-30)
+Americans were returning home addicted to heroin. \[89\] Evidence from recent investigations suggests that the Central Intelligence Agency actively engaged in the transport of opium and heroin. \[90\]
 
-Organized syndicates are the principal importers and wholesalers of narcotics. Our drug laws effectively create a highly profitable Black Market which depends for its existence on law enforcement agencies to hold the available supply down to the level of effective demand. [\[91\]](#page-228-31) Black Market drug traffic could not exist without being condoned by those in powerful positions. "The laws give a kind of franchise to those who are willing to break ... [it]." [\[92\]](#page-229-0) The result is massive exploitation by professional, organized syndicates which, thru extortion, bribes and payoffs, are insulated from the effects of law enforcement. [\[93\]](#page-229-1)
+Organized syndicates are the principal importers and wholesalers of narcotics. Our drug laws effectively create a highly profitable Black Market which depends for its existence on law enforcement agencies to hold the available supply down to the level of effective demand. \[91\] Black Market drug traffic could not exist without being condoned by those in powerful positions. "The laws give a kind of franchise to those who are willing to break ... it]." [\[92\] The result is massive exploitation by professional, organized syndicates which, thru extortion, bribes and payoffs, are insulated from the effects of law enforcement. \[93\]
 
 In Harlem, the average take from addicts and pushers by one crimeprevention squad was \$1,500 a month; "heavy scorers" made as much as \$3,000 a month.... In the course of their daily rounds, the police themselves become pushers, doling out daily fixes to their addict informants from their immense stores of confiscated heroin.
 
@@ -1270,9 +1270,9 @@ Traditionally, the stated purpose of criminal law has been to discourage violenc
 
 The definition of criminal acts changes according to the political, economic and moral interests of those who control any system.
 
-The essence of high status is privilege, and the essence of privilege is legitimate exception from the rules which apply to others ... conformers to the law ... are divided between those who enjoy the law as a system of facilitations, a network of pathways, and those who suffer the law as a system of deprivations, of barriers. Similarly, those outside the law must be divided between persons who can evade it only by violating it (risking punishment) and those who are legitimately exempted from it and risk nothing. Why not obey the law, if it serves your interest? What need to violate it, except if it does not? And why be concerned at all, if you are beyond its authority? Justice is no longer even a lofty ideal: it is a vicious pretext by which the beneficiaries of power preserve their self-esteem while oppressing the twice punished. Stripped of that pretext, it is little more than a naked defense of class interest. [\[94\]](#page-229-2)
+The essence of high status is privilege, and the essence of privilege is legitimate exception from the rules which apply to others ... conformers to the law ... are divided between those who enjoy the law as a system of facilitations, a network of pathways, and those who suffer the law as a system of deprivations, of barriers. Similarly, those outside the law must be divided between persons who can evade it only by violating it (risking punishment) and those who are legitimately exempted from it and risk nothing. Why not obey the law, if it serves your interest? What need to violate it, except if it does not? And why be concerned at all, if you are beyond its authority? Justice is no longer even a lofty ideal: it is a vicious pretext by which the beneficiaries of power preserve their self-esteem while oppressing the twice punished. Stripped of that pretext, it is little more than a naked defense of class interest. \[94\]
 
-Tho some advocate abolishing the criminal law, [\[95\]](#page-229-3) for the present most abolitionists advocate limiting criminal law to reduce its discriminatory and arbitrary powers and its extended use as a tool of socialization.
+Tho some advocate abolishing the criminal law, \[95\] for the present most abolitionists advocate limiting criminal law to reduce its discriminatory and arbitrary powers and its extended use as a tool of socialization.
 
 We view crime as a problem with roots deep in the social structure, not just as a series of problems of individuals. Rather than punishing individual actors, collective response to the root causes is needed.
 
@@ -1307,7 +1307,7 @@ There is in fact no way to eliminate the acknowledged evils of punishment withou
 
 **Reality:** Prisons fail to protect society from "criminals," except for a very small percentage and only temporarily. Prisons "protect" the public only from those few who get caught and convicted, thereby serving the primary function of control over certain segments of society.
 
-According to Norman Carlson, director of the Federal Bureau of Prisons, "The goal of our criminal justice system is to protect law-abiding citizens from crime, particularly crimes of violence, and to make them secure in their lives and property." [\[96\]](#page-229-4) Despite shifts in "correctional" emphases, restraint or keeping the "criminal" out of circulation continues to be a key purpose of prisons. However, it is questionable how much real protection prisons afford, because only a small percent of all law-breakers end up in prison and most of these few remain in prison for a relatively short period of time.
+According to Norman Carlson, director of the Federal Bureau of Prisons, "The goal of our criminal justice system is to protect law-abiding citizens from crime, particularly crimes of violence, and to make them secure in their lives and property." \[96\] Despite shifts in "correctional" emphases, restraint or keeping the "criminal" out of circulation continues to be a key purpose of prisons. However, it is questionable how much real protection prisons afford, because only a small percent of all law-breakers end up in prison and most of these few remain in prison for a relatively short period of time.
 
 Prisons have pacified the public with the image of "safety," symbolized by walls and cages located in remote areas. But prisons are a massive deception: seeming to "protect," they engender hostility and rage among all who are locked into the system, both prisoner and keeper. Society is victimized by the exploitation of its fear of crime.
 
@@ -1315,11 +1315,11 @@ Indeed, rather than protecting society from the harmful, prisons are in themselv
 
 ### **The few who get caught**
 
-The failure of prisons to protect is bound up with the reality of who actually gets caught. According to the system managers, true protection would require a high degree of effectiveness. [\[97\]](#page-229-5) The system, however, is highly ineffective. Few lawbreakers are apprehended and most studies show that only one to three percent of all reported crime results in imprisonment. In one study, out of 100 major crimes
+The failure of prisons to protect is bound up with the reality of who actually gets caught. According to the system managers, true protection would require a high degree of effectiveness. \[97\] The system, however, is highly ineffective. Few lawbreakers are apprehended and most studies show that only one to three percent of all reported crime results in imprisonment. In one study, out of 100 major crimes
 
-(felonies): 50 were reported to the police; suspects were arrested in 12 of the cases; six persons were convicted; one or two went to prison. [\[98\]](#page-229-6)
+(felonies): 50 were reported to the police; suspects were arrested in 12 of the cases; six persons were convicted; one or two went to prison. \[98\]
 
-Those who find themselves entrapped in the criminal (in)justice systems most often are a select group, usually stereotype "criminals"-a threat in some way to those in power: the poor, minorities, the young. Very few of the total lawbreaking population are ever caught, [\[99\]](#page-229-7) and an estimated one-half to three-fourths [\[100\]](#page-229-8) of all crime is never reported. How can prison-as-protection be anything but an illusion?
+Those who find themselves entrapped in the criminal (in)justice systems most often are a select group, usually stereotype "criminals"-a threat in some way to those in power: the poor, minorities, the young. Very few of the total lawbreaking population are ever caught, \[99\] and an estimated one-half to three-fourths \[100\] of all crime is never reported. How can prison-as-protection be anything but an illusion?
 
 The objection is often raised: "Better to be protected at least from that small minority of lawbreakers who are convicted." What, then, is the nature of this protection?
 
@@ -1331,33 +1331,33 @@ The prison, the reformatory, and the jail have achieved only a shocking record o
 
 > —Corrections, National Advisory Commission on Criminal Justice Standards and Goals, p. 597
 
-People who feel reassured by the high walls of the prison, its sentries, control towers and its remoteness from population centers are naive. Most prisoners leave their institutions at some point. In the United States, 95 percent are released after an average imprisonment of 24 to 32 months.... So the protection offered by the prison during the incarceration of the offender is surely a short term insurance policy and a dubious one at that. [\[101\]](#page-229-9)
+People who feel reassured by the high walls of the prison, its sentries, control towers and its remoteness from population centers are naive. Most prisoners leave their institutions at some point. In the United States, 95 percent are released after an average imprisonment of 24 to 32 months.... So the protection offered by the prison during the incarceration of the offender is surely a short term insurance policy and a dubious one at that. \[101\]
 
-We can see then, that if prison protects at all, warehousing is only temporary, for most all prisoners are ultimately released back into society, [\[102\]](#page-229-10) usually within two to three years. Moreover, the deterrent effect of prisons, on individuals and on the larger society, is highly questionable. There is no insurance of further "protection" from criminal activity beyond release.
+We can see then, that if prison protects at all, warehousing is only temporary, for most all prisoners are ultimately released back into society, \[102\] usually within two to three years. Moreover, the deterrent effect of prisons, on individuals and on the larger society, is highly questionable. There is no insurance of further "protection" from criminal activity beyond release.
 
 One commonly cited occurrence which illustrates the dubious nature of the protection theory followed a U. S. Supreme Court ruling in 1963 known as Gideon v. Wainwright, which affirmed the right of indigent felony defendants to counsel. Those convicted without counsel and sent to prison were ordered released. As a result, the State of Florida released 1,252 indigent felons before their sentences were completed. There was fear that such a mass exodus from prison might result in an increase in crime. However, after 28 months, the Florida Department of Corrections found that the recidivism rate for these ex-prisoners was only 13.6 percent, compared to 25 percent for those released after completing their full sentences. An American Bar Association committee commenting on the case observed:
 
-Baldly stated, ... if we, today, turned loose all of the inmates of our prisons without regard to the length of their sentences, and with some exceptions, without regard to their previous offenses, we might reduce the recidivism rate over what it would be if we kept each prisoner incarcerated until his sentence expired. [\[103\]](#page-229-11)
+Baldly stated, ... if we, today, turned loose all of the inmates of our prisons without regard to the length of their sentences, and with some exceptions, without regard to their previous offenses, we might reduce the recidivism rate over what it would be if we kept each prisoner incarcerated until his sentence expired. \[103\]
 
 For more than a century, statisticians have demonstrated that regardless of imprisonment, the crime rate remains constant. Removing some few people from society simply means an unapprehended majority continue in criminal activity. If that one to three percent who end up in prison were released, they would not significantly increase the lawbreaking population.
 
 ### **The few society fears**
 
-The myth of protection relies on society's perception of the "criminal" from whom it wishes to be safeguarded. Fear necessitates fortresses. The myth of the criminal type has led to penitentiaries that "are placed out in the country as if they were for lepers or for people with contagious diseases." [\[104\]](#page-229-12)
+The myth of protection relies on society's perception of the "criminal" from whom it wishes to be safeguarded. Fear necessitates fortresses. The myth of the criminal type has led to penitentiaries that "are placed out in the country as if they were for lepers or for people with contagious diseases." \[104\]
 
-There is a critical distinction between who is "caught" and who poses a danger to society. Police act upon a stereotype which accounts for a "very marked relationship between class and conviction." [\[105\]](#page-229-13) The purpose of police activity is seen "in a manner somewhat analogous to the forceful quarantining of persons with infectious diseases ... to control and suppress the activity of this lower class criminal subgroup."[\[106\]](#page-229-14) Thus, those who are caught because feared (by the police) are feared (by the public) because caught. The notion that "crime is the vice of a handful of people" [\[107\]](#page-229-15) is grossly inaccurate.
+There is a critical distinction between who is "caught" and who poses a danger to society. Police act upon a stereotype which accounts for a "very marked relationship between class and conviction." \[105\] The purpose of police activity is seen "in a manner somewhat analogous to the forceful quarantining of persons with infectious diseases ... to control and suppress the activity of this lower class criminal subgroup."\[106\] Thus, those who are caught because feared (by the police) are feared (by the public) because caught. The notion that "crime is the vice of a handful of people" \[107\] is grossly inaccurate.
 
-Crime is extraordinarily prevalent in this country. It is endemic. We are surrounded and immersed in crime. In a very real sense, most of our friends and neighbors are law violators. Large numbers of them are repeated offenders. A very large group have committed serious major felonies, such as theft, assault, tax evasion, and fraud. [\[108\]](#page-229-16)
+Crime is extraordinarily prevalent in this country. It is endemic. We are surrounded and immersed in crime. In a very real sense, most of our friends and neighbors are law violators. Large numbers of them are repeated offenders. A very large group have committed serious major felonies, such as theft, assault, tax evasion, and fraud. \[108\]
 
-Once we accept the idea that most "criminals" are relatively indistinguishable from the rest of the population, it becomes evident that prisons "are full of people needlessly and inappropriately detained and incarcerated." [\[109\]](#page-229-17) The additional fact that most prisoners have been convicted of property related crimes, [\[110\]](#page-229-18) not crimes of violence, further calls into question the concept that society needs protection from the vast majority of those who are currently imprisoned.
+Once we accept the idea that most "criminals" are relatively indistinguishable from the rest of the population, it becomes evident that prisons "are full of people needlessly and inappropriately detained and incarcerated." \[109\] The additional fact that most prisoners have been convicted of property related crimes, \[110\] not crimes of violence, further calls into question the concept that society needs protection from the vast majority of those who are currently imprisoned.
 
-Prisons are also viewed as a means of protecting society from that small percentage of lawbreakers who commit violent crimes. Tho we consider this problem in more depth elsewhere in this handbook, we will briefly state our analysis here. The concept of labeling persons as "dangerous" assumes an ability to predict future behavior. Which "criminals" are likely to commit future crimes of violence when released? Given a "most remarkable void of reliable analysis,"[\[111\]](#page-229-19) predictions of "dangerousness" cannot be trusted. For instance, a murderer-the typical image of a dangerous criminal-is highly unlikely to murder again.[\[112\]](#page-229-20) Most murderers "could be let out tomorrow without endangering the public safety."[\[113\]](#page-229-21)
+Prisons are also viewed as a means of protecting society from that small percentage of lawbreakers who commit violent crimes. Tho we consider this problem in more depth elsewhere in this handbook, we will briefly state our analysis here. The concept of labeling persons as "dangerous" assumes an ability to predict future behavior. Which "criminals" are likely to commit future crimes of violence when released? Given a "most remarkable void of reliable analysis,"\[111\] predictions of "dangerousness" cannot be trusted. For instance, a murderer-the typical image of a dangerous criminal-is highly unlikely to murder again.\[112\] Most murderers "could be let out tomorrow without endangering the public safety."\[113\]
 
 A dramatic illustration of the unreliability of labelling "dangerousness" is the results of the Baxstrom v. Herold ruling. This U. S. Supreme Court decision involved 967 prisoners at Dannemora and Mattewan prisons in New York in 1966. These prisoners were persons normally considered among the most dangerous of all offenders, as they were classified as criminally insane. The effect of the ruling was to compel the state to release immediately or transfer to civil mental hospitals
 
-(using established civil commitment procedures) each of these allegedly dangerous insane criminals. An intensive study of the aftermath of this mass release found that less than two percent of the released prisoners were returned to institutions for the criminally insane between 1966 and 1970. There was a remarkably low rate of violent behavior among those discharged.[\[114\]](#page-229-22)
+(using established civil commitment procedures) each of these allegedly dangerous insane criminals. An intensive study of the aftermath of this mass release found that less than two percent of the released prisoners were returned to institutions for the criminally insane between 1966 and 1970. There was a remarkably low rate of violent behavior among those discharged.\[114\]
 
-In regard to control of the dangerous there are no techniques for distinguishing which small number of a much larger class of individuals will continue to perform dangerous acts; holding the entire class in detention amounts to holding a majority of harmless people needlessly. Moreover... this highly unjust practice is of minimal benefit to society because the number of unapprehended or unidentified lawbreakers in any given crime category is always much larger than those identified or in custody. Also, society has responded almost exclusively toward certain types of offenders, such as thieves, rapists and murderers, but ignored almost completely larger numbers of persons who are much more dangerous, such as those who make and profit from war, unsafe automobiles, and contaminating pesticides. [\[115\]](#page-229-23)
+In regard to control of the dangerous there are no techniques for distinguishing which small number of a much larger class of individuals will continue to perform dangerous acts; holding the entire class in detention amounts to holding a majority of harmless people needlessly. Moreover... this highly unjust practice is of minimal benefit to society because the number of unapprehended or unidentified lawbreakers in any given crime category is always much larger than those identified or in custody. Also, society has responded almost exclusively toward certain types of offenders, such as thieves, rapists and murderers, but ignored almost completely larger numbers of persons who are much more dangerous, such as those who make and profit from war, unsafe automobiles, and contaminating pesticides. \[115\]
 
 A permanent prison banishment of the many convicted and restrained for the sake of safety from a possible few, is not only morally outrageous but economically unfeasible.
 
@@ -1406,13 +1406,13 @@ We really do not have sufficiently good crime statistics to answer correctly all
 
 —Attorney General Edward H. Levi, quoted in U. S. Department of Justice, Monday Morning Highlights, October 20, 1975
 
-Deterrence and punishment are replacing rehabilitation as the stated rationale for incarceration. Since deterrence was always an implicit goal of rehabilitation, this policy shift is a slight one. A policy of deterrence merely cloaks the continuation of punishment motivated to some degree by the desire for retribution. [\[116\]](#page-229-24)
+Deterrence and punishment are replacing rehabilitation as the stated rationale for incarceration. Since deterrence was always an implicit goal of rehabilitation, this policy shift is a slight one. A policy of deterrence merely cloaks the continuation of punishment motivated to some degree by the desire for retribution. \[116\]
 
-Despite its paramount importance in penal policy, the success of deterrence is never really examined for fear that it may prove to be a fantasy. In the same way, retribution is never really examined for fear it may be a fact. [\[117\]](#page-229-25)
+Despite its paramount importance in penal policy, the success of deterrence is never really examined for fear that it may prove to be a fantasy. In the same way, retribution is never really examined for fear it may be a fact. \[117\]
 
-Little statistical data supports the deterrent assumption and little has been sought, in spite of an expanding literature from psychologists who generally believe that rewarding desired behavior is more effective than punishing undesired behavior. Why, then, does the public maintain "a childish faith" in punishment as a crime deterrent? [\[118\]](#page-229-26) The longest prison sentences are reserved for those least likely to repeat their crimes, revealing intentions other than deterrence. That "childish faith" should be scrutinized for other motives.
+Little statistical data supports the deterrent assumption and little has been sought, in spite of an expanding literature from psychologists who generally believe that rewarding desired behavior is more effective than punishing undesired behavior. Why, then, does the public maintain "a childish faith" in punishment as a crime deterrent? \[118\] The longest prison sentences are reserved for those least likely to repeat their crimes, revealing intentions other than deterrence. That "childish faith" should be scrutinized for other motives.
 
-Those who have examined the prison/deterrence relationship seem to agree on one point: ".. certainty and swiftness, not severity of punishment, have the greatest deterrent effect."[\[119\]](#page-229-27) Not only is this thesis unproven, but it remains unworkable since both certainty and swiftness are not possible in the criminal (in)justice systems.
+Those who have examined the prison/deterrence relationship seem to agree on one point: ".. certainty and swiftness, not severity of punishment, have the greatest deterrent effect."\[119\] Not only is this thesis unproven, but it remains unworkable since both certainty and swiftness are not possible in the criminal (in)justice systems.
 
 #### **Difficulty in grading deterrence**
 
@@ -1434,7 +1434,7 @@ Punishment is not a deterrent. The system taught me to function inside of the wa
 
 There are two theories of deterrence: special and general. The theory of special (or specific) deterrence contends that some form of punishment will teach the individual a lesson. In terms of penal sanctions it holds that an individual is unable to commit crimes against the public while incapacitated in prison; and that upon release from prison, the individual is deterred from committing new crimes, because of his/her unpleasant prison experience.
 
-General deterrence theory applies to society at large: it assumes that crime is prevented by the threat of unpleasant consequences and repeatedly reinforces that threat by subjecting certain criminals to imprisonment. General deterrence is assumed to exert the stronger deterrent effect over mass behavior.[\[120\]](#page-229-28)
+General deterrence theory applies to society at large: it assumes that crime is prevented by the threat of unpleasant consequences and repeatedly reinforces that threat by subjecting certain criminals to imprisonment. General deterrence is assumed to exert the stronger deterrent effect over mass behavior.\[120\]
 
 Theoretically, the effect of a prison sentence given to one burglar, for example, could be both special (to discourage him/her from post release burglary) and general, (to discourage potential burglars from taking the risk).
 
@@ -1452,7 +1452,7 @@ No study that I have ever seen, and there are many, provides any assurance that 
 
 These statements are confirmed by many studies including a comprehensive study on probation completed in 1970, which concluded:
 
-... almost two-thirds of those offenders placed on probation had, one year later, no known subsequent arrest, while less than one-half of those sent to prison had been equally successful. These differences in "success" persisted even when one took into account the sex, age, race, offense, and prior record of the offender.[\[121\]](#page-229-29)
+... almost two-thirds of those offenders placed on probation had, one year later, no known subsequent arrest, while less than one-half of those sent to prison had been equally successful. These differences in "success" persisted even when one took into account the sex, age, race, offense, and prior record of the offender.\[121\]
 
 ### **Problems with general deterrence**
 
@@ -1460,11 +1460,11 @@ It is extremely risky to draw conclusions about general deterrence. Most people 
 
 Most decisions to commit crimes are far more complex. Among the many factors are the need or greed for money and the spontaneous or compulsive acting out of violent feelings. Murder, for example, is considered among the least deterrable of crimes, regardless of the penalty, because most murders occur without premeditation between spouses, friends and acquaintances.
 
-Most decisions to commit crimes lie between the extremes of speeding and murder. Deterrence theory "assumes a marginal class of people for whom the punishment will be a factor, consciously or unconsciously, in influencing their conduct, directing them toward or away from a crime."[\[122\]](#page-230-0)
+Most decisions to commit crimes lie between the extremes of speeding and murder. Deterrence theory "assumes a marginal class of people for whom the punishment will be a factor, consciously or unconsciously, in influencing their conduct, directing them toward or away from a crime."\[122\]
 
-Surveys of punishment in Europe concluded that "... the policy of punishment and its variations have no effective influence on the rate of crime."[\[123\]](#page-230-1) Thorsten Sellin, emeritus professor of sociology at the University of Pennsylvania, found in his study of capital punishment that crude homicide rates appear the same regardless of a statutory death penalty; that the rates did not change significantly in states which abolished or restored it; and that homicide rates remained stable in cities where "executions occurred and were presumed to have been publicized." [\[124\]](#page-230-2) One student traced a rise in the murder rate in California preceding executions, just as one political assassination attempt seems to spur others.
+Surveys of punishment in Europe concluded that "... the policy of punishment and its variations have no effective influence on the rate of crime."\[123\] Thorsten Sellin, emeritus professor of sociology at the University of Pennsylvania, found in his study of capital punishment that crude homicide rates appear the same regardless of a statutory death penalty; that the rates did not change significantly in states which abolished or restored it; and that homicide rates remained stable in cities where "executions occurred and were presumed to have been publicized." \[124\] One student traced a rise in the murder rate in California preceding executions, just as one political assassination attempt seems to spur others.
 
-In 1961, California greatly increased penalties for attacking police. Yet according to a follow-up study by the California Assembly Committee on Criminal Procedure, by 1966 police were almost twice as likely to be attacked. [\[125\]](#page-230-3) More recently, severe drug laws adopted in New York have failed to reduce drug related crime, tho they succeeded thru increased judicial burdens in undermining "the efficiency and functioning of the criminal justice system." [\[126\]](#page-230-4)
+In 1961, California greatly increased penalties for attacking police. Yet according to a follow-up study by the California Assembly Committee on Criminal Procedure, by 1966 police were almost twice as likely to be attacked. \[125\] More recently, severe drug laws adopted in New York have failed to reduce drug related crime, tho they succeeded thru increased judicial burdens in undermining "the efficiency and functioning of the criminal justice system." \[126\]
 
 In addition to strong doubts about the practical efficiency of general deterrence, there is a serious moral question involved. Does society have the right to punish one person in order to deter another? We believe that the answer is no.
 
@@ -1478,15 +1478,15 @@ As long as prison punishment and control are equated with crime deterrence, it w
 
 **Reality:** The primary functions of prisons are control and punishment.
 
-Robert Martinson, a sociologist at the City College of New York, asserts from his exhaustive study [\[127\]](#page-230-5) that "rehabilitative" efforts have no appreciable effect on recidivism rates. Norman Carlson, director of the Federal Bureau of Prisons, admits that "We actually don't know ... if anything works." [\[128\]](#page-230-6) From every corner, rehabilitation is under attack.
+Robert Martinson, a sociologist at the City College of New York, asserts from his exhaustive study \[127\] that "rehabilitative" efforts have no appreciable effect on recidivism rates. Norman Carlson, director of the Federal Bureau of Prisons, admits that "We actually don't know ... if anything works." \[128\] From every corner, rehabilitation is under attack.
 
 But the message of abolitionists is more than a declaration that "rehabilitation" has failed. Our task is to dissect the underlying myth, but more importantly, to describe how rehabilitation succeeds, not in correcting, but in controlling. For the "rehabilitation" model effectively reinforces the primary purposes of prisons: to control and to punish certain segments of society.
 
 ### **A lesson for abolitionists**
 
-Reformers may not have intended rehabilitation as a process of selective control by the wealthy, property-holding, ruling class; nor did they necessarily seek to create a deceitful mechanism for punishment and conformity. Indeed, rehabilitative theory may have evolved from reformist attempts to improve the lot of the criminal. Many reformers have been, and continue to be, co-opted. [\[129\]](#page-230-7)
+Reformers may not have intended rehabilitation as a process of selective control by the wealthy, property-holding, ruling class; nor did they necessarily seek to create a deceitful mechanism for punishment and conformity. Indeed, rehabilitative theory may have evolved from reformist attempts to improve the lot of the criminal. Many reformers have been, and continue to be, co-opted. \[129\]
 
-Prison, after all, was originally suggested "as a kinder substitute for the whip, the stocks, and the branding iron."[\[130\]](#page-230-8) The hope was that once a deviant was secluded from society, and confronted with stark solitude, introspection would produce repentance. As such, penitentiaries were considered moral and humane settings in which punishment would permit "salvation."
+Prison, after all, was originally suggested "as a kinder substitute for the whip, the stocks, and the branding iron."\[130\] The hope was that once a deviant was secluded from society, and confronted with stark solitude, introspection would produce repentance. As such, penitentiaries were considered moral and humane settings in which punishment would permit "salvation."
 
 This history provided the groundwork for individualized treatment. Briefly stated, the individualized treatment model advocates that since the cause of crime resides in the individual, the punishment must fit the criminal not the crime. Once extracted and isolated from society, the prisoner is kept locked up until "reformation" is achieved. Within this context, the criminal is viewed as someone with a "disease," who may be curable, given the "proper treatment." Criminals are classified in arbitrary categories and labeled as particular types, on the basis of this medical model. The time of rehabilitation is a time of redemption; now the criminal can be "saved" through "treatment." And the "repentence" philosophy continues in its various disguises from generation to generation until the total process of control is legitimized by a treatment framework.
 
@@ -1494,7 +1494,7 @@ This history provided the groundwork for individualized treatment. Briefly state
 
 The equation of rehabilitation and punishment is not mere rhetoric. The humane connotation in the word "rehabilitation" masks a wide range of severe control mechanisms:
 
-In truth, rehabilitation in prison has the same function and effect as it does in other totalitarian societies: tho it may have some benevolent or paternalistic features, it is primarily a control system .... Prison is punishment, almost exclusively if not entirely, and we have no right to pretend otherwise. [\[131\]](#page-230-9)
+In truth, rehabilitation in prison has the same function and effect as it does in other totalitarian societies: tho it may have some benevolent or paternalistic features, it is primarily a control system .... Prison is punishment, almost exclusively if not entirely, and we have no right to pretend otherwise. \[131\]
 
 The crime of punishment lies in this hypocrisy. But the outrage is deeper. Control is institutionally administered. Conformity is demanded. "Correction" is enforced.
 
@@ -1504,15 +1504,15 @@ The prison is built on coercive control. A vocabulary (strangely similar to ones
 
 There is an inherent contradiction in treatment! custody. The devastating result of this combination is all-embracing control. Rehabilitation is cleverly used to extend that control. The control is daily and trivial, daily and all-pervasive.
 
-For the prison administrator, whether s/he be warden, sociologist, or psychiatrist, "individualized treatment" is primarily a device for breaking the convict's will to resist and hounding him into compliance with institution demands, and is thus a means of exerting maximum control over the convict population. The cure will be deemed effective to the degree that the poor/young/brown/ black captive appears to have capitulated to his middle class/white/middle-aged captor, and to have adopted the virtues of subservience to authority, industry, cleanliness, docility. [\[132\]](#page-230-10)
+For the prison administrator, whether s/he be warden, sociologist, or psychiatrist, "individualized treatment" is primarily a device for breaking the convict's will to resist and hounding him into compliance with institution demands, and is thus a means of exerting maximum control over the convict population. The cure will be deemed effective to the degree that the poor/young/brown/ black captive appears to have capitulated to his middle class/white/middle-aged captor, and to have adopted the virtues of subservience to authority, industry, cleanliness, docility. \[132\]
 
 ### **The cage**
 
 Some "rehabilitation" programs may effectively encourage growth in some individuals and they may even be conscientiously administered by well-meaning people. But they are exceptions to the rule.
 
-Can a person be "corrected" in a cage? Can humanization occur in a dehumanizing atmosphere? Can a patient be involuntarily "cured?" Prison is a totalitarian institution; it controls every aspect of daily life, and thus it creates either utter dependency or radical revolt. [\[133\]](#page-230-11)
+Can a person be "corrected" in a cage? Can humanization occur in a dehumanizing atmosphere? Can a patient be involuntarily "cured?" Prison is a totalitarian institution; it controls every aspect of daily life, and thus it creates either utter dependency or radical revolt. \[133\]
 
-Many prisoners become institutionalized. They look to the prison for permanent security. [\[134\]](#page-230-12) Efforts at re-integration appear counter-productive; instead, prisoners learn to depend on the abnormal, violent prison society, based on authoritarian values.
+Many prisoners become institutionalized. They look to the prison for permanent security. \[134\] Efforts at re-integration appear counter-productive; instead, prisoners learn to depend on the abnormal, violent prison society, based on authoritarian values.
 
 ### **Indeterminacy & the treatment model**
 
@@ -1522,7 +1522,7 @@ One to ten years is a typical indeterminate sentence. Some run five years to lif
 
 #### **Behavior modification**
 
-Behavior modification techniques indicate the extremes to which the state will go to extract conformity in the name of "rehabilitation." The growing use of behavior modification in prison [\[135\]](#page-230-13) illustrates the potential for escalation inherent in any punitive approach. Under the guise of treatment, procedures involving long term isolation, negative reinforcement and heavy doses of incapacitating drugs are used to "correct" the "violent "uncooperative" and "aggressive," so labeled because they do not conform to prison rules and regulations. Behavior modification becomes a convenient way of making the prison population "better and more manageable." [\[136\]](#page-230-14) Rehabilitation in the form of behavior modification, then, is most likely to be an "experiment in control." [\[137\]](#page-230-15)
+Behavior modification techniques indicate the extremes to which the state will go to extract conformity in the name of "rehabilitation." The growing use of behavior modification in prison \[135\] illustrates the potential for escalation inherent in any punitive approach. Under the guise of treatment, procedures involving long term isolation, negative reinforcement and heavy doses of incapacitating drugs are used to "correct" the "violent "uncooperative" and "aggressive," so labeled because they do not conform to prison rules and regulations. Behavior modification becomes a convenient way of making the prison population "better and more manageable." \[136\] Rehabilitation in the form of behavior modification, then, is most likely to be an "experiment in control." \[137\]
 
 ### **The "game"**
 
@@ -1550,13 +1550,13 @@ Presently there are approximately 50 men in the Control Unit Treatment Program. 
 
 In recent years, prisoner revolts have triggered an onslaught of criticism of prisons. Outspoken criticisms of prisons have appeared, including Struggle for Justice and even the reports of the National Advisory Commission on Criminal Justice Standards and Goals, which not only declare incarceration a miserable failure but further state an intrinsic incompatibility between incarceration and rehabilitative objectives. Even leading spokespersons for the "correctional" system have begun to admit the failure of rehabilitation.
 
-Social scientists have been in the forefront of those questioning the efficacy of rehabilitation. Robert Martinson's work concludes: "With few and isolated exceptions, the rehabilitative efforts that have been reported so far have had no appreciable effect on recidivism." [\[138\]](#page-230-16) It also indicts incarceration itself as actually damaging to the prisoner.
+Social scientists have been in the forefront of those questioning the efficacy of rehabilitation. Robert Martinson's work concludes: "With few and isolated exceptions, the rehabilitative efforts that have been reported so far have had no appreciable effect on recidivism." \[138\] It also indicts incarceration itself as actually damaging to the prisoner.
 
-Norval Morris, in his work The Future of Imprisonment, rejects neither "rehabilitation" nor the future existence of prisons, but asks for honesty about the "real" purposes of prison: punishment and deterrence. [\[139\]](#page-230-17)
+Norval Morris, in his work The Future of Imprisonment, rejects neither "rehabilitation" nor the future existence of prisons, but asks for honesty about the "real" purposes of prison: punishment and deterrence. \[139\]
 
-Former Attorney General William Saxbe publicly refers to rehabilitation as a myth. [\[140\]](#page-230-18) Norman Carlson announces a shift in the Federal Bureau of Prisons'
+Former Attorney General William Saxbe publicly refers to rehabilitation as a myth. \[140\] Norman Carlson announces a shift in the Federal Bureau of Prisons'
 
-correctional emphases-away from rehabilitation to deterrence and punishment. [\[141\]](#page-230-19) This "conversion" of prison personnel smacks loudly of the kind of co-option so prevalent in reformist history. If rehabilitation is so easily discarded and proclaimed a failure by those who designed the system, isn't it likely that they envision alternative ways to maintain control?
+correctional emphases-away from rehabilitation to deterrence and punishment. \[141\] This "conversion" of prison personnel smacks loudly of the kind of co-option so prevalent in reformist history. If rehabilitation is so easily discarded and proclaimed a failure by those who designed the system, isn't it likely that they envision alternative ways to maintain control?
 
 ### **Three directions & our response**
 
@@ -1586,15 +1586,15 @@ We need to separate rehabilitation from the need for services. As long as prison
 
 Crime exists in all segments of society, but prison has been used to punish society's bottom layer. From the beginning, the poor, the immigrant, the Black and other disadvantaged persons have populated the prisons.
 
-Crimes committed by the relatively affluent, such as embezzlement or consumer fraud, are seldom punished by imprisonment. The white collar criminal rarely ends up behind bars. Prisons are used primarily to punish crimes associated with poor people—burglary, robbery and assault. Consequently, this country's prisons are disproportionately filled with the poor and uneducated, even tho in terms of economic loss, more crime by far is committed by the affluent. [\[142\]](#page-230-20)
+Crimes committed by the relatively affluent, such as embezzlement or consumer fraud, are seldom punished by imprisonment. The white collar criminal rarely ends up behind bars. Prisons are used primarily to punish crimes associated with poor people—burglary, robbery and assault. Consequently, this country's prisons are disproportionately filled with the poor and uneducated, even tho in terms of economic loss, more crime by far is committed by the affluent. \[142\]
 
 The discriminatory use of prison punishment, reflecting the socioeconomic interests of the more powerful forces in the society, then, can be viewed as one of a series of highly political acts. The selection process, beginning with the police, involves the use of discretionary power which exists at every level of the criminal (in)justice systems. It represents the use of physical force by the state to control people the state has defined as criminal. While all prisoners may not be considered "political prisoners," the criminal (in)justice systems' selection process is a significant political act.
 
-In addition, political policy helps to determine the severity and form of punishments for certain offenses. "The fact that one kind of crime is dealt with so much more severely than another, reflects a political choice which is bound up with the underlying social and economic structures of society." [\[143\]](#page-230-21)
+In addition, political policy helps to determine the severity and form of punishments for certain offenses. "The fact that one kind of crime is dealt with so much more severely than another, reflects a political choice which is bound up with the underlying social and economic structures of society." \[143\]
 
 Prisons and many other forms of criminal punishment, then, are a repressive means of protecting a particular arrangement of social and economic patterns. Those patterns are sustained as much by what is not punished as by what is. The availability of coercive controls effectively maintain the values and ideologies of the dominant group in society. As with nuclear weapons in the international arena, prisons and capital punishment are utilized as "the teeth," in the hierarchy of escalating domestic punishments available to the state, thus hacking up milder forms of punishment.
 
-Because of the importance of prisons in protecting the dominant social order, the social ends of imprisonment cannot be eliminated without transforming society at large. [\[144\]](#page-230-22) Therefore, if long range strategies and goals of a prison abolition program are to succeed, new economic and social arrangements are required.
+Because of the importance of prisons in protecting the dominant social order, the social ends of imprisonment cannot be eliminated without transforming society at large. \[144\] Therefore, if long range strategies and goals of a prison abolition program are to succeed, new economic and social arrangements are required.
 
 ### **Prison punishment: Cruel & illegal**
 
@@ -1616,7 +1616,7 @@ Prisons provide an ideal environment for punishment. Their potential for force, 
 - Deprivation of necessities for good physical health, such as medical care, exercise, an adequate diet.
 - • Excruciating idleness, loneliness, boredom.
 
-In addition to general confinement, a second range of punishment awaits the prisoner: physical beatings, solitary confinement and coerced participation in medical experiments and "rehabilitation programs." The effects of such punishment are reflected in the large number of suicides [\[145\]](#page-230-23) in prison and in the rage and hostility of those who survive the prison experience.
+In addition to general confinement, a second range of punishment awaits the prisoner: physical beatings, solitary confinement and coerced participation in medical experiments and "rehabilitation programs." The effects of such punishment are reflected in the large number of suicides \[145\] in prison and in the rage and hostility of those who survive the prison experience.
 
 ## **Escalatory nature of punishment**
 
@@ -1635,9 +1635,9 @@ For example, in the sanctity of the home, a parent may give a "reminder pat" on 
 
 Justifications for punishment are attributed to theories of reform, deterrence, retribution and just deserts. Even if punishment "worked" as proposed in any of these theories, its social cost would he very heavy. Moral and constitutional problems are raised by the "curative processes" of punishment in the name of "treatment." The lesson most often learned by the punished is that brutal, vindictive, violent behavior is a legitimate way to respond to conflict situations.
 
-Retributive punishment temporarily relieves the hostile feelings of the punisher, satisfying social pressures from the community and psychological needs of the individual. [\[146\]](#page-231-0) But vindictive punishment elicits a like response from the punished, setting off a vicious cycle of punishment which sucks in all the actors: prisoners and nonprisoners, children and adults, the state and the criminal, begetting more violence and more criminal behavior.
+Retributive punishment temporarily relieves the hostile feelings of the punisher, satisfying social pressures from the community and psychological needs of the individual. \[146\] But vindictive punishment elicits a like response from the punished, setting off a vicious cycle of punishment which sucks in all the actors: prisoners and nonprisoners, children and adults, the state and the criminal, begetting more violence and more criminal behavior.
 
-"Just deserts" argues that lawbreakers should he punished because they deserve it. Abolitionists reject this "eye for an eye" philosophy in both principal and practice for at least two reasons: (1) In order to remain effective, punishment must continually become more severe. [\[147\]](#page-231-1) (2) In view of the criminal (in)justice systems' focus on the poor and deprived, those who are selected to be legally punished most likely have received their "just deserts" thru punishment by poverty and oppression. The possibility of equating punishment in the "correct " amount to the wrongdoing would necessitate a social order that had removed glaring social and economic inequities.
+"Just deserts" argues that lawbreakers should he punished because they deserve it. Abolitionists reject this "eye for an eye" philosophy in both principal and practice for at least two reasons: (1) In order to remain effective, punishment must continually become more severe. \[147\] (2) In view of the criminal (in)justice systems' focus on the poor and deprived, those who are selected to be legally punished most likely have received their "just deserts" thru punishment by poverty and oppression. The possibility of equating punishment in the "correct " amount to the wrongdoing would necessitate a social order that had removed glaring social and economic inequities.
 
 No matter how punishment is justified, defined or rationalized, its brutal effects are the same-pain and violence are inflicted and the opportunity for more reconciliatory practice is lost.
 
@@ -1645,33 +1645,33 @@ No matter how punishment is justified, defined or rationalized, its brutal effec
 
 Ironically, the most cherished of our institutions-the family-emerges as a primary laboratory where punishment is learned, practiced and legitimized.
 
-The cultural pattern of child abuse, often beginning as "discipline" or "teaching the child who's boss," is epidemic in our society. Studies suggest that the battered child syndrome is only an extreme of a violent child rearing pattern firmly established in Western culture. [\[148\]](#page-231-2)
+The cultural pattern of child abuse, often beginning as "discipline" or "teaching the child who's boss," is epidemic in our society. Studies suggest that the battered child syndrome is only an extreme of a violent child rearing pattern firmly established in Western culture. \[148\]
 
-To be aware of this [violent parental action toward children] one has only to look at the families of one's friends and neighbors, to look and listen to the parent/child interactions at the playground and the supermarket, or even to recall how one raised one's own children or how one was raised oneself. The amount of yelling, scolding, slapping, punching, hitting and yanking acted out by parents on very small children is almost shocking. Hence we have felt that in dealing with the abused child, we are not observing an isolated, unique phenomenon, but only the extreme form of what we could call a pattern or style of child rearing quite prevalent in our culture. [\[149\]](#page-231-3)
+To be aware of this violent parental action toward children] one has only to look at the families of one's friends and neighbors, to look and listen to the parent/child interactions at the playground and the supermarket, or even to recall how one raised one's own children or how one was raised oneself. The amount of yelling, scolding, slapping, punching, hitting and yanking acted out by parents on very small children is almost shocking. Hence we have felt that in dealing with the abused child, we are not observing an isolated, unique phenomenon, but only the extreme form of what we could call a pattern or style of child rearing quite prevalent in our culture. [\[149\]
 
-Such abuses transcend all socioeconomic, ethnic and racial lines. [\[150\]](#page-231-4) The traumas range from physical cruelty to the stunning realization that one can never recall being hugged as a child. The result is usually the child's feeling of rage and hostility that may take expression temporarily in withdrawal or flight. These feelings surface later in life, given the continual reinforcement of such patterns by society's institutions. Brutal behavior begets brutal behavior.
+Such abuses transcend all socioeconomic, ethnic and racial lines. \[150\] The traumas range from physical cruelty to the stunning realization that one can never recall being hugged as a child. The result is usually the child's feeling of rage and hostility that may take expression temporarily in withdrawal or flight. These feelings surface later in life, given the continual reinforcement of such patterns by society's institutions. Brutal behavior begets brutal behavior.
 
-Parenting and child rearing are learned. Psychiatrists have noted that the pattern of severe discipline and abuse of children relates directly to the abusive parent's own very early childhood experience. [\[151\]](#page-231-5)
+Parenting and child rearing are learned. Psychiatrists have noted that the pattern of severe discipline and abuse of children relates directly to the abusive parent's own very early childhood experience. \[151\]
 
 Training schools, child shelters, reformatories and prisons perpetuate and reinforce the child's training in violence. Child abuse is a significant experience in many prisoners' lives and they remind us that it must be seriously considered in any discussion of prison punishment.
 
 #### **Prisoners & childhood abuse**
 
-Many battered children have become adult felons. The institutions to which they are sent are exaggerated extensions of such abuse and indifference. "Paradoxically, the punishment concept which dictates prison policy stimulates and perpetuates the antisocial attitudes and low self-esteem of many convicted felons."[\[152\]](#page-231-6)
+Many battered children have become adult felons. The institutions to which they are sent are exaggerated extensions of such abuse and indifference. "Paradoxically, the punishment concept which dictates prison policy stimulates and perpetuates the antisocial attitudes and low self-esteem of many convicted felons."\[152\]
 
 The hurt of childhood abuse intensifies in a violent and oppressive setting, necessitating expression, often in violent form. Many prisoners speak of that moment of strength and relief when some kind of retaliation is vented.
 
-Many prisoners who have committed violent acts and have "searing memories of violence inflicted by parents or other adults in the home" [\[153\]](#page-231-7) identify their histories as a major impetus to their own violence.
+Many prisoners who have committed violent acts and have "searing memories of violence inflicted by parents or other adults in the home" \[153\] identify their histories as a major impetus to their own violence.
 
-Robert Brown of the Fortune Society, an exprisoner, maintains that 40 to 50 percent of all in the United States who go to prison have been "either battered or abused or neglected emotionally as to have experienced trauma." [\[154\]](#page-231-8)
+Robert Brown of the Fortune Society, an exprisoner, maintains that 40 to 50 percent of all in the United States who go to prison have been "either battered or abused or neglected emotionally as to have experienced trauma." \[154\]
 
 This opinion is supported by a variety of sources. As examples:
 
-- • "A New York study of nine juvenile murderers ... showed that all nine had been routinely beaten by their parents." [\[155\]](#page-231-9) ]
-- • Of 44 prisoners in Texas with a history of multiple violent acts, 37 were physically battered children. [\[156\]](#page-231-10)
-- • In research of juveniles in five counties in New York, 38 percent of all children who were identified as battered or abused went on to juvenile institutions. [\[157\]](#page-231-11) ]
-- • Of six convicted first-degree murderers in Minnesota, four had been seriously abused and beaten by their parents in very early infancy and childhood. [\[158\]](#page-231-12) ]
-- • Four men who had murdered without apparent motive were examined by doctors at the Menninger Clinic; all four had experienced extreme parental violence during childhood. [\[159\]](#page-231-13)
+- • "A New York study of nine juvenile murderers ... showed that all nine had been routinely beaten by their parents." \[155\] ]
+- • Of 44 prisoners in Texas with a history of multiple violent acts, 37 were physically battered children. \[156\]
+- • In research of juveniles in five counties in New York, 38 percent of all children who were identified as battered or abused went on to juvenile institutions. \[157\] ]
+- • Of six convicted first-degree murderers in Minnesota, four had been seriously abused and beaten by their parents in very early infancy and childhood. \[158\] ]
+- • Four men who had murdered without apparent motive were examined by doctors at the Menninger Clinic; all four had experienced extreme parental violence during childhood. \[159\]
 
 There is a lack of reliable data indicating how rage is expressed and to what extent violence is committed by child abused adults not as likely to be labeled
 
@@ -1681,23 +1681,23 @@ This mounting evidence puts to rest the popular theory that liberal parental att
 
 ### **New directions**
 
-As with other criminal acts, once responsibility has been established, the tendency of society is to legally punish parents who batter their children. However, child advocates who deal with battering parents prefer alternative responses. Legal punishment, says a lawyer who is director of the Children's Division of the American Humane Association, doesn't achieve anything except surface compliance with criminal statutes. Prosecution frequently places the child in even greater danger when the battering parent comes home-"a parent whose motivational forces have remained untreated and whose emotional damage has become greater due to the punitive experience." [\[160\]](#page-231-14)
+As with other criminal acts, once responsibility has been established, the tendency of society is to legally punish parents who batter their children. However, child advocates who deal with battering parents prefer alternative responses. Legal punishment, says a lawyer who is director of the Children's Division of the American Humane Association, doesn't achieve anything except surface compliance with criminal statutes. Prosecution frequently places the child in even greater danger when the battering parent comes home-"a parent whose motivational forces have remained untreated and whose emotional damage has become greater due to the punitive experience." \[160\]
 
-How then, should society respond to abusive parents and other violent criminals? Most researchers and professionals in the field point to studies showing that battering parents suffer from deprivation of basic parenting—"a lack of the deep sense of being cared for and cared about from the beginning of one's life." [\[161\]](#page-231-15) Simply stated: a person must feel loved, wanted, accepted before s/he can give love. "Feeling loved, wanted and accepted" translated into concrete social terms means a caring, nonviolent community which can provide resources, services, one-to-one relationships, peer group counseling opportunities and other restorative practices rather than penal punishment. [\[162\]](#page-231-16)
+How then, should society respond to abusive parents and other violent criminals? Most researchers and professionals in the field point to studies showing that battering parents suffer from deprivation of basic parenting—"a lack of the deep sense of being cared for and cared about from the beginning of one's life." \[161\] Simply stated: a person must feel loved, wanted, accepted before s/he can give love. "Feeling loved, wanted and accepted" translated into concrete social terms means a caring, nonviolent community which can provide resources, services, one-to-one relationships, peer group counseling opportunities and other restorative practices rather than penal punishment. \[162\]
 
-Dr. Henry C. Kempe, of Parents Anonymous, thinks if nonpunitive and restorative innovations are used in communities, in ten years the battered child syndrome will begin to disappear, with about 90 percent of the parents helped into becoming adequate mothers and fathers. Successful parental re-education uses a "nonjudgmental, noncritical and considerate" approach to parents. This is a marked contrast to guilty parents' expectation of punishment. "We have had very good results ... by protecting them from this old system of 'crime and punishment'.... " [\[163\]](#page-231-17)
+Dr. Henry C. Kempe, of Parents Anonymous, thinks if nonpunitive and restorative innovations are used in communities, in ten years the battered child syndrome will begin to disappear, with about 90 percent of the parents helped into becoming adequate mothers and fathers. Successful parental re-education uses a "nonjudgmental, noncritical and considerate" approach to parents. This is a marked contrast to guilty parents' expectation of punishment. "We have had very good results ... by protecting them from this old system of 'crime and punishment'.... " \[163\]
 
-If the essence of legal punishment is "the state's use of compulsion against the offender for the purported benefit of society in general," [\[164\]](#page-231-18) it becomes clear that legally punishing battering parents and, in our opinion, other lawbreakers, cannot benefit society. On the contrary, it further harms society by contributing to the violent cycle already fueled by cultural, familial and societal patterns. Unfortunately, the availability and wide acceptance of legal punishments reduces the immediate possibility of developing systematic alternative responses, particularly since there is no burden of proof on the punisher that punishment "works."
+If the essence of legal punishment is "the state's use of compulsion against the offender for the purported benefit of society in general," \[164\] it becomes clear that legally punishing battering parents and, in our opinion, other lawbreakers, cannot benefit society. On the contrary, it further harms society by contributing to the violent cycle already fueled by cultural, familial and societal patterns. Unfortunately, the availability and wide acceptance of legal punishments reduces the immediate possibility of developing systematic alternative responses, particularly since there is no burden of proof on the punisher that punishment "works."
 
 It is increasingly apparent that prison punishment does not "work." It cannot correct the original act of the wrongdoer or restore him/her to a functional role in the community. Except in those rare cases where the lawbreaker needs to be bodily restrained for a period of time, most legal punishments as presently determined by the sentencing process, inhibit the opportunities to address the human needs of both the victimizers and the victims in the community. The recognition by child advocates that human needs must be met outside the criminal justice systems in the community, presents an important and accepted nonpunitive model for new responses to violent actions. There are many more.
 
-It is not sentimental, according to Dr. Karl Menninger, to be against punishment. "It is a logical conclusion drawn from scientific experience. It is also a professional principle: we doctors try to relieve pain, not cause it." [\[165\]](#page-231-19)
+It is not sentimental, according to Dr. Karl Menninger, to be against punishment. "It is a logical conclusion drawn from scientific experience. It is also a professional principle: we doctors try to relieve pain, not cause it." \[165\]
 
 #### **Nonpunitive alternatives: Reconciliation**
 
 There is appallingly little research to justify the scope and severity of punishment as it is automatically utilized and even less scientific evidence to justify not using punishment in our society. The fact that no coherent body of literature or system of thought advocating more reconciliatory social practices has been developed, attests to society's ready acceptance of violent, punitive methods to alter behavior.
 
-Undergirding for a new reconciliatory system of behavior is scattered thru a range of philosophies, disciplines and experiential writings. By far the most comprehensive and developed body of literature useful to abolitionists relates to the theory and practice of nonviolent action. [\[166\]](#page-231-20) Here we discover a philosophy of reconciliatory behavior plus concrete, tested nonpunitive methods for actively overcoming injustice, powerlessness and violent behavior. Abolitionist strategies are rooted in nonviolent principles and practices and harmonize with concern for reconciliation.
+Undergirding for a new reconciliatory system of behavior is scattered thru a range of philosophies, disciplines and experiential writings. By far the most comprehensive and developed body of literature useful to abolitionists relates to the theory and practice of nonviolent action. \[166\] Here we discover a philosophy of reconciliatory behavior plus concrete, tested nonpunitive methods for actively overcoming injustice, powerlessness and violent behavior. Abolitionist strategies are rooted in nonviolent principles and practices and harmonize with concern for reconciliation.
 
 This handbook's cursory critique of punishment cannot begin to conceptualize a total system of reconciliatory practice, nor can we blueprint its implementation. It is crucial, however, that we who advocate the abolition of prison punishment as a long range goal, understand the parallel need to abolish the legal and social practice of punishment. Both goals require a society whose value systems and economic and social relationships produce an environment where cooperative, voluntary and reconciliatory procedures are available to all.
 
@@ -1707,9 +1707,9 @@ Frank Tannenbaum, former prisoner and an expert on the American prison system, s
 
 Punishment is immoral. It is weak. It is useless. It is productive of evil. It engenders bitterness in those punished, hardness and self-complacency in those who impose it. To justify punishment, we develop false standards of good and bad. We caricature and distort both our victims and ourselves ....
 
-The penal department—the department set aside for punishment—must be eliminated from our state organization. [\[167\]](#page-231-21)
+The penal department—the department set aside for punishment—must be eliminated from our state organization. \[167\]
 
-Some individual modes of punishment have successfully been abandoned and abolished. Previous victories by abolitionists resulted in an end to the use of the rack, the wheel, the chopping block, branding, whipping and other torturous sanctions. [\[168\]](#page-231-22)
+Some individual modes of punishment have successfully been abandoned and abolished. Previous victories by abolitionists resulted in an end to the use of the rack, the wheel, the chopping block, branding, whipping and other torturous sanctions. \[168\]
 
 As we develop new social, economic and power arrangements that facilitate reconciliatory practices, it is up to those of us who oppose prison and other punishments to integrate nonpunitive alternatives into our own lives. In many cases, the abolition of prison begins at home.
 
@@ -1723,9 +1723,9 @@ We have had prisons around for many generations. We have given the advocates and
 
 —Richard F. Sullivan, Depopulating the Prison, June 12, 1972
 
-Imprisonment in the United States is a billon dollar industry, employing thousands of people. In 1972 state governments alone spent \$1.3 billion on "corrections," [\[169\]](#page-231-23) and 150,000 Americans worked full-time for state or local "correction" systems. [\[170\]](#page-231-24) There are 3,000 penal institutions-federal, state, local, [\[171\]](#page-231-25) making the prison industry larger than many of the nation's giant corporations. [\[172\]](#page-231-26)
+Imprisonment in the United States is a billon dollar industry, employing thousands of people. In 1972 state governments alone spent \$1.3 billion on "corrections," \[169\] and 150,000 Americans worked full-time for state or local "correction" systems. \[170\] There are 3,000 penal institutions-federal, state, local, \[171\] making the prison industry larger than many of the nation's giant corporations. \[172\]
 
-Like the big corporations, the prison industry frantically promotes its own growth. Its executives constantly seek more money, larger staffs, increased power. Anything that impedes the prison's continued expansion, or threatens its well-being, is treated as a serious threat. Meanwhile, as imprisonment has come under increasing attack, more and more public funds have been funneled into the prisons' public relations and lobbying efforts. [\[173\]](#page-231-27)
+Like the big corporations, the prison industry frantically promotes its own growth. Its executives constantly seek more money, larger staffs, increased power. Anything that impedes the prison's continued expansion, or threatens its well-being, is treated as a serious threat. Meanwhile, as imprisonment has come under increasing attack, more and more public funds have been funneled into the prisons' public relations and lobbying efforts. \[173\]
 
 These activities are also conducted by vocal professional associations and employee unions.
 
@@ -1737,19 +1737,19 @@ War, slavery and imprisonment are blood brothers in the same sinister family. Sl
 
 The first prisons in the United States were called "penitentiaries," built by reformers as places where repentence would be accomplished primarily thru solitary confinement. They were a disastrous failure, producing more insanity than reformation. With the dawn of the Industrial Revolution in the early 19th century, these small penitentiaries were transformed into larger penal factories, modeled on the so-called Auburn plan.
 
-Heralded as a humane and rational alternative to capital punishment and other barbaric methods, prisons possessed several distinct advantages over former legal sanctions. They provided a source of cheap labor, at a time when workers were highly prized and when immigration had not yet flooded the market. The new institutions also offered the banks an excellent means of acquiring large amounts of capital from the state, which could be used for investment purposes. [\[174\]](#page-232-0) Auburn prison, for example, was one of the largest construction projects New York State had authorized up to that time. For many years, some states spent more for prisons than they did for public education or transportation.
+Heralded as a humane and rational alternative to capital punishment and other barbaric methods, prisons possessed several distinct advantages over former legal sanctions. They provided a source of cheap labor, at a time when workers were highly prized and when immigration had not yet flooded the market. The new institutions also offered the banks an excellent means of acquiring large amounts of capital from the state, which could be used for investment purposes. \[174\] Auburn prison, for example, was one of the largest construction projects New York State had authorized up to that time. For many years, some states spent more for prisons than they did for public education or transportation.
 
 Prisons also protected vested interests by furnishing a mechanism to regulate relationships between social classes. They isolated persons who were labelled as threats to the status quo. They stood as a strong coercive symbol to reinforce the authority of the state.
 
 Over the years, the economics of prison have changed in concert with the larger economic system. Different costs and benefits have appeared, only to be replaced by others. With the exception of the federal prison system, convict labor today is no longer as profitable as it was in the 1820's and 1830's. In some states, prison industry actually loses money. But still, the institutions serve some important functions for those in power. They incapacitate the "criminal" unemployed and unemployable, the militants, and other threats and embarrassments to the prevailing system. They furnish a substantial number of jobs to middle class whites, especially in rural areas which ordinarily might be economically depressed. They "protect" the middle class and the ruling class from the lower class. They represent, in stark and impregnable form, the legitimacy of the dominant order.
 
-Abolitionists recognize that the economies of some localities are totally dependent on prisons and jails [\[175\]](#page-232-1) in much the same way that certain districts rely upon defense contracts. Breaking this cycle of dependence is not an easy task, but we are convinced that the fantastic economic and social costs of prisons-when fully conveyed to the people-can act as a tool for change. We seek to educate ourselves and our neighbors about our neighborhood prison industry. As a beginning we must publicize the massive waste of financial and human resources that prisons represent. [\[176\]](#page-232-2)
+Abolitionists recognize that the economies of some localities are totally dependent on prisons and jails \[175\] in much the same way that certain districts rely upon defense contracts. Breaking this cycle of dependence is not an easy task, but we are convinced that the fantastic economic and social costs of prisons-when fully conveyed to the people-can act as a tool for change. We seek to educate ourselves and our neighbors about our neighborhood prison industry. As a beginning we must publicize the massive waste of financial and human resources that prisons represent. \[176\]
 
 ### **Tracking the dollar**
 
 Imprisonment is the most expensive punishment ever devised. In addition to what it costs to cage prisoners in a cell, the society pays other hidden costs. Prisoners' families often are forced to rely on public welfare assistance to survive. Prisoners are kept from consuming goods and services in the community; denied an opportunity to earn a decent living, they pay little if any taxes. Ex-prisoners confront dismal employment opportunities and reduced earnings. Large numbers of prisoners' children are placed in foster homes causing family disruption and costing the state much money.
 
-The greatest harm is done to the prisoner and his or her family. For instance, over 80 percent of imprisoned women are mothers. Worrying about their sons and daughters is a constant ordeal. Behind the pain of separation lies the ominous prospect that it may be permanent, since according to one recent estimate, 38 percent of prison mothers permanently lose custody of their children. [\[177\]](#page-232-3)
+The greatest harm is done to the prisoner and his or her family. For instance, over 80 percent of imprisoned women are mothers. Worrying about their sons and daughters is a constant ordeal. Behind the pain of separation lies the ominous prospect that it may be permanent, since according to one recent estimate, 38 percent of prison mothers permanently lose custody of their children. \[177\]
 
 In a society which professes to champion the family, it is sad that a form of punishment is used which severs family ties and crushes family life.
 
@@ -1780,7 +1780,7 @@ EXPENDITURES FOR COUNTY JAILS & PENITENTIARIES IN NEW YORK STATE, 1965, 1973
 
 #### SOURCE: New York State Commission of Correction
 
-"Any harm done to the [prisoner] is a net social loss just as any harm done to any other citizen is a net social loss," according to a former senior probation officer. [\[178\]](#page-232-4) Over the course of a year, prisons and jails in the United States are responsible for removing hundreds of thousands of fathers and mothers from their households. Only wars and slavery have had such a devastating impact on American family structure.
+"Any harm done to the prisoner] is a net social loss just as any harm done to any other citizen is a net social loss," according to a former senior probation officer. [\[178\] Over the course of a year, prisons and jails in the United States are responsible for removing hundreds of thousands of fathers and mothers from their households. Only wars and slavery have had such a devastating impact on American family structure.
 
 The cost of merely confining a prisoner now exceeds \$10,000 a year in many states. This cost has always gone up, but in recent years it has risen at a phenomenal rate. New York provides a graphic, but by no means exceptional, illustration. From 1962 to 1972 the state "correctional" budget increased by almost 150 percent, and the average per capita cost of incarceration rose by nearly \$9,000. This trend is astounding when one considers that the number of prisoners actually declined by almost 40 percent during those years. The average per capita cost in New York, meanwhile, exceeded the average annual income of state residents. By 1976, New York's "correctional" budget surpassed the \$200 million mark.
 
@@ -1794,11 +1794,11 @@ Such cost increases show little signs of abating, and indeed, they probably will
 
 The costliness of incarceration already represents a substantial drain on government fiscal resources. In the future, this cost may put prisons beyond the reach of localities and states, and possibly even the federal government. In addition to fantastic cost increases, a number of additional factors may influence the fate of imprisonment in the years to come.
 
-As recently as 1973, none of the states paid its prisoners a minimum wage and seven states (Maine, Georgia, Florida, Texas, Mississippi, Arkansas and North Carolina) paid them nothing for their labor. Of those that did pay, most paid only token rates of 15 to 30 cents a day [\[179\]](#page-232-5) in some cases for the most strenuous and tedious kinds of tasks.
+As recently as 1973, none of the states paid its prisoners a minimum wage and seven states (Maine, Georgia, Florida, Texas, Mississippi, Arkansas and North Carolina) paid them nothing for their labor. Of those that did pay, most paid only token rates of 15 to 30 cents a day \[179\] in some cases for the most strenuous and tedious kinds of tasks.
 
-Wardens have enjoyed the luxury of this form of slave labor for as long as the modern prison has existed. Few could run their institutions-or their householdswithout it. If Massachusetts prisoners had been paid \$3 per hour in 1973, instead of 50 cents a day, their earnings would have cost the state \$8 million instead of \$171,000. [\[180\]](#page-232-6) Without uncompensated workers to perform necessary kitchen and maintenance chores, prisons could not operate. Without trusties to serve as chauffeurs, chefs, gardeners and personal valets, many prison superintendents would lose their royalty status. Add to this the possibility of workman's compensation for prisoners and the economics of imprisonment appear grim indeed.
+Wardens have enjoyed the luxury of this form of slave labor for as long as the modern prison has existed. Few could run their institutions-or their householdswithout it. If Massachusetts prisoners had been paid \$3 per hour in 1973, instead of 50 cents a day, their earnings would have cost the state \$8 million instead of \$171,000. \[180\] Without uncompensated workers to perform necessary kitchen and maintenance chores, prisons could not operate. Without trusties to serve as chauffeurs, chefs, gardeners and personal valets, many prison superintendents would lose their royalty status. Add to this the possibility of workman's compensation for prisoners and the economics of imprisonment appear grim indeed.
 
-Prison populations are once again increasing. Following a period of decarceration during the 1960's, the number of those in captivity has shot up as economic conditions have worsened. As a result, prisons in many states have become filled to the brim, and in some regions, especially the South, they have overflowed.[\[181\]](#page-232-7) Overcrowding historically has resulted in increased riots and bloodshed, such as occurred in the 1920's, the 1950's, and at Attica in 1971. This leaves many states with a crucial policy decision: either increase available space, or reduce the number of prisoners. Building more prisons is clearly not a solution and would be a costly, irrevocable mistake. Construction costs are a major factor behind the slowdown in prison expansion during the 1960's. But the future is uncertain. It already costs from \$30,000 to \$50,000 in some states to build a single cell of a maximum security prison. Such costs could make further expansion economically unfeasible. On the other hand, prisons are one of the few public building projects which the public might be frightened into approving. Considering the depressed state of the building trades, such scare tactics are not beyond the realm of possibility.
+Prison populations are once again increasing. Following a period of decarceration during the 1960's, the number of those in captivity has shot up as economic conditions have worsened. As a result, prisons in many states have become filled to the brim, and in some regions, especially the South, they have overflowed.\[181\] Overcrowding historically has resulted in increased riots and bloodshed, such as occurred in the 1920's, the 1950's, and at Attica in 1971. This leaves many states with a crucial policy decision: either increase available space, or reduce the number of prisoners. Building more prisons is clearly not a solution and would be a costly, irrevocable mistake. Construction costs are a major factor behind the slowdown in prison expansion during the 1960's. But the future is uncertain. It already costs from \$30,000 to \$50,000 in some states to build a single cell of a maximum security prison. Such costs could make further expansion economically unfeasible. On the other hand, prisons are one of the few public building projects which the public might be frightened into approving. Considering the depressed state of the building trades, such scare tactics are not beyond the realm of possibility.
 
 The National Moratorium on Prison Construction lists more than 500 penal facilities presently under consideration or underway, at an average construction cost of \$6,700,000 per facility, a per bed cost of \$24,000.
 
@@ -1806,7 +1806,7 @@ The National Moratorium on Prison Construction lists more than 500 penal facilit
 
 Sometimes it helps to focus on an individual case. Consider the example of a burglar who is convicted of stealing \$200 worth of goods (about the average for that offense). In a state where the average per capita cost of incarceration is \$13,000, a two-year prison sentence costs \$26,000. Three years costs \$39,000. Twenty costs \$260,000. And so on. Add to this court expenses, parole costs, family assistance, lawyers' fees and the rest, and imprisonment shows itself to be a terribly exorbitant mode of punishment. Even assuming that the burglar may have committed several other thefts before being caught, the cost of incarceration far exceeds that of his/ her crimes. It is also important to remember that the victim never is compensated under the present arrangement. Only the keepers profit from prisons. Prisons are welfare at its worst and most grotesque.
 
-Legislators have to be taught that whenever they authorize a sentence of imprisonment for a particular offense, whenever they vote to enact tougher sentences, they are spending huge sums of the people's money. [\[182\]](#page-232-8) Judges must learn that every person they send to a cage, and for every day they require him/her to serve, the people must pay thru their tax dollars. Parole boards must realize that every time they stamp PAROLE DENIED on a prisoner's life, they squander thousands of dollars and worsen the damage done to the community. Above all, the public has to be shown that the price of prison punishment is simply too much society cannot afford it.
+Legislators have to be taught that whenever they authorize a sentence of imprisonment for a particular offense, whenever they vote to enact tougher sentences, they are spending huge sums of the people's money. \[182\] Judges must learn that every person they send to a cage, and for every day they require him/her to serve, the people must pay thru their tax dollars. Parole boards must realize that every time they stamp PAROLE DENIED on a prisoner's life, they squander thousands of dollars and worsen the damage done to the community. Above all, the public has to be shown that the price of prison punishment is simply too much society cannot afford it.
 
 Abolitionists know that cost-benefit analysis can be used to their advantage. But cost arguments must be kept in perspective. Even if prisons were profitable, they should be eliminated. The debate over imprisonment, like that over slavery or war, ultimately turns on moral grounds. Regardless of the dollars and cents of it, prisons would be-and are-and always will be too expensive.
 
@@ -1814,27 +1814,27 @@ Abolitionists know that cost-benefit analysis can be used to their advantage. Bu
 
 I am persuaded that the institution of prison probably must end. In many respects it is as intolerable within the United States as was the institution of slavery, equally brutalizing to all involved, equally toxic to the social system, equally subversive of the brotherhood of man, even more costly by some standards, and probably less rational. The immediate question for the courts while prisons continue to exist, is how to respond to them in terms of constitutional litigation: whether to support the institution but to shape it, or to end it, or to be neutral with respect to its continued existence. This question is urgent because, whether or not so intended, a certain pattern of judicial response to these lawsuits may set in motion a dynamic process of disintegration of the institution.
 
-—U. S. District Court Judge James E. Doyle, in Morales v. Schmidt (1972) [\[183\]](#page-232-9)
+—U. S. District Court Judge James E. Doyle, in Morales v. Schmidt (1972) \[183\]
 
-It is possible that imprisonment will eventually be declared unconstitutional. Thus, the formal legal approach to ending incarceration is another important potential abolitionist strategy. The constitutionality of imprisonment has received very little serious attention, but it has attracted growing interest in recent years, and sooner or later the issue will have to be decided by the courts. [\[184\]](#page-232-10)
+It is possible that imprisonment will eventually be declared unconstitutional. Thus, the formal legal approach to ending incarceration is another important potential abolitionist strategy. The constitutionality of imprisonment has received very little serious attention, but it has attracted growing interest in recent years, and sooner or later the issue will have to be decided by the courts. \[184\]
 
-The constitutionality-and hence, the unconstitutionality—of imprisonment has been very slow to develop. The original Constitution made no mention whatsoever of imprisonment as a punishment for crime; the first reference did not occur until 1865, in the form of the 13th Amendment. [\[185\]](#page-232-11) This 43-word passage set two standards, both of which underscore the interrelationship of slavery and imprisonment: (1) it outlawed slavery and involuntary servitude in the United States, and (2) it authorized slavery and involuntary servitude if used as a punishment for crime. As a result, the law concerning imprisonment began at the most primitive level-with the consideration of prisoners as slaves, and thus, as subhumans. [\[186\]](#page-232-12) American judges then managed to virtually ignore prison issues for nearly a century, for it was not until the 1960's that a determined prisoners' rights movement succeeded in forcing some courts to abandon their traditional "hands-off" policy.
+The constitutionality-and hence, the unconstitutionality—of imprisonment has been very slow to develop. The original Constitution made no mention whatsoever of imprisonment as a punishment for crime; the first reference did not occur until 1865, in the form of the 13th Amendment. \[185\] This 43-word passage set two standards, both of which underscore the interrelationship of slavery and imprisonment: (1) it outlawed slavery and involuntary servitude in the United States, and (2) it authorized slavery and involuntary servitude if used as a punishment for crime. As a result, the law concerning imprisonment began at the most primitive level-with the consideration of prisoners as slaves, and thus, as subhumans. \[186\] American judges then managed to virtually ignore prison issues for nearly a century, for it was not until the 1960's that a determined prisoners' rights movement succeeded in forcing some courts to abandon their traditional "hands-off" policy.
 
 For all practical purposes, imprisonment means the caging of human beings either singly or in pairs or groups .... If there were the slightest scientific proof that the placement of human beings into boxes or cages for any length of time, even over night, had the slightest beneficial effect, perhaps such a system might be justifiable. There is no such proof; consequently, I should think that a massive attack on the constitutionality of the caging of human beings is in order.
 
 —Gerhard O. W. Mueller, "Imprisonment and its Alternatives," A Program for Prison Reform, p. 40
 
-Most of these decisions have related to excesses and aberrations of modern prison administration, and to gross violations of fundamental human decency. [\[187\]](#page-232-13) Nevertheless, the accumulating body of law has both opened the door and laid the groundwork for constitutional attacks on the institution itself.
+Most of these decisions have related to excesses and aberrations of modern prison administration, and to gross violations of fundamental human decency. \[187\] Nevertheless, the accumulating body of law has both opened the door and laid the groundwork for constitutional attacks on the institution itself.
 
-One of the most attractive arguments for unconstitutionality stems from the 8th Amendment prohibition of "cruel and unusual punishment," [\[188\]](#page-232-14) which applies to the states by the 14th Amendment. The United States Supreme Court has held that any punishment which is disproportionate to the crime constitutes an 8th Amendment violation. [\[189\]](#page-233-0) The Court has also stated that a prison term could amount to cruel and unusual punishment if it was unduly long and not proportionate to the offense. [\[190\]](#page-233-1) In addition, some courts have interpreted this to outlaw corporal punishment, [\[191\]](#page-233-2) or to find that a "totality" of distasteful prison conditions constitutes a violation of the 8th Amendment. [\[192\]](#page-233-3)
+One of the most attractive arguments for unconstitutionality stems from the 8th Amendment prohibition of "cruel and unusual punishment," \[188\] which applies to the states by the 14th Amendment. The United States Supreme Court has held that any punishment which is disproportionate to the crime constitutes an 8th Amendment violation. \[189\] The Court has also stated that a prison term could amount to cruel and unusual punishment if it was unduly long and not proportionate to the offense. \[190\] In addition, some courts have interpreted this to outlaw corporal punishment, \[191\] or to find that a "totality" of distasteful prison conditions constitutes a violation of the 8th Amendment. \[192\]
 
-But 8th Amendment litigation has evolved very slowly, on a case-by-case basis, and the Court has never offered a comprehensive definition of the clause. Even the effort in 1972 to decide if the death penalty was constitutional resulted in separate decisions from each of the nine justices, thus leaving the question open to debate. [\[193\]](#page-233-4) Abolitionists should carefully study future death penalty decisions, for the precedents could have some important implications for the constitutionality of imprisonment. Most federal judges have concluded that the amendment draws its meaning from "evolving standards of decency," [\[194\]](#page-233-5) so that punishments that were not "shocking to the conscience" a generation ago may later be deemed an outrage.
+But 8th Amendment litigation has evolved very slowly, on a case-by-case basis, and the Court has never offered a comprehensive definition of the clause. Even the effort in 1972 to decide if the death penalty was constitutional resulted in separate decisions from each of the nine justices, thus leaving the question open to debate. \[193\] Abolitionists should carefully study future death penalty decisions, for the precedents could have some important implications for the constitutionality of imprisonment. Most federal judges have concluded that the amendment draws its meaning from "evolving standards of decency," \[194\] so that punishments that were not "shocking to the conscience" a generation ago may later be deemed an outrage.
 
-A landmark decision occurred in 1970, when a federal court judge declared an entire state penal system unconstitutional on the basis of a combination of intolerable prison conditions. [\[195\]](#page-233-6) The judge concluded that "cruel and unusual punishment" is not limited to the specific punishment of an individual inmate, but rather: "In the Court's estimation confinement itself within a given institution may amount to cruel and unusual punishment ... where the confinement is characterized by conditions and practices so bad as to be shocking to the conscience of reasonably civilized people." [\[196\]](#page-233-7) Since the Holt v. Sarver decision, numerous other lawsuits have been brought using similar theory and achieving similar results. [\[197\]](#page-233-8) However, the ultimate victory only extends to the temporary closing of the guilty institution or system. Prisoners can still be returned to the facility as soon as it complies with the court's order, and in the meantime they can be transferred to different facilities in other counties or states. Neither solitary confinement per se, nor imprisonment per se have yet been found unconstitutional.[\[198\]](#page-233-9)
+A landmark decision occurred in 1970, when a federal court judge declared an entire state penal system unconstitutional on the basis of a combination of intolerable prison conditions. \[195\] The judge concluded that "cruel and unusual punishment" is not limited to the specific punishment of an individual inmate, but rather: "In the Court's estimation confinement itself within a given institution may amount to cruel and unusual punishment ... where the confinement is characterized by conditions and practices so bad as to be shocking to the conscience of reasonably civilized people." \[196\] Since the Holt v. Sarver decision, numerous other lawsuits have been brought using similar theory and achieving similar results. \[197\] However, the ultimate victory only extends to the temporary closing of the guilty institution or system. Prisoners can still be returned to the facility as soon as it complies with the court's order, and in the meantime they can be transferred to different facilities in other counties or states. Neither solitary confinement per se, nor imprisonment per se have yet been found unconstitutional.\[198\]
 
-The Supreme Court has ruled that censorship of prisoners' mail is constitutional, as long as it conforms to specific established criteria. [\[199\]](#page-233-10) Courts have also concluded that prisoners do not enjoy a constitutional right to have visits. [\[200\]](#page-233-11) The larger constitutional question-of whether imprisonment unconstitutionally denies inmates their 1st Amendment rights-remains in limbo, for the Supreme Court has refused to decide whether prisoners are covered by the 1st Amendment.
+The Supreme Court has ruled that censorship of prisoners' mail is constitutional, as long as it conforms to specific established criteria. \[199\] Courts have also concluded that prisoners do not enjoy a constitutional right to have visits. \[200\] The larger constitutional question-of whether imprisonment unconstitutionally denies inmates their 1st Amendment rights-remains in limbo, for the Supreme Court has refused to decide whether prisoners are covered by the 1st Amendment.
 
-Two final sources of litigation should be noted. Some lawsuits have focused on the state's obligation to provide rehabilitation programs and services, contending that prisoners should be released whenever the state fails to make good on its stated purpose of "correction." However, the courts have held that prisoners do not enjoy a constitutional right to treatment. [\[201\]](#page-233-12) Challenges of the state's right to force prisoners to work, and attempts to require state or federal minimum wage laws for prisoners, have also been unsuccessful, because of the 13th Amendment. As a result, some prison changers have suggested that the amendment be changed to remove the authorization of slavery as punishment for anyone convicted of a crime. [\[202\]](#page-233-13) These approaches are not equipped or designed to establish the unconstitutionality of imprisonment per se, but they seek to make it less feasible for the state to resort to incarceration. Altho the right-to treatment approach is potentially counterproductive to the abolitionist cause, the elimination of penal slavery and the passage of minimum wage requirements for prisoners should be considered important goals for abolitionists and reformers alike.
+Two final sources of litigation should be noted. Some lawsuits have focused on the state's obligation to provide rehabilitation programs and services, contending that prisoners should be released whenever the state fails to make good on its stated purpose of "correction." However, the courts have held that prisoners do not enjoy a constitutional right to treatment. \[201\] Challenges of the state's right to force prisoners to work, and attempts to require state or federal minimum wage laws for prisoners, have also been unsuccessful, because of the 13th Amendment. As a result, some prison changers have suggested that the amendment be changed to remove the authorization of slavery as punishment for anyone convicted of a crime. \[202\] These approaches are not equipped or designed to establish the unconstitutionality of imprisonment per se, but they seek to make it less feasible for the state to resort to incarceration. Altho the right-to treatment approach is potentially counterproductive to the abolitionist cause, the elimination of penal slavery and the passage of minimum wage requirements for prisoners should be considered important goals for abolitionists and reformers alike.
 
 Opinion is divided as to whether the courts will eventually abolish imprisonment. However, it should be recognized that prison law is modern slave law, and that the law and the courts have traditionally served to uphold the legitimacy of the institution, just as in earlier times they upheld the constitutionality of slavery. Given the present public attitudes toward crime and criminals, the prospect of either of the three branches of government leading the way in a constitutional attack on prison appears extremely remote to many prison reformers and abolitionists. However, it is the task of those of us striving to abolish cages, to continually reveal the unconstitutionality of prison life, and to empower prisoners to utilize the levers provided by legal redress of their grievances.
 
@@ -2217,52 +2217,52 @@ The power of people to make prison change has barely been tapped. Moratorium is 
 
 —Ron Sturrup, "Prisons: Society's Barometer," NEPA NEWS, December, 1974
 
-The Law Enforcement Assistance Administration (LEAA) is to the criminal (in)justice systems what the Pentagon is to the military. Operating in conjunction with multinational corporations and research institutes, the LEAA has financed the transfer of the techniques and hardware of military and space-derived technology to both police and prisons. Industries which profit grandly from "the war on crime" are in most instances the ones which reaped excessive financial rewards from the war in Vietnam. The social/ industrial complex is a blood brother of the military/ industrial complex.[\[203\]](#page-233-14)
+The Law Enforcement Assistance Administration (LEAA) is to the criminal (in)justice systems what the Pentagon is to the military. Operating in conjunction with multinational corporations and research institutes, the LEAA has financed the transfer of the techniques and hardware of military and space-derived technology to both police and prisons. Industries which profit grandly from "the war on crime" are in most instances the ones which reaped excessive financial rewards from the war in Vietnam. The social/ industrial complex is a blood brother of the military/ industrial complex.\[203\]
 
-In June 1968, at the peak of the antiwar and civil rights movements, Congress enacted the Omnibus Crime Control and Safe Streets Act. [\[204\]](#page-233-15) This bill laid the groundwork for massive federal intrusion into law enforcement, a function constitutionally and traditionally regarded as strictly local. The statute did not pretend to deal with the conditions that breed crime: unemployment, racism, poverty, slums, powerlessness and a culture that encourages violence and competition. [\[205\]](#page-233-16)
+In June 1968, at the peak of the antiwar and civil rights movements, Congress enacted the Omnibus Crime Control and Safe Streets Act. \[204\] This bill laid the groundwork for massive federal intrusion into law enforcement, a function constitutionally and traditionally regarded as strictly local. The statute did not pretend to deal with the conditions that breed crime: unemployment, racism, poverty, slums, powerlessness and a culture that encourages violence and competition. \[205\]
 
 When the "war on crime" was declared by the federal government, LEAA was the instrument created to disburse the funds, to lead the attack. The emphasis on technology and management techniques, reflects a specific ideology about the sources of crime and disorder. The decision to use a war-model response to problems that are essentially social and political has enormous significance because it is the first serious attempt to develop a national apparatus of control.
 
-Since its inception eight years ago, LEAA has become an immense criminal (in)justice bureaucracy, one of the fastest growing agencies in the federal government and the most heavily funded division of the Department of Justice. LEAA's budget has increased from \$63 million in 1969 to approximately \$800 million in 1976, funding almost 100,000 programs and pouring close to \$5 billion into the nation's criminal (in)justice systems.[\[206\]](#page-233-17)
+Since its inception eight years ago, LEAA has become an immense criminal (in)justice bureaucracy, one of the fastest growing agencies in the federal government and the most heavily funded division of the Department of Justice. LEAA's budget has increased from \$63 million in 1969 to approximately \$800 million in 1976, funding almost 100,000 programs and pouring close to \$5 billion into the nation's criminal (in)justice systems.\[206\]
 
-LEAA provides thousands of jobs to bureaucrats and criminal (in)justice professionals and researchers who feed off the LEAA pork barrel. But the biggest winners in the LEAA sweepstakes are the manufacturers and suppliers of computers, electronics equipment and surveillance devices. The list reads like the top 100 war contractors: IBM, Burroughs, Motorola, RCA, Westinghouse, Litton, Honeywell, Bell Helicopter, Hughes Aircraft and many other familiar suppliers. Much of the counterinsurgency arsenal field-tested in Vietnam has been converted to the law enforcement market.[\[207\]](#page-233-18)
+LEAA provides thousands of jobs to bureaucrats and criminal (in)justice professionals and researchers who feed off the LEAA pork barrel. But the biggest winners in the LEAA sweepstakes are the manufacturers and suppliers of computers, electronics equipment and surveillance devices. The list reads like the top 100 war contractors: IBM, Burroughs, Motorola, RCA, Westinghouse, Litton, Honeywell, Bell Helicopter, Hughes Aircraft and many other familiar suppliers. Much of the counterinsurgency arsenal field-tested in Vietnam has been converted to the law enforcement market.\[207\]
 
-The LEAA bonanza continues to serve as a "vehicle for ripping off frustrated taxpayers who want something done about crime"[\[208\]](#page-233-19) even while serious charges of corruption and LEAA's wasteful spending of public funds are leveled at the agency.[\[209\]](#page-233-20) The failure of LEAA to meet the stated but unrealistic goals of "reducing crime and insuring justice," and their questionable constitutional and moral practices, have attracted severe criticism. Both conservatives and liberals have criticized the bureaucratic inefficiencies of LEAA, with the former emphasizing the structural and fiscal problems and the latter focussing on the need for an efficient, research-oriented and centralized approach to the problem of crime. Additionally, a number of radical scholars, predominantly in the muckraking tradition, have highlighted the paramilitary and repressive functions of the LEAA and its potential role in establishing a "police state."[\[210\]](#page-233-21)
+The LEAA bonanza continues to serve as a "vehicle for ripping off frustrated taxpayers who want something done about crime"\[208\] even while serious charges of corruption and LEAA's wasteful spending of public funds are leveled at the agency.\[209\] The failure of LEAA to meet the stated but unrealistic goals of "reducing crime and insuring justice," and their questionable constitutional and moral practices, have attracted severe criticism. Both conservatives and liberals have criticized the bureaucratic inefficiencies of LEAA, with the former emphasizing the structural and fiscal problems and the latter focussing on the need for an efficient, research-oriented and centralized approach to the problem of crime. Additionally, a number of radical scholars, predominantly in the muckraking tradition, have highlighted the paramilitary and repressive functions of the LEAA and its potential role in establishing a "police state."\[210\]
 
-In California, LEAA was denounced as a waste of taxpayers' money by Governor Edmund Brown, Jr. Shortly after taking office in January of 1975, he cut the staff of LEAA's office of Criminal Justice Planning from over 200 to 40 people. He then threatened to reject California's fiscal 1977 block grant-about \$50 million-unless LEAA and its state representatives are able to prove that the funds are having some impact on the crime rate. If they are not, he says, the money would be better used to reduce the federal budget deficit.[\[211\]](#page-233-22)
+In California, LEAA was denounced as a waste of taxpayers' money by Governor Edmund Brown, Jr. Shortly after taking office in January of 1975, he cut the staff of LEAA's office of Criminal Justice Planning from over 200 to 40 people. He then threatened to reject California's fiscal 1977 block grant-about \$50 million-unless LEAA and its state representatives are able to prove that the funds are having some impact on the crime rate. If they are not, he says, the money would be better used to reduce the federal budget deficit.\[211\]
 
-Thus, \$5 billion dollars after the declaration of the "war on crime," realistic LEAA administrators admit that the program has not only failed to reduce crime, but that the infusion of massive amounts of money at a federal or state level cannot solve or even reduce the incidence of crime.[\[212\]](#page-233-23) Further, its officials do not know with any certainty how its money has been spent. LEAA is unable to provide a detailed breakdown listing various categories of programs and the exact amount of money expended on each, despite an expensive computer system originally intended to store information about every grant.[\[213\]](#page-233-24)
+Thus, \$5 billion dollars after the declaration of the "war on crime," realistic LEAA administrators admit that the program has not only failed to reduce crime, but that the infusion of massive amounts of money at a federal or state level cannot solve or even reduce the incidence of crime.\[212\] Further, its officials do not know with any certainty how its money has been spent. LEAA is unable to provide a detailed breakdown listing various categories of programs and the exact amount of money expended on each, despite an expensive computer system originally intended to store information about every grant.\[213\]
 
-Advocates of moratorium on prison/jail construction and other prison changers are in daily touch with the effects of LEAA funding. Since 1968 at least \$1.5 billion of LEAA's funds have been expended on "corrections" in a total of 30,000 programs. If one includes other programs that have a direct impact on "corrections" such as pretrial diversion, drug treatment, crime prevention, community education and the "corrections" portion of criminal (in)justice planning efforts, the figure may well exceed \$2 billion, 40 percent of total LEAA expenditures.[\[214\]](#page-233-25) There has been increasing emphasis on funding of "corrections" corresponding to the growing militant activity within prisons.
+Advocates of moratorium on prison/jail construction and other prison changers are in daily touch with the effects of LEAA funding. Since 1968 at least \$1.5 billion of LEAA's funds have been expended on "corrections" in a total of 30,000 programs. If one includes other programs that have a direct impact on "corrections" such as pretrial diversion, drug treatment, crime prevention, community education and the "corrections" portion of criminal (in)justice planning efforts, the figure may well exceed \$2 billion, 40 percent of total LEAA expenditures.\[214\] There has been increasing emphasis on funding of "corrections" corresponding to the growing militant activity within prisons.
 
 Because of its massive funding capability, it is difficult to find a community-based "corrections program" or a prominent researcher or for that matter a prison reform organization that has not been the recipient of a LEAA grant. Events as diverse as the abolition of juvenile prisons in Massachusetts and the acquisition of college credits by 40,000 guards and other prison staff on 1,000 campuses across the country have been funded by LEAA. The Minnesota parole /restitution program, volunteer probationary programs, pretrial diversion projects, victim assistance programs, rape crisis centers and multi-million dollar projects to redesign an entire state's correctional system relied on LEAA for their funding. There is no state or territory and very few counties and municipalities that have not received LEAA money.
 
 Thus, as the major force for influencing, standardizing, unifying and coordinating policies and programs for the criminal (in)justice systems, including "corrections," LEAA has been able to directly affect what types of new projects will be sponsored and what kinds of research will be supported. Because both "hard" and "soft" approaches to crime control are fostered by LEAA, most prison changers try to walk the chancy tightrope between reaping the benefits of reformist programs and protesting the ones that are repressive and militaristic.
 
-In 1971, a National Advisory Commission on Criminal Justice Standards and Goals was selected by the administrator of LEAA to formulate national standards and goals for crime reduction and prevention at the state and local levels. After two years the commission and its various task forces, produced six volumes including the report on Corrections. [\[215\]](#page-233-26) The Task Force on Corrections included Norman
+In 1971, a National Advisory Commission on Criminal Justice Standards and Goals was selected by the administrator of LEAA to formulate national standards and goals for crime reduction and prevention at the state and local levels. After two years the commission and its various task forces, produced six volumes including the report on Corrections. \[215\] The Task Force on Corrections included Norman
 
-Carlson, director of the Federal Bureau of Prisons and William Nagel, former warden and an outspoken advocate of a moratorium on prison construction, the abandonment of prisons and the creation of community alternatives.[\[216\]](#page-233-27)
+Carlson, director of the Federal Bureau of Prisons and William Nagel, former warden and an outspoken advocate of a moratorium on prison construction, the abandonment of prisons and the creation of community alternatives.\[216\]
 
-Tho standards and goals recommended in the report on Corrections are diverse, they indicate a move away from incarceration. The report advocates a moratorium on the construction of all adult prisons/jails while alternatives are developed and implemented and the closing of all public institutions for "juvenile delinquents." Many other progressive recommendations and critiques of existing practices contained in the report are useful to abolitionists in pressuring local and state systems to adopt more just and less punitive policies. [\[217\]](#page-233-28) We perceive such improvements, however, as interim strategies, and not ends in themselves, mindful that the locus of power remains in the public system and not the community.
+Tho standards and goals recommended in the report on Corrections are diverse, they indicate a move away from incarceration. The report advocates a moratorium on the construction of all adult prisons/jails while alternatives are developed and implemented and the closing of all public institutions for "juvenile delinquents." Many other progressive recommendations and critiques of existing practices contained in the report are useful to abolitionists in pressuring local and state systems to adopt more just and less punitive policies. \[217\] We perceive such improvements, however, as interim strategies, and not ends in themselves, mindful that the locus of power remains in the public system and not the community.
 
 Prison changers reap other small benefits from LEAA. Many local programs of an experimental nature would not have evolved without LEAA funding. Also, for the first time, prison changers and advocacy researchers have had access to some hardto-get national statistics and information about the criminal (in)justice systems. But at what great cost!
 
 While on one hand the Corrections report advocates a moratorium on prison/jail construction, with the other, LEAA has been handing out funds to build new institutions. It is impossible to get a detailed breakdown of expenditures on construction and renovation of these institutions from LEAA. Officials contend that the amount of money spent on construction has been a small percentage of the total LEAA budget, and that much of that which has occurred has been for the renovation of outmoded facilities, or for the addition of "program space" to existing institutions.
 
-The largest amount has been expended on the construction and renovation of jails, especially in the rural areas of the country. The amount runs into the tens of millions of dollars, but no exact figures are available.[\[218\]](#page-233-29) Moratorium researchers can be more successful in pinpointing local and state construction expenditures.
+The largest amount has been expended on the construction and renovation of jails, especially in the rural areas of the country. The amount runs into the tens of millions of dollars, but no exact figures are available.\[218\] Moratorium researchers can be more successful in pinpointing local and state construction expenditures.
 
 The following information will prove helpful to advocates of prison/jail moratorium who need to understand the workings of the state and local LEAA apparatus:
 
 - • LEAA funds for prison/jail construction can be administered by local and/or state Criminal Justice Planning Agencies under various names or sub-divisions. State Planning Agencies (SPAs) and Regional Planning Units (RPUs) were established to plan and dispense these funds.
 - The law, as amended in 1974 makes provision for grassroots representation in those fund-dispensing groups:
  - The State Planning Agency and any Regional Planning Units within the state shall, within their respective jurisdictions, be representative of the law enforcement and criminal justice agencies directly related to the prevention and control of juvenile delinquency, units of general local government and public agencies maintaining programs to reduce and control crime, and shall include representatives of citizens, professional and community organizations directly related to delinquency prevention. (emphasis added)
-- The National Advisory Commission on Criminal Justice Standards and Goals report, A National Strategy to Reduce Crime, recommended that at least onethird of the membership of state and local planning agency supervisory boards and councils be from officials of noncriminal justice agencies and from private citizens. [\[219\]](#page-233-30)
+- The National Advisory Commission on Criminal Justice Standards and Goals report, A National Strategy to Reduce Crime, recommended that at least onethird of the membership of state and local planning agency supervisory boards and councils be from officials of noncriminal justice agencies and from private citizens. \[219\]
 
 - When LEAA was up for reauthorization by Congress in 1976, testimony before the House Judiciary Subcommittee on Crime concerning citizen participation urged that the planning process include more than those with a vested interest in the criminal (in)justice systems, such as representatives from minority groups, welfare rights organizations, civil rights groups, religious organizations, poverty groups and private citizens.
-- Money in the form of "block" grants, based strictly on population, is turned over to the states and localities which are expected to devise their own programs. LEAA has become less and less a block grant, revenue sharing type agency, and more what is known as a categorical or "discretionary" grant operation-with the LEAA central staff making the decisions about how funds will be used. By 1975 the proportion of block grants had dropped to 54 percent with most of the remainder devoted to discretionary grants.[\[220\]](#page-233-31)
-- • While states retain the decision on how to spend the block grant money, the law mandates that the spending be part of a rational, "comprehensive planning" process involving representatives of police, courts and "corrections" agencies in each state. Block money is administered and disbursed by SPAs whose directors are appointed by the governors. The SPAs are required to map out their priorities in their plans, which must be reviewed and approved by LEAA before a state receives its grant. [\[221\]](#page-234-0)
-- • LEAA has deliberately discouraged the use of the states' block funds for construction by requiring that states and localities provide a 50 percent match. There is no such restriction, however, on the use of discretionary funds, and some construction has been 90 percent paid for out of the LEAA discretionary budget.[\[222\]](#page-234-1)
-- • "Part E" funds are exclusively marked for "corrections," with 50 percent going to the states as block funds and the rest handled in Washington for special discretionary programs. There are four ways in which states can receive money for "corrections" programs: Part E block grants, regular block grants which fall under Part C of the legislation and are allocated at the SPAs discretion, Part E discretionary grants and Part C discretionary grants. [\[223\]](#page-234-2)
+- Money in the form of "block" grants, based strictly on population, is turned over to the states and localities which are expected to devise their own programs. LEAA has become less and less a block grant, revenue sharing type agency, and more what is known as a categorical or "discretionary" grant operation-with the LEAA central staff making the decisions about how funds will be used. By 1975 the proportion of block grants had dropped to 54 percent with most of the remainder devoted to discretionary grants.\[220\]
+- • While states retain the decision on how to spend the block grant money, the law mandates that the spending be part of a rational, "comprehensive planning" process involving representatives of police, courts and "corrections" agencies in each state. Block money is administered and disbursed by SPAs whose directors are appointed by the governors. The SPAs are required to map out their priorities in their plans, which must be reviewed and approved by LEAA before a state receives its grant. \[221\]
+- • LEAA has deliberately discouraged the use of the states' block funds for construction by requiring that states and localities provide a 50 percent match. There is no such restriction, however, on the use of discretionary funds, and some construction has been 90 percent paid for out of the LEAA discretionary budget.\[222\]
+- • "Part E" funds are exclusively marked for "corrections," with 50 percent going to the states as block funds and the rest handled in Washington for special discretionary programs. There are four ways in which states can receive money for "corrections" programs: Part E block grants, regular block grants which fall under Part C of the legislation and are allocated at the SPAs discretion, Part E discretionary grants and Part C discretionary grants. \[223\]
 
 Abolitionists advocate that as long as LEAA survives, prison changers should:
 
@@ -2271,10 +2271,10 @@ Abolitionists advocate that as long as LEAA survives, prison changers should:
 - Find out if a "comprehensive plan" exists to establish alternatives in the community. If not, press for a comprehensive plan before any new construction is undertaken and present an alternative community-controlled model.
 - Find out who serves on the planning and supervisory boards and how they became members (See Chapter 9).
 
-- • Pressure for representation of community and minority constituencies and prison changers on the planning boards and councils.[\[224\]](#page-234-3)
+- • Pressure for representation of community and minority constituencies and prison changers on the planning boards and councils.\[224\]
 - Organize prisoner-related groups and community service agencies around the issue of moratorium and the need to divert funding for construction into community services and resources.
 
-In the long range, LEAA will fail and he discarded for the reasons stated by Dr. Jerry Miller, a member of the Consultant Committee on "Corrections" which analyzed LEAA's "corrections" accomplishments. The grant approach to "corrections" reform can never work because those proposing the solutions (state arid local "corrections" officials) are part of the problem and as a result most LEAA programs have served only "to sustain and build on existing failure." Most of the LEAA funded diversion and community-based programs have not really diverted offenders from institutions, but have instead, Miller says, swept new people into the system who otherwise would have been ignored. His own experiment in Massachusetts, which abolished existing juvenile institutions, was largely funded by LEAA. This was the unusual, he asserts—one of the very few truly innovative efforts funded by LEAA. [\[225\]](#page-234-4)
+In the long range, LEAA will fail and he discarded for the reasons stated by Dr. Jerry Miller, a member of the Consultant Committee on "Corrections" which analyzed LEAA's "corrections" accomplishments. The grant approach to "corrections" reform can never work because those proposing the solutions (state arid local "corrections" officials) are part of the problem and as a result most LEAA programs have served only "to sustain and build on existing failure." Most of the LEAA funded diversion and community-based programs have not really diverted offenders from institutions, but have instead, Miller says, swept new people into the system who otherwise would have been ignored. His own experiment in Massachusetts, which abolished existing juvenile institutions, was largely funded by LEAA. This was the unusual, he asserts—one of the very few truly innovative efforts funded by LEAA. \[225\]
 
 Nothing less than a restructuring of American society and our system of law can be expected to significantly alter the crime situation. Vigorous investigation of boondoggles such as LEAA should be undertaken so that the enormous wastes of taxpayers' money can be exposed and the LEAA or similar models abolished.
 
@@ -2284,45 +2284,45 @@ Tho convincing arguments can be made to stop the construction of state and local
 
 The NMPC and other organizations are beginning to muster needed opposition to the huge federal prison boondoggle. However, it will take the support of the entire prison change movement and concerned taxpayers thruout the country to stop further unwarranted expansion of the mammoth federal caging bureaucracy.
 
-There was a time, prior to 1895, when the first federal prison was established in Leavenworth, Kansas, that federal lawbreakers were caged in state prisons and leased out to private contractors-at a handsome profit.[\[226\]](#page-234-5) But Congress put a stop to that practice in 1930 by passing legislation that authorized the establishment of a complete federal prison system which mushroomed into a major industry-the FBOP. By fiscal year 1977, the FBOP has the authority to employ more than 8,900 careerminded people with a budget exceeding \$302 million, an increase of \$67 million and 161 positions over fiscal year 1976.[\[227\]](#page-234-6) Its burgeoning complex of cages, classification categories and diversified industries produce profits that rival those of other huge growth corporations.
+There was a time, prior to 1895, when the first federal prison was established in Leavenworth, Kansas, that federal lawbreakers were caged in state prisons and leased out to private contractors-at a handsome profit.\[226\] But Congress put a stop to that practice in 1930 by passing legislation that authorized the establishment of a complete federal prison system which mushroomed into a major industry-the FBOP. By fiscal year 1977, the FBOP has the authority to employ more than 8,900 careerminded people with a budget exceeding \$302 million, an increase of \$67 million and 161 positions over fiscal year 1976.\[227\] Its burgeoning complex of cages, classification categories and diversified industries produce profits that rival those of other huge growth corporations.
 
-Despite a concerted moratorium effort by national organizations, [\[228\]](#page-234-7) the expressed reservations of the General Accounting Office (GAO)[\[229\]](#page-234-8) and members of Congress, close to \$57 million of the 1977 budget increase provides for the planning or construction of four new prisons. These are merely the tip of the building iceberg. As of June 30, 1975, the FBOPs' ten-year master plan called for building 34 more prisons at an estimated cost of \$460 million.[\[230\]](#page-234-9) This hefty construction plan was shaved down from an even more gargantuan proposal for 66 projected prisons at a potential cost of \$670 million.[\[231\]](#page-234-10)
+Despite a concerted moratorium effort by national organizations, \[228\] the expressed reservations of the General Accounting Office (GAO)\[229\] and members of Congress, close to \$57 million of the 1977 budget increase provides for the planning or construction of four new prisons. These are merely the tip of the building iceberg. As of June 30, 1975, the FBOPs' ten-year master plan called for building 34 more prisons at an estimated cost of \$460 million.\[230\] This hefty construction plan was shaved down from an even more gargantuan proposal for 66 projected prisons at a potential cost of \$670 million.\[231\]
 
-Presently, the FBOP controls 52 prison/institutions located in 23 states at sites ranging from rural communities to major metropolitan areas. They include the infamous segregation unit at Marion Federal Penitentiary, Illinois, the most open and experimental institution at Fort Worth, Texas and the fearsome experimental center at Butner, North Carolina. At the end of fiscal year 1975, about 80 percent of federal prisoners were in federal prisons and about 20 percent in state and local prisons/jails, totaling 28,600 in all.[\[232\]](#page-234-11)
+Presently, the FBOP controls 52 prison/institutions located in 23 states at sites ranging from rural communities to major metropolitan areas. They include the infamous segregation unit at Marion Federal Penitentiary, Illinois, the most open and experimental institution at Fort Worth, Texas and the fearsome experimental center at Butner, North Carolina. At the end of fiscal year 1975, about 80 percent of federal prisoners were in federal prisons and about 20 percent in state and local prisons/jails, totaling 28,600 in all.\[232\]
 
 Detailed facts and figures on FBOPs' building plans will be available from NMPC as they continue to monitor the program. In addition to strategies already cited for moratorium on local and state prisons, we suggest the following three points be made in pressing Congress to cut construction funds for the FBOP:
 
-The federal government should not operate any prisons at all. The dismantling of the federal prison system has been advocated by numerous individuals and organizations. Among them: The National Council on Crime and Delinquency; William G. Nagel, Director of the American Foundation; John 0. Boone, former Commissioner of Corrections in Massachusetts and the Group for the Advancement of Corrections.[\[233\]](#page-234-12)
+The federal government should not operate any prisons at all. The dismantling of the federal prison system has been advocated by numerous individuals and organizations. Among them: The National Council on Crime and Delinquency; William G. Nagel, Director of the American Foundation; John 0. Boone, former Commissioner of Corrections in Massachusetts and the Group for the Advancement of Corrections.\[233\]
 
-Basically, critics contend there is no justification for federal prisons,[\[234\]](#page-234-13) they duplicate state institutions and move prisoners far away from their communities. Further, federal agencies should not be making plans for their own perpetuation and aggrandizement.
+Basically, critics contend there is no justification for federal prisons,\[234\] they duplicate state institutions and move prisoners far away from their communities. Further, federal agencies should not be making plans for their own perpetuation and aggrandizement.
 
-Even if one believed in imprisoning lawbreakers, there is nothing to set federal prisoners apart from state prisoners except that they broke a federal law rather than a state or local law. Federal laws are duplicative of state laws. As William Nagel points out, by far the majority (88 percent) of federal prisoners are confined for the same kinds of crime which might have landed them in state prisons-larceny, drugs, robbery, guns, auto theft and murder. Further, reciprocal agreements already in effect permit state prisoners to be caged in federal prisons and vice versa. This common practice demonstrates that prisoners need not be placed in federal prisons. Advocates for federal prisons lack any coherent rationale on the practice of placing lawbreakers in cages labeled "federal" rather than "state." If, as Nagel hypothesizes, Congress passed a law making all crimes in which guns are used federal offenses, suddenly thousands of "state" offenders would become "federal" offenders. Should the FBOP then build 10,000 new cages? Should the state close 10,000 of theirs? Nagel concludes that given the FBOPs' current trend, if such a law were passed they would probably build those 10,000 cages, call them "rooms" and paint them pastel![\[235\]](#page-234-14)
+Even if one believed in imprisoning lawbreakers, there is nothing to set federal prisoners apart from state prisoners except that they broke a federal law rather than a state or local law. Federal laws are duplicative of state laws. As William Nagel points out, by far the majority (88 percent) of federal prisoners are confined for the same kinds of crime which might have landed them in state prisons-larceny, drugs, robbery, guns, auto theft and murder. Further, reciprocal agreements already in effect permit state prisoners to be caged in federal prisons and vice versa. This common practice demonstrates that prisoners need not be placed in federal prisons. Advocates for federal prisons lack any coherent rationale on the practice of placing lawbreakers in cages labeled "federal" rather than "state." If, as Nagel hypothesizes, Congress passed a law making all crimes in which guns are used federal offenses, suddenly thousands of "state" offenders would become "federal" offenders. Should the FBOP then build 10,000 new cages? Should the state close 10,000 of theirs? Nagel concludes that given the FBOPs' current trend, if such a law were passed they would probably build those 10,000 cages, call them "rooms" and paint them pastel!\[235\]
 
-Moratorium advocates cite roles for the federal government other than an operational one. As examples, they point to specific services which are mandated and funded by the federal government but operated by state and local governments. This kind of "federalism" serves as an enabling model for vocational rehabilitation services, public assistance programs, medical assistance, mental health, poverty and educational programs. Largely the product of federal standards and money, these services are owned and operated by the states. Measured within this context of "federalism" the FBOP itself is as anachronistic as are its prisons.[\[236\]](#page-234-15)
+Moratorium advocates cite roles for the federal government other than an operational one. As examples, they point to specific services which are mandated and funded by the federal government but operated by state and local governments. This kind of "federalism" serves as an enabling model for vocational rehabilitation services, public assistance programs, medical assistance, mental health, poverty and educational programs. Largely the product of federal standards and money, these services are owned and operated by the states. Measured within this context of "federalism" the FBOP itself is as anachronistic as are its prisons.\[236\]
 
-The federal government should be taking the lead in advocating community alternatives to prison. The FBOP should be converted into an agency that would provide technical assistance, program guidelines and research for state and local governments that develop community alternatives and services instead of building new penal and detention institutions.[\[237\]](#page-234-16) Consensus on the failure of prisons is widespread and publicly acknowledged by many prominent federal figures.[\[238\]](#page-234-17) To pour billions of dollars into a failing systems' construction and operating costs thus constitutes a premeditated and criminal waste of taxpayers' money.
+The federal government should be taking the lead in advocating community alternatives to prison. The FBOP should be converted into an agency that would provide technical assistance, program guidelines and research for state and local governments that develop community alternatives and services instead of building new penal and detention institutions.\[237\] Consensus on the failure of prisons is widespread and publicly acknowledged by many prominent federal figures.\[238\] To pour billions of dollars into a failing systems' construction and operating costs thus constitutes a premeditated and criminal waste of taxpayers' money.
 
-The FBOPs' glaring inconsistencies in their stated rationale for building new prisons has been effectively challenged. But alternative recommendations have gone unheeded by federal decision makers.[\[239\]](#page-234-18) Even if overcrowding is as serious an issue as the FBOP contends, its director, Norman Carlson, already advocates a depopulation solution for state prison systems which could easily solve any real or imagined population problem for the federal prison system:
+The FBOPs' glaring inconsistencies in their stated rationale for building new prisons has been effectively challenged. But alternative recommendations have gone unheeded by federal decision makers.\[239\] Even if overcrowding is as serious an issue as the FBOP contends, its director, Norman Carlson, already advocates a depopulation solution for state prison systems which could easily solve any real or imagined population problem for the federal prison system:
 
-For example, according to Mr. Carlson, states might consider whether all inmates now in prison really belong there: "Young first offenders, alcoholics and those found guilty of not making support payments to their families" unnecessarily clog the prison system. He argues that such offenders could be handled just as safely in the community. Other offenders who needlessly inflate prison rolls, suggests Mr. Carlson, are those convicted of so-called victimless crimes, such as prostitution, gambling and drug addiction. Those convicted of such crimes are usually nonviolent, and can he treated outside prison if they need "correction."[\[240\]](#page-234-19)
+For example, according to Mr. Carlson, states might consider whether all inmates now in prison really belong there: "Young first offenders, alcoholics and those found guilty of not making support payments to their families" unnecessarily clog the prison system. He argues that such offenders could be handled just as safely in the community. Other offenders who needlessly inflate prison rolls, suggests Mr. Carlson, are those convicted of so-called victimless crimes, such as prostitution, gambling and drug addiction. Those convicted of such crimes are usually nonviolent, and can he treated outside prison if they need "correction."\[240\]
 
-If the FBOP were to take its director's decarceration strategy seriously, the first wave of prison depopulation could solve all alleged overcrowding as well as other serious problems. Only slightly more than 25 percent of all federal prisoners have been convicted of what the director would call a "violent offense."[\[241\]](#page-234-20) Thus, by Director Carlson's own standards, on the basis of their having committed unviolent acts, almost 75 percent of the federal population could be released with no threat to the community.
+If the FBOP were to take its director's decarceration strategy seriously, the first wave of prison depopulation could solve all alleged overcrowding as well as other serious problems. Only slightly more than 25 percent of all federal prisoners have been convicted of what the director would call a "violent offense."\[241\] Thus, by Director Carlson's own standards, on the basis of their having committed unviolent acts, almost 75 percent of the federal population could be released with no threat to the community.
 
-The federal government should not build prison factories that use slave labor to produce profits for the expansion of its own bureaucracy. Tho the purported "business" of the Federal Prison Industries, Inc. (FPI) is "to provide training and employment for prisoners" confined in federal prisons,[\[242\]](#page-234-21) like all major corporations, its real purpose is to earn larger profits thru increased marketing design ability, greater efficiency and lower operating expenses. In the words of one federal prisoner:
+The federal government should not build prison factories that use slave labor to produce profits for the expansion of its own bureaucracy. Tho the purported "business" of the Federal Prison Industries, Inc. (FPI) is "to provide training and employment for prisoners" confined in federal prisons,\[242\] like all major corporations, its real purpose is to earn larger profits thru increased marketing design ability, greater efficiency and lower operating expenses. In the words of one federal prisoner:
 
-The American prison business could not survive and prosper as it does were it not for those of us inside who labor. As we labor for prison industry profits we also work for the exploitation and degradation of ourselves and our fellows; we labor to maintain our incarcerated and insulted existence .... Rehabilitation in prison has become a code-word for a cheap labor market; and thanks to the George Meanys of this world [one of the directors of the FPI], American prisons will continue to serve as a source of cheap labor [and] huge profits.[\[243\]](#page-234-22)
+The American prison business could not survive and prosper as it does were it not for those of us inside who labor. As we labor for prison industry profits we also work for the exploitation and degradation of ourselves and our fellows; we labor to maintain our incarcerated and insulted existence .... Rehabilitation in prison has become a code-word for a cheap labor market; and thanks to the George Meanys of this world one of the directors of the FPI], American prisons will continue to serve as a source of cheap labor [and] huge profits.[\[243\]
 
-As new federal prisons are constructed, they will become factories for expanding the FPI.[\[244\]](#page-234-23) New products will be added to the seven product divisions already in full operation at factories located in 24 prisons. In 1976, FPI's retained earnings of \$6 million, more than doubled those of fiscal year (FY) 1975. Total gross sales increased \$9 million, from \$72 million in FY 1975 to \$81 million in FY 1976. Substantial increases in earnings were realized in electronics, textiles, shoe/brush and metals divisions. Electronics represented the highest division gain, increasing from \$10.3 million in sales in FY 1975 to \$14.3 million in FY 1976. The Department of Defense is the primary customer for these electronic products used to make weapons of war.
+As new federal prisons are constructed, they will become factories for expanding the FPI.\[244\] New products will be added to the seven product divisions already in full operation at factories located in 24 prisons. In 1976, FPI's retained earnings of \$6 million, more than doubled those of fiscal year (FY) 1975. Total gross sales increased \$9 million, from \$72 million in FY 1975 to \$81 million in FY 1976. Substantial increases in earnings were realized in electronics, textiles, shoe/brush and metals divisions. Electronics represented the highest division gain, increasing from \$10.3 million in sales in FY 1975 to \$14.3 million in FY 1976. The Department of Defense is the primary customer for these electronic products used to make weapons of war.
 
-FPI, Inc. is a wholly-owned government corporation established in 1934,[\[245\]](#page-234-24) administered by a board of six directors appointed by the President to serve without compensation. The board represents industry (Berry N. Beaman), retailers and consumers (James L. Palmer), the Department of Defense (John Marshall Briley), labor (George Meany), agriculture (William E. Morgan) and the Attorney General (Peter B. Bensinger). Norman A. Carlson serves as Commissioner of Industries and David C. Jelinek as Associate Commissioner.
+FPI, Inc. is a wholly-owned government corporation established in 1934,\[245\] administered by a board of six directors appointed by the President to serve without compensation. The board represents industry (Berry N. Beaman), retailers and consumers (James L. Palmer), the Department of Defense (John Marshall Briley), labor (George Meany), agriculture (William E. Morgan) and the Attorney General (Peter B. Bensinger). Norman A. Carlson serves as Commissioner of Industries and David C. Jelinek as Associate Commissioner.
 
-The sale of articles produced in the FPI is restricted by law to departments and agencies of the federal government. In all but a few instances, it is mandatory for federal departments and agencies to purchase products from FPI rather than from other sources.[\[246\]](#page-234-25) The numbers of products and services available are staggering and the 1975 Annual Report. Federal Prison Industries, Inc. [\[247\]](#page-234-26) reads like a prospectus for any large corporation seeking stockholders and further investment. Like it or not—and we don't like it-all U. S. taxpayers are shareholders in the proceeds of captive prison labor.[\[248\]](#page-234-27)
+The sale of articles produced in the FPI is restricted by law to departments and agencies of the federal government. In all but a few instances, it is mandatory for federal departments and agencies to purchase products from FPI rather than from other sources.\[246\] The numbers of products and services available are staggering and the 1975 Annual Report. Federal Prison Industries, Inc. \[247\] reads like a prospectus for any large corporation seeking stockholders and further investment. Like it or not—and we don't like it-all U. S. taxpayers are shareholders in the proceeds of captive prison labor.\[248\]
 
-The fact that FPI is one of the most profitable lines of business in the country is not surprising when we examine the pay rates for prison workers -a small detail not included in the glowing annual report. Current wages range from 26 cents to 70 cents per hour, averaging in the high forty cent range. They report that in 1975 more than 13,300 prisoners were employed by FPI for a total of \$4.6 million in prisoner wages. Average daily prisoner employment exceeded 5,200, accounting for more than one-fifth of the entire federal prison population. Nearly 580 staff trained and supervised the prison laborers.[\[249\]](#page-234-28)
+The fact that FPI is one of the most profitable lines of business in the country is not surprising when we examine the pay rates for prison workers -a small detail not included in the glowing annual report. Current wages range from 26 cents to 70 cents per hour, averaging in the high forty cent range. They report that in 1975 more than 13,300 prisoners were employed by FPI for a total of \$4.6 million in prisoner wages. Average daily prisoner employment exceeded 5,200, accounting for more than one-fifth of the entire federal prison population. Nearly 580 staff trained and supervised the prison laborers.\[249\]
 
 Until the federal prison system is dismantled, prison changers must demand an end to slave labor. We must deny all funds to the builders of prisons and educate the public to the dishonesty involved in the practice of raising the banner of "rehabilitation and training" over conditions of slavery. If prisoners are offered work, they must also receive minimum wages. Vocational training programs can be made available in the community as alternatives to prison industry.
 
-As the FBOP grinds out slick publications and press releases "selling" the public on their staggeringly expensive air-conditioned, carpeted, electronic hi-rise nightmare versions of 20th century prisons, the press naively hails them as "an advance in jail design."[\[250\]](#page-234-29) A young prisoner tells a different story from inside the federal "Metropolitan Correctional Center" in New York City:
+As the FBOP grinds out slick publications and press releases "selling" the public on their staggeringly expensive air-conditioned, carpeted, electronic hi-rise nightmare versions of 20th century prisons, the press naively hails them as "an advance in jail design."\[250\] A young prisoner tells a different story from inside the federal "Metropolitan Correctional Center" in New York City:
 
 To be lockstepped into the recently opened federal "Metropolitan Correctional Center" in New York City is to be marched into the future. The latest word in federal penology turns out to be a greater obscenity than anything it was designed to replace. It is enough to make one yearn for the up-frontness of iron bars and stone walls.
 
@@ -2340,7 +2340,7 @@ The New York City prototype will be duplicated in Detroit and Phoenix. But for w
 
 I believe that all confinements of freedom lead to aspects of death. The actual existence of prisons-more prisons, newer prisons, pastel prisons, coeducational prisons, prisons that don't look like prisons, prisons that aren't even called prisons-the actual existence of prisons means living with death's metaphor. It corrupts both the victim and the society.
 
-The houses of those who are made to begin dying will always be with uslike sanctified criminality in high places; like insulation of certain crimes; like the selective enforcement of selective laws to converge on the young, poor and Black. But to consent to these Holiday-Inn hells as an improvement or as somehow more "humane" only enforces the hypocrisy with which death corrupts life.[\[251\]](#page-235-0)
+The houses of those who are made to begin dying will always be with uslike sanctified criminality in high places; like insulation of certain crimes; like the selective enforcement of selective laws to converge on the young, poor and Black. But to consent to these Holiday-Inn hells as an improvement or as somehow more "humane" only enforces the hypocrisy with which death corrupts life.\[251\]
 
 ## **5. Decarcerate**
 
@@ -2382,7 +2382,7 @@ Despite the overwhelming agreement that the majority of prison/jail populations 
 
 ### **Strategies for decarceration**
 
-At the First National Prisoners Conference, Dr. Don C. Gibbons, Chairman of the Department of Sociology at Portland State University and former Director of the Staff Training School of Oskalla Prison Farm in Canada, [\[252\]](#page-235-1) proposed a decarceration strategy based on the availability of services in the community. Next to public threat, he views the major factor in calculating priority for release, the level of need required by the ex-prisoner. If there is no place the decarcerated can go to receive real help, "he and we may have to wait until there is."
+At the First National Prisoners Conference, Dr. Don C. Gibbons, Chairman of the Department of Sociology at Portland State University and former Director of the Staff Training School of Oskalla Prison Farm in Canada, \[252\] proposed a decarceration strategy based on the availability of services in the community. Next to public threat, he views the major factor in calculating priority for release, the level of need required by the ex-prisoner. If there is no place the decarcerated can go to receive real help, "he and we may have to wait until there is."
 
 Gibbons' decarceration strategy would divide prisoners into three groups:
 
@@ -2395,7 +2395,7 @@ Thus, rather than devising a strategy of systematically classifying prisoners fo
 
 In the fourth category, Gibbons' orderly abolition of the prison focusses on the thousands of unconvicted who are imprisoned for long periods prior to trial. He advocates the end of money bail and the immediate release of those imprisoned while awaiting trial, estimated at 52 percent of the total jail population.
 
-A second strategy for decarcerating prisons was enthusiastically cheered at the First National Conference on Alternatives to Incarceration.[\[253\]](#page-235-2) Ira Lowe, for 25 years a Washington, D. C. trial lawyer and civil libertarian, whose clients have ranged from antiwar activist Tom Hayden to John Ehrlichman of Watergate, briefly outlined a ten-year release time-plan. Basing rapidity of release on potential threat to public safety, he prefaced his remarks by pointing out that "the judiciary and all of us must accept the fact that there is no such thing as good and bad torture; no such thing as a good prison. We must accept the fact that they must be emptied. Once we set that as a goal we can begin to act."
+A second strategy for decarcerating prisons was enthusiastically cheered at the First National Conference on Alternatives to Incarceration.\[253\] Ira Lowe, for 25 years a Washington, D. C. trial lawyer and civil libertarian, whose clients have ranged from antiwar activist Tom Hayden to John Ehrlichman of Watergate, briefly outlined a ten-year release time-plan. Basing rapidity of release on potential threat to public safety, he prefaced his remarks by pointing out that "the judiciary and all of us must accept the fact that there is no such thing as good and bad torture; no such thing as a good prison. We must accept the fact that they must be emptied. Once we set that as a goal we can begin to act."
 
 Lowe's plan calls for (1) a moratorium on all prison sentences beginning immediately. (2) Attorneys and judges would propose and structure alternative sanctions. (3) Victimless crimes would carry no more sentences. (4) No prison sentences at all would be allowed until the government proves beyond a reasonable doubt that they have tried alternatives unsuccessfully. (5) Attorneys would be required to present alternatives to the court and (6) all probation reports would recommend alternatives.
 
@@ -2409,7 +2409,7 @@ Lowe further advocated dividing current inmates into four classes with an equal 
 
 #### **Decarcerating a juvenile prison system**
 
-We have examined two strategies for decarceration: one based on availability of services in the community and the other on perceived safety of the public. A third approach to decarceration is illustrated by the unprecedented and creative experiment that occurred in the juvenile prison system in Massachusetts in 1972. [\[254\]](#page-235-3) It involves a rare combination of ingredients-not easily duplicated.
+We have examined two strategies for decarceration: one based on availability of services in the community and the other on perceived safety of the public. A third approach to decarceration is illustrated by the unprecedented and creative experiment that occurred in the juvenile prison system in Massachusetts in 1972. \[254\] It involves a rare combination of ingredients-not easily duplicated.
 
 In the beginning, there was no grand design or very much prior planning for closing down the juvenile training schools in Massachusetts. The ingredients present for permitting the decarceration to become a reality included: A governor who wanted a new and humane way of dealing with children committed to the state's care. Progressive legislation which created a Department of Youth Services (DYS) under a super agency of human services and empowered the DYS commissioner to place youth in any institution or program. Key media support. Active child advocate groups. A new, creative commissioner, Dr. Jerome Miller.
 
@@ -2460,7 +2460,7 @@ Beginning to identify the series of concrete acts and intermediate campaigns tha
 At least seven modes of decarcerating prison/jail populations can be identified. Some are long range goals, which require interim strategies:
 
 - 1. Abolish the system of bail and with it pretrial detention for all but the very few who, with predetermined criteria, could be considered a threat to public safety. By this reform jail population could be reduced approximately 50 percent.
-- 2. Abolish indeterminate sentencing and parole. This would drastically cut down prison populations if definite, shorter sentences were imposed. Over 140,000 incarcerated persons in federal and state prisons were eligible for parole in 1975, but only an estimated 49,000 to 56,000 prisoners were released on parole [\[255\],](#page-235-4) leaving about 90,000 prisoners in cages who could be on the street.
+- 2. Abolish indeterminate sentencing and parole. This would drastically cut down prison populations if definite, shorter sentences were imposed. Over 140,000 incarcerated persons in federal and state prisons were eligible for parole in 1975, but only an estimated 49,000 to 56,000 prisoners were released on parole \[255\], leaving about 90,000 prisoners in cages who could be on the street.
 - 3. Create a sentence review process to implement the release of the majority of prison population to the community, utilizing contractual services as needed.
 
 The following modes of early release do not involve systems change but are appropriate abolition strategies:
@@ -2476,11 +2476,11 @@ Like most prison reforms, the indeterminate sentence adds to rather than lessens
 
 The change in sentencing law occurred with the introduction of rehabilitative reforms and parole. Indeterminate sentences with minimum and maximum time, replaced sentences with definite numbers of years to he served. For instance, a person convicted of armed robbery who formerly might have received a definite sentence of ten years, under an indeterminate sentence law might receive "five to fifteen years"-a minimum term of five years before parole eligibility and a maximum of 15 years imprisonment. In practice the judge delegates an important portion of his penalty-fixing authority to the parole board.
 
-California and Washington have extreme forms of indeterminacy. In these states the courts have little sentencing power apart from granting probation. Almost every person sent to prison receives the maximum term prescribed by the legislature for the offense. The parole board investigates and provides a hearing for each prisoner during the first six months or year of confinement, after which it announces the minimum term which the prisoner must serve before parole will be considered.[\[256\]](#page-235-5)
+California and Washington have extreme forms of indeterminacy. In these states the courts have little sentencing power apart from granting probation. Almost every person sent to prison receives the maximum term prescribed by the legislature for the offense. The parole board investigates and provides a hearing for each prisoner during the first six months or year of confinement, after which it announces the minimum term which the prisoner must serve before parole will be considered.\[256\]
 
 ### **Indeterminate sentences unjust**
 
-According to one California ex-prisoners' group, [\[257\]](#page-235-6) indeterminate sentencing comes under widespread attack because it violates four basic principles of justice:
+According to one California ex-prisoners' group, \[257\] indeterminate sentencing comes under widespread attack because it violates four basic principles of justice:
 
 - 1. Lack of equity. Men and women do very different amounts of time for commission of the same crime. No psychiatrist, ex-prison guard, or any other human being can say with reasonable accuracy when a person is "rehabilitated."
 - 2. Lack of predictability. The uncertainty in a prisoner's mind as to when s/he will be released is a prime source of anxiety, frustration, bitterness and violence in prisons.
@@ -2524,11 +2524,11 @@ In 1975 there appeared to be a healthy movement developing toward abolishing ind
 
 #### **Maine's new law**
 
-On June 18, 1975 after two years of extensive study and debate, Governor James B. Longley signed a new criminal code into law, making Maine the first state in the nation to abolish indeterminate sentences and parole. [\[258\]](#page-235-7) Acclaimed by reformists, the provisions of the oft-amended new code took effect May 1, 1976.
+On June 18, 1975 after two years of extensive study and debate, Governor James B. Longley signed a new criminal code into law, making Maine the first state in the nation to abolish indeterminate sentences and parole. \[258\] Acclaimed by reformists, the provisions of the oft-amended new code took effect May 1, 1976.
 
 Though reforms of this nature are usually associated with progressive prison change groups, Maine's action was prompted in part by a backlash against a liberal parole board that often released up to 97 percent of the prisoners who appeared for their first parole hearing. Critics, reacting with alarm to parole board leniency, accused the five-member panel of unilaterally converting Maine's minimum/ maximum sentences to straight minimum terms, and releasing prisoners too soon. Thus, the handwriting was on the wall: motivation for the new criminal code leaned toward making prisoners spend more rather than less time in prison.
 
-In the name of reform, Maine now has a determinate sentencing system which is not determinate and an "abolished" parole that will continue to see prisoners released into the community under some form of "correctional" supervision. In return, it seems inevitable that prisoners will serve much longer sentences.[\[259\]](#page-235-8)
+In the name of reform, Maine now has a determinate sentencing system which is not determinate and an "abolished" parole that will continue to see prisoners released into the community under some form of "correctional" supervision. In return, it seems inevitable that prisoners will serve much longer sentences.\[259\]
 
 By examining some highlights of the new code we begin to perceive the problems:
 
@@ -2541,7 +2541,7 @@ While parole board discretion is eliminated, judicial discretion remains. Two pe
 
 The prisons also retain considerable discretion under the new law because "good time" is retained. That is, for good behavior-as defined by the prison-the prisoner may be excused from serving up to one-third of the sentence. Another area of discretion vested in the prisons is that of deciding which prisoners will be allowed to take part in work-release or education-release programs.
 
-Thus with the DMHC becoming a semi-parole agency, and-as prisoners and exprisoners expect—Maine lawbreakers doing more prison time for the same offense, the Maine reform "has failure built into it ... a sobering example of what could go wrong" with a well-intentioned reform.[\[260\]](#page-235-9)
+Thus with the DMHC becoming a semi-parole agency, and-as prisoners and exprisoners expect—Maine lawbreakers doing more prison time for the same offense, the Maine reform "has failure built into it ... a sobering example of what could go wrong" with a well-intentioned reform.\[260\]
 
 ## **The struggle in California**
 
@@ -2549,7 +2549,7 @@ The history of California's determinate sentencing bill provides an example of t
 
 Indeterminate sentences in California applied to almost all felonies except capital crimes, such as first-degree murder, for which the death penalty or life imprisonment is mandatory. First-degree robbery, for instance, was punishable by five years to life, first-degree burglary by one year to life and second-degree burglary by one to 15 years.
 
-As a consequence, the indeterminate sentence in California has been under attack for a decade. It was cited as one of the major causes of uncertainty, despair and violence among prisoners. The Adult Authority's parole decisions, often reached in a 15 minute hearing, reflected the composition of the board: ex-wardens, narcotic agents, retired district attorneys and police officers.[\[261\]](#page-235-10) The end result of a reform originally envisioned as a way to decrease periods of incarceration was 24 to 40 months more time served.
+As a consequence, the indeterminate sentence in California has been under attack for a decade. It was cited as one of the major causes of uncertainty, despair and violence among prisoners. The Adult Authority's parole decisions, often reached in a 15 minute hearing, reflected the composition of the board: ex-wardens, narcotic agents, retired district attorneys and police officers.\[261\] The end result of a reform originally envisioned as a way to decrease periods of incarceration was 24 to 40 months more time served.
 
 ### **Administrative decarceration**
 
@@ -2557,11 +2557,11 @@ Beginning in April 1975, several factors produced a policy of massive decarcerat
 
 After the California Supreme Court in several cases required the Adult Authority to set primary terms and release dates, Governor Edmund Brown, Jr. approved a new policy and the Adult Authority began setting firm release dates for all 20,000 men (the policy did not affect women felons) in California institutions. Supposedly, a prisoners' performance in institutional programs would no longer have any bearing on release date.
 
-The dates computed for the prisoners' release were based on elaborate tables that detailed the time served for each category of offense over the last several years. Once fixed by the agency, a prisoner's release date would be adversely affected only if he became involved in a major incident while in prison. [\[262\]](#page-235-11)
+The dates computed for the prisoners' release were based on elaborate tables that detailed the time served for each category of offense over the last several years. Once fixed by the agency, a prisoner's release date would be adversely affected only if he became involved in a major incident while in prison. \[262\]
 
 In ten months, nearly 11,000 prisoners were released on parole, twice the number set free in all of 1974. The short term impact of this plan was a dramatic reduction in the size of the prison population, which had swelled as a result of former Governor Reagan's policies. Some prison units were closed down.
 
-The decarceration policy was denounced by the state's Attorney General, many district attorneys and police chiefs, the California "Correction" Officers Association and several state legislators. They called for an end to California's controversial indeterminate sentencing policy and a return to fixed prison terms, as well as the abolition of the Adult Authority. [\[263\]](#page-235-12)
+The decarceration policy was denounced by the state's Attorney General, many district attorneys and police chiefs, the California "Correction" Officers Association and several state legislators. They called for an end to California's controversial indeterminate sentencing policy and a return to fixed prison terms, as well as the abolition of the Adult Authority. \[263\]
 
 The depopulation created the false media impression that the indeterminate sentence problem had been solved administratively. Actually, the Adult Authority set terms many months higher than proposed legislation, Senate Bill 42.
 
@@ -2585,7 +2585,7 @@ If prisoner-related groups coalesce and begin to find answers to these questions
 
 One California coalition has proposed a model sentencing law. Its strength is its critique of California's present sentencing system. We regard it as an exercise that all local groups should undertake, but we do not specifically endorse all of its proposed recommendations.
 
-The proposal limits sentences for all unviolent crimes on the basis that long term incarceration has a damaging effect to both society and the lawbreaker. Only in cases of serious bodily harm do proposed sentences exceed two years. The plan moves toward the restraint of state power, equality in sentencing and the redefinition of some crimes so that sentencing can reflect the degree of harm done. This proposal can serve as an example of how an interim model can be structured. Local groups working to abolish indeterminate sentencing and parole can alter it to suit their own needs.[\[264\]](#page-235-13)
+The proposal limits sentences for all unviolent crimes on the basis that long term incarceration has a damaging effect to both society and the lawbreaker. Only in cases of serious bodily harm do proposed sentences exceed two years. The plan moves toward the restraint of state power, equality in sentencing and the redefinition of some crimes so that sentencing can reflect the degree of harm done. This proposal can serve as an example of how an interim model can be structured. Local groups working to abolish indeterminate sentencing and parole can alter it to suit their own needs.\[264\]
 
 #### ARTICLE IV. SENTENCING CATEGORIES
 
@@ -2681,9 +2681,9 @@ No matter how much money you spend on the parole board and parole system, it sti
 
 —Charles Goodell, testimony before U. S. Congress, subcommittee of Judiciary, 1972
 
-Parole abolition is among the most common demands of prison change groups. Among them, The Citizens' Inquiry on Parole and Criminal Justice, in their 300-page comprehensive Report on New York Parole [\[265\]](#page-235-14) declare parole to be baseless in theory, "a tragic failure" in practice. They find no substantial evidence that riskpredictions on which parole release decisions are based are reliable. They document instances of serious injustice and sometimes public harm, leading them to recommend the ultimate abolition of parole.
+Parole abolition is among the most common demands of prison change groups. Among them, The Citizens' Inquiry on Parole and Criminal Justice, in their 300-page comprehensive Report on New York Parole \[265\] declare parole to be baseless in theory, "a tragic failure" in practice. They find no substantial evidence that riskpredictions on which parole release decisions are based are reliable. They document instances of serious injustice and sometimes public harm, leading them to recommend the ultimate abolition of parole.
 
-Subsequently, The Citizens Inquiry prepared A Proposed Interim Parole System for the State of New York. [\[266\]](#page-235-15) This series of short term recommendations can prove useful until long range goals are attainable. While not a prison abolition document, portions are worthwhile for abolitionists to examine.
+Subsequently, The Citizens Inquiry prepared A Proposed Interim Parole System for the State of New York. \[266\] This series of short term recommendations can prove useful until long range goals are attainable. While not a prison abolition document, portions are worthwhile for abolitionists to examine.
 
 The interim system is presented in a form from which legislation can easily be drafted and has three general aims:
 
@@ -2709,7 +2709,7 @@ Rooted in the reality of the present political climate, the proposal provides a 
 
 #### **Prisoners view parole**
 
-The parole board is a failure. The parole system is a failure. Parole is part of the indeterminate and the "reformatory" sentencing structure which must be abolished. Every prisoner knows that parole is a major coercive factor in prison life. In the long range, prisoners want the parole system abolished. But most prisoners will not support abolition of parole until sentences are drastically reduced to short flat terms. For those presently imprisoned, parole, with all its many drawbacks, represents one of the few alternatives to the cage -- the way out. "Anything that tended to shorten the time one spent behind the walls [is] a step in the right direction." [\[267\]](#page-235-16)
+The parole board is a failure. The parole system is a failure. Parole is part of the indeterminate and the "reformatory" sentencing structure which must be abolished. Every prisoner knows that parole is a major coercive factor in prison life. In the long range, prisoners want the parole system abolished. But most prisoners will not support abolition of parole until sentences are drastically reduced to short flat terms. For those presently imprisoned, parole, with all its many drawbacks, represents one of the few alternatives to the cage -- the way out. "Anything that tended to shorten the time one spent behind the walls is] a step in the right direction." [\[267\]
 
 As decarceration modes are implemented, substantial numbers of released prisoners will require community support and resources of an unparalleled nature. When street parole is used as a vehicle for early release, abolitionists support community-controlled parole, joining with The Action Committee of Walpole State Prison:
 
@@ -2725,34 +2725,34 @@ Once a decision is reached to begin decarcerating the majority of prisoners, a p
 
 While each state or the federal system would probably devise a different decarceration process, national organizations such as the American Bar Association, the National Council on Crime and Delinquency and a coalition of exprisoner groups could lend impetus to the movement to decarcerate by designing a variety of workable models.
 
-Amendments already have been recommended to empower appeals courts to review sentences arid to modify or set them aside for further proceedings.[\[268\]](#page-235-17) Similar amendments could extend the powers of the appellate courts to review and reduce sentences, releasing prisoners to the community. Sentences could be litigated as excessive, as unequal, or on similar grounds. Criteria, guidelines and procedures for review and release would be carefully determined, especially those governing the few who could be considered a threat.
+Amendments already have been recommended to empower appeals courts to review sentences arid to modify or set them aside for further proceedings.\[268\] Similar amendments could extend the powers of the appellate courts to review and reduce sentences, releasing prisoners to the community. Sentences could be litigated as excessive, as unequal, or on similar grounds. Criteria, guidelines and procedures for review and release would be carefully determined, especially those governing the few who could be considered a threat.
 
 ## **Relieve prison overcrowding**
 
 All over the United States, prisons are bursting at their seams. As of January 1, 1976 approximately 250,000 people were in state and federal prisons and the nations' jails were filled to overflowing. This is an 11 percent increase over the previous year's population, the largest one year rise on record and the highest population ever.
 
-It may well be that the crisis of overpopulation will dramatize the dilemma for states and taxpayers, forcing a choice between the bankrupting costs of imprisonment and a coherent policy of reducing prison populations. As stated by William D. Leeke, Director of the Southern Carolina Department of Corrections, "Many of you won't like this but the hard line on law enforcement is forcing us into more liberal policies. You can only cram so many people into prison." [\[269\]](#page-235-18)
+It may well be that the crisis of overpopulation will dramatize the dilemma for states and taxpayers, forcing a choice between the bankrupting costs of imprisonment and a coherent policy of reducing prison populations. As stated by William D. Leeke, Director of the Southern Carolina Department of Corrections, "Many of you won't like this but the hard line on law enforcement is forcing us into more liberal policies. You can only cram so many people into prison." \[269\]
 
 Overcrowded conditions, particularly in southern states, have precipitated a number of legal orders, formal and informal administrative actions and liberalized parole procedures to reduce prison populations. Such actions demonstrate and reveal existing mechanisms for depopulation.
 
 - • The Georgia Board of Pardons and Paroles, for instance, due to a crisis in overcrowding, ordered reduced sentences for 5,000 of the state's 11,000 inmates. Sentences were reduced by an average of six months for most prisoners serving time for property or other unviolent crimes such as theft or burglary. Approximately 500 prisoners were rapidly freed and all 5,000 will benefit from accelerated early release under the order.
 - To relieve overcrowding, South Carolina is making use of its Youthful Offenders Act of 1968, a law allowing early release of 17-thru 21-year olds by shortening each sentence on an average of three months.
-- In North Carolina, the General Assembly adopted legislation requiring the early parole of all misdemeanants with less than a one year sentence unless there was "reasonable probability" the parole would be violated or the release would be "incompatible with the welfare of society."[\[270\]](#page-235-19)
-- • In Alabama, the executive director of the Parole Board said the Board was releasing "borderline cases." [\[271\]](#page-235-20)
+- In North Carolina, the General Assembly adopted legislation requiring the early parole of all misdemeanants with less than a one year sentence unless there was "reasonable probability" the parole would be violated or the release would be "incompatible with the welfare of society."\[270\]
+- • In Alabama, the executive director of the Parole Board said the Board was releasing "borderline cases." \[271\]
 
-At a January 1976 meeting "Crisis in Corrections," sponsored by the Southern Governors Conference, a task force of southern prison officials recommended a broad program of liberal reform to relieve the crisis of prison overcrowding. The recommendations included the following decarceration statement: "Efforts should be made to examine current inmate populations and determine those inmates, not a threat to the community, who could be released from institutional settings. " [\[272\]](#page-235-21)
+At a January 1976 meeting "Crisis in Corrections," sponsored by the Southern Governors Conference, a task force of southern prison officials recommended a broad program of liberal reform to relieve the crisis of prison overcrowding. The recommendations included the following decarceration statement: "Efforts should be made to examine current inmate populations and determine those inmates, not a threat to the community, who could be released from institutional settings. " \[272\]
 
-The issue of overcrowding has increased the use of other excarcerating practices such as judges suspending or reducing sentences and the use of alternatives to prison. These include probation, restitution and programs that divert first offenders out of the criminal (in)justice systems into work and educational-release programs. [\[273\]](#page-235-22)
+The issue of overcrowding has increased the use of other excarcerating practices such as judges suspending or reducing sentences and the use of alternatives to prison. These include probation, restitution and programs that divert first offenders out of the criminal (in)justice systems into work and educational-release programs. \[273\]
 
 These preliminary responses to overcrowding, clearly indicate the systems' potential for decarceration when conditions force such action.
 
 Recent rulings of federal judges to reduce prison populations offer some potential for depopulation thru the legal route. Arkansas, Alabama, Florida, Louisiana and Mississippi are under court order to reduce crowding and relieve other problems. Similar suits are pending in Tennessee and more litigation is expected.
 
-The strongest ruling so far occurred in Alabama [\[274\]](#page-235-23) after two federal judges in August 1975 ordered state prison officials not to accept any new prisoners other than escapees or parole violators until the prison population was reduced from the 50 percent above design capacity level. Incorporating that ruling, in January 1976, federal Judge Frank M. Johnson, Jr. handed down, for the first time, a comprehensive set of minimum constitutional standards that must be maintained for the operation of a state prison. Ruling that mere confinement in the Alabama system violated the 8th Amendment (cruel and unusual punishment), he set 44 guidelines to require a graduated reduction of 50 percent while doubling the prison staff. He also indicated that if physical conditions in the state's four main penal institutions were not corrected within a year, he might close them.
+The strongest ruling so far occurred in Alabama \[274\] after two federal judges in August 1975 ordered state prison officials not to accept any new prisoners other than escapees or parole violators until the prison population was reduced from the 50 percent above design capacity level. Incorporating that ruling, in January 1976, federal Judge Frank M. Johnson, Jr. handed down, for the first time, a comprehensive set of minimum constitutional standards that must be maintained for the operation of a state prison. Ruling that mere confinement in the Alabama system violated the 8th Amendment (cruel and unusual punishment), he set 44 guidelines to require a graduated reduction of 50 percent while doubling the prison staff. He also indicated that if physical conditions in the state's four main penal institutions were not corrected within a year, he might close them.
 
 The judge's order set further precedents by creating an enforcement mechanisma citizen's review board to monitor improvements and report to the court. Moreover, he warned state officials that they could be held personally liable for monetary damages if they failed to comply.
 
-How far the court will go in forcing depopulation is difficult to access. Alvin Bronstein, American Civil Liberties Union's National Prison Project's lawyer who assisted in litigating the Alabama suit, "hopes that in the Alabama case the judge will ultimately find the conditions so intolerable, and so expensive to remedy, that he will order at least two of the state's prisons closed and the inmates released .... [He] admits that even if that happened, it would be a rare case." [\[275\]](#page-235-24)
+How far the court will go in forcing depopulation is difficult to access. Alvin Bronstein, American Civil Liberties Union's National Prison Project's lawyer who assisted in litigating the Alabama suit, "hopes that in the Alabama case the judge will ultimately find the conditions so intolerable, and so expensive to remedy, that he will order at least two of the state's prisons closed and the inmates released .... He] admits that even if that happened, it would be a rare case." [\[275\]
 
 Abolitionists can provide and stimulate needed community support for favorable judges and other decision makers. Additionally, we can bring legal prisoneradvocates together with prisoners who wish to file actions against prison conditions caused by overcrowding and other oppressive situations. The creation of re-entry support groups and services in the community will also encourage depopulation.
 
@@ -2771,13 +2771,13 @@ Many reformers see parole/restitution programs as a first step. They look forwar
 
 As it presently operates, restitution involves triple jeopardy: the wrong is paid for by serving time, by fulfilling "treatment" requirements and by paying money. No doubt, some intended lessons are learned, some new insights occur to both victim and victimizer-hut these beneficial side effects are coincidental.
 
-Data indicating how many prisoners would be willing to make restitution is limited. A study of 88 prisoners in Florida in 1962 was limited to those who had committed major violent crimes. [\[276\]](#page-235-25) Of those convicted of aggravated assault, 54.5 percent indicated willingness to make restitution; theft with violence, 55.4 percent; and criminal homicide, 94.7 percent. Many of those convicted of criminal homicide were on death row, so they might have felt drawn to restitution due to the proximity of death. On the other hand, many of those convicted of assault and theft indicated that they felt they were already paying for their wrongdoing by imprisonment.
+Data indicating how many prisoners would be willing to make restitution is limited. A study of 88 prisoners in Florida in 1962 was limited to those who had committed major violent crimes. \[276\] Of those convicted of aggravated assault, 54.5 percent indicated willingness to make restitution; theft with violence, 55.4 percent; and criminal homicide, 94.7 percent. Many of those convicted of criminal homicide were on death row, so they might have felt drawn to restitution due to the proximity of death. On the other hand, many of those convicted of assault and theft indicated that they felt they were already paying for their wrongdoing by imprisonment.
 
 Minnesota, Georgia, Oregon, Massachusetts and Iowa are experimenting with restitution programs inside their criminal (in)justice systems. The idea is beginning to grow as a "correctional" concept and the restitution programs do not seem to lack candidates.
 
 #### **The Minnesota Restitution Center**
 
-More than 100 prisoners participated in the first restitution contract program at the Minnesota Restitution Center. [\[277\]](#page-235-26) During its first three years, they repaid \$16,000 to 300 victims of their crimes. Originally started in 1972 with a LEAA grant, it is presently funded by the state of Minnesota and housed on several floors of a downtown YMCA in Minneapolis.
+More than 100 prisoners participated in the first restitution contract program at the Minnesota Restitution Center. \[277\] During its first three years, they repaid \$16,000 to 300 victims of their crimes. Originally started in 1972 with a LEAA grant, it is presently funded by the state of Minnesota and housed on several floors of a downtown YMCA in Minneapolis.
 
 The Minnesota Corrections Authority, the state's parole agency, screens those who will be paroled to the center. Because screening is strict, the center often operates below its capacity of 22 places. "Professional" criminals, violent criminals and those who used weapons are excluded from the program.
 
@@ -2809,7 +2809,7 @@ Abolitionists advocate shifting responsibility for parole restitution contracts 
 
 ## **Parole contracts**
 
-The use of parole contracts has spread thru the "correctional" systems with startling speed. In one year, Mutual Agreement Programming (MAP) [\[278\]](#page-235-27) grew from use in three states to ten, with many more contemplating its use:
+The use of parole contracts has spread thru the "correctional" systems with startling speed. In one year, Mutual Agreement Programming (MAP) \[278\] grew from use in three states to ten, with many more contemplating its use:
 
 - • Maryland, District of Columbia, Florida, Georgia, Maine, Massachusetts, Michigan, Minnesota, North Carolina and Wisconsin are using MAP contracts.
 - Delaware, New Jersey and South Carolina are working to start programs.
@@ -2823,7 +2823,7 @@ The basic ingredient of MAP is a written, legally binding contract between the p
 - Contracts are generally for about six months.
 - • In some states the contracts provide for an earlier release date than would be likely under the regular parole process. In other states the release date is set by law.
 
-Maryland has combined contract parole with a voucher system for all women prisoners. They may get up to \$3,000 in vouchers to buy services, largely outside the prison, that are needed to complete their contracts.[\[279\]](#page-235-28)
+Maryland has combined contract parole with a voucher system for all women prisoners. They may get up to \$3,000 in vouchers to buy services, largely outside the prison, that are needed to complete their contracts.\[279\]
 
 In Massachusetts contracts are tied to restitution for the victim of a prisoner's crime; the victim helps negotiate the parole restitution contract, which includes a provision for payments that begin when the prisoner is on work-release.
 
@@ -2831,7 +2831,7 @@ North Carolina's contracts are signed by furniture manufacturers who promise to 
 
 MAP has attracted a wide spectrum of critics. Administrators are criticized for using MAP to impose arbitrary and senseless requirement upon prisoners. Parole officials sometimes oppose the program for fear their discretionary powers will erode. Some state attorneys advise against the program because of the possibility of lawsuits over contracts.
 
-In a candid evaluation of the MAP program [\[280\]](#page-235-29) in three states, published in 1975, James Robison concluded:
+In a candid evaluation of the MAP program \[280\] in three states, published in 1975, James Robison concluded:
 
 - At release, prisoners judged that MAP had provided them the greatest service thru more certainty of release, helping them plan for it and the opportunity for earlier release. They felt there was little difference in improved staff interest, access to prison programs or quality of those programs.
 - Contract cancellations were almost always the result of disciplinary infractions rather than the prisoners' failure to satisfy work or training requirements; prisoner withdrawals were rare.
@@ -2840,7 +2840,7 @@ In a candid evaluation of the MAP program [\[280\]](#page-235-29) in three state
 
 If the trappings of "rehabilitation" and "correctional" gimmickry can be divorced from the program, MAP can be viewed as an interim procedure for reducing indeterminacy in sentencing. The contract forces the parole board to set a release date and in some cases this can mean earlier release. As Robison suggests, a collective extension of the concept of contracts could institute prisoner unions inside prisons, bringing about authentic bargaining power.
 
-Fred Cohen, [\[281\]](#page-235-30) in his perceptive foreword to the MAP evaluation report, speaks for abolitionists when he says:
+Fred Cohen, \[281\] in his perceptive foreword to the MAP evaluation report, speaks for abolitionists when he says:
 
 The conceptual seeds for some reform may be here. The very notion of a prisoner, not long ago described as a slave of the state, sitting down to negotiate a type of performance contract can be viewed as having considerable ameliorative potential. Making such a program truly voluntary would enhance the appeal. If certainty on time served is not to be achieved at the time of judicial sentencing ... then post-sentencing certainty may be the best we can get.
 
@@ -2870,9 +2870,9 @@ Ideas for moving away from the notion of imprisonment are not new-they have been
 
 Recently, two prestigious task forces, after intensive research into the failure of prisons and the validity of alternatives, proposed a series of excarcerating procedures. While not yet implemented, both reports are notable for their scope and conclusions and can be useful to abolitionists in excarceration campaigns.
 
-The National Advisory Commission on Criminal Justice Standards and Goals, in their report Corrections, recommends that each "correctional" system begin immediately to develop a systematic plan with time-table and scheme for implementing a range of alternatives to institutionalization. [\[282\]](#page-235-31) The Commission's guiding principles advocate the most limited possible use of institutionalization: (1) no individual who does not absolutely require institutionalization for the protection of others should be confined, and (2) no individual should be subjected to more supervision or control than s/he requires.
+The National Advisory Commission on Criminal Justice Standards and Goals, in their report Corrections, recommends that each "correctional" system begin immediately to develop a systematic plan with time-table and scheme for implementing a range of alternatives to institutionalization. \[282\] The Commission's guiding principles advocate the most limited possible use of institutionalization: (1) no individual who does not absolutely require institutionalization for the protection of others should be confined, and (2) no individual should be subjected to more supervision or control than s/he requires.
 
-After more than a year's intensive research and study, in 1972 The Final Report to the Governor of the Citizen's Study Committee on Offender Rehabilitation, "unequivocally established as its most fundamental priority the replacement of Wisconsin's existing institutionalized corrections system with a community based, non-institutional system." [\[283\]](#page-235-32) The Study Committee, comprised of a broad range of individuals including ex-prisoners, placed particular emphasis on community services suited to the individual needs of the lawbreaker. But, the primary value of the report in addition to its scope and detailed proposals, is its advocacy of community control of programs rather than control by the Division of "Corrections."
+After more than a year's intensive research and study, in 1972 The Final Report to the Governor of the Citizen's Study Committee on Offender Rehabilitation, "unequivocally established as its most fundamental priority the replacement of Wisconsin's existing institutionalized corrections system with a community based, non-institutional system." \[283\] The Study Committee, comprised of a broad range of individuals including ex-prisoners, placed particular emphasis on community services suited to the individual needs of the lawbreaker. But, the primary value of the report in addition to its scope and detailed proposals, is its advocacy of community control of programs rather than control by the Division of "Corrections."
 
 #### **Paradox of interim strategies**
 
@@ -2905,40 +2905,40 @@ We cite eight specific modes of excarceration, some for the long range and other
 
 ## **Decriminalization**
 
-The notion that we live in an "overcriminalized" society has long been acknowledged.[\[284\]](#page-235-33) Penal code legislation has penetrated further and further into the spheres of private morality and social welfare, proving ineffective and corruptive, making hypocrites of us all.[\[285\]](#page-235-34)
+The notion that we live in an "overcriminalized" society has long been acknowledged.\[284\] Penal code legislation has penetrated further and further into the spheres of private morality and social welfare, proving ineffective and corruptive, making hypocrites of us all.\[285\]
 
 The process of decriminalization means simply to wipe certain laws off the books, eliminating criminal sanctions by the stroke of a legislative pen. v
 
 The crimes most frequently considered for decriminalization and upon which we will focus are those which are "victimless." They are defined as:
 
-... offenses that do not result in anyone's feeling that s/he has been injured so as to impel him/her to bring the offense to the attention of the authorities .[\[286\]](#page-235-35)
+... offenses that do not result in anyone's feeling that s/he has been injured so as to impel him/her to bring the offense to the attention of the authorities .\[286\]
 
-... behavior not injurious to others but made criminal by statutes based on moral standards which disapprove of certain forms of behavior while ignoring others that are comparable.[\[287\]](#page-236-0)
+... behavior not injurious to others but made criminal by statutes based on moral standards which disapprove of certain forms of behavior while ignoring others that are comparable.\[287\]
 
 The essential factor is that there is no victim to bring complaint. Three categories emerge within this definition: moral statutes, illness statutes and nuisance statutes.
 
-Victimless crimes may be irritating, annoying, or troublesome in general, but they are not really injurious to anyone in particular.[\[288\]](#page-236-1) They are "crimes" because the law says they are "crimes." Among those usually cited are noncommercial gambling, prostitution, "deviant" sexual acts in private between consenting adults, public intoxication, possession, sale and distribution of illegal drugs, "blue laws" against doing business on Sundays, loitering, disorderly conduct and vagrancy.
+Victimless crimes may be irritating, annoying, or troublesome in general, but they are not really injurious to anyone in particular.\[288\] They are "crimes" because the law says they are "crimes." Among those usually cited are noncommercial gambling, prostitution, "deviant" sexual acts in private between consenting adults, public intoxication, possession, sale and distribution of illegal drugs, "blue laws" against doing business on Sundays, loitering, disorderly conduct and vagrancy.
 
-Other behavior that could best be handled thru procedures outside the criminal (in)justice systems are juvenile statutes which include truancy or running away or "incorrigible," "stubborn" or "ungovernable" behavior. Most juvenile courts have become "in essence criminal courts with criminal type dispositions."[\[289\]](#page-236-2) Though juvenile proceedings are intended to be civil in nature, commitment to an institution on a delinquency petition continues to carry much the same stigma as a criminal conviction.[\[290\]](#page-236-3)
+Other behavior that could best be handled thru procedures outside the criminal (in)justice systems are juvenile statutes which include truancy or running away or "incorrigible," "stubborn" or "ungovernable" behavior. Most juvenile courts have become "in essence criminal courts with criminal type dispositions."\[289\] Though juvenile proceedings are intended to be civil in nature, commitment to an institution on a delinquency petition continues to carry much the same stigma as a criminal conviction.\[290\]
 
 #### **Why decriminalize?**
 
 Abolitionists advocate drastically limiting the role of criminal law. We do this not because we wish to encourage certain behavior, but because we realize that criminal sanctions are not an effective way of dealing with social problems.
 
-There are far too many laws on the books. [\[291\]](#page-236-4) It would be prohibitively expensive to enforce them all. This results in unjust and arbitrary law enforcement. Powerless persons are imprisoned while more powerful persons go free. Blacks and poor people bear the brunt of unequal law enforcement.
+There are far too many laws on the books. \[291\] It would be prohibitively expensive to enforce them all. This results in unjust and arbitrary law enforcement. Powerless persons are imprisoned while more powerful persons go free. Blacks and poor people bear the brunt of unequal law enforcement.
 
 Enforcing morality has no rightful place in our penal codes. Morality cannot be coerced thru law. A democratic society should tolerate a wide range of individual differences. A person's right to do as s/he wishes should be respected as long as s/ he does not infringe upon the rights of others.
 
-A system "bursting at its seams" is perhaps the most visible effect of over criminalization. Almost 95 percent of the short term prisoners in the nation's jails are there for acts we would decriminalize. Two million persons are arrested annually for drunkenness alone and more than three million when related vagrancy and loitering charges are included. And the costs are enormous: [\[292\]](#page-236-5)
+A system "bursting at its seams" is perhaps the most visible effect of over criminalization. Almost 95 percent of the short term prisoners in the nation's jails are there for acts we would decriminalize. Two million persons are arrested annually for drunkenness alone and more than three million when related vagrancy and loitering charges are included. And the costs are enormous: \[292\]
 
 - • California alone spent \$100 million during 1970 to enforce laws against possession of marijuana.
 - U. S. News and World Report estimates that victimless crimes accounted for \$20 billion of the nation's \$51 billion annual crime bill, which includes the cost of law enforcement, losses from drug-related thefts, and illicit gains from gambling, prostitution and narcotics.
 
 - Executive Director of the National Alliance for Safer Cities in testimony before a committee of the New York State Assembly estimated that, "Every man, woman and child in the U. S. suffers a tax of more than \$100 a year for inclusion of non-victim crime in the criminal justice system."
 
-Over criminalization encourages the wide use of discretionary power in law enforcement. Because there is no complainant, police resort to questionable means of enforcement. Investigative techniques used to gather evidence are often immoral and sometimes illegal. These include entrapment, use of informers, wiretapping and infringement of constitutional rights such as illegal search and seizure, invasion of the right to privacy and self incrimination. [\[293\]](#page-236-6)
+Over criminalization encourages the wide use of discretionary power in law enforcement. Because there is no complainant, police resort to questionable means of enforcement. Investigative techniques used to gather evidence are often immoral and sometimes illegal. These include entrapment, use of informers, wiretapping and infringement of constitutional rights such as illegal search and seizure, invasion of the right to privacy and self incrimination. \[293\]
 
-The enforcement of victimless crimes also encourages corruption. Graft and payoffs are frequently made by neighborhood numbers rackets [\[294\]](#page-236-7) and places of prostitution. Liaisons extend beyond the police to the larger profiteers of organized crime. Crime syndicates manage to soak up much of the money flowing thru illicit "industries" such as gambling and drugs.
+The enforcement of victimless crimes also encourages corruption. Graft and payoffs are frequently made by neighborhood numbers rackets \[294\] and places of prostitution. Liaisons extend beyond the police to the larger profiteers of organized crime. Crime syndicates manage to soak up much of the money flowing thru illicit "industries" such as gambling and drugs.
 
 Victimless crimes are also linked to secondary crimes which do have victims. For example, heroin users frequently support their habits by such crimes as robbery and burglary. Police estimate that 75 percent of the burglaries in New York City are drug-related. This is an additional cost of criminalizing drug use.
 
@@ -2946,37 +2946,37 @@ Though decriminalization has been increasingly advocated for the last decade, on
 
 #### **Under criminalization**
 
-While we advocate decriminalizing a range of individual behaviors, we also must point to the injustice of under criminalizing certain dangerous collective behaviors. Collective criminality reflects institutional assaults on whole social groups or on the public. Examples include the violence of racism, starvation, war and corporate pollution. These antisocial acts produce victimization in far greater amount than other classes of crimes. [\[295\]](#page-236-8) Yet in many instances these acts do not violate any criminal code. The criminal (in)justice systems, with the aid of the media, focus mainly on individual crimes of the poor, virtually excluding collective criminality.
+While we advocate decriminalizing a range of individual behaviors, we also must point to the injustice of under criminalizing certain dangerous collective behaviors. Collective criminality reflects institutional assaults on whole social groups or on the public. Examples include the violence of racism, starvation, war and corporate pollution. These antisocial acts produce victimization in far greater amount than other classes of crimes. \[295\] Yet in many instances these acts do not violate any criminal code. The criminal (in)justice systems, with the aid of the media, focus mainly on individual crimes of the poor, virtually excluding collective criminality.
 
 ### **Decriminalizing prostitution**
 
-Since the laws against prostitution attempt to regulate private sexual activity of willingly participating adults, they clearly violate the "right to privacy." This "encompasses the constitutional right of the individual to control the use and function of his or her own body ...." [\[296\]](#page-236-9) It is the right of the individual, married or single, to be free from unwarranted intrusion by the government.
+Since the laws against prostitution attempt to regulate private sexual activity of willingly participating adults, they clearly violate the "right to privacy." This "encompasses the constitutional right of the individual to control the use and function of his or her own body ...." \[296\] It is the right of the individual, married or single, to be free from unwarranted intrusion by the government.
 
 Related laws used to arrest prostitutes are constitutionally questionable. The due process clause of the 14th Amendment is often violated by use of vaguely written statutes against loitering, disorderly conduct, and obstructing the sidewalk. Reputation, past record or presence in an area where prostitution is known to be practiced are often grounds for arrest.
 
-As in all crimes, enforcement patterns are selective and discriminatory by race and class. It is seven times more likely that prostitution arrests will involve Black women. Most customers, however, are white, middle class men between the ages of 30 and 60. [\[297\]](#page-236-10)
+As in all crimes, enforcement patterns are selective and discriminatory by race and class. It is seven times more likely that prostitution arrests will involve Black women. Most customers, however, are white, middle class men between the ages of 30 and 60. \[297\]
 
-Because of selective enforcement, only a handful of all prostitutes are arrested. The estimated costs of processing thru the criminal (in)justice systems for prostitution approach \$10 million a year \$100-\$175 per arrest. [\[298\]](#page-236-11)
+Because of selective enforcement, only a handful of all prostitutes are arrested. The estimated costs of processing thru the criminal (in)justice systems for prostitution approach \$10 million a year \$100-\$175 per arrest. \[298\]
 
-Enforcement is usually only against women involved in prostitution, although both parties to the agreement are equally consenting. [\[299\]](#page-236-12) The discrimination based solely on sex blatantly denies the women the right to equal protection. Furthermore, in the rare instances when "johns" are arrested, they are held only briefly, possibly for testifying against the women, or receive considerably lower penalties than the women. [\[300\]](#page-236-13)
+Enforcement is usually only against women involved in prostitution, although both parties to the agreement are equally consenting. \[299\] The discrimination based solely on sex blatantly denies the women the right to equal protection. Furthermore, in the rare instances when "johns" are arrested, they are held only briefly, possibly for testifying against the women, or receive considerably lower penalties than the women. \[300\]
 
-In D. C. and other places, where prostitution itself is not a crime, solicitation (an exchange of words) constitutes the offense. This, in effect, punishes someone "for soliciting another to commit an act which is itself not a crime." [\[301\]](#page-236-14) Criminalizing this verbal offer violates freedom of speech rights.
+In D. C. and other places, where prostitution itself is not a crime, solicitation (an exchange of words) constitutes the offense. This, in effect, punishes someone "for soliciting another to commit an act which is itself not a crime." \[301\] Criminalizing this verbal offer violates freedom of speech rights.
 
 Universally, prostitution is not widely prohibited; the U. S. is one of the few nations in which prostitution is illegal. (Only Nevada and some places in Arizona provide for local option.)
 
-The prostitute is a frequent victim of related crimes, especially assault. Because her profession is outside the law, she is easily victimized. According to one study, 75 percent of prostitutes have experienced injuries; 64 percent by customers, 20 percent by police and 16 percent by pimps. [\[302\]](#page-236-15)
+The prostitute is a frequent victim of related crimes, especially assault. Because her profession is outside the law, she is easily victimized. According to one study, 75 percent of prostitutes have experienced injuries; 64 percent by customers, 20 percent by police and 16 percent by pimps. \[302\]
 
 We favor decriminalization of prostitution because regulation would invite many of the abuses of the present system. Licensing prostitutes would extend governmental intrusion into consensual adult activity rather than curbing it.
 
 **Empowerment**. Some prostitutes are beginning to organize for their rights, most notably COYOTE (Call Off Your Old Tired Ethics) and SCAPEGOAT.
 
-COYOTE has focused primarily on the decriminalization effort in California and has developed strategies for economic independence. [\[303\]](#page-236-16) SCAPEGOAT, a relatively new group in New York, has developed a multi-phased approach: They are developing a childcare center and health facility that will service all prostitutes, as well as opening a hospitality house that will serve several functions. It will be a resting/meeting place for women working the streets and offer consciousnessraising groups.
+COYOTE has focused primarily on the decriminalization effort in California and has developed strategies for economic independence. \[303\] SCAPEGOAT, a relatively new group in New York, has developed a multi-phased approach: They are developing a childcare center and health facility that will service all prostitutes, as well as opening a hospitality house that will serve several functions. It will be a resting/meeting place for women working the streets and offer consciousnessraising groups.
 
 Abolitionists uphold the right of an individual to choose a sexual relationship, regardless of the exchange of money or other consideration. It is inappropriate for the government to interfere with sexual activity. Sexism itself, however, which affects the values underlying sexual and other relationships, must be countered in all institutions of society. More economic options must be made available to women so that prostitution can clearly be a lifestyle they choose, rather than a survival mechanism.
 
 ## **Decriminalizing homosexuality**
 
-Laws against sodomy and other laws criminalizing homosexual behavior are seldom enforced. [\[304\]](#page-236-17) This is partly because of the private and consensual nature of the behavior made illegal, but also because of a growing acceptance and practice of such activities among the general population.
+Laws against sodomy and other laws criminalizing homosexual behavior are seldom enforced. \[304\] This is partly because of the private and consensual nature of the behavior made illegal, but also because of a growing acceptance and practice of such activities among the general population.
 
 Even so, the existence of these archaic laws is a constant threat. Men and women face prison penalties ranging up to 20 years-or even life in some states.
 
@@ -2987,17 +2987,17 @@ Vulnerability of gays does not end with law enforcement. Since their behavior is
 **Myths**. Underpinning the repressive laws against homosexuals are numerous stereotypes and myths:
 
 - Homosexuality is forbidden in all cultures. Not so. Such a lifestyle is not a crime in most European countries, including England, West Germany, Denmark, Switzerland, Sweden, Poland, Czechoslovakia, Italy and France, as well as many non-industrial cultures throughout history.
-- Sexual relations with persons of the same sex are a "perversion" or manifestation of "mental illness." Not true. The Kinsey studies reveal that "a third of all white Americans engaged in homosexual behavior at some time in their lives." [\[305\]](#page-236-18) The American Psychiatric Association has removed homosexuality from its list of mental illness. [\[306\]](#page-236-19)
+- Sexual relations with persons of the same sex are a "perversion" or manifestation of "mental illness." Not true. The Kinsey studies reveal that "a third of all white Americans engaged in homosexual behavior at some time in their lives." \[305\] The American Psychiatric Association has removed homosexuality from its list of mental illness. \[306\]
 - • Gay people are "security risks." Unfounded. Many homosexuals work at all levels of government. Indeed, their classification as "security risks" depends on their vulnerability to blackmail, which in turn rests on the illegality and stigmatization of their sexual orientation-an outrageous double example of "blaming the victim."
-- Homosexuality undermines the family. In European countries where gay relationships are acceptable, "there are no indications that family stability has been impaired .... To single out homosexuality as a prime factor in whatever erosion is taking place in family life is a reprehensible and unwarranted piece of scapegoat." [\[307\]](#page-236-20)
-- • Decriminalizing homosexuality would result in an increase in the seduction of minors. There is no evidence to support this prediction. [\[308\]](#page-236-21) At any rate, forced sexual interaction would still be criminal and fall under the definition of rape.
+- Homosexuality undermines the family. In European countries where gay relationships are acceptable, "there are no indications that family stability has been impaired .... To single out homosexuality as a prime factor in whatever erosion is taking place in family life is a reprehensible and unwarranted piece of scapegoat." \[307\]
+- • Decriminalizing homosexuality would result in an increase in the seduction of minors. There is no evidence to support this prediction. \[308\] At any rate, forced sexual interaction would still be criminal and fall under the definition of rape.
 
 **Empowerment**. A gay liberation movement grew out of the "Stonewall rebellion" in 1969, when homosexuals stood up against police harassment. Though much remains to be accomplished, there have been many positive changes in the day to day lives of gay people. Many are able to be proud and open about their sexual identity and to work against age-old prejudice and discrimination.
 
 - In recent years 16 states have decriminalized sodomy and so-called "crimes against nature." These are Arkansas, California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Indiana, Iowa, Maine, North Dakota, Ohio, Oregon, South Dakota, Washington and West Virginia. In New Mexico, sodomy was never a crime.
 - Localities which have enacted gay civil rights legislation include District of Columbia, East Lansing, Ann Arbor, Seattle, Minneapolis, Detroit and San Francisco. In New York City and elsewhere gay organizations are still struggling for the passage of such bills.
 
-- Though some court decisions have been discouraging-for example, those involving the rights of homosexuals to teach or to serve in the military-even in these areas gains are gradually being won. For example, the California Supreme Court has held that being homosexual is not sufficient grounds for dismissal from a teaching job; it must be shown that a person's conduct affects work performance. [\[309\]](#page-236-22)
+- Though some court decisions have been discouraging-for example, those involving the rights of homosexuals to teach or to serve in the military-even in these areas gains are gradually being won. For example, the California Supreme Court has held that being homosexual is not sufficient grounds for dismissal from a teaching job; it must be shown that a person's conduct affects work performance. \[309\]
 - • Openly gay candidates, such as Massachusetts legislator Elaine Noble, have been elected to public office. Groups such as the National Gay Task Force are working for congressional gay rights legislation.
 - The needs of gay Christians are being served by such groups as Dignity (Roman Catholic) and Integrity (Episcopal). Metropolitan Community Church, founded in 1968 by Rev. Troy Perry, is a Christian church with an outreach to the gay community which now has more than 100 congregations throughout the world.
 
@@ -3005,7 +3005,7 @@ Prejudice against homosexuality is deep-rooted. It is to be expected that it wil
 
 #### **Decriminalizing public intoxication**
 
-Public drunkenness comprises the largest single category of all arrests (onefourth to one-third) and convictions (approximately one-half). [\[310\]](#page-237-0) The costs are equally exorbitant: a range of \$50 to \$70 per arrest is estimated, including court costs. The national total cost per year approaches \$100 million. [\[311\]](#page-237-1)
+Public drunkenness comprises the largest single category of all arrests (onefourth to one-third) and convictions (approximately one-half). \[310\] The costs are equally exorbitant: a range of \$50 to \$70 per arrest is estimated, including court costs. The national total cost per year approaches \$100 million. \[311\]
 
 Alcoholism is widely defined by the alcoholic and others as a medical problem-a disease not a crime. In a culture which accepts and encourages its use, alcoholism can best be viewed as a social problem and an economic one. Lifelong repeated offenses are poignant testimony of the absurdity of caging alcoholics:
 
@@ -3013,7 +3013,7 @@ In 1957 a committee in Washington, D. C., found that six men had been arrested f
 
 —Jim Castelli, "Crimes without Victims," U. S. Catholic, April 1972
 
-Because visibility highly determines the focus of law enforcement, public intoxication laws are largely applied to the poor and minorities, most often "on the streets." The laws are seldom applied to the white, middle class, professional. These persons are screened from arrest by position and by societal acceptance of drinking patterns.[\[312\]](#page-237-2)
+Because visibility highly determines the focus of law enforcement, public intoxication laws are largely applied to the poor and minorities, most often "on the streets." The laws are seldom applied to the white, middle class, professional. These persons are screened from arrest by position and by societal acceptance of drinking patterns.\[312\]
 
 **Empowerment and community services**. Peer groups such as Alcoholics Anonymous play an important role in helping people cope with their drinking problems. Beyond this they educate the public and legislators about the absurdity of criminalizing alcoholism.
 
@@ -3029,15 +3029,15 @@ In addition to advocating decriminalization of public intoxication, abolitionist
 
 Criminal sanctions imposed on the possession and use of marijuana-a derivative of the cannabis plant commonly known as "grass," "pot," and "mary jane"-is a classic example of victimless crime. Smoking marijuana is a voluntary act. No harm is done to others and there is no "victim" to issue a complaint. Yet it remains an illegal drug, very often with excessive penalties applied for possession of even the smallest amount. (For example, the 1973 New York State drug laws allow a possible 15 year prison term for possession of as little as one ounce.)
 
-Although marijuana is increasingly used by a wide range of the population, selective enforcement of the laws has fallen on the young in an attempt to control "hippie types" and "youth drug culture." [\[313\]](#page-237-3) Most arrests involve people under 25.
+Although marijuana is increasingly used by a wide range of the population, selective enforcement of the laws has fallen on the young in an attempt to control "hippie types" and "youth drug culture." \[313\] Most arrests involve people under 25.
 
-Like other victimless crime laws, marijuana legislation "seeks to compel adherence by all to the professed morality of those holding legislative power. Its result is to criminalize conduct that inflicts no physical harm on others and is more or less widely considered to be permissible or desirable.Ó [\[314\]](#page-237-4)
+Like other victimless crime laws, marijuana legislation "seeks to compel adherence by all to the professed morality of those holding legislative power. Its result is to criminalize conduct that inflicts no physical harm on others and is more or less widely considered to be permissible or desirable.Ó \[314\]
 
-The impact of spiraling marijuana use on the criminal (in)justice systems has been phenomenal. Since 1965 a total of 1,900,000 Americans have been arrested by state and federal authorities for marijuana violations. One-fourth of all felony complaints in California in 1968 were for violation of the marijuana laws. A total of more than 34,000 adults and 17,000 juveniles were arrested for marijuana offenses in California. [\[315\]](#page-237-5) By 1973 the total had climbed to 95,110 arrests. Nationally, marijuana arrests average about 500,000 a year-nearly 70 percent of all drugrelated arrests.
+The impact of spiraling marijuana use on the criminal (in)justice systems has been phenomenal. Since 1965 a total of 1,900,000 Americans have been arrested by state and federal authorities for marijuana violations. One-fourth of all felony complaints in California in 1968 were for violation of the marijuana laws. A total of more than 34,000 adults and 17,000 juveniles were arrested for marijuana offenses in California. \[315\] By 1973 the total had climbed to 95,110 arrests. Nationally, marijuana arrests average about 500,000 a year-nearly 70 percent of all drugrelated arrests.
 
 Selective enforcement of a largely unenforceable law has led to serious violation by the police of many constitutional rights, illegal search and seizure being most prominent. Increasingly, undercover agents, on college and high school campuses, establish false identities, develop trust and friendship among the students and then provoke situations of sale and consequent arrest. As provocateurs they initiate an offense which otherwise would not have occurred. Enforcement has been arbitrary, often harsh and cruel.
 
-The suggested harmful effects of marijuana on the human body are essentially irrelevant to the issue of decriminalizing its use, possession, cultivation, sale and distribution. Indeed, it is probable that the debate about marijuana arouses considerably stronger psychological reactions than does the ingestion of marijuana. [\[316\]](#page-237-6)
+The suggested harmful effects of marijuana on the human body are essentially irrelevant to the issue of decriminalizing its use, possession, cultivation, sale and distribution. Indeed, it is probable that the debate about marijuana arouses considerably stronger psychological reactions than does the ingestion of marijuana. \[316\]
 
 As abolitionists, we advocate decriminalizing not only marijuana, but all drugsincluding those such as heroin which clearly are addictive and pose a threat to an individual's health. As we have stated before, this is not necessarily because we advocate the use of these substances, but because we see the folly of trying to solve the problems they pose via the criminal (in)justice systems.
 
@@ -3049,19 +3049,19 @@ Several recent studies of chronic marijuana users, conducted independently in ha
 
 - —Bayard Webster, "New Marijuana Studies Show No Adverse Effect," New York Times, January 28, 1976
 - Most studies make no distinctions between marijuana usage and possible marijuana abuse. The effects on users of small amounts of "grass" on an occasional basis are rarely differentiated from that of heavy, daily usage.
-- Contentions of dangerousness range from lowered testosterone levels and impairment of immunity to apathy, lack of motivation, and incapacity for sustained concentration. According to Karl Menninger, similar lists could be proposed for alcohol and tobacco usage or even tennis playing. [\[317\]](#page-237-7)
+- Contentions of dangerousness range from lowered testosterone levels and impairment of immunity to apathy, lack of motivation, and incapacity for sustained concentration. According to Karl Menninger, similar lists could be proposed for alcohol and tobacco usage or even tennis playing. \[317\]
 
-Numerous accusations of harmful effects [\[318\]](#page-237-8) have been challenged as research continues. Jared R. Rinklenberg, Stanford University psychiatrist, states:
+Numerous accusations of harmful effects \[318\] have been challenged as research continues. Jared R. Rinklenberg, Stanford University psychiatrist, states:
 
-There has been no evidence of marijuana induced brain damage. I do not mean to imply that the heavy use of marijuana is innocuous, but rather that to employ criminal penalties to control its use because of potential hazards is, at present, simply not warranted, especially in comparison with alcohol and tobacco.[\[319\]](#page-237-9) Chief Justice Jay A. Rabinowitz of the Alaska Court issued this statement:
+There has been no evidence of marijuana induced brain damage. I do not mean to imply that the heavy use of marijuana is innocuous, but rather that to employ criminal penalties to control its use because of potential hazards is, at present, simply not warranted, especially in comparison with alcohol and tobacco.\[319\] Chief Justice Jay A. Rabinowitz of the Alaska Court issued this statement:
 
-It appears that the use of marijuana, as it is presently used in the U. S. today, does not constitute a public health problem of any significant dimension .... It appears that effects of marijuana on the individual are not serious enough to justify widespread concern, at least as compared with the far more dangerous effects of alcohol, barbiturates, and amphetamines.[\[320\]](#page-237-10)
+It appears that the use of marijuana, as it is presently used in the U. S. today, does not constitute a public health problem of any significant dimension .... It appears that effects of marijuana on the individual are not serious enough to justify widespread concern, at least as compared with the far more dangerous effects of alcohol, barbiturates, and amphetamines.\[320\]
 
-• One year after Oregon abolished criminal sanctions for possession of small amounts of marijuana, a survey showed no significant increase in use, according to the Drug Abuse Council. [\[321\]](#page-237-11) It is estimated that at least 20 million Americans smoke pot. [\[322\]](#page-237-12)
+• One year after Oregon abolished criminal sanctions for possession of small amounts of marijuana, a survey showed no significant increase in use, according to the Drug Abuse Council. \[321\] It is estimated that at least 20 million Americans smoke pot. \[322\]
 
 **Empowerment**. Despite severe penalties, use of marijuana in the U. S. has not been inhibited.
 
-- A survey of New York State voters reveals 53.9 percent favoring milder "traffic ticket" response. Furthermore, a recent poll of the New York State Legislature shows that "grass" has even invaded our legislatures: one out of every five legislators responding admitted having smoked marijuana; one out of every four respondents favored legalization of "pot"; one of the legislators admitted smoking regularly. [\[323\]](#page-237-13)
+- A survey of New York State voters reveals 53.9 percent favoring milder "traffic ticket" response. Furthermore, a recent poll of the New York State Legislature shows that "grass" has even invaded our legislatures: one out of every five legislators responding admitted having smoked marijuana; one out of every four respondents favored legalization of "pot"; one of the legislators admitted smoking regularly. \[323\]
 
 - A report from the Attorney General's office in New Jersey, based on a study by the State Department of Law and Public Safety stated:
 
@@ -3071,13 +3071,13 @@ It is our opinion that the possession of marijuana and hashish for personal use 
 
 - Elimination or lessening of criminal penalties for the private use or possession of marijuana has occurred in many states, including Oregon, Alaska, Colorado, Michigan, California, Maine, Ohio and Minnesota. South Dakota will decriminalize marijuana April 1, 1977.
 - Most changes affect only use and possession, generally in the home, not sale and distribution. The trend seems to be toward making private possession and use a civil rather than a criminal offense. If the amount is small (one to three ounces), use of citations or fines of \$100 to \$200 are the usual penalties.
-- • The constitutionality of present marijuana laws is being tested in courts on the grounds of violating the liberty, pursuit of happiness and private property rights of citizens. [\[324\]](#page-237-14)
+- • The constitutionality of present marijuana laws is being tested in courts on the grounds of violating the liberty, pursuit of happiness and private property rights of citizens. \[324\]
 - Encouragement for easing marijuana laws has come from such organizations as the National Council of Churches, The National Commission on Drug Abuse, American Bar Association, American Public Health Association, Board of Governors of the American Medical Association, National Education Association and Consumers' Union.
-- Nationwide, extensive lobbying and public education are carried out by NORML (National Organization for the Reform of Marijuana Laws). Time and Newsweek refused for publication this proposed NORML ad: [\[325\]](#page-237-15)
+- Nationwide, extensive lobbying and public education are carried out by NORML (National Organization for the Reform of Marijuana Laws). Time and Newsweek refused for publication this proposed NORML ad: \[325\]
 
 LAST YEAR, 300,000 AMERICANS WERE ARRESTED FOR SMOKING AN HERB THAT QUEEN VICTORIA USED REGULARLY FOR MENSTRUAL CRAMPS
 
-Abolitionists believe any proposal for decriminalization should include a provision for the expungement of criminal records of those previously convicted of the offense to eliminate the "criminal" stigma. [\[326\]](#page-237-16) Further, the present trend in decriminalizing use and possession of small amounts of marijuana is only an immediate and short term response to our present situation. Based on present research, all restrictions on marijuana should be removed from criminal law.
+Abolitionists believe any proposal for decriminalization should include a provision for the expungement of criminal records of those previously convicted of the offense to eliminate the "criminal" stigma. \[326\] Further, the present trend in decriminalizing use and possession of small amounts of marijuana is only an immediate and short term response to our present situation. Based on present research, all restrictions on marijuana should be removed from criminal law.
 
 ## **Abolition of bail & Pretrial detention**
 
@@ -3085,7 +3085,7 @@ Generations of Americans have been taught that bail is a guarantee of liberty wh
 
 #### **Constitutionality**
 
-Enshrined in the American Constitution is the presumption that all persons are innocent of crime until proven guilty, and the imperative that no one may be deprived of liberty without due process of law. The mechanism developed by British society for this purpose, and known to the founding fathers, was bail. The explicitand by American jurisprudence, the only constitutionally permitted-purpose of bail is to assure the presence in court of the person charged with crime on the date his/ her case is set for trial. [\[327\]](#page-237-17) By its prohibition against excessive bail, the Constitution implies a promise to protect the citizen against arbitrary imprisonment before trial.
+Enshrined in the American Constitution is the presumption that all persons are innocent of crime until proven guilty, and the imperative that no one may be deprived of liberty without due process of law. The mechanism developed by British society for this purpose, and known to the founding fathers, was bail. The explicitand by American jurisprudence, the only constitutionally permitted-purpose of bail is to assure the presence in court of the person charged with crime on the date his/ her case is set for trial. \[327\] By its prohibition against excessive bail, the Constitution implies a promise to protect the citizen against arbitrary imprisonment before trial.
 
 No constitutional promise is more dishonored in practice.
 
@@ -3097,9 +3097,9 @@ As De Toqueville clearly saw, the bail system is inherently discriminatory again
 
 Despite the Constitution's pious injunction against "excessive" bail, the fact is that all bail is excessive to those who cannot pay it.
 
-Constitutional pieties notwithstanding, bail has historically been administered as ransom. The criteria for setting bail have seldom, if ever, attempted to consider the financial ability of the particular accused to pay-which would seem to be essential if indeed the only purpose of bail is to guarantee appearance for trial. Instead, these criteria have been attached to the seriousness of the alleged offense, on a sliding scale described as "average" or "usual" for the offense. What is "average" is never clearly defined, but it is beyond the reach of the poor, and a financial drain to the middle class. As Caleb Foote points out, the legal position has been, in effect "... that bail set in the average amount is reasonable and that individualization is required only for amounts greater than the average .... The bail 'usually fixed' for serious crimes, however, is in an amount which the great majority of defendants cannot make." [\[328\]](#page-237-18)
+Constitutional pieties notwithstanding, bail has historically been administered as ransom. The criteria for setting bail have seldom, if ever, attempted to consider the financial ability of the particular accused to pay-which would seem to be essential if indeed the only purpose of bail is to guarantee appearance for trial. Instead, these criteria have been attached to the seriousness of the alleged offense, on a sliding scale described as "average" or "usual" for the offense. What is "average" is never clearly defined, but it is beyond the reach of the poor, and a financial drain to the middle class. As Caleb Foote points out, the legal position has been, in effect "... that bail set in the average amount is reasonable and that individualization is required only for amounts greater than the average .... The bail 'usually fixed' for serious crimes, however, is in an amount which the great majority of defendants cannot make." \[328\]
 
-Where the only alternatives are bail or jail, the practical result is that the presumption of innocence and the right to freedom before trial are not really rights, but privileges, available to those who can purchase them and unavailable to those who cannot. [\[329\]](#page-237-19) From these two positions-the privileged and the unprivileged flow two different sets of consequences for the alleged lawbreaker, ending in freedom for some and prison for others, with the difference resting not so much on innocence or guilt as on wealth or poverty. Seen in this light, the entire system of jails, and the prisons they feed, is simply a holding system for hostages, from which ransom is the first, best and only real means of escape.
+Where the only alternatives are bail or jail, the practical result is that the presumption of innocence and the right to freedom before trial are not really rights, but privileges, available to those who can purchase them and unavailable to those who cannot. \[329\] From these two positions-the privileged and the unprivileged flow two different sets of consequences for the alleged lawbreaker, ending in freedom for some and prison for others, with the difference resting not so much on innocence or guilt as on wealth or poverty. Seen in this light, the entire system of jails, and the prisons they feed, is simply a holding system for hostages, from which ransom is the first, best and only real means of escape.
 
 ### **Who pays? Who benefits?**
 
@@ -3113,7 +3113,7 @@ The underlying assumption in the system of bail is that the financial stake of b
 
 Experience shows that these are false assumptions. For the self-bailed, the bondsperson-bailed, the bail-fund client and those released on recognizance (ROR), the rate of failure to appear has generally been found to be low. It is even lower for serious than for minor offenses and is usually inadvertent and not willful. There is little variation whether or not the release has a financial stake in appearance. This experience has been duplicated in many jurisdictions, and shows that in terms of appearance before trial, the poor when given a chance are at least as reliable, and sometimes more so, than those who can make bail.
 
-In Philadelphia, for instance, the Philadelphia People's Bail Fund, which operates by use of property bond put up primarily by Philadelphia churches, is able to bail more people, facing more serious charges and at higher bails than is the usual revolving cash bail fund. It is so understaffed and has such a large volume of activity that it is able to exert little or no control, even to the extent of reminders, to ensure court appearance of its clients. Even so, its experience over five years shows a bail-jumping rate well within the normal range for all bailees and ROR releases. The rate of nonappearance is about six percent. Of this, only about 2.5 percent is willful, [\[330\]](#page-237-20) and the rate of nonappearance decreases as the seriousness of the charges increases. This is so even though bailees have no financial stake in their bail.
+In Philadelphia, for instance, the Philadelphia People's Bail Fund, which operates by use of property bond put up primarily by Philadelphia churches, is able to bail more people, facing more serious charges and at higher bails than is the usual revolving cash bail fund. It is so understaffed and has such a large volume of activity that it is able to exert little or no control, even to the extent of reminders, to ensure court appearance of its clients. Even so, its experience over five years shows a bail-jumping rate well within the normal range for all bailees and ROR releases. The rate of nonappearance is about six percent. Of this, only about 2.5 percent is willful, \[330\] and the rate of nonappearance decreases as the seriousness of the charges increases. This is so even though bailees have no financial stake in their bail.
 
 I had never been in a prison. I was smart. I arranged to be born white. I was lucky. The doors of education opened up to me and I fell in. I was careful. I didn't get myself raised in a ghetto. When I committed a misdemeanor, they called it a prank. And I never got caught.
 
@@ -3123,9 +3123,9 @@ But I met some people today who did get caught. Ninety-five percent of them are 
 
 —James E. Gorman, "A Rikers Visit Recalled," New York Times, December 18, 1975
 
-An ad hoc federal experiment in unsupervised ROR showed even higher reliability. In a two year period, 1963 to 1965. the rate of such ROR granted on federal charges rose from 6 to 39 percent, sparing approximately 9,000 people from federal pretrial detention. This group showed only a two percent nonappearance rate, as opposed to three percent for federal defendants who made bail. [\[331\]](#page-238-0)
+An ad hoc federal experiment in unsupervised ROR showed even higher reliability. In a two year period, 1963 to 1965. the rate of such ROR granted on federal charges rose from 6 to 39 percent, sparing approximately 9,000 people from federal pretrial detention. This group showed only a two percent nonappearance rate, as opposed to three percent for federal defendants who made bail. \[331\]
 
-Despite such proof that the system of bail is unnecessary to assure court appearances, the holding of hostages continues. The cost of their incarceration both in economic and human terms is staggering. Half or more of accused persons are detained in jail pending trial. [\[332\]](#page-238-1) On a single day, if the system of bail were abolished, upwards of 50,000 pretrial detainees could be released from jail and thousands in the arrest and arraignment stage would avoid the cage entirely. [\[333\]](#page-238-2)
+Despite such proof that the system of bail is unnecessary to assure court appearances, the holding of hostages continues. The cost of their incarceration both in economic and human terms is staggering. Half or more of accused persons are detained in jail pending trial. \[332\] On a single day, if the system of bail were abolished, upwards of 50,000 pretrial detainees could be released from jail and thousands in the arrest and arraignment stage would avoid the cage entirely. \[333\]
 
 ### **Costs to the hostages**
 
@@ -3157,21 +3157,21 @@ Alice was just beginning to say, "There's a mistake somewhere-," when the Queen 
 
 Under these and other pressures they are frequently influenced or coerced into foregoing adequate defense preparations. Many are led by sheer helplessness and misery to plead guilty to charges pending or to accept a plea bargain, merely to escape from the intolerable conditions of pretrial detention.
 
-In the event that any are stubborn or strong enough to hold out for trial, the fact that they were pretrial detainees results in a greater likelihood of conviction and a greater likelihood of a more severe sentence if convicted. [\[334\]](#page-238-3)
+In the event that any are stubborn or strong enough to hold out for trial, the fact that they were pretrial detainees results in a greater likelihood of conviction and a greater likelihood of a more severe sentence if convicted. \[334\]
 
 In contrast, those free on bail suffer few of these drastic punishments, but the system of ransom imposes financial hardship. The funds diverted for bail may strain their resources and weaken their ability to secure a competent defense, and those not wealthy enough to make bail themselves pay a non recoverable bondsman's fee. But for them, comparatively, the presumption of innocence seems a reality. They are free to participate in their own defense, and they stand a substantially greater chance of avoiding conviction, or of avoiding prison if convicted.
 
 ### **Costs to the taxpayer**
 
-Data compiled from the 1970 National Jail Census shows a national total of over \$330 million spent for operating costs, and over \$178 million projected for planned construction of local jails, half or more of whose populations are pretrial detainees. [\[335\]](#page-238-4)
+Data compiled from the 1970 National Jail Census shows a national total of over \$330 million spent for operating costs, and over \$178 million projected for planned construction of local jails, half or more of whose populations are pretrial detainees. \[335\]
 
-More illuminating is the following rough cost estimate for a large state, New York. [\[336\]](#page-238-5) Excluding its megalopolis, New York City, this is a fairly typical state, with a number of medium-sized cities and extensive rural areas dotted with small towns. Including its megalopolis, its various jurisdictions exhibit demographic and social characteristics of all the basic types to be found in the United States.
+More illuminating is the following rough cost estimate for a large state, New York. \[336\] Excluding its megalopolis, New York City, this is a fairly typical state, with a number of medium-sized cities and extensive rural areas dotted with small towns. Including its megalopolis, its various jurisdictions exhibit demographic and social characteristics of all the basic types to be found in the United States.
 
-Excluding the five counties of New York City, 1974 state figures reveal that on an average day, there were 4,359 inmates in local and county jails, of whom 2,880, or about 66 percent, were pretrial detainees. The cost of county jail incarceration in Monroe County (a representative urbanized upstate county which includes the city of Rochester) was \$27 per day (\$9,855 per year) per inmate. Taking this cost as average, and multiplying the average daily number of pretrial detainees, we find a cost to New York taxpayers of about \$28 million in one year for pretrial detention alone. [\[337\]](#page-238-6)
+Excluding the five counties of New York City, 1974 state figures reveal that on an average day, there were 4,359 inmates in local and county jails, of whom 2,880, or about 66 percent, were pretrial detainees. The cost of county jail incarceration in Monroe County (a representative urbanized upstate county which includes the city of Rochester) was \$27 per day (\$9,855 per year) per inmate. Taking this cost as average, and multiplying the average daily number of pretrial detainees, we find a cost to New York taxpayers of about \$28 million in one year for pretrial detention alone. \[337\]
 
 Costs for New York City are substantially higher. There in 1974 average daily population awaiting disposition was 4,906. Cost of incarceration was in excess of \$60 per day (\$21,900 per year) per inmate. For 1974, therefore, estimated total cost of pretrial detention in New York City was over \$107.5 million, and for the entire state including the city, over \$136 million.
 
-This was the tab picked up by the taxpayers of New York State in one year, as the cost of holding for ransom several hundred thousand poor people, all of whom were presumed innocent and most of whom would have been released if they had been able to raise bail. [\[338\]](#page-238-7)
+This was the tab picked up by the taxpayers of New York State in one year, as the cost of holding for ransom several hundred thousand poor people, all of whom were presumed innocent and most of whom would have been released if they had been able to raise bail. \[338\]
 
 #### **Release on recognizance**
 
@@ -3185,7 +3185,7 @@ Even so, ROR can be an improvement. As an interim strategy, abolitionists in adv
 
 Pretrial diversion programs resemble ROR in that they secure pretrial release without bail. They differ, however, in that they involve forms of social control that take them out of the class of alternatives to pretrial incarceration and place them in a class of alternative forms of prosecution. There is an implicit waiver of the presumption of innocence. The option of submitting to a program of supervision in the community is in return for a court's adjournment of his/her case in contemplation of dismissal. If s/he complies with the rules of supervision, the case will likely be dismissed; but if s/he does not, the adjournment may be revoked and the defendant remanded for conventional prosecution.
 
-Such programs thus impose a series of social controls on non convicted defendants that normally attach only to the convicted. They involve the defendant in counseling and in programs designed to provide employment, health care and other services, but they also require him/her to submit to forms of supervision and regulation similar to those of probation and parole-regulation not imposed on defendants who make bail or ROR. Care should be taken therefore, in establishing or supporting these programs, to ensure that the accused fully understands the options and that excessive social controls are eliminated. [\[339\]](#page-238-8)
+Such programs thus impose a series of social controls on non convicted defendants that normally attach only to the convicted. They involve the defendant in counseling and in programs designed to provide employment, health care and other services, but they also require him/her to submit to forms of supervision and regulation similar to those of probation and parole-regulation not imposed on defendants who make bail or ROR. Care should be taken therefore, in establishing or supporting these programs, to ensure that the accused fully understands the options and that excessive social controls are eliminated. \[339\]
 
 ### **Abolishing bail**
 
@@ -3215,21 +3215,21 @@ A large percentage of conflicts need never enter the realm of criminal court pro
 
 Community dispute and mediation centers decrease the number of those imprisoned and empower communities to develop reconciliation skills. By becoming the milieu for resolution of disputes which rise within it and by taking the responsibility for healing the disruptions, the community is validated as the logical determiner and provider of support and services. Thus its members are more able to exert power over their own lives. The high costs of court can be eliminated and the savings funneled into contributing to the costs of mediation centers and other services.
 
-Since economic limitations exclude the poor from many court options presently available to those with money, mediation centers situated in the midst of poor communities contribute to equalizing some of these inequities. They provide the alienated and the poor with a service which is a commonplace necessity for those who are wealthier. When disputants of high socioeconomic levels require mediation, it is provided by a highly paid psychotherapist, marriage counselor, attorney, family doctor or other advisors including ministers. [\[340\]](#page-238-9)
+Since economic limitations exclude the poor from many court options presently available to those with money, mediation centers situated in the midst of poor communities contribute to equalizing some of these inequities. They provide the alienated and the poor with a service which is a commonplace necessity for those who are wealthier. When disputants of high socioeconomic levels require mediation, it is provided by a highly paid psychotherapist, marriage counselor, attorney, family doctor or other advisors including ministers. \[340\]
 
-Facilities such as small claims courts, better business bureaus and government sponsored legal aid are designed to fill mediation needs, but in general they do not do a good job for poor people. Some are so under funded and overburdened as to give poor service. Others favor the rich and powerful because they are so complicated that they're out of reach of the average person. [\[341\]](#page-238-10)
+Facilities such as small claims courts, better business bureaus and government sponsored legal aid are designed to fill mediation needs, but in general they do not do a good job for poor people. Some are so under funded and overburdened as to give poor service. Others favor the rich and powerful because they are so complicated that they're out of reach of the average person. \[341\]
 
 ### **Mediation & arbitration**
 
-In recent years, several dispute settlement programs have been developed, drawing upon models of conflict resolution from such fields as labor management, psychology and psychiatry, sensitivity and encounter approaches and international relations. [\[342\]](#page-238-11)
+In recent years, several dispute settlement programs have been developed, drawing upon models of conflict resolution from such fields as labor management, psychology and psychiatry, sensitivity and encounter approaches and international relations. \[342\]
 
-Dispute settlement processes, which include mediation and arbitration, are "community oriented tools that will help people learn to help themselves and others in such a way that violent outbursts against people and property will be curtailed." [\[343\]](#page-238-12)
+Dispute settlement processes, which include mediation and arbitration, are "community oriented tools that will help people learn to help themselves and others in such a way that violent outbursts against people and property will be curtailed." \[343\]
 
-Mediation—a process where the conflicting parties themselves agree on a mutually acceptable resolution with minimal intervention by a third person-seems more appropriate than arbitration to abolition principles of empowerment. In the latter, disputants give a neutral party legal authority to render a binding decision, after a full, fair private hearing. [\[344\]](#page-238-13) However, both processes are far superior to the present criminal (in)justice systems in which the adversarial court model promotes conflict rather than settling it, creates injustice by ignoring the social context of behavior and allows manipulation and social control of the majority by the powerful minority. [\[345\]](#page-238-14)
+Mediation—a process where the conflicting parties themselves agree on a mutually acceptable resolution with minimal intervention by a third person-seems more appropriate than arbitration to abolition principles of empowerment. In the latter, disputants give a neutral party legal authority to render a binding decision, after a full, fair private hearing. \[344\] However, both processes are far superior to the present criminal (in)justice systems in which the adversarial court model promotes conflict rather than settling it, creates injustice by ignoring the social context of behavior and allows manipulation and social control of the majority by the powerful minority. \[345\]
 
 ### **The moot model**
 
-Mediation, in contrast to the court model of adjudication, is based on the concept of a "moot." The moot is an informal airing of a dispute which takes place before neighbors and kin of the disputants. It is not coercive and allows the disputants to discuss their problems in an atmosphere free from the questions of past fact and guilt. The past is seen as a tool for the construction of future relationships. The very idea of the moot is to avoid a right/wrong dichotomy. It is to compromise; it is to look to the future rather than the past. But most importantly, it is to eliminate the concept of guilt. [\[346\]](#page-238-15) The model moves away from a factory like emphasis on producing results (termed "decisions," "decrees" or simply "justice") and towards an emphasis on having each disputant develop his/her own view of events, while recognizing the opponent's perspective. The emphasis is on the disputants educating each other. [\[347\]](#page-238-16)
+Mediation, in contrast to the court model of adjudication, is based on the concept of a "moot." The moot is an informal airing of a dispute which takes place before neighbors and kin of the disputants. It is not coercive and allows the disputants to discuss their problems in an atmosphere free from the questions of past fact and guilt. The past is seen as a tool for the construction of future relationships. The very idea of the moot is to avoid a right/wrong dichotomy. It is to compromise; it is to look to the future rather than the past. But most importantly, it is to eliminate the concept of guilt. \[346\] The model moves away from a factory like emphasis on producing results (termed "decisions," "decrees" or simply "justice") and towards an emphasis on having each disputant develop his/her own view of events, while recognizing the opponent's perspective. The emphasis is on the disputants educating each other. \[347\]
 
 The moot model for settling disputes is an excellent example of abolition ideology in practice. A reconciliatory atmosphere is created in the setting where the conflict arose-the community-in order to encourage the disputants to express their differences, peacefully reaching a compromise. The focus is never to assign guilt to one party and innocence to the other. This "family" model of dispute settlement emphasizes the bonds existing between the disputants, the mediator and the community. It encourages expression of grievances and discussion leading to agreement by consensus. The process is not caught in the trappings of symbols of power-the courtroom, but in one's own community among equals.
 
@@ -3237,13 +3237,13 @@ The possibility of the moot model's extensive use in our highly mobile and compl
 
 Many conflicting parties already know one another. Contrary to popular belief that most crime is committed by strangers, about one-third of the criminal cases in urban courts involve neighbors, family or friends. Half or more of all murders involve a close relationship between the victim and the wrongdoer.
 
-A study in the Cleveland (Ohio) Municipal Court, for instance, illustrates the number of conflicts in which people know one another. Of 1,034 cases, at least 30 percent were in essence neighborhood dilemmas and could easily have been handled outside the court. [\[348\]](#page-238-17)
+A study in the Cleveland (Ohio) Municipal Court, for instance, illustrates the number of conflicts in which people know one another. Of 1,034 cases, at least 30 percent were in essence neighborhood dilemmas and could easily have been handled outside the court. \[348\]
 
 ### **Kinds of conflict/crimes**
 
 Presently the cases most frequently handled by community mediation centers are small interpersonal disputes between friends, relatives and neighbors. Usually these are civil matters or misdemeanors. Often they are marital or family disputes (including common law relationships), involving paternity, support or separation conflicts. Other frequent cases include neighborhood squabbles, fights or harassment, simple assault, complaints about noise or other disturbances and tenant/housing manager disputes.
 
-The Columbus (Ohio) Night Prosecutor Program [\[349\]](#page-239-0) works in three major areas:
+The Columbus (Ohio) Night Prosecutor Program \[349\] works in three major areas:
 
 - • Minor interpersonal disputes resulting in an assault, menacing threats, telephone harassment, criminal mischief or larceny.
 - Commercial bad check cases. (Shoplifting cases may be added.)
@@ -3258,7 +3258,7 @@ Additional kinds of cases which some mediation centers are handling include:
 - Small torts and breaches of contract involving community members.
 - • Bankruptcy disputes.
 
-Police most often cite settling disputes between family and friends as an unrealistic and dangerous demand upon them. Mediation centers, by dealing with conflict before it escalates to violence, diminish the need for police to serve a mediation function. In 1972, according to the F. B. I., 7,000 murders stemmed from family conflicts and 13 percent of all police killed in the line of duty died while responding to disturbance complaints. [\[350\]](#page-239-1) The presence of mediation centers in all communities would substantially reduce the potential for murder of both civilians and police.
+Police most often cite settling disputes between family and friends as an unrealistic and dangerous demand upon them. Mediation centers, by dealing with conflict before it escalates to violence, diminish the need for police to serve a mediation function. In 1972, according to the F. B. I., 7,000 murders stemmed from family conflicts and 13 percent of all police killed in the line of duty died while responding to disturbance complaints. \[350\] The presence of mediation centers in all communities would substantially reduce the potential for murder of both civilians and police.
 
 The centers' scope could be considerably broadened to include many more serious crimes than they are presently handling. Communities need to decide which conflicts/crimes they can adequately handle.
 
@@ -3271,20 +3271,20 @@ For instance, some programs are legalistically oriented. Law students are the me
 Based on the concept of the moot and abolitionist ideology, we recommend the following criteria for community mediation centers:
 
 - Deep community involvement is essential to the processes of empowerment and education needed for mediation centers. Mediators should be drawn from the area and culture of the disputants. The conflicting parties might even mutually agree on the selection of the mediators.
-- At least partial funding and support should come from community or local sources. Unpaid community mediators may well serve to diminish the need for funds. There is a bias in assuming only highly paid individuals are competent, [\[351\]](#page-239-2) but exploitation of volunteers should be avoided.
-- • Mediation sessions should take place in the disputants' community in familiar and informal surroundings, conducive to free communication. "Why should we equate holding court 'under a willow tree' with inferior justice? There is much to recommend a comfortable, easily accessible forum." [\[352\]](#page-239-3)
+- At least partial funding and support should come from community or local sources. Unpaid community mediators may well serve to diminish the need for funds. There is a bias in assuming only highly paid individuals are competent, \[351\] but exploitation of volunteers should be avoided.
+- • Mediation sessions should take place in the disputants' community in familiar and informal surroundings, conducive to free communication. "Why should we equate holding court 'under a willow tree' with inferior justice? There is much to recommend a comfortable, easily accessible forum." \[352\]
 - • Consensual agreements should be sought. Proof of guilt or innocence is inappropriate.
 - Whatever agreement is mutually reached should be made explicit thru a written contract. This should be developed by both parties and include terms of restitution or compensation or specific agreements on future behavior.
 - Due process rights will not be jeopardized as long as the mediation center is true to the moot model. The mediator has no authority to impose sanctions and whatever agreement is signed cannot be legally enforced. If decisions are mutually agreed upon and both parties voluntarily express the intention to abide by the terms of their agreement, then there is little danger of violating individual rights. However, if a center assumes the power to impose and enforce sanctions or if written accounts of mediation sessions are kept on record and later available to the court, then the potential for abusing due process rights is great.
 - Underlying causes should always be sought. Full discussion of grievances by both conflicting parties, witnesses, or other friends or family should be encouraged for this purpose, as well as for empowering all community members with a process for reconciling differences.
-- The mediator should assume the role of facilitator to this process of reconciliation. S/he should be seen as "an advocate for the process of discussion and bargaining rather than for a particular settlement." [\[353\]](#page-239-4) Intervention with a solution should be done only reluctantly and only when discussion has reached an impasse.
+- The mediator should assume the role of facilitator to this process of reconciliation. S/he should be seen as "an advocate for the process of discussion and bargaining rather than for a particular settlement." \[353\] Intervention with a solution should be done only reluctantly and only when discussion has reached an impasse.
 
 - Mediators should be adequately prepared for the responsibility of this role. Careful training and evaluation of community volunteers should respect personal abilities to listen and facilitate discussion. Legal instruction should be avoided entirely or kept to a minimum. Instead, the law should be made comprehensible to all, rather than reserving that knowledge to professionals who administer it.
 - Cooperation from the police and other facets of the system should be sought so that referrals can come from the scene or at the police station as an alternative to filing criminal charges. Ideally, mediation services should be so well publicized that persons in conflict will bring their disputes directly to the center without involving the police or court procedures.
 
 ### **Community Assistance Project**
 
-An excellent example of community mediation is furnished by CAP, Community Assistance Project, in Chester, Pennsylvania, which stresses deep community involvement and indigenous leadership. [\[354\]](#page-239-5) It demonstrates how a community group can develop services to include conflict resolution and community mediation.
+An excellent example of community mediation is furnished by CAP, Community Assistance Project, in Chester, Pennsylvania, which stresses deep community involvement and indigenous leadership. \[354\] It demonstrates how a community group can develop services to include conflict resolution and community mediation.
 
 CAP, organized to provide equal protection under the law for poor and minority persons, includes in its purposes:
 
@@ -3334,7 +3334,7 @@ There would surely be risks, and just as surely, some failures. But whatever fai
 
 —Emanuel Margolis, "No More Prison Reform!" pp. 479–80
 
-The potential for broad, creative use of restitution as an excarceration mode excites the abolitionist's imagination. Most offenses for which people are committed to prisons are economic crimes: theft, fraud, robbery, burglary and embezzlement. Though restitution can be utilized in practically all wrongdoing, it is most obviously appropriate for economic crimes. "If a loan, freely made with honest intent to return it, is not repaid, the lender has a legal right to proceed against the borrower. It would seem to make sense to apply that same procedure in economic relationships where the loan is of involuntary or fraudulent nature. [\[355\]](#page-239-6)
+The potential for broad, creative use of restitution as an excarceration mode excites the abolitionist's imagination. Most offenses for which people are committed to prisons are economic crimes: theft, fraud, robbery, burglary and embezzlement. Though restitution can be utilized in practically all wrongdoing, it is most obviously appropriate for economic crimes. "If a loan, freely made with honest intent to return it, is not repaid, the lender has a legal right to proceed against the borrower. It would seem to make sense to apply that same procedure in economic relationships where the loan is of involuntary or fraudulent nature. \[355\]
 
 "Abolitionists believe restitution makes a great deal of sense as an alternative to incarceration, not only in non-violent crimes but also in those involving violence. The idea of advocating restitution where loss of life is involved should not startle Americans. It is not without precedent. For generations the U. S. government has made restitution to survivors of members of the armed forces killed in combat or by accident. Similarly, survivors of citizens killed by auto accidents are monetarily reimbursed by insurance companies or thru civil suits.
 
@@ -3363,19 +3363,19 @@ Restitution is available, but not widely used, as an excarceration mode at all s
 
 At the pre-arrest stage, disputants confront each other and work out the problem in a controlled setting, providing the police and prosecutor with an alternative to arrest and formal prosecution. This reduces the number of crimes which find their way into the courtroom.
 
-Normally in bad check, forgery and minor larceny cases, if the wrongdoer is able and willing to pay restitution and the victim is willing, the prosecutor will drop charges. When a case reaches court, the likelihood of probation is great if the defendant seems able to make restitution. [\[356\]](#page-239-7) Again, this process is fraught with opportunities for the use of discretion, particularly when the wrongdoer is poor.
+Normally in bad check, forgery and minor larceny cases, if the wrongdoer is able and willing to pay restitution and the victim is willing, the prosecutor will drop charges. When a case reaches court, the likelihood of probation is great if the defendant seems able to make restitution. \[356\] Again, this process is fraught with opportunities for the use of discretion, particularly when the wrongdoer is poor.
 
 In Tucson, Arizona, the Pima County attorney has established a pretrial diversion program for first offense felons considered "eligible," utilizing a restitution and victim/offender confrontation procedure. The victim must consent to the diversion. In many cases this is achieved by bringing the victim and offender together with a facilitator, each relating his/her side of the story and negotiating the terms of understandings that will become the basis of the diversion arrangement.
 
 One anecdote shows the potential of this procedure. A young man stole a color television set. At the diversion hearing he found that his victim was an invalid woman; the television set was one of her few links to the outside world. He was able to grasp the full consequences of his act-he had not just ripped off a T. V., he had materially hurt the quality of the woman's life. In addition to returning the T. V. set, he agreed to paint her house, mow her lawn and drive her to the doctor for her weekly checkup.
 
-Many victims have entered into the process reluctantly, only to find themselves later offering to serve as volunteer probation officers for other offenders. After one year's operation, the program has been successful in all but nine of the 204 cases which it accepted. The project calculates its costs at \$304 per case, compared to \$1,566 required to process an average felony case.[\[357\]](#page-239-8)
+Many victims have entered into the process reluctantly, only to find themselves later offering to serve as volunteer probation officers for other offenders. After one year's operation, the program has been successful in all but nine of the 204 cases which it accepted. The project calculates its costs at \$304 per case, compared to \$1,566 required to process an average felony case.\[357\]
 
-Generally restitution is not authorized in penal codes in the U. S. although in Pennsylvania and Iowa, courts' authority to order restitution as a sanction has been written into the criminal code. [\[358\]](#page-239-9) The State of New York has a provision for restitution as a condition of probation. In the Hawaii Penal Code enacted in 1972, not only are there provisions for restitution, but one of eleven conditions the judge is advised to consider for not imposing imprisonment is that the defendant has or will make restitution to the victim. [\[359\]](#page-239-10)
+Generally restitution is not authorized in penal codes in the U. S. although in Pennsylvania and Iowa, courts' authority to order restitution as a sanction has been written into the criminal code. \[358\] The State of New York has a provision for restitution as a condition of probation. In the Hawaii Penal Code enacted in 1972, not only are there provisions for restitution, but one of eleven conditions the judge is advised to consider for not imposing imprisonment is that the defendant has or will make restitution to the victim. \[359\]
 
-In practice, restitution is most commonly advocated as a condition of probation. It may be ordered in any case in which the victim has suffered a loss. Probably the most frequent are bad check, forgery and larceny cases in which the stolen property has not been recovered. In burglary cases, restitution may be ordered for damage to the building as well as un-recovered stolen property, and in negligent homicide or manslaughter cases, the restitution order may encompass hospital expenses, property damages, funeral expenses and support for the deceased's dependents. [\[360\]](#page-239-11)
+In practice, restitution is most commonly advocated as a condition of probation. It may be ordered in any case in which the victim has suffered a loss. Probably the most frequent are bad check, forgery and larceny cases in which the stolen property has not been recovered. In burglary cases, restitution may be ordered for damage to the building as well as un-recovered stolen property, and in negligent homicide or manslaughter cases, the restitution order may encompass hospital expenses, property damages, funeral expenses and support for the deceased's dependents. \[360\]
 
-Usually, if the court places the defendant on probation with a restitution order, the amount is unspecified. The probation officer then verifies the restitution amount with the victim and again with the defendant, and the court specifies that amount in the restitution order. [\[361\]](#page-239-12)
+Usually, if the court places the defendant on probation with a restitution order, the amount is unspecified. The probation officer then verifies the restitution amount with the victim and again with the defendant, and the court specifies that amount in the restitution order. \[361\]
 
 The restitution order normally requires full payment to be made before the end of the probation period. In almost all cases, the payments are made in installments, accumulated in special probation department accounts, and paid to the victim when the full amount has been collected.
 
@@ -3391,7 +3391,7 @@ A Canadian community project represents an interim step in shifting restitution 
 
 ### **Victim Offender Reconciliation Program**
 
-In only two years of operation, the Victim Offender Reconciliation Program (VORP) in Kitchener, Ontario has had a remarkable success. [\[362\]](#page-239-13) Thru its work in the system but not of the system, VORP provides an excarceration model for dealing with community crime thru reconciliation, utilizing restitution as its working tool.
+In only two years of operation, the Victim Offender Reconciliation Program (VORP) in Kitchener, Ontario has had a remarkable success. \[362\] Thru its work in the system but not of the system, VORP provides an excarceration model for dealing with community crime thru reconciliation, utilizing restitution as its working tool.
 
 VORP brings together victims and wrongdoers in cases such as mischief, theft, break and enter, malicious damage and minor cases of assault.
 
@@ -3423,27 +3423,27 @@ Though VORP represents only a tiny effort to bring about a reconciliatory system
 
 #### **Fines**
 
-In the U. S., the fine has been traditionally and properly objected to because of the lack of equal protection. The poor, unable to pay fines, systematically filled the jails until a Supreme Court decision in 1971 ruled that an indigent could not be imprisoned upon nonpayment of a fine, but must be given an opportunity to pay in installments. [\[363\]](#page-239-14) The California Supreme Court went further, absolutely prohibiting imprisonment of an indigent for nonpayment of a fine, [\[364\]](#page-239-15) but the most effective step so far has come by way of legislation in Delaware, where no oneindigent or not-may be imprisoned for nonpayment. [\[365\]](#page-239-16)
+In the U. S., the fine has been traditionally and properly objected to because of the lack of equal protection. The poor, unable to pay fines, systematically filled the jails until a Supreme Court decision in 1971 ruled that an indigent could not be imprisoned upon nonpayment of a fine, but must be given an opportunity to pay in installments. \[363\] The California Supreme Court went further, absolutely prohibiting imprisonment of an indigent for nonpayment of a fine, \[364\] but the most effective step so far has come by way of legislation in Delaware, where no oneindigent or not-may be imprisoned for nonpayment. \[365\]
 
-Ways have been devised to answer the equal protection objections by introducing greater flexibility into fines: gradation of the amount according to the defendant's ability to pay; provision for installment payments; and procedures by which nonpayment does not automatically result in incarceration but whereby other sanctions such as "work off" or modification of sentence can come into play. [\[366\]](#page-239-17)
+Ways have been devised to answer the equal protection objections by introducing greater flexibility into fines: gradation of the amount according to the defendant's ability to pay; provision for installment payments; and procedures by which nonpayment does not automatically result in incarceration but whereby other sanctions such as "work off" or modification of sentence can come into play. \[366\]
 
 As an alternative to imprisonment, abolitionists support the use of fines based on ability to pay, wherever restitution to victims or groups is not appropriate or possible. The benefits of fines are obvious: the wrongdoer is not incarcerated and can stay in the community as a self-supporting citizen, saving the state probation expenses, welfare expenses and the human costs of caging.
 
 However, the translation of accountability into financial terms, may only serve to perpetuate a materialism which we've already identified as a prime cause of criminal behavior. In order to counter the influence of a culture where economic needs are continually increasing and worth is measured by the yardstick of the dollar, the options of service and other modes of payment should be equally considered.
 
-Further, the law of fines is as inconsistent and chaotic as that establishing prison sentences. The amount of a fine usually is fixed by statute or determined by the judge within narrow limits, but little guidance is given to the courts for the imposition of fines, [\[367\]](#page-239-18) thus encouraging judicial discretion.
+Further, the law of fines is as inconsistent and chaotic as that establishing prison sentences. The amount of a fine usually is fixed by statute or determined by the judge within narrow limits, but little guidance is given to the courts for the imposition of fines, \[367\] thus encouraging judicial discretion.
 
-Fines are usually coupled with probation, conditional discharge, or as an addition to a prison sentence. Traditionally a civil remedy, the fine has been used in criminal law mainly for traffic offenders and misdemeanants When it is used for felonies, the sentence of a fine is most frequently given to first-timers or to "white-collar" criminals and others involved in illegal profiteering. [\[368\]](#page-239-19)
+Fines are usually coupled with probation, conditional discharge, or as an addition to a prison sentence. Traditionally a civil remedy, the fine has been used in criminal law mainly for traffic offenders and misdemeanants When it is used for felonies, the sentence of a fine is most frequently given to first-timers or to "white-collar" criminals and others involved in illegal profiteering. \[368\]
 
-In Pennsylvania, a fine can be imposed for all crimes except first degree murder. Because of these broad provisions, in 1949, 26.1 percent of the total felony sentences were to "fine only" (in contrast to 32.4 percent imprisonment). These included manslaughter, larceny (excluding auto theft), embezzlement and fraud, rape, other sex offenses (excluding commercialized vice), gambling (69.5 percent) and arson cases (23 percent). In 1967, of 26,735 convictions by Pennsylvania's major criminal courts, 7,764 or 29 percent were fined. [\[369\]](#page-239-20)
+In Pennsylvania, a fine can be imposed for all crimes except first degree murder. Because of these broad provisions, in 1949, 26.1 percent of the total felony sentences were to "fine only" (in contrast to 32.4 percent imprisonment). These included manslaughter, larceny (excluding auto theft), embezzlement and fraud, rape, other sex offenses (excluding commercialized vice), gambling (69.5 percent) and arson cases (23 percent). In 1967, of 26,735 convictions by Pennsylvania's major criminal courts, 7,764 or 29 percent were fined. \[369\]
 
-"Fine only" dispositions are being used with less frequency in the U. S. District Courts. In the 1950's, nine percent of those sentenced for all offenses were punished solely by fine, but by 1972 "fine only" dispositions had dropped to six percent. These included assault cases, as well as general offenses involving firearms, threats, narcotics and escape. This suggests that "fine only" has been an appropriate disposition for more serious crimes. [\[370\]](#page-239-21)
+"Fine only" dispositions are being used with less frequency in the U. S. District Courts. In the 1950's, nine percent of those sentenced for all offenses were punished solely by fine, but by 1972 "fine only" dispositions had dropped to six percent. These included assault cases, as well as general offenses involving firearms, threats, narcotics and escape. This suggests that "fine only" has been an appropriate disposition for more serious crimes. \[370\]
 
-Various restrictions in states' penal laws drastically curtail the use of fines as an alternative to prison. In New York, for instance, the criterion for imposition of a fine states that "the court may impose a fine for a felony if the defendant has gained money or property thru the commission of a crime." A second restriction in the new (1974) penal code states that the "fine only" sentence is unavailable to offenders in certain categories of felonies, thus severely restricting the number of cases in which courts might consider a fine as an alternative to prison. [\[371\]](#page-239-22)
+Various restrictions in states' penal laws drastically curtail the use of fines as an alternative to prison. In New York, for instance, the criterion for imposition of a fine states that "the court may impose a fine for a felony if the defendant has gained money or property thru the commission of a crime." A second restriction in the new (1974) penal code states that the "fine only" sentence is unavailable to offenders in certain categories of felonies, thus severely restricting the number of cases in which courts might consider a fine as an alternative to prison. \[371\]
 
-Note the contrast in the case of corporate crime. In these cases the punishment is usually monetary, consisting of fines and cost of damages. But these sanctions have little effect on the life of the corporation. It is proposed that corporate crimes be made more burdensome: "The magnitude of these crimes must be recognized and fines sufficient to strongly affect the corporation should be imposed." [\[372\]](#page-239-23) Corporate offenders very often consider fines to be just another cost of doing business, to be passed along to the consumer in higher prices or poorer quality merchandise. [\[373\]](#page-239-24) The crimes of corporations will be impossible to control as long as their enormous power and influence are tolerated.
+Note the contrast in the case of corporate crime. In these cases the punishment is usually monetary, consisting of fines and cost of damages. But these sanctions have little effect on the life of the corporation. It is proposed that corporate crimes be made more burdensome: "The magnitude of these crimes must be recognized and fines sufficient to strongly affect the corporation should be imposed." \[372\] Corporate offenders very often consider fines to be just another cost of doing business, to be passed along to the consumer in higher prices or poorer quality merchandise. \[373\] The crimes of corporations will be impossible to control as long as their enormous power and influence are tolerated.
 
-To take into account the inequitable distribution of income and employment among those who are fined in the U. S., a day-fine system, similar to that used in Sweden and other countries, might be examined. [\[374\]](#page-239-25)
+To take into account the inequitable distribution of income and employment among those who are fined in the U. S., a day-fine system, similar to that used in Sweden and other countries, might be examined. \[374\]
 
 The amount of the financial penalty imposed in Sweden is based on the seriousness of the offense and the wrongdoer's financial resources-each determined independently of the other. Offense seriousness is penalized according to a scale of "day fines" ranging from one, for the most trivial, to 120 for the most serious. Financial worth is reduced to per diem income, obtained from the person's financial circumstances, including property holdings, at the time of the sentence and generally formulated as .1 percent of annual income. The total amount of the fine is calculated by multiplying the number of day fines by the per diem amount.
 
@@ -3455,13 +3455,13 @@ Abolitionists advocate increased use of fines as one mode of excarceration:
 
 - Fines should be extended to all misdemeanors and to most felonies where restitution to victims or groups is impossible.
 - A non-discretionary system similar to the Swedish day-fine system is preferable. It should include alternatives to monetary payment.
-- • The imprisonment of indigents for nonpayment of fines should be abolished, since all but a very small number of people will pay fines imposed on the basis of ability to pay. [\[375\]](#page-239-26)
+- • The imprisonment of indigents for nonpayment of fines should be abolished, since all but a very small number of people will pay fines imposed on the basis of ability to pay. \[375\]
 
 As an excarceration mode, fines are one of the least drastic sentencing alternatives and one with which the public is already familiar.
 
 ## **Suspended sentences**
 
-Abolitionists advocate expanded use of suspended sentences, or unconditional discharge, as an excarceration mode. [\[376\]](#page-239-27) It is a useful mechanism to establish responsibility for wrongdoing without imposing punishment or any supervisory conditions on the wrongdoer. A suspended sentence has additional value because the defendant loses fewer civil rights.
+Abolitionists advocate expanded use of suspended sentences, or unconditional discharge, as an excarceration mode. \[376\] It is a useful mechanism to establish responsibility for wrongdoing without imposing punishment or any supervisory conditions on the wrongdoer. A suspended sentence has additional value because the defendant loses fewer civil rights.
 
 Another important function of the suspended sentence is its interim use as an alternative to sanctions for victimless crimes. Until certain offenses are eliminated from the statutes, judges can utilize suspended sentences to dispose of such cases.
 
@@ -3479,9 +3479,9 @@ For abolitionists, the suspended sentence represents the least punitive of a ran
 
 Probation is one of the most commonly accepted and widely used modes of excarceration. Though more often utilized for nonviolent crimes, probation has been extended to include homicides and other serious wrongs which usually result in imprisonment.
 
-In practice, probation is a subsystem of the criminal (in)justice systems; an extension into the community of the authority and functions of the court. [\[377\]](#page-239-28) Its officers have police powers. They may carry guns and make arrests. Many under its control consider it a supplement to incarceration rather than a true alternative. Subjected to the continual possibility of revocation of probation at the officer's discretion and with few if any rights to appeal such decisions, most probationers label their situation "street prison."
+In practice, probation is a subsystem of the criminal (in)justice systems; an extension into the community of the authority and functions of the court. \[377\] Its officers have police powers. They may carry guns and make arrests. Many under its control consider it a supplement to incarceration rather than a true alternative. Subjected to the continual possibility of revocation of probation at the officer's discretion and with few if any rights to appeal such decisions, most probationers label their situation "street prison."
 
-At present, there is scant definitive data on the characteristics of probation, but the results of court watching programs and preliminary studies indicate that white, middle class people receive a highly disproportionate amount of probated sentences while poor whites and minority persons are sent to prison. [\[378\]](#page-239-29)
+At present, there is scant definitive data on the characteristics of probation, but the results of court watching programs and preliminary studies indicate that white, middle class people receive a highly disproportionate amount of probated sentences while poor whites and minority persons are sent to prison. \[378\]
 
 While it is true that many convicted persons have experienced probation as an oppressive and discretionary system, it is still a far more desirable option than prison. Abolitionists support the extended use of probation over and above prison, but advocate strategies which forge new links between probation and the community.
 
@@ -3523,16 +3523,16 @@ Various Sentences of Convicted Criminal Defendants in U. S. District Courts, 197
 Source: 1974 Annual Report of the Director, Administrative Office of the U. S. Courts, Table D5, pages A .54,A-55 and Federal Bureau of Prisons Fiscal Year 1973 Statistical Report, Table C-2, pages 97–98.
 
 - Unsupervised probation. Further use could be made of unsupervised probation where persons who committed certain kinds of wrongs would be under no compulsion to report or participate in programs, but could request help as needed from probation officers or preferably the community. If social control aspects were eliminated from probation, staff would be freer to function as advocates for their clients. Many committed probation officers already see themselves in this role and would like to be released from control functions. They could serve as the probationer's bridge to community services.
-- Extending the use of probation. Keeping more people in the community, even tho they have committed impulsive crimes as violent as murder, has worked successfully in a number of instances. In Des Moines, Iowa, for instance, one woman who shot her armed, drunken husband before he could shoot her, was put on probation. Ordinarily she might have spent up to eight years in the State Reformatory for Women at Rockwell City, Iowa, but because of the Polk County community probation program, she still holds the same job she did before the shooting and lives at home with her children. [\[379\]](#page-239-30) The rationale behind the program is that almost everybody is better served because she went home rather than to prison: the taxpayers saved the costs of her incarceration as well as those of placing her children in foster homes or institutions; the children were better off by staying with their mother and she is better off in the community rather than the dehumanizing environment of prison.
-- • Community probation. Basically, we are committed to the concept of community groups filling the helping role which is presently part of the task of the probation officer. A convicted person could be released to his/her neighborhood group. They could secure employment, education or vocational training, housing, medical care or related services, mental health counseling, help for alcoholics, drug abusers, gamblers and other addicted people. The probationer under community care is far better off than one under the constant threat and surveillance of the system. One-to-one community volunteer probation programs can be developed on a contractual basis with a voucher system to purchase needed services. Volunteers can also be responsible for bringing victims and lawbreakers together for the purpose of restitution. Probation began thru the efforts of a volunteer and more than a hundred years later, volunteers can restore the original purpose of probation as first envisioned by Jonn Augustus. Volunteer probation programs are already gaining superior results around the country. [\[380\]](#page-239-31)
+- Extending the use of probation. Keeping more people in the community, even tho they have committed impulsive crimes as violent as murder, has worked successfully in a number of instances. In Des Moines, Iowa, for instance, one woman who shot her armed, drunken husband before he could shoot her, was put on probation. Ordinarily she might have spent up to eight years in the State Reformatory for Women at Rockwell City, Iowa, but because of the Polk County community probation program, she still holds the same job she did before the shooting and lives at home with her children. \[379\] The rationale behind the program is that almost everybody is better served because she went home rather than to prison: the taxpayers saved the costs of her incarceration as well as those of placing her children in foster homes or institutions; the children were better off by staying with their mother and she is better off in the community rather than the dehumanizing environment of prison.
+- • Community probation. Basically, we are committed to the concept of community groups filling the helping role which is presently part of the task of the probation officer. A convicted person could be released to his/her neighborhood group. They could secure employment, education or vocational training, housing, medical care or related services, mental health counseling, help for alcoholics, drug abusers, gamblers and other addicted people. The probationer under community care is far better off than one under the constant threat and surveillance of the system. One-to-one community volunteer probation programs can be developed on a contractual basis with a voucher system to purchase needed services. Volunteers can also be responsible for bringing victims and lawbreakers together for the purpose of restitution. Probation began thru the efforts of a volunteer and more than a hundred years later, volunteers can restore the original purpose of probation as first envisioned by Jonn Augustus. Volunteer probation programs are already gaining superior results around the country. \[380\]
 
-The National Advisory Commission on Criminal Justice Standards and Goals predicted that probation will become the standard sentence in criminal cases with imprisonment retained chiefly for those who cannot safely be returned to the community. [\[381\]](#page-239-32) It is both cheap and effective.
+The National Advisory Commission on Criminal Justice Standards and Goals predicted that probation will become the standard sentence in criminal cases with imprisonment retained chiefly for those who cannot safely be returned to the community. \[381\] It is both cheap and effective.
 
-In California, for instance, even with expanded probation services, the cost of probation runs little more than one-tenth the cost of imprisonment, approximately \$600 per person annually compared to \$5,000 for institutionalization. [\[382\]](#page-239-33) These savings were also recognized when the Governor's Citizens' Study Committee on Offender Rehabilitation in Wisconsin recommended that all persons subject to imprisonment for conviction of a criminal offense be given probation unless a special showing is made that imprisonment is necessary for the protection of society. [\[383\]](#page-239-34)
+In California, for instance, even with expanded probation services, the cost of probation runs little more than one-tenth the cost of imprisonment, approximately \$600 per person annually compared to \$5,000 for institutionalization. \[382\] These savings were also recognized when the Governor's Citizens' Study Committee on Offender Rehabilitation in Wisconsin recommended that all persons subject to imprisonment for conviction of a criminal offense be given probation unless a special showing is made that imprisonment is necessary for the protection of society. \[383\]
 
-Probation was used for more than 70 percent of convicted lawbreakers in the Saginaw Project in Michigan between 1957 and 1962 with a very low rate of failure. Taxpayers' savings were over half a million dollars. [\[384\]](#page-239-35) Other follow-up studies of probation indicate that failure rates are relatively low and savings very high.
+Probation was used for more than 70 percent of convicted lawbreakers in the Saginaw Project in Michigan between 1957 and 1962 with a very low rate of failure. Taxpayers' savings were over half a million dollars. \[384\] Other follow-up studies of probation indicate that failure rates are relatively low and savings very high.
 
-To encourage the use of probation as a community based alternative to imprisonment, in 1965 California's legislature authorized a probation subsidy program which developed incentives for counties that lowered their commitment rates to state prisons. [\[385\]](#page-239-36) Counties are reimbursed by the state at the rate of \$2,000 to \$4,000 per individual based on the reduction of previous commitment performance. This "reward" saves money for the state which is reimbursed to the county probation departments.
+To encourage the use of probation as a community based alternative to imprisonment, in 1965 California's legislature authorized a probation subsidy program which developed incentives for counties that lowered their commitment rates to state prisons. \[385\] Counties are reimbursed by the state at the rate of \$2,000 to \$4,000 per individual based on the reduction of previous commitment performance. This "reward" saves money for the state which is reimbursed to the county probation departments.
 
 In 1966–1967, its first year of operation, prison commitment was reduced by 1,398 cases. By fiscal 1972–1973, the program had succeeded in excarcerating 5,449 cases, a commitment reduction of 50 percent from the base period. The degree of excarceration thru probation subsidies was double that hoped for by the original planners and was achieved with no resultant increase in the use of local jails. Subsidy funds cannot be used to establish or improve local jails.
 
@@ -3558,19 +3558,19 @@ Abolitionists applaud individual examples of creative alternative sentencing bec
 
 Without legislative guarantees, judicial discretion and disparity will continue to occur in the sentencing of those who possess characteristics, lifestyles or histories that activate the judges' race, sex and class biases. Prisons will still be filled with the same unfortunates, while sentencing alternatives are handed out to the few who are luckily included on the judges' private lists of those who qualify for preferred treatment. As long as this unjust system persists-all sentences, including the range of alternatives, must, in the interest of equality and fairness, be fixed by law and subject to review.
 
-Abolitionists must continually work toward limiting sentence disparity by enforcing new penal codes and sentencing rules [\[386\]](#page-239-37) which focus on alternative sentences. Persistent and gradual alterations will need to be made to existing codes, until penal sanctions are eliminated entirely. At the same time, resources and services must be created in the community to serve as sentencing options.
+Abolitionists must continually work toward limiting sentence disparity by enforcing new penal codes and sentencing rules \[386\] which focus on alternative sentences. Persistent and gradual alterations will need to be made to existing codes, until penal sanctions are eliminated entirely. At the same time, resources and services must be created in the community to serve as sentencing options.
 
 ### **Current status of sentencing**
 
-In the U. S. between one and two million persons each year stand before the bench to hear a judge pronounce sentence. [\[387\]](#page-240-0) The lion's share of the responsibility for sentencing rests upon the shoulders of individual trial court judges-the trial court judge is still "the man." This almost godlike power with relatively little oversight or review has been criticized for generations.
+In the U. S. between one and two million persons each year stand before the bench to hear a judge pronounce sentence. \[387\] The lion's share of the responsibility for sentencing rests upon the shoulders of individual trial court judges-the trial court judge is still "the man." This almost godlike power with relatively little oversight or review has been criticized for generations.
 
-American trial judges have no formal training or apprenticeship in judging. [\[388\]](#page-240-1) Further, most American judges have never seen the inside of a prison; even fewer have found it necessary to spend more than a few hours in any penal institution. [\[389\]](#page-240-2) They are mostly middle aged male Caucasians who have not associated much with criminal defendants (many are former prosecutors), who have not lived recently in poverty, who have been more than ordinarily "successful" in their profession. [\[390\]](#page-240-3) As white middle class males, they are subject to the same race, class and sex bias as others. Whatever pettiness, malice, bigotry, fear, paranoia, resentment, vengefulness, and spite are generated in the hearts of men can be demonstrated in the sentencing decisions of judges. [\[391\]](#page-240-4)
+American trial judges have no formal training or apprenticeship in judging. \[388\] Further, most American judges have never seen the inside of a prison; even fewer have found it necessary to spend more than a few hours in any penal institution. \[389\] They are mostly middle aged male Caucasians who have not associated much with criminal defendants (many are former prosecutors), who have not lived recently in poverty, who have been more than ordinarily "successful" in their profession. \[390\] As white middle class males, they are subject to the same race, class and sex bias as others. Whatever pettiness, malice, bigotry, fear, paranoia, resentment, vengefulness, and spite are generated in the hearts of men can be demonstrated in the sentencing decisions of judges. \[391\]
 
-Such sweeping power, combined with the unpredictable circumstances of the personality of the sentencing judge, leads only to injustice-disparate sentencing-the bitterest pill for prisoners to swallow. [\[392\]](#page-240-5)
+Such sweeping power, combined with the unpredictable circumstances of the personality of the sentencing judge, leads only to injustice-disparate sentencing-the bitterest pill for prisoners to swallow. \[392\]
 
 ### **Interim strategies**
 
-Abolitionists can easily he caught in a paralyzing dilemma regarding sentencing. On the one hand, our visions for the future include not only abolition of prisons, but abolition of the present criminal (in)justice systems. [\[393\]](#page-240-6) We look forward to alternatives to the adversary system, [\[394\]](#page-240-7) particularly small local civil courts based on the mediation model rather than punishment. Other long range goals include broadening the application of restitution to all wrongdoing and simplifying, equalizing, reducing and eventually abolishing criminal law.
+Abolitionists can easily he caught in a paralyzing dilemma regarding sentencing. On the one hand, our visions for the future include not only abolition of prisons, but abolition of the present criminal (in)justice systems. \[393\] We look forward to alternatives to the adversary system, \[394\] particularly small local civil courts based on the mediation model rather than punishment. Other long range goals include broadening the application of restitution to all wrongdoing and simplifying, equalizing, reducing and eventually abolishing criminal law.
 
 We realize it will take a long time to achieve these goals. We realize too that we live and work in the present. We know that each year between one and two million persons stand before judges. These judges hold enormous power. They make decisions of life or death for many. Physical death in the case of capital punishment, day to day death for those imprisoned-and excarceration for the chosen few. We cannot make the leap from the present reality to our abolitionist vision without a series of leaps in between.
 
@@ -3634,7 +3634,7 @@ The defenders of these treatment models refuse to acknowledge that society, thru
 
 ## **"Dangerousness" and predictability**
 
-"Dangerousness" is difficult to define. Definitions always hinge on the unstated assumption that it is possible to predict which persons will commit violent acts in the future. The ability to make such predictions has not been demonstrated. Judges, parole board members, psychiatrists and others who attempt to predict "dangerousness" err grossly on the side of overprediction.[\[395\]](#page-240-8) This results in the needless imprisonment of the many out of fear of the few.
+"Dangerousness" is difficult to define. Definitions always hinge on the unstated assumption that it is possible to predict which persons will commit violent acts in the future. The ability to make such predictions has not been demonstrated. Judges, parole board members, psychiatrists and others who attempt to predict "dangerousness" err grossly on the side of overprediction.\[395\] This results in the needless imprisonment of the many out of fear of the few.
 
 The label "dangerous" is increasingly used by the authorities to immure protesters and political militants in the dungeon recesses of prison. The case of George Jackson, who spent eleven years of his short life in prison —most of them in solitary-for the original offense of stealing \$70, is now known the world over. His book Soledad Brother was hailed by distinguished critics here and abroad as "the voice of a free Black man in white America, letters that chart the spiritual and political growth of an extraordinary man" .... In contrast are the views of L. H. Fudge, associate superintendent of a California prison camp, who wrote in a confidential memorandum to his colleagues: "This book provides remarkable insight into the personality makeup of a highly dangerous sociopath, this type individual is not uncommon in several of our institutions. Because of his potential and the growing numbers, it is imperative that we in Corrections know as much as we can about his personality makeup and are able to correctly identify his kind ... this is one of the most self-revealing and insightful books I have ever read concerning a criminal personality."
 
@@ -3670,7 +3670,7 @@ existed more in the minds of those responsible for labeling him as such than he 
 
 It is clear after examining the data, that "experts" cannot predict dangerousness, either among prisoners or among the accused. In both cases, over-prediction means that untold numbers of innocent persons remain imprisoned, needlessly punished.
 
-Despite our awareness of problems with predictability, the public's real emotional problem still remains. How can they be told that the "experts" they look to for protection cannot define who needs to be kept off the streets? The burden falls on judges, mental health workers and prison changers to take the lead in dispelling the myths of predictability of dangerousness.[\[396\]](#page-240-9)
+Despite our awareness of problems with predictability, the public's real emotional problem still remains. How can they be told that the "experts" they look to for protection cannot define who needs to be kept off the streets? The burden falls on judges, mental health workers and prison changers to take the lead in dispelling the myths of predictability of dangerousness.\[396\]
 
 In the short range, we suggest three ways to begin to dispel the myths and deal with the concrete realities of defining, categorizing and responding to violent behavior:
 
@@ -3684,12 +3684,12 @@ Research can be cited which points to the myth of dangerousness. Many studies ha
 
 - The American Psychiatric Association Task Force on Clinical Aspects of the
 
-Violent Individual. [\[397\]](#page-240-10) This report, released in November 1974, concluded that predictions of dangerousness are fundamentally of very low reliability. With few exceptions they are predictions of rare or infrequent events.
+Violent Individual. \[397\] This report, released in November 1974, concluded that predictions of dangerousness are fundamentally of very low reliability. With few exceptions they are predictions of rare or infrequent events.
 
 The likelihood of the expected behavior, such as violation of parole by a released prisoner whose previous crime was violent or the possibility of serious assault being committed by a released mental patient, would be very slight. Even if an index of violence proneness could be developed to correctly identify prior to release 50 percent of those individuals who will violate parole by committing violent offenses, the actual employment of such an index would identify eight times as many false positives as true positives. This means that eight of the nine persons retained in prison as a result of application of the index would not have committed such offenses if released.
 
-- • The Research Center of the National Probation and Parole Institute [\[398\]](#page-240-11) of the National Council on Crime and Delinquency. A study released in October 1972 follows the success and failure of more than 50,000 men thruout the country who were paroled in 1969. The rate of return for major crimes is not nearly as high as commonly believed -somewhere between five and eight percent in the first year, and presumably less after that, since the recidivism rate declines the longer parolees are on the street. Offenses involving violence—homicide, manslaughter, forcible rape and aggravated assault -accounted for less than one percent (.79 percent) of the men returned because of new commitment or allegation of violent offense. Another 1.1 percent were returned for potentially violent offenses (armed or unarmed robbery). The bulk of returns are for various forms of theft and violation of alcohol and narcotics laws.
-- • The Baxstrom Studies [\[399\].](#page-240-12) In 1966, the U. S. Supreme Court ruled in Baxstrom v. Herold that Johnnie K. Baxstrom, who was sent to an institution for seconddegree assault, could not be held in a maximum-security hospital for the criminally insane without proper judicial review for a longer period than he would have served in prison for the same offense. The decision resulted in the transfer of 967 patients from New York's two hospitals for the criminally insane to regular civil hospitals. These patients had committed or allegedly committed crimes, were considered dangerous, and were widely feared by the hospital staffs who had to house them in regular security facilities. Mental health officials were convinced that most of them would be so dangerous they would have to be returned to maximum-security hospitals, and if released, would be a threat to the community.
+- • The Research Center of the National Probation and Parole Institute \[398\] of the National Council on Crime and Delinquency. A study released in October 1972 follows the success and failure of more than 50,000 men thruout the country who were paroled in 1969. The rate of return for major crimes is not nearly as high as commonly believed -somewhere between five and eight percent in the first year, and presumably less after that, since the recidivism rate declines the longer parolees are on the street. Offenses involving violence—homicide, manslaughter, forcible rape and aggravated assault -accounted for less than one percent (.79 percent) of the men returned because of new commitment or allegation of violent offense. Another 1.1 percent were returned for potentially violent offenses (armed or unarmed robbery). The bulk of returns are for various forms of theft and violation of alcohol and narcotics laws.
+- • The Baxstrom Studies \[399\]. In 1966, the U. S. Supreme Court ruled in Baxstrom v. Herold that Johnnie K. Baxstrom, who was sent to an institution for seconddegree assault, could not be held in a maximum-security hospital for the criminally insane without proper judicial review for a longer period than he would have served in prison for the same offense. The decision resulted in the transfer of 967 patients from New York's two hospitals for the criminally insane to regular civil hospitals. These patients had committed or allegedly committed crimes, were considered dangerous, and were widely feared by the hospital staffs who had to house them in regular security facilities. Mental health officials were convinced that most of them would be so dangerous they would have to be returned to maximum-security hospitals, and if released, would be a threat to the community.
 
 These patients were followed for more than four years after their transfer. Only 26 of them became troublesome enough to be returned to hospitals for the criminally insane. In a sample of 98 patients who were released, 20 were arrested, 11 convicted, but only two of the offenses could be considered dangerous: a robbery and an assault. If it hadn't been for the Baxstrom decision, almost 1,000 persons would have spent another five, ten or more years in hospitals for the criminally insane while only a tiny minority of them would have exhibited dangerous behavior after release.
 
@@ -3697,16 +3697,16 @@ It is unfortunate but true that there are violent people in this society. Some o
 
 —Robert Sommer, The End of Imprisonment, pp. 180–81
 
-Other studies on similar populations have also found low rates of dangerous behavior. In 1968 P. G. Mc Grath reported the results of his study of 293 murderers who were released from Broadmoor Hospital in England. Not one killed again. Four years later only one had killed again. Moreover, said Mc Grath, in the past 50 years about 140 patients were released each year from Broadmoor, and only two had been convicted of murder since release. [\[400\]](#page-240-13)
+Other studies on similar populations have also found low rates of dangerous behavior. In 1968 P. G. Mc Grath reported the results of his study of 293 murderers who were released from Broadmoor Hospital in England. Not one killed again. Four years later only one had killed again. Moreover, said Mc Grath, in the past 50 years about 140 patients were released each year from Broadmoor, and only two had been convicted of murder since release. \[400\]
 
-- Uniform Parole Report Studies of Murderers. [\[401\]](#page-240-14) Nationwide statistics on parole performance, compiled by National Council on Crime and Delinquency, consistently show that paroled murderers are the best parole risks. Because, from the viewpoint of the general public, the murderer is perceived as the most dangerous type of offender, it might be supposed that murderers as a group present grave risks on parole. In fact, this is simply not the case. Parole Risks of Convicted Murderers, a special UPR study of 6,908 paroled murderers released during 1965–1969 across the nation, showed that 21 (0.3 percent) committed murder again during the first year of parole. A total of 122 (1.77 percent) were found guilty of new major offenses. Compare this failure rate with that of 9.03 percent for all other type of lawbreakers.
-- • The Center for the Care and Treatment of Dangerous Persons. [\[402\]](#page-240-15) A team of five mental health professionals, including two psychiatrists, made clinical examinations of individuals who had been convicted of serious assaultive crimes, often sexual in nature. These lawbreakers were assigned to special treatment programs after conviction and, at the time of the study, were eligible for release. Based upon the examinations, extensive case histories and the results of psychological tests, the team attempted to predict which individuals would commit assaultive crimes if released. These predictions of dangerousness were made prior to the court hearings at which the ultimate release decisions were made. Of 49 patients considered by the evaluating team to be dangerous and therefore not recommended for release, but who nevertheless were released after a court hearing, 65 percent had not committed a violent crime within five years of returning to the community. In other words, two-thirds of those predicted to be dangerous by a team of professionals did not, in fact, turn out to be dangerous.
+- Uniform Parole Report Studies of Murderers. \[401\] Nationwide statistics on parole performance, compiled by National Council on Crime and Delinquency, consistently show that paroled murderers are the best parole risks. Because, from the viewpoint of the general public, the murderer is perceived as the most dangerous type of offender, it might be supposed that murderers as a group present grave risks on parole. In fact, this is simply not the case. Parole Risks of Convicted Murderers, a special UPR study of 6,908 paroled murderers released during 1965–1969 across the nation, showed that 21 (0.3 percent) committed murder again during the first year of parole. A total of 122 (1.77 percent) were found guilty of new major offenses. Compare this failure rate with that of 9.03 percent for all other type of lawbreakers.
+- • The Center for the Care and Treatment of Dangerous Persons. \[402\] A team of five mental health professionals, including two psychiatrists, made clinical examinations of individuals who had been convicted of serious assaultive crimes, often sexual in nature. These lawbreakers were assigned to special treatment programs after conviction and, at the time of the study, were eligible for release. Based upon the examinations, extensive case histories and the results of psychological tests, the team attempted to predict which individuals would commit assaultive crimes if released. These predictions of dangerousness were made prior to the court hearings at which the ultimate release decisions were made. Of 49 patients considered by the evaluating team to be dangerous and therefore not recommended for release, but who nevertheless were released after a court hearing, 65 percent had not committed a violent crime within five years of returning to the community. In other words, two-thirds of those predicted to be dangerous by a team of professionals did not, in fact, turn out to be dangerous.
 
 ### **Shifting the emphasis**
 
-The media constantly reinforces the belief that crime is a symptom of underlying psychic disturbance. This view has bolstered the assumption that criminality lies mainly within the individual. One of the difficulties with this conception of crime is that it is almost impossible to prove or disprove, at least in a systematic way.[\[403\]](#page-240-16)
+The media constantly reinforces the belief that crime is a symptom of underlying psychic disturbance. This view has bolstered the assumption that criminality lies mainly within the individual. One of the difficulties with this conception of crime is that it is almost impossible to prove or disprove, at least in a systematic way.\[403\]
 
-A primary theme in the sociology of crime emphasizes the learned nature of criminal behavior. Learning includes not only direct instruction, but also the long term influences of the socialization process. These are often quite subtle. All human behavior significantly reflects such influences, and criminal behavior is no exception.[\[404\]](#page-240-17)
+A primary theme in the sociology of crime emphasizes the learned nature of criminal behavior. Learning includes not only direct instruction, but also the long term influences of the socialization process. These are often quite subtle. All human behavior significantly reflects such influences, and criminal behavior is no exception.\[404\]
 
 As an example, learned behavior is particularly evident with the violent crime of rape (considered at length in the next chapter). A sexist culture which devalues and objectifies women is certainly instructing consumers of that culture in violent sexual behavior. The problem of violent behavior will not be decreased or controlled merely by locking up rapists individually labeled "dangerous" while such practices in one form or another continue to be glorified by the culture. We can challenge many other obvious examples of societal instruction in criminal violence, not least among them the daily instruction in murder and assault on t.v. Our energies must focus on changing the violent message emanating from the culture. Cultural values and behavioral patterns can be changed through broad, systematic public reeducation and resocialization.
 
@@ -3754,9 +3754,9 @@ The data in this section is based not only on research by scientists, but also o
 
 **Reality:** A rapist is a man whose sexuality finds its expression in domination, control and degradation of a victim. The majority of rapes are planned in advance.
 
-This myth rationalizes rape and excuses the rapist by arguing that rape is an impulsive act, innate and universal‑an aspect of "animal nature," motivated by sexual needs which cannot go unfulfilled. This is not borne out by cross‑cultural studies; they suggest that male aggression and hostility expressed thru sexuality are culturally induced, learned behaviors rather than man's "natural" instinct.[\[405\]](#page-241-0)
+This myth rationalizes rape and excuses the rapist by arguing that rape is an impulsive act, innate and universal‑an aspect of "animal nature," motivated by sexual needs which cannot go unfulfilled. This is not borne out by cross‑cultural studies; they suggest that male aggression and hostility expressed thru sexuality are culturally induced, learned behaviors rather than man's "natural" instinct.\[405\]
 
-Both victims' experiences and independent interviews with rapists strongly suggest that the desire to control, humiliate and violate is a primary motivation in rape. [\[406\]](#page-241-1) ]This theory partially coincides with findings from limited studies conducted at prisons and mental institutions. Of the convicted rapists studied, most seem to be motivated by feelings of contempt and hostility toward women and by a variety of rage‑producing conditions in their lives.[\[407\]](#page-241-2)
+Both victims' experiences and independent interviews with rapists strongly suggest that the desire to control, humiliate and violate is a primary motivation in rape. \[406\] ]This theory partially coincides with findings from limited studies conducted at prisons and mental institutions. Of the convicted rapists studied, most seem to be motivated by feelings of contempt and hostility toward women and by a variety of rage‑producing conditions in their lives.\[407\]
 
 In a culture where masculinity is equated with control, force, dominance, power, strength and competitiveness, rape is an extreme acting out of these qualities. Insofar as sex is an area where these attitudes about masculinity are most intensely expressed, sexuality does play a part in the rapist's act of aggression.
 
@@ -3772,19 +3772,19 @@ This myth is used to place the burden of guilt on the woman, by implying that sh
 
 **Reality**: A rape victim is not responsible for the fact that she is attacked.
 
-"Blaming the victim" is used as an argument to shift blame from the rapist to the victim. It is often combined with moral judgments of the victim's character ("Are you a virgin?" "Do you sleep with men other than your husband?") to claim that she should he denied legal rights, implying that she must have provoked the sexual encounter.[\[408\]](#page-241-3)
+"Blaming the victim" is used as an argument to shift blame from the rapist to the victim. It is often combined with moral judgments of the victim's character ("Are you a virgin?" "Do you sleep with men other than your husband?") to claim that she should he denied legal rights, implying that she must have provoked the sexual encounter.\[408\]
 
-From this viewpoint it is argued that there is something psychologically different about victims and nonvictims of rape. "Good girls don't get raped." "What were you wearing?" "Why did you get into his car/his apartment/walk home alone?" Essentially these questions establish victim guilt. "You were leading him on and asking for it."[\[409\]](#page-241-4)
+From this viewpoint it is argued that there is something psychologically different about victims and nonvictims of rape. "Good girls don't get raped." "What were you wearing?" "Why did you get into his car/his apartment/walk home alone?" Essentially these questions establish victim guilt. "You were leading him on and asking for it."\[409\]
 
-Children of all ages, men and boys in prisons and juvenile homes, babies, and pregnant or handicapped women have all been victims of rape as well as young women who may be "attractive" or "beautiful" by male definitions. Rapists themselves say that the victim's availability and vulnerability made her a prime target, not her individual "beauty" or "provocative" manner.[\[410\]](#page-241-5)
+Children of all ages, men and boys in prisons and juvenile homes, babies, and pregnant or handicapped women have all been victims of rape as well as young women who may be "attractive" or "beautiful" by male definitions. Rapists themselves say that the victim's availability and vulnerability made her a prime target, not her individual "beauty" or "provocative" manner.\[410\]
 
 **Myth:** Rapists are pathologically sick and perverted men.
 
 **Reality:** Men who force a woman to have an unwanted sexual encounter are indistinguishable from the general male population.
 
-This myth has been used to obscure the fact that our culture encourages aggression in males, especially sexual aggression. In addition, typing the rapist as a "murderous sex fiend" serves the function of keeping women frightened and submissive[\[411\],](#page-241-6) yet unaware of the most common source of danger‑the men in their neighborhoods and homes.
+This myth has been used to obscure the fact that our culture encourages aggression in males, especially sexual aggression. In addition, typing the rapist as a "murderous sex fiend" serves the function of keeping women frightened and submissive\[411\], yet unaware of the most common source of danger‑the men in their neighborhoods and homes.
 
-Until recently, sociological and psychological research conducted on convicted rapists tended to verify this myth, focusing on psychological characteristics, family background and "criminal subculture" of the rapist rather than dominant cultural factors and norms which might encourage sexual aggression against females. [\[412\]](#page-241-7)
+Until recently, sociological and psychological research conducted on convicted rapists tended to verify this myth, focusing on psychological characteristics, family background and "criminal subculture" of the rapist rather than dominant cultural factors and norms which might encourage sexual aggression against females. \[412\]
 
 The scanty information we do have, however—F. B. I. U. C. R. statistics, recent sociological studies, statistics and information from rape crisis centers, and interviews with victims and rapists‑all refute the myth of the psychologically deranged rapist. Altho the psychotic rapist does exist, as does the psychotic murderer, he is the extreme exception. Listening to victims and to the few rapists who have spoken out, we discover that there is no "typical" rapist but that he is less likely to be a "deviant sexual psychopath" than a married businessman, a street‑wise teenager or a fraternity brother.
 
@@ -3796,7 +3796,7 @@ Those men (rapists) were the most normal men there (San Luis Obispo prison). The
 
 **Reality:** About half of reported rapes occur in the victim's home.
 
-The Denver Anti‑Crime Council study, "The Crime of Rape in Denver," revealed that in 41.2 percent of cases studied, the victim was either at home engaged in routine daily activities or sleeping when the rape was initiated; in 26 percent of cases she was attending a recreational or sports activity and in less than five percent she was hitchhiking.[\[413\]](#page-241-8)
+The Denver Anti‑Crime Council study, "The Crime of Rape in Denver," revealed that in 41.2 percent of cases studied, the victim was either at home engaged in routine daily activities or sleeping when the rape was initiated; in 26 percent of cases she was attending a recreational or sports activity and in less than five percent she was hitchhiking.\[413\]
 
 **Myth:** The typical rapist is a stranger to the victim.
 
@@ -3804,13 +3804,13 @@ The Denver Anti‑Crime Council study, "The Crime of Rape in Denver," revealed t
 
 "Shadow" statistics, documenting cases which were not reported to police but to rape crisis centers, friends, private physicians, psychiatrists and mental health centers, are not included in official studies. Cases of wife‑rape for instance, never appear in official statistics because by the legal definition of rape, a husband cannot rape his wife. Women who are raped by friends or ex‑husbands are extremely reluctant to report due to widespread insensitivity and harassment by police and courts.
 
-Despite these inhibitors, most studies on victim/rapist relationships indicate that the rapist is as likely to be a man known to the victim as he is to be a stranger.[\[414\]](#page-241-9)
+Despite these inhibitors, most studies on victim/rapist relationships indicate that the rapist is as likely to be a man known to the victim as he is to be a stranger.\[414\]
 
 **Myth:** Most rapes are committed by Black men against white women.
 
 **Reality:** Most rapes involve a man and woman of the same race.
 
-In addition to the majority of rapes being intraracial,[\[415\]](#page-241-10) Black women appear to be the victims of rape four times as often as white women.[\[416\]](#page-241-11) Again, these statistics are based on cases of reported rapes.
+In addition to the majority of rapes being intraracial,\[415\] Black women appear to be the victims of rape four times as often as white women.\[416\] Again, these statistics are based on cases of reported rapes.
 
 **Myth:** An imbalance in the sex ratio causes rape; legalizing prostitution would reduce rape.
 
@@ -3818,7 +3818,7 @@ In addition to the majority of rapes being intraracial,[\[415\]](#page-241-10) B
 
 The sex ratio theory states that men resort to rape because they are unable to secure legitimate sexual partners. It goes hand in hand with the theory that legalizing prostitution would decrease rape.
 
-A variety of studies refute this myth. Three cities which allowed open prostitution experienced a decline in rape after prostitution was again prohibited. [\[417\]](#page-241-12) Rapists include men who do not patronize prostitutes. Rapists include men who have "girlfriends," or are married, or living with women.[\[418\]](#page-241-13) Statistical studies of reported rapes show that the majority of rapists are well below the age of males who most frequently use prostitutes. Finally, in Vietnam, brothels for the American military were officially sanctioned and incorporated into the base‑camp recreation areas and yet G. I. rape and sexual abuse of Vietnamese women and girls is one of the most atrocious chapters of violence in U. S. history.[\[419\]](#page-241-14)
+A variety of studies refute this myth. Three cities which allowed open prostitution experienced a decline in rape after prostitution was again prohibited. \[417\] Rapists include men who do not patronize prostitutes. Rapists include men who have "girlfriends," or are married, or living with women.\[418\] Statistical studies of reported rapes show that the majority of rapists are well below the age of males who most frequently use prostitutes. Finally, in Vietnam, brothels for the American military were officially sanctioned and incorporated into the base‑camp recreation areas and yet G. I. rape and sexual abuse of Vietnamese women and girls is one of the most atrocious chapters of violence in U. S. history.\[419\]
 
 **Myth:** A woman cannot be raped by her husband.
 
@@ -3830,7 +3830,7 @@ By defining rape as not possible within marriage, the law implies that the marri
 
 **Myth:** Women enjoy being raped.
 
-**Reality:** Rape is a brutal act of violence in which the victim is humiliated, degraded, psychologically terrorized and often threatened with death. [\[420\]](#page-241-15) No rape victim‑woman, man or child‑enjoys rape.
+**Reality:** Rape is a brutal act of violence in which the victim is humiliated, degraded, psychologically terrorized and often threatened with death. \[420\] No rape victim‑woman, man or child‑enjoys rape.
 
 The concept that women enjoy sexual violence at the hands of men is a male concept of female sexuality. Freud was the first to theorize that rape is something women desire and that women are masochistic by nature.
 
@@ -3838,7 +3838,7 @@ The majority of rape victims express a primary feeling of fear‑fear of physica
 
 #### **The victimization of women**
 
-A renewed awareness of the social, economic arid political oppression of women occurred during the 1960's. This process took place largely thru women's consciousness‑raising groups which met informally in homes from Miami to Seattle in what was part of the larger Women's Movement. Consciousness‑raising is "the process of transforming the hidden, individual fears of women into a shared awareness of the meaning of them as social problems, the release of anger, anxiety, the struggle of proclaiming the painful and transforming it into the political ...[\[421\]](#page-241-16)
+A renewed awareness of the social, economic arid political oppression of women occurred during the 1960's. This process took place largely thru women's consciousness‑raising groups which met informally in homes from Miami to Seattle in what was part of the larger Women's Movement. Consciousness‑raising is "the process of transforming the hidden, individual fears of women into a shared awareness of the meaning of them as social problems, the release of anger, anxiety, the struggle of proclaiming the painful and transforming it into the political ...\[421\]
 
 Women began to realize that the threat of rape and sexual molestation had restricted their entire lifestyles. Further, they discovered that their personal victimizations were not examples of isolated social problems but part of a consistent pattern. Many women had become so accustomed to sexual exploitation and abuse that they did not recognize themselves as victims of a crime.
 
@@ -3852,7 +3852,7 @@ However muted its present appearance may be, sexual dominion obtains nevertheles
 
 ## —Kate Millett, Sexual Politics, pp. 24‑25
 
-Historically, women in patriarchal societies have been property of the men: women were bought and. sold as merchandise—concubines, slaves, prostitutes, wives.[\[422\]](#page-241-17)
+Historically, women in patriarchal societies have been property of the men: women were bought and. sold as merchandise—concubines, slaves, prostitutes, wives.\[422\]
 
 As the first permanent acquisition of man, his first piece of real property, woman was, in fact, the original building block, the cornerstone, of the "house of the father." Man's forcible extension of his boundaries to his mate and later to their offspring was the beginning of his concept of ownership. Concepts of hierarchy, slavery and private property flowed from, and could only be predicated upon the initial subjugation of women.
 
@@ -3874,17 +3874,17 @@ Sex‑role socialization, like sexual behavior, is learned behavior. In patriarc
 
 Sexualization programming in our society embraces the economic, the political and the cultural. Men and women learn what it means to be masculine and what it means to be feminine thru t.v., textbooks, toys, fairy tales, legends, radio, advertising, magazines, music, novels, movies, cartoons, comic books, laws, jobs, curricula and pornography, thru constant subtle communications from parents and peers and thru the political and economic realities of our everyday lives.
 
-A primary source of gender stereotyping is the media. [\[423\]](#page-241-18) Media objectification of the female body and eroticization of violence constantly repeat the view that women are sexual objects for male gratification and that domination of a woman by a man, especially sexually, is a "turn on."
+A primary source of gender stereotyping is the media. \[423\] Media objectification of the female body and eroticization of violence constantly repeat the view that women are sexual objects for male gratification and that domination of a woman by a man, especially sexually, is a "turn on."
 
-Male aggression and male sexual pleasure are inextricably combined and reinforced, generation after generation, as the masculine norm. "Our society expects the male to be the aggressor in heterosexual relationships, and a certain amount of physical force and duress is consequently acceptable and perhaps even socially necessary." [\[424\]](#page-241-19)
+Male aggression and male sexual pleasure are inextricably combined and reinforced, generation after generation, as the masculine norm. "Our society expects the male to be the aggressor in heterosexual relationships, and a certain amount of physical force and duress is consequently acceptable and perhaps even socially necessary." \[424\]
 
-Mary Daly, feminist philosopher and theologian, and other feminist theorists have exposed the direct connections between male sexual violence, war, race hatred and genocide. Daly has described American patriarchal culture as one exhibiting the "Most Unholy Trinity" of rape, genocide, and war. [\[425\]](#page-241-20) Rapism, the psychology and politics of domination, results in the objectification, abuse, and exploitation of all powerless people.
+Mary Daly, feminist philosopher and theologian, and other feminist theorists have exposed the direct connections between male sexual violence, war, race hatred and genocide. Daly has described American patriarchal culture as one exhibiting the "Most Unholy Trinity" of rape, genocide, and war. \[425\] Rapism, the psychology and politics of domination, results in the objectification, abuse, and exploitation of all powerless people.
 
 #### **Wife assault**
 
 The same ideology of male domination and female inferiority present in the "psychology of rape" perpetuates and rationalizes the crime of wife assault in the home. Both rape and wife assault are traditionally thought of as "victim precipitated" that women somehow are "asking for it," in fact, may "deserve it."
 
-As with rape, wife assault is a blatant example of a crime against women which previously was not acknowledged as a violent crime, despite the fact that millions of women are its victims. [\[426\]](#page-241-21)
+As with rape, wife assault is a blatant example of a crime against women which previously was not acknowledged as a violent crime, despite the fact that millions of women are its victims. \[426\]
 
 Frequently, when a wife who has been beaten does call in the police, it's as a last desperate remedy when she fears for her life. The response of the police is usually to treat such a situation as comic or trifling. There is rarely an arrest made or any encouragement for the wife to press charges. The police seem to identify with the husband, and treat him in a chiding but sympathetic manner.
 
@@ -3894,19 +3894,19 @@ To get an idea of how large the problem of wife beating is, Sgt. Hubenette said 
 
 —Nancy Livingston, "Wife Beating Looms as Major City Crime," St. Paul Sunday Pioneer Press, December 1, 1974
 
-Wife assault is estimated to be one of the least reported crimes in the nation and it is probable that wives and children form "the largest single class of criminal victims in the United States." [\[427\]](#page-242-0) The appalling lack of research on crimes against women and children is linked to the legal system's continual reinforcement of the idea that a man has the right to "discipline" his wife and children, with force if necessary. It is practically impossible for a wife to secure legal protection from a brutal husband."[\[428\]](#page-242-1)
+Wife assault is estimated to be one of the least reported crimes in the nation and it is probable that wives and children form "the largest single class of criminal victims in the United States." \[427\] The appalling lack of research on crimes against women and children is linked to the legal system's continual reinforcement of the idea that a man has the right to "discipline" his wife and children, with force if necessary. It is practically impossible for a wife to secure legal protection from a brutal husband."\[428\]
 
-Altho the role of submissive victim is one which most girls are socialized into from the time of birth, many women and girls are now refusing to take part in their own victimizations. They are leaving brutal marriages and home situations and seeking help from other women. In England, France, Scotland, the Netherlands and the United States, women and girls are organizing harbor houses for the victims of wife assault, rape, and child beating; they are counselling and supporting each other."[\[429\]](#page-242-2)
+Altho the role of submissive victim is one which most girls are socialized into from the time of birth, many women and girls are now refusing to take part in their own victimizations. They are leaving brutal marriages and home situations and seeking help from other women. In England, France, Scotland, the Netherlands and the United States, women and girls are organizing harbor houses for the victims of wife assault, rape, and child beating; they are counselling and supporting each other."\[429\]
 
 ### **Rape & the criminal (in)justice systems**
 
 As with other categories of criminality, national statistics on reported rapes are merely a surface indication of the true rate of the crime. Only cases which fit the narrow legal and societal definitions of reported rape reach the F. B. I. U. C. R.s. Statutory rape cases, those in which the victim is under the legal age of consent, are not included. Rapes of wives by husbands, "date rapes," rapes of prostitutes and hitchhikers, and in many states, anal and oral rape and rape where the victim is male are not included.
 
-Official estimates of rape generally range from five to ten times greater than the reported number; and some experts feel that only one in twenty sexual assaults is ever reported.[\[430\]](#page-242-3) In 1968 the National Opinion Research Council victimization survey findings were used to conclude that over half a million women and children were victims of sexual assaults. [\[431\]](#page-242-4)
+Official estimates of rape generally range from five to ten times greater than the reported number; and some experts feel that only one in twenty sexual assaults is ever reported.\[430\] In 1968 the National Opinion Research Council victimization survey findings were used to conclude that over half a million women and children were victims of sexual assaults. \[431\]
 
 The reasons for victim failure to report are many and varied. They may range from the more volatile feelings of fear and shame to the more practical feelings of futility. All, however, have a common theme in that they imply the absence of any personally compensatory reasons for reporting rape. Those victims who do choose to report cite only one compelling reason to do so—preventing the rapist from similarly assaulting other women and children.
 
-The breakdown in our judicial services is more pronounced where sexual assault is concerned than for any other major crime of violence. [\[432\]](#page-242-5) This is clearly seen in the incredibly low arrest, prosecution and conviction rate for rape. [\[433\]](#page-242-6) Law enforcement officials point to the failure of victims to identify their assailant and the general lack of identifying witnesses at the rape scene as prime factors in the low apprehension rate. The inability of prosecutors to obtain convictions, however, is exceedingly more complicated.
+The breakdown in our judicial services is more pronounced where sexual assault is concerned than for any other major crime of violence. \[432\] This is clearly seen in the incredibly low arrest, prosecution and conviction rate for rape. \[433\] Law enforcement officials point to the failure of victims to identify their assailant and the general lack of identifying witnesses at the rape scene as prime factors in the low apprehension rate. The inability of prosecutors to obtain convictions, however, is exceedingly more complicated.
 
 #### **Placing the victim on trial**
 
@@ -3916,7 +3916,7 @@ About a year ago I had the misfortune to find out just what police treatment is 
 
 Despite governmental responsibility to protect the rights of both the victims and accused, it is clear that the concern of the judicial centers on the rights of the accused in rape trials. The rights of the rape victim have largely been ignored. This is clearly seen in rules of evidence which place the victim's past sexual and personal history on trial more than the accused: a rape trial becomes a test of endurance for the woman. Her credibility as a witness is challenged while her private sex life is openly questioned.
 
-For nearly 100 years our rape laws have required corroborative "proof" and certainty for prosecution which is unequaled in any other area of criminal law.[\[434\]](#page-242-7) Today 39 states do not require—by law—corroborative evidence to establish a case of rape. However, none of these states fails to recite a litany of corroborative facts to support the victim's testimony. In reality, "the fact remains that proof of rape in most cases is sufficient only when the evidence is corroborated."[\[435\]](#page-242-8) Some legal statutes have been altered but sexist and prejudicial attitudes forcing the rape victim to prove her own victimization and implying that women are not to be believed persist in law schools, courtrooms and society. [\[436\]](#page-242-9)
+For nearly 100 years our rape laws have required corroborative "proof" and certainty for prosecution which is unequaled in any other area of criminal law.\[434\] Today 39 states do not require—by law—corroborative evidence to establish a case of rape. However, none of these states fails to recite a litany of corroborative facts to support the victim's testimony. In reality, "the fact remains that proof of rape in most cases is sufficient only when the evidence is corroborated."\[435\] Some legal statutes have been altered but sexist and prejudicial attitudes forcing the rape victim to prove her own victimization and implying that women are not to be believed persist in law schools, courtrooms and society. \[436\]
 
 ... as defense counsel we are not burdened with a lot of the obligations that prosecutors have. We have free reign to do practically anything we want, as long as it's legal. We will impugn the integrity of witnesses when we really don't have any justification for impugning their integrity .... We can accuse victims of being promiscuous and highly immoral ladies, when in fact there is no justification for doing that. It's unfair, but our system builds unfairness. As a defense attorney, it's my job to exploit every opportunity for the defense of my client (the rapist). I'm not involved with the moral issues involved .... It's the image of our client and the image of the woman that goes into the mind of the jury that's important. It's not what the actual facts are ....
 
@@ -3977,7 +3977,7 @@ To demonstrate why most rape victims prefer not to press charges, let's imagine 
 
 Steps are slowly being taken in recognition of the rights of victims. As a direct result of women's experience with the sexist and racist legal system, a drive for rape law reform was initiated by the women's movement in the early 1970's.
 
-An excellent model statute [\[437\]](#page-242-10) was proposed by the New York University Law School Clinical Program in Women's Legal Rights, one of the first such programs in the country. As part of the research for this statute, law students and their professors counselled rape victims. The resulting proposed law is neutral in that it treats rape like any other crime. It corrects seven of of the most flagrant injustices now inherent in most rape laws:
+An excellent model statute \[437\] was proposed by the New York University Law School Clinical Program in Women's Legal Rights, one of the first such programs in the country. As part of the research for this statute, law students and their professors counselled rape victims. The resulting proposed law is neutral in that it treats rape like any other crime. It corrects seven of of the most flagrant injustices now inherent in most rape laws:
 
 - 1. Eliminates the need for corroboration.
 - 2. Eliminates the need for a rape victim to be physically injured to prove rape.
@@ -4005,9 +4005,9 @@ At present it appears unlikely that further development of victim compensation a
 
 Financial restitution by the victimizers is seldom made to rape victims. Successful civil suits against sex offenders are complex and rare.
 
-One of the few awards on record recently went to a Maryland woman [\[438\]](#page-242-11) whose attacker is presently serving time on multiple rape convictions. Unfortunately, the likelihood of the victim actually receiving the \$350,000 judgment is slight.
+One of the few awards on record recently went to a Maryland woman \[438\] whose attacker is presently serving time on multiple rape convictions. Unfortunately, the likelihood of the victim actually receiving the \$350,000 judgment is slight.
 
-More successful civil suits can usually be brought by complainants against the rapist's employers or the owners of the property on which the rape occurred. Charges of negligence against those individuals or companies apparently receive more favorable attention from the courts. In 1974‑1975, civil suits succeeded in Washington, Philadelphia, New York City, Chicago and Los Angeles.[\[439\]](#page-242-12)
+More successful civil suits can usually be brought by complainants against the rapist's employers or the owners of the property on which the rape occurred. Charges of negligence against those individuals or companies apparently receive more favorable attention from the courts. In 1974‑1975, civil suits succeeded in Washington, Philadelphia, New York City, Chicago and Los Angeles.\[439\]
 
 Few women have the strength to undergo the ordeal of court even once. Fewer yet choose to repeat the trauma. It is clear that victim restitution via civil suit at present is not an entirely viable option for the majority of victims.
 
@@ -4017,9 +4017,9 @@ Until victim restitution becomes a reality, however, society owes the victims of
 
 A further area of cultural distortion which has served to impede justice to both the victim and accused are the racist and sexist myths surrounding interracial rape. Black and Third World women are regularly met with societal attitudes of "deserved victimization" and disbelief at every level of the criminal (in)justice systems. Men of the same groups have historically been victimized by the white racist use of the concept of "virtuous white womanhood."
 
-A highly disproportionate number of Black males are convicted of sex offense, [\[440\]](#page-242-13) and Black men are seven times as likely as white men to receive the maximum penalty when convicted.[\[441\]](#page-242-14) Government statistics further show that since 1930, 89 percent of the 455 men executed for rape have been Black. Today 26 of the 35 men on death row for rape convictions are Black.[\[442\]](#page-242-15)
+A highly disproportionate number of Black males are convicted of sex offense, \[440\] and Black men are seven times as likely as white men to receive the maximum penalty when convicted.\[441\] Government statistics further show that since 1930, 89 percent of the 455 men executed for rape have been Black. Today 26 of the 35 men on death row for rape convictions are Black.\[442\]
 
-In a 1973 survey, Brenda A. Brown, of the Memphis, Tennessee police department found that only 16 percent of reported rapes in Memphis were Black on white. Brown's findings are supported by independent studies in Washington, D. C. and Baltimore, Maryland.[\[443\]](#page-242-16)
+In a 1973 survey, Brenda A. Brown, of the Memphis, Tennessee police department found that only 16 percent of reported rapes in Memphis were Black on white. Brown's findings are supported by independent studies in Washington, D. C. and Baltimore, Maryland.\[443\]
 
 Despite this evidence to the contrary, the myths of interracial rape persist, adding fuel to racial tension and ensuring the continued inequities in the treatment of both victims and rapists by our criminal (in)justice systems.
 
@@ -4041,13 +4041,13 @@ Prison rape becomes the ultimate shame. It destroys the spirit and symbolically 
 
 —David Rothenberg, "Group Rip‑Off: The Prison Rape!" The Advocate, May 5, 1976
 
-Public recognition of the epidemic proportions of sexual assault in prison, however, has not altered the situation and there are few statistics or studies on prison rape. The acting out of power roles in an authoritarian environment continues to thrive in keeping with punitive societal attitudes toward prisoners. [\[444\]](#page-242-17) Sexual violence rampant in U. S. prisons and jails is inevitable. Sexual violence and abuse are the results of a violent and abusive system.
+Public recognition of the epidemic proportions of sexual assault in prison, however, has not altered the situation and there are few statistics or studies on prison rape. The acting out of power roles in an authoritarian environment continues to thrive in keeping with punitive societal attitudes toward prisoners. \[444\] Sexual violence rampant in U. S. prisons and jails is inevitable. Sexual violence and abuse are the results of a violent and abusive system.
 
 ### **Empowering the victims of Rape**
 
 Rape is an assault on the victim's self‑determination, sexuality, and psyche.
 
-Following a rape, victims experience:[\[445\]](#page-242-18)
+Following a rape, victims experience:\[445\]
 
 - • Fear of the attacker's return.
 - Fear of being alone.
@@ -4064,7 +4064,7 @@ Until recently, victims of sexual assault had no place to go to receive sympathe
 
 ### **Rape crisis centers**
 
-This situation has changed dramatically as a result of the blossoming of the feminist movement. [\[446\]](#page-242-19) During the early 70's the establishment and maintenance of rape crisis centers was undertaken solely by concerned women, usually under the auspices of feminist groups or women's centers. Most of the early anti‑rape workers were political activists, advocates or community organizers, and many were rape victims themselves. Today more than 200 rape crisis intervention programs are functioning primarily in urban and suburban areas.
+This situation has changed dramatically as a result of the blossoming of the feminist movement. \[446\] During the early 70's the establishment and maintenance of rape crisis centers was undertaken solely by concerned women, usually under the auspices of feminist groups or women's centers. Most of the early anti‑rape workers were political activists, advocates or community organizers, and many were rape victims themselves. Today more than 200 rape crisis intervention programs are functioning primarily in urban and suburban areas.
 
 The centers provide supportive services to victims of sexual assault while acting as buffers between victims and institutional sexist practices. Program activities include:
 
@@ -4090,7 +4090,7 @@ Secondly, re‑education campaigns should be directed at potential rapists‑mal
 
 ## **Grass‑roots organizing & professionalism**
 
-Rape prevention centers take a variety of forms and work from differing philosophies. Some are self‑supporting, grass‑roots feminist centers whose political beliefs and autonomy are essential to the services they provide. Other centers are organized and run by professionals within police departments, prosecutors' offices, hospitals, churches, mental health clinics and other established organizations. [\[447\]](#page-242-20)
+Rape prevention centers take a variety of forms and work from differing philosophies. Some are self‑supporting, grass‑roots feminist centers whose political beliefs and autonomy are essential to the services they provide. Other centers are organized and run by professionals within police departments, prosecutors' offices, hospitals, churches, mental health clinics and other established organizations. \[447\]
 
 The struggle, at any level, against sexual violence, is scattered and inadequate. Anti‑rape groups, feminist or professional, barely scratch the surface in their attempts to bring aid to victims, change inhumane institutions and challenge and eradicate rape‑promoting sexism in education, media and elsewhere.
 
@@ -4098,12 +4098,12 @@ While all efforts are vitally needed, abolitionists particularly encourage rape 
 
 ### **How to start a rape crisis center**
 
-The first step in organizing a rape crisis service [\[448\]](#page-242-21) is to gather concerned women who are willing to donate time and energy to build this victim service.
+The first step in organizing a rape crisis service \[448\] is to gather concerned women who are willing to donate time and energy to build this victim service.
 
 **Determine the needs** of women in your community.
 
 - • Gather statistical data from local police, including the number of sexual assault cases reported during a particular time period, the number labeled "unfounded," those "not prosecutable" due to victim's relationship to the attacker (some grand juries will refuse to indict if the woman was a prostitute or was hitchhiking, or if she was attacked by her boyfriend), those cleared by arrest, those ending in conviction. Also check categories of assault, burglary, breaking and entering and homicide and ask the police or prosecutor's office how many cases involved rape. If the police have incomplete statistics, prosecutors are often able to supply them.
-- • Check to see if your city was one studied in the HEW‑LEAA survey, "Non‑Reported Crime in High Impact Crime Cities."[\[449\]](#page-242-22)
+- • Check to see if your city was one studied in the HEW‑LEAA survey, "Non‑Reported Crime in High Impact Crime Cities."\[449\]
 - Check hospital emergency room records via the administrator, if possible, to determine the number of sexual assault victims treated.
 - It is imperative to know how rape victims are treated by police and medical personnel so that you can offer realistic information to the victim, who must decide whether or not to report the crime. In addition, statistics are necessary in order to demonstrate to the community the need for a crisis center and, to potential volunteers, the need for their services.
 - Conduct victim surveys in your community via women's newsletters, the YWCA, Church Women United, League of Women Voters, NOW, local papers, radio and t.v. Attempt to reach doctors, nurses, psychiatrists, mental health workers, welfare workers, teachers, guidance counselors, hot‑line volunteers, youth workers and others who can distribute survey questionnaires to victims and their families. Keep in mind that the victim must contact you. Stress that all information is confidential. Ask only basic questions: Did the victim report the assault? If she did, what was her experience? If she did not, why not? What recommendations might she have for police and hospital procedures?
@@ -4122,8 +4122,8 @@ Full service crisis centers might include: Telephone crisis counseling. Peer gro
 
 ### **An empowerment model: BAWAR**
 
-- In 1970 a 13‑year‑old Berkeley girl was raped at school. For nearly six hours, while she was questioned by school authorities and police and medically examined at a hospital, she was prevented from seeing her parents. Following this incident, the girl's mother and some friends met to discuss their anger. In November 1971, these women organized BAWAR, Bay Area Women Against Rape.[\[450\]](#page-242-23)
-- • BAWAR emphasizes the political and ideological aspects of rape. Says one woman: "We discuss the definition of rape and oppression to prepare women for the phones and other BAWAR activities. Our training is done by women in the group. We do not support 'professional' approaches to dealing with rape."[\[451\]](#page-242-24) BAWAR offers the victim a perspective on ways to gain power over her own life and challenge old myths which function to encourage her guilt feelings and fear.
+- In 1970 a 13‑year‑old Berkeley girl was raped at school. For nearly six hours, while she was questioned by school authorities and police and medically examined at a hospital, she was prevented from seeing her parents. Following this incident, the girl's mother and some friends met to discuss their anger. In November 1971, these women organized BAWAR, Bay Area Women Against Rape.\[450\]
+- • BAWAR emphasizes the political and ideological aspects of rape. Says one woman: "We discuss the definition of rape and oppression to prepare women for the phones and other BAWAR activities. Our training is done by women in the group. We do not support 'professional' approaches to dealing with rape."\[451\] BAWAR offers the victim a perspective on ways to gain power over her own life and challenge old myths which function to encourage her guilt feelings and fear.
 - BAWAR alerts potential victims by posting "street sheets" with a description of known rapists, their auto license numbers and modes of operation.
 - BAWAR brought police, emergency room personnel and district attorneys together for the first time to discuss ways each agency could function for the benefit of the victim and her court case. Rape counselors now regularly train new police recruits and hospital personnel to sensitize them to the needs of rape victims.
 
@@ -4131,28 +4131,28 @@ Full service crisis centers might include: Telephone crisis counseling. Peer gro
 
 **Washington, D. C. Rape Crisis Center** emphasizes community education and rape prevention above individual crisis counseling, hoping to reach potential victims before they are raped. Women speak to community groups, junior high, high school and college students and women at their workplace, stressing rape and woman's position in society, rape prevention, self‑defense and how to deal with institutions if you are raped. Upon request from the D. C. School System, the center prepared a seventh grade curriculum unit which is used by the public schools for health and safety classes. The center does not advise a woman whether or not to report her rape. Rather, counselors attempt to offer realistic information on police and court treatment of rape victims in their area and to encourage the victim to make her own decision.
 
-**Women Organized Against Rape (WOAR)** has been serving Philadelphia women since May 1973.[\[452\]](#page-242-25) This unique volunteer crisis program has its headquarters in Philadelphia General Hospital (PGH). Noting that most hot‑lines and crisis centers reach mostly middle class and movement women, WOAR determined to make services available to poor and Third World women.
+**Women Organized Against Rape (WOAR)** has been serving Philadelphia women since May 1973.\[452\] This unique volunteer crisis program has its headquarters in Philadelphia General Hospital (PGH). Noting that most hot‑lines and crisis centers reach mostly middle class and movement women, WOAR determined to make services available to poor and Third World women.
 
 In Philadelphia all rape victims who report the crime are taken to PGH. When a victim is brought to the hospital, WOAR is immediately notified and a counselor (available 24 hours) joins her to give whatever help is needed. The WOAR women are thus in the unprecedented position of being able to reach all women in Philadelphia who report their rapes. In the event (rare, as elsewhere) that the rapist is caught, charged and brought to trial, WOAR women provide emotional support and factual information to the victim in preparation for the court proceedings and accompany her to the trial. The presence of a large body of women in the courtroom serves notice on the predominantly male lawyers, judges and jurors that the rape victim is not alone and not afraid.
 
 **Rape Relief** in Seattle offers the victim the opportunity to anonymously report the violence against her. A flyer circulated by the Rape Reduction Project states: "Rape Relief ... can take information about the circumstance of the rape by phone or in person. We give the information to the police department, so that they may learn more about trends, locations and methods of rape‑information that we believe will ultimately lead to a reduction in rape. The victim need not even tell us her name, so there will be no way she can become involved with the police or court unless she wants to. Third party reporting is one way to turn an ugly situation into something that can help other women."
 
-A number of Superior Court judges have demanded that convicted rapists make contributions to Rape Relief along with their prison sentences. Judge Donald Horowitz says he regularly sentences individuals to make contributions rather than fining them and letting the money go to the "anonymous state." In the rape cases, he felt the crimes were "political acts against women and a product of institutionalized sexism." He suggested that the contributions would serve to "raise the rapists' consciousness."[\[453\]](#page-242-26)
+A number of Superior Court judges have demanded that convicted rapists make contributions to Rape Relief along with their prison sentences. Judge Donald Horowitz says he regularly sentences individuals to make contributions rather than fining them and letting the money go to the "anonymous state." In the rape cases, he felt the crimes were "political acts against women and a product of institutionalized sexism." He suggested that the contributions would serve to "raise the rapists' consciousness."\[453\]
 
 ## **Innovative action projects**
 
-• Women from Nashville Rape Prevention arid Crisis Center made a survey of pornography sold in local bookstores. They found that 80 percent of the subject matter represented some form of violence against women: rape, sadism or murder. They use the results of their survey in speaking engagements to show how violence against women is encouraged in society, holding special lectures right in the pornography bookstores.[\[454\]](#page-242-27)
+• Women from Nashville Rape Prevention arid Crisis Center made a survey of pornography sold in local bookstores. They found that 80 percent of the subject matter represented some form of violence against women: rape, sadism or murder. They use the results of their survey in speaking engagements to show how violence against women is encouraged in society, holding special lectures right in the pornography bookstores.\[454\]
 
-- • A group of about 70community and Rutgers University women marched at night thru New Brunswick, New Jersey, chanting slogans and carrying banners proclaiming their right for safety in the streets.[\[455\]](#page-242-28)
-- Santa Cruz WAR publishes a monthly "descriptions list," including all available information of men who have recently been reported as rapists and other men who harass women‑names, addresses, licenses and details of incidents. Women in New York, thru Majority Report, and women in Los Angeles, thru Sister, also publish descriptions and modes of operation of rapists. [\[456\]](#page-242-29)
-- • The Campaign Against Street Harassment in New York City distributes to women a form letter threatening boycott to be sent to businesses whose employees "call after women, whistle, make obscene signs and sounds, or verbally annoy, abuse and patronize women passersby."[\[457\]](#page-243-0)
-- • Because a man is most likely to hassle or attack a woman alone, Detroit WAR organized groups of four to eight women to patrol the streets, escort women who are alone to their destinations, watch for men behaving suspiciously, and intervene in situations of violence against women.[\[458\]](#page-243-1)
+- • A group of about 70community and Rutgers University women marched at night thru New Brunswick, New Jersey, chanting slogans and carrying banners proclaiming their right for safety in the streets.\[455\]
+- Santa Cruz WAR publishes a monthly "descriptions list," including all available information of men who have recently been reported as rapists and other men who harass women‑names, addresses, licenses and details of incidents. Women in New York, thru Majority Report, and women in Los Angeles, thru Sister, also publish descriptions and modes of operation of rapists. \[456\]
+- • The Campaign Against Street Harassment in New York City distributes to women a form letter threatening boycott to be sent to businesses whose employees "call after women, whistle, make obscene signs and sounds, or verbally annoy, abuse and patronize women passersby."\[457\]
+- • Because a man is most likely to hassle or attack a woman alone, Detroit WAR organized groups of four to eight women to patrol the streets, escort women who are alone to their destinations, watch for men behaving suspiciously, and intervene in situations of violence against women.\[458\]
 
-They perform street theatre exposing myths about rape and rapists and portraying violence against women in the street, home and courtroom. They picket movies which portray rape as "entertainment," a "joke," a "turn on" for men or women.[\[459\]](#page-243-2)
+They perform street theatre exposing myths about rape and rapists and portraying violence against women in the street, home and courtroom. They picket movies which portray rape as "entertainment," a "joke," a "turn on" for men or women.\[459\]
 
 ### **Men against rape**
 
-As a result of this newly emerging consciousness, a small but growing number of men's anti‑rape groups have been formed.[\[460\]](#page-243-3) These men believe that rape is not a "women's problem" but a community problem and one for which men must take responsibility. Many of the activities of these groups have been undertaken jointly with women's anti‑rape groups.
+As a result of this newly emerging consciousness, a small but growing number of men's anti‑rape groups have been formed.\[460\] These men believe that rape is not a "women's problem" but a community problem and one for which men must take responsibility. Many of the activities of these groups have been undertaken jointly with women's anti‑rape groups.
 
 ### **New responses to the sexually violent**
 
@@ -4165,11 +4165,11 @@ As rape is given more publicity, more money and energy is spent prosecuting and 
 —Jackie Mac Millan and Freada Klein, editorial, Feminist Alliance Against Rape Newsletter, September/October 1974
 
 - The criminal (in)justice systems convict primarily poor, Black and Third World men for a crime that is committed by men of every race, class and social status. Thus, prisons are reserved for and used as weapons of control against the less powerful. The white, middle class rapist will rarely be caught in this selective process.
-- When a sexually violent male is placed in a prison population he continues his aggressive actions inside the walls. This time his victims are younger, more vulnerable males. If the rapist is smaller, lighter of weight or younger than the general population, he himself can become the rape victim.[\[461\]](#page-243-4)
-- • Newly emerging data indicate that a majority of imprisoned rapists were sexually assaulted as children and adolescents.[\[462\]](#page-243-5) Prisons provide the opportunity to repeat the cycle of violence.
-- • When the sexually violent male is caught, convicted and imprisoned, he is on the street again in an average of 44 months.[\[463\]](#page-243-6) In prison he has been dominated, degraded, humiliated and possibly sexually assaulted himself; his keepers have taken control of his body and his life. Upon return to society, he may channel his anger toward the most vulnerable, available victim: any woman.
+- When a sexually violent male is placed in a prison population he continues his aggressive actions inside the walls. This time his victims are younger, more vulnerable males. If the rapist is smaller, lighter of weight or younger than the general population, he himself can become the rape victim.\[461\]
+- • Newly emerging data indicate that a majority of imprisoned rapists were sexually assaulted as children and adolescents.\[462\] Prisons provide the opportunity to repeat the cycle of violence.
+- • When the sexually violent male is caught, convicted and imprisoned, he is on the street again in an average of 44 months.\[463\] In prison he has been dominated, degraded, humiliated and possibly sexually assaulted himself; his keepers have taken control of his body and his life. Upon return to society, he may channel his anger toward the most vulnerable, available victim: any woman.
 - Approximately 40states have no type of sex offender programs of any kind, in or out of prisons. This is a reflection of the lack of seriousness with which sexual violence against women is regarded.
-- • Sex offender programs in prisons and mental hospitals are mainly controlled by men and rarely challenge the basic cultural causes of sexual violence. Rather, they often foster sexist biases, offering the sex offender further rationales for his violence against women. [\[464\]](#page-243-7)
+- • Sex offender programs in prisons and mental hospitals are mainly controlled by men and rarely challenge the basic cultural causes of sexual violence. Rather, they often foster sexist biases, offering the sex offender further rationales for his violence against women. \[464\]
 
 ## **Breaking the cycle of violence**
 
@@ -4187,7 +4187,7 @@ A small community‑based center for sex offenders was established in Albuquerqu
 
 As a preliminary step, the cooperation of 12 District Court judges had been solicited. These judges agreed on the difficulty in determining prison sentences for such crimes and expressed interest in alternatives to incarceration. A community program was designed to serve rapists, sexual abusers, incest offenders, exhibitionists and voyeurs.
 
-First called Positive Approaches to Sex Offenders (PASO), the name was later changed to Sex Offender Program at Alternative House, Inc.[\[465\]](#page-243-8) It is open to all sexual aggressives and potential aggressives, whether or not they've been discovered, reported, apprehended, tried or convicted of a sex crime. It also offers services to the victims of sex offenses as well as the families of both victims and offenders.
+First called Positive Approaches to Sex Offenders (PASO), the name was later changed to Sex Offender Program at Alternative House, Inc.\[465\] It is open to all sexual aggressives and potential aggressives, whether or not they've been discovered, reported, apprehended, tried or convicted of a sex crime. It also offers services to the victims of sex offenses as well as the families of both victims and offenders.
 
 **Clients.** About 70 percent of the sex offenders in the program are referred by the police, the probation department, the public defender's office, district court judges or the parole department. The next largest referral source is attorneys representing men arrested on sex crime charges.
 
@@ -4203,9 +4203,9 @@ The majority of the staff's time is devoted to therapy, both individual and grou
 
 The thrust of the counseling with nonaggressive offenders lies in getting them to examine their sexual and social roles. Group focus is generally in the area of sexist stereotypes and assumptions. Relating more fully and more openly to both women and men is encouraged, as well as asking them to empathize with victim reactions.
 
-The majority of nonaggressive clients during the past two years have responded positively to therapy. Approximately 85 percent leave the program with what staff considers "improved life styles." Unfortunately, due to lack of funding, Alternative House does not have sufficient staff to conduct systematic supportive follow‑up of men who leave the program,[\[466\]](#page-243-9) but clients are urged to continue to use the program as long as they need.
+The majority of nonaggressive clients during the past two years have responded positively to therapy. Approximately 85 percent leave the program with what staff considers "improved life styles." Unfortunately, due to lack of funding, Alternative House does not have sufficient staff to conduct systematic supportive follow‑up of men who leave the program,\[466\] but clients are urged to continue to use the program as long as they need.
 
-Since the program started, three clients have been charged with rape. However, one of the men had spent five and another 13 years in prison before coming to Alternative House. Community reaction to these charges is hard to determine, but the program did not receive negative press as a result of these incidents.[\[467\]](#page-243-10)
+Since the program started, three clients have been charged with rape. However, one of the men had spent five and another 13 years in prison before coming to Alternative House. Community reaction to these charges is hard to determine, but the program did not receive negative press as a result of these incidents.\[467\]
 
 **Contradictions.** As with most crimes, rape and other sex offenses are committed by men of all races, from all walks of life‑rich men and poor men, well educated and illiterate. Yet those who are prosecuted for these offenses tend to be on the poor, non‑white, poorly educated end of the spectrum. Since Alternative House is funded as an offender program, it offers services primarily to those channeled thru the criminal (in)justice systems. For this reason, the community‑based program can only focus on a highly select group of sex offenders. The clients are disproportionately Spanish‑American.
 
@@ -4215,7 +4215,7 @@ Despite this inherent limitation, as a community‑based service to sex offender
 
 ### **Prisoner self‑help: PAR**
 
-Prisoners Against Rape, Inc. is a prison based anti‑rape program. It was founded by two prisoners at Lorton Correctional Complex, Virginia in September 1973.[\[468\]](#page-243-11) The group is composed of prisoners at Lorton and Occoquan, Virginia and the Washington, D. C. jail (some of whom are ex‑sex offenders), feminists from anti‑rape groups and other interested community members.
+Prisoners Against Rape, Inc. is a prison based anti‑rape program. It was founded by two prisoners at Lorton Correctional Complex, Virginia in September 1973.\[468\] The group is composed of prisoners at Lorton and Occoquan, Virginia and the Washington, D. C. jail (some of whom are ex‑sex offenders), feminists from anti‑rape groups and other interested community members.
 
 The first year of PAR was devoted to consciousness‑raising by the imprisoned members. They dealt with their motivations for raping, the politics of rape, attitudes toward women and sexuality and myths and realities of rape. They believe that prisons don't prevent rape; at best they simply forestall heterosexual rape while fostering homosexual rape and enhancing existing perversions.
 
@@ -4227,7 +4227,7 @@ From the beginning PAR has functioned as a self‑help group without support of 
 
 #### **Sex Offenders Anonymous**
 
-In 1971, Richard Bryan, a former compulsive exhibitionist, and Rosemary Bryan, his wife, began to meet with other former sex offenders and founded a unique self‑help nonprofit group in Los Angeles called Sex Offenders Anonymous, SOANON.[\[469\]](#page-243-12)
+In 1971, Richard Bryan, a former compulsive exhibitionist, and Rosemary Bryan, his wife, began to meet with other former sex offenders and founded a unique self‑help nonprofit group in Los Angeles called Sex Offenders Anonymous, SOANON.\[469\]
 
 Our aim is to shut off the modus operandi of the sex offenders. We make sure they aren't left alone all day seven days a week. It's like baby‑sitting. If a man has a wife or girl friend, she has to do the watching, but if it's a single guy the other members do it. We have a permanent crisis line to organization headquarters. If a single member calls and says he is ready to go out and commit a crime, we go over to stop him.
 
@@ -4237,7 +4237,7 @@ SOANON weekly meetings are similar to those of Alcoholics Anonymous. Sex offende
 
 ### **Sexuality re‑education: BEAD**
 
-BEAD‑Behavioral, Emotional and Attitudinal Development‑program was established in 1974 at the Minnesota Security Hospital. This trial program involves two 15‑man groups of sex offenders. Crimes they have been convicted of range from aggravated rape to seduction of children.[\[470\]](#page-243-13) In addition to group therapy and individual counseling, this program consists of two innovative reeducational projects: a comprehensive sex education program and a tape‑exchange program with victims of rape.
+BEAD‑Behavioral, Emotional and Attitudinal Development‑program was established in 1974 at the Minnesota Security Hospital. This trial program involves two 15‑man groups of sex offenders. Crimes they have been convicted of range from aggravated rape to seduction of children.\[470\] In addition to group therapy and individual counseling, this program consists of two innovative reeducational projects: a comprehensive sex education program and a tape‑exchange program with victims of rape.
 
 All the men participate in sex education classes with an equal number of young women and men from the community. Starting with an information‑giving approach to sexuality, the eight‑week course stresses understanding and appreciating various behaviors, feelings and attitudes. Interpersonal affectionate relationships, the distinction between fantasy and action and the mutual responsibility sex partners have toward one another are examined.
 
@@ -4247,7 +4247,7 @@ After listening to victims discuss these topics, BEAD participants discuss their
 
 #### **Treatment Program for Sex Offenders**
 
-Ten years ago Dr. Geraldine Boozer, clinical psychologist at South Florida State Hospital in Hollywood, Florida designed an innovative program for sex offenders. [\[471\]](#page-243-14) The Treatment Program for Sex Offenders was developed in the belief that it is implausible to resocialize sex offenders when they are housed with "mental patients" and in an institution. Exhibitionists, voyeurs, child sexual abusers, men who have raped their daughters and multiple rapists are jumbled together with other "mental patients," both violent and unviolent, incarcerated for a variety of "problems." For the most part patients were warehoused and inappropriately drugged. Initially there was much resistance to the program by the administration, but in 1971 Dr. Boozer finally obtained separate physical facilities for the program, which now involves 30 men. She believes that the vast majority of sex offenders are not psychotic. Emotional difficulties experienced earlier in life manifest themselves in sexually deviant behavior.
+Ten years ago Dr. Geraldine Boozer, clinical psychologist at South Florida State Hospital in Hollywood, Florida designed an innovative program for sex offenders. \[471\] The Treatment Program for Sex Offenders was developed in the belief that it is implausible to resocialize sex offenders when they are housed with "mental patients" and in an institution. Exhibitionists, voyeurs, child sexual abusers, men who have raped their daughters and multiple rapists are jumbled together with other "mental patients," both violent and unviolent, incarcerated for a variety of "problems." For the most part patients were warehoused and inappropriately drugged. Initially there was much resistance to the program by the administration, but in 1971 Dr. Boozer finally obtained separate physical facilities for the program, which now involves 30 men. She believes that the vast majority of sex offenders are not psychotic. Emotional difficulties experienced earlier in life manifest themselves in sexually deviant behavior.
 
 **Objectives**. To serve as an alternative to prisons for apprehended sex offenders and as a community service to those willing to volunteer. To resocialize participants by increasing each man's sense of self‑worth and self‑esteem by putting him in touch with the extent of the effect he has had on his victims and himself and by teaching positive social skills and techniques.
 
@@ -4265,21 +4265,21 @@ From the outset the sex offenders helped develop their own program. They establi
 
 ## **New responses to sexual abuse of children**
 
-Information on the incidence of sexual abuse of children is almost nonexistant. The F. B. I. Annual U. C. R.s flow over with data about auto theft and larceny, but carry no breakdown of the total incidence of all crimes against children. "What makes an assessment more difficult is the fact that, except for the rare case or the particularly brutal attack, or the fatal situation, cases of sex offenses against children are not generally publicized by the press."[\[472\]](#page-243-15)
+Information on the incidence of sexual abuse of children is almost nonexistant. The F. B. I. Annual U. C. R.s flow over with data about auto theft and larceny, but carry no breakdown of the total incidence of all crimes against children. "What makes an assessment more difficult is the fact that, except for the rare case or the particularly brutal attack, or the fatal situation, cases of sex offenses against children are not generally publicized by the press."\[472\]
 
 A sexual assault on a child constitutes a gross and devastating shock and insult sexual offenses are barely noticed except in the most violent and sensational instances. Most sex offenses are never revealed; when revealed, most are either ignored or not reported; if reported, a larger percentage are dismissed for lack of proof, and when proof is established many are dropped because of the pressure and humiliation forced on the victim and family by the authorities.
 
 —Florence Rush, "The Sexual Abuse of Children: A Feminist Point of View," in Rape: The First Source book for Women, p. 70
 
-Figures that are available, coupled with reports from women who are now beginning to speak out about childhood sexual victimizations, indicate that "the national annual occurrence of these crimes must reach an alarmingly large and unbelievable figure."[\[473\]](#page-243-16)
+Figures that are available, coupled with reports from women who are now beginning to speak out about childhood sexual victimizations, indicate that "the national annual occurrence of these crimes must reach an alarmingly large and unbelievable figure."\[473\]
 
-Dr. Vincent De Francis, Director of the Children's Division of the American Humane Association, estimates that some 100,000 children are sexually abused each year.[\[474\]](#page-243-17) Sociology professor Dr. John H. Gagnon, formerly of the Institute of Sex Research, calculated that as many as half a million girls are sexually victimized every year.[\[475\]](#page-243-18)
+Dr. Vincent De Francis, Director of the Children's Division of the American Humane Association, estimates that some 100,000 children are sexually abused each year.\[474\] Sociology professor Dr. John H. Gagnon, formerly of the Institute of Sex Research, calculated that as many as half a million girls are sexually victimized every year.\[475\]
 
-A conservative estimate of the New York City incidence is approximately 3,000 cases per year.[\[476\]](#page-243-19)
+A conservative estimate of the New York City incidence is approximately 3,000 cases per year.\[476\]
 
 ### **Myths of sexual abuse of children**
 
-In addition to the paucity of statistical data, there is little research and analysis of the circumstances, nature and after‑effects of child sexual assault and rape. Where studies do exist they almost inevitably perpetuate myths [\[477\]](#page-243-20) similar to those condoning and rationalizing rape of adult women. These myths imply that:
+In addition to the paucity of statistical data, there is little research and analysis of the circumstances, nature and after‑effects of child sexual assault and rape. Where studies do exist they almost inevitably perpetuate myths \[477\] similar to those condoning and rationalizing rape of adult women. These myths imply that:
 
 - • Sexual assault of a child is akin to a "sexual relationship" with a child.
 - Men who sexually abusechildren do so because they are sexually deprived; they are basically nonthreatening males who prefer children as sexual partners or who "can't find" an adult partner.
@@ -4288,7 +4288,7 @@ In addition to the paucity of statistical data, there is little research and ana
 
 ### **Child victimization study**
 
-A sample group of 263 cases in Brooklyn, N. Y. were studied by the American Humane Association.[\[478\]](#page-243-21) Major findings include:
+A sample group of 263 cases in Brooklyn, N. Y. were studied by the American Humane Association.\[478\] Major findings include:
 
 - • Sexual abuse of children by adults knows no economic, social or racial boundaries. Middle class families, however, are usually shielded from the probings of social services agencies. They do not often appear in statistics.
 - 60 percent of thechild victims studied were coerced by direct force or threat of bodily harm. In 25 percent the lure was based on the child's natural loyalty and affection for a friend or relative. 15 percent were based on tangible lures.
@@ -4307,7 +4307,7 @@ Children, teenagers and adults are all sexual beings and should have the right t
 
 Children generally are not educated about their own or adult sexuality. Neither are they provided with information on pregnancy, birth control, venereal disease, abortion, sexual arousal, homosexuality, heterosexuality, bisexuality, or their right to refuse advances from authority figures and their right to speak out against sexual abuse.
 
-Fathers, brothers, uncles and grandfathers generally hold a position of power within the family. To many children within our patriarchal culture, such male authority appears absolute. In fact, father‑rule, the taboo against interference with paternal authority, probably predates the incest taboo.[\[479\]](#page-243-22)
+Fathers, brothers, uncles and grandfathers generally hold a position of power within the family. To many children within our patriarchal culture, such male authority appears absolute. In fact, father‑rule, the taboo against interference with paternal authority, probably predates the incest taboo.\[479\]
 
 #### **Training in fear & silence**
 
@@ -4319,7 +4319,7 @@ In order to promote sexual self‑determination and to combat the "training in s
 
 - Right to information about sex and sexuality‑birth control, reproduction, pregnancy. venereal disease, sex roles, homosexuality, heterosexuality and bisexuality.
 - Right to nonsexist child-rearing and education.
-- • Right to freedom from sexual exploitation and sexual abuse by adults, adolescents and other children.[\[480\]](#page-243-23)
+- • Right to freedom from sexual exploitation and sexual abuse by adults, adolescents and other children.\[480\]
 
 Few girls reach adulthood without being sexually victimized‑and taught to tolerate it. These childhood molestations vary according to place, amount of force used and relation of the victim to the attacker. They include the "depantsing" rituals of young boys who attack a girl; the hostile attacks by men of all ages who corner children in movie theaters, parks and subways, selecting one victim after another; the more violent assaults of oral, anal and vaginal rape; the unwanted irritating and humiliating touching and fondling heaped on children by strangers, friends of the family, acquaintances, schoolmates, relatives.
 
@@ -4343,12 +4343,12 @@ A constructive community service program in San Jose, California responds to the
 
 ### **Recommendations for action**
 
-- • Formation of child-advocacy centers to provide all children with an outside‑the‑family protective authority mechanism. This service should provide: a harbor house for physically and sexually abused children; an adult health‑care advocate who visits each family with children regularly to provide at‑home medical services and to detect incidence of child abuse, as is presently one aspect of Scotland's socialized medical care plan; special advocate‑counselors for children [\[481\]](#page-243-24) who have been sexually assaulted, and particularly for those whose cases are processed thru the criminal (in)justice systems and educational information in schools, churches, YWCA's, etc. describing the advocacy services so children know where they can go for safety.[\[482\]](#page-243-25)
-- • Implement and promote the use of nonsexist, nonviolent educational tools into school curricula:[\[483\]](#page-243-26) sexual and interpersonal assertiveness training,[\[484\]](#page-243-27) sex and sexuality education, verbal and physical self‑defense, consciousness‑raising about myths and realities of sexual assault and rape.[\[485\]](#page-243-28)
-- • "Caution must also be taught to children in a violent society, especially since children are naturally less wary of strangers than adults and lack experience and judgment. To instill awareness of potential dangers without terrifying or overly alarming the child should be the aim of every parent and others charged with child guidance ignorance of the reality of rape is as harmful as too many warnings .... Children should be taught caution, not fear." [\[486\]](#page-243-29)
+- • Formation of child-advocacy centers to provide all children with an outside‑the‑family protective authority mechanism. This service should provide: a harbor house for physically and sexually abused children; an adult health‑care advocate who visits each family with children regularly to provide at‑home medical services and to detect incidence of child abuse, as is presently one aspect of Scotland's socialized medical care plan; special advocate‑counselors for children \[481\] who have been sexually assaulted, and particularly for those whose cases are processed thru the criminal (in)justice systems and educational information in schools, churches, YWCA's, etc. describing the advocacy services so children know where they can go for safety.\[482\]
+- • Implement and promote the use of nonsexist, nonviolent educational tools into school curricula:\[483\] sexual and interpersonal assertiveness training,\[484\] sex and sexuality education, verbal and physical self‑defense, consciousness‑raising about myths and realities of sexual assault and rape.\[485\]
+- • "Caution must also be taught to children in a violent society, especially since children are naturally less wary of strangers than adults and lack experience and judgment. To instill awareness of potential dangers without terrifying or overly alarming the child should be the aim of every parent and others charged with child guidance ignorance of the reality of rape is as harmful as too many warnings .... Children should be taught caution, not fear." \[486\]
 - • Establish child sex abuser re‑educationprograms in the community, in prisons and in mental institutions. Promote the use of community programs and the gradual phase‑out of institutionalization as a response to the sexually violent.
 - Establish hot‑linesfor all sexual assaulters, including child sexual abusers.
-- • Form community action groups to campaign against the sexual exploitation of women and children in pornographic films and literature and the use of children as prostitutes.[\[487\]](#page-243-30)
+- • Form community action groups to campaign against the sexual exploitation of women and children in pornographic films and literature and the use of children as prostitutes.\[487\]
 
 ### **Street crimes**
 
@@ -4360,7 +4360,7 @@ Rather than speaking up, most of us stand silent and let politicians get away wi
 
 Street crime has been officially identified as the major crime problem in the United States. For victims and residents in areas plagued by purse snatchings, muggings and robberies, street crime is a fearsome problem: the anxieties it produces are real and legitimate. Nonetheless, with the influence of the media, fear has been raised to a frenzied pitch. The fear of street crime threatens to destroy basic human freedoms‑including the freedom from fear itself. Office seekers exploit fear as a political issue without dealing with the economic and social conditions which spawn crime in the streets. And with the bulk of governmental crime control resources directed against the perpetrators of street crimes, citizens are programmed into believing that more military hardware and firepower, longer prison sentences and "law and order" rhetoric somehow offer them protection.
 
-Constant bombardment by the media's portrayal of crime and criminals must not mesmerize us into forgetting that the overall crime picture reflects public problems requiring structural change and collective social solutions, not military maneuvers. The "war on crime," a relatively new term, reflects the military perspective of the law enforcement apparatus and the "weapons" and strategies they employ.[\[488\]](#page-243-31) The war problem and the crime problem exhibit striking similarities:
+Constant bombardment by the media's portrayal of crime and criminals must not mesmerize us into forgetting that the overall crime picture reflects public problems requiring structural change and collective social solutions, not military maneuvers. The "war on crime," a relatively new term, reflects the military perspective of the law enforcement apparatus and the "weapons" and strategies they employ.\[488\] The war problem and the crime problem exhibit striking similarities:
 
 In each case, strong social sentiments develop to support differentiation between the wrongdoers and the wronged.. a conception ... of the "good guys" and the "bad guys." In the case of war, as in the case of crime, it is widely believed that high values will be served by rendering the "enemy" his due. And, correspondingly, there is widespread distrust of any "soft" policies that seem to imply concessions to, or appeasement of, the "other side." In each case, the very process of defining enemies seems to serve some important functions ‑psychological, social, or even economic—for the society confronting such wrongdoers.
 
@@ -4370,13 +4370,13 @@ On some levels the war on crime can be viewed as a substitute for the struggle a
 
 If ever there is a heavy reduction in the expenditure on national armaments and the threat of external forces loses some power to persuade the public, it may be that this threat will be replaced by amplification of the threat of internal conflict .... It is not possible to make war on events, and crimes are events. It is possible to make wars on criminal or on "criminal classes" because criminals are persons. Further, criminals are a particular class of persons with whom no one would willingly identify .... They are anonymous; they are disorganized, they are a minority group which can be discriminated against without prejudice.
 
-They represent a very attractive group for powerful symbolic political propaganda and action .... The criminal is a "natural" outcast. If the analogy of the "war on crime" can suggest a transfer of focus from "real war" as the threat used to herd the public along, to a symbolic "war," then the transfer of the threat becomes all the more useful as a political strategy. Thus once again, we have a basis in fear which can be used for partisan purposes.[\[489\]](#page-243-32)
+They represent a very attractive group for powerful symbolic political propaganda and action .... The criminal is a "natural" outcast. If the analogy of the "war on crime" can suggest a transfer of focus from "real war" as the threat used to herd the public along, to a symbolic "war," then the transfer of the threat becomes all the more useful as a political strategy. Thus once again, we have a basis in fear which can be used for partisan purposes.\[489\]
 
 ### **Media manipulators**
 
-Abolitionists recognize that the public's image of what constitutes crime is grossly distorted by the powerful alliance between the criminal (in)justice apparatus and the media. Not only is it a major factor in shaping public views of crime, but it minimizes and deflects attention from the common kind of crimes one's neighbors commit and exaggerates and spotlights another less common kind"crime‑in‑the‑streets "‑which is presumably committed by "criminals."[\[490\]](#page-243-33)
+Abolitionists recognize that the public's image of what constitutes crime is grossly distorted by the powerful alliance between the criminal (in)justice apparatus and the media. Not only is it a major factor in shaping public views of crime, but it minimizes and deflects attention from the common kind of crimes one's neighbors commit and exaggerates and spotlights another less common kind"crime‑in‑the‑streets "‑which is presumably committed by "criminals."\[490\]
 
-One can imagine the results, for instance, if that powerful media coalition chose to focus on the fact that in reality, the level of physical violence is greater in the homes of America than on the streets:[\[491\]](#page-243-34)
+One can imagine the results, for instance, if that powerful media coalition chose to focus on the fact that in reality, the level of physical violence is greater in the homes of America than on the streets:\[491\]
 
 - • Child abuse, wife beating, father‑rape of daughters, murder of spouses, murder of parents, murder of and by relatives and assault between family members would he front page headline news every day.
 - Television news cameras would be trained on the family home instead of the street.
@@ -4411,7 +4411,7 @@ Who is, in fact, a criminal, then, depends upon your point of view or rather you
 
 The media is largely blind to these crimes. Preferring to vilify the "street criminal" and "welfare cheater." By so doing, the media becomes an accessory to the rape of the powerless. Blacks must define for themselves what is criminal, within and outside our communities. They must include not only the street corner mugger, the drug pusher and the rapist in the alley, but also the corrupt and brutal policeman, the greedy slum lord, the exploitive businessman, the oppressive employer, the racist school administrator, the fascist politician and the war mongering head of state. The Black media must isolate and focus attention upon all the forces which undermine the quality of our lives. They must be indicted, in print and over the airwaves.
 
-—From a paper by Glen Ford, Mutual Black Network News.[\[492\]](#page-244-1)
+—From a paper by Glen Ford, Mutual Black Network News.\[492\]
 
 ### **Street crime and its victims**
 
@@ -4432,7 +4432,7 @@ The Economic Cost of Crime (1965)
 
 SOURCE: Based on data in The President's Commission on Law Enforcement and the Administration of Justice, Task Force Report, Crime and Its Impact, pp. 44‑49.
 
-Of the millions of crimes committed by all strata of society, comparatively little is committed in the streets. Middle class and upper class property crimes take place in the "suites" rather than in the streets, behind the closed doors of corporate presidents' offices or in the privacy of the home where income tax forms are filled out. Such crimes cost the public more than street crimes and crimes against property combined. In its 1974 publication, White Collar Crime, the U. S. Chamber of Commerce estimates that the yearly cost of embezzlement and pilferage exceeds by several billion dollars the losses from burglary and robbery.[\[493\]](#page-244-2)
+Of the millions of crimes committed by all strata of society, comparatively little is committed in the streets. Middle class and upper class property crimes take place in the "suites" rather than in the streets, behind the closed doors of corporate presidents' offices or in the privacy of the home where income tax forms are filled out. Such crimes cost the public more than street crimes and crimes against property combined. In its 1974 publication, White Collar Crime, the U. S. Chamber of Commerce estimates that the yearly cost of embezzlement and pilferage exceeds by several billion dollars the losses from burglary and robbery.\[493\]
 
 Abolitionists are aware that poor peoples' crimes victimize mostly the poor and the Black, tho the media consistently bombards the American people with a set of false and racist myths about crime:
 
@@ -4450,9 +4450,9 @@ From this it would seem that the public could draw simple and erroneous conclusi
 
 —Phil Blake, "Race, Homicide and the News," The Nation, December 7, 1974, pp.592‑93
 
-The majority of all crimes of property committed on the street do not involve physical brutality. Violent crimes such as murder and aggravated assault, for instance, occur mainly indoors and the participants are usually acquainted or related.[\[494\]](#page-244-3)
+The majority of all crimes of property committed on the street do not involve physical brutality. Violent crimes such as murder and aggravated assault, for instance, occur mainly indoors and the participants are usually acquainted or related.\[494\]
 
-The risks of victimization from crimes of the poor‑robbery, muggings and purse‑snatchings which constitute the majority of street crimes‑are concentrated in the lowest income group. Nonwhites are victimized disproportionately by all major crimes except larceny of \$50 and over. A Black man in Chicago, for instance, runs the risk of being a victim nearly six times as often as a white man; a Black woman nearly eight times as often as a white woman. Additionally, Blacks are most likely to assault Blacks, and whites most likely to assault whites. Thus, while Black males account for two‑thirds of all assaults, the person who victimizes a white person is most likely also to be white.[\[495\]](#page-244-4)
+The risks of victimization from crimes of the poor‑robbery, muggings and purse‑snatchings which constitute the majority of street crimes‑are concentrated in the lowest income group. Nonwhites are victimized disproportionately by all major crimes except larceny of \$50 and over. A Black man in Chicago, for instance, runs the risk of being a victim nearly six times as often as a white man; a Black woman nearly eight times as often as a white woman. Additionally, Blacks are most likely to assault Blacks, and whites most likely to assault whites. Thus, while Black males account for two‑thirds of all assaults, the person who victimizes a white person is most likely also to be white.\[495\]
 
 The overall impression created by the mass media is that (1) most victims of crime are white, (2) most criminals are Black and (3) the average murder occurs in the course of a mugging.
 
@@ -4466,9 +4466,9 @@ In fact, only a tiny percentage of murders are committed in the course of a robb
 
 For those who are cruelly victimized on the streets, even tho few in number compared to all criminal victims, statistics are of little solace. The experience of being robbed or mugged is frightening and damaging, particularly for the elderly poor already victimized by circumstance.
 
-To a poor person, Black and ghetto‑bound, it matters little that statistics tell us that chances of a victim being injured in an auto accident are 16 times greater than the probability of being a victim of crime on the street.[\[496\]](#page-244-5) The poor do not have autos.
+To a poor person, Black and ghetto‑bound, it matters little that statistics tell us that chances of a victim being injured in an auto accident are 16 times greater than the probability of being a victim of crime on the street.\[496\] The poor do not have autos.
 
-Of what use is the statistic that there is an infinitesimal one in 40,000 probability of becoming involved in a felony resulting in death [\[497\]](#page-244-6) when the media and the law enforcement apparatus has raised fears to such an extent that homes have literally become prisons?
+Of what use is the statistic that there is an infinitesimal one in 40,000 probability of becoming involved in a felony resulting in death \[497\] when the media and the law enforcement apparatus has raised fears to such an extent that homes have literally become prisons?
 
 The largest prison in America has no bars, no locks, and no guards. The inmates are absolutely free to go anywhere they want at any time they choose .... No accurate statistics exist to tell the exact number of persons so imprisoned. This is not only because the number is so large and increasing so rapidly .... No statistics exist because these prisoners are all serving self‑imposed sentence that only they can terminate .... Millions of ... formerly outgoing people have sentenced themselves to indefinite imprisonment within their homes and apartments behind locked doors and barred windows.
 
@@ -4490,7 +4490,7 @@ If you walk a few blocks from my house in New York you will see that the seven p
 
 Despite awareness that poor peoples' economic crimes are rooted in the social structure, communities fear they will "water the seeds" of police repression if they do not engage forcefully in the struggle to make their communities safe.
 
-As in other urban settings, street crime has become a major concern of urban Black community residents in recent years. A survey by Louis Harris in 1973 revealed that 77 percent of the residents of Harlem who were polled felt that "crime in the streets" was a "very serious problem."[\[498\]](#page-244-7)
+As in other urban settings, street crime has become a major concern of urban Black community residents in recent years. A survey by Louis Harris in 1973 revealed that 77 percent of the residents of Harlem who were polled felt that "crime in the streets" was a "very serious problem."\[498\]
 
 Concern about the escalating street crime rate in minority communities, led the Criminal Justice Priority Team of the United Church of Christ in conjunction with several national religious, civic and civil rights organizations to sponsor a national conference on "Crime and the Minority Community" in Washington, D. C., October 1974. The conference, attended by over 300 participants, brought together community activists from around the country to share insights and projects which could be useful in confronting crime and discovering causes in their communities.
 
@@ -4552,7 +4552,7 @@ After an evening of open discussion, it was decided that the most effective acti
 
 Everyone wanted safer streets, streets that could be walked by day and by night, free from fear. All grew to realize that the only way to safety was thru linking neighbors together as friends instead of strangers.
 
-Eventually, the Block Association of West Philadelphia aligned itself with CLASP, Citizens' Local Alliance for a Safer Philadelphia, an educational coalition working in community crime prevention. CLASP adopted the community action organizing model of the Block Association.[\[499\]](#page-244-8)
+Eventually, the Block Association of West Philadelphia aligned itself with CLASP, Citizens' Local Alliance for a Safer Philadelphia, an educational coalition working in community crime prevention. CLASP adopted the community action organizing model of the Block Association.\[499\]
 
 **Preventing burglary.** Simple techniques to make apartments and houses safer from burglary were implemented. These included such obvious precautions as keeping windows locked, installing door locks that can't be jimmied, keeping porch lights blazing. Makeshift burglar alarms were created simply and inexpensively by hanging strands of jinglebells on doors.
 
@@ -4600,12 +4600,12 @@ Empowerment is more than a belief; it is a concept that governs the way we inter
 
 The empowerment models we advocate in this handbook are not to be confused with "community corrections" referred to by systems people. As abolitionists we essentially identify as community alternatives, those programs created by affected people: ex‑, community workers, drug addicts, alcoholics, rape victims, street crime victims and others. These are programs and alternatives that evolve directly from experience and need and are controlled by participants.
 
-Contrast this with the systems' definition of "community corrections." This term is applied to a wide variety of "correctional" activities for accused or convicted adults or juveniles, administered outside the jail, reformatory or prison. It includes traditional probation and parole, halfway houses, group homes, pretrial release and sometimes explicitly rehabilitative programs.[\[500\]](#page-244-9) A common ingredient in all these programs is that decision‑making power remains in the grip of the system.
+Contrast this with the systems' definition of "community corrections." This term is applied to a wide variety of "correctional" activities for accused or convicted adults or juveniles, administered outside the jail, reformatory or prison. It includes traditional probation and parole, halfway houses, group homes, pretrial release and sometimes explicitly rehabilitative programs.\[500\] A common ingredient in all these programs is that decision‑making power remains in the grip of the system.
 
-Understandably, this concept of community "corrections" as an alternative to mass institutions appeals to a broad spectrum of prison changers. [\[501\]](#page-244-10) Enlightened systems managers, professionals, exprisoners and abolitionists alike are united in the belief that a move from massive institutions toward the community is desirable:
+Understandably, this concept of community "corrections" as an alternative to mass institutions appeals to a broad spectrum of prison changers. \[501\] Enlightened systems managers, professionals, exprisoners and abolitionists alike are united in the belief that a move from massive institutions toward the community is desirable:
 
 - • Most judges prefer sending younger lawbreakers to alternative programs to escape the damaging effects of prison.
-- • Some administrators use community "corrections" to provide a progressive facade which quiets reformist critics, even tho community centers accommodate only a tiny fraction of the state's prison population.[\[502\]](#page-244-11)
+- • Some administrators use community "corrections" to provide a progressive facade which quiets reformist critics, even tho community centers accommodate only a tiny fraction of the state's prison population.\[502\]
 - Most prisoners regard any change that gets them outside prison walls as an improvement. Prison changers thus support community alternatives, even tho they are controlled by the system.
 
 However compelling the move away from institutional punishment to community punishment, words of caution seep thru:
@@ -4638,7 +4638,7 @@ Two examples of community self‑management present fresh solutions to problems 
 
 ### **House of Umoja**
 
-The House of Umoja (Swahili for "unity") is a small project in Philadelphia focused on helping young Black gang members.[\[503\]](#page-244-12) It is "controversial" because its leaders lack formal social work training and because it approaches residential living in an unorthodox way.
+The House of Umoja (Swahili for "unity") is a small project in Philadelphia focused on helping young Black gang members.\[503\] It is "controversial" because its leaders lack formal social work training and because it approaches residential living in an unorthodox way.
 
 Sister Falaka Fattah and her husband, Black David, supervise several two‑story row houses on a narrow street in West Philadelphia. The project began in 1969 after Black David—a former gang member—made a three month study of Black youth. To gather information he frequented "bars, pool rooms, attended a lot of funerals and went to hospital emergency rooms‑just hung out on the corner mainly."
 
@@ -4684,7 +4684,7 @@ If a group of addicts and convicts can organize, with no violence, along multi�
 
 ### **Delancey Street Foundation**
 
-Delancey Street Foundation is a self‑supporting family of ex‑prisoners.[\[504\]](#page-244-13) Its program is based on the proposition that the best people to resocialize drug addicts and lawbreakers are their peers. Within this context, Delancey Street provides food, housing, medical and dental care, education, entertainment and job training for its family members. A large portion of its success is due to the unbounded energy and charisma of John Maher and Dr. Mimi Silbert. Tho based in San Francisco, it is named for the street where Maher grew up in New York City.
+Delancey Street Foundation is a self‑supporting family of ex‑prisoners.\[504\] Its program is based on the proposition that the best people to resocialize drug addicts and lawbreakers are their peers. Within this context, Delancey Street provides food, housing, medical and dental care, education, entertainment and job training for its family members. A large portion of its success is due to the unbounded energy and charisma of John Maher and Dr. Mimi Silbert. Tho based in San Francisco, it is named for the street where Maher grew up in New York City.
 
 Maher was a small‑time hood and dope addict who spent eight years at Synanon. He became critical of Synanon because of its insulation from the social upheavals going on around it. Maher felt that former addicts could and should be able to make it in the larger society. In 1970 he left Synanon to found Delancey Street.
 
@@ -4821,7 +4821,7 @@ We are convinced that there will be no progress unless prisoners and ex‑prison
 
 —Willie Holder, President of the Prisoners' Union, Fellowship, November 1975, p 7.
 
-Labor unions in American prisons are in a place similar to conventional labor unions at the turn of the century: embryonic, strongly resisted, considered subversive, dedicated to participatory democracy and willing to make sacrifices. Unionization would be a major step in the empowerment of prisoners and it may contribute to lessening the violence in prisons. [\[505\]](#page-244-14)
+Labor unions in American prisons are in a place similar to conventional labor unions at the turn of the century: embryonic, strongly resisted, considered subversive, dedicated to participatory democracy and willing to make sacrifices. Unionization would be a major step in the empowerment of prisoners and it may contribute to lessening the violence in prisons. \[505\]
 
 Prison labor unions are not an American invention. The first successful prisoner labor union was organized in Sweden. Since 1966, the union, which represents the vast majority of Swedish prisoners, has carried out a long series of successful negotiations with the government. Every effort has been made to make the prisoners' wages the same as free wages. Prisoners pay rent for their cells and board for their food. They are encouraged to pay their debts in the free community, including restitution to the victims of the crimes. They pay taxes and generally have enough left at the end of the month to save around \$50.
 
@@ -4841,7 +4841,7 @@ Goals of the union fall under three headings:
 
 Underlying the basic goals is one theme: unity. Union people realize how prison guards and administrations use every means possible to fragment prison populations and prevent prisoners from reaching common grounds on common issues.
 
-During its first two years the Prisoners' Union focused on California, publicly confronting the Department of "Correction" (CDC) at every turn. Class action suits were initiated on behalf of prisoners. The inner workings of the prison system were exposed to the public thru a basic education program. Publication of The Outlaw was started, a monthly journal in which prisoners express themselves and keep in touch with prison happenings across the country.[\[506\]](#page-244-15)
+During its first two years the Prisoners' Union focused on California, publicly confronting the Department of "Correction" (CDC) at every turn. Class action suits were initiated on behalf of prisoners. The inner workings of the prison system were exposed to the public thru a basic education program. Publication of The Outlaw was started, a monthly journal in which prisoners express themselves and keep in touch with prison happenings across the country.\[506\]
 
 Organizing was not without struggle. Known union representatives were barred from entering prisons in California and The Outlaw was contraband material inside.
 
@@ -4944,15 +4944,15 @@ Disenfranchisement may be a proper response in convictions for crimes directly r
 
 Legal aspects. New laws make prisoner voting rights an attainable goal. For instance, in July 1976, a law became effective in California implementing a system of voter registration by mail. Vermont enacted a law making ballots available to all prisoners in 1972. Massachusetts is registering voters thru the efforts of a prison change group we describe below.
 
-Among the many decisions on the question of voting rights, two cases are key precedents to cite when arguing for enfranchising prisoners. In Evers v. Davoren, [\[507\]](#page-244-16) the Massachusetts Supreme Court extended absentee ballot voting rights to Massachusetts prisoners for the first time. In his decision, Justice Wilkins held that where the right to vote exists, that right may not be diminished by procedural obstacles. Since the Massachusetts Commonwealth had never expressly denied them the right to vote, prisoners were enabled to vote on absentee ballots.
+Among the many decisions on the question of voting rights, two cases are key precedents to cite when arguing for enfranchising prisoners. In Evers v. Davoren, \[507\] the Massachusetts Supreme Court extended absentee ballot voting rights to Massachusetts prisoners for the first time. In his decision, Justice Wilkins held that where the right to vote exists, that right may not be diminished by procedural obstacles. Since the Massachusetts Commonwealth had never expressly denied them the right to vote, prisoners were enabled to vote on absentee ballots.
 
-A similar case in 1974, O'Brien v. Skinner,[\[508\]](#page-244-17) was brought before the U. S. Supreme Court. Here, the failure to include prisoners in an absentee voting scheme was challenged as a denial of equal protection of the laws under the 14th Amendment. The court held that prisoners who are otherwise legally qualified to vote cannot be denied the right solely because of incarceration.[\[509\]](#page-244-18) If the state provides no other method of voting for prisoners, the statute which excludes them from absentee voting denies them the equal protection of the laws.
+A similar case in 1974, O'Brien v. Skinner,\[508\] was brought before the U. S. Supreme Court. Here, the failure to include prisoners in an absentee voting scheme was challenged as a denial of equal protection of the laws under the 14th Amendment. The court held that prisoners who are otherwise legally qualified to vote cannot be denied the right solely because of incarceration.\[509\] If the state provides no other method of voting for prisoners, the statute which excludes them from absentee voting denies them the equal protection of the laws.
 
 States which expressly prohibit convicted persons from voting by statute or constitutional amendment are not affected by either Evers v. Davoren or O'Brien v. Skinner. These cases only apply to states which have no laws against prisoners voting and where prisoners are not included in absentee voting schemes. People in states which expressly prohibit felons from voting have two options: They may bring a case to court to declare such laws unconstitutional under the 14th Amendment. Or they may try to amend the state constitution, a longer process taking two or three years, but worthy of the effort.
 
 ### **A prisoner voting rights project**
 
-The empowerment of prisoners thru involvement in the electoral process is beginning in Massachusetts.[\[510\]](#page-244-19) A three‑year‑old project sponsored by the American Friends Service Committee (AFSC) has succeeded in making registered voters of several hundred prisoners in Massachusetts' institutions. The project is staffed by ex‑prisoners and utilizes the support of volunteers within prisons and from surrounding communities.
+The empowerment of prisoners thru involvement in the electoral process is beginning in Massachusetts.\[510\] A three‑year‑old project sponsored by the American Friends Service Committee (AFSC) has succeeded in making registered voters of several hundred prisoners in Massachusetts' institutions. The project is staffed by ex‑prisoners and utilizes the support of volunteers within prisons and from surrounding communities.
 
 The project was initiated by Dave Collins. After his release from Norfolk prison, he and others did research on the financial and political relationships between prisons and the towns in which they are located. They discovered that agreements had been made between the Norfolk Board of Selectmen and prison administrators that affected prisoners negatively. Prisoners had no knowledge of these agreements and no input into them. Prison townships submitting requisitions for federal money —such as minority funding‑include the largely Black prison population but when the money is spent, programs are unavailable to prisoners.
 
@@ -4996,7 +4996,7 @@ Like our predecessors, the slavery abolitionists and the antiwar activists, we a
 
 ### **Researching the prison power structure**
 
-Most traditional prison research studies captive prisoner populations rather than their slave environment and keepers. These studies often further the manipulation and control of prisoners, rather than addressing their real need for empowerment and voluntary social services. Most often, research is designed and information is categorized so that key connections between the oppressive institution and behavior are not made. Meanwhile, criminologists benefit financially from sizeable research grants handed out by those who have the power to decide who and what shall be studied. [\[511\]](#page-244-20)
+Most traditional prison research studies captive prisoner populations rather than their slave environment and keepers. These studies often further the manipulation and control of prisoners, rather than addressing their real need for empowerment and voluntary social services. Most often, research is designed and information is categorized so that key connections between the oppressive institution and behavior are not made. Meanwhile, criminologists benefit financially from sizeable research grants handed out by those who have the power to decide who and what shall be studied. \[511\]
 
 We have been socialized to believe that only a select few professionals and academics are competent enough to engage in serious prison research. But what if the machinery were reversed? What if abolitionists declared that pertinent prison research is of the variety that exposes the prisons' hidden functions and its waste of economic and human resources? Further, what if powerful prison bureaucrats and managers' affiliations, budgets, contracts and economic and political gains were pried into, analyzed, cross referenced and systematically scrutinized and the results published?
 
@@ -5008,18 +5008,18 @@ Prisons, even while their functions continue to diminish, must be made more open
 
 Abolitionists recognize that the economies of some localities are totally dependent on prisons and jails in much the same way that certain districts rely upon Pentagon contracts. Aside from other functions erroneously or correctly linked to prisons‑they do provide jobs:
 
-The prisons give employment to over 70,000 persons, many of whom would have difficulty procuring positions elsewhere. This is especially true of the custody staff, given their relatively low educational attainment and lack of skilled training. Many members of the treatment staff—counselors, sociologists, psychologists, and teachers‑have no more than a bachelor's degree in subject matter, which, in today's job market, is a surplus commodity. At the administrative level, many of the positions are obtained thru political patronage as a reward for political loyalty, an element of no relevance in the nongovernmental job market. The penitentiary also gives employment to the paraprofessional whose skills are not well enough developed to be marketable in private employment.[\[512\]](#page-244-21)
+The prisons give employment to over 70,000 persons, many of whom would have difficulty procuring positions elsewhere. This is especially true of the custody staff, given their relatively low educational attainment and lack of skilled training. Many members of the treatment staff—counselors, sociologists, psychologists, and teachers‑have no more than a bachelor's degree in subject matter, which, in today's job market, is a surplus commodity. At the administrative level, many of the positions are obtained thru political patronage as a reward for political loyalty, an element of no relevance in the nongovernmental job market. The penitentiary also gives employment to the paraprofessional whose skills are not well enough developed to be marketable in private employment.\[512\]
 
 Breaking the cycle of economic dependence on prison industries is not an easy task, but we are convinced that the fantastic fiscal and social costs of prisons‑when fully conveyed to the people‑can act as a tool for change.
 
-To understand policy one should know the policy makers‑the men of power‑and define their ideological view and backgrounds.[\[513\]](#page-244-22) Most of us believe that bureaucracies make decisions based on neutral, independent rationale, denying that people of power who comprise the bureaucracies are more than disinterested, perhaps misguided public servants. The fact, of course, is that people of power do come from specific class and business backgrounds and ultimately have a very tangible material interest in the larger contours of policy. [\[514\]](#page-244-23)
+To understand policy one should know the policy makers‑the men of power‑and define their ideological view and backgrounds.\[513\] Most of us believe that bureaucracies make decisions based on neutral, independent rationale, denying that people of power who comprise the bureaucracies are more than disinterested, perhaps misguided public servants. The fact, of course, is that people of power do come from specific class and business backgrounds and ultimately have a very tangible material interest in the larger contours of policy. \[514\]
 
 ### **Research methodology**
 
 To better perceive the nature of prison bureaucracies, how they are structured, the interests of those who comprise them and the power they wield, requires information about sources of relevant data:
 
 - 1. First, it is a good idea to construct organizational charts for your state or local prison bureaucracies. Include charts for LEAA State and Regional Planning Agencies and prison‑related legislative committees.
- - For the agency administering a prison see Sourcebook of Criminal Justice Statistics, Table 1.130, "Agency responsibility for administering correctional services, by state, January 1971," pp. 167‑69.[\[515\]](#page-244-24)
+ - For the agency administering a prison see Sourcebook of Criminal Justice Statistics, Table 1.130, "Agency responsibility for administering correctional services, by state, January 1971," pp. 167‑69.\[515\]
  - Or visit the Secretary of State's office or the public library for a copy of "State Legislative Manual," sometimes called the "Blue Book" (or "Red Book") which contains an outline of the responsibilities of state agencies, biographies of key state officials, plus other useful information.
  - Most LEAA State Planning Agencies put out a comprehensive description of the entire state criminal (in)justice systems. In Connecticut, for instance, it is titled: The Criminal Justice System in Connecticut and contains salary ranges for personnel, categorized budgets and other interesting information.
  - Libraries and League of Women Voters groups will be helpful in locating information you need for county and local levels of bureaucracies.
@@ -5032,12 +5032,12 @@ To better perceive the nature of prison bureaucracies, how they are structured, 
 - The one best source on women is Who's Who of American Women.
 - The most important business source is Poor's Register of Corporations, Directories, and Executives which lists alphabetically about 27,000 banks and industrials, along with their directors, officers and a little business information.
 - The New York Times Index is a gold mine on names and subjects of interest to power structure research, as are local newspaper "morgues."
-- ◦ For further information in researching professionals and corporate people by affiliation, see NACLA Research Methodology Guide. [\[516\]](#page-244-25)
+- ◦ For further information in researching professionals and corporate people by affiliation, see NACLA Research Methodology Guide. \[516\]
 - 3. While most states no longer profit from running prisons, those who run them do. One unstated function of federal, state and county prison systems is to provide thousands of employees and hundreds of contractors with a living. The following sources focus on "correctional" salaries and contract procedures:
- - LEAA state and regional bureaucracies' salaries and budgets are published by each State Planning Agency and are available at state or regional offices. The numbers of people employed by this bureaucracy is startling. In the small state of Connecticut, for instance, there are over 70 LEAA state and regional employees who received over \$800,000 in salaries in the fiscal year 1975–1976. [\[517\]](#page-244-26)
+ - LEAA state and regional bureaucracies' salaries and budgets are published by each State Planning Agency and are available at state or regional offices. The numbers of people employed by this bureaucracy is startling. In the small state of Connecticut, for instance, there are over 70 LEAA state and regional employees who received over \$800,000 in salaries in the fiscal year 1975–1976. \[517\]
  - Prison bureaucracy salary ranges are set by state personnel agencies. In the state of New York, for instance, salary scales are set by Civil Service with the Office of Employee Relations of the Executive Department. "Correctional" unions negotiate with that office.
  - Breakdown on salaries paid to "correctional" personnel are available from many sources: State Auditor's Report, State Comptroller's Office, State Department of "Corrections," Department of Civil Service or the Legislative Budget.
-- 4. State budgets and financial reports also reveal much that is important.[\[518\]](#page-244-27) The most convenient source for examining these is the State Auditor's Report on a particular agency, available from the auditor's office, or for inspection in the state library. Unfortunately, the most recent report is likely to cover a period eight or ten months prior to the time of your research.
+- 4. State budgets and financial reports also reveal much that is important.\[518\] The most convenient source for examining these is the State Auditor's Report on a particular agency, available from the auditor's office, or for inspection in the state library. Unfortunately, the most recent report is likely to cover a period eight or ten months prior to the time of your research.
 
 A second source is the most recent Annual Budget, available from the
 
@@ -5067,7 +5067,7 @@ It is necessary to be extremely persistent when asking state officials for finan
  - Prisoners in State and Federal Institutions. Information on sentenced prisoners in federal and state prisons.
  - Report on Corrections. One of six reports prepared by National Advisory Commission on Criminal Justice Standards and Goals, financed by LEAA, dealing with problems of "corrections" and proposing standards on rights of prisoners, diversion, pretrial release, community alternatives, etc. Appendix includes list of parent agencies responsible for administering "correctional" services by state.
 
-A non‑LEAA national source is Directory: Juvenile and Adult Correctional Departments, Institutions, Agencies and Paroling Authorities of the U. S. and Canada, published by the American Correctional Association. [\[519\]](#page-244-28)
+A non‑LEAA national source is Directory: Juvenile and Adult Correctional Departments, Institutions, Agencies and Paroling Authorities of the U. S. and Canada, published by the American Correctional Association. \[519\]
 
 - 6. In addition to salaries and contracts for materials and services, crucial prison issues to research include:
  - Numbers of prison personnel in ratio to prisoners
@@ -5317,525 +5317,525 @@ Learn how to organize a productive weekend workshop on prison abolition! This us
 
 ## (Payment must accompany single orders)
 
-[\[1\]](#page-16-1) See Videotape of Jerry Miller at JSAC (Joint Strategy and Action Committee) meeting, "Stop Prison Construction," Northern California, February 16, 1974, American Friends Service Committee Videotape Section, Philadelphia.
+\[1\] See Videotape of Jerry Miller at JSAC (Joint Strategy and Action Committee) meeting, "Stop Prison Construction," Northern California, February 16, 1974, American Friends Service Committee Videotape Section, Philadelphia.
 
-[\[2\]](#page-16-2) Eugene V. Natale and Cecelia F. Rosenberg, "And the Walls Come Tumbling Down: An Analysis of Social and Legal Pressures Bearing on the American Prison System," **New York Law Forum**, Vol. 19 (1974), p. 611.
+\[2\] Eugene V. Natale and Cecelia F. Rosenberg, "And the Walls Come Tumbling Down: An Analysis of Social and Legal Pressures Bearing on the American Prison System," **New York Law Forum**, Vol. 19 (1974), p. 611.
 
-[\[3\]](#page-16-3) David Greenberg and Fay Stender, "The Prison as a Lawless Agency," **Buffalo Law Review**, Vol. 21 (1972), pp. 799–838.
+\[3\] David Greenberg and Fay Stender, "The Prison as a Lawless Agency," **Buffalo Law Review**, Vol. 21 (1972), pp. 799–838.
 
-[\[4\]](#page-16-4) Max Stern, "Cruel and Usual Punishment: A Constitutional Lawyer Argues Prisons are Illegal,"
+\[4\] Max Stern, "Cruel and Usual Punishment: A Constitutional Lawyer Argues Prisons are Illegal,"
 
 - **Boston Alter Dark**, Special Supplement, **Massachusetts-Doin' Time.** "Prison life is profoundly unconstitutional. What goes on inside Massachusetts' state and county institutions not only transgresses the Bill of Rights, but, indeed, is the very antithesis of the rule of law."
- - [\[5\]](#page-17-0) Fred Cohen, "The Discovery of Prison Reform," **Buffalo Law Review,** Vol. 21 (1972), p. 887.
-- [\[6\]](#page-17-1) **Holt v. Sarver,** 309 Federal Supplement 362, 365 (E. D. Ark. 1970)-involved the first judicial attack on an entire system and demonstrated the value of a class action as opposed to an individual lawsuit.
- - [\[7\]](#page-17-2) Jessica Mitford, **Kind and Usual Punishment,** p. 255.
-- [\[8\]](#page-18-2) See materials developed by the National Moratorium on Prison Construction, Washington, D. C. for statistics on projected jail and prison construction nationwide. In "A Perspective on Crime and Imprisonment," November 1975, the cost of prison construction during next period of planning is an estimated \$20 billion.
-- [\[9\]](#page-18-3) **A Halt to Institutional Construction in Favor of Community Treatment** (pamphlet), National Council on Crime and Delinquency, New Jersey, June 1974.
-- [\[10\]](#page-18-4) **Corrections,** Report of the National Advisory Commission on Criminal Justice Standards and Goals, p. 597.
- - [\[11\]](#page-18-5) William Nagel, **The New Red Barn: A Critical Look at the Modern American Prison, p. 148.**
- - [\[12\]](#page-18-6) Benedict S. Alper, **Prisons Inside Out**, p. 199.
-- [\[13\]](#page-19-2) **Struggle for Justice, A Report on Crime and Punishment in America,** prepared by a working party of the American Friends Service Committee. We frequently cite this book. Hereafter, it will be referred to as **Struggle for Justice**. This quote is from pp. 12–13. " ... the impossibility of achieving more than a superficial reformation of our criminal justice system without a radical change in our values and a drastic restructuring of our social and economic institutions." Also **Toward a New Corrections Policy: Two Declarations of Principles**, Statement of Ex-Prisoners Advisory Group, p. 18. "If we are advocating the advancement of corrections, we must also become advocates for social change in the larger society."
-- [\[14\]](#page-19-3) See Richard K. Taylor, **Economics and the Gospel** (Philadelphia, United Church Press, 1973). Also Susanne Gowan, George Lakey, et al., Moving Toward a New Society (Philadelphia, New Society Press, 1976).
- - [\[15\]](#page-19-4) Karl Menninger, **The Crime of Punishment,** p. 11.
-- [\[16\]](#page-19-5) Lenore Cahn, ed., **Confronting Injustice: The Edmond Calm Reader** (Boston, Little Brown, 1966) pp. 385–97. See also for concept of citizens as "consumers of justice."
-- [\[17\]](#page-20-1) John Rawls, **A Theory of Justice** (Massachusetts, Belknap, 1971) pp. 302–303. Social primary goods are defined as "liberty and opportunity, income and wealth, and the basis of self respect... are to be distributed equally unless an unequal distribution of any or all of these goods is to the advantage of the least favored."
- - [\[18\]](#page-20-2) William Ryan, **Blaming the Victim,** p. 240.
- - [\[19\]](#page-20-3) **Ibid,** p. 134.
- - [\[20\]](#page-20-4) **Ibid.,** pp. 117–18.
- - [\[21\]](#page-20-5) **See footnote 8.**
- - [\[22\]](#page-20-6) Rollo May, **Power and Innocence** (New York, Norton, 1972) p. 32.
-- [\[23\]](#page-20-7) See **Attica: The Official Report of the New York Commission on Attica** (New York, Bantam, 1972).
-- [\[24\]](#page-20-8) "Attica is Termed as Bad as Before 1971 Rebellion," **New York Times**, July 21, 1976. See also "Attica prison five years later: Reforms spotty, despite funds hike," Albany Knickerbocker News, September 14, 1976.
-- [\[25\]](#page-21-1) For history of victims, see Stephen Schafer, **Compensation and Restitution to Victims of Crime.** Also Schafer's **The Victim and His Criminal.**
-- [\[26\]](#page-21-2) Hans Toch, **Violent Men: An Inquiry Into the Psychology of Violence** (Chicago, Aldine, 1969) p. 220. "Violence feeds on low self-esteem and selfdoubt, and prison unmans and dehumanizes; violence rests on exploitation and exploitative ness, and prison is a power-centered jungle."
- - [\[27\]](#page-21-3) "What About the Victims?" **Fortune News**, March 1975, p. 2.
-- [\[28\]](#page-21-4) Robert Martinson, **"The Paradox of Prison Reform"** in Gertrude Ezorsky, ed., **Philosophical Perspectives on Punishment,** p. 323. Martinson advocates shifting attention from the offender (and the state) to the public and especially to the victim, placing the victim at the center of public policy.
-- [\[29\]](#page-22-1) Schafer, **The Victim and His Criminal,** p. 112. Restitution in criminal/ victim relationships concerns restoration by the wrongdoer of the victim's position and rights that were damaged or destroyed during the criminal attack. It is an indication of the responsibility of the lawbreaker. **Compensation**, on the other hand, is an indication of the responsibility of society which compensates the victim for the damage or injury caused by the criminal attack.
+ - \[5\] Fred Cohen, "The Discovery of Prison Reform," **Buffalo Law Review,** Vol. 21 (1972), p. 887.
+- \[6\] **Holt v. Sarver,** 309 Federal Supplement 362, 365 (E. D. Ark. 1970)-involved the first judicial attack on an entire system and demonstrated the value of a class action as opposed to an individual lawsuit.
+ - \[7\] Jessica Mitford, **Kind and Usual Punishment,** p. 255.
+- \[8\] See materials developed by the National Moratorium on Prison Construction, Washington, D. C. for statistics on projected jail and prison construction nationwide. In "A Perspective on Crime and Imprisonment," November 1975, the cost of prison construction during next period of planning is an estimated \$20 billion.
+- \[9\] **A Halt to Institutional Construction in Favor of Community Treatment** (pamphlet), National Council on Crime and Delinquency, New Jersey, June 1974.
+- \[10\] **Corrections,** Report of the National Advisory Commission on Criminal Justice Standards and Goals, p. 597.
+ - \[11\] William Nagel, **The New Red Barn: A Critical Look at the Modern American Prison, p. 148.**
+ - \[12\] Benedict S. Alper, **Prisons Inside Out**, p. 199.
+- \[13\] **Struggle for Justice, A Report on Crime and Punishment in America,** prepared by a working party of the American Friends Service Committee. We frequently cite this book. Hereafter, it will be referred to as **Struggle for Justice**. This quote is from pp. 12–13. " ... the impossibility of achieving more than a superficial reformation of our criminal justice system without a radical change in our values and a drastic restructuring of our social and economic institutions." Also **Toward a New Corrections Policy: Two Declarations of Principles**, Statement of Ex-Prisoners Advisory Group, p. 18. "If we are advocating the advancement of corrections, we must also become advocates for social change in the larger society."
+- \[14\] See Richard K. Taylor, **Economics and the Gospel** (Philadelphia, United Church Press, 1973). Also Susanne Gowan, George Lakey, et al., Moving Toward a New Society (Philadelphia, New Society Press, 1976).
+ - \[15\] Karl Menninger, **The Crime of Punishment,** p. 11.
+- \[16\] Lenore Cahn, ed., **Confronting Injustice: The Edmond Calm Reader** (Boston, Little Brown, 1966) pp. 385–97. See also for concept of citizens as "consumers of justice."
+- \[17\] John Rawls, **A Theory of Justice** (Massachusetts, Belknap, 1971) pp. 302–303. Social primary goods are defined as "liberty and opportunity, income and wealth, and the basis of self respect... are to be distributed equally unless an unequal distribution of any or all of these goods is to the advantage of the least favored."
+ - \[18\] William Ryan, **Blaming the Victim,** p. 240.
+ - \[19\] **Ibid,** p. 134.
+ - \[20\] **Ibid.,** pp. 117–18.
+ - \[21\] **See footnote 8.**
+ - \[22\] Rollo May, **Power and Innocence** (New York, Norton, 1972) p. 32.
+- \[23\] See **Attica: The Official Report of the New York Commission on Attica** (New York, Bantam, 1972).
+- \[24\] "Attica is Termed as Bad as Before 1971 Rebellion," **New York Times**, July 21, 1976. See also "Attica prison five years later: Reforms spotty, despite funds hike," Albany Knickerbocker News, September 14, 1976.
+- \[25\] For history of victims, see Stephen Schafer, **Compensation and Restitution to Victims of Crime.** Also Schafer's **The Victim and His Criminal.**
+- \[26\] Hans Toch, **Violent Men: An Inquiry Into the Psychology of Violence** (Chicago, Aldine, 1969) p. 220. "Violence feeds on low self-esteem and selfdoubt, and prison unmans and dehumanizes; violence rests on exploitation and exploitative ness, and prison is a power-centered jungle."
+ - \[27\] "What About the Victims?" **Fortune News**, March 1975, p. 2.
+- \[28\] Robert Martinson, **"The Paradox of Prison Reform"** in Gertrude Ezorsky, ed., **Philosophical Perspectives on Punishment,** p. 323. Martinson advocates shifting attention from the offender (and the state) to the public and especially to the victim, placing the victim at the center of public policy.
+- \[29\] Schafer, **The Victim and His Criminal,** p. 112. Restitution in criminal/ victim relationships concerns restoration by the wrongdoer of the victim's position and rights that were damaged or destroyed during the criminal attack. It is an indication of the responsibility of the lawbreaker. **Compensation**, on the other hand, is an indication of the responsibility of society which compensates the victim for the damage or injury caused by the criminal attack.
 
 Historically, restitution was a living practice. The change from vengeful retaliation to restitution and compensation was part of a natural historical process, to end tribal and personal vendettas for injuries committed. Restitution offered an alternative which was in many ways equally satisfying to the victim or the victim's family and served as a requital of the injury. The influence of state power over restitution was gradually increased. As the state grew more powerful, it claimed a larger and larger share from the compensation given to the victim.
 
-- [\[30\]](#page-22-2) Martinson in Ezorsky, ed., p. 323. "I suggest it should be the aim of public policy to protect the public and to inhibit vengefulness by compensating the victim for the failure of the state to provide protection. Revenge wells up when the victim feels the state abandoned him; he has no place to turn for help. Then 'fear of crime' is magnified out of all proportion to risk. Folk-justice is vengeful and subject to intolerable injustice, because the only gain is the momentary alleviation of feelings."
- - [\[31\]](#page-22-3) See David Janzen, "Jesus and the Offender," **Liberty to the Captives,** October 1, 1973.
- - [\[32\]](#page-22-4) See Gilbert M. Cantor, "An End to Crime and Punishment," **The Shingle,** May 1976.
- - [\[33\]](#page-22-5) Albert Eglash, "Creative Restitution," **Journal of Criminal Law,** Vol. 48 (1958).
- - [\[34\]](#page-24-0) **Struggle for Justice,** p. 124.
- - [\[35\]](#page-24-1) Thomas Mathieson, **The Politics of Abolition**, pp. 24–25.
- - [\[36\]](#page-25-1) **Ibid.,** p. 208.
-- [\[37\]](#page-25-2) May, pp. 99–100; Ryan, p. 242. See also, C. Wright Mills, **The Sociological Imagination** (New York, Oxford University Press, 1959) p. 40.
-- [\[38\]](#page-26-2) Gene Sharp, **The Politics of Nonviolent Action.** See Chapters I and II for further analysis and examples of these concepts.
- - [\[39\]](#page-27-1) William Ryan, **Blaming the Victim**, pp. 3–29.
-- [\[40\]](#page-27-2) **Ibid.** , p. 195. Also James S. Wa Ilersteain and Clement J. Wyle, "Our Law Abiding Law Breakers" in **Probation**, 1947, pp. 107–12: A survey of 1698 New Yorkers, slightly weighted toward the affluent classes, showed that 91 percent said they had committed one or more felonies or serious misdemeanors after the age of 16. The mean number of offenses was 18. None of the sample had been classified as criminal. Also Austin L. Porterfield, **Youth in Trouble** (Fort Worth, Leo Potishman Foundation, 1946) pp. 32–35: A comparison of 337 college students with a group of 2,047 "delinquents" known to the Fort Worth Juvenile Court revealed that the delinquent acts of the college students had been as serious as those of the group prosecuted. On the average every 100 male students has committed 116 thefts before college, but few were ever in court except for traffic violations.
-- [\[41\]](#page-27-3) George Ives, **A History of Penal Methods: Criminals, Witches, Lunatics** (London, Stanley Paul and Co., 1914) p. 307.
- - [\[42\]](#page-27-4) Sidney Harris, "Crime Talk for Rochester Bail Fund," April 24, 1973, p.
-- [\[43\]](#page-27-5) President's Commission on Law Enforcement and Administration of Justice, **The Challenge of Crime in a Free Society** (New York, Avon, 1966) pp. 148–49, 151: "The offender at the end of the road in prison is likely to be a member of the lowest social and economic groups in the country, poorly educated and perhaps unemployed.
- - [\[44\]](#page-28-1) **Struggle for Justice**, p. 75.
-- [\[45\]](#page-28-2) Lois G. Forer, Judge, Court of Common Pleas, Philadelphia, **The Death of the Law** (New York, Mc Kay, 1975) p. 6.
- - [\[46\]](#page-28-3) Mitford, **Kind and Usual Punishment**, p. 71.
-- [\[47\]](#page-28-4) Scott Christianson, "Doomsday Justice: The Use of Collective Responsibility for Dealing with Corporate Crimes against Humanity," unpublished ms., School of Criminal Justice, Albany, New York, p. 1.
-- [\[48\]](#page-28-5) Altho we favor expanding the law in this respect, we do not advocate overall enlargement of the criminal law. On the contrary, we favor reducing criminal law substantially, thru decriminalization and other limitations.
- - [\[49\]](#page-29-1) Mitford, p. 63.
-- [\[50\]](#page-29-2) National Moratorium on Prison Construction, "A Perspective on Crime and Imprisonment," November 1975, Washington, D. C., p. 6.
- - [\[51\]](#page-29-3) Theodore R. Sarbin, "The Myth of the Criminal Type," **Monday Evening Papers,** No. 18, pp. 34.
-- [\[52\]](#page-29-4) Charles Loring Brace, **The Dangerous Classes of New York,** as reported in Lawrence M. Friedman, "The Tolerance Level for Crime," Nation, April 6, 1974.
- - [\[53\]](#page-29-5) Sarbin, p. 4.
-- [\[54\]](#page-29-6) Paul Takagi, "Course Outline and Bibliographies-The Correctional System," **Crime and Social Justice**, Fall/ Winter 1974, p. 85: "Black people today [are] rendered socially useless by cybernation and the export of jobs by multinational companies... The role of the state is to prevent minority and radical movements from collaborating and strengthening by criminalizing this population; the state, short of that, co-opts the movement thru poverty programs, or neutralizes it thru promises of legal redress.
- - [\[55\]](#page-30-1) **The Challenge of Crime in a Free Society**, pp. 6469.
- - [\[56\]](#page-31-1) See Edwin M. Schur, **Our Criminal Society**, p. 125.
-- [\[57\]](#page-32-2) Alberta E. Siegel, Ph. D., Prof. of Psychology, Stanford University, in the Surgeon General's Report by the Scientific Advisory Committee on Television and Social Behavior. Testimony before the Subcommittee on Communications of the Committee on Commerce, U. S. Senate, 92nd Congress, 2nd Session, March 21–24, 1972 (Washington, D. C., U. S. Government Printing Office, 1972) p. 63.
- - [\[58\]](#page-32-3) Neil Hickey, "Does T. V. Violence Affect our Society-Yes," T. V. Guide, June 14, 1975.
-- [\[59\]](#page-32-4) By patriarchy we mean a social organization marked by the supremacy and domination of men over women thru systematic and institutionalized physical and psychological force. See Kate Millett, Sexual Politics (Garden City, New York, Doubleday, 1970) pp. 24–25. Also Sheila Rowbotham, **Woman's**
+- \[30\] Martinson in Ezorsky, ed., p. 323. "I suggest it should be the aim of public policy to protect the public and to inhibit vengefulness by compensating the victim for the failure of the state to provide protection. Revenge wells up when the victim feels the state abandoned him; he has no place to turn for help. Then 'fear of crime' is magnified out of all proportion to risk. Folk-justice is vengeful and subject to intolerable injustice, because the only gain is the momentary alleviation of feelings."
+ - \[31\] See David Janzen, "Jesus and the Offender," **Liberty to the Captives,** October 1, 1973.
+ - \[32\] See Gilbert M. Cantor, "An End to Crime and Punishment," **The Shingle,** May 1976.
+ - \[33\] Albert Eglash, "Creative Restitution," **Journal of Criminal Law,** Vol. 48 (1958).
+ - \[34\] **Struggle for Justice,** p. 124.
+ - \[35\] Thomas Mathieson, **The Politics of Abolition**, pp. 24–25.
+ - \[36\] **Ibid.,** p. 208.
+- \[37\] May, pp. 99–100; Ryan, p. 242. See also, C. Wright Mills, **The Sociological Imagination** (New York, Oxford University Press, 1959) p. 40.
+- \[38\] Gene Sharp, **The Politics of Nonviolent Action.** See Chapters I and II for further analysis and examples of these concepts.
+ - \[39\] William Ryan, **Blaming the Victim**, pp. 3–29.
+- \[40\] **Ibid.** , p. 195. Also James S. Wa Ilersteain and Clement J. Wyle, "Our Law Abiding Law Breakers" in **Probation**, 1947, pp. 107–12: A survey of 1698 New Yorkers, slightly weighted toward the affluent classes, showed that 91 percent said they had committed one or more felonies or serious misdemeanors after the age of 16. The mean number of offenses was 18. None of the sample had been classified as criminal. Also Austin L. Porterfield, **Youth in Trouble** (Fort Worth, Leo Potishman Foundation, 1946) pp. 32–35: A comparison of 337 college students with a group of 2,047 "delinquents" known to the Fort Worth Juvenile Court revealed that the delinquent acts of the college students had been as serious as those of the group prosecuted. On the average every 100 male students has committed 116 thefts before college, but few were ever in court except for traffic violations.
+- \[41\] George Ives, **A History of Penal Methods: Criminals, Witches, Lunatics** (London, Stanley Paul and Co., 1914) p. 307.
+ - \[42\] Sidney Harris, "Crime Talk for Rochester Bail Fund," April 24, 1973, p.
+- \[43\] President's Commission on Law Enforcement and Administration of Justice, **The Challenge of Crime in a Free Society** (New York, Avon, 1966) pp. 148–49, 151: "The offender at the end of the road in prison is likely to be a member of the lowest social and economic groups in the country, poorly educated and perhaps unemployed.
+ - \[44\] **Struggle for Justice**, p. 75.
+- \[45\] Lois G. Forer, Judge, Court of Common Pleas, Philadelphia, **The Death of the Law** (New York, Mc Kay, 1975) p. 6.
+ - \[46\] Mitford, **Kind and Usual Punishment**, p. 71.
+- \[47\] Scott Christianson, "Doomsday Justice: The Use of Collective Responsibility for Dealing with Corporate Crimes against Humanity," unpublished ms., School of Criminal Justice, Albany, New York, p. 1.
+- \[48\] Altho we favor expanding the law in this respect, we do not advocate overall enlargement of the criminal law. On the contrary, we favor reducing criminal law substantially, thru decriminalization and other limitations.
+ - \[49\] Mitford, p. 63.
+- \[50\] National Moratorium on Prison Construction, "A Perspective on Crime and Imprisonment," November 1975, Washington, D. C., p. 6.
+ - \[51\] Theodore R. Sarbin, "The Myth of the Criminal Type," **Monday Evening Papers,** No. 18, pp. 34.
+- \[52\] Charles Loring Brace, **The Dangerous Classes of New York,** as reported in Lawrence M. Friedman, "The Tolerance Level for Crime," Nation, April 6, 1974.
+ - \[53\] Sarbin, p. 4.
+- \[54\] Paul Takagi, "Course Outline and Bibliographies-The Correctional System," **Crime and Social Justice**, Fall/ Winter 1974, p. 85: "Black people today [are] rendered socially useless by cybernation and the export of jobs by multinational companies... The role of the state is to prevent minority and radical movements from collaborating and strengthening by criminalizing this population; the state, short of that, co-opts the movement thru poverty programs, or neutralizes it thru promises of legal redress.
+ - \[55\] **The Challenge of Crime in a Free Society**, pp. 6469.
+ - \[56\] See Edwin M. Schur, **Our Criminal Society**, p. 125.
+- \[57\] Alberta E. Siegel, Ph. D., Prof. of Psychology, Stanford University, in the Surgeon General's Report by the Scientific Advisory Committee on Television and Social Behavior. Testimony before the Subcommittee on Communications of the Committee on Commerce, U. S. Senate, 92nd Congress, 2nd Session, March 21–24, 1972 (Washington, D. C., U. S. Government Printing Office, 1972) p. 63.
+ - \[58\] Neil Hickey, "Does T. V. Violence Affect our Society-Yes," T. V. Guide, June 14, 1975.
+- \[59\] By patriarchy we mean a social organization marked by the supremacy and domination of men over women thru systematic and institutionalized physical and psychological force. See Kate Millett, Sexual Politics (Garden City, New York, Doubleday, 1970) pp. 24–25. Also Sheila Rowbotham, **Woman's**
 
 **Consciousness, Man's World** (Middlesex, England, Penguin, 1973) pp. 117–23.
 
-- [\[60\]](#page-32-5) See Margaret Mead, **Male and Female** (New York, Morrow, 1949) pp. 301–302. Also Karen De Crow, Sexist Justice (New York Vintage, 1974) pp. 176–207. Also Betsy Warrior, "Battered Lives" in Houseworker's Handbook (c/o Leghorn & Warrior, Woman's Center, 46 Pleasant St., Cambridge, Massachusetts.)
-- [\[61\]](#page-32-6) Vincent J. Fontana, M. D., **Some where a Child is Crying** (New York, Macmillan, 1973): "It is a myth that we, in this nation, love our children." p. 37.
- - [\[62\]](#page-32-7) Schur, p. 156.
-- [\[63\]](#page-32-8) Robert M. Fogulson, "From Resentment to Confrontation" in Social Action, No. 6, February 1969, pp. 10–11 (reprinted from **Political Science Quarterly,** Vol. 83, June 1968).
-- [\[64\]](#page-33-0) Paul Takagi, "A Garrison State in 'Democratic' Society," **Crime and Social Justice**, Spring/ Summer 1974, pp. 29–30.
-- [\[65\]](#page-33-1) See Center for Research on Criminal Justice, **The Iron Fist and the Velvet Glove: An Analysis of the U. S. Police,** pp. 8–9.
- - [\[66\]](#page-33-2) Ibid., pp. 186–88.
- - [\[67\]](#page-34-1) See John Buckley, "Guns: Matter of Machismo and Race" in Fortune News, December 1975.
-- [\[68\]](#page-34-2) See materials from National Coalition to Ban Handguns, 100 Maryland Ave., N. E., Washington, D. C. 20002. 31. See Buckley.
- - [\[69\]](#page-35-1) **Ibid**.
-- [\[70\]](#page-35-2) See "Gun Crazy," Nation, March 1, 1975; David E. Rosenbaum, "Gun Control Problem," **New York Times,** October 27, 1975; Robert Sherrill, "Gun Controls are not Likely this Year," **New York Times**, March 9, 1975.
-- [\[71\]](#page-35-3) See William E. Farrell, "Majority at Hearing in Chicago Urges Congress to Ban Pistols," New York Times, April 16, 1975.
-- [\[72\]](#page-35-4) See John M. Credson, "Levi Says U. S. is Studying Ways to Curb Pistols in Urban Areas," **New York Times,** April 7, 1975; "The Gun Culture," editorial, New York Times, October 24, 1975.
- - [\[73\]](#page-35-5) The Challenge of Crime in a Free Society, p. 439.
- - [\[74\]](#page-36-1) Donald Cressey, Theft of a Nation (New York Harper & Row, 1969) p. xi.
- - [\[75\]](#page-36-2) See L. Harold De Wolf, Crime and Justice in America, pp. 20–22, 199–200.
-- [\[76\]](#page-36-3) Edwin Kiester, Jr., **Crimes With No Victims: How Legislating Morality Defeats the Cause of Justice** (New York Alliance for a Safer New York, 1972) p. 61.
-- [\[77\]](#page-36-4) Edwin M. Schur and Hugo Adam Bedau, **Victimless Crimes** (Englewood Cliffs, New Jersey, Prentice-Hall, 1974) p. 26.
-- [\[78\]](#page-36-5) See Thomas Szasz, Ceremonial Chemistry (Garden City, New York Anchor, 1974) pp. 20–22, 100– 102, 178–79.
-- [\[79\]](#page-36-6) See Carol Trilling, "Playing Politics with Addiction," Nation, November 9, 1974; Robert Byck, "The Drug Muddle," **New York Times**, June 27, 1975: "One must search hard for evidence that these [narcotic] laws have ever been influenced by pharmacological reality. There is more evidence ... that laws have been directed at suppression of the undesirable behavior of undesirable groups in our society."
-- [\[80\]](#page-36-7) Milton Silverman and Philip R. Lee, Pills, Profits and Politics (Berkeley, University of California Press, 1974) pp. 19–22.
-- [\[81\]](#page-36-8) Ibid., pp. 16–19, 258–81. Also Lester Grinspoon, "Speed and Pot: A Mirror Image," **New York Times**, October 25, 1975: "Marijuana is not an addicting drug, and there are no serious consequences upon cessation of chronic use; speed (amphetamine) is addicting, and there is a withdrawal syndrome that often includes severe depression. While there is no convincing evidence that cannabis (marijuana) damages tissue, amphetamines appear to have that capacity; while there are no well-documented cases of death from marijuana, it is becoming increasingly clear that speed can indeed kill... Yet, the astonishing fact is that there has been an enormous concern and near hysterical outcry over the use of marijuana, while public, governmental and medical attitudes toward the use of amphetamines have generally ranged from actual enthusiasm to complacency and only recently some degree of concern.."
- - [\[82\]](#page-36-9) Silverman and Lee, p. 22.
-- [\[83\]](#page-37-0) Peter Schrag and Dian Divoky, **The Myth of the Hyperactive Child** (New York, Pantheon, 1975) pp. xii-xiii, 105–106.
- - [\[84\]](#page-37-1) See Mitford, pp. 138–68.
- - [\[85\]](#page-37-2) The Prison Research Project, **The Price of Punishment**, pp. 50–53.
-- [\[86\]](#page-37-3) See Harold M. Schmeck, "Inmates' Role in Drug Tests is Reported," New York Times, January 10, 1976.
-- [\[87\]](#page-37-4) See Nancy Hicks, "Two Black Neurosurgeons Defend Behavior-Altering Operations," New York Times, January 8, 1976.
- - [\[88\]](#page-37-5) Silverman and Lee, pp.63,98–103.
-- [\[89\]](#page-38-1) See Catherine Lamour and Michael R. Lamberti, **The International Connection: From Opium Growers to Pushers** (New York Pantheon, 1974) p. 145.
-- [\[90\]](#page-38-2) See Alfred W. Mc Coy, Cathleen B. Read and Leonard P. Adams II, **The Politics of Heroin in Southeast Asia** (New York, Harper & Row, 1972) p. 14.
- - [\[91\]](#page-38-3) See Edward M. Brecher, et al., Licit and Illicit Drugs (Boston, Little, Brown, 1972) p. 94.
+- \[60\] See Margaret Mead, **Male and Female** (New York, Morrow, 1949) pp. 301–302. Also Karen De Crow, Sexist Justice (New York Vintage, 1974) pp. 176–207. Also Betsy Warrior, "Battered Lives" in Houseworker's Handbook (c/o Leghorn & Warrior, Woman's Center, 46 Pleasant St., Cambridge, Massachusetts.)
+- \[61\] Vincent J. Fontana, M. D., **Some where a Child is Crying** (New York, Macmillan, 1973): "It is a myth that we, in this nation, love our children." p. 37.
+ - \[62\] Schur, p. 156.
+- \[63\] Robert M. Fogulson, "From Resentment to Confrontation" in Social Action, No. 6, February 1969, pp. 10–11 (reprinted from **Political Science Quarterly,** Vol. 83, June 1968).
+- \[64\] Paul Takagi, "A Garrison State in 'Democratic' Society," **Crime and Social Justice**, Spring/ Summer 1974, pp. 29–30.
+- \[65\] See Center for Research on Criminal Justice, **The Iron Fist and the Velvet Glove: An Analysis of the U. S. Police,** pp. 8–9.
+ - \[66\] Ibid., pp. 186–88.
+ - \[67\] See John Buckley, "Guns: Matter of Machismo and Race" in Fortune News, December 1975.
+- \[68\] See materials from National Coalition to Ban Handguns, 100 Maryland Ave., N. E., Washington, D. C. 20002. 31. See Buckley.
+ - \[69\] **Ibid**.
+- \[70\] See "Gun Crazy," Nation, March 1, 1975; David E. Rosenbaum, "Gun Control Problem," **New York Times,** October 27, 1975; Robert Sherrill, "Gun Controls are not Likely this Year," **New York Times**, March 9, 1975.
+- \[71\] See William E. Farrell, "Majority at Hearing in Chicago Urges Congress to Ban Pistols," New York Times, April 16, 1975.
+- \[72\] See John M. Credson, "Levi Says U. S. is Studying Ways to Curb Pistols in Urban Areas," **New York Times,** April 7, 1975; "The Gun Culture," editorial, New York Times, October 24, 1975.
+ - \[73\] The Challenge of Crime in a Free Society, p. 439.
+ - \[74\] Donald Cressey, Theft of a Nation (New York Harper & Row, 1969) p. xi.
+ - \[75\] See L. Harold De Wolf, Crime and Justice in America, pp. 20–22, 199–200.
+- \[76\] Edwin Kiester, Jr., **Crimes With No Victims: How Legislating Morality Defeats the Cause of Justice** (New York Alliance for a Safer New York, 1972) p. 61.
+- \[77\] Edwin M. Schur and Hugo Adam Bedau, **Victimless Crimes** (Englewood Cliffs, New Jersey, Prentice-Hall, 1974) p. 26.
+- \[78\] See Thomas Szasz, Ceremonial Chemistry (Garden City, New York Anchor, 1974) pp. 20–22, 100– 102, 178–79.
+- \[79\] See Carol Trilling, "Playing Politics with Addiction," Nation, November 9, 1974; Robert Byck, "The Drug Muddle," **New York Times**, June 27, 1975: "One must search hard for evidence that these [narcotic] laws have ever been influenced by pharmacological reality. There is more evidence ... that laws have been directed at suppression of the undesirable behavior of undesirable groups in our society."
+- \[80\] Milton Silverman and Philip R. Lee, Pills, Profits and Politics (Berkeley, University of California Press, 1974) pp. 19–22.
+- \[81\] Ibid., pp. 16–19, 258–81. Also Lester Grinspoon, "Speed and Pot: A Mirror Image," **New York Times**, October 25, 1975: "Marijuana is not an addicting drug, and there are no serious consequences upon cessation of chronic use; speed (amphetamine) is addicting, and there is a withdrawal syndrome that often includes severe depression. While there is no convincing evidence that cannabis (marijuana) damages tissue, amphetamines appear to have that capacity; while there are no well-documented cases of death from marijuana, it is becoming increasingly clear that speed can indeed kill... Yet, the astonishing fact is that there has been an enormous concern and near hysterical outcry over the use of marijuana, while public, governmental and medical attitudes toward the use of amphetamines have generally ranged from actual enthusiasm to complacency and only recently some degree of concern.."
+ - \[82\] Silverman and Lee, p. 22.
+- \[83\] Peter Schrag and Dian Divoky, **The Myth of the Hyperactive Child** (New York, Pantheon, 1975) pp. xii-xiii, 105–106.
+ - \[84\] See Mitford, pp. 138–68.
+ - \[85\] The Prison Research Project, **The Price of Punishment**, pp. 50–53.
+- \[86\] See Harold M. Schmeck, "Inmates' Role in Drug Tests is Reported," New York Times, January 10, 1976.
+- \[87\] See Nancy Hicks, "Two Black Neurosurgeons Defend Behavior-Altering Operations," New York Times, January 8, 1976.
+ - \[88\] Silverman and Lee, pp.63,98–103.
+- \[89\] See Catherine Lamour and Michael R. Lamberti, **The International Connection: From Opium Growers to Pushers** (New York Pantheon, 1974) p. 145.
+- \[90\] See Alfred W. Mc Coy, Cathleen B. Read and Leonard P. Adams II, **The Politics of Heroin in Southeast Asia** (New York, Harper & Row, 1972) p. 14.
+ - \[91\] See Edward M. Brecher, et al., Licit and Illicit Drugs (Boston, Little, Brown, 1972) p. 94.
 
-- [\[92\]](#page-38-4) Ibid. Also Schur, pp. 19–22.
-- [\[93\]](#page-38-5) See **The Knapp Commission Report on Police Corruption** (New York, Braziller, 1972): "Many ghetto people who have grown up watching police performance in relation to gambling and narcotics are absolutely convinced that all policemen are getting rich on their share of the profits of these two illegal activities ...."
-- [\[94\]](#page-38-6) Richard Korn, "Crime, Justice and Corrections," University of San Francisco Law Review, Vol. 6 (1971) p. 41.
-- [\[95\]](#page-38-7) Gilbert M. Cantor, "An End to Crime and Punishment," **The Shingle,** Philadelphia Bar Association, May 1976, p. 107: ".. The time has come to abolish the game of crime and punishment and to substitute a paradigm of restitution and responsibility."
- - [\[96\]](#page-40-2) Norman Carison, "The Federal Prison System: 45 Years of Change," Federal Probation, June 1975.
-- [\[97\]](#page-40-3) **Ibid.** : "To protect our society against crime, we need a highly efficient criminal justice system that apprehends the offender, brings him speedily to trial, metes out a just sentence to the guilty, and gives him encouragement to change his life style.
- - [\[98\]](#page-41-0) Mitford, p. 276.
-- [\[99\]](#page-41-1) The President's Crime Commission in 1967 cited asurvey showing "that in a sample of 1,700 persons of all social levels, 91 percent admitted committing acts for which they might have been imprisoned but were never caught."
-- [\[100\]](#page-41-2) "A Perspective on Crime and Imprisonment," pp. 6, 8. "While the F. B. I. U. C. R.s reported 8.6 million index crimes for 1973, the Census Bureau found that 37 million index crimes had been committed. Put another way, of 37 million crimes committed, 28.4 million were not reported to (or by) police."
-- [\[101\]](#page-41-3) Milton Rector, President, NCCD, in his foreward to Benedict S. Alper's Prisons Inside-Out, p. xii.
-- [\[102\]](#page-41-4) Alper, p. 19: "... Very few persons committed to prison do in fact spend their whole lives there; almost all of them are ultimately released back into the community... ultimately we release all but a few of the people in prison back into free society, after having treated them during their stay as if they were without any capacity to live in that society... close to 100 percent of offenders are going to be returned."
-- [\[103\]](#page-42-1) American Bar Association Project on Minimum Standards for Criminal Justice, Standards Relating to Sentencing Alternatives and Procedures, 59, quoted in Ronald L. Goldfarb and Linda R. Singer, After Conviction (New York, Simon & Schuster, 1973) p. 183.
- - [\[104\]](#page-42-2) Alper, p. 10.
-- [\[105\]](#page-42-3) Ryan, p. 204: A set of studies... show there is no substantial relationship between social class and the commission of crimes, but that there is a very marked relationship between class and conviction for crime." Also, on p. 200: "Policemen believe very firmly that criminals are lower class, marginal, unreliable, dangerous people, of whom a greatly disproportionate number are Black."
- - [\[106\]](#page-42-4) **Ibid.,** p. 190.
- - [\[107\]](#page-42-5) H. Jack Griswold, Mike Misenheimer, Art Powers, Ed Tromanhauser, **An Eye for an Eye**, p. 3.
- - [\[108\]](#page-42-6) Ryan, pp. 196–97.
-- [\[109\]](#page-42-7) Edith Elisabeth Flynn, "Jails and Criminal Justice," in Lloyd E. Ohlin, ed., Prisoners in America, pp. 52–53.
-- [\[110\]](#page-42-8) In 1973, of close to nine million reported Index crimes, 90 percent were crimes against property. **F. B. I. U. C. R.s,** p. 1.
-- [\[111\]](#page-42-9) Norval Morris, **The Future of Imprisonment**, pp. 10–11: "The idea of imprisoning only the dangerous has similar empirical inefficiencies and theoretical flaws. It presupposes a capacity to predict future serious criminal behavior quite beyond our present technical ability... At present, the concept of dangerousness is both plastic and vague.
- - [\[112\]](#page-42-10) Ben H. Bagdikian and Leon Dash, **The Shame of Prisons**, p. 14.
-- [\[113\]](#page-42-11) Mitford, pp. 276–77. Murderers "have generally acted out some desperate personal frustration against a member of their family, are most likely to repent, least likely to repeat-unless, of course, they are psychotic, in which case they don't belong in prison at all."
-- [\[114\]](#page-43-1) For an excellent account, see Henry J. Steadman and Gary Keveles, "The Community Adjustment and Criminal Activity of the Baxstrom Patients: 1966–1970," **American Journal of Psychiatry** 129 (1972), pp. 30410.
- - [\[115\]](#page-43-2) **Struggle for Justice**, pp. 12526.
- - [\[116\]](#page-45-1) **Ibid**., p. 50.
- - [\[117\]](#page-45-2) Willard Gaylin, **Partial Justice, A Study of Bias in Sentencing**, p. 174.
-- [\[118\]](#page-45-3) Tromanhauser, An Eye for an Eye, p. 243. "Prison, as it exists today, is an exercise in 'dead end' penology. It reveals a childish faith in punishment as a crime deterrent... The pound of flesh that a vengeance-prone public seems to demand can be (and is) extracted behind prison walls, but the pound of flesh negates reformation. The public cannot have it both ways."
-- [\[119\]](#page-45-4) "Statement of the Ex-Prisoners Advisory Group", in **Toward a New Corrections Policy: Two Declarations of Principles**, p. 18. Also John Irwin, and "Rehabilitation Versus Justice" in Stanley L. Brodsky, ed., **Changing Correctional Systems** (University of Alabama, Center for Correctional Psychology, 1973) p. 63.
- - [\[120\]](#page-46-2) **Struggle for Justice**, p. 52.
- - [\[121\]](#page-47-2) Ronald H. Beattie and Charles K. Bridges, "Superior Court Probation and/or Jail Sample,"
+- \[92\] Ibid. Also Schur, pp. 19–22.
+- \[93\] See **The Knapp Commission Report on Police Corruption** (New York, Braziller, 1972): "Many ghetto people who have grown up watching police performance in relation to gambling and narcotics are absolutely convinced that all policemen are getting rich on their share of the profits of these two illegal activities ...."
+- \[94\] Richard Korn, "Crime, Justice and Corrections," University of San Francisco Law Review, Vol. 6 (1971) p. 41.
+- \[95\] Gilbert M. Cantor, "An End to Crime and Punishment," **The Shingle,** Philadelphia Bar Association, May 1976, p. 107: ".. The time has come to abolish the game of crime and punishment and to substitute a paradigm of restitution and responsibility."
+ - \[96\] Norman Carison, "The Federal Prison System: 45 Years of Change," Federal Probation, June 1975.
+- \[97\] **Ibid.** : "To protect our society against crime, we need a highly efficient criminal justice system that apprehends the offender, brings him speedily to trial, metes out a just sentence to the guilty, and gives him encouragement to change his life style.
+ - \[98\] Mitford, p. 276.
+- \[99\] The President's Crime Commission in 1967 cited asurvey showing "that in a sample of 1,700 persons of all social levels, 91 percent admitted committing acts for which they might have been imprisoned but were never caught."
+- \[100\] "A Perspective on Crime and Imprisonment," pp. 6, 8. "While the F. B. I. U. C. R.s reported 8.6 million index crimes for 1973, the Census Bureau found that 37 million index crimes had been committed. Put another way, of 37 million crimes committed, 28.4 million were not reported to (or by) police."
+- \[101\] Milton Rector, President, NCCD, in his foreward to Benedict S. Alper's Prisons Inside-Out, p. xii.
+- \[102\] Alper, p. 19: "... Very few persons committed to prison do in fact spend their whole lives there; almost all of them are ultimately released back into the community... ultimately we release all but a few of the people in prison back into free society, after having treated them during their stay as if they were without any capacity to live in that society... close to 100 percent of offenders are going to be returned."
+- \[103\] American Bar Association Project on Minimum Standards for Criminal Justice, Standards Relating to Sentencing Alternatives and Procedures, 59, quoted in Ronald L. Goldfarb and Linda R. Singer, After Conviction (New York, Simon & Schuster, 1973) p. 183.
+ - \[104\] Alper, p. 10.
+- \[105\] Ryan, p. 204: A set of studies... show there is no substantial relationship between social class and the commission of crimes, but that there is a very marked relationship between class and conviction for crime." Also, on p. 200: "Policemen believe very firmly that criminals are lower class, marginal, unreliable, dangerous people, of whom a greatly disproportionate number are Black."
+ - \[106\] **Ibid.,** p. 190.
+ - \[107\] H. Jack Griswold, Mike Misenheimer, Art Powers, Ed Tromanhauser, **An Eye for an Eye**, p. 3.
+ - \[108\] Ryan, pp. 196–97.
+- \[109\] Edith Elisabeth Flynn, "Jails and Criminal Justice," in Lloyd E. Ohlin, ed., Prisoners in America, pp. 52–53.
+- \[110\] In 1973, of close to nine million reported Index crimes, 90 percent were crimes against property. **F. B. I. U. C. R.s,** p. 1.
+- \[111\] Norval Morris, **The Future of Imprisonment**, pp. 10–11: "The idea of imprisoning only the dangerous has similar empirical inefficiencies and theoretical flaws. It presupposes a capacity to predict future serious criminal behavior quite beyond our present technical ability... At present, the concept of dangerousness is both plastic and vague.
+ - \[112\] Ben H. Bagdikian and Leon Dash, **The Shame of Prisons**, p. 14.
+- \[113\] Mitford, pp. 276–77. Murderers "have generally acted out some desperate personal frustration against a member of their family, are most likely to repent, least likely to repeat-unless, of course, they are psychotic, in which case they don't belong in prison at all."
+- \[114\] For an excellent account, see Henry J. Steadman and Gary Keveles, "The Community Adjustment and Criminal Activity of the Baxstrom Patients: 1966–1970," **American Journal of Psychiatry** 129 (1972), pp. 30410.
+ - \[115\] **Struggle for Justice**, pp. 12526.
+ - \[116\] **Ibid**., p. 50.
+ - \[117\] Willard Gaylin, **Partial Justice, A Study of Bias in Sentencing**, p. 174.
+- \[118\] Tromanhauser, An Eye for an Eye, p. 243. "Prison, as it exists today, is an exercise in 'dead end' penology. It reveals a childish faith in punishment as a crime deterrent... The pound of flesh that a vengeance-prone public seems to demand can be (and is) extracted behind prison walls, but the pound of flesh negates reformation. The public cannot have it both ways."
+- \[119\] "Statement of the Ex-Prisoners Advisory Group", in **Toward a New Corrections Policy: Two Declarations of Principles**, p. 18. Also John Irwin, and "Rehabilitation Versus Justice" in Stanley L. Brodsky, ed., **Changing Correctional Systems** (University of Alabama, Center for Correctional Psychology, 1973) p. 63.
+ - \[120\] **Struggle for Justice**, p. 52.
+ - \[121\] Ronald H. Beattie and Charles K. Bridges, "Superior Court Probation and/or Jail Sample,"
 
 published by the California Bureau of Criminal Statistics (1970), quoted in James Q. Wilson, **Thinking about Crime** (New York, Basic Books, 1975) p. 167.
 
-- [\[122\]](#page-47-3) **Struggle for Justice**, pp. 5556.
-- [\[123\]](#page-47-4) George Rusche and Otto Kirchheimer, **Punishment and Social Structure** (New York, Russell & Russell, 1939) p. 204.
- - [\[124\]](#page-47-5) Thorsten Sellin, **Capital Punishment** (New York Harper & Row, 1967).
-- [\[125\]](#page-47-6) Mitford, pp. 306–307. For further studies on the ineffectiveness of the death penalty as a deterrent on the murder of law enforcement officers and prison guards, see pp. 190–91.
- - [\[126\]](#page-47-7) Nicholas F. Hahn and Scott Christianson, "Headin' for Stir," **New York Times**, June 30, 1975.
-- [\[127\]](#page-48-2) Robert Martinson, Douglas Lipton and Judith Wilks, **The Effectiveness of Correctional Treatment** (New York, Praeger Publishers, 1975). First published in summary version in **The Public Interest**, Spring 1974.
- - [\[128\]](#page-48-3) Norman Carlson, as interviewed on 60 Minutes, CBS News, August 24, 1975.
-- [\[129\]](#page-48-4) **Struggle for Justice**, pp. 17–18. " ... a paradigm of the drama that critics and administrators of the penal system have played over and over again: the critic attacks, devising something that seems better; the administrator co-opts the critic and implements the idea in ways and for ends quite at odds with the original intention. The result may be more humane-or then again it might not be. In any event, it serves to entrench the legitimacy of the society's mode of handling criminals."
- - [\[130\]](#page-48-5) Michael T. Malloy, "Reform is a Flop," National Observer, January 4, 1975.
-- [\[131\]](#page-48-6) Herman Schwartz, "Protection of Prisoners' Rights," **Christianity and Crisis**, February 17, 1975, p. 21.
- - [\[132\]](#page-49-3) Mitford, pp. 116–17.
-- [\[133\]](#page-49-4) Gresham Sykes, "Prison is a Perfect Culture for Growing Conspiracies," **New York Times**, April 21, 1974.
-- [\[134\]](#page-49-5) See Andrew H. Malcolm, "For this Convict, 'Freedom' is Another Word for 'Fear'," **New York Times**, November 20, 1974, p. 41.
-- [\[135\]](#page-50-2) Behavioral psychologist B. F. Skinner in a letter to **The New York Times**, February 17, 1974: "... it was a tragic mistake to include behavior modification thru management of the prison environment... It is possible for prisoners to discover positive reasons for behaving well rather than the negative reasons now in force... It is a gross misrepresentation of behavior modification thru the design of contingencies of reinforcement to call it 'systematic manipulation of behavior' or to say, that 'a reward is given at each stage at which a subject produces a specified behavior.' Prisoners are being rewarded now, and their behavior is being systematically manipulated, and the result is Attica. It will continue to be Attica until the nature and role of the prison environment are understood and changed."
-- [\[136\]](#page-50-3) Arpiar G. Saunders, Jr., "Behavior Therapy in Prisons: Walden II or Clockwork Orange?" (A paper prepared for the Eighth Annual Convention of the Association for Advancement of Behavior Therapy, Chicago, November 1–3, 1974, as part of a panel entitled "Legal and Ethical Issues in Behavior Therapy.") He cites a court decision rendered on July 31, 1974 in the START (Special Treatment and Rehabilitative Training Program) litigation: Clonce v. Richardson. "The decision noted that the purpose of the program was not to develop behavior of an individual so that he would be able to conform his behavior to standards of society at large, but rather to make him a better and more manageable prisoner."
-- [\[137\]](#page-50-4) Norman Carison, quoted in the **New York Times**, October 25, 1975, speaking of the START program, phased out at Springfield in 1974: "If we had called START what it was-an experiment in control-many people think there would be no problem," he said. "Unfortunately, START was called a behavior modification program."
-- [\[138\]](#page-51-0) Robert Martinson, p. 25. Included in the research were 231 studies dealing with attempts at "rehabilitation." They were selected from 1,200 studies in the English language between 1945 and 1967 (on the basis of meeting standards of research and being acceptable for interpretation). Initiated in 1967 to help improve "rehabilitation" efforts, it was at first denied publication upon completion, given the unexpected conclusions. Its results became public information only with a subpoena in 1973 and its findings first published in **The Public Interest**.
- - [\[139\]](#page-51-1) Norval Morris, p. 15.
- - [\[140\]](#page-51-2) Ronald J. Ostro, "Saxbe Hits Penal 'Myth," **New York Post**, October 1, 1974.
-- [\[141\]](#page-52-1) "Big Change in Prisons: Punish-Not Reform," **U. S. News and World Report,** August 25, 1975, p. 21. Also Norman Carlson, "The Federal Prison System: Forty-five Years of Change," **Federal Probation,** June 1975.
- - [\[142\]](#page-53-2) Erik Olin Wright, **The Politics of Punishment**, pp. 25–26.
- - [\[143\]](#page-53-3) Ibid., p. 31.
- - [\[144\]](#page-53-4) Ibid., p. 320.
-- [\[145\]](#page-54-1) On suicide, see Scott Christianson, "In Prison: Contagion of Suicide," Nation, September 21, 1974, p. 243: New York City jails have registered approximately 80 suicides, 22 of them in one recent 11-month stretch; Albany's rate was about one death for every 1,000 inmates admitted during 1973, which was six times more than that for the general population, and twice that of the nation's jail population. Figures compiled by the New York State Correction Medical Review Board show that last year there were 102
+- \[122\] **Struggle for Justice**, pp. 5556.
+- \[123\] George Rusche and Otto Kirchheimer, **Punishment and Social Structure** (New York, Russell & Russell, 1939) p. 204.
+ - \[124\] Thorsten Sellin, **Capital Punishment** (New York Harper & Row, 1967).
+- \[125\] Mitford, pp. 306–307. For further studies on the ineffectiveness of the death penalty as a deterrent on the murder of law enforcement officers and prison guards, see pp. 190–91.
+ - \[126\] Nicholas F. Hahn and Scott Christianson, "Headin' for Stir," **New York Times**, June 30, 1975.
+- \[127\] Robert Martinson, Douglas Lipton and Judith Wilks, **The Effectiveness of Correctional Treatment** (New York, Praeger Publishers, 1975). First published in summary version in **The Public Interest**, Spring 1974.
+ - \[128\] Norman Carlson, as interviewed on 60 Minutes, CBS News, August 24, 1975.
+- \[129\] **Struggle for Justice**, pp. 17–18. " ... a paradigm of the drama that critics and administrators of the penal system have played over and over again: the critic attacks, devising something that seems better; the administrator co-opts the critic and implements the idea in ways and for ends quite at odds with the original intention. The result may be more humane-or then again it might not be. In any event, it serves to entrench the legitimacy of the society's mode of handling criminals."
+ - \[130\] Michael T. Malloy, "Reform is a Flop," National Observer, January 4, 1975.
+- \[131\] Herman Schwartz, "Protection of Prisoners' Rights," **Christianity and Crisis**, February 17, 1975, p. 21.
+ - \[132\] Mitford, pp. 116–17.
+- \[133\] Gresham Sykes, "Prison is a Perfect Culture for Growing Conspiracies," **New York Times**, April 21, 1974.
+- \[134\] See Andrew H. Malcolm, "For this Convict, 'Freedom' is Another Word for 'Fear'," **New York Times**, November 20, 1974, p. 41.
+- \[135\] Behavioral psychologist B. F. Skinner in a letter to **The New York Times**, February 17, 1974: "... it was a tragic mistake to include behavior modification thru management of the prison environment... It is possible for prisoners to discover positive reasons for behaving well rather than the negative reasons now in force... It is a gross misrepresentation of behavior modification thru the design of contingencies of reinforcement to call it 'systematic manipulation of behavior' or to say, that 'a reward is given at each stage at which a subject produces a specified behavior.' Prisoners are being rewarded now, and their behavior is being systematically manipulated, and the result is Attica. It will continue to be Attica until the nature and role of the prison environment are understood and changed."
+- \[136\] Arpiar G. Saunders, Jr., "Behavior Therapy in Prisons: Walden II or Clockwork Orange?" (A paper prepared for the Eighth Annual Convention of the Association for Advancement of Behavior Therapy, Chicago, November 1–3, 1974, as part of a panel entitled "Legal and Ethical Issues in Behavior Therapy.") He cites a court decision rendered on July 31, 1974 in the START (Special Treatment and Rehabilitative Training Program) litigation: Clonce v. Richardson. "The decision noted that the purpose of the program was not to develop behavior of an individual so that he would be able to conform his behavior to standards of society at large, but rather to make him a better and more manageable prisoner."
+- \[137\] Norman Carison, quoted in the **New York Times**, October 25, 1975, speaking of the START program, phased out at Springfield in 1974: "If we had called START what it was-an experiment in control-many people think there would be no problem," he said. "Unfortunately, START was called a behavior modification program."
+- \[138\] Robert Martinson, p. 25. Included in the research were 231 studies dealing with attempts at "rehabilitation." They were selected from 1,200 studies in the English language between 1945 and 1967 (on the basis of meeting standards of research and being acceptable for interpretation). Initiated in 1967 to help improve "rehabilitation" efforts, it was at first denied publication upon completion, given the unexpected conclusions. Its results became public information only with a subpoena in 1973 and its findings first published in **The Public Interest**.
+ - \[139\] Norval Morris, p. 15.
+ - \[140\] Ronald J. Ostro, "Saxbe Hits Penal 'Myth," **New York Post**, October 1, 1974.
+- \[141\] "Big Change in Prisons: Punish-Not Reform," **U. S. News and World Report,** August 25, 1975, p. 21. Also Norman Carlson, "The Federal Prison System: Forty-five Years of Change," **Federal Probation,** June 1975.
+ - \[142\] Erik Olin Wright, **The Politics of Punishment**, pp. 25–26.
+ - \[143\] Ibid., p. 31.
+ - \[144\] Ibid., p. 320.
+- \[145\] On suicide, see Scott Christianson, "In Prison: Contagion of Suicide," Nation, September 21, 1974, p. 243: New York City jails have registered approximately 80 suicides, 22 of them in one recent 11-month stretch; Albany's rate was about one death for every 1,000 inmates admitted during 1973, which was six times more than that for the general population, and twice that of the nation's jail population. Figures compiled by the New York State Correction Medical Review Board show that last year there were 102
 
 inmate deaths in the state's penal institutions, 39 of them apparent suicides."
 
-- [\[146\]](#page-55-2) Schur, p. 229.
-- [\[147\]](#page-55-3) Korn, p.58.
-- [\[148\]](#page-55-4) BrandtF. Steele and Carl B. Pollack, psychiatrists quoted in "The Child Beaters-Sick but Curable," National Observer, March 24, 1973.
-- [\[149\]](#page-56-1) Ibid. Also Karl Menninger, **What Ever Became of Sin?** , pp. 27–28: "The American Indians were shocked by the harshness of our forefathers in teaching morality to their offspring, and some tribes referred to settlers as 'the people who whip children."
-- [\[150\]](#page-56-2) Steele and Pollock. They studied for 51/2 years. 60 families in which significant abuse of infants or small children had occurred. "Battering parents, they found, are just like the rest of us in most respects. They come from farms, small towns, and cities. They are of Catholic, Jewish, and Protestant faiths-or of none, or are antichurch. They are intelligent and well-educated and at the tops of their professions. They are unintelligent, poorly educated, and have poor job records. They are poor, middle class or wealthy."
-- [\[151\]](#page-56-3) Brandt F. Steele, "Violence in our Society," **The Pharos of Alpha Omega Alpha,** April 1970, pp. 4248.
-- [\[152\]](#page-56-4) David Rothenberg, Fortune News, December 1974. "Our prisons are filled with men who were badly battered and frequently tortured children either at home or in orphanages, training schools, child shelters, or reformatories."
- - [\[153\]](#page-56-5) Nanette Dembitz, Judge, New York State Family Court, **New York Times**, August 9, 1975.
- - [\[154\]](#page-56-6) Tape interview with PREAP, December 1975.
- - [\[155\]](#page-56-7) "Psychology: Danger at Home," **Time**, June 30, 1975, p. 17.
- - [\[156\]](#page-56-8) Robert Brown interview.
- - [\[157\]](#page-56-9) **Ibid**. Brown explained that men generally go to prisons, women to mental institutions.
- - [\[158\]](#page-56-10) Steele, "Violence in our Society."
- - [\[159\]](#page-56-11) **Ibid**.
- - [\[160\]](#page-57-1) Steele and Pollack.
- - [\[161\]](#page-57-2) **Ibid**.
-- [\[162\]](#page-57-3) James P. Corner, **New York Times**, December 29, 1975. "Our soaring crime rate is not due to spared rods and spoiled children. It is attributable to a breakdown in 'community' ... if our leaders cannot organize communities so that parents have sufficient income and security to respond to their children in a way that they become respected teachers and friends... we will eventually experience a level of delinquency, alienation and crime that will turn this society into an armed camp."
- - [\[163\]](#page-57-4) Steele, "Violence in our Society."
- - [\[164\]](#page-57-5) **Struggle for Justice**, p. 26.
- - [\[165\]](#page-58-1) Karl Menninger, **The Crime of Punishment**, p. 204.
-- [\[166\]](#page-58-2) See Gene Sharp, **The Politics of Nonviolent Action**. Also writings by Mahatma Gandhi; George Lakey, Strategy for a Living Revolution (San Francisco, Freeman, 1973).
-- [\[167\]](#page-58-3) Frank Tannenbaum, **Wall Shadows-A Study in American Prisons (New York**, Putnam's, 1922) pp. 14748.
-- [\[168\]](#page-58-4) For lists of abolished punishments see: Alice Morse Earle, **Curious Punishments of Bygone Days** (Chicago, Herbert Stone, 1896 and reissued thru Detroit, Singing Tree Press, 1968).
-- [\[169\]](#page-59-2) Michael J. Hindelang et al., **Sourcebook of Criminal Justice Statistics—1974** (Washington, D. C., U. S. Department of Justice, 1975) p. 120.
- - [\[170\]](#page-59-3) **Ibid.** , p. 121.
- - [\[171\]](#page-59-4) **Ibid.** , p. 129.
-- [\[172\]](#page-59-5) Richard F. Sullivan, "Prisons with Prices: The Cost of Confinement" in Steve Bagwell, ed., **Depopulating the Prisons**, p. 26. "Our society has created immense bureaucratic industries that fatten on the misery of others. Regard the size of the criminal justice industry. What would become of all those people if everyone went straight?... Just think of how remunerative the 'war on poverty' was for the middle classes. Now it's the 'war on crime.'"
+- \[146\] Schur, p. 229.
+- \[147\] Korn, p.58.
+- \[148\] BrandtF. Steele and Carl B. Pollack, psychiatrists quoted in "The Child Beaters-Sick but Curable," National Observer, March 24, 1973.
+- \[149\] Ibid. Also Karl Menninger, **What Ever Became of Sin?** , pp. 27–28: "The American Indians were shocked by the harshness of our forefathers in teaching morality to their offspring, and some tribes referred to settlers as 'the people who whip children."
+- \[150\] Steele and Pollock. They studied for 51/2 years. 60 families in which significant abuse of infants or small children had occurred. "Battering parents, they found, are just like the rest of us in most respects. They come from farms, small towns, and cities. They are of Catholic, Jewish, and Protestant faiths-or of none, or are antichurch. They are intelligent and well-educated and at the tops of their professions. They are unintelligent, poorly educated, and have poor job records. They are poor, middle class or wealthy."
+- \[151\] Brandt F. Steele, "Violence in our Society," **The Pharos of Alpha Omega Alpha,** April 1970, pp. 4248.
+- \[152\] David Rothenberg, Fortune News, December 1974. "Our prisons are filled with men who were badly battered and frequently tortured children either at home or in orphanages, training schools, child shelters, or reformatories."
+ - \[153\] Nanette Dembitz, Judge, New York State Family Court, **New York Times**, August 9, 1975.
+ - \[154\] Tape interview with PREAP, December 1975.
+ - \[155\] "Psychology: Danger at Home," **Time**, June 30, 1975, p. 17.
+ - \[156\] Robert Brown interview.
+ - \[157\] **Ibid**. Brown explained that men generally go to prisons, women to mental institutions.
+ - \[158\] Steele, "Violence in our Society."
+ - \[159\] **Ibid**.
+ - \[160\] Steele and Pollack.
+ - \[161\] **Ibid**.
+- \[162\] James P. Corner, **New York Times**, December 29, 1975. "Our soaring crime rate is not due to spared rods and spoiled children. It is attributable to a breakdown in 'community' ... if our leaders cannot organize communities so that parents have sufficient income and security to respond to their children in a way that they become respected teachers and friends... we will eventually experience a level of delinquency, alienation and crime that will turn this society into an armed camp."
+ - \[163\] Steele, "Violence in our Society."
+ - \[164\] **Struggle for Justice**, p. 26.
+ - \[165\] Karl Menninger, **The Crime of Punishment**, p. 204.
+- \[166\] See Gene Sharp, **The Politics of Nonviolent Action**. Also writings by Mahatma Gandhi; George Lakey, Strategy for a Living Revolution (San Francisco, Freeman, 1973).
+- \[167\] Frank Tannenbaum, **Wall Shadows-A Study in American Prisons (New York**, Putnam's, 1922) pp. 14748.
+- \[168\] For lists of abolished punishments see: Alice Morse Earle, **Curious Punishments of Bygone Days** (Chicago, Herbert Stone, 1896 and reissued thru Detroit, Singing Tree Press, 1968).
+- \[169\] Michael J. Hindelang et al., **Sourcebook of Criminal Justice Statistics—1974** (Washington, D. C., U. S. Department of Justice, 1975) p. 120.
+ - \[170\] **Ibid.** , p. 121.
+ - \[171\] **Ibid.** , p. 129.
+- \[172\] Richard F. Sullivan, "Prisons with Prices: The Cost of Confinement" in Steve Bagwell, ed., **Depopulating the Prisons**, p. 26. "Our society has created immense bureaucratic industries that fatten on the misery of others. Regard the size of the criminal justice industry. What would become of all those people if everyone went straight?... Just think of how remunerative the 'war on poverty' was for the middle classes. Now it's the 'war on crime.'"
 
 Also Dr. James A. Bax, commissioner of the Community Services Administration of HEW, U. S. Congress, House, Select Committee on Crime, **American Prisons in Turmoil**, hearings, 92nd Congress, 1st Session, November 29-December3, 1971 (Washington, D. C., U. S. Government Printing Office, 1972) Part 1. pp. 277–99: Prisons "are often incestuous bureaucracies existing unto themselves. Their budgets are stoked by legislators, not on the basis of the numbers of citizens they rehabilitate, but on the numbers of prisoners they keep quietly tucked away out of circulation.
 
 Institutions are amoral. They are socially irresponsible. They are inherently power-hungry. As every legislator knows, they are always hungry for more public money. In short, institutions are lawless-they themselves must be constantly controlled and rehabilitated. The prison system is no exception.
 
-[\[173\]](#page-59-6) David Greenberg and Fay Stender, "The Prison as a Lawless Agency," **Buffalo Law Review**, 21 (1972), p. 812. In 1971, for example, the California Department of Corrections campaigned-at public expense against each and every one of the 175 prison reform bills which had been introduced in the state legislature.
+\[173\] David Greenberg and Fay Stender, "The Prison as a Lawless Agency," **Buffalo Law Review**, 21 (1972), p. 812. In 1971, for example, the California Department of Corrections campaigned-at public expense against each and every one of the 175 prison reform bills which had been introduced in the state legislature.
 
-[\[174\]](#page-60-1) From unpublished draft of **Slavery and Imprisonment: Some Introductory Notes**, Scott Christianson, School of Criminal Justice, State University of New York at Albany, Albany, New York.
+\[174\] From unpublished draft of **Slavery and Imprisonment: Some Introductory Notes**, Scott Christianson, School of Criminal Justice, State University of New York at Albany, Albany, New York.
 
-[\[175\]](#page-60-2) Most prisons are located in isolated rural areas, where local populations depend on the prison as "industry" providing employment, income and other revenue to hard-pressed communities. For instance, as reported in Mitford, p. 9: "In December 1972, when the California Department of Corrections announced it would shortly close down the nine-year-old Susanville Prison, the newspapers ran touching stories about what this would mean to the guards, their families, real estate values, school subsidies and small businesses in this little community of 6,000. Under the headline 'A Mountain Town Battles to Keep Its Grip on Life,' the **San Francisco Examiner** reported that residents were up in arms over the threatened loss of the prison; the local radio station manager had urged all listeners to send Christmas cards to Governor Reagan with the message, 'Remember Susanville!' Apparently the governor heeded this outpouring of Yuletide sentiment, for the following February, the **Sacramento Press Journal** reported that the prison would not be closed after all, but would instead be remodeled at an estimated cost of \$4,635,000."
+\[175\] Most prisons are located in isolated rural areas, where local populations depend on the prison as "industry" providing employment, income and other revenue to hard-pressed communities. For instance, as reported in Mitford, p. 9: "In December 1972, when the California Department of Corrections announced it would shortly close down the nine-year-old Susanville Prison, the newspapers ran touching stories about what this would mean to the guards, their families, real estate values, school subsidies and small businesses in this little community of 6,000. Under the headline 'A Mountain Town Battles to Keep Its Grip on Life,' the **San Francisco Examiner** reported that residents were up in arms over the threatened loss of the prison; the local radio station manager had urged all listeners to send Christmas cards to Governor Reagan with the message, 'Remember Susanville!' Apparently the governor heeded this outpouring of Yuletide sentiment, for the following February, the **Sacramento Press Journal** reported that the prison would not be closed after all, but would instead be remodeled at an estimated cost of \$4,635,000."
 
-[\[176\]](#page-60-3) Richard F. Sullivan, p. 21. "When we turn to the cost of prison as the means of fighting crime, we find it extremely high, especially when the social costs are weighed into the bargain. The public suffers under the delusion that the harm and hurt imposed on men and women in prisons (our noncitizens or nonpersons) does not affect the rest of society. When we consider that 98 percent of all prisoners will eventually be released, and that 80 percent of all crime is committed by men with prior criminal records, it is clear that the harm done a [person] inside may well bring harm to the world outside one day."
+\[176\] Richard F. Sullivan, p. 21. "When we turn to the cost of prison as the means of fighting crime, we find it extremely high, especially when the social costs are weighed into the bargain. The public suffers under the delusion that the harm and hurt imposed on men and women in prisons (our noncitizens or nonpersons) does not affect the rest of society. When we consider that 98 percent of all prisoners will eventually be released, and that 80 percent of all crime is committed by men with prior criminal records, it is clear that the harm done a [person] inside may well bring harm to the world outside one day."
 
-[\[177\]](#page-61-0) "Problems of Women in Prison," **Women Behind Bars**, p. 6.
+\[177\] "Problems of Women in Prison," **Women Behind Bars**, p. 6.
 
-[\[178\]](#page-61-1) Richard F. Sullivan, p. 24.
+\[178\] Richard F. Sullivan, p. 24.
 
-[\[179\]](#page-62-1) See Ritchie M. Turner, "Federal Minimum Wage Law," **Proceedings of the 103rd Annual Congress of the American Correctional Association, 1973** (College Park, Maryland, ACA, 1974) pp. 142–52.
+\[179\] See Ritchie M. Turner, "Federal Minimum Wage Law," **Proceedings of the 103rd Annual Congress of the American Correctional Association, 1973** (College Park, Maryland, ACA, 1974) pp. 142–52.
 
-[\[180\]](#page-62-2) Prison Research Project, pp. 36–37.
+\[180\] Prison Research Project, pp. 36–37.
 
-[\[181\]](#page-62-3) "A Perspective on Crime and Punishment." The United States, among 15 industrialized nations, uses imprisonment more than any other, having an imprisonment rate of 200.0 per 100,000 population, nearly ten times as high, for instance, as the Netherlands which ranks lowest with a rate of 22.4. (Statistics reprinted from **Criminal Law Quarterly**, December 1974.) More recent accounts as described in media sources, indicate spiraling prison counts in Virginia, North Carolina, South Carolina, Tennessee, Georgia, Florida, Alabama, Mississippi, Louisiana, Texas, Missouri, Illinois and Michigan.
+\[181\] "A Perspective on Crime and Punishment." The United States, among 15 industrialized nations, uses imprisonment more than any other, having an imprisonment rate of 200.0 per 100,000 population, nearly ten times as high, for instance, as the Netherlands which ranks lowest with a rate of 22.4. (Statistics reprinted from **Criminal Law Quarterly**, December 1974.) More recent accounts as described in media sources, indicate spiraling prison counts in Virginia, North Carolina, South Carolina, Tennessee, Georgia, Florida, Alabama, Mississippi, Louisiana, Texas, Missouri, Illinois and Michigan.
 
-[\[182\]](#page-63-2) Richard F. Sullivan, p. 22. Firm monetary costs are not easy to come by, since there are several methods of computing daily costs of imprisonment. If, for instance, we used the figure of the average yearly cost of institutional incarceration as \$10,000, the increased average sentence served in California between 1963–1968 was six months increase (increase from 30 to 36 months): for the average 30,000 population in California prisons at that time, we would have the figure of \$150 million as the cost of keeping that many persons in prison for that additional period of time. If we use the prison's usual **marginal** cost of \$620 for locking one person up per year (the **extra** cost of putting one person in prison assuming that the prison had empty space and that none of the costs of the buildings or of the regular staff would be included) we would have a lesser figure of \$9 million. Sullivan points out that such computation is an incorrect use of the idea of marginal cost, since one would have to count much more than food and a few extras in order to estimate the true cost of keeping the entire prison population confined for six additional months.
+\[182\] Richard F. Sullivan, p. 22. Firm monetary costs are not easy to come by, since there are several methods of computing daily costs of imprisonment. If, for instance, we used the figure of the average yearly cost of institutional incarceration as \$10,000, the increased average sentence served in California between 1963–1968 was six months increase (increase from 30 to 36 months): for the average 30,000 population in California prisons at that time, we would have the figure of \$150 million as the cost of keeping that many persons in prison for that additional period of time. If we use the prison's usual **marginal** cost of \$620 for locking one person up per year (the **extra** cost of putting one person in prison assuming that the prison had empty space and that none of the costs of the buildings or of the regular staff would be included) we would have a lesser figure of \$9 million. Sullivan points out that such computation is an incorrect use of the idea of marginal cost, since one would have to count much more than food and a few extras in order to estimate the true cost of keeping the entire prison population confined for six additional months.
 
 In 1969 the Chairman of the Lorton Lifers at the Lorton, Virginia facility, wrote that the costs of keeping 86 Lifers in prison at the (then) figures of \$7,000 per man per year for imprisonment, and about \$3,000 for welfare for his wife and two children, for the minimum of 15 years would be \$11,610,000. He says "It can be concluded that the taxpayers have expended the sum of (prison and welfare) \$11,610,000 just to release to the community a better "crook" who was never rehabilitated during those 15 years. Of course, there was the cost of court and prosecution that should be added on to the above figures." (From a letter to the Institute for Policy Studies).
 
-[\[183\]](#page-63-3) **Morales v. Schmidt**, 340 F. Supp. 544, 548–49 (1972).
+\[183\] **Morales v. Schmidt**, 340 F. Supp. 544, 548–49 (1972).
 
-[\[184\]](#page-63-4) See Philip J. Hirschkop and Michael A. Millemann, "The Unconstitutionality of Prison Life," 55 **Virginia Law Review** 5, June 1969, pp. 795–839; Note, "And the Walls Come Tumbling Down: An Analysis of Social and Legal Pressures Bearing on the American Prison System," 19 **New York Law Forum**, Winter 1974, pp. 609–637.
+\[184\] See Philip J. Hirschkop and Michael A. Millemann, "The Unconstitutionality of Prison Life," 55 **Virginia Law Review** 5, June 1969, pp. 795–839; Note, "And the Walls Come Tumbling Down: An Analysis of Social and Legal Pressures Bearing on the American Prison System," 19 **New York Law Forum**, Winter 1974, pp. 609–637.
 
-[\[185\]](#page-64-0) "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction."
+\[185\] "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction."
 
-[\[186\]](#page-64-1) See Ruffin v. Commonwealth, 62 Va. 1024, 21 Gratt 790, 796 (1871).
+\[186\] See Ruffin v. Commonwealth, 62 Va. 1024, 21 Gratt 790, 796 (1871).
 
-[\[187\]](#page-64-2) See Sostre v. Mc Ginnis, 442 F. 2d 178 (2d Cit. 1971), concerning an inmate who had been kept in solitary confinement for over a year as punishment for his political and legal activities in New York State prisons.
+\[187\] See Sostre v. Mc Ginnis, 442 F. 2d 178 (2d Cit. 1971), concerning an inmate who had been kept in solitary confinement for over a year as punishment for his political and legal activities in New York State prisons.
 
-[\[188\]](#page-64-3) "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
+\[188\] "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
 
 [189] Weems v. United States, 217 U. S. 349, 368–70 (1910).
-- [\[190\]](#page-64-5) **Ibid**.
-- [\[191\]](#page-64-6) **Jackson v. Bishop**, 404 F. 2d 571, 579–81 (8th Cir. 1968).
-- [\[192\]](#page-64-7) See **Holt v. Sarver**, 309 F. Supp. 363 (E. D. Ark. 1970), aff'd 442 F. 2d 304 (8th Cir. 1971); **Rhem v. Malcolm**, 371 F. Supp. 594 (S. D. N. Y. 1974) aff'd 507 F. 2d 333 (2d Cir. 1974); **Gates v. Collier**, 349 F. Supp. 881 (N. D. Miss. 1972); **Inmates of Suffolk County Jail v. Eisenstudt**, 360 F. Supp. 676 (D. Mass. 1973).
- - [\[193\]](#page-64-8) **Furman v. Georgia**, 408 U. S. 238, 409 U. S. 902 (1972).
- - [\[194\]](#page-64-9) See **Trop v. Dulles**, 356 U. S. 86 (1957).
- - [\[195\]](#page-64-10) **Holt v. Sarver**, 309 F. Supp. 362 (E. D. Ark. 1970).
- - [\[196\]](#page-64-11) **Ibid**., pp. 372–73.
- - [\[197\]](#page-65-2) See cases cited in note 155.
- - [\[198\]](#page-65-3) See **Novak v. Beto,** 453 F. 2d 661 (5th Cit. 1971).
- - [\[199\]](#page-65-4) **Procunier v. Martinez**, 416 U. S. 396 (1974).
-- [\[200\]](#page-65-5) See **Raymond v. Rundle**, 276 F. Supp. 637 (E. D. Pa. 1967); **Walker v. Pate**, 356 F. 2d 502 (7th Cir. 1966).
- - [\[201\]](#page-65-6) **Wilson v. Kelley**, 294 F. Supp.. 1005, 1012 (N. D. Ga. 1968).
- - [\[202\]](#page-65-7) See Steve Bagwell (ed.), **Depopulating the Prison**, p. 62.
-- [\[203\]](#page-80-0) Gregory Mc Lauchlan, "LEAA: A Case Study in the Development of the Social Industrial Complex," **Crime and Social Justice**, Fall/Winter 1975, pp. 15–16. Also Richard Quinney, **Critique of Legal Order**, pp. 105–132.
-- [\[204\]](#page-80-1) For a legislative history of this act, see "Index to the Legislative History of the Omnibus Crime Control and Safe Streets Act of 1968," Office of General Counsel, LEAA, January 23, 1973. See also, Richard Harris, **The Fear of Crime** (New York, Praeger, 1969).
-- [\[205\]](#page-80-2) Hannah Shields and Mae Churchill, "The Fraudulent War on Crime," Nation, December 21, 1974, p. 649.
-- [\[206\]](#page-80-3) For funding history of LEAA see **The Law Enforcement Assistance Administration: A Partnership for Crime Control**, LEAA, U. S. Department of Justice, Washington, D. C., p. 15. Also Michael S. Serill, "**LEAA: A Question of Impact," Corrections Magazine**, June 1976, pp. 3–29.
-- [\[207\]](#page-80-4) Shields and Churchill, p. 648. Also Anthony Platt and Lynn Cooper, eds., **Policing America** (Englewood Cliffs, New Jersey, Prentice-Hall, 1974). In addition to corporations profiting from the law enforcement market, the primary agencies involved include The Committee for Economic Development, the National Aeronautics and Space Administration, the Jet Propulsion Laboratory at California Institute of Technology, Stanford Research Institute, the Institute for Defense Analysis, the International Association of Chiefs of Police thru its Police Weapons Systems Program, and the National Bureau of Standards. See also **The Iron Fist and the Velvet Glove: An Analysis of the U. S. Police.**
- - [\[208\]](#page-80-5) Carl Rowan, 'What LEAA Did Wrong," **New York Post**, May 14, 1976.
-- [\[209\]](#page-80-6) Shields and Churchill, p. 648: "By 1972, Government Executive was reporting serious crime among the crime fighters -illegal or improper spending of \$475,000 in Florida, \$593,000 in Alabama, \$4,00,000 in Massachusetts; payment of consultancy fees as high as \$75 an hour to such favored firms as Ernst and Ernst; preferred treatment of certain electronic suppliers, such as Motorola, which cornered the LEAA funded walkie-talkie market in Louisiana and Wisconsin without competitive bids and often at higher than list prices."
-- [\[210\]](#page-81-0) Mc Lauchlan, p. 15. Also, for a discussion of the repressive capabilities of LEAA see selections by Goulden, Webb and Pinto in **Policing America.**
- - [\[211\]](#page-81-1) Serrill, P. 17.
- - [\[212\]](#page-81-2) **Ibid.** , p. 12.
- - [\[213\]](#page-81-3) **Ibid.** , p. 17
- - [\[214\]](#page-81-4) **Ibid.** , p. 4.
-- [\[215\]](#page-81-5) **Ibid.** , p. 28: The reports were funded with \$1.75 million in LEAA discretionary funds. **Corrections** was the most controversial of the six volumes. It establishes 129 standards for the operation of jails, prisons, probation, parole and community programs.
- - [\[216\]](#page-82-0) William G. Nagel, **The New Red Barn**, pp. 137–48.
-- [\[217\]](#page-82-1) **Ibid**. LEAA did not adopt the standards as its own. Instead, according to Kay Harris, assistant director of the Commission's Task Force on Corrections, LEAA officials "have been falling all over themselves, disclaiming anything to do with it." While LEAA praised the "process" by which the Commission's standards and goals were determined, they urged the states to emulate the process by setting up their own standards and goals commissions. In a 1973 amendment to the Crime Control Act, Congress required the states to set up standards and goals commissions, and to report annually on the Commission's progress. So far \$16.5 million in LEAA funds have been allocated to the various state commissions; and the debate goes on as to the degree to which the states can be pushed by the LEAA.
- - [\[218\]](#page-82-2) **Ibid.** , p. 20.
-- [\[219\]](#page-83-0) See Rowan, who cites the testimony of Robert L. Woodson (National Urban League), March 11, 1976.
- - [\[220\]](#page-83-1) Serrill, p. 5.
+- \[190\] **Ibid**.
+- \[191\] **Jackson v. Bishop**, 404 F. 2d 571, 579–81 (8th Cir. 1968).
+- \[192\] See **Holt v. Sarver**, 309 F. Supp. 363 (E. D. Ark. 1970), aff'd 442 F. 2d 304 (8th Cir. 1971); **Rhem v. Malcolm**, 371 F. Supp. 594 (S. D. N. Y. 1974) aff'd 507 F. 2d 333 (2d Cir. 1974); **Gates v. Collier**, 349 F. Supp. 881 (N. D. Miss. 1972); **Inmates of Suffolk County Jail v. Eisenstudt**, 360 F. Supp. 676 (D. Mass. 1973).
+ - \[193\] **Furman v. Georgia**, 408 U. S. 238, 409 U. S. 902 (1972).
+ - \[194\] See **Trop v. Dulles**, 356 U. S. 86 (1957).
+ - \[195\] **Holt v. Sarver**, 309 F. Supp. 362 (E. D. Ark. 1970).
+ - \[196\] **Ibid**., pp. 372–73.
+ - \[197\] See cases cited in note 155.
+ - \[198\] See **Novak v. Beto,** 453 F. 2d 661 (5th Cit. 1971).
+ - \[199\] **Procunier v. Martinez**, 416 U. S. 396 (1974).
+- \[200\] See **Raymond v. Rundle**, 276 F. Supp. 637 (E. D. Pa. 1967); **Walker v. Pate**, 356 F. 2d 502 (7th Cir. 1966).
+ - \[201\] **Wilson v. Kelley**, 294 F. Supp.. 1005, 1012 (N. D. Ga. 1968).
+ - \[202\] See Steve Bagwell (ed.), **Depopulating the Prison**, p. 62.
+- \[203\] Gregory Mc Lauchlan, "LEAA: A Case Study in the Development of the Social Industrial Complex," **Crime and Social Justice**, Fall/Winter 1975, pp. 15–16. Also Richard Quinney, **Critique of Legal Order**, pp. 105–132.
+- \[204\] For a legislative history of this act, see "Index to the Legislative History of the Omnibus Crime Control and Safe Streets Act of 1968," Office of General Counsel, LEAA, January 23, 1973. See also, Richard Harris, **The Fear of Crime** (New York, Praeger, 1969).
+- \[205\] Hannah Shields and Mae Churchill, "The Fraudulent War on Crime," Nation, December 21, 1974, p. 649.
+- \[206\] For funding history of LEAA see **The Law Enforcement Assistance Administration: A Partnership for Crime Control**, LEAA, U. S. Department of Justice, Washington, D. C., p. 15. Also Michael S. Serill, "**LEAA: A Question of Impact," Corrections Magazine**, June 1976, pp. 3–29.
+- \[207\] Shields and Churchill, p. 648. Also Anthony Platt and Lynn Cooper, eds., **Policing America** (Englewood Cliffs, New Jersey, Prentice-Hall, 1974). In addition to corporations profiting from the law enforcement market, the primary agencies involved include The Committee for Economic Development, the National Aeronautics and Space Administration, the Jet Propulsion Laboratory at California Institute of Technology, Stanford Research Institute, the Institute for Defense Analysis, the International Association of Chiefs of Police thru its Police Weapons Systems Program, and the National Bureau of Standards. See also **The Iron Fist and the Velvet Glove: An Analysis of the U. S. Police.**
+ - \[208\] Carl Rowan, 'What LEAA Did Wrong," **New York Post**, May 14, 1976.
+- \[209\] Shields and Churchill, p. 648: "By 1972, Government Executive was reporting serious crime among the crime fighters -illegal or improper spending of \$475,000 in Florida, \$593,000 in Alabama, \$4,00,000 in Massachusetts; payment of consultancy fees as high as \$75 an hour to such favored firms as Ernst and Ernst; preferred treatment of certain electronic suppliers, such as Motorola, which cornered the LEAA funded walkie-talkie market in Louisiana and Wisconsin without competitive bids and often at higher than list prices."
+- \[210\] Mc Lauchlan, p. 15. Also, for a discussion of the repressive capabilities of LEAA see selections by Goulden, Webb and Pinto in **Policing America.**
+ - \[211\] Serrill, P. 17.
+ - \[212\] **Ibid.** , p. 12.
+ - \[213\] **Ibid.** , p. 17
+ - \[214\] **Ibid.** , p. 4.
+- \[215\] **Ibid.** , p. 28: The reports were funded with \$1.75 million in LEAA discretionary funds. **Corrections** was the most controversial of the six volumes. It establishes 129 standards for the operation of jails, prisons, probation, parole and community programs.
+ - \[216\] William G. Nagel, **The New Red Barn**, pp. 137–48.
+- \[217\] **Ibid**. LEAA did not adopt the standards as its own. Instead, according to Kay Harris, assistant director of the Commission's Task Force on Corrections, LEAA officials "have been falling all over themselves, disclaiming anything to do with it." While LEAA praised the "process" by which the Commission's standards and goals were determined, they urged the states to emulate the process by setting up their own standards and goals commissions. In a 1973 amendment to the Crime Control Act, Congress required the states to set up standards and goals commissions, and to report annually on the Commission's progress. So far \$16.5 million in LEAA funds have been allocated to the various state commissions; and the debate goes on as to the degree to which the states can be pushed by the LEAA.
+ - \[218\] **Ibid.** , p. 20.
+- \[219\] See Rowan, who cites the testimony of Robert L. Woodson (National Urban League), March 11, 1976.
+ - \[220\] Serrill, p. 5.
 
-- [\[221\]](#page-83-2) **Ibid.**
-- [\[222\]](#page-83-3) **Ibid.** , p. 20.
-- [\[223\]](#page-83-4) **Ibid.** , p. 5.
-- [\[224\]](#page-84-1) A survey of 14 state boards by Network, a Roman Catholic lobby group, showed that private citizens are grossly underrepresented on state boards, with only two of the 14 state boards having the recommended one-third citizen participation. Women and minorities were also consistently underrepresented.
- - [\[225\]](#page-84-2) Serrill, p. 21.
- - [\[226\]](#page-84-3) John Bartlow Martin, **Break Down the Walls** (New York, Ballantine, 1954) p. 146.
-- [\[227\]](#page-84-4) President Gerald Ford approved the FBOP's total budget request for fiscal year 1977 in July 1976 when he signed the Department of Justice's Appropriations Bill for fiscal year 1977. The Bureau requested \$302,012,000 and 8,926 positions, an increase of \$67,254,000 and 161 positions over fiscal year 1976.
- - [\[228\]](#page-84-5) See **Jericho**, newsletter of the National Moratorium on Prison Construction, May/June 1976.
-- [\[229\]](#page-84-6) See "Federal Prison Construction Plans Should be Better Developed and Supported," Report to the Congress by the Comptroller General of the United States, April 27. 1976. Available from U. S. General Accounting Office, Washington, D. C. 20548.
- - [\[230\]](#page-85-0) **Jericho.**
- - [\[231\]](#page-85-1) "Federal Prison Construction Plans," p. 6.
- - [\[232\]](#page-85-2) **Ibid.** , p. 1.
-- [\[233\]](#page-85-3) See: "Phasing Out the U. S. Bureau of Prisons," National Council on Crime and Delinquency Board Policy Statement, 1974; John 0. Boone, "U. S. Federal Prison History Unfolded," **Fortune News**, May 1975; William G. Nagel, "With Friends Like This, Who Needs Enemies?," a paper presented at the University of Illinois, Champaign-Urbana, Illinois, February 7, 1974; and Toward a New Corrections Policy: Two Declarations of Principles, p. 13,
-- [\[234\]](#page-85-4) See Milton Rector, President, National Council on Crime and Delinquency, "Statement of the National Moratorium on Prison Construction Regarding the Federal Bureau of Prisons Fiscal Year 1977 Budget Request," before the Subcommittee on State, Justice, Commerce and Judiciary of the U. S. House of Representatives Appropriations Committee, March 24, 1976, p. 12.
- - [\[235\]](#page-85-5) Nagel, "With Friends Like This," pp. 5–6.
- - [\[236\]](#page-85-6) **Ibid.**
- - [\[237\]](#page-86-0) Tom Wicker, "The Wrong Model," **New York Times**, July 27, 1972.
-- [\[238\]](#page-86-1) Among hundreds of national figures who have publicly commented on the failure of prisons are a notorious two who might well have experienced the failure from inside the walls: ex-President Nixon, quoted as saying "The American system for correcting and rehabilitating criminals presents a convincing ease of failure," and former Attorney General Mitchell who was "appalled at the situation in many of our prisons today." Quoted in Fred Cohen, "The Discovery of Prison Reform," **Buffalo Law Review**, Spring 1972, p. 857.
-- [\[239\]](#page-86-2) Contact NMPC for critique of FBOP's rationale for federal prison construction plans. Also see "Federal Prison Construction Plans" footnote 27.
-- [\[240\]](#page-86-3) Norman A. Carlson quoted in "Yesterday's 'Baby Boom' is Overcrowding Today's Prisons," **U. S. News and World Report**, March 1, 1976, p. 67.
-- [\[241\]](#page-86-4) Norman A. Carlson, in testimony before the Subcommittee on Courts, Civil Liberties and the Administration of Justice, House Committee on the Judiciary. July 30, 1975, p. 8. See also Fred Cohen, P. 883. See also **Trial Magazine**, November/December 1975, report on Norman A. Carlson's speech before the Fifth U. N. Congress on the prevention of Crime and Treatment of Offenders in Geneva, Switzerland:
+- \[221\] **Ibid.**
+- \[222\] **Ibid.** , p. 20.
+- \[223\] **Ibid.** , p. 5.
+- \[224\] A survey of 14 state boards by Network, a Roman Catholic lobby group, showed that private citizens are grossly underrepresented on state boards, with only two of the 14 state boards having the recommended one-third citizen participation. Women and minorities were also consistently underrepresented.
+ - \[225\] Serrill, p. 21.
+ - \[226\] John Bartlow Martin, **Break Down the Walls** (New York, Ballantine, 1954) p. 146.
+- \[227\] President Gerald Ford approved the FBOP's total budget request for fiscal year 1977 in July 1976 when he signed the Department of Justice's Appropriations Bill for fiscal year 1977. The Bureau requested \$302,012,000 and 8,926 positions, an increase of \$67,254,000 and 161 positions over fiscal year 1976.
+ - \[228\] See **Jericho**, newsletter of the National Moratorium on Prison Construction, May/June 1976.
+- \[229\] See "Federal Prison Construction Plans Should be Better Developed and Supported," Report to the Congress by the Comptroller General of the United States, April 27. 1976. Available from U. S. General Accounting Office, Washington, D. C. 20548.
+ - \[230\] **Jericho.**
+ - \[231\] "Federal Prison Construction Plans," p. 6.
+ - \[232\] **Ibid.** , p. 1.
+- \[233\] See: "Phasing Out the U. S. Bureau of Prisons," National Council on Crime and Delinquency Board Policy Statement, 1974; John 0. Boone, "U. S. Federal Prison History Unfolded," **Fortune News**, May 1975; William G. Nagel, "With Friends Like This, Who Needs Enemies?," a paper presented at the University of Illinois, Champaign-Urbana, Illinois, February 7, 1974; and Toward a New Corrections Policy: Two Declarations of Principles, p. 13,
+- \[234\] See Milton Rector, President, National Council on Crime and Delinquency, "Statement of the National Moratorium on Prison Construction Regarding the Federal Bureau of Prisons Fiscal Year 1977 Budget Request," before the Subcommittee on State, Justice, Commerce and Judiciary of the U. S. House of Representatives Appropriations Committee, March 24, 1976, p. 12.
+ - \[235\] Nagel, "With Friends Like This," pp. 5–6.
+ - \[236\] **Ibid.**
+ - \[237\] Tom Wicker, "The Wrong Model," **New York Times**, July 27, 1972.
+- \[238\] Among hundreds of national figures who have publicly commented on the failure of prisons are a notorious two who might well have experienced the failure from inside the walls: ex-President Nixon, quoted as saying "The American system for correcting and rehabilitating criminals presents a convincing ease of failure," and former Attorney General Mitchell who was "appalled at the situation in many of our prisons today." Quoted in Fred Cohen, "The Discovery of Prison Reform," **Buffalo Law Review**, Spring 1972, p. 857.
+- \[239\] Contact NMPC for critique of FBOP's rationale for federal prison construction plans. Also see "Federal Prison Construction Plans" footnote 27.
+- \[240\] Norman A. Carlson quoted in "Yesterday's 'Baby Boom' is Overcrowding Today's Prisons," **U. S. News and World Report**, March 1, 1976, p. 67.
+- \[241\] Norman A. Carlson, in testimony before the Subcommittee on Courts, Civil Liberties and the Administration of Justice, House Committee on the Judiciary. July 30, 1975, p. 8. See also Fred Cohen, P. 883. See also **Trial Magazine**, November/December 1975, report on Norman A. Carlson's speech before the Fifth U. N. Congress on the prevention of Crime and Treatment of Offenders in Geneva, Switzerland:
 - "... We believe that whenever consistent with the public interest, maximum use should be made of alternatives to incarceration such as probation and diversion. The real problem is the chronic and violent offender. For this group we believe incarceration in a humane institution is necessary.
-- [\[242\]](#page-86-5) "Introductory Schedule of Products Made in Federal Penal and Correctional Institutions," U. S. Department of Justice, Federal Prison Industries, p. 1.
-- [\[243\]](#page-86-6) Tony Medina, #37426, Atlanta Federal Penitentiary, in a letter to **Fortune News,** December 1974. He adds: "Prisoners who resent being forced to maintain their own incarceration and who want to resist their self-exploitation should refuse to work for prison industries until at least the minimum wage is made applicable to all who labor in the prison business."
-- [\[244\]](#page-86-7) "Director Foresees Larger Role for Prison Industries," **Monday Morning Highlights**, U. S. Department of Justice, February 23, 1976: "Mr. Carlson also announced that industries will be expanded during the coming years as new institutions are being constructed."
-- [\[245\]](#page-87-0) FPI, Inc., was established under Acts of Congress and an Executive Order which are now incorporated in Chapter 307, Sections 4121 to 4128, Title 18, U. S. Code.
- - [\[246\]](#page-87-1) "Introductory Schedule of Products," pp. 1–2.
- - [\[247\]](#page-87-2) Available from Federal Prison Industries, Inc., Washington, D. C. 20534.
- - [\[248\]](#page-87-3) See Jessica Mitford, **Kind and Usual Punishment**, pp. 19697.
- - [\[249\]](#page-87-4) **1975, Annual Report, Federal Prison Industries**
- - [\[250\]](#page-87-5) Paul Goldberger, "New Detention Center at Foley Square is Hailed as Advance in Jail Design,"
+- \[242\] "Introductory Schedule of Products Made in Federal Penal and Correctional Institutions," U. S. Department of Justice, Federal Prison Industries, p. 1.
+- \[243\] Tony Medina, #37426, Atlanta Federal Penitentiary, in a letter to **Fortune News,** December 1974. He adds: "Prisoners who resent being forced to maintain their own incarceration and who want to resist their self-exploitation should refuse to work for prison industries until at least the minimum wage is made applicable to all who labor in the prison business."
+- \[244\] "Director Foresees Larger Role for Prison Industries," **Monday Morning Highlights**, U. S. Department of Justice, February 23, 1976: "Mr. Carlson also announced that industries will be expanded during the coming years as new institutions are being constructed."
+- \[245\] FPI, Inc., was established under Acts of Congress and an Executive Order which are now incorporated in Chapter 307, Sections 4121 to 4128, Title 18, U. S. Code.
+ - \[246\] "Introductory Schedule of Products," pp. 1–2.
+ - \[247\] Available from Federal Prison Industries, Inc., Washington, D. C. 20534.
+ - \[248\] See Jessica Mitford, **Kind and Usual Punishment**, pp. 19697.
+ - \[249\] **1975, Annual Report, Federal Prison Industries**
+ - \[250\] Paul Goldberger, "New Detention Center at Foley Square is Hailed as Advance in Jail Design,"
 
 **New York Times**, July 26, 1975.
 
-- [\[251\]](#page-88-0) John Bach is a member of the Whale's Tale community in Hartford, Connecticut. He has spent 35 months in prison for draft resistance and was recently imprisoned for an act of nonviolent civil disobedience on Hiroshima Day, 1975.
-- [\[252\]](#page-90-1) Don C. Gibbons, "Prisoners without Reason: Priorities for Release," in Steve Bagwell, ed., **Depopulating the Prisons**, pp. 32–38.
-- [\[253\]](#page-91-0) The First National Conference on Alternatives to Incarceration, September 19–21, 1975, Sheraton-Boston Hotel, Boston, Massachusetts.
-- [\[254\]](#page-92-1) Material on decarcerating Massachusetts' juvenile prisons based on data gathered by David Martin and reportage in **Corrections Magazine**, November/ December, 1975, pp. 3–40.
- - [\[255\]](#page-94-2) Alvin Bronstein, "Rules for Playing God," **Civil Liberties Review**, Summer 1974.
- - [\[256\]](#page-95-2) Daniel Glaser in Lloyd Ohlin, ed., **Prisoners in America**, pp. 86–92.
- - [\[257\]](#page-95-3) "The Sentencing Struggle," **The Outlaw**, June/July 1975.
-- [\[258\]](#page-97-1) Material on Maine based on information printed in **Corrections Magazine**, July/August 1975, pp] 16–17 and Labyrinth, September 1975 and telephone interview with Attorney General's office August 10, 1976. For a copy of the new law, see **Maine Revised Statutes Annotated**, effective March 1, 1976 (St. Paul, Minnesota, West Publishing, 1975).
- - [\[259\]](#page-98-1) **Labyrinth**, September 1975.
- - [\[260\]](#page-98-2) **Ibid.**
-- [\[261\]](#page-99-2) **Report on the Community Conference**. American Friends Service Committee, Pasadena, California, June 1975.
- - [\[262\]](#page-99-3) **Corrections Magazine**, July/ August 1975.
- - [\[263\]](#page-99-4) **New York Times**, December 14, 1975.
-- [\[264\]](#page-100-1) Coordinating Council of Prisoner Organizations, **Determined Sentencing Proposal**, published in January 1975. Available from the council, 1251 2nd Ave., San Francisco, California, 94122, for 25 cents.
-- [\[265\]](#page-104-0) Published as **Prisons without Walls: Report on New York Parole** (New York, Prager, 1975).
-- [\[266\]](#page-104-1) Prepared by Donald Auspitz, available from Citizens Inquiry on Parole and Criminal Justice, Inc., 84 Fifth Avenue, New York, New York 10011.
-- [\[267\]](#page-105-2) "Parole: Reform or Abolition," Report on New England Prisoners Association Conference, NEPA News, April/May 1975.
-- [\[268\]](#page-106-1) Gerhard O. W. Mueller, "Imprisonment and its Alternatives," in A Program for Prison Reform, p. 43: "The Report of the National Commission on Reform of Federal Criminal Laws recommends an amendment of 28 U. S. C. 1291 by clearly giving courts of appeals the power to review sentences and to modify them or to set them aside for further proceedings. This recommendation is in accordance with the recommendations of the ABA and IJA Minimum Standards of Criminal Justice Project."
- - [\[269\]](#page-106-2) **New York Times**, January 25, 1976.
- - [\[270\]](#page-106-3) **New York Times**, January 5, 1976.
- - [\[271\]](#page-106-4) **Ibid**.
-- [\[272\]](#page-107-1) Summary, "Seminar on the Crisis in Corrections," Southern Governors' Conference, Task Force Committee on Correctional Problems, Nashville, Tennesee, January 21–23, 1976, p. 40.
- - [\[273\]](#page-107-2) See **U. S. News and World Report**, March 1, 1976.
- - [\[274\]](#page-107-3) **Pugh v. Locke**.
- - [\[275\]](#page-107-4) **Corrections Magazine**, March 1976, p. 21.
-- [\[276\]](#page-108-1) Stephen Schafer, "Compensation of Victims of Criminal Offenses," Criminal Law Bulletin, Vol. 10, No. 7, p. 631.
-- [\[277\]](#page-108-2) Information in this section from **Corrections Magazine**, January/February 1975 and March 1976. Also panel discussions at First National Conference on Alternatives to Incarceration, September 1975, Boston, Massachusetts.
- - [\[278\]](#page-110-1) **Corrections Magazine**, September/October 1975.
-- [\[279\]](#page-110-2) **Ibid**. Information in this section from materials included in Corrections article, and "An experimental research and demonstration project, funded by the Manpower Administration, U. S. Department of Labor," Parole Corrections Project, American Correctional Association, College Park, Maryland.
-- [\[280\]](#page-110-3) James O. Robison, MAP Markers: **Research and Evaluation of the Mutual Agreement Program**, American Correctional Association, College Park, Maryland, 1975.
-- [\[281\]](#page-111-1) Fred Cohen is currently Professor of Law and Criminal Justice, S. U. N. Y. at Albany, School of Criminal Justice.
-- [\[282\]](#page-113-1) **Corrections**, Report of the National Advisory Commission on **Criminal Justice Standards and Goals**. See Standard 7.1, Development Plan for Community Based Alternatives to Confinement, p. 237.
-- [\[283\]](#page-113-2) Wisconsin Council on Criminal Justice, **Final Report to the Governor of the Citizen's Study Committee on Offender Rehabilitation**, Madison, Wisconsin, July 1972, p. 1.
-- [\[284\]](#page-114-2) Sanford H. Kadish, "The Crisis of Overcriminalization," **Annals of the American Academy of Political and Social Sciences**, 374, November 1967, pp. 157–70.
- - [\[285\]](#page-114-3) Norval Morris, **The Future of Imprisonment**, p. 7.
- - [\[286\]](#page-115-1) Herbert L. Packer of Stanford University Law School, as quoted in Edwin Kiester's **Crimes with**
+- \[251\] John Bach is a member of the Whale's Tale community in Hartford, Connecticut. He has spent 35 months in prison for draft resistance and was recently imprisoned for an act of nonviolent civil disobedience on Hiroshima Day, 1975.
+- \[252\] Don C. Gibbons, "Prisoners without Reason: Priorities for Release," in Steve Bagwell, ed., **Depopulating the Prisons**, pp. 32–38.
+- \[253\] The First National Conference on Alternatives to Incarceration, September 19–21, 1975, Sheraton-Boston Hotel, Boston, Massachusetts.
+- \[254\] Material on decarcerating Massachusetts' juvenile prisons based on data gathered by David Martin and reportage in **Corrections Magazine**, November/ December, 1975, pp. 3–40.
+ - \[255\] Alvin Bronstein, "Rules for Playing God," **Civil Liberties Review**, Summer 1974.
+ - \[256\] Daniel Glaser in Lloyd Ohlin, ed., **Prisoners in America**, pp. 86–92.
+ - \[257\] "The Sentencing Struggle," **The Outlaw**, June/July 1975.
+- \[258\] Material on Maine based on information printed in **Corrections Magazine**, July/August 1975, pp] 16–17 and Labyrinth, September 1975 and telephone interview with Attorney General's office August 10, 1976. For a copy of the new law, see **Maine Revised Statutes Annotated**, effective March 1, 1976 (St. Paul, Minnesota, West Publishing, 1975).
+ - \[259\] **Labyrinth**, September 1975.
+ - \[260\] **Ibid.**
+- \[261\] **Report on the Community Conference**. American Friends Service Committee, Pasadena, California, June 1975.
+ - \[262\] **Corrections Magazine**, July/ August 1975.
+ - \[263\] **New York Times**, December 14, 1975.
+- \[264\] Coordinating Council of Prisoner Organizations, **Determined Sentencing Proposal**, published in January 1975. Available from the council, 1251 2nd Ave., San Francisco, California, 94122, for 25 cents.
+- \[265\] Published as **Prisons without Walls: Report on New York Parole** (New York, Prager, 1975).
+- \[266\] Prepared by Donald Auspitz, available from Citizens Inquiry on Parole and Criminal Justice, Inc., 84 Fifth Avenue, New York, New York 10011.
+- \[267\] "Parole: Reform or Abolition," Report on New England Prisoners Association Conference, NEPA News, April/May 1975.
+- \[268\] Gerhard O. W. Mueller, "Imprisonment and its Alternatives," in A Program for Prison Reform, p. 43: "The Report of the National Commission on Reform of Federal Criminal Laws recommends an amendment of 28 U. S. C. 1291 by clearly giving courts of appeals the power to review sentences and to modify them or to set them aside for further proceedings. This recommendation is in accordance with the recommendations of the ABA and IJA Minimum Standards of Criminal Justice Project."
+ - \[269\] **New York Times**, January 25, 1976.
+ - \[270\] **New York Times**, January 5, 1976.
+ - \[271\] **Ibid**.
+- \[272\] Summary, "Seminar on the Crisis in Corrections," Southern Governors' Conference, Task Force Committee on Correctional Problems, Nashville, Tennesee, January 21–23, 1976, p. 40.
+ - \[273\] See **U. S. News and World Report**, March 1, 1976.
+ - \[274\] **Pugh v. Locke**.
+ - \[275\] **Corrections Magazine**, March 1976, p. 21.
+- \[276\] Stephen Schafer, "Compensation of Victims of Criminal Offenses," Criminal Law Bulletin, Vol. 10, No. 7, p. 631.
+- \[277\] Information in this section from **Corrections Magazine**, January/February 1975 and March 1976. Also panel discussions at First National Conference on Alternatives to Incarceration, September 1975, Boston, Massachusetts.
+ - \[278\] **Corrections Magazine**, September/October 1975.
+- \[279\] **Ibid**. Information in this section from materials included in Corrections article, and "An experimental research and demonstration project, funded by the Manpower Administration, U. S. Department of Labor," Parole Corrections Project, American Correctional Association, College Park, Maryland.
+- \[280\] James O. Robison, MAP Markers: **Research and Evaluation of the Mutual Agreement Program**, American Correctional Association, College Park, Maryland, 1975.
+- \[281\] Fred Cohen is currently Professor of Law and Criminal Justice, S. U. N. Y. at Albany, School of Criminal Justice.
+- \[282\] **Corrections**, Report of the National Advisory Commission on **Criminal Justice Standards and Goals**. See Standard 7.1, Development Plan for Community Based Alternatives to Confinement, p. 237.
+- \[283\] Wisconsin Council on Criminal Justice, **Final Report to the Governor of the Citizen's Study Committee on Offender Rehabilitation**, Madison, Wisconsin, July 1972, p. 1.
+- \[284\] Sanford H. Kadish, "The Crisis of Overcriminalization," **Annals of the American Academy of Political and Social Sciences**, 374, November 1967, pp. 157–70.
+ - \[285\] Norval Morris, **The Future of Imprisonment**, p. 7.
+ - \[286\] Herbert L. Packer of Stanford University Law School, as quoted in Edwin Kiester's **Crimes with**
 
 **No Victims** (New York Alliance for a Safer New York, 1972) p. 3.
 
-[\[287\]](#page-115-2) Sol Rubin, counsel for the National Council on Crime and Delinquency, as quoted in **Crimes with No Victims**, p. 3.
+\[287\] Sol Rubin, counsel for the National Council on Crime and Delinquency, as quoted in **Crimes with No Victims**, p. 3.
 
-[\[288\]](#page-115-3) William Ryan, **Blaming the Victim**, p. 261.
+\[288\] William Ryan, **Blaming the Victim**, p. 261.
 
-[\[289\]](#page-115-4) Elizabeth W. Vorenberg and James Vorenberg, "Early Diversion from the Criminal Justice System," in Lloyd E. Ohlin, ed., **Prisoners in America**, pp. 166–67.
+\[289\] Elizabeth W. Vorenberg and James Vorenberg, "Early Diversion from the Criminal Justice System," in Lloyd E. Ohlin, ed., **Prisoners in America**, pp. 166–67.
 
-[\[290\]](#page-115-5) Lloyd E. Ohlin, ed., **Prisoners in America**, p. 8. "It is becoming increasingly clear that the resort to criminal sanctions in these various types of problem cases generally does more harm than good."
+\[290\] Lloyd E. Ohlin, ed., **Prisoners in America**, p. 8. "It is becoming increasingly clear that the resort to criminal sanctions in these various types of problem cases generally does more harm than good."
 
-[\[291\]](#page-115-6) **Struggle for Justice**, p. 129. "We are acutely aware that criminal law is passed on the assumption that great margins of discretion will be exercised. We presently have a system so overextensive that no one would want to see it fully enforced. This is exactly the state of affairs we object to. Let us end the legislative practice of passing laws as symbolic gestures with no intention that they be enforced, or passing purposely vague laws with the intention that something other than full enforcement be accomplished. One of the basic principles we wish to promote is that of restraint. The goal thruout the system should be to reduce the extensiveness of the use of legal sanctions to govern our affairs. As this goal is approached, and the legislature only supports the laws they intend to be enforced, this justification for discretion will be removed."
+\[291\] **Struggle for Justice**, p. 129. "We are acutely aware that criminal law is passed on the assumption that great margins of discretion will be exercised. We presently have a system so overextensive that no one would want to see it fully enforced. This is exactly the state of affairs we object to. Let us end the legislative practice of passing laws as symbolic gestures with no intention that they be enforced, or passing purposely vague laws with the intention that something other than full enforcement be accomplished. One of the basic principles we wish to promote is that of restraint. The goal thruout the system should be to reduce the extensiveness of the use of legal sanctions to govern our affairs. As this goal is approached, and the legislature only supports the laws they intend to be enforced, this justification for discretion will be removed."
 
-[\[292\]](#page-115-7) All statistics quoted from Kiester, p. 5.
+\[292\] All statistics quoted from Kiester, p. 5.
 
-[\[293\]](#page-116-2) Edwin M. Schur, Our **Criminal Society**, pp. 196–98. See also Edwin M. Schur and Hugo Adam Bedau, **Victimless Crimes** (Englewood Cliffs, New Jersey, Prentice-Hall, 1974) pp. 15–16.
+\[293\] Edwin M. Schur, Our **Criminal Society**, pp. 196–98. See also Edwin M. Schur and Hugo Adam Bedau, **Victimless Crimes** (Englewood Cliffs, New Jersey, Prentice-Hall, 1974) pp. 15–16.
 
-[\[294\]](#page-116-3) It has been suggested that gambling be legalized in the Harlem community and that the money which was originally used for police "pay-offs" and "graft" be channeled into a community corporation to support educational and medical needs of the community. Thereby legalizing gambling, but not in the same sense as off-track betting in New York. The gambling would remain in the hands of the private sector of the community, subject to taxes and controls; it would additionally provide a revenue solely for the use of the community generating the gambling in the first place.
+\[294\] It has been suggested that gambling be legalized in the Harlem community and that the money which was originally used for police "pay-offs" and "graft" be channeled into a community corporation to support educational and medical needs of the community. Thereby legalizing gambling, but not in the same sense as off-track betting in New York. The gambling would remain in the hands of the private sector of the community, subject to taxes and controls; it would additionally provide a revenue solely for the use of the community generating the gambling in the first place.
 
-[\[295\]](#page-116-4) Joan Smith and William Fried, **The Uses of the American Prison**, p. 139.
+\[295\] Joan Smith and William Fried, **The Uses of the American Prison**, p. 139.
 
-[\[296\]](#page-116-5) Judge Charles W. Halleck in an Opinion submitted November 3, 1972, Superior Court of the District of Columbia, Criminal Division, p. 6. He quotes from **Eisenstadt v. Baird**, 405 U. S. 438 at 453 (1972).
+\[296\] Judge Charles W. Halleck in an Opinion submitted November 3, 1972, Superior Court of the District of Columbia, Criminal Division, p. 6. He quotes from **Eisenstadt v. Baird**, 405 U. S. 438 at 453 (1972).
 
-[\[297\]](#page-117-1) Marilyn G. Haft, "Hustling for Rights," **Civil Liberties Review**, Vol. 1, No. 2 (1974), p. 14. See also Tom Buckley, "Prostitutes' Chances of Arrest Depend on Whether They Solicit on the Streets," **New York Times,** December 6, 1974.
+\[297\] Marilyn G. Haft, "Hustling for Rights," **Civil Liberties Review**, Vol. 1, No. 2 (1974), p. 14. See also Tom Buckley, "Prostitutes' Chances of Arrest Depend on Whether They Solicit on the Streets," **New York Times,** December 6, 1974.
 
-[\[298\]](#page-117-2) Kiester, p. 35. "On a per-case basis, it is one of the most expensive nonvictim crimes to 'control.'"
+\[298\] Kiester, p. 35. "On a per-case basis, it is one of the most expensive nonvictim crimes to 'control.'"
 
-[\[299\]](#page-117-3) Kate Millett has stated: "Prostitution is really the only crime in the penal law where two people are doing a thing mutually agreed upon and yet only one, the female partner, is subjected to arrest." Quoted in Schur and Bedau, pp. 24–25.
+\[299\] Kate Millett has stated: "Prostitution is really the only crime in the penal law where two people are doing a thing mutually agreed upon and yet only one, the female partner, is subjected to arrest." Quoted in Schur and Bedau, pp. 24–25.
 
-[\[300\]](#page-117-4) Karl Menninger, **Whatever Became of Sin?** , p. 66. "Not five percent of the women engaged in prostitution are ever arrested and less than one percent of the men involved in the racket are every arrested."
+\[300\] Karl Menninger, **Whatever Became of Sin?** , p. 66. "Not five percent of the women engaged in prostitution are ever arrested and less than one percent of the men involved in the racket are every arrested."
 
 See also Haft, p. 16: "The New York Code, for instance, makes patronizing a prostitute a criminal offense, but in 1968 there were only 112 arrests of customers in New York City against 8,000 arrests of prostitutes."
 
-[\[301\]](#page-117-5) Halleck, p. 5.
+\[301\] Halleck, p. 5.
 
-[\[302\]](#page-117-6) "Prostitution: A Non-Victim Crime?" **Issues in Criminology**, University of California, Berkeley, California, Vol. 8, No. 2(1973), based on a study conducted in Washington, D. C.
+\[302\] "Prostitution: A Non-Victim Crime?" **Issues in Criminology**, University of California, Berkeley, California, Vol. 8, No. 2(1973), based on a study conducted in Washington, D. C.
 
-[\[303\]](#page-117-7) Patricia Lynden, "The Oldest Profession Organizes at Last," Ms. Magazine, December 1973, p. 17. Also Lile Ruppenthal, "Hookers Demand No License," **Majority Report**, Vol. V, No. 5, July 12, 1975, p. 3; "Decriminalizing of Prostitution Urged," **New York Times**, June 23, 1975.
+\[303\] Patricia Lynden, "The Oldest Profession Organizes at Last," Ms. Magazine, December 1973, p. 17. Also Lile Ruppenthal, "Hookers Demand No License," **Majority Report**, Vol. V, No. 5, July 12, 1975, p. 3; "Decriminalizing of Prostitution Urged," **New York Times**, June 23, 1975.
 
-[\[304\]](#page-117-8) "The term sodomy has been used in a broad sense to designate any sexual acts other than heterosexual genital-genital relations between human beings; sometimes it refers specifically to homosexual or heterosexual anal intercourse between humans; it has also been used to mean sexual relations between man and beast." Roger S. Mitchell, **The Homosexual and the Law** (New York, Arco, 1969) p. 17. According to Kiester, "The total number of sodomy arrests in New York City in the first half of 1972 was 402, less than one-fifth of one percent of all arrests."
+\[304\] "The term sodomy has been used in a broad sense to designate any sexual acts other than heterosexual genital-genital relations between human beings; sometimes it refers specifically to homosexual or heterosexual anal intercourse between humans; it has also been used to mean sexual relations between man and beast." Roger S. Mitchell, **The Homosexual and the Law** (New York, Arco, 1969) p. 17. According to Kiester, "The total number of sodomy arrests in New York City in the first half of 1972 was 402, less than one-fifth of one percent of all arrests."
 
-[\[305\]](#page-118-0) Kiester, p. 48.
+\[305\] Kiester, p. 48.
 
-[\[306\]](#page-118-1) "Psychiatric Unit Upholds Stand that Homosexuality Isn't Illness," **New York Times**, June 1, 1975.
+\[306\] "Psychiatric Unit Upholds Stand that Homosexuality Isn't Illness," **New York Times**, June 1, 1975.
 
-[\[307\]](#page-118-2) Judd Marmot, president, American Psychiatric Association, in letter to editor, **New York Times**, September 12, 1975.
+\[307\] Judd Marmot, president, American Psychiatric Association, in letter to editor, **New York Times**, September 12, 1975.
 
-[\[308\]](#page-118-3) See Edwin M. Schur, **Crimes without Victims** (Englewood Cliffs, New Jersey, Prentice-Hall, 1965) p. 111: "It is not clear why elimination of the legal ban on the private acts of consenting adults should increase the dangers of seduction."
+\[308\] See Edwin M. Schur, **Crimes without Victims** (Englewood Cliffs, New Jersey, Prentice-Hall, 1965) p. 111: "It is not clear why elimination of the legal ban on the private acts of consenting adults should increase the dangers of seduction."
 
-[\[309\]](#page-119-1) Kiester, p. 47, "In California, the State Supreme Court held that a teacher could not be fired as a homosexual unless his/her homosexuality affected his/ her classroom performance."
+\[309\] Kiester, p. 47, "In California, the State Supreme Court held that a teacher could not be fired as a homosexual unless his/her homosexuality affected his/ her classroom performance."
 
-- [\[310\]](#page-119-2) **Ibid.,** p. 14. Also Mitford, pp. 72–73.
-- [\[311\]](#page-119-3) **Ibid.** , pp. 15–16.
-- [\[312\]](#page-119-4) See Thomas Szasz, **Ceremonial Chemistry**, (Garden City, New York, Anchor, 1974) pp. 52–53. "Culturally accepted drugs have traditionally been promoted, and today continue to be promoted, as the symbols of adulthood and maturity... The social approval of certain recreational drugs is reflected and sustained by the language we use to describe the various activities associated with their manufacture, sale, and use. People who make liquor are businessmen, not the 'members of an international ring of alcohol refiners'; people who sell liquor are retail merchants, not 'pushers'; and people who buy liquor are citizens, not 'dope fiends.'"
-- [\[313\]](#page-120-1) Kiester, p. 55. This youth culture is usually associated with persons "whose life style, dress or length of hair offend the sensibilities of the majority."
-- [\[314\]](#page-120-2) **Ibid.** , p. 59. "Such enactments are an arrogant misuse of power, and the administration of such laws results in corruption, discrimination, and increased disrespect for law."
-- [\[315\]](#page-120-3) Schur and Bedau, p. 28, quoting from John Kaplan's **Marijuana-The New Prohibition** (New York, Pocket Books, 1971) p. 30. Also "Marijuana Arrests Up to 420,700 in '73," **New York Times**, July 21, 1974: This number accounted for "66.9 percent of all drug arrests in that year."
-- [\[316\]](#page-120-4) Richard J. Bonnie and Charles H. Whitebread II, **The Marijuana Conviction** (Charlottesville, University of Virginia, 1974) p. xi.
- - [\[317\]](#page-121-0) Menninger, p. 68.
-- [\[318\]](#page-121-1) Walter Sullivan, "Marijuana Study by U. S. finds No Serious Harm," **New York Times**, July 9, 1975.
-- [\[319\]](#page-121-2) Quoted in George Skelton, "Assembly Justice Panel Approves Marijuana Bill," **Los Angeles Times**, April 17, 1975.
-- [\[320\]](#page-121-3) Quoted in "Use of Marijuana in Home Legalized by Alaska Court," **New York Times**, May 28, 1975.
- - [\[321\]](#page-121-4) "Pot Can Harm, But Does Prison Help?" **U. S. News and World Report**, December 2, 1974.
-- [\[322\]](#page-121-5) William Safire, "Going to Pot," **New York Times**, November 21, 1974. See also Bonnie and Whitebread, p. 262. Also, Harold M. Schmeck, Jr., "Half of Americans Age 18 to 25 Said to Have Tried Marijuana," **New York Times**, February 12, 1976.
- - [\[323\]](#page-122-1) Josh Friedman, "Pot Poll in Albany: 25 Percent Want It Legal," **New York Post**, January 15, 1976.
- - [\[324\]](#page-122-2) "Marijuana Law Challenge," **New York Times**, December 14, 1975.
- - [\[325\]](#page-122-3) "Pot Ad Refused," **Washington Park Spirit**, July 9, 1974.
-- [\[326\]](#page-122-4) Letter to the Editor by Frank R. Fioramonti, New York State director, National Organization for the Reform of Marijuana Laws, "How to Decriminalize Marijuana," **New York Times**, December 24, 1975. He suggests the incorporation of "three key provisions" in the revision of New York State's marijuana laws:
+- \[310\] **Ibid.,** p. 14. Also Mitford, pp. 72–73.
+- \[311\] **Ibid.** , pp. 15–16.
+- \[312\] See Thomas Szasz, **Ceremonial Chemistry**, (Garden City, New York, Anchor, 1974) pp. 52–53. "Culturally accepted drugs have traditionally been promoted, and today continue to be promoted, as the symbols of adulthood and maturity... The social approval of certain recreational drugs is reflected and sustained by the language we use to describe the various activities associated with their manufacture, sale, and use. People who make liquor are businessmen, not the 'members of an international ring of alcohol refiners'; people who sell liquor are retail merchants, not 'pushers'; and people who buy liquor are citizens, not 'dope fiends.'"
+- \[313\] Kiester, p. 55. This youth culture is usually associated with persons "whose life style, dress or length of hair offend the sensibilities of the majority."
+- \[314\] **Ibid.** , p. 59. "Such enactments are an arrogant misuse of power, and the administration of such laws results in corruption, discrimination, and increased disrespect for law."
+- \[315\] Schur and Bedau, p. 28, quoting from John Kaplan's **Marijuana-The New Prohibition** (New York, Pocket Books, 1971) p. 30. Also "Marijuana Arrests Up to 420,700 in '73," **New York Times**, July 21, 1974: This number accounted for "66.9 percent of all drug arrests in that year."
+- \[316\] Richard J. Bonnie and Charles H. Whitebread II, **The Marijuana Conviction** (Charlottesville, University of Virginia, 1974) p. xi.
+ - \[317\] Menninger, p. 68.
+- \[318\] Walter Sullivan, "Marijuana Study by U. S. finds No Serious Harm," **New York Times**, July 9, 1975.
+- \[319\] Quoted in George Skelton, "Assembly Justice Panel Approves Marijuana Bill," **Los Angeles Times**, April 17, 1975.
+- \[320\] Quoted in "Use of Marijuana in Home Legalized by Alaska Court," **New York Times**, May 28, 1975.
+ - \[321\] "Pot Can Harm, But Does Prison Help?" **U. S. News and World Report**, December 2, 1974.
+- \[322\] William Safire, "Going to Pot," **New York Times**, November 21, 1974. See also Bonnie and Whitebread, p. 262. Also, Harold M. Schmeck, Jr., "Half of Americans Age 18 to 25 Said to Have Tried Marijuana," **New York Times**, February 12, 1976.
+ - \[323\] Josh Friedman, "Pot Poll in Albany: 25 Percent Want It Legal," **New York Post**, January 15, 1976.
+ - \[324\] "Marijuana Law Challenge," **New York Times**, December 14, 1975.
+ - \[325\] "Pot Ad Refused," **Washington Park Spirit**, July 9, 1974.
+- \[326\] Letter to the Editor by Frank R. Fioramonti, New York State director, National Organization for the Reform of Marijuana Laws, "How to Decriminalize Marijuana," **New York Times**, December 24, 1975. He suggests the incorporation of "three key provisions" in the revision of New York State's marijuana laws:
 - "1. In lieu of a civil fine for first offenders, judges should be empowered to direct attendance at a sensible drug education program which spells out the potential hazards of the recreational use of any drug, including the dangers inherent in the immoderate use not only of cannabis but also of such licit substances as alcohol, tobacco, caffeine and the often abused prescription sedatives and 'diet' pills.
 - "2. Provision must be made for expunging the records of those thousands of New Yorkers recently arrested and convicted for possession of small amounts of marijuana. Failure to so act will penalize with a lifelong criminal record as many as 100,000 mostly young state residents arrested during the 1970's.
 - "3. Assuming the new law makes legal the possession of several ounces of marijuana... then the transfer of small amounts of marijuana should be treated in a similar fashion. At present, merely passing one marijuana cigarette to another person-regardless of whether any money changes hands-is considered a sale and is punishable by fifteen years in prison. Such obvious inconsistencies must be eliminated."
-- [\[327\]](#page-123-1) For a history of bail in England, the American colonies and the United States, see Caleb Foote, "The Coming Constitutional Crisis in Bail, I," in Caleb Foote, ed., **Studies on Bail** (Philadelphia, University of Pennsylvania Law School, 1966) pp. 181–221. Foote points out how the bail system illustrates a triumph of unexamined custom over well-intentioned law. Imported intact from a rigid class society and introduced at a time when mere pauperism, without crime, was customarily punished by deprivation of liberty, exploitation and callous cruelty, the system has survived unchallenged for two centuries.
- - [\[328\]](#page-123-2) **Ibid.** , p. 217.
-- [\[329\]](#page-123-3) The occasional informal use of ROR, without bail, does little to alter this picture as ROR customarily is limited to the less serious offenses and the most "dependable" defendants. The majority of poor defendants are as unable to secure ROR as they are to make bail. Recent formal "diversion" programs based on ROR have enlarged this form of pretrial release, but are often so structured as to constitute not an alternative form of release, but an alternative form of prosecution.
- - [\[330\]](#page-124-2) Figures provided by Philadelphia People's Bail Fund, October, 1973. Compare: Manhattan Bail
+- \[327\] For a history of bail in England, the American colonies and the United States, see Caleb Foote, "The Coming Constitutional Crisis in Bail, I," in Caleb Foote, ed., **Studies on Bail** (Philadelphia, University of Pennsylvania Law School, 1966) pp. 181–221. Foote points out how the bail system illustrates a triumph of unexamined custom over well-intentioned law. Imported intact from a rigid class society and introduced at a time when mere pauperism, without crime, was customarily punished by deprivation of liberty, exploitation and callous cruelty, the system has survived unchallenged for two centuries.
+ - \[328\] **Ibid.** , p. 217.
+- \[329\] The occasional informal use of ROR, without bail, does little to alter this picture as ROR customarily is limited to the less serious offenses and the most "dependable" defendants. The majority of poor defendants are as unable to secure ROR as they are to make bail. Recent formal "diversion" programs based on ROR have enlarged this form of pretrial release, but are often so structured as to constitute not an alternative form of release, but an alternative form of prosecution.
+ - \[330\] Figures provided by Philadelphia People's Bail Fund, October, 1973. Compare: Manhattan Bail
 
 Project, 5.3 percent total, of which 4.6 percent willful, failures to appear, in a two year period with 36,917 summonses issued; San Francisco Bail Project, ten percent failure to appear, one percent evaded justice altogether, in a four year period with RORs. Comparison where financial interest is in a bondsperson or in the defendant is provided by Illinois Ten Percent Cash Bond Program, the case bond put up by defendant himself. In one year in Cook County (Chicago), where 686 ten-percent cash bonds were accepted and 600 surety bonds were written by bondspersons, forfeiture rates were for cash bonds, 5.4 percent; for surety bonds, 6.3 percent. **Corrections**, pp. 109–110.
 
-[\[331\]](#page-125-1) Ramsey Clark, **Crime in America**, pp. 282–83.
+\[331\] Ramsey Clark, **Crime in America**, pp. 282–83.
 
-[\[332\]](#page-125-2) **A Program for Prison Reform**, p. 13.
+\[332\] **A Program for Prison Reform**, p. 13.
 
-[\[333\]](#page-125-3) On a single day, March 15, 1970, 54,868 persons were being held after arraignment and pending trial in local jails in the United States. Computed in **Local Jails: A Report Presenting Data for Individual County and City Jails from the 1970 National Jail Census** (Washington, D. C., U. S. Department of Justice, LEAA, Criminal Justice Information and Statistics Service, January 1973). In New York State alone, exclusive of the five New York City boroughs, about 100,000 people pass thru county and local jails each year, of whom between 60 and 70 percent are unsentenced, primarily pretrial detainees. In 1973, the exact number was 104,116, up from 60,807 in 1959. Data obtained by telephone from New York State Commission of Correction, Albany, New York, April 14, 1976.
+\[333\] On a single day, March 15, 1970, 54,868 persons were being held after arraignment and pending trial in local jails in the United States. Computed in **Local Jails: A Report Presenting Data for Individual County and City Jails from the 1970 National Jail Census** (Washington, D. C., U. S. Department of Justice, LEAA, Criminal Justice Information and Statistics Service, January 1973). In New York State alone, exclusive of the five New York City boroughs, about 100,000 people pass thru county and local jails each year, of whom between 60 and 70 percent are unsentenced, primarily pretrial detainees. In 1973, the exact number was 104,116, up from 60,807 in 1959. Data obtained by telephone from New York State Commission of Correction, Albany, New York, April 14, 1976.
 
-[\[334\]](#page-126-1) A landmark study of the effect of pretrial detention on disposition of cases in Manhattan's Magistrate's Felony Court, indicates that even where an individual has characteristics which should mitigate sentence (no previous record, employment, family stability), the fact of pretrial detention has an adverse effect. With one such characteristic, 81 percent of jailed defendants were convicted and 73 went to prison, vs. 68 percent convicted and 26 sent to prison for bailed defendants. With two favorable characteristics, the percentages were 76 percent convicted and 52 percent sent to prison for jailed defendants, vs. 61 percent convicted and only 17 percent sent to prison for bailed defendants. With three favorable characteristics, only two defendants did not make bail. Of 67 who did, 54 percent were convicted but only 6 percent went to prison. Anne Rankin, "The Effects of Pretrial Detention," **New York University Law Review**, 39 (1964), p. 654.
+\[334\] A landmark study of the effect of pretrial detention on disposition of cases in Manhattan's Magistrate's Felony Court, indicates that even where an individual has characteristics which should mitigate sentence (no previous record, employment, family stability), the fact of pretrial detention has an adverse effect. With one such characteristic, 81 percent of jailed defendants were convicted and 73 went to prison, vs. 68 percent convicted and 26 sent to prison for bailed defendants. With two favorable characteristics, the percentages were 76 percent convicted and 52 percent sent to prison for jailed defendants, vs. 61 percent convicted and only 17 percent sent to prison for bailed defendants. With three favorable characteristics, only two defendants did not make bail. Of 67 who did, 54 percent were convicted but only 6 percent went to prison. Anne Rankin, "The Effects of Pretrial Detention," **New York University Law Review**, 39 (1964), p. 654.
 
-[\[335\]](#page-126-2) Compiled from **Local Jails**. This census entirely omits three states (Connecticut, Delaware and Rhode Island) where pretrial detention facilities are operated by state rather than local governments.
+\[335\] Compiled from **Local Jails**. This census entirely omits three states (Connecticut, Delaware and Rhode Island) where pretrial detention facilities are operated by state rather than local governments.
 
-[\[336\]](#page-126-3) Estimates based on figures provided by the New York State Commission of Corrections, April 14, 1976, by telephone.
+\[336\] Estimates based on figures provided by the New York State Commission of Corrections, April 14, 1976, by telephone.
 
-[\[337\]](#page-127-2) According to the New York State Commission of Correction, 1974 actual costs of incarceration in county and local jails, excluding New York City, came to \$27,849,085 in county and local funds. This figure does not include sheriffs' salaries and does not include substantial but undetermined contributions from state and federal sources for operation of these jails. It does show an increase in cost of 187 percent over the year 1965.
+\[337\] According to the New York State Commission of Correction, 1974 actual costs of incarceration in county and local jails, excluding New York City, came to \$27,849,085 in county and local funds. This figure does not include sheriffs' salaries and does not include substantial but undetermined contributions from state and federal sources for operation of these jails. It does show an increase in cost of 187 percent over the year 1965.
 
-[\[338\]](#page-127-3) Patterns of time served in pretrial detention varied widely between New York City and the rest of the state. Outside metropolitan New York, only about five percent of detainees were jailed for more than two months before trial. In the City, the number of people detained per year had dropped drastically after the Tombs uprising of 1970, but the length of time served by those detained had risen drastically.
+\[338\] Patterns of time served in pretrial detention varied widely between New York City and the rest of the state. Outside metropolitan New York, only about five percent of detainees were jailed for more than two months before trial. In the City, the number of people detained per year had dropped drastically after the Tombs uprising of 1970, but the length of time served by those detained had risen drastically.
 
-[\[339\]](#page-128-2) For thoughtful critiques of existing ROR diversion programs, see Joan Mullen, The Dilemma of Diversion, U. S. Department of Justice, LEAA, National Institute of Law Enforcement and Criminal Justice, Washington, D. C. and Michael R. Biel, Legal Issues and Characteristics of Pretrial Intervention Programs, National Pretrial Intervention Service Center of the American Bar Association Commission on Correctional Facilities and Services, Washington, D. C., April 1974.
+\[339\] For thoughtful critiques of existing ROR diversion programs, see Joan Mullen, The Dilemma of Diversion, U. S. Department of Justice, LEAA, National Institute of Law Enforcement and Criminal Justice, Washington, D. C. and Michael R. Biel, Legal Issues and Characteristics of Pretrial Intervention Programs, National Pretrial Intervention Service Center of the American Bar Association Commission on Correctional Facilities and Services, Washington, D. C., April 1974.
 
-[\[340\]](#page-129-1) Richard Danzig, "Comments on the Columbus, Ohio Night Prosecutor Program," Pretrial Justice Quarterly, Winter 1975, p. 4.
+\[340\] Richard Danzig, "Comments on the Columbus, Ohio Night Prosecutor Program," Pretrial Justice Quarterly, Winter 1975, p. 4.
 
-[\[341\]](#page-130-2) Lacey Fosburgh, "Bar is Told It Fails to Help in Settling Minor Disputes," New York Times, September 15, 1975.
+\[341\] Lacey Fosburgh, "Bar is Told It Fails to Help in Settling Minor Disputes," New York Times, September 15, 1975.
 
-[\[342\]](#page-130-3) The American Arbitration Association (AAA) and the National Center for Dispute Settlement (NCDS) have been responsible for much of the intiative in developing community dispute centers. In criminal matters, the 4A programs (Arbitration as an Alternative) of the NCDS are perhaps the most established examples nationally.
+\[342\] The American Arbitration Association (AAA) and the National Center for Dispute Settlement (NCDS) have been responsible for much of the intiative in developing community dispute centers. In criminal matters, the 4A programs (Arbitration as an Alternative) of the NCDS are perhaps the most established examples nationally.
 
-[\[343\]](#page-130-4) Betsy Leonard, "Citizen Dispute Centers-Especially Appropriate for Juveniles," Friendly Agitator, May/June 1975, p. 5.
+\[343\] Betsy Leonard, "Citizen Dispute Centers-Especially Appropriate for Juveniles," Friendly Agitator, May/June 1975, p. 5.
 
-[\[344\]](#page-130-5) Other working definitions in dispute settlement include negotiation-a process whereby parties to a dispute settle issues themselves and conciliation, whereby a neutral party brings disputants together but plays no direct role in solving the dispute.
+\[344\] Other working definitions in dispute settlement include negotiation-a process whereby parties to a dispute settle issues themselves and conciliation, whereby a neutral party brings disputants together but plays no direct role in solving the dispute.
 
-[\[345\]](#page-130-6) "An Alternative to ARD," Pretrial Justice Quarterly, Fall 1972, p. 18.
+\[345\] "An Alternative to ARD," Pretrial Justice Quarterly, Fall 1972, p. 18.
 
-[\[346\]](#page-130-7) Michael J. Lowry, "Commentary-Mediation at the Police Station/A Dialogue on the Night Prosecutor Program: Columbus, Ohio." Pretrial Justice Quarterly, Fall 1974, Vol. 3, No. 4, pp. 37, 40. He quotes James Gibbs, "The Kpelle Moot: A Therapeutic Model for the Informal Settlement of Disputes," 1963, Africa, Vol. 33.
+\[346\] Michael J. Lowry, "Commentary-Mediation at the Police Station/A Dialogue on the Night Prosecutor Program: Columbus, Ohio." Pretrial Justice Quarterly, Fall 1974, Vol. 3, No. 4, pp. 37, 40. He quotes James Gibbs, "The Kpelle Moot: A Therapeutic Model for the Informal Settlement of Disputes," 1963, Africa, Vol. 33.
 
-[\[347\]](#page-130-8) Richard Danzig and Michael J. Lowry, "Everyday Disputes and Mediation in the United States," Law & Society, Summer 1975, p. 690.
+\[347\] Richard Danzig and Michael J. Lowry, "Everyday Disputes and Mediation in the United States," Law & Society, Summer 1975, p. 690.
 
-[\[348\]](#page-131-1) Paul Wahrhaftig in his review of Rough Justice: Perspectives on Lower Court Criminal Courts,
+\[348\] Paul Wahrhaftig in his review of Rough Justice: Perspectives on Lower Court Criminal Courts,
 
 **Pretrial Justice Quarterly**; Spring 1975, p. 22.
 
-[\[349\]](#page-131-2) "Citizen Dispute Settlement: The Night Prosecutor Program of Columbus, Ohio/An Exemplary Project." Prepared for the National Institute of Law Enforcement and Criminal Justice, LEAA, U. S. Department of Justice, Washington, D. C.
+\[349\] "Citizen Dispute Settlement: The Night Prosecutor Program of Columbus, Ohio/An Exemplary Project." Prepared for the National Institute of Law Enforcement and Criminal Justice, LEAA, U. S. Department of Justice, Washington, D. C.
 
-[\[350\]](#page-131-3) "Operation: Demonstration," National Institute of Law Enforcement and Criminal Justice, LEAA,
+\[350\] "Operation: Demonstration," National Institute of Law Enforcement and Criminal Justice, LEAA,
 
 United States Department of Justice, under section "Demo: Police/Family Crisis Intervention."
 
-[\[351\]](#page-132-1) Michael J. Lowry, "Justice Under a Willow Tree: South Carolina Magistrates.. A Comment." Pretrial Justice Quarterly, Vol. 4, No. 4, Summer 1975, p. 37.
+\[351\] Michael J. Lowry, "Justice Under a Willow Tree: South Carolina Magistrates.. A Comment." Pretrial Justice Quarterly, Vol. 4, No. 4, Summer 1975, p. 37.
 
-[\[352\]](#page-132-2) **Ibid.** , p. 37.
+\[352\] **Ibid.** , p. 37.
 
-- [\[353\]](#page-133-1) Danzig and Lowry, p. 689.
-- [\[354\]](#page-133-2) Material in this section is based on CAP literature and on interviews by PREAP March 8, 1976 with Frank Saunders, supervisor, and Barbara Argo, director.
+- \[353\] Danzig and Lowry, p. 689.
+- \[354\] Material in this section is based on CAP literature and on interviews by PREAP March 8, 1976 with Frank Saunders, supervisor, and Barbara Argo, director.
 
-[\[355\]](#page-135-1) Benedict Alper, **Prisons Inside Out**, p. 101.
+\[355\] Benedict Alper, **Prisons Inside Out**, p. 101.
 
-[\[356\]](#page-136-2) Robert O. Dawson, **Sentencing: The Decision as to Type, Length and Conditions of Sentence**, Report of the American Bar Foundation's Survey of the Administration of Criminal Justice in the United States (Boston, Little, Brown, 1969) p. 97.
+\[356\] Robert O. Dawson, **Sentencing: The Decision as to Type, Length and Conditions of Sentence**, Report of the American Bar Foundation's Survey of the Administration of Criminal Justice in the United States (Boston, Little, Brown, 1969) p. 97.
 
-[\[357\]](#page-137-0) John M. Greacen, "Arbitration, a Tool for Criminal Cases?" National Institute of Law Enforcement and Criminal Justice, LEAA, U. S. Department of Justice, Washington, D. C., p. 53.
+\[357\] John M. Greacen, "Arbitration, a Tool for Criminal Cases?" National Institute of Law Enforcement and Criminal Justice, LEAA, U. S. Department of Justice, Washington, D. C., p. 53.
 
-[\[358\]](#page-137-1) Anne Newton, "Alternatives to Imprisonment," **Crime and Delinquency Literature**, March 1976, p. 122.
+\[358\] Anne Newton, "Alternatives to Imprisonment," **Crime and Delinquency Literature**, March 1976, p. 122.
 
-[\[359\]](#page-137-2) Gerhard O. W. Mueller, Minnesota Law Review, 50, December 1965, pp. 249–50.
+\[359\] Gerhard O. W. Mueller, Minnesota Law Review, 50, December 1965, pp. 249–50.
 
-[\[360\]](#page-137-3) Dawson, p. 106.
+\[360\] Dawson, p. 106.
 
-[\[361\]](#page-137-4) Ibid.
+\[361\] Ibid.
 
-[\[362\]](#page-138-1) Material in this section is based on VORP literature, interviews by PREAP with VORP personnel in February and May 1976 and on articles in the Kitchener/ Waterloo Record, January 28, 1976 and February 25, 1976 and in the Cambridge (Ontario) Times, February, 18, 1976.
+\[362\] Material in this section is based on VORP literature, interviews by PREAP with VORP personnel in February and May 1976 and on articles in the Kitchener/ Waterloo Record, January 28, 1976 and February 25, 1976 and in the Cambridge (Ontario) Times, February, 18, 1976.
 
-[\[363\]](#page-140-0) Tate v. Short, 401 U. S. 395, 91 5. Ct. 668 (1971). See also Board of Directors, National Council on Crime and Delinquency, "The Nondangerous Offender Should Not be Imprisoned," p. 454.
+\[363\] Tate v. Short, 401 U. S. 395, 91 5. Ct. 668 (1971). See also Board of Directors, National Council on Crime and Delinquency, "The Nondangerous Offender Should Not be Imprisoned," p. 454.
 
-[\[364\]](#page-140-1) **Ibid**. See also In re Antazo, 89 Cal. Rptr., 255, 473, P. 2d 999 (1970).
+\[364\] **Ibid**. See also In re Antazo, 89 Cal. Rptr., 255, 473, P. 2d 999 (1970).
 
-[\[365\]](#page-140-2) **Ibid**. See also Delaware Session Laws 1969, ch. 198.
+\[365\] **Ibid**. See also Delaware Session Laws 1969, ch. 198.
 
-[\[366\]](#page-140-3) Newman, O'Leary and Christianson, Community Alternatives to Maximum Security-Institutionalization for Selected Offenders in New York State (SUNY, Institute for Public Policy Alternatives, June 1975) p. 268.
+\[366\] Newman, O'Leary and Christianson, Community Alternatives to Maximum Security-Institutionalization for Selected Offenders in New York State (SUNY, Institute for Public Policy Alternatives, June 1975) p. 268.
 
-[\[367\]](#page-140-4) Corrections, p. 162.
+\[367\] Corrections, p. 162.
 
-[\[368\]](#page-140-5) Newman et al., p. 254.
+\[368\] Newman et al., p. 254.
 
-[\[369\]](#page-140-6) **Ibid**.
+\[369\] **Ibid**.
 
-[\[370\]](#page-140-7) **Ibid**., pp. 256–57.
+\[370\] **Ibid**., pp. 256–57.
 
-[\[371\]](#page-140-8) **Ibid**., pp. 259–60.
+\[371\] **Ibid**., pp. 259–60.
 
-[\[372\]](#page-141-1) William Hickey and Sol Rubin, "Suspended Sentences and Fines," Crime and Delinquency Literature, September 1971, pp. 423–24.
+\[372\] William Hickey and Sol Rubin, "Suspended Sentences and Fines," Crime and Delinquency Literature, September 1971, pp. 423–24.
 
-[\[373\]](#page-141-2) Paula Gill Lane, "The Spectrum of Sentencing," Criminal Justice Issues, Commission for Racial Justice, United Church of Christ, Vol. 2, No. 4, November/December 1975, p. 4.
+\[373\] Paula Gill Lane, "The Spectrum of Sentencing," Criminal Justice Issues, Commission for Racial Justice, United Church of Christ, Vol. 2, No. 4, November/December 1975, p. 4.
 
-[\[374\]](#page-141-3) Newton, materials on day fines, pp. 110–17.
+\[374\] Newton, materials on day fines, pp. 110–17.
 
-- [\[375\]](#page-141-4) Charles Miller, "The Fine-Price Tag on Rehabilitative Force," **NPPA Journal**, 2 October 1956, P. 383: "Where in addition, installment paying is allowed, less than five percent of those who would have been incarcerated if this method has been used were finally committed."
- - [\[376\]](#page-141-5) Material in this section based on Hickey and Rubin, pp. 413–18.
- - [\[377\]](#page-142-1) Merrill A. Smith, "The Federal Probation System," **Federal Probation**, June 1975, p. 30.
- - [\[378\]](#page-142-2) Scott Christianson, quoted in "Probation: Reform or Abolition," NEPA News, April/May 1975.
- - [\[379\]](#page-143-0) Judy Klemesrud, "Should These Criminals Go to Prison?" **New York Times**, April 15, 1974.
-- [\[380\]](#page-144-0) In Royal Oak, Michigan, for instance, Volunteers in Probation attained excellent results. When probationers from Royal Oak were compared with probationers from nonvolunteer courts, it was found that recidivism rates were cut in half. See Elizabeth and James Vorenberg, p. 164.
+- \[375\] Charles Miller, "The Fine-Price Tag on Rehabilitative Force," **NPPA Journal**, 2 October 1956, P. 383: "Where in addition, installment paying is allowed, less than five percent of those who would have been incarcerated if this method has been used were finally committed."
+ - \[376\] Material in this section based on Hickey and Rubin, pp. 413–18.
+ - \[377\] Merrill A. Smith, "The Federal Probation System," **Federal Probation**, June 1975, p. 30.
+ - \[378\] Scott Christianson, quoted in "Probation: Reform or Abolition," NEPA News, April/May 1975.
+ - \[379\] Judy Klemesrud, "Should These Criminals Go to Prison?" **New York Times**, April 15, 1974.
+- \[380\] In Royal Oak, Michigan, for instance, Volunteers in Probation attained excellent results. When probationers from Royal Oak were compared with probationers from nonvolunteer courts, it was found that recidivism rates were cut in half. See Elizabeth and James Vorenberg, p. 164.
 
-[\[381\]](#page-144-1) Corrections, p. 159.
+\[381\] Corrections, p. 159.
 
-[\[382\]](#page-144-2) **Ibid**., p. 315.
+\[382\] **Ibid**., p. 315.
 
-[\[383\]](#page-144-3) **Final Report to the Governor of the Citizen's Study Committee on Offender Rehabilitation**, p. 34.
+\[383\] **Final Report to the Governor of the Citizen's Study Committee on Offender Rehabilitation**, p. 34.
 
-[\[384\]](#page-144-4) "Saving People and Money: The Saginaw Project," (pamphlet) National Council on Crime and Delinquency, January 1963.
+\[384\] "Saving People and Money: The Saginaw Project," (pamphlet) National Council on Crime and Delinquency, January 1963.
 
-[\[385\]](#page-144-5) Based on reports published in **Corrections Magazine**, September 1974, pp. 5–8 and Newman, et al., pp. 274308.
+\[385\] Based on reports published in **Corrections Magazine**, September 1974, pp. 5–8 and Newman, et al., pp. 274308.
 
-[\[386\]](#page-145-2) See Arnold H. Lubasch, "Court Panel Sets Sentencing Rules," **New York Times**, March 18, 1976. One of the more hopeful developments for advocates of alternative sentencing are the proposed new rules for sentencing procedures in the Second Circuit federal courts of New York, Connecticut and Vermont. These procedures have been approved by the Second Circuit Judicial Council. They should increase the "openness, fairness and certainty" of criminal sentences in that District.
+\[386\] See Arnold H. Lubasch, "Court Panel Sets Sentencing Rules," **New York Times**, March 18, 1976. One of the more hopeful developments for advocates of alternative sentencing are the proposed new rules for sentencing procedures in the Second Circuit federal courts of New York, Connecticut and Vermont. These procedures have been approved by the Second Circuit Judicial Council. They should increase the "openness, fairness and certainty" of criminal sentences in that District.
 
 The new rules would require judges to give their reasons for each sentence, allow defense lawyers to be present when probation officers interview defendants for presentence reports, authorize a hearing on any disputed facts that may form the basis of a sentence and provide a presentence conference to consider sentencing alternatives.
 
@@ -5843,233 +5843,233 @@ The approved rules have been sent to the district courts for final adoption.
 
 Under the new rules a sentencing judge must explain on the record his reasons for imposing the sentence and rejecting alternatives. They encourage the defense lawyer to submit a sentencing memorandum that can propose sentencing alternatives to judges.
 
-[\[387\]](#page-146-2) Richard A. Mc Gee, "A New Look at Sentencing," **Federal Probation**, June 1974, p. 3. "About 500,000 of these are adult felons who have committed acts ranging from the illegal possession of drugs or automobile theft to burglary, armed robbery, and homicide. Another 350,000 or so are juveniles who have engaged in behavior which would have been treated as felonious had they been adults. There are also about 7,000,000 arrests of adults and juveniles for misdemeanors. How many of these are actually sentenced in the lower courts is unknown because of inadequate records, but if even 15 percent of them are given some sort of sentence, ranging from a small fine to a year in jail, we are talking about another million persons. Based on arrests rather than convictions, it is estimated that the total load of the adjudicatory system of the country is made up of about 57 percent misdemeanants; 26 percent juveniles; and 17 percent adult felons."
+\[387\] Richard A. Mc Gee, "A New Look at Sentencing," **Federal Probation**, June 1974, p. 3. "About 500,000 of these are adult felons who have committed acts ranging from the illegal possession of drugs or automobile theft to burglary, armed robbery, and homicide. Another 350,000 or so are juveniles who have engaged in behavior which would have been treated as felonious had they been adults. There are also about 7,000,000 arrests of adults and juveniles for misdemeanors. How many of these are actually sentenced in the lower courts is unknown because of inadequate records, but if even 15 percent of them are given some sort of sentence, ranging from a small fine to a year in jail, we are talking about another million persons. Based on arrests rather than convictions, it is estimated that the total load of the adjudicatory system of the country is made up of about 57 percent misdemeanants; 26 percent juveniles; and 17 percent adult felons."
 
-[\[388\]](#page-146-3) Leonard Orland, **Prisons: Houses of Darkness**, p. 124.
+\[388\] Leonard Orland, **Prisons: Houses of Darkness**, p. 124.
 
-[\[389\]](#page-146-4) Ibid.
+\[389\] Ibid.
 
-[\[390\]](#page-146-5) Marvin Frankel, **Criminal Sentences-Law without Order**, p. 13.
+\[390\] Marvin Frankel, **Criminal Sentences-Law without Order**, p. 13.
 
-[\[391\]](#page-146-6) Willard Gaylin, **Partial Justice: A Study of Bias in Sentencing**, pp. 40 and 42.
+\[391\] Willard Gaylin, **Partial Justice: A Study of Bias in Sentencing**, pp. 40 and 42.
 
-[\[392\]](#page-146-7) Arnold H. Lubasch, "Study of U. S. Judges Finds 'Glaring' Gap in Sentencing," **New York Times**, September 7, 1974. 50 Federal judges in New York, Connecticut and Vermont were given identical "facts" about 30 hypothetical criminal cases but handed down a "glaring disparity" of sentences when asked to rule on them. In one instance, a crime that merited a three year prison term in the opinion of one judge drew a penalty of 20 years' imprisonment and a \$65,000 fine from another.
+\[392\] Arnold H. Lubasch, "Study of U. S. Judges Finds 'Glaring' Gap in Sentencing," **New York Times**, September 7, 1974. 50 Federal judges in New York, Connecticut and Vermont were given identical "facts" about 30 hypothetical criminal cases but handed down a "glaring disparity" of sentences when asked to rule on them. In one instance, a crime that merited a three year prison term in the opinion of one judge drew a penalty of 20 years' imprisonment and a \$65,000 fine from another.
 
 Also Martin Dyckman, "Study Reveals Bias in Florida System," **Free World Times**, April 1973: A study of bias in the Florida sentencing process revealed that Blacks are sentenced more severely and held in prison longer than whites for equivalent crimes.
 
 Also H. Jack Griswold, et at., An Eye for an Eye, p. 68: Prisoners, complaining of the evil of disparate sentences, tell about two different armed robbers in Wyoming. A thief in the northern part of the state who stole \$7.50 was given a ten to-twelve year sentence; another in the southern section received twoto-three years for stealing \$124.
 
-[\[393\]](#page-146-8) See Gilbert M. Cantor, "A Proposal for Ending Crime and Punishment," **The Shingle** (Philadelphia Bar Association, May 1976) pp. 99–114.
+\[393\] See Gilbert M. Cantor, "A Proposal for Ending Crime and Punishment," **The Shingle** (Philadelphia Bar Association, May 1976) pp. 99–114.
 
-[\[394\]](#page-146-9) John Hogarth, "Alternatives to the Adversary System," **Studies on Sentencing**, (The Law Reform Commission of Canada, 1974). Available by mail from Information Canada, Ottawa KIA 059, Canada for \$5.
+\[394\] John Hogarth, "Alternatives to the Adversary System," **Studies on Sentencing**, (The Law Reform Commission of Canada, 1974). Available by mail from Information Canada, Ottawa KIA 059, Canada for \$5.
 
-[\[395\]](#page-149-1) **Struggle for Justice**, pp. 77–82.
+\[395\] **Struggle for Justice**, pp. 77–82.
 
-[\[396\]](#page-151-2) Paul Warhaftig, "Prediction of Dangerousness-Does the Doctor Know Best? Or at All?" **Pretrial Justice Quarterly**, November 1975, p. 7.
+\[396\] Paul Warhaftig, "Prediction of Dangerousness-Does the Doctor Know Best? Or at All?" **Pretrial Justice Quarterly**, November 1975, p. 7.
 
-[\[397\]](#page-152-0) John R. Lion and Donald P. Kenefick, et al., "Clinical Aspects of the Violent Individual," **American Psychiatric Association News**, November 20, 1974.
+\[397\] John R. Lion and Donald P. Kenefick, et al., "Clinical Aspects of the Violent Individual," **American Psychiatric Association News**, November 20, 1974.
 
-[\[398\]](#page-152-1) David F. Greenberg, "How Dangerous is the Ex-offender?" **The Freeworld Times**, January 1973, p. 11.
+\[398\] David F. Greenberg, "How Dangerous is the Ex-offender?" **The Freeworld Times**, January 1973, p. 11.
 
-[\[399\]](#page-152-2) Henry J. Steadman and Joseph J. Cocozza, "We Can't Predict Who's Dangerous," **Psychology Today**, January 1975, p. 33. Also Henry J. Steadman and Gary Keveles, "Community Adjustment and Criminal Activity of the Baxstrom Patients: 1966–1970," **American Journal of Psychiatry**, Vol. 129, September 1972, pp. 304–310.
+\[399\] Henry J. Steadman and Joseph J. Cocozza, "We Can't Predict Who's Dangerous," **Psychology Today**, January 1975, p. 33. Also Henry J. Steadman and Gary Keveles, "Community Adjustment and Criminal Activity of the Baxstrom Patients: 1966–1970," **American Journal of Psychiatry**, Vol. 129, September 1972, pp. 304–310.
 
-[\[400\]](#page-153-1) Ibid.
+\[400\] Ibid.
 
-[\[401\]](#page-153-2) "Questions and Answers," **Crime and Delinquency Literature, National Council on Crime and Delinquency**, June 1974, p. 232.
+\[401\] "Questions and Answers," **Crime and Delinquency Literature, National Council on Crime and Delinquency**, June 1974, p. 232.
 
-[\[402\]](#page-153-3) Bruce Ennis and Thomas Litwack, "Psychiatry and the Presumption of Expertise: Flipping Coins in the Court Room," **California Law Review**, 62 (1974) p. 693. Also Harry L. Kozol, Richard J. Boucher and Ralph F. Garofalo, "The Diagnosis and Treatment of Dangerousness," **Crime and Delinquency**, October 1972, pp. 37192.
+\[402\] Bruce Ennis and Thomas Litwack, "Psychiatry and the Presumption of Expertise: Flipping Coins in the Court Room," **California Law Review**, 62 (1974) p. 693. Also Harry L. Kozol, Richard J. Boucher and Ralph F. Garofalo, "The Diagnosis and Treatment of Dangerousness," **Crime and Delinquency**, October 1972, pp. 37192.
 
-[\[403\]](#page-153-4) Edwin M. Schur, **Our Criminal Society**, pp. 6667.
+\[403\] Edwin M. Schur, **Our Criminal Society**, pp. 6667.
 
-[\[404\]](#page-153-5) **Ibid.** , pp. 96–97.
+\[404\] **Ibid.** , pp. 96–97.
 
-[\[405\]](#page-156-1) Margaret Mead, **Sex and Temperament in Three Primitive Societies** (New York, Mentor, New American Library, 1935) pp. 23,80‑81. The Arapesh tribe in New Guinea is a rape free society.
+\[405\] Margaret Mead, **Sex and Temperament in Three Primitive Societies** (New York, Mentor, New American Library, 1935) pp. 23,80‑81. The Arapesh tribe in New Guinea is a rape free society.
 
-[\[406\]](#page-156-2) See Andrea Medea and Kathleen Thompson, **Against Rape** (New York Farrar, Straus and Giroux, 1974) pp. 21‑23. Also Diana E. H. Russell, ed., **The Politics of Rape: The Victim's Perspective** (New York, Stein and Day, 1975) pp. 71‑116.
+\[406\] See Andrea Medea and Kathleen Thompson, **Against Rape** (New York Farrar, Straus and Giroux, 1974) pp. 21‑23. Also Diana E. H. Russell, ed., **The Politics of Rape: The Victim's Perspective** (New York, Stein and Day, 1975) pp. 71‑116.
 
-[\[407\]](#page-156-3) See Ann Wolbert Burgess and Linda Lytle Holmstrom, **Rape: Victims of Crisis** (Bowie, Maryland, Robert J. Brady Company, Prentice‑Hall, 1974) pp. 21‑33.
+\[407\] See Ann Wolbert Burgess and Linda Lytle Holmstrom, **Rape: Victims of Crisis** (Bowie, Maryland, Robert J. Brady Company, Prentice‑Hall, 1974) pp. 21‑33.
 
-[\[408\]](#page-156-4) See Julia R. Schwendinger and Herman Schwendinger, "Rape Myths: In Legal, Theoretical and Everyday Practice," Crime and Social Justice, Spring/Summer 1974. See also, Cathie Woolner and Robin Rich, "Rape: Old Myths Endure," **Valley Advocate,** Northampton, Massachusetts, May 15, 1974: "According to a Missouri attorney who handled U. Missouri rape cases, 'Many juries will acquit a man for raping his date in a parked car‑even when he admitted it was rape‑maintaining that the girl shouldn't have put herself in the situation in the first place.'... In a New York City case where a woman had dinner with a man in his apartment and was later raped by him, the D. A. stated a woman can't go three steps and not expect to go the fourth.'"
+\[408\] See Julia R. Schwendinger and Herman Schwendinger, "Rape Myths: In Legal, Theoretical and Everyday Practice," Crime and Social Justice, Spring/Summer 1974. See also, Cathie Woolner and Robin Rich, "Rape: Old Myths Endure," **Valley Advocate,** Northampton, Massachusetts, May 15, 1974: "According to a Missouri attorney who handled U. Missouri rape cases, 'Many juries will acquit a man for raping his date in a parked car‑even when he admitted it was rape‑maintaining that the girl shouldn't have put herself in the situation in the first place.'... In a New York City case where a woman had dinner with a man in his apartment and was later raped by him, the D. A. stated a woman can't go three steps and not expect to go the fourth.'"
 
-[\[409\]](#page-156-5) See Susan Brownmiller, **Against Our Will: Men, Women and Rape** (New York Simon and Schuster, 1975) pp. 312‑13. "The popularity of the belief that a woman seduces... a man into rape, or precipitates a rape by incautious behavior, is part of the smoke screen that men throw up to obscure their actions. The insecurity of women runs so deep that many, possibly most, rape victims agonize afterward in an effort to uncover what it was in their behavior, their manner, their dress that triggered this awful act against them."
+\[409\] See Susan Brownmiller, **Against Our Will: Men, Women and Rape** (New York Simon and Schuster, 1975) pp. 312‑13. "The popularity of the belief that a woman seduces... a man into rape, or precipitates a rape by incautious behavior, is part of the smoke screen that men throw up to obscure their actions. The insecurity of women runs so deep that many, possibly most, rape victims agonize afterward in an effort to uncover what it was in their behavior, their manner, their dress that triggered this awful act against them."
 
-[\[410\]](#page-156-6) See Medea and Thompson, p. 23. Also Russell, pp. 44‑51.
+\[410\] See Medea and Thompson, p. 23. Also Russell, pp. 44‑51.
 
-[\[411\]](#page-157-0) See Lilia Melani and Linda Fodaski, "The Psychology of the Rapist and His Victim," in Noreen Connell and Cassandra Wilson, ed., **Rape: The First Sourcebook for Women** (New York, New American Library, 1974) pp. 82‑93.
+\[411\] See Lilia Melani and Linda Fodaski, "The Psychology of the Rapist and His Victim," in Noreen Connell and Cassandra Wilson, ed., **Rape: The First Sourcebook for Women** (New York, New American Library, 1974) pp. 82‑93.
 
-[\[412\]](#page-157-1) See Murray L. Cohen, et al., "The Psychology of Rapists," **Seminars in Psychiatry,** August 1971. Also Gladys Denny Schultz, **How Many More Vic**tims? Society **and the Sex Criminal** (New York, J. B. Lippincott, 1965) pp. 138, 317.
+\[412\] See Murray L. Cohen, et al., "The Psychology of Rapists," **Seminars in Psychiatry,** August 1971. Also Gladys Denny Schultz, **How Many More Vic**tims? Society **and the Sex Criminal** (New York, J. B. Lippincott, 1965) pp. 138, 317.
 
-[\[413\]](#page-157-2) Thomas A. Giacinti and Claus Tjaden, **The Crime of Rape in Denver: A Preliminary Report on the Findings of 965 Cases of Reported Rape in a Two Year Period** (Denver, Colorado, Denver Anti‑Crime Council, 1313 Tremont Place, 1974) p. 3.
+\[413\] Thomas A. Giacinti and Claus Tjaden, **The Crime of Rape in Denver: A Preliminary Report on the Findings of 965 Cases of Reported Rape in a Two Year Period** (Denver, Colorado, Denver Anti‑Crime Council, 1313 Tremont Place, 1974) p. 3.
 
-[\[414\]](#page-157-3) See Joseph J. Peters, M. D., "Social Psychiatric Study of Victims Repotting Rape," American Psychiatric Association 128th Annual Meeting, Anaheim, California, May 7, 1975. This study conducted at the Philadelphia Center for Rape Concern in 1973 showed that of the sample group of 369 reported rape cases, 78 percent of the child victims and 62 percent of the adolescent victims knew their attackers. Only 29 percent of reported adult victims knew the man or men who raped them. Also Donald J. Mulvihill et al., **Crimes of Violence, A Staff Report to the National Commission on the Causes and Prevention of Violence** (Washington, DC., U. S. Government Printing Office, 1969) Vol. II, p. 217. This study showed that 46 percent of rapists knew or were related to their victims.
+\[414\] See Joseph J. Peters, M. D., "Social Psychiatric Study of Victims Repotting Rape," American Psychiatric Association 128th Annual Meeting, Anaheim, California, May 7, 1975. This study conducted at the Philadelphia Center for Rape Concern in 1973 showed that of the sample group of 369 reported rape cases, 78 percent of the child victims and 62 percent of the adolescent victims knew their attackers. Only 29 percent of reported adult victims knew the man or men who raped them. Also Donald J. Mulvihill et al., **Crimes of Violence, A Staff Report to the National Commission on the Causes and Prevention of Violence** (Washington, DC., U. S. Government Printing Office, 1969) Vol. II, p. 217. This study showed that 46 percent of rapists knew or were related to their victims.
 
-[\[415\]](#page-157-4) See Mulvihill, et al, pp. 209‑12. Also Susan Brownmiller, pp. 210‑55, suggests that the incidence of Black on white rape may actually be up in the 1970's from the late 1950's due to increased racial hostility. Another possibility is the fact that Black women, especially those victimized by white men, are traditionally met with racist as well as sexist cruelties at the hands of police and the courts, and knowing this, they are extremely reluctant to report their victimizations to hospitals or police.
+\[415\] See Mulvihill, et al, pp. 209‑12. Also Susan Brownmiller, pp. 210‑55, suggests that the incidence of Black on white rape may actually be up in the 1970's from the late 1950's due to increased racial hostility. Another possibility is the fact that Black women, especially those victimized by white men, are traditionally met with racist as well as sexist cruelties at the hands of police and the courts, and knowing this, they are extremely reluctant to report their victimizations to hospitals or police.
 
-[\[416\]](#page-157-5) See **Report of the National Advisory Commission on Civil Disorders** (New York, Bantam, 1968) p. 267.
+\[416\] See **Report of the National Advisory Commission on Civil Disorders** (New York, Bantam, 1968) p. 267.
 
-[\[417\]](#page-158-1) See Schwendinger and Schwendinger.
+\[417\] See Schwendinger and Schwendinger.
 
-[\[418\]](#page-158-2) See "She Loves Rape," **Off Our Backs,** May 1975.
+\[418\] See "She Loves Rape," **Off Our Backs,** May 1975.
 
-[\[419\]](#page-158-3) See Brownmiller, pp. 86‑113.
+\[419\] See Brownmiller, pp. 86‑113.
 
-[\[420\]](#page-158-4) See Metro's Rape Awareness Public Education Program, Miami, Florida, After the Rape: A Report Based on Responses from Victim of Sexual Assault, 1974, pp. 18‑26.
+\[420\] See Metro's Rape Awareness Public Education Program, Miami, Florida, After the Rape: A Report Based on Responses from Victim of Sexual Assault, 1974, pp. 18‑26.
 
-[\[421\]](#page-158-5) Juliet Mitchell, Woman's Estate (New York, Vintage, 1971) p. 61.
+\[421\] Juliet Mitchell, Woman's Estate (New York, Vintage, 1971) p. 61.
 
-[\[422\]](#page-159-1) See Evelyn Reed, **Woman's Evolution** (New York Pathfinder Press, 1975) pp. 411‑32. Also Kate Millett, **Sexual Politics (Garden** City, New York, Doubleday, 1970) pp. 33‑35. Also Brownmiller, pp. 281‑82.
+\[422\] See Evelyn Reed, **Woman's Evolution** (New York Pathfinder Press, 1975) pp. 411‑32. Also Kate Millett, **Sexual Politics (Garden** City, New York, Doubleday, 1970) pp. 33‑35. Also Brownmiller, pp. 281‑82.
 
-[\[423\]](#page-160-2) See Andrea Dworkin, **Woman Hating** (New York, Dutton, 1974) PP. 2990. Also Brownmiller, pp. 295‑97, 444‑46.
+\[423\] See Andrea Dworkin, **Woman Hating** (New York, Dutton, 1974) PP. 2990. Also Brownmiller, pp. 295‑97, 444‑46.
 
-[\[424\]](#page-160-3) Paul H. Gebhard, et al, **Sex Offenders: An Analysis of Types** (New York, Harper & Row, 1965) p. 196.
+\[424\] Paul H. Gebhard, et al, **Sex Offenders: An Analysis of Types** (New York, Harper & Row, 1965) p. 196.
 
-[\[425\]](#page-160-4) See Mary Daly, **Beyond God the Father** (Boston, Beacon, 1973) pp. 114‑22, 193‑94.
+\[425\] See Mary Daly, **Beyond God the Father** (Boston, Beacon, 1973) pp. 114‑22, 193‑94.
 
-[\[426\]](#page-161-1) See Edward Schumacher, "Home Called More Violent Than Street," **Washington Post,** February 24, 1976: "No thoro national studies have been done... but according to accumulated scraps of data and a number of limited studies, the problem (violence within the home) is worse than crime on the streets...'We're talking about a couple of million wives getting beat up regularly and don't know what to do about it,' Gelles (researcher at the University of Rhode Island at the American Association for the
+\[426\] See Edward Schumacher, "Home Called More Violent Than Street," **Washington Post,** February 24, 1976: "No thoro national studies have been done... but according to accumulated scraps of data and a number of limited studies, the problem (violence within the home) is worse than crime on the streets...'We're talking about a couple of million wives getting beat up regularly and don't know what to do about it,' Gelles (researcher at the University of Rhode Island at the American Association for the
 
 ## Advancement of Science) said."
 
-- [\[427\]](#page-161-2) Murray A. Straus, Richard J. Gelles, and Suzanne K. Steinmetz, "Violence in the Family: An Assessment of Knowledge and Research Needs," American Association for the Advancement of Science, Boston, Massachusetts, February 23, 1976.
- - [\[428\]](#page-161-3) See Karen De Crow, **Sexist Justice** (New York, Vintage, 1974) pp. 176‑207.
-- [\[429\]](#page-161-4) See Susan Ozzanna, "The Battered Woman's Only Solution," **Majority Report,** February 7, 1976 and S. Harmony Ozzanna, "What's Red and Black and Harbors Women?" Majority Report, February 21, 1976. Also "Violence Against Women: Woman Battering" in Kirsten Grimsted and Susan Rennie, eds., **The New Woman's Survival Sourcebook** (New York, Knopf, 1976). Also Del Martin, **The Battered Wives of America** (San Francisco, Glide Publications, 1975).
+- \[427\] Murray A. Straus, Richard J. Gelles, and Suzanne K. Steinmetz, "Violence in the Family: An Assessment of Knowledge and Research Needs," American Association for the Advancement of Science, Boston, Massachusetts, February 23, 1976.
+ - \[428\] See Karen De Crow, **Sexist Justice** (New York, Vintage, 1974) pp. 176‑207.
+- \[429\] See Susan Ozzanna, "The Battered Woman's Only Solution," **Majority Report,** February 7, 1976 and S. Harmony Ozzanna, "What's Red and Black and Harbors Women?" Majority Report, February 21, 1976. Also "Violence Against Women: Woman Battering" in Kirsten Grimsted and Susan Rennie, eds., **The New Woman's Survival Sourcebook** (New York, Knopf, 1976). Also Del Martin, **The Battered Wives of America** (San Francisco, Glide Publications, 1975).
 
-[\[430\]](#page-162-1) See F. B. I., U. C. R. 1973.
+\[430\] See F. B. I., U. C. R. 1973.
 
-- [\[431\]](#page-162-2) "Police‑Victim Relationships in Sex Crimes Investigation," **Police Chief,** January 1970.
-- [\[432\]](#page-162-3) See Carol Bohmer, "Judicial Attitudes Toward Rape Victims," **Judicature**, February 1974. Also "The Least Punished Crime," **National Affairs**, December 18, 1972.
-- [\[433\]](#page-162-4) See Washington, D. C. Institute of Law & Social Research, 1974. Also D. C. City Council, "Report of the Public Safety Committee Task Force on Rape," 1973.
-- [\[434\]](#page-162-5) See "Corroborating Charges of Rape," **Columbia Law Review,** June 1967. Also "Corroboration Rules & Crimes Accompanying a Rape," **University of Pennsylvania Law Review**, January 1970.
-- [\[435\]](#page-162-6) Richard A. Hibey, "The Trial of a Rape Case: An Advocate's Analysis of Corroboration, Consent, and Character," **The American Criminal Law Review,** Vol. 11, 1973.
+- \[431\] "Police‑Victim Relationships in Sex Crimes Investigation," **Police Chief,** January 1970.
+- \[432\] See Carol Bohmer, "Judicial Attitudes Toward Rape Victims," **Judicature**, February 1974. Also "The Least Punished Crime," **National Affairs**, December 18, 1972.
+- \[433\] See Washington, D. C. Institute of Law & Social Research, 1974. Also D. C. City Council, "Report of the Public Safety Committee Task Force on Rape," 1973.
+- \[434\] See "Corroborating Charges of Rape," **Columbia Law Review,** June 1967. Also "Corroboration Rules & Crimes Accompanying a Rape," **University of Pennsylvania Law Review**, January 1970.
+- \[435\] Richard A. Hibey, "The Trial of a Rape Case: An Advocate's Analysis of Corroboration, Consent, and Character," **The American Criminal Law Review,** Vol. 11, 1973.
 
-[\[436\]](#page-162-7) Connell and Wilson, pp. 144‑63.
+\[436\] Connell and Wilson, pp. 144‑63.
 
-- [\[437\]](#page-164-1) Connell and Wilson print the model statute in its entirety, pp. 164‑69.
-- [\[438\]](#page-165-3) "Rape Victim Wins," **Danbury, Connecticut News‑Times**, February 3, 1976.
-- [\[439\]](#page-165-4) See Nancy Gager and Cathleen Schurr, **Sexual Assault: Confronting Rape in America** (New York, Grosset & Dunlap, 1976) pp. 190‑96.
+- \[437\] Connell and Wilson print the model statute in its entirety, pp. 164‑69.
+- \[438\] "Rape Victim Wins," **Danbury, Connecticut News‑Times**, February 3, 1976.
+- \[439\] See Nancy Gager and Cathleen Schurr, **Sexual Assault: Confronting Rape in America** (New York, Grosset & Dunlap, 1976) pp. 190‑96.
 
-[\[440\]](#page-166-2) F. B. I. U. C. R., 1973.
+\[440\] F. B. I. U. C. R., 1973.
 
-- [\[441\]](#page-166-3) Marvin E. Wolfgang and Anthony Amsterdam, "The Death Penalty," **New York Times Magazine,** October 28, 1973.
-- [\[442\]](#page-166-4) "Death Row Census," American Civil Liberties Union Capital Punishment Memorandum, March 29, 1976.
-- [\[443\]](#page-166-5) See U. S. Department of Justice, "Capital Punishment," **National Prisoner Statistics Bulletin** Number 46, August 1971.
-- [\[444\]](#page-166-6) See Carl Weiss and David James Friar, "Terror in the Prisons: A Report," Fortune News, April 1974. Also William Stanley Cape, "Prison Sex: Absence of Choice," Fortune News, April 1974.
-- [\[445\]](#page-167-1) See Yolanda Bako, N. O. W. Rape Prevention Committee, "Consciousness Raising Topics on How the Fear of Rape Constricts Our Lives," mimeograph sheet. (Available from N. O. W. New York City Chapter. 47 East Nineteenth Street, New York, New York 10003.)
-- [\[446\]](#page-167-2) For a detailed account of the development of the anti‑rape movement, see Gager and Schurr, pp. 257‑75. Also June Bundy Csida and Joseph Csida, Rape, How to Avoid It and What to Do about It if You Can't (Chatsworth, California, Books for Better Living, 1974) pp.133‑66.
+- \[441\] Marvin E. Wolfgang and Anthony Amsterdam, "The Death Penalty," **New York Times Magazine,** October 28, 1973.
+- \[442\] "Death Row Census," American Civil Liberties Union Capital Punishment Memorandum, March 29, 1976.
+- \[443\] See U. S. Department of Justice, "Capital Punishment," **National Prisoner Statistics Bulletin** Number 46, August 1971.
+- \[444\] See Carl Weiss and David James Friar, "Terror in the Prisons: A Report," Fortune News, April 1974. Also William Stanley Cape, "Prison Sex: Absence of Choice," Fortune News, April 1974.
+- \[445\] See Yolanda Bako, N. O. W. Rape Prevention Committee, "Consciousness Raising Topics on How the Fear of Rape Constricts Our Lives," mimeograph sheet. (Available from N. O. W. New York City Chapter. 47 East Nineteenth Street, New York, New York 10003.)
+- \[446\] For a detailed account of the development of the anti‑rape movement, see Gager and Schurr, pp. 257‑75. Also June Bundy Csida and Joseph Csida, Rape, How to Avoid It and What to Do about It if You Can't (Chatsworth, California, Books for Better Living, 1974) pp.133‑66.
 
-[\[447\]](#page-168-2) See Gager and Schurr, pp. 271‑72.
+\[447\] See Gager and Schurr, pp. 271‑72.
 
-- [\[448\]](#page-169-1) Material in this section based on Mary Ann Largen, et al., "How to Start A Rape Crisis Center," in Marcia J. Walker, ed., **Rape: Research, Action, Prevention,** Proceedings of the Sixth Alabama Symposium on Justice and the Behavioral Sciences (University of Alabama, Center for Correctional Psychology, May 1975) Report No. 29, pp. 127‑31. Also Rape Center Women, "How to Start a Rape Crisis Center," P. O. Box 21005, Kalorama Street Station, Washington, D. C., August 1972. Also Women's Crisis Center, "How to Organize a Women's Crisis‑Service Center," 306 North Division Street, Ann Arbor, Michigan 48108.
-- [\[449\]](#page-169-2) Prepared by the National Crime Panel of the National Criminal Justice Information Statistics Service, May 1975. Available from U. S. Department of Justice, Law Enforcement Assistance Administration, National Criminal Justice Reference Service, Washington, D. C. 20530
-- [\[450\]](#page-170-1) Material on BAWAR is from Grinsted and Rennie, p. 148; Gager and Schurr, p. 264; Csida and Csida, pp. 149‑50; and telephone interview with staffperson Robin Wells, May 17, 1976. BAWAR publications, available from P. O. Box 240, Berkeley, California 94701 (phone 415 845‑RAPE), include: "Medical Protocol for Emergency Room Treatment of Rape Victims," "Sisters: If you Sometimes Hitchhike, Please Read This," "Organize Your Neighborhood and Prevent Crime," "Hands Off: Rape Prevention and Survival."
- - [\[451\]](#page-170-2) Gager and Schurr, p. 264.
- - [\[452\]](#page-171-2) Grimsted and Rennie, p. 147.
- - [\[453\]](#page-171-3) "Rape Reparations," **Off Our Backs,** April 1976 (Reprinted from **Pandora).**
-- [\[454\]](#page-172-2) From "National News Notes Tennessee," **Feminist Alliance against Rape Newsletter,** September/October 1974.
- - [\[455\]](#page-172-3) From "March on Safety," **Majority Report,** November 29‑December 13, 1975.
-- [\[456\]](#page-172-4) **Ibid.** Also Kathleen Hendrix, "Women Take the Offensive on Rapists," Los Angeles Times, December 8, 1974. Also "Know Your Local Rapist," **Majority Report,** regular column.
+- \[448\] Material in this section based on Mary Ann Largen, et al., "How to Start A Rape Crisis Center," in Marcia J. Walker, ed., **Rape: Research, Action, Prevention,** Proceedings of the Sixth Alabama Symposium on Justice and the Behavioral Sciences (University of Alabama, Center for Correctional Psychology, May 1975) Report No. 29, pp. 127‑31. Also Rape Center Women, "How to Start a Rape Crisis Center," P. O. Box 21005, Kalorama Street Station, Washington, D. C., August 1972. Also Women's Crisis Center, "How to Organize a Women's Crisis‑Service Center," 306 North Division Street, Ann Arbor, Michigan 48108.
+- \[449\] Prepared by the National Crime Panel of the National Criminal Justice Information Statistics Service, May 1975. Available from U. S. Department of Justice, Law Enforcement Assistance Administration, National Criminal Justice Reference Service, Washington, D. C. 20530
+- \[450\] Material on BAWAR is from Grinsted and Rennie, p. 148; Gager and Schurr, p. 264; Csida and Csida, pp. 149‑50; and telephone interview with staffperson Robin Wells, May 17, 1976. BAWAR publications, available from P. O. Box 240, Berkeley, California 94701 (phone 415 845‑RAPE), include: "Medical Protocol for Emergency Room Treatment of Rape Victims," "Sisters: If you Sometimes Hitchhike, Please Read This," "Organize Your Neighborhood and Prevent Crime," "Hands Off: Rape Prevention and Survival."
+ - \[451\] Gager and Schurr, p. 264.
+ - \[452\] Grimsted and Rennie, p. 147.
+ - \[453\] "Rape Reparations," **Off Our Backs,** April 1976 (Reprinted from **Pandora).**
+- \[454\] From "National News Notes Tennessee," **Feminist Alliance against Rape Newsletter,** September/October 1974.
+ - \[455\] From "March on Safety," **Majority Report,** November 29‑December 13, 1975.
+- \[456\] **Ibid.** Also Kathleen Hendrix, "Women Take the Offensive on Rapists," Los Angeles Times, December 8, 1974. Also "Know Your Local Rapist," **Majority Report,** regular column.
 
-[\[457\]](#page-172-5) Joan Goldman, "Boys on the Street‑Be Warned," Majority Report, July 20, 1975. Also "Campaign Against Street Harassment‑To Whom It May Concern" mimeograph sheet. Available from Women's Center, 243 West 20th Street, New York, New York 10011.
+\[457\] Joan Goldman, "Boys on the Street‑Be Warned," Majority Report, July 20, 1975. Also "Campaign Against Street Harassment‑To Whom It May Concern" mimeograph sheet. Available from Women's Center, 243 West 20th Street, New York, New York 10011.
 
-[\[458\]](#page-172-6) Kathy Barry, Debbie Frederick, et al., Stop Rape, pamphlet, Detroit Women Against Rape, 1971, pp. 43‑44.
+\[458\] Kathy Barry, Debbie Frederick, et al., Stop Rape, pamphlet, Detroit Women Against Rape, 1971, pp. 43‑44.
 
-[\[459\]](#page-172-7) From telephone interview with Andrea Ignatoff of ZAP Tactics, May 17, 1976.
+\[459\] From telephone interview with Andrea Ignatoff of ZAP Tactics, May 17, 1976.
 
-[\[460\]](#page-172-8) See Daly, pp. 169‑70. Also Bob Lamm, "The Men's Movement Hype," Changing Men, newsletter of the Portland, Oregon Men's Resource Center, December 1975, pp. 16‑19; Also Redstockings, "Feminist Revolution," 1975, P. O. Box 413, New Paltz, New York 12561; Also Los Angeles Men's Collective, "Statement of the Los Angeles Men's Collective," **Changing Men,** March 1976, pp. 29‑30.
+\[460\] See Daly, pp. 169‑70. Also Bob Lamm, "The Men's Movement Hype," Changing Men, newsletter of the Portland, Oregon Men's Resource Center, December 1975, pp. 16‑19; Also Redstockings, "Feminist Revolution," 1975, P. O. Box 413, New Paltz, New York 12561; Also Los Angeles Men's Collective, "Statement of the Los Angeles Men's Collective," **Changing Men,** March 1976, pp. 29‑30.
 
-[\[461\]](#page-173-1) See Alan J. Davis, "Sexual Assaults in the Philadelphia Prison System," Gagnon and Simons, eds., **The Sexual Scene** (Chicago, Transaction/Aldine, 1970) pp. 107‑24.
+\[461\] See Alan J. Davis, "Sexual Assaults in the Philadelphia Prison System," Gagnon and Simons, eds., **The Sexual Scene** (Chicago, Transaction/Aldine, 1970) pp. 107‑24.
 
-[\[462\]](#page-173-2) See "Rapists As Victims?" NEPA News, March 1975. Also David Rothenberg, "Punishment + Punishment = Crime," Fortune, December 1974. Also H. Jack Griswold, Mike Misenheimer, et al., An Eye for an Eye, pp. 142‑43.
+\[462\] See "Rapists As Victims?" NEPA News, March 1975. Also David Rothenberg, "Punishment + Punishment = Crime," Fortune, December 1974. Also H. Jack Griswold, Mike Misenheimer, et al., An Eye for an Eye, pp. 142‑43.
 
-[\[463\]](#page-173-3) U. S. Department of Justice, **National Prisoner Statistics: Prisoners Released from State and Federal Institutions,** 1960, Figure B.
+\[463\] U. S. Department of Justice, **National Prisoner Statistics: Prisoners Released from State and Federal Institutions,** 1960, Figure B.
 
-[\[464\]](#page-173-4) See Gager and Schurr, pp. 235‑36.
+\[464\] See Gager and Schurr, pp. 235‑36.
 
-[\[465\]](#page-174-1) From PREAP interview, June 6, 1975, with Dr. Joanne Sterling, Associate Director of the Bernalillo County Mental Health Center and Director of Positive Approaches to Sex Offenders at that time.
+\[465\] From PREAP interview, June 6, 1975, with Dr. Joanne Sterling, Associate Director of the Bernalillo County Mental Health Center and Director of Positive Approaches to Sex Offenders at that time.
 
-[\[466\]](#page-175-1) From telephone interview with Wally Crowe, coordinator Sex Offender Treatment, Alternative House, Inc., April 27, 1976.
+\[466\] From telephone interview with Wally Crowe, coordinator Sex Offender Treatment, Alternative House, Inc., April 27, 1976.
 
-[\[467\]](#page-175-2) **Ibid.**
+\[467\] **Ibid.**
 
-[\[468\]](#page-175-3) Information on the origins and goals of PAR is drawn from "General Information Pamphlet," Prisoners Against Rape, Inc., P. O. Box 25, Lorton, Virginia, 22079. Also Larry Cannon and William Fuller, "Prisoners Against Rape," **Feminist Alliance against Rape Newsletter,** P. O. Box 20133, Washington, D. C. 20009, September/October 1974.
+\[468\] Information on the origins and goals of PAR is drawn from "General Information Pamphlet," Prisoners Against Rape, Inc., P. O. Box 25, Lorton, Virginia, 22079. Also Larry Cannon and William Fuller, "Prisoners Against Rape," **Feminist Alliance against Rape Newsletter,** P. O. Box 20133, Washington, D. C. 20009, September/October 1974.
 
-[\[469\]](#page-176-2) See Gager and Schurr, pp. 253‑54.
+\[469\] See Gager and Schurr, pp. 253‑54.
 
-[\[470\]](#page-176-3) See "The Experimental Phase of the BEAD Program for Sex Offenders at the Minnesota Security Hospital, 1974–1975," mimeograph paper available from BEAD, MSH, St. Peter, Minnesota 56082.
+\[470\] See "The Experimental Phase of the BEAD Program for Sex Offenders at the Minnesota Security Hospital, 1974–1975," mimeograph paper available from BEAD, MSH, St. Peter, Minnesota 56082.
 
-[\[471\]](#page-177-1) Material in this section based on Geraldine Boozer, "Offender Treatment: Programming Ideas," in Walker, pp. 131‑32.
+\[471\] Material in this section based on Geraldine Boozer, "Offender Treatment: Programming Ideas," in Walker, pp. 131‑32.
 
-[\[472\]](#page-178-2) Vincent De Francis, **Protecting the Child Victims of Sex Crimes Committed by Adults** (American Humane Association, P. O. Box 1226, Denver, Colorado, 1969) p. 37.
+\[472\] Vincent De Francis, **Protecting the Child Victims of Sex Crimes Committed by Adults** (American Humane Association, P. O. Box 1226, Denver, Colorado, 1969) p. 37.
 
-[\[473\]](#page-178-3) Ibid., p. 2.
+\[473\] Ibid., p. 2.
 
-[\[474\]](#page-178-4) See Gager and Schurr, p. 30.
+\[474\] See Gager and Schurr, p. 30.
 
-[\[475\]](#page-178-5) **Ibid.**
+\[475\] **Ibid.**
 
-[\[476\]](#page-178-6) De Francis, p. 1.
+\[476\] De Francis, p. 1.
 
-[\[477\]](#page-179-1) See Gager and Schurr, pp. 29‑57.
+\[477\] See Gager and Schurr, pp. 29‑57.
 
-[\[478\]](#page-179-2) The material in this section is excerpted from Dc Francis.
+\[478\] The material in this section is excerpted from Dc Francis.
 
-[\[479\]](#page-180-2) See Reed, pp. 433‑34, 447‑64.
+\[479\] See Reed, pp. 433‑34, 447‑64.
 
-[\[480\]](#page-180-3) See National Council on Crime and Delinquency, "Some Facts on Juvenile Crime." **Harper's Weekly,** May 9, 1975: Òin 1973... more than nine percent of rape arrests were youngsters under 16 years of age."
+\[480\] See National Council on Crime and Delinquency, "Some Facts on Juvenile Crime." **Harper's Weekly,** May 9, 1975: Òin 1973... more than nine percent of rape arrests were youngsters under 16 years of age."
 
-[\[481\]](#page-182-2) See footnote 28.
+\[481\] See footnote 28.
 
-[\[482\]](#page-182-3) See Richard S. Johnson, "The Child‑Beaters: Sick, but Curable," **The National Observer,** March 24, 1973.
+\[482\] See Richard S. Johnson, "The Child‑Beaters: Sick, but Curable," **The National Observer,** March 24, 1973.
 
-[\[483\]](#page-182-4) See Feminists on Children's Media, "Little Miss Muffet Fights Back," KNOW, Inc., P. O. Box 86031, Pittsburgh. Pennsylvania 15221, 1974. Also Marcia Federbush, "An Action Proposal to Eliminate Sex Discrimination (... in Schools)," KNOW, Inc., 1974: a practical. step‑by‑step handbook.
+\[483\] See Feminists on Children's Media, "Little Miss Muffet Fights Back," KNOW, Inc., P. O. Box 86031, Pittsburgh. Pennsylvania 15221, 1974. Also Marcia Federbush, "An Action Proposal to Eliminate Sex Discrimination (... in Schools)," KNOW, Inc., 1974: a practical. step‑by‑step handbook.
 
-[\[484\]](#page-182-5) See Stanlee Phelps and Nancy Austin, **The Assertive Woman** (Fredericksburg, Virginia, Impact, Book Crafters, 1975).
+\[484\] See Stanlee Phelps and Nancy Austin, **The Assertive Woman** (Fredericksburg, Virginia, Impact, Book Crafters, 1975).
 
-[\[485\]](#page-182-6) See Alyce Mc Adam, "Self‑Defense for Children," mimeograph paper, available from Alyce Mc Adam, 204 SE. 4th Ave., Gainesville, Florida 32601.
+\[485\] See Alyce Mc Adam, "Self‑Defense for Children," mimeograph paper, available from Alyce Mc Adam, 204 SE. 4th Ave., Gainesville, Florida 32601.
 
-[\[486\]](#page-182-7) Gager and Schurr, pp. 61‑62.
+\[486\] Gager and Schurr, pp. 61‑62.
 
-[\[487\]](#page-182-8) See Charlayne Hunter, "Four Seized in Smut Involving Children," **New York Times**, September 20, 1975.
+\[487\] See Charlayne Hunter, "Four Seized in Smut Involving Children," **New York Times**, September 20, 1975.
 
-[\[488\]](#page-183-0) See Scott Christianson, "The War Model in Criminal Justice‑No Substitue for Victory," **Criminal Justice and Behavior, 1,** No. 3, September 1974, pp. 247‑77.
+\[488\] See Scott Christianson, "The War Model in Criminal Justice‑No Substitue for Victory," **Criminal Justice and Behavior, 1,** No. 3, September 1974, pp. 247‑77.
 
-[\[489\]](#page-184-1) Leslie T. Wilkins, "Directions for Corrections," from an address to the American Philosophical Society, November. 1973, quoted in Christianson, p. 266.
+\[489\] Leslie T. Wilkins, "Directions for Corrections," from an address to the American Philosophical Society, November. 1973, quoted in Christianson, p. 266.
 
-[\[490\]](#page-184-2) William Ryan, **Blaming the Victim,** pp. 197‑98.
+\[490\] William Ryan, **Blaming the Victim,** pp. 197‑98.
 
-[\[491\]](#page-184-3) Murray A. Straus, "Sexual Inequality, Cultural Norms, and Wife Beating," paper prepared for International Institute on Victimology," Bellagio, Italy, July 1‑12, 1975, p. 1: "I have documented the available knowledge which suggests, among other things... that if one is truly concerned with the level of violence in America, the place to look is in the home rather than on the streets."
+\[491\] Murray A. Straus, "Sexual Inequality, Cultural Norms, and Wife Beating," paper prepared for International Institute on Victimology," Bellagio, Italy, July 1‑12, 1975, p. 1: "I have documented the available knowledge which suggests, among other things... that if one is truly concerned with the level of violence in America, the place to look is in the home rather than on the streets."
 
-[\[492\]](#page-186-1) Reprinted in Synopsis of Workshop "Media Effect on Crime," October 1974. Conference on Crime and the Minority Community Commission on Racial Justice, United Church of Christ.
+\[492\] Reprinted in Synopsis of Workshop "Media Effect on Crime," October 1974. Conference on Crime and the Minority Community Commission on Racial Justice, United Church of Christ.
 
-[\[493\]](#page-186-2) U. S. Department of Justice, Prosecution of Economic Crime, LEAA, National Institute of Law Enforcement and Criminal Justice, 1975, p. 4.
+\[493\] U. S. Department of Justice, Prosecution of Economic Crime, LEAA, National Institute of Law Enforcement and Criminal Justice, 1975, p. 4.
 
-- [\[494\]](#page-187-0) About 70 percent of all willful killings, nearly two‑thirds of all aggravated assaults, and a high percentage of forcible rapes are committed by family members, friends or other persons previously know to their victims. See President's Commission on Law Enforcement and Administration of Justice, **Task Force Report: Crime and Its Impact‑An Assessment** (Washington, D. C., Government Printing Office) especially Chapters, 2, 5 and 6.
- - [\[495\]](#page-187-1) **Ibid.**
- - [\[496\]](#page-188-1) **Ryan, p.** 198.
- - [\[497\]](#page-188-2) **Maggi Scarf,** "The Anatomy of Fear," **New York Times**, June 16, 1974, p. 10.
-- [\[498\]](#page-189-1) **Crime and the Black Community,** United Church of Christ Commission for Racial Justice, Vol. 2, No. 1, Summer 1975. Material in this section abstracted from this report and the "Synopsis of Community Anti‑Crime Workshop," from the Conference on Crime and the Minority Community, October 1974.
-- [\[499\]](#page-192-1) Material in this section is based on literature published by CLASP, and by the Block Association of West Philadelphia, 632 South 48th Street, Philadelphia, Pennsylvania 19143 (phone 215 GR4‑3008). Also on interviews with David Sherman. CLASP staff person, June 8. 1976 and Margaret Bowman, block association participant. July 2, 1976.
+- \[494\] About 70 percent of all willful killings, nearly two‑thirds of all aggravated assaults, and a high percentage of forcible rapes are committed by family members, friends or other persons previously know to their victims. See President's Commission on Law Enforcement and Administration of Justice, **Task Force Report: Crime and Its Impact‑An Assessment** (Washington, D. C., Government Printing Office) especially Chapters, 2, 5 and 6.
+ - \[495\] **Ibid.**
+ - \[496\] **Ryan, p.** 198.
+ - \[497\] **Maggi Scarf,** "The Anatomy of Fear," **New York Times**, June 16, 1974, p. 10.
+- \[498\] **Crime and the Black Community,** United Church of Christ Commission for Racial Justice, Vol. 2, No. 1, Summer 1975. Material in this section abstracted from this report and the "Synopsis of Community Anti‑Crime Workshop," from the Conference on Crime and the Minority Community, October 1974.
+- \[499\] Material in this section is based on literature published by CLASP, and by the Block Association of West Philadelphia, 632 South 48th Street, Philadelphia, Pennsylvania 19143 (phone 215 GR4‑3008). Also on interviews with David Sherman. CLASP staff person, June 8. 1976 and Margaret Bowman, block association participant. July 2, 1976.
 
-[\[500\]](#page-194-2) David Greenberg, "Problems in Community Corrections," **Issues in Criminology,** Spring 1975, P. 1.
+\[500\] David Greenberg, "Problems in Community Corrections," **Issues in Criminology,** Spring 1975, P. 1.
 
-- [\[501\]](#page-194-3) **Ibid.,** pp. 23‑29.
-- [\[502\]](#page-194-4) **Ibid.**
-- [\[503\]](#page-196-2) This section is based on "Philadelphia's House of Umoja," **New York Times**, February 23, 1976 and an article in **Corrections Magazine,** May/June 1975, pp. 45‑47, as well as an interview by PREAP with Sister Falaka Fattah, June 8, 1976.
-- [\[504\]](#page-198-1) This section is based on Grover Sales, **John Maher of Delancey Street** (New York, Norton, 1976); "Alternatives to Prison: Delancey Street Foundation," **Fortune News,** June 1974; articles in Corrections Magazine, September 1974, July/August 1975; as well as the group's promotional literature.
-- [\[505\]](#page-205-0) This section is based on "Stickin' with the Union: A Brief History of the Prisoners' Union," **NEPA News,** April/ May 1976; "History of the Prisoners' Union," **The Outlaw, January/** February 1973; "Right to Participate," **The Outlaw,** January/ February 1976; and Minnesota Prisoners Union Newsletter, October 1, 1974.
-- [\[506\]](#page-206-0) Subscriptions to **The Outlaw** are available from Prisoners' Union, 1315 18th Street, San Francisco, California 94107 at the following rates: free to prisoners; \$4 students; \$8 regular.
- - [\[507\]](#page-210-1) **Evers v. Davoren,** Massachusetts Supreme Court, October 19, 1974.
- - [\[508\]](#page-210-2) **O'Brien v. Skinner,** 94 Supreme Court 740 (1974).
-- [\[509\]](#page-210-3) David Wm. T. Carroll, "The Voting Booth with Steel Bars: Prisoners' Voting Rights and O'Brien v. Skinner," **Capitol University Law Review** (Columbus, Ohio), Vol. 3 (1974), pp. 245‑65.
-- [\[510\]](#page-210-4) This section is based on an interview with Dave Collins by PREAP, May 27, 1976.
-- [\[511\]](#page-212-2) Charles E. Reasons and Russel L. Kaplan, "Tear Down the Walls? Some Functions of Prisons," **Crime and Delinquency,** October 1975, p. 369.
-- [\[512\]](#page-213-1) **Ibid.,** p. 367. Other unintended prison functions noted: Prisons serve as a training ground for criminals and help provide a supply of criminals sufficient to maintain the criminal justice system. Prisons also sustain professors who deliver lectures on criminal law and write textbooks on criminal law, as well as the whole apparatus of police, detectives, judges, executioners, juries, etc.
-- [\[513\]](#page-213-2) Gabriel Kolko, **The Roots of American Foreign Policy** (Boston, Beacon, 1969) p. xii.
-- [\[514\]](#page-213-3) **Ibid.**
-- [\[515\]](#page-213-4) **Sourcebook of Criminal Justice Statistics‑1974,** U. S. Department of Justice, LEAA, National Criminal Justice Information and Statistice Service, Washington, D. C., July 1975.
-- [\[516\]](#page-214-0) **NACLA Research Methodology Guide,** North American Congress on Latin America, P. O. Box 226, Berkeley, California 94701, or Box 57, Cathedral Park Station, New York City, 10025.
-- [\[517\]](#page-214-1) **The Criminal Justice System in Connecticut,** Connecticut Planning Committee on Criminal Administration, Hartford, Connecticut, 1975. 1976 payroll figures secured by telephone conversation with Public Information Office, Connecticut Planning Committee on Criminal Administration, August 20, 1976.
-- [\[518\]](#page-214-2) Original research on state budgets and funding sources by Robert Martin, Urban Planning Aid, Inc. 639 Massachusetts Avenue, Cambridge, Massachusetts 02139.
-- [\[519\]](#page-216-0) Available from ACA, 4321 Hartwick Road, Suite L208, College Park, Maryland 20740.
+- \[501\] **Ibid.,** pp. 23‑29.
+- \[502\] **Ibid.**
+- \[503\] This section is based on "Philadelphia's House of Umoja," **New York Times**, February 23, 1976 and an article in **Corrections Magazine,** May/June 1975, pp. 45‑47, as well as an interview by PREAP with Sister Falaka Fattah, June 8, 1976.
+- \[504\] This section is based on Grover Sales, **John Maher of Delancey Street** (New York, Norton, 1976); "Alternatives to Prison: Delancey Street Foundation," **Fortune News,** June 1974; articles in Corrections Magazine, September 1974, July/August 1975; as well as the group's promotional literature.
+- \[505\] This section is based on "Stickin' with the Union: A Brief History of the Prisoners' Union," **NEPA News,** April/ May 1976; "History of the Prisoners' Union," **The Outlaw, January/** February 1973; "Right to Participate," **The Outlaw,** January/ February 1976; and Minnesota Prisoners Union Newsletter, October 1, 1974.
+- \[506\] Subscriptions to **The Outlaw** are available from Prisoners' Union, 1315 18th Street, San Francisco, California 94107 at the following rates: free to prisoners; \$4 students; \$8 regular.
+ - \[507\] **Evers v. Davoren,** Massachusetts Supreme Court, October 19, 1974.
+ - \[508\] **O'Brien v. Skinner,** 94 Supreme Court 740 (1974).
+- \[509\] David Wm. T. Carroll, "The Voting Booth with Steel Bars: Prisoners' Voting Rights and O'Brien v. Skinner," **Capitol University Law Review** (Columbus, Ohio), Vol. 3 (1974), pp. 245‑65.
+- \[510\] This section is based on an interview with Dave Collins by PREAP, May 27, 1976.
+- \[511\] Charles E. Reasons and Russel L. Kaplan, "Tear Down the Walls? Some Functions of Prisons," **Crime and Delinquency,** October 1975, p. 369.
+- \[512\] **Ibid.,** p. 367. Other unintended prison functions noted: Prisons serve as a training ground for criminals and help provide a supply of criminals sufficient to maintain the criminal justice system. Prisons also sustain professors who deliver lectures on criminal law and write textbooks on criminal law, as well as the whole apparatus of police, detectives, judges, executioners, juries, etc.
+- \[513\] Gabriel Kolko, **The Roots of American Foreign Policy** (Boston, Beacon, 1969) p. xii.
+- \[514\] **Ibid.**
+- \[515\] **Sourcebook of Criminal Justice Statistics‑1974,** U. S. Department of Justice, LEAA, National Criminal Justice Information and Statistice Service, Washington, D. C., July 1975.
+- \[516\] **NACLA Research Methodology Guide,** North American Congress on Latin America, P. O. Box 226, Berkeley, California 94701, or Box 57, Cathedral Park Station, New York City, 10025.
+- \[517\] **The Criminal Justice System in Connecticut,** Connecticut Planning Committee on Criminal Administration, Hartford, Connecticut, 1975. 1976 payroll figures secured by telephone conversation with Public Information Office, Connecticut Planning Committee on Criminal Administration, August 20, 1976.
+- \[518\] Original research on state budgets and funding sources by Robert Martin, Urban Planning Aid, Inc. 639 Massachusetts Avenue, Cambridge, Massachusetts 02139.
+- \[519\] Available from ACA, 4321 Hartwick Road, Suite L208, College Park, Maryland 20740.
 - {1} Includes staff salaries for guards and other institutional employees. NOTE: From 1962–1963 to 1972–1973: (1) The average daily prison population decreased by nearly 40 percent. (2) The state prison budget increased by almost 150 percent. (3) Per capita cost of incarceration rose by \$8,754. (4) Most of the new positions created in the department were for central office, rather than in the institutions.
 
 Retrieved on 2021-12-09 from [prisonpolicy.org/scans/instead\\_of\\_prisons/](https://www.prisonpolicy.org/scans/instead_of_prisons/)

@@ -39,7 +39,6 @@ With that being said: a significant portion of what I do on the internet is meta
 
 think in public about what I am thinking.
 
-## ![](_page_2_Figure_0.jpeg)
 
 when I convert my thoughts into a vehicle that will make sense to a global, working class audience. I was trained to write in academia. I spent seven years straight in post-secondary education (meaning I began writing for formal, elite, colonial universities from when I was seventeen years old until I was twenty-four). I don't naturally sound conversational on paper anymore! It took a lot of metacognition to figure out how to be easily and widely read to a global readership, especially with so many of you learning English as a second language. I intentionally shape my thoughts around what I have learned to be most effective for your learning (and that process was intentional).
 

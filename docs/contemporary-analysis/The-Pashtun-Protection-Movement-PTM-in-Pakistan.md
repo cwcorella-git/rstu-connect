@@ -398,7 +398,6 @@ Activists use their mobile phones to join closed groups on social media in which
 
 ## — Interviewee 6, PTM coordinator in Islamabad
 
-## ![](_page_26_Figure_0.jpeg)
 
 ## Map 1. Locations of PTM Jalsas in 2018-2020
 
@@ -442,7 +441,6 @@ In Peshawar city, the PTM has created the Friday Circles initiative, where they 
 
 25 Interview with Interviewee 5, September 10, 2018.
 
-## ![](_page_29_Figure_0.jpeg)
 
 FIGURE 8: Tweet by PTM Leader Mohsin Dawar.
 
@@ -621,7 +619,6 @@ The state and its foreign allies launched several operations in the tribal areas
 
 Pashtun IDPs have faced dicultynding new places to live due to the state's narrative that labeled Pashtuns as terrorists In 2014, the provincial governments of Punjab and Sindh banned the entry of tribal Pashtun IDPs into their territories They claimed that the Taliban would infiltrate their provinces by hiding among tribal civilians In another case of
 
-## ![](_page_43_Figure_0.jpeg)
 
 MAP 2. The Seven Former FATA Regions on the Pakistan–Afghanistan Border
 
@@ -794,4 +791,3 @@ International Center on Nonviolent Conict 600 New Hampshire Ave NW, Suite 710 Wa
 
 www.nonviolent-conflict.org
 
-## ![](_page_53_Figure_6.jpeg)

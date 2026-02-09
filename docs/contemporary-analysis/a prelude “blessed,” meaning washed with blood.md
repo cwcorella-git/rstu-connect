@@ -119,7 +119,6 @@ But the so-called state of Israel said, oh Bangladesh, we'd like to recognize yo
 
 . And Bangladesh returned their correspondence and said,
 
-## ![](_page_8_Figure_0.jpeg)
 
 Get to writing ismatu. God gave you a staff and called it a pen. You save your own life in the writing, ismatu. Other people have stones for grief; they get to wallow. You have to grow your seeds. It's time, ismatu. Get up. Get up. Get up.
 
@@ -137,7 +136,6 @@ So then it is imperative that I ask us, that I beseech us, and that I create pat
 
 These people under the rubble,
 
-## ![](_page_10_Figure_0.jpeg)
 
 ## | New York Times
 

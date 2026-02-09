@@ -10,17 +10,17 @@ tags:
 ---
 
 
-**Ruth Wyler Messinger** (born November 6, 1940)[\[3\]](#page-2-0) is a former American political leader in New York City and a member of the [Democratic Party.](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)) She was the Democratic nominee for [Mayor of New York City](https://en.wikipedia.org/wiki/Mayor_of_New_York_City) in [1997,](https://en.wikipedia.org/wiki/1997_New_York_City_mayoral_election) losing to incumbent mayor [Rudy Giuliani.](https://en.wikipedia.org/wiki/Rudy_Giuliani)
+**Ruth Wyler Messinger** (born November 6, 1940)\[3\] is a former American political leader in New York City and a member of the [Democratic Party.](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)) She was the Democratic nominee for [Mayor of New York City](https://en.wikipedia.org/wiki/Mayor_of_New_York_City) in [1997,](https://en.wikipedia.org/wiki/1997_New_York_City_mayoral_election) losing to incumbent mayor [Rudy Giuliani.](https://en.wikipedia.org/wiki/Rudy_Giuliani)
 
 # **Biography**
 
 ### **Life**
 
-Born and raised in New York, Messinger attended the [Brearley School.](https://en.wikipedia.org/wiki/Brearley_School) She graduated from Radcliff[e College](https://en.wikipedia.org/wiki/Radcliffe_College) of [Harvard University](https://en.wikipedia.org/wiki/Harvard_University) in 1962[,\[4\]](#page-2-1) and received a Master of Social Work from the [University of Oklahoma](https://en.wikipedia.org/wiki/University_of_Oklahoma) in 1964. She is married to Andrew Lachman, her second husband, and has three children.
+Born and raised in New York, Messinger attended the Brearley School.](https://en.wikipedia.org/wiki/Brearley_School) She graduated from Radcliff[e College](https://en.wikipedia.org/wiki/Radcliffe_College) of [Harvard University](https://en.wikipedia.org/wiki/Harvard_University) in 1962[,\[4\] and received a Master of Social Work from the [University of Oklahoma](https://en.wikipedia.org/wiki/University_of_Oklahoma) in 1964. She is married to Andrew Lachman, her second husband, and has three children.
 
 ## **Politics**
 
-Messinger was a delegate to the [1980 Democratic National](https://en.wikipedia.org/wiki/1980_Democratic_National_Convention) [Convention](https://en.wikipedia.org/wiki/1980_Democratic_National_Convention) and served on the [New York City Council](https://en.wikipedia.org/wiki/New_York_City_Council) from 1978 to 1989, representing the [Upper West Side](https://en.wikipedia.org/wiki/Upper_West_Side) of Manhattan. In the City Council, she proposed extending [rent control](https://en.wikipedia.org/wiki/Rent_control) from individuals to businesses. From 1990 to 1998, she served as Manhattan borough president, an office she gave up to unsuccessfully run for mayor in the 1997 election. Her candidacy made her the city's first female Democratic mayoral candidate.[\[5\]](#page-2-2)
+Messinger was a delegate to the 1980 Democratic National](https://en.wikipedia.org/wiki/1980_Democratic_National_Convention) [Convention](https://en.wikipedia.org/wiki/1980_Democratic_National_Convention) and served on the [New York City Council](https://en.wikipedia.org/wiki/New_York_City_Council) from 1978 to 1989, representing the [Upper West Side](https://en.wikipedia.org/wiki/Upper_West_Side) of Manhattan. In the City Council, she proposed extending [rent control](https://en.wikipedia.org/wiki/Rent_control) from individuals to businesses. From 1990 to 1998, she served as Manhattan borough president, an office she gave up to unsuccessfully run for mayor in the 1997 election. Her candidacy made her the city's first female Democratic mayoral candidate.[\[5\]
 
 A political [liberal,](https://en.wikipedia.org/wiki/American_Liberalism) Messinger was known for her advocacy on behalf of public schools, efforts to achieve compromise between developers and neighborhood activists, and her aggressive media work. She is pro-choice and opposes the death penalty. During her 1997 campaign, she was nearly forced into a Democratic primary runoff with Reverend [Al](https://en.wikipedia.org/wiki/Al_Sharpton) [Sharpton,](https://en.wikipedia.org/wiki/Al_Sharpton) but avoided it by receiving 40% of the vote during a recount. She ultimately lost to Giuliani but
 
@@ -59,7 +59,7 @@ York, U. S.
 
 **Other political** [Democratic Socialists of](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America)
 
-**affiliations** [America](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America)[\[1\]](#page-1-0)[\[2\]](#page-1-1)
+**affiliations** America](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America)[\[1\]\[2\]
 
 
 Messinger at a [Democratic Socialists](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America) [of America](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America) caucus held at the [1980](https://en.wikipedia.org/wiki/1980_DNC) [DNC](https://en.wikipedia.org/wiki/1980_DNC)
@@ -67,7 +67,7 @@ Messinger at a [Democratic Socialists](https://en.wikipedia.org/wiki/Democratic_
 
 ## Messinger in 2012
 
-received more than 500,000 votes[.\[5\]](#page-2-2)
+received more than 500,000 votes.\[5\]
 
 | Spouse | Andrew Lachman |
 |-----------|------------------------------------------------------------|
@@ -80,13 +80,13 @@ In 2005, Messinger endorsed [Fernando Ferrer](https://en.wikipedia.org/wiki/Fern
 
 ### **Post-political career**
 
-From 1998 until 2016 she was President and CEO of [American](https://en.wikipedia.org/wiki/American_Jewish_World_Service) [Jewish World Service](https://en.wikipedia.org/wiki/American_Jewish_World_Service) before transitioning to an Ambassador role with the organization[.\[6\]](#page-2-3)
+From 1998 until 2016 she was President and CEO of American](https://en.wikipedia.org/wiki/American_Jewish_World_Service) [Jewish World Service](https://en.wikipedia.org/wiki/American_Jewish_World_Service) before transitioning to an Ambassador role with the organization[.\[6\]
 
-In late 2005, following a high-profile year that included the Asian tsunami and [Hurricane Katrina,](https://en.wikipedia.org/wiki/Hurricane_Katrina) *[The Forward](https://en.wikipedia.org/wiki/The_Forward)*, a Jewish newspaper based in New York City, named her to the top of its annual "Forward Fifty" list of the most influential [American](https://en.wikipedia.org/wiki/American_Jews) [Jews.](https://en.wikipedia.org/wiki/American_Jews) Messinger is also a board member of [Hazon](https://en.wikipedia.org/wiki/Hazon) and a trustee emerita of the [Jewish Foundation for Education of Women.](https://en.wikipedia.org/wiki/Jewish_Foundation_for_Education_of_Women)[\[3\]](#page-2-0) In 2015 she was named as one of *[The Forward](https://en.wikipedia.org/wiki/The_Forward)* 50.[\[7\]](#page-2-4)
+In late 2005, following a high-profile year that included the Asian tsunami and Hurricane Katrina,](https://en.wikipedia.org/wiki/Hurricane_Katrina) *[The Forward](https://en.wikipedia.org/wiki/The_Forward)*, a Jewish newspaper based in New York City, named her to the top of its annual "Forward Fifty" list of the most influential [American](https://en.wikipedia.org/wiki/American_Jews) [Jews.](https://en.wikipedia.org/wiki/American_Jews) Messinger is also a board member of [Hazon](https://en.wikipedia.org/wiki/Hazon) and a trustee emerita of the [Jewish Foundation for Education of Women.](https://en.wikipedia.org/wiki/Jewish_Foundation_for_Education_of_Women)[\[3\] In 2015 she was named as one of *The Forward](https://en.wikipedia.org/wiki/The_Forward)* 50.[\[7\]
 
 Messinger serves as the inaugural Social Justice Fellow at the [Jewish Theological Seminary of America](https://en.wikipedia.org/wiki/Jewish_Theological_Seminary_of_America) and the Social Justice Activist-in-Residence at the [JCC of Manhattan.](https://en.wikipedia.org/wiki/Jewish_Community_Center#Locations)
 
-In 2020, she served on incoming [Queens Borough President](https://en.wikipedia.org/wiki/Queens_Borough_President) [Donovan Richards](https://en.wikipedia.org/wiki/Donovan_Richards)' transition team.[\[8\]](#page-2-5)
+In 2020, she served on incoming Queens Borough President](https://en.wikipedia.org/wiki/Queens_Borough_President) [Donovan Richards](https://en.wikipedia.org/wiki/Donovan_Richards)' transition team.[\[8\]
 
 # **References**
 

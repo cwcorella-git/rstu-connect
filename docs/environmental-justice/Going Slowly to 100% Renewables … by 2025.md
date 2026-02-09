@@ -29,7 +29,6 @@ doomsday
 
 ## hothouse Earth
 
-## ![](_page_1_Figure_0.jpeg)
 
 | It's no wonder, therefore, that many Green New Deal supporters call for 100% WWS |
 |-------------------------------------------------------------------------------------------------------------------------------|

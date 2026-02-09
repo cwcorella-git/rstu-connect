@@ -984,8 +984,6 @@ It is because the Spanish libertarian movement was based on this kind of concret
 7 Betraying his anarchist allies who collaborated in his government, the Generalidad of Catalonia, Companys joined the counter-revolutionary alliance. During the tragic May Days of 1937 Companys aided and abetted the assault to dislodge the CNT from its stronghold in Barcelona collaborating with the Communists, the bourgeoisie and the C. P. dominated UGT to destroy the Catalonian collectives. — *Ed*.
 
 
-## ![](_page_73_Figure_0.jpeg)
-
 "The following map locates a number of areas, cities, and villages mentioned in this book. A complete listing is not intended. 'The Levant' refers to the eastern coast of Spain from Murcia to Valencia."
 
 ## **Chapter 5: The Economics of Revolution**

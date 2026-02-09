@@ -21,33 +21,17 @@ CRAFT TRAPS, CREATE DISTRACTIONS, AND LEVERAGE SYSTEMIC BEHAVIORS TO SNEAK AMONG
 
 ### THE GAME STRUCTURE - "GO WITH THE FLOW"
 
-## ![](_page_2_Figure_1.jpeg)
 
 # THE WORLD - "RIVERLANDS" RIVERLANDS; YOU NEVER KNOW WHAT EVENTS WILL TRANSPIRE ON THIS LONG AND LONELY JOURNEY HOME. CURIOSITY IS LYING IN WAIT FOR EVERY SECRET. THE MOLASSES FLOOD
 
-## ![](_page_4_Figure_0.jpeg)
-
-## ![](_page_5_Figure_0.jpeg)
-
-## ![](_page_6_Figure_0.jpeg)
 
 KS, PLAYER RAFT / PREPRODUCTION UNWRAP, FPO DIFFUSE / RIVER GAME ASSET SHEET, 6/2014
-
-
-## ![](_page_10_Figure_0.jpeg)
-
-## ![](_page_11_Figure_0.jpeg)
-
-
-## ![](_page_13_Figure_2.jpeg)
 
 
 ## Chuck Ragan
 
 ## By NICK MURRAY
 
-
-## ![](_page_13_Figure_8.jpeg)
 
 #### Bryn Bennett; Mathrock/Tech/Founder
 

@@ -81,7 +81,6 @@ The Higaonon people believe in a variety of deities, namely:
 
 ## A Bagobo chief (matanum)
 
-## ![](_page_2_Figure_13.jpeg)
 
 ## Map of Lumad in Mindanao Islands
 

@@ -104,7 +104,6 @@ We also saw lower quality in one of the tasks in the LLM-based Search Study [25]
 
 The search question the AI got wrong is an example of a task on the other side of the "technological frontier" [10], unlike most of the tasks considered in this report for which we hypothesized the early version of these tools presented strong aptitude for AI assistance. Future work that examines a broader set of tasks and more representative work environments will likely involve more
 
-## ![](_page_3_Figure_10.jpeg)
 
 Figure 1: A summary of speed results from some of the studies. The gray bars, all normalized to 100%, indicate performance of the study groups that did not have access to an LLM-based productivity tool. The black bars indicate the percentage of time those with access to a tool took relative to those without access.
 

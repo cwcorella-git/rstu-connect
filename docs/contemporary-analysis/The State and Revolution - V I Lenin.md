@@ -900,7 +900,7 @@ Here "quantity turns into quality": such a degree of democracy implies overstepp
 
 Given these economic preconditions, it is quite possible, after the overthrow of the capitalists and the bureaucrats, to proceed immediately, overnight, to replace them in the control over production and distribution, in the work of keeping account of labor and products, by the armed workers, by the whole of the armed population. (The question of control and accounting should not be confused with the question of the scientifically trained staff of engineers, agronomists, and so on. These gentlemen are working today in obedience to the wishes of the capitalists and will work even better tomorrow in obedience to the wishes of the armed workers.)
 
-Accounting and control - that is mainly what is needed for the "smooth working", for the proper functioning, of the first phase of communist society. All citizens are transformed into hired employees of the state, which consists of the armed workers. All citizens becomes employees and workers of a single countrywide state "syndicate". All that is required is that they should work equally, do their proper share of work, and get equal pay. the accounting nd control necessary for this have been simplified by capitalism to the utmost and reduced to the extraordinarily simple operations - which any literate person can perform - of supervising and recording, knowledge of the four rules of arithmetic, and issuing appropriate receipts.[\[1\]](#page-88-1)
+Accounting and control - that is mainly what is needed for the "smooth working", for the proper functioning, of the first phase of communist society. All citizens are transformed into hired employees of the state, which consists of the armed workers. All citizens becomes employees and workers of a single countrywide state "syndicate". All that is required is that they should work equally, do their proper share of work, and get equal pay. the accounting nd control necessary for this have been simplified by capitalism to the utmost and reduced to the extraordinarily simple operations - which any literate person can perform - of supervising and recording, knowledge of the four rules of arithmetic, and issuing appropriate receipts.\[1\]
 
 When the majority of the people begin independently and everywhere to keep such accounts and exercise such control over the capitalists (now converted into employees) and over the intellectual gentry who preserve their capitalist habits, this control will really become universal, general, and popular; and there will be no getting away from it, there will be "nowhere to go".
 
@@ -916,7 +916,7 @@ Then the door will be thrown wide open for the transition from the first phase o
 
 ### Footnotes
 
-[\[1\]](#page-88-1) When the more important functions of the state are reduced to such accounting and control by the workers themselves, it will cease to be a "political state" and "public functions will lose their political character and become mere administrative functions" (cf. above, Chapter IV, 2, Engels' controversy with the anarchists\).
+\[1\] When the more important functions of the state are reduced to such accounting and control by the workers themselves, it will cease to be a "political state" and "public functions will lose their political character and become mere administrative functions" (cf. above, Chapter IV, 2, Engels' controversy with the anarchists\).
 
 # The Vulgarisation of Marxism by the Opportunists
 

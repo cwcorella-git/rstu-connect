@@ -31,7 +31,6 @@ Thecurrent Declaration of principleshas two shortcomings: the language is unnece
 THE UMEÅ LOCAL Joakim 3 years 9 months ago In reply to Welcomebylibcom.org SAC members can read more about the Congress here:
 ## Fozzie
 
-## ![](_page_3_Figure_0.jpeg)
 
 | In reply to Welcomebylibcom.org |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|

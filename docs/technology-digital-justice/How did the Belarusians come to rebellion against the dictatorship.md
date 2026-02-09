@@ -105,4 +105,3 @@ There are calls in the telegram for direct democracy in the country on major cha
 
 ## Source: pramen.io rat
 
-## ![](_page_8_Figure_0.jpeg)

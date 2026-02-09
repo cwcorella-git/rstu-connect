@@ -19,8 +19,6 @@ Remember, this is the tip of the iceberg. We can't know how many similar project
 
 Many have championed the internet as an opportunity to create new [commons,](https://en.wikipedia.org/wiki/Commons) resources that can be shared rather than privately owned. But faced with the increasing state and corporate power over the structures through which we interact online, we have to consider the dystopian possibility that the internet represents a new enclosure of the commons: the channeling of communication into formats that can be mapped, patrolled, and controlled.
 
-## ![](_page_1_Figure_4.jpeg)
-
 
 ## [We told you so](https://crimethinc.com/2012/04/30/poster-series-what-does-democracy-mean)
 

@@ -217,7 +217,6 @@ Chief of staff [José Dirceu,](https://en.wikipedia.org/wiki/Jos%C3%A9_Dirceu) L
 
 Lula and his wife [Marisa Letícia](https://en.wikipedia.org/wiki/Marisa_Let%C3%ADcia_Lula_da_Silva) review troops during the 2007 [Independence Day](https://en.wikipedia.org/wiki/Independence_Day_(Brazil)) military parade.
 
-## ![](_page_7_Figure_4.jpeg)
 
 Brazil's deforestation rate declined during Lula's time in office, and reversed under Bolsonaro.[\[81\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-Axios_20221031-81)[\[82\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-Terra Brasilis_1988-82)
 

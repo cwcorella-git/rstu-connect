@@ -94,10 +94,4 @@ What's next?
 
 Over the coming weeks, organizers on the outside with IWOC and FTP will be gathering correspondence from the inside and releasing periodical updates, coupled with individualized support campaigns, as we have been doing over the past 2 years. Several hundred strike support yard signs were printed for statewide distribution and a new phone zap campaign has been released . The DOC is pretending to ignore Operation PUSH by issuing meaningless statements and attempting to confuse people over canteen prices (citing the cost of a single soup, when prisoners' statement referred to cost for a case.) Make no mistake. They are far from ignoring the strikers, and it is far from over. January 15 in Florida was a major step in building up the movement to end prison slavery that is brewing on a national scale. It has sown seeds for the months ahead. Prisoners in Texas have already called for renewing the celebration of the Juneteenth abolitionist holiday and spreading it into prisons worldwide. We are considering Operation PUSH as important and necessary groundwork for making that successful. In the meantime, keep in touch via Support Prisoners And Real Change , Incarcerated Workers Organizing Committee , and Fight Toxic Prisoners
 
-## ![](_page_6_Figure_0.jpeg)
 
-## ![](_page_7_Figure_0.jpeg)
-
-## ![](_page_8_Figure_0.jpeg)
-
-## ![](_page_9_Figure_0.jpeg)

@@ -636,11 +636,9 @@ Images and ideologies ('culture' fragmented and specialized) Principles (ethics,
 
 #### Illusions and myths related to ideology and to current rhetoric
 
-## ![](_page_109_Figure_7.jpeg)
 
 #### Emotional projections consolidating make-believe or actualized as adaptation
 
-## ![](_page_109_Figure_9.jpeg)
 
 where we discover sub-systems that make possible the functional organization of everyday life and its subjection to compulsions that are anything but unselsh. Let it be remembered that our aim is to prove that a system of everyday life does not exist, notwithstanding all the endeavours to establish and settle it for good and all, and that there are only sub-systems separated by irreducible gaps, yet situated on one plane and related to it.
 
@@ -988,7 +986,6 @@ We are far from having brought the sociology of writing to a successful issue, o
 
 We have not yet nearly achieved the complete sequence:
 
-## ![](_page_185_Figure_4.jpeg)
 
 rationality becoming static in bureaucracy after the pattern of Scripture and giving rise to a terrorist society.
 

@@ -123,7 +123,6 @@ Movements have further proven adept at protecting democracy when it is attacked,
 
 # Graph 1. Success Rates of Nonviolent and Violent Mass Campaigns, by Decade (1930–2019)
 
-## ![](_page_16_Figure_1.jpeg)
 
 Source: Erica Chenoweth, "The Future of Nonviolent Resistance," in Journal of Democracy 31, no. 3 (July 2020).
 
@@ -165,7 +164,6 @@ The science explaining climate change has been apparent for decades. The knowled
 
 # Graph 2. Global Atmospheric CO 2 Concentration, World
 
-## ![](_page_22_Figure_2.jpeg)
 
 Source: Hannah Ritchie, Max Roser, and Pablo Rosado, "CO2 and Greenhouse Gas Emissions," Our World in Data, May 2017. https://ourworldindata.org/co2-and-greenhouse-gas-emissions.economy. The primary obstacle to responding effectively to the magnitude and scope of the crisis is a lack of political will.
 
@@ -209,7 +207,6 @@ Conflicts among non-state groups (such as criminal or terrorist groups) increase
 
 Graph 3. Number of Countries with State-based Armed Conflict by Conflict Type (1946–2022)
 
-## ![](_page_30_Figure_1.jpeg)
 
 Source: Lacina & Gieditsch Battle Death Dataset (2005); UCDP/PRIO Armed Conflict Dataset; UCDP Battle-Related Deaths Dataset (Davies et al., forthcoming) as cited in Júlia Palik, Anna Marie Obermeier, and Siri Aas Rustad, Conflict Trends: A Global Overview, 1946–2021, Peace Research Institute Oslo (PRIO), 2022. impact of conflict on civilians has also increased. According to the Armed Conflict Location and Event Data Project (ACLED), "violence targeting civilians increased by 12% globally in 2022 compared to 2021.... [and] estimated fatalities from direct targeting of civilians grew by at least 16% last year." Political violence also increased by 27 percent over the previous year, with over 125,000 instances recorded in 2022.
 
@@ -219,7 +216,6 @@ People power movements can constructively influence conflict, peace, and securit
 
 To reduce the long-term risk of violent conflict, movements can advance goals—such as democracy, human rights, transparency, and the rule of law—that are conducive to peace and stability. Research shows that democracies are less likely than authoritarian governments to engage in interstate and intrastate wars or to harbor violent non-state actors. 50 As a clear
 
-## ![](_page_32_Figure_0.jpeg)
 
 Source: Shawn Davies, Therése Pettersson, and Magnus Ôberg, "Organized Violence, 1989–2022, and the Return of Conflict Between States," in Journal of Peace Research 60, no. 4 (2023).
 
@@ -423,6 +419,3 @@ In a world facing convergent crises—where authoritarianism spreads, climate ch
 Drawing insights from research and practice, this volume reveals the indispensable role of popular nonviolent movements—using tactics such as strikes, boycotts, protest, and other acts of noncooperation—to counter these crises. It further offers insights into how institutional allies can better align with these movements to drive change.
 
 
-## ![](_page_55_Figure_3.jpeg)
-
-## ![](_page_55_Figure_4.jpeg)

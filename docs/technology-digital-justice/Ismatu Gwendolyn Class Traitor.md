@@ -319,7 +319,6 @@ always: what are you willing to |
 
 We, the masses that keep me up at night. That is how I love you all. You know I lose sleep thinking about learning plans for you? It's the same loving rage that a teacher I adore once described to me, years ago, in my first year of high school. She told me she was up staring at the ceiling fuming, keeping her husband up, raging well into that deep night with how angry, how heartbroken she was that she had a class that never wanted to think farther than what was in front of us, when we could. That's how I love you. I lose sleep at night thinking about what I must write next, how I must read and re-read that revolutionary or those accounts, my parents are sick of death of me on whatsapp, going on and on about what I think we've almost grasped, where I have to challenge myself, where I failed to make my point clear. If I could open my skull and show you how much I think of you– all the time. All the time.
 
-## ![](_page_23_Figure_1.jpeg)
 
 .
 

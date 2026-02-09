@@ -6,7 +6,6 @@ tags:
   - feminism
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 ## NEOLIBERALISM AND NEW TECHNOLOGIES OF POWER
 

@@ -269,7 +269,6 @@ economies of the world in 1960s gave its place contradiction is effective in the
 
 could not recover the losses of job in the In today's cities, we see the transformative production sector (Judd and Parkinson, 1990).
 
-## ![](_page_17_Figure_2.jpeg)
 
 With neo-liberal economy getting stronger, the economy policies affecting the whole world for ability of responding to market forces became almost last 40 years. By the end of 1970s, the an essential priority for the governments and world economic system started to enter a new consequently the welfare state model of the restructuring
 
@@ -341,7 +340,6 @@ which gained a left (Judd and Parkinson, 1990). This paved the worldwide mobilit
 
 managerial institutions, various cultural activities During the 1980s neoliberal economy policies and tourism (Paddison, 1993). Within this started to gain wide prevalence subsequent to framework, new urban policies for reinvigorating free market supporter governments coming to the economy, and parallel to that several power in countries with strong economies such prestige projects implemented in this direction as the UK and the USA. This formula of economic started to emerge, initially in North America, development resulted in substantial decrease in then in several European countries, particularly the regulatory role of the states. Free trade, in England. Former industrial areas and buildings deregulation, low inflation and privatization within the city centres were refurbished with new were determined as the major economic functions such as business, retail, culture and growth formula for developed countries, with a sports facilities in order to trigger the property strong belief that investors should be free to market.
 
-## ![](_page_22_Figure_0.jpeg)
 
 examples of prestige projects first media and advertising. These services enable appeared as rehabilitation projects in coastal the capital to function and centralize on a areas within the port cities of North America, global scale by providing the opportunity for and then they became widespread all around companies to remotely control their production the world. Boston Quincy Market where old and distribution functions in other parts of the market buildings within the port area were Dr. Senem Zeybekoglu 4
 
@@ -436,7 +434,6 @@ existence of such a regional |
 
 comply with international and national human Apart from the City Statute of Brazil, above rights commitments. Generating such a legal mentioned charters are not legally binding framework based on the right to the city is an documents, but rather texts of commitment to important step towards creating a democratic universal values of democracy, justice, equity and equalitarian urban life enabling all and inclusion that can be used as guidelines for inhabitants to speak out their demands and local governance. Although their focuses may rights. Of course creation of such a framework, vary, there are some common issues that all of which ensures the protection and provision of them try to respond such as equality and non-human rights in urban policy making, can only discrimination,
 
-## ![](_page_34_Figure_1.jpeg)
 
 ## Dr. Senem Zeybekoglu 6
 
@@ -464,7 +461,6 @@ bears the risk of Conflict of interests |
 to transform our References |
 | cities and ourselves (Meyer, 2009). On the one Benevolo, |
 
-## ![](_page_36_Figure_0.jpeg)
 
 without altering it. On the other hand, listing of Bianchini, F., (1993), "Remaking European Cities: vulnerable groups even with the purpose of The Role of Cultural Policies", Cultural Policy prioritizing their urban rights - as any listing carries and Urban Regeneration, (ed.) F. Bianchini ve the potential of excluding some non-listed M. Parkinson, pp: 1-20, Manchester University groups - is as dangerous as conceptualizing an Press, Manchester.
 
@@ -583,7 +579,6 @@ P.
 
 entrepreneurial city: new urban politics, new Marcuse, P. (2009) "From critical urban theory to urban geographies?" Progress in Human the right to
 
-## ![](_page_43_Figure_0.jpeg)
 
 Rights and Responsibilities, Retrieved on Geography,
 

@@ -43,8 +43,6 @@ Text description provided by the architects. Created for [Desert X](https://www.
 
 [© Stephanie Deumer](https://www.archdaily.com/977782/under-the-same-sun-installation-stephanie-deumer/621f507fb5a16b0164efc15b-under-the-same-sun-installation-stephanie-deumer-photo)
 
-## ![](_page_3_Figure_8.jpeg)
-
 
 [© Stephanie Deumer](https://www.archdaily.com/977782/under-the-same-sun-installation-stephanie-deumer/621f5085b5a16b1c3ae56b08-under-the-same-sun-installation-stephanie-deumer-photo)
 

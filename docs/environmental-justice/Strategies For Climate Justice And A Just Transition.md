@@ -127,7 +127,6 @@ This will be achieved by : Building Local Living Economies with a model that tha
 
 ,
 
-## ![](_page_7_Figure_0.jpeg)
 
 1 percent strategy of divide and conquer is successful, but Just Transition pushes us to build powerful working class alliances to overturn the economic and political power structures that simultaneously harm workers, create widespread economic inequality and poverty, and destroy the planet's ability to sustain life. There is a growing international movement to change this, and the following reports outline some of the strategies to build strong labor/environmental alliances around energy systems and a Just Transition:
 

@@ -1874,7 +1874,6 @@ Group of wounded Makhnovists (left to right) Karetnik, Petrenko, Makhno, an unna
 
 Makhnovists poring over the draft of the second alliance with the Reds, Starobelsk, September 1920.
 
-## ![](_page_231_Figure_0.jpeg)
 
 Series of seven stamps commemorating the Makhnovschina, issued in Gulyai-Polye in 1993
 

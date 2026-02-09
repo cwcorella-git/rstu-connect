@@ -272,9 +272,6 @@ Note: A household's occupation was determined by the job held by the highest ear
 
 In metro Seattle, more people in a variety of jobs are spending over 30% of their income on rent. Below are the 10 occupations where the share of rent-burdened households jumped the most.
 
-## ![](_page_20_Figure_5.jpeg)
-
-## ![](_page_21_Figure_2.jpeg)
 
 Note: A household's occupation was determined by the job held by the highest earner in each household; to determine if a household is costburdened, gross rent (including utilities) was divided by total household income. Homeowners were not included. Source: IPUMS USA, University of Minnesota. Graphic by Haru Coryne
 

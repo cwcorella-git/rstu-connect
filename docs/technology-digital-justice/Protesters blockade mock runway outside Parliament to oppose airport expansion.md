@@ -45,11 +45,9 @@ announcement. Contact: Simon Bramwell, 07760 556177, |
 | Globally, aviation emissions are forecast to balloon by 300% by 2050 |
 ## | |
 
-## ![](_page_3_Figure_0.jpeg)
 
 The aviation industry enjoys a number of tax breaks: most substantially there is no duty on aircraft fuel or VAT on tickets, a 'major anomaly' according to the World Bank and IMF . This money could be invested in sustainable transport, in improving rail connections around the UK and internationally. A large proportion of Heathrow flights are short haul , these routes could be better, and more sustainably, serviced by improved rail infrastructure. Past experience shows this: since the Eurostar has been running the number of flights from London to Paris and Brussels has fallen dramatically (by nearly half and a third, respectively). If Heathrow expands, it would be responsible for more emissions than any other single site in the UK, including Drax the UK's largest power station. For more information, see Analysis: Aviation to consume half of UK's 1.5C carbon budget by 2050 - By Simon Evans, Carbon Brief
 
-## ![](_page_5_Figure_0.jpeg)
 
 | Around the world, international anti-aviation expansion movements took action around the
 same time: |

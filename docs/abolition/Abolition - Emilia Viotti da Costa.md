@@ -1165,4 +1165,3 @@ Her works include Da Monarquia à República [From the Monarchy to the Republic]
 
 Supremo Tribunal Federal e a Construção da Cidadania [The Brazilian Supreme Court and the Construction of Citizenship], and many articles and essays in scholarly journals. Currently, she directs the collection Revolutions of the Twentieth Century, published by Unesp Press, of the State University of São Paulo.
 
-## ![](_page_143_Figure_0.jpeg)

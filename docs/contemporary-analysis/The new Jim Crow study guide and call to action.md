@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Figure_0.jpeg)
-
 
 © 2013 by the Veterans of Hope Project. All rights reserved.
 
@@ -381,4 +379,3 @@ CPSIA information can be obtained at www. ICGtesting.com Printed in the USA LVOW
 
 ## The Veterans of Hope Project
 
-## ![](_page_63_Figure_2.jpeg)

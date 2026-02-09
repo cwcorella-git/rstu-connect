@@ -16,29 +16,10 @@ IT'S LONELY AT THE CENTRE OF THE EARTH. November 2022. Published by Image Comics
 
 IMAGE COMICS, INC. · Robert Kirkman: Chief Operating Officer · Erik Larsen: Chief Financial Officer · Todd Mc Farlane: President · Marc Silvestri: Chief Executive Officer · Jim Valentino: Vice President · Eric Stephenson: Publisher / Chief Creative Officer · Nicole Lapalme: Vice President of Finance · Leanna Caunter: Accounting Analyst · Sue Korpela: Accounting & HR Manager · Matt Parkinson: Vice President of Sales & Publishing Planning · Lorelei Bunjes: Vice President of Digital Strategy · Dirk Wood: Vice President of International Sales & Licensing · Ryan Brewer: International Sales & Licensing Manager Alex Cox: Director of Direct Market Sales · Chloe Ramos: Book Market & Library Sales Manager · Emilio Bautista: Digital Sales Coordinator · Jon Schlaffman: Specialty Sales Coordinator · Kat Salazar: Vice President of PR & Marketing · Deanna Phelps: Marketing Design Manager · Drew Fitzgerald: Marketing Content Associate · Heather Doornink: Vice President of Production · Drew Gill: Art Director · Hilary Di Loreto: Print Manager · Tricia Ramos: Traffic Manager · Melissa Gifford: Content Manager · Erika Schnatz: Senior Production Artist · Wesley Griffith: Production Artist · Rich Fowlks: Production Artist IMAGECOMICS. COM
 
-## ![](_page_3_Figure_0.jpeg)
-
-
-## ![](_page_9_Figure_4.jpeg)
-
 
 ZOE THOUGHT THAT MAYBE SHE NEVER REALLY WANTED TO KILL HERSELF. SOMETIMES IT FELT LIKE A PERFORMANCE, A PERFORMANCE FOR NO AUDIENCE, BUT IT FELT LIKE ACTING NONETHELESS. SHE COULD STOP WRITING THIS, SHE COULD PUT DOWN THE PAINTBRUSH AND CHOOSE TO LIVE OUTSIDE OF HER OWN HEAD.
 
 BUT THAT WOULD REQUIRE HER TO THINK ABOUT SOMETHING OTHER THAN HERSELF FOR A CHANGE.
-
-## ![](_page_17_Figure_0.jpeg)
-
-## ![](_page_19_Figure_0.jpeg)
-
-
-## ![](_page_25_Figure_0.jpeg)
-
-## ![](_page_27_Figure_0.jpeg)
-
-## ![](_page_29_Figure_0.jpeg)
-
-
-## ![](_page_29_Figure_3.jpeg)
 
 
 ## 2013
@@ -52,16 +33,6 @@ Zoe didn't think too much about why she felt mocked by those kinds of slogans.
 
 
 So she refused to try.
-
-## ![](_page_39_Figure_0.jpeg)
-
-
-## ![](_page_43_Figure_1.jpeg)
-
-## ![](_page_43_Figure_2.jpeg)
-
-
-## ![](_page_43_Figure_8.jpeg)
 
 
 Zoe was hit with
@@ -114,12 +85,6 @@ RETRY?
 ## YES • NO
 
 
-## ![](_page_55_Figure_6.jpeg)
-
-
-## ![](_page_57_Figure_2.jpeg)
-
-
 ## HE GROWS UP TO REVOLUTIONISE
 
 
@@ -147,20 +112,6 @@ WHAT?? I FREEZE? I WOULDN'T FREEZE! I RUN TO SAVE IT!
 ## B
 
 
-## ![](_page_67_Figure_0.jpeg)
-
-
-## ![](_page_67_Figure_3.jpeg)
-
-## ![](_page_67_Figure_4.jpeg)
-
-
-## ![](_page_67_Figure_7.jpeg)
-
-## ![](_page_67_Figure_8.jpeg)
-
-## ![](_page_67_Figure_9.jpeg)
-
 SO MAYBE IT TURNED OUT
 THINGS WEREN'T THAT SIMPLE,
 ## BUT FOR A WHILETHERE WAS US-
@@ -176,20 +127,9 @@ IT THAT WAY.
 YOU WANNA KNOW WHAT THE BEST FEELING IN THE WORLD IS?
 
 
-## ![](_page_69_Figure_6.jpeg)
-
-
-## ![](_page_69_Figure_10.jpeg)
-
 ## 2019
 
 ## AGE: 20
-
-
-## ![](_page_71_Figure_7.jpeg)
-
-
-## ![](_page_73_Figure_0.jpeg)
 
 
 HOW DID I GET SO LUCKY?
@@ -204,8 +144,6 @@ REJECTIONS AFTER REJECTIONS.
 
 I ONLY HAD ONE YEAR OF STUDENT LOANS LEFT FROM THE DEGREE I WAS FLUNKING.
 
-
-## ![](_page_79_Figure_0.jpeg)
 
 Hey Zoe, unfortunately your flight's been cancelled due to covid. We'll get you over next year don't worry, things will be better by then.
 
@@ -288,12 +226,6 @@ by Zoe Thorogood and .....
 (your name here)
 
 
-## ![](_page_111_Figure_0.jpeg)
-
-
-## ![](_page_125_Figure_0.jpeg)
-
-
 Zoe had been spending more time talking to the guy she was supposed to meet with in America.
 
 She was more upset than she should have been about not getting to see him.
@@ -313,37 +245,11 @@ So that was nice.
 She had one thing going for her.
 
 
-## ![](_page_131_Figure_0.jpeg)
-
-
-## ![](_page_133_Figure_6.jpeg)
-
-## ![](_page_135_Figure_0.jpeg)
-
-
-## ![](_page_135_Figure_2.jpeg)
-
-## ![](_page_135_Figure_3.jpeg)
-
-
-## ![](_page_135_Figure_6.jpeg)
-
-## ![](_page_135_Figure_7.jpeg)
-
-## ![](_page_135_Figure_8.jpeg)
-
-
 Zoe wished that a vaguely humanoid entity would materialise from the floor and scoop her up and never let go.
 
 This entity would understand her completely and pass through the glass walls.
 
 'Maybe a clone would be ideal', Zoe thought.
-
-
-## ![](_page_143_Figure_0.jpeg)
-
-
-## ![](_page_145_Figure_0.jpeg)
 
 
 WHERE'D HE GO?
@@ -354,9 +260,6 @@ where are we?
 > OW-! WATCH IT!
 
 > > I DON'T LIKE THIS.
-
-
-## ![](_page_163_Figure_0.jpeg)
 
 
 I CAN BE ANYTHING ON MY PAGE.
@@ -394,17 +297,7 @@ Content Manager • Erika Schnatz: Senior Production Artist • Wesley Griffith:
 ## IMAGECOMICS COM
 
 
-## ![](_page_181_Figure_0.jpeg)
-
-## ![](_page_183_Figure_0.jpeg)
-
-## ![](_page_185_Figure_0.jpeg)
-
-
 ## DAYS UNTIL CON: 2
-
-
-## ![](_page_187_Figure_8.jpeg)
 
 
 ## THERE'S NO POINT TRYING
@@ -416,14 +309,7 @@ Content Manager • Erika Schnatz: Senior Production Artist • Wesley Griffith:
 ## CAN YOU DRAW ME WITH
 
 
-## ![](_page_221_Figure_2.jpeg)
-
-## ![](_page_221_Figure_3.jpeg)
-
 ## I'VE SPENT YEARS WAITING
-
-
-## ![](_page_221_Figure_7.jpeg)
 
 
 Zoe didn't feel how she wanted to.
@@ -447,10 +333,6 @@ YOU HAVE ANY IDEA
 HOW BIG OF A
 BASE THAT COVERS?
 
-
-## ![](_page_233_Figure_0.jpeg)
-
-## ![](_page_235_Figure_0.jpeg)
 
 The snow had begun falling days prior, and Zoe had an uncharacteristic spring in her step.
 
@@ -567,18 +449,8 @@ PAGE TO TURN TO:
 
 WELL... I GOTTA HEAR THAT.
 
-## ![](_page_277_Figure_0.jpeg)
-
-## ![](_page_277_Figure_1.jpeg)
-
-
-## ![](_page_277_Figure_4.jpeg)
-
-## ![](_page_277_Figure_5.jpeg)
 
 ## THE SCREAMS WERE COMING FROM MY NEIGHBOUR, OLD
-
-## ![](_page_277_Figure_6.jpeg)
 
 
 # Zoe Thorogood is
@@ -666,31 +538,7 @@ Zoe could publicly and shamelessly discuss intimate thoughts regarding death and
 But when it came to sex and love... Well, she just couldn't.
 
 
-## ![](_page_313_Figure_0.jpeg)
-
-
-## ![](_page_315_Figure_0.jpeg)
-
-## ![](_page_315_Figure_1.jpeg)
-
-## ![](_page_315_Figure_2.jpeg)
-
-## ![](_page_315_Figure_3.jpeg)
-
-## ![](_page_315_Figure_4.jpeg)
-
-
 Zoe didn't believe that, and neither did he.
-
-
-## ![](_page_323_Figure_0.jpeg)
-
-## ![](_page_323_Figure_1.jpeg)
-
-## ![](_page_323_Figure_2.jpeg)
-
-
-## ![](_page_323_Figure_4.jpeg)
 
 
 Autobios can be placed into one of two categories-
@@ -737,11 +585,6 @@ ZOE NODDED TO HERSELF. "Of course.", SHE MUTTERED, A GRATEFUL SMILE APPEARING ON
 ## THE END
 
 
-## ![](_page_333_Figure_1.jpeg)
-
-## ![](_page_333_Figure_2.jpeg)
-
-
 ## GAMES
 
 ## APPS
@@ -757,11 +600,6 @@ ZOE NODDED TO HERSELF. "Of course.", SHE MUTTERED, A GRATEFUL SMILE APPEARING ON
 ## SETTINGS
 
 ## POWER OFF
-
-
-## ![](_page_341_Figure_0.jpeg)
-
-## ![](_page_343_Figure_0.jpeg)
 
 
 You want to know why you can't be happy?
@@ -818,8 +656,6 @@ Just be careful not to get stuck there.
 
 I used to think my art didn't matter until it was published, but I was so wrong.
 
-
-## ![](_page_377_Figure_0.jpeg)
 
 # THIS BOOK WAS NOT SUPPOSED TO EXIST
 

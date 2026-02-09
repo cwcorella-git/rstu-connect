@@ -21,8 +21,5 @@ If you are a Deliveroo or Uber Eats driver working in London, or are interested 
 
 If you are a driver and would like to join the union, please go to https://iww.org.uk/join/.
 
-## ![](_page_1_Figure_0.jpeg)
-
-## ![](_page_2_Figure_0.jpeg)
 
 ## Deliveroo workers launch new strike wave

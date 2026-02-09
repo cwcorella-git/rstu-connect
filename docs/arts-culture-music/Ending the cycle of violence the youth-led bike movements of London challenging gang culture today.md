@@ -32,7 +32,6 @@ What this movement desperately needs is a strong voice to make the link between 
 
 The deaths at the hands of gang crime in London are not mere tragedy, they're the product of
 
-## ![](_page_2_Figure_2.jpeg)
 
 Yes this is great, Rosa.
 

@@ -8,7 +8,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 ### PRAISE FOR DOUGLAS LAIN
 

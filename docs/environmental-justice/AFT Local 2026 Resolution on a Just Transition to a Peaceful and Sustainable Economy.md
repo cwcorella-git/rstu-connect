@@ -24,9 +24,6 @@ dramatic increase in the global level of carbon dioxide and greenhouse gases; an
 
 Whereas,
 
-## ![](_page_1_Figure_0.jpeg)
-
-## ![](_page_2_Figure_0.jpeg)
 
 renewal energy, and the rebuilding of our civilian infrastructure; and
 

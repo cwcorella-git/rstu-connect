@@ -29,7 +29,6 @@ Heslep, D. & Berge, P. (2021, October). *Mapping Discord's Darkside: Distributed
 - community of vetted servers for incoming users, while obscuring a persistent network of toxic servers beneath.
 - 2. We argue that Discord's commitment to proactive moderation is subverted by its reliance on third-party sites. We demonstrate how third-party structures maintain an aggressively racist and toxic web that underlies the platform. We examine data scraped from 3,600 Discord servers publicly listed on Disboard that actively marked their associations with Nazism, white power, raiding, queerphobia, and toxicity.
 
-## ![](_page_1_Figure_2.jpeg)
 
 Figure 1. Disboard servers openly promoting hateful affiliations.
 
@@ -43,7 +42,6 @@ Because Disboard provides public server descriptions, we were able to ethically 
 
 We found thousands of Discord servers that marketed themselves on Disboard as hateful and Nazi-affiliated spaces. Disboard's search algorithms exacerbate this linkage, providing recommendations for racist searches that "both informs and is informed in part by users" [\(Noble, 2018, p. 25; Figure 2\).](https://www.zotero.org/google-docs/?broken=Rv CrCn)
 
-## ![](_page_2_Figure_2.jpeg)
 
 Figure 2. Disboard indexes tags based on racist searches.
 

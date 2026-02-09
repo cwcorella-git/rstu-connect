@@ -25,11 +25,11 @@ DOCS_DIR = Path("docs")
 
 # Patterns to fix
 PATTERNS = {
-    # PDF image placeholders: ![](_page_0_Picture_0.jpeg) or ![](page_1_Picture_2.png)
-    'pdf_images': re.compile(r'!\[\]\(_?page_\d+_Picture_\d+\.(jpeg|jpg|png)\)'),
+    # PDF image placeholders: ![](_page_0_Picture_0.jpeg) or ![](_page_1_Figure_2.png)
+    'pdf_images': re.compile(r'!\[\]\(_?page_\d+_(Picture|Figure)_\d+\.(jpeg|jpg|png)\)'),
 
     # Broken PDF anchor links: [text](#page-0-0) or [\[a\]](#page-6-0)
-    'pdf_anchors': re.compile(r'\[([^\]]*)\]\(#page-\d+-\d+\)'),
+    'pdf_anchors': re.compile(r'\[(.*?)\]\(#page-\d+-\d+\)'),
 
     # Empty image refs that might be left: ![]()
     'empty_images': re.compile(r'!\[\]\(\s*\)'),

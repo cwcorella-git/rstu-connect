@@ -221,7 +221,6 @@ Project Jupyter is three things: a collection o standards, a community, and a se
 
 Jupyter is a ree, open source platorm that is an excellent learning environment or students. For teachers, it increases our efciency and decreases cognitive load so we can engage students. Notebooks can be useul or achieving your goals as a teacher in numerous environments rom STEM labs or humanities narratives, to podium lectures or ipped classrooms. We use Jupyter notebooks in small classes and or classes that have hundreds o students. Jupyter notebooks can be used or teaching part o one lecture or can be used to teach a whole course. Jupyter notebooks enable us and our students to have a conversation with a problem and link to resources, like audio, video, images,
 
-## ![](_page_7_Figure_2.jpeg)
 
 Figure 2.1: A Jupyter notebook, starting with a markdown cell containing a title and an explanation (including an equation rendered with La TeX). Three code cells produce the nal inline plot.
 
@@ -300,15 +299,12 @@ These questions do not typically require much time to answer, but are meant to c
 
 Good "exit ticket" questions can be domain specic questions, but can also be metacognitive questions (about one's learning style, or example), or high-level organizational questions (e.g., "what was the goal o today's discussion?"). We recommend leaving enough time at the end o class (perhaps 10 minutes) to have a ull and complete wrap-up discussion. Ater the discussion, you may wish to adjust the ollowing class meeting i you eel that not enough students had the insight you were aiming or. For more inormation on "tickets to leave" see https://www.brown.edu/sheridan/teaching-learning-resources/teaching-resources/course-design/classroom-assessment/entrance-and-exit/sample. For more on the Jupyter Notebook extension, see using and installing Calysto Activity magic.
 
-## ![](_page_11_Figure_2.jpeg)
 
 Figure 2.3: Dr. Douglas Oldenburg (let) engaging with a student during a short course on geophysical electromagnetics (https://geosci.xyz). Photo credit: Seogi Kang
 
-## ![](_page_11_Figure_4.jpeg)
 
 Figure 2.4: Example o the Activity magic seen rom the students view. A question, with multiple choice answers is shown, with buttons or their input.
 
-## ![](_page_12_Figure_2.jpeg)
 
 Figure 2.5: The Activity magic, rom the the instructor's perspective. The barchart is shown on the projector once all o the students have had a chance to respond.
 
@@ -1133,11 +1129,9 @@ For the ambitions reader, there are resources available or you to write your you
 
 Magics are meta-commands that only unction within Jupyter and allow a user to access language/kernel-specic eatures. For instance, the IPython kernel provides a number o magics that can be useul while developing Jupyter notebooks using Python as the primary language. These are documented and we will only call out a ew o these here. Many other magics are available or dierent kernels but they are specic to Jupyter so may not be usable in a stand-alone script in that language outside o Jupyter. In some instances, you may want to use magics sparingly to avoid obuscating these meta-commands with the actual commands in the language you are teaching. Magics always
 
-## ![](_page_43_Figure_2.jpeg)
 
 Figure 5.2: Here, a slider allows the user to interactively change the variable k in our unction as we plot it.
 
-## ![](_page_44_Figure_2.jpeg)
 
 Figure 5.3: Interactive map widget with ipyleafletalt\_text.
 
@@ -1215,7 +1209,6 @@ $$\begin{bmatrix} 1. & 1. & 1. \\ 1. & 1. & 1. \end{bmatrix}$$
 
 Figure 5.4: Google Collaboratory uses Jupyter extensions to customize Jupyter or their users. The run/play icon to the let o the code cell is created using extensions. This is not present in the standard Jupyter sotware. Tensor Flow is a library or creating Machine Learning experiments in Python.
 
-## ![](_page_47_Figure_7.jpeg)
 
 Figure 5.5: Example o incorporating Jigsaw, a block-based extension, in a Jupyter Notebook. The extension allows the user to assemble code blocks that can then be translated into Python or Java, and executed.
 
@@ -1277,7 +1270,6 @@ Oten, students may need to stop a computation, and this can be accomplished by p
 
 ## 5.5. GOTCHAS 51
 
-## ![](_page_50_Figure_1.jpeg)
 
 Figure 5.6: Jupyter notebook displayed in a window pane inside Spyder.
 
@@ -1703,15 +1695,12 @@ Instead o a lab or lecture a computer lab was reserved or an hour and a Jupyter 
 
 We rst envisioned this project as a teaching aid to interactively illustrate difcult concepts or a graduate course in numerical methods or conservation laws. These are physical laws in the orm o rst-order hyperbolic partial dierential equations that arise in wave propagation applications such as uid dynamics, trafc ow, water waves (like tsunamis), and electromagnetic waves among others. The Riemann problem corresponds to a conservation law with a piecewise constant initial condition such that the problem is relatively simple to solve, while still capturing the characteristic dynamics o the conservation law. Due to its discrete nature, its simplicity and its capability to encode the dynamics, the Riemann problem is the key ingredient in modern numerical methods or conservation laws.
 
-## ![](_page_67_Figure_2.jpeg)
 
 Figure 7.1: Notebook "app" or exploring the direct current resistivity experiment over a two layer earth (https://em.geosci.xyz/apps.html).
 
-## ![](_page_68_Figure_2.jpeg)
 
 Figure 7.2: Visualization rom the notebook at https://github.com/applied-math/demosdemonstrating the paths o Atlantic hurricane tracks rom 1950-2012 with coloring demonstrating category o storm.
 
-## ![](_page_69_Figure_2.jpeg)
 
 Figure 7.3: Visualization rom the acoustics equations chapter o the book at https://github.com/clawpack/riemann\_book It shows an interactive visualization o the solution to the Riemann problem or acoustics equations, where the initial condition emulates a shock tube.
 

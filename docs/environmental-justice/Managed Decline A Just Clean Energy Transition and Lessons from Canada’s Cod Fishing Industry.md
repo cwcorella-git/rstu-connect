@@ -40,7 +40,6 @@ History of Fisheries in the Northwest Atlantic: The 500-Year Perspective
 
 In 1992, even while confronted with evidence of a fishery on the verge of collapse, the Canadian government increased the allowed catch. Soon harsh reality set in, and later that same year, Minister of Fisheries and Oceans John Crosbie announced the complete
 
-## ![](_page_2_Figure_0.jpeg)
 
 after the fact, and didn't address the food access issues. If programs to carefully manage the industry's decline had been implemented early on – when both fishermen and the science began providing clear warnings of the problem – significant harm could have been prevented.
 

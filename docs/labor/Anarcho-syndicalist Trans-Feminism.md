@@ -120,7 +120,6 @@ Secondly, you talk about the IWA not just paying lip service but then your examp
 
 So I used to be quite dismissive of name changes etc., until I saw a couple of cases of people trying to change some gendered language somewhere, really, really innocuous stuff, and a tonne of liberals and conservatives spent weeks acting like people were banning Christmas or something.
 
-## ![](_page_10_Figure_0.jpeg)
 
 ## In reply to Welcomebylibcom.org
 
@@ -200,7 +199,6 @@ There's no denying that, in Europe and in countries that were colonized by Europ
 
 I hope I'm not coming across as harsh. I agree with your critique that it's inaccurate to say that the working class is mostly women (even if there's a slight skew in that direction, it's, well, slight). I just think that, when we're debating against "More women CEOs" type arguments, we should base it on explaining why that's a shitty goal and non-solution to patriarchy, rather than focusing on the gender composition of class.
 
-## ![](_page_15_Figure_3.jpeg)
 
 I did think that the majority of the world population was female (so on that basis I have previously said the majority of the working class was female), but doublechecking I can see
 
@@ -225,7 +223,6 @@ wanted to make sure I didn't come across that way. |
 
 ## Croy
 
-## ![](_page_17_Figure_0.jpeg)
 
 ## In reply to Welcomebylibcom.org
 

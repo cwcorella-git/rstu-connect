@@ -251,7 +251,6 @@ Lots of the pushback for my original Tik Tok came from people arguing I was misu
 | reproduction |
 | of people considered to have |
 
-## ![](_page_16_Figure_0.jpeg)
 
 "Racism, specifically, is the state-sanctioned or extralegal production and exploitation of group-differentiated vulnerability to premature death."
 

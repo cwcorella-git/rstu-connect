@@ -95,7 +95,6 @@ We know from experience that the very similar Keystone XL project was equally ov
 
 ,
 
-## ![](_page_7_Figure_0.jpeg)
 
 have already shown us that more good paying union jobs involving pipelines can be created by repairing and upgrading existing infrastructure
 
@@ -143,7 +142,6 @@ since this appeal was first published, the following unions have taken a stand i
 
 ## United Electrical Workers
 
-## ![](_page_11_Figure_0.jpeg)
 
 | - September 27, 2016 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

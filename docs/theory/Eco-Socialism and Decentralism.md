@@ -75,11 +75,9 @@ There were decentralist elements in Marxism (the Marxism of Marx and Engels, any
 
 ## Decentralism in Current Ecological Politics
 
-## ![](_page_5_Figure_0.jpeg)
 
 ## ." (231)
 
-## ![](_page_6_Figure_0.jpeg)
 
 ," he advances evidence that our society will run out of fossil-fuel—although not necessarily in time to avoid climate change. (He would regard the current oil glut as temporary.) "
 
@@ -101,7 +99,6 @@ We will have to reestablish those local webs of economic relations and occupatio
 
 ## ." (259)
 
-## ![](_page_7_Figure_0.jpeg)
 
 " (120) That is the principle that social functions should be as decentralized and localized as much as is realistically possible. "
 

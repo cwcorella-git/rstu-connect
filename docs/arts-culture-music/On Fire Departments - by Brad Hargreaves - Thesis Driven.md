@@ -24,13 +24,9 @@ To understand how things ended up this way, let's look at the challenges facing 
 
 After a multi-decade decline, vehicular deaths have risen dramatically across the United States since 2018. The US now not only has a higher road accident death rate than its western European peers but also Russia, long a standard-bearer for dangerous highways. In 2022, approximately 43,000 people died on US roads while another 2.3 million were injured, costing us [hundreds of billions of dollars](https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019) in medical bills and lost productivity.
 
-## ![](_page_1_Figure_8.jpeg)
-
-## ![](_page_2_Figure_2.jpeg)
 
 The pain is felt acutely by pedestrians, whose death rates are now at a 40-year high after bottoming in 2009. Once again, the US in the outlier here—pedestrian deaths in Europe continued to decline over the past decade, casting doubt on the notion that smartphones and pedestrian distraction alone are to blame.
 
-## ![](_page_2_Figure_5.jpeg)
 
 Fortunately, the solutions to these crises are fairly well-known. Excessive speed, for instance, is a factor in about a [third of fatal](https://injuryfacts.nsc.org/motor-vehicle/motor-vehicle-safety-issues/speeding/) [collisions.](https://injuryfacts.nsc.org/motor-vehicle/motor-vehicle-safety-issues/speeding/) Interventions to decrease speed—narrowing roadways and replacing intersections with roundabouts, for instance—are [well established](https://www.transportation.gov/mission/health/Traffic-Calming-to-Slow-Vehicle-Speeds) and deployed at scale in Europe. And American cities that have gotten serious about these engineering changes have seen meaningful results. Hoboken, New Jersey, for example, [hasn't had a roadway death in seven](https://apnews.com/article/hoboken-zero-traffic-deaths-daylighting-pedestrian-safety-007dec67706c1c09129da1436a3d9762) [years.](https://apnews.com/article/hoboken-zero-traffic-deaths-daylighting-pedestrian-safety-007dec67706c1c09129da1436a3d9762)
 
@@ -51,7 +47,6 @@ So… why?
 
 Before we continue, it's worth spending a moment discussing structure fires in the United States. The US has done a tremendous job bringing fire deaths down massively over the past century, with the US now experiencing fewer than 3,000 home structure fire deaths per year.
 
-## ![](_page_5_Figure_2.jpeg)
 
 Improvements in fire safety have been primarily driven by adoption of fire suppression and life safety technology such as:
 
@@ -59,9 +54,6 @@ Improvements in fire safety have been primarily driven by adoption of fire suppr
 - **Non-combustible and fire-rated materials.** In the second half of the 20th century, the use of fire-rated materials became more common in new construction, making it harder for fire to spread through buildings.
 - **Alarms and warning systems.** Concerted efforts starting in the late 1970s dramatically increased usage of home smoke alarms, bringing the percentage of homes with alarms up from 22% in 1977 to 92% in 1995.
 
-## ![](_page_5_Figure_7.jpeg)
-
-## ![](_page_6_Figure_2.jpeg)
 
 [Source.](https://freakonomics.com/2012/02/how-many-lives-do-smoke-alarms-really-save/) Apologies for potato quality.
 
@@ -69,7 +61,6 @@ Despite the progress, the US still lags many of its international peers on fire 
 
 On the other hand, only [12% of all fire deaths—](https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/fire-loss-in-the-united-states)470 in 2022 occurred in apartments. When apartments do catch on fire, their occupants are more likely to survive than those in single family homes, as apartments are more likely to have interventions like sprinklers, non-combustible materials, and working fire alarms.
 
-## ![](_page_6_Figure_6.jpeg)
 
 Of the fires taking place in apartment buildings, the vast majority (91%) occur in buildings without working sprinkler systems. While I wasn't able to find crosstabs on fire death by sprinkler presence, it's likely the death rate is also far lower in sprinklered buildings—so no more than 47 fire deaths in sprinklered buildings in 2022 with the real number likely far below that.
 
@@ -92,7 +83,6 @@ While there are many aspects of land use and building code that fire departments
 
 Narrower lanes—particularly on urban streets—have been [repeatedly shown](https://nacto.org/publication/urban-street-design-guide/street-design-elements/lane-width/) to lead to reduced speeds and safer roads. On wider streets, drivers feel comfortable going much faster regardless of the posted speed limit. Narrower lanes keep drivers alert and discourage distracted driving, saving the lives of car occupants and pedestrians alike.
 
-## ![](_page_8_Figure_5.jpeg)
 
 Each time road widths are studied, the results are clear. Take [this CNU article](https://www.cnu.org/publicsquare/2018/08/14/why-are-fire-officials-hung-street-widths) discussing a hotly-debated road narrowing, for instance:
 
@@ -100,7 +90,6 @@ A [study](https://www.cnu.org/sites/default/files/swift_painter_goldstein_study.
 
 Nevertheless, fire departments are consistently the most vocal opponents of any proposed road diets, including sidewalks, bus lanes, and bike lanes. This is despite the fact that fire departments spend more time responding to car crashes than fires, and car crashes get exponentially deadlier as speed increases.
 
-## ![](_page_9_Figure_4.jpeg)
 
 [Source:](https://nacto.org/publication/city-limits/the-need/speed-kills/) National Association for City Transportation Officials.
 

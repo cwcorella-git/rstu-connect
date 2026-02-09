@@ -8,8 +8,6 @@ tags:
   - climate
 ---
 
-## ![](_page_0_Figure_0.jpeg)
-
 
 From Plato to Rousseau, to John Locke, and to our contemporary Francis Fukuyama, political theorists have always attempted to look back to find the agents of change of civilization. In The Revolt of the Masses, José Ortega y Gasset focuses on the phenomenon of the mass-man as the source of the changes —for ill or good— in the European and American societies.
 

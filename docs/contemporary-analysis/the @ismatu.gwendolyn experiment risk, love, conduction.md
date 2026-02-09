@@ -81,7 +81,6 @@ from 12 followers to two thousand. And then we were full steam ahead. |
 | instantly |
 | unlocked main character anime story plot line: |
 
-## ![](_page_4_Figure_0.jpeg)
 
 I was initially radicalized by studying religion as a child and as an adolescent. I firmely believe that the force I am most compelled by the God of the Oppressed, and intimacy with that divinity requires obedience and praxis to draw close. Throughout my retllings, you will hear me mention the Voice of God directing me towards decisions I felt were… buck wild banana nuts coo-coo crazy. Understand: God is an imperfect name for the collection of divine force that compels me in this life, but I do mean, quite literally, that I am acting on divine compulsion. I did most of the things in this story because God told me to. If you are someone that does not experience any sort of divine compulsion in your life, I must ask you to suspend your disbelief. Or if you do, and you call this divine source by a different name, just fill it in as you engage with the narrative.
 
@@ -93,7 +92,6 @@ The desire for radicalism ( a desire to depart) began as a youth and was bolster
 
 Great! So I started laying seeds to matriculate my selling skincare products to you all and because I am phenomenal at sales, this was going very well. And in the background, this life that I was living off screen, between convincing myself that I wanted this like shiny, silly life, there was this… honed and pointed and blessed anger that had few embers going within this hollow place in me that I just consistently ignored. I didn't think anger was practical. I wanted to be employed, right? Like. Don't we all?
 
-## ![](_page_5_Figure_3.jpeg)
 
 And the outpouring from people that could see me— mind you, this was… a little less than three months of me being on the platform, hadn't even been a full quarter… it shifted something inside of me. Those small embers of anger that were barely flickering, barely alive, found tinder. I forgot why I had been mad; all of a sudden, I remembered. We're adding something to the board.
 

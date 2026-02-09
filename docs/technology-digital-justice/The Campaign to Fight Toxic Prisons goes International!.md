@@ -20,11 +20,6 @@ Information will then be shared about resistance to the six new mega-prisons in 
 
 Connect International English Academy, First Floor, 26-28 Churchill Way, CF10 2DY Cardiff
 
-## ![](_page_2_Figure_0.jpeg)
-
-## ![](_page_3_Figure_0.jpeg)
-
-## ![](_page_4_Figure_0.jpeg)
 
 | fighttoxicprisons.org |
 |-------------------------------------------------------------------------------------------|

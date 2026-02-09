@@ -49,11 +49,6 @@ been warned by district judge Deborah Wright to |
 | For more on the sentencing of the Heathrow 13, see also: |
 ## | Climate Protesters Avoid Jail |
 
-## ![](_page_2_Figure_0.jpeg)
-
-## ![](_page_3_Figure_0.jpeg)
-
-## ![](_page_4_Figure_0.jpeg)
 
 greenhouse gases into the atmosphere.
 

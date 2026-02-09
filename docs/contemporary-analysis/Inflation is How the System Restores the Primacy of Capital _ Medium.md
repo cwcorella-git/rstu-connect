@@ -60,7 +60,6 @@ What each of these comparisons shows is that inflation is not in itself a mechan
 
 ## Press enter or click to view image in full size
 
-## ![](_page_8_Figure_5.jpeg)
 
 This graph orders these groups by roughly their socialeconomic power, where from right to left is an increasing amount of actual work performed, and from top to bottom is increasing compensation (as wages or profits) — so the bottom right corner is the most exploited, and the top left corner is the most powerful exploiter. These groups are ordered in roughly a layman's estimate of their political and social power, but the impact inflation has on their status does not correlate with that at all. The groups that retain roughly their place are 2 and 6, AKA the proletariat (those below them are cast out of society altogether, and those above lose the security which kept them out of this class) and the bourgeoisie (those below them are cast towards proletarianism, those above are directed towards becoming them). Group 4 is in the strange position of being hurt as a middle-class worker with savings, but helped as a debtor and asset-owner. They are pushed in both directions at once, becoming the paradoxical ["landed poor."](https://www.ifpri.org/publication/strengthening-property-rights-poor)
 

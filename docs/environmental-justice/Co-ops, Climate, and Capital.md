@@ -115,7 +115,6 @@ All of these could potentially advance a radical vision of using the public sect
 
 ## Notes
 
-## ![](_page_10_Figure_0.jpeg)
 
 .
 
@@ -141,9 +140,6 @@ Debra C. Jeter et al., "Democracy and Dysfunction: Rural Electric Cooperatives a
 
 Spinak, "Infrastructure," 109–116. Matt Grimley, "Just How Democratic Are Rural Electric Cooperatives?," Institute For Local Self-Reliance, January 13, 2016, https://ilsr.org/just-how-democratic-are-rural-electric-cooperatives; Spinak, "Infrastructure," 241–42, 250. "Community Power: How Grassroots Organizing Coalitions Are Democratizing Rural Electricity," The Trouble , December 7, 2019, https://www.the-trouble.com/content/2019/12/7/community-power-how-three-grassroots-organizers-are-democratizing-rural-energy ; Holmes Hummel, "Power to the People: Organizing Rural Electric Cooperatives," The Forge , October 19, 2020, https://forgeorganizing.org/article/power-people-organizing-rural-electric-cooperatives; Upadhya, "Parliaments."
 
-## ![](_page_13_Figure_0.jpeg)
-
-## ![](_page_14_Figure_0.jpeg)
 
 | Nafis Hasan et al., "Take Back the Grid: DSA and the Fight for Energy Democracy," |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -61,7 +61,6 @@ renewable energy investments over the next 14 years |
 | more than 27,000 jobs in Canada and has the potential to create many more |
 | The full Workers' Climate Plan is available for |
 
-## ![](_page_3_Figure_0.jpeg)
 
 Iron & Earth is led by oilsands workers committed to incorporating more renewable energy projects into their work scope. The group came together during the spring of 2015 when oil prices started to fall, and is pushing for investments in green energy and re-training in renewables. Our membership continues to grow and includes workers from a variety of industrial trades, including boilermakers, electricians, pipefitters, ironworkers and labourers.
 

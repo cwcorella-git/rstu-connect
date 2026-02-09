@@ -36,8 +36,4 @@ The Flint water crisis is an illustration of the essential criminality of capita
 
 The greed-based, anti-human social and economic system we live in caused the poisoning of the people of Flint. This does not in any way absolve the individual politicians and capitalists who facilitated the disaster (they should all hang), but only places them in perspective. The system didn't fail in Flint; it failed to protect the people of Flint, but that's not what it was designed for. The system functioned exactly as it was supposed to: the ruling class was able to stuff it's pockets with money, the politicians were able to pay-off their debts to them, and things are comfortably rolling on to the next election cycle.[vii]
 
-## ![](_page_2_Figure_2.jpeg)
 
-## ![](_page_3_Figure_0.jpeg)
-
-## ![](_page_4_Figure_0.jpeg)

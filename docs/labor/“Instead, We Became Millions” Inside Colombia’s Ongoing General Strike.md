@@ -240,4 +240,3 @@ Another action that we think is worth highlighting took place on Twitter, where 
 
 Finally, all the systematic state violence has led to the creation of a front line of mothers, among them the mother of one of the many youths murdered during this strike. This demonstrates the social and political gravity of what is happening in Colombia, at the same time as it shows the dignified uprising of a people. For a group of mothers to decide to organize themselves to defend the movement proves that rage and discontent have generalized at a dizzying rate. Clearly, we celebrate these actions.
 
-## ![](_page_21_Figure_0.jpeg)

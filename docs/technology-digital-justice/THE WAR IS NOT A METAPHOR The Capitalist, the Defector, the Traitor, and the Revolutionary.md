@@ -7,7 +7,6 @@ tags:
   - capitalism
 ---
 
-## ![](_page_1_Figure_0.jpeg)
 
 ## Phase One: Library Infrastructure
 
@@ -342,7 +341,6 @@ capitalists, the traders and the revolutionaries. |
 
 The video goes on to say that Doechii is signed to a subsidiary of Universal Records, which means that she's making way more money for white, right-wing capitalists than any sort of Black collectives. I think the analysis here does a great job of not blaming the individual who just wants to make their dreams come true and be rewarded and lauded for excellent artmaking– rather, the critic Sarah notes that whatever Doechii's intentions, she joins the class of people that goes from oppressed to oppressor and that
 
-## ![](_page_22_Figure_0.jpeg)
 
 | arguing that artists should strive for something 'a bit more revolutionary' when creating their
 vision for success. |
@@ -473,7 +471,6 @@ there is no amount of study or of talent or of power that would allow you to des
 
 Success in this iteration of world making means blood money and there's no getting around that. All of the luxuries and conveniences and comforts of fame are ensured and backed by slavery. The paper money isn't the thing of value– the
 
-## ![](_page_31_Figure_3.jpeg)
 
 of the world to live like they do. There is no amount of talent, work, excellence, dedication… I do not care. There is no amount of good work you could put out that could ever justify the level of depravation the bottom half are living in. It is an exponential, an unspeakable amount of suffering that the colonized world– that MOST OF THE WORLD– endures to provide the ability for a handful of people to access endless comfort and produce endless waste without consequence or delay. We don't even let the dogs in the empire live like that. There is no amount of beauty or diligence or hard work or talent that would make anyone Deserving of the other side of that coin. Scarcity is manufactured and the suffering is needless. Absolutely no one deserves to live and die for the sake of money made fertile by blood.
 

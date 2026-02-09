@@ -8,7 +8,6 @@ tags:
   - democracy
 ---
 
-## ![](_page_0_Figure_0.jpeg)
 
 ## BEYOND EMPIRE, PRISONS, AND TORTURE
 

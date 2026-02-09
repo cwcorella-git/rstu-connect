@@ -14,7 +14,6 @@ tags:
 
 ## The Magic Words for Influence and Impact
 
-## ![](_page_1_Figure_0.jpeg)
 
 My life's work has been dedicated to the forgotten art of spoken communication and the power that the right words at the right time can have to achieve the right results.
 

@@ -137,7 +137,6 @@ Ontologyis concerned with questions about the objects that exist in the world an
 
 By sacrificing a straightforward manner of expression in aiming to produce effects of an opacity that is neither particularly aesthetic nor entirely within the bounds of reason, both your interpretation and the original passage in the link unselfconsciously reproduce the hierarchy of the secular mysticism the Bryant blog purports to uncover and analyse.
 
-## ![](_page_10_Figure_3.jpeg)
 
 Factvalue- I've been reading & interacting with Levi for a while, he isn't a Heideggarian. Levi describes himself as Lacano-Deleuzian, a weird little compression until you think about Guattari's relation to both, who has worked as a Lacanian analyst. I agree this is the weaker aspect of his thought but I'm not sure its so easy as to write Lacan off entirely. He has interesting things to say about psychoanalysis, psychosis and speech... although most of it is worth reading in order to know what not to buy into.
 
@@ -211,7 +210,6 @@ Out of the Woods 11 years 7 months ago In reply to Welcomebylibcom.org factvalue
 
 This is a very course distinction between flat and hierarchical ontology. It doesn't imply nor require a wholesale acceptance of Bryant's own system nor presentational style, which is neither presented, nor endorsed. For someone complaining about obfuscation, you're spilling
 
-## ![](_page_17_Figure_0.jpeg)
 
 Really do not see what factvalue's beef is here. I mean I enjoy a bit of pomo bashing as much as the next guy, but in this case it seems as though merely referencing these arguments is a bridge too far. I'm sorry, but surely it must be possible to maintain a harshly critical stance towards such academics but still appropriate useful material from them? How far would Marx have gotten with Capital had he simply dismissed e.g. the English Political Economists because of it's obvious theoretical shortcomings rather than critically assessing those aspects of their work which do have some merit in spite of the problematic nature of their theoretical project taken as a whole?
 
@@ -239,7 +237,6 @@ This books attempts a defense and renewal of materialism. Thisis a defense and r
 
 It's this side of Bryant's work that makes it important in the world of theory, even if in more pragmatic worlds this stuff has always been the main focus (certainly in nursing, all of this would be part of a routine patient assessment). The point is though that he- and others like him- aren't reducible to the stale cliches of postmodernism and immaterialism. In the end it was because I was training as a nurse when I discovered Levi's blog that I started reading him in the first place.
 
-## ![](_page_20_Figure_2.jpeg)
 
 11 years 7 months ago
 
@@ -531,7 +528,6 @@ How useful an argument was this?"Yes, we're guilty, but so are you - and at leas
 
 At bottom, impenetrable language has a purpose. It is meant to disguise poor logic - you get the main line of argument, but can't grasp enough of it to see where the faults are. I detest the Post-modernists for it, but I find the language of Out of the Woods and Simply Explode to be nowhere near that dense.
 
-## ![](_page_42_Figure_3.jpeg)
 
 You're a prophet chained to a craggy mountain for eternity and Foucault rolls up with a hacksaw hmm?
 
@@ -571,7 +567,6 @@ Electrons will spontaneously become massless if they collide with their antipart
 
 A basic split between shits and Johnsons has emerged. I see the world as a stage in which different actors are assigned to different roles. Of course any Johnson does do shitty things at times. But he knows enough to regret such actions. It is very rare that a hard core shit acts like a Johnson. He simply does not understand what it means to be a Johnson, and is irrevocably committed to a different viewpoint. A direct confrontation of the shits and the Johnsons could be as drastic as the conjunction of matter and antimatter: POOF! No reconciliation, no agreeing to disagree, is possible.
 
-## ![](_page_45_Figure_2.jpeg)
 
 11 years 3 months ago
 

@@ -25,7 +25,6 @@ The I. W. M. A. does not promise the poor of the earth any paradise, the doors o
 
 These methods are not secondary in their nature, something to be determined by circumstances only. The latter may decide the external forms of these methods, but not its character in itself. The methods of a movement always flow from its aims and principles. The one that considers political power as the necessary premise for the realization of socialism cannot but be drawn into the every-day political life of the state. But he who understands that the ultimate aim of socialism cannot be the conquest, but the elimination of all authority from the life of society, he must follow other roads in his struggle for daily bread and for every shred of liberty, since he knows that all rights attained are wrested in the struggle and not given as state charity. What is important for the worker is not the seizure of the state, but the seizure of the land and factories, building up a society in which there will be no exploitation, no oppression of man by man. This is the ultimate goal, this is the road followed by the I. W. M. A., an organization which does not serve a party or the state. It is not the instrument of a new
 
-## ![](_page_3_Figure_0.jpeg)
 
 AIT-IWA's founding congress twice interrupted by German police.https://cnt-ait.info/2022/12/09/ait-1922-police-en
 
