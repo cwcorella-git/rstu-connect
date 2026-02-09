@@ -1,11 +1,12 @@
 ---
-title: "A point of clarification"
+title: "The Coming Insurrection"
 author: "Invisible Committee"
 date: 2008
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
+  - insurrectionary
+  - anarchism
+  - france
 ---
 
 ## **THE COMING INSURRECTION**
