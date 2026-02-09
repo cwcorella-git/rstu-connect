@@ -1,10 +1,11 @@
 ---
-title: Swedish syndicalism – An outline of its ideology and practice
-author: "libcom.org"
+title: "Swedish syndicalism – An outline of its ideology and practice"
+author: "Rasmus Hästbacka"
 date: 2021
-category: contemporary-analysis
+category: labor
 tags:
   - syndicalism
+  - SAC
   - Sweden
 ---
 

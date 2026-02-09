@@ -1,9 +1,12 @@
 ---
-title: 'Slave Patrols: An Early Form of American Policing'
-date: 1865
-category: contemporary-analysis
+title: "Slave Patrols: An Early Form of American Policing"
+author: "National Law Enforcement Officers Memorial Fund"
+date: 2020
+category: abolition
 tags:
   - police
+  - slavery
+  - history
 ---
 
 | admin | |

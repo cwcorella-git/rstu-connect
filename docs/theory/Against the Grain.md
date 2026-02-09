@@ -1,11 +1,12 @@
 ---
-title: Against The Grain
-author: James C. Scott
-date: '2017'
-category: housing
+title: "Against the Grain: A Deep History of the Earliest States"
+author: "James C. Scott"
+date: 2017
+category: theory
 tags:
-  - housing
-  - tenants
+  - states
+  - history
+  - agriculture
 ---
 
 # **James C. Scott**

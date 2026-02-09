@@ -1,10 +1,12 @@
 ---
-title: "G. Ogo, Drica Dejerk"
-date: 1927
-category: "contemporary-analysis"
+title: "Soma: An Anarchist Play Therapy"
+author: "Roberto Freire"
+date: 2008
+category: theory
 tags:
-  - analysis
-  - current-events
+  - therapy
+  - anarchism
+  - Brazil
 ---
 
 ## **Soma**
