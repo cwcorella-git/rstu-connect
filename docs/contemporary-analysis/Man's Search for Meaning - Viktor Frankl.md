@@ -1,10 +1,12 @@
 ---
-title: Man's Search for Meaning Viktor E. Frankl
+title: "Man's Search for Meaning"
+author: "Viktor E. Frankl"
 date: 1946
-category: contemporary-analysis
+category: theory
 tags:
-  - analysis
-  - current-events
+  - psychology
+  - existentialism
+  - holocaust
 ---
 
 ## OAROLES, KUSHNER

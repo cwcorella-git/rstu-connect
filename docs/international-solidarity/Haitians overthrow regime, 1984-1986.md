@@ -1,11 +1,12 @@
 ---
-title: 'Haitians overthrow regime, 1984-1986'
+title: "Haitians overthrow regime, 1984-1986"
 author: "libcom.org"
 date: 1986
-category: technology-digital-justice
+category: international-solidarity
 tags:
-  - technology
-  - digital rights
+  - uprising
+  - haiti
+  - nonviolent-resistance
 ---
 
 Article on the two year long campaign of demonstrations and strikes that toppled the Dictatorship of Jean Claude "Baby Doc" Duvalier.
