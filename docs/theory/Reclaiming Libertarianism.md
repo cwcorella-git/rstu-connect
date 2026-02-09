@@ -1,0 +1,26 @@
+---
+title: Reclaiming Libertarianism
+author:
+category: theory
+tags:
+  - technology
+  - digital rights
+---
+
+## **Tags:** Anonymous, anarchism
+
+## An expression of what genuine libertarianism is
+
+The term libertarianism has been used to describe a range of philosophical and political approaches. These things may to some degree be positive and useful but may also be quite the opposite. While in essence the personal and political libertarianism of which I speak is quite simple to be broadly functional, it's application must frequently be fastidious and complex, however, to put it simply, for me libertarianism is a synthesis of the individual, their community and broader society committing to and understanding the value of developing the individual's unique characteristics alongside the common characteristics that most of us share. Following on from this is the understanding that the new ideas and perspectives the individual presents to us, may over time be broadly adopted and become part of our common characteristics and practices, thereby developing greater individual and societal sophistication, function and freedom.
+
+Libertarianism asserts that no person or institution is qualified or justified in coercively determining how any individual or community thinks or acts. This extends only to the point where direct harm is caused to others by the individual's or community's actions. This point can give rise to grey areas which will need to be addressed as libertarian approaches to society are established.
+
+While libertarian principles can be useful at least on a personal level, in almost any material conditions their full application and function would require an economic system based along communist, or at the very least, socialist principles. Material want degrades the individual's ability to function well in all aspects of their inner life. Further to this, lack of control of ones working life is in direct opposition to libertarian principles. Therefore communism, with its free distribution of goods and services and lack of any central authority or coercive hierarchies, if fully realised, should provide the most fertile soil in which libertarian principles can take root and begin to flourish.
+
+To truly pursue the development of ones' unique perspective and to insist absolutely on being free to think and act as one sees fit, the libertarian must first come to terms with their nature as a human animal. Humanity's development has been fuelled by our natural tendency and ability to work co-operatively. They must realise that for every person on the planet, survival is dependent on the material and social support of those close to them, their community and the larger body of people known as society and furthermore it must be understood that the development of the individual is almost always absolutely dependent on that support and equally important, the willingness of society and the individuals within it to at least allow and preferably encourage in the experimental process of recognising, developing and expressing their idiosyncrasies and unique (or not so unique) ideas. It is in this recognition that the beautiful and functional reciprocity of libertarianism is found. Knowing that ones' own freedom, ones' own ability to develop and express who and what they are is dependent on every other individual in society being afforded the exact same consideration, the libertarian is driven by self interest to facilitate the freedom of others.
+
+By this process, contrary to the so-called 'individualism' of capitalism, the individualism of libertarianism is actually a communal phenomenon. It brings forth the philosophical imperatives that will lead to the creation of truly horizontal organisations and institutions. The coming together of uniquely developing individuals in economic, social and artistic endeavours will greatly increase the pool of ideas, knowledge and approaches to any given problem or pursuit.
+
+Socially, a community made up of uniquely developed individuals will be a great source for those individuals. A greater diversity of ideas and practices will provide an environment in which problems and challenges have an abundance of possible solutions at hand. Essentially, the libertarianism here described, will be a unifying and galvanising force which encourages the individual to value their self for what they are, treat their self with the respect and admiration that they deserve and in the process facilitate others in doing the same. This will result in individuals valuing and appreciating themselves, but also in the valuing and appreciation of all by all. The development of such a culture will accelerate the development of increasingly free and fair systems of production, creativity and decision making.
+
+Libertarian individualism is the ultimate in collectivist philosophies and is the approach by which we will create a positive feedback loop of egalitarian individual and collective power!
