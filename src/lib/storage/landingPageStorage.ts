@@ -26,6 +26,7 @@ export interface LandingPageConfig {
 const PAGES_KEY = 'rstu_landing_pages'
 const ACTIVE_KEY = 'rstu_active_landing_page'
 const MIGRATION_KEY = 'rstu_landing_page_version'
+const DELETED_KEY = 'rstu_deleted_landing_pages'
 const CURRENT_VERSION = 8 // Bump when preset pages change
 
 let _uid = 0
@@ -2585,7 +2586,8 @@ export function getLandingPages(): LandingPageConfig[] {
     safeSetItem(MIGRATION_KEY, String(CURRENT_VERSION))
   }
 
-  // Ensure preset pages exist (restore if deleted)
+  // Ensure preset pages exist (restore if missing, but respect intentional deletions)
+  const deletedIds = safeGetJson<string[]>(DELETED_KEY, [])
   const presetPages = [
     { id: 'page-1', config: DEFAULT_PAGE_1 },
     { id: 'page-2', config: PRESET_PAGE_2 },
@@ -2603,6 +2605,8 @@ export function getLandingPages(): LandingPageConfig[] {
     { id: 'page-14', config: PRESET_PAGE_14 },
   ]
   presetPages.forEach(({ id, config }, idx) => {
+    // Skip pages that were intentionally deleted
+    if (deletedIds.includes(id)) return
     if (!stored.find(p => p.id === id)) {
       stored.splice(idx, 0, config)
       changed = true
@@ -2630,6 +2634,16 @@ export function saveLandingPage(config: LandingPageConfig): void {
 export function deleteLandingPage(id: string): void {
   const pages = getLandingPages().filter(p => p.id !== id)
   safeSetItem(PAGES_KEY, JSON.stringify(pages))
+
+  // Track intentionally deleted preset pages so they don't get restored
+  if (id.startsWith('page-')) {
+    const deletedIds = safeGetJson<string[]>(DELETED_KEY, [])
+    if (!deletedIds.includes(id)) {
+      deletedIds.push(id)
+      safeSetItem(DELETED_KEY, JSON.stringify(deletedIds))
+    }
+  }
+
   // Also remove from Supabase (fire-and-forget - table may not exist)
   if (supabase) {
     void supabase.from('landing_pages').delete().eq('id', id)
