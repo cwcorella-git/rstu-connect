@@ -1,11 +1,11 @@
 ---
-title: Reno-Sparks Tenant Union Presentation.pptx
-author: Shelterforce
-date: '2017'
+title: "Reno-Sparks Tenants Union Town Hall Presentation"
+author: "Reno-Sparks Tenants Union"
+date: 2022
 category: housing
 tags:
+  - RSTU
   - tenants
-  - unions
   - Nevada
 ---
 

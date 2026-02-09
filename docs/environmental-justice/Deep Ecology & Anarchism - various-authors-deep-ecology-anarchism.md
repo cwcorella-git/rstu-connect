@@ -1,11 +1,12 @@
 ---
-title: Deep Eology & Anarcism
-author: "Murray Bookchin"
+title: "Deep Ecology & Anarchism: A Polemic"
+author: "Various Authors (Bookchin, Morris, Purchase, et al.)"
 date: 1989
 category: environmental-justice
 tags:
   - anarchism
-  - environment
+  - ecology
+  - Bookchin
 ---
 
 ## A Polemi

@@ -1,11 +1,12 @@
 ---
-title: SUPPORT US
+title: "Opiate Imperialism: The U.S. Drug Industry, Past and Present"
 author: "Sohel Sarkar"
-date: 2016
-category: theory
+date: 2023
+category: international-solidarity
 tags:
-  - anti-war
-  - peace
+  - imperialism
+  - opioids
+  - colonialism
 ---
 
 
