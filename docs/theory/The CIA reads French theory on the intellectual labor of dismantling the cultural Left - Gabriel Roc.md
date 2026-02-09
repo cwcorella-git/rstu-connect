@@ -1,11 +1,12 @@
 ---
-title: "The CIA reads French theory: on the intellectual labor of dismantling the cultural Left - Gabri"
-author: "libcom.org"
-date: 1967
-category: arts-culture-music
+title: "The CIA reads French theory: on the intellectual labor of dismantling the cultural Left"
+author: "Gabriel Rockhill"
+date: 2017
+category: theory
 tags:
-  - labor
-  - France
+  - CIA
+  - Cold War
+  - Foucault
 ---
 
 Notwithstanding its limitations, an interesting historical look at the state's utilisation of academia and the cultural sphere in the struggle to discredit Marxism. First published 28/02/17 in 'The Philosophical Salon' of the 'LA Review of Books'.

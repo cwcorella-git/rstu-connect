@@ -1,9 +1,12 @@
 ---
-title: "We live in a society."
-category: "contemporary-analysis"
+title: "How to Destroy A Movement"
+author: "Saint Andrew (Video Essay)"
+date: 2020
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - COINTELPRO
+  - tactics
+  - repression
 ---
 
 0:00

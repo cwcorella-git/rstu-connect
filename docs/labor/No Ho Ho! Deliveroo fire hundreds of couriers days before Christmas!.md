@@ -1,12 +1,12 @@
 ---
-title: No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!
-author: "Industrial Workers of the World"
-category: contemporary-analysis
+title: "No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!"
+author: "IWW Couriers Network"
+date: 2018
+category: labor
 tags:
   - gig economy
-  - labor
-  - unions
-  - workers
+  - Deliveroo
+  - strikes
 ---
 
 The IWW Couriers Network condemns Deliveroo's recent spate of mass terminations in cities across the UK leaving at least 100 couriers without work before Christmas.

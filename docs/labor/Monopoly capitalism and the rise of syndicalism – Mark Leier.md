@@ -1,11 +1,12 @@
 ---
-title: Monopoly capitalism and the rise of syndicalism
-author: Mark Leier
-date: 1904
-category: contemporary-analysis
+title: "Monopoly capitalism and the rise of syndicalism"
+author: "Mark Leier"
+date: 1990
+category: labor
 tags:
   - syndicalism
-  - capitalism
+  - IWW
+  - history
 ---
 
 ## Leier, revolutionary unionism

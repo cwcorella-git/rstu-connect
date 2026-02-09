@@ -1,11 +1,12 @@
 ---
 title: "From Republicanism to Anarchism: The making of an anarchist in Portlaoise prison"
-author: Workers Solidarity Movement
-date: '2010'
-category: theory
+author: "Workers Solidarity Movement"
+date: 2010
+category: abolition
 tags:
-  - anarchism
   - prisons
+  - Ireland
+  - anarchism
 ---
 
 Irish anarchist Joe C describes his political journey and prison experiences. This article was first published by the Workers Solidarity Movement.
