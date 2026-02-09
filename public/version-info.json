@@ -1,8 +1,8 @@
 {
-  "commit": "46ce0eba",
-  "message": "Add 6 new landing page presets for diverse rhetorical framings",
+  "commit": "b2ef200a",
+  "message": "Fix landing page deletion being undone by restore logic",
   "author": "cwcorella-git",
-  "date": "2026-02-07 23:49:00 -0800",
+  "date": "2026-02-09 00:24:44 -0800",
   "branch": "main",
-  "buildTime": "2026-02-08T08:03:46.378Z"
+  "buildTime": "2026-02-09T09:11:52.547Z"
 }
